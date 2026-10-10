@@ -1,0 +1,15 @@
+{
+  "slug": "2020-01-01-cipesa-state-of-internet-freedom-burundi-2019",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Burundi Backbone System (BBS)",
+      "country_label": "Burundi Backbone System (BBS)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "National fibre backbone from which most Burundian internet service providers get their bandwidth, with 1,250 km of fibre laid; no local government office is said to be on it"
+    }
+  ],
+  "note": "Internet freedom study to 2019: the term hits are a footnoted news headline naming Mutimbuzi and Kabezi communes; the national backbone is a backbone-class system with no local government office placed on it, so it gives no fact. Nothing on a commune office's connection."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-13-ethiopia-launches-dhis2-for-education",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2 for Education (DHIS2-Ed)",
+      "country_label": "national EMIS enterprise application",
+      "class": "application",
+      "platform": "DHIS2-Ed, open source, on the DHIS2 platform",
+      "owner": "Ministry of Education and Regional Education Bureaus, with technical assistance from UNICEF, the HISP Centre (University of Oslo) and HISP Ethiopia",
+      "tiers": "the project works with schools, woreda education offices and zonal education departments in the SER, SWEPR, Oromia and Benishangul-Gumuz regions, from November 2025"
+    }
+  ],
+  "note": "The article states an aim to put the ministry's education information system to work at woreda education offices in four regions; it does not say any woreda office is connected or works in the system online, and gives no count of offices."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-05-addis-ababa-launches-integrated-digital-civil-service-system",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Addis Ababa's mayor launched the Integrated Civil Registration and Residency Service Technology on 5 December 2025, joining vital events registration to residency identification, and said full implementation would commence in 50 woredas of the city from 8 December 2025; no connection of the woreda offices is described.", "as_of": "2025-12-08", "date_precision": "day", "system": "Integrated Civil Registration and Residency Service Technology", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "A shared civil registration and residency system for Addis Ababa was launched on 5 December 2025, with implementation in 50 of the city's woredas announced to start on 8 December 2025, on the mayor's account.", "as_of": "2025-12-05", "date_precision": "day", "system": "Integrated Civil Registration and Residency Service Technology", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The system was launched by the Addis Ababa city administration for its Civil Registration and Residency Service Agency and was developed by the state's Ethiopian Artificial Intelligence Institute (December 2025); who pays for it is not stated.", "as_of": "2025-12-05", "date_precision": "day", "system": "Integrated Civil Registration and Residency Service Technology", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Integrated Civil Registration and Residency Service Technology", "country_label": "Integrated Civil Registration and Residency Service Technology", "class": "application", "platform": "developed by the Ethiopian Artificial Intelligence Institute; resident-facing smartphone app", "owner": "Addis Ababa Civil Registration and Residency Service Agency (city administration)", "tiers": "Addis Ababa: implementation in 50 woredas announced from 8 December 2025"}
+  ],
+  "note": "Parent to check: the three facts rest on the study's working-online rule (the city's woredas working in one shared system); the document itself describes an application and its announced rollout, capital city only, and states no connection. If read as an application alone, the facts fall and the systems entry stands."
+}

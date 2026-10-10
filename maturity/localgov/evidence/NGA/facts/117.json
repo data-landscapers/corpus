@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-nsr-coverage-across-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria Social Register (National Social Register)", "country_label": "NSR", "class": "central", "platform": "", "owner": "NASSCO, under the National Social Investment Programme Agency", "tiers": "36 states and the FCT; 774 local government areas 'engaged' as units of coverage"}
+  ],
+  "note": "A coverage page for the national social register, counting households by local government area; the areas are units of coverage, and nothing is stated about local government offices or their connection."
+}

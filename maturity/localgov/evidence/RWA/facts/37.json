@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Kigali CCTV surveillance network and command centre", "country_label": "CCTV command center", "class": "city-systems", "platform": "Huawei Technologies", "owner": "Rwanda National Police", "tiers": "City of Kigali"},
+    {"system": "LoRaWAN network", "country_label": "LoRaWAN network", "class": "city-systems", "platform": "Inmarsat with Actility", "owner": "", "tiers": "City of Kigali, city-wide, deployed 2017"},
+    {"system": "Smart waste bins with fill-level sensors", "country_label": "", "class": "city-systems", "platform": "", "owner": "", "tiers": "City of Kigali"},
+    {"system": "Tap&Go", "country_label": "Tap&Go", "class": "city-systems", "platform": "AC Group", "owner": "AC Group Ltd", "tiers": "Kigali public transport"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "web", "platform": "", "owner": "RwandaOnline Platform Ltd (Irembo)", "tiers": "national e-government services portal, described under Kigali"}
+  ],
+  "note": "A comparison of twelve cities' smart-city systems; for Kigali it names surveillance, transport, waste and the national services portal, and states nothing about the connection of any local government office."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SWAZI-NET",
+      "country_label": "SWAZI-NET",
+      "class": "backbone",
+      "platform": "government connectivity, described as unstable; 15 of 22 ministries on 1 Mbps or less",
+      "owner": "not stated",
+      "tiers": "government ministries; no local government office named"
+    },
+    {
+      "system": "Royal Science and Technology Park hosting, maintenance and system development",
+      "country_label": "RSTP",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Royal Science and Technology Park (RSTP)",
+      "tiers": "government ministries, near-universal reliance; no local government office named"
+    },
+    {
+      "system": "Ministry of Finance IBM mainframe systems",
+      "country_label": "IBM mainframe infrastructure",
+      "class": "central",
+      "platform": "IBM mainframe, several systems on end-of-life software",
+      "owner": "Ministry of Finance",
+      "tiers": "central"
+    },
+    {
+      "system": "Health Information Exchange",
+      "country_label": "Health Information Exchange",
+      "class": "central",
+      "platform": "HL7/FHIR integration",
+      "owner": "Ministry of Health",
+      "tiers": "central"
+    }
+  ],
+  "note": "The Digital Landscape Assessment Report, received by the Ministry of ICT on 21 May 2026, assessed central ministries only (21 or 22 of them, the Ministry of Tinkhundla Administration and Development and the Ministry of Housing and Urban Development among those with no backups). It states nothing about town or municipal councils or Tinkhundla offices."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-01-nigerias-digital-independence-drive-gains-momentum-as-ai-dat",
+  "facts": [],
+  "systems": [
+    {"system": "Project Bridge", "country_label": "Project Bridge", "class": "backbone", "platform": "", "owner": "Federal Government", "tiers": "a proposed 90,000 km fibre-optic network, expected to extend connectivity across states, local government areas and wards; no local government office named"},
+    {"system": "Lagos State fibre-optic network", "country_label": "", "class": "upper-tier", "platform": "", "owner": "Lagos State Government", "tiers": "state level; more than 3,000 km laid between 2019 and 2025, with investors said to have committed to 30,000 km of ducts"}
+  ],
+  "note": "On digital sovereignty at GITEX Nigeria 2026; the planned federal fibre is said to extend across local government areas and wards, which is network reach and names no local government office, and the 774 local government areas otherwise appear only as the reach of a skills programme."
+}

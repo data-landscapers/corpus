@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-20-motshegwa-medicine-shortage-rural-health-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Village connectivity programme", "country_label": "village connectivity programme", "class": "", "platform": "", "owner": "", "tiers": "223 clinics connected by November 2025, 60 more targeted in the current phase and 283 expected online by the end of the financial year, as the Minister of Local Government and Traditional Affairs told Parliament; clinics, not council offices"}
+  ],
+  "note": "The connection figures are for health clinics, reported by the local government minister; the document does not say any council office is connected, so no fact is taken. The typology has no class for a connection to a facility that is not the local government's own office; class left empty for the parent."
+}

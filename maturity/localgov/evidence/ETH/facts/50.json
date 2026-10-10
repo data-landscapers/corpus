@@ -1,0 +1,15 @@
+{
+  "slug": "2023-06-07 Barriers, facilitators and motivators of electronic community health information system use among health workers in Ethiopia",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems",
+     "fact": "In 54 interviews across six regions in May 2022, woreda health officials and health information technicians said they use eCHIS and its dashboards to monitor health extension workers' daily activity remotely and to run performance review meetings; the data sit on a central Ministry of Health server.",
+     "as_of": "2022-05", "date_precision": "month", "system": "eCHIS dashboards at woreda health offices", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "internet",
+     "fact": "The study reports that some health extension workers had to travel to woreda health offices, hotels or Wi-Fi hotspot areas to get connectivity to sync their data, in interviews of May 2022; it does not say who provides the woreda health offices' connection or how many have one.",
+     "as_of": "2022-05", "date_precision": "month", "system": "connectivity at woreda health offices", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "electronic community health information system (eCHIS)", "country_label": "eCHIS", "class": "application", "platform": "mobile application working offline, syncing to a central server", "owner": "Ministry of Health, with development partners", "tiers": "more than 7,000 health posts for releases 1 and 2; dashboards used by health centres and woreda health offices"}
+  ],
+  "note": "The connection facts concern woreda health offices, a sector office of the woreda, not the woreda administration's own seat; health posts' SIM cards and airtime are not a local government office connection."
+}

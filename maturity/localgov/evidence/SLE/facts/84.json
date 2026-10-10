@@ -1,0 +1,8 @@
+{
+  "slug": "2022-06-01-sierra-leone-mbsse-2021-annual-school-census-final-report",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census digital platform", "country_label": "Annual School Census (ASC) data collection, EMIS", "class": "central", "platform": "SurveyCTO on Android tablets", "owner": "Ministry of Basic and Senior Secondary Education, EMIS department of the Directorate for Planning and Policy", "tiers": "District Education Offices, where District IT Officers entered schools' paper questionnaires and uploaded them to the server; all 16 districts, reported by 22 local councils"}
+  ],
+  "note": "School census report: local councils appear as units of tabulation (22 local councils), as owners of some government schools and as thanked for a role in data collection. The data entry it describes is at the ministry's District Education Offices, not council offices; nothing on any council office's connection. Capture is an excerpt."
+}

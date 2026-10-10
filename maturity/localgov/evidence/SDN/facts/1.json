@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-06-sdn-akhbaralsudan-khartoum-state-six-mous-fibre-cloud",
+  "facts": [],
+  "systems": [
+    {"system": "government fibre and internet network of Khartoum State", "country_label": "شبكة الفايبر والإنترنت الحكومي المستدام", "class": "upper-tier", "platform": "", "owner": "Khartoum State government", "tiers": "36 state units including the state presidency"},
+    {"system": "Khartoum State standard systems and cloud data store", "country_label": "الأنظمة القياسية; السحابة الإلكترونية (iCloud)", "class": "upper-tier", "platform": "iCloud, as the document names it", "owner": "Khartoum State government", "tiers": "state"}
+  ],
+  "note": "The fibre and government internet service is connected to 36 units of Khartoum State, the upper tier, at a launch reported 2026-10-06; no locality (basic-tier) office is said to be on it."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Tunis CCTV surveillance and licence-plate recognition",
+      "country_label": "",
+      "class": "city-systems",
+      "platform": "",
+      "owner": "Not stated; data access listed as police, intelligence services and municipal authorities",
+      "tiers": "Tunis; deployment rated 'extensive' in the piece's table"
+    },
+    {
+      "system": "Smart waste collection, fill-level sensors (La Marsa pilot)",
+      "country_label": "",
+      "class": "city-systems",
+      "platform": "",
+      "owner": "La Marsa Municipality (named among key entities)",
+      "tiers": "La Marsa, pilot"
+    },
+    {
+      "system": "LoRaWAN network",
+      "country_label": "",
+      "class": "city-systems",
+      "platform": "LoRaWAN; NB-IoT via mobile operators",
+      "owner": "",
+      "tiers": "Tunis"
+    },
+    {
+      "system": "e-People platform",
+      "country_label": "e-People platform (updated July 2025)",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "Citizen engagement and complaints; tier not stated"
+    }
+  ],
+  "note": "An AI-written smart-city comparison by its own account; the Tunis column lists cameras, sensors and citizen platforms, and states nothing about municipal offices' connection."
+}

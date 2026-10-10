@@ -1,0 +1,62 @@
+{
+  "slug": "2025-10-10-digital-transformation-electronic-municipalities-algeria",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The study states that the National Automated Civil Status Register connects all municipalities, their administrative annexes and consular offices abroad, and that civil status documents are issued from any municipality whatever the citizen's place of birth or residence; it gives no date for this, so the publication date is used.",
+      "as_of": "2025-10-10",
+      "date_precision": "day",
+      "system": "National Automated Civil Status Register (NACSR)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "The study says the National Automated Civil Status Register connects 'all municipalities' and their annexes, with no count of municipalities, no denominator and no source for the statement; undated, so the publication date is used.",
+      "as_of": "2025-10-10",
+      "date_precision": "day",
+      "system": "National Automated Civil Status Register (NACSR)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The study states that the National Automated Civil Status Register, which links the municipalities, was established under Law 14-08 of 9 August 2014 and is supervised by the Ministry of the Interior and Local Assemblies; the supervision is stated as current at publication, the date used.",
+      "as_of": "2025-10-10",
+      "date_precision": "day",
+      "system": "National Automated Civil Status Register (NACSR)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Automated Civil Status Register (NACSR)",
+      "country_label": "Registre national automatisé de l'état civil (RNVA in the study's introduction, NACSR elsewhere)",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of the Interior and Local Assemblies",
+      "tiers": "all municipalities, their administrative annexes, consular offices abroad, and other institutions such as the Ministry of Justice"
+    },
+    {
+      "system": "Municipal websites and portals",
+      "country_label": "electronic municipality portals",
+      "class": "web",
+      "platform": "",
+      "owner": "municipalities",
+      "tiers": "municipalities; the study says about 82% of municipalities have no functioning website"
+    },
+    {
+      "system": "Electronic Biometric Documents Desk",
+      "country_label": "electronic desk for biometric documents",
+      "class": "web",
+      "platform": "",
+      "owner": "Ministry of the Interior and Local Authorities",
+      "tiers": "national, on the ministry's website: online application and tracking for the biometric identity card, driving licence and passport"
+    }
+  ],
+  "note": "The study also finds, undated and without figures, that the e-municipality is held back by an incomplete rollout of high-speed internet infrastructure; no aspect value fits it. It does not say how municipal offices are connected or who pays, so no `connected` fact. The 82% without a website is the web class and gives no fact."
+}

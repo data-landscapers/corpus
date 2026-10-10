@@ -1,0 +1,12 @@
+{
+  "slug": "2022-11-01-dgct-midec-rapport-capacites-institutionnelles-communes-mdp",
+  "facts": [],
+  "systems": [
+    {"system": "SIGeL", "country_label": "SIGeL (système intégré de gestion des finances locales)", "class": "application", "platform": "", "owner": "DGCT (MIDEC), with the Ministry of Finance", "tiers": "communes; integrates Elbeledi and Alhazen; a joint circular published 6 May 2022 bars any financial operation outside it"},
+    {"system": "Elbeledi", "country_label": "ELbeledi", "class": "application", "platform": "", "owner": "DGCT (MIDEC)", "tiers": "authorising officers of the budgets of collectivités territoriales"},
+    {"system": "Alhazen", "country_label": "Alhazen", "class": "application", "platform": "", "owner": "DGCT (MIDEC)", "tiers": "wilaya treasurers and municipal receivers"},
+    {"system": "El Mouhassil", "country_label": "El Mouhassil", "class": "application", "platform": "", "owner": "DGCT (MIDEC)", "tiers": "communes: mobilising, tracking and collecting the communal tax"},
+    {"system": "Kachel", "country_label": "Kachel", "class": "application", "platform": "", "owner": "DGCT (MIDEC)", "tiers": "communes: independent modules for acts and administration, communal assets, human resources, mail and archiving"}
+  ],
+  "note": "The DGCT's 2021 survey of all 219 communes names five financial and administrative applications made available to 'many communes' with German, French and World Bank support, but states no connection at any commune office, no count of communes using them and not where the systems are held; the body is truncated at the executive summary."
+}

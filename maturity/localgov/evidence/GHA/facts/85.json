@@ -1,0 +1,15 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Center and private government cloud",
+      "country_label": "National Data Center; private government cloud",
+      "class": "backbone",
+      "platform": "",
+      "owner": "National Information Technology Agency (NITA)",
+      "tiers": "Hosting offered to all government entities and the private sector; no local government named as a user"
+    }
+  ],
+  "note": "A regional World Bank brief. For Ghana it covers the procurement system, NITA's data centre and cloud and the draft digital economy policy; its mentions of local government and municipal councils concern Cabo Verde and the region in general, not Ghana."
+}

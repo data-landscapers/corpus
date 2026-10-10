@@ -1,0 +1,15 @@
+{
+  "slug": "2019-09-01-digital-government-strategy-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "backbone", "platform": "", "owner": "Department of E-Government", "tiers": "government network with a data centre and network operations centre; the strategy recommends four network operating centres (Lilongwe, Blantyre, Zomba, Mzuzu), mapping of all government buildings in regional and district centres and last-mile connectivity by fibre and wireless to all government institutions; no council office is said to be on it"},
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "central", "platform": "", "owner": "not stated", "tiers": "a critical application of ministries, departments and agencies, on old servers and unreliable networks"},
+    {"system": "Human Resource Management Information System (HRMIS)", "country_label": "HRMIS", "class": "central", "platform": "", "owner": "not stated", "tiers": "a critical application of ministries, departments and agencies, on old servers and unreliable networks"},
+    {"system": "Common website framework", "country_label": "common framework for developing websites for MDAs and Local Government authorities", "class": "web", "platform": "open-source platform, recommended", "owner": "Department of E-Government", "tiers": "recommended, for ministries, departments, agencies and local government authorities"},
+    {"system": "ICT Common Service", "country_label": "ICT Common Service", "class": "capacity", "platform": "", "owner": "Department of E-Government", "tiers": "ICT personnel deputed to ministries, departments, agencies, public organisations and district councils; technical training for them budgeted at US$800,000"},
+    {"system": "District Health Information System (DHIS)", "country_label": "DHIS", "class": "", "platform": "", "owner": "", "tiers": "named in the glossary only"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "", "tiers": "named in the glossary only"},
+    {"system": "Electronic Government Procurement (EGP)", "country_label": "EGP", "class": "", "platform": "", "owner": "", "tiers": "named in the glossary only"}
+  ],
+  "note": "No fact: the passages (September 2019) say the lack of last-mile connectivity keeps the district and regional offices of ministries, departments and agencies on paper workflows and that internet is unreliable outside large cities, which is the central class, not councils; district councils are named only for ICT Common Service staff and their training."
+}

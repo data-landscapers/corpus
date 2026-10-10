@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-25-zaf-itweb-budget-2026-sa-connect-phase-two-ends",
+  "facts": [],
+  "systems": [
+    {"system": "SA Connect", "country_label": "South Africa Connect", "class": "backbone", "platform": "broadband to government facilities and community Wi-Fi hotspots", "owner": "Department of Communications and Digital Technologies, with state-owned entities; R3 billion for phase two and R888.8 million over the medium term for maintenance", "tiers": "phase one: about 970 government facilities (schools, health facilities, government offices, Thusong Service Centres, post offices) in eight rural district municipalities, 948 kept connected annually; phase two: 6,343 government facilities and 32,055 hotspots covering an estimated 5.6 million households"}
+  ],
+  "note": "News quoting the 2026 Budget Review on SA Connect: the facilities connected are schools, health facilities, government offices, service centres and post offices located in eight rural district municipalities, and none is said to be a municipal office, so no connection of a local government office is stated."
+}

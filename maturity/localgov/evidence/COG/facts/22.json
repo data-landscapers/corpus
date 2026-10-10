@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-12-cog-atelier-pdrcl-acsi-mfbpp",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme de dématérialisation des recettes des collectivités locales (PDRCL)", "country_label": "PDRCL", "class": "application", "platform": "built in house by ACSI", "owner": "Agence congolaise des systèmes d'information (ACSI), under the Ministère des finances, du budget et du portefeuille public", "tiers": "a back-office module for local authorities' agents, a 'Zando collecte' module for controllers on municipal markets and a web and mobile module for taxpayers; at final validation, 12 to 14 February 2026"}
+  ],
+  "note": "The opening of the validation workshop for the local-authority revenue platform; it describes an application under validation and states nothing on the connection of any local government office."
+}

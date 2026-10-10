@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-27-cabo-verde-forum-ogp-governacao-aberta-iii-plano-de-acao",
+  "facts": [],
+  "systems": [
+    {"system": "Portal da Transparência", "country_label": "Portal da Transparência", "class": "central", "platform": "", "owner": "Government of Cabo Verde", "tiers": "National public portal of budget, revenue, contract and spending data; the minister says it shows what the Câmara Municipal da Praia received"},
+    {"system": "GOV.CV", "country_label": "Portal Único dos Serviços Digitais do Estado GOV.CV", "class": "central", "platform": "", "owner": "Government of Cabo Verde", "tiers": "National"}
+  ],
+  "note": "Government report of the open-government forum meeting of 26 February 2026. The one municipal mention is that the central transparency portal publishes the transfers received by Praia's council; nothing on any local government office's connection."
+}

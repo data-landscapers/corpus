@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-17-nigeria-national-digital-cloud-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE: Building Resilient Digital Infrastructure for Growth; 90,000 km National Fibre Optic Backbone Project", "class": "backbone", "platform": "", "owner": "Federal Government through a special purpose vehicle in which it holds 25 to 49 per cent", "tiers": "seven regional backbone rings across the six geopolitical zones and Lagos; 37 metropolitan networks said to connect all 774 local government areas; wholesale open-access to internet service providers"},
+    {"system": "Galaxy Backbone government cloud and shared services", "country_label": "Galaxy Backbone Limited (GBB); National Digital Marketplace", "class": "backbone", "platform": "", "owner": "Galaxy Backbone Limited, a state-owned enterprise; NITDA as regulator", "tiers": "Federal ministries, departments and agencies bound; States, the Federal Capital Territory and Local Governments may take part voluntarily under Part 10.5"}
+  ],
+  "note": "A cloud policy: the planned fibre backbone is said to reach all 774 local government areas through metropolitan networks and local governments may opt in to federal cloud arrangements, but no local government office is said to be connected."
+}

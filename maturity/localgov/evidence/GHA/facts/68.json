@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-01-west-africa-data-center-markets-brief",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana GovNet", "country_label": "GovNet", "class": "backbone", "platform": "", "owner": "Government of Ghana", "tiers": "A high-speed eGovernment network connecting 951 public institutions, under expansion; the institutions are not broken down and no local government office is said to be on it"},
+    {"system": "Government data centre facility", "country_label": "", "class": "backbone", "platform": "", "owner": "National Information Technology Agency (NITA)", "tiers": "National; a colocation facility managed by the state IT agency"},
+    {"system": "Ghana.gov portal", "country_label": "Ghana.gov", "class": "central", "platform": "", "owner": "Government of Ghana", "tiers": "National; centralises access to government services"}
+  ],
+  "note": "A regional data-centre market brief (May 2025); it states that GovNet connects 951 public institutions without saying any is a local government office, so the network is a backbone entry and gives no fact."
+}

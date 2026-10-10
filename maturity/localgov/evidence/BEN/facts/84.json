@@ -1,0 +1,64 @@
+{
+  "slug": "2021-10-05-numerique-gouv-bj-assi-prscg-formation",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "The digital ministry's portal states that the PRSCG programme aims to put in place a national network interconnecting 187 public-finance offices together with ministries, agencies, prefectures and town halls (mairies), and that most of the programme's infrastructure is already operational; dated to the article, 5 October 2021.",
+      "as_of": "2021-10-05",
+      "date_precision": "day",
+      "system": "réseau national (PRSCG)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "The digital ministry's portal names town halls (mairies) among the offices the PRSCG national network interconnects but gives no number of them, against a stated 187 public-finance offices; dated to the article, 5 October 2021.",
+      "as_of": "2021-10-05",
+      "date_precision": "day",
+      "system": "réseau national (PRSCG)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The PRSCG is described as developed by the government of Benin, with its training run by the state agency ASSI under the supervision of the Ministry of Digital Affairs and Digitalisation, from 2 August to 17 September 2021.",
+      "as_of": "2021-09",
+      "date_precision": "month",
+      "system": "réseau national (PRSCG)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The PRSCG is said to be developed by the government with the support of German technical cooperation; no budget line or amount is given; dated to the article, 5 October 2021.",
+      "as_of": "2021-10-05",
+      "date_precision": "day",
+      "system": "réseau national (PRSCG)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "réseau national (PRSCG)",
+      "country_label": "réseau national du Programme de Renforcement des Structures Centrales de Gouvernance (PRSCG)",
+      "class": "connection",
+      "platform": "",
+      "owner": "Government of Benin; ASSI (Agence des Services et Systèmes d'Information) under the Ministère du Numérique et de la Digitalisation, with German technical cooperation support",
+      "tiers": "Interconnects 187 public-finance offices (régies), ministries, agencies, prefectures and town halls (mairies)"
+    },
+    {
+      "system": "datacenter national (PRSCG)",
+      "country_label": "datacenter national",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government of Benin; ASSI",
+      "tiers": "National; recently completed as of October 2021"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2022-09-01-worldbank-missing-broadband-links-horn-of-africa",
+  "facts": [],
+  "systems": [
+    {"system": "East Africa Submarine System (EASSy)", "country_label": "EASSy", "class": "backbone", "platform": "submarine cable", "owner": "", "tiers": "landing point at Moroni"},
+    {"system": "2Africa", "country_label": "2Africa", "class": "backbone", "platform": "submarine cable", "owner": "", "tiers": "Comoros listed as a landing country, landing point not given"}
+  ],
+  "note": "Comoros appears only in map labels, a fixed-broadband chart and two submarine cables' landing lists; nothing on local government."
+}

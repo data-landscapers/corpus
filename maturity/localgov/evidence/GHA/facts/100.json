@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-gha-myjoyonline-knust-epa-national-air-quality-data-hub",
+  "facts": [],
+  "systems": [
+    {"system": "Air Quality Data Hub", "country_label": "national Air Quality Data Hub", "class": "central", "platform": "PostgreSQL/PostGIS", "owner": "KNUST CDAI Lab as technical lead, with Delectis; Environmental Protection Authority to take ownership", "tiers": "national; a physical hub with fibre connectivity at the EPA; the 2025 regulation provides for district assemblies' air quality data to feed national databases"}
+  ],
+  "note": "A national agency's data platform under test: district assemblies appear only as a source of air quality data under the 2025 regulation; the fibre connection stated is at the EPA, not at an assembly office."
+}

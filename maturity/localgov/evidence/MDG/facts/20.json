@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-01-rapport-audit-mndpt-cour-des-comptes",
+  "facts": [],
+  "systems": [
+    {"system": "e-Fokontany", "country_label": "e-Fokontany; carnet « Karinempokontany »", "class": "application", "platform": "household booklets carrying a QR code", "owner": "Ministère du Développement Numérique, de la Transformation Digitale, des Postes et des Télécommunications (MNDPT)", "tiers": "fokontany, below the commune; 5,882,085 booklets printed and distributed to districts by 9 September 2025 against 5,817,968 households; not yet fully functional per the Cour des comptes"},
+    {"system": "Smart Villages", "country_label": "Smart Villages (SV)", "class": "", "platform": "", "owner": "MNDPT", "tiers": "named as a project examined; not described in the captured text"}
+  ],
+  "note": "An audit of the digital ministry at central level (capture truncated); e-fokontany is a household registry for fokontany administration, and nothing is stated about commune offices' connection."
+}

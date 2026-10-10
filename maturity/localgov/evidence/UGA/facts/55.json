@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 for Education / School Report Card", "country_label": "School Report Card (SRC) integrated with DHIS2 for Education; DHIS2-DEMIS pilot", "class": "application", "platform": "DHIS2", "owner": "implemented by HISP Uganda under the KIX-SEEDS project (GPE KIX, coordinated by APHRC)", "tiers": "schools and district education staff, with offline Android data capture"}
+  ],
+  "note": "An issue brief on education data systems in three countries: for Uganda it states unstable internet at schools and limited training of district staff, and nothing on the connection of a local government office."
+}

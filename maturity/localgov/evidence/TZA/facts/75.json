@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-11-government-budget-speech-2026-27",
+  "facts": [],
+  "systems": [
+    {"system": "TAUSI system", "country_label": "TAUSI", "class": "application", "platform": "", "owner": "Prime Minister's Office - Regional Administration and Local Government (PMO-RALG)", "tiers": "Local Government Authorities' business licences and levies; traders apply for a business licence on it; a module is to be added for street and village executives to register traders, and another for building-based taxes and levies (measures for 2026/27)"},
+    {"system": "Integrated Domestic Revenue Administration System (IDRAS)", "country_label": "IDRAS", "class": "central", "platform": "", "owner": "Tanzania Revenue Authority (TRA)", "tiers": "national tax administration; to be integrated with TAUSI for direct data exchange"}
+  ],
+  "note": "The speech names TAUSI as the local government licence and levy system and sets integration measures for 2026/27, but states nothing about council offices' connection, how they reach the system or how many use it."
+}

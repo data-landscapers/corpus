@@ -1,0 +1,8 @@
+{
+  "slug": "2022-09-01-worldbank-missing-broadband-links-horn-of-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Optic Fibre Backbone Infrastructure (NOFBI)", "country_label": "NOFBI", "class": "backbone", "platform": "fibre optic backbone", "owner": "", "tiers": "northern Kenya, reaching the Somali border at Mandera and El Wak; no local government office is said to be on it"}
+  ],
+  "note": "The Kenya passages treat the country as a regional hub and a cross-border route for its neighbours; the national fibre backbone is named as a route only, and nothing is said of county offices."
+}

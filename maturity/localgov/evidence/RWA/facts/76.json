@@ -1,0 +1,23 @@
+{
+  "slug": "2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NCI-CRVS System",
+      "country_label": "NCI-CRVS System (web-based civil registration application, launched 2020)",
+      "class": "application",
+      "platform": "web-based application",
+      "owner": "developed by the National Institute of Statistics of Rwanda with the Ministry of Local Government, the Ministry of Health and the National Identification Agency",
+      "tiers": "as described here, births are entered at health facilities"
+    },
+    {
+      "system": "Irembo",
+      "country_label": "Irembo online portal",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "parents request the digital birth certificate"
+    }
+  ],
+  "note": "The article describes civil registration and immunisation data entry at health facilities; no local government office is said to use or be connected to either system."
+}

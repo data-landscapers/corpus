@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-gha-2024-011-01101-01101004",
+  "facts": [],
+  "systems": [
+    {
+      "system": "District Development Data Platform (DDDP)",
+      "country_label": "District Development Data Platform (DDDP)",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of Local Government, Decentralisation and Rural Development, Research, Statistics and Information Management directorate",
+      "tiers": "Run by the ministry's directorate; the District Performance Assessment Tool and other modules integrated in 2023; use at district offices not stated"
+    }
+  ],
+  "note": "A 2024 budget line of GHS 80,000 for the ministry's own information directorate: the data platform, the ministry's network, an e-library and its website. It states nothing about the connection of district assembly offices."
+}

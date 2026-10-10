@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-24-com-ungggim-cartographic-unit-status-report",
+  "facts": [],
+  "systems": [
+    {"system": "national geo-referenced database of the Cartographic Unit", "country_label": "Cartographic Unit", "class": "central", "platform": "", "owner": "Cartographic Unit, Ministry of Territorial Planning (approved by the Council of Government 19 March 2022)", "tiers": "national; a 14-theme database begun, piloted on eight themes; produces maps for the government, local authorities and partners"}
+  ],
+  "note": "A country report on geospatial data: local authorities are named only as users of the unit's maps; nothing on their offices' connection."
+}

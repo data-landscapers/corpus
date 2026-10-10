@@ -1,0 +1,15 @@
+{
+  "slug": "2025-02-21-mali-jo-2025-05-ordonnance-2025-009-ansaec-rnip",
+  "facts": [],
+  "systems": [
+    {
+      "system": "système intégré et sécurisé de gestion du répertoire national d'identification des Personnes",
+      "country_label": "répertoire national d'identification des Personnes",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence nationale de Sécurisation des Actes d'Etat civil (created by Ordonnance n°2025-009/PT-RM of 14 February 2025)",
+      "tiers": "Not stated; the ordinance defines authentication of a civil status act as done by a competent authority, generally a mairie or a civil status service"
+    }
+  ],
+  "note": "An ordinance creating a national agency: a law places nothing. The passages name the mairie only in the definition of authentication of civil status acts and say nothing of any mairie working in the system or being connected."
+}

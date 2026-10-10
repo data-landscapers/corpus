@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-systemes-information-etat-plateformes-presentees-deputes",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme de dématérialisation des recettes des collectivités locales (PDRCL)", "country_label": "PDRCL", "class": "application", "platform": "", "owner": "Agence congolaise des systèmes d'information (ACSI), under a mandate of the 2025 finance law", "tiers": "not stated"},
+    {"system": "Système intégré des faits d'état-civil (Sifec)", "country_label": "Sifec", "class": "application", "platform": "", "owner": "Agence congolaise des systèmes d'information (ACSI)", "tiers": "not stated; a national civil-status system with centralised data"}
+  ],
+  "note": "ACSI presented state platforms to the National Assembly's Ecofin committee; the local-revenue platform and the civil-status system are applications, and no local government office is said to be connected."
+}

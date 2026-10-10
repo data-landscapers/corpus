@@ -1,0 +1,9 @@
+{
+  "slug": "2023-11-01-profogmeps-quadro-de-gestao-ambiental-e-social-p178040",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Financeira do Estado (SIGFE)", "country_label": "SIGFE", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Sistema Nacional da Contratação Pública Electrónica (SNCPE)", "country_label": "SNCPE", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The held text is an excerpt cut off inside the executive summary: it covers the project's objectives, components and its 58 target municipalities in 8 provinces, names SIGFE and SNCPE only in the acronym list, and states nothing about municipal offices' connection. The municipal ICT baseline the file's own header note describes is not in the captured text. The file ends with a stray heading, 'Zaire instala antenas V/SAT nas comunas para…', with no text under it."
+}

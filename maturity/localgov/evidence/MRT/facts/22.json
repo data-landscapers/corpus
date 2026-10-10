@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-01-strategie-nationale-intelligence-artificielle-ar",
+  "facts": [],
+  "systems": [
+    {"system": "national fibre-optic backbone", "country_label": "العمود الفقري الوطني للألياف البصرية (backbone)", "class": "backbone", "platform": "", "owner": "Ministry of Digital Transformation, Innovation and Modernisation of the Administration", "tiers": "planned for 2025-2029: extend the backbone to link all capitals of wilayas, moughataas and communes, with loops, and connect villages and communes near it; a further objective to extend the connection of all communes to high and very high speed broadband, by the New-deal-Mobile coverage project and a 5G pilot; no commune office said to be on it"}
+  ],
+  "note": "The national AI strategy 2025-2029 (July 2024) names communes only as places the fibre backbone and mobile broadband are to reach (objectives 4.5.2 and 4.5.3 of its digital infrastructure pillar, taken from the 2022-2025 digital agenda); it is a plan for coverage of localities, states no connection of a commune's own office, and is noted as backbone with no fact."
+}

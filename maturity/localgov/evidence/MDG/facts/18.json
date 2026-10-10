@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The essay's Madagascar registry row says two-thirds of civil registration offices (municipalities and fokontany) lack stable internet, attributing it to the World Bank's account of PRODIGY's planned offline apps; no count is given and the document gives no date, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Internet at civil registration offices (municipalities/fokontany)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Internet at civil registration offices (municipalities/fokontany)", "country_label": "", "class": "connection", "platform": "", "owner": "", "tiers": "rural registry offices in municipalities and fokontany; two-thirds said to lack stable internet"},
+    {"system": "PRODIGY civil registration (hybrid analog-digital process with offline apps)", "country_label": "PRODIGY", "class": "application", "platform": "offline apps for civil registration offices", "owner": "World Bank PRODIGY project", "tiers": "design or pilot phase; 2023 Toamasina trial, urban focus"}
+  ],
+  "note": "An AI-assisted compilation by its own header, and on the study's exclude_sources list; the fact is recorded as the document states it. Its line that 8% of rural communes were connected pre-2010 concerns localities' electricity or internet, not offices, and is not taken."
+}

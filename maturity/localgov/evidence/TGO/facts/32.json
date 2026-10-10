@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-04-gpe-kix-study-tour-education-data-system",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE (Système d'Information pour la Gestion de l'Éducation)", "country_label": "SIGE", "class": "central", "platform": "DHIS2, added on top of CSPro with StatEduc for the annual school census", "owner": "Ministry of education, implemented with HISP West and Central Africa", "tiers": "National, regional and inspection levels of the education ministry; in use at regional level, with devices in short supply and training not refreshed at inspection level"}
+  ],
+  "note": "An education ministry information system used in the ministry's own regional and inspection offices, not in local governments; no local government office connection is stated."
+}

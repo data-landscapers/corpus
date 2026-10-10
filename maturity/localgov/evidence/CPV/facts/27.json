@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-10-cpv-bo-resolucao-46-2025-portal-unico-interoperabilidade",
+  "facts": [],
+  "systems": [
+    {"system": "Portal Único", "country_label": "Portal Único (gov.cv)", "class": "central", "platform": "Infraestrutura Pública Digital (IPD)", "owner": "Equipa de Serviço Digital, with NOSi technical support", "tiers": "direct and indirect state administration; local power (poder local) named only as a priority area for online services"},
+    {"system": "Casa do Cidadão", "country_label": "Casa do Cidadão", "class": "central", "platform": "", "owner": "supervised by the Equipa de Serviço Digital", "tiers": "in-person counters and call centre"}
+  ],
+  "note": "Council of Ministers resolution creating the national one-stop portal; names local power only as a priority service area and says nothing of any municipal office's connection."
+}

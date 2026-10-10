@@ -1,0 +1,13 @@
+{
+  "slug": "2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau Intégré de l'État (RIE)", "country_label": "RIE", "class": "backbone", "platform": "", "owner": "ANDE / SOGEB", "tiers": "the state's integrated network, to be reinforced (initiative 3.4.1); no commune office said to be on it"},
+    {"system": "Backbone national fibre optique", "country_label": "Backbone National", "class": "backbone", "platform": "", "owner": "SOGEB", "tiers": "national; extension by urban and rural spurs to all agglomerations planned (3.1.7)"},
+    {"system": "Réseau métropolitain de Conakry", "country_label": "réseau métropolitain (Conakry)", "class": "backbone", "platform": "", "owner": "", "tiers": "Conakry; metropolitan networks planned for regional and prefecture seats (3.1.5), and fibre links to administrative sites in towns (3.1.3)"},
+    {"system": "Data Center National Tier 3", "country_label": "Data Center National", "class": "backbone", "platform": "", "owner": "ANDE", "tiers": "national, planned (3.4.3)"},
+    {"system": "Centres de services au citoyen", "country_label": "centres de services au citoyen", "class": "central", "platform": "", "owner": "MATD / ANDE", "tiers": "planned (4.7.1); an indicator counts regions having one"},
+    {"system": "Système de gestion de l'État Civil", "country_label": "système de gestion de l'État Civil", "class": "application", "platform": "", "owner": "MSPC / MATD", "tiers": "improvement and extension planned (4.1.6); tiers not stated"}
+  ],
+  "note": "The 2023-2027 strategy (an excerpt, cut before its end) names local authorities only as stakeholders, as within ANDE's mandate and as leads of training and e-participation initiatives; it states no connection at any commune office and no initiative to connect communes. It counts 38 urban and 304 rural communes."
+}

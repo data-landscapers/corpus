@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-26-burkina-faso-digital-ministry-mid-year-performance",
+  "facts": [],
+  "systems": [
+    {"system": "nouveau réseau de l'administration publique", "country_label": "nouveau réseau de l'administration publique", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "architecture finalised and bids under evaluation at 30 June 2026; no tier or commune office named"},
+    {"system": "Une commune, une Maison du citoyen (Zama-tchèy)", "country_label": "Zama-tchèy", "class": "central", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "two pilot sites under construction at Ouagadougou and Kaya; architectural studies for Bobo-Dioulasso, eight other regional capitals and fifty rural communes"}
+  ],
+  "note": "No fact: the ministry's mid-year review of its 2026 objectives; the new administration network is at design and tender with no local government office named, and the Maisons du citoyen are the ministry's service centres."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-19-dgct-mali-atelier-validation-base-oise-pdesc",
+  "facts": [],
+  "systems": [
+    {"system": "Base OISE (Outil informatisé de suivi évaluation) with an integrated PDESC module and a new digital platform: collects information on the collectivités territoriales, namely sessions held, projects, training and development programmes", "country_label": "base OISE", "class": "application", "platform": "rebuilt by a consultant, SITAN informatique, under the Projet communautaire de Relèvement et de Stabilisation au Sahel (PCRSS)", "owner": "Direction générale des Collectivités territoriales (DGCT), Ministère de l'Administration territoriale et de la Décentralisation", "tiers": "data on the collectivités territoriales; who enters the data, and where, is not stated beyond a planned user and deputy"}
+  ],
+  "note": "A workshop of 2025-02-19 validating the rebuilt monitoring database on local governments, still before national validation and user training; the document does not say local government offices enter data in it or how they are connected."
+}

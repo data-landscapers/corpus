@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-12-sierra-leone-world-bank-ag4bsd-aide-memoire-government-service-bus",
+  "facts": [],
+  "systems": [
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "application", "platform": "", "owner": "Ministry of Finance, under the World Bank's Accountable Governance for Basic Service Delivery Project", "tiers": "not stated; named among systems with implementation challenges, September 2025"},
+    {"system": "Local Government Monitoring and Evaluation Management Information System (LOMEMIS)", "country_label": "LOMEMIS", "class": "application", "platform": "", "owner": "under the Accountable Governance for Basic Service Delivery Project", "tiers": "not stated; named among systems with implementation challenges, September 2025"},
+    {"system": "electronic government procurement (e-GP) system", "country_label": "e-GP", "class": "central", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "A World Bank mission aide-memoire of 6-12 September 2025 naming council systems with implementation challenges; the text held stops before its findings, and states nothing of council office connections."
+}

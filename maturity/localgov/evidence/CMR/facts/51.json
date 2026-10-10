@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-14-centrifuge-hebdo-digitalisation-communes-cvuc",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "Centrifuge Hebdo, reporting the presentation of the first phase of the communes' digitalisation programme in Yaoundé on 11 September 2025, lists the weakness of ICT infrastructure and of connectivity at commune level among the constraints still threatening it; no count of communes connected is given, against 360 communes and 14 urban communities.", "as_of": "2025-09-11", "date_precision": "day", "system": "connectivité au niveau communal", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "connectivité au niveau communal", "country_label": "", "class": "connection", "platform": "", "owner": "", "tiers": "communes; described as weak in September 2025, with no figure"},
+    {"system": "Programme de digitalisation des communes et villes camerounaises", "country_label": "PDCV", "class": "web", "platform": "websites under .cm domain names", "owner": "Communes et villes unies du Cameroun (CVUC), with 1.5 billion FCFA granted by the head of state; ANTIC to resolve 39 domain names held by third parties", "tiers": "374 platforms planned (360 communes and 14 urban communities); 335 communes have a .cm website, 240 memoranda signed, 335 focal points trained; before it more than 80% of communes had no presence online"}
+  ],
+  "note": "The programme's first phase is websites; the one fact is its dated statement that connectivity at commune level is weak."
+}

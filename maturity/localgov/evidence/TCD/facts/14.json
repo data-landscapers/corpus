@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-20-tchadinfos-gouvernement-dote-23-communes-chefs-lieux-equipements-informatiques",
+  "facts": [],
+  "systems": [
+    {"system": "Computing and digital equipment handed to the 23 provincial chef-lieu communes under the Projet d'Appui à la Transformation Numérique (PATN)", "country_label": "équipements informatiques et numériques (PATN)", "class": "equipment", "platform": "", "owner": "Ministry of Finance and Budget (handover chaired by the secretary of state); World Bank support", "tiers": "the 23 communes that are provincial capitals; handed over 2026-05-19; value 272,964,000 FCFA excluding tax"}
+  ],
+  "note": "Equipment only: on 2026-05-19 the government handed IT and digital equipment worth 272,964,000 FCFA to the 23 chef-lieu communes under the World Bank-supported PATN, for data collection and digitalising services. No connection is stated and no total of communes is given, so no fact; the parent may want it as preparation."
+}

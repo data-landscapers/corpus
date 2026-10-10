@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-adca-economic-report-data-centres-in-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Galaxy Backbone", "country_label": "Galaxy Backbone", "class": "backbone", "platform": "government-sponsored national data centre", "owner": "Government of Nigeria", "tiers": "national; no local government office is said to be on it"}
+  ],
+  "note": "An industry report on African data centres; Nigeria appears as a commercial hub and for Galaxy Backbone as a government-sponsored national data centre. Nothing on local government offices."
+}

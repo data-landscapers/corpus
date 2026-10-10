@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-29-plfi-2026-matd-commission-des-lois-cnt",
+  "facts": [],
+  "systems": [
+    {"system": "Digital civil status solutions (RNEC)", "country_label": "solutions numériques de l'état civil; registre national de l'État civil (RNEC)", "class": "application", "platform": "", "owner": "MATD, through ONECI", "tiers": "the minister reports deployment in 28 communes in 2025, beside mobile court hearings held in 375 communes (budget address, 29 March 2026)"},
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "RNPP", "class": "central", "platform": "", "owner": "MATD, through ONECI", "tiers": "national; biometric census at national scale in 2025"},
+    {"system": "Plateforme digitale de gestion des ONG", "country_label": "plateforme digitale de gestion des ONG", "class": "central", "platform": "", "owner": "MATD", "tiers": "being set up in 2025"}
+  ],
+  "note": "The minister's budget address counts 28 communes with digital civil status solutions deployed in 2025; it describes an application and does not say the communes work online or are given a connection. The same address reports equipment for deconcentrated services (central) and no ICT line for communes."
+}

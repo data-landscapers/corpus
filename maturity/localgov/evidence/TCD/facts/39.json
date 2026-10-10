@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration system", "country_label": "civil registration system", "class": "application", "platform": "mainly paper; no consolidated database at central level", "owner": "local governments, under the supervision of the Ministry of Territorial Administration and Decentralization (MATD)", "tiers": "local governments; 'mainly paper based' per the World Bank diagnostic of 2023"},
+    {"system": "TASDJIL", "country_label": "TASDJIL", "class": "central", "platform": "mobile application", "owner": "ANATS", "tiers": "civil registration officers in six hospitals; described as nascent"},
+    {"system": "SIGPTS (with RNBP)", "country_label": "SIGPTS", "class": "central", "platform": "", "owner": "ANATS", "tiers": "national identity management system, introduced 2020; registration centres being set up in provinces"},
+    {"system": "Government intranet, interconnection and messaging system", "country_label": "government intranet and messaging system", "class": "backbone", "platform": "", "owner": "ADETIC and individual MDAs", "tiers": "ministries, departments and agencies; no local government office named"},
+    {"system": "National Data Center (NDC) project", "country_label": "NDC project", "class": "backbone", "platform": "", "owner": "government", "tiers": "MDAs; delayed, with MDAs turning to private hosting"}
+  ],
+  "note": "The passages say civil registration, managed by local governments, is mainly paper based with no central database, and describe the government intranet for MDAs; none speaks of how local government offices are connected. No fact taken."
+}

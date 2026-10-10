@@ -1,0 +1,39 @@
+{
+  "slug": "2017-07-01-nipost-nigerian-national-addressing-standard-and-guidelines",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Local Addressing Database",
+      "country_label": "Local Addressing Database; Local Government GIS Addressing Database",
+      "class": "application",
+      "platform": "GIS",
+      "owner": "Local Government Authorities, Area Councils and Municipal Councils",
+      "tiers": "Prescribed for every Local Government Area, to hold the addressing data it generates; none stated as built"
+    },
+    {
+      "system": "State Addressing GIS Unit",
+      "country_label": "State Addressing GIS Unit",
+      "class": "upper-tier",
+      "platform": "GIS",
+      "owner": "State governments",
+      "tiers": "State: collates, processes and stores addressing data generated within the State"
+    },
+    {
+      "system": "National Addressing Database",
+      "country_label": "National Addressing Database; National Addressing GIS Unit",
+      "class": "central",
+      "platform": "GIS",
+      "owner": "Ministry of Communications, which may assign hosting to Galaxy Backbone and NIPOST",
+      "tiers": "National: imports data from the State units; to be accessible through the National Bureau of Statistics portal"
+    },
+    {
+      "system": "Nigerian Postcode System database",
+      "country_label": "Nigerian Postcode System",
+      "class": "central",
+      "platform": "",
+      "owner": "NIPOST, with backup hosted by Galaxy Backbone or another host",
+      "tiers": "National"
+    }
+  ],
+  "note": "A standard of July 2017 prescribing what local governments shall do in street naming and addressing data. It lists broadband connectivity among the components of the addressing database without saying at which tier, states no local government office as connected, and says Nigeria then lacked a national addressing data infrastructure."
+}

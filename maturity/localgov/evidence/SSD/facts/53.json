@@ -1,0 +1,8 @@
+{
+  "slug": "2021-08-26-ssd-crime-reporting-on-speed-dial-responsiveness-of-wau-police-emergency-c",
+  "facts": [],
+  "systems": [
+    {"system": "Emergency Call Centre (ECC)", "country_label": "Emergency Call Centre, short codes 777 and 112", "class": "central", "platform": "", "owner": "South Sudan National Police Service, supported by UNDP with Japanese and Dutch funding", "tiers": "Juba (pilot, 2014) and Wau municipality (February 2019); calls recorded by hand in registers"}
+  ],
+  "note": "A police emergency call centre run by the national police service, class central; 'municipality' is only the area the short codes serve. Nothing on a local government office's connection."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-updated-esmp-government-data-centre-dmap",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre (Government Data Centre)", "class": "backbone", "platform": "", "owner": "Department of e-Government; built under the Digital Foundations Project and completed under DMAP, implemented by the Public Private Partnership Commission", "tiers": "central: at the Department of e-Government in Lilongwe, to take data migrated from ministries, departments and agencies; no local government office said to be on it"}
+  ],
+  "note": "The passages name Lilongwe City Council only as planning authority, waste-disposal contact and consultee for the data centre works; nothing is stated about any council office's connection."
+}

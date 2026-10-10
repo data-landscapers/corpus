@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-01-digital-health-governance-framework-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "Malawi Healthcare Information System (MaHIS)", "country_label": "MaHIS", "class": "central", "platform": "", "owner": "Ministry of Health, Digital Health Division", "tiers": "health facilities, public and private, and central hospitals; District Health Offices under District Councils implement digital health at district level; to be hosted on e-Government data centres"},
+    {"system": "e-Government data centres", "country_label": "national data centres", "class": "backbone", "platform": "", "owner": "Department of E-Government", "tiers": "central hosting for health systems; no council office said to be on it"}
+  ],
+  "note": "A governance framework of roles: it gives District Councils duties for digital health and says E-Government supports last-mile connectivity for health facilities, but states nothing about whether any council office is connected."
+}

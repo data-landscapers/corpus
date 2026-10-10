@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-31-cross-river-smart-surveillance-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Surveillance Infrastructure Project", "country_label": "state-wide Smart Surveillance Infrastructure Project, Phase One", "class": "city-systems", "platform": "Huawei AI-enabled smart cameras with a video analytics dashboard, installed by Dubass Synergy Multi-Services Limited", "owner": "Cross River State Government; command centre in the Office of the State Security Adviser", "tiers": "approved by the State Executive Council; phase one covers major intersections and government precincts in Calabar Municipality, coastal communities and waterways, the Ikang Expressway and carnival routes"},
+    {"system": "Analogue surveillance", "country_label": "current analogue surveillance methodology", "class": "city-systems", "platform": "", "owner": "Cross River State Government", "tiers": "under 10 per cent of Calabar metropolis and none of Akamkpa, Ugep, Ikom, Ogoja and Obudu, as the State Planning Commission puts it"}
+  ],
+  "note": "A state government's camera and sensor network: city systems run by the upper tier, with nothing on local government offices or their connection."
+}

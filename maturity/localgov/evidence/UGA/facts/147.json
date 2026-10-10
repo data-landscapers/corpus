@@ -1,0 +1,14 @@
+{
+  "slug": "2021-01-01-uga-health-information-digital-health-strategic-plan-2020-2025",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Ministry of Health's strategic plan states that health facilities submit monthly and quarterly reports to the district, where the data is entered into the national electronic database (eHMIS on DHIS2), most facility processes being on paper and digitised in aggregate at district level; it gives no count of districts and no date, so the published date is used, and it does not say how the district office is connected.", "as_of": "2021-01", "date_precision": "month", "system": "eHMIS (DHIS2) data entry at district level", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "eHMIS (DHIS2)", "country_label": "electronic Health Management Information System", "class": "application", "platform": "DHIS2", "owner": "Ministry of Health, Division of Health Information Management", "tiers": "data entered at district level from health facility paper reports; data entry decentralised to selected health facilities"},
+    {"system": "National Backbone Infrastructure (NBI)", "country_label": "National Data Transmission Backbone Infrastructure", "class": "backbone", "platform": "optical fibre", "owner": "NITA-U", "tiers": "government and private fibre together about 12,000 km covering 49% of districts as of 2021; last-mile connection of health facilities planned"},
+    {"system": "Community Health Information System (eCHIS)", "country_label": "CHIS", "class": "application", "platform": "", "owner": "Ministry of Health", "tiers": "target of 30% of village health teams in 50 local governments by 2025"},
+    {"system": "Electronic Medical Record Systems (Uganda EMR, iHFMIS, Clinic Master)", "country_label": "EMRS", "class": "central", "platform": "OpenMRS among others", "owner": "Ministry of Health and partners", "tiers": "health facilities; target of 60% of hospitals, HC IVs and high-volume HC IIIs equipped by 2025"},
+    {"system": "UgHub", "country_label": "Government of Uganda Interoperability system", "class": "backbone", "platform": "", "owner": "Government of Uganda", "tiers": "health sector systems to be connected"}
+  ],
+  "note": "A health-sector plan: its connectivity measures are for health facilities, not local government offices. The one fact is the district-level entry of health data into the national database; the district health office is part of the district local government, which the parent may wish to weigh."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-26-eswatini-post-office-based-govt-payment-system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Post office-based government service payment system",
+      "country_label": "government service payments at post offices",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of ICT through the Eswatini Posts and Telecommunications Corporation (EPTC), in partnership with the Eswatini Revenue Service",
+      "tiers": "35 post offices nationwide"
+    }
+  ],
+  "note": "Payment points for government services at 35 post offices, announced by the Ministry of ICT and reported 26 September 2025: service counters of a national corporation, out of scope. No local government office is named."
+}

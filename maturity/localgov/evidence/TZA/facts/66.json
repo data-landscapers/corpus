@@ -1,0 +1,31 @@
+{
+  "slug": "2016-01-01-tza-ihfems-guidelines-standards",
+  "facts": [],
+  "systems": [
+    {
+      "system": "GovNet",
+      "country_label": "GovNet",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "Not stated; named with the National ICT Backbone as a communications resource a facility system may use"
+    },
+    {
+      "system": "National ICT Backbone",
+      "country_label": "National ICT Backbone",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Integrated Health Facility Electronic Management Systems (iHFeMS)",
+      "country_label": "iHFeMS",
+      "class": "application",
+      "platform": "web-based and mobile enabled (a standard, not one product)",
+      "owner": "Ministry of Health, Community Development, Gender, Elderly and Children, with PO-RALG",
+      "tiers": "Health facilities"
+    }
+  ],
+  "note": "The passages are a guideline of January 2016 for health facility systems: local government appears only in PO-RALG's name as co-issuer, and GovNet only as a network a system 'may' use; no local government office is put on it."
+}

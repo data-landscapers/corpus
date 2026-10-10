@@ -1,0 +1,8 @@
+{
+  "slug": "2024-08-19 Libya implements biometric voter verification in municipal council elections",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic voter identity verification", "country_label": "electronic verification mechanism", "class": "central", "platform": "", "owner": "High National Elections Commission (HNEC)", "tiers": "Election centres in four municipalities at first: Zliten, Al-Sbiaa, Brak and Al-Abrak, during voter-card distribution for the municipal council elections, August 2024"}
+  ],
+  "note": "A national electoral commission's biometric voter verification used in municipal council elections; not a system or connection of the municipal offices."
+}

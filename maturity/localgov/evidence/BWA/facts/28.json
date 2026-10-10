@@ -1,0 +1,11 @@
+{
+  "slug": "2018-06-01-bwa-national-broadband-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "Government Data Network (GDN)", "country_label": "Government Data Network (GDN)", "class": "backbone", "platform": "", "owner": "Government of Botswana", "tiers": "Not stated; described in June 2018, with the Government Data Centre, as old and dilapidated and lacking security, resilience and capacity; no local government office said to be on it"},
+    {"system": "Government Data Centre (GDC)", "country_label": "Government Data Centre (GDC)", "class": "backbone", "platform": "", "owner": "Government of Botswana", "tiers": "Not stated"},
+    {"system": "National fibre optic backbone", "country_label": "", "class": "backbone", "platform": "", "owner": "BoFiNet, with private operators such as Mascom also holding backbone infrastructure", "tiers": "A ring connecting all urban centres and major villages; no local government office named"},
+    {"system": "Community Access Points (Kitsong Centres)", "country_label": "Kitsong Centres", "class": "public-access", "platform": "", "owner": "Installed by operators and Botswana Post; most run by Village Development Committees", "tiers": "Communities; the strategy says the model does not work well"}
+  ],
+  "note": "An excerpt of the 2018 strategy; its connection targets name schools, libraries, health centres and community access points, not local government offices, and the government network it describes is not said to reach any council."
+}

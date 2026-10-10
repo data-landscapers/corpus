@@ -1,0 +1,16 @@
+{
+  "slug": "2026-06-01-sierra-leone-mof-pfm-reform-progress-report-2025",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Ministry of Finance's reform progress report for 2025 states that \"PFM Smart\", a web-based, real-time accounting system, was rolled out across all 21 local councils; it does not say how the council offices are connected.", "as_of": "2025", "date_precision": "year", "system": "PFM Smart", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:100%", "fact": "The Ministry of Finance states that the web-based, real-time accounting system PFM Smart was rolled out across all 21 local councils (21 of 21) in the 2025 reporting year; the figure counts councils working in the system, not a stated count of connected offices.", "as_of": "2025", "date_precision": "year", "system": "PFM Smart", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Finance lists among its 2025 achievements the rollout of the web-based, real-time accounting system PFM Smart across all 21 local councils; the report gives the year only.", "as_of": "2025", "date_precision": "year", "system": "PFM Smart", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "application", "platform": "web-based, real-time accounting system", "owner": "not stated; reported by the Ministry of Finance under fiscal decentralisation", "tiers": "all 21 local councils"},
+    {"system": "MOPTAX 2.0", "country_label": "MOPTAX 2.0", "class": "application", "platform": "digital property tax management", "owner": "not stated", "tiers": "Makeni and Freetown"},
+    {"system": "Audit Follow-up Software", "country_label": "Audit Follow-up Software", "class": "application", "platform": "", "owner": "Internal Audit Department, Ministry of Finance", "tiers": "33 MDAs trained; over 145 vote controllers and heads of internal audit in MDAs, SOEs and local councils registered with oversight access"},
+    {"system": "Electronic Government Procurement (e-GP) system", "country_label": "e-GP", "class": "central", "platform": "", "owner": "National Public Procurement Authority", "tiers": "contract signed and customisation begun; phased rollout planned from 2026; no local council tier stated"},
+    {"system": "Integrated Financial Management Information System", "country_label": "IFMIS", "class": "central", "platform": "FreeBalance", "owner": "Ministry of Finance / Accountant General's Department", "tiers": "124 MDAs"}
+  ],
+  "note": "The held text is an excerpt cut off in section 2.10: the PFM Smart statement comes from the executive summary, and the body of Theme 3 (fiscal decentralisation) and of PFM Enablers (ICT) was not in the file."
+}

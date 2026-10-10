@@ -1,0 +1,63 @@
+{
+  "slug": "2025-02-01-ethiopia-digital-foundations-project-aide-memoire",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WoredaNet",
+      "country_label": "WoredaNet",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Ministry of Innovation and Technology (MInT), which is to submit the terms for pre-purchase of its internet capacity; upgrade financed under the World Bank's Ethiopia Digital Foundations Project, sub-component 2.2 (connecting targeted institutions to broadband)",
+      "tiers": "not stated; the upgrade tender, estimated at US$13.5m, was advertised and due to close on 21 February 2025; internet pre-purchase for WoredaNet is approved under current funding; equipment to upgrade and extend it is a government request the project cannot fund"
+    },
+    {
+      "system": "Communications rooms (smart communication rooms)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "MInT, under the project's sub-component 2.1 (eGovernment and COVID-19 response)",
+      "tiers": "24 additional rooms still being implemented, with scope to expand to 50; locations not stated"
+    },
+    {
+      "system": "Pre-fabricated green data center",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "",
+      "owner": "MInT",
+      "tiers": "national; contract awarded May 2024 (US$13.5m), works planned complete by June 2025"
+    },
+    {
+      "system": "Regional data centers (requested)",
+      "country_label": "",
+      "class": "upper-tier",
+      "platform": "",
+      "owner": "Government request, unfunded under the project",
+      "tiers": "up to 14 regional data centers"
+    },
+    {
+      "system": "National eServices platform (upgrade)",
+      "country_label": "e-Services portal",
+      "class": "central",
+      "platform": "",
+      "owner": "MInT",
+      "tiers": "national; upgrade estimated at US$13m, tender advertised and closing end March 2025"
+    },
+    {
+      "system": "Digital mapping and addressing system",
+      "country_label": "Digital Addressing project",
+      "class": "city-systems",
+      "platform": "",
+      "owner": "MInT, under the World Bank project",
+      "tiers": "phase 1 for ten selected cities (US$12m, bidding document under Bank review); a further 12 cities requested for phase 2"
+    },
+    {
+      "system": "EthERNet",
+      "country_label": "Ethiopian Education and Research Network",
+      "class": "central",
+      "platform": "",
+      "owner": "EthERNet, under the Ministry of Education",
+      "tiers": "core IP network equipment delivered to 49 universities and 33 TVET institutions"
+    }
+  ],
+  "note": "The aide-memoire names WoredaNet only as a procurement (upgrade tender and internet pre-purchase, January to February 2025) under connecting targeted institutions to broadband; it does not say what WoredaNet does, that woreda offices are on it, or how many are."
+}

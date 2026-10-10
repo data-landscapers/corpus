@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "Agence Ecofin reports that the regulator ARCEP, presenting its 2026 draft budget of 6.2 billion FCFA on 15 April 2026, listed finishing the set-up of the universal service fund among its priorities for the year; the fund's framework, under law 18.002 of 17 January 2018 and a decree of February 2019, provides for broadband internet access in mairies, alongside schools, health centres, libraries and post offices.", "as_of": "2026-04-15", "date_precision": "day", "system": "Fonds du service universel", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The universal service fund, whose scope includes broadband access in mairies, is supervised and managed by the Comité de développement des communications électroniques (CDCE), a body set by law, with ARCEP selecting the operators that receive its money, as Agence Ecofin reports.", "as_of": "2026-04-15", "date_precision": "day", "system": "Fonds du service universel", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:domestic", "fact": "The universal service fund is fed mainly by a levy on telecom operators of 2% of their previous year's turnover, and may also take gifts, loans and grants from the state, local authorities or development partners, as Agence Ecofin reports.", "as_of": "2026-04-15", "date_precision": "day", "system": "Fonds du service universel", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The CDCE, the body that manages the universal service fund, began its activities in July 2025, and on 15 April 2026 ARCEP said the fund's effective set-up was planned for 2026; the fund was not yet in operation and no mairie is reported connected through it.", "as_of": "2026-04-15", "date_precision": "day", "system": "Fonds du service universel", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Fonds du service universel", "country_label": "fonds du service universel", "class": "connection", "platform": "", "owner": "Comité de développement des communications électroniques (CDCE), with ARCEP", "tiers": "not yet in operation; scope in law covers broadband access in schools, health centres, mairies, libraries, post offices and other community places"}
+  ],
+  "note": ""
+}

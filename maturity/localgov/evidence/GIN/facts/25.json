@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-18-wearetech-nine-digital-projects-public-administration",
+  "facts": [],
+  "systems": [
+    {"system": "Conakry metropolitan fiber-optic network", "country_label": "", "class": "backbone", "platform": "", "owner": "Agence Nationale de Digitalisation de l'État (ANDE)", "tiers": "Conakry; deployment overseen by ANDE with interconnection between government administrations; no local government office said to be on it"},
+    {"system": "One-stop shop for public services (GUSP)", "country_label": "Guichet unique des services publics (GUSP)", "class": "central", "platform": "", "owner": "Ministry of Public Administration Modernization and Civil Service", "tiers": "one of nine projects presented 2026-05-15; tiers not stated"},
+    {"system": "FUGAS", "country_label": "FUGAS", "class": "", "platform": "", "owner": "", "tiers": "public-sector human-resources management platform; tiers not stated"}
+  ],
+  "note": "Nine central modernisation projects presented on 2026-05-15, with a Conakry metropolitan fibre network and interconnection of government administrations under ANDE; no local government office is said to be connected."
+}

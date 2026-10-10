@@ -1,0 +1,10 @@
+{
+  "slug": "2018-08-21-wb-mozambique-land-administration-terra-segura-pid",
+  "facts": [],
+  "systems": [
+    {"system": "Land Information Management System (SiGIT)", "country_label": "SiGIT", "class": "central", "platform": "", "owner": "MITADER, through the National Directorate for Land Administration (DINAT)", "tiers": "introduced centrally and in the four northern provinces at the end of 2012, extended nationally after 2015; not interoperable with municipal systems as at August 2018"},
+    {"system": "Municipal cadastre systems", "country_label": "municipal cadastre systems", "class": "application", "platform": "", "owner": "municipalities, which keep cadastre responsibility in urban areas", "tiers": "municipalities"},
+    {"system": "Sistema Informático de Registo Predial", "country_label": "Sistema Informático de Registo Predial", "class": "central", "platform": "", "owner": "Ministry of Justice", "tiers": "not stated"}
+  ],
+  "note": "States that the national land system is not interoperable with municipal systems and plans to make it so; nothing is stated about the connection of municipal offices."
+}

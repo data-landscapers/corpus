@@ -1,0 +1,13 @@
+{
+  "slug": "2023-03-28-dhis2-routine-data-collection-uganda-education",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "DHIS2's own article says district education teams in the implementing sites, among them Gulu city, Gulu District Local Government and Entebbe Municipality, captured term II and term III 2022 school data in DHIS2-DEMIS using web and Android devices and used its dashboards; how the offices are connected is not stated.", "as_of": "2022", "date_precision": "year", "system": "district education offices working in DHIS2-DEMIS", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "pilot", "fact": "DHIS2's article of March 2023 says the decentralised system ran in 4 districts since 2019 and names limited coverage as a challenge, with only 10 implementation sites out of 175 administrative sites.", "as_of": "2023-03", "date_precision": "month", "system": "district education offices working in DHIS2-DEMIS", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "DHIS2-DEMIS", "country_label": "DHIS2-DEMIS, decentralised education management information system", "class": "application", "platform": "DHIS2", "owner": "HISP Uganda and Save the Children Uganda with the Ministry of Education and Sports; supported by Norad and GPE KIX", "tiers": "District education departments in 10 implementation sites of 175 (4 districts since 2019), pre-primary and primary; data entered by school inspectors, volunteers and secretaries"},
+    {"system": "DHIS2 (health)", "country_label": "Health Management Information System (HMIS) on DHIS2", "class": "application", "platform": "DHIS2", "owner": "Ministry of Health, with HISP Uganda", "tiers": "National roll-out in all districts, as the article states"},
+    {"system": "EMIS", "country_label": "Education Management Information System (EMIS)", "class": "central", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "Centrally managed, data entry and analysis at ministry headquarters from annual school census forms; last census 2017, districts relying on Excel sheets and paper"}
+  ],
+  "note": "The connection is inferred only from district teams working online in a shared system; the article says nothing of who provides or pays for the offices' connection."
+}

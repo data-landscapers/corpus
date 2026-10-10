@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-10-ghana-ga-west-digital-payment-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "Ga West Municipal Assembly digital revenue mobilisation system (cashless payment by SMS link, with a data-capturing exercise from April 2026)", "country_label": "digital revenue mobilisation system", "class": "application", "platform": "", "owner": "Ga West Municipal Assembly, rolled out by its contractor OMNI Strategies", "tiers": "Ga West Municipal Assembly, starting in the Kotoku Zonal Council"}
+  ],
+  "note": "One municipal assembly's revenue billing and payment system, an application with a resident-facing payment channel; nothing is stated about the office's connection."
+}

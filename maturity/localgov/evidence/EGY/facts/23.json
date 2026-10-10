@@ -1,0 +1,23 @@
+{
+  "slug": "2025-05-30-mcit-hayah-karima-government-service-complexes-technology-agreement",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Technology devices for the government service complexes of Decent Life villages",
+      "country_label": "الأجهزة التكنولوجية لمجمعات الخدمات الحكومية بقرى حياة كريمة",
+      "class": "equipment",
+      "platform": "",
+      "owner": "Ministry of Local Development, buying through the Ministry of Communications and Information Technology under a delegation agreement signed May 2025",
+      "tiers": "All 332 government service complexes in the villages of the initiative's first phase, serving citizens at village units; local administration, social solidarity and supply units have already moved in to work from them; no connection is stated"
+    },
+    {
+      "system": "Technology centres",
+      "country_label": "المراكز التكنولوجية",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "To be put into service in the village complexes 'in the coming period', with civil status and real estate publicity services"
+    }
+  ],
+  "note": "Agreement of May 2025 to buy devices for 332 village service complexes that house local administration units. It is equipment with no connection stated, so a systems entry and no fact."
+}

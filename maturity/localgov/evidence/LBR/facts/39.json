@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-11-unicef-liberia-children-legal-identity",
+  "facts": [],
+  "systems": [
+    {"system": "Birth Registration Information Management System (BRIMS)", "country_label": "Birth Registration Information Management System (BRIMS)", "class": "central", "platform": "DHIS2", "owner": "birth registration service, supported by UNICEF as lead agency; the document does not name the ministry", "tiers": "birth registration decentralised to all 15 counties and 58 centers"}
+  ],
+  "note": "A UNICEF press release on birth registration. The registration centres in the counties are a national service's, not local government offices, and no connection at a local government office is stated."
+}

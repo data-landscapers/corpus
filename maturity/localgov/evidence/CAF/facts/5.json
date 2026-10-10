@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-20-matddl-numerisation-etat-civil-training-oubangui",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de l'État Civil (RNEC)", "country_label": "Registre National de l'État Civil (RNEC)", "class": "application", "platform": "", "owner": "MATDDL / DGDEC, with CIVIPOL as technical operator, financed by the European Union delegation", "tiers": "national register fed by scanned civil registers of communes and tribunals in the project zone, the whole country in time"},
+    {"system": "Système National Intégré de Gestion de l'État Civil", "country_label": "Système National Intégré de Gestion de l'État Civil", "class": "application", "platform": "a home-grown Central African application, in preparation", "owner": "MATDDL, with CIVIPOL as technical operator", "tiers": "future; to cover births, marriages and deaths"}
+  ],
+  "note": "Training of the ministry's agents in Bangui on 16-17 July 2026 to scan civil registers, including those of remote communes; nothing on a connection at any commune office."
+}

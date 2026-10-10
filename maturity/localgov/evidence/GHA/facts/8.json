@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-04-ohlgs-celltel-261-assemblies-smart-communities",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The Office of the Head of the Local Government Service signed an MoU with Celltel Networks on 3 September 2026 to start a nationwide programme, LITISIP, to build the digital infrastructure for Ghana's 261 metropolitan, municipal and district assemblies; no assembly is said to be connected yet.", "as_of": "2026-09-03", "date_precision": "day", "system": "Local Government Service IT Infrastructure and Systems Improvement Programme (LITISIP)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "LITISIP is a programme of the Office of the Head of the Local Government Service, with Celltel Networks as private partner under an MoU of 3 September 2026 and Cisco named by Celltel as a backer.", "as_of": "2026-09-03", "date_precision": "day", "system": "Local Government Service IT Infrastructure and Systems Improvement Programme (LITISIP)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The Head of the Local Government Service presented LITISIP on 3 September 2026 as the programme to give the 261 assemblies a secure digital backbone, going beyond 'connecting offices'; the article gives no cost or timetable for it.", "as_of": "2026-09-03", "date_precision": "day", "system": "Local Government Service IT Infrastructure and Systems Improvement Programme (LITISIP)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:not-stated", "fact": "The article on the 3 September 2026 MoU between the Local Government Service and Celltel Networks states no value, budget line or source of finance for LITISIP.", "as_of": "2026-09-03", "date_precision": "day", "system": "Local Government Service IT Infrastructure and Systems Improvement Programme (LITISIP)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Local Government Service IT Infrastructure and Systems Improvement Programme (LITISIP)", "country_label": "LITISIP; Smart Assemblies and Smart Communities", "class": "connection", "platform": "Cisco named as a backer", "owner": "Office of the Head of the Local Government Service, with Celltel Networks Limited", "tiers": "all 261 metropolitan, municipal and district assemblies (planned)"}
+  ],
+  "note": ""
+}

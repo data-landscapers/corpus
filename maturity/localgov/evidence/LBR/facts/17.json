@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-30-liberia-moe-launches-2025-2026-national-school-census",
+  "facts": [],
+  "systems": [
+    {"system": "Annual School Census county data hubs", "country_label": "county data hubs", "class": "central", "platform": "", "owner": "Ministry of Education", "tiers": "County Education Offices in all 15 counties, serving 125 education districts; school forms carried to the hubs for digital processing"}
+  ],
+  "note": "The data hubs are County Education Offices, field offices of the Ministry of Education, not local government offices; no connection is stated."
+}

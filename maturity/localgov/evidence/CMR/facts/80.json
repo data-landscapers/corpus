@@ -1,0 +1,23 @@
+{
+  "slug": "2020-06-01-worldbank-cameroon-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National fiber optic backbone",
+      "country_label": "national fiber optic backbone",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "National; interconnecting government institutions to it is called a priority of the digital strategic plan, with no local government office said to be on it"
+    },
+    {
+      "system": "Government intranet and email domain",
+      "country_label": "government email domain, intranet",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "Named as foundational e-government elements the government emphasises; no tier stated"
+    }
+  ],
+  "note": "Passages of the World Bank's June 2020 digital economy diagnostic: it recommends that the government extend broadband to rural areas and to local governments there, and reports a 2017 survey of local government officials' priorities; a recommendation, with no statement of how any council office is connected."
+}

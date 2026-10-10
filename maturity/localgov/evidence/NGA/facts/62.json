@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-04-nigeria-90000km-fibre-optic-rollout-tijani",
+  "facts": [],
+  "systems": [
+    {"system": "90,000 km fibre optic network", "country_label": "90,000-kilometre fibre optic network", "class": "backbone", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "said by the minister on 4 August 2026 to be due to cover every state, geopolitical zone, local government area and ward; laying to start within weeks"},
+    {"system": "3,700 telecommunications towers", "country_label": "about 3,700 telecommunications towers", "class": "backbone", "platform": "", "owner": "Federal Government", "tiers": "deployment from about October 2026, for more than 20 million people in communities without coverage"},
+    {"system": "Alphanumeric postcode system", "country_label": "alphanumeric postcode system", "class": "central", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national launch planned for 1 October 2026, a unique address for every building"}
+  ],
+  "note": "The minister's briefing on the national fibre rollout: fibre is to cover every local government area and ward, with no local government office said to be connected."
+}

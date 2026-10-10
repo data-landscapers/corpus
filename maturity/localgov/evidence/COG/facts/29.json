@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-01-pagir-mecanisme-gestion-plaintes",
+  "facts": [],
+  "systems": [
+    {"system": "Système Intégré de Gestion des Finances Publiques (SYGFIP / SIGFIP)", "country_label": "SYGFIP; SIGFIP", "class": "central", "platform": "", "owner": "Ministère des Finances, du Budget et du Portefeuille Public, under the World Bank-financed PAGIR", "tiers": "to be consolidated, with six pilot departments for its expansion; no local government office said to use it"},
+    {"system": "e-Tax electronic payment module", "country_label": "e-Tax", "class": "central", "platform": "", "owner": "Ministère des Finances, du Budget et du Portefeuille Public, under the PAGIR", "tiers": "not stated"}
+  ],
+  "note": "A draft complaints mechanism of November 2025 for a public-finance reform programme; it names local authorities among those the programme addresses and six pilot departments for expanding the state's finance system, and states no connection at any local government office."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2015-09-18-cabo-verde-bo-despacho-16-2015-centro-de-dados-do-estado-infraestrutura-critica",
+  "facts": [],
+  "systems": [
+    {"system": "Centro de Dados do Estado de Cabo Verde", "country_label": "Centro de Dados do Estado de Cabo Verde", "class": "backbone", "platform": "", "owner": "State; NOSi (Núcleo Operacional da Sociedade de Informação) requested its classification", "tiers": "State data centre at Achada Grande, Praia; no local government office said to be on it"}
+  ],
+  "note": "Gazette issue: Despacho 16/2015 of 15 September 2015 designates the state data centre critical infrastructure; municipalities appear only in personnel and assembly notices. Nothing on any local government office's connection."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-02-22-jornal-noticias-digitalizacao-moderniza-gestao-municipal-no-pais",
+  "facts": [],
+  "systems": [
+    {"system": "Projecto Município Digital", "country_label": "Projecto Município Digital", "class": "application", "platform": "", "owner": "ANAMM and the Ministry of Communications and Digital Transformation, under a memorandum signed in Maputo on 21 February 2025", "tiers": "planned for the country's 65 municipalities"},
+    {"system": "secretarias virtuais municipais", "country_label": "secretarias virtuais municipais", "class": "web", "platform": "", "owner": "ANAMM", "tiers": "municipalities; introduced by ANAMM, to be extended to all 65"},
+    {"system": "Sistema Nacional de Gestão Documental", "country_label": "Sistema Nacional de Gestão Documental", "class": "application", "platform": "", "owner": "Ministry of Communications and Digital Transformation", "tiers": "national electronic platform; adoption by municipalities intended, not stated as done"},
+    {"system": "municipal tax collection and management systems", "country_label": "sistemas de arrecadação e gestão tributária", "class": "application", "platform": "", "owner": "ANAMM", "tiers": "municipalities, number not given"},
+    {"system": "land cadastre and management", "country_label": "cadastro e gestão de terra", "class": "application", "platform": "", "owner": "ANAMM", "tiers": "municipalities, number not given"},
+    {"system": "monitoring of inter-governmental fiscal transfers", "country_label": "monitoria das transferências fiscais inter-governamentais", "class": "application", "platform": "", "owner": "ANAMM", "tiers": "municipalities, number not given"}
+  ],
+  "note": "The ministry and ANAMM signed a memorandum on 21 February 2025 for a digital transformation project in the 65 municipalities: virtual secretariats, digital tax-clearance certificates, the national document-management system. All are applications or online services; the article states an intention and does not say any municipal office is connected or already working in a national system, so no connection fact is recorded. It gives the country's count of municipalities as 65."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-03-29-tgo-au-togo-une-commune-lance-la-teledeclaration-des-naissances-avec-lappu",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Togo First reports that the commune of Golfe 3 launched online declaration of births and deaths on 28 March 2024, under which the municipality's civil-status agents are connected to health centres in the commune through the Hospi-connect and Hospi-gestion platforms and receive declarations in real time; the article does not say how the town hall itself is connected.", "as_of": "2024-03-28", "date_precision": "day", "system": "Golfe 3 civil-status service online link to health centres (Hospi-connect, Hospi-gestion)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "pilot", "fact": "Togo First reports that the online birth and death declaration linking municipal civil-status agents to health centres was at its pilot phase in one commune, Golfe 3, with two public health facilities (CMS Doumassessé and CHU Campus) in the trial.", "as_of": "2024-03-28", "date_precision": "day", "system": "Golfe 3 civil-status service online link to health centres (Hospi-connect, Hospi-gestion)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Golfe 3 civil-status service online link to health centres (Hospi-connect, Hospi-gestion)", "country_label": "télédéclaration des naissances et des décès", "class": "connection", "platform": "Hospi-connect; Hospi-gestion", "owner": "Commune of Golfe 3, with UNDP support", "tiers": "one commune (Golfe 3, Grand Lomé); pilot with two health facilities"},
+    {"system": "Hospi-connect and Hospi-gestion (online declaration of births and deaths)", "country_label": "télédéclaration", "class": "application", "platform": "Hospi-connect; Hospi-gestion", "owner": "Commune of Golfe 3, with UNDP support", "tiers": "municipal civil-status service and two public health facilities, pilot"}
+  ],
+  "note": ""
+}

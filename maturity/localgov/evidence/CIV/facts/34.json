@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "SNDI Government Data Centre", "country_label": "SNDI Government Data Centre", "class": "backbone", "platform": "", "owner": "Société nationale de développement informatique (SNDI), wholly state-owned", "tiers": "Abidjan; operational since 2012; serves government ministries and state institutions"},
+    {"system": "National Data Centre Côte d'Ivoire", "country_label": "National Data Centre (Digital City Grand Bassam)", "class": "backbone", "platform": "", "owner": "the government, through ANSUT; Cybastion as contractor", "tiers": "Grand Bassam; under construction; for the government and public administration entities"}
+  ],
+  "note": "The passages are register rows of data centres in Côte d'Ivoire, in a compilation that calls itself AI-compiled; two are government data centres, with no local government office said to be served."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2019-12-01-senegal-snds-iii-2019-2023-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information et d'analyse budgétaire des Collectivités territoriales", "country_label": "Système d'information et d'analyse budgétaire des Collectivités territoriales", "class": "", "platform": "", "owner": "ADL/MCTDAT", "tiers": "a budgeted activity of the statistics strategy 2019-2023; where it is used is not stated"},
+    {"system": "Intranet gouvernemental et Data center", "country_label": "Intranet gouvernemental", "class": "backbone", "platform": "", "owner": "ADIE", "tiers": "listed as an opportunity for the statistical services; no local government office said to be on it"}
+  ],
+  "note": "Passages of the national statistics strategy 2019-2023; the terms fall on statistical activities about collectivités territoriales and on the government intranet as an opportunity for statistical services. Nothing on the connection of a local government office."
+}

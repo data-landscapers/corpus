@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-21-ict-go-ug-pdmis-parish-development-model-digitization",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The ICT ministry's Permanent Secretary writes that Chief Administrative Officers, Town Clerks, district commercial officers, community development officers and parish chiefs are among the officials given access to the national Parish Development Model information system (PDMIS), which holds over 8 million household records and tracks UGX 2.7 trillion of disbursements; she does not say how their offices are connected, and gives no date, so the article's is used.", "as_of": "2025-08-21", "date_precision": "day", "system": "Parish Development Model Information System (PDMIS)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "PDMIS", "country_label": "Parish-Based Management Information System / Parish Development Model Information System (PDMIS)", "class": "application", "platform": "built under the National ICT Initiatives Support Program (NIISP); verifies NINs against the NIRA database", "owner": "Ministry of ICT and National Guidance", "tiers": "national ministries, district Chief Administrative Officers, Town Clerks, district commercial officers, community development officers, SACCO executives and parish chiefs; over 8 million household records, nearly 79% of households"},
+    {"system": "Laptops for PDM monitoring", "country_label": "163 laptops issued in FY 2024/25", "class": "equipment", "platform": "laptops", "owner": "Ministry of ICT and National Guidance, through the Ministry of Local Government", "tiers": "Chief Administrative Officers and Town Clerks"},
+    {"system": "Repurposed census tablets for PDMIS", "country_label": "24,434 tablets previously used for census data collection", "class": "equipment", "platform": "tablets", "owner": "Government, with the Uganda Bureau of Statistics and Local Government", "tiers": "among others 1,496 for sub-county community development officers, 580 for town council ones, 25 for city division ones, 181 for district IT officers and 181 for local government statisticians"}
+  ],
+  "note": ""
+}

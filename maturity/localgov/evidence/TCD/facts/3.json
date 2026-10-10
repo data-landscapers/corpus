@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-24-tchad-ndjamena-numerisation-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Projet de numérisation de l'état civil de N'Djamena (plateforme intégrée de gestion)", "country_label": "projet de numérisation de son état civil", "class": "application", "platform": "", "owner": "Commune de la ville de N'Djamena, with ANATS under a memorandum of 2026-09-23; supported by the OIF", "tiers": "Commune of N'Djamena; planned, launched 2026-09-23"},
+    {"system": "Système intégré de gestion des populations et des titres sécurisés (SIGPTS)", "country_label": "SIGPTS", "class": "central", "platform": "", "owner": "ANATS", "tiers": "national identification system; link with the town hall's systems planned"}
+  ],
+  "note": "Second account of the 2026-09-23 memorandum: planned register digitisation and a planned link to ANATS's system, an application; no connection of the commune's office is stated, and the town hall reports procedures still largely physical."
+}

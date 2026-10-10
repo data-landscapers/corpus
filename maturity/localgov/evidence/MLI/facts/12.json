@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-mali-collectivites-digitalisation-paiements-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Digital payment arrangement at civil registration centres (unnamed)", "country_label": "dispositif de paiement numérique / paiements digitaux", "class": "application", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Décentralisation, with the Direction nationale de l'état civil; run in the collectivités territoriales", "tiers": "civil registration centres of the collectivités territoriales; the meeting of 2026-07-30 was with the communes of Bamako District and the urban commune of Kati"}
+  ],
+  "note": "Digital payment of fees at the communes' civil registration centres, said to have raised nearly FCFA 200 million between July 2024 and May 2026: an application; the document does not say how the centres are connected, and asks only for a report on equipment needs."
+}

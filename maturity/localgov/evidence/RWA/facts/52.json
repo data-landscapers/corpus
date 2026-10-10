@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-01-data-center-market-brief-rwanda",
+  "facts": [],
+  "systems": [
+    {"system": "Government data center", "country_label": "government data center", "class": "backbone", "platform": "", "owner": "government", "tiers": "national; public sector data must be hosted there or in facilities meeting Rwanda Development Board standards"},
+    {"system": "Nationwide fiber transmission infrastructure", "country_label": "", "class": "backbone", "platform": "", "owner": "", "tiers": "nationwide; no local government office named"}
+  ],
+  "note": "A commercial data centre market brief; it mentions the Digital Acceleration Project's last mile connectivity focus in one line and states nothing about local government offices."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-30-farmer-profile-initiative",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Farmer profile database",
+      "country_label": "Farmer Profile Project",
+      "class": "central",
+      "platform": "",
+      "owner": "Agricultural Transformation Institute, with the Ministry of Agriculture and development partners",
+      "tiers": "being developed; initially targets 311 woredas as areas of coverage, nationwide expansion planned; integrated with national ID and rural land information systems"
+    }
+  ],
+  "note": "The page names 311 woredas only as the areas whose farmers the national database first covers; it states nothing on woreda offices, their use of the database or their connection."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2021-08-09-sao-tome-resolucao-35-2020-estrategia-governacao-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Rede do Governo", "country_label": "Rede do Governo", "class": "backbone", "platform": "", "owner": "INIC, built with Brazilian cooperation (ABC and SERPRO) from 2008", "tiers": "The state's official network infrastructure, with a data centre; no district or regional office said to be on it"},
+    {"system": "G-net", "country_label": "G-net", "class": "backbone", "platform": "", "owner": "Government, in partnership with Taiwan from 2013; technical support suspended when diplomatic relations were cut", "tiers": "Data network and VoIP linking all ministries"},
+    {"system": "G-net telecentres", "country_label": "telecentros", "class": "public-access", "platform": "", "owner": "Government, under the G-net project with Taiwan", "tiers": "District capitals; computing courses and internet access for the general population"},
+    {"system": "Government fibre-optic backbone", "country_label": "backbone de fibra óptica governamental (STP em Rede)", "class": "backbone", "platform": "", "owner": "Government and INIC, financed by the African Development Bank from 2017", "tiers": "Partly complete and in operation, serving 82 institutions and a state data centre; the institutions are not named"},
+    {"system": "Sistema de Administração Financeira do Estado (SAFE)", "country_label": "SAFE", "class": "application", "platform": "", "owner": "State, under Law 03/2007", "tiers": "By the law's stated aim, shows the budget execution of central, regional and local bodies and public institutions; no local office is said to work in it"}
+  ],
+  "note": "An excerpt of the 2020 resolution and the annexed strategy, cut off in chapter 3. It names the government network, G-net and a fibre backbone serving 82 unnamed institutions, with no district chamber or the Príncipe regional government said to be on any of them; Article 4(e) binds local administration to the committee's decisions, and a resolution places nothing."
+}

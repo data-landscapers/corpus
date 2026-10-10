@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-10-ssra-digital-first-tax-strategy-onecitizendaily",
+  "facts": [],
+  "systems": [
+    {"system": "e-tax system", "country_label": "e-tax", "class": "central", "platform": "", "owner": "South Sudan Revenue Authority (SSRA)", "tiers": "SSRA head offices in every state, of which seven are said to be digitised"},
+    {"system": "electronic work permit and e-visa services", "country_label": "electronic work permit; e-visa", "class": "central", "platform": "", "owner": "South Sudan Revenue Authority (SSRA)", "tiers": "national"}
+  ],
+  "note": "The offices digitised are the state offices of the national revenue authority, a national agency's field offices (class central); nothing is stated about local government offices."
+}

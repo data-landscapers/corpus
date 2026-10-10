@@ -1,0 +1,55 @@
+{
+  "slug": "2025-04-25-digital-government-transformation-strategy-progress-update",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Intranet System (GINS)",
+      "country_label": "GINS (Government Intranet System)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government; procured under a framework agreement",
+      "tiers": "not stated; no local authority office is said to be on it"
+    },
+    {
+      "system": "Government Online Centre (GOC)",
+      "country_label": "GOC",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as providing usage statistics for e-Services; no local authority is named"
+    },
+    {
+      "system": "Digital Services Centres",
+      "country_label": "Digital Services Centre (DSC)",
+      "class": "public-access",
+      "platform": "assisted access to e-Government services, with internet and equipment supplied under an ICTA and Mauritius Telecom agreement",
+      "owner": "Ministry of Information Technology, Communication and Innovation, through the network of Mauritius Post",
+      "tiers": "99 centres in Mauritius and Rodrigues, with 137 Digital Service Assistants and 5 Digital Service Officers; post offices, not local authority offices"
+    },
+    {
+      "system": "National e-Licensing System",
+      "country_label": "National e-Licensing System (EDB); National Business Licensing Platform",
+      "class": "application",
+      "platform": "",
+      "owner": "Economic Development Board",
+      "tiers": "national; the Building and Land Use Permit and the Fire Certificate are listed among digital services, with no local authority named"
+    },
+    {
+      "system": "InfoHighway",
+      "country_label": "InfoHighway",
+      "class": "",
+      "platform": "government data-sharing infrastructure run on a managed services model",
+      "owner": "Ministry of Information Technology, Communication and Innovation",
+      "tiers": "527+ services, 25 publishers and 130+ connections; no local authority is named"
+    },
+    {
+      "system": "Citizen Support Portal",
+      "country_label": "Citizen Support Portal; Citizen Support Unit",
+      "class": "central",
+      "platform": "",
+      "owner": "Prime Minister's Office",
+      "tiers": "national"
+    }
+  ],
+  "note": "The progress update, dated 25 April 2025, is addressed to ministries and departments and never names a local authority; the government intranet (GINS) appears only as a procurement example, with no local authority office said to be on it, so there is no fact."
+}

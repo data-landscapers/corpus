@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-28-ben-agenceecofin-tribune-benin-hub-ia",
+  "facts": [],
+  "systems": [
+    {"system": "réseau de 3 500 kilomètres de fibre optique", "country_label": "réseau de fibre optique reliant l'ensemble des 77 communes", "class": "backbone", "platform": "", "owner": "", "tiers": "said to link all 77 communes of the country; no commune office is said to be on it"}
+  ],
+  "note": "An opinion piece: it says a 3,500 km fibre network links all 77 communes, which is a network reaching the commune and not a statement that any commune office is connected, so it gives a backbone entry and no fact."
+}

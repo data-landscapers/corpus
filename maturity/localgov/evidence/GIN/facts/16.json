@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-07-guinea-secure-paper-shortage-birth-certificates",
+  "facts": [],
+  "systems": [
+    {"system": "Extrait de naissance numérique", "country_label": "extrait de naissance numérique", "class": "application", "platform": "", "owner": "", "tiers": "issued at commune civil-registration centres; almost all communes of Conakry and those of the interior were out of the secured paper for about a month to August 2026, per Ratoma's delegated civil-registration officer"}
+  ],
+  "note": "Communes enrol applicants and issue digital birth extracts, halted by a shortage of secured paper; the document does not say the commune offices work online or how they are connected, so no connection fact is recorded."
+}

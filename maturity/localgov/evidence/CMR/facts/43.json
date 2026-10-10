@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-19-leconomie-urban-data-governance",
+  "facts": [],
+  "systems": [
+    {"system": "guichet unique for building and planning files", "country_label": "guichet unique", "class": "application", "platform": "", "owner": "not stated; created in 2021 and analysed for the files of the urban commune of Douala", "tiers": "Douala, files of 2024-2025: building permits take 77.17 days on average and fewer than 7% of constructions hold one"}
+  ],
+  "note": "A policy note on urban data; it names a one-stop shop for planning files in Douala and says nothing of the connection of commune offices."
+}

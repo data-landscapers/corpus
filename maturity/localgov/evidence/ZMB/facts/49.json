@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-24-ministry-labour-digital-strategy-zamportal",
+  "facts": [],
+  "systems": [
+    {"system": "Zambia Employment and Labour Management System", "country_label": "ZELMIS", "class": "central", "platform": "", "owner": "Ministry of Labour and Social Security", "tiers": "the ministry, present in 54 of 116 districts"},
+    {"system": "Government Service Bus", "country_label": "GSB", "class": "central", "platform": "", "owner": "Smart Zambia Institute", "tiers": "national; 29 labour ministry services onboarded"}
+  ],
+  "note": "A central ministry's services put on the Government Service Bus and Zamportal; the ministry's presence in 54 of 116 districts is a ministry's field offices, and no local government office or its connection is mentioned."
+}

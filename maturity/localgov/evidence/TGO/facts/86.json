@@ -1,0 +1,11 @@
+{
+  "slug": "2021-01-01-ue-document-conjoint-programmation-togo-2021-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Team Europe initiative on decentralisation: construction, electrification and digitalisation of new town halls", "country_label": "construction, électrification et digitalisation des nouvelles mairies", "class": "", "platform": "", "owner": "Germany, European Union and France (Team Europe)", "tiers": "new town halls; training for elected members and staff of the 117 communes"},
+    {"system": "Electrification and connectivity of communes and public infrastructure (stated synergy of the Team Europe energy and connectivity initiative with decentralisation)", "country_label": "électrification et connectivité des communes et des infrastructures publiques", "class": "", "platform": "", "owner": "European Union, France, Germany, European Investment Bank", "tiers": "communes and public infrastructure, as an aim"},
+    {"system": "Digitalised civil-status services in communes", "country_label": "services d'état civil digitalisés", "class": "application", "platform": "", "owner": "Germany, European Union, France, AFD (planned support)", "tiers": "communes and the Autonomous District of Grand Lomé, as planned support"},
+    {"system": "Modernisation and digitisation of cadastral infrastructure", "country_label": "modernisation et numérisation des infrastructures cadastrales", "class": "application", "platform": "", "owner": "Germany, European Union, France, AFD (planned support)", "tiers": "communes, as planned support"}
+  ],
+  "note": "Passages of the EU-Germany-France joint programming document for 2021-2027: it counts 117 communes and proposes support for building, electrifying and 'digitalising' new town halls and for the 'connectivity of communes', as aims with no description of an office connection, no amount and no date of delivery; it gives no fact."
+}

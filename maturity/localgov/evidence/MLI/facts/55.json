@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-mli-journal-officiel-de-la-republique-du-mali-soixante-septieme-annee-nume",
+  "facts": [],
+  "systems": [
+    {"system": "Systèmes d'Informations géographiques", "country_label": "Systèmes d'Informations géographiques", "class": "application", "platform": "", "owner": "", "tiers": "collectivités territoriales and sector ministries; a decree in the Journal officiel of 31 July 2026 gives a state body, not named in the passages, the task of supporting their setting up"}
+  ],
+  "note": "Journal officiel of 31 July 2026, passages only; the collectivités territoriales appear in citations of laws, an allowances table and the missions of a territorial planning body, one of which is to support geographic information systems at their level. A legal mandate with no deployment stated, and nothing on the connection of local government offices."
+}

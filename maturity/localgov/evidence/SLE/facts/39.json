@@ -1,0 +1,10 @@
+{
+  "slug": "2024-10-01-sierra-leone-mocti-national-broadband-strategy-2023-2028",
+  "facts": [],
+  "systems": [
+    {"system": "National Terrestrial Fiber Backbone (NTFB)", "country_label": "National Terrestrial Fiber Backbone", "class": "backbone", "platform": "fibre", "owner": "Government of Sierra Leone, contracted to Leonecom since the unbundling of August 2021", "tiers": "extends capacity to all provinces for mobile operators and internet service providers"},
+    {"system": "Cable Landing Station (CLS)", "country_label": "Cable Landing Station", "class": "backbone", "platform": "", "owner": "Government of Sierra Leone, managed by Zoodlabs", "tiers": "national gateway"},
+    {"system": "Ward-level last mile connectivity", "country_label": "last mile connectivity by extending broadband to the ward level", "class": "backbone", "platform": "ward base stations, at least two for each of 446 wards", "owner": "Ministry of Communication, Technology and Innovation", "tiers": "planned, 100 per cent by 2028"}
+  ],
+  "note": "The broadband strategy for 2023-2028; in the passages held, local councils appear as areas to be covered (a 2025 target of 90 per cent nationwide coverage 'to every region and local councils'), as parties to duct and permitting policy and as possible fibre investors. The target to interconnect public bodies names ministries, universities, schools and hospitals, not councils, and no council office connection is stated."
+}

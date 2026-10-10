@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-23-kenya-vision2030-rapid-assessment-counties-automation-employment",
+  "facts": [],
+  "systems": [
+    {"system": "County revenue collection systems", "country_label": "revenue management systems (cash, semi-digital or cashless)", "class": "application", "platform": "", "owner": "county governments", "tiers": "scored in all 47 counties; six counties in Grade D rely on manual and cash-based systems"},
+    {"system": "County internal office automation", "country_label": "internal office automation, mostly ERP", "class": "application", "platform": "", "owner": "county governments", "tiers": "scored in all 47 counties; full or near-full scores for Murang'a, Nairobi City, Machakos, Laikipia and Nyeri"},
+    {"system": "County front-end service platforms", "country_label": "digitalisation of services, focused on the Single Business Permit", "class": "web", "platform": "", "owner": "county governments", "tiers": "scored in all 47 counties; advanced in Murang'a, Nakuru and Kiambu, limited in Wajir, Garissa, Mandera and West Pokot"}
+  ],
+  "note": "A desk-review scorecard of all 47 counties on service automation, revenue systems and data use, dated 23 February 2026: it scores applications and online services and states nothing about how any county office is connected; its only word on connectivity is a recommendation to speed last-mile internet in northern Kenya."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-27-techafricanews-zambia-ict-infrastructure-rural-public-service-delivery",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "central", "platform": "", "owner": "SMART Zambia Northern Provincial ICT Unit (implementer)", "tiers": "Lupososhi district administration being configured for access; a wireless access point installed there"},
+    {"system": "E-Payslip Self-Service Portal", "country_label": "E-Payslip Self-Service Portal", "class": "application", "platform": "", "owner": "SMART Zambia Northern Provincial ICT Unit (onboarding)", "tiers": "government employees in Mpulungu, Mbala and Lupososhi districts"}
+  ],
+  "note": "The office being put on the government network is the Lupososhi district administration, a district office of central government, and the other work is payslip onboarding and equipment inspection for government employees; no council office is named."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-senegal-civil-registration-digitalization-anec",
+  "facts": [],
+  "systems": [
+    {"system": "Logiciel de gestion de l'état civil (LGEC)", "country_label": "LGEC", "class": "application", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "past its pilot per ANEC's director general; after Dakar and Thiès, being deployed in Diourbel, Fatick and Louga; nearly 70% of the country's civil registry centres digitised as of 2026-08-05, with full national coverage aimed at by the end of 2026"},
+    {"system": "Sama État Civil", "country_label": "Sama État Civil", "class": "web", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "platform deployed alongside the LGEC in the civil registry centres"},
+    {"system": "plateforme de pré-déclaration", "country_label": "plateforme de pré-déclaration", "class": "application", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "developed; to let health facilities notify each birth directly to the competent civil registry centre"}
+  ],
+  "note": "An interview with ANEC's director general on birth registration; it gives the share of civil registry centres digitised and states no connection at the communes' offices."
+}

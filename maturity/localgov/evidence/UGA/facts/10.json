@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-11-uga-chimpreports-zombo-pdm-tablets-fail",
+  "facts": [],
+  "systems": [
+    {"system": "Parish Development Model (PDM) tablets", "country_label": "PDM tablets", "class": "equipment", "platform": "tablets", "owner": "Ministry of ICT and National Guidance, which forbids local repair", "tiers": "parish chiefs and SACCO executives; 61 issued in Zombo District's 61 parishes, 31 inoperative at September 2026; 13,253 distributed to 93 local governments on the Auditor General's count, 178 non-functional"},
+    {"system": "PDM Information System", "country_label": "PDM Information System", "class": "application", "platform": "", "owner": "", "tiers": "loan tracking under the Parish Development Model; named in the Auditor General's recommendations"},
+    {"system": "Wendi digital wallet", "country_label": "Wendi", "class": "application", "platform": "", "owner": "", "tiers": "integrated with the parish tablets for fund disbursement"}
+  ],
+  "note": "Tablets handed to parish chiefs are equipment with no connection stated; the document reports half of Zombo's failing and a return to manual work, but says nothing of how any local government office is connected."
+}

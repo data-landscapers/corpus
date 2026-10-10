@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-28-enhancing-taxpayer-registration-data-sharing-uganda",
+  "facts": [],
+  "systems": [
+    {"system": "Instant TIN", "country_label": "Instant TIN online registration, with an API pulling data from NIRA and URSB", "class": "central", "platform": "", "owner": "Uganda Revenue Authority (URA)", "tiers": "URA, taxpayers online, and TREP field officers; launched January 2022"},
+    {"system": "TREP one-stop shops", "country_label": "Taxpayer Register Expansion Project one-stop shops", "class": "central", "platform": "", "owner": "URA with URSB, KCCA and the Ministry of Local Government", "tiers": "service centres with representatives of URA, URSB, KCCA and local government; since 2013"}
+  ],
+  "note": "A study of the revenue authority's taxpayer registration: KCCA and local governments appear as partners in one-stop shops and as a source of data shared with the URA. Nothing on the connection of a local government office. The capture is an excerpt, cut off in the conclusion."
+}

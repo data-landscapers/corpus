@@ -1,0 +1,17 @@
+{
+  "slug": "2019-10-31-liberia-mopt-national-ict-policy-2019-2024",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The national ICT policy for 2019-2024 sets as measurable targets under 'Local Government' that all Superintendent offices have Internet access by year 5 and that IFMIS is expanded to all counties with reliable broadband by year 5, both shown as on-going; no date is given for the status, so the policy's published date is used.", "as_of": "2019-10-31", "date_precision": "day", "system": "Internet access for Superintendent offices", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The national ICT policy for 2019-2024 names the Ministry of Internal Affairs as the responsible body for the target that all Superintendent offices have Internet access, and the MFDP with the Ministry of Internal Affairs for expanding IFMIS to all counties; dated to the policy's published date.", "as_of": "2019-10-31", "date_precision": "day", "system": "Internet access for Superintendent offices", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Internet access for Superintendent offices", "country_label": "Superintendent offices", "class": "connection", "platform": "", "owner": "Ministry of Internal Affairs", "tiers": "all county Superintendent offices, as a target"},
+    {"system": "County Service Centers Internet access", "country_label": "County Service Centers", "class": "central", "platform": "", "owner": "Ministry of Internal Affairs", "tiers": "all County Service Centers, as a target by year 3"},
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "MFDP with Ministry of Internal Affairs", "tiers": "to be expanded to all counties, as a target by year 5"},
+    {"system": "Government-Wide Network (GovNet)", "country_label": "GovNet", "class": "backbone", "platform": "", "owner": "MFDP and Libtelco named against it", "tiers": "ministries, agencies and commissions"},
+    {"system": "National fibre backbone", "country_label": "national backbone infrastructure", "class": "backbone", "platform": "", "owner": "", "tiers": "to be extended to all 15 county capitals by 2024, as a target; national and county government networks to be connected to it, as an objective"},
+    {"system": "National Data Center", "country_label": "NDC", "class": "backbone", "platform": "", "owner": "", "tiers": "primary in Monrovia with secondary ones across the counties, as planned"},
+    {"system": "Libtelco secure government network", "country_label": "", "class": "backbone", "platform": "", "owner": "Libtelco, the national operator", "tiers": "the civil service; fibre network in Monrovia"}
+  ],
+  "note": ""
+}

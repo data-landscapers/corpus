@@ -1,0 +1,76 @@
+{
+  "slug": "2010-01-01-electronic-government-initiatives-in-the-public-service-of-namibia",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "In a University of Namibia study carried out February to August 2007, which surveyed two local authorities among its institutions, the acting chief executive of one said he is careful not to install e-mail for every staff member for fear of viruses and misuse; the authors read it as a gap in e-government awareness between central and local government.",
+      "as_of": "2007",
+      "date_precision": "year",
+      "system": "e-mail at a local authority (unnamed)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "The acting chief executive of one of two local authorities surveyed in 2007 spoke of e-mail as something the authority itself installs for staff, and withholds from some; the study gives no count of local authorities connected.",
+      "as_of": "2007",
+      "date_precision": "year",
+      "system": "e-mail at a local authority (unnamed)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-mail at a local authority (unnamed)",
+      "country_label": "e-mail",
+      "class": "connection",
+      "platform": "",
+      "owner": "the local authority",
+      "tiers": "one of two local authorities surveyed, to some staff only (2007)"
+    },
+    {
+      "system": "GRNNet",
+      "country_label": "government wide network (GRNNet)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Office of the Prime Minister, Department of Public Service Information Technology Management",
+      "tiers": "the public service; no local authority said to be on it"
+    },
+    {
+      "system": "GRN Intranet/Internet Gateway",
+      "country_label": "GRN Intranet/Internet Gateway",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Office of the Prime Minister",
+      "tiers": "links all government ministries, except offices in rented buildings that are not networked"
+    },
+    {
+      "system": "Regional council network link and Decentralisation Extension Programme",
+      "country_label": "Decentralisation Extension Programme; expansion of network to regional councils",
+      "class": "upper-tier",
+      "platform": "",
+      "owner": "Ministry of Regional and Local Government and Housing",
+      "tiers": "regional councils, linked to the Ministry and not to the rest of the public service through the Office of the Prime Minister; programme begun 2006 to give all regional council staff 24-hour Internet and e-mail; limited bandwidth reported at regional council level"
+    },
+    {
+      "system": "Multi-purpose community centres",
+      "country_label": "multi-purpose community centre",
+      "class": "public-access",
+      "platform": "",
+      "owner": "Government (announced by the Ministry of Information and Broadcasting)",
+      "tiers": "one planned in each of the 13 regions (stated 2005)"
+    },
+    {
+      "system": "Local authority information systems (unnamed)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Local Authority A and Local Authority B",
+      "tiers": "two surveyed local authorities, both developed with South African consultants"
+    }
+  ],
+  "note": "Regional councils are the upper tier and give no fact. The paper cites a Sub-National e-Government Strategy (Ministry of Regional and Local Government and Housing, 2004) without saying it names the connection of local authorities, so no governance fact is taken."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2017-06-19-loi-2017-08-identification-personnes-physiques",
+  "facts": [],
+  "systems": [
+    {
+      "system": "registre communal des personnes physiques",
+      "country_label": "registre communal des personnes physiques",
+      "class": "application",
+      "platform": "",
+      "owner": "Each commune, the mayor being charged with keeping it and able to delegate it to heads of arrondissement; designed, implemented and governed by the Agence Nationale d'Identification des Personnes (ANIP)",
+      "tiers": "Every commune, by the law of 19 June 2017: two registers (Beninese and foreign residents), kept up to date with resources the government allocates to each commune; data pass to the national register electronically, or on paper within fifteen days where that is impossible"
+    },
+    {
+      "system": "registre national des personnes physiques",
+      "country_label": "registre national des personnes physiques",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification des Personnes (ANIP)",
+      "tiers": "National; the law gives mayors and heads of arrondissement access to consult it"
+    },
+    {
+      "system": "registre national des documents d'identification",
+      "country_label": "registre national des documents d'identification",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification des Personnes (ANIP)",
+      "tiers": "National; operated and consulted online by police, gendarmerie, customs and the issuing authorities"
+    }
+  ],
+  "note": "A law: it requires each commune to keep a register of persons and gives mayors access to the national register, with electronic transmission as the rule. It prescribes and does not state that any commune office is connected. A law places nothing."
+}

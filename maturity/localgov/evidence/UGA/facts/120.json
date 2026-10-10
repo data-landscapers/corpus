@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-13-ppda-iso27001-certification",
+  "facts": [],
+  "systems": [
+    {"system": "Uganda Digital Acceleration Project (UDAP-GovNet)", "country_label": "UDAP-GovNet", "class": "", "platform": "", "owner": "National Information Technology Authority-Uganda (NITA-U)", "tiers": "named only as the project under which NITA-U supported the procurement authority's certification; what it does is not described"}
+  ],
+  "note": "The procurement authority's ISO/IEC 27001 certification; GovNet appears only in a project name, and no local government office is mentioned."
+}

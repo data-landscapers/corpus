@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-techafricanews-zamportal-lupososhi-road-tax",
+  "facts": [],
+  "systems": [
+    {"system": "Connectivity at Lupososhi District Administration", "country_label": "", "class": "central", "platform": "", "owner": "Northern Provincial ICT Unit (installer)", "tiers": "Lupososhi District Administration, Northern Province"},
+    {"system": "Zamportal", "country_label": "Zamportal", "class": "web", "platform": "", "owner": "", "tiers": "used from the Lupososhi District Administration office to print a road tax document"}
+  ],
+  "note": "The office connected is the Lupososhi District Administration, a district office of central government as the document describes it, not a council; no local government office is named."
+}

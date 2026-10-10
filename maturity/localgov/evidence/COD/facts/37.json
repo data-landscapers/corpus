@@ -1,0 +1,12 @@
+{
+  "slug": "2024-11-19-worldbank-financing-agreement-digital-transformation-project",
+  "facts": [],
+  "systems": [
+    {"system": "secure internal virtual government network/intranet", "country_label": "secure internal virtual government network/intranet", "class": "backbone", "platform": "closed virtual network with a network operating centre, public IP licensing and service-level contracts", "owner": "Government of DR Congo through the ministry in charge of telecoms (MPTNTIC), financed by IDA credit 7602-ZR of USD 400 million", "tiers": "to give access 'among civil servants'; to be established under Part 2.1(b); no tier of government and no local government office named"},
+    {"system": "pre-purchased internet capacity and local access networks for selected public institutions", "country_label": "", "class": "backbone", "platform": "internet capacity, local access network and communications equipment, with off-grid solar where needed", "owner": "MPTNTIC under Part 1.3(b) of the project", "tiers": "'a select number of public institutions, including in climate risk affected areas'; the institutions are not named and none is said to be a local government"},
+    {"system": "fibre optic backbone and cross-border links", "country_label": "", "class": "backbone", "platform": "fibre optic, open access", "owner": "private operators to be selected by competitive tender for gap financing, under Part 1.2", "tiers": "national priority links; to be deployed"},
+    {"system": "centralized government data hosting (new data centre, back-up facility and government cloud)", "country_label": "", "class": "backbone", "platform": "", "owner": "Government of DR Congo, under Part 2.1(c)", "tiers": "central government; to be established"},
+    {"system": "Guichet Numérique", "country_label": "Guichet Numerique", "class": "central", "platform": "unified e-government services portal", "owner": "Government of DR Congo, under Part 2.1(a)", "tiers": "national; feasibility studies only"}
+  ],
+  "note": "The financing agreement signed 19 and 25 November 2024, held as an excerpt: it authorises a government intranet, connectivity for 'selected public institutions' and a backbone, all to be built, and names no local government or its offices. A legal instrument describing what may be financed; no fact is taken."
+}

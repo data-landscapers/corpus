@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-13-tanzania-joins-global-leaders-digital-government",
+  "facts": [],
+  "systems": [
+    {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "GovESB", "class": "application", "platform": "", "owner": "", "tiers": "data exchange across government systems; no local government tier stated"},
+    {"system": "Human Capital Information Management System (HCIMS)", "country_label": "HCIMS", "class": "application", "platform": "", "owner": "", "tiers": "public service and payroll management; no local government tier stated"},
+    {"system": "Ajira Portal", "country_label": "Ajira Portal", "class": "application", "platform": "", "owner": "", "tiers": "public service recruitment; no local government tier stated"}
+  ],
+  "note": "The World Bank GovTech index placing and the national core systems behind it; the document says nothing of local government offices or their connection."
+}

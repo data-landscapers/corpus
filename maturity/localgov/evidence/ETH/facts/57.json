@@ -1,0 +1,86 @@
+{
+  "slug": "2021-01-01-eth-strengthening-education-management-information-systems-emis-and-data-f",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The education sector plan's mid-term review (Jimma University, 2019), as tabulated in this UNESCO case study, gives 592 as the performance against a 2017-2018 target of all for the number of woreda offices with relevant infrastructure using the Integrated Financial Management Information System to record transactions; the study does not say how those offices are connected, and gives no total of woredas.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:592",
+      "fact": "592 woreda offices with relevant infrastructure were using IFMIS to record transactions against a 2017-2018 target of all woreda offices, on the education sector plan's mid-term review (Jimma University, 2019) as tabulated by the UNESCO case study; no denominator is given.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "none",
+      "fact": "The UNESCO case study, from interviews and a visit to Gambella around 2019, states that the annual school census moves on paper: three-copy questionnaires are carried between schools and woredas, sometimes on foot, woredas stamp them and send them to regional education bureaus often by public transport, data entry is done at the bureaus, and more often than not there are no computers at woreda level.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Education Management Information System school census (StatEduc2)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "country_label": "IFMIS",
+      "class": "application",
+      "platform": "",
+      "owner": "Government of Ethiopia (owner not named in the document)",
+      "tiers": "federal and regional offices; 592 woreda offices with relevant infrastructure recording transactions (2017-2018 target year)"
+    },
+    {
+      "system": "Education Management Information System (EMIS)",
+      "country_label": "EMIS",
+      "class": "upper-tier",
+      "platform": "StatEduc2 (UNESCO Institute for Statistics), with Excel",
+      "owner": "Ministry of Education, EMIS and ICT Directorate",
+      "tiers": "data entered at regional education bureaus and compiled federally; woredas and schools handle paper questionnaires only"
+    },
+    {
+      "system": "School Management Information System (SMIS)",
+      "country_label": "SMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Education",
+      "tiers": "pilot at school level; national rollout questioned for want of internet coverage and suitable computers at local levels"
+    },
+    {
+      "system": "Education Cluster mobile data collection pilot",
+      "country_label": "",
+      "class": "equipment",
+      "platform": "mobile application on tablets",
+      "owner": "Education Cluster, with 12 tablets from Save the Children",
+      "tiers": "woreda EMIS officers entering paper school questionnaires and transmitting to central servers; not sustained after the first round, airtime and per diem costs cited"
+    },
+    {
+      "system": "Computers and generators supplied to woredas and schools by partners for EMIS",
+      "country_label": "",
+      "class": "equipment",
+      "platform": "",
+      "owner": "development partners (unnamed)",
+      "tiers": "woredas and schools; many computers reported not functional and generators out of order"
+    },
+    {
+      "system": "Education Management Information System Action Plan (tablet-based EMIS)",
+      "country_label": "EMIS Action Plan",
+      "class": "equipment",
+      "platform": "tablets, SMS transmission where there is no internet, central server",
+      "owner": "Ministry of Education, drafted with FHI360 under a British Council contract",
+      "tiers": "planned for schools, woredas, zones, regions and federal level; not resourced"
+    }
+  ],
+  "note": "The woreda offices in this document are read through the education sector: the IFMIS count comes from the education sector plan's indicator table, whose columns are run together in the extracted text (baseline X%, target All, performance 592)."
+}

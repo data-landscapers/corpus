@@ -1,0 +1,15 @@
+{
+  "slug": "2024-09-15-eth-digital-health-systems",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2",
+      "class": "application",
+      "platform": "DHIS2, open source",
+      "owner": "Ministry of Health and regional health bureaus",
+      "tiers": "implemented nationwide; described as the hub for health data collection, analysis and reporting at regional health bureau and district levels, and deployed in health facilities"
+    }
+  ],
+  "note": "An undated catalogue page of the Central Ethiopia Regional Health Bureau (the published date is a proxy) describing health-sector software: DHIS2, eCHIS, the Master Facility Registry, EMR, Dagu, eMCS and iHRIS. Woreda appears as a level of reporting and as facility metadata; no count of districts, no dated statement and nothing on how district offices are connected."
+}

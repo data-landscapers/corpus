@@ -1,0 +1,31 @@
+{
+  "slug": "2017-01-01-eximbank-cn-cpv-001-china-eximbank-provides-rmb-845-million",
+  "facts": [],
+  "systems": [
+    {
+      "system": "State Private Technological Network (RTPE)",
+      "country_label": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "class": "backbone",
+      "platform": "Huawei, under a 2015 contract with NOSi; 16 km of fibre for schools",
+      "owner": "NOSi",
+      "tiers": "schools, public institutions and hospitals; no local government office said to be on it"
+    },
+    {
+      "system": "Data Center",
+      "country_label": "Data Center",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": "national"
+    },
+    {
+      "system": "WebLabs",
+      "country_label": "WebLabs",
+      "class": "public-access",
+      "platform": "",
+      "owner": "",
+      "tiers": "equipment supplied under phase 2; where it went is not stated"
+    }
+  ],
+  "note": "Deal record of China Eximbank's RMB 84.5 million concessional loan (agreement of 20 February 2017) for phase 2 of the e-government project: it widens public institutions' access to the RTPE but names no local government office, so the network is backbone here and gives no fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-review-of-operations-and-management-of-smart-zambia-national-assembly",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "backbone", "platform": "", "owner": "Smart Zambia Institute (Electronic Government Division), Office of the President", "tiers": "55 institutions connected of 139 targeted in 2023 (39 per cent); 263 of 15,600 targeted sites as of December 2022; no local authority named"},
+    {"system": "Starlink satellite connectivity partnership", "country_label": "alternative connectivity", "class": "", "platform": "Starlink", "owner": "Smart Zambia Institute with Starlink", "tiers": "past piloting in unserved and underserved areas; sites not stated"}
+  ],
+  "note": "The report gives Government Wide Area Network coverage by institutions and sites only and puts no local authority office on it, so the network is a backbone entry and gives no fact; the capture is an excerpt, truncated before the recommendations."
+}

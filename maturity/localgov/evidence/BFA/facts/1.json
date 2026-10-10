@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan",
+  "facts": [],
+  "systems": [
+    {"system": "Maisons du citoyen (Zama Tchè)", "country_label": "Zama Tchè", "class": "central", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques, with La Poste and the Banque postale", "tiers": "80 launched, two pilot sites, studies and works in 70 communes in eight regions; target one in each of the 351 communes by 2030"},
+    {"system": "réseau national interministériel", "country_label": "réseau national interministériel", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "3,140 public buildings connected, up 12% since 2022; no commune office named"},
+    {"system": "datacenters modulaires", "country_label": "datacenters modulaires", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "two, inaugurated January 2026, hosting the public administration's platforms and data"}
+  ],
+  "note": "No fact: the Maisons du citoyen are service centres run by the ministry and the post, and the 3,140 public buildings on the interministerial network are not said to include any commune office."
+}

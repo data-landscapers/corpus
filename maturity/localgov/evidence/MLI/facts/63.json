@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "outil de gestion digitalisée (school management tool tracking teacher presence and mobility and pupil attendance)",
+      "country_label": "outil de gestion digitalisée",
+      "class": "central",
+      "platform": "",
+      "owner": "CPS du secteur Education, with support from the Projet d'Appui à la Décentralisation de l'Éducation au Mali (PADEM)",
+      "tiers": "Moved to operational scale 8-12 December 2025; training to be deployed in the académies d'enseignement for the Conseillers à l'Orientation of the Centres d'Animation Pédagogique, IT staff and heads of planning divisions; data collection tools meant to secure reporting up from the collectivités territoriales"
+    }
+  ],
+  "note": "Statistical bulletin: collectivités territoriales appear as a source of education data reported upward and as participants in regional planning sessions. The one system named is used in the education ministry's field structures; nothing states that any local government office is connected."
+}

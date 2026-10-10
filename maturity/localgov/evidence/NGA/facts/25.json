@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-nga-thisday-zero-rated-student-data-100mb-daily",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria Education Data Initiative / Nigeria Education Data Infrastructure", "country_label": "Nigeria Education Data Initiative", "class": "central", "platform": "", "owner": "Federal Ministry of Education", "tiers": "described by the minister as a unified national education data architecture connecting local government areas, states and federal institutions; being built (September 2026)"},
+    {"system": "Digital Nigeria Education Management Information System", "country_label": "Digital Nigeria Education Management Information System", "class": "central", "platform": "", "owner": "Federal Ministry of Education", "tiers": "national; more than 240,000 schools geo-mapped, Annual School Census being digitised"},
+    {"system": "Initiative for Zero-Rated Access to Educational Platforms and Content", "country_label": "Zero-Rated Access Initiative", "class": "public-access", "platform": "", "owner": "Nigerian Communications Commission with mobile operators (ALTON) and the Federal Ministry of Education", "tiers": "students of public senior secondary schools and tertiary institutions, 100MB a day from 1 October 2026"}
+  ],
+  "note": "On free data for students; the education minister says an education data architecture will connect local government areas, states and federal institutions, a federal ministry's system with no local government office said to be connected, so there is no fact."
+}

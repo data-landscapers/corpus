@@ -1,0 +1,8 @@
+{
+  "slug": "2021-11-01-inic-sao-tome-quadro-nacional-interoperabilidade-qni-v01",
+  "facts": [],
+  "systems": [
+    {"system": "Government network", "country_label": "rede do governo / rede privada do governo", "class": "backbone", "platform": "", "owner": "Government", "tiers": "named only in the interconnection standard for label switching between the government's private network and the public network; no office said to be on it"}
+  ],
+  "note": "A draft interoperability framework (version 0.1, November 2021) of standards, made binding on national bodies and on regional and local powers; it prescribes how government networks interconnect and states nothing about any local government office being connected or working in a system. The capture is cut off at the fetch limit, in segment 3."
+}

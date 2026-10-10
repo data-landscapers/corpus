@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-06-mionjo-district-2-0-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Dispositif District 2.0", "country_label": "Dispositif District 2.0", "class": "", "platform": "", "owner": "Projet MIONJO (World Bank-financed) with the Ministère de l'Intérieur et de la Décentralisation", "tiers": "Anosy and Androy regions from 1 June 2026, Atsimo Andrefana from 4 June 2026"},
+    {"system": "Physical servers handed to territorial authorities", "country_label": "serveurs physiques destinés aux collectivités territoriales", "class": "equipment", "platform": "physical servers", "owner": "Projet MIONJO (World Bank-financed) with the Ministère de l'Intérieur et de la Décentralisation", "tiers": "collectivités territoriales of Anosy, Androy and Atsimo Andrefana"},
+    {"system": "e-Zaha", "country_label": "plateforme e-Zaha", "class": "application", "platform": "", "owner": "Projet MIONJO (World Bank-financed) with the Ministère de l'Intérieur et de la Décentralisation", "tiers": "commune level: data collected at communal level; communal officials trained in Anosy, Androy and Atsimo Andrefana"},
+    {"system": "I-Tantsoroka, I-Hofana and I-Distrika", "country_label": "plateformes I-Tantsoroka, I-Hofana et I-Distrika", "class": "", "platform": "", "owner": "Projet MIONJO", "tiers": "put into service in resource centres (centres de ressources)"},
+    {"system": "Digital literacy training of communal officials", "country_label": "alphabétisation numérique des responsables communaux", "class": "capacity", "platform": "", "owner": "Projet MIONJO", "tiers": "940 communal officials in the three southern regions"}
+  ],
+  "note": "Servers, training and platforms for communes in three southern regions; the document states no data connection at any commune office, only an aim of a 'more connected' territorial administration."
+}

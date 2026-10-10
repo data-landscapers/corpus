@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-congo-sifec-civil-status-digitisation-senate",
+  "facts": [],
+  "systems": [
+    {"system": "Sifec (Integrated Civil Status Facts System)", "country_label": "Sifec", "class": "application", "platform": "", "owner": "the state; announced by the Minister of the Interior and Decentralisation", "tiers": "to centralise birth, marriage and death certificates issued in town halls, districts and urban communities; rollout described as imminent on 7 August 2026, not yet deployed"}
+  ],
+  "note": "Senate session of 7 August 2026: Sifec is a civil-status application still awaiting deployment; nothing is stated on the connection of town halls or other local government offices."
+}

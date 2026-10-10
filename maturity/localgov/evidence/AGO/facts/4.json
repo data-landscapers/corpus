@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-21-pti-angola-telecom-fibra-lobito-baia-farta",
+  "facts": [],
+  "systems": [
+    {"system": "Rede Nacional de Fibra Óptica", "country_label": "Rede Nacional de Fibra Óptica", "class": "backbone", "platform": "", "owner": "Ministry of Telecommunications, Information Technologies and Social Communication (MINTTICS)", "tiers": "section completed to the city of Lobito, Benguela, at about 400 Gb; no local government office said to be on it"},
+    {"system": "Tudo Nosso", "country_label": "rede de fibra óptica \"Tudo Nosso\"", "class": "", "platform": "", "owner": "Angola Telecom", "tiers": "households of the Centralidade da Baía Farta, Benguela: voice, data and television"},
+    {"system": "Angola Online", "country_label": "Ponto de Internet gratuito, projecto Angola Online", "class": "public-access", "platform": "", "owner": "", "tiers": "a free internet point for a primary school at the Centralidade da Baía Farta"}
+  ],
+  "note": "A residential fibre service, a backbone section and a free internet point at a school; no local government office is said to be connected."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-11 Mzalendo ICT Promise Tracker Kenya",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre optic connectivity network", "country_label": "national fiber optic connectivity network (100,000 km promise)", "class": "backbone", "platform": "", "owner": "ICT Authority, with Kenya Power for last-mile connectivity", "tiers": "countrywide; 30,454 km of public sector fibre by 2025 on the National Treasury's report; last mile aimed at 53,000 public institutions including schools and hospitals"},
+    {"system": "JiConnect public Wi-Fi hotspots", "country_label": "JiConnect programme", "class": "public-access", "platform": "", "owner": "national government", "tiers": "1,563 new public Wi-Fi hotspots countrywide against a target of 25,000, mostly at markets"}
+  ],
+  "note": "A promise tracker on the national fibre network, public Wi-Fi and online services: it names county governments only as resisting digitisation and working in silos on the rollout, and puts no county office on a connection."
+}

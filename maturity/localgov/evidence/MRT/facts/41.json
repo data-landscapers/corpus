@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-paneotech-hydromet-ai-systeme-alerte-precoce-vallee-fleuve-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "HydroMet AI", "country_label": "HydroMet AI", "class": "central", "platform": "eight microservices on Amazon Web Services; built by PANEOTECH with Effica SYS Co SARL", "owner": "UNDP Mauritania, operated with the National Meteorological Office, the Directorate General for Civil Security and Crisis Management and the National Society for Rural Development", "tiers": "national agencies and regional agricultural delegations; the local authorities of Kaédi and Rosso are named among those the system serves in the pilot zones"}
+  ],
+  "note": "A supplier's account of a national early warning system run by national agencies; the local authorities of Kaédi and Rosso are named as partners and recipients of alerts, with nothing stated about a connection at their offices or work done in the system there."
+}

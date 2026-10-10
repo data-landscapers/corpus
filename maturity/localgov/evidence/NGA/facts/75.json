@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-npc-nationwide-digital-birth-death-registration",
+  "facts": [],
+  "systems": [
+    {"system": "VitalReg", "country_label": "Electronic Civil Registration and Vital Statistics (E-CRVS) system; VitalReg platform", "class": "central", "platform": "operated under a public-private partnership with Barnks-forte Technologies Ltd", "owner": "National Population Commission", "tiers": "operational nationwide from 1 July 2026; 4,011 functional registration centres of the Commission across the 774 local government areas, to rise to about 8,000; 24-hour online access"}
+  ],
+  "note": "A national commission's civil registration platform and its own registration centres: local government areas are where the centres sit; nothing on local government offices or their connection."
+}

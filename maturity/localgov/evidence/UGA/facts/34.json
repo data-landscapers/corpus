@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-07-digital-inclusion-uganda-telecoms-safaricom-vodacom",
+  "facts": [],
+  "systems": [
+    {"system": "National Backbone Infrastructure Phase V", "country_label": "Phase V of the National Backbone Infrastructure project", "class": "backbone", "platform": "", "owner": "not stated", "tiers": "said by a speaker at a dialogue on digital public infrastructure to have extended internet connectivity to all districts, largely serving government institutions and not adequately reaching the last mile; no local government office named"},
+    {"system": "UGHub", "country_label": "UGHub, the National Data Integration Platform", "class": "", "platform": "", "owner": "not stated", "tiers": "more than 90 government entities and 68 private-sector organisations connected; no local government named"},
+    {"system": "community ICT centres under UCUSAF (formerly RCDF)", "country_label": "community ICT centres", "class": "public-access", "platform": "", "owner": "Uganda Communications Universal Service and Access Fund", "tiers": "several said to have fallen into disrepair"}
+  ],
+  "note": "A speaker says backbone Phase V reached all districts and largely serves government institutions; that is a network reaching the district, with no local government office put on it, so no fact is taken."
+}

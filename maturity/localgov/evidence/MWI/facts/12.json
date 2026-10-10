@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-govt-urges-communities-to-use-new-cdf-dashboard-to-report-project-concerns",
+  "facts": [],
+  "systems": [
+    {"system": "Constituency Development Fund dashboard", "country_label": "CDF dashboard", "class": "application", "platform": "", "owner": "Ministry of Local Government", "tiers": "national: monitoring of more than 2,000 CDF projects that councils implement, with a public complaints channel; councils are not said to work in it from their offices"}
+  ],
+  "note": "A ministry dashboard for tracking council-implemented CDF projects and receiving complaints; the document does not say councils enter data in it or how any council office is connected."
+}

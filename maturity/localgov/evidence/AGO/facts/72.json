@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-26-angola-avanca-para-digitalizacao-da-seguranca-social",
+  "facts": [],
+  "systems": [
+    {"system": "INSS electronic processing system", "country_label": "sistema electrónico do INSS (tramitação electrónica; Referência Única de Pagamento)", "class": "central", "platform": "", "owner": "Instituto Nacional de Segurança Social (INSS)", "tiers": "INSS agencies in all provincial seats and several municipalities"}
+  ],
+  "note": "Concerns the social security institute's own agencies, a national agency's field offices; municipalities appear only as places where INSS has agencies. Nothing on local government offices."
+}

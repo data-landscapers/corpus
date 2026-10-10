@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-cabo-verde-comunicado-grupo-de-apoio-orcamental-novembro-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma Eletrónica de Contratação Pública", "country_label": "Plataforma Eletrónica de Contratação Pública (e-procurement)", "class": "application", "platform": "", "owner": "Government of Cabo Verde", "tiers": "In growing use centrally; the budget support partners ask in November 2025 that its extension and interoperability at municipal level be speeded up, so it is not yet extended to the municipalities"},
+    {"system": "Portal Único do Estado", "country_label": "Portal Único do Estado", "class": "central", "platform": "", "owner": "Government of Cabo Verde", "tiers": "National, in development"}
+  ],
+  "note": "Budget Support Group communiqué on its mission of 20 to 28 November 2025. Its municipal points are that e-procurement has still to be extended to municipal level, that the Court of Auditors audited municipalities and that social-income coordination with municipalities must improve; nothing is said of any municipal office's connection."
+}

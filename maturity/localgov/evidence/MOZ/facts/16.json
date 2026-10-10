@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "eCRVS", "country_label": "eCRVS / SIRCEV", "class": "central", "platform": "", "owner": "civil registration service", "tiers": "68 conservatories and about 120 posts (2018), 156 hospital posts (2024); rural administrative posts on paper"}
+  ],
+  "note": "The Mozambique rows cover rural clinics, schools, police stations and civil registration posts, all field offices of central services; none is a local government office and no office connection is stated. The source is also on the study's exclusion list as an AI-assisted compilation."
+}

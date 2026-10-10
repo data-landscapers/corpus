@@ -1,0 +1,23 @@
+{
+  "slug": "2020-01-01-worldbank-assessment-of-land-governance-in-egypt",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Information and asset management systems for public land inside the zemam",
+      "country_label": "نظم إدارة المعلومات والأصول",
+      "class": "application",
+      "platform": "",
+      "owner": "Local units; the state-owned land departments within the governorates record local government assets",
+      "tiers": "Described as weak, with 'very modest' capacity in the governorate departments; no system is named and no connection is stated"
+    },
+    {
+      "system": "Unified online database of decrees assigning public land",
+      "country_label": "",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "A proposed action of the assessment, not a deployment"
+    }
+  ],
+  "note": "World Bank land governance assessment; the term passages concern local administration's roles in land, planning, permits and revenue. Nothing is stated about ICT connection of local unit offices."
+}

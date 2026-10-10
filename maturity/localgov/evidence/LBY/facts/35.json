@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-who-emro-libya-annual-report-2023",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "District Health Information Software 2 (DHIS2)", "class": "central", "platform": "DHIS2", "owner": "Ministry of Health, with WHO and other health partners", "tiers": "Rolled out in 40 municipalities in 2023, in 465 primary health care facilities and 51 hospitals, reaching a 100% implementation rate nationwide; 655 staff of health facilities and of health administration at municipality level trained and given laptops, desktops and tablets"},
+    {"system": "HeRAMS", "country_label": "Health Resources and Services Availability Monitoring System (HeRAMS)", "class": "central", "platform": "HeRAMS", "owner": "Ministry of Health, with WHO", "tiers": "Hospital level across Libya in 2023; primary health care facilities planned for 2024"},
+    {"system": "EWARN and RASED", "country_label": "Early Warning and Response Network (EWARN); RASED", "class": "central", "platform": "RASED, developed by a local company, chosen in December 2023 for integrated disease surveillance", "owner": "National Centre for Disease Control, with WHO", "tiers": "326 reporting sites in 2023; a pilot of integrated disease surveillance planned in 10 municipalities for early 2024"}
+  ],
+  "note": "WHO's 2023 report on the health sector; its municipality-level users are health administration and health facility staff working in the Ministry of Health's systems, and the document does not say the municipal councils' own offices are connected or equipped."
+}

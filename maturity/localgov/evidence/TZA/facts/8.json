@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-23-dailynews-tanzania-forest-revenue-integration",
+  "facts": [],
+  "systems": [
+    {"system": "TAUSI", "country_label": "TAUSI", "class": "application", "platform": "", "owner": "PO-RALG (Prime Minister's Office-Regional Administration and Local Government, as the document names it)", "tiers": "used by PO-RALG for collecting revenues and other charges; council use not stated"},
+    {"system": "Tanzania Forest Management Information System (TAFFMIS)", "country_label": "TAFFMIS", "class": "central", "platform": "", "owner": "Tanzania Forest Services Agency (TFS)", "tiers": "TFS licences and transport permits; some council and village forests not linked to it"}
+  ],
+  "note": "Application evidence only: some councils and village governments still manage forest products in books and hard copy (ministry official, August 2026), and TAUSI is to be integrated with TAFFMIS; nothing on the connection of council offices."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-uga-the-education-statistics-abstract-2025-volume-1",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Ministry of Education and Sports states that its redeveloped web-based EMIS was rolled out to all Local Governments in November 2022 and that Local Government officials (DEO, MEO, CEO, DIS, CAO) and Lower Local Government officers are among its users; it does not say where or over what connection they work in it.", "as_of": "2022-11", "date_precision": "month", "system": "Local Government officials working in the web-based EMIS", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "EMIS", "country_label": "Education Management Information System (redeveloped)", "class": "application", "platform": "web-based", "owner": "Ministry of Education and Sports, redeveloped with the Ministry of ICT and National Guidance", "tiers": "ministry, Local Government officials (DEO/MEO/CEO/DIS/CAO), Lower Local Government officers, heads of education institutions, the public"}
+  ],
+  "note": "The only statement in the field is the EMIS rollout; the rest of the passages is annex tables listed by local government, with no ICT content."
+}

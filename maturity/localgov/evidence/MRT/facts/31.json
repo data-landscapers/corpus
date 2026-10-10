@@ -1,0 +1,10 @@
+{
+  "slug": "2022-08-26-world-bank-warcip-apl2-icr-mauritanie-backbone-national",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre-optic backbone (WARCIP APL2 links)", "country_label": "five fiber optic links", "class": "backbone", "platform": "", "owner": "SDIN (state vehicle), operated by International Mauritania Telecom under an affermage contract, open access", "tiers": "five links totalling 1,710 km, carrying international capacity to most provincial capitals"},
+    {"system": "Government intranet", "country_label": "Government intranet", "class": "backbone", "platform": "", "owner": "", "tiers": "named as items 431 and 432 of the National Strategy for the Modernization of the Administration and ICT 2012-2016: upgrade the data center and set up a Government intranet"},
+    {"system": "National Internet Exchange Point, carrier hotel and data center", "country_label": "IXP, carrier hotel / data center", "class": "backbone", "platform": "", "owner": "", "tiers": "national; the carrier hotel and data center building financed by the European Investment Bank"}
+  ],
+  "note": "The World Bank's completion report on the national backbone states no local government office on it; the government intranet appears only as an item of the 2012-2016 strategy. The body is truncated partway through the efficacy section."
+}

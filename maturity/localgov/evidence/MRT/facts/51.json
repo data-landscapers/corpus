@@ -1,0 +1,10 @@
+{
+  "slug": "2022-06-01-mtnima-agenda-national-transformation-numerique-2022-2025",
+  "facts": [],
+  "systems": [
+    {"system": "backbone fibre national", "country_label": "backbone national", "class": "backbone", "platform": "", "owner": "MTNIMA (project lead); IMT, SDIN and telecom operators as stakeholders", "tiers": "4,000 km in place; project OS1.I2.P1 to extend it to the chefs-lieux of all wilayas, moughataas and communes, 71,000k EUR over 4 years, financed State 13%, private 12%, partners 75%"},
+    {"system": "Connectivité des villages et communes à proximité du backbone (projet WARCIP)", "country_label": "OS1.I2.P2", "class": "backbone", "platform": "", "owner": "MTNIMA (project lead); IMT, SDIN", "tiers": "villages and communes within reasonable distance of the backbone; new project, 4,000k EUR over 4 years, State and partners; KPI is villages connected"},
+    {"system": "New Deal Mobile pour la Mauritanie", "country_label": "OS1.I3.P1", "class": "", "platform": "", "owner": "MTNIMA and ARE; telecom operators", "tiers": "3G or 4G mobile coverage in all communes and on road axes, FTTH in parts of Nouakchott, FTTx/4G in other main towns; new project"}
+  ],
+  "note": "Passages of the digital agenda; communes appear as places the backbone and mobile coverage are to reach (chefs-lieux, villages), with no commune office said to be connected or to be connected. Many communes are stated to have 2G only or no coverage."
+}

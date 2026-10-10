@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-21-anec-senegal-etat-davancement-lgec-437-sur-629",
+  "facts": [],
+  "systems": [
+    {"system": "Logiciel de Gestion de l'État Civil (LGEC)", "country_label": "LGEC", "class": "application", "platform": "", "owner": "Agence Nationale de l'État Civil (ANEC)", "tiers": "437 of the country's 629 civil registry centres fully deployed, 70%, on ANEC's consolidated data of 2026-07-17"},
+    {"system": "SAMA ETAT CIVIL", "country_label": "Sama État Civil", "class": "web", "platform": "", "owner": "Agence Nationale de l'État Civil (ANEC)", "tiers": "online users' platform being activated alongside the LGEC; no count in the excerpt"}
+  ],
+  "note": "An excerpt of the agency's own post: it counts civil registry centres with the software deployed and says nothing of how the centres are connected."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-lab-mosip-wuri-niger",
+  "facts": [],
+  "systems": [
+    {"system": "Lab MOSIP", "country_label": "Lab MOSIP", "class": "central", "platform": "MOSIP (Modular Open Source Identity Platform)", "owner": "Projet WURI-Niger, financed by the World Bank", "tiers": "a pilot in the commune of Tanout, Zinder region, enrolling 500 people; tests to extend to other communes, and integration with the national population register in prospect"}
+  ],
+  "note": "The WURI-Niger project's undated page on its identity test lab: the Tanout pilot is an enrolment of residents held in the commune, not a system the commune office works in, and no local government office's connection is stated."
+}

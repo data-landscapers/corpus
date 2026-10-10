@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-05-world-bank-tanzania-digital-dividend",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "African Business says the US$150m Digital Tanzania Project, financed by the World Bank, supports the extension of broadband to schools, health facilities and local government offices; it gives no count of offices and no date, so the date is the document's published date.", "as_of": "2026-08-05", "date_precision": "day", "system": "Digital Tanzania Project broadband extension", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "African Business describes the Digital Tanzania Project, which supports extending broadband to local government offices, as the centrepiece of state support for the sector; the date is the document's published date.", "as_of": "2026-08-05", "date_precision": "day", "system": "Digital Tanzania Project broadband extension", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Digital Tanzania Project broadband extension", "country_label": "Digital Tanzania Project", "class": "connection", "platform": "broadband", "owner": "Government of Tanzania, financed by the World Bank", "tiers": "schools, health facilities and local government offices; no count stated"},
+    {"system": "National ICT Broadband Backbone (NICTBB)", "country_label": "NICTBB", "class": "backbone", "platform": "fibre, more than 15,000 km", "owner": "managed by TTCL", "tiers": "main urban centres and links to all neighbouring states; no local government office said to be on it"},
+    {"system": "National Internet Data Center", "country_label": "National Internet Data Center", "class": "backbone", "platform": "data centre, Mikocheni, Dar es Salaam", "owner": "operated by TTCL on behalf of the government", "tiers": "national"},
+    {"system": "Dar es Salaam Metropolitan Network", "country_label": "Dar es Salaam Metropolitan Network", "class": "backbone", "platform": "fibre", "owner": "", "tiers": "Dar es Salaam"}
+  ],
+  "note": "The document says the project supports extending broadband to local government offices but not that any office is yet connected, nor how many."
+}

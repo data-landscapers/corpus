@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-01-gin-resume-executif-projet-pilote-d-amelioration-du-systeme-d-etat-civil-g",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Enabel's final evaluation (field mission April 2026) says civil-status officers and data-entry agents at civil registry centres work in E-RENEC, the national civil register's central database holding 445,000 migrated acts, while still using paper in parallel, and that insufficient connectivity and power cuts limited its effects; the evaluators were refused access to the centres and state their findings on daily use with caution.", "as_of": "2026-04", "date_precision": "month", "system": "E-RENEC (Registre National de l'État Civil)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "pilot", "fact": "The evaluation describes E-RENEC as the product of a pilot project (PARECIGUI phase 2, April 2024 to February 2026), gives no count of communes using it and recommends a maturity diagnosis before any national extension (June 2026).", "as_of": "2026-04", "date_precision": "month", "system": "E-RENEC (Registre National de l'État Civil)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "E-RENEC", "country_label": "E-RENEC, solution digitale du Registre National de l'État Civil", "class": "application", "platform": "built by DXC; source code formally transferred, national technicians without effective access", "owner": "MATD / ONECI, with Enabel as implementer to February 2026", "tiers": "central database, communes' civil registry centres, courts (suppletive judgments module); consular equipment delivered and never used"},
+    {"system": "PN-RAVEC", "country_label": "Programme National de Recensement Administratif à Vocation d'État Civil", "class": "central", "platform": "", "owner": "national programme", "tiers": "national; interoperability with E-RENEC not in effect"}
+  ],
+  "note": "The connection is read from offices working in a central database; the summary does not say how the centres are connected or who pays, and names no number of communes. It lists connectivity among the conditions of sustainability not yet met (rated C), with no maintenance plan or dedicated budget."
+}

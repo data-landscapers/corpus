@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-23-smart-office-system-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "SMART Office Management System", "country_label": "SMART Office Management System; e-registry", "class": "central", "platform": "developed in-house by SMART Zambia", "owner": "e-Government Division (SMART Zambia Institute)", "tiers": "demonstrated at Ministry of Health headquarters; intended from provincial level down to the ministry's district offices; Luapula Province the pilot"},
+    {"system": "Government Wide Area Network", "country_label": "GWAN", "class": "backbone", "platform": "", "owner": "", "tiers": "existing infrastructure in Luapula Province; no local government office is said to be on it"}
+  ],
+  "note": "A records system for the Ministry of Health and its provincial and district offices, piloted in Luapula because GWAN is there; no local government office or its connection is mentioned."
+}

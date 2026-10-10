@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-02-hessequa-collab-citizen-app-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Collab Citizen App", "country_label": "Collab Citizen App", "class": "web", "platform": "Collab Citizen", "owner": "Hessequa Municipality", "tiers": "one local municipality, for its residents: reporting and tracking service requests, updates, emergency contacts"}
+  ],
+  "note": "A municipality's app for residents, of the web class; nothing on the municipal office's own connection."
+}

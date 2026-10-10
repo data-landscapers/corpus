@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-mozambique-crvs-law-policy-summary",
+  "facts": [],
+  "systems": [
+    {"system": "e-SIRCEV", "country_label": "e-SIRCEV", "class": "central", "platform": "electronic civil registration system, integrated with national ID and health systems", "owner": "Ministry of Justice, National Directorate of Registries and Notary Services", "tiers": "registry offices; tier not stated"}
+  ],
+  "note": "A summary of civil registration law; civil registration is run by the Ministry of Justice's registries, and the one local authority reference is to certifying a death where no doctor is available."
+}

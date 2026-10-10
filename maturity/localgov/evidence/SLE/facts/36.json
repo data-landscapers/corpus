@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-michcom-ix",
+  "facts": [],
+  "systems": [
+    {"system": "Michcom-IX", "country_label": "Michcom-IX", "class": "backbone", "platform": "internet exchange point, 50G switching capacity", "owner": "Michcom Limited, as a non-profit initiative", "tiers": "points of presence in Freetown and Jui, and in Conakry and Monrovia; 15 member networks on the operator's own undated count"}
+  ],
+  "note": "The website of a private internet exchange point; nothing on local governments or their offices."
+}

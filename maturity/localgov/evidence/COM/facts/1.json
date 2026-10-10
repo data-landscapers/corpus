@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Comoros Government Public Administration Data Centre", "country_label": "Comoros Government Public Administration Data Centre", "class": "backbone", "platform": "", "owner": "Government of the Union of the Comoros; Ministry of Digital Economy, PPP operator to be decided", "tiers": "Moroni; serves government ministries, departments and agencies and e-government services"}
+  ],
+  "note": "A register row for a government data centre in Moroni, operational 2025; no local government office is said to be connected to it."
+}

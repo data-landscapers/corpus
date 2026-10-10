@@ -1,0 +1,13 @@
+{
+  "slug": "2020-01-01-burundi-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "Burundi Backbone System national fibre backbone", "country_label": "BBS", "class": "backbone", "platform": "fibre optic, 26 regional nodes, 40Gbps transport platform", "owner": "BBS, a consortium of Burundian telecom operators, built with World Bank support", "tiers": "17 administrative provinces; the PNDTIC target of national broadband infrastructure up to commune level is marked achieved"},
+    {"system": "COMGOV network", "country_label": "COMGOV (Government Communication)", "class": "backbone", "platform": "", "owner": "Government of Burundi", "tiers": "ministries, departments and agencies; not effectively operational in most units"},
+    {"system": "Intranet and e-government administrative services", "country_label": "intranet", "class": "backbone", "platform": "", "owner": "Government of Burundi, a PNDTIC 2010-2025 target", "tiers": "not stated; target marked not achieved"},
+    {"system": "Multi-service telecentre per municipality", "country_label": "multi-service tele-center", "class": "public-access", "platform": "", "owner": "Government of Burundi, a PNDTIC 2010-2025 target", "tiers": "one per municipality planned; target marked not achieved"},
+    {"system": "Universal Service Fund community telecentres", "country_label": "community telecentres", "class": "public-access", "platform": "", "owner": "Universal Service Fund; run by community non-profits", "tiers": "four centres existing, ten more being added in 2020"},
+    {"system": "Onatel metropolitan area network", "country_label": "MAN", "class": "backbone", "platform": "200 km fibre", "owner": "Onatel", "tiers": "Bujumbura; other major municipalities not yet served by a MAN"}
+  ],
+  "note": "No fact: the document puts the backbone at commune level and describes COMGOV across ministries and agencies, but states nothing about a connection at a commune's own office."
+}

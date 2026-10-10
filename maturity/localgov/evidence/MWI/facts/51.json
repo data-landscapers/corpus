@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-23-giz-social-registry-dynamism-pilot",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "GIZ Malawi says the Social Registry Dynamism Pilot, launched in mid-June 2026 by the Department of Poverty Reduction and Social Protection, will test households updating their records in the national Malawi Social Registry on demand through District Council Offices in Balaka and Dowa, for six months; it does not say how those offices are connected.", "as_of": "2026-06", "date_precision": "month", "system": "Malawi Social Registry on-demand updating at District Council Offices", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "pilot", "fact": "GIZ Malawi says the six-month pilot of registry updating through District Council Offices, launched in mid-June 2026, covers two districts, Balaka and Dowa; it gives no total of councils.", "as_of": "2026-06", "date_precision": "month", "system": "Malawi Social Registry on-demand updating at District Council Offices", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "GIZ Malawi says the government launched in mid-June 2026, with German and World Bank support, a six-month pilot in which District Council Offices in Balaka and Dowa take on-demand updates to the national social registry.", "as_of": "2026-06", "date_precision": "month", "system": "Malawi Social Registry on-demand updating at District Council Offices", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Malawi Social Registry", "country_label": "Malawi Social Registry (MSR)", "class": "application", "platform": "", "owner": "Department of Poverty Reduction and Social Protection, Ministry of Finance, Economic Planning and Decentralisation; pilot supported by GIZ and the World Bank", "tiers": "national registry; on-demand updating piloted through District Council Offices, USSD *432# and Village Development Committees in Balaka and Dowa"}
+  ],
+  "note": "The facts rest on the typology's rule that working in a national system at the council's own office states a connection; the document names the offices as an update channel and says nothing of the connection itself, and the pilot is announced as about to test, not as running."
+}

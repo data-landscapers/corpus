@@ -1,0 +1,15 @@
+{
+  "slug": "2023-08-16-worldbank-cameroon-social-safety-nets-icr",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Social Safety Nets Project management information system",
+      "country_label": "MIS",
+      "class": "central",
+      "platform": "",
+      "owner": "The project implementation unit, under MINEPAT",
+      "tiers": "Housed in the central project unit; handles targeting, registration, grievances and payments for beneficiaries in the targeted communes"
+    }
+  ],
+  "note": "Passages of the World Bank's 2023 completion report on the social safety nets project: communes and municipalities are the units of geographic targeting and mayors were trained in community targeting; the project's information system sits in the central unit, and nothing is stated about a commune office's connection."
+}

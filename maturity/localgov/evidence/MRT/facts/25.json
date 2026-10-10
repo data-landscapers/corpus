@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-07-worldbank-dtfa-wardip-sop1-pad4756",
+  "facts": [],
+  "systems": [
+    {"system": "core national backbone infrastructure", "country_label": "core national backbone infrastructure", "class": "backbone", "platform": "", "owner": "WARDIP SOP1 (World Bank IDA); for Mauritania the passage marks it 'BPO'", "tiers": "national, for network redundancy and expansion; no local government office said to be on it"}
+  ],
+  "note": "The passage carrying a study term is one line of the appraisal document's activity list, the deployment of core national backbone infrastructure in Mauritania; it names no local government."
+}

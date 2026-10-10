@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-23-safety-nets-additional-financing-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "E-Fokontany initiative", "country_label": "E-Fokontany", "class": "", "platform": "", "owner": "Government of Madagascar", "tiers": "named only as the initiative the social registry's data collection is coordinated with; what it does is not described"},
+    {"system": "Registre Social Unique (RSU)", "country_label": "RSU, national social registry", "class": "central", "platform": "", "owner": "Ministry of Population and Solidarity, data collection led by INSTAT", "tiers": "national; no local government office use stated"}
+  ],
+  "note": "World Bank safety-nets financing document: communes are targeting areas and local authorities are coordinated with for citizen engagement; no local government office connection is stated."
+}

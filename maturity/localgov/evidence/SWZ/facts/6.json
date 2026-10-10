@@ -1,0 +1,72 @@
+{
+  "slug": "2026-06-24-ict-trains-change-agents-e1-2bn-digitization",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:38",
+      "fact": "Independent News reports that 38 Tinkhundla centres, with 859 schools and 134 health centres, are set to benefit from broadband connectivity under the E1.2 billion (USD 65 million) World Bank-funded digitisation project, whose rollout is expected in 2027; the figure is a planned target, none is reported connected, and no total of Tinkhundla centres is given.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Eswatini Digitization Project (Digital Eswatini): broadband connectivity for Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Of the project's E1.2 billion, E648 million is allocated to affordable broadband expansion, comprising EPTC stabilisation and reform, fibre network expansion and last-mile connectivity, under which 38 Tinkhundla centres are to be connected; rollout is expected in 2027, as reported on 24 June 2026.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Eswatini Digitization Project (Digital Eswatini): broadband connectivity for Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The E1.2 billion (USD 65 million) project that is to bring broadband to 38 Tinkhundla centres is funded through a World Bank loan, as reported on 24 June 2026; no domestic budget line is stated.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Eswatini Digitization Project (Digital Eswatini): broadband connectivity for Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of ICT, through the Digital Eswatini Project Implementation Unit, is preparing the project and ran a three-day change-agent training workshop in Mbabane from 23 June 2026 for officials from across ministries and institutions.",
+      "as_of": "2026-06-23",
+      "date_precision": "day",
+      "system": "Eswatini Digitization Project (Digital Eswatini): broadband connectivity for Tinkhundla centres",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Eswatini Digitization Project (Digital Eswatini): broadband connectivity for Tinkhundla centres",
+      "country_label": "Eswatini Digitization Project; affordable broadband expansion",
+      "class": "connection",
+      "platform": "fibre network expansion and last-mile connectivity (EPTC)",
+      "owner": "Ministry of ICT; World Bank loan",
+      "tiers": "859 schools, 134 health centres and 38 Tinkhundla centres, planned; rollout 2027"
+    },
+    {
+      "system": "Government in Your Hand",
+      "country_label": "Government in Your Hand",
+      "class": "central",
+      "platform": "digital public infrastructure, electronic IDs and USSD-based services; E450 million component",
+      "owner": "Ministry of ICT",
+      "tiers": "central government services to citizens; not stated for local government"
+    },
+    {
+      "system": "Change Agent training",
+      "country_label": "Change Agent Training Workshop",
+      "class": "capacity",
+      "platform": "",
+      "owner": "Ministry of ICT, Digital Eswatini Project Implementation Unit",
+      "tiers": "government ministries and institutions; the Tinkhundla system named as the channel for engaging rural communities"
+    }
+  ],
+  "note": "The facts rest on Tinkhundla centres, which the article names as sites to get broadband; it does not call them local government offices and names no town or municipal council. The parent decides whether they are the basic tier."
+}

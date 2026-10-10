@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-04 Guinea Launches Biometric Birth Certificates in Sanoyah in Civil Registry Modernization Push",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric birth certificates (Extraits de naissance biométriques)", "country_label": "Extraits de naissance biométriques", "class": "application", "platform": "MOSIP and TECH5 biometric infrastructure, as the national ID programme's", "owner": "Office National de l'État Civil et de l'Identification (ONECI)", "tiers": "issued locally in Sanoyah commune from 2026-03-02, with enrolment for the biometric national ID card; 2,000 certificates allocated to the first phase; residents previously travelled to neighbouring communes"}
+  ],
+  "note": "Sanoyah commune began issuing biometric birth certificates and enrolling for the national ID card on 2026-03-02; the document does not say the commune office works online or how it is connected, so the system is logged as an application and no connection fact is recorded."
+}

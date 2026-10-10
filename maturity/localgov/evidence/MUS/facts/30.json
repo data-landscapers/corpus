@@ -1,0 +1,23 @@
+{
+  "slug": "2024-01-01-what-african-countries-can-learn-from-the-continent-s-top-performers-in-e-govern",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Online Centre (GOC)",
+      "country_label": "Government Cloud (GOC); Government Online Center",
+      "class": "backbone",
+      "platform": "central data centre and government cloud, hosting government websites, a help desk for 66 e-services and the Government Email Services (GES)",
+      "owner": "National Computer Board",
+      "tiers": "ministries and departments; gives internet access and email to the public sector; no local authority office is named"
+    },
+    {
+      "system": "InfoHighway",
+      "country_label": "InfoHighway",
+      "class": "",
+      "platform": "government data-exchange platform between publisher and subscriber agencies",
+      "owner": "Ministry of Information Technology, Communication and Innovation",
+      "tiers": "government agencies; said not to be universally used; no local authority is named"
+    }
+  ],
+  "note": "The Mauritius case study describes central e-government only; local government is named only for South Africa, the United States and in the general recommendation, so there is no fact on a Mauritian local authority office's connection."
+}

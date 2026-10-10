@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registry unified system (2025 digitisation project)", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "a national project of MAD 194 million launched in 2025 to digitise 38 million historical records across all 1,821 registry offices, with manual entry of paper records and offices connected to a unified system; the essay also says most of 1,282 principal rural registry offices (of about 2,200) had no connected computer systems as of 2018, citing the World Bank ID4D diagnostic"},
+    {"system": "GESTARR", "country_label": "GESTARR", "class": "central", "platform": "", "owner": "DGSN (national police)", "tiers": "urban prefectures, regional and provincial police headquarters, national rollout planned"},
+    {"system": "Pathway", "country_label": "Pathway (national EMIS)", "class": "central", "platform": "", "owner": "", "tiers": "national education management information system"},
+    {"system": "HOSIX", "country_label": "HOSIX", "class": "central", "platform": "", "owner": "", "tiers": "electronic health record in urban hospitals since 2009"}
+  ],
+  "note": "The Morocco rows cover clinics, schools, police and civil registry offices; the registry row describes a civil registration application and never says the registry offices are local government offices, so no connection fact is taken. Listed in study.json as an excluded source."
+}

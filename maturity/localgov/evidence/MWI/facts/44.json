@@ -1,0 +1,10 @@
+{
+  "slug": "2021-09-21-linking-rural-health-centres-malawi-digital-health",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "Government Wide Area Network (GWAN)", "class": "backbone", "platform": "", "owner": "Ministry of Health scheme, supported by GIZ", "tiers": "last-mile links to health centres in Dedza and Ntcheu districts; unstable at Bilira health centre, where GIZ contracted a mobile operator for data bundles instead (2021)"},
+    {"system": "openSRP e-register", "country_label": "e-register", "class": "", "platform": "openSRP", "owner": "Ministry of Health and Population, with GIZ, Jembi, Ona and HISP Malawi", "tiers": "pilot at Bilira health centre, Ntcheu district"},
+    {"system": "DHIS2", "country_label": "national health information system", "class": "", "platform": "DHIS2", "owner": "Ministry of Health and Population; HISP Malawi implements", "tiers": "national; other health centres deliver paper reports to the District Health Office"}
+  ],
+  "note": "The government network is described only as a last-mile scheme for health centres in two districts; no council office is said to be on it, so it is a backbone entry and gives no fact. The health systems are outside the study's field and are listed without a class."
+}

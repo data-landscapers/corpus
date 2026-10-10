@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-21-nam-smart-water-meters-household-data",
+  "facts": [],
+  "systems": [
+    {"system": "Innovate4Water smart-water monitoring pilot", "country_label": "Innovate4Water", "class": "city-systems", "platform": "69 pulse readers on household water meters, a planned bulk smart meter, AI anomaly detection, planned dashboard and billing applications", "owner": "Namibia University of Science and Technology research project, funded by the Science Granting Councils Initiative; no municipal ownership yet", "tiers": "Ongwediva Extension 11 (pilot, bulk meter and communications not yet commissioned); analysis of 1,375 Windhoek households' data; a phased design proposed for Rundu"}
+  ],
+  "note": "A research pilot of water-meter sensors and analytics in three towns; it states nothing about the connection of any local authority's own office."
+}

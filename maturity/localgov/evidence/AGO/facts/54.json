@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-06-projecto-njila-reabilita-postos-de-registo-bie-huambo",
+  "facts": [],
+  "systems": [
+    {"system": "Projecto Njila: equipamentos informáticos", "country_label": "Projecto \"Njila\"", "class": "equipment", "platform": "", "owner": "Ministry of Territorial Administration, coordinating; World Bank financing of USD 250 million", "tiers": "seven development-support projects financed and executed in Huambo and Bié by December 2025, among them the purchase of computer equipment and the fitting-out of one municipal administration; the project works in 53 municipalities of eight provinces; no connection stated"},
+    {"system": "postos de registo de nascimento", "country_label": "postos de registo de nascimento", "class": "central", "platform": "", "owner": "Ministry of Justice and Human Rights (component III of Njila)", "tiers": "11 posts rehabilitated and equipped in Bié in 2025, five working since August 2025, mostly in maternal and child centres; 13 near completion in Huambo"},
+    {"system": "Projecto Njila: formação", "country_label": "reforço da capacidade institucional junto das administrações municipais", "class": "capacity", "platform": "", "owner": "Projecto Njila with ENAPP", "tiers": "18 training actions in 2025 for municipal administration staff and committee members in Huambo and Bié"}
+  ],
+  "note": "Equipment, training and building works for municipal administrations, with no connection stated; the registration posts are the justice ministry's."
+}

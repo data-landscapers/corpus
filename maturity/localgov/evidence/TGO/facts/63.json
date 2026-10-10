@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts",
+  "facts": [],
+  "systems": [
+    {"system": "StatEduc integrated with DHIS2 (education management information system)", "country_label": "StatEduc / DHIS2", "class": "central", "platform": "StatEduc; DHIS2", "owner": "Ministry of Primary and Secondary Education, with the University of Oslo and HISP West and Central Africa", "tiers": "central departments, regional officers and education inspectorates; school observation data captured on Android devices"}
+  ],
+  "note": "GPE KIX blog on the education ministry's data system; its 'districts' are the ministry's own inspectorates and regional offices, not local governments, so it gives no fact on a local government office's connection."
+}

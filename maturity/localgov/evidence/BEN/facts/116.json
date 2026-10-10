@@ -1,0 +1,15 @@
+{
+  "slug": "2020-12-01-apdp-rapport-activites-2015-2020",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Base de données des propriétaires et présumés propriétaires de parcelles",
+      "country_label": "base de données à caractère personnel des propriétaires et présumés propriétaires de parcelles",
+      "class": "application",
+      "platform": "",
+      "owner": "Commune d'Abomey-Calavi",
+      "tiers": "one commune, Abomey-Calavi; authorised by the data-protection authority by a deliberation of 27 December 2018"
+    }
+  ],
+  "note": "The data-protection authority's 2015-2020 report: mairies appear as data controllers it advised, inspected and trained (the 77 mayors in October 2020; civil-status heads of the Collines communes in November 2020), and the network and internet link it describes are its own headquarters'; nothing is stated about any commune office's connection."
+}

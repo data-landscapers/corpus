@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-20-dza-echaab-rakmana-shafafiya-asrana",
+  "facts": [],
+  "systems": [
+    {"system": "IRIES", "country_label": "شبكة IRIES السيادية (sovereign secure national network)", "class": "backbone", "platform": "national optical fibre, outside the public internet", "owner": "High Commission for Digitalisation", "tiers": "more than 100 ministerial sectors and public bodies linked to the national data centres; no commune said to be on it"},
+    {"system": "National sovereign cloud and national data centres (Mohammadia, Blida)", "country_label": "الحوسبة السحابية الوطنية السيادية", "class": "backbone", "platform": "Tier III Design certified data centres (Mohammadia February 2026, Blida September 2026)", "owner": "National Digital Services Centre, High Commission for Digitalisation", "tiers": "ministerial sectors and official bodies"},
+    {"system": "Dzair Digital Services", "country_label": "البوابة الوطنية للخدمات الرقمية", "class": "web", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "national"},
+    {"system": "National interoperability system", "country_label": "النظام الوطني للتشغيل البيني", "class": "backbone", "platform": "", "owner": "", "tiers": "between ministries"},
+    {"system": "Interior ministry portal and sites for civil-status documents", "country_label": "البوابة الرسمية والمواقع التابعة لوزارة الداخلية", "class": "web", "platform": "", "owner": "interior ministry", "tiers": "citizens obtain documents such as birth certificates remotely; said to relieve commune services"}
+  ],
+  "note": "A dossier on the national cloud, data centres and the IRIES network among ministries and public bodies; local authorities appear only as staff needing training and as commune counters relieved by online documents. Nothing on commune offices' connection."
+}

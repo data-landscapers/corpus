@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-telma-corporate-review-2018",
+  "facts": [],
+  "systems": [
+    {"system": "Telma National Fiber Backbone", "country_label": "National Backbone", "class": "backbone", "platform": "", "owner": "Telma", "tiers": "over 10,000 km, in place since 2008, said to connect over 1,000 communes, all major economic centres and universities; local fibre loops in 12 regional localities in 2018"}
+  ],
+  "note": "The backbone is said to connect over 1,000 communes as localities; no commune office is said to be on it."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-15-mbaza-local-gov-platform-newtimes",
+  "facts": [],
+  "systems": [
+    {"system": "Mbaza", "country_label": "Mbaza", "class": "web", "platform": "", "owner": "government; announced by the Minister of Local Government", "tiers": "under development for local government institutions; a platform for citizens to report and track issues, by the file's appended note on related coverage rather than the article's own text"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "web", "platform": "", "owner": "", "tiers": "an Irembo agent assists a resident in Burera District (image caption)"}
+  ],
+  "note": "The file holds only the article's headline and image caption, the body not having been retrieved; they state that a platform named Mbaza is being developed and nothing on office connection. The 416-sectors statement is in an appended note the file marks as not this article's text, so no fact is taken from it."
+}

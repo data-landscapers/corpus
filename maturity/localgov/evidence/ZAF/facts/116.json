@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08-south-africa-addressing-system-not-in-place",
+  "facts": [],
+  "systems": [
+    {"system": "Municipal address databases (unnamed)", "country_label": "", "class": "application", "platform": "", "owner": "municipalities", "tiers": "municipalities, generally; no count given; no authoritative national address register exists, on the authors' account"}
+  ],
+  "note": "An article on address data and its governance; municipalities are said to hold address databases, with nothing on how their offices are connected."
+}

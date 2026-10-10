@@ -1,0 +1,52 @@
+{
+  "slug": "2025-04-08-residence-certificates-online-anip-code",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:personal",
+      "fact": "Fraternité reports that neighbourhood and village chiefs, who sit below the commune and its arrondissements, reach ANIP's platform for the residence-form code through their own mobile phones, with repeated failed attempts in Glo-Djigbé, Bohicon and Cotonou in March 2025; one chief's assistant suggests a terminal for each chief, which they do not have.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Chiefs' own mobile phones, used to reach ANIP's platform",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "Fraternité reports that neighbourhood and village chiefs enter each residence-form request on ANIP's national platform to obtain a code, and that the platform often returns a service-unavailable message, some chiefs having issued no form at all by March 2025; the article blames the connection speed to ANIP's server.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Chiefs' own mobile phones, used to reach ANIP's platform",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ANIP residence-form code platform",
+      "country_label": "plateforme de l'ANIP (code de la fiche de résidence)",
+      "class": "application",
+      "platform": "",
+      "owner": "Agence nationale d'identification des personnes (ANIP)",
+      "tiers": "neighbourhood and village chiefs, including the 165 neighbourhood chiefs of Cotonou"
+    },
+    {
+      "system": "Online request for the residence certificate",
+      "country_label": "requête en ligne du certificat de résidence",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "applicants, in place of queuing at the arrondissements"
+    },
+    {
+      "system": "ANIP teams at town halls and arrondissements",
+      "country_label": "équipe de l'ANIP installée au niveau des mairies et arrondissements",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence nationale d'identification des personnes (ANIP)",
+      "tiers": "mairies and arrondissements"
+    }
+  ],
+  "note": "Both facts concern neighbourhood and village chiefs, a level below the commune's own office; the article states nothing about how the mairies themselves are connected."
+}

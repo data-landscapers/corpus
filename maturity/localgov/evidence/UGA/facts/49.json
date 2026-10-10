@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-nira-ministerial-policy-statement-fy2026-27",
+  "facts": [],
+  "systems": [
+    {"system": "NIRA registration centre connectivity", "country_label": "Connectivity for all 122 registration centers for data transmission", "class": "central", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "122 NIRA registration centres"},
+    {"system": "New NSIS", "country_label": "National Identification Register / new NSIS", "class": "central", "platform": "MOSIP", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "central system and data centre; 5,665 biometric registration kits deployed"}
+  ],
+  "note": "A national agency's budget statement: the connected offices are NIRA's own registration centres, not local governments, which appear only as stakeholders consulted and as the units counted for vital-event registration."
+}

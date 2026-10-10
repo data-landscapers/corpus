@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-03-itweb-mymzansi-production-ready-vulindlela-q1",
+  "facts": [],
+  "systems": [
+    {"system": "MyMzansi", "country_label": "MyMzansi", "class": "central", "platform": "", "owner": "National Treasury and the Presidency (Operation Vulindlela)", "tiers": "national citizen services platform, at pilot"},
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "central", "platform": "", "owner": "National Treasury", "tiers": "national data exchange across government, largely at pilot"},
+    {"system": "gov.za platform", "country_label": "gov.za", "class": "central", "platform": "", "owner": "", "tiers": "shared website platform for the first pilot national departments"}
+  ],
+  "note": "National digital public infrastructure reforms; local government is named only as a separate reform area to be modelled. Nothing on any municipal office's connection."
+}

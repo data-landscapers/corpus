@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Tasdjil", "country_label": "Tasdjil digital app", "class": "application", "platform": "", "owner": "UNICEF-supported", "tiers": "birth registration, often at health facilities; described as a donor pilot, launched 2022"}
+  ],
+  "note": "A source study.json excludes as an AI-assisted compilation. Its Chad rows cover rural clinics, schools, police stations and registry offices recording on paper; none states how a local government office is connected. No fact taken."
+}

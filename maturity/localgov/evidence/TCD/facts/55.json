@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-unesco-norcap-emis-country-case-study-chad",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS), on StatEduc2", "country_label": "EMIS", "class": "central", "platform": "StatEduc2", "owner": "Ministry of National Education and Civic Promotion (DAPRO), with UNESCO technical support", "tiers": "paper questionnaires pass from schools through the ministry's inspectorates and provincial delegations and are keyed at central level; the 23 provinces' planners were given computers and generators in 2015"},
+    {"system": "EduTrac", "country_label": "EduTrac", "class": "central", "platform": "mobile phone, SMS and calls", "owner": "UNICEF with the education ministry", "tiers": "pilot in a limited number of schools in two provinces"}
+  ],
+  "note": "A case study of education data systems run through the education ministry's own deconcentrated offices; 'local government' appears once, as a respondent to an IOM village survey. Nothing on local government offices' connection. The capture is truncated at the fetch limit and was read to its end."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2019-12-24-loi-2019-024-code-general-ctd-participation-citoyenne",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Site électronique de la Collectivité Territoriale",
+      "country_label": "site électronique de la Collectivité Territoriale",
+      "class": "web",
+      "platform": "",
+      "owner": "Each collectivité territoriale (regions and communes)",
+      "tiers": "Regions and communes: Article 40(3) requires their minutes, budgets, plans and accounts to be published on it"
+    }
+  ],
+  "note": "Articles 1-51 of the 2019 general code of decentralised local authorities: the only digital provision is the duty in Article 40(3) to publish acts on the authority's own website; a law places nothing and no office connection is stated."
+}

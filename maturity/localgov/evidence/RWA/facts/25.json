@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-03-rwanda-integrated-civil-registration-system-launch",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Ministry of Local Government says that under the new integrated civil registration system births and deaths occurring in communities are registered at the cell level, where before all registration took place at the sector level, in a national centralised CRVS system linked to the population registry, and that 2,148 cell executive secretaries are being trained on it; the cell and sector are tiers below the district, the text does not say the entries are made over a connection at the office, and it gives no date for the launch, so the published date is used.", "as_of": "2026-06-03", "date_precision": "day", "system": "cell and sector offices registering in the National Centralized and Integrated CRVS", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "National Centralized and Integrated CRVS", "country_label": "CRVS", "class": "application", "platform": "", "owner": "National Identification Agency, with the Ministry of Local Government", "tiers": "health facilities and cells; previously sector level only; linked to the National Population Registry, the CRVS web and the Health Information Management System"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-05-egypt-property-registration-rate-below-10pct",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Property Identification System",
+      "country_label": "National Property ID",
+      "class": "central",
+      "platform": "",
+      "owner": "Multiple government entities, unnamed",
+      "tiers": "National: nearly 30 million property IDs issued; the ID 'can be linked' to utilities, municipalities and tax authorities"
+    },
+    {
+      "system": "Real Estate Wealth Management System (REWMS)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Named as the subject of a World Bank technical paper; not described"
+    }
+  ],
+  "note": "News report of a World Bank paper on property registration. Municipalities are named only as databases the property ID can be linked to; nothing on the connection of their offices."
+}

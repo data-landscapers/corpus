@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-24-tcd-wearetech-ndjamena-civil-registry-digitization",
+  "facts": [],
+  "systems": [
+    {"system": "N'Djamena civil registry digitisation project (integrated management platform)", "country_label": "civil registry digitization project", "class": "application", "platform": "", "owner": "Municipality of N'Djamena, with ANATS under a memorandum of 2026-09-23; supported by the OIF", "tiers": "N'Djamena municipality; planned, launched 2026-09-23"},
+    {"system": "Integrated Population and Secure Document Management System (SIGPTS)", "country_label": "SIGPTS", "class": "central", "platform": "", "owner": "ANATS", "tiers": "national identification system; interconnection with the N'Djamena municipality's systems planned"}
+  ],
+  "note": "Planned digitisation of N'Djamena's civil registers and a planned interconnection with ANATS's system: an application, with no connection of the commune's office stated as existing. The municipality reports continued reliance on physical procedures."
+}

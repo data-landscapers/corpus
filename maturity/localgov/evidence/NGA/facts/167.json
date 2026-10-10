@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-24-npc-launches-vitalreg-digital-registration-platform",
+  "facts": [],
+  "systems": [
+    {"system": "VitalReg", "country_label": "VitalReg, under the Electronic Civil Registration and Vital Statistics (E-CRVS) initiative", "class": "central", "platform": "online birth and death registration platform, operated under a public-private partnership with Barnksforte Technologies Ltd", "owner": "National Population Commission", "tiers": "operational in all 36 states and the Federal Capital Territory from 1 July 2026; the Commission operates 4,011 registration centres of its own across the 774 local government areas (131 in Anambra's 21) and plans about 8,000"}
+  ],
+  "note": "The National Population Commission's nationwide digital birth and death registration (live 1 July 2026) runs through the Commission's own 4,011 registration centres located across the 774 local government areas, a national agency's field offices; the local governments' association is named as a partner in decentralising services. No local government office is said to be connected or to work in the system, so no fact."
+}

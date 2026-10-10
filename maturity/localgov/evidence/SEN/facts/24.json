@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-aps-dgcpt-obfiloc-observatoire-finances-locales",
+  "facts": [],
+  "systems": [
+    {"system": "Observatoire des finances locales (OBFILOC)", "country_label": "OBFILOC", "class": "application", "platform": "", "owner": "Direction générale de la comptabilité publique et du Trésor (DGCPT)", "tiers": "launched 2026-07-23 in Dakar; centralises and publishes the budgetary, accounting and financial data of the country's 601 collectivités territoriales; to be fed by public accountants and local authorising officers and interconnected with other state systems"},
+    {"system": "nouvelle application de recouvrement des taxes locales", "country_label": "", "class": "application", "platform": "", "owner": "Direction générale de la comptabilité publique et du Trésor (DGCPT)", "tiers": "unnamed application for taxpayers' self-registration and payment of local taxes, already used in some communes of the Dakar region; official launch announced for the coming weeks or months"}
+  ],
+  "note": "The Treasury's launch of a local-finance data platform; it gives the count of 601 collectivités territoriales but says nothing of their offices' connection or of staff entering data from the town hall."
+}

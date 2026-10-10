@@ -1,0 +1,11 @@
+{
+  "slug": "2025-08-21-cniapge-drives-digital-shift-in-equatorial-guineas-public-services",
+  "facts": [],
+  "systems": [
+    {"system": "Private government network", "country_label": "", "class": "backbone", "platform": "40 GB bandwidth, with 10 GB local links", "owner": "CNIAPGE, reporting to the head of state", "tiers": "ministries; no local government office named"},
+    {"system": "TIER III data centre", "country_label": "", "class": "backbone", "platform": "", "owner": "CNIAPGE", "tiers": "central government"},
+    {"system": "Digital platform to manage administrative files", "country_label": "", "class": "central", "platform": "", "owner": "CNIAPGE", "tiers": "the Presidency and the ministries of Justice and Social Affairs, live November 2023"},
+    {"system": "Experta e-government platform", "country_label": "Experta", "class": "", "platform": "Experta, implemented with the Spanish firm Munitecnia", "owner": "CNIAPGE", "tiers": "not stated"}
+  ],
+  "note": "A profile of CNIAPGE: its government network is described as linking ministries, with no local government office said to be on it, so it gives no fact on office connection."
+}

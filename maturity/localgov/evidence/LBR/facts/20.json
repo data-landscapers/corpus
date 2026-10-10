@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-01-liberia-national-data-governance-policy",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "Government of Liberia's Network (GovNet)", "class": "backbone", "platform": "Government network", "owner": "Government of Liberia", "tiers": "Main channel connecting more than 107 ministries, agencies and commissions; no county or city government named on it; said to lack a centralised data centre, backup and technical capacity"},
+    {"system": "National Data Center", "country_label": "National Data Center", "class": "backbone", "platform": "Data centre at LTC-Mobile, being upgraded under the World Bank GREAT project; a Tier III+ facility under development in Buchanan", "owner": "Ministry of Posts and Telecommunications; hosted by the state operator LTC-Mobile", "tiers": "National; targets the Liberia Revenue Authority and the Civil Service Agency"},
+    {"system": "e-Liberia portal", "country_label": "e-Liberia portal", "class": "central", "platform": "", "owner": "Government of Liberia", "tiers": "National citizen portal for taxes, passports and birth registration"},
+    {"system": "IFMIS", "country_label": "Integrated Financial Management Information System", "class": "central", "platform": "", "owner": "Government of Liberia", "tiers": "National; core of the e-Government Strategy 2014-2018"}
+  ],
+  "note": "The policy applies to local governments by its scope clause but states nothing about their offices; GovNet is described as connecting ministries, agencies and commissions only, and rural connectivity is discussed for the population, not for local government."
+}

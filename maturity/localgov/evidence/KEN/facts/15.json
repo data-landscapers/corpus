@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-10-kenyaengineer-itw-africa-power-fibre-execution",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Superhighway", "country_label": "Digital Superhighway", "class": "backbone", "platform": "", "owner": "national government", "tiers": "target of 100,000 km of fibre; more than KSh16 billion allocated over four years, the government says; no local government office said to be on it"},
+    {"system": "Digital hubs and public Wi-Fi", "country_label": "digital hubs; public Wi-Fi", "class": "public-access", "platform": "", "owner": "national government", "tiers": "target of 1,450 digital hubs; public Wi-Fi being expanded in marketplaces, schools and hospitals"}
+  ],
+  "note": "Conference read-out on power, fibre and data centres; 'local government services' appears only as a possible source of demand. No county office is put on any network."
+}

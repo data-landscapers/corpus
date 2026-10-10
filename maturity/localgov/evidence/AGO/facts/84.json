@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-09-angola-minttics-2000km-fibra-optica-este-ano",
+  "facts": [],
+  "systems": [
+    {"system": "National terrestrial fibre network", "country_label": "rede nacional terrestre de fibra óptica", "class": "backbone", "platform": "more than 2,000 km of fibre to be added in 2025, announced by the minister on 9 May 2025", "owner": "MINTTICS", "tiers": "to link regions to cities and municipalities not yet served"},
+    {"system": "Luanda metropolitan fibre network", "country_label": "rede metropolitana de Luanda", "class": "backbone", "platform": "one-terabit metropolitan fibre network, announced", "owner": "MINTTICS", "tiers": "city of Luanda"},
+    {"system": "Government Data Center", "country_label": "Data Center do Governo", "class": "backbone", "platform": "", "owner": "the Executive (MINTTICS)", "tiers": "announced for inauguration in November 2025, for interoperability between sectors"}
+  ],
+  "note": "Backbone fibre meant to reach municipalities as places not yet served; no local government office is said to be put on it."
+}

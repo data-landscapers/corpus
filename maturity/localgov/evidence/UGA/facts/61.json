@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-30-ubos-nphc2024-final-report-vol1",
+  "facts": [],
+  "systems": [
+    {"system": "NPHC 2024 census ICT", "country_label": "CAPI tablets, APN cards, UBOS data centre and e-recruitment system", "class": "central", "platform": "CSPro on tablets, MTN and Airtel APN cards", "owner": "Uganda Bureau of Statistics (UBOS)", "tiers": "121,240 tablets distributed through Local Governments to enumerators for the May 2024 census and retrieved afterwards; District/City IT Officers sat on census committees; local governments recruited staff through the UBOS e-recruitment system"}
+  ],
+  "note": "The census report: its ICT is the statistics bureau's own, lent to the field for enumeration, and nothing is stated on the connection of a local government office. It gives the count of 135 districts and 11 cities at May 2024. The capture is an excerpt, cut off in chapter 2."
+}

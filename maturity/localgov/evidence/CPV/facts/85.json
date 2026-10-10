@@ -1,0 +1,9 @@
+{
+  "slug": "2012-06-18-cabo-verde-portaria-28-2012-documento-unico-de-cobranca",
+  "facts": [],
+  "systems": [
+    {"system": "Casa do Cidadão", "country_label": "balcão de atendimento da Casa do Cidadão", "class": "central", "platform": "plataforma multicanal (presencial, web, voz)", "owner": "Casa do Cidadão (central government)", "tiers": "counters abroad in diplomatic and consular missions, associations and Portugal's Lojas do Cidadão"},
+    {"system": "Documento Único de Cobrança (DUC)", "country_label": "Documento Único de Cobrança", "class": "central", "platform": "", "owner": "Direcção Geral do Tesouro, Ministério das Finanças e do Planeamento", "tiers": "the State's collection network and State Recebedorias, nationwide; no municipality named as a user"}
+  ],
+  "note": "An official bulletin excerpt: a decree-law on Casa do Cidadão counters abroad, the ministerial order approving the State Treasury's single collection document, and the land-use plan of São Lourenço dos Órgãos. The câmara municipal appears only as a planning authority; nothing is stated about any municipal office's connection."
+}

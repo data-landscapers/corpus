@@ -1,0 +1,8 @@
+{
+  "slug": "2017-05-31-using-data-to-improve-education-in-angola",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management and Information System (SIGE)", "country_label": "SIGE", "class": "central", "platform": "tablet application feeding an online platform, developed with UNICEF support", "owner": "Ministry of Education (GEPE)", "tiers": "pilot by the Provincial Government of Huíla: 1,843 schools in its 14 municipalities, surveyed by 28 technicians, two from each municipality"}
+  ],
+  "note": "A UNICEF article of 2017 on a tablet survey of schools in Huíla for the education ministry's SIGE; the technicians transmit from the field when a signal is found, and no municipal administration office is said to be connected."
+}

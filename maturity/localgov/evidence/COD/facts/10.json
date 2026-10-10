@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-10-acp-kasa-vubu-agents-communaux-digitalisation-recensement",
+  "facts": [],
+  "systems": [
+    {"system": "digitalisation du recensement administratif (fichier de la population de la ville de Kinshasa)", "country_label": "fichier de la population", "class": "application", "platform": "applications on tablets; not named", "owner": "Ville de Kinshasa (governor and provincial interior minister), in partnership with the Union des Villes et Communes belges", "tiers": "communes of Kinshasa: piloted 2023-2024 in Kintambo, applied in Bandalungwa and Kalamu, and Kasa-Vubu trained on 10 August 2026; used by census agents and quartier chiefs"},
+    {"system": "tablets for commune census agents", "country_label": "équipements digitaux / tablettes", "class": "equipment", "platform": "tablets", "owner": "Ville de Kinshasa with the Union des Villes et Communes belges", "tiers": "census agents, quartier chiefs and their deputies of Kasa-Vubu commune, Kinshasa"}
+  ],
+  "note": "Tablets and a census application for commune agents in four Kinshasa communes; the document states no data connection at the commune office, so the systems are equipment and application and give no fact."
+}

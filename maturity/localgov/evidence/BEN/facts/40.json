@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-24-wadagni-talata-hub-technologique",
+  "facts": [],
+  "systems": [
+    {"system": "réseau national de fibre optique", "country_label": "fibre optique", "class": "backbone", "platform": "", "owner": "the state, as the document presents it", "tiers": "more than 3,500 km deployed in ten years, due to link all 77 communes; no commune office is said to be on it"},
+    {"system": "Super App gouvernementale", "country_label": "Super App gouvernementale", "class": "web", "platform": "AI-based, unnamed", "owner": "the state, as a campaign commitment", "tiers": "citizens, national; planned"},
+    {"system": "relais digitaux communautaires", "country_label": "relais digitaux communautaires", "class": "public-access", "platform": "", "owner": "the state, as a campaign commitment", "tiers": "every locality; planned"}
+  ],
+  "note": "A candidates' programme of March 2026: the fibre is said to be due to link the 77 communes as territories, with no local government office placed on it, so it is a backbone and gives no fact."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2022-08-01-benin-dgi-posaf-2023-2027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Déploiement de la fibre optique dans les 77 communes",
+      "country_label": "Déploiement de la fibre optique dans les 77 communes du Bénin",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "",
+      "tiers": "Listed in August 2022 among the opportunities in the tax administration's diagnostic as fibre deployed in the 77 communes; no commune office is said to be on it."
+    }
+  ],
+  "note": "Passages of the tax administration's strategic plan. The one infrastructure statement is fibre deployed in the 77 communes, named as an opportunity with no office said to be connected: backbone, so no fact. Other mentions concern local taxation."
+}

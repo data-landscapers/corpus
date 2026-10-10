@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-07-mict-vote29-budget-motivation-fibre-internet-penetration",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre-optic network", "country_label": "fibre optic network", "class": "backbone", "platform": "18,719.5 km of fibre, by region", "owner": "Not stated; telecommunication operators", "tiers": "All regions, from 539.52 km in Omusati to 3,340.48 km in //Karas; no local authority office said to be on it"},
+    {"system": "National Data Center (planned)", "country_label": "National Data Center", "class": "backbone", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": "Groundwork to begin in the 2025/26 financial year"},
+    {"system": "Radio Access Network sites under the Universal Service Fund", "country_label": "RAN sites", "class": "backbone", "platform": "Mobile broadband and voice network sites, N$40 million disbursed to the regulator", "owner": "Communications Regulatory Authority of Namibia, through the Universal Service Fund", "tiers": "15 more sites in unserved areas, prioritising 22 schools and 2 clinics"},
+    {"system": "Public Wi-Fi hotspots at RAN sites", "country_label": "Public WIFI hotspots", "class": "public-access", "platform": "", "owner": "Communications Regulatory Authority of Namibia, through the Universal Service Fund", "tiers": "All RAN sites"},
+    {"system": "Rural ICT Centres", "country_label": "Rural Information Communication Technology Centres", "class": "public-access", "platform": "ICT equipment to be supplied", "owner": "Ministry of Information and Communication Technology", "tiers": "Remote rural communities"},
+    {"system": "Ministry of ICT regional offices", "country_label": "Regional Offices", "class": "central", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": "Hardap office being completed; //Kharas and Kunene offices starting construction"}
+  ],
+  "note": "The ICT minister's 2025/26 budget motivation; local authorities are named only as a subject of the state newspaper's success stories, and no connection of a local authority's office, plan or budget line for one is stated."
+}

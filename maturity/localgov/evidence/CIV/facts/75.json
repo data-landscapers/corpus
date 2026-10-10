@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "Milie", "country_label": "Milie platform", "class": "central", "platform": "web platform, mobile application and call centre", "owner": "Government of Côte d'Ivoire", "tiers": "national; citizens' complaints and suggestions on public services, launched 2019"},
+    {"system": "Open Data platform", "country_label": "Open Data platform", "class": "central", "platform": "", "owner": "Government of Côte d'Ivoire", "tiers": "national; about 121 datasets"}
+  ],
+  "note": "A regional GovTech index brief: for Côte d'Ivoire it gives the index group (C, 0.459 in 2022) and two national platforms. Its local-government and municipal-council passages concern Cabo Verde and the region generally; nothing on an Ivorian local government office's connection."
+}

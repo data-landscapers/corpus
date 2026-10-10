@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-lby-libya-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 and HeRAMS", "country_label": "DHIS2; Health Resources and Services Availability Monitoring System (HeRAMS)", "class": "central", "platform": "DHIS2; HeRAMS", "owner": "Ministry of Health, Health Information Centre, with WHO support", "tiers": "DHIS2 at 100% national geographic coverage by March 2023, with inconsistent reporting from health facilities; four WHO workshops in 2024 trained Health Services Administration Officers and health information focal points at municipality level in the western and central regions"},
+    {"system": "Integrated disease surveillance electronic reporting", "country_label": "integrated disease surveillance", "class": "central", "platform": "", "owner": "National Centre for Disease Control, with WHO support", "tiers": "Pilot in 10 municipalities selected by the National Centre for Disease Control in 2024, with surveillance officers and two health facilities in each; 100 electronic devices distributed for weekly reports"}
+  ],
+  "note": "WHO's 2024 report on the health sector; the municipality-level staff it names are the Ministry of Health's and the disease control centre's field officers, not municipal councils' offices, and nothing is stated on the connection of local government offices."
+}

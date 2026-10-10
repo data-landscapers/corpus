@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration: paper forms at rural registry offices and village declaration points, with a national CRVS software not shown in routine use at them", "country_label": "", "class": "application", "platform": "commercial off-the-shelf CRVS software, unnamed", "owner": "", "tiers": "local council centres and village declaration points (about 8,000 points)"}
+  ],
+  "note": "The compilation study.json excludes as a source; its Mali rows cover paper recording at clinics, schools, police stations and registry points, name poor rural connectivity only as a barrier, and state nothing about a connection provided to local government offices."
+}

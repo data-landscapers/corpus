@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-25-zaf-2026-budget-review-annexure-d-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "SA Connect Phase 2", "country_label": "SA Connect", "class": "backbone", "platform": "about 1,180 km of fibre and community Wi-Fi hotspots", "owner": "national government, with network upgrades led by the State Information Technology Agency; R3 billion allocation", "tiers": "6,343 government facilities, of a kind not stated, and about 5.6 million households through community Wi-Fi; to be completed in 2025/26"},
+    {"system": "Infrastructure reporting model", "country_label": "infrastructure reporting model, local government prototype", "class": "application", "platform": "", "owner": "National Treasury", "tiers": "piloted in six municipalities; in use across 66 public higher education institutions"}
+  ],
+  "note": "The Budget Review's infrastructure annexure says SA Connect Phase 2 will extend connectivity at 6,343 government facilities without saying that any is a municipal office, so no connection of a local government office is stated; municipalities otherwise appear as infrastructure spenders and project sponsors."
+}

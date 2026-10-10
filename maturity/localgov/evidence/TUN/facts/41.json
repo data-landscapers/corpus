@@ -1,0 +1,23 @@
+{
+  "slug": "2025-12-11-unfpa-72-municipalites-etat-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Medania",
+      "country_label": "système numérique Medania",
+      "class": "application",
+      "platform": "",
+      "owner": "Not stated; the training was organised by the Ministry of the Interior and the Institut National de la Santé with INS and the Centre National d'Informatique, supported by UNFPA",
+      "tiers": "Municipal civil status officers and heads of municipal arrondissements; 72 municipalities took part in the training"
+    },
+    {
+      "system": "Civil status and vital statistics training workshops, November-December 2025",
+      "country_label": "ateliers de formation",
+      "class": "capacity",
+      "platform": "",
+      "owner": "Ministry of the Interior and Institut National de la Santé, with INS, CNI and UNFPA",
+      "tiers": "72 municipalities, in three workshops on 20 November, 4 December and 11 December 2025 covering all governorates"
+    }
+  ],
+  "note": "No fact: the document reports training of municipal civil status officers from 72 municipalities on the Medania digital system, but does not say where the system is held, that the offices work in it online, or how they are connected."
+}

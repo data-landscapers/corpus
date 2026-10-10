@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Nairobi Safe City surveillance network", "country_label": "Safe City", "class": "city-systems", "platform": "Huawei, with eLTE wireless broadband and cloud storage", "owner": "national police, implemented by Huawei", "tiers": "Nairobi: about 2,000 CCTV cameras with facial recognition"},
+    {"system": "Nairobi intelligent transport system", "country_label": "Intelligent Transport System (ITS)", "class": "city-systems", "platform": "", "owner": "Kenya Urban Roads Authority", "tiers": "Nairobi: adaptive signals and traffic monitoring, piloted on the Western Ring Road"},
+    {"system": "Nairobi smart water meters", "country_label": "smart water meters", "class": "city-systems", "platform": "NB-IoT sensors", "owner": "Nairobi City Water & Sewerage Company", "tiers": "Nairobi: moderate coverage"},
+    {"system": "Nairobi county revenue collection", "country_label": "county revenue collection, fully digitised", "class": "application", "platform": "", "owner": "Nairobi County Government", "tiers": "Nairobi City County"},
+    {"system": "eCitizen portal", "country_label": "eCitizen", "class": "web", "platform": "", "owner": "national government", "tiers": "described under Nairobi: over 16,000 services from more than 100 government entities"},
+    {"system": "Nairobi Integrated Monitoring and Evaluation System (NIMES)", "country_label": "NIMES", "class": "", "platform": "", "owner": "", "tiers": "Nairobi"}
+  ],
+  "note": "An essay researched and written by an AI answer engine, by its own introduction: for Nairobi it describes surveillance, transport, water-metering and revenue systems and says the county and national bodies run separate systems; nothing on the county government office's own connection."
+}

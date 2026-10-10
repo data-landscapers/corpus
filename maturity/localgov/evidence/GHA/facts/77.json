@@ -1,0 +1,100 @@
+{
+  "slug": "2024-02-18-ghana-mocd-press-briefing-rural-telephony-ghanagov-egovnet",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "The Minister for Communications and Digitalisation says the eGovernment network (GovNet) connects government agencies including MMDAs by fibre backbone, last-mile fibre and microwave links with VSAT backup, provided to the institutions on a 10-year indefeasible right of use, with 274 of 274 MMDA sites connected.",
+      "as_of": "2024-02-18",
+      "date_precision": "day",
+      "system": "eGovernment Network Connectivity Infrastructure (eGovNet / GovNet, DSIG 100x)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:274",
+      "fact": "The minister's table of sites connected by the eGovNet gives MMDAs 274 of 274 planned sites, within 950 of 951 government sites in all; she says the sites were chosen by the beneficiary institutions and that Ghana has 261 districts, and does not say how many of the 261 assemblies the 274 sites cover.",
+      "as_of": "2024-02-18",
+      "date_precision": "day",
+      "system": "eGovernment Network Connectivity Infrastructure (eGovNet / GovNet, DSIG 100x)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "The minister says the network gives the connected agencies, MMDAs among them, faster communication and access to government shared services and lets them use digital solutions; she names no system that assembly staff work in over it.",
+      "as_of": "2024-02-18",
+      "date_precision": "day",
+      "system": "eGovernment Network Connectivity Infrastructure (eGovNet / GovNet, DSIG 100x)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Communications and Digitalisation tendered the eGovNet in September 2021 under a 10-year contract, awarded it to AirtelTigo and Ascend Digital Solutions in September 2022 and signed in December 2022; the minister calls it government-owned infrastructure.",
+      "as_of": "2022-12",
+      "date_precision": "month",
+      "system": "eGovernment Network Connectivity Infrastructure (eGovNet / GovNet, DSIG 100x)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The minister says the eGovNet bidding was supervised by the World Bank project implementation team but gives no cost and names no source of funds for the network.",
+      "as_of": "2024-02-18",
+      "date_precision": "day",
+      "system": "eGovernment Network Connectivity Infrastructure (eGovNet / GovNet, DSIG 100x)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The minister says the eGovNet was 95% complete at the end of January 2024, a little over a year after the contract was signed in December 2022, and was expected to be fully complete by the end of February 2024.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "eGovernment Network Connectivity Infrastructure (eGovNet / GovNet, DSIG 100x)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "eGovernment Network Connectivity Infrastructure (eGovNet)",
+      "country_label": "eGovNet; GovNet; Digital Super Information Gateway (DSIG 100x)",
+      "class": "connection",
+      "platform": "100 Gbps fibre backbone, over 5,000 km of fibre, 900 microwave links, 800 VSAT terminals as backup, SD-WAN overlay",
+      "owner": "Ministry of Communications and Digitalisation; built under a 10-year contract by AirtelTigo and Ascend Digital Solutions",
+      "tiers": "951 planned government sites nationwide: MMDAs 274, police 255 of 256, post offices 175, health facilities 97, GIFMIS institutions 79, courts 36, GMET 29, NITA 3, universities 2"
+    },
+    {
+      "system": "Ghana.gov",
+      "country_label": "Ghana.gov",
+      "class": "application",
+      "platform": "Online services and payments platform built and run by a consortium of Hubtel, expressPay and IT Consortium",
+      "owner": "Government of Ghana, under a public-private partnership with the consortium",
+      "tiers": "Shared point for government online revenue collection; 261 MMDAs onboarded from 2022 (32 in 2020 and 2021), within 1,507 institutions onboarded, of which 136 were processing live payments in January 2024"
+    },
+    {
+      "system": "e-Services platform",
+      "country_label": "e-Services Platform; Ghana E-Services Payment Platform (GEPP)",
+      "class": "web",
+      "platform": "Portal by IPMC (2012) with a Magento payment platform by AYA Technologies (2014)",
+      "owner": "NITA",
+      "tiers": "AMA onboarded in 2014 for notice of marriage and marriage registration, among five active agencies; discontinued"
+    },
+    {
+      "system": "e-Government network managed by NITA and SmartInfraco",
+      "country_label": "the current e Government network",
+      "class": "backbone",
+      "platform": "",
+      "owner": "NITA / SmartInfraco",
+      "tiers": "Not stated; to be interconnected with the eGovNet"
+    }
+  ],
+  "note": ""
+}

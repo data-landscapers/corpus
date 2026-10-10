@@ -1,0 +1,39 @@
+{
+  "slug": "2025-08-04-eswatini-ramps-up-tech-reform-legislation-5g",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mbabane Smart City",
+      "country_label": "Smart City",
+      "class": "city-systems",
+      "platform": "5G network and 59 AI-enabled cameras",
+      "owner": "not stated; presented by the Minister of ICT",
+      "tiers": "Mbabane, the capital, only"
+    },
+    {
+      "system": "Mbabane public Wi-Fi",
+      "country_label": "public Wi-Fi",
+      "class": "public-access",
+      "platform": "",
+      "owner": "not stated; presented by the Minister of ICT",
+      "tiers": "Mbabane, the capital, only"
+    },
+    {
+      "system": "Nationwide fibre optic rollout",
+      "country_label": "nationwide rollout of fiber optic cable",
+      "class": "backbone",
+      "platform": "fibre; international capacity raised from 47 Gbps to 72 Gbps",
+      "owner": "Government of Eswatini, supported by the World Bank",
+      "tiers": "nationwide; no local government office named"
+    },
+    {
+      "system": "Ministry of ICT digital government services",
+      "country_label": "digital government services",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": "over 11 services launched (scholarships, business registration, driver's licence renewal); 90 more planned over three years"
+    }
+  ],
+  "note": "The Minister of ICT's keynote, reported 4 August 2025. Mbabane's smart-city fittings are cameras, 5G and public Wi-Fi: city-systems and public-access classes. Nothing is said of any council office's own connection."
+}

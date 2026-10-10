@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-08-plan-to-modernize-local-digital-govt-services-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Master Plan for decentralized entities", "country_label": "Digital Master Plan", "class": "capacity", "platform": "", "owner": "Ministry of Decentralisation and Local Development; being updated in mid-2025, per the minister's address to the National Assembly", "tiers": "394 decentralized local authorities: 10 regions, 360 local councils and 14 city councils; aims named are interoperability between systems, budget tracking, digitised human resource management and digital civil registration"},
+    {"system": "National School of Local Administration digital curricula", "country_label": "NASLA", "class": "capacity", "platform": "", "owner": "NASLA", "tiers": "training of local administration staff; modules on digital government planned"}
+  ],
+  "note": "The plan under update is described by interoperability and services, with no mention of connecting local authority offices; the article gives the count of 360 local councils and 14 city councils."
+}

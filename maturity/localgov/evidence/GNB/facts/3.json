@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-07-gnb-ang-bissau-municipal-digital-modernisation-cmb-plus",
+  "facts": [],
+  "systems": [
+    {"system": "Portal Municipal de Bissau", "country_label": "Portal Municipal de Bissau", "class": "web", "platform": "", "owner": "Câmara Municipal de Bissau", "tiers": "Bissau city council"},
+    {"system": "Sistema Integrado de Gestão Municipal de Bissau (SIGEM-Bissau)", "country_label": "SIGEM-Bissau", "class": "application", "platform": "", "owner": "Câmara Municipal de Bissau", "tiers": "Bissau city council, internal management (human resources, finance, revenue, assets, correspondence, archive)"}
+  ],
+  "note": "Forward notice of the CMB+ launch: a resident portal (web) and an internal management system (application) for the Bissau city council; nothing is stated about the office's connection."
+}

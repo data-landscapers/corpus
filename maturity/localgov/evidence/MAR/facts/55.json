@@ -1,0 +1,10 @@
+{
+  "slug": "2021-11-22-world-bank-ennajaa-program-appraisal",
+  "facts": [],
+  "systems": [
+    {"system": "GIR-CT", "country_label": "Gestion Intégrée de la Recette, Collectivités Territoriales", "class": "application", "platform": "", "owner": "Trésorerie Générale du Royaume (TGR)", "tiers": "municipalities; target of interfacing with local systems in at least 100 large municipalities (DLR 6.2), baseline not interfaced"},
+    {"system": "GID-CT", "country_label": "Gestion Intégrée de la Dépense, Collectivités Territoriales", "class": "application", "platform": "", "owner": "Trésorerie Générale du Royaume (TGR)", "tiers": "local authorities, deployed at national level"},
+    {"system": "Electronic declaration and payments system for municipal taxes", "country_label": "", "class": "web", "platform": "", "owner": "TGR/DGCT/DGI", "tiers": "planned; target of use in at least 10 of the large municipalities (DLR 6.3)"}
+  ],
+  "note": "A World Bank appraisal of public finance, local tax and interoperability reforms; it names the Treasury's revenue and expenditure systems for local governments as applications and sets targets for them, and states nothing about the connection of commune offices."
+}

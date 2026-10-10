@@ -1,0 +1,17 @@
+{
+  "slug": "2026-06-29-aps-nekkal-avancees-modernisation-etat-civil",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The technical adviser to the minister for local authorities said at the NEKKAL programme's final steering committee on 29 June 2026 that the programme had interconnected 400 civil registry centres; the document does not say by what link or who pays for it.", "as_of": "2026-06-29", "date_precision": "day", "system": "interconnexion des centres d'état civil (programme NEKKAL)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The ministry's adviser gives 400 civil registry centres interconnected under NEKKAL as of 29 June 2026, a count of centres with no total and no count of communes.", "as_of": "2026-06-29", "date_precision": "day", "system": "interconnexion des centres d'état civil (programme NEKKAL)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "APS reports that NEKKAL, the programme that interconnected 400 civil registry centres, is financed by the European Union and executed by Civipol and Enabel with the national civil registry agency (ANEC), and held its final steering committee on 29 June 2026.", "as_of": "2026-06-29", "date_precision": "day", "system": "interconnexion des centres d'état civil (programme NEKKAL)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "interconnexion des centres d'état civil (programme NEKKAL)", "country_label": "interconnexion des centres d'état civil", "class": "connection", "platform": "", "owner": "NEKKAL programme: European Union financing, Civipol and Enabel executing, with ANEC", "tiers": "400 civil registry centres interconnected as of 2026-06-29"},
+    {"system": "équipements NEKKAL", "country_label": "", "class": "equipment", "platform": "", "owner": "NEKKAL programme", "tiers": "26 modern civil registry centres built, 65 motorcycles delivered to communes, 1,200 computers and 1,000 printers given to civil registry centres"},
+    {"system": "plateforme de services de l'état civil", "country_label": "plateforme de services", "class": "web", "platform": "", "owner": "ANEC, under NEKKAL", "tiers": "set up under the programme; not described further"},
+    {"system": "outil de notification des naissances et des décès", "country_label": "", "class": "application", "platform": "", "owner": "ANEC, under NEKKAL", "tiers": "developed for health facilities"},
+    {"system": "application de gestion de l'état civil consulaire", "country_label": "", "class": "central", "platform": "", "owner": "ANEC, under NEKKAL", "tiers": "for Senegalese abroad, through consulates"},
+    {"system": "formation des acteurs de l'état civil (NEKKAL)", "country_label": "", "class": "capacity", "platform": "", "owner": "NEKKAL programme", "tiers": "30 trainers and more than 4,000 civil registry actors trained; 830 agents from 32 priority communes in awareness workshops"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-15-programme-de-modernisation-de-letat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Base de données électronique de l'état civil", "country_label": "base de données électronique de l'état civil", "class": "application", "platform": "", "owner": "Ministère de l'Intérieur, Direction Générale des Collectivités Locales", "tiers": "data entry of civil-status acts since 1915, piloted in several commune civil-status offices then generalised to all civil-status offices of the Kingdom (2,176 offices, over 12,000 commune staff)"},
+    {"system": "Nouveau système d'information de l'état civil", "country_label": "nouveau système d'information pour la modernisation de la structure de l'état civil", "class": "application", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "being installed; civil-status offices, citizens and departments using the data"},
+    {"system": "Watiqa", "country_label": "guichet électronique de commande de documents administratifs (watiqa.ma)", "class": "web", "platform": "", "owner": "", "tiers": "citizens ordering copies of birth certificates online, delivered by registered post"},
+    {"system": "Alhalalmadania.ma", "country_label": "portail de l'état civil", "class": "web", "platform": "", "owner": "", "tiers": "named as a link only"}
+  ],
+  "note": "An undated ministry page on the 2011-2015 civil-status modernisation programme in commune civil-status offices: an application and its database, with no connection of the commune office stated."
+}

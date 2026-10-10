@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-04-malawi-pppc-dmap-momentum",
+  "facts": [],
+  "systems": [
+    {"system": "Government connectivity (DMAP connectivity for 500 government institutions)", "country_label": "government's connectivity systems", "class": "backbone", "platform": "", "owner": "Ministry of Information and Communications Technology, under the World Bank-financed Digital Malawi Acceleration Project", "tiers": "existing capacity 12.5 Gbps; 500 government institutions to be supported; no local government office named"},
+    {"system": "Government Network Operations Centre", "country_label": "Government Network Operations Centre", "class": "backbone", "platform": "", "owner": "proposed by the Minister of ICT", "tiers": "proposed"},
+    {"system": "National data centre", "country_label": "new data centre in Lilongwe", "class": "backbone", "platform": "", "owner": "Government of Malawi", "tiers": "Lilongwe; development to be expedited"}
+  ],
+  "note": "A courtesy call on 3 September 2026: connectivity for 500 government institutions is anticipated and government bandwidth of 12.5 Gbps is called insufficient; no council office is put on a connection."
+}

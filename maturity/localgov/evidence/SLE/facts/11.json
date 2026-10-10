@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu",
+  "facts": [],
+  "systems": [
+    {"system": "Municipal Property Tax System (MPTS)", "country_label": "MPTS", "class": "application", "platform": "MOPTAX 2.0 with the Central Government Monitoring and Reporting System, by Baloosoft; integrated with PFM Smart through X-Road", "owner": "Ministry of Finance, Fiscal Decentralisation Division, under the World Bank-financed Resilient Urban Sierra Leone Project", "tiers": "upgraded system first deployed as a pilot in Kenema City Council; rollout to Bo and Koidu New Sembehun City Councils tendered 2026-05-20; intended for all 22 local councils; earlier reforms in Freetown and Makeni"},
+    {"system": "MOPTAX 2.0", "country_label": "MOPTAX 2.0", "class": "application", "platform": "mobile and web-based property tax software by Baloosoft", "owner": "Ministry of Finance with the councils", "tiers": "Kenema City Council pilot; Bo and Koidu planned"},
+    {"system": "Central Government Monitoring and Reporting System (CGMRS)", "country_label": "CGMRS", "class": "central", "platform": "by Baloosoft", "owner": "Ministry of Finance", "tiers": "central government"},
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "application", "platform": "web-based accounting software", "owner": "the councils", "tiers": "local councils"},
+    {"system": "Government Service Bus (GSB)", "country_label": "GSB", "class": "central", "platform": "", "owner": "", "tiers": "national; an emerging interoperability standard the system is to integrate with"}
+  ],
+  "note": "A procurement notice for a council property tax system; the systems are web-based applications and the notice states no connection provided to any council office, so no fact of the connection class is recorded."
+}

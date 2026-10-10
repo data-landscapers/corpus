@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-06-rwandan-government-launches-imibereho-dynamic-social-registry",
+  "facts": [],
+  "systems": [
+    {"system": "Imibereho Dynamic Social Registry System", "country_label": "Imibereho", "class": "central", "platform": "", "owner": "Ministry of Local Government, supported by the World Bank and GIZ", "tiers": "national household registry launched 29 February 2024; household registration shown in Kagugu Cell, City of Kigali, on 17 January 2024"},
+    {"system": "Monitoring and Evaluation Information System (MEIS)", "country_label": "MEIS", "class": "", "platform": "", "owner": "Local Administrative Entities Development Agency (LODA)", "tiers": ""},
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS", "class": "application", "platform": "", "owner": "", "tiers": "integrated with the social registry"}
+  ],
+  "note": "The article describes the national social registry and its links to other government databases; it does not say that local government offices work in it or how they are connected."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-20-joburg-cisco-jozi-my-jozi-smart-city-mou",
+  "facts": [],
+  "systems": [
+    {"system": "Masibambisane (Cisco 40 Communities in Johannesburg)", "country_label": "Masibambisane", "class": "city-systems", "platform": "Cisco smart networking infrastructure, Meraki cameras and sensors, Splunk analytics, smart streetlights", "owner": "civic movement Jozi My Jozi with Cisco, under a three-year MoU signed 17 July 2026; the City of Joburg is one of more than 50 participating organisations", "tiers": "one metropolitan municipality, inner city first; planned, with implementation plans still to be drawn up"},
+    {"system": "City of Johannesburg smart city strategy", "country_label": "smart city strategy", "class": "capacity", "platform": "", "owner": "City of Johannesburg", "tiers": "one metropolitan municipality; under review for mayoral approval, with the 2025/26 draft IDP citing an outdated ICT environment and ineffective governance structures"},
+    {"system": "Zlto digital giving platform", "country_label": "", "class": "", "platform": "blockchain platform Zlto", "owner": "Jozi My Jozi with Zlto", "tiers": "Johannesburg; planned registration of homeless people for digital donations"}
+  ],
+  "note": "A civic body's smart-city MoU with a vendor and the city's own admission of an outdated ICT environment; cameras, sensors and strategy, with nothing stated on how the municipality's offices are connected."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2011-06-20-angola-lei-23-11-comunicacoes-electronicas",
+  "facts": [],
+  "systems": [
+    {"system": "Rede privativa do Estado", "country_label": "rede privativa do Estado", "class": "backbone", "platform": "", "owner": "operador da rede privativa do Estado, to be set up by the Executive's own instrument", "tiers": "by law for the exclusive use of public administration; its operator is to interlink the private networks of the organs of central and local state administration"},
+    {"system": "Rede básica", "country_label": "rede básica", "class": "backbone", "platform": "", "owner": "the State; managed and operated by Angola Telecom, E.P. under the transitional article", "tiers": "national"}
+  ],
+  "note": "The 2011 electronic communications law: it defines the state's private network and requires that all public administration services be interlinked over it (arts. 20 and 32), as a legal duty; it states no local government office as connected and gives no figure."
+}

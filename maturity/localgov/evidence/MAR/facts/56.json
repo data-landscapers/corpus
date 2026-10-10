@@ -1,0 +1,9 @@
+{
+  "slug": "2021-09-03-portail-collectivites-territoriales-loi-36-21-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "National central digital civil-status system", "country_label": "منظومة رقمية وطنية مركزية / نظام معلوماتي لتدبير الحالة المدنية", "class": "application", "platform": "", "owner": "", "tiers": "created by Law 36.21 of 14 July 2021; tiers not stated"},
+    {"system": "Civil-status portal", "country_label": "بوابة الحالة المدنية", "class": "web", "platform": "", "owner": "", "tiers": "health establishments and local authorities to make first declarations of births and deaths through it"}
+  ],
+  "note": "A Ministry of Interior summary of what Law 36.21 on civil status introduces; a law places nothing, and it states nothing about the connection of commune offices."
+}

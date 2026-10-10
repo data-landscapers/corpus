@@ -1,0 +1,9 @@
+{
+  "slug": "2019-02-01-mesrstic-strategie-promotion-haut-debit-acces-universel-volume-1",
+  "facts": [],
+  "systems": [
+    {"system": "backbone national", "country_label": "backbone national", "class": "backbone", "platform": "", "owner": "", "tiers": "under deployment in February 2019; broadband networks cover essentially the capital; core network investment of 90-95 MUSD estimated for 2019-2043"},
+    {"system": "réseau dédié à l'e-gouvernement", "country_label": "réseau d'e-gouvernement", "class": "backbone", "platform": "", "owner": "", "tiers": "proposed, to connect government agencies and then schools and universities; no tier of local government named"}
+  ],
+  "note": "Broadband strategy volume 1; communes are the unit of its profitability zoning (alpha, beta, gamma) and nothing is said of commune offices being connected. The excerpt ends in section 5.3.3."
+}

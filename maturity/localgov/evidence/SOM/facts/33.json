@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-somalia-national-crvs-policy-moifar",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration and vital statistics (CRVS) system", "country_label": "CRVS system", "class": "application", "platform": "open source intended, product not named", "owner": "Ministry of Interior, Federal Affairs and Reconciliation, with municipalities as the registering bodies", "tiers": "planned in January 2021: an automated electronic system with a national central database, administered by local governments and managed at state or municipality level, piloted in selected districts first; the policy states that no civil registration service had yet been launched by the government"},
+    {"system": "ICT equipment for municipal civil registrars' departments", "country_label": "", "class": "equipment", "platform": "", "owner": "Ministry of Interior, Federal Affairs and Reconciliation", "tiers": "a priority action to 2025: equipment to be installed in selected maternal and child health centres and civil registrars' departments at the municipalities; no connection stated"}
+  ],
+  "note": "A January 2021 policy that plans an electronic civil registration system run by municipalities and equipment for their registrars; it is a plan for an application and for equipment, and states nothing about any municipal office's connection."
+}

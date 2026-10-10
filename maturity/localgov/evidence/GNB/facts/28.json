@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-11-fec-peside-sistema-informacao-gestao-educacao-guine-bissau",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma Estatística SIGE (education data system implemented in all Regional Directorates of Education, with equipment for the directorates and sector poles)", "country_label": "Plataforma Estatística SIGE", "class": "central", "platform": "", "owner": "Ministry of Education (GEPASE), implemented by FEC with European Union funding, May 2021 to November 2026", "tiers": "Central and all Regional Directorates of Education; sector poles"}
+  ],
+  "note": "An education ministry system in the ministry's own regional directorates, which are central field offices; no local government office and no connection is stated."
+}

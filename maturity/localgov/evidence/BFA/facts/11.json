@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-06-burkina-faso-digital-transition-minister-noc-site-visit",
+  "facts": [],
+  "systems": [
+    {"system": "Centre d'opération du Réseau Backbone national (NOC)", "country_label": "NOC du Backbone national", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale", "tiers": "under construction on 5 August 2026; to supervise the national fibre network"},
+    {"system": "Maison du citoyen (Zama Tchey)", "country_label": "Zama Tchey", "class": "central", "platform": "", "owner": "Ministère de la Transition digitale", "tiers": "the first one, 20% built on 5 August 2026; postal, financial and digital services for the population"}
+  ],
+  "note": "No fact: a second account of the 5 August 2026 site visit; no local government office is said to be connected."
+}

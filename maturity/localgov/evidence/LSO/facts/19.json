@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-lesotho-social-protection-programs-and-systems-review-policy-brief",
+  "facts": [],
+  "systems": [
+    {"system": "National Information System for Social Assistance (NISSA)", "country_label": "NISSA", "class": "central", "platform": "", "owner": "Ministry of Social Development", "tiers": "a social registry for household targeting; the Child Grant Program uses it fully and the OVC-Bursary uses it in some community councils; described as underused"}
+  ],
+  "note": "The brief covers social assistance programmes run by ministries. It names local government offices only as the Ministry of Finance's offices taking pension applications, and community councils only as places of enrolment; it says enrolment is largely manual and most programmes lack a digital system at decentralised levels, but states nothing about the connection of local government offices."
+}

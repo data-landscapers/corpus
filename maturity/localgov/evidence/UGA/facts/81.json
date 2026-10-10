@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-digital-transformation-land-sector-uganda",
+  "facts": [],
+  "systems": [
+    {"system": "Uganda National Land Information System (UgNLIS)", "country_label": "UgNLIS", "class": "central", "platform": "", "owner": "Ministry of Lands, Housing and Urban Development", "tiers": "Decentralised to 22 Ministry Zonal Offices; not rolled out to district or sub-county authorities, where District Land Offices keep land records manually and certificates of customary ownership are typewritten and stored on paper at sub-county level (World Bank, 2024)"}
+  ],
+  "note": "The only system is the ministry's land information system, used at the ministry's zonal offices and stated as absent from district and sub-county authorities; that is an application absence, not a statement on the office's connection, so no fact."
+}

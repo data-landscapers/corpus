@@ -1,0 +1,8 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {"system": "West African Police Information System (WAPIS)", "country_label": "WAPIS; its centre is the DACORE (data collection and registration centre)", "class": "central", "platform": "WAPIS", "owner": "Ghana Police Service with INTERPOL; funded by the European Union", "tiers": "a DACORE in Accra and more than 35 units in the capital across police, immigration and prisons, with the regions to follow (August 2019)"}
+  ],
+  "note": "An INTERPOL newsletter on a police information system: local authorities appear only as officials met in Mali, The Gambia and Liberia; for Ghana it describes law enforcement sites in Accra and nothing of local government."
+}

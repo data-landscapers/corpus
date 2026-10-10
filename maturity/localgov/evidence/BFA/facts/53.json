@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-19-snec-taux-execution-physique-6411-2024",
+  "facts": [],
+  "systems": [
+    {"system": "solution informatique de déclaration systématique des faits d'Etat civil", "country_label": "solution informatique de déclaration systématique des faits d'Etat civil", "class": "application", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Mobilité, under the Stratégie nationale de l'Etat civil 2023-2027", "tiers": "deployed in 20 principal and 96 secondary civil-status centres in 2024"},
+    {"system": "mise en réseau des centres principaux d'Etat civil", "country_label": "mise en réseau de centres principaux d'Etat civil", "class": "", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Mobilité, under the Stratégie nationale de l'Etat civil 2023-2027", "tiers": "22 principal civil-status centres networked in 2024"},
+    {"system": "numérisation et sécurisation des actes d'Etat civil", "country_label": "numérisation et sécurisation des actes d'Etat civil", "class": "application", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Mobilité, under the Stratégie nationale de l'Etat civil 2023-2027", "tiers": "3,391,907 records of 54 communes in 2024"}
+  ],
+  "note": "No fact: the civil-status strategy's 2024 results are applications. The parent should know one item sits on the line: 22 principal civil-status centres were 'mis en réseau' in 2024, but the article does not say these centres are commune offices, what the network is, or that staff work in a system held elsewhere, so it is left unclassed and gives no fact."
+}

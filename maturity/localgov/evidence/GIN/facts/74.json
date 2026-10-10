@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-14-decrets-npi-rnpp-protection-donnees-personnelles",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "RNPP", "class": "application", "platform": "", "owner": "the body in charge of civil status and identification (ONECI)", "tiers": "by decree of 14 April 2025: a national database centralising communal registers, each kept by the commune's civil-status officer, and consular registers"},
+    {"system": "Registre National de l'État Civil (RNEC)", "country_label": "RNEC", "class": "application", "platform": "", "owner": "the body in charge of civil status and identification (ONECI)", "tiers": "feeds the RNPP; civil-status officers reach 'the system' by secure authentication and may record on paper or electronically (decree D/2025/053)"}
+  ],
+  "note": "Three decrees of 14 April 2025 (an excerpt, cut in Article 9 of the third): they give each commune a register and its officers authenticated access to an electronic system, and allow paper. A legal text places nothing; no connection at any commune office is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-23-unicef-innocenti-supporting-middle-tier-actors-chad-data",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS / SIGE)", "country_label": "SIGE", "class": "central", "platform": "", "owner": "Ministry of National Education and Civic Promotion (DPACS)", "tiers": "decentralised to 16 provinces, seven more to follow under the PRET; runs through the ministry's academies, provincial delegations and inspectorates, not local governments"}
+  ],
+  "note": "An education ministry system run through the ministry's own deconcentrated offices (academies, DPEN, IDENPC, IPEP); the 'local authorities' it names are those field offices. Nothing on communes' offices or their connection."
+}

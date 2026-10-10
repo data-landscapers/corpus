@@ -1,0 +1,15 @@
+{
+  "slug": "2021-12-16-eu-ghana-multiannual-indicative-programme-2021-2027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "GIS-based digital revenue management system",
+      "country_label": "GIS based digital revenue management system",
+      "class": "application",
+      "platform": "",
+      "owner": "Supported by German cooperation, with the Netherlands contributing software for revenue collection and fiscal cadastres",
+      "tiers": "MMDA level; Germany gives technical support to 100 MMDAs including all 16 regional capitals; the number of assemblies using the system is not stated"
+    }
+  ],
+  "note": "The European partners' programme supports assemblies' revenue software, urban e-services and digital transformation at MMDA level, and targets 5 MMDAs or institutions using GIS-based revenue tools; it states nothing about the connection of assembly offices."
+}

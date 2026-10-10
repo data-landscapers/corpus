@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-05-nitda-reaffirms-ai-commitment-launches-msme-training",
+  "facts": [],
+  "systems": [
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE", "class": "backbone", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "expansion of the national ICT backbone; high-speed connectivity to households, businesses and schools in underserved communities"},
+    {"system": "NCC Digital Industrial Park and Learning Centre, Enugu", "country_label": "NCC Digital Industrial Park; NCC Learning Centre", "class": "upper-tier", "platform": "", "owner": "Nigerian Communications Commission, leased to the Enugu State Government", "tiers": "two facilities in Enugu, the state capital"}
+  ],
+  "note": "A publisher page of four items on AI training, a technology fair, a state lease and telecoms cybersecurity: local government areas appear only as the spread of 3MTT registrations; nothing on local government offices or their connection."
+}

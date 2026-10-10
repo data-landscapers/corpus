@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-nrb-frequently-asked-questions",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration and Identification System (NRIS)", "country_label": "NRIS", "class": "central", "platform": "", "owner": "National Registration Bureau, Ministry of Homeland Security", "tiers": "National Registration Bureau district registration offices at every district council, selected post offices and designated centres; registration data sent to the National Registry"}
+  ],
+  "note": "The registration bureau's own FAQ: its offices sit at every district council, but they are a national agency's field offices, and nothing is stated about the councils' own connection or systems."
+}

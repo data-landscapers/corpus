@@ -1,0 +1,8 @@
+{
+  "slug": "2023-04-13-aws-south-africa-economic-impact-study-2023",
+  "facts": [],
+  "systems": [
+    {"system": "SHANA, the eThekwini Municipality Water Data Exchange", "country_label": "SHANA", "class": "application", "platform": "a cloud-based data lake built with AWS", "owner": "eThekwini Municipality", "tiers": "one metropolitan municipality: water and sanitation officials and the revenue management department"}
+  ],
+  "note": "AWS's own study of its Cape Town region. Its one local government item is SHANA, a cloud data lake eThekwini officials use for water data: a system one municipality works in, so an application, with nothing said of how the municipal offices are connected. GovChat is described as a national citizen-engagement platform with no local government named."
+}

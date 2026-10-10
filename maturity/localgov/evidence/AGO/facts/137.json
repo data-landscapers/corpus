@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-lei-13-25-altera-a-lei-do-registo-eleitoral-oficioso",
+  "facts": [],
+  "systems": [
+    {"system": "Base de Dados de Cidadãos Maiores (BDCM)", "country_label": "Base de Dados de Cidadãos Maiores (BDCM)", "class": "central", "platform": "", "owner": "the central administration and its deconcentrated organs, by article 14", "tiers": "managed centrally; fed automatically from the identity card database"},
+    {"system": "Ficheiro Informático de Cidadãos Maiores (FICM)", "country_label": "Ficheiro Informático de Cidadãos Maiores (FICM)", "class": "central", "platform": "", "owner": "the Executive, which supplies it to the Comissão Nacional Eleitoral", "tiers": "national"},
+    {"system": "Base de Dados de Identificação Civil (BDIC)", "country_label": "Base de Dados de Identificação Civil (BDIC) / Base de Dados do Bilhete de Identidade", "class": "central", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The 2025 law amending the electoral register law: article 28 requires the Executive to provide technological means, telephone lines or in-person posts in municipal and communal administrations for correcting register data, as a legal duty; it states no office as connected and gives no figure. The held body is an excerpt ending mid-article 21."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-21-decreto-presidencial-n-194-25-de-21-de-outubro",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão do Programa de Investimento Público", "country_label": "Sistema Integrado de Gestão do Programa de Investimento Público", "class": "application", "platform": "data-management platform covering every phase of a public investment project's cycle", "owner": "the ministerial department responsible for programming, managing and monitoring the Public Investment Programme", "tiers": "organs of the central and local administration of the State and other budgeted bodies, which upload project dossiers and physical-execution data; municipal administrations are named among the bodies taking part in the programme"},
+    {"system": "Sistema Integrado de Gestão do Património do Estado", "country_label": "Sistema Integrado de Gestão do Património do Estado", "class": "application", "platform": "", "owner": "", "tiers": "organs of the central and local administration of the State, which must register the asset a completed project creates"},
+    {"system": "SIGFE", "country_label": "Sistema Integrado de Gestão Financeira do Estado", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SIP", "country_label": "Sistema de Informação do Planeamento", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SIMAPE", "country_label": "Sistema Integrado de Monitorização e Acompanhamento de Projectos do Executivo", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A decree setting rules for the Public Investment Programme: it obliges local administration organs to load data into a national system but states nothing about how any municipal administration's office is connected or whether it does so. A law places nothing."
+}

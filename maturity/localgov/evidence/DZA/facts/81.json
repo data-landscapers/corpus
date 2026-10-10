@@ -1,0 +1,114 @@
+{
+  "slug": "2019-06-19-dza-modernisation-du-service-public-en-algerie",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The interior ministry's deck states that communes and their annexes issue birth, marriage and death acts in under a minute from any commune or annex in the country, and its architecture slide shows entry, checking and updating at commune level in 1,541 commune databases linked to a national database at the ministry; no date is given, so the presentation's date is used.",
+      "as_of": "2019-06-19",
+      "date_precision": "day",
+      "system": "Réseau MICL",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "The interior ministry's architecture slide shows the commune, wilaya and ministry levels of the civil-status register linked over the ministry's own network, labelled 'Réseau MICL'; no date is given, so the presentation's date is used.",
+      "as_of": "2019-06-19",
+      "date_precision": "day",
+      "system": "Réseau MICL",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:100%",
+      "fact": "The interior ministry's architecture slide numbers the communes on the civil-status network C1 to C1541 with 1,541 commune databases, and the deck speaks of 'the 1541 communes' and of issue from any commune in the national territory: 1,541 of 1,541 communes on the ministry's own account, with no rural figure; no date is given, so the presentation's date is used.",
+      "as_of": "2019-06-19",
+      "date_precision": "day",
+      "system": "Réseau MICL",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The network linking communes and wilayas to the national civil-status database is shown as the interior ministry's own ('Réseau MICL'), with the national database held at ministry level; no date is given, so the presentation's date is used.",
+      "as_of": "2019-06-19",
+      "date_precision": "day",
+      "system": "Réseau MICL",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "A slide footed 22 October 2017 states that communes use the applications of the biometric identity card, reading and updating them, over an 'INTRANET'; the slide's own date is used.",
+      "as_of": "2017-10-22",
+      "date_precision": "day",
+      "system": "INTRANET",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Réseau MICL",
+      "country_label": "Réseau MICL",
+      "class": "connection",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire",
+      "tiers": "1,541 communes, 48 wilayas and the ministry, as the architecture slide shows"
+    },
+    {
+      "system": "INTRANET",
+      "country_label": "INTRANET",
+      "class": "connection",
+      "platform": "",
+      "owner": "",
+      "tiers": "communes, for reading and updating the identity card's applications"
+    },
+    {
+      "system": "Registre National automatisé de l'état civil",
+      "country_label": "Registre National automatisé de l'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire",
+      "tiers": "1,541 commune databases, 48 wilaya databases and a national database at the ministry; ministries and institutions consult it"
+    },
+    {
+      "system": "Passeport Biométrique Electronique",
+      "country_label": "Passeport Biométrique Electronique",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire",
+      "tiers": "enrolment sites in 541 daïras, 13 circonscriptions administratives and 163 consular services, then decentralised to the 1,541 communes and the urban sectors of large communes"
+    },
+    {
+      "system": "Carte Nationale d'Identité Biométrique Electronique (CNIBE)",
+      "country_label": "CNIBE",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire",
+      "tiers": "communes read and update its applications; a dashboard for follow-up by the commune"
+    },
+    {
+      "system": "Registre National de la Population (RNP)",
+      "country_label": "Registre National de la Population",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Data center principal and data center backup",
+      "country_label": "Data Center Principal / Data Center Backup",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

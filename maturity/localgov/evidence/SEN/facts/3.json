@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-21-sen-ecofin-civil-registry-77-percent-digitized",
+  "facts": [],
+  "systems": [
+    {"system": "civil registry management software", "country_label": "logiciel de gestion de l'état civil", "class": "application", "platform": "", "owner": "National Civil Registry Agency (ANEC)", "tiers": "deployed in 74% of the 629 civil registry centres as of August 2026; 77% of centres digitised per ANEC's director general in September 2026; data hosted in Senegal on several government-owned sites"},
+    {"system": "Sama État Civil", "country_label": "Sama État Civil", "class": "web", "platform": "", "owner": "National Civil Registry Agency (ANEC)", "tiers": "online requests for birth, marriage and death certificates, collected at the civil registry centre; operational in 189 municipalities as of August 2026"}
+  ],
+  "note": "Counts civil registry centres with the management software and municipalities with the citizen platform; it does not say the centres or town halls are connected, or how."
+}

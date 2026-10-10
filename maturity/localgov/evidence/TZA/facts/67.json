@@ -1,0 +1,15 @@
+{
+  "slug": "2013-01-10-e-government-helps-countries-increase-efficiency-un-desa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Zanzibar e-government programme (fibre optic cable and e-government centre)",
+      "country_label": "e-government project; e-government centre at Mazizini",
+      "class": "backbone",
+      "platform": "fibre optic cable, with ZTE, Helios-Tech and Microsoft named as supporters",
+      "owner": "Revolutionary Government of Zanzibar (e-government project facilitation team)",
+      "tiers": "Zanzibar; centres and connections, with no office named as connected"
+    }
+  ],
+  "note": "The article reports the launch of Zanzibar's e-government centre and fibre optic cable (planned from 2006) and Tanzania's rank of 139 of 193 in the 2012 UN survey; 'Zanzibar municipality' is only the centre's location, and no local government office is said to be connected."
+}

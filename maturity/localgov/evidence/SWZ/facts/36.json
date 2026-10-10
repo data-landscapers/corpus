@@ -1,0 +1,23 @@
+{
+  "slug": "2025-10-21-esppra-announces-nine-tenders",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data centre disaster recovery (ESCCOM consultancy tender)",
+      "country_label": "data centre disaster recovery",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Eswatini Communications Commission (ESCCOM)",
+      "tiers": "national; consultancy tender advertised October 2025; no local government office named"
+    },
+    {
+      "system": "ESPPRA online tender portal",
+      "country_label": "online portal",
+      "class": "central",
+      "platform": "",
+      "owner": "Eswatini Public Procurement Regulatory Agency (ESPPRA)",
+      "tiers": "national; carries tenders of public bodies, the Municipal Council of Manzini and the Manzini Regional Administration among them"
+    }
+  ],
+  "note": "A round-up of nine tenders reported 21 October 2025. The local government items are a sewer and drainage upgrade for the Municipal Council of Manzini and construction works for the Manzini Regional Administration; nothing on any council's connection or systems."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-10-08-cm-civil-registration-funding-gap",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "Biometric Update reports that a BUNEC working session with Liber Technologies in Yaounde in October 2025 named connecting the civil registration centres, whose principal centres sit in councils, among the challenges facing the reform; no count of centres connected is given.", "as_of": "2025-10", "date_precision": "month", "system": "connection of civil registration centres", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "national civil status database", "country_label": "national civil status database", "class": "application", "platform": "", "owner": "BUNEC, the National Civil Status Registration Office", "tiers": "computerisation extended to 60 principal civil registration centres of 432 (49 of them in diplomatic missions and consulates), per BUNEC's director general; piloted from 2022 in centres of some councils in Yaounde; digital registration runs only in selected councils beside the dominant paper process; 2,439 secondary and 149 special centres also exist"},
+    {"system": "connection of civil registration centres", "country_label": "", "class": "connection", "platform": "", "owner": "", "tiers": "named as a challenge in October 2025; no centre stated as connected"},
+    {"system": "digital master plan for local and regional councils", "country_label": "digital master plan", "class": "capacity", "platform": "", "owner": "Ministry of Decentralization and Local Development", "tiers": "local and regional councils; being implemented"},
+    {"system": "inter-administrative platform linking civil registration and national ID", "country_label": "inter-administrative platform", "class": "central", "platform": "", "owner": "BUNEC, with the General Delegation for National Security", "tiers": "being deployed; tiers not stated"},
+    {"system": "AIGLES", "country_label": "AIGLES", "class": "central", "platform": "", "owner": "Ministry of Finance", "tiers": "state payroll; not stated"}
+  ],
+  "note": "The 60 computerised centres are stated as computerised, not as connected, and belong to the civil registration application; the one fact is the October 2025 statement that connecting the centres remains a challenge."
+}

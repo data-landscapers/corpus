@@ -1,0 +1,15 @@
+{
+  "slug": "2019-02-02-national-cadastre-available-online",
+  "facts": [],
+  "systems": [
+    {
+      "system": "cadastre.bj",
+      "country_label": "digital cadastre of Benin (cadastre.bj)",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of Economy and Finance, through the National Estate and Land Agency (ANDF)",
+      "tiers": "National agency's public website for plot owners; Cotonou is the first municipality whose information is fully available, as stated on 2 February 2019. No commune office is said to work in it."
+    }
+  ],
+  "note": "A national agency's public cadastre site; the municipality of Cotonou is named as the first place covered, not as an office connected or working in a system."
+}

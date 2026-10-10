@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-15-mauritanie-decret-2025-162-bds-mac-texte-integral-faolex",
+  "facts": [],
+  "systems": [
+    {"system": "BDS-MAC", "country_label": "Base de Données Spéciale des Ménages pauvres et/ou vulnérables Affectés par les Catastrophes (BDS-MAC)", "class": "central", "platform": "", "owner": "Ministry of the Interior, Promotion of Decentralisation and Local Development", "tiers": "national; fed by data supplied by administrative authorities and local authorities (regions, communes), among others"}
+  ],
+  "note": "A decree of 15 October 2025 creating a national database of disaster-affected households; communes are named only as one supplier of data, with no means of transmission, connection or system at their offices stated."
+}

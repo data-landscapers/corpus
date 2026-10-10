@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-zmb-itweb-zamportal-revenue-crosses-500m",
+  "facts": [],
+  "systems": [
+    {"system": "ZamPortal", "country_label": "ZamPortal", "class": "web", "platform": "", "owner": "Smart Zambia Institute", "tiers": "central government (394 services) and eight local authorities (178 services), of 572 services across 52 providers, on the finance minister's account of 2026-09-30"},
+    {"system": "Government Service Bus and Government Payment Gateway", "country_label": "Government Service Bus; Government Payment Gateway", "class": "application", "platform": "", "owner": "Ministry of Finance and National Planning with Smart Zambia Institute", "tiers": "ministries, provinces and agencies, as the government's centralised revenue-collection system under the 2027-2029 Budget Call Circular"}
+  ],
+  "note": "States that eight local authorities offer 178 services through the national online services portal; nothing on the connection of council offices or on staff working over one."
+}

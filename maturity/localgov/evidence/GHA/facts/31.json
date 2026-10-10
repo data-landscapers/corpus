@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-19-myjoyonline-ghaneps-electronic-procurement-corruption-ppa",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Electronic Procurement System", "country_label": "GHANEPS", "class": "application", "platform": "", "owner": "Public Procurement Authority", "tiers": "all state institutions, by direction of the Minister of Finance; a Kadjebi District Assembly procurement officer is quoted on it"}
+  ],
+  "note": "The procurement authority says all state institutions are directed to use GHANEPS and that procurement entities work in it electronically; the article does not itself say assemblies enter transactions in it from their own offices, so no connection fact is taken."
+}

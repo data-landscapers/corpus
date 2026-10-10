@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Births and Deaths Registration System (BDRS)", "country_label": "Births and Deaths Registration System (BDRS)", "class": "central", "platform": "", "owner": "", "tiers": "Registry offices in 12 districts and 24 sub-districts linked to the national online system since 2004, as the document states; the document does not say the offices are a local government's"}
+  ],
+  "note": "The Botswana rows cover rural clinics, schools, police stations and civil registry offices, none of them stated to be a local government's own office; the document is also on the study's excluded-sources list as an AI-assisted compilation."
+}

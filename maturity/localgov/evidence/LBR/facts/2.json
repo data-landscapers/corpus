@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-20-smart-news-lra-unveils-new-strategic-plan-liberia",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA", "country_label": "ASYCUDA", "class": "central", "platform": "ASYCUDA", "owner": "Liberia Revenue Authority", "tiers": "11 of 17 Customs Business Offices"},
+    {"system": "LITAS", "country_label": "LITAS", "class": "central", "platform": "", "owner": "Liberia Revenue Authority", "tiers": "5 of 18 Tax Business Offices; solar power and connectivity being introduced at rollout locations outside Monrovia"}
+  ],
+  "note": "The offices and connectivity described are the Liberia Revenue Authority's own field offices, a national agency; local authorities are only asked to support revenue mobilisation."
+}

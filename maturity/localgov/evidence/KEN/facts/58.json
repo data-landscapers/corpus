@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-04-kenya-draft-pfm-ecitizen-system-management-regulations-2026",
+  "facts": [],
+  "systems": [
+    {"system": "e-Citizen System", "country_label": "e-Citizen System", "class": "application", "platform": "", "owner": "National Treasury, which hosts, administers and maintains it", "tiers": "national government and county government entities, each required by the draft to onboard its services and payment processes"}
+  ],
+  "note": "Draft regulations dated 4 May 2026, not yet made: they would require county government entities to onboard services and revenue collection onto e-Citizen, and state nothing about any county office's connection or about onboarding done."
+}

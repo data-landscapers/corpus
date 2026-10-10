@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-01-statistics-botswana-vital-statistics-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Births and Deaths Registration System (BDRS)", "country_label": "Births and Deaths Registration System", "class": "central", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": "35 District registration offices of the department and 17 on-site registration points at major health facilities and clinics"},
+    {"system": "National Identification System (NIS)", "country_label": "National Identification System", "class": "central", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": "national; integrated with the BDRS"}
+  ],
+  "note": "The registration offices are field offices of a national department, not local governments; the Ministry of Local Government and Rural Development appears only as an outreach partner. No connection of a council office is stated."
+}

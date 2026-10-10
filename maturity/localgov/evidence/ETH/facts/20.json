@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration at kebele registry offices", "country_label": "CRVS; ME-CRVS tablet system", "class": "application", "platform": "home-grown and open-source systems in regions such as Oromia and Amhara", "owner": "", "tiers": "kebeles (sub-offices below the woreda): paper booklets in rural kebeles; 100 kebeles in Addis Ababa computerised and tablet ME-CRVS in 1,300 kebeles"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "application", "platform": "", "owner": "", "tiers": "paper census forms from schools carried to woreda and regional education bureau level for manual Excel entry"}
+  ],
+  "note": "The Ethiopia rows score clinics, schools, police stations and registry offices; they describe paper records at kebele registry offices and manual entry at woreda level but state nothing on the connection of a woreda or city administration office. The study excludes this source as an AI-assisted compilation."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-09-dza-echchaab-trois-ans-algerie-numerique-2030",
+  "facts": [],
+  "systems": [
+    {"system": "IRIES", "country_label": "الشبكة السيادية IRIES / الشبكة الحكومية المؤمنة", "class": "backbone", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "government sectors, public bodies and the national data centres; 46 long-haul fibre links completed for ministerial departments and public bodies (balance sheet April 2024 to September 2026); no commune said to be on it"},
+    {"system": "Sovereign cloud and two national data centres (Algiers, Blida)", "country_label": "الحوسبة السحابية السيادية / المركز الوطني الجزائري للخدمات الرقمية", "class": "backbone", "platform": "Tier III certified data centres", "owner": "High Commission for Digitalisation", "tiers": "government sectors and bodies"},
+    {"system": "Dzair Digital Services", "country_label": "البوابة الوطنية للخدمات الرقمية الحكومية", "class": "web", "platform": "web and smartphone versions", "owner": "High Commission for Digitalisation", "tiers": "national"}
+  ],
+  "note": "The High Commission's three-year balance sheet: a secured government network, cloud and data centres for ministries and public bodies. It names no local government office on the network."
+}

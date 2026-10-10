@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-05-vehicle-registration-fully-digital-elmoudjahid",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "El Moudjahid reports that from 5 April 2026 the municipal services work in the national vehicle-registration information system, a centralised platform that is the only channel for all transactions, the old local applications being switched off; it gives no count of communes.", "as_of": "2026-04-05", "date_precision": "day", "system": "Municipal services working in the national vehicle-registration platform", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "On 5 April 2026 the municipal services began the third phase of generalising the national vehicle-registration system, ending manual and local procedures in favour of the centralised platform, El Moudjahid reports.", "as_of": "2026-04-05", "date_precision": "day", "system": "Municipal services working in the national vehicle-registration platform", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The move of municipal services onto the centralised national vehicle-registration platform on 5 April 2026 was made on the directives of the Ministry of the Interior, Local Authorities and Transport, El Moudjahid reports; the document does not say who provides or pays for the offices' connection.", "as_of": "2026-04-05", "date_precision": "day", "system": "Municipal services working in the national vehicle-registration platform", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Système informatique national de l'immatriculation des véhicules", "country_label": "système informatique national de l'immatriculation des véhicules", "class": "application", "platform": "centralised national platform replacing local applications", "owner": "ministère de l'Intérieur, des Collectivités locales et des Transports", "tiers": "municipal services (registration offices); third phase of generalisation from 5 April 2026"}
+  ],
+  "note": ""
+}

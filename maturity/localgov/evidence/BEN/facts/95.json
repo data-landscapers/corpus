@@ -1,0 +1,15 @@
+{
+  "slug": "2018-01-12-world-bank-warcip-benin-icr",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national backbone infrastructure",
+      "country_label": "national backbone infrastructure",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "Government of Benin; investment financed in part by Exim-Bank of China",
+      "tiers": "National backbone: a west link toward the Togo border, a link to Porga at the Burkina Faso border and rehabilitation of the link to Niger, as planned investment described in the January 2018 completion report. No local government office is said to be on it."
+    }
+  ],
+  "note": "Passages of the WARCIP completion report: the ACE submarine cable and the planned national backbone. No local government office is mentioned."
+}

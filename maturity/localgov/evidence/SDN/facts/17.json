@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Sudan National Information Centre (NIC) Data Centre", "country_label": "National Information Centre (NIC) Data Centre", "class": "backbone", "platform": "", "owner": "National Information Centre, Government of Sudan", "tiers": "Khartoum; a government facility dated 2011, status unknown; customers given as the Government of Sudan and its ministries"},
+    {"system": "Sudatel Data Centre Khartoum", "country_label": "Sudatel Data Centre Khartoum", "class": "backbone", "platform": "", "owner": "Sudatel Telecom Group", "tiers": "Khartoum; operational since 2012; customers given as banks, government agencies and telecom operators"}
+  ],
+  "note": "Passages of a data-centre ownership register, compiled with AI assistance by its own header; the Sudan rows list three data centres in Khartoum and no local government office is said to be on any of them. The Zain Sudan facility is a private operator's own and is left out."
+}

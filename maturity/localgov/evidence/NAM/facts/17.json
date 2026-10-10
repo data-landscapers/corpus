@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-15 Namibia encouraged by Angola on datacentre establishment",
+  "facts": [],
+  "systems": [
+    {"system": "National datacentre (planned)", "country_label": "national datacentre", "class": "backbone", "platform": "", "owner": "Government of Namibia; Ministry of Information and Communication Technology", "tiers": "Planned as a pillar of the 2025-2029 digital strategy, with no dates set; no local authority office said to be on it"},
+    {"system": "Armada datacentre", "country_label": "Armada datacentre", "class": "backbone", "platform": "Commercial datacentre", "owner": "Paratus", "tiers": "Not stated"},
+    {"system": "Virtual Space Data Centre", "country_label": "Virtual Space Data Centre", "class": "backbone", "platform": "Commercial datacentre", "owner": "Airbus and the Namibia University of Science and Technology", "tiers": "Not stated"}
+  ],
+  "note": "A ministerial visit to Angola's data centre; local municipalities are named only as bodies to be guided on e-waste disposal, and nothing is stated about the connection of their offices."
+}

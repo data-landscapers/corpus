@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-14-afdb-200m-project-bridge-dvibe",
+  "facts": [],
+  "systems": [
+    {"system": "Project BRIDGE / Digital Value Chain Infrastructure for Boosting Employment (D-VIBE)", "country_label": "Project Bridge; D-VIBE", "class": "backbone", "platform": "open-access fibre, extending the national backbone from about 30,000 km to about 120,000 km", "owner": "Government of Nigeria; financed by AfDB (US$200m), World Bank (US$500m), EBRD (US$100m), an EU grant and private investment", "tiers": "all 774 local government areas, including schools, health facilities, agro-industrial zones, rural communities and commercial hubs; local government offices not named"}
+  ],
+  "note": "A backbone loan: the fibre is to reach all 774 local government areas, and the institutions listed as connected do not include local government offices."
+}

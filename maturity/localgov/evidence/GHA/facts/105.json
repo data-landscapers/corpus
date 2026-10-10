@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-ghana-national-ai-strategy-2025-2035",
+  "facts": [],
+  "systems": [
+    {"system": "Community ICT Centres", "country_label": "Community ICT Centres", "class": "public-access", "platform": "", "owner": "", "tiers": "communities; the strategy (December 2025) plans to liaise with District Assemblies to integrate AI hubs with those already established"}
+  ],
+  "note": "A national AI strategy: district assemblies and the local government ministry appear only as partners for AI hubs, regional data protection offices and public service use cases; it states nothing on the connection of an assembly's own office."
+}

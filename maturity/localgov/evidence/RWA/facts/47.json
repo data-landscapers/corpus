@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-rra-annual-activity-report-2024-25",
+  "facts": [],
+  "systems": [
+    {"system": "CAMA System for Property Tax Administration", "country_label": "CAMA", "class": "central", "platform": "", "owner": "Rwanda Revenue Authority", "tiers": "planned for 2025/26; run by the revenue authority, not by local governments"}
+  ],
+  "note": "The national revenue authority reports collecting local government taxes and fees itself (FRW 107.5 billion in 2024/25) through its own systems; it states nothing about local government offices, their connection or their use of any system."
+}

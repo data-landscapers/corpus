@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-21-dr-congo-public-service-waste-biometric-id-registry-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "biometric civil service registry (ENCORE project)", "country_label": "ENCORE", "class": "central", "platform": "biometric registry and identification cards", "owner": "Ministry of Civil Service and the Steering Committee for Public Finance Reform (COREF), with World Bank financing of USD 250 million", "tiers": "national: more than 118,000 biometric cards issued to civil servants in all 26 provinces by July 2025, handed over by field teams"},
+    {"system": "DRCPass", "country_label": "DRCPass", "class": "central", "platform": "national digital ID, built by Trident (Singapore)", "owner": "Government of DR Congo", "tiers": "national"}
+  ],
+  "note": "A central civil-service registry whose cards were distributed in every province by travelling teams; no local government office, system used there or connection is described."
+}

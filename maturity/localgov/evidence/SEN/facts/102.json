@@ -1,0 +1,15 @@
+{
+  "slug": "2008-01-25-loi-2008-12-protection-donnees-personnelles",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Intranet gouvernemental",
+      "country_label": "Intranet gouvernemental",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "The law's explanatory statement says only that the government intranet had started; no office or tier is named"
+    }
+  ],
+  "note": "The data protection law: collectivités locales appear only as data controllers within its scope (Articles 1, 2, 21, 76, 77); the government intranet is mentioned once as having started, with no local government office said to be on it."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2019-04-01-ue-nekkal-etude-faisabilite-fichier-central-national-biometrique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "HERA",
+      "country_label": "Logiciel d'administration de l'état civil HERA",
+      "class": "application",
+      "platform": "HERA (deployed by Edisoft Sénégal under PAMEC)",
+      "owner": "Promoted by the Centre National de l'Etat Civil (CNEC); installed by the EU-funded PAMEC project",
+      "tiers": "83 civil registration centres as of April 2019 (80 in the 2017 deployment reports cited); no connection of the centres is stated and the study says no consolidated national civil register exists"
+    },
+    {
+      "system": "Système centralisé de gestion de l'état civil (proposed)",
+      "country_label": "Registre d'état civil national et centralisé",
+      "class": "application",
+      "platform": "",
+      "owner": "Proposed; the Direction de l'état civil and its CNEC hold the mandate to coordinate computerisation of civil registration centres (decree 2018-1573)",
+      "tiers": "A recommendation of the study, to be fed from existing municipal civil register databases and digitised paper registers; not built"
+    }
+  ],
+  "note": "A feasibility study of identity and civil registration files: it states nothing about a data connection at commune offices; the identity-card and passport systems it describes run in police stations, which are central field offices."
+}

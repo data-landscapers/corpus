@@ -1,0 +1,10 @@
+{
+  "slug": "2022-09-01-gmb-undp-the-gambia-2019-2021-report",
+  "facts": [],
+  "systems": [
+    {"system": "IEC regional offices internet connectivity", "country_label": "internet connectivity and corporate email at 4 rehabilitated Independent Electoral Commission regional offices", "class": "central", "platform": "", "owner": "Independent Electoral Commission, with UNDP support", "tiers": "4 regional offices of a national body"},
+    {"system": "e-government platform", "country_label": "beta version of e-government platform", "class": "", "platform": "", "owner": "national government partners, with the UNDP Accelerator Lab", "tiers": ""},
+    {"system": "UNDP Smart Cities Pilot Project", "country_label": "Smart Cities Pilot Project", "class": "", "platform": "", "owner": "UNDP country office", "tiers": ""}
+  ],
+  "note": "UNDP's 2019-2021 programme report; local governments appear for waste management at Kanifing, strategic plans and a first GMD 8 million central allocation to the eight local governments, and women's participation, with nothing stated about a connection at any council office."
+}

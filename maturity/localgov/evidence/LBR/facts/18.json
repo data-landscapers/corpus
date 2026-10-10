@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-27-undp-liberia-ict-equipment-county-development-planning-units",
+  "facts": [],
+  "systems": [
+    {"system": "ICT equipment for County Development Planning Units", "country_label": "County Development Planning Units (Liberia Decentralization Support Programme)", "class": "equipment", "platform": "Desktop computers, laptops, printers, air conditioners and UPS units", "owner": "Ministry of Local Government, with UNDP under the Liberia Decentralization Support Programme, financed by Sweden", "tiers": "County level: 5 counties equipped at the March 2026 handover (Grand Gedeh, River Gee, Maryland, Grand Kru, Sinoe), making 9 of 15; Bong, Nimba, Lofa, Grand Bassa, Bomi and Gbarpolu pending 'as resources become available'"}
+  ],
+  "note": "Equipment handed to county planning units with no connection stated, so the class is equipment and no fact is taken; the deputy minister designate's count is 9 of 15 counties equipped as of 2026-03-27, donor-financed."
+}

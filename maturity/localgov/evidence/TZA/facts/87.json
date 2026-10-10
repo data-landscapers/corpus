@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-01-naot-performance-audit-birth-death-certificates",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration System (CRS)", "country_label": "CRS", "class": "central", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "RITA's registration system; efforts to integrate it with GOTHOMIS and the health ministry's eHMS reported in RITA's integration status report of October 2024"},
+    {"system": "RITA Online Service System (eRITA)", "country_label": "eRITA", "class": "", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "named in the abbreviation list only"},
+    {"system": "Government of Tanzania Health Operations Management Information System (GOTHOMIS)", "country_label": "PO-RALG - GOTHOMIS", "class": "application", "platform": "", "owner": "President's Office - Regional Administration and Local Government (PO-RALG)", "tiers": "named as a system RITA is working to integrate with"}
+  ],
+  "note": "The passages are the preface, abbreviations and one paragraph on RITA's system integration; local government authorities appear only in the auditor's mandate, and nothing is said of council offices' connection."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-30-iec-online-voter-registration-south-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Online voter registration portal", "country_label": "online voter registration portal", "class": "central", "platform": "", "owner": "Electoral Commission (IEC)", "tiers": "national, used by voters; about 603,572 of more than 815,000 transactions since June 2026"},
+    {"system": "Online candidate nomination system", "country_label": "online candidate nomination system", "class": "central", "platform": "", "owner": "Electoral Commission (IEC)", "tiers": "national, used by parties and independent candidates; 76 parties and 39 independents had started using it"}
+  ],
+  "note": "The national electoral commission's online systems ahead of the local government elections. Nothing on any municipal office's connection."
+}

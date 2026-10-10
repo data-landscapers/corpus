@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-15-zimbabwe-zimra-digital-tax-councils-paperwork",
+  "facts": [],
+  "systems": [
+    {"system": "Local authorities' accounting systems", "country_label": "accounting-system modules", "class": "application", "platform": "", "owner": "local authorities", "tiers": "Some local authorities, with modules not activated and automation partial, per the Auditor-General's 2024 report as the article gives it"},
+    {"system": "Electronic government procurement and e-filing", "country_label": "electronic government procurement; e-filing", "class": "application", "platform": "", "owner": "Government", "tiers": "The Auditor-General encouraged councils to take them up; no council said to use them"}
+  ],
+  "note": "States council accounting systems are partly automated and financial statements late (26 submitted on time for 2024, 66 not); nothing on whether council offices are connected."
+}

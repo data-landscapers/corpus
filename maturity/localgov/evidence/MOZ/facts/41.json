@@ -1,0 +1,9 @@
+{
+  "slug": "2022-05-01-worldbank-mozambique-digital-acceleration-project-pid-pida33722",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "GovNet", "class": "backbone", "platform": "", "owner": "INAGE named as technical stakeholder", "tiers": "ministries, departments and agencies; geographic reach to be increased, with a Network Operations Center"},
+    {"system": "Government Cloud", "country_label": "Government Cloud", "class": "backbone", "platform": "", "owner": "", "tiers": "to be established; not stated"}
+  ],
+  "note": "Plans connectivity purchases for ministries, departments and agencies over GovNet; no local government office is named as connected or to be connected."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-24-numerico-convention-kinshasa-regideso-mutualisation-donnees",
+  "facts": [],
+  "systems": [
+    {
+      "system": "REGI-RELEVE",
+      "country_label": "plateforme « REGI-RELEVE »",
+      "class": "upper-tier",
+      "platform": "Application built in-house by REGIDESO's own IT staff",
+      "owner": "REGIDESO (the state water utility); data to be shared with the Ville de Kinshasa under the convention of 24 April 2026, through a technical commission chaired by the Agence pour le Développement du Numérique",
+      "tiers": "City-province of Kinshasa (the provincial executive), for property tax, rental-income tax and sanitation tax; extension to other provinces and the national level agreed for a second phase"
+    },
+    {
+      "system": "REGI-PAY",
+      "country_label": "plateforme de paiement REGI-PAY",
+      "class": "upper-tier",
+      "platform": "",
+      "owner": "REGIDESO",
+      "tiers": "REGIDESO's payment platform; its director general says it could help the Ville de Kinshasa collect its revenue"
+    }
+  ],
+  "note": "A data-sharing and tax-collection convention between the provincial executive of Kinshasa and the water utility: upper-tier platforms, and nothing stated about a connection at any commune's office."
+}

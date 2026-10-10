@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-30-integrated-financial-management-information-system",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The National Treasury's IFMIS website describes the Integrated Financial Management Information System as an automated platform for planning, budgeting, procurement, expenditure management and reporting within both the national and the county governments, with real-time monitoring; it gives no date, no count of counties and nothing on how county offices are connected, so the date here is the day the page was retrieved, which the record uses as its published date.", "as_of": "2026-08-30", "date_precision": "day", "system": "County governments' use of IFMIS", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "IFMIS Department, The National Treasury", "tiers": "national and county governments; the page lists county e-procurement training (September 2024) and support and training in Baringo County (September 2024)"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2017-05-01-id4d-country-diagnostic-burkina-faso",
+  "facts": [],
+  "systems": [
+    {"system": "G-Cloud", "country_label": "G-Cloud", "class": "backbone", "platform": "", "owner": "ANPTIC", "tiers": "a project that will connect most of the main public facilities to the government network; no commune office named"},
+    {"system": "SIGEC", "country_label": "SIGEC", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "No fact: the passages describe civil registration in communes (350 primary centres, forms sent to communes for vital statistics) and a planned government network link for main public facilities; they do not say whether any commune's office is connected."
+}

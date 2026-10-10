@@ -1,0 +1,9 @@
+{
+  "slug": "2019-10-02-cote-divoire-decret-2019-805-modalites-application-loi-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "traitement automatisé des données de l'état civil", "country_label": "traitement automatisé des données de l'état civil", "class": "application", "platform": "", "owner": "commune or sous-préfecture, which may delegate hosting to a public body", "tiers": "civil-status centres of communes and sous-préfectures; consular circonscriptions"},
+    {"system": "base de données centrale de contrôle", "country_label": "base de données centrale de contrôle", "class": "central", "platform": "", "owner": "Ministère de la Justice", "tiers": "centralises civil-status data digitised in each jurisdiction and at the foreign ministry's central civil-status service"}
+  ],
+  "note": "A decree: it permits computerised civil-status processing hosted by the commune or sous-préfecture and states nothing about any office's connection."
+}

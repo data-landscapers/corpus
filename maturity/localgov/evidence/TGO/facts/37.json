@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration at local état civil offices", "country_label": "état civil", "class": "application", "platform": "", "owner": "", "tiers": "Registry offices at prefectures and town halls, recording in paper registers as the essay gives it; online requests for copies piloted in 5 communes since December 2025"}
+  ],
+  "note": "Passages of an AI-assisted compilation by its own header, which study.json lists under exclude_sources. Its Togo rows describe paper recording at clinics, schools, gendarmerie posts and civil registry offices, which concerns records, not the office's connection; no connection at a local government office is stated either way, so no fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-01-dza-uneca-egmrg-crvs-digitalisation",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The interior ministry's presenter says civil registration is decentralised across 1,541 communes and that since 2018 the national identification number is generated automatically from the national automated civil register (RNAEC) when a birth is registered, so each newborn leaves registration with a birth certificate and number; it does not say in terms that the commune offices are connected.", "as_of": "2018", "date_precision": "year", "system": "Communes' civil-status offices registering in the RNAEC", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Registre National Automatisé de l'État Civil (RNAEC)", "country_label": "RNAEC", "class": "application", "platform": "secured national database of more than 100 million civil-status records (consolidated 2013; register created 2014)", "owner": "ministère de l'Intérieur, des Collectivités locales et des Transports", "tiers": "civil status held in 1,541 communes; 'more than 3,000 administrations and services' linked to it, not broken down by tier; extension to consulates forthcoming"},
+    {"system": "Numéro d'Identification National Unique (NIN)", "country_label": "NIN", "class": "application", "platform": "generated from the RNAEC since 2018", "owner": "ministère de l'Intérieur, des Collectivités locales et des Transports", "tiers": "adopted by all government authorities and partner sectors in 2023"},
+    {"system": "Portail national des services numériques", "country_label": "portail national des services numériques", "class": "web", "platform": "", "owner": "", "tiers": "national; digital identity integrated in 2025"}
+  ],
+  "note": "The one fact rests on birth registration in the communes producing a number from the national register; the 3,000 linked 'administrations et services' are not said to be communes, so no count is recorded."
+}

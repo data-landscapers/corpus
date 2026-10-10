@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-01-internet-haut-debit-pafen-couvrir-80-du-territoire",
+  "facts": [],
+  "systems": [
+    {"system": "PAFEN rural 4G connectivity contracts with Onatel and Lumitel (lots 1, 2 and 3)", "country_label": "PAFEN; connectivité rurale, réseau Internet 4G en milieu rural", "class": "backbone", "platform": "4G mobile network", "owner": "PAFEN project; operators Onatel and Lumitel", "tiers": "about 178 localities the article calls new communes, in rural areas; over 800,000 people; schools, hospitals and other rural public services said to benefit"},
+    {"system": "OBR tax collection platform financed through PAFEN", "country_label": "plateforme de collecte des taxes et impôts", "class": "central", "platform": "", "owner": "Office burundais des recettes", "tiers": ""}
+  ],
+  "note": "Mobile coverage contracts that pass rural localities; no local government office is said to be connected, so no fact."
+}

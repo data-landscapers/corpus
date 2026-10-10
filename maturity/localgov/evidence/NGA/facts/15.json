@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-16-nga-businessday-52000km-fibre-gap-sovereign-bond-plan",
+  "facts": [],
+  "systems": [
+    {"system": "National terrestrial fibre backhaul (about 68,000 km against 120,000 km needed, per the presenter)", "country_label": "", "class": "backbone", "platform": "", "owner": "telecom operators", "tiers": "national"},
+    {"system": "Bridge Open Access", "country_label": "Bridge Open Access", "class": "backbone", "platform": "open-access wholesale fibre", "owner": "", "tiers": "named as a potential neutral entity for the core backbone"}
+  ],
+  "note": "An analyst's fibre-financing proposal; local authorities appear only as issuers of approvals and permit fees for fibre, and no local government office's connection is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-03-sudan-civil-registration-id-documents-passports",
+  "facts": [],
+  "systems": [
+    {"system": "Centralised electronic civil registry", "country_label": "civil registry; national identity number (ar-raqm al-watani)", "class": "central", "platform": "", "owner": "General Directorate for Civil Registration, Ministry of Interior", "tiers": "civil registry offices countrywide and more than a thousand mobile registration units; offices in all major cities of Darfur, none in IDP settlements"}
+  ],
+  "note": "The civil registry is run by a Ministry of Interior directorate through its own offices; 'local authorities' appear only as the recipient of a paper birth notice, and nothing is stated about a local government office's connection."
+}

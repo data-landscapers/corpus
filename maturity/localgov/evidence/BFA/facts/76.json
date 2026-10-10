@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-boc-bfa-001-bank-of-china-provides-7735-million",
+  "facts": [],
+  "systems": [
+    {"system": "National Telecommunications Backbone Project (PBNT), Phase 1", "country_label": "PBNT", "class": "backbone", "platform": "built by Huawei Technologies under a July 2014 contract", "owner": "Government of Burkina Faso", "tiers": "307 km of fibre from Ouagadougou to Pô, inaugurated 26 October 2021; the record ties it to ten municipalities and names no municipal office on it"}
+  ],
+  "note": "No fact: a loan record for a fibre backbone; the route is tied to ten municipalities, with a word missing in the record, and no commune's office is said to be connected."
+}

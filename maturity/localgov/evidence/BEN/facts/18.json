@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-16-guichet-unique-naissances-familles",
+  "facts": [],
+  "systems": [
+    {"system": "Guichet unique d'enregistrement des naissances", "country_label": "Guichet unique d'enregistrement des naissances", "class": "central", "platform": "tablets, centralised databases and identification platforms, unnamed", "owner": "Agence nationale d'identification des personnes (Anip), with the Wuri project and Unicef", "tiers": "ten pilot public hospitals since August 2025, staffed by Anip agents; not at the mairie"}
+  ],
+  "note": "The birth-registration counters are run by a national agency's own agents inside ten hospitals, so the remark that internet quality matters there is about a central service point; the mairie is named only as where parents used to go, and nothing is stated about its connection."
+}

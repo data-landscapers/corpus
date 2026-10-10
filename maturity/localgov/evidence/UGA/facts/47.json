@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-ucc-optical-fiber-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Government of Uganda optical fibre infrastructure", "country_label": "OFC infrastructure deployed by the Government of Uganda through NITA-U or other MDAs", "class": "backbone", "platform": "", "owner": "Government of Uganda, through NITA-U or other ministries, departments and agencies", "tiers": "national highways and routes; no local government office said to be on it"}
+  ],
+  "note": "A regulator's framework on how operators install and share optical fibre; city, municipal and district councils appear only as authorities that approve works on their roads. No connection of a local government office is stated. The capture is an excerpt, cut off in section 2.4.3."
+}

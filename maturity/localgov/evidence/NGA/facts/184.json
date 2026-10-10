@@ -1,0 +1,15 @@
+{
+  "slug": "2021-06-08-nga-enhancing-effective-policing-with-infrastructural-support-as-wapis-dat",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS",
+      "country_label": "West African Police Information System; WAPIS Centre (DACORE)",
+      "class": "central",
+      "platform": "WAPIS",
+      "owner": "Nigeria Police Force and Ministry of Police Affairs; ECOWAS programme funded by the EU and implemented by INTERPOL",
+      "tiers": "Centre at Force Headquarters, Abuja, inaugurated 26 May 2021; 20 workstations at sites of the police, immigration, NAPTIP and NDLEA"
+    }
+  ],
+  "note": "A police-affairs op-ed; local governments appear only in an appeal that they digitalise their systems and support police equipment. Nothing on local government offices or their connection."
+}

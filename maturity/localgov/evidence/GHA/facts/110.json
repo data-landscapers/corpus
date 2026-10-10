@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-gha-2022-statistical-report-death-registration",
+  "facts": [],
+  "systems": [
+    {"system": "Births and Deaths Registry electronic database of registered deaths", "country_label": "electronic database", "class": "central", "platform": "", "owner": "Births and Deaths Registry, IT unit at the national office", "tiers": "national office; completed paper Form 6 from 470 registries in 261 registration districts are scanned into it (2022)"}
+  ],
+  "note": "The Births and Deaths Registry's 2022 death statistics: its national, regional, district and registry offices are a national agency's own, and the report states no connection at any of them, only paper forms scanned into a database at the national office; local authorities appear in the address (NALAG House) and the ministry's name."
+}

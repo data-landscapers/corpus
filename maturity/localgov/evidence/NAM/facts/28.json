@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-23-namibia-expedites-data-centre-smart-city-development-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "National and Public Data Centre (proposed)", "country_label": "National and Public Data Centre", "class": "backbone", "platform": "", "owner": "Ministry of ICT and the Office of the Prime Minister, directed by Cabinet to finalise the concept note and project proposal", "tiers": "Proposed in September 2025; no local authority office said to be on it"},
+    {"system": "Smart city development, beginning with the City of Windhoek", "country_label": "smart city", "class": "city-systems", "platform": "", "owner": "Ministry of ICT and Ministry of Urban and Rural Development, directed by Cabinet to initiate a legal framework", "tiers": "City of Windhoek first; a legal framework only, September 2025"}
+  ],
+  "note": "Cabinet resolutions of September 2025 on a public data centre and a smart-city legal framework starting with Windhoek; nothing is stated about the connection of any local authority's office."
+}

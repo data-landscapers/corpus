@@ -1,0 +1,9 @@
+{
+  "slug": "2023-12-01-mtnima-politique-nationale-participation-electronique",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau Intranet Administratif haut Débit en fibre optique (RIAD)", "country_label": "RIAD", "class": "backbone", "platform": "", "owner": "", "tiers": "public administration; upgrade and extension planned under the Agenda numérique 2022-2025, interconnection of the administration to rise from 80 in 2020 to 192 in 2025"},
+    {"system": "Cloud privé National", "country_label": "Cloud privé National", "class": "backbone", "platform": "", "owner": "", "tiers": "planned for all public structures"}
+  ],
+  "note": "Draft e-participation policy; names the government intranet RIAD and a planned national cloud for public structures but puts no commune office on either. Its mentions of collectivités territoriales concern Morocco."
+}

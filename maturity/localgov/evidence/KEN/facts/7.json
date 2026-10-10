@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-21-ken-kenyans-ardhisasa-outage-land-services",
+  "facts": [],
+  "systems": [
+    {"system": "ArdhiSasa", "country_label": "ArdhiSasa", "class": "central", "platform": "", "owner": "national government (the platform itself issued the notice)", "tiers": "national online land-services platform for the public; outage announced 21 September 2026, after unavailability from 1 September 2026"},
+    {"system": "County digital land records and geospatial technologies (FAO and Council of Governors digital land governance programme)", "country_label": "", "class": "application", "platform": "", "owner": "county governments; supported by FAO with the Council of Governors", "tiers": "programme targets all 47 counties; uses named are revenue collection, physical planning and public administration"}
+  ],
+  "note": "An outage of the national land platform, and a programme for county digital land records; nothing on the connection of county offices."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Dakar surveillance and command centre", "country_label": "", "class": "city-systems", "platform": "vendors listed as Huawei, Thales, Engie Ineo, Hikvision", "owner": "national government, per the table's decision-making row; access given as police, defence and security forces and intelligence services", "tiers": "Dakar only: moderate CCTV deployment (100-999 cameras) with facial and licence plate recognition and an integrated command and control centre, as the compilation's table gives it; undated"},
+    {"system": "Dakar intelligent transport and transit systems", "country_label": "", "class": "city-systems", "platform": "", "owner": "CETUD and Dakar Mobilité among the entities listed", "tiers": "Dakar only: adaptive traffic signals, traffic monitoring, real-time transit information and integrated ticketing on the BRT and TER"},
+    {"system": "Diamniadio Lake City", "country_label": "Diamniadio Lake City", "class": "city-systems", "platform": "", "owner": "", "tiers": "named as a greenfield smart city development; not described"},
+    {"system": "E-Territoire programme", "country_label": "E-Territoire", "class": "", "platform": "", "owner": "", "tiers": "named in the Dakar column as a citizen participation mechanism; not described"}
+  ],
+  "note": "An analysis researched and written with an AI answer engine by its own introduction; its Dakar column covers city surveillance, transport and national e-government, and states nothing on the connection of any local government office."
+}

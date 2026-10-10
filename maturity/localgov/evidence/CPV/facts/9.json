@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-04-cabo-verde-praia-plataforma-municipal-toponimia-disponivel",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma Municipal de Toponímia", "country_label": "Plataforma Municipal de Toponímia", "class": "web", "platform": "", "owner": "Câmara Municipal da Praia, Direcção de Topografia, Cadastro e SIG", "tiers": "one municipality, Praia, the capital; launched October 2025 and available in the council's online shop by 2026-04-04, for residents to look up street names and building numbers"},
+    {"system": "loja online of the Câmara Municipal da Praia", "country_label": "loja online", "class": "web", "platform": "", "owner": "Câmara Municipal da Praia", "tiers": "one municipality, Praia"}
+  ],
+  "note": "An online lookup for residents of the capital (web class); the document does not state how the council's office is connected."
+}

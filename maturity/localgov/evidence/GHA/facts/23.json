@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-myjoyonline-bigdata-ghana-decision-problem",
+  "facts": [],
+  "systems": [
+    {"system": "Flood Intelligence Agent", "country_label": "Flood Intelligence Agent", "class": "application", "platform": "", "owner": "BigData Ghana Limited (in development)", "tiers": "government agencies, district assemblies and emergency services (intended users)"}
+  ],
+  "note": "A company lecture on geospatial systems; the one system aimed at district assemblies is in development, and nothing is stated about assembly offices' connection."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2019-05-01-angola-minjusdh-boletim-justica-direitos-humanos-edicao-12",
+  "facts": [],
+  "systems": [
+    {"system": "Guiché Único da Empresa Online", "country_label": "GUE Online (gue.gov.ao)", "class": "central", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "national online service, launched 25 March 2019"},
+    {"system": "SIRC", "country_label": "SIRC", "class": "central", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos (Direcção Nacional dos Registos e do Notariado)", "tiers": "the ministry's Lojas de Registo; broken down at Camama and Zango 4, Luanda"},
+    {"system": "PROMOREN", "country_label": "PROMOREN", "class": "central", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos (Direcção Nacional dos Registos e do Notariado)", "tiers": "the ministry's Lojas de Registo; broken down at Camama and Zango 4, Luanda"}
+  ],
+  "note": "A justice ministry bulletin of May 2019 on the ministry's own registry, notary and company-formation services; every system named is the ministry's, run in its own offices, and nothing is stated on a local government office's connection."
+}

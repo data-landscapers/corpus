@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-17-wb-civ-004-rapid-ci-padci-phase-1",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The deal record states that IDA lent Côte d'Ivoire 84,356,070,200 FCFA (US$150 million equivalent) under an agreement concluded on 17 October 2025 for phase 1 of PADCI / RAPID-CI, of which US$45 million is allocated to broadband for targeted public institutions, town halls and sub-prefectures being in the connectivity component's scope.", "as_of": "2025-10-17", "date_precision": "day", "system": "Digital Acceleration Project (PADCI / RAPID-CI) phase 1", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The deal record gives the implementing agency of PADCI / RAPID-CI phase 1 as the Ministry of Digital Transition and Digitalization, with the Republic of Côte d'Ivoire as borrower under the agreement of 17 October 2025.", "as_of": "2025-10-17", "date_precision": "day", "system": "Digital Acceleration Project (PADCI / RAPID-CI) phase 1", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The deal record states that PADCI / RAPID-CI phase 1 runs from 2025 to 2030 with a costed component of US$45 million for broadband to targeted public institutions, its connectivity scoped to schools, health centres, social centres, town halls, sub-prefectures, courts, post offices and regional directorates, and fenced to Abidjan, Yamoussoukro and twelve regions.", "as_of": "2025-10-17", "date_precision": "day", "system": "Digital Acceleration Project (PADCI / RAPID-CI) phase 1", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The loan agreement for PADCI / RAPID-CI phase 1, whose connectivity component covers town halls among other public facilities, was concluded between IDA and Côte d'Ivoire on 17 October 2025 and ratified by decree on 4 February 2026; the record states financing, not any connection made.", "as_of": "2025-10-17", "date_precision": "day", "system": "Digital Acceleration Project (PADCI / RAPID-CI) phase 1", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Digital Acceleration Project (PADCI / RAPID-CI) phase 1", "country_label": "PADCI; RAPID-CI (World Bank P180059)", "class": "connection", "platform": "", "owner": "Ministry of Digital Transition and Digitalization, financed by an IDA credit", "tiers": "Planned: public facilities including town halls and sub-prefectures, in Abidjan, Yamoussoukro and twelve regions; no count of town halls given"}
+  ],
+  "note": ""
+}

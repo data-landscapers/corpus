@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-17-mwi-social-registry-tool-ministry",
+  "facts": [],
+  "systems": [
+    {"system": "Malawi Social Registry", "country_label": "Malawi Social Registry (MSR)", "class": "application", "platform": "", "owner": "Poverty Reduction and Social Protection Division, Ministry of Finance, Economic Planning and Decentralisation; World Bank and GIZ support", "tiers": "national registry; on-demand registration and data integration to be piloted in Dowa and Balaka districts, with district-level implementation roles not described"}
+  ],
+  "note": "Kick-off workshop of 16 June 2026 for the two pilot districts: district roles are mentioned without saying what council offices do or how they are connected, so no fact."
+}

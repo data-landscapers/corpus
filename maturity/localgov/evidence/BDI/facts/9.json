@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-08-burundi-eco-carte-identite-biometrique-ambitions-defis",
+  "facts": [],
+  "systems": [
+    {"system": "digital platform for civil registration documents and production of the biometric national identity card", "country_label": "plateforme numérique destinée à la gestion des documents d'état civil et à la production de la future carte nationale d'identité biométrique", "class": "application", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security", "tiers": "pilot in about a dozen communes; extension planned nationally down to zone level"}
+  ],
+  "note": "The platform is an application, in pilot in about a dozen communes; a connection is only envisaged (telecom operators Lumitel and Onatel as partners, internet routers and solar power considered), with internet connectivity named as a constraint, so no connection of commune offices is stated."
+}

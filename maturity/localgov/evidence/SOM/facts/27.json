@@ -1,0 +1,9 @@
+{
+  "slug": "2022-11-01-who-are-you-legal-identity-housing-land-property-somalia",
+  "facts": [],
+  "systems": [
+    {"system": "Municipal identity cards and civil records", "country_label": "", "class": "application", "platform": "", "owner": "municipalities and the Banadir Regional Administration", "tiers": "identity cards and birth certificates issued by municipal offices in Baidoa and by regional and district offices in Mogadishu; Mogadishu municipality produces some birth, death and marriage records; a few other mayors' registration systems were 'localised and did not function well' (citing the World Bank, 2016); the report does not say whether any of it is computerised"},
+    {"system": "SCOPE", "country_label": "SCOPE", "class": "", "platform": "cloud-based web application", "owner": "World Food Programme", "tiers": "a humanitarian beneficiary register in use in Somalia since 2015, holding over 4 million individuals; not a government system"}
+  ],
+  "note": "A report on identity documents and land rights; municipalities and district offices appear as issuers of documents and allocators of land, with nothing stated about their offices' connection."
+}

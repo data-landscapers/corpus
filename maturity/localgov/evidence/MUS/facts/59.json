@@ -1,0 +1,9 @@
+{
+  "slug": "2006-10-01-business-registration-act",
+  "facts": [],
+  "systems": [
+    {"system": "CBRD", "country_label": "Central Business Registration Database (CBRD)", "class": "central", "platform": "", "owner": "Registrar of Businesses (the Registrar of Companies)", "tiers": "kept on computer at the Registrar's office; the Act gives every public sector agency, a list that includes a local authority, online access to registration particulars and has the Registrar share business information with them through it"},
+    {"system": "CBRIS", "country_label": "CBRIS", "class": "central", "platform": "", "owner": "Registrar of Businesses", "tiers": "the Registrar's electronic system for applications, notifications and fees; prescribed public sector agencies are to forward permits and licences to it electronically"}
+  ],
+  "note": "A statute: it entitles public sector agencies, local authorities among them, to online access to the business register, but states nothing about whether any local authority's office is connected or uses it. A law places nothing, so no fact is taken."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-09-irembo-scaling-adoption-civil-status-services",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Irembo reports that government officers processed civil status certificate applications through IremboGov at 3,047 applications per officer in 2024, against about 905 in 2020, and quotes the Permanent Secretary of the Ministry of Local Government that the platform has let local government officers handle three times the volume of applications.", "as_of": "2024", "date_precision": "year", "system": "IremboGov", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "IremboGov", "country_label": "IremboGov", "class": "application", "platform": "IremboGov, with a USSD app and IremboApp", "owner": "Irembo, working with the Ministry of Local Government", "tiers": "officers issuing civil status certificates for local governments; agents in all sectors; 248 services from nearly 40 institutions"}
+  ],
+  "note": ""
+}

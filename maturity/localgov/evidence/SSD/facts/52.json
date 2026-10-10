@@ -1,0 +1,11 @@
+{
+  "slug": "2024-06-07-south-sudan-eardip-implementation-support-mission",
+  "facts": [],
+  "systems": [
+    {"system": "EA-RDIP cross-border and backbone fibre network", "country_label": "Cross border and backbone network connectivity (Sub-component 1.1)", "class": "backbone", "platform": "", "owner": "Ministry of ICT and Postal Services, World Bank-financed (EA-RDIP, P176181)", "tiers": "Three priority fibre routes to Kenya and Sudan, not yet tendered in June 2024; tender expected 2025"},
+    {"system": "Government VPN and internet connection of MDAs", "country_label": "government VPN (virtual private network)", "class": "backbone", "platform": "", "owner": "Ministry of ICT and Postal Services", "tiers": "Ministries, departments and agencies; a needs assessment agreed in June 2024, nothing connected"},
+    {"system": "Connectivity of Ministries, Departments, Agencies and States", "country_label": "connectivity of MDAs and States", "class": "upper-tier", "platform": "", "owner": "Ministry of ICT and Postal Services", "tiers": "Named as unfinished work the ministry wants financed under a second-phase IDEA project; states, not counties"},
+    {"system": "Last mile connectivity, Market and Universal Access Gap Study", "country_label": "Last mile connectivity including in borderland areas (Sub-component 1.2)", "class": "backbone", "platform": "", "owner": "Ministry of ICT and Postal Services, World Bank-financed", "tiers": "A study to identify areas, communities and public institutions such as government offices, schools and health clinics without access; no local government office named"}
+  ],
+  "note": "An excerpt capture, cut off after Component 1. It names a backbone, a government VPN for ministries and connectivity of states, all at needs-assessment or pre-tender stage in June 2024; 'government offices' are to be surveyed for access, and no county or other local government office is named as connected or as a target."
+}

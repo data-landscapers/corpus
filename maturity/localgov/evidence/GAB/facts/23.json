@@ -1,0 +1,23 @@
+{
+  "slug": "2025-12-18-communique-conseil-ministres-18-decembre-2025-dgdinc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Réseau rénové de l'administration",
+      "country_label": "réseau rénové de l'administration",
+      "class": "backbone",
+      "platform": "",
+      "owner": "The State; no operator named in this document",
+      "tiers": "The President's orientation of 18 December 2025: the digital transformation of the administration 'must also integrate local authorities and connect university centres' to the renovated administration network; no local government office is said to be on it"
+    },
+    {
+      "system": "Madigipaie",
+      "country_label": "MADIGIPAIE",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Économie Numérique, de la Digitalisation et de l'Innovation",
+      "tiers": "Named as one of three programmes made operational (with Écoles connectées and Wi-Fi on the SETRAG train); not described"
+    }
+  ],
+  "note": "Council of Ministers communiqué of 18 December 2025. One sentence bears on the study: the President said the digitalisation of the administration must also integrate local authorities and connect university centres to the renovated administration network. It is an instruction, names no local government office as connected and no programme, plan or budget for connecting them, so no fact is taken; the parent may want it as context for governance. The Taxe forfaitaire d'habitation and a land parcel in the commune of Mouila are the other local mentions."
+}

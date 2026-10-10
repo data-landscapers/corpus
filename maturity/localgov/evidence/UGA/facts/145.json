@@ -1,0 +1,13 @@
+{
+  "slug": "2022-08-05-ict-ministry-fy2021-22-q4-report",
+  "facts": [],
+  "systems": [
+    {"system": "Parish Development Model Information System (PDMIS)", "country_label": "PDMIS / PDM MIS", "class": "application", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "launched in Bukedea North and rolled out to all parishes; data collection at parish level under way countrywide, FY 2021/22"},
+    {"system": "National Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)", "country_label": "NBI/EGI", "class": "backbone", "platform": "", "owner": "", "tiers": "usage evaluated and extension planning guidance given for the districts of Lamwo, Nwoya, Zombo, Amoru, Nakapiripirit, Ngora, Nabilatuk and Kikuube; no local government office said to be on it"},
+    {"system": "ICT policies, operations manuals and ICT units of MDAs and local governments", "country_label": "Institutionalization of ICT Functions in MDAs/LGs; LG eStrategy", "class": "capacity", "platform": "", "owner": "Ministry of ICT and National Guidance, with the Ministry of Local Government for the LG eStrategy", "tiers": "technical support to 10 Local Government Administrations on e-Government systems and to 4 on ICT operations manuals and internal policies; 6 MDAs and LGs with functional ICT units against 8 planned"},
+    {"system": "e-Government systems in local government administrations", "country_label": "e-Government Systems", "class": "application", "platform": "", "owner": "", "tiers": "10 Local Government Administrations given technical support in implementation; e-service monitoring in Masaka city, Lyantonde Local Government and Mbarara City"},
+    {"system": "Postal centres piloting e-Government services", "country_label": "e-service access centers", "class": "public-access", "platform": "", "owner": "", "tiers": "pilots monitored in Mukono, Jinja, Tororo, Busia, Mbale and Soroti"},
+    {"system": "Satellite broadband proof of concept", "country_label": "", "class": "public-access", "platform": "satellite", "owner": "Ministry of ICT and National Guidance", "tiers": "rural areas of Bufundi in Rubanda and Kibuku in Ntoroko; feasibility evaluated"}
+  ],
+  "note": "A budget performance report, captured as an excerpt (to page 35 of 91). It names support to local governments on systems, ICT policies and content storage surveys, and NBI extension planning for eight districts, but does not state that any local government office is connected."
+}

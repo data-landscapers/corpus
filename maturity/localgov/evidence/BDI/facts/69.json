@@ -1,0 +1,15 @@
+{
+  "slug": "2022-05-31-world-bank-burundi-digital-foundations-project-pad",
+  "facts": [],
+  "systems": [
+    {
+      "system": "COMGOV",
+      "country_label": "Communication Gouvernementale (COMGOV)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "Government network serving ministries, departments and agencies; the project plans technical assistance to optimise, upgrade and expand it and to upgrade its network operations centre into a larger, secure, dedicated government network; no commune or other local government office is said to be on it"
+    }
+  ],
+  "note": "Passages only. The government network COMGOV is a backbone-class system with no local government office placed on it, so it gives no fact; local government appears otherwise only as a partner for the project's outreach and communication activities, and communes as places targeted by rural coverage, device and digital literacy schemes. A footnote counts 116 rural communes out of 119."
+}

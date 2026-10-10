@@ -1,0 +1,15 @@
+{
+  "slug": "2023-05-22-avant-projet-loi-acces-information-publique-transformation-numerique-administration",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cameroun.data.gouv.cm",
+      "country_label": "plateforme de données ouvertes",
+      "class": "central",
+      "platform": "",
+      "owner": "The agency the draft law provides for",
+      "tiers": "National; to hold the public information of the state and, if they wish, of the collectivités territoriales"
+    }
+  ],
+  "note": "Passages of a 2023 draft law on access to public information and digital transformation of the administration: local authorities appear in a definition and as optional contributors to a proposed open-data platform; a draft law places nothing and no office connection is stated."
+}

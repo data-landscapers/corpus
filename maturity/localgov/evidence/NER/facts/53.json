@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-12-niger-tahoua-campagne-identite-legale-rnp",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National d'Etat Civil (RNEC)", "country_label": "Registre National d'Etat Civil (RNEC), with the 'informatisation des communes pour l'etat civil'", "class": "application", "platform": "", "owner": "Ministere de l'Interieur, de la Securite Publique et de l'Administration du Territoire, with the WURI project", "tiers": "communes, listed on 11 August 2026 among reforms under way, with no count"},
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP)", "class": "", "platform": "", "owner": "the future ANEI", "tiers": "to start in Niamey, with national extension from 2027"}
+  ],
+  "note": "The ministry's own report of the campaign launched at Tahoua on 11 August 2026 lists the computerisation of communes for civil registration among accompanying reforms; no commune office's connection is stated, so no fact for the connection class."
+}

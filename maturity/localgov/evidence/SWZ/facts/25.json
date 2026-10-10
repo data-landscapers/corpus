@@ -1,0 +1,47 @@
+{
+  "slug": "2024-02-26-budget-speech-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital Hubs at Tinkhundla Centres",
+      "country_label": "Digital Hubs at Tinkhundla Centers",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Eswatini (announced under the ICT heading of the budget speech)",
+      "tiers": "Tinkhundla centres; a programme being embarked on in February 2024, no number given"
+    },
+    {
+      "system": "Electronic Government Procurement System",
+      "country_label": "Electronic Government Procurement System",
+      "class": "application",
+      "platform": "to be integrated with the IFMIS",
+      "owner": "Ministry of Finance",
+      "tiers": "to be used by central government, public enterprises and local governments; to be introduced in financial year 2024/25"
+    },
+    {
+      "system": "Integrated Financial Management and Information System (IFMIS)",
+      "country_label": "IFMIS",
+      "class": "central",
+      "platform": "developed with the Ministry of ICT through RSTP",
+      "owner": "Ministry of Finance",
+      "tiers": "central ministries and offices; development beginning financial year 2024/25"
+    },
+    {
+      "system": "Electronic Case Management System",
+      "country_label": "Electronic Case Management System",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of Justice and Constitutional Affairs, with Correctional Services and the Royal Eswatini Police Service",
+      "tiers": "central; launch planned for end of March 2024"
+    },
+    {
+      "system": "Optic fibre replacing copper cables",
+      "country_label": "optic fibre in replacement of copper cables",
+      "class": "backbone",
+      "platform": "fibre",
+      "owner": "Government of Eswatini",
+      "tiers": "national; no local government office named"
+    }
+  ],
+  "note": "The Minister for Finance's budget speech of 26 February 2024. It announces Digital Hubs at Tinkhundla centres without saying what a hub is or does, and an e-procurement system that local governments are to use from 2024/25, neither stated as live; it also reports four Tinkhundla offices under reconstruction and E440 million for the Tinkhundla ministry. It states nothing on any local government office's connection, so no fact."
+}

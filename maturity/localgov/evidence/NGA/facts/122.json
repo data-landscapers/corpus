@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-10 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD",
+  "facts": [],
+  "systems": [
+    {"system": "Subnational tax administration systems (Electronic Tax System, Central Billing Systems, State Identity Management systems)", "country_label": "e-Tax; Central Billing System; State Identity Management system", "class": "upper-tier", "platform": "", "owner": "state tax administrations", "tiers": "states; only two reached high digital maturity and most are moderate, on the Nigeria Governors' Forum reports launched 30 June to 1 July 2025"}
+  ],
+  "note": "A blog on digital infrastructure for tax administration; its 'subnational' is the states and their revenue systems. Nothing on local government offices or their connection."
+}

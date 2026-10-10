@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-29-tcd-lendjampost-ndjamena-facture-electronique-normalisee-fournisseurs",
+  "facts": [],
+  "systems": [
+    {"system": "Facture électronique normalisée (FEN) platform", "country_label": "plateforme dédiée à la FEN", "class": "central", "platform": "", "owner": "Direction générale des impôts, finance ministry (circular 065 of 2026-09-10)", "tiers": "suppliers of the Commune of N'Djamena open accounts and issue invoices on it; the commune may refuse non-compliant invoices at liquidation and payment"}
+  ],
+  "note": "The N'Djamena commune's notice of 2026-09-29 requires suppliers to invoice through the national e-invoice platform; it states nothing about the commune office's own connection."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-08-comores-code-electoral-2023",
+  "facts": [],
+  "systems": [
+    {"system": "fichier électoral", "country_label": "fichier électoral", "class": "central", "platform": "", "owner": "Centre National de Traitement des Données Electorales (CNTDE), ministry in charge of elections, supervised by the CENI", "tiers": "national; computerised and centralised by law, one list per polling station"}
+  ],
+  "note": "The electoral code, articles 1-13: communes are named only as bodies whose elections it governs; the voter file is a central ministry system; a law, and nothing on communes' connection."
+}

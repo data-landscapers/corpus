@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-24-budget-2026-zero-cash-zero-papier-fen",
+  "facts": [],
+  "systems": [
+    {"system": "Système intégré de gestion des finances publiques (SIGFIP)", "country_label": "SIGFIP", "class": "central", "platform": "", "owner": "the state (finance administration)", "tiers": "the state's whole expenditure chain from the 2026 budget year; no local government tier stated"},
+    {"system": "Facturation électronique normalisée (FEN)", "country_label": "FEN", "class": "central", "platform": "", "owner": "tax administration", "tiers": "national"},
+    {"system": "Sydonia", "country_label": "Sydonia (douanes)", "class": "central", "platform": "", "owner": "customs", "tiers": "national"},
+    {"system": "e-tax", "country_label": "e-tax (impôts)", "class": "central", "platform": "", "owner": "tax administration", "tiers": "national"}
+  ],
+  "note": "On the state's own expenditure chain moving into SIGFIP in 2026; it names limited electricity and uneven internet coverage as general obstacles but says nothing of local governments' offices or their connection."
+}

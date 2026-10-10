@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-sierra-leone-national-data-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "Tier 3 Government Data Centre", "country_label": "Tier 3 Government Data Centre", "class": "backbone", "platform": "", "owner": "Ministry of Information and Communications", "tiers": "national; a long-term (3-5 years) action to build it, no local government office named"}
+  ],
+  "note": "A national data strategy of January 2023: local government appears only as a place where data should be collected at source; it states nothing on the connection of any local council office."
+}

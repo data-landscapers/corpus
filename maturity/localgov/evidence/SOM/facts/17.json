@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-02-dial-african-countries-foundational-dpi",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "GovNet", "class": "backbone", "platform": "open source, product not named", "owner": "", "tiers": "described as an inter-agency exchange among 15 ministries; no local government office named"},
+    {"system": "High School Certificate System", "country_label": "High School Certificate System", "class": "central", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "A write-up of a peer-learning session; its one line on Somalia names GovNet as an exchange among 15 ministries, with no local government office said to be on it."
+}

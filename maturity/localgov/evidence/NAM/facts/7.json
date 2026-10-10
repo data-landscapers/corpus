@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-24-neweralive-namibia-project-control-system",
+  "facts": [],
+  "systems": [
+    {"system": "Project Control System", "country_label": "Project Control System", "class": "central", "platform": "Integrated project platform with dashboards, spatial mapping and mobile reporting, costing N$13 million", "owner": "Roads Authority, under the Ministry of Works and Transport", "tiers": "Roads Authority; summarised project information to be opened to ministries, state-owned enterprises, regional and local authorities, contractors and consultants once data population is complete"}
+  ],
+  "note": "A national agency's road-project system; local authorities are named only as future authorised viewers of its reports, and nothing is stated about the connection of their offices."
+}

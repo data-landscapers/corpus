@@ -1,0 +1,82 @@
+{
+  "slug": "2019-05-01-tza-health-information-system-guidelines",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Ministry of Health's guidelines of May 2019 state that health data from most facilities is collected on paper and sent to the councils, where Council Health Management Teams enter it into the web-based DHIS; their annex adds that councils report to the Medical Stores Department through eLMIS and send financial data to national level via Epicor. They give no count of councils and do not say how the council offices are connected.",
+      "as_of": "2019-05",
+      "date_precision": "month",
+      "system": "Council-level entry into DHIS, eLMIS and Epicor",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS 2",
+      "country_label": "MTUHA (HMIS) in DHIS",
+      "class": "application",
+      "platform": "DHIS 2, web-based",
+      "owner": "Ministry of Health, Community Development, Gender, Elderly and Children (Directorate of Policy and Planning)",
+      "tiers": "Entered at some health facilities, otherwise at council level; regions and national level validate"
+    },
+    {
+      "system": "Electronic Logistic Management Information System (eLMIS)",
+      "country_label": "eLMIS",
+      "class": "application",
+      "platform": "separate electronic system",
+      "owner": "Medical Stores Department",
+      "tiers": "Facilities report to councils on forms; councils report to MSD through eLMIS"
+    },
+    {
+      "system": "Epicor",
+      "country_label": "Epicor (financial data)",
+      "class": "application",
+      "platform": "Epicor",
+      "owner": "PO-RALG and MoHCDGEC",
+      "tiers": "Health facility to council, council to national"
+    },
+    {
+      "system": "GoT-HOMIS",
+      "country_label": "Government of Tanzania Hospital Management Information System",
+      "class": "application",
+      "platform": "",
+      "owner": "PO-RALG, with MoHCDGEC",
+      "tiers": "Hospital-based; roll-out begun in facilities managed by local government authorities"
+    },
+    {
+      "system": "Human Resources for Health Information System (HRHIS)",
+      "country_label": "HRHIS",
+      "class": "application",
+      "platform": "",
+      "owner": "MoHCDGEC, Directorate of Human Resource Development",
+      "tiers": "Facilities report to councils, councils to regions, regions to national"
+    },
+    {
+      "system": "eIDSR",
+      "country_label": "Electronic Integrated Disease Surveillance and Response",
+      "class": "application",
+      "platform": "mobile phones and a page in DHIS",
+      "owner": "MoHCDGEC, Epidemiology Section",
+      "tiers": "Facilities to council, regional and national level"
+    },
+    {
+      "system": "Health Facility Registry (HFR)",
+      "country_label": "HFR",
+      "class": "application",
+      "platform": "paper and electronic",
+      "owner": "MoHCDGEC",
+      "tiers": "District level to national level"
+    },
+    {
+      "system": "Village Registration System",
+      "country_label": "Village Registration System",
+      "class": "",
+      "platform": "",
+      "owner": "Prime Minister's Office",
+      "tiers": "Hamlet chairperson reports to village executive officer"
+    }
+  ],
+  "note": "The one fact rests on council teams entering data in a national web-based system; no council office connection is described. The guidelines' rules that councils 'shall have' internet access and sufficient computers (7.3.3, 7.3.11) are requirements, not statements of what exists, and their gap statements (facilities mostly lack computers) concern health facilities."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-01-mwi-nrb-strategic-plan-2025-2030",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration Bureau district offices on the Government Wide Area Network", "country_label": "District Registration Offices (DROs)", "class": "central", "platform": "National Registration and Identification System (NRIS)", "owner": "National Registration Bureau, a department of the Ministry of Homeland Security", "tiers": "all 28 district NRB offices online via the Government Wide Area Network by 2020, sending data in real time to the central database; the offices are the Bureau's, supervised by the District Commissioner as District Registrar"},
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "Government Wide Area Network (GWAN)", "class": "backbone", "platform": "", "owner": "Government of Malawi", "tiers": "reached the National Registration Bureau's offices in all 28 districts by 2020; no council office is said to be on it"}
+  ],
+  "note": "The plan says all 28 district offices of the National Registration Bureau were online on the government network by 2020. These are a national agency's field offices, class central, so no fact is recorded; local authorities appear only as intermediaries for community awareness and reporting."
+}

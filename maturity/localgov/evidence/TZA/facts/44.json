@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-01-nbs-education-literacy-monograph",
+  "facts": [],
+  "systems": [
+    {"system": "Tanzania Education Management Information System (EMIS)", "country_label": "EMIS", "class": "application", "platform": "electronically designed questionnaire", "owner": "Ministry of Education, Science and Technology, with Local Government Authorities and development partners", "tiers": "data collected mostly at school level, in all parts of the country"}
+  ],
+  "note": "Passages only. Local Government Authorities are named as partners in the education information system, whose data are collected at schools; nothing is said of council offices or their connection."
+}

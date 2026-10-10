@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-22-tunisie-circulaire-16-cloud-computing-structures-publiques",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National and sectoral government cloud centres (G-Cloud)",
+      "country_label": "مراكز الحوسبة السحابية الحكومية الوطنية أو القطاعية",
+      "class": "backbone",
+      "platform": "",
+      "owner": "The state; providers labelled G-Cloud or N-Cloud under the Communication Technologies minister's order of 13 September 2023",
+      "tiers": "Public structures generally; heads of local collectivities are among the circular's addressees"
+    }
+  ],
+  "note": "The Head of Government's Cloud First circular of 22 July 2024 is addressed to heads of local collectivities among others, but is a rule on hosting and states nothing about any local government office's connection."
+}

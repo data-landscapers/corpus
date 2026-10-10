@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-19-decreto-presidencial-31-26-alvara-unico-restauracao-codigo-qr",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão do Turismo (SIGTUR)", "country_label": "SIGTUR", "class": "application", "platform": "", "owner": "ministerial department responsible for tourism", "tiers": "the electronic platform for prior notice of restaurants to the licensing entity, which for second- and third-class restaurants, caterers and similar establishments is the municipal administration; a paper form remains an alternative, and the single licence is validated by QR code"}
+  ],
+  "note": "A decree of 19 February 2026 on restaurant licensing; a law places nothing, and it says nothing of the municipal offices' connection. The capture is truncated at the fetch limit."
+}

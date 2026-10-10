@@ -1,0 +1,15 @@
+{
+  "slug": "2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'enregistrement des faits d'état civil",
+      "country_label": "système national de l'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "BUNEC supervises; mayors and their deputies are the civil registration officers",
+      "tiers": "2,875 civil registration centres: 419 principal centres in communes, communautés urbaines and consular posts, and 2,455 secondary centres; data collection is manual and on paper, and three centres in five function, as of August 2023"
+    }
+  ],
+  "note": "Passages of the statistics institute's August 2023 report on civil registration statistics: it describes civil registration in the communes as collected by hand on paper and recommends computerised systems; that is the state of an application, and nothing is stated about whether a commune office has a connection."
+}

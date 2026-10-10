@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-19-national-addressing-project-algeria-dzwatch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Addressing Reference Project",
+      "country_label": "National Addressing Reference Project (RNA)",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of Interior, Local Communities and Urban Planning, through the National Addressing Committee, with the Algerian Space Agency",
+      "tiers": "municipalities, through provincial and municipal technical cells; an experimental phase in Oran province (over 311,000 addresses) and a first phase of 664 million dinars across four pilot provinces including Ouargla"
+    }
+  ],
+  "note": "Workshops in Ouargla, June 2025, on municipal addressing plans and digitised address databases. An application the municipalities contribute to; the article states nothing about a data connection at municipal offices or about staff working online in it."
+}

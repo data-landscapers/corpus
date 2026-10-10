@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-botswana-social-protection-programs-and-systems-review",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "pilot", "fact": "The World Bank says the local government ministry (MLGRD) implemented Phase I of the Single Social Registry pilot in four districts (Gaborone, Kweneng, Kgatleng and South East) during 2019-2020; it does not name the offices or their connection.", "as_of": "2020", "date_precision": "year", "system": "Single Social Registry (SSR)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:6", "fact": "The World Bank says that by May 2021 MLGRD had uploaded beneficiary data to the social registry in six districts in total, with all districts aimed for by the end of 2021; no total of districts is given.", "as_of": "2021-05", "date_precision": "month", "system": "Single Social Registry (SSR)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The World Bank says district officials upload beneficiary data to the national social registry every month to keep it up to date, as at May 2021; it says 'district officials' and does not state that they work at council offices or over what connection.", "as_of": "2021-05", "date_precision": "month", "system": "Single Social Registry (SSR)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Single Social Registry (SSR)", "country_label": "Single Social Registry (SSR)", "class": "application", "platform": "", "owner": "Ministry of Local Government and Rural Development (MLGRD)", "tiers": "four pilot districts in 2019-2020 (Gaborone, Kweneng, Kgatleng, South East); six districts by May 2021; data uploaded monthly by district officials"},
+    {"system": "proxy means test (PMT) electronic tool", "country_label": "proxy means test (PMT)", "class": "application", "platform": "programmed into the social registry software; intake possible on mobile gadgets", "owner": "Ministry of Local Government and Rural Development (MLGRD)", "tiers": "piloted in 2016 with social workers; not yet implemented"},
+    {"system": "Ipelegeng MIS", "country_label": "generic MIS customised for Ipelegeng", "class": "application", "platform": "generic programme MIS", "owner": "Ministry of Local Government and Rural Development (MLGRD)", "tiers": "developed, not yet implemented"},
+    {"system": "OMANG", "country_label": "OMANG national ID system", "class": "central", "platform": "", "owner": "", "tiers": "national; linked to the social registry for validation"}
+  ],
+  "note": "The three facts rest on the working-online test: district officials entering data monthly in a national registry. The document is an excerpt and never says the officials are council staff, that they work at council offices, or how the offices are connected; the parent should weigh that."
+}

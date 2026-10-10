@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-31-aps-fidak-mfb-digitalisation-sentaxe",
+  "facts": [],
+  "systems": [
+    {"system": "SENTAXE", "country_label": "application intégrée SENTAXE", "class": "central", "platform": "", "owner": "Direction générale des Impôts et des Domaines (DGID)", "tiers": "national tax administration; under development"},
+    {"system": "Cadastre de régularisation foncière and communal land offices (PROCASEF)", "country_label": "cadastre de régularisation foncière; bureaux fonciers communaux", "class": "application", "platform": "", "owner": "DGID / Ministère des Finances et du Budget", "tiers": "136 communes"},
+    {"system": "e-NICAD", "country_label": "e-NICAD (numéro d'identification cadastrale)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A finance ministry panel on tax and land digitalisation; land registration in 136 communes and communal land offices are named, with nothing on a connection at the commune's office."
+}

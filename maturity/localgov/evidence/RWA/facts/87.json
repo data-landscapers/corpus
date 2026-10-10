@@ -1,0 +1,23 @@
+{
+  "slug": "2025-08-30-rwanda-loda-vup-digital-payments",
+  "facts": [],
+  "systems": [
+    {
+      "system": "VUP Digital Payment",
+      "country_label": "VUP Digital Payment; 'My Phone, My Money' campaign; USSD *541#",
+      "class": "application",
+      "platform": "mobile money through MTN and Airtel, linked to Umurenge SACCO accounts",
+      "owner": "Local Administrative Entities Development Agency (LODA), with GIZ Rwanda, RISA, mobile operators, SACCOs and local government entities",
+      "tiers": "social transfer recipients; campaign began 19 August 2025 in Burera, Nyamagabe and Rusizi districts and was launched in Mutete Sector, Gicumbi District, on 30 August 2025"
+    },
+    {
+      "system": "Umurenge SACCO digitisation",
+      "country_label": "Umurenge SACCOs digitized; District SACCOs",
+      "class": "",
+      "platform": "",
+      "owner": "savings and credit cooperatives",
+      "tiers": "all Umurenge SACCOs digitized; consolidated into District SACCOs in 10 districts"
+    }
+  ],
+  "note": "A LODA news item on paying social transfers to recipients' phones; local government entities are named as campaign partners, and nothing is stated about the connection of their offices."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2022-12-01-hisp-wca-dhis2-emis-togo",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 EMIS interoperating with StatEduc", "country_label": "StatEduc / DHIS2 EMIS", "class": "central", "platform": "DHIS2; StatEduc", "owner": "Ministry of Primary, Secondary, Technical and Handicraft Education (MEPSTA), developed by HISP West and Central Africa with GPE KIX and Norad", "tiers": "schools' paper forms entered at education inspectorates, then regional and central levels; under ministry review at 1 December 2022"}
+  ],
+  "note": "DHIS2 article on the education ministry's information system; its sub-national level is the ministry's inspectorates and regions, not local governments, so it gives no fact on a local government office's connection."
+}

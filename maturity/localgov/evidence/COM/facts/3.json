@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "paper-based état civil registers", "country_label": "état civil", "class": "application", "platform": "paper registers and forms", "owner": "", "tiers": "registry offices in prefectures and communes, many rural"}
+  ],
+  "note": "States that prefecture and commune registry offices record births on paper and that a 2026 digitisation plan (Amecc) is not deployed; that is civil registration, class application, and nothing is said of the offices' connection."
+}

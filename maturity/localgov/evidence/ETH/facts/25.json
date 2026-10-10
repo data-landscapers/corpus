@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-15-edas-for-three-cities",
+  "facts": [],
+  "systems": [
+    {"system": "digital addressing system (eDAS)", "country_label": "eDAS", "class": "application", "platform": "", "owner": "Space Science and Geospatial Institute (SSGI)", "tiers": "city administrations: said to be practically implemented in 73 cities; agreement signed 13 December 2025 to begin in Arba Minch, Jinka and Wolayita Sodo with the South Ethiopia Regional Land Administration Bureau and Arba Minch University"}
+  ],
+  "note": "The document reports an agreement to prepare a digital addressing system in three city administrations; it describes the system's purpose (addresses linked to Fayda and postal delivery), not how the city offices are connected or whether they work in it online."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-27-arct-rapport-indicateurs-tic-burundi-edition-2024",
+  "facts": [],
+  "systems": [
+    {"system": "BBS fibre optic network", "country_label": "BBS", "class": "backbone", "platform": "fibre optic, 1,750 km", "owner": "BBS (Burundi Backbone System)", "tiers": "all provinces, as at 31 December 2024"},
+    {"system": "ONATEL metropolitan network (MAN)", "country_label": "Réseau Métropolitain de l'ONATEL (MAN)", "class": "backbone", "platform": "fibre optic, 350 km", "owner": "ONATEL", "tiers": "Mairie de Bujumbura, as at 31 December 2024"},
+    {"system": "VIETTEL Burundi fibre optic network", "country_label": "VIETTEL", "class": "backbone", "platform": "fibre optic, 3,400 km", "owner": "VIETTEL Burundi", "tiers": "all provinces, as at 31 December 2024"}
+  ],
+  "note": "The regulator's sector statistics: fibre and mobile coverage of the territory, with no local government office said to be on any network."
+}

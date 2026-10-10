@@ -1,0 +1,12 @@
+{
+  "slug": "2024-02-29-dza-etat-civil-acte-de-naissance-acte-de-mariage-acte-de-deces-livret-de-f",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The interior ministry's civil-status service page states that birth, marriage and death acts and the family civil-status sheet are issued at any commune or administrative annex across the national territory, whatever the commune of registration, the sheet immediately, and that a data-entry error is corrected by the civil registrar; it names no system or network (no date given, the page's published date is used).", "as_of": "2024-02-29", "date_precision": "day", "system": "Délivrance des actes d'état civil auprès de toutes les communes", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The interior ministry says civil-status acts are issued at 'all communes or administrative annexes' nationwide, without giving a count of communes or a figure for those connected (no date given, the page's published date is used).", "as_of": "2024-02-29", "date_precision": "day", "system": "Délivrance des actes d'état civil auprès de toutes les communes", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Délivrance des actes d'état civil auprès de toutes les communes", "country_label": "Etat civil", "class": "connection", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités locales et des Transports", "tiers": "All communes and their administrative annexes; for acts of events abroad, all communes of Algiers wilaya and the chef-lieu communes of the other wilayas"},
+    {"system": "Guichet des prestations (prestations.interieur.gov.dz/guichet)", "country_label": "guichet", "class": "web", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités locales et des Transports", "tiers": "Online to residents: marriage appointments and requests to correct data-entry errors; acts are also delivered 'via internet'"}
+  ],
+  "note": "The page states where acts are issued, not how commune offices are connected; the systems reading rests on any commune issuing any act. The ministry's 'all communes' comes with no count, so authorities is recorded as not-published."
+}

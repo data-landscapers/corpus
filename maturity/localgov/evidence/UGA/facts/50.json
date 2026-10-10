@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-31-uga-oag-pdm-thematic-report",
+  "facts": [],
+  "systems": [
+    {"system": "PDMIS", "country_label": "Parish Development Management Information System (also Parish-Based Management Information System, PBIS)", "class": "application", "platform": "", "owner": "Ministry of Local Government sets up and coordinates it; Ministry of ICT and National Guidance funded under PDM", "tiers": "parishes, PDM SACCOs and Local Governments; loan records are to be updated in it"},
+    {"system": "PDM tablets", "country_label": "Tablets dispatched to all districts for PDM", "class": "equipment", "platform": "", "owner": "supplied by UBOS to the Ministry of ICT and National Guidance, distributed through the Ministry of Local Government", "tiers": "24,247 tablets (24,250 by the Treasury circular) sent to districts in December 2024 for Parish Chiefs, PDM SACCO executives, Community Development Officers, District Statisticians, District ICT Officers and OWC coordinators"},
+    {"system": "WENDI", "country_label": "Wendi, digital payment platform used by Government banks", "class": "", "platform": "", "owner": "Government banks (Post Bank named)", "tiers": "PDM SACCOs and beneficiaries through agents; 5,373 parishes in 121 LGs had no agent"}
+  ],
+  "note": "An audit of the Parish Development Model in 176 Local Governments and KCCA: it states tablets handed over and a parish information system, and nothing on the connection of any local government office. The passages are mostly appendix tables listed by local government."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-23-rtia-tech-driven-aarto-rollout",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Road Traffic Infringement Agency's spokesperson says the technology upgrades behind the AARTO rollout include integrating municipalities with the national Electronic National Administration Traffic Information System; phase two reached 62 municipalities in July 2026 and phase three is to add another 151, and the article does not say how many of them are integrated or that the work is done at municipal offices.", "as_of": "2026-07", "date_precision": "month", "system": "Electronic National Administration Traffic Information System", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "AARTO entered its second phase in July 2026, expanding to 62 municipalities, with the Road Traffic Infringement Agency naming the integration of municipalities with the national traffic information system among the upgrades made for it; SALGA had argued in court that municipalities were not ready and its application was struck from the roll.", "as_of": "2026-07", "date_precision": "month", "system": "Electronic National Administration Traffic Information System", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Electronic National Administration Traffic Information System", "country_label": "Electronic National Administration Traffic Information System", "class": "central", "platform": "", "owner": "", "tiers": "national; municipalities being integrated with it for AARTO"},
+    {"system": "National Contravention Register", "country_label": "National Contravention Register", "class": "central", "platform": "", "owner": "Road Traffic Infringement Agency", "tiers": "national central database of infringements"},
+    {"system": "e-Reg", "country_label": "e-Reg platform", "class": "central", "platform": "", "owner": "South African Post Office", "tiers": "national electronic delivery of infringement notices"}
+  ],
+  "note": "The connection is inferred from municipalities being integrated with a national system; no office connection is described, and the 62 is the count of municipalities in AARTO phase two, not a stated count connected."
+}

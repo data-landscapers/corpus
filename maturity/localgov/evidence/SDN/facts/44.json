@@ -1,0 +1,10 @@
+{
+  "slug": "2016-05-02-sudan-nic-wsis-forum-2016-egov-presentation",
+  "facts": [],
+  "systems": [
+    {"system": "National Information Network", "country_label": "the national network; a private government network", "class": "backbone", "platform": "copper links from 2001 (Frame Relay, ADSL, SHDSL from 2005), fibre optic from 2009; email, VoIP and video-conference services", "owner": "National Information Center (NIC), Ministry of Communication and Information Technology", "tiers": "35 federal ministries and 15 government secretariats linked in 2001; video-conference between the Council of Ministers and the states; described as linking all state facilities and all governmental institutions, with no local government office named"},
+    {"system": "National Data Center", "country_label": "National DataCenter", "class": "backbone", "platform": "", "owner": "National Information Center (NIC)", "tiers": "launched 2010; hosts applications and databases of government institutions; links to Electronic Banking Services, Civil Registration and Higher Education"},
+    {"system": "National Internet Exchange Point", "country_label": "National internet exchange point", "class": "backbone", "platform": "", "owner": "National Information Center (NIC)", "tiers": "national"}
+  ],
+  "note": "The NIC's own 2016 deck describes the government network at federal ministries, government secretariats and, for video-conference, the states; it puts no locality or other local government office on it, so the network is backbone and gives no fact. Its national e-services (the eGov portal, SADAD payments, E15 fee collection) are central government applications outside the study's classes."
+}

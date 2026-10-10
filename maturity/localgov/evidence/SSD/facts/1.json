@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-ssd-radiotamazuj-oped-china-ai-path-digital-divide",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services", "tiers": "national; no local government office said to be on it"}
+  ],
+  "note": "Opinion piece proposing an AI policy; its local-government mentions are of Chinese agencies, and it states nothing about the connection of any South Sudanese local government office."
+}

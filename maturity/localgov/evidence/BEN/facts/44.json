@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-adca-economic-report-data-centres-in-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Sèmè City-linked data centre facilities", "country_label": "Benin's Sèmè City-linked facilities", "class": "backbone", "platform": "", "owner": "government-sponsored, as the report puts it, with mixed public, DFI, export-credit and technology-partner funding stated for the group of countries it lists", "tiers": "national; no local government office is said to use them"}
+  ],
+  "note": "The one passage naming Benin lists its Sèmè City-linked facilities among government-sponsored national data centres; nothing is stated about local governments."
+}

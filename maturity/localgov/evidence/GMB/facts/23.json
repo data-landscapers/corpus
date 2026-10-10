@@ -1,0 +1,46 @@
+{
+  "slug": "2024-02-01-mofea-2023-public-finance-management-annual-progress-report",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The finance ministry's permanent secretary reports that in 2023 the reform of Local Government Authorities' public finance management continued to strengthen their capacity, notably through the institutionalisation of IFMIS and programme-based budgeting; no count of authorities using IFMIS is given.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Integrated Financial Management Information System (IFMIS) at Local Government Authorities",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Public Finance Management Strategy 2021-2025 carries Local Government Authorities reform as one of its seven pillars, under which the ministry reports the institutionalisation of IFMIS at the authorities in 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Integrated Financial Management Information System (IFMIS) at Local Government Authorities",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The finance ministry's permanent secretary thanks development partners for funding the greater part of the public finance management reforms in 2023, of which the Local Government Authorities pillar and its IFMIS work are one; no figure is given.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Integrated Financial Management Information System (IFMIS) at Local Government Authorities",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Financial Management Information System",
+      "country_label": "IFMIS",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of Finance and Economic Affairs / Accountant General's Department",
+      "tiers": "Central government, extended to subvented agencies; being institutionalised at Local Government Authorities"
+    }
+  ],
+  "note": "The capture is truncated partway through Pillar 2, so Pillar 6 on Local Government Authorities reform is absent; all three facts rest on one sentence of the foreword, which does not say councils enter transactions at their own offices or how they are connected."
+}

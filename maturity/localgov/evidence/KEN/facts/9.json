@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-18-sakaja-gives-nairobi-traders-new-way-to-spot-fake-county-officers-nairobi-wire",
+  "facts": [],
+  "systems": [
+    {"system": "Nairobi Pay", "country_label": "Nairobi Pay (nairobiservices.go.ke); Pay Nairobi", "class": "web", "platform": "", "owner": "Nairobi City County Government", "tiers": "Nairobi County only; residents apply, pay and print single business permits online"},
+    {"system": "Verifiable digital identification for county compliance and enforcement officers", "country_label": "", "class": "application", "platform": "", "owner": "Nairobi City County Government", "tiers": "Nairobi County only; promised within 30 days of 17 September 2026"}
+  ],
+  "note": "One county's online licensing portal and a promised officer-identification system, in the capital; nothing on the connection of county offices."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2026-06-30-gab-restructuring-paper-on-a-proposed-project-restructuring-of-digital-gab",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Gabonese Administration Network (RAG)",
+      "country_label": "Réseau de l'Administration Gabonaise (RAG)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Not stated in this document; ANINF is named as the data-centre host",
+      "tiers": "Named once: a new project activity (3.3.4) is the connection of the Ministry of Planning to the RAG; no local government office is said to be on it"
+    },
+    {
+      "system": "Digitised civil registration system",
+      "country_label": "digitized CR system, interoperable with the RBPP",
+      "class": "application",
+      "platform": "",
+      "owner": "Government of Gabon under the World Bank Digital Gabon Project (P175987); the Centre National d'État Civil (CNEC) is to be implemented; Ministry of Interior data centre",
+      "tiers": "Not yet in use: 0 administrative departments had a civil registration office digitally registering vital acts at 31 May 2026, against a target of 9 by June 2028; CR kits, connectivity infrastructure and building renovations are a planned investment (2.2.3)"
+    },
+    {
+      "system": "One-stop portal and public digital access points",
+      "country_label": "one-stop-shop portal for public e-services; public digital access points",
+      "class": "public-access",
+      "platform": "",
+      "owner": "Government of Gabon under the Digital Gabon Project",
+      "tiers": "Planned (activity 3.1.3); a proof of concept of the portal is complete; no location given"
+    }
+  ],
+  "note": "World Bank restructuring paper for the Digital Gabon Project (US$13.38 million of US$64.1 million disbursed at 31 May 2026). It names the government network only for a ministry, plans a fibre-extension study for the southern region and counts civil registration offices by administrative department without saying they are local government offices; it states nothing on the connection of a commune's or department's own office."
+}

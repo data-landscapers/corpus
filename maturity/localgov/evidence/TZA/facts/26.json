@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "eRITA / RITA central birth registration database", "country_label": "eRITA", "class": "application", "platform": "mobile phone upload to a central database", "owner": "RITA", "tiers": "Ward Executive Offices and rural health facilities register births on handwritten forms, then upload basic data by mobile phone"}
+  ],
+  "note": "An AI-assisted compilation by its own header, and listed in study.json's exclude_sources. Its Tanzania rows cover clinics, schools, police and birth registration at ward offices (sub-offices of the basic tier), mostly on paper; nothing states the connection of a council office."
+}

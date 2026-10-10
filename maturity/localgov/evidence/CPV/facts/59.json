@@ -1,0 +1,10 @@
+{
+  "slug": "2008-01-14-cabo-verde-boletim-oficial-lei-22-vii-2008-base-dados-recenseamento-eleitoral",
+  "facts": [],
+  "systems": [
+    {"system": "rede informática do Estado", "country_label": "infra-estrutura de telecomunicações da rede informática do Estado", "class": "backbone", "platform": "", "owner": "State", "tiers": "Electoral registration commissions reach the electoral database online over it (Lei 22/VII/2008, art. 12); no local government office said to be on it"},
+    {"system": "centro de dados da responsabilidade do Estado", "country_label": "centro de dados da responsabilidade do Estado", "class": "backbone", "platform": "", "owner": "State", "tiers": "Hosts the electoral database servers (art. 4)"},
+    {"system": "Base de Dados do Recenseamento Eleitoral (BDRE)", "country_label": "BDRE", "class": "central", "platform": "", "owner": "Central electoral support service, supervised by the Comissão Nacional de Eleições", "tiers": "Electoral registration commissions (comissões de recenseamento), with online access at consultation or operation level"}
+  ],
+  "note": "A law, which places nothing: Lei 22/VII/2008 gives electoral registration commissions online access to the electoral database over the state network, but the commissions are electoral bodies and the text puts no câmara municipal or municipal office on the network. Local authorities appear only in the unrelated fees law (Lei 21/VII/2008). Capture is an excerpt."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Lagos surveillance and traffic systems (CCTV, ANPR cameras, drones, command and control centre)", "country_label": "", "class": "city-systems", "platform": "Huawei Technologies among the named vendors", "owner": "Lagos State Government", "tiers": "Lagos, state level; CCTV rated moderate (100-999 cameras)"},
+    {"system": "MyLagosApp", "country_label": "MyLagosApp", "class": "web", "platform": "", "owner": "Lagos State Government", "tiers": "Lagos, state level; launched March 2025 for transport updates, emergency access, utility payments and citizen feedback"},
+    {"system": "Lagos fibre optic deployment (first 3,000 km phase)", "country_label": "", "class": "upper-tier", "platform": "fibre optic", "owner": "Lagos State Government", "tiers": "Lagos, state level; first phase said to be 99 per cent complete"}
+  ],
+  "note": "A twelve-city smart-city analysis, written with an AI answer engine by its own account; Lagos appears as a state-run city with surveillance, an app and fibre. Nothing on any local government office's connection."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-18-gouv-bj-elections-2026-plateformes-anip",
+  "facts": [],
+  "systems": [
+    {"system": "guichets ANIP dans les mairies et arrondissements", "country_label": "guichets ANIP", "class": "central", "platform": "", "owner": "Agence Nationale d'Identification des Personnes (ANIP)", "tiers": "the agency's counters in mairies, and in the arrondissements of the communes with special status, where the identity document needed to vote is issued"},
+    {"system": "eservices.anip.bj and the mobile application ANIP.BJ", "country_label": "plateformes numériques de l'ANIP", "class": "central", "platform": "web portal and mobile application", "owner": "ANIP", "tiers": "national, online to citizens"},
+    {"system": "Liste Électorale Informatisée (LEI)", "country_label": "Liste Électorale Informatisée", "class": "central", "platform": "", "owner": "ANIP, handing the list to the electoral commission CENA on 12 November 2025", "tiers": "national; posted at each polling centre"}
+  ],
+  "note": "The identity agency's meeting of 16 August 2025 on the electoral list: the counters in mairies and arrondissements are the national agency's own, so they are out of scope, and nothing is stated about the mairie's own connection."
+}

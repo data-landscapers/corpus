@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-zaf-dpsa-thusong-service-week-one-stop-centres-functionality",
+  "facts": [],
+  "systems": [
+    {"system": "Thusong Service Centres", "country_label": "Thusong Service Centres; 'One-Stop Centres'; formerly Multi-Purpose Community Centres", "class": "central", "platform": "", "owner": "government, programme led by the Department of Public Service and Administration", "tiers": "centres in all provinces; ICT connectivity named among their functionality gaps (September 2026)"}
+  ],
+  "note": "One-stop service centres are central class, out of scope; their ICT connectivity gap is not a statement about municipal offices."
+}

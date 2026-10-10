@@ -1,0 +1,8 @@
+{
+  "slug": "2015-08-13-mauritania-national-identity-documents-irb",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Biometric Register and Citizen Welcome Centres", "country_label": "Registre national biométrique des populations; Centres d'accueil des citoyens (CAC)", "class": "central", "platform": "", "owner": "ANRPTS", "tiers": "180 welcome centres issuing biometric civil status documents across the country's 216 communes as at June 2013, per AMI"}
+  ],
+  "note": "Identity and civil status documents are issued at the national agency ANRPTS's own welcome centres located in the communes, not by the commune offices; the document states nothing about a connection at a commune's own office."
+}

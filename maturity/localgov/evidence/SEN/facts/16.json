@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-10-senegal-anec-civil-registry-sovereignty-modernisation",
+  "facts": [],
+  "systems": [
+    {"system": "Logiciel de gestion de l'état civil (LGEC)", "country_label": "LGEC", "class": "application", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "deployed in 74% of civil registry centres as of 2026-08-10, per ANEC's director general; fourth remediation phase launched at Kaolack, to cover Kaffrine and Tambacounda; 920 agents and officers trained in Dakar, Thiès, Diourbel, Fatick and Louga since May 2026"},
+    {"system": "Sama État civil", "country_label": "Sama État civil", "class": "web", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "citizens' online requests for civil-status documents; operational in 189 communes as of 2026-08-10"}
+  ],
+  "note": "Gives the share of civil registry centres with the civil-status software and the communes with the citizen platform; it does not state that the centres or town halls are connected."
+}

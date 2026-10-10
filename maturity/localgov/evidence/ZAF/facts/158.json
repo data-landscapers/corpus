@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-what-african-countries-can-learn-from-the-continent-s-top-performers-in-e-govern",
+  "facts": [],
+  "systems": [
+    {"system": "South Africa Connect (SA Connect)", "country_label": "SA Connect", "class": "backbone", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national broadband programme, said to close connectivity gaps in rural areas and underserved municipalities; no municipal office said to be on it"},
+    {"system": "Provincial cloud data storage, Gauteng and Western Cape", "country_label": "", "class": "upper-tier", "platform": "", "owner": "the two provincial governments", "tiers": "province"},
+    {"system": "High-Performance Computing and Data Processing Center", "country_label": "", "class": "backbone", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; reported as being built"}
+  ],
+  "note": "A comparative paper whose South African case covers national portals run by SITA and Home Affairs, provincial divergence and broadband policy. Local government appears only in a remark that national and local levels do not always exchange identity data; 'underserved municipalities' are areas, not offices. Nothing states that a municipal office is connected or works over a connection."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-14-inside-anambra-s-2-0-plan-how-soludo-s-ict-agency-wants-ai-not-just-wi-fi-to-run",
+  "facts": [],
+  "systems": [
+    {"system": "Anambra State ICT Agency AI system", "country_label": "locally trained AI system", "class": "upper-tier", "platform": "an adapted open-source model, fine-tuned", "owner": "Anambra State ICT Agency", "tiers": "automating the Agency's own internal processes; extension to other state government departments under consideration"},
+    {"system": "Smart Anambra", "country_label": "Smart Anambra platform", "class": "upper-tier", "platform": "", "owner": "Anambra State ICT Agency", "tiers": "state ministries, departments and agencies; about 14,000 visits between 9 and 29 July 2026; hospitals, schools and other public touchpoints to be connected over time"},
+    {"system": "Anambra free public Wi-Fi", "country_label": "free public Wi-Fi programme", "class": "public-access", "platform": "", "owner": "Anambra State ICT Agency", "tiers": "existing hotspots, including at the state secretariat; no new locations planned"}
+  ],
+  "note": "A state government's platforms and public Wi-Fi: the upper tier, with no local government office said to be connected."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2018-08-02-uganda-cctv-cameras-finally-arrive-monitor",
+  "facts": [],
+  "systems": [
+    {"system": "Uganda Police National CCTV Network Expansion Project", "country_label": "national CCTV system; National Command Centre at Naguru", "class": "city-systems", "platform": "Huawei cameras", "owner": "Uganda Police Force", "tiers": "5,552 cameras planned nationwide, 3,233 of them in Kampala; installation begun 2018-07-15 in the Kampala Metropolitan Police Area, other major towns and highways to follow"}
+  ],
+  "note": "A news report on police surveillance cameras; urban authorities appear only as partners for laying fibre. Nothing on any local government office's connection."
+}

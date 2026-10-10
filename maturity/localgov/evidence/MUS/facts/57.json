@@ -1,0 +1,9 @@
+{
+  "slug": "2011-07-15-cadastral-survey-act-2011",
+  "facts": [],
+  "systems": [
+    {"system": "DCDB", "country_label": "Digital cadastral database (DCDB)", "class": "central", "platform": "", "owner": "Ministry responsible for land surveys; administered by the LAVIMS Committee, updated by the Chief Surveyor", "tiers": "kept at the Ministry in electronic form; local authorities, like ministries and departments, are exempt from the fee for access to its information"},
+    {"system": "LAVIMS", "country_label": "Land Administration, Valuation and Information Management System (LAVIMS)", "class": "central", "platform": "", "owner": "Ministry responsible for land surveys", "tiers": "not stated"}
+  ],
+  "note": "A statute on the ministry's cadastral database: local authorities appear only as bodies exempt from the access fee, and the ministry of local government as a committee member. It states no connection of a local authority's office, and a law places nothing."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {
+      "system": "EBDRS (electronic birth and death registration system)",
+      "country_label": "EBDRS",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "Health offices: about 4,571 digitised since 2017, rural ones over GPRS/3G; civil registry offices are described as paper only, without computers or internet"
+    },
+    {
+      "system": "DHIS2",
+      "country_label": "",
+      "class": "central",
+      "platform": "DHIS2",
+      "owner": "",
+      "tiers": "Launched nationally in 2026, with pilots in selected primary health facilities"
+    },
+    {
+      "system": "EMIS",
+      "country_label": "",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "National education dashboards; no school-level digital collection evidenced"
+    },
+    {
+      "system": "Digital Justice Platform",
+      "country_label": "",
+      "class": "central",
+      "platform": "Egabi",
+      "owner": "",
+      "tiers": "Complaint registration and police record issuance at stations"
+    }
+  ],
+  "note": "Egypt's rows cover clinics, schools, police stations and civil registry offices, all ministry field offices (class central); nothing is stated about local government offices. The source is also on the study's exclude list."
+}

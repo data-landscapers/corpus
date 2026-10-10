@@ -1,0 +1,47 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cairo CCTV surveillance network",
+      "country_label": "",
+      "class": "city-systems",
+      "platform": "Huawei; Honeywell IoT for surveillance",
+      "owner": "",
+      "tiers": "Cairo, rated 'extensive'; AI analytics, behaviour detection and licence plate recognition"
+    },
+    {
+      "system": "Integrated command and control centre (ICCC)",
+      "country_label": "",
+      "class": "city-systems",
+      "platform": "",
+      "owner": "",
+      "tiers": "Cairo; emergency number 112 integrated with it"
+    },
+    {
+      "system": "Intelligent transport systems",
+      "country_label": "",
+      "class": "city-systems",
+      "platform": "",
+      "owner": "",
+      "tiers": "Cairo: traffic monitoring and incident detection"
+    },
+    {
+      "system": "New Administrative Capital smart city",
+      "country_label": "",
+      "class": "city-systems",
+      "platform": "Huawei Technologies; Honeywell International; Orange Egypt",
+      "owner": "Administrative Capital for Urban Development (ACUD); decision-making with the national government",
+      "tiers": "New Administrative Capital; ministries relocated there in 2023; smart sensors and data centres"
+    },
+    {
+      "system": "Cairo e-government services",
+      "country_label": "",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "Cairo: digital permits, online payments, service requests, information portals; no owner or office named"
+    }
+  ],
+  "note": "AI-written comparative analysis of twelve cities by its own account. Cairo's entries are surveillance, transport and a greenfield capital run by national bodies; nothing is stated about the connection of local administration offices."
+}

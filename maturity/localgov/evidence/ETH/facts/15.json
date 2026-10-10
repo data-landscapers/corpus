@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-20-amn-addis-mesob-digital-one-stop-service-centres",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Addis Ababa City Administration operates 11 one-stop service centres in which more than 25 institutions are integrated into one digital system providing over 150 government services, on its director general's account at the close of the 2025/26 fiscal year; the capital city only, and no connection is described.", "as_of": "2026-07", "date_precision": "month", "system": "Addis Mesob Digital One-Stop Government Service Center", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The Addis Mesob one-stop service centres and their digital system are run by the Addis Ababa City Administration, whose director general reports on them (July 2026).", "as_of": "2026-07", "date_precision": "month", "system": "Addis Mesob Digital One-Stop Government Service Center", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Addis Mesob Digital One-Stop Government Service Center", "country_label": "Addis Mesob", "class": "application", "platform": "", "owner": "Addis Ababa City Administration", "tiers": "Addis Ababa city: 11 one-stop service centres plus mobile service units; more than 25 institutions and over 150 services"}
+  ],
+  "note": "Parent to check: the two facts rest on the study's working-online rule (city staff working in one shared digital system at the city's own service centres); the document states no connection as such, and concerns the capital city only. If the centres are read as an application or service-centre class instead, the facts fall and the systems entry stands."
+}

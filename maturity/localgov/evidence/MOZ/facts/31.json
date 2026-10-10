@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-25-worldbank-mdap-p176459-implementation-support-aide-memoire",
+  "facts": [],
+  "systems": [
+    {"system": "Government Communications Network (GovNet)", "country_label": "GovNet", "class": "backbone", "platform": "", "owner": "INAGE", "tiers": "not stated; a feasibility study for its extension was in procurement in November 2024"},
+    {"system": "Maluana government data centre", "country_label": "Maluana government data centre", "class": "backbone", "platform": "", "owner": "INAGE", "tiers": "not stated"},
+    {"system": "Community Multimedia Centres (CMC)", "country_label": "Centros Multimédia Comunitários", "class": "public-access", "platform": "", "owner": "CITT", "tiers": "communities; furniture and ICT equipment in procurement"}
+  ],
+  "note": "States a feasibility study for extending GovNet is still in procurement and names no local government office as connected; the municipal references are road works contracts."
+}

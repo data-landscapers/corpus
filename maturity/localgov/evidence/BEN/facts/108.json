@@ -1,0 +1,36 @@
+{
+  "slug": "2026-09-04-ben-cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-b",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "Matin Libre reports that on 1 September 2026 the land-affairs directorate of Parakou's mairie presented 196,474 parcels registered in the national cadastre, citing figures from the e-Foncier Bénin platform, and showed a visiting Netherlands embassy delegation its working system for updating cadastral data; the article does not say how the office is connected.",
+      "as_of": "2026-09-01",
+      "date_precision": "day",
+      "system": "e-Foncier Bénin",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:1",
+      "fact": "Matin Libre names one commune, Parakou, whose mairie runs a system for updating its data in the national cadastre as of 1 September 2026; it gives no total of communes doing so, and beneficiaries ask for the project to continue in other communes.",
+      "as_of": "2026-09-01",
+      "date_precision": "day",
+      "system": "e-Foncier Bénin",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Foncier Bénin",
+      "country_label": "e-Foncier Bénin; cadastre national",
+      "class": "application",
+      "platform": "e-Foncier Bénin",
+      "owner": "not stated; the Agence nationale du domaine et du foncier (ANDF) and the PPMEC project are thanked as partners",
+      "tiers": "the commune of Parakou, at the mairie's Direction des Affaires domaniales et environnementales"
+    }
+  ],
+  "note": "The connection is inferred from the commune working in a national platform; the article states no connection as such."
+}

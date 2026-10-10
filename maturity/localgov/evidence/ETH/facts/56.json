@@ -1,0 +1,16 @@
+{
+  "slug": "2021-01-01-eth-education-sector-development-programme-vi-esdp-vi-2013-2017-e-c-2020-2",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems",
+     "fact": "The Ministry of Education says IFMIS was planned to be rolled out to woreda level in all regions and works at federal and regional levels, but is not yet fully functional at woreda level, citing a lengthy approval process, inconsistent internet connection and lack of staff; no date is given, so the document's 2021 publication date is used.",
+     "as_of": "2021", "date_precision": "year", "system": "IFMIS at woreda level", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "", "tiers": "federal and regional levels; planned for woredas in all regions, not yet fully functional there"},
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "application", "platform": "", "owner": "Ministry of Education", "tiers": "ministry, regional education bureaus, woreda offices and schools; a 'paper and pencil approach' to be replaced; web-based dissemination planned"},
+    {"system": "MoE online meeting platform", "country_label": "MoE online meeting platform", "class": "central", "platform": "", "owner": "Ministry of Education", "tiers": "planned; target of 100% of institutions in woredas using it by 2024/25, no baseline"},
+    {"system": "School Management Information System (SMIS)", "country_label": "SMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "TMIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only. The one fact is a statement that a national system is NOT yet fully working at woreda level; the value 'systems' records the intended use, not an achieved one. The plan to equip woreda education offices with minimum ICT infrastructure names no connection."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-29-ken-muranga-paratus-starlink-health",
+  "facts": [],
+  "systems": [
+    {"system": "Paratus Essential Access", "country_label": "Paratus Essential Access, powered by Starlink", "class": "", "platform": "Starlink", "owner": "Paratus Kenya, for Murang'a County", "tiers": "170 public health facilities in Murang'a County, after a pilot of 35 at the end of 2025; a further 302 to be added before the end of 2026"},
+    {"system": "Murang'a Digital Healthcare Access programme", "country_label": "Murang'a Digital Healthcare Access programme", "class": "", "platform": "", "owner": "Murang'a County Government", "tiers": "a central telemedicine hub with 15 doctors serving clinics and dispensaries across Murang'a County"}
+  ],
+  "note": "A vendor's release on satellite connections at Murang'a County's health facilities, not at the county government's own offices; no typology class fits a health-facility connection, so class is left empty and no fact is taken."
+}

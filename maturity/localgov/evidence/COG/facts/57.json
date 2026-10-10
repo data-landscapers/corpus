@@ -1,0 +1,78 @@
+{
+  "slug": "2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank's appraisal document of May 2022 proposes a US$100 million IBRD loan for the Congo Digital Acceleration Project, which is to pay for fibre connectivity and indoor coverage for 22 ministries, departments and agencies in Brazzaville and Pointe-Noire, said to cover both national and local government service providers.",
+      "as_of": "2022-05-11",
+      "date_precision": "day",
+      "system": "Fiber connectivity for MDAs (Congo Digital Acceleration Project, sub-component 2.2)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The World Bank's appraisal document of May 2022 plans to connect 22 ministries, departments and agencies in Pointe-Noire and Brazzaville by fibre, names local governments among the main bodies that could benefit, for civil registration and digital public services, and expects shared connectivity to be supplied to decentralised local authorities; exact locations were still to be defined by a preparatory study.",
+      "as_of": "2022-05-11",
+      "date_precision": "day",
+      "system": "Fiber connectivity for MDAs (Congo Digital Acceleration Project, sub-component 2.2)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank's appraisal document of May 2022 says the ministry of posts, telecommunications and digital economy (MPTEN) will provide bandwidth to its ministry and agency clients and is encouraged to recover costs from them so that it can maintain and operate the government network; the project buys capacity from private operators' fibre loops and funds no government-owned network.",
+      "as_of": "2022-05-11",
+      "date_precision": "day",
+      "system": "Fiber connectivity for MDAs (Congo Digital Acceleration Project, sub-component 2.2)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Fiber connectivity for MDAs (Congo Digital Acceleration Project, sub-component 2.2)",
+      "country_label": "",
+      "class": "connection",
+      "platform": "fibre and indoor cabling or WiFi, bought as capacity on private operators' metro fibre loops",
+      "owner": "MPTEN, under a World Bank loan",
+      "tiers": "22 ministries, departments and agencies in Brazzaville and Pointe-Noire, covering national and local government service providers; planned, not yet deployed"
+    },
+    {
+      "system": "government network",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "",
+      "owner": "MPTEN",
+      "tiers": "ministry and agency clients; no local government office said to be on it"
+    },
+    {
+      "system": "Fibre Inter-Administration (Inter-Administration Fiber)",
+      "country_label": "FIA",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "civil registration (CR)",
+      "country_label": "",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "civil registration offices and municipalities; simplification and digitalisation to be examined and planned under sub-component 3.1"
+    },
+    {
+      "system": "community digital access centers (multimedia centers)",
+      "country_label": "",
+      "class": "public-access",
+      "platform": "",
+      "owner": "",
+      "tiers": "to be set up in prefectures, courthouses, schools and post offices, primarily in rural areas; planned"
+    }
+  ],
+  "note": ""
+}

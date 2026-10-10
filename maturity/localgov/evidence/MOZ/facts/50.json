@@ -1,0 +1,8 @@
+{
+  "slug": "2019-07-19-fnds-sigit-lims-review-final-report",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Gestão de Informação da Terra (SiGIT)", "country_label": "SiGIT", "class": "central", "platform": "land information management system with workflow and report modules", "owner": "reviewed for FNDS", "tiers": "national cadastre, with the provincial cadastral services (SPGCs); cadastre data from municipalities not in the system as at July 2019"}
+  ],
+  "note": "A review of the national land information system, which states that municipal cadastre data are not in it; nothing is stated about the connection of municipal offices."
+}

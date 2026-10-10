@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-25-tripoli-baladiyabot-municipal-digital-assistant-libyaherald",
+  "facts": [],
+  "systems": [
+    {"system": "BaladiyaBOT", "country_label": "BaladiyaBOT", "class": "web", "platform": "", "owner": "Municipality of Tripoli Centre, developed under GIZ's Support to Municipalities in Libya (SML III) programme, funded by the European Union and Germany's BMZ, with the Ministry of Local Government", "tiers": "Development announced 19 April 2026; pilot in Tripoli Centre only; rollout to other municipalities intended after the pilot"},
+    {"system": "Citizen Service Centre", "country_label": "Citizen Service Centre; unified window", "class": "", "platform": "", "owner": "Municipality of Tripoli Centre, with GIZ support", "tiers": "Tripoli Centre: a physical centre in operation"}
+  ],
+  "note": "A digital assistant for residents, at the start of development and piloted in one Tripoli municipality: a web channel, not the office's connection. The physical Citizen Service Centre is named without a description of any system or connection."
+}

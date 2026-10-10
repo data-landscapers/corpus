@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-egypt-open-data-policy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Open Data Portal",
+      "country_label": "data.gov.eg",
+      "class": "web",
+      "platform": "",
+      "owner": "Ministry of Communications and Information Technology, as technical secretariat",
+      "tiers": "National single point of access; the policy applies to all ministries, agencies and local government units"
+    }
+  ],
+  "note": "A 2025 policy on open data: it names local government units only as bodies it applies to, and states nothing about their offices' connection."
+}

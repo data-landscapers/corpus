@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-27-decreto-presidencial-78-26-empreendimentos-turisticos-codigo-qr-reclamacoes",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão do Turismo (SIGTUR)", "country_label": "SIGTUR", "class": "application", "platform": "", "owner": "ministerial department responsible for tourism", "tiers": "the electronic platform through which prior notice of a tourist establishment is filed with the licensing entity, which for motels, inns, guest houses, rural hotels and local accommodation is the municipal administration; a paper form remains an alternative"},
+    {"system": "registo dos alojamentos do município", "country_label": "registo dos alojamentos localizados no município", "class": "application", "platform": "", "owner": "municipal administration", "tiers": "municipal; the decree requires it to be kept up to date and does not say in what form"}
+  ],
+  "note": "A decree of 27 April 2026 setting licensing powers; a law places nothing, and it says nothing of the municipal offices' connection. The capture is truncated at the fetch limit."
+}

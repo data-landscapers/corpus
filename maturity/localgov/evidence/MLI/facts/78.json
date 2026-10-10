@@ -1,0 +1,13 @@
+{
+  "slug": "2023-01-01-worldbank-mali-digital-economy-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "Administration's Intranet Network (RIA), a shared government network said to have interconnected more than 500 state agencies over 15 years, with a base station in Bamako and in each regional capital except Ségou", "country_label": "Réseau Intranet de l'Administration (RIA)", "class": "backbone", "platform": "", "owner": "AGETIC", "tiers": "state agencies; Bamako and regional capitals"},
+    {"system": "State fibre-optic backbone (3,200 km laid by the state), with an urban GPON network and some 50 GPON terminals interconnecting government institutions, and a VSAT system of about 50 sites", "country_label": "", "class": "backbone", "platform": "", "owner": "SMTD", "tiers": "29 of 57 circles and 130 of 704 secondary administrative cities not connected (consultant's analysis of AMRTP data, 2021)"},
+    {"system": "National data centre, not fully operational and used by only a few state agencies", "country_label": "", "class": "backbone", "platform": "", "owner": "SMTD", "tiers": ""},
+    {"system": "Civil registration system, managed jointly by local governments and the Ministry of Territorial Administration and Decentralization", "country_label": "", "class": "", "platform": "", "owner": "local governments and MATD", "tiers": ""},
+    {"system": "Integrated Human Resources Management System for the Public Service of the State and Local Authorities, a project launched in May 2022", "country_label": "", "class": "application", "platform": "", "owner": "Government of Mali", "tiers": "State and local authorities"},
+    {"system": "National Identification Number (NINA) system", "country_label": "NINA", "class": "central", "platform": "", "owner": "Ministry of Territorial Administration and Decentralization", "tiers": ""}
+  ],
+  "note": "The government network is described as linking state agencies and regional capitals; no commune or other local government office is said to be on it, and the backbone figures count localities reached, not offices connected. AGETIC is said to train around 3,000 government and local authority officials a year (capacity)."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-12-classroom-attendance-nigeria-relies-on-paper",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System on DHIS2 (DHIS2 EMIS module)", "country_label": "EMIS", "class": "application", "platform": "DHIS2", "owner": "Federal and state education authorities, rolled out by a consortium led by HISP Nigeria and UNICEF", "tiers": "twelve states including Adamawa; local education authorities trained to enter enrolment, attendance and infrastructure data on tablets and smartphones; Bauchi State ministry workshops for local supervisors"},
+    {"system": "UBEC digital quality assurance platform", "country_label": "", "class": "central", "platform": "", "owner": "Universal Basic Education Commission (launched 2024)", "tiers": "UBEC's inspection and monitoring system; nationwide adoption still scaling up"},
+    {"system": "Nigeria Education Data Initiative (NEDI)", "country_label": "NEDI", "class": "central", "platform": "", "owner": "Federal Ministry of Education", "tiers": "national platform of education data, basic to tertiary"},
+    {"system": "EdoCert", "country_label": "EdoCert", "class": "upper-tier", "platform": "Sunbird", "owner": "Edo State pilot, launched with Data Science Nigeria and Gates Foundation funding", "tiers": "Edo State"}
+  ],
+  "note": "The document says rural principals carry handwritten census forms to local government offices, and that 'local education authorities' in twelve states were trained to enter data on tablets and smartphones; it does not say any local government office has a connection provided to it, nor that the devices are used at the office, so no connection fact is taken."
+}

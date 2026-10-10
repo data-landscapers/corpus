@@ -1,0 +1,23 @@
+{
+  "slug": "2021-04-09-worldbank-icr-central-african-backbone-gabon-cab4",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National fiber-optic backbone (CAB4)",
+      "country_label": "Backbone National Gabonais",
+      "class": "backbone",
+      "platform": "1,760 km terrestrial fibre: 1,140 km Phase 1 in commercial operation since February 2019, 620 km Phase 2 completed March 2020",
+      "owner": "State asset company SPIN owns it; private wholesale operator Axione manages it under a PPP",
+      "tiers": "Connects 26 cities to Libreville and reaches the borders of Congo, Cameroon and Equatorial Guinea; open-access wholesale network, no local government office said to be on it"
+    },
+    {
+      "system": "National datacenter, Computer Security Incident Response Center and public-key infrastructure platform",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government of Gabon, financing requested from the African Development Bank",
+      "tiers": "Requested, not built: to sit in the communes of Franceville and Ntoum, with over 2,000 km of further fibre links in underserved areas"
+    }
+  ],
+  "note": "World Bank completion report on the national backbone: local governments and municipalities appear only as stakeholders coordinated with and involved in project management and land provision. It states no local government office as connected."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "South Sudan National Data Centre (MGI/NCA)", "country_label": "South Sudan National Data Centre", "class": "backbone", "platform": "", "owner": "MGI Communications AG (operator), with the National Communication Authority (NCA) as regulator", "tiers": "Juba; government facility, listed as operational; no local government office said to be on it"}
+  ],
+  "note": "A data-centre ownership register; its one South Sudan row is a national data centre in Juba, with no local government office said to be connected to it."
+}

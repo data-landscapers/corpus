@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-18-undp-zambia-ai-for-public-good-challenge",
+  "facts": [],
+  "systems": [
+    {"system": "AI Citizen Service Assistant for Smart Local Government", "country_label": "AI Citizen Service Assistant for Smart Local Government", "class": "web", "platform": "", "owner": "Lusaka City Council (challenge brief); UNDP timbuktoo UniPods (student teams)", "tiers": "Lusaka City Council; a challenge brief for student teams, not a deployed system"}
+  ],
+  "note": "A call for student teams to build AI tools for five public bodies, one of them Lusaka City Council; nothing on the connection of council offices."
+}

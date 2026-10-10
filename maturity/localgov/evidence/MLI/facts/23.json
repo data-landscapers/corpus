@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-20-lessor-sigrh-controle-biometrique-agents-etat",
+  "facts": [],
+  "systems": [
+    {"system": "Système intégré de gestion des ressources humaines des fonctions publiques de l'État et des collectivités (SIGRH)", "country_label": "SIGRH", "class": "application", "platform": "", "owner": "Ministère de la Refondation de l'État, through the commission in charge of SIGRH", "tiers": "a reference register of the staff of the state and of the collectivités territoriales; enrolment done by teams sent to the regions, not said to be used in local government offices"}
+  ],
+  "note": "A central human resources register that counts local government staff, enrolled biometrically by visiting teams between May 2022 and January 2026; the document does not say any local government office works in it or is connected."
+}

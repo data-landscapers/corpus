@@ -1,0 +1,23 @@
+{
+  "slug": "2011-07-13-pndtic-politique-nationale-developpement-tic-2010-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Télé-centre multiservices",
+      "country_label": "télé-centre multiservices",
+      "class": "public-access",
+      "platform": "",
+      "owner": "",
+      "tiers": "Policy target of at least one multiservice telecentre per commune in 2015"
+    },
+    {
+      "system": "Infrastructure large bande nationale principale",
+      "country_label": "infrastructure large bande nationale principale",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "Policy target to deploy the main national broadband infrastructure down to commune level before 2015; no commune office is said to be on it"
+    }
+  ],
+  "note": "Passages only. National ICT policy 2010-2025, adopted 13 July 2011: its commune-level targets are a telecentre per commune and a backbone reaching commune level, both noted classes, plus in-service ICT training of staff in local authorities (capacity); it sets no target for connecting commune offices in the passages given, so no fact."
+}

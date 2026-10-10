@@ -1,0 +1,23 @@
+{
+  "slug": "2019-07-01-niger-loi-2019-29-regime-etat-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre national de l'état civil",
+      "country_label": "registre national de l'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "the state; the ministry in charge of civil status",
+      "tiers": "instituted by Article 73 as the synchronisation of the computerised civil registers of all communes, with those of diplomatic missions and consular posts; provided for in law, not reported as operating"
+    },
+    {
+      "system": "Traitement informatisé de l'état civil hébergé par la commune",
+      "country_label": "traitement informatisé des données de l'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "the commune, or failing that the departmental directorate of civil status",
+      "tiers": "Article 52 permits its use for drawing up civil status acts; Article 13 has the principal centres at commune seats enter and electronically archive civil status data; provided for in law, not reported as operating"
+    }
+  ],
+  "note": "Civil status law of 1 July 2019. It provides for electronic entry and archiving at commune civil status centres and requires data sent over the internet to be encrypted (Article 86), but a law states no connection at any commune office, so it gives no fact."
+}

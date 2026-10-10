@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-07-liberia-worldbank-great-project-appraisal-document",
+  "facts": [],
+  "systems": [
+    {"system": "County Service Centers", "country_label": "County Service Centers (CSCs)", "class": "central", "platform": "", "owner": "set up under the Local Government Act of 2018 with UNDP support; services provided by 14 ministries, agencies and commissions", "tiers": "fifteen centres, one per county; fewer than a third of the envisaged services available, most paper-based and needing further processing in Monrovia (May 2024)"},
+    {"system": "eLiberia Portal", "country_label": "eLiberia Portal", "class": "central", "platform": "", "owner": "Ministry of Posts and Telecommunications leads the digitalisation agenda", "tiers": "national; developed, with no services online yet (May 2024)"},
+    {"system": "GIS and valuation systems for real property enrolment", "country_label": "property tax pilot", "class": "central", "platform": "GIS and valuation systems", "owner": "Liberia Revenue Authority, in partnership with the counties", "tiers": "Margibi and Grand Bassa counties"}
+  ],
+  "note": "A World Bank appraisal. The County Service Centers are described as one-stop shops for ministries' services, mostly paper-based; the project plans capacity and technology for them, and no connection at a county administration's own office is stated."
+}

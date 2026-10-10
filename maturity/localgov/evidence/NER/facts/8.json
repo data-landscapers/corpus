@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-11-niger-population-registry-legal-texts-tour",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme de gestion des faits d'état civil", "country_label": "nouvelle plateforme de gestion des faits d'état civil", "class": "application", "platform": "", "owner": "Direction Générale de l'état civil, des Migrations et des Réfugiés, Ministère de l'Intérieur", "tiers": "announced on 11 August 2026 as a coming investment, with the computerisation of all communes and declaration centres; not yet in service"},
+    {"system": "Registre National d'Etat Civil", "country_label": "Registre National d'Etat Civil (RNEC)", "class": "application", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "national; to be made operational"},
+    {"system": "Registre National de la Population", "country_label": "Registre National de la Population (RNP)", "class": "central", "platform": "", "owner": "Ministère de l'Intérieur; ANEI to administer", "tiers": "first phase to enrol in the five arrondissements communaux of Niamey, extending to other regions in early 2027"},
+    {"system": "Registre National des Nationalités", "country_label": "Registre National des Nationalités (RNN)", "class": "central", "platform": "", "owner": "Ministère de la Justice", "tiers": "national; to be developed"},
+    {"system": "Intranet du Ministère de la Justice", "country_label": "Intranet du Ministère", "class": "central", "platform": "", "owner": "Ministère de la Justice", "tiers": "ministry; to be improved"}
+  ],
+  "note": "The interior ministry's deputy secretary-general announced on 11 August 2026 coming investments to computerise all communes and declaration centres for civil status; this is a stated intention for an application and equipment, with no commune office said to be connected."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-03-matd-revue-mi-parcours-pagl2",
+  "facts": [],
+  "systems": [
+    {"system": "TOMPRO", "country_label": "digitalisation de la comptabilité communale", "class": "application", "platform": "TOMPRO", "owner": "ANAFIC, under PAGL2 (World Bank, IDA credit 7274-GN)", "tiers": "communal accounting; the project covers all 362 communes, with no count of communes using the tool"},
+    {"system": "SYSCOHADA", "country_label": "digitalisation de la comptabilité communale", "class": "application", "platform": "", "owner": "ANAFIC, under PAGL2", "tiers": "named beside TOMPRO as a tool of communal accounting; no count of communes"},
+    {"system": "SIGAA", "country_label": "plateforme SIGAA", "class": "", "platform": "", "owner": "ANAFIC", "tiers": "the project's monitoring and evaluation platform; where used not stated"}
+  ],
+  "note": "The launch on 2026-06-02 of PAGL2's mid-term review: communal accounting is to be digitalised with TOMPRO and SYSCOHADA across a project covering 362 communes, an application; nothing is stated about a connection at commune offices."
+}

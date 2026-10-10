@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-10-dinika-inclusive-tech-adoption-african-urban-future",
+  "facts": [],
+  "systems": [
+    {"system": "Nairobi traffic management system (IBM agreement)", "country_label": "", "class": "city-systems", "platform": "IBM", "owner": "Nairobi, with IBM", "tiers": "Nairobi city"},
+    {"system": "Konza Technopolis", "country_label": "Konza Technopolis / Konza Techno City", "class": "city-systems", "platform": "", "owner": "", "tiers": "one planned smart city"}
+  ],
+  "note": "An essay on smart cities; for Kenya it names a Nairobi traffic management agreement and Konza Technopolis, both city systems, and states nothing about county offices' connection."
+}

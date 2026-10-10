@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-lby-moh-annual-statistical-report-2021",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "نظام المعلومات الصحية المناطقي",
+      "class": "central",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health, Health Information and Documentation Centre",
+      "tiers": "An electronic health information system designed by 2018 and trained on widely in all municipalities; its routine data come from health facilities"
+    }
+  ],
+  "note": "The passages use municipalities as the geographic unit of health tables and of DHIS2 training. The system is the health ministry's, fed by health facilities; nothing is stated on municipal government offices or their connection."
+}

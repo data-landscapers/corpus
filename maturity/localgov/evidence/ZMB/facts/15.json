@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-05-zambia-border-connectivity-gwan-upgrade",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "backbone", "platform": "", "owner": "SMART Zambia Institute; TradeMark Africa commissioning an infrastructure audit", "tiers": "border posts: Nakonde, Victoria Falls, Kazungula, Chirundu, Mwami/Mchinji, Kasumbalesa; planned upgrade to 10-100 Mbps with dual links"}
+  ],
+  "note": "A planned government-network upgrade for border posts, which are national agencies' offices; no local government office is named."
+}

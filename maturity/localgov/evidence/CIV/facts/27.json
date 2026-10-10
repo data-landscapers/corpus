@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-27-cote-divoire-oneci-formation-citiweb-agents-etat-civil-goh",
+  "facts": [],
+  "systems": [
+    {"system": "Citiweb", "country_label": "logiciel Citiweb", "class": "application", "platform": "Citiweb", "owner": "Office national de l'état civil et de l'identification (ONECI), under the project supporting the digitalisation of civil registration and the fight against documentary fraud", "tiers": "The civil registration centres of the town halls (mairies) and sub-prefectures; ONECI's own civil registration agents work in them, 44 from Gôh trained at Gagnoa on 27-29 July 2026"},
+    {"system": "IT equipment for civil registration centres", "country_label": "matériel informatique avec le logiciel", "class": "equipment", "platform": "", "owner": "ONECI", "tiers": "All civil registration centres of the town halls and sub-prefectures, equipped at the end of 2025, as AIP reports"}
+  ],
+  "note": "The document states that all civil registration centres in town halls and sub-prefectures were given computers carrying Citiweb at the end of 2025 and that ONECI trained 44 Gôh agents in July 2026: equipment and an application, with no connection stated."
+}

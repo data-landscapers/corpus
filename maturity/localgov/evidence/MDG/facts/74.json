@@ -1,0 +1,9 @@
+{
+  "slug": "2020-10-08-worldbank-prodigy-financing-agreement",
+  "facts": [],
+  "systems": [
+    {"system": "On-demand package of services to selected communes (PRODIGY Part 1.2)", "country_label": "", "class": "equipment", "platform": "", "owner": "Government of Madagascar under the IDA credit 6780-MG of USD 140 million signed 8 October 2020", "tiers": "selected communes: acquisition of digital services and equipment, and rehabilitation of commune and civil registration offices; what the digital services are is not described"},
+    {"system": "National civil registration platform", "country_label": "", "class": "application", "platform": "", "owner": "National Civil Registration and Identification Center (NCRIC / CNECI), Ministry of Interior and Decentralization", "tiers": "national platform with back-end, front-end and databases, to be developed; local civil registrars to be trained"}
+  ],
+  "note": "A financing agreement describing what the project is to finance in selected communes; it states no connection provided or live at any commune office."
+}

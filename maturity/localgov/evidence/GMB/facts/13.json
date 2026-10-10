@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-26-op-gov-gm-state-of-the-nation-address-2026",
+  "facts": [],
+  "systems": [
+    {
+      "system": "GAMTEL core backbone and last-mile infrastructure",
+      "country_label": "GAMTEL core backbone",
+      "class": "backbone",
+      "platform": "",
+      "owner": "GAMTEL, with a build-operate-transfer public-private partnership expected to mobilise US$50 million",
+      "tiers": "National; no local government office said to be on it"
+    }
+  ],
+  "note": "The address, truncated in capture at paragraph 100, reports an ongoing review of the Local Government Act and a planned land information system but states nothing about any local government office's connection or systems."
+}

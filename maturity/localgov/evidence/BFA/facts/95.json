@@ -1,0 +1,31 @@
+{
+  "slug": "2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Projet backbone national de télécommunication (PBNT)",
+      "country_label": "backbone national",
+      "class": "backbone",
+      "platform": "Optical fibre",
+      "owner": "State",
+      "tiers": "In 2023, 2,001 km of the country's 11,229.9 km of fibre were laid by the PBNT, interconnecting all regional capitals, 76% of provincial capitals and 36% of communes; no commune office is said to be on it"
+    },
+    {
+      "system": "RESINA",
+      "country_label": "Réseau informatique national de l'administration (intranet gouvernemental)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "State",
+      "tiers": "Government intranet through which services hosted in the G-Cloud and datacentres are reached; the plan says much fibre is still needed to interconnect all public structures to it; 6.27% of health structures were on it in the 2023 survey; no local government office named"
+    },
+    {
+      "system": "G-Cloud",
+      "country_label": "G-Cloud",
+      "class": "backbone",
+      "platform": "",
+      "owner": "State",
+      "tiers": "Government cloud hosting public services, reached over RESINA and the mobile internet; tiers not stated"
+    }
+  ],
+  "note": "Health ministry's digital health plan 2025-2029 (capture ends in the risk table; annexes absent). Its only statements touching communes are the PBNT backbone reaching 36% of communes in 2023 and the count of 351 communes; both are of the backbone class, with no commune office said to be connected, so no fact. The 36% is a network-passed share the parent may want under 'equipped'. A RESINA strategy for 2022-2026 is listed, with no mention of local governments."
+}

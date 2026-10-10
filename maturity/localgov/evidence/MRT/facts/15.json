@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-21-ami-ouverture-espace-numerique-ouadane-adrar-giz",
+  "facts": [],
+  "systems": [
+    {"system": "espace numérique de Ouadane", "country_label": "espace numérique de la ville de Ouadane", "class": "public-access", "platform": "", "owner": "Ministry of Digital Transformation and Modernisation of the Administration, with GIZ support; the municipality undertakes to preserve it", "tiers": "one space in Ouadane, Adrar, opened 21 December 2025"},
+    {"system": "Khedematy", "country_label": "plateforme « Khedematy »", "class": "", "platform": "", "owner": "", "tiers": "national platform for secure documents, named as a subject of training"},
+    {"system": "Aïn", "country_label": "application « Aïn »", "class": "", "platform": "", "owner": "", "tiers": "national application for citizens to report problems to the authorities"}
+  ],
+  "note": "A digital space for residents without internet access or a smartphone, opened in Ouadane on 21 December 2025; it is public access, and the document says nothing of the commune office's own connection."
+}

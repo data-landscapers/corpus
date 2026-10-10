@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-20-fraca-cobertura-de-internet-pode-afectar-registo-eleitoral",
+  "facts": [],
+  "systems": [
+    {"system": "Balcões Únicos de Atendimento ao Público (BUAP)", "country_label": "BUAP", "class": "", "platform": "", "owner": "the Executive; the statement is the Secretary of State for Local Authorities'", "tiers": "634 counters to be put into service nationally, 254 of them in a first phase across the 21 provinces, as stated in June 2026; where they are housed is not stated"},
+    {"system": "Registo Eleitoral Oficioso", "country_label": "registo eleitoral oficioso e prova de vida", "class": "application", "platform": "", "owner": "", "tiers": "updated at the BUAP counters and by mobile posts, with more than 10,000 brigade members"}
+  ],
+  "note": "The Secretary of State says weak internet and mobile coverage in hard-to-reach zones is the Government's main concern for the register update, and gives counter numbers; the document does not say the counters are local government offices or how they are connected, so no fact is taken."
+}

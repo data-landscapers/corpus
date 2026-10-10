@@ -1,0 +1,8 @@
+{
+  "slug": "2022-12-21-tgo-conseil-des-ministres-21-decembre-2022-lome-data-center",
+  "facts": [],
+  "systems": [
+    {"system": "Lomé data centre", "country_label": "centre de données (Data center)", "class": "backbone", "platform": "", "owner": "Société d'infrastructures numériques; cession to a private operator authorised on 21 December 2022", "tiers": "storage services for economic operators; no local government office named"}
+  ],
+  "note": "Council of Ministers communique of 21 December 2022: communes appear in a report on the decentralisation monitoring council, with nothing on their ICT or connection; the digital item is the cession of the Lomé data centre."
+}

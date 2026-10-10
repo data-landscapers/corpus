@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Guinea National Tier III Data Centre", "country_label": "", "class": "backbone", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy", "tiers": "Conakry; operational 2025; customers given as Government of Guinea ministries"}
+  ],
+  "note": "A register of data centres, compiled by its author; Guinea's rows name a state data centre serving ministries and a private colocation site, with no local government office said to be on either."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-14-liberia-moe-digitized-school-monitoring-system",
+  "facts": [],
+  "systems": [
+    {"system": "Digitized Monitoring and Supervision System", "country_label": "digitized Monitoring and Supervision System", "class": "central", "platform": "Built by HAK Technology", "owner": "Ministry of Education, funded through the Public Sector Investment Program", "tiers": "Pilot in Montserrado, Rivercess, Sinoe, Bomi and Gbarpolu counties; used by the ministry's monitoring officers in schools"}
+  ],
+  "note": "A Ministry of Education school-supervision system used by its own monitoring officers; no local government office is involved."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-29-ghana-mofep-2026-2029-budget-preparation-guidelines",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Ministry of Finance's 2026-2029 budget guidelines, circulated 29 August 2025, carry a Section Four of instructions to Regional Coordinating Councils and Metropolitan, Municipal and District Assemblies with a part on GIFMIS, which the page's summary note says requires them to process all financial transactions through that national system; this is an instruction, with no count of assemblies doing so and no connection described.", "as_of": "2025-08-29", "date_precision": "day", "system": "Ghana Integrated Financial Management Information System (GIFMIS)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Ghana Integrated Financial Management Information System (GIFMIS)", "country_label": "GIFMIS", "class": "application", "platform": "", "owner": "Ministry of Finance", "tiers": "Regional Coordinating Councils and Metropolitan, Municipal and District Assemblies, by instruction of the budget guidelines"}
+  ],
+  "note": "The captured body is an excerpt: Section Four appears only in the table of contents, and the GIFMIS mandate is stated in the page's own summary note, not in the captured text. The fact is a mandate, not a report of use; the parent should weigh it accordingly."
+}

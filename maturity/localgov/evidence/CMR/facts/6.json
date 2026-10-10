@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-25-cameroun-georges-elanga-obam-veut-mettre-fin-aux-lots-num-riques-de-l",
+  "facts": [],
+  "systems": [
+    {"system": "programme de digitalisation des communes et des régions", "country_label": "programme de digitalisation des communes et des régions", "class": "application", "platform": "", "owner": "MINDDEVEL, with the support of the Ministry of Posts and Telecommunications", "tiers": "in preparation in August 2026 for the 384 decentralised local authorities, as the minister counts them; to offer digital public services and to exchange data with sectoral platforms, with hosting by the state"},
+    {"system": "dématérialisation des procédures du MINDDEVEL", "country_label": "", "class": "central", "platform": "", "owner": "MINDDEVEL", "tiers": "the ministry, being extended to its regional and departmental services"}
+  ],
+  "note": "The minister describes a digitalisation programme for communes and regions still in preparation, by its services and interoperability; nothing is said of how commune offices are connected."
+}

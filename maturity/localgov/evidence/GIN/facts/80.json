@@ -1,0 +1,39 @@
+{
+  "slug": "2013-12-23-wb-icr-guinea-third-urban-development-project-adressage",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Provision of information technology (IT) equipment to local governments under the Third Urban Development Project Phase II",
+      "country_label": "",
+      "class": "equipment",
+      "platform": "",
+      "owner": "Project Coordination Unit under the Ministry of Construction, Urban Planning and Housing; World Bank IDA grant",
+      "tiers": "The project's beneficiary local governments (15 municipalities: Conakry's five communes and secondary cities); delivered in the last 6-8 months before closing on 30 June 2013"
+    },
+    {
+      "system": "Computerization of municipal financial statements",
+      "country_label": "",
+      "class": "application",
+      "platform": "",
+      "owner": "Project Coordination Unit; World Bank IDA grant",
+      "tiers": "Municipalities, as an activity the institutional-strengthening component was to support; no result stated"
+    },
+    {
+      "system": "Street addressing",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Project Coordination Unit with the Direction Nationale des Impôts",
+      "tiers": "In place and operational in 3 Conakry communes (Dixinn, Kaloum, Matam) at 30 June 2013, against an original target of 6; dropped in the other communes"
+    },
+    {
+      "system": "Improved fiscal registers",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Project Coordination Unit with the Direction Nationale des Impôts",
+      "tiers": "In place and in use in 3 of Conakry's 5 communes (Dixinn, Kaloum, Matam) at 30 June 2013, against an original target of 5"
+    }
+  ],
+  "note": "A World Bank completion report on an urban project closed 30 June 2013: it records IT equipment delivered to local governments and planned computerisation of municipal accounts, with no connection of any commune office stated; the capture is an excerpt cut in section 2.4."
+}

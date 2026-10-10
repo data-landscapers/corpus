@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "SOCATEL National Digital Hub (planned Tier III data centre)", "country_label": "SOCATEL National Digital Hub", "class": "backbone", "platform": "", "owner": "Greenline Technologies Inc. / SOCATEL, as a public-private partnership", "tiers": "Bangui; planned, for government and telecom operators"}
+  ],
+  "note": "A register row for one planned data centre in Bangui, in a compilation its own header calls AI-compiled; no local government office is said to be on it."
+}

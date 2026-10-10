@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-09-sigrnf-lancement-mef-gov-mg",
+  "facts": [],
+  "systems": [
+    {"system": "SIGRNF (Système d'Information de Gestion des Recettes Non Fiscales)", "country_label": "SIGRNF", "class": "central", "platform": "mobile-money payment through MVola, Orange Money and Airtel Money", "owner": "Ministère de l'Économie et des Finances", "tiers": "launched 9 May 2025 for progressive deployment nationwide; said to serve the financial autonomy of territorial authorities, with no local government office use described"}
+  ],
+  "note": "A finance-ministry payment system for non-tax revenue; territorial authorities are named only as a policy aim, with no office connection stated."
+}

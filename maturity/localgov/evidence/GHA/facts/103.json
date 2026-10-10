@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-01-gha-the-effect-of-digital-systems-integration-on-birth-registration-rates",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card Number at Birth System", "country_label": "Ghana Card Number at Birth System", "class": "central", "platform": "", "owner": "National Identification Authority, with the Births and Deaths Registry and the Ghana Health Service, whose systems were integrated on 14 March 2024", "tiers": "rolled out across the country; studied at the two Births and Deaths Registry centres in Ablekuma West Municipal Assembly (Dansoman and Gbegbeyise)"},
+    {"system": "Births and Deaths Registry digital registration platform", "country_label": "digital registration platform", "class": "central", "platform": "", "owner": "Births and Deaths Registry", "tiers": "Births and Deaths Registry centres; two in Ablekuma West Municipal Assembly"}
+  ],
+  "note": "A study of birth registration counts at two Births and Deaths Registry centres in one municipal area: the offices are the national registry's, not the assembly's, and the paper states nothing on how any office is connected."
+}

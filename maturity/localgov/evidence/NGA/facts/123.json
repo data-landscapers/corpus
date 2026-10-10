@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-10-multidimensional-poverty-social-protection-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "National Social Register (NSR)", "country_label": "NSR", "class": "central", "platform": "", "owner": "Office of the Minister for Humanitarian Affairs and Poverty Reduction, as the report's data source", "tiers": "national, reported by state; 69.94 million individuals registered"}
+  ],
+  "note": "An infographic report on poverty and social assistance by state; local government areas appear only as places for mobile registration teams. Nothing on local government offices or their connection."
+}

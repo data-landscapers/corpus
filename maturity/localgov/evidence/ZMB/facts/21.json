@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-16-zambia-govlink-private-4g-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "GovLink Private 4G", "country_label": "GovLink", "class": "backbone", "platform": "private 4G network", "owner": "Government of Zambia; e-Government Division, SMART Zambia Institute, with IHM Southern Africa, Tuso Business Dynamics, Quadrupleplay and the Ministry of Health", "tiers": "three Copperbelt hospitals connected first as demonstration sites; health facilities, schools and other public institutions to follow; no local authority named"}
+  ],
+  "note": "The launch of a government-owned 4G network with hospitals as its first sites; no local government office is said to be on it."
+}

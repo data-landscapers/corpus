@@ -1,0 +1,12 @@
+{
+  "slug": "2024-08-20-angola-enhancing-social-protection-system-project-appraisal",
+  "facts": [],
+  "systems": [
+    {"system": "Kwenda MIS", "country_label": "Kwenda MIS", "class": "central", "platform": "", "owner": "FAS Local Development Institute (FAS-IDL), under MAT", "tiers": "national programme system; beneficiary registry built in 93 municipalities of all 18 provinces"},
+    {"system": "Single Social Registry (Cadastro Social Único, CSU)", "country_label": "CSU", "class": "", "platform": "", "owner": "MASFAMU", "tiers": ""},
+    {"system": "Social Action Management Information System (SIGAS)", "country_label": "SIGAS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Integrated State Financial Management System (SIGFE)", "country_label": "SIGFE", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Integrated State Asset Management System (SIGPE)", "country_label": "SIGPE", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages concern the Kwenda cash-transfer programme; municipal administrations appear as sites of social action centres and registrations, and nothing is stated about their offices' connection."
+}

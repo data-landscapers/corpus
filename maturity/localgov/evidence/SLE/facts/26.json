@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-01-sierra-leone-mof-pfm-reform-progress-report-jan-june-2025",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Ministry of Finance reports that rollout of PFM Smart, a web-based and real-time accounting system replacing the councils' ex-post Petra application, was complete at Freetown City Council, with all transactions from January 2025 in the system and transactions processed live with payment instructions printed from it; the statement is undated within a report on January to June 2025, and the report does not say how the council is connected.", "as_of": "2025-06", "date_precision": "month", "system": "PFM Smart", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:1", "fact": "One local council of 22, Freetown City Council, was working live in the web-based PFM Smart system in the Ministry of Finance's report on January to June 2025, with five more councils planned before the end of 2025 and all 22 by 2026; the one council is the capital city.", "as_of": "2025-06", "date_precision": "month", "system": "PFM Smart", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "application", "platform": "web-based, real-time accounting system upgraded from the Petra Accounting application", "owner": "Ministry of Finance, with support from the World Bank's Accountable Governance for Basic Service Delivery Project", "tiers": "live at Freetown City Council; end-user training also given to Western Area Rural District Council in April 2025; planned for all 22 local councils from 2025 to 2026"},
+    {"system": "Petra Accounting application", "country_label": "Petra", "class": "application", "platform": "Petra, an ex-post recording and reporting system", "owner": "", "tiers": "local councils"},
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "central", "platform": "", "owner": "Accountant General's Department, Ministry of Finance", "tiers": "over 90 ministries, departments and agencies; no local council is said to be on it"}
+  ],
+  "note": "The two facts rest on a council processing transactions live in a web-based system; the report names no connection, its provider or who pays for it. The file is an excerpt cut off at the fetch limit, inside the section on local councils."
+}

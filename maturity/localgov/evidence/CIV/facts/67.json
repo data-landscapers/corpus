@@ -1,0 +1,9 @@
+{
+  "slug": "2024-04-16-semlex-digitizing-civil-status-records-ivory-coast",
+  "facts": [],
+  "systems": [
+    {"system": "Digitised civil status registers (Grand-Bassam pilot)", "country_label": "digitization of civil status records", "class": "application", "platform": "Semlex as technical operator", "owner": "Office National de l'État Civil et de l'Identification (ONECI)", "tiers": "one commune, Grand-Bassam: over 200,000 records digitised in a 16-day pilot and the storage media handed to the mayor on 8 April 2024; nearly 250 civil status centres said to be open nationally"},
+    {"system": "National Register of Individuals (RNPP)", "country_label": "RNPP", "class": "central", "platform": "", "owner": "ONECI", "tiers": "national"}
+  ],
+  "note": "A vendor's account of a civil-registration digitisation pilot in one town hall: an application, logged for the records row. The document states no connection at the town hall; the registers were handed over on storage media."
+}

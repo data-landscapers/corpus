@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-23-gnb-ang-transformacao-digital-cmb-plus",
+  "facts": [],
+  "systems": [
+    {"system": "CMB+ (Projeto Integrado de Modernização e Transformação Digital da Câmara Municipal de Bissau)", "country_label": "CMB+", "class": "", "platform": "", "owner": "Câmara Municipal de Bissau", "tiers": "Bissau city council"},
+    {"system": "Portal Municipal de Bissau", "country_label": "Portal Municipal de Bissau", "class": "web", "platform": "", "owner": "Câmara Municipal de Bissau", "tiers": "Bissau city council"}
+  ],
+  "note": "Launch of the Bissau city council's CMB+ project and its municipal portal, a web system; nothing is stated about the office's connection."
+}

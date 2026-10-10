@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-03-anaden-comores-rencontre-secretariat-general-gouvernement",
+  "facts": [],
+  "systems": [
+    {"system": "messagerie de l'administration", "country_label": "messagerie de l'administration", "class": "backbone", "platform": "", "owner": "ANADEN, with the Secrétariat Général du Gouvernement", "tiers": "the administration's internal messaging, to be relaunched as of 3 September 2025; no tier stated"},
+    {"system": "DNS national .km", "country_label": "DNS national \".km\"", "class": "backbone", "platform": "", "owner": "ANADEN", "tiers": "national"}
+  ],
+  "note": "A meeting on relaunching the administration's messaging service and the .km domain; no local government office is said to be on either."
+}

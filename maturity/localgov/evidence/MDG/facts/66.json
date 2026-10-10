@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-prodigy-pges-tsimbazaza-datacenter-principal",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center Principal, Tsimbazaza", "country_label": "Data Center Principal", "class": "backbone", "platform": "", "owner": "Unité de Gouvernance Digitale, Présidence (PRODIGY, World Bank financed)", "tiers": "central; building fit-out works planned at August 2025"}
+  ],
+  "note": "Environmental and social management plan for a government data centre; commune offices appear only in mitigation measures for works, with no connection stated."
+}

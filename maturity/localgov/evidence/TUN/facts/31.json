@@ -1,0 +1,15 @@
+{
+  "slug": "2019-12-19-tunisie-decret-2019-1242-systeme-interactivite-citoyen",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic system for communication and interaction with the citizen",
+      "country_label": "المنظومة الإلكترونية للتواصل والتفاعل مع المواطن",
+      "class": "central",
+      "platform": "",
+      "owner": "Central Office for Citizen Relations, Presidency of the Government (Article 13)",
+      "tiers": "State services, public establishments and enterprises through their citizen relations offices; the citizen relations offices of local collectivities may join and use it (Article 3)"
+    }
+  ],
+  "note": "A decree of 19 December 2019: it permits local collectivities' citizen relations offices to join a national petitions system but states no office that has done so and nothing about their connection."
+}

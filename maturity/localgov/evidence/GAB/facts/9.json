@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-31-wearetech-gabon-rwanda-digital-transformation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Portail gouvernemental des services",
+      "country_label": "portail gouvernemental des services",
+      "class": "central",
+      "platform": "",
+      "owner": "Secrétariat général du Gouvernement",
+      "tiers": "In preparation: pilot-phase consultations opened in June 2026 with five ministries; at least ten services due by December 2026; no local government named"
+    },
+    {
+      "system": "Système intégré de gestion des ressources humaines et de la paie (SIGRH)",
+      "country_label": "SIGRH",
+      "class": "central",
+      "platform": "",
+      "owner": "Government of Gabon, under the Gabon Digital programme",
+      "tiers": "In progress; tiers not stated"
+    }
+  ],
+  "note": "An Interior, Security and Decentralisation ministry delegation's study visit to Kigali on e-government and Irembo; the 'collectivités locales' in the text is Rwanda's Ministry of Local Government. Nothing on Gabonese local government offices or their connection."
+}

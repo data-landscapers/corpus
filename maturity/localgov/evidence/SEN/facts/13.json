@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-17-senegal-anec-kaolack-civil-registry-budget-gap",
+  "facts": [],
+  "systems": [
+    {"system": "Logiciel de gestion de l'état civil (LGEC)", "country_label": "LGEC", "class": "application", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "471 of 629 civil registry centres digitised with it nationally, 75%, per ANEC in August 2026; fourth remediation phase in Kaolack region 10-20 August 2026, with agents of the communes of Nioro department, Ndiédieng and Kaolack trained"},
+    {"system": "Sama état civil", "country_label": "Sama état civil", "class": "web", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "platform being activated in the civil registry centres of Kaolack region, August 2026"},
+    {"system": "équipements informatiques remis aux centres d'état civil", "country_label": "équipements informatiques", "class": "equipment", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "handed to the civil registry centres of Kaolack region whose agents were trained, August 2026; no connection stated"}
+  ],
+  "note": "Counts civil registry centres running the civil-status software and reports equipment and training; it states no connection at the communes' offices. ANEC's director general says its 2026 budget had not been notified as of 2026-08-17."
+}

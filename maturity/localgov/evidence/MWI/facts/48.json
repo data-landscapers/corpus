@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-20-gsma-driving-digital-transformation-malawi-report",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network", "country_label": "Government Wide Area Network", "class": "backbone", "platform": "", "owner": "Government of Malawi", "tiers": "to be merged with MTL, Malawi Digital Broadcasting Network Limited and ESCOM Optical Fiber Communication, per the Budget Policy Statement of 28 February 2025; no offices on it are named"},
+    {"system": "Last Mile Connectivity Project", "country_label": "Last Mile Connectivity project", "class": "backbone", "platform": "", "owner": "Government of Malawi; rural mobile broadband programme managed by the MACRA Universal Service Fund", "tiers": "National Fibre Backbone of 3,000 kilometres north to south, deployed by Huawei for the government, and 136 rural towers"}
+  ],
+  "note": "Mobile industry report: the government network and the fibre backbone are named with no local government office said to be on them; local government appears only in the glossary."
+}

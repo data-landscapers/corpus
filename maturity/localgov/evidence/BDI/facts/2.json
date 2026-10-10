@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-13-burundi-decentralization-civil-registry-digitization-abp",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme numérique d'enregistrement des faits de l'état-civil", "country_label": "plateforme numérique d'enregistrement des faits de l'état-civil", "class": "application", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security", "tiers": "being scaled up; civil registration offices deployed at zone level; interoperability with 123 health facilities"}
+  ],
+  "note": "Civil registration platform is an application; the document states no connection at commune offices, only insufficient infrastructure and equipment as a challenge."
+}

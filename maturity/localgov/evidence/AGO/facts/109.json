@@ -1,0 +1,8 @@
+{
+  "slug": "2022-08-15-ago-implementation-completion-and-results-report-on-a-credit-in-the-amount",
+  "facts": [],
+  "systems": [
+    {"system": "School Management System (Sistema de Informação de Gestão Escolar, SIGE)", "country_label": "SIGE", "class": "central", "platform": "", "owner": "Ministry of Education", "tiers": "developed under the project after its 2017 restructuring, with data-collection training for education staff in provinces and municipalities; remote municipalities and schools faced an internet connectivity challenge in sending data and the government collected the information offline"}
+  ],
+  "note": "An education project's completion report. Its one statement near the subject is that remote municipalities and schools had difficulty with internet connectivity to send education data, so data were collected offline (project period 2017 to February 2022); it does not say whose office or what connection, so no value from the closed lists is recorded. Left for the parent to weigh."
+}

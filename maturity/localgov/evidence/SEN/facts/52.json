@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-16-aps-mbacke-sama-etat-civil-lancement",
+  "facts": [],
+  "systems": [
+    {"system": "Sama état civil", "country_label": "Sama état civil", "class": "web", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "online requests for birth, death and marriage certificates, delivered to a phone or computer; put into service at Mbacké on 2026-02-16 for a four-week test in five communes before extension to other collectivités territoriales; also lets the municipal civil registry centre plan requests and deliveries"},
+    {"system": "Logiciel de gestion de l'état civil (LGEC)", "country_label": "LGEC", "class": "application", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "described by ANEC's director general as the central database; any civil registry centre wanting Sama état civil must first install it"}
+  ],
+  "note": "The pilot launch of the citizens' civil-status platform in five communes; the document says the municipal registry centre will handle online requests through it and calls the LGEC the central database, but does not state how the centre is connected, so no connection fact is taken."
+}

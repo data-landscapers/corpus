@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-23-inic-sao-tome-estrategia-nacional-ciberseguranca-d3",
+  "facts": [],
+  "systems": [
+    {"system": "Rede do Governo", "country_label": "Rede do Governo", "class": "backbone", "platform": "", "owner": "Government; built with Brazil, Taiwan and the European Union", "tiers": "not stated; no local government office said to be on it"},
+    {"system": "Centro de Dados", "country_label": "Centro de Dados", "class": "backbone", "platform": "", "owner": "Government; built with Brazil, Taiwan and the European Union", "tiers": "not stated"},
+    {"system": "Government fibre-optic backbone", "country_label": "backbone de fibra ótica governamental", "class": "backbone", "platform": "", "owner": "Government", "tiers": "construction begun in 2017; reach not stated; no local government office said to be on it"}
+  ],
+  "note": "The draft cybersecurity strategy (version 1.3, 23 July 2024) names the government network, the data centre and a government fibre backbone begun in 2017 as national infrastructure, without saying which offices are on them; local government is not mentioned, and the action plan tables are empty in the capture."
+}

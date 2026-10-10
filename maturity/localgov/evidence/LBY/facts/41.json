@@ -1,0 +1,15 @@
+{
+  "slug": "2022-04-01-worldbank-wfp-social-assistance-programs-delivery-libya-codi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Social Solidarity Fund beneficiary databases",
+      "country_label": "",
+      "class": "central",
+      "platform": "",
+      "owner": "Social Solidarity Fund, under the Ministry of Social Affairs",
+      "tiers": "Separate databases held in the Fund's Basic Pension and Social Development departments; intake at its branches and offices is in person and on paper, and the Fund's 26 branches and about 60 offices include municipality branches"
+    }
+  ],
+  "note": "A social assistance diagnostic: municipal bodies appear only as the Sirte council's statement on food allocations, the mayor's residency check on pension applicants and the baladiya-level committees that issue transport cards. Nothing is stated on the connection, equipment or systems of municipal offices; the paper-based delivery it describes is that of a central fund's field offices, out of the connection class."
+}

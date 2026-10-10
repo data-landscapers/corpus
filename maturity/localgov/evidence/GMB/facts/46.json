@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-28-foroyaa-gambians-welcome-biometric-id-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Management System (NIMS)", "country_label": "GAM ID", "class": "central", "platform": "", "owner": "Gambia Immigration Department under the Ministry of Interior, with Margins ID Group", "tiers": "Immigration Department enrolment centres in the Greater Banjul Area from 4 August 2026, extending to provincial towns in September 2026"}
+  ],
+  "note": "The enrolment centres are offices of the Gambia Immigration Department, a national agency, so out of scope; Kanifing Municipality appears only as the place where one centre stands. Nothing is stated about a local government office."
+}

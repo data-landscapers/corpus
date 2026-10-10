@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-cote-divoire-sygidan-cti-collectivites-territoriales",
+  "facts": [],
+  "systems": [
+    {"system": "SYGIDAN-CTI", "country_label": "Système de Gestion Intégrée des Données et Archivages Numériques des Collectivités Territoriales Ivoiriennes", "class": "application", "platform": "web tool of fourteen modules: three-year programmes, budgets, budget execution, administrative account, deliberations, personnel and payroll, mail, assets, meetings, decentralised cooperation", "owner": "Direction Générale de la Décentralisation et du Développement Local (DGDDL), Ministère de l'Intérieur et de la Sécurité", "tiers": "collectivités territoriales and their supervising directorate; the flyer gives no number of authorities using it"}
+  ],
+  "note": "The supervising directorate's undated flyer (year inferred as 2022) presenting a web management system for local authorities: an application, logged for the records row. It describes online transmission and interaction with the supervising ministry in the future tense ('permettra') and names no local authority as working in it, so no connection fact is taken; the parent may wish to weigh it under the 'working online' rule."
+}

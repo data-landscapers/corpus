@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-03-a-smart-city-vision-must-never-lose-sight-of-basic-service-delivery",
+  "facts": [],
+  "systems": [
+    {"system": "City of Windhoek municipal fibre-optic infrastructure", "country_label": "the city's existing fibre-optic infrastructure", "class": "backbone", "platform": "Fibre-optic network", "owner": "City of Windhoek", "tiers": "Windhoek; to be commercialised and used for digital governance, with no municipal office said to be on it"},
+    {"system": "People-Centred Smart City Strategy 2026-2036", "country_label": "People-Centred Smart City Strategy 2026-2036", "class": "capacity", "platform": "", "owner": "City of Windhoek", "tiers": "Windhoek"}
+  ],
+  "note": "An editorial on Windhoek's smart-city strategy; it names the city's fibre network as an asset to be commercialised but does not state that any municipal office is connected by it or works over it."
+}

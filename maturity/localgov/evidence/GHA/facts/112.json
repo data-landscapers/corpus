@@ -1,0 +1,8 @@
+{
+  "slug": "2022-05-23-gha-three-ngos-sensitise-greater-accra-communities-on-adr",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Case Tracking System (CTS)", "country_label": "Ghana CTS", "class": "central", "platform": "integrated software with online, offline and Android versions", "owner": "Government of Ghana justice institutions (Police Service, EOCO, Attorney-General, Legal Aid Commission, Prisons Service), supported by USAID", "tiers": "justice sector institutions and police stations; launched 2018"}
+  ],
+  "note": "A report on public education about the criminal justice case tracking system: municipalities (Ashaiman, Amasaman, Teshie) appear only as the places where meetings were held; the system is the justice institutions', not the assemblies', and no assembly office connection is described."
+}

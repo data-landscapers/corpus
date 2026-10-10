@@ -1,0 +1,9 @@
+{
+  "slug": "2023-10-01-cpv-pacto-de-parceria-melhorar-a-inclusao-e-qualidade-das-aprendizagens-da",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE", "country_label": "Sistema Integrado de Gestão Escolar (SIGE)", "class": "central", "platform": "", "owner": "Ministério da Educação", "tiers": "basic and secondary schools; kindergartens, 46.7% of the 582 belonging to municipal councils, are to report through it by 2026"},
+    {"system": "SIGOF", "country_label": "Sistema Integrado de Gestão Orçamental e Financeira (SIGOF)", "class": "central", "platform": "", "owner": "", "tiers": "each cost centre, at the country's different administrative levels; no municipal office stated"}
+  ],
+  "note": "An education partnership compact; municipal councils appear as owners of kindergartens and as partners to be strengthened, and nothing is said of any municipal office's connection."
+}

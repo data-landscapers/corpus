@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Chad National Data Center (PMICE Phase I)", "country_label": "Chad National Data Center", "class": "backbone", "platform": "", "owner": "SOTEL (Société des Télécommunications du Tchad), 100% Government of Chad", "tiers": "N'Djamena; under construction; customers given as government ministries and state agencies"}
+  ],
+  "note": "One register row on a national data centre under construction in N'Djamena; no local government office is said to be on it. The register calls itself an AI-compiled working analysis."
+}

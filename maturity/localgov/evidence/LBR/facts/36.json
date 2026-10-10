@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-07-liberia-mopt-national-ict-policy-2025-2030-draft",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "GovNet", "class": "backbone", "platform": "", "owner": "LTC Mobile (Liberia Telecommunications Corporation), the state-owned operator", "tiers": "the Liberian government and its agencies; no local government office is said to be on it"}
+  ],
+  "note": "A draft national ICT policy. It names GovNet as the government network serving the government and its agencies, and charges the Ministry of Internal Affairs with seeing ICT infrastructure reach rural areas and with coordinating with local governments on development plans; it does not put any local government office on the network or name their connection as an objective."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-fayda-national-id-ethio-telecom",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda National ID", "country_label": "Fayda", "class": "central", "platform": "", "owner": "National ID Program; registration by Ethio telecom and partners", "tiers": "134 Ethio telecom service centres in the regions and 58 in and around Addis Ababa, plus temporary registration sites, some at municipality, city administration, sub-city and woreda offices"},
+    {"system": "Kebele resident ID", "country_label": "City and Regional Government Resident ID cards (Kebele IDs)", "class": "application", "platform": "", "owner": "local government", "tiers": "issued by local government; kept alongside Fayda, not replaced by it"}
+  ],
+  "note": "Ethio telecom's page on registering for the national ID: local government offices appear only as the addresses of temporary registration sites and as issuers of the Kebele ID. Nothing is stated about those offices' own connection."
+}

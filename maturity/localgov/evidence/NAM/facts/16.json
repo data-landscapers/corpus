@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-16-cow-eyes-digital-makeover-with-rail-fibre-and-smart-city-push",
+  "facts": [],
+  "systems": [
+    {"system": "City of Windhoek fibre-optic network", "country_label": "the city's fibre-optic network", "class": "backbone", "platform": "Fibre-optic network", "owner": "City of Windhoek council", "tiers": "Windhoek; to be commercialised and used as the digital backbone for smart-city applications, digital governance and service delivery, with no municipal office said to be on it"},
+    {"system": "People-Centred Smart City Strategy 2026-2036", "country_label": "People-Centred Smart City Strategy 2026-2036", "class": "capacity", "platform": "", "owner": "City of Windhoek", "tiers": "Windhoek; unveiled on a Monday in June 2026, with no cost, timeline or funding stated"}
+  ],
+  "note": "The council's own fibre is described as an asset to commercialise and a backbone for smart-city applications; the article does not state that municipal offices are connected by it or what staff do over it, so no fact of the connection class is recorded."
+}

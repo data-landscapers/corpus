@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-13-techreviewafrica-world-bank-mission-uganda-digital-acceleration-project",
+  "facts": [],
+  "systems": [
+    {"system": "Uganda Digital Acceleration Project (UDAP)-GovNet", "country_label": "UDAP-GovNet", "class": "backbone", "platform": "", "owner": "NITA-U and the Ministry of ICT and National Guidance, supported by the World Bank", "tiers": "national; described as expanding digital connectivity and digital government services, with no local government office named"},
+    {"system": "National Data Center", "country_label": "National Data Center", "class": "backbone", "platform": "", "owner": "NITA-U", "tiers": "national; visited by the World Bank mission"}
+  ],
+  "note": "A World Bank mission's review of UDAP-GovNet at national sites; no local government office is named as connected."
+}

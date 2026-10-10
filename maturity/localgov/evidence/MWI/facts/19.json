@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Malawi National Data Center Blantyre", "country_label": "Malawi National Data Center Blantyre", "class": "backbone", "platform": "", "owner": "Government of Malawi (Ministry of Information and Digitalization / ESCOM)", "tiers": "Blantyre; operational 2022; serves government ministries, departments and agencies; no local government office named"},
+    {"system": "Malawi Government Data Centre Lilongwe", "country_label": "Malawi Government Data Centre Lilongwe", "class": "backbone", "platform": "", "owner": "Government of Malawi (Department of e-Government / PPPC)", "tiers": "Lilongwe; operational 2025; World Bank-funded; serves government ministries, departments and agencies; no local government office named"}
+  ],
+  "note": "The Malawi passages are four rows of a data-centre ownership register, which its own header marks as an AI-assisted compilation; two are government data centres, and no local government office is named on either."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2018-07-01-nigeria-open-data-policy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data.gov.ng",
+      "country_label": "Data.gov.ng",
+      "class": "central",
+      "platform": "",
+      "owner": "Federal Government; the policy is maintained by the Federal Ministry of Communications",
+      "tiers": "Federal ministries, departments and agencies; to be federated later with state portals so that a search links to state and local government datasets"
+    }
+  ],
+  "note": "A federal open data policy of July 2018 applying to federal bodies only; local governments appear once, as a future source of datasets linked from Data.gov.ng. Nothing on local government offices or their connection."
+}

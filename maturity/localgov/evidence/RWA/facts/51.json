@@ -1,0 +1,16 @@
+{
+  "slug": "2025-07-09-rdap-fast-track-2026-newtimes",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The New Times reports, from RISA's briefing to lawmakers on 7 July 2025, that the Digital Acceleration Project running 2022 to 2026 includes plans to build a more resilient national government network (GovNet) linking public institutions at central, district, sector and cell levels, and to deliver broadband to government offices that lack internet.", "as_of": "2025-07-07", "date_precision": "day", "system": "National government network (GovNet)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The New Times reports that the Digital Acceleration Project, of Rwf280 billion (US$200 million), is funded by the World Bank and gives US$33.5 million to the subcomponent delivering broadband to government offices, schools, hospitals and public service access points and building the government network, as briefed on 7 July 2025.", "as_of": "2025-07-07", "date_precision": "day", "system": "National government network (GovNet)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The New Times reports that the Government of Rwanda is rolling out the Digital Acceleration Project, with the chief executive of the Rwanda Information Society Authority briefing lawmakers on its progress, 55 per cent complete, on 7 July 2025.", "as_of": "2025-07-07", "date_precision": "day", "system": "National government network (GovNet)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "National government network (GovNet)", "country_label": "GovNet", "class": "connection", "platform": "", "owner": "Rwanda Information Society Authority (RISA)", "tiers": "planned to link public institutions at central, district, sector and cell levels"},
+    {"system": "Public Wi-Fi in key commercial areas", "country_label": "", "class": "public-access", "platform": "", "owner": "", "tiers": "planned"},
+    {"system": "Digital Ambassadors Programme (DAP)", "country_label": "Digital Ambassadors Programme", "class": "public-access", "platform": "", "owner": "RISA", "tiers": "to cover all 2,148 cells"},
+    {"system": "Building Permit Management Information System", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "upgraded under the project"},
+    {"system": "E-Ubuzima", "country_label": "E-Ubuzima", "class": "central", "platform": "", "owner": "", "tiers": "hospitals"}
+  ],
+  "note": "The government network is stated as a plan; the article does not say any district, sector or cell office is yet connected."
+}

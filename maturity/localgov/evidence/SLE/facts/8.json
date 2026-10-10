@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Orange Sierra Leone Freetown Data Centre", "country_label": "Orange Sierra Leone Freetown Data Centre", "class": "backbone", "platform": "", "owner": "Orange Sierra Leone (Orange SA)", "tiers": "Freetown; operational since 2018; Government of Sierra Leone listed as a tenant"},
+    {"system": "Orange Sierra Leone Bo Data Centre", "country_label": "Orange Sierra Leone Bo Data Centre", "class": "backbone", "platform": "", "owner": "Orange Sierra Leone (Orange SA)", "tiers": "Bo; operational since 2025; Government of Sierra Leone and rural communities listed as customers"},
+    {"system": "Africell Sierra Leone Data Centre", "country_label": "Africell Sierra Leone Data Centre", "class": "backbone", "platform": "", "owner": "Africell Sierra Leone", "tiers": "Freetown; under construction"}
+  ],
+  "note": "A register of data centres and their owners, compiled with AI assistance by its own header; its Sierra Leone rows name three operator-owned data centres and no local government office."
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "2021-01-01-maroc-dgct-strategie-transformation-digitale-collectivites-territoriales",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Interior Ministry's DGCT says the digital transformation of local authorities took the form of national platforms designed and deployed for their functions (budget, expenditure, revenue, staff, civil status), with use of the applications pooled for all local authorities; it gives no count and does not state that staff work in them at commune offices or over what connection, and the date is the page's published year.", "as_of": "2021", "date_precision": "year", "system": "national platforms for collectivités territoriales (GID, GIR, Indimaj, Rokhas.ma and others)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The page states that the Ministry of the Interior, through the DGCT, runs the digital transformation of local authorities and that the DGCT drew up a digital transformation strategy for them in 2021; the strategy's four axes are not reproduced and no connection of offices is named.", "as_of": "2021", "date_precision": "year", "system": "national platforms for collectivités territoriales (GID, GIR, Indimaj, Rokhas.ma and others)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Rokhas.ma", "country_label": "Rokhas.ma", "class": "", "platform": "", "owner": "Ministère de l'Intérieur / DGCT", "tiers": "collectivités territoriales, national platform"},
+    {"system": "Chikaya.ma", "country_label": "Chikaya.ma", "class": "", "platform": "", "owner": "Ministère de l'Intérieur / DGCT", "tiers": "collectivités territoriales, national platform"},
+    {"system": "Chafaya.ma", "country_label": "Chafaya.ma", "class": "", "platform": "", "owner": "Ministère de l'Intérieur / DGCT", "tiers": "collectivités territoriales, national platform"},
+    {"system": "Watiqa.ma", "country_label": "Watiqa.ma", "class": "", "platform": "", "owner": "Ministère de l'Intérieur / DGCT", "tiers": "collectivités territoriales, national platform"},
+    {"system": "Alhalamadania.ma", "country_label": "Alhalamadania.ma", "class": "", "platform": "", "owner": "Ministère de l'Intérieur / DGCT", "tiers": "collectivités territoriales, national platform"},
+    {"system": "Majaliss", "country_label": "Majaliss", "class": "", "platform": "", "owner": "Ministère de l'Intérieur / DGCT", "tiers": "collectivités territoriales, national platform"},
+    {"system": "GID", "country_label": "Gestion intégrée des dépenses", "class": "application", "platform": "", "owner": "", "tiers": "collectivités territoriales, national platform"},
+    {"system": "GIR", "country_label": "Gestion intégrée des recettes", "class": "application", "platform": "", "owner": "", "tiers": "collectivités territoriales, national platform"},
+    {"system": "Indimaj", "country_label": "Indimaj (actes RH)", "class": "application", "platform": "", "owner": "", "tiers": "collectivités territoriales, national platform"}
+  ],
+  "note": "The two facts rest on ruling 4 (working in a national system counts as a connection); the page itself states no connection, no office and no count, and names six of the platforms without saying what they do."
+}

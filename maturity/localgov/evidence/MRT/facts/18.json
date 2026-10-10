@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-01-wardip-appel-offres-csirt-national-soc-riad-additif-2",
+  "facts": [],
+  "systems": [
+    {"system": "RIAD", "country_label": "Réseau Intranet de l'Administration à haut Débit (RIAD)", "class": "backbone", "platform": "", "owner": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration; WARDIP-Mauritanie project unit, IDA credit 7445-MR", "tiers": "not stated; no local government office said to be on it"}
+  ],
+  "note": "A tender addendum setting 30 September 2025 as the bid deadline for a national CSIRT and a security operations centre for the government intranet RIAD; it names the network and says nothing of who is connected to it."
+}

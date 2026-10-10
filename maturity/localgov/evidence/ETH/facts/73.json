@@ -1,0 +1,23 @@
+{
+  "slug": "2019-05-01-ssd-final-report-for-multi-country-evaluation-for-birth-registration-for-m",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Civil registration (birth registration) data",
+      "country_label": "CRVS, under the Vital Events Registration Agency (VERA; INVEA at federal level)",
+      "class": "application",
+      "platform": "",
+      "owner": "Vital Events Registration Agency, with structures and staff at national, regional and woreda levels",
+      "tiers": "registration centres at regional, woreda and kebele levels; not computerised at woreda level by 2018, the evaluation recommending computerisation of birth registration data at least to woreda level and where possible to kebele level"
+    },
+    {
+      "system": "Health Management Information System (DHIS II)",
+      "country_label": "HMIS / DHIS II",
+      "class": "",
+      "platform": "DHIS 2",
+      "owner": "Ministry of Health",
+      "tiers": "health facilities report birth notifications as an indicator; targeted woredas' use of the data for planning is a project indicator"
+    }
+  ],
+  "note": "Passages of a UNICEF evaluation covering 2014 to 2018: woredas appear as project areas and as a tier of civil registration and health planning; the passages state nothing on woreda offices' connection, and the only statement on computers is a recommendation to computerise registration data down to woreda level."
+}

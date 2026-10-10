@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-25-aps-prodap-phase-pilote-mbour-six-communes",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "pilot", "fact": "APS reports that the pilot phase of PRODAP, Sénégal Numérique SA's public administration digitalisation project whose first component is the consolidation of the network and digital infrastructure, targets six communes: Mbour, Dakar-Plateau, Ngor, Rufisque, Kaffrine and Kaolack; the document does not say that the communes' offices have been connected.", "as_of": "2026-04-24", "date_precision": "day", "system": "Projet de promotion de la digitalisation de l'administration publique (PRODAP)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The pilot phase of PRODAP was launched at Mbour on Friday 24 April 2026 by its coordinator, starting with change-management activities and focus groups in the first of six pilot communes; its components are network and digital infrastructure, digitalised public services and security.", "as_of": "2026-04-24", "date_precision": "day", "system": "Projet de promotion de la digitalisation de l'administration publique (PRODAP)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "APS states that PRODAP, piloted in six communes from 24 April 2026, is a project carried by Sénégal Numérique SA (SENUM), the state's digital company; its financing is not stated.", "as_of": "2026-04-24", "date_precision": "day", "system": "Projet de promotion de la digitalisation de l'administration publique (PRODAP)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Projet de promotion de la digitalisation de l'administration publique (PRODAP)", "country_label": "PRODAP", "class": "connection", "platform": "", "owner": "Sénégal Numérique SA (SENUM)", "tiers": "pilot phase in six communes: Mbour, Dakar-Plateau, Ngor, Rufisque, Kaffrine and Kaolack; three components: network and digital infrastructure, digitalisation of public services with outreach and training, security of the digital service offer"},
+    {"system": "plateformes existantes des communes", "country_label": "", "class": "", "platform": "", "owner": "the communes", "tiers": "Mbour's mayor says PRODAP will identify existing platforms, upgrade them and centralise them with Sénégal Numérique's arrangement; not described"}
+  ],
+  "note": "The class is read from the project's first component, network and digital infrastructure; the document itself never says a commune's office is or will be connected, and the parent may prefer to hold PRODAP as unclassified."
+}

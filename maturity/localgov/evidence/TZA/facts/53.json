@@ -1,0 +1,34 @@
+{
+  "slug": "2024-03-22-tza-decentralizing-user-support-in-dhis2-a-case-of-hmis-in-tanzania",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The UDSM DHIS2 Lab states that health data is entered into the national DHIS2 directly at facilities or at the district level, and that district-level health managers across 184 district councils open a user-support app inside DHIS2 to request dataset changes for about 9,000 facilities; it does not say the work is done at the council's own office or over what connection. No date is given for the statement, so the document's published date (itself a proxy) is used.",
+      "as_of": "2024-03-22",
+      "date_precision": "day",
+      "system": "DHIS2 entry and user support at district level",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "HMIS (national health management information system)",
+      "class": "application",
+      "platform": "DHIS2 (version 2.32+ for the app)",
+      "owner": "Ministry of Health; supported by the UDSM DHIS2 Lab",
+      "tiers": "Health facilities and district level, 184 district councils; national since 2010"
+    },
+    {
+      "system": "DHIS2 User Support App",
+      "country_label": "User Support App",
+      "class": "application",
+      "platform": "DHIS2 app",
+      "owner": "UDSM DHIS2 Lab",
+      "tiers": "District and facility health managers; in use since March 2022"
+    }
+  ],
+  "note": "The one fact is inferred from district-level online work in a national system; the document names no office connection and the parent should weigh whether it meets the 'at their own offices' test."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-30-lessor-agetic-intranet-point-ml",
+  "facts": [],
+  "systems": [
+    {"system": "Government Intranet: a private, secured network into which AGETIC is progressively interconnecting public and para-public services, which the minister asked on 2025-12-29 to be extended to the new administrative regions", "country_label": "Intranet de l'Administration", "class": "backbone", "platform": "", "owner": "AGETIC", "tiers": "public and para-public services; no local government office named"},
+    {"system": "Single-window portal of digitalised public services (13 services integrated)", "country_label": "Guichet unique", "class": "central", "platform": "", "owner": "AGETIC", "tiers": ""},
+    {"system": "Government messaging system (a draft decree would make its use mandatory)", "country_label": "messagerie gouvernementale", "class": "", "platform": "", "owner": "AGETIC", "tiers": ""}
+  ],
+  "note": "The national ICT agency's board of December 2025 on the government intranet, the single-window portal and the .ml domain; the intranet is said to link public and para-public services, and no local government office is said to be on it."
+}

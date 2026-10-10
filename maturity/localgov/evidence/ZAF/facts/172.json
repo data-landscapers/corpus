@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-27-itweb-bolt-e-hailing-compliance-push-provinces",
+  "facts": [],
+  "systems": [
+    {"system": "Western Cape operating-licence application process", "country_label": "", "class": "upper-tier", "platform": "", "owner": "Western Cape Mobility Department", "tiers": "province; e-hailing to be added as a service option for new operating-licence applicants"}
+  ],
+  "note": "E-hailing licensing at provincial level; 'municipality' appears only in a regulator's request for operator numbers per municipality. Nothing on any municipal office's connection."
+}

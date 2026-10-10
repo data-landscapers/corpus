@@ -1,0 +1,42 @@
+{
+  "slug": "2025-10-31-who-afro-ethiopia-digitalizes-health-emergency-information-systems",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "equipped:72%",
+      "fact": "WHO's Ethiopia office states that the DHIS2 platform for disease surveillance and routine health data covers 72 per cent of districts nationwide, with over 2,975 public health institute staff at national, regional and woreda levels trained; no numerator or count of districts is given, health facilities are not yet on it, and the release does not say how woreda-level staff are connected.",
+      "as_of": "2025-10-31",
+      "date_precision": "day",
+      "system": "District Health Information System 2 (DHIS2), surveillance",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "District Health Information System 2 (DHIS2), surveillance and routine health data",
+      "country_label": "DHIS2",
+      "class": "application",
+      "platform": "DHIS2",
+      "owner": "Ethiopian Public Health Institute, with WHO support",
+      "tiers": "national, regional and woreda levels; 72 per cent of districts covered; extension to health facilities planned"
+    },
+    {
+      "system": "Electronic Public Health Emergency Management system (ePHEM)",
+      "country_label": "ePHEM",
+      "class": "central",
+      "platform": "developed jointly by WHO and the Ethiopian Public Health Institute",
+      "owner": "Ethiopian Public Health Institute",
+      "tiers": "fully operational at national level; regional cascading under way, 70 Amhara Region staff trained in 2025"
+    },
+    {
+      "system": "Epidemic Intelligence from Open Sources (EIOS)",
+      "country_label": "EIOS",
+      "class": "central",
+      "platform": "WHO EIOS",
+      "owner": "Ethiopian Public Health Institute",
+      "tiers": "national"
+    }
+  ],
+  "note": "The districts here are reached through the health sector's surveillance staff at woreda level; the release says the platform covers the districts, not that woreda offices are connected."
+}

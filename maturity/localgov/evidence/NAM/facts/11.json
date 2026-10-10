@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-04-namibia-mp-data-control-concerns-china-smart-city-grant",
+  "facts": [],
+  "systems": [
+    {"system": "Smart-city grant from China (N$245 million)", "country_label": "smart-city grant", "class": "city-systems", "platform": "Not stated; the MP describes a system recording who moves through places, in which vehicle and through which gate, with software licences, cloud services, maintenance and cybersecurity from one provider", "owner": "Not stated; agreements, contractors and data architecture are unpublished according to the MP", "tiers": "Not stated"},
+    {"system": "Satellite ground-data receiving station", "country_label": "satellite ground-data receiving station", "class": "central", "platform": "Receives CBERS-4 remote-sensing data; Chinese-supplied", "owner": "Operated by fourteen trained Namibians at the Telecom Earth Station", "tiers": "Telecom Earth Station outside Windhoek, handed over February 2026"}
+  ],
+  "note": "An opposition MP's position on data control over a Chinese smart-city grant; nothing is stated about the connection of any local authority's office."
+}

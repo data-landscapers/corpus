@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-05-burkina-faso-370-localities-91-percent-2025-goals",
+  "facts": [],
+  "systems": [
+    {"system": "dedicated government network", "country_label": "dedicated government network", "class": "backbone", "platform": "", "owner": "Ministry of Digital Transition, Posts and Electronic Communications", "tiers": "planned for 2026; no tier or commune office named"},
+    {"system": "Zama Tchéy citizen centers", "country_label": "Zama Tchéy", "class": "central", "platform": "", "owner": "Ministry of Digital Transition, Posts and Electronic Communications, with La Poste", "tiers": "agreement signed in 2025 to build 20"}
+  ],
+  "note": "No fact: the ministry's review of its 2025 objectives; the 370 localities given telecom coverage are places reached by public networks, and the dedicated government network is a 2026 plan with no local government office named."
+}

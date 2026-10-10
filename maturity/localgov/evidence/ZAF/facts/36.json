@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-26-narssa-managing-electronic-records-guidance-page",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Document and Records Management Systems", "country_label": "Integrated Document and Records Management Systems", "class": "application", "platform": "any product meeting SANS (ISO) 16175-2:2014, MoReq2010 or US DoD 5015.2", "owner": "each governmental body, as required by the National Archives and Records Service", "tiers": "governmental bodies generally; the page says not many have the capacity to implement them fully"}
+  ],
+  "note": "Standing national guidance on electronic records for governmental bodies, an application requirement; it does not name local government or state anything on office connection."
+}

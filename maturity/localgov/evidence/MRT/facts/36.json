@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register", "country_label": "Registre national de la population", "class": "central", "platform": "", "owner": "Ministry of the Interior, Promotion of Decentralisation and Local Development", "tiers": "enrolment at the competent centres; 238 local identification commissions constituted at the level of all communes since late September 2025"}
+  ],
+  "note": "The interior minister's answer to parliament on civil status enrolment; the register and its centres are the ministry's, the 238 commissions sit at commune level, and nothing is stated about a connection at a commune's own office."
+}

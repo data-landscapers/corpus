@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "TelOne Harare Data Centre", "country_label": "", "class": "backbone", "platform": "", "owner": "TelOne (Pvt) Ltd, wholly owned by the Government of Zimbabwe", "tiers": "Harare; operational since 2008; customers listed as ISPs, mobile operators, enterprise and government"},
+    {"system": "Africa Data Centres Harare", "country_label": "", "class": "backbone", "platform": "", "owner": "Africa Data Centres (Econet Group)", "tiers": "Harare; operational since 2015"},
+    {"system": "Dandemutande data centres", "country_label": "", "class": "backbone", "platform": "", "owner": "Dandemutande Investments (Pvt) Ltd", "tiers": "Harare (2015) and Bulawayo (2020) operational; a further Harare site planned"},
+    {"system": "Econet InfraCo IT Park and Data Centre", "country_label": "", "class": "backbone", "platform": "", "owner": "Econet InfraCo", "tiers": "Harare; planned"}
+  ],
+  "note": "A register of data centre ownership, by its own header an AI-compiled working dataset; its Zimbabwe rows list six facilities in Harare and Bulawayo and name no local government office as connected."
+}

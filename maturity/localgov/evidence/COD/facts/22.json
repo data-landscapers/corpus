@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "birth registration registers", "country_label": "", "class": "application", "platform": "paper carbon-copy registers, four copies per event", "owner": "", "tiers": "877 of 979 local registry offices given as rural and entirely on paper with no computers or mobile technology, on reports of 2019; a pilot in urban Masina is mentioned; the offices are not said to be a local government's"}
+  ],
+  "note": "No fact: the source is the one study.json excludes as an AI-assisted compilation, and its DR Congo rows describe clinics, schools, police stations and registry offices recording on paper, not the connection of a local government office."
+}

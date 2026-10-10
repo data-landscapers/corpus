@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira",
+  "facts": [],
+  "systems": [
+    {"system": "backbone national en fibre optique de Sénégal Numérique SA", "country_label": "réseau dorsal (backbone) national", "class": "backbone", "platform": "", "owner": "Sénégal Numérique SA (SENUM SA)", "tiers": "national; interconnected with Mali's SMTD-SA backbone at Kidira-Diboli on 2026-10-05; no local government office said to be on it"}
+  ],
+  "note": "The inauguration of a cross-border backbone interconnection; no local government office is said to be connected."
+}

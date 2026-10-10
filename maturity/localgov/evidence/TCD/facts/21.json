@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-01-chad-direct-and-indirect-tax-changes-in-finance-law-2026",
+  "facts": [],
+  "systems": [
+    {"system": "e-Tax", "country_label": "e-Tax system", "class": "central", "platform": "", "owner": "tax administration", "tiers": "national; exclusive channel for tax compliance under the Finance Law 2026, effective 2026-01-01"},
+    {"system": "Standardised electronic invoices (e-invoices)", "country_label": "standardized electronic invoices", "class": "central", "platform": "", "owner": "tax administration", "tiers": "mandatory for public expenditure under the Finance Law 2026"}
+  ],
+  "note": "KPMG's list of Finance Law 2026 measures; the only local government item is the decentralisation of the tax on inhabited dwellings to municipalities. Nothing on their offices' connection."
+}

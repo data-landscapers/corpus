@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-27-angop-angosat-2-bengo-quiage",
+  "facts": [],
+  "systems": [
+    {"system": "Conecta Angola", "country_label": "ponto do Conecta Angola", "class": "public-access", "platform": "ANGOSAT-2 satellite", "owner": "Gabinete de Gestão do Programa Espacial Nacional (GGPEN), under MINTTICS", "tiers": "a point in the commune of Quiage, Bula Atumba municipality, Bengo, for about 5,000 residents; the project takes satellite internet to border zones and isolated communities"}
+  ],
+  "note": "A satellite internet point for the residents of a commune; no local government office is said to be connected."
+}

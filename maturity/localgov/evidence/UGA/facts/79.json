@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-01-uga-the-jlos-bulletin-special-edition-on-e-justice-a-digital-justice-ecosy",
+  "facts": [],
+  "systems": [
+    {"system": "DistrictNet", "country_label": "DistrictNet programme", "class": "", "platform": "", "owner": "Government of Uganda", "tiers": "Local government levels; said to have begun in 2002 to provide transparency and improve public information using ICTs, with no description of what was installed"}
+  ],
+  "note": "Bulletin on justice-sector systems of central agencies (courts, police, prosecution, prisons, URSB, immigration, NIRA). Lack of internet connectivity is stated for upcountry offices of those agencies, not for local governments. DistrictNet (2002) is named in one sentence without saying what it does; municipalities appear only as users of a non-profit's feedback tool."
+}

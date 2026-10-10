@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration at Citizens' Reception Centres", "country_label": "Centres d'accueil des citoyens (CAC)", "class": "central", "platform": "", "owner": "ANRPTS", "tiers": "reception centres across the country, including rural areas"}
+  ],
+  "note": "The Mauritania rows cover rural clinics, schools, police posts and the national agency's civil registration centres, none of them a local government office; the source is also an AI-assisted compilation by its own header and excluded by study.json."
+}

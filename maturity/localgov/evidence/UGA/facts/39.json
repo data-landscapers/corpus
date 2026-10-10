@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-13-service-uganda-centres-groundbreaking",
+  "facts": [],
+  "systems": [
+    {"system": "Service Uganda Centres", "country_label": "Service Uganda Centre (SUC)", "class": "central", "platform": "UGHub, the national data integration platform", "owner": "NITA-U under UDAP-GovNet, with the ministries of Public Service, Works and Transport, and ICT and National Guidance, and Posta Uganda", "tiers": "three regional hubs in Posta Uganda facilities: Gulu (works begun 13 March 2026), Mbarara and Tororo"},
+    {"system": "Uganda Digital Acceleration Project - Government Network (UDAP-GovNet)", "country_label": "UDAP-GovNet", "class": "backbone", "platform": "", "owner": "NITA-U, supported by the World Bank", "tiers": "described as expanding high-speed internet to remote and refugee-hosting areas and streamlining government services; no local government office named"}
+  ],
+  "note": "NITA-U's notice of the Gulu groundbreaking; the centres are national one-stop shops (class central), and no local government office is said to be connected."
+}

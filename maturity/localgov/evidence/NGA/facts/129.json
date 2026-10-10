@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-25-lagos-digital-house-numbering-identity-project",
+  "facts": [],
+  "systems": [
+    {"system": "Lagos Identity Project", "country_label": "Lagos Identity Project", "class": "upper-tier", "platform": "QR-coded digital address plates linked to a centralised property data system, built with the geospatial firm Interspatial", "owner": "Lagos State Government (Enterprise Geographic Information System, e-GIS); fully state-funded", "tiers": "Lagos State; piloted in Eti-Osa Local Government Area from June 2025, to scale across all 57 local governments and local council development areas"}
+  ],
+  "note": "A state government's property-addressing system, launched 24 June 2025 and piloted in one local government area; the areas are where plates are fixed. Nothing on local government offices or their connection."
+}

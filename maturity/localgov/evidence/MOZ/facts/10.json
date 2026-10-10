@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-08-cedsif-sistema-de-gestao-autarquica-e-sga-especificacao",
+  "facts": [],
+  "systems": [
+    {"system": "e-SGA", "country_label": "Sistema de Gestão Autárquica (e-SGA)", "class": "application", "platform": "suite of 22 interoperable modules, specified by CEDSIF", "owner": "CEDSIF for ANAMM (the municipal association, named as client)", "tiers": "municipalities (autarquias); a specification, with no municipality said to be using it"}
+  ],
+  "note": "An undated CEDSIF portfolio page specifying what e-SGA should be: one integrated municipal management system of 22 modules (revenue, land, licensing, multichannel counter with online services, and others). An application, not a connection; no office is said to be connected or working in it."
+}

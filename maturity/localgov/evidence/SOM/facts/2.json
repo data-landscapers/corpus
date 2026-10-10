@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Somalia National Data Centre", "country_label": "Somalia National Data Centre", "class": "backbone", "platform": "", "owner": "Ministry of Communications and Technology, Federal Government of Somalia", "tiers": "Mogadishu; under construction; customers given as federal government ministries"}
+  ],
+  "note": "A data-centre ownership register; its Somalia rows are two telecom operators' facilities and the national data centre under construction, with no local government office said to be connected to anything."
+}

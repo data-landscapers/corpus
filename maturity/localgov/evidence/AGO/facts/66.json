@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-29-decreto-presidencial-271-25-regulamento-geral-comunicacoes-electronicas-texto-integral",
+  "facts": [],
+  "systems": [
+    {"system": "rede privativa do Estado", "country_label": "rede privativa do Estado", "class": "backbone", "platform": "", "owner": "the State", "tiers": "not stated"}
+  ],
+  "note": "A regulation that only lists the State's private network among network categories and defined terms; it says nothing of any local government office being on it."
+}

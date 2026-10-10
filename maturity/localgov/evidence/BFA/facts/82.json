@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-03-bfa-sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisat",
+  "facts": [],
+  "systems": [
+    {"system": "VENEEM", "country_label": "plateforme VENEEM", "class": "application", "platform": "", "owner": "Direction générale de la modernisation de l'état civil (DGMEC); training financed by the regional project PREGOLS under the 2026 budget year", "tiers": "commune of Pouni: central civil status offices and secondary centres, where agents were trained from 31 August to 2 September 2026 to enter births, marriages and deaths in real time on smartphones"}
+  ],
+  "note": "No fact: the document reports a training session on a civil registration application; it says entry is to be in real time from smartphones but does not say the mairie has a connection, who provides the phones or that entry has begun."
+}

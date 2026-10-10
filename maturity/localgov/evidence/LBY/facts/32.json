@@ -1,0 +1,8 @@
+{
+  "slug": "2024-09-03-intilaqa-mutabaqat-bayanat-257-maktab-ahwal-madaniyya",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Status Authority database (Intilaqa project)", "country_label": "مشروع الانطلاقة; قاعدة بيانات مصلحة الأحوال المدنية", "class": "central", "platform": "", "owner": "Civil Status Authority, Ministry of Interior, Government of National Unity", "tiers": "257 civil status offices across Libya, the authority's branches in the municipalities, had matched electronic data to paper records and scanned them by 3 September 2024, covering 1.8 million households, 97% of Libyan households"}
+  ],
+  "note": "The civil registry offices are branches of a national authority located in the municipalities, not municipal offices; nothing is stated on the connection of local government offices."
+}

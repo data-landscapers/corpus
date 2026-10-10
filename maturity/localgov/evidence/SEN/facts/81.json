@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-01-evidence-informed-policymaking-education-data-kenya-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "SIMEN", "country_label": "National Education Information and Management System (SIMEN)", "class": "central", "platform": "", "owner": "Ministry of National Education, Education Planning and Reform Department (DPRE)", "tiers": "school principals, the academy and education-and-training inspectorates (IA, IEF) and central planning departments"}
+  ],
+  "note": "A study of education data systems; Senegal's local authorities appear as planners and as 550 municipalities, and the one system named, SIMEN, is filled in by the education ministry's inspectorates and schools, not by a local government office. No office connection is stated."
+}

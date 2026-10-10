@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-11-ilumina-angola-conectividade-no-lago-dilolo",
+  "facts": [],
+  "systems": [
+    {"system": "Ilumina Angola", "country_label": "Projecto \"Ilumina Angola\", Programa Nacional de Roaming", "class": "backbone", "platform": "shared mobile towers with ANGOSAT-2 satellite links and solar power", "owner": "Ministry of Telecommunications, Information Technologies and Social Communication (MINTTICS)", "tiers": "a telecommunications tower installed in the municipality of Lago Dilolo, Moxico Leste, on 11 June 2026; mobile coverage for rural and remote areas, with no local government office said to be on it"}
+  ],
+  "note": "Shared mobile-network coverage reaching a municipality; a network that reaches the district, with no office put on it."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-01-togo-aide-memoire-dixieme-revue-sectorielle-conjointe-education",
+  "facts": [],
+  "systems": [
+    {"system": "StatEduc", "country_label": "StatEduc (SIGE)", "class": "central", "platform": "Ms Access, being migrated to PostgreSQL with online data entry", "owner": "Ministère des enseignements primaire et secondaire (MEPS); also the technical education ministry (METFPA)", "tiers": "education ministries"},
+    {"system": "DHIS2 (education)", "country_label": "projet DHIS2", "class": "central", "platform": "DHIS2", "owner": "education ministry; phase 2 financed by HISP WCA at 71,305,244 FCFA", "tiers": ""},
+    {"system": "Plateforme d'enrôlement et de génération des matricules des élèves", "country_label": "immatriculation des élèves", "class": "central", "platform": "", "owner": "MEPS", "tiers": "under design in 2023"}
+  ],
+  "note": "Education sector review; communes appear only as partners in literacy programmes and as 117 communal education officers trained on their roles. All systems named are the education ministries' own; nothing on commune offices' connection."
+}

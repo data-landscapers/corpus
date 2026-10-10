@@ -1,0 +1,9 @@
+{
+  "slug": "2019-03-06 Microsoft opens first datacenters in Africa with general availability of Microsoft Azure",
+  "facts": [],
+  "systems": [
+    {"system": "eThekwini water application monitoring, site failover and disaster recovery on Microsoft Azure", "country_label": "", "class": "application", "platform": "Microsoft Azure", "owner": "eThekwini water, a unit of eThekwini Municipality, with Cloudlogic", "tiers": "one metropolitan municipality's water unit (Durban)"},
+    {"system": "Microsoft Azure cloud regions, Cape Town and Johannesburg", "country_label": "", "class": "backbone", "platform": "Microsoft Azure", "owner": "Microsoft", "tiers": "commercial data centres; no local government office said to be on them"}
+  ],
+  "note": "A vendor announcement of 2019. One municipality's water unit is named as a cloud customer for monitoring and disaster recovery; nothing is stated about the connection of any municipal office."
+}

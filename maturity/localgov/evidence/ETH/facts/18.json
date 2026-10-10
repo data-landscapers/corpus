@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Ethiopian National Data Centre (cloud.gov.et)", "country_label": "Ethiopian National Data Centre", "class": "backbone", "platform": "", "owner": "Ministry of Innovation and Technology (MInT)", "tiers": "Addis Ababa, operational; tenants given as government agencies, universities, banks and telcos, with no local government office named"}
+  ],
+  "note": "The Ethiopia passages are rows of a data centre ownership register (commercial, operator and government facilities in Addis Ababa and Holeta); none names a local government office or its connection. The register describes itself as an AI-assisted compilation and working analysis."
+}

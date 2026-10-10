@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "equipped:30%", "fact": "The essay's AI-assisted country table says NRC and UNICEF equipped 81 communes, about 30% of 270, with computers and solar power to digitise existing handwritten civil-status records in 2024; it states equipment, not a connection at the commune offices.", "as_of": "2024", "date_precision": "year", "system": "NRC/UNICEF civil-status digitisation equipment", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "NRC/UNICEF civil-status digitisation", "country_label": "", "class": "equipment", "platform": "", "owner": "NRC and UNICEF", "tiers": "81 communes of 270 given computers and solar power (2024)"},
+    {"system": "DHIS2", "country_label": "national HMIS", "class": "central", "platform": "DHIS2", "owner": "health ministry", "tiers": "aggregate health data, entered above facility level"}
+  ],
+  "note": "The source is an AI-assisted compilation by its own header and is in the study's exclude_sources; the one fact is a share of communes given equipment, and the passages say civil registration remains paper-based with digitisation stalled by lack of electricity and internet, without dating that statement to a commune office's connection."
+}

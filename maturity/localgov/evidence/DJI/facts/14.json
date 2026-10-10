@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-28-villededjibouti-sigec-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "Système informatisé de gestion de l'état civil (SIGEC)", "country_label": "SIGEC", "class": "application", "platform": "a software solution for entry, transmission and use of civil-status data; not named", "owner": "Ville de Djibouti (Mairie), with a SIGEC administrator and team", "tiers": "the civil-status centres of the communes of Djibouti city, in use since 2011; existing registers digitised and indexed at set-up"}
+  ],
+  "note": "The system is the capital city's own civil-registration application, an 'application' system and so no fact for the connection sub-indicator; the document says nothing of how the civil-status centres are connected. A diagnostic mission under PROGOUV began on 28 April 2024."
+}

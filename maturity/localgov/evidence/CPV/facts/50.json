@@ -1,0 +1,88 @@
+{
+  "slug": "2020-03-01-nosi-plano-acao-global-estrategico-2019-2022",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "NOSi's strategic plan lists the local area networks of municipal councils, beside those of ministries, schools and hospitals, among the networks served by basic access to the state's private network (RTPE), whose access and maintenance services it proposes to open to private providers; it gives no count of councils (no date given; plan dated March 2020).",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "NOSi, the state's technology enterprise, says it remains responsible for the RTPE and its core network and for secure communication across the state administration, central and local, while proposing to sell the physical wide-area component (no date given; plan dated March 2020).",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "NOSi's strategic action plan for 2019-2022 budgets ECV 25,000,000 for the RTPE within ECV 65,000,000 for basic digital-government infrastructure, and its RTPE measure names municipal councils' local networks among those to be served (plan dated March 2020).",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "NOSi's plan says the funds for its restructuring group of projects, which holds the RTPE's ECV 25,000,000, are secured under the World Bank's Cabo Verde Digital financing (plan dated March 2020).",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "country_label": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "class": "connection",
+      "platform": "state network: fibre, structured LANs, Wi-Fi and licensed microwave spectrum",
+      "owner": "NOSi",
+      "tiers": "state institutions; fibre said to reach secondary schools and some larger institutions; local networks of ministries, schools, hospitals and municipal councils named"
+    },
+    {
+      "system": "SIM 2.0 (Sistema de Informação Municipal)",
+      "country_label": "SIM",
+      "class": "application",
+      "platform": "municipal accounting and financial management system",
+      "owner": "NOSi; used by the municipal councils",
+      "tiers": "first in Praia, Sal and São Vicente (2001-2003), São Nicolau (2007); SIM 2.0 rolled out 2008-2012 and said to be working in all municipalities, with extra functions only in Sal, São Vicente and Praia"
+    },
+    {
+      "system": "SIMple",
+      "country_label": "SIMple – plataforma municipal integrado",
+      "class": "application",
+      "platform": "integrated municipal platform, planned",
+      "owner": "NOSi",
+      "tiers": "municipalities; ECV 200,000,000 budgeted, implementation dependent on financing under negotiation with the World Bank"
+    },
+    {
+      "system": "PDEX (Platform for Data Exchange)",
+      "country_label": "PDEX",
+      "class": "backbone",
+      "platform": "interoperability platform",
+      "owner": "NOSi",
+      "tiers": "national; no local government office named"
+    },
+    {
+      "system": "State data centres and NOSiCloud",
+      "country_label": "Data Center / NOSiCloud",
+      "class": "backbone",
+      "platform": "",
+      "owner": "NOSi",
+      "tiers": "national; existing data centre to be upgraded and two more built in the technology park (Praia and São Vicente)"
+    }
+  ],
+  "note": "The captured body is an excerpt: it stops at the 50,000-character limit, partway through the SIMple section's measures."
+}

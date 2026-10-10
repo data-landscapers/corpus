@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-29-ethiopia-crvs-strengthening-presentation",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration system (conventional, paper)", "country_label": "national conventional CR system", "class": "application", "platform": "paper forms in three copies, passed from kebele to woreda to ICS", "owner": "Immigration and Citizenship Service (ICS), with regional Vital Events Registration Agencies", "tiers": "kebele registration offices (70% of 19,202 kebeles providing the service, down from 90%), woreda vital events registration offices, regional agencies, ICS"},
+    {"system": "ME-CRVS", "country_label": "tablet-based ME-CRVS system", "class": "application", "platform": "tablet-based", "owner": "", "tiers": "piloted in 1,300 kebeles and health facilities"},
+    {"system": "Regional and federal digital civil registration pilots", "country_label": "digital home-grown (Oromia and Amhara) and open-source (federal and Addis Ababa) technologies", "class": "application", "platform": "home-grown in Oromia and Amhara; open-source at federal level and in Addis Ababa", "owner": "", "tiers": "piloted in different parts of the country; government has decided to standardise one digital system nationally"}
+  ],
+  "note": "A July 2025 presentation on civil registration: it says registration is mainly paper-based, with forms carried from kebele to woreda offices, and cites inadequate ICT infrastructure and power and network interruptions in general terms, but states nothing specific about whether woreda or kebele offices have a connection."
+}

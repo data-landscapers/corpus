@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-03-contrats-objectifs-transition-digitale-91-pourcent",
+  "facts": [],
+  "systems": [
+    {"system": "nouveau réseau dédié à l'administration publique", "country_label": "nouveau réseau dédié à l'administration publique", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "to be started in 2026, beginning at Ouagadougou and Bobo-Dioulasso; no commune office named"},
+    {"system": "data centers modulaires", "country_label": "data centers modulaires", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "two, construction completed in 2025"},
+    {"system": "Zama Tchey (Maisons du citoyen)", "country_label": "Zama Tchey", "class": "central", "platform": "", "owner": "La Poste, under a contrat-plan with the state", "tiers": "20 to be built over five years"}
+  ],
+  "note": "No fact: the ministry's review of its 2025 objectives, held 3 February 2026; the new administration network is a 2026 plan starting in the two largest cities, with no local government office named."
+}

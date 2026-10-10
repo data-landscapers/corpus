@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-establishing-adaptive-social-protection-system-angola",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação Integrado de Protecção Social (SIIPS)", "country_label": "SIIPS (Kwenda's management information system)", "class": "central", "platform": "", "owner": "Kwenda programme (government)", "tiers": "households registered door to door by smartphone, the data sent to the system; programme running in municipalities of all 18 provinces as of May 2023"},
+    {"system": "Kwenda Grievance Redress Mechanism", "country_label": "Kwenda GRM", "class": "central", "platform": "", "owner": "Kwenda programme (government)", "tiers": "all municipalities the programme covers"}
+  ],
+  "note": "The passages concern the Kwenda cash-transfer programme and climate and poverty analysis by municipality; nothing is stated about the connection of municipal administrations' own offices."
+}

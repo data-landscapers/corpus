@@ -1,0 +1,8 @@
+{
+  "slug": "2018-06-14-togo-loi-2018-005-code-foncier-et-domanial",
+  "facts": [],
+  "systems": [
+    {"system": "cadastre", "country_label": "cadastre", "class": "central", "platform": "", "owner": "the land conservation service, with the Agence Nationale du Domaine et du Foncier (ANDF) and its communal offices", "tiers": "organised at national and communal scale; a parcel's extract is deposited at ANDF's central administration and in each mairie; online read-only access for private users"}
+  ],
+  "note": "The land code, a law: it defines the cadastre as a unitary computerised archive kept by the conservation service and ANDF's deconcentrated communal offices (Articles 34 to 49) and gives mayors paper registers of customary rights (Articles 629 to 632); it states nothing on any commune office's connection or equipment."
+}

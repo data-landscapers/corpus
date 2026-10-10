@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-11-leconomie-china-eximbank-fibre-backbone-phase4-loan",
+  "facts": [],
+  "systems": [
+    {"system": "national fibre-optic backbone, phase 4", "country_label": "Backbone", "class": "backbone", "platform": "fibre optic, to be built by Huawei", "owner": "CAMTEL; loan of 108.3 billion FCFA from China Eximbank authorised by decree of 6 March 2026", "tiers": "extension towards rural areas so far little covered; no local government office named"}
+  ],
+  "note": "A backbone loan; no local government office is said to be on the network."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-dha-app-2025-26-amendments",
+  "facts": [],
+  "systems": [
+    {"system": "Live capture for smart ID cards and passports", "country_label": "live capture", "class": "central", "platform": "", "owner": "Department of Home Affairs", "tiers": "ten Home Affairs offices earmarked in 2025/26, listed by district municipality (Matatiele, Stutterheim, Middelburg, Zastron, Orange Farm, Bulwer, Port St Johns, Mutale, Laingsburg, Citrusdal)"},
+    {"system": "Online birth registration system (live capture for birth registration)", "country_label": "online birth registration", "class": "central", "platform": "", "owner": "Department of Home Affairs, with the Department of Health and SITA", "tiers": "47 health facilities earmarked, listed by district or metropolitan municipality; R21 million"},
+    {"system": "Home Affairs mobile offices", "country_label": "mobile offices", "class": "central", "platform": "", "owner": "Department of Home Affairs", "tiers": "deployed under provincial plans; R77 million"}
+  ],
+  "note": "A Home Affairs performance plan; municipalities appear as the locations of the department's own offices and of health facilities, and as social partners. These are a national department's field offices, out of scope; nothing on any municipal office's connection."
+}

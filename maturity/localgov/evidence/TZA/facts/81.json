@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-23-ofisi-za-ardhi-tehama-vifaa",
+  "facts": [],
+  "systems": [
+    {"system": "ICT equipment for land offices", "country_label": "vifaa vya TEHAMA", "class": "equipment", "platform": "424 computers, 250 GIS computers, 391 GIS displays, 41 scanners, 44 printers, 82 IP phones described as using the institutional network free of charge, 197 UPS", "owner": "Ministry of Lands, Housing and Human Settlements Development", "tiers": "1,429 devices worth TZS 5.2 billion handed over on 23 January 2026 for land offices in 184 councils and the offices of regional assistant land commissioners"},
+    {"system": "Digital land service systems", "country_label": "mifumo ya TEHAMA", "class": "application", "platform": "", "owner": "Ministry of Lands, Housing and Human Settlements Development", "tiers": "unnamed; land staff told to use the existing ICT systems"}
+  ],
+  "note": "Equipment handed to council land offices, with no connection stated: the 82 IP phones are described as running on the institutional network, but the document does not say the offices are connected or to what."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-19-novojornal-angola-oposicao-registo-eleitoral-obstaculos",
+  "facts": [],
+  "systems": [
+    {"system": "Balcões Únicos de Atendimento ao Público (BUAP)", "country_label": "BUAP", "class": "central", "platform": "", "owner": "Ministério da Administração do Território (MAT)", "tiers": "634 planned nationally with more than 10,700 brigade staff, on the ministry's official figures; opposition parties report constant breakdowns of the biometric systems"},
+    {"system": "Ficheiro de Cidadãos Maiores (FICM)", "country_label": "Ficheiro de Cidadãos Maiores (FICM)", "class": "central", "platform": "", "owner": "", "tiers": "national electoral register database"}
+  ],
+  "note": "An opposition statement of August 2026 on the electoral register update at the ministry's BUAP counters; nothing is stated on the connection of a municipal administration's own office."
+}

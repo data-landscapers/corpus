@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-23-abomey-registre-foncier-urbain",
+  "facts": [],
+  "systems": [
+    {"system": "Registre foncier urbain (Rfu)", "country_label": "Registre foncier urbain", "class": "application", "platform": "geographic information system, unnamed", "owner": "mairie d'Abomey, built by the firm Begerpo Sarl", "tiers": "the commune of Abomey; not yet received, its handover announced for the coming days"}
+  ],
+  "note": "The document is about a land register the commune of Abomey is about to receive, an application; it states nothing about the mairie's data connection."
+}

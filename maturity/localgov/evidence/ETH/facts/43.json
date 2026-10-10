@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-ethiopia-dhis2-implementation",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 for education", "country_label": "DHIS2 (education data, supporting the Teaching at the Right Level model and the national education management information system)", "class": "application", "platform": "DHIS2, aggregate and individual data", "owner": "UNICEF and the HISP Centre, University of Oslo, with HISP Ethiopia; funded by Norway and UNICEF", "tiers": "schools, woreda education offices and zonal education departments in four regions (SER, SWEPR, Oromia, Benishangul Gumuz); partnership begun November 2025"}
+  ],
+  "note": "A project page on an education data system that works with woreda education offices: it says nothing about how those offices are connected or whether they work in the system online. The held text is a summary of the page."
+}

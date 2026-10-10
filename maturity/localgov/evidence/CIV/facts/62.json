@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-cote-divoire-plan-daction-national-gouvernement-ouvert-2024-2026-pan5",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme interactive de Gouvernement Ouvert Local", "country_label": "plateforme interactive", "class": "web", "platform": "", "owner": "Union des Villes et Communes de Côte d'Ivoire (UVICOCI)", "tiers": "planned, for five pilot collectivités territoriales, to share experience and good practice in open government"},
+    {"system": "Maison du Service Public", "country_label": "Maison du Service Public", "class": "central", "platform": "", "owner": "", "tiers": "named as commitment 7 of the plan; not described in the passages"}
+  ],
+  "note": "The open-government action plan's local commitment is awareness-raising and capacity-building in five pilot local authorities, with a planned sharing platform. Nothing on a local government office's connection."
+}

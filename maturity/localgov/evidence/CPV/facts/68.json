@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-17-cabo-verde-csu-consulta-directa-de-dados-elimina-declaracoes-papel",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Expresso das Ilhas, reporting a government communiqué of 17 December 2025, states that until then the declaration of the national social registry (CSU) was issued and printed at the municipal councils (Câmaras Municipais), a step no longer needed now that benefit-managing bodies query the registry directly; it gives no count of councils and does not say how they were connected.", "as_of": "2025-12-17", "date_precision": "day", "system": "Cadastro Social Único (CSU) declarations issued at the Câmaras Municipais", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Cadastro Social Único (CSU)", "country_label": "Cadastro Social Único (CSU)", "class": "application", "platform": "", "owner": "Government of Cabo Verde", "tiers": "Declarations issued and printed at the Câmaras Municipais until December 2025; from then queried directly by the bodies that manage social benefits through a data consultation application"}
+  ],
+  "note": "The one fact rests on the article's statement that CSU declarations were issued and printed at municipal councils; the article does not use the word online and names no connection, so the parent should weigh whether it meets the working-online test."
+}

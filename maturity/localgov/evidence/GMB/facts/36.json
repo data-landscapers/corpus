@@ -1,0 +1,8 @@
+{
+  "slug": "2020-06-01-gambia-moici-national-broadband-strategy-2020-2024",
+  "facts": [],
+  "systems": [
+    {"system": "National backbone", "country_label": "national backbone infrastructure", "class": "backbone", "platform": "", "owner": "", "tiers": "national; its management is to pass to an entity not in retail service provision"}
+  ],
+  "note": "No local government office is said to be connected. The strategy (June 2020) sets targets for 2024: broadband coverage above 90% of the population including all local government districts, broadband expanded to all local government areas and districts, at least 5 Mbps for every public institution including government buildings, and improved government connectivity and online presence. These are targets for areas and public institutions, with no connection of council offices stated; local government authorities are listed as stakeholders."
+}

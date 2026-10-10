@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-11-tgo-lacs-projet-denregistrement-systematique-des-naissances-les-resultats",
+  "facts": [],
+  "systems": [
+    {"system": "Computer equipment for the central civil-status offices of the Lacs communes", "country_label": "modernisation des états civils centraux", "class": "equipment", "platform": "", "owner": "Communes of Lacs prefecture, with Fondation Aquereburu and Partners; financed by the French embassy", "tiers": "the four communes of Lacs prefecture"},
+    {"system": "Civil-status software tool for the Lacs communes", "country_label": "logiciel outil", "class": "application", "platform": "", "owner": "Communes of Lacs prefecture, with Fondation Aquereburu and Partners; financed by the French embassy", "tiers": "the four communes of Lacs prefecture"}
+  ],
+  "note": "ATOP, 11 January 2024: the Lacs birth-registration project gave the communes' central civil-status offices computer equipment and a software tool; no connection at the offices is stated, so it gives no fact."
+}

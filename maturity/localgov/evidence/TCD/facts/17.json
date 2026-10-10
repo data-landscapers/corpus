@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-28-tribuneechos-anats-oif-etat-civil-interoperabilite",
+  "facts": [],
+  "systems": [
+    {"system": "Système Intégré de Gestion des Personnes et des Titres Sécurisés (SIGPTS)", "country_label": "SIGPTS", "class": "central", "platform": "", "owner": "ANATS", "tiers": "national; interoperability with communal civil-status services discussed with the N'Djamena town hall and the OIF"},
+    {"system": "Civil-status services of the commune of N'Djamena (digital transition)", "country_label": "services communaux d'état civil", "class": "application", "platform": "", "owner": "Mairie de N'Djamena, with ANATS technical support", "tiers": "N'Djamena; under discussion, reported 2026-04-28"}
+  ],
+  "note": "A meeting reported 2026-04-28 at which interoperability between N'Djamena's communal services and SIGPTS was discussed and ANATS pledged support; nothing is stated as in place and no office connection is described."
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "2026-05-16-projet-remo-gouvernance-locale-numerique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Maisons de services numériques (MSA)",
+      "country_label": "Maisons de services numériques, fournissant des services administratifs numérisés (MSA)",
+      "class": "",
+      "platform": "plateforme numérique de la MSA",
+      "owner": "The municipalities (houses under their supervision); created with the REMO project, run by GIZ with the Ministry of the Interior, 1 May 2022 to 30 April 2026",
+      "tiers": "19 communes"
+    },
+    {
+      "system": "GRB 2.0",
+      "country_label": "système de gestion des recettes municipales « GRB 2.0 »",
+      "class": "application",
+      "platform": "",
+      "owner": "Developed under the REMO project (GIZ with the Ministry of the Interior)",
+      "tiers": "Municipal revenue management; number of communes using it not stated"
+    },
+    {
+      "system": "Tabbaâ",
+      "country_label": "plateforme « Tabbaâ » (Suivre)",
+      "class": "",
+      "platform": "",
+      "owner": "Developed under the REMO project",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Tathmine",
+      "country_label": "application « Tathmine » (Valorisation)",
+      "class": "central",
+      "platform": "",
+      "owner": "Cour des comptes",
+      "tiers": "Cour des comptes"
+    },
+    {
+      "system": "Espaces Citoyens",
+      "country_label": "Espaces Citoyens",
+      "class": "",
+      "platform": "",
+      "owner": "Created with the REMO project",
+      "tiers": "3 new spaces; where they sit is not stated"
+    }
+  ],
+  "note": "No fact: the document reports digital service houses in 19 communes under the municipalities and a municipal revenue system, at the REMO project's close on 30 April 2026, but states no connection of any municipal office and does not say where the systems are held or how staff reach them."
+}

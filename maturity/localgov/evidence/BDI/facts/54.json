@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-09-aco-burundi-cartographie-censitaire-apurement-base-rgphae",
+  "facts": [],
+  "systems": [
+    {"system": "E-TAXE", "country_label": "digitalisation fiscale E-TAXE", "class": "application", "platform": "", "owner": "", "tiers": "pilot communes for communal revenue management: Bubanza, Bukinanyana, Kayanza, Ngozi, Kirundo, Muyinga, Cankuzo, Ruyigi, Rutana, Gitega, Makamba and Nyanza, named only in a headline listed on the page"}
+  ],
+  "note": "No fact: the article is on cleaning the census cartography database at the central census bureau; E-TAXE appears only as the headline of another article on the communes' association site, with no description of how the communes connect."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-09-20-mtnima-riad-reseau-intranet-administratif-haut-debit",
+  "facts": [],
+  "systems": [
+    {"system": "RIAD", "country_label": "Réseau Intranet Administratif haut Débit (RIAD)", "class": "backbone", "platform": "", "owner": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration", "tiers": "an urban network: phase one to equip 326 administrative sites, phase two a further 196 administrative sites in Nouakchott; extensible to all administrative buildings in the country; first phase not yet inaugurated on 20 September 2024"}
+  ],
+  "note": "The ministry's statement of 20 September 2024 on the government intranet RIAD gives the number of administrative sites each phase is to equip and does not say what the sites are; no commune or other local government office is named as on the network, so it is noted as backbone and gives no fact."
+}

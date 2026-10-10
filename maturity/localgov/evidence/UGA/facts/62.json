@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-14-free-wifi-uganda-drc-border-nita",
+  "facts": [],
+  "systems": [
+    {"system": "Free public Wi-Fi, Bwera", "country_label": "Free public Wi-Fi service", "class": "public-access", "platform": "Wi-Fi", "owner": "NITA-U, under the Uganda Digital Acceleration Project (UDAP)", "tiers": "Bwera town, Mpondwe-Lhubiriha Town Council, Kasese district: along Mpondwe Road, reaching schools, health centres and government offices; launched 13 July 2025"},
+    {"system": "UDAP", "country_label": "Uganda Digital Acceleration Project", "class": "backbone", "platform": "", "owner": "Government of Uganda, through NITA-U", "tiers": "said by the State Minister for ICT to extend connectivity to all districts; no local government office named"}
+  ],
+  "note": "A free public Wi-Fi service for residents in one border town; its signal is said to reach government offices, but no local government office is said to be connected or to work over it. The capture is an excerpt."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-01-malawi-economic-monitor-reforming-with-urgency",
+  "facts": [],
+  "systems": [
+    {"system": "Unified Beneficiary Registry (UBR)", "country_label": "Unified Beneficiary Registry (UBR)", "class": "application", "platform": "", "owner": "Ministry of Finance and Economic Affairs, Directorate for Poverty Reduction and Social Protection", "tiers": "central registry of 3.9 million households; District Councils are among the many institutions with access to its data, with no statement of how or from where they reach it"}
+  ],
+  "note": "District councils are listed among institutions with access to the social registry's data; the document does not say councils work in it from their offices or how those offices are connected."
+}

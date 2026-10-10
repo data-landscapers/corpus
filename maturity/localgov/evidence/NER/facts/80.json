@@ -1,0 +1,15 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS (West African Police Information System)",
+      "country_label": "WAPIS / SIPAO; DACORE",
+      "class": "central",
+      "platform": "WAPIS",
+      "owner": "Niger National Police, with INTERPOL; financed by the European Union",
+      "tiers": "the data centre (DACORE) and 26 police and gendarmerie sites in Niamey connected to it at August 2019; expansion to the regions planned"
+    }
+  ],
+  "note": "INTERPOL newsletter on the police information system; 'local authorities' refers to officials attending events in Mali, The Gambia and Liberia. The Niger system is the national police's, in Niamey, and no local government office is named."
+}

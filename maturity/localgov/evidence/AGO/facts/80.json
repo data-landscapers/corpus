@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-16-lancamento-da-janela-unica-de-concessao-de-direitos-fundiarios",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The justice ministry says the land-concession single window launched on 16 September 2025 is a digital platform built on the integration of the Municipal Administration, the tax authority, the cadastral institute and the land registries, with the citizen lodging the file only at the Municipal Administration and the State routing it onward; it gives no number of municipal administrations using it and does not describe their connection.", "as_of": "2025-09-16", "date_precision": "day", "system": "Janela Única de Concessão de Direitos Fundiários (JUCDF)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Janela Única de Concessão de Direitos Fundiários (JUCDF)", "country_label": "Janela Única de Concessão de Direitos Fundiários", "class": "application", "platform": "digital platform centralising land-concession procedures", "owner": "launched at the Instituto Geográfico e Cadastral de Angola (IGCA); integrates the Municipal Administration, AGT, IGCA and the Conservatórias do Registo Predial", "tiers": "municipal administrations as the single point where the citizen lodges the file; number not stated"}
+  ],
+  "note": "The one fact rests on the municipal administration being the entry point of a shared national platform; the document does not say in terms that municipal staff enter the file online at their own office, so the parent should weigh it."
+}

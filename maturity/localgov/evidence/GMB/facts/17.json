@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-01 Implementing a Comprehensive Digital Addressing System - Kanifing Municipality, The Gambia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital addressing system and municipal address database",
+      "country_label": "Plus Code digital addressing system",
+      "class": "application",
+      "platform": "Plus Codes",
+      "owner": "Kanifing Municipal Council",
+      "tiers": "Kanifing Municipality: 36,000 properties georeferenced for 500,000 residents between July 2021 and February 2022; used for waste management and property-tax collection"
+    }
+  ],
+  "note": "A summary of a policy brief on one council's addressing system and database; it states no connection at the council's office, so no fact of the connection class."
+}

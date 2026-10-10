@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-23-kenya-a-few-insights-on-navigating-data-breaches",
+  "facts": [],
+  "systems": [
+    {"system": "eCitizen", "country_label": "eCitizen platform", "class": "web", "platform": "", "owner": "national government", "tiers": "over 5,000 online services of ministries, county governments and agencies, disrupted by a cyberattack in July 2023"}
+  ],
+  "note": "A law firm's note on breach notification; it mentions county governments only as providers of services on eCitizen, an online service platform, and states nothing about county offices' connection."
+}

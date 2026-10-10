@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-mocde-national-digital-addressing-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Digital addressing system", "country_label": "national digital addressing system", "class": "application", "platform": "Google Plus Codes", "owner": "Ministry of Communications and Digital Economy, with Banjul City Council in the pilot", "tiers": "pilot in Banjul (about 2,500 properties), then Kanifing Municipality (about 33,000) and Kombo North in West Coast Region (about 100,000); rest of the country planned"},
+    {"system": "Local digital address database", "country_label": "Local Digital Address Database", "class": "application", "platform": "", "owner": "local governments as custodians; developed and managed by the Gambia ICT Agency", "tiers": "local government authorities (area, municipal and city councils); to be developed"},
+    {"system": "Local digital address portal", "country_label": "Local Digital Address Portal", "class": "application", "platform": "", "owner": "local government authorities; developed and managed by the Gambia ICT Agency", "tiers": "local government authorities; to be developed"},
+    {"system": "National digital address database", "country_label": "National Digital Address Database", "class": "application", "platform": "", "owner": "Ministry of Communications and Digital Economy as custodian; Gambia ICT Agency develops and manages", "tiers": "national; local databases to be shared or integrated with it"},
+    {"system": "National digital address portal", "country_label": "National Digital Address Portal", "class": "application", "platform": "", "owner": "Ministry of Communications and Digital Economy; Gambia ICT Agency develops and manages", "tiers": "national, for central government, local government authorities, business and the public"}
+  ],
+  "note": "A policy assigning local governments custody of digital address databases and portals; it states nothing about a data connection at any council office, and the capture stops inside Chapter 3."
+}

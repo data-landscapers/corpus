@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)",
+  "facts": [],
+  "systems": [
+    {"system": "NIDA Online Registration Portal", "country_label": "NIDA Online Portal; NIDA e-Registration Portal", "class": "central", "platform": "web portal", "owner": "National Identification Authority (NIDA)", "tiers": "applicants online and NIDA district offices; the printed form is stamped and signed by the Local Chairman at the local government office"}
+  ],
+  "note": "Undated guidance on applying for a national ID; the local government office's part is a stamp and signature on a printed form, and nothing is said of its connection."
+}

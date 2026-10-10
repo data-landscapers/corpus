@@ -1,0 +1,10 @@
+{
+  "slug": "2023-12-22-worldbank-pad-digital-acceleration-project-p177022",
+  "facts": [],
+  "systems": [
+    {"system": "RESINA", "country_label": "Réseau Informatique National (RESINA)", "class": "backbone", "platform": "", "owner": "ANPTIC", "tiers": "2,627 administrative buildings connected by the end of 2022, 695 of them by fibre optic cable; ministries, departments and agencies named, no local government office named"},
+    {"system": "G-Cloud", "country_label": "Government Cloud (G-Cloud)", "class": "backbone", "platform": "", "owner": "ANPTIC, launched 2015 with DANIDA support", "tiers": "shared data centres (G-Cloud nodes) for 400 public facilities in 13 regional urban centres, with a 650 km fibre wide area network; hosts 66 websites and 34 government applications"},
+    {"system": "Municipal Performance Monitoring Tool", "country_label": "Suivi de la Performance Municipal", "class": "", "platform": "", "owner": "developed under the World Bank eGovernment Project (P155645)", "tiers": ""}
+  ],
+  "note": "No fact: the capture is an excerpt that stops mid-sentence in section I.C; it counts administrative buildings on RESINA and public facilities on the G-Cloud but puts no commune's office on either."
+}

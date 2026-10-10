@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-guinee-decentralisation-etat-civil-npi",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de l'État Civil", "country_label": "Registre National de l'État Civil", "class": "application", "platform": "", "owner": "Ministère de l'Administration du Territoire et de la Décentralisation", "tiers": "being deployed nationally, tied to the NPI; tiers of use not stated"},
+    {"system": "Plateforme de numérisation de l'état civil", "country_label": "plateforme de numérisation de l'état civil", "class": "application", "platform": "", "owner": "Ministère de l'Administration du Territoire et de la Décentralisation", "tiers": "said to be developed and deployed; where not stated"}
+  ],
+  "note": "A second account of the minister's statement of 2026-08-10: 375 communal councils and a civil-registration digitisation platform said to be deployed, with nothing stated about a connection at commune offices."
+}

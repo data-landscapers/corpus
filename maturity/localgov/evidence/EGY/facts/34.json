@@ -1,0 +1,15 @@
+{
+  "slug": "2020-10-19-egypt-unified-tax-procedures-law-206-2020",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Egyptian Tax Authority electronic system",
+      "country_label": "المنظومة الإلكترونية بالمصلحة",
+      "class": "central",
+      "platform": "",
+      "owner": "Egyptian Tax Authority, Ministry of Finance",
+      "tiers": "Taxpayers' registration, electronic returns and electronic invoices; local administration units are named only as bodies that must notify the Authority of licences and give its staff access to data"
+    }
+  ],
+  "note": "Tax procedures law of 2020, as amended to December 2022: a law, which places nothing. Local administration units appear only as bodies with duties to the Tax Authority; nothing on their offices' connection."
+}

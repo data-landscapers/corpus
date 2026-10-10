@@ -1,0 +1,13 @@
+{
+  "slug": "2024-02-12-senum-ams-informatisation-des-mairies",
+  "facts": [],
+  "systems": [
+    {"system": "SenGec", "country_label": "plateforme de gestion électronique du Courrier (SenGec)", "class": "application", "platform": "SenGec", "owner": "Sénégal Numérique SA", "tiers": "to be deployed to the mairies under the convention of 9 February 2024 with the Association des Maires du Sénégal, which groups the 557 mayors of communes and villes"},
+    {"system": "logiciels pour la récupération optimisée des taxes", "country_label": "dispositif de collecte des taxes et recettes", "class": "application", "platform": "", "owner": "Sénégal Numérique SA", "tiers": "to be offered to the mairies under the same convention"},
+    {"system": "logiciel existant de gestion des Mairies", "country_label": "logiciel de gestion des Mairies", "class": "application", "platform": "", "owner": "", "tiers": "existing in mairies, number not stated; to be upgraded by Sénégal Numérique SA under the convention"},
+    {"system": "noms de domaine et adresses emails .SN", "country_label": "noms de domaine et adresses emails .SN", "class": "web", "platform": "", "owner": "Sénégal Numérique SA", "tiers": "acquisition to be eased for the communes under the convention"},
+    {"system": "Datacenter National de Diamniadio", "country_label": "Datacenter National de Diamniadio", "class": "backbone", "platform": "", "owner": "Sénégal Numérique SA", "tiers": "national; to host the communes' data under the convention"},
+    {"system": "maillage du territoire national en fibre optique", "country_label": "interconnexion de nos structures administratives", "class": "backbone", "platform": "", "owner": "the state, as described by the Director General of Sénégal Numérique SA", "tiers": "administrative structures nationally; no commune office is said to be on it"}
+  ],
+  "note": "A partnership convention signed on 9 February 2024 between the mayors' association and Sénégal Numérique SA: it commits to mail-management, tax-collection and mairie-management software, .SN domains and email, and data hosting. It states no connection at any mairie and gives no count of mairies connected or equipped; the fibre mesh is said to interconnect administrative structures, with no commune office placed on it."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software (DHIS-2)", "country_label": "DHIS-2", "class": "application", "platform": "DHIS2, web-based with an offline version", "owner": "Federal Ministry of Health", "tiers": "introduced 2018; more than 95% of health facilities use the online or offline version; data compiled at woreda health offices and sent on to zonal departments, regional bureaus and the ministry"},
+    {"system": "health management information system (HMIS)", "country_label": "HMIS", "class": "application", "platform": "", "owner": "Federal Ministry of Health", "tiers": "public hospitals and health centres, reporting through woreda health offices, zonal health departments and regional health bureaus"}
+  ],
+  "note": "A study of HMIS data use in 305 hospitals and health centres; it says woreda health offices compile digitised data and pass it up, and mentions a campaign to connect health facilities, but states nothing about a connection at a woreda office."
+}

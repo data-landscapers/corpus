@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-13-procasef-financement-additionnel-60-communes",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information Foncière Communal (SIFCOM)", "country_label": "SIFCOM", "class": "application", "platform": "", "owner": "PROCASEF, financed by the World Bank", "tiers": "communal land information system; 128 land offices built, furnished and given a SIFCOM in the first phase (138 communes preselected), per the project in May 2026; second phase July 2026 to January 2029 to implement and institutionalise it, with 60 more communes"},
+    {"system": "bureaux fonciers communaux", "country_label": "bureaux fonciers", "class": "equipment", "platform": "", "owner": "PROCASEF", "tiers": "128 communal land offices built and furnished; a helpdesk for land offices planned in the second phase; no connection stated"},
+    {"system": "formation PROCASEF", "country_label": "", "class": "capacity", "platform": "", "owner": "PROCASEF", "tiers": "410 young people trained, of whom 145 land agents, and 585 administrative authorities and technical staff"}
+  ],
+  "note": "The land project's meetings with 60 newly preselected communes, 4-12 May 2026; it reports land offices built and the land system supplied, and states no connection at any commune's office."
+}

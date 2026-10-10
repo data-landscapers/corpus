@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-adca-economic-report-data-centres-in-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Altron AI factory", "country_label": "AI factory", "class": "backbone", "platform": "NVIDIA", "owner": "Altron (private)", "tiers": "national; commercial, launched late 2025; no local government said to be on it"},
+    {"system": "Cassava Technologies AI-as-a-Service", "country_label": "", "class": "backbone", "platform": "NVIDIA", "owner": "Cassava Technologies (private)", "tiers": "regional data centre footprint; commercial; no local government said to be on it"}
+  ],
+  "note": "The passages naming South Africa concern the commercial data centre market: capacity, subsea cables, finance, power and AI facilities. Nothing on local government offices or their connection."
+}

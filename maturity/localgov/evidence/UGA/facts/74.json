@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-04-uga-emis-no-more-physical-registration-licensing-of-schools",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS", "country_label": "Education Management Information System (EMIS)", "class": "application", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "Schools register and are licensed online; the ministry says EMIS support staff are stationed in all local governments"}
+  ],
+  "note": "States that EMIS support staff are stationed in all local governments; says nothing about any local government office's connection."
+}

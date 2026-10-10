@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-29-debate-31-2025-citizen-support-portal",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Prime Minister told the National Assembly on 29 July 2025 that the back end of the Citizen Support Portal connects 583 ministries, departments, local authorities, parastatal bodies and some state-owned companies, and that tickets are transferred on the system to each organisation's designated desk officer or focal point, who must resolve them; no separate count of local authorities is given and the answer does not say where the officers work.", "as_of": "2025-07-29", "date_precision": "day", "system": "Citizen Support Portal (CSP)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Citizen Support Portal (CSP)", "country_label": "Citizen Support Portal", "class": "application", "platform": "website and mobile app with a back-end ticketing system and a data analytics dashboard", "owner": "Citizen Support Unit, under the Prime Minister", "tiers": "launched April 2017; back end connects 583 ministries, departments, local authorities, parastatal bodies and some state-owned companies; 14 state-owned enterprises included as at 24 July 2025"}
+  ],
+  "note": "One fact, read under the study's rule that working in a national system held elsewhere states a connection; the document names no connection as such and does not say the local authorities' officers work from their own offices, which the parent should weigh."
+}

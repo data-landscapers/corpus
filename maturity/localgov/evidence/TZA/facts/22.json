@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "eGA Government Data Centre (Dodoma)", "country_label": "eGA Government Data Centre", "class": "backbone", "platform": "government data centre, Dodoma", "owner": "e-Government Authority (eGA), Government of Tanzania", "tiers": "customers listed as government ministries, public institutions, MDAs and LGAs"},
+    {"system": "National Internet Data Centre (NIDC)", "country_label": "NIDC", "class": "backbone", "platform": "government data centre, Dar es Salaam, operational 2016", "owner": "Tanzania Telecommunications Corporation (TTCL), Government of Tanzania", "tiers": "customers listed as government ministries, public institutions and commercial enterprises"},
+    {"system": "TTCL Telephone House Data Centre", "country_label": "TTCL Telephone House Data Centre", "class": "backbone", "platform": "data centre, Dar es Salaam", "owner": "Tanzania Telecommunications Corporation (TTCL), Government of Tanzania", "tiers": "customers listed as telecoms operators, ISPs and government institutions"}
+  ],
+  "note": "A data-centre ownership register, AI-compiled by its own header; it lists LGAs among the eGA data centre's customers but states nothing about any local government office's connection. Private data centres in the passages are outside the study's field and are not listed."
+}

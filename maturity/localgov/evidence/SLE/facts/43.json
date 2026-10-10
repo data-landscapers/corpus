@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-sierra-leone-mtndp-2024-2030",
+  "facts": [],
+  "systems": [
+    {"system": "NaMEMIS", "country_label": "NaMEMIS", "class": "application", "platform": "", "owner": "the national monitoring and evaluation body (NaMED in the plan's words)", "tiers": "ministries, departments and agencies and local councils are to be trained to enter information into it; planned, January 2024"},
+    {"system": "Modernised Property Tax System", "country_label": "modernised Property Tax System", "class": "application", "platform": "", "owner": "", "tiers": "local councils; a planned revenue measure, January 2024"}
+  ],
+  "note": "The national development plan for 2024-2030; in the passages held, local councils appear as planners, tax collectors and reporting bodies. One policy action is to upgrade 'the fiscal property cadastral system and ICT environment' under fiscal decentralisation, with no connection of council offices named, and the plan says council services sit mostly in municipal centres far from remote settlements. Nothing states whether or how council offices are connected."
+}

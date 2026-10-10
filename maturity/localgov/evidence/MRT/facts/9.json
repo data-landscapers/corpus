@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Nouakchott Data Hub", "country_label": "Nouakchott Data Hub", "class": "backbone", "platform": "", "owner": "International Mauritania Telecom (IMT/GIE); Government of Mauritania", "tiers": "one government data centre in Nouakchott, operational, dated 2025; no local government office said to use it"}
+  ],
+  "note": "The passage naming Mauritania is one row of a data-centre register, itself marked an AI-compiled working dataset; it names a government data centre in Nouakchott and no local government."
+}

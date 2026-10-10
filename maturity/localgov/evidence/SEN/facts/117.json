@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-21-worldbank-procasef-p172422-isr-seq12",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "none", "fact": "The World Bank's results table records 0 municipal land bureaux equipped and operational with access to the Land Information System at 21 November 2025, against a target of 120 by September 2026, in the project's 138 municipalities.", "as_of": "2025-11-21", "date_precision": "day", "system": "Municipal Land Bureaus equipped and operational with LIS access", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The World Bank's supervision mission of 10-25 November 2025 recommends immediate workarounds for electricity and Internet connections at the municipal land offices, to give a minimum level of service for SIFCOM; land office construction was under way in 128 of 138 municipalities, about 75% complete.", "as_of": "2025-11", "date_precision": "month", "system": "Municipal land offices (SIFCOM access)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "none", "fact": "The World Bank reports that SIFCOM, the land information system the municipal land offices are to work in, was not yet deployed at November 2025: its modules were mainly validated and deployment was postponed to end-December 2025.", "as_of": "2025-11", "date_precision": "month", "system": "Municipal land offices (SIFCOM access)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The project that is to equip municipal land bureaux with Land Information System access is financed by two World Bank IDA instruments of 40.00 each (38.43 and 38.11 revised), 84.94% and 78.58% disbursed, closing 24 July 2026; no domestic line is stated.", "as_of": "2025-12-21", "date_precision": "day", "system": "Municipal Land Bureaus equipped and operational with LIS access", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "no-change", "fact": "The indicator for municipal land bureaux equipped and operational with LIS access stood at 0 on both 31 May 2025 and 21 November 2025, and SIFCOM's deployment was postponed to end-December 2025.", "as_of": "2025-11-21", "date_precision": "day", "system": "Municipal Land Bureaus equipped and operational with LIS access", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "SIFCOM", "country_label": "SIFCOM", "class": "application", "platform": "", "owner": "", "tiers": "municipal land offices of the 138 PROCASEF municipalities; not yet deployed at November 2025"},
+    {"system": "Land Information System (LIS)", "country_label": "LIS", "class": "application", "platform": "", "owner": "", "tiers": "records occupancy titles with NICAD; access planned for 120 municipal land bureaux, 0 at November 2025"},
+    {"system": "eNICAD", "country_label": "eNICAD", "class": "", "platform": "", "owner": "", "tiers": "the tool for parcel numbering until SGF is rolled out in 2026; tier not stated"},
+    {"system": "SGF", "country_label": "SGF", "class": "", "platform": "", "owner": "", "tiers": "rollout planned for 2026; tier not stated"},
+    {"system": "Geoportal", "country_label": "Geoportal", "class": "", "platform": "", "owner": "", "tiers": "orthophotos of 557 municipalities freely accessible on it"}
+  ],
+  "note": ""
+}

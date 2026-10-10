@@ -1,0 +1,8 @@
+{
+  "slug": "2019-07-11-museveni-launches-shs43b-data-centre-in-jinja",
+  "facts": [],
+  "systems": [
+    {"system": "National cloud data centre", "country_label": "national cloud data centre; Cloud Project", "class": "backbone", "platform": "Tier 3 data centre, built by Sybyl Limited", "owner": "National Information Technology Authority - Uganda (NITA-U); World Bank funding under the Regional Communication Infrastructure Program", "tiers": "sites in Kampala and Jinja; 57 government institutions hosted at launch on 2019-07-11, capacity 285; no local government office said to be on it"}
+  ],
+  "note": "A news report of the launch of the government data centre at Jinja; the municipality is only the place of the launch. It hosts ministries, departments and agencies, and no local government office is said to be connected."
+}

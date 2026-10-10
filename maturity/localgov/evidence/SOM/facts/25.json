@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-02-somalia-birth-registration-benadir-regional-administration",
+  "facts": [],
+  "systems": [
+    {"system": "Birth certificate issuance at district offices of the Benadir Regional Administration", "country_label": "birth certificate (Degmada)", "class": "application", "platform": "", "owner": "Benadir Regional Administration (Municipality of Mogadishu)", "tiers": "Mogadishu district offices take the applicant's details, photo and thumbprint and issue the certificate about a week later, on UNHCR's informal account of February 2023; the response does not say whether a computer system or a connection is used"},
+    {"system": "Municipal civil registers", "country_label": "", "class": "application", "platform": "", "owner": "municipal governments", "tiers": "'some' of 22 municipal governments keep registers and issue birth, death and marriage certificates (a 2016 report as cited); municipal offices of Baidoa, Jubaland and Puntland issue birth certificates (NRC, 2022)"}
+  ],
+  "note": "A country-of-origin response on birth and marriage certificates; it describes municipal and district offices issuing certificates but states nothing about the offices' connection, and the registration itself is an application."
+}

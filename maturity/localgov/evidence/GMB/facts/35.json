@@ -1,0 +1,11 @@
+{
+  "slug": "2020-06-01-gambia-moici-national-broadband-policy-2020-2024",
+  "facts": [],
+  "systems": [
+    {"system": "ECOWAN", "country_label": "ECOWAN national backbone", "class": "backbone", "platform": "947 km fibre in five rings, 24 fibre pairs", "owner": "Government of The Gambia; Gamtel operates it", "tiers": "national, along the two highways on the north and south banks; completed 2013"},
+    {"system": "National broadband network (NBN)", "country_label": "national broadband network", "class": "backbone", "platform": "420 km network", "owner": "", "tiers": "national"},
+    {"system": "Government network", "country_label": "the current government network", "class": "backbone", "platform": "", "owner": "Government of The Gambia", "tiers": "ministries and agencies; described as unstable, unreliable and hardly used"},
+    {"system": "IFMIS", "country_label": "Integrated Financial Management Information System", "class": "central", "platform": "", "owner": "", "tiers": "rolled out to a limited number of ministries and agencies using broadband"}
+  ],
+  "note": "No local government office is said to be connected. The policy (June 2020) calls the government network unfit for purpose and hardly used by ministries and agencies, and sets targets for 2024 to expand broadband to all local government areas and districts and to give every public institution, government buildings included, at least 5 Mbps: targets for areas and public institutions, not a stated connection of council offices. Local authorities (BCC, KMC, BAC) appear only as issuers of permits and fees. The capture is truncated in section 11.6."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2024-01-01-ghana-digital-economy-policy-and-strategy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "GovNet",
+      "country_label": "GovNet",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government of Ghana; described by the Minister for Communications and Digitalisation",
+      "tiers": "Connects 951 public institutions nationwide; no local government office is named among them in this document"
+    },
+    {
+      "system": "Eastern Corridor Fibre Optic Backbone",
+      "country_label": "Eastern Corridor Fibre Optic Backbone",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "The captured part of the policy (to section 2) says GovNet connects 951 public institutions and sets a pillar on national backbone infrastructure, but names no local government office as connected and states no plan to connect them."
+}

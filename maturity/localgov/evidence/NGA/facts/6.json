@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-28-nga-businessday-nigeria-66-fibre-delays-unfinished-digital-agenda",
+  "facts": [],
+  "systems": [
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE", "class": "backbone", "platform": "", "owner": "Federal Government, as a public-private partnership", "tiers": "national; 90,000 km of fibre planned, rollout said to begin October 2026 and complete in 2028; said to be designed to connect schools and hospitals"},
+    {"system": "Nigeria Universal Communication Access Project (NUCAP)", "country_label": "NUCAP", "class": "backbone", "platform": "", "owner": "Federal Government", "tiers": "new tower rollouts, to commence before the end of 2026"}
+  ],
+  "note": "An anniversary scorecard on national fibre and telecom service quality; local government areas appear only as markets smaller operators might serve, and no local government office is said to be connected."
+}

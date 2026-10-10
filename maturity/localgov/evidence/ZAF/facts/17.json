@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-itweb-dbsa-backs-48000km-fibre-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "fibre deployed through DBSA fund-management investments", "country_label": "", "class": "backbone", "platform": "", "owner": "private operators financed by the Development Bank of Southern Africa", "tiers": "47,545km of fibre in South Africa in the year to 31 March 2026; no local government office said to be on it"}
+  ],
+  "note": "Commercial fibre financed by a development bank; municipalities appear only as borrowers. No municipal office is said to be connected."
+}

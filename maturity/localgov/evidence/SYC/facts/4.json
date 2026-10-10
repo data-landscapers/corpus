@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Airtel Seychelles Data Centre Perseverance", "country_label": "Airtel Seychelles Data Centre Perseverance", "class": "backbone", "platform": "", "owner": "Airtel Seychelles (Bharti Airtel, India)", "tiers": "An operator's enterprise data centre on Perseverance Island, Mahe, operational since 2021; government is listed among its customers, with no local government office named"}
+  ],
+  "note": "A register of data centres; its one Seychelles row is a private operator's facility and states nothing about local government offices or their connection."
+}

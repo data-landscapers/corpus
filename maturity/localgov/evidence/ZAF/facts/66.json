@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-24-zaf-ndoh-09-2025-2026-appointment-of-a-service-provider-for-hosting-mainte",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System", "country_label": "District Health Information System (DHIS); District Health Management Information System (DHMIS)", "class": "central", "platform": "DHIS2, web-based since the 2014-2017 transition", "owner": "National Department of Health, with hosting and support put to bid for three years", "tiers": "health facility, district, province and national"}
+  ],
+  "note": "A health department bid for its health information system; municipalities appear only in the National Health Act duty it cites and in demarcation changes. Nothing on any municipal office's connection."
+}

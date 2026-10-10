@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-18-guichets-fonciers-diagnostic-moov",
+  "facts": [],
+  "systems": [
+    {"system": "Guichets Fonciers (commune land offices) and the national land-certificate database", "country_label": "Guichets Fonciers", "class": "application", "platform": "", "owner": "communes; diagnostic and national database by the Ministère de l'Aménagement du Territoire et des Services Fonciers", "tiers": "524 communes with a Guichet Foncier surveyed February to May 2026; 65% of the offices work manually on paper and without electricity; 911,744 certificates in the national database"}
+  ],
+  "note": "The ministry's diagnostic says 65% of commune land offices are on paper and without electricity; it states nothing about a data connection at the commune office, so no fact for the connection sub-indicator."
+}

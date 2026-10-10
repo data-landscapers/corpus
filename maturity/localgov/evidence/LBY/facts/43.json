@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "نظام المعلومات الصحية المناطقي",
+      "class": "central",
+      "platform": "DHIS2, at www.dhis2ly.ly; the health statistical information system is hosted on Al-Madar's cloud",
+      "owner": "Ministry of Health, Health Information and Documentation Centre",
+      "tiers": "Routine data collection from health facilities; dozens of training courses for staff of health facilities, municipalities and health regions, and described as activated nationally"
+    }
+  ],
+  "note": "The health ministry's page on its information centre. Municipalities appear only as one of three groups of staff trained on the ministry's DHIS2; nothing is stated on the connection of municipal government offices, and the system is a ministry's, out of the connection class."
+}

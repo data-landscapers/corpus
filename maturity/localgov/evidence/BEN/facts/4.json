@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-16-ben-lepatriote-droit-taxi-panne-connexion-cotonou",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "last12", "value": "regressing", "fact": "Le Patriote reports that a connection failure in several arrondissement offices of Cotonou on Friday 11 September 2026 stopped the registering and validating of Droit Taxi payments, leaving motorcycle-taxi drivers waiting for hours; it gives no count of offices or drivers and names no provider.", "as_of": "2026-09-11", "date_precision": "day", "system": "connexion des arrondissements de Cotonou", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Le Patriote states that Cotonou's arrondissement offices, sub-offices of the commune, register and validate Droit Taxi payments at the counter over a connection, such that its failure on 11 September 2026 blocked payment for the day; the payment system and its operator are not named.", "as_of": "2026-09-11", "date_precision": "day", "system": "connexion des arrondissements de Cotonou", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "connexion des arrondissements de Cotonou", "country_label": "connexion", "class": "connection", "platform": "", "owner": "", "tiers": "several arrondissement offices of the commune of Cotonou"},
+    {"system": "paiement du Droit Taxi", "country_label": "Droit Taxi", "class": "application", "platform": "", "owner": "municipal authorities of Cotonou, as the article addresses them; the operator is not named", "tiers": "arrondissement offices of Cotonou, at the counter"}
+  ],
+  "note": "The offices are arrondissements, sub-offices of one commune, Cotonou; who provides the connection is not stated, so no fact is given for how the office is connected."
+}

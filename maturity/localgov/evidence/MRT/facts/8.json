@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-18-etat-civil-parliamentary-id-exclusion-ladepeche",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register", "country_label": "Registre national de la population", "class": "central", "platform": "", "owner": "Ministry of the Interior (ANRPTS)", "tiers": "national; 238 local identification-and-statistics commissions installed in all communes"}
+  ],
+  "note": "A parliamentary session of 18 June 2026 on civil-status enrolment; the minister says 238 local identification commissions sit in all communes, which gives a count of communes and nothing on any commune office's connection or systems."
+}

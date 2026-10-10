@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-22-conseil-ministres-communique-11-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Equipment of provincial and communal offices", "country_label": "équipements des bureaux provinciaux et communaux", "class": "equipment", "platform": "", "owner": "the State; the Council of Ministers recommended that the general State budget contribute to or pay for it", "tiers": "provincial and communal offices where needed, with offices to be built in provinces and communes that have none (22 October 2025)"},
+    {"system": "Inventory database of vehicles, equipment and office materials", "country_label": "base de données pour l'inventaire", "class": "central", "platform": "", "owner": "each ministry; recommended by the Council of Ministers, not stated as built", "tiers": "to cover central, provincial and communal levels"}
+  ],
+  "note": "No fact: the Council of Ministers records that some communes have no office building and recommends State budget funding for offices and their equipment; no connection is mentioned."
+}

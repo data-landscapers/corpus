@@ -1,0 +1,10 @@
+{
+  "slug": "2023-11-02-eri-eritrea-administrative-structure-and-civil-documents",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic population register of each zoba", "country_label": "electronic population register; its reference number is the ASC number", "class": "application", "platform": "", "owner": "the zoba (regional) administrations; there is no national population register", "tiers": "one per zoba in all six, first in zoba Maekel in 2003; the sub-zoba administrations update the databases, enter births, marriages and deaths and issue print-outs"},
+    {"system": "Handwritten family register of the kebabi", "country_label": "family register", "class": "application", "platform": "paper", "owner": "kebabi administrations", "tiers": "every kebabi, about 2,000, the lowest administrative level; data passes to the sub-zoba by a paper transfer letter"},
+    {"system": "Civil registry of the municipality of Asmara", "country_label": "civil registry; Public Registration Office", "class": "application", "platform": "", "owner": "municipality of Asmara", "tiers": "zoba Maekel; issues birth, marriage, divorce and death certificates"}
+  ],
+  "note": "The note describes registers, not connections: sub-zoba offices key events into the zoba's electronic population register and kebabi offices keep handwritten registers and send paper transfer letters. It does not say the sub-zoba offices are networked or work online, so no connection fact is recorded; the parent may wish to check that reading."
+}

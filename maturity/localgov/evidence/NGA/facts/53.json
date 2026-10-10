@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-nigeria-project-bridge-execution-phase-bridge-oa",
+  "facts": [],
+  "systems": [
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE (Building Resilient Digital Infrastructure for Growth); Bridge Open Access (Bridge OA)", "class": "backbone", "platform": "", "owner": "Bridge Open Access, a project company with private investors in the majority and the Federal Government in the minority", "tiers": "about 90,000 km of new open-access fibre expected to reach all 774 local government areas; physical deployment not yet begun at 10 August 2026"}
+  ],
+  "note": "The national fibre programme's project company is incorporated: the network is to reach all 774 local government areas, with no local government office said to be connected."
+}

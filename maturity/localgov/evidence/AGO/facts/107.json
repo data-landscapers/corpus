@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-ago-plano-de-desenvolvimento-nacional-20232027",
+  "facts": [],
+  "systems": [
+    {"system": "Serviço Integrado de Atendimento ao Cidadão (SIAC) network", "country_label": "rede SIAC", "class": "central", "platform": "", "owner": "central public administration", "tiers": "citizen service centres; the plan is to build and equip more sub-units across the territory and invest in technology in the network"},
+    {"system": "Balcões únicos de atendimento ao público", "country_label": "balcões únicos de atendimento ao público (BUAP)", "class": "", "platform": "", "owner": "", "tiers": "the plan names their autonomisation as a priority, with no description"},
+    {"system": "Sistema de gestão integrado das autarquias locais", "country_label": "sistema de gestão integrado das autarquias locais", "class": "application", "platform": "", "owner": "", "tiers": "planned, to be created for the future elected local authorities"},
+    {"system": "Ferramenta de Planificação e Orçamentação Municipal (FPOM)", "country_label": "FPOM", "class": "application", "platform": "", "owner": "health sector", "tiers": "planned for implementation at municipal level"},
+    {"system": "Online service for issuing and paying building licences", "country_label": "serviço online para emissão e pagamento de licenças de obras", "class": "web", "platform": "", "owner": "", "tiers": "planned"},
+    {"system": "Health-sector internet network", "country_label": "rede de Internet em órgãos do sector de saúde", "class": "central", "platform": "", "owner": "Ministry of Health with private partners", "tiers": "planned partnership project for hospitals, health posts and centres, provincial and municipal health directorates and medicine stores nationally"},
+    {"system": "VID-R", "country_label": "software VID-R", "class": "central", "platform": "", "owner": "health sector", "tiers": "planned to be working in all municipalities for outbreak notification within 48 hours"},
+    {"system": "DHIS2", "country_label": "sistema DHIS2", "class": "central", "platform": "DHIS2", "owner": "health sector", "tiers": "planned national use in all bodies of the sector"}
+  ],
+  "note": "The passages of the national plan set out decentralisation, the transfer of licensing services to municipal administrations and buildings for the future local authorities; none names a connection for municipal administrations' offices, and the only internet network planned is the health sector's."
+}

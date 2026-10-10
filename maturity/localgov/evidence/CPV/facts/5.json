@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "NOSi National Data Centre (TechPark CV Praia Campus)", "country_label": "NOSi National Data Centre", "class": "backbone", "platform": "", "owner": "NOSi; State of Cabo Verde", "tiers": "Praia; operational, 2014; no local government office said to be on it"},
+    {"system": "NOSi Disaster Recovery Data Centre (TechPark CV Mindelo Campus)", "country_label": "NOSi Disaster Recovery Data Centre", "class": "backbone", "platform": "", "owner": "NOSi; State of Cabo Verde", "tiers": "Mindelo; operational, 2025; no local government office said to be on it"}
+  ],
+  "note": "A register of data centres; the Cabo Verde rows name two government data centres and a carrier's colocation site, and no local government office or its connection."
+}

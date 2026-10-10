@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-30-nga-apc-national-strategy-ccci-nigeria-2025-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Community-centred connectivity initiatives", "country_label": "community-centred connectivity initiatives (CCCIs); community networks", "class": "public-access", "platform": "", "owner": "communities, civil society and local social entrepreneurs, under a strategy convened by APC and Rhizomatica's LocNet with a National Advisory Committee", "tiers": "unserved and underserved areas; a 36-month strategy of six work packages validated in Abuja on 23 and 24 October 2024; a plan for fibre connectivity for community networks across the 774 local government areas is a task, not yet drawn up"},
+    {"system": "Galaxy Backbone and government fibre", "country_label": "Galaxy Backbone; government fibre assets", "class": "backbone", "platform": "", "owner": "Federal Government", "tiers": "said not to extend as far as commercial backbones; community initiatives along its routes to be identified and costed"},
+    {"system": "Community resource centres", "country_label": "community resource centres (CRCs) of NCC, USPF and NITDA", "class": "public-access", "platform": "", "owner": "Nigerian Communications Commission, Universal Service Provision Fund and NITDA", "tiers": "named as existing structures community networks could build on; no count given"}
+  ],
+  "note": "A civil-society strategy for community networks serving residents: local governments and their association are named as partners for advocacy and for pooled purchase of backhaul, but no local government office is said to be connected."
+}

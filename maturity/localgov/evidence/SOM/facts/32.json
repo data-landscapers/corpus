@@ -1,0 +1,10 @@
+{
+  "slug": "2021-01-01-somalia-ict-sector-support-phase-ii-icr-review",
+  "facts": [],
+  "systems": [
+    {"system": "Government backbone network", "country_label": "government backbone network", "class": "backbone", "platform": "", "owner": "Ministry of Posts, Telecommunications and Technology, financed by World Bank-administered trust funds under ICT Sector Support Phase II (2015-2020)", "tiers": "26 government locations around Mogadishu; the review says it is unclear whether the government can raise the resources to maintain it"},
+    {"system": "Communications rooms", "country_label": "communications rooms", "class": "upper-tier", "platform": "videoconferencing and broadband equipment", "owner": "Ministry of Posts, Telecommunications and Technology, under the same project", "tiers": "30 rooms in 'key ministries across all economic zones': Mogadishu, Galmudug, Somaliland, South West, Jubbaland, Puntland and Hirshabelle, against a target of 15; federal ministries and public institutions in the Federal Member States, with no local government named"},
+    {"system": "Pre-purchased international bandwidth for government", "country_label": "", "class": "central", "platform": "", "owner": "Federal Government of Somalia, under the same project", "tiers": "25 ministries and the Central Bank of Somalia"}
+  ],
+  "note": "The evaluation describes a backbone among government sites in Mogadishu and communications rooms in federal and state ministries; no district or municipal office is said to be connected, so there is no fact for the local government office."
+}

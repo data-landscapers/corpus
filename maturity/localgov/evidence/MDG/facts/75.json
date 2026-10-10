@@ -1,0 +1,8 @@
+{
+  "slug": "2018-11-27-loi-2018-027-etat-civil-who-int",
+  "facts": [],
+  "systems": [
+    {"system": "Système Informatisé de l'Etat Civil Malagasy", "country_label": "Système Informatisé de l'Etat Civil Malagasy; base de données numériques des actes d'état civil", "class": "application", "platform": "", "owner": "centre national d'état civil under the Ministry of the Interior", "tiers": "by the law, a civil-status centre at the office of each commune keeps a digital database of acts, centralised at the national centre; fokontany may host a local bureau for birth declarations"}
+  ],
+  "note": "A law, which places nothing: it prescribes a digital civil-status database at each commune's office centralised nationally, and states no connection in place."
+}

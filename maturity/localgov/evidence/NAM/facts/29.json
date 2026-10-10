@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-29-namibia-unitac-digital-job-card-climate-resilience",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Job Card", "country_label": "Digital Job Card tool", "class": "application", "platform": "Web and mobile application for creating, assigning and tracking job cards for urban services, working online and offline with automatic syncing, with dashboards and notifications for administrators", "owner": "Co-developed by the United Nations Innovation Technology Accelerator for Cities (UNITAC) and the town councils, funded by the German Federal Ministry for Economic Cooperation and Development", "tiers": "Town councils of Rehoboth, Helao Nafidi, Opuwo and Rundu, named as workshop partners and co-developers"}
+  ],
+  "note": "A records application co-developed with four town councils, replacing paper job cards; the article says internet connectivity is limited in many areas and the tool works offline, but states nothing about how the councils' own offices are connected, so no fact of the connection class is recorded."
+}

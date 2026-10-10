@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-29-how-nigeria-built-101000km-of-fibre-that-bypasses-130m-nigerians",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre-optic network", "country_label": "fibre optic backbone", "class": "backbone", "platform": "", "owner": "telecom operators; figures from the Nigerian Communications Commission", "tiers": "101,148.36 km across 36 states and the Federal Capital Territory, 18.35 per cent of it in Lagos and the FCT; about 265,000 active fibre-to-the-home subscriptions; nearly 80 per cent of licensed internet service providers in Lagos, Abuja and Port Harcourt"},
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE", "class": "backbone", "platform": "", "owner": "Federal Government", "tiers": "a further 90,000 km of fibre expected across all 774 local government areas"},
+    {"system": "NCC Ease of Doing Business Portal", "country_label": "Ease of Doing Business Portal", "class": "central", "platform": "", "owner": "Nigerian Communications Commission", "tiers": "state-by-state information on right-of-way charges and approval processes"}
+  ],
+  "note": "An account of where the national fibre runs and why it stops short of users: the regulator says the last mile into offices and communities is missing, but no local government office is named as connected or unconnected."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-burundi-civil-registry-digitization-biometric-id",
+  "facts": [],
+  "systems": [
+    {"system": "système d'enregistrement biométrique de l'état civil", "country_label": "système d'enregistrement biométrique", "class": "application", "platform": "", "owner": "", "tiers": "13 pilot communes; services being decentralised to zone level; health facilities' births and deaths integrated"},
+    {"system": "système national d'identité numérique", "country_label": "système national d'identité numérique", "class": "", "platform": "", "owner": "", "tiers": "national, being put in place"}
+  ],
+  "note": "Civil registration system in 13 pilot communes is an application; no connection of commune offices is stated."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2024-11-25-togo-digital-acceleration-project-p179138-pad",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank's appraisal document says KfW was in the final stages of preparing a EUR 20 million E-Governance Project, contract signature expected by January 2025, to extend fibre optic connectivity in the southern region with the goal of connecting mayors' and prefects' offices.", "as_of": "2024-11-25", "date_precision": "day", "system": "KfW E-Governance Project: fibre extension to mayors' and prefects' offices", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank's appraisal document says the KfW E-Governance Project that is to connect mayors' and prefects' offices by fibre in the southern region is led by the Ministry of Digital Economy and Digital Transformation (MENTD).", "as_of": "2024-11-25", "date_precision": "day", "system": "KfW E-Governance Project: fibre extension to mayors' and prefects' offices", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "KfW E-Governance Project: fibre extension to mayors' and prefects' offices", "country_label": "E-Governance Project", "class": "connection", "platform": "fibre optic", "owner": "MENTD, financed by KfW", "tiers": "mayors' and prefects' offices in the southern region"},
+    {"system": "KfW E-Governance Project: digitalisation of civil registry services", "country_label": "E-Governance Project", "class": "application", "platform": "", "owner": "MENTD, financed by KfW", "tiers": "the same communes in the southern region"},
+    {"system": "Innovation pods", "country_label": "innovation pods", "class": "public-access", "platform": "", "owner": "MENTD", "tiers": "pilot phase; ambition of one pod in each of the 117 municipalities"},
+    {"system": "Togo Digital Acceleration Project: connectivity services for education and health institutions", "country_label": "", "class": "backbone", "platform": "broadband", "owner": "MENTD, financed by the World Bank (IDA)", "tiers": "education and health institutions, prioritising the most vulnerable communes; no local government office named"}
+  ],
+  "note": ""
+}

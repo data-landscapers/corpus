@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "dark fiber connecting ministries, agencies and commissions", "country_label": "", "class": "backbone", "platform": "", "owner": "", "tiers": "ministries, agencies and commissions (MACs)"},
+    {"system": "Integrated financial management information system (IFMIS)", "country_label": "IFMIS", "class": "central", "platform": "", "owner": "", "tiers": "ministries, agencies and commissions, more than 85 percent coverage"}
+  ],
+  "note": "Regional brief; for Liberia it states IFMIS rollout to central ministries, agencies and commissions connected by dark fiber, and names no local government office or its connection."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-ken-icta-rfb-538567-national-backbone-cross-border-links",
+  "facts": [],
+  "systems": [
+    {"system": "National backbone and cross-border links, under the Kenya Digital Economy Acceleration Project (KDEAP)", "country_label": "National Backbone Links; Cross Border & Metro Links", "class": "backbone", "platform": "", "owner": "Information and Communications Technology Authority (ICTA), under the Ministry of Information, Communications and the Digital Economy; World Bank credits 7289-KE and 7290-KE", "tiers": "request for bids issued 15 September 2026; component 1 has sub-components for the backbone middle mile, last-mile connectivity for education and 'Enhancing Government Connectivity' (1.3), with no local government office named in the passages"}
+  ],
+  "note": "A tender for backbone links; the passages name a government-connectivity sub-component but put no county office on any network."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2022-07-01-mali-jo-2022-18-loi-2022-019-loi-electorale",
+  "facts": [],
+  "systems": [
+    {"system": "Projet d'Accès au service de Télécommunication des Collectivités territoriales: contract approved by Décret n°2022-0379/PT-RM of 27 June 2022 for 9,407,196,295 FCFA, to be executed in twelve months", "country_label": "Projet d'Accès au service de Télécommunication des Collectivités territoriales", "class": "", "platform": "", "owner": "", "tiers": "collectivités territoriales"}
+  ],
+  "note": "The electoral law names communes and mairies only as electoral units and places where lists are deposited. The same gazette carries a decree approving the contract for a project of telecommunication access for the collectivités territoriales, named with its amount and duration and no description of what it does or whom it connects: a systems entry with no class, and no fact."
+}

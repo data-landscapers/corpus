@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-26-dgo2025-drivers-barriers-libya-e-government",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre-optic network", "country_label": "fibre networks overseen by the Libyan Post Telecommunications & Information Technology Company (LPTIC)", "class": "backbone", "platform": "", "owner": "LPTIC, a state monopoly; regulated by the General Authority for Communication and Informatics", "tiers": "National; described as extensive but disrupted by conflict and unreliable power, with limited rural connectivity; no local government office said to be on it"}
+  ],
+  "note": "A study of barriers to e-government across Libya's public sector as a whole; local authorities appear only in titles in its reference list, and it states nothing about the connection of municipal offices."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-01-west-africa-data-center-markets-brief",
+  "facts": [],
+  "systems": [
+    {"system": "5,000km optical fibre transmission network", "country_label": "", "class": "backbone", "platform": "", "owner": "Government of Côte d'Ivoire", "tiers": "national; no local government office said to be on it"},
+    {"system": "National Data Center", "country_label": "National Data Center (ANSUT/NDC, Abidjan, in construction 2025)", "class": "backbone", "platform": "", "owner": "Government of Côte d'Ivoire (ANSUT)", "tiers": "national"}
+  ],
+  "note": "A regional data-centre market brief: for Côte d'Ivoire it lists the fibre backbone and a national data centre among government initiatives and states nothing about any local government office's connection. Its local-government and GovNet mentions are Nigeria's and Ghana's."
+}

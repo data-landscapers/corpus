@@ -1,0 +1,23 @@
+{
+  "slug": "2024-12-06-eth-request-of-expression-of-interest-eoi-development-and-implementation-o",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National digital health payment solution (requested)",
+      "country_label": "Digital Health Payments Initiative",
+      "class": "application",
+      "platform": "to be proposed by financial service providers",
+      "owner": "Ministry of Health, Digital Health Executive Office; run by the selected financial service providers",
+      "tiers": "not yet built: the request requires online reporting portals at federal, regional and woreda levels and a web-based payroll for health extension workers reachable by the finance office at woreda, regional or central level; pilot sites first"
+    },
+    {
+      "system": "Community-Based Health Insurance claim management",
+      "country_label": "CBHI",
+      "class": "",
+      "platform": "offline, Excel-based at health facilities",
+      "owner": "not stated",
+      "tiers": "health facilities; enrolment and premium collection mostly manual and cash-based, involving health workers and kebele administrators"
+    }
+  ],
+  "note": "A Ministry of Health request for expressions of interest of 6 December 2024: woreda appears as a level that must receive reports and reach a payroll portal in a system not yet procured; nothing is stated on whether woreda offices are connected."
+}

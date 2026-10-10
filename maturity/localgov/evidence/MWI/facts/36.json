@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-06-mwi-towards-improving-district-health-information-system-data-consistency",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System 2 (DHIS2)", "country_label": "DHIS2 / HMIS", "class": "central", "platform": "DHIS2", "owner": "Ministry of Health, Central Monitoring and Evaluation Division", "tiers": "data entered at the district-level HMIS office of the District Health Office from paper forms; 1,266 health facilities reporting as of January 2023; Neno began decentralising entry to health centres in November 2022"}
+  ],
+  "note": "A study of health reporting in Neno district; data entry is at the Ministry of Health's district health office, which the document does not describe as a council office, and 'district council' appears only in a reference title."
+}

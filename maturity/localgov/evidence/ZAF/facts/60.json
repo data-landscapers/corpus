@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-31-sa-operation-vulindlela-q1-2026-progress-report",
+  "facts": [],
+  "systems": [
+    {"system": "MyMzansi", "country_label": "MyMzansi", "class": "central", "platform": "", "owner": "National Treasury and the Presidency (Operation Vulindlela)", "tiers": "national; being developed into a production-ready pilot"},
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "central", "platform": "", "owner": "", "tiers": "national pilot linking administrative data across government, nine months in"},
+    {"system": "Gov.za", "country_label": "Gov.za", "class": "central", "platform": "", "owner": "", "tiers": "shared platform and design system for government websites, first participating departments"}
+  ],
+  "note": "The held extract is the report's national digital public infrastructure section; the local government section is in the artefact and not in the held text. Nothing on any municipal office's connection."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-eu-moz-govnet-team-europe",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "GovNet, the government network connecting public institutions", "class": "backbone", "platform": "", "owner": "Government of Mozambique (MCTD, INAGE named as recipient)", "tiers": "about 1,000 public institutions across 141 districts; to be expanded to at least 20 further districts"},
+    {"system": "Community Multimedia Centres", "country_label": "Community Multimedia Centres", "class": "public-access", "platform": "", "owner": "", "tiers": "to be established alongside the GovNet expansion"}
+  ],
+  "note": "A deal record built from document 12's source: the EU's 2026 annual action plan funds a EUR 7.1 million action (EUR 5 million EU budget, grant, approved) to expand GovNet to at least 20 further districts. This record speaks only of public institutions and districts and names no local government office on the network, so by the typology's test it gives no fact; the parent should read it beside document 12, which does name local administrations."
+}

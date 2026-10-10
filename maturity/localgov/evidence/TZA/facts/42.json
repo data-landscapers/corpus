@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-01-rita-universal-birth-registration-tanzania",
+  "facts": [],
+  "systems": [
+    {"system": "e-RITA", "country_label": "e-RITA; eRITA", "class": "application", "platform": "single digital platform for civil registration, with mobile and Android applications", "owner": "RITA", "tiers": "over 12,025 registration points in 2025, at health facilities and community ward executive offices, through local government authorities; health workers send records by mobile phone to a central database"}
+  ],
+  "note": "Birth registration is said to be decentralised through local government authorities to health facilities and ward executive offices; the ward is a sub-office, the slides name health workers' mobile phones as the device, and nothing is said of a connection at the council or ward office."
+}

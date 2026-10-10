@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-27-parker-open-data-misses-the-streetlight-ogp-south-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Municipal ERP modules", "country_label": "ERP", "class": "application", "platform": "", "owner": "municipalities", "tiers": "municipalities; officials say modules are too expensive or fragmented to link the IDP to the budget"},
+    {"system": "Line departments' proprietary platforms (electricity, water, waste, housing)", "country_label": "", "class": "application", "platform": "proprietary vendor systems", "owner": "municipalities, with data held inside vendor systems", "tiers": "municipal line departments, among the 10 municipalities in Open Cities Lab's community of practice"},
+    {"system": "Vulekamali", "country_label": "Vulekamali", "class": "central", "platform": "", "owner": "", "tiers": "national fiscal transparency portal"},
+    {"system": "Municipal Money", "country_label": "Municipal Money", "class": "central", "platform": "", "owner": "", "tiers": "national portal of municipal finance data"},
+    {"system": "GoMuni", "country_label": "GoMuni", "class": "", "platform": "", "owner": "", "tiers": "named as a national portal, not described"}
+  ],
+  "note": "Testimony on municipalities' fragmented applications and data; it says municipalities report to National Treasury but not how, and states nothing on any municipal office's connection."
+}

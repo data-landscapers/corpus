@@ -1,0 +1,194 @@
+{
+  "slug": "2021-11-28-dz-interieur-modernisation-services-publics",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The interior ministry says several national management information systems are already built and in operation over its intranet for decision-makers at every level, communes included, sharing information in real time, with the primary-schools system SI-SSEP marked deployed and others still being deployed; it gives no date, so the page's publication date is used.",
+      "as_of": "2021-11-28",
+      "date_precision": "day",
+      "system": "réseau Intranet du MICLAT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The interior ministry lists, among services delivered at commune counters, an electronic civil-status counter on a national automated civil-status register that lets a citizen obtain any civil-status document in real time from any commune; it gives no date or count of communes, so the page's publication date is used.",
+      "as_of": "2021-11-28",
+      "date_precision": "day",
+      "system": "réseau Intranet du MICLAT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "The interior ministry says the information systems it provides to communes, dairas, wilayas and the centre are put into operation 'via the MICLAT intranet network', the ministry's own network; it does not say how each commune is linked or who pays, and gives no date, so the page's publication date is used.",
+      "as_of": "2021-11-28",
+      "date_precision": "day",
+      "system": "réseau Intranet du MICLAT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The interior ministry presents the intranet and the systems run over it at commune, daira, wilaya and central level as its own modernisation programme, launched under the government's action plans; no partner or vendor is named and no date is given, so the page's publication date is used.",
+      "as_of": "2021-11-28",
+      "date_precision": "day",
+      "system": "réseau Intranet du MICLAT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The interior ministry states a four-axis modernisation strategy whose third axis is providing management information systems to decision-makers at all levels, communes included, over its intranet; the page gives no cost, period or coverage target and no date, so its publication date is used.",
+      "as_of": "2021-11-28",
+      "date_precision": "day",
+      "system": "réseau Intranet du MICLAT",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "réseau Intranet du MICLAT",
+      "country_label": "réseau Intranet du MICLAT",
+      "class": "connection",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire",
+      "tiers": "Commune, daira and circonscription administrative, wilaya and wilaya déléguée, central"
+    },
+    {
+      "system": "SI-SSEP",
+      "country_label": "Système d'information national de suivi de la situation des écoles primaires « SI-SSEP »",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Marked deployed; over the MICLAT intranet, levels commune to central"
+    },
+    {
+      "system": "SI-SSECL",
+      "country_label": "Système d'information national de suivi de la situation socio-économique des collectivités locales « SI-SSECL »",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Over the MICLAT intranet, levels commune to central; deployment status not stated"
+    },
+    {
+      "system": "SI-SBFCL",
+      "country_label": "Système d'information national de suivi de la situation budgétaire et financière des collectivités locales « SI-SBFCL »",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Over the MICLAT intranet, levels commune to central; deployment status not stated"
+    },
+    {
+      "system": "SI-PSASE",
+      "country_label": "Système d'information national de suivi des activités relatives à la saison estivale des collectivités locales « SI-PSASE »",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Over the MICLAT intranet; deployment status not stated"
+    },
+    {
+      "system": "Système d'information de la gestion du budget communal",
+      "country_label": "Système d'information de la gestion du budget communal",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Commune; deployment status not stated"
+    },
+    {
+      "system": "Système d'information destiné à l'urbanisme et l'aménagement urbain",
+      "country_label": "Système d'information destiné à l'urbanisme et l'aménagement urbain",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Système d'information destiné à la gestion du patrimoine des collectivités locales",
+      "country_label": "Système d'information destiné à la gestion du patrimoine des collectivités locales",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Système d'information de la liste des bénéficiaires de la solidarité Ramadan",
+      "country_label": "Système d'information destiné à l'élaboration de la liste des bénéficiaires de la solidarité Ramadan",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Système d'information de recensement des bénéficiaires de la prime spéciale de scolarité",
+      "country_label": "Système d'information destiné au recensement des bénéficiaires de la Prime spécial de scolarité",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Fichier national des demandeurs de logement",
+      "country_label": "Système d'information destiné à la gestion du fichier national pour les demandeurs de logement",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "National; not stated further"
+    },
+    {
+      "system": "Système d'information de recensement des bidonvilles",
+      "country_label": "Système d'information destiné au recensement des bidonvilles à travers tout le territoire national",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "National; not stated further"
+    },
+    {
+      "system": "Système d'information de recensement des zones d'ombre",
+      "country_label": "Système d'information de recensement des zones d'ombre et de suivi des projets spéciaux destinés à leur développement",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Guichet électronique de l'état civil",
+      "country_label": "Guichet électronique de l'état civil; registre national automatique de l'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Commune counters; documents obtainable from any commune"
+    },
+    {
+      "system": "Guichet électronique des documents biométriques",
+      "country_label": "Guichet électronique des documents biométriques",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Commune counters"
+    },
+    {
+      "system": "Registre national pour le certificat de résidence",
+      "country_label": "Registre national pour le certificat de résidence",
+      "class": "application",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Listed under services at commune counters"
+    },
+    {
+      "system": "Services électroniques du MICLAT au profit du citoyen",
+      "country_label": "services électroniques mis à la disposition du citoyen",
+      "class": "web",
+      "platform": "",
+      "owner": "MICLAT",
+      "tiers": "Online, to save citizens the journey to the commune; the ministry's services, not a commune's own site"
+    }
+  ],
+  "note": "An undated programme description: it gives no count or share of communes on the intranet, no dates and no financing, and does not say which systems listed after SI-SSEP were live."
+}

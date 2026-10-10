@@ -1,0 +1,10 @@
+{
+  "slug": "2021-06-15-wb-sen-002-senegal-cadastre-land-tenure-improvement",
+  "facts": [],
+  "systems": [
+    {"system": "Land Information System (LIS)", "country_label": "municipal land information system, since named the Land Information System (LIS)", "class": "application", "platform": "", "owner": "Republic of Senegal, under the World Bank-financed Cadastre and Land Tenure Improvement Project (P172422)", "tiers": "municipalities; at the supervision mission of 10-25 November 2025, zero of a 120-municipality target were equipped and operational with LIS access"},
+    {"system": "SIFCOM", "country_label": "SIFCOM", "class": "application", "platform": "", "owner": "PROCASEF", "tiers": "128 land offices built and equipped with it, by the project's own count for March 2026; what it does is not described"},
+    {"system": "Système de Gestion Foncière", "country_label": "Système de Gestion Foncière", "class": "central", "platform": "", "owner": "Direction générale des Impôts et des Domaines (DGID)", "tiers": "the tax directorate's system, with which the LIS is intended to interoperate"}
+  ],
+  "note": "A World Bank deal record for a US$80 million land cadastre project approved 15 June 2021. Everything it states for municipalities concerns a land application: zero of 120 target municipalities equipped and operational with LIS access in November 2025, 128 land offices equipped with SIFCOM by March 2026. No connection at a municipal office is stated, so no fact."
+}

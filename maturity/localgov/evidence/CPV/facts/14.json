@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-01-cabo-verde-world-bank-human-capital-project-restructuring-csu",
+  "facts": [],
+  "systems": [
+    {"system": "Cadastro Social Único (CSU), the unified social registry", "country_label": "Cadastro Social Único (CSU)", "class": "central", "platform": "", "owner": "Ministry of Family, Inclusion and Social Development (MFIDS)", "tiers": "national registry; no municipal office is said to work in it"},
+    {"system": "distance learning centres for teacher training", "country_label": "distance learning centers", "class": "central", "platform": "", "owner": "Ministry of Education", "tiers": "established in all 22 municipalities, as places and not as council offices"}
+  ],
+  "note": "Municipalities appear only as the geography of social programmes ('all 22 municipalities'); the paper says nothing of municipal councils' offices, systems or connection. The capture is an excerpt, cut off in the results table."
+}

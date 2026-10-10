@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-18-dgdec-etat-civil-digitalisation-egmrg",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de l'Etat Civil (RNEC)", "country_label": "Registre National de l'Etat Civil (RNEC)", "class": "application", "platform": "", "owner": "MATDDL / DGDEC, supported by the MODERO project (European Union, CIVIPOL as technical operator)", "tiers": "centralised national database of more than 225,000 birth records; the act is drawn up at the mairie and then integrated"},
+    {"system": "Logiciel de gestion de l'état civil", "country_label": "logiciel d'état civil intégré centrafricain", "class": "application", "platform": "home-grown, in development", "owner": "MATDDL / DGDEC", "tiers": "not yet deployed; deployment listed as a next step"},
+    {"system": "Late-registration platform with mobile teams", "country_label": "Plateforme (saisie unique); équipes mobiles sur kits solaires, tablettes/Kobo", "class": "application", "platform": "Kobo on tablets", "owner": "MATDDL / DGDEC with MODERO", "tiers": "mobile teams in rural areas; 45 centres mapped for digitisation"},
+    {"system": "Equipment of civil registration centres", "country_label": "réhabilitation et équipement des centres d'état civil", "class": "equipment", "platform": "solar power, computer hardware", "owner": "MATDDL / DGDEC with MODERO", "tiers": "civil registration centres, number not given"}
+  ],
+  "note": "The ministry's presentation of 18 July 2026 states 70% of civil registration centres without electricity and 77% manual working, and equipment given to centres, but states no connection at any commune office; equipment and applications give no fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-31-tanzania-ppaa-online-appeals-nest-public-tenders",
+  "facts": [],
+  "systems": [
+    {"system": "National e-Procurement System (NeST)", "country_label": "NeST", "class": "application", "platform": "", "owner": "", "tiers": "bidders and procuring entities; no local government tier stated"},
+    {"system": "Complaints and Appeals Module", "country_label": "Complaints and Appeals Module", "class": "application", "platform": "module of NeST", "owner": "Public Procurement Appeals Authority (PPAA)", "tiers": "domestic and international bidders; in official use since February 2025"}
+  ],
+  "note": "Procurement appeals module only; nothing on local government offices or their connection."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-01-somalia-land-sector-a-snapshot",
+  "facts": [],
+  "systems": [
+    {"system": "GIS property databases for tax collection", "country_label": "GIS database", "class": "application", "platform": "", "owner": "municipalities, established with UN-Habitat support", "tiers": "Hargeisa (more than 60,000 properties, without ownership information), Boroma and Berbera in Somaliland; Garowe and Gardo in Puntland"},
+    {"system": "Municipal land registration", "country_label": "", "class": "application", "platform": "", "owner": "municipalities", "tiers": "Garowe and Bossaso register land ownership and transfers at municipal level; the document does not say whether the registers are digital"},
+    {"system": "Property databases linked to a financial and billing automated system", "country_label": "", "class": "application", "platform": "", "owner": "local authorities, under the Joint Programme on Local Governance and Decentralised Service Delivery", "tiers": "a GIS-based property survey in 'all major towns' of the programme's target districts in Somaliland, Puntland and Banadir Regional Administration"},
+    {"system": "State Land Registry", "country_label": "State Land Registry", "class": "upper-tier", "platform": "", "owner": "South West State", "tiers": "established in law by the South West Urban Land Law of 2022"}
+  ],
+  "note": "The systems the snapshot describes in municipalities are property and land databases, which are applications; it says nothing of how any municipal office is connected."
+}

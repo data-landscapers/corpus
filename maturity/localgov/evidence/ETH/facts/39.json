@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-eth-contributions-of-district-health-information-software-2-dhis2-to-mater",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "DHIS2", "class": "application", "platform": "DHIS2, in offline and web-based versions", "owner": "Ministry of Health", "tiers": "over 4,000 primary health care institutions (district hospitals, health centres, health posts and woreda health offices), said to be 95% of those eligible; close to 30% of 194 surveyed facilities used it mainly offline"},
+    {"system": "e-HMIS", "country_label": "e-HMIS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DHIS m-health", "country_label": "DHIS m-health", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A study of the health ministry's DHIS2 in primary health care units of four regions, 2013 to 2022: woreda health offices appear as the managers of sampled facilities and as a sampling frame, and nothing is stated about the connection of any woreda office. DHIS2 is classed application because woreda health offices are among its users; the parent may prefer central."
+}

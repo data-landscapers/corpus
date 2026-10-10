@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-21-bfa-mtdpce-casem-extraordinaire-pta-2025-execution-10-80",
+  "facts": [],
+  "systems": [
+    {"system": "RESINA", "country_label": "Résina", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "38 public structures interconnected in the first half of 2025; no commune office named"},
+    {"system": "Backbone fibre optique", "country_label": "Backbone", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "studies started for a 302 km extension"},
+    {"system": "mini data centers", "country_label": "mini data centers", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "under way at 30 June 2025"}
+  ],
+  "note": "No fact: the ministry's mid-2025 review; 38 public structures joined RESINA in the half-year but none is said to be a local government office."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-mdg-lexpressmg-etat-civil-20-pourcent-sans-identite-legale",
+  "facts": [],
+  "systems": [
+    {"system": "Enregistrement biométrique à l'état civil au niveau des communes", "country_label": "enregistrement biométrique", "class": "application", "platform": "", "owner": "the State, with partners", "tiers": "communes; a stated priority on 15 September 2026, not yet in place"}
+  ],
+  "note": "A planned biometric civil-registration build-out at commune level; no connection of commune offices is stated."
+}

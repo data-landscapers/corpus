@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-18-cubango-transicao-administracao-analogica-para-digital-sigda",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The secretary-general of the Cubango provincial government said its SIGDA project, approved on 18 December 2025, includes specific solutions to assure internet access in all the province's municipal administrations, against weak internet and electricity coverage in some municipalities such as Mavengue; no number of administrations is given.", "as_of": "2025-12-18", "date_precision": "day", "system": "internet access for municipal administrations under the SIGDA project", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The Cubango provincial government approved on 18 December 2025 a project that provides for internet access in all its municipal administrations, with implementation to start in January 2026 and six months allowed to full operation; the connection is planned, not reported as delivered.", "as_of": "2025-12-18", "date_precision": "day", "system": "internet access for municipal administrations under the SIGDA project", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "internet access for municipal administrations under the SIGDA project", "country_label": "soluções específicas para assegurar o acesso à internet em todas as administrações municipais", "class": "connection", "platform": "", "owner": "Governo Provincial do Cubango", "tiers": "all municipal administrations of Cubango province, planned"},
+    {"system": "SIGDA", "country_label": "Sistema Integrado de Gestão Documental e Arquivo", "class": "application", "platform": "", "owner": "Governo Provincial do Cubango", "tiers": "provincial government, with system administrators drawn from each municipal administration; planned from January 2026"},
+    {"system": "SIGDA citizen app", "country_label": "aplicativo", "class": "web", "platform": "", "owner": "Governo Provincial do Cubango", "tiers": "citizens and firms of the province, planned"}
+  ],
+  "note": ""
+}

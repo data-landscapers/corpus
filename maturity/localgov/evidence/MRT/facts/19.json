@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-01-mauritanie-nasmo-2024-scapp-chantier-3-infrastructures",
+  "facts": [],
+  "systems": [
+    {"system": "RIAD", "country_label": "réseau haut débit de l'administration RIAD; intranet rapide de l'administration", "class": "backbone", "platform": "", "owner": "government of Mauritania", "tiers": "2024 outturn: more than 350 sites connected to RIAD and more than 300 sites interconnected with the administration's fast intranet; the sites are not described and no local government office is said to be among them"},
+    {"system": "système d'information territoriale (SIT)", "country_label": "système d'information territoriale (SIT)", "class": "", "platform": "", "owner": "", "tiers": "being set up, 30% done in 2024; what it does is not described"}
+  ],
+  "note": "The government's draft note on 2024 infrastructure outturn (May 2025; the held body is an excerpt cut off in section II.3) counts sites connected to the government network RIAD without saying what the sites are; no commune office is placed on the network, so it is noted as backbone and gives no fact."
+}

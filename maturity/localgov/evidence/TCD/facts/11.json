@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfants",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national biométrique", "country_label": "registre national biométrique", "class": "central", "platform": "", "owner": "ANATS", "tiers": "national; fed by ANATS enrolment teams with smartphones in households across twelve provinces"}
+  ],
+  "note": "A birth-registration campaign launched 2026-07-24 and run by ANATS enrolment teams with smartphones; local government offices and their connection are not mentioned."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
+  "facts": [],
+  "systems": [
+    {
+      "system": "online one-stop public service portal",
+      "country_label": "",
+      "class": "central",
+      "platform": "portal reachable from several channels including a mobile application",
+      "owner": "central government",
+      "tiers": "national; no local authority is named"
+    },
+    {
+      "system": "E-Government Procurement (e-GP)",
+      "country_label": "e-GP",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "introduced in 2015 and mandatory since 2021; no local authority is named"
+    },
+    {
+      "system": "MauSign",
+      "country_label": "MauSign",
+      "class": "",
+      "platform": "digital signature service",
+      "owner": "",
+      "tiers": "national"
+    }
+  ],
+  "note": "The brief scores Mauritius's central government only (Group A; CGSI 0.89, PSDI 0.92); local government appears for Tanzania and Uganda and as a regional opportunity, never for Mauritius, so there is no fact on a local authority office's connection."
+}

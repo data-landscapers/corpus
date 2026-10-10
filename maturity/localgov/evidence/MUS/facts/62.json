@@ -1,0 +1,9 @@
+{
+  "slug": "1982-01-01-civil-status-act-2023-revision-birth-registration",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Status Database", "country_label": "Civil Status Database", "class": "", "platform": "", "owner": "", "tiers": "named in the section list only (section 8A)"},
+    {"system": "Central Population Database", "country_label": "Central Population Database (CPD)", "class": "", "platform": "", "owner": "", "tiers": "named in the section list only (sections 8B and 8C)"}
+  ],
+  "note": "The passages give only the duty of every local authority to furnish civil status particulars to the Registrar of Civil Status on request, with no means stated; the two databases are named in the section list without description. No connection of a local authority's office is stated."
+}

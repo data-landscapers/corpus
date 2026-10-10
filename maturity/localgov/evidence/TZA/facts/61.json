@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01 Tanzania e-Government Strategy 2022 (2022-2027)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "GovNet",
+      "country_label": "GovNet",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated; the strategy names limited GovNet bandwidth as a problem"
+    }
+  ],
+  "note": "The raw file is an excerpt (a companion page to the PDF): it names limited GovNet bandwidth and inadequate data centre resources as problems the 2022-2027 strategy addresses, and puts no local government office on the network."
+}

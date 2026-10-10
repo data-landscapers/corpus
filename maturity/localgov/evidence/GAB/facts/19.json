@@ -1,0 +1,66 @@
+{
+  "slug": "2026-04-01-rag-operationnel-oyem-aninf-modernisation-administrative-province",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "Gabon Review reports that the Mairie Centrale d'Oyem is among the administrations of Oyem already on the Réseau de l'Administration Gabonaise, a public fibre-optic network dedicated to the administration that ANINF, the state's digital infrastructure agency, has brought into service there; the activation is undated, so the date is the article's.",
+      "as_of": "2026-04-01",
+      "date_precision": "day",
+      "system": "Réseau de l'Administration Gabonaise (RAG)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "Gabon Review says the RAG connection at Oyem improves the working conditions of the public services and prepares the progressive integration of new digital uses in the administrations concerned; it names no system the town hall's staff work in, and the date is the article's.",
+      "as_of": "2026-04-01",
+      "date_precision": "day",
+      "system": "Réseau de l'Administration Gabonaise (RAG)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:1",
+      "fact": "Gabon Review names one local government office on the RAG, the Mairie Centrale d'Oyem in Woleu-Ntem, beside the town's police station and courthouse, and says activation will continue to other administrations of the locality and then to other public entities; it gives no total of communes connected or to be connected, and the date is the article's.",
+      "as_of": "2026-04-01",
+      "date_precision": "day",
+      "system": "Réseau de l'Administration Gabonaise (RAG)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Gabon Review describes the RAG as a public network dedicated to the administrations and controlled by the State, activated at Oyem by ANINF, which it calls the State's operational arm for public digital infrastructure; it states no cost and no source of finance, and the date is the article's.",
+      "as_of": "2026-04-01",
+      "date_precision": "day",
+      "system": "Réseau de l'Administration Gabonaise (RAG)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Gabon Review reports that the RAG fibre infrastructure at Oyem, installed in 2010 and inactive since, has been brought into service by ANINF and already serves the Mairie Centrale d'Oyem; the activation is undated, so the date is the article's.",
+      "as_of": "2026-04-01",
+      "date_precision": "day",
+      "system": "Réseau de l'Administration Gabonaise (RAG)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Réseau de l'Administration Gabonaise (RAG)",
+      "country_label": "Réseau de l'Administration Gabonaise (RAG)",
+      "class": "connection",
+      "platform": "State-owned fibre-optic network",
+      "owner": "ANINF (Agence Nationale des Infrastructures Numériques et des Fréquences)",
+      "tiers": "At Oyem (Woleu-Ntem): the Mairie Centrale d'Oyem, the Commissariat d'Oyem and the Palais de Justice d'Oyem; installed in 2010, inactive until activated (reported 1 April 2026); to be extended to other administrations of the town and then to other public entities; meant to connect deconcentrated services and local authorities to one architecture"
+    }
+  ],
+  "note": ""
+}

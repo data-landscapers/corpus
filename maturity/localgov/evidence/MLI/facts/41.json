@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-23-mali-obligations-paiement-numerique-services-publics",
+  "facts": [],
+  "systems": [
+    {"system": "Mandatory digital payment for a first wave of public service operations, including taxes and duties owed to the collectivités territoriales and fees for civil status acts, resting on mobile money services and digital platforms", "country_label": "paiement numérique", "class": "application", "platform": "mobile money services and digital platforms, unnamed", "owner": "four ministries by interministerial instruction of 2024-07-19; operations listed by order of the finance minister", "tiers": "state services, national public establishments and the collectivités territoriales; mayors and heads of special delegations named among those to implement it"}
+  ],
+  "note": "The interministerial instruction of 2024-07-19 making digital payment mandatory for listed operations, some of them the local governments': a payment application, with nothing stated about how any local government office is connected."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-13-mauritius-national-ai-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "Government Intranet Network Systems (GINS)", "country_label": "Government Intranet Network Systems (GINS)", "class": "backbone", "platform": "", "owner": "Government of Mauritius", "tiers": "secure connectivity and data exchange across ministries, departments and agencies; no local authority named"},
+    {"system": "Government Online Centre (GOC)", "country_label": "Government Online Centre (GOC)", "class": "backbone", "platform": "", "owner": "Government of Mauritius", "tiers": "unified digital access layer for government-to-citizen, -business and -government services; no local authority named"}
+  ],
+  "note": "The strategy describes the government intranet as linking ministries, departments and agencies and the GOC as the single service gateway; it puts no local authority office on either, so both are backbone entries and there is no fact."
+}

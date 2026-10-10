@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-21-bioenable-mosip-national-digital-id-pilot-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP-based national digital ID pilot", "country_label": "", "class": "central", "platform": "MOSIP; BioEnable IriUniverse-Two iris scanners", "owner": "Ministry of Interior, Public Security and Territorial Administration, with WURI-Niger", "tiers": "pilot enrolment of over 3,000 people in four communes (Tanout, Mayahi, Doutchi, Tagazar)"}
+  ],
+  "note": "A national digital ID enrolment pilot run by the interior ministry; communes are only the places where enrolment took place, and no local government office's connection is described."
+}

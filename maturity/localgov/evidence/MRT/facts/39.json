@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-01-mauritanie-evaluation-schema-directeur-reforme-finances-publiques-telepaiement",
+  "facts": [],
+  "systems": [
+    {"system": "SIGel", "country_label": "SIGel (Système Intégré de gestion locale)", "class": "application", "platform": "", "owner": "", "tiers": "collectivités territoriales; the evaluation records the software's near-total alignment with the 2023 budget and accounting instruction for collectivités territoriales"},
+    {"system": "ARKAM", "country_label": "ARKAM (nouvelle application de comptabilité de l'État)", "class": "central", "platform": "", "owner": "DGTCP, Ministry of Finance", "tiers": "114 of 171 Treasury accounting posts: 30 ministerial accounting departments, 4 Nouakchott regional treasuries, 10 Nouakchott perceptions, 12 interior treasuries and 44 deconcentrated perceptions"}
+  ],
+  "note": "The EU-funded evaluation of the 2021-2025 public finance reform covers the state's own finance systems; it names SIGel only for its alignment with the local accounting instruction and states no connection at commune offices. The body is an excerpt cut off in Axe F."
+}

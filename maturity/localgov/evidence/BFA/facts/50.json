@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-04-burkina-revue-mi-parcours-budget-etat-2025",
+  "facts": [],
+  "systems": [
+    {"system": "solution technologique de l'informatisation de l'état civil", "country_label": "informatisation de l'état civil", "class": "application", "platform": "", "owner": "state budget programme 015 Etat civil", "tiers": "principal civil-status centres; the flattened table shows a realisation of 0 against the programme's indicators at 30 June 2025, row alignment uncertain"},
+    {"system": "identifiant unique du citoyen à l'état civil (IUCEC)", "country_label": "IUCEC", "class": "application", "platform": "", "owner": "state budget programme 015 Etat civil", "tiers": "communes; indicator is the number of communes where it is operational, read as 0 at 30 June 2025 from a flattened table"}
+  ],
+  "note": "No fact: the passages of the mid-year budget review carry performance indicators for the civil-status programme in communes, which are applications; nothing states the connection of commune offices, and the passages given do not include any text on the government network."
+}

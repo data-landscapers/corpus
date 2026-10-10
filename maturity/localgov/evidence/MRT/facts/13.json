@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-12-ami-permis-de-construire-khadematy-paiement-portefeuilles-electroniques",
+  "facts": [],
+  "systems": [
+    {"system": "building permit service on Khadematy", "country_label": "numérisation des procédures d'octroi des permis de construire via le portail « Khadematy »", "class": "web", "platform": "Khadematy public services portal", "owner": "Ministry of Digital Transformation and Modernisation of the Administration, with the ministries of housing, state property and decentralisation", "tiers": "the municipalities of the three Nouakchott wilayas only, from 12 March 2026; procedures elsewhere unchanged pending generalisation; tariff approved by Nouakchott's municipal councils"}
+  ],
+  "note": "Reports the launch on 12 March 2026 of online building-permit applications for residents of Nouakchott's municipalities on the national Khadematy portal, with files processed by 'the authorities concerned'; it does not say a commune office works in the system or is connected, so the service is noted and gives no fact."
+}

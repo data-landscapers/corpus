@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-03-eth-system-transformation-grant-annual-progress-report-template-for-projec",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS), digitized", "country_label": "digitized EMIS / EMIS enterprise application", "class": "application", "platform": "web-based platform for real-time data collection, analytics and visualisation", "owner": "Ministry of Education (developed with World Bank and UNICEF support, GPE-funded)", "tiers": "developed, tested and piloted to cover federal, regional, woreda and school levels in the year to June 2025; deployment across 156 target weredas and their schools planned for July 2025 to June 2026"}
+  ],
+  "note": "An education grant progress report: woredas are its target areas, and woreda education officials are to be trained on the EMIS, with 4,500 computers going to primary schools, not to woreda offices. It states nothing about a connection at any woreda office."
+}

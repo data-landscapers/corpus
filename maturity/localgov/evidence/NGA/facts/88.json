@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-18-digital-birth-registration-expands-identity-access-for-children",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Birth Registration (eBR) system / Vital Registration (VitalReg) application", "country_label": "eBR; VitalReg", "class": "central", "platform": "VitalReg application, built with Banksforte Technologies Limited", "owner": "National Population Commission, with UNICEF support; partners NIMC, ALGON and Banksforte", "tiers": "NPC registration centres located mostly at Local Government Areas, decentralised to ward and community registration points; a Netherlands-funded push in Kano State (Gwarzo LGA named)"}
+  ],
+  "note": "The registration system is the National Population Commission's, a national agency working through its own centres and ward registration points; the document does not say any local government office is connected or works in it."
+}

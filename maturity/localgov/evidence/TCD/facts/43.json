@@ -1,0 +1,9 @@
+{
+  "slug": "2017-04-27-aimf-ndjamena-mobilisation-recettes-modernisation-gestion-financiere",
+  "facts": [],
+  "systems": [
+    {"system": "SIM_ba", "country_label": "SIM_ba", "class": "application", "platform": "AIMF's integrated budget and accounting software", "owner": "AIMF, made available to partner cities; programme co-financed by the European Union (EUR 350,000), AIMF (EUR 230,000) and the Mairie de N'Djamena (EUR 120,000)", "tiers": "Mairie de N'Djaména, under the 2013-2016 revenue mobilisation programme; the document says the software runs in 76 cities of 11 countries and does not say outright that it is live in N'Djaména"},
+    {"system": "Adressage de la ville (street addressing with a simple information system and taxable-activity database)", "country_label": "adressage", "class": "application", "platform": "", "owner": "Mairie de N'Djaména with AIMF", "tiers": "N'Djaména, 2013-2016"}
+  ],
+  "note": "A 2013-2016 programme computerising N'Djaména's accounting chain and addressing: applications in the capital's town hall, with no connection stated."
+}

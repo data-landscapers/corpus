@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-27-comoros-civil-registry-digitisation-pin-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "civil registry system (digitisation plan under Amecc, with a Personal Identification Number)", "country_label": "civil registry / état civil", "class": "application", "platform": "", "owner": "Government of Comoros through the Amecc programme; funded by the French Embassy, UNICEF technical support", "tiers": "nationwide plan; preparatory studies validated in Moroni on 25 March 2026; municipalities support it; largely manual per a 2022 assessment"}
+  ],
+  "note": "Reports validation of the civil registry digitisation studies; says the study assessed existing infrastructure and that digital maturity is uneven across the islands, with no statement on any municipality's connection."
+}

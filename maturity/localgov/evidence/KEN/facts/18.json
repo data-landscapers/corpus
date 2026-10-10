@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-08-govstack-mkulima-bora-kenya-agricultural-marketplace",
+  "facts": [],
+  "systems": [
+    {"system": "Mkulima Bora", "country_label": "Mkulima Bora", "class": "application", "platform": "open source, Python and Flutter, on GovStack components; integrates with the Integrated Population Registration System (IPRS)", "owner": "built by Nanocomputing Limited with GIZ and Rift Valley county governments", "tiers": "pilot in five counties (Bomet, Kericho, Nandi, Uasin Gishu, Elgeyo Marakwet), more than 1,000 farmers, buyers and aggregators registered; county administrations approve suppliers and manage extension officers in it"}
+  ],
+  "note": "A piloted agricultural marketplace in which county administrations approve suppliers; the document says nothing of where county staff work in it or how county offices are connected."
+}

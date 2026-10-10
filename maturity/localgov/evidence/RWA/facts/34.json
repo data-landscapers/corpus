@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-27-mbaza-platform-launched",
+  "facts": [],
+  "systems": [
+    {"system": "Mbaza Digital Citizen Engagement Portal", "country_label": "Mbaza", "class": "web", "platform": "www.mbaza.gov.rw", "owner": "Ministry of Local Government, with the Ministry of Innovation and Technology", "tiers": "one-month trial from 27 January 2026 in the three districts of the City of Kigali, with staff trained from district to cell level; nationwide rollout to follow"}
+  ],
+  "note": "The launch of a citizen-facing complaints and feedback portal, class web; staff from district to cell level in Kigali were trained to use it, but nothing is stated about the offices' connection."
+}

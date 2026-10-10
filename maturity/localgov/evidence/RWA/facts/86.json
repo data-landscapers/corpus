@@ -1,0 +1,80 @@
+{
+  "slug": "2012-03-12-rwanda-ict-procurement-ministerial-instructions-2012",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Ministerial Instructions 001/2012 of 12 March 2012 provide that internet bandwidth acquired by the Rwanda Development Board on a 10-year lease from 2012 'shall be distributed' to central and local government institutions across the country, managed centrally and delivered over the government's National Backbone Optic Fiber by the company that operates it, under a service level agreement with RDB; the text is an instruction and reports no office as connected.",
+      "as_of": "2012-03-12",
+      "date_precision": "day",
+      "system": "centrally procured internet bandwidth for central and local government institutions",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The 2012 instructions state that the 10-year bandwidth supply was acquired by RDB 'with the support of the World Bank' and that beneficiary institutions, local government among them, are not required to pay for the bandwidth itself.",
+      "as_of": "2012-03-12",
+      "date_precision": "day",
+      "system": "centrally procured internet bandwidth for central and local government institutions",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The 2012 instructions require each beneficiary institution to pay for fibre access (bandwidth transport) and technical support at prices published by RDB, to buy any extra bandwidth, WAN, VPN or dark fibre itself, and to pay at cost for extending the national backbone to its premises to join the e-Government wide area network; no amounts are given.",
+      "as_of": "2012-03-12",
+      "date_precision": "day",
+      "system": "centrally procured internet bandwidth for central and local government institutions",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "Under the 2012 instructions the connection prescribed for central and local government institutions is one provided to the institution: state-procured bandwidth delivered over the national fibre backbone, with the institution paying the access fee; this is what the instruction prescribes, not a report that offices were connected.",
+      "as_of": "2012-03-12",
+      "date_precision": "day",
+      "system": "centrally procured internet bandwidth for central and local government institutions",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Centrally procured Government internet bandwidth",
+      "country_label": "Internet bandwidth centrally procured by RDB",
+      "class": "connection",
+      "platform": "delivered over the National Backbone Optic Fiber",
+      "owner": "Rwanda Development Board (RDB), with a managing company under a service level agreement",
+      "tiers": "central and local government institutions and other selected public institutions across the country, as prescribed"
+    },
+    {
+      "system": "National Backbone Optic Fiber",
+      "country_label": "National Backbone Optic Fiber infrastructure; national fiber optic backbone",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "established by the Government; managed and operated by a company",
+      "tiers": "national"
+    },
+    {
+      "system": "e-Government wide area network",
+      "country_label": "e-Government wide area network",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "government institutions that have the backbone extended to their premises, at cost"
+    },
+    {
+      "system": "National Data Center",
+      "country_label": "National Data Center (NDC)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "run by a selected managing company on a fee-for-service basis",
+      "tiers": "all government systems holding critical data are to be hosted there"
+    }
+  ],
+  "note": "A ministerial instruction of 2012: every fact here is what the instrument prescribes for central and local government institutions alike, with no count of offices and no report of delivery."
+}

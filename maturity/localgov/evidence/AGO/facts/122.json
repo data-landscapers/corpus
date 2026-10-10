@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-24-angolanewswire-17-million-identity-cards",
+  "facts": [],
+  "systems": [
+    {"system": "National identity card (BI) issuance and printing", "country_label": "Bilhete de Identidade (BI)", "class": "central", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "local issuance and printing capacity in all 21 provinces, nine printing centres in Luanda, and mobile brigades with portable printers for communes and isolated settlements"},
+    {"system": "civil registry database", "country_label": "civil registry database", "class": "central", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "national"}
+  ],
+  "note": "A report of 24 September 2026 on identity cards issued by the justice ministry's own services and mobile teams; it names no local government office and states nothing on a connection."
+}

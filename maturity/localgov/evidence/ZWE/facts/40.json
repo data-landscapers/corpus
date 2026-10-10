@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-05-coloniality-chinese-surveillance-technologies-africa-ijriss",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe; Chinese-built", "tiers": "national"}
+  ],
+  "note": "A continental essay on Chinese surveillance technology. 'Local governments' is used generically; for Zimbabwe it names only state surveillance of dissent, NetOne's Huawei contracts and the Chinese-built National Data Centre, and no local authority office or system."
+}

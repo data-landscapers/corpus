@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-14-cameroon-camtel-zamengoe-data-centre",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Center de Zamengoe",
+      "country_label": "Data Center de Zamengoe",
+      "class": "backbone",
+      "platform": "",
+      "owner": "CAMTEL",
+      "tiers": "National; a Tier III facility offered to public and private institutions for hosting, with no local government said to use it"
+    }
+  ],
+  "note": "A report of a visit by Plan International Cameroon to CAMTEL's data centre on 13 August 2026: a national hosting facility; the only mention of communes is a headline in the site's sidebar, and nothing is stated about local government offices."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-09-sonatel-starlink-senegal-licence-suspension",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "Le Soleil reports that the government's New Deal Technologique programme provided for the state to acquire 5,000 Starlink kits at a preferential price, among other things to connect schools and collectivités territoriales; no count of local governments is given, and the scheme is undated in the document, so the date is its publication date.", "as_of": "2026-09-09", "date_precision": "day", "system": "kits Starlink acquis par l'État (New Deal Technologique)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "Le Soleil reports that the 5,000 Starlink kits meant among other things to connect collectivités territoriales were to be acquired by the state under the government's New Deal Technologique; the scheme is undated in the document, so the date is its publication date.", "as_of": "2026-09-09", "date_precision": "day", "system": "kits Starlink acquis par l'État (New Deal Technologique)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "regressing", "fact": "The Supreme Court ordered on 7 September 2026, at Sonatel's suit, the provisional suspension of Starlink Sénégal's licence for fixed satellite internet access, the service whose 5,000 state-acquired kits were meant among other things to connect collectivités territoriales; the document does not say any local government office lost its link.", "as_of": "2026-09-07", "date_precision": "day", "system": "kits Starlink acquis par l'État (New Deal Technologique)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "kits Starlink acquis par l'État (New Deal Technologique)", "country_label": "kits Starlink", "class": "connection", "platform": "Starlink", "owner": "the state, under the New Deal Technologique; service by Starlink Sénégal Suarl", "tiers": "5,000 kits planned for white zones, community Wi-Fi networks, schools and collectivités territoriales; no count of local governments stated"}
+  ],
+  "note": ""
+}

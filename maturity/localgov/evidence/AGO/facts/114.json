@@ -1,0 +1,10 @@
+{
+  "slug": "2019-05-10-angola-decreto-presidencial-136-19-cadastro-social-unico",
+  "facts": [],
+  "systems": [
+    {"system": "Cadastro Social Único", "country_label": "Cadastro Social Único", "class": "application", "platform": "", "owner": "Ministério da Acção Social, Família e Promoção da Mulher (MASFAMU)", "tiers": "central, provincial, municipal and communal levels; the municipal administrator executes it and enters and updates household data"},
+    {"system": "SIGAS", "country_label": "SIGAS", "class": "application", "platform": "", "owner": "", "tiers": "named on the annexed enrolment forms as assigning the household number"},
+    {"system": "Centro Nacional de Dados", "country_label": "Centro Nacional de Dados", "class": "backbone", "platform": "", "owner": "Ministério das Telecomunicações e Tecnologias de Informação", "tiers": "central; hosts the registry's infrastructure and interoperation"}
+  ],
+  "note": "A 2019 decree creating the social registry: it prescribes that municipal administrations enter data in an online system and keep adequate infrastructure, but as a legal duty; it states no office as connected and gives no count."
+}

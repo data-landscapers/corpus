@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-01-togo-otr-rapport-de-performance-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Land title verification platform for mairies", "country_label": "plateforme de verification des titres fonciers au profit des mairies", "class": "application", "platform": "", "owner": "Office togolais des recettes (OTR)", "tiers": "Developed in 2024 for the mairies; the report does not say how many mairies use it, nor that it is in use at their offices"}
+  ],
+  "note": "Revenue authority's 2024 performance report. The one system tied to local governments is a land-title verification platform the OTR developed in 2024 'for the mairies', listed among the year's reforms with no statement of deployment, of use at mairie offices or of any connection provided to them; the other systems named (Sydonia, GUDEF, E-TAX, the TVM application) are the OTR's own."
+}

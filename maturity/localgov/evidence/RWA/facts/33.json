@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-28-rwanda-completes-digitalisation-crvs-modules",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Civil Registration and Vital Statistics system", "country_label": "CRVS", "class": "application", "platform": "", "owner": "", "tiers": "nine modules digitalised (birth, death, marriage, divorce, annulment, recognition, adoption, guardianship, legitimization); tier not stated"}
+  ],
+  "note": "A MINALOC notice that the last two CRVS modules were launched, making all nine digital; nothing is stated about where entries are made or about any office's connection."
+}

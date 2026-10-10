@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The essay's country table, an AI-assisted compilation by its own header, says cell executive secretaries enter community births and deaths electronically into the National Centralized and Integrated CRVS within 30 days from village chiefs' paper notification forms, and that 416 sectors and 2,148 cells provide real-time digital services; these are tiers below the district, and no date is given for the practice, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "sector and cell offices working in the NCI-CRVS", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "National Centralized and Integrated CRVS (NCI-CRVS)", "country_label": "NCI-CRVS", "class": "application", "platform": "", "owner": "", "tiers": "416 sectors and 2,148 cells; health facilities; integrated with the National Population Register"},
+    {"system": "IremboGov", "country_label": "IremboGov", "class": "", "platform": "", "owner": "", "tiers": "digital platform through which civil certificates are issued; tier not stated"}
+  ],
+  "note": "The slug is on the study's exclude_sources list; the fact is recorded as the document states it."
+}

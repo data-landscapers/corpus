@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-27-quality-maternal-child-adolescent-health-data-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "Routine Health Information System on DHIS2", "country_label": "RHIS; DHIS2", "class": "central", "platform": "DHIS2", "owner": "Ministry of Health and Social Action", "tiers": "health posts, health centres and health districts; studied in Thiès, Mbour, Kédougou and Saraya districts"}
+  ],
+  "note": "A health data quality study in four health districts, which are the health ministry's field structures; local government officials appear only among interviewees. Nothing on commune offices."
+}

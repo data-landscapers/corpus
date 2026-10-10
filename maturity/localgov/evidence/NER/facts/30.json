@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-29-niamey-naneye-yarda-taxes-municipales-plateforme",
+  "facts": [],
+  "systems": [
+    {"system": "Naneye Yarda", "country_label": "Naneye Yarda", "class": "application", "platform": "", "owner": "Ville de Niamey; built with ANSI", "tiers": "Ville de Niamey: municipal tax collection by 50 agents with mobile devices, more than 2,000 taxpayers geolocated, payment through Al Izza and Nita, automated audit of transactions"}
+  ],
+  "note": "The launch of Niamey's municipal tax platform (published 29 January 2025); it describes an application and agents' mobile devices, said by ANSI to be usable in low-connectivity areas, and does not state how the city's offices are connected."
+}

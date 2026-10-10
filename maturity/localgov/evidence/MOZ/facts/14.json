@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Tmcel Captive Data Centre (Maputo HQ)", "country_label": "", "class": "backbone", "platform": "", "owner": "Moçambique Telecom SA (Tmcel), state-owned", "tiers": "Maputo; serves Tmcel and the Government of Mozambique; no local government office named"},
+    {"system": "Teledata Mozambique Data Centre", "country_label": "", "class": "backbone", "platform": "", "owner": "Teledata Mozambique (TDM, state-controlled)", "tiers": "Maputo; ISPs, SMEs and government agencies; no local government office named"}
+  ],
+  "note": "A register of data centres; the Mozambique rows list thirteen facilities, mostly commercial, some with government among their customers. No local government office or its connection is named."
+}

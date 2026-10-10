@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-30-programme-national-foncier-ii",
+  "facts": [],
+  "systems": [
+    {"system": "Guichets Fonciers (commune land offices)", "country_label": "guichets fonciers", "class": "application", "platform": "", "owner": "communes, under the land administration", "tiers": "594 communes, 37% of the country's communes, at 28 February 2024; 1,518,000 land certificates recorded"},
+    {"system": "Plans Locaux d'Occupation Foncière (PLOF)", "country_label": "PLOF", "class": "application", "platform": "", "owner": "land administration", "tiers": "commune level; the programme says no true land information system exists"}
+  ],
+  "note": "Land programme 2024-2030 (excerpt, fetch truncated): counts communes with a land office and names no connection at any commune office."
+}

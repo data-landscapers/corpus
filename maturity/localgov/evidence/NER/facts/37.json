@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-arcep-niger-rapport-annuel-2024",
+  "facts": [],
+  "systems": [
+    {"system": "point d'échange Internet", "country_label": "point d'échange Internet", "class": "backbone", "platform": "", "owner": "ANSI", "tiers": "national; commissioning to be finalised per the 2024 quality-of-service committee"}
+  ],
+  "note": "The passage names collectivités territoriales only as one of the parties to a proposed single window for fibre deployment permits (2024 committee recommendation); nothing on their offices' connection."
+}

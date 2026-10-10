@@ -1,0 +1,54 @@
+{
+  "slug": "2026-06-15-wb-swz-001-digital-eswatini-project",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Digital Eswatini Project (P508948), under which the record says 38 Tinkhundla centres are to be connected, is a USD 65.0 million World Bank operation approved on 15 June 2026: a USD 19.3 million IBRD loan and USD 19.7 million IDA credit to the Kingdom and a USD 26 million IBRD loan to EPTC, closing 31 July 2031; no domestic budget line is stated.",
+      "as_of": "2026-06-15",
+      "date_precision": "day",
+      "system": "Digital Eswatini Project (P508948), Affordable Broadband",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The project's appraisal document of 8 June 2026 sets USD 36.0 million for Affordable Broadband, USD 25.0 million for Government in Your Hand and USD 4.0 million for project management, running 2026 to 2031; the record gives 859 schools, 134 health centres and 38 Tinkhundla centres as the sites to be connected, with rollout in 2027.",
+      "as_of": "2026-06-08",
+      "date_precision": "day",
+      "system": "Digital Eswatini Project (P508948), Affordable Broadband",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The House of Assembly gave a second reading on 21 September 2026 to the three Bills enabling the project's loans (the guarantee of EPTC's USD 26 million IBRD loan, the USD 19.7 million IDA credit and the USD 19.3 million IBRD loan), which then went to committee; the loans were not yet effective and no site is reported connected.",
+      "as_of": "2026-09-21",
+      "date_precision": "day",
+      "system": "Digital Eswatini Project (P508948), Affordable Broadband",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Eswatini Project (P508948), Affordable Broadband",
+      "country_label": "Digital Eswatini Project",
+      "class": "connection",
+      "platform": "broadband infrastructure deployment (EPTC fibre and last mile)",
+      "owner": "Government of Eswatini, Ministry of ICT; World Bank financed",
+      "tiers": "859 schools, 134 health centres and 38 Tinkhundla centres to be connected"
+    },
+    {
+      "system": "Government in Your Hand",
+      "country_label": "Government in Your Hand",
+      "class": "central",
+      "platform": "digital-government roadmap: digital ID, data exchange, social registries, PKI, payments, about 200 services",
+      "owner": "Government of Eswatini",
+      "tiers": "central government; not stated for local government"
+    }
+  ],
+  "note": "A deal record, body an excerpt. Its count of 38 Tinkhundla centres is relayed from the Independent News report of 24 June 2026 (document 6) and is not recorded again as an authorities fact. The record's catalogue line calls them 'local government centres'; the body says Tinkhundla centres."
+}

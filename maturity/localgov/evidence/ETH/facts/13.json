@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-23-ethiotelecom-annual-business-performance-report-2025-26",
+  "facts": [],
+  "systems": [
+    {"system": "Ethio telecom national backbone fibre network", "country_label": "backbone fiber network", "class": "backbone", "platform": "", "owner": "Ethio telecom", "tiers": "national, 23,442.1 km after 793 km added in 2025/26; no local government office said to be on it"},
+    {"system": "Ethio telecom data centres and TeleCloud", "country_label": "Data Center and Cloud Services", "class": "backbone", "platform": "", "owner": "Ethio telecom", "tiers": "six Tier III-certified facilities in Addis Ababa and regional locations, said to support more than 880 government entities, unnamed and with no tier given"},
+    {"system": "Ethio telecom rural mobile network expansion", "country_label": "rural connectivity programme", "class": "backbone", "platform": "", "owner": "Ethio telecom", "tiers": "195 new rural mobile sites covering 117 woredas and 492 villages or kebeles; public mobile coverage, no woreda office said to be on it"}
+  ],
+  "note": "The operator's annual report counts woredas as areas reached by mobile coverage (117) and by national ID registration (986, 79 per cent); it says fibre serves government institutions and its data centres support more than 880 government entities, without naming any local government office, tier or count of offices connected."
+}

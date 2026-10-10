@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-22-fg-nigeria-police-mou-digital-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE", "class": "backbone", "platform": "fibre optic", "owner": "Federal Ministry of Communications, Innovation and Digital Economy, with World Bank and European Commission support", "tiers": "national fibre backbone; the minister hopes to deploy fibre across all wards; no local government office named"},
+    {"system": "National Anchor Institutions Connectivity Programme (NAICP)", "country_label": "NAICP", "class": "backbone", "platform": "national fibre backbone", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "aims to connect schools, hospitals, police stations and government offices to the national fibre backbone; local government offices not named"},
+    {"system": "Connected police stations initiative", "country_label": "", "class": "central", "platform": "fibre optic", "owner": "Federal Ministry of Communications, Innovation and Digital Economy and the Nigeria Police Trust Fund, under an MoU signed 2026-04-22", "tiers": "police stations in all 774 local government councils; at design stage under technical assistance"}
+  ],
+  "note": "The memorandum connects police stations, a national force's facilities; local government councils are named only as the areas the stations sit in. The anchor-institutions programme names 'government offices' without saying local government offices."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform",
+  "facts": [],
+  "systems": [
+    {"system": "Online civil registry copy request system", "country_label": "Services Publics platform", "class": "web", "platform": "Services Publics national portal", "owner": "Togolese government", "tiers": "pilot in five municipalities: Agoè-Nyivé 1, Golfe 1, Avé 2, Zio 2 and Lacs 1; extension to all municipalities intended"},
+    {"system": "Services Publics national portal", "country_label": "Services Publics", "class": "central", "platform": "", "owner": "Togolese government", "tiers": "national; the Ministry of Energy added 29 procedures"}
+  ],
+  "note": "News report of the online civil registry request service for residents of five pilot municipalities; states nothing on the connection of municipal offices."
+}

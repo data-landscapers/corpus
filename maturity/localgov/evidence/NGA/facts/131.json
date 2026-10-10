@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-01-west-africa-data-center-markets-brief",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "Xalam Analytics' market brief lists, among Nigerian government initiatives, the launch of the Project 774 Local Government Connectivity Initiative to provide local governments with reliable internet access; it gives no launch date (dated here to the brief's publication), no count connected and no funding.", "as_of": "2025-05", "date_precision": "month", "system": "Project 774 Local Government Connectivity Initiative", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The brief says the government launched Project 774 to provide local governments with reliable internet access, an initiative of the state for the local governments themselves; it states a launch only, with no office said to be connected yet and no date (dated here to the brief's publication).", "as_of": "2025-05", "date_precision": "month", "system": "Project 774 Local Government Connectivity Initiative", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "internet", "fact": "The brief gives the purpose of Project 774 as reliable internet access for local governments and names no system the offices would work in; no date is given (dated here to the brief's publication).", "as_of": "2025-05", "date_precision": "month", "system": "Project 774 Local Government Connectivity Initiative", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Project 774 Local Government Connectivity Initiative", "country_label": "Project 774 Local government Connectivity Initiative", "class": "connection", "platform": "", "owner": "Nigerian government", "tiers": "local governments, to be given reliable internet access; no count stated"},
+    {"system": "BRIDGE fibre initiative", "country_label": "BRIDGE initiative", "class": "backbone", "platform": "", "owner": "Nigerian government", "tiers": "an announced US$2bn plan to deploy 90,000 km of fibre across the country; no local government office said to be on it"}
+  ],
+  "note": ""
+}

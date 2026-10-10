@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Police digital case management system", "country_label": "national digital case management system", "class": "central", "platform": "FileMaker", "owner": "Seychelles Police; funded by UNODC and developed by Transmedia", "tiers": "All police stations, said to be connected nationwide, including Praslin, La Digue and Mont Fleuri"},
+    {"system": "Civil Status registration", "country_label": "Civil Status regional offices", "class": "central", "platform": "", "owner": "Seychelles Civil Status", "tiers": "Regional offices on islands such as Praslin record on paper, with electronic processing from regional to central offices"}
+  ],
+  "note": "The Seychelles rows cover clinics, schools, police stations and civil status offices, all national services; nothing is stated about a district administration or other local government office or its connection. The source is on the study's exclude_sources list."
+}

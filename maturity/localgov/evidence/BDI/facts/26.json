@@ -1,0 +1,14 @@
+{
+  "slug": "2024-07-29-bdi-region-sud-rumonge-enregistrement-numerique-a-letat-civil",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "At a launch workshop on 19 July 2024 the local NGO FVS-Amade said it will give the civil registry service of Rumonge commune computers, tablets, solar panels and routers to ease its connection, at the commune seat and in its zones, under a one-year project; the provision is announced, not reported as done.", "as_of": "2024-07-19", "date_precision": "day", "system": "connection of the civil registry service of Rumonge commune (routers from FVS-Amade)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:partner", "fact": "The routers and other equipment for the connection of Rumonge commune's civil registry service are to be supplied by the local NGO FVS-Amade under a one-year project, as its programme officer said on 19 July 2024.", "as_of": "2024-07-19", "date_precision": "day", "system": "connection of the civil registry service of Rumonge commune (routers from FVS-Amade)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "Workshop participants on 19 July 2024 said Rumonge commune could not keep digital registration going once FVS-Amade's support ends; the NGO is the only funder the article names.", "as_of": "2024-07-19", "date_precision": "day", "system": "connection of the civil registry service of Rumonge commune (routers from FVS-Amade)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:1", "fact": "The article names one commune, Rumonge, whose civil registry service is to receive routers for its connection, as announced on 19 July 2024; it gives no total of communes connected.", "as_of": "2024-07-19", "date_precision": "day", "system": "connection of the civil registry service of Rumonge commune (routers from FVS-Amade)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "connection of the civil registry service of Rumonge commune (routers from FVS-Amade)", "country_label": "routeurs pour faciliter la connexion au service d'Etat-civil de la commune Rumonge", "class": "connection", "platform": "internet routers, with solar panels", "owner": "FVS-Amade, a local NGO", "tiers": "Rumonge commune seat and the zones of the commune"},
+    {"system": "digital registration of births and deaths at the commune civil registry", "country_label": "enregistrement numérique à l'Etat-civil; service d'Etat-civil digitalisé", "class": "application", "platform": "", "owner": "Ministry of the Interior, Public Security and Community Development; FVS-Amade in Rumonge", "tiers": "Rumonge is the 12th commune where the civil registry service is digitalised, a ministry director said; other communes to follow"}
+  ],
+  "note": ""
+}

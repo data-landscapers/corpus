@@ -1,0 +1,8 @@
+{
+  "slug": "2021-06-29 Mozambique Digital Governance and Economy Project - PID (EDGE, P172350, World Bank)",
+  "facts": [],
+  "systems": [
+    {"system": "Governmental network (GovNet)", "country_label": "GovNet", "class": "backbone", "platform": "connectivity procured exclusively from the state operator TMCel, with no backup channel", "owner": "INAGE", "tiers": "public sector, tier not stated; purchases planned for specific ministries, departments and agencies"}
+  ],
+  "note": "Describes GovNet as under-invested with frequent multi-day downtimes and plans connectivity for central bodies; no local government office is named."
+}

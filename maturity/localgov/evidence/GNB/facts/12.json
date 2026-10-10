@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "SIREC digital civil registration system (started 2025)", "country_label": "SIREC", "class": "central", "platform": "", "owner": "National civil registry, supported by UNDP and UNICEF", "tiers": "Early rollout; rural registry offices said to remain on paper"}
+  ],
+  "note": "An AI-assisted compilation by its own header, and an excluded source in study.json; its Guinea-Bissau rows cover rural clinics, schools, police and civil registry offices, and state nothing about a local government office's connection."
+}

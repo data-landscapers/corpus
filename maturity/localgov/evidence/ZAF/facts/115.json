@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Johannesburg CCTV surveillance networks", "country_label": "CCTV networks; VumaCam", "class": "city-systems", "platform": "vendors listed include Hikvision, Huawei, Genetec and Geutebrück", "owner": "City of Johannesburg and VumaCam among the entities listed", "tiers": "one metropolitan municipality (Johannesburg), densest in commercial districts"},
+    {"system": "IIOC command centre and AURA automatic dispatching system", "country_label": "JMPD IIOC; AURA", "class": "city-systems", "platform": "", "owner": "City of Johannesburg (metro police)", "tiers": "one metropolitan municipality (Johannesburg)"},
+    {"system": "Johannesburg smart electricity meters", "country_label": "smart meters; AMI", "class": "city-systems", "platform": "vendors listed include Hexing and iTron", "owner": "City Power", "tiers": "one metropolitan municipality (Johannesburg); 100,000 smart meters integrated, on the table's figure"},
+    {"system": "Johannesburg digital licensing with biometric verification, digital permits and payments", "country_label": "", "class": "web", "platform": "", "owner": "City of Johannesburg", "tiers": "one metropolitan municipality (Johannesburg)"},
+    {"system": "Johannesburg public Wi-Fi", "country_label": "", "class": "public-access", "platform": "", "owner": "", "tiers": "one metropolitan municipality (Johannesburg), rated extensive in the table"}
+  ],
+  "note": "A regional analysis, AI-researched by its own account, of smart-city systems in twelve cities; for South Africa it covers Johannesburg's cameras, meters and online services only. Nothing on the connection of any municipal office."
+}

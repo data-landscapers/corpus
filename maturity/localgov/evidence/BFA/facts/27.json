@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-16-bfa-sig-conseil-ministres-financement-12-chantiers",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau informatique national de l'Administration publique (RESINA)", "country_label": "RESINA", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "to be reinforced under the ministry's 2026 specific projects, financed from the 2026 state budget; no tier or commune office named"},
+    {"system": "datacenters", "country_label": "datacenters", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "to be reinforced under the same package"},
+    {"system": "Zama Tchè (Maisons des citoyens)", "country_label": "Zama Tchè", "class": "central", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "construction and equipment at Bobo-Dioulasso, 8 other regional capitals and 50 rural communes"}
+  ],
+  "note": "No fact: the full cabinet communiqué of 16 April 2026, the same authorisation of FCFA 9,113.1 million as document 26; no local government office is said to be on RESINA."
+}

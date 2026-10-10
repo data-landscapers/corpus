@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-27-bfa-lf-2026-volume-integral-companion",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau Administratif", "country_label": "Réseau Administratif (chapitre 1800400311)", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques (section 31, programme 095)", "tiers": "capital line of 1,000,000 thousand FCFA for 2026, financed by the state alone; no tier named"},
+    {"system": "RESINA", "country_label": "RESINA", "class": "backbone", "platform": "", "owner": "ANPTIC", "tiers": "a 2026 line of 81,254 thousand FCFA for RESINA traffic to the exchange point; no tier named"}
+  ],
+  "note": "No fact: a companion page to the 2026 finance law; it carries a domestic budget line for the administration's network and a performance indicator of commune seats covered (48.43% in 2024), which the page does not define as offices connected. The parent may want the indicator's definition from the volume itself."
+}

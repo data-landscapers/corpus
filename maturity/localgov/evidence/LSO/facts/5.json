@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Vodacom Lekokoaneng Data Center", "country_label": "Vodacom Lekokoaneng Data Center", "class": "backbone", "platform": "", "owner": "Vodacom Business / Vodacom Lesotho", "tiers": "Lekokoaneng; enterprise data centre, operational; no local government office named"},
+    {"system": "Vodacom Maseru West Data Center", "country_label": "Vodacom Maseru West Data Center", "class": "backbone", "platform": "", "owner": "Vodacom Business / Vodacom Lesotho", "tiers": "Maseru; enterprise data centre, operational; no local government office named"}
+  ],
+  "note": "The Lesotho rows of the register list two operator-owned enterprise data centres; nothing on local government offices or their connection."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-17-bwa-digital-services-act-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Centralised digital platform for accessing all public body services", "country_label": "", "class": "central", "platform": "", "owner": "Digital Services Authority", "tiers": "Required by section 13 of the Act; not stated to exist"},
+    {"system": "Information gateway", "country_label": "information gateway", "class": "backbone", "platform": "", "owner": "Digital Services Authority", "tiers": "Required by section 22 of the Act for exchange between public bodies, which the Act defines to include a local authority; not stated to exist"}
+  ],
+  "note": "A statute, assented 17 October 2025 with commencement on notice; it defines a local authority as a public body and sets duties on digital services and electronic records, but states nothing about any office's connection, and a law places nothing under the study's ladder."
+}

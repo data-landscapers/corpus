@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-31-acp-kintambo-plaques-numerotation-parcellaire-qr",
+  "facts": [],
+  "systems": [
+    {
+      "system": "QR-coded parcel-numbering plates",
+      "country_label": "plaques de numérotation parcellaire (code QR)",
+      "class": "application",
+      "platform": "",
+      "owner": "Commune of Kintambo, Kinshasa (the bourgmestre)",
+      "tiers": "Commune of Kintambo; the bourgmestre says the operation also runs elsewhere in Kinshasa"
+    }
+  ],
+  "note": "The bourgmestre of Kintambo describes the sale of QR-coded parcel plates to identify residents and help communes keep clear registers; nothing is stated about any connection at the commune's office."
+}

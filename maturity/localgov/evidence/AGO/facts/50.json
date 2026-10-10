@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-28-nj-pr-inaugura-novo-data-center",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center do Governo", "country_label": "novo Data Center do Governo; Nuvem Nacional de Angola", "class": "backbone", "platform": "modular, 12 containers, 208 racks", "owner": "Instituto Nacional de Fomento da Sociedade de Informação (INFOSI), under MINTTICS", "tiers": "one facility in the municipality of Camama, Luanda, inaugurated 28 April 2026, linking services of the Finance, Interior, Education, Health and Telecommunications ministries; no local government said to be on it"}
+  ],
+  "note": "A government data centre serving ministries; the municipality is its location."
+}

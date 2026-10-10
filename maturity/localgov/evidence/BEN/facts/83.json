@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-eximbank-cn-ben-002-broadband-network-densification-project-pdi2t-phase",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Broadband Network Densification Project (PDI2T Phase 2)",
+      "country_label": "PDI2T Phase 2; national high-speed broadband network",
+      "class": "backbone",
+      "platform": "optical fibre backbone",
+      "owner": "Government of Benin / ADN (Agence pour le Développement du Numérique)",
+      "tiers": "Densifies the 2,000 km fibre backbone of Phase 1 (2016-2021) and extends fibre to additional municipalities; loan agreement of RMB 265 million signed 14 September 2021. No commune office is said to be on it."
+    }
+  ],
+  "note": "Deal record for a backbone loan; fibre is extended to additional municipalities as places, with no local government office said to be connected."
+}

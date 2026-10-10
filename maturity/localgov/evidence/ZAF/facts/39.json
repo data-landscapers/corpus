@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-24-timeslive-salga-municipal-billing-digitisation",
+  "facts": [],
+  "systems": [
+    {"system": "municipal metering and billing systems", "country_label": "", "class": "application", "platform": "", "owner": "municipalities", "tiers": "the 257 municipalities; the local government association's request for proposal names weaknesses in them among causes of about R25bn of annual revenue loss"},
+    {"system": "municipal indigent registers", "country_label": "indigent registers", "class": "application", "platform": "", "owner": "municipalities", "tiers": "municipalities; described as unverified and misaligned with other government datasets"}
+  ],
+  "note": "On municipal revenue, billing and indigent-register weaknesses, applications; nothing stated on municipal offices' connection."
+}

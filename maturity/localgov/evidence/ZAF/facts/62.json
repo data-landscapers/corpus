@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-29-apc-sa-community-connectivity-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Community networks (Mamaila, Zenzeleni, VNET, JUS Technologies, Parktel, Ocean View and others)", "country_label": "community networks; community-centred connectivity initiatives", "class": "public-access", "platform": "", "owner": "not-for-profit community operators, represented by Community Networks South Africa", "tiers": "homes, schools, community centres and a hospital in underserved areas"}
+  ],
+  "note": "Community networks serving residents, and a Bill that would standardise municipal by-laws and wayleaves for others' networks. Nothing on any municipal office's connection."
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "2024-01-01-tanzania-digital-economy-strategic-framework",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Ministry of Information, Communication and Information Technology's Digital Economy Strategic Framework 2024-2034 sets, under consolidating and improving GovNet infrastructure, a target of 184 LGAs and 600 MDAs with installed structured LAN and connected to GovNet by June 2026, and a strategy to expand GovNet coverage to all LGA and MDA facilities with further targets to June 2029; these are targets, not a count of offices connected. No date is given beyond the framework's year, so its published year is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Government Network (GovNet)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Government Network (GovNet)",
+      "country_label": "GovNet",
+      "class": "connection",
+      "platform": "",
+      "owner": "",
+      "tiers": "Target: 184 LGAs and 600 MDAs by June 2026; all LGA and MDA facilities by June 2029"
+    },
+    {
+      "system": "PO-RALG WAN",
+      "country_label": "PO-RALG WAN",
+      "class": "backbone",
+      "platform": "",
+      "owner": "President's Office - Regional Administration and Local Government",
+      "tiers": "Target: health centres and dispensaries connected and using centralised ICT resources by June 2029"
+    },
+    {
+      "system": "FFARS, PlanRep, LGRCIS/TAUSI/TeRMIS, GOTHOMIS, SIS, TPLMIS",
+      "country_label": "information systems at all levels of Local Government Authorities",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "Target: 90% roll-out to 26 regions, 184 LGAs, district hospitals, health centres, dispensaries and public schools by June 2029"
+    },
+    {
+      "system": "Government Enterprise Service Bus (GoVESB)",
+      "country_label": "GoVESB",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The passages file breaks the results table into fragments; the wording of the two GovNet/LGA targets and the PO-RALG WAN and application-system rows was completed from the same document's raw file in the mirror (lines 4376-4400, 4674-4691)."
+}

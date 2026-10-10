@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-24-cost-uganda-gpp-data-upgrade",
+  "facts": [],
+  "systems": [
+    {"system": "GPP", "country_label": "Government Procurement Portal", "class": "central", "platform": "", "owner": "Public Procurement and Disposal of Public Assets Authority (PPDA)", "tiers": "procuring and disposing entities; no local government named as a user"}
+  ],
+  "note": "An upgrade of the national procurement portal's data fields; the Ministry of Local Government appears only as an institution consulted. Nothing on a local government office's connection."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration (birth, marriage and death registration)", "country_label": "", "class": "application", "platform": "paper", "owner": "", "tiers": "civil registrar's offices, mayor's offices and local authorities; registration books sent to the central office and filed on paper (2017 data, citing UNICEF)"},
+    {"system": "Digital civil registry pilot", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "a pilot launched in 2018; no implementation at rural offices found"}
+  ],
+  "note": "An AI-assisted compilation by its own header. Its Equatorial Guinea rows cover clinics, schools, police and registries; the registry row says registration at mayor's offices is manual on paper with no electronic exchange from local to central level, which is the civil registration application and states nothing on the office's own connection."
+}

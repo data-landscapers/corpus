@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-13-mauritania-diwan-khidmaty-digitalization-german-cooperation",
+  "facts": [],
+  "systems": [
+    {"system": "Diwan", "country_label": "système de gestion administrative des collectivités territoriales « Diwan »", "class": "application", "platform": "", "owner": "ministry delegate for decentralisation and local development, Ministry of the Interior", "tiers": "collectivités territoriales; no number or tier of offices stated"},
+    {"system": "Khidmaty", "country_label": "plateforme « Khidmaty »", "class": "", "platform": "", "owner": "", "tiers": "not stated; Diwan's interconnection and integration with it under way on 13 August 2026"}
+  ],
+  "note": "The document presents Diwan, an administrative management system for local authorities, and its integration with Khidmaty as under way on 13 August 2026; it states no connection at any local government office, so the application is logged and gives no fact."
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "2025-03-01-plan-action-operationnel-2025-2027-dgi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "RESINA",
+      "country_label": "Réseau informatique de l'administration",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "Listed among the plan's acronyms only; no local government office said to be on it"
+    },
+    {
+      "system": "Système d'information foncière (SIF)",
+      "country_label": "SIF",
+      "class": "central",
+      "platform": "",
+      "owner": "Direction générale des impôts",
+      "tiers": "To be put in place by the DGI under the 2025-2027 plan, with a national deployment rate as an indicator; no commune office named"
+    },
+    {
+      "system": "eCADASTRE",
+      "country_label": "eCADASTRE",
+      "class": "central",
+      "platform": "",
+      "owner": "Direction générale des impôts",
+      "tiers": "DGI application, to be maintained and interfaced with SYC@D and SINTAX; tiers not stated"
+    },
+    {
+      "system": "SYC@D",
+      "country_label": "SYC@D",
+      "class": "central",
+      "platform": "",
+      "owner": "Direction générale des impôts",
+      "tiers": "DGI application, to be extended to land and domain procedures up to the land book; tiers not stated"
+    },
+    {
+      "system": "SINTAX",
+      "country_label": "SINTAX",
+      "class": "central",
+      "platform": "",
+      "owner": "Direction générale des impôts",
+      "tiers": "DGI tax application; tiers not stated"
+    }
+  ],
+  "note": "Passages of the tax directorate's 2025-2027 action plan: the DGI collects local taxes for the collectivités territoriales and plans a partnership with them, cadastral plans for communes and its own land and tax systems. All the systems are the central directorate's; nothing states a commune office's connection."
+}

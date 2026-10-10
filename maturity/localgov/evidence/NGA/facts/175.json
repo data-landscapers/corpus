@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-13-jar-2025-salako-inaugural-address-health-resilience",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Minister of State for Health said on 13 November 2025 that the SORMAS disease surveillance platform is deployed in all 36 states, with 96% of local government areas 'now connected' and able to report in real time; he does not say the reporting is done at the local government's own office.", "as_of": "2025-11-13", "date_precision": "day", "system": "SORMAS reporting link of local government areas", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:96%", "fact": "The Minister of State for Health said on 13 November 2025 that 96% of local government areas are connected to the SORMAS disease surveillance platform and able to report in real time; he gives no numerator or denominator, and does not say how or where they are connected.", "as_of": "2025-11-13", "date_precision": "day", "system": "SORMAS reporting link of local government areas", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "SORMAS", "country_label": "SORMAS platform", "class": "application", "platform": "SORMAS", "owner": "not stated; cited by the Federal Ministry of Health and Social Welfare", "tiers": "deployed in all 36 states; 96% of local government areas connected and reporting in real time"}
+  ],
+  "note": "Parent to weigh: the two facts rest on one sentence about a health surveillance platform. It states local government areas are 'connected' and report in real time into a national system, which the study file reads as a connection; it does not state that this is at the local government's own office, who provides the link, or the count behind 96%. No value is recorded for how the office is connected."
+}

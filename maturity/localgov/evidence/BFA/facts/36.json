@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-06-registre-social-unique-protection-sociale",
+  "facts": [],
+  "systems": [
+    {"system": "Registre social unique (RSU)", "country_label": "RSU", "class": "central", "platform": "", "owner": "Ministère de l'Action humanitaire et de la Solidarité nationale", "tiers": "households enrolled in 99 communes of 10 regions at the end of 2025; communes are the coverage area, not users"}
+  ],
+  "note": "No fact: a ministry's social registry whose household enrolment reached 99 communes; the communes are where households were enrolled, and nothing is said of commune offices or their connection."
+}

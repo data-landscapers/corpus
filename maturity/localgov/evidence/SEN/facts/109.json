@@ -1,0 +1,106 @@
+{
+  "slug": "2026-06-29-aps-nekkal-bilan-comite-pilotage-final",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:400",
+      "fact": "A technical adviser to the minister for local authorities told the NEKKAL programme's final steering committee on 29 June 2026 that the programme had interconnected 400 civil registration centres; the count is of centres, not communes, and no total of centres or communes is given.",
+      "as_of": "2026-06-29",
+      "date_precision": "day",
+      "system": "Interconnexion des centres d'état civil (programme NEKKAL)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "The interconnection of 400 civil registration centres was delivered to the centres by the NEKKAL programme, financed by the European Union and carried out with the national civil registration agency ANEC, as reported by the ministry's adviser on 29 June 2026; the article does not say what link was installed or who pays for it afterwards.",
+      "as_of": "2026-06-29",
+      "date_precision": "day",
+      "system": "Interconnexion des centres d'état civil (programme NEKKAL)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The NEKKAL programme that interconnected 400 civil registration centres was financed by the European Union, according to the report of its final steering committee on 29 June 2026; no domestic budget line is mentioned.",
+      "as_of": "2026-06-29",
+      "date_precision": "day",
+      "system": "Interconnexion des centres d'état civil (programme NEKKAL)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "The NEKKAL programme was executed by Civipol and Enabel, with the national civil registration agency ANEC as the implementing body, and the European Union's ambassador offered further support for maintaining the digital infrastructure in a consolidation phase (29 June 2026).",
+      "as_of": "2026-06-29",
+      "date_precision": "day",
+      "system": "Interconnexion des centres d'état civil (programme NEKKAL)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 29 June 2026 the NEKKAL programme held its final steering committee and reported 400 civil registration centres interconnected and a services platform in place; the programme was closing, and the European Union said it remained willing to support maintenance of the digital infrastructure.",
+      "as_of": "2026-06-29",
+      "date_precision": "day",
+      "system": "Interconnexion des centres d'état civil (programme NEKKAL)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Interconnexion des centres d'état civil (programme NEKKAL)",
+      "country_label": "Interconnexion de 400 centres d'état civil",
+      "class": "connection",
+      "platform": "",
+      "owner": "ANEC, under the ministry for local authorities; financed by the European Union, executed by Civipol and Enabel",
+      "tiers": "400 civil registration centres"
+    },
+    {
+      "system": "Equipment for civil registration centres (programme NEKKAL)",
+      "country_label": "",
+      "class": "equipment",
+      "platform": "",
+      "owner": "Programme NEKKAL (European Union, Civipol, Enabel, ANEC)",
+      "tiers": "1,200 computers and 1,000 printers to civil registration centres; 26 modern civil registration centres built; 65 motorcycles delivered to communes"
+    },
+    {
+      "system": "Plateforme de services (état civil)",
+      "country_label": "Plateforme de services",
+      "class": "",
+      "platform": "",
+      "owner": "Programme NEKKAL / ANEC",
+      "tiers": "Named as put in place; what it does and where it is used are not described"
+    },
+    {
+      "system": "Outil de notification des naissances et des décès",
+      "country_label": "Outil de notification des naissances et des décès",
+      "class": "application",
+      "platform": "",
+      "owner": "Programme NEKKAL / ANEC",
+      "tiers": "For health facilities"
+    },
+    {
+      "system": "Application de gestion de l'état civil consulaire",
+      "country_label": "Application de gestion de l'état civil consulaire",
+      "class": "central",
+      "platform": "",
+      "owner": "Programme NEKKAL / ANEC",
+      "tiers": "Consular civil registration, for Senegalese abroad"
+    },
+    {
+      "system": "Civil register digitisation (programme NEKKAL)",
+      "country_label": "Numérisation et indexation des actes d'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "Programme NEKKAL / ANEC",
+      "tiers": "10 million records digitised and 20 million indexed, nationally"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-07-anats-oim-mou-identite-securisee",
+  "facts": [],
+  "systems": [
+    {"system": "Système intégré de gestion des populations et des titres sécurisés (SIGPTS)", "country_label": "SIGPTS", "class": "central", "platform": "", "owner": "ANATS", "tiers": "national biometric population register and secure documents"}
+  ],
+  "note": "A memorandum between ANATS and the IOM signed 2026-05-07 on identity documents for vulnerable people; local government is not mentioned."
+}

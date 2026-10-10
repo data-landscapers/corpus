@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-angola-autonomia-armazenamento-documentos-data-center",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center e Cloud de Angola", "country_label": "novo Data Center e Cloud de Angola", "class": "backbone", "platform": "", "owner": "INFOSI, under MINTTICS", "tiers": "one facility in the municipality of Camama, Luanda, USD 89 million, to be inaugurated 28 April 2026; five ministries connected to it by fibre; replicated to a secondary government data centre; no local government said to be on it"}
+  ],
+  "note": "A government data centre connecting five ministries by fibre; municipalities are named only as the sites of data centres."
+}

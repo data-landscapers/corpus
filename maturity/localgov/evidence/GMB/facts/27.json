@@ -1,0 +1,9 @@
+{
+  "slug": "2023-08-01-wardip-gambia-stakeholder-engagement-plan",
+  "facts": [],
+  "systems": [
+    {"system": "ECOWAN", "country_label": "ECOWAS Wide Area Network, called the local backbone", "class": "backbone", "platform": "", "owner": "", "tiers": "national; no local government office said to be on it"},
+    {"system": "Digital Addressing System", "country_label": "Digital Addressing System", "class": "", "platform": "", "owner": "", "tiers": "countrywide rollout planned, supported by the Ministry of Transport, Works and Infrastructure"}
+  ],
+  "note": "A consultation and grievance plan for the WARDIP submarine cable project; local government authorities appear only as stakeholders to be informed, and nothing is stated about a connection at any council office."
+}

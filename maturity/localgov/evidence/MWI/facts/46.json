@@ -1,0 +1,9 @@
+{
+  "slug": "2019-01-01-ccb-mwi-001-china-construction-bank-provides-569-million",
+  "facts": [],
+  "systems": [
+    {"system": "Last Mile Connectivity for Rural Area and National Data Centre Project", "country_label": "Last Mile Connectivity", "class": "backbone", "platform": "", "owner": "Government of Malawi; financed by a US$56.9 million China Construction Bank loan authorised by Parliament on 25 January 2019", "tiers": "fibre from the National Fibre Backbone connected from landing points to users by 136 planned towers in rural areas; first tower launched 13 June 2020, 28 towers in the current phase"},
+    {"system": "National Fibre Backbone Project", "country_label": "National Fibre Backbone", "class": "backbone", "platform": "", "owner": "Government of Malawi", "tiers": "national; landing points from which the last-mile towers extend"}
+  ],
+  "note": "A loan record for rural towers and a data centre; no local government office is said to be connected, so the project is a backbone entry and gives no fact."
+}

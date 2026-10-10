@@ -1,0 +1,10 @@
+{
+  "slug": "2021-07-01-arct-rapport-indicateurs-tic-burundi-edition-2020",
+  "facts": [],
+  "systems": [
+    {"system": "BBS national fibre optic backbone", "country_label": "BBS; dorsale nationale de fibre optique", "class": "backbone", "platform": "fibre optic, 2,300 km", "owner": "BBS, a public service delegate under a public-private contract", "tiers": "18 of 18 provinces, as at 31 December 2020"},
+    {"system": "ONATEL metropolitan fibre network (MAN)", "country_label": "Réseau Métropolitain de l'ONATEL (MAN)", "class": "backbone", "platform": "fibre optic, 350 km", "owner": "ONATEL, a public service delegate", "tiers": "Mairie de Bujumbura"},
+    {"system": "VIETTEL fibre network", "country_label": "VIETTEL", "class": "backbone", "platform": "fibre optic, 3,400 km", "owner": "VIETTEL Burundi, a private operator", "tiers": "18 of 18 provinces"}
+  ],
+  "note": "The regulator's 2020 sector statistics: fibre in all 18 provinces and cross-border connection points, with no local government office said to be on any network."
+}

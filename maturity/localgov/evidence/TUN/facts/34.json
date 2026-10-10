@@ -1,0 +1,15 @@
+{
+  "slug": "2016-05-02-tunisie-decret-2016-566-centre-informatique-ministere-interieur",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centre informatique du ministère de l'Intérieur",
+      "country_label": "centre informatique du ministère de l'intérieur",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of the Interior (supervising authority); a public establishment of non-administrative character",
+      "tiers": "Structures of the ministry and establishments under it; may supply IT services and advice to local collectivities for a fee (Article 3, point 8)"
+    }
+  ],
+  "note": "The founding decree of 2 May 2016 for the Interior Ministry's computing centre; it empowers the centre to sell IT services to local collectivities but states no local government office connected or served."
+}

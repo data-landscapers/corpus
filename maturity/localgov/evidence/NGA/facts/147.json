@@ -1,0 +1,10 @@
+{
+  "slug": "2019-11-28-nigeria-national-digital-economy-policy-and-strategy-2020-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Infrastructure Company (InfraCo) Project", "country_label": "Infrastructure Company (InfraCo) Project", "class": "backbone", "platform": "open-access fibre; at least a 10 Gbps point of access in each local government area", "owner": "public-private partnership with Federal Government counterpart funding", "tiers": "planned to make a fibre point of access available in all 774 local government areas; no local government office said to be on it"},
+    {"system": "National Information and Communication Technology Infrastructure Backbone (NICTIB)", "country_label": "National Information and Communication Technology Infrastructure Backbone (NICTIB), phases 1 and 2", "class": "backbone", "platform": "fibre backbone", "owner": "Federal Government", "tiers": "national; no local government office said to be on it"},
+    {"system": "GOVNET", "country_label": "GOVNET", "class": "backbone", "platform": "", "owner": "Federal Government", "tiers": "to be enhanced and promoted, with the services.gov.ng portal, for accessing government services; the networking it funds is of Federal Public Institutions; no local government office said to be on it"}
+  ],
+  "note": "The national digital economy policy of November 2019: local governments are asked to cascade the policy and support digital literacy, and the 774 local government areas are listed among institutions needed; fibre is planned to reach every local government area, but nothing states a connection at any local government office."
+}

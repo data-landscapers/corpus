@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa",
+  "facts": [],
+  "systems": [
+    {"system": "NIDA online application portal", "country_label": "online application portal", "class": "central", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": "national ID applicants and NIDA offices, introduced December 2022; local government offices issue a paper endorsement letter and hand over the printed ID"}
+  ],
+  "note": "An interview study (July to August 2022) of mobile money under another person's ID; local government offices appear only as issuers of endorsement letters, short of paper forms and stamps, and nothing is said of their connection."
+}

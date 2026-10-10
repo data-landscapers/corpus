@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-07-actuniger-niger-revue-plan-strategique-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "INCI", "country_label": "solution « INCI »", "class": "application", "platform": "INCI", "owner": "Direction générale de l'état civil, Ministère de l'Intérieur, with UNICEF support", "tiers": "civil-status computerisation deployed in 103 communes nationally as of 7 May 2025, 40 more being integrated; WURI aims to computerise 87 more communes by end 2025; records digitised in four pilot communes"}
+  ],
+  "note": "The 7 May 2025 review workshop reports the civil-status solution INCI deployed in 103 communes, with no total of communes given; it states computerisation of a service, not a connection at the commune offices, so no fact is taken."
+}

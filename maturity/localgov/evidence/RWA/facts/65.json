@@ -1,0 +1,42 @@
+{
+  "slug": "2024-01-01-risa-digital-adoption-implementation-guidelines-2024",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "RISA's 2024 guidelines bind all government institutions, central and local, to its rules for office networks: an institution building or upgrading a network must first seek RISA's guidance, buy network-room equipment under RISA's framework contract and size bandwidth to a table running from 15 Mbps for 1-10 users to 600 Mbps for 361-400; the document sets a standard and states no office as connected (dated to the copyright year, 2024).",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "institution network (network and communication infrastructure)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "institution network (network and communication infrastructure)",
+      "country_label": "institution network",
+      "class": "connection",
+      "platform": "",
+      "owner": "each government institution, under RISA's guidance and framework contracts",
+      "tiers": "all government institutions, central and local, as a requirement"
+    },
+    {
+      "system": "National Data Center",
+      "country_label": "National Data Center",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "hosts government websites and critical systems of government institutions; no local government office named"
+    },
+    {
+      "system": "Government institution websites under .gov.rw",
+      "country_label": ".gov.rw websites on RISA's official template",
+      "class": "web",
+      "platform": "",
+      "owner": "each institution; template and domain requests through RISA",
+      "tiers": "all government institutions"
+    }
+  ],
+  "note": "A normative guideline: it requires and standardises, and reports no office connected, no count and no use."
+}

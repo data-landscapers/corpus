@@ -1,0 +1,10 @@
+{
+  "slug": "2016-08-01-infohighway-data-sharing-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Government Intranet Network", "country_label": "Government Intranet Network", "class": "backbone", "platform": "", "owner": "Government of Mauritius", "tiers": "the network over which government agencies share data through InfoHighway; no local authority office is said to be on it"},
+    {"system": "InfoHighway", "country_label": "InfoHighway - Data Sharing Platform", "class": "backbone", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation (project owner); Central Informatics Bureau (project management)", "tiers": "government agencies as publishers and subscribers: 33 publishers, 192 connections, 628 e-services; live since August 2016"},
+    {"system": "Government Online Centre", "country_label": "Government Online Centre (GOC)", "class": "backbone", "platform": "", "owner": "Government of Mauritius", "tiers": "hosts the InfoHighway infrastructure"}
+  ],
+  "note": "The page describes the government data-sharing platform and says it runs over the Government Intranet Network from the Government Online Centre; it names no local authority as publisher, subscriber or user, so no office is put on the network."
+}

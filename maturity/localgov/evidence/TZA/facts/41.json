@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-11-tza-tanzania-s-experience-applying-who-smart-guidelines-dak-in-gothomis",
+  "facts": [],
+  "systems": [
+    {"system": "GOTHOMIS", "country_label": "GOTHOMIS; GoT-HoMIS", "class": "application", "platform": "centralised health information system, offline-capable and mobile-first", "owner": "President's Office - Regional Administration and Local Government (PO-RALG)", "tiers": "primary health care facilities, including remote ones"}
+  ],
+  "note": "A health facility information system governed by the local government ministry; the slides speak of health facilities only and say nothing of council offices or their connection."
+}

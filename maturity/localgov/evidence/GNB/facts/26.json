@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-07-worldbank-dtfa-wardip-sop1-pad4756",
+  "facts": [],
+  "systems": [
+    {"system": "Core national backbone infrastructure for network redundancy and expansion (planned under WARDIP SOP1, through a shareholding in a special-purpose vehicle)", "country_label": "", "class": "backbone", "platform": "", "owner": "Government of Guinea-Bissau shareholding in an SPV, World Bank financed", "tiers": "National; no local government office stated"}
+  ],
+  "note": "The passage is one line of the project design listing a planned national backbone; no local government office is said to be on it."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-08-liberia-national-infrastructure-conference-2026-report",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "GovNet", "class": "backbone", "platform": "Government network", "owner": "Government of Liberia", "tiers": "Conference recommendation (January 2026) to expand and upgrade it to connect all ministries, agencies, commissions and counties; no county or city office is said to be on it now"},
+    {"system": "National Data Center", "country_label": "National Data Center", "class": "backbone", "platform": "Data centre", "owner": "Government of Liberia; LTC/LIBTELCO Mobile data centre capacity named", "tiers": "National; proposed as a shared government and commercial facility"},
+    {"system": "Public Wi-Fi and access points", "country_label": "Public Wi-Fi and Access Points", "class": "public-access", "platform": "Wi-Fi hotspots", "owner": "", "tiers": "Proposed for schools, hospitals and County Service Centers"},
+    {"system": "Community Digital Access Centers", "country_label": "Community Digital Access Centers", "class": "public-access", "platform": "", "owner": "", "tiers": "Proposed for underserved areas"},
+    {"system": "National fibre backbone", "country_label": "open-access national fiber backbone", "class": "backbone", "platform": "Fibre-optic cable", "owner": "Government-supported, with private operators", "tiers": "About 1,000 km more needed, mainly in the southeast; nationwide fibre envisaged by 2029"}
+  ],
+  "note": "A conference report of recommendations: GovNet's extension to the counties is proposed, not reported as done, and is absent from the 2026-2029 roadmap table; no local government office is stated to be connected. County administration offices are named only among public buildings in disrepair."
+}

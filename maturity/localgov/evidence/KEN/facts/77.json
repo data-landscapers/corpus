@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-12-eastleighvoice-digital-superhighway-fy2025-26-budget",
+  "facts": [],
+  "systems": [
+    {"system": "Last-mile county connectivity network", "country_label": "last-mile county connectivity network", "class": "backbone", "platform": "", "owner": "national government (ICT budget)", "tiers": "counties; maintenance and rehabilitation allocated Sh750 million in 2025/26 against Sh2.8 billion in 2024/25; no county office said to be on it"},
+    {"system": "Ward ICT hubs", "country_label": "ICT hubs", "class": "public-access", "platform": "", "owner": "national government (digital superhighway)", "tiers": "one per ward; 285 of 1,450 completed since 2024, full rollout targeted by 2028"},
+    {"system": "Konza Data Centre", "country_label": "Konza Data Centre and Smart City", "class": "backbone", "platform": "", "owner": "national government", "tiers": "national"},
+    {"system": "e-GP national e-procurement platform", "country_label": "e-GP", "class": "central", "platform": "", "owner": "National Treasury", "tiers": "ministries and public agencies; due fully live July 2025"}
+  ],
+  "note": "Budget-day report: the county connectivity network gets a domestic maintenance line (Sh750 million, 2025/26, down from Sh2.8 billion) but the article does not say county government offices are on it, so the network is named as a system and gives no fact."
+}

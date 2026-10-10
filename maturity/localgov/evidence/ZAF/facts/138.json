@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-04-zaf-annual-performance-plan-2025-2026",
+  "facts": [],
+  "systems": [
+    {"system": "SAPS Corporate Network (WAN)", "country_label": "SAPS Corporate Network", "class": "central", "platform": "", "owner": "South African Police Service", "tiers": "police sites; 93 WAN sites to be replaced in 2025/26"},
+    {"system": "Metro radio communication infrastructure and CCTV shared with the SAPS", "country_label": "Local Government: Metros to share radio communication infrastructure, services and CCTV", "class": "city-systems", "platform": "", "owner": "metropolitan municipalities", "tiers": "metros"}
+  ],
+  "note": "The police service's annual plan; municipalities appear as policing partners, transfer lines and owners of CCTV and radio infrastructure to be shared, and nothing is stated on the connection of municipal offices."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-16-antic-urges-north-west-councils-digital-transformation-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "council websites", "country_label": "", "class": "web", "platform": "", "owner": "the councils", "tiers": "North West Region: 48.6 percent of councils operate a functional website, per ANTIC's director general in July 2026"},
+    {"system": "digital solutions deployed in councils with ANTIC's help", "country_label": "digital solutions", "class": "application", "platform": "", "owner": "the councils, supported by ANTIC", "tiers": "230 councils, about 64 percent of councils nationwide, per ANTIC"},
+    {"system": "National Civil Status Registry platforms", "country_label": "National Civil Status Registry", "class": "application", "platform": "", "owner": "deployment cited by ANTIC", "tiers": "pilot councils"},
+    {"system": "ANTIC ICT capacity-building seminar for municipal councils", "country_label": "", "class": "capacity", "platform": "", "owner": "ANTIC", "tiers": "mayors and ICT administrators of councils in the North West Region's seven divisions; three days, July 2026"}
+  ],
+  "note": "ANTIC's figures are for websites and for 'digital solutions' deployed in councils; the captured text says nothing of how council offices are connected."
+}

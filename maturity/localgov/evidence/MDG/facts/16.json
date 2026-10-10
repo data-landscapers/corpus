@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Mass biometric enrolment solution (national ID rollout)", "country_label": "PRODIGY biometric enrolment", "class": "central", "platform": "Laxton enrolment kits (iris, face, fingerprint; work with or without internet); IN Groupe database management system", "owner": "PRODIGY; Laxton as supplier", "tiers": "2,500 kits; January 2026 pilot through 116 registration centres in 26 communes"}
+  ],
+  "note": "A national identity enrolment operation; communes are where registration centres sat, with nothing on the commune offices' connection."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-07-nilepost-mpigi-national-id-delays",
+  "facts": [],
+  "systems": [
+    {"system": "NIRA service point at Mpigi Town Council", "country_label": "NIRA service point", "class": "central", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "moved from the NIRA district offices to the Mpigi Town Council offices"}
+  ],
+  "note": "The national identity authority's service point sits at the town council's offices; it is a national agency's field service (class central), and nothing is said of the council's own connection."
+}

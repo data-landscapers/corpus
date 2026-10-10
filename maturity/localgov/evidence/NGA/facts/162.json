@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-18-fij-npc-corrects-vitalreg-records",
+  "facts": [],
+  "systems": [
+    {"system": "VitalReg", "country_label": "VitalReg, the digital birth registration", "class": "central", "platform": "online portal keyed to the national identity number", "owner": "National Population Commission", "tiers": "public portal; no local government office named"}
+  ],
+  "note": "The National Population Commission corrected a wrong family record in its birth registration portal (reported 18 Aug 2026); 'Amuwo Odofin Local Government Area' only locates an address. A national agency's system with no local government office said to use it or be connected. No fact."
+}

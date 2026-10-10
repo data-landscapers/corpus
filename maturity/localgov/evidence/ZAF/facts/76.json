@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-20-top-ict-tenders-iec-tech-upgrades",
+  "facts": [],
+  "systems": [
+    {"system": "City of Cape Town unified channel management (contact centre) solution", "country_label": "unified channel management (contact centre) solution", "class": "web", "platform": "to be procured, with integrated telephony (tender 021S/2026/27)", "owner": "City of Cape Town", "tiers": "one metropolitan municipality; emergency and non-emergency contact centres"},
+    {"system": "Free State Provincial virtual private network", "country_label": "Free State Provincial VPN", "class": "upper-tier", "platform": "emulation software procured through SITA (RFB 3266/2026)", "owner": "Free State Office of the Premier", "tiers": "province; government network for departments' ICT services"},
+    {"system": "Eastern Cape Department of Agriculture district server infrastructure", "country_label": "", "class": "upper-tier", "platform": "VMware", "owner": "Eastern Cape Department of Agriculture", "tiers": "the provincial department's Joe Gqabi, Chris Hani and Alfred Nzo district offices"},
+    {"system": "SITA OSIS and NMS servers", "country_label": "Osis; NMS", "class": "backbone", "platform": "", "owner": "State Information Technology Agency", "tiers": "national; network management for SITA's clients"},
+    {"system": "Electoral Commission ICT environment and public mobile app", "country_label": "", "class": "central", "platform": "VMware vSphere Foundation; a privileged access management solution to be procured", "owner": "Electoral Commission (IEC)", "tiers": "national"}
+  ],
+  "note": "A week's ICT tenders: one metro's contact centre, a province's VPN and national bodies' systems. Nothing on any municipal office's connection."
+}

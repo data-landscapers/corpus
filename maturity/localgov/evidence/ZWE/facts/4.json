@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-23-springer-teevan-evolution-digital-global-gateway",
+  "facts": [],
+  "systems": [
+    {"system": "Global Gateway regional fibre-optic backbone (planned 10,000 km)", "country_label": "", "class": "backbone", "platform": "", "owner": "European Union Global Gateway", "tiers": "Planned across Central and Southern African countries including Zimbabwe; no local government office named"}
+  ],
+  "note": "Book chapter on the EU's Global Gateway; Zimbabwe appears only in a list of countries a planned regional fibre backbone would cross. No local government office connection is stated."
+}

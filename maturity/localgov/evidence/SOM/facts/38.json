@@ -1,0 +1,12 @@
+{
+  "slug": "2016-01-01-toward-a-somali-identification-system-id4d-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "Banadir ID card", "country_label": "Banadir ID card", "class": "application", "platform": "", "owner": "Mogadishu Municipality (Benadir Regional Administration)", "tiers": "Mogadishu municipality; latest system introduced in 2016, with a thumbprint and photograph stored in a database 'centrally (at the municipality)'; 5,300 enrolled; the municipality also produces birth, death and marriage certificates"},
+    {"system": "Puntland ID", "country_label": "Puntland ID card", "class": "upper-tier", "platform": "", "owner": "Ministry of Interior, State of Puntland", "tiers": "state identity card, 800,000 enrolled; the local authority verifies the applicant and issues a 'Proof Form', and data are processed and stored in state databases"},
+    {"system": "Municipal civil registers", "country_label": "", "class": "application", "platform": "", "owner": "municipalities", "tiers": "'some of the country's 22 municipalities' keep registers and issue certificates and municipal ID cards, with poor implementation; birth certificates 'stored manually in paper repositories' (2016)"},
+    {"system": "Birth registration pilot, Burao district", "country_label": "", "class": "central", "platform": "a computer-based application linked to a database", "owner": "Somaliland health ministry with UNICEF support; local civil registration offices issue the certificates", "tiers": "health facilities in Burao district enter births; a direct link from hospitals and health centres to civil registration offices is planned, not made; a similar initiative in Puntland"},
+    {"system": "Somaliland voter register", "country_label": "", "class": "upper-tier", "platform": "relational SQL database", "owner": "Election Commission of Somaliland", "tiers": "central database in the state capital and six regional centres"}
+  ],
+  "note": "A 2016 identification diagnostic; it describes identity cards and civil registers kept by municipalities and states, which are applications or upper-tier systems, and in the passages held says nothing of how a municipal office is connected."
+}

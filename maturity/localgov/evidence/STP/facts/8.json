@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-20-world-bank-isr-digital-sao-tome-and-principe-seq7",
+  "facts": [],
+  "systems": [
+    {"system": "Príncipe submarine cable", "country_label": "Principe submarine cable", "class": "backbone", "platform": "", "owner": "Government with operators under a public-private partnership; World Bank Digital Sao Tome and Principe project (P177158)", "tiers": "inter-island link between São Tomé and Príncipe; supply contract not signed and cable not operational at 19 September 2025; no local government office said to be on it"}
+  ],
+  "note": "The project connects islands and 70 educational institutions (none yet at 19 September 2025) and builds a national interoperability platform with no government system connected; it names no local government office, and 'municipality' appears only as a disaggregation of census population counts."
+}

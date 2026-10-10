@@ -1,0 +1,9 @@
+{
+  "slug": "2019-01-01-mesrstic-plan-actions-strategie-nationale-promotion-haut-debit-volume-2",
+  "facts": [],
+  "systems": [
+    {"system": "réseau large bande national", "country_label": "réseau national large bande", "class": "backbone", "platform": "", "owner": "MESRSTIC - DGTIC (action lead); FAUS, SDIN, operators", "tiers": "action 2-1-3 to link Tidjikja and the 21 unconnected moughataa chefs-lieux from 2020 (about 2,950 km, 36 MUSD); action 2-1-4 to link all commune chefs-lieux from 2023 over 7 years (about 120 sections, 3,500-5,000 km, 50-60 MUSD, operators, donors and the universal access fund)"},
+    {"system": "réseau inter-administration", "country_label": "réseau inter-administration", "class": "backbone", "platform": "", "owner": "", "tiers": "listed as action 3-1-1 of the e-government theme; a possible objective of 100% of administrations on broadband by 2023, with no tier of local government named"}
+  ],
+  "note": "Broadband action plan; it plans fibre to the chefs-lieux of communes as places and names no commune office as connected or to be connected. The excerpt ends in action 2-1-6, before the e-government action sheets."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Burundi Backbone System (BBS) Data Centre", "country_label": "Burundi Backbone System (BBS) Data Centre", "class": "backbone", "platform": "", "owner": "Burundi Backbone System; the register gives the Government of Burundi as owner and also names Econet Group as ultimate control", "tiers": "Bujumbura; operational since 2010; users given as government, universities, banks and ISPs"},
+    {"system": "Lacell SU (Smart Burundi) Data Centre", "country_label": "Lacell SU (Smart Burundi) Data Centre", "class": "backbone", "platform": "", "owner": "Lacell SU; IPS Kenya (AKFED) majority", "tiers": "Bujumbura; colocation for telecoms operators and ISPs"}
+  ],
+  "note": "A data-centre ownership register, by its own header an AI-assisted compilation; two Bujumbura data centres and no local government office named."
+}

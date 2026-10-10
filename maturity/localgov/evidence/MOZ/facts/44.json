@@ -1,0 +1,8 @@
+{
+  "slug": "2021-11-01-ilo-diagnostico-interoperabilidade-protecao-social",
+  "facts": [],
+  "systems": [
+    {"system": "Rede de Governo Eletrónico (GovNET)", "country_label": "GovNET", "class": "backbone", "platform": "", "owner": "implemented by INTIC", "tiers": "not stated; in operation since 2004"}
+  ],
+  "note": "A diagnostic of five central social-protection information systems; GovNET is named once as in operation since 2004, and nothing is stated about local government offices."
+}

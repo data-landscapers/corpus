@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-20-tza-tanzaniainvest-e-ardhi-sign-land-titles-any-region",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "TanzaniaInvest reports that several municipal and district councils, along with the Dodoma, Arusha, Tanga, Mbeya and Mwanza regions, have started using the Ministry of Lands' national e-Ardhi land platform; no count of councils is given and the date is the document's published date.", "as_of": "2026-09-20", "date_precision": "day", "system": "e-Ardhi", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The document says only that 'several' municipal and district councils have started using the national e-Ardhi platform, with no number and no total of councils; the date is the document's published date.", "as_of": "2026-09-20", "date_precision": "day", "system": "e-Ardhi", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "e-Ardhi", "country_label": "e-Ardhi", "class": "application", "platform": "", "owner": "Ministry of Lands, Housing and Human Settlements Development", "tiers": "Dodoma, Arusha, Tanga, Mbeya and Mwanza regions and several municipal and district councils"},
+    {"system": "Ardhi Kiganjani", "country_label": "Ardhi Kiganjani", "class": "web", "platform": "ILMIS-based mobile platform", "owner": "Ministry of Lands, Housing and Human Settlements Development", "tiers": "citizens, nationwide"},
+    {"system": "Land disputes and complaints mobile app", "country_label": "", "class": "web", "platform": "mobile app", "owner": "Ministry of Lands, Housing and Human Settlements Development", "tiers": "citizens"}
+  ],
+  "note": "The document does not say how the councils' offices are connected; the connection is inferred only from councils working in a national system."
+}

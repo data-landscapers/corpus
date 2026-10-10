@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-18-cni-historique-missions",
+  "facts": [],
+  "systems": [
+    {
+      "system": "RNIA and the government intranet",
+      "country_label": "RNIA et Intranet gouvernemental",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Centre National de l'Informatique (CNI), which has managed them since 2007 and is the administration's internet service provider",
+      "tiers": "The administration; no local government office named"
+    }
+  ],
+  "note": "The CNI's own history page: it manages the RNIA and the government intranet and is the administration's internet service provider since 2007, with no local government office said to be on either."
+}

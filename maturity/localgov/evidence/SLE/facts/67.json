@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-sierra-leone-power-of-data-country-framework-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Fibre backbone of the World Bank Digital Transformation Project", "country_label": "fibre backbone provided by the US$50M World Bank Digital Transformation Project", "class": "backbone", "platform": "", "owner": "", "tiers": "named as the carrier for planned interoperability pilots linking DHIS2, EMIS and IFMIS; no local council office said to be on it"},
+    {"system": "Sierra Leone Open Data Portal", "country_label": "Sierra Leone Open Data Portal", "class": "application", "platform": "", "owner": "", "tiers": "planned: integration and adoption to be strengthened across all MDAs and local councils"}
+  ],
+  "note": "A national data framework for 2026-2030; local councils are named as future users of data focal points, standardised data tools and the open data portal, and nothing is stated about a local council office's connection."
+}

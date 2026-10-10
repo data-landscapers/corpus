@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-28-mwi-itwebafrica-macra-ai-crime-cameras-blantyre",
+  "facts": [],
+  "systems": [
+    {"system": "Smart City Surveillance Initiative", "country_label": "Smart City Surveillance Initiative (AI-powered Smart City pilot)", "class": "city-systems", "platform": "", "owner": "Malawi Communications Regulatory Authority (MACRA), with the Malawi Police Service and the Road Traffic Directorate", "tiers": "proposed for Blantyre: Chichiri Roundabout, MUBAS pedestrian crossing, Clock Tower Roundabout and Limbe Market"},
+    {"system": "Lilongwe strategic public CCTV network", "country_label": "strategic public closed-circuit television camera network", "class": "city-systems", "platform": "", "owner": "government", "tiers": "Lilongwe; being deployed, with delays from vandalism and cable theft"}
+  ],
+  "note": "A proposal for surveillance cameras in Blantyre, a city-systems deployment; nothing is stated about the connection of the city council's office."
+}

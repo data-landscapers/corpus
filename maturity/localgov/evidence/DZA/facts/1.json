@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details",
+  "facts": [],
+  "systems": [
+    {"system": "منظومة الهوية الرقمية (digital identity system)", "country_label": "الهوية الرقمية", "class": "application", "platform": "", "owner": "High Commission for Digitalisation, with the interior ministry", "tiers": "registration and appointment at the commune, booked through the portal dzds.dz"},
+    {"system": "البوابة الوطنية للخدمات الرقمية (national digital services portal, dzds.dz)", "country_label": "البوابة الوطنية للخدمات الرقمية", "class": "web", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "national; 66 services"},
+    {"system": "شبكة الربط الرقمي الآمن (secure digital interconnection network)", "country_label": "شبكة الربط الرقمي الآمن", "class": "backbone", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "between sectors; no local government office said to be on it"},
+    {"system": "منظومة التشغيل البيني الوطنية (national interoperability system)", "country_label": "منظومة التشغيل البيني الوطنية", "class": "backbone", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "between sectors' systems"}
+  ],
+  "note": "Says digital-identity registration and the appointment are at the commune through dzds.dz; states nothing about the commune office's own connection or what its staff work over."
+}

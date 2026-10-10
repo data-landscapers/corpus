@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Zambia Acceleration Project: backbone extension and last-mile connectivity", "country_label": "DZAP", "class": "backbone", "platform": "", "owner": "Smart Zambia Institute; World Bank IDA grant of US$100 million plus US$20 million commercial financing", "tiers": "national; US$20 million IDA for backbone and regional network, US$25 million IDA for last mile; no local government office named"},
+    {"system": "ZamPortal", "country_label": "ZamPortal", "class": "web", "platform": "", "owner": "Government", "tiers": "national: about 300 of an estimated 1,500 services"},
+    {"system": "Digital Transformation Centers", "country_label": "DTCs", "class": "public-access", "platform": "", "owner": "Government", "tiers": "not stated"}
+  ],
+  "note": "A World Bank project document for national broadband, digital ID and skills; the captured excerpt names no local government office and no connection to one. The component detail was not captured."
+}

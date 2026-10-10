@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-21 How foreign domains compromise digital identity",
+  "facts": [],
+  "systems": [
+    {"system": ".gov.ng sub-domains extended to local governments", "country_label": "official .gov.ng domains", "class": "web", "platform": ".gov.ng second-level domain", "owner": "Anambra State ICT Agency", "tiers": "Anambra State MDAs (about 95 per cent migrated) and its local governments, for services such as birth registration and certificates of origin"}
+  ],
+  "note": "On the .ng domain; says Anambra extended .gov.ng sub-domains to local governments and that domain adoption is uneven at state and local level. A web-class matter; nothing on any local government office's connection."
+}

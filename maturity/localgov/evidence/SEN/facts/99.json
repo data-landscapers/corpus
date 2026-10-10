@@ -1,0 +1,15 @@
+{
+  "slug": "2015-01-01-eximbank-cn-sen-001-china-eximbank-provides-rmb-530-million",
+  "facts": [],
+  "systems": [
+    {
+      "system": "E-Government Project (e-government network, government intranet; also the Broadband Project)",
+      "country_label": "E-government network / government intranet; administrative intranet",
+      "class": "backbone",
+      "platform": "Huawei and China Machinery Engineering Corporation (phase 1); Huawei (phase 2)",
+      "owner": "Government of Senegal; China Eximbank concessional loans of RMB 390 million (2007), US$50 million (2012) and RMB 530 million (24 November 2015)",
+      "tiers": "Phase 1 (2007-2009): 500 km of fibre in Dakar, Thiès, Louga, Saint-Louis, Diourbel, Kaolack and Fatick for government agencies, universities, hospitals and state enterprises, with telephony in 11 regional capitals. Phase 2 (December 2012 to late 2014): 1,000 km more to 16 named towns and the AIBD airport. No commune or town hall is said to be on it"
+    }
+  ],
+  "note": "A loan record for the government fibre network and intranet: it names government agencies, universities and hospitals as users and regional capitals as the reach, and puts no local government office on the network."
+}

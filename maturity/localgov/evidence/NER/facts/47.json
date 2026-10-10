@@ -1,0 +1,8 @@
+{
+  "slug": "2014-01-02-eximbank-cn-ner-001-national-backbone-fiber-optic-cable-network",
+  "facts": [],
+  "systems": [
+    {"system": "National Backbone Fiber Optic Cable Network and Communication Service Project", "country_label": "National Backbone Optical Cable Network and Communication Service Project", "class": "backbone", "platform": "more than 2,275 km of fibre on three sections (Niamey-Tillabery, Zinder-Diffa, Agadez-Tahoua), with 136 GSM and WCDMA terminals, CDMA and ADSL networks and e-government services", "owner": "Government of Niger; SONITEL, the state operator, responsible for repaying the China Eximbank loan", "tiers": "national; no local government office said to be on it"}
+  ],
+  "note": "A deal record for the China Eximbank loan of 2 January 2014 for the national fibre backbone, built June 2015 to the first quarter of 2017; 'handed over to the local authorities' means the Nigerien authorities, and no local government office is said to be connected."
+}

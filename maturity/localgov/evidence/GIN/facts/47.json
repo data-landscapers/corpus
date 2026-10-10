@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-19-anafic-digitalisation-gestion-budgetaire-comptable-collectivites-locales",
+  "facts": [],
+  "systems": [
+    {"system": "Système Intégré de Gestion de l'Information Financière (SIGIF)", "country_label": "progiciel intégré de gestion administrative, budgétaire, comptable et financière à l'usage des collectivités locales", "class": "application", "platform": "not chosen: the integrator was to be selected by a tender whose specification was being written on 2024-12-18", "owner": "ANAFIC, with the ministries of territorial administration, of economy and finance and of the budget as owners; financed by the World Bank under PAGL2 (IDA 7274-GN)", "tiers": "intended for all communes of Guinea; none using it at the date of the notice"}
+  ],
+  "note": "A recruitment notice of 2024-12-18 for the project to digitalise local collectivities' budget and accounting: a system being procured, with delays in deploying digital solutions named among the causes of poor local financial management; nothing is stated about a connection at commune offices."
+}

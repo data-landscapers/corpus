@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-cote-divoire-tresormoney-contexte-de-creation",
+  "facts": [],
+  "systems": [
+    {"system": "Net-Collect Services", "country_label": "plateforme Net-Collect Services", "class": "application", "platform": "", "owner": "Direction Générale du Trésor et de la Comptabilité Publique (DGTCP)", "tiers": "collection of the own revenue of collectivités territoriales; a decree of 6 November 2019 instituted electronic collection in communes, regions and districts"},
+    {"system": "TrésorMoney", "country_label": "TrésorMoney", "class": "central", "platform": "mobile payment platform, with technical assistance from BMI-CI FINANCES", "owner": "DGTCP (Trésor Public)", "tiers": "national; payments, recovery and receipts of State resources; lists a 'gestion de la collectivité' service without describing it"}
+  ],
+  "note": "The Treasury's account of its revenue-collection platform for local authorities: an application, logged for the records row. The page does not say local government staff work in it at their own offices, and states no connection."
+}

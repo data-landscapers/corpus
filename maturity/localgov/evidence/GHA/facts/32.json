@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-17-ohlgs-dlrev-software-municipal-assemblies-training",
+  "facts": [],
+  "systems": [
+    {"system": "dLRev revenue management software", "country_label": "dLRev", "class": "application", "platform": "dLRev", "owner": "Office of the Head of the Local Government Service, under the World Bank-supported Ghana Secondary Cities Support Programme", "tiers": "participating municipal assemblies and regional co-ordinating councils in Central, Western, Western North, Eastern, Volta and Oti regions"},
+    {"system": "Training on dLRev for about 150 officers, 13 to 17 July 2026", "country_label": "", "class": "capacity", "platform": "", "owner": "Office of the Head of the Local Government Service", "tiers": "participating municipal assemblies and regional co-ordinating councils, six regions"}
+  ],
+  "note": "Training of assembly officers on revenue software, an application and capacity; the Head of Service calls manual revenue collection no longer fit, but nothing is stated about the offices' connection."
+}

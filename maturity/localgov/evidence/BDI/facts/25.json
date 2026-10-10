@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-01-manuel-technique-gestion-fonctionnement-services-fonciers-communaux-burundi",
+  "facts": [],
+  "systems": [
+    {"system": "communal land service land information system and business applications for land certification", "country_label": "service foncier communal (SFC); système d'information foncière (SIF); applications métiers", "class": "application", "platform": "", "owner": "the commune, under the ministry in charge of territorial administration; technical support from the Permanent Secretariat of the Commission Foncière Nationale; manual financed by VNG-International", "tiers": "114 communal land services created as at November 2024, to be reduced to 42 with the 42 communes; zonal land counters in the 421 zones"},
+    {"system": "IT equipment of a communal land service", "country_label": "équipements informatiques et leurs accessoires", "class": "equipment", "platform": "", "owner": "the commune", "tiers": "communal land service; a standard set by the manual"}
+  ],
+  "note": "A manual for communal land services: the paper-based model was chosen in 2016 for want of electricity in some communes and of means to buy IT equipment, and the passages state no connection of the commune office."
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2025-01-01-nosi-egov-solutions",
+  "facts": [],
+  "systems": [
+    {"system": "Municipal Information System (SIM)", "country_label": "Sistema de Informação Municipal (SIM)", "class": "application", "platform": "NOSi solution", "owner": "NOSi", "tiers": "municipalities: financial, human resources, taxes and fees, licensing, land and property rights management"},
+    {"system": "SIMple", "country_label": "SIMple", "class": "application", "platform": "new version of SIM, NOSi", "owner": "NOSi", "tiers": "municipalities"},
+    {"system": "SIMLAND", "country_label": "SIMLAND", "class": "application", "platform": "NOSi solution", "owner": "NOSi", "tiers": "the municipality: land planning, building management, fiscal valuation and collection"},
+    {"system": "Integrated System for Budgetary and Financial Management (SIGOF)", "country_label": "SIGOF", "class": "application", "platform": "NOSi solution", "owner": "NOSi", "tiers": "State Budget at all levels: central government, local government, autonomous funds and services"},
+    {"system": "Property Registration Special Regime System (SRERP)", "country_label": "SRERP", "class": "application", "platform": "NOSi solution", "owner": "NOSi", "tiers": "banks, lawyers, tourism enterprises, city councils, notaries and the tax directorate"},
+    {"system": "Rede Tecnológica Privativa do Estado (RTPE)", "country_label": "RTPE", "class": "backbone", "platform": "", "owner": "NOSi, as manager", "tiers": "RTPE users; no municipal office stated"},
+    {"system": "VKonekta", "country_label": "Plataforma de Comunicação VoIP unificada, VKonekta", "class": "backbone", "platform": "VoIP", "owner": "NOSi", "tiers": "RTPE users"},
+    {"system": "Casa do Cidadão and Porton di nos ilha portal", "country_label": "Casa do Cidadão; www.portondinosilha.cv", "class": "central", "platform": "NOSi solution", "owner": "NOSi", "tiers": "physical counters, web and contact centre"},
+    {"system": "Land Management System (SIT)", "country_label": "SIT", "class": "central", "platform": "NOSi solution", "owner": "NOSi", "tiers": "State territory-management systems"}
+  ],
+  "note": "A catalogue of NOSi products with no dates, counts or coverage; it describes the municipal applications and names the state private network but puts no municipal office on a connection."
+}

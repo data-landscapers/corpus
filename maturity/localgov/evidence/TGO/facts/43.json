@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-18 Urban addressing - modernisation effort",
+  "facts": [],
+  "systems": [
+    {"system": "Urban addressing databases (geographic address database)", "country_label": "adressage urbain", "class": "application", "platform": "", "owner": "government; District Autonome du Grand Lomé (DAGL)", "tiers": "Greater Lomé; the geographic address database of its 13 communes was updated beforehand"}
+  ],
+  "note": "Describes the urban addressing database for Greater Lomé; nothing on the connection of any local government office."
+}

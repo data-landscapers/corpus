@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-liberia-mopt-wardip-sop2-stakeholder-engagement-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Amilcar Cabral Optical Submarine Cable Project", "country_label": "Amilcar Cabral Optical Submarine Cable, under WARDIP-SOP2", "class": "backbone", "platform": "", "owner": "Ministry of Post and Telecommunications, financed by the World Bank (US$50 million)", "tiers": "national; landing site under selection at Buchanan, Grand Bassa County, in February 2025"},
+    {"system": "CLSG network", "country_label": "CLSG network", "class": "backbone", "platform": "", "owner": "", "tiers": "named at the Buchanan substation, where the feasibility of linking the cable to it was assessed"}
+  ],
+  "note": "A stakeholder engagement plan for a submarine cable. Municipal and county administrations are stakeholders consulted on landing sites, permits and notices, and are ranked as benefiting, but no connection of any local government office is stated or planned."
+}

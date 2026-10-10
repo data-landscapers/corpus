@@ -1,0 +1,13 @@
+{
+  "slug": "2014-11-01-mali-numerique-2020-strategie-nationale-economie-numerique",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The ministry's draft Mali Numérique 2020 strategy lists the connection of certain communes among the few results obtained under the 2005 national ICT policy, giving no number of communes and no total; the document gives no date for it, so its published date is used.", "as_of": "2014-11", "date_precision": "month", "system": "connexion de certaines communes", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The ministry's draft Mali Numérique 2020 strategy counts the connection of certain communes as a result achieved under the government's 2005 national ICT policy, beside the administration's intranet and the equipping and connection of certain schools; it does not say who pays for the connection, and gives no date, so its published date is used.", "as_of": "2014-11", "date_precision": "month", "system": "connexion de certaines communes", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "connexion de certaines communes", "country_label": "connexion de certaines communes", "class": "connection", "platform": "", "owner": "", "tiers": "certain communes, number not given"},
+    {"system": "Intranet de l'Administration", "country_label": "Intranet de l'Administration", "class": "backbone", "platform": "", "owner": "", "tiers": "the administration; no local government office said to be on it"},
+    {"system": "Centres d'Accès Communautaires (CAC)", "country_label": "Centres d'Accès Communautaires", "class": "public-access", "platform": "", "owner": "public-private partnership, deployed through la Poste", "tiers": "200 planned for 2015-2020, each with at least five computers, internet access and telephones, for citizens where home internet is not widespread"}
+  ],
+  "note": "A pre-validation draft of the strategy, by the file's own header. Its e-government governance is to give tailored support to ministries, administrations and collectivités locales for their e-government projects, and its target for public structures connected (56 per cent in 2014) is not broken down to local governments; neither names the connection of local government offices."
+}

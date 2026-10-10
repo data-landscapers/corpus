@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01 An investigation of digital transformation initiatives in South African rural local municipalities",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "internet", "fact": "Interviews with nine departmental managers of rural local municipalities in Limpopo find that only communication has been digitally transformed, the municipalities using social media and Microsoft Teams, one manager citing a mayoral committee meeting a presenter joined by Teams; who provides the offices' connection is not stated and no date is given, so the published year is used.", "as_of": "2025", "date_precision": "year", "system": "Office internet use at rural local municipalities in Limpopo (Microsoft Teams, social media)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Office internet use at rural local municipalities in Limpopo (Microsoft Teams, social media)", "country_label": "", "class": "connection", "platform": "Microsoft Teams", "owner": "rural local municipalities", "tiers": "rural local municipalities (categories B3 and B4) in Limpopo; nine managers interviewed, no count of municipalities given"},
+    {"system": "Social media platforms used by rural local municipalities to communicate with citizens", "country_label": "", "class": "web", "platform": "", "owner": "rural local municipalities", "tiers": "rural local municipalities in Limpopo"}
+  ],
+  "note": "Also stated, and not recorded as facts because they are of the capacity class or not about the office: rural municipalities lack IT strategies, skills and funds, digital projects are funded internally, and a Musina water pumping site has no network coverage."
+}

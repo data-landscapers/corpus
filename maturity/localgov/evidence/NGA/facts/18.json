@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-14-oyo-social-workers-receive-child-protection-data-training-voice-of-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "Primero", "country_label": "Child Protection Information Management System", "class": "upper-tier", "platform": "Primero", "owner": "Oyo State Ministry of Women Affairs and Social Inclusion, with UNICEF", "tiers": "state ministry; 50 auxiliary social workers from Ibadan South-West Local Government Area trained to use it from the field on mobile devices, to be extended to other local government areas"},
+    {"system": "National Case Management Dashboard", "country_label": "Child Protection Information Management Centre", "class": "central", "platform": "", "owner": "Federal Ministry of Women Affairs and Social Development", "tiers": "federal, monitoring cases across all 36 states"}
+  ],
+  "note": "A state ministry's case-management system used by community social workers on mobile devices in the field; no local government office is said to be connected or to work in it, so there is no fact."
+}

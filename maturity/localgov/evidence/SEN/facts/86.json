@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-state-gov-2024-investment-climate-statement-senegal",
+  "facts": [],
+  "systems": [
+    {"system": "SENUM fibre-optic cable", "country_label": "Sénégal Numérique (SENUM)", "class": "backbone", "platform": "", "owner": "Sénégal Numérique (SENUM), the state-owned digital company", "tiers": "national; a plan to lay 4,500 kilometres of additional cable, with no local government office said to be on it"},
+    {"system": "government data center", "country_label": "", "class": "backbone", "platform": "", "owner": "Government of Senegal", "tiers": "national; 1,000 terabytes, inaugurated June 2021, meant to host all government data and applications"},
+    {"system": "single window service centers", "country_label": "\"single window\" system", "class": "central", "platform": "", "owner": "Government of Senegal", "tiers": "new service centers opened across the country, number not stated"}
+  ],
+  "note": "A United States investment climate report; local government bodies appear once, as having no decisive role in regulatory decisions. It names a fibre plan, a government data centre and central service centres, and states no connection at any local government office."
+}

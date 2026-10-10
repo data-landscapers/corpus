@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-civil-registration-children-burkina-faso-phase-ii",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital birth registration platform",
+      "country_label": "digital birth registration platform",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "Deployment listed among the activities of the AMADE and Tin Tua project of 2025-2028 with the DGMEC in three municipalities: Kaya, Tenkodogo and Koupéla"
+    },
+    {
+      "system": "Digital archiving solution",
+      "country_label": "digital archiving solution",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "Listed as a project result for the three municipalities involved: Kaya, Tenkodogo and Koupéla"
+    }
+  ],
+  "note": "AMADE project page on civil registration of children: its digital platform and archiving are records applications in three municipalities; nothing is said of how the municipal offices are connected."
+}

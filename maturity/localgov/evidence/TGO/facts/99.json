@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-21-togofirst-akoumape-modele-integre-2000-premiers-jours-naissance-keva",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Togo First reports that under the Vo prefecture pilot the mairie reaches, in the shared 'Naissance Keva' platform, the newborn's data keyed at the maternity once the health facility's head has validated it, to draw up the birth record; the document does not say how the mairie is connected.", "as_of": "2026-05-12", "date_precision": "day", "system": "Mairie access to the Naissance Keva platform", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "pilot", "fact": "Togo First reports the integrated model, with the Naissance Keva platform linking maternities to civil-status services, as a pilot project deployed in the four communes of Vo prefecture, with extension planned to the whole prefecture, then the Maritime region, then nationally.", "as_of": "2026-05-12", "date_precision": "day", "system": "Mairie access to the Naissance Keva platform", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The pilot model whose Naissance Keva platform gives the mairie access to maternity birth data has been deployed since February 2026 in the four communes of Vo prefecture, by the Maritime regional health directorate with UNICEF, WHO and UNFPA support, according to Togo First.", "as_of": "2026-02", "date_precision": "month", "system": "Mairie access to the Naissance Keva platform", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Naissance Keva", "country_label": "application « Naissance Kéva »", "class": "application", "platform": "", "owner": "Direction regionale de la Sante maritime (maitre d'oeuvre), supported by UNICEF, WHO and UNFPA", "tiers": "Maternities and civil-status services (mairies) of the four communes of Vo prefecture, since February 2026; pilot"}
+  ],
+  "note": "The connection is read from the mairie working in a shared platform; the document states neither that the access is at the mairie's own office nor who provides or pays for any link, so no 'connected' or 'governance' fact is recorded."
+}

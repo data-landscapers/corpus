@@ -1,0 +1,9 @@
+{
+  "slug": "2024-04-01-malawi-2023-2027-partnership-compact",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "central", "platform": "", "owner": "Ministry of Education; web-based system developed with UNICEF support", "tiers": "web-based system said to be functional at national, district and school level, its use impeded by limits to offline working; District and Zonal EMIS Officers appear in the acronym list"},
+    {"system": "Integrated Financial Management System (IFMIS)", "country_label": "IFMIS", "class": "", "platform": "", "owner": "", "tiers": "named in the acronym list only"}
+  ],
+  "note": "No fact: district councils appear as recipients of education funding and performance grants. The nearest statement is that the web-based EMIS is functional at district level (April 2023 analysis), but the document places it in the education administration and does not say a council office is connected or works in it; the parent may wish to weigh it."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-05-nigeria-jobberman-mastercard-foundation-akwa-ibom-digital-economy",
+  "facts": [],
+  "systems": [
+    {"system": "ARISE ICT hubs and Youth Centres", "country_label": "ARISE ICT hubs; Youth Centres", "class": "public-access", "platform": "", "owner": "Akwa Ibom State Government", "tiers": "state projects named by the commissioner for labour; Youth Centres across all 31 local government areas of the state"},
+    {"system": "Akwa Ibom Employment Portal", "country_label": "Akwa Ibom Employment Portal", "class": "upper-tier", "platform": "", "owner": "", "tiers": "named by a participant; no description of what it does"}
+  ],
+  "note": "A youth career clinic in Akwa Ibom State: state-run hubs and youth centres for residents, with nothing on local government offices or their connection."
+}

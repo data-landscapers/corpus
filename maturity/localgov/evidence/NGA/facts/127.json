@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-29-benue-bdic-digital-infrastructure-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "Benue State digital platforms (BENGIS, Executive Document Management System, Civil Service Management System, Integrated Revenue System, e-Citizen Identity Registration System, Virtual Marketplace and MDA web platforms)", "country_label": "BENGIS; EDMS", "class": "upper-tier", "platform": "over 10 platforms built by the state's own company", "owner": "Benue Digital Infrastructure Company (BDIC), a special purpose vehicle of the Benue State Government", "tiers": "Benue State government and its MDAs"},
+    {"system": "Benue digital skills programme for public servants", "country_label": "", "class": "capacity", "platform": "", "owner": "Benue State Government, through BDIC", "tiers": "40,000 public servants across the State and Local Governments targeted; over 4,800 trained by 28 July 2025"}
+  ],
+  "note": "A state company's press briefing of 28 July 2025: state platforms, and digital training that takes in local government staff. Upper-tier and capacity matters; nothing on any local government office's connection."
+}

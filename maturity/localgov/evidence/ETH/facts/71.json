@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-reila-advancing-sustainable-land-management-ethiopia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Rural Land Administration Information System (NRLAIS)",
+      "country_label": "NRLAIS",
+      "class": "",
+      "platform": "open source technologies (from a contents heading)",
+      "owner": "Ministry of Agriculture, Rural Land Administration and Use Directorate, with the Finnish-funded REILA programme",
+      "tiers": "not stated in the captured text"
+    }
+  ],
+  "note": "The capture holds the report's table of contents only: the land information system is named in headings with no description, woredas appear only as programme target areas, and the rollout figures sit in pages not captured, so nothing is stated on woreda offices or their connection."
+}

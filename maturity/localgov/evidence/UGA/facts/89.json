@@ -1,0 +1,13 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
+  "facts": [],
+  "systems": [
+    {"system": "ecitizen.go.ug shared public service delivery platform", "country_label": "ecitizen.go.ug", "class": "web", "platform": "", "owner": "Government of Uganda; supported by the World Bank's Regional Communications Infrastructure Program Phase 5 (P130871)", "tiers": "by the end of the project half of ministries, departments, agencies and local governments were using it, from an SMS gateway to an e-payment portal; the two groups are not counted apart"},
+    {"system": "National Government Cloud", "country_label": "National Government Cloud platform", "class": "backbone", "platform": "", "owner": "National Information Technology Authority of Uganda (NITA-U)", "tiers": "launched 2019; shared between government entities; no local government office said to be on it"},
+    {"system": "National data centre", "country_label": "national data center", "class": "backbone", "platform": "", "owner": "Government of Uganda", "tiers": "as of July 2022 hosting almost 200 e-government applications run by 95 agencies and departments"},
+    {"system": "UgHub", "country_label": "UgHub, national data sharing and integration platform", "class": "backbone", "platform": "", "owner": "Government of Uganda", "tiers": "more than 70 government entities"},
+    {"system": "Integrated financial management information system", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "Government of Uganda", "tiers": "relaunched October 2022; tiers not stated"},
+    {"system": "Human resources management information system", "country_label": "HRMIS, replacing the integrated personnel and payroll system (IPPS)", "class": "application", "platform": "", "owner": "Government of Uganda", "tiers": "under roll-out in 2023; tiers not stated"}
+  ],
+  "note": "A regional index brief. Its one statement on Ugandan local governments is that half of ministries, agencies and local governments together used a shared service delivery platform by the end of a World Bank project: no count of local governments, and nothing on any local government office's connection."
+}

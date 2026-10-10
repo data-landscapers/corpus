@@ -1,0 +1,15 @@
+{
+  "slug": "2024-04-01-cnie-carte-nationale-identite-electronique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Numéro d'Identification Personnel (NIP) biometric enrolment",
+      "country_label": "NIP / projet IBOGA",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur (DGDI)",
+      "tiers": "Dedicated enrolment centres from 3 April 2024 in Grand Libreville (Libreville, Owendo, Akanda, Ntoum), then nationwide in a second phase; in Akanda two of the three sites are arrondissement mairies (Cap Estérias and Angondjé), the rest police stations, DGDI offices, a prefecture and public spaces"
+    }
+  ],
+  "note": "Interior Ministry notice on NIP enrolment: two arrondissement mairies in Akanda host the ministry's enrolment centres, but the document does not say the mairie is connected or that its staff work in the system."
+}

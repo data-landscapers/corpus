@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-05-tchadinfos-maires-deux-logone-formes-enregistrement-naissances",
+  "facts": [],
+  "systems": [
+    {"system": "TASDJIL", "country_label": "application numérique TASDJIL", "class": "application", "platform": "", "owner": "government; deployment cited by UNICEF", "tiers": "not stated"},
+    {"system": "Monthly civil-status data collection forms", "country_label": "fiches mensuelles de collecte des données des faits d'état civil", "class": "application", "platform": "", "owner": "Ministère de l'Administration du territoire et de la Décentralisation, with UNICEF support", "tiers": "civil-status officers of the communes (mayors of Logone occidental and Logone oriental trained), transmitting monthly to the ministry"}
+  ],
+  "note": "A workshop for the mayors of the two Logone provinces on transmitting civil-status data to the centre by monthly forms; it names insufficient infrastructure and no harmonised reporting mechanism but states nothing on the connection of commune offices."
+}

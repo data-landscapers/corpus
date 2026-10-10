@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-goc-san-executive-summary-bid-evaluation",
+  "facts": [],
+  "systems": [
+    {"system": "GOC Data centre and Disaster Recovery site", "country_label": "GOC (Main Site) and DR Site", "class": "backbone", "platform": "clustered hypervisor on servers and a storage area network, active-active across the two sites", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "central government hosting; no local authority named in the document's text"}
+  ],
+  "note": "Bid evaluation summary for servers, storage and backup at the Government Online Centre (best evaluated bid Rs 34,792,550, bids opened 3 October 2025). The document's own text never mentions local authorities: the 'local authorities' hit and the Local Authorities Portal are in the catalogue note above the body, not in the source."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2021-01-29-cpv-bo-decreto-lei-9-2021-regime-juridico-ciberseguranca",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "country_label": "Rede Tecnológica Privativa do Estado (RTPE)",
+      "class": "backbone",
+      "platform": "the state's private technology network",
+      "owner": "",
+      "tiers": "the Public Administration is held to its security rules, and the decree counts local authorities within the Public Administration; no local government office is said to be on it"
+    },
+    {
+      "system": "Government data centre",
+      "country_label": "datacenter governamental",
+      "class": "backbone",
+      "platform": "",
+      "owner": "NOSi",
+      "tiers": "national; to house CSIRT.CV"
+    }
+  ],
+  "note": "A law: the cybersecurity regime of January 2021 applies to local authorities (autarquias locais) as part of the Public Administration, but states nothing about any municipal office being connected."
+}

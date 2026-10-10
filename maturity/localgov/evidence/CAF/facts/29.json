@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-10-undp-digitalisation-prefectures-ict-kits",
+  "facts": [],
+  "systems": [
+    {"system": "Telework kits for prefecture seats", "country_label": "dispositifs complets de télétravail (Initiative pour la digitalisation des institutions publiques centrafricaines)", "class": "central", "platform": "laptops, desktop computers, internet connection devices with credit, printers, solar power, large screens", "owner": "UNDP, with the Ministère de l'Administration Territoriale", "tiers": "the deconcentrated administration in four prefecture seats, Bouar, Berberati, Mbaïki and Nola; Obo, Bangassou, Ndélé and Bambari planned for 2022"}
+  ],
+  "note": "The kits, with an internet connection, went to prefectures, which the document calls the deconcentrated administration: the state's field offices, not communes, so the class is central and no fact is recorded."
+}

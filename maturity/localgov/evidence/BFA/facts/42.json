@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-aphrc-enhancing-coherence-education-data-fragmentation",
+  "facts": [],
+  "systems": [
+    {"system": "KIX-SEEDS equipment and capacity-building for municipalities", "country_label": "", "class": "equipment", "platform": "", "owner": "ISSP Burkina Faso, under the APHRC-led KIX-SEEDS project funded by GPE/KIX", "tiers": "municipalities in pilot areas; number not stated"},
+    {"system": "education data collection and visualisation tools", "country_label": "", "class": "application", "platform": "KoboToolbox, Excel, Laravel-Streamlit, run as separate platforms", "owner": "ISSP Burkina Faso, under KIX-SEEDS", "tiers": "piloted at municipal and school level; limited use beyond pilot areas"}
+  ],
+  "note": "No fact: an education-data brief that reports equipment and training given to municipalities in pilot areas and lists poor internet connectivity among the country's data-system challenges, without stating whether municipal offices have a connection of their own."
+}

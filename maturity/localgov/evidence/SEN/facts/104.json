@@ -1,0 +1,42 @@
+{
+  "slug": "2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The national civil registration agency ANEC states that its mandate includes interconnecting the civil registration centres and consular centres, together with the state company Sénégal Numérique S.A. (SENUM); the page states the mandate only, gives no count of centres connected and does not say the centres are commune offices (undated page, dated here to its publication date, itself a proxy for the day it was retrieved).",
+      "as_of": "2026-09-03",
+      "date_precision": "day",
+      "system": "Interconnexion des centres d'état civil",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Interconnexion des centres d'état civil",
+      "country_label": "Interconnexion des centres d'état civil et des centres consulaires",
+      "class": "connection",
+      "platform": "",
+      "owner": "ANEC, with Sénégal Numérique S.A. (SENUM S.A)",
+      "tiers": "Civil registration centres and consular centres, as a mandate; no coverage stated"
+    },
+    {
+      "system": "Logiciel de gestion des faits d'état civil",
+      "country_label": "Logiciel de gestion des faits d'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "ANEC",
+      "tiers": "To be generalised to all civil registration centres, as a mandate; no coverage stated"
+    },
+    {
+      "system": "Base de données centralisée de l'état civil national et consulaire",
+      "country_label": "Base de données centralisée de l'état civil national et consulaire",
+      "class": "application",
+      "platform": "",
+      "owner": "ANEC",
+      "tiers": "National, held centrally; to be interfaced with other producers' and users' databases"
+    }
+  ],
+  "note": ""
+}

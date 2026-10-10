@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-27-tchad-connexion-2030-plan-national-de-developpement",
+  "facts": [],
+  "systems": [
+    {"system": "Outils numériques dédiés aux nouvelles collectivités territoriales", "country_label": "outils numériques de gestion pour les collectivités locales", "class": "application", "platform": "", "owner": "government (national development plan, Ministry of Finance, Budget, Economy and Plan)", "tiers": "provincial and communal councils; planned, to simplify and harmonise local administrative procedures, listed among the plan's first results"},
+    {"system": "Plans cadastraux numériques", "country_label": "plans cadastraux numériques", "class": "application", "platform": "", "owner": "government", "tiers": "planned for the 125 urban communes"},
+    {"system": "E-tax", "country_label": "plateforme numérique E-tax", "class": "central", "platform": "", "owner": "government (tax administration)", "tiers": "national; launched 2022, e-invoicing launched 2024 and generalised 2025"}
+  ],
+  "note": "The national plan of 2025-08-27 plans digital management tools for the collectivités territoriales, an application, and says nothing of connecting their offices. It gives the country's own count: 23 autonomous provincial councils and 125 communes."
+}

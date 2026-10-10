@@ -1,0 +1,42 @@
+{
+  "slug": "2021-08-01-reviewed-national-policy-on-emis",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Federal Ministry of Education's reviewed EMIS policy, approved by the National Council on Education in August 2021, recommends as basic infrastructure for each Local Government Education Authority data node internet connectivity with a V-Sat facility, a mini server, at least six computers and 24-hour UPS power; it gives no cost, leaves each node to cost its own needs, and states no node as connected.",
+      "as_of": "2021-08",
+      "date_precision": "month",
+      "system": "LGEA EMIS node: internet connectivity with V-Sat facility",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NEMIS",
+      "country_label": "Nigeria Education Management Information System",
+      "class": "application",
+      "platform": "NEMIS software; electronic Annual School Census template",
+      "owner": "Federal Ministry of Education, Statistics and NEMIS",
+      "tiers": "Apex national database; data flows from school to LGA to State to Federal; over 900 data nodes named"
+    },
+    {
+      "system": "SEMIS",
+      "country_label": "State EMIS",
+      "class": "upper-tier",
+      "platform": "",
+      "owner": "State Ministries of Education",
+      "tiers": "State"
+    },
+    {
+      "system": "LEMIS",
+      "country_label": "Local Government EMIS",
+      "class": "application",
+      "platform": "",
+      "owner": "Local Government Education Authorities",
+      "tiers": "LGEA, as a data node storing reports from the schools in its LGA, preferably in electronic format"
+    }
+  ],
+  "note": "A sector policy: the one fact is a recommendation, not a costed plan, and concerns the Local Government Education Authority rather than the council secretariat; the parent decides whether it counts. The policy also says equipment and EMIS infrastructure are inadequate, naming the Federal and State levels only."
+}

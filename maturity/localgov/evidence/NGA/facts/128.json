@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-30-anambra-ai-smartgov-lg-spending",
+  "facts": [],
+  "systems": [
+    {"system": "SmartGov Suite", "country_label": "SmartGov Suite", "class": "application", "platform": "AI-powered platform built in-house", "owner": "Anambra State ICT Agency", "tiers": "Anambra State; deployment began with its 21 local governments (budget, payroll verification against NIN and BVN, vendors and procurement) and is to extend to all state ministries"}
+  ],
+  "note": "A June 2025 report on a state-built AI tool checking the payroll and spending of Anambra's 21 local governments; it says government processes there remain largely manual and paper-based, and states nothing about a connection at any local government office or staff working online from one."
+}

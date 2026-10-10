@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-10-mrt-mtnima-wardip-tdr-systeme-adressage-geolocalise-mauripost",
+  "facts": [],
+  "systems": [
+    {"system": "National geo-referenced digital postal addressing system", "country_label": "système d'adressage numérique postal géoréférencé; base nationale des adresses numériques et des codes postaux", "class": "application", "platform": "to be built: open-source GIS and relational database, web management portal, public website and mobile applications, hosted on the client's site in Nouakchott", "owner": "MTNIMA (WARDIP-Mauritanie, World Bank financing); the Agence Numérique de l'État to host the address database; Mauripost to manage postcodes", "tiers": "planned, not built: communes are to feed the national address database (street naming, conventional addresses), and a mobile application working online and offline is to equip the mobile terminals of commune staff for field collection"}
+  ],
+  "note": "Terms of reference for a system still to be built; the communes' part is planned data collection on staff mobile terminals, and nothing is stated about a connection at commune offices. The body is truncated in section 2.8."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-05-malawi-farming-households-namis-registration",
+  "facts": [],
+  "systems": [
+    {"system": "National Agriculture Management Information System (NAMIS)", "country_label": "NAMIS", "class": "central", "platform": "", "owner": "Ministry of Agriculture", "tiers": "nationwide rollout; district councils worked with the ministry and its consultant on validating the farmer register, with no statement that council offices work in the system"}
+  ],
+  "note": "District councils are named once, as helping validate the farmer-register data; nothing is stated about a council office's connection."
+}

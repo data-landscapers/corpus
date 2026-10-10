@@ -1,0 +1,15 @@
+{
+  "slug": "2015-01-01-eximbank-cn-ben-001-china-eximbank-provides-rmb-496-million",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Broadband Network Project, Phase 1 (PDI2T)",
+      "country_label": "National Broadband Network Project Phase 1; 'National Backbone'",
+      "class": "backbone",
+      "platform": "optical fibre backbone, FTTx access network, IMS/MPLS core; contractor Huawei Technologies",
+      "owner": "Government of Benin; Benin Telecom S.A., under a China Eximbank concessional loan of RMB 496 million signed 7 April 2015",
+      "tiers": "National backbone: rehabilitation of the 1,060 km Cotonou-Malanville fibre route, a metropolitan fibre loop in Cotonou and surroundings, 125 access nodes and 30 new 4G base stations; works began December 2016. A later history line carries the decree's plan to extend coverage from 36 to 67 of 77 communes. No commune office is said to be on it."
+    }
+  ],
+  "note": "Deal record for the backbone loan (body an excerpt). Communes appear only as places the fibre is to cover; no local government office is said to be connected."
+}

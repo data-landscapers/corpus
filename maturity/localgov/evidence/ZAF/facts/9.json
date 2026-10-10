@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-29-zaf-gautengnews-tshwane-data-analytics-platform-dashboard-internal",
+  "facts": [],
+  "systems": [
+    {"system": "Enterprise Data and Analytics Platform", "country_label": "Enterprise Data and Analytics Platform", "class": "application", "platform": "", "owner": "City of Tshwane, with the CSIR", "tiers": "City of Tshwane; brings the data of its municipal departments into one system, launched 29 September 2026 after a six-month test"},
+    {"system": "Service Delivery War Room dashboard", "country_label": "Service Delivery War Room dashboard", "class": "application", "platform": "", "owner": "City of Tshwane", "tiers": "City of Tshwane; internal to officials, not public"}
+  ],
+  "note": "A municipal data platform and internal dashboard, applications; nothing stated on how the city's offices are connected."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-26-dha-annual-performance-plan-2026-27",
+  "facts": [],
+  "systems": [
+    {"system": "Home Affairs mobile office fleet", "country_label": "mobile offices", "class": "central", "platform": "", "owner": "Department of Home Affairs", "tiers": "a fleet of 220, used in all provinces to support non-modernised offices and outreach, especially in deep rural areas"},
+    {"system": "Home Affairs offices (live capture)", "country_label": "modernised and non-modernised offices", "class": "central", "platform": "", "owner": "Department of Home Affairs", "tiers": "non-modernised offices, especially rural, lack live capture; bank partnerships are to cover more than 800 branches within 12 months"}
+  ],
+  "note": "Passages of the Home Affairs annual performance plan, a national department's offices and services; local municipalities appear only as places its mobile offices serve and as the 2026 elections. No connection of a municipal office is stated."
+}

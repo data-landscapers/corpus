@@ -1,0 +1,9 @@
+{
+  "slug": "2023-05-10-eastern-africa-regional-digital-integration-project-esmf",
+  "facts": [],
+  "systems": [
+    {"system": "Cross-border and backbone network connectivity (EARDIP sub-component 1.1)", "country_label": "priority fiber optic links", "class": "backbone", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services; World Bank IDA US$37.5 million and US$20 million commercial financing", "tiers": "four priority routes from Juba and Wau totalling 2,421 km; planned"},
+    {"system": "Last mile connectivity including in borderland areas (EARDIP sub-component 1.2)", "country_label": "last-mile access program", "class": "backbone", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services; World Bank IDA US$8 million", "tiers": "unserved and underserved areas, and public institutions along the fibre route; planned, sites still to be identified; no local government office named"}
+  ],
+  "note": "The project plans to connect unnamed 'public institutions along fiber route'; local governments and local authorities appear only for consultation, grievance handling and e-waste sensitisation, so no connection of a local government office is stated."
+}

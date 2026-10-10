@@ -1,0 +1,22 @@
+{
+  "slug": "2024-02-01-e-government-technology-roadmap",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The e-Government Authority's roadmap states, under the current situation, that a total of 265 ministries, departments, agencies and local government authorities were connected on the dedicated government communication network, GovNet; it gives no date for the figure, so the roadmap's own date of February 2024 is used.", "as_of": "2024-02", "date_precision": "month", "system": "Government Network (GovNet)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The e-Government Authority gives one combined figure of 265 MDAs and LGAs connected to GovNet and does not say how many of the 265 are local government authorities, nor the total number of authorities; the figure is undated and the roadmap's date of February 2024 is used.", "as_of": "2024-02", "date_precision": "month", "system": "Government Network (GovNet)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The roadmap, dated February 2024 and covering the next five years, sets out the e-Government Strategy 2022-2027 strategies under its connected-government objective, among them to expand coverage of GovNet to all LGA and MDA facilities and service delivery points.", "as_of": "2024-02", "date_precision": "month", "system": "Government Network (GovNet)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The e-Government Authority, a public institution set up under the e-Government Act 2019, describes GovNet as the dedicated government communication network on which MDAs and LGAs are connected and issues the roadmap for it; undated in the text, so the roadmap's date of February 2024 is used.", "as_of": "2024-02", "date_precision": "month", "system": "Government Network (GovNet)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Government Network (GovNet)", "country_label": "GovNet", "class": "connection", "platform": "fibre, radio, microwave and copper; MPLS and SD-WAN planned", "owner": "e-Government Authority", "tiers": "265 MDAs and LGAs connected, not split"},
+    {"system": "Government Data Centre (GDC)", "country_label": "GDC", "class": "backbone", "platform": "", "owner": "Government", "tiers": "national"},
+    {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "GovESB", "class": "", "platform": "", "owner": "e-Government Authority", "tiers": "public institutions; data exchange platform"},
+    {"system": "Local Government Revenue Collection Information System (LGRCIS)", "country_label": "LGRCIS", "class": "application", "platform": "", "owner": "", "tiers": "listed under the Regional Administration and Local Government Authorities sector"},
+    {"system": "Planning and Reporting System (PlanRep)", "country_label": "PlanRep", "class": "application", "platform": "", "owner": "", "tiers": "listed under the Regional Administration and Local Government Authorities sector"},
+    {"system": "Facility Financial Accounting and Reporting System", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "listed under the Regional Administration and Local Government Authorities sector"},
+    {"system": "District Road Maintenance System", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "listed under the Regional Administration and Local Government Authorities sector"},
+    {"system": "Government of Tanzania Health Operations Management Information System (GOTHOMIS)", "country_label": "GOTHOMIS", "class": "application", "platform": "", "owner": "", "tiers": "listed under the Regional Administration and Local Government Authorities sector"},
+    {"system": "School Information Management System", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "listed under the Regional Administration and Local Government Authorities sector"},
+    {"system": "Online Teachers Application Systems", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "listed under the Regional Administration and Local Government Authorities sector"}
+  ],
+  "note": "No use over the connection is stated: the appendix lists local government sector systems by name without saying council offices work in them over GovNet."
+}

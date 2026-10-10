@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-26-togo-mentd-autour-de-lia-ambition-pionnier-ia",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The digital economy ministry's account of its minister's speech of 13 November 2024 names, among the prerequisites for AI, the installation of fibre under a project to connect schools, health centres, mairies and households; it gives no count of mairies, no date and no financing, and does not say any mairie is yet connected.", "as_of": "2024-11-13", "date_precision": "day", "system": "Fibre connection project for schools, health centres, mairies and households", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Fibre connection project for schools, health centres, mairies and households", "country_label": "projet de connexion des ecoles, centres de sante, mairies et menages", "class": "connection", "platform": "Fibre", "owner": "Named by the Minister of the Digital Economy and Digital Transformation; owner not otherwise stated", "tiers": "Mairies, with schools, health centres and households; no number given"}
+  ],
+  "note": "One passing mention of the project in a speech on AI; the document states a project exists and nothing about its progress."
+}

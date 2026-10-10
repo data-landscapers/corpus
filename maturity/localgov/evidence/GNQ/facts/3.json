@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Sipopo Datacenter", "country_label": "Sipopo Datacenter", "class": "backbone", "platform": "", "owner": "GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial), wholly owned by the Government of Equatorial Guinea", "tiers": "Malabo; customers listed as telecom operators, ISPs and government agencies"},
+    {"system": "NOSi National Data Centre (TechPark CV Praia Campus)", "country_label": "", "class": "backbone", "platform": "", "owner": "NOSi, Government of Cabo Verde", "tiers": "Praia, Cabo Verde; Equatorial Guinea listed among its customers"}
+  ],
+  "note": "A data-centre ownership register, AI-compiled by its own header. It lists a state-owned data centre in Malabo with no local government office said to be on it; no fact on office connection."
+}

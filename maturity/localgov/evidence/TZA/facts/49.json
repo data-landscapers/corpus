@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-rita-erita-online-services",
+  "facts": [],
+  "systems": [
+    {"system": "eRITA", "country_label": "eRITA Services", "class": "central", "platform": "web portal with a marriage and divorce app", "owner": "Registration, Insolvency and Trusteeship Agency (RITA)", "tiers": "the public online, for birth, death, marriage, divorce and trusteeship services; no local government tier stated"}
+  ],
+  "note": "A national agency's online service page for the public; it says nothing of local government offices or their connection."
+}

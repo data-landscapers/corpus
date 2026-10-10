@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Telecom Namibia Windhoek Datacenter", "country_label": "Telecom Namibia Windhoek Datacenter", "class": "backbone", "platform": "Enterprise data centre, operational since 2005", "owner": "Telecom Namibia Limited, wholly state-owned", "tiers": "Windhoek; customers listed as ISPs, government agencies and enterprises"},
+    {"system": "Namibia National Data Centre (Planned)", "country_label": "Namibia National Data Centre", "class": "backbone", "platform": "Government data centre, planned", "owner": "Government of Namibia", "tiers": "Windhoek; intended customers listed as government ministries"},
+    {"system": "Paratus Namibia Armada Data Centre", "country_label": "Armada Data Centre", "class": "backbone", "platform": "Carrier-neutral colocation, operational since 2022", "owner": "Paratus Namibia", "tiers": "Windhoek; customers listed as ISPs, mobile operators, enterprises and government"}
+  ],
+  "note": "A register of data centres by owner; the Namibian rows name three facilities in Windhoek, and nothing is stated about local authorities or the connection of their offices."
+}

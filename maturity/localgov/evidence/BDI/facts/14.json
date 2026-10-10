@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-03-setic-pafen-lumitel-connectivite-4g-milieu-rural",
+  "facts": [],
+  "systems": [
+    {"system": "PAFEN and Viettel Burundi (Lumitel) rural 4G broadband contract, USD 10 million", "country_label": "connectivité haut débit 4G en milieu rural", "class": "backbone", "platform": "4G mobile network", "owner": "PAFEN project (Government of Burundi, 44 per cent) and Lumitel (56 per cent)", "tiers": "rural areas"}
+  ],
+  "note": "A rural mobile coverage contract; no local government office is named as connected."
+}

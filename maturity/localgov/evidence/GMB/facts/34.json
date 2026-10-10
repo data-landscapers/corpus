@@ -1,0 +1,22 @@
+{
+  "slug": "2020-10-01-gambia-e-government-strategy-2021-2024-moici",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The E-Government Strategy 2021-2024, commissioned by the Ministry of Information and Communication Infrastructure, aims to have ministries, departments, agencies and local government administrations wholly connected and integrated for online service delivery, and sets as an indicator a working network connecting all of them as well as the local government entities; this is a plan, with no office stated as connected.", "as_of": "2020-10", "date_precision": "month", "system": "e-Government network", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The strategy names the ICT Agency as implementing agency for the planned e-Government network, with the ICT Agency and the ministry responsible for monitoring it, alongside PURA and local government entities for the network that is to connect them.", "as_of": "2020-10", "date_precision": "month", "system": "e-Government network", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:domestic", "fact": "The strategy says the planned e-Government network could be funded from the Government allocation and the ICT Agency's budget, including the universal service fund; it states a proposed source and no amount committed.", "as_of": "2020-10", "date_precision": "month", "system": "e-Government network", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "e-Government network", "country_label": "e-Government network; interactive Government network", "class": "connection", "platform": "", "owner": "ICT Agency, with the Ministry of Information and Communication Infrastructure", "tiers": "planned for all ministries, departments, agencies and local government entities; target of 100% network coverage"},
+    {"system": "Public secure network", "country_label": "Public Secure Network", "class": "backbone", "platform": "", "owner": "ICT Agency", "tiers": "planned, shared across government for data and document sharing"},
+    {"system": "Government cloud computing infrastructure", "country_label": "Government Cloud", "class": "backbone", "platform": "", "owner": "ICT Agency", "tiers": "planned"},
+    {"system": "Public integrated data centers", "country_label": "public integrated data centers", "class": "backbone", "platform": "", "owner": "ICT Agency", "tiers": "planned"},
+    {"system": "Local area networks", "country_label": "LANs", "class": "equipment", "platform": "", "owner": "", "tiers": "target of 100% of ministries, departments, agencies and local government entities"},
+    {"system": "Public Information Centers", "country_label": "Public Information Centers in local Government offices", "class": "public-access", "platform": "", "owner": "", "tiers": "planned, 1 in each of the 8 Local Government Areas, costed at 15,000,000"},
+    {"system": "Local government websites", "country_label": "websites established by local Government entities", "class": "web", "platform": "", "owner": "local government entities, to common standards", "tiers": "planned obligation on all local government entities; target of 100% web presence"},
+    {"system": "Applications for common administrative services", "country_label": "applications for common administrative services for Government and the Local Government units", "class": "application", "platform": "", "owner": "ICT Agency", "tiers": "planned, central and local government"},
+    {"system": "Management information systems for local government units", "country_label": "management information systems for the Government, local Government units, the city of Banjul and other towns and settlements; City or Town Management Information System", "class": "application", "platform": "", "owner": "", "tiers": "planned, central government, local government units, Banjul and other towns"},
+    {"system": "Smart Cities applications", "country_label": "Smart Cities Applications", "class": "city-systems", "platform": "", "owner": "", "tiers": "planned"},
+    {"system": "IFMIS", "country_label": "Integrated Financial Management Information System", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

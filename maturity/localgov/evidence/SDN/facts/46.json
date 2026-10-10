@@ -1,0 +1,9 @@
+{
+  "slug": "2011-11-15-sudan-national-information-society-profile",
+  "facts": [],
+  "systems": [
+    {"system": "National Information Network", "country_label": "الشبكة القومية للمعلومات; الشبكة الحكومية", "class": "backbone", "platform": "fibre optic; video-conference, email and VoIP", "owner": "National Information Center, Ministry of Communications and Information Technology", "tiers": "the headquarters of 15 states and all 35 federal ministries, as at 2011; no locality or municipal office named"},
+    {"system": "Universal access centres", "country_label": "مراكز النفاذ الشامل", "class": "public-access", "platform": "", "owner": "funded by the Informatics Support Fund, run with civil society bodies including the national youth union", "tiers": "not stated"}
+  ],
+  "note": "The profile puts state headquarters (the upper tier) and federal ministries on the government network in 2011 and no local government office; municipal administrations appear only as sharing the cost of a citizens' computer training scheme. No fact for the basic tier."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2020-06-01-prodigy-pgmo-plan-gestion-main-oeuvre",
+  "facts": [],
+  "systems": [
+    {"system": "Système de gestion de l'état civil et de l'identité (PRODIGY composante 1)", "country_label": "saisie et numérisation des faits d'état civil existants", "class": "application", "platform": "", "owner": "PREA, Présidence (PRODIGY, World Bank financed)", "tiers": "civil registry offices of the communes concerned by the project"},
+    {"system": "Equipements informatiques des bureaux des communes (PRODIGY)", "country_label": "équipements informatiques", "class": "equipment", "platform": "", "owner": "PREA, Présidence (PRODIGY)", "tiers": "commune offices, whose rooms are to be secured to receive the equipment"}
+  ],
+  "note": "Labour-management plan of June 2020: planned data entry and digitisation of civil-status records in commune civil registry offices and rooms secured for IT equipment; no connection of a commune office is stated."
+}

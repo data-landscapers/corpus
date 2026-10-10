@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-01-zwe-mlg-call-to-action-blueprint-erp-progress",
+  "facts": [],
+  "systems": [
+    {"system": "Enterprise Resource Planning System (ERP)", "country_label": "Emergency Resource Planning System (ERP); enterprise resource planning systems", "class": "application", "platform": "", "owner": "local authorities, under the Ministry of Local Government and Public Works' Call-to-Action blueprint", "tiers": "local authorities: the Minister reports 22 fully using it and 65 partially, beside a count of 92 local authorities (mid-2024, date estimated from the page's content)"}
+  ],
+  "note": "The Minister's count of local authorities using an ERP is an application, with nothing said of where it is hosted or of the offices' connection; no fact for the connection sub-indicator."
+}

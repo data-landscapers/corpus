@@ -1,0 +1,10 @@
+{
+  "slug": "2024-04-05-afdb-centre-formation-digitale-bangui",
+  "facts": [],
+  "systems": [
+    {"system": "National optical backbone (Central African Backbone project, Central African Republic component)", "country_label": "dorsale optique nationale (Projet dorsale à fibre optique d'Afrique centrale)", "class": "backbone", "platform": "900 km of optical fibre, eleven technical sites and a network operations centre in Bangui", "owner": "the project's coordination unit, from which the Agence centrafricaine de développement du digital derives; financed by the European Union (17 million euros), the African Development Fund (13 million) and the Transition Support Facility (4 million)", "tiers": "installed at the project's close in September 2023, with links to Cameroon and Congo; communes are named only as places the fibre crosses"},
+    {"system": "Community digital centres", "country_label": "centres communautaires numériques", "class": "public-access", "platform": "", "owner": "Central African Backbone project", "tiers": "two centres, places not given"},
+    {"system": "Digital training centre", "country_label": "centre de formation digitale", "class": "capacity", "platform": "", "owner": "Central African Backbone project, financed by the African Development Bank", "tiers": "one centre in Bangui, for 50 trainees"}
+  ],
+  "note": "The African Development Bank's account of the fibre backbone project closed in September 2023; no local government office is said to be on the backbone, so it gives no fact."
+}

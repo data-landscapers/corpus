@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-easybusiness-single-window-registry",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Single Window Registry",
+      "country_label": "Single Window Business Registry (easybusiness.gov.gm)",
+      "class": "central",
+      "platform": "",
+      "owner": "Government of The Gambia",
+      "tiers": "National online portal; its trading licence service covers business activity in a municipality or area"
+    }
+  ],
+  "note": "A national business registration portal's landing page; it lists a trading licence for activity in a municipality but states nothing about any council office's connection or use of the portal."
+}

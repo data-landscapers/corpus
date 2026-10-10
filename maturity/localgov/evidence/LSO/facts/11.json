@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-02-maseru-city-council-construction-permit-system",
+  "facts": [],
+  "systems": [
+    {"system": "Construction Permit Automation System", "country_label": "Maseru City - Construction Permit (mcc-cp.org.ls)", "class": "application", "platform": "Web-based; PHP (PermitFlow / Symfony), MySQL, hosted on a Linux VPS", "owner": "Maseru City Council; built by Computer Business Solutions (Lesotho) with Web Masters Kenya; supported by the World Bank Private Sector Competitiveness Project", "tiers": "Maseru City Council only: architects apply, upload documents and pay online, reviewers comment and the system issues permits"}
+  ],
+  "note": "A permit system of the capital's city council, with an online portal for architects: an application with a web front, not a connection. The document says reviewers work in it but does not say where from or how the council's office is connected."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Population and Secure Documents Management System (SIGPTS)", "country_label": "SIGPTS", "class": "central", "platform": "Idemia technology", "owner": "ANATS", "tiers": "national; used in a World Bank-funded pilot in N'Djamena to issue refugee identification numbers, more than 4,000 as of 2025-05-01"}
+  ],
+  "note": "Refugee identity documents issued through ANATS's system; 'local authorities' appear only as bodies that did not recognise earlier credentials. Nothing on local government offices' connection."
+}

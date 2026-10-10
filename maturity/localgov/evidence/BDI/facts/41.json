@@ -1,0 +1,9 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [],
+  "systems": [
+    {"system": "National ID (paper)", "country_label": "national ID", "class": "application", "platform": "paper; no central electronic database kept", "owner": "police, under the Ministry of Interior", "tiers": "municipalities hold a responsibility in issuance that the passage cuts off before stating"},
+    {"system": "National ID smartcard pilot", "country_label": "national ID smartcards", "class": "central", "platform": "smartcard with a machine-readable zone", "owner": "Government of Burundi", "tiers": "pilot launched 2013; nationwide rollout being planned as of 2017"}
+  ],
+  "note": "No fact: the passages cover the national ID, with nothing on the connection of any municipal office."
+}

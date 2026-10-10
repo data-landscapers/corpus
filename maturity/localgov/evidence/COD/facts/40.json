@@ -1,0 +1,12 @@
+{
+  "slug": "2024-06-27-wb-cod-001-drc-digital-transformation-project",
+  "facts": [],
+  "systems": [
+    {"system": "secure government intranet / GovNet", "country_label": "GovNet", "class": "backbone", "platform": "", "owner": "Government of DR Congo; implementing agency the Ministère des Postes, Télécommunications et Nouvelles Technologies de l'Information, under World Bank project P180495 (USD 400 million, with EUR 100 million AFD co-financing)", "tiers": "to be built under Part 2 of the project; two GovNet pilots pending in July 2025; no local government office named"},
+    {"system": "Kinshasa's government network", "country_label": "", "class": "backbone", "platform": "", "owner": "Government of DR Congo", "tiers": "33 public institutions in Kinshasa already connected in July 2025, for which internet capacity was to be bought; none said to be a local government office"},
+    {"system": "broadband backbone and rural/peri-urban access networks", "country_label": "", "class": "backbone", "platform": "fibre optic backbone; access networks by gap financing", "owner": "private operators selected by tender under Part 1 of the project", "tiers": "national; backbone tender due October 2025"},
+    {"system": "centralised government data hosting (data centre, back-up facility, government cloud)", "country_label": "", "class": "backbone", "platform": "", "owner": "Government of DR Congo, under Part 2 of the project", "tiers": "central government; to be established"},
+    {"system": "Guichet Numérique", "country_label": "Guichet Numérique", "class": "central", "platform": "unified e-government services portal", "owner": "Government of DR Congo", "tiers": "national; planned"}
+  ],
+  "note": "The World Bank deal record for the digital transformation project (approved 27 June 2024), with a development history repeating the financing agreement and the July 2025 aide-mémoire; it names no local government office and no connection of one."
+}

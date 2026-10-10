@@ -1,0 +1,64 @@
+{
+  "slug": "2026-09-14-tun-webmanagercenter-plateforme-taamir-permis-de-construire",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The national digital platform for managing building permits, Taamir, was announced on 24 June 2026 and deployed in 16 municipalities, digitising permit issuance from the application to the final signature; the document does not say how the municipal offices are connected.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:16",
+      "fact": "The structures behind the project announced on 24 June 2026 the deployment of Taamir in 16 named municipalities (Tunis, Hammamet, Agareb, Medenine, Bizerte, Sidi Hassine, Jendouba, Djerba Midoun, Djerba Houmt Souk, Sfax, Le Kef, Kebili, Raoued, La Marsa, Kairouan, El Mourouj); no total of municipalities is given.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Municipality of Tunis announced on 14 September 2026 the launch of the Taamir platform for filing and tracking building-permit files, stating that the existing administrative circuit is neither removed nor changed at this stage.",
+      "as_of": "2026-09-14",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Taamir project falls under a cooperation agreement between the Ministry of the Interior and the German cooperation agency GIZ, through the project 'Numérisation pour un développement durable en Tunisie'; this is the platform's governance, not a stated owner of any office connection.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Taamir",
+      "country_label": "plateforme numérique nationale « Taamir » (taamir.tn)",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of the Interior, with GIZ",
+      "tiers": "16 municipalities, including the Municipality of Tunis"
+    },
+    {
+      "system": "Official website of the Municipality of Tunis",
+      "country_label": "site officiel de la municipalité de Tunis (commune-tunis.gov.tn)",
+      "class": "web",
+      "platform": "",
+      "owner": "Municipality of Tunis",
+      "tiers": "Municipality of Tunis"
+    }
+  ],
+  "note": "Facts are recorded on the study's rule that municipal staff working in a national system state a connection; the document describes only the platform and never the offices' connection."
+}

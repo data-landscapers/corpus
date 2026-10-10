@@ -1,0 +1,9 @@
+{
+  "slug": "2017-08-02-civ-ordonnance-2017-500-echanges-electroniques-autorites-administratives",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme d'interopérabilité des e-services", "country_label": "plateforme d'interopérabilité des e-services", "class": "", "platform": "", "owner": "the State", "tiers": "all administrative authorities, collectivités territoriales among them, are bound to connect to it"},
+    {"system": "portail électronique des e-services", "country_label": "portail électronique", "class": "", "platform": "", "owner": "the State", "tiers": "single access point for all e-services, for users"}
+  ],
+  "note": "An ordinance: it counts collectivités territoriales among the administrative authorities bound to connect to a state interoperability platform, and states nothing about any office being connected. The two national platforms fit no class of the typology and are left unclassed."
+}

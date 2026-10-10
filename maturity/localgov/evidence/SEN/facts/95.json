@@ -1,0 +1,86 @@
+{
+  "slug": "2020-11-25-sen-actualisation-strategie-senegal-numerique-2025-plan-actions",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The updated SN2025 action plan for 2020-2025 carries priority action 512, generalising the government intranet nationally by 2022, whose last step is interconnecting the administrative buildings in the communes, departments and regions, measured as administrative structures connected over those identified; it names no town hall and gives no count (undated plan, dated here to its publication).",
+      "as_of": "2020-11-25",
+      "date_precision": "day",
+      "system": "Intranet gouvernemental",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The updated SN2025 action plan names the digital economy ministry, through the state IT agency ADIE, as responsible for action 512, extending the government intranet to administrative buildings in the communes, departments and regions (undated plan, dated here to its publication).",
+      "as_of": "2020-11-25",
+      "date_precision": "day",
+      "system": "Intranet gouvernemental",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The updated SN2025 action plan costs action 512, the nationwide government intranet reaching administrative buildings in the communes, at FCFA 300,000 million with financing marked public or public-private partnership, and lists mobilising funds for the last mile as a step still to take; this is the plan's estimate, not a voted budget line (undated plan, dated here to its publication).",
+      "as_of": "2020-11-25",
+      "date_precision": "day",
+      "system": "Intranet gouvernemental",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Intranet gouvernemental",
+      "country_label": "Intranet gouvernemental",
+      "class": "connection",
+      "platform": "",
+      "owner": "MENT (ADIE)",
+      "tiers": "Planned: administrative buildings in the communes, departments and regions"
+    },
+    {
+      "system": "Backbone national fibre optique et MAN (extension, action 421)",
+      "country_label": "Backbone national fibre optique et MAN",
+      "class": "backbone",
+      "platform": "",
+      "owner": "MENT, ARTP, FDSUT, operators, MCTDAT, ADL; private financing, FCFA 50,000 million",
+      "tiers": "Planned: optical extensions to serve all commune seats (chefs-lieux de communes) by 2025, targeting more than 300 with large bandwidth needs; indicator is communes served"
+    },
+    {
+      "system": "Système d'information pour les collectivités (action 525, digitalisation des services dans les collectivités territoriales)",
+      "country_label": "Digitalisation des services dans les collectivités territoriales; Schéma Directeur Informatique des Territoires",
+      "class": "application",
+      "platform": "",
+      "owner": "MCTDAT/UAL, MENT; public financing, FCFA 28,000 million, due 2022",
+      "tiers": "Planned: collectivités territoriales, with online services, digital presence and equipment in infrastructure and digital tools for the territories"
+    },
+    {
+      "system": "Registre de l'état civil digitalisé (action 523)",
+      "country_label": "Digitalisation du registre de l'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "MCTDAT, MENT/ADIE, Ministère de l'intérieur; public financing, FCFA 2,000 million, due 2025",
+      "tiers": "Planned: indicator is the number of communes or other administrations where the service is available"
+    },
+    {
+      "system": "Centres multimédia communautaires (CMC, action 441)",
+      "country_label": "Centres multimédia communautaires",
+      "class": "public-access",
+      "platform": "",
+      "owner": "MENT; public financing, FCFA 1,000 million",
+      "tiers": "Planned: every village of more than 500 inhabitants"
+    },
+    {
+      "system": "Diamniadio Smart City (action 624, ville numérique Diamniadio-Sebikotane-Diass-Lac Rose)",
+      "country_label": "Ville numérique; Diamniadio Smart City",
+      "class": "",
+      "platform": "",
+      "owner": "MENT/PTN, DGPU, MCTDAT",
+      "tiers": "Pilot project on the Diamniadio axis; what it does is not described"
+    }
+  ],
+  "note": ""
+}

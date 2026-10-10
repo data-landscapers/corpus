@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-04-canevas-rapport-midcsp-2025-2026-t3-companion",
+  "facts": [],
+  "systems": [
+    {"system": "digitalisation of the collection of communal revenue", "country_label": "digitalisation de la collecte des recettes communales", "class": "application", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security", "tiers": "30 communes digitalised; extension budgeted"},
+    {"system": "dedicated high-speed IP internet subscription for Commissariat Général des Migrations sites", "country_label": "sites du CGM abonnés internet IP dédié haut débit", "class": "central", "platform": "", "owner": "Commissariat Général des Migrations", "tiers": "CGM sites"},
+    {"system": "driving licence production software", "country_label": "logiciel de production des permis de conduire", "class": "central", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security", "tiers": ""}
+  ],
+  "note": "Companion page for a budget spreadsheet: commune revenue digitalisation is an application and the only connection named is a central agency's; no connection of commune offices stated."
+}

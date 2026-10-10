@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-01-kenya-odpc-guidance-public-sector",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Financial Management Information Systems (IFMIS)", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "", "tiers": "named as a platform of digitised government services in the public sector generally; no county use stated"},
+    {"system": "E-Citizen Portal", "country_label": "E-Citizen Portal", "class": "web", "platform": "", "owner": "", "tiers": "named as a platform of digitised government services in the public sector generally; no county use stated"}
+  ],
+  "note": "Data protection guidance for public bodies including the 47 county governments, with hypothetical county examples; nothing on the connection of county offices."
+}

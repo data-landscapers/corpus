@@ -1,0 +1,68 @@
+{
+  "slug": "2022-09-01-rwanda-digital-divides-dividends-include",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "A Rwanda Land Management and Use Authority informant told INCLUDE's researchers that all land transfer applications, about 200 a day per district, are reviewed at sector level by one member of staff who can examine 40 at most; the applications arrive through the Irembo platform, whose back office public servants use to process them (no date given; dated to publication, September 2022).",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "sector offices reviewing land applications in the Irembo back office and digital land registry",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "INCLUDE's 2022 study gives no count of connected local offices; it lists as a challenge that infrastructure and connectivity remain problematic especially at sector and cell level in peri-urban and rural areas, citing Khan (2022), and says government agencies rely on internet services from private mobile networks (dated to publication, September 2022).",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "connectivity at sector and cell level",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Irembo",
+      "country_label": "Irembo; IremboGov",
+      "class": "application",
+      "platform": "Irembo (front office for citizens, back office for public servants)",
+      "owner": "government e-service platform under MINICT and RISA; back-office operations under each institution",
+      "tiers": "national; land applications reviewed at sector level; birth certificate listed as a Ministry of Local Government service"
+    },
+    {
+      "system": "Digital land registry (Land Tenure Regularisation Programme)",
+      "country_label": "digital cadaster / digital registry",
+      "class": "application",
+      "platform": "",
+      "owner": "Rwanda Land Management and Use Authority",
+      "tiers": "national, with land applications reviewed at sector level in each district"
+    },
+    {
+      "system": "Ubutaka App",
+      "country_label": "Ubutaka App",
+      "class": "web",
+      "platform": "blockchain-based, built by Medici Land Governance",
+      "owner": "public-private partnership of Medici Land Governance, Rwanda Land Management and Use Authority and RISA",
+      "tiers": "citizens with smartphones"
+    },
+    {
+      "system": "Land Query Notification System",
+      "country_label": "LQNS",
+      "class": "web",
+      "platform": "mobile phone query",
+      "owner": "",
+      "tiers": "public"
+    },
+    {
+      "system": "E-taxation systems and digital revenue collection at district level",
+      "country_label": "e-taxation systems and digital revenue collection at district level",
+      "class": "application",
+      "platform": "",
+      "owner": "supported by the World Bank through IDA",
+      "tiers": "district"
+    }
+  ],
+  "note": ""
+}

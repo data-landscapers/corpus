@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-05-vantage-johannesburg-ii-jnb2-data-center-page",
+  "facts": [],
+  "systems": [
+    {"system": "Vantage Johannesburg II (JNB2) data centre", "country_label": "JNB2", "class": "backbone", "platform": "", "owner": "Vantage Data Centers (private)", "tiers": "one commercial, carrier-neutral facility in Ekurhuleni; no local government said to be on it"}
+  ],
+  "note": "A commercial data centre's product page; the municipality of Ekurhuleni appears only as the supplier of its electricity. Nothing on any municipal office's connection."
+}

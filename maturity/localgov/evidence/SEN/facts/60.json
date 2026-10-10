@@ -1,0 +1,16 @@
+{
+  "slug": "2025-11-05-aps-anec-nekkal-seul-outil-reconnu-20-millions-actes",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The central civil-status database, holding 20 million digitised and indexed acts in the national civil-status register, is reachable from the NEKKAL application deployed in 400 civil-status centres, on the word of the national civil-status agency's director-general on 5 November 2025.", "as_of": "2025-11-05", "date_precision": "day", "system": "réseau des centres d'état civil connectés à l'application NEKKAL", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:400", "fact": "NEKKAL was deployed in 400 civil-status centres with access to the central database at 5 November 2025, on the ANEC director-general's word; the count is of civil-status centres, which mayors run, not of communes, and no total is given.", "as_of": "2025-11-05", "date_precision": "day", "system": "réseau des centres d'état civil connectés à l'application NEKKAL", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The network of connected civil-status centres is run by the Agence nationale de l'état civil (ANEC), attached to the ministry of urbanism, local authorities and territorial planning, whose director-general on 5 November 2025 called NEKKAL the only tool the government recognises and told mayors using other software to stop.", "as_of": "2025-11-05", "date_precision": "day", "system": "réseau des centres d'état civil connectés à l'application NEKKAL", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:not-stated", "fact": "The APS report of 5 November 2025 on the connected civil-status centres names no budget or funder.", "as_of": "2025-11-05", "date_precision": "day", "system": "réseau des centres d'état civil connectés à l'application NEKKAL", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Network of civil-status centres connected to NEKKAL", "country_label": "réseau des centres d'état civil connectés à l'application NEKKAL", "class": "connection", "platform": "", "owner": "ANEC", "tiers": "400 civil-status centres"},
+    {"system": "NEKKAL civil-status application and national civil-status register", "country_label": "application NEKKAL; registre national de l'état civil", "class": "application", "platform": "", "owner": "ANEC", "tiers": "400 civil-status centres; central database of 20 million acts"},
+    {"system": "Unauthorised civil-status software used by some mayors", "country_label": "logiciels clandestins de gestion de l'état civil", "class": "application", "platform": "", "owner": "communes (mayors)", "tiers": "some communes, number not given"},
+    {"system": "Civil-status user platform for remote requests", "country_label": "plateforme dédiée aux usagers", "class": "web", "platform": "", "owner": "ANEC", "tiers": "national"}
+  ],
+  "note": "The document does not say how the centres are connected or who pays; the connection is read from centres working in the central database. The count is of centres, not communes."
+}

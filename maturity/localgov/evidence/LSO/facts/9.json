@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-03-sekete-champions-civil-registration-access-qachas-nek",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "none", "fact": "The NICR manager for Qacha's Nek told a ministry heads-of-department meeting in September 2025 that birth, marriage, ID and death certificate services had been decentralised to councils but fail without transport to move applications back and forth to the district office; the document names no connection at the councils.", "as_of": "2025-09", "date_precision": "month", "system": "Civil registration services decentralised to councils", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Civil registration services decentralised to councils", "country_label": "decentralised birth, marriage, ID and death certificate services", "class": "application", "platform": "", "owner": "Department of National Identity and Civil Registration (NICR), Ministry of Local Government, Chieftainship, Home Affairs and Police", "tiers": "councils, with applications moved physically to and from the district office (Qacha's Nek)"}
+  ],
+  "note": "The one fact is an absence read from the manager's words: applications taken at councils travel by transport, not over a connection. The document does not say in terms that councils are unconnected; the parent should weigh it."
+}

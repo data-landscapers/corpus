@@ -1,0 +1,16 @@
+{
+  "slug": "2023-02-27-worldbank-chad-digital-transformation-project-pid",
+  "facts": [],
+  "systems": [
+    {"system": "Government eGov network", "country_label": "government eGov network", "class": "backbone", "platform": "", "owner": "ADETIC", "tiers": "ministries, departments and agencies being interconnected with basic connectivity, as at 2023-02; no local government office named"},
+    {"system": "Civil registration system", "country_label": "CR system", "class": "application", "platform": "paper; no consolidated database", "owner": "local governments, under the supervision of the Ministry of Territorial Administration and Decentralization", "tiers": "decentralised, managed by local governments; 'essentially paper based' as at 2023-02; a centralised civil registry under ANATS under way"},
+    {"system": "Système Intégré de Gestion des Finances Publiques (SIGFiP)", "country_label": "SIGFiP", "class": "central", "platform": "", "owner": "government", "tiers": "central government back-office system"},
+    {"system": "eTax", "country_label": "eTax application", "class": "central", "platform": "", "owner": "government", "tiers": "central"},
+    {"system": "ASYCUDA World", "country_label": "ASYCUDA World", "class": "central", "platform": "ASYCUDA World", "owner": "customs", "tiers": "central"},
+    {"system": "SIGPTS (with RNBP module)", "country_label": "SIGPTS", "class": "central", "platform": "", "owner": "ANATS", "tiers": "national identity management system, introduced 2020"},
+    {"system": "Chad Digital Transformation Project (P180000), sub-component 2.2: last-mile broadband for MDAs", "country_label": "Chad Digital Transformation Project", "class": "backbone", "platform": "pre-purchase of wholesale capacity under IRU", "owner": "Ministry of Telecommunications and Digital Economy; IDA grant, US$120 million total", "tiers": "selected MDAs in urban and peri-urban areas; planned at concept stage, local government offices not named"},
+    {"system": "PMICE (optical fibre, data centre, mobile sites)", "country_label": "Projet de Modernisation des Infrastructures de Communications Electroniques", "class": "backbone", "platform": "1,200 km of optical fibre, a data centre and backup", "owner": "Sotel Tchad; financed by EXIMBANK (US$180 million)", "tiers": "national"},
+    {"system": "Digital skills training for public servants in central and local government entities (sub-component 3.4)", "country_label": "", "class": "capacity", "platform": "", "owner": "project", "tiers": "specific central and local government entities targeted by the project; planned"}
+  ],
+  "note": "Concept-stage PID of 2023-02-27. It says most government offices lack sustainable broadband and that civil registration, run by local governments, is essentially paper based, but it does not speak of local government offices' connection as such, and its connectivity component names MDAs only. No fact taken; the two statements are here for the parent."
+}

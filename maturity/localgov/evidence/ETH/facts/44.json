@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-land-et-digital-land-platform",
+  "facts": [],
+  "systems": [
+    {"system": "eLand", "country_label": "eLand - Digital Land Services Platform", "class": "application", "platform": "cloud-based web platform on the Cadastral Registration and Property Rights System (CRPRS), described as blockchain-based; integrated with national ID, Telebirr and bank payments", "owner": "eLand Platform (the vendor's own site, office in Addis Ababa)", "tiers": "three cities listed as currently using it, all in Oromia: Bishoftu, Adama and Shagar; users include municipal staff, sub-city officers and front desk officers working through an online back office"},
+    {"system": "Cadastral Registration and Property Rights System (CRPRS)", "country_label": "CRPRS", "class": "application", "platform": "blockchain ledger with smart contracts, as the site describes it", "owner": "eLand Platform", "tiers": "the system behind eLand"}
+  ],
+  "note": "The vendor's product page, undated (Wayback snapshot of 2025-12-28, footer 2023). It lists three Oromia cities as using a cloud-based land system in which city officers process applications through an online back office, but does not say the officers work from their own offices or how those offices are connected, so no connection fact is taken; the parent may read the three cities' online working differently under the working-online rule."
+}

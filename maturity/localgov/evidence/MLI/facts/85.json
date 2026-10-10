@@ -1,0 +1,8 @@
+{
+  "slug": "2019-02-22-mali-decret-2019-0112-ninacad-identification-parcelles",
+  "facts": [],
+  "systems": [
+    {"system": "NINACAD application, the confidential database holding every national cadastral parcel identification number and its history", "country_label": "application NINACAD", "class": "central", "platform": "", "owner": "cadastre service", "tiers": ""}
+  ],
+  "note": "A decree on the cadastral parcel number; communes appear only as a two-character code inside the number. The number is attributed by the state cadastre service, and nothing is stated about local government offices or their connection."
+}

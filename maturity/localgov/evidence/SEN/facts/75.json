@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-digital-tool-property-tax-dakar",
+  "facts": [],
+  "systems": [
+    {"system": "Property tax management application (PAGCF)", "country_label": "Projet d'amélioration de la gestion de la contribution foncière (PAGCF)", "class": "central", "platform": "web and Android application built with a local software developer", "owner": "Direction générale des Impôts et des Domaines (Ministry of Finance and Budget), with the Paris School of Economics", "tiers": "DGID tax service centres in Dakar; 97 cadastral sections, more than 40,000 parcels; extension to the Dakar region planned"}
+  ],
+  "note": "A property tax application run by the national tax administration and its tax service centres; local governments receive the revenue but no local government office or connection is described."
+}

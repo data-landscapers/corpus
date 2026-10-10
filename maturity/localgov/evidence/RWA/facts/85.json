@@ -1,0 +1,15 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Population Register",
+      "country_label": "NPR; national ID system",
+      "class": "application",
+      "platform": "",
+      "owner": "National Identification Agency (NIDA)",
+      "tiers": "national; Local Government was one of 14 bodies that defined NIDA's role"
+    }
+  ],
+  "note": "A regional study of national ID recognition; the Rwanda passages cover the national ID and population register, border e-gates and financial access. 'Local Government' appears only among the bodies that helped define the ID agency's role; nothing is stated about local government offices or their connection."
+}

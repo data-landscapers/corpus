@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-13-drc-fdsu-connectivity-strategy-scoring-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale pour la Connectivité Universelle (FDSU subsidised coverage sites)", "country_label": "Stratégie Nationale pour la Connectivité Universelle", "class": "backbone", "platform": "mobile operators' networks, subsidised by viability gap funding", "owner": "Fonds de Développement du Service Universel (FDSU)", "tiers": "rural and peri-urban localities: 40 pilot sites in phase 0 (10 per mobile operator) and about 300 sites in phase 1 across five FDSU zones; coverage of the locality, no local government office said to be connected"},
+    {"system": "Centres Communautaires Numériques (CCN)", "country_label": "Centres Communautaires Numériques", "class": "public-access", "platform": "", "owner": "FDSU", "tiers": "rural and peri-urban areas, developed within phase 1"}
+  ],
+  "note": "The FDSU's site-scoring framework counts the presence of basic public infrastructure (schools, health centres, mairies, police posts) for 15 of 100 points when ranking localities for subsidised mobile coverage; it says nothing of connecting a mairie's own office, so no fact is taken."
+}

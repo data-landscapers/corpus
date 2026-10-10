@@ -1,0 +1,10 @@
+{
+  "slug": "2014-08-20-dza-etat-civil-rnaec-loi-14-08",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Law 14-08 of 9 August 2014 creates, at the Ministry of the Interior and Local Authorities, a national automated civil-status register that it says is linked to the communes and their administrative annexes, to which each commune sends a digitised copy of its acts and from which civil-status officers of linked communes issue digitised certified copies; this is a legal provision, and the law gives no count of communes linked.", "as_of": "2014-08-09", "date_precision": "day", "system": "link of the communes to the registre national automatisé de l'état civil", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Registre national automatisé de l'état civil (RNAEC)", "country_label": "registre national automatisé de l'état civil", "class": "application", "platform": "", "owner": "Ministère de l'intérieur et des collectivités locales", "tiers": "communes and their administrative annexes, diplomatic missions and consular posts; also linked to other public institutions, notably the central services of the Ministry of Justice"}
+  ],
+  "note": "The one fact is a provision of law (art. 6 and art. 25 bis to 25 bis 4), not a report of offices connected. The rest of the gazette issue (apprenticeship law, customs decree, the V.SAT licence of Algérie Télécom Satellite, tourism plans, ministerial orders) states nothing on local government offices. The capture is cut off at the fetch cap, in the last ministerial order."
+}

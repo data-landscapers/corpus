@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-22-procasef-copil-sifcom-55-communes-preproduction",
+  "facts": [],
+  "systems": [
+    {"system": "SIFCOM", "country_label": "SIFCOM", "class": "application", "platform": "", "owner": "PROCASEF (Projet Cadastre et Sécurisation Foncière), under the Ministry of Economy, Finance and Planning", "tiers": "communal land information system; development complete and in deployment as of 2026-06-30, with 55 communes integrated in pre-production"},
+    {"system": "bureaux fonciers communaux", "country_label": "bureaux fonciers communaux", "class": "equipment", "platform": "", "owner": "PROCASEF", "tiers": "112 communal land offices provisionally handed over of 128 under construction, as of the steering committee of 2026-07-21; no connection stated"}
+  ],
+  "note": "The land project's steering committee of 21 July 2026; it counts communes loaded into the land system in pre-production and land offices built, and states no connection at any commune's office."
+}

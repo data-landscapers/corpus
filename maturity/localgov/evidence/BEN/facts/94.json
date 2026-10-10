@@ -1,0 +1,23 @@
+{
+  "slug": "2018-06-06-decret-2018-206-anip-attributions",
+  "facts": [],
+  "systems": [
+    {
+      "system": "registre national des personnes physiques",
+      "country_label": "registre national des personnes physiques (RNPP)",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification des Personnes (ANIP), under the President of the Republic",
+      "tiers": "National; ANIP is represented by departmental delegations at the prefectures (DDIP) and, at commune level, by a communal unit at the town hall (UCIP), under the decree of 6 June 2018"
+    },
+    {
+      "system": "registres communaux des personnes physiques",
+      "country_label": "registres communaux des personnes physiques",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification des Personnes (ANIP)",
+      "tiers": "Commune-level registers whose design, implementation, security and management the decree gives to ANIP, a national agency; the decree does not say commune staff work in them"
+    }
+  ],
+  "note": "A decree organising the national identification agency. The town hall appears only as the seat of the agency's communal unit; nothing is stated about commune offices being connected. A law places nothing."
+}

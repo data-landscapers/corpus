@@ -1,0 +1,56 @@
+{
+  "slug": "2026-06-24-taamir-permis-de-construire-16-municipalites",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Municipality of Tunis issued on 24 June 2026 the first building permit handled entirely online through the national permit-management platform Taamir, according to the director general of the Interior Ministry's computing centre; the document does not say how the municipal office is connected.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:16",
+      "fact": "The director general of the Interior Ministry's computing centre said 24 June 2026 marks the start of Taamir's generalisation to 16 municipalities across the country, after a successful test; no total of municipalities is given and the 16 are not named.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 24 June 2026 the Municipality of Tunis issued the first fully online building permit and the generalisation of the Taamir platform to 16 municipalities was launched.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Taamir project's steering committee is chaired by the director general of the Centre informatique du ministère de l'Intérieur, who says the platform was developed with all the ministries concerned and the Order of Architects; this is the platform's governance, not a stated owner of any office connection.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Taamir",
+      "country_label": "plateforme nationale de gestion des permis de construire « Taamir »",
+      "class": "application",
+      "platform": "",
+      "owner": "Centre informatique du ministère de l'Intérieur (chairs the steering committee)",
+      "tiers": "Municipality of Tunis; generalisation to 16 municipalities from 24 June 2026"
+    }
+  ],
+  "note": "Facts are recorded on the study's rule that municipal staff working in a national system state a connection; the document never describes the offices' connection."
+}

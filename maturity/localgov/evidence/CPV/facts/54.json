@@ -1,0 +1,23 @@
+{
+  "slug": "2018-11-20-social-inclusion-project-appraisal-document",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Unified Social Registry (USR)",
+      "country_label": "Unified Social Registry (Cadastro Social Único)",
+      "class": "application",
+      "platform": "database and targeting software developed by DGIS, with ILO financial support",
+      "owner": "Ministry of Family and Social Inclusion (housed at DGPOG)",
+      "tiers": "piloted through municipalities in 16 of 22, registering 17,000 families; municipalities manage local registration agents; hardware to be installed at central and decentralised levels under the project"
+    },
+    {
+      "system": "MIS of the RSI programme",
+      "country_label": "MFIS Management Information System",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of Family and Social Inclusion (DGIS)",
+      "tiers": "ministry; modules for registration, payments, referral and grievances to be developed under the project"
+    }
+  ],
+  "note": "World Bank appraisal of November 2018: municipalities register households for the national social registry and are to receive grants, computers and hardware, but the passages do not say municipal offices work online in the registry or how they are connected, so no connection fact."
+}

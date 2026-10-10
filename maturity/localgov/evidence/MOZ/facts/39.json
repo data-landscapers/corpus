@@ -1,0 +1,8 @@
+{
+  "slug": "2023-06-28-worldbank-mozambique-digital-acceleration-project-restructuring-paper",
+  "facts": [],
+  "systems": [
+    {"system": "Government Communications Network (GovNet)", "country_label": "GovNet", "class": "backbone", "platform": "underlying infrastructure and services provided primarily by the state-owned operator Tmcel", "owner": "Government of Mozambique", "tiers": "government offices and public institutions, tier not stated; planned extension cut from US$65 million to US$10 million in June 2023, a feasibility study retained"}
+  ],
+  "note": "Cuts the GovNet investment and deletes the indicator of government offices given broadband through GovNet; it names no local government office on the network, and its municipalities are those receiving road repairs."
+}

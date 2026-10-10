@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-16-wb-ken-kdeap-aide-memoire-implementation-support-mission",
+  "facts": [],
+  "systems": [
+    {"system": "One Government Network (OGN)", "country_label": "One Government Network", "class": "backbone", "platform": "", "owner": "ICT Authority", "tiers": "national government; primary and secondary connectivity bought in bulk under KDEAP, no county office named"},
+    {"system": "KDEAP middle-mile fibre (initial 5,000 km) and last-mile connectivity framework", "country_label": "", "class": "backbone", "platform": "", "owner": "ICT Authority (KDEAP project implementation unit), World Bank financed", "tiers": "last mile to education and other government institutions; not yet contracted"},
+    {"system": "300 public WiFi hotspots", "country_label": "", "class": "public-access", "platform": "", "owner": "ICT Authority (KDEAP)", "tiers": "public sites including Huduma centres; at screening stage"},
+    {"system": "Huduma centres", "country_label": "Huduma Kenya", "class": "central", "platform": "", "owner": "Huduma Kenya Secretariat", "tiers": "five new centres being designed in Garissa, Busia, Turkana, Marsabit and Taita Taveta counties"},
+    {"system": "e-Citizen", "country_label": "e-Citizen", "class": "central", "platform": "", "owner": "national government", "tiers": "national"}
+  ],
+  "note": "The World Bank's October 2025 mission record covers the national government network, backbone and last-mile tenders and names no county government office as connected or to be connected."
+}

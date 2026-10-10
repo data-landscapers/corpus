@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-30-iec-to-partner-home-affairs-ministry-in-seamless-database-project",
+  "facts": [],
+  "systems": [
+    {"system": "IEC and Home Affairs shared database", "country_label": "seamless shared database", "class": "central", "platform": "", "owner": "Independent Electoral Commission with the Ministry of Home Affairs", "tiers": "planned; an earlier collaboration was abandoned; no local government tier stated"}
+  ],
+  "note": "About a planned voter-roll link to Home Affairs ID data; local government appears only as the 2023 elections. It gives the country's count of local governments, for the denominator: 64 community councils, 11 urban councils, one Maseru City Council and 10 districts. Nothing on their offices' connection."
+}

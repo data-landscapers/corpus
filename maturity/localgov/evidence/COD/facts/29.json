@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-04-radiookapi-debut-digitalisation-registre-population-kinshasa",
+  "facts": [],
+  "systems": [
+    {"system": "digitalisation du registre de la population de Kinshasa", "country_label": "registre de la population de Kinshasa", "class": "application", "platform": "data collected by census agents and centralised on a compilation server", "owner": "provincial authorities of Kinshasa (provincial interior minister), with support from partners including UNICEF", "tiers": "city-province of Kinshasa; census agents drawn from the communes collect in households; launched 4 November 2025"}
+  ],
+  "note": "A population-register application launched by Kinshasa's provincial government; commune agents collect door to door and the data goes to a central server, but the document does not say commune offices are connected or that staff work online from them, so no fact is taken."
+}

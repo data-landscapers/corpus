@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-15-ago-pti-mario-oliveira-lancamento-primeiro-link-banda-larga-restinga",
+  "facts": [],
+  "systems": [
+    {"system": "primeiro link de banda larga", "country_label": "primeiro link de banda larga", "class": "backbone", "platform": "", "owner": "Angola Telecom and MSTelcom", "tiers": "to be launched in the Restinga neighbourhood, Lobito; no local government office said to be on it"},
+    {"system": "TudoNossoFibra", "country_label": "serviço de Internet \"TudoNossoFibra\"", "class": "", "platform": "", "owner": "Angola Telecom", "tiers": "Centralidade da Baía Farta, Benguela"}
+  ],
+  "note": "A ministerial agenda published the day before the events; a school, a residential internet service and a backbone link, with no local government office named."
+}

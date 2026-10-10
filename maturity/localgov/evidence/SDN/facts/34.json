@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-e-government-at-local-level-in-sudan",
+  "facts": [],
+  "systems": [
+    {"system": "Official websites of the 18 state governments", "country_label": "local government portals of the subnational governments (states)", "class": "upper-tier", "platform": "", "owner": "the 18 state governments", "tiers": "state level, all 18 states; 89% reachable February to April 2024; informational, one with transactions, no vertical or horizontal integration"},
+    {"system": "Khartoum state government portal", "country_label": "Khartoum state government portal", "class": "upper-tier", "platform": "", "owner": "Khartoum State government", "tiers": "Khartoum State; information, downloadable forms, limited payment of fees and fines"}
+  ],
+  "note": "A content analysis of the websites of the 18 states, which the paper calls local governments; these are state portals (upper tier, and web by function), and nothing is stated about any office's connection."
+}

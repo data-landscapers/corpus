@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-31-kenya-auditor-general-report-national-government-2024-25",
+  "facts": [],
+  "systems": [
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "", "tiers": "an upgrade to support accrual modules is named as a deliverable of the move to accrual accounting across the national government, county governments and their entities from 1 July 2024; the passages do not say where it is used"}
+  ],
+  "note": "Passages of the national audit report: county governments appear as audit subjects, in accrual accounting, partnership training and delayed transfers; nothing on the connection of county offices."
+}

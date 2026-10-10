@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-18-niger-conseil-ministres-decret-rnec-rnp-interoperabilite",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de l'Etat Civil (RNEC)", "country_label": "Registre National de l'Etat Civil (RNEC)", "class": "application", "platform": "", "owner": "Ministere de l'Interieur, de la Securite Publique et de l'Administration du Territoire", "tiers": "civil status services; the draft decree adopted on 18 May 2026 sets their organisation and equipment and the register's management 'in the perspective' of full computerisation, with no tier or count stated"},
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP)", "class": "", "platform": "", "owner": "", "tiers": "not stated; to interoperate with the RNEC and other systems"}
+  ],
+  "note": "Council of Ministers conclusions of 18 May 2026: a draft decree applying the civil status ordinance, and texts on the retirement age of local authority staff; a regulatory text places nothing, and no local government office's connection is stated."
+}

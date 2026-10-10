@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-ministry-of-finance-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Somalia Financial Management Information System (SFMIS)", "country_label": "SFMIS", "class": "central", "platform": "", "owner": "Ministry of Finance, Federal Government of Somalia", "tiers": "federal government; all compensation of employees integrated in its payroll module in 2024"},
+    {"system": "Somali Customs Automated System (SOMCAS)", "country_label": "SOMCAS", "class": "central", "platform": "", "owner": "Federal Government of Somalia", "tiers": "extended in 2024 to Kismayo's seaport and airport in Jubaland; Puntland customs officials trained, launch there pending"},
+    {"system": "Electronic Tax Administration System (ETAS)", "country_label": "ETAS", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviation list only"}
+  ],
+  "note": "The ministry's annual report names local governments once, as a body whose fiscal capacity the intergovernmental finance forum agreed to prioritise; its systems are federal and state finance and customs systems, and nothing is said of local government offices' connection."
+}

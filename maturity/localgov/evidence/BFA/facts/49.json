@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-18-transition-digitale-4361-taux-performance-semestre",
+  "facts": [],
+  "systems": [
+    {"system": "RESINA", "country_label": "RESINA", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "38 public structures interconnected in the first half of 2025; no commune office named"},
+    {"system": "Backbone fibre optique", "country_label": "Backbone", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "studies started for a 302 km extension"},
+    {"system": "mini data centers", "country_label": "mini data centers", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "under way at 30 June 2025"}
+  ],
+  "note": "No fact: a press account of the same mid-2025 review as document 48; no local government office is said to be on RESINA."
+}

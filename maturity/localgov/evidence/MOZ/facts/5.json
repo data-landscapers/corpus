@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-sajim-manjeese-ict-governance-sadc-egov",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "GovNet project", "class": "backbone", "platform": "", "owner": "government", "tiers": "over 140 government institutions; no local government office said to be among them"}
+  ],
+  "note": "A literature review; for Mozambique it states only that the GovNet project set up interoperable infrastructure across over 140 government institutions (undated) and that the eGIF4M interoperability framework was adopted. Its statements on municipalities and local governments are about South Africa and SADC generally."
+}

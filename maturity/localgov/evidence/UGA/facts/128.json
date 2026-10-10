@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-moict-ministerial-policy-statement-fy2026-27",
+  "facts": [],
+  "systems": [
+    {"system": "Government Digital Registry", "country_label": "Government Digital Registry", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "an e-database of the e-government systems of ministries, agencies and local governments and what they do; 624 systems documented in FY2025/26; fits none of the study's classes"},
+    {"system": "CPIS/Lets Tok system", "country_label": "CPIS/Lets Tok system", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "target of 60 ministries, agencies and local governments in FY2026/27, from a base of 0; what it does is not described"},
+    {"system": "Community based digital hubs", "country_label": "community based digital hubs", "class": "public-access", "platform": "", "owner": "Ministry of ICT and National Guidance, in partnership with local governments and national telecom operators", "tiers": "planned; none stated as open"}
+  ],
+  "note": "The ICT ministry's policy statement for FY2026/27: it counts local governments among the users of systems it inventories or plans to roll out, but states no connection of any local government office and no budget line for one."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2017-08-14-niger-code-electoral-loi-2017-64",
+  "facts": [],
+  "systems": [
+    {"system": "Fichier Electoral Biométrique (FEB)", "country_label": "Fichier Electoral Biométrique", "class": "central", "platform": "", "owner": "Commission Electorale Nationale Indépendante (CENI), through its technical directorate DIFEB", "tiers": "single national file built from commune, arrondissement communal, regional, embassy and consulate lists; two of the four copies of each list are kept at the seat of the commune or arrondissement communal"},
+    {"system": "System for sending polling-station results up to the CENI", "country_label": "système de remontée des résultats", "class": "central", "platform": "", "owner": "CENI (DIFEB)", "tiers": "polling stations to the CENI"}
+  ],
+  "note": "Electoral code (law of 2017 as amended in 2019; capture truncated at Article 156): communes appear as electoral constituencies, as the level of the CENI's temporary commissions and as where copies of the electoral list and the signed registers are kept; a law, and it states nothing about a commune office's connection, equipment or use of a system."
+}

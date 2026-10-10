@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-sierra-leone-national-digital-development-policy-2021",
+  "facts": [],
+  "systems": [
+    {"system": "national fibre backbone network", "country_label": "national fibre backbone network", "class": "backbone", "platform": "", "owner": "Government of Sierra Leone (public investment)", "tiers": "covers 14 of 16 districts; no local council office said to be on it"},
+    {"system": "shared government digital platform", "country_label": "shared government digital platform", "class": "", "platform": "", "owner": "Government of Sierra Leone", "tiers": "not stated"}
+  ],
+  "note": "The 2021 policy (an excerpt, cut off in the e-government section) sets an objective of broadband for all MDAs and names local authorities only for harmonising rights of way; it states nothing on the connection of local council offices."
+}

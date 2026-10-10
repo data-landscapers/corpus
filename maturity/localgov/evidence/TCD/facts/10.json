@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-04-tchad-budget-2027-numerique-finances-publiques",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The government's 2027 budget orientations, reported on 2026-08-04, provide for generalising the integrated public finance system SIGFiP to all institutions, administrations, collectivités territoriales, public establishments, projects and diplomatic posts, for real-time monitoring of budget execution; no date, cost or number of local governments is given.", "as_of": "2026-08-04", "date_precision": "day", "system": "Système intégré de gestion des finances publiques (SIGFiP), generalisation to collectivités territoriales", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Système intégré de gestion des finances publiques (SIGFiP)", "country_label": "SIGFiP", "class": "application", "platform": "", "owner": "government (finance ministry)", "tiers": "to be generalised to institutions, administrations, collectivités territoriales, public establishments, projects, programmes and diplomatic and consular posts; planned"},
+    {"system": "Virement électronique normalisé / factures électroniques normalisées (FEN)", "country_label": "système de virement électronique normalisé", "class": "central", "platform": "", "owner": "government", "tiers": "all public entities concerned, from the start of 2027; planned"}
+  ],
+  "note": "The one fact is a stated intention, with no local government said to be on SIGFiP now; recorded as a plan for local governments to work in a national system, for the parent to accept or drop."
+}

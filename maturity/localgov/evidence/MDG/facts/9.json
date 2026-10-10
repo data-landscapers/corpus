@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-no-longer-invisible-legal-identity-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "Mass biometric enrolment operation (Izaho Tokana)", "country_label": "Izaho Tokana", "class": "central", "platform": "biometric kits; de-duplicated biometric database", "owner": "Ministry of Interior staff, supported by PRODIGY (World Bank and Global Financing Facility)", "tiers": "more than 2,000 mobile teams nationwide since April 2026"}
+  ],
+  "note": "Biometric enrolment run by Ministry of Interior teams; communes appear only as about 1,700 places of birth registration, with nothing on their offices' connection."
+}

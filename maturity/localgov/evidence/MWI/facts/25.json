@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-06-dmap-accelerates-digital-transformation-ai-public-service",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "backbone", "platform": "", "owner": "Department of eGovernment, Ministry of Information and Communications Technology", "tiers": "ageing and obsolete in March 2026, with over 9,000 government sites unconnected to the Internet; network assessment and redesign financed by the Digital Malawi Acceleration Project; no local government office named"},
+    {"system": "DMAP connectivity to public institutions", "country_label": "connectivity to over 500 public institutions", "class": "backbone", "platform": "", "owner": "Digital Malawi Acceleration Project (PPPC, World Bank-financed)", "tiers": "planned across the country from Chitipa to Nsanje, including Likoma, with broadband to more than 2,000 schools; councils not named among the institutions"}
+  ],
+  "note": "The Principal Secretary for eGovernment said on 5 March 2026 that over 9,000 government sites remain unconnected because the GWAN is obsolete; the statement is about government sites in general and names no council office, so it is recorded under systems and not as a fact."
+}

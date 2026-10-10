@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-21-sita-plugs-gaps-in-govts-disaster-response",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The State Information Technology Agency says municipalities across the Eastern Cape are actively operational on its web-based Provincial Disaster Management Application System, built with the provincial cooperative governance department and supported by SITA's provincial team; it gives no count of municipalities and does not describe their offices' connection.", "as_of": "2026-07-21", "date_precision": "day", "system": "Provincial Disaster Management Application System (PDMAS)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The Provincial Disaster Management Application System went live on 21 November 2025 with training for provincial and municipal users across the Eastern Cape, replacing manual reporting and telephone-based coordination, according to SITA.", "as_of": "2025-11-21", "date_precision": "day", "system": "Provincial Disaster Management Application System (PDMAS)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Provincial Disaster Management Application System", "country_label": "PDMAS", "class": "upper-tier", "platform": "web-based, built in-house by SITA's Eastern Cape team", "owner": "State Information Technology Agency with the Eastern Cape Department of Cooperative Governance and Traditional Affairs", "tiers": "Eastern Cape province and its municipalities"}
+  ],
+  "note": "The connection is inferred from municipal users working in a shared web-based provincial system; one province only, no count, and no office connection described."
+}

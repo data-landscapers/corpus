@@ -1,0 +1,64 @@
+{
+  "slug": "2026-06-23-e1-2-billion-digital-project-connect-schools-clinics-communities",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:38",
+      "fact": "Eswatini Positive News reports that 38 Tinkhundla centres, with 859 schools and 134 health centres, 'will be connected to broadband infrastructure' as direct beneficiaries of the E1.2 billion (USD 65 million) Eswatini Digital Project; the figure is a planned target, none is reported connected, and no total of Tinkhundla centres is given.",
+      "as_of": "2026-06-23",
+      "date_precision": "day",
+      "system": "Eswatini Digital Project, Affordable Broadband component: broadband for Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "About E648 million (USD 36 million) of the project is allocated to the Affordable Broadband component, split into E468 million (USD 26 million) for EPTC stabilisation and reform, E144 million (USD 8 million) for national broadband market expansion and E36 million (USD 2 million) for legal, regulatory and institutional reforms, as reported on 23 June 2026; it covers national fibre expansion and last-mile connectivity to the listed institutions, Tinkhundla centres among them.",
+      "as_of": "2026-06-23",
+      "date_precision": "day",
+      "system": "Eswatini Digital Project, Affordable Broadband component: broadband for Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of ICT is leading implementation of the Eswatini Digital Project and, as reported on 23 June 2026, was training change agents from government ministries in Mbabane to carry it out.",
+      "as_of": "2026-06-23",
+      "date_precision": "day",
+      "system": "Eswatini Digital Project, Affordable Broadband component: broadband for Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The article of 23 June 2026 gives the project's size as E1.2 billion (USD 65 million) and its split by component, and does not say who finances it.",
+      "as_of": "2026-06-23",
+      "date_precision": "day",
+      "system": "Eswatini Digital Project, Affordable Broadband component: broadband for Tinkhundla centres",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Eswatini Digital Project, Affordable Broadband component: broadband for Tinkhundla centres",
+      "country_label": "Eswatini Digital Project; Affordable Broadband component",
+      "class": "connection",
+      "platform": "national fibre networks and last-mile connectivity (EPTC)",
+      "owner": "Ministry of ICT",
+      "tiers": "859 schools, 134 health centres and 38 Tinkhundla centres, planned"
+    },
+    {
+      "system": "Government in Your Hand",
+      "country_label": "Government in Your Hand",
+      "class": "central",
+      "platform": "digital public infrastructure and digitalised priority services; E450 million (USD 25 million) component",
+      "owner": "Ministry of ICT",
+      "tiers": "central government services to citizens; not stated for local government"
+    }
+  ],
+  "note": "The facts rest on Tinkhundla centres, which the article names as sites to be connected; it does not call them local government offices and names no town or municipal council. The parent decides whether they are the basic tier."
+}

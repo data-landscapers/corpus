@@ -1,0 +1,8 @@
+{
+  "slug": "2023-08-03 The modernisation of Guinea's civil registry inspired by Belgium's experience (Citizenship Rights in Africa)",
+  "facts": [],
+  "systems": [
+    {"system": "Digital national civil registry (pilot)", "country_label": "national digital civil registry", "class": "application", "platform": "application modules developed with DXC Technology", "owner": "Ministry of Territorial Administration and Decentralisation, with Enabel (EU-funded)", "tiers": "ten pilot communes; paper deeds recorded at municipal level and entered into a national digital database, 105,000+ records migrated (2023)"}
+  ],
+  "note": "A civil registration application in ten pilot communes; the document does not say the entry is made online at the commune office, and states no connection provided to any commune."
+}

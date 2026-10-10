@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-03-snip-termes-de-reference-drc",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "GovNet / réseaux GovNet", "class": "backbone", "platform": "", "owner": "Government of DR Congo; named among 'national strategic initiatives' beside the sovereign government cloud", "tiers": "not stated; named only as network infrastructure the national identification system must be sized for and integrated with, with no local government office said to be on it"},
+    {"system": "Cloud souverain gouvernemental", "country_label": "Cloud souverain gouvernemental", "class": "backbone", "platform": "", "owner": "Government of DR Congo", "tiers": "not stated"},
+    {"system": "registres d'état civil", "country_label": "registres d'état civil", "class": "application", "platform": "mostly manual (paper) registers", "owner": "", "tiers": "civil registers described in March 2026 as mostly manual, losing information and not integrated into any central file; the offices holding them are not named"}
+  ],
+  "note": "Terms of reference (March 2026) for a national identification strategy under the World Bank and AFD digital transformation project; GovNet is named six times as existing or planned national infrastructure without saying what it connects, and no local government office or its connection is described. The consultant is to consult a sample of stakeholders 'at decentralised level', nothing more."
+}

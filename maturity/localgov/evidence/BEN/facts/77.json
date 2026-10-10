@@ -1,0 +1,15 @@
+{
+  "slug": "2023-06-01-isoc-bj-etude-beninix",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National fibre backbone planned in the sector policy document",
+      "country_label": "backbone (Document de Politique Sectorielle)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned rehabilitation and deployment of nearly 2,000 km linking 67 communes, with a 280 km metropolitan loop for Grand Cotonou"
+    }
+  ],
+  "note": "Study of the internet exchange point (June 2023); communes appear only as places the planned backbone links, and no local government office is said to be on it."
+}

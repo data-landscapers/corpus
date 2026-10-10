@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-25-loi-l-2023-0020-etat-civil-republique-de-guinee",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre de l'état civil / système d'enregistrement des faits d'état civil",
+      "country_label": "registre de l'état civil; registre national de l'état civil; registre communal de l'état civil et des personnes physiques",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministère en charge de l'état civil (supplies registers, equipment, installation and maintenance, Article 65); kept by civil-status officers, the mayor acting in the name of the State",
+      "tiers": "Principal civil-status centres at the seats of urban and rural communes, charged with data entry and electronic archiving (Article 59); secondary centres in quartiers, districts and villages; embassies and consulates"
+    }
+  ],
+  "note": "A civil-status statute of 25 October 2023: it defines a centralised computer register and charges commune centres with electronic entry and archiving, an application in law only; it states no connection at any commune office."
+}

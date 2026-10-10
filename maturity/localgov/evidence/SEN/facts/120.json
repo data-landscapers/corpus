@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-01-geosenegal-bulletin-geospatial-septembre-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Informations Foncières Communal (SIFCOM)", "country_label": "SIFCOM", "class": "application", "platform": "", "owner": "PROCASEF", "tiers": "communal; under development at June 2025, for the 138 of 558 communes the project works in, where 124 of 138 land offices were under construction"},
+    {"system": "Système de Gestion du Foncier (SGF)", "country_label": "SGF", "class": "central", "platform": "", "owner": "Direction générale des Impôts et des Domaines (DGID)", "tiers": "four pilot sites, in test phase; meant to integrate the services of town planning, local authorities and the ministry in issuing titles"},
+    {"system": "Plateforme de gestion automatisée du NICAD", "country_label": "NICAD", "class": "central", "platform": "", "owner": "Direction du Cadastre (DGID)", "tiers": "in test in all operational Cadastre offices"},
+    {"system": "Géoportail national", "country_label": "Géoportail / GéoSénégal", "class": "", "platform": "", "owner": "GICC, with Sénégal Numérique SA", "tiers": "national open geospatial data portal, over 150 datasets; no local government office use stated"}
+  ],
+  "note": "Geospatial bulletin: the Cadastre director reports communal land offices under construction and a communal land information system still in development; no statement that any commune office is connected or works online, so no fact."
+}

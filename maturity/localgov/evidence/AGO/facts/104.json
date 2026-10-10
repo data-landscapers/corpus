@@ -1,0 +1,10 @@
+{
+  "slug": "2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre",
+  "facts": [],
+  "systems": [
+    {"system": "Terrestrial fibre-optic network (rede básica de telecomunicações)", "country_label": "rede de fibra óptica terrestre", "class": "backbone", "platform": "fibre rings, microwave, satellite and submarine cables", "owner": "", "tiers": "more than 22,000 km said to connect all provincial and communal capitals (May 2023); no local government office said to be on it"},
+    {"system": "Projecto Nacional de Banda Larga", "country_label": "Projecto Nacional de Banda Larga", "class": "backbone", "platform": "terrestrial and submarine fibre, microwave sites", "owner": "MINTTICS", "tiers": "interconnection of the provinces; a companion project to rehabilitate and extend rural and metropolitan transmission and access networks in municipalities and communes, both said to have begun"},
+    {"system": "ANGOSAT-2", "country_label": "ANGOSAT 2", "class": "backbone", "platform": "communications satellite, C, Ku and Ka bands", "owner": "", "tiers": "national coverage for hard-to-reach places and ring redundancy"}
+  ],
+  "note": "A telecommunications director's interview on the national network and public telecom services in municipalities and communes; the fibre is said to reach provincial and communal capitals, but no local government office is said to be connected to it."
+}

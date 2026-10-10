@@ -1,0 +1,55 @@
+{
+  "slug": "2023-01-01-rwanda-development-budget-annex-ii-3-2023-2024-companion",
+  "facts": [],
+  "systems": [
+    {
+      "system": "One Government Network",
+      "country_label": "B91 One Government Network (RISA development project, FY2023/24)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Rwanda Information Society Authority (RISA), under MINICT",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Modernizing Government Network project",
+      "country_label": "E5I Modernizing Government Network project (RISA development project, FY2023/24)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Rwanda Information Society Authority (RISA), under MINICT",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Last Mile Connectivity project",
+      "country_label": "GIE Last Mile Connectivity project (RISA development project, FY2023/24)",
+      "class": "",
+      "platform": "",
+      "owner": "Rwanda Information Society Authority (RISA), under MINICT",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Government Command Center",
+      "country_label": "D13 Government Command Center (RISA development project, FY2023/24)",
+      "class": "",
+      "platform": "",
+      "owner": "Rwanda Information Society Authority (RISA), under MINICT",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Public CCTV Project",
+      "country_label": "AG3 PUBLIC CCTV PROJECT (RISA development project, FY2023/24)",
+      "class": "city-systems",
+      "platform": "",
+      "owner": "Rwanda Information Society Authority (RISA), under MINICT",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Local Government Capacity Building Strategy Development and Implementation",
+      "country_label": "CZR, a MINALOC development project, FY2023/24",
+      "class": "capacity",
+      "platform": "",
+      "owner": "Ministry of Local Government (MINALOC)",
+      "tiers": "local government; no ICT content stated"
+    }
+  ],
+  "note": "A budget table of project names and amounts: it names government-network and last-mile projects under RISA but says nothing of what they connect, so no local government office is put on any of them. The district blocks carry no ICT or connection line. The text layer prints figures offset from their labels (the file's own caveat), so no amount is recorded."
+}

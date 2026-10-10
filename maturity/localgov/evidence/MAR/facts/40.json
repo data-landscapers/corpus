@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-27-atalayar-maroc-numerise-registre-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Centralised civil-status database / unified information system", "country_label": "registre civil numérisé", "class": "application", "platform": "", "owner": "Direction générale des collectivités territoriales (DGCT), Ministère de l'Intérieur", "tiers": "1,821 civil-status offices in ten regions; an international tender of 194 million dirhams in five lots (bids due 29 May 2025) to digitise more than 38 million acts, with the stated aim of linking every civil-status office to one system"}
+  ],
+  "note": "A tender to digitise civil-status records, an application; linking the 1,821 civil-status offices to a unified system is given as the project's aim (April 2025), not as something in place, and no office connection is stated."
+}

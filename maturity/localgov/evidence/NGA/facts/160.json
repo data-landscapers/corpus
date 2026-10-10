@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-22-vanguard-nigeria-birth-registration-gap",
+  "facts": [],
+  "systems": [
+    {"system": "digital birth registration system", "country_label": "e-birth registration; digitalised birth certificate", "class": "central", "platform": "online registration linked to the national identity number; technology partner named as Barnksforte Technologies Limited", "owner": "National Population Commission", "tiers": "used by the Commission's own registrars at registration points in hospitals and primary healthcare centres (one in Sangotedo, Lagos, is described); paper registration discontinued 1 July 2026; decentralisation to local governments and more points at ward and health-facility level are proposed, with the local governments' association to set up further centres"}
+  ],
+  "note": "The online birth registration described is worked by the National Population Commission's own registrars at health facilities, a national agency's field service; its Sangotedo registrar reports submissions delayed by poor internet. Local governments appear only in a proposed arrangement to decentralise registration to them. No local government office is said to be connected or to work in the system, so no fact."
+}

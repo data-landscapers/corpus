@@ -1,0 +1,8 @@
+{
+  "slug": "2021-03-01-bceao-guide-digitalisation-paiements-etats-membres-uemoa",
+  "facts": [],
+  "systems": [
+    {"system": "TrésorPay", "country_label": "TrésorPay", "class": "application", "platform": "dematerialised electronic payment platform", "owner": "Trésor public de Côte d'Ivoire", "tiers": "project under way in May 2020 for electronic payment of taxes and other revenue of accounting posts, collectivités and national public establishments"}
+  ],
+  "note": "A central bank's regional guide to digitalising State payments: for Côte d'Ivoire it lists payment initiatives, among them a Treasury payment platform covering local authorities' revenue, then in project (BCEAO, May 2020). It states nothing about a local government office's connection."
+}

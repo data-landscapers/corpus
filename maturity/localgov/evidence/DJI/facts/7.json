@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-10-worldbank-isr8-djibouti-digital-foundations-project",
+  "facts": [],
+  "systems": [
+    {"system": "Djibouti Digital Foundations Project connectivity for MDAs", "country_label": "Djibouti Fondement du Numérique (DFN)", "class": "central", "platform": "purchased internet capacity; LANs for some institutions", "owner": "Government of Djibouti with World Bank financing (P174461)", "tiers": "pilot phase of 33 ministries, departments and agencies, 11 in Djibouti city and 22 in the regions, the first still being connected at February 2026; a generalisation phase of roughly 100 more"}
+  ],
+  "note": "The report counts ministries, departments and agencies, in the capital and the regions, and names no regional council or commune among them; the connection is to central bodies and their regional offices, so no fact is taken. Excerpt only: the capture ends within section 6.1."
+}

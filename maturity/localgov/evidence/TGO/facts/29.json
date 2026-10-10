@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Lomé Data Centre (LDC)", "country_label": "Lomé Data Centre (LDC)", "class": "backbone", "platform": "", "owner": "Africa Data Centres (Liquid Intelligent Technologies), ultimate parent Cassava Technologies, as the register gives it", "tiers": "Lomé; operational since 2021, a carrier-neutral colocation site listing the Government of Togo, banks, telecoms and ISPs as clients"}
+  ],
+  "note": "Passages from an author-compiled data-centre ownership register: two Lomé data centres listed, no local government office said to be on either, so no fact."
+}

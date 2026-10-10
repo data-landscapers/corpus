@@ -1,0 +1,8 @@
+{
+  "slug": "2017-12-05-crvs-profile-central-african-republic",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration", "country_label": "état civil; Central Registry (DGMEC/MATDSI)", "class": "application", "platform": "paper", "owner": "Directorate General of Decentralization and Local Development, Ministry of the Interior and Territorial Administration; mayors, deputies and municipal councillors register", "tiers": "main centres at the headquarters of municipalities, boroughs and diplomatic missions; secondary centres in villages, urban areas and health facilities; records sent to the Central Registry"}
+  ],
+  "note": "UNICEF's civil registration profile, compiled December 2016 to November 2017: births, marriages and deaths are recorded by hand on non-standard paper forms at centres in municipal headquarters and sent to the Central Registry; that is the paper state of an application, and the profile states nothing on whether a municipal office has a connection."
+}

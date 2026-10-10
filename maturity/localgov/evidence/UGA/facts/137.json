@@ -1,0 +1,8 @@
+{
+  "slug": "2024-09-18-moh-emrs-implementation-guidelines",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Medical Records System (EMRS)", "country_label": "Electronic Medical Records System (EMRS)", "class": "application", "platform": "", "owner": "Ministry of Health, Division of Health Information Management", "tiers": "health facilities, public and private; the guidelines say local governments (districts and cities) shall lead its implementation locally and shall access it through dashboards and reports"}
+  ],
+  "note": "Guidelines of 18 September 2024, captured as an excerpt cut off in section 2.6: they prescribe that local governments shall view the health records system through dashboards, and report no use by, or connection of, any local government office."
+}

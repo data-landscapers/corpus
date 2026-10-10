@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-17-zimbabwe-digital-roadmap-msme-growth",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre backbone", "country_label": "fibre backbone", "class": "backbone", "platform": "", "owner": "", "tiers": "More than 17,000 km nationally, per the ICT minister (July 2026); no local government office said to be on it"},
+    {"system": "Free Wi-Fi hotspots at rural business centres", "country_label": "free Wi-Fi hotspots", "class": "public-access", "platform": "", "owner": "Government", "tiers": "Rural business centres"},
+    {"system": "Digital centres", "country_label": "digital centres", "class": "public-access", "platform": "", "owner": "Government", "tiers": "Across the country: free internet access, ICT equipment and digital literacy training for citizens and entrepreneurs"}
+  ],
+  "note": "The ICT minister's account of national infrastructure and public access for small businesses; the Ministry of Local Government is named only as a supporter of the meeting. No local government office connection is stated."
+}

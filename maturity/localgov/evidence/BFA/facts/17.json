@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-26-burkina-faso-zero-data-abroad-120-platforms",
+  "facts": [],
+  "systems": [
+    {"system": "nouveau réseau de l'administration publique", "country_label": "nouveau réseau de l'administration publique", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "architecture finalised and equipment bids under examination at 30 June 2026; no tier or commune office named"},
+    {"system": "centres de données nationaux", "country_label": "centres de données", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "two inaugurated; 120 public platforms hosted abroad listed for repatriation"},
+    {"system": "Une commune, une Maison du citoyen", "country_label": "Maison du citoyen", "class": "central", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "two pilots under construction at Ouagadougou and Kaya; studies for Bobo-Dioulasso, eight other regional capitals and fifty rural communes"}
+  ],
+  "note": "No fact: a second account of the ministry's mid-year review; the new administration network is at design and tender with no local government office named."
+}

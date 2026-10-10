@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-12-kontaktu-mef-gw-portal",
+  "facts": [],
+  "systems": [
+    {"system": "Kontaktu (tax authority's online portal for declarations, payments and taxpayer-number issuance)", "country_label": "Kontaktu", "class": "central", "platform": "", "owner": "Direção-Geral das Contribuições e Impostos (DGCI), Ministry of Finance", "tiers": "National; DGCI services and offices"},
+    {"system": "SIGEF (system previously used to issue taxpayer numbers, prohibited for that from 3 December 2025)", "country_label": "SIGEF", "class": "central", "platform": "", "owner": "Direção-Geral das Contribuições e Impostos (DGCI)", "tiers": "DGCI services"}
+  ],
+  "note": "The national tax authority's portal and its notices; no local government and no office connection is mentioned."
+}

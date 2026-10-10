@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-03 Gadarif transfers Isali electronic-collection experience to Kassala state (SUNA)",
+  "facts": [],
+  "systems": [
+    {"system": "Isali electronic collection and payment system at Gadarif State's unified collection apparatus", "country_label": "إيصالي; جهاز التحصيل الموحد", "class": "upper-tier", "platform": "Isali", "owner": "Gadarif State Ministry of Finance and Manpower", "tiers": "Gadarif State, including its crop markets; shown to a Kassala State delegation on 3 May 2026"},
+    {"system": "Gadarif State information centre's network link between collection points", "country_label": "مركز المعلومات; الربط الشبكي بين نقاط التحصيل", "class": "upper-tier", "platform": "", "owner": "Gadarif State information centre", "tiers": "the state's collection points; no locality office named"}
+  ],
+  "note": "The system and the network linking its collection points are Gadarif State's, the upper tier; the document names crop markets and collection points and places none of them in a locality's (basic-tier) office."
+}

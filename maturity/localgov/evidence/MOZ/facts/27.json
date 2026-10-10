@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-06-worldbank-mdap-p176459-mid-term-review-aide-memoire",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "Government Communications Network (GovNet)", "class": "backbone", "platform": "", "owner": "government; INAGE leads the feasibility study with the project unit", "tiers": "government; no local government office said to be on it"},
+    {"system": "Community Multimedia Centres", "country_label": "CMCs", "class": "public-access", "platform": "", "owner": "CITT", "tiers": "community hubs; connectivity, furniture and ICT equipment under procurement (US$2 million)"},
+    {"system": "paperless Cabinet system", "country_label": "", "class": "central", "platform": "", "owner": "", "tiers": "Cabinet"}
+  ],
+  "note": "The mid-term review (26 May to 6 June 2025) reports that the contract for the feasibility study on extending GovNet has been signed, to inform a second phase of investment in the network's performance and reliability. It names no district, municipal or other local government office on the network; its only municipalities are the sites of two bridges in Quelimane. No fact is recorded."
+}

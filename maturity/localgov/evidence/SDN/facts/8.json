@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-29-sudan-nic-departments-structure",
+  "facts": [],
+  "systems": [
+    {"system": "state information centres and state informatics projects", "country_label": "مراكز المعلومات بالولايات; مشروعات المعلوماتية بالولايات", "class": "upper-tier", "platform": "", "owner": "the states, coordinated by the National Information Center's State Coordination directorate", "tiers": "states"}
+  ],
+  "note": "An undated page on the National Information Center's directorates (retrieved 2026-08-29); it gives the centre's remit to coordinate informatics projects, training and information centres at state level, and names no network, no connected office and no locality."
+}

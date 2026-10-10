@@ -1,0 +1,8 @@
+{
+  "slug": "2009-06-11-togo-loi-2009-010-organisation-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "registre d'état civil", "country_label": "registre d'état civil", "class": "application", "platform": "", "owner": "communes, under the joint oversight of the ministries of territorial administration and of justice", "tiers": "a civil-status centre in every urban commune, rural commune and commune d'arrondissement, with secondary centres where a commune creates them"}
+  ],
+  "note": "The civil-status law: it allows the registration and keeping of civil-status acts at commune centres to be manual and/or computerised, with equal legal value (Article 15), and describes paper five-part registers sent up by hand; a law, stating nothing on any commune office's connection or equipment."
+}

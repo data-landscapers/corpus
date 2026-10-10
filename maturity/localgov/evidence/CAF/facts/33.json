@@ -1,0 +1,11 @@
+{
+  "slug": "2020-01-01-worldbank-car-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "GIRAFE", "country_label": "GIRAFE", "class": "central", "platform": "", "owner": "Office National de l'Informatique, under contract to the government", "tiers": "central; described as the payroll management system"},
+    {"system": "portail du Gouvernement", "country_label": "portail du Gouvernement", "class": "central", "platform": "", "owner": "Ministère des Postes et Télécommunication", "tiers": "central; implementation led by the ministry"},
+    {"system": "registre des contribuables", "country_label": "registre des contribuables", "class": "central", "platform": "", "owner": "", "tiers": "central; used only by the tax and customs agencies, and the only common register"},
+    {"system": "capacité satellitaire des ministères", "country_label": "capacité satellitaire pour les ministères clés", "class": "central", "platform": "satellite", "owner": "donor-financed, for key ministries such as the Ministère des Finances et du Budget", "tiers": "central ministries; line ministries are weakly connected to each other, and there is no shared cloud or data centre"}
+  ],
+  "note": "Passages of the World Bank digital economy assessment (2020): they cover the universal service fund, the lead agencies for e-government and the weak connection between central ministries; the passages given name no commune or other local government office and state nothing on its connection."
+}

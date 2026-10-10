@@ -1,0 +1,9 @@
+{
+  "slug": "2021-08-03-ami-anrpts-nizam-mundamij-sijil-sukkan-153-markaz-istiqbal",
+  "facts": [],
+  "systems": [
+    {"system": "النظام المندمج الجديد لتسيير سجل السكان والوثائق المؤمنة", "country_label": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة", "class": "central", "platform": "", "owner": "الوكالة الوطنية لسجل السكان والوثائق المؤمنة (ANRPTS)", "tiers": "agency headquarters in Nouakchott; biometric visas at eight border crossing points and seven diplomatic and consular missions"},
+    {"system": "مراكز استقبال المواطنين", "country_label": "مراكز استقبال المواطنين", "class": "central", "platform": "", "owner": "الوكالة الوطنية لسجل السكان والوثائق المؤمنة (ANRPTS)", "tiers": "153 centres received and equipped of 168 to be built in communes and administrative centres, per the agency's director general on 2021-08-03"}
+  ],
+  "note": "News report of the launch of the national agency's population-register system; the reception centres sited in communes are the agency's own, a central class, and nothing is said of commune offices or their connection."
+}

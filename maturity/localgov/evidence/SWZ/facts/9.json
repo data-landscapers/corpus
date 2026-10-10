@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "RSTP National Data Centre",
+      "country_label": "RSTP National Data Centre",
+      "class": "backbone",
+      "platform": "government data centre, Matsapha, operational",
+      "owner": "Royal Science and Technology Park (RSTP), a state-owned enterprise of the Government of Eswatini",
+      "tiers": "government ministries, departments and agencies, enterprises and SMEs; no local government office named"
+    }
+  ],
+  "note": "A register of data centres, AI-compiled by its own header. The Eswatini rows name the RSTP National Data Centre and two MTN Eswatini enterprise data centres (Matsapha and Lobamba, outside the study's field); no local government office is said to be on any of them."
+}

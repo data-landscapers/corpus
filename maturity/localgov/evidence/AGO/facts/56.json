@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-26-minttics-projectos-estruturantes-base-tecnologica",
+  "facts": [],
+  "systems": [
+    {"system": "rede de fibra óptica terrestre e cabo submarino doméstico", "country_label": "rede de fibra óptica terrestre; cabo de fibra óptica submarino doméstico", "class": "backbone", "platform": "", "owner": "MINTTICS", "tiers": "national terrestrial fibre being expanded and a domestic submarine cable to link the main coastal cities, as stated in March 2026; no local government office said to be on it"},
+    {"system": "Conecta Angola", "country_label": "projecto Conecta/Angola", "class": "public-access", "platform": "ANGOSAT-2", "owner": "MINTTICS", "tiers": "connectivity for the remote population"},
+    {"system": "Data Center Nacional", "country_label": "Data Center Nacional", "class": "backbone", "platform": "", "owner": "MINTTICS", "tiers": "national, being implemented in March 2026"}
+  ],
+  "note": "The minister's survey of national connectivity projects; no local government office is named."
+}

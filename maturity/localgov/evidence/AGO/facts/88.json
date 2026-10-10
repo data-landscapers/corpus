@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-20-ago-opais-angola-online-141-postos-de-acesso-a-internet",
+  "facts": [],
+  "systems": [
+    {"system": "Angola Online", "country_label": "Projecto Angola Online", "class": "public-access", "platform": "free internet access points in squares and open grounds for the general public", "owner": "MINTTICS", "tiers": "about 141 working access points nationwide, the minister said on 20 January 2025"},
+    {"system": "Angola Digital", "country_label": "Projecto Angola Digital", "class": "public-access", "platform": "computer rooms and internet service for schools, training centres and a community youth centre", "owner": "MINTTICS, which maintains the equipment", "tiers": "about 81 schools nationwide; four institutions in Luanda and Icolo e Bengo equipped in January 2025, among them the Fubu community youth centre in Camama, received by the municipal administrator"},
+    {"system": "Projecto Conecta", "country_label": "Projecto Conecta", "class": "public-access", "platform": "connectivity based on AngoSat 2", "owner": "MINTTICS", "tiers": "populations of the interior"},
+    {"system": "Ilumina Angola", "country_label": "Projecto Ilumina Angola", "class": "backbone", "platform": "", "owner": "MINTTICS", "tiers": "begun December 2024, to cover the country with communications and internet"}
+  ],
+  "note": "Public and school access programmes; the Camama municipal administration receives and looks after computer rooms in a community centre for residents, and nothing is said of the administration's own office connection."
+}

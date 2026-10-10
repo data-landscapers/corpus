@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-30-gaci-hatif-libya-fibre-pair-pricing-fttx-access-networks",
+  "facts": [],
+  "systems": [
+    {"system": "Hatif Libya fibre-optic network", "country_label": "شبكة الألياف البصرية: الشبكة الرئيسية وشبكات الوصول (FTTX)", "class": "backbone", "platform": "", "owner": "Hatif Libya, the national infrastructure operator, regulated by the General Authority for Communications and Informatics", "tiers": "National backbone and access networks; no local government office said to be on it"}
+  ],
+  "note": "A meeting of 30 December 2025 on fibre-pair lease prices and private investment in FTTX access networks; a national backbone, with no municipal office said to be connected."
+}

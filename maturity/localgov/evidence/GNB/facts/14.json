@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-18-wardip-sop1-isr-seq4-guinee",
+  "facts": [],
+  "systems": [
+    {"system": "National fiber optic backbone (WARDIP SOP1): 0 km deployed of a target of 830 km by December 2028 as at 23 January 2026, procurement launch delayed", "country_label": "National fiber optic backbone", "class": "backbone", "platform": "", "owner": "Government of Guinea-Bissau, World Bank financed (WARDIP SOP1)", "tiers": "National; no local government office stated"}
+  ],
+  "note": "A World Bank supervision report: the Guinea-Bissau backbone has no kilometre deployed and the project states it does not cover last-mile connectivity; no local government office is mentioned."
+}

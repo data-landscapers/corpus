@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-18-uganda-to-develop-national-ai-policy",
+  "facts": [],
+  "systems": [
+    {"system": "National Backbone Infrastructure", "country_label": "ICT National Backbone Infrastructure", "class": "backbone", "platform": "optical fibre", "owner": "Ministry of ICT and National Guidance and NITA-U; expansion supported by the World Bank and Exim Bank", "tiers": "internet expansion to 53 districts under NDP3, said on 17 June 2025; target of all 145 districts; public institutions' bandwidth priced at UGX 125,000 per Mbps; no local government office named"},
+    {"system": "PDMIS", "country_label": "Parish Development Model Management Information System", "class": "application", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "parishes"},
+    {"system": "Parish tablets", "country_label": "A digital tablet for every parish chairperson", "class": "equipment", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "every parish"}
+  ],
+  "note": "A news report of the ICT ministry's review retreat: it gives the backbone's reach by district and tablets for parishes. A network that reaches a district connects no office until a source says so, and none is named."
+}

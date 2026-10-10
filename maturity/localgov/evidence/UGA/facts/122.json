@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-23-hispuganda-dhis2-termly-school-report-policy-brief",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "HISP Uganda's policy brief of April 2026 says district and municipal education staff work in the shared DHIS2 for Education system, citing the Mayuge district education officer using the current term's data and the Makindye Ssabagabo municipality's IT officer filtering examination results by division; it does not say how their offices are connected, and gives no date beyond the brief's own.", "as_of": "2026-04", "date_precision": "month", "system": "DHIS2 for Education (Termly School Report)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:13", "fact": "HISP Uganda names 13 local governments where the Termly School Report on DHIS2 for Education has run since 2022: ten first sites (Gulu City, Gulu, Mayuge, Ntungamo and Wakiso districts, and Ntungamo, Entebbe, Kira, Nansana and Makindye Ssabagabo municipalities) and three added with the Aga Khan Foundation (Arua City, Arua and Yumbe districts); no national total is given, and the date is the brief's own.", "as_of": "2026-04", "date_precision": "month", "system": "DHIS2 for Education (Termly School Report)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Termly School Report (TSR)", "country_label": "Termly School Report on DHIS2 for Education (DHIS2-Ed)", "class": "application", "platform": "DHIS2", "owner": "Ministry of Education and Sports with HISP Uganda, supported by research projects and the Aga Khan Foundation", "tiers": "13 district, city and municipal local governments and their schools; data used at national, district and school level"},
+    {"system": "EMIS", "country_label": "Education Management Information System (EMIS)", "class": "application", "platform": "", "owner": "Ministry of Education and Sports", "tiers": "national; EMIS officers recruited for district clusters, not yet one for each local government"},
+    {"system": "TELA", "country_label": "Teacher Effectiveness and Learner Attendance (TELA) system", "class": "application", "platform": "", "owner": "", "tiers": "named as a separate store of attendance data; tiers not stated"}
+  ],
+  "note": ""
+}

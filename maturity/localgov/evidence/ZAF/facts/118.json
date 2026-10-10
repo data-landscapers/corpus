@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press",
+  "facts": [],
+  "systems": [
+    {"system": "MyMzansi app", "country_label": "MyMzansi", "class": "central", "platform": "open platform services (the article names GOV.UK Pay, Notify and Forms and India's Inji and Digit as the kind used)", "owner": "South African government (national)", "tiers": "national"}
+  ],
+  "note": "An opinion piece on cloud standards; South Africa appears only for the national MyMzansi app, and 'local governments' refers to India's Digit. Nothing on any municipal office's connection."
+}

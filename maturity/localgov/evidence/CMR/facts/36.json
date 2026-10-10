@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-24-digitalbusiness-africa-bilan-2025-numerique-cameroun",
+  "facts": [],
+  "systems": [
+    {"system": "systèmes d'information des collectivités territoriales décentralisées", "country_label": "", "class": "application", "platform": "", "owner": "the local authorities, supported by ANTIC in 2025", "tiers": "decentralised local authorities; no count given"},
+    {"system": "backbone national et boucles métropolitaines de Yaoundé et Douala", "country_label": "backbone", "class": "backbone", "platform": "fibre optic; NCSCS submarine cable raised from 100 Gbps to 300 Gbps", "owner": "CAMTEL", "tiers": "national backbone and the metropolitan loops of Yaoundé and Douala, extended in 2025; no local government office named"},
+    {"system": "points de contacts postaux connectés à Internet", "country_label": "", "class": "central", "platform": "", "owner": "CAMPOST, under MINPOSTEL", "tiers": "84 per cent of postal contact points connected to the internet in 2025"},
+    {"system": "Plan Cameroun numérique 2025-2030", "country_label": "Plan Cameroun numérique 2025-2030", "class": "", "platform": "", "owner": "MINPOSTEL, drawn up under PATNUC", "tiers": "not stated"}
+  ],
+  "note": "The posts and telecoms ministry's review of 2025; local authorities appear once, as supported by ANTIC in setting up their information systems, and nothing is said of their offices' connection."
+}

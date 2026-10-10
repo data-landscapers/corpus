@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-kenya-treasury-dpmis-development-partner-tracking",
+  "facts": [],
+  "systems": [
+    {"system": "Development Partners Management Information System (DPMIS)", "country_label": "DPMIS", "class": "central", "platform": "", "owner": "National Treasury", "tiers": "national; expected to launch before the end of 2026; no county use stated"}
+  ],
+  "note": "A National Treasury system for tracking development-partner funds; counties appear only as recipients of conditional grants. Nothing on county offices or their connection."
+}

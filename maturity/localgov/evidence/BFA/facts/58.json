@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-30-mef-faso-arzeka-plateforme-paiements-numeriques",
+  "facts": [],
+  "systems": [
+    {"system": "FASO ARZEKA", "country_label": "FASO ARZEKA", "class": "central", "platform": "built in Burkina Faso; web, mobile app, USSD *700# and voice server 700, linked to bank cards, mobile money and bank transfers", "owner": "Ministère de l'Économie et des Finances", "tiers": "a single platform for payments by citizens to the central administration, local governments and public establishments; merges the Treasury, tax and customs platforms"}
+  ],
+  "note": "No fact: the finance ministry's payment platform takes citizens' payments owed to local governments among others; the article does not say local government offices work in it or are connected."
+}

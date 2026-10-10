@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-01-e-government-in-niger",
+  "facts": [],
+  "systems": [
+    {"system": "Government intranet", "country_label": "Government intranet", "class": "backbone", "platform": "", "owner": "HC/NTCI (Haut Commissariat, established 2005; not operational as of 2024)", "tiers": "a feasibility study only, per the agency's website; no local government office said to be on it"},
+    {"system": "Smart Villages for Growth and Digital Inclusion Project (PVI)", "country_label": "Projet Villages Intelligents (PVI)", "class": "public-access", "platform": "", "owner": "ANSI", "tiers": "announced in 2020 to connect nearly 2,000 villages to mobile telephony and broadband over six years"},
+    {"system": "Ministry of Justice Intranet", "country_label": "Intranet", "class": "central", "platform": "", "owner": "Ministère de la Justice", "tiers": "ministry"}
+  ],
+  "note": "A 2024 review of e-government in Niger at national level; it suggests building digital solutions that rely on communes as a prospect and says nothing of any commune office's connection or equipment."
+}

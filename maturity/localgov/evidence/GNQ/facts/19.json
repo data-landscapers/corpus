@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-worldbank-equatorial-guinea-digital-economy-diagnostic",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The World Bank's digital economy diagnostic states that the central network of the government, partly hosted by CNIAPGE, does not extend to local government branches; it gives no date, so the document's published year is used.", "as_of": "2024", "date_precision": "year", "system": "Central network of the government", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "none", "fact": "The World Bank states that many ministries at the centre operate on manual systems and that this is more pronounced at the local level, for want of funds and adequate infrastructure, with data shared between ministries by hand, USB drive or e-mail; no date is given, so the document's published year is used.", "as_of": "2024", "date_precision": "year", "system": "Central network of the government", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Central network of the government", "country_label": "", "class": "backbone", "platform": "", "owner": "the government, partly hosted by CNIAPGE", "tiers": "ministries at the centre; stated not to extend to local government branches"},
+    {"system": "Government servers", "country_label": "", "class": "backbone", "platform": "", "owner": "CNIAPGE or the ministries themselves", "tiers": "central; no government cloud platform for all ministries yet"},
+    {"system": "SIGFIP", "country_label": "SIGFIP", "class": "", "platform": "", "owner": "", "tiers": "rolled out ad hoc by ministry; no tier stated"},
+    {"system": "SYDONIA", "country_label": "SYDONIA", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Government Mobile Communications Service (GOTA)", "country_label": "GOTA", "class": "backbone", "platform": "CDMA mobile network supplied by ZTE", "owner": "GECOMSA, a joint venture of the government (51%) and ZTE (49%)", "tiers": "largely the island of Bioko"}
+  ],
+  "note": "'Local government branches' is the document's phrase and is not defined: it may mean municipalities or ministries' local offices. The two facts record a stated absence; the document names no local government office as connected."
+}

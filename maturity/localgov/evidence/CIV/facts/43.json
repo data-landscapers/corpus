@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Abidjan CCTV surveillance network", "country_label": "video surveillance (Abidjan)", "class": "city-systems", "platform": "vendors listed for Abidjan include Huawei", "owner": "not stated; data access given as police, intelligence services and municipal authorities", "tiers": "Abidjan only; described as a city-wide network of more than 1,000 cameras with a command and control centre"},
+    {"system": "Abidjan intelligent transport and smart parking systems", "country_label": "Metro, BRT and smart parking (Abidjan)", "class": "city-systems", "platform": "Trapeze ITS for the BRT", "owner": "Ministry of Transport, SOTRA and the Greater Abidjan urban mobility authority, as listed", "tiers": "Abidjan only; Metro and BRT under construction, smart parking in specific zones"}
+  ],
+  "note": "A twelve-city smart-city analysis that says it was researched and written by an AI answer engine; its Abidjan column lists city systems and a tax directorate network, and states nothing about a connection at a commune's own office."
+}

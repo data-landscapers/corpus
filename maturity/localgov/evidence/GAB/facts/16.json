@@ -1,0 +1,31 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital Datacenter Gabon (Nkok SEZ)",
+      "country_label": "ST Digital Datacenter Gabon",
+      "class": "backbone",
+      "platform": "Colocation, carrier-neutral",
+      "owner": "ST Digital (Cameroon-based, private)",
+      "tiers": "Libreville; listed as under construction; Government of Gabon among intended customers"
+    },
+    {
+      "system": "Cybastion National Sovereign Data Center",
+      "country_label": "National Sovereign Data Center",
+      "class": "backbone",
+      "platform": "",
+      "owner": "State-owned through ANINF; Cybastion (US) as contracted operator",
+      "tiers": "Libreville; listed as under construction; for the Government of Gabon and the public sector"
+    },
+    {
+      "system": "GABIX Internet Exchange Node (Gabon Telecom DC)",
+      "country_label": "GABIX",
+      "class": "backbone",
+      "platform": "",
+      "owner": "ANINF / Gabon Telecom",
+      "tiers": "Libreville; operational since 2014; members listed as Gabon Telecom, Airtel Gabon, GVA, ANINF and iPi9"
+    }
+  ],
+  "note": "Passages from a data-centre ownership register (its own header calls it a working, AI-compiled analysis); the three Gabon rows are data centres in Libreville and no local government office is named."
+}

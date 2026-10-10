@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-01-deep-opm-zanzibar-dynamic-social-registry-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "Zanzibar Dynamic Social Registry (ZDSR)", "country_label": "ZDSR", "class": "application", "platform": "proposed on open-source platforms meeting Digital Convergence Initiative standards", "owner": "proposed host Zanzibar Civil Status Registration Agency (ZCSRA); OCGS lead for poverty identification; MoCDGEC principal user", "tiers": "a blueprint, not built: updates proposed through Shehia leaders with offline mobile apps and district-level service points; pilot proposed in three districts, then all 11"}
+  ],
+  "note": "A blueprint for a registry not yet built; Shehia leaders are proposed as users of offline mobile apps, and nothing is stated about any local government office's existing connection."
+}

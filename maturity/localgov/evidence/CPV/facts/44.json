@@ -1,0 +1,42 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The World Bank's GovTech Maturity Index regional brief says the Data Exchange Platform (PDEX), a service bus launched with the NOSI Cloud in 2018, is extensively used by both central and local governments; it gives no count of local governments and does not say how their offices are connected (2022 index data).",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Data Exchange Platform (PDEX)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Exchange Platform (PDEX)",
+      "country_label": "PDEX",
+      "class": "connection",
+      "platform": "service bus",
+      "owner": "NOSI (Information Society Operational Unit)",
+      "tiers": "central and local governments"
+    },
+    {
+      "system": "NOSI Cloud",
+      "country_label": "NOSI Cloud",
+      "class": "backbone",
+      "platform": "shared national cloud platform",
+      "owner": "NOSI",
+      "tiers": "national; no local government office said to be on it"
+    },
+    {
+      "system": "Balcão Único",
+      "country_label": "Balcão Único",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "launched 2017 to provide public services in municipal councils; who runs it and what it does are not stated"
+    }
+  ],
+  "note": ""
+}

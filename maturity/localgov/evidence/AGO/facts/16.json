@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-26-angola-benguela-agua-pre-pago-contadores",
+  "facts": [],
+  "systems": [
+    {"system": "contadores pré-pagos e inteligentes", "country_label": "contadores pré-pagos e inteligentes", "class": "city-systems", "platform": "supplied by the Aqua/Wedo consortium", "owner": "Empresa Provincial de Águas e Saneamento de Benguela (EPASB), a provincial utility", "tiers": "households in the municipalities of Benguela, Lobito, Baía Farta, Catumbela and Navegantes; 25,000 to 26,000 meters by March 2027, starting with 500 at Restinga, Lobito, from 7 September 2026"},
+    {"system": "base de dados de clientes", "country_label": "cadastramento de clientes", "class": "upper-tier", "platform": "", "owner": "Empresa Provincial de Águas e Saneamento de Benguela (EPASB)", "tiers": "70,000 customers across the five coastal municipalities"}
+  ],
+  "note": "A provincial water utility's prepaid meters and customer database; no local government office or its connection is described."
+}

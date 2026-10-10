@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius Telecom Rose Belle Data Centre", "country_label": "Mauritius Telecom Rose Belle Data Centre", "class": "backbone", "platform": "", "owner": "Mauritius Telecom Ltd (state-controlled)", "tiers": "colocation data centre, operational since 2016; customers listed as banks, the Government of Mauritius and telecom operators; no local authority named"}
+  ],
+  "note": "A register of data centres and their owners; its Mauritius rows are five commercial facilities (Mauritius Telecom at Rose Belle and Rose Hill, Rogers Capital at Ebene and Port Louis, Emtel at Arsenal), only Rose Belle listing government as a customer. The 'county governments' and 'govnet' hits are other countries' rows. Nothing on local government offices."
+}

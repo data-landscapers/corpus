@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-adca-economic-report-data-centres-in-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Rwanda's National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "government-sponsored, on mixed funding", "tiers": "national; no local government office said to use it"}
+  ],
+  "note": "The passages name Rwanda once, for its government-sponsored National Data Centre; nothing on local government offices."
+}

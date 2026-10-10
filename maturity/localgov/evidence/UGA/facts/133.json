@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-27-ict-national-ict-infrastructure-spatial-data-store",
+  "facts": [],
+  "systems": [
+    {"system": "National Backbone and e-Government Infrastructure", "country_label": "National Backbone and the e-Government Infrastructure", "class": "backbone", "platform": "", "owner": "NITA-U, as custodian", "tiers": "not stated; no local government office said to be on it"},
+    {"system": "National ICT Infrastructure Spatial Data Store (NISDS)", "country_label": "NISDS", "class": "", "platform": "centralised geospatial platform; Esri Eastern Africa a partner", "owner": "Ministry of ICT and National Guidance with NITA-U", "tiers": "planned national store of telecom, utility and government infrastructure data, at baseline-study validation on 27 August 2025; fits none of the study's classes"}
+  ],
+  "note": "A validation workshop for a planned national map store of ICT infrastructure; local authorities attended and a Kampala city planner is quoted, but no local government office's connection is stated."
+}

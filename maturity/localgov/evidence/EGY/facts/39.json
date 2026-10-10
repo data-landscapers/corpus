@@ -1,0 +1,31 @@
+{
+  "slug": "2026-08-07-egypt-ict-sector-development-plan-2025-2026",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Secure, closed government network",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "A priority infrastructure project of the 2025/2026 development plan, with upgrades to connectivity 'across Egypt's administrative institutions'; no local government office is named"
+    },
+    {
+      "system": "Digital Egypt services platform",
+      "country_label": "",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "National; modernisation supported by the 2025/2026 plan"
+    },
+    {
+      "system": "Postal offices developed into integrated service centres",
+      "country_label": "",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "200 postal offices planned for conversion in 2025/2026"
+    }
+  ],
+  "note": "Minister's presentation of the 2025/2026 ICT plan (EGP 13 billion, 9 billion from the state budget). It names a closed government network but puts no local government office on it, so no fact."
+}

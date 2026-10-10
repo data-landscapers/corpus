@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "PFM information systems", "country_label": "PFM information systems operated by the Ministry of Finance", "class": "central", "platform": "", "owner": "Ministry of Finance; modernised under the World Bank's Mauritania Public Sector Governance Project (P146804)", "tiers": "the Ministry of Finance; no local government named"},
+    {"system": "online service portal", "country_label": "online service portal", "class": "", "platform": "", "owner": "MTNIMA; expected to be funded by the World Bank in 2023", "tiers": "national, planned as at March 2023"}
+  ],
+  "note": "The brief places Mauritania in GTMI group D (0.187 in 2022) and describes the national digital agenda 2022-2025, the ANRPTS identity card and the finance ministry's systems; its statements on local governments and municipal councils are Cabo Verde's and a region-wide recommendation, and nothing is said of Mauritanian local government."
+}

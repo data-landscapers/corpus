@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-26-nita-uganda-digital-skills-framework-reoi",
+  "facts": [],
+  "systems": [
+    {"system": "Uganda Digital Acceleration Project - Government Network (UDAP-GovNet)", "country_label": "UDAP-GOVNET", "class": "backbone", "platform": "", "owner": "NITA-U for the Government of Uganda, financed by the World Bank (project P171305, loan IDA-68980)", "tiers": "not stated"}
+  ],
+  "note": "A procurement notice for a national digital skills framework under UDAP-GovNet; the government network appears only in the project's name, and no local government is mentioned."
+}

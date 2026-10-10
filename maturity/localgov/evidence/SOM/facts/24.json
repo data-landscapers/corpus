@@ -1,0 +1,10 @@
+{
+  "slug": "2023-06-21-eardip-somalia-financing-agreement",
+  "facts": [],
+  "systems": [
+    {"system": "Government network", "country_label": "the government network", "class": "backbone", "platform": "", "owner": "Federal Republic of Somalia; Ministry of Communication and Technology chairs the project's steering committee", "tiers": "to be upgraded and expanded under Part 1.2(a) of a World Bank (IDA) grant of SDR 59.5 million signed 21 June 2023, with a network operations centre, pre-purchased bandwidth for public institutions and fibre deployment; 'public institutions along fiber routes' to be connected, none of them named as a local government; the same for Somaliland under Part 1.2(b)"},
+    {"system": "National backbone network", "country_label": "national backbone network infrastructure", "class": "backbone", "platform": "", "owner": "Federal Republic of Somalia, through sub-projects with operators", "tiers": "cross-border terrestrial links and national backbone, with a separate allocation for Somaliland; closing date 31 May 2028"},
+    {"system": "Government data hosting", "country_label": "", "class": "backbone", "platform": "hybrid cloud and on-premises", "owner": "Federal Republic of Somalia", "tiers": "consolidated hosting for government, to be financed under Part 2.2(b); the same for Somaliland"}
+  ],
+  "note": "The financing agreement funds an expanded government network and the connection of 'public institutions along fiber routes' but names no local government office among them, so it describes a backbone and gives no fact about office connection."
+}

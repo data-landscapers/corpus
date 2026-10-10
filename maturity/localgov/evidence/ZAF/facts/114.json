@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-09-emfuleni-procurement-plan-reporting-q2-2025-26",
+  "facts": [],
+  "systems": [
+    {"system": "In-house server-based electronic records management system", "country_label": "electronic records management system", "class": "application", "platform": "", "owner": "Emfuleni Local Municipality; supplied, installed and maintained by PTP Integrated", "tiers": "one local municipality (Emfuleni, Gauteng); contract 21 October 2025 to 21 October 2028, R15,391,380.42"},
+    {"system": "AMR system for electricity large power users", "country_label": "AMR System", "class": "application", "platform": "", "owner": "Emfuleni Local Municipality; provided and managed by Power Metering Technics (Pty) Ltd, a sole-provider deviation", "tiers": "one local municipality (Emfuleni); contract 20 October 2025 to 20 October 2026"}
+  ],
+  "note": "A municipal procurement report: a records system and a metering system awarded, both applications. No connection of the municipality's offices is stated."
+}

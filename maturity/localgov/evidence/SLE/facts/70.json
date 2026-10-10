@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-10-sierra-leone-mocti-wardip-sop2-stakeholder-engagement-plan",
+  "facts": [],
+  "systems": [
+    {"system": "National terrestrial fibre backbone", "country_label": "national terrestrial fiber backbone", "class": "backbone", "platform": "", "owner": "Leonecom, private partner managing it", "tiers": "national; no local council office said to be on it"},
+    {"system": "Second submarine cable and landing station", "country_label": "Second Submarine Cable Landing Station", "class": "backbone", "platform": "", "owner": "Ministry of Communication, Technology and Innovation, through a special purpose vehicle with private partners; World Bank WARDIP SOP2 financing", "tiers": "planned international connectivity; no local council office said to be on it"},
+    {"system": "ACE submarine cable", "country_label": "Africa Coast to Europe (ACE) submarine cable system", "class": "backbone", "platform": "", "owner": "Zoodlabs, private partner managing it", "tiers": "the country's single international cable"}
+  ],
+  "note": "A stakeholder engagement plan for a second submarine cable; local councils appear as stakeholders, grievance committee members and sites of grievance boxes, and nothing is stated about a local council office's connection."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2023-02-01-mint-assessment-provision-e-government-services",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WoredaNet",
+      "country_label": "WoredaNet, the government data network (also called the Government Backbone Network)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government of Ethiopia; the assessment is the Ministry of Innovation and Technology's",
+      "tiers": "not stated; in February 2023 said to be running at low capacity and unable to support secure day-to-day government transactions, with its upgrade recommended (R3.3)"
+    },
+    {
+      "system": "E-Services Portal",
+      "country_label": "E-Services Portal",
+      "class": "central",
+      "platform": "built by the vendor Perago",
+      "owner": "Ministry of Innovation and Technology",
+      "tiers": "national, launched 2010; services of eight federal ministries and departments onboarded; runs on obsolete servers"
+    },
+    {
+      "system": "Government Integrated Data Center",
+      "country_label": "Government Data Center / National Data Center",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government of Ethiopia",
+      "tiers": "national; not equipped for growing transactional data; no business continuity or disaster recovery plan"
+    }
+  ],
+  "note": "The assessment (Tony Blair Institute for the ministry, February 2023) describes WoredaNet as the government data network and finds it at low capacity, but does not say that woreda offices are on it or how many; it is a backbone here and gives no fact."
+}

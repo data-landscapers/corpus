@@ -1,0 +1,9 @@
+{
+  "slug": "2025-03-01-mrt-dgi-plan-strategique-2025-2029-jibaya-teledeclaration",
+  "facts": [],
+  "systems": [
+    {"system": "base tiers nationale", "country_label": "base tiers nationale partagée entre tous les acteurs des chaînes financières (Etat / Collectivités locales), basée sur le NIF", "class": "central", "platform": "", "owner": "Direction Générale des Impôts", "tiers": "national; an action of the 2021-2025 public finance reform plan reported 80% done in March 2025; local authorities named as one party to share it"},
+    {"system": "Jibaya", "country_label": "système d'information Jibaya", "class": "central", "platform": "", "owner": "Direction Générale des Impôts", "tiers": "the national tax administration"}
+  ],
+  "note": "The tax administration's 2025-2029 strategic plan (held as an excerpt cut off in Axe 2) concerns the DGI's own systems; local authorities appear once, as a party to a planned shared national third-party register, and nothing is stated about any commune office's connection or systems."
+}

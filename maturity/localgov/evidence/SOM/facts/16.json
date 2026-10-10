@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Government network", "country_label": "the government network", "class": "backbone", "platform": "", "owner": "Ministry of Communications and Technology (the strategy's author)", "tiers": "listed as a project for common e-government infrastructure: rollout of the national broadband network and continuous improvement of the government network; no tier or office named"},
+    {"system": "Somalia National Data Center (SNDC)", "country_label": "SNDC", "class": "backbone", "platform": "", "owner": "", "tiers": "proposed; cloud infrastructure for all government services"},
+    {"system": "National Enterprise Service Bus (NESB)", "country_label": "NESB", "class": "backbone", "platform": "", "owner": "", "tiers": "proposed; integration of ministry and agency applications"}
+  ],
+  "note": "The passage held lists the government network, a national data centre and a service bus as planned common infrastructure for 2025-2029; it names no local government office as on or to be put on the network, so the strategy gives no fact about office connection."
+}

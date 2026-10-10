@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-05-mandoul-autorites-formees-au-sigfip-outils-numeriques-fiscaux",
+  "facts": [],
+  "systems": [
+    {"system": "Système intégré de gestion des finances publiques (SIGFIP)", "country_label": "SIGFIP", "class": "application", "platform": "developed under a Rwanda-Chad cooperation agreement", "owner": "Ministère des Finances, du Budget, de l'Économie, du Plan et de la Coopération internationale", "tiers": "operational since 2021 in the execution of the state budget; credit administrators of autonomous local authorities and deconcentrated state structures in Mandoul trained on it at Koumra, 2026-05-04/05"},
+    {"system": "E-TAX", "country_label": "E-TAX", "class": "central", "platform": "developed under a Rwanda-Chad cooperation agreement", "owner": "Direction générale des impôts", "tiers": "same training; operational since 2021 per the director general of taxes"},
+    {"system": "Facturation électronique normalisée (FEN)", "country_label": "FEN", "class": "central", "platform": "developed under a Rwanda-Chad cooperation agreement", "owner": "Direction générale des impôts", "tiers": "same training"},
+    {"system": "Training of credit administrators of local authorities on SIGFIP, E-TAX and FEN", "country_label": "session de formation", "class": "capacity", "platform": "", "owner": "finance ministry", "tiers": "Mandoul province, at Koumra, 2026-05-04/05; no participant count"}
+  ],
+  "note": "Training of local authorities' credit administrators on the state's finance systems; the document says the systems run in the execution of the state budget and does not say that local authorities work in them from their own offices, nor how those offices are connected."
+}

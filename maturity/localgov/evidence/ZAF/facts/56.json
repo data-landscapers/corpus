@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-south-africa-iec-women-online-voter-registration",
+  "facts": [],
+  "systems": [
+    {"system": "Online voter registration portal", "country_label": "online self-service portal", "class": "central", "platform": "", "owner": "Electoral Commission of South Africa (IEC)", "tiers": "national, used by voters; about 603,000 of more than 815,000 transactions after the June 2026 registration weekend"}
+  ],
+  "note": "The national electoral commission's online voter registration ahead of the local government elections; municipal councils are named only as what is elected. Nothing on any municipal office's connection."
+}

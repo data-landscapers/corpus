@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-30-ken-muranga-starlink-telemedicine",
+  "facts": [],
+  "systems": [
+    {"system": "Starlink satellite internet at Murang'a public health facilities", "country_label": "Starlink satellite internet", "class": "", "platform": "Starlink", "owner": "Murang'a County Government, with Paratus Group as installer and service provider", "tiers": "all 170 public health facilities of Murang'a County; nearby schools, churches and institutions may subscribe through the county"},
+    {"system": "Telemedicine system", "country_label": "Telemedicine Hub at Muriranjas Hospital", "class": "", "platform": "", "owner": "Murang'a County Government", "tiers": "Murang'a County public health facilities"}
+  ],
+  "note": "The connection stated is at the county's 170 public health facilities, launched 28 May 2026, not at the county government's own offices; no typology class fits a health-facility connection, so class is left empty and no fact is taken."
+}

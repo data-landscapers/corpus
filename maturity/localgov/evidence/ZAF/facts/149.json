@@ -1,0 +1,8 @@
+{
+  "slug": "2024-11-29-zaf-quality-of-routine-health-data-in-dhis2-in-south-africa-eastern-cape-p",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information System (DHIS2)", "country_label": "DHIS2 / WebDHIS", "class": "upper-tier", "platform": "DHIS2", "owner": "Eastern Cape Department of Health, on the National Department of Health's instruction", "tiers": "all public health facilities of the Eastern Cape, reporting to district, provincial and national offices"}
+  ],
+  "note": "A study of health-facility data quality in a provincial health department's system. Municipalities appear only as the province's geography (eight district municipalities, two of them metropolitan). Nothing on any municipal office's connection."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2022-11-01-cabo-verde-mcc-evaluation-lmits-land-management-information-system",
+  "facts": [],
+  "systems": [
+    {"system": "Land Management, Information and Technology System (LMITS)", "country_label": "LMITS", "class": "application", "platform": "", "owner": "National Land Management Institute", "tiers": "integrated into the land transaction process, which runs through the notary, the municipality and the registry; project islands Sal, Boa Vista, São Vicente and Maio"}
+  ],
+  "note": "The evaluation says transaction time was not consistently reduced at the notary or the municipality after the compact (2018-2021), naming internet connectivity among the barriers there, but it does not say how, or whether, the municipal office is connected, nor that municipal staff work in LMITS; no value of any aspect is stated."
+}

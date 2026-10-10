@@ -1,0 +1,23 @@
+{
+  "slug": "2018-10-10-sgg-decret-2018-471-dematerialisation-etat-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "fichier central de l'état civil",
+      "country_label": "fichier central de l'état civil",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification des Personnes (ANIP)",
+      "tiers": "National central file to be built by ANIP from birth records created digitally and from the scanning of the paper registers held in civil-status centres (decree of 10 October 2018); commune civil-status officers sign the records, where a digitised signature may be used. No commune office is said to work in it."
+    },
+    {
+      "system": "registre national biométrique de la population",
+      "country_label": "base de données du registre national biométrique de la population",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification des Personnes (ANIP)",
+      "tiers": "National; extracts of birth records are issued by ANIP or its departmental or communal representations"
+    }
+  ],
+  "note": "A decree: it authorises digital civil registration and the scanning of paper registers by a national agency, and states nothing about commune offices being connected. A law places nothing."
+}

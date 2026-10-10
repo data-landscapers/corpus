@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-02-egypt-development-plan-digital-transformation-population-file",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic birth and death registration system",
+      "country_label": "منظومة تسجيل المواليد والوفيات إلكترونيًا",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of Health and Population and the bodies concerned",
+      "tiers": "Nationwide ('على مستوى الجمهورية'), per the 2026/27 development plan; no local government office is named as a user"
+    }
+  ],
+  "note": "News report on the 2026/27 development plan's population chapter: a ministry-run registration system and digital databases used to assess governorates. No local government office is said to be connected."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-05-burkina-g-cloud-portal",
+  "facts": [],
+  "systems": [
+    {"system": "Cloud gouvernemental (G-Cloud)", "country_label": "G-Cloud", "class": "backbone", "platform": "NetApp array and cloudFS storage; Oracle business applications", "owner": "ANPTIC", "tiers": "8 cloud nodes in 4 datacentres; the portal says it is accessible in, and connects, 354 communes (undated, as displayed 2026-08-05)"},
+    {"system": "Messagerie collaborative de l'Administration, téléphonie IP, annuaire gov.bf, partage documentaire", "country_label": "services de base du G-Cloud", "class": "backbone", "platform": "Active Directory", "owner": "ANPTIC", "tiers": "the administration; no tier stated"}
+  ],
+  "note": "No fact: the portal says the cloud 'raccorde 354 communes' and is 'accessible dans 354 communes', undated, without saying that any commune's office or mairie is on it or works over it; classed backbone under the study's test. The parent should know this is the one figure here that would become a connection fact if 'communes raccordées' were read as offices."
+}

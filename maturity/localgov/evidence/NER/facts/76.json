@@ -1,0 +1,23 @@
+{
+  "slug": "2022-10-01-niger-strategie-nationale-agriculture-numerique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Projet Villages Intelligents (PVI) community centres",
+      "country_label": "centres communautaires; Projet Villages Intelligents (PVI)",
+      "class": "public-access",
+      "platform": "",
+      "owner": "ANSI",
+      "tiers": "150 community centres planned in target communes, a first tranche of rural communes to be equipped 2023-2027; for residents' access to digital services in agriculture, health, education and water"
+    },
+    {
+      "system": "Système d'Information Géographique sur les Communes (SIGCOM)",
+      "country_label": "SIGCOM",
+      "class": "",
+      "platform": "",
+      "owner": "implementation listed as DSEC and DGAT",
+      "tiers": "named for scaling up in 2023-2024 with no description of what it does or where it is used"
+    }
+  ],
+  "note": "Digital agriculture strategy of October 2022 (passages); communes appear as the geography of agricultural platforms, mobile coverage and planned community centres. It states nothing about any commune office's own connection, and local governments are named only as beneficiaries of rural land information systems."
+}

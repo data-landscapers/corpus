@@ -1,0 +1,8 @@
+{
+  "slug": "2022-09-01-worldbank-missing-broadband-links-horn-of-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Sudatel East-Central and West-Central backbone routes", "country_label": "Sudatel terrestrial fiber routes", "class": "backbone", "platform": "", "owner": "Sudatel (Sudan Telecom Company)", "tiers": "national operator backbone running towards South Sudan; previously operational, not operational for cross-border traffic as at 2022"}
+  ],
+  "note": "Passages naming Sudan in a regional broadband study: submarine cable landings at Port Sudan and Sudatel's backbone routes only; no government office, and no local government, is said to be connected."
+}

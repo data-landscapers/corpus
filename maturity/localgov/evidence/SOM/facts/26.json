@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
+  "facts": [],
+  "systems": [
+    {"system": "Cloud-based public finance, human resources and pension systems", "country_label": "FMIS, tax, customs, human resources management and pension systems", "class": "central", "platform": "cloud-based, products not named", "owner": "Federal Government of Somalia and the states, supported by the World Bank's Somalia Enhancing Public Resource Management Project (US$75 million, 2023-2027)", "tiers": "federal government and state levels; described in March 2023 as developed or under development, fragmented and not yet interoperable"}
+  ],
+  "note": "A World Bank regional brief; what it says of Somalia concerns its index group and finance systems at federal and state level, and its remarks on local governments are about Tanzania and Uganda or are general recommendations."
+}

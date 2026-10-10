@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-16-slixp-feasibility-study-completed",
+  "facts": [],
+  "systems": [
+    {"system": "Sierra Leone Internet Exchange Point (SLIXP)", "country_label": "SLIXP", "class": "backbone", "platform": "", "owner": "Ministry of Communication, Technology and Innovation, supported by the Sierra Leone Digital Transformation Project", "tiers": "national; feasibility study complete, not yet built, August 2025"}
+  ],
+  "note": "The completion of a feasibility study for a national internet exchange point; nothing on local governments or their offices."
+}

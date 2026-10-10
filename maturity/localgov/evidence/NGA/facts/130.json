@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-22-lagos-drives-digital-revolution-primary-healthcare",
+  "facts": [],
+  "systems": [
+    {"system": "Local Electronic Medical Records (LEMR) system", "country_label": "LEMR", "class": "application", "platform": "", "owner": "Ojodu Local Council Development Area", "tiers": "primary health centres in Ojodu LCDA, Lagos; pilot begun at Ogba PHC with trained IT staff, upgraded hardware and fibre-optic internet at the health centre, as its chairman said on 22 May 2025"},
+    {"system": "Lagos PHC Digitization Project electronic medical records", "country_label": "Digital-Enabled PHC Project", "class": "upper-tier", "platform": "Talamus EMR", "owner": "Lagos State Primary Health Care Board, with the Clinton Health Access Initiative and Gates Foundation support", "tiers": "100 of the state's 326 primary health care facilities"},
+    {"system": "Lagos Smart Health Information Platform (SHIP)", "country_label": "SHIP", "class": "upper-tier", "platform": "", "owner": "Lagos State Primary Health Care Board", "tiers": "planned; to synchronise patient data across primary, secondary and tertiary facilities in Lagos State"}
+  ],
+  "note": "A state health ministry's account of medical records in primary health centres. One local council (Ojodu LCDA) reports fibre internet at a health centre it is piloting records in; that is a clinic, not the council's own office, so no connection fact is taken."
+}

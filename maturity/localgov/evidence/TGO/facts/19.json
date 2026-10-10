@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-11-togo-golfe2-georeferenced-municipal-data-collection",
+  "facts": [],
+  "systems": [
+    {"system": "Golfe 2 georeferenced census of households and economic activities", "country_label": "recensement géoréférencé des ménages et des activités économiques", "class": "application", "platform": "", "owner": "Commune of Golfe 2 (Grand Lomé), under a push by the Faîtière des communes du Togo (FCT) in the country's 117 communes", "tiers": "One commune, Golfe 2; collection running to 10 October 2026, to build a municipal database of households, traders, businesses and taxpayers"}
+  ],
+  "note": "A commune's data-collection operation and the database it is to build; the document gives the country's count of communes as 117 but states nothing about a connection at the commune's office, so no fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026",
+  "facts": [],
+  "systems": [
+    {"system": "National backbone", "country_label": "", "class": "backbone", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy", "tiers": "nearly 12,000 km of fibre connecting all administrative regions, capacity raised from 50 to 200 Gbps in 2025; no local government office said to be on it"},
+    {"system": "National data centre (Tier 3)", "country_label": "", "class": "backbone", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy", "tiers": "commissioned in 2025; users not stated"},
+    {"system": "Regional digital hubs", "country_label": "", "class": "public-access", "platform": "", "owner": "", "tiers": "20 additional regional hubs under construction"}
+  ],
+  "note": "The minister's review of 2025: backbone, data centre, schools and universities connected and 39 public-service applications; no local government office is said to be connected."
+}

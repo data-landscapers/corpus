@@ -1,0 +1,44 @@
+{
+  "slug": "2024-01-01-tunisie-cni-madania-etat-civil",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Centre National de l'Informatique states that the national civil status system Madania manages all civil status documents on a centralised database and publishes them online, regardless of the place of registration, at municipalities and municipal arrondissements ('municipal counties'), with data transmitted between the user sites; the page is undated, so the document's published date (a proxy year) is used, and no count of municipalities is given.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Madania (municipal sites working on the national civil status database)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Madania, the national civil status system used at municipal sites, is presented by the Centre National de l'Informatique, the state computing centre, among the projects it manages; the page is undated, so the document's published date (a proxy year) is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Madania (municipal sites working on the national civil status database)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Madania",
+      "country_label": "MADANIA, the national civil status system",
+      "class": "application",
+      "platform": "",
+      "owner": "Centre National de l'Informatique (CNI)",
+      "tiers": "Municipalities, municipal arrondissements ('municipal counties') and commercial sites; exchange with the national social security funds"
+    },
+    {
+      "system": "Madania 2",
+      "country_label": "MADANIA 2",
+      "class": "central",
+      "platform": "",
+      "owner": "Centre National de l'Informatique (CNI)",
+      "tiers": "Institutions that request civil status documents, such as social security funds and educational institutions; an objective, not stated as live"
+    }
+  ],
+  "note": "Facts rest on the study's rule that municipal offices working in a national system held elsewhere state a connection; the page does not say how the municipal sites are connected."
+}

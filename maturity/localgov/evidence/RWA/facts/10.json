@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-27-rwanda-decentralisation-digital-delivery-op-ed",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics (CRVS)", "country_label": "CRVS", "class": "application", "platform": "", "owner": "", "tiers": "local governance services, tier not stated"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "", "platform": "", "owner": "", "tiers": "digital service delivery platform established 2015; tier not stated"},
+    {"system": "Mbaza", "country_label": "Mbaza", "class": "web", "platform": "", "owner": "", "tiers": "citizen feedback: concerns submitted and tracked; tier not stated"},
+    {"system": "Social Registry", "country_label": "Social Registry", "class": "application", "platform": "", "owner": "", "tiers": "household and socio-economic data for local planning; tier not stated"}
+  ],
+  "note": "An op-ed by a MINALOC governance expert: equipping Cells with reliable connectivity and digital infrastructure is put as what the next phase should do, not as a statement of what any office has."
+}

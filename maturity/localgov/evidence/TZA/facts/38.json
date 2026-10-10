@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-01-tza-annual-health-statistical-tables-and-figures-2024",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "Electronic Integrated Disease Surveillance and Response system (eIDSR)", "country_label": "eIDSR", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "Health Facility Registry (HFR)", "country_label": "HFR", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "Human Resource for Health Information System (HRHIS)", "country_label": "HRHIS", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "Vaccine Information Management System (VIMS)", "country_label": "VIMS", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"}
+  ],
+  "note": "Passages only. Health statistics tabulated by council; councils appear as rows of antenatal coverage tables, and nothing is said of council offices or their connection."
+}

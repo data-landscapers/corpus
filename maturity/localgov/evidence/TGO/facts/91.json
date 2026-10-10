@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-28-tgo-e-id-togo-6-millions-enregistres",
+  "facts": [],
+  "systems": [
+    {"system": "e-ID Togo national identification register", "country_label": "e-ID Togo; registre national d'identification", "class": "central", "platform": "MOSIP", "owner": "Agence nationale d'identification (ANID)", "tiers": "National; registration by ANID mobile teams region by region. Communes are said to be expected to play a role in keeping the register up to date, with no office connection stated."}
+  ],
+  "note": "News report on the national biometric ID campaign; communes are named only as bodies that should later help keep the register current. Nothing is stated about a connection at any commune office."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-25-tza-nest-digital-procurement-world-bank",
+  "facts": [],
+  "systems": [
+    {"system": "National e-Procurement System (NeST)", "country_label": "NeST", "class": "application", "platform": "developed and maintained by PPRA's own technical team", "owner": "Public Procurement Regulatory Authority (PPRA)", "tiers": "government procurement; no local government tier stated"}
+  ],
+  "note": "National procurement system only; the document says nothing of local government offices or their connection."
+}

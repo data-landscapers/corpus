@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-07-worldbank-dtfa-wardip-sop1-pad4756",
+  "facts": [],
+  "systems": [
+    {"system": "Amilcar Cabral Submarine Cable", "country_label": "Amilcar Cabral Submarine Cable", "class": "backbone", "platform": "submarine cable, public-private partnership", "owner": "ECOWAS project", "tiers": "international link from Cabo Verde to The Gambia, Guinea-Bissau, Guinea, Sierra Leone and Liberia; no local government office stated"}
+  ],
+  "note": "A regional project document for four other countries; Cabo Verde appears as an ECOWAS member and as the origin of a planned submarine cable, with nothing on its local governments."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-angop-caianda-actualizacao-registo-eleitoral",
+  "facts": [],
+  "systems": [
+    {"system": "Balcão Único de Atendimento ao Público (BUAP)", "country_label": "BUAP", "class": "central", "platform": "", "owner": "", "tiers": "Moxico Leste: six working in the municipalities of Cazombo, Luau, Luacano, Nana Candundo, Caianda and Cameia; installed in Macondo, Lago Dilolo and Lóvua do Zambeze but not started, the start depending on technical questions of communication (10 September 2026)"},
+    {"system": "base de dados de cidadãos maiores", "country_label": "base de dados de cidadãos maiores", "class": "central", "platform": "", "owner": "", "tiers": "national; fed by direct transfer from the civil identification database"},
+    {"system": "base de identificação civil", "country_label": "base de identificação civil (Bilhete de Identidade)", "class": "central", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "A report of 10 September 2026 on the opening of the electoral register counter in Caianda; the municipal administrator was its first user, but the counter is the national BUAP network and the article does not say the municipal administration's office is connected. Three of Moxico Leste's nine BUAPs wait on communications."
+}

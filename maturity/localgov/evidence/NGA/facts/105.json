@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind",
+  "facts": [],
+  "systems": [
+    {"system": "Building Resilient Digital Infrastructure for Growth (BRIDGE)", "country_label": "BRIDGE", "class": "backbone", "platform": "90,000 km of fibre, taking the national backbone from 35,000 km to 125,000 km", "owner": "Government of Nigeria; US$500m World Bank financing approved October 2025", "tiers": "when completed, to 'connect every local government', thousands of schools and clinics and agricultural research stations; no local government office said to be on it"},
+    {"system": "Digital Village initiative", "country_label": "Digital Village", "class": "public-access", "platform": "", "owner": "federal government, with the Agric Infrastructure Fund", "tiers": "rural hubs to be equipped with basic internet; a work in progress"}
+  ],
+  "note": "Field report on farmers' identity verification; the fibre project is described as a future network that will reach every local government, with no local government office stated as connected."
+}

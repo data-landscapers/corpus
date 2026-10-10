@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-19-wb-mwi-gesd2-2026-governance-to-enable-service-delivery-2",
+  "facts": [],
+  "systems": [
+    {"system": "GESD 2 performance dashboard", "country_label": "performance dashboard", "class": "application", "platform": "", "owner": "National Local Government Finance Committee, under the World Bank-financed GESD 2 project", "tiers": "to be developed; project covers 32 councils, 28 district and 4 municipal"},
+    {"system": "GESD 2 ICT equipment for councils", "country_label": "ICT equipment", "class": "equipment", "platform": "", "owner": "National Local Government Finance Committee, under the World Bank-financed GESD 2 project", "tiers": "financed under subcomponent 2.1, with software and hardware assessments; no connection stated"},
+    {"system": "Constituency Development Fund dashboard", "country_label": "real-time CDF dashboard", "class": "application", "platform": "", "owner": "", "tiers": "launched 31 July 2026"}
+  ],
+  "note": "A deal record for the US$80 million GESD 2 grant: it finances business-process re-engineering, a performance dashboard and ICT equipment for councils, with no connection of council offices stated."
+}

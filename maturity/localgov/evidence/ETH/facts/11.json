@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-25-birrmetrics-mesob-meets-the-monster-it-was-built-to-kill",
+  "facts": [],
+  "systems": [
+    {"system": "MESOB one-stop service platform and centres", "country_label": "MESOB (Modern Ethiopian Service for Organised Benefits)", "class": "central", "platform": "", "owner": "Federal MESOB Service Center", "tiers": "federal one-stop centre that began with 41 services; extended to Addis Ababa (Addis MESOB), Oromia and other regions, a centre in Dire Dawa, and a solar-powered mobile bus"},
+    {"system": "Regional MESOB services", "country_label": "Oromia MESOB and other regional MESOB offices", "class": "upper-tier", "platform": "", "owner": "regional MESOB executives", "tiers": "regions; tethered to the separate systems of the institutions, where in Addis Ababa MESOB has absorbed institutions' systems"},
+    {"system": "national data exchange platform", "country_label": "national data exchange platform", "class": "", "platform": "", "owner": "approved by a board established by the prime minister", "tiers": "approved, not built"}
+  ],
+  "note": "The article concerns one-stop service centres run by federal, city and regional MESOB bodies and how institutions' services are integrated; it names no woreda or city administration office and states nothing on any office's connection."
+}

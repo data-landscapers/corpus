@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-adca-economic-report-data-centres-in-africa",
+  "facts": [],
+  "systems": [
+    {"system": "PNDN", "country_label": "PNDN", "class": "backbone", "platform": "", "owner": "government-sponsored national data centre project", "tiers": ""}
+  ],
+  "note": "Names Togo's PNDN only as a government-sponsored national data centre project; nothing on local government offices or their connection."
+}

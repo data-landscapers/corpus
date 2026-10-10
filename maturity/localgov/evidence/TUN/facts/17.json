@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The compilation states that registrars at municipal civil status bureaus record events by hand in paper registers and then transcribe them into the national Madania digital system, a central database; it gives no date for this, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Madania (municipal civil status offices interconnected)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:350",
+      "fact": "The compilation, citing the Centre of Excellence for CRVS Systems, states that civil status digitisation began in major municipalities in the 1980s and reached full national rollout by 2005, interconnecting all of more than 350 principal and subsidiary offices; the count is of offices, not of municipalities, and no denominator of municipalities is given.",
+      "as_of": "2005",
+      "date_precision": "year",
+      "system": "Madania (municipal civil status offices interconnected)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Madania",
+      "country_label": "national Madania digital system",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "Municipal civil status bureaus, principal and subsidiary offices, annexes and mobile units; more than 350 offices"
+    }
+  ],
+  "note": "This source is on study.json's exclude_sources list (an AI-assisted compilation, not sourced fact); its facts are recorded as the document states them, for the parent to set aside."
+}

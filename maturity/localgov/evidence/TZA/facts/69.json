@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-10-tza-dailynews-integrate-primary-healthcare-digital-systems",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Community health worker registration, payment and information-management systems, with a planned joint dashboard",
+      "country_label": "blueprint for the use of technology in community health worker services",
+      "class": "application",
+      "platform": "designed, developed and managed by local experts",
+      "owner": "Government; stated by the Director of ICT at PMO-RALG",
+      "tiers": "Community level to national level (planned dashboard)"
+    }
+  ],
+  "note": "The article reports PMO-RALG's ICT director speaking in Arusha on 10 September 2026 about integrating primary healthcare systems and a planned dashboard; local government appears only in the office's name, and nothing is stated about council offices or their connection."
+}

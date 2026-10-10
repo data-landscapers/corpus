@@ -1,0 +1,11 @@
+{
+  "slug": "2025-05-01-lbr-undp-liberia-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "County Service Centers", "country_label": "County Service Centers (CSCs)", "class": "central", "platform": "", "owner": "Government of Liberia, supported by UNDP's Liberia Decentralization Support Programme", "tiers": "counties; around 15 services across various counties; solar power reactivated at the Grand Kru and Lofa centres"},
+    {"system": "County treasuries", "country_label": "county treasuries", "class": "central", "platform": "", "owner": "", "tiers": "all 15 counties, as the programme's aim"},
+    {"system": "Vehicle and Driver's License Hub", "country_label": "", "class": "central", "platform": "", "owner": "Ministry of Transport", "tiers": "Ganta City, Nimba County"},
+    {"system": "Crime Statistics Information Management System and online case management system", "country_label": "", "class": "central", "platform": "", "owner": "Liberia National Police and the Judiciary, supported by UNDP", "tiers": "police nationwide; judicial case system in Montserrado County"}
+  ],
+  "note": "UNDP's account of 2024 names County Service Centers, county treasuries and a transport ministry hub, which are central field services; it states no connection at a county administration's or other local government's own office."
+}

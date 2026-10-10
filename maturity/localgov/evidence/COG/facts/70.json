@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi",
+  "facts": [],
+  "systems": [
+    {"system": "Data Center National", "country_label": "Data Center National (DCA)", "class": "backbone", "platform": "", "owner": "the state; MPTEN, ADEN and ARPCE named among the actors", "tiers": "national hosting layer for the planned architecture; no local government office said to be on it"},
+    {"system": "Interoperability layer of the national digital architecture", "country_label": "Échanges et interopérabilité", "class": "backbone", "platform": "X-Road", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique", "tiers": "central administrations: Interior, Justice, Finance, Health, Higher Education and other institutions; described prospectively, no local government named"},
+    {"system": "Portail e-Citizen", "country_label": "Portail e-Citizen", "class": "central", "platform": "", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique", "tiers": "national single entry point to state online services, including civil-status services; described prospectively"},
+    {"system": "National digital identity", "country_label": "Identité numérique", "class": "central", "platform": "MOSIP", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique", "tiers": "national; identifier to be issued from existing civil-status registers; described prospectively"}
+  ],
+  "note": "The digital ministry's statement of the planned national digital public infrastructure; the term hit is the adjective 'communes'. It names no local government and states nothing on the connection of local government offices."
+}

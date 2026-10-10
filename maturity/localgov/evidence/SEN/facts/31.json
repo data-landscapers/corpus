@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-10-procasef-dodel-remise-10318-titres-affectation",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information Foncière Communal (SIFCOM)", "country_label": "SIFCOM", "class": "application", "platform": "", "owner": "PROCASEF, with World Bank support", "tiers": "communal land information system; announced on 2026-07-09 as to be deployed in the commune of Dodel (Podor), with a land office to be built"},
+    {"system": "NICAD", "country_label": "NICAD (numéro d'identification cadastrale)", "class": "", "platform": "", "owner": "", "tiers": "the system in which 10,318 allocation titles for Dodel were approved; not described"}
+  ],
+  "note": "A handover of land allocation titles in one commune; the communal land system and land office are announced, not in place, and no connection of the town hall is stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2021-05-31-decreto-presidencial-135-21-estatuto-organico-do-infosi",
+  "facts": [],
+  "systems": [
+    {"system": "Rede Privativa do Estado", "country_label": "Rede Privativa do Estado", "class": "backbone", "platform": "satellite, fibre-optic and wireless links", "owner": "INFOSI, under the telecommunications ministry", "tiers": "the state's administrative network, serving public bodies generally; the statute gives INFOSI technical support duties to ministerial departments and provincial governments and names no municipal office on the network"},
+    {"system": "Centro Nacional de Dados", "country_label": "Centro Nacional de Dados", "class": "backbone", "platform": "", "owner": "INFOSI", "tiers": "national"},
+    {"system": ".AO domain and GOV.AO subdomain infrastructure", "country_label": "Domínio AO / Subdomínio GOV.AO", "class": "backbone", "platform": "", "owner": "INFOSI", "tiers": "national"}
+  ],
+  "note": "An organic statute of 31 May 2021 giving INFOSI the running of the state's private network and data centre, with provincial departments; it is a law, names no local government office as connected, and the held text is cut off at Article 22."
+}

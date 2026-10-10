@@ -1,0 +1,15 @@
+{
+  "slug": "2019-10-01 E-Government Systems Interoperability Challenges - Public Sector in Rwanda (Mugumya, MSc thesis)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Population Registry",
+      "country_label": "NPR",
+      "class": "application",
+      "platform": "",
+      "owner": "National Identification Agency (NIDA)",
+      "tiers": "national; seven integration points with other agencies' systems as of 2019"
+    }
+  ],
+  "note": "A companion page summarising a 2019 thesis on interoperability between eight agencies' systems, among them MINALOC, LODA and the City of Kigali; it names none of their systems and says nothing about the connection of local government offices."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-19-cpv-nota-esclarecimento-plataforma-eletronica-contratacao-publica",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma Eletrónica de Contratação Pública", "country_label": "Plataforma Eletrónica de Contratação Pública (portal oficial de compras públicas)", "class": "application", "platform": "ACIN-iCloud Solutions (new platform, awarded; CVE 70,000,000 over four years)", "owner": "Government of Cabo Verde (Ministry of Finance), to be deployed on national infrastructure", "tiers": "central administration since 2020; in 2025 the requirements were redefined to extend it to local administration and to autonomous services and funds, an extension stated as a need and not as done"}
+  ],
+  "note": "The e-procurement platform is central government's, with extension to local administration stated only as the reason for the 2025 re-tender; no municipal office is said to work in it or to be connected."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "application", "platform": "DHIS2", "owner": "", "tiers": "County Health Departments transcribe clinics' paper monthly reports into it; also state level"},
+    {"system": "EMIS", "country_label": "National EMIS", "class": "central", "platform": "", "owner": "", "tiers": "aggregated manually at state level from schools' paper records"},
+    {"system": "SSSAMS", "country_label": "SSSAMS", "class": "central", "platform": "SMS-based attendance reporting", "owner": "donor-funded GESS project, 2013-2020", "tiers": "schools; still partially used"}
+  ],
+  "note": "The South Sudan rows describe paper records at rural clinics, schools, police stations and civil registry offices; the document does not say whether County Health Departments are local government offices or how they are connected, so no fact on the office connection of local governments is taken."
+}

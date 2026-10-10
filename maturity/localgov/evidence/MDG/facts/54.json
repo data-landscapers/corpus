@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-studia-inc-civil-registration-digitisation-madagascar",
+  "facts": [],
+  "systems": [
+    {"system": "EC-MADA civil-register digitisation", "country_label": "EC-MADA", "class": "application", "platform": "AI-assisted OCR and indexing by Studia Inc", "owner": "national EC-MADA programme; contractor Studia Inc", "tiers": "nearly 10 million civil registration records inventoried, digitised and indexed, covering 1,695 communes across 11 priority regions, by the vendor's own account"}
+  ],
+  "note": "The satellite connectivity named belongs to the contractor's autonomous mobile digitisation units, not to commune offices; no commune office connection is stated."
+}

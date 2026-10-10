@@ -1,0 +1,9 @@
+{
+  "slug": "2019-01-01-crvs-kenya-country-snapshot",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics System (CRVSS)", "country_label": "CRVSS", "class": "central", "platform": "web-based electronic system", "owner": "Civil Registration Services, Ministry of Interior and Coordination of National Government", "tiers": "some local civil registration offices; piloted in a number of counties, rollout under way, with sub-counties still sending records to headquarters on CDs and flash discs"},
+    {"system": "Huduma Centres", "country_label": "Huduma Centres", "class": "central", "platform": "integrated technology platform linked to the Integrated Population Registration System", "owner": "Government of Kenya", "tiers": "one-stop citizen service centres operating in most of the counties"}
+  ],
+  "note": "Civil registration in Kenya is run by a national service through its own local offices, assistant chiefs and health facilities, so its systems are a ministry's field offices; counties appear as places, and the one mention of municipalities is the 1928 law. Nothing on county governments' own offices."
+}

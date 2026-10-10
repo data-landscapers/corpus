@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-20-sudantribune-shurtat-almurur-bayanat-marakib",
+  "facts": [],
+  "systems": [
+    {"system": "traffic licensing centres and the national vehicle register", "country_label": "مراكز الترخيص; قاعدة بيانات المركبات", "class": "central", "platform": "", "owner": "General Administration of Traffic, Sudan Police", "tiers": "63 licensing centres, with 9 more opened since the war; backup data centres inside the states and abroad"},
+    {"system": "traffic lights and surveillance cameras in Khartoum State", "country_label": "إشارة ضوئية; كاميرا مراقبة", "class": "central", "platform": "", "owner": "Khartoum State Traffic Authority, Sudan Police", "tiers": "Khartoum State: 27 traffic lights maintained and 20 cameras installed"}
+  ],
+  "note": "The national traffic police's 2026 plan and recovered vehicle register, reported 20 July 2026; these are a national agency's own offices and systems, and no local government office is named."
+}

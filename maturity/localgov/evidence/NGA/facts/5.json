@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-01-nga-zikoko-yiaga-africa-tinubu-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre optic network (145,000 km of cable said to be laid)", "country_label": "fibre optic cable / broadband infrastructure", "class": "backbone", "platform": "", "owner": "Federal Government", "tiers": "national; the article says only 27% of rural local government areas are connected against a 60% target"}
+  ],
+  "note": "Reporting a Yiaga Africa brief, the article says only 27% of rural LGAs are connected against a 60% target and that about 27% of local governments have reliable connectivity; this is network coverage of the areas, with no local government office said to be on it, so it is a backbone entry and gives no fact. No date is given for the 27% figure (article published 2026-10-01)."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {"system": "West African Police Information System (WAPIS)", "country_label": "WAPIS", "class": "central", "platform": "", "owner": "Liberia's law enforcement agencies, under INTERPOL's programme funded by the European Union", "tiers": "first batch of equipment handed over in Liberia on 5 July 2019; data collection and registration centre being prepared"}
+  ],
+  "note": "A police information system newsletter; 'local authorities' here means the national authorities of Liberia and The Gambia, and nothing is stated on local government offices."
+}

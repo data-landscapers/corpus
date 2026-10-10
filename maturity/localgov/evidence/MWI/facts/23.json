@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31-worldbank-malawi-gesd2-pad-p508024",
+  "facts": [],
+  "systems": [
+    {"system": "GESD 2.0 performance dashboard", "country_label": "performance dashboard", "class": "application", "platform": "", "owner": "National Local Government Finance Committee, financed by the World Bank (IDA)", "tiers": "to be developed under subcomponent 2.1; project covers 32 councils, 28 district and 4 municipal, and also supports city councils"},
+    {"system": "GESD 2.0 ICT equipment", "country_label": "select information communication technology (ICT) equipment", "class": "equipment", "platform": "", "owner": "National Local Government Finance Committee, financed by the World Bank (IDA)", "tiers": "to be purchased under subcomponent 2.1, with software and hardware assessments; recipients and any connection not stated"}
+  ],
+  "note": "An extract of the appraisal document of 31 March 2026: the digital content is business-process re-engineering, software and hardware assessments, a performance dashboard and select ICT equipment; no connection of council offices is stated."
+}

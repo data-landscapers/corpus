@@ -1,0 +1,15 @@
+{
+  "slug": "2021-06-01 The Irembo model in Rwanda",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Irembo",
+      "country_label": "Irembo; irembo.gov single window platform",
+      "class": "web",
+      "platform": "Irembo",
+      "owner": "Irembo, a private company in which the Government of Rwanda holds a stake, under a 25-year agreement",
+      "tiers": "national; over 100 services online; 4,000 agents around the country"
+    }
+  ],
+  "note": "An interview with Irembo's chief executive on the platform's business model; 'local governments' appears only as a future customer for a toolkit, and nothing is stated about the connection of local government offices."
+}

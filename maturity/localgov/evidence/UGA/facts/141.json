@@ -1,0 +1,10 @@
+{
+  "slug": "2023-11-01-uganda-g2p-payment-mechanisms-feasibility-study",
+  "facts": [],
+  "systems": [
+    {"system": "IFMS", "country_label": "Integrated Financial Management System (IFMS)", "class": "application", "platform": "", "owner": "Government of Uganda; the Ministry of Finance, Planning and Economic Development among those consulted", "tiers": "the study speaks of 'district-level IFMS' as a system social protection payments could be integrated into; which districts use it is not stated in the captured part"},
+    {"system": "E-Cash", "country_label": "Electronic Cash (E-Cash)", "class": "", "platform": "", "owner": "Government of Uganda", "tiers": "named as a government payment platform for mobile money payments; tiers not stated"},
+    {"system": "BBS-Connect", "country_label": "BBS-Connect (Bank of Uganda Banking System)", "class": "", "platform": "", "owner": "Bank of Uganda", "tiers": "named as the central bank's core banking system that IFMS connects to; tiers not stated"}
+  ],
+  "note": "A feasibility study of paying social grants through government payment systems, captured as an excerpt cut off in section 1.2, before its sections on local government processes and capacity; the captured part proposes use of district-level IFMS and reports no local government office's connection or use."
+}

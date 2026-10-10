@@ -1,0 +1,8 @@
+{
+  "slug": "2022-10-01-raxio-cote-divoire-grand-bassam-esia-executive-summary",
+  "facts": [],
+  "systems": [
+    {"system": "Raxio Abidjan data center", "country_label": "Data center de Grand-Bassam", "class": "backbone", "platform": "", "owner": "Raxio Data Centre SARL, a private operator", "tiers": "commercial colocation in the VITIB free zone at Grand-Bassam; no local government office said to use it"}
+  ],
+  "note": "An environmental impact summary for a private data centre: the Mairie de Grand-Bassam appears only as a stakeholder consulted, giving a favourable opinion with reservations."
+}

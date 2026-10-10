@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-26-2026-budget-address-gwan-local-authorities",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:80.2%", "fact": "The finance minister told the National Assembly that 93 local authorities had so far been connected to the Government Wide Area Network, in a paragraph that counts 116 councils (93 of 116), alongside 79 district administration offices and 29 schools, 438 sites cumulatively.", "as_of": "2025-09-26", "date_precision": "day", "system": "Government Wide Area Network", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The budget address says Government continued to roll out the Government Wide Area Network to public institutions and had connected 93 local authorities to it.", "as_of": "2025-09-26", "date_precision": "day", "system": "Government Wide Area Network", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "internet", "fact": "The budget address gives the purpose of connecting 93 local authorities to the Government Wide Area Network only as improving public service delivery; no use is named.", "as_of": "2025-09-26", "date_precision": "day", "system": "Government Wide Area Network", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The finance minister describes the roll-out of the Government Wide Area Network to local authorities as Government's own.", "as_of": "2025-09-26", "date_precision": "day", "system": "Government Wide Area Network", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Government Wide Area Network", "country_label": "Government Wide Area Network", "class": "connection", "platform": "", "owner": "Government", "tiers": "93 local authorities, 79 district administration offices, 29 schools; 438 sites cumulatively"},
+    {"system": "Solar energy installed at councils", "country_label": "", "class": "equipment", "platform": "", "owner": "Government", "tiers": "all 116 councils"},
+    {"system": "Starlink kits for public institutions", "country_label": "", "class": "central", "platform": "Starlink", "owner": "Government", "tiers": "525 kits since 2023: 230 Government departments, 156 constituency offices, 109 post offices, 23 youth resource centres, seven other institutions"}
+  ],
+  "note": "The share is 93 over the 116 councils the same paragraph counts; the speech does not itself state a percentage. Excerpt of paragraphs 94-95 only."
+}

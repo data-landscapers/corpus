@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-02-cabo-verde-programa-de-governo-cabo-verde-para-todos",
+  "facts": [],
+  "systems": [
+    {"system": "digital modernisation of local administrations and regional technical support centres (programme commitment, section 3.4)", "country_label": "Modernização digital das administrações locais e criação de centros regionais de apoio técnico", "class": "", "platform": "", "owner": "Government of Cabo Verde", "tiers": "local administrations (municípios); a commitment of the 2026 government programme, with no description of what it consists of"},
+    {"system": "digital public-consultation platforms (programme commitment, section 3.4)", "country_label": "plataformas digitais de consulta pública", "class": "web", "platform": "", "owner": "Government of Cabo Verde", "tiers": "municipalities; a commitment, beside participatory budgeting in every municipality"},
+    {"system": "Plataforma Unificada de Segurança (video surveillance, programme commitment, section 5)", "country_label": "Plataforma Unificada de Segurança", "class": "city-systems", "platform": "", "owner": "Government of Cabo Verde, in partnership with the autarquias", "tiers": "a commitment to increase video surveillance in partnership with the municipalities"},
+    {"system": "Balcão Único of the registries and notaries, by protocol with the Câmaras Municipais (programme commitment, section 4.1.5)", "country_label": "Balcão Único", "class": "central", "platform": "", "owner": "registry and notary services (Justice)", "tiers": "a commitment to let the municipal property tax (IUP) be paid at the deed, by protocols with the municipal councils"}
+  ],
+  "note": "The 2026 government programme (an excerpt, truncated in section 5) commits to 'digital modernisation of local administrations' without saying what it is; it names no connection at municipal offices, so no fact is taken."
+}

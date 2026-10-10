@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-01-ken-revealed-counties-made-sh8-3bn-manual-payments-outside-payroll-systems",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Controller of Budget's review of the 12 months to 30 June 2026, as reported by the Daily Nation, says county governments process payroll in the national Human Resource Information System (HRIS-Ke), to which an April 2024 directive required them to migrate by June 2025, while at least Sh8.3 billion in salaries was still paid by manual payroll outside it; Narok and Trans Nzoia reported no manual payments, and 'connectivity challenges' were among the reasons counties cited for manual payroll. The report does not say where the staff entering payroll sit or how the offices are connected.", "as_of": "2026-06", "date_precision": "month", "system": "County governments' use of HRIS-Ke", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Human Resource Information System (HRIS-Ke)", "country_label": "HRIS-Ke", "class": "application", "platform": "", "owner": "national government", "tiers": "county governments' payroll; some county staff, casuals and ward staff not onboarded"}
+  ],
+  "note": ""
+}

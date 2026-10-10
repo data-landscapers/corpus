@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-16-mininter-vers-une-solution-numerique-innovante-production-gestion-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 platform of the Ministry of the Interior for statistical data collection, from the communes up to central level", "country_label": "plateforme numérique DHIS2", "class": "application", "platform": "DHIS2", "owner": "Ministry of the Interior, Community Development and Public Security; partners named are UNICEF, UNFPA and UNDP", "tiers": "under development as at 12 March 2026; pilot planned for May 2026 in some regions before national extension; to collect from communes to the centre; over a thousand users to be trained"}
+  ],
+  "note": "A system in development that communes are to report in, with no office yet working in it; workshop participants named the availability of an internet connection in some areas as a concern, and the document states no connection of commune offices."
+}

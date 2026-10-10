@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-01-burundi-digital-health-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "fibre optic network reaching province capitals and some communes", "country_label": "la fibre optique", "class": "backbone", "platform": "fibre optic", "owner": "", "tiers": "the chief towns of the provinces and some communes, as the report puts it in March 2023; most health centres are rural and cannot reach it"}
+  ],
+  "note": "A digital health study: it says fibre arrives at province capitals and some communes as places, puts no local government office on it, and is otherwise about health facilities and mobile coverage."
+}

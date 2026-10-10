@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-03-smart-village-gendarmerie-equipment-anosy-androy",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Village / Rapid Rural Transformation (RRT)", "country_label": "Smart Villages, centres communautaires numériques", "class": "public-access", "platform": "satellite internet with off-grid solar power", "owner": "Ministère du Développement numérique, des postes et des télécommunications, with the World Food Programme", "tiers": "six sites operational in Androy and Anosy on the Vohitsova-Antanimora axis at February 2026, about 10,000 beneficiaries by the minister's account"},
+    {"system": "IT equipment for 11 local entities under Smart Village", "country_label": "équipements informatiques", "class": "equipment", "platform": "", "owner": "Ministère du Développement numérique, des postes et des télécommunications", "tiers": "11 entities including districts, hospitals, schools, gendarmerie services, communes and agricultural services in Androy and Anosy; the number of communes is not given"}
+  ],
+  "note": "The satellite connection is at community digital centres for residents; communes are among 11 entities given IT equipment, with no connection of a commune office stated."
+}

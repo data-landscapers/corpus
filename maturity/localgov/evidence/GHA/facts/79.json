@@ -1,0 +1,23 @@
+{
+  "slug": "2024-01-01-gha-2024-011-01109-01109001",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Land Use Planning and Management Information System (LUPMIS)",
+      "country_label": "LUPMIS",
+      "class": "application",
+      "platform": "",
+      "owner": "Land Use and Spatial Planning Authority, under the Ministry of Local Government, Decentralisation and Rural Development",
+      "tiers": "Not stated; to be redeveloped in 2024 into a platform for spatial planning, development control and street addressing"
+    },
+    {
+      "system": "Ghana National Spatial Planning and Land Use Database",
+      "country_label": "Ghana National Spatial Planning and Land Use Database",
+      "class": "application",
+      "platform": "",
+      "owner": "Land Use and Spatial Planning Authority",
+      "tiers": "Not stated; to be established in 2024"
+    }
+  ],
+  "note": "A 2024 budget line of GHS 22,443,365 for the spatial planning authority; it names two planning systems and states nothing about the connection of district assembly offices."
+}

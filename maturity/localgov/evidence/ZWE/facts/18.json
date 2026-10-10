@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-14-zimbabwe-cabinet-23rd-press-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre backbone", "country_label": "fibre backbone", "class": "backbone", "platform": "", "owner": "", "tiers": "Total backbone past 19,000 km after growing 33.83% in the first quarter of 2026, per the sector report noted by Cabinet; no local government office said to be on it"},
+    {"system": "Presidential Internet Scheme", "country_label": "Presidential Internet Scheme", "class": "", "platform": "Starlink (low Earth orbit)", "owner": "", "tiers": "Underserved and remote areas; who is connected is not described"}
+  ],
+  "note": "Cabinet briefing of 14 July 2026; the telecoms sector report gives national network figures and the Minister of Local Government appears only on repatriation. No local government office connection is stated."
+}

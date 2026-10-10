@@ -1,0 +1,8 @@
+{
+  "slug": "2017-12-05-unicef-crvs-profile-equatorial-guinea",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration of births, marriages and deaths", "country_label": "Registro Civil", "class": "application", "platform": "paper", "owner": "Central Register of Notaries, Ministry of Justice, Worship and Correctional Institutions", "tiers": "births registered at the civil registrar's office, mayor's office, other district or local authority and the province's birth registration centre; record books sent to the central birth office and filed on paper (compiled December 2016 to November 2017)"}
+  ],
+  "note": "UNICEF's profile states that registration is processed manually on paper, including at mayors' offices, with record books sent to the centre. That is the civil registration application, logged for the records row; the document states nothing about the office's own connection."
+}

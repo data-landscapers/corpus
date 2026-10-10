@@ -1,0 +1,13 @@
+{
+  "slug": "2025-06-27-worldbank-udap-govnet-p171305-restructuring-paper",
+  "facts": [],
+  "systems": [
+    {"system": "NBI extension and last-mile connectivity under UDAP-GovNet", "country_label": "National Backbone Infrastructure (NBI) extension; Last Mile Connectivity", "class": "backbone", "platform": "optical fibre", "owner": "NITA-U and the Ministry of ICT and National Guidance; World Bank IDA financing; NBI assets expected to pass to the private operator UTCL", "tiers": "removed from the project in the 2025 restructuring (allocations of US$15.8m and US$18.0m cut to nil); the sites the last mile was to reach are not stated"},
+    {"system": "ICT Equipment for Local Governments", "country_label": "ICT Equipment for Local Governments (2000 Desktops/Laptops)", "class": "equipment", "platform": "", "owner": "NITA-U under UDAP-GovNet, World Bank IDA financing", "tiers": "local governments; an activity scaled up or added in the 2025 restructuring, with no connection stated"},
+    {"system": "Government data centre and MAN", "country_label": "Data Center Upgrade; Metropolitan Area Network; IP Core Network; pre-purchase of international bandwidth", "class": "backbone", "platform": "", "owner": "NITA-U", "tiers": "national; retained in the restructured project"},
+    {"system": "Service Uganda Centers", "country_label": "Three Regional Service Uganda Centers (SUCs-Posta)", "class": "central", "platform": "", "owner": "NITA-U under UDAP-GovNet", "tiers": "three regional centres, to be rehabilitated and operationalised"},
+    {"system": "UGHUB", "country_label": "Data exchange and Integration Platform (UGHUB)", "class": "central", "platform": "", "owner": "NITA-U", "tiers": "government agencies, more to be on-boarded"},
+    {"system": "Community telecenters", "country_label": "Telecenters for Host Communities and Refugee areas", "class": "public-access", "platform": "", "owner": "UDAP-GovNet", "tiers": "refugee-hosting districts; removed in the 2025 restructuring"}
+  ],
+  "note": "The World Bank's 2025 restructuring of UDAP-GovNet: it removes the backbone extension and last-mile connectivity and adds 2,000 computers for local governments, but never says a local government office is, or was to be, connected, so nothing is recorded for the office connection. The paper is undated on its face; disclosure date 27 June 2025."
+}

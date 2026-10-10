@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-mtn-nigeria-fibre-market-share-techcabal",
+  "facts": [],
+  "systems": [
+    {"system": "MTN Nigeria national terrestrial fibre network (more than 43,000 km)", "country_label": "", "class": "backbone", "platform": "", "owner": "MTN Nigeria", "tiers": "national, linking base stations; 176,468 fibre-to-the-x subscribers of 319,735 nationally in June 2026"}
+  ],
+  "note": "On the commercial fibre-to-the-premises market; local authorities appear only as one of the tiers issuing right-of-way permits, and no local government office's connection is stated."
+}

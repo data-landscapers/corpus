@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "backbone", "platform": "", "owner": "Government of Malawi, under the Digital Malawi Acceleration Project", "tiers": "core upgrade in preparation in January-June 2026; no local government office said to be on it"},
+    {"system": "Connectivity of 500 priority public institutions", "country_label": "connectivity of 500 priority public institutions", "class": "backbone", "platform": "", "owner": "Digital Malawi Acceleration Project (World Bank-financed)", "tiers": "preparatory work in January-June 2026; 500 government offices and 2,000 schools planned; councils not named among them"},
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Government of Malawi", "tiers": "Lilongwe, with a redundancy link to the Blantyre data centre"}
+  ],
+  "note": "The Malawi section reports preparation of the GWAN core upgrade and of connectivity for 500 priority public institutions, and sensitisation meetings with local authorities and district councils on rural sites and safeguards; it puts no council office on a connection."
+}

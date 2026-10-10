@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-kfw-sen-001-forderung-der-digitalisierung-in-der-offentlichen",
+  "facts": [],
+  "systems": [
+    {"system": "Intranet der Regierung", "country_label": "Intranet der Regierung", "class": "backbone", "platform": "", "owner": "Government of Senegal", "tiers": "the central administration in Dakar and Diamniadio (new national data centre) is described as well networked; no local government office is said to be on it"}
+  ],
+  "note": "A KfW grant record of EUR 29,000,000, committed 2022 and running to 2027, for digitalisation of the public administration: it says the administration needs secure, reliable and affordable access to the government intranet and that the central administration in Dakar and Diamniadio is well networked. The excerpt names no local government office and states no connection at one."
+}

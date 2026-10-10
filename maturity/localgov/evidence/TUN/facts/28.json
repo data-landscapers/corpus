@@ -1,0 +1,23 @@
+{
+  "slug": "2024-01-01-what-african-countries-can-learn-from-the-continent-s-top-performers-in-e-govern",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Réseau National Intégré de l'Administration (RNIA)",
+      "country_label": "Réseau National Intégré de l'Administration (RNIA)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government; described as an intranet under debate against use of the Estonian X-Road",
+      "tiers": "Not stated; no local government office named"
+    },
+    {
+      "system": "Government data centre at the Centre National de l'Informatique (CNI)",
+      "country_label": "Centre National de l'informatique (CNI)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Ministry of Communication Technologies",
+      "tiers": "A secure centre all agencies can use; no local government office named"
+    }
+  ],
+  "note": "A paper on four countries' e-government; its Tunisia section covers central portals, a debated government intranet and the CNI data centre, and names no local government office on any of them."
+}

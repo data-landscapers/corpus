@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-18-mali-dnec-enregistrement-communautaire-naissances-zones-reculees",
+  "facts": [],
+  "systems": [
+    {"system": "Enregistrement communautaire des naissances", "country_label": "modèle communautaire papier (cahiers villageois, Agents de Déclaration Villageois)", "class": "application", "platform": "paper: village notebooks and the second copy of the declaration passed to the civil status centre", "owner": "Direction Nationale de l'État Civil (DNEC), with DGSHP, FENASCOM and the Association des Municipalités du Mali under a memorandum of understanding", "tiers": "villages, declaration centres and civil status centres, then préfet, governor and DNEC"}
+  ],
+  "note": "DNEC presentation of 18 July 2026 on civil registration, an application-class system: it describes the community declaration chain as a paper model, and lists full digitalisation of the system and stronger connectivity among its persisting priorities, with a move to a digital model as a prospect. It says nothing of the commune office's own connection, so no fact is taken for the connection sub-indicator."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-28-drc-8b-digital-plan-telecom-infrastructure-data-centers",
+  "facts": [],
+  "systems": [
+    {"system": "national fibre-optic network (Plan National du Numérique 2026-2030, PNN2)", "country_label": "PNN2", "class": "backbone", "platform": "fibre optic, with a planned submarine cable", "owner": "Government of DR Congo, with World Bank, EU and private financing", "tiers": "to reach all 145 territoires and 650 communities, said to benefit 30 million people and 1,000 institutions; no local government office said to be on it"},
+    {"system": "Tier 3 data centre in Kinshasa and two further data centres", "country_label": "", "class": "backbone", "platform": "", "owner": "Government of DR Congo under a USD 150 million deal of October 2025 with United Investment LMT (Mauritius)", "tiers": "Kinshasa flagship and two others nationwide, to host state data locally; planned"},
+    {"system": "DRC Pass", "country_label": "DRC Pass", "class": "central", "platform": "blockchain-based digital identity", "owner": "Government of DR Congo", "tiers": "national, for citizens"}
+  ],
+  "note": "A trade-press summary of the 2026-2030 national digital plan: towers, fibre to the 145 territoires, data centres and national e-government platforms. It names no local government office and no plan to connect one; the '1,000 institutions' are not described."
+}

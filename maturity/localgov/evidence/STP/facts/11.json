@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-11-digital-sao-tome-and-principe-p177158-implementation-status-results-report",
+  "facts": [],
+  "systems": [
+    {"system": "Príncipe submarine cable", "country_label": "Príncipe submarine cable", "class": "backbone", "platform": "", "owner": "Government in discussion with private operators; World Bank Digital Sao Tome and Principe project (P177158), implemented by the Ministry of Infrastructure, Natural Resources and Environment", "tiers": "inter-island link between São Tomé and Príncipe; procurement stalled, supply contract not signed at 8 April 2025; no local government office said to be on it"}
+  ],
+  "note": "The project's results cover the inter-island cable, 70 educational institutions (none connected at 8 April 2025) and a government-wide data exchange layer with no system connected; it names no local government office, and 'municipality' appears only as a disaggregation of census population counts."
+}

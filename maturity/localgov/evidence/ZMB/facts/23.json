@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-10-digital-services-strengthen-zambia-finances",
+  "facts": [],
+  "systems": [
+    {"system": "Government Service Bus, Government Electronic Payment Gateway, ZamPortal and ZamPay", "country_label": "Government Service Bus; ZamPortal; ZamPay", "class": "application", "platform": "", "owner": "Ministry of Finance and National Planning (Office of the Accountant General speaking)", "tiers": "more than 400 central government services; eight councils onboarded, with plans to roll out to all 116 local authorities, for electronic payment of property rates, business levies and permits by residents and businesses"}
+  ],
+  "note": "Eight of 116 councils are on the national electronic payment ecosystem for payments by residents and businesses; nothing is stated about the connection of council offices or staff working over one."
+}

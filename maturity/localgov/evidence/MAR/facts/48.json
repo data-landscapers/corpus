@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-28-mtnra-simplification-digitalisation-parcours-usagers",
+  "facts": [],
+  "systems": [
+    {"system": "Idarati (idarati.ma)", "country_label": "Portail national des procédures et des formalités administratives", "class": "web", "platform": "", "owner": "Ministry of Digital Transition and Administrative Reform, built with the Ministry of Interior, the ADD and the ANRT", "tiers": "national; publishes the procedures of administrations, public bodies and territorial collectivities, more than 2,700 procedures; launched 21 April 2021"}
+  ],
+  "note": "A ministry page on administrative simplification; territorial collectivities appear as bodies whose procedures the national information portal publishes and in the title of decree 2.22.141, and nothing is said of their offices' connections or of systems their staff work in."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2022-06-02-jo-2022-22-arretes-1888-1889-direction-identification-civile",
+  "facts": [],
+  "systems": [
+    {
+      "system": "fichier national et réseau informatique de la direction de l'identification civile",
+      "country_label": "carte nationale d'identité informatisée, sécurisée et biométrique",
+      "class": "central",
+      "platform": "",
+      "owner": "direction de l'identification civile, ministère de la sécurité et de l'ordre public (police nationale)",
+      "tiers": "direction centrale with a central server; production centres at Brazzaville, Pointe-Noire and Oyo, each with a local network; departmental data-collection sections; collection antennas in arrondissements, districts and urban communities that are not district seats"
+    }
+  ],
+  "note": "Gazette issue of organisational texts: arrêtés 1888 and 1889 of 10 May 2022 organise the police's identity-card directorate and its own field antennas, a central body; local authorities appear only in a land law's pre-emption clause, an urban-planning project's support to mairies and nominations of commune officials. Nothing on a connection at a local government office."
+}

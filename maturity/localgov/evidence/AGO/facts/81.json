@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-07-justica-digital-como-base-para-desenvolvimento-inclusivo",
+  "facts": [],
+  "systems": [
+    {"system": "Virtual hearing rooms of the Ombudsman", "country_label": "Projecto de Audiências Virtuais (salas de audiências virtuais)", "class": "central", "platform": "", "owner": "Gabinete do Provedor de Justiça, supported by UNDP with ENAPP and the municipal administrations as partners", "tiers": "being set up in 24 municipalities of 12 provinces; the first room opened at Talatona, Luanda, in 2025"},
+    {"system": "Ombudsman complaints-management system", "country_label": "sistema de gestão de reclamações", "class": "central", "platform": "", "owner": "Gabinete do Provedor de Justiça", "tiers": "28 local Ombudsman offices in 12 provinces receive and route complaints directly"}
+  ],
+  "note": "The rooms and the complaints system are the national Ombudsman's, a national body's local service points; municipal administrations are named as partners only, and nothing is said of their own offices' connection."
+}

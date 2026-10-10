@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-21-coj-squabbles-with-action-sa-over-call-centre-outage",
+  "facts": [],
+  "systems": [
+    {"system": "City of Johannesburg customer call centre", "country_label": "customer call centre", "class": "web", "platform": "", "owner": "City of Johannesburg", "tiers": "one metropolitan municipality; residents' channel for reporting outages, leaks and other faults, offline for some days in July 2026 and restored by Friday 17 July"}
+  ],
+  "note": "An outage of a metro's resident-facing call centre, a service channel and not the office's connection; the city says other channels stayed up. Nothing on how any municipal office is connected."
+}

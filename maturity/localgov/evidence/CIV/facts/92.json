@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-16-oneci-jaec-2026-terminaux-numeriques",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "ONECI's civil-status project lead said on 11 August 2026 that birth data entered by health staff on the new digital terminals is transmitted in real time to the civil-status office, notably the mairies or sous-préfectures, for handling of the declaration; no count of mairies is given and the mairie's own connection is not described.", "as_of": "2026-08-11", "date_precision": "day", "system": "terminaux numériques (logiciel de collecte des données d'état civil)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "terminaux numériques d'enregistrement des naissances", "country_label": "terminaux numériques", "class": "application", "platform": "smartphone with civil-status data collection software developed by ONECI", "owner": "ONECI", "tiers": "health structures, sending to civil-status offices in mairies and sous-préfectures; 283 terminals handed to health structures of the Tonkpi region on 11 August 2026"}
+  ],
+  "note": "The one fact is inferred from data arriving in real time at the mairie's civil-status office; the document does not say how the mairie receives it."
+}

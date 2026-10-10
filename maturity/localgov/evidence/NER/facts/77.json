@@ -1,0 +1,31 @@
+{
+  "slug": "2022-08-01-bnee-eies-datacenter-pk5-niamey",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centre national de données (Datacenter) au PK5",
+      "country_label": "Datacenter national",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Ministère de la Poste et des Nouvelles Technologies de l'Information, under the Trans-Saharan fibre backbone project financed by the African Development Bank",
+      "tiers": "national, planned at August 2022 in Niamey II; a government zone for ministries and a commercial zone; no local government office said to use it"
+    },
+    {
+      "system": "Dorsale Transsaharienne à fibre optique (DTS)",
+      "country_label": "DTS",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "Ministère de la Poste et des Nouvelles Technologies de l'Information, financed by the African Development Bank",
+      "tiers": "fibre planned along the Trans-Saharan road sections linking Algeria, Nigeria and Chad; no local government office said to be on it"
+    },
+    {
+      "system": "Community centres along the Nigerien axis of the DTS project",
+      "country_label": "centres communautaires",
+      "class": "public-access",
+      "platform": "",
+      "owner": "DTS project",
+      "tiers": "solar power systems and computer equipment planned for community centres along the project's route"
+    }
+  ],
+  "note": "Environmental impact study of the planned national data centre (body is an excerpt, truncated in the legal-framework table); the commune of Niamey II appears as the site's location, a source of data and a recipient of tax revenue. Nothing on any commune office's connection."
+}

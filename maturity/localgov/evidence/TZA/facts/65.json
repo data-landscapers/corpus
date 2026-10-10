@@ -1,0 +1,15 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ID system",
+      "country_label": "NIDA national ID project",
+      "class": "central",
+      "platform": "smartcard with ten-fingerprint de-duplication",
+      "owner": "National Identification Authority (NIDA), Ministry of Home Affairs",
+      "tiers": "National; about 14.7 million of 25 million targeted citizens registered as of mid-2018"
+    }
+  ],
+  "note": "The passages naming Tanzania cover migration, financial inclusion and the national ID system run by NIDA and civil registration by RITA, both national agencies; nothing is stated about local government offices or their connection."
+}

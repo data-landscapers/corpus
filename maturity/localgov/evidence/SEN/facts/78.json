@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-26-lequotidien-fofana-19-millions-actes-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national de l'état civil and civil-status management application (Nekkal programme)", "country_label": "Registre national de l'état civil; application de gestion de l'état civil; programme Nekkal", "class": "application", "platform": "", "owner": "Ministry of local authorities and territorial planning; financed by the European Union at 18 billion CFA francs, launched 7 May 2020 for 42 months", "tiers": "said to centralise the data of all local authorities; more than 19 million acts digitised and indexed at 25 June 2024"},
+    {"system": "Model civil-status centres", "country_label": "centres d'état civil modèles", "class": "equipment", "platform": "", "owner": "Nekkal programme", "tiers": "26 centres being finished, others rehabilitated, June 2024"},
+    {"system": "Civil-status service platform for users", "country_label": "plateforme d'offre de services", "class": "web", "platform": "", "owner": "Nekkal programme", "tiers": "national and abroad; forthcoming in June 2024"}
+  ],
+  "note": "The minister describes the digitised register and its application, an application; the document does not say the communes' offices are connected or work online in it. It gives the national civil-status strategy's budget as 68 billion CFA francs."
+}

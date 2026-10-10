@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-11-mauritania-upr-fourth-cycle-national-report-a-hrc-wg6-51-mrt-1",
+  "facts": [],
+  "systems": [
+    {"system": "Khidmaty", "country_label": "Digital Portal for Public Services (Khidmaty)", "class": "central", "platform": "", "owner": "Government of Mauritania; management and access set by Decree No. 2024-154", "tiers": "national"},
+    {"system": "Houwiyeti", "country_label": "Houwiyeti digital application", "class": "central", "platform": "", "owner": "Government of Mauritania (civil status)", "tiers": "national; holders of a national identification number apply for, track and obtain secure documents remotely"}
+  ],
+  "note": "Mauritania's national report to the Universal Periodic Review; its decentralisation paragraph lists a new ministry, the Nouakchott city programme and the decentralisation strategy, and states nothing about ICT or a connection at commune offices. The body is cut off at paragraph 93."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2018-12-07-worldbank-pad3086-niger-safety-net-mis",
+  "facts": [],
+  "systems": [
+    {"system": "Monitoring and information system (MIS) of the safety nets unit", "country_label": "MIS of the Cellule des Filets Sociaux (CFS)", "class": "central", "platform": "", "owner": "Cellule des Filets Sociaux, Prime Minister's Office (DNPGCCA)", "tiers": "centrally managed database; data collected on tablets by project field staff; PIU has a national office, regional offices and commune-level focal points"},
+    {"system": "Unified Social Registry (USR)", "country_label": "Unified Social Registry", "class": "central", "platform": "", "owner": "DNPGCCA (DN), Prime Minister's Office", "tiers": "national household database, under establishment in 2018"}
+  ],
+  "note": "World Bank appraisal of a safety-net project (capture truncated at paragraph 86): communes appear only as targeting units and as the level of the project's own field staff; nothing is stated about a commune office's connection, equipment or systems."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-29-reorganisation-agraire-fonciere-nouvelle-loi-raf",
+  "facts": [],
+  "systems": [
+    {"system": "e-cadastre and système intégré de gestion du cadastre et des domaines", "country_label": "e-cadastre", "class": "central", "platform": "", "owner": "Direction générale des impôts (DGI)", "tiers": "the tax administration's land and cadastre services; no local government named as a user"}
+  ],
+  "note": "No fact: a feature on the 2025 land law, which allows the state to delegate land management to local governments; the e-cadastre is the tax directorate's system and nothing is said of local government offices' connection."
+}

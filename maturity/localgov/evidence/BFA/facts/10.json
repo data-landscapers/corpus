@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-07-burkina-noc-maison-du-citoyen-digital-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Centre d'Opération du Réseau Backbone National (NOC)", "country_label": "NOC du Backbone national", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "under construction on 5 August 2026; to supervise the national fibre network"},
+    {"system": "Maison du citoyen (Zama Tchey)", "country_label": "Zama Tchey", "class": "central", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "the first one, 20% built on 5 August 2026; postal, financial and digital services for the population"}
+  ],
+  "note": "No fact: a ministerial visit to the backbone's operations centre and the first Maison du citoyen, both under construction; no local government office is said to be connected."
+}

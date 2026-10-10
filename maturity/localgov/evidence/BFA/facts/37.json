@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-30-bfa-sidwaya-mtdpce-casem-78-05-execution-physique",
+  "facts": [],
+  "systems": [
+    {"system": "RESINA", "country_label": "réseau RESINA", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "88 new buildings of the public administration interconnected in 2025, to 30 November; no commune office named"},
+    {"system": "CIM and CIMEXT", "country_label": "plateformes CIM et CIMEXT", "class": "", "platform": "", "owner": "", "tiers": "generalised in many public structures"},
+    {"system": "mini data centers", "country_label": "mini data center", "class": "backbone", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "one finished, the second well advanced at 30 November 2025"},
+    {"system": "Zama tchey (maisons du citoyen)", "country_label": "Zama tchey", "class": "central", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques, with La Poste", "tiers": "two under construction at Ouagadougou and Kaya; extension to regional capitals and rural communes from 2026"}
+  ],
+  "note": "No fact: the ministry's year-end review; 88 new public-administration buildings joined RESINA in 2025 but none is said to be a local government office."
+}

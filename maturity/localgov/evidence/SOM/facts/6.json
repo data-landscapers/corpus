@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-01-somalia-fmis-enhancement-rollout-fms-tor",
+  "facts": [],
+  "systems": [
+    {"system": "Financial Management Information System (FMIS)", "country_label": "FMIS", "class": "upper-tier", "platform": "", "owner": "Ministry of Finance, under the Somalia Enhancing Public Resource Management Project", "tiers": "federal; terms of reference released 1 February 2026 for its enhancement and rollout to the Federal Member States"}
+  ],
+  "note": "The capture is the ministry's publication-index page for the terms of reference: a title and a release date only. The rollout it names is to the Federal Member States, the upper tier, and nothing is said of district or municipal offices."
+}

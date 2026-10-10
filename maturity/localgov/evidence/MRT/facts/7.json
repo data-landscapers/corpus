@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-tresor-dfl-note-conjoncture-finances-locales-2025-sigel",
+  "facts": [],
+  "systems": [
+    {"system": "SIGeL", "country_label": "Système Intégré de Gestion Locale (SIGEL / SIGeL)", "class": "application", "platform": "", "owner": "Direction des Finances Locales, Direction Générale du Trésor et de la Comptabilité Publique, Ministère des Finances", "tiers": "deployed in all urban communes (wilaya and moughataa capitals) and in rural communes; generalised by joint circular 005-2022 MIDEC/MF; used by ordonnateurs, financial controllers and accountants; 238 communes counted in 2025"}
+  ],
+  "note": "The Treasury's 2025 local-finance bulletin states SIGeL, the budget and accounting software of the communes, is deployed in all urban communes and in rural communes and that its own accounts for 238 communes are drawn from it; it does not say the system is online, held elsewhere or worked at the commune's own office, and states no connection, so the application is logged and gives no fact."
+}

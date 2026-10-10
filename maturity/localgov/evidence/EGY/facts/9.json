@@ -1,0 +1,39 @@
+{
+  "slug": "2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Public shops licensing service",
+      "country_label": "خدمة تراخيص المحال العامة",
+      "class": "web",
+      "platform": "Egypt Digital platform (منصة مصر الرقمية), using the digital treasury (الخزانة الرقمية)",
+      "owner": "Ministry of Local Development and Environment, with the Ministry of Communications and Information Technology and the Ministry of Planning and Economic Development",
+      "tiers": "Online service to shop owners with unified procedures 'in all governorates', launched July 2026; one body handles the back end; no local unit office is named as working in it"
+    },
+    {
+      "system": "Egypt Digital platform",
+      "country_label": "منصة مصر الرقمية",
+      "class": "web",
+      "platform": "",
+      "owner": "Ministry of Communications and Information Technology",
+      "tiers": "National: more than 240 digital services, more than 12 million users"
+    },
+    {
+      "system": "Government digital switch",
+      "country_label": "المحول الرقمي الحكومي",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Ministry of Communications and Information Technology",
+      "tiers": "105 government bodies linked and more than 100 government databases integrated; no local government office is said to be on it"
+    },
+    {
+      "system": "Mobile technology centre vehicles",
+      "country_label": "سيارات المراكز التكنولوجية المتنقلة",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Available in the governorates; to be used to publicise the licensing service and take citizens' applications"
+    }
+  ],
+  "note": "Arabic account of the shop-licensing launch on the national platform. It says nothing of the connection of local unit offices or of their staff working in the system, so no fact."
+}

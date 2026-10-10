@@ -1,0 +1,104 @@
+{
+  "slug": "2024-01-01-annual-report-local-government-2023-2024-records",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Ministry of Local Government's annual report for financial year 2023-2024 says its Digital Office works in real time with the twelve digital offices of the Local Authorities in the Council Project Management (CPM) system, in which all employees do their daily tasks in real time and can work remotely; it does not say where the system is hosted or how the offices are connected.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "twelve digital offices of the Local Authorities, working in the Council Project Management (CPM) system",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:100%",
+      "fact": "The ministry says the I-Council project, piloted at the District Council of Moka from 27 August 2018 and extended by Government decision of 16 March 2020, took three years to implement in all Local Authorities, and that its Digital Office works in real time with twelve local authority digital offices: 12 of the 12 local authorities it counts (five municipal councils and seven district councils), stated in the report for financial year 2023-2024; the figure is of councils working online in the system, not of connections named as such.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "twelve digital offices of the Local Authorities, working in the Council Project Management (CPM) system",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The ministry reports that the Local Authorities processed 24,393 Building and Land Use Permit applications between 1 July 2023 and 30 June 2024, and that its Land Use and Planning Unit manages the online National Electronic Licensing System (NELS) for the processing of those applications.",
+      "as_of": "2024-06-30",
+      "date_precision": "day",
+      "system": "Local Authorities' processing of permit applications in the National Electronic Licensing System (NELS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The report for financial year 2023-2024 says the system the twelve local authority digital offices work in was built in house by a team of the District Council of Moka, was extended to the other Local Authorities by Government decision of 16 March 2020, and is run with a Digital Office at the Ministry of Local Government; no vendor or partner is named.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "twelve digital offices of the Local Authorities, working in the Council Project Management (CPM) system",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Council Project Management (CPM) system",
+      "country_label": "I-Council (Innovative-Council) project; Council Project Management; CPM",
+      "class": "application",
+      "platform": "Enterprise Resource Planning system developed in house, with Project Management, Asset Management, Database Document Management, My-Task and Financial Management platforms",
+      "owner": "Ministry of Local Government and Disaster Risk Management; developed by the Learning and Development Team of the District Council of Moka",
+      "tiers": "the Ministry's Digital Office and all twelve Local Authorities (five municipal councils, seven district councils)"
+    },
+    {
+      "system": "National Electronic Licensing System (NELS)",
+      "country_label": "National Electronic Licensing System (NELS)",
+      "class": "application",
+      "platform": "",
+      "owner": "Land Use and Planning Unit of the Ministry of Local Government manages it for Building and Land Use Permits",
+      "tiers": "Local Authorities process Building and Land Use Permit applications; also used by the Mauritius Fire and Rescue Service for fire certificates since 13 September 2021"
+    },
+    {
+      "system": "Electronic Management System (EMS)",
+      "country_label": "EMS of Public Investment Management Assessment",
+      "class": "central",
+      "platform": "budget monitoring system developed by the Ministry of Local Government's digital office",
+      "owner": "Ministry of Finance, Economic Planning and Development",
+      "tiers": "being implemented in all Ministries and in Rodrigues; CPM integrates with it"
+    },
+    {
+      "system": "electronic Petition Management Information System",
+      "country_label": "electronic Petition Management Information System",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as software CPM can integrate with"
+    },
+    {
+      "system": "National Government Information Service",
+      "country_label": "National Government Information Service",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as software CPM can integrate with"
+    },
+    {
+      "system": "Citizen Support Portal",
+      "country_label": "Citizen Support Portal; Citizen Support Unit",
+      "class": "",
+      "platform": "",
+      "owner": "Citizen Support Unit, under the Prime Minister's Office",
+      "tiers": "named in the contents and as a CPM integration; its section is cut off in the capture"
+    },
+    {
+      "system": "Government Online Centre (GOC)",
+      "country_label": "GOC (Main Site) and Disaster Recovery Site",
+      "class": "backbone",
+      "platform": "high-performance servers, storage area network and backup solution",
+      "owner": "",
+      "tiers": "named only in a stray tender heading at the end of the capture; no local authority office said to be on it"
+    }
+  ],
+  "note": "The capture is an excerpt cut at the fetch cap, ending inside section 6.3; the Citizen Support Portal section (9.0) is not in it."
+}

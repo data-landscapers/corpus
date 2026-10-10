@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Konza National Data Centre", "country_label": "Konza National Data Centre (KoTDA)", "class": "backbone", "platform": "", "owner": "Konza Technopolis Development Authority", "tiers": "listed customers: government agencies, county governments, SMEs and the eCitizen platform"},
+    {"system": "ICTA Government Data Centre 1 (Nairobi Primary)", "country_label": "ICTA Government Data Centre 1", "class": "backbone", "platform": "", "owner": "ICT Authority", "tiers": "listed customers: government ministries and county governments"},
+    {"system": "ICTA Government Data Centre 2 (Nairobi DR/Secondary)", "country_label": "ICTA Government Data Centre 2", "class": "backbone", "platform": "", "owner": "ICT Authority", "tiers": "listed customers: government agencies"}
+  ],
+  "note": "A register of data centres, compiled with AI by its own header: it lists county governments as customers of two government data centres and puts no county office on a connection, so backbone only and no fact."
+}

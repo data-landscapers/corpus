@@ -1,0 +1,15 @@
+{
+  "slug": "2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Processamento e Gestão do Imposto Predial Autárquico (SISPGIA)", "country_label": "SISPGIA", "class": "application", "platform": "developed in 2009; taxpayer register, queries and payment modules", "owner": "Conselho Municipal de Maputo", "tiers": "Maputo municipality"},
+    {"system": "Sistema de Taxas por Actividade Económica (SISTAE)", "country_label": "SISTAE", "class": "application", "platform": "", "owner": "", "tiers": "municipal; Maputo named"},
+    {"system": "Sistema de Informação de Recolha de Receitas (SIRR)", "country_label": "SIRR", "class": "application", "platform": "", "owner": "", "tiers": "municipal; Maputo named"},
+    {"system": "Sistema de Informação para Gestão de Receitas (SIGERE)", "country_label": "SIGERE", "class": "application", "platform": "", "owner": "", "tiers": "Maputo municipality"},
+    {"system": "Sistema Gestão Orçamental (M17)", "country_label": "M17", "class": "application", "platform": "", "owner": "", "tiers": "municipal; Maputo named"},
+    {"system": "Sistema de Gestão de Resíduos Sólidos Urbanos (SGRSU)", "country_label": "SGRSU", "class": "application", "platform": "", "owner": "", "tiers": "municipal; Maputo named"},
+    {"system": "Sistema de Gestão de Terras (SiGIT)", "country_label": "SiGIT", "class": "application", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Sistema de Informação de Gestão Financeira (SIGEF) municipal", "country_label": "SIGEF", "class": "application", "platform": "", "owner": "", "tiers": "municipal, under assessment"}
+  ],
+  "note": "An extract listing the revenue, budget and waste systems of the Maputo municipality as at September 2020: applications, with nothing stated about how the municipal offices are connected."
+}

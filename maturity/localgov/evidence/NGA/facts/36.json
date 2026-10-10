@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-02-thisdaylive-fg-boost-telecoms-connectivity-abia-rural-nucap",
+  "facts": [],
+  "systems": [
+    {"system": "National Universal Communications Access Programme (NUCAP)", "country_label": "NUCAP", "class": "backbone", "platform": "telecommunications towers for mobile and broadband coverage", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "unserved and underserved communities; in Bende Local Government Area, Abia State, one tower nearing completion and 5 to 8 more sites assessed as needed, with a goal of substantially covering the area before Christmas 2026"}
+  ],
+  "note": "Mobile coverage for the communities of one local government area; connecting the area is network coverage for residents, and no local government office is said to be connected."
+}

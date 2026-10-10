@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-23-bwa-dailynews-digital-services-act-cloud-migration-digital-id",
+  "facts": [],
+  "systems": [
+    {"system": "Secure government cloud at the Delta Digital Data Centre", "country_label": "Delta Digital Data Centre", "class": "backbone", "platform": "", "owner": "Ministry of Communications and Innovation", "tiers": "Central government systems being migrated; Kanye District Council asked on 21 September 2026 to budget for applications and set up its systems on it"}
+  ],
+  "note": "The minister asks Kanye District Council to put its services online and prepare to use the government cloud; nothing is stated about the council office's own connection or about a council system in use."
+}

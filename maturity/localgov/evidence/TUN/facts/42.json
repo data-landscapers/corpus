@@ -1,0 +1,90 @@
+{
+  "slug": "2025-03-01-tunisie-pap-mission-technologies-communication-2025",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "The Communication Technologies mission's 2025 annual performance plan defines its indicator 1.1.2 as the share of public bodies' sites connected to the integrated administrative network (RNIA), naming RNIA3 as the network for local collectivities and municipalities beside RNIA2 for ministries and RNIA4 for the justice ministry.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Réseau National Intégré de l'Administration, RNIA3 (local collectivities and municipalities)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "The plan estimates that 71 per cent of the public bodies' sites programmed for connection under the RNIA project were connected in 2024, with 98 per cent expected in 2025 and the remaining sites, given as 1,826, to be completed by 2027; the figure covers ministries, local collectivities, municipalities and sectoral networks together and no share or count of municipalities is given.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Réseau National Intégré de l'Administration, RNIA3 (local collectivities and municipalities)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The connection of public bodies' sites to the integrated administrative network, including RNIA3 for local collectivities and municipalities, is a performance indicator of the Ministry of Communication Technologies' digital development programme for 2025.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Réseau National Intégré de l'Administration, RNIA3 (local collectivities and municipalities)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The 2025 annual performance plan sets targets for the share of public bodies' sites connected to the integrated administrative network, municipalities' RNIA3 included, of 98 per cent in 2025 and 100 per cent in 2026 and 2027, against 71 per cent in 2024.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Réseau National Intégré de l'Administration, RNIA3 (local collectivities and municipalities)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The plan lists the integrated administrative network projects for the ministries and the municipalities among those financed through the communications development fund (صندوق تنمية المواصلات), within a 2025 mission budget of 184 million dinars in payment credits.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Réseau National Intégré de l'Administration, RNIA3 (local collectivities and municipalities)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "RNIA3",
+      "country_label": "الشبكة الإدارية المندمجة الخاصة بالجماعات المحلية والبلديات (RNIA3)",
+      "class": "connection",
+      "platform": "",
+      "owner": "Ministry of Communication Technologies (digital development programme); financed through the communications development fund",
+      "tiers": "Local collectivities and municipalities"
+    },
+    {
+      "system": "RNIA (RNIA2, RNIA4, RNIA5, RNIA6)",
+      "country_label": "الشبكة الإدارية المندمجة (RNIA)",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of Communication Technologies",
+      "tiers": "RNIA2 for ministries, RNIA4 for the justice ministry; RNIA5 and RNIA6 launched because structures of the interior and foreign ministries were not yet connected"
+    },
+    {
+      "system": "Elissa",
+      "country_label": "منظومة التصرف الإلكتروني في المراسلات (عليسة)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Communication Technologies",
+      "tiers": "Not stated; 60 per cent of correspondence handled wholly electronically in 2023"
+    },
+    {
+      "system": "National interoperability platform",
+      "country_label": "المنظومة الوطنية للترابط البيني بين نظم المعلومات الوطنية",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Ministry of Communication Technologies",
+      "tiers": "Four pilot ministries (interior, education, transport, social affairs); about 110 integrated services in 2023"
+    }
+  ],
+  "note": "The published date is inferred (March 2025). The document names no use made of the network by municipal offices, and its 71 per cent is of all public bodies' sites, not of municipalities; a second, unrelated page (the Tunisie Digitale 2020 plan summary) is appended to the file and states nothing on local government."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-caf-plan-sectoriel-de-l-education-2020-2029-de-la-republique-centrafricain",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE", "country_label": "Système d'information et de gestion de l'éducation (SIGE)", "class": "central", "platform": "", "owner": "Direction Générale des Études, des Statistiques et de la Planification, education ministry", "tiers": "national; its units of observation are schools"}
+  ],
+  "note": "Passages of the education sector plan 2020-2029: communes appear as a count (179, with 7 regions, 16 prefectures and 72 sub-prefectures), as places hard to reach and as parts of the Bangui agglomeration; the passages describe a centralised administration with little state presence outside Bangui and state nothing on a commune office's connection."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2018-12-17-digital-mauritius-2030-strategic-plan",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Wide Area Network",
+      "country_label": "Government Wide Area Network",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government; the plan (action A1.5) is to set up a Command and Control Centre to operate and manage it",
+      "tiers": "not stated in the passages; no local authority office is said to be on it"
+    },
+    {
+      "system": "InfoHighway",
+      "country_label": "InfoHighway platform",
+      "class": "",
+      "platform": "government data-sharing platform",
+      "owner": "",
+      "tiers": "not stated in the passages"
+    }
+  ],
+  "note": "The passages carry only the Prime Minister's foreword and action A1.5, to set up a Command and Control Centre for the Government Wide Area Network; no local authority office is said to be on the network, so it is a backbone entry and gives no fact."
+}

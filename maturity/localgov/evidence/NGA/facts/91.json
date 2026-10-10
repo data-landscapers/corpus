@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-11-digital-but-unequal-nigeria-state-dpi-readiness",
+  "facts": [],
+  "systems": [
+    {"system": "State government-to-government (G2G) data-sharing platforms", "country_label": "G2G platform", "class": "upper-tier", "platform": "", "owner": "state governments of Lagos, Edo, Enugu and Nasarawa", "tiers": "state ministries, departments and agencies in 4 of the 34 states assessed (Nigeria Governors' Forum / MicroSave assessment, July 2025)"},
+    {"system": "Nasarawa state data centre", "country_label": "", "class": "upper-tier", "platform": "", "owner": "Nasarawa State Information Technology and Digital Economy Agency (NASITDEA)", "tiers": "state level"},
+    {"system": "State digital land registries with NIN-linked property records", "country_label": "", "class": "upper-tier", "platform": "", "owner": "state governments (Lagos and Rivers named)", "tiers": "state level; 26 states rated high for land administration"},
+    {"system": "Lagos State Resident Identity Card", "country_label": "", "class": "upper-tier", "platform": "", "owner": "Lagos State", "tiers": "state level"}
+  ],
+  "note": "The assessment it reports covers the 36 states, the upper tier, and their ministries and agencies; the document says nothing of local government areas or their offices."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2021-06-15-world-bank-digital-gabon-project-pad",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Gabonese Administration Network (Réseau de l'Administration Gabonaise)",
+      "country_label": "Réseau de l'Administration Gabonaise",
+      "class": "backbone",
+      "platform": "Optical fibre and microwave links",
+      "owner": "Government of Gabon (ANINF develops public digital infrastructure)",
+      "tiers": "Secure network interconnecting the various administrations of the nine provinces; no local government office said to be on it"
+    },
+    {
+      "system": "WIMAX Administrative Network",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "WiMAX high-speed wireless, with an internal telephone network",
+      "owner": "Government of Gabon",
+      "tiers": "Interconnects administrative and public sites; no local government office said to be on it"
+    },
+    {
+      "system": "Digitalized civil registration (CR) system",
+      "country_label": "",
+      "class": "application",
+      "platform": "",
+      "owner": "CNEC (Centre National de l'Etat Civil)",
+      "tiers": "Planned under the project: a centralized database and a registration and document-delivery module for use in local registration offices, including local government offices and health centres"
+    },
+    {
+      "system": "Online presence of central and local government institutions",
+      "country_label": "",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "All the major central and local government institutions have an online presence but provide few digitized services"
+    }
+  ],
+  "note": "World Bank appraisal of June 2021: names the government network and the WiMAX administrative network without placing any local government office on them, and plans a civil registration module for local government offices; no statement that a local government office is or is not connected."
+}

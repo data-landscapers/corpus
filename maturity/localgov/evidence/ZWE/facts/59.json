@@ -1,0 +1,11 @@
+{
+  "slug": "2019-01-01-smart-zimbabwe-2030-master-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Local Government", "country_label": "Smart Local Government", "class": "", "platform": "", "owner": "", "tiers": "listed as a Phase 3 pillar of the master plan, with no description of what it does"},
+    {"system": "Smart Cities", "country_label": "Smart Cities", "class": "city-systems", "platform": "", "owner": "Ministry of Local Government, Public Works and National Housing named as key stakeholder", "tiers": "urban areas; sensors across a city monitored through a network operating centre, with a city data centre and applications for traffic and waste management; a Phase 3 pillar, described as a model"},
+    {"system": "PFMS Network", "country_label": "PFMS Network", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "to be completed countrywide with optic fibre and mobile networks in the 2018-2020 phase; no office tier stated"},
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "to be operationalised in the 2018-2020 phase; no tier stated"}
+  ],
+  "note": "The master plan names Smart Local Government and Smart Cities as Phase 3 pillars without stating any connection, equipment or system at a local authority office; its implementation tables extract as bare headers."
+}

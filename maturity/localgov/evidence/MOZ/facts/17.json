@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-16-worldbank-mozambique-digital-acceleration-project-second-restructuring-paper",
+  "facts": [],
+  "systems": [
+    {"system": "GovNet", "country_label": "Government Communications Network (GovNet)", "class": "backbone", "platform": "", "owner": "government; INAGE is the e-government institute", "tiers": "ministries, departments and agencies; no local government office said to be on it"},
+    {"system": "Community Multimedia Centers", "country_label": "CMCs", "class": "public-access", "platform": "", "owner": "", "tiers": "community access points; 30 to be rehabilitated, connected and equipped by June 2028"}
+  ],
+  "note": "The January 2026 restructuring finances completion of the GovNet feasibility study under subcomponent 2.1 (US$10m raised to US$11m) and states that it does not fund GovNet expansion, which could follow in a later operation. The document speaks of ministries, departments, agencies and service points only; no district, municipality or other local government office is named, so no fact is recorded. The old PDO indicator on civil servants in public institutions connected to broadband (baseline 20 per cent, target 22) is not about local government."
+}

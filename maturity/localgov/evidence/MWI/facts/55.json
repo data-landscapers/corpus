@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-19-inspire-o-project-information-document",
+  "facts": [],
+  "systems": [
+    {"system": "Malawi Social Registry", "country_label": "Dynamic Malawi Social Registry (MSR)", "class": "application", "platform": "", "owner": "Government of Malawi; project implemented by the National Local Government Finance Committee with World Bank financing", "tiers": "nationwide registry; on-demand registration proposed to expand from two to fifteen districts, with no statement of where in a district it is done"}
+  ],
+  "note": "Concept-stage project document: it proposes extending on-demand social registry registration from two to fifteen districts but does not name council offices or any connection, so no fact."
+}

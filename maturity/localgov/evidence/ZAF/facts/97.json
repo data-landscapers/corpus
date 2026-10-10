@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-04-draft-identification-regulations-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Digital identity credential enrolment points", "country_label": "accredited enrolment points", "class": "central", "platform": "MyMzansi application", "owner": "Department of Home Affairs", "tiers": "Department offices, foreign missions, ports of entry, authorised premises of trusted entities and mobile units; the draft would require enrolment to be available in every municipality"}
+  ],
+  "note": "Draft regulations on digital identity credentials; the municipality appears only as the area in which a Home Affairs or accredited enrolment point must be available. A draft regulation places nothing, and no connection of a municipal office is stated."
+}

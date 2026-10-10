@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-17-manuel-operations-terra-benin",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Terra Bénin operations manual of 17 October 2025, written for the state land agency ANDF, assigns the mairie's land directorate (DADE) the receipt, checking, data entry, archiving and transmission to ANDF of land transaction files, and says communes, notaries and land offices keep the cadastre current by formalising transactions within e-Foncier Bénin; it sets the role out as procedure, and does not say how many mairies do it or over what connection.", "as_of": "2025-10-17", "date_precision": "day", "system": "the mairies' working in e-Foncier Bénin (e-FB)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "e-Foncier Bénin (e-FB)", "country_label": "plateforme e-foncier Bénin; e-FB; cadastre national", "class": "application", "platform": "", "owner": "Agence Nationale du Domaine et du Foncier (ANDF), under the Ministère de l'Économie et des Finances, with World Bank finance for the Terra Bénin programme", "tiers": "national system; issues the unique parcel number and the registration certificates; communes, notaries and land offices are to formalise transactions in it; first-phase campaigns in 14 communes: Ouidah, Lokossa, Allada, Abomey, Kétou, Dassa-Zoumé, Savalou, Natitingou, Bembèrèkè, Adjohoun, Ouèssè, Kpomassè, Klouékanmè, Djidja"},
+    {"system": "Bureaux Communaux du Domaine et du Foncier (BCDF)", "country_label": "Bureaux Communaux du Domaine et du Foncier", "class": "central", "platform": "", "owner": "ANDF, as its deconcentrated local offices", "tiers": "commune level; they bring the communes' land data and services into the national system, e-foncier Bénin"},
+    {"system": "services communaux domaniaux et environnementaux, to be verified as operational and equipped", "country_label": "Direction des Affaires Domaniales et Environnementales (DADE) de la mairie", "class": "equipment", "platform": "", "owner": "the mairies, with ANDF submitting the list for independent verification under the programme", "tiers": "the communes where the programme works; the verifier checks on site that the offices are operational, equipped and staffed by trained personnel"}
+  ],
+  "note": "The one fact is a role the manual prescribes, not a count of mairies doing it. The manual states nothing about how a mairie is connected, so no fact is recorded for that aspect or for the number of local governments."
+}

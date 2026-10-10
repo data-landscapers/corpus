@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-01-cseaafrica-data-driven-public-sector-guinea-roadmap",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "none", "fact": "The brief's author says weak connectivity, high data costs and low digital literacy in rural regions significantly limit the ability of municipal offices, with local health centres and schools, to take part in national digital platforms, forcing them onto manual reporting and paper records; no count of offices is given and the statement is undated, so the document's published date is used.", "as_of": "2025-11", "date_precision": "month", "system": "rural municipal offices (manual reporting, paper records)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Digital Civil Registration System (DCRS)", "country_label": "", "class": "application", "platform": "", "owner": "Ministry of Territorial Administration, with Enabel and the European Union", "tiers": "pilot launched October 2022 in ten pilot municipalities, some in Conakry and Kindia; digitises paper records, with birth notification from health centres by mobile application"},
+    {"system": "Koloma National Data Centre", "country_label": "", "class": "backbone", "platform": "", "owner": "the state; the brief names the ministry MPTEN as lead for it", "tiers": "Tier III, newly inaugurated; proposed as the government data exchange hub; no local government office said to be on it"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2021-12-31-msas-plan-directeur-informatique-2021-2025",
+  "facts": [],
+  "systems": [
+    {"system": "intranet gouvernemental", "country_label": "intranet gouvernemental", "class": "backbone", "platform": "", "owner": "ADIE", "tiers": "the health ministry's headquarters, whose firewalls ADIE manages; its central structures and regional medical offices are to be connected under project PI 1; no local government office said to be on it"},
+    {"system": "datacenter de l'ADIE", "country_label": "centre de ressources de l'ADIE", "class": "backbone", "platform": "", "owner": "ADIE", "tiers": "national; hosts some health applications in cloud mode; ADIE is said to hold the infrastructure for a fibre interconnection of the whole national territory"}
+  ],
+  "note": "The health ministry's IT master plan 2021-2025; collectivités territoriales appear only as a count in the administrative context (599: 42 departments and 557 communes). It states nothing about the connection or systems of a local government office; the networks it describes are the ministry's own and its deconcentrated services'."
+}

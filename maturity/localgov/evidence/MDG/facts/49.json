@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-06-ipss-ocfm-land-certification-manual",
+  "facts": [],
+  "systems": [
+    {"system": "Plan Local d'Occupation Foncière (PLOF)", "country_label": "PLOF", "class": "application", "platform": "digital plan on orthorectified satellite imagery, read on a smartphone", "owner": "ministry in charge of land; ProPFR (MDAT with GIZ, BMZ financed)", "tiers": "commune level; used for mass land certification in 49 communes of Boeny, DIANA and Haute Matsiatra"}
+  ],
+  "note": "A commune-level digital land plan used in mass certification; no connection of a commune office is stated."
+}

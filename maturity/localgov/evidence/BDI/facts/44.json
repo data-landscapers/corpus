@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-rtnb-le-burundi-accelere-la-modernisation-de-letat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Digitalised civil registration with biometric registration", "country_label": "digitalisation de l'état civil; système d'enregistrement biométrique", "class": "application", "platform": "", "owner": "Ministry of Interior, Community Development and Public Security, supported by UNICEF", "tiers": "pilot communes, with services decentralised to zones; thirteen communes have the biometric registration system (UNICEF, August 2026)"},
+    {"system": "National digital identity system", "country_label": "système national d'identité numérique", "class": "central", "platform": "unique identification number with fingerprint and facial biometrics", "owner": "the State", "tiers": "being put in place; not yet deployed"}
+  ],
+  "note": "No fact: the article reports civil registration digitalised in pilot communes and says nothing of how those offices are connected or whether they work in a system held elsewhere."
+}

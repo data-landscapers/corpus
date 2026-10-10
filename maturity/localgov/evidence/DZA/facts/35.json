@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The author's AI-assisted compilation says Algeria's civil registries, kept at commune level including in rural areas, have been interconnected since about 2014 so that an extract can be issued from any commune, while judging initial recording at local offices to be paper-based; it gives no count of communes.", "as_of": "2014", "date_precision": "year", "system": "Commune civil registries interconnected nationally", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Interconnected civil registry (état civil)", "country_label": "état civil", "class": "application", "platform": "", "owner": "Ministry of Interior", "tiers": "communes, including rural ones; interconnected since about 2014"},
+    {"system": "Online civil-status services (demande12s.interieur.gov.dz, etatcivil.interieur.gov.dz)", "country_label": "12S / نسخة رقمية لشهادة الميلاد", "class": "web", "platform": "", "owner": "Ministry of Interior", "tiers": "national, online to citizens"}
+  ],
+  "note": "The source is marked in its own header as an AI-aided compilation, not sourced fact, and is on the study's exclude_sources list; the fact is recorded for the parent to treat accordingly. Its clinic, school and police rows are outside the study's field."
+}

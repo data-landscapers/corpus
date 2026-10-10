@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-29-niger-diffa-173000-actes-de-naissance-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "informatisation de l'état civil", "country_label": "informatisation de quatre communes", "class": "application", "platform": "", "owner": "Direction régionale de l'État civil, des Migrations et des Réfugiés de Diffa, with UNICEF support", "tiers": "four communes of Diffa region computerised between July 2023 and July 2026, with four administrateurs délégués, four departmental civil-status directors and nine civil-status agents trained on the digital tools"}
+  ],
+  "note": "Diffa's regional civil-status directorate reports four communes computerised for civil registration (no total given) and staff trained; it states computerisation, not a connection at the commune offices, so no fact is taken."
+}

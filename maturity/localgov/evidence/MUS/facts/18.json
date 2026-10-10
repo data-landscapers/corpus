@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress",
+  "facts": [],
+  "systems": [
+    {"system": "Government Intranet System", "country_label": "Government Intranet System", "class": "backbone", "platform": "", "owner": "the State", "tiers": "set up around 1999-2001 to link all public departments; no local authority named"},
+    {"system": "Government Online Centre (GOC)", "country_label": "Government Online Centre (GOC), Ébène", "class": "backbone", "platform": "", "owner": "the State", "tiers": "hosts government software and data since May 2005; about 80 racks; no local authority named"},
+    {"system": "Mauritius Telecom data centre, Rose-Belle", "country_label": "data centre de Mauritius Telecom à Rose-Belle", "class": "backbone", "platform": "", "owner": "Mauritius Telecom", "tiers": "Tier IV; to host e-Health, the new government portal, Mobile ID and the penalty-points software, and to back up the GOC; no local authority named"}
+  ],
+  "note": "An account of the government's data centres and intranet (minister's site visit of 29 December 2025); the intranet is said to link public departments, with no local authority office put on it, so there is no fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Lusaka CCTV surveillance with integrated command and control centre", "country_label": "National Command Centre", "class": "city-systems", "platform": "ZTE", "owner": "Ministry of Technology and Science; ZTE Zambia Services Limited; police", "tiers": "Lusaka"},
+    {"system": "ZamPortal", "country_label": "ZamPortal", "class": "web", "platform": "", "owner": "Electronic Government Division", "tiers": "national; listed under Lusaka"},
+    {"system": "Government Services Bus", "country_label": "Government Services Bus", "class": "", "platform": "", "owner": "", "tiers": "national; listed under Lusaka"},
+    {"system": "LoRaWAN in Smart Villages", "country_label": "Smart Villages", "class": "public-access", "platform": "LoRaWAN", "owner": "", "tiers": "Smart Villages"}
+  ],
+  "note": "A twelve-city smart-city comparison, AI-compiled by its own header; its Lusaka column lists surveillance, broadband and e-government features of the city and states nothing about a connection at any council office."
+}

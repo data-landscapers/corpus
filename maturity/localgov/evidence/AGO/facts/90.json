@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-05-decreto-presidencial-272-24-aprova-livro-branco-das-tic",
+  "facts": [],
+  "systems": [
+    {"system": "Rede Privativa do Estado", "country_label": "Rede Privativa do Estado", "class": "backbone", "platform": "", "owner": "the Executive", "tiers": "not stated; the White Paper names a strategy for its modernisation"},
+    {"system": "Rede Nacional de Banda Larga", "country_label": "Rede Nacional de Banda Larga (Rede Primária de Comunicações Electrónicas)", "class": "backbone", "platform": "national fibre network, satellite and submarine cables", "owner": "the Executive, as public-domain infrastructure", "tiers": "national"}
+  ],
+  "note": "The decree approving the ICT White Paper 2023-2027 with the opening of its text: it names a strategy to modernise the State's private network and an aim of supporting decentralisation and municipalisation, but names no connection of municipal administrations and gives no figure. The held text is an excerpt cut off in section 2.3."
+}

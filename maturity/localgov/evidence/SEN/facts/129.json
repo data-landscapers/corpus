@@ -1,0 +1,9 @@
+{
+  "slug": "2023-12-20-senegal-strategie-nationale-des-donnees-snd-2023-2028",
+  "facts": [],
+  "systems": [
+    {"system": "réseaux e-Gouvernement", "country_label": "réseaux e-Gouvernement", "class": "backbone", "platform": "", "owner": "", "tiers": "named as a network over which health and social establishments are to be interconnected at high speed; no local government office said to be on it"},
+    {"system": "datacenter national", "country_label": "datacenter national", "class": "backbone", "platform": "", "owner": "SENUM SA", "tiers": "national; to host public and sector data, with a national cloud to be accelerated"}
+  ],
+  "note": "A summary of the national data strategy 2023-2028; collectivités territoriales appear once, as bodies to harmonise agricultural data production with. It states nothing about the connection of local government offices."
+}

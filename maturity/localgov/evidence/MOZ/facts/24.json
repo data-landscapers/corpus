@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-01-mef-cge-2024-discurso-sespe",
+  "facts": [],
+  "systems": [
+    {"system": "SESPE", "country_label": "Serviço de Pagamentos ao Estado (SESPE), part of the e-SISTAFE revenue collection module", "class": "application", "platform": "e-SISTAFE", "owner": "Ministry of Finance", "tiers": "collects taxes and fees for central bodies, provincial and district decentralised governance bodies and municipalities, routed to the Conta Autárquica for municipal revenue"}
+  ],
+  "note": "An excerpt of the finance minister's November 2025 address: SESPE links e-SISTAFE to commercial banks and e-money institutions so that payers can pay electronically what is owed to state bodies, districts and municipalities. It is a payment channel for the public; the speech does not say municipal or district offices are connected or work in the system, so no fact is recorded."
+}

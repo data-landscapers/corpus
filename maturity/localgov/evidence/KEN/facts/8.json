@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-21-ken-treasury-draft-national-payment-system-policy-2026",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The National Treasury's draft National Payment System Policy of August 2026 says the Central Bank of Kenya migrated government payments to its real-time gross settlement system and rolled out internet banking for ministries, departments and agencies and for county governments; it gives no date, no count of counties and nothing on how county offices are connected, so the date here is the document's published date.", "as_of": "2026-09-21", "date_precision": "day", "system": "County governments' use of Central Bank of Kenya internet banking", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Central Bank of Kenya internet banking for government", "country_label": "internet banking solutions", "class": "application", "platform": "", "owner": "Central Bank of Kenya", "tiers": "ministries, departments and agencies, and county governments"},
+    {"system": "eCitizen", "country_label": "eCitizen", "class": "web", "platform": "", "owner": "national government", "tiers": "government platform with digital payments integrated"}
+  ],
+  "note": ""
+}

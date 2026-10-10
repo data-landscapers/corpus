@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-29-ecoi-burundi-national-identity-card-cni",
+  "facts": [],
+  "systems": [
+    {"system": "biometric national identity card pilot", "country_label": "CNI biométrique", "class": "", "platform": "", "owner": "Ministry of the Interior, with UNDP and the World Bank", "tiers": "a pilot in Bujumbura, 37,725 persons registered as of 31 December 2013; the pilot period over by January 2020"}
+  ],
+  "note": "A research response on the national identity card, issued on paper by the communal office or city hall with the file kept on site and no central electronic database; it states nothing about the connection of those offices."
+}

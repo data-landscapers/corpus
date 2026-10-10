@@ -1,0 +1,60 @@
+{
+  "slug": "2025-08-28-worldbank-niger-smart-villages-isr-private-investment",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank's status report on its IDA-financed Smart Villages project (two IDA financings of about US$50 million each, 60% disbursed at 8 August 2025) lists the completion of connectivity for health centres, schools and municipalities among the project's activities, to be finished before closing on 23 October 2026.",
+      "as_of": "2025-08-08",
+      "date_precision": "day",
+      "system": "Smart Villages project (P167543): connectivity for health centers, schools and municipalities",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "The World Bank's status report says, as a key decision at August 2025, that completing connectivity for health centres, schools and municipalities under the Smart Villages project is prioritised for rapid operationalisation; it gives no number of municipalities connected or planned, and the connections were not yet complete.",
+      "as_of": "2025-08",
+      "date_precision": "month",
+      "system": "Smart Villages project (P167543): connectivity for health centers, schools and municipalities",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Smart Villages project (P167543): connectivity for health centers, schools and municipalities",
+      "country_label": "Niger: Smart Villages for rural growth and digital inclusion",
+      "class": "connection",
+      "platform": "",
+      "owner": "Government of Niger project implementation unit, World Bank financed",
+      "tiers": "municipalities, with health centres and schools; not yet complete at August 2025"
+    },
+    {
+      "system": "Rural mobile broadband sites under the Smart Villages project",
+      "country_label": "Smart Villages",
+      "class": "public-access",
+      "platform": "3G and above mobile broadband",
+      "owner": "Zamani Telecom and Niger Telecoms, under project contracts",
+      "tiers": "780 previously uncovered localities served at 6 August 2025, of 2,175 planned"
+    },
+    {
+      "system": "Digital centers created under the Smart Villages project",
+      "country_label": "digital centers",
+      "class": "public-access",
+      "platform": "",
+      "owner": "Smart Villages project",
+      "tiers": "113 centres at 30 June 2024 (124 cited elsewhere in the report), including 5 mobile ones; for residents and firms"
+    },
+    {
+      "system": "IXP Niger",
+      "country_label": "IXP Niger",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; inauguration prioritised at August 2025"
+    }
+  ],
+  "note": ""
+}

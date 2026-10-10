@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-25-angop-infosi-backup-data-center-requalificacao",
+  "facts": [],
+  "systems": [
+    {"system": "Backup Data Center do INFOSI", "country_label": "Backup Data Center do INFOSI", "class": "backbone", "platform": "", "owner": "Instituto Nacional de Fomento da Sociedade da Informação (INFOSI)", "tiers": "Luanda; reopened after upgrade on 25 August 2026"},
+    {"system": "Data Center e Cloud do Governo", "country_label": "Data Center e Cloud do Governo angolano", "class": "backbone", "platform": "", "owner": "Government of Angola", "tiers": "Camama; opened April 2026"}
+  ],
+  "note": "A report of 25 August 2026 on the reopening of the state's backup data centre; no local government office is said to be on it or connected."
+}

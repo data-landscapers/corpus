@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-27-lesahel-wuri-niger-restructure-identification-universelle",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme digitale de gestion des faits d'état civil", "country_label": "nouvelle plateforme digitale de gestion des faits d'état civil", "class": "application", "platform": "", "owner": "Direction Générale de l'état civil, des migrations et des réfugiés, Ministère de l'Intérieur", "tiers": "planned under the restructured WURI project, with computerisation of all communes and declaration centres; not yet in service"},
+    {"system": "Registre National d'Etat Civil", "country_label": "Registre National d'Etat Civil (RNEC)", "class": "application", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "national; planned"},
+    {"system": "Registre National de la Population", "country_label": "Registre National de la Population (RNP)", "class": "central", "platform": "", "owner": "ANEI", "tiers": "first phase in the five arrondissements of Niamey, then other regions"},
+    {"system": "Registre National des Nationalités", "country_label": "Registre National des Nationalités (RNN)", "class": "central", "platform": "", "owner": "Ministère de la Justice", "tiers": "national; planned"},
+    {"system": "Intranet du Ministère de la Justice", "country_label": "Intranet du Ministère", "class": "central", "platform": "", "owner": "Ministère de la Justice", "tiers": "ministry; to be improved"},
+    {"system": "mini centre de données de l'ANEI", "country_label": "mini centre de données informatique et mini SOC", "class": "central", "platform": "", "owner": "ANEI", "tiers": "agency; planned"}
+  ],
+  "note": "The restructured WURI project plans investments to computerise all communes and declaration centres for civil status (July 2026); these are planned applications and equipment, with no commune office said to be connected."
+}

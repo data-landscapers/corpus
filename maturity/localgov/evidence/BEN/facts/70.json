@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-driving-digital-transformation-benin",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National IT network",
+      "country_label": "National IT network (government IT network)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "government ministries, authorities and offices across 77 municipalities"
+    },
+    {
+      "system": "National data centre",
+      "country_label": "National data centre",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
+  ],
+  "note": "The GSMA report says the national IT network 'now connects government ministries, authorities, and offices across 77 municipalities' (undated; published 2025-01): it places government offices in all 77 communes on the network but does not say the communes' own offices are among them, so it is entered as backbone and gives no fact. The parent may read it otherwise."
+}

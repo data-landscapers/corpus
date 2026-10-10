@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-05-tgo-actutogo-permis-de-construire-portail-national",
+  "facts": [],
+  "systems": [
+    {"system": "Système intégré de gestion du permis de construire (SIGPC)", "country_label": "SIGPC", "class": "application", "platform": "", "owner": "", "tiers": "Building permits issued by the mairie or the prefecture with the Direction générale de l'urbanisme et de l'habitat; running since 2017, and since 2022 mayors and local elected officials can consult the files of their commune and exchange with the instructing services"},
+    {"system": "Portail national des services publics", "country_label": "portail national des services publics", "class": "web", "platform": "", "owner": "", "tiers": "National; architect certification and building-permit requests integrated on 29 September 2026, files passed on to SIGPC"}
+  ],
+  "note": "Says mayors and local elected officials have been able to consult their commune's permit files in SIGPC since 2022, but states no connection at a commune office and does not say where or over what they do so; SIGPC is an application, so no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-07-ghana-marrify-digital-marriage-records",
+  "facts": [],
+  "systems": [
+    {"system": "Marrify", "country_label": "Marrify", "class": "", "platform": "", "owner": "Marry Right Ghana Ltd, in partnership with the Ministry of Gender, Children and Social Protection", "tiers": "national; draws records from the Registrar-General's Department, courts, assemblies and the Ghana Gazette"}
+  ],
+  "note": "A privately run marriage-records search platform: assemblies appear only as one source of the records it draws on; nothing on the connection of an assembly office."
+}

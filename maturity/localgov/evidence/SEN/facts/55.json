@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-worldbank-senegal-digital-economy-acceleration-restructuring",
+  "facts": [],
+  "systems": [
+    {"system": "State public fibre-optic network", "country_label": "national fiber optic backbone", "class": "backbone", "platform": "", "owner": "Senegal Numerique SA (SENUM)", "tiers": "national; audit not completed as at 28 January 2026, PPP for missing links cancelled"},
+    {"system": "Governmental intranet", "country_label": "governmental intranet", "class": "backbone", "platform": "", "owner": "", "tiers": "51 health structures of 1,600 connected at baseline (October 2022); no local government office stated"},
+    {"system": "Government Cloud", "country_label": "Government Cloud", "class": "backbone", "platform": "", "owner": "SENUM", "tiers": "ministries and agencies; scale-up to be supported"},
+    {"system": "Integrated Public Financial Management Information System (IFMIS) accounting module", "country_label": "IFMIS", "class": "central", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": "central; not operational as at 28 January 2026"}
+  ],
+  "note": "World Bank restructuring paper on the digital economy project: backbone, last-mile mobile coverage, government cloud and health systems; it states nothing about a connection at any commune or other local government office."
+}

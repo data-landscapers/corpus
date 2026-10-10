@@ -1,0 +1,8 @@
+{
+  "slug": "2018-09-01-lso-data-requirement-analysis-and-data-mapping-unicef-lesotho",
+  "facts": [],
+  "systems": [
+    {"system": "Decentralizing Access to Child Development Indicators project", "country_label": "Child Development Indicators project", "class": "application", "platform": "", "owner": "UNICEF, Ministry of Local Government and Chieftainship Affairs and Limkokwing University", "tiers": "planned in 2018: dashboards of child development indicators for district, urban and community councils, drawing on ministries' information systems"}
+  ],
+  "note": "The passages describe decentralisation and a planned dashboards project for councils; nothing states that council offices are connected or how. The report gives the administrative divisions as of 2018: 10 district councils, 1 municipal council, 10 urban councils and 65 community councils."
+}

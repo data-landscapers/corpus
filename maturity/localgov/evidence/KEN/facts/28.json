@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-27-wearetech-kenya-47-comtes-marches-publics-numeriques",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "We Are Tech Africa reports that the National Treasury's Cabinet Secretary announced on 25 August 2026, after meeting the Council of Governors, that all 47 county governments must finish integrating the national electronic procurement platform (e-GP) with IFMIS by 30 September 2026; e-GP was due to extend to all national and local administrations from 1 July 2025, the Council of Governors resisted the pace, and more than 900 public entities of all kinds had migrated by February 2026, with no count of counties given and nothing on how county offices are connected.", "as_of": "2026-08-25", "date_precision": "day", "system": "County governments' use of e-GP and IFMIS", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Electronic government procurement system (e-GP)", "country_label": "e-GP", "class": "application", "platform": "", "owner": "National Treasury", "tiers": "first phase launched April 2025; all national and local administrations from 1 July 2025; more than 900 public entities migrated by February 2026; all 47 counties to integrate it with IFMIS by 30 September 2026"},
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "National Treasury", "tiers": "national and county governments"}
+  ],
+  "note": ""
+}

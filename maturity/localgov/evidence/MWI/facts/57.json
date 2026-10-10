@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-01-mwi-undp-idt4m-annual-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Nzika integrated registration platform", "country_label": "Nzika (Citizen) mobile application", "class": "central", "platform": "Nzika mobile application, offline-capable with biometric kits", "owner": "National Registration Bureau, with UNDP support", "tiers": "87 NRB service points at Traditional Authority offices in five districts (Karonga, Balaka, Mwanza, Lilongwe, Mchinji) in 2025; national rollout planned for 2026"},
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "", "platform": "", "owner": "", "tiers": "named only in the list of acronyms"}
+  ],
+  "note": "UNDP project report on the national ID, civil registration and digital skills: the registration service points are the National Registration Bureau's own, held at Traditional Authority offices, and the local government ministry is named only as a partner in a birth registration campaign; nothing on council offices' connection."
+}

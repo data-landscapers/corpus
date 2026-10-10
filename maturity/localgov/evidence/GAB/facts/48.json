@@ -1,0 +1,10 @@
+{
+  "slug": "2021-05-10-gabon-project-information-document-digital-gabon-p175987",
+  "facts": [],
+  "systems": [
+    {"system": "Online presence of local government institutions", "country_label": "", "class": "web", "platform": "", "owner": "the local government institutions", "tiers": "all the major central and local government institutions, which provide few digitalised services (World Bank, May 2021)"},
+    {"system": "Digitalized civil registration (CR) system", "country_label": "CR system", "class": "application", "platform": "", "owner": "CNEC", "tiers": "planned under Digital Gabon Component 2: a centralised database and a module for registration in local government offices"},
+    {"system": "Central African Backbone Phase IV (CAB4)", "country_label": "CAB4", "class": "backbone", "platform": "", "owner": "", "tiers": "national broadband infrastructure, project 2012 to October 2020; no local government office said to be on it"}
+  ],
+  "note": "A World Bank project information document for Digital Gabon: it says local governments have an online presence and run sectoral digital initiatives with ANINF's support, and plans a civil registration module for local government offices, but states nothing about any local government office's connection."
+}

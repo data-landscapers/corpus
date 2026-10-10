@@ -1,0 +1,11 @@
+{
+  "slug": "2009-01-01-telma-corporate-review-2009",
+  "facts": [],
+  "systems": [
+    {"system": "Telma Backbone national", "country_label": "Backbone national en Fibre Optique", "class": "backbone", "platform": "", "owner": "Telma", "tiers": "2,000 km of fibre linking the main towns at January 2009, 3,000 km planned for end 2009; 487 communes covered by Telma Mobile"},
+    {"system": "Réseau Métropolitain en Fibre Optique d'Antananarivo", "country_label": "réseau MAN", "class": "backbone", "platform": "", "owner": "Telma", "tiers": "100 km underground in Antananarivo, serving ministries and administrations, banks and main businesses"},
+    {"system": "SIIGFP (Système Intégré Informatisé de Gestion des Finances Publiques)", "country_label": "SIIGFP", "class": "central", "platform": "", "owner": "Ministère des Finances", "tiers": "79 sites in the 22 regions"},
+    {"system": "GasyNet customs network", "country_label": "GasyNet", "class": "central", "platform": "", "owner": "Direction des Douanes / GasyNet", "tiers": "customs offices; Antananarivo to Toamasina over the backbone, SDSL in large towns"}
+  ],
+  "note": "An operator's review of January 2009: backbone, the capital's metropolitan fibre and ministries' networks. The Commune Urbaine d'Antananarivo appears only in a list of Telma customers, with no service described; no commune office is said to be connected."
+}

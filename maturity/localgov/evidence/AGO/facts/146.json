@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-18-lei-23-21-regime-juridico-do-cadastro-predial",
+  "facts": [],
+  "systems": [
+    {"system": "Registo Informatizado do Cadastro Predial", "country_label": "Registo Informatizado", "class": "central", "platform": "", "owner": "Serviço Central de Cadastro", "tiers": "national; the law has the central service keep it, and local administration and local authorities only collaborate and report boundary and place-name changes"}
+  ],
+  "note": "The cadastre law; it gives local administrations and local authorities duties to collaborate and inform, and states nothing about their offices' connection or their working in any system."
+}

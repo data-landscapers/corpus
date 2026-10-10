@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-24-mlha-committee-of-supply-speech-2026-27",
+  "facts": [],
+  "systems": [
+    {"system": "National Archives and Records Management System (NARMS)", "country_label": "NARMS", "class": "central", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": "Final phase live; Records Management Unit sub-system being rolled out to selected Government Ministries and Departments; no council named"},
+    {"system": "Births and Deaths Registration System (BDRS)", "country_label": "BDRS", "class": "central", "platform": "", "owner": "Department of Civil and National Registration", "tiers": "Not stated"},
+    {"system": "National Identification System (NIS)", "country_label": "NIS", "class": "central", "platform": "", "owner": "Department of Civil and National Registration", "tiers": "Not stated"},
+    {"system": "1-Gov platform", "country_label": "1-Gov platform", "class": "central", "platform": "", "owner": "", "tiers": "Not yet launched; the ministry's online services wait on it"}
+  ],
+  "note": "A central ministry's budget speech; its systems and its Local Area Network upgrade are the ministry's own, and the body states nothing about a local government office."
+}

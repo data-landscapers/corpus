@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-22-comores-mfbsb-appel-offre-cablage-informatique-23-sites",
+  "facts": [],
+  "systems": [
+    {"system": "systèmes de câblage informatique pour les 23 sites du MFBSB (PAGF-SI)", "country_label": "câblage informatique des 23 sites du MFBSB", "class": "central", "platform": "structured cabling: copper Cat 6/6a, optical fibre, patch bays and network cabinets", "owner": "Ministère des Finances, du Budget et du Secteur Bancaire, PAGF-SI project unit; financed by the Agence Française de Développement", "tiers": "23 finance-ministry sites on the three islands; at tender, bids due 16 February 2026"}
+  ],
+  "note": "A tender to cable 23 sites of the finance ministry itself: a ministry's field offices, class central; no commune or other local government office is named."
+}

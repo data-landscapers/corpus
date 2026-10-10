@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-24-moz-ecofinagency-unified-digital-platform",
+  "facts": [],
+  "systems": [
+    {"system": "GovNET", "country_label": "GovNET network", "class": "backbone", "platform": "", "owner": "government", "tiers": "public institutions; no local government office said to be on it"},
+    {"system": "CloudGov and government data center", "country_label": "CloudGov", "class": "backbone", "platform": "", "owner": "government", "tiers": "public institutions; no local government office said to be on it"}
+  ],
+  "note": "Names GovNET, CloudGov and a government data centre as the shared architecture for a unified public-services platform by 2029; no local government office is said to be on any of them."
+}

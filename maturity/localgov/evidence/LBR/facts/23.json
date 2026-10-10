@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-liberia-naymote-president-meter-annual-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "County Service Centers", "country_label": "County Service Center (CSC)", "class": "central", "platform": "", "owner": "Ministry of Internal Affairs, with the ministries and agencies whose services they deliver", "tiers": "county level; assessed by Naymote in Bong, Grand Bassa and Margibi in July-August and November 2025"}
+  ],
+  "note": "A civil-society tracker of the national development plan. It says county governments are under-resourced, with limited infrastructure and equipment, and that 89.3% of services at three County Service Centers still need in-person submission and live signatures, but it states nothing about a data connection at a county administration's own office; the service centres are one-stop shops for ministries' services."
+}

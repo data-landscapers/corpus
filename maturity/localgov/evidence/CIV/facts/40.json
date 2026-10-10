@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Cityweb", "country_label": "Cityweb software by ONECI", "class": "application", "platform": "Cityweb (the compilation cites Semlex)", "owner": "Office national de l'état civil et de l'identification (ONECI)", "tiers": "Local civil status centres: 105 of 860 centres across 5 regions as of early 2024, with 80% planned by end-2024, as the compilation gives it; said to allow digital entry and electronic transmission from local to central level"}
+  ],
+  "note": "The passages are an AI-assisted compilation's rows on rural clinics, schools, police and registry offices (a source study.json excludes); the registry row names a civil registration application in civil status centres, without saying the centres are local government offices or how they are connected."
+}

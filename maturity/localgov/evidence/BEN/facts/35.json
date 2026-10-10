@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-22-cadastre-porto-novo-pays-bas",
+  "facts": [],
+  "systems": [
+    {"system": "e-Foncier Bénin", "country_label": "base des données cadastrales numériques e-foncier Bénin; cadastre national", "class": "application", "platform": "", "owner": "the national cadastre, built under the projects Pmaf and Ppmec with Netherlands embassy finance; data collected by a consortium of field technicians", "tiers": "all five arrondissements of the commune of Porto-Novo, with more than 53,000 parcels registered by April 2026; the document does not say mairie staff work in it"}
+  ],
+  "note": "A Dutch delegation's visit of 20 April 2026 to the cadastre operations in Porto-Novo; the mairie asked for the extension and its mayor reports the figures, but nothing is stated about the mairie's own connection or about its staff working in the database."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-07-tchadinfos-finances-appuie-conseils-provinciaux-materiels-bureautiques",
+  "facts": [],
+  "systems": [
+    {"system": "Office equipment and Starlink kits handed to the 23 provincial councils", "country_label": "matériels bureautiques; kit starlink", "class": "upper-tier", "platform": "Starlink", "owner": "Ministère des Finances (gift to the councils)", "tiers": "each of the 23 Conseils provinciaux: two computers, two solar kits, two printers, a photocopier and a Starlink kit, handed over 2026-01-07"},
+    {"system": "Système intégré de gestion des finances publiques (SIGFiP), extension to the collectivités territoriales", "country_label": "SIGFiP", "class": "application", "platform": "", "owner": "Ministère des Finances", "tiers": "being implemented and extended to the level of the collectivités territoriales; the handover is stated to be in that framework"}
+  ],
+  "note": "The recipients are the 23 provincial councils, the upper tier, so no fact: each got a Starlink kit with computers and solar kits on 2026-01-07, from the finance ministry, in the framework of extending SIGFiP to the collectivités territoriales. Communes are not named as recipients. The parent should see this for the long summary."
+}

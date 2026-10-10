@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-01-mwi-cuci-impact-evaluation-report",
+  "facts": [],
+  "systems": [
+    {"system": "Unified Beneficiary Registry (UBR)", "country_label": "UBR / UBR Management Information System", "class": "central", "platform": "", "owner": "not stated", "tiers": "took the registration data of the urban cash intervention in the four cities of Blantyre, Lilongwe, Mzuzu and Zomba; no council office said to work in it"},
+    {"system": "Social Cash Transfer Program Management Information System (SCTP-MIS)", "country_label": "SCTP-MIS", "class": "central", "platform": "", "owner": "Ministry of Gender, Community Development and Social Welfare (Social Cash Transfer Unit)", "tiers": "generated the payroll sent to the mobile network operators; not stated where it is used"}
+  ],
+  "note": "City councils appear as implementers of the cash intervention (hotspot mapping, data collection, grievances) and as interviewees; nothing is stated about a council office's connection or about council staff working in a system."
+}

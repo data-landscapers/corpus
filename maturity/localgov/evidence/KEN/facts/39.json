@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-31-kenya-ict-devolution-partnership",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Hubs", "country_label": "Digital Hubs", "class": "public-access", "platform": "", "owner": "national government, including through the National Government Constituencies Development Fund", "tiers": "to be expanded across the country, for citizens' access to government services and digital skills training"},
+    {"system": "Harmonised framework for fibre deployment and wayleave charges", "country_label": "", "class": "backbone", "platform": "", "owner": "State Department for ICT and Digital Economy with the State Department for Devolution; to go to the Intergovernmental Sector Forum on ICT", "tiers": "proposed, across the 47 counties; no county office said to be connected"}
+  ],
+  "note": "Two national departments commit to work on county digital infrastructure, a wayleave framework and digital hubs; the document states no connection at any county office, and names no plan, budget or count."
+}

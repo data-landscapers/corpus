@@ -1,0 +1,66 @@
+{
+  "slug": "2026-09-14-tun-assabah-tunis-taamir-building-permit-platform",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The national digital platform for managing building permits, Taamir, was launched on 24 June 2026 and generalised to 16 municipalities, making permit issuance digital from application to final signature; the document does not say how the municipal offices are connected.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:16",
+      "fact": "The platform's backers announced on 24 June 2026 that Taamir was generalised to 16 named municipalities (Tunis, Hammamet, Agareb, Medenine, Bizerte, Sidi Hassine, Jendouba, Djerba Midoun, Djerba Houmt Souk, Sfax, Le Kef, Kebili, Raoued, La Marsa, Kairouan, El Mourouj); no total of municipalities is given.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Municipality of Tunis announced on 14 September 2026 that it was starting to use the Taamir platform for filing and tracking building-permit files, while the existing administrative route stays in force for now.",
+      "as_of": "2026-09-14",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Taamir project falls under a cooperation agreement between the Ministry of the Interior and the German technical cooperation agency, through the project 'Digitalisation for sustainable development in Tunisia'; this is the platform's governance, not a stated owner of any office connection.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Taamir platform was financed through the United States Agency for International Development under the 'Tadaeem' programme; this is the platform's finance, not that of any office connection.",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Taamir",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Taamir",
+      "country_label": "المنصة الوطنية الرقمية للتصرف في رخص البناء \"تعمير\"",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of the Interior, with the German technical cooperation agency; financed by USAID (Tadaeem programme)",
+      "tiers": "16 municipalities, including the Municipality of Tunis"
+    }
+  ],
+  "note": "Facts are recorded on the study's rule that municipal staff working in a national system state a connection; the document itself describes only the platform and never the offices' connection."
+}

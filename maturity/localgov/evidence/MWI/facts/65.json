@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-21-ssrlp-inspire-o-aide-memoire",
+  "facts": [],
+  "systems": [
+    {"system": "Unified Beneficiary Registry (UBR)", "country_label": "Malawi Social Registry / UBR", "class": "central", "platform": "", "owner": "Government; UBR Management Unit", "tiers": "4.2 million households across 27 of the 28 rural districts as of March 2025; no council office said to work in it"},
+    {"system": "Mbwezera MIS", "country_label": "Mbwezera MIS", "class": "central", "platform": "CORE-MIS", "owner": "National Local Government Finance Committee (public works programme)", "tiers": "being configured; community-level staff log attendance through the M'bwezera Monitoring Tool app"},
+    {"system": "SCTP MIS", "country_label": "SCTP MIS", "class": "central", "platform": "CORE-MIS", "owner": "not stated", "tiers": "not stated"},
+    {"system": "COMSIP Integrated MIS (CIMIS)", "country_label": "CIMIS", "class": "central", "platform": "CORE-MIS", "owner": "COMSIP", "tiers": "not stated"}
+  ],
+  "note": "District councils appear only as hosts of field visits and as implementing partners; nothing is stated about a council office's connection or about council staff working in these systems."
+}

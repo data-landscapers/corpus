@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-02-chps-staffing-accountability-digital-integration-northern-ghana",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Management System II (DHIMS 2)", "country_label": "DHIMS 2", "class": "central", "platform": "DHIS2", "owner": "Ghana Health Service", "tiers": "health facilities, sub-districts and district health directorates; surveyed at 86 CHPS zones in six districts of the Northern Region, March 2024"},
+    {"system": "RMNCAH platform", "country_label": "Reproductive, Maternal, Newborn, Child and Adolescent Health (RMNCAH) platform", "class": "central", "platform": "", "owner": "Ghana Health Service", "tiers": "health facilities and district health directorates; logins held at district level, per respondents"}
+  ],
+  "note": "A study of community health compounds and district health directorates of the Ghana Health Service: districts and municipalities appear as the areas studied; the connectivity and login constraints it reports are those of health facilities, not of an assembly's office."
+}

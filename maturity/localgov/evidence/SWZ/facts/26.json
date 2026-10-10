@@ -1,0 +1,15 @@
+{
+  "slug": "2023-11-01-swz-accelerating-the-achievement-of-health-equity-goals-through-a-one-reco",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Wide Area Network (WAN)",
+      "country_label": "Government Wide Area Network",
+      "class": "backbone",
+      "platform": "reached by health facilities over a microwave network, with a private APN on the MTN mobile data network as backup",
+      "owner": "Government of Eswatini",
+      "tiers": "health facilities, rural and urban; no local government office named"
+    }
+  ],
+  "note": "A Ministry of Health and Data.FI poster on the client management information system (CMIS) in health facilities, which is outside the study's field. It names the Government Wide Area Network only as what health facilities connect to; nothing on local government offices."
+}

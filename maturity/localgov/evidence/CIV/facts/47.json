@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-18-cote-divoire-padci-revue-services-numeriques-cartographie-e-services-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "SIGESCOD – Système Intégré de Gestion des Collectivités Décentralisées", "country_label": "SIGESCOD", "class": "", "platform": "", "owner": "listed under DOCD, at a project address of the SNDI", "tiers": "not stated; listed in the e-services map by name only"},
+    {"system": "UVICOCI official website", "country_label": "Site officiel de l'UVICOCI", "class": "web", "platform": "", "owner": "Union des Villes et Communes de Côte d'Ivoire (UVICOCI)", "tiers": "The communes' association; an information site for individuals"},
+    {"system": "Système de Gestion Electronique de l'Etat Civil (SGEEC)", "country_label": "e-Etat Civil", "class": "application", "platform": "", "owner": "ONECI's identity system is its interface; the report sets it out as a priority e-service and target workflow", "tiers": "As designed: town halls (mairies), health centres, consulates and jurisdictions entering and synchronising acts in a central base"},
+    {"system": "administration's broadband networks and backbone", "country_label": "réseaux haut-débit de l'administration; backbone", "class": "backbone", "platform": "", "owner": "ANSUT deploys the network infrastructure; SNDI manages the administration's IT estate", "tiers": "not stated; no local government office said to be on it"}
+  ],
+  "note": "The passages of a PADCI consultancy report map central e-services and propose governance and target workflows; the civil registration workflow naming town halls is a design, and no connection at a local government office is stated as existing."
+}

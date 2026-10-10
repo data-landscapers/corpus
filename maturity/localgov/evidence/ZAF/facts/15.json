@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-16-dial-climate-data-jln-cape-town-spotlight",
+  "facts": [],
+  "systems": [
+    {"system": "Data Analytics Hub", "country_label": "Data Analytics Hub (DAH)", "class": "capacity", "platform": "open-source tooling; projects managed on a public GitLab issue board", "owner": "City of Cape Town", "tiers": "City of Cape Town; established 2017, hub-and-spoke"},
+    {"system": "Zonal Water Balance dashboard", "country_label": "Zonal Water Balance dashboard", "class": "application", "platform": "", "owner": "City of Cape Town", "tiers": "City of Cape Town; integrates supply, billing and geospatial data"},
+    {"system": "Water Distribution Daily Emailer", "country_label": "Water Distribution Daily Emailer", "class": "application", "platform": "", "owner": "City of Cape Town", "tiers": "City of Cape Town; daily action list to zone managers"},
+    {"system": "Open Data Portal", "country_label": "Open Data Portal", "class": "web", "platform": "", "owner": "City of Cape Town", "tiers": "City of Cape Town"},
+    {"system": "city-owned real-time heat sensor network", "country_label": "", "class": "city-systems", "platform": "", "owner": "City of Cape Town, with African Development Bank funding", "tiers": "City of Cape Town; under investigation, not built"}
+  ],
+  "note": "A companion page describing one city's climate-data applications; nothing stated on how the city's offices are connected."
+}

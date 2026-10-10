@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-02-ben-compte-rendu-du-conseil-des-ministres-du-02-sept-2026-secret",
+  "facts": [],
+  "systems": [
+    {"system": "Points Numériques Communautaires (PNC)", "country_label": "Points Numériques Communautaires", "class": "public-access", "platform": "", "owner": "", "tiers": "to sit inside 35 Centres intégrés économiques, sociaux et numériques to be built in 26 named communes"},
+    {"system": "Guichets uniques de Protection sociale (GUPS)", "country_label": "Guichets uniques de Protection sociale", "class": "central", "platform": "", "owner": "the state, under the Programme de Filets de Protection Sociale Productifs", "tiers": "35 integrated centres in 26 communes, converted from centres de promotion sociale"}
+  ],
+  "note": "Council of Ministers minutes of 2 September 2026: the 35 integrated centres in 26 communes are state service points and public access for residents, not commune offices, and nothing is said of any commune office's connection."
+}

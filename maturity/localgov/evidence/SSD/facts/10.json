@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-20 What is actually functioning as DPI in South Sudan",
+  "facts": [],
+  "systems": [
+    {"system": "biometric registration of public servants", "country_label": "biometric registration", "class": "central", "platform": "", "owner": "government, supported by the World Bank", "tiers": "civil service payroll"},
+    {"system": "digital platform for tax and revenue collection", "country_label": "", "class": "central", "platform": "", "owner": "privately owned, by Adut Salva Kiir Mayardit according to government and industry sources", "tiers": "customs and taxation"}
+  ],
+  "note": "A synthesis of national payment, revenue, payroll, border and health systems; it says e-government platforms are concentrated in cities and rural counties are digitally excluded, but states nothing about the connection of local government offices."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-14-iec-tender-0010562824-mobile-app-redevelopment",
+  "facts": [],
+  "systems": [
+    {"system": "Electoral Commission public mobile application", "country_label": "public mobile application", "class": "central", "platform": "built in-house in 2019 on a framework no longer supported; Android, iOS and Huawei; to be redeveloped", "owner": "Electoral Commission (IEC)", "tiers": "national, used by voters"},
+    {"system": "Voter Portal", "country_label": "Voter Portal (registertovote.elections.org.za)", "class": "central", "platform": "", "owner": "Electoral Commission (IEC)", "tiers": "national, used by voters"},
+    {"system": "Votaquotes", "country_label": "Votaquotes (e-Procurement)", "class": "central", "platform": "", "owner": "Electoral Commission (IEC)", "tiers": "national, used by bidders"}
+  ],
+  "note": "The national electoral commission's bid specification for its voter app; local government and municipality appear only as election types and as a selector for finding the commission's local offices. Nothing on any municipal office's connection."
+}

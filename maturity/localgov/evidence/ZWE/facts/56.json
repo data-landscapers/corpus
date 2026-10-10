@@ -1,0 +1,9 @@
+{
+  "slug": "2021-12-16-zwe-govt-pledges-to-provide-internet-services-to-rural-police-officers",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Transport and Traffic Management System", "country_label": "Smart Transport and Traffic Management System", "class": "city-systems", "platform": "", "owner": "Government of Zimbabwe", "tiers": "the police, local authorities and other security services are to be connected to it, to identify and sanction traffic offenders (announced after Cabinet, 14 December 2021)"},
+    {"system": "Home Affairs integrated management system (rural police station digitisation)", "country_label": "integrated management system", "class": "central", "platform": "", "owner": "Ministry of Home Affairs; implemented through POTRAZ", "tiers": "rural police stations, with gadgets, connectivity and 12 months of bandwidth paid by government; pilot completed"}
+  ],
+  "note": "The connectivity pledged is for rural police stations, a national agency's field offices. Local authorities are named only as bodies to be connected to a traffic management system, with no connection of their own offices stated."
+}

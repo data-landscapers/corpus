@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-26-ben-mnd-budget-2026-quatre-projets-phares",
+  "facts": [],
+  "systems": [
+    {"system": "Transformation numérique des collectivités locales", "country_label": "projet Transformation numérique des collectivités locales", "class": "", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation, as one of four flagship projects of its programme Numérique (12,372,151,413 F Cfa in the 2026 budget for the four together)", "tiers": "local authorities; not described"},
+    {"system": "déploiement du haut et du très haut débit sur l'ensemble du territoire, phase 2", "country_label": "haut et très haut débit, phase 2", "class": "backbone", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation", "tiers": "the whole territory, rural areas included; no local government office is said to be on it"},
+    {"system": "Smart Gouv, phase 2", "country_label": "Smart Gouv (phase 2)", "class": "", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation", "tiers": "not described"}
+  ],
+  "note": "La Nation's report of the ministry's 2026 budget defence of 25 November 2025 names a flagship project for the digital transformation of local authorities without saying what it does or what it is given, so it is a system with no class and gives no fact."
+}

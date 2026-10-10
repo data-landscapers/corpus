@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Diamniadio National Datacenter", "country_label": "Diamniadio National Datacenter", "class": "backbone", "platform": "", "owner": "Senegal Numerique S.A. (ex-ADIE), 100% State of Senegal", "tiers": "government data centre at Diamniadio, operational since 2021; tenants given as the government, Senelec, public agencies and state enterprises; no local government office said to be on it"}
+  ],
+  "note": "The Senegal rows of a data centre ownership register, an author's compilation; they list facilities and owners and say nothing of local government offices."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-27-uganda-tororo-one-stop-service-uganda-centre-inspection",
+  "facts": [],
+  "systems": [
+    {"system": "Service Uganda Centres", "country_label": "Service Uganda Centre (One-Stop Centre model)", "class": "central", "platform": "", "owner": "Ministry of Public Service; NITA-U supports the renovation of three pilots (Tororo, Mbarara, Gulu) under UDAP-GovNet; Posta Uganda hosts the Tororo centre", "tiers": "19 planned nationwide; six operational at July 2026 (Entebbe, Kasese, Jinja, Arua, Hoima and the Ministry of Public Service headquarters); Tororo inspected for readiness"},
+    {"system": "National Backbone Infrastructure Phase V (NBI Phase V)", "country_label": "NBI Phase V", "class": "backbone", "platform": "", "owner": "NITA-U", "tiers": "to give the Service Uganda Centres reliable internet connectivity, on the ICT permanent secretary's word; no local government office named"},
+    {"system": "Uganda Digital Acceleration Project - Government Network (UDAP-GovNet)", "country_label": "UDAP-GovNet", "class": "backbone", "platform": "", "owner": "NITA-U", "tiers": "funds the renovation of three pilot Service Uganda Centres"}
+  ],
+  "note": "The Service Uganda Centres are one-stop shops run by national ministries (class central, out of scope); Tororo Municipality's leaders joined the inspection, and nothing is said of the municipality's own office being connected."
+}

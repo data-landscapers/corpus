@@ -1,0 +1,15 @@
+{
+  "slug": "2005-04-16-egypt-online-cadastre-portal-fig-paper",
+  "facts": [],
+  "systems": [
+    {
+      "system": "eCAD Portal (Online Cadastre Portal)",
+      "country_label": "",
+      "class": "central",
+      "platform": "",
+      "owner": "Proposed to network the Egyptian Survey Authority, the Real Estate Publicity and Notarization Department, the Real Estate Taxation Department and the State-Owned Land Agency",
+      "tiers": "A 2005 proposal and prototype, not a deployment; local authorities are named only among those who request cadastre services"
+    }
+  ],
+  "note": "2005 conference paper proposing a cadastre portal across ministry agencies; the held text is truncated at section 5.2. Local authorities appear only as requesters of cadastre services; nothing on their offices' connection."
+}

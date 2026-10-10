@@ -1,0 +1,50 @@
+{
+  "slug": "2020-01-01-peoples-perspectives-id-civil-registration-rwanda",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The World Bank's research report says that at the time of its fieldwork (November 2019 to January 2020) the attestation of birth was issued by the Sector civil registrar through the Irembo platform, while the two fuller certificates were still issued in person at the Sector office; a digital birth registration system for health centres and Cell offices was 'about to be rolled out' and not yet in use.",
+      "as_of": "2020-01",
+      "date_precision": "month",
+      "system": "Sector civil registrar offices issuing through Irembo",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Irembo",
+      "country_label": "IREMBO, web portal providing access to Rwandan government services",
+      "class": "application",
+      "platform": "Irembo",
+      "owner": "",
+      "tiers": "citizens and agents nationally; Sector civil registrars issue the attestation of birth through it"
+    },
+    {
+      "system": "Digital birth registration system",
+      "country_label": "new digital birth registration system",
+      "class": "application",
+      "platform": "",
+      "owner": "National Identification Agency (NIDA); Ministry of Local Government is the authority for birth registration",
+      "tiers": "planned for health centres and Cell offices; not yet rolled out at the time of the report"
+    },
+    {
+      "system": "National Population Register",
+      "country_label": "NPR",
+      "class": "application",
+      "platform": "",
+      "owner": "National Identification Agency (NIDA)",
+      "tiers": "national; receives birth and death data electronically since 2016"
+    },
+    {
+      "system": "Biometric Data Collection Kits",
+      "country_label": "Biometric Data Collection Kits at sector offices",
+      "class": "equipment",
+      "platform": "",
+      "owner": "National Identification Agency (NIDA)",
+      "tiers": "sector offices so equipped, for national ID photographs and biometrics"
+    }
+  ],
+  "note": "The report gives Rwanda's structure as 30 Districts, 416 Sectors, 2,148 Cells and 14,837 Villages. It does not say how Sector or Cell offices are connected or how many are."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-kinshasa-drones-kin-alerte-rdcmonde",
+  "facts": [],
+  "systems": [
+    {"system": "aerial surveillance by drones", "country_label": "projet de surveillance aérienne", "class": "city-systems", "platform": "drones", "owner": "Gouvernement provincial de Kinshasa, in partnership with Call for Trading DRC Sarl", "tiers": "city-province of Kinshasa; announced, not reported as operating"},
+    {"system": "KIN ALERTE", "country_label": "KIN ALERTE", "class": "web", "platform": "mobile application for residents to report incidents", "owner": "Gouvernement provincial de Kinshasa, in partnership with Call for Trading DRC Sarl", "tiers": "city-province of Kinshasa; announced"}
+  ],
+  "note": "An undated magazine piece (published date a month-precision proxy) on a surveillance project announced by Kinshasa's provincial government; city systems and a residents' app, with no office connection described."
+}

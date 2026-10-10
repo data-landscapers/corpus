@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-02-numerique-gouv-bj-e-communes-lancement",
+  "facts": [],
+  "systems": [
+    {"system": "e-Communes", "country_label": "plateforme e-Communes; e-Commune", "class": "web", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation, launched 30 September 2025 with the Ministère de la Décentralisation et de la Gouvernance Locale; extension under the programme PRSCG 2", "tiers": "pilot in three communes, Porto-Novo, Lokossa and Djougou, with five administrative requests and their payment online; to be extended in stages to the other communes"}
+  ],
+  "note": "The ministry describes e-Communes as five requests residents make and pay for online in three pilot communes, which is an online service to residents; it states nothing about the connection of the mairies that answer them."
+}

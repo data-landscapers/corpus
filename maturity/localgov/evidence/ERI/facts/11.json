@@ -1,0 +1,8 @@
+{
+  "slug": "2002-07-08-worldbank-eritrea-education-training-sector-note",
+  "facts": [],
+  "systems": [
+    {"system": "Ministry of Education network: central LAN and internet server with dial-up modem links to zoba and sub-zoba education offices", "country_label": "", "class": "central", "platform": "", "owner": "Ministry of Education", "tiers": "the central ministry, six zobas and 30 of 55 sub-zobas; 25 of 55 sub-regional offices have no computer"}
+  ],
+  "note": "The capture holds only the title page and contents list; the ICT chapter is not captured, and the figures above come from the record's own header note, not the body. They describe a ministry's field offices, class central, so no fact is recorded."
+}

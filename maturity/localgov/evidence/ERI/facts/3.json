@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Network systems for population registers", "country_label": "population registers", "class": "application", "platform": "", "owner": "", "tiers": "urban areas; birth declarations from local administrative areas are processed at urban municipal offices such as Asmara, and rural offices have none"}
+  ],
+  "note": "The Eritrea rows concern paper recording at clinics, schools, police stations and registry offices; no connection at a local government office is stated, and the population-register systems named are applications."
+}

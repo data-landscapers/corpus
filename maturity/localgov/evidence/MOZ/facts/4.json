@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-03-atdi-portal-do-cidadao-mocambique",
+  "facts": [],
+  "systems": [
+    {"system": "GovNET", "country_label": "GovNET, rede de comunicações do Estado", "class": "backbone", "platform": "", "owner": "ATDI", "tiers": "between state institutions; no local government office said to be on it"},
+    {"system": "CloudGov", "country_label": "CloudGov, infra-estrutura de cloud do Governo", "class": "backbone", "platform": "", "owner": "ATDI", "tiers": "government; no local government office said to be on it"},
+    {"system": "Centros de Dados", "country_label": "Centros de Dados", "class": "backbone", "platform": "", "owner": "ATDI", "tiers": "government; no local government office said to be on it"}
+  ],
+  "note": "ATDI's account of the Portal do Cidadão (3 September 2026) names GovNET as the state's communications network for secure connectivity between institutions, with CloudGov and data centres; no municipality or district office is named."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2023-11-24-kenya-digital-health-act-2023",
+  "facts": [],
+  "systems": [
+    {"system": "County health data banks", "country_label": "county health data bank", "class": "application", "platform": "", "owner": "County Executive Committee Member for health", "tiers": "counties; required by section 26 of the Act, with no statement that any exists"},
+    {"system": "Comprehensive integrated health information system", "country_label": "the System", "class": "central", "platform": "", "owner": "Digital Health Agency", "tiers": "national, established by the Act"}
+  ],
+  "note": "A statute (commenced 2 November 2023): it requires county health data banks and consultation with county governments, but a law places nothing and it states no fact about county offices' connection."
+}

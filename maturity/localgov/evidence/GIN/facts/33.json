@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-05-telemo-etat-avancement-plateforme-marches-publics",
+  "facts": [],
+  "systems": [
+    {"system": "TELEMO", "country_label": "plateforme TELEMO", "class": "application", "platform": "", "owner": "Ministère de la Communication, de l'Économie numérique et de l'Innovation with the Autorité de Régulation des Marchés Publics (ARMP)", "tiers": "in production at 2026-02-27; deployment is to cover ministries, public establishments and local collectivities including communes and administrative regions, with none said to be using it yet"}
+  ],
+  "note": "The procurement platform's deployment is to extend to communes, stated as an intention on 2026-02-27; no commune is said to work in it and nothing is stated about a connection at commune offices."
+}

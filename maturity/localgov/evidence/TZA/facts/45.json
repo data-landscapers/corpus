@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-10-tza-programme-document-teacher-support-programme-tsp-revised-to-integrate",
+  "facts": [],
+  "systems": [
+    {"system": "Online Teachers Application System (OTEAS)", "country_label": "OTEAS", "class": "application", "platform": "", "owner": "not stated", "tiers": "national; job announcements for volunteer teachers posted to 131 district councils"},
+    {"system": "integrated teacher workforce data system", "country_label": "integrated teacher workforce data system", "class": "application", "platform": "", "owner": "PO-RALG Department of Education Administration leads, with the education ministry and e-Government Authority", "tiers": "planned under the programme; no tier stated"},
+    {"system": "Basic Education Management Information System (BEMIS)", "country_label": "BEMIS", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "ESMIS", "country_label": "ESMIS", "class": "", "platform": "", "owner": "", "tiers": "the education ministry's policy and planning directorate uploads data to it"}
+  ],
+  "note": "Passages only. An education programme in which local government authorities oversee schools and receive teachers; nothing is said of council offices or their connection."
+}

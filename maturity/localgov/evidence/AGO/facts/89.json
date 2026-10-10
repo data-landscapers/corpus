@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-worldbank-id4d-diagnostic-id-systems-angola-published-edition",
+  "facts": [],
+  "systems": [
+    {"system": "PGIBI", "country_label": "Plataforma de Gestão Integrada de Identificação Civil e Criminal", "class": "central", "platform": "technical coordination by China National Electronics Import and Export Corporation (CEIEC); central database and production centre in Luanda", "owner": "DNIRN, Ministry of Justice and Human Rights", "tiers": "one or more permanent ID units in each of the 164 municipalities as of 2022, 250 ID units in all; computerised and online, some units offline for want of communications and electricity"},
+    {"system": "RCI", "country_label": "Registo Civil Integrado", "class": "central", "platform": "", "owner": "DNIRN, Ministry of Justice and Human Rights", "tiers": "civil registration offices in Luanda, provincial capitals and some municipalities; most units still paper-based"},
+    {"system": "SIRC", "country_label": "SIRC", "class": "central", "platform": "", "owner": "DNIRN, Ministry of Justice and Human Rights", "tiers": "civil registration offices; independent of RCI"},
+    {"system": "BUAP", "country_label": "Balcão Único de Atendimento Público", "class": "central", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SIAC", "country_label": "Serviço Integrado de Atendimento ao Cidadão", "class": "central", "platform": "", "owner": "", "tiers": "6 units hosting ID services"},
+    {"system": "Municipal Card and residence register", "country_label": "Municipal Card (Cartão de Munícipe)", "class": "", "platform": "", "owner": "", "tiers": "the report says it could obtain no more information on the residence register"}
+  ],
+  "note": "Passages of a diagnostic of civil registration and identification, which are services of the justice ministry's field offices. It says municipalities are deconcentrated bodies run by centrally appointed administrators, 164 of them, and recommends placing registration units in local government buildings; it states nothing about municipal administrations' own connection."
+}

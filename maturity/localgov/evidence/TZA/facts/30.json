@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states",
+  "facts": [],
+  "systems": [
+    {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "GovESB", "class": "application", "platform": "", "owner": "e-Government Authority", "tiers": "data exchange across ministries; no local government tier stated"},
+    {"system": "Human Capital Information Management System (HCIMS)", "country_label": "HCIMS", "class": "application", "platform": "", "owner": "", "tiers": "central government; no local government tier stated"},
+    {"system": "Ajira Portal", "country_label": "Ajira Portal", "class": "application", "platform": "", "owner": "", "tiers": "public service recruitment; no local government tier stated"},
+    {"system": "NeST", "country_label": "NeST", "class": "application", "platform": "", "owner": "", "tiers": "government procurement; no local government tier stated"},
+    {"system": "GePG", "country_label": "GePG", "class": "application", "platform": "", "owner": "", "tiers": "government payments; no local government tier stated"},
+    {"system": "e-Mrejesho", "country_label": "e-Mrejesho", "class": "application", "platform": "", "owner": "", "tiers": "citizen feedback platform; no tier stated"}
+  ],
+  "note": "National core systems behind the World Bank's GovTech index placing; the document says nothing of local government offices or their connection."
+}

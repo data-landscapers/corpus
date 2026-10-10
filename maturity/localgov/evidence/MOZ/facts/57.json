@@ -1,0 +1,9 @@
+{
+  "slug": "2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma Comum de Comunicação de Dados do Governo e de Interoperabilidade", "country_label": "Plataforma Comum de Comunicação de Dados do Governo", "class": "backbone", "platform": "", "owner": "INAGE, which the decree charges with managing it", "tiers": "all public administration institutions, autarquias locais included, by the decree's scope; no office stated as connected"},
+    {"system": "Centros de Dados do Governo", "country_label": "Centros de Dados do Governo", "class": "backbone", "platform": "", "owner": "INAGE", "tiers": "public administration institutions are obliged to host their sectoral systems there"}
+  ],
+  "note": "A decree: it extends the interoperability framework's obligations to autarquias locais and assigns INAGE the government data communication platform; a legal duty, with no office stated as connected."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23-gsd-ngao-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Government Service Directory (GSD)", "country_label": "Dawati la Huduma za Serikali (GSD)", "class": "web", "platform": "", "owner": "Government of Tanzania; launched 23 June 2026, published by the e-Government Authority (e-GA)", "tiers": "more than 500 public institutions have entered their services; no local government tier stated"},
+    {"system": "NGAO", "country_label": "NGAO", "class": "", "platform": "multi-factor authentication for government systems", "owner": "Government of Tanzania", "tiers": "government systems; no tier stated"},
+    {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "Mfumo Mkuu wa Ubadilishanaji Taarifa Serikalini (GovESB)", "class": "backbone", "platform": "", "owner": "e-Government Authority (e-GA)", "tiers": "public institutions; no local government office said to be on it"}
+  ],
+  "note": "The body names no local government authority as a user of GSD, NGAO or GovESB; the minister for regional administration and local government only officiated, so no connection fact."
+}

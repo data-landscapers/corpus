@@ -1,0 +1,16 @@
+{
+  "slug": "2021-05-31-tgo-chaque-nom-compte-la-digitalisation-des-actes-detat-civil-une-experien",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "UNDP Togo reports, on a visit of 27 May 2021, that in the commune of Lacs 1 (Aného) the Kadodo application records civil-status acts and shares data in real time between health centres and the town hall's civil registry; it does not say how the town hall is connected.", "as_of": "2021-05-27", "date_precision": "day", "system": "Lacs 1 town hall civil registry real-time link with health centres (Kadodo)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:1", "fact": "UNDP Togo names one commune, Lacs 1 (Aného), where the Kadodo application shares data in real time between health centres and the town hall's civil registry, as at its visit of 27 May 2021; it gives no total of communes.", "as_of": "2021-05-27", "date_precision": "day", "system": "Lacs 1 town hall civil registry real-time link with health centres (Kadodo)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Lacs 1 town hall civil registry real-time link with health centres (Kadodo)", "country_label": "Kadodo", "class": "connection", "platform": "Kadodo", "owner": "Commune of Lacs 1, with UNDP equipment and training", "tiers": "one commune (Lacs 1, Aného): town hall civil registry and health centres"},
+    {"system": "Kadodo (civil-status registration application with dashboard)", "country_label": "Kadodo", "class": "application", "platform": "Kadodo", "owner": "Commune of Lacs 1; selected through a UNDP Accelerator Lab challenge in 2020", "tiers": "commune of Lacs 1"},
+    {"system": "UNDP office furniture and computer equipment for communes", "country_label": "", "class": "equipment", "platform": "", "owner": "UNDP", "tiers": "about sixty communes, 2020"},
+    {"system": "Digitalisation of municipal taxes, Lacs 1", "country_label": "", "class": "application", "platform": "", "owner": "Commune of Lacs 1, with UNDP", "tiers": "commune of Lacs 1"},
+    {"system": "Geographic information system of the commune's services, Lacs 1", "country_label": "Système d'information géographique", "class": "application", "platform": "", "owner": "Commune of Lacs 1, with UNDP", "tiers": "commune of Lacs 1, being set up"},
+    {"system": "UNDP Smart cities project", "country_label": "Smart cities - Villes intelligentes", "class": "", "platform": "", "owner": "UNDP", "tiers": "Lacs 1 to join among six other communes"}
+  ],
+  "note": ""
+}

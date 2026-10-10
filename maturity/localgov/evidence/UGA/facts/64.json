@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-01-uganda-vital-statistics-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "MVRS", "country_label": "Mobile Vital Records System", "class": "central", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "NIRA registration centres (more than 117) and notifying health facilities (222 hospitals of 5,230 facilities); no local government office named as a user"},
+    {"system": "NMRS", "country_label": "National Marriage Registration System", "class": "central", "platform": "", "owner": "Uganda Registration Services Bureau (URSB)", "tiers": "URSB, with 9 registration points in 5 regions"},
+    {"system": "Parish tablets", "country_label": "Two tablets per parish to aid data collection", "class": "equipment", "platform": "", "owner": "UBOS, provided through the Ministry of ICT and National Guidance", "tiers": "every parish, for Parish Chiefs as PDM data collectors; recommended for collecting births and deaths in communities"}
+  ],
+  "note": "A vital statistics report: it names the national agencies' registration systems and tablets given to parishes, and states nothing on the connection of a local government office. Chapters 5 to 7, tables and charts of deaths, causes of death and marriages, were checked by search for the study's terms and not read line by line."
+}

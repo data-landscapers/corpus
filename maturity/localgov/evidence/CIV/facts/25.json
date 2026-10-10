@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-30-cote-divoire-oneci-civil-registry-digitisation-goh",
+  "facts": [],
+  "systems": [
+    {"system": "Citiweb", "country_label": "logiciel Citiweb", "class": "application", "platform": "Citiweb", "owner": "Office national de l'état civil et de l'identification (ONECI), in a project financed by the European Union", "tiers": "The civil registration centres of the town halls (mairies) and sub-prefectures: digital registration of births, marriages, deaths and other acts"},
+    {"system": "IT equipment for civil registration centres", "country_label": "équipements informatiques intégrant le logiciel Citiweb", "class": "equipment", "platform": "", "owner": "ONECI", "tiers": "All civil registration centres of the town halls and sub-prefectures, equipped at the end of 2025, as AIP reports"}
+  ],
+  "note": "The document states that ONECI gave all civil registration centres in town halls and sub-prefectures computers carrying Citiweb at the end of 2025, and trained Gôh's registrars and sub-prefects in July 2026: equipment and an application, with no connection stated."
+}

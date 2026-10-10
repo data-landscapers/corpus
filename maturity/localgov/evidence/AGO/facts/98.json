@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-angola-modernizes-land-administration-gis-cadastre-management",
+  "facts": [],
+  "systems": [
+    {"system": "Cadastre system (distributed, GIS-based)", "country_label": "national cadastre", "class": "central", "platform": "Esri ArcGIS Pro and ArcGIS Enterprise, built by GEODATA (Mitrelli Group)", "owner": "Instituto Geodésico e Cartográfico de Angola (IGCA)", "tiers": "all 18 provincial offices of IGCA"},
+    {"system": "Property registration system", "country_label": "Conservatória do Registo Predial system", "class": "central", "platform": "built by GEODATA (Mitrelli Group)", "owner": "Ministry of Justice (Conservatória do Registo Predial)", "tiers": "all 22 registry offices in all 18 provinces"}
+  ],
+  "note": "A vendor case study of the national cadastre and property registry, both run in the offices of national agencies; municipalities appear only as losers of revenue, and nothing is stated about their offices' connection."
+}

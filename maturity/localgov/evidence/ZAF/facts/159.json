@@ -1,0 +1,9 @@
+{
+  "slug": "2023-12-05-telkom-investors-site-tours-presentation-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Openserve national fibre network", "country_label": "Openserve", "class": "backbone", "platform": "", "owner": "Telkom SA SOC Ltd (Openserve, its wholesale open-access arm)", "tiers": "170,000 km of fibre nationally, with a stated 'fibre presence covering 94% of Local Municipalities'; no municipal office said to be on it"},
+    {"system": "BCX data centres", "country_label": "BCX", "class": "backbone", "platform": "", "owner": "Telkom (BCX)", "tiers": "ten commercial data centres in Gauteng, KwaZulu-Natal and the Western Cape; no local government named as a client in the held text"}
+  ],
+  "note": "A commercial operator's investor deck. Its one local government figure, fibre presence covering 94% of local municipalities (2023), counts municipal areas the wholesale network reaches, not municipal offices connected: a backbone, so no fact. The parent may want the figure as context."
+}

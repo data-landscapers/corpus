@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2 / HMIS", "class": "central", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "Entered at county health teams from paper forms sent by clinics"},
+    {"system": "Birth registration system", "country_label": "birth registration", "class": "central", "platform": "Tablets and online system linked to DHIS2", "owner": "Ministry of Health, with UNICEF", "tiers": "15 county-level registration centres; said to be integrated in 98% of health districts in 2024"},
+    {"system": "EMIS", "country_label": "EMIS", "class": "central", "platform": "", "owner": "Ministry of Education", "tiers": "National; schools on paper"},
+    {"system": "CSIS and CMIS", "country_label": "Crime Statistics and Information System; Case Management Information System", "class": "central", "platform": "CMIS on DHIS2 with an offline mobile app", "owner": "Liberia National Police and justice institutions, with UNDP", "tiers": "Montserrado urban pilot (2021); rollout to police from 2022"}
+  ],
+  "note": "Liberia's rows cover clinics, schools, police stations and registry points, all ministry services and none a local government office; the source is also on the study's exclude_sources list as an AI-assisted compilation, so no fact is taken."
+}

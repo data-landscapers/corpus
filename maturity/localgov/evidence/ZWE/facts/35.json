@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-01-zwe-2026-zimbabwe-infrastructure-investment-programme",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "Government Wide Area Network (GWAN)", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "all Ministries, Departments and Agencies; extended in 2025 to audit units, human resources departments and other arms of Government"},
+    {"system": "Public Finance Management Network (PFMS kiosks)", "country_label": "Public Finance Management Network; PFMS kiosks", "class": "central", "platform": "Public Finance Management System (PFMS)", "owner": "Government of Zimbabwe (Treasury)", "tiers": "provincial capitals, district offices and hospitals"},
+    {"system": "Smart Government Private Cloud", "country_label": "Smart Government Private Cloud", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "across Government"},
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "national; hosts over 130 Government e-services and more than 30 backend systems"},
+    {"system": "Last Mile Connectivity to MDAs", "country_label": "Last Mile Connectivity to MDAS", "class": "central", "platform": "", "owner": "Government of Zimbabwe", "tiers": "ministries, departments and agencies; ZiG13,000,000 allocated for 2026"},
+    {"system": "Government Intranet Projects", "country_label": "Government Intranet Projects", "class": "", "platform": "", "owner": "Government of Zimbabwe", "tiers": "national; listed as a 2026 priority project with no description"}
+  ],
+  "note": "The government network and PFMS kiosks are stated to reach ministries, provincial capitals, district offices and hospitals; no local authority office is said to be on them. Local authorities appear only as recipients of fiscal transfers and road funds."
+}

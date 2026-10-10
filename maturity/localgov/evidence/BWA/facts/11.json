@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-26-ministry-of-finance-committee-of-supply-speech-2026",
+  "facts": [],
+  "systems": [
+    {"system": "National e-Procurement System", "country_label": "National e-Procurement System", "class": "application", "platform": "", "owner": "Ministry of Finance", "tiers": "Planned to cover procurement across Government, Local Authorities and State-Owned Enterprises; strategy approved 17 June 2025, system expected at the beginning of 2027; not yet in use"},
+    {"system": "ePayslip and ITW8 portals", "country_label": "ePayslip and ITW8 portals", "class": "central", "platform": "", "owner": "Ministry of Finance with the Directorate of Public Service Management", "tiers": "Government employees; no local government tier stated"}
+  ],
+  "note": "The speech names local authorities only as future users of a planned e-procurement system; it states nothing about a local government office's connection."
+}

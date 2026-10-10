@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-31-sa-operation-vulindlela-2026-q1-progress-report",
+  "facts": [],
+  "systems": [
+    {"system": "MyMzansi", "country_label": "MyMzansi platform", "class": "central", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "MzansiXchange", "country_label": "MzansiXchange data integration layer", "class": "central", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Electronic Travel Authorisation system", "country_label": "Electronic Travel Authorisation", "class": "central", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "News account of a national reform report; local government reform is governance and finance (metro trading services, a White Paper, the fiscal framework). Nothing on any municipal office's connection."
+}

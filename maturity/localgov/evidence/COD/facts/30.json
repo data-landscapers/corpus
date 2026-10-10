@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-18-rdc-masina-digitalisation-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "digitalisation des faits de l'état civil (Masina pilot)", "country_label": "digitalisation des faits de l'état civil", "class": "application", "platform": "DHIS2", "owner": "joint United Nations pilot (UNICEF, BCNUDH, UNHCR, UNFPA) financed by the Joint SDG Fund, with technical support from the Institut National de la Statistique", "tiers": "the Bureau municipal de l'état civil of Masina commune, Kinshasa; one pilot commune, under way in August 2025"}
+  ],
+  "note": "A civil-registration application piloted in one Kinshasa commune's civil status office; the document describes data entry and record keeping there but states nothing about the office's data connection, so no fact is taken."
+}

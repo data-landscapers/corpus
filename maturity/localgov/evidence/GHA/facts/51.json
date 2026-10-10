@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-adca-economic-report-data-centres-in-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana's National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Government of Ghana (a government-sponsored national data centre project)", "tiers": "National; no local government office is said to use it"}
+  ],
+  "note": "A continental data-centre report; for Ghana it names the national data centre only (backbone class) and states nothing about local government offices."
+}

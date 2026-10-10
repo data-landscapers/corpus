@@ -1,0 +1,12 @@
+{
+  "slug": "2024-11-28-decreto-presidencial-267-24-universalizacao-do-bilhete-de-identidade",
+  "facts": [],
+  "systems": [
+    {"system": "Balcão Único de Atendimento ao Público (BUAP)", "country_label": "BUAP", "class": "central", "platform": "", "owner": "Ministério da Administração do Território", "tiers": "service network in 164 municipalities, 518 communes and 44 urban districts; collecting identity-card data there is under way with technological shortcomings stated"},
+    {"system": "Postos de Identificação / Centro de Produção do Bilhete de Identidade (CPBI)", "country_label": "Postos de Identificação; CPBI", "class": "central", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "about 364 identification posts nationally and abroad, some offline; printing centralised in Luanda"},
+    {"system": "Sistema Integrado de Registo Civil", "country_label": "Sistema Integrado de Registo Civil", "class": "central", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "one of five civil registration modes; more than 300 civil registry services with no centralised database"},
+    {"system": "Aplicativo PROMOREM", "country_label": "PROMOREM", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Base de Dados de Cidadãos Maiores (BDCM)", "country_label": "BDCM", "class": "central", "platform": "", "owner": "Ministério da Administração do Território", "tiers": "national"}
+  ],
+  "note": "A plan for identity-card issuance through the justice ministry's posts and the territorial administration ministry's BUAP counters; it states telecommunications instability and missing municipal and communal infrastructure in general terms but nothing about the connection of municipal administrations' own offices."
+}

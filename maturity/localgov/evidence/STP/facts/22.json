@@ -1,0 +1,9 @@
+{
+  "slug": "2019-10-01-principe-2030-plano-desenvolvimento-sustentavel-regiao-autonoma",
+  "facts": [],
+  "systems": [
+    {"system": "Public information management system with territorial cadastre", "country_label": "sistema de gestão de informações público e transparente; cadastro territorial das propriedades", "class": "application", "platform": "", "owner": "Governo da Região Autónoma do Príncipe (GRAP)", "tiers": "Príncipe region; a target for 2025 (meta 8.2) in an October 2019 plan, not built"},
+    {"system": "Online publication of the regional budget", "country_label": "Publicação anual do orçamento da RAP em plataforma pública online", "class": "web", "platform": "", "owner": "Governo da Região Autónoma do Príncipe (GRAP)", "tiers": "Príncipe region; an indicator (9.1.2) of the plan, not reported as done"}
+  ],
+  "note": "An excerpt of the Príncipe regional government's October 2019 plan, cut off in objective 10. It lists 'limited digitalisation of the island' and the lack of regional cartography and cadastre among its constraints and sets targets for technological infrastructure by 2025 and 2030, and says nothing of how the regional government's own offices are connected. The regional government is the autonomous region, which the typology treats as upper tier."
+}

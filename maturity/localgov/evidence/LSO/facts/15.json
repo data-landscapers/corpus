@@ -1,0 +1,14 @@
+{
+  "slug": "2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "central", "platform": "", "owner": "Ministry of Finance and Development Planning", "tiers": "central government; budget, treasury and payroll modules active, with the core system often unavailable through network challenges; no local government tier stated"},
+    {"system": "Central Budget Management System (CBMS)", "country_label": "CBMS", "class": "central", "platform": "", "owner": "Ministry of Finance and Development Planning", "tiers": "central; the project is to finance technical assistance on the budgetary governance of autonomous spending entities, including decentralized entities, and their connection to it"},
+    {"system": "Human Resource Management Information System (HRMIS)", "country_label": "HRMIS", "class": "central", "platform": "", "owner": "Ministry of Public Service", "tiers": "ministries; no local government tier stated"},
+    {"system": "National Identity system (NID)", "country_label": "NID", "class": "central", "platform": "", "owner": "Department of Home Affairs, Ministry of Local Government, Chieftainship, Home Affairs and Police", "tiers": "verification services to a limited number of public and private entities; no local government tier stated"},
+    {"system": "Whole-of-government interoperability platform", "country_label": "whole-of-government interoperability platform", "class": "central", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation", "tiers": "planned under the project; key public entities and registries"},
+    {"system": "Government data hosting and business continuity solutions", "country_label": "core government data hosting and business continuity solutions", "class": "backbone", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation", "tiers": "end-of-life, to be upgraded under the project; no local government office named"},
+    {"system": "e-Government Infrastructure Phase I and Phase II projects", "country_label": "AfDB e-Government Phase I and Phase II", "class": "backbone", "platform": "", "owner": "Government of Lesotho, financed by the African Development Bank", "tiers": "e-government infrastructure and connectivity; Phase II finances broadband coverage, post offices upgraded as eService centres and an ePayment gateway; no local government office named"}
+  ],
+  "note": "The appraisal concerns central government systems. Local government appears in the name of the Home Affairs ministry; decentralized entities appear once, as bodies whose link to the budget system is to be studied. Nothing states that a local government office is connected or how."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-21-benin-programme-wadagni-talata-2026-2033",
+  "facts": [],
+  "systems": [
+    {"system": "réseau national de fibre optique", "country_label": "fibre optique", "class": "backbone", "platform": "", "owner": "the state, as the programme presents it", "tiers": "3,500 km, soon to link the 77 communes; no commune office is said to be on it"},
+    {"system": "connexion en fibre optique des juridictions et établissements pénitentiaires", "country_label": "connexion complète en fibre optique de toutes les juridictions et établissements pénitentiaires", "class": "central", "platform": "", "owner": "the state, justice sector", "tiers": "all courts and prisons"},
+    {"system": "Super App IA Gouvernementale", "country_label": "Super App IA Gouvernementale", "class": "web", "platform": "", "owner": "the state", "tiers": "citizens, national; announced"},
+    {"system": "relais digitaux communautaires", "country_label": "relais digitaux communautaires", "class": "public-access", "platform": "", "owner": "the state, as a campaign commitment", "tiers": "every locality; planned"},
+    {"system": "cadastre numérique", "country_label": "cadastre national", "class": "application", "platform": "", "owner": "the state", "tiers": "to be extended to all towns and rural areas; planned"}
+  ],
+  "note": "A presidential programme of 21 March 2026: the fibre is to link the 77 communes as territories and the only offices it places on fibre are courts and prisons, so nothing is stated about a local government office's connection."
+}

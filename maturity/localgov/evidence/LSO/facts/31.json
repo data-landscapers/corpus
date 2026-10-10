@@ -1,0 +1,8 @@
+{
+  "slug": "2022-03-01-lso-transforming-health-care-in-lesotho-using-digital-health-to-overcome-h",
+  "facts": [],
+  "systems": [
+    {"system": "Government network", "country_label": "government network", "class": "backbone", "platform": "", "owner": "Government of Lesotho; the Ministry of Health is the user described", "tiers": "listed as upgraded and expanded to health facilities under the eHealth Strategy 2019-2023, with a recommendation to raise uptime above 95% by December 2023; no local government office said to be on it"}
+  ],
+  "note": "The passages concern the health sector's use of the government network and its extension to health facilities; no local government office is said to be connected."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-26-uga-digital-services-agent-permission-layer",
+  "facts": [],
+  "systems": [
+    {"system": "Service Uganda Centres", "country_label": "Service Uganda Centres", "class": "central", "platform": "UGHub, the national data integration platform", "owner": "NITA-U, under the World Bank-supported Uganda Digital Acceleration Project (UDAP-GovNet)", "tiers": "being set up, starting in Gulu, Mbarara and Tororo"}
+  ],
+  "note": "An opinion column on AI agents; it names the Service Uganda Centres, which are national one-stop shops (class central), and says nothing of local government offices."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "NOSi National Data Centre (TechPark CV Praia Campus), listing Guinea-Bissau among its users", "country_label": "", "class": "backbone", "platform": "", "owner": "NOSi, Government of Cabo Verde", "tiers": "Located in Praia, Cabo Verde; no Guinea-Bissau tier stated"}
+  ],
+  "note": "An AI-compiled data-centre register; Guinea-Bissau appears only as a listed user of Cabo Verde's government data centre, and no local government office is mentioned."
+}

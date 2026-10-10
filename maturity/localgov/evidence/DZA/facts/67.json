@@ -1,0 +1,10 @@
+{
+  "slug": "2023-09-13-dza-nin-decret-23-316",
+  "facts": [],
+  "systems": [
+    {"system": "registre national automatisé d'état civil", "country_label": "registre national automatisé d'état civil", "class": "application", "platform": "", "owner": "not stated", "tiers": "named only as a register the national vehicle file is linked to (decree 23-317, art. 5); civil status registers are said to be kept at communes and consulates (decree 23-316, art. 5)"},
+    {"system": "fichier d'immatriculation des véhicules de la wilaya", "country_label": "fichier d'immatriculation des véhicules de la wilaya", "class": "upper-tier", "platform": "", "owner": "wali, feeding the national file held by the minister of the interior", "tiers": "wilaya; the wali may delegate its management to the administrative district, the daïra or an authorised official at the commune (decree 23-317, art. 6)"},
+    {"system": "système automatisé du numéro d'identification national unique (NIN)", "country_label": "système automatisé", "class": "", "platform": "", "owner": "minister of the interior", "tiers": "a central system generating the NIN, to be in place by 31 December 2023; authorised public bodies must link their systems to it; no local government office named as a user"}
+  ],
+  "note": "A gazette issue of decrees (NIN, national vehicle registration file, others): legal texts that state no connection at any commune office, its use or its coverage."
+}

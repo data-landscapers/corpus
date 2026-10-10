@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-08-ursb-non-individual-register-launch",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Local government officers are to enter entity data, including physical addresses and beneficial ownership, directly into the national Non-Individual Register, on a Uganda Registration Services Bureau principal registration officer's word at Jinja on 7 May 2026; the system was then in final testing with full rollout expected by June 2026, and the document does not say from which office or over what connection.", "as_of": "2026-05-07", "date_precision": "day", "system": "Non-Individual Register (NIR)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Non-Individual Register (NIR)", "country_label": "Non-Individual Register (NIR)", "class": "application", "platform": "centralised digital register issuing an Entity Registration Number (ERN)", "owner": "Uganda Registration Services Bureau (URSB)", "tiers": "national repository; local government officers are to enter entity data into it; in final testing at May 2026, full rollout expected by June 2026"}
+  ],
+  "note": "The one fact is a stated intention, not a live use: the register was still in testing, and the document names neither the local governments' offices nor their connection."
+}

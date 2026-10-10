@@ -1,0 +1,42 @@
+{
+  "slug": "2024-11-01-nga-assessment-of-the-political-economy-context-surrounding-evidence-use-f",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Gavi Zero-Dose Learning Hub report says all health facilities offering routine immunisation send monthly paper reports to LGA offices, where they are entered manually into DHIS2, the national administrative system, by staff at LGA level; it names no connection and gives no date, so the report's publication date of November 2024 is used.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "DHIS2 data entry at LGA offices",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "DHIS2 (routine immunisation module)",
+      "class": "application",
+      "platform": "DHIS2",
+      "owner": "Government; NPHCDA manages immunisation data through NERICC",
+      "tiers": "Entered at LGA offices from health facilities' monthly paper reports; a DHIS2 focal point in each state; health workers trained across the 774 LGAs in 2014-2017"
+    },
+    {
+      "system": "RI-SMS",
+      "country_label": "Routine Immunisation Short Message Service",
+      "class": "application",
+      "platform": "SMS platform",
+      "owner": "NPHCDA, introduced with AFENET",
+      "tiers": "Reported daily through state (SERICC) and local (LERICC) centres; operational in 18 states; data held at NPHCDA"
+    },
+    {
+      "system": "EMID",
+      "country_label": "Electronic Management of Immunization Data",
+      "class": "central",
+      "platform": "",
+      "owner": "NPHCDA, developed with eHealth Africa",
+      "tiers": "Routine immunisation module piloted in select states and recently launched to all states"
+    }
+  ],
+  "note": "A health-sector report; the one fact is DHIS2 entry at LGA offices. It states nothing on how the offices are connected or how many are."
+}

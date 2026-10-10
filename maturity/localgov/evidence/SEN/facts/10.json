@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-03-senum-teledac-dematerialisation-actes-administratifs",
+  "facts": [],
+  "systems": [
+    {"system": "TeleDAC (Télé-Demande d'Autorisation de Construire, now Télédemande d'Actes Administratifs)", "country_label": "TeleDAc", "class": "application", "platform": "www.teledac.gouv.sn", "owner": "Sénégal Numérique S.A., with APIX and the ministry in charge of urbanism", "tiers": "building-permit procedure, operational in the cities of Dakar, Pikine, Guédiawaye and Rufisque and extended to the 52 communes and 10 sub-prefectures of the Dakar region; undated page"},
+    {"system": "Messagerie gouvernementale", "country_label": "Messagerie gouvernementale (mail.gouv.sn)", "class": "", "platform": "", "owner": "Sénégal Numérique S.A.", "tiers": "named in the page's menu only"}
+  ],
+  "note": "The operator's undated page on the building-permit platform; it says the platform was extended to the Dakar region's 52 communes but not that their offices are connected or that their staff work in it from the town hall."
+}

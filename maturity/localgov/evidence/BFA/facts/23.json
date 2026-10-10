@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "ANPTIC Government Data Centre (Public Administration DC)", "country_label": "", "class": "backbone", "platform": "", "owner": "ANPTIC", "tiers": "Ouagadougou; no local government named"},
+    {"system": "Burkina Faso Government Mini Data Centres 1 and 2", "country_label": "", "class": "backbone", "platform": "", "owner": "Ministry of Digital Transition, Posts and Electronic Communications", "tiers": "Ouagadougou, operational 2026; customers given as government ministries"}
+  ],
+  "note": "No fact: a compiled register of data centres, listing three government data centres in Ouagadougou; no local government office is said to be on any of them."
+}

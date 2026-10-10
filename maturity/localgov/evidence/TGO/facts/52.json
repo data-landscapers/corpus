@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers",
+  "facts": [],
+  "systems": [
+    {"system": "Gest-exo", "country_label": "Gest-exo", "class": "central", "platform": "", "owner": "Office Togolais des Recettes (OTR)", "tiers": "national revenue office, for businesses online"},
+    {"system": "SYDONIA", "country_label": "SYDONIA", "class": "central", "platform": "SYDONIA", "owner": "OTR customs", "tiers": "national customs"}
+  ],
+  "note": "A national revenue-office platform for tax exemption requests; no local government is mentioned."
+}

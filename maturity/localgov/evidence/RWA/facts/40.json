@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-rwanda-vital-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The National Institute of Statistics of Rwanda states that the national centralised civil registration system (NCI-CRVS) is fully operational at all five categories of registration office, among them cells, sectors and districts, for the registration of vital events in 2025.", "as_of": "2025", "date_precision": "year", "system": "National Centralized and Integrated Civil Registration and Vital Statistics (NCI-CRVS) system", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "National Centralized and Integrated Civil Registration and Vital Statistics (NCI-CRVS) system", "country_label": "NCI-CRVS", "class": "application", "platform": "", "owner": "National Identification Agency (NIDA) with NISR; coordination chaired by the Minister of Local Government", "tiers": "health facilities, cells, sectors, districts and embassies"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "2022-03-30-tdr-ta-lmits-usability-evaluation",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Ministry of Finance's terms of reference say municipal councils use the shared land platform SIGTP, supported by NOSI, through the Municipal Information System, on the four registered islands (Sal, Boa Vista, Maio and rural São Vicente); it gives no count of councils and does not say how their offices are connected (no date given; document published March 2022).",
+      "as_of": "2022-03",
+      "date_precision": "month",
+      "system": "SIGTP (Property Management and Transaction Information System)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SIGTP (Property Management and Transaction Information System)",
+      "country_label": "SIGTP",
+      "class": "application",
+      "platform": "integrated land information platform, technical support by NOSI",
+      "owner": "National Institute for Land Management (INGT) leads; NOSI supports",
+      "tiers": "municipal councils, land registry offices, notaries and INGT, on the four registered islands"
+    },
+    {
+      "system": "Municipal Information System",
+      "country_label": "Municipal Information System",
+      "class": "application",
+      "platform": "",
+      "owner": "municipal councils",
+      "tiers": "municipal councils; the channel through which they use SIGTP"
+    }
+  ],
+  "note": ""
+}

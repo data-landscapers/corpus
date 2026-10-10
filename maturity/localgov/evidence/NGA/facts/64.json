@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-04-nigeria-project-bridge-fibre-spv",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "TechCabal, citing project plans and the ministry's project lead, says Project BRIDGE's milestones include expanding connectivity to more than 400 local government headquarters and connecting more than 59,000 public institutions by 2030, with at least 90,000 km of fibre due by September 2030 and physical deployment expected to begin in 2027; the document's own date is used.", "as_of": "2026-08-04", "date_precision": "day", "system": "Project BRIDGE", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The ministry's project lead told TechCabal that US$1.6bn is the envelope appraised and approved by the World Bank: US$500m from IDA, US$1.1bn expected from private and commercial financing, with US$200m from the African Development Bank, US$100m from the EBRD and US$100m from BADEA also named, and no domestic budget line stated; the document's own date is used.", "as_of": "2026-08-04", "date_precision": "day", "system": "Project BRIDGE", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:partner", "fact": "TechCabal reports that private investors are expected to hold 51 to 75 per cent of the Project BRIDGE special purpose vehicle and the Federal Government 25 to 49 per cent, under an independent board and private-sector management; the company was not yet incorporated and the document's own date is used.", "as_of": "2026-08-04", "date_precision": "day", "system": "Project BRIDGE", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE; Project Company; Project BRIDGE SPV", "class": "connection", "platform": "", "owner": "a special purpose vehicle, 51 to 75 per cent private and 25 to 49 per cent Federal Government, not yet incorporated at 4 August 2026", "tiers": "wholesale open-access fibre across 36 states and the Federal Capital Territory; connectivity to more than 770 local government areas; more than 400 local government headquarters; more than 59,000 public institutions by 2030"}
+  ],
+  "note": "Classed connection here only because this account names connectivity to local government headquarters as a milestone; it does not say whether that means the council's office or the headquarters town, and nothing was built at the date."
+}

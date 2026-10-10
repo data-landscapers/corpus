@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-18-inside-the-fake-aarto-fine-scam",
+  "facts": [],
+  "systems": [
+    {"system": "electronic National Traffic Information System", "country_label": "eNatis", "class": "central", "platform": "", "owner": "not stated; the Road Traffic Infringement Agency is investigating possible access to it", "tiers": "national vehicle database"}
+  ],
+  "note": "A scam using traffic-fine data. The AARTO regime is said to be live in 62 municipalities, but the document does not say municipal offices work in any system over a connection."
+}

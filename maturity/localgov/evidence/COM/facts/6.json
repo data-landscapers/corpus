@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-05-alwatwan-assoumani-interieur-plan-comores-emergent",
+  "facts": [],
+  "systems": [
+    {"system": "système d'état civil (Amecc project: standard forms and a national mapping)", "country_label": "état civil", "class": "application", "platform": "paper forms (imprimés) ordered by the Ministry of Finance", "owner": "Ministère de l'Intérieur, with France", "tiers": "national; standard forms and a national mapping of the civil-status system drawn up"},
+    {"system": "national identity card and passport production (Semlex, to be replaced by Genkey from 1 April 2026)", "country_label": "cartes nationales et passeports", "class": "central", "platform": "Semlex; Genkey from April 2026", "owner": "Ministère de l'Intérieur", "tiers": "biometric enrolment on Ndzuani and Mwali, printing on Ngazidja only"}
+  ],
+  "note": "The Interior minister on the mayors' congress of 15-16 December 2025: 54 communes, short of staff, funding and some without a secretary-general; nothing on their connection or equipment."
+}

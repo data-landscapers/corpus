@@ -1,0 +1,60 @@
+{
+  "slug": "2018-07-05-bringing-the-digital-world-to-cape-verde-huawei-case-studies",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "Huawei, the vendor, says that under the second phase of the state's e-government project it deployed 30 videoconferencing systems in high schools and municipal governments across the islands, on a government network meant to connect 1,142 organisations; it does not split the 30 between schools and municipal governments or say in so many words that the municipal offices are on the network (no date given; page dated July 2018 from its URL).",
+      "as_of": "2018-07",
+      "date_precision": "month",
+      "system": "Cape Verde eGovernment network",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Huawei says NOSi, the state's information society unit, initiated and implemented the e-government project, whose first phase (2010-2014) built the national data centre and upgraded the government communications network, and is responsible for its operation and maintenance (no date given; page dated July 2018 from its URL).",
+      "as_of": "2018-07",
+      "date_precision": "month",
+      "system": "Cape Verde eGovernment network",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cape Verde eGovernment network",
+      "country_label": "eGovernment network",
+      "class": "connection",
+      "platform": "Huawei routers (530) and switches (669); videoconferencing systems (30)",
+      "owner": "NOSi",
+      "tiers": "meant to connect 1,142 organisations: schools, medical institutions, government agencies and enterprises in small and medium-sized cities and towns; videoconferencing in high schools and municipal governments"
+    },
+    {
+      "system": "National data centre / eGovernment cloud",
+      "country_label": "national data center",
+      "class": "backbone",
+      "platform": "Huawei cloud data centre, 1,000 virtual machines and 1,000 TB after phase 2",
+      "owner": "NOSi",
+      "tiers": "national"
+    },
+    {
+      "system": "IGRP",
+      "country_label": "IGRP",
+      "class": "central",
+      "platform": "NOSi's framework for building government application software",
+      "owner": "NOSi",
+      "tiers": "government departments; no local government named"
+    },
+    {
+      "system": "WebLab",
+      "country_label": "WebLab",
+      "class": "public-access",
+      "platform": "containerised ICT training rooms",
+      "owner": "NOSi",
+      "tiers": "schools on the islands; students and local people"
+    }
+  ],
+  "note": "Vendor case study, and an excerpt: the bulleted lists of what Huawei delivered in each phase were lost in capture."
+}

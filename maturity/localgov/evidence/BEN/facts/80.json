@@ -1,0 +1,15 @@
+{
+  "slug": "2023-02-10-cadastre-national-mobilisation-ptf",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-Foncier Bénin",
+      "country_label": "système d'information foncier e-Foncier Bénin (cadastre national)",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence Nationale du Domaine et du Foncier (ANDF)",
+      "tiers": "National agency's land information system; parcels recorded for 24 arrondissements in 12 communes in three years (460,000 parcels), as stated on 10 February 2023. No commune office is said to work in it."
+    }
+  ],
+  "note": "The national cadastre is a national agency's system covering parcels in 12 communes; the document says nothing of commune offices being connected or working in it."
+}

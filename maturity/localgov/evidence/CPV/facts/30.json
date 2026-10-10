@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-tor-simple-territory-management",
+  "facts": [],
+  "systems": [
+    {"system": "SIM 2.0", "country_label": "SIM (Municipal Information System)", "class": "application", "platform": "", "owner": "", "tiers": "operational in all municipalities; first version 2001-2003 in pilots Praia, Sal and São Vicente, São Nicolau in 2007, upgrade to 2.0 nationwide 2008-2012 except São Vicente"},
+    {"system": "SIM LAND (SIM 3.0)", "country_label": "SIM LAND", "class": "application", "platform": "", "owner": "", "tiers": "since 2017 in the municipalities of Sal, São Vicente, Maio and Boa Vista"},
+    {"system": "SIMple", "country_label": "SIMple Municipal Management Platform", "class": "application", "platform": "IGRPweb on Kubernetes clusters; PDEX for interoperability", "owner": "Association of Municipalities as client; NOSi as technological partner hosting databases and application servers; World Bank credit (HISWAP), contract administered by UGPE", "tiers": "to be implemented in all Municipal Councils, within twelve months of contract signature"},
+    {"system": "PDEX", "country_label": "PDEX interoperability platform", "class": "central", "platform": "", "owner": "NOSi", "tiers": ""},
+    {"system": "SNITE", "country_label": "National System of Toponymy and Addresses Information", "class": "application", "platform": "module of SIMple", "owner": "", "tiers": "national and municipal toponyms; to be developed"},
+    {"system": "SIGPG", "country_label": "SIGPG", "class": "application", "platform": "module to be delivered under the SIMple contract", "owner": "", "tiers": ""}
+  ],
+  "note": "Terms of reference for a municipal application: says SIM 2.0 runs in all municipalities and that NOSi will host SIMple and provide its VPN, but does not say where SIM 2.0 is held, that staff work in it online, or how any municipal office is connected, so no connection fact is taken."
+}

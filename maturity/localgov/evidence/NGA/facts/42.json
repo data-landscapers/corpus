@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-28-dailyquery-katsina-fibre-consumer-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "Katsina State fibre optic network", "country_label": "fibre optic infrastructure / mass fibre optic network", "class": "upper-tier", "platform": "fibre, with last-mile connections by commercial internet service providers", "owner": "Katsina State Government, coordinated by the Katsina State Investment Promotion Agency", "tiers": "state level; consumer rollout to homes, businesses and public facilities announced 27 August 2026, with deployment frameworks across all 34 local government areas; roadmap of 2,000 to 3,000 km and 70% broadband penetration"}
+  ],
+  "note": "A state government's consumer fibre rollout; the 34 local government areas are its geographic reach and 'public facilities' are not specified, so no local government office is said to be connected."
+}

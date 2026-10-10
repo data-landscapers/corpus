@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "LTC Mobile National Data Centre", "country_label": "LTC Mobile National Data Centre", "class": "backbone", "platform": "Colocation, carrier-neutral data centre", "owner": "Liberia Telecommunications Corporation (LTC Mobile), wholly owned by the Government of Liberia", "tiers": "Monrovia; operational; no local government office said to use it"}
+  ],
+  "note": "A data centre ownership register; Liberia's rows are two data centres in Monrovia, one state-owned and one a private operator's, with no local government office named."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-07-gabon-lunion-madigipaie-libreville",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système de digitalisation des recettes municipales (Libreville)",
+      "country_label": "système de digitalisation des recettes municipales",
+      "class": "application",
+      "platform": "",
+      "owner": "Mairie de Libreville, developed in partnership with the Trésor public",
+      "tiers": "The commune of Libreville only; said by the mayor on 3 July 2026 to be already operational within the town hall"
+    },
+    {
+      "system": "Madigipaie",
+      "country_label": "Madigipaie",
+      "class": "",
+      "platform": "QR-code payments, run with several banks",
+      "owner": "Ministère de l'Économie numérique (national platform)",
+      "tiers": "National payment platform for merchants and users; the Libreville town hall agreed to help deploy it among the city's traders; not a system the town hall works in"
+    }
+  ],
+  "note": "The town hall's own system is a revenue application of the capital city and Madigipaie is a national merchant-payment platform; the article states nothing on how the town hall's office is connected, so no connection fact is taken."
+}

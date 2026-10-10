@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-26-andf-e-foncier-cadastre-national-445000-parcelles",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Fraternité states that the holder of a cadastre registration certificate sells a parcel by going to the mairie as before, and that every operation is now done directly in e-Foncier Bénin, the national platform run by the state land agency ANDF; the connection the mairie works over is not described, and the date is the article's.", "as_of": "2026-03-26", "date_precision": "day", "system": "the mairies' working in e-Foncier Bénin", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:12", "fact": "Fraternité states that the national cadastre covers 24 arrondissements in 12 target communes with 445,695 parcels registered, and that the registration certificate is collected at the mairie in all 12; it gives no total of communes, and does not say how many mairies work in the platform themselves; the date is the article's.", "as_of": "2026-03-26", "date_precision": "day", "system": "the mairies' working in e-Foncier Bénin", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "e-Foncier Bénin (e-FB)", "country_label": "plateforme e-Foncier Bénin; cadastre national", "class": "application", "platform": "", "owner": "Agence Nationale du Domaine et du Foncier (ANDF), under the projects PMAF (to June 2023) and PPMEC (July 2023 to June 2026), with Netherlands embassy support", "tiers": "24 arrondissements in 12 communes: Cotonou in full, Parakou and Porto-Novo nearly, and parts of Abomey-Calavi, Sèmè-Podji, Grand-Popo, Aplahoué, Bohicon, Sakété, Pobè, Djougou and N'Dali; sales and certificates handled at the mairies"},
+    {"system": "InfoCad", "country_label": "application InfoCad", "class": "application", "platform": "", "owner": "ANDF, under PPMEC", "tiers": "field collection of land data"}
+  ],
+  "note": "The two facts rest on one sentence: operations at the mairie are done directly in the national platform. The document says nothing of how any mairie is connected, so no fact is recorded for that aspect."
+}

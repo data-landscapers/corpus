@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-13-mali-koutiala-fiscal-census-digitalization",
+  "facts": [],
+  "systems": [
+    {"system": "Digital solution for the financial and accounting management of the mairie, with revenue collection (unnamed)", "country_label": "digitalisation de la gestion financière et comptable de la mairie", "class": "application", "platform": "", "owner": "Commune urbaine de Koutiala, with the NGO ID Sahel Afrique; financed by the Embassy of the Netherlands", "tiers": "pilot communes, Koutiala named"},
+    {"system": "Equipment to be supplied to the pilot communes with the digital solution", "country_label": "équipements adaptés", "class": "equipment", "platform": "", "owner": "ID Sahel Afrique project; financed by the Embassy of the Netherlands", "tiers": "pilot communes, Koutiala named"}
+  ],
+  "note": "A fiscal census and a finance and accounting tool for the mairie of Koutiala, presented 2026-03-06, with equipment to come: an application and equipment, with no connection stated."
+}

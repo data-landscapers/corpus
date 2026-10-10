@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-16-cmr-ecomatin-bunec-52-milliards-numerisation-etat-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Numérisation de l'état civil",
+      "country_label": "numérisation des actes d'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "Bureau national d'état civil (BUNEC), with UNDP, GIZ and Korean cooperation in named communes",
+      "tiers": "60 of 432 principal civil registration centres digitised since 2020 (13.9%), per BUNEC's director-general on 14 September 2026; 42 in April 2022, among them eight municipalities of Yaoundé and Douala and 28 other communes"
+    }
+  ],
+  "note": "A September 2026 report on the funding sought to digitise civil registration: it counts centres whose records are digitised, an application, and states nothing about how a commune's office is connected."
+}

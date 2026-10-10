@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-08-einpresswire-csquared-ganta-liberia-broadband-digital-skills",
+  "facts": [],
+  "systems": [
+    {"system": "Ganta community Wi-Fi", "country_label": "community Wi-Fi", "class": "public-access", "platform": "Wi-Fi over CSquared open-access fibre", "owner": "CSquared with Telecel Liberia", "tiers": "Public areas of four towns: Gbarnga, Ganta, Kakata and Sanniquellie"},
+    {"system": "CSquared fibre network", "country_label": "metropolitan fibre and national backbone", "class": "backbone", "platform": "Fibre: over 250km metropolitan in Monrovia and Montserrado, over 350km backbone to the Côte d'Ivoire and Guinea borders", "owner": "CSquared", "tiers": "51 government institutions connected with the Liberian Government and USAID; no local government office named"},
+    {"system": "J.W. Pearson Public School digital learning laboratory", "country_label": "digital learning laboratory", "class": "public-access", "platform": "20-seat computer laboratory", "owner": "The school, after handover by CSquared and KEEP", "tiers": "One public school in Ganta"}
+  ],
+  "note": "Community Wi-Fi for residents and a school laboratory in Ganta; 51 government institutions are said to be connected but no local government office is named among them."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Rabat smart city platform", "country_label": "FIWARE Smart City Platform", "class": "city-systems", "platform": "FIWARE", "owner": "Rabat Region Development Company, with the Ministry of Digital Transition and Administrative Reform and the Ministry of Interior named among owning entities", "tiers": "Rabat, the capital; partially operational beside multiple separate systems, with a digital twin pilot and a LoRaWAN pilot with IoT sensors"},
+    {"system": "Rabat CCTV surveillance", "country_label": "", "class": "city-systems", "platform": "", "owner": "DGSN named among owning entities; police and municipal authorities have access to the data", "tiers": "Rabat; extensive camera deployment with command centres, facial and licence plate recognition, drones"},
+    {"system": "Rabat smart toilets", "country_label": "", "class": "city-systems", "platform": "", "owner": "", "tiers": "Rabat; 11 self-cleaning units"}
+  ],
+  "note": "An AI-written comparative essay on twelve cities whose Rabat column describes city systems, e-government services and city broadband; nothing is said of the connection of the commune's own office, and Rabat is the capital."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-08-studia-ai-digitisation-civil-records-intelligentcio",
+  "facts": [],
+  "systems": [
+    {"system": "Digitisation of civil registration records (EC-MADA programme)", "country_label": "EC-MADA", "class": "application", "platform": "Studia Inc OCR and AI-driven indexing; autonomous mobile units with satellite connectivity and solar power", "owner": "Studia Inc (contractor) with D.IA Advisory, under the national EC-MADA programme", "tiers": "civil registration records of 1,695 communes in 11 priority regions; nearly 10 million records"}
+  ],
+  "note": "A contractor's digitisation of commune civil registers; the satellite connectivity is on the contractor's mobile units, and no commune office is said to be connected."
+}

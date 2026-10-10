@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-19-tunisie-cni-hosting-services-data-center-etat",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Centre National de l'Informatique states that its data centre, which hosts major applications of the state, has about fifty servers to which about 4,500 workstations installed in government departments, regional departments, public bodies and municipalities are connected; no share for municipalities is given, and the page is undated, so the document's published date (a retrieval-day proxy) is used.",
+      "as_of": "2026-09-19",
+      "date_precision": "day",
+      "system": "CNI Data Center (workstations in municipalities connected to it)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "connection:institutional",
+      "fact": "The Centre National de l'Informatique states that workstations installed in municipalities, among about 4,500 across the administration, are connected to the servers of the state's data centre; the page is undated, so the document's published date (a retrieval-day proxy) is used.",
+      "as_of": "2026-09-19",
+      "date_precision": "day",
+      "system": "CNI Data Center (workstations in municipalities connected to it)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The data centre to which workstations in municipalities are connected is the Centre National de l'Informatique's own, dedicated to hosting major applications of the state, with a backup centre; the page is undated, so the document's published date (a retrieval-day proxy) is used.",
+      "as_of": "2026-09-19",
+      "date_precision": "day",
+      "system": "CNI Data Center (workstations in municipalities connected to it)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "CNI Data Center",
+      "country_label": "Data Center of the Centre National de l'Informatique (CNI), with a backup center",
+      "class": "backbone",
+      "platform": "Multi-vendor equipment; commercial and open source software",
+      "owner": "Centre National de l'Informatique (CNI)",
+      "tiers": "About 4,500 workstations in all government departments, regional departments, public bodies and municipalities"
+    }
+  ],
+  "note": "The connected:institutional value is read from 'workstations installed in ... municipalities' connected to the state data centre; the page does not say who pays for the link, and gives no count of municipalities."
+}

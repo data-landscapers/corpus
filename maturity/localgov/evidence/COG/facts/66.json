@@ -1,0 +1,10 @@
+{
+  "slug": "2014-02-01-apc-ameliorer-acces-justice-sante-tic-congo-rapport-enquete",
+  "facts": [],
+  "systems": [
+    {"system": "Projet de couverture nationale (PCN)", "country_label": "PCN (projet de couverture nationale)", "class": "backbone", "platform": "fibre optic links between the main towns and metropolitan loops", "owner": "", "tiers": "main towns; meant to give wider access to businesses, local authorities and individuals, no local government office said to be on it"},
+    {"system": "Central African Backbone (CAB)", "country_label": "projet Central African Backbone (CAB)", "class": "backbone", "platform": "fibre optic", "owner": "", "tiers": "national, with interconnection to neighbouring countries"},
+    {"system": "chaîne pénale and chaîne civile software (PAREDA)", "country_label": "logiciels « chaîne pénale » et « chaîne civile »", "class": "central", "platform": "software under development in 2011-2012", "owner": "Ministère de la Justice et des Droits humains, with European Union funding", "tiers": "court registries, prisons and judicial police of Brazzaville, Dolisie and Pointe-Noire; planned network of the central criminal records service with the judicial police, prisons and the état civil in Brazzaville"}
+  ],
+  "note": "Survey of ICT use in courts, police stations, health facilities and civil society in Pointe-Noire and Nkayi, December 2013 to January 2014; mairies were interviewed as stakeholders but nothing is stated about their own connection or equipment."
+}

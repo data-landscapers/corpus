@@ -1,0 +1,10 @@
+{
+  "slug": "2021-12-31-mozambique-resolucao-69-2021-politica-estrategia-nacional-seguranca-cibernetica",
+  "facts": [],
+  "systems": [
+    {"system": "Rede Electrónica do Governo (GovNet)", "country_label": "Rede Electrónica do Governo (GovNet)", "class": "backbone", "platform": "", "owner": "Government of Mozambique", "tiers": "in 2020 interlinked 11 provinces and 139 of the country's 154 districts, on the Council of Ministers' statement"},
+    {"system": "Sistema de Administração Financeira do Estado (e-SISTAFE)", "country_label": "e-SISTAFE", "class": "application", "platform": "", "owner": "", "tiers": "public administration, tier not stated"},
+    {"system": "Praças digitais", "country_label": "praças digitais", "class": "public-access", "platform": "", "owner": "", "tiers": "69 installed across the country by mid-2020"}
+  ],
+  "note": "The policy states that GovNet in 2020 interlinked 139 of 154 districts, without saying any district government or municipal office is on it or what is done over it; recorded as a backbone system, and the parent may wish to weigh the figure."
+}

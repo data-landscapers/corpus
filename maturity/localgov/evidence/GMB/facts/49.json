@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-world-bank-gambia-id4d-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "eCRVS", "country_label": "electronic Civil Registration and Vital Statistics system", "class": "central", "platform": "HERA (vendor WCC)", "owner": "Ministry of Health, Registrar of Births and Deaths", "tiers": "centralised; registration carried out locally by Ministry of Health staff at 258 health facilities and 79 civil registration centres"},
+    {"system": "National ID system", "country_label": "National ID", "class": "central", "platform": "vendor proprietary system (Semlex contract expired)", "owner": "Ministry of Interior, Department of Immigration", "tiers": "centralised; 6 fixed and 12 mobile Immigration Department enrolment centres"}
+  ],
+  "note": "An identity-system diagnostic. Local Government Areas appear only as a count (8, with 43 districts) and as a code in the identification number; registration is done by ministry and Immigration Department staff, not by local governments. Nothing is stated about a local government office or its connection."
+}

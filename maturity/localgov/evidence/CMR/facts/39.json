@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-13 Cameroon intros digital system for civil documents",
+  "facts": [],
+  "systems": [
+    {"system": "digital civil status system at council level", "country_label": "civil registration software", "class": "application", "platform": "", "owner": "implemented by UNDP with Denmark's funding through the UNDP Funding Windows", "tiers": "ten municipalities in the Far North, North-West and South-West: Maroua III, Koza, Mindif, Méri, Mora, Limbe I, Buea City Council, Tiko, Bamenda III and Bamenda City Council"}
+  ],
+  "note": "A civil registration application in ten councils; the excerpt does not say the councils are connected or work online."
+}

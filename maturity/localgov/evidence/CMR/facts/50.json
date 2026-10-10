@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-03-armp-patnuc-connectivite-entites-publiques-ami",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "A MINPOSTEL notice of 3 October 2025 states that component 2 of PATNUC is to improve connectivity in public entities including the decentralised local authorities, financing LAN equipment and the purchase and deployment of bandwidth for each target entity; at that date it was seeking a consultant for a 120-day needs assessment to prepare the tender files, and nothing had been deployed.", "as_of": "2025-10-03", "date_precision": "day", "system": "connectivité large bande des entités publiques (PATNUC)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The notice of 3 October 2025 places PATNUC, and its broadband connectivity for public entities including the decentralised local authorities, under the Ministry of Posts and Telecommunications as contracting authority.", "as_of": "2025-10-03", "date_precision": "day", "system": "connectivité large bande des entités publiques (PATNUC)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The notice of 3 October 2025 states that PATNUC is financed by a World Bank loan of US$100 million (IDA 69870-CM), from which the connectivity of public entities including the decentralised local authorities is to be paid; no domestic budget line is named.", "as_of": "2025-10-03", "date_precision": "day", "system": "connectivité large bande des entités publiques (PATNUC)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "connectivité large bande des entités publiques (PATNUC)", "country_label": "PATNUC, composante 2", "class": "connection", "platform": "LAN equipment (routers, Wi-Fi access points, firewalls), charging points and purchased bandwidth; technical options to be set by the study", "owner": "MINPOSTEL, PATNUC project management unit; World Bank loan IDA 69870-CM", "tiers": "decentralised local authorities (MINDDEVEL) with hospitals, schools, vocational training centres, women's and family centres and centres for disadvantaged persons; at the stage of a needs assessment in October 2025"}
+  ],
+  "note": "The connection is planned, not live: the notice recruits a consultant to assess needs before any tender, so no fact is given for how offices are connected, what they do over it or how many are connected."
+}

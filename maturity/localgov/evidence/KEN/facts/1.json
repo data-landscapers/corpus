@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-06-government-institutions-urged-to-improve-customer-service",
+  "facts": [],
+  "systems": [
+    {"system": "Huduma centres", "country_label": "Huduma Centre; Huduma Mashinani", "class": "central", "platform": "", "owner": "Huduma Centre Secretariat, national government", "tiers": "171 physical services at the centres; 64 Huduma Mashinani outreach points; 13 new centres ready and 21 under construction; ambition of a centre in each of 290 constituencies"},
+    {"system": "eCitizen", "country_label": "E-Citizen", "class": "web", "platform": "", "owner": "national government", "tiers": "over 25,000 online services provided by 54 ministries, departments and agencies and at least 35 county governments"}
+  ],
+  "note": "Service centres run by the national government and an online services portal carrying services of at least 35 county governments; nothing on the connection of county offices."
+}

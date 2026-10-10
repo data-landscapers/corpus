@@ -1,0 +1,58 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The World Bank's regional brief reports, from the Ministry of Finance and Planning's public finance reform programme launched in September 2022, that the legacy systems were replaced by the custom-built BAMA budget and expenditure system and the MUSE government payments system as shared platforms for all central and local government entities; it gives no count of local governments and does not say how their offices are connected.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "BAMA and MUSE as shared platforms for local government entities",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "BAMA",
+      "country_label": "Bajeti na Matumizi (Budget and Expenditure Management)",
+      "class": "application",
+      "platform": "custom-developed",
+      "owner": "Ministry of Finance and Planning",
+      "tiers": "All central and local government entities"
+    },
+    {
+      "system": "MUSE",
+      "country_label": "Mfumo wa Ulipaji Serikalini (Government Payments)",
+      "class": "application",
+      "platform": "custom-developed",
+      "owner": "Ministry of Finance and Planning",
+      "tiers": "All central and local government entities"
+    },
+    {
+      "system": "LGRCIS",
+      "country_label": "Local Government Revenue Collection Information System",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated; credited with GePG for non-tax revenue rising from 951.0 billion shillings in 2017-18 to 4,366.7 billion in 2021-22"
+    },
+    {
+      "system": "GePG",
+      "country_label": "Government electronic Payment Gateway",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "TANePS",
+      "country_label": "Tanzanian National e-Procurement System",
+      "class": "central",
+      "platform": "web-based",
+      "owner": "Public Procurement Regulatory Authority",
+      "tiers": "All procuring entities, mandatory since December 2020; in use since 2018"
+    }
+  ],
+  "note": "The one fact rests on local government entities working in shared national finance platforms; no office connection is described. The brief's call for 'digital transformation of local government services, shared local infrastructure' is a regional recommendation, not a statement about Tanzania."
+}

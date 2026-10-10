@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-03-rwanda-imibereho-social-registry-appeals",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "A Ministry of Local Government director general says a household's appeal against its Imibereho social registry category, once endorsed by the village committee, goes to the cell office, where the information is entered into the system and corrected, with differing cases referred to the sector level; the cell and sector are tiers below the district, and the document gives no date for the practice, so its published date is used.", "as_of": "2026-08-03", "date_precision": "day", "system": "cell office working in the Imibereho Social Registry System", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Imibereho Social Registry System", "country_label": "Imibereho", "class": "application", "platform": "", "owner": "Ministry of Local Government", "tiers": "entries and corrections made at the cell office, referrals to sector level; integrated with land records, RSSB and RRA data"}
+  ],
+  "note": ""
+}

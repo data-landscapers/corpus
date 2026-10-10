@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-18-uga-kampalareport-parish-development-model-3-5-million-beneficiaries",
+  "facts": [],
+  "systems": [
+    {"system": "PDM Information System", "country_label": "PDM Information System (PDMIS)", "class": "application", "platform": "", "owner": "Government of Uganda; Parish Development Model, with the Ministry of ICT integrating its systems", "tiers": "registers beneficiaries; 183,430 of 222,389 enterprise groups profiled; 27,100 tablets distributed for registration and monitoring; who holds them and at which offices is not stated"},
+    {"system": "Integrated Financial Management Information System", "country_label": "Integrated Financial Management Information System", "class": "central", "platform": "", "owner": "Ministry of Finance", "tiers": "transfers funds to the accounts of 10,589 parish savings and credit cooperatives"},
+    {"system": "Wendi and Zaidi", "country_label": "Wendi; Zaidi", "class": "", "platform": "mobile wallet managed by Pearl Bank; tracking and verification tool", "owner": "Pearl Bank for Wendi", "tiers": "14,133 Wendi agents recruited; loans disbursed to beneficiaries' mobile phones"}
+  ],
+  "note": "A news report of a ministers' meeting on the Parish Development Model. Local government officials are urged to own implementation, and tablets are said to be distributed without saying to whom; nothing on any local government office's connection."
+}

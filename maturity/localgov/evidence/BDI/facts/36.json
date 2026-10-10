@@ -1,0 +1,9 @@
+{
+  "slug": "2020-12-04-iwacu-qui-a-tue-onatel",
+  "facts": [],
+  "systems": [
+    {"system": "Burundi Backbone System (BBS) national fibre backbone and its Bujumbura metropolitan network", "country_label": "dorsale nationale; Burundi Back Bone (BBS)", "class": "backbone", "platform": "fibre optic", "owner": "BBS, formed as a consortium of ONATEL and other operators (Africel, U-COM, Cbinet, Econet)", "tiers": "national backbone; a metropolitan network in the Mairie de Bujumbura built in parallel with ONATEL's"},
+    {"system": "ONATEL metropolitan fibre network of Bujumbura", "country_label": "réseau métropolitain de Bujumbura", "class": "backbone", "platform": "fibre optic; about USD 15 million on credit from Huawei", "owner": "ONATEL, the state telecommunications office", "tiers": "Mairie de Bujumbura"}
+  ],
+  "note": "An article on the decline of the state operator ONATEL; the networks named are backbone and metropolitan fibre in Bujumbura, with no local government office said to be on them."
+}

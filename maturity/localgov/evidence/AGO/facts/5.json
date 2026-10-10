@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-16-ago-angop-ministro-mario-oliveira-lanca-servico-de-internet-tudonosso",
+  "facts": [],
+  "systems": [
+    {"system": "Tudonosso Fibra", "country_label": "Projeto FTTH (Tudonosso Fibra)", "class": "", "platform": "", "owner": "Angola Telecom", "tiers": "homes of the Centralidade da Baía Farta, Benguela: more than a thousand users and social infrastructure at the outset"},
+    {"system": "Rede Nacional de Banda Larga", "country_label": "Rede Nacional de Banda Larga", "class": "backbone", "platform": "", "owner": "Government of Angola", "tiers": "national; no local government office said to be on it"}
+  ],
+  "note": "A fibre-to-the-home service for a housing estate; the Baía Farta municipal administration is thanked for its support and its office is not said to be connected."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-08-kwekwe-city-council-finance-department-billing-and-e-governance",
+  "facts": [],
+  "systems": [
+    {"system": "Promun (ERP) package", "country_label": "Promun", "class": "application", "platform": "Promun ERP", "owner": "Kwekwe City Council, Finance Department", "tiers": "City of Kwekwe: centralised billing of rates, water, refuse, sewerage and other charges"},
+    {"system": "Council data network", "country_label": "data network", "class": "equipment", "platform": "", "owner": "Kwekwe City Council, Finance Department (I.T section)", "tiers": "City of Kwekwe; the department lists maintaining a functional and secure data network among its functions, with no outside connection stated"}
+  ],
+  "note": "Undated council page (published date is the capture date): billing runs on Promun and the council keeps an internal data network, but no connection of the office to the internet or to a government network is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-27-clotchor-secongo-digitalisation-collectivites-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "TresorPay", "country_label": "TresorPay, plateforme de paiement électronique du Trésor public", "class": "application", "platform": "", "owner": "the Public Treasury; the distribution network structured by Clotchor Secongo, who is the article's only source", "tiers": "75 local authorities, communes among them, for digitalised processes and municipal revenue, on his own figure of 26 March 2026; more than 4,500 distributors nationwide"}
+  ],
+  "note": "The document reports, on the developer's own press note, a system digitalising processes and revenue in 75 local authorities through the Treasury's payment platform: an application, with no connection at the authorities' offices stated."
+}

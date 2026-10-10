@@ -1,0 +1,15 @@
+{
+  "slug": "2020-05-15-tunisie-decret-2020-312-identifiant-unique-citoyen",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre de l'identifiant unique citoyen",
+      "country_label": "Registre de l'identifiant unique citoyen",
+      "class": "central",
+      "platform": "plateforme numérique de gestion du Registre",
+      "owner": "Minister in charge of local affairs (keeps the register, through a management unit in the ministry); Centre national de l'informatique for technical and operational tasks",
+      "tiers": "Draws on the civil status registers of the communes; local collectivities are among the bodies entitled to access its data (Article 17); civil status officers must update it within seven days (Article 16)"
+    }
+  ],
+  "note": "A decree of 15 May 2020: it requires civil status officers to update a national register and entitles local collectivities to access it, but a law places nothing and it states no office connected or working online."
+}

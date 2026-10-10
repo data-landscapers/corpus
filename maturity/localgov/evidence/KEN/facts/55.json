@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-28-muranga-starlink-health-facilities-announcement",
+  "facts": [],
+  "systems": [
+    {"system": "Starlink satellite internet at Murang'a public medical facilities", "country_label": "Starlink internet upgrade", "class": "", "platform": "Starlink", "owner": "Murang'a County Government, delivered through Paratus", "tiers": "170 public medical facilities in Murang'a County, moved from WiFi-based services on 28 May 2026; schools and churches within 14 km to get access"}
+  ],
+  "note": "The connection stated is at the county's 170 public medical facilities, not at the county government's own offices; no typology class fits a health-facility connection, so class is left empty and no fact is taken."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-01-moict-ministerial-policy-statement-fy2025-26",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The Minister of ICT and National Guidance's policy statement for FY 2025/26, of March 2025, lists among the year's priorities connecting essential service centres, local governments among them with schools, hospitals, tourism sites and police, to the national backbone, in line with NDP IV; the programme as a whole is allocated Ushs 323 billion, of which Ushs 193.81 billion is external development financing and Ushs 13.79 billion domestic, with no amount given for local governments.", "as_of": "2025-03", "date_precision": "month", "system": "Connection of local governments to the National Backbone Infrastructure", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The connection of local governments to the national backbone is a stated FY 2025/26 priority of the Ministry of ICT and National Guidance, with the backbone run by its agency NITA-U, as of March 2025.", "as_of": "2025-03", "date_precision": "month", "system": "Connection of local governments to the National Backbone Infrastructure", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "National Backbone Infrastructure", "country_label": "National Backbone Infrastructure (NBI)", "class": "backbone", "platform": "optical fibre", "owner": "NITA-U", "tiers": "1,567 sites connected cumulatively and 4,387 km of fibre laid, in FY 2024/25; the sites are not broken down, and no number of local government offices is given; bandwidth price for connected MDAs cut from $70 to $35"},
+    {"system": "National Data Centre", "country_label": "National Data Centre (NDC)", "class": "backbone", "platform": "", "owner": "NITA-U", "tiers": "306 applications from 100 entities hosted; 542 websites developed and managed by NITA-U"},
+    {"system": "UGhub", "country_label": "UGhub whole-of-government integration platform", "class": "central", "platform": "", "owner": "NITA-U", "tiers": "151 entities integrated"},
+    {"system": "PDMIS", "country_label": "Parish Development Model Information System", "class": "application", "platform": "locally developed", "owner": "Ministry of ICT and National Guidance", "tiers": "parishes; 24,220 census tablets verified and commissioned for its use"},
+    {"system": "EDRMS", "country_label": "Electronic Document and Records Management System", "class": "application", "platform": "locally developed", "owner": "deployed at user MDAs", "tiers": "MDAs"}
+  ],
+  "note": "The capture is an excerpt, cut off in the NITA-U achievements list."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-17-hackers-government-websites-presidency-nation",
+  "facts": [],
+  "systems": [
+    {"system": "Nairobi City County website", "country_label": "Nairobi City County", "class": "web", "platform": "", "owner": "Nairobi City County", "tiers": "one county; defaced and inaccessible in the cyber attack of Monday 17 November 2025"},
+    {"system": "eCitizen platform", "country_label": "eCitizen", "class": "web", "platform": "", "owner": "national government", "tiers": "carried more than 5,000 services of ministries, county governments and agencies when attacked in July 2023; unaffected on 17 November 2025"}
+  ],
+  "note": "A news report of defaced government websites on 17 November 2025, Nairobi City County's among them: websites and online services only, and nothing on county offices' connection."
+}

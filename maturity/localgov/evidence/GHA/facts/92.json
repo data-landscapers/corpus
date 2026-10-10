@@ -1,0 +1,15 @@
+{
+  "slug": "2020-11-09-cdb-gha-accra-traffic-management-2020",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Accra Metropolitan Area information technology-enhanced traffic management project",
+      "country_label": "Accra Metropolitan Area IT-enhanced traffic management project",
+      "class": "city-systems",
+      "platform": "Contractor Huawei Technologies, replacing Beijing Everyway",
+      "owner": "Government of Ghana, on a US$100 million China Development Bank loan approved by Parliament in November 2020",
+      "tiers": "Accra metropolitan area"
+    }
+  ],
+  "note": "A loan for traffic management in the capital, a city system; it states nothing about the connection of local government offices."
+}

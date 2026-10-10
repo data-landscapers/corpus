@@ -1,0 +1,23 @@
+{
+  "slug": "2015-07-03-sgg-decret-2015-378-pdi2t",
+  "facts": [],
+  "systems": [
+    {
+      "system": "PDI2T (Projet de Développement des Infrastructures des Télécommunications et des TIC Large Bande Nationale)",
+      "country_label": "réseau à fibres optiques du PDI2T; réseau de connexion national",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "Government of Benin, with Bénin Télécoms SA to become the wholesale provider; financed by a China Eximbank loan signed 7 April 2015",
+      "tiers": "National backbone: the decree's statement of reasons (3 July 2015) plans 1,982.5 km of new fibre, taking the transport network to 3,332.5 km, and the coverage of 28 more communes, taking communes covered by the fibre network from 36 to 67 of the 77. Communes are covered as places; no commune office is said to be on it."
+    },
+    {
+      "system": "intranet gouvernemental",
+      "country_label": "intranet gouvernemental",
+      "class": "backbone",
+      "platform": "dedicated optical fibre",
+      "owner": "Government of Benin",
+      "tiers": "Named as an example of the dedicated secure fibre networks the project would allow, with the connection of the government data centre; no local government office is said to be on it"
+    }
+  ],
+  "note": "Passages of the decree sending the PDI2T loan to parliament. The fibre network is planned to cover 67 of 77 communes, as places it passes; no commune office is put on it, so it is backbone and gives no fact."
+}

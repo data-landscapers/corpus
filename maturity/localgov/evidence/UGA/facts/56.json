@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-01-nita-u-nbi-phase5-kanungu-district",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "NITA-U reports that on 1 December 2025 the President launched the extension of National Backbone Infrastructure Phase 5 in Kanungu District, which is to connect the district headquarters and sub-counties to the backbone for the first time and is expected to connect 20 agencies there, Kanungu Town Council among them; the connections are stated as expected, not as live.", "as_of": "2025-12-01", "date_precision": "day", "system": "NBI Phase 5 last-mile connectivity, Kanungu District", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The extension of the backbone to district and sub-county offices in Kanungu is run by NITA-U, a statutory body under the Ministry of ICT and National Guidance, with that Ministry and the Office of the President, as launched on 1 December 2025.", "as_of": "2025-12-01", "date_precision": "day", "system": "NBI Phase 5 last-mile connectivity", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "NITA-U states that NBI Phase 5, launched nationally in Moroto on 4 December 2024, prioritises 63 districts and provides for over 5,000 km of new fibre, 21 solar-powered transmission sites and connectivity to 2,800 last-mile public institutions countrywide, local government being one of the sectors named.", "as_of": "2025-12-01", "date_precision": "day", "system": "NBI Phase 5 last-mile connectivity", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "NBI Phase 5", "country_label": "National Backbone Infrastructure (NBI) Phase 5", "class": "backbone", "platform": "optical fibre", "owner": "NITA-U, with the Ministry of ICT and National Guidance and the Office of the President", "tiers": "63 districts; 2,800 last-mile public institutions planned, including district headquarters, sub-county offices, town councils, schools, health facilities and police posts"}
+  ],
+  "note": ""
+}

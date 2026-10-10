@@ -1,0 +1,8 @@
+{
+  "slug": "2021-12-01-somalia-unfpa-crvs-country-profile",
+  "facts": [],
+  "systems": [
+    {"system": "Municipal civil registers and identity cards", "country_label": "", "class": "application", "platform": "", "owner": "municipalities", "tiers": "'some of the country's 22 municipalities (local governments)' keep registers, issue birth, death and marriage certificates and produce municipal ID cards, with implementation described as poor; the profile does not say whether any register is computerised"}
+  ],
+  "note": "A civil registration country profile (captured to the start of its section 5); it describes municipalities' registration duties and says nothing of their offices' connection."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "e-SIRCEV", "country_label": "e-SIRCEV electronic civil registration system", "class": "application", "platform": "", "owner": "not stated in the passage; Anip is named for the registers it feeds", "tiers": "deployed to 121 of 164 registries by 2021; municipal civil status offices are said still to capture largely on paper before digital entry"},
+    {"system": "RNPP and RNEC birth registration through mobile terminals and Anip's one-stop pilot", "country_label": "Registre national des personnes physiques (RNPP); National Register of Civil Status Events (RNEC)", "class": "central", "platform": "2,050 mobile registration terminals from the World Bank's WURI project, October 2024", "owner": "Agence nationale d'identification des personnes (Anip)", "tiers": "health facilities across all districts; a one-stop pilot in 10 health facilities from August 2025"}
+  ],
+  "note": "The Benin passages score rural clinics, schools, police stations and registry offices on paper against digital; the registry row describes a civil registration application at municipal civil status offices and states nothing about how any commune office is connected. The source is on the study's excluded list and is an AI-assisted compilation by its own header."
+}

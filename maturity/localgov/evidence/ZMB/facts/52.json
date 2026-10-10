@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-12-itweb-zambia-deploys-govt-wan-service-delivery",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:6", "fact": "SMART Zambia's principal ICT officer for Western Province said GWAN works were complete at 12 sites, six of them town councils (Mitete, Limulunga, Sioma, Mwandi, Mulobezi, Nalolo) and six district commissioners' offices, but that the network could not be fully used until ZAMTEL and others finished the last-mile connections.", "as_of": "2025-02-12", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "none", "fact": "The officer said completing the last-mile connections with ZAMTEL would enable the GWAN at the 12 Western Province sites, six town councils among them, to be fully utilised; no use over it is reported.", "as_of": "2025-02-12", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The GWAN works at Western Province town councils are reported by SMART Zambia's own provincial ICT officer, with the state-owned ZAMTEL to supply the last-mile links.", "as_of": "2025-02-12", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Government Wide Area Network", "country_label": "GWAN", "class": "connection", "platform": "", "owner": "SMART Zambia Institute; last mile by ZAMTEL", "tiers": "Western Province: six town councils and six district commissioners' offices, works complete, last mile pending"}
+  ],
+  "note": "The count is of council sites where works are complete, not of councils working over the network: the source says the last mile was still to be finished. No date is given for the statement; the article's date is used."
+}

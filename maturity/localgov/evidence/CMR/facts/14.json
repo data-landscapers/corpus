@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-22-aiddata-58535-bank-of-china-cameroon-video-surveillance-phase1",
+  "facts": [],
+  "systems": [
+    {"system": "Intelligent Urban Video Surveillance System", "country_label": "système intelligent de vidéosurveillance urbaine", "class": "city-systems", "platform": "Huawei; 1,500 cameras and 2,000 two-way radios in phase 1, with a national command centre inaugurated 22 August 2019", "owner": "Délégation Générale à la Sûreté Nationale (national police); loan to the Ministry of Defence from Bank of China", "tiers": "the ten regional capitals and the towns of Kribi, Kyé-Ossi, Garoua-Boulaï, Waza, Fotokol, Kousseri and Amchidé"},
+    {"system": "Bafoussam Smart City framework agreement", "country_label": "Smart City", "class": "", "platform": "", "owner": "Bafoussam City Council and CAMTEL, signed 22 April 2021", "tiers": "Bafoussam"}
+  ],
+  "note": "A loan record for police video surveillance; the Bafoussam City Council agreement with CAMTEL is named with no description of what it does, and no local government office connection is stated."
+}

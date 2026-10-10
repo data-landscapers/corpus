@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "ANATS's coordinator of cooperation and civil registration told the ID4Africa 2025 meeting that the agency's civil registration system connects civil registry offices, hospitals, vaccination centres, municipalities, mobile units, refugee camps and schools, with all data sent by SMS to the national agency, which validates it and sends it back for issuance; no count of municipalities is given, and the date is the article's publication date.", "as_of": "2025-06-03", "date_precision": "day", "system": "ANATS civil registration system (data transfer by SMS)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "ANATS digital civil registration system", "country_label": "our system; hospital-based registry offices", "class": "application", "platform": "mobile application; data transferred via SMS", "owner": "National Agency for Secure Titles (ANATS)", "tiers": "civil registry offices, hospitals, vaccination centres, municipalities, mobile units, refugee camps, schools; 97 digitised hospital-based registration points, 600 planned"}
+  ],
+  "note": "The one fact is doubtful and is for the parent to accept or drop: municipalities are said to be linked to a national system, but the link stated is SMS, and nothing says a data connection is provided to the municipal office."
+}

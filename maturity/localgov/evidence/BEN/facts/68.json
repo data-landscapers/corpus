@@ -1,0 +1,34 @@
+{
+  "slug": "2025-02-04-e-foncier-491000-parcelles",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "La Nation reports that the national e-Foncier platform has been operational since 1 January 2025 with the active participation of town halls (mairies), notaries and surveyors, in a cadastre reform covering 12 communes and 32 arrondissements with 491,420 parcels registered, as presented by the land agency ANDF; the article does not say that town hall staff work in it from their own offices, nor how those offices are connected.",
+      "as_of": "2025-01-01",
+      "date_precision": "day",
+      "system": "Connection used by town halls for the e-Foncier platform",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Foncier Bénin (e-FB)",
+      "country_label": "système e-Foncier; base de données cadastrales nationale « e-Foncier Bénin » (e-FB)",
+      "class": "application",
+      "platform": "",
+      "owner": "Agence nationale du domaine et du foncier (ANDF)",
+      "tiers": "12 communes covering 32 arrondissements: Cotonou, Porto-Novo, Abomey-Calavi, Parakou, Bohicon, N'dali, Sèmè-Podji, Grand-Popo, Aplahoué, Sakété, Pobè and Djougou; used by mairies, notaries and surveyors"
+    },
+    {
+      "system": "Land e-Services on the national public services platform",
+      "country_label": "e-Services fonciers sur service-public.bj",
+      "class": "central",
+      "platform": "service-public.bj",
+      "owner": "Agence nationale du domaine et du foncier (ANDF)",
+      "tiers": "national; nine services, 11,418 online requests from May 2022 to December 2024"
+    }
+  ],
+  "note": "The one fact is the participation of mairies in a national platform; no connection is described."
+}

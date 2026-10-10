@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-01-ken-cob-county-birr-fy2025-26-companion",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Controller of Budget's county budget implementation review for the twelve months to 30 June 2026, as this companion page describes it, analyses for each of the 47 county governments the personnel emoluments processed through the Human Resource Information System (HRIS) against those paid by manual payroll, and recommends that counties migrate manual payroll data to the approved systems; the page is an excerpt, gives no count of counties on the system and says nothing on how county offices are connected.", "as_of": "2026-06", "date_precision": "month", "system": "County governments' use of the Human Resource Information System", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Human Resource Information System (HRIS)", "country_label": "HRIS", "class": "application", "platform": "", "owner": "", "tiers": "county governments' payroll, alongside manual payrolls, in all 47 counties' analyses"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-07-24-govt-donates-250-starlink-kits-local-authorities",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "Techzim reports that the government, through the Ministry of ICT, Postal and Courier Services, donated 250 Starlink satellite kits to the Ministry of Local Government for local authorities, with deployment, management and maintenance left to the councils; date is the article's.", "as_of": "2025-07-24", "date_precision": "day", "system": "Starlink kits for local authorities", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:not-stated", "fact": "Techzim reports the 250 Starlink kits as a government donation and states no budget line, cost or who pays the subscriptions; date is the article's.", "as_of": "2025-07-24", "date_precision": "day", "system": "Starlink kits for local authorities", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "Techzim reports 250 Starlink kits handed over for local authorities, without saying how many councils receive them or that any kit has been installed; it describes installation and use as still to come; date is the article's.", "as_of": "2025-07-24", "date_precision": "day", "system": "Starlink kits for local authorities", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Starlink kits for local authorities", "country_label": "Starlink kits", "class": "connection", "platform": "Starlink", "owner": "Ministry of ICT, Postal and Courier Services (donor); Ministry of Local Government and the local authorities (deployment)", "tiers": "local authorities (councils), some rural or remote; 250 kits handed over, none stated installed"},
+    {"system": "Presidential Internet Scheme", "country_label": "Presidential Internet Scheme", "class": "public-access", "platform": "Starlink", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": "free Wi-Fi hotspots at post offices and community halls"}
+  ],
+  "note": "Classed connection because the kits are satellite links the state provides to councils; the document states a handover only, no live connection, so the parent may prefer equipment."
+}

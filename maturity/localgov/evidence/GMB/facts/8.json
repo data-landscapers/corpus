@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Gamtel Kairaba Exchange Data Centre",
+      "country_label": "Gamtel Kairaba Exchange Data Centre",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Gamtel (Government of The Gambia 99%, Gambia Ports Authority 1%)",
+      "tiers": "Serrekunda; customers listed as Government of Gambia, ISPs and SMBs"
+    }
+  ],
+  "note": "One register row for a state-owned data centre, in a compilation its own header calls AI-compiled; no local government office is said to be on it."
+}

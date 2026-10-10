@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-03-local-government-service-celltel-mou",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The Local Government Service signed an MoU with Celltel Networks Limited, reported 3 September 2026, to strengthen its IT infrastructure, with improved connectivity of local government offices among its expected results; the article gives no signing date, so the published date is used.", "as_of": "2026-09-03", "date_precision": "day", "system": "Local Government Service and Celltel Networks MoU on IT infrastructure", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "At the signing, reported 3 September 2026, the Head of the Local Government Service described the present state as 'disconnected offices' from which the Service is moving; he gave no count of offices, and the article gives no date for the remark beyond its own.", "as_of": "2026-09-03", "date_precision": "day", "system": "Local Government Service and Celltel Networks MoU on IT infrastructure", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The IT infrastructure upgrade is the Local Government Service's own, with Celltel Networks Limited named as its strategic private partner under the MoU reported 3 September 2026.", "as_of": "2026-09-03", "date_precision": "day", "system": "Local Government Service and Celltel Networks MoU on IT infrastructure", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:not-stated", "fact": "The article on the Local Government Service and Celltel Networks MoU, published 3 September 2026, states no value, term or source of finance.", "as_of": "2026-09-03", "date_precision": "day", "system": "Local Government Service and Celltel Networks MoU on IT infrastructure", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Local Government Service and Celltel Networks MoU on IT infrastructure", "country_label": "", "class": "connection", "platform": "", "owner": "Local Government Service, with Celltel Networks Limited", "tiers": "local government offices, number not stated"},
+    {"system": "Technology hub for local government services", "country_label": "", "class": "public-access", "platform": "", "owner": "Local Government Service (planned)", "tiers": "not stated"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-opicswr-make-a-complaint-portal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "OPIC-SWR online complaint form",
+      "country_label": "Make a Complaint",
+      "class": "upper-tier",
+      "platform": "",
+      "owner": "Office of the Public Independent Conciliator, South-West Region",
+      "tiers": "Regional office in Buea; takes complaints against the Regional Assembly and city and local councils of the South-West"
+    }
+  ],
+  "note": "The complaint-intake page of the South-West Region's Public Independent Conciliator: an online form of a regional body for complaints about councils; it states nothing about a council office's connection."
+}

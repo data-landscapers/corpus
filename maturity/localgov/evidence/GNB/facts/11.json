@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-01-undp-guinea-bissau-newsletter-05-jan-mar-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Civil Registry System (SIREC), national platform that the Santa Luzia civil registry office's computers are connected to", "country_label": "SIREC", "class": "central", "platform": "", "owner": "National civil registry service; implemented by UNDP with Swiss, EU and Camões Institute funding", "tiers": "Santa Luzia Civil Registry Office, Bissau, the first to operate entirely digitally"},
+    {"system": "I-Participate space (computers with internet access for young people)", "country_label": "I-Participate", "class": "public-access", "platform": "", "owner": "Franco-Guinean Cultural Center, with Tiniguena and UNDP, EU-funded", "tiers": "One space in Bissau"}
+  ],
+  "note": "The connected office described is a civil registry office of the national registry service, a central field office, not a local government; the Bissau City Council appears only as recipient of a landfill project."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-26-benue-40000-civil-servants-training",
+  "facts": [],
+  "systems": [
+    {"system": "Benue State digital skills training for civil servants", "country_label": "training of 40,000 civil servants in digital tools and ICT skills", "class": "upper-tier", "platform": "", "owner": "Benue State Government, with the Nigerian Data Protection Commission giving part of the training", "tiers": "state civil service; announced in the week of 26 March 2025"},
+    {"system": "Benue State electronic document management system", "country_label": "electronic document management system", "class": "upper-tier", "platform": "", "owner": "Benue State Government", "tiers": "state government"},
+    {"system": "Benue State geographic information portal", "country_label": "geographic information portal", "class": "upper-tier", "platform": "", "owner": "Benue State Government", "tiers": "state government"},
+    {"system": "Benue State start-up support platform", "country_label": "start-up support platform", "class": "upper-tier", "platform": "", "owner": "Benue State Government", "tiers": "state government"},
+    {"system": "Website of the Office of the Head of Service of Benue State", "country_label": "dedicated website for the Office of the Head of Service", "class": "upper-tier", "platform": "", "owner": "Benue State Government", "tiers": "state government"}
+  ],
+  "note": "A state government's training of its civil servants and the platforms it runs: upper tier throughout, with nothing on local government offices or their connection."
+}

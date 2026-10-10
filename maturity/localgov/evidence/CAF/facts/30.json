@@ -1,0 +1,11 @@
+{
+  "slug": "2020-11-12-caf-plan-de-relance-de-la-vaccination-de-routine-en-republique-centrafrica",
+  "facts": [],
+  "systems": [
+    {"system": "connectivité internet des régions et districts sanitaires", "country_label": "connectivité internet dans les 7 régions et 35 districts sanitaires", "class": "central", "platform": "", "owner": "Ministère de la Santé et de la Population", "tiers": "planned for 2021 at the offices of the 7 health regions and 35 health districts; budgeted at 50 million FCFA, wholly unfunded"},
+    {"system": "DHIS2", "country_label": "SNIS / DHIS2", "class": "central", "platform": "DHIS2", "owner": "Ministère de la Santé et de la Population", "tiers": "to be deployed progressively in all health regions and districts in 2021-2022; data managers in the 35 districts, 7 regions and 5 central hospitals enter the data"},
+    {"system": "DVD-MT", "country_label": "DVD-MT (Data Vaccine District Management Tool)", "class": "central", "platform": "", "owner": "Ministère de la Santé et de la Population", "tiers": "health districts, sending immunisation data electronically to the central level"},
+    {"system": "SMT", "country_label": "SMT (Stock Management Tools)", "class": "central", "platform": "", "owner": "Ministère de la Santé et de la Population", "tiers": "named with DVD-MT as software sending data electronically; tiers not stated"}
+  ],
+  "note": "A health ministry immunisation plan for 2021-2022: communes appear as the unit of micro-planning, community meetings and the country's count (177 urban and rural communes), and municipal authorities as partners to involve; the internet connection it plans is for the ministry's own regional and district health offices, and it states nothing on a commune office's connection."
+}

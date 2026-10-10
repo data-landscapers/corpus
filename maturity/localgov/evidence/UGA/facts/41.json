@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-06-ict-transforming-digital-infrastructure-gkma",
+  "facts": [],
+  "systems": [
+    {"system": "shared underground fibre ducts and poles, Greater Kampala Metropolitan Area", "country_label": "reorganization of utility infrastructure in the GKMA", "class": "backbone", "platform": "internet service providers' overhead fibre moved to shared poles and underground ducts along KCCA roads", "owner": "Ministry of ICT and National Guidance, with the Uganda Communications Commission, licensed internet service providers and the Uganda Electricity Distribution Company", "tiers": "Greater Kampala; pilot Corridor 1 on three roads in Makindye, Central and Nakawa divisions, works from the end of September 2025"}
+  ],
+  "note": "The tidying of commercial operators' fibre along Kampala's roads; the divisions are where the roads lie, and no local government office is said to be connected."
+}

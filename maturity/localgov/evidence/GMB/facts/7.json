@@ -1,0 +1,39 @@
+{
+  "slug": "2026-06-29-kmc-digital-address-codes-property-rates-kerrfatou",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital addressing platform",
+      "country_label": "digital address system",
+      "class": "application",
+      "platform": "Google Plus Codes",
+      "owner": "Kanifing Municipal Council, developed in partnership with the Ministry of Information",
+      "tiers": "Kanifing Municipal Council"
+    },
+    {
+      "system": "Property rates database",
+      "country_label": "property rates database",
+      "class": "application",
+      "platform": "",
+      "owner": "Kanifing Municipal Council",
+      "tiers": "Kanifing Municipal Council"
+    },
+    {
+      "system": "Compliance mapping system",
+      "country_label": "compliance mapping system",
+      "class": "application",
+      "platform": "",
+      "owner": "Kanifing Municipal Council",
+      "tiers": "Kanifing Municipal Council"
+    },
+    {
+      "system": "Tablet computers for property rate collectors",
+      "country_label": "",
+      "class": "equipment",
+      "platform": "",
+      "owner": "Kanifing Municipal Council",
+      "tiers": "Kanifing Municipal Council rate collectors"
+    }
+  ],
+  "note": "The council's own applications and collectors' tablets, as described by two council officers on 29 June 2026; the document states no connection at the council's office, so no fact of the connection class."
+}

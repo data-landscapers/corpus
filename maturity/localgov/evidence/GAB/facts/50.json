@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau de l'Administration Gabonaise (RAG)", "country_label": "RAG", "class": "backbone", "platform": "government fibre network", "owner": "ANINF", "tiers": "interconnects public institutions in all nine districts of the country (World Bank, 2019); no local government office said to be on it"}
+  ],
+  "note": "The passages describe the government's fibre network, RAG, as interconnecting public institutions in all nine districts under ANINF's management, with no local government office stated to be on it: a backbone, so no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-05-social-protection-act-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Social Protection Registry", "country_label": "Social Protection Registry", "class": "application", "platform": "", "owner": "National Board for Social Protection", "tiers": "by statute, the single national database of social protection interventions, to coordinate them at national and county level; each county government is to develop an interoperable county registry for social protection"}
+  ],
+  "note": "A law, which places nothing: it requires county governments to develop an interoperable county social protection registry and says nothing of any county office's connection."
+}

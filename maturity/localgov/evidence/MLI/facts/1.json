@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre-optic backbone of the Société malienne de transmission et de diffusion (SMTD-SA), interconnected with Senegal's at Kidira-Diboli", "country_label": "backbone national", "class": "backbone", "platform": "", "owner": "SMTD-SA", "tiers": ""}
+  ],
+  "note": "A cross-border interconnection of two national backbones, inaugurated 2026-10-05; no local government office is said to be on it."
+}

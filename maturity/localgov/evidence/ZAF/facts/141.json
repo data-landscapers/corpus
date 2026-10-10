@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-24-chief-registrar-deeds-edrs-questions",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Deeds Registration System (eDRS)", "country_label": "eDRS", "class": "central", "platform": "", "owner": "Chief Registrar of Deeds; storage and infrastructure run by the State Information Technology Agency", "tiers": "national deeds registry, conveyancers and notaries; integration with municipalities for rates clearances is a future function"}
+  ],
+  "note": "A national registry's system in controlled beta from 1 April 2025; integration with municipalities for rates clearances is stated only as an eventual function, so nothing is stated on municipal offices working over a connection."
+}

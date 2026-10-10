@@ -1,0 +1,26 @@
+{
+  "slug": "2023-09-01-nga-national-health-management-information-systems-nhmis-annual-report-dat",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Federal Ministry of Health's NHMIS report for 2021 says each health facility submits its paper monthly summary form to the Local Government Area office by the 7th, and the LGA M&E focal person enters it into DHIS2, the single national instance held at the ministry, by the 14th; it does not say how the LGA office is connected or how many LGAs do so.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "DHIS2 data entry by the LGA M&E focal person",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "National Health Management Information System (NHMIS), DHIS2 national instance",
+      "class": "application",
+      "platform": "DHIS2",
+      "owner": "Federal Ministry of Health, Department of Health Planning, Research and Statistics",
+      "tiers": "Paper registers and summary forms at health facilities; entry by the LGA M&E focal person; quality checks by the State M&E officer and the federal ministry; about 39,000 facility reports expected a month in 2021, about 80% received"
+    }
+  ],
+  "note": "A health-sector report; the one fact is DHIS2 entry by LGA staff. The 80% reporting rate counts health facilities, not local governments, and is not taken as a share of LGAs."
+}

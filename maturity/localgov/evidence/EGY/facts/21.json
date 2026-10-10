@@ -1,0 +1,31 @@
+{
+  "slug": "2025-11-01-aiib-egypt-sustainable-transport-digital-infrastructure-guarantee-pimr",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Closed government network",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Telecom Egypt, under the Ministry of Communications and Information Technology",
+      "tiers": "An electronic government management network between government departments; a bond-financed subproject approved 13 October 2025; no local government office is said to be on it"
+    },
+    {
+      "system": "Automation of the technological infrastructure of the administrative body",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Telecom Egypt, under the Ministry of Communications and Information Technology",
+      "tiers": "The state's administrative apparatus: information networks, linking the sites of a single institution, equipping information centres; no tier named"
+    },
+    {
+      "system": "Fibre optic network to villages, first phase of the Decent Life Initiative",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "Fibre to the home (FTTH)",
+      "owner": "Telecom Egypt, under the Ministry of Communications and Information Technology",
+      "tiers": "1,400 villages and one million buildings or households targeted; 773 villages reached in year 1 (actual); households, with no local unit office named"
+    }
+  ],
+  "note": "AIIB monitoring report on a bond guarantee. Its subprojects are a government network, administrative automation and household fibre; none is said to connect a local government office, so no fact."
+}

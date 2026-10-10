@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-24-ner-actuniger-new-minister-communication-nti",
+  "facts": [],
+  "systems": [
+    {"system": "intranet gouvernemental", "country_label": "intranet gouvernemental", "class": "backbone", "platform": "", "owner": "Ministère de la Communication et des Nouvelles Technologies de l'Information", "tiers": "stated as a ministerial priority on 22 September 2026 for digitalising public services; no local government office said to be on it"}
+  ],
+  "note": "The new minister's handover on 22 September 2026 names a reliable and secure government intranet as a priority; it is an intention, with no commune or other local government office said to be connected."
+}

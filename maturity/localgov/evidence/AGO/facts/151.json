@@ -1,0 +1,8 @@
+{
+  "slug": "2015-05-08-lei-6-15-simplificacao-do-registo-de-nascimento-e-do-registo-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Base de dados do registo civil", "country_label": "base de dados do registo civil", "class": "central", "platform": "", "owner": "the ministerial department responsible for Justice", "tiers": "national; entered by civil registry offices (conservatórias), registry posts and mobile units, with municipal and communal administrations only allowed to hand over the printed certificate"}
+  ],
+  "note": "The birth registration law; it sets up a civil registry database run by the justice ministry and its registry offices, and gives municipal and communal administrations only the handing over of certificates, so nothing is stated about their offices' connection or their working in any system."
+}

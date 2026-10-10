@@ -1,0 +1,10 @@
+{
+  "slug": "2024-08-01-ken-2024-vote1071-egp-eprocurement",
+  "facts": [],
+  "systems": [
+    {"system": "e-Procurement System for the Government of Kenya (e-GP)", "country_label": "e-GP", "class": "central", "platform": "", "owner": "National Treasury", "tiers": "government institutions; 10 to be onboarded in 2024/25, rising to 50 by 2026/27"},
+    {"system": "IFMIS county connectivity", "country_label": "IFMIS county connectivity", "class": "", "platform": "", "owner": "National Treasury (Vote D1071)", "tiers": "counties; a budget line named only, cut from KSh 150 million to nil at Supplementary I 2024/25"},
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "", "platform": "Oracle", "owner": "National Treasury", "tiers": "named only, through its Oracle licences line cut from KSh 50 million to nil"}
+  ],
+  "note": "A budget line record for e-procurement; it names an 'IFMIS county connectivity' line cut from KSh 150 million to nil in August 2024 but does not say what the line does or that county offices are connected, so it gives no fact."
+}

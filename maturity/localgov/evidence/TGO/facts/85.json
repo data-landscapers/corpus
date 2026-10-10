@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-eand-reg-west-africa-cable-2021-maroc-telecom-west-africa-submarine-fibre",
+  "facts": [],
+  "systems": [
+    {"system": "Maroc Telecom West Africa submarine fibre optic cable", "country_label": "", "class": "backbone", "platform": "submarine fibre, 9,414 km", "owner": "Maroc Telecom and its Moov Africa subsidiaries", "tiers": "international landing point at Lomé; no local government office named"}
+  ],
+  "note": "Deal record for Maroc Telecom's West Africa submarine cable landing at Lomé (south segment in service July 2021); an international backbone, with nothing stated about local government offices."
+}

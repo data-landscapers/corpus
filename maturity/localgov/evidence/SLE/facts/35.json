@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)",
+  "facts": [],
+  "systems": [
+    {"system": "PFM Smart", "country_label": "PFM Smart (local government FMIS)", "class": "application", "platform": "", "owner": "Ministry of Finance, supported by the World Bank's Accountable Governance for Basic Service Delivery project", "tiers": "local government; under development in 2025"},
+    {"system": "Municipal Property Tax System (MPTS)", "country_label": "MPTS", "class": "application", "platform": "", "owner": "supported by ongoing World Bank projects", "tiers": "for 22 Local Councils; under development in 2025"},
+    {"system": "LoMEMIS", "country_label": "LoMEMIS", "class": "", "platform": "", "owner": "supported by the Accountable Governance for Basic Service Delivery project", "tiers": "not stated"},
+    {"system": "Government Service Bus (GSB) prototype", "country_label": "GSB", "class": "central", "platform": "an open-source platform such as X-Road", "owner": "Ministry of Finance, with a Government of Japan grant of 26 April 2025", "tiers": "national; to be hosted in the Ministry of Finance data centre"},
+    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "central", "platform": "", "owner": "Ministry of Finance", "tiers": "central"}
+  ],
+  "note": "Terms of reference for a data exchange prototype between public finance systems; two council systems are named as under development, and nothing is said of council office connections. The document is undated and takes its year, 2025, from the contracts it cites."
+}

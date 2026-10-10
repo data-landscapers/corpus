@@ -1,0 +1,36 @@
+{
+  "slug": "2026-08-31-radionationale-tunisia-birth-cert-remote-translation",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Ministry of the Interior said on 31 August 2026 that a request for a translated birth extract made on the online services platform e-bawaba.tn is referred directly to the municipality where the birth was registered and can be followed through its processing stages on the same platform; the document gives no count of municipalities and does not say how their offices are connected.",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "e-bawaba.tn (requests referred to the municipality of registration)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Ministry of the Interior, with the Ministry of Communication Technologies, launched on 31 August 2026 a remote service for translated birth extracts whose requests are referred directly to the municipality of registration.",
+      "as_of": "2026-08-31",
+      "date_precision": "day",
+      "system": "e-bawaba.tn (requests referred to the municipality of registration)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-bawaba.tn",
+      "country_label": "منصة الخدمات على الخط (e-bawaba.tn)",
+      "class": "web",
+      "platform": "",
+      "owner": "Ministry of the Interior, with the Ministry of Communication Technologies",
+      "tiers": "Citizens online; requests referred to the municipality where the birth was registered"
+    }
+  ],
+  "note": "Facts rest on the study's rule that a municipality handling transactions in a national system states a connection; the document says only that requests are referred to the municipality, not that staff work them online at the office."
+}

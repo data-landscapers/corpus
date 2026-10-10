@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-07-echis-implementation-east-shewa-cfir-eric",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Community Health Information System (eCHIS)", "country_label": "eCHIS", "class": "application", "platform": "mobile application on tablets, synchronised over mobile data (SIM cards and monthly airtime supplied by the Ministry of Health and partners)", "owner": "Ministry of Health, with development partners (JSI L10K named)", "tiers": "health posts and health centres; 7,808 of 17,903 health posts (46%) said to have adopted it since 2018; a dashboard used to track primary health care units' performance; studied in rural districts of East Shewa zone, Oromia, November 2024"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "application", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "the health sector's national reporting platform; not interoperable with eCHIS, so reporting stays manual"}
+  ],
+  "note": "A qualitative study of a health-extension app used by health workers at health posts in East Shewa: the tablets, SIM cards and airtime it describes go to health extension workers, and woreda health officials appear only as interviewees. It states nothing about a connection at the woreda administration's or woreda health office's own premises. Both systems are the health ministry's, classed application because woreda health offices are among their users; the parent may prefer central."
+}

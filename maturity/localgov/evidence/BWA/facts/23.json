@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-lapcas-location-addressing-tlokweng-botswana",
+  "facts": [],
+  "systems": [
+    {"system": "Prototype location addressing system (LAS) for Tlokweng village", "country_label": "LAS", "class": "application", "platform": "Python, GeoPandas and a Django web application, deployed on Microsoft Windows", "owner": "University of Botswana researchers", "tiers": "A research prototype for one peri-urban village, tested by 42 participants including six from South-East District Council; not stated to be in use by any council"},
+    {"system": "Land Administration Procedures, Capacity and Systems (LAPCAS) project", "country_label": "LAPCAS", "class": "central", "platform": "", "owner": "Ministry of Lands and Housing with Lantmateriet, the Swedish mapping and land registration authority", "tiers": "National; its location-addressing component was never implemented"}
+  ],
+  "note": "A paper on street addressing, which it says is local government's statutory responsibility; the council staff appear only as survey participants, and nothing is stated about a council office's connection."
+}

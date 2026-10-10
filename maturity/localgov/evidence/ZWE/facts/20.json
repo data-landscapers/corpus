@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-19-hit-lads-africa-citizen-engagement-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Citizen Engagement and Scoring Platform", "country_label": "Citizen Engagement and Scoring Platform", "class": "web", "platform": "AI-powered system built by LADS Africa, a Harare Institute of Technology start-up", "owner": "Government of Zimbabwe (launched by the President with the Ministry of Local Government and Public Works present)", "tiers": "National, launched 18 June 2026: citizens give feedback on and score the performance of local authorities, urban and rural"}
+  ],
+  "note": "A platform for residents to rate local authorities; nothing on whether council offices are connected or work over a connection."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2017-11-01-com-unicef-crvs-profile-comoros",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration registers (births, marriages, deaths)", "country_label": "registers of civil status / état civil", "class": "application", "platform": "manual, on paper", "owner": "commune mayors, their administrators and deputies, under Law on Civil Status No. 84-10", "tiers": "a civil registry office at the headquarters of each commune; decentralised; compiled December 2016 to November 2017"}
+  ],
+  "note": "States that commune civil registry offices processed births, marriages and deaths manually on paper in 2016-17; that is the records application, and nothing is said of the offices' connection."
+}

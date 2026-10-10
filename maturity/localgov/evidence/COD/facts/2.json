@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "backbone tender (USD 190M)", "country_label": "backbone investment", "class": "backbone", "platform": "", "owner": "DRC digital transformation project (World Bank IDA USD 400M and AFD EUR 100M)", "tiers": "national; tender to be launched in 2026, no local government office said to be on it"},
+    {"system": "Kinshasa connectivity pilot (USD 10M)", "country_label": "Kinshasa connectivity pilot", "class": "", "platform": "", "owner": "DRC digital transformation project", "tiers": "Kinshasa; what it connects is not stated"},
+    {"system": "last-mile tenders (USD 65M)", "country_label": "last-mile tenders", "class": "", "platform": "", "owner": "DRC digital transformation project", "tiers": "to be launched in 2026; what they connect is not stated"},
+    {"system": "shared data hosting solution (USD 2-3M)", "country_label": "shared data hosting solution", "class": "backbone", "platform": "", "owner": "DRC digital transformation project", "tiers": "government; to be deployed in 2026"}
+  ],
+  "note": "The DRC section (3.2) lists project milestones and 2026 priorities and names no local government office or its connection; the local-authority, district-council and GWAN passages are Malawi's and Zambia's."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-01-us-state-dept-eritrea-civil-documents-national-id",
+  "facts": [],
+  "systems": [
+    {"system": "Computerised death certificates issued by the municipality", "country_label": "Certificate of Death; Public Registration office / Office of Civil Status", "class": "application", "platform": "", "owner": "the local municipality", "tiers": "municipalities; the Municipality of Asmara is the one named"}
+  ],
+  "note": "The document describes civil documents: municipalities register births, marriages and divorces and issue death certificates that are computerised and numbered, which is an application; no connection at a municipal office is stated."
+}

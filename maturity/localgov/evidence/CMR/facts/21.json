@@ -1,0 +1,16 @@
+{
+  "slug": "2026-06-04-digi-cor-163m-digitize-local-governments-wearetech",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "We Are Tech Africa reports that the government presented DIGI-CoR, a CFA 92 billion (US$163 million) programme over three years, to technical and financial partners in Yaoundé on 2 June 2026; it is to deploy digital infrastructure, improve connectivity, equip decentralised local authorities with IT and energy systems and set up interoperable platforms.", "as_of": "2026-06-02", "date_precision": "day", "system": "DIGI-CoR", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "We Are Tech Africa states that DIGI-CoR is the government's own programme for the decentralised local authorities, presented by it to partners on 2 June 2026, with local authorities to rely on shared resources for hosting, cybersecurity and service management.", "as_of": "2026-06-02", "date_precision": "day", "system": "DIGI-CoR", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:not-stated", "fact": "We Are Tech Africa states that on 2 June 2026 Cameroon was still seeking financing for DIGI-CoR's CFA 92 billion from technical and financial partners; no domestic budget line and no committed funder is named.", "as_of": "2026-06-02", "date_precision": "day", "system": "DIGI-CoR", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "On 2 June 2026 the government presented DIGI-CoR, a CFA 92 billion programme that includes improving the connectivity of decentralised local authorities, to funders in Yaoundé; the programme was unfunded and nothing was reported as deployed.", "as_of": "2026-06-02", "date_precision": "day", "system": "DIGI-CoR", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "DIGI-CoR", "country_label": "DIGI-CoR", "class": "connection", "platform": "", "owner": "Government of Cameroon", "tiers": "decentralised local authorities, municipalities and regions; programme at the financing stage in June 2026, covering infrastructure, connectivity, IT and energy equipment, shared hosting and interoperable platforms"},
+    {"system": "structured computer networks of local authorities", "country_label": "", "class": "equipment", "platform": "", "owner": "the local authorities", "tiers": "68.5% of decentralised local authorities lack one and 57.8% employ no staff trained in digital tools, per government data presented 2 June 2026"},
+    {"system": "FEICOM-financed equipment", "country_label": "", "class": "equipment", "platform": "", "owner": "FEICOM, the Special Fund for Equipment and Inter-Municipal Intervention", "tiers": "145 local authorities have received equipment"},
+    {"system": "municipal portals", "country_label": "", "class": "web", "platform": "", "owner": "earlier local-government digitalisation programmes", "tiers": "335 municipal portals developed"}
+  ],
+  "note": "DIGI-CoR is recorded as a connection programme because the article says it will improve connectivity; the 68.5% figure is of office computer networks and the 145 of equipment, neither stated as a connection, so neither gives a fact on local governments connected."
+}

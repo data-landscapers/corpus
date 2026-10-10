@@ -1,0 +1,63 @@
+{
+  "slug": "2026-01-02-mcit-egypt-ict-sector-achievements-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Information systems and digital transformation units (DTUs)",
+      "country_label": "",
+      "class": "upper-tier",
+      "platform": "",
+      "owner": "Ministries and governorates; technical support from MCIT",
+      "tiers": "Ministries and governorates: 463 of their staff given a technical support programme in 2025 and the units' SOP manual updated"
+    },
+    {
+      "system": "Project to standardise digital applications and systems across governorates",
+      "country_label": "",
+      "class": "upper-tier",
+      "platform": "Key citizen and investor applications integrated into the Digital Egypt platform",
+      "owner": "MCIT",
+      "tiers": "Governorates' information systems and digital transformation units"
+    },
+    {
+      "system": "Training of public employees in ministries, governorates and affiliated directorates",
+      "country_label": "",
+      "class": "capacity",
+      "platform": "",
+      "owner": "MCIT",
+      "tiers": "22,005 public employees trained in 2025, 463 of them ICT specialists; MCIT-Huawei Digital Transformation Academies in 20 governorates"
+    },
+    {
+      "system": "FTTH networks in Decent Life villages",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "Fibre to the home",
+      "owner": "",
+      "tiers": "1,000 villages with more than 4.5 million households connected, of 1,400 targeted in the initiative's first phase; households, with no local unit office named"
+    },
+    {
+      "system": "Digital Egypt platform",
+      "country_label": "",
+      "class": "web",
+      "platform": "",
+      "owner": "MCIT",
+      "tiers": "National: 210 services and 10.7 million users in 2025"
+    },
+    {
+      "system": "Decent Life service complexes",
+      "country_label": "",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "177 Egypt Post branches are located within them"
+    },
+    {
+      "system": "Government Services Card",
+      "country_label": "",
+      "class": "central",
+      "platform": "",
+      "owner": "MCIT with the Ministry of Supply and Internal Trade",
+      "tiers": "Activated in Port Said City as an initial phase"
+    }
+  ],
+  "note": "The ministry's annual statement. What it says of sub-national government concerns governorates (the upper tier), training and household fibre; it states no connection of any local unit office."
+}

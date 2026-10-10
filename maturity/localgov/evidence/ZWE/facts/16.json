@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-17-starlink-kits-gather-dust-rural-hospitals",
+  "facts": [],
+  "systems": [
+    {"system": "Starlink kits at rural health facilities", "country_label": "Starlink kits", "class": "central", "platform": "Starlink", "owner": "Ministry of Health and Child Care", "tiers": "More than 400 health facilities with kits received and not activated for want of subscription payments, 300 more to be added (health minister, National Assembly, July 2026)"},
+    {"system": "Digital centres with Universal Service Fund subscriptions", "country_label": "digital centres", "class": "public-access", "platform": "", "owner": "Ministry of ICT; Universal Service Fund", "tiers": "The fund pays subscription costs for digital centres and schools only, for one year (ICT minister, July 2026)"}
+  ],
+  "note": "The unactivated kits are at the health ministry's facilities, not at local government offices; no local authority office is named."
+}

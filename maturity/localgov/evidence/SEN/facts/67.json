@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-01-convention-interoperabilite-anec-daf",
+  "facts": [],
+  "systems": [
+    {"system": "ANEC-DAF interoperability protocol", "country_label": "protocole d'interopérabilité ANEC-DAF", "class": "central", "platform": "", "owner": "ANEC and Direction de l'automatisation des fichiers (Ministry of the Interior)", "tiers": "national civil-status and national identity databases; signed 1 July 2025"}
+  ],
+  "note": "A protocol linking two national databases; local authorities are named only as partners in general terms. Nothing on commune offices' connection."
+}

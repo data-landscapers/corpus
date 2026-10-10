@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-sierra-leone-freetown-city-council-property-reform-faq-plus-codes",
+  "facts": [],
+  "systems": [
+    {"system": "FCC property tax and business licence database", "country_label": "new, digital database / property registry", "class": "application", "platform": "points-based valuation from satellite images; Plus Codes for building identification", "owner": "Freetown City Council", "tiers": "Freetown City Council only; more than 160,000 properties against 60,000 in the old database, 2020 tax year"}
+  ],
+  "note": "Freetown City Council's FAQ on its property tax and business licensing reform (begun September 2019) describes a revenue application; it states nothing on how the council's office is connected."
+}

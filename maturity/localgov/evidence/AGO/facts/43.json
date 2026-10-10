@@ -1,0 +1,14 @@
+{
+  "slug": "2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "A presidential order reported on 8 June 2026 creates an interministerial commission, coordinated by the Minister of State and head of the Casa Civil with seven other ministers including Territorial Administration and Telecommunications, charged with reinforcing the BUAP counter network in municipal and sub-municipal territorial units.", "as_of": "2026-06-08", "date_precision": "day", "system": "rede de Balcões Únicos de Atendimento ao Público (BUAP)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The presidential order reported on 8 June 2026 tasks the commission with reinforcing the BUAP network's power, computing equipment and communication systems, guaranteeing connectivity, digital security and technical support, and with improving the physical and technical conditions of municipal and commune administrations; it is a mandate with monthly reporting to the President, and the report gives no costing or timetable.", "as_of": "2026-06-08", "date_precision": "day", "system": "rede de Balcões Únicos de Atendimento ao Público (BUAP)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:not-stated", "fact": "The report of 8 June 2026 on the commission's mandate to connect and equip the BUAP network names no budget or funder.", "as_of": "2026-06-08", "date_precision": "day", "system": "rede de Balcões Únicos de Atendimento ao Público (BUAP)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The BUAP network's connectivity is to support registration and data-update operations on the national Base de Dados dos Cidadãos Maiores, with in-person biometric validation, under the presidential order reported on 8 June 2026; this is the stated purpose, not a report of use.", "as_of": "2026-06-08", "date_precision": "day", "system": "rede de Balcões Únicos de Atendimento ao Público (BUAP)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "rede de Balcões Únicos de Atendimento ao Público (BUAP)", "country_label": "rede BUAP", "class": "connection", "platform": "", "owner": "interministerial commission coordinated by the Casa Civil", "tiers": "territorial units of municipal and sub-municipal level; to be reinforced with power, computers and communication systems"},
+    {"system": "Base de Dados dos Cidadãos Maiores (BDCM)", "country_label": "BDCM", "class": "application", "platform": "", "owner": "", "tiers": "national; updated at the BUAP counters and at diplomatic missions; to interoperate with the civil identification database (BDIC)"}
+  ],
+  "note": "A mandate, not a report of offices connected: no count of counters or municipalities is given."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-05-koaci-cote-divoire-ouattara-digital-governance",
+  "facts": [],
+  "systems": [
+    {"system": "modernised fibre optic network", "country_label": "réseau de fibre optique modernisé", "class": "backbone", "platform": "", "owner": "the state", "tiers": "none stated; the digital transition minister said on 4 September 2026 that it carries no service at present"},
+    {"system": "state data centre", "country_label": "centre de données", "class": "backbone", "platform": "", "owner": "a public operator, unnamed", "tiers": "none stated; financed years earlier and never really operated, the operator facing repayments estimated at five billion FCFA a year"}
+  ],
+  "note": "The document reports the minister's close of the service prioritisation workshop; it names a state fibre network and a data centre, with no local government office said to be on either."
+}

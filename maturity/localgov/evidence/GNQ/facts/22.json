@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-inege-estrategia-nacional-desarrollo-estadistica-2022-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Base Cartográfica (digitised map layers down to municipios, distritos urbanos, consejos de poblado and comunidades de vecinos)", "country_label": "Base Cartográfica", "class": "central", "platform": "ArcGIS and QGIS", "owner": "INEGE's Servicio de Cartografía", "tiers": "held centrally; not said to be used by local governments"}
+  ],
+  "note": "No fact on connection. The passages give the administrative division, a possible denominator (8 provinces, 19 districts, 37 municipios, 65 distritos urbanos), and state that local administrations have their own legal personality, depend on the central government and answer to the Ministry of the Interior."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-04-minister-raliou-national-data-center-interview-lesahel",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:none", "fact": "The communications minister said in an interview published 4 March 2025 that his ministry had drawn up a programme of interconnection and modernisation of the administration to connect all communes and the public administration within them, but that it awaited adoption of the national digital policy, the country having no adopted digital policy at that date; the interview gives no other date, so the date is its publication date.", "as_of": "2025-03-04", "date_precision": "day", "system": "programme d'interconnexion et de modernisation de l'administration", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "programme d'interconnexion et de modernisation de l'administration", "country_label": "programme d'interconnexion et de modernisation de l'administration", "class": "connection", "platform": "", "owner": "Ministère de la Communication, des Postes et de l'Economie Numérique", "tiers": "planned: all communes and the public administration present in them, by fibre and satellite; drafted, not launched; the minister names Starlink and ARCEP's universal access fund (2% of operators' turnover) as possible means"},
+    {"system": "Data Center national", "country_label": "Data Center national", "class": "backbone", "platform": "", "owner": "Ministère de la Communication, des Postes et de l'Economie Numérique, with African Development Bank financing of 9.5 billion", "tiers": "national; 13% built at March 2025, handover expected by 30 September"},
+    {"system": "1,031 km fibre optique (interconnexions régionales)", "country_label": "", "class": "backbone", "platform": "", "owner": "the state", "tiers": "cross-border links to Algeria, Chad, Benin and Burkina Faso, 97% built at March 2025; no local government office said to be on it"}
+  ],
+  "note": ""
+}

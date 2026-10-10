@@ -1,0 +1,23 @@
+{
+  "slug": "2022-06-24-loi-008-2022-organisation-etat-civil-republique-gabonaise",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre numérique, biométrique et centralisé de l'état civil",
+      "country_label": "état civil numérique, biométrique et centralisé",
+      "class": "application",
+      "platform": "",
+      "owner": "Centre National de l'Etat Civil (CNEC), under the Interior Ministry",
+      "tiers": "Law provides at least one civil registry centre in each département, district, commune and arrondissement, enrolling data and transmitting it to the CNEC; their effective establishment is left to a further regulatory act"
+    },
+    {
+      "system": "Serveurs provinciaux de l'état civil",
+      "country_label": "service provincial de l'état civil",
+      "class": "central",
+      "platform": "",
+      "owner": "Centre National de l'Etat Civil (CNEC)",
+      "tiers": "One provincial service per province, attached to the CNEC, running a provincial server with a secured connection to the CNEC"
+    }
+  ],
+  "note": "A statute of 15 June 2022: it provides for civil registry centres in every commune transmitting data to the national centre, but states no office as connected or working online; article 34 keeps the existing bodies (mayors, prefects) in charge until the centres are in place. The secured connection it names is the CNEC's provincial servers, not a commune office."
+}

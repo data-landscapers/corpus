@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-17-cameroun-loi-2025-012-loi-finances-2026",
+  "facts": [],
+  "systems": [
+    {"system": "système de gestion administrative et financière digitalisé des CTD", "country_label": "", "class": "application", "platform": "", "owner": "not stated; named as a budget performance indicator in the 2026 finance law, with no value legible in the passages", "tiers": "decentralised local authorities (CTD); the indicator is the proportion holding a working digitalised system and digitalised services"},
+    {"system": "centres d'état civil principaux informatisés", "country_label": "", "class": "application", "platform": "", "owner": "not stated; a budget performance indicator, with no value legible", "tiers": "principal civil status centres; the indicator is the proportion computerised and working"},
+    {"system": "SIGCOM", "country_label": "SIGCOM", "class": "", "platform": "", "owner": "not stated", "tiers": "listed with the planning tools of the CTD; not described"},
+    {"system": "plan cadastral numérique des communes", "country_label": "", "class": "central", "platform": "", "owner": "the cadastre services; a budget performance indicator", "tiers": "the indicator is the proportion of communes with a digital cadastral plan; no value legible"}
+  ],
+  "note": "The 2026 finance law's passages name performance indicators for local authorities' digitalised management systems and computerised civil status centres, with no values legible and nothing on connection; transfers to local authorities are budget lines with no ICT purpose stated."
+}

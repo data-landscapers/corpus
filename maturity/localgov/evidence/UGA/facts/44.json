@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Kampala Safe City CCTV network", "country_label": "Safe City", "class": "city-systems", "platform": "Huawei; facial recognition, licence plate recognition, AI analytics; integrated command and control centre", "owner": "Uganda Police Force, with Kampala Capital City Authority (KCCA) among the named owning entities; Chinese loan finance", "tiers": "Kampala; deployment described as extensive"},
+    {"system": "Kampala intelligent transport systems", "country_label": "", "class": "city-systems", "platform": "traffic monitoring, adaptive traffic signals, incident detection; JICA-financed traffic centre", "owner": "KCCA", "tiers": "Kampala"},
+    {"system": "eCitie", "country_label": "eCitie revenue system", "class": "application", "platform": "revenue system taking mobile money and electronic banking", "owner": "KCCA", "tiers": "Kampala"},
+    {"system": "Smart Permit", "country_label": "Smart Permit", "class": "application", "platform": "", "owner": "KCCA", "tiers": "Kampala; digital permits online, processing target under 14 days"},
+    {"system": "KCCA mobile app and interactive web portal", "country_label": "KCCA mobile app; Weyonje", "class": "web", "platform": "Fundoo (Weyonje app)", "owner": "KCCA", "tiers": "Kampala"}
+  ],
+  "note": "An AI-researched comparison of twelve cities, by its own introduction; Uganda appears as Kampala only, in undated table cells on cameras, traffic control, revenue and permit systems and the city's app, with nothing on how the authority's offices are connected. The prose and the Kampala column were read; the other eleven cities' cells were not read one by one."
+}

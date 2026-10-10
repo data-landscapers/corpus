@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-01 Niger Civil Status (État Civil) Analysis Report 2023 (INS Niger)",
+  "facts": [],
+  "systems": [
+    {"system": "informatisation des actes d'état civil", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "computerisation of civil-status acts begun in 2023, with over 130 communes equipped for digitisation per the INS report"}
+  ],
+  "note": "The held record is a two-sentence excerpt of the INS report: over 130 communes equipped for digitising civil-status acts since 2023, with no total of communes and no statement of a connection, so no fact is taken."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "iCivil", "country_label": "iCivil", "class": "application", "platform": "smartphone app with bubble-code wristbands, sending by SMS to a national digital register", "owner": "", "tiers": "about 130 of 2,584 registration points, mostly health facilities (104) and community sites (16)"}
+  ],
+  "note": "No fact: the study excludes this source (an AI-assisted compilation), and its Burkina Faso rows describe clinics, schools, police and civil registration on paper, not the connection of commune offices."
+}

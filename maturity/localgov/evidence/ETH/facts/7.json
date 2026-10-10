@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot",
+  "facts": [],
+  "systems": [
+    {"system": "Unified Government Payment Platform (UGPP)", "country_label": "Unified Government Payment Platform", "class": "application", "platform": "EthioPay CBP", "owner": "Ministry of Finance, National Bank of Ethiopia and EthSwitch", "tiers": "piloted in the health sector; the Ministry of Health has requested online reporting portals at federal, regional and woreda levels; nearly 16 government institutions in the integration pipeline, wider rollout targeted for 2029"}
+  ],
+  "note": "A government bill-payment platform under pilot in health; woreda-level reporting portals are requested, not in place, and no woreda office is said to be connected or working in the system. The Ministry of Health's assessment of connectivity concerns cities and countryside generally, not offices."
+}

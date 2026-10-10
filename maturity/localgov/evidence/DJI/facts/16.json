@@ -1,0 +1,12 @@
+{
+  "slug": "2024-02-01-dji-diagnostic-du-systeme-informatise-de-gestion-de-l-etat-civil-sigec-de",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The PROGOUV terms of reference of February 2024 state that the civil-status centres of Djibouti city's three communes and five maternity antennas record civil-status events in the city's computerised system SIGEC, whose data sit on a central server in a room of the town hall.", "as_of": "2024-02", "date_precision": "month", "system": "SIGEC entry from the commune civil-status centres to the central server at the hôtel de Ville", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:3", "fact": "The PROGOUV terms of reference of February 2024 count three commune civil-status centres working in SIGEC, one in each of Djibouti city's three communes (Balbala, Ras Dika, Boulaos), with five antennas in health facilities; all are in the capital and no total of local governments nationally is given.", "as_of": "2024-02", "date_precision": "month", "system": "SIGEC entry from the commune civil-status centres to the central server at the hôtel de Ville", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Système informatisé de gestion de l'état civil (SIGEC)", "country_label": "SIGEC", "class": "application", "platform": "software developed by the Société de Développement des Systèmes d'Information (SDSI); central server in the hôtel de Ville", "owner": "Ville de Djibouti (Mairie); the administrator is a former SDSI technician", "tiers": "the Mairie's central civil-status centre (housed at the interior ministry's DGPF), three commune centres and five antennas in health facilities, all in Djibouti city; in use since 2011"},
+    {"system": "SIGEC entry from the commune civil-status centres to the central server at the hôtel de Ville", "country_label": "", "class": "connection", "platform": "not stated", "owner": "Ville de Djibouti", "tiers": "three commune civil-status centres and five antennas, Djibouti city only"}
+  ],
+  "note": "The connection is read from staff of the commune centres working in a shared system held on the town hall's server; the document does not describe the link itself or who pays for it, so no 'connected' or governance fact is taken. The parent should check that reading. The EUR 8 million PROGOUV funds the diagnostic and capacity building, not a connection."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-07-katsina-10bn-tech-hub-worldbank-bridge",
+  "facts": [],
+  "systems": [
+    {"system": "Katsina State fibre connectivity to all Local Government Areas (planned)", "country_label": "", "class": "upper-tier", "platform": "fibre", "owner": "Katsina State Government", "tiers": "Katsina State; the governor says his administration plans to extend fibre to all its Local Government Areas, with no office named"},
+    {"system": "BRIDGE Project", "country_label": "BRIDGE", "class": "backbone", "platform": "about 90,000 km of fibre in seven national rings, 37 metropolitan loops and 77 regional networks, with edge data centres", "owner": "Federal Government of Nigeria; World Bank financing of US$500m approved 30 September 2025 by this account", "tiers": "national; no local government office is said to be on it"},
+    {"system": "Katsina tech innovation hub (planned)", "country_label": "", "class": "", "platform": "", "owner": "Federal Government of Nigeria", "tiers": "Katsina State, one of ten states selected"}
+  ],
+  "note": "A news item of 7 October 2025: a state governor's plan to take fibre to all of Katsina's local government areas and the national fibre project. Both reach areas, not offices; no local government office is said to be connected."
+}

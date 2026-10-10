@@ -1,0 +1,10 @@
+{
+  "slug": "2018-09-20-cabo-verde-mfids-cadastro-social-unico-csu",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The ministry (MFIDS) states that registration in the Cadastro Social Único, a national information system administered and monitored by a central coordination at the ministry, is done locally by the municipal councils, that local CSU services sit in the councils, and that registered people go to their council to consult or update their data; it gives no count of councils, does not say how the council offices are connected, and carries no date, so the document's published date is used.", "as_of": "2018-09-20", "date_precision": "day", "system": "Cadastro Social Único (CSU)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Cadastro Social Único (CSU)", "country_label": "Cadastro Social Único (CSU)", "class": "application", "platform": "", "owner": "Ministério da Família, Inclusão e Desenvolvimento Social, through a central coordination", "tiers": "central services of the ministry and local CSU services in the municipal councils; reference database for municipal councils, water and electricity operators and several ministries"}
+  ],
+  "note": ""
+}

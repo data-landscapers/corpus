@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-17-eswatini-taiwan-smart-city-manzini-matsapha",
+  "facts": [],
+  "systems": [
+    {
+      "system": "5G Government Network Smart City Project",
+      "country_label": "5G Government Network Smart City Project (Mobile Government Initiative)",
+      "class": "city-systems",
+      "platform": "smart surveillance cameras, a centralised traffic management and control centre and weather sensors; supplied through International Integrated Systems Inc. (IISI)",
+      "owner": "Ministry of ICT; fully funded by the Government of Taiwan",
+      "tiers": "Mbabane pilot launched April 2025; extension to Manzini and Matsapha agreed March 2026; other regions to follow"
+    },
+    {
+      "system": "Free public Wi-Fi zones (Smart City Project)",
+      "country_label": "Free public Wi-Fi zones",
+      "class": "public-access",
+      "platform": "",
+      "owner": "Ministry of ICT; funded by the Government of Taiwan",
+      "tiers": "Mbabane, from April 2025"
+    }
+  ],
+  "note": "The Ministry of ICT's post of 17 March 2026. Despite its name, the '5G Government Network Smart City Project' is described only as cameras, a traffic control centre, public Wi-Fi and sensors: city-systems and public-access classes. It does not say any council office is on a government network, so no fact."
+}

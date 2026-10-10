@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-26-oneci-application-myoneci-plus-linfodrome",
+  "facts": [],
+  "systems": [
+    {"system": "MYONECI+", "country_label": "MYONECI+", "class": "central", "platform": "developed with Semlex Côte d'Ivoire", "owner": "Office National de l'État Civil et de l'Identification (ONECI)", "tiers": "citizens' phones; assistance at ONECI agencies in every commune of Abidjan and many towns of the interior"},
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "RNPP", "class": "central", "platform": "", "owner": "ONECI", "tiers": "national"}
+  ],
+  "note": "News of a national identity agency's app for digitised identity documents; communes appear only as the places where the agency's own offices stand. Nothing on a local government office's connection."
+}

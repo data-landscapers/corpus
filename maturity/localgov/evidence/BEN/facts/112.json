@@ -1,0 +1,31 @@
+{
+  "slug": "2026-05-01-ben-construire-la-confiance-l-inclusion-et-l-interoperabilite-playbook-ben",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Réseau backbone à fibre optique",
+      "country_label": "réseau backbone à fibre optique du pays",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Société béninoise d'infrastructures numériques (SBIN)",
+      "tiers": "more than 3,000 km covering 86% of Benin's communes; no commune office is said to be on it"
+    },
+    {
+      "system": "Datacenter national",
+      "country_label": "datacenter national",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Société béninoise d'infrastructures numériques (SBIN)",
+      "tiers": "national"
+    },
+    {
+      "system": "Fichier National de l'Etat Civil (FNEC) and Registre National des Personnes Physiques (RNPP)",
+      "country_label": "FNEC; RNPP; état civil dématérialisé",
+      "class": "application",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification des Personnes (ANIP)",
+      "tiers": "national; mayors and heads of arrondissement declare births and deaths occurring outside a health facility, and health staff those inside one"
+    }
+  ],
+  "note": "The fibre backbone is said to cover 86% of communes with no commune office stated to be on it, so it is a backbone entry and no fact; the deck gives mayors and arrondissement heads the declaring of births and deaths to a dematerialised civil register without saying they do so online from their own offices (it cites heavy use of USSD for declarations)."
+}

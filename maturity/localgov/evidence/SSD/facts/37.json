@@ -1,0 +1,9 @@
+{
+  "slug": "2022-09-01-worldbank-missing-broadband-links-horn-of-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Muya and Liquid fiber link, Ugandan border to Juba", "country_label": "national fiber backbone", "class": "backbone", "platform": "", "owner": "Muya and Liquid, under an agreement between the National Communication Authority and Liquid", "tiers": "200 km from the Ugandan border through Nimule to Juba, deployed January 2020; no local government office said to be on it"},
+    {"system": "National Broadband Network (NBN)", "country_label": "National Broadband Network", "class": "backbone", "platform": "", "owner": "Government of South Sudan", "tiers": "proposed at over 1,600 km and not realised, for financial reasons"}
+  ],
+  "note": "The passage describes the national fibre backbone and its licensing (class backbone); no local government office is said to be connected."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-30-iec-draft-electoral-code-conduct-countering-disinformation",
+  "facts": [],
+  "systems": [
+    {"system": "Online Complaints Mechanism", "country_label": "Online Complaints Mechanism", "class": "central", "platform": "", "owner": "Electoral Commission", "tiers": "national; parties and candidates are to report disinformation to it within 72 hours"}
+  ],
+  "note": "A draft code of conduct for parties and candidates in the local government elections; local government is the election, not the subject. Nothing on any municipal office's connection."
+}

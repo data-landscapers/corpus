@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-20-lesahel-tillaberi-etat-civil-identification",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National d'Etat Civil", "country_label": "Registre National d'Etat Civil; a new 'plateforme de gestion des faits d'etat civil', with the 'informatisation des communes et des centres de declaration'", "class": "application", "platform": "", "owner": "Ministere de l'Interieur, de la Securite publique et de l'Administration du Territoire, with the World Bank-financed WURI-Niger project", "tiers": "communes and declaration centres, announced on 19 August 2026 as work to come"},
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP)", "class": "", "platform": "", "owner": "ANEI, the agency that is to administer and manage it", "tiers": "a central database; a first enrolment phase in Niamey's five arrondissements communaux, then the other regions in 2027"}
+  ],
+  "note": "The tour's third stage at Tillaberi on 19 August 2026 announces the computerisation of communes and declaration centres for civil registration as a planned work; no connection at any commune office is stated, so no fact for the connection class."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-04-parakou-cadastre-netherlands-ambassador",
+  "facts": [],
+  "systems": [
+    {"system": "e-Foncier Bénin", "country_label": "plate-forme e-Foncier Bénin; base de données cadastrales; cadastre national", "class": "application", "platform": "", "owner": "the national cadastre, under the project Ppmec with Netherlands finance; data collected and updated by contractors", "tiers": "the three arrondissements of the commune of Parakou, supported since 2022, with 142,480 parcels registered and 1,061 updates entered by 1 April 2026; the mairie's land service is asked to equip itself to keep the parcels up to date, which the document names as a challenge still to meet"}
+  ],
+  "note": "The Netherlands ambassador's visit of 1 April 2026 to the cadastre work in Parakou; the communes' taking over of the updating system is named as a challenge, and nothing is stated about the mairie's data connection."
+}

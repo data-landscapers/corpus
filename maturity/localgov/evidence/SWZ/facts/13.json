@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Population Register (NPR)",
+      "country_label": "National Population Register",
+      "class": "central",
+      "platform": "networked terminals at civil registration offices; typists enter paper BMD-1 forms",
+      "owner": "civil registration department (CRD offices)",
+      "tiers": "all district-level civil registration offices countrywide, rural ones included (Hlatikhulu, Hluti, Nhlangano named)"
+    }
+  ],
+  "note": "An AI-assisted compilation by its own header, and on the study's exclude list. Its Eswatini rows cover clinics, schools, police stations and civil registration offices, which are the field offices of ministries; none concerns a town or municipal council or a Tinkhundla office. No fact taken."
+}

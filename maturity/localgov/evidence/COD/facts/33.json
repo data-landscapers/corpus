@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-18-worldbank-ptn-rdc-mission-appui-aide-memoire",
+  "facts": [],
+  "systems": [
+    {"system": "réseau gouvernement de Kinshasa", "country_label": "réseau gouvernement de Kinshasa", "class": "backbone", "platform": "", "owner": "Government of DR Congo; internet capacity for it to be bought under the Projet de Transformation Numérique (World Bank IDA and AFD)", "tiers": "33 public institutions in Kinshasa connected to it in July 2025; the institutions are not named and none is said to be a local government office"},
+    {"system": "GovNet", "country_label": "réseau gouvernemental sécurisé (GovNet)", "class": "backbone", "platform": "", "owner": "Government of DR Congo, under sub-component 2.1 of the Projet de Transformation Numérique", "tiers": "not built: a study on setting it up was still to be done in July 2025, with two pilots to connect government agencies to broadband launched meanwhile"},
+    {"system": "fibre dorsale (national backbone and cross-border links)", "country_label": "fibre dorsale", "class": "backbone", "platform": "fibre optic", "owner": "Projet de Transformation Numérique, through operators to be selected", "tiers": "national; investment strategy in draft on 15 July 2025, tender documents expected October 2025"},
+    {"system": "réseau d'accès dernier kilomètre (FDSU universal service access)", "country_label": "réseau d'accès « dernier kilomètre »", "class": "backbone", "platform": "", "owner": "Projet de Transformation Numérique with the FDSU", "tiers": "rural areas; tender documents due by end of 2025 and operator contracts by end of June 2026; what it connects is not stated beyond rural broadband"}
+  ],
+  "note": "The aide-mémoire of the 14-18 July 2025 mission, held as an excerpt that breaks off in the paragraph on connecting government agencies: it puts 33 public institutions on Kinshasa's government network and GovNet at study stage, and says nothing of a local government office. The 'local government' term hit is in the record's own frontmatter note, not the document."
+}

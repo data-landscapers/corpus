@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-23-angola-launches-commercial-access-to-angosat-2",
+  "facts": [],
+  "systems": [
+    {"system": "ANGOSAT-2", "country_label": "ANGOSAT-2", "class": "backbone", "platform": "national communications satellite, with VSAT access through a hub at the Funda mission control centre", "owner": "National Space Program Management Office (GGPEN)", "tiers": "previously reserved for government use; opened to commercial operators in December 2025 for remote areas"}
+  ],
+  "note": "States that the national satellite was reserved for government use and is now open to commercial operators; no local government office is said to be connected by it."
+}

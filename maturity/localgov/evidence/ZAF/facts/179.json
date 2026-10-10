@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-11-sa-dcdt-2050-digital-economy-vision-tender",
+  "facts": [],
+  "systems": [
+    {"system": "City of Ekurhuleni enterprise resource planning solution", "country_label": "", "class": "application", "platform": "", "owner": "City of Ekurhuleni", "tiers": "one metropolitan municipality and all its entities; tender A-ICT 03-2026 for support, maintenance, upgrade and expansion to 30 June 2029 or until the system is replaced, closing 7 September 2026"},
+    {"system": "Municipal corporate geographic information system (CGIS) implementation plans", "country_label": "CGIS", "class": "application", "platform": "", "owner": "Department of Land Reform and Rural Development", "tiers": "a plan to be developed for each of the 18 local municipalities of North West province; a tender for a service provider, not a system in use"},
+    {"system": "SITA software defined network (SDN)", "country_label": "SITA SDN", "class": "backbone", "platform": "Cisco equipment named for the Presidency's network; none named for the SDN", "owner": "State Information Technology Agency", "tiers": "government departments; evolved from the government common core network of 2007/2008 and moved from MPLS to SDN; no local government office said to be on it"}
+  ],
+  "note": "A week's ICT tenders. Municipal systems are named as applications and the SITA network is described as serving government departments; nothing states the connection of any municipal office."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2016-01-01-mali-matd-etat-civil-recensement-biometrique-ravec",
+  "facts": [],
+  "systems": [
+    {"system": "RAVEC, the administrative census for civil registration and its biometric population database, from which the national identification number (NINA) is calculated; 14,300,533 people enrolled at 20 April 2016", "country_label": "Recensement Administratif à Vocation d'Etat Civil (RAVEC)", "class": "central", "platform": "MorphoCivis", "owner": "Ministère de l'Administration Territoriale et des Collectivités Locales", "tiers": ""},
+    {"system": "City_Web, the application in which a birth declaration is recorded and passed to the RAVEC database for a NINA", "country_label": "City_Web", "class": "application", "platform": "City-web", "owner": "Ministère de l'Administration Territoriale et des Collectivités Locales", "tiers": ""}
+  ],
+  "note": "A ministry presentation on the biometric census; collectivités locales appear only in the ministry's name. It gives as a long-term objective a civil registration system covering the country by thin client, and does not say where City_Web is used or that any local government office is connected."
+}

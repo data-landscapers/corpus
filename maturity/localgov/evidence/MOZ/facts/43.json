@@ -1,0 +1,11 @@
+{
+  "slug": "2021-12-22-moz-tradegov-mozambique-digital-transformation",
+  "facts": [],
+  "systems": [
+    {"system": "E-Government Network", "country_label": "E-Government Network", "class": "backbone", "platform": "", "owner": "Government of Mozambique", "tiers": "not stated; infrastructure improvement listed as an upcoming project in December 2021"},
+    {"system": "Maluana Park and four other government data centres", "country_label": "Maluana Park", "class": "backbone", "platform": "", "owner": "Government of Mozambique", "tiers": "central; two more planned at Mocuba and Nacala"},
+    {"system": "Digital Villages", "country_label": "digital villages", "class": "public-access", "platform": "", "owner": "", "tiers": "rural areas, planned"},
+    {"system": "Multimedia Community Centers", "country_label": "Multimedia Community Centers", "class": "public-access", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "Names the government network only as an upcoming improvement project; nothing is stated about local government offices."
+}

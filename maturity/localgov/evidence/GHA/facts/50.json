@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "CitizenApp", "country_label": "CitizenApp", "class": "web", "platform": "", "owner": "", "tiers": "Accra: issue reporting and service requests by residents, consolidating government services"},
+    {"system": "AMA shortcode payment system", "country_label": "AMA shortcode payment system", "class": "web", "platform": "", "owner": "Accra Metropolitan Assembly", "tiers": "Accra Metropolitan Assembly: payments by residents without an office visit"},
+    {"system": "CCTV surveillance with facial recognition and AI analytics", "country_label": "", "class": "city-systems", "platform": "", "owner": "", "tiers": "Accra: deployment rated moderate; suppliers not attributed per system"},
+    {"system": "Traffic monitoring; AI-powered traffic lights (planned)", "country_label": "", "class": "city-systems", "platform": "", "owner": "", "tiers": "Accra"},
+    {"system": "Smart waste collection: route optimisation, tracking, smart bins (pilot)", "country_label": "Zero Waste Accra", "class": "city-systems", "platform": "", "owner": "", "tiers": "Accra"},
+    {"system": "Open data portal", "country_label": "", "class": "web", "platform": "", "owner": "", "tiers": "Accra: marked as present in the comparison table"}
+  ],
+  "note": "A twelve-city smart-city comparison, AI-compiled by its own header; for Accra it names resident-facing and city systems only and states nothing about the connection of an assembly's own office."
+}

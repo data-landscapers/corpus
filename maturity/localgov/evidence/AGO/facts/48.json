@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-05-minjusdh-falhas-do-sistema-nos-postos-de-identificacao",
+  "facts": [],
+  "systems": [
+    {"system": "postos de identificação civil e criminal e registo civil", "country_label": "postos de identificação e registo civil", "class": "central", "platform": "", "owner": "Ministry of Justice and Human Rights (MINJUSDH), through DNIRN", "tiers": "posts in almost the whole country without system for about four months to May 2026, which the ministry attributes to telecommunications breakdowns; in Luanda's municipalities only one post was found working"},
+    {"system": "Serviços Integrados de Atendimento ao Cidadão (SIAC)", "country_label": "SIAC", "class": "central", "platform": "", "owner": "", "tiers": "service centres where the system was working for the ministry's documents"}
+  ],
+  "note": "The outage is at the justice ministry's own identification and registry posts, a central field service; no local government office is named."
+}

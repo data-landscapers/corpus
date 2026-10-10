@@ -1,0 +1,9 @@
+{
+  "slug": "2018-07-01-oecd-revue-gouvernement-numerique-maroc",
+  "facts": [],
+  "systems": [
+    {"system": "Digitisation of the civil status register", "country_label": "registre d'état civil numérisé", "class": "application", "platform": "", "owner": "Direction Générale des Pouvoirs Locaux (Interior Ministry), whose efforts the review calls under way", "tiers": "not stated; recommended for sharing across the whole public administration"},
+    {"system": "Casablanca smart city", "country_label": "villes intelligentes", "class": "city-systems", "platform": "", "owner": "", "tiers": "Casablanca, named as the more advanced example for a proposed network of smart cities"}
+  ],
+  "note": "The OECD review (excerpt: summary, recommendations and part of chapter 1; chapter 4 on the territories is not in the file) states that digitalisation of public services in most Moroccan cities is only at its initiation phase and important registers remain on paper (peer mission, 2016), and lists an intra-ministerial network and a public data centre as enablers still needed; it says nothing of whether commune offices are connected, so no fact of the connection class."
+}

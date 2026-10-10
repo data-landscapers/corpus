@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-16-tchadinfos-campagne-enregistrement-universel-etat-civil-tasdjil",
+  "facts": [],
+  "systems": [
+    {"system": "Tasdjil", "country_label": "Tasdjil; Guichets Uniques d'Enregistrement des naissances", "class": "central", "platform": "developed by the NGO Technidev; works without internet", "owner": "Agence nationale des titres sécurisés (ANATS), with UNICEF support", "tiers": "civil-status offices inside hospitals: six in N'Djamena and 12 provincial and district hospitals as at 2023-11-16; a pilot phase, with more to open"}
+  ],
+  "note": "Tasdjil as described here is ANATS's system run in hospital-based offices by health staff, and it works offline; no commune office or its connection is described."
+}

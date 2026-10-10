@@ -1,0 +1,22 @@
+{
+  "slug": "2026-03-30-naot-audit-po-ralg-lgas-fy2024-25",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Controller and Auditor General reports that bills were issued through the TAUSI revenue system by local government authorities in the year to 30 June 2025 (TZS 1.22 billion of them, from seven LGAs, unpaid), that Kibaha Municipal Council's land revenue is required to be processed in TAUSI, and that the ministry for local government had instructed all LGAs to install TAUSI by 31 March 2023 and stop collecting in the older LGRCIS; the audit covered 184 LGAs and does not say how their offices are connected.", "as_of": "2025-06-30", "date_precision": "day", "system": "TAUSI", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The Controller and Auditor General states that the ministry responsible for regional administration and local government (PMO-RALG) instructed LGAs by letter of 31 January 2023 to install the TAUSI revenue system, introduced its property-management module, and set up the IFTIMIS platform for tracking audit recommendations issued to LGAs, as reported for the financial year ended 30 June 2025.", "as_of": "2025-06-30", "date_precision": "day", "system": "TAUSI", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "TAUSI", "country_label": "TAUSI revenue system; TAUSI revenue management system", "class": "application", "platform": "", "owner": "ministry responsible for regional administration and local government (PMO-RALG)", "tiers": "all LGAs instructed to install it by 31 March 2023; bills from seven LGAs and Kibaha Municipal Council named"},
+    {"system": "LGRCIS", "country_label": "LGRCIS", "class": "application", "platform": "", "owner": "", "tiers": "discontinued revenue system; 11 LGAs still held defaulters in it; Dar es Salaam City Council agents still collected solid-waste fees through it by point-of-sale machine in 2024/25"},
+    {"system": "Integrated Financial Management and Information System for Tracking Implementation of Audit Recommendations (IFTIMIS)", "country_label": "IFTIMIS", "class": "application", "platform": "", "owner": "PMO-RALG", "tiers": "Regional Secretariats and Local Government Authorities"},
+    {"system": "Government of Tanzania Health Operational Management Information System (GoT-HoMIS)", "country_label": "GoT-HoMIS", "class": "application", "platform": "", "owner": "", "tiers": "health facilities of LGAs; 23 LGAs collected TZS 6.65 billion at health facilities without it in 2024/25"},
+    {"system": "Government Electronic Payment Gateway (GePG)", "country_label": "GePG", "class": "application", "platform": "", "owner": "", "tiers": "all public revenue, by law"},
+    {"system": "Facility Financial Accounting and Reporting System (FFARS)", "country_label": "FFARS", "class": "application", "platform": "", "owner": "", "tiers": "schools in three LGAs named, fees posted in lump sums"},
+    {"system": "Non-Tax Revenue System - Property Rate Management System (NTRS-PRMS)", "country_label": "NTRS-PRMS", "class": "application", "platform": "", "owner": "Ministry of Lands, Housing and Human Settlements Development", "tiers": "land rent collected by the ministry; 20% owed to 39 LGAs"},
+    {"system": "WEZESHA Portal", "country_label": "WEZESHA Portal", "class": "", "platform": "", "owner": "", "tiers": "LGAs, named in an appendix title only"},
+    {"system": "MUSE", "country_label": "MUSE, centralised accounting system", "class": "application", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "National e-Procurement System of Tanzania (NeST)", "country_label": "NeST", "class": "application", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "Ten Percent Loan Management Information System (TPLMIS)", "country_label": "TPLMIS", "class": "application", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "Human Capital Management Information System (HCMIS)", "country_label": "HCMIS", "class": "application", "platform": "", "owner": "", "tiers": "named in the abbreviations only"}
+  ],
+  "note": "Passages only. The connection is inferred from LGAs billing in the ministry's TAUSI system; the audit states no connection as such, does not say TAUSI is held centrally, and gives no count of LGAs working in it."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-nigeria-nimc-nipost-identity-linked-address-system",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Addressing System and Address Verification System", "country_label": "DAS & VAS", "class": "central", "platform": "", "owner": "Nigerian Postal Service (NIPOST)", "tiers": "a national addressing platform developed under a former Postmaster-General; its link to the national identity number never fully implemented"}
+  ],
+  "note": "A former postal chief's argument for identity-linked addressing: he urges that local governments be given digital location tools, a proposal only; nothing on local government offices or their connection."
+}

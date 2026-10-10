@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-23-dha-npr-verification-service-pricing-correction",
+  "facts": [],
+  "systems": [
+    {"system": "Online verification system against the National Population Register", "country_label": "online verification system (OVS); National Population Register (NPR)", "class": "central", "platform": "", "owner": "Department of Home Affairs and its service providers", "tiers": "national: third-party companies and government users, provided since 2013, upgraded service from 1 July 2025; free to other government departments; no municipality named"}
+  ],
+  "note": "A Home Affairs statement on the pricing and upgrade of its national verification service; 'system offline' refers to Home Affairs' own frontline offices. No local government is named."
+}

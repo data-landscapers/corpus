@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-03-niger-diffa-tour-etat-civil-anei-rnp",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National d'Etat Civil", "country_label": "Registre National d'Etat Civil; a 'plateforme souveraine' for it, with the 'informatisation progressive des communes et des centres de declaration'", "class": "application", "platform": "", "owner": "Ministry of the Interior (Direction Generale de l'Administration du Territoire, de la Deconcentration et de la Decentralisation), under the WURI-Niger project with World Bank support; the ANEI agency is being created", "tiers": "communes and declaration centres, planned: announced on 3 September 2026 as short and medium-term work, not as done"},
+    {"system": "Registre National de la Population", "country_label": "Registre National de la Population", "class": "", "platform": "", "owner": "Government of Niger, under WURI-Niger with World Bank support", "tiers": "national; a first registration phase to start in Niamey, then the other regions, Diffa among them, from 2027"}
+  ],
+  "note": "The tour's opening at Diffa on 3 September 2026 announces the gradual computerisation of communes and declaration centres for civil registration as work to come; no connection at any commune office is stated, so no fact for the connection class."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-02-ugd-idms-audit-tdr",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme d'Enregistrement Systématique des Naissances (ESN)", "country_label": "ESN", "class": "application", "platform": "", "owner": "Unité de Gouvernance Digitale, Présidence (PRODIGY); institution in charge of civil status and identity", "tiers": "operational in several communes at March 2026, with progressive national deployment; number of communes not given"},
+    {"system": "Système de gestion de l'identité des personnes (IDMS)", "country_label": "IDMS", "class": "central", "platform": "", "owner": "Unité de Gouvernance Digitale, Présidence (PRODIGY)", "tiers": "central infrastructure and biometric enrolment equipment acquired; not yet in mass enrolment at March 2026"}
+  ],
+  "note": "Terms of reference for an audit of the identity system: the birth-registration platform is said to be operational in several communes, but the document does not say commune offices work online in it or are connected."
+}

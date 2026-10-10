@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-13-baidoa-idp-legal-id-registration-pilot",
+  "facts": [],
+  "systems": [
+    {"system": "Somali National ID system", "country_label": "National ID", "class": "central", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "NIRA's own enrolment centres and mobile teams; two enrolment centres in Baidoa for the one-month pilot, with Baidoa Municipality mobilising residents"}
+  ],
+  "note": "The registration was done by the national identity authority's staff and equipment; Baidoa Municipality's part was community mobilisation, and nothing is said of the municipality's own office being connected or working in any system."
+}

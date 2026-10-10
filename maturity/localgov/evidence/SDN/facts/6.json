@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-09-sdn-sudan4news-public-service-complexes-digitisation",
+  "facts": [],
+  "systems": [
+    {"system": "public service complexes", "country_label": "مجمعات خدمات الجمهور", "class": "central", "platform": "", "owner": "Sudan Police, General Administration for Public Service Complexes", "tiers": "Omdurman and Bahri complexes working in full, Khartoum complex to reopen in part; hosts ten national departments including passports, civil registry, traffic and customs"}
+  ],
+  "note": "The complexes are service centres run by the national police for passports, civil registry, traffic and customs; they are out of scope as a national agency's own offices, and no local government office is named."
+}

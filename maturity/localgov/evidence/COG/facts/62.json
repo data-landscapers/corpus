@@ -1,0 +1,15 @@
+{
+  "slug": "2019-07-04-jo-2019-27-decret-2019-150-strategie-nationale-economie-numerique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Intranet gouvernemental (national e-government infrastructure, with a national cloud)",
+      "country_label": "Intranet gouvernemental",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "the Congolese administration; planned under the national digital economy strategy approved by decree 2019-150 of 17 June 2019, with no local government office named"
+    }
+  ],
+  "note": "The passages state that the strategy approved in June 2019 plans a government intranet, national cloud, government portal and interoperability platform for the administration; no local government office is said to be on any of them, so the government intranet is a backbone entry and gives no fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2023-04-04-eth-ethiopia-and-gpe-partnership-compact-focused-on-improving-learning-out",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "application", "platform": "", "owner": "Ministry of Education", "tiers": "federal ministry, regional education bureaus, woreda education offices and schools; still largely paper-based in collecting data as of April 2023"},
+    {"system": "School Management Information System (SMIS)", "country_label": "SMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Teacher Management Information System (TMIS)", "country_label": "TMIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "Geographic Information System (GIS)", "country_label": "GIS", "class": "", "platform": "", "owner": "Ministry of Education", "tiers": ""},
+    {"system": "School Net Cloud / National Education Cloud", "country_label": "School Net Cloud", "class": "central", "platform": "", "owner": "Ministry of Education", "tiers": "central data centre and network operation centre established; learning management system not yet functional; a private ICT cloud in 300 secondary schools and 10 universities under GEQIP II"}
+  ],
+  "note": "An education-sector compact: it says EMIS needs IT resources at all levels including woreda and that data validation capacity at local government level is lacking, but states nothing about a connection at woreda offices."
+}

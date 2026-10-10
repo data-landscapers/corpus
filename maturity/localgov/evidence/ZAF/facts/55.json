@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-03-south-africa-iec-voter-roll-291000",
+  "facts": [],
+  "systems": [
+    {"system": "Online voter registration portal", "country_label": "online voter registration portal", "class": "central", "platform": "", "owner": "Electoral Commission of South Africa (IEC)", "tiers": "national, used by voters; 238,733 transactions on 1 and 2 August 2026"}
+  ],
+  "note": "The national electoral commission's voter registration for the local government elections; nothing on any municipal office's connection."
+}

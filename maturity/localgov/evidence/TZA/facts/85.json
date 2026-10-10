@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-01-path-digital-innovation-pandemic-control-tanzania",
+  "facts": [],
+  "systems": [
+    {"system": "Government of Tanzania Health Operations Management Information System (GOTHOMIS)", "country_label": "GOTHOMIS", "class": "application", "platform": "", "owner": "President's Office - Regional Administration and Local Government (PORALG)", "tiers": "health facilities: used in over 3,500 facilities; enhanced immunisation module deployed in six facilities in Tanga and Mbeya regions under the 2022-2025 project"}
+  ],
+  "note": "A health-facility system run by the local government ministry; the document says nothing of council offices or their connection."
+}

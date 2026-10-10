@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-09-nga-developmentdiaries-eprocurement-contract-transparency",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Submission Portal", "country_label": "BPP Digital Submission Portal", "class": "central", "platform": "", "owner": "Bureau of Public Procurement", "tiers": "federal ministries, departments and agencies; made mandatory for procurement requests"}
+  ],
+  "note": "On federal procurement transparency; rural local governments appear only as where community monitors visit project sites, and nothing is stated about local government offices' ICT."
+}

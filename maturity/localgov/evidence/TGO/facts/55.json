@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-01-tgo-rapport-annuel-2024-togo",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme numérique d'enregistrement des naissances", "country_label": "plateforme numérique d'enregistrement des naissances; télédéclaration des naissances", "class": "application", "platform": "", "owner": "developed and deployed with UNDP technical and financial support; owner not stated", "tiers": "pilot at the mairie of Golfe 3; civil-status centres of the 16 communes of the Savanes region digitised and trained to use the platform (2024)"},
+    {"system": "Plateforme numérique de gestion de la flotte automobile", "country_label": "plateforme numérique de gestion du parc automobile", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plateforme intégrée de gestion de l'aide publique au développement", "country_label": "plateforme de gestion de l'aide publique au développement", "class": "central", "platform": "", "owner": "government, with UNDP support", "tiers": "national"},
+    {"system": "Goal Tracker", "country_label": "Goal Tracker", "class": "central", "platform": "Goal Tracker", "owner": "Institut National de la Statistique et des Etudes Economiques et Démographiques (INSEED)", "tiers": "national"},
+    {"system": "Plateforme électronique collaborative de l'Assemblée nationale", "country_label": "plateforme électronique collaborative", "class": "central", "platform": "", "owner": "Assemblée nationale", "tiers": "national; design finalised"}
+  ],
+  "note": "UNDP says the birth registration platform was piloted at the Golfe 3 town hall and that the 16 Savanes communes can now issue acts in real time, but it does not say the platform is held elsewhere or that the offices are connected: an application, so no connection fact."
+}

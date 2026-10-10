@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-union-sonapresse-gabon-apdpvp-data-protection-interview",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ST Digital Gabon data centre",
+      "country_label": "data center gabonais",
+      "class": "backbone",
+      "platform": "",
+      "owner": "ST Digital Gabon; authorised by the data-protection authority APDPVP after an impact study",
+      "tiers": "A main site and a mirror site in Haut-Ogooué; no local government office is said to use it"
+    }
+  ],
+  "note": "Interview with the president of the data-protection authority; 'communes' occurs only as 'responsabilités communes' and 'réponse africaine commune'. Nothing on local government offices."
+}

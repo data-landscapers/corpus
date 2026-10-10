@@ -1,0 +1,15 @@
+{
+  "slug": "2020-05-12-decret-loi-2020-17-identifiant-unique-citoyen",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre de l'identifiant unique citoyen",
+      "country_label": "Registre de l'identifiant unique citoyen",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry in charge of local affairs (Article 1)",
+      "tiers": "National register; no local government office named"
+    }
+  ],
+  "note": "The decree-law of 12 May 2020 founding the unique citizen identifier register; it cites the local collectivities code in its visas only and states nothing about local government offices' connection."
+}

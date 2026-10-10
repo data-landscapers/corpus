@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Djibouti Data Center (DDC)", "country_label": "Djibouti Data Center", "class": "backbone", "platform": "", "owner": "Djibouti Data Center SARL; Government of Djibouti (100%) as the register gives it", "tiers": "Djibouti City; customers listed as government, ISPs, international carriers and content providers"}
+  ],
+  "note": "Passages from a data-centre ownership register: four Djibouti City data centres (DDC, two Wingu facilities, PAIX under construction), three of them commercial colocation. No local government office is said to be connected to anything."
+}

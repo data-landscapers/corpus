@@ -1,0 +1,31 @@
+{
+  "slug": "2021-04-01-ega-strategic-plan-2021-22-2025-26",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Communication Network (GovNET)",
+      "country_label": "GovNET",
+      "class": "backbone",
+      "platform": "",
+      "owner": "e-Government Authority (Infrastructure and Operations Directorate)",
+      "tiers": "Public institutions, not broken down by tier: target of 500 public institutions connected by June 2026; institutions on GovNET and the government data centres targeted at 190 in year 1 rising to 300 in year 5, with no baseline given"
+    },
+    {
+      "system": "Government Data Centers",
+      "country_label": "shared data center infrastructure",
+      "class": "backbone",
+      "platform": "",
+      "owner": "e-Government Authority",
+      "tiers": "Public institutions; to be developed and maintained by June 2026"
+    },
+    {
+      "system": "Government Mailing System (GMS)",
+      "country_label": "GMS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The plan's GovNET targets count 'public institutions' and never name local government authorities or councils, so no local government office is put on the network; its only mention of local government is 'Local-Central government relations' among challenges e-Government is expected to address."
+}

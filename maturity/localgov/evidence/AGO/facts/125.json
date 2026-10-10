@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-08-novojornal-brigadas-moveis-registo-eleitoral-oficioso",
+  "facts": [],
+  "systems": [
+    {"system": "Balcões Únicos de Atendimento ao Público (BUAP)", "country_label": "BUAP", "class": "central", "platform": "", "owner": "Ministério da Administração do Território (MAT)", "tiers": "362 installed, 272 of them working, of 634 planned, to be fixed in the municipal and communal administrations, with 10,000 brigade staff nationally (secretary of state for local authorities, reported 8 September 2026)"}
+  ],
+  "note": "A report of 8 September 2026 on the electoral register update; the BUAP is the territorial administration ministry's counter network, classed central as a ministry-run service centre, though the article says the counters are to be fixed in municipal and communal administrations. It does not say those administrations' offices are connected."
+}

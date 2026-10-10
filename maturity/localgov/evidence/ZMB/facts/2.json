@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "backbone", "platform": "", "owner": "Smart Zambia Institute (project implementer); World Bank-financed Digital Zambia Acceleration Project", "tiers": "not stated; bulk internet capacity for it under bidding, and connectivity for 500 government institutions at early market engagement and assessment stage"}
+  ],
+  "note": "For Zambia the report gives procurement progress on GWAN bulk internet capacity, 2,000 km of fibre and connectivity for 500 public institutions, with no local government office said to be connected; its local authority and district council mentions are Malawi's."
+}

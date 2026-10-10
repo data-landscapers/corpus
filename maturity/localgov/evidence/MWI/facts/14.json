@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-01-phiri-unveils-game-changing-cdf-dashboard-to-fast-track-development-end-delays",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Launching the Reformed Constituency Development Fund Dashboard on Friday 31 July 2026, the Minister of Local Government said councils upload project information to the national dashboard and there would be no excuse for late uploading; the document does not say from where or over what connection councils upload, nor how many do.", "as_of": "2026-07-31", "date_precision": "day", "system": "Reformed Constituency Development Fund Dashboard", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Reformed Constituency Development Fund Dashboard", "country_label": "Reformed CDF Dashboard", "class": "application", "platform": "", "owner": "Ministry of Local Government and Rural Development, built with the National Local Government Finance Committee and cooperating partners", "tiers": "national: councils upload project information; the President, the Minister of Finance, the Minister of Information and the Office of the President and Cabinet have real-time access"}
+  ],
+  "note": "The one fact rests on the typology's working-online rule: councils uploading to a national system. The document names no connection and does not place the uploading at council offices; the parent should weigh it on that footing."
+}

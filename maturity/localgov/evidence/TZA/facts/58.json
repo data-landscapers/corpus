@@ -1,0 +1,74 @@
+{
+  "slug": "2023-10-30 A political economy analysis of strengthening health information system in Tanzania",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The authors (BMC Medical Informatics and Decision Making, citing the health sector plan and MUHAS) state that DHIS2, which they describe as web-based software for collecting, validating and analysing data, was piloted and then rolled out to all district councils in Tanzania in 2013; they give no count of councils and do not say how the council offices are connected.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "DHIS2 rollout to all district councils",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "DHIS2",
+      "country_label": "District Health Information System version 2 (HMIS)",
+      "class": "application",
+      "platform": "DHIS2, web-based",
+      "owner": "Government (Ministry of Health, M&E department)",
+      "tiers": "All district councils since 2013; carries more than 90% of data flows from facilities to higher levels"
+    },
+    {
+      "system": "PlanRep",
+      "country_label": "Planning, budgeting and reporting system",
+      "class": "application",
+      "platform": "web based",
+      "owner": "",
+      "tiers": "Introduced 2017/18; tiers not stated"
+    },
+    {
+      "system": "FFARS",
+      "country_label": "Facility Financing Accounting and Reporting System",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "Introduced 2017; tiers not stated"
+    },
+    {
+      "system": "GoTHOMIS",
+      "country_label": "Government of Tanzania Hospital Operations Management Information System",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "District hospitals, health centres and dispensaries; introduced 2019"
+    },
+    {
+      "system": "AfyaCare",
+      "country_label": "AfyaCare",
+      "class": "upper-tier",
+      "platform": "",
+      "owner": "",
+      "tiers": "Regional referral hospitals; introduced 2018"
+    },
+    {
+      "system": "EPICOR and MUSE",
+      "country_label": "Mfumo wa Ulipaji Serikalini (MUSE)",
+      "class": "central",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "Government financial management; tiers not stated"
+    },
+    {
+      "system": "Muungano Gateway",
+      "country_label": "Muungano Gateway",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "Links health information systems; introduced 2019"
+    }
+  ],
+  "note": "The one fact rests on a web-based national system rolled out to all district councils; the paper names no council office connection. Its statements on poor connectivity concern health facilities in remote areas (interviews April-May 2022), and it says the government has deployed ICT personnel and office space in the councils (capacity), neither of which is a fact for this sub-indicator."
+}

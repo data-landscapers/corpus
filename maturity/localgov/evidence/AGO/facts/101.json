@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-identification-for-development-diagnostic-id-systems-angola",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Registo Civil (SIRC)", "country_label": "SIRC", "class": "central", "platform": "web-based, vendor-held source code, no central database", "owner": "Ministério da Justiça e dos Direitos Humanos (DNIRN)", "tiers": "civil registry offices of Luanda and the provincial capitals, each on its own local server; standalone copies at maternity posts and mobile units"},
+    {"system": "Registo Civil Integrado (RCI)", "country_label": "RCI", "class": "central", "platform": "web-based with a centralised database, built by a private firm", "owner": "Ministério da Justiça e dos Direitos Humanos (DNIRN)", "tiers": "introduced 2023; all civil registry posts in Luanda and one each in Huambo, Benguela and Lubango"},
+    {"system": "Plataforma de Gestão Integrada da Identificação Civil e Criminal (PGIBI)", "country_label": "PGIBI", "class": "central", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "national; identification services present in all 164 municipalities, some stations offline"},
+    {"system": "PROMOREN registration system", "country_label": "PROMOREN", "class": "central", "platform": "web-based with a centralised database and biometric capture", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "two civil registry offices in Luanda and the mobile units; no longer used"},
+    {"system": "Balcão Único de Atendimento ao Público (BUAP)", "country_label": "BUAP", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Serviços Integrados de Atendimento ao Cidadão (SIAC)", "country_label": "SIAC", "class": "central", "platform": "", "owner": "", "tiers": "6 units counted among civil registration service points"}
+  ],
+  "note": "A diagnostic of the justice ministry's civil registration and identification systems, whose municipal-level units are that ministry's own; it states nothing about the connection of municipal administrations' offices. The held text is truncated at capture and stops in section III.2.4."
+}

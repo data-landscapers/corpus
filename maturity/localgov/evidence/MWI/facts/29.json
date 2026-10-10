@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-21-mwi-worldbank-dmap-p505095-aide-memoire-nov-2025",
+  "facts": [],
+  "systems": [
+    {"system": "DMAP connectivity for government sites", "country_label": "connectivity for over 500 government sites", "class": "backbone", "platform": "", "owner": "Digital Malawi Acceleration Project (PPPC, World Bank-financed)", "tiers": "500 additional government sites targeted as of November 2025, not yet connected; the Minister of ICT asked to extend it to all 11,000 government institutions; councils not named among the sites"},
+    {"system": "National Data Centre", "country_label": "National Data Center", "class": "backbone", "platform": "", "owner": "Department of e-Government", "tiers": "Lilongwe; hosting six ministry databases in November 2025; US$20m expansion in procurement; 5 Gbps redundant link to Blantyre contracted 18 September 2025"},
+    {"system": "International bandwidth for Government of Malawi", "country_label": "Provision of International Bandwidth for Government of Malawi", "class": "backbone", "platform": "", "owner": "Digital Malawi Acceleration Project", "tiers": "US$5m procurement programmed to start 1 April 2026"},
+    {"system": "Land Management Information System (LMIS)", "country_label": "LMIS", "class": "central", "platform": "", "owner": "Ministry of Lands, Housing and Urban Development", "tiers": "the ministry's district offices; ICT devices supplied and connectivity for district offices agreed as a priority"}
+  ],
+  "note": "A World Bank mission record of 17-21 November 2025: 35 local councils were consulted on roll-out and safeguards and Lilongwe City Council on e-waste, but no council office is put on a connection; the 500 government sites are a target and the district offices named are a ministry's."
+}

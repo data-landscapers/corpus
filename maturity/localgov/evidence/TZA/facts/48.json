@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-tza-education-sector-development-plan-2025-26-2029-30",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "Education Sector Management Information System (ESMIS)", "country_label": "ESMIS", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "School Information Systems (SIS)", "country_label": "SIS", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"},
+    {"system": "Primary Record management (PReM)", "country_label": "PReM", "class": "", "platform": "", "owner": "", "tiers": "named in the abbreviations only"}
+  ],
+  "note": "Passages only. The plan gives the reporting chain from schools through ward education officers and council offices to regions and the ministry, without saying how reports travel; nothing is said of council offices' connection."
+}

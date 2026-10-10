@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-01-west-africa-data-center-markets-brief",
+  "facts": [],
+  "systems": [
+    {"system": "Senegal Numérique data centre, Diamniadio", "country_label": "Senegal Numerique's facility in Diamniadio", "class": "backbone", "platform": "", "owner": "Senegal Numérique (state IT agency)", "tiers": "national; the government is the second largest provider of data centre capacity in the country in 2024"}
+  ],
+  "note": "A market brief on commercial data centres; the local government connectivity initiative and GovNet it names are Nigeria's and Ghana's. On Senegal it covers data centres and the Technology New Deal only."
+}

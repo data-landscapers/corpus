@@ -1,0 +1,15 @@
+{
+  "slug": "2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National interoperability platform",
+      "country_label": "national interoperability platform (Unified eXchange Platform, UXP)",
+      "class": "backbone",
+      "platform": "Cybernetica UXP, based on the principles of Estonia's X-Road",
+      "owner": "Ministry of ICT leads; implemented by Cybernetica with PwC Tunisia under an EBRD agreement, funded by SECO",
+      "tiers": "Proof of concept with five ministries onboarded as first members; no local government named"
+    }
+  ],
+  "note": "The vendor's account of the data-exchange platform's first phase with five ministries; no local government office is said to be on it."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-27-hespress-interieur-walis-numerisation-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme numérique nationale de l'état civil / registre national de l'état civil", "country_label": "registre national de l'état civil", "class": "application", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "civil-status offices of the communes; access for commune presidents and civil-status agents is to be opened 'soon' through secured accounts, and paper registers are still being scanned in ten regions"}
+  ],
+  "note": "The national civil-status platform is an application, and the report (October 2025, on unnamed sources) says commune staff's access to it is still to be opened; no connection at a commune office is stated, and communes are reported short of paper registers for births."
+}

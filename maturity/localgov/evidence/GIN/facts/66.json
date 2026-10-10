@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-02-guinee-penurie-actes-naissance-numeriques",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The delegated civil-registry officer of Ratoma commune says his office goes on registering births in the digital civil-registration system, which runs from a data centre held elsewhere (formerly at the Maison centrale), while printing is stopped for want of secure paper (reported 2 September 2026).", "as_of": "2026-09-02", "date_precision": "day", "system": "actes de naissance numériques (digital civil registration)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The Ratoma officer says the secure paper serves to issue digital birth certificates 'in all the communes of Guinea' and the report says several communes share the stockout; no count of communes working in the system is given (2 September 2026).", "as_of": "2026-09-02", "date_precision": "day", "system": "actes de naissance numériques (digital civil registration)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "regressing", "fact": "The relocation of the data centre from the Maison centrale disrupted the digital civil-registration system used by commune offices, with engineers reinstalling it at a new site and service expected back within the week, on top of a stockout of secure paper lasting about two weeks (reported 2 September 2026).", "as_of": "2026-09-02", "date_precision": "day", "system": "actes de naissance numériques (digital civil registration)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Digital civil registration (actes de naissance numériques)", "country_label": "actes de naissance numériques", "class": "application", "platform": "", "owner": "a contracted company supplies the secure paper and runs the data centre; not named", "tiers": "commune civil-registry offices; Ratoma named, 'all the communes of Guinea' in the officer's words"},
+    {"system": "Data centre of the digital civil-registration system", "country_label": "data center", "class": "backbone", "platform": "", "owner": "the contracted company, not named", "tiers": "moved from the Maison centrale to new premises, September 2026"}
+  ],
+  "note": "The connection is read from the office working in a system hosted elsewhere; the document does not say how the commune office is connected or who pays for it."
+}

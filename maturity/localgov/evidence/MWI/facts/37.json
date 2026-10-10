@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-01-mwi-health-sector-annual-progress-report-for-the-2023-24-fiscal-year",
+  "facts": [],
+  "systems": [
+    {"system": "iHRIS", "country_label": "iHRIS", "class": "application", "platform": "iHRIS", "owner": "Ministry of Health", "tiers": "recommended for full adoption by all district health offices, central hospitals and Ministry departments; not yet fully adopted"}
+  ],
+  "note": "Health sector report: district councils appear as recipients of drug budgets, megaphones and partner MOUs; nothing on the connection of council offices."
+}

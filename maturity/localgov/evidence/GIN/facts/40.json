@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-07-anafic-attribution-kits-informatiques-solaires-collectivites",
+  "facts": [],
+  "systems": [
+    {"system": "Kits informatiques (PANAFIC, Lot 1)", "country_label": "kits informatiques", "class": "equipment", "platform": "", "owner": "ANAFIC, financed by AFD under C2D convention CGN 1263 01 R", "tiers": "21 local collectivities: the 14 communes of Conakry and the Gouvernorat, and 7 communes of the interior; contract awarded 2025-10-01 at GNF 836,500,000"},
+    {"system": "Kits solaires (PANAFIC, Lot 2)", "country_label": "kits Solaire", "class": "equipment", "platform": "", "owner": "ANAFIC, financed by AFD under C2D convention CGN 1263 01 R", "tiers": "7 new rural communes of the interior; contract awarded 2025-10-01 at GNF 781,060,000"},
+    {"system": "Logiciel de gestion comptable et financier", "country_label": "logiciel de gestion comptable et financier", "class": "application", "platform": "", "owner": "ANAFIC", "tiers": "the commune accounting software the kits are bought to run; no count of communes using it"}
+  ],
+  "note": "A contract award of 2025-10-01 for computer and solar kits to local collectivities so they can run the accounting software: equipment with no connection stated, and an award, not a delivery."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2019-11-01-somalia-national-ict-policy-strategy-2019-2024",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The National ICT Policy and Strategy 2019-2024, adopted by Cabinet, sets among its strategic goals for government agencies that 'all FGS and FMS local authorities have Internet access' by year 3 of the plan, after all federal and state ministries in Mogadishu by year 1, and lists local authorities among the rural public services whose connectivity is to be built in a co-ordinated way; it gives no count of local authorities, no baseline and no cost, saying costs are to be determined by each agency. The document carries no date beyond its 2019-2024 period, so the date here is its published year.", "as_of": "2019", "date_precision": "year", "system": "Internet access for local authorities (policy target)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The National ICT Policy and Strategy 2019-2024 makes the ICT Department of the Ministry of Posts, Telecommunications and Technology responsible for connectivity provision and online services in government, the frame within which it sets its target of internet access for all federal and state local authorities; the date here is the document's published year.", "as_of": "2019", "date_precision": "year", "system": "Internet access for local authorities (policy target)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Government Data Center", "country_label": "Government Data Center / National Data Center (NDC)", "class": "backbone", "platform": "", "owner": "Ministry of Posts, Telecommunications and Technology", "tiers": "planned for 2019-2024, to host government services, a citizen portal, agency websites and a government intranet, with off-site backup"},
+    {"system": "Government intranet", "country_label": "government intranet; GovNet (Government Wide Network) in the abbreviation list", "class": "backbone", "platform": "", "owner": "Ministry of Posts, Telecommunications and Technology", "tiers": "named as a need the planned data centre would meet; no tier or office stated"},
+    {"system": "National fibre backbone", "country_label": "national backbone", "class": "backbone", "platform": "", "owner": "private operators, with a possible wholesale public-private partnership", "tiers": "planned to link all major urban centres by 2024, estimated at US$67-100 million; the policy says there was no domestic fibre backbone outside Mogadishu"},
+    {"system": "Land information systems", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "a policy objective; a strategy for establishing them to be adopted"}
+  ],
+  "note": ""
+}

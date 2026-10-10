@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-telma-corporate-review-2019",
+  "facts": [],
+  "systems": [
+    {"system": "Telma fibre-optic and mobile network", "country_label": "infrastructures Internet Très Haut Débit", "class": "backbone", "platform": "", "owner": "Telma", "tiers": "more than 10,000 km of fibre; Telma mobile coverage in 1,209 of 1,695 communes (71%) in 2019, against Orange 654 and Airtel 561; urban centres, administrative buildings, universities and hospitals said to be fibred"}
+  ],
+  "note": "An operator's coverage figures: communes covered are territories reached by mobile signal, and no commune office is said to be connected."
+}

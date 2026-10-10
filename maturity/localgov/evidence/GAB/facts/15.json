@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-24-gabon-aninf-franceville-office",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ANINF provincial office, Franceville",
+      "country_label": "ANINF's first provincial office",
+      "class": "central",
+      "platform": "",
+      "owner": "Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)",
+      "tiers": "One office in Franceville, Haut-Ogooué, opened June 2026 (reported 24 June 2026), the agency's first outside the capital since its creation in 2011; to give technical support to local administrations and help them use and manage 'government digital infrastructure'"
+    },
+    {
+      "system": "Government digital infrastructure",
+      "country_label": "government digital infrastructure",
+      "class": "",
+      "platform": "",
+      "owner": "ANINF",
+      "tiers": "Named without description; local administrations in the province are to be assisted in using it"
+    }
+  ],
+  "note": "The opening of a national agency's field office, attended by the mayor of Franceville and the president of the M'Passa departmental council; the article says what the office will do for local administrations but does not state that any local government office is connected or to what."
+}

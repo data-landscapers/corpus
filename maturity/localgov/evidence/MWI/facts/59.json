@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-ministry-showcases-dmap-milestones-at-ictam-2025-agm",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network", "country_label": "Government Wide Area Network", "class": "backbone", "platform": "", "owner": "Department of eGovernment, Ministry of Information and Communication Technology; enhanced under the World Bank-supported Digital Malawi Acceleration Project with the Public Private Partnership Commission", "tiers": "high-speed internet to over 530 ministries, departments and agencies; 4,000 kilometres of fibre laid across the country connecting different sites, as stated by the Department of eGovernment in November 2025; councils not named"},
+    {"system": "National Data Centre", "country_label": "National Data Centre in Lilongwe", "class": "backbone", "platform": "", "owner": "Government of Malawi, supported by the Digital Malawi Acceleration Project", "tiers": "Lilongwe; migration of government systems to it begun"}
+  ],
+  "note": "The government network is said to connect over 530 ministries, departments and agencies; no council or other local government office is said to be on it, so it is a backbone entry and gives no fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2020-08-13-inage-cloudgov-sistema-de-armazenamento-de-arquivos",
+  "facts": [],
+  "systems": [
+    {"system": "CloudGov", "country_label": "CloudGov", "class": "backbone", "platform": "file storage, sharing and synchronisation system developed by INAGE", "owner": "INAGE", "tiers": "public administration institutions, tier not stated"},
+    {"system": "Rede Electrónica do Governo (GovNET)", "country_label": "GovNET", "class": "backbone", "platform": "", "owner": "INAGE, which lists connection to it as a service", "tiers": "not stated"}
+  ],
+  "note": "Announces a shared file store for public administration institutions and lists connection to GovNET among INAGE's services; no local government office is named."
+}

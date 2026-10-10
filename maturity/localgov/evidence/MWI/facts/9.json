@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-23-springer-teevan-evolution-digital-global-gateway",
+  "facts": [],
+  "systems": [
+    {"system": "Regional fibre-optic backbone (EU Global Gateway)", "country_label": "regional fibre-optic backbone", "class": "backbone", "platform": "", "owner": "European Union Global Gateway", "tiers": "planned: 10,000 km across Central and Southern African countries including Malawi; no local government office named"}
+  ],
+  "note": "A chapter on the EU's Global Gateway; Malawi is named once, in a list of countries a planned regional fibre backbone would cross, and nothing is stated about its local governments."
+}

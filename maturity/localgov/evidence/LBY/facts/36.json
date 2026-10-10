@@ -1,0 +1,11 @@
+{
+  "slug": "2023-11-02-lgm-tahawwul-raqami-murasalat-iliktruniyya-baladiyat",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Local Government's digital transformation project director said on 2 November 2023 that official e-mail accounts would be created for the heads of administrative units in the municipalities within the ministry's electronic correspondence system, to replace paper correspondence, under the ministry's digital transformation strategy; the accounts were announced, not yet in use, and no count of municipalities is given.", "as_of": "2023-11-02", "date_precision": "day", "system": "منظومة التراسل الإلكتروني بالوزارة (the ministry's electronic correspondence system)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The electronic correspondence system that municipal administrative units were to be brought into is the Ministry of Local Government's own, run under its digital transformation project, as stated on 2 November 2023; no funding source is stated.", "as_of": "2023-11-02", "date_precision": "day", "system": "منظومة التراسل الإلكتروني بالوزارة (the ministry's electronic correspondence system)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Ministry of Local Government electronic correspondence system", "country_label": "منظومة التراسل الإلكتروني; منظومة الوزارة للمراسلات الرسمية", "class": "connection", "platform": "", "owner": "Ministry of Local Government, digital transformation project", "tiers": "In official use for internal correspondence by the ministry and its centres, departments and offices for a little over three months at 2 November 2023; extension to heads of municipal administrative units announced, not yet done"}
+  ],
+  "note": "Classed as connection under the study's rule that working online in a national system held elsewhere states a connection; the document states only the intention to bring municipalities in, so the two facts are governance facts and no use, connected or authorities fact is recorded. The parent may prefer to class the system as application."
+}

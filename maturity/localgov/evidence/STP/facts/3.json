@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "NOSi National Data Centre (TechPark CV Praia Campus)", "country_label": "", "class": "backbone", "platform": "", "owner": "NOSi, Government of Cabo Verde", "tiers": "a data centre in Praia, Cabo Verde, listing Sao Tome among its government customers; no local government office said to be on it"}
+  ],
+  "note": "A register of data centres; Sao Tome appears only as a named customer of Cabo Verde's NOSi data centre, and no facility is listed in the country. Nothing on a local government office or its connection."
+}

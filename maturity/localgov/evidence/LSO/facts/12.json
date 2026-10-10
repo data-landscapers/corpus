@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-01 Lesotho joins 50-in-5 (country profile)",
+  "facts": [],
+  "systems": [
+    {"system": "CRVS and national ID system", "country_label": "CRVS and national ID system", "class": "central", "platform": "", "owner": "Ministry of Local Government, Chieftainship, Home Affairs and Police", "tiers": "identity verification for government payroll, pensioners, banks, insurers and telecommunications; no local government tier stated"},
+    {"system": "Government e-payments gateway", "country_label": "government e-payments gateway (eGovernment Infrastructure Phase II Project)", "class": "central", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation", "tiers": "in development; no local government tier stated"},
+    {"system": "Interoperability platform", "country_label": "whole of government enterprise architecture, interoperability framework and platform (PSFSDP)", "class": "central", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation", "tiers": "in development, across government departments; no local government tier stated"}
+  ],
+  "note": "Local government appears only in the name of the ministry that holds the national ID system; the profile states nothing about local government offices or their connection."
+}

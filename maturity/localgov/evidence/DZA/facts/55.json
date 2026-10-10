@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-16-referentiel-national-adressage-rna",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Référentiel national d'adressage (RNA)",
+      "country_label": "référentiel national d'adressage (RNA)",
+      "class": "application",
+      "platform": "a digital platform set up by the Algerian Space Agency (ASAL) to support the addressing operation",
+      "owner": "Ministère de l'Intérieur, des Collectivités locales et de l'Aménagement du territoire, through the Commission nationale d'adressage, with ASAL",
+      "tiers": "launched in the communes of Ouargla wilaya on 15 June 2025 after the pilot in Oran wilaya (311,000 addresses); to be extended gradually to all wilayas"
+    }
+  ],
+  "note": "Launch of the addressing operation in Ouargla's communes and four days of training. An application; the article does not say that commune offices are connected or that their staff work in the platform from their own offices."
+}

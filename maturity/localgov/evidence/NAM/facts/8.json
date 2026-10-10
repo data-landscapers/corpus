@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-21-economist-namibia-road-network-digital-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Project Control System (PCS)", "country_label": "Project Control System", "class": "central", "platform": "Digital platform with integrated dashboards, spatial mapping and mobile reporting, developed at N$13 million", "owner": "Roads Authority; commissioned by the Ministry of Works and Transport", "tiers": "Roads Authority; to be accessible to ministries, state-owned enterprises, regional councils, local authorities, contractors and consultants once data population is complete"}
+  ],
+  "note": "A national agency's road-project system; local authorities are named only as future authorised users, and nothing is stated about the connection of their offices."
+}

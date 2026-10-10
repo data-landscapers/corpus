@@ -1,0 +1,8 @@
+{
+  "slug": "2020-12-01-gsma-reimagining-identity-ecosystems-sub-saharan-africa-mobile",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile Vital Records System", "country_label": "m-VRS", "class": "central", "platform": "web-based app and mobile USSD", "owner": "Government of Uganda with Uganda Telecom, supported by UNICEF; registration under the National Identification and Registration Authority", "tiers": "births and deaths registered in health facilities and villages, verified by back-office registration officers; the authority opening offices across districts"}
+  ],
+  "note": "A study of identity systems and mobile operators in four countries; the Uganda chapter covers the national identity authority, birth registration and SIM registration, and says nothing of any local government office's connection."
+}

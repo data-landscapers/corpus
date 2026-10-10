@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-14-cog-cloture-atelier-pdrcl-acsi-mfbpp",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme de dématérialisation des recettes des collectivités locales (PDRCL)", "country_label": "PDRCL", "class": "application", "platform": "", "owner": "Agence congolaise des systèmes d'information (ACSI), under the Ministère des finances, du budget et du portefeuille public", "tiers": "local authorities' revenue; validated at Kintélé on 14 February 2026 after workshops in the communes of Brazzaville and Pointe-Noire, with operational deployment said to be permitted from then"}
+  ],
+  "note": "The final validation of the local-authority revenue platform on 14 February 2026; it is an application not yet deployed, and the document states nothing on the connection of any local government office."
+}

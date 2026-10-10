@@ -1,0 +1,39 @@
+{
+  "slug": "2021-04-26-world-bank-concept-pid-congo-digital-acceleration-project",
+  "facts": [],
+  "systems": [
+    {
+      "system": "online presence of central government and local authority entities (core departments and municipalities)",
+      "country_label": "",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "most central government departments and municipalities; very limited e-services"
+    },
+    {
+      "system": "civil registration system",
+      "country_label": "",
+      "class": "application",
+      "platform": "no standardised system; electronic records stored locally and not consolidated",
+      "owner": "",
+      "tiers": "civil registration centres: largely paper-based in rural areas, unevenly digitised in Brazzaville and Pointe-Noire"
+    },
+    {
+      "system": "national backbone project (PCN, Projet de Couverture Nationale)",
+      "country_label": "PCN",
+      "class": "backbone",
+      "platform": "about 3,000 km of fibre backbone and 700 km of metropolitan optical loops in Brazzaville, Pointe-Noire and Oyo",
+      "owner": "state-owned; managed by the ministry of planning, territorial equipment and major works, operated and commercialised by Congo Telecom",
+      "tiers": "links Pointe-Noire, Dolisie, Brazzaville, Oyo and Ouesso; no local government office said to be on it"
+    },
+    {
+      "system": "bulk purchase capacity contracts for unconnected MDAs (Congo Digital Acceleration Project, component 3)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "selected rural and remote schools, health centres and unconnected ministries, departments and agencies; proposed at concept stage"
+    }
+  ],
+  "note": "The concept document states that municipalities have an online presence and that small cities and villages lack last-mile connectivity, but says nothing of a connection at any local government's own office; the connectivity it proposes names ministries, departments and agencies, not local governments."
+}

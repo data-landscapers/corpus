@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-01-innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot",
+  "facts": [],
+  "systems": [
+    {"system": "Batho Pele AI Chatbot", "country_label": "Batho Pele AI Chatbot", "class": "central", "platform": "Meta's Llama models", "owner": "Department of Public Service and Administration, with Meta and Juicetel", "tiers": "national department; the minister said it could later be scaled to provinces, municipalities and public entities"}
+  ],
+  "note": "A national department's chatbot; municipalities are named only as somewhere it could later be scaled to. Nothing on any municipal office's connection."
+}

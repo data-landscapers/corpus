@@ -1,0 +1,12 @@
+{
+  "slug": "2024-08-01-mwi-final-narrative-programme-report-spotlight-initiative-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "SGBV Data Observatory Hub", "country_label": "National Data Observatory Hub (NDOH) and District Observatory Hubs (DOH); www.nsogbv.mw", "class": "application", "platform": "", "owner": "National Statistics Office (host and convenor); set up under the Spotlight Initiative, funded by the European Union", "tiers": "national hub and six district hubs in Mzimba, Nkhata Bay, Ntchisi, Dowa, Nsanje and Machinga; a photo caption has the Nkhata Bay District Gender Officer showing the district mini-hub, which consolidates data at district level before it is sent to the national hub"},
+    {"system": "GBV information management system", "country_label": "web-based GBV information management system (GBVIMS / GBVMIS)", "class": "central", "platform": "", "owner": "Ministry of Gender, Community Development and Social Welfare; set up in 2015 with European Union funding and upgraded under the Spotlight Initiative", "tiers": "24 central trainers cascaded training to 584 service providers at district and community level in the six Spotlight districts"},
+    {"system": "Police SGBV integrated Case Management System", "country_label": "CMS, merged into the crime record system in 2022", "class": "central", "platform": "", "owner": "Malawi Police Service", "tiers": "piloted in the six Spotlight districts"},
+    {"system": "RapidPro", "country_label": "RapidPro mobile data collection system", "class": "central", "platform": "RapidPro", "owner": "Malawi Police Service", "tiers": "not stated"},
+    {"system": "Kuwala Knowledge Management Platform", "country_label": "Kuwala Platform", "class": "", "platform": "", "owner": "not stated", "tiers": "introduced across the six Spotlight districts, for exchanges among stakeholders at district and community level"}
+  ],
+  "note": "No fact: the report describes district data hubs and district council staff (gender officers, directors of planning) taking part in the programme, but never states that a council office is connected or how; the district mini-hub's sending of data to the national hub is the nearest statement and names no connection."
+}

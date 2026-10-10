@@ -1,0 +1,8 @@
+{
+  "slug": "2021-06-02-wb-uga-001-uganda-digital-acceleration-project---govnet",
+  "facts": [],
+  "systems": [
+    {"system": "Uganda Digital Acceleration Project - GovNet", "country_label": "GovNet, national government network; National Backbone Infrastructure extension and last-mile connectivity", "class": "backbone", "platform": "", "owner": "National Information Technology Authority, Uganda (NITA-U), Ministry of ICT and National Guidance; World Bank commitment of US$200m approved 2021-06-02", "tiers": "not stated; a restructuring paper of 2025-06-27 removes the backbone extension, last-mile connectivity, rural mobile broadband and a third national data centre, keeping bandwidth pre-purchase, a data-centre upgrade and metropolitan network enhancements"}
+  ],
+  "note": "A deal record for the World Bank's government network project; it names no local government office as connected or to be connected, so the network is a backbone entry and gives no fact."
+}

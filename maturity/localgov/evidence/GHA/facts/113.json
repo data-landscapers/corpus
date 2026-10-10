@@ -1,0 +1,8 @@
+{
+  "slug": "2022-05-18-gha-more-training-needed-on-cts-police-superintendent",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Case Tracking System (CTS)", "country_label": "CTS", "class": "central", "platform": "integrated software", "owner": "Government of Ghana justice institutions (Attorney General, Police Service, Prisons Service, Legal Aid Commission, EOCO, Judicial Service), supported by USAID", "tiers": "police stations within the Asokwa municipal police command, per its commander; launched 2018"}
+  ],
+  "note": "A police commander's remarks on the case tracking system: the municipality appears only as the name of a police command and the place of the meeting; the unstable internet he reports is at police stations, not at an assembly office."
+}

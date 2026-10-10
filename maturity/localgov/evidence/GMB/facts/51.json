@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-28-gmb-national-health-sector-policy-2021-2030",
+  "facts": [],
+  "systems": [
+    {"system": "IFMIS", "country_label": "Integrated Financial Management Information System", "class": "central", "platform": "", "owner": "Ministry of Finance and Economic Affairs", "tiers": "central government, used by the Ministry of Health for government expenditure"}
+  ],
+  "note": "A health sector policy. City and municipal councils and Local Government Authorities appear as parties consulted, as members of regional management teams and as the object of decentralisation under the Local Government Act 2002; nothing is stated about their offices' connection, equipment or systems. The health information systems it describes (DHIS2, MyChild, LMIS, CRVS) belong to the Ministry of Health and its regional directorates and facilities, outside the study's field."
+}

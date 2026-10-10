@@ -1,0 +1,55 @@
+{
+  "slug": "2024-10-28-second-quarter-performance-report-fy2024-25",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Setting up a 5G Government Network (capital project G65070)",
+      "country_label": "Settling up a 5G Government Network",
+      "class": "",
+      "platform": "",
+      "owner": "not stated; capital budget line of E36,000,000 with nothing released by the second quarter of 2024/25",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Critical Information Infrastructure Protection and Enhancement (national data centre and disaster recovery site)",
+      "country_label": "Critical Information Infrastructure protection & Enhancement",
+      "class": "backbone",
+      "platform": "national data centre expansion, disaster recovery site, government network security operations centre",
+      "owner": "Ministry of ICT through the Royal Science and Technology Park (RSTP); USD 1,000,000 of partner support for consultancy, consultant under procurement",
+      "tiers": "national; no local government office named"
+    },
+    {
+      "system": "Eswatini Electronic Government Procurement System (capital project G64599)",
+      "country_label": "Eswatini Electronic Government Procurement System",
+      "class": "central",
+      "platform": "",
+      "owner": "Government of Eswatini; E18,874,000 budgeted, nothing released by the second quarter of 2024/25",
+      "tiers": "not stated in the passages"
+    },
+    {
+      "system": "Integrated Financial Management Information System (IFMIS, capital project G60099)",
+      "country_label": "IFMIS",
+      "class": "central",
+      "platform": "",
+      "owner": "Government of Eswatini; E38,897,000 released in full",
+      "tiers": "central"
+    },
+    {
+      "system": "Integrated Online E-Service Platform (capital project G64999)",
+      "country_label": "Integrated Online E-Service Platform",
+      "class": "central",
+      "platform": "",
+      "owner": "Government of Eswatini; E30,000,000 budgeted, nothing released",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Deeds Registration and Information Management System (Phase 2)",
+      "country_label": "Deeds Registration and Information Management System",
+      "class": "central",
+      "platform": "electronic deeds registration with online receipt and registration of transactions",
+      "owner": "Deeds Registry Office, Ministry of Natural Resources and Energy; USD 65,000",
+      "tiers": "central"
+    }
+  ],
+  "note": "The planning ministry's report for July-September 2024, in passages. Its local government items are webinars on Voluntary Local Reviews attended by local government officers in September 2024 and capital lines for a Buhleni local authority and an inter-governmental fund; the '5G Government Network' is a budget line with no description. Nothing on any local government office's connection."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-05-livro-branco-das-tic-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Rede Privativa do Estado", "country_label": "Rede Privativa do Estado", "class": "backbone", "platform": "", "owner": "the Executive", "tiers": "not stated in the held text; the contents list a section 5.1.5 on updating it and the introduction names a strategy for its modernisation"},
+    {"system": "Rede Nacional de Banda Larga", "country_label": "Rede Nacional de Banda Larga (Rede Primária de Comunicações Electrónicas)", "class": "backbone", "platform": "national terrestrial and submarine fibre, microwave and satellite", "owner": "the State, as public-domain infrastructure", "tiers": "national"}
+  ],
+  "note": "The held text is an excerpt that ends in section 4.2.3: the sections on updating the State's private network (5.1.5) and on modernising public administration (5.5) appear only in the contents list. What is held names no connection of municipal administrations and gives no figure, so no plan fact is taken."
+}

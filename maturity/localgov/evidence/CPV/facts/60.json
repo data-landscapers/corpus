@@ -1,0 +1,10 @@
+{
+  "slug": "2007-12-05-cabo-verde-boletim-oficial-decreto-lei-43-2007-registo-electronico",
+  "facts": [],
+  "systems": [
+    {"system": "Porton di nôs Ilha", "country_label": "Portal \"Porton di nôs Ilha\" (www.portondinosilha.cv), web channel of the Casa do Cidadão", "class": "central", "platform": "", "owner": "Casa do Cidadão manages it; NOSI maintains the technological infrastructure", "tiers": "National; Casa do Cidadão counters and accredited public administration counters"},
+    {"system": "Bases de dados dos registos (civil, comercial, predial, veículos)", "country_label": "bases de dados dos registos", "class": "central", "platform": "", "owner": "Direcção-Geral dos Registos, Notariado e Identificação (DGRNI)", "tiers": "Conservatórias, any of which may reach the registry databases electronically whatever its territorial competence"},
+    {"system": "Centro de Dados do Estado de Cabo Verde", "country_label": "infra-estrutura tecnológica e \"Centro de Dados\" do Estado", "class": "backbone", "platform": "", "owner": "State; NOSI", "tiers": "Hosts the portal; no local government office said to be on it"}
+  ],
+  "note": "Gazette supplement of 2007 on electronic registry acts, online certificates and the Casa do Cidadão portal: laws, about central registry offices and a central one-stop service. Local authorities appear once, as permitted users of the Government library. Nothing on any local government office's connection. Capture is an excerpt."
+}

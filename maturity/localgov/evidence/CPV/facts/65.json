@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-13-cabo-verde-portaria-conjunta-16-2026-csu-habitacao-estado",
+  "facts": [],
+  "systems": [
+    {"system": "plataforma de candidatura (State housing allocation)", "country_label": "plataforma eletrónica / plataforma de candidatura", "class": "central", "platform": "", "owner": "Ministério das Infraestruturas, Ordenamento do Território e Habitação, which launches the competition", "tiers": "Applicants register and apply online themselves; alternatively applications are submitted at the Casa do Cidadão or at the Câmaras Municipais"},
+    {"system": "Cadastro Social Único (CSU)", "country_label": "Cadastro Social Único (CSU)", "class": "", "platform": "", "owner": "", "tiers": "National social registry whose groups I to IV and residence information select housing applicants; no office tier stated"}
+  ],
+  "note": "A regulation, which places nothing: Portaria Conjunta 16/2026 of 13 February 2026 lets housing applications be handed in at municipal councils as an alternative to the online platform, without saying the councils work in the platform or are connected."
+}

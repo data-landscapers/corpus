@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-17-national-assembly-dict-egn-visit",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Government Network (EGN)", "country_label": "Electronic Government Network (EGN)", "class": "backbone", "platform": "", "owner": "Department of Information Communication Technology (DICT), Network Operations Section", "tiers": "Ministries, departments and agencies: DICT's internet budget covers internet for multiple MDAs and secure point-to-point connections; no district administration or other local government office is named as on it"}
+  ],
+  "note": "The body describes the government network and DICT's internet provision to MDAs as at the committee's visit of 12 June 2025 and names no local government office as connected, so the network is a backbone entry and gives no fact; the statement that district administration connects to it is in the record's frontmatter note, not in the document's text."
+}

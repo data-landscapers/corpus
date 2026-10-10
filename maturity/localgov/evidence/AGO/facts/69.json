@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa",
+  "facts": [],
+  "systems": [
+    {"system": "UNITEL national fibre network", "country_label": "fibra óptica nacional", "class": "backbone", "platform": "about 14,000 km of fibre with metropolitan networks in the large cities", "owner": "UNITEL", "tiers": "present in all provincial capitals, as stated in December 2025"},
+    {"system": "2Africa cable, Angola branch", "country_label": "ramal do cabo submarino 2Africa", "class": "backbone", "platform": "submarine cable with landing station at Cacuaco; 23.6 Tbps allocated to Angola", "owner": "UNITEL, within the 2Africa consortium", "tiers": "international capacity"}
+  ],
+  "note": "An operator's submarine cable and commercial fibre backbone; the municipality is named only as the site of the landing station, and no local government office is said to be connected."
+}

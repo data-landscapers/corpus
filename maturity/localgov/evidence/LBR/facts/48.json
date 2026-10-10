@@ -1,0 +1,8 @@
+{
+  "slug": "2022-04-04-liberia-justice-cmis-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "Case Management Information System (CMIS)", "country_label": "CMIS", "class": "central", "platform": "DHIS2", "owner": "Judiciary, Prosecution Department of the Ministry of Justice and Liberia National Police, supported by the UN Joint Rule of Law Programme", "tiers": "courts, county attorneys and police, by web and mobile app"}
+  ],
+  "note": "A case management system for the judiciary, prosecution and police, which are central justice institutions; no local government office or its connection is stated."
+}

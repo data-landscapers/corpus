@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-16-fij-npc-vitalreg-wrong-family-records",
+  "facts": [],
+  "systems": [
+    {"system": "VitalReg", "country_label": "VitalReg, the digital birth registration", "class": "central", "platform": "online portal keyed to the national identity number", "owner": "National Population Commission", "tiers": "public portal; no local government office named"}
+  ],
+  "note": "A Lagos man found strangers recorded as his family in the National Population Commission's birth registration portal (15 Aug 2026); 'Amuwo Odofin Local Government Area' only locates an address. A national agency's system with no local government office said to use it or be connected. No fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-07-gauteng-egovernment-annual-report",
+  "facts": [],
+  "systems": [
+    {"system": "Gauteng Provincial Network", "country_label": "Gauteng Provincial Network", "class": "upper-tier", "platform": "", "owner": "Gauteng Department of e-Government", "tiers": "province; said to be connecting more government facilities at 99% uptime in 2025/26, no municipal office named as on it"},
+    {"system": "e-Indigent Register", "country_label": "e-Indigent Register", "class": "application", "platform": "", "owner": "Gauteng Department of e-Government", "tiers": "rolled out in Mogale City, Rand West and Merafong municipalities; expanding to Midvaal, Lesedi and Emfuleni"},
+    {"system": "public Wi-Fi hotspots", "country_label": "", "class": "public-access", "platform": "", "owner": "Gauteng Department of e-Government", "tiers": "96 hotspots rolled out in 2025/26 at schools, libraries, hospitals, clinics, hostels and driving licence testing centres"},
+    {"system": "provincial CCTV network", "country_label": "", "class": "city-systems", "platform": "", "owner": "Gauteng provincial government; also access to 7,271 Vumacam cameras", "tiers": "province; 960 cameras cumulative, 443 installed in 2025/26"},
+    {"system": "33 e-Services", "country_label": "e-Services", "class": "upper-tier", "platform": "", "owner": "Gauteng Department of e-Government", "tiers": "province"}
+  ],
+  "note": "A province's results. The e-Indigent Register is a provincial system rolled out in three municipalities, but the document does not say municipal staff work in it from their own offices or how those offices are connected, so no connection fact is taken; the parent may wish to weigh it."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2017-03-01-mapping-social-protection-mis-uganda",
+  "facts": [],
+  "systems": [
+    {"system": "SAGE programme management information system", "country_label": "Social Assistance Grant for Empowerment (SAGE)", "class": "application", "platform": "", "owner": "Expanding Social Protection Programme, Ministry of Gender, Labour and Social Development", "tiers": "at district level run within local governments by a SAGE unit in the Community Services Department, with sub-county community development officers"},
+    {"system": "Youth Livelihood Programme reporting", "country_label": "YLP", "class": "application", "platform": "", "owner": "not stated in the passages", "tiers": "a disbursement schedule is used to inform local government staff"},
+    {"system": "Paper registration of a social protection programme", "country_label": "programme not named in the passages", "class": "application", "platform": "paper applications and multiple spreadsheets", "owner": "not stated in the passages", "tiers": "registration decentralised at local government level, paper-based and manual; paper documents delivered by hand to the national level"}
+  ],
+  "note": "Passages of a 2017 mapping of social protection information systems. Local governments appear as the level where programme data is captured, in one programme on paper carried by hand to the centre; the passages state nothing on the connection of any local government office."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-08-mdg-allafrica-tana-digitalisation-marches",
+  "facts": [],
+  "systems": [
+    {"system": "Digitalisation des marchés (carte marchand)", "country_label": "digitalisation des marchés; carte marchand", "class": "application", "platform": "tablet registration, chip-and-QR merchant cards, electronic payment terminals (TPE)", "owner": "Commune urbaine d'Antananarivo (CUA)", "tiers": "Antananarivo urban commune: its markets and the commune's office"}
+  ],
+  "note": "A municipal revenue-collection system in the capital's commune (application class); the document states nothing about the office's data connection."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-06-25-wakatsera-snec-bilan-2025-execution-financiere",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:78", "fact": "The secretary general of the territorial administration ministry listed among the 2025 results of the national civil status strategy the networking of 78 principal civil status centres; no total of centres or communes is given, and the document does not itself say the centres are mairies.", "as_of": "2025", "date_precision": "year", "system": "mise en réseau des centres principaux d'état civil", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The networking of 78 principal civil status centres is reported as a result of the national civil status strategy, whose steering committee the territorial administration ministry chairs and whose civil status modernisation directorate reports on it.", "as_of": "2025", "date_precision": "year", "system": "mise en réseau des centres principaux d'état civil", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The national civil status strategy (SNEC) runs 2023-2027 and counts the networking of principal civil status centres among its 2025 results, with a stated aim of a fully digitised civil status system by 2027; its 2025 action plan was 54.03% financed and 45.55% physically executed, by the ministry's account.", "as_of": "2025", "date_precision": "year", "system": "mise en réseau des centres principaux d'état civil", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The 2025 annual results validated on 25 June 2026 report 78 principal civil status centres networked and the civil status declaration software deployed in 30 principal and 140 secondary centres, while the ministry names insufficient financing and too few qualified staff as brakes.", "as_of": "2025", "date_precision": "year", "system": "mise en réseau des centres principaux d'état civil", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "mise en réseau des centres principaux d'état civil", "country_label": "mise en réseau de 78 centres principaux d'état civil", "class": "connection", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Mobilité, under the national civil status strategy (SNEC 2023-2027)", "tiers": "78 principal civil status centres, as at the end of 2025"},
+    {"system": "VENEEM", "country_label": "solution informatique « VENEEM »", "class": "application", "platform": "", "owner": "Direction générale de la modernisation de l'état civil, Ministère de l'Administration territoriale et de la Mobilité", "tiers": "30 principal and 140 secondary civil status centres; 3,710,617 civil status records digitised in 30 communes, by the end of 2025"}
+  ],
+  "note": ""
+}

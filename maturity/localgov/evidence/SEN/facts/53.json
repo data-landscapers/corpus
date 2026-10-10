@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-04-lesoleil-starlink-5000-kits",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Communication, Telecommunications and Digital Affairs says the government negotiated the purchase of 5,000 Starlink kits at a preferential price under the New Deal Technologique, to connect one million Senegalese free in the first half of 2026, and names collectivités territoriales among the priority targets beside white zones, education, border zones and the Casamance plan; no count of local governments is given.", "as_of": "2026-02-04", "date_precision": "day", "system": "kits Starlink négociés par l'État (New Deal Technologique)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The 5,000 Starlink kits whose priority targets include collectivités territoriales were negotiated and are to be acquired by the Government of Senegal, per the Ministry of Communication, Telecommunications and Digital Affairs on 4 February 2026; the budget line is not stated.", "as_of": "2026-02-04", "date_precision": "day", "system": "kits Starlink négociés par l'État (New Deal Technologique)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The ministry's statement of 4 February 2026 names collectivités territoriales as a priority target of the 5,000 state-negotiated Starlink kits and gives no number of local governments to be connected; the date is the article's publication date.", "as_of": "2026-02-04", "date_precision": "day", "system": "kits Starlink négociés par l'État (New Deal Technologique)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "kits Starlink négociés par l'État (New Deal Technologique)", "country_label": "kits Starlink", "class": "connection", "platform": "Starlink", "owner": "Government of Senegal, through the Ministry of Communication, Telecommunications and Digital Affairs", "tiers": "5,000 kits; priority targets: white zones through community Wi-Fi, education, higher education and vocational training, collectivités territoriales, border zones, and programmes such as the Plan Diomaye for Casamance"}
+  ],
+  "note": "The statement is undated beyond the article, so its publication date is used. The kits also serve community Wi-Fi and schools, which are other classes; the facts taken concern only the stated target of collectivités territoriales."
+}

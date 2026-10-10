@@ -1,0 +1,46 @@
+{
+  "slug": "2022-06-01-dza-rna-guide-procedures-adressage",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The interior ministry's addressing guide says a web GIS, the 'Plateforme du RNA', was deployed first in the five pilot communes of Oran wilaya, where commune addressing cells enter and update address data in the national platform, each user seeing only their own commune, wilaya or national zone; no deployment date is given beyond the framework convention in force from March 2021, so the guide's own date is used.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Plateforme du RNA",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "pilot",
+      "fact": "The interior ministry's guide says the RNA web platform was deployed 'in a first phase' in five pilot communes of Oran wilaya, as the experimental phase of the national address register under the convention of March 2021; it gives no national total and no later count, and the guide's own date is used.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Plateforme du RNA",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The guide says the RNA platform that communes work in was developed by engineers of the state space agency's Centre des Techniques Spatiales on open-source tools, under a framework convention signed by the interior ministry, the defence ministry and the space agency and in force from March 2021.",
+      "as_of": "2021-03",
+      "date_precision": "month",
+      "system": "Plateforme du RNA",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plateforme du RNA",
+      "country_label": "Plateforme du RNA (Référentiel National d'Adressage)",
+      "class": "application",
+      "platform": "Web GIS built on open-source tools: Python and JavaScript application server, Node.js proxy, PostgreSQL, GeoServer",
+      "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire; developed by CTS/ASAL",
+      "tiers": "Five pilot communes of Oran wilaya first; users at commune, wilaya and national level"
+    }
+  ],
+  "note": "The guide never says in terms that a commune office is connected: the three facts rest on communes working in the national web platform (study ruling 4), and nothing is stated on how the offices are connected or who pays."
+}

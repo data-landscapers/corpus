@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-04-civ-padci-phase-1-ratification",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The Council of Ministers of 4 February 2026 adopted a decree ratifying an IDA loan of 84,356,070,200 FCFA, concluded on 17 October 2025, to finance phase 1 of PADCI, which is to extend broadband connectivity to public structures including town halls (mairies) and sub-prefectures.", "as_of": "2026-02-04", "date_precision": "day", "system": "Projet d'accélération digitale en Côte d'Ivoire (PADCI) phase 1", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The government's communiqué presents PADCI phase 1 as the state's own project, financed by a loan the Republic of Côte d'Ivoire concluded with IDA on 17 October 2025 and ratified by decree on 4 February 2026.", "as_of": "2026-02-04", "date_precision": "day", "system": "Projet d'accélération digitale en Côte d'Ivoire (PADCI) phase 1", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The government spokesman said on 4 February 2026 that PADCI phase 1, a financed project of 84.36 billion FCFA, will in time extend broadband connectivity to public structures, naming town halls (mairies) among schools, health centres, social centres, sub-prefectures, tribunals, post offices and regional directorates.", "as_of": "2026-02-04", "date_precision": "day", "system": "Projet d'accélération digitale en Côte d'Ivoire (PADCI) phase 1", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "On 4 February 2026 the Council of Ministers ratified by decree the IDA loan of 84,356,070,200 FCFA for PADCI phase 1, whose connectivity is to reach town halls among other public structures; the communiqué states the connection as a future result, not as made.", "as_of": "2026-02-04", "date_precision": "day", "system": "Projet d'accélération digitale en Côte d'Ivoire (PADCI) phase 1", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Projet d'accélération digitale en Côte d'Ivoire (PADCI) phase 1", "country_label": "PADCI", "class": "connection", "platform": "", "owner": "the government of Côte d'Ivoire, financed by an IDA loan", "tiers": "Planned: schools, health centres, social centres, town halls (mairies), sub-prefectures, tribunals, post offices and regional directorates; no count of town halls given"}
+  ],
+  "note": ""
+}

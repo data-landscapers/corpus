@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-09-treasury-mzansixchange-pilot-launch-speech",
+  "facts": [],
+  "systems": [
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "central", "platform": "X-Road", "owner": "National Treasury, with the Presidency and the Department of Communications and Digital Technologies; technical team led by Open Cities Lab; funded by SECO, UK FCDO and the Gates Foundation", "tiers": "national departments and agencies in a one-year pilot from October 2025; no municipality among the eleven named participants"},
+    {"system": "National Treasury Secure Data Facility, with Spatial Economic Activity Data South Africa", "country_label": "NT-SDF; SEAD-SA", "class": "central", "platform": "", "owner": "National Treasury", "tiers": "national; its spatialised tax data is said to give provinces and municipalities economic insights for local planning"},
+    {"system": "MyMzansi", "country_label": "MyMzansi", "class": "central", "platform": "", "owner": "national government", "tiers": "national; planned single digital entry point for government services"}
+  ],
+  "note": "A speech launching a national data exchange pilot; municipalities appear only as users of Treasury's spatial tax data. Nothing on any municipal office's connection."
+}

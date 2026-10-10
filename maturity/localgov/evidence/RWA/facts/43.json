@@ -1,0 +1,17 @@
+{
+  "slug": "2025-11-07-rwanda-digital-acceleration-project-aide-memoire-nov-2025",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The World Bank mission of 27 October to 7 November 2025 reports that the building permit system Kubaka, launched in April 2025, has issued more than 17,000 permits and that generative AI at City and District One Stop Centers cuts permit processing time and effort by 80 per cent for their engineers.", "as_of": "2025-11-07", "date_precision": "day", "system": "Building permit management system (BPMIS), Kubaka", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "One Government Network (OGN)", "country_label": "One Government Network", "class": "backbone", "platform": "", "owner": "RISA, with a new Network Operations Center", "tiers": "3,054 public sites connected of a revised target of 5,000, mostly schools and hospitals; domestic capacity for 5,000 offices to be distributed by May 2026; no local government office named"},
+    {"system": "Ubuntu Network", "country_label": "Ubuntu Network", "class": "backbone", "platform": "", "owner": "", "tiers": "education network, upgraded"},
+    {"system": "Building permit management system (BPMIS), Kubaka", "country_label": "Kubaka", "class": "application", "platform": "", "owner": "", "tiers": "City and District One Stop Centers"},
+    {"system": "Irembo 3.0", "country_label": "Irembo", "class": "web", "platform": "low-code/no-code platform", "owner": "Irembo", "tiers": "central e-services portal, national"},
+    {"system": "Civil records digitalisation", "country_label": "", "class": "application", "platform": "", "owner": "NIDA", "tiers": "7.2 million records scanned and 900,000 indexed across 287 of 418 sectors"},
+    {"system": "Single Digital ID (SDID) system", "country_label": "SDID", "class": "central", "platform": "", "owner": "NIDA", "tiers": "enrolment began 28 October 2025 in Gisagara, Huye and Nyanza"},
+    {"system": "Government email system", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "upgraded in two phases; users not stated"},
+    {"system": "Digital Ambassadors Program Learning and Management Information System", "country_label": "", "class": "public-access", "platform": "", "owner": "RISA", "tiers": "1,052 active ambassadors"}
+  ],
+  "note": "The mission reports the government network's public sites as mostly schools and hospitals and names no local government office among them; the one fact is district staff working in the national permit system."
+}

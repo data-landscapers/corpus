@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "ARPCE Data Center Brazzaville (2021)", "country_label": "", "class": "backbone", "platform": "", "owner": "ARPCE, state-owned", "tiers": "Brazzaville; government ministries and public sector entities; no local government office named"},
+    {"system": "ARPCE Data Center Pointe-Noire (2Africa)", "country_label": "", "class": "backbone", "platform": "", "owner": "ARPCE, state-owned", "tiers": "Pointe-Noire, operational 2024; government, ARPCE and the 2Africa consortium; no local government office named"},
+    {"system": "Congo National Data Center Brazzaville (AfDB/CAB)", "country_label": "", "class": "backbone", "platform": "", "owner": "Government of the Republic of Congo, with African Development Bank funding; delegated manager to be appointed", "tiers": "Brazzaville, under construction; government ministries, telecom operators, banks and insurers; no local government office named"}
+  ],
+  "note": "A compiled register of data centres, by its own header AI-compiled; its Congo rows list government data centres and say nothing of local government offices."
+}

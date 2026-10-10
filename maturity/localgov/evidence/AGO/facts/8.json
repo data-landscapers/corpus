@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-14-ago-angop-huambo-igca-janela-unica-cadastro-fundiario",
+  "facts": [],
+  "systems": [
+    {"system": "Janela Única de Concessão de Direitos Fundiários", "country_label": "Janela Única de Concessão de Direitos Fundiários", "class": "application", "platform": "", "owner": "Instituto Geográfico e Cadastral de Angola (IGCA)", "tiers": "municipal administrations instruct land-concession cases; staff of Huambo's 17 municipal administrations trained in September 2026"},
+    {"system": "SAGIT", "country_label": "SAGIT", "class": "application", "platform": "", "owner": "", "tiers": "used to analyse the cadastre; a training topic for Huambo's municipal administrations"},
+    {"system": "cadastros municipais", "country_label": "cadastros municipais", "class": "application", "platform": "geographic information systems", "owner": "municipal administrations", "tiers": "municipal; being modernised"}
+  ],
+  "note": "A training seminar on land-concession procedure and cadastre tools for municipal staff; it states nothing about a connection at the municipal offices or about staff working online."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-12-agetic-plan-passation-marches-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau intranet de l'Administration (2026 plan line of FCFA 70 million for radio base stations, client antennas and a generator to reinforce it; further lines for site interconnection works and technical rooms in the regions)", "country_label": "réseau intranet de l'Administration", "class": "backbone", "platform": "", "owner": "AGETIC", "tiers": "not stated; technical rooms in the regions"},
+    {"system": "Messagerie gouvernementale and collaborative tools (2026 licence renewal, FCFA 240 million)", "country_label": "messagerie gouvernementale", "class": "", "platform": "", "owner": "AGETIC", "tiers": ""}
+  ],
+  "note": "The national ICT agency's 2026 procurement plan, 72 lines; it funds the administration's intranet and government messaging and names no local government office as connected or served."
+}

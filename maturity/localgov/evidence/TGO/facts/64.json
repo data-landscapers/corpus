@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-kfw-tgo-001-e-governance-fur-effiziente-finanzverwaltung-ii-efficient",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "KfW's IATI record shows a EUR 15,000,000 grant (US$16.35 million), committed in 2025 for 2025-2028 with nothing yet disbursed, that finances extension of the fibre network and the connection of public institutions, named as town halls, hospitals and schools, to it.", "as_of": "2025", "date_precision": "year", "system": "E-Governance für effiziente Finanzverwaltung II: fibre network and connection of town halls", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "E-Governance für effiziente Finanzverwaltung II: fibre network and connection of town halls", "country_label": "Efficient financial management and decentralization (e-Governance) Phase II", "class": "connection", "platform": "fibre network", "owner": "KfW Development Bank (financier); recipient unspecified in the record", "tiers": "town halls, hospitals and schools"},
+    {"system": "E-Governance II: capacity and equipment of the target town halls", "country_label": "Efficient financial management and decentralization (e-Governance) Phase II", "class": "equipment", "platform": "", "owner": "KfW Development Bank (financier)", "tiers": "target town halls"}
+  ],
+  "note": ""
+}

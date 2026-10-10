@@ -1,0 +1,12 @@
+{
+  "slug": "2024-06-01-drc-reform-matrix",
+  "facts": [],
+  "systems": [
+    {"system": "REDOFIE", "country_label": "network for exchanging state financial data (REDOFIE)", "class": "central", "platform": "dedicated network, 12 km in Kinshasa, 6 km in Matadi and 9 km in Lubumbashi", "owner": "the state's financial administrations (Ministry of Finance)", "tiers": "Kinshasa; Matadi, connecting the provincial directorates of the financial administrations; Lubumbashi, for 10 operational services of the financial administrations and national ministries; as of mid-2024"},
+    {"system": "LOGIRAD", "country_label": "LOGIRAD non-tax revenue management software", "class": "central", "platform": "LOGIRAD", "owner": "DGRAD (national non-tax revenue administration)", "tiers": "11 provinces for six main tax services since 2022; users in a second group of 6 provinces in training from March 2024, to switch in early January 2025 after computer and energy kits are acquired"},
+    {"system": "Government intranet", "country_label": "Government intranet", "class": "backbone", "platform": "", "owner": "Government of DR Congo, under the digital governance framework for the State's IT systems", "tiers": "listed with a national data centre and cloud as tools to create; 'in progress' in June 2024; no local government office named"},
+    {"system": "Single Window for the issuance of building permits", "country_label": "Single Window for the issuance of building permits", "class": "", "platform": "", "owner": "not stated", "tiers": "described as an operational institution; who runs it and where is not stated"},
+    {"system": "ISYS-REGIES", "country_label": "ISYS-REGIES", "class": "central", "platform": "", "owner": "the financial administrations (régies financières)", "tiers": "107 customs offices"}
+  ],
+  "note": "A World Bank matrix of national reforms (June 2024, published date as the document gives none finer): revenue software and a financial-data network in the provincial directorates of national financial administrations, and a government intranet 'in progress'. All are the centre's own offices or planned national infrastructure; no local government office is named."
+}

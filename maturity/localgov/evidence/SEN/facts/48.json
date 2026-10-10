@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "computerised civil registry centres", "country_label": "", "class": "application", "platform": "", "owner": "", "tiers": "the compilation's Senegal registry row gives more than 100 centres computerised of 587, with local servers for data entry and backup, and paper as the default at rural registry offices; undated in the passage"}
+  ],
+  "note": "An AI-assisted compilation by its own header, and listed in study.json's exclude_sources. Its Senegal rows cover clinics, schools, police and registry offices and state nothing on the connection of local government offices."
+}

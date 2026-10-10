@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-23-springer-teevan-evolution-digital-global-gateway",
+  "facts": [],
+  "systems": [
+    {"system": "regional fibre-optic backbone (EU Global Gateway)", "country_label": "", "class": "backbone", "platform": "", "owner": "EU Global Gateway", "tiers": "planned 10,000 km across Central and Southern African countries including Mozambique; no local government office named"}
+  ],
+  "note": "A chapter on the EU Global Gateway; Mozambique appears once, in a planned 10,000 km regional fibre backbone. Nothing on local government offices in Mozambique."
+}

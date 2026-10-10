@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-sajim-manjeese-ict-governance-sadc-egov",
+  "facts": [],
+  "systems": [
+    {"system": "Corporate Governance of ICT Policy Framework", "country_label": "CGICTPF", "class": "capacity", "platform": "adapted from COBIT", "owner": "South African government", "tiers": "national, provincial and local; the review reports fragmented accountability and inadequate ICT expertise where it is applied in small, under-resourced municipalities"}
+  ],
+  "note": "A literature review of ICT governance across SADC. For South Africa it speaks of municipal ICT governance capacity only; the GovNet it names is Mozambique's. Nothing on municipal offices' connection."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-02-zaf-citizen-tshwane-data-platform-csir",
+  "facts": [],
+  "systems": [
+    {"system": "Enterprise Data and Analytics Platform", "country_label": "Enterprise Data and Analytics Platform", "class": "application", "platform": "", "owner": "City of Tshwane, with the CSIR", "tiers": "City of Tshwane as pilot municipality; to be extended across its seven regions by June 2028; ward councillors to reach it on their mobile phones"},
+    {"system": "Service Delivery War Room", "country_label": "Service Delivery War Room", "class": "application", "platform": "", "owner": "City of Tshwane", "tiers": "City of Tshwane"},
+    {"system": "Open Data Portal", "country_label": "Open Data Portal", "class": "web", "platform": "", "owner": "City of Tshwane", "tiers": "City of Tshwane"}
+  ],
+  "note": "A municipal data platform, an application; the document states nothing about how the city's offices are connected."
+}

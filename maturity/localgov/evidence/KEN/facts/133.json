@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-12-treasury-shifts-salary-pension-payments-to-new-online-system",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Personnel Payroll Database (IPPD)", "country_label": "IPPD", "class": "application", "platform": "", "owner": "National Treasury", "tiers": "payroll of government officials, extended to pensioners from the end of August 2025; no county use stated"}
+  ],
+  "note": "A national payroll system extended to pensioners; county governments are named only in a figure on recurrent spending. Nothing on the connection of county offices."
+}

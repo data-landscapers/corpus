@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "AOS Ltd National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "AOS Ltd, a joint venture of KT (South Korea) and the Government of Rwanda", "tiers": "Kigali; customers listed as government ministries, the Rwanda Public Procurement Authority and the Kigali City surveillance system"},
+    {"system": "Kigali City surveillance system", "country_label": "", "class": "city-systems", "platform": "", "owner": "", "tiers": "City of Kigali; named only as a customer of the national data centre"}
+  ],
+  "note": "Rows of a data centre ownership register, its header calling it AI-compiled working analysis; no local government office is said to be connected to any facility."
+}

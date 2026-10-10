@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-17-morocco-world-bank-ennajaa-isr-interoperability",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The World Bank's status report of August 2025 says, on its latest mission's findings and before verification, that the Integrated Revenue Management System for Local Authorities (GIR-CT) is operational at national level and interfaced with local systems in more than 100 large municipalities, which manage the whole local taxation chain in it; the report does not say where the system is held or how the municipalities reach it.", "as_of": "2025-08-06", "date_precision": "day", "system": "GIR-CT (Integrated Revenue Management System for Local Authorities)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:100", "fact": "The World Bank reports GIR-CT operational in 'more than 100 large municipalities' as of August 2025, against a target of at least 100, a result not yet verified; it gives no total of municipalities.", "as_of": "2025-08-06", "date_precision": "day", "system": "GIR-CT (Integrated Revenue Management System for Local Authorities)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "GIR-CT", "country_label": "Integrated Revenue Management System for Local Authorities (GIR-CT)", "class": "application", "platform": "", "owner": "Trésorerie Générale du Royaume, Ministry of Finance (named beside it; ownership not stated outright)", "tiers": "more than 100 large municipalities; extension to the regional project-execution agencies (AREPs) not achieved"},
+    {"system": "GID", "country_label": "GID accounting and budget management information system", "class": "application", "platform": "", "owner": "Trésorerie Générale du Royaume", "tiers": "real-time access to its reporting for the DGCT, large municipalities and regions not achieved as of August 2025"},
+    {"system": "Regional Development Plan (PDR) monitoring platform", "country_label": "plateforme de suivi des PDR", "class": "upper-tier", "platform": "", "owner": "Ministry of Interior (DGCT)", "tiers": "regions; in place and functional but not yet used by the regions"},
+    {"system": "Electronic declaration and payment system for municipal taxes", "country_label": "", "class": "web", "platform": "", "owner": "", "tiers": "municipal taxes; reported in place"}
+  ],
+  "note": "The two facts rest on the study's rule that working in a national system states a connection; the document itself names no network or connection at any municipal office, and the parent should weigh that."
+}

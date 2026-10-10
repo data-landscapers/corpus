@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "NITA-U National Data Centre (Kampala)", "country_label": "NITA-U National Data Centre", "class": "backbone", "platform": "", "owner": "National Information Technology Authority - Uganda (NITA-U), Government of Uganda", "tiers": "Kampala, operational since 2015; serves government ministries, departments and agencies, with World Bank UDAP-GovNet named as financing; no local government named"},
+    {"system": "NITA-U Jinja Data Centre", "country_label": "NITA-U Jinja Data Centre", "class": "backbone", "platform": "", "owner": "National Information Technology Authority - Uganda (NITA-U), Government of Uganda", "tiers": "Jinja, operational since 2019; serves government ministries, departments and agencies; no local government named"}
+  ],
+  "note": "Register rows of Uganda's data centres, by the publisher's own header an AI-compiled working analysis; the two government data centres are backbone, and no local government office is said to use them."
+}

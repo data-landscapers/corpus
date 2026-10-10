@@ -1,0 +1,26 @@
+{
+  "slug": "2025-02-18-gec-courriers-administration",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The digital ministry's communications officer told La Nation that the electronic mail-management platform (Gec) had been deployed in several communes, naming Porto-Novo, Cotonou and Parakou with no count, and that unreliable internet connections and unsuitable equipment still hold it back; the article does not say whether the offices using it are the communes' own or how they are connected, and gives no date, so the publication date is used.",
+      "as_of": "2025-02-18",
+      "date_precision": "day",
+      "system": "Connection used for the Gec platform in the communes",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Gestion électronique des courriers (Gec)",
+      "country_label": "plateforme de gestion électronique des courriers (Gec)",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministère du Numérique et de la Digitalisation",
+      "tiers": "public administration; deployed in several communes such as Porto-Novo, Cotonou and Parakou"
+    }
+  ],
+  "note": "The one fact rests on an ambiguous sentence: 'deployed in several communes' may mean state offices located there rather than the town halls."
+}

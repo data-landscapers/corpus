@@ -1,0 +1,39 @@
+{
+  "slug": "2023-10-03-uasf-connectivity-programmes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Backbone Network project (alternative route via MOTRACO powerline fibre)",
+      "country_label": "Backbone Network",
+      "class": "backbone",
+      "platform": "fibre over the MOTRACO powerline to Maputo, onward to the undersea cable at Cape Town",
+      "owner": "Universal Access and Service Fund (UASF) with EPTC, the national backbone operator",
+      "tiers": "national; no local government office named"
+    },
+    {
+      "system": "Government intranet / Government network",
+      "country_label": "Government intranet",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government of Eswatini",
+      "tiers": "many remote Ministry of Agriculture sites lack access, the Shiselweni region named; no local government office named"
+    },
+    {
+      "system": "UASF connectivity of remote veterinary sites to the Government network",
+      "country_label": "Agriculture connectivity project",
+      "class": "central",
+      "platform": "",
+      "owner": "UASF with the Ministry of Agriculture",
+      "tiers": "remote veterinary and agricultural sites in Rural Development Areas"
+    },
+    {
+      "system": "Eswatini Livestock Identification Traceability System (SLITS)",
+      "country_label": "SLITS",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of Agriculture",
+      "tiers": "ministry sites on the Government intranet"
+    }
+  ],
+  "note": "The UASF's programme page, held as an excerpt truncated inside the Agriculture project. Its sub-heading lists 'Tinkhundla' beside Agriculture, DTT Network and Health as connectivity projects, but the Tinkhundla, eGovernment and Public Wi-Fi descriptions were not captured, so the document as held states nothing about Tinkhundla offices. The parent may want the full page."
+}

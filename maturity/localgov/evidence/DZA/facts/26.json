@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-01-social-cartography-national-services-portal-elmoudjahid",
+  "facts": [],
+  "systems": [
+    {"system": "Dzair Digital Services", "country_label": "Portail national des services numériques", "class": "web", "platform": "", "owner": "Haut-commissariat à la numérisation", "tiers": "national; unifies access to public digital services and exchanges between administrations"},
+    {"system": "Carte sociale nationale", "country_label": "cartographie sociale / carte sociale nationale", "class": "", "platform": "", "owner": "Haut-commissariat à la numérisation; supervised by the Prime Minister and the solidarity ministry", "tiers": "to cover the needs of all communes; ordered to be drawn up before the next 'rentrée sociale'"}
+  ],
+  "note": "The national portal's entry into service and an order for a national social map covering every commune's needs; communes are its subject, not its users, and nothing is said of their offices."
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "COMESA's half-year report states that Component 1 (USD 36 million) of the USD 65 million Digital Eswatini Project (P508948) supports expansion of the national broadband backbone to connect schools, health centres and Tinkhundla centres; in January-June 2026 the project was in preparation only, with the infrastructure assessment begun and no centre reported connected.",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Digital Eswatini Project, Component 1: backbone expansion to connect Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Digital Eswatini Project that is to connect Tinkhundla centres is financed by a World Bank IBRD loan and IDA credit of USD 65 million, approved in June 2026, with a USD 2 million World Bank preparation grant closing December 2026, per COMESA's half-year report; no domestic budget line is stated.",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Digital Eswatini Project, Component 1: backbone expansion to connect Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Digital Eswatini Project is implemented by the Ministry of Information, Communications and Technology, whose six-specialist Project Implementation Unit became operational on 1 January 2026, per COMESA's half-year report.",
+      "as_of": "2026-01-01",
+      "date_precision": "day",
+      "system": "Digital Eswatini Project, Component 1: backbone expansion to connect Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "World Bank grant negotiations for the Digital Eswatini Project concluded on 18 May 2026 and the loan was approved in June 2026; the project, which is to connect Tinkhundla centres among other sites, had not reached loan effectiveness and full implementation was expected in 2027, per COMESA's half-year report.",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Digital Eswatini Project, Component 1: backbone expansion to connect Tinkhundla centres",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "none",
+      "fact": "COMESA's report for January-June 2026 gives no Tinkhundla centre or other local office as connected under the Digital Eswatini Project: Eswatini 'focused on project preparation', and the assessment mapping the national backbone was still to be finalised in the third quarter of 2026.",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Digital Eswatini Project, Component 1: backbone expansion to connect Tinkhundla centres",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Eswatini Project, Component 1: backbone expansion to connect Tinkhundla centres",
+      "country_label": "Affordable Broadband (Component 1 of the Digital Eswatini Project)",
+      "class": "connection",
+      "platform": "national broadband backbone (EPTC)",
+      "owner": "Ministry of ICT; World Bank financed",
+      "tiers": "schools, health centres and Tinkhundla centres; none yet connected"
+    },
+    {
+      "system": "EPTC national backbone network",
+      "country_label": "national backbone network",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Eswatini Posts and Telecommunications Corporation (EPTC)",
+      "tiers": "national; under an infrastructure assessment in 2026"
+    },
+    {
+      "system": "RSTP Data Centre",
+      "country_label": "RSTP Data Centre",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Royal Science and Technology Park (RSTP)",
+      "tiers": "not stated; under a service delivery model assessment due July 2026"
+    },
+    {
+      "system": "Government in Your Hand (Component 2)",
+      "country_label": "Government in Your Hand",
+      "class": "central",
+      "platform": "digital public infrastructure: digital ID, e-payment gateway, over 50 priority services",
+      "owner": "Ministry of ICT",
+      "tiers": "ministries of Health, Education, Home Affairs, Tinkhundla Administration and Development, and MICT, as institutions under readiness assessment"
+    },
+    {
+      "system": "Integrated Financial Management System (IFMS)",
+      "country_label": "IFMS",
+      "class": "central",
+      "platform": "",
+      "owner": "Government of Eswatini",
+      "tiers": "in a restricted pilot phase"
+    }
+  ],
+  "note": "The connection facts rest on Tinkhundla centres, which the document names as sites to be connected; it does not say whether they are local government offices, and names no town or municipal council. The parent decides whether Tinkhundla centres are the basic tier."
+}

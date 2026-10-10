@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-cnuced-mauritanie-evaluation-preparation-commerce-electronique-paiements",
+  "facts": [],
+  "systems": [
+    {"system": "réseau de fibre optique existant", "country_label": "réseau de fibre optique", "class": "backbone", "platform": "", "owner": "", "tiers": "does not cover all communes and localities"}
+  ],
+  "note": "E-commerce readiness assessment; its only statement on communes is that the existing fibre network does not cover all of them, with no commune office said to be connected."
+}

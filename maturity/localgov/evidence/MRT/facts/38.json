@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-01-dgat-interieur-bilan-premier-semestre-2026-interconnexion-biometrique-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric databases interconnected with the civil status system", "country_label": "bases de données biométriques; système d'état civil", "class": "central", "platform": "", "owner": "Ministry of the Interior, Promotion of Decentralisation and Local Development", "tiers": "national; interconnected in the first half of 2026 for border control and services"},
+    {"system": "Road traffic command and control centre", "country_label": "centre de commandement et de contrôle de la circulation routière", "class": "city-systems", "platform": "", "owner": "Ministry of the Interior (national security forces)", "tiers": "113 surveillance sites equipped in the wilayas of Nouakchott and Nouadhibou"}
+  ],
+  "note": "The interior ministry's first-half 2026 report: its decentralisation section gives tenders for cleaning equipment for 228 communes, a rise in the regional development fund, partnerships and training, and states nothing about ICT or a connection at commune offices."
+}

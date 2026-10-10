@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-01-caf-digitalisation-de-letat-civil-lexperience-du-burkina-faso-de-la-centra",
+  "facts": [],
+  "systems": [
+    {"system": "SIFEC (Système d'intégration des faits d'état civil)", "country_label": "SIFEC", "class": "application", "platform": "", "owner": "the Congolese authorities, as presented by Congo's delegate at the Abidjan symposium", "tiers": "all civil-status services; in December 2024 not yet deployed, awaiting a new civil-status law, with digitisation promised by 2026"}
+  ],
+  "note": "Abidjan civil-status symposium, 10-12 December 2024: for Congo it reports only the planned SIFEC civil-status application; the 'communes' hit is Burkina Faso's. Nothing on the connection of local government offices."
+}

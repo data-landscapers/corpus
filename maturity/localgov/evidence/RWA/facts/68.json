@@ -1,0 +1,58 @@
+{
+  "slug": "2023-12-01-rwanda-crvs-standard-operating-procedures",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "NIDA's procedures of December 2023 state that cell executive secretaries enter community births and deaths into the national centralised civil registration system (NCI-CRVS), that sector civil registrars record, verify and digitally sign marriages and the other events in it, and that all civil registers have existed only in electronic form since 17 February 2023; registration points number 3,220 across health facilities and cell and sector offices, against 416 sector sites before 2020.",
+      "as_of": "2023-12",
+      "date_precision": "month",
+      "system": "administrative offices at cell and sector level working in the NCI-CRVS",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Centralised and Integrated Civil Registration and Vital Statistics system",
+      "country_label": "NCI-CRVS",
+      "class": "application",
+      "platform": "",
+      "owner": "National Identification Agency (NIDA), under the Ministry of Local Government's supervision of civil status",
+      "tiers": "cell offices, sector offices, district supervision, health facilities and embassies"
+    },
+    {
+      "system": "IremboGov",
+      "country_label": "IremboGov platform",
+      "class": "application",
+      "platform": "IremboGov; USSD *909#",
+      "owner": "",
+      "tiers": "citizens apply and pay for civil status copies; the local civil registrar reviews and approves the application"
+    },
+    {
+      "system": "Electronic Document Management System",
+      "country_label": "EDMS",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "holds the civil status records created by the NCI-CRVS"
+    },
+    {
+      "system": "ODK central system for verbal autopsy",
+      "country_label": "ODK central system",
+      "class": "application",
+      "platform": "Open Data Kit",
+      "owner": "",
+      "tiers": "cell civil registrars, for deaths in the community; linked to the NCI-CRVS"
+    },
+    {
+      "system": "National Population Registry",
+      "country_label": "NPR",
+      "class": "application",
+      "platform": "",
+      "owner": "National Identification Agency (NIDA)",
+      "tiers": "national; civil registrars' entries are checked against it"
+    }
+  ],
+  "note": "The document does not say how cell and sector offices are connected, nor how many of them are; sectors and cells are sub-offices of the 30 districts."
+}

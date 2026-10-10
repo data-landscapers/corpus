@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-11-governo-cabo-verde-projeto-simple-municipios",
+  "facts": [],
+  "systems": [
+    {"system": "SIMple, an update of the Sistema de Informação Municipal (SIM)", "country_label": "Projeto SIMple / Sistema de Informação Municipal", "class": "application", "platform": "", "owner": "Government of Cabo Verde (Ministry of Territorial Cohesion), for the municipalities", "tiers": "municipalities; work presented at a workshop on 2025-11-11, with training of municipal staff programmed; the document gives no count of municipalities using it"}
+  ],
+  "note": "SIMple is a municipal management system (application class); the document does not say where it is held or how municipal offices reach it, so no connection is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Centre de Données National du Mali (CDN Mali), Bamako, listed as operational in 2026", "country_label": "Centre de Données National du Mali", "class": "backbone", "platform": "", "owner": "SMTD (Société Malienne de Transmission et de Diffusion) / Ministry of Communication", "tiers": "government ministries and partner agencies of the Alliance of Sahel States, as tenants"}
+  ],
+  "note": "A register of data centres; Mali's one row is the state data centre in Bamako, with ministries as tenants and no local government office said to be on it."
+}

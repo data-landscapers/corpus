@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "NITA National Data Centre", "country_label": "NITA National Data Centre", "class": "backbone", "platform": "", "owner": "National Information Technology Agency, Government of Ghana", "tiers": "Accra; users listed as government ministries, agencies, state-owned enterprises and internet providers, no local government office named"}
+  ],
+  "note": "A data centre ownership register, a compilation by its own header; the Ghana rows list facilities in Accra and Tema, with no local government office said to be on any of them."
+}

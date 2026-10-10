@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-ago-angop-rede-de-banda-larga-de-fibra-optica-ja",
+  "facts": [],
+  "systems": [
+    {"system": "rede de banda larga de fibra óptica", "country_label": "rede de banda larga de fibra óptica", "class": "backbone", "platform": "DWDM equipment", "owner": "Angola Telecom, with Mercury as partner", "tiers": "first link inaugurated at Lobito on 16 September 2026, on the Luanda-Bengo-Cuanza Sul-Benguela route; meant to reach all 21 provinces; no local government office said to be on it"}
+  ],
+  "note": "The first backbone link; no local government office is said to be connected."
+}

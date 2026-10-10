@@ -1,0 +1,12 @@
+{
+  "slug": "2018-11-01-sle-national-digital-health-strategy-2018-2023",
+  "facts": [],
+  "systems": [
+    {"system": "District fibre mesh", "country_label": "fiber mesh at districts / national fibre backbone", "class": "backbone", "platform": "", "owner": "Ministry of Information and Communication", "tiers": "Deployed at districts as of November 2018; the plan is to extend it to 14 District Health Management Teams and 14 district hospitals. No council office is said to be on it"},
+    {"system": "Health Management Information System (HMIS)", "country_label": "HMIS", "class": "central", "platform": "DHIS2", "owner": "Ministry of Health and Sanitation", "tiers": "District M&E and surveillance officers of the District Health Management Teams and district hospitals enter data; national repository"},
+    {"system": "Integrated Human Resource Information System (iHRIS)", "country_label": "iHRIS", "class": "central", "platform": "iHRIS", "owner": "Ministry of Health and Sanitation, Human Resources Directorate", "tiers": "National; district human resource officers exist"},
+    {"system": "Logistics Management Information System (LMIS)", "country_label": "LMIS", "class": "central", "platform": "mSupply", "owner": "Ministry of Health and Sanitation", "tiers": "District Information Officers aggregate at district level and email aggregates to the central store in Freetown"},
+    {"system": "RapidPro", "country_label": "RapidPro", "class": "central", "platform": "RapidPro (SMS)", "owner": "", "tiers": "Health facilities; 94% of facilities reporting, on stakeholder interviews"}
+  ],
+  "note": "Health-sector strategy: district councils appear only in coordination problems with the ministry and District Health Management Teams (facility openings not approved across them) and as consulted bodies. Every office and connection it describes is the health ministry's (DHMTs, district hospitals, health units), not a council's."
+}

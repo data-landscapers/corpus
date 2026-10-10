@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Delta Data Centre (DDDC)", "country_label": "Digital Delta Data Centre", "class": "backbone", "platform": "", "owner": "Botswana Fibre Networks Ltd (BoFiNet), wholly owned by the Government of Botswana", "tiers": "Gaborone; customers given as the Government of Botswana, the financial sector and private enterprise; no local government office named"},
+    {"system": "Sentlhaga Data Center", "country_label": "Sentlhaga Data Center", "class": "backbone", "platform": "", "owner": "Botswana Telecommunications Corporation (BTC)", "tiers": "Gaborone; customers given as government agencies and enterprise clients; no local government office named"}
+  ],
+  "note": "The Botswana rows of a data-centre ownership register, which its own header calls an AI-compiled working analysis; they state nothing about a local government office's connection. The register's ownership entries for the Sentlhaga centre name the Bahamas and Liberty Latin America, which reads as an error in the source."
+}

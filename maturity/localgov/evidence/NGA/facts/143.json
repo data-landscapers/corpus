@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "State e-procurement systems under the SFTAS programme", "country_label": "e-procurement systems in the Nigerian States; SaaS electronic government procurement (eGP) suite", "class": "upper-tier", "platform": "software-as-a-service e-procurement suite from a single vendor under a three-year framework agreement led by the Kaduna State Public Procurement Authority", "owner": "state governments, supported by the World Bank's States Fiscal Transparency, Accountability and Sustainability programme", "tiers": "states: 16 of 36 had signed on to the framework agreement"}
+  ],
+  "note": "A World Bank index brief: for Nigeria it covers federal and state systems only (e-procurement, digital identity, state fiscal transparency); local government appears as a general future direction for all countries, with nothing on Nigerian local government offices or their connection."
+}

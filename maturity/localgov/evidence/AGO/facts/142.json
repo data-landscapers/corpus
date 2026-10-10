@@ -1,0 +1,10 @@
+{
+  "slug": "2024-10-25-world-bank-isr-p169779-strengthening-national-social-protection-system",
+  "facts": [],
+  "systems": [
+    {"system": "SIGAS", "country_label": "SIGAS", "class": "central", "platform": "", "owner": "Ministry of Social Action, Family and Promotion of Women (MASFAMU)", "tiers": "available in all 54 Social Action Centers (CASIs) in the country, which the document groups with MASFAMU offices as administrative units, as of 30 June 2024"},
+    {"system": "Kwenda program Management Information System", "country_label": "Kwenda MIS", "class": "central", "platform": "", "owner": "FAS Local Development Institute (FAS-IDL)", "tiers": "programme registry holding 1.6 million registered households at end-June 2024; no office tier stated"},
+    {"system": "CSU", "country_label": "CSU", "class": "", "platform": "", "owner": "", "tiers": "not operational as of 30 June 2024"}
+  ],
+  "note": "The systems named are a ministry's registry in its Social Action Centers and a cash-transfer programme's MIS; the document does not put a municipal administration's office on any connection, so no fact is recorded."
+}

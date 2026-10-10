@@ -1,0 +1,31 @@
+{
+  "slug": "2026-01-18-qarar-rais-majlis-al-wuzara-200-2026-lai7a-tanfidhiyya-qanun-168-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National regularisation system",
+      "country_label": "المنظومة الوطنية للتقنين",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "Applicants file regularisation requests and documents electronically on it (Article 6)"
+    },
+    {
+      "system": "Technology centres",
+      "country_label": "المراكز التكنولوجية",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "'In all governorates'; applications may also be filed through them (Article 6)"
+    },
+    {
+      "system": "State private land database of each competent administrative body",
+      "country_label": "قاعدة بيانات",
+      "class": "application",
+      "platform": "",
+      "owner": "Each competent administrative body: ministry, governorate, public authority or state agency",
+      "tiers": "Required of every body holding state private land, governorates included (Article 19); a requirement of the decree, not a reported deployment"
+    }
+  ],
+  "note": "Prime-ministerial decree of 18 January 2026: a legal instrument, which places nothing. It requires electronic filing and a land database but states nothing about the connection of local administration offices."
+}

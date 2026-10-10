@@ -1,0 +1,46 @@
+{
+  "slug": "2026-08-13-agd-disputes-ifmis-use-at-kmc-gambiana",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Accountant General's Department stated that Kanifing Municipal Council has been processing transactions through the national IFMIS, its administrators having generated the council's cashbooks, general ledger and commitment and expenditure reports updated to August 2026.",
+      "as_of": "2026-08",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS) at Kanifing Municipal Council",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "none",
+      "fact": "Kanifing Municipal Council's mayor, Talib Ahmed Bensouda, claimed on a radio programme that IFMIS had not functioned at the council for the past two years, as reported at second hand on 13 August 2026; the Accountant General's Department disputes it.",
+      "as_of": "2026-08-13",
+      "date_precision": "day",
+      "system": "Integrated Financial Management Information System (IFMIS) at Kanifing Municipal Council",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:1",
+      "fact": "The document names one local government, Kanifing Municipal Council, as processing transactions through IFMIS, on the Accountant General's Department's statement of August 2026; it gives no total of councils.",
+      "as_of": "2026-08",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS) at Kanifing Municipal Council",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Financial Management Information System",
+      "country_label": "IFMIS",
+      "class": "application",
+      "platform": "",
+      "owner": "Accountant General's Department",
+      "tiers": "Kanifing Municipal Council; ministries, departments and agencies"
+    }
+  ],
+  "note": "The document does not say how the council's office is connected; the mayor's claim is carried only at second hand."
+}

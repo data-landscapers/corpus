@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-02-dial-african-countries-foundational-dpi",
+  "facts": [],
+  "systems": [
+    {"system": "Irembo", "country_label": "Irembo", "class": "web", "platform": "", "owner": "", "tiers": "national citizen portal"}
+  ],
+  "note": "A write-up of a peer-learning session; for Rwanda it names the open-source strategy, the Irembo citizen portal and Mojaloop-based payments. The GovNet it names is Somalia's."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-mesob-national-id-one-stop-shop",
+  "facts": [],
+  "systems": [
+    {"system": "MESOB (Modern Ethiopian Service for Organised Benefits)", "country_label": "MESOB", "class": "central", "platform": "one-stop shop with the MESOB Bridge API Gateway for real-time data sharing between agencies", "owner": "federal government (page published by the National ID Program)", "tiers": "pilot: 12 federal institutions and 41 services at a single physical service centre; nationwide expansion envisaged"}
+  ],
+  "note": "A federal one-stop service centre in its pilot, joining federal agencies only: out of scope, and no local government office is mentioned. The page is undated; the published year is 2025."
+}

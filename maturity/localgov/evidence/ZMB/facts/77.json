@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-zmb-enhancing-death-registration-system-through-electronic-medical-records",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "INRIS", "class": "central", "platform": "", "owner": "Department of National Registration, Passport and Citizenship (DNRPC)", "tiers": "district registration offices and hospital mortuaries of the national registration department; 81 of 116 districts, e-death notification in 24 named districts"}
+  ],
+  "note": "Civil registration runs in the national department's district registration offices and in hospitals, not in council offices; local councils appear only as stakeholders to engage on burial-site deaths. No council office connection is stated."
+}

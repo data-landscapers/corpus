@@ -1,0 +1,8 @@
+{
+  "slug": "2023-04-24-togo-jo-decret-2023-043-registre-social-personnes-menages",
+  "facts": [],
+  "systems": [
+    {"system": "Registre social des personnes et des menages (RSPM)", "country_label": "Registre social des personnes et des menages (RSPM)", "class": "central", "platform": "", "owner": "Agence nationale d'identification (ANID)", "tiers": "National database held electronically by ANID; 'administrations', defined to include collectivites locales, may access its data for their aid programmes and may contribute to its updating, under conditions left to later regulation"}
+  ],
+  "note": "Official gazette issue carrying two decrees: one on submarine cable authorisations, one creating the social registry. Local governments appear only in the decree's definition of 'administration' and in a cited decree on the public domain. A legal text: it states a permission to access a national database, not that any local government office is connected or works in it."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-22-aib-koloko-formation-logiciel-veneem",
+  "facts": [],
+  "systems": [
+    {"system": "VENEEM", "country_label": "logiciel VENEEM (Solution nationale de déclaration systématique et d'enregistrement des faits d'état civil)", "class": "application", "platform": "", "owner": "Direction générale de la modernisation de l'état civil, whose IT staff gave the training", "tiers": "mairie of Koloko, where civil status agents were trained over two days, reported 22 June 2026"},
+    {"system": "equipment provided to the Koloko civil status agents", "country_label": "équipements mis à leur disposition", "class": "equipment", "platform": "", "owner": "", "tiers": "mairie of Koloko; the equipment is not described and no connection is stated"}
+  ],
+  "note": "No fact: the document reports training of the Koloko mairie's civil status agents on a national civil registration application and mentions equipment put at their disposal; it states no connection at the mairie."
+}

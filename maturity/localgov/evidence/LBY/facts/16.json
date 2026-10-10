@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration Authority single database", "country_label": "Civil Registration Authority (CRA)", "class": "central", "platform": "", "owner": "Civil Registration Authority", "tiers": "12 branches, 133 issuing offices and 400 service offices, said to be linked to a single database since at least 2020"}
+  ],
+  "note": "The Libya rows cover rural clinics, schools, police stations and the civil registry, all run by national bodies; nothing is stated on municipal offices or their connection. The source is on the study's exclusion list as an AI-assisted compilation."
+}

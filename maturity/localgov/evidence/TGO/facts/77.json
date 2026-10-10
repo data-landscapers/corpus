@@ -1,0 +1,11 @@
+{
+  "slug": "2023-02-20-togo-specifications-tic-administrations-acces-internet",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau gouvernemental E-Gouv", "country_label": "réseau E-Gouv", "class": "backbone", "platform": "fibre optic, about 300 km; IP/MPLS core moved from Huawei to Nokia by CSquared Woezon, 100 Gbit/s; GPON", "owner": "the State; core operated by CSquared Woezon, supervised from a network operations centre at the national data centre", "tiers": "more than 600 public administration buildings in the city of Lomé (teaching hospitals, health centres, over a third of public lycées, universities, all institutions of the Republic and all ministries), 100 Mb/s per building; no commune office named"},
+    {"system": "Togocom fibre backbone", "country_label": "", "class": "backbone", "platform": "fibre optic, about 1,500 km, 24 fibres per link", "owner": "Togocom", "tiers": "designed to reach all prefectures and about forty towns; SIM-based products offered to administrations in rural areas that cannot take fibre"},
+    {"system": "Moov Africa fibre backbone", "country_label": "", "class": "backbone", "platform": "fibre optic, about 800 km, 96 fibres", "owner": "Moov Africa", "tiers": "Lomé-Atakpamé-Cinkassé axis, about thirty towns"},
+    {"system": "Lomé Datacenter", "country_label": "centre de données national", "class": "backbone", "platform": "", "owner": "", "tiers": "connected to the E-Gouv core"}
+  ],
+  "note": "Government ICT specification page (prices valid at 20 February 2023): it describes operators' internet offers for administrations and the E-Gouv government network linking over 600 public buildings in Lomé, but names no commune or town hall as connected, so it gives no fact."
+}

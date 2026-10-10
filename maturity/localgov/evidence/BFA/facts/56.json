@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-01-bfa-annuaire-statistique-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Entrepôt de données sanitaires du Burkina Faso (Endos-BF)", "country_label": "Endos-BF", "class": "central", "platform": "", "owner": "Ministère de la Santé", "tiers": "health facilities, district health information centres and hospitals; a health-sector system, not a local government's"}
+  ],
+  "note": "No fact: the health ministry's statistical yearbook; local governments appear only as a row label in tables of health facilities by owner."
+}

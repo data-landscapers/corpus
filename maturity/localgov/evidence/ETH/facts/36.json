@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-28-school-registration-fayda-digital-id",
+  "facts": [],
+  "systems": [
+    {"system": "Addis Ababa civil registration and resident services, digitised", "country_label": "digitization of all services of the Addis Ababa Civil Registration and Resident Services Agency", "class": "application", "platform": "", "owner": "Addis Ababa Civil Registration and Resident Services Agency (city administration)", "tiers": "pilot phase in January 2025: 21 of the city's 116 woredas said by the agency's director general to be digitised"},
+    {"system": "Fayda digital ID", "country_label": "Fayda", "class": "central", "platform": "MOSIP", "owner": "National ID Program (NIDP)", "tiers": "national; 11.4 million holders at January 2025"},
+    {"system": "Kebele ID", "country_label": "Kebele ID", "class": "application", "platform": "", "owner": "kebele administrations", "tiers": "local identity document issued at kebele level, which Fayda is to complement"}
+  ],
+  "note": "The one local government statement is that 21 of Addis Ababa's 116 woredas have had civil registration and resident services 'digitized' in a pilot: an application in the capital city, with no connection of the woreda offices stated, so no fact is taken."
+}

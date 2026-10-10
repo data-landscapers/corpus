@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Registration System (NPRS)", "country_label": "NPRS", "class": "central", "platform": "", "owner": "Ministry of Home Affairs (civil registration)", "tiers": "62 decentralised registration centres including sub-regional offices, some said to lack full NPRS connectivity or have slow networks; 153 health facilities send e-birth and e-death notifications"}
+  ],
+  "note": "The Namibian rows describe rural clinics, schools, police stations and the home affairs ministry's civil registration offices, which are central field offices and not local authorities; nothing is stated about the connection of a local authority's office."
+}

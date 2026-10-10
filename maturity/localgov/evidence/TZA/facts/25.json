@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-21-digital-economy-systems-adoption-key-sectors",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The deputy minister for regional administration and local government said district councils process, disburse and collect repayment of the ten per cent special-group loans through the state-run WEZESHA system: TZS 230.66bn of TZS 253bn authorised was disbursed through it between July 2024 and December 2025, and TZS 100.27bn collected in repayments.", "as_of": "2025-12", "date_precision": "month", "system": "WEZESHA", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:174", "fact": "The deputy minister said 174 district councils were authorised to issue loans through the WEZESHA system between July 2024 and December 2025, after a pilot in 10 district councils; the document gives no total number of councils.", "as_of": "2025-12", "date_precision": "month", "system": "WEZESHA", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "WEZESHA", "country_label": "WEZESHA", "class": "application", "platform": "integrated with banks", "owner": "Prime Minister's Office - Regional Administration and Local Government (state-run)", "tiers": "174 district councils, after a pilot in 10; 736 district council loan managers trained"},
+    {"system": "758 communication towers and fibre optic connections across 85 districts", "country_label": "", "class": "backbone", "platform": "towers and fibre", "owner": "inaugurated by the President; owner not stated", "tiers": "85 districts as places; no local government office said to be on it"}
+  ],
+  "note": "The connection is stated only through councils working in a national system; the document does not say how council offices are connected or who pays. Other national systems named in passing (TANCIS, TIPS, TMX, NeST, BRELA Online Services) have no local government use stated and are not listed."
+}

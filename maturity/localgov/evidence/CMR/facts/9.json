@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-10-cameroon-cdhc-civil-registry-interoperability",
+  "facts": [],
+  "systems": [
+    {"system": "fichier national de l'état civil", "country_label": "fichier national de l'état civil", "class": "application", "platform": "", "owner": "BUNEC", "tiers": "not stated; the CDHC asks government to fund BUNEC and the communes to complete its digital coverage, under the 2025-2029 modernisation plan launched 11 September 2025"}
+  ],
+  "note": "A human rights commission statement on civil registration; it states nothing about the connection of commune offices."
+}

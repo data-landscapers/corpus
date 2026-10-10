@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-26-manual-de-procedimentos-das-reparticoes-fiscais-agt",
+  "facts": [],
+  "systems": [
+    {"system": "SIGT", "country_label": "Sistema Integrado de Gestão Tributária", "class": "central", "platform": "", "owner": "Administração Geral Tributária (AGT), Ministério das Finanças", "tiers": "tax offices (Repartições Fiscais) of the AGT"},
+    {"system": "Plataforma ECM", "country_label": "Enterprise Content Management", "class": "central", "platform": "", "owner": "Administração Geral Tributária (AGT)", "tiers": "tax offices (Repartições Fiscais) of the AGT, with Outlook or paper as fallback"}
+  ],
+  "note": "A procedures manual for the tax authority's own field offices, which are a national agency's offices and not local governments; the local administration appears only as issuer of a trading document. No connection of a local government office is stated."
+}

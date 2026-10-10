@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-zimbabwe-national-ict-policy-2022-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network", "country_label": "Government Wide Area Network", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe (Ministry of ICT, Postal and Courier Services)", "tiers": "to be developed and implemented under the smart government roll-out; smart government to be introduced in all MDAs; no local authority office named"},
+    {"system": "Smart Government Cloud", "country_label": "Smart Government Cloud", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "to be developed and implemented; no tier stated"},
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "a legal and regulatory framework to be enacted; no tier stated"},
+    {"system": "Public Finance Management System (PFMS)", "country_label": "PFMS", "class": "", "platform": "", "owner": "", "tiers": "listed among the abbreviations only, with no description"}
+  ],
+  "note": "The policy commits to a Government Wide Area Network and to promoting ICT adoption at all administrative levels of government, but names no connection of a local authority office; local authorities appear only under gender mainstreaming in ICT programmes."
+}

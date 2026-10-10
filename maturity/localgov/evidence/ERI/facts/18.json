@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-21-swiss-sem-focus-eritrea-digital-population-registers",
+  "facts": [],
+  "systems": [
+    {"system": "Digital population register of each zoba", "country_label": "register of residents (qutsri mezgeb nebari); its number is called the social security number", "class": "application", "platform": "", "owner": "zoba administrations; in Zoba Maekel the nus-zoba administrations maintain the database, in Gash-Barka and Northern Red Sea the zoba administration updates it", "tiers": "one in each of the six zobas since 2001; various authorities have access to Maekel's; kebabi administrations and the Department of Immigration and Nationality have no access"},
+    {"system": "Family register of the kebabi administration", "country_label": "family register", "class": "application", "platform": "", "owner": "kebabi administrations", "tiers": "kebabi; a transfer document carries the entry to the nus-zoba or zoba"}
+  ],
+  "note": "The excerpt describes population and civil registers, which are applications: it states that kebabi administrations have no access to the digital registers (2021) and that civil status offices are not yet established everywhere, but says nothing of any office's connection, so no fact is recorded."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2023-06-23-gambia-government-cloud-strategy-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Government Cloud", "country_label": "Government Cloud", "class": "backbone", "platform": "", "owner": "Ministry of Communications and Digital Economy (commissioned the strategy)", "tiers": "central government; no local government office said to be on it"},
+    {"system": "IFMIS", "country_label": "Integrated Financial Management Information System", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages' only local-government term is a footnote on the United Kingdom's Government Cloud serving bodies from local council to health authorities; nothing is stated about Gambian local government offices."
+}

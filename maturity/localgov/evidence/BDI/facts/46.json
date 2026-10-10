@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-18-burundi-crvs-transformation-journey",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The interior ministry's Director General for territorial administration states that many civil registration centres have no reliable internet connection for digital services and are poorly equipped with computers, giving no count; the presentation does not say whose offices the centres are.", "as_of": "2026-07-18", "date_precision": "day", "system": "internet connection of civil registration centres", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Civil registration digitalisation pilot", "country_label": "projet pilote de digitalisation de l'état civil", "class": "application", "platform": "a platform, with an interoperability module for INSBU and health facilities under development", "owner": "Ministry of Interior, Community Development and Public Security, with World Bank, UNICEF, UNECA and UNDP support", "tiers": "pilot in 12 communes; most acts still entered in paper registers and no single national database of civil status acts"},
+    {"system": "National digital identification system", "country_label": "futur système national d'identification numérique", "class": "central", "platform": "", "owner": "Government of Burundi", "tiers": "future; civil registration not yet fully interoperable with it"}
+  ],
+  "note": "The presentation gives the country's count of communes as 42 (with 5 provinces and 451 zones) under the new administrative organisation; its timeline lists years and events in separate columns, so the pilot's year is not safely readable."
+}

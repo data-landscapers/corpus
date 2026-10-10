@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-30-togo-decret-2025-018-bis-guford-guichet-unique-jo",
+  "facts": [],
+  "systems": [
+    {"system": "GUFORD", "country_label": "Guichet Unique des Formalités et de délivrance des Documents du commerce international (GUFORD)", "class": "central", "platform": "", "owner": "Port Autonome de Lomé", "tiers": "national electronic platform for port and maritime formalities at the port of Lomé"},
+    {"system": "Système national d'information foncière", "country_label": "système national d'information foncière", "class": "central", "platform": "", "owner": "Agence Nationale du Domaine et du Foncier (ANDF)", "tiers": "national agency, to be set up; its communal offices (Bureaux Communaux du Domaine et du Foncier) are branches of the agency, created progressively, and keep a paper register of property transfers"}
+  ],
+  "note": "A gazette issue of decrees: a port single window and a national land agency whose communal offices are the agency's own branches. Decrees only; nothing states that any commune's office is connected."
+}

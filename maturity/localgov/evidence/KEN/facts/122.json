@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-14-kenya-cra-county-revenue-automation-standards",
+  "facts": [],
+  "systems": [
+    {"system": "County Revenue Management Systems (CRMS)", "country_label": "CRMS", "class": "application", "platform": "not stated; each county's own platform, required to offer web, mobile and USSD channels and to interoperate with IFMIS, the Business Registration Service and the Integrated Population Registration System", "owner": "each county government, with the County Treasury as lead implementing agency and the County ICT Directorate for hosting, licensing and integration", "tiers": "county governments; the gazette of 27 July 2026 finds fragmented and manual processes, limited automation and vendor lock-in in some counties"},
+    {"system": "Integrated Financial Management Information System", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "National Government", "tiers": "named as a designated government platform county revenue systems must interoperate with"}
+  ],
+  "note": "Binding standards for county own-source revenue systems, gazetted 27 July 2026 (Gazette Notice No. 11488): a rule about an application, stating requirements and general weaknesses but no county's deployment, and nothing about the connection of county offices."
+}

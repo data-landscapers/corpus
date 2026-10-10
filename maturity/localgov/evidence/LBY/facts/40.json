@@ -1,0 +1,15 @@
+{
+  "slug": "2022-10-08-libya-draft-law-national-information-system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Transmission Network",
+      "country_label": "الشبكة الوطنية لتراسل البيانات",
+      "class": "backbone",
+      "platform": "",
+      "owner": "General Authority for Communications and Informatics regulates, operates and maintains it under article 31; the General Information Authority and sectoral information centres build the systems that run over it",
+      "tiers": "Defined in the draft as a private network linking every component of the National Information System, which article 1(14) says comprises central, sectoral, municipal and specialised information systems; no municipal office is said to be on it"
+    }
+  ],
+  "note": "A Cabinet draft bill of 8 October 2022, not enacted on its own face (status: draft). It defines a national data network that would link municipal information systems among others and gives the General Information Authority local information centres to manage (article 30), but states no office connected, no programme and no date of operation: a backbone-class system on paper, and no fact for the connection class."
+}

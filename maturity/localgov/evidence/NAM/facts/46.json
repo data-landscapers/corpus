@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-14-namibia-citymender-infrastructure-reporting-app",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CityMender Namibia",
+      "country_label": "CityMender Namibia",
+      "class": "web",
+      "platform": "mobile app (Apple App Store, Google Play) with GIS mapping",
+      "owner": "CityMender, a private company (founder Keyuren Maharaj)",
+      "tiers": "nationwide, for residents; municipalities and other authorised stakeholders are offered access to the data, with none named as using it"
+    }
+  ],
+  "note": "A privately run resident reporting app launched nationwide on 14 August 2026: a web-class system, not a connection, and no municipality is said to use it or to be connected."
+}

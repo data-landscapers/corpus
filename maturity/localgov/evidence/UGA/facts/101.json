@@ -1,0 +1,14 @@
+{
+  "slug": "2018-12-28-id4d-country-diagnostic-uganda-world-bank",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The World Bank's diagnostic states that the Ministry of Public Service's Integrated Personnel and Payroll System, a web-based system commissioned about nine years earlier, was implemented in about 200 sites, including all central ministries, agencies and departments and local government; it gives no date, so the publication date is used, and no count of local governments.", "as_of": "2018-12", "date_precision": "month", "system": "Integrated Personnel and Payroll System (IPPS) sites in local government", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Integrated Personnel and Payroll System", "country_label": "IPPS", "class": "application", "platform": "web-based human resource and payroll system", "owner": "Ministry of Public Service", "tiers": "about 200 sites, including all central ministries, agencies and departments and local government"},
+    {"system": "Mobile Vital Records System", "country_label": "MVRS (also written MRVS)", "class": "application", "platform": "", "owner": "Uganda Registration Services Bureau until 2016, then the National Identification and Registration Authority", "tiers": "202 connected 'online' registration points, against more than 1,400 sub-counties and 345 health facilities where registration was possible, as of July 2012; sub-counties and health facilities not counted apart"},
+    {"system": "Paper birth and death registers", "country_label": "civil register; short-form birth certificates", "class": "application", "platform": "paper", "owner": "sub-county chiefs, town clerks and hospital administrators as registrars", "tiers": "registers supposed to be kept in 1,403 sub-counties, in towns and divisions and in 345 hospitals; manual and paper-based; legacy records held in local government offices countrywide"},
+    {"system": "National Identification Register", "country_label": "NIR; national ID system", "class": "central", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "117 district offices of the authority, one staff member in each"},
+    {"system": "Business Facilitation Centre", "country_label": "One-Stop-Shop; Pilot Business Facilitation Centre", "class": "central", "platform": "", "owner": "Uganda Registration Services Bureau", "tiers": "one floor of the bureau's office and online; seven agencies including Kampala Capital City Authority and the Ministry of Local Government"}
+  ],
+  "note": "Passages only. The one fact rests on a single sentence placing a web-based payroll system in local government sites; the passages say nothing of how those offices are connected. The 202 online registration points of the vital records system mix sub-counties with health facilities and are left as a systems entry."
+}

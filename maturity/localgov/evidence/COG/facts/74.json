@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-08-congo-civil-status-fraud-network-investigation",
+  "facts": [],
+  "systems": [
+    {"system": "Système intégré de gestion de l'état civil", "country_label": "projet de Système intégré de gestion de l'état civil", "class": "application", "platform": "", "owner": "the state; presented by the Minister of the Interior and Decentralisation", "tiers": "civil-status acts issued in mairies, districts and communautés urbaines; a project on 7 August 2026, no deployment stated"}
+  ],
+  "note": "Senate session of 7 August 2026 on civil-status fraud in mairies: the digitisation system named is a civil-status application still at project stage; nothing is stated on the connection of local government offices."
+}

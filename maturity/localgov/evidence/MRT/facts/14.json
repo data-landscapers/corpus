@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-24-agence-ecofin-guichet-numerique-bassikounou-fracture-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "guichets numériques", "country_label": "guichets numériques", "class": "public-access", "platform": "", "owner": "Ministry of Digital Transformation; Bassikounou funded by FAO, Ouadane under GIZ's DIGITAL-Y project", "tiers": "five named: Teyarett, Arafat and Tevragh Zeina municipalities in Nouakchott (July 2025), Ouadane commune (December 2025), Bassikounou (23 February 2026); presented as a first stage to be extended to all municipalities"},
+    {"system": "Ijraati", "country_label": "plateforme « Ijraati »", "class": "", "platform": "", "owner": "government of Mauritania", "tiers": "national directory of 800 administrative procedures, launched February 2026"}
+  ],
+  "note": "The digital desks are public spaces giving residents assisted access to online services on internet-connected tablets and computers; the document places them in municipalities and does not say any commune office is connected, so they are noted as public access and give no fact."
+}

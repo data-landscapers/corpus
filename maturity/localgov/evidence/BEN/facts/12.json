@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-04-benin-cybersecurite-asin-renforce-les-capacites-de-25-rssi",
+  "facts": [],
+  "systems": [
+    {"system": "formation certifiante des Rssi", "country_label": "formation certifiante des Responsables de sécurité des systèmes d'information (Rssi)", "class": "capacity", "platform": "", "owner": "Agence des systèmes d'information et du numérique (Asin)", "tiers": "25 trainees from 3 August 2026 drawn from public administrations, local authorities, public enterprises and the private sector; first limited to state structures; no count of local authority trainees"},
+    {"system": "Cyber Range", "country_label": "Cyber Range, centre national de simulations de cyberdéfense", "class": "central", "platform": "", "owner": "the state; used in Asin's training", "tiers": "national centre"}
+  ],
+  "note": "La Nation's report of the same information-security course: local authorities are among the trainees' employers, and nothing is stated about the connection of any commune office."
+}

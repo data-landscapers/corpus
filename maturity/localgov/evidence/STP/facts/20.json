@@ -1,0 +1,12 @@
+{
+  "slug": "2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Rede do Governo", "country_label": "Rede do Governo", "class": "backbone", "platform": "", "owner": "INIC, built with Brazilian cooperation (ABC and SERPRO) from 2008", "tiers": "The state's official network infrastructure, with a data centre; no district or regional office said to be on it"},
+    {"system": "G-net", "country_label": "G-net", "class": "backbone", "platform": "", "owner": "Government, in partnership with Taiwan from 2013; technical support suspended when diplomatic relations were cut", "tiers": "Data network and VoIP linking all ministries"},
+    {"system": "G-net telecentres", "country_label": "telecentros", "class": "public-access", "platform": "", "owner": "Government, under the G-net project with Taiwan", "tiers": "District capitals; computing courses and internet access for the general population"},
+    {"system": "Government fibre-optic backbone", "country_label": "backbone de fibra óptica governamental (STP em Rede)", "class": "backbone", "platform": "", "owner": "Government and INIC, financed by the African Development Bank from 2017", "tiers": "Due for completion in 2019, partly complete and in operation by June 2020, serving 82 institutions and a state data centre; the institutions are not named"},
+    {"system": "Sistema de Administração Financeira do Estado (SAFE)", "country_label": "SAFE", "class": "application", "platform": "", "owner": "State, under Law 03/2007", "tiers": "By the law's stated aim, shows the budget execution of central, regional and local bodies and public institutions; no local office is said to work in it"}
+  ],
+  "note": "An excerpt of the June 2020 strategy, cut off in section 2.2, and the same text as the annex to Resolução 35/2020. The government network, G-net and the fibre backbone are described at ministry and '82 institutions' level, with no district chamber or the Príncipe regional government said to be connected; the proposed GOV.ST e-mail for all civil servants names no local government."
+}

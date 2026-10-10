@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-18-tanzania-egovernment-capability-maturity-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Government network", "country_label": "the government network", "class": "backbone", "platform": "", "owner": "e-Government Authority (e-GA)", "tiers": "named only as an assessment criterion, 'access to the government network', scored for every public institution; no local government office is said to be on it"},
+    {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "GovESB", "class": "central", "platform": "", "owner": "e-Government Authority (e-GA)", "tiers": "named only as an assessment criterion for inter-organisation data exchange"}
+  ],
+  "note": "An assessment standard, not a report of results: it defines Local Government Authorities as public institutions, sets city, municipal and town/district councils a minimum maturity of Level 3 against Level 4 for ministries, and scores access to the government network and internet reliability, but states no council's connection, score or coverage."
+}

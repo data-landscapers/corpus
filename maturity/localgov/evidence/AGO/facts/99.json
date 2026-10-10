@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-building-a-growth-friendly-tax-environment-agt-angola",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão Tributária (SIGT)", "country_label": "SIGT", "class": "central", "platform": "", "owner": "Administração Geral Tributária (AGT)", "tiers": "centralised database updated in real time; provincial governments named among other assessing entities"},
+    {"system": "Portal do Contribuinte / AGT Mobile", "country_label": "Portal do Contribuinte; AGT Mobile", "class": "central", "platform": "", "owner": "Administração Geral Tributária (AGT)", "tiers": "national, online"},
+    {"system": "Referência Única de Pagamento ao Estado (RUPE)", "country_label": "RUPE", "class": "central", "platform": "", "owner": "Ministry of Finance / AGT", "tiers": "national"},
+    {"system": "ASYCUDA World", "country_label": "ASYCUDA World", "class": "", "platform": "ASYCUDA World", "owner": "", "tiers": ""}
+  ],
+  "note": "A tax authority's slide deck on its own national systems; municipalities appear only as places where revenue is collected under a proposed financing model, and nothing is stated about their offices' connection."
+}

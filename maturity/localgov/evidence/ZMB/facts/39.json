@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-inris-ministerial-statement",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "INRIS", "class": "central", "platform": "", "owner": "Ministry of Home Affairs and Internal Security, Department of National Registration, Passport and Citizenship", "tiers": "deployed in eleven districts (Choma, Livingstone, Mongu, Solwezi, Ndola, Mansa, Kasama, Chinsali, Chipata, Lusaka, Kabwe); deployment to district offices planned"}
+  ],
+  "note": "INRIS is deployed at the district offices of a central ministry's registration department, not at councils; the statement says nothing of a local government office or its connection."
+}

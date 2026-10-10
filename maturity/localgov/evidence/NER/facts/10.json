@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-10-niger-civil-status-digitalization-commemorative-day",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "equipped:68%", "fact": "UNICEF's Tahoua office head said on 10 August 2026 that UNICEF had contributed to the computerisation ('informatisation') of 68% of communes nationwide for civil status; he gives no numerator or denominator, and states computerisation, not that the commune offices are connected.", "as_of": "2026-08-10", "date_precision": "day", "system": "informatisation des communes (état civil)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "informatisation de l'état civil", "country_label": "informatisation des communes / centres d'état civil", "class": "application", "platform": "", "owner": "Ministère de l'Intérieur, with UNICEF support", "tiers": "communes; 68% of communes nationwide computerised per UNICEF; in Tahoua region four communes (Tassara, Tillia, Takanamat, Tebaram) remain to be covered per the governor"}
+  ],
+  "note": "The one fact is a share of communes computerised for civil registration, recorded as equipped; the document states no connection at any commune office."
+}

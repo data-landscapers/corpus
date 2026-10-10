@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-30-mtn-uganda-upgrades-fort-portals-mpanga-market-with-digital-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Mpanga Market public Wi-Fi", "country_label": "public Wi-Fi", "class": "public-access", "platform": "", "owner": "MTN Uganda, handed over to the market's leadership", "tiers": "Mpanga Market, Fort Portal City"},
+    {"system": "Mpanga Market CCTV surveillance cameras", "country_label": "CCTV surveillance cameras", "class": "city-systems", "platform": "", "owner": "MTN Uganda, handed over to the market's leadership", "tiers": "Mpanga Market, Fort Portal City"}
+  ],
+  "note": "Public Wi-Fi and cameras for traders at one market, handed to the market's leadership; city leaders and the Minister of Local Government attended, and no city office is said to be connected."
+}

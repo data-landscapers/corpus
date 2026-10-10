@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-18-nigeria-crvs-digitalisation-vitalreg",
+  "facts": [],
+  "systems": [
+    {"system": "VITALREG", "country_label": "VITALREG; digital CRVS", "class": "central", "platform": "digital civil registration platform integrated with the national identity commission, primary health centres and 'Local Government Wards'", "owner": "National Population Commission (Registrar General's Department)", "tiers": "operational in 36 states, with ward registrars in 15; 3,372 wards activated, about 7,000 planned before the end of 2027; 1,982 health facilities integrated; 304 registration workstations deployed; civil registration offices in wards and local government areas, where an 'NPC/LGA functionary' certifies the birth"}
+  ],
+  "note": "The Registrar General's presentation of 18 July 2026 gives the digital civil registration system's reach by ward (3,372 activated), health facility (1,982) and workstation (304), and says an 'NPC/LGA functionary' certifies births at civil registration offices in wards and local government areas. It does not say a local government's own office is connected or that its staff work in the system, and gives no count of local governments; it adds that offline working is essential where connectivity is low. Read as the national commission's field structure, so no fact; the parent may weigh the 'NPC/LGA functionary' wording."
+}

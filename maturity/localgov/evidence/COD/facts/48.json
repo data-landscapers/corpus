@@ -1,0 +1,15 @@
+{
+  "slug": "2023-03-13-rdc-ordonnance-loi-23-010-code-numerique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government or provincial intranet",
+      "country_label": "intranet gouvernemental ou provincial",
+      "class": "backbone",
+      "platform": "",
+      "owner": "The Government, which the Code du Numérique of 13 March 2023 charges with setting it up",
+      "tiers": "Public administrations at central and provincial level, as the law states it; no commune or other local government office is named"
+    }
+  ],
+  "note": "A law, passages only: it obliges the Government to set up a secure infrastructure for passing information between public administrations at central and provincial level, as a government or provincial intranet; it states an obligation and not that any such network exists, and puts no local government office on it, so no fact of class connection."
+}

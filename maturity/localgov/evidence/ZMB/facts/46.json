@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-04-smart-zambia-2000-ict-devices-local-government-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "2,000 ICT devices for local authorities (1,780 laptops, 220 all-in-one desktops, worth over K9 million)", "country_label": "", "class": "equipment", "platform": "", "owner": "e-Government Division (SMART Zambia Institute), handed to the Ministry of Local Government and Rural Development", "tiers": "116 local authorities; also Zambia Postal Services, district administration offices and provincial monitoring and evaluation teams"},
+    {"system": "Constituency Development Fund Management Information System", "country_label": "CDF-MIS", "class": "application", "platform": "", "owner": "", "tiers": "local authorities"}
+  ],
+  "note": "Computers handed over for 116 local authorities, expected to improve access to digital platforms including CDF-MIS; no connection at any council office is stated, so the equipment gives no fact."
+}

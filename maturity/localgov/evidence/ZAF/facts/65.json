@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-27-trada-digilink-rural-traditional-authority-service-admin",
+  "facts": [],
+  "systems": [
+    {"system": "Trada-Digilink", "country_label": "Trada-Digilink model", "class": "application", "platform": "", "owner": "proposed by a University of Johannesburg researcher; not deployed", "tiers": "proposed for traditional authority offices in rural areas; fieldwork in Vhembe District Municipality, Limpopo"}
+  ],
+  "note": "A proposed model for traditional authority offices, which are not municipalities: 62.5% of 112 survey respondents in Vhembe said digital services had not been introduced in those offices, with inadequate internet connectivity named as a challenge. Nothing on a municipal office's own connection."
+}

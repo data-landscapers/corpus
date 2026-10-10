@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-26-amecc-civil-registry-computerisation-validation-workshop-alwatwan",
+  "facts": [],
+  "systems": [
+    {"system": "système d'état-civil (informatisation planned under the Amecc project)", "country_label": "état-civil", "class": "application", "platform": "", "owner": "Ministère de l'Intérieur; Amecc project financed by the French embassy with UNICEF technical support", "tiers": "civil-status offices on each island, mairies and communes; studies validated 25 March 2026, not yet computerised"}
+  ],
+  "note": "A workshop validating studies before computerising civil status; mairies and communes attended, but nothing is stated about any office's connection."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-nga-dhis2-education-implementation-nigeria",
+  "facts": [],
+  "systems": [
+    {"system": "Digital National Education Management Information System (DNEMIS)", "country_label": "DNEMIS", "class": "application", "platform": "DHIS2 (Aggregate and Tracker), with offline mobile collection", "owner": "Federal Ministry of Education, through NEMIS and NEDI", "tiers": "federal, 36 states and the FCT, 774 local government areas and schools; dashboards at each level; state and LGA EMIS officers trained in every state by May 2026; national launch 1 July 2026"}
+  ],
+  "note": "A profile of the education data system, with dashboards at local government area level and trained LGA education data officers; it says data are collected offline on mobiles and states nothing about a connection at any local government office."
+}

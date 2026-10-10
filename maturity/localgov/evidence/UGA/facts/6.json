@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature",
+  "facts": [],
+  "systems": [
+    {"system": "NBI", "country_label": "NBI", "class": "backbone", "platform": "", "owner": "NITA-U", "tiers": "named with Wi-Fi and platforms as infrastructure NITA-U puts in place so ministries, agencies and local governments are automated; no local government office said to be on it"},
+    {"system": "UGHub", "country_label": "UGHub", "class": "", "platform": "shared connection through which government systems exchange verified information", "owner": "NITA-U", "tiers": "agencies once connected; lands offices and NIRA named, no local government named"}
+  ],
+  "note": "NITA-U's director states its job as putting the NBI, Wi-Fi and platforms in place so that ministries, agencies and local governments are automated; a statement of mandate, with no local government office said to be connected and no figure."
+}

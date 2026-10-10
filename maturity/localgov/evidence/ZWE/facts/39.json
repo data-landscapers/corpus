@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-18-zimbabwe-oag-local-authorities-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Local authorities' accounting systems", "country_label": "accounting systems", "class": "application", "platform": "", "owner": "local authorities", "tiers": "local authorities; the Auditor-General says most business processes were still manual or partially automated in the 2024 audits, with some modules not activated"},
+    {"system": "Enterprise Resource Planning systems for revenue collection", "country_label": "Enterprise Resource Planning systems", "class": "application", "platform": "", "owner": "local authorities", "tiers": "local authorities; the Auditor-General says most did not have one"},
+    {"system": "electronic Government Procurement (eGP) system", "country_label": "electronic Government Procurement (eGP) system", "class": "application", "platform": "", "owner": "Government of Zimbabwe", "tiers": "local authorities are encouraged to adopt it; no adoption stated"},
+    {"system": "E-filing", "country_label": "E-filing", "class": "", "platform": "", "owner": "Government of Zimbabwe", "tiers": "local authorities are encouraged to adopt it; not described"}
+  ],
+  "note": "An audit of local authorities' accounts for 2024 (excerpt: preamble and executive summary). It states the automation of accounting and revenue systems, which are applications, and nothing about the offices' connection."
+}

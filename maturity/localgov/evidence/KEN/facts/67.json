@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-20-kirinyaga-county-fiber-ogn-telecomreviewafrica",
+  "facts": [],
+  "systems": [
+    {"system": "One Government Network (OGN)", "country_label": "One Government Network (OGN)", "class": "backbone", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "102.4 km of fibre in Kirinyaga County connecting all five sub-counties, as published 20 January 2026"},
+    {"system": "Public Wi-Fi hotspots, Digital Superhighway", "country_label": "public Wi-Fi hotspots; Phase II of the Digital Superhighway rollout", "class": "public-access", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "nine hotspots operational in Kirinyaga County, including Kutus Market and Kagumo Health Centre; surveys for 80 more sites under way"}
+  ],
+  "note": "The document says the fibre connects Kirinyaga's five sub-counties to the One Government Network and names no county government office on it, so it is read as the network reaching the sub-counties: backbone, and no fact."
+}

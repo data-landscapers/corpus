@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-01-projet-e-commune-lance",
+  "facts": [],
+  "systems": [
+    {"system": "e-Commune", "country_label": "projet e-Commune; plateforme e-Commune", "class": "web", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation with the Ministère de la Décentralisation et de la Gouvernance locale; extension under the Programme de renforcement des structures centrales de gouvernance (Prscg 2)", "tiers": "pilot launched 30 September 2025 in three communes, Porto-Novo, Lokossa and Djougou: residents request five kinds of authorisation online; each commune is to get a service platform and a communal web portal; the other 74 communes to follow in the coming months"},
+    {"system": "réseau national de l'administration", "country_label": "réseau national de l'administration", "class": "backbone", "platform": "", "owner": "the state, set up under the Programme de renforcement des structures centrales de gouvernance", "tiers": "listed among the means given to local authorities; no mairie is said to be on it"},
+    {"system": "Data Center national", "country_label": "Data Center national", "class": "backbone", "platform": "", "owner": "the state, built under the Programme de renforcement des structures centrales de gouvernance", "tiers": "national"},
+    {"system": "digitalisation des mairies", "country_label": "digitalisation des mairies", "class": "", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation, under the Programme de renforcement des structures centrales de gouvernance", "tiers": "mairies; not described"},
+    {"system": "Gestion électronique des courriers", "country_label": "Gestion électronique des courriers", "class": "application", "platform": "", "owner": "Ministère du Numérique et de la Digitalisation, under the Programme de renforcement des structures centrales de gouvernance", "tiers": "listed among the means given to local authorities; where it runs is not stated"},
+    {"system": "signature électronique sur infrastructure à clé publique (Pki)", "country_label": "signature électronique (Pki)", "class": "application", "platform": "public key infrastructure", "owner": "Ministère du Numérique et de la Digitalisation", "tiers": "recently introduced; its uses presented to mayors and executive secretaries"}
+  ],
+  "note": "e-Commune is described as requests residents make online in three pilot communes. The ministry's secretary general lists the national administration network among what the programme has done for local authorities, but the article puts no mairie on it and says nothing of how any mairie is connected, so no fact is recorded."
+}

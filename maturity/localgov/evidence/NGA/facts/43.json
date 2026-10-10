@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-26-nigeria-project-bridge-90000km-fibre-barriers-sun",
+  "facts": [],
+  "systems": [
+    {"system": "Project BRIDGE (Building Resilient Digital Infrastructure for Growth)", "country_label": "Project BRIDGE", "class": "backbone", "platform": "open-access fibre", "owner": "public-private partnership through an independent special-purpose vehicle; Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "planned: at least 90,000 km across all 36 states and the Federal Capital Territory, connecting more than 770 local government areas; start given as October 2026"},
+    {"system": "Telecom tower programme (nearly 3,700 towers)", "country_label": "", "class": "backbone", "platform": "", "owner": "Federal Government", "tiers": "communities without network coverage"}
+  ],
+  "note": "On execution risks of the national fibre project; in this document it is described as connecting local government areas, with no local government office named, and local governments otherwise appear as a source of inconsistent policies on fibre deployment."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-03-21-regime-juridico-cadastro-predial",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de informação, gestão e transação da propriedade", "country_label": "Sistema de informação, gestão e transação da propriedade", "class": "application", "platform": "integrated platform built for the cadastre and land registry", "owner": "central service responsible for the Cadastre", "tiers": "central cadastre service, land registry offices, notaries and municipalities; the municipality inserts and ratifies the urban-planning elements of the property identification certificate"},
+    {"system": "Sistema de informação municipal", "country_label": "sistema de informação municipal", "class": "application", "platform": "", "owner": "Câmara Municipal", "tiers": "municipal; named only as holding data to be checked against the tax-roll books"}
+  ],
+  "note": "A decree-law setting duties: municipalities are to report changes to the cadastre service 'by electronic or other means' and to ratify data in the property system, but the law states nothing about any municipal office actually being connected or working in it, and a law places nothing."
+}

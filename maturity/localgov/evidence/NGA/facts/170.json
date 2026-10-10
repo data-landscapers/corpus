@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-15-npc-nationwide-digital-birth-death-registration",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Civil Registration and Vital Statistics (E-CRVS) system", "country_label": "E-CRVS digital platform", "class": "central", "platform": "online birth and death registration platform, operated under a public-private partnership with the technical partner the source spells Bankforte Technologies Limited", "owner": "National Population Commission", "tiers": "operational in all 36 states and the Federal Capital Territory from 1 July 2026; the Commission has 4,011 functional registration centres of its own across the 774 local government areas and is expanding to about 8,000"}
+  ],
+  "note": "The National Population Commission's chairman announced nationwide digital birth and death registration from 1 July 2026 through the Commission's own 4,011 registration centres across the 774 local government areas, a national agency's field offices; the local governments' association is a partner in decentralising the service and local councils are asked for support. No local government office is said to be connected or to work in the system, so no fact."
+}

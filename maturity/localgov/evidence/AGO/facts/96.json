@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-01-anuario-estatistico-da-educacao-2021-2022",
+  "facts": [],
+  "systems": [
+    {"system": "SIGE (school census circuit)", "country_label": "SIGE", "class": "central", "platform": "", "owner": "Ministério da Educação (GEPE)", "tiers": "forms sent from the ministry to provincial offices, reproduced, passed to municipal education directorates and on to schools for filling in and return"}
+  ],
+  "note": "An education statistics yearbook; the passages describe the school census as questionnaires passed through municipal education directorates to schools and state nothing about the connection of municipal administrations' offices."
+}
