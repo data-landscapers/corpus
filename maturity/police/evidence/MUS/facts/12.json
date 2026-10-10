@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-01-mpf-annual-report-2024-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Safe City system", "country_label": "Safe City system; Police Main Command & Control Centre (PMCCC)", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force (PMCCC, Ebene, established 19 August 2019)", "tiers": "National: CCTV live viewing and coordination of police deployment from one centre"},
+    {"system": "Emergency and reporting lines: 999, 148, L'Espwar hotline, Sekirite app", "country_label": "999 / 148 / LESPWAR / SEKIRITE APP", "class": "public", "platform": "", "owner": "Mauritius Police Force (Police Information & Operations Room / PMCCC)", "tiers": "National; 36,003 emergency calls received through them in July 2024 to June 2025"},
+    {"system": "Crime Records Office offence statistics", "country_label": "Crime Records Office (CRO)", "class": "statistics", "platform": "", "owner": "Crime Records Office, Central CID", "tiers": "Source of the report's counts of crimes, misdemeanours and drug cases for mainland Mauritius; how the counts are compiled is not stated"},
+    {"system": "CSRS/AIS stations", "country_label": "CSRS/AIS Stations", "class": "surveillance", "platform": "", "owner": "National Coast Guard", "tiers": "8 stations, named in the organisation chart only"},
+    {"system": "Firearm Index", "country_label": "Firearm Index", "class": "", "platform": "", "owner": "Police Headquarters", "tiers": "Named as a headquarters unit, with no description"},
+    {"system": "Photographic Enforcement Device", "country_label": "PED", "class": "", "platform": "", "owner": "", "tiers": "Named in the abbreviations list only"}
+  ],
+  "note": "The capture is an excerpt cut off in section 5.7 (drug cases), before the administration, IT and audit sections and Annex B; the part read gives 72 police stations and 14 police posts and states nothing on how a station records a report or a case."
+}

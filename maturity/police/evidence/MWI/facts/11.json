@@ -1,0 +1,15 @@
+{
+  "slug": "2024-04-01-e-court-launch-malawi-judiciary",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-Court",
+      "country_label": "e-Court",
+      "class": "exchange",
+      "platform": "video conferencing and virtual hearings, with electronic filing and digital case management on the court side",
+      "owner": "Malawi Judiciary, with the Malawi Police Service and Malawi Prisons Service, in partnership with UNDP and Airtel Malawi",
+      "tiers": "Pilot phase at go-live, April 2024: ten courts, six prisons and four police stations, the police sites being Chisenga and Nthalire Police Posts (Chitipa), Makwasa Police (Thyolo) and Jali Police Station"
+    }
+  ],
+  "note": "The e-Court links police stations to courts by video so that detainees can apply for bail; it is a court system and a link, and the document says nothing of how a station records a report or a case."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2022-06-21-undp-liberia-judiciary-cmis",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "UNDP's rule of law adviser states that a case management information system similar to the Judiciary's, which tracks cases online, was developed and rolled out at the Liberia National Police in 2021 and was up and running in June 2022; he gives no count of stations using it.", "as_of": "2022-06-21", "date_precision": "day", "system": "Case Management Information System (CMIS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "UNDP states that the Liberia National Police was the first to roll out the CMIS under the Ministry of Justice, in 2021.", "as_of": "2021", "date_precision": "year", "system": "Case Management Information System (CMIS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Case Management Information System (CMIS), police", "country_label": "CMIS", "class": "record", "platform": "open-source software, built by a Liberian ICT specialist, as the document says of the CMIS", "owner": "Liberia National Police, under the Ministry of Justice", "tiers": "deployed at the Liberia National Police in 2021; tiers not stated"},
+    {"system": "harmonized case management system for the entire justice chain", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "a stated goal in June 2022: to integrate the police and Judiciary systems; not built"}
+  ],
+  "note": "The police system is described only as similar to the Judiciary's CMIS, launched in June 2022 with UNDP; the offline upload and the open-source build are stated of the Judiciary's system. Classed record on that likeness; the parent should weigh it. The Judiciary's own CMIS is a court system, evidence for dpi.mis--justice."
+}

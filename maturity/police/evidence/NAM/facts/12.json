@@ -1,0 +1,55 @@
+{
+  "slug": "2025-05-08-namibia-vote39-home-affairs-budget-speech",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital Mobile Radios",
+      "country_label": "two-way radio communication system",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Namibian Police Force (NamPol)",
+      "tiers": "digital radios, repeaters and base stations acquired in 2024/25 to replace the analogue system gradually, until the whole country is covered"
+    },
+    {
+      "system": "Smart City Project",
+      "country_label": "Smart City Project",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Ministry of Home Affairs, Immigration, Safety and Security, on a CNY 98,000,000 grant from China",
+      "tiers": "planned: surveillance cameras at key infrastructure and crime hot spots in Windhoek and Swakopmund, then Oshakati, Walvis Bay, Keetmanshoop, Rundu and other towns as resources allow"
+    },
+    {
+      "system": "Web Interpol System for Document Management",
+      "country_label": "Web Interpol System for Document Management",
+      "class": "border",
+      "platform": "",
+      "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+      "tiers": "an interface between the passport system and Interpol to capture and report lost and stolen travel documents, implemented in 2024/25"
+    },
+    {
+      "system": "Forensic Science Services laboratory",
+      "country_label": "Forensic Science Services",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+      "tiers": "one laboratory; 2,898 cases processed in 2024/25, a backlog of 8,498 cases"
+    },
+    {
+      "system": "Namibian Police Criminal Record Bureau",
+      "country_label": "Namibian Police Criminal Record Bureau",
+      "class": "identification",
+      "platform": "",
+      "owner": "Namibian Police Force (NamPol)",
+      "tiers": "not stated; the ministry plans to cut the wait for a certificate of conduct from five working days to 24 hours and put it online, and to prioritise finger and palm prints from crime scenes"
+    },
+    {
+      "system": "Online visa application service",
+      "country_label": "online visa application service",
+      "class": "border",
+      "platform": "",
+      "owner": "Ministry of Home Affairs, Immigration, Safety and Security",
+      "tiers": "online, for tourists; 5,351 online visas approved in 2024/25"
+    }
+  ],
+  "note": "The minister's Vote 39 speech names no system in which stations record reports or cases: the police ICT Management programme (N$106,564,000 for 2025/26) reports only the radio replacement, and the 2025/26 plan to raise the clearance rate from 35% to 42% cites 'system integration' and collaboration with the prosecution without naming a system."
+}
