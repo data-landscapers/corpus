@@ -1,0 +1,19 @@
+{
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "use": "systems",
+      "connected": "",
+      "last12": "",
+      "authorities": "share:100%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-004;MUS-005",
+      "gaps": "No row states how the offices are connected or who provides and pays for the connection: the 2023-2024 report says all 12 local authorities work in real time in the Council Project Management system but not where it is hosted or how the offices reach it, and no rural share is given. The newer row MUS-003 (30 June 2025) counts 12 of 12 authorities in the permit table without saying the figures passed through the licensing system, which agrees with the share and does not add to it; no plan or finance is stated, and no dated event falls in the twelve months to the as-at.",
+      "note": "All 12 of 12 local authorities are said by the ministry to work online in a shared system, which is a live connection used for systems well past its pilot. The share cannot place above stage 3 because its own source does not state an institutional connection."
+    }
+  ]
+}

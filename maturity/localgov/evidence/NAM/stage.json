@@ -1,0 +1,19 @@
+{
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "unplaced",
+      "governance": "",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only evidence is a 2007 survey in which one unnamed local authority of two installs e-mail for some of its staff. It does not say whether that authority is outside the capital, gives no count or share of local authorities connected, and nothing is held since 2007, on governance or on the last twelve months.",
+      "note": "The only evidence is a 2007 remark that one unnamed local authority installs e-mail for some staff: it shows neither a programme in preparation nor a connection in the capital only, so it sets no rung. Restaged from 2 by the parent at L5, on the second drafter's reading."
+    }
+  ]
+}

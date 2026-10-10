@@ -1,0 +1,19 @@
+{
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;finance:not-stated",
+      "use": "",
+      "connected": "",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-001",
+      "gaps": "No source says any governorate headquarters, district or local unit office is connected or working over a connection: the Minya link was an expectation for 2024, stated on 15 January 2024, and nothing held reports it done. Use, the kind of connection, a plan, a funder and any event in the twelve months to the as-at are not stated.",
+      "note": "A programme to connect local administration is being piloted in one governorate, and the link to its districts and local units was expected, not reported as in use, which is preparation. Stage 3 needs an institutional connection live in some local governments outside the capital, and no fact states one."
+    }
+  ]
+}

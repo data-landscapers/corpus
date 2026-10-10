@@ -1,0 +1,19 @@
+{
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "",
+      "use": "systems",
+      "connected": "",
+      "last12": "",
+      "authorities": "count:4",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-004;BWA-003",
+      "gaps": "No fact states an institutional connection at a council's own office or that one is live: the premises Wi-Fi of 2022/23 is a deployment partnership with four local authorities, two of them sub-district councils, not said to be in use and with no total of councils. The social registry facts (four pilot districts in 2020, count:6 districts by May 2021, monthly uploads by district officials) name districts and officials, not council offices or their connection, and disagree with count:4 only in measuring a different thing. Nothing is dated inside the 36 or 12 months to the as-at, so governance and the last twelve months are not held.",
+      "note": "Stage 2 because the only connection to council premises on record is a deployment partnership, which is preparation. Stage 3 needs an institutional connection live in local governments outside the capital, and the registry uploads do not put the office on a connection."
+    }
+  ]
+}

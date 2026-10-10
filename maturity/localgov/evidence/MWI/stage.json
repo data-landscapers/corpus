@@ -1,0 +1,19 @@
+{
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "on the government network;advancing",
+      "stage_sources": "MWI-005;MWI-006;MWI-007",
+      "gaps": "No source counts the councils connected against the 35: the 2024 minutes name Kasungu on the Boma network and Dowa as not yet connected (MWI-007), and the only count is the four city councils' own office internet in 2022 (MWI-017, count:4 of 35), which says nothing of the other 31. The newest authorities fact, pilot (MWI-003, 2026-06), is a two-district test of registry updating and not a measure of the connection. The systems facts of 2026 (MWI-001, MWI-002) do not say over what connection councils work; on the government network the stated use is internet (MWI-006), slow and unreliable, with government email still awaited. MWI-020 (2022-09) reads none for the IFMIS network and is older than MWI-005.",
+      "note": "The internet the Digital Malawi Project provided to the councils is in use on the government network at councils outside the capital, managed by the Department of E-Government, so the connection is institutional and past its pilot. Stage 4 needs more than half on a share or a count with its total, and no source gives one."
+    }
+  ]
+}

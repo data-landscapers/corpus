@@ -1,0 +1,19 @@
+{
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;finance:not-stated",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ETH-003;ETH-004;ETH-005",
+      "gaps": "No source puts a woreda administration's office outside Addis Ababa on a connection provided to it: the 592 woreda offices recording transactions in IFMIS (2018, ETH-012/013) have no connection stated and no total, and a 2021 fact (ETH-011) says IFMIS is not yet fully functional at woreda level, so the two disagree. The 444 of 492 safety net woredas (ETH-015/016) and the woreda health offices (ETH-009/010) are ministries' sector offices and carry nothing; the only finance fact (ETH-018, donor) is the safety net system's, so finance for the cell is not stated, and no plan naming the connection of woredas is held.",
+      "note": "The one institutional connection on record is Addis Ababa's central-to-woreda connectivity, described as a pilot in the capital only (December 2025), which is stage 2. Stage 3 needs an institutional connection live in local governments outside the capital, and no fact states one."
+    }
+  ]
+}

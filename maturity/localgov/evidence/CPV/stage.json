@@ -1,0 +1,19 @@
+{
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;finance:domestic",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "regressing",
+      "authorities": "share:95.5%",
+      "cap": "",
+      "flags": "on the government network;regressing",
+      "stage_sources": "CPV-002;CPV-003;CPV-009;CPV-010;CPV-011;CPV-012",
+      "gaps": "The 21 of 22 municipalities (CPV-012, 6 October 2025) are councils supplied with NOSi's digital services, and that source does not state how their offices are connected, so no share of councils connected is established. The institutional connection rests on one fact of March 2020 (CPV-003), which gives no count of councils, and the same plan also names the councils' networks among those to be served (CPV-005); nothing since states it. No plan whose period includes the as-at is held: the 2019-2022 plan has ended.",
+      "note": "Councils outside the capital work in shared national systems (SIGTP on four islands, the social registry, NOSi's services) and their local networks are listed on the state's private network, which meets stage 3. Stage 4 needs a share of councils connected whose own source states the institutional connection, and the 95.5% is a share supplied with services."
+    }
+  ]
+}

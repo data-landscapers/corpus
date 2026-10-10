@@ -1,0 +1,19 @@
+{
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;finance:not-stated",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-007;LSO-008;LSO-009;LSO-010",
+      "gaps": "No source says the connection is past its pilot: the newest connection fact is the two pilot community councils handed over with the Internet installed on 31 July 2019, with no total of councils, and the June 2024 statement is a plan to connect Community Councils with no number, date or funding. No system the councils work in is named; LSO-001 (2025-09, value none) names no connection at the councils and is silence, not a statement of absence, so it does not displace the 2019 fact. Nothing is dated in the twelve months to the as-at; inside 36 months no plan period and no finance are stated, the African Development Bank and ministry financing being 2018 and 2019 facts.",
+      "note": "Two community councils connected under the e-Government Pilot Project are pilot local governments, and the 2024 rollout is a stated plan, which is the stage 2 row. Stage 3 needs a connection past its pilot and live in some local governments, and no fact says so."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:16",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TUN-001;TUN-002;TUN-006;TUN-007;TUN-012;TUN-013;TUN-019;TUN-021",
+      "gaps": "No share or count of municipalities connected is published and no total of municipalities is given: the 16 on Taamir are a count without its denominator, and the 71 per cent of sites on the administrative network in 2024 (TUN-022) covers ministries, collectivities and sectoral networks together. The Taamir sources do not say how the municipal offices are connected; the institutional connection rests on separate sources (TUN-019, TUN-021), neither of which says how many municipal offices are on it, so the government-network flag is not set. Donor finance (TUN-005) is the Taamir platform's, not the connection's; TUN-016 and TUN-017 are from the excluded compilation and set nothing.",
+      "note": "Municipalities outside the capital work in a national system past its test (Taamir, 16 named municipalities) and municipal workstations are connected to the state data centre, which meets stage 3. Stage 4 needs more than half on a share or a count with a denominator from a source that also states the institutional connection, and none is held."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "4",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "share:60.6%",
+      "cap": "",
+      "flags": "on the government network;advancing",
+      "stage_sources": "UGA-029;UGA-030;UGA-031;UGA-052",
+      "gaps": "The 60.6% is a 2022 survey share of responding local governments (95 of 128 sampled districts, with 17 municipalities and 10 town councils), not of all of them, and no later share is published; the rural share is not given. The newer facts are counts with no total (61 sites in 2023, 20 districts in 2024, 13 in 2026) or concern sub-offices (25 lower local governments on SCART, Hoima's divisions), and the Vision's annex share of 74% is read from a flattened table reversed against its Table 1 (44% at 2020) and does not stand over the survey's. Finance for the connection inside the window is a Chinese loan for Phase V and unreleased World Bank funds (UGA-025, UGA-041); no domestic line for local governments is stated.",
+      "note": "NITA-U's 2022 survey states in its own words that 60.6% of local government administrations had institutional internet access, used for email, public services and, on the gender ministry's study, IFMS in all local governments: more than half, on a share whose source states the connection. Not stage 5, which needs 90 per cent on a figure within two years giving the rural share."
+    }
+  ]
+}

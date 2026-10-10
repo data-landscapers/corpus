@@ -1,0 +1,19 @@
+{
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "",
+      "use": "systems",
+      "connected": "",
+      "last12": "regressing",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "regressing;rural gap",
+      "stage_sources": "GIN-003;GIN-004;GIN-006;GIN-007;GIN-008;GIN-009",
+      "gaps": "No source states an institutional connection in use at a commune office: the only row on how offices are connected (GIN-008) is a 2022 tender for 10 pilot communes with no delivery reported, so `connected` is left empty. No count of communes working in the system is published; the newest fact (GIN-004, 2026-09-02) gives none and GIN-007 (2026-04) describes E-RENEC as a pilot's product with a diagnosis recommended before national extension, so past-pilot use outside the capital is not established. Governance rows (GIN-010, GIN-011, owner:partner, finance:donor) date from 2022-07-27, outside the 36 months, and are not carried; GIN-001 is from the excluded source. GIN-002 (use none, rural offices, 2025-11) disagrees with GIN-003 and GIN-006 on use and gives no figure for the rural gap; its statement is undated and takes the document's date.",
+      "note": "Commune registry staff work in a national civil-registration system held elsewhere (GIN-003, GIN-006), but the connection is on record only as a pilot tender and the system only as a pilot's product, which is stage 2. Stage 3 needs an institutional connection stated in use and live past its pilot outside the capital, and neither is stated."
+    }
+  ]
+}

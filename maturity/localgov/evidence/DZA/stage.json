@@ -1,0 +1,19 @@
+{
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "4",
+      "governance": "owner:ministry;finance:domestic",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "share:100%",
+      "cap": "",
+      "flags": "on the government network;advancing",
+      "stage_sources": "DZA-002;DZA-025;DZA-026;DZA-027",
+      "gaps": "The only share whose own source states the institutional connection is the interior ministry's of June 2019 (1,541 of 1,541 communes on its network); nothing since gives a numerator and denominator, the newest authorities facts (DZA-014, DZA-017) being 'all communes' with no count, and no source gives a rural share. Finance rests on one commune's own internet subscription (Bouira, September 2023, the first day of the 36-month window); the ministry's modernisation strategy (DZA-024) is dated 2021 and gives no period, so no current plan is held.",
+      "note": "Communes work in the ministry's national systems over its own network, and the ministry's own count puts all 1,541 on it, so stage 4 is met. Stage 5 needs a figure published within two years that gives the rural share; the 2019 figure is neither, and the Court of Accounts' 'all communes' of 2024 (DZA-007) states no institutional connection and no rural share."
+    }
+  ]
+}

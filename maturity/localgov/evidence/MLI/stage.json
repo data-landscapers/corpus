@@ -1,0 +1,19 @@
+{
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001;MLI-002",
+      "gaps": "The only coverage facts are from one 2014 strategy: it names 'certain communes' and not their offices, gives no number, no total, no use, no payer and does not say they lie outside the capital. The 2022 contract for the collectivités' telecommunication network (MLI-003, MLI-004) is preparation with no office said to be connected, and falls outside the 36-month governance window; nothing is dated in the last twelve months.",
+      "note": "The 2014 strategy records the connection of certain communes without saying they lie outside the capital, and the 2022 contract and 2023 launch of a network for the collectivités are preparation with no office said to be connected. Nothing shows a connection live outside the capital, so the cell takes stage 2. Restaged from 3 by the parent at L5, for consistency across cells."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "4",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "share:100%",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SLE-017;SLE-018;SLE-019",
+      "gaps": "The Ministry of Finance's report gives no rural share, states transactions processed live only for Freetown City Council, and counts 21 councils in one place and 22 in another. The internet contract was shown completed on 18 November 2025 with no count of councils served, and no source says who pays for the service afterwards; no domestic budget line is stated. The 2023 finding of personal modems in seven councils is superseded by the 2026 facts, not contradicted by a later one.",
+      "note": "One source states an internet facility provided for 21 local councils and the web-based PFM Smart live in all 21 in the first quarter of 2026, which is institutional, systems and more than half on a share with its denominator. Stage 5 is not reached because the figure gives no rural share; the cap does not apply, the ministry owning the roll-out and the 2022 strategy's action to 2027 naming local councils being current at the as-at."
+    }
+  ]
+}

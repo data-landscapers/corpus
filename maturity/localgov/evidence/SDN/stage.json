@@ -1,0 +1,19 @@
+{
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "unplaced",
+      "governance": "",
+      "use": "",
+      "connected": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No coverage fact is held: no source puts a locality office on a connection, names its use or counts the localities connected. SDN-001 is from the excluded compilation and sets nothing; SDN-002 is a meeting's recommendation of 22 November 2022 with no locality reported connected, and it falls outside the 36-month governance window.",
+      "note": "Stage 2 needs a programme being prepared or piloted, and a recommendation that Sudatel connect localities on request, at their own cost, is not one. Stage 1 needs a dated statement of absence, and none is held."
+    }
+  ]
+}

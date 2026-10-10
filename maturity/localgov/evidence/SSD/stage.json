@@ -1,0 +1,19 @@
+{
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "",
+      "authorities": "count:1",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-001;SSD-003;SSD-004",
+      "gaps": "The only evidence is one assessment of eleven of the country's local governments in late 2021: one county office, Maban, has a satellite terminal and ten have none (SSD-002 disagrees with SSD-001 on that count, office by office), and the report's own recommendations section omits Maban. No country total, no use named, who pays for the terminal not stated, and nothing on governance or the last twelve months.",
+      "note": "One county Commissioner's office outside the capital has its own satellite terminal, with no pilot or programme behind it, so the rung is 3 on a count that is a floor. No share or denominator for the country's counties is held, so stage 4 is not reached; the absence in ten assessed locations covers part of the country and sets no stage 1."
+    }
+  ]
+}

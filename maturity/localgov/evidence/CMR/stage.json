@@ -1,0 +1,19 @@
+{
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:2",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "CMR-002;CMR-004",
+      "gaps": "No share or total of communes connected is published against 360 communes and 14 urban communities (CMR-001, CMR-012 give none); the count of two is a floor from one region's monitoring of six sites. The connection is unstable at Bétaré-Oya, whose payer is not stated, and Bertoua 1er's budget line is the only statement of who pays; no use is named, so it is read as internet, and no office is said to work in a national system held elsewhere. Governance disagrees: the commune's own budget line (CMR-003) stands beside PATNUC's World Bank loan (CMR-011), DIGI-CoR still seeking finance (CMR-007) and the GIZ-run pilot of 2023 (CMR-016, CMR-017).",
+      "note": "An internet connection is stated at two commune offices outside the capital in August 2026, one budgeted by the commune itself, which meets stage 3 on a count with no total. Stage 4 needs more than half on a share or a count with its denominator, and DIGI-CoR and PATNUC component 2 are programmes with nothing deployed."
+    }
+  ]
+}

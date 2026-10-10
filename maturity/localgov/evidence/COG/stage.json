@@ -1,0 +1,19 @@
+{
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "plan:current;finance:donor",
+      "use": "",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "COG-001;COG-002;COG-004",
+      "gaps": "No source says any town hall is connected: no count, share or place is given, and no use over a connection is named. `institutional` describes the connection the programme is to provide, not one in service. Owner is not held: the only owner fact (COG-007) is of May 2022, outside the 36 months, and the 2022 appraisal's plan (COG-006) gives no period; plan:current rests on the 2026 work plan and budget in COG-003.",
+      "note": "The steering committee of 26 February 2026 asked for internet access to town halls to be continued and intensified, which is a programme in preparation. Stage 3 needs a connection live in some local governments outside the capital, and none is stated."
+    }
+  ]
+}

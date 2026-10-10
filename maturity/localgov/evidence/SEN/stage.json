@@ -1,0 +1,19 @@
+{
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:400",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SEN-029;SEN-030;SEN-031;SEN-025;SEN-026;SEN-004;SEN-039;SEN-040",
+      "gaps": "No share of communes connected is established: the 400 interconnected centres (235 in service in August 2025) are civil-status centres counted without a total of centres or of communes, and the ANEC director general said on 27 April 2026 that in some centres the circuit was never completed and elsewhere it is very slow (SEN-007 disagrees with SEN-004 and SEN-040). The communal land offices had no connection and no SIFCOM in November 2025 (SEN-019, SEN-044; the 24.7% is communes covered by that project, not connected), the Bignona town hall is one office with no system named, and the Starlink licence suspension of 7 September 2026 (SEN-003, coded regressing) is not said to have cut any office's link; who pays for the centres' links after the donor programme closed is not stated.",
+      "note": "Commune-run civil-status centres outside the capital work in the national register over a network the state company installed, which is live and past pilot. The count is a floor with no total, so no share with a denominator carries the cell to stage 4."
+    }
+  ]
+}

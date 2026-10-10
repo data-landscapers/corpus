@@ -1,0 +1,19 @@
+{
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "use": "",
+      "connected": "",
+      "last12": "advancing",
+      "authorities": "",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "CAF-001;CAF-004",
+      "gaps": "No row states any mairie's office connected, how, or what staff do over it, and no count or share of communes is held; the three coverage aspects are empty. The universal service fund was not yet in operation on 15 April 2026, and there is no dated statement that local government offices have no connection of their own.",
+      "note": "The universal service fund, whose framework provides for broadband in mairies, was being set up in 2026 and had connected none: a programme in preparation, which is stage 2. Stage 3 needs an institutional connection live in some local governments outside the capital, and no row states one."
+    }
+  ]
+}

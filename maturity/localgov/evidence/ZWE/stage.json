@@ -1,0 +1,19 @@
+{
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;finance:domestic",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZWE-001;ZWE-002;ZWE-003;ZWE-007;ZWE-010",
+      "gaps": "No row says a local authority's office is connected and in use: the 250 Starlink kits of July 2025 were handed over with installation still to come, the 104 Masvingo kits are one total for schools, clinics and local authorities with no council count and no statement that they are activated, and Manyame's connection is not said to be live. No plan naming the connection of local authorities is held, the domestic finance is one council's own budget (the national donation's finance is not stated), and no national count or share of councils connected is published.",
+      "note": "Kits handed over or distributed under a connection programme and not said to be in use at a council office are preparation, so the cell is stage 2. Stage 3 needs a connection stated live in some local governments outside the capital, and no fact puts one at an office."
+    }
+  ]
+}

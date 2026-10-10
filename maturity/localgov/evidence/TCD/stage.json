@@ -1,0 +1,19 @@
+{
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:23",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TCD-002;TCD-006;TCD-007;TCD-010",
+      "gaps": "No source says a commune's link is in service: the 23 Starlink kits and subscriptions are reported as handed over (TCD-006, TCD-007), and 23 is a count with no national total of communes. TCD-005 lists municipalities among the points sending civil registration data by SMS, with no count, no place outside the capital, no statement that it is past a pilot and no connection provided to the office. TCD-001's plan is for 2027 and TCD-002 gives no period, so plan:current rests on a project whose dates the facts do not state.",
+      "note": "Stage 2: a connection programme has delivered kits to 23 provincial-capital communes, which is preparation until a source says the links are in use. Stage 3 needs offices outside the capital live on a connection or working in a national system at their own offices, and no fact states either."
+    }
+  ]
+}

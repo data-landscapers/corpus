@@ -1,0 +1,19 @@
+{
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-004;RWA-005;RWA-014;RWA-015;RWA-021",
+      "gaps": "No source gives a share or a count of district offices connected, and none says in its own words who provides or pays for a district office's connection: the only explicit statement is the 2012 instruction (RWA-026), which prescribes and reports no office as connected, so `institutional` rests on district offices working in national systems. The government network linking districts is a plan (RWA-011), cells are reported without internet (RWA-006, RWA-008) but are sub-offices, and no dated event on district offices falls in the twelve months.",
+      "note": "District offices work in national systems held elsewhere (civil registration in 2024 and 2025, IFMIS, building permits), which is live use outside the capital. Stage 4 needs a share of districts from a source that also states the institutional connection, and none is published."
+    }
+  ]
+}

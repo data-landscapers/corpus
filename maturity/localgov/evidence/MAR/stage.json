@@ -1,0 +1,19 @@
+{
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "use": "systems",
+      "connected": "none",
+      "last12": "",
+      "authorities": "equipped:60.9%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001;MAR-002;MAR-006;MAR-010;MAR-015",
+      "gaps": "No fact states a connection provided to the commune office: MAR-001 and MAR-006 name the platforms and say outright that the municipalities' connection is not stated, and the only fact on the connection (MAR-015, 2016, a belief with no statistics, about civil registry offices) is `none`, which disagrees with the systems use reported in 2025 and 2026. The authorities facts disagree too: 969 of 1,590 is a deployment of GIR-CT across all tiers in 2020, and the newer figures (over 91, 59 of 97, more than 100) are counts within programmes with no national total of communes. No plan with a period is held, and no dated event falls in the twelve months.",
+      "note": "Municipalities work in national systems past any pilot and outside the capital (Rokhas in over 91, the revenue system in more than 100), which reaches stage 3 under the study's rule on work in a national system. No fact states how the offices are connected, and no share of communes with its total is given, so no rung above 3 is reached. Restaged from 2 by the parent at L5, for consistency across cells."
+    }
+  ]
+}

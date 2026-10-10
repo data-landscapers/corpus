@@ -1,0 +1,19 @@
+{
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "none",
+      "last12": "advancing",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "CIV-007;CIV-010;CIV-012;CIV-013;CIV-016;CIV-017",
+      "gaps": "No source states a town hall (mairie) connected and in use: PADCI's connection of mairies is planned for 2025-2030 with no count, and the EU-funded CIVIPOL town-hall project is called ongoing with no office said to be on it. CIV-018 (systems: birth data sent in real time to civil-status offices in mairies) and CIV-016 (targeted mairies have no internet) disagree, and CIV-018 does not describe the mairie's own connection; CIV-016 speaks of the mairies the component targets, not of all, so it is not a statement of absence.",
+      "note": "A financed programme to connect mairies is being prepared, which is the stage 2 row. Stage 3 needs an institutional connection live in some local governments outside the capital, and no fact states one."
+    }
+  ]
+}

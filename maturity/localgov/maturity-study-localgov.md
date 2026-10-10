@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-localgov.md — the fifth maturity study: ICT infrastructure for local government, as the office's connection
 last_reviewed: 2026-10-10
-status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 closed, waiting on notes-for-osint 224
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; staged as at 2026-09-30; being written
 ---
 
 # Maturity study: localgov — office connection
@@ -81,6 +81,8 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 
 **Fixed at L3** (`ladder-test.csv`, `corrections.csv`): every rung is reached. A share places above stage 3 only where its own source states the `institutional` connection. A network's coverage of areas is `backbone`. A count of offices, centres or sites is a floor without its total. A connection announced is preparation. The basic tier is the one the country counts as its local governments; sub-counties, sectors, cells and wards are sub-offices. A ministry's local sector office is `central`.
 
+**Fixed at L5.** Local governments working in a national system held elsewhere, past any pilot and outside the capital, reach stage 3 with the connection not stated, and no higher. A connection handed over and not said to be in use is preparation.
+
 ## 5. The norm
 
 The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentralisation charter of 2014, Article 16(2): local governments "shall be provided with the required human, financial and technological resources", and ICT "shall be made accessible and effectively used". Its reference measure is the United Nations' Local Online Services Index.
@@ -98,18 +100,11 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentr
 - [x] **L2. Review all 54 countries**, method §4: 4,154 documents, 607 facts.
 - [x] **L3. Test and fix the ladder**: 2 at stage 5, 1 at 4, 29 at 3, 8 at 2, 1 at 1; 9 facts withdrawn.
 - [x] **L4. Search and hand over**, method §5: 59 documents, `notes-for-osint` 224.
-- [ ] **L5. Re-read and stage.**
+- [x] **L5. Re-read and stage**: 52 of 59 admitted; as at 2026-09-30; agreement 18 of 20.
 - [ ] **L6. Write, render and lint.**
 - [ ] **L7. Report to Bill.**
 
-**The rulings of L1**, CC's proposals, run unamended:
-
-1. **The office's connection only.** Equipment, websites and public access are noted.
-2. **Only this row is redrawn.** The records row stands and takes the application evidence.
-3. **The basic tier, elected or appointed.** States, provinces and regions are noted; ministries' field offices are out.
-4. **Working online in a national system counts as a connection.**
-5. **Stage 5 needs `systems` use.** Staff's own phones place nothing.
-6. **A connection in the capital city only is stage 2.**
+**The rulings of L1**, CC's proposals, run unamended: the office's connection only; only this row redrawn; the basic tier, elected or appointed; working online in a national system counts as a connection; stage 5 needs `systems`; a connection in the capital only is stage 2.
 
 ## Boundary
 

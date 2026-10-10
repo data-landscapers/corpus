@@ -1,0 +1,19 @@
+{
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:12",
+      "cap": "",
+      "flags": "on the government network;advancing",
+      "stage_sources": "BEN-022;BEN-023;BEN-024",
+      "gaps": "No cumulative total of mairies on the national administration network is published: 12 is the number added in 2024, beside 77 communes, and the same source names no system the staff work in over it. The facts disagree in three places: the newest authorities fact (BEN-021, count:1, Parakou in e-Foncier) and the systems facts state no connection; Bantè is called a pioneer commune still to be connected in July 2026 (BEN-003, BEN-005); and the newest last12 fact (BEN-001, regressing) is a one-day failure in Cotonou's arrondissement offices, sub-offices that do not carry the tier, while the newest finance fact (BEN-007) states nothing against the 2024 sovereign-issue line (BEN-025).",
+      "note": "Twelve town halls used the services of the state's network in 2024, an institutional connection live beyond the capital, which meets stage 3. Stage 4 needs more than half on a share or a count with its denominator, and 12 additions in one year with no cumulative total is a floor."
+    }
+  ]
+}

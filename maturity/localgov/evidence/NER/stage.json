@@ -1,0 +1,19 @@
+{
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:none;finance:donor",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:266",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "NER-001;NER-004;NER-005",
+      "gaps": "No total of communes is given beside the 266, and that fact names communes, not their offices; the fact naming the mairies (NER-001) is a reception ceremony with no number and no use stated. The civil status register is operational in 102 communes (NER-009, NER-010, the newer count) but is not said to be reached online, so it sets neither the count nor `systems` use; no use over the connection is named.",
+      "note": "Broadband is reported extended to 266 communes and the mairies' connectivity was received on 6 May 2026, outside the capital and past a pilot. Stage 4 needs a share or a count with its denominator from a source that puts the offices themselves on the connection; here the count is a floor and is worded as an area."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:11",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "AGO-001;AGO-002;AGO-003;AGO-007",
+      "gaps": "No fact says how the counters at municipal seats are connected: AGO-007 says its source is silent, and the one institutional connection in words (AGO-001, the ministry's V/SAT antennas) is for commune seats, which are sub-offices, and was still to be installed on 14 August 2026. No national count of municipalities with a working counter: AGO-003 gives 11 in one province, AGO-008 gives 254 counters that were to be working, a count of counters with no total of municipalities, and the two disagree. Finance is not stated for the counter network; the only funder named (AGO-016, a World Bank loan) is for a broadband programme not yet designed.",
+      "note": "Staff at counters housed in municipal administrations work in the national adult-citizens database outside the capital (Zaire, 11 municipalities), which under ruling 4 states a connection used for systems. Stage 4 needs a share or a count with its denominator from a source that also states the institutional connection, and there is only a one-province count."
+    }
+  ]
+}

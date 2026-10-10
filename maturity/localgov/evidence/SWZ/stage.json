@@ -1,0 +1,19 @@
+{
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic;finance:donor",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:1",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SWZ-017;SWZ-018;SWZ-019",
+      "gaps": "No source gives a share or a total: one urban council outside the capital, Ezulwini, reports its own office internet line (year to March 2024), and Mbabane, the capital's council, pays for internet (year to March 2023). No Tinkhundla centre is reported connected; the newest authorities facts (SWZ-006, SWZ-010, count:38) are a planned target for a 2027 rollout and SWZ-005 gives none connected under that project, so they set nothing and disagree with the councils' count only in subject. No national or shared system is named as worked in over the connection.",
+      "note": "Stage 3 on a live, council-paid internet line at one town council outside the capital, a count with no total. Not stage 4: no share or count with a denominator, and the Tinkhundla connection is in preparation, its loans not yet effective at the as-at."
+    }
+  ]
+}

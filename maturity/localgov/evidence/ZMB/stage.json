@@ -1,0 +1,19 @@
+{
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "4",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "share:100%",
+      "cap": "",
+      "flags": "on the government network;advancing",
+      "stage_sources": "ZMB-015;ZMB-016;ZMB-017;ZMB-021;ZMB-022;ZMB-029;ZMB-030",
+      "gaps": "No figure gives the rural share, so the 116 of 116 that Smart Zambia stated in March 2026 cannot reach stage 5. That figure disagrees with later facts: Sinazongwe Town Council was reported as receiving its connection in August 2026 under a programme that still 'seeks to connect' all 116 councils, and North-Western Province's councils were announced connected in July 2026; the budget address of September 2025 counted 93 of 116. Use in a national system is not stated in so many words as done at the council office (the CDF system's data entry 'across councils', and a 2023 survey's e-procurement), and the financing is the plan's stated intention, not a budget line for council connections.",
+      "note": "More than half of the 116 councils are on the government's own network on a share whose source states the institutional connection, and on the lowest reading 93 of 116 still are. Stage 5 needs a figure giving the rural share and systems use stated at the office, and neither is held."
+    }
+  ]
+}

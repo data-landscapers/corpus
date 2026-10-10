@@ -1,0 +1,19 @@
+{
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "no-change",
+      "authorities": "count:174",
+      "cap": "",
+      "flags": "on the government network",
+      "stage_sources": "TZA-005;TZA-006;TZA-007;TZA-015",
+      "gaps": "No source gives a share of councils whose own offices are institutionally connected: the 174 district councils working in WEZESHA (TZA-006) come with no total and no statement of how the offices are connected, and GovNet's 265 connected bodies (TZA-015/016, February 2024) are not split between MDAs and LGAs. The newer connection fact (TZA-019, May 2026) reports staff buying their own bundles, but for Geita Region only, so it disagrees with TZA-015 without carrying the country; the newest authorities fact (TZA-002) is not-published, for e-Ardhi alone.",
+      "note": "Councils work in national systems held elsewhere (WEZESHA in 174 district councils past a 10-council pilot, TAUSI, NeST) and LGAs are on GovNet, which is stage 3. Stage 4 needs a share over half from a source that itself states the institutional connection; the 174 is a count without its total in a source silent on the connection, and the GovNet figure is undivided."
+    }
+  ]
+}

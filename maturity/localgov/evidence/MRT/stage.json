@@ -1,0 +1,19 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "",
+      "use": "systems",
+      "connected": "",
+      "last12": "",
+      "authorities": "equipped:90%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-001;MRT-002",
+      "gaps": "No row states how the offices of the communes are connected: the January 2025 PEFA assessment says the authorities use SIGeL and that it was deployed in 90 per cent of 232 authorities (13 regions and 219 communes) at the end of 2023, and states no connection. The 90 per cent is a share with the system deployed, regions included, not a share connected; no owner, plan or finance of a connection is held, and nothing is dated inside the twelve months to 2026-09-30.",
+      "note": "The communes execute their budgets in the national local finance system, deployed in 90 per cent of authorities at the end of 2023 and read in real time by the central directorates, which reaches stage 3 under the study's rule on work in a national system. The share is of the system deployed and its source states no office connection, so no rung above 3 is reached. Restaged from 2 by the parent at L5, for consistency across cells."
+    }
+  ]
+}

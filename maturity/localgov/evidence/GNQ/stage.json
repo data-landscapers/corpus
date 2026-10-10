@@ -1,0 +1,19 @@
+{
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "1",
+      "governance": "",
+      "use": "none",
+      "connected": "none",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-001;GNQ-002",
+      "gaps": "The statement of absence is about the government's central network not extending to local government branches, and does not rule out every other connection an office might hold; it carries no date of its own and stands on the document's published year, 2024. No owner, plan or finance is held, no count or share of local governments, and no event inside the twelve months to 2026-09-30.",
+      "note": "A 2024 source states the government network does not reach local government branches and that the local level works on manual systems for want of infrastructure, which is the ladder's dated statement of absence. Stage 2 needs a programme to connect local governments being prepared or piloted, or a connection in the capital, and no row states either."
+    }
+  ]
+}

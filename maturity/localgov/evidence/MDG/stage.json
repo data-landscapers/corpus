@@ -1,0 +1,19 @@
+{
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "share:10%",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MDG-014;MDG-015;MDG-016;MDG-002;MDG-003",
+      "gaps": "The 10 per cent of 1,695 communes with a secure connection to the SIFC is a baseline marked 'to be verified' and carries no year; where those communes are is not stated. The newer count, 336 communes using SIECM in December 2025, comes from a source that does not say how the offices are connected or, in words, that they work online, and is given against a project target, not the national total. The 38 Greater Antananarivo communes were handed internet boxes and a subscription in April 2025; that is the capital area only and a handover. Nothing dated in the window states a rural gap; the only such statement is from the excluded source (MDG-001).",
+      "note": "A minority share with an institutional connection stated in its own source, used for a State system, and a larger count of communes working in SIECM beyond the capital's 38, meet stage 3. Stage 4 needs more than half on a share or a count with a denominator, and the only share is 10 per cent."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;finance:not-stated",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:45",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "COD-001;COD-002;COD-003",
+      "gaps": "No source says any chiefdom, sector or commune office is working over a connection: the Starlink kits in Haut-Uélé are reported handed over on 17 March 2026, not installed or in use, and who pays the subscription is not stated. The 45 is a count of entities given kits in one province, with no total of entities, and no plan naming the connection of local governments or budget line is on record.",
+      "note": "Stage 2 because the only connection evidence is kits handed to 45 chiefdoms and sectors of one province, which is preparation until a source says they are in use. Stage 3 needs an institutional connection live in some local government offices outside the capital, and none is stated."
+    }
+  ]
+}

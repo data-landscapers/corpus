@@ -1,0 +1,19 @@
+{
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "",
+      "use": "systems",
+      "connected": "",
+      "last12": "",
+      "authorities": "count:3",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001;DJI-002",
+      "gaps": "No fact states how the commune civil-status centres are connected or who provides and pays for the link, and none places a local government office outside Djibouti city on a connection. No total of local governments nationally is given, and nothing is held on governance or on the twelve months to the as-at.",
+      "note": "The three commune civil-status centres working in SIGEC at February 2024 are all in the capital, and a connection in the capital only is stage 2. Stage 3 needs an institutional connection live in local governments outside the capital, which no row states."
+    }
+  ]
+}

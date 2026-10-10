@@ -1,0 +1,19 @@
+{
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "",
+      "use": "systems",
+      "connected": "",
+      "last12": "",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001;SOM-002;SOM-003",
+      "gaps": "No row states how any municipal office is connected, or that municipal staff work in the finance systems at their own offices; no count or total of municipalities is given. Nothing is dated inside the 36 or 12 months to the as-at, and the 2019-2024 policy's period has ended, so governance and the last twelve months hold nothing.",
+      "note": "Stage 3 needs an institutional connection live in local governments outside the capital; the 2022 diagnostic says the finance systems are 'implemented in' all municipalities without stating the offices' connection or where staff work. What is held is that and a 2019 policy target of internet access for all local authorities, which is preparation."
+    }
+  ]
+}

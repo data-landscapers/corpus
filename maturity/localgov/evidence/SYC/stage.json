@@ -1,0 +1,19 @@
+{
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "",
+      "use": "internet",
+      "connected": "",
+      "last12": "",
+      "authorities": "count:27",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-001;SYC-002",
+      "gaps": "How the district administration offices are connected is not stated: the directory of 1 March 2025 gives each of 27 offices a gov.sc mailbox and names no connection provided to the office, and no office is said to be on the government network. The count has no total of districts beside it, no system worked in is named, and nothing is held on governance or on the twelve months to the as-at.",
+      "note": "Stage 3 needs an institutional connection read from the fact's words, and an office mailbox on the government domain does not state one; the use is email only, so ruling 4 does not apply. The cell takes the rung below, where the connection may be not stated, though no programme or pilot is on record."
+    }
+  ]
+}

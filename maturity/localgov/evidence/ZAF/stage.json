@@ -1,0 +1,19 @@
+{
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:1",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZAF-003;ZAF-012",
+      "gaps": "No source gives a share or a count of municipalities connected against the national total; the one count is a single metro. How the offices working in the Eastern Cape disaster system and the rural Limpopo offices are connected is not stated, and the only institutional connection on record is one metro's network upgrade at its first phase with the last-mile provider not yet appointed. The governance values are that metro's own, its three-year plan's period is not given, and the AARTO fact does not say the integration is done at municipal offices.",
+      "note": "Municipalities across the Eastern Cape work in a shared system held by the state IT agency, live since November 2025 and past any pilot, which reaches stage 3 with the office connection unstated. Stage 4 needs more than half of municipalities on a share whose own source states the institutional connection, and no share is held."
+    }
+  ]
+}

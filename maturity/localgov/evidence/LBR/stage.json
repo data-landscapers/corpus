@@ -1,0 +1,19 @@
+{
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "unplaced",
+      "governance": "",
+      "use": "",
+      "connected": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No row states whether any county Superintendent office is connected, how, what it does over the connection or how many are. The only two rows are governance facts dated 2019-10-31, outside the 36 months to the as-at, from a policy whose 2019-2024 period ended before it; no dated statement of absence is held either.",
+      "note": "Stage 2 needs a programme being prepared or piloted at the as-at, and the one target on record belongs to a policy that expired in 2024 with its status undated. Stage 1 needs a dated statement that the offices have no connection of their own, and none is held."
+    }
+  ]
+}

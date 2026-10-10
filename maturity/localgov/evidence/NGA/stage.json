@@ -1,0 +1,19 @@
+{
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:vendor;plan:current;finance:donor",
+      "use": "internet",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "count:510",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "NGA-012;NGA-013;NGA-014;NGA-020;NGA-021;NGA-022",
+      "gaps": "The 510 is a count of local government administration offices with no total of offices and no number of local governments, unchanged from July 2025 to 17 December 2025; where the offices are, who provides or pays for the connections and what is done over them are not stated. The 96% of 13 November 2025 (NGA-031) names local government areas on a health ministry platform and not the office, and its source states no institutional connection, so it disagrees with the count and sets nothing; the DHIS2 entry at LGA offices (NGA-032, NGA-033) is dated 2024 and 2021, names no connection and gives no number. On owner the rows disagree: ministry as implementing agency at 24 July 2026, a majority-private company, not yet incorporated, in the August and September 2026 rows; no domestic budget line is stated.",
+      "note": "Offices are counted as connected to broadband, institutionally, on a count with no total, which is the stage 3 row; stage 4 needs more than half on a share or a count with a denominator from a source that states the institutional connection. The advancing events of the twelve months are Project BRIDGE's financing and timetable, with no office yet connected by it."
+    }
+  ]
+}

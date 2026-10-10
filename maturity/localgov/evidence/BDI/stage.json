@@ -1,0 +1,19 @@
+{
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:partner;plan:current;finance:donor",
+      "use": "",
+      "connected": "institutional",
+      "last12": "",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-007;BDI-008",
+      "gaps": "No source reports a commune office's connection as in use: the routers for Rumonge's civil registry service were announced on 19 July 2024 and not reported delivered (BDI-001, BDI-004), so `institutional` is the kind of connection promised, not one established, and no use over it is held. The authorities facts disagree: none on the government fibre link in February 2021 (BDI-007), one commune announced in 2024 (BDI-004), and not published in 2020 and July 2026 (BDI-005, BDI-006, the latter on registration centres whose owner is not stated); the newest stands. No dated event falls in the twelve months.",
+      "note": "Stage 2 because the sector strategy to 2027 plans the extension of the fibre interconnection to the communes and one commune's connection is announced, which is preparation. Stage 3 needs a connection live in some local governments outside the capital, and no fact states one; stage 1 needs a dated statement that offices have no connection of their own, and BDI-007 speaks only of the government fibre link."
+    }
+  ]
+}

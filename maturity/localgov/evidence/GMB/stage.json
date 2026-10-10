@@ -1,0 +1,19 @@
+{
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "3",
+      "governance": "owner:ministry;finance:not-stated",
+      "use": "systems",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "share:100%",
+      "cap": "4",
+      "flags": "externally run;advancing",
+      "stage_sources": "GMB-016;GMB-017;GMB-018;GMB-014;GMB-015;GMB-020",
+      "gaps": "The 100 per cent is IFMIS implemented in all councils at the end of 2024, on a report that names eight and gives no count, says most and not all were actively using it, and states a working office connection for three; no later share exists, the 2025 and 2026 facts being counts of four and one with no total. No plan whose period includes the as-at and no domestic budget line for the councils' connections is held: the PFM Strategy 2021-2025 and the E-Government Strategy 2021-2024 have ended, the reports name no funder, and the 2023 report credits development partners. Kanifing's mayor said in August 2026 that IFMIS had not worked there for two years, which the Accountant General's Department disputes; no rural share is published.",
+      "note": "Coverage reaches stage 4, with all councils on IFMIS, most working in it and the same report stating council office connections, and not stage 5, which needs 90 per cent connected on a figure giving the rural share. The ministry owns the rollout but neither a domestic budget line nor a current plan is held inside 36 months, so the cap places it at 3."
+    }
+  ]
+}

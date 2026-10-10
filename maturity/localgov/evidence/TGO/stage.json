@@ -1,0 +1,19 @@
+{
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "systems",
+      "connected": "",
+      "last12": "advancing",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TGO-014;TGO-015;TGO-018",
+      "gaps": "No source states how any town hall is connected: the only institutional connection on record (TGO-002) is PDiMa/PANT's planned fibre to 136 town hall buildings, and TGO-018 (July 2026) says works had not begun and gives no figure for town halls connected by other means. The authorities facts disagree: none under the programme (TGO-018, TGO-001, TGO-019), a pilot in the four communes of Vo (TGO-015, May 2026) and in Golfe 3 in Grand Lomé (TGO-010, 2024), and one commune, Lacs 1, on a commune application in 2021 with no total (TGO-013).",
+      "note": "The newest facts are a national connection programme still in preparation and a civil-status platform at pilot in four communes, which is the stage 2 row. Stage 3 needs use past its pilot outside the capital: the one non-pilot fact is a single commune's own application in 2021, not a national system, with its connection not stated."
+    }
+  ]
+}

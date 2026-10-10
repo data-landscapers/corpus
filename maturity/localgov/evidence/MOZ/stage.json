@@ -1,0 +1,19 @@
+{
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "use": "none",
+      "connected": "institutional",
+      "last12": "advancing",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MOZ-001;MOZ-002;MOZ-003;MOZ-005",
+      "gaps": "No source puts a local government office on GovNet: the one fact gives about 1,000 public institutions at central level and across 141 districts, which names an area and not the office, and says many local administrations are insufficiently connected. No use over a connection is stated for any local government office, no count or share of local governments connected is published, and the basic tier is not named. The only finance on record is the donor's.",
+      "note": "Stage 2 because the evidence holds a costed 2026 programme to expand GovNet in selected districts and a network reaching districts, which is preparation and backbone coverage. Stage 3 needs a connection live and in use at local government offices outside the capital, and the use on record is none with no office named as connected."
+    }
+  ]
+}
