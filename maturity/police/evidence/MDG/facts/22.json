@@ -1,0 +1,15 @@
+{
+  "slug": "2021-02-01-apt-garde-a-vue-madagascar",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre de garde à vue",
+      "country_label": "registre de garde à vue",
+      "class": "single-function",
+      "platform": "Paper register of individual sheets with twelve headings, filled by hand in French in blue or black ink, opened anew each January",
+      "owner": "Ministère de la Sécurité Publique / Police nationale; guide produced with the Association for the Prevention of Torture",
+      "tiers": "Compulsory in every service where custody is held: police posts, commissariats and services in charge of judicial investigation; the registers and rights letters were piloted in commissariats of the greater Antananarivo region"
+    }
+  ],
+  "note": "Guide of February 2021 to the custody register, a single-function paper register (class single-function), so no fact for station records. It says custody must also be detailed in the procès-verbal but does not say how the procès-verbal or any complaint record is made."
+}

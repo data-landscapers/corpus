@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-24 Morocco's DGSN issued 4.6 million electronic national IDs in 2024 (annual report)",
+  "facts": [],
+  "systems": [
+    {"system": "E-Police", "country_label": "E-Police", "class": "public", "platform": "", "owner": "DGSN (General Directorate of National Security)", "tiers": "Online portal launched in 2024 for criminal-record requests and appointment scheduling"},
+    {"system": "E-Blagh", "country_label": "E-Blagh", "class": "public", "platform": "", "owner": "DGSN (General Directorate of National Security)", "tiers": "Online-crime reporting platform; 12,614 reports received since its June 2024 launch, per the DGSN's 2024 annual report"}
+  ],
+  "note": "Summary of the DGSN's 2024 annual report: identity cards, an identity verification platform, and two portals for the public. A portal through which the public reports or asks for a certificate is the public class. Nothing on how a station records a report or a case."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-22-mauritius-national-fintech-strategy-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Central KYC system (CKYC)", "country_label": "Central KYC system", "class": "exchange", "platform": "", "owner": "Not stated in the passages", "tiers": "Launched April 2025; a planned first phase integrates it with the Mauritius Police Force among other public institutions. Which police data is not stated"}
+  ],
+  "note": "Passages of the fintech strategy: the only police mention is a planned integration of the central know-your-customer system with the Mauritius Police Force; nothing on station records."
+}

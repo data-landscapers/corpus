@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-02-all-chiefs-tablets-digital-incident-reporting",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "President William Ruto said on 2 December 2025 that the government will digitise police records and the Occurrence Book system, as a reform still to be carried out.", "as_of": "2025-12-02", "date_precision": "day", "system": "Occurrence Book system", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The President announced on 2 December 2025 that the government itself will digitise police records and the Occurrence Book, on receiving the Interior ministry's Jukwaa la Usalama report.", "as_of": "2025-12-02", "date_precision": "day", "system": "Occurrence Book system", "class": "record"},
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "On 2 December 2025 the President announced that police records and the Occurrence Book system will be digitised; an announcement, with no date given for it.", "as_of": "2025-12-02", "date_precision": "day", "system": "Occurrence Book system", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Occurrence Book system", "country_label": "Occurrence Book", "class": "record", "platform": "", "owner": "Government of Kenya", "tiers": "Not stated; to be digitised"},
+    {"system": "Chiefs' tablets for digital incident reporting", "country_label": "", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "All chiefs nationwide, promised within six months of 2 December 2025; chiefs are administrative officers and not police"},
+    {"system": "National Police Reservists' data", "country_label": "", "class": "personnel", "platform": "", "owner": "Government of Kenya", "tiers": "Not stated; to be digitised"}
+  ],
+  "note": "The tablets are for chiefs, who are outside the study's stations. The Jukwaa la Usalama report is cited on obsolete computers and poor connectivity in remote and marginalised areas across the security and administrative sectors, with no figure for police stations."
+}

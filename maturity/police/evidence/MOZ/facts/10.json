@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-portal-do-utente-srn",
+  "facts": [],
+  "systems": [
+    {"system": "Portal do utente", "country_label": "Portal do utente - Serviço de Registos e Notariado", "class": "public", "platform": "web application (utente.srn.gov.mz)", "owner": "Serviço de Registos e Notariado", "tiers": "online, for the public; lists Registo Criminal among seven service areas in which a user fills in forms, follows processes and books appointments"}
+  ],
+  "note": "A landing page of the registry service's user portal, captured as an excerpt; it lists criminal registration as a service area and says nothing of police stations or their records, so no fact."
+}

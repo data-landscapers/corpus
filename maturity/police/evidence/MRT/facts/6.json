@@ -1,0 +1,28 @@
+{
+  "slug": "2025-12-18-ami-dgsn-wapis-62-mahatta-farliya-shurta-darak-jamarik",
+  "facts": [],
+  "systems": [
+    {"system": "WAPIS", "country_label": "منظومة جمع البيانات الشرطية (WAPIS)", "class": "identification", "platform": "WAPIS", "owner": "Direction générale de la Sûreté nationale (المديرية العامة للأمن الوطني)", "tiers": "linked to law-enforcement bodies (police, gendarmerie, customs, justice); connection finished at 62 sub-stations as of 18 December 2025: 47 police, 11 national gendarmerie, 4 customs; not yet activated, its operating manual due to enter service at the start of 2026"},
+    {"system": "advanced technical solutions for identifying wanted persons", "country_label": "حلول تقنية متقدمة للتعرف على هويات المطلوبين", "class": "identification", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "urban surveillance system", "country_label": "منظومة المراقبة الحضرية", "class": "surveillance", "platform": "", "owner": "Police nationale", "tiers": "urban; being extended"},
+    {"system": "police communications system", "country_label": "نظام اتصالات الشرطة", "class": "enabling", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "traffic security and traffic-offence system", "country_label": "نظام أمن المرور وضبط المخالفات المرورية", "class": "single-function", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "motorcycle, owner and rider registration system", "country_label": "نظام تسجيل الدراجات النارية وملاكها وسائقيها", "class": "single-function", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "AI vehicle-overload detection system", "country_label": "نظام كشف الحمولة الزائدة للمركبات بالذكاء الصناعي", "class": "surveillance", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "AI seat-belt detection system", "country_label": "نظام كشف عدم ارتداء حزام الأمان في الوسط الحضري بالذكاء الصناعي", "class": "surveillance", "platform": "", "owner": "Police nationale", "tiers": "urban"},
+    {"system": "automatic red-light offence recognition system", "country_label": "نظام التعرف الآلي على مخالفات كسر الإشارة", "class": "surveillance", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "automatic wrong-way driving recognition system", "country_label": "نظام التعرف الآلي على السير عكس الاتجاه", "class": "surveillance", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "phone-use-while-driving recognition system", "country_label": "نظام التعرف على استخدام الهاتف أثناء القيادة", "class": "surveillance", "platform": "", "owner": "Police nationale", "tiers": "at the data-gathering stage"},
+    {"system": "red list system for forged number plates", "country_label": "نظام اللائحة الحمراء", "class": "identification", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "police minor-offences system", "country_label": "نظام ضبط المخالفات البسيطة للشرطة", "class": "single-function", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "SMS notification system", "country_label": "نظام الإشعار عبر الرسائل النصية القصيرة", "class": "", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "loss-certificate system", "country_label": "نظام منح شهادات الضياع", "class": "single-function", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "firearms licence management system", "country_label": "نظام تسيير تراخيص الأسلحة", "class": "single-function", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "DNA comparison and matching system", "country_label": "نظام مقارنة ومطابقة الحمض النووي", "class": "identification", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "special archive system", "country_label": "نظام الأرشيف الخاص", "class": "", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "visa application and issue system", "country_label": "نظام استقبال طلبات التأشيرة ومنحها", "class": "border", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "residence application and issue system", "country_label": "نظام استقبال طلبات الإقامة ومنحها", "class": "border", "platform": "", "owner": "Police nationale", "tiers": ""},
+    {"system": "management system of the central office against drug trafficking", "country_label": "نظام تسيير المكتب المركزي لمكافحة تهريب المخدرات", "class": "single-function", "platform": "", "owner": "Police nationale", "tiers": "one central office"}
+  ],
+  "note": "No fact: the Director General describes WAPIS as giving units consultation and the feeding of a database of wanted persons, weapons, vehicles, identity documents and suspect, lost or reported objects, which the typology classes as identification; the document does not say stations enter complaints or cases in it. The parent may weigh the 62 connected sub-stations (47 police, 11 gendarmerie, 4 customs; no total of stations given) against that class. The eighteen other systems are listed as in use or in advanced development, with no description beyond their names."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The essay's Namibia police row states that the force's E-Policing system, in place since 2014, stores case dockets digitally and centrally, and that the stations' Customer Service Charter has cases registered on the e-policing system and manually; no figure is given.",
+      "as_of": "2014",
+      "date_precision": "year",
+      "system": "E-Policing",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's Namibia police row states that Namibian Police Force stations make the initial record on paper (occurrence books, affidavits, A1 statement forms and registers), that the physical record is the permanent one and is entered electronically afterwards, citing the force in 2012, and that station procedure is predominantly paper with digital aggregation; undated beyond that, so the essay's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "E-Policing",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "E-Policing",
+      "country_label": "e-policing system",
+      "class": "record",
+      "platform": "",
+      "owner": "Namibia Police Force (NAMPOL)",
+      "tiers": "case dockets stored digitally at the centre; stations register cases on it and manually"
+    },
+    {
+      "system": "N-ABIS",
+      "country_label": "N-ABIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "Namibia Police Force (NAMPOL)",
+      "tiers": "not stated; a biometric identification system dated 2016"
+    }
+  ],
+  "note": "The document is an AI-assisted compilation by its own header; the facts are what its Namibia police row states."
+}
