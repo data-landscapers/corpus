@@ -1,0 +1,7 @@
+# Equatorial Guinea
+
+## Station records
+
+***Noted, not assessed***. The Ministerio de Seguridad Nacional's [Proyecto de Implementación de un Sistema de Interconexión de las Comisarías de Policías and its Laboratorio Criminalístico y Anti-Drogas](<https://minhacienda-gob.com/uploads/2026/05/libro-lpge-2026-bcb5ebfc7795.pdf>), both in the state budget law for 2026; what the ministry calls its [*base de datos criminales (AFIS)*](<https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_seguridad_presenta_su_anteproyecro_para_2026_ante_el_ministerio_de_hacienda>), in its draft budget for 2026; a [database of persons prosecuted and convicted by the criminal courts](<https://upr-info.org/sites/default/files/country-document/2025-04/A_HRC_WG.6_47_GNQ_1.pdf>), an aim of the prisons directorate's action plan for 2022; the [cnedoge.gq web application for passport applications](<https://xn--embajadadeguineaecuatorialenespaa-yfd.com/orden-ministerial-por-la-que-se-establecen-los-procedimientos-para-el-pasaporte-biometrico/>), under a ministerial order of 2022; and a [national video-surveillance project with Huawei](<https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_y_huawei_concluyen_exitosamente_las_negociaciones_sobre_los_anexos_del_contrato>), whose contract annexes were negotiated on 25 March 2026.
+
+***Not held***. No source held states whether stations record reports or cases on paper or digitally, in what system, or in how many stations.

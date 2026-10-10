@@ -93,7 +93,15 @@
       "subject": "digital.rural",
       "text": "Digitalisation of rural police stations: station records",
       "indicator_id": "digital.rural--digitalisation-of-rural-police-stations-station-records",
-      "class": "record"
+      "class": "record",
+      "criteria_of": "9be7f7e04712",
+      "criteria": [
+        "A dated source states that police stations record reports and cases on paper only. A fingerprint database, a crime statistics return or an online reporting portal does not change this.",
+        "A system for stations to record reports or cases is being prepared or piloted: staff trained, equipment delivered, an agreement signed or pilot stations using it. Or one runs at headquarters or in the capital only.",
+        "Reports or cases are entered digitally, past any pilot, in some stations outside the capital; they are a minority, or no share of stations is published. A share of stations equipped or connected, however high, places here.",
+        "More than half of stations enter reports or cases digitally at the station when they are taken, into the national system. The figure is a published share, or a count given with its total.",
+        "At least 90 per cent of stations do so, for both the first report and the case file, on a figure published within the past two years. The figure gives the share for rural stations."
+      ]
     }
   ],
   "classes": [
@@ -214,5 +222,6 @@
       "slug": "2026-03-31 Africa we have a data problem",
       "why": "An AI-assisted compilation by its own header, not sourced fact (Bill, 2026-10-06). Its rows stay in evidence.csv; none enters a profile or sets a stage."
     }
-  ]
+  ],
+  "searched": "2026-10-10"
 }

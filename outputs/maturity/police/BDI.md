@@ -1,0 +1,7 @@
+# Burundi
+
+## Station records
+
+***Noted, not assessed***. The interior ministry was [developing a data platform in March 2026](<https://mininterinfos.gov.bi/vers-une-solution-numerique-innovante-de-production-et-de-gestion-des-donnees/>) to collect figures from the communes up to central level, public security among its domains, with a pilot planned for May 2026. Its report for the third quarter of 2025/26 names [software for producing driving licences](<https://finances.gov.bi/wp-content/uploads/2026/07/CANEVAS-RAPPORT_MIDCSP_2025-2026_T3.xlsx>). A [central platform for the National Police's road-safety data](<https://www.digitalbusiness.africa/transition-numerique-burundi-cap-sur-la-securite-routiere/>) was being set up in December 2025, its pilot not yet launched. The ministry's revised procurement plan for 2024/25 carries [BIF 791,990,000 for biometric career-management software](<https://armp.gov.bi/wp-content/uploads/2025/01/MININTER-PPM-Revise-1.pdf>) under police equipment. The telecoms regulator's 2017 annual report lists [emergency short numbers assigned to police services](<https://arct.gov.bi/wp-content/uploads/2022/10/rapportannuel2017.pdf>). The 2023-2033 digitalisation master plan provides for [an e-Justice system through which litigants file complaints and follow a case](<https://primature.gov.bi/wp-content/uploads/2026/06/PLAN-DIRECTEUR-DE-DIGITALISATION-2023-2033.pdf>).
+
+***Not held***. Nothing held states whether stations record reports or cases on paper or digitally, in what system, or in how many stations.

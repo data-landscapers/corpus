@@ -1,0 +1,7 @@
+# Togo
+
+## Station records
+
+***Noted, not assessed***. The [Système d'Information Policière d'Afrique de l'Ouest (SIPAO/WAPIS), managed by the Centre d'Information Policière du Togo, a national centre in Lomé inaugurated on 29 April 2022](<https://securite.gouv.tg/le-togo-se-dote-dun-centre-dinformation-policiere/>); [SAED, an automated fingerprint system installed in Togo between October and December 2024](<https://www.interpol.int/fr/content/download/22945/file/25COM00930_WAPIS_Newsletter%2027_2025-FR-LR_Optimized.pdf>); the [*registre de garde à vue*, a paper custody register handed to the investigation units of the police and the gendarmerie on 5 November 2019](<https://securite.gouv.tg/ceremonie-de-remise-des-registres-de-garde-a-vue-et-du-premier-lot-de-materiels-du-programme-sipao-wapis/>); the services the Togo Digital 2025 strategy names as [*Dépôt de plaintes* and *Demande d'extrait du casier judiciaire*](<https://thedocs.worldbank.org/en/doc/08ec213f7ddd48a1ee4a7130399d4738-0460012022/original/Strat-gie-Togo-Digital-2025.PDF>); and the [new police commissariats at Mango and Cinkassé, in the Savanes region, with vehicles, furniture and computer hardware, inaugurated by December 2025](<https://www.republicoftogo.com/toutes-les-rubriques/societe/maillage-securitaire>).
+
+***Not held***. No source held states whether stations record reports or cases on paper or digitally, in what system, or in how many stations.

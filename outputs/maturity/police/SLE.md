@@ -1,0 +1,17 @@
+# Sierra Leone
+
+## Station records
+
+**Governance, planning, finance.** The Sierra Leone Police's Strategic Development Plan 2025-2029 names [what it calls an e-Case Management System, for case tracking and processing, as key intervention 4.3, with Crime Services the responsible directorate](<https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf>). The plan says [government allocation, limited and late, remains the force's main funding](<https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf>).
+
+**Records made digitally.** The plan sets the system [against a 2024 baseline: a survey on the status of case management in 2025, implementation of its recommendations from 2026 to 2028 and an effective system as the 2029 target](<https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf>).
+
+**How the record is made.** The plan lists [a transition from a paper-based to a digital records management system among its priorities, on a 2024 baseline](<https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf>). A report of 27 July 2026 says [stationery would be kept mainly for operational work such as statement-taking and physical record-keeping](<https://thecalabashnewspaper.com/slp-embraces-digital-transformation-with-distribution-of-computers-to-local-unit-commanders/>).
+
+**Last twelve months.** The force [handed 39 laptops to Local Unit Commanders for electronic correspondence](<https://thecalabashnewspaper.com/slp-embraces-digital-transformation-with-distribution-of-computers-to-local-unit-commanders/>), as reported on 27 July 2026.
+
+**Stations doing the digital entry.** The 2025-2029 plan describes [internet connectivity as poor in most police facilities, and schedules it for the six regional headquarters in 2025 and provincial divisional headquarters in 2027 and 2028](<https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf>).
+
+***Noted, not assessed***. [The West Africa Police Information System, with 21 work stations by October 2024](<https://www.police.gov.sl/latest-news-and-events/igp-sellu-receives-equipment-for-100-wapis-work-stations-in-sierra-leone/>); [the fingerprint programme attached to it](<https://voiceofsalonenewspaper.com/interpol-wapis-afis-team-engages-sierra-leone-police-eu-delegation-to-strengthen-regional-security-cooperation/>); [a Personnel Management System under development in July 2025, and digital skills training for 1,000 officers](<https://ayvnews.com/dsti-police-partner-to-digitise-human-resource-processes/>); [39 laptops for Local Unit Commanders](<https://thecalabashnewspaper.com/slp-embraces-digital-transformation-with-distribution-of-computers-to-local-unit-commanders/>); and, in the 2025-2029 plan, [CCTV cameras in the Western Area, a digital radio system, and planned number-plate recognition, a Safe City project, a command and control centre, body-worn cameras and drones, smart police stations with apps for public reporting, a digital records management system for personnel, bar-coded badges, station internet and solar power](<https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf>).
+
+***Not held***. Whether the 2025 survey of case management was done, or any other step taken to prepare the planned system. No count of stations, and no budget for the system.

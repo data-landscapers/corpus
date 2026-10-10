@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-police.md — the fourth maturity study: rural police stations, as station records
 last_reviewed: 2026-10-10
-status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 done, 141 documents delivered under note 223; step 5 waits on it
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; staged, written and rendered; awaiting acceptance
 ---
 
 # Maturity study: police — station records
@@ -63,9 +63,9 @@ The id enters `lookups/indicators.csv` at acceptance. **`dpi.mis--justice` is no
 
 **Two forces.** Where police and gendarmerie keep separate systems, the cell is staged on the force with more stations, and the long summary states the other. The short summary names the force its figure counts.
 
-## 4. The ladder
+## 4. The ladders
 
-Tested at P3 (`ladder-test.csv`): rungs 4 and 5 are unreached on what is held, and stand. 37 countries hold nothing usable.
+Tested at P3 (`ladder-test.csv`); rung 5 is unreached and stands. **Fixed at P5**: an absence covering one town, region or function leaves the cell unplaced.
 
 **Station records**
 
@@ -102,9 +102,9 @@ The frame's anchor (`lookups/maturity-norms.csv`) is Corpus-defined: the AFRIPOL
 - [x] **P2. Review all 54 countries**, method §4: 1,932 documents, 92 slices.
 - [x] **P3. Test the ladder**: 4 at stage 3, 7 at 2, 5 at 1; 16 facts corrected (`corrections.csv`).
 - [x] **P4. Search and hand over**, method §5: 141 documents, `notes-for-osint` 223.
-- [ ] **P5. Re-read and stage**, method §6 and §7.
-- [ ] **P6. Write, render and lint**, method §8.
-- [ ] **P7. Report to Bill.** Acceptance is his.
+- [x] **P5. Re-read and stage**: 122 of 141 admitted; as at 2026-09-30; agreement 19 of 20.
+- [x] **P6. Write, render and lint**: clean.
+- [x] **P7. Report to Bill.** Awaiting acceptance.
 
 **The rulings of P1**, CC's proposals, run unamended: station records only; only the rural row redrawn; the gendarmerie counts; stage 5 needs both records; crime statistics place nothing, and routine keying at headquarters reaches stage 3.
 

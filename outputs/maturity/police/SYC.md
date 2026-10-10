@@ -1,0 +1,17 @@
+# Seychelles
+
+## Station records
+
+**Governance, planning, finance.** The vendor Winsoft, in an account published on 6 January 2025, says [the Seychelles Police Department wanted the case app and brought in Transmedia, a British Claris partner, to build it](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>), and that [the United Nations Office on Drugs and Crime funded and supported the project](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>).
+
+**Records made digitally.** The app [manages cases from start to finish and is the repository of every case recorded](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>), by Winsoft's account of January 2025. Development [began with the intake form for incident reports, the record of a single crime; digitising the Occurrence Book itself, the daily record of incidents, was listed as an enhancement to come](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>).
+
+**How the record is made.** The app [runs on desktop computers or iPads as a central resource holding every case, and officers search crimes from other districts](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>) (January 2025).
+
+**Last twelve months.** Winsoft's account of 6 January 2025 says [the department has continued to evolve its use of the app since deployment](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>).
+
+**Stations doing the digital entry.** The detective commander of Mont Fleuri station is [quoted by Winsoft, in January 2025, saying all police stations are connected](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>). The same account says [the database is bedding in at headquarters in Victoria](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>).
+
+***Noted, not assessed***. Single-function: [an eFines system for road traffic offences, in development](<https://winsoft-international.com/seychelles-police-department-chooses-the-filemaker-platform-to-aid-fight-against-crime/>) and [an eight-week pilot of video enforcement of traffic offences in Roche Caiman](<https://www.wearetech.africa/fr/fils/actualites/tech/les-seychelles-testent-un-systeme-de-controle-routier-par-video-verbalisation>). Surveillance and enabling: [digital dispatch consoles and radio communication equipment handed to the police on 8 May 2026](<https://statehouse.gov.sc/news/6964/president-witnessing-signing-to-strengthen-emergency-communication-and-inter-agency-coordination>). Enabling: [renovation of the Central Police Station and new stations on Praslin and Ile Perseverance, in the 2023 budget](<https://www.finance.gov.sc/wp-content/uploads/2025/08/BUDGET-2023-ADDRESS.pdf>).
+
+***Not held***. The number of police stations and the share of them entering their own records: the one figure is a station commander's statement that all are connected, with no year. No plan is stated, and nothing is dated in the twelve months to 30 September 2026.

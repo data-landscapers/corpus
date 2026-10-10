@@ -1,0 +1,7 @@
+# Namibia
+
+## Station records
+
+***Noted, not assessed***. Enabling: the police force's [digital mobile radios](<https://www.parliament.na/wp-content/uploads/2025/05/Vote-39-Home-Affairs.pdf>), acquired in 2024/25 to replace the analogue system. Surveillance: the planned [Smart City Project](<https://www.parliament.na/wp-content/uploads/2025/05/Vote-39-Home-Affairs.pdf>) of cameras in Windhoek and Swakopmund, as at May 2025, and the [CCTV coverage](<https://www.parliament.na/wp-content/uploads/2021/08/Vote-06-Ministry-of-Safety-and-Security.pdf>) deployed to some facilities by April 2018. Identification: [Forensic Science Services](<https://www.parliament.na/wp-content/uploads/2025/05/Vote-39-Home-Affairs.pdf>), which processed 2,898 cases in 2024/25, the [Namibian Police Criminal Record Bureau](<https://www.parliament.na/wp-content/uploads/2025/05/Vote-39-Home-Affairs.pdf>) and [N-ABIS](<https://www.parliament.na/wp-content/uploads/2021/08/Vote-06-Ministry-of-Safety-and-Security.pdf>), the force's biometric identification system, as the ministry named it in April 2018.
+
+***Not held***. The one statement that stations record by hand is a 2022 study of traffic-offence records in the Omusati region, on eight officers interviewed; nothing newer and nothing national is held. No source says what the force's e-policing system does or which stations use it, and no governance fact, station count or event of the last twelve months is held.
