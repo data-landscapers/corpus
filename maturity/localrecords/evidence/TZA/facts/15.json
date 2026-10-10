@@ -1,0 +1,20 @@
+{
+  "slug": "2025-03-27-tza-annual-general-report-for-audit-of-po-ralg-regional-administrations-an",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "PO-RALG directive of 31 January 2023 told local government authorities to install TAUSI by 31 March 2023, register all POS devices and stop collecting through LGRCIS.", "as_of": "2023-01-31", "date_precision": "day", "system": "TAUSI", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:not-stated", "fact": "The CAG says there is no budget for system implementation in 137 LGAs and recommends PO-RALG secure funding for the full rollout of TAUSI in all 184 LGAs.", "as_of": "2024", "date_precision": "year", "system": "TAUSI", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The audit reviewed bills issued through TAUSI by LGAs for the period ended 30 June 2024; the Revenue Administration Manual it cites says taxpayer records in the billing system update automatically on payment.", "as_of": "2024-06-30", "date_precision": "day", "system": "TAUSI", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The CAG says the system is designed with taxpayer databases, e-receipts and reports; it lists TZS 12.20 billion of defaulters held in LGRCIS across 26 LGAs, so LGRCIS held debtors against payers.", "as_of": "2024", "date_precision": "year", "system": "LGRCIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:16", "fact": "The CAG found 16 LGAs collected TZS 6.68 billion through LGRCIS instead of TAUSI in 2023/24 because sources such as hotel levy and building permits were not configured in TAUSI; no total is stated here.", "as_of": "2024", "date_precision": "year", "system": "LGRCIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:20", "fact": "Table 20 lists 20 LGAs with revenue collected through TAUSI but not banked in 2023/24, and 23 with LGRCIS; the count of LGAs using TAUSI is a floor.", "as_of": "2024", "date_precision": "year", "system": "TAUSI", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "equipped:25.5%", "fact": "PO-RALG implemented the TAUSI property tax module in only 47 of 184 LGAs (25.5 percent, computed from the CAG's 47 and 137), the rest relying on TANESCO collections; December 2024 reporting.", "as_of": "2024-12", "date_precision": "month", "system": "TAUSI", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "TAUSI", "country_label": "TAUSI", "class": "revenue", "platform": "", "owner": "PO-RALG", "tiers": "local government authorities; billing, POS, e-receipts, property tax module in 47 of 184 LGAs"},
+    {"system": "LGRCIS", "country_label": "Local Government Revenue Collection Information System", "class": "revenue", "platform": "", "owner": "PO-RALG", "tiers": "LGAs; discontinued by directive of 31 January 2023, still used by 16 in 2023/24"},
+    {"system": "GoT-HOMIS", "country_label": "Government of Tanzania Hospital Management Information System", "class": "", "platform": "", "owner": "PO-RALG", "tiers": "health facilities of LGAs; revenue collection of health facilities"},
+    {"system": "TANESCO electricity-meter property tax collection", "country_label": "property tax via TANESCO", "class": "central", "platform": "", "owner": "TANESCO / PO-RALG", "tiers": "from February 2024; TZS 36.26 billion remitted to PO-RALG then to LGAs"},
+    {"system": "EFD", "country_label": "Electronic Fiscal Device", "class": "central", "platform": "", "owner": "Tanzania Revenue Authority", "tiers": "receipts by suppliers"}
+  ],
+  "note": ""
+}

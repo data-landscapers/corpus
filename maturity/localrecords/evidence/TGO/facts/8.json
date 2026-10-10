@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-17-tgo-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des",
+  "facts": [],
+  "systems": [
+    {"system": "SIG Recettes", "country_label": "application SIG Recettes", "class": "survey", "platform": "", "owner": "Communes of Doufelgou 1 and Sotouboua 2 with GIZ ProDeG IV", "tiers": "communes of Doufelgou 1 and Sotouboua 2"}
+  ],
+  "note": "Project-supported censuses (Doufelgou 1, 4-11 March 2025, 597 taxpayers; Sotouboua 2, 991 taxpayers) building taxpayer files geolocated in SIG Recettes; no billing or payment recording is stated, so a survey, not a revenue system."
+}

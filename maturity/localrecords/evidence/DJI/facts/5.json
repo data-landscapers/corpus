@@ -1,0 +1,27 @@
+{
+ "slug": "2022-01-01-dji-fiches-pays-et-territoires-djibouti",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "none",
+   "fact": "The SNG-WOFI profile states local authorities are not empowered to levy taxes; in 2020 their revenue was state grants plus, for regions only, shared taxes the State transferred, so no local payer record is kept. Dated by the 2020 fiscal data; the document's own date is 2022.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "none (no local tax collection)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "none",
+   "fact": "None of the nine local authorities (five regions, Djibouti city and its three communes) collects its own taxes in 2020, per the profile.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "none (no local tax collection)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

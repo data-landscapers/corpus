@@ -1,0 +1,11 @@
+{
+  "slug": "2025-08-21-ner-100-terminaux-de-paiement-electronique-pour-niamey",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "Journal du Niger reports that on 21 August 2025 the City of Niamey's delegated administrator received 100 electronic payment terminals from the Programme Village Intelligent, to speed collection of public funds; the report states the terminals were handed over, not that they are in use or what they record.", "as_of": "2025-08-21", "date_precision": "day", "system": "terminaux de paiement electronique (TPE)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Naneye Yarda", "country_label": "Naneye Yarda", "class": "revenue", "platform": "", "owner": "Ville de Niamey", "tiers": "Niamey city"},
+    {"system": "Terminaux de paiement electronique (TPE)", "country_label": "TPE", "class": "revenue", "platform": "", "owner": "Ville de Niamey; donated by Programme Village Intelligent", "tiers": "Niamey city"}
+  ],
+  "note": ""
+}

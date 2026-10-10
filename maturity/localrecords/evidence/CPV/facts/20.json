@@ -1,0 +1,23 @@
+{
+ "slug": "2024-04-01-cpv-terms-of-reference-technical-assistance-for-the-development-and-implem",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIM 2.0",
+   "country_label": "SIM 2.0",
+   "class": "accounts",
+   "platform": "",
+   "owner": "municipalities",
+   "tiers": "every municipality"
+  },
+  {
+   "system": "SIMple administrative and financial modules",
+   "country_label": "SIMple",
+   "class": "accounts",
+   "platform": "IGRPweb on Kubernetes; NOSi hosts",
+   "owner": "UGPE (Ministry of Finance) with NOSi",
+   "tiers": "all town halls"
+  }
+ ],
+ "note": "Budget, financial, HR and contract modules (income and expenditure accounting; revenue collection and online payment integration listed as aims, no payer record stated), so classed accounts; SIM 2.0 is accounting in every municipality."
+}

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SEN,revenue,governance,qualifier,owner:vendor,2025-11,SEN-003,,"not stated: plan, finance"
+SEN,revenue,recorded,coverage,receipts,2025-11,SEN-001,,
+SEN,revenue,held,coverage,,,,,nothing held
+SEN,revenue,last12,qualifier,,,,,nothing held
+SEN,revenue,authorities,coverage,count:20,2025-11,SEN-002,,

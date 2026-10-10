@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-01-gmb-end-evaluation-report-of-the-public-finance-management-strategy-pfm-20",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The evaluation says Basse Area Council will embark on a Digital Tax Collection System (e-payment) for council revenue; no council is stated as live on it, and the report gives no count of councils recording.", "as_of": "2025", "date_precision": "year", "system": "Digital Tax Collection System (DTCS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "no-change", "fact": "The evaluation of the 2021-2025 PFM strategy reports DTCS implementation, e-payment sensitisation and valuation systems largely unimplemented in Banjul City Council, and linking DTCS to IFMIS and e-payment incomplete in KMC and Janjangbureh; digitalisation is called the weakest reform area (report dated April 2026, period to 2025).", "as_of": "2025", "date_precision": "year", "system": "Digital Tax Collection System (DTCS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "The Pillar 6 revenue reform plan says most of the funding will come from local government authorities with support from donors; no separate budget line for DTCS is stated.", "as_of": "2025", "date_precision": "year", "system": "Digital Tax Collection System (DTCS)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Digital Tax Collection System (DTCS)", "country_label": "DTCS", "class": "revenue", "platform": "", "owner": "local government authorities (councils)", "tiers": "KMC, Janjangbureh, Banjul City Council, Basse Area Council named; IFMIS link incomplete"},
+    {"system": "IFMIS (local government rollout)", "country_label": "IFMIS", "class": "accounts", "platform": "", "owner": "Ministry of Finance", "tiers": "local government authorities"}
+  ],
+  "note": ""
+}

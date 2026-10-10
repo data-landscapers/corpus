@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-25-gin-guinee-vers-une-digitalisation-des-services-communaux-de-conakry-coyah",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "A revenue-management digitalisation tool proven in Benin was presented on 25 March 2025 for a pilot in Conakry's 13 urban communes plus Coyah and Kindia; the article says the communes will experiment with it, so it is announced, not live.", "as_of": "2025-03-25", "date_precision": "day", "system": "unnamed communal revenue digitalisation tool (Benin, Dogbo)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:not-stated", "fact": "The president of Kindia's special delegation says financing remains to be found; no budget line or donor is stated.", "as_of": "2025-03-25", "date_precision": "day", "system": "unnamed communal revenue digitalisation tool (Benin, Dogbo)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "On 25 March 2025 the tool was presented at the Conakry governorate to the beneficiary communes and ministry (MATD) officials, ahead of a pilot.", "as_of": "2025-03-25", "date_precision": "day", "system": "unnamed communal revenue digitalisation tool (Benin, Dogbo)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "unnamed communal revenue digitalisation tool (Benin, Dogbo)", "country_label": "outil de digitalisation dans la gestion des recettes", "class": "revenue", "platform": "", "owner": "presented by a former mayor of Dogbo, Benin; MATD officials attended", "tiers": "pilot in 13 urban communes of Conakry, Coyah and Kindia"}
+  ],
+  "note": ""
+}

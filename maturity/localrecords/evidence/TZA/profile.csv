@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,revenue,governance,qualifier,owner:ministry;plan:current,2026-06-11,TZA-002;TZA-003,TZA-005=owner:ministry;TZA-008=owner:ministry;TZA-010=owner:ministry,not stated: finance
-TZA,revenue,recorded,coverage,register,2025-06-30,TZA-006,TZA-009=receipts,
+TZA,revenue,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-06-11,TZA-002;TZA-003;TZA-015,TZA-005=owner:ministry;TZA-012=owner:ministry;TZA-008=owner:ministry;TZA-022=owner:ministry;TZA-014=owner:ministry;TZA-010=owner:ministry;TZA-026=finance:donor,
+TZA,revenue,recorded,coverage,register,2025-06-30,TZA-006;TZA-016;TZA-017;TZA-023,TZA-013=receipts;TZA-009=receipts,
 TZA,revenue,held,coverage,shared,2025,TZA-004;TZA-007,TZA-001=paper,
 TZA,revenue,last12,qualifier,,,,,nothing held
-TZA,revenue,authorities,coverage,,,,,nothing held
+TZA,revenue,authorities,coverage,equipped:25.5%,2024-12,TZA-020,TZA-011=count:16;TZA-018=count:16;TZA-019=count:20;TZA-021=count:169;TZA-025=equipped:100%;TZA-024=count:8,

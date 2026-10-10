@@ -1,0 +1,11 @@
+{
+  "slug": "2024-08-01-mwi-policy-statement-on-land-based-revenue-modernization",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "Lilongwe City Council's policy statement says it will deploy a computerized property information management system for billing and collection of property rates, under a land-based revenue modernization activity covering four cities of Malawi; it is a plan, not a live system.", "as_of": "2024-08", "date_precision": "month", "system": "computerized property information management system (planned)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "Lilongwe City Council's policy statement says the United States has agreed to provide US$24 million in grant funding under the Millennium Challenge second compact to finance the land-based revenue modernization activity in four cities, including digital mapping, automated property records and a computerized billing system.", "as_of": "2024-08", "date_precision": "month", "system": "computerized property information management system (planned)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Lilongwe City Council property rates information management system (existing)", "country_label": "", "class": "", "platform": "", "owner": "Lilongwe City Council", "tiers": "Lilongwe City; described only as outdated and not integrated with land management or payment platforms"}
+  ],
+  "note": ""
+}

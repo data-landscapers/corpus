@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-07-tza-wataalamu-waeleza-changamoto-zitokanazo-na-halmashauri-kutotumia-mfumo",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:16", "fact": "The Chanzo, citing the CAG report for 2023/24, says 16 councils collected TZS 6.68 billion through the old LGRCIS instead of TAUSI; no total of councils is given.", "as_of": "2024", "date_precision": "year", "system": "LGRCIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "A PO-RALG (TAMISEMI) assistant director said on 10 September 2025 that collecting with the old system breached government directives to use TAUSI, which the ministry directs.", "as_of": "2025-09-10", "date_precision": "day", "system": "TAUSI", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "The PO-RALG official said some councils issue receipts that do not come from the system, mostly on produce sources using POS machines, which shows TAUSI's receipts and POS devices are the record; the old system had no tracking of staff collections.", "as_of": "2025-09-10", "date_precision": "day", "system": "TAUSI", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "TAUSI", "country_label": "mfumo wa TAUSI", "class": "revenue", "platform": "", "owner": "PO-RALG (TAMISEMI)", "tiers": "halmashauri (councils); Bahi DC collects all sources through it as of September 2025"},
+    {"system": "LGRCIS", "country_label": "mfumo wa zamani wa ukusanyaji wa mapato LGRCIS", "class": "revenue", "platform": "", "owner": "PO-RALG", "tiers": "councils; replaced by TAUSI"}
+  ],
+  "note": ""
+}

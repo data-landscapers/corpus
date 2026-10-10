@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,revenue,governance,qualifier,owner:ministry,2026-02,COG-001,COG-007=owner:ministry;COG-004=owner:ministry,"not stated: plan, finance"
-COG,revenue,recorded,coverage,register,2026-02,COG-002,COG-009=receipts,
+COG,revenue,governance,qualifier,owner:ministry;finance:domestic,2026-05,COG-014;COG-018,COG-001=owner:ministry;COG-016=owner:ministry;COG-007=owner:ministry;COG-004=owner:ministry;COG-019=owner:ministry,not stated: plan
+COG,revenue,recorded,coverage,register,2026-05,COG-002;COG-013,COG-009=receipts,
 COG,revenue,held,coverage,shared,2026-02-14,COG-006,,
-COG,revenue,last12,qualifier,advancing,2026-04-30,COG-003;COG-005;COG-011,,
-COG,revenue,authorities,coverage,pilot,2026-02-14,COG-008,,
+COG,revenue,last12,qualifier,advancing,2026-05,COG-003;COG-005;COG-011;COG-015;COG-017,,
+COG,revenue,authorities,coverage,pilot,2026-05,COG-008;COG-012,,

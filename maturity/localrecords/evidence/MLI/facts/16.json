@@ -1,0 +1,14 @@
+{
+  "slug": "2023-06-15-mli-innovation-et-finance-locale-digitalisation-de-la-gestion-des-ressourc",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "held", "value": "paper", "fact": "UNDP Mali's Accelerator Lab says market fees (droits de place) are collected manually: the collection agent goes from trader to trader and writes a receipt ticket by hand; the article states this of market fee collection in general before the Salen test.", "as_of": "2023-06", "date_precision": "month", "system": "manual market fee collection", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "In the Salen test at the commune urbaine de Koulikoro, about 100 vendors outside the market were first censused and registered in the smartphone, and each ticket issued by the collectors was entered at once in the town hall's database, so the mairie could follow daily tickets and receipts.", "as_of": "2023-06", "date_precision": "month", "system": "Salen", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "Salen is a smartphone with an integrated mini printer connected to the town hall's server; the record stays with the Koulikoro mairie.", "as_of": "2023-06", "date_precision": "month", "system": "Salen", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "Salen was tested in one commune, Koulikoro, after training its collectors, accountant and secretary general; the mairie recommended extending it to all local development taxes, and winners of the hackathon were working on that integration.", "as_of": "2023-06", "date_precision": "month", "system": "Salen", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "Salen was built by a startup that won the UNDP Mali Accelerator Lab's governance hackathon and tested with the Koulikoro mairie; no budget line or plan is stated.", "as_of": "2023-06", "date_precision": "month", "system": "Salen", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Salen", "country_label": "Salen (Bambara for market tax)", "class": "revenue", "platform": "smartphone app with mini printer linked to the mairie server", "owner": "startup, hackathon of UNDP Mali Accelerator Lab; tested with the commune urbaine de Koulikoro", "tiers": "commune urbaine de Koulikoro, about 100 vendors outside the delegated market"}
+  ],
+  "note": ""
+}

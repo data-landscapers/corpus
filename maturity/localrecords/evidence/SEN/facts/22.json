@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-01-sen-projet-terlink-la-digitalisation-des-communes-senegalaises",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "The vendor Linking Development says its Terlink municipal software includes accounting and taxation modules covering recovery and management of communal taxes; what is recorded (payers or payments only) is not stated.", "as_of": "2025-11", "date_precision": "month", "system": "Terlink", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:20", "fact": "Linking Development states that more than 20 communes in Senegal are equipped with Terlink; no total of communes is given and use is not stated. Dated to the publication month.", "as_of": "2025-11", "date_precision": "month", "system": "Terlink", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "Terlink is presented as a vendor product of Linking Development supplied to communes; no ministry owner, plan or funding is stated.", "as_of": "2025-11", "date_precision": "month", "system": "Terlink", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Terlink", "country_label": "Terlink", "class": "revenue", "platform": "all-in-one municipal management software plus communal website", "owner": "Linking Development (vendor)", "tiers": "Communes; modules for civil status, planning and land, accounting and taxation"}
+  ],
+  "note": ""
+}

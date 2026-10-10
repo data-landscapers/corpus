@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CAF,RNEC (Registre National de l'État Civil),RNEC,civil,,MATDDL / DGDEC with CIVIPOL (EU-funded MODERO),"national, fed by communes and tribunals",2026-07-20-matddl-numerisation-etat-civil-training-oubangui
 CAF,RNEC (Registre National de l'État Civil),RNEC,civil,,MATDDL / DGDEC with CIVIPOL (EU-funded MODERO),national; 45 centres in the digitisation map,2026-07-18-dgdec-etat-civil-digitalisation-egmrg
+CAF,BMI-WFS municipal revenue digitalisation,digitalisation des recettes municipales,revenue,,BMI-WFS (Ivorian firm) with the Mairie de Bangui,Bangui city,2025-12-18-caf-bangui-signature-d-une-convention-pour-la-digitalisation-des-recettes
+CAF,Bangui taxpayer census and database,base de données des contribuables,survey,,Mairie de Bangui (IT service),city centre of Bangui,2020-12-02-caf-centrafrique-la-mairie-de-bangui-modernise-la-collecte-des-taxes-aupre

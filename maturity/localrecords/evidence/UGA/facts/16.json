@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-15-uga-report-of-the-auditor-general-on-mpigi-district-local-government-for-t",
+  "facts": [],
+  "systems": [
+    {"system": "IRAS", "country_label": "Integrated Revenue Administration System", "class": "", "platform": "", "owner": "Government of Uganda", "tiers": "introduced in 2019/2020 to address local revenue leakages, poor record-keeping and payment tracking; Mpigi's own use is not stated"},
+    {"system": "E-Logrev", "country_label": "Electronic Local Government Revenue System", "class": "", "platform": "", "owner": "Government of Uganda", "tiers": "introduced in 2016/17; Mpigi's own use is not stated"}
+  ],
+  "note": "The passages name IRAS and E-Logrev as national solutions but state nothing on whether or how Mpigi uses either; the Enumeration and Registration Committees showed no evidence of listing taxpayers in 2024/25, which is not a statement about a system."
+}

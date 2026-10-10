@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-07-bdi-collecte-des-taxes-communales-kayanza-ruyigi-et-kirundo-trois-realites",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "Kayanza commune's administrator said the e-Taxe application was introduced into the commune's tax collection; what it records is not stated.", "as_of": "2026-05-26", "date_precision": "day", "system": "e-Taxe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "Only Kayanza commune is named as collecting with the e-Taxe application; the article gives no total of communes using it (Burundi has no count stated here); in Ruyigi, traders pay communal taxes by mobile phone because no Bancobu branch is near the market.", "as_of": "2026-05-26", "date_precision": "day", "system": "e-Taxe", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "e-Taxe", "country_label": "application e-Taxe", "class": "revenue", "platform": "mobile application", "owner": "Kayanza commune", "tiers": "Kayanza commune"}
+  ],
+  "note": ""
+}

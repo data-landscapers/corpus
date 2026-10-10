@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-17-mli-koutiala-lancement-du-recensement-des-equipements-marchands-pour-ameli",
+  "facts": [],
+  "systems": [
+    {"system": "Koutiala census of market equipment and taxable-matter database", "country_label": "recensement des équipements marchands, digitalisation et base de données de la matière imposable", "class": "survey", "platform": "", "owner": "civil society consortium funded by the Embassy of the Netherlands, with the commune urbaine de Koutiala", "tiers": "commune urbaine de Koutiala, ten-day census launched 12 March 2026"}
+  ],
+  "note": "A ten-day census building a taxable-base database (a survey, launched 12 March 2026); it states no system in which commune staff record payers and payments, so no revenue-class fact."
+}

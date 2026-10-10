@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-27-bdi-recettes-communales-la-commune-kayanza-plus-productive-au-cours-de-l-e",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "Kayanza's accountant said 48 of the commune's 54 collectors use POS machines to collect, with the revenue transferred digitally to the commune's account and staff only monitoring.", "as_of": "2025-06", "date_precision": "month", "system": "POS machines", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "Only Kayanza commune is named with POS collection (48 of its 54 collectors); no count of communes is given.", "as_of": "2025-06", "date_precision": "month", "system": "POS machines", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "POS machines", "country_label": "machines POS", "class": "revenue", "platform": "", "owner": "Kayanza commune", "tiers": "Kayanza commune collectors"}
+  ],
+  "note": ""
+}

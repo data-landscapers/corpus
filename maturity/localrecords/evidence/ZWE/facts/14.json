@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-17-zwe-harare-city-council-reintroduces-the-enterprise-resource-planning-syst",
+  "facts": [],
+  "systems": [
+    {"system": "Harare City Council ERP (BIQ)", "country_label": "ERP system", "class": "", "platform": "BIQ", "owner": "Harare City Council", "tiers": "City of Harare; signed up October 2025 after court action by the previous provider"}
+  ],
+  "note": "Article says Harare signed an ERP with BIQ but does not say what it records, so the system is unclassified and gives no fact."
+}

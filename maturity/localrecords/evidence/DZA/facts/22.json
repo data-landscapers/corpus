@@ -1,0 +1,8 @@
+{
+  "slug": "2022-12-19-dza-suivi-de-la-situation-financiere-des-communes-mise-en-service-d-un-sys",
+  "facts": [],
+  "systems": [
+    {"system": "système informatisé de suivi de la situation financière des communes", "country_label": "système informatisé de suivi de la situation financière de chaque commune", "class": "accounts", "platform": "", "owner": "Ministry of the Interior, Local Authorities and Spatial Planning", "tiers": "four levels: commune, daira, central administration; in service from 11 December 2022"}
+  ],
+  "note": "The system tracks each commune's month-end cash, spending and collection level through the communal treasuries; it is a finance-monitoring (accounts) system, no payer register or local-staff revenue entry stated."
+}

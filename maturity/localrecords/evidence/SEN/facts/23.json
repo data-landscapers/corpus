@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-sen-fidak-2025-presentation-de-l-outil-numerique-koom-com-pour-la-digitali",
+  "facts": [],
+  "systems": [
+    {"system": "Koom Com", "country_label": "Koom Com", "class": "central", "platform": "", "owner": "Direction generale de la Comptabilite publique et du Tresor (Treasury)", "tiers": "Communes; announced, with a first phase for the 125 urban communes holding about 80% of local resources (Treasury figure), rural communes later; Treasury accounting posts accompany the rollout"},
+    {"system": "GFILOC", "country_label": "GFILOC", "class": "accounts", "platform": "", "owner": "Treasury", "tiers": "Local authorities; described as a local accounting tool"}
+  ],
+  "note": "Treasury-built tool for a geolocated taxpayer census through to collection, announced at FIDAK 2025 with phased rollout and run with Treasury posts; read as central and announced, so no revenue-class fact. Parent may reclassify (first phase 125 urban communes, about 80% of local resources, Treasury's figure)."
+}

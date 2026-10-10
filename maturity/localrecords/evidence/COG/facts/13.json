@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-17-cog-bulletin-officiel-d-annonces-des-marches-publics-n-292",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:domestic",
+   "fact": "ACSI's general procurement notice of 4 September 2025 lists, from its 2025 investment budget, IT equipment for developing and implementing the PDRCL on behalf of the Ministry of the Interior.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "PDRCL",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The notice places the PDRCL with the Ministry of the Interior as client and ACSI as buyer.",
+   "as_of": "2025-09-04",
+   "date_precision": "day",
+   "system": "PDRCL",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PDRCL",
+   "country_label": "Plateforme de dématérialisation des recettes des collectivités locales (PDRCL)",
+   "class": "revenue",
+   "platform": "back-office, Zando Collecte field app, public web and mobile interface",
+   "owner": "ACSI for the Ministry of the Interior",
+   "tiers": "Pointe-Noire municipality, central market pilot"
+  }
+ ],
+ "note": "Bulletin n° 292 otherwise carries unrelated procurement notices; only the ACSI notice mentions local revenue."
+}

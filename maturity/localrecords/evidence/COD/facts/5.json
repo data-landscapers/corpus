@@ -1,0 +1,15 @@
+{
+ "slug": "2025-04-01-cod-building-local-government-capacity-for-property-tax-reform-in-kananga",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Moptax",
+   "country_label": "Moptax",
+   "class": "upper-tier",
+   "platform": "Baloosoft",
+   "owner": "Kasaï Central provincial government / DGRKAC",
+   "tiers": "Kananga property tax, run by the province"
+  }
+ ],
+ "note": "Moptax (property register, billing, payment, appeals) was handed over in April 2025 to the provincial government and its revenue directorate DGRKAC, not to a basic-tier local government; classed upper-tier, so no fact."
+}

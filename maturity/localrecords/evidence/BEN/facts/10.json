@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-03-ben-benin",
+  "facts": [],
+  "systems": [
+    {"system": "Taxe Foncière Unique (DGI)", "country_label": "Taxe Foncière Unique (TFU)", "class": "central", "platform": "", "owner": "Direction Générale des Impôts", "tiers": "levied for communes, 90% to communes and 10% to the centre, only where a Registre foncier urbain exists; paid at 77 CIPE tax centres"},
+    {"system": "Registre Foncier Urbain (RFU)", "country_label": "Registre Foncier Urbain", "class": "land", "platform": "", "owner": "Government, supporting the DGI", "tiers": "urban zones"}
+  ],
+  "note": "The DGI assesses, bills and collects the property tax for communes; the page states no commune-run revenue record (centrally collected)."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2020-04-17-mrt-securisation-de-la-taxe-communale-le-logiciel-el-moussahil-symbole-d-u",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "In Sebkha, a seven-week census of taxpayers found 10,564 taxpayers instead of the 2,000 officially recognised; the El Mouhassil software, launched in April 2019, issues numbered barcoded fiscal stamps, tracks each stamp from stock to sale to its payment into the commune's Treasury account, and 13 agents with tablets cover 16 sectors and scan each trader's stamp for paid, paid-this-month or overdue status.", "as_of": "2020-04", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "The Sebkha mayor describes the system as completely independent, run by the commune with its own stamps; the trace is lost when the money enters the commune's account at the Public Treasury.", "as_of": "2020-04", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "El Mouhassil is live in one commune, Sebkha (Nouakchott), since April 2019; eight others are installing it in April 2020: Tevragh Zeina, Timbedra, Nouadhibou, Boghé, Ksar, Toujounine, Arafat and Rosso; no national count of communes is given.", "as_of": "2020-04", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The commune's mayor defined the management processes and entrusted the build to a Mauritanian start-up; the commune runs the system and thanks German cooperation (GIZ) for technical expertise.", "as_of": "2020-04", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "GIZ provided technical expertise to the commune for El Mouhassil; no commune budget line for it is stated.", "as_of": "2020-04", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Collection with the new secured fiscal stamps resumed in Sebkha in January 2020; the piece reports a 500 per cent rise in communal taxes between 2018 and 2020 and installation under way in eight more communes (April 2020).", "as_of": "2020-04", "date_precision": "month", "system": "El Mouhassil", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "El Mouhassil", "country_label": "El Mouhassil / El Moussahil (le rassembleur)", "class": "revenue", "platform": "software with tablets and barcoded fiscal stamps, built by a Mauritanian start-up", "owner": "commune de Sebkha with GIZ expertise", "tiers": "commune de Sebkha live; eight other communes installing in April 2020"}
+  ],
+  "note": ""
+}

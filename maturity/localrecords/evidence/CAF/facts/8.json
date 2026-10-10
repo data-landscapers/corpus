@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-caf-bangui-signature-d-une-convention-pour-la-digitalisation-des-recettes",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The Mairie de Bangui, the capital, signed an agreement on 12 December 2025 with the Ivorian firm BMI-WFS to digitise the city's municipal revenue; no other commune is named.", "as_of": "2025-12-12", "date_precision": "day", "system": "BMI-WFS municipal revenue digitalisation", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "BMI-WFS, a firm under Ivorian law, is to run the digital collection system; its vice-president projects revenue up by over 200 per cent, and the project includes hiring and training 200 young people.", "as_of": "2025-12-12", "date_precision": "day", "system": "BMI-WFS municipal revenue digitalisation", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "The agreement to digitise Bangui's municipal revenue was signed on 12 December 2025 in the presence of the Minister of Territorial Administration and Decentralisation.", "as_of": "2025-12-12", "date_precision": "day", "system": "BMI-WFS municipal revenue digitalisation", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "BMI-WFS municipal revenue digitalisation", "country_label": "digitalisation des recettes municipales", "class": "revenue", "platform": "", "owner": "BMI-WFS (Ivorian firm) with the Mairie de Bangui", "tiers": "Bangui city"}
+  ],
+  "note": ""
+}

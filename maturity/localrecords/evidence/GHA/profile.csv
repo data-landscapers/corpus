@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,revenue,governance,qualifier,owner:ministry;finance:donor,2026-07,GHA-002;GHA-003,GHA-006=owner:vendor;GHA-010=owner:ministry,not stated: plan
-GHA,revenue,recorded,coverage,register,2026-04,GHA-005,,
-GHA,revenue,held,coverage,,,,,nothing held
-GHA,revenue,last12,qualifier,advancing,2026-07,GHA-001;GHA-007;GHA-009,,
-GHA,revenue,authorities,coverage,pilot,2026-04,GHA-004,,
+GHA,revenue,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-07,GHA-002;GHA-003;GHA-030,GHA-006=owner:vendor;GHA-010=owner:ministry;GHA-013=owner:vendor;GHA-014=finance:not-stated;GHA-017=owner:ministry;GHA-018=finance:not-stated;GHA-028=owner:partner;GHA-029=finance:donor,
+GHA,revenue,recorded,coverage,register,2026-04,GHA-005;GHA-011;GHA-020,GHA-016=receipts,
+GHA,revenue,held,coverage,shared,2017,GHA-021,GHA-027=paper,nothing dated since 2023-09-28
+GHA,revenue,last12,qualifier,advancing,2026-07,GHA-001;GHA-007;GHA-009;GHA-019;GHA-031,,
+GHA,revenue,authorities,coverage,share:3.5%,2019,GHA-022,GHA-004=pilot;GHA-012=count:1;GHA-015=equipped:43.8%;GHA-026=pilot;GHA-024=count:47;GHA-023=equipped:20.0%;GHA-025=share:17.8%,

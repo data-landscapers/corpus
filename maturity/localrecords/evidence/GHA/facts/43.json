@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-07-gha-performance-audit-report-of-the-auditor-general-on-computerised-financ",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The Auditor-General found Korle Klottey Municipal Assembly's RMAPS holds a property database, payer accounts, bills and online transactions, with property rate payers uploading property details for registration, assessment and billing before paying; findings are as at 31 December 2024.", "as_of": "2024-12-31", "date_precision": "day", "system": "RMAPS (Revenue Management and Administration Platform System)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "The audit covers one assembly, Korle Klottey, using RMAPS for property rates, one of 260 MMDAs; the system was part of the myassembly.gov programme for property rates billing across MMDAs, since suspended for implementation challenges and described as available to interested assemblies, with no count of other users.", "as_of": "2024-12-31", "date_precision": "day", "system": "RMAPS (Revenue Management and Administration Platform System)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "The Assembly acquired RMAPS as software-as-a-service developed by BlueDot Business Solutions, which management must instruct to fix the audit findings (duplicate registrations, reusable OTPs, no reporting module, dead helpdesk, no bulk bill printing).", "as_of": "2024-12-31", "date_precision": "day", "system": "RMAPS (Revenue Management and Administration Platform System)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:not-stated", "fact": "The report gives no budget line or donor for RMAPS at Korle Klottey.", "as_of": "2024-12-31", "date_precision": "day", "system": "RMAPS (Revenue Management and Administration Platform System)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "RMAPS (Revenue Management and Administration Platform System)", "country_label": "Revenue Management and Administration Platform System", "class": "revenue", "platform": "SaaS by BlueDot Business Solutions", "owner": "Korle Klottey Municipal Assembly (vendor-developed)", "tiers": "Korle Klottey Municipal Assembly; originally the myassembly.gov programme for MMDAs, suspended, available to interested assemblies"}
+  ],
+  "note": ""
+}

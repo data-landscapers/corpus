@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,revenue,governance,qualifier,,,,,nothing held
+NAM,revenue,recorded,coverage,register,2024-02,NAM-001,,
+NAM,revenue,held,coverage,local,2024-02,NAM-002,,
+NAM,revenue,last12,qualifier,regressing,2024-07-02,NAM-004,,nothing dated since 2025-09-28
+NAM,revenue,authorities,coverage,count:1,2024-07,NAM-003,,

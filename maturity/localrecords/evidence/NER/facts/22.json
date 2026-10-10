@@ -1,0 +1,12 @@
+{
+  "slug": "2024-10-03-ner-niger-ceremonie-de-lancement-de-la-plate-forme-digitale-naney-yarda",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "ANP reports that on 3 October 2024 the City of Niamey launched the Naney Yarda platform, which is to digitise the census of taxpayers with geolocation, to determine the taxable base across the city.", "as_of": "2024-10-03", "date_precision": "day", "system": "Naney Yarda", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "ANP reports that Naney Yarda was launched for the City of Niamey alone on 3 October 2024; no other commune is mentioned and no count of taxpayers recorded is given.", "as_of": "2024-10-03", "date_precision": "day", "system": "Naney Yarda", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "plan:current", "fact": "The Niamey delegated administrator calls Naney Yarda the main pillar of the city's 2025-2027 strategic plan, and the national information society agency ANSI is named as technology partner.", "as_of": "2024-10-03", "date_precision": "day", "system": "Naney Yarda", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Naney Yarda", "country_label": "Naney Yarda (Naneye Yarda)", "class": "revenue", "platform": "ANSI technology partner; blockchain, AI and big data named", "owner": "Ville de Niamey", "tiers": "Niamey city"}
+  ],
+  "note": ""
+}

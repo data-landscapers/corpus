@@ -21,3 +21,17 @@ TZA,LGRCIS,Local Government Revenue Collection Information System,revenue,,Gover
 TZA,GePG,Government electronic Payment Gateway,web,,Ministry of Finance,national,2023-03-01-govtech-maturity-index-2022-regional-brief-afe
 TZA,LGRCIS,Local Government Revenue Collection Information System,,,PO-RALG,local government authorities,2024-02-01-e-government-technology-roadmap
 TZA,Tausi Taxpayer Portal,Tausi Taxpayer Portal,,,,listed under finance services,2024-02-01-e-government-technology-roadmap
+TZA,TAUSI,mfumo wa TAUSI,revenue,,PO-RALG (TAMISEMI),halmashauri (councils); Bahi DC collects all sources through it as of September 2025,2025-10-07-tza-wataalamu-waeleza-changamoto-zitokanazo-na-halmashauri-kutotumia-mfumo
+TZA,LGRCIS,mfumo wa zamani wa ukusanyaji wa mapato LGRCIS,revenue,,PO-RALG,councils; replaced by TAUSI,2025-10-07-tza-wataalamu-waeleza-changamoto-zitokanazo-na-halmashauri-kutotumia-mfumo
+TZA,TAUSI,TAUSI,revenue,,PO-RALG,"local government authorities; billing, POS, e-receipts, property tax module in 47 of 184 LGAs",2025-03-27-tza-annual-general-report-for-audit-of-po-ralg-regional-administrations-an
+TZA,LGRCIS,Local Government Revenue Collection Information System,revenue,,PO-RALG,"LGAs; discontinued by directive of 31 January 2023, still used by 16 in 2023/24",2025-03-27-tza-annual-general-report-for-audit-of-po-ralg-regional-administrations-an
+TZA,GoT-HOMIS,Government of Tanzania Hospital Management Information System,,,PO-RALG,health facilities of LGAs; revenue collection of health facilities,2025-03-27-tza-annual-general-report-for-audit-of-po-ralg-regional-administrations-an
+TZA,TANESCO electricity-meter property tax collection,property tax via TANESCO,central,,TANESCO / PO-RALG,from February 2024; TZS 36.26 billion remitted to PO-RALG then to LGAs,2025-03-27-tza-annual-general-report-for-audit-of-po-ralg-regional-administrations-an
+TZA,EFD,Electronic Fiscal Device,central,,Tanzania Revenue Authority,receipts by suppliers,2025-03-27-tza-annual-general-report-for-audit-of-po-ralg-regional-administrations-an
+TZA,TAUSI,TAUSI,revenue,,PO-RALG,councils; also permits and business licences online,2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems
+TZA,LGRCIS,Local Government Revenue Collection Information System,revenue,,PO-RALG,councils; replaced by TAUSI,2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems
+TZA,FFARS,Facility Financial Accounting and Reporting System,accounts,,PO-RALG,"local government to ward, village and street levels",2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems
+TZA,GoTHOMIS,Government of Tanzania Health Operations Management Information System,,,PO-RALG,"1,424 health facilities, February 2023",2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems
+TZA,MUSE,Government Expenditure Management System,accounts,,,,2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems
+TZA,PlanRep,Planning and Reporting System,accounts,,PO-RALG,"local government to ward, village and street levels",2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems
+TZA,LGRCIS,Local Government Revenue Collection and Information System,revenue,,PO-RALG with participating LGAs,"8 project cities, then reported scaled to 185 mainland LGAs",2021-10-22-tza-implementation-completion-report-icr-review-tz-strategic-cities-projec

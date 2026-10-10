@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SOM,revenue,governance,qualifier,owner:partner;finance:donor,2023-09,SOM-003;SOM-010,SOM-016=owner:partner;finance:donor;SOM-021=owner:ministry;finance:donor,not stated: plan
+SOM,revenue,recorded,coverage,register,2023-09,SOM-001;SOM-004;SOM-007;SOM-008;SOM-012,SOM-018=receipts,
+SOM,revenue,held,coverage,shared,2021-06,SOM-013;SOM-019,,nothing dated since 2023-09-28
+SOM,revenue,last12,qualifier,advancing,2021-08,SOM-011;SOM-017,,nothing dated since 2025-09-28
+SOM,revenue,authorities,coverage,count:4,2022-10,SOM-005,SOM-002=pilot;SOM-006=none;SOM-009=count:5;SOM-014=count:5;SOM-015=count:9;SOM-020=not-published,

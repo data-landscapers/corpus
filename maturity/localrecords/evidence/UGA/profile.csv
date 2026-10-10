@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+UGA,revenue,governance,qualifier,owner:vendor;plan:none;finance:domestic,2024-12-24,UGA-004;UGA-005;UGA-006,UGA-011=owner:ministry,
+UGA,revenue,recorded,coverage,register,2024-03,UGA-010,,
+UGA,revenue,held,coverage,,,,,nothing held
+UGA,revenue,last12,qualifier,advancing,2024-12,UGA-002,,nothing dated since 2025-09-28
+UGA,revenue,authorities,coverage,count:9,2024-12,UGA-001,UGA-003=count:71;UGA-007=count:128;UGA-008=count:48;UGA-009=count:124,

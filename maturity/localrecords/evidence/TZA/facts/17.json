@@ -1,0 +1,13 @@
+{
+  "slug": "2021-10-22-tza-implementation-completion-report-icr-review-tz-strategic-cities-projec",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The IEG review says LGRCIS automates billing through bar codes on invoices, and by project closure taxpayers in all project cities had electronic bills and electronic receipts; before the project billing and receipts were manual.", "as_of": "2020-11-26", "date_precision": "day", "system": "LGRCIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:8", "fact": "LGRCIS was developed under the Strategic Cities Project for its 8 participating LGAs, closing 26 November 2020, where taxpayers had electronic bills and receipts.", "as_of": "2020-11-26", "date_precision": "day", "system": "LGRCIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "equipped:100%", "fact": "The ICR as reported by IEG says LGRCIS was scaled up from 8 LGAs to all 185 LGAs in mainland Tanzania; the review states no use or date for the 185, so the document's publication date applies.", "as_of": "2021-10-22", "date_precision": "day", "system": "LGRCIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "LGRCIS was developed under the World Bank-financed Strategic Cities Project (IDA credits, total cost USD 340.4 million) implemented through PO-RALG.", "as_of": "2020-11-26", "date_precision": "day", "system": "LGRCIS", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "LGRCIS", "country_label": "Local Government Revenue Collection and Information System", "class": "revenue", "platform": "", "owner": "PO-RALG with participating LGAs", "tiers": "8 project cities, then reported scaled to 185 mainland LGAs"}
+  ],
+  "note": ""
+}

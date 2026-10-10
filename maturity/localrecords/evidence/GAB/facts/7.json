@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-19-gab-gabon-ntoum-numerique-colloc-pay-un-nouvel-outil-pour-renforcer-les-re",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "A consultancy (Manager General Consulting) presented the Colloc-Pay platform to the Ntoum commune and the Komo-Mondah departmental council on 2026-06-19; no adoption is stated, and the platform is described as digitising and geolocating operators, digitising communal assets and enabling electronic payment of taxes.", "as_of": "2026-06-19", "date_precision": "day", "system": "Colloc-Pay", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Colloc-Pay", "country_label": "Colloc-Pay", "class": "revenue", "platform": "", "owner": "Manager General Consulting (vendor)", "tiers": "presented to Ntoum commune and Komo-Mondah department; not adopted per the article"}
+  ],
+  "note": ""
+}

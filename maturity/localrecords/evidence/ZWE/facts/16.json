@@ -1,0 +1,18 @@
+{
+  "slug": "2025-06-14-zwe-hit-s-erp-systems-boost-for-councils",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:15",
+     "fact": "The Harare Institute of Technology says its InstaPark parking management system is in use in 15 municipalities, with no total of municipalities given.",
+     "as_of": "2025-06", "date_precision": "month", "system": "InstaPark", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts",
+     "fact": "HIT says InstaPark lets councils collect 100 percent of parking revenue directly instead of through joint ventures with foreign firms; no register of payers is described.",
+     "as_of": "2025-06", "date_precision": "month", "system": "InstaPark", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Local Authority Digital System (LADS)", "country_label": "LADS", "class": "revenue", "platform": "38 modules incl. financial management, billing, receipting, procurement, housing, asset control, land management", "owner": "Harare Institute of Technology (vendor)", "tiers": "several local authorities; the document says many councils implement only peripheral modules and avoid the core ones"},
+    {"system": "InstaPark", "country_label": "InstaPark", "class": "revenue", "platform": "plug-and-play parking management system", "owner": "Harare Institute of Technology (vendor, annual licence fee)", "tiers": "15 municipalities"},
+    {"system": "Ndarama ERP", "country_label": "Ndarama ERP", "class": "accounts", "platform": "HIT-built ERP", "owner": "Harare Institute of Technology", "tiers": "non-municipal institutions (MMCZ, HIT, PowerTel)"},
+    {"system": "Musiyama", "country_label": "Musiyama", "class": "", "platform": "mobile ERP app for SMEs", "owner": "Harare Institute of Technology", "tiers": "SMEs"}
+  ],
+  "note": "LADS states modules but no use of its billing or receipting modules by a counted number of councils, so it gives no fact."
+}

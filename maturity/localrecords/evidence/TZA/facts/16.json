@@ -1,0 +1,16 @@
+{
+  "slug": "2023-06-05-tza-how-usaid-ps3-project-increased-efficiency-in-govt-systems",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:169", "fact": "PO-RALG's minister told the National Assembly that by February 2023, 169 councils had started to use TAUSI, which replaced LGRCIS in 2022/23; no total of councils is given in this document.", "as_of": "2023-02", "date_precision": "month", "system": "TAUSI", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "PO-RALG built TAUSI to fix problems of LGRCIS, in use from the 2022/23 financial year, with USAID PS3+ support to the revenue system.", "as_of": "2023", "date_precision": "year", "system": "TAUSI", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "TAUSI", "country_label": "TAUSI", "class": "revenue", "platform": "", "owner": "PO-RALG", "tiers": "councils; also permits and business licences online"},
+    {"system": "LGRCIS", "country_label": "Local Government Revenue Collection Information System", "class": "revenue", "platform": "", "owner": "PO-RALG", "tiers": "councils; replaced by TAUSI"},
+    {"system": "FFARS", "country_label": "Facility Financial Accounting and Reporting System", "class": "accounts", "platform": "", "owner": "PO-RALG", "tiers": "local government to ward, village and street levels"},
+    {"system": "GoTHOMIS", "country_label": "Government of Tanzania Health Operations Management Information System", "class": "", "platform": "", "owner": "PO-RALG", "tiers": "1,424 health facilities, February 2023"},
+    {"system": "MUSE", "country_label": "Government Expenditure Management System", "class": "accounts", "platform": "", "owner": "", "tiers": ""},
+    {"system": "PlanRep", "country_label": "Planning and Reporting System", "class": "accounts", "platform": "", "owner": "PO-RALG", "tiers": "local government to ward, village and street levels"}
+  ],
+  "note": ""
+}

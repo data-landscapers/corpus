@@ -1,55 +1,55 @@
 iso3,sub_indicator,rung,recorded,held,authorities,authorities_as_of,stopped_by
-AGO,revenue,no evidence,,,,,nothing held
-BDI,revenue,3,,,count:30,2026-07,what is recorded is not stated
-BEN,revenue,no evidence,,,,,nothing held
+AGO,revenue,3,register,shared,equipped:100%,2021-11-10,"a share given the system or trained, not recording"
+BDI,revenue,3,receipts,paper,count:30,2026-07,receipts with no register of payers
+BEN,revenue,2,receipts,local,pilot,2019-09-19,"a pilot, or no local government said to record"
 BFA,revenue,no evidence,,,,,nothing held
 BWA,revenue,no evidence,,,,,nothing held
-CAF,revenue,no evidence,,,,,nothing held
-CIV,revenue,no evidence,,,,,nothing held
+CAF,revenue,2,,paper,pilot,2025-12-12,"a pilot, or no local government said to record"
+CIV,revenue,2,register,shared,pilot,2025-12-09,"a pilot, or no local government said to record"
 CMR,revenue,no evidence,,,,,nothing held
-COD,revenue,no evidence,,,,,nothing held
-COG,revenue,2,register,shared,pilot,2026-02-14,"a pilot, or no local government said to record"
+COD,revenue,2,,,pilot,2024-07,"a pilot, or no local government said to record"
+COG,revenue,2,register,shared,pilot,2026-05,"a pilot, or no local government said to record"
 COM,revenue,no evidence,,,,,nothing held
 CPV,revenue,unplaced,,,,,no coverage aspect stated
-DJI,revenue,no evidence,,,,,nothing held
-DZA,revenue,no evidence,,,,,nothing held
+DJI,revenue,1,none,,none,2020,a dated statement of records on paper
+DZA,revenue,1,none,,,,a dated statement of records on paper
 EGY,revenue,no evidence,,,,,nothing held
 ERI,revenue,no evidence,,,,,nothing held
-ETH,revenue,no evidence,,,,,nothing held
-GAB,revenue,3,,,count:1,2026-07-03,what is recorded is not stated
-GHA,revenue,2,register,,pilot,2026-04,"a pilot, or no local government said to record"
-GIN,revenue,no evidence,,,,,nothing held
+ETH,revenue,2,,,pilot,2016,"a pilot, or no local government said to record"
+GAB,revenue,3,register,,count:1,2026-07-03,no share of local governments over half
+GHA,revenue,3,register,shared,share:3.5%,2019,no share of local governments over half
+GIN,revenue,2,,,pilot,2025-03-25,"a pilot, or no local government said to record"
 GMB,revenue,3,register,local,count:1,2026-06,no share of local governments over half
 GNB,revenue,no evidence,,,,,nothing held
 GNQ,revenue,no evidence,,,,,nothing held
-KEN,revenue,3,,paper,count:5,2026-02-23,what is recorded is not stated
-LBR,revenue,no evidence,,,,,nothing held
+KEN,revenue,3,receipts,local,share:70%,2020,receipts with no register of payers
+LBR,revenue,2,,,pilot,2023-06,"a pilot, or no local government said to record"
 LBY,revenue,no evidence,,,,,nothing held
 LSO,revenue,no evidence,,,,,nothing held
-MAR,revenue,3,,shared,share:60.9%,2020-05-19,what is recorded is not stated
+MAR,revenue,4,register,shared,share:60.9%,2020-05-19,under 90 per cent
 MDG,revenue,3,register,,count:1,2026-10-07,no share of local governments over half
-MLI,revenue,2,,,pilot,2026-03-06,"a pilot, or no local government said to record"
+MLI,revenue,3,register,shared,count:680,2024-07,no share of local governments over half
 MOZ,revenue,2,register,,,,no count or share of local governments
-MRT,revenue,unplaced,,,,,no coverage aspect stated
+MRT,revenue,2,register,local,pilot,2023-05-23,"a pilot, or no local government said to record"
 MUS,revenue,no evidence,,,,,nothing held
-MWI,revenue,3,register,local,count:4,2022,no share of local governments over half
-NAM,revenue,no evidence,,,,,nothing held
+MWI,revenue,3,register,local,count:1,2025-02,no share of local governments over half
+NAM,revenue,3,register,local,count:1,2024-07,no share of local governments over half
 NER,revenue,3,register,,count:1,2025-12-11,no share of local governments over half
 NGA,revenue,no evidence,,,,,nothing held
 RWA,revenue,no evidence,,,,,nothing held
 SDN,revenue,no evidence,,,,,nothing held
-SEN,revenue,no evidence,,,,,nothing held
+SEN,revenue,3,receipts,,count:20,2025-11,receipts with no register of payers
 SLE,revenue,3,register,shared,count:3,2025-12,no share of local governments over half
-SOM,revenue,no evidence,,,,,nothing held
-SSD,revenue,no evidence,,,,,nothing held
+SOM,revenue,unplaced,,,,,no coverage aspect stated
+SSD,revenue,2,register,,pilot,2022-10-04,"a pilot, or no local government said to record"
 STP,revenue,no evidence,,,,,nothing held
-SWZ,revenue,no evidence,,,,,nothing held
+SWZ,revenue,3,register,,count:1,2024-04,no share of local governments over half
 SYC,revenue,no evidence,,,,,nothing held
-TCD,revenue,no evidence,,,,,nothing held
+TCD,revenue,2,,,pilot,2025-04-02,"a pilot, or no local government said to record"
 TGO,revenue,2,,,pilot,2021-05-27,"a pilot, or no local government said to record"
-TUN,revenue,unplaced,,,,,no coverage aspect stated
-TZA,revenue,2,register,shared,,,no count or share of local governments
-UGA,revenue,no evidence,,,,,nothing held
-ZAF,revenue,no evidence,,,,,nothing held
+TUN,revenue,2,register,shared,pilot,2024,"a pilot, or no local government said to record"
+TZA,revenue,3,register,shared,equipped:25.5%,2024-12,"a share given the system or trained, not recording"
+UGA,revenue,3,register,,count:9,2024-12,no share of local governments over half
+ZAF,revenue,2,register,local,,,no count or share of local governments
 ZMB,revenue,2,receipts,paper,pilot,2026-03,"a pilot, or no local government said to record"
-ZWE,revenue,3,register,local,count:1,2026-08-08,no share of local governments over half
+ZWE,revenue,3,register,shared,count:1,2026-08-08,no share of local governments over half

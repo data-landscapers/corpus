@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-01-lby-training-programme-for-second-cohort-of-mayors-and-municipal-council-members",
+  "facts": [],
+  "systems": [
+    {"system": "Local revenues system (منظومة الإيرادات المحلية)", "country_label": "منظومة الإيرادات المحلية", "class": "", "platform": "", "owner": "Ministry of Local Government", "tiers": "21 municipalities of the second cohort of newly elected mayors given full access permissions and practical training, October 2025"},
+    {"system": "Local correspondence system", "country_label": "منظومة المراسلات المحلية", "class": "documents", "platform": "", "owner": "Ministry of Local Government", "tiers": "municipal mayors"},
+    {"system": "Local employment system", "country_label": "منظومة الوظيفة المحلية", "class": "accounts", "platform": "", "owner": "Ministry of Local Government", "tiers": "municipal mayors"}
+  ],
+  "note": "The local revenues system is named with no description of what it records, and access and training for 21 mayors is equipped at most, so no fact; the denominator of municipalities is not given."
+}

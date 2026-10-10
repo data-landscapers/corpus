@@ -1,0 +1,8 @@
+{
+  "slug": "2023-07-19-rwa-information-technology-system-for-property-tax-administration-in-rwand",
+  "facts": [],
+  "systems": [
+    {"system": "Rwanda Automated Local Government Tax Management (LGT) system", "country_label": "LGT", "class": "central", "platform": "", "owner": "Rwanda Revenue Authority", "tiers": "National; property tax for local governments, integrated with the National Land Authority, NIDA and banks"}
+  ],
+  "note": "The Rwanda Revenue Authority runs the property tax system and collects for local governments (about 30% of local government collection); class central, so no revenue-class fact."
+}

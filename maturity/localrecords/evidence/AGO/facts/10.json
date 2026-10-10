@@ -1,0 +1,12 @@
+{
+  "slug": "2021-11-17-ago-portal-do-municipe-em-risco-por-falta-de-infra-estruturas",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The Secretary of State for Finance presents the Portal do Munícipe as a Ministry of Finance tool, run with the finance ministry's SETIC-FP IT service, that the municipalities use.", "as_of": "2021-11", "date_precision": "month", "system": "Portal do Munícipe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "shared", "fact": "The Portal is a web service at municipal.minfin.gov.ao, reached through the internet, with 547 services, so the record is held in the Ministry of Finance's system and not in each municipality; the article dates the briefing to November 2021 (published 2021-11-17).", "as_of": "2021-11", "date_precision": "month", "system": "Portal do Munícipe", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Portal do Munícipe", "country_label": "Portal do Munícipe (PM)", "class": "revenue", "platform": "web", "owner": "Ministry of Finance (SETIC-FP)", "tiers": "installed in almost all of the 164 municipal seats and some communal seats"},
+    {"system": "Portal de Serviços", "country_label": "Portal de Serviços", "class": "", "platform": "", "owner": "", "tiers": "broader collections"}
+  ],
+  "note": ""
+}

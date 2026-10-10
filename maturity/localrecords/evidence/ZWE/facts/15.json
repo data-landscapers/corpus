@@ -1,0 +1,18 @@
+{
+  "slug": "2025-06-18-zimbabwe-oag-local-authorities-report-2024",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register",
+     "fact": "The Auditor-General reports that at Gwanda Municipality 27 stands sold in 2019 were still not being billed and the valuation roll was not yet finalised, which shows a billing record of stands that is incomplete.",
+     "as_of": "2024", "date_precision": "year", "system": "Gwanda Municipality stands billing", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register",
+     "fact": "The Auditor-General reports that a council whose name the extracted passages do not carry had not identified and corrected stands not yet in its billing system, and its valuation roll was not complete; its management said it was updating the stands register.",
+     "as_of": "2024", "date_precision": "year", "system": "council billing system (council not named in passages)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register",
+     "fact": "Tongogara Rural District Council's management told the Auditor-General the council maintains a register of sold stands and that an on-going valuation roll exercise will update registers of both sold and unsold stands.",
+     "as_of": "2024", "date_precision": "year", "system": "Tongogara RDC stands register", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Gweru City Council Business Licensing system", "country_label": "Business Licensing system", "class": "permits", "platform": "", "owner": "Gweru City Council", "tiers": "tested by ICT and Public Health sections, not yet cascaded to stakeholders"}
+  ],
+  "note": ""
+}

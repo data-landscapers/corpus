@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-01-uga-domestic-revenue-mobilisation-strategy-semi-annual-monitoring-report-f",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:9", "fact": "MoFPED's monitoring covered IRAS in nine cities, the tenth city, Jinja, still using e-LogRev, in the first half of FY2024/25; the report also says IRAS is being rolled out in all LGs but gives no count.", "as_of": "2024-12", "date_precision": "month", "system": "IRAS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "LG own revenue reached 37 percent of the annual budget at half-year FY2024/25, up from 24.35 percent at half-year of the FY2019/20 baseline, which MoFPED attributes to the IRAS rollout across LGs.", "as_of": "2024-12", "date_precision": "month", "system": "IRAS", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "IRAS", "country_label": "Integrated Revenue Administration System", "class": "revenue", "platform": "", "owner": "", "tiers": "LGs and cities; monitored in nine cities; cannot track street-parking contractors' collections"},
+    {"system": "e-LogRev", "country_label": "e-LogRev", "class": "revenue", "platform": "", "owner": "", "tiers": "Jinja city"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2020-07-23-som-second-public-financial-management-capacity-strengthening-project-impl",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "The World Bank ISR says market cashiering collection with SMS is implemented using the Puntland PL-FMIS, after the team completed the system's roll out to local government; it states no register of payers for local governments.", "as_of": "2020-06", "date_precision": "month", "system": "PL-FMIS (Puntland)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "shared", "fact": "PL-FMIS is the Puntland state government's financial management information system, run by the state Ministry of Finance, and was rolled out to local government as of the June 2020 reporting date.", "as_of": "2020-06", "date_precision": "month", "system": "PL-FMIS (Puntland)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "not-published", "fact": "The report says the PL-FMIS roll out to local government is complete but gives no count or share of local governments.", "as_of": "2020-06", "date_precision": "month", "system": "PL-FMIS (Puntland)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry;finance:donor", "fact": "PL-FMIS is implemented by the Puntland Ministry of Finance under the World Bank-financed Second PFM Capacity Strengthening Project (P151492), with training plans for staff being rolled out.", "as_of": "2020-07", "date_precision": "month", "system": "PL-FMIS (Puntland)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "PL-FMIS (Puntland)", "country_label": "PL-FMIS", "class": "revenue", "platform": "", "owner": "Puntland Ministry of Finance", "tiers": "state and local government (Puntland)"},
+    {"system": "SFMIS", "country_label": "Somalia Financial Management Information System", "class": "accounts", "platform": "", "owner": "Federal Ministry of Finance", "tiers": "federal"},
+    {"system": "SLFMIS", "country_label": "SLFMIS", "class": "accounts", "platform": "", "owner": "Somaliland Ministry of Finance", "tiers": "Somaliland government"},
+    {"system": "ITAS", "country_label": "Integrated Tax Administration System", "class": "central", "platform": "", "owner": "Federal and Puntland tax administrations", "tiers": "national tax administration (in procurement)"}
+  ],
+  "note": ""
+}

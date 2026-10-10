@@ -62,7 +62,7 @@ The id enters `lookups/indicators.csv` at acceptance. `dpi.pay--revenue-collecti
 
 **Aspects 2, 3 and 5 set the stage; 1 and 4 cap or flag it and never raise it. The cap rule and aspect 4 are the health study's, unchanged** (its §3).
 
-## 4. The ladder
+## 4. The ladders
 
 **Revenue records**
 

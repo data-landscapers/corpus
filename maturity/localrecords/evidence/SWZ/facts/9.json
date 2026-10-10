@@ -1,0 +1,12 @@
+{
+  "slug": "2020-12-02-swz-you-can-now-pay-rates-using-e-mali",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Manzini Municipal Council says rates were billed in April 2020 and that some property owners had not paid since, which it tracks by account and plot number; in December 2020 it added the Eswatini Mobile e-Mali wallet to MTN Mobile Money, EFT, debit order, card and cash at the Rates Hall.", "as_of": "2020-12", "date_precision": "month", "system": "Manzini rates billing", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "Only the Municipal Council of Manzini is described; no count of other Eswatini local governments is given.", "as_of": "2020-12", "date_precision": "month", "system": "Manzini rates billing", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "In December 2020 Manzini activated e-Mali as a new rates payment channel, with an airtime promotion for payments of E500 or more through 31 December 2020.", "as_of": "2020-12", "date_precision": "month", "system": "Manzini rates billing", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Manzini rates billing", "country_label": "Rates Hall and payment platforms (e-Mali, MTN MoMo)", "class": "revenue", "platform": "e-Mali, MTN Mobile Money, EFT", "owner": "Municipal Council of Manzini", "tiers": "Manzini"}
+  ],
+  "note": ""
+}

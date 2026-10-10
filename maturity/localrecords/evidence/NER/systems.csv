@@ -3,3 +3,6 @@ NER,plateforme digitale de gestion des faits d'état civil,plateforme digitale d
 NER,Naneye Yarda,Naneye Yarda (Confiance),revenue,,"Commune urbaine de Diffa, with technical support from ANSI and UNDP","commune urbaine of Diffa, the first outside the capital",2025-12-26-diffa-naneye-yarda-digital-tax
 NER,INCI,INCI,civil,,"Direction générale de l'état civil, supported by UNICEF","103 communes, 40 more being integrated",2025-05-07-actuniger-niger-revue-plan-strategique-etat-civil
 NER,Naneye Yarda,Naneye Yarda,revenue,,"Ville de Niamey, built by ANSI",City of Niamey,2025-01-29-niamey-naneye-yarda-taxes-municipales-plateforme
+NER,Naneye Yarda,Naneye Yarda,revenue,,Ville de Niamey,Niamey city,2025-08-21-ner-100-terminaux-de-paiement-electronique-pour-niamey
+NER,Terminaux de paiement electronique (TPE),TPE,revenue,,Ville de Niamey; donated by Programme Village Intelligent,Niamey city,2025-08-21-ner-100-terminaux-de-paiement-electronique-pour-niamey
+NER,Naney Yarda,Naney Yarda (Naneye Yarda),revenue,"ANSI technology partner; blockchain, AI and big data named",Ville de Niamey,Niamey city,2024-10-03-ner-niger-ceremonie-de-lancement-de-la-plate-forme-digitale-naney-yarda

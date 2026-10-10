@@ -1,0 +1,56 @@
+{
+ "slug": "2023-10-01-civ-launch-of-municipal-revenue-mobilization-project-in-cote-d-ivoire",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "The PAMREC pilot phase of about 20 months was to deploy the PROTON tax system in 19 municipalities; launch ceremony 27 July 2023.",
+   "as_of": "2023-07-27",
+   "date_precision": "day",
+   "system": "PROTON",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "PROTON is described as centralising geo-referenced taxpayer data and their payments, with collectors on mobile devices; planned for the pilot, not stated as live.",
+   "as_of": "2023-07-27",
+   "date_precision": "day",
+   "system": "PROTON",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:partner",
+   "fact": "The Revenue Development Foundation, technical partner, developed PROTON and deploys it with the DGDDL.",
+   "as_of": "2023-07-27",
+   "date_precision": "day",
+   "system": "PROTON",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:domestic",
+   "fact": "PAMREC is funded through a partnership between the Republic of Côte d'Ivoire and the African Development Bank; no split is given.",
+   "as_of": "2023-07-27",
+   "date_precision": "day",
+   "system": "PROTON",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PROTON",
+   "country_label": "PROTON",
+   "class": "revenue",
+   "platform": "RDF-developed",
+   "owner": "Revenue Development Foundation with DGDDL",
+   "tiers": "19 pilot municipalities"
+  }
+ ],
+ "note": ""
+}

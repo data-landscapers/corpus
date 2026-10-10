@@ -1,0 +1,14 @@
+{
+  "slug": "2026-05-06-bdi-butihinda-en-marche-vers-la-digitalisation-des-recettes-communales-gra",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:2", "fact": "Interbank Burundi said the IBB M+ platform had succeeded in Rumonge and Bujumbura Mairie in 2023; no total of communes is given.", "as_of": "2023", "date_precision": "year", "system": "IBB M+", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "Butihinda commune trained its planning, accounting and zonal accounting staff on IBB M+ on 5 May 2026; effective use is to start with the 2026-2027 budget year.", "as_of": "2026-05-05", "date_precision": "day", "system": "IBB M+", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "IBB M+ takes payments from traders by phone or from agents who convert cash to electronic money paid into the commune's account, with a notification per transaction to a commune officer, and keeps the data to follow revenue.", "as_of": "2026-05-05", "date_precision": "day", "system": "IBB M+", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "The platform is run by Interbank Burundi, a bank, with its call centre and agents; in areas without internet, such as Masaka zone, the classic collection system continues until further notice.", "as_of": "2026-05-05", "date_precision": "day", "system": "IBB M+", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Butihinda commune held a training on IBB M+ on 5 May 2026 ahead of use from the 2026-2027 budget year.", "as_of": "2026-05-05", "date_precision": "day", "system": "IBB M+", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "IBB M+", "country_label": "plateforme IBB M+", "class": "revenue", "platform": "", "owner": "Interbank Burundi", "tiers": "Rumonge and Bujumbura Mairie since 2023; Butihinda from 2026-2027"}
+  ],
+  "note": ""
+}

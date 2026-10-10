@@ -1,0 +1,21 @@
+{
+  "slug": "2021-10-05-zwe-digital-transformation-of-zimbabwe-local-government",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register",
+     "fact": "CLGF reports the City of Mutare's Finance Department runs LADS debt management, procurement and budgeting modules, and that its revenue collection rose from 35% to nearly 72%; the document gives no date for the change.",
+     "as_of": "2021-10-05", "date_precision": "day", "system": "Local Authorities Digital System (LADS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:6",
+     "fact": "CLGF says LADS was initially rolled out to six local authorities, with a roll-out to all local authorities under way; the document dates neither, so its publication date is used.",
+     "as_of": "2021-10-05", "date_precision": "day", "system": "Local Authorities Digital System (LADS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:partner",
+     "fact": "CLGF, with the Harare Institute of Technology and the Ministry of Local Government, rolled out LADS to its first six local authorities.",
+     "as_of": "2021-10-05", "date_precision": "day", "system": "Local Authorities Digital System (LADS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor",
+     "fact": "CLGF says the LADS roll-out came with capacity building and technical and financial support to the local authorities.",
+     "as_of": "2021-10-05", "date_precision": "day", "system": "Local Authorities Digital System (LADS)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Local Authorities Digital System (LADS)", "country_label": "LADS", "class": "revenue", "platform": "ERP and Integrated Financial Management Information System", "owner": "Harare Institute of Technology with CLGF and the Ministry of Local Government", "tiers": "six local authorities first; Mutare finance and housing departments; VPN to the National Data Centre piloted in four Harare Metropolitan Province authorities"}
+  ],
+  "note": ""
+}

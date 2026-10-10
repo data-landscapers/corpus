@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-ben-rapport-final-d-evaluation-tadat-dgi-benin-2023",
+  "facts": [],
+  "systems": [
+    {"system": "SIGIBé (Système intégré de gestion des impôts du Bénin)", "country_label": "SIGIBé", "class": "central", "platform": "", "owner": "DGI", "tiers": "national tax administration"},
+    {"system": "Registre foncier urbain (RFU)", "country_label": "RFU", "class": "land", "platform": "", "owner": "", "tiers": "named in the abbreviations only"}
+  ],
+  "note": "The passages are the TADAT report's front matter on the national tax administration (DGI); they state nothing of communes' own revenue records."
+}

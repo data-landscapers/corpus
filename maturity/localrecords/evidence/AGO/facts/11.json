@@ -1,0 +1,15 @@
+{
+  "slug": "2021-11-11-ago-ministerio-das-financas-lanca-portal-para-aumentar-nivel-de-arrecadaca",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The Portal do Munícipe holds the records and management of residents and their households and tracks the whole cycle of fees, licences and fines billed by local administrations; payment is by RUPE.", "as_of": "2021-11-10", "date_precision": "day", "system": "Portal do Munícipe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "shared", "fact": "The Ministry of Finance describes the Portal as a centralised technological solution, web-accessed, with revenue deposited in a Treasury sub-account (SUB-CUT).", "as_of": "2021-11-10", "date_precision": "day", "system": "Portal do Munícipe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "equipped:100%", "fact": "The Secretary of State for Finance said the Portal was implemented in all 164 municipalities (164 of 164, Ministry of Finance), with some telecommunications challenges for some administrations.", "as_of": "2021-11-10", "date_precision": "day", "system": "Portal do Munícipe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Finance launched and runs the Portal under Presidential Decree 47/18.", "as_of": "2021-11-10", "date_precision": "day", "system": "Portal do Munícipe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Finance officially launched the Portal do Munícipe on 10 November 2021 across the 164 municipalities.", "as_of": "2021-11-10", "date_precision": "day", "system": "Portal do Munícipe", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Portal do Munícipe", "country_label": "Portal do Munícipe", "class": "revenue", "platform": "web", "owner": "Ministry of Finance", "tiers": "provincial governments, municipal administrations, urban and communal districts"},
+    {"system": "RUPE", "country_label": "Referência Única de Pagamento ao Estado", "class": "web", "platform": "", "owner": "State", "tiers": "national payment channels"}
+  ],
+  "note": ""
+}

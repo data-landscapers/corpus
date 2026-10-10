@@ -1,0 +1,9 @@
+{
+  "slug": "2023-09-14-mli-atelier-de-formation-avancee-des-agents-de-la-dgct-sur-la-gestion-et-l",
+  "facts": [],
+  "systems": [
+    {"system": "ReCoDe", "country_label": "logiciel ReCoDe", "class": "accounts", "platform": "", "owner": "DGCT, centralising data on a DGCT server", "tiers": "collectivités territoriales' budget management, interfaced with COLLOC"},
+    {"system": "COLLOC", "country_label": "COLLOC", "class": "", "platform": "", "owner": "", "tiers": "interface with ReCoDe"}
+  ],
+  "note": "A ten-day training of seven DGCT staff on the ReCoDe council budget software (September 2023); it states nothing on revenue records."
+}

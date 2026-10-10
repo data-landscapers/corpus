@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BEN,revenue,governance,qualifier,owner:partner;finance:donor,2019-09-19,BEN-004;BEN-005,,nothing dated since 2023-09-28
+BEN,revenue,recorded,coverage,receipts,2019-09-19,BEN-002,,nothing dated since 2023-09-28
+BEN,revenue,held,coverage,local,2019-09-19,BEN-003,,nothing dated since 2023-09-28
+BEN,revenue,last12,qualifier,,,,,nothing held
+BEN,revenue,authorities,coverage,pilot,2019-09-19,BEN-001,,nothing dated since 2023-09-28

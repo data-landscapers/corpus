@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-14-bwa-access-bank-gaborone-city-council-gosmartvalue-launch-property-rate-pa",
+  "facts": [],
+  "systems": [
+    {"system": "PayRates", "country_label": "PayRates", "class": "web", "platform": "online platform", "owner": "GoSmartValue (developer), with Access Bank Botswana and Gaborone City Council", "tiers": "Gaborone City Council"}
+  ],
+  "note": "PayRates is described as an online property-rate payment platform with reminders and payment history for owners; the article does not say the council's own staff record payers and payments in it, so it is a payment channel (web)."
+}

@@ -1,0 +1,132 @@
+{
+ "slug": "2021-07-01-civ-pilot-support-project-for-the-mobilisation-of-municipal-revenue-in-cot",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "The AfDB appraisal (July 2021) places the PAMREC pilot in 22 municipalities out of 201, January 2021 to June 2024, to digitise local tax collection and the taxpayer registration system; the Government intends to extend it to all municipalities and districts later.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "PAMREC system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The system to be deployed registers taxpayers and records collection of fees, payments and revenue, with balances, arrears and penalties, syncing field data from mobile devices; planned, not yet live at appraisal.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "PAMREC system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "paper",
+   "fact": "The appraisal states current local tax collection mechanisms are obsolete and inefficient, and sets the baseline at 0% of collection operations on fully digital support and 0 new taxpayers in a database.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "PAMREC system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "shared",
+   "fact": "The project is to centralise municipal data and connect the system to those of the tax directorate (DGI), the Treasury (DGTCP), DGDDL or the Court of Auditors; the target is integration with at least one, from a baseline of none.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "PAMREC system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of Interior and Security, through the DGDDL, is executing agency and project unit; the Revenue Development Foundation is technical partner under a 2018 memorandum, and the system carries no licence fees.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "PAMREC system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "A costed project plan names the system: CFAF 3,003,901,293 over January 2021 to June 2024, with a results framework and a 100% target for revenue staff trained.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "PAMREC system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:domestic",
+   "fact": "Financing is an African Development Fund loan of UA 3 million (78%) with a Government of Côte d'Ivoire counterpart of UA 0.86 million (22%), mobilisable from 2022.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "PAMREC system",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "A Net Collect Service run by Business Management Invest Côte d'Ivoire (BMI-CI) was piloted in 2017 in more than twenty municipalities; the appraisal says municipalities were reluctant over its cost.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Net Collect Service",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "Net Collect Service is described as supporting taxpayer census and identification, collection by electronic payment terminals, and real-time payment monitoring through a web interface.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "Net Collect Service",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:vendor",
+   "fact": "The Net Collect Service operator is paid 9% of the revenue collected, which the appraisal gives as a reason it was rejected for PAMREC.",
+   "as_of": "2021-07",
+   "date_precision": "month",
+   "system": "Net Collect Service",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PAMREC system",
+   "country_label": "PAMREC computer programme",
+   "class": "revenue",
+   "platform": "RDF software",
+   "owner": "DGDDL",
+   "tiers": "22 pilot municipalities"
+  },
+  {
+   "system": "Net Collect Service",
+   "country_label": "Net Collect Service",
+   "class": "revenue",
+   "platform": "electronic payment terminals, web interface",
+   "owner": "BMI-CI (operator)",
+   "tiers": "20+ municipalities, 2017 pilot"
+  },
+  {
+   "system": "E-Commune (CNTIG)",
+   "country_label": "E-Commune / e-Municipality",
+   "class": "survey",
+   "platform": "geospatial database",
+   "owner": "CNTIG",
+   "tiers": "municipalities"
+  }
+ ],
+ "note": ""
+}

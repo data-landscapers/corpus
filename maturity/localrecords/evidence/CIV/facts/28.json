@@ -1,0 +1,56 @@
+{
+ "slug": "2022-08-01-civ-rapport-de-l-etude-sur-la-mobilisation-des-recettes-propres-des-collec",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "paper",
+   "fact": "The Treasury study (cover dated September 2018) reports that local collection mostly proceeds by public-accountant-appointed revenue collectors before orders are issued, with receipt books; collectors keep parallel receipt books, and the study recommends secure printed receipt books.",
+   "as_of": "2018-09",
+   "date_precision": "month",
+   "system": "paper receipt books",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "none",
+   "fact": "The Treasury study states that local governments lack reliable databases of the taxpayers liable to local taxes, and recommends a census of taxpayers to build a computer database.",
+   "as_of": "2018-09",
+   "date_precision": "month",
+   "system": "paper receipt books",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "Net Collect Services, a Treasury-backed collection software, was in trial in some communes including Grand-Bassam and Bingerville, out of 201 communes in May 2018; the study urges deployment to all.",
+   "as_of": "2018-09",
+   "date_precision": "month",
+   "system": "Net Collect Services",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Treasury (Direction générale du Trésor et de la Comptabilité publique) decided to accompany automation of local collection with the Net Collect Services software.",
+   "as_of": "2018-09",
+   "date_precision": "month",
+   "system": "Net Collect Services",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Net Collect Services",
+   "country_label": "Net Collect Services",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Treasury (DGTCP)",
+   "tiers": "communes, trial in Grand-Bassam and Bingerville"
+  }
+ ],
+ "note": ""
+}

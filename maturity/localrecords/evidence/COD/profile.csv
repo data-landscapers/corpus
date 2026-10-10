@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COD,revenue,governance,qualifier,finance:donor,2024-07,COD-002,,"not stated: owner, plan"
+COD,revenue,recorded,coverage,,,,,nothing held
+COD,revenue,held,coverage,,,,,nothing held
+COD,revenue,last12,qualifier,,,,,nothing held
+COD,revenue,authorities,coverage,pilot,2024-07,COD-001,,

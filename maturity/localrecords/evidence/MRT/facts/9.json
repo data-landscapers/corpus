@@ -1,0 +1,9 @@
+{
+  "slug": "2021-10-01-bfa-rapport-de-l-atelier-regional-d-echanges-sur-les-dispositifs-de-financ",
+  "facts": [],
+  "systems": [
+    {"system": "DGI digital tax system (Mauritania)", "country_label": "système numérique de la DGI", "class": "central", "platform": "", "owner": "Direction Générale des Impôts", "tiers": "national: taxpayer registration, tax declarations and spontaneous payments; the report says communes are conceded recovery and management of local taxes except the patente, since 2000"},
+    {"system": "Tablets for the fiscal census (Mauritania)", "country_label": "tablettes pour le recensement des potentialités fiscales", "class": "survey", "platform": "tablets", "owner": "Mauritanian communes (not named)", "tiers": "Mauritanian delegation's example at the October 2021 workshop; Mali delegation took interest"}
+  ],
+  "note": "A regional workshop report (Cotonou, 11-14 October 2021); for Mauritania it gives only a national DGI system and tablet-based fiscal census, with no commune-run payer and payment record or count of communes, so no revenue-class fact."
+}

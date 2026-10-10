@@ -1,0 +1,13 @@
+{
+  "slug": "2024-07-02-nam-city-in-water-billing-system-cover-up",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The Namibian reports that the City of Windhoek bills water accounts for named customers in its Solar billing system, with payments and arrears recorded against each account; a February 2024 internal memo found accounts imported from the financial system with wrong customer information, and a payment history missing from one account.", "as_of": "2024-02", "date_precision": "month", "system": "Solar", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "The Namibian reports the City of Windhoek's billing system Solar runs on the city's own servers, with the vendor BCX supplying the financial management software; no reporting to a national system is stated.", "as_of": "2024-02", "date_precision": "month", "system": "Solar", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "The Namibian's report covers only the City of Windhoek's billing system; no other local authority is mentioned.", "as_of": "2024-07", "date_precision": "month", "system": "Solar", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "regressing", "fact": "The Namibian reports on 2 July 2024 that the City of Windhoek confirmed irregularities in its water billing system, with forensic investigators appointed and nine accounts found with wrong figures; the system keeps logs for only 30 days.", "as_of": "2024-07-02", "date_precision": "day", "system": "Solar", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Solar", "country_label": "Solar billing system", "class": "revenue", "platform": "Solar financial system; BCX financial management software", "owner": "City of Windhoek", "tiers": "City of Windhoek: water billing and customer accounts"}
+  ],
+  "note": ""
+}

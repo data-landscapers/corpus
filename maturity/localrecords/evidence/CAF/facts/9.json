@@ -1,0 +1,11 @@
+{
+  "slug": "2020-12-02-caf-centrafrique-la-mairie-de-bangui-modernise-la-collecte-des-taxes-aupre",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "held", "value": "paper", "fact": "A city-centre trader told RFI that Bangui town hall still has no computerised file of taxpayers and that collectors issue paper receipts; the town hall's IT head said a taxpayer database was being built (December 2020).", "as_of": "2020-12", "date_precision": "month", "system": "Bangui municipal tax collection", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Municipal agents began a door-to-door census of traders in central Bangui in late 2020 to build a taxpayer database with an individual sheet showing what each owes.", "as_of": "2020-12", "date_precision": "month", "system": "Bangui municipal tax collection", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Bangui taxpayer census and database", "country_label": "base de données des contribuables", "class": "survey", "platform": "", "owner": "Mairie de Bangui (IT service)", "tiers": "city centre of Bangui"}
+  ],
+  "note": ""
+}

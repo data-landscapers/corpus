@@ -1,0 +1,12 @@
+{
+  "slug": "2022-08-11-gmb-banjul-city-council-leads-the-way-for-municipalities-to-go-digital",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Banjul City Council market stalls are registered by QR code and market rates are collected digitally by market staff; three of the five pilot market zones had migrated to the new registration system by August 2022 and rate collection was reported up 25 per cent (UNDP Gambia).", "as_of": "2022-08", "date_precision": "month", "system": "Banjul Smart Cities Pilot (QR stall registration and digitised market rate collection)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "Only Banjul City Council, the capital, ran the Smart Cities Pilot, launched June 2022 in Albert Market; UNDP says it intends to scale some aspects to other councils in Greater Banjul.", "as_of": "2022-06", "date_precision": "month", "system": "Banjul Smart Cities Pilot (QR stall registration and digitised market rate collection)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:partner", "fact": "The pilot was set up by the UNDP Gambia Accelerator Lab with a local implementing firm and handed over to the council in June 2022; UNDP and the Singapore Centre for Technology, Innovation and Sustainable Development ran the initiative.", "as_of": "2022-06", "date_precision": "month", "system": "Banjul Smart Cities Pilot (QR stall registration and digitised market rate collection)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Banjul Smart Cities Pilot (QR stall registration and digitised market rate collection)", "country_label": "Smart Cities Pilot", "class": "revenue", "platform": "QR codes, digital kiosks, solar power; built by a local firm", "owner": "Banjul City Council with UNDP Gambia Accelerator Lab", "tiers": "Banjul City Council, three of five pilot market zones"}
+  ],
+  "note": ""
+}

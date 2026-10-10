@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-23-cod-united-states-supports-efforts-to-improve-public-financial-management",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "A USAID Good Governance Activity workshop on 23-24 July 2024 was to standardise and assess tools for tracking revenue, registering taxpayers and budgeting for decentralised territorial entities; the activity works with 20 entities in four provinces (Haut Katanga, Lualaba, Tshopo, Haut Uele), and the entity tier is not stated.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "USAID GGA digital tools for ETDs",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The tools for decentralised territorial entities are supported by USAID's Good Governance Activity, launched July 2023, co-hosted with the national public finance reform committee COREF.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "USAID GGA digital tools for ETDs",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "USAID GGA digital tools for ETDs",
+   "country_label": "outils numériques de gestion des finances publiques des ETD",
+   "class": "revenue",
+   "platform": "",
+   "owner": "USAID GGA with COREF",
+   "tiers": "20 decentralised entities in four provinces"
+  }
+ ],
+ "note": ""
+}

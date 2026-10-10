@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,revenue,governance,qualifier,owner:ministry,2022-11,MRT-002,,nothing dated since 2023-10-10
-MRT,revenue,recorded,coverage,,,,,nothing held
-MRT,revenue,held,coverage,,,,,nothing held
-MRT,revenue,last12,qualifier,,,,,nothing held
-MRT,revenue,authorities,coverage,,,,,nothing held
+MRT,revenue,governance,qualifier,owner:ministry;finance:donor,2023-05-23,MRT-005;MRT-010,MRT-002=owner:ministry;MRT-009=owner:ministry,nothing dated since 2023-09-28
+MRT,revenue,recorded,coverage,register,2020-04,MRT-006,,nothing dated since 2023-09-28
+MRT,revenue,held,coverage,local,2020-04,MRT-007,,nothing dated since 2023-09-28
+MRT,revenue,last12,qualifier,advancing,2023-07-11,MRT-003;MRT-011,,nothing dated since 2025-09-28
+MRT,revenue,authorities,coverage,pilot,2023-05-23,MRT-004;MRT-008,,nothing dated since 2023-09-28

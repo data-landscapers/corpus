@@ -1,0 +1,12 @@
+{
+  "slug": "2023-06-01-lbr-final-reoi-for-revenue-and-pfm-advisor-terms-of-reference-integrated-a",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The June 2023 terms of reference plan a pilot GIS-based revenue collection database and a digital payment system in two city corporations, Monrovia and Paynesville, within a 36-month advisor contract; it describes no local government as recording on such a system yet.", "as_of": "2023-06", "date_precision": "month", "system": "LURP GIS revenue collection database and digital payment system (planned)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "The advisor and the pilot revenue database are financed by the World Bank under the Liberia Urban Resilience Project (IDA-7112-LR and E0410-LR), run through the Ministry of Public Works; the dataset is to be owned by the municipalities.", "as_of": "2023-06", "date_precision": "month", "system": "LURP GIS revenue collection database and digital payment system (planned)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The terms of reference put the advisor under the Project Management Unit of the Ministry of Public Works, a central ministry, while the data collected is to be owned by the municipalities and the Republic of Liberia.", "as_of": "2023-06", "date_precision": "month", "system": "LURP GIS revenue collection database and digital payment system (planned)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "LURP GIS revenue collection database and digital payment system (planned)", "country_label": "location-based database (GIS) of revenue streams", "class": "revenue", "platform": "open source GIS and mobile data collection app", "owner": "Monrovia City Corporation and Paynesville City Corporation, via the Ministry of Public Works PMU", "tiers": "planned pilot in selected commercial areas of Monrovia and Paynesville"}
+  ],
+  "note": ""
+}

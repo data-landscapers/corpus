@@ -1,0 +1,14 @@
+{
+  "slug": "2019-09-19-ben-paacol",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The PAACOL project (started 2017, three years) selected 12 communes of Benin's 77 to be equipped with single cash windows for non-tax revenue during 2019/2020; the page is undated, so its 2019-09-19 publication date is used.", "as_of": "2019-09-19", "date_precision": "day", "system": "Guichet unique with cash-desk software", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "The cash desk is equipped with software that records each payment, networked so information is shared with the communal actors concerned; no register of payers is described.", "as_of": "2019-09-19", "date_precision": "day", "system": "Guichet unique with cash-desk software", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "The software is networked within the commune among its actors; no link to a national system is stated.", "as_of": "2019-09-19", "date_precision": "day", "system": "Guichet unique with cash-desk software", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "PAACOL's 743 million CFA francs come from the European Union (656 million), AIMF (81 million) and ANCB (6 million).", "as_of": "2019-09-19", "date_precision": "day", "system": "Guichet unique with cash-desk software", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:partner", "fact": "The project is coordinated by the AIMF and implemented with the ANCB, the communes' association.", "as_of": "2019-09-19", "date_precision": "day", "system": "Guichet unique with cash-desk software", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Guichet unique with cash-desk software", "country_label": "guichet unique de centralisation des recettes non fiscales", "class": "revenue", "platform": "networked cash-desk software", "owner": "AIMF / ANCB (PAACOL)", "tiers": "12 selected communes of 77, 2019/2020"}
+  ],
+  "note": ""
+}

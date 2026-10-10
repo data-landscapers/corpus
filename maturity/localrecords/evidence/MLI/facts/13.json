@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-07-mli-reunion-de-coordination-et-de-suivi-de-la-mise-en-uvre-des-activites-d",
+  "facts": [],
+  "systems": [
+    {"system": "ReCoDe", "country_label": "logiciel ReCoDe", "class": "accounts", "platform": "", "owner": "DGCT", "tiers": "communes; updated version with a financial-control module awaiting pre-validation with mayors, July 2025"},
+    {"system": "OISE (Outil informatisé de suivi évaluation de la décentralisation)", "country_label": "OISE", "class": "documents", "platform": "", "owner": "DGCT", "tiers": "DGCT staff; governance indicators"}
+  ],
+  "note": "A DGCT coordination meeting record on the 2025 action plan; it mentions a mayors' workshop on digitalising commune management and the ReCoDe update but nothing about revenue records."
+}

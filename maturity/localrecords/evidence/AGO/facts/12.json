@@ -1,0 +1,15 @@
+{
+  "slug": "2019-08-16-ago-administracoes-municipais-vao-gerir-taxas-cobrados-localmente",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "equipped:92.7%", "fact": "The Ministry of Finance said it had created the technical conditions for the Portal do Munícipe in 152 of 164 municipalities, 12 not yet covered (Finance technical group member, briefing of 15 August 2019).", "as_of": "2019-08-15", "date_precision": "day", "system": "Portal do Munícipe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "Decree 47/18 requires municipal fees to be collected through the Portal and paid by RUPE, so the centre sees the amounts moved; no register of payers is described.", "as_of": "2019-08-15", "date_precision": "day", "system": "Portal do Munícipe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "shared", "fact": "The Portal is a centralised tool that lets central bodies see the amounts local administrations collect.", "as_of": "2019-08-15", "date_precision": "day", "system": "Portal do Munícipe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Finance accelerated the Portal's rollout from October 2018 under Decree 47/18, with AGT placing an official in each administration.", "as_of": "2018-10", "date_precision": "month", "system": "Portal do Munícipe", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Portal do Munícipe", "country_label": "Portal do Munícipe", "class": "revenue", "platform": "", "owner": "Ministry of Finance", "tiers": "municipal administrations; begun 2017 at Cidade do Kilamba"},
+    {"system": "RUPE", "country_label": "Referência Única de Pagamento ao Estado", "class": "web", "platform": "", "owner": "AGT", "tiers": "national, from December 2018"},
+    {"system": "Front Office (AGT)", "country_label": "Front Office", "class": "web", "platform": "", "owner": "AGT", "tiers": "internet payments"}
+  ],
+  "note": ""
+}

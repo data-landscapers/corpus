@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-tun-territoires-numeriques-responsables-inclusifs-synthese-du-cycle-de-web",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The webinar synthesis (2024) describes a cooperation project in Bizerte (about 140,000 inhabitants) to develop three services, among them electronic payment of municipal fees and GRB 2.0 to digitalise the commune's budget resource management processes; it says online payment was not used by citizens, and names no other commune.", "as_of": "2024", "date_precision": "year", "system": "GRB 2.0 and e-payment (Bizerte)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "GRB 2.0 and e-payment (Bizerte)", "country_label": "Gestion des Ressources Budgétaires (GRB 2.0) and paiement électronique des redevances municipales", "class": "revenue", "platform": "platform hosted in a state-approved public data centre", "owner": "Commune of Bizerte", "tiers": "Bizerte"},
+    {"system": "Espaces Citoyens (EC 2.0)", "country_label": "Espaces Citoyens", "class": "web", "platform": "", "owner": "Commune of Bizerte", "tiers": "Bizerte"}
+  ],
+  "note": ""
+}

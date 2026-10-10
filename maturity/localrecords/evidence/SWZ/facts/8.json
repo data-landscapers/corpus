@@ -1,0 +1,12 @@
+{
+  "slug": "2024-04-10-swz-rates-bills-for-2024-2025-financial-year-now-available",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Manzini Municipal Council issued 2024/2025 rates bills to individual ratepayers (by post, email and bulk SMS of the payable amount), keeps ratepayer contact and ownership details, and lets ratepayers check rates balances and pay on USSD *440#; payments carry the plot or account number.", "as_of": "2024-04", "date_precision": "month", "system": "Manzini rates billing and USSD *440#", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "Only the Municipal Council of Manzini is described; the post gives no count of other Eswatini local governments.", "as_of": "2024-04", "date_precision": "month", "system": "Manzini rates billing and USSD *440#", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "The council says it has introduced a USSD code (*440#) for checking rates balances and paying, alongside bulk SMS delivery of bill amounts, for the 2024/2025 billing year.", "as_of": "2024-04", "date_precision": "month", "system": "Manzini rates billing and USSD *440#", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Manzini rates billing and USSD *440#", "country_label": "USSD *440#", "class": "revenue", "platform": "USSD, mobile money, bank EFT", "owner": "Municipal Council of Manzini", "tiers": "Manzini"}
+  ],
+  "note": ""
+}

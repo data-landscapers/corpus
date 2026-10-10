@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-29-gab-gabon-digitax-convention-de-partenariat-entre-la-direction-generale-de",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The commune of Owendo signed an agreement with the Direction générale des Impôts on 2026-04-29 to implement the national Digitax application for municipal taxes; implementation is announced, one commune named.", "as_of": "2026-04-29", "date_precision": "day", "system": "Digitax", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "Digitax is the Direction générale des Impôts' platform; the DGI will align the Owendo municipal agents' taxpayer directory with its own and parameterise the forms, per the 2026-04-29 agreement.", "as_of": "2026-04-29", "date_precision": "day", "system": "Digitax", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Owendo and the DGI signed the Digitax partnership on 2026-04-29, with payment by bank transfer and mobile money and automatic taxpayer certificates planned.", "as_of": "2026-04-29", "date_precision": "day", "system": "Digitax", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Digitax", "country_label": "Digitax", "class": "revenue", "platform": "", "owner": "Direction générale des Impôts", "tiers": "national tax platform; agreed for Owendo commune's municipal taxes (2026-04-29)"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-08-mwi-request-for-expression-of-interest-design-development-deployment-train",
+  "facts": [],
+  "systems": [
+    {"system": "New Local Authority Integrated Financial Management Information System (NEW LA-IFMIS)", "country_label": "NEW LA-IFMIS", "class": "accounts", "platform": "", "owner": "Accountant General's Department", "tiers": "Local authorities; to be integrated with commercial banks, Reserve Bank of Malawi and central government IFMIS; includes a local revenue management module in scope"}
+  ],
+  "note": "A tender for a council financial management system (budgeting, accounting, payroll, procurement) with local revenue management as one module in scope; class accounts, not yet built, so no revenue-class fact."
+}

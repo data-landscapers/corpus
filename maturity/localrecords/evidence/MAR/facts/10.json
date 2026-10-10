@@ -1,0 +1,16 @@
+{
+  "slug": "2025-05-29-mar-casablanca-settat-mobilisation-des-autorites-pour-renforcer-la-collect",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Hespress, citing unnamed informed sources, reports that communal tax officials issue annual orders de recettes (bills) for local taxes in GIR-CT and, in a next phase, recovery of those orders is to run through the same system, sent electronically to the Treasury accountants; payments are collected by the accountants, not recorded in the commune's system.", "as_of": "2025-05-29", "date_precision": "day", "system": "GIR-CT", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "shared", "fact": "The Local Finance Directorate of the Interior Ministry's DGCT instructed prefecture and province services to have the collectivities' authorising officers use GIR-CT exclusively to upload revenue orders, and to abandon software the collectivities had bought or built; the orders pass electronically to the Treasury's accountants.", "as_of": "2025-05-29", "date_precision": "day", "system": "GIR-CT", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "not-published", "fact": "The report says the ministry, with the Treasury (TGR), has worked to generalise GIR-CT and to integrate the revenue offices of local public services, notably wholesale markets and slaughterhouses, but gives no count or share of collectivities using it.", "as_of": "2025-05-29", "date_precision": "day", "system": "GIR-CT", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "GIR-CT is run by the Interior Ministry's DGCT in partnership with the Treasury (TGR); the instruction to use it exclusively was issued under central administration directives and circular D/2755/DFCT/2024 (budgets for 2025).", "as_of": "2025-05-29", "date_precision": "day", "system": "GIR-CT", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Instructions from the DGCT, reported on 29 May 2025, require exclusive use of GIR-CT and abandonment of earlier council software; the same report says taxpayers are urged to declare and pay local taxes through the e-platform set up with the Treasury.", "as_of": "2025-05-29", "date_precision": "day", "system": "GIR-CT", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "GIR-CT", "country_label": "GIR-CT", "class": "revenue", "platform": "", "owner": "DGCT, Ministry of the Interior, with the Treasury (TGR)", "tiers": "collectivités territoriales in Casablanca-Settat region provinces and prefectures; generalisation under way nationally"},
+    {"system": "Electronic platform for declaration and payment of local taxes", "country_label": "plateforme électronique de déclaration et de paiement des taxes des collectivités territoriales", "class": "web", "platform": "", "owner": "Treasury (TGR) with the Interior Ministry", "tiers": "taxpayers of local taxes: TNB, drinks outlets, tourist lodging and others"},
+    {"system": "GID with PMO platform", "country_label": "GID (Gestion Intégrée des Dépenses) and PMO", "class": "accounts", "platform": "", "owner": "Interior Ministry and Treasury with the World Bank", "tiers": "Casablanca-Settat region as pilot"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2024-12-24-uga-report-of-the-auditor-general-on-the-ministry-of-local-government-for",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:71", "fact": "The Auditor General's information systems audit found ELOGREV implemented at only 71 out of 2,366 sites since the 2014/2015 financial year; sites are not the same as local governments, so this is a count of sites.", "as_of": "2024-12-24", "date_precision": "day", "system": "ELOGREV", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "The ELOGREV contract with Tucksee Pty Limited does not clearly require source code transfer to government, and there is no formal access policy for the database; audit summarised 24 December 2024, undated.", "as_of": "2024-12-24", "date_precision": "day", "system": "ELOGREV", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:domestic", "fact": "ELOGREV implementation is funded by both MoFPED and URA TREP, which the audit says risks duplicated payments; budgets ignore sites covered by other revenue systems.", "as_of": "2024-12-24", "date_precision": "day", "system": "ELOGREV", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "plan:none", "fact": "The audit says MoLG lacks an IT Strategic Plan, Risk Management Policy and Security Policy, and has no IT steering or strategy committees; it also recommends harmonising ELOGREV rollout with ECITIE and IRAS.", "as_of": "2024-12-24", "date_precision": "day", "system": "ELOGREV", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "ELOGREV", "country_label": "Electronic Local Government Revenue Management System (E LOGREV)", "class": "revenue", "platform": "", "owner": "Ministry of Local Government; vendor Tucksee Pty Limited", "tiers": "local government sites; interfaced with URA E-Tax and NIRA NSIS, not with URSB, PBS or IFMS; 240 staff trained"},
+    {"system": "IRAS", "country_label": "Integrated Revenue Administration System", "class": "", "platform": "", "owner": "", "tiers": "treats higher and lower LGs as a single site, cutting rollout cost per site"},
+    {"system": "ECITIE", "country_label": "ECITIE", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

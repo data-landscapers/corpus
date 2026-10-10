@@ -1,0 +1,10 @@
+{
+  "slug": "2023-07-11-mrt-session-de-formation-a-rosso-pour-integrer-l-etat-civil-dans-le-progra",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "On 11 July 2023 the commune of Rosso held a training session on integrating civil-status records into its El Mouhassil programme, which the consultant describes as the programme for collecting and centralising municipal revenues; no figures are given.", "as_of": "2023-07-11", "date_precision": "day", "system": "El Mouhassil", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "El Mouhassil", "country_label": "El Mouhassil (le percepteur)", "class": "revenue", "platform": "", "owner": "commune de Rosso, with the Ministry of the Interior and Decentralisation", "tiers": "commune de Rosso (Trarza)"}
+  ],
+  "note": ""
+}

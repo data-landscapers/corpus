@@ -1,0 +1,52 @@
+{
+ "slug": "2025-12-09-civ-ceremonie-de-restitution-des-bases-de-donnees-des-contribuables",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "The DGDDL handed the commune of Assinie-Mafia a USB key with its taxpayer database on 9 December 2025, within the PAMREC pilot project; no count of communes recording is given.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "SYGIDAN Recettes",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The DGDDL, the Directorate General of Decentralisation and Local Development, ran the handover of taxpayer databases under the PAMREC pilot.",
+   "as_of": "2025-12-09",
+   "date_precision": "day",
+   "system": "SYGIDAN Recettes",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYGIDAN Recettes",
+   "country_label": "SYGIDAN Recettes",
+   "class": "revenue",
+   "platform": "",
+   "owner": "DGDDL",
+   "tiers": "communes (PAMREC pilot)"
+  },
+  {
+   "system": "Trésor Pay",
+   "country_label": "Trésor Pay",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Trésor Money",
+   "country_label": "Trésor Money",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

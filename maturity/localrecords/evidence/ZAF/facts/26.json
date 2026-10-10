@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-zaf-national-assembly-question-for-written-reply-1683-nw2073e",
+  "facts": [],
+  "systems": [
+    {"system": "municipal core financial system", "country_label": "core financial system", "class": "accounts", "platform": "vendor systems incl. legacy FMS and EMS version", "owner": "municipality", "tiers": "municipalities; modules include billing and receipts, debtors, general ledger"}
+  ],
+  "note": "Reply says an Oct-Nov 2019 verification found most municipalities have access to billing and receipts modules on their core financial system or third-party sub-systems, with no count or share (access only, not recording); the rest concerns budgeting in Excel and mSCOA non-compliance."
+}

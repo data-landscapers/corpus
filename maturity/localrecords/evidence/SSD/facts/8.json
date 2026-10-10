@@ -1,0 +1,13 @@
+{
+  "slug": "2022-10-21-ssd-advertisement-by-juba-city-council-jcc",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Juba City Council's notice of 21 October 2022 invites all businesses within the council and its blocks to register their data at the block headquarters offices on a new digital revenue collection and management system; registration and service access had started, and manual payments for council services are to end (office order No 11/2022 of 4 October 2022).", "as_of": "2022-10-04", "date_precision": "day", "system": "JCC Digital Revenue Collection & Management System", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The system's roll out covers only Juba City Council and its four blocks (HQ, Juba, Kator, Munuki, Environment as the notice lists them); it is announced as just started, with no other local government named.", "as_of": "2022-10-04", "date_precision": "day", "system": "JCC Digital Revenue Collection & Management System", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor;finance:not-stated", "fact": "Stateman Software & Telecom Ltd is named as the developer, implementer and managing company of the system, working in partnership with the council.", "as_of": "2022-10", "date_precision": "month", "system": "JCC Digital Revenue Collection & Management System", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "On 4 October 2022 the Juba mayor issued an office order to roll out digitalised revenue collection in the city and its block councils, ending manual payments.", "as_of": "2022-10-04", "date_precision": "day", "system": "JCC Digital Revenue Collection & Management System", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "JCC Digital Revenue Collection & Management System", "country_label": "JCC Digital Revenue Collection & Management System", "class": "revenue", "platform": "", "owner": "Juba City Council with Stateman Software & Telecom Ltd", "tiers": "Juba City Council and its block councils"}
+  ],
+  "note": ""
+}

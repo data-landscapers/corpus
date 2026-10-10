@@ -1,0 +1,15 @@
+{
+ "slug": "2025-11-11-cpv-governo-investe-125-mil-contos-na-modernizacao-digital-dos-municipios",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIMple",
+   "country_label": "SIMple (Sistema de Informação Municipal, update of SIM)",
+   "class": "accounts",
+   "platform": "",
+   "owner": "Ministry of Territorial Cohesion with NOSi; World Bank HISWAP financing",
+   "tiers": "all municipalities in scope"
+  }
+ ],
+ "note": "SIMple is described as a financial-resource management and planning tool (own resources, transfers, projecting revenue, debt, budget balance), with no payer or bill record stated, so classed accounts; not stated as live."
+}

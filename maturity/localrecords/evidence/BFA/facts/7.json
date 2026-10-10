@@ -1,0 +1,9 @@
+{
+  "slug": "2021-10-01-bfa-rapport-de-l-atelier-regional-d-echanges-sur-les-dispositifs-de-financ",
+  "facts": [],
+  "systems": [
+    {"system": "DGI micro-enterprise registration and payment software", "country_label": "logiciel d'immatriculation des micro-entreprises (contribution des micro-entreprises)", "class": "central", "platform": "", "owner": "Burkina Faso DGI", "tiers": "national; the tax is reversed to the collectivités territoriales"},
+    {"system": "Tax-administration chain (recensement, enrolment, billing, collection)", "country_label": "chaîne fiscale", "class": "central", "platform": "", "owner": "State deconcentrated tax and treasury services", "tiers": "all eight UEMOA states, Burkina Faso included"}
+  ],
+  "note": "A regional workshop report (11-14 October 2021): the DGI's national digitalisation (112 per cent recovery rate 2012-2021) and a DGI registration and payment software for the micro-enterprise contribution, whose proceeds go to local authorities, are central systems; no commune-run revenue record or count is stated for Burkina Faso."
+}

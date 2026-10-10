@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-02-tcd-mongo-le-recensement-fiscal-se-modernise-pour-optimiser-la-gestion-des",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "On 2 April 2025 the commune of Mongo, with the firm IT Solution Center, launched a ten-day taxpayer census of shops, bakeries and restaurants, described as the start of a digital tax system in which payments are to be recorded directly in the commune's management system; no other commune is named.", "as_of": "2025-04-02", "date_precision": "day", "system": "Mongo commune management system (ITSC)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor;finance:not-stated", "fact": "The census is run by the commune of Mongo in partnership with the firm IT Solution Center (ITSC), each enumerator accompanied by a collector and a municipal police officer.", "as_of": "2025-04-02", "date_precision": "day", "system": "Mongo commune management system (ITSC)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "The commune of Mongo launched a taxpayer census on 2 April 2025 to move local tax collection to a digital system.", "as_of": "2025-04-02", "date_precision": "day", "system": "Mongo commune management system (ITSC)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Mongo commune management system (ITSC)", "country_label": "système de gestion communal", "class": "revenue", "platform": "", "owner": "Commune of Mongo with IT Solution Center", "tiers": "Mongo commune"}
+  ],
+  "note": ""
+}

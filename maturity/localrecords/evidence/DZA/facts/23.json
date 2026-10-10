@@ -1,0 +1,10 @@
+{
+  "slug": "2020-12-01-dza-rapport-annuel-2020",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "none", "fact": "The Cour des comptes' 2018 review of 22 communes (2014-2018) found most had no exhaustive, updated census of their taxable base for communally managed levies (signs, tourist premises, function halls), and treasuries kept no dedicated registers of receivables; the report is dated 2020-12-01 and the audit period is used for as_of.", "as_of": "2018", "date_precision": "year", "system": "communal revenue records (22 audited communes)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "CRID rôles généraux (taxe foncière and TEOM)", "country_label": "Centre Régional de l'Information et de la Documentation des impôts, Constantine", "class": "central", "platform": "", "owner": "Direction générale des impôts", "tiers": "tax rolls drawn up centrally, sent to communal treasurers who notify and collect"}
+  ],
+  "note": "Property tax and waste levy rolls are set by the tax administration and collected by the state's communal treasurers (central); the report states treasuries lack IT equipment and software, and gives no commune-run electronic revenue system, count or share."
+}

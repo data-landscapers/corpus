@@ -1,0 +1,16 @@
+{
+  "slug": "2022-03-01-tun-les-revenus-municipaux-et-le-circuit-des-paiements",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The GIZ study (March 2022) says that for the TCL business tax the commune president draws up a document listing the taxable persons and amounts due, enters it in the commune's GRB system and transmits it to the regional treasurer and the municipal receiver, who follow collection on the GRB network.", "as_of": "2022-03", "date_precision": "month", "system": "GRB", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "shared", "fact": "The GRB entry made by the commune is visible on the GRB network to the regional treasurer and the municipal receiver of the Ministry of Finance, who follow collection.", "as_of": "2022-03", "date_precision": "month", "system": "GRB", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "not-published", "fact": "The study describes the GRB system as the communes' system and recommends adapting it to hold more types of municipal revenue and digital payment, but gives no count or share of communes using it.", "as_of": "2022-03", "date_precision": "month", "system": "GRB", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "For ceremony authorisation fees, the study describes payment to the commune's cash-collection office (régie de recettes) against a receipt taken from a stub book (journal à souches) where no other proof of payment is used.", "as_of": "2022-03", "date_precision": "month", "system": "régie de recettes", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "paper", "fact": "Ceremony fees paid to the commune's cash-collection office are receipted from a paper stub book, with cash paid in to the municipal receiver against a deposit slip.", "as_of": "2022-03", "date_precision": "month", "system": "régie de recettes", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "GRB", "country_label": "Gestion des Ressources Budgétaires (GRB), réseau GRB", "class": "revenue", "platform": "", "owner": "communes, with the municipal receiver and regional treasurer (Ministry of Finance)", "tiers": "communes"},
+    {"system": "Recette municipale (receveur municipal)", "country_label": "Recette municipale", "class": "central", "platform": "", "owner": "Ministry of Finance accountant", "tiers": "collects the property taxes (TIB, TNB) and fees of each commune; TCL and hotel tax collected by tax services by tele-settlement and tele-payment"},
+    {"system": "régie de recettes", "country_label": "régie de recettes", "class": "revenue", "platform": "paper stub book", "owner": "commune", "tiers": "communes"}
+  ],
+  "note": ""
+}

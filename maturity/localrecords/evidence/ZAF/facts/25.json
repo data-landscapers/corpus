@@ -1,0 +1,17 @@
+{
+  "slug": "2023-12-07-zaf-municipal-budget-circular-for-the-2024-25-mtref-mfma-circular-no-126",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register",
+     "fact": "National Treasury's circular says every municipality's property-rates billing report holds, per property, market value, category, amount billed, a unique property identifier linked to the valuation roll, owner and rebate, exemption and reduction values, because all financial systems use the valuation roll as the basis; it gives no count of municipalities.",
+     "as_of": "2023-12-07", "date_precision": "day", "system": "municipal billing system", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local",
+     "fact": "The circular has each municipality reconcile its valuation roll (Part A register) to its own billing system and send the reconciliation, not the billing record, to National Treasury quarterly through the GoMuni upload portal, within 10 working days of quarter end.",
+     "as_of": "2023-12-07", "date_precision": "day", "system": "municipal billing system", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "municipal billing system", "country_label": "billing system", "class": "revenue", "platform": "various municipal financial systems from service providers", "owner": "municipality", "tiers": "municipalities (local government billing of property rates)"},
+    {"system": "GoMuni / Local Government Database and Reporting System (LGDRS)", "country_label": "GoMuni upload portal; LGDRS", "class": "accounts", "platform": "", "owner": "National Treasury", "tiers": "municipalities submit monthly mSCOA data strings, budgets and valuation-roll reconciliations"},
+    {"system": "mSCOA-enabled municipal ERP system", "country_label": "ERP system", "class": "accounts", "platform": "vendor ERP systems", "owner": "municipality", "tiers": "all municipalities must prepare budgets and the A1 schedule in their ERP"}
+  ],
+  "note": ""
+}

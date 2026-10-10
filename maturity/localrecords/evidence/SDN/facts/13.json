@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-09-sdn-khartoum-state-awareness-forums-ahead-of-isali-and-baladna-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Isali", "country_label": "Isali electronic payment system", "class": "upper-tier", "platform": "", "owner": "Khartoum State Higher Council for Strategy and Information; Unified Resource Development and Collection Agency", "tiers": "Khartoum state units, including localities, named among the bodies to apply it; launch pending"},
+    {"system": "Baladna", "country_label": "Baladna platform", "class": "", "platform": "", "owner": "Khartoum State", "tiers": "Khartoum state"}
+  ],
+  "note": "April 2026 awareness forums before the launch of Isali and Baladna for state bodies; no locality revenue record, count or date of use stated."
+}

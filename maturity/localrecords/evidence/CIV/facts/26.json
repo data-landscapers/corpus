@@ -1,0 +1,66 @@
+{
+ "slug": "2024-04-25-civ-cote-d-ivoire-aip-vers-la-digitalisation-des-recettes-fiscales-des-com",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "The SYGIDAN-RECETTES tool was to be proven by 31 December 2024 and, in the PAMREC pilot phase, deployed to 22 communes; the DGDDL director said it would then be distributed to all from January 2025.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "SYGIDAN Recettes",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The DGDDL director described SYGIDAN-RECETTES as digitalising all of a commune's revenues, with traceability each time a tax is collected, and centralising data from all revenue actors; it was at pre-validation.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "SYGIDAN Recettes",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "held",
+   "value": "shared",
+   "fact": "The tool is to centralise the data coming from all actors collecting local revenue, to be implemented in all collectivities; it was still at pre-validation.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "SYGIDAN Recettes",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The software was developed by the DGDDL's own services, which is also PAMREC's national project directorate.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "SYGIDAN Recettes",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "finance:domestic",
+   "fact": "PAMREC was financed by the African Development Bank and the Ivorian State, together 3,003,901,293 FCFA.",
+   "as_of": "2024-04-25",
+   "date_precision": "day",
+   "system": "SYGIDAN Recettes",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYGIDAN Recettes",
+   "country_label": "SYGIDAN-RECETTES",
+   "class": "revenue",
+   "platform": "",
+   "owner": "DGDDL",
+   "tiers": "communes, 22 in the pilot phase"
+  }
+ ],
+ "note": ""
+}

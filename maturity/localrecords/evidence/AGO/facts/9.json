@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-ago-decreto-presidencial-n-o-176-24-regime-juridico-das-taxas-cobradas-pel",
+  "facts": [],
+  "systems": [
+    {"system": "Portal do Munícipe", "country_label": "Portal do Munícipe", "class": "revenue", "platform": "", "owner": "Ministry of Finance", "tiers": "provincial governments, municipal administrations, urban and communal district administrations"},
+    {"system": "RUPE (Referência Única de Pagamento ao Estado)", "country_label": "RUPE", "class": "web", "platform": "", "owner": "AGT / MINFIN", "tiers": "national payment reference"}
+  ],
+  "note": "A decree: it requires fee assessment and collection in the Portal do Munícipe and payment by RUPE into the treasury sub-account; a law places nothing, and no rollout or count is stated."
+}

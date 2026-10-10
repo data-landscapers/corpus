@@ -1,0 +1,16 @@
+{
+  "slug": "2024-11-26-zwe-hit-offers-affordable-erp-system-to-harare",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:83",
+     "fact": "HIT told the Harare Commission of Inquiry that around 83 of Zimbabwe's 92 local authorities use at least one LADS module; which modules, and whether any records revenue, is not stated.",
+     "as_of": "2024-11-25", "date_precision": "day", "system": "Local Authorities Digital Systems (LADS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "shared",
+     "fact": "HIT says LADS links local authorities' services, including financials and billing, to the national public financial management system.",
+     "as_of": "2024-11-25", "date_precision": "day", "system": "Local Authorities Digital Systems (LADS)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Local Authorities Digital Systems (LADS)", "country_label": "LADS", "class": "revenue", "platform": "38 modules in six categories: financial management, billing, asset management, procurement, accounts receivable and payable, debt checking", "owner": "Harare Institute of Technology", "tiers": "deployed in Mutare and Masvingo cities; about 83 of 92 local authorities use at least one module"},
+    {"system": "Harare City Council South African ERP (unnamed)", "country_label": "", "class": "", "platform": "", "owner": "City of Harare", "tiers": "described only as a far more expensive South African system Harare sought instead of LADS"}
+  ],
+  "note": ""
+}

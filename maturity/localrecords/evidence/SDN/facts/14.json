@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-26-sdn-gedaref-taxation-chamber-launches-isali-electronic-collection",
+  "facts": [],
+  "systems": [
+    {"system": "Isali", "country_label": "Isali electronic collection and payment programme", "class": "upper-tier", "platform": "", "owner": "Federal Accounts Chamber; Gedaref State taxation chamber", "tiers": "State; launched in Gedaref on 26 April 2025 as the fourth state in Sudan, for state and federal revenue"}
+  ],
+  "note": "Launch by the Gedaref state taxation chamber for state and federal revenue; no locality named, so class upper-tier and no revenue-class fact."
+}

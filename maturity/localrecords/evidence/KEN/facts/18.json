@@ -1,0 +1,18 @@
+{
+  "slug": "2018-01-01-ken-automation-for-county-own-source-revenue-gaps-challenges-and-solutions",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "equipped:72%", "fact": "The CEG Kenya policy brief (imprint 2018, no event date) says 34 of the 47 counties had acquired revenue management systems from various vendors, and 97 per cent of those 34 used only the revenue collection module.", "as_of": "2018", "date_precision": "year", "system": "County revenue management systems (Zizi, LAIFOMS, E-Jiji Pay, CountyPro)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "The counties' systems are used almost wholly for the revenue collection module (97 per cent of the 34 counties with systems); Nairobi uses E-Jiji Pay for electronic revenue collection and LAIFOMS to generate bill numbers, and the brief does not describe a payer register (document gives no event date, brief dated 2018).", "as_of": "2018", "date_precision": "year", "system": "County revenue management systems (Zizi, LAIFOMS, E-Jiji Pay, CountyPro)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "Fourteen of the 34 counties use Zizi revenue collection as software-as-a-service hosted in the provider's cloud, and most counties host with vendors for want of server infrastructure; the brief says the National Treasury has not prescribed a central system and recommends one.", "as_of": "2018", "date_precision": "year", "system": "Zizi revenue collection", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "The brief says the majority of counties that have automated do not own the system, and that a contract dispute risks loss of data; it gives no budget line and no current plan.", "as_of": "2018", "date_precision": "year", "system": "County revenue management systems (Zizi, LAIFOMS, E-Jiji Pay, CountyPro)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "paper", "fact": "The brief says collection officers switch fully to manual processes where network or power fails or device charge runs out, so some revenue is recorded by hand even in automated counties.", "as_of": "2018", "date_precision": "year", "system": "County revenue management systems (Zizi, LAIFOMS, E-Jiji Pay, CountyPro)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "LAIFOMS", "country_label": "Local Authorities Integrated Financial Operations Management System", "class": "revenue", "platform": "", "owner": "former local authorities, now used by counties", "tiers": "Nairobi, Machakos, Kajiado, Nyeri counties for revenue collection"},
+    {"system": "Zizi revenue collection", "country_label": "Zizi", "class": "revenue", "platform": "software as a service, vendor cloud", "owner": "vendor", "tiers": "14 of 34 automated counties, including Kiambu and Kajiado"},
+    {"system": "E-Jiji Pay", "country_label": "E-Jiji Pay", "class": "revenue", "platform": "electronic payment platforms", "owner": "Nairobi City County", "tiers": "Nairobi County"},
+    {"system": "CountyPro", "country_label": "CountyPro", "class": "accounts", "platform": "", "owner": "Kiambu County", "tiers": "Kiambu County back end: accounting, analysis, reporting"},
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "accounts", "platform": "", "owner": "National Treasury", "tiers": "national and county governments; no revenue management module"}
+  ],
+  "note": ""
+}

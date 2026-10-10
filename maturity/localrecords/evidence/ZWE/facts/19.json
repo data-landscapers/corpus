@@ -1,0 +1,15 @@
+{
+  "slug": "2023-05-09-zwe-hit-hosts-lads-digital-transformation-and-sensitisation-workshop",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry",
+     "fact": "The Deputy Minister of Local Government and Public Works said LADS will soon become a Strategic Business Unit of her ministry, with HIT as consultant.",
+     "as_of": "2023-05-09", "date_precision": "day", "system": "Local Authorities Digital Systems (LADS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:domestic",
+     "fact": "The Deputy Minister said further LADS development will be funded through a Devolution Operational Grant from government, so local authorities stop paying annual licences once funds are directed to HIT.",
+     "as_of": "2023-05-09", "date_precision": "day", "system": "Local Authorities Digital Systems (LADS)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Local Authorities Digital Systems (LADS)", "country_label": "LADS", "class": "revenue", "platform": "modules including Budgeting and General Ledger", "owner": "Harare Institute of Technology, becoming a Ministry of Local Government and Public Works unit", "tiers": "54 local authorities submitted 2023 budgets in LADS format; General Ledger module rolled out in Bindura and Mazowe"}
+  ],
+  "note": "The budgeting and general ledger uptake (54 local authorities; Bindura and Mazowe) is accounts use, so gives no recorded, held or authorities fact; the Deputy Minister also says most council ERPs are not fully used for lack of skills, undated by count."
+}

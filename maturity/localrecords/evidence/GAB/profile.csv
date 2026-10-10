@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,revenue,governance,qualifier,,,,,nothing held
-GAB,revenue,recorded,coverage,,,,,nothing held
+GAB,revenue,governance,qualifier,owner:vendor,2026-06-19,GAB-002,GAB-004=owner:ministry;GAB-008=owner:vendor,"not stated: plan, finance"
+GAB,revenue,recorded,coverage,register,2025-07-29,GAB-007,,
 GAB,revenue,held,coverage,,,,,nothing held
-GAB,revenue,last12,qualifier,,,,,nothing held
-GAB,revenue,authorities,coverage,count:1,2026-07-03,GAB-001,,
+GAB,revenue,last12,qualifier,advancing,2026-04-29,GAB-005;GAB-009,,
+GAB,revenue,authorities,coverage,count:1,2026-07-03,GAB-001,GAB-003=pilot;GAB-006=pilot,

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,revenue,governance,qualifier,,,,,nothing held
-ZWE,revenue,recorded,coverage,register,2026-08-08,ZWE-001,,
-ZWE,revenue,held,coverage,local,2026-08-08,ZWE-002,ZWE-004=paper,
+ZWE,revenue,governance,qualifier,owner:ministry;finance:domestic,2023-05-09,ZWE-011;ZWE-012,ZWE-015=owner:partner;ZWE-016=finance:donor,nothing dated since 2023-09-28
+ZWE,revenue,recorded,coverage,register,2026-08-08,ZWE-001;ZWE-006;ZWE-013,ZWE-008=receipts,
+ZWE,revenue,held,coverage,shared,2024-11-25,ZWE-010,ZWE-002=local;ZWE-004=paper,
 ZWE,revenue,last12,qualifier,,,,,nothing held
-ZWE,revenue,authorities,coverage,count:1,2026-08-08,ZWE-003,ZWE-005=not-published,
+ZWE,revenue,authorities,coverage,count:1,2026-08-08,ZWE-003,ZWE-007=count:15;ZWE-005=not-published;ZWE-009=count:83;ZWE-014=count:6,

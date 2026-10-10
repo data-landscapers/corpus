@@ -1,0 +1,13 @@
+{
+  "slug": "2025-02-27-mwi-digital-tool-improves-how-mwanza-collects-revenue",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "UNDP Malawi reports that Mwanza District Council uses LORMIS to issue electronic tickets for market fees, vehicle parking and border entry fees and has a business registration component; the story says the system tracks who has paid and who has not, but does not describe a register of payers with bills against them.", "as_of": "2025-02", "date_precision": "month", "system": "LORMIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "UNDP Malawi describes LORMIS as a system built and run by the Mwanza District Council's own systems analyst, working on an Android application and a second platform, with supervisors at the council office tracing transactions; it states no reporting to a national system.", "as_of": "2025-02", "date_precision": "month", "system": "LORMIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "UNDP Malawi states that Mwanza is using all components of LORMIS; its developer hopes more districts will adopt it, and no other council or total of councils is given.", "as_of": "2025-02", "date_precision": "month", "system": "LORMIS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:partner", "fact": "UNDP Malawi states that Mwanza adopted LORMIS with the support of the United Nations Development Programme; the developer is the council's own systems analyst and no ministry owner is named.", "as_of": "2025-02", "date_precision": "month", "system": "LORMIS", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "LORMIS", "country_label": "Local Revenue Management Information System (LORMIS)", "class": "revenue", "platform": "Android application plus a second platform; homegrown", "owner": "Mwanza District Council, with UNDP support", "tiers": "Mwanza District Council: market and parking tickets, border entry fees, business registration"}
+  ],
+  "note": ""
+}

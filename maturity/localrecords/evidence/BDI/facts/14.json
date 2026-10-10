@@ -1,0 +1,12 @@
+{
+  "slug": "2021-01-01-bdi-recrutement-de-deux-consultants-nationaux-charges-de-mener-une-etude-d",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "held", "value": "paper", "fact": "The notice states the Direction of Communal Finances is considering an IT solution to replace the current system of manual collection of communal taxes; undated, so the notice's year 2021 (inferred from the mission window) is used.", "as_of": "2021", "date_precision": "year", "system": "manual collection", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "none", "fact": "The notice calls for a study across all 119 communes to establish, among other things, whether each has communal-tax software, and states no commune with a system; the current system is described as manual collection (notice dated 2021 by inference).", "as_of": "2021", "date_precision": "year", "system": "manual collection", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of the Interior's Direction of Communal Finances envisages acquiring an IT system for communal revenue; UNDP funds only a feasibility study (mission 15 August to 15 December 2021).", "as_of": "2021", "date_precision": "year", "system": "manual collection", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "E-taxe (planned)", "country_label": "E-taxe", "class": "", "platform": "", "owner": "MIDCSP with UNDP", "tiers": "communes, planned"}
+  ],
+  "note": ""
+}

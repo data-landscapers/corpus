@@ -1,0 +1,13 @@
+{
+  "slug": "2025-07-30-gab-libreville-enclenche-la-digitalisation-des-recettes-municipales",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The Libreville city hall launched a pilot of digitised municipal revenue collection on 2025-07-29; one commune is named.", "as_of": "2025-07-29", "date_precision": "day", "system": "Libreville municipal revenue platform (GTI Gabon)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The pilot platform is described as resting on a geolocated taxpayer file, online declaration and payment, automatic tax and penalty amounts and a dashboard showing who is up to date on which taxes; these are the vendor's stated design at launch, 2025-07-29.", "as_of": "2025-07-29", "date_precision": "day", "system": "Libreville municipal revenue platform (GTI Gabon)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "The platform is developed by the company GTI Gabon, inspired by the national Digitax platform, for the Libreville city hall; launched 2025-07-29.", "as_of": "2025-07-29", "date_precision": "day", "system": "Libreville municipal revenue platform (GTI Gabon)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Libreville launched the revenue-digitalisation pilot on 2025-07-29.", "as_of": "2025-07-29", "date_precision": "day", "system": "Libreville municipal revenue platform (GTI Gabon)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Libreville municipal revenue platform (GTI Gabon)", "country_label": "projet de digitalisation du recouvrement des recettes municipales", "class": "revenue", "platform": "", "owner": "Mairie de Libreville; developed by GTI Gabon (vendor)", "tiers": "Libreville commune, pilot"}
+  ],
+  "note": ""
+}

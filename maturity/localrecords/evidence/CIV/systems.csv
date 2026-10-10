@@ -8,3 +8,12 @@ CIV,PADA,Projet d'Adressage du District d'Abidjan,survey,,State,"Abidjan Distric
 CIV,SIGE,Système d'Information et de Gestion de l'Éducation,accounts,,Ministry of National Education,national,2025-07-11-sige-systeme-information-gestion-education-cote-divoire
 CIV,Net-Collect Services,plateforme Net-Collect Services,central,,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),"communes, regions and Districts; decree of 6 November 2019 institutes electronic collection of their resources",2023-01-01-cote-divoire-tresormoney-contexte-de-creation
 CIV,TrésorMoney,TrésorMoney CI,web,,"DGTCP, with BMI-CI Finances","national, State resources",2023-01-01-cote-divoire-tresormoney-contexte-de-creation
+CIV,SYGIDAN Recettes,SYGIDAN Recettes,revenue,,DGDDL,communes (PAMREC pilot),2025-12-09-civ-ceremonie-de-restitution-des-bases-de-donnees-des-contribuables
+CIV,Trésor Pay,Trésor Pay,,,,,2025-12-09-civ-ceremonie-de-restitution-des-bases-de-donnees-des-contribuables
+CIV,Trésor Money,Trésor Money,,,,,2025-12-09-civ-ceremonie-de-restitution-des-bases-de-donnees-des-contribuables
+CIV,SYGIDAN Recettes,SYGIDAN-RECETTES,revenue,,DGDDL,"communes, 22 in the pilot phase",2024-04-25-civ-cote-d-ivoire-aip-vers-la-digitalisation-des-recettes-fiscales-des-com
+CIV,PROTON,PROTON,revenue,RDF-developed,Revenue Development Foundation with DGDDL,19 pilot municipalities,2023-10-01-civ-launch-of-municipal-revenue-mobilization-project-in-cote-d-ivoire
+CIV,Net Collect Services,Net Collect Services,revenue,,Treasury (DGTCP),"communes, trial in Grand-Bassam and Bingerville",2022-08-01-civ-rapport-de-l-etude-sur-la-mobilisation-des-recettes-propres-des-collec
+CIV,PAMREC system,PAMREC computer programme,revenue,RDF software,DGDDL,22 pilot municipalities,2021-07-01-civ-pilot-support-project-for-the-mobilisation-of-municipal-revenue-in-cot
+CIV,Net Collect Service,Net Collect Service,revenue,"electronic payment terminals, web interface",BMI-CI (operator),"20+ municipalities, 2017 pilot",2021-07-01-civ-pilot-support-project-for-the-mobilisation-of-municipal-revenue-in-cot
+CIV,E-Commune (CNTIG),E-Commune / e-Municipality,survey,geospatial database,CNTIG,municipalities,2021-07-01-civ-pilot-support-project-for-the-mobilisation-of-municipal-revenue-in-cot

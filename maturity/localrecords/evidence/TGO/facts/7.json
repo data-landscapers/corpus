@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-23-tgo-les-resultats-d-un-recensement-des-contribuables-valides-a-bassar-1",
+  "facts": [],
+  "systems": [
+    {"system": "SIG Recettes", "country_label": "Système Informatique géographique (SIG) recette", "class": "survey", "platform": "", "owner": "Commune of Bassar 1 with GIZ and KfW (ProDeG IV)", "tiers": "commune of Bassar 1"}
+  ],
+  "note": "A project-supported census (10-18 December 2024, 1,358 taxpayers, FCFA 50.8m yearly potential, results validated 21 March 2025) building a non-tax revenue taxpayer file in SIG Recettes; no billing or payments recorded in it are stated, so it is a survey, not a revenue system."
+}

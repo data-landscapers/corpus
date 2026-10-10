@@ -1,0 +1,62 @@
+{
+ "slug": "2024-05-01-som-un-somalia-joint-fund-final-report-jplg-iii-project-data-annex-vii",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "register",
+   "fact": "The JPLG III report (to 30 September 2023) says a new property registration system, built on a GIS property survey, gives districts and taxpayers real-time tax payment tracking; the district is not named in the passage and the document gives no date for it, so its period end is used.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "property registration system (JPLG)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "pilot",
+   "fact": "In Puntland, 3 of the 5 targeted districts completed the demonstration phase of a mobile-payment tax collection system and 2 others were set to start it; they will collect taxes by mobile payment once the demonstration ends (JPLG III report, period to September 2023).",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "mobile-payment tax collection system (Puntland)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:partner",
+   "fact": "The property tax work is run by the UN Joint Programme on Local Governance (UNCDF, UNDP, UN-Habitat, ILO, UNICEF) with state ministries of interior; the report gives a total budget of USD 150 million projected, 79 million raised.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "property registration system (JPLG)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "property registration system (JPLG)",
+   "country_label": "property registration system",
+   "class": "revenue",
+   "platform": "GIS-based property survey",
+   "owner": "JPLG with state ministries of interior and districts",
+   "tiers": "districts in Puntland and Somaliland (Garowe, Gebiley, Hargeisa); Mogadishu preparing"
+  },
+  {
+   "system": "mobile-payment tax collection system (Puntland)",
+   "country_label": "mobile payments for taxes",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Puntland districts with JPLG",
+   "tiers": "5 targeted Puntland districts"
+  },
+  {
+   "system": "FMIS (Puntland and Somaliland districts)",
+   "country_label": "FMIS",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "districts of Puntland and Somaliland"
+  }
+ ],
+ "note": ""
+}

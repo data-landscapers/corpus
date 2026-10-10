@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-01-bfa-rapport-de-l-atelier-regional-d-echanges-sur-les-dispositifs-de-financ",
+  "facts": [],
+  "systems": [
+    {"system": "Tax-administration chain (recensement, enrolment, billing, collection)", "country_label": "chaîne fiscale", "class": "central", "platform": "", "owner": "State deconcentrated tax and treasury services", "tiers": "all eight UEMOA states, Benin included; Benin's communes set the rate of the Taxe Foncière Unique within a national range"}
+  ],
+  "note": "A regional workshop report (held 11-14 October 2021, Cotonou): local taxes are assessed, billed and collected by the State in the UEMOA states; it names no commune-run revenue system or count for Benin. Benin's digitalisation is mentioned as 'starting' (national, 2021)."
+}

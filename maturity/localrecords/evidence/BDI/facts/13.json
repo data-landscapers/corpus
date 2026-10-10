@@ -1,0 +1,12 @@
+{
+  "slug": "2025-06-26-bdi-le-pnud-et-le-gouvernement-evaluent-conjointement-les-interventions-su",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "UNDP's mission of 16-20 June 2025 reported the E-Taxe system operational in communes such as Kayanza; only Kayanza is named and no total is given.", "as_of": "2025-06", "date_precision": "month", "system": "E-Taxe", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "receipts", "fact": "UNDP states that E-Taxe digitalises the collection of communal taxes in Kayanza; what it records is not stated.", "as_of": "2025-06", "date_precision": "month", "system": "E-Taxe", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "E-Taxe", "country_label": "système E-Taxe", "class": "revenue", "platform": "", "owner": "", "tiers": "communes such as Kayanza"},
+    {"system": "Digital civil registration (état-civil)", "country_label": "état-civil digitalisé", "class": "civil", "platform": "", "owner": "", "tiers": "communes"}
+  ],
+  "note": ""
+}

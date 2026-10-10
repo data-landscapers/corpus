@@ -1,0 +1,8 @@
+{
+  "slug": "2020-02-21-moz-lancado-o-sistema-de-gestao-autarquico-sga-na-componente-e-sistafe-aut",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Gestão Autárquico (SGA), e-SISTAFE Autárquico component", "country_label": "SGA / e-SISTAFE Autárquico", "class": "accounts", "platform": "", "owner": "CEDSIF, IP with the Ministry of Economy and Finance, the Ministry of State Administration and Public Service and ANAMM", "tiers": "pilot launched 21 February 2020 in three municipalities (Maputo City, Matola City, Boane town); at least 10 more targeted for 2020"}
+  ],
+  "note": "A municipal financial-management system (expenditure planning and execution, accounts) piloted in 3 municipalities from 21 February 2020; revenue capture is named as an aim only, with no description of a payer or payment record, so no revenue-class fact."
+}

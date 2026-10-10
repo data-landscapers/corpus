@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-eth-ethiopia-property-tax-system-review",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The Computerized Property Tax Administration (CPTA) platform was developed in 2016 for three pilot cities and was never fully implemented, per the LoGRI project page (undated, year 2025 taken from its January 2025 proclamation).", "as_of": "2016", "date_precision": "year", "system": "Computerized Property Tax Administration (CPTA)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The CPTA assessment is run with the Ministry of Urban and Infrastructure's Urban Revenue Reform Project Office and the Ministry of Finance's Tax Policy Department, with UNECA support; the page is dated 2025 by proxy.", "as_of": "2025", "date_precision": "year", "system": "Computerized Property Tax Administration (CPTA)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Computerized Property Tax Administration (CPTA)", "country_label": "CPTA", "class": "revenue", "platform": "", "owner": "Ministry of Urban and Infrastructure / Ministry of Finance", "tiers": "three pilot cities (2016); national scale-up planned"}
+  ],
+  "note": ""
+}

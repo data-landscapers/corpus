@@ -1,0 +1,15 @@
+{
+  "slug": "2024-03-01-uga-shift-to-online-payment-boosts-local-revenue-by-nearly-80",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:128", "fact": "The Independent, citing the IRAS website, says IRAS was rolled out in 98 districts, 21 municipalities and 9 cities (128 local governments) at a cost of UGX 20.07 billion to date; no national total is given. Date is the article's March 2024.", "as_of": "2024-03", "date_precision": "month", "system": "IRAS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:48", "fact": "The article says the Ministry of Local Government's E-LogRev was operational in 48 local governments; no total is given. Date is the article's March 2024.", "as_of": "2024-03", "date_precision": "month", "system": "E-LogRev", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:124", "fact": "The Auditor General's report on FY2022/23, quoted here, counts 124 activated local governments, 39 of which lacked enough phones, laptops, printers and POS machines to operate the revenue system; no national total is given.", "as_of": "2023", "date_precision": "year", "system": "IRAS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Nansana's mayor says the system fixes assessment so that no assessor discretion enters, helps taxpayers keep records and records payments against a catalogue of fees, with an undefined 'other revenue' line open to under-recording; article of March 2024.", "as_of": "2024-03", "date_precision": "month", "system": "IRAS", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Local Government runs E-LogRev, which the article describes as the ministry's initiative alongside IRAS, introduced from 2017 under the government's automation of local revenue systems.", "as_of": "2024-03", "date_precision": "month", "system": "E-LogRev", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "IRAS", "country_label": "Integrated Revenue Administration System", "class": "revenue", "platform": "", "owner": "", "tiers": "98 districts, 21 municipalities, 9 cities per the IRAS website; Nansana Municipal Council and Masaka City cited"},
+    {"system": "E-LogRev", "country_label": "E-LogRev", "class": "revenue", "platform": "", "owner": "Ministry of Local Government", "tiers": "48 local governments"}
+  ],
+  "note": ""
+}
