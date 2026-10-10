@@ -1,20 +1,114 @@
 {
   "slug": "2025-01-01-strengthening-civil-registration-mozambique-crvs",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "The National Director of Registries and Notaries states that, following a digitisation pilot introduced in 2017, all 68 civil registration conservatories in the country are now digitised (68 of 68 conservatories; posts below them are not counted); the deck carries no date for the statement beyond its footer of 8/4/2025, so 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "electronic civil registration system (CRVS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The National Director of Registries and Notaries describes the civil registration system as web-based, with some functions in USSD, reached nationwide over the internet, and says children can obtain birth certificates anywhere in the country; an offline module is only experimental. The deck's 2025 date is used.", "as_of": "2025", "date_precision": "year", "system": "electronic civil registration system (CRVS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The National Director of Registries and Notaries presents birth registration as what the digitised system and its hospital posts deliver, and lists finding effective means of registering deaths and causes of death in the community as a current challenge. The deck's 2025 date is used.", "as_of": "2025", "date_precision": "year", "system": "electronic civil registration system (CRVS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The National Director of Registries and Notaries states that the country has a ten-year strategic plan, SIRCEV 2019-2029, and a CRVS operational plan with a target of 80 per cent birth registration of children under five. The deck's 2025 date is used.", "as_of": "2025", "date_precision": "year", "system": "electronic civil registration system (CRVS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The deck, presented by the National Director of Registries and Notaries, states that Law 12/2018 of 4 December established the electronic civil registration system and its digitalisation, after a pilot the state introduced under Decree 44/2010.", "as_of": "2018-12-04", "date_precision": "day", "system": "electronic civil registration system (CRVS)", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:100%",
+      "fact": "The National Director of Registries and Notaries states that, following a digitisation pilot introduced in 2017, all 68 civil registration conservatories in the country are now digitised (68 of 68 conservatories; posts below them are not counted); the deck carries no date for the statement beyond its footer of 8/4/2025, so 2025 is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "electronic civil registration system (CRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The National Director of Registries and Notaries describes the civil registration system as web-based, with some functions in USSD, reached nationwide over the internet, and says children can obtain birth certificates anywhere in the country; an offline module is only experimental. The deck's 2025 date is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "electronic civil registration system (CRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The National Director of Registries and Notaries presents birth registration as what the digitised system and its hospital posts deliver, and lists finding effective means of registering deaths and causes of death in the community as a current challenge. The deck's 2025 date is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "electronic civil registration system (CRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Director of Registries and Notaries states that the country has a ten-year strategic plan, SIRCEV 2019-2029, and a CRVS operational plan with a target of 80 per cent birth registration of children under five. The deck's 2025 date is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "electronic civil registration system (CRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The deck, presented by the National Director of Registries and Notaries, states that Law 12/2018 of 4 December established the electronic civil registration system and its digitalisation, after a pilot the state introduced under Decree 44/2010.",
+      "as_of": "2018-12-04",
+      "date_precision": "day",
+      "system": "electronic civil registration system (CRVS)",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "electronic civil registration system (CRVS)", "country_label": "CRVS / SIRCEV", "class": "civil", "platform": "web-based, with some USSD functions; offline module in an experimental phase", "owner": "National Directorate of Registries and Notaries", "tiers": "all 68 conservatories digitised; 156 CRVS posts opened in hospitals by December 2024"},
-    {"system": "birth notifications by SMS", "country_label": "", "class": "notification", "platform": "SMS", "owner": "", "tiers": "listed as a success factor; no coverage given"},
-    {"system": "digitisation of historical registration documents prior to 2017", "country_label": "", "class": "archive", "platform": "", "owner": "", "tiers": "listed as a current challenge, not as work done"},
-    {"system": "mobile registration brigades and integrated campaigns", "country_label": "", "class": "outreach", "platform": "", "owner": "Government, with UNICEF, IOM and the World Bank for displaced people", "tiers": "retroactive birth registration for displaced people and host communities in the north; more than 145,000 displaced people registered"},
-    {"system": "interoperability of CRVS with the National Health System", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "CRVS posts in hospitals linked to the health information system; a death-registration module link is described under future work"},
-    {"system": "interoperability with identity issuing systems", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "a project under development"},
-    {"system": "Unique Citizen Identification Number", "country_label": "the deck writes NUIT", "class": "identity", "platform": "", "owner": "", "tiers": "introduced with the digitisation pilot by Decree 44/2010"}
+    {
+      "system": "electronic civil registration system (CRVS)",
+      "country_label": "CRVS / SIRCEV",
+      "class": "civil",
+      "platform": "web-based, with some USSD functions; offline module in an experimental phase",
+      "owner": "National Directorate of Registries and Notaries",
+      "tiers": "all 68 conservatories digitised; 156 CRVS posts opened in hospitals by December 2024"
+    },
+    {
+      "system": "birth notifications by SMS",
+      "country_label": "",
+      "class": "notification",
+      "platform": "SMS",
+      "owner": "",
+      "tiers": "listed as a success factor; no coverage given"
+    },
+    {
+      "system": "digitisation of historical registration documents prior to 2017",
+      "country_label": "",
+      "class": "archive",
+      "platform": "",
+      "owner": "",
+      "tiers": "listed as a current challenge, not as work done"
+    },
+    {
+      "system": "mobile registration brigades and integrated campaigns",
+      "country_label": "",
+      "class": "outreach",
+      "platform": "",
+      "owner": "Government, with UNICEF, IOM and the World Bank for displaced people",
+      "tiers": "retroactive birth registration for displaced people and host communities in the north; more than 145,000 displaced people registered"
+    },
+    {
+      "system": "interoperability of CRVS with the National Health System",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "CRVS posts in hospitals linked to the health information system; a death-registration module link is described under future work"
+    },
+    {
+      "system": "interoperability with identity issuing systems",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "a project under development"
+    },
+    {
+      "system": "Unique Citizen Identification Number",
+      "country_label": "the deck writes NUIT",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "introduced with the digitisation pilot by Decree 44/2010"
+    }
   ],
   "note": ""
 }

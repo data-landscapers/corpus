@@ -1,15 +1,76 @@
 {
   "slug": "2026-07-30-cote-divoire-oneci-civil-registry-digitisation-goh",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "AIP states that the Citiweb software ONECI supplied to civil status centres is intended for the digital registration of births, marriages, deaths and other civil status acts.", "as_of": "2025", "date_precision": "year", "system": "Citiweb", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "AIP states that at the end of 2025 ONECI equipped all the civil status centres of the town halls and sub-prefectures with computer equipment carrying the Citiweb software; this is a statement of centres equipped, with no numerator or denominator given and no figure for centres registering with it.", "as_of": "2025", "date_precision": "year", "system": "Citiweb", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "AIP states that the civil status digitalisation reform is steered by ONECI, the national civil status and identification office, which supplied the centres with Citiweb.", "as_of": "2026-07-30", "date_precision": "day", "system": "Citiweb", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The prefecture's secretary general acknowledged the European Union's financial support for the project supporting the digitalisation of civil status and the fight against documentary fraud; no domestic budget line is mentioned.", "as_of": "2026-07-30", "date_precision": "day", "system": "Citiweb", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "At the end of 2025 ONECI equipped all town hall and sub-prefecture civil status centres with computers carrying Citiweb, per AIP.", "as_of": "2025", "date_precision": "year", "system": "Citiweb", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 30 and 31 July 2026 the sub-prefects of the Gôh region were trained at Gagnoa on the new rules and the digital applications already deployed, after a first session on 27 to 29 July for civil status agents of the region's town halls and sub-prefectures.", "as_of": "2026-07-30", "date_precision": "day", "system": "Citiweb", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "AIP states that the Citiweb software ONECI supplied to civil status centres is intended for the digital registration of births, marriages, deaths and other civil status acts.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Citiweb",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:100%",
+      "fact": "AIP states that at the end of 2025 ONECI equipped all the civil status centres of the town halls and sub-prefectures with computer equipment carrying the Citiweb software; this is a statement of centres equipped, with no numerator or denominator given and no figure for centres registering with it.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Citiweb",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "AIP states that the civil status digitalisation reform is steered by ONECI, the national civil status and identification office, which supplied the centres with Citiweb.",
+      "as_of": "2026-07-30",
+      "date_precision": "day",
+      "system": "Citiweb",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The prefecture's secretary general acknowledged the European Union's financial support for the project supporting the digitalisation of civil status and the fight against documentary fraud; no domestic budget line is mentioned.",
+      "as_of": "2026-07-30",
+      "date_precision": "day",
+      "system": "Citiweb",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "At the end of 2025 ONECI equipped all town hall and sub-prefecture civil status centres with computers carrying Citiweb, per AIP.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Citiweb",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 30 and 31 July 2026 the sub-prefects of the Gôh region were trained at Gagnoa on the new rules and the digital applications already deployed, after a first session on 27 to 29 July for civil status agents of the region's town halls and sub-prefectures.",
+      "as_of": "2026-07-30",
+      "date_precision": "day",
+      "system": "Citiweb",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "Citiweb", "country_label": "logiciel Citiweb", "class": "civil", "platform": "Citiweb", "owner": "ONECI", "tiers": "civil status centres of town halls (mairies) and sub-prefectures, all equipped at the end of 2025"}
+    {
+      "system": "Citiweb",
+      "country_label": "logiciel Citiweb",
+      "class": "civil",
+      "platform": "Citiweb",
+      "owner": "ONECI",
+      "tiers": "civil status centres of town halls (mairies) and sub-prefectures, all equipped at the end of 2025"
+    }
   ],
   "note": ""
 }

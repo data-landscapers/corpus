@@ -14,7 +14,7 @@
     {
       "sub_indicator": "civil",
       "aspect": "offices",
-      "value": "share:100%",
+      "value": "equipped:100%",
       "fact": "Aujourd'hui le Maroc, citing the Ministry of the Interior, reports that SGEC is generalised to all the civil-status offices of the Kingdom; the article gives no count of offices, so the share is the ministry's word 'all' with no numerator or denominator.",
       "as_of": "2024-10-29",
       "date_precision": "day",

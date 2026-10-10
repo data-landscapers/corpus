@@ -4,7 +4,7 @@
     {
       "sub_indicator": "civil",
       "aspect": "offices",
-      "value": "share:61%",
+      "value": "count:59",
       "fact": "The World Bank's implementation status report for the Municipal Performance Program gives the civil registry back-office system as operational in 59 of 97 participating municipalities (reported as 61%), verified by the IGAT; the value was first reported at 30 June 2024 and is unchanged at 30 January 2026. The denominator is the Program's participating municipalities, not all offices, and the report does not say what the system does.",
       "as_of": "2026-01-30",
       "date_precision": "day",
@@ -14,7 +14,7 @@
     {
       "sub_indicator": "civil",
       "aspect": "offices",
-      "value": "share:15%",
+      "value": "not-published",
       "fact": "The World Bank's implementation status report gives a baseline of 15% of the Municipal Performance Program's participating municipalities with the civil registry back-office system operational, at December 2018.",
       "as_of": "2018-12",
       "date_precision": "month",

@@ -1,24 +1,156 @@
 {
   "slug": "2025-03-01-naot-performance-audit-birth-death-certificates",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Controller and Auditor General states that the Registration Insolvency and Trusteeship Agency (RITA), the statutory registrar of births and deaths, introduced the Civil Registration System in 2017 and runs it, in line with section 19A of Cap. 108 requiring the Registrar General to keep an electronic register of births and deaths.", "as_of": "2017", "date_precision": "year", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The audit reports that RITA's Strategic Plan for 2021/22 to 2025/26 names the Civil Registration System as the system to carry out all of RITA's birth and death registration functions, and sets registration targets against it.", "as_of": "2024", "date_precision": "year", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The audit's extract of the Civil Registration System shows 18,464,255 births registered and certified as of September 2024 and 977,761 deaths registered cumulatively since the system began in 2017.", "as_of": "2024-09", "date_precision": "month", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The audit found that the 11,053 under-five registration centres (ward offices and health facilities) use both the Civil Registration System and manual registers: registration officers record the birth by hand in the B2 register and then enter the same details into the online system, by phone, which the audit calls double work and partial digitalisation.", "as_of": "2024-10", "date_precision": "month", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "RITA officials told the audit that phones given to health centres and Ward Executive Offices to upload registrations performed poorly and were returned without replacement, so certificates were issued at the centre and then taken to district social welfare officers for entry into the system.", "as_of": "2024", "date_precision": "year", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "The audit states that in October 2024 RITA rolled the Civil Registration System out nationwide to all districts, a rollout that included 11,053 under-five registration centres where both the system and manual registration are used; the share is of districts.", "as_of": "2024-10", "date_precision": "month", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:57%", "fact": "RITA's monitoring and evaluation plan, as the audit reports it, counts 6,341 of 11,053 under-five registration centres as active and 43% as not operating (25% of 3,957 ward centres, 52% of 7,096 health centres), the stated reason being the lack of phones with which a centre uploads registrations; the 57% is active centres, the remainder of the audit's 43%.", "as_of": "2024", "date_precision": "year", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The audit records that RITA extended the Civil Registration System to all districts in the country in October 2024.", "as_of": "2024-10", "date_precision": "month", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The audit records that in the 2024/25 financial year RITA received 748 Android phones for uploading registrations, for centres without phones and for new centres.", "as_of": "2024", "date_precision": "year", "system": "Civil Registration System (CRS)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "regressing", "fact": "The audit reports that the Under-Five Birth Registration Initiative, which decentralised registration to 3,957 ward offices and 7,096 health centres in 185 districts, was phased out in 2022/23 after ten years, leaving a backlog of unregistered births, with its sustainability plan still unfinished at the time of the audit.", "as_of": "2023", "date_precision": "year", "system": "Civil Registration System (CRS)", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Controller and Auditor General states that the Registration Insolvency and Trusteeship Agency (RITA), the statutory registrar of births and deaths, introduced the Civil Registration System in 2017 and runs it, in line with section 19A of Cap. 108 requiring the Registrar General to keep an electronic register of births and deaths.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The audit reports that RITA's Strategic Plan for 2021/22 to 2025/26 names the Civil Registration System as the system to carry out all of RITA's birth and death registration functions, and sets registration targets against it.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The audit's extract of the Civil Registration System shows 18,464,255 births registered and certified as of September 2024 and 977,761 deaths registered cumulatively since the system began in 2017.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The audit found that the 11,053 under-five registration centres (ward offices and health facilities) use both the Civil Registration System and manual registers: registration officers record the birth by hand in the B2 register and then enter the same details into the online system, by phone, which the audit calls double work and partial digitalisation.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "keyed-elsewhere",
+      "fact": "RITA officials told the audit that phones given to health centres and Ward Executive Offices to upload registrations performed poorly and were returned without replacement, so certificates were issued at the centre and then taken to district social welfare officers for entry into the system.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:100%",
+      "fact": "The audit states that in October 2024 RITA rolled the Civil Registration System out nationwide to all districts, a rollout that included 11,053 under-five registration centres where both the system and manual registration are used; the share is of districts.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "share:57%",
+      "fact": "RITA's monitoring and evaluation plan, as the audit reports it, counts 6,341 of 11,053 under-five registration centres as active and 43% as not operating (25% of 3,957 ward centres, 52% of 7,096 health centres), the stated reason being the lack of phones with which a centre uploads registrations; the 57% is active centres, the remainder of the audit's 43%.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The audit records that RITA extended the Civil Registration System to all districts in the country in October 2024.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The audit records that in the 2024/25 financial year RITA received 748 Android phones for uploading registrations, for centres without phones and for new centres.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The audit reports that the Under-Five Birth Registration Initiative, which decentralised registration to 3,957 ward offices and 7,096 health centres in 185 districts, was phased out in 2022/23 after ten years, leaving a backlog of unregistered births, with its sustainability plan still unfinished at the time of the audit.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Civil Registration System (CRS)",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "Civil Registration System (CRS)", "country_label": "Civil Registration System (CRS)", "class": "civil", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "All districts (October 2024) and 11,053 under-five registration centres: 3,957 ward offices and 7,096 health facilities"},
-    {"system": "eRITA", "country_label": "eRITA, RITA Online Service System", "class": "", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "Named as an electronic system implemented in 2024 for registration and issuance of birth and death certificates; not described further"},
-    {"system": "Death Notification Module", "country_label": "Death Notification Module (draft, within the CRS)", "class": "notification", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "Under development; deaths are at present notified manually by hospitals and ward executive officers"},
-    {"system": "Scanning and indexing of hard-copy birth and death records", "country_label": "", "class": "archive", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "13,691,470 paper records (12,051,054 births, 1,640,416 deaths) not yet uploaded; the scanning planned for 2023/24 was not carried out"},
-    {"system": "Under-Five Birth Registration Initiative (U5BRI)", "country_label": "U5BRI", "class": "outreach", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "Programme of 2013 to 2023, phased out 2022/23; a second phase as a mass registration campaign to 2030 is in preparation"},
-    {"system": "CRS integration with GoTHOMIS and eHMS", "country_label": "", "class": "exchange", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "Efforts reported in October 2024 to integrate the CRS with PO-RALG's GoTHOMIS and the Ministry of Health's eHMS"}
+    {
+      "system": "Civil Registration System (CRS)",
+      "country_label": "Civil Registration System (CRS)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Registration Insolvency and Trusteeship Agency (RITA)",
+      "tiers": "All districts (October 2024) and 11,053 under-five registration centres: 3,957 ward offices and 7,096 health facilities"
+    },
+    {
+      "system": "eRITA",
+      "country_label": "eRITA, RITA Online Service System",
+      "class": "",
+      "platform": "",
+      "owner": "Registration Insolvency and Trusteeship Agency (RITA)",
+      "tiers": "Named as an electronic system implemented in 2024 for registration and issuance of birth and death certificates; not described further"
+    },
+    {
+      "system": "Death Notification Module",
+      "country_label": "Death Notification Module (draft, within the CRS)",
+      "class": "notification",
+      "platform": "",
+      "owner": "Registration Insolvency and Trusteeship Agency (RITA)",
+      "tiers": "Under development; deaths are at present notified manually by hospitals and ward executive officers"
+    },
+    {
+      "system": "Scanning and indexing of hard-copy birth and death records",
+      "country_label": "",
+      "class": "archive",
+      "platform": "",
+      "owner": "Registration Insolvency and Trusteeship Agency (RITA)",
+      "tiers": "13,691,470 paper records (12,051,054 births, 1,640,416 deaths) not yet uploaded; the scanning planned for 2023/24 was not carried out"
+    },
+    {
+      "system": "Under-Five Birth Registration Initiative (U5BRI)",
+      "country_label": "U5BRI",
+      "class": "outreach",
+      "platform": "",
+      "owner": "Registration Insolvency and Trusteeship Agency (RITA)",
+      "tiers": "Programme of 2013 to 2023, phased out 2022/23; a second phase as a mass registration campaign to 2030 is in preparation"
+    },
+    {
+      "system": "CRS integration with GoTHOMIS and eHMS",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Registration Insolvency and Trusteeship Agency (RITA)",
+      "tiers": "Efforts reported in October 2024 to integrate the CRS with PO-RALG's GoTHOMIS and the Ministry of Health's eHMS"
+    }
   ],
   "note": ""
 }

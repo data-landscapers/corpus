@@ -1,12 +1,46 @@
 {
   "slug": "2021-08-03-ami-anrpts-nizam-mundamij-sijil-sukkan-153-markaz-istiqbal",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The new integrated system for managing the population register and secure documents was inaugurated by the Prime Minister on 3 August 2021 at the headquarters of the national agency ANRPTS, with the Minister of the Interior and Decentralisation presenting it as his sector's project and the agency's director general crediting national staff with building it.", "as_of": "2021-08-03", "date_precision": "day", "system": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة (ANRPTS integrated system)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:not-stated", "fact": "The ANRPTS director general said on 3 August 2021 that the system cost 12,157,616 euros, equal to the agency's revenues for 2019 alone; the report does not say from which budget it was paid.", "as_of": "2021-08-03", "date_precision": "day", "system": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة (ANRPTS integrated system)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:91.1%", "fact": "The ANRPTS director general said on 3 August 2021 that 153 citizen reception centres had been received and equipped out of 168 to be built in communes and administrative centres to receive civil status declarations, enrol people and hand over secure documents; the figure is of centres equipped, against the planned network, not of centres stated to be entering events digitally.", "as_of": "2021-08-03", "date_precision": "day", "system": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة (ANRPTS integrated system)", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The new integrated system for managing the population register and secure documents was inaugurated by the Prime Minister on 3 August 2021 at the headquarters of the national agency ANRPTS, with the Minister of the Interior and Decentralisation presenting it as his sector's project and the agency's director general crediting national staff with building it.",
+      "as_of": "2021-08-03",
+      "date_precision": "day",
+      "system": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة (ANRPTS integrated system)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The ANRPTS director general said on 3 August 2021 that the system cost 12,157,616 euros, equal to the agency's revenues for 2019 alone; the report does not say from which budget it was paid.",
+      "as_of": "2021-08-03",
+      "date_precision": "day",
+      "system": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة (ANRPTS integrated system)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:91.1%",
+      "fact": "The ANRPTS director general said on 3 August 2021 that 153 citizen reception centres had been received and equipped out of 168 to be built in communes and administrative centres to receive civil status declarations, enrol people and hand over secure documents; the figure is of centres equipped, against the planned network, not of centres stated to be entering events digitally.",
+      "as_of": "2021-08-03",
+      "date_precision": "day",
+      "system": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة (ANRPTS integrated system)",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة (ANRPTS integrated system)", "country_label": "النظام المندمج الجديد لتسيير سجل السكان والوثائق المؤمنة; مراكز استقبال المواطنين (citizen reception centres)", "class": "civil", "platform": "four sub-systems: the national biometric population register merging each person's biographic and biometric data; production of secure documents (civil status acts, passports, identity cards, residence cards and others); traveller identity checks with a central visitors' register; biometric visas", "owner": "الوكالة الوطنية لسجل السكان والوثائق المؤمنة (ANRPTS), under the Ministry of the Interior and Decentralisation", "tiers": "153 citizen reception centres received and equipped of 168 planned in communes and administrative centres, to receive civil status declarations, enrolment and delivery of secure documents; visas at eight land and air crossing points and seven diplomatic and consular missions"}
+    {
+      "system": "النظام المندمج لتسيير سجل السكان والوثائق المؤمنة (ANRPTS integrated system)",
+      "country_label": "النظام المندمج الجديد لتسيير سجل السكان والوثائق المؤمنة; مراكز استقبال المواطنين (citizen reception centres)",
+      "class": "civil",
+      "platform": "four sub-systems: the national biometric population register merging each person's biographic and biometric data; production of secure documents (civil status acts, passports, identity cards, residence cards and others); traveller identity checks with a central visitors' register; biometric visas",
+      "owner": "الوكالة الوطنية لسجل السكان والوثائق المؤمنة (ANRPTS), under the Ministry of the Interior and Decentralisation",
+      "tiers": "153 citizen reception centres received and equipped of 168 planned in communes and administrative centres, to receive civil status declarations, enrolment and delivery of secure documents; visas at eight land and air crossing points and seven diplomatic and consular missions"
+    }
   ],
   "note": "Classed civil because the report says the system produces civil status acts and that the centres receive civil status declarations; it is also the identity and travel-document system. The report does not name births or deaths, nor say how a declaration is entered, so no events or made fact is taken."
 }

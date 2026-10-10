@@ -3,4 +3,4 @@ NER,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026,NE
 NER,civil,events,coverage,none,2024-12,NER-041,,
 NER,civil,made,coverage,connected,2026-04-22,NER-028,NER-040=paper,
 NER,civil,last12,qualifier,advancing,2026-09-03,NER-004;NER-007;NER-009;NER-013;NER-017;NER-023;NER-024;NER-025;NER-030;NER-039,,
-NER,civil,offices,coverage,share:37.6%,2026,NER-033,NER-014=share:68%;NER-018=count:4;NER-027=count:102;NER-036=count:103,
+NER,civil,offices,coverage,share:37.6%,2026,NER-033,NER-014=equipped:68%;NER-018=count:4;NER-027=count:102;NER-036=count:103,

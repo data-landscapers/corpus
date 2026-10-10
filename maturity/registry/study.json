@@ -162,9 +162,10 @@
       "key": "offices",
       "name": "Local offices doing the digital entry",
       "role": "coverage",
-      "pattern": "share:\\d{1,3}(\\.\\d+)?%|count:\\d+|pilot|none|not-published",
+      "pattern": "share:\\d{1,3}(\\.\\d+)?%|equipped:\\d{1,3}(\\.\\d+)?%|count:\\d+|pilot|none|not-published",
       "prefer": [
         "share:",
+        "equipped:",
         "count:",
         "pilot",
         "none",

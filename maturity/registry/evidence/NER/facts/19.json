@@ -1,13 +1,56 @@
 {
   "slug": "2026-08-10-niger-civil-status-digitalization-commemorative-day",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:68%", "fact": "UNICEF's Tahoua office head said on 10 August 2026 that UNICEF had contributed to the computerisation ('informatisation') of 68% of communes across the national territory; no numerator or denominator is given, and it is a share of communes computerised, not of offices said to be registering digitally.", "as_of": "2026-08-10", "date_precision": "day", "system": "informatisation des communes (état civil)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNICEF's Tahoua office head credited UNICEF with contributing to the computerisation of 68% of communes nationally (10 August 2026), and the Interior Ministry's deputy secretary-general thanked UNICEF and the civil-status partners; no domestic budget line is mentioned.", "as_of": "2026-08-10", "date_precision": "day", "system": "informatisation des communes (état civil)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Interior Ministry's deputy secretary-general, on 10 August 2026, presented the modernisation of civil-status centres and the introduction of digital technologies through computerisation as progress of the services in charge of civil status under the Interior Minister's mission letter, achieved with local authorities and partners.", "as_of": "2026-08-10", "date_precision": "day", "system": "informatisation des communes (état civil)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The deputy secretary-general said on 10 August 2026 that the 2026 civil-status reform has, among other things, provided for computerisation and digitalisation; the national theme of the African CRVS day was systematic registration of civil-status events 'for a successful digitalisation'.", "as_of": "2026-08-10", "date_precision": "day", "system": "informatisation des communes (état civil)", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:68%",
+      "fact": "UNICEF's Tahoua office head said on 10 August 2026 that UNICEF had contributed to the computerisation ('informatisation') of 68% of communes across the national territory; no numerator or denominator is given, and it is a share of communes computerised, not of offices said to be registering digitally.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "informatisation des communes (état civil)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNICEF's Tahoua office head credited UNICEF with contributing to the computerisation of 68% of communes nationally (10 August 2026), and the Interior Ministry's deputy secretary-general thanked UNICEF and the civil-status partners; no domestic budget line is mentioned.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "informatisation des communes (état civil)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Interior Ministry's deputy secretary-general, on 10 August 2026, presented the modernisation of civil-status centres and the introduction of digital technologies through computerisation as progress of the services in charge of civil status under the Interior Minister's mission letter, achieved with local authorities and partners.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "informatisation des communes (état civil)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The deputy secretary-general said on 10 August 2026 that the 2026 civil-status reform has, among other things, provided for computerisation and digitalisation; the national theme of the African CRVS day was systematic registration of civil-status events 'for a successful digitalisation'.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "informatisation des communes (état civil)",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "informatisation des communes (état civil)", "country_label": "informatisation des communes; modernisation des centres d'état civil", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur (Direction Générale de l'état civil), with communes; UNICEF support", "tiers": "communes: 68% computerised nationally, per UNICEF"}
+    {
+      "system": "informatisation des communes (état civil)",
+      "country_label": "informatisation des communes; modernisation des centres d'état civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur (Direction Générale de l'état civil), with communes; UNICEF support",
+      "tiers": "communes: 68% computerised nationally, per UNICEF"
+    }
   ],
   "note": "The Tahoua governor also committed to 'covering the remaining communes' (Tassara, Tillia, Takanamat and Tebaram) without saying covering with what; no fact is taken from it. The document does not say which events are entered digitally or how the record is made."
 }

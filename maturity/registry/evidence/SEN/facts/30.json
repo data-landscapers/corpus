@@ -1,13 +1,54 @@
 {
   "slug": "2026-07-21-anec-senegal-etat-davancement-lgec-437-sur-629",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:70%", "fact": "ANEC's own consolidated data of 17 July 2026 count 629 civil-status centres of which 437 are fully deployed with the LGEC, a national deployment rate of 70%; a share deployed, not stated as a share registering.", "as_of": "2026-07-17", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Agence Nationale de l'État Civil (ANEC) runs the remediation programme under which the LGEC is deployed across the national territory, per its own statement of progress at 18 July 2026.", "as_of": "2026-07-18", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "ANEC reported that LGEC deployment had passed 70% of centres, 437 of 629, on its consolidated data of 17 July 2026.", "as_of": "2026-07-17", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:70%",
+      "fact": "ANEC's own consolidated data of 17 July 2026 count 629 civil-status centres of which 437 are fully deployed with the LGEC, a national deployment rate of 70%; a share deployed, not stated as a share registering.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Agence Nationale de l'État Civil (ANEC) runs the remediation programme under which the LGEC is deployed across the national territory, per its own statement of progress at 18 July 2026.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "ANEC reported that LGEC deployment had passed 70% of centres, 437 of 629, on its consolidated data of 17 July 2026.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "Logiciel de Gestion de l'État Civil (LGEC)", "country_label": "LGEC", "class": "civil", "platform": "", "owner": "Agence Nationale de l'État Civil (ANEC)", "tiers": "civil-status centres; 437 of 629 fully deployed at 17 July 2026"},
-    {"system": "SAMA ETAT CIVIL", "country_label": "SAMA ETAT CIVIL", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "online platform for users, being activated; no figure in the captured text"}
+    {
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "country_label": "LGEC",
+      "class": "civil",
+      "platform": "",
+      "owner": "Agence Nationale de l'État Civil (ANEC)",
+      "tiers": "civil-status centres; 437 of 629 fully deployed at 17 July 2026"
+    },
+    {
+      "system": "SAMA ETAT CIVIL",
+      "country_label": "SAMA ETAT CIVIL",
+      "class": "certificate",
+      "platform": "",
+      "owner": "ANEC",
+      "tiers": "online platform for users, being activated; no figure in the captured text"
+    }
   ],
   "note": "The capture is an excerpt: only the opening of the post is served, and the remaining figures sit in an image that was not captured."
 }

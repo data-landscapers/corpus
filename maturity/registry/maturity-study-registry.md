@@ -3,18 +3,16 @@ type: task
 reader: cc
 title: maturity-study-registry.md — the third maturity study: rural registry offices, as civil registration
 last_reviewed: 2026-10-10
-status: CC's proposal, with Bill's five rulings of 2026-10-10; review under way
+status: CC's proposal, with Bill's five rulings of 2026-10-10; reviewed and the ladder tested 2026-10-10
 ---
 
 # Maturity study: registry — civil registration
 
-*(Commissioned by Bill on 2026-10-10, the third study under `maturity/documentation/maturity-study-method.md`. Lines marked (Bill) are his; the rest is CC's proposal, modelled on `maturity/schools/maturity-study-schools.md`. Study id `registry`. Triggers: "**run maturity study registry**", then "**run maturity study registry phase 2**".)*
+*(Commissioned by Bill on 2026-10-10, the third study under `maturity/documentation/maturity-study-method.md`. Lines marked (Bill) are his; the rest is CC's. Study id `registry`. Triggers: "**run maturity study registry**", then "**… phase 2**".)*
 
 ## 1. The question, and the rows it redraws
 
-**Does the local civil registration office enter a birth or a death digitally, when it is declared?** Two frame rows ask near it. `digital.rural--digitalisation-of-rural-registry-offices` has no settled subject: its 54 cells hold civil registration, identity-card enrolment, land and deeds offices, mobile drives and the scanning of old registers, staged as one thing. `dpi.registry--civil-register` stages a central digital register, which a country reaches by keying or scanning paper its offices still write.
-
-**A scanned register is an archive, and an identity drive is a campaign. Neither is an office registering digitally, and the study must not read either as one.**
+**Does the local civil registration office enter a birth or a death digitally, when it is declared?** Two frame rows ask near it. `digital.rural--digitalisation-of-rural-registry-offices` has no settled subject: its cells stage civil registration, identity enrolment, land offices, mobile drives and the scanning of old registers as one thing. `dpi.registry--civil-register` stages a central digital register, which a country reaches by keying or scanning paper its offices still write.
 
 **One sub-indicator replaces the rural row. `dpi.registry--civil-register` is not withdrawn: the register's national status is equally important** *(Bill, 2026-10-10)*, and this study leaves it as it stands.
 
@@ -22,7 +20,7 @@ status: CC's proposal, with Bill's five rulings of 2026-10-10; review under way
 |---|---|---|
 | Civil registration | Digitalisation of rural registry offices: civil registration | `digital.rural--digitalisation-of-rural-registry-offices-civil-registration` |
 
-The id enters `lookups/indicators.csv` only at acceptance, when the rural row is retired. **Identity enrolment and land registration get no ladder here**: `dpi.id` and `dpi.registry--land-register` hold them.
+The id enters `lookups/indicators.csv` only at acceptance, when the rural row is retired. **Identity enrolment and land registration get no ladder here.**
 
 `dpi.id--interoperability-of-birth-registration-and-digital-id` is not redrawn. Its evidence is logged in `maturity/registry/exchange.csv`.
 
@@ -40,13 +38,13 @@ The id enters `lookups/indicators.csv` only at acceptance, when the rural row is
 | `enabling` | Connectivity, devices, power, premises | Noted, not assessed |
 | `exchange` | Links from the civil register to the identity system, health or statistics | Logged for `dpi.id` |
 
-**The test that separates `civil` from the rest: is the event entered as a digital record where and when it is registered?** A register written by hand and digitised afterwards by a project is `archive`. A paper register keyed elsewhere as routine, for each new event, is `civil` kept `keyed-elsewhere`.
+**The test: is the event entered as a digital record where and when it is registered?** A register digitised afterwards by a project is `archive`. A paper register keyed elsewhere as routine, for each new event, is `civil`, `keyed-elsewhere`.
 
 **Classified by what the source says the system does, never by name**; a name alone is unclassified.
 
 **A registrar's desk in a maternity is a registry office** where the source says the birth is registered there; where the facility only notifies, it is `notification`. **A mobile team that is a permanent feature of the service is an office; one fielded for a campaign is `outreach`** *(Bill)*. Where the source does not say, it is a campaign.
 
-**Offices.** A local office is any office below the national one that registers events: commune, sub-prefecture and secondary centres, district and sub-county registrars, *conservatórias*, civil-status bureaux. The denominator is the country's own count of them; its names are mapped in `systems.csv`.
+**Offices.** A local office is any office below the national one that registers events: commune, sub-prefecture and secondary centres, district and sub-county registrars, *conservatórias*, civil-status bureaux. The denominator is the country's own count of them.
 
 **Events.** B births, D deaths. Marriages and divorces are noted.
 
@@ -60,7 +58,7 @@ The id enters `lookups/indicators.csv` only at acceptance, when the rural row is
 | 2 | Events registered digitally | coverage | B, D, or none |
 | 3 | How the record is made | coverage | `connected`: at the office, at registration, and held in the national register, online or by synchronising. `local`: at the office, in a system that stays in the office. `keyed-elsewhere`: at a higher level, from the office's paper register, as routine. `paper` |
 | 4 | Last twelve months | qualifier | Advancing, no change on record, or regressing, with the dated event |
-| 5 | Local offices doing the digital entry | coverage | Share of local offices, with numerator, denominator, year and who says so; else a count; else *not published* |
+| 5 | Local offices doing the digital entry | coverage | Share of local offices, with numerator, denominator, year and who says so; else `equipped`, a share given or connected to the system; else a count; else *not published* |
 
 **Aspects 2, 3 and 5 set the stage; 1 and 4 cap or flag it and never raise it. The cap rule and aspect 4 are the health study's, unchanged** (its §3): without the registrar's ministry or agency as owner and a domestic budget line or current plan, stage 4 or 5 is capped at 3 and flagged *externally run*.
 
@@ -68,7 +66,7 @@ The id enters `lookups/indicators.csv` only at acceptance, when the rural row is
 
 ## 4. The ladder
 
-A draft, tested and fixed at R3. **Deaths are a stage 5 requirement only** *(Bill)*.
+Tested and fixed at R3, 2026-10-10 (`ladder-test.csv`): every rung is reached. **Deaths are a stage 5 requirement only** *(Bill)*.
 
 **Civil registration**
 
@@ -80,33 +78,35 @@ A draft, tested and fixed at R3. **Deaths are a stage 5 requirement only** *(Bil
 | 4 Operating | B | `connected` | More than half, on a share or a count with a denominator |
 | 5 Leading | B and D | `connected` | 90 per cent or more, on a figure published within two years that gives the rural share |
 
-**Pilot or live is the source's word**, and **preparation is the health study's** (§4), both as the schools study applies them.
+**Pilot or live, and preparation, are read as the schools study reads them** (its §4).
 
 **An archive never places a country above stage 1.** A country holding only noted classes is unplaced, or stage 1 where a source states that offices register on paper; what it holds prints under *Noted, not assessed*.
 
-**A share of communes or districts with a digital office is read as the share of offices**; the short summary says which. A share of offices *equipped* or *connected* is not a share registering: it places by the lower rung. A share of births registered is not a share of offices, and places nothing.
+**A share of communes or districts with a digital office is read as the share of offices**; the short summary says which. A share of offices *equipped*, *deployed*, *computerised* or *digitised* is not a share registering: it is `equipped` and places at stage 3. *All offices*, said by the registrar or the statistics office beside a count of offices, is 100 per cent. A share of births registered places nothing.
+
+**Fixed at R3.** What a law prescribes or permits is governance and places nothing. A paper form keyed at the same office when the event is registered is entry at the office. A digital record with no event named is read as births. A union of two registration systems is staged on the part holding most of the population, and the long summary states the other.
 
 ## 5. The norm
 
 The frame's anchor (`lookups/maturity-norms.csv`): the AU Digital Transformation Strategy's 99.9 per cent legal identity by 2030, and the 100 per cent of births and 80 per cent of deaths of SDG 17.19.2(b) that the APAI-CRVS papers restate.
 
-**It does not measure what the sub-indicator measures.** It counts people and events registered, which a paper office meets. No norm addresses how a local office registers. The ladder borrows nothing from it; the 90 per cent line is the health study's. *Read from the texts at R3; this paragraph is from the lookup.*
+**It does not measure what the sub-indicator measures**: it counts people and events registered, which a paper office meets. The ladder borrows nothing from it; the 90 per cent line is the health study's. *Read from the texts at R3; this paragraph is from the lookup.*
 
 ## 6. What Phase 1 reads and searches for
 
 - **Subjects**: `digital.rural`, `dpi.registry`, `dpi.id`.
-- **Term list**: in `study.json`. Archive and notification terms are in it on purpose.
-- **Source types for the briefs**, ranked: the registrar's annual reports, manuals and circulars, which say which offices enter what; CRVS strategies, comprehensive assessments and costed plans; World Bank, UNICEF, UNDP and UNFPA appraisal and implementation reports; UNECA and APAI-CRVS country papers; the civil registration law and its decrees, for what the electronic record is in law; dated news of a rollout, an outage or a withdrawal, for aspect 4.
+- **Term list**: in `study.json`.
+- **Source types for the briefs**, ranked: the registrar's annual reports, manuals and circulars, which say which offices enter what; vital statistics reports; CRVS strategies, assessments and costed plans; World Bank, UNICEF, UNDP and UNFPA appraisal and implementation reports; UNECA and APAI-CRVS country papers; dated news of a rollout, an outage or a withdrawal, for aspect 4.
 
 ## 7. Tasks, in order
 
-- [x] **R1. Bill's rulings**: five, 2026-10-10, marked above.
-- [ ] **R2. Review all 54 countries in one run**, method §4.
-- [ ] **R3. Test and fix the ladder** on the profiles; read the norm's texts.
+- [x] **R1. Bill's rulings**: five, 2026-10-10.
+- [x] **R2. Review all 54 countries in one run**, method §4: 3,610 documents, 1,482 facts.
+- [x] **R3. Test and fix the ladder** on the profiles. *The norm's texts are still to be read.*
 - [ ] **R4. Search, select and hand over**, method §5.
 - [ ] **R5. Phase 2**, on Bill's trigger, method §6 and §7.
 - [ ] **R6. Write, render and lint**, method §8.
-- [ ] **R7. Report to Bill.** Acceptance is his.
+- [ ] **R7. Report to Bill.**
 
 ## Boundary
 

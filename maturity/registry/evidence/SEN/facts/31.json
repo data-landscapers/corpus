@@ -1,16 +1,84 @@
 {
   "slug": "2026-07-21-lesoleil-anec-lgec-etat-civil",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:70%", "fact": "ANEC's consolidated data at 17 July 2026 put the LGEC in 437 of the country's 629 civil-status centres, 70%, ranging by region from Thiès 98%, Dakar 92% and Fatick 90% down to Tambacounda 47%, Sédhiou 44% and Kédougou 42%; a share deployed, per Le Soleil.", "as_of": "2026-07-17", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "offices", "value": "count:299", "fact": "ANEC's data at 17 July 2026 count 299 centres redeployed and made fully functional in the year's remediation operations, against 437 of 629 centres with the LGEC deployed.", "as_of": "2026-07-17", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "At 17 July 2026 the LGEC system held 15,359,558 civil-status acts on ANEC's data: 14,839,577 births (97%), 487,259 deaths (3%) and 31,963 marriages.", "as_of": "2026-07-17", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "ANEC's data describe 437 centres as connected to the digital infrastructure and one LGEC system totalling 15,359,558 acts nationally, with 5,610 new acts registered in it on the single day of 17 July 2026.", "as_of": "2026-07-17", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Agence Nationale de l'État Civil (ANEC) deploys the LGEC and had trained 2,318 people in 599 centres, 1,485 agents and 833 civil-status officers, by 17 July 2026.", "as_of": "2026-07-17", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "After Dakar and Thiès, ANEC ran a 17-day operation from 13 to 29 July 2026 in the Louga, Diourbel and Fatick regions, with LGEC deployment at 437 of 629 centres on 17 July 2026 and all 629 as the stated aim.", "as_of": "2026-07-17", "date_precision": "day", "system": "Logiciel de Gestion de l'État Civil (LGEC)", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:70%",
+      "fact": "ANEC's consolidated data at 17 July 2026 put the LGEC in 437 of the country's 629 civil-status centres, 70%, ranging by region from Thiès 98%, Dakar 92% and Fatick 90% down to Tambacounda 47%, Sédhiou 44% and Kédougou 42%; a share deployed, per Le Soleil.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:299",
+      "fact": "ANEC's data at 17 July 2026 count 299 centres redeployed and made fully functional in the year's remediation operations, against 437 of 629 centres with the LGEC deployed.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "At 17 July 2026 the LGEC system held 15,359,558 civil-status acts on ANEC's data: 14,839,577 births (97%), 487,259 deaths (3%) and 31,963 marriages.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "ANEC's data describe 437 centres as connected to the digital infrastructure and one LGEC system totalling 15,359,558 acts nationally, with 5,610 new acts registered in it on the single day of 17 July 2026.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Agence Nationale de l'État Civil (ANEC) deploys the LGEC and had trained 2,318 people in 599 centres, 1,485 agents and 833 civil-status officers, by 17 July 2026.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "After Dakar and Thiès, ANEC ran a 17-day operation from 13 to 29 July 2026 in the Louga, Diourbel and Fatick regions, with LGEC deployment at 437 of 629 centres on 17 July 2026 and all 629 as the stated aim.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "Logiciel de Gestion de l'État Civil (LGEC)", "country_label": "LGEC", "class": "civil", "platform": "", "owner": "Agence Nationale de l'État Civil (ANEC)", "tiers": "civil-status centres; 437 of 629 at 17 July 2026"},
-    {"system": "SAMA ÉTAT CIVIL", "country_label": "SAMA ÉTAT CIVIL", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "online services for citizens; activated in 112 of the 437 connected centres at 17 July 2026"}
+    {
+      "system": "Logiciel de Gestion de l'État Civil (LGEC)",
+      "country_label": "LGEC",
+      "class": "civil",
+      "platform": "",
+      "owner": "Agence Nationale de l'État Civil (ANEC)",
+      "tiers": "civil-status centres; 437 of 629 at 17 July 2026"
+    },
+    {
+      "system": "SAMA ÉTAT CIVIL",
+      "country_label": "SAMA ÉTAT CIVIL",
+      "class": "certificate",
+      "platform": "",
+      "owner": "ANEC",
+      "tiers": "online services for citizens; activated in 112 of the 437 connected centres at 17 July 2026"
+    }
   ],
   "note": ""
 }

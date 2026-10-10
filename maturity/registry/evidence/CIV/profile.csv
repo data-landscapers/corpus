@@ -3,4 +3,4 @@ CIV,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026
 CIV,civil,events,coverage,B;D,2025,CIV-003;CIV-009,CIV-033=B;D,
 CIV,civil,made,coverage,local,2019-10-02,CIV-032,CIV-025=paper;CIV-031=paper,
 CIV,civil,last12,qualifier,advancing,2026-07-30,CIV-007;CIV-008;CIV-012;CIV-013,,
-CIV,civil,offices,coverage,share:98%,2026-03-02,CIV-018,CIV-001=count:699;CIV-004=share:100%;CIV-010=share:100%;CIV-024=count:105,
+CIV,civil,offices,coverage,equipped:98%,2026-03-02,CIV-018,CIV-001=count:699;CIV-004=equipped:100%;CIV-010=equipped:100%;CIV-024=count:105,

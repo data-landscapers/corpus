@@ -3,4 +3,4 @@ TZA,civil,governance,qualifier,owner:ministry;plan:current,2026-07-18,TZA-004;TZ
 TZA,civil,events,coverage,B;D,2026-07-18,TZA-001;TZA-009;TZA-015,,
 TZA,civil,made,coverage,connected,2026-07-18,TZA-002;TZA-010;TZA-016,TZA-007=paper;TZA-017=keyed-elsewhere,
 TZA,civil,last12,qualifier,advancing,2026,TZA-005;TZA-020;TZA-021,TZA-022=regressing,
-TZA,civil,offices,coverage,share:100%,2026-07-18,TZA-003;TZA-018,TZA-011=count:12025;TZA-019=share:57%,
+TZA,civil,offices,coverage,share:57%,2024,TZA-019,TZA-003=not-published;TZA-011=count:12025;TZA-018=equipped:100%,

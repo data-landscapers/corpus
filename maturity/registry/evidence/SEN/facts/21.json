@@ -1,15 +1,74 @@
 {
   "slug": "2026-08-10-senegal-anec-civil-registry-sovereignty-modernisation",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:74%", "fact": "ANEC's director general said on 10 August 2026 that the Logiciel de gestion de l'état civil was deployed in 74% of civil-status centres, a share deployed and with no count of centres given in the document.", "as_of": "2026-08-10", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Agence nationale de l'état civil (ANEC) deploys the LGEC and trained 920 civil-status agents and officers in the Dakar, Thiès, Diourbel, Fatick and Louga regions between May and 10 August 2026.", "as_of": "2026-08-10", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "A Plan national de remédiation of the LGEC and of the Sama État civil platform began in May 2026, and its fourth phase was launched at Kaolack on 10 August 2026, to cover Kaffrine and Tambacounda as well.", "as_of": "2026-08-10", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:not-stated", "fact": "ANEC's director general called on 10 August 2026 for the public authorities to strengthen the agency's financial means, notably its investment fund; the document states no budget line or donor for the LGEC.", "as_of": "2026-08-10", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The fourth phase of the national remediation plan for the LGEC was launched at Kaolack on 10 August 2026, three months after the plan began in May 2026, with the software then deployed in 74% of centres.", "as_of": "2026-08-10", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:74%",
+      "fact": "ANEC's director general said on 10 August 2026 that the Logiciel de gestion de l'état civil was deployed in 74% of civil-status centres, a share deployed and with no count of centres given in the document.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Logiciel de gestion de l'état civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Agence nationale de l'état civil (ANEC) deploys the LGEC and trained 920 civil-status agents and officers in the Dakar, Thiès, Diourbel, Fatick and Louga regions between May and 10 August 2026.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Logiciel de gestion de l'état civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "A Plan national de remédiation of the LGEC and of the Sama État civil platform began in May 2026, and its fourth phase was launched at Kaolack on 10 August 2026, to cover Kaffrine and Tambacounda as well.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Logiciel de gestion de l'état civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "ANEC's director general called on 10 August 2026 for the public authorities to strengthen the agency's financial means, notably its investment fund; the document states no budget line or donor for the LGEC.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Logiciel de gestion de l'état civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The fourth phase of the national remediation plan for the LGEC was launched at Kaolack on 10 August 2026, three months after the plan began in May 2026, with the software then deployed in 74% of centres.",
+      "as_of": "2026-08-10",
+      "date_precision": "day",
+      "system": "Logiciel de gestion de l'état civil (LGEC)",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "Logiciel de gestion de l'état civil (LGEC)", "country_label": "LGEC", "class": "civil", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "civil-status centres; deployed in 74% of them at 10 August 2026"},
-    {"system": "Sama État civil", "country_label": "Sama État civil", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "online requests for civil-status acts by citizens; operational in 189 communes at 10 August 2026"}
+    {
+      "system": "Logiciel de gestion de l'état civil (LGEC)",
+      "country_label": "LGEC",
+      "class": "civil",
+      "platform": "",
+      "owner": "Agence nationale de l'état civil (ANEC)",
+      "tiers": "civil-status centres; deployed in 74% of them at 10 August 2026"
+    },
+    {
+      "system": "Sama État civil",
+      "country_label": "Sama État civil",
+      "class": "certificate",
+      "platform": "",
+      "owner": "ANEC",
+      "tiers": "online requests for civil-status acts by citizens; operational in 189 communes at 10 August 2026"
+    }
   ],
   "note": ""
 }

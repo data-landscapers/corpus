@@ -1,16 +1,82 @@
 {
   "slug": "2026-08-16-senegal-anec-civil-registry-digitisation-remediation-progress",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "offices", "value": "share:75%", "fact": "ANEC's steering data at 13 July 2026 show 471 of 629 civil-status centres digitalised with the LGEC, 75%, and 158 centres, 25%, still to digitalise; the article adds that digitalisation cannot be judged by centres equipped alone, regular data entry also counting.", "as_of": "2026-07-13", "date_precision": "day", "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "At 13 July 2026 the national system counted 15,352,830 acts centralised in the Registre national de l'état civil (RNEC), which the article describes as centralising the civil-status data alongside the LGEC used in the centres; it does not say how many of those acts were entered at registration.", "as_of": "2026-07-13", "date_precision": "day", "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Agence nationale de l'état civil (ANEC) carries the national remediation that deploys the LGEC in civil-status centres, with 3,695 agents and officers trained as at 13 July 2026.", "as_of": "2026-07-13", "date_precision": "day", "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "A national remediation plan for the digitalisation of civil-status centres, run by ANEC, sets the LGEC deployment by region: Kaolack from 10 to 20 August 2026, then Kaffrine and Tambacounda, and the south in the fourth quarter of 2026.", "as_of": "2026-08", "date_precision": "month", "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "A new remediation phase deploying the LGEC ran in the Kaolack region from 10 to 20 August 2026, after 471 of 629 centres were reached by 13 July 2026, with Kaffrine, Tambacounda and the south scheduled to follow in 2026.", "as_of": "2026-08", "date_precision": "month", "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:75%",
+      "fact": "ANEC's steering data at 13 July 2026 show 471 of 629 civil-status centres digitalised with the LGEC, 75%, and 158 centres, 25%, still to digitalise; the article adds that digitalisation cannot be judged by centres equipped alone, regular data entry also counting.",
+      "as_of": "2026-07-13",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "At 13 July 2026 the national system counted 15,352,830 acts centralised in the Registre national de l'état civil (RNEC), which the article describes as centralising the civil-status data alongside the LGEC used in the centres; it does not say how many of those acts were entered at registration.",
+      "as_of": "2026-07-13",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Agence nationale de l'état civil (ANEC) carries the national remediation that deploys the LGEC in civil-status centres, with 3,695 agents and officers trained as at 13 July 2026.",
+      "as_of": "2026-07-13",
+      "date_precision": "day",
+      "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "A national remediation plan for the digitalisation of civil-status centres, run by ANEC, sets the LGEC deployment by region: Kaolack from 10 to 20 August 2026, then Kaffrine and Tambacounda, and the south in the fourth quarter of 2026.",
+      "as_of": "2026-08",
+      "date_precision": "month",
+      "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "A new remediation phase deploying the LGEC ran in the Kaolack region from 10 to 20 August 2026, after 471 of 629 centres were reached by 13 July 2026, with Kaffrine, Tambacounda and the south scheduled to follow in 2026.",
+      "as_of": "2026-08",
+      "date_precision": "month",
+      "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "Logiciel de Gestion des Faits d'État Civil (LGEC)", "country_label": "LGEC", "class": "civil", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "civil-status centres; 471 of 629 at 13 July 2026"},
-    {"system": "Registre national de l'état civil (RNEC)", "country_label": "RNEC", "class": "civil", "platform": "", "owner": "ANEC", "tiers": "national; 15,352,830 acts centralised at 13 July 2026"},
-    {"system": "SAMA ÉTAT CIVIL", "country_label": "SAMA ÉTAT CIVIL", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "online requests by citizens; activation rate of 43% at 13 July 2026"}
+    {
+      "system": "Logiciel de Gestion des Faits d'État Civil (LGEC)",
+      "country_label": "LGEC",
+      "class": "civil",
+      "platform": "",
+      "owner": "Agence nationale de l'état civil (ANEC)",
+      "tiers": "civil-status centres; 471 of 629 at 13 July 2026"
+    },
+    {
+      "system": "Registre national de l'état civil (RNEC)",
+      "country_label": "RNEC",
+      "class": "civil",
+      "platform": "",
+      "owner": "ANEC",
+      "tiers": "national; 15,352,830 acts centralised at 13 July 2026"
+    },
+    {
+      "system": "SAMA ÉTAT CIVIL",
+      "country_label": "SAMA ÉTAT CIVIL",
+      "class": "certificate",
+      "platform": "",
+      "owner": "ANEC",
+      "tiers": "online requests by citizens; activation rate of 43% at 13 July 2026"
+    }
   ],
   "note": "The capture is truncated by the fetch tool; the end of the article was not retrieved."
 }
