@@ -1,0 +1,16 @@
+{
+  "slug": "2022-11-22-zmb-launch-of-the-national-civil-registration-and-vital-statistics-policy",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The UN Resident Coordinator's remarks mark the launch of the National CRVS Policy and its Implementation Plan, beside the 2021-25 CRVS National Strategic Action Plan, and say the policy will complement and strengthen the recently launched INRIS; the body prints no date and the published date is used.", "as_of": "2022-11-22", "date_precision": "day", "system": "Integrated National Registration Information System (INRIS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The UN Resident Coordinator credits the Government, through the Ministry of Home Affairs and Internal Security, with launching INRIS and scaling it up, and asks the ministry to convene donors to supplement Government's resources for it; published date used.", "as_of": "2022-11-22", "date_precision": "day", "system": "Integrated National Registration Information System (INRIS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:40", "fact": "The UN Resident Coordinator says the Government scaled INRIS up to over 40 districts within one year of its launch, in a country the remarks count at 116 districts; no count of offices registering is given; published date used.", "as_of": "2022-11-22", "date_precision": "day", "system": "Integrated National Registration Information System (INRIS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated National Registration Information System", "country_label": "INRIS", "class": "civil", "platform": "", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "over 40 districts within one year of launch"},
+    {"system": "birth and death notification desks in health facilities", "country_label": "birth and death notification desks", "class": "notification", "platform": "", "owner": "Ministry of Home Affairs and Internal Security with Ministry of Health, under the 2019 MOU", "tiers": "over 800 desks in health facilities across the country"},
+    {"system": "link between INRIS and SmartCare plus", "country_label": "", "class": "exchange", "platform": "", "owner": "Government, with UN support", "tiers": "in progress; to transmit birth and death notifications between health facilities and district civil registration offices"},
+    {"system": "stationary biometric kits", "country_label": "", "class": "enabling", "platform": "", "owner": "procured by the UN System with Government of Japan funding", "tiers": "all 116 districts and 25 selected health facilities"},
+    {"system": "SmartCare plus", "country_label": "Ministry of Health Information Management System (SmartCare plus)", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "No `events` or `made` fact: the remarks describe INRIS as covering civil registration and identity management from birth to death but do not say which events are entered in it or where the entry is made. Statutory Instrument No. 44 of 2016 decentralised birth and death certification to provincial and district levels."
+}

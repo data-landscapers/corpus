@@ -1,0 +1,108 @@
+{
+  "slug": "2019-05-01-ssd-final-report-for-multi-country-evaluation-for-birth-registration-for-m",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "keyed-elsewhere",
+      "fact": "The UNICEF-commissioned evaluation, carried out January to April 2019, reports that computer data entry of registration records was done above the registering office: in Tigray data entry clerks from all sites were converging at the regional headquarters for a mass data verification and entry programme, completed registers went up to federal level for quality assurance (342,363 between July 2017 and June 2018), and the evaluation recommends decentralising computerisation of birth registration data to at least woreda and where possible kebele level.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Computer data entry of civil registration records (VERA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The computer entry the evaluation describes and recommends decentralising is of birth registration data; it names no other event as computerised, and observes that the project design should also have covered death registration.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Computer data entry of civil registration records (VERA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Civil registration is run by the government's Vital Events Registration Agency, renamed the Immigration, Nationality and Vital Events Agency at federal level, with structures and employees at national, regional and woreda levels and the kebele manager acting as civil registrar in over 18,506 urban and rural kebeles legally mandated as registration centres; the evaluation dates this to early 2019.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Kebele civil registration (VERA / INVEA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The evaluation reports a National Costed Investment Plan and a national CRVS strategy, and its performance matrix records costed reform plans on CRVS systems as in place at the end of 2018 against none at baseline; it does not say whether the plan covers computerisation.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Kebele civil registration (VERA / INVEA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The evaluation finds birth registration included in government plans and budgets, the government having allocated funds to the process, and the Tigray and SNNPR regional offices having put budgetary support for CRVS in their action plans; it gives no amounts and names weak fiscal space as an inhibiting factor.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Kebele civil registration (VERA / INVEA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNICEF's BR4MNCH project, funded by Global Affairs Canada, budgeted US$5,780,970 for Ethiopia over 2014 to 2018 for birth registration, HMIS and their interoperability, with further funds from the Italian Government; 14,796 civil registrars were trained in five regions.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Kebele civil registration (VERA / INVEA)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Kebele civil registration (VERA / INVEA)",
+      "country_label": "conventional civil registration system; vital events registration",
+      "class": "civil",
+      "platform": "registers and standardised forms; no software named",
+      "owner": "Vital Events Registration Agency (federal: Immigration, Nationality and Vital Events Agency), with regional agencies",
+      "tiers": "over 18,506 urban and rural kebeles mandated as registration centres, launched nationwide August 2016; 88.5 per cent of centres functional in the five project regions (Amhara 100 per cent, Somali 22.2 per cent)"
+    },
+    {
+      "system": "Computer data entry of civil registration records (VERA)",
+      "country_label": "",
+      "class": "civil",
+      "platform": "",
+      "owner": "Vital Events Registration Agency and regional agencies",
+      "tiers": "regional headquarters (Tigray, clerks from all sites) and above; not at woreda or kebele, to which the evaluation recommends extending it"
+    },
+    {
+      "system": "Health facility and health extension worker birth notification",
+      "country_label": "birth notification",
+      "class": "notification",
+      "platform": "standardised notification forms",
+      "owner": "Ministry of Health, under an MoU with VERA",
+      "tiers": "health facilities (maternity, immunisation and nutrition points) and health extension workers for home births; 100 per cent of public health facilities in Tigray; available in 88 per cent of targeted woredas at end 2018"
+    },
+    {
+      "system": "Civil registration system for refugees",
+      "country_label": "",
+      "class": "civil",
+      "platform": "",
+      "owner": "national authorities",
+      "tiers": "launched October 2017; refugees record birth, death, marriage and divorce at no charge"
+    },
+    {
+      "system": "HMIS / DHIS II",
+      "country_label": "DHIS II; Community Health Information System (CHIS)",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Health",
+      "tiers": "health facilities report the number of children notified as an indicator; CHIS integrated into the national HMIS"
+    }
+  ],
+  "note": "Passages file read whole (6,519 lines). The evaluation covers Ethiopia and South Sudan; only what it states of Ethiopia is recorded. It nowhere says an entry is made digitally at the kebele office, so no connected or local fact and no offices fact; it does not use the word paper of Ethiopia's registers, so no paper fact. Whether the Tigray mass data entry is routine or a one-off is not stated; it is recorded as keyed-elsewhere on the document's description of computer data entry as a standing data-quality process. Not facts here: 965,457 children registered over the project, and birth registration in targeted woredas up from 7 to 16 per cent against a 50 per cent target. The South Sudan electronic notification pilot and database belong to SSD. HMIS / DHIS II is a health information system carrying a notification indicator, which no class in the typology describes."
+}

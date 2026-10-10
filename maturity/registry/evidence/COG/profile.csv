@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 COG,civil,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-09-22,COG-001;COG-015;COG-034,COG-005=owner:ministry;COG-009=owner:ministry;COG-010=owner:ministry;COG-016=owner:ministry;COG-019=owner:ministry;COG-021=owner:ministry;COG-030=finance:donor;COG-025=finance:donor;COG-028=owner:ministry;COG-029=finance:donor;COG-038=owner:ministry;COG-039=plan:current;COG-040=finance:not-stated;COG-041=owner:ministry,
 COG,civil,events,coverage,B;D,2026-09-22,COG-004;COG-006;COG-008;COG-018;COG-022,COG-024=none,
-COG,civil,made,coverage,local,2021-04-26,COG-032;COG-036,COG-017=paper;COG-026=paper;COG-031=paper;COG-035=paper,
+COG,civil,made,coverage,local,2021-04-26,COG-032;COG-036,COG-017=paper;COG-043=paper;COG-026=paper;COG-031=paper;COG-035=paper,
 COG,civil,last12,qualifier,advancing,2026-09-22,COG-002;COG-013;COG-020;COG-023,,
-COG,civil,offices,coverage,count:2,2020-12,COG-037,COG-003=none;COG-007=none;COG-014=none;COG-027=not-published;COG-033=not-published,
+COG,civil,offices,coverage,count:2,2020-12,COG-037,COG-003=none;COG-007=none;COG-014=none;COG-042=none;COG-027=not-published;COG-033=not-published,

@@ -1,0 +1,12 @@
+{
+  "slug": "2021-05-31-tgo-chaque-nom-compte-la-digitalisation-des-actes-detat-civil-une-experien",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "UNDP Togo states, on a visit of 27 May 2021, that the Kadodo application in the commune of Lacs 1 (Aného) records civil status acts, naming births, deaths and marriages, and gives the mayor a dashboard of statistics; it reports 1,975 births registered in 2020 against 700 in 2019.", "as_of": "2021-05-27", "date_precision": "day", "system": "Kadodo", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:1", "fact": "UNDP Togo describes the Kadodo application as in use in one commune, Lacs 1, as of 27 May 2021; it gives no number of civil status centres in the commune and no national total.", "as_of": "2021-05-27", "date_precision": "day", "system": "Kadodo", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNDP Togo states that Kadodo was selected in a 2020 challenge run by its Accelerator Lab and that UNDP supplied the equipment and trained those involved in Lacs 1; no domestic budget line is mentioned.", "as_of": "2021-05-27", "date_precision": "day", "system": "Kadodo", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Kadodo", "country_label": "application collaborative Kadodo; digitalisation de l'enregistrement des actes d'état civil", "class": "civil", "platform": "Kadodo", "owner": "Commune Lacs 1, with equipment and training from UNDP; selected through the UNDP Accelerator Lab challenge of 2020", "tiers": "commune of Lacs 1 (Aného): records births, deaths and marriages, shares data in real time between health centres and the town hall's civil status service, and sends the declarant SMS updates"}
+  ],
+  "note": "No made fact: the article does not say in so many words where the entry is made, and names no national register. UNDP also says it equipped about sixty communes with office furniture and computer equipment in 2020."
+}

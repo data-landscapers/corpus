@@ -1,0 +1,19 @@
+{
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "equipped:77%",
+      "cap": "",
+      "flags": "advancing;backlog capture",
+      "stage_sources": "SEN-001;SEN-005;SEN-028;SEN-034;SEN-035",
+      "gaps": "No fact gives a share or count of centres registering events in the LGEC: every figure (77% of 629 in September 2026, 471 and 437 of 629 earlier) is centres digitised, deployed or covered, and SEN-015 itself says equipped centres are not the same as centres entering data. Deaths are held in the system (SEN-034) but no fact says they are entered at the office at registration; no rural share is given, only regional deployment rates (SEN-032); the total of centres is 629 in 2026 and 689 in SEN-054; finance:domestic rests on an unnotified 2026 agency budget (SEN-013) and an unquantified 'substantial public funding' (SEN-056), beside EU finance to June 2026 (SEN-042).",
+      "note": "The LGEC is past its pilot (SEN-028) and live in the centres, registering births into one national system, but the offices figure is a share equipped, which the ladder places at stage 3. Stage 4 needs more than half of offices shown as doing the entry, on a share or a count with a denominator."
+    }
+  ]
+}

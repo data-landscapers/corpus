@@ -2,5 +2,5 @@ iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 LBR,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2024,LBR-005;LBR-006;LBR-007,LBR-016=finance:donor;LBR-018=owner:ministry;LBR-019=finance:donor;LBR-020=owner:ministry;LBR-021=plan:current;LBR-022=finance:donor;LBR-026=owner:ministry;LBR-027=finance:domestic;LBR-028=plan:current;LBR-029=owner:ministry,
 LBR,civil,events,coverage,B;D,2024,LBR-008;LBR-009;LBR-014,LBR-024=B;LBR-030=B,
 LBR,civil,made,coverage,connected,2024,LBR-010,LBR-017=paper;LBR-023=paper;LBR-011=local;LBR-031=keyed-elsewhere,
-LBR,civil,last12,qualifier,advancing,2024,LBR-013,,nothing dated since 2025-10-10
+LBR,civil,last12,qualifier,advancing,2024,LBR-013,,nothing dated since 2025-09-28
 LBR,civil,offices,coverage,count:14,2015,LBR-032,LBR-012=not-published;LBR-015=not-published;LBR-025=none,

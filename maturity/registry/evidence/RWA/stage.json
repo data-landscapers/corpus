@@ -1,0 +1,19 @@
+{
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "4",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "share:100%",
+      "cap": "",
+      "flags": "identity integrated;backlog capture;advancing",
+      "stage_sources": "RWA-019;RWA-020;RWA-022",
+      "gaps": "The 100 per cent is the statistics institute's statement that NCI-CRVS is fully operational at all categories of registration office in 2025, beside the totals of 416 sectors and 2,148 cells; it gives no count of offices using the system and no rural share. The two newer offices rows (RWA-002, RWA-006) publish no figure, and RWA-006 has cell secretaries still in training, in a text dated by publication that reads as older. Within the twelve months RWA-024 reports timely death registration falling from 96.3% to 89.9% in 2025, against rising completeness (RWA-023); the launches in RWA-009 and RWA-016 carry publication dates only.",
+      "note": "Births and deaths are entered in real time at the office of registration in the national system, at all registration offices on the statistics institute's account, with the agency as owner and a domestic budget line. Stage 5 needs a figure of 90 per cent or more that gives the rural share, and none is held."
+    }
+  ]
+}

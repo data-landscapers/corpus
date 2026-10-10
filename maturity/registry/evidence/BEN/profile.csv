@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BEN,civil,governance,qualifier,owner:ministry;finance:donor,2026-09-19,BEN-003;BEN-009,BEN-008=owner:ministry;BEN-014=owner:ministry;BEN-015=finance:donor;BEN-026=owner:ministry;BEN-030=finance:donor;BEN-033=owner:ministry;BEN-034=finance:donor;BEN-035=finance:donor;BEN-036=owner:ministry,not stated: plan
-BEN,civil,events,coverage,B,2026-07-16,BEN-001;BEN-005;BEN-011;BEN-024;BEN-028;BEN-031,BEN-038=B;D,
+BEN,civil,governance,qualifier,owner:ministry;finance:donor,2026-09-19,BEN-003;BEN-009,BEN-008=owner:ministry;BEN-014=owner:ministry;BEN-015=finance:donor;BEN-042=owner:ministry;BEN-043=finance:domestic;BEN-026=owner:ministry;BEN-030=finance:donor;BEN-033=owner:ministry;BEN-034=finance:donor;BEN-035=finance:donor;BEN-036=owner:ministry,not stated: plan
+BEN,civil,events,coverage,B;D,2026-07-16,BEN-001;BEN-005;BEN-011;BEN-024;BEN-028;BEN-031;BEN-041,BEN-038=B;D,
 BEN,civil,made,coverage,connected,2026-07-16,BEN-007;BEN-013;BEN-037,BEN-039=paper,
 BEN,civil,last12,qualifier,advancing,2026-07-16,BEN-004;BEN-010;BEN-027,,
 BEN,civil,offices,coverage,pilot,2026-07-16,BEN-002;BEN-006;BEN-012;BEN-025;BEN-029;BEN-032,BEN-040=not-published,

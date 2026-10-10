@@ -1,0 +1,19 @@
+{
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "",
+      "offices": "count:1541",
+      "cap": "",
+      "flags": "identity integrated",
+      "stage_sources": "DZA-001;DZA-002;DZA-011;DZA-013;DZA-014",
+      "gaps": "The 1,541 commune databases are a 2019 count given with no total of local offices (communes and their administrative annexes), and the newest offices fact (DZA-012, 2025) gives no count or share entering digitally and finds paper persisting. The facts valued connected (DZA-002, DZA-008) do not say the entry is made at the commune office when the event is registered; the law keeps paper registers and sends a digitised copy. Nothing is held for the last twelve months and no rural figure is given.",
+      "note": "Births are registered in the national automated register across the communes, with the NIN issued at registration since 2018, so the system is past its pilot and live. Stage 4 needs words placing the entry at the office and more than half of offices on a share or a count with a denominator; the evidence gives a count alone."
+    }
+  ]
+}

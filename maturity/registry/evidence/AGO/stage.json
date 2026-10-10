@@ -1,0 +1,19 @@
+{
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "regressing",
+      "offices": "not-published",
+      "cap": "",
+      "flags": "rural gap;identity integrated;regressing",
+      "stage_sources": "AGO-002;AGO-012;AGO-013;AGO-027;AGO-028;AGO-029",
+      "gaps": "No source counts the offices registering in RCI: it is in Luanda's registries (39 units in the province) and one post each in Huambo, Benguela and Lubango, against at least 255 units nationally (more than 300 on the 2024 decree), and the majority of units are on paper, with SIRC offices holding records locally. Deaths in a digital system are not described, no source says the outage reported on 5 May 2026 has ended, the two maternity-post openings in the twelve months (AGO-009, AGO-010) read advancing but do not say the record is digital, and RCI's dependence on a private developer (AGO-031) sits against the ministry's ownership.",
+      "note": "Births are entered at the post in RCI's central database, past its four-registry pilot and live in some offices, which is rung 3. Rung 4 needs more than half of offices on a share or a count with a denominator, and the evidence gives no count and says most units still register on paper."
+    }
+  ]
+}

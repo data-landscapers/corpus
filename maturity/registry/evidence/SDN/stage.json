@@ -1,0 +1,19 @@
+{
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "",
+      "events": "B",
+      "made": "connected",
+      "last12": "regressing",
+      "offices": "count:1",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-003;SDN-005;SDN-009;SDN-010",
+      "gaps": "How the record is made rests on a 2023 account of the pre-war centralised electronic registry (SDN-010), which does not say at which desk the birth entry is keyed; nothing since the war began says how or where the record is made. The only office figure is one office issuing an electronic birth certificate on 17 May 2026 (SDN-005), with no total and no statement of how the underlying record is made. The twelve months disagree: closures in Darfur and Khartoum (SDN-001, SDN-002) are undated and carry publication dates, while the dated events are two Gezira offices reopening (SDN-004, SDN-006), so no flag is set. No governance fact falls inside the 36 months; deaths are not evidenced.",
+      "note": "A national electronic registry past its pilot registers births at local offices, with one office evidenced in 2026 and no total, which is a floor at stage 3. Stage 4 needs words saying the entry is made at the office and more than half of offices on a share or a count with a denominator; neither is held."
+    }
+  ]
+}

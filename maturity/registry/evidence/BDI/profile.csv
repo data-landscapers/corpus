@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-11,BDI-001;BDI-009;BDI-031,BDI-008=owner:ministry;BDI-014=owner:ministry;BDI-017=owner:ministry;BDI-020=owner:ministry;BDI-023=owner:ministry;BDI-025=owner:ministry;BDI-029=finance:donor,
-BDI,civil,events,coverage,,,,,nothing held
-BDI,civil,made,coverage,paper,2026-07-18,BDI-011;BDI-015;BDI-019;BDI-032,,
+BDI,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-11,BDI-001;BDI-009;BDI-031,BDI-008=owner:ministry;BDI-014=owner:ministry;BDI-017=owner:ministry;BDI-020=owner:ministry;BDI-023=owner:ministry;BDI-025=owner:ministry;BDI-029=finance:donor;BDI-035=finance:donor,
+BDI,civil,events,coverage,B;D,2024-07-19,BDI-034,,
+BDI,civil,made,coverage,paper,2026-07-18,BDI-011;BDI-015;BDI-019;BDI-032;BDI-036,,
 BDI,civil,last12,qualifier,advancing,2026-08-11,BDI-002;BDI-005;BDI-010;BDI-016;BDI-021;BDI-022;BDI-024,,
-BDI,civil,offices,coverage,count:13,2026-08-10,BDI-003;BDI-007,BDI-004=pilot;BDI-006=pilot;BDI-012=pilot;BDI-013=count:12;BDI-018=pilot;BDI-030=count:1,
+BDI,civil,offices,coverage,count:13,2026-08-10,BDI-003;BDI-007,BDI-004=pilot;BDI-006=pilot;BDI-012=pilot;BDI-013=count:12;BDI-018=pilot;BDI-030=count:1;BDI-033=count:12,

@@ -1,0 +1,19 @@
+{
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:79",
+      "cap": "",
+      "flags": "identity integrated;backlog capture;advancing",
+      "stage_sources": "GMB-003;GMB-013;GMB-014;GMB-015",
+      "gaps": "The 79 civil registration offices have no total against them, so the count is a floor; the same 2025 source also yields 258 health facility points (GMB-016) and, in its deck, no figure for how many points enter records (GMB-035). Both `connected` facts say the source does not state in terms that the record is keyed at the registration point at the moment of registration. No death module is in operation. GMB-021 and GMB-022 (a policy published 2024-02) call CRVS paper-based with no event registered digitally; the newer facts stand. No domestic budget line is stated and the World Bank operation ended in August 2025. The CRVS strategy was still to be finalised in the 2025 diagnostic; plan:current rests on the 2023-2028 strategy and the 2021-2030 health policy. Backlog capture rests on one systems.csv line from the 2024 policy, undated in its text. GMB-036 (April 2025) falls outside the twelve months. GMB-006 and GMB-007 are from the excluded source and set nothing.",
+      "note": "The eCRVS birth module is in operation, past its 2022 launch, with 79 local offices holding digitalised registers, which meets stage 3 on a count with no total. Stage 4 needs entry at the office stated in the fact's words and more than half of offices on a share or a count with a denominator; neither is held."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "pilot",
+      "cap": "",
+      "flags": "rural gap;advancing",
+      "stage_sources": "ETH-001;ETH-002;ETH-003;ETH-011;ETH-013;ETH-016",
+      "gaps": "No fact shows a system past its pilot outside Addis Ababa: the July 2026 presentation does not say which rollout phase had been reached, and the offices facts disagree (pilot in ETH-003, ETH-011, ETH-016 and ETH-023; count:50 in ETH-013, an announced start in the capital with no total; count:100 in ETH-027, capital only, 2018). The connected facts do not say the entry is made at the office, and ETH-015 (2025-07) calls registration mainly paper-based. Finance is not stated for the eCRVS, and the only finance fact in the window is donor support to ME-CRVS (ETH-025, 2023). Whether the birth feeds the Fayda number is stated only as a possibility in systems.csv, so identity integrated is not set.",
+      "note": "Every digital system on record is either called a pilot (national eCRVS phase 1, ME-CRVS in 1,300 of 19,202 kebeles) or runs in the capital only, which the ladder places at stage 2. Stage 3 needs a system past its pilot and live in local offices beyond the capital, and no fact says so."
+    }
+  ]
+}

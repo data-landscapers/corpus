@@ -1,0 +1,19 @@
+{
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "equipped:100%",
+      "cap": "",
+      "flags": "advancing;identity integrated;backlog capture",
+      "stage_sources": "LBY-005;LBY-006;LBY-007",
+      "gaps": "LBY-006 and LBY-007 say all offices are fully automated and electronically linked to one database; they do not say a birth or death is entered at the office when it is registered, so the share is read as equipped, not registering. The figure is the health ministry's, undated and published 2022, with two counts of service offices (400 and 380) and no rural share; no plan or finance is stated in the 36 months.",
+      "note": "The facts establish offices automated and linked, which is a share equipped and places at stage 3. Stage 4 needs the fact's words to say the entry is made at the office."
+    }
+  ]
+}

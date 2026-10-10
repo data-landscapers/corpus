@@ -1,0 +1,11 @@
+{
+  "slug": "2021-03-20-tun-modernisation-de-la-plateforme-de-l-etat-civil-madania-signature-de-l",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Webmanagercenter reports that the agreement to modernise the MADANIA civil status platform was signed on 19 March 2021 with the consortium of Inetum, DIGITECH France and IT SERV Company, the project being financed by the African Development Bank; no amount and no domestic budget line are given.", "as_of": "2021-03-19", "date_precision": "day", "system": "MADANIA", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "Webmanagercenter reports, at the signing of 19 March 2021, that the project for the new MADANIA civil status platform falls under the national strategic plan Tunisie Digitale 2020.", "as_of": "2021-03-19", "date_precision": "day", "system": "MADANIA", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "MADANIA", "country_label": "plateforme de l'Etat Civil « MADANIA »", "class": "civil", "platform": "", "owner": "agreement signed in the presence of the ministers of communication technologies and of local affairs; build entrusted to the consortium Inetum, DIGITECH France and IT SERV Company, financed by the African Development Bank", "tiers": "the new platform is to connect health establishments (for the registration of births and deaths), courts (registration of judgments) and consular posts abroad; stated as intended, 2021"}
+  ],
+  "note": "The connection of health establishments, courts and consulates is stated as what the new platform will allow, not as in place; the article says nothing of how municipal offices make the record, and does not name the platform's owner."
+}

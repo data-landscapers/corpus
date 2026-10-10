@@ -1,0 +1,19 @@
+{
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "no-change",
+      "offices": "equipped:83%",
+      "cap": "",
+      "flags": "identity integrated",
+      "stage_sources": "UGA-002;UGA-010;UGA-033;UGA-034",
+      "gaps": "No share or count of offices making the entry is held: UGA-034 (2020) gives MVRS as used in 112 of 135 districts, and 122 elsewhere in the same brief, and nothing on offices or on how the record is made is dated after 2020. The sources disagree on how the record is made: NIRA's January 2019 questionnaire has paper at the lowest centres keyed at regional level (UGA-040), the 2020 brief has entry at district offices into the central register (UGA-033). UGA-002 (July 2026) reports a new births module on NSIS with no offices and no date of going live, and UGA-009 does not say the current plan names a registration system; no dated event falls inside the twelve months.",
+      "note": "Births are entered in MVRS at district offices and held in the central register (UGA-033), but the offices figure is districts where the system is used, held as a share equipped, which places at stage 3. Stage 4 needs more than half of offices on a share or a count with a denominator of offices registering."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:partner;plan:none;finance:donor",
+      "events": "none",
+      "made": "paper",
+      "last12": "advancing",
+      "offices": "pilot",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "COD-011;COD-007",
+      "gaps": "No fact says an event has been registered digitally: the Masina pilot's births and deaths are stated as its aim (18 August 2025), and its own dates and results are not given. Last twelve months rests on a UNDP tender of 25 April 2026 for the design of digital tools; the one other dated event, a North Kivu sector office out of paper registers in July 2026, is one office and does not carry the country. No count of offices newer than the 979 of March 2019.",
+      "note": "One pilot, in a commune of the capital, run and financed by UN agencies, with registers described nationally as mostly manual in April 2026. Not stage 3: nothing is past its pilot or live in local offices."
+    }
+  ]
+}

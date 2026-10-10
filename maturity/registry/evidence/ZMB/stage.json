@@ -1,0 +1,19 @@
+{
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "events": "B;D",
+      "made": "keyed-elsewhere",
+      "last12": "",
+      "offices": "count:11",
+      "cap": "",
+      "flags": "backlog capture",
+      "stage_sources": "ZMB-007;ZMB-010;ZMB-015;ZMB-006;ZMB-020",
+      "gaps": "No count of local offices that enter events in INRIS themselves is published, and the figures disagree: the Minister's 2026 statement has INRIS deployed in eleven districts with no total (ZMB-006), a 2025 case study has access in 81 of 116 districts (ZMB-020), and earlier accounts give 26 district offices and over 40 districts; each is deployment or access, not offices registering. The facts also disagree on where entry is made: ZMB-015 and ZMB-017 have paper forms keyed at provincial or national headquarters, while ZMB-002 has one district office registering through INRIS in September 2026, which does not carry the country. Deaths are reported registered in INRIS (ZMB-010, ZMB-016), though the Minister names death certificates only as intended (ZMB-007). The cost of the exercise is stated without a source of funds (ZMB-009), an older fact naming donors (ZMB-022). Nothing dated inside the twelve months says the system advanced or regressed nationally. ZMB-004 and ZMB-005 are from an excluded source.",
+      "note": "INRIS is past its pilot and registers births in the districts where it is deployed, with the record keyed at a higher level from the office's paper as routine, which meets stage 3. Stage 4 needs entry at the office held in the national register and more than half of offices registering; the made value is keyed-elsewhere and the newest count is eleven districts with no total."
+    }
+  ]
+}

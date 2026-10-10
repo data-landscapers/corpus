@@ -1,0 +1,19 @@
+{
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "plan:current",
+      "events": "B;D",
+      "made": "keyed-elsewhere",
+      "last12": "",
+      "offices": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ERI-008;ERI-009;ERI-010",
+      "gaps": "The record-making facts date from 2015 and 2017 and nothing since describes how a birth is entered; the newest events fact (ERI-006, 2025-11) names only the computerised death certificate and does not say where it is entered, so B rests on ERI-009. No count of offices doing digital entry, no owner and no finance are stated, the 2024-2028 plan is not said to name a digital system, and nothing is held for the last twelve months.",
+      "note": "Births and deaths are written by hand at the kebabi and keyed into the zoba's electronic register at the sub-zoba as routine, in all six zobas, which is keyed-elsewhere and past a pilot. Stage 4 needs connected entry at the office and a share of offices, and neither is held."
+    }
+  ]
+}

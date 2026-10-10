@@ -1,0 +1,9 @@
+{
+  "slug": "2024-04-02-zwe-eighth-post-cabinet-press-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "Zimbabwe Population Registry System", "country_label": "Zimbabwe Population Registry System", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage", "tiers": "73 Registry offices computerised as of 2 April 2024; a pillar of the Ministry's Integrated ICT Systems Strategy, implemented in phases"},
+    {"system": "e-passport services", "country_label": "e-passport", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage", "tiers": "7 Provincial and 8 District Registry offices; e-passports issued within 7 days"}
+  ],
+  "note": "Cabinet briefing of 2 April 2024: 73 Registry offices computerised under the Zimbabwe Population Registry System, with no total of offices and no word on births or deaths, or on what is entered at those offices; the system is described only as a population registry, so it is classed identity and gives no civil fact. If the parent reads it as the civil registrar's system, the statement is offices count:73, owner ministry, as of 2024-04-02."
+}

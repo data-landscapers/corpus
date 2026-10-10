@@ -1,0 +1,19 @@
+{
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:87",
+      "cap": "",
+      "flags": "rural gap;identity integrated;advancing",
+      "stage_sources": "MWI-012;MWI-013;MWI-014;MWI-015;MWI-043",
+      "gaps": "No share of local offices is published: 87 Traditional Authority service points in five of 28 districts stand against 277 TAs and 138 Sub-TAs listed for expansion, and the 58 health facilities (2025) and 142 health centres (plan) carry no total. MWI-039 (owner:partner, CDC and EGPAF maintaining the CRVS system) disagrees with the newer owner:ministry rows; MWI-033 records CDC funding expected to stop in March 2026, an expectation and not an event; the NRB's own 2025 pages (MWI-049, MWI-052) describe a paper NR8 procedure and name no digital system; the rural gap rests on MWI-044 (2024), which gives no figure. MWI-001 to MWI-003 are dated after the as-at and MWI-007 to MWI-011 are from an excluded source: none was used.",
+      "note": "Births and deaths are entered on Nzika kits at Traditional Authority offices and on CRVS kits that synchronise with the central NRIS, past the pilot since late 2025. Stage 4 needs more than half of local offices on a share or a count with a denominator, and 87 service points in five districts is a minority."
+    }
+  ]
+}

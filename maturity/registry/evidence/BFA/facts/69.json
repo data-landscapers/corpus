@@ -1,0 +1,13 @@
+{
+  "slug": "2024-12-01-caf-digitalisation-de-letat-civil-lexperience-du-burkina-faso-de-la-centra",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Burkina Faso's delegate Ousmane Diallo Nacanabo told the Abidjan symposium of 10-12 December 2024 that an integrated civil-status management system, set up after a 2023 diagnostic, includes a national application for the systematic declaration of civil-status events through which births are declared directly from health centres or surveillance sites; deaths are not named, and the article does not say where the registration record itself is made.", "as_of": "2024-12", "date_precision": "month", "system": "système intégré de gestion de l'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "système intégré de gestion de l'état civil", "country_label": "système intégré de gestion de l'état civil", "class": "civil", "platform": "", "owner": "", "tiers": "three parts as the delegate gives them: systematic declaration, digitisation of existing acts, e-service"},
+    {"system": "National application for the systematic declaration of civil-status events", "country_label": "application nationale (déclaration systématique des faits d'état civil)", "class": "notification", "platform": "", "owner": "", "tiers": "health centres and surveillance sites, from which births are declared"},
+    {"system": "Digitisation of existing civil-status acts", "country_label": "numérisation des actes existants", "class": "archive", "platform": "", "owner": "", "tiers": "about 6 million acts digitised in some forty communes, per the delegate, December 2024"},
+    {"system": "e-service", "country_label": "e-service", "class": "certificate", "platform": "", "owner": "", "tiers": "online platform for citizens to request digitised acts; download from home planned"}
+  ],
+  "note": "The Burkina section is one delegate's statement at a symposium; the article names no product, no owner and no count of offices. The declaration application is described only as declaring births from health centres, so it is listed as notification and the one fact sits on the integrated system; the Central African Republic and Congo sections give no fact for BFA."
+}

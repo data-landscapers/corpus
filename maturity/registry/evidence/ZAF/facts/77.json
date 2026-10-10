@@ -1,0 +1,16 @@
+{
+  "slug": "2026-05-12-zaf-home-affairs-budget-vote-report-dha-rollout-plan-for-self-service-kios",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Department of Home Affairs' acting chief information officer set out to the Portfolio Committee a multi-year digital transformation roadmap that lists automated birth registration and the digitalisation of marriage, death and adoption registration processes among its items; the passages give no meeting date, so the document's published date is used.", "as_of": "2026-05-12", "date_precision": "day", "system": "automated birth registration", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The roadmap that carries automated birth registration is the Department of Home Affairs' own, presented by its acting chief information officer; the passages give no meeting date, so the document's published date is used.", "as_of": "2026-05-12", "date_precision": "day", "system": "automated birth registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "automated birth registration", "country_label": "automated birth registration", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "an item of the multi-year roadmap; not described as live"},
+    {"system": "digitalisation of marriage, death and adoption registration processes", "country_label": "digitalisation of marriage, death and adoption registration processes", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "an item of the multi-year roadmap; not described as live"},
+    {"system": "self-service kiosks", "country_label": "self-service kiosks", "class": "certificate", "platform": "", "owner": "Department of Home Affairs", "tiers": "91 kiosks and software procured for R27.391 million, for Smart ID cards, passports and reprints of birth, marriage and death certificates; not integrated or deployed, the service provider's contract terminated in March 2025, feasibility assessment under way"},
+    {"system": "live capture", "country_label": "live capture", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "rollout to offices is a roadmap item"},
+    {"system": "eHomeAffairs", "country_label": "eHomeAffairs", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "expansion abroad is a roadmap item"},
+    {"system": "digital identity and PKI infrastructure", "country_label": "digital identity and PKI infrastructure", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "implementation is a roadmap item"}
+  ],
+  "note": "Passages only, 520 of 8,147 words. No events, made, offices or last12 fact: the passages list automated birth registration and death registration only as roadmap items and state nothing about what is registered digitally today, where, or at how many offices."
+}

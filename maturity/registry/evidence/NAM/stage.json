@@ -1,0 +1,19 @@
+{
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;finance:domestic",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "not-published",
+      "cap": "",
+      "flags": "rural gap;identity integrated;backlog capture;advancing",
+      "stage_sources": "NAM-008;NAM-012;NAM-014",
+      "gaps": "No share of offices registering digitally stands at the as-at. The newest office fact, NAM-014 (statistics agency, April 2024), says some remote offices lack computers or internet and gives no count; it disagrees with NAM-025 (September 2023, share:100%), which says all 62 local centres are connected to the NPRS, is not the registrar's or the statistics office's statement, lists offices that sum to 59, and is contradicted in the same document by NAM-026. No plan covering the as-at is held: the CRVS plan ran 2015/16 to 2020/21 and no later one is named. finance:domestic rests on NAM-020, dated at the window's first day. The rural gap carries no figure, and backlog capture rests on systems.csv (a running project to capture old death records, 2023). NAM-001 to NAM-003 and NAM-040 to NAM-044 are from excluded sources and were not used.",
+      "note": "Births and deaths are captured on the NPRS and certified at the local office, long past the pilot, so stage 3 is met whole. Stage 4 needs more than half of local offices on a share or a count with a denominator, and the newest fact publishes none; the 100 per cent of 2023 is offices connected, older, and disputed in its own source."
+    }
+  ]
+}

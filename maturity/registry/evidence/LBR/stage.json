@@ -1,0 +1,19 @@
+{
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "no-change",
+      "offices": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-008;LBR-009;LBR-010;LBR-012;LBR-015",
+      "gaps": "No source counts the centres entering births on the DHIS2 platform: the two newest office facts (LBR-012, LBR-015; 15 counties, 58 centres) publish no number, and the only count is 14 centres in 2015 with no total (LBR-032), which does not say the centres make the digital entry. LBR-017 (May 2024) says County Service Center services remain mostly paper, against LBR-010's county teams registering online; the 2024 policy (LBR-006) gives no period and is not said to name the platform; nothing is dated inside the twelve months, the last event being 2024 (LBR-013).",
+      "note": "County birth registration teams register births online on the DHIS2 platform, past any pilot, so stage 3 is met. Stage 4 needs more than half of local offices on a share or a count with a denominator, and none is published."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,civil,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-08-10,SSD-002;SSD-008;SSD-013,SSD-005=owner:ministry;SSD-007=owner:ministry;SSD-010=owner:ministry;SSD-011=finance:donor;SSD-016=owner:ministry;SSD-017=finance:not-stated;SSD-022=plan:current;SSD-023=finance:donor;SSD-024=owner:ministry;SSD-026=owner:ministry;SSD-027=owner:ministry,
-SSD,civil,events,coverage,none,2026-07-22,SSD-012;SSD-014,,
+SSD,civil,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-08-10,SSD-002;SSD-008;SSD-013,SSD-005=owner:ministry;SSD-007=owner:ministry;SSD-010=owner:ministry;SSD-011=finance:donor;SSD-016=owner:ministry;SSD-017=finance:not-stated;SSD-022=plan:current;SSD-023=finance:donor;SSD-024=owner:ministry;SSD-026=owner:ministry;SSD-031=plan:none;SSD-032=finance:donor;SSD-030=owner:ministry;SSD-027=owner:ministry,
+SSD,civil,events,coverage,none,2026-07-22,SSD-012;SSD-014,SSD-028=none,
 SSD,civil,made,coverage,,,,,nothing held
 SSD,civil,last12,qualifier,advancing,2026-08-11,SSD-001;SSD-003;SSD-004;SSD-006;SSD-009,SSD-018=no-change,
-SSD,civil,offices,coverage,none,2026-05,SSD-015,,
+SSD,civil,offices,coverage,none,2026-05,SSD-015;SSD-029,,

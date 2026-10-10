@@ -1,0 +1,17 @@
+{
+  "slug": "2025-05-16-gha-1-5-appropriation-bill-summary-of-expenditure-by-sub-programme-economi",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The Ministry of Finance's 2025 appropriation summary for the Ministry of Local Government, Chieftaincy and Religious Affairs carries a programme line 01106 Births and Deaths Registration Services, with one sub-programme 01106000 Births and Deaths Data Management, of GHS 7,409,170: GHS 500,000 of government funds and GHS 6,909,170 of internally generated funds, both goods and services, and nothing from donors (the columns are read from the table's own totals); the line names no information system.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Births and Deaths Data Management (budget sub-programme 01106000)",
+      "class": "civil"
+    }
+  ],
+  "systems": [],
+  "note": "A budget table only: it names no information system and says nothing of how or where a record is made. The one fact is the registry's own budget line, not a line for a named system."
+}

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-registry.md — the third maturity study: rural registry offices, as civil registration
 last_reviewed: 2026-10-10
-status: Bill's five rulings of 2026-10-10; Phase 1 closed, waiting on `notes-for-osint` 221
+status: Bill's five rulings of 2026-10-10; staged, written and rendered; awaiting acceptance
 ---
 
 # Maturity study: registry — civil registration
@@ -64,7 +64,7 @@ The id enters `lookups/indicators.csv` at acceptance. **Identity enrolment and l
 
 **Rural.** The stage reads local offices nationally. Where a dated source says rural offices are outside the system, or register less, the cell is flagged *rural gap* and the short summary gives the figure.
 
-## 4. The ladder
+## 4. The ladders
 
 Tested at R3: every rung is reached. **Deaths are a stage 5 requirement only** *(Bill)*.
 
@@ -103,9 +103,9 @@ The frame's anchor: the AU Digital Transformation Strategy's 99.9 per cent legal
 - [x] **R2. Review all 54 countries**, method §4.
 - [x] **R3. Test and fix the ladder.**
 - [x] **R4. Search and hand over**, method §5: 70 documents, `notes-for-osint` 221.
-- [ ] **R5. Re-read and stage** once note 221 closes, method §6 and §7.
-- [ ] **R6. Write, render and lint**, method §8.
-- [ ] **R7. Report to Bill.**
+- [x] **R5. Re-read and stage**: 58 of 70 admitted; as at 2026-09-30; agreement 18 of 20.
+- [x] **R6. Write, render and lint**: clean.
+- [x] **R7. Report to Bill.** Awaiting acceptance.
 
 ## Boundary
 

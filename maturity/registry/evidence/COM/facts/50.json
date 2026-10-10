@@ -1,0 +1,11 @@
+{
+  "slug": "2017-11-01-com-unicef-crvs-profile-comoros",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "UNICEF's CRVS profile, compiled December 2016 to November 2017, gives the processing of birth, marriage and death registration as manual, on paper, at the civil registry office set up at the headquarters of each commune.", "as_of": "2017-11", "date_precision": "month", "system": "civil registry offices of the communes (paper registers of civil status)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "UNICEF's CRVS profile, compiled December 2016 to November 2017, gives births and deaths alike as processed manually on paper; no event is registered digitally.", "as_of": "2017-11", "date_precision": "month", "system": "civil registry offices of the communes (paper registers of civil status)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registry offices of the communes (paper registers of civil status)", "country_label": "registers of civil status; civil status centre", "class": "civil", "platform": "paper", "owner": "Commune mayors, their administrators and deputies, under Law on Civil Status No. 84-10", "tiers": "A civil registry office at the headquarters of each commune; births and deaths registered by the registrar of the place of the event"}
+  ],
+  "note": ""
+}

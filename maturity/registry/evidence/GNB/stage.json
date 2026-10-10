@@ -1,0 +1,19 @@
+{
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:1",
+      "cap": "",
+      "flags": "advancing;backlog capture",
+      "stage_sources": "GNB-005;GNB-006;GNB-007;GNB-011;GNB-012",
+      "gaps": "No count of offices or posts entering digitally against the country's own total (13 conservatórias and 80 posts in GNB-030; 55 offices and 20 health sites in GNB-035): the one counted office, Santa Luzia, is in Bissau, and the posts in Tombali and Quinara (GNB-011, GNB-012) are uncounted, on a platform the source does not name or say is connected. GNB-007 calls Santa Luzia the first fully digital office in 2026 while GNB-011 and GNB-015 report digital registration from 2025; no dated source in the evidence other than the excluded essay says rural offices are outside the system, so rural gap is not set.",
+      "note": "Births are registered digitally at one named Bissau office and at health-service registration posts in three regions, not described as a pilot, which is rung 3 on a count with no total. Rung 4 needs more than half of offices on a share or a count with a denominator, and none is given."
+    }
+  ]
+}

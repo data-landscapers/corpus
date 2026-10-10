@@ -1,0 +1,12 @@
+{
+  "slug": "2024-12-01-caf-digitalisation-de-letat-civil-lexperience-du-burkina-faso-de-la-centra",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "Congo's delegate to the Abidjan civil-status symposium of 10 to 12 December 2024, Bonsang Oko Letchaud, told Digitalmag.ci that the authorities were still drawing up the legal framework, with a new civil-status law, and that only once it is in place can Congo deploy its digitalisation system, SIFEC, which he said would be done by 2026; no office is said to use it.", "as_of": "2024-12", "date_precision": "month", "system": "Système d'intégration des faits d'état civil (SIFEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "Congo's delegate to the Abidjan symposium of 10 to 12 December 2024 described the civil status as still in a 'système mécanique' that the country would leave, with everything to be digitised by 2026, as reported by Digitalmag.ci.", "as_of": "2024-12", "date_precision": "month", "system": "Système d'intégration des faits d'état civil (SIFEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système d'intégration des faits d'état civil (SIFEC)", "country_label": "SIFEC (Système d'intégration des faits d'état civil)", "class": "civil", "platform": "", "owner": "", "tiers": "a project to digitise all civil-status services; not yet deployed in December 2024, awaiting a new civil-status law"},
+    {"system": "biométrisation des données d'identité", "country_label": "biométrisation des données d'identité", "class": "identity", "platform": "", "owner": "", "tiers": "included in the digitalisation system to be deployed; not described further"}
+  ],
+  "note": "Only the Congo section is read for facts; the Burkina Faso and Central African Republic sections concern other countries. The article names no events and no owner for SIFEC."
+}

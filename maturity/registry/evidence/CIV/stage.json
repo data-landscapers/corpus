@@ -1,0 +1,19 @@
+{
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "events": "B;D",
+      "made": "paper",
+      "last12": "advancing",
+      "offices": "equipped:98%",
+      "cap": "",
+      "flags": "advancing;backlog capture;identity integrated",
+      "stage_sources": "CIV-018;CIV-001;CIV-003;CIV-009",
+      "gaps": "No admissible fact says a centre registers a birth in Citiweb: every offices figure is of centres equipped, computerised or deployed (98% on 2 March 2026 with no numerator or denominator; all centres at end 2025; 699 centres on 11 August 2026 with no total), and the World Bank said on 18 September 2025 that the registry is still on paper. How the record is made is not established: the only connected fact is from the excluded essay and the only local one is the 2019 decree's permission, which places nothing; the SNECI is given no period and is not said to name the software, and the 2026 finance law's domestic line names no system.",
+      "note": "Stage 3 on the study's rule that a share of offices equipped places there. Nothing above it: no share of offices registering, and no fact whose words say the entry is made at the office and held in the national register."
+    }
+  ]
+}

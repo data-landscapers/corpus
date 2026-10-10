@@ -2,5 +2,5 @@ iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SOM,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-04-05,SOM-001;SOM-014;SOM-015,SOM-013=owner:ministry;SOM-021=owner:ministry;SOM-017=owner:ministry;SOM-023=plan:current;SOM-024=owner:ministry;SOM-020=plan:current;SOM-018=plan:current;SOM-028=owner:ministry;SOM-029=plan:current;SOM-030=finance:not-stated,
 SOM,civil,events,coverage,B;D,2026-01,SOM-007;SOM-010,SOM-022=none;SOM-025=none;SOM-019=none;SOM-026=none;SOM-031=none,
 SOM,civil,made,coverage,connected,2026-01,SOM-009;SOM-011,SOM-032=paper,
-SOM,civil,last12,qualifier,advancing,2025-08-10,SOM-016,,nothing dated since 2025-10-10
+SOM,civil,last12,qualifier,advancing,2025-08-10,SOM-016,,nothing dated since 2025-09-28
 SOM,civil,offices,coverage,count:30,2026-01,SOM-008,SOM-012=pilot;SOM-027=none;SOM-033=none,

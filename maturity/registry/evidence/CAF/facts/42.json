@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-01-caf-digitalisation-de-letat-civil-lexperience-du-burkina-faso-de-la-centra",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The Central African Republic's delegate to the Abidjan civil-status symposium of 10 to 12 December 2024, Jean-Symphorien Ngama-Piault, said the country is beginning a digitalisation of civil status that is still at the pilot phase and should extend to 40 localities in 2025, to modernise existing databases and widen their geographic coverage, as reported by Digitalmag.ci; no count of pilot offices is given.", "as_of": "2024-12", "date_precision": "month", "system": "digitalisation de l'état civil (projet pilote soutenu par l'Union européenne)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The delegate said the digitalisation of civil status now starting in the Central African Republic is supported by the European Union; no domestic funding is mentioned.", "as_of": "2024-12", "date_precision": "month", "system": "digitalisation de l'état civil (projet pilote soutenu par l'Union européenne)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitalisation de l'état civil (projet pilote soutenu par l'Union européenne)", "country_label": "processus de digitalisation de l'état civil", "class": "civil", "platform": "", "owner": "Not stated; supported by the European Union", "tiers": "Pilot phase in December 2024; planned extension to 40 localities in 2025"}
+  ],
+  "note": "The article does not say what the piloted system does beyond modernising existing databases and widening their coverage, and does not say where a record is entered; classed `civil` on those words alone, and no `made` or `events` fact is recorded. The Burkina Faso and Congo passages are other countries' and give no fact here."
+}

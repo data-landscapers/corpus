@@ -1,0 +1,10 @@
+{
+  "slug": "2021-03-15-tgo-score-for-health-data-technical-package-assessment-summary-for-togo",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "WHO's SCORE assessment summary for Togo, on data from 2013 to 2018 and updated 15 March 2021, answers the item on whether all civil registration data are exchanged electronically from local to regional and then central offices with 'paper-based system'; it speaks of the exchange of data between offices, not of the entry itself.", "as_of": "2018", "date_precision": "year", "system": "CRVS system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CRVS system", "country_label": "CRVS system", "class": "civil", "platform": "", "owner": "", "tiers": "local, regional and central offices; data pass between them on paper (data 2013-2018)"}
+  ],
+  "note": "The same assessment gives birth registration completeness of 78%, no figure for deaths, registration points with full coverage including rural areas, and no vital statistics report in the last five years."
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:93",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZWE-019;ZWE-020;ZWE-010",
+      "gaps": "The Registrar General's department counts all 10 provincial and 63 district offices and more than 20 of 209 sub-offices as computerised (ZWE-010), at least 93 of 282, and does not say what a computerised office does: that is a share equipped, about 33 per cent, not a share registering. ZWE-020 says entry is made in real time at the office but not where the record is held or whether offices are online to a national register; some sub-offices are still not computerised (ZWE-003, ZWE-007). Deaths have no digital entry on record. Finance for the computerisation is donor in every fact that names it, while the 2026 Appropriation Act funds the civil registration programme whole from domestic revenue with no system line (ZWE-014). The February 2026 shortage of certificate paper (ZWE-013) is a regress in issuing certificates, not in digital entry, and is not flagged. ZWE-012 is from an excluded source.",
+      "note": "Births are entered digitally at computerised offices, named at Mpilo Hospital and several rural and peri-urban sites, which meets stage 3. Stage 4 needs more than half of local offices registering digitally and held in the national register; the count is of offices computerised, about a third of 282, and the register is not named."
+    }
+  ]
+}

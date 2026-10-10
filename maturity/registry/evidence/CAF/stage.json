@@ -1,0 +1,19 @@
+{
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "none",
+      "made": "paper",
+      "last12": "advancing",
+      "offices": "pilot",
+      "cap": "",
+      "flags": "advancing;backlog capture",
+      "stage_sources": "CAF-006;CAF-001;CAF-005;CAF-016",
+      "gaps": "No office is shown entering a birth or death digitally: the registrar's own statement of 18 July 2026 is an all-paper system with the software still under development (CAF-005, CAF-006). The pilot of December 2024 (CAF-016) gives no count of offices and does not say what was piloted, and it sits beside the July 2026 statements that the software is not yet deployed. The PNEC is given no period and is not said to name the software; the newest events fact is from 2017.",
+      "note": "Stage 2: a civil registration application for local offices is being prepared by the ministry, with deployment listed as a next step. Stage 3 needs births entered in a system past its pilot and live in some local offices, and none is."
+    }
+  ]
+}

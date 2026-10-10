@@ -1,0 +1,26 @@
+{
+  "slug": "2025-04-23-gha-all-16-regions-to-receive-new-office-complexes-bdr-acting-registrar",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Acting Registrar of the Births and Deaths Registry said in April 2025 that the Registry is taking steps to upgrade its existing IT systems, digitise all offices and set up a backup and data-recovery site for national records, and that he wants a system in which birth records can be accessed and processed across districts; he speaks of it as the Registry's own IT system, and gives no count of offices already digitised.",
+      "as_of": "2025-04-23",
+      "date_precision": "day",
+      "system": "Births and Deaths Registry IT system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Births and Deaths Registry IT system",
+      "country_label": "BDR's IT system; existing systems",
+      "class": "civil",
+      "platform": "",
+      "owner": "Births and Deaths Registry",
+      "tiers": "not stated; all offices are to be digitised; district offices ceded to the Local Government Service"
+    }
+  ],
+  "note": "No events, made or offices fact: the article states intentions (digitise all offices, cross-district access to records) and does not say what offices do now. Death registration is put at about 38 per cent, a share of deaths, which places nothing. New office complexes for 16 regions and over 300 motorcycles and vehicles are premises and transport being procured, not yet delivered."
+}

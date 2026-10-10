@@ -1,0 +1,19 @@
+{
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "none",
+      "made": "paper",
+      "last12": "advancing",
+      "offices": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "COM-030;COM-029;COM-006;COM-009;COM-001",
+      "gaps": "No system exists yet: the eCRVS is proposed by a study validated on 25 March 2026, and its three-centre pilot (Moroni, Mutsamudu, Fomboni) has not started. The costed plan (COM-004) and the 2024 strategic plan (COM-022) are given no period; plan:current rests on COM-004 saying the country holds it in August 2026. The newest paper statements say 'largely' paper (COM-001, COM-021), not paper only; the only flat statement is from 2017 (COM-034). COM-016 (ANEC decree not adopted, March 2026) is the one no-change event against nine advancing.",
+      "note": "Studies, a mapping of centres, a costed plan and a financing round are preparation of a system for local offices, so the cell is above stage 1. Stage 3 needs births entered digitally in local offices past a pilot, and no office enters anything digitally."
+    }
+  ]
+}

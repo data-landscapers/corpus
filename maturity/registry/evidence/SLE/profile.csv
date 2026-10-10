@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2024-05,SLE-003;SLE-006;SLE-010,SLE-005=owner:ministry;SLE-015=finance:donor;SLE-011=owner:ministry;SLE-012=finance:domestic;SLE-009=owner:ministry,
-SLE,civil,events,coverage,B;D,2024-05,SLE-002,SLE-004=B;D;SLE-007=B;SLE-008=none;SLE-013=B;D,
-SLE,civil,made,coverage,connected,2016-08-04,SLE-014,,nothing dated since 2023-10-10
+SLE,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-05-22,SLE-010;SLE-017;SLE-019,SLE-020=owner:ministry;SLE-003=owner:ministry;SLE-005=owner:ministry;SLE-006=finance:donor;SLE-023=owner:ministry;SLE-015=finance:donor;SLE-011=owner:ministry;SLE-012=finance:domestic;SLE-009=owner:ministry,
+SLE,civil,events,coverage,B;D,2025-05-22,SLE-002;SLE-016,SLE-004=B;D;SLE-007=B;SLE-022=B;SLE-008=none;SLE-013=B;D,
+SLE,civil,made,coverage,connected,2023-03-23,SLE-014;SLE-021,,nothing dated since 2023-09-28
 SLE,civil,last12,qualifier,,,,,nothing held
-SLE,civil,offices,coverage,,,,,nothing held
+SLE,civil,offices,coverage,count:48,2024-09-06,SLE-018,,

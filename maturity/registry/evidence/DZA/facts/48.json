@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-29-dza-etat-civil-acte-de-naissance-acte-de-mariage-acte-de-deces-livret-de-f",
+  "facts": [],
+  "systems": [
+    {"system": "Délivrance des actes d'état civil auprès de toute commune ou annexe administrative, ou via internet", "country_label": "délivrance de l'acte de naissance / de mariage / de décès ; via internet", "class": "certificate", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités locales et des Transports", "tiers": "Birth, marriage and death acts can be collected at any commune or administrative annex across the national territory, or via internet; the family civil-status sheet is issued immediately at any commune or annex"},
+    {"system": "prestations.interieur.gov.dz/guichet", "country_label": "guichet (prestations.interieur.gov.dz)", "class": "certificate", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités locales et des Transports", "tiers": "Online requests for a marriage appointment and for rectification of keying errors in civil-status acts"}
+  ],
+  "note": "A standing ministry service page (post dated 2024-02-29). It says declarations of birth and death are made at the commune and that acts are delivered at any commune or online, and it distinguishes a keying error (erreur de saisie), corrected by the civil registrar, from an error made in transcribing the act on the register, corrected by the courts; it does not say where or when the digital entry is made, nor that events are registered digitally at the office, so no civil fact and no `made` fact is recorded."
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "plan:current;finance:not-stated",
+      "events": "B;D",
+      "made": "paper",
+      "last12": "",
+      "offices": "pilot",
+      "cap": "",
+      "flags": "rural gap;backlog capture",
+      "stage_sources": "GNQ-005;GNQ-006;GNQ-007",
+      "gaps": "Nothing on the state of SIREC is dated after the World Bank diagnostic of 2024, and nothing falls in the twelve months to the as-at. No fact says how the pilot itself makes the record, or how many offices in Malabo use it. Every owner fact is dated 2017 or 2018, outside the 36 months, so owner is left empty; the plan held (GNQ-010, 2022-2026) is the statistics strategy and its passages do not say what the civil registry system does.",
+      "note": "SIREC is a pilot run exclusively in the capital since late 2018, while the seven regional offices and the commune-level judges register on paper: rung 2. Rung 3 needs the system past its pilot and live in some local offices, and the newest fact says it has not left Malabo."
+    }
+  ]
+}

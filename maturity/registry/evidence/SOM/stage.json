@@ -1,0 +1,19 @@
+{
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "",
+      "offices": "count:30",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-007;SOM-008;SOM-009;SOM-011",
+      "gaps": "The 30 districts (SOM-008) carry no total of districts or offices, so the count is a floor and no share can be read; it is a count of districts read as offices, on an undated page whose January 2026 date is a proxy. Deaths are enabled on the platform (SOM-010) but only births are counted as registered (SOM-007). SOM-012 calls the 19 districts of August 2025 a pilot where SOM-009 calls the system production-level; the newer stands. No dated event falls inside the last twelve months: the launch of 10 August 2025 (SOM-016) is outside it, and the move from 19 to 30 districts has no date of its own. The roadmap (SOM-014) gives no period and no domestic budget line is stated.",
+      "note": "Births are entered by local administrations and linked hospitals into one central database, in a system described as past proof of concept and running in 30 districts with no total given: the stage 3 row. Stage 4 needs more than half of local offices on a share or a count with a denominator."
+    }
+  ]
+}

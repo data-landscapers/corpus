@@ -1,0 +1,19 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "",
+      "events": "B",
+      "made": "connected",
+      "last12": "",
+      "offices": "equipped:91.1%",
+      "cap": "",
+      "flags": "identity integrated",
+      "stage_sources": "MRT-007",
+      "gaps": "No fact outside the law says a centre enters a birth digitally when it is declared: events and how the record is made rest on Laws 2011-003 and 2025-011 (MRT-003, MRT-004, MRT-009, MRT-010), which place nothing, and the one other fact on either is from the excluded essay. The office figure is centres equipped against a planned network of 168, from August 2021, with nothing newer; no governance fact falls inside the 36 months (the newest is 2022-11) and nothing is held for the last twelve months.",
+      "note": "153 of 168 citizen reception centres were equipped in 2021 to receive civil status declarations, and a share equipped places at stage 3. Stage 4 needs a share of offices doing the entry and a fact, not a law, saying the entry is made at the office."
+    }
+  ]
+}

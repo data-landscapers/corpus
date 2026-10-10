@@ -1,0 +1,19 @@
+{
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:4571",
+      "cap": "",
+      "flags": "identity integrated;advancing",
+      "stage_sources": "EGY-006;EGY-007;EGY-008;EGY-027;EGY-028",
+      "gaps": "No total of health offices is given against the 4,571 (2017 and 2026) or the 4,666 linked (2025), and the two counts differ; 'full nationwide automation' is a statement of offices automated, not a share registering. Egypt's undated answers to the WHO EMRO questionnaire (published 2025) disagree: paper at registration points, electronic entry at the governorate centre, and health-office entry only as a pilot in selected governorates. Finance is not stated in the newest fact, though a 2024 page credits the State budget; no rural share is published.",
+      "note": "Births and deaths are entered at the health office, which prints the certificate, and held online in a central database, so the system is past its pilot and connected. Stage 4 needs more than half of offices on a share or a count with a denominator, and the evidence holds a count with no total."
+    }
+  ]
+}

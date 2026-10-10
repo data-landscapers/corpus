@@ -1,0 +1,19 @@
+{
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "share:37.6%",
+      "cap": "",
+      "flags": "rural gap;backlog capture;advancing",
+      "stage_sources": "NER-027;NER-028;NER-033;NER-042;NER-045",
+      "gaps": "The share is 100 communes of 266 principal centres (NER-033, an undated page given the year 2026), a share of communes read as offices; it agrees with the statistics office's 101 of 266 in production (NER-042, December 2024) and the government's 102 communes with no total (NER-027, April 2026). It disagrees with NER-014 (UNICEF, 10 August 2026), 68 per cent of communes computerised with no numerator or denominator, which is a share equipped and would also place at stage 3. Deaths are evidenced digitally only for the five Niamey arrondissements in 2023 (NER-046); NER-040 and NER-041 (December 2024) call registration paper based, against the connected rows. The 13,939 village and health-facility declaration centres are not said to be computerised, and the rural gap rests on NER-049 (2023), with no figure. Most last-twelve-month rows are works announced, not delivered, and the commune count did not rise between May 2025 (103) and April 2026 (102). NER-031 and NER-032 are from an excluded source and were not used.",
+      "note": "The digital platform is in service in 100 of 266 communes, where agents key acts on machines connected to the central server, past the pilot since 2023. Stage 4 needs more than half of local offices registering, and 37.6 per cent is a minority; the one figure above half is a share of communes computerised, which places at stage 3."
+    }
+  ]
+}

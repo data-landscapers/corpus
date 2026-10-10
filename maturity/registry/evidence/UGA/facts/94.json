@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-10-uga-civil-registration-and-vital-statistics-uganda-progress-report-october",
+  "facts": [],
+  "systems": [
+    {"system": "NIRA CRVS system", "country_label": "NIRA's CRVS system; the national civil registration platform", "class": "", "platform": "", "owner": "National Identification and Registration Authority", "tiers": ""},
+    {"system": "digital registers for birth and death notification", "country_label": "digital registers", "class": "notification", "platform": "DHIS2", "owner": "Ministry of Health, in collaboration with NIRA", "tiers": "health facilities; developed in October-December 2025, rollout planned for the next quarter"},
+    {"system": "electronic Medical Certificate of Cause of Death module", "country_label": "eMCCD; DHIS2 MCCD application", "class": "notification", "platform": "DHIS2", "owner": "Ministry of Health, Division of Health Information", "tiers": "hospitals; national MCCD reporting coverage about 5 per cent by September 2025"},
+    {"system": "DHIS2 to NIRA CRVS notification transfer", "country_label": "", "class": "exchange", "platform": "DHIS2", "owner": "Ministry of Health and NIRA", "tiers": "designed for automatic transfer of health facility notifications to NIRA; not yet rolled out"},
+    {"system": "electronic Community Health Information System", "country_label": "eCHIS", "class": "notification", "platform": "", "owner": "Ministry of Health, Community Health Department", "tiers": "Village Health Teams; six-district pilot of community birth and death notification planned"},
+    {"system": "Electronic Medical Records interface for the MCCD system", "country_label": "EMR", "class": "notification", "platform": "", "owner": "Ministry of Health, Division of Health Information", "tiers": "health facilities"},
+    {"system": "mortality surveillance dashboard", "country_label": "excess mortality dashboard", "class": "", "platform": "DHIS2", "owner": "Ministry of Health, IES&PHE department", "tiers": "national"}
+  ],
+  "note": "A D4H quarterly report on health-facility and community notification and its planned transfer to NIRA; it names NIRA's CRVS system only as the national civil registration platform and says nothing on how or where the registrar makes the record."
+}

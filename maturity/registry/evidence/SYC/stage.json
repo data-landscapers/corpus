@@ -1,0 +1,19 @@
+{
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "",
+      "events": "B;D",
+      "made": "",
+      "last12": "",
+      "offices": "",
+      "cap": "",
+      "flags": "identity integrated",
+      "stage_sources": "SYC-003",
+      "gaps": "No admitted fact says where the computerised Civil Status record is entered, at the offices at Praslin, La Digue and Anse Royale or centrally, nor how many local offices enter it; the only rows on `made` and `offices` (SYC-001, SYC-002) are from the excluded source. The one placing fact is dated 2018-08-10, and nothing on governance or the last twelve months falls inside the windows: SYC-004 to SYC-006 (owner:ministry, latest 2022-11-01) are older than 36 months and are not carried.",
+      "note": "A computerised record of vital events is kept beside the manual register and updated daily (SYC-003), so a system runs, but nothing shows it live in a local office or how the record is made, which stage 3 needs. Identity integrated is set on SYC-003 with systems.csv: the record feeds the National Population Database, with which the NIN was introduced; section 18A's digital copies of closed registers are law only and set no backlog flag."
+    }
+  ]
+}

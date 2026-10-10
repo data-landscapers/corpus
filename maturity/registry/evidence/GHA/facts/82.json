@@ -1,0 +1,46 @@
+{
+  "slug": "2024-01-01-gha-2022-statistical-report-death-registration",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "keyed-elsewhere",
+      "fact": "The Births and Deaths Registry's report on 2022 says a district registration officer enters a death in the register and completes the paper Form 6, that the death register is kept by the district officer and sent to the national office only when full, and that completed forms are scanned into an electronic database managed by the IT unit at the national office; data come from 470 registries across 261 registration districts.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Births and Deaths Registry electronic database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "D",
+      "fact": "The Births and Deaths Registry says its electronic database holds detailed information on registered death events and is the source of its 2022 report, which counts 50,992 deaths registered in 2022 (37.8 per cent of those projected); this volume covers deaths only.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Births and Deaths Registry electronic database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The report says the Births and Deaths Registry, an agency under the Ministry of Local Government, Decentralisation and Rural Development established by Act 1027 of 2020, handles and develops the births and deaths registration system, and that the electronic database is managed by the IT unit at its national office.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Births and Deaths Registry electronic database",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Births and Deaths Registry electronic database",
+      "country_label": "electronic database",
+      "class": "civil",
+      "platform": "",
+      "owner": "Births and Deaths Registry, IT unit at the national office",
+      "tiers": "national office; fed by scanned paper Form 6 from 470 registries in 261 registration districts; each regional office has an I.T. officer"
+    }
+  ],
+  "note": "No offices fact: the report gives the count of registries (470 in 261 districts) but none of offices making a digital entry, and describes registration at the district as on paper. It also states there is no synchronised notification system between the Ghana Health Service, the Mortuaries and Funerals Facilities Agency and the Registry."
+}

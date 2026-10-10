@@ -1,0 +1,19 @@
+{
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:none",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "not-published",
+      "cap": "",
+      "flags": "identity integrated;backlog capture;advancing",
+      "stage_sources": "STP-004;STP-005;STP-006;STP-018;STP-020",
+      "gaps": "No share or count of local offices entering records is published: the registrar says all maternities, with no number and nothing on the other offices (STP-006), and the World Bank gives 11 centres and seven maternity posts without saying how many enter records in SIGA (STP-020). STP-019 (2022) says births of 2010 to 2023 sit on paper still to be digitised, against the connected entry of STP-005 and STP-018. Deaths are named for the system (STP-009, STP-010, STP-013) but no fact says where they are entered, and the newest fact (STP-004) names births only. No finance fact falls inside the 36 months; the plan named in STP-015 has no period and STP-022 says there is none for civil registration.",
+      "note": "Stage 3 because births are entered directly in the DGRN database at the maternities and in DGRN centres (STP-005, STP-018), past pilot. Not stage 4: no share of offices, or count with a denominator, is published."
+    }
+  ]
+}

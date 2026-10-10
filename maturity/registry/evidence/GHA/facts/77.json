@@ -1,0 +1,34 @@
+{
+  "slug": "2026-09-25-gha-unicef-bdr-and-kuami-eugene-push-for-improved-birth-registration-in-be",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The Eastern Regional Registrar of the Births and Deaths Registry says officers are expected to complete birth registrations digitally in communities and that poor internet connectivity is a major operational obstacle to doing so; the assembly member for Bepowase (Ayensuano District, about 3,000 people, no telecommunication network) says birth registration 'has been digitalised' and is very difficult there for want of a network. The document gives no date for this; dated from its published date, itself a proxy.",
+      "as_of": "2026-09",
+      "date_precision": "month",
+      "system": "Births and Deaths Registry digital registration (unnamed)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Births and Deaths Registry digital registration (unnamed)",
+      "country_label": "digital registrations",
+      "class": "civil",
+      "platform": "",
+      "owner": "Births and Deaths Registry",
+      "tiers": "officers registering births in communities, Eastern Region; needs internet connectivity"
+    },
+    {
+      "system": "Births and Deaths Registry community visits",
+      "country_label": "outreach exercises; periodic visits by district registrars",
+      "class": "outreach",
+      "platform": "",
+      "owner": "Births and Deaths Registry, with occasional UNICEF support",
+      "tiers": "district registrars covering over 60 communities each; chiefs collect parents' details for batch processing"
+    }
+  ],
+  "note": "No made fact: the document does not say where the entry is made or that it is held in the national register. UNICEF is named as the Registry's primary source of support for birth registration activities, which is not a statement of donor-only finance of the system. Births registered: 588,972 by end 2025 (73.4 per cent of expected), a share of births, which places nothing."
+}

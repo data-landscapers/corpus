@@ -1,0 +1,19 @@
+{
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "local",
+      "last12": "advancing",
+      "offices": "share:13.9%",
+      "cap": "",
+      "flags": "advancing;backlog capture",
+      "stage_sources": "CMR-008;CMR-016;CMR-017;CMR-018;CMR-051",
+      "gaps": "The share is 60 of 432 principal centres on BUNEC's figures of 14 September 2026, which the source calls a pilot phase; the 2,400 or so secondary centres are outside the denominator and are planned to stay on paper, so the share of all local offices is lower and not published. Last twelve months disagree: EcoMatin says the rate has hardly moved since April 2022, while dated events show first digital birth acts at Limbe I on 7 January 2026 and in the East Region by August 2026. No national budget line is stated; one commune's maintenance line does not carry the country.",
+      "note": "Births are produced in the system at council centres in several regions, a minority of offices, on servers held in the commune. Not stage 4: the share is far under half and no fact says the record is held in the national register."
+    }
+  ]
+}

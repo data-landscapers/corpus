@@ -1,0 +1,8 @@
+{
+  "slug": "2024-11-08-sdn-nabdsudan-civil-registry-database-recovered-120-million-records",
+  "facts": [],
+  "systems": [
+    {"system": "civil registry database", "country_label": "قاعدة بيانات السجل المدني / نظام السجل المدني", "class": "", "platform": "", "owner": "General Administration of Civil Registry, Ministry of Interior", "tiers": "national database of more than 120 million records, holding the old nationality archive and the first Sudanese birth certificate of 1901; recovered electronically from Khartoum in 63 days to a secured data centre reached from Red Sea State, and the Khartoum copy encrypted and locked, as the registry's technology director states (published 2024-11-08; the recovery date is not given)"}
+  ],
+  "note": "The document describes the recovery of the central civil registry database, without which identity could not be established nor e-passports or birth certificates for children born in the war issued; it does not say where or how a birth or death is entered, so the system is unclassified and gives no fact."
+}

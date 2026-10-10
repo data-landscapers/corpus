@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 ERI,civil,governance,qualifier,plan:current,2024,ERI-001,ERI-002=plan:current;ERI-007=plan:none,"not stated: owner, finance"
-ERI,civil,events,coverage,D,2025-11,ERI-006,,
-ERI,civil,made,coverage,,,,,nothing held
+ERI,civil,events,coverage,D,2025-11,ERI-006,ERI-009=B;D,
+ERI,civil,made,coverage,keyed-elsewhere,2017-02-06,ERI-008,,nothing dated since 2023-09-28
 ERI,civil,last12,qualifier,,,,,nothing held
-ERI,civil,offices,coverage,,,,,nothing held
+ERI,civil,offices,coverage,not-published,2015-05,ERI-010,,nothing dated since 2023-09-28

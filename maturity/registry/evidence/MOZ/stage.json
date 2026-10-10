@@ -1,0 +1,19 @@
+{
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "equipped:100%",
+      "cap": "",
+      "flags": "identity integrated;backlog capture;advancing",
+      "stage_sources": "MOZ-004;MOZ-014;MOZ-033;MOZ-034;MOZ-037",
+      "gaps": "No share or count with a denominator of local offices making the digital entry: the registrar's 68 of 68 conservatories are 'digitised' (equipped) and leave out the posts below them, and the newest fact (MOZ-006, 2026-08-28) publishes no figure. Facts disagree on deaths (MOZ-004 and MOZ-033 give B and D; MOZ-016, 2025, names death registration as a challenge) and on how the record is made (MOZ-034 has district offices entering directly; MOZ-035 has 534 community points on paper forms keyed at the district office, which no fact calls rural, so no rural gap is flagged); MOZ-001 does not say the new maternity posts enter digitally.",
+      "note": "Births are registered in a live system past its pilot, entered directly at district offices (MOZ-034), but the only office share is of offices equipped, which places at stage 3. Stage 4 needs more than half of local offices on a share or count of offices doing the entry."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;finance:donor",
+      "events": "B;D",
+      "made": "paper",
+      "last12": "advancing",
+      "offices": "pilot",
+      "cap": "",
+      "flags": "backlog capture;advancing",
+      "stage_sources": "BDI-003;BDI-004;BDI-006;BDI-011;BDI-012;BDI-018",
+      "gaps": "No source says the system is past its pilot, how the digital record is made in the pilot communes or where it is held: thirteen communes 'have' a biometric registration system (count 13, no total given; 12 in the ministry's own July 2026 presentation), which is not thirteen registering. Births and deaths entered digitally rest on one commune, Rumonge, in 2024; no plan with a period covering the as-at is on record (the only plan fact is a 2017 table entry), and no domestic budget line is stated for the civil platform.",
+      "note": "The ministry and the press describe pilot communes in August 2026, a platform awaiting its decree and a legal framework that still prescribes manual registration, with most acts in physical registers: rung 2. Rung 3 needs births past the pilot and live in some offices with the record made digitally, and no fact says so."
+    }
+  ]
+}

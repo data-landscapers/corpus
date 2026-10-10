@@ -1,0 +1,19 @@
+{
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "",
+      "offices": "count:48",
+      "cap": "",
+      "flags": "identity integrated;backlog capture",
+      "stage_sources": "SLE-007;SLE-016;SLE-021;SLE-022",
+      "gaps": "No count or share of offices doing the digital entry is published: the 48 (SLE-018, September 2024) are health facilities given laptops and modems, none said to be registering, so the count is a floor of equipped sites at best. The only offices named as entering births digitally are in Freetown (Ola During Hospital, 34 Military Hospital), the fact for entry at the office dates from March 2023, and death registration with the application is not described. No plan with a period covering the as-at is held (the 2017 roadmap gives none), no domestic budget line appears in an evidence row inside 36 months, and nothing is dated inside the last twelve months.",
+      "note": "Births are entered at NCRA's hospital registration centres and passed to the central registry (SLE-021), in an application said to be piloted and scaled up (SLE-007), with no count of offices: the stage 3 row. Stage 4 needs more than half of local offices on a share or a count with a denominator, and none is given."
+    }
+  ]
+}

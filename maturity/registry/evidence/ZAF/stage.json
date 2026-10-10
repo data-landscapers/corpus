@@ -1,0 +1,19 @@
+{
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:242",
+      "cap": "",
+      "flags": "identity integrated;backlog capture;advancing",
+      "stage_sources": "ZAF-045;ZAF-055;ZAF-021;ZAF-027;ZAF-043;ZAF-010;ZAF-016;ZAF-040",
+      "gaps": "No share of local offices registering digitally is published: 242 health facilities are counted as equipped (ZAF-010, March 2026) against no total, the health department counts 299 of 1,445 maternity facilities (ZAF-040, March 2025) and an older count gives 391, and how the 325 front offices make the record is stated only in general terms (ZAF-021). Deaths have no digital registration on record; the twelve-month advance (ZAF-046) carries no figure, while e-Birth missed its 2025/26 targets (ZAF-047, ZAF-051); no dated source says in terms that rural offices are outside the system, so rural gap is not set. ZAF-001 and ZAF-002 are dated after the as-at and ZAF-006 to ZAF-008 are from an excluded source; none was used.",
+      "note": "Births are registered online at health facilities by Home Affairs officials and captured onto the National Population Register at local offices, which meets stage 3. Stage 4 needs more than half of local offices on a share or a count with a denominator; the newest count is of facilities equipped with no total, and the one count with a denominator is 299 of 1,445, a minority."
+    }
+  ]
+}

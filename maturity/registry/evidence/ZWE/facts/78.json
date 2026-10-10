@@ -1,0 +1,15 @@
+{
+  "slug": "2024-12-11-zwe-birth-registration-steadily-increases-worldwide-but-150-million-childr",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:20", "fact": "UNICEF says it has helped the Government of Zimbabwe computerise 18 civil registration sub-offices and 2 district offices; it gives no total of offices and no date, so the published date is used.", "as_of": "2024-12-11", "date_precision": "day", "system": "civil registration and vital statistics system (computerised offices)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "UNICEF says Zimbabwe completed a national assessment of its civil registration and vital statistics system in 2023 and developed a strategic action plan for 2023-2027 as the framework for improving it.", "as_of": "2023", "date_precision": "year", "system": "civil registration and vital statistics system (computerised offices)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNICEF says the work on the civil registration and vital statistics system, including the computerising of offices, is supported by the Child Protection Fund III and the Governments of Sweden and Switzerland; no domestic budget line is stated; published date used.", "as_of": "2024-12-11", "date_precision": "day", "system": "civil registration and vital statistics system (computerised offices)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "UNICEF describes the digitalising of the civil registration system as the Government of Zimbabwe's own transformation, which UNICEF supports; published date used.", "as_of": "2024-12-11", "date_precision": "day", "system": "civil registration and vital statistics system (computerised offices)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration and vital statistics system (computerised offices)", "country_label": "civil registration and vital statistics (CRVS) system", "class": "civil", "platform": "", "owner": "Government of Zimbabwe, with UNICEF support", "tiers": "18 civil registration sub-offices and 2 district offices computerised"},
+    {"system": "birth and death registration services at health facilities", "country_label": "", "class": "", "platform": "", "owner": "health and civil registration sectors", "tiers": "health facilities; not said whether the facility registers or notifies, or whether digitally"},
+    {"system": "notification of births and deaths by traditional leaders", "country_label": "", "class": "notification", "platform": "", "owner": "", "tiers": "communities; a legal requirement on traditional leaders, medium not stated"}
+  ],
+  "note": "No `events` or `made` fact: the note says offices were computerised but not which events are entered digitally, nor where the entry is made or whether it is held in a national register."
+}

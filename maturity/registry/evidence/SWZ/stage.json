@@ -1,0 +1,19 @@
+{
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:14",
+      "cap": "",
+      "flags": "identity integrated;backlog capture;advancing",
+      "stage_sources": "SWZ-010;SWZ-011;SWZ-012;SWZ-017;SWZ-018",
+      "gaps": "The 14 service centres registering in the National Population Register in 2022 (SWZ-012) come with no total of offices, so the count is a floor; the software 'installed in all centres' is equipped, not registering, and the AfDB and COMESA 'all offices' (SWZ-016) carries no count. The only total held is in a governance row of December 2024 (SWZ-015: 15 service centres including headquarters, and 5 hospital points), a different year and not read against the count. The World Bank's June 2026 appraisal disagrees with the older facts: well over 90% of civil records on paper (SWZ-001) and electronic civil registry services not active (SWZ-004). No rural share and no office figure within two years.",
+      "note": "Stage 3 because births and deaths are keyed into the National Population Register at the service centres on registration (SWZ-010, SWZ-017). Not stage 4: the office figure is a count with no denominator."
+    }
+  ]
+}

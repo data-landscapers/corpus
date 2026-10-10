@@ -1,0 +1,19 @@
+{
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "pilot",
+      "cap": "",
+      "flags": "identity integrated;backlog capture;advancing",
+      "stage_sources": "BEN-006;BEN-007;BEN-011;BEN-013;BEN-025;BEN-032",
+      "gaps": "The one-stop desk has not left its ten facilities: the pilot ended in February 2026 and a consolidation phase runs in the same ten, with generalisation three to four months late. How ANIP's communal units and the civil-status centres make the record is not described: the 2021 law and the May 2026 playbook say every birth and death is registered in the national register, without saying where or by what means the entry is made, so deaths and offices beyond the ten are not established. No plan with a period is on record, and finance disagrees: donor support on the newest fact (BEN-009), self-financing with no budget line named in the playbook (BEN-043).",
+      "note": "Births are entered at the maternity desk on connected tablets into the central register, but only in ten pilot facilities still described as pilot desks in July 2026: rung 2. Rung 3 needs the system past its pilot and live in some local offices, and the only statement of wider practice is what the law prescribes, which places nothing."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,civil,governance,qualifier,owner:vendor;finance:donor,2026-09-02,GIN-005;GIN-014,GIN-011=owner:ministry;GIN-012=owner:ministry,not stated: plan
+GIN,civil,governance,qualifier,owner:vendor;finance:donor,2026-09-02,GIN-005;GIN-016,GIN-015=owner:partner;GIN-011=owner:ministry;GIN-012=owner:ministry;GIN-014=finance:donor,not stated: plan
 GIN,civil,events,coverage,B,2026-09-02,GIN-001,,
 GIN,civil,made,coverage,connected,2026-09-02,GIN-002,GIN-010=paper,
-GIN,civil,last12,qualifier,regressing,2026-09-02,GIN-004,,
+GIN,civil,last12,qualifier,regressing,2026-09-02,GIN-004;GIN-017,GIN-018=no-change,
 GIN,civil,offices,coverage,pilot,2023-08-03,GIN-013,GIN-003=not-published,

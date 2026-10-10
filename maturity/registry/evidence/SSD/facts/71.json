@@ -1,0 +1,74 @@
+{
+  "slug": "2019-05-01-ssd-final-report-for-multi-country-evaluation-for-birth-registration-for-m",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "none",
+      "fact": "The UNICEF-commissioned evaluation of the BR4MNCH project (fieldwork January to April 2019) states that post-independence South Sudan has no birth registration programme in place: over 2014-2018 the project gave birth notification only, to 559,922 children (285,406 boys, 274,516 girls), and led to the registration of none.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Civil registry (Directorate of Civil Registry, Ministry of Interior)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "none",
+      "fact": "The evaluation states that a Directorate of Civil Registry has been set up at national level but is staffed by its director alone and is not functional, and that birth registration structures have not been established at any other level.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Civil registry (Directorate of Civil Registry, Ministry of Interior)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The evaluation states that the Civil Registry Act 2018 gives the mandate for birth registration to the Ministry of Interior, where a civil registry unit was established, and leaves birth notification with the Ministry of Health.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Civil registry (Directorate of Civil Registry, Ministry of Interior)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The evaluation states that South Sudan has no policies, strategies or plans for birth registration, has yet to develop CRVS-specific policy and strategy documents, has no regulations to operate the Civil Registry Act 2018, and did not draft the costed CRVS reform plan because the bill passed only at the end of 2018; its performance matrix separately records 'a rolling strategic plan developed'.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Civil registry (Directorate of Civil Registry, Ministry of Interior)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The evaluation reports low government investment in CRVS and a low likelihood of any beyond UNICEF funding; the South Sudan work was paid from a Global Affairs Canada grant of USD 3,246,783 through UNICEF, with earlier Belgian funding, and government officials interviewed thought any reasonable state investment very unlikely.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Civil registry (Directorate of Civil Registry, Ministry of Interior)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic birth notification register and digital database",
+      "country_label": "electronic register and birth registration data base; digital registration database",
+      "class": "notification",
+      "platform": "",
+      "owner": "UNICEF (server and database housed at UNICEF, to move to the Ministry of Interior)",
+      "tiers": "Electronic entry piloted in 7 health facilities in Northern Bahr el Ghazal and Central Equatoria (Nyamlel, Mayen Ulem, Majak Kar and Malual Kon PHCCs, Aweil State Hospital, Juba Teaching Hospital, Munuki PHCC); found unsuccessful in most, observed working in a few"
+    },
+    {
+      "system": "Digital Mother's Cards",
+      "country_label": "mother cards",
+      "class": "",
+      "platform": "",
+      "owner": "UNICEF South Sudan",
+      "tiers": "Introduced in five health facilities in 3 counties"
+    }
+  ],
+  "note": "Passages only. The digital work the document describes is birth notification at health facilities, class notification, and gives no fact; no `made` fact, since no registration takes place. The `plan:none` fact carries a contradiction inside the document (text against performance matrix). DHIS2 and CHMIS are health systems outside the study's field."
+}

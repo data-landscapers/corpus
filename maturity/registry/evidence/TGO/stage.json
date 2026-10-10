@@ -1,0 +1,19 @@
+{
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "plan:current;finance:donor",
+      "events": "B",
+      "made": "paper",
+      "last12": "advancing",
+      "offices": "count:16",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TGO-008;TGO-009;TGO-010",
+      "gaps": "No admitted fact says how the record is made on the digital birth registration platform or on Kadodo: the only `made` row, TGO-015, is 2018 data and speaks of paper exchange between offices, not of the entry. The 16 Savanes communes (TGO-010) are centres digitised and trained to use the platform, not said to register on it, and no total is given beside them (TGO-001 mentions 117 communes). Events disagree: the 2024 platform names births only (TGO-008), Kadodo in Lacs 1 named births and deaths in 2021 (TGO-012). Owner rests only on the 2009 law (TGO-007), outside the 36-month window, so it is not carried; the 2024 roadmap (TGO-006) gives no period.",
+      "note": "The platform is in its pilot phase at one town hall, Golfe 3 (TGO-008, TGO-009), and the Savanes centres are equipped and trained, not shown registering. Stage 3 needs births past the pilot and live in some local offices with the record made digitally, and no fact says either."
+    }
+  ]
+}

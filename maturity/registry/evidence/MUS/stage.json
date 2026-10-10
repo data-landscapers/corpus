@@ -1,0 +1,19 @@
+{
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:none;finance:domestic",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "",
+      "offices": "count:35",
+      "cap": "",
+      "flags": "identity integrated;backlog capture",
+      "stage_sources": "MUS-006;MUS-015;MUS-022;MUS-023",
+      "gaps": "No share of offices making the digital entry: the Registrar's 35 computerised offices (2019) is a count with no denominator, the deck does not say in terms that every office enters records, and the newest fact (MUS-007, 2025-09-06) gives no count; the only share, 32 of 47 in 2012, is from the excluded essay. The plan held (MUS-018) is the Strategic Directions for 2023/2024, a period ended before the as-at, and both last-twelve-months facts (MUS-005 of 2025-09-06, MUS-020 of 2024) fall before the window opens on 2025-09-30.",
+      "note": "Births and deaths are registered online at computerised civil status offices into the central database, but the office figure is a count with no denominator, which is a floor and places at stage 3. Stage 4 needs more than half of offices on a share or a count with a denominator."
+    }
+  ]
+}

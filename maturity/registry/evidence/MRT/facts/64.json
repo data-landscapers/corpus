@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-mrt-agence-nationale-du-registre-des-populations-et-des-titres-securises",
+  "facts": [],
+  "systems": [
+    {"system": "SIGPTS", "country_label": "Système intégré de Gestion des Populations et des Titres Sécurisés (SIGPTS); Registre National Biométrique des Populations", "class": "identity", "platform": "civil AFIS, central biographic database, NNI, PKI, secure-title personalisation centre", "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés, Ministry of the Interior", "tiers": "Centres d'Accueil des Citoyens (CAC), consulates, border crossing points, control and verification stations; access gateways, one labelled Santé; 4,973,082 citizens enrolled (77% of persons enrolled)"},
+    {"system": "Houwiyeti", "country_label": "application numérique Houwiyeti", "class": "identity", "platform": "mobile application using the Numéro National d'Identification (NNI)", "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés", "tiers": "citizens online; launched 26 December 2023; said to interconnect ministries, banks, telecom operators and public platforms"},
+    {"system": "Khidmaty", "country_label": "Khidmaty", "class": "", "platform": "", "owner": "", "tiers": "named as a public platform"}
+  ],
+  "note": "No fact: the ANRPTS slide deck describes SIGPTS as identifying the population and securing identity titles, lists the civil status code in its legal frame and shows the Centres d'Accueil des Citoyens feeding the biometric population register, but says nothing of a birth or death being recorded, where or how."
+}

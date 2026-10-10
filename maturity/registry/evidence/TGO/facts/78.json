@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-11-tgo-lacs-projet-denregistrement-systematique-des-naissances-les-resultats",
+  "facts": [],
+  "systems": [
+    {"system": "enregistrement systématique des naissances (centres d'accouchement et centres d'état civil)", "country_label": "projet « Agir en faveur de l'enregistrement systématique des naissances dans les quatre communes de la préfecture des Lacs »", "class": "notification", "platform": "", "owner": "Fondation Aquéréburu and Partners with the mairie of Lacs 1; financed by the French embassy through its decentralisation support programme", "tiers": "the four communes of the Lacs prefecture: a civil status space created in birthing centres, declaration forms collected there and birth acts drawn up by the civil status centres; project from 2020, results shared 2024-01-10"},
+    {"system": "logiciel outil", "country_label": "logiciel outil", "class": "", "platform": "", "owner": "", "tiers": "the central civil status offices of the Lacs communes, supplied with computer equipment and a software tool; what the software does is not stated"},
+    {"system": "matériel informatique des états civils centraux", "country_label": "modernisation des états civils centraux", "class": "enabling", "platform": "", "owner": "", "tiers": "central civil status offices of the Lacs communes"}
+  ],
+  "note": "The article reports declaration forms collected at birthing centres and a software tool given to the central civil status offices without saying what the tool does or how the act is recorded. It gives birth acts drawn up in the Lacs communes: 700 in 2019, 1,975 in 2020, 2,185 in 2021 (89.73%), 2,599 in 2022 (98.26%), and 94.29% for January to October 2023."
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;finance:domestic",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "regressing",
+      "offices": "not-published",
+      "cap": "",
+      "flags": "identity integrated;regressing",
+      "stage_sources": "BWA-002;BWA-003;BWA-004",
+      "gaps": "No fact says how many of the 35 district offices and 17 on-site points enter records in the BDRS (BWA-004), and the newest fact on how the record is made (BWA-003) does not say in terms that it is keyed at the office; the only count is 13 hospitals in 2015 (BWA-023). No plan is held inside 36 months: the 2021-2026 CRVS plan is only scheduled in a 2019 document (BWA-017). The kiosk closures (BWA-010) are undated, and BWA-015 reports an online service built but not live.",
+      "note": "Stage 3: the BDRS registers births and deaths nationally, but the share of local offices entering in it is not published. Stage 4 needs more than half of offices on a share or a count with a denominator, and words saying the entry is made at the office."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 UGA,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026,UGA-001;UGA-008;UGA-009,UGA-007=owner:ministry;UGA-014=owner:ministry;UGA-015=owner:ministry;UGA-011=owner:ministry;UGA-004=owner:ministry;UGA-012=finance:donor;UGA-031=owner:ministry;UGA-036=owner:ministry;UGA-037=plan:none;UGA-038=finance:not-stated;UGA-027=plan:current;UGA-028=finance:domestic;UGA-026=owner:ministry;UGA-023=owner:ministry;UGA-024=finance:donor;UGA-029=owner:ministry;UGA-030=owner:ministry,
 UGA,civil,events,coverage,B;D,2026-07-18,UGA-002;UGA-003;UGA-010;UGA-016,UGA-018=B;D;UGA-032=B;D;UGA-039=B;D;UGA-020=B,
-UGA,civil,made,coverage,connected,2020-12,UGA-019;UGA-021;UGA-033,UGA-040=keyed-elsewhere;UGA-025=paper,nothing dated since 2023-10-10
-UGA,civil,last12,qualifier,advancing,2025-03,UGA-017,UGA-013=regressing;UGA-035=regressing,nothing dated since 2025-10-10
-UGA,civil,offices,coverage,equipped:83%,2020,UGA-034,UGA-041=equipped:100%;UGA-022=count:202,nothing dated since 2023-10-10
+UGA,civil,made,coverage,connected,2020-12,UGA-019;UGA-021;UGA-033,UGA-040=keyed-elsewhere;UGA-025=paper,nothing dated since 2023-09-28
+UGA,civil,last12,qualifier,advancing,2025-03,UGA-017,UGA-013=regressing;UGA-035=regressing,nothing dated since 2025-09-28
+UGA,civil,offices,coverage,equipped:83%,2020,UGA-034,UGA-041=equipped:100%;UGA-022=count:202,nothing dated since 2023-09-28

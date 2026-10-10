@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,civil,governance,qualifier,owner:ministry;plan:current,2026-09,GHA-001;GHA-005,GHA-006=owner:ministry;GHA-008=owner:ministry;GHA-011=owner:ministry;GHA-012=plan:current,not stated: finance
-GHA,civil,events,coverage,B,2024-03-14,GHA-007,GHA-010=B,
-GHA,civil,made,coverage,,,,,nothing held
+GHA,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-09,GHA-001;GHA-016;GHA-017,GHA-020=finance:domestic;GHA-005=plan:current;GHA-006=owner:ministry;GHA-018=owner:ministry;GHA-023=owner:ministry;GHA-008=owner:ministry;GHA-011=owner:ministry;GHA-012=plan:current,
+GHA,civil,events,coverage,B;D,2026-09,GHA-007;GHA-013;GHA-014;GHA-019,GHA-022=D;GHA-010=B,
+GHA,civil,made,coverage,keyed-elsewhere,2022,GHA-021,,nothing dated since 2023-09-28
 GHA,civil,last12,qualifier,,,,,nothing held
-GHA,civil,offices,coverage,pilot,2020-12,GHA-009,,nothing dated since 2023-10-10
+GHA,civil,offices,coverage,count:2,2024-10,GHA-015,GHA-009=pilot,

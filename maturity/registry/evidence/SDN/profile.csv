@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,civil,governance,qualifier,owner:ministry,2023-03-03,SDN-008,SDN-011=owner:ministry,nothing dated since 2023-10-10
+SDN,civil,governance,qualifier,owner:ministry,2023-03-03,SDN-008,SDN-011=owner:ministry,nothing dated since 2023-09-28
 SDN,civil,events,coverage,B,2026-05-17,SDN-003,SDN-009=B,
-SDN,civil,made,coverage,connected,2023-03-03,SDN-010,,nothing dated since 2023-10-10
+SDN,civil,made,coverage,connected,2023-03-03,SDN-010,,nothing dated since 2023-09-28
 SDN,civil,last12,qualifier,regressing,2026-08-07,SDN-001;SDN-002,SDN-004=advancing;SDN-006=advancing,
 SDN,civil,offices,coverage,count:1,2026-05-17,SDN-005,,

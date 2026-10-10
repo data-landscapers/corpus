@@ -1,0 +1,19 @@
+{
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "equipped:100%",
+      "cap": "",
+      "flags": "identity integrated;advancing",
+      "stage_sources": "TUN-005;TUN-011;TUN-016;TUN-018",
+      "gaps": "No source gives a share or count of offices making the entry in Madania: TUN-018 (2020) and TUN-012 (2015) say all offices are interconnected or have access and give no number registering. Nothing on how the record is made or on offices is dated after 2020; no plan whose period includes the as-at and no finance fact inside the 36 months is held (TUN-009 and TUN-020 plans ended by 2021, TUN-019 donor finance is 2021).",
+      "note": "Births and deaths are entered by the registrar at the municipal office after the paper register and held in the national database (TUN-011, TUN-016), but the offices figure is a share equipped, which places at stage 3. Stage 4 needs a share or a count with a denominator of offices registering."
+    }
+  ]
+}

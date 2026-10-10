@@ -1,0 +1,19 @@
+{
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;plan:none;finance:donor",
+      "events": "none",
+      "made": "",
+      "last12": "advancing",
+      "offices": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SSD-004;SSD-006;SSD-009;SSD-014;SSD-015",
+      "gaps": "Preparation rests on announcements of July 2026 and an undated memorandum of understanding: no design, procurement, pilot office or start date for a digital system is described, and whether the Juba birth-registration pilot (SSD-023, SSD-024) is digital is not stated. No dated statement that local offices register on paper only is held outside the excluded source (SSD-019), so stage 1 is not claimed. On the plan, SSD-022 (December 2025) says a costed CRVS plan was adopted but gives it no period, against SSD-013 (July 2026), which describes recommendations and no plan in force.",
+      "note": "Stage 2 because the Directorate announced a digital civil registration system in July 2026 and the World Bank lists it as planned only (SSD-014, SSD-015). Not stage 3: no birth is registered digitally in any office."
+    }
+  ]
+}

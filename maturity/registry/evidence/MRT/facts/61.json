@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-18-mrt-interior-minister-population-enrolment-permanent-public-service",
+  "facts": [],
+  "systems": [
+    {"system": "السجل الوطني للسكان (national population register)", "country_label": "السجل الوطني للسكان; also السجل البيومتري / التسجيل البيومتري, and the deputy's السجل الوطني للوثائق المؤمنة", "class": "identity", "platform": "", "owner": "Ministry of the Interior, Decentralisation and Local Development", "tiers": "permanent enrolment at the competent centres; 238 local identification and census commissions in all communes since end September 2025; mobile field missions; more than 5.1 million enrolled, from 3.4 million in 2019"}
+  ],
+  "note": "No fact: the minister's answer of 18 June 2026 is about enrolling citizens in the national population (biometric) register, which is identity; it says the civil status system was modernised and its services digitised but names no event registered and does not say how or where a birth or death is recorded."
+}

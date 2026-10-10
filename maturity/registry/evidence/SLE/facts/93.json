@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-22-sle-civil-registration-in-sierra-leone-progress-and-policy-reforms",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "NCRA told the ID4Africa meeting of 22 May 2025 that over 80% of its integrated CRVS and ID services are digitised, listing birth registration and death registration and certification among those services; it does not say which services fall in the remainder.", "as_of": "2025-05-22", "date_precision": "day", "system": "Integrated CRVS & ID Services", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "NCRA's presentation of 22 May 2025 says the National Civil Registration Act 2016 mandates the Authority to deliver the integrated CRVS and ID services, assign the NIN and share data with other ministries and agencies.", "as_of": "2025-05-22", "date_precision": "day", "system": "Integrated CRVS & ID Services", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated CRVS & ID Services", "country_label": "Integrated CRVS & ID Services; NCRA/NIN system", "class": "civil", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "regional and district offices and centres in populated areas; mobile or roving registration service centres; health facilities and schools by partnership; permanent registration centres at chiefdom and ward level still to be established; no count given"},
+    {"system": "digitization of historic paper-based records", "country_label": "Digitization of historic/past paper-based record", "class": "archive", "platform": "", "owner": "NCRA", "tiers": "30% digitised and linked to current records, 70% still to be digitised"},
+    {"system": "services linked to the NIN", "country_label": "Services Linked to the NIN - System; interoperability", "class": "exchange", "platform": "National Identification Number (NIN)", "owner": "NCRA", "tiers": "financial inclusion, education, social security, passport and immigration, driver's licence, SIM registration, tax and revenue"}
+  ],
+  "note": "No made or offices fact: the slides say services are decentralised to regional and district offices but give no count of offices and do not say where or how the record of a birth or death is entered. The 93% is population registration coverage, not offices."
+}

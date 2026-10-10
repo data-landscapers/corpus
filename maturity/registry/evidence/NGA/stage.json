@@ -1,0 +1,19 @@
+{
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B;D",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:3372",
+      "cap": "",
+      "flags": "identity integrated;advancing",
+      "stage_sources": "NGA-011;NGA-021;NGA-033;NGA-029;NGA-040;NGA-027;NGA-014",
+      "gaps": "No share of local offices entering on VitalReg is established: 3,372 wards activated (NGA-027, 18 July 2026) has no total of wards, and the 4,011 registration centres (NGA-014, NGA-023, NGA-035) are a count of centres whose facts say they do not state how many enter on the platform; the two counts disagree and are of different units. NGA-027 also says only 15 states have ward registrars while other rows say all 36 states and the FCT, and paper fallback where the network fails is reported (NGA-001, NGA-040, NGA-041). Finance is donor or not stated; no domestic budget line is held.",
+      "note": "Births and deaths are entered at ward and local government offices on the national platform from 1 July 2026, but the offices figure is a count with no denominator, which is a floor and places at stage 3. Stage 4 needs more than half of local offices on a share or a count with a denominator."
+    }
+  ]
+}

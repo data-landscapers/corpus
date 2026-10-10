@@ -1,23 +1,23 @@
 iso3,sub_indicator,rung,events,made,offices,offices_as_of,stopped_by
 AGO,civil,3,B,connected,not-published,2024,no share of local offices over half
-BDI,civil,2,,paper,count:13,2026-08-10,paper at local offices beside a system elsewhere
-BEN,civil,2,B,connected,pilot,2026-07-16,"a pilot, or no office said to be using it"
+BDI,civil,2,B;D,paper,count:13,2026-08-10,paper at local offices beside a system elsewhere
+BEN,civil,2,B;D,connected,pilot,2026-07-16,"a pilot, or no office said to be using it"
 BFA,civil,3,B;D,connected,share:5.0%,2021,no share of local offices over half
 BWA,civil,3,B;D,connected,count:13,2015-09,no share of local offices over half
-CAF,civil,1,none,paper,,,a dated statement of paper only
+CAF,civil,2,none,paper,pilot,2024-12,paper at local offices beside a system elsewhere
 CIV,civil,3,B;D,local,equipped:98%,2026-03-02,"a share of offices equipped, not registering"
 CMR,civil,3,B;D,local,share:13.9%,2026-09-14,the record is not held in the national register
 COD,civil,2,B;D,paper,pilot,2025-08-18,paper at local offices beside a system elsewhere
 COG,civil,3,B;D,local,count:2,2020-12,the record is not held in the national register
-COM,civil,1,,paper,,,a dated statement of paper only
-CPV,civil,2,B;D,connected,,,"a pilot, or no office said to be using it"
-DJI,civil,2,B;D,local,none,2025,"a pilot, or no office said to be using it"
-DZA,civil,3,B;D,connected,not-published,2025-10-10,no share of local offices over half
+COM,civil,1,none,paper,none,2026-03-24,a dated statement of paper only
+CPV,civil,4,B;D,connected,share:100%,2017-11,the share is older than two years
+DJI,civil,3,B;D,local,count:9,2024-02,the record is not held in the national register
+DZA,civil,3,B;D,connected,count:1541,2019-06-19,no share of local offices over half
 EGY,civil,3,B;D,connected,count:4571,2026,no share of local offices over half
-ERI,civil,2,D,,,,deaths only
+ERI,civil,2,D,keyed-elsewhere,not-published,2015-05,deaths only
 ETH,civil,3,B;D,connected,count:50,2025-12-08,no share of local offices over half
-GAB,civil,1,none,paper,none,2021-06-15,a dated statement of paper only
-GHA,civil,2,B,,pilot,2020-12,how the record is made is not stated
+GAB,civil,1,none,paper,none,2026-05-31,a dated statement of paper only
+GHA,civil,3,B;D,keyed-elsewhere,count:2,2024-10,the record is not held in the national register
 GIN,civil,2,B,connected,pilot,2023-08-03,"a pilot, or no office said to be using it"
 GMB,civil,3,B,connected,count:79,2025,no share of local offices over half
 GNB,civil,3,B;D,connected,count:1,2026-04,no share of local offices over half
@@ -39,17 +39,17 @@ NGA,civil,3,B;D,connected,count:4011,2026-07-24,no share of local offices over h
 RWA,civil,5,B;D,connected,share:100%,2025,the rural share is not carried by a value
 SDN,civil,3,B,connected,count:1,2026-05-17,no share of local offices over half
 SEN,civil,3,B;D,connected,equipped:77%,2026-09,"a share of offices equipped, not registering"
-SLE,civil,2,B;D,connected,,,"a pilot, or no office said to be using it"
+SLE,civil,3,B;D,connected,count:48,2024-09-06,no share of local offices over half
 SOM,civil,3,B;D,connected,count:30,2026-01,no share of local offices over half
 SSD,civil,2,none,,none,2026-05,how the record is made is not stated
 STP,civil,3,B;D,connected,not-published,2026-03-10,no share of local offices over half
 SWZ,civil,3,B;D,connected,count:14,2022,no share of local offices over half
 SYC,civil,2,B;D,,,,how the record is made is not stated
 TCD,civil,3,B,connected,count:97,2025-06-03,no share of local offices over half
-TGO,civil,unplaced,,,,,no coverage aspect stated
+TGO,civil,2,B,paper,count:16,2024,paper at local offices beside a system elsewhere
 TUN,civil,3,B;D,connected,equipped:100%,2020,"a share of offices equipped, not registering"
 TZA,civil,4,B;D,connected,share:57%,2024,under 90 per cent
 UGA,civil,3,B;D,connected,equipped:83%,2020,"a share of offices equipped, not registering"
 ZAF,civil,3,B,connected,count:242,2026-03-26,no share of local offices over half
-ZMB,civil,3,B;D,keyed-elsewhere,count:11,2026,the record is not held in the national register
+ZMB,civil,3,B;D,keyed-elsewhere,equipped:69.8%,2025,"a share of offices equipped, not registering"
 ZWE,civil,3,B,connected,count:93,2026-07-22,no share of local offices over half

@@ -1,0 +1,19 @@
+{
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:170",
+      "cap": "",
+      "flags": "advancing;backlog capture",
+      "stage_sources": "BFA-006;BFA-049;BFA-004",
+      "gaps": "The 170 centres of 2025 (BFA-006) are centres the software was deployed in, with no total of centres and no statement that they register in it; the budget review (BFA-039) gives 0 main centres producing acts digitally at 30 June 2025, which disagrees. Deaths rest only on a training session in one commune (BFA-003), and no fact says where the VENEEM record is held; whether 2025's 170 includes 2024's 116 is not stated.",
+      "note": "Stage 3: births are entered in VENEEM past its pilot, on a count of centres with no denominator. Stage 4 needs more than half of local offices on a share or a count with a total, and the only share held is 5.0% of iCivil points in 2021 (BFA-046)."
+    }
+  ]
+}

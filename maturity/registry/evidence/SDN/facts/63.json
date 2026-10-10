@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-10-sdn-nabdsudan-civil-fingerprint-national-number-service-restored",
+  "facts": [],
+  "systems": [
+    {"system": "civil fingerprint and national number service, Civil Registry", "country_label": "خدمة البصمة المدنية واستخراج الرقم الوطني (السجل المدني)", "class": "identity", "platform": "", "owner": "General Administration of Civil Registry, Passports and Civil Registry Authority, Sudan Police, Ministry of Interior", "tiers": "restored for all age groups at a launch reported on 10 April 2025, for citizens in all states as the police state it; the national data were recovered by Sudanese engineers of the police technology and information department"},
+    {"system": "national personal card system", "country_label": "نظام البطاقة الشخصية القومية", "class": "identity", "platform": "", "owner": "General Administration of Civil Registry", "tiers": "launch said to be near, April 2025"},
+    {"system": "link between banks and the civil registry system", "country_label": "ربط البنوك بنظام السجل المدني", "class": "exchange", "platform": "", "owner": "General Administration of Civil Registry", "tiers": "31 banks linked, to ease currency replacement, as the director of the Civil Registry states in April 2025"}
+  ],
+  "note": "The document reports the restoration of fingerprint enrolment and national number issuance and a link to 31 banks; it states nothing about the registration of births or deaths."
+}

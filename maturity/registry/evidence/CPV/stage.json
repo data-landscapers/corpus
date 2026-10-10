@@ -1,0 +1,19 @@
+{
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "",
+      "events": "B;D",
+      "made": "local",
+      "last12": "",
+      "offices": "share:100%",
+      "cap": "",
+      "flags": "rural gap;identity integrated",
+      "stage_sources": "CPV-007;CPV-008;CPV-009",
+      "gaps": "No report of practice says the entry made at the conservatória is held in the national register: CPV-008 (2017) does not say where the record is held, CPV-001 (2025) does not say the entry is made at the office, and CPV-003 and CPV-005 are what the law prescribes, which places nothing. The office share is 22 of 22 municipalities from a profile compiled to November 2017, with stations in urban centres only; nothing newer gives a share or a rural share. No governance fact is dated inside the 36 months and no event inside the twelve.",
+      "note": "Births and deaths are entered directly in the computer at conservatórias in all 22 municipalities, which meets stage 3. Stage 4 needs `connected` from the fact's own words, and the only rows that say it are legal provisions."
+    }
+  ]
+}

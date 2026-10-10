@@ -1,0 +1,19 @@
+{
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:none;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:30",
+      "cap": "",
+      "flags": "advancing;identity integrated",
+      "stage_sources": "LSO-001;LSO-002;LSO-014;LSO-022;LSO-023",
+      "gaps": "No total of local registration offices is given, so both counts are floors: 30 SMS-supported stations in three districts (LSO-002, 2026) and 15 enrolment centres online to the central server (LSO-023, 2022), which are different systems and are not reconciled. How the SMS platform's record is made and where it is held is not stated, LSO-014 does not name the register, and LSO-022 says the centres allow for birth registration without saying the entry is made there; nationwide scale-up is an action for 2026-2027 and deaths are not shown entered at any local office.",
+      "note": "Digital birth registration is live past its pilot in a counted set of local offices, which meets stage 3. Stage 4 needs more than half of offices on a share or a count with a denominator, and no denominator is published."
+    }
+  ]
+}

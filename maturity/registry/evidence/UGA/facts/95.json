@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-october",
+  "facts": [],
+  "systems": [
+    {"system": "MVRS", "country_label": "MVRS", "class": "", "platform": "", "owner": "", "tiers": "in continued use at health facilities, in most private (UCMB) facilities and Mulago Hospital, as of October-December 2024"},
+    {"system": "NIRA CRVS system", "country_label": "NIRA CRVS system", "class": "", "platform": "", "owner": "NIRA", "tiers": ""},
+    {"system": "DHIS2 MCCD application", "country_label": "DHIS2 MCCD application", "class": "notification", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "hospitals: death notification and medical certification of cause of death entered at national referral, regional referral and general hospitals, public and private not-for-profit"},
+    {"system": "MCCD data transfer from DHIS2 to the NIRA CRVS system", "country_label": "", "class": "exchange", "platform": "DHIS2", "owner": "Ministry of Health and NIRA", "tiers": "reported inefficient because the administrative units of the two bodies do not match"},
+    {"system": "Electronic Medical Records system", "country_label": "Electronic Medical records system", "class": "", "platform": "", "owner": "", "tiers": "in use at Uganda Catholic Medical Bureau hospitals; needs integration with HMIS 100"}
+  ],
+  "note": "A D4H quarterly report on hospital death notification and cause-of-death certification in DHIS2; it names MVRS and the NIRA CRVS system without saying what either does, and states nothing on how or where the registrar makes the record."
+}

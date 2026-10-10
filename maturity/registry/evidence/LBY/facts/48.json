@@ -1,0 +1,34 @@
+{
+  "slug": "2025-01-26-lby-lana-intilaqa-civil-registry-data-matching-continues",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Interior states, through LANA on 26 January 2025, that the Civil Status Authority, under the supervision of the Attorney General's office, is continuing the Intilaqa project to match the electronic data in the civil status system against its paper originals in the civil registers, with work on the technical systems, staff training and review of the recorded data.",
+      "as_of": "2025-01-26",
+      "date_precision": "day",
+      "system": "منظومة الأحوال المدنية (civil status system)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "منظومة الأحوال المدنية (civil status system)",
+      "country_label": "منظومة الأحوال المدنية",
+      "class": "civil",
+      "platform": "",
+      "owner": "Civil Status Authority (مصلحة الأحوال المدنية), Ministry of Interior",
+      "tiers": "Not stated; its database is said to be linked to many other bodies' databases and electronic systems"
+    },
+    {
+      "system": "مشروع الانطلاقة (Intilaqa project)",
+      "country_label": "مشروع الانطلاقة",
+      "class": "",
+      "platform": "",
+      "owner": "Civil Status Authority, under the supervision of the Attorney General's office",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "The document does not say which events the system holds, where an entry is made or how many offices use it, so no events, made or offices fact. Intilaqa is a matching of existing electronic records against paper registers, which the typology does not name; class left empty. The ministry asks citizens to report births, marriages, divorces and deaths and to update their data."
+}

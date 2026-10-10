@@ -1,0 +1,19 @@
+{
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:97",
+      "cap": "",
+      "flags": "identity integrated;advancing",
+      "stage_sources": "TCD-015;TCD-016;TCD-017;TCD-044",
+      "gaps": "The 97 digitised hospital-based registration points (TCD-016) have no total of local offices beside them, so the count is a floor and no share is established; deaths are not registered digitally on any fact. `made` disagrees: N'Djamena's commune service is still described as paper on 2026-09-23 (TCD-001, TCD-004) and the national system as predominantly paper in 2024 (TCD-019), while the hospital offices are connected (TCD-017, TCD-044); the commune facts are one municipality and do not carry the country. TCD-017's words do not say the entry is made at the office, which only TCD-044 says, of six hospitals in 2023. No admitted source states a rural gap, and the N'Djamena register digitisation is planned, not under way.",
+      "note": "Births are registered digitally at hospital-based registry offices past the 2023 pilot, 97 points and more than 120,000 children by June 2025, sent to ANATS and returned for issuance. Stage 4 needs more than half of local offices on a share or a count with a denominator, and none is given."
+    }
+  ]
+}

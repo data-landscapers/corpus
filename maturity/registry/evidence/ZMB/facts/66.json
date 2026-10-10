@@ -1,0 +1,10 @@
+{
+  "slug": "2022-01-01-zmb-eighth-national-development-plan-8ndp-2022-2026-socio-economic-transfo",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Eighth National Development Plan 2022-2026 commits the Government to decentralise the civil and vital registration system, including operationalisation of the Integrated National Registration Information System, and lists civil registration and vital statistics automation as a programme under its health information strategy.", "as_of": "2022", "date_precision": "year", "system": "Integrated National Registration Information System", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated National Registration Information System", "country_label": "Integrated National Registration", "class": "civil", "platform": "", "owner": "Government of Zambia", "tiers": "to be operationalised as the civil and vital registration system is decentralised"}
+  ],
+  "note": "Passages only; the sentence naming the system is cut off after 'Integrated National Registration'. A plan's intentions only: nothing on events, how the record is made or offices."
+}

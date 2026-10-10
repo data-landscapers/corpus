@@ -1,0 +1,19 @@
+{
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "count:336",
+      "cap": "",
+      "flags": "advancing;identity integrated;backlog capture",
+      "stage_sources": "MDG-004;MDG-007;MDG-008;MDG-009",
+      "gaps": "The 336 communes (MDG-007, December 2025) are given as 40% of the project's target, not as a share of all communes, so the count is a floor; the newer fact (MDG-005, 2026-03-02) says only 'several communes'. MDG-009 does not say in terms where the record is held, and the offline module was only in demonstration. No plan is held inside the 36 months (the plan:none fact is from 2016), no domestic budget line is held, and PRODIGY's financing closed on 30 June 2026 with no later fact on what funds the system; the software's future after OpenCRVS stops was unsettled. No digital death registration is reported.",
+      "note": "SIECM is live for births in communes that use it themselves, past pilot, on a count with no denominator, which is stage 3. Stage 4 needs more than half of offices on a share or a count with a denominator."
+    }
+  ]
+}

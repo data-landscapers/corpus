@@ -1,0 +1,19 @@
+{
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "events": "B;D",
+      "made": "keyed-elsewhere",
+      "last12": "",
+      "offices": "count:2",
+      "cap": "",
+      "flags": "identity integrated",
+      "stage_sources": "GHA-013;GHA-014;GHA-015;GHA-021",
+      "gaps": "No national count or share of offices entering births digitally: the only count is two registry centres in one Accra municipal district (2024-10), a floor. How a birth record is made is not stated in any row; the one `made` fact is for deaths, paper forms scanned at the national office (2022), and nothing says entry is made at the office and held in the national register. Deaths rest on the platform's name and on scanned forms. No dated event in the twelve months. The plan for 2025-2030 was still to be approved in July 2025 and does not name the platform; the budget line names no system. The identity link was launched in March 2024 and systems.csv records it suspended after a fault and re-tested in August 2026. GHA-002 to GHA-004 are from the excluded source and set nothing.",
+      "note": "Births are registered on the Registry's digital platform at local registry centres, outside any pilot, which meets stage 3 on a count with no total. Stage 4 needs `connected` in the fact's words and more than half of offices on a share or a count with a denominator; neither is held."
+    }
+  ]
+}

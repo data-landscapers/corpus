@@ -1,0 +1,36 @@
+{
+  "slug": "2025-01-01-gha-child-protection-budget-brief-2025",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "UNICEF Ghana's 2025 budget brief names the Births and Deaths Registry's 'automated Registration of Births and Deaths (SRBD) platform' and recommends it be modernised and maintained, saying weak digital systems hinder timely and accurate registration; births and deaths are read from the platform's descriptive name, and the brief gives no date for it, so it is dated from the published year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "automated Registration of Births and Deaths (SRBD) platform",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "UNICEF Ghana, from the local government ministry's programme-based budgets, says the Births and Deaths Registry's allocation fell from GHS 12 million in 2020 to a projected GHS 7 million in 2025 (GHS 7,409,170 in its table) after a peak of GHS 30 million in 2024, and that the Registry was fully government-funded in 2020 while 93 per cent of its 2025 budget is internally generated funds and 7 per cent government; this is the Registry's whole budget, which the brief says leaves it unable to plan investment in ICT systems, not a line for the platform.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "automated Registration of Births and Deaths (SRBD) platform",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "automated Registration of Births and Deaths (SRBD) platform",
+      "country_label": "automated Registration of Births and Deaths (SRBD) platform",
+      "class": "civil",
+      "platform": "",
+      "owner": "Births and Deaths Registry",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "No made or offices fact: the brief does not say where the entry is made or how many offices use the platform. Infant registration of 76.7 per cent in 2024 (170,257 infants, 23 per cent, unregistered; Eastern Region lowest at 59.9 per cent) is a share of births, which places nothing. Government goods-and-services execution of 37 per cent in 2024 is the whole ministry's."
+}

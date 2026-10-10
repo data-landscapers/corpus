@@ -1,0 +1,19 @@
+{
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;finance:donor",
+      "events": "B;D",
+      "made": "local",
+      "last12": "",
+      "offices": "count:9",
+      "cap": "",
+      "flags": "backlog capture",
+      "stage_sources": "DJI-006;DJI-007;DJI-012;DJI-013;DJI-014",
+      "gaps": "The newest dated facts (ESCWA's 2025 survey, DJI-003 to DJI-005, held as an ingest note and not as the passage) say local offices hold no electronic records of births or deaths, which disagrees with the city's 2024 account of SIGEC; no row dated to the as-at says any office outside Djibouti-Ville enters digitally, none gives a national count of offices, and SIGEC is not said to be held in a national register. No plan is stated, nothing is held for the last twelve months, and no row shows a birth registration issuing the NNI in practice, so identity integrated is not set; no admissible row names rural offices, so rural gap is not set.",
+      "note": "SIGEC has entered births and deaths at nine civil-status sites since 2011, all of them in Djibouti-Ville, which is the ladder's system running in the capital only. Stage 3 needs it live in local offices beyond the capital, and the 2025 survey says the opposite."
+    }
+  ]
+}

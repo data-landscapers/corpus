@@ -1,0 +1,19 @@
+{
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "events": "none",
+      "made": "paper",
+      "last12": "advancing",
+      "offices": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GAB-004;GAB-005;GAB-022;GAB-023;GAB-027",
+      "gaps": "No office registers digitally and no pilot office is named; the CNEC is not yet in operation and the legal framework for digital registration was rated not implemented at 31 May 2026. The count held is of departments (0 of an unstated total), not offices. No domestic budget line is stated. GAB-001 and GAB-002 are dated after the as-at and set nothing.",
+      "note": "A system for local offices is being prepared: the World Bank subcomponent is funded to June 2028, technical assistance was recruited in April 2026 and the mapping of offices was under way at 31 May 2026. Stage 3 needs births registered digitally in some local offices, and the results framework reports none."
+    }
+  ]
+}

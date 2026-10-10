@@ -1,0 +1,19 @@
+{
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:vendor;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "regressing",
+      "offices": "not-published",
+      "cap": "",
+      "flags": "backlog capture;regressing",
+      "stage_sources": "GIN-001;GIN-002;GIN-003",
+      "gaps": "No count or share of offices: one commune's officer says all communes, with no count beside it, so it is not read as 100 per cent. `made` disagrees: GIN-002 (2026-09-02) has the commune system depending on a data centre, while GIN-010 (2026-03-03) has Conakry's 13 communes supplied with paper registers for 2026 and GIN-018 (2026-02) has registrars still on paper in parallel; the newest stands, but its words do not say the entry is made at the office. Offices disagree too: pilot in ten communes (GIN-013, 2023-08) against not-published (GIN-003), the newest standing. The fact does not say whether the digital birth certificate is the registration of the birth or the issue of a secure copy, nor whether the system is E-RENEC. No plan is stated. Owner disagrees in the window: vendor (2026-09), partner (2026-04), ministry in law (2025-04, 2023-10). GIN-017 (July 2025) falls outside the twelve months. GIN-006 to GIN-009 are from the excluded source and set nothing.",
+      "note": "Commune offices were establishing digital birth certificates in routine use in September 2026, in a system tied to a data centre, which meets stage 3 with offices not published. Stage 4 needs entry at the office stated in terms and more than half of offices on a share or a count with a denominator; neither is held."
+    }
+  ]
+}

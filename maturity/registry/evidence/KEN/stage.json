@@ -1,0 +1,19 @@
+{
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "events": "B",
+      "made": "connected",
+      "last12": "advancing",
+      "offices": "not-published",
+      "cap": "",
+      "flags": "advancing;identity integrated;backlog capture",
+      "stage_sources": "KEN-001;KEN-002",
+      "gaps": "No fact counts the hospitals or offices using the e-birth registry of 2026; the newest offices fact, KEN-014 for 2023, reports no office entering digitally, and predates the system. KEN-002 has parents entering the data in the hospital and does not say the entry is made at a registration office; systems.csv carries the same system as an e-notification processed at the civil registration office. Deaths are not on the system. No plan is held for the period: KEN-023's ran 2018 to 2022.",
+      "note": "More than 270,000 births were registered in two months through the digital solution, with data going directly to the population registry, which is rung 3 with offices not published. The fact's words do not say the entry is made at the office, so it reaches no rung above 3, and no share or count with a denominator is held."
+    }
+  ]
+}

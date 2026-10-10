@@ -1,0 +1,19 @@
+{
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "civil",
+      "stage": "2",
+      "governance": "owner:ministry;finance:domestic",
+      "events": "B;D",
+      "made": "paper",
+      "last12": "",
+      "offices": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001;MLI-007",
+      "gaps": "No office is shown entering an event digitally: the platform of MLI-007 and MLI-008 (2024-12-16) is approved with ten pilot areas identified and not said to have started, so B;D is what it is to cover, not what is registered. Nothing dated inside the twelve months speaks to movement. The strategy held is for 2018-2022 (MLI-014), a period ended before the as-at, so no current plan is held; finance:domestic rests on ANSAEC's endowment in law with no amount or budget line (MLI-005), beside donor support (MLI-009). The 2016 City-web fact (MLI-011) names no office and its link to the NINA is not confirmed at the as-at, so identity integrated is not set.",
+      "note": "A digital platform for civil status centres is being prepared, with pilot areas identified, while the registrar's own account of July 2026 describes the birth chain as paper. Stage 3 needs births entered digitally in some local offices past a pilot, and no fact shows one."
+    }
+  ]
+}

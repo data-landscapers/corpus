@@ -1,0 +1,9 @@
+{
+  "slug": "2023-04-29-gin-transition-le-cout-du-ravec-chiffre-a-plus-de-mille-milliards-gnf",
+  "facts": [],
+  "systems": [
+    {"system": "RAVEC", "country_label": "Recensement à Vocation de l'Etat Civil (RAVEC)", "class": "identity", "platform": "", "owner": "Ministère de l'administration du territoire et de la décentralisation", "tiers": "planned: computers and tablets for 2,535 principal and secondary civil status centres, 20,000 declaration centres (churches, mosques, cemeteries) and 150 diplomatic and consular posts; 365 centres to be renovated or built"},
+    {"system": "archivage et numérisation des anciens actes", "country_label": "archiver et numériser les anciens actes", "class": "archive", "platform": "", "owner": "Ministère de l'administration du territoire et de la décentralisation, under RAVEC", "tiers": "planned outcome; no figure given"}
+  ],
+  "note": "No fact: the article gives the RAVEC budget presented on 28 April 2023 (GNF 1,399,971,262,823.93) and what it plans, a census assigning every Guinean an identification number and a national population register, with IT equipment for civil status centres; it describes no system in which an office makes a digital record of a birth or death."
+}

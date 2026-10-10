@@ -1,0 +1,8 @@
+{
+  "slug": "2024-03-29-tgo-au-togo-une-commune-lance-la-teledeclaration-des-naissances-avec-lappu",
+  "facts": [],
+  "systems": [
+    {"system": "télédéclaration des naissances et des décès", "country_label": "projet de télédéclaration; Hospi-connect et Hospi-gestion", "class": "notification", "platform": "Hospi-connect and Hospi-gestion", "owner": "Commune du Golfe 3, with the support of UNDP Togo", "tiers": "launched 2024-03-28 in the commune of Golfe 3, pilot phase: two public health facilities, CMS Doumasséssé and CHU Campus, connected to the commune's civil status agents, who receive birth and death declarations in real time"}
+  ],
+  "note": "The article describes health centres and residents sending birth and death declarations online to the commune's civil status agents; it does not say that the agents make the civil status record digitally, so the system is notification and gives no fact."
+}

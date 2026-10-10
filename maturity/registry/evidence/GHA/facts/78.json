@@ -1,0 +1,62 @@
+{
+  "slug": "2026-03-01-gha-the-effect-of-digital-systems-integration-on-birth-registration-rates",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "A Ghana Statistical Service and UNECA paper using Births and Deaths Registry administrative data says births in Ablekuma West Municipal Assembly are registered on a digital registration platform that existed before the March 2024 integration with the Ghana Card: 2,310 births registered March to October 2023 and 1,722 March to October 2024.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Births and Deaths Registry digital registration platform",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:2",
+      "fact": "The paper covers the two existing Births and Deaths Registry offices of Ablekuma West Municipal Assembly, the Dansoman and Gbegbeyise registry centres, whose birth registrations on the digital platform it analyses (1,045 and 677 births, March to October 2024); this is one municipal district of 29 in Greater Accra and the paper gives no national count of offices.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Births and Deaths Registry digital registration platform",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The paper, citing the local government ministry (MLGCRA 2025), says Ghana has developed a CRVS Strategic Plan 2025-2030, following the 2016-2020 one, whose priorities include modernising CRVS infrastructure, expanding mobile registration and data interoperability; it does not name the platform.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Births and Deaths Registry digital registration platform",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Births and Deaths Registry digital registration platform",
+      "country_label": "the digital registration platform; the digital platform",
+      "class": "civil",
+      "platform": "",
+      "owner": "Births and Deaths Registry",
+      "tiers": "registry centres; the two in Ablekuma West Municipal Assembly (Dansoman, Gbegbeyise) are the ones studied"
+    },
+    {
+      "system": "Ghana Card Number at Birth System",
+      "country_label": "Ghana Card Number at Birth System; systems integration",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ghana Health Service, Births and Deaths Registry and National Identification Authority",
+      "tiers": "launched 14 March 2024 and rolled out across the country, for children from zero to six years"
+    },
+    {
+      "system": "Ghana Card",
+      "country_label": "national identity platform; national identification database",
+      "class": "identity",
+      "platform": "",
+      "owner": "National Identification Authority",
+      "tiers": "national; from October 2024 children aged 6 to 14 registered with the National Health Insurance Authority"
+    }
+  ],
+  "note": "No made fact: the paper says births are registered on the digital platform at the registry centres but does not say the entry is made at the office at registration and held in the national register. The fall in registrations after the 2024 integration (25 per cent in the district) is outside the twelve-month window and is a count of births, not of offices."
+}

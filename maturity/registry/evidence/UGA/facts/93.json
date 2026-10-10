@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-15-uga-civil-registration-and-vital-statistics-uganda-progress-report-january",
+  "facts": [],
+  "systems": [
+    {"system": "HMIS digital register (e-register)", "country_label": "HMIS e-register", "class": "notification", "platform": "", "owner": "Ministry of Health, with D4H support", "tiers": "tailored for Health Centre II and III facilities; training of trainers in Arua district in March 2026, to cascade to 19 health facilities; national rollout in preparation"},
+    {"system": "eAFYA Electronic Medical Records system", "country_label": "eAFYA EMR", "class": "notification", "platform": "", "owner": "Ministry of Health, Division of Health Information", "tiers": "health facilities; a data mining tool submits eMCCD, HMIS Form 100 reports and birth notifications to DHIS2, under validation"},
+    {"system": "Electronic Medical Certificate of Cause of Death", "country_label": "eMCCD", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "health facilities"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "exchange", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "receives notifications from eAFYA; transfer of notifications to NIRA for registration planned once validation is complete"},
+    {"system": "electronic Community Health Information System", "country_label": "eCHIS", "class": "notification", "platform": "", "owner": "Ministry of Health, Department of Community Health", "tiers": "community health workers; six-district community birth and death notification pilot, up to 400 community health workers oriented"},
+    {"system": "digital mortuary registers and birth and death notification modules", "country_label": "digital registers", "class": "notification", "platform": "", "owner": "Ministry of Health, with D4H technical guidance", "tiers": "in development"},
+    {"system": "NIRA registration", "country_label": "NIRA", "class": "", "platform": "", "owner": "National Identification and Registration Authority", "tiers": ""}
+  ],
+  "note": "A D4H quarterly report on health-side notification systems; it gives 76,934 births and 4,485 deaths registered in January-March 2026 and 209,199 births and 18,926 deaths in 2025, but describes no registrar's system and says nothing on how or where NIRA makes the record."
+}
