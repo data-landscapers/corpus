@@ -1,0 +1,200 @@
+{
+  "id": "registry",
+  "study_file": "maturity-study-registry.md",
+  "subjects": [
+    "digital.rural",
+    "dpi.registry",
+    "dpi.id"
+  ],
+  "stage_topic": "dpi.registry",
+  "redraws": [
+    "digital.rural--digitalisation-of-rural-registry-offices",
+    "dpi.registry--civil-register"
+  ],
+  "terms": [
+    "civil registration",
+    "civil registry",
+    "civil register",
+    "civil status",
+    "CRVS",
+    "vital statistics",
+    "vital events",
+    "vital registration",
+    "état civil",
+    "etat-civil",
+    "faits d'état civil",
+    "centre d'état civil",
+    "officier d'état civil",
+    "registo civil",
+    "registro civil",
+    "conservatória",
+    "الحالة المدنية",
+    "الأحوال المدنية",
+    "السجل المدني",
+    "birth registration",
+    "registration of births",
+    "birth certificate",
+    "birth notification",
+    "births and deaths",
+    "death registration",
+    "registration of deaths",
+    "death certificate",
+    "enregistrement des naissances",
+    "déclaration de naissance",
+    "acte de naissance",
+    "actes de naissance",
+    "acte de décès",
+    "registo de nascimento",
+    "certidão de nascimento",
+    "assento de nascimento",
+    "registo de óbito",
+    "شهادة الميلاد",
+    "تسجيل المواليد",
+    "registrar general",
+    "registrar of births",
+    "registry office",
+    "registration office",
+    "registration centre",
+    "registres d'état civil",
+    "numérisation des registres",
+    "digitisation of registers",
+    "audiences foraines",
+    "jugement supplétif",
+    "mobile registration",
+    "OpenCRVS",
+    "iCivil",
+    "VitalReg",
+    "CitiWeb",
+    "Tasdjil",
+    "Medania",
+    "Veneem",
+    "eCRVS",
+    "MVRS"
+  ],
+  "sub_indicators": [
+    {
+      "key": "civil",
+      "label": "Civil registration",
+      "subject": "digital.rural",
+      "text": "Digitalisation of rural registry offices: civil registration",
+      "indicator_id": "digital.rural--digitalisation-of-rural-registry-offices-civil-registration",
+      "class": "civil"
+    }
+  ],
+  "classes": [
+    "civil",
+    "archive",
+    "notification",
+    "certificate",
+    "outreach",
+    "identity",
+    "land",
+    "enabling",
+    "exchange"
+  ],
+  "aspects": [
+    {
+      "key": "governance",
+      "name": "Governance, planning, finance",
+      "role": "qualifier",
+      "window_months": 36,
+      "facets": {
+        "owner": [
+          "ministry",
+          "partner",
+          "vendor"
+        ],
+        "plan": [
+          "current",
+          "none"
+        ],
+        "finance": [
+          "domestic",
+          "donor",
+          "not-stated"
+        ]
+      }
+    },
+    {
+      "key": "events",
+      "name": "Events registered digitally",
+      "role": "coverage",
+      "multi": true,
+      "defer": [
+        "none"
+      ],
+      "values": [
+        "B",
+        "D",
+        "none"
+      ]
+    },
+    {
+      "key": "made",
+      "name": "How the record is made",
+      "role": "coverage",
+      "defer": [
+        "paper"
+      ],
+      "prefer": [
+        "connected"
+      ],
+      "values": {
+        "civil": [
+          "connected",
+          "local",
+          "keyed-elsewhere",
+          "paper"
+        ]
+      }
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": [
+        "advancing",
+        "no-change",
+        "regressing"
+      ]
+    },
+    {
+      "key": "offices",
+      "name": "Local offices doing the digital entry",
+      "role": "coverage",
+      "pattern": "share:\\d{1,3}(\\.\\d+)?%|count:\\d+|pilot|none|not-published",
+      "prefer": [
+        "share:",
+        "count:",
+        "pilot",
+        "none",
+        "not-published"
+      ]
+    }
+  ],
+  "cap": {
+    "aspect": "governance",
+    "above": 3,
+    "flag": "externally run",
+    "all": [
+      "owner:ministry"
+    ],
+    "any": [
+      "finance:domestic",
+      "plan:current"
+    ]
+  },
+  "flags": [
+    "externally run",
+    "rural gap",
+    "advancing",
+    "regressing"
+  ],
+  "exclude_sources": [
+    {
+      "slug": "2026-03-31 Africa we have a data problem",
+      "why": "An AI-assisted compilation by its own header, not sourced fact (Bill, 2026-10-06). Its rows stay in evidence.csv; none enters a profile or sets a stage."
+    }
+  ]
+}
