@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-sierra-leone-unified-permit-portal-ncra-nin-requirement",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number and Non-National ID card", "country_label": "NIN; Non National ID card", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Registration at NCRA is the first step of applying for a work or residence permit on the Unified Permit portal (live page captured September 2026)"}
+  ],
+  "note": "An online permit portal for foreign nationals that requires an identity number; nothing on birth or death registration."
+}

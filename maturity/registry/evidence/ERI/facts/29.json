@@ -1,0 +1,17 @@
+{
+  "slug": "2017-11-01-apai-crvs-costed-strategic-plan-2017-2021",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "UNECA's APAI-CRVS costed strategic plan lists Eritrea as 'Not initiated' in its table of countries' CRVS comprehensive assessment and planning status, with no plan entry beside it; the table gives no date, so the published date is used, and its column headings are not in the passages.",
+      "as_of": "2017-11",
+      "date_precision": "month",
+      "system": "Civil registration and vital statistics system",
+      "class": "civil"
+    }
+  ],
+  "systems": [],
+  "note": "The only passage naming Eritrea is one table row; the reading of its columns rests on the neighbouring Ethiopia row ('Comprehensive assessment completed', 'Developed')."
+}

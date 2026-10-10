@@ -1,0 +1,31 @@
+{
+  "slug": "2017-01-01-worldbank-id4d-country-diagnostic-car",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Civil register",
+      "country_label": "registre civil; bureaux du registre civil; audiences foraines",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministry of Interior, Public Safety and National Administration (MISPAN)",
+      "tiers": "264 civil registration offices throughout the country before 2013, with itinerant registration for the most remote rural areas; the archives kept in all 264 offices were largely destroyed in 2013"
+    },
+    {
+      "system": "National identity card",
+      "country_label": "carte nationale d'identité",
+      "class": "identity",
+      "platform": "",
+      "owner": "MISPAN",
+      "tiers": "held by an estimated less than 20% of the population before 2013; the centralised production facility was destroyed in the violence"
+    },
+    {
+      "system": "Voter database",
+      "country_label": "base de données de l'Autorité Nationale des Élections (ANE)",
+      "class": "land",
+      "platform": "",
+      "owner": "National Electoral Authority (ANE)",
+      "tiers": "national; close to 2 million records, updated every year; called the largest digital identity database in the country"
+    }
+  ],
+  "note": "Held as an excerpt cut off before the Civil Register section: the part held gives the count of 264 civil registration offices and their loss of archives in 2013, says there is no legal prerogative on digitisation, and recommends against making reconstruction of the civil register the priority, but does not say how an office records an event."
+}

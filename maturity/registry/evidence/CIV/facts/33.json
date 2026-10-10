@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services",
+  "facts": [],
+  "systems": [
+    {"system": "MaPoste", "country_label": "MaPoste", "class": "certificate", "platform": "mobile application", "owner": "La Poste de Côte d'Ivoire with ONECI", "tiers": "national, by smartphone, for holders of a national identification number; request and tracking of civil status certificates, nationality certificates and criminal records, and delivery of identity cards; launched 2026-01-16"},
+    {"system": "National Register of Natural Persons (RNPP)", "country_label": "RNPP", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national; biometric, integrated into MaPoste"}
+  ],
+  "note": "A postal application through which civil status certificates can be requested and tracked: a request channel for copies, not registration. Nothing on how offices register births or deaths."
+}

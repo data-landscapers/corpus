@@ -1,0 +1,90 @@
+{
+  "slug": "2024-10-29-aujourdhui-registre-national-etat-civil-digital",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "Aujourd'hui le Maroc, citing the Ministry of the Interior, reports that the civil-status management system SGEC handles birth declarations and death declarations digitally, with marginal mentions, mentions of marriages and divorces, registers and family booklets, and that over 1,300,000 acts had been declared or issued from it to date.",
+      "as_of": "2024-10-29",
+      "date_precision": "day",
+      "system": "Système de gestion de l'état civil (SGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "share:100%",
+      "fact": "Aujourd'hui le Maroc, citing the Ministry of the Interior, reports that SGEC is generalised to all the civil-status offices of the Kingdom; the article gives no count of offices, so the share is the ministry's word 'all' with no numerator or denominator.",
+      "as_of": "2024-10-29",
+      "date_precision": "day",
+      "system": "Système de gestion de l'état civil (SGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "Aujourd'hui le Maroc, citing the Ministry of the Interior, reports that in SGEC an entry agent at the civil-status office enters acts, the civil-status officer checks and validates them, and the provincial inspector and central inspector consult the acts through the same system; the programme's infrastructure component is a central platform hosting the electronic database with offices permanently connected over a dedicated network, which the article states as what the component is to provide.",
+      "as_of": "2024-10-29",
+      "date_precision": "day",
+      "system": "Système de gestion de l'état civil (SGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Aujourd'hui le Maroc reports that the Ministry of the Interior runs SGEC and the civil-status portal under its civil-status modernisation programme (PMEC).",
+      "as_of": "2024-10-29",
+      "date_precision": "day",
+      "system": "Système de gestion de l'état civil (SGEC)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Aujourd'hui le Maroc reports that the Ministry of the Interior is pursuing its civil-status modernisation programme (PMEC), which names SGEC among its components with the technology infrastructure, the back-capture, the legal overhaul and new citizen services, towards a national civil-status register; no budget or end date is given.",
+      "as_of": "2024-10-29",
+      "date_precision": "day",
+      "system": "Système de gestion de l'état civil (SGEC)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Système de gestion de l'état civil (SGEC)",
+      "country_label": "Système de gestion de l'état civil (SGEC)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur",
+      "tiers": "all civil-status offices (BEC) of the Kingdom; inspectors at prefecture or province level; central inspector"
+    },
+    {
+      "system": "portail de l'état civil",
+      "country_label": "portail de l'état civil (www.alhalamadania.ma)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur",
+      "tiers": "online services for citizens; nearly 50,000 pre-declared acts since its launch in 2018"
+    },
+    {
+      "system": "reprise de l'historique de l'état civil",
+      "country_label": "historique",
+      "class": "archive",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur",
+      "tiers": "scanning, keying and cleaning of more than 55 million civil-status acts since 1915; past acts are approved in SGEC before entering its database"
+    },
+    {
+      "system": "Registre national de l'état civil",
+      "country_label": "Registre national de l'état civil",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur",
+      "tiers": "the programme's eventual aim; a maintenance application for its management system is being set up"
+    }
+  ],
+  "note": "The article gives no date for the SGEC figures beyond 'to date', so as_of is its published date. 'Connected' rests on the roles described and on the infrastructure component as stated; the article does not say whether paper registers are kept alongside. The portal takes pre-declarations from citizens, which fits none of the typology's classes cleanly."
+}

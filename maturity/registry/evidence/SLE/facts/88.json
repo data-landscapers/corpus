@@ -1,0 +1,26 @@
+{
+  "slug": "2021-12-16-eu-sierra-leone-multi-annual-indicative-programme-2021-2027",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The EU's 2021-2027 indicative programme for Sierra Leone names support to an integrated civil registration information system as a governance priority, with expected result 2.2 that an Integrated National Civil Registration Information System is established and accessible at local, district and national level for the registration of vital events (baseline registration rates birth 78%, death 16%; targets 95% and 90%); no amount is given for it, and the date is the document's published date.",
+      "as_of": "2021-12-16",
+      "date_precision": "day",
+      "system": "Integrated National Civil Registration Information System",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated National Civil Registration Information System",
+      "country_label": "Integrated National Civil Registration Information System",
+      "class": "civil",
+      "platform": "",
+      "owner": "",
+      "tiers": "to be established and accessible at the local, district and national level (expected result, not yet in place)"
+    }
+  ],
+  "note": "The system is an expected result of EU support, not a system stated to exist; the capture is truncated at the fetch limit, after the governance priority area."
+}

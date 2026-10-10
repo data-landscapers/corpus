@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-05-mped-2025-harvest-report",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The planning ministry's 2025 harvest report says all the health information infrastructure systems were fully completed during 2025, among them the integrated system for registering births and deaths.", "as_of": "2025", "date_precision": "year", "system": "Integrated system for registering births and deaths", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The 2025 harvest report lists the births and deaths information infrastructure system among the work of the planning ministry's own Information Infrastructure Center, completed in 2025.", "as_of": "2025", "date_precision": "year", "system": "Integrated system for registering births and deaths", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated system for registering births and deaths", "country_label": "منظومة البنية المعلوماتية للمواليد والوفيات؛ المنظومة المتكاملة لتسجيل المواليد والوفيات", "class": "civil", "platform": "", "owner": "Information Infrastructure Center of the Ministry of Planning, Economic Development and International Cooperation, as part of the health information infrastructure", "tiers": "not stated"},
+    {"system": "Technology centres for citizen services in local government", "country_label": "المراكز التكنولوجية لخدمة المواطنين بالمحليات", "class": "", "platform": "", "owner": "Ministry of Planning with the Ministry of Local Development", "tiers": "393 centres in governorate offices, cities, districts and village units by end 2025, including 45 village units"},
+    {"system": "Mobile technology centres", "country_label": "المراكز التكنولوجية المتنقلة", "class": "", "platform": "", "owner": "Ministry of Planning, delivered to ministries and national bodies", "tiers": "215 delivered of 326 planned"},
+    {"system": "Real Estate Publicity and Notarisation offices capacity project", "country_label": "مكاتب ومأموريات مصلحة الشهر العقاري والتوثيق", "class": "land", "platform": "", "owner": "Ministry of Justice, supported by the Ministry of Planning", "tiers": "32 offices and 337 sub-offices"}
+  ],
+  "note": "The report names the births and deaths system in one sentence: it gives no offices, no means of entry and no budget. Its completion is dated only to the year 2025, so no last-twelve-months fact is drawn."
+}

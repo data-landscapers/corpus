@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices (Department of Home Affairs points) primarily use paper forms such as DHA-24 for birth registration at the point of service, in person; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Department of Home Affairs birth registration on form DHA-24", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The essay's country table states that online birth registration exists at 391 health facilities, mostly urban or hospital-based; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "online birth registration at health facilities", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:391", "fact": "The essay's country table puts online birth registration at 391 health facilities, mostly urban or hospital-based, with only 8 of 91 targeted priority (rural or low-resource) facilities equipped, citing the Centre for Child Law 2025; no total of registration points is given and the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "online birth registration at health facilities", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Department of Home Affairs birth registration on form DHA-24", "country_label": "birth registration", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "rural Home Affairs offices; paper form at point of service"},
+    {"system": "online birth registration at health facilities", "country_label": "online birth registration", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "391 health facilities, mostly urban or hospital-based; 8 of 91 targeted priority facilities equipped"},
+    {"system": "Mobile Registration Units", "country_label": "Mobile Registration Units", "class": "outreach", "platform": "", "owner": "Department of Home Affairs", "tiers": "remote areas, as special outreach, not standard service"},
+    {"system": "e-Birth", "country_label": "e-Birth", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "named in the 2025-2030 strategic plan"}
+  ],
+  "note": "This source is on the study's exclude_sources list (an AI-assisted compilation by its own header); the facts are recorded as the document states them and are for the parent to exclude."
+}

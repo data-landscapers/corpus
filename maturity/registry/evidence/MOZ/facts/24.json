@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-22-mass-civil-registration-campaign",
+  "facts": [],
+  "systems": [
+    {"system": "mass civil registration campaign", "country_label": "", "class": "outreach", "platform": "", "owner": "Ministry of Justice, Constitutional and Religious Affairs, jointly with the Ministry of Interior; World Bank funding of about US$9 million", "tiers": "up to 500 mixed mobile brigades nationwide, in districts, administrative posts and local communities, to reach up to 7 million citizens by December 2026; announced 20 March 2026"},
+    {"system": "identity card (BI) issuance", "country_label": "BI", "class": "identity", "platform": "", "owner": "Ministry of Interior", "tiers": "issued on site by the same brigades, first card free"}
+  ],
+  "note": "A registration campaign by mobile brigades; the article does not say how the registration is recorded, so no fact."
+}

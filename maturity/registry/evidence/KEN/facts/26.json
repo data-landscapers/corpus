@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-26-ngao-trained-revised-id-registration",
+  "facts": [],
+  "systems": [
+    {"system": "electronic birth notification", "country_label": "electronic birth notification", "class": "notification", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "named by the principal secretary as a reform that lets parents generate birth certificates using the UPI"},
+    {"system": "Unique Personal Identifier", "country_label": "UPI", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Integrated Population Registration Services", "country_label": "IPRS", "class": "identity", "platform": "", "owner": "", "tiers": "national population register"},
+    {"system": "eCitizen", "country_label": "eCitizen", "class": "", "platform": "", "owner": "", "tiers": "online government services platform"},
+    {"system": "revised national identification card registration and issuance system", "country_label": "", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "administration officers trained in 24 counties"}
+  ],
+  "note": "Training on identity card registration; electronic birth notification is named in one sentence, as a notification that lets parents generate a certificate, with nothing on the registrar's own entry."
+}

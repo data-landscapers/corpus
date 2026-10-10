@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-sacj-linking-heterogeneous-datasets-hdss",
+  "facts": [],
+  "systems": [
+    {"system": "Health and Demographic Surveillance System (DIMAMO)", "country_label": "HDSS", "class": "", "platform": "SQL database with a C# interface and Pentaho data integration", "owner": "DIMAMO Population Health Research Centre, University of Limpopo", "tiers": "research surveillance site in rural communities of Limpopo Province; collects vital events and verbal autopsies"}
+  ],
+  "note": "A research surveillance system that collects vital events for study, not the civil registrar's system; the passages state nothing on civil registration."
+}

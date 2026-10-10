@@ -1,0 +1,31 @@
+{
+  "slug": "2026-02-01-oubanguimedias-campagne-enregistrement-tardif-bangui",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Campagne d'Enregistrement Tardif des Enfants Scolarisés ou à Scolariser",
+      "country_label": "Campagne d'Enregistrement Tardif des Enfants Scolarisés ou à Scolariser",
+      "class": "outreach",
+      "platform": "",
+      "owner": "MATDDL (DGDEC), with CIVIPOL as executing partner, under the EU project",
+      "tiers": "launched 29 January 2026 in Bangui prefecture (secondary centres of the 3rd, 5th, 6th and 8th arrondissements); earlier in the communes around Bouar, Boali, Berberati, Béa-Nana and Yenga: 61,000 registrations, 40,000 supplementary judgments from six tribunals, more than 10,000 birth certificates handed over; target 400,000 over four years"
+    },
+    {
+      "system": "Fichier national de l'état civil",
+      "country_label": "fichier national de l'état civil",
+      "class": "",
+      "platform": "",
+      "owner": "MATDDL (DGDEC)",
+      "tiers": "national file that the campaign's 61,000 registrations are to enrich; how it is kept is not described"
+    },
+    {
+      "system": "Centres d'état civil réhabilités",
+      "country_label": "centres d'état civil réhabilités et renforcés",
+      "class": "enabling",
+      "platform": "",
+      "owner": "MATDDL, under the EU project",
+      "tiers": "eight centres to be handed over to the targeted localities"
+    }
+  ],
+  "note": "A late-registration campaign: the article says nothing of how an office records a birth, digitally or on paper."
+}

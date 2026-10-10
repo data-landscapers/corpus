@@ -1,0 +1,32 @@
+{
+  "slug": "2023-12-01-rwanda-crvs-standard-operating-procedures",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D",
+     "fact": "NIDA's procedures of December 2023 set out the electronic recording of births and of deaths in NCI-CRVS, among nine vital events registered in it.",
+     "as_of": "2023-12", "date_precision": "month", "system": "National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected",
+     "fact": "NIDA's procedures state that a health facility's data manager enters a birth or death into the national centralised NCI-CRVS and the facility's civil registrar checks it against the population register and digitally signs the record there, in the declarant's presence, to complete registration, a national identity number being generated automatically for the child.",
+     "as_of": "2023-12", "date_precision": "month", "system": "National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected",
+     "fact": "NIDA's procedures state that for a birth or death at home the village chief draws up a paper notification form, and the cell executive secretary, who is the civil registrar, enters it into NCI-CRVS within 30 days and registers the event.",
+     "as_of": "2023-12", "date_precision": "month", "system": "National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected",
+     "fact": "NIDA states that all civil registers are available only in electronic format from 17 February 2023, three years after publication of the 2020 law, the paper register being allowed alongside the electronic one for no more than six months.",
+     "as_of": "2023-02-17", "date_precision": "day", "system": "National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:3220",
+     "fact": "NIDA states that digitalising and decentralising registration raised the number of civil registration service points to 3,220, in health facilities and in cell and sector offices, from 446 local registration sites before 2020 (416 sectors and 30 embassies); it gives no date for the 3,220, so the document's own date is used.",
+     "as_of": "2023-12", "date_precision": "month", "system": "National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry",
+     "fact": "NIDA's procedures state that the Ministry of Local Government supervises civil status services nationally and that the National Identification Agency, a government technical body, implements civil registration policy and technically supervises and coordinates the system.",
+     "as_of": "2023-12", "date_precision": "month", "system": "National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Centralised and Integrated Civil Registration and Vital Statistics (NCI-CRVS)", "country_label": "NCI-CRVS", "class": "civil", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": "health facilities, cells, sectors, districts, embassies; 3,220 civil registration service points"},
+    {"system": "NCI-CRVS link to the National Population Register", "country_label": "NPR", "class": "exchange", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": "registers pre-filled from the population register by national identity number; a national identity number generated automatically for the child when the birth record is signed, and the person marked deceased on death registration"},
+    {"system": "National Population Register", "country_label": "NPR", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": ""},
+    {"system": "Electronic Document Management System", "country_label": "EDMS", "class": "certificate", "platform": "", "owner": "", "tiers": "holds the birth or death record the system creates on registration, from which copies are issued"},
+    {"system": "IremboGov", "country_label": "IremboGov", "class": "certificate", "platform": "", "owner": "", "tiers": "online and by USSD *909#, with agents in villages; request and payment for copies and extracts of civil status records, approved by the local registrar"},
+    {"system": "Verbal autopsy on ODK central", "country_label": "VA", "class": "exchange", "platform": "Open Data Kit (ODK central)", "owner": "", "tiers": "cell civil registrars, for community deaths; linked to NCI-CRVS, probable cause passed to the Ministry of Health and NISR"}
+  ],
+  "note": ""
+}

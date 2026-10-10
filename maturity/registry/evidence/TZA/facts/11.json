@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-09-jamii-namba-children-pilot-set-for-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "Jamii Namba", "country_label": "Jamii Namba: unique identification number issued by NIDA from birth, to appear on birth certificates", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA), Ministry of Home Affairs", "tiers": "pilot prepared for Rungwe, Kilolo and Unguja South districts, to start once the Registration and Identification of Persons Act is amended"},
+    {"system": "integration of NIDA and RITA functions", "country_label": "planned integration of the functions of NIDA and RITA", "class": "exchange", "platform": "", "owner": "government", "tiers": "planned; national"}
+  ],
+  "note": "An identity-number pilot for children and a planned merging of NIDA and RITA functions; nothing on how or where the civil registrar records a birth or death."
+}

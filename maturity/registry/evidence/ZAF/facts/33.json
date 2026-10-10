@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-30-dha-annual-performance-plan-2026-27-digital-identity",
+  "facts": [],
+  "systems": [
+    {"system": "digital identity and PKI platform", "country_label": "digital identity", "class": "identity", "platform": "public key infrastructure, certificate authority, digital identity platform, verifiable credentials and digital wallets", "owner": "Department of Home Affairs, hosted in the SARS hosting environment", "tiers": "hosting infrastructure the 2026/27 target; digital identity operational targeted 2027/28"},
+    {"system": "smart ID card and passport services through bank branches", "country_label": "digital partnership model", "class": "identity", "platform": "API-based integration", "owner": "Department of Home Affairs with banks", "tiers": "agreements with eight banks; said to extend reach to rural and remote areas"}
+  ],
+  "note": "The extracts reproduced are the digital identity sections of the 2026/27 Annual Performance Plan only; they state nothing on how births or deaths are registered."
+}

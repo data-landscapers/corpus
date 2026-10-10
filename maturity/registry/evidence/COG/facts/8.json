@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-28-cg-feuille-de-route-numerique-tribune",
+  "facts": [],
+  "systems": [
+    {"system": "Services numériques de l'État (first wave: civil status, passport, criminal record, company creation)", "country_label": "Services numériques de l'État", "class": "certificate", "platform": "", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique, within an interministerial task force under the Prime Minister", "tiers": "national, planned; the stated aim is that obtaining a birth certificate becomes simple, with the main public services digitalised within two years"},
+    {"system": "Identité numérique sécurisée", "country_label": "identité numérique sécurisée", "class": "identity", "platform": "", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique", "tiers": "national, planned"},
+    {"system": "Plateforme d'échange de données entre les administrations", "country_label": "plateforme d'échange de données entre les administrations", "class": "exchange", "platform": "", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique", "tiers": "national, planned"}
+  ],
+  "note": "An opinion piece by an adviser to the digital economy minister setting out a roadmap of five ambitions and nine programmes. Civil status appears as a citizen service to be put online; nothing on how a registry office records a birth or a death, and no civil registration system is named."
+}

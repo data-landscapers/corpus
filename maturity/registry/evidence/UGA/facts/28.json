@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-13-nature-echis-death-notification",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "D", "fact": "NIRA representatives interviewed for a study conducted between May and August 2024 said death registration requires completion of Form 12 and entry into the Mobile Vital Registration System (MVRS), the declarant of a community death presenting in person at the parish or sub-county offices to start the process; the study does not say at which office the entry is made.", "as_of": "2024-08", "date_precision": "month", "system": "Mobile Vital Registration System (MVRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The study, conducted between May and August 2024, names NIRA, established under the Registration of Persons Act, as the civil registration authority whose officers register deaths in the MVRS.", "as_of": "2024-08", "date_precision": "month", "system": "Mobile Vital Registration System (MVRS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Mobile Vital Registration System (MVRS)", "country_label": "MVRS", "class": "civil", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "not stated; declarants of community deaths present at parish or sub-county offices"},
+    {"system": "electronic Community Health Information System (eCHIS) community death notification workflow", "country_label": "eCHIS", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "Village Health Teams and Community Health Extension Workers; about 11,099 VHTs and 160 CHEWs in 17 districts; synchronises with DHIS2, not with MVRS"},
+    {"system": "SMS death reporting platform, short code 6767", "country_label": "6767", "class": "notification", "platform": "SMS", "owner": "", "tiers": "Village Health Teams during the COVID-19 response; discontinued when project funding ended"},
+    {"system": "paper HMIS death reporting forms keyed into DHIS2", "country_label": "HMIS 007, 008, 097b", "class": "notification", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "Village Health Teams report quarterly on paper to health facilities"}
+  ],
+  "note": "For the parent: the body is a truncated excerpt. It states that deaths in health facility systems and those registered through MVRS were not routinely reconciled, and that health and civil registration systems run in parallel."
+}

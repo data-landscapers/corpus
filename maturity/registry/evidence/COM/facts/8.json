@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-26-amecc-civil-registry-computerisation-validation-workshop-alwatwan",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 25 March 2026 the secretary general of the Ministry of the Interior opened in Moroni a workshop to validate the studies preceding computerisation of the civil registration system, an Amecc initiative attended by mayors, prefects, island institutions, the UN system and the French embassy.", "as_of": "2026-03-25", "date_precision": "day", "system": "Amecc (projet d'Appui à la modernisation de l'état-civil aux Comores)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of the Interior's secretary general launched the validation workshop, and the 2022 evaluation of the civil registration system was led by the Ministry of the Interior with partners' support, Al-Watwan reports.", "as_of": "2026-03-25", "date_precision": "day", "system": "Amecc (projet d'Appui à la modernisation de l'état-civil aux Comores)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The Amecc project is financed by the French embassy and technically supported by UNICEF, as stated at the workshop of 25 March 2026.", "as_of": "2026-03-25", "date_precision": "day", "system": "Amecc (projet d'Appui à la modernisation de l'état-civil aux Comores)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The article states that the modernisation of civil registration began in 2024 and that the authorities then validated its strategic plan; it gives no date for the validation, so the published date is used.", "as_of": "2026-03-26", "date_precision": "day", "system": "Amecc (projet d'Appui à la modernisation de l'état-civil aux Comores)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Amecc (projet d'Appui à la modernisation de l'état-civil aux Comores)", "country_label": "projet Amecc", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur; financed by the French embassy, technical support from UNICEF", "tiers": "Studies before computerisation; field studies found disparities in digitalisation and archiving maturity on each island"}
+  ],
+  "note": ""
+}

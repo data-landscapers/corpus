@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-29-plfi-2026-matd-commission-des-lois-cnt",
+  "facts": [],
+  "systems": [
+    {"system": "solutions numériques (digitalisation de l'état civil)", "country_label": "digitalisation de l'état civil; solutions numériques déployées dans les communes", "class": "", "platform": "", "owner": "MATD, through ONECI", "tiers": "communes; deployment in 28 communes in 2025"},
+    {"system": "Registre national de l'État civil (RNEC)", "country_label": "registre national de l'État civil (RNEC)", "class": "", "platform": "", "owner": "MATD, through ONECI", "tiers": ""},
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "registre national des personnes physiques (RNPP)", "class": "identity", "platform": "", "owner": "MATD, through ONECI", "tiers": ""},
+    {"system": "audiences foraines", "country_label": "audiences foraines", "class": "outreach", "platform": "", "owner": "MATD, through ONECI", "tiers": "375 communes in 2025"},
+    {"system": "recensement biométrique", "country_label": "recensement biométrique à l'échelle nationale", "class": "identity", "platform": "", "owner": "MATD, through ONECI", "tiers": "national, 2025"},
+    {"system": "fichier électoral biométrique", "country_label": "fichier électoral biométrique", "class": "land", "platform": "", "owner": "MATD (DGE)", "tiers": ""}
+  ],
+  "note": "The minister's budget address of 29 March 2026 reports digital solutions for civil status deployed in 28 communes in 2025, without saying what the solutions do or whether offices enter births or deaths in them, so the system is unclassified and gives no fact; the 375 in the same passage is the number of communes that held mobile court hearings. No budget line for civil status is broken out of the ministry's 2,953 billion GNF."
+}

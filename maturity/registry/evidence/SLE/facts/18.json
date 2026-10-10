@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's registry row states that rural birth registration takes place at about 1,300 health facilities by 2,600 health workers and at chiefdom level, is mostly paper-based, and that computers are found only in urban centres, not in rural health facilities or chiefdom registries; it cites a UNECA CRVS snapshot of 2019 and gives no date of its own, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Birth registration at health facilities and chiefdom registries", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Birth registration at health facilities and chiefdom registries", "country_label": "chiefdom registries; health facility registration", "class": "civil", "platform": "", "owner": "National Civil Registration Authority (NCRA); health workers under a Ministry of Health memorandum", "tiers": "About 1,300 health facilities and chiefdom or community level; stated as mostly paper, with computers only in urban centres"},
+    {"system": "eCRVS", "country_label": "national eCRVS", "class": "", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; stated only as upgraded"},
+    {"system": "Mobile app for birth notification", "country_label": "simple mobile app", "class": "notification", "platform": "", "owner": "National Civil Registration Authority (NCRA); app outsourced", "tiers": "2021 pilot training of health workers in Western Rural health units; the app stores data directly to NCRA; similar trainings elsewhere"},
+    {"system": "National Identification Number enrolment and biometric IDs", "country_label": "NIN enrolment", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; enrolment stated at about 90 per cent"}
+  ],
+  "note": "The passages file's own header marks this essay as an AI-assisted compilation to be treated as the author's analysis, and study.json lists the slug under exclude_sources; the fact is recorded as the document states it."
+}

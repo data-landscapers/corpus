@@ -1,0 +1,15 @@
+{
+  "slug": "2019-11-01-sierra-leone-national-innovation-and-digital-strategy-2019-2029",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Civil Registration Authority national registry",
+      "country_label": "national registry (integrated civil registration, National Civil Registration Act 2016)",
+      "class": "identity",
+      "platform": "",
+      "owner": "National Civil Registration Authority (NCRA)",
+      "tiers": "national; the document says nearly 75% of the population has a verified digital and biometric record with NCRA (as of November 2019), each citizen to be issued a National Identification Number, and gives no office or district tier"
+    }
+  ],
+  "note": "The strategy describes NCRA's registry only as a biometric population record and the platform for the national digital identity; it says nothing of how or where births or deaths are registered, and notes generally that government data collection is manual, paper-based and not integrated."
+}

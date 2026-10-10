@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TCD,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-23,TCD-003;TCD-021;TCD-028,TCD-006=owner:ministry;TCD-008=owner:ministry;TCD-014=owner:ministry;TCD-018=owner:ministry;TCD-022=owner:ministry;TCD-023=owner:ministry;TCD-041=owner:ministry;TCD-027=owner:ministry;TCD-031=owner:ministry;TCD-032=plan:current;TCD-033=finance:donor;TCD-035=plan:current;TCD-037=owner:ministry;TCD-038=plan:current;TCD-039=finance:donor;TCD-042=plan:current;TCD-034=owner:ministry,
+TCD,civil,events,coverage,B,2025-06-03,TCD-015;TCD-020;TCD-024;TCD-043,,
+TCD,civil,made,coverage,connected,2025-06-03,TCD-017;TCD-044,TCD-001=paper;TCD-004=paper;TCD-019=paper;TCD-040=paper;TCD-030=paper;TCD-036=paper,
+TCD,civil,last12,qualifier,advancing,2026-09-23,TCD-002;TCD-005;TCD-007;TCD-013;TCD-029,,
+TCD,civil,offices,coverage,count:97,2025-06-03,TCD-016,TCD-045=count:6;TCD-025=count:18;TCD-026=pilot,

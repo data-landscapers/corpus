@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique",
+  "facts": [],
+  "systems": [
+    {"system": "national mobile digital identity and electronic signature infrastructure", "country_label": "", "class": "identity", "platform": "mobile application, physical starter card and virtual card", "owner": "Ministry of Communications and Digital Transformation, through ATDI; financed by the World Bank", "tiers": "national, at tender"},
+    {"system": "National Population Registry", "country_label": "", "class": "identity", "platform": "", "owner": "National Directorate of Civil Identification (DNIC)", "tiers": "to be integrated with the mobile digital identity"},
+    {"system": "X-Road Interoperability Platform", "country_label": "", "class": "", "platform": "X-Road", "owner": "", "tiers": "currently being implemented; no civil registration link stated"}
+  ],
+  "note": "A tender for mobile digital identity and e-signature; civil registration is not mentioned, so no fact."
+}

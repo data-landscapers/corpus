@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-03-zmb-lavushimanda-digital-civil-registration",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:26", "fact": "The Lavushimanda District National Registration Officer says INRIS was deployed to 26 District National Registration Offices across the country in March 2022; no total number of offices is given.", "as_of": "2022-03", "date_precision": "month", "system": "Integrated National Registration Information System (INRIS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The district office of the Department of National Registration, Passport and Citizenship in Lavushimanda, Muchinga Province, is implementing digital civil registration through INRIS, registered over 3,000 children under five in the previous four months, and urges the public to register children and secure death certificates under the same continuous exercise, on the district officer's account.", "as_of": "2026-09-03", "date_precision": "day", "system": "Integrated National Registration Information System (INRIS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Digital civil registration through INRIS is described as a government exercise, begun in 2022 and implemented by the Department of National Registration, Passport and Citizenship through its district offices.", "as_of": "2026-09-03", "date_precision": "day", "system": "Integrated National Registration Information System (INRIS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "INRIS", "class": "civil", "platform": "", "owner": "Department of National Registration, Passport and Citizenship (DNRPC)", "tiers": "26 District National Registration Offices from March 2022; in use at the Lavushimanda district office (Muchinga Province) in September 2026"}
+  ],
+  "note": "The document does not say how the record is made or held; it says only that INRIS was deployed 'to ensure that all districts are connected'. INRIS is also said to give adults digital identification."
+}

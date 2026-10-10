@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-15-lesotho-iec-constituency-assessment-press-release",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electoral register",
+      "country_label": "Electoral Register",
+      "class": "land",
+      "platform": "",
+      "owner": "Independent Electoral Commission",
+      "tiers": ""
+    }
+  ],
+  "note": "Constituency visits ahead of a voter registration programme; the electoral register is out of scope and civil registration is not mentioned."
+}

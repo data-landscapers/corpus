@@ -1,0 +1,8 @@
+{
+  "slug": "2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)",
+  "facts": [],
+  "systems": [
+    {"system": "Houwiyeti", "country_label": "Houwiyeti", "class": "identity", "platform": "TECH5 face-biometric components (T5-OmniMatch, T5-AirSnap, T5-LDS, T5-IDencode); SmartMS back end and identity provider", "owner": "Ministry of Digital Transition, Innovation and Public Sector Modernisation (MTNIMA), with UNDP", "tiers": "digital identity app with selfie-based verification giving access to government e-services; pilot contract June 2022, demonstrated March 2023, concluded October 2023"}
+  ],
+  "note": "A digital identity application for logging in to e-services; nothing on registering births or deaths."
+}

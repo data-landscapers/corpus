@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-05-sierra-leone-undp-feasibility-study-voter-registration",
+  "facts": [],
+  "systems": [
+    {"system": "NCRA civil registration database", "country_label": "permanent civil register; NCRA civil registration database", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; a biometric population database from which the electoral commission extracted eligible voters aged 18 and over in 2017 and 2022, NCRA enrolling in the field those not yet in it"},
+    {"system": "Voter register extraction from the NCRA database", "country_label": "voter registration data extraction", "class": "exchange", "platform": "", "owner": "Electoral Commission for Sierra Leone (ECSL) with NCRA, under a revised MoU of 13 July 2020", "tiers": "National; done for the 2018 and 2023 elections, with application and power failures and data mismatches reported; a periodic encrypted transfer with joint field verification is recommended for 2028"},
+    {"system": "Biometric Voter Registration and Voter Verification Kits", "country_label": "BVR; Voter Verification Kits (VVK)", "class": "land", "platform": "Smartmatic technology named for 2018", "owner": "Electoral Commission for Sierra Leone (ECSL)", "tiers": "Ward-level registration centres; 2,000 laptops procured for the 2022 update, about 1,700 in poor storage"}
+  ],
+  "note": "A study of voter registration, out of scope under the typology; the civil register is described only as a biometric population database feeding the voter roll, with nothing on how births or deaths are recorded. The capture is an excerpt, truncated by its own frontmatter's account at 50,000 characters."
+}

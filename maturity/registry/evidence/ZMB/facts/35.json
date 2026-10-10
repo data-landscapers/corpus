@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-11 Zambia commences nationwide mobile campaign for issuance of 3.5M ID documents",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration Card (NRC)", "country_label": "NRC", "class": "identity", "platform": "", "owner": "Registrar General, under the Ministry of Home Affairs and Internal Security", "tiers": "issued at national registration offices"},
+    {"system": "Nationwide mobile NRC issuance campaign", "country_label": "", "class": "outreach", "platform": "", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "three-month campaign launched 10 April 2025 in Kitwe, all ten provinces, aimed at far-flung areas where national registration offices do not exist; target about 3.5 million citizens"}
+  ],
+  "note": "An identity-card enrolment campaign; the article says nothing of the registration of births or deaths."
+}

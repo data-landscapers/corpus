@@ -1,0 +1,36 @@
+{
+  "slug": "2024-01-01-e-sircev-portal",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The portal of the civil registration and vital statistics system is published under the National Directorate of Registries and Notaries of the Ministry of Justice, Constitutional and Religious Affairs; the page gives no date, so the document's published year is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "e-SIRCEV",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The portal's menu carries birth and death registration, a search of records, and statistics and maps for both births and deaths, with a login for authorised users; the page gives no date, so the document's published year is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "e-SIRCEV",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-SIRCEV",
+      "country_label": "Sistema Electrónico de Registo Civil e Estatísticas Vitais (e-SIRCEV); Sistema de Registo Civil e Estatísticas Vitais",
+      "class": "civil",
+      "platform": "",
+      "owner": "Direcção Nacional dos Registos e Notariado, Ministério da Justiça, Assuntos Constitucionais e Religiosos",
+      "tiers": "Not stated; a web portal with public statistics and a login for authorised users"
+    }
+  ],
+  "note": "A landing page of navigation only: it does not say which offices enter records or how."
+}

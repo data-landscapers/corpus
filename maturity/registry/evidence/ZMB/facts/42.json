@@ -1,0 +1,8 @@
+{
+  "slug": "2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)",
+  "facts": [],
+  "systems": [
+    {"system": "Zambia Integrated Land Administration System (ZILAS)", "country_label": "ZILAS", "class": "land", "platform": "web and mobile, reached through the Government Service Bus", "owner": "deployed by the Electronic Government Division (SMART Zambia Institute)", "tiers": "not stated"}
+  ],
+  "note": "A land administration system only; out of the study's scope and nothing on civil registration."
+}

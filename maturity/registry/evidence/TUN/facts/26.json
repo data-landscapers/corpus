@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-16-tunisie-onep-reduction-delais-numerisation-registre-foncier",
+  "facts": [],
+  "systems": [
+    {"system": "système informatique global de traitement des données du registre foncier (2ème version)", "country_label": "système informatique global de traitement des données du registre foncier", "class": "land", "platform": "", "owner": "Office national de la propriété foncière (ONEP)", "tiers": "22 regional directorates; online services since March 2022"}
+  ],
+  "note": "The land property office's register system; land is out of scope and gives no fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2020-06-01-prodigy-pgmo-plan-gestion-main-oeuvre",
+  "facts": [],
+  "systems": [
+    {"system": "saisie et numérisation des faits d'état civil existants", "country_label": "numérisation des faits d'état civil existants", "class": "archive", "platform": "", "owner": "PRODIGY, prepared by the PREA at the Presidency; World Bank financing", "tiers": "the usual civil status offices of the communes concerned; done by the current civil status secretaries assisted by about 100 temporary consultants, for as long as the keying takes (planned, June 2020)"},
+    {"system": "système de gestion de l'identité consolidé et interopérable", "country_label": "PRODIGY Composante 1", "class": "identity", "platform": "", "owner": "ministère de l'Intérieur, local governments and local courts as beneficiaries", "tiers": "national (planned)"},
+    {"system": "identifiant unique à la naissance", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "national, under the civil status law"}
+  ],
+  "note": "A labour-management plan: the only civil status work it describes is the keying and scanning of existing records in commune offices, an archive class; the modernisation of registration systems is named without saying what an office would do, so no fact."
+}

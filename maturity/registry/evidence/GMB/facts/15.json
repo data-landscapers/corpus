@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-01-barrow-national-identity-management-system",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Management System (NIMS)", "country_label": "National Identity Management System; National Identity Register", "class": "identity", "platform": "Margins ID Systems Applications Ltd", "owner": "Ministry of Interior, in a public-private partnership with Margins ID Systems Applications Ltd; control to transfer to the state", "tiers": "went live 29 June 2026; registration centres for citizens aged 18 and over"},
+    {"system": "planned integration of NIMS with civil registration, health and other government systems", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "stated by the President as future"}
+  ],
+  "note": "National identity system launch; civil registration is named only as a system NIMS will be integrated with."
+}

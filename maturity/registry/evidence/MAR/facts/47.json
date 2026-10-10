@@ -1,0 +1,8 @@
+{
+  "slug": "2020-03-26-cndp-deliberation-d-97-2020-prolongation-moratoire-reconnaissance-faciale",
+  "facts": [],
+  "systems": [
+    {"system": "CNIE2 (Carte Nationale d'Identité Electronique version 2)", "country_label": "CNIE2", "class": "identity", "platform": "", "owner": "", "tiers": "national electronic identity card, named by the CNDP as the possible basis for a national trusted-third-party authentication system"}
+  ],
+  "note": "A CNDP deliberation of 2020-03-26 extending the facial-recognition moratorium and setting out an identity-authentication doctrine; nothing on civil registration."
+}

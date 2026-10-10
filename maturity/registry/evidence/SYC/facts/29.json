@@ -1,0 +1,8 @@
+{
+  "slug": "2024-09-18-ics-transition-virtual-id-permit-holders",
+  "facts": [],
+  "systems": [
+    {"system": "SEYID", "country_label": "SEYID / virtual ID", "class": "identity", "platform": "", "owner": "Department of Immigration and Civil Status issues the National Identity Number", "tiers": "website and app; introduced 2022, virtual ID for permit holders from 17 September 2024"}
+  ],
+  "note": "The department's notice ending physical ID cards for permit holders; an identity system, and nothing on civil registration."
+}

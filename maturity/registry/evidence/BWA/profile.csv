@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BWA,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-08,BWA-001;BWA-005;BWA-017,BWA-006=owner:ministry;BWA-011=owner:ministry;BWA-012=finance:domestic;BWA-013=finance:domestic;BWA-014=owner:ministry;BWA-016=owner:ministry;BWA-018=plan:current;BWA-019=owner:ministry;BWA-020=plan:current;BWA-024=owner:ministry;BWA-025=plan:current;BWA-026=owner:ministry,
+BWA,civil,events,coverage,B;D,2024,BWA-002,BWA-022=B;D,
+BWA,civil,made,coverage,connected,2026-08,BWA-003;BWA-021,,
+BWA,civil,last12,qualifier,regressing,2026-03-06,BWA-010,BWA-015=advancing,
+BWA,civil,offices,coverage,count:13,2015-09,BWA-023,BWA-004=not-published,

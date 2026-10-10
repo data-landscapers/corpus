@@ -1,0 +1,13 @@
+{
+  "slug": "2024-12-16-unicef-mali-birth-registration-progress",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "UNICEF's representative writes on 16 December 2024 that the project for a platform consolidating civil status events has been approved, that it will serve as the first fully digital platform for them, and that the National Directorate of Civil Status has identified ten pilot areas taking in civil registration centres, health facilities and courts; he gives no count of centres and does not say the pilots have started.", "as_of": "2024-12-16", "date_precision": "day", "system": "platform that consolidates key civil status events", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The approved platform is described on 16 December 2024 as consolidating births, deaths and marriages; the op-ed speaks of it in the future tense and reports no event yet registered through it.", "as_of": "2024-12-16", "date_precision": "day", "system": "platform that consolidates key civil status events", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNICEF says it has supported the Government's efforts to digitise birth registration since 2022 and thanks Canada, Germany and Italy for their contributions; no domestic funding of the platform is mentioned.", "as_of": "2024-12-16", "date_precision": "day", "system": "platform that consolidates key civil status events", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The op-ed of 16 December 2024 presents the platform as the Government's, developed after consultation with all entities of the civil status system, with the National Directorate of Civil Status choosing the pilot areas.", "as_of": "2024-12-16", "date_precision": "day", "system": "platform that consolidates key civil status events", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "platform that consolidates key civil status events", "country_label": "", "class": "civil", "platform": "", "owner": "Government of Mali (National Directorate of Civil Status), supported by UNICEF", "tiers": "ten pilot areas identified, encompassing civil registration centres, health facilities and courts"}
+  ],
+  "note": "Dates are the op-ed's, which gives none for the approval or the choice of pilot areas beyond 'since 2022' for UNICEF's support. The 87% of children under one registered is a share of events."
+}

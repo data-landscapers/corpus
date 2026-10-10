@@ -1,0 +1,15 @@
+{
+  "slug": "2018-10-11-lesotho-unhcr-primes-digital-id-handover",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Population Registration and Identity Management Eco System (PRIMES)",
+      "country_label": "PRIMES",
+      "class": "identity",
+      "platform": "UNHCR PRIMES; laptop, printer, biometric machine and iris detector; works offline and online",
+      "owner": "Ministry of Home Affairs (Commissioner for Refugees), handed over by UNHCR on 11 October 2018",
+      "tiers": "Maseru; biometric registration of refugees and asylum seekers (over 100 refugees), replacing police fingerprinting and Excel profiling"
+    }
+  ],
+  "note": "Biometric identity registration of refugees, an identity system; nothing on the registration of births or deaths."
+}

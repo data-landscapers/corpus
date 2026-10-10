@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-24-angolanewswire-17-million-identity-cards",
+  "facts": [],
+  "systems": [
+    {"system": "civil registry database", "country_label": "civil registry database", "class": "", "platform": "", "owner": "", "tiers": "not stated; named only as the list of adult citizens the identity-card plan is to cover by December 2026"},
+    {"system": "national identity card (BI)", "country_label": "Bilhete de Identidade", "class": "identity", "platform": "", "owner": "Ministry of Justice and Human Rights; National Director of Registries and Notary Services", "tiers": "local issuance and printing in all 21 provinces, nine printing centres in Luanda; 17,166,000 cards issued at home and in the diaspora by 24 September 2026"},
+    {"system": "Identity Card Universalisation Campaign", "country_label": "Universalisation of Civil Registration and Identity Cards Programme", "class": "outreach", "platform": "", "owner": "Ministry of Justice and Human Rights; campaigns coordinated by provincial delegations", "tiers": "nationwide campaigns with mobile registration teams and mobile brigades with portable printers serving communes and isolated settlements"},
+    {"system": "biometric data collection and home delivery service", "country_label": "", "class": "identity", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "Luanda Province in its initial phase, 2026"}
+  ],
+  "note": "A report on identity-card issuance, printing capacity and the campaign's mobile teams; the civil registry database is named with no description of how its records are made, so no fact is recorded for civil registration."
+}

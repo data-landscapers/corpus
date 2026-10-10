@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-09-sudan-governance-collapse-civil-authority",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "regressing", "fact": "The Small Wars Journal article states that Khartoum's civil registry has ceased almost entirely in the war that began in April 2023, and that across vast areas of Sudan no entity can issue identity papers; it gives no date for the cessation and no office figures, so its publication date is used.", "as_of": "2026-06-09", "date_precision": "day", "system": "civil registry (Khartoum)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registry (Khartoum)", "country_label": "civil registry", "class": "civil", "platform": "", "owner": "", "tiers": "the capital's civil registry, said to have ceased almost entirely; nothing said of any digital system"},
+    {"system": "land registries", "country_label": "land registries", "class": "land", "platform": "", "owner": "", "tiers": "local offices said to have been looted or turned into barracks by both sides"}
+  ],
+  "note": "The document as held says nothing of biometric registration, White Nile State, a national number or any digital register; its only statements in the field are the two recorded."
+}

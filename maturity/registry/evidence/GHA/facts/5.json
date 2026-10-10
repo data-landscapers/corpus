@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-17-ghana-card-to-become-e-wallet-for-electronic-transactions-soon-nia-boss",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "national; registration of children aged 6 to 14 under way; registration at hospitals giving newborns an identity number in preparation"},
+    {"system": "NIA verification platform", "country_label": "", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "institutions connecting to it; more than 100 had applied to be onboarded"}
+  ],
+  "note": "Identity card, its verification platform and a planned e-wallet; the hospital registration being prepared issues an identity number from the NIA, not a civil registration record."
+}

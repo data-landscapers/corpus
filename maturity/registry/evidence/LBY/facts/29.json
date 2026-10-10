@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-03-intilaqa-mutabaqat-bayanat-257-maktab-ahwal-madaniyya",
+  "facts": [],
+  "systems": [
+    {"system": "Intilaqa project", "country_label": "مشروع الانطلاقة", "class": "archive", "platform": "", "owner": "Civil Status Authority (مصلحة الأحوال المدنية), with prosecutors of the Attorney General's office", "tiers": "257 civil status offices across Libya had finished matching and optical scanning by 3 September 2024, covering 1.8 million families, 97% of Libyan families on the government's figure; the paper registers are held in the Authority's branches in the municipalities"},
+    {"system": "Civil status electronic database", "country_label": "قاعدة البيانات / البيانات الإلكترونية", "class": "", "platform": "", "owner": "Civil Status Authority (مصلحة الأحوال المدنية)", "tiers": "not stated; to be updated from the project once entry, matching, compilation, checking and correction are complete"}
+  ],
+  "note": "Intilaqa matches electronic data against the paper registers and scans them, a one-off exercise on registers already written; the article does not say how a new birth or death is entered at an office, so the sub-indicator takes no fact."
+}

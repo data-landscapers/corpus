@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-rwanda-electronic-land-registration-certificate-system",
+  "facts": [],
+  "systems": [
+    {"system": "e-Title", "country_label": "e-Title", "class": "land", "platform": "", "owner": "National Land Authority", "tiers": "national; titles downloaded from the land portal, transactions through Irembo"}
+  ],
+  "note": "Land titling only; nothing on civil registration."
+}

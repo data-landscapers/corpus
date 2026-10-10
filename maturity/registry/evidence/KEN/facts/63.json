@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-29-court-id-issuance-40k-persecuted-kenyans-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Refugee database", "country_label": "refugees database", "class": "identity", "platform": "", "owner": "Government of Kenya", "tiers": "holds fingerprint biometrics; more than 40,000 Kenyans near Dadaab and Kakuma also registered in it"},
+    {"system": "National ID database", "country_label": "national database", "class": "identity", "platform": "", "owner": "Government of Kenya", "tiers": ""}
+  ],
+  "note": "A court judgment on Kenyans double-registered as refugees and denied identity cards; nothing on civil registration."
+}

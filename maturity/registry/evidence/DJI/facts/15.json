@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-01-unescwa-digitizing-civil-registration-vital-statistics-arab-region",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The file's ingest note, summarising the ESCWA report's Djibouti findings from its 2025 survey (the passage itself is not in the captured excerpt), states that local civil registration offices hold no electronic records of births or deaths and that transmission between registration levels and institutions is fully on paper.", "as_of": "2025", "date_precision": "year", "system": "local civil-registration offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The file's ingest note, summarising the ESCWA report's Djibouti findings from its 2025 survey (not in the captured excerpt), states that there are no electronic records in local civil registration offices for births or deaths, and no central national civil registration database, only fragmented or pilot-based systems.", "as_of": "2025", "date_precision": "year", "system": "local civil-registration offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The file's ingest note, summarising the ESCWA report's Djibouti findings from its 2025 survey (not in the captured excerpt), states that local civil registration offices have no electronic records for births or deaths; it gives no count of offices.", "as_of": "2025", "date_precision": "year", "system": "local civil-registration offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "local civil-registration offices", "country_label": "", "class": "civil", "platform": "paper", "owner": "", "tiers": "local civil registration offices: no electronic records for births or deaths; marital-status registration on paper"},
+    {"system": "open-source CRVS software", "country_label": "", "class": "", "platform": "open-source CRVS software, not named", "owner": "", "tiers": "central: nationwide electronic coverage reported for some birth and death processes centrally, with no central national database"}
+  ],
+  "note": "The captured body is the report's regional front matter only and states nothing on Djibouti; all three facts rest on the file's frontmatter note, which reports the Djibouti findings as drawn from the report but not captured verbatim. The parent should weigh them accordingly."
+}

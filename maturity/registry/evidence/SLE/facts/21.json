@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-19-mosip-brownfield-sierra-leone-migration",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP identity platform migration", "country_label": "MOSIP", "class": "identity", "platform": "MOSIP", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; migration of enrolled identity records under way since a pilot completed in early 2024 (stated February 2026)"}
+  ],
+  "note": "Migration of the identity register to a new platform; nothing on how births or deaths are registered."
+}

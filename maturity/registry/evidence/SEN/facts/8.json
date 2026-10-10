@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-sen-pressafrik-cdp-daf-interoperabilite-etat-civil-identification",
+  "facts": [],
+  "systems": [
+    {"system": "interopérabilité entre l'état civil et les systèmes d'identification des services publics", "country_label": "interopérabilité état civil - identification", "class": "exchange", "platform": "", "owner": "Commission de protection des données personnelles (CDP) with the Direction de l'automatisation des fichiers (DAF)", "tiers": "central administration; two options submitted to the authorities for arbitration on 16 September 2026, none in service"}
+  ],
+  "note": "Only the planned link between civil status and identification systems, which is exchange; nothing on how a civil-status office records an event."
+}

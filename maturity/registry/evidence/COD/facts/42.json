@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-04 DR Congo cancels $1.2B IDEMIA-Afritech biometric ID contract",
+  "facts": [],
+  "systems": [
+    {"system": "national biometric ID system (cancelled contract)", "country_label": "", "class": "identity", "platform": "", "owner": "ONIP; to have been delivered by IDEMIA with the intermediary Afritech, under a US$1.2 billion contract called off on 12 August 2024", "tiers": "none: cancelled before delivery"},
+    {"system": "DRCPass", "country_label": "DRCPass", "class": "identity", "platform": "", "owner": "Trident", "tiers": "not stated"}
+  ],
+  "note": "The item is about the cancellation of the national biometric identity contract; it states nothing about civil registration."
+}

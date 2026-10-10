@@ -1,0 +1,14 @@
+{
+  "slug": "2024-03-14-ghana-card-number-at-birth-system-launch",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "At the launch of the Ghana Card Number at Birth System on 14 March 2024, the news agency reported that a birth captured at a health facility is notified electronically to the Births and Deaths Registry's system, which issues a birth registration number and returns it to the facility's system; deaths are not mentioned.", "as_of": "2024-03-14", "date_precision": "day", "system": "Births and Deaths Registry system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Births and Deaths Registry system", "country_label": "Births and Deaths Registry", "class": "civil", "platform": "", "owner": "Births and Deaths Registry", "tiers": "receives electronic birth notifications from health facilities and issues a birth registration number; the Registry's own offices are not described"},
+    {"system": "Ghana Card Number at Birth System", "country_label": "Ghana Card Number at Birth", "class": "exchange", "platform": "", "owner": "Ministry of Health, Ghana Health Service, Births and Deaths Registry and National Identification Authority, their systems integrated", "tiers": "health facilities, for children from birth to six years; launched 14 March 2024 at Ga North Municipal Hospital, Accra"},
+    {"system": "DHIS e-tracker", "country_label": "e-tracker", "class": "notification", "platform": "DHIS e-tracker", "owner": "Ghana Health Service", "tiers": "community health posts and health centres; deployed in 338 health facilities, which capture the newborn's details and notify the Registry's system"},
+    {"system": "Lightwave", "country_label": "Lightwave", "class": "notification", "platform": "Lightwave", "owner": "Ministry of Health / Ghana Health Service", "tiers": "hospitals; captures the newborn's details and notifies the Registry's system"},
+    {"system": "National Identification Register", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "national; 17.8 million registered (March 2024)"}
+  ],
+  "note": "A launch-day description. The digital birth record is made in the Registry's central system on a health facility's notification, not at a registry office, so no value of 'made' or 'offices' is recorded; the 338 facilities are health facilities with e-tracker, not registration offices. Identity integrated: the system issues an identity number with the birth registration number."
+}

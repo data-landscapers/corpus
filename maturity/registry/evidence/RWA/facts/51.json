@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-09-irembo-scaling-adoption-civil-status-services",
+  "facts": [],
+  "systems": [
+    {"system": "IremboGov", "country_label": "IremboGov", "class": "certificate", "platform": "web portal, USSD app, IremboApp", "owner": "Irembo, with MINALOC", "tiers": "national; citizens request and pay for birth, single-status and marriage certificates online or through agents covering all sectors; 683,560 such certificates in 2020 and 1,977,628 in 2024"}
+  ],
+  "note": "Describes only the requesting and issuing of civil status certificates through a portal, which is certificate class and gives no fact; nothing on how the event itself is registered."
+}

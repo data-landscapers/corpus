@@ -1,0 +1,104 @@
+{
+  "slug": "2023-08-10-sierra-leone-ncra-6th-africa-crvs-day-crvs-id-integration",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "NCRA states that since the launch of its electronic registration and securitised certificate system over 200,000 citizens and residents have had births, adoptions, marriages, divorces and deaths registered and linked digitally to its identity management system; no denominator is given.",
+      "as_of": "2023-08-10",
+      "date_precision": "day",
+      "system": "Electronic Registration and issuance of Securitized Certificate system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The CRVS and ID management system is described as managed by the NCRA, the authority created by the 2016 law that consolidated registration of vital events and identity management in one entity; a live birth registration on it was demonstrated at 34 Military Hospital, Freetown.",
+      "as_of": "2023-08-10",
+      "date_precision": "day",
+      "system": "CRVS and ID management system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "NCRA's Director General says the modern integrated CRVS system was developed with European Union support through UNOPS, and thanks UNDP, UNICEF, UNFPA, the EU and Irish Aid for supporting the integration and digitisation; no domestic funding is stated.",
+      "as_of": "2023-08-10",
+      "date_precision": "day",
+      "system": "integrated CRVS System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "UNICEF's representative says its support covered the development, piloting and scale-up of a mobile application for the notification and registration of births, and training of over 4,000 births and deaths registrars, community health workers and health workers; no count of sites is given.",
+      "as_of": "2023-08-10",
+      "date_precision": "day",
+      "system": "digital application using mobile technology for the notification and registration of Births",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Electronic Registration and issuance of Securitized Certificate system",
+      "country_label": "Electronic Registration and issuance of Securitized Certificate system",
+      "class": "civil",
+      "platform": "",
+      "owner": "NCRA",
+      "tiers": "not stated"
+    },
+    {
+      "system": "integrated CRVS System",
+      "country_label": "modern integrated CRVS System; CRVS and ID management system",
+      "class": "civil",
+      "platform": "",
+      "owner": "NCRA; developed with EU support through UNOPS",
+      "tiers": "registration services; demonstrated at 34 Military Hospital, Freetown"
+    },
+    {
+      "system": "digital application using mobile technology for the notification and registration of Births",
+      "country_label": "",
+      "class": "civil",
+      "platform": "",
+      "owner": "NCRA with UNICEF support",
+      "tiers": "not stated; said to be piloted and scaled up. The document says it both notifies and registers births"
+    },
+    {
+      "system": "ID Management system of the NCRA",
+      "country_label": "ID Management system; National Identification Number (NIN)",
+      "class": "identity",
+      "platform": "",
+      "owner": "NCRA",
+      "tiers": "national"
+    },
+    {
+      "system": "link of registered vital events to the ID Management system",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "NCRA",
+      "tiers": "over 200,000 people's events linked digitally; NIN required for a list of public and private services since March 2022"
+    },
+    {
+      "system": "Voter Register",
+      "country_label": "Voter Register",
+      "class": "land",
+      "platform": "",
+      "owner": "",
+      "tiers": "extracted and updated from the Civil Register since 2018"
+    },
+    {
+      "system": "vital statistics data collection",
+      "country_label": "Directorate of Vital Statistics",
+      "class": "",
+      "platform": "",
+      "owner": "NCRA",
+      "tiers": "data collected from health facilities, NCRA offices and other designated outlets and collated without an automated system"
+    }
+  ],
+  "note": ""
+}

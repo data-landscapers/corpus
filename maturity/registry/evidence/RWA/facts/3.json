@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-xss-world-bank-africa-economic-update-october-2026-ai-readiness",
+  "facts": [],
+  "systems": [
+    {"system": "digitized birth registration", "country_label": "digitized birth registration", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "integration of digitized birth registration with another system", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "the passage breaks off before naming what birth registration is integrated with"}
+  ],
+  "note": "Passages only: one clause says Rwanda has integrated digitized birth registration with another system, cut off before its object; it does not say where or how the birth record is made, and gives no date."
+}

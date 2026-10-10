@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-01-gltn-morocco-land-sector-snapshot",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ANCFCC land registry and cadastre",
+      "country_label": "Agence Nationale de la Conservation Foncière, du Cadastre et de la Cartographie (ANCFCC)",
+      "class": "land",
+      "platform": "",
+      "owner": "ANCFCC",
+      "tiers": "about 30 per cent of land registered in the formal system, mostly urban; as of 2017 most urban title or deed records digitised, most plot maps still on paper"
+    }
+  ],
+  "note": "No fact: a land-sector profile (class land, out of scope). Civil registration is not mentioned; it gives 1,503 rural communities and municipalities at the local level of government."
+}

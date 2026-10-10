@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-13-tun-lapresse-khadamet-50000-utilisateurs-dix-jours",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Khadamet",
+      "country_label": "application nationale des services administratifs numériques « Khadamet »",
+      "class": "certificate",
+      "platform": "mobile application, accessed with the citizen's digital identity",
+      "owner": "Ministère des Technologies de la communication (Direction Générale des Technologies de l'Information)",
+      "tiers": "national, citizen-facing; 50,000 users in the ten days after launch, civil status among the service areas used"
+    }
+  ],
+  "note": "A citizen-facing services app: civil status is named only as one of the service areas citizens have used, with nothing on how a registry office records a birth or death."
+}

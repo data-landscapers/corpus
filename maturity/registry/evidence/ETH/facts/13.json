@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-27-ethio-telecom-32m-fayda-enrolments-dpi-role",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda digital ID", "class": "identity", "platform": "", "owner": "National ID Program (NIDP); enrolment partner Ethio Telecom since 2024", "tiers": "national; Ethio Telecom has more than 3,340 active registration kits in service centres, franchise outlets and mobile registration teams, reaching about 98 per cent of administrative zones"}
+  ],
+  "note": "Identity enrolment only; the 'mobile registration' teams are Fayda enrolment teams, not civil registration."
+}

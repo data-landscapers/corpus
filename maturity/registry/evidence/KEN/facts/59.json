@@ -1,0 +1,11 @@
+{
+  "slug": "2025-04-01-integration-without-identification",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Population Registration System (IPRS)", "country_label": "Integrated Population Registration System (IPRS)", "class": "identity", "platform": "", "owner": "Government of Kenya", "tiers": "national; development began in 2009; combines data from birth and civil registration, alien and refugee registration and the national population register"},
+    {"system": "Automated Fingerprint Identification System (AFIS)", "country_label": "Automated Fingerprint Identification System (AFIS)", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national; holds the ink fingerprint registry scanned and digitised from the early 2000s"},
+    {"system": "eCitizen", "country_label": "eCitizen", "class": "certificate", "platform": "", "owner": "Government of Kenya", "tiers": "online portal for applying for, renewing and paying for IDs and government services; also in person at Huduma Centres"},
+    {"system": "Birth registration in refugee camps by UNHCR and implementing partners", "country_label": "", "class": "", "platform": "", "owner": "UNHCR and its implementing partners", "tiers": "refugee camps"}
+  ],
+  "note": "A study of refugees' identification: calls the civil registration system relatively robust and says camp births are largely registered by UNHCR and partners, but does not say how any office makes the record."
+}

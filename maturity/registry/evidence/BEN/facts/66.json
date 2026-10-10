@@ -1,0 +1,9 @@
+{
+  "slug": "2020-01-01-smart-africa-blueprint-digital-identity",
+  "facts": [],
+  "systems": [
+    {"system": "personal identification number authentication on the e-services platform", "country_label": "Numéro personnel d'identification (NPI); portail national du service public", "class": "identity", "platform": "", "owner": "Government of Benin", "tiers": "Platform giving access to more than 300 e-services, launched March 2020"},
+    {"system": "WURI foundational identification system", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "Benin joined the programme's second phase on 28 April 2020"}
+  ],
+  "note": "The passages naming Benin concern its lead on the Smart Africa digital identity blueprint, authentication by personal identification number and the WURI programme; nothing on civil registration offices in Benin."
+}

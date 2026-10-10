@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-fayda-for-ethiopia",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda (Fayda Number, FIN)", "class": "identity", "platform": "", "owner": "National ID Program (NIDP), established under Proclamation 1284/2023", "tiers": "national; registration at different locations and a mobile app"}
+  ],
+  "note": "The identity programme's own homepage; it describes Fayda enrolment and data collected and states nothing about civil registration."
+}

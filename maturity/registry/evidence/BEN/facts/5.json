@@ -1,0 +1,18 @@
+{
+  "slug": "2026-09-19-ben-lanouvelletribune-acte-naissance-gratuit-moins-14-ans",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "On UNICEF's account, six months after the August 2025 launch more than 13,000 children had been registered of 17,071 births declared in the ten public health facilities running the Guichet unique, the rate rising from about 22% to over 76%.", "as_of": "2026-02", "date_precision": "month", "system": "Guichet unique", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "On UNICEF's account, the Guichet unique was launched as a pilot in August 2025 at the CHU de la mère et de l'enfant de la Lagune in Cotonou, then tried in ten public health facilities.", "as_of": "2025-08", "date_precision": "month", "system": "Guichet unique", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "ANIP, the national identification agency, runs the Guichet unique reform of birth registration in health facilities and plans to extend it to births outside health facilities; no date is given, so the document's date is used.", "as_of": "2026-09-19", "date_precision": "day", "system": "Guichet unique", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Within six months of its August 2025 launch the Guichet unique had lifted registration of declared births in its ten facilities from about 22% to over 76% (UNICEF), and ANIP states it is continuing the rollout.", "as_of": "2026-02", "date_precision": "month", "system": "Guichet unique", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Guichet unique", "country_label": "Guichets uniques installés dans les formations sanitaires", "class": "civil", "platform": "", "owner": "ANIP", "tiers": "ten public health facilities in the pilot, starting at CHU-MEL Cotonou; brings together birth declaration, registration and the attribution of the NPI"},
+    {"system": "ANIP BJ application", "country_label": "application mobile ANIP BJ", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "retrieve the NPI and download the birth act"},
+    {"system": "ANIP services portal", "country_label": "portail de services de l'agence", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "retrieve the NPI and download the birth act"},
+    {"system": "*151# USSD code", "country_label": "*151#", "class": "certificate", "platform": "USSD", "owner": "ANIP", "tiers": "returns the NPI by SMS for people without internet, who then go to a deconcentrated ANIP unit"},
+    {"system": "RAVIP", "country_label": "RAVIP", "class": "identity", "platform": "", "owner": "", "tiers": "children enrolled under it who never collected their act are eligible"},
+    {"system": "Free birth-act campaign for under-14s, 16-30 September 2026", "country_label": "Journée de l'Identité 2026, opération exceptionnelle", "class": "outreach", "platform": "", "owner": "ANIP, with UNICEF support", "tiers": "national; decree 2025-679 also allows registration of under-14s on the prosecutor's requisition and on testimony"}
+  ],
+  "note": ""
+}

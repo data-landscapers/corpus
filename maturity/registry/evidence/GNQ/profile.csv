@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GNQ,civil,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2024,GNQ-008;GNQ-009;GNQ-010,GNQ-011=owner:ministry;GNQ-015=owner:ministry,
+GNQ,civil,events,coverage,B;D,2024,GNQ-007,GNQ-012=B;GNQ-014=none,
+GNQ,civil,made,coverage,paper,2024,GNQ-005;GNQ-013,,
+GNQ,civil,last12,qualifier,,,,,nothing held
+GNQ,civil,offices,coverage,pilot,2018,GNQ-004;GNQ-006,,nothing dated since 2023-10-10

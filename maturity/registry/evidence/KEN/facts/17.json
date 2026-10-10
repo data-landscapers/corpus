@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-kemis-learner-validation-guidance",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS Unique Learner Identifier link to national identity and civil registration records", "country_label": "KEMIS; ULI", "class": "exchange", "platform": "", "owner": "Ministry of Education, KEMIS Secretariat", "tiers": "schools enter parent or guardian identification so that the learner identifier can be created and integrated with national identity and civil registration records"}
+  ],
+  "note": "An education ministry circular; civil registration records appear only as something the learner identifier is to integrate with."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2001-07-03-loi-014-2001-code-electoral-modifie",
+  "facts": [],
+  "systems": [
+    {"system": "fichier électoral national (biometric electoral lists)", "country_label": "fichier électoral national", "class": "land", "platform": "", "owner": "Commission électorale nationale indépendante (CENI)", "tiers": "lists by village, sector, arrondissement, commune and province, and by embassy or consulate"}
+  ],
+  "note": "The electoral code (excerpt, truncated after article 54): a birth certificate or jugement supplétif is one of the documents a voter may produce to prove identity. The electoral register is out of scope under the typology; nothing on civil registration offices."
+}

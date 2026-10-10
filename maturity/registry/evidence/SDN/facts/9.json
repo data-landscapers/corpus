@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-07-sudan-invisible-children-bbc",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "regressing", "fact": "A Sudanese lawyer, Majida Idris, tells the BBC that the conflict in Darfur has shut down civil registry offices and left thousands of children unregistered, without birth certificate or national number; no office count is given and the document gives no date for the closures, so its publication date is used.", "as_of": "2026-08-07", "date_precision": "day", "system": "civil registry offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registry offices", "country_label": "civil registry", "class": "civil", "platform": "", "owner": "", "tiers": "local civil registry offices, where a child is registered after referral from social services; those in Darfur reported shut down; nothing said of any digital system"},
+    {"system": "hospital birth notification", "country_label": "birth notification", "class": "notification", "platform": "", "owner": "hospital (one named is run by the International Medical Corps)", "tiers": "issued by the hospital where the child is born, ahead of registration; no digital tool described"}
+  ],
+  "note": ""
+}

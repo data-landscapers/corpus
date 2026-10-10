@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform",
+  "facts": [],
+  "systems": [
+    {"system": "national digital ID", "country_label": "digital ID", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage; Registrar-General", "tiers": "issuance programmed to begin in Harare and Bulawayo before the rest of the country; not started as at 15 July 2025"},
+    {"system": "upgraded national population registry", "country_label": "national population registry", "class": "identity", "platform": "", "owner": "", "tiers": "upgrade begun around 2023, linked to other services"},
+    {"system": "mobile registration campaigns", "country_label": "mobile registration", "class": "outreach", "platform": "", "owner": "government, with UNICEF and the Swedish Embassy", "tiers": "several remote areas"}
+  ],
+  "note": "A report on a digital ID issuance announced for July 2025 and not yet started: identity enrolment and mobile campaigns; it says a reform of the civil registry was concluded without saying what the reform did to how births or deaths are recorded."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-sudan-sudapass-privacy-policy",
+  "facts": [],
+  "systems": [
+    {"system": "SUDAPASS", "country_label": "SUDAPASS", "class": "identity", "platform": "", "owner": "National Authority for Digital Certification (NADC)", "tiers": "digital identity application verified against the electronic passport chip photograph and a selfie; data held in government data centres in Sudan"}
+  ],
+  "note": "The privacy policy of the digital identity application; nothing on civil registration."
+}

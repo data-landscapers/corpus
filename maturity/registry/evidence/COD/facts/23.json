@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-25-undp-cod-crvs-strategic-innovation-consultant",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNDP's DR Congo office funded and tendered a national consultant (reference IC/CRVS/2604/05, deadline 25 April 2026) to assess the current state of CRVS digitalisation and support the design of digital tools, mobile registration among them, in coordination with the Ministry of Interior and the civil status authorities; no domestic financing is mentioned.", "as_of": "2026-04-25", "date_precision": "day", "system": "CRVS digital tools (mobile registration, integration with health and education data, analytics)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "A UNDP tender closing on 25 April 2026 sought a consultant to run a rapid assessment of CRVS digitalisation in DR Congo and support the design of digital registration tools: the tools are at design stage, and the notice names none in use.", "as_of": "2026-04-25", "date_precision": "day", "system": "CRVS digital tools (mobile registration, integration with health and education data, analytics)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CRVS digital tools (mobile registration, integration with health and education data, analytics)", "country_label": "CRVS reform agenda", "class": "civil", "platform": "", "owner": "UNDP CRVS programming, with the Ministry of Interior and civil status authorities as national partners", "tiers": "none in use: to be designed after a rapid assessment"}
+  ],
+  "note": ""
+}

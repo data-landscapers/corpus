@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-30-jo-2025-44-ratification-financement-projet-acceleration-transformation-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Modernisation of the civil registry (PATN, World Bank-financed part)", "country_label": "Modernisation du registre de l'état civil (CE)", "class": "", "platform": "", "owner": "Projet d'accélération de la transformation numérique (PATN); this part financed by the World Bank", "tiers": "not stated; listed with putting in place the prerequisites for an inclusive digital identification framework and system"},
+    {"system": "Shared platforms and eGov portal for G2C/G2B services", "country_label": "plates-formes partagées ... portail eGov accessible à tous", "class": "certificate", "platform": "", "owner": "PATN; this part financed by the World Bank", "tiers": "national, planned; obtaining civil status documents and criminal records given as examples of the services"},
+    {"system": "Interoperability framework and exchange platform", "country_label": "cadre d'interopérabilité ; plateforme d'échange", "class": "exchange", "platform": "", "owner": "PATN; components 9 and 10, financed by the EU grant and the EIB loan", "tiers": "national, planned"}
+  ],
+  "note": "The EIB financing contract and grant agreement for PATN, ratified on 16 October 2025, list the project's components; total project cost 136.4476 million euros. Civil registry modernisation is named as a World Bank-financed line without saying what it does, so it is unclassified and gives no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Zimbabwe Population Registration System (ZPRS)", "country_label": "Zimbabwe Population Registration System (ZPRS)", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global identity-coverage dataset: for Zimbabwe it names the foundational ID system, codes no digital ID, and gives adult ID ownership of 91% (2024 Findex fieldwork); nothing on how a local office registers a birth or death."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2023-03-01-dnic-civil-identification-system",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The civil identification directorate (DNIC) states in March 2023 that Law 6/2022 accepts, for an identity card application, a birth certificate generated in the electronic civil registration system, and that reusing eSIRCEV birth registration data for card issuance was still a challenge to be made operational; deaths are not mentioned.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "eSIRCEV",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "eSIRCEV",
+      "country_label": "eSIRCEV; sistema electrónico de registo civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated; holds birth registration data and generates birth certificates"
+    },
+    {
+      "system": "SICEBI",
+      "country_label": "Sistema de Identificação Civil (SICEBI); Sistema Electrónico de Identificação Civil",
+      "class": "identity",
+      "platform": "",
+      "owner": "Direcção Nacional de Identificação Civil, Ministério do Interior",
+      "tiers": "208 service posts in all provinces and districts and some administrative posts and localities, 14 diplomatic and consular missions, mobile brigades, and a national production centre in Maputo; data network linking all posts"
+    },
+    {
+      "system": "SICEBI and eSIRCEV interoperability",
+      "country_label": "interoperabilidade entre o SICEBI e o eSIRCEV",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Direcção Nacional de Identificação Civil",
+      "tiers": "Not operational in March 2023; listed as a challenge"
+    }
+  ],
+  "note": ""
+}

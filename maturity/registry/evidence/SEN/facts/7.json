@@ -1,0 +1,16 @@
+{
+  "slug": "2026-09-17-etat-civil-77-des-centres-couverts-par-le-processus-de-modernisation-dg-anec-a",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:77%", "fact": "ANEC's director general Matar Ndao said on 16 September 2026 that the modernisation process stood at 77% of the country's 629 civil-status centres, a share covered by the process and not stated as a share registering digitally.", "as_of": "2026-09-16", "date_precision": "day", "system": "logiciel de gestion des faits d'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "ANEC's director general said on 16 September 2026 that health services can register births directly from maternities in ANEC's system; deaths are not mentioned as registered digitally.", "as_of": "2026-09-16", "date_precision": "day", "system": "logiciel de gestion des faits d'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Agence nationale de l'état civil (ANEC) deploys the system, and its director general said on 16 September 2026 that civil-status data are hosted in Senegal in a state-owned datacenter on three sites.", "as_of": "2026-09-16", "date_precision": "day", "system": "logiciel de gestion des faits d'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "As of 16 September 2026 deployment was effective in the Dakar, Thiès, Louga, Diourbel, Fatick and Kaolack regions, with ANEC planning to extend it to Tambacounda the following month and to the southern regions in the last quarter of 2026.", "as_of": "2026-09-16", "date_precision": "day", "system": "logiciel de gestion des faits d'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "logiciel de gestion des faits d'état civil", "country_label": "logiciel de gestion des faits d'état civil", "class": "civil", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "civil-status centres; deployment effective in Dakar, Thiès, Louga, Diourbel, Fatick and Kaolack regions; maternities can register births directly in it"},
+    {"system": "Sama État civil", "country_label": "Sama État civil", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "online requests for documents, collected at the civil-status centre (in use at Pire)"},
+    {"system": "interconnexion état civil - santé, éducation, DAF", "country_label": "interconnexion", "class": "exchange", "platform": "", "owner": "ANEC", "tiers": "with health, education and the Direction de l'automatisation des fichiers"},
+    {"system": "datacenter de l'État", "country_label": "datacenter", "class": "enabling", "platform": "", "owner": "State of Senegal", "tiers": "three sites inside the country hosting civil-status data"}
+  ],
+  "note": ""
+}

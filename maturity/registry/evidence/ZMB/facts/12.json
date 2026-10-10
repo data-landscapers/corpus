@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices in Zambia primarily use paper-based systems for birth registration, paper remaining the default and digital limited to pilots and outreach rather than standard at the point of service; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "INRIS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:40", "fact": "The essay's country table states that the national INRIS platform, launched about 2022, has been scaled to more than 40 districts, with no total and no statement that those districts register digitally; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "INRIS", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "INRIS", "country_label": "INRIS", "class": "civil", "platform": "", "owner": "", "tiers": "national platform, launched about 2022, scaled to 40+ districts"},
+    {"system": "Mobile registration units with digital tools", "country_label": "mobile registration units", "class": "outreach", "platform": "", "owner": "supported by UNICEF and World Vision", "tiers": "remote areas"}
+  ],
+  "note": "The document's own header marks its country rows as an AI-assisted compilation, not sourced fact, and study.json lists it under exclude_sources. INRIS is named among 'digital efforts' in birth registration without a description of what it does; it is classed civil on that context only. Also stated: 9% of rural births registered (2007 ZDHS), under 15% overall as of 2024 (UNICEF); certification decentralised to districts by SI 44/2016; CRVS Policy 2022 plans full digitisation and integration with health systems."
+}

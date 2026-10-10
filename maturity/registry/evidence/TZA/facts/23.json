@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-01-digitalizing-social-protection-tanzania-leyaro",
+  "facts": [],
+  "systems": [
+    {"system": "Workers Compensation Fund integration with RITA", "country_label": "WCF system integrated with seven government systems, RITA and NIDA among them", "class": "exchange", "platform": "PostgreSQL, Laravel PHP and Java (the WCF system)", "owner": "Workers Compensation Fund", "tiers": "national"},
+    {"system": "NIDA digital ID", "country_label": "NIDA (digital ID), integrated with NSSF, WCF and TASAF's Unified Registry of Beneficiaries", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": "national"}
+  ],
+  "note": "A slide deck on social protection systems; it mentions birth and death registration only as a sector where e-government has enhanced service delivery, and RITA only as a system the WCF integrates with."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-29-sen-senegaldirect-cartes-identite-prorogation-exceptionnelle",
+  "facts": [],
+  "systems": [
+    {"system": "carte nationale d'identité biométrique CEDEAO", "country_label": "carte nationale d'identité biométrique CEDEAO", "class": "identity", "platform": "", "owner": "Direction de l'automatisation des fichiers (DAF), ministère de l'Intérieur et de la Sécurité publique; cards produced by the Malaysian operator Iris under contract since 2016", "tiers": ""},
+    {"system": "data center national", "country_label": "data center", "class": "enabling", "platform": "", "owner": "Government of Senegal (envisaged)", "tiers": "national; envisaged"}
+  ],
+  "note": "Identity-card validity extension and card production; on civil status the minister says only that its data must be made reliable before its complete digitisation and that fraud exists, which names no system and no office."
+}

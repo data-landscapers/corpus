@@ -1,0 +1,10 @@
+{
+  "slug": "2024-02-12-senum-ams-informatisation-des-mairies",
+  "facts": [],
+  "systems": [
+    {"system": "Numérisation de l'Etat-Civil (collaboration ANEC–Sénégal Numérique)", "country_label": "numérisation de l'Etat-Civil", "class": "", "platform": "", "owner": "ANEC with Sénégal Numérique SA", "tiers": "not stated"},
+    {"system": "Logiciel de gestion des Mairies", "country_label": "logiciel existant de gestion des Mairies", "class": "", "platform": "", "owner": "communes; to be upgraded by Sénégal Numérique SA under the convention of 9 February 2024 with the Association des Maires du Sénégal (557 mayors)", "tiers": "town halls; no count given"},
+    {"system": "Hébergement des données des communes au Datacenter National de Diamniadio", "country_label": "Datacenter National de Diamniadio", "class": "enabling", "platform": "", "owner": "Sénégal Numérique SA", "tiers": "communes, as a service committed under the convention"}
+  ],
+  "note": "No fact: the convention of 9 February 2024 commits Sénégal Numérique to mail-management, domain, hosting and tax-collection services for town halls; civil-status digitisation is named in one closing sentence, with a separate ANEC collaboration, and nothing says what any system does at a registration office."
+}

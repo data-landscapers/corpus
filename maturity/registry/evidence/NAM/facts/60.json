@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-faq-electoral-commission-of-namibia",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric voter registration system", "country_label": "Voter Registration Kit (VRK); mobile voter registration kit (MVRK); voters roll", "class": "land", "platform": "developed by the Electoral Commission of Namibia", "owner": "Electoral Commission of Namibia", "tiers": "registration points, uploading to a central server"}
+  ],
+  "note": "The electoral register only, which the typology puts out of scope; a birth certificate is named as a supporting document and nothing is said of civil registration."
+}

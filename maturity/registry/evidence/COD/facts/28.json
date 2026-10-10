@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-19-ceni-transmet-fichier-electoral-onip-actualite",
+  "facts": [],
+  "systems": [
+    {"system": "fichier général de la population", "country_label": "fichier général de la population; registre national d'identification de la population; carte d'identité nationale", "class": "identity", "platform": "seeded with the electoral commission's 2022 voter file, handed over on 19 February 2026; the commission's enrolment kits are to be transferred too", "owner": "Office national de l'identification de la population (ONIP), under the ministry of Interior, Security, Decentralisation and Customary Affairs", "tiers": "not operational: data collection is being prepared, and no national identity card has been issued since 1984"},
+    {"system": "fichier électoral", "country_label": "fichier électoral (CENI, 2022)", "class": "land", "platform": "", "owner": "Commission électorale nationale indépendante (CENI)", "tiers": "national voter file compiled in 2022 and used for the December 2023 elections"}
+  ],
+  "note": "The handover of the voter file to ONIP to seed the population file. The article calls the pooling a lever for modernising civil registration, and says no more about civil registration than that."
+}

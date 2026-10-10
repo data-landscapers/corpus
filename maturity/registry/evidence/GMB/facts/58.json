@@ -1,0 +1,10 @@
+{
+  "slug": "2019-01-01-worldbank-building-the-gambias-social-registry-framework-roadmap",
+  "facts": [],
+  "systems": [
+    {"system": "CVRS Database", "country_label": "CVRS Database (civil registration and vital statistics)", "class": "", "platform": "", "owner": "Ministry of Health and Social Welfare, which the document says registers births and deaths", "tiers": ""},
+    {"system": "National Identification Database", "country_label": "national ID", "class": "identity", "platform": "", "owner": "Department of Immigration, Ministry of Interior", "tiers": ""},
+    {"system": "CVRS Database to Social Registry (GAMNSR) data exchange", "country_label": "", "class": "exchange", "platform": "", "owner": "Social Protection Secretariat with the Ministry of Health and Social Welfare", "tiers": "national; proposed, not built"}
+  ],
+  "note": "A design roadmap for the social registry. It names a CVRS Database as a potential source of births and deaths 'when available', a 'planned' CRVS data collection exercise and a national ID enrolment 'yet to commence', all prospective and undated (missions November 2017 to May 2018); it says nothing of how or where a birth or death is recorded, so the CVRS Database is unclassified and gives no fact."
+}

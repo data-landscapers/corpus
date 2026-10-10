@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-29-interoperability-platform-uxp-x-road-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "Public Administration Interoperability Platform", "country_label": "Public Administration Interoperability Platform", "class": "exchange", "platform": "UXP (Cybernetica), inspired by X-Road", "owner": "Ministry of Digital Transition and Digitalization; implemented by SNDI", "tiers": "first phase of twelve pilot institutions including the National Office of Civil Status, launched 25 September 2025"}
+  ],
+  "note": "A government data-exchange platform with the civil status office among twelve pilot institutions; nothing on how civil registration offices record events."
+}

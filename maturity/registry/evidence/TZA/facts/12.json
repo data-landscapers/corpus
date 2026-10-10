@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table says rural birth registration points in Tanzania (Ward Executive Offices and rural health facilities) are predominantly paper-based, registrars completing handwritten forms and certificates on site, with basic data then uploaded by mobile phone to RITA's central database and forms scanned for validation; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "RITA's central database (mobile phone upload from registration points)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "RITA's central database (mobile phone upload from registration points)", "country_label": "birth registration at Ward Executive Offices and rural health facilities, basic data uploaded by mobile phone to RITA's central database", "class": "civil", "platform": "", "owner": "RITA", "tiers": "Ward Executive Offices and rural health facilities"},
+    {"system": "national digital CRVS", "country_label": "national digital CRVS launched in 2022, said to have digitised over 3 million records", "class": "", "platform": "", "owner": "RITA", "tiers": "national"},
+    {"system": "eRITA", "country_label": "eRITA, for online applications and certificates", "class": "certificate", "platform": "", "owner": "RITA", "tiers": "online"}
+  ],
+  "note": "This source is on study.json's exclude_sources list as an AI-assisted compilation; the fact is recorded as the document states it and is the parent's to withhold."
+}

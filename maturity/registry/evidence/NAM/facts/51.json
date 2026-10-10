@@ -1,0 +1,8 @@
+{
+  "slug": "2024-08-05-well-done-majority-of-namibians-registered-to-vote",
+  "facts": [],
+  "systems": [
+    {"system": "Voters' register", "country_label": "general voter registration; Provisional Voters' Register (PVR); Automatic Fingerprint Identification System (AFIS)", "class": "land", "platform": "", "owner": "Electoral Commission of Namibia (ECN)", "tiers": "registration teams across the country and at diplomatic missions; data uploaded to a central server after registration closed on 1 August 2024"}
+  ],
+  "note": "About voter registration for the 2024 elections: an electoral register, out of scope; nothing on civil registration."
+}

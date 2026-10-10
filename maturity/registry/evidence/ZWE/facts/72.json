@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-10-zwe-rbz-mobile-money-civil-registry-integration",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national database of the Civil Registry Department",
+      "country_label": "Civil Registry",
+      "class": "identity",
+      "platform": "",
+      "owner": "Civil Registry Department",
+      "tiers": "national; described only as the source against which national ID numbers are validated"
+    },
+    {
+      "system": "Civil Registry integration for mobile financial services",
+      "country_label": "Civil Registry integration",
+      "class": "exchange",
+      "platform": "API-driven identity authentication, as the RBZ Governor describes it",
+      "owner": "Reserve Bank of Zimbabwe, with mobile money operators and State agencies",
+      "tiers": "national; real-time validation of national ID numbers said to be already in place in March 2026, full integration required by 30 June 2026"
+    }
+  ],
+  "note": "Concerns verification of mobile money subscribers' national ID numbers against Civil Registry records; it states nothing about how or where a birth or death is registered."
+}

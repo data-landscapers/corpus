@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-21-ken-kenyans-ardhisasa-outage-land-services",
+  "facts": [],
+  "systems": [
+    {"system": "ArdhiSasa", "country_label": "ArdhiSasa", "class": "land", "platform": "", "owner": "", "tiers": "online land information and transaction platform; outage announced 21 September 2026, after unavailability from 1 September 2026"}
+  ],
+  "note": "A land platform's outage; nothing on civil registration."
+}

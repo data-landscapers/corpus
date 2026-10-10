@@ -1,0 +1,17 @@
+{
+  "slug": "2026-10-02-zaf-polity-schreiber-home-affairs-quantum-leap-address",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Minister of Home Affairs said on 1 October 2026 that the department will turn 'in the new year' to automating the birth, marriage and death registration process, working with public and private healthcare providers so that a parent can register a birth without a form or a queue; it is stated as an intention, not as a system in use.", "as_of": "2026-10-01", "date_precision": "day", "system": "automated birth, marriage and death registration process", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "automated birth, marriage and death registration process", "country_label": "birth, marriage and death registration", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "329 Home Affairs offices nationally; automation with public and private healthcare providers to be turned to in 2027; not yet built"},
+    {"system": "birth, marriage and death certificate applications at bank branches", "country_label": "", "class": "certificate", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "planned for over 1,000 bank branches over the rest of the term to 2029"},
+    {"system": "live capture system", "country_label": "live capture", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "processes Smart ID and passport applications"},
+    {"system": "Smart ID replacement service at bank branches", "country_label": "Smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "515 bank branches at 2026-10-01; over 1,000 service points planned by end 2026"},
+    {"system": "Digital Identity system", "country_label": "Digital ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "first working prototype shown 2026-10-01, credential issued through the population register"},
+    {"system": "population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national"},
+    {"system": "2028/29 campaign to document every undocumented citizen", "country_label": "", "class": "outreach", "platform": "mobile biometric technology", "owner": "Department of Home Affairs", "tiers": "preparations beginning; campaign in 2028/29 visiting every community, with a review of late birth registration requirements"},
+    {"system": "Electronic Travel Authorisation", "country_label": "ETA", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "four international airports"}
+  ],
+  "note": ""
+}

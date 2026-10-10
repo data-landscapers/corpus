@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-fayda-national-id-ethio-telecom",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda National ID, Fayda Digital ID", "class": "identity", "platform": "", "owner": "National ID program; Ethio telecom as registration, printing and authentication partner", "tiers": "Ethio telecom lists 134 regional service centres, 58 in Addis Ababa and surroundings, and temporary sites (70 in the regions, 27 in and around Addis Ababa); residents from age five"},
+    {"system": "Kebele Resident ID", "country_label": "Kebele ID; City and Regional Government Resident ID", "class": "identity", "platform": "", "owner": "local government", "tiers": "issued locally; not replaced by Fayda"}
+  ],
+  "note": "Ethio telecom's page on Fayda digital ID registration. It names the birth certificate only as one acceptable document for enrolment and states nothing about civil registration."
+}

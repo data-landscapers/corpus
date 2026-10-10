@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-25-bdi-ppm-finances-budgetaire-2026-2027-final-docx-revise1-companion",
+  "facts": [],
+  "systems": [
+    {"system": "national digital identity system", "country_label": "", "class": "identity", "platform": "", "owner": "Ministère des Finances, du Budget et de l'Economie Numérique (procuring)", "tiers": "to be set up; contractor to be recruited by open international tender, BIF 8,902,999,980 on the state budget, FY2026/27"},
+    {"system": "cadastre modernisation, national geospatial data infrastructure and GNSS/CORS network", "country_label": "", "class": "land", "platform": "", "owner": "Ministère des Finances, du Budget et de l'Economie Numérique (procuring)", "tiers": "planned procurement, BIF 2,692,493,969"},
+    {"system": "secure network linking land offices to a central data centre", "country_label": "", "class": "land", "platform": "", "owner": "Ministère des Finances, du Budget et de l'Economie Numérique (procuring)", "tiers": "Bujumbura, Ngozi, Gitega and Makamba land offices; planned procurement, BIF 1,672,154,327"}
+  ],
+  "note": "A procurement plan naming an identity system and land systems; no civil registration system is named, so no fact."
+}

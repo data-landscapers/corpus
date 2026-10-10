@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-28-linkedin-frieden-rwanda-death-notification-crvs",
+  "facts": [],
+  "systems": [
+    {"system": "phone-based notification system", "country_label": "phone-based community death notification", "class": "notification", "platform": "", "owner": "Government of Rwanda, supported by Vital Strategies under the Data for Health Initiative", "tiers": "village leaders nationwide, by basic phone; rolled out nationwide in spring (year unstated, document published 2026-09-28); about 10,000 community deaths logged in its first months; the civil registrar receives a request to follow up"},
+    {"system": "national ID database", "country_label": "national ID database", "class": "identity", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "link from death notification to the national ID database", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "age, sex and location linked automatically from the national ID number sent by the village leader"},
+    {"system": "verbal autopsy", "country_label": "verbal autopsy on a tablet", "class": "", "platform": "", "owner": "", "tiers": "local administrative cell staff, for deaths at home; 94% of registered deaths get one"}
+  ],
+  "note": "Describes a death notification system, which the document itself distinguishes from registration; it says hospital deaths are registered but not how the registrar's record is made."
+}

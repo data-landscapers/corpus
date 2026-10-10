@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-roadmap-digital-transformation-government",
+  "facts": [],
+  "systems": [
+    {"system": "Smart ID", "country_label": "Smart ID card with associated biometrics", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "approximately 21 million people issued by the end of 2023; 90% uptake targeted for Q4 2028"},
+    {"system": "functional Digital ID", "country_label": "Functional Digital Identity with Universal Biometrics", "class": "identity", "platform": "", "owner": "Department of Home Affairs and National Treasury, with support from the South African Reserve Bank", "tiers": "launch for remote authentication targeted for Q4 2025"},
+    {"system": "Credentials Wallet", "country_label": "government verified credential wallet", "class": "identity", "platform": "", "owner": "Department of Home Affairs and National Treasury", "tiers": "targeted for Q2 2026"},
+    {"system": "data exchange", "country_label": "real-time data exchange between government departments; Home Affairs data among the datasets approved for grant eligibility testing", "class": "exchange", "platform": "", "owner": "National Treasury and Statistics South Africa, with support from the social security agency", "tiers": "platform targeted for Q4 2026"},
+    {"system": "Secure Citizen", "country_label": "Secure Citizen: biometric facial recognition verification against the Home Affairs database", "class": "identity", "platform": "", "owner": "Southern Africa Fraud Prevention Services", "tiers": ""}
+  ],
+  "note": "The Presidency's roadmap (undated; 2025) covers digital identity, data exchange, payments and a single service channel. Birth registration and death appear only as headings in a list of life-cycle service categories; nothing is said of how a civil registration office records an event."
+}

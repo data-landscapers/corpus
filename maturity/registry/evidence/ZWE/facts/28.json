@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-11-zimbabwe-birth-certificate-id-shortages",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "regressing", "fact": "The Home Affairs Minister confirmed in the National Assembly on 11 February 2026 a shortage of the paper to print birth certificates and of other consumables at the Registrar General's Department, the state printer Fidelity being unpaid; an MP said offices had gone up to two months without the paper, and the Treasury gave no date for payment.", "as_of": "2026-02-11", "date_precision": "day", "system": "Registrar General's Department birth and death registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Registrar General's Department birth and death registration", "country_label": "Registrar General's Department", "class": "civil", "platform": "", "owner": "Registrar General's Department, Ministry of Home Affairs and Cultural Heritage; funded through the Treasury", "tiers": "nationwide"}
+  ],
+  "note": "The event is a funding shortfall for certificate paper and receipt books in the registrar's own service, not an event in a digital system; the document says nothing of how the record is made, and the parent may prefer to drop the last12 fact on that ground."
+}

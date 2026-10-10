@@ -1,0 +1,31 @@
+{
+  "slug": "2025-10-28-hnews-wazir-dakhiliya-rakmanat-halat-madaniya",
+  "facts": [],
+  "systems": [
+    {
+      "system": "digitisation of civil status registers (Law 36-21, art 54)",
+      "country_label": "رقمنة سجلات الحالة المدنية",
+      "class": "archive",
+      "platform": "",
+      "owner": "Ministry of the Interior",
+      "tiers": "paper registers inventoried, scanned and stored to feed the national civil status register; about 20 million acts digitised in Casablanca-Settat and Rabat-Salé-Kénitra; walis of the other ten regions instructed in late October 2025 to catch up, with daily follow-up and weekly reports"
+    },
+    {
+      "system": "national civil status register",
+      "country_label": "السجل الوطني للحالة المدنية",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of the Interior",
+      "tiers": "fed by the digitised paper registers; the article does not say what else it does"
+    },
+    {
+      "system": "new civil status information system and official electronic application",
+      "country_label": "النظام المعلوماتي الجديد; التطبيق الإلكتروني الرسمي الخاص بالإدخال وتتبع العمليات",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of the Interior",
+      "tiers": "not yet launched in October 2025: commune presidents and civil-status staff to be trained on it ahead of the launch of the application for entry and tracking of operations"
+    }
+  ],
+  "note": "No fact: the article reports the Interior Minister's instruction to speed the scanning of paper registers (archive). It names a new information system and an entry application still to be launched, without saying whether new births and deaths will be entered in it at registration."
+}

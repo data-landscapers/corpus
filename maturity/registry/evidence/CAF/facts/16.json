@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-28-car-systeme-national-identite-numerique-snid",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système national d'identité numérique (SNID)",
+      "country_label": "Système national d'identité numérique (SNID); numéro d'identification unique (NUI)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Office national d'identification (ONI), newly created",
+      "tiers": "announced 28 November 2025 at USD 13 million; implementation window 2027 to 2032, procurement and assessments still ahead; meant to unify and secure the existing biometric and civil registration databases"
+    }
+  ],
+  "note": "An announced national digital identity system, not yet deployed; civil registration appears only as data the identity system is to unify, with nothing on how offices register events."
+}

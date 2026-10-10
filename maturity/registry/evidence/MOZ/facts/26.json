@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-16-sets-up-agency-digital-transformation-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration and identity infrastructure", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "the country recently sought contractors to upgrade it; the World Bank-funded US$150 million EDGE project is to expand access to civil registration and ID; nothing on what the system does"},
+    {"system": "single, unified government database", "country_label": "", "class": "", "platform": "", "owner": "Digital Transformation and Innovation Agency (ATDI)", "tiers": "planned; to be created under ATDI's oversight"},
+    {"system": "citizen portal", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "planned, for digital service access and interoperability among public entities"}
+  ],
+  "note": "The creation of the digital transformation agency; civil registration appears only as the aim of the EDGE project and of a recent call for contractors, with no system described, so no fact."
+}

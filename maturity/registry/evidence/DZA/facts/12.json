@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-19-algerian-cyber-policy-digital-sovereignty-analysis-echorouk",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic administrative services linked to civil status", "country_label": "الخدمات الإدارية الإلكترونية المرتبطة بالحالة المدنية", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital commercial register", "country_label": "السجل التجاري الرقمي", "class": "land", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Civil status is named once, as electronic administrative services being developed, with no description of what they do."
+}

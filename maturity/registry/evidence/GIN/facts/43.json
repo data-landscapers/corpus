@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-03-aminata-dge-ravec-online-verification-platform",
+  "facts": [],
+  "systems": [
+    {"system": "verification.dge.gov.gn (plateforme de vérification du PN-RAVEC)", "country_label": "plateforme numérique de vérification des données d'enrôlement PN-RAVEC", "class": "identity", "platform": "", "owner": "MATD, through the Direction générale des élections (DGE)", "tiers": "online"},
+    {"system": "PN-RAVEC (recensement administratif à vocation d'état civil)", "country_label": "Programme national de recensement administratif à vocation d'état civil (PN-RAVEC)", "class": "identity", "platform": "", "owner": "MATD", "tiers": ""}
+  ],
+  "note": "An online platform launched by 3 August 2025 for voters to check their census enrolment data by receipt code or QR; nothing on the registration of births or deaths."
+}

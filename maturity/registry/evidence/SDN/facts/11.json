@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-05-sudan-bayan-digital-personnel-platform-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Bayan platform link to the civil registry", "country_label": "منصة بيان الرقمية", "class": "exchange", "platform": "Bayan", "owner": "Ministry of Human Resources and Social Welfare with the Ministry of Communications and Digital Transformation", "tiers": "unified state personnel platform launched in Khartoum on 5 August 2026; the state minister of finance says it has been linked to systems on other platforms and to the civil registry, and works with the Baladna government information-exchange platform"},
+    {"system": "civil registry", "country_label": "السجل المدني", "class": "", "platform": "", "owner": "", "tiers": "named only as a system Bayan is linked to; what it does is not described"}
+  ],
+  "note": "The document reports the launch of a civil-service personnel platform linked to the civil registry; it states nothing about how births or deaths are registered."
+}

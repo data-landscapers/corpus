@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)",
+  "facts": [],
+  "systems": [
+    {"system": "CRVS", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": "Listed among existing government systems whose interoperability requirements the Government Service Bus consultant is to identify (terms of reference, 2025); nothing said of what it does"},
+    {"system": "Government Service Bus prototype", "country_label": "Government Service Bus (GSB)", "class": "exchange", "platform": "Open-source platform, X-Road given as an example", "owner": "Ministry of Finance", "tiers": "A prototype to be installed in the Ministry of Finance data centre; not yet in place when the terms of reference were issued in 2025; CRVS is one of nine systems named for connection"}
+  ],
+  "note": "The CRVS system is named in a list with no description, so it is unclassified; the service bus is planned, not operating."
+}

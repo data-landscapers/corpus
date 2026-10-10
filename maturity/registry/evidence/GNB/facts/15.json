@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric Identity Card", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "listed as Guinea-Bissau's foundational ID credential, with no digital ID; adult coverage estimated from the birth registration rate because no Findex data"}
+  ],
+  "note": "A global dataset on ID ownership; Guinea-Bissau appears only in the annex table of credentials, and nothing is said of how its civil registration offices register."
+}

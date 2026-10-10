@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-04-customs-authority-completes-digital-integration-of-asycuda-with-civil-registry",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA integration with the civil registry database", "country_label": "", "class": "exchange", "platform": "ASYCUDA, via the Baladna platform", "owner": "Customs Authority (General Directorate of Information and Communication Technology)", "tiers": "customs system linked to the civil registry database to check national ID numbers, for use by customs risk officers at checkpoints; announced complete on 4 October 2025"},
+    {"system": "civil registry database", "country_label": "civil registry database", "class": "", "platform": "", "owner": "", "tiers": "named as the database against which national ID numbers are checked; what else it holds is not described"}
+  ],
+  "note": "The document reports a link from the customs system to the civil registry database for checking national ID numbers; it states nothing about how births or deaths are registered."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national de la population", "country_label": "Registre national de la population (enrôlement biométrique)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, de la Promotion de la Décentralisation et du Développement local", "tiers": "enrolment at the 'centres compétents' as a permanent service since the 2025 legal reform; more than 5.1 million enrolled against 3.4 million in 2019, per the interior minister to the National Assembly on 18 June 2026; 36,516 enrolled in under a year under the open regime"},
+    {"system": "commissions locales chargées de l'identification", "country_label": "commissions locales chargées de l'identification et des statistiques", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "238 commissions constituted in all communes since late September 2025; they verify identity and decide enrolment in the population register"},
+    {"system": "missions mobiles sur le terrain", "country_label": "missions mobiles", "class": "outreach", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "mobile field missions bringing civil-status services closer to citizens; a survey of citizens with enrolment problems registered more than 613,000"}
+  ],
+  "note": "The minister's answers concern enrolment of persons in the biometric national population register, which the typology classes as identity; he speaks of modernising and digitising the civil-status system in general terms but states nothing about how or where a birth or death is registered."
+}

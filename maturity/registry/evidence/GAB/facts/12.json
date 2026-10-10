@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-03-gabon-cnie-enrolment-figures-assembly",
+  "facts": [],
+  "systems": [
+    {"system": "Carte nationale d'identité électronique (CNIE)", "country_label": "Carte nationale d'identité électronique (CNIE)", "class": "identity", "platform": "", "owner": "Ministry of the Interior", "tiers": "national enrolment campaign since 2024: 335,384 enrolled, 164,944 cards produced, 147,224 collected, 92,614 files in processing, 78,500 disputed, as told to the National Assembly on 2 June 2026"}
+  ],
+  "note": "Identity-card enrolment figures only (class identity); nothing on civil registration offices."
+}

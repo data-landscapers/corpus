@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-senegal-senum-diouf-connectivity-espaces-senegal-services",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme nationale de dématérialisation (E-Sénégal)", "country_label": "E-Sénégal", "class": "certificate", "platform": "", "owner": "Senum SA", "tiers": "national online portal; civil status to be added as a service soon, per Senum's director general (September 2026)"},
+    {"system": "Espaces Sénégal Services (ESS)", "country_label": "Espaces Sénégal Services", "class": "enabling", "platform": "", "owner": "Senum SA", "tiers": "local one-stop service counters; tour of Louga, Saint-Louis, Dagana and Matam found connectivity and equipment shortfalls"}
+  ],
+  "note": "Connectivity of the state's service counters, and civil status only as a service to be added to the national online procedures platform; nothing on how a civil-status office records an event."
+}

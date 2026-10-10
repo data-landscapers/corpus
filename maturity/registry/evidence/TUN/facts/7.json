@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-alchourouk-lancement-application-khadamet",
+  "facts": [],
+  "systems": [
+    {"system": "Khadamet (خدمات)", "country_label": "التطبيقة الوطنية للخدمات الإدارية الرقمية \"خدمات\"", "class": "certificate", "platform": "mobile application (Google Play; App Store to follow)", "owner": "Ministry of Communication Technologies", "tiers": "citizens, nationally"},
+    {"system": "الهوية الرقمية (digital identity)", "country_label": "الهوية الرقمية", "class": "identity", "platform": "", "owner": "", "tiers": "used to sign in to Khadamet"}
+  ],
+  "note": "The launch on 31 August 2026 of a citizen application from which electronic civil status documents are extracted; a certificate channel, with nothing on how an office registers an event."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2025-04-27-atalayar-maroc-numerise-registre-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "numérisation du registre civil (appel d'offres DGCT)",
+      "country_label": "numérisation de l'état civil",
+      "class": "archive",
+      "platform": "",
+      "owner": "Direction générale des collectivités territoriales (DGCT), ministère de l'Intérieur",
+      "tiers": "international tender of April 2025, 194 million dirhams in five regional lots (bids due 29 May): over 38 million acts back to 1915 held in 1,821 offices in ten regions; 27 million paper acts never digitised to be numbered, keyed by hand and checked, and over 11 million existing digital acts to be audited and indexed; priority to births after 1950 and deaths after 2003"
+    },
+    {
+      "system": "base de données centralisée et système d'information unifié de l'état civil",
+      "country_label": "système d'information unifié",
+      "class": "",
+      "platform": "",
+      "owner": "ministère de l'Intérieur",
+      "tiers": "stated aim of the project: to link all civil-status offices and allow real-time data exchange between public institutions; not said to be in place"
+    },
+    {
+      "system": "déclarations électroniques préalables",
+      "country_label": "déclarations électroniques préalables des naissances, des décès, des mariages et des divorces (décret 2.22.04)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "introduced in law by the 2023 decree applying Law 36.21; the article does not say who files them or whether they are in use"
+    }
+  ],
+  "note": "No fact: the article reports a back-capture tender (archive). The unified system linking offices is given as an aim, and the electronic pre-declarations as a legal provision of 2023, neither described as operating. Denominator stated: 1,821 offices in the ten regions the tender covers."
+}

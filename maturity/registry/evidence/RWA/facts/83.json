@@ -1,0 +1,9 @@
+{
+  "slug": "2016-01-01 ID4D Country Diagnostic Rwanda (World Bank)",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register (NPR)", "country_label": "National Population Register", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": ""},
+    {"system": "National Identity (NID) system and NIN", "country_label": "NID / NIN", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": ""}
+  ],
+  "note": "The file is a companion page describing the held PDF in three lines; it lists civil registration and the population register among the diagnostic's subjects and carries none of the diagnostic's findings."
+}

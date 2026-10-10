@@ -1,0 +1,22 @@
+{
+  "slug": "2021-01-06-loi-2020-34-etat-civil-dematerialise",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "Law 2020-34 of 6 January 2021, on the simplified and dematerialised management of civil-status registration, requires every birth to be entered in the Registre national des personnes physiques (art. 1), that entry counting as the declaration of birth, and every death to be declared and registered in the same register (art. 10); this is the legal requirement, not a statement of practice, and the captured text stops at article 11.",
+      "as_of": "2021-01-06",
+      "date_precision": "day",
+      "system": "Registre national des personnes physiques",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {"system": "Registre national des personnes physiques", "country_label": "Registre national des personnes physiques", "class": "civil", "platform": "", "owner": "", "tiers": "The civil-status centre that receives a copy of the declaration form has the birth registered in the national register; marriages are declared to it by the civil-status officer and divorces by the court's chief registrar"},
+    {"system": "Fichier national de l'état civil", "country_label": "Fichier national de l'état civil", "class": "civil", "platform": "", "owner": "", "tiers": "National file: every birth registered in the Registre national des personnes physiques gives rise to an entry in it, and marriages, divorces and deaths are taken into it"},
+    {"system": "formulaire de déclaration de naissance", "country_label": "formulaire de déclaration de naissance", "class": "notification", "platform": "paper form in three original copies", "owner": "", "tiers": "Filled in at the health service that delivered the child: one copy to the parents, one sent to the civil-status centre the health service comes under, one kept; births outside a health service are reported to the nearest health centre or the competent civil-status centre on a special form"},
+    {"system": "numéro personnel d'identification", "country_label": "numéro personnel d'identification", "class": "exchange", "platform": "", "owner": "", "tiers": "Acquired by the child on entry in the Registre national des personnes physiques (art. 4)"}
+  ],
+  "note": "The captured text is an excerpt ending mid-article 11; the law does not say where or by what means the civil-status centre makes the entry, so no fact is recorded for how the record is made or for offices."
+}

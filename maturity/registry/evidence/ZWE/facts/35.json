@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-29-zwe-2026-18-ii",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "The Appropriation (2026) Act appropriated ZiG 1,470,460,000 from the Consolidated Revenue Fund to Programme II, Civil Registration, under Vote 18 (Home Affairs and Cultural Heritage) for fiscal year 2026, with no external financier named; the line funds the registration function whole, paper and digital alike, and publishes no system-level sub-line.", "as_of": "2025-12-29", "date_precision": "day", "system": "Civil Registration programme (Civil Registry Department)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Appropriation (2026) Act places the Civil Registration programme under Vote 18, the Ministry of Home Affairs and Cultural Heritage, with the Civil Registry Department as the spending entity; the 2026 Budget Statement (para 581, 27 November 2025) describes the allocation as equipment and consumables for issuing IDs, birth certificates and other documents.", "as_of": "2025-12-29", "date_precision": "day", "system": "Civil Registration programme (Civil Registry Department)", "class": "civil"}
+  ],
+  "systems": [],
+  "note": "A budget-line record: it names the civil registration programme and its domestic appropriation but no information system; the two governance facts are for the registration function, not a named digital system."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2018-04-01-libyan-national-statistics-development-strategy-2018-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Births and mortality data flow from the Civil Status Authority to the Bureau of Statistics and Census (activity 'Improve Vital statistics', LYD 100,000 a year, 2018-2023)", "country_label": "Civil Status Authority", "class": "exchange", "platform": "", "owner": "Bureau of Statistics and Census with the Civil Status Authority", "tiers": "national"}
+  ],
+  "note": "A statistics strategy: its only civil registration content is one costed activity line to improve the flow of births and mortality data from the Civil Status Authority to the statistics bureau; it describes no registration system and no office."
+}

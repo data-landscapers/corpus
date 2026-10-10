@@ -1,0 +1,8 @@
+{
+  "slug": "2023-04-19-sla-online-services-seyid-monservis",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID", "country_label": "SeyID", "class": "identity", "platform": "", "owner": "supported by DICT", "tiers": "the login for monServis; replaces the E-ID Gateway"}
+  ],
+  "note": "The Licensing Authority's page on business and vehicle licence services moving to monServis behind a SeyID login; licensing services outside the study's field, and nothing on civil registration."
+}

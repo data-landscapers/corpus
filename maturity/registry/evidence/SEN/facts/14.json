@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-03-anec-senegal-missions-etat-civil-statistiques-vitales",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "ANEC's statement of its own mission charges the agency with generalising the civil-status events management software to all civil-status centres and with setting up, managing and securing the centralised national and consular civil-status database; the page gives no date, so the published date is used.", "as_of": "2026-09-03", "date_precision": "day", "system": "logiciel de gestion des faits d'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "logiciel de gestion des faits d'état civil", "country_label": "logiciel de gestion des faits d'état civil", "class": "civil", "platform": "", "owner": "Agence nationale de l'État civil (ANEC)", "tiers": "to be generalised to all civil-status centres"},
+    {"system": "base de données centralisée de l'état civil national et consulaire", "country_label": "base de données centralisée de l'état civil", "class": "", "platform": "", "owner": "ANEC", "tiers": "national and consular"},
+    {"system": "numérisation et indexation des registres d'état civil", "country_label": "numérisation et indexation des registres", "class": "archive", "platform": "", "owner": "ANEC", "tiers": "civil-status archives"},
+    {"system": "interconnexion des centres d'état civil et des centres consulaires", "country_label": "interconnexion des centres", "class": "enabling", "platform": "", "owner": "ANEC with Sénégal Numérique S.A (SENUM S.A)", "tiers": "civil-status centres and consular centres"},
+    {"system": "interfaçage de la base de données d'état civil avec les autres bases de données", "country_label": "interfaçage", "class": "exchange", "platform": "", "owner": "ANEC", "tiers": "with the databases of producers and users of civil-status data"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-01-zwe-civil-registry-computerise-sub-offices",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The Minister of Home Affairs and Cultural Heritage announced plans to computerise Civil Registry Department sub-offices across the country, saying it would reduce fraud linked to manual processes; the article gives no number of sub-offices, no timetable and no budget (The Herald, October 2025, month precision).", "as_of": "2025-10", "date_precision": "month", "system": "computerisation of Civil Registry Department sub-offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The computerisation of civil registry sub-offices was announced by the Ministry of Home Affairs and Cultural Heritage as its own drive, carried out by its Civil Registry Department under the Registrar-General; no partner or vendor is named (The Herald, October 2025).", "as_of": "2025-10", "date_precision": "month", "system": "computerisation of Civil Registry Department sub-offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "computerisation of Civil Registry Department sub-offices", "country_label": "computerisation of civil registry sub-offices", "class": "civil", "platform": "", "owner": "Civil Registry Department, Ministry of Home Affairs and Cultural Heritage", "tiers": "planned for sub-offices; the department has offices in all 10 provinces and 63 districts"},
+    {"system": "national citizens' database", "country_label": "national citizens' database", "class": "identity", "platform": "", "owner": "Civil Registry Department", "tiers": ""}
+  ],
+  "note": "The system is announced as a plan; the article does not say what the sub-offices will enter or how, beyond computerising offices that issue birth and death certificates, identity cards and passports."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)",
+  "facts": [],
+  "systems": [
+    {"system": "pre-declaration software in health facilities", "country_label": "pre-declaration software", "class": "notification", "platform": "", "owner": "National Civil Registry Agency (ANEC)", "tiers": "health facilities nationwide; installation announced at Ziguinchor on 27 January 2026, with authorised agents to enter births and deaths when they occur; state-certified and free, to replace uncertified local software"}
+  ],
+  "note": "Only the announced pre-declaration software for health facilities, which is notification; the held text is a short digest and says nothing on how civil-status centres themselves record events."
+}

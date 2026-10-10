@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-30-national-biometric-enrolment-begins",
+  "facts": [],
+  "systems": [
+    {"system": "national biometric enrolment program", "country_label": "", "class": "identity", "platform": "", "owner": "Ministry of the Interior and Decentralization (operations) and Ministry of Digital Development (technology), supported by the World Bank's PRODIGY project", "tiers": "launched 27 January 2026 with a pilot in Atsimondrano district; national rollout planned April to June 2026 to assign a Unique Identifier Number (NUI) to over 12 million people"},
+    {"system": "system interoperability between the Justice Department, Civil Registry and other public services", "country_label": "", "class": "exchange", "platform": "", "owner": "Digital Governance Unit (UGD) of the MNDPT", "tiers": ""}
+  ],
+  "note": "Identity enrolment, with interoperability to the civil registry named as the UGD's task; no civil registration office system is described."
+}

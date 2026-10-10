@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-23-voter-registration-7th-general-election",
+  "facts": [],
+  "systems": [
+    {"system": "Mirchaye", "country_label": "\"Mirchaye\" mobile application", "class": "land", "platform": "", "owner": "National Election Board of Ethiopia (NEBE)", "tiers": "digital alternative to in-person voter registration at polling stations; over 5,503,000 of 50,514,155 voters used it by 22 April 2026"}
+  ],
+  "note": "An electoral register, which the typology places out of scope with land and business registers; nothing on civil registration."
+}

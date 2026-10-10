@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-23-wearetech-morocco-digitizes-national-id-renewal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic national identity card (CNIE) online renewal",
+      "country_label": "CNIE; Epolice.ma portal and cnie.ma website",
+      "class": "identity",
+      "platform": "",
+      "owner": "General Directorate of National Security (DGSN)",
+      "tiers": "online pre-filling, document upload and stamp-duty payment, then an in-person appointment at a registration centre for biometric verification; announced May 2026 as upcoming"
+    },
+    {
+      "system": "Mon e-ID",
+      "country_label": "Mon e-ID mobile application",
+      "class": "identity",
+      "platform": "",
+      "owner": "General Directorate of National Security (DGSN)",
+      "tiers": "planned mobile app holding a digital copy of the identity card"
+    }
+  ],
+  "note": "No fact: about identity-card renewal online (class identity). Civil registry services appear only in a list of sectors with digital platforms, with no system named or described."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [],
+  "systems": [
+    {"system": "National ID system and national database of citizens' data", "country_label": "national ID; national database under Article 2 of Civil Status Law 143 of 1994", "class": "identity", "platform": "card with barcode since 1996; no biometric digital-ID programme implemented as of May 2025", "owner": "Civil Status Authority, Ministry of Interior", "tiers": "national; a number is assigned at birth and a card is compulsory from age 15; civil registration offices take fingerprints and a photo of card applicants into the computer system"},
+    {"system": "Secured and Smart Documents Complex", "country_label": "Secured and Smart Documents Complex", "class": "identity", "platform": "", "owner": "Ministry of Defence, under presidential decision 232 of 2021", "tiers": "national; holds biometric data and documents on persons' civil status from birth to death"},
+    {"system": "Digital Financial Identity Company", "country_label": "Digital Financial Identity Company", "class": "identity", "platform": "", "owner": "Central Bank of Egypt, established 2024", "tiers": "banks"}
+  ],
+  "note": "The Egypt chapter is about the national ID and its law. It says Bedouin in remote Sinai face costly and dangerous travel to civil registration offices to register births, and that rural populations face obstacles to birth certificates, but states nothing on whether or how a birth or death is entered digitally. The other nine country chapters were read and give nothing on Egypt."
+}

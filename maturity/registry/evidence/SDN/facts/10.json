@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-minister-of-digital-transformation-bayan-platform-creates-clarity-in-state-administrative-structure",
+  "facts": [],
+  "systems": [
+    {"system": "Bayan platform link to the digital identity and the civil registry", "country_label": "منصة بيان", "class": "exchange", "platform": "Bayan", "owner": "Ministry of Digital Transformation and Communications", "tiers": "state personnel platform said by the minister to be linked to the digital identity, the civil registry, the Kafa'a recruitment platform and the finance ministry's Wafi payroll platform"},
+    {"system": "civil registry", "country_label": "السجل المدني", "class": "", "platform": "", "owner": "", "tiers": "named only as a system Bayan connects to; what it does is not described"},
+    {"system": "digital identity", "country_label": "الهوية الرقمية", "class": "identity", "platform": "", "owner": "", "tiers": "named as linked to Bayan"}
+  ],
+  "note": "The document describes a civil-service personnel platform and its links to the digital identity and the civil registry; it states nothing about how births or deaths are registered."
+}

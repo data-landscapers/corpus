@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-29-ghana-mandatory-biometric-verification-child-enrolment-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card / National Identity Register", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "national; a phased campaign to register 3.1 million children aged 6 to 14, resumed May 2026 in the Volta and Oti Regions, with mobile registration workstations"}
+  ],
+  "note": "Identity-card verification law, child enrolment campaign and data-retention guidelines; 'mobile registration' here is the identity authority's workstations, and the birth certificate appears only as a supporting document."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2026-01-01-rwanda-vital-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry",
+     "fact": "NISR states that the National Identification Agency (NIDA), under the Ministry of ICT, is mandated to supervise and coordinate the civil registration system nationally, with MINALOC chairing the high-level CRVS coordination committee (2025).",
+     "as_of": "2025", "date_precision": "year", "system": "NCI-CRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current",
+     "fact": "NISR states that its fourth National Strategy for Development of Statistics (NSDS4), running 2024/25 to 2028/29, names strengthening the CRVS system as a top priority; the first national CRVS strategic plan it cites ran 2017/18-2021/22.",
+     "as_of": "2025", "date_precision": "year", "system": "NCI-CRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D",
+     "fact": "NISR states that nine events are registered through NCI-CRVS in 2025, births and deaths among them, each module being the electronic register of that event: 356,838 births and 39,355 deaths that occurred in 2025 were registered in it.",
+     "as_of": "2025", "date_precision": "year", "system": "NCI-CRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected",
+     "fact": "NISR states that the national centralized NCI-CRVS captures vital events in real time at the site of the event where official registration takes place, as a single data entry point, and that the paper-based system has been entirely phased out (2025); its Figure 5 milestone diagram still words registration as in paper books and the electronic system.",
+     "as_of": "2025", "date_precision": "year", "system": "NCI-CRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected",
+     "fact": "NISR states that since August 2020 all health facilities have used NCI-CRVS for the official registration of births and deaths at the place of occurrence, the system having been launched on 10 August 2020 in all public and private health facilities with an incremental scale-up plan.",
+     "as_of": "2020-08-10", "date_precision": "day", "system": "NCI-CRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%",
+     "fact": "NISR states that NCI-CRVS is fully operational at all five categories of registration office (health facilities public and private, cells, sectors, districts and embassies) in 2025; it gives no count of offices using it, only the country's 416 sectors and 2,148 cells.",
+     "as_of": "2025", "date_precision": "year", "system": "NCI-CRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing",
+     "fact": "NISR reports birth registration completeness up from 90.3% in 2024 to 92.9% in 2025 and death registration completeness up from 46.1% to 50.5% (39,355 registered of 77,876 expected), with registrations including delayed ones rising from 417,972 to 752,272 births and from 40,704 to 57,067 deaths.",
+     "as_of": "2025", "date_precision": "year", "system": "NCI-CRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "regressing",
+     "fact": "NISR reports the share of deaths registered within the legal 30 days falling from 96.3% in 2024 to 89.9% in 2025, which it calls the biggest downward shift since 2019; timely birth registration stayed at 99.1%.",
+     "as_of": "2025", "date_precision": "year", "system": "NCI-CRVS", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Centralized and Integrated Civil Registration and Vital Statistics system", "country_label": "NCI-CRVS", "class": "civil", "platform": "", "owner": "NIDA (under MINICT)", "tiers": "health facilities, cells, sectors, districts, embassies abroad"},
+    {"system": "National Population Registry", "country_label": "NPR", "class": "identity", "platform": "", "owner": "NIDA", "tiers": "national; decentralised to all 416 sectors since 2015; receives each NCI-CRVS event instantly"},
+    {"system": "CRVS web-based application", "country_label": "CRVS web-based system", "class": "exchange", "platform": "", "owner": "NISR", "tiers": "started 2015 to collect and store registration data for vital statistics; now linked to NCI-CRVS as the single entry point"},
+    {"system": "Rwanda Health Management Information System", "country_label": "R-HMIS", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "countrywide; aggregated births and deaths used to counter-verify NCI-CRVS"},
+    {"system": "Verbal Autopsy system", "country_label": "VA", "class": "", "platform": "WHO 2016 VA questionnaire on mobile devices", "owner": "", "tiers": "community deaths, by cell executive secretaries; countrywide; integrated with CRVS; routine since July 2022"},
+    {"system": "E-death notification system", "country_label": "E-death notification", "class": "notification", "platform": "", "owner": "", "tiers": "initiated in 2025 to raise death registration completeness; tiers not stated"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "certificate", "platform": "", "owner": "", "tiers": "issuance of certificates, linked to NCI-CRVS"}
+  ],
+  "note": "Finance: the acknowledgments thank the Government of Rwanda and named partners (World Bank, UNFPA, Bloomberg D4H, Vital Strategies, WHO, UNECA, EAC, UNICEF) for technical and financial support, with no budget line; no finance fact taken."
+}

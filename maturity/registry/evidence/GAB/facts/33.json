@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-21-fracture-numerique-gabon-117000-sans-internet",
+  "facts": [],
+  "systems": [
+    {"system": "Service universel des communications électroniques, phase 2", "country_label": "Service universel des communications électroniques", "class": "enabling", "platform": "mobile and internet coverage financed by a special fund the telecoms operators pay into", "owner": "ARCEP, with Airtel Gabon and Moov Africa Gabon Telecom", "tiers": "announced 16 February 2024: to extend coverage to 200 villages in all nine provinces; 1,253 villages (about 117,622 people, 6.5% of the population) without mobile or internet coverage, per ARCEP's president"}
+  ],
+  "note": "Rural connectivity only (class enabling); no civil registration system or office is named."
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "2016-01-01-toward-a-somali-identification-system-id4d-diagnostic",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "none",
+      "fact": "The World Bank ID4D diagnostic, conducted in 2016 with UNDP and IOM, states that Somalia's civil records are not digitised and that verification is manual, from paper records where these exist; it puts under-five birth registration at about 3 per cent (7 per cent in Somaliland), citing UNICEF 2013.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The World Bank ID4D diagnostic of 2016 states that civil registration is completely decentralised, with some of the country's 22 municipalities charged with keeping registers and issuing birth, death and marriage certificates, and that civil records are not digitised, verification resting on paper records where these exist.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "none",
+      "fact": "The World Bank ID4D diagnostic of 2016 states that civil records are not digitised in a system run by some of the country's 22 municipalities, whose implementation it calls poor and uneven; it gives no count of registration offices and names no office entering records digitally.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Civil registration system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Civil registration system",
+      "country_label": "civil registry; municipal civil registration",
+      "class": "civil",
+      "platform": "paper registers; not digitised",
+      "owner": "municipalities (local governments): some of the country's 22 are charged with it",
+      "tiers": "municipal; decentralised and uneven, Mogadishu municipality having only just started producing birth, death and marriage certificates"
+    },
+    {
+      "system": "UNICEF-supported birth registration pilot",
+      "country_label": "UNICEF-supported civil registration system in Somaliland; pilot programme in Burao district, with a similar initiative in Puntland",
+      "class": "notification",
+      "platform": "computer-based application linked to a database; product not named",
+      "owner": "Health Ministry coordinates the birth notifications issued by health facilities, with UNICEF support; local Civil Registration offices provide the birth certificates",
+      "tiers": "hospitals and health centres in Burao district, Somaliland, entering birth data; a direct link from facilities to the civil registration offices is planned, not in place"
+    },
+    {
+      "system": "Foglio di famiglia",
+      "country_label": "former, pre-1991 system of verifying identity and providing civil registration services",
+      "class": "civil",
+      "platform": "",
+      "owner": "municipalities",
+      "tiers": "municipality level; no longer operating"
+    },
+    {
+      "system": "Mogadishu ID card",
+      "country_label": "ID card in Mogadishu; new municipal ID card",
+      "class": "identity",
+      "platform": "",
+      "owner": "Mogadishu municipality",
+      "tiers": "municipal"
+    },
+    {
+      "system": "Puntland ID card",
+      "country_label": "Puntland ID card; ID card of Puntland",
+      "class": "identity",
+      "platform": "",
+      "owner": "Puntland regional government",
+      "tiers": "regional state"
+    },
+    {
+      "system": "Passport and associated ID system",
+      "country_label": "the Passport and associated ID system",
+      "class": "identity",
+      "platform": "",
+      "owner": "immigration office issues the passport",
+      "tiers": ""
+    },
+    {
+      "system": "Voter ID of Somaliland",
+      "country_label": "voter ID of Somaliland",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Somaliland"
+    },
+    {
+      "system": "NIAS",
+      "country_label": "NIAS, the national identification authority and system the study recommends; proposed, not existing in 2016",
+      "class": "identity",
+      "platform": "",
+      "owner": "to be established at the federal level, with civil registration left to state, regional or municipal governments",
+      "tiers": "federal, proposed"
+    }
+  ],
+  "note": ""
+}

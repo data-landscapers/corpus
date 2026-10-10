@@ -1,0 +1,44 @@
+{
+  "slug": "2025-06-19-lesotho-ntlafatsa-bana-nissa-digital-birth-registration",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "UNICEF reports that the Ntlafatsa Bana project's digital birth registration system registers births on tablets, with birth certificates handed over at its launch in Ha Tankele, Qhoasing Community Council; deaths are not mentioned (no launch date given; the article's date is used).",
+      "as_of": "2025-06-19",
+      "date_precision": "day",
+      "system": "Digital birth registration system (Ntlafatsa Bana)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "UNICEF says the system has replaced slow manual processes with real-time tablet-based registration, operated by trained village health workers and civil registration officers and integrated with the NISSA social assistance database; it does not name the register the record is held in (the article's date is used).",
+      "as_of": "2025-06-19",
+      "date_precision": "day",
+      "system": "Digital birth registration system (Ntlafatsa Bana)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital birth registration system (Ntlafatsa Bana)",
+      "country_label": "Digital Birth Registration",
+      "class": "civil",
+      "platform": "tablet-based, not named",
+      "owner": "Equitable Lesotho - Ntlafatsa Bana project, a joint initiative of the Government of Lesotho, the European Union and UNICEF",
+      "tiers": "community level, by village health workers and civil registration officers; launched at Ha Tankele, Qhoasing Community Council"
+    },
+    {
+      "system": "Digital birth registration - NISSA integration",
+      "country_label": "NISSA",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "the birth registration system is integrated with the national social assistance database"
+    }
+  ],
+  "note": "No count of councils or offices using the system, and no statement of who funds or owns it beyond the joint initiative."
+}

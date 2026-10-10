@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-18 Seychelles Makes Digital ID Mandatory for Work Permit Holders",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID", "country_label": "SeyID", "class": "identity", "platform": "WISeKey WISeID", "owner": "Department of Immigration and Civil Status (for the virtual ID)", "tiers": "web and mobile app; launched 1 November 2022, virtual ID compulsory for new work permit holders from 17 September 2024"},
+    {"system": "CertExpress", "country_label": "CertExpress", "class": "certificate", "platform": "", "owner": "Department of Immigration", "tiers": "online; certificates delivered by email and saved in the user's digital wallet"}
+  ],
+  "note": "Secondary reporting of the same launch: an identity system and a certificate portal, neither a civil-class system, and nothing on how a birth or death is registered."
+}

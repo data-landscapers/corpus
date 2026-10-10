@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-mozambique-atdi-portal-do-cidadao-launch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Portal do Cidadão",
+      "country_label": "Portal do Cidadão",
+      "class": "certificate",
+      "platform": "",
+      "owner": "Agência de Transformação Digital e Inovação, IP (ATDI)",
+      "tiers": "National web portal presented at FACIM 2026 (reported 2026-09-04): users consult requirements, submit requests, follow processes and obtain official documents remotely, across about 140 services taken in progressively, identification documents and civil registration among them"
+    }
+  ],
+  "note": "The portal is a single counter for requesting documents; the article says nothing about how civil registration offices register births or deaths."
+}

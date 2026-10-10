@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices in Burkina Faso predominantly register births on paper, transcribed by hand into duplicate registers with copies sent to the courts annually, and that the legal framework recognises only paper registers; it gives no date, so the date is the document's.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper civil-status registers", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "iCivil", "country_label": "iCivil", "class": "notification", "platform": "iCivil (smartphone app, bubble-code wristbands, SMS)", "owner": "described as donor-supported", "tiers": "about 130 of 2,584 points (about 5%): 104 health facilities and 16 community sites, sending data to a national digital register"}
+  ],
+  "note": "study.json lists this source under exclude_sources (an AI-assisted compilation by its own header); the fact is recorded as the document states it and is the parent's to exclude."
+}

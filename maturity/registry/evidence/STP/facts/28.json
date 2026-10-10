@@ -1,0 +1,31 @@
+{
+  "slug": "2025-09-09-sao-tome-prese-plataforma-recenseamento-automatico-registo-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistemas de registo civil",
+      "country_label": "sistemas de registo civil",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Equipment for the civil registry systems (PReSE)",
+      "country_label": "equipamentos que reforçam a componente tecnológica e a segurança dos sistemas de registo civil",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Handed over on 4 September 2025 by the PReSE project, financed by the European Union and implemented by Portuguese Cooperation (Camões)",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Plataforma de recenseamento automático",
+      "country_label": "plataforma de recenseamento automático",
+      "class": "land",
+      "platform": "Under development by the University of Aveiro",
+      "owner": "PReSE project; technicians of the DGRN and the Comissão Eleitoral Nacional trained in Web/WebAPI development",
+      "tiers": "National; presented on 4 September 2025"
+    }
+  ],
+  "note": "The civil registry systems are named without a description of what they do, so no fact is taken; the document reports equipment for them and an electoral platform."
+}

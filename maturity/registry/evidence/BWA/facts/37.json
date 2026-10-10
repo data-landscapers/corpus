@@ -1,0 +1,31 @@
+{
+  "slug": "2016-01-01-id4d-country-diagnostic-botswana",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank diagnostic, prepared in September 2015 with the Department of Civil and National Registration of the Ministry of Labour and Home Affairs, states that the department runs civil registration and the national identity system through 37 offices in 12 districts and 25 subdistricts and 13 on-site registration offices at hospitals.",
+      "as_of": "2015-09",
+      "date_precision": "month",
+      "system": "national civil registration",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The World Bank diagnostic, prepared in September 2015, sets out as the way forward a 2015-2020 CRVS and Identity Management Investment Plan; the captured excerpt gives the plan's title only, not its content.",
+      "as_of": "2015-09",
+      "date_precision": "month",
+      "system": "national civil registration",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {"system": "national civil registration", "country_label": "civil registration", "class": "civil", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": "37 offices in 12 districts and 25 subdistricts; 13 on-site registration offices at hospitals"},
+    {"system": "National Identity Management System (NIS)", "country_label": "National Identity System; Omang", "class": "identity", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": "national; interfaced with the electoral system, SOBERS, government payroll and the transport system"},
+    {"system": "link between birth and death registration and the National Identity Management System", "country_label": "", "class": "exchange", "platform": "", "owner": "Department of Civil and National Registration", "tiers": "the identity number is issued on birth registration and used for the identity card at 16; the identity system is updated in real time when a death occurs, status changing from Live to Deceased"}
+  ],
+  "note": "The capture is an excerpt cut at the fetch limit, ending in the introduction: it gives the office network and the identity link but does not say how a registration office makes the birth or death record, so no coverage fact; the 37 offices are a count of offices, not of offices entering digitally."
+}

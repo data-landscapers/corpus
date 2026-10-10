@@ -1,0 +1,13 @@
+{
+  "slug": "2020-12-02-decret-2020-1623-cneci-natlex",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Décret n° 2020-1623 of 2 December 2020 sets up the Centre National d'Etat Civil et de l'Identité (CNECI), a public administrative establishment under the technical supervision of the ministry in charge of the Interior, to keep, operate and secure the national digital civil status and identity registers, which commune civil status services, diplomatic and consular posts and identity services are to feed.", "as_of": "2020-12-02", "date_precision": "day", "system": "registre national d'état civil et d'identité", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "Article 52 of Décret n° 2020-1623 lists CNECI's resources in law as parafiscal revenues, State subsidies, fees, gifts and own resources, and subsidies or contributions from national or international private or public bodies; it states the categories only, with no amount and no budget line.", "as_of": "2020-12-02", "date_precision": "day", "system": "registre national d'état civil et d'identité", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "registre national d'état civil et d'identité", "country_label": "registre national d'état civil et d'identité; registres numériques d'état civil et d'identité", "class": "civil", "platform": "", "owner": "Centre National d'Etat Civil et de l'Identité (CNECI), under the ministry in charge of the Interior", "tiers": "national, fed by commune civil status services, diplomatic and consular posts and the administrative districts or services in charge of identity; the decree does not say how an office makes the record"},
+    {"system": "numéro d'identification unique des personnes", "country_label": "numéro d'identification unique", "class": "identity", "platform": "", "owner": "CNECI", "tiers": "national"},
+    {"system": "plateforme d'intégration de données concernant l'état civil et l'identité", "country_label": "plateforme d'intégration", "class": "exchange", "platform": "", "owner": "CNECI", "tiers": "national; to be defined and developed by CNECI"}
+  ],
+  "note": "The decree gives CNECI the task of accompanying the digital transformation of civil status centres but states nothing on which offices enter events digitally or how."
+}

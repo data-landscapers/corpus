@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-27-across-21-countries-shared-journey-inclusive-digital-social-protection",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration System", "country_label": "Civil Registration System", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Common ID System", "country_label": "Common ID System", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "assessment of integration with the Unified Social Registry (RESUC) MIS", "country_label": "interoperability of national social protection systems", "class": "exchange", "platform": "", "owner": "supported by the World Bank under the Digital Convergence Initiative", "tiers": "assessment stage, October 2025: Common ID System, Civil Registration System and Disability Registry assessed for integration with RESUC"}
+  ],
+  "note": "A social protection blog; Cameroon's Civil Registration System is named only as one of the systems being assessed for integration with the social registry, with no description of what it does."
+}

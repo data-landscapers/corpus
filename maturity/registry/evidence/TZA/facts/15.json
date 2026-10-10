@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-07-nida-mulls-child-registration",
+  "facts": [],
+  "systems": [
+    {"system": "NIDA registration", "country_label": "national identification by NIDA; a draft Child Registration Act to let NIDA register children from birth", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA), Ministry of Home Affairs", "tiers": "national; cards collected at district offices"}
+  ],
+  "note": "Identity enrolment only: a planned law for NIDA to register children from birth and 309,603 uncollected cards; nothing on the civil registrar's system."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-angola-modernizes-land-administration-gis-cadastre-management",
+  "facts": [],
+  "systems": [
+    {"system": "Property registration system at the CRP offices", "country_label": "Conservatória do Registo Predial (CRP) registration system", "class": "land", "platform": "developed by GEODATA (Mitrelli Group)", "owner": "Ministry of Justice (property registry offices)", "tiers": "all 22 registry offices in all 18 provinces"},
+    {"system": "National cadastre system", "country_label": "IGCA cadastre", "class": "land", "platform": "Esri ArcGIS (ArcGIS Pro, ArcGIS Enterprise) under the LAMP programme, implemented by GEODATA", "owner": "Instituto Geodesía e Cartografia de Angola (IGCA)", "tiers": "all 18 provincial offices of IGCA"}
+  ],
+  "note": "A vendor case study of the land cadastre and the property registry; both are land systems, out of the study's scope, and nothing is said of civil registration."
+}

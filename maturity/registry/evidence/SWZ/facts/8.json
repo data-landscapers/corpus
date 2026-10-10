@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-gov-sz-deeds-registry",
+  "facts": [],
+  "systems": [
+    {"system": "Deeds Registry computerised registers", "country_label": "Computerisation of all Deeds Office Records", "class": "land", "platform": "", "owner": "Deeds Registry, Ministry of Natural Resources and Energy; government-funded", "tiers": "the single Deeds Registry office, on its own local network with workstations; since April 1995, registers updated daily"},
+    {"system": "Deeds Registry imaging and indexing system", "country_label": "Imaging and indexing of all Deeds Office Records", "class": "land", "platform": "", "owner": "Deeds Registry, Ministry of Natural Resources and Energy; government-funded", "tiers": "the single Deeds Registry office; started 2000, deeds from 1910 to 2000 scanned and indexed"},
+    {"system": "National Land Information System", "country_label": "Land Information System", "class": "land", "platform": "", "owner": "Deeds Registry with the Surveyor-General's Office (intended)", "tiers": "not established; a stated future aim"}
+  ],
+  "note": "The Deeds Registry's own account of its land records systems, out of scope; nothing on civil registration."
+}

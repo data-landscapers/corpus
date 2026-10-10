@@ -1,0 +1,15 @@
+{
+  "slug": "2004-11-03-decret-2004-469-institution-numero-identification-unique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Numéro d'identification unique (NIU)",
+      "country_label": "numéro d'identification unique (NIU)",
+      "class": "land",
+      "platform": "",
+      "owner": "Direction générale des impôts, ministère de l'économie, des finances et du budget",
+      "tiers": "National: every natural or legal person on the territory, required for all economic formalities and transactions"
+    }
+  ],
+  "note": "Décret 2004-469 institutes the NIU as the compulsory taxpayer registration number and its database; a tax register, classed with the out-of-scope registers as the decree describes it (a taxpayer immatriculation, not identity enrolment). The only civil-status mention is a copy of a birth act in a bureau-de-change licence file under the companion Décret 2004-468. Nothing on civil registration offices."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-01-nir-relevance-national-special-elections",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Registry database", "country_label": "NIR database; national biometric identification cards", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national; nationwide coverage not yet achieved"},
+    {"system": "Biometric voter registration system", "country_label": "NEC database; voter roll", "class": "land", "platform": "", "owner": "National Elections Commission (NEC)", "tiers": "national; 2,471,617 voters registered in 2023"}
+  ],
+  "note": "About linking the identity and electoral databases; civil registration appears only in the examples of other countries."
+}

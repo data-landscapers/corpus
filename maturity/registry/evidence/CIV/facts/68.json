@@ -1,0 +1,9 @@
+{
+  "slug": "2024-04-16-semlex-digitizing-civil-status-records-ivory-coast",
+  "facts": [],
+  "systems": [
+    {"system": "Digitization of civil status registers, Grand-Bassam pilot", "country_label": "numérisation des registres d'état civil", "class": "archive", "platform": "", "owner": "ONECI, with technical operator Semlex", "tiers": "Grand-Bassam town hall: a 16-day pilot digitized over 200,000 records (185,056 births, 5,943 marriages, 14,404 deaths), handed to the mayor on 8 April 2024; extension to the whole country intended, 'with nearly 250 civil status centers already open'"},
+    {"system": "RNPP", "country_label": "National Register of Individuals (RNPP)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national, being deployed"}
+  ],
+  "note": "Back-capture of registers already written (class archive), with remote ordering of certificates as the next step; the article does not say how Grand-Bassam or any other centre records a new birth or death."
+}

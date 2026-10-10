@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-30-unhcr-burkina-faso-factsheet-jan-jun-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Delivery of birth certificates to displaced people and people at risk of statelessness", "country_label": "", "class": "outreach", "platform": "", "owner": "UNHCR, in coordination with the authorities", "tiers": "nearly 10,000 birth certificates delivered, January to June 2025"},
+    {"system": "Registration of displaced people for national identity cards", "country_label": "", "class": "identity", "platform": "", "owner": "UNHCR, in coordination with the authorities", "tiers": "over 5,800 people registered and nearly 1,200 cards received, January to June 2025"}
+  ],
+  "note": "A UNHCR operations sheet: certificates delivered and identity-card registrations for displaced people, and a Civil Documentation Working Group; nothing on how offices record births or deaths."
+}

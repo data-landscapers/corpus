@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Register of Natural Persons (RNPP)/National Identity Card", "country_label": "National Register of Natural Persons (RNPP)", "class": "identity", "platform": "", "owner": "", "tiers": "national foundational ID system as listed in Annex D; no digital ID credential recorded"}
+  ],
+  "note": "A global dataset on identity ownership. For Côte d'Ivoire it gives adult ID coverage of 78 per cent (82 men, 74 women; Findex 2025, fieldwork 2024) and no digital ID: identity, not civil registration. The Annex D table's rows are misaligned in the transcription, so the RNPP row is read as Côte d'Ivoire's on the name alone; the parent should treat that entry with caution."
+}

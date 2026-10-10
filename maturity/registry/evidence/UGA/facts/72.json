@@ -1,0 +1,11 @@
+{
+  "slug": "2022-02-25-data-4-health-crvs-project",
+  "facts": [],
+  "systems": [
+    {"system": "national death registration and identification system", "country_label": "national death registration and identification system", "class": "", "platform": "", "owner": "NIRA", "tiers": ""},
+    {"system": "death notification in health facility and community settings", "country_label": "death notification", "class": "notification", "platform": "", "owner": "NIRA with Ministry of Health and UNIPH", "tiers": "clinicians at Regional Referral Hospitals (over 180 trained) and Health Centre IVs (330), and 450 village health team members at community level"},
+    {"system": "rapid mortality surveillance system", "country_label": "RMS", "class": "notification", "platform": "", "owner": "Uganda National Institute of Public Health / Ministry of Health", "tiers": "all Regional Referral Hospitals and select districts; 15 initial districts"},
+    {"system": "national ID registration", "country_label": "national ID", "class": "identity", "platform": "", "owner": "NIRA", "tiers": ""}
+  ],
+  "note": "A project page on mortality surveillance and death notification by health facilities and communities, with coverage figures (births 32 per cent, deaths about 2 per cent); it names NIRA's death registration system but says nothing on how or where the registrar makes the record."
+}

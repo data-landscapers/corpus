@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GAB,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-10-08,GAB-002;GAB-007;GAB-008,GAB-006=finance:donor;GAB-011=finance:donor;GAB-012=plan:current;GAB-013=finance:donor;GAB-014=owner:ministry;GAB-018=finance:donor;GAB-019=owner:ministry;GAB-020=finance:donor;GAB-021=owner:ministry,
+GAB,civil,events,coverage,none,2026-09-28,GAB-005;GAB-010,GAB-016=none,
+GAB,civil,made,coverage,paper,2026-09-28,GAB-004;GAB-015,,
+GAB,civil,last12,qualifier,advancing,2026-10-08,GAB-001;GAB-003,,
+GAB,civil,offices,coverage,none,2021-06-15,GAB-017,,nothing dated since 2023-10-10

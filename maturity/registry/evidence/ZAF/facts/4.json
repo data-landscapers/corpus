@@ -1,0 +1,16 @@
+{
+  "slug": "2026-10-01-sa-digital-id-schreiber-demo",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "TechCentral reports the Minister of Home Affairs saying on 1 October 2026 that the department will turn in the new year to automating the registration of births, marriages and deaths, working with public and private healthcare providers; it is reported as a plan, not as a system in use.", "as_of": "2026-10-01", "date_precision": "day", "system": "automated registration of births, marriages and deaths", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "automated registration of births, marriages and deaths", "country_label": "birth, marriage and death registration", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "automation, with public and private healthcare providers, to be turned to in 2027; not yet built"},
+    {"system": "birth, marriage and death certificate applications at bank branches", "country_label": "", "class": "certificate", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "planned for more than 1,000 bank branches before the term ends in 2029"},
+    {"system": "MyMzansi digital ID app", "country_label": "digital ID", "class": "identity", "platform": "MyMzansi", "owner": "Department of Home Affairs; hosting infrastructure being built in SARS's IT environment", "tiers": "working prototype demonstrated 2026-10-01; public issuance targeted for 2027/28; wallet to hold birth and marriage certificates"},
+    {"system": "population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national"},
+    {"system": "Smart ID replacement at bank branches", "country_label": "smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "515 bank branches"},
+    {"system": "2028/29 national campaign to document every undocumented citizen", "country_label": "", "class": "outreach", "platform": "mobile biometric technology", "owner": "Department of Home Affairs", "tiers": "planned for 2028/29, with a review of late birth registration requirements"},
+    {"system": "electronic travel authorisation", "country_label": "ETA", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "four international airports"}
+  ],
+  "note": ""
+}

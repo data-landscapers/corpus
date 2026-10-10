@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-06-last-mile-civil-registration-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "digital ID enrolment under PRODIGY", "country_label": "", "class": "identity", "platform": "Laxton enrolment equipment", "owner": "Government of Madagascar, under the World Bank-funded PRODIGY project", "tiers": "community-based mobile enrolment in all parts of the country since April 2026, offline first and online later; more than 3.25 million enrolled"}
+  ],
+  "note": "Calls the approach last-mile civil registration but describes enrolment for the identity card; no system in which a civil registration office records a birth or death digitally."
+}

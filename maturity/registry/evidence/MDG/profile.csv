@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MDG,civil,governance,qualifier,owner:ministry;finance:donor,2025-12,MDG-011;MDG-018,MDG-016=finance:donor;MDG-019=finance:donor;MDG-022=owner:ministry;MDG-023=finance:domestic;MDG-024=finance:donor;MDG-025=owner:ministry;MDG-028=finance:donor;MDG-030=finance:donor;MDG-031=owner:ministry;MDG-034=owner:ministry,not stated: plan
+MDG,civil,events,coverage,B,2026-03-02,MDG-004;MDG-008;MDG-013;MDG-017;MDG-021,MDG-026=B;D;MDG-033=B;D,
+MDG,civil,made,coverage,connected,2025-12,MDG-009;MDG-014;MDG-020;MDG-032,MDG-029=paper,
+MDG,civil,last12,qualifier,advancing,2026-03-02,MDG-006;MDG-010;MDG-015,,
+MDG,civil,offices,coverage,count:336,2025-12,MDG-007;MDG-012,MDG-005=not-published;MDG-027=none,

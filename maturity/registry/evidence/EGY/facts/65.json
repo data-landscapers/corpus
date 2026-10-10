@@ -1,0 +1,9 @@
+{
+  "slug": "2014-06-05-egypt-law-on-the-exercise-of-political-rights-45-2014",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number Database", "country_label": "National Identification Number Database at the Civil Status Organization", "class": "identity", "platform": "", "owner": "Civil Status Organization, Ministry of Interior", "tiers": "not stated"},
+    {"system": "Voter Database", "country_label": "Voter Database", "class": "land", "platform": "", "owner": "High Elections Committee", "tiers": "compiled automatically from the National Identification Number data in the Civil Status Organization database, its main source under Article 14 (2014)"}
+  ],
+  "note": "An electoral law: it makes the national identification number database the source of the voter roll and says nothing on the registration of births or deaths. The voter roll is classed 'land' because the typology puts electoral registers there, out of scope."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2022-02-03-ensuring-human-rights-burkina-faso-one-baby-at-time",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "iCivil's own article says births are registered on the platform by midwives at maternity wards, and that deaths, divorces and vaccinations 'will' be on it, as a future step; the article gives no date for this, so its published date is used.", "as_of": "2022-02-03", "date_precision": "day", "system": "iCivil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The Director General of Civil Registration Modernization (DGMEC) is quoted saying midwives perform birth registration directly into the central system from maternity wards at health centres, by smartphone, with the child's record held in a national database; undated in the article, so its published date is used.", "as_of": "2022-02-03", "date_precision": "day", "system": "iCivil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "iCivil's article says the platform began as a pilot in ten maternity wards in Ouagadougou, is now used as far as a remote clinic at Rapadama in Ganzourgou, and is 'still in its early stages of deployment' (UNFPA analyst); it gives no count or share of sites in use and no dates, so its published date is used.", "as_of": "2022-02-03", "date_precision": "day", "system": "iCivil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "iCivil's article says the government leads the process with UNFPA support, and that agents of the Directorate General of Civil Status Modernisation see each birth and its health centre on the national server; undated, so its published date is used.", "as_of": "2022-02-03", "date_precision": "day", "system": "iCivil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "iCivil", "country_label": "iCivil", "class": "civil", "platform": "iCivil (smartphone app with coded wristbands, 'bubble codes')", "owner": "Direction générale de la modernisation de l'état civil (DGMEC), with UNFPA support", "tiers": "maternity wards at health centres; pilot in ten maternity wards in Ouagadougou; a village clinic at Rapadama, Ganzourgou"}
+  ],
+  "note": "Classed civil because this document says the birth is registered at the health facility, directly into the central system; the publisher is the platform's own vendor."
+}

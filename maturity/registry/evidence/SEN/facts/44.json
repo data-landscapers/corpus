@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-09-connectingafrica-free-internet-cyber-risks",
+  "facts": [],
+  "systems": [
+    {"system": "biometric population register", "country_label": "biometric population register", "class": "identity", "platform": "", "owner": "Directorate of File Automation (DAF), Ministry of Interior and Public Security", "tiers": "national; issues national ID cards, passports and residency documents; hacked in February 2026, with birth records among the data reported taken"}
+  ],
+  "note": "Universal connectivity plan and the hack of the DAF's population register, an identity system; nothing on how a civil-status office records an event."
+}

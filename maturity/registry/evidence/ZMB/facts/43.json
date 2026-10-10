@@ -1,0 +1,11 @@
+{
+  "slug": "2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Registration Information System (INRIS) project", "country_label": "INRIS", "class": "identity", "platform": "", "owner": "Department of National Registration, Passports and Citizenship, under the Ministry of Home Affairs and Internal Security", "tiers": "planned issue of new biometric National Registration Cards to all citizens, extended to refugees and former refugees in Kalumbila, Nchelenge and Kaoma districts; the project's stated objective is to improve civil registration and identity management through digitisation and automation; card issuance is validated from INRIS"},
+    {"system": "UNHCR ProGres", "country_label": "", "class": "identity", "platform": "ProGres, UNHCR's registration and case management system", "owner": "UNHCR, to be transferred to the Ministry of Home Affairs and Internal Security", "tiers": "refugees and other persons of concern"},
+    {"system": "Refugee ID campaigns with mobile registration camps", "country_label": "", "class": "outreach", "platform": "biometric registration kits", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "community-level campaigns in three refugee-hosting districts"},
+    {"system": "IT upgrading at Ministry of Home Affairs offices in the three refugee settlements", "country_label": "", "class": "enabling", "platform": "", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "planned, so that future documentation requests are done locally and digitally without travel to Lusaka"}
+  ],
+  "note": "The appraisal document counts refugees 'integrated in national civil registration' by identity cards issued; INRIS appears only as the card-issuing project, and nothing states how or where a birth or death is entered. The Birth and Death Registration Act is named once, in a list of laws."
+}

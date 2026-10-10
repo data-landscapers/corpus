@@ -1,0 +1,39 @@
+{
+  "slug": "2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGA",
+      "country_label": "base de dados do registo civil (SIGA e Bilhete de Identidade); sistemas de registo civil",
+      "class": "",
+      "platform": "",
+      "owner": "Direção-Geral dos Registos e Notariado (DGRN)",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Bilhete de Identidade",
+      "country_label": "Bilhete de Identidade",
+      "class": "identity",
+      "platform": "",
+      "owner": "Direção-Geral dos Registos e Notariado (DGRN)",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Plataforma de interoperabilidade para o recenseamento eleitoral automático e permanente",
+      "country_label": "plataforma de interoperabilidade entre a base de dados do registo civil e a do recenseamento eleitoral",
+      "class": "land",
+      "platform": "Under development by the University of Aveiro",
+      "owner": "PReSE project (EU-financed, implemented by Portuguese Cooperation through Camões), with the DGRN and the Comissão Eleitoral Nacional / Gabinete Técnico Eleitoral",
+      "tiers": "National"
+    },
+    {
+      "system": "Equipment for the DGRN's civil registry systems (PReSE)",
+      "country_label": "equipamentos essenciais para estabilizar e modernizar os sistemas de registo civil (SIGA e Bilhete de Identidade)",
+      "class": "enabling",
+      "platform": "",
+      "owner": "PReSE project, for the DGRN",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "SIGA is named as the civil registry database without a description of how or where its records are made, so no fact is taken; the press note announces the electoral platform and training."
+}

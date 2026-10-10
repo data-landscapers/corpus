@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-17-electoral-reform-technical-committee-report",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration Card (NRC)", "country_label": "NRC", "class": "identity", "platform": "", "owner": "Department of National Registration, Passport and Citizenship (DNRPC)", "tiers": ""},
+    {"system": "Register of voters", "country_label": "voters' roll", "class": "land", "platform": "", "owner": "Electoral Commission of Zambia", "tiers": ""}
+  ],
+  "note": "Electoral reform report (excerpt): recommends the electoral commission work with DNRPC on a digitised NRC and joint issue of NRC and voter's card; it mentions integrating civil registry databases with voter registration only as practice in other countries, and states nothing about how births or deaths are registered in Zambia."
+}

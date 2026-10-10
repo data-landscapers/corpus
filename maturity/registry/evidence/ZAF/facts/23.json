@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification",
+  "facts": [],
+  "systems": [
+    {"system": "SASSA biometric enrolment and verification (fingerprint at local offices; electronic facial biometric on online portals)", "country_label": "biometric enrolment", "class": "identity", "platform": "", "owner": "SASSA", "tiers": "SASSA local offices and online application portals; 997,379 beneficiaries verified at local offices from September 2025 to 2026-03-11; facial check relies on the biometric image captured by Home Affairs at Smart ID application"}
+  ],
+  "note": "Social grant biometric verification; nothing on civil registration."
+}

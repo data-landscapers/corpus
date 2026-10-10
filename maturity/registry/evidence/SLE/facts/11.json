@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-07-sierra-leone-npha-digital-mortality-surveillance-system",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Digital Mortality Surveillance, Registration and Certification System", "country_label": "Integrated National Digital Mortality Surveillance, Registration and Certification System", "class": "notification", "platform": "", "owner": "National Public Health Agency (NPHA)", "tiers": "Not yet built: prospective suppliers engaged and a prototype dashboard shown (reported 7 August 2026); planned with web, mobile and offline use, and expected to integrate with the Medical Certification of Cause of Death work of the Ministry of Health, NCRA and WHO"},
+    {"system": "National Health Information Hub", "country_label": "National Health Information Hub", "class": "", "platform": "", "owner": "", "tiers": "Launched January 2026; integrates health data streams"},
+    {"system": "electronic Integrated Disease Surveillance and Response (eIDSR)", "country_label": "eIDSR", "class": "", "platform": "", "owner": "National Public Health Agency (NPHA)", "tiers": "Health facilities nationwide"}
+  ],
+  "note": "The system is the public health agency's, planned and not the civil registrar's, so no fact is recorded; the document also states that only about 13.4 per cent of deaths are fully registered, a share of events and not of offices."
+}

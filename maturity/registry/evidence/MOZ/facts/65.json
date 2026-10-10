@@ -1,0 +1,58 @@
+{
+  "slug": "2021-06-29 Mozambique Digital Governance and Economy Project - PID (EDGE, P172350, World Bank)",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank's appraisal-stage project document of 29 June 2021 proposes US$58 million of a US$150 million IDA grant for civil registration and identification, supporting the Ministries of Justice and Interior, including digitisation of paper registration records into e-SIRCEV, mobile civil registration logistics and a unique identification number; a further US$13 million subcomponent buys broadband connectivity for agencies such as civil registration and identification.",
+      "as_of": "2021-06-29",
+      "date_precision": "day",
+      "system": "e-SIRCEV",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-SIRCEV",
+      "country_label": "e-SIRCEV",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "digitisation of paper registration records into e-SIRCEV",
+      "country_label": "digitization of paper-based registration records into e-SIRCEV",
+      "class": "archive",
+      "platform": "",
+      "owner": "Ministry of Justice, financed by the World Bank (EDGE, P172350)",
+      "tiers": "Not stated; proposed in 2021"
+    },
+    {
+      "system": "mobile civil registration",
+      "country_label": "mobile civil registration logistics; Identity for All presidential initiative",
+      "class": "outreach",
+      "platform": "",
+      "owner": "Ministry of Justice and Ministry of Interior, financed by the World Bank (EDGE, P172350)",
+      "tiers": "Focus on rural areas, women and displaced people; proposed in 2021"
+    },
+    {
+      "system": "unique identification number across civil registry and civil identification databases",
+      "country_label": "unique identification number (UIN) via interoperable civil registry and civil identification databases",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Justice and Ministry of Interior",
+      "tiers": "Proposed in 2021"
+    },
+    {
+      "system": "government connectivity for civil registration and identification",
+      "country_label": "GovNet; targeted purchase of broadband connectivity for specific agencies",
+      "class": "enabling",
+      "platform": "",
+      "owner": "INAGE",
+      "tiers": "Specific ministries and agencies, civil registration and identification given as the example; proposed in 2021"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-02-01-e-government-technology-roadmap",
+  "facts": [],
+  "systems": [
+    {"system": "Birth Registration System", "country_label": "Birth Registration System", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Identification Platform / National Identification system", "country_label": "National Identification system", "class": "identity", "platform": "", "owner": "", "tiers": "national shared soft infrastructure"},
+    {"system": "Integrated Land Management Information System", "country_label": "Integrated Land Management Information System", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The roadmap (February 2024) lists a 'Birth Registration System' by name only, among example e-services under Home Affairs, Foreign Affairs and Legal Services in Appendix 1; it says nothing of what the system does, who runs it or where it is used."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-29 Deadline extended for Benin digital government transformation tender",
+  "facts": [],
+  "systems": [
+    {"system": "National Register of Natural Persons (RNPP)", "country_label": "National Register of Natural Persons (RNPP)", "class": "identity", "platform": "", "owner": "", "tiers": "national; a biometric register of 10 million people, which the tender notice calls the product of a civil registration exercise"},
+    {"system": "X-Road data-sharing platform", "country_label": "X-Road", "class": "", "platform": "X-Road", "owner": "", "tiers": "implemented for online data sharing; no link to the civil register is stated"},
+    {"system": "Foundational identity (fID) certificate", "country_label": "fID certificate", "class": "identity", "platform": "", "owner": "", "tiers": "supported by the WURI project"}
+  ],
+  "note": "A GIZ tender for a development environment for public e-services; nothing on how births or deaths are registered."
+}

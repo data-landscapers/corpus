@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-21 How foreign domains compromise digital identity",
+  "facts": [],
+  "systems": [
+    {"system": "Anambra State local government sub-domains for birth registration", "country_label": "", "class": "", "platform": "", "owner": "Anambra State ICT Agency", "tiers": "sub-domains extended to local governments for services such as birth registration and certificates of origin; what the service does is not described"}
+  ],
+  "note": "About the .ng national domain; its one mention of birth registration is that Anambra State has extended government sub-domains to local governments for such services, with no description of the service."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-04-amecc-comores-atelier-lancement-etude-digitalisation-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "AMECC Comores reports that the workshop of 2 October launching the study for digitalisation of the civil registration system validated the methodology and roadmap and set up a governance structure; the post gives no year, taken as 2025 from its published date.", "as_of": "2025-10-02", "date_precision": "day", "system": "AMECC (étude pour la digitalisation du système d'état civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "AMECC (étude pour la digitalisation du système d'état civil)", "country_label": "AMECC Comores", "class": "civil", "platform": "", "owner": "AMECC Comores, a government project; supported by UNICEF Comores and the French embassy", "tiers": "Study stage; no system in service stated"}
+  ],
+  "note": ""
+}

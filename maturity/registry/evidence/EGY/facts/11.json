@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-12-egypt-privacy-chaos-sim-biometric-critique",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric identity verification for new mobile subscribers (proposed)", "country_label": "biometric identity verification", "class": "identity", "platform": "", "owner": "National Telecom Regulatory Authority", "tiers": "proposed for registration of new mobile network subscribers"}
+  ],
+  "note": "Feature on fraudulent SIM registration and proposed biometric verification; nothing on civil registration."
+}

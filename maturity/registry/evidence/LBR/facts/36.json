@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-01-liberia-executive-order-147-mandatory-nbis-enrollment",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "National Identity Register; National ID card; Foreigner ID card", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national; enrolment mandatory for all citizens and for foreign residents of 90 days or more from April 2025"},
+    {"system": "Identity Query Portal and e-Verification platform", "country_label": "Identity Query Portal; eVerification platform", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national; for ministries, agencies and eligible private institutions"}
+  ],
+  "note": "The order governs identity enrolment and verification; registration of birth and death appears only in the recital of what the national identification number is the identity number for."
+}

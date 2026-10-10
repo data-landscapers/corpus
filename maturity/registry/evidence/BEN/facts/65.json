@@ -1,0 +1,8 @@
+{
+  "slug": "2020-03-01-instad-annuaire-statistiques-sanitaires-2019",
+  "facts": [],
+  "systems": [
+    {"system": "Sous-système d'état civil", "country_label": "Sous-système d'état civil", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The health statistics yearbook lists a civil-status sub-system among those that complement routine health reporting and says nothing of what it does; the excerpt otherwise describes DHIS2, an aggregate health-data platform outside the study's field."
+}

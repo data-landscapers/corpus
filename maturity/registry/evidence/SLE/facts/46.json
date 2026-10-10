@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-15-ncra-mocti-digital-governance-mou",
+  "facts": [],
+  "systems": [
+    {"system": "Data Exchange Layer", "country_label": "Data Exchange Layer (DEL)", "class": "exchange", "platform": "", "owner": "National Civil Registration Authority (NCRA) and Ministry of Communication, Technology and Innovation (MoCTI), under an MoU signed 10 May 2024", "tiers": "National; to be established, for real-time identity verification and data exchange between NCRA and ministries, departments and agencies"},
+    {"system": "NCRA Tier-3 Primary Data Center", "country_label": "Tier-3 Primary Data Center", "class": "enabling", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; primary host for identity data, offering hosting to ministries, departments and agencies"}
+  ],
+  "note": "An MoU on identity data hosting and exchange; birth and death registration appear only as items of the NCRA website menu, and nothing is said of how offices record events."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that registry offices in the interior regions (Tadjourah, Obock, Dikhil, Ali-Sabieh, Arta) record vital events in paper registers with no computers or internet and send monthly statistics physically to the centre, citing a WHO assessment of about 2013.", "as_of": "2013", "date_precision": "year", "system": "paper registers", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The essay's country table states that it found no evidence of digital recording or pilots in rural registry offices and calls them entirely paper-based; plans of 2013 for computers are unconfirmed in recent sources; the statement carries no date of its own, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "paper registers", "country_label": "rural registry offices (interior regions)", "class": "civil", "platform": "paper", "owner": "", "tiers": "registry offices of the interior regions: Tadjourah, Obock, Dikhil, Ali-Sabieh, Arta"},
+    {"system": "databases for hospital births", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "urban areas"},
+    {"system": "RNPP biometric ID system", "country_label": "RNPP; NNI", "class": "identity", "platform": "", "owner": "", "tiers": "assigns the NNI to those in the civil registries (2019)"}
+  ],
+  "note": "This source is listed under exclude_sources in study.json (an AI-assisted compilation by its own header); the facts are recorded as the document states them and are the parent's to exclude."
+}

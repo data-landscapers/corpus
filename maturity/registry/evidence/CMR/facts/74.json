@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-04-minsante-plan-strategique-national-sante-numerique-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Système de gestion de l'État Civil du BUNEC", "country_label": "système de gestion de l'État Civil", "class": "", "platform": "", "owner": "Bureau National de l'État Civil (BUNEC)", "tiers": ""},
+    {"system": "Interoperability framework for birth declaration between DHIS2 and BUNEC's civil status management system", "country_label": "cadre d'interopérabilité pour la déclaration des naissances", "class": "exchange", "platform": "DHIS2 (health side)", "owner": "Ministère de la Santé Publique and BUNEC", "tiers": "stated as put in place under the 2020-2024 digital health plan; no coverage given"}
+  ],
+  "note": "A digital health plan; it names BUNEC's civil status management system without saying what it does, and an interoperability framework with DHIS2 for birth declaration, which is an exchange. Neither gives a fact for civil registration at local offices."
+}

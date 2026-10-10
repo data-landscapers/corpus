@@ -1,0 +1,12 @@
+{
+  "slug": "2024-06-07-worldbank-chad-adaptive-and-productive-safety-nets-pad",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank's appraisal document states that Chad created ANATS in 2016 as the government institution in charge of operationalising the civil registry and issuing identity cards; the standing arrangement is undated, so the document's date is used.", "as_of": "2024-06-07", "date_precision": "day", "system": "Civil registry", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil registry", "country_label": "civil registry", "class": "civil", "platform": "", "owner": "ANATS", "tiers": "national; the document reports significant deficiencies in civil registration, especially in rural areas"},
+    {"system": "ANATS biometric identity cards for nationals and refugees", "country_label": "", "class": "identity", "platform": "biometrics", "owner": "ANATS, with CNARR and UNHCR for refugees under a memorandum of understanding", "tiers": "national; 1,623,000 people held a secure ID as of March 2024 per ANATS, and around 200,000 refugees had biometric data taken as of April 2024"},
+    {"system": "Unified Social Registry (USR)", "country_label": "Unified Social Registry", "class": "", "platform": "", "owner": "", "tiers": "a social protection register, which fits none of the typology's classes; hindered by the lack of identification"}
+  ],
+  "note": "Passages only. The document says nothing on how civil registration offices make their record; the one fact is who holds the civil registry."
+}

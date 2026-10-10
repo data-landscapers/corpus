@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-world-bank-ago-2023-projecto-njila-registration-bw10",
+  "facts": [],
+  "systems": [
+    {"system": "Projecto Njila birth-registration posts", "country_label": "postos de registo de nascimento (Projecto Njila, Component III)", "class": "enabling", "platform": "", "owner": "Ministry of Territorial Administration (coordination); Ministry of Justice and Human Rights (Component III); World Bank financing of US$250 million for the whole project", "tiers": "eight provinces, 53 municipalities; eleven posts rehabilitated in Bié and thirteen nearing completion in Huambo by 2025"},
+    {"system": "Projecto Njila birth-registration and identity card campaigns", "country_label": "campanhas de registo de nascimento e emissão do Bilhete de Identidade", "class": "outreach", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "mass campaigns in the project's provinces"}
+  ],
+  "note": "A deal record: it states that the World Bank-financed Njila project, launched in 2023, rehabilitates birth-registration posts and runs mass registration campaigns; it describes premises and campaigns, not a system in which an office makes a digital record."
+}

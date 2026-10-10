@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-28-tdr-localizacao-empresa",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de registo de propriedades", "country_label": "sistema de registo de propriedades", "class": "land", "platform": "", "owner": "", "tiers": "not stated; existing modules to be upgraded and new ones built, with a diagnosis of services in the main cities including Praia"}
+  ],
+  "note": "Terms of reference for a consultancy on property registration, construction and environmental licensing under the World Bank-financed Cabo Verde Digital project; 'conservatória' here is the land registry only. Nothing on civil registration. The PDEX interoperability platform is named only as the integration layer the new property modules must use."
+}

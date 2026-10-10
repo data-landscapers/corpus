@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-biometricupdate-togo-6m-niu-mosip",
+  "facts": [],
+  "systems": [
+    {"system": "national digital ID project", "country_label": "Unique Identification Number (NIU) and biometric ID card; WURI-Togo", "class": "identity", "platform": "MOSIP", "owner": "National Identification Agency (ANID), under the Ministry of Public Service Efficiency and Digital Transformation; technical implementation by an Atos and Idemia consortium", "tiers": "national; over six million NIUs issued as of December 2025"}
+  ],
+  "note": "Identity system only; civil registration is not mentioned."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-04-mwi-nrb-birth-registration-campaign-phase-one",
+  "facts": [],
+  "systems": [
+    {"system": "National Birth Registration Campaign (NBRC)", "country_label": "NBRC", "class": "outreach", "platform": "records synchronise with the NRB Database", "owner": "National Registration Bureau, with funds from the Government of Malawi", "tiers": "Phase One in Chitipa, Likoma, Dedza, Blantyre Rural and Machinga, 26 January to 4 February 2026, about 2,000 registration staff including teachers; slightly over 970,400 records synchronised by 6 February 2026, about 88 per cent of the 1.1 million targeted; seven phases planned, about 8 million children targeted"},
+    {"system": "NRB Database", "country_label": "NRB Database", "class": "", "platform": "", "owner": "National Registration Bureau", "tiers": "central; receives the campaign's synchronised records"}
+  ],
+  "note": "A ten-day registration campaign with fielded staff, which the typology classes as outreach; it gives no fact about local offices registering digitally."
+}

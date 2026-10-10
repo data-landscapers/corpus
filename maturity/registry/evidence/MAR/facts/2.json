@@ -1,0 +1,39 @@
+{
+  "slug": "2026-09-15-programme-de-modernisation-de-letat-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "base de données électronique de l'état civil (reprise de l'historique)",
+      "country_label": "base de données électronique de l'état civil",
+      "class": "archive",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, Direction Générale des Collectivités Locales",
+      "tiers": "keying and cleaning of acts since 1915; tried in several civil-status offices (BEC), then extended to all BEC of the Kingdom"
+    },
+    {
+      "system": "nouveau système d'information de l'état civil",
+      "country_label": "nouveau système d'information pour la modernisation de la structure de l'état civil",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur",
+      "tiers": "being installed (\"en cours d'instauration\"); tiers not stated"
+    },
+    {
+      "system": "watiqa.ma",
+      "country_label": "guichet électronique de commande de documents administratifs",
+      "class": "certificate",
+      "platform": "",
+      "owner": "",
+      "tiers": "online ordering of birth-act copies, delivered by registered post"
+    },
+    {
+      "system": "Alhalalmadania.ma",
+      "country_label": "portail de l'état civil",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: undated ministry page (published date is an ingest proxy) on the 2011-2015 modernisation programme; the only system it describes in use is the back-capture database (archive), and the new information system is named without saying what it does. Denominator stated: 2,176 civil-status offices with over 12,000 communal staff; steering committee set up by ministerial order of 1 November 2010."
+}

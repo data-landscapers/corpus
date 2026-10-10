@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-27-timeslive-home-affairs-id-fraud-smart-id",
+  "facts": [],
+  "systems": [
+    {"system": "green ID book", "country_label": "green ID book", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "about 16 million holders"},
+    {"system": "smart ID card", "country_label": "smart ID card", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": ""},
+    {"system": "electronic travel authorisation", "country_label": "ETA", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": "About 300,000 blocked identity documents and one contested birth registration; nothing on how offices record births or deaths. Captured body is an excerpt, truncated in the court section."
+}

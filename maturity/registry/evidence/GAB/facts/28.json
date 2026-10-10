@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-02-gabon-electronic-id-11-year-hiatus",
+  "facts": [],
+  "systems": [
+    {"system": "National Electronic Identity Card (CNIE)", "country_label": "Carte nationale d'identité électronique (CNIE)", "class": "identity", "platform": "", "owner": "", "tiers": "issued initially only in Libreville (July 2024), with plans to extend to all police stations nationwide"},
+    {"system": "NIP enrolment campaign", "country_label": "Numéro d'Identification Personnel (NIP); called a civil registry issuance campaign by the article", "class": "identity", "platform": "", "owner": "", "tiers": "registration centres set up in the Libreville region from May 2024 to issue the NIP needed for the CNIE"},
+    {"system": "Biometric national registry project (2012)", "country_label": "biometric national registry", "class": "identity", "platform": "awarded in 2012 to Thales Digital Identity Security; cards later contracted to Semlex, contract reportedly terminated; Thales reported as taking over", "owner": "", "tiers": "national; first ID cards issued 2013"}
+  ],
+  "note": "The article's 'civil registry issuance campaign' is enrolment for the personal identification number (class identity), not registration of births or deaths; no fact for the civil sub-indicator."
+}

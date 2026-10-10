@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-19-com-2025-06-0615",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The budget line record states that the 2025 appropriation to the Direction de l'État Civil et Casier Judiciaire (KMF 3,000,000, revised to 2,000,000) funds the registry's ordinary running in goods and services and names no digital or modernisation activity, and that civil registration modernisation is entirely donor-financed, through France's AMECC project.", "as_of": "2025", "date_precision": "year", "system": "Appui à la modernisation de l'état civil aux Comores (AMECC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Appui à la modernisation de l'état civil aux Comores (AMECC)", "country_label": "AMECC", "class": "civil", "platform": "", "owner": "Financed by France; in the 2026 finance law's public-investment programme annexe", "tiers": "Digitisation study for Mohéli run in October 2025"},
+    {"system": "Biometric documents (Semlex)", "country_label": "Documents Biométriques Semlex", "class": "identity", "platform": "", "owner": "Semlex, named in the revenue nomenclature", "tiers": "Not stated"}
+  ],
+  "note": "The domestic line (service 06 0615, under the Ministry of Justice) names no system, so no finance:domestic fact is recorded for it; the parent may read it otherwise."
+}

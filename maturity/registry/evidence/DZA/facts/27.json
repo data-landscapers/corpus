@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-16-transactions-immobilieres-interoperabilite-nouvel-accord",
+  "facts": [],
+  "systems": [
+    {"system": "Cadastral and land databases of the Direction générale des Domaines, opened to notaries online", "country_label": "bases cadastrales et foncières", "class": "land", "platform": "", "owner": "Direction générale des Domaines, Ministry of Finance", "tiers": "national; notaries given direct online access under a protocol signed in August 2025"}
+  ],
+  "note": "The document concerns land and cadastral data only; nothing on civil registration."
+}

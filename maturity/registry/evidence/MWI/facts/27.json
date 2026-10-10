@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-25-dmap-lims-implementation-support-mission",
+  "facts": [],
+  "systems": [
+    {"system": "Land Information Management System (LIMS)", "country_label": "LIMS", "class": "land", "platform": "", "owner": "Ministry of Lands and Urban Development, supported by the World Bank Digital Malawi Acceleration Project", "tiers": "district level; 647 District Land Officers trained nationwide, over 400 computers and more than 100 printers supplied"}
+  ],
+  "note": "About the land information system, which is out of the study's scope; nothing on civil registration."
+}

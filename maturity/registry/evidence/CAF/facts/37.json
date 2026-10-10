@@ -1,0 +1,36 @@
+{
+  "slug": "2017-12-05-crvs-profile-central-african-republic",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "UNICEF's country profile, compiled between December 2016 and November 2017, gives the processing of births and of deaths as manual, on paper: all vital events are recorded by hand on non-standardised forms, at main centres in municipalities and boroughs and at secondary centres in villages, urban areas and health facilities, and sent to the Central Registry.",
+      "as_of": "2017-11",
+      "date_precision": "month",
+      "system": "main and secondary civil registration centres (paper forms)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "none",
+      "fact": "UNICEF's country profile, compiled between December 2016 and November 2017, gives both birth and death registration as processed manually on paper, on handwritten forms that it says cannot later be read by optical character recognition.",
+      "as_of": "2017-11",
+      "date_precision": "month",
+      "system": "main and secondary civil registration centres (paper forms)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Civil registration centres",
+      "country_label": "main civil registration centres; secondary centres; Central Registry (DGMEC/MATDSI)",
+      "class": "civil",
+      "platform": "paper: handwritten, non-standardised forms",
+      "owner": "Directorate General of Decentralization and Local Development, Ministry of the Interior and Territorial Administration; mayors and municipal officers",
+      "tiers": "main centres at the seats of municipalities, boroughs and diplomatic missions (births, marriages, deaths); secondary centres in villages, urban areas and health facilities (births and deaths); forms transmitted to the Central Registry"
+    }
+  ],
+  "note": ""
+}

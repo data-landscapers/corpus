@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-04-ben-beninwebtv-anip-50109-actes-de-naissance-septembre",
+  "facts": [],
+  "systems": [
+    {"system": "ANIP BJ application", "country_label": "application ANIP BJ", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "families collect the free birth act through the app"},
+    {"system": "ANIP services portal", "country_label": "portail de services de l'ANIP", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "families collect the free birth act through the portal or at ANIP's deconcentrated units"},
+    {"system": "Free birth-act campaign for under-14s, 16-30 September 2026", "country_label": "campagne spéciale, Journée internationale de l'identité", "class": "outreach", "platform": "", "owner": "ANIP, with WURI-Bénin and UNICEF support", "tiers": "launched at Parakou; 50,109 acts delivered free in September 2026; 814 children enrolled at Agonvè (Zangnanado) on the prosecutor's requisition"}
+  ],
+  "note": "A campaign delivering copies of birth acts to children under 14; it states nothing about how a local office records a birth or death."
+}

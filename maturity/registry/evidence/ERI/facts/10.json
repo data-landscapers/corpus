@@ -1,0 +1,34 @@
+{
+  "slug": "2025-11-01-us-state-dept-eritrea-civil-documents-national-id",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "D",
+      "fact": "The US State Department states that the official Certificate of Death, issued by the local municipality, is computerized, assigned a registration number and authenticated by local authorities; it does not say how or where the record is entered and gives no date, so the published date (itself a proxy) is used.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Public Registration office (municipal death certificates)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Public Registration office / Office of Civil Status",
+      "country_label": "Public Registration office; Office of Civil Status, Municipality of Asmara",
+      "class": "civil",
+      "platform": "",
+      "owner": "municipalities",
+      "tiers": "Asmara and any other municipality office in which the event was registered"
+    },
+    {
+      "system": "Eritrean ID card",
+      "country_label": "Eritrean ID card",
+      "class": "identity",
+      "platform": "",
+      "owner": "Department of Immigration and Nationality",
+      "tiers": ""
+    }
+  ],
+  "note": "The one fact rests on a single sentence about death certificates being computerized; nothing equivalent is said of births, which are registered at municipality offices on hospital records, baptismal certificates and notarised witness statements."
+}

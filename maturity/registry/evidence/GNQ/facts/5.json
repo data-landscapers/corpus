@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-12-cnedoge-nuevas-oficinas-citas-online-ahoraeg",
+  "facts": [],
+  "systems": [
+    {"system": "CNEDOGE official-document issuance offices", "country_label": "CNEDOGE", "class": "identity", "platform": "", "owner": "CNEDOGE", "tiers": "two new provincial offices inaugurated on 12 June 2026, in Mongomo and Ciudad de la Paz, besides the central offices"},
+    {"system": "CNEDOGE online appointment system", "country_label": "cita previa", "class": "identity", "platform": "www.cnedoge.com", "owner": "CNEDOGE", "tiers": "online, for scheduling document applications at its offices"}
+  ],
+  "note": "Official-document issuance offices and an online appointment system of CNEDOGE; nothing on the civil registry or on how births and deaths are registered."
+}

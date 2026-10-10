@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+KEN,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09,KEN-004;KEN-005;KEN-023,KEN-008=owner:ministry;KEN-011=owner:ministry;KEN-015=owner:ministry;KEN-022=owner:ministry;KEN-025=finance:donor;KEN-024=finance:domestic,
+KEN,civil,events,coverage,B;D,2026-09,KEN-001;KEN-009,KEN-013=none;KEN-016=B;D,
+KEN,civil,made,coverage,connected,2026-09,KEN-002;KEN-017,KEN-010=local;KEN-012=paper;KEN-018=local;KEN-019=paper,
+KEN,civil,last12,qualifier,advancing,2026-09,KEN-003;KEN-007,,
+KEN,civil,offices,coverage,pilot,2018-12,KEN-020,KEN-014=none;KEN-021=not-published,

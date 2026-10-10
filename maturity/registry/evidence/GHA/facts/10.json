@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-29-ghana-gra-tin-taxpayer-identification-number",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card Personal Identification Number (Ghana Card PIN)", "country_label": "Ghana Card PIN", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "national; the individual taxpayer identifier since 1 April 2021, with NIA co-located at selected GRA offices"}
+  ],
+  "note": "Taxpayer identification; the Registrar-General's Department here is the business registrar. Nothing on civil registration."
+}

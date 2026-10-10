@@ -1,0 +1,8 @@
+{
+  "slug": "2011-08-08-liberia-national-identification-registry-act-2011",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "National Biometric Identification System (NBIS)", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR), an autonomous entity in the Executive Branch", "tiers": "National; the Act requires every citizen to enrol and gives no office network"}
+  ],
+  "note": "An identity statute (approved 1 August 2011, published 8 August 2011), not a civil registration one. It touches civil registration only in that the Social Security Number is to be the primary identity number for registration of birth and death among other documents, a birth certificate is required to obtain the biometric card, the Registry is to advise government on information collected to register births, and the Minister of Health sits on the Board of Registrars. Nothing on how a birth or death is recorded."
+}

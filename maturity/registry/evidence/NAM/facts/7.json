@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-namibia-digital-id-rollout-concerns",
+  "facts": [],
+  "systems": [
+    {"system": "electronic identity cards (e-IDs)", "country_label": "e-ID", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "national; rollout planned for September 2026"}
+  ],
+  "note": "Public concerns over the electronic identity card; the April 2026 Telecom Namibia outage is reported as a connectivity risk to it, and nothing is stated on civil registration."
+}

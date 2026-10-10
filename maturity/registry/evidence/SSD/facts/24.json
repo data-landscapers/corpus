@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-25-mobile-registration-kits-deployed",
+  "facts": [],
+  "systems": [
+    {"system": "mobile registration kits", "country_label": "new-generation mobile registration kits", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports, and Immigration", "tiers": "100 kits acquired by 24 April 2026 for all ten states, the three administrative areas and embassies, with service points aimed at all 79 counties; application data sent to Juba for final production"},
+    {"system": "passport, nationality certificate and ID card printing", "country_label": "", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports, and Immigration", "tiers": "Juba; five printing machines expected by the end of April 2026"}
+  ],
+  "note": "The kits process nationality documentation and passport applications with biometric capture; the document says nothing of births or deaths being registered on them."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-09-gab-gabonreview-poste-sa-akiba-super-app",
+  "facts": [],
+  "systems": [
+    {"system": "Akiba", "country_label": "Akiba (super-application de Poste S.A.)", "class": "certificate", "platform": "developed by Gabonese engineers, hosted in Gabon; USSD version announced", "owner": "Poste S.A.", "tiers": "announced 9 October 2026; app-store launch still to come; a user is to be able to request a birth certificate, collected and delivered by the postal network"}
+  ],
+  "note": "Akiba is a request-and-delivery channel for copies of a birth certificate (class certificate), not the registrar's system; no fact for the civil sub-indicator."
+}

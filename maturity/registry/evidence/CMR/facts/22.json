@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-13 Cameroon intros digital system for civil documents",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:10", "fact": "ITWeb Africa, citing UNDP, says the digital civil status system covers ten municipalities in the Far North, North-West and South-West: Maroua III, Koza, Mindif, Meri, Mora, Limbe I, Buea City Council, Tiko, Bamenda III and Bamenda City Council; no national total is given and the coverage is undated, so the date is the publication date.", "as_of": "2026-01-13", "date_precision": "day", "system": "digital civil status system at council level (UNDP)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "ITWeb Africa says the system lets birth, marriage and death certificates be securely issued, stored and retrieved at council level; Limbe I's civil status chief says a birth certificate no longer takes three hand-filled pages; date is the publication date.", "as_of": "2026-01-13", "date_precision": "day", "system": "digital civil status system at council level (UNDP)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "ITWeb Africa reports in January 2026 that Cameroon has introduced a digital system for processing and archiving civil status records at council level, in ten municipalities of three regions, with Limbe I pioneering it in the South-West.", "as_of": "2026-01", "date_precision": "month", "system": "digital civil status system at council level (UNDP)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:partner", "fact": "The initiative is implemented by UNDP, per ITWeb Africa; no national registration body is named in the captured text; date is the publication date.", "as_of": "2026-01-13", "date_precision": "day", "system": "digital civil status system at council level (UNDP)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The initiative is funded by Denmark through the UNDP Funding Windows, per ITWeb Africa; date is the publication date.", "as_of": "2026-01-13", "date_precision": "day", "system": "digital civil status system at council level (UNDP)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital civil status system at council level (UNDP)", "country_label": "digitalisation of civil status documents; civil registration software", "class": "civil", "platform": "", "owner": "implemented by UNDP, funded by Denmark", "tiers": "ten municipalities: Maroua III, Koza, Mindif, Meri, Mora (Far North); Limbe I, Buea City Council, Tiko (South-West); Bamenda III, Bamenda City Council (North-West)"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2023-03-02-somalia-birth-registration-benadir-regional-administration",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The Ministry of Interior, Federal Affairs and Reconciliation stated in a report of 22 June 2021, as quoted by Canada's Immigration and Refugee Board, that there was no national system of civil registration, birth registration included, and no institution with authority to maintain civil birth registration in any federal member state; the document says nothing of any digital record.", "as_of": "2021-06-22", "date_precision": "day", "system": "national system of civil registration (stated absent)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "A UNHCR Somalia representative told the Board that the Council of Ministers approved the CRVS Policy in August 2021 by Regulation No. 135; the policy aims to establish a public registration system issuing certificates for vital events.", "as_of": "2021-08", "date_precision": "month", "system": "public registration system under the CRVS Policy (planned)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "UNHCR Somalia reported on 10 February 2023 that the Ministry of Interior, Federal Affairs and Reconciliation was leading the CRVS bill and hoped to see it passed before the end of 2023.", "as_of": "2023-02-10", "date_precision": "day", "system": "public registration system under the CRVS Policy (planned)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "national system of civil registration (stated absent)", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "none: no national system at June 2021 by the interior ministry's account"},
+    {"system": "public registration system under the CRVS Policy (planned)", "country_label": "CRVS", "class": "civil", "platform": "", "owner": "Ministry of Interior, Federal Affairs and Reconciliation", "tiers": "planned; policy approved August 2021"},
+    {"system": "Benadir Regional Administration birth certificate issuance", "country_label": "birth certificate (BRA / Mogadishu Municipality)", "class": "", "platform": "", "owner": "Benadir Regional Administration (Mogadishu municipality)", "tiers": "district local government offices (Degmada) in Mogadishu take the application, personal details, photo and thumbprint for a US$24 fee and issue the certificate about a week later, to adults as well as newborns; whether the record is digital is not stated"},
+    {"system": "municipal registers and certificates", "country_label": "", "class": "", "platform": "", "owner": "some of the 22 municipal governments", "tiers": "some municipalities keep registers and issue birth, death and marriage certificates (2016 account); Baidoa, Jubaland and Puntland municipal offices named in 2022 focus groups"},
+    {"system": "hospital birth notification", "country_label": "birth notification", "class": "notification", "platform": "", "owner": "medical institutions", "tiers": "hospitals issue a birth document to children born there, of no standard form; not stated to reach a registrar"},
+    {"system": "Mogadishu population registration department", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "began in July 2014 issuing birth certificates for passport and visa purposes; another identity document system introduced in Mogadishu in 2016"}
+  ],
+  "note": ""
+}

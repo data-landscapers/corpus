@@ -1,0 +1,10 @@
+{
+  "slug": "1864-06-01-transcription-and-mortgage-act",
+  "facts": [],
+  "systems": [
+    {"system": "Movable and Immovable Property Database (MIPD)", "country_label": "MIPD", "class": "land", "platform": "", "owner": "Conservator of Mortgages", "tiers": "Mortgage Office; online access under section 63A"},
+    {"system": "RDDS", "country_label": "RDDS", "class": "land", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Cadastral Database (DCDB)", "country_label": "DCDB", "class": "land", "platform": "", "owner": "Ministry responsible for land surveys", "tiers": ""}
+  ],
+  "note": "A deeds and mortgage law; civil status appears only as the birth, marriage and death certificate numbers and Civil Status Office a deed must cite, and it says nothing of how a birth or death is registered."
+}

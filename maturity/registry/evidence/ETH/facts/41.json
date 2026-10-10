@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-01-unhcr-prospects-ethiopia-digital-id",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda Digital ID system", "country_label": "Fayda", "class": "identity", "platform": "", "owner": "National ID Program (NIDP)", "tiers": "national; refugee pilot began in Addis Ababa in March 2024; 176,663 refugees verified and included at 26 August 2025"},
+    {"system": "PRIMES", "country_label": "Population Registration and Identity Management Eco-System (PRIMES)", "class": "identity", "platform": "UNHCR PRIMES", "owner": "UNHCR and the Refugees and Returnees Service (RRS)", "tiers": "refugee registration; not stated by tier"},
+    {"system": "PRIMES Interoperability Gateway (PING)", "country_label": "", "class": "exchange", "platform": "UNHCR PING", "owner": "UNHCR", "tiers": "two-way data transfer between PRIMES and the NIDP system"},
+    {"system": "national civil registry system for vital events registration", "country_label": "", "class": "", "platform": "", "owner": "Vital Events Registration Agency", "tiers": "not stated"}
+  ],
+  "note": "A UNHCR case study of refugees' inclusion in the Fayda digital ID. It names the national civil registry system only to recommend two-way interoperability with the digital ID and refugee systems, and says vital events of refugees are still registered by RRS; it does not say what the civil registry system does or how any office records an event."
+}

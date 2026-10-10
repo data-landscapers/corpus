@@ -1,0 +1,9 @@
+{
+  "slug": "2022-11-11-mali-jo-2022-35-decret-2022-0639-carte-identite-biometrique",
+  "facts": [],
+  "systems": [
+    {"system": "Carte nationale d'identité biométrique sécurisée", "country_label": "Carte nationale d'identité biométrique sécurisée; its 'base de données carte d'identité' holds the fingerprints", "class": "identity", "platform": "", "owner": "Minister responsible for security", "tiers": "Issued or renewed by police commissioners, gendarmerie brigade commanders and sub-prefects; abroad by heads of diplomatic and consular missions"},
+    {"system": "Numéro d'Identification nationale (NINA)", "country_label": "NINA; carte NINA", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The decree institutes the biometric identity card; it names the birth certificate extract only as a document produced at first application and says nothing on how births or deaths are registered."
+}

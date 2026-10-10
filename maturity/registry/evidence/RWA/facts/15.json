@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-30-implementation-strategies-to-promote-e-tracker-use-in-childhood-immunization-rwanda",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": "children registered through it appear in the immunisation e-Tracker"},
+    {"system": "integration of the immunisation e-Tracker with CRVS and the national identification systems", "country_label": "", "class": "exchange", "platform": "DHIS2 Tracker (e-Tracker side)", "owner": "Ministry of Health; Rwanda Biomedical Center", "tiers": "integration took place in early 2022; e-Tracker in more than 500 public health facilities"},
+    {"system": "national identification agency system (NIDA)", "country_label": "NIDA", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A study of the immunisation registry in health facilities; the CRVS system is named only as a system the e-Tracker was linked to in early 2022, with no description of how it registers events."
+}

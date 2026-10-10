@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-16-mwi-undp-nzika-digital-id-wallet-national-id-expiry-removed",
+  "facts": [],
+  "systems": [
+    {"system": "Nzika Digital ID Wallet", "country_label": "Nzika", "class": "identity", "platform": "", "owner": "National Registration Bureau, developed with UNDP Malawi under the IDT4M programme with EU, Irish Aid and Norwegian support", "tiers": "citizens' devices; launched in Lilongwe on 16 September 2026; holds National IDs and birth, marriage and death certificates"},
+    {"system": "national registration and identification system", "country_label": "National ID", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national; near-universal coverage of eligible citizens aged 16 and over"}
+  ],
+  "note": "A release on the identity wallet's launch and the end of card expiry (capture truncated by the crawler); it states nothing about how or where births or deaths are registered."
+}

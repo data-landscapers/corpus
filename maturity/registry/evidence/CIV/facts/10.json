@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-16-oneci-jaec-2026-terminaux-numeriques",
+  "facts": [],
+  "systems": [
+    {"system": "terminaux numériques (smartphone with ONECI's civil status data collection software)", "country_label": "terminaux numériques", "class": "notification", "platform": "smartphone running data collection software developed by ONECI", "owner": "ONECI", "tiers": "health facilities of the Tonkpi region: 283 terminals handed over on 2026-08-11; health staff enter the birth and it is transmitted in real time to the civil status office (town hall or sub-prefecture)"}
+  ],
+  "note": "The terminal is used by health staff in health facilities, who capture the birth and transmit it to the Bureau d'état civil, which handles the declaration: notification, not the office's own registration system, so no fact. The parent's national identity card fills the identity data on the terminal."
+}

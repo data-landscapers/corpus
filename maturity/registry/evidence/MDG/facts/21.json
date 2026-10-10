@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-studia-inc-civil-registration-digitisation-madagascar",
+  "facts": [],
+  "systems": [
+    {"system": "EC-MADA programme: digitisation of civil registration records", "country_label": "EC-MADA", "class": "archive", "platform": "Studia Inc OCR models with blind double entry (algorithmic processing plus human validation); D.IA Advisory for integration into existing information systems and interoperability with national platforms", "owner": "Studia Inc, a vendor, within the national EC-MADA programme", "tiers": "inventory, digitisation and indexing of nearly 10 million existing civil registration records covering 1,695 communes across 11 priority regions, by autonomous mobile units; 500 people over 7 months (vendor's press release)"}
+  ],
+  "note": "Back-capture of paper civil registers already written; nothing on how an office records a new birth or death."
+}

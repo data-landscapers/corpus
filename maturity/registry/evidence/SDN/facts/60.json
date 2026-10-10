@@ -1,0 +1,10 @@
+{
+  "slug": "2011-11-15-sudan-national-information-society-profile",
+  "facts": [],
+  "systems": [
+    {"system": "السجل المدني (civil registry project)", "country_label": "مشروع السجل المدني", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "الرقم الموحد (unified number project)", "country_label": "مشروع الرقم الموحد", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "البطاقات الشخصية الالكترونية (electronic identity cards)", "country_label": "البطاقات الشخصية الالكترونية", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "An ESCWA information-society profile of 2011: the passages name the civil registry and unified number projects only as new state systems, holding identity documents and personal-status data, whose electronic interconnection raised the need for information security, and note that electronic identity cards are in use; what the civil registry project does at its offices is not described."
+}

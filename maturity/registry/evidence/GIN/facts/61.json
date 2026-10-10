@@ -1,0 +1,12 @@
+{
+  "slug": "2023-10-25-loi-l-2023-0020-etat-civil-republique-de-guinee",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The civil status law adopted on 25 October 2023 makes the ministry in charge of civil status responsible for designing and producing the recording media, buying, installing and maintaining the equipment and delivering it to the civil status centres (art. 65), and charges principal centres with the entry and electronic archiving of the civil status data they register (art. 59).", "as_of": "2023-10-25", "date_precision": "day", "system": "système d'enregistrement des faits d'état civil / registre national de l'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "registre de l'état civil ou système d'enregistrement des faits d'état civil; registre national de l'état civil", "country_label": "registre national de l'état civil", "class": "civil", "platform": "", "owner": "ministry in charge of civil status; officers of civil status (mayors) under the public prosecutor", "tiers": "in law: principal centres at the seats of urban and rural communes, embassies and consulates; secondary centres in quarters, districts and villages"},
+    {"system": "centres de déclaration and carnets de déclaration", "country_label": "centre de déclaration des faits d'état civil; agent de déclaration", "class": "notification", "platform": "paper: three-part self-carbon declaration booklets", "owner": "commune (contract agent), under the principal and secondary centre heads", "tiers": "in law: public and private health facilities, places of worship, cemeteries, villages, districts and quarters"},
+    {"system": "numéro personnel d'identification", "country_label": "numéro personnel d'identification", "class": "identity", "platform": "", "owner": "the competent service, unnamed", "tiers": ""}
+  ],
+  "note": "A statute, held as an excerpt ending in art. 88: it states what the law provides, not what offices do. It allows both paper and electronic recording media (art. 63), says declaration, registration and delivery are done by electronic processes (art. 8), yet requires acts to be written in indelible ink in secured duplicate registers supplied by the ministry (arts. 39-40), and leaves electronic management rules to a decree; no made, events or offices fact is taken from it."
+}

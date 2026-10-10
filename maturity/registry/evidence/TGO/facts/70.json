@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-01-tgo-actutogo-maeciate-16-demarches-en-ligne",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-services.diplomatie.gouv.tg",
+      "country_label": "portail consulaire (e-services.diplomatie.gouv.tg)",
+      "class": "certificate",
+      "platform": "",
+      "owner": "Ministère des Affaires étrangères, de la Coopération, de l'Intégration africaine et des Togolais de l'extérieur (MAECIATE)",
+      "tiers": "Togolese abroad, through diplomatic and consular missions; six consular services online from 1 October 2026, among them the establishment of birth and marriage acts, requested remotely and tracked online"
+    }
+  ],
+  "note": "No fact: the only civil-status content is a consular service for Togolese abroad, online from 1 October 2026, through which the establishment of birth and marriage acts is requested and tracked; the article does not say how or where the record is made, and no local registry office in Togo is concerned. It also names the Guichet national des démarches administratives digitalisées (ten foreign-ministry procedures, none of them civil registration) and a diaspora register on the consular portal listing nationals by country of residence and consular district."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-mali-plan-strategique-national-sante-numerique-2024-2028",
+  "facts": [],
+  "systems": [
+    {"system": "Rapidpro", "country_label": "Rapidpro: collecte des données sur l'état civil des enfants", "class": "", "platform": "RapidPro", "owner": "Direction Nationale de l'Etat Civil", "tiers": "53 cercles"}
+  ],
+  "note": "One row of the plan's inventory of e-health tools: RapidPro, used to collect data on children's civil status, Direction Nationale de l'Etat Civil, 53 cercles. The row does not say whether the tool registers a birth, notifies one or counts them, so no class and no fact."
+}

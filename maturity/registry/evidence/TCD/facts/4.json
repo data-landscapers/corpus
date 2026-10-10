@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-23-tcd-ndjampost-etat-civil-anats-transformation-numerique",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The commune of N'Djaména and ANATS launched on 23 September 2026 a project to modernise, digitalise and secure the commune's civil-status services and signed a protocol covering digitisation of registers, modernised procedures, digital solutions, interoperability where possible and staff training; nothing is reported in service.", "as_of": "2026-09-23", "date_precision": "day", "system": "Services d'état civil de la commune de N'Djaména", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The project is launched by the commune of N'Djaména and the state agency ANATS under a signed protocol, with the OIF's support.", "as_of": "2026-09-23", "date_precision": "day", "system": "Services d'état civil de la commune de N'Djaména", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Services d'état civil de la commune de N'Djaména", "country_label": "services d'état civil de la commune de la ville de N'Djaména", "class": "civil", "platform": "", "owner": "Commune de N'Djaména", "tiers": "N'Djaména commune"},
+    {"system": "Numérisation des registres (commune–ANATS project)", "country_label": "numérisation des registres", "class": "archive", "platform": "", "owner": "Commune de N'Djaména with ANATS; OIF support", "tiers": "N'Djaména commune (planned)"},
+    {"system": "SIGPTS", "country_label": "Système intégré de gestion des populations et des titres sécurisés", "class": "identity", "platform": "", "owner": "ANATS", "tiers": ""},
+    {"system": "Interconnexion of the town hall's systems with SIGPTS (planned)", "country_label": "", "class": "exchange", "platform": "", "owner": "ANATS and Commune de N'Djaména", "tiers": "N'Djaména commune (planned)"}
+  ],
+  "note": ""
+}

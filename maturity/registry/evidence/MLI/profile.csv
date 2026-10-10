@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MLI,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2025-02-14,MLI-003;MLI-004;MLI-005,MLI-006=owner:ministry;MLI-009=finance:donor;MLI-010=owner:ministry;MLI-013=owner:ministry;MLI-015=finance:not-stated;MLI-014=plan:current,
+MLI,civil,events,coverage,B;D,2024-12-16,MLI-008,MLI-011=B,
+MLI,civil,made,coverage,paper,2026-07-18,MLI-001;MLI-012,,
+MLI,civil,last12,qualifier,,,,,nothing held
+MLI,civil,offices,coverage,pilot,2024-12-16,MLI-007,,

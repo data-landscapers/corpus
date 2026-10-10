@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-26-alwasat-libya-civil-registry-nationality-fraud",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registry system and database", "country_label": "منظومة السجل المدني / قاعدة بيانات السجل المدني", "class": "civil", "platform": "not named; the source code is said not to have passed fully into state ownership", "owner": "Civil Status Authority (مصلحة الأحوال المدنية), Ministry of Interior", "tiers": "civil registry offices, put at 160 in all; office heads, section heads, clerks and IT staff are said to be able to enter changes into the official record"},
+    {"system": "Modern digital system to prevent forgery", "country_label": "منظومة رقمية حديثة", "class": "", "platform": "", "owner": "Attorney General's office with the competent bodies", "tiers": "under development, not described"}
+  ],
+  "note": "Sahra Intelligence's analysis of 66 Attorney General releases to April 2026. It describes weaknesses of the registry database (no audit server, no multi-stage approval of data entry and amendment, manual authentication of documents, late closure of deceased persons' records, source code not fully state-owned) and counts 160 civil registry offices, but does not state where or how a birth or death is entered, so no aspect takes a value."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-06-research-ict-africa-submission-sa-digital-id-regulations-amendment",
+  "facts": [],
+  "systems": [
+    {"system": "population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national"},
+    {"system": "Digital ID under the draft Digital Identity Regulations 2026", "country_label": "Digital ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "draft regulations published 2026-05-04; biometric enrolment on smartphones"},
+    {"system": "real-time identity verification service (API) for trusted entities", "country_label": "", "class": "identity", "platform": "", "owner": "Director-General of Home Affairs", "tiers": "proposed in draft regulation 35"},
+    {"system": "Smart ID card", "country_label": "Smart ID card", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": "A comment on the draft Digital Identity Regulations and their legal basis; civil registration is mentioned once in passing and nothing is stated on how births or deaths are registered."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-09-smart-ids-go-digital-draft-rules",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Identity system", "country_label": "Digital Identity", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "proposed in draft regulations gazetted May 2026; smartphone credentials including digital versions of birth and marriage certificates"},
+    {"system": "national population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national; described as the single authoritative record of identity and civic status information"},
+    {"system": "Smart ID card", "country_label": "Smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": "Draft digital identity regulations; a digital copy of a birth certificate in a wallet is proposed, and nothing is stated on how births or deaths are registered."
+}

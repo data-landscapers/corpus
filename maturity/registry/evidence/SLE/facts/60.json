@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-sierra-leone-world-bank-sprint-social-registry-technical-note",
+  "facts": [],
+  "systems": [
+    {
+      "system": "civil registry and/or the birth and death registry",
+      "country_label": "civil registry (CR)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; the note says only that a future improvement could be to check whether it supports API integration for validating details and notifying deaths"
+    }
+  ],
+  "note": "A technical note on the SPRINT social protection registry; the civil registry is named only as a possible future source for validation, with no description of what it does or how events are registered. It adds that national ID card distribution was limited as of June 2022."
+}

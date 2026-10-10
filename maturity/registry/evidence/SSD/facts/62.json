@@ -1,0 +1,11 @@
+{
+  "slug": "2022-10-23-republic-of-south-sudan-toward-robust-civil-registration-system",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Director General of the DCRNPI told the sixth CRVS ministerial conference that the Ministry of Interior is the lead government institution for civil registration, through the Directorate of Civil Registry, Nationality, Passports and Immigration, with the Ministry of Health providing birth notifications.", "as_of": "2022-10-23", "date_precision": "day", "system": "civil registration (Directorate of Civil Registry, Nationality, Passports and Immigration)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration (Directorate of Civil Registry, Nationality, Passports and Immigration)", "country_label": "civil registration", "class": "civil", "platform": "", "owner": "Ministry of Interior, through the DCRNPI", "tiers": "offices established at headquarters and in the states; stated coverage 10 states and 3 administrative areas; operationalising civil registration in the 10 state capitals is listed as a way forward (October 2022)"},
+    {"system": "birth notification", "country_label": "Birth notification", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "issued to children from 2011 to date, as a document used to obtain nationality and a passport"}
+  ],
+  "note": "The slides do not say whether any record is made digitally or on paper. They state that operationalisation of the Civil Registry Act 2018 is delayed by budgetary constraints, its regulations are partly developed, ICT infrastructure is limited, and UNECA made a rapid CRVS assessment in September 2022; none of these maps to a listed value, and the class given to the registrar's system rests on its role, not on a described digital function."
+}

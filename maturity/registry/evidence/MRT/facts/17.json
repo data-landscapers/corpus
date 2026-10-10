@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-11-mrt-domaines-mot-du-directeur-general",
+  "facts": [],
+  "systems": [
+    {"system": "TEHLIL", "country_label": "TEHLIL", "class": "land", "platform": "", "owner": "Direction Générale des Domaines et du Patrimoine de l'État (DGDPE), ministry in charge of finance", "tiers": "land database improved to hold all the country's land data; occupancy permits issued by walis are entered on it, helped by the completed scanning of the Nouakchott wilaya archives"}
+  ],
+  "note": "The land administration's standing page: land registration only, which the typology puts out of scope. Nothing on civil registration."
+}

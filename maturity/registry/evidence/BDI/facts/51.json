@@ -1,0 +1,39 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [],
+  "systems": [
+    {
+      "system": "registration of births and deaths by municipalities",
+      "country_label": "",
+      "class": "civil",
+      "platform": "not stated; the document says no central archive is kept",
+      "owner": "municipalities",
+      "tiers": "municipalities"
+    },
+    {
+      "system": "national ID",
+      "country_label": "",
+      "class": "identity",
+      "platform": "paper ID since 1980; no unique ID number and no central electronic database",
+      "owner": "the police, under the Ministry of Interior",
+      "tiers": "citizens aged 16 and older; a birth certificate is among the supporting documents"
+    },
+    {
+      "system": "national ID smartcard pilot",
+      "country_label": "",
+      "class": "identity",
+      "platform": "smartcard with a machine-readable zone",
+      "owner": "Government of Burundi",
+      "tiers": "pilot launched 2013; nationwide rollout being planned as of 2017"
+    },
+    {
+      "system": "refugee registration by UNHCR",
+      "country_label": "",
+      "class": "identity",
+      "platform": "",
+      "owner": "UNHCR, on behalf of the government",
+      "tiers": "refugees"
+    }
+  ],
+  "note": "Section 5.1 (research of 2017) states that municipalities register births and deaths and that no central archive is kept, but does not say how the municipal record is made, so no value of 'made', 'events' or 'offices' is stated. Its other Burundi figures are coverage of people, not offices: birth registration 75.2% (DHS 2010), 75% of under-fives (UNICEF), official identification 71% (ID4D 2017)."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-12-cote-divoire-oneci-civil-registry-biometric-terminals",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:699", "fact": "ONECI's director general said on 11 August 2026 that the Système national de gestion de l'état civil is now deployed in 699 civil status centres across the country; he gave no total of centres, and the figure is of centres where the system is deployed, not of centres registering with it.", "as_of": "2026-08-11", "date_precision": "day", "system": "Système national de gestion de l'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "KOACI reports the Système national de gestion de l'état civil as ONECI's, its deployment presented by ONECI's director general among the advances in the digital transformation of civil status.", "as_of": "2026-08-11", "date_precision": "day", "system": "Système national de gestion de l'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système national de gestion de l'état civil", "country_label": "Système national de gestion de l'état civil", "class": "civil", "platform": "", "owner": "ONECI", "tiers": "deployed in 699 civil status centres across the country, per ONECI's director general on 2026-08-11"},
+    {"system": "terminaux numériques de collecte de données", "country_label": "terminaux numériques", "class": "notification", "platform": "terminal with fingerprint sensor and thermal printer", "owner": "ONECI", "tiers": "health facilities of the Tonkpi region: 283 terminals handed to medical staff on 2026-08-11, to be deployed progressively; birth data collected and transmitted in real time to the Bureaux d'état civil"},
+    {"system": "digitisation of civil status acts", "country_label": "actes d'état civil numérisés et sécurisés", "class": "archive", "platform": "", "owner": "ONECI", "tiers": "more than four million acts digitised and secured as of 2026-08-11"}
+  ],
+  "note": "The document describes the Système national de gestion de l'état civil only as the civil status management system deployed in civil status centres, without saying which events are entered in it or how; it is classed civil on that description and the parent should weigh it. The terminals are notification from health facilities and the four million acts are back-capture, so neither gives a fact."
+}

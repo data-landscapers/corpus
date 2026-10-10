@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-30-cfe-guine-bissau-estatisticas-registo-empresas",
+  "facts": [],
+  "systems": [
+    {"system": "Registo de Empresas (Centro de Formalização de Empresas)", "country_label": "Registo de Empresas Formais", "class": "land", "platform": "", "owner": "Centro de Formalização de Empresas (CFE)", "tiers": "national; 7,047 companies formalised from 30/05/2011 to 30/04/2025"}
+  ],
+  "note": "Business register statistics only; out of scope, nothing on civil registration."
+}

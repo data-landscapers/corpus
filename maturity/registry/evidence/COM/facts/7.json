@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-27-comoros-civil-registry-digitisation-pin-wearetech",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "We Are Tech Africa reports that a 2022 assessment found the civil registry a largely manual system marked by high costs, frequent errors and document-fraud risk.", "as_of": "2022", "date_precision": "year", "system": "civil registry system (état civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 25 March 2026 authorities validated in Moroni the preparatory studies for full digitisation of the civil registry system under the Amecc programme, including a Personal Identification Number and interoperability with other state systems.", "as_of": "2026-03-25", "date_precision": "day", "system": "Amecc (Civil Registry Modernization Support Program in the Comoros)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The French Embassy funds the Amecc project and UNICEF provides technical support, as reported on 27 March 2026.", "as_of": "2026-03-25", "date_precision": "day", "system": "Amecc (Civil Registry Modernization Support Program in the Comoros)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The government is reported to implement the civil registry digitisation through the Amecc programme, on the basis of the law of 27 July 2023 mandating computerised processing of civil registry data.", "as_of": "2026-03-25", "date_precision": "day", "system": "Amecc (Civil Registry Modernization Support Program in the Comoros)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Amecc (Civil Registry Modernization Support Program in the Comoros)", "country_label": "Amecc", "class": "civil", "platform": "", "owner": "Government of Comoros; funded by the French Embassy, technical support from UNICEF", "tiers": "Preparatory studies validated; planned for the whole archipelago, with uneven digital maturity across the islands noted"},
+    {"system": "Personal Identification Number (PIN)", "country_label": "Personal Identification Number", "class": "identity", "platform": "", "owner": "", "tiers": "Planned in the validated study as the unique identifier centralising citizen data, interoperable with other state systems"}
+  ],
+  "note": ""
+}

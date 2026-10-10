@@ -1,0 +1,14 @@
+{
+  "slug": "2024-09-04 PAD - Chad Digital Transformation Project (PAD00070)",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The World Bank's appraisal document describes Chad's civil registration processes as predominantly paper-based and cumbersome, with a transition from them still ahead; the passage is undated, so the document's date is used.", "as_of": "2024-09-04", "date_precision": "day", "system": "Civil registration (CR) system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The appraisal document states that the government, with UNICEF support and EU funding, is currently setting up birth registration kiosks equipped with digital tools in eleven health centres in N'Djamena; undated, so the document's date is used.", "as_of": "2024-09-04", "date_precision": "day", "system": "Birth registration kiosks in health centres", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The birth registration kiosks in eleven N'Djamena health centres are being set up by the government with support from UNICEF using EU funding; no domestic budget line is stated. Undated, so the document's date is used.", "as_of": "2024-09-04", "date_precision": "day", "system": "Birth registration kiosks in health centres", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The appraisal document names the Government of Chad as the party setting up the birth registration kiosks, with UNICEF in support; undated, so the document's date is used.", "as_of": "2024-09-04", "date_precision": "day", "system": "Birth registration kiosks in health centres", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Birth registration kiosks in health centres", "country_label": "birth registration kiosks", "class": "civil", "platform": "digital tools, not named", "owner": "Government of Chad, with UNICEF support and EU funding", "tiers": "eleven health centres in N'Djamena, being set up"},
+    {"system": "Civil registration (CR) system", "country_label": "civil registry system", "class": "civil", "platform": "predominantly paper", "owner": "", "tiers": "national; the Chad Digital Transformation Project intends to modernise it"}
+  ],
+  "note": "Passages only. The kiosks are being set up, not reported in service, so no offices fact is taken; they are classed civil on the document's words that they are birth registration points with digital tools. The project (US$120m, IDA grant of US$92.2m) states an intention to modernise the civil registry system, with no system named in these passages."
+}

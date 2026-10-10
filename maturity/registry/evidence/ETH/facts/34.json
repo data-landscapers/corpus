@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-15-edas-for-three-cities",
+  "facts": [],
+  "systems": [
+    {"system": "eDAS", "country_label": "digital addressing system (eDAS)", "class": "land", "platform": "", "owner": "Space Science and Geospatial Institute (SSGI), with regional land administration bureaux and city administrations", "tiers": "being implemented in 73 cities; Arba Minch, Jinka and Wolayita Sodo added by agreement of 13 December 2025"},
+    {"system": "Fayda", "country_label": "digital identification (Fayda)", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A digital addressing system run with land administration bureaux, out of scope; nothing on civil registration."
+}

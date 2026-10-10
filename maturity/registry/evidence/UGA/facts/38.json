@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Register", "country_label": "National Identification Register / National ID Card", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "UgPass", "country_label": "UgPass", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global dataset of identity-card ownership; for Uganda it names only the national ID register and the UgPass digital ID (adult ID coverage 67%, digital ID 3%, Findex fieldwork 2024) and says nothing of how or where births and deaths are registered."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-10-aps-bignona-mairie-haut-debit-satellitaire",
+  "facts": [],
+  "systems": [
+    {"system": "Kits satellitaires à très haut débit (connectivité universelle)", "country_label": "connectivité universelle; New Deal technologique", "class": "enabling", "platform": "satellite broadband kits", "owner": "Ministère de la Communication, des Télécommunications et du Numérique", "tiers": "Bignona town hall and two vocational training centres (Albadar, Abéné), installed 9 April 2026"},
+    {"system": "Informatisation et numérisation des actes à la mairie de Bignona", "country_label": "informatisation et numérisation des actes", "class": "", "platform": "", "owner": "Commune de Bignona", "tiers": "one commune's civil-status service"}
+  ],
+  "note": "No fact: the article reports a satellite link for the Bignona town hall, which the mayor expects to help the civil-status service, and his remark that the commune has worked on computerising and digitising acts; it does not say what system the office uses or whether events are entered digitally at registration."
+}

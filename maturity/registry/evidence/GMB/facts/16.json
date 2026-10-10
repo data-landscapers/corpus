@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that a 2020 UN report found The Gambia's systems for births, deaths and marriages not digitised, rural registry offices using manual paper and ledger systems.", "as_of": "2020", "date_precision": "year", "system": "rural registry offices (civil registration)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices in The Gambia remain paper by default with upward digital transcription, the 2022-23 eCRVS rollout through health facilities having registered 1.17 million people in campaigns and not as routine entry at rural registry points (no date given; document's published date used).", "as_of": "2026-03-31", "date_precision": "day", "system": "rural registry offices (civil registration)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "eCRVS", "country_label": "eCRVS", "class": "civil", "platform": "", "owner": "", "tiers": "rolled out 2022-23 through health facilities with satellite internet, stated as scaled to all facilities including rural"},
+    {"system": "CRVSNOW pictorial capture", "country_label": "CRVSNOW", "class": "archive", "platform": "", "owner": "", "tiers": "early digitisation effort named in a 2020 UN report"}
+  ],
+  "note": "This slug is in study.json exclude_sources (an AI-assisted compilation, not sourced fact); the facts are recorded as the document states them, for the parent to exclude from profiles."
+}

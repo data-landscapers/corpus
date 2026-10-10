@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-12-gambia-national-land-policy-2026-2035",
+  "facts": [],
+  "systems": [
+    {"system": "National Land Administration System (NLAS)", "country_label": "National Land Administration System", "class": "land", "platform": "", "owner": "Ministry of Land and Regional Government", "tiers": "called for by the policy; not stated as existing"},
+    {"system": "Land Information System (LIS)", "country_label": "centralised Land Information System", "class": "land", "platform": "", "owner": "Ministry of Land and Regional Government", "tiers": "stated as absent; called for by the policy"}
+  ],
+  "note": "Land policy summary; land systems are out of the study's scope and nothing on civil registration is stated."
+}

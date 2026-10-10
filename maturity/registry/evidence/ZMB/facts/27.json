@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-01-digital-id-kenya-zambia-summary",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "INRIS", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Electronic National Registration Cards (eNRC)", "country_label": "eNRC", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "This document describes INRIS only as the system through which Zambia is deploying biometric IDs, so here it is classed identity and gives no fact; it says nothing of birth or death registration in Zambia. Smart Village and the Digital Zambia Acceleration Project are named as expanding rural access, with no description. Zambian findings rest on civil society respondents only."
+}

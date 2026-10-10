@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-08-nam-biometricupdate-mps-digital-id",
+  "facts": [],
+  "systems": [
+    {"system": "digital ID (e-ID)", "country_label": "e-ID", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "national; rollout planned for September 2026 and delayed"},
+    {"system": "national population register", "country_label": "national population register", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Parliamentary briefing on the planned electronic identity card only; nothing on civil registration offices or how births and deaths are recorded."
+}

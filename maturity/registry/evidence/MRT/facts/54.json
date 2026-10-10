@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "centre national de données / cloud national", "country_label": "centre national de données; premier cloud national", "class": "enabling", "platform": "hyperconverged (HCI) architecture, separate server clusters per ministry", "owner": "Ministère de la Transformation numérique et de la Modernisation de l'administration", "tiers": "national: all public administration servers moved into the data centre; national cloud launched a few days before 2 July 2026"}
+  ],
+  "note": "Civil status appears only in the deputy's question, which asks where citizens' civil status data are hosted; the minister's answer describes the national data centre and cloud in general and states nothing about civil registration."
+}

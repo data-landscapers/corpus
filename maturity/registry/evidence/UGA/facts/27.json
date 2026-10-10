@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-30-uniph-crvs-technical-working-group",
+  "facts": [],
+  "systems": [
+    {"system": "National Security Information System (NSIS)", "country_label": "NIRA's new NSIS", "class": "", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "data sharing agreements between UBOS and CRVS data-generating institutions", "country_label": "", "class": "exchange", "platform": "", "owner": "Uganda Bureau of Statistics (UBOS)", "tiers": ""}
+  ],
+  "note": "Reports that the NIRA-led CRVS Technical Working Group met on 30 April 2026, with a business process map for health facility deaths, a presentation of NIRA's new NSIS, the 2025 Vital Statistics Report and UBOS data sharing agreements on its agenda; the NSIS is named without a description of what it does, and nothing is said of how or where events are recorded."
+}

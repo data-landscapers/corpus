@@ -1,0 +1,10 @@
+{
+  "slug": "2017-01-01-ceiec-ago-2017-angola-civil-criminal-id-platform-bw01",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "A deal record drawn from Novo Jornal and Lusa reporting states that a presidential dispatch dated January 2017 selected CEIEC for a USD 243 million supply and technical-support contract with the Ministry of Justice and Human Rights as recipient, to implement a platform covering birth and death registration, identity-card issuance and the criminal register, on a commercial credit line to be negotiated with a Chinese financial institution.", "as_of": "2017-01", "date_precision": "month", "system": "Plataforma de Gestão Integrada da Identificação Civil e Criminal", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Plataforma de Gestão Integrada da Identificação Civil e Criminal", "country_label": "Plataforma de Gestão Integrada da Identificação Civil e Criminal", "class": "civil", "platform": "supplied by China National Electronics Import & Export Corporation (CEIEC)", "owner": "Ministério da Justiça e dos Direitos Humanos, as recipient of the contract", "tiers": "not stated; a contract approved in January 2017, not a system in use"}
+  ],
+  "note": "The same dispatch as document 73, from a deal record of the same news report; it adds nothing on where or how a birth or death is entered. Classed civil because the record says the platform covers birth and death registration; it also covers identity cards and the criminal register, and the parent may prefer identity."
+}

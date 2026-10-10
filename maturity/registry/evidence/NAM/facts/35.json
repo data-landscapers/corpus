@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The IDS Namibia country report states that the Department of Civil Registration of the home affairs ministry (MHAI) uses an integrated web-based system, the National Population Registration System, which held 4.7 million digitalised records in November 2015.", "as_of": "2015-11", "date_precision": "month", "system": "National Population Registration System (NPRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The IDS Namibia country report states that since 2011 the NPRS has linked children's records with those of their parent in the system; it does not say where the birth record is entered.", "as_of": "2011", "date_precision": "year", "system": "National Population Registration System (NPRS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Population Registration System (NPRS)", "country_label": "NPRS; also e-National Population Registration System (eNPRS)", "class": "civil", "platform": "integrated web-based system", "owner": "Department of Civil Registration, Ministry of Home Affairs and Immigration (MHAI)", "tiers": "not stated; registration for identification takes place within the 14 political regions"},
+    {"system": "Digitalisation of existing civil records", "country_label": "digitalisation of all existing records", "class": "archive", "platform": "NPRS", "owner": "MHAI", "tiers": "4.7 million records digitalised by November 2015; all existing records completed by 31 May 2016 (citing UNICEF 2023)"},
+    {"system": "e-birth notification system", "country_label": "e-birth notification system", "class": "notification", "platform": "", "owner": "Directorate of National Population Register, Identification and Production, MHAI, with UNICEF funding; staff of MHAI, Ministry of Health and Social Services and the Namibian Police trained", "tiers": "hospitals, health centres and clinics notify the eNPRS electronically; 22 sites country-wide by 2019"},
+    {"system": "e-death notification system", "country_label": "e-death notification system", "class": "notification", "platform": "", "owner": "MHAI", "tiers": "26 sites country-wide"},
+    {"system": "National identity card", "country_label": "Namibian National ID card; new-look ID cards from about 2021; digital-ID", "class": "identity", "platform": "", "owner": "MHAI", "tiers": "national; annual registration of eligible pupils at secondary schools; ID number is the unique identifier assigned at birth registration or a number linked to it"}
+  ],
+  "note": "Passages file covering ten countries; only the Namibia country report and the Namibia lines of the synthesis were used. The Civil Registration and Identification Act 2024 is reported gazetted in December 2024 and not yet operationalised at mid-2025; no aspect takes it."
+}

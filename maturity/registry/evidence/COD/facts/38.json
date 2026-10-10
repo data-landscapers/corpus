@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-11 DR Congo may partner with Ghana's Margins Group for national ID cards",
+  "facts": [],
+  "systems": [
+    {"system": "national identity cards", "country_label": "", "class": "identity", "platform": "", "owner": "ONIP; a card-production contract with Ghana's Margins Group was being finalised on 25 July 2025, replacing the terminated Afritech/IDEMIA deal", "tiers": "not stated"},
+    {"system": "DRCPass", "country_label": "DRCPass", "class": "identity", "platform": "", "owner": "Trident", "tiers": "not stated"}
+  ],
+  "note": "The item is about a contract to produce national identity cards; it states nothing about civil registration."
+}

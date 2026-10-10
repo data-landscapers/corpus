@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-register-of-electors-mauritius",
+  "facts": [],
+  "systems": [
+    {"system": "Register of Electors", "country_label": "Register of Electors", "class": "land", "platform": "", "owner": "Office of the Electoral Commissioner", "tiers": "published tables of electors for 2024 by constituency, ward, village and polling station"}
+  ],
+  "note": "An index of published elector tables; an electoral register, out of scope, with nothing on civil registration."
+}

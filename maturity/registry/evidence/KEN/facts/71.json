@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-17-ken-implementation-status-results-report-primary-education-equity-in-learn",
+  "facts": [],
+  "systems": [
+    {"system": "NEMIS learner registration using the birth certificate number", "country_label": "NEMIS; students' UPI", "class": "exchange", "platform": "", "owner": "Ministry of Education", "tiers": "the birth certificate number is used to generate the student's UPI; about 60 percent of primary learners registered at 15 March 2024, birth certificates being unavailable for many early-grade learners"}
+  ],
+  "note": "A World Bank education programme report; its one statement on civil registration is that the education system keys learners to the birth certificate number and that missing certificates hold registration back. Nothing on how births are registered."
+}

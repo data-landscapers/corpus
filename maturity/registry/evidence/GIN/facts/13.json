@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-07-guinea-secure-paper-shortage-birth-certificates",
+  "facts": [],
+  "systems": [
+    {"system": "extrait de naissance numérique", "country_label": "extrait de naissance numérique / acte de naissance numérique", "class": "certificate", "platform": "", "owner": "", "tiers": "commune civil status centres; Ratoma says it receives and enrols applicants from any commune; almost all communes of Conakry and of the interior are said to be affected by the stockout"}
+  ],
+  "note": "The document describes the digital birth extract as a document citizens apply for at commune civil status centres (needed for a passport or identity card), with applicants enrolled whatever their commune, not as the registration of a birth when declared; so no civil fact. It states a stockout of secure paper lasting about a month by 7 August 2026 made issuance impossible in almost all communes of Conakry and the interior, per Ratoma's delegated civil status officer."
+}

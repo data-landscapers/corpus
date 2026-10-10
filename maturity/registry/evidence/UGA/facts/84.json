@@ -1,0 +1,11 @@
+{
+  "slug": "2015-03-26-registration-of-persons-act-2015",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Registration of Persons Act, assented to and commenced in part on 26 March 2015, establishes the National Identification and Registration Authority as a body corporate under the minister for internal affairs and gives it the function of registering births and deaths (section 5(1)(d)); the excerpt held names no civil registration system.", "as_of": "2015-03-26", "date_precision": "day", "system": "registration of births and deaths (no system named)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Identification Register", "country_label": "National Identification Register", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "a national register of all persons in Uganda; registration centres designated by the Authority under section 58"},
+    {"system": "incorporation of information from other government databases into the register", "country_label": "", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority", "tiers": ""}
+  ],
+  "note": "An excerpt: the held text stops in Part II (section 14), before Part V on births and deaths. One governance fact, about the registering authority; nothing on how a birth or death is recorded or at which offices."
+}

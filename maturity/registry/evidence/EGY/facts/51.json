@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-egy-mohp-national-health-strategy-2024-2030",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "Egypt's National Health Strategy 2024-2030 lists as a key action the launch of a single digital platform for real-time birth and death registration, unified with the Ministry of Health and Population, implemented by the health ministry with the planning and communications ministries as partners, its indicator being the percentage of births and deaths registered within 24 hours through the platform; the action carries no date, so the document's published year is used.", "as_of": "2024", "date_precision": "year", "system": "Single digital platform for real-time birth and death registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Single digital platform for real-time birth and death registration", "country_label": "single digital platform for real-time birth and death registration, unified with MoHP", "class": "civil", "platform": "", "owner": "Ministry of Health and Population (implementer); Ministry of Planning and Ministry of Communications (partners)", "tiers": "not stated; a planned action of the 2024-2030 strategy"},
+    {"system": "Civil registration and vital statistics (CRVS) system", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": "not stated; named as a component of the health information system"}
+  ],
+  "note": "The passages also state that 100% of births and almost 99% of deaths were registered in 2020, a share of events, which places nothing; the platform is a planned action and the passages do not say that it has been launched."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-rwanda-digital-government-strategy-and-governance",
+  "facts": [],
+  "systems": [
+    {"system": "Irembo", "country_label": "Irembo", "class": "certificate", "platform": "", "owner": "", "tiers": "channel through which a birth certificate request is completed and submitted, as the guideline's example of omni-channel access"}
+  ],
+  "note": "A digital government guideline: birth registration and birth certificates appear only as examples of life-event services and of a request finished through Irembo; nothing on how a birth is registered."
+}

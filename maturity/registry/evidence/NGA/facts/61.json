@@ -1,0 +1,12 @@
+{
+  "slug": "2024-08-26-npc-unicef-first-lady-partner-birth-registration",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The National Population Commission's own news item names Barnksforte Technologies Limited as 'the technical partner to the National Population Commission' for the Electronic Civil Registration and Vital Statistics (e-CRVS) system, whose managing director spoke on its digitisation; no date is given beyond the item's own, so the published date is used.", "as_of": "2024-08-26", "date_precision": "day", "system": "Electronic Civil Registration and Vital Statistics (e-CRVS) system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Electronic Civil Registration and Vital Statistics (e-CRVS) system", "country_label": "e-CRVS (written e-CVRS in the item)", "class": "civil", "platform": "", "owner": "National Population Commission (NPC); technical partner Barnksforte Technologies Limited", "tiers": ""},
+    {"system": "e-CRVS interoperability with the National Identity Management Commission and access to immunisation and social welfare records; NIN issued to under-5 children at the point of birth registration", "country_label": "", "class": "exchange", "platform": "", "owner": "National Population Commission (NPC) and National Identity Management Commission (NIMC)", "tiers": ""},
+    {"system": "Renewed Hope Initiative project to accelerate birth registration at scale; free birth registration drive for under-5 children", "country_label": "Renewed Hope Initiative (RHI) birth registration project, launch set for 29 August 2024", "class": "outreach", "platform": "", "owner": "National Population Commission (NPC) with UNICEF and the Office of the First Lady", "tiers": "all parts of the federation, as stated"}
+  ],
+  "note": "The item does not say which events are entered in e-CRVS, how the record is made or in how many offices; the launch it announces is a registration drive (outreach), so no last12 fact is recorded for the civil system."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-mauritius-e-registry",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius e-Registry", "country_label": "Mauritius e-Registry", "class": "land", "platform": "", "owner": "Registrar General's Department", "tiers": "online registration, payment and search of documents, entered through MauPass"},
+    {"system": "MauPass", "country_label": "MAUPASS", "class": "identity", "platform": "", "owner": "", "tiers": "login to the e-Registry"}
+  ],
+  "note": "The landing page of the Registrar General's document registry, which is not the civil status registrar; nothing on births or deaths."
+}

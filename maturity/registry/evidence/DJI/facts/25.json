@@ -1,0 +1,11 @@
+{
+  "slug": "2024-06-30-worldbank-iegicr-review-djibouti-public-admin-modernization",
+  "facts": [],
+  "systems": [
+    {"system": "Interoperable digital platform", "country_label": "", "class": "exchange", "platform": "", "owner": "Government of Djibouti, under the World Bank Public Administration Modernization Project (P162904)", "tiers": "planned at appraisal to connect ministerial and public information systems including tax, customs, justice, birth certificate, driver's licence, education, health and budget; the captured excerpt does not say what was delivered"},
+    {"system": "birth certificate information system", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named only as one of the systems the interoperable platform was to connect"},
+    {"system": "e-ID unique identifier system", "country_label": "", "class": "identity", "platform": "", "owner": "Government of Djibouti, under P162904", "tiers": "planned for the entire population; the subcomponent was dropped at the 2022 restructuring"},
+    {"system": "Citizen Service Center (CSC) pilot", "country_label": "Centre de Services aux Citoyens", "class": "", "platform": "", "owner": "Government of Djibouti, under P162904", "tiers": "pilot, reduced in scope at the 2022 restructuring; its services are not described"}
+  ],
+  "note": "The excerpt lists 'birth certificate' among systems an interoperable platform was meant to connect, with no description of a civil registration system or of what was delivered, so no civil-class fact."
+}

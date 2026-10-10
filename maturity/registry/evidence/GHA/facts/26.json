@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-19-ghana-nia-registration-statistics",
+  "facts": [],
+  "systems": [
+    {"system": "NIA registration (Ghana Card)", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "national; 19,564,512 Ghanaians enrolled and 18,824,144 cards issued as at 19 May 2026"}
+  ],
+  "note": "Identity enrolment statistics only; nothing on civil registration."
+}

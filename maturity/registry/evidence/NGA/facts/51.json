@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-11-unicef-npc-digital-birth-registration-gombe",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Voice of Nigeria reports that in Gombe State births are to be registered on tablets, every birth at a primary health centre captured 'immediately and electronically' and ward focal persons with devices recording births notified to them, per UNICEF and the National Population Commission; deaths are mentioned only as data the system would keep. No event date is given, so the published date is used.", "as_of": "2025-09-11", "date_precision": "day", "system": "Vital Reg", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "Voice of Nigeria reports that Gombe State is positioned as a 'pilot hub' for digital birth registration, with representatives of 114 health facilities and 114 wards trained as trainers in a three-day workshop on using digital devices to register births, per UNICEF and the National Population Commission; no total of registration points is given and the published date is used.", "as_of": "2025-09-11", "date_precision": "day", "system": "Vital Reg", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Voice of Nigeria reports a National Population Commission technical expert describing the digital birth registration system as 'our Vital Reg', in a campaign UNICEF launched in collaboration with the Commission in Gombe State; the published date is used.", "as_of": "2025-09-11", "date_precision": "day", "system": "Vital Reg", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Voice of Nigeria reports that UNICEF and the National Population Commission launched a digital birth registration campaign in Gombe State after a three-day train-the-trainers workshop for 114 health facilities and 114 wards; the launch is undated in the text, so the published date is used.", "as_of": "2025-09-11", "date_precision": "day", "system": "Vital Reg", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Vital Reg", "country_label": "Vital Reg / digital birth registration", "class": "civil", "platform": "", "owner": "National Population Commission (NPC), with UNICEF", "tiers": "Gombe State: 114 health facilities (primary health centres) and 114 wards (ward focal persons with tablets)"},
+    {"system": "Integration of birth registration with National Identification Number (NIN) enrolment", "country_label": "birth registration integrated with NIN enrolment", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "How the record is held (in a national register or on the device) is not stated, so no fact is recorded for how the record is made."
+}

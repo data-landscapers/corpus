@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-27-lexpress-mg-identite-biometrique-six-millions",
+  "facts": [],
+  "systems": [
+    {"system": "enregistrement biométrique", "country_label": "enregistrement biométrique des citoyens âgés de 18 ans et plus", "class": "identity", "platform": "", "owner": "ministère de l'Intérieur et de la Décentralisation; second phase to be accompanied by the World Bank-financed DECIM project", "tiers": "national campaign, first phase April to June 2026, more than six million enrolled against a target of two million"},
+    {"system": "registre national numérique de la population", "country_label": "registre national numérique de la population", "class": "identity", "platform": "", "owner": "ministère de l'Intérieur et de la Décentralisation", "tiers": "to be set up; legal identity is described as its base"}
+  ],
+  "note": "Biometric identity enrolment, placed by the ministry under the modernisation of the état civil; no civil registration system is described."
+}

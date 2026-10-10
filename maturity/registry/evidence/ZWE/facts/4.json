@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-17-zwe-thisisafrica-passport-database-sovereignty",
+  "facts": [],
+  "systems": [
+    {"system": "e-passport programme", "country_label": "e-passport", "class": "identity", "platform": "", "owner": "Garsu Pasaulis under a Build, Own, Operate and Transfer agreement announced by Cabinet in 2021", "tiers": ""},
+    {"system": "Semlex electronic and biometric passports, national identity cards, visas and civil records", "country_label": "", "class": "", "platform": "Semlex", "owner": "Ministry of Home Affairs, listed by Semlex as a reference", "tiers": ""},
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "enabling", "platform": "Inspur Group and Sino-Zimbabwe", "owner": "Government of Zimbabwe", "tiers": "Harare"}
+  ],
+  "note": "An opinion piece on data sovereignty; it mentions civil-registration databases only to ask where they are hosted, and states nothing of how births or deaths are registered."
+}

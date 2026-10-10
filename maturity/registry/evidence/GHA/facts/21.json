@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-graphic-ghana-card-photocopying-november-2-deadline",
+  "facts": [],
+  "systems": [
+    {"system": "NIA Identity Verification System", "country_label": "Identity Verification System", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "banks, telecommunications companies, hospitals, schools and agencies to integrate by 2 November 2026; verification against the National Identity Register or by match-on-card devices"},
+    {"system": "National Identity Register", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "national"}
+  ],
+  "note": "Biometric verification of the identity card under L.I. 2523; nothing on civil registration."
+}

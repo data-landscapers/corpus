@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-08-somalia-nira-implementing-regulation-158",
+  "facts": [],
+  "systems": [
+    {"system": "Digital National Identification System (DNIS)", "country_label": "Nidaamka Aqoonsiga Qaran ee Casriga ah (DNIS)", "class": "identity", "platform": "to be open-source technology managed by the Authority and not dependent on one vendor (Art. 6)", "owner": "National Identification and Registration Authority (Hay'adda Aqoonsiga iyo Diiwaan-gelinta Qaranka), under the Minister of Interior, Federal Affairs and Reconciliation", "tiers": "fixed registration centres, mobile registration centres and online registration (Art. 11); embassies and consulates abroad; mobile centres for rural and remote areas in mass registration (Art. 12)"},
+    {"system": "DNIS database (xog-side)", "country_label": "Xog-side", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "one or more electronic registers holding ID numbers, demographic and biometric data, kept inside Somalia (Art. 7)"},
+    {"system": "ID card verification service for relying parties", "country_label": "Adeegga sugidda", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "certified relying parties (Arts. 33-35)"}
+  ],
+  "note": "A regulation on national identity enrolment, not civil registration: it defines civil registration (dad-dhigid) as the permanent, compulsory recording of births, marriages, divorces, deaths and adoptions and refers to a separate authority responsible for it (Art. 20(10)), accepts civil registration documents as proof of identity (Art. 17) and suspends an ID number 60 days after a death is registered (Art. 24), but describes no civil registration system, office or method of record."
+}

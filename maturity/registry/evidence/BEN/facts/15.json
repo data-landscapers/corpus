@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance",
+  "facts": [],
+  "systems": [
+    {"system": "National population register", "country_label": "national population register", "class": "identity", "platform": "", "owner": "ANIP, attached directly to the presidency", "tiers": "national; ANIP also holds the electoral register"}
+  ],
+  "note": "ANIP's director general says one agency, attached to the presidency, holds all identity matters and that he is also National Civil Registrar (ID4Africa, 12 May 2026); no civil registration system is named or described, so the governance statement has no system to attach to."
+}

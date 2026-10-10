@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-30-rwa-2026-28-b9",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "The FY2026/27 finance law of 30 June 2026 appropriates RWF 116,184,997, all recurrent and domestically financed, to sub-programme B901 Civil Registration under programme B9 National Identification of institution 28 MINICT, out of RWF 2,287,611,846 for the programme; the line names the function and no system.", "as_of": "2026-06-30", "date_precision": "day", "system": "Civil Registration (sub-programme B901)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registration (sub-programme B901)", "country_label": "Civil Registration", "class": "civil", "platform": "", "owner": "MINICT (institution 28), programme B9 National Identification", "tiers": ""},
+    {"system": "National ID System (sub-programmes B902 and B903)", "country_label": "Identity Card Production and Distribution; National ID System Infrastructure and Security", "class": "identity", "platform": "", "owner": "MINICT (institution 28), programme B9 National Identification", "tiers": "RWF 1,245,513,610 and RWF 925,913,239 appropriated for FY2026/27"}
+  ],
+  "note": "The one fact is a budget line for the civil registration function, not for a described system; the parent may prefer to drop it."
+}

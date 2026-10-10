@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-business-ready-2025-botswana-world-bank",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic business registration", "country_label": "electronic company registration", "class": "land", "platform": "", "owner": "", "tiers": "national; electronic company and beneficial-ownership registration with a unique business ID"},
+    {"system": "Property transfer services", "country_label": "", "class": "land", "platform": "", "owner": "", "tiers": "digital public services for property transfer stated to be almost entirely absent"}
+  ],
+  "note": "A business-environment scorecard covering company, property and collateral registers, which the typology puts out of scope; nothing on civil registration. Body is an excerpt."
+}

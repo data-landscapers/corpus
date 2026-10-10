@@ -1,0 +1,10 @@
+{
+  "slug": "2022-11-01-tcd-plan-national-de-developpement-sanitaire-pnds-4-2022-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Declaration of births and deaths in health facilities (bulletins de naissance)", "country_label": "bulletins de naissance; bulletins de déclaration des naissances; outils d'enregistrement des décès", "class": "notification", "platform": "birth bulletins filled in at the facility", "owner": "Ministère de la Santé Publique et de la Prévention", "tiers": "health facilities, where a ministerial act makes declaration of births compulsory; the plan says the tools are not available at all levels and registration is only partly done, and aims at systematic registration in 100% of health establishments by 2030"},
+    {"system": "Mécanisme d'interopérabilité (health, communes, other ministries, ANATS)", "country_label": "mécanisme d'interopérabilité", "class": "notification", "platform": "", "owner": "Ministries in charge of health and of territorial administration, with communes and ANATS", "tiers": "a formal framework of collaboration between civil-status centres and the health ministry, to be made operational under action 7.2.4"},
+    {"system": "Community health workers (ASC) recording civil-status events", "country_label": "ASC", "class": "notification", "platform": "", "owner": "Ministère de la Santé Publique et de la Prévention", "tiers": "communities; training planned under the PNDS 4"}
+  ],
+  "note": "Passages of the health sector plan for 2022-2030: its civil-status objective (OS 7) concerns declaration of births and deaths by health facilities and community workers to the registrar, which is notification; nothing is stated about how civil registration offices make their record, and no digital system is named."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-11-ethiopia-banks-harmonize-fayda-digital-id",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda digital ID", "class": "identity", "platform": "", "owner": "", "tiers": "national; enrolment at designated centres and at banks, which received 2,000 biometric kits"},
+    {"system": "VeriFayda 2", "country_label": "VeriFayda 2 (EthSwitch eKYC Service)", "class": "identity", "platform": "", "owner": "EthSwitch", "tiers": "banks, for account opening and harmonising existing accounts with Fayda"}
+  ],
+  "note": "Identity verification for banking only; nothing on civil registration."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-06-zambia-mass-voter-registration-ministerial-statement",
+  "facts": [],
+  "systems": [
+    {"system": "Register of voters, with Biometric Voter Registration (BVR) kits and online and USSD inspection", "country_label": "provisional register of voters", "class": "land", "platform": "", "owner": "Electoral Commission of Zambia (ECZ)", "tiers": "2,354 BVR kits nationwide, at least one for each of 1,858 wards; physical inspection at all 12,152 polling stations; online through the ECZ website and USSD *214#"}
+  ],
+  "note": "The statement concerns the electoral register only, which the typology puts in class land, out of scope. It states nothing about civil registration; removal of deceased voters is listed as a service of the voter registration exercise, with no link to death registration described. The capture is truncated at source."
+}

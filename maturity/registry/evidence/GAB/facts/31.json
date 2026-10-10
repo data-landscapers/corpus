@@ -1,0 +1,10 @@
+{
+  "slug": "2024-04-01-cnie-carte-nationale-identite-electronique",
+  "facts": [],
+  "systems": [
+    {"system": "Numéro d'Identification Personnel (NIP) enrolment", "country_label": "Numéro d'Identification Personnel (NIP); attestation du NIP", "class": "identity", "platform": "14-character alphanumeric number issued after biometric capture; draws on IBOGA biometric enrolment and the electoral roll since 2013", "owner": "Ministry of the Interior, Security and Decentralisation; DGDI", "tiers": "from 3 April 2024 in dedicated centres of Grand Libreville (Libreville, Owendo, Akanda, Ntoum: police stations, DGDI offices, two arrondissement town halls, the prefecture) in a first phase, then the whole territory"},
+    {"system": "Carte Nationale d'Identité Electronique (CNIE)", "country_label": "Carte Nationale d'Identité Electronique (CNIE)", "class": "identity", "platform": "", "owner": "Ministry of the Interior, Security and Decentralisation", "tiers": "preceded by attribution of the NIP"},
+    {"system": "IBOGA", "country_label": "projet IBOGA", "class": "identity", "platform": "biometric enrolment", "owner": "", "tiers": ""}
+  ],
+  "note": "Identity-number enrolment only (class identity); a legalised copy of a birth certificate is a supporting document, and the page notes that a birth notice and a supplementary judgment are not civil status acts. Nothing on how offices register."
+}

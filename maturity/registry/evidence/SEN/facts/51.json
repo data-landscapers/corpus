@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification System/Biometric Identity Card (CEDEAO)", "country_label": "Biometric Identity Card (CEDEAO)", "class": "identity", "platform": "", "owner": "", "tiers": "national; adult ID ownership 89% (men 90%, women 89%) in the Findex survey of 7-27 October 2024; no digital ID for online authentication"}
+  ],
+  "note": "Global identity-coverage dataset; for Senegal it names only the national identity system and its adult coverage, which is identity, and states nothing about civil registration offices."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "2025-08-04-burkina-revue-mi-parcours-budget-etat-2025",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "none",
+      "fact": "The budget directorate's mid-year review of the 2025 state budget reports a realisation of 0 at 30 June 2025 for the indicator 'number of main civil registration centres whose production of acts is digitalised', under programme 015's result that the technological solution for computerising civil registration is deployed; the passage's table columns are misaligned and the target cannot be read with confidence.",
+      "as_of": "2025-06-30",
+      "date_precision": "day",
+      "system": "solution technologique de l'informatisation de l'état civil",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The mid-year review of the 2025 state budget carries a budget programme 015, 'Etat civil et identification des personnes', whose first stated result is the deployment of the technological solution for computerising civil registration; the passage gives the programme's execution figures without readable column headings.",
+      "as_of": "2025-06-30",
+      "date_precision": "day",
+      "system": "solution technologique de l'informatisation de l'état civil",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "solution technologique de l'informatisation de l'état civil",
+      "country_label": "solution technologique de l'informatisation de l'état civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "",
+      "tiers": "main civil registration centres (centres principaux d'état civil)"
+    },
+    {
+      "system": "identifiant unique du citoyen à l'état civil (IUCEC)",
+      "country_label": "IUCEC",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "communes; 0 communes where operational at 30 June 2025, as the misaligned table reads"
+    }
+  ],
+  "note": ""
+}

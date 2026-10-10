@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-cote-divoire-cinq-administrations-integrent-plateforme-interoperabilite",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme nationale d'interopérabilité UXP", "country_label": "plateforme d'interopérabilité UXP", "class": "exchange", "platform": "UXP", "owner": "SNDI, for the Ministry of Digital Transition and Technological Innovation", "tiers": "national; project begun September 2025, ONECI (for identity) among the phase-one administrations, five administrations integrated by July 2026"}
+  ],
+  "note": "About the government interoperability platform; a birth extract is given only as an example of a document a citizen could obtain remotely once interoperability is effective. Nothing on how offices register births or deaths."
+}

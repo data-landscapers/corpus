@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-09-who-lesotho-2025-annual-report",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National all-cause mortality surveillance and CRVS integration system",
+      "country_label": "national all-cause mortality surveillance and CRVS integration system",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health, with WHO support under a Pandemic Fund initiative",
+      "tiers": "in design from 2025, to be completed in 2026"
+    }
+  ],
+  "note": "The one relevant statement is that the Ministry of Health began in 2025 designing a mortality surveillance and CRVS integration system, a health-side link; nothing on the registrar's own system or offices. The capture is truncated near its end."
+}

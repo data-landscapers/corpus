@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-10-01,ZAF-001;ZAF-004;ZAF-013,ZAF-002=owner:ministry;ZAF-003=owner:ministry;ZAF-005=owner:ministry;ZAF-011=plan:current;ZAF-012=owner:ministry;ZAF-023=owner:ministry;ZAF-024=plan:current;ZAF-025=finance:domestic;ZAF-030=owner:ministry;ZAF-031=plan:current;ZAF-032=finance:domestic;ZAF-033=owner:ministry;ZAF-034=plan:current;ZAF-035=finance:domestic;ZAF-036=owner:ministry;ZAF-037=plan:current;ZAF-018=owner:ministry;ZAF-019=plan:current;ZAF-044=owner:ministry;ZAF-038=finance:domestic;ZAF-039=owner:ministry,
+ZAF,civil,events,coverage,B,2026-03-26,ZAF-009;ZAF-014;ZAF-020;ZAF-026;ZAF-042,,
+ZAF,civil,made,coverage,connected,2025-09,ZAF-015;ZAF-021;ZAF-027;ZAF-043,ZAF-028=paper,
+ZAF,civil,last12,qualifier,advancing,2025-03,ZAF-017,,nothing dated since 2025-10-10
+ZAF,civil,offices,coverage,count:242,2026-03-26,ZAF-010;ZAF-016,ZAF-040=count:299;ZAF-022=count:391;ZAF-029=count:391;ZAF-041=count:161,

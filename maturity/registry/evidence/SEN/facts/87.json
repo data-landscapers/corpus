@@ -1,0 +1,8 @@
+{
+  "slug": "2018-01-01-daf-interieur-direction-automatisation-des-fichiers-mandat",
+  "facts": [],
+  "systems": [
+    {"system": "Carte nationale d'identité biométrique CEDEAO", "country_label": "CNI CEDEAO; fichiers de population à but non policier", "class": "identity", "platform": "", "owner": "Direction de l'Automatisation des Fichiers (DAF), Ministère de l'Intérieur", "tiers": "single processing centre of the ministry; enrolment at police stations in Dakar from 16 August 2017, extending to other regions, some gendarmerie brigades and sub-prefectures, and consulates"}
+  ],
+  "note": "The DAF's mandate page concerns identity-card enrolment and the electoral roll only; civil status appears once, as a future application the biometric card would authenticate. The page is undated; 2018 is inferred."
+}

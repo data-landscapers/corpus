@@ -1,0 +1,23 @@
+{
+  "slug": "2018-08-21-wb-mozambique-land-administration-terra-segura-pid",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SiGIT",
+      "country_label": "Land Information Management System (SiGIT)",
+      "class": "land",
+      "platform": "",
+      "owner": "Ministry of Land, Environment and Rural Development (MITADER), through DINAT",
+      "tiers": "Introduced centrally and in the four northern provinces at the end of 2012, extended nationally after 2015"
+    },
+    {
+      "system": "Sistema Informático de Registo Predial",
+      "country_label": "Real Property Registry; automated property registry (Sistema Informático de Registo Predial)",
+      "class": "land",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "A land administration project document; it concerns land and property registers only and says nothing about civil registration."
+}

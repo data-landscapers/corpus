@@ -1,0 +1,66 @@
+{
+  "slug": "2025-09-19-zaf-national-department-of-health-annual-report-2024-25",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:299",
+      "fact": "The National Department of Health reports that the Online Birth Registration roll-out was completed in 47 health facilities in 2024/25, added to 252 completed in 2023/24, bringing to 299 the health facilities that can register births and issue birth certificates, against 1,445 public health facilities with maternity wards identified as in scope in 2019.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Online Birth Registration System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:161",
+      "fact": "The National Department of Health reports that from 2021 to 2022 the project established functional Online Birth Registration infrastructure, with a dedicated network, in 161 health facilities, to which full-time Home Affairs officials were allocated to provide birth registration services.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Online Birth Registration System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The National Department of Health describes the Online Birth Registration System in health facilities as registering births and issuing birth certificates; it mentions no death registration through the system.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Online Birth Registration System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The National Department of Health states that births are registered and certificates issued at the health facility itself, by full-time Home Affairs officials posted there, through a system it calls online and for which a dedicated network infrastructure was installed; it does not name the register the record is held in.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Online Birth Registration System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Department of Health states that the Department of Home Affairs and the health department run the Online Birth Registration roll-out together, with Home Affairs officials providing the registration service in the facilities.",
+      "as_of": "2025-03",
+      "date_precision": "month",
+      "system": "Online Birth Registration System",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Online Birth Registration System",
+      "country_label": "Online Birth Registration System (Online Birth Registration project)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Department of Home Affairs, with the National Department of Health",
+      "tiers": "public health facilities with maternity wards: 299 of 1,445 in scope by the end of 2024/25"
+    }
+  ],
+  "note": "The passages file breaks the key sentence after 'the 252'; the remainder (252 completed in 2023/24, total 299) was read from the same document in the mirror. As_of 2025-03 is the end of the 2024/25 financial year."
+}

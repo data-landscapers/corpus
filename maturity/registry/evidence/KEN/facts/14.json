@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-30-integrated-population-registration-service",
+  "facts": [],
+  "systems": [
+    {"system": "Maisha Integrated Population Register", "country_label": "Integrated Population Registration Service (IPRS); Maisha Integrated Register", "class": "identity", "platform": "", "owner": "Directorate of Population Registration Services, State Department for Immigration and Citizen Services", "tiers": "central repository collecting data from primary, secondary and tertiary registration agencies; identity verification service for public and private entities"},
+    {"system": "Maisha Namba", "country_label": "Unique Personal Identifier (Maisha Namba)", "class": "identity", "platform": "", "owner": "", "tiers": "assigned whenever an individual registers for a document"}
+  ],
+  "note": "The population register's own page: it takes data from the primary registration agencies but says nothing about how the civil registrar's offices make a birth or death record."
+}

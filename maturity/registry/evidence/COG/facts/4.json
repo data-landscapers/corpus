@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi",
+  "facts": [],
+  "systems": [
+    {"system": "Identité numérique (identifiant numérique unique)", "country_label": "Identité numérique", "class": "identity", "platform": "MOSIP", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique (MPTEN)", "tiers": "national, prospective; the identifier is to be attributed on the basis of the existing civil status registers, with biometric authentication"},
+    {"system": "Échanges et interopérabilité", "country_label": "Échanges et interopérabilité", "class": "exchange", "platform": "X-Road", "owner": "MPTEN", "tiers": "national, prospective; federated exchange between the Interior, Justice, Finance, Health and Higher Education ministries"},
+    {"system": "Portail e-Citizen", "country_label": "Portail e-Citizen", "class": "certificate", "platform": "", "owner": "MPTEN", "tiers": "national, prospective; single entry point for requests for administrative documents, civil status services among those listed"}
+  ],
+  "note": "The digital ministry's statement of a planned national architecture, undated on the page. It describes an identity layer built on existing civil status registers and a citizen portal, and says nothing of how a civil registration office records a birth or a death."
+}

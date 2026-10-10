@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-26-oneci-application-myoneci-plus-linfodrome",
+  "facts": [],
+  "systems": [
+    {"system": "MYONECI+", "country_label": "application MYONECI+", "class": "identity", "platform": "mobile application developed with Semlex Côte d'Ivoire", "owner": "ONECI", "tiers": "national, by smartphone; launched 23 April 2025; assistance at ONECI agencies in all Abidjan communes and many interior towns"},
+    {"system": "RNPP", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national"},
+    {"system": "Mobile enrolment campaigns (bus)", "country_label": "campagnes d'enrôlement mobiles", "class": "identity", "platform": "", "owner": "ONECI; bus handed over by Semlex-CI", "tiers": "mobile identification enrolment campaigns, including remote areas"}
+  ],
+  "note": "A mobile app carrying the identity card and a bus for identification enrolment campaigns (class identity); nothing on the registration of births or deaths."
+}

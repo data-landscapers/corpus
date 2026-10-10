@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-15 South Africa plans Intelligent Population Register in proposed civil registration reform",
+  "facts": [],
+  "systems": [
+    {"system": "Intelligent Population Register (IPR)", "country_label": "Intelligent Population Register (IPR), to replace the National Population Register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": ""},
+    {"system": "National Population Register", "country_label": "National Population Register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": "A proposal, not a system in use: the draft revised White Paper on Citizenship, Immigration and Refugee Protection (gazetted about 12 Dec 2025, comment to 31 Jan 2026) proposes a population register as the basis of digital identity and intends to make birth and death registration mandatory through digital channels; it does not say how or where an office records an event, so no civil-class fact is taken."
+}

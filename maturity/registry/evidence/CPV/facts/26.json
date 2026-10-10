@@ -1,0 +1,25 @@
+{
+  "slug": "2025-01-01-nosi-egov-solutions",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "NOSi's catalogue of its e-government solutions says the Civilian ID System, working with SNIAC, collects and processes civil registry data on births, marriages, deaths and stillbirths in a stream linking the civil registries to other government systems, and registers the citizen's life events; the page gives no date, so the date is its published year, and no count of offices.", "as_of": "2025", "date_precision": "year", "system": "Civilian ID System", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civilian ID System", "country_label": "Civilian ID System", "class": "civil", "platform": "developed by NOSi", "owner": "not stated; a NOSi solution working in conjunction with SNIAC", "tiers": "civil registries, in a stream connecting them to other government information systems; no count of offices given"},
+    {"system": "Dematerialization of the Notary Identity Register (RNI)", "country_label": "RNI", "class": "archive", "platform": "developed by NOSi", "owner": "", "tiers": "digitised the entire ID file into digital format"},
+    {"system": "Computerization of the Notary's Identification Register (RNI)", "country_label": "RNI", "class": "", "platform": "developed by NOSi", "owner": "", "tiers": "described only as feeding the State information system"},
+    {"system": "National System for Civil Identification and Authentication", "country_label": "SNIAC", "class": "identity", "platform": "developed by NOSi", "owner": "", "tiers": "central system managing identification, authentication and the citizen life cycle for the identity card, passport and residence permit"},
+    {"system": "National Identification Card (CNI)", "country_label": "CNI", "class": "identity", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Cabo Verde Electronic Passport (PEC)", "country_label": "PEC", "class": "identity", "platform": "", "owner": "", "tiers": "national; set up in 2014, launched in 2016"},
+    {"system": "Mobile Digital Key (CMDCV)", "country_label": "CMDCV", "class": "identity", "platform": "", "owner": "certified by the State", "tiers": "national online"},
+    {"system": "Autentika", "country_label": "Autentika", "class": "identity", "platform": "WSO2", "owner": "", "tiers": "central single sign-on for State applications"},
+    {"system": "Online Certificates", "country_label": "Online Certificates (Porton di nos Ilha)", "class": "certificate", "platform": "portal www.portondinosilha.cv", "owner": "", "tiers": "certificates issued electronically from anywhere in the country or abroad"},
+    {"system": "Casa do Cidadão and Porton di nos ilha Portal", "country_label": "Casa do Cidadão / Porton di nos ilha", "class": "", "platform": "", "owner": "", "tiers": "one-stop shop through counters, web and contact centre"},
+    {"system": "PDEX", "country_label": "PDEX", "class": "", "platform": "", "owner": "", "tiers": "integration and interoperability layer between applications and services"},
+    {"system": "Land Registry Information System (SIRP)", "country_label": "SIRP", "class": "land", "platform": "developed by NOSi", "owner": "", "tiers": "registers property acts and recovers records held in books and files with their scanned images"},
+    {"system": "Commercial Registry Information System (SIRC)", "country_label": "SIRC", "class": "land", "platform": "developed by NOSi", "owner": "", "tiers": "commercial registry offices"},
+    {"system": "Land Registry / Property Registration Special Regime System (SRERP)", "country_label": "SRERP", "class": "land", "platform": "developed by NOSi", "owner": "", "tiers": "registration of tourism property"},
+    {"system": "SIMLAND", "country_label": "SIMLAND", "class": "land", "platform": "developed by NOSi", "owner": "municipalities", "tiers": "municipal"},
+    {"system": "Biometric Electoral Census", "country_label": "Biometric Electoral Census", "class": "land", "platform": "developed by NOSi", "owner": "", "tiers": "national and diaspora, central database"}
+  ],
+  "note": "An undated catalogue page (published given as 2025, year precision). The Civilian ID System entry says events are processed and registered in a stream linking the civil registries to other government systems, but not whether the entry is made at the office at registration, so no fact is taken for how the record is made, nor for offices."
+}

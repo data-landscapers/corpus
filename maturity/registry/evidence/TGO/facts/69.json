@@ -1,0 +1,34 @@
+{
+  "slug": "2009-06-11-togo-loi-2009-010-organisation-etat-civil",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Law 2009-010 (art. 2) places civil registration under the joint supervision of the minister for territorial administration and the minister for justice, who organise, run and control it; declarations are received in the communes by mayors or their delegates (art. 5), and communes buy the registers on the ministry's single model (art. 9).",
+      "as_of": "2009-06-11",
+      "date_precision": "day",
+      "system": "état civil (registre d'état civil)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "registre d'état civil",
+      "country_label": "registre d'état civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "ministry for territorial administration and ministry of justice (joint supervision); kept by mayors and civil-status agents",
+      "tiers": "a centre d'état civil in every urban commune, rural commune and commune d'arrondissement, with secondary centres where needed; diplomatic and consular posts; centres outside communes continue until communal structures exist"
+    },
+    {
+      "system": "registre d'attestation des naissances",
+      "country_label": "registre d'attestation des naissances",
+      "class": "notification",
+      "platform": "",
+      "owner": "hospitals, maternities and public or private health facilities",
+      "tiers": "health facilities; consultable by the civil-status officer"
+    }
+  ],
+  "note": "The law names no software and states no office as registering digitally. Art. 15 says registration and keeping of acts are 'manuels et/ou informatisés' and that computerised acts have the same legal value as manual ones: a permission, not a statement of practice, and no value of 'made' or 'events' fits it. The register it describes is a bound register of five-part leaves (arts. 10-13): part 1 kept at the centre, part 2 sent up to the ministry for national centralisation, part 3 yearly to the court, part 4 monthly to the regional statistics directorate, part 5 to the declarant. Births declared within 45 days (art. 18), deaths within 15 days (art. 23)."
+}

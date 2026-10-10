@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-16-birth-registration-campaign-4.6m-children-malawi24",
+  "facts": [],
+  "systems": [
+    {"system": "National Birth Registration Campaign", "country_label": "National Birth Registration Campaign", "class": "outreach", "platform": "", "owner": "National Registration Bureau; K5.4 billion allocated in the 2025/26 financial year for the first two phases of a K17.8 billion cost, with Treasury and partners approached for the rest", "tiers": "seven phases across 25 districts, government primary schools as registration centres staffed by trained teachers and NRB staff; about 4.6 million unregistered children under 16 targeted"},
+    {"system": "national population register", "country_label": "national population register", "class": "", "platform": "", "owner": "National Registration Bureau", "tiers": "about 3.8 million children registered since 2015 and over 12.8 million national IDs issued"}
+  ],
+  "note": "About a phased registration campaign, which the typology classes as outreach, and counts of children registered; nothing on how local offices make the record."
+}

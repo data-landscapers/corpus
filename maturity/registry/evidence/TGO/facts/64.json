@@ -1,0 +1,15 @@
+{
+  "slug": "2020-01-01-smart-africa-blueprint-digital-identity",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WURI foundational identification (fID) system",
+      "country_label": "digital foundational identification (fID) system",
+      "class": "identity",
+      "platform": "",
+      "owner": "World Bank WURI Program, whose second phase added Togo on 28 April 2020",
+      "tiers": ""
+    }
+  ],
+  "note": "The passages name Togo only as a label on a chart of population registered, with no figure, and as a second-phase WURI country for identity credentials; nothing on its civil registration."
+}

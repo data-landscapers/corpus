@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Credentials (digital Birth Certificate)", "country_label": "Smart Credentials", "class": "certificate", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": ""},
+    {"system": "Mobile ID", "country_label": "Mobile ID", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages promise a digital birth certificate as a credential and list civil status among the services to be joined up; they state nothing of how or where a birth or death is registered."
+}

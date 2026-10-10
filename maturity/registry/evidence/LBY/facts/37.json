@@ -1,0 +1,10 @@
+{
+  "slug": "2022-04-01-worldbank-wfp-social-assistance-programs-delivery-libya-codi",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registry database (civil status authority system)", "country_label": "Civil Registry; civil status authority system", "class": "", "platform": "", "owner": "Civil Registry / Civil Status Department, under the Ministry of Interior", "tiers": ""},
+    {"system": "Manual data sharing between the Civil Registry and social assistance agencies (Social Solidarity Fund, Ministry of Social Affairs, via the Social Security Fund)", "country_label": "", "class": "exchange", "platform": "", "owner": "Civil Registry, Ministry of Interior", "tiers": "national"},
+    {"system": "Biometric data system (intention stated by the Civil Status Department in 2019)", "country_label": "", "class": "identity", "platform": "", "owner": "Civil Status Department", "tiers": ""}
+  ],
+  "note": "A social assistance diagnostic: it names the Civil Registry database as a source for verifying beneficiaries and says the Civil Registry issues birth and death certificates under the Ministry of Interior with all data sharing done manually, but does not say how or where a birth or death is entered, so the system is unclassified and gives no fact."
+}

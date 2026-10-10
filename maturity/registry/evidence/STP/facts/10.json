@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-15-stp-lanca-sistema-emissao-passaportes-sep-2-0",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Emissão de Passaporte (SEP 2.0)",
+      "country_label": "SEP 2.0; sistema de emissão de passaportes 2.0",
+      "class": "identity",
+      "platform": "Supplied under a four-year contract of 2025 with Imprensa Nacional Casa da Moeda (Portugal)",
+      "owner": "Serviço de Migração e Fronteiras (SMF)",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "A passport issuance system launched on 15 April 2026; nothing on the registration of births or deaths."
+}

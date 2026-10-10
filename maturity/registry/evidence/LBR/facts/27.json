@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-28-world-bank-digital-liberia-week-2025-event-book",
+  "facts": [],
+  "systems": [
+    {"system": "UNICEF-supported pilot integrating birth registration with the national ID system", "country_label": "Birth Registration Pilot", "class": "exchange", "platform": "", "owner": "National Identification Registry and Ministry of Health, with UNICEF", "tiers": "pilot; health facilities, where 85 per cent of births are said to occur"},
+    {"system": "National ID system", "country_label": "national ID card", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national; decentralised registration centres called for"}
+  ],
+  "note": "The event book reports a pilot linking birth registration to the national ID (exchange) and the Ministry of Health's Assistant Minister for Vital Statistics saying registration is decentralised; it does not say how or where a birth is entered digitally."
+}

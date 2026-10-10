@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CAF,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-07,CAF-002;CAF-004;CAF-008,CAF-007=owner:ministry;CAF-009=finance:donor;CAF-003=plan:current,
+CAF,civil,events,coverage,none,2017-11,CAF-015,,nothing dated since 2023-10-10
+CAF,civil,made,coverage,paper,2026-07-18,CAF-005;CAF-010;CAF-013;CAF-014,,
+CAF,civil,last12,qualifier,advancing,2026-07,CAF-001;CAF-006,,
+CAF,civil,offices,coverage,,,,,nothing held

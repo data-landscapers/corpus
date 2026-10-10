@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-05-civ-aip-parae-confiance-services-publics-numeriques",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques (RNPP)", "class": "identity", "platform": "", "owner": "ONECI, under the Ministry of the Interior and Security", "tiers": "national"},
+    {"system": "plateforme nationale d'authentification numérique et point d'accès à l'identité numérique", "country_label": "plateforme nationale d'authentification et point d'accès à l'identité numérique", "class": "identity", "platform": "", "owner": "ONECI carries the project, under PARAE (cofinanced by the African Development Bank)", "tiers": "national; feasibility study launched 2026-10-05, results due by January 2027"}
+  ],
+  "note": "Feasibility study for a national authentication platform built on the population register; civil status is named only as a field in which identity intervenes. Nothing on how offices register births or deaths."
+}

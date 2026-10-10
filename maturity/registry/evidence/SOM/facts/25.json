@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-29-somalia-business-establishment-analysis-booklet-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Statistical Business Register (SBR)", "country_label": "Somali Statistical Business Register", "class": "land", "platform": "", "owner": "Somalia National Bureau of Statistics", "tiers": "national; to be built from the 2024 Business Establishment Census, which enumerated urban centres"}
+  ],
+  "note": "A statistical booklet on the 2024 Business Establishment Census. It says nothing about civil registration, births or deaths; the only register it names is a statistical business register, which the typology puts out of scope."
+}

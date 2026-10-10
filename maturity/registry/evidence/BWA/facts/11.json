@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "BOPA reports that in the Ministry of Labour and Home Affairs' 2026/27 recurrent budget request, P105 million under Civil and National Registration will fund Omang card production and the maintenance of the Births and Deaths Registration System; no share for the BDRS is given.", "as_of": "2026-03-02", "date_precision": "day", "system": "Births and Deaths Registration System", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Births and Deaths Registration System", "country_label": "Births and Deaths Registration System", "class": "civil", "platform": "", "owner": "Ministry of Labour and Home Affairs, Civil and National Registration", "tiers": ""},
+    {"system": "Electronic Identification System / Digital ID project", "country_label": "Electronic Identification System; Digital ID project", "class": "identity", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": "planned; first prioritised for 2025/26 as a public-private partnership, since widened to digital IDs, a national e-wallet and e-government services"},
+    {"system": "Biometric Omang system", "country_label": "Biometric Omang", "class": "identity", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": "within P42 million of computerisation projects in the 2026/27 development budget"}
+  ],
+  "note": "The BDRS is named with no description of what it does; classed civil on its name being that of the births and deaths register, as in document 7. The date is the article's, 2 March 2026."
+}

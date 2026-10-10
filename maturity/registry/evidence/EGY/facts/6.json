@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-23-ahram-egypt-central-bank-digital-financial-identity-rules",
+  "facts": [],
+  "systems": [
+    {"system": "Digital financial identity system (eKYC)", "country_label": "منظومة الهوية المالية الرقمية", "class": "identity", "platform": "", "owner": "Central Bank of Egypt", "tiers": "banks' digital channels"}
+  ],
+  "note": "Central Bank rules for electronic customer identification at banks; nothing on civil registration."
+}

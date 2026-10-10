@@ -1,0 +1,10 @@
+{
+  "slug": "2024-10-28-second-quarter-performance-report-fy2024-25",
+  "facts": [],
+  "systems": [
+    {"system": "Modernization of Civil Registration and Immigration Systems", "country_label": "Modernization of Civil Registration and Immigration Systems (capital project G63099)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Deeds Registration and Information Management System", "country_label": "Deeds Registration and Information Management System (Phase 2); Prototype Deeds Registration System", "class": "land", "platform": "", "owner": "Deeds Registry Office, Ministry of Natural Resources and Energy", "tiers": "prototype at 60% completion, under test for gradual rollout"},
+    {"system": "Automated Biometric Identification System", "country_label": "Installation of an Automated Biometric Identification System (capital project T52499)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages name the capital project 'Modernization of Civil Registration and Immigration Systems' only as a budget line (E20,000,000 budgeted, 0% implementation in Q1 and Q2 of FY2024/25, nothing released) with no description of what it does, so it is unclassified and gives no fact; the rest concerns the deeds system and the statistics office's use of civil registration data."
+}

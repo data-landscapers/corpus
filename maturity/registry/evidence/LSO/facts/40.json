@@ -1,0 +1,52 @@
+{
+  "slug": "2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "pilot",
+      "fact": "The World Bank appraisal document of 22 December 2023 states that UNICEF is supporting the Government of Lesotho on a pilot programme for the digitisation of select civil registration processes; it gives no count of offices and does not say where the pilot runs.",
+      "as_of": "2023-12-22",
+      "date_precision": "day",
+      "system": "UNICEF-supported pilot program for the digitization of select civil registration processes",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank appraisal document of 22 December 2023 states that the digitisation of select civil registration processes is a pilot supported by UNICEF, and that the proposed US$12 million IDA credit (Component 3, US$5 million; approval expected 23 January 2024, closing 31 March 2028) will finance technical assistance for the digitalisation of selected Department of Home Affairs services, namely civil registration, identification and authentication; no domestic budget line is stated.",
+      "as_of": "2023-12-22",
+      "date_precision": "day",
+      "system": "UNICEF-supported pilot program for the digitization of select civil registration processes",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "UNICEF-supported pilot program for the digitization of select civil registration processes",
+      "country_label": "pilot program for the digitization of select civil registration processes",
+      "class": "civil",
+      "platform": "",
+      "owner": "Government of Lesotho, with UNICEF support",
+      "tiers": "pilot; places not stated"
+    },
+    {
+      "system": "National Identity system (NID)",
+      "country_label": "NID",
+      "class": "identity",
+      "platform": "",
+      "owner": "National ID and Civil Registry department (NICR), Department of Home Affairs, Ministry of Local Government, Chieftainship, Home Affairs and Police",
+      "tiers": "national; offers identity verification to a limited number of public and private entities (banks, mobile network operators, insurers), often with manual processes"
+    },
+    {
+      "system": "Whole-of-government interoperability platform (planned)",
+      "country_label": "Whole-of-Government Data Sharing Platform",
+      "class": "exchange",
+      "platform": "",
+      "owner": "MICSTI",
+      "tiers": "planned under the project; not in place in September 2023 (results-framework baseline), target September 2027; to connect key public entities and registries"
+    }
+  ],
+  "note": "The pilot is classed civil on the document's own words (digitisation of civil registration processes); the document does not describe what the pilot system does at an office, nor which events it covers."
+}

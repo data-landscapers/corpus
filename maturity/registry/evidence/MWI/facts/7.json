@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-26-mwi-nzika-wallet-laxton-biometric-contract",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration and Identification System (NRIS)", "country_label": "NRIS", "class": "identity", "platform": "", "owner": "National Registration Bureau; UNDP handed it the source code in October 2018", "tiers": "national; more than 13.5 million registered, about 99 per cent of citizens aged 16 and over according to the ICT minister"},
+    {"system": "Nzika Digital ID Wallet", "country_label": "Nzika", "class": "identity", "platform": "blockchain architecture designed by the United Nations International Computing Centre", "owner": "National Registration Bureau, developed with UNDP under the Inclusive Digital Transformation for Malawi programme", "tiers": "citizens' smartphones; launched 16 September 2026, more than 22,000 signed up by launch day; holds digital national IDs and birth, marriage and death certificates"},
+    {"system": "portable biometric registration kits", "country_label": "biometric registration kits", "class": "identity", "platform": "Laxton", "owner": "National Registration Bureau; procured by the Public Private Partnership Commission under the World Bank Digital Malawi Acceleration Project, contract of US$5,085,053.74 awarded March 2026", "tiers": "2,400 kits; 2,000 kits supplied in 2017 for the first mass registration"},
+    {"system": "national eKYC system", "country_label": "eKYC", "class": "identity", "platform": "", "owner": "planned under the Digital Malawi Acceleration Project", "tiers": "heading to procurement as of November 2025"},
+    {"system": "Bomalathu data-sharing platform", "country_label": "Bomalathu", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": "being expanded to connect more government services"}
+  ],
+  "note": "An investigation into the identity system's kit contract and data access; it says the wallet holds birth, marriage and death certificates but states nothing about how or where births or deaths are registered."
+}

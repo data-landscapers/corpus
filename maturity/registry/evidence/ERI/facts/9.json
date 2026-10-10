@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ID Card",
+      "country_label": "National ID Card",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Eritrea appears once, in Annex D: foundational credential 'National ID Card', no digital ID, adult coverage estimated from the birth registration rate. Nothing on how civil registration offices register."
+}

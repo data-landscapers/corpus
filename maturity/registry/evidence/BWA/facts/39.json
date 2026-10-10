@@ -1,0 +1,19 @@
+{
+  "slug": "1969-04-01-births-and-deaths-registration-act",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Births and Deaths Registration Act, in force from 1 April 1969 and last amended in the captured text by Act 16 of 1998, has the Minister appoint a public officer as Registrar of Births and Deaths, custodian of all notices, returns, registers and records of births and deaths, with District Registrars and Registration Officers acting under the Registrar's direction.",
+      "as_of": "1969-04-01",
+      "date_precision": "day",
+      "system": "Births Register and Deaths Register",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {"system": "Births Register and Deaths Register", "country_label": "Births Register; Deaths Register", "class": "civil", "platform": "", "owner": "Registrar of Births and Deaths", "tiers": "Registrar; District Registrars; Registration Officers"}
+  ],
+  "note": "The capture stops at the opening of section 4 (the rest is behind a subscription wall): nothing on the form of the register, electronic or paper, so no coverage fact."
+}

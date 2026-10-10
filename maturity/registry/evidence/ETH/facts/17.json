@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "National Fayda Digital ID", "class": "identity", "platform": "", "owner": "National ID Program; registration under a joint venture with Safaricom Ethiopia and Africom Technologies PLC for Lots 3 and 4", "tiers": "registration to be expanded in Afar, Amhara, Tigray, Sidama, South West Ethiopia, Central Ethiopia and South Ethiopia"}
+  ],
+  "note": "Identity enrolment only; nothing on civil registration."
+}

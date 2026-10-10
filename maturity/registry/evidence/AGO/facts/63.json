@@ -1,0 +1,12 @@
+{
+  "slug": "2020-06-17 Angola now using Chinese-devised civil registration system",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Forum Macao, quoting Jornal de Angola and technical lead Fernando Fortes, reports that the Angolan authorities began using a new civil-registration system devised by China, with the aim of registering the births of 12 million Angolans by 2022; no start date is given, so the document's published date is used.", "as_of": "2020-06-17", "date_precision": "day", "system": "new civil-registration system devised by China", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "Forum Macao, quoting Jornal de Angola, says the new civil-registration system was rolled out first in Luanda and gives no count of offices using it; no date is given for the rollout, so the document's published date is used.", "as_of": "2020-06-17", "date_precision": "day", "system": "new civil-registration system devised by China", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "new civil-registration system devised by China", "country_label": "", "class": "civil", "platform": "", "owner": "the Angolan authorities (not named further); China National Electronics Import & Export Corp (CEIEC) won the contract to set it up in November 2019", "tiers": "rolled out first in Luanda"},
+    {"system": "national identity card", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "not stated; the civil-registration system supplies the birth-certificate copy used to apply for it"}
+  ],
+  "note": ""
+}

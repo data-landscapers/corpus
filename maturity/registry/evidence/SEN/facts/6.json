@@ -1,0 +1,16 @@
+{
+  "slug": "2026-09-21-sen-ecofin-civil-registry-77-percent-digitized",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:77%", "fact": "ANEC's director general Matar Ndao said in September 2026 that 77% of Senegal's 629 civil registry centres had been digitised; the document does not say what a digitised centre does.", "as_of": "2026-09", "date_precision": "month", "system": "civil registry management software", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:74%", "fact": "As of August 2026 the civil registry management software had been deployed in 74% of civil registry centres (of 629), a share deployed rather than a share registering, per Ecofin reporting ANEC.", "as_of": "2026-08", "date_precision": "month", "system": "civil registry management software", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The National Civil Registry Agency (ANEC), a state agency, rolls out the civil registry management software and plans to extend it to the remaining regions; the data are hosted in Senegal on several government-owned sites.", "as_of": "2026-09", "date_precision": "month", "system": "civil registry management software", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The share of the 629 centres digitised reached 77% in September 2026, with the management software in 74% of centres in August 2026 and extension to the remaining regions planned, per ANEC.", "as_of": "2026-09", "date_precision": "month", "system": "civil registry management software", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registry management software", "country_label": "civil registry management software", "class": "civil", "platform": "", "owner": "National Civil Registry Agency (ANEC)", "tiers": "civil registry centres; deployed in 74% of 629 centres as of August 2026"},
+    {"system": "Sama État Civil", "country_label": "Sama État Civil", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "operational in 189 municipalities as of August 2026; citizens request birth, marriage and death certificates online and collect them at the centre"},
+    {"system": "pre-registration software for health facilities", "country_label": "pre-registration software", "class": "notification", "platform": "", "owner": "ANEC", "tiers": "health facilities; expected, to transmit information on births and deaths"},
+    {"system": "connection of the civil registry with other government agencies and public services", "country_label": "", "class": "exchange", "platform": "", "owner": "ANEC", "tiers": "being worked on"}
+  ],
+  "note": ""
+}

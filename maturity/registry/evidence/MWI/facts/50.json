@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-nrb-birth-registration",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The NRB's birth registration page states that a birth is applied for by completing and signing the NR8 Birth Report form at a health facility or before a village head, who verifies it by signing; where the facility has no certificate printer, or in the community, the certificate is processed at the District Registration Office or issued by the village head within 30 days, and no digital system is named. The page is undated; its published year is used.", "as_of": "2025", "date_precision": "year", "system": "Birth registration (NR8 Birth Report)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The NRB's birth registration page states that a birth certificate is issued before the mother is discharged in health facilities with certificate printers, and immediately at a District Registration Office or post office for late and delayed registration. The page is undated; its published year is used.", "as_of": "2025", "date_precision": "year", "system": "Birth registration (NR8 Birth Report)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Birth registration (NR8 Birth Report)", "country_label": "Birth registration; NR8 Form (Birth Report)", "class": "civil", "platform": "", "owner": "National Registration Bureau", "tiers": "Health facilities, village heads, District Registration Offices, designated post offices and designated outreach centres"}
+  ],
+  "note": ""
+}

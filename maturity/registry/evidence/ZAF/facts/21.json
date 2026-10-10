@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-01-dha-blocked-id-numbers-campaign",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register", "country_label": "National Population Register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national; 2,202,368 blocked identity numbers unblocked to 2026-06-01; representations taken at any Home Affairs front office"}
+  ],
+  "note": "A campaign on blocked identity numbers; birth certificates appear only as supporting documents and nothing is stated on how births or deaths are registered."
+}

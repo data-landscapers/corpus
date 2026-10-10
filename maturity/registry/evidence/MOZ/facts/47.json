@@ -1,0 +1,52 @@
+{
+  "slug": "2024-08-14-jembi-birth-registration-interoperability",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "Jembi states that health facilities in Inhambane Province use the birth module of e-SiRCEV, the electronic civil registration and vital statistics system, and that its link to the hospital births module was launched on 22 July 2024; deaths are not mentioned.",
+      "as_of": "2024-07-22",
+      "date_precision": "day",
+      "system": "e-SiRCEV",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:5",
+      "fact": "Jembi states that five health facilities in Inhambane Province used the e-SiRCEV birth module, a number the interoperability project begun there in April and May 2024 was to raise to nineteen; these are health facilities in one province, no national count of offices is given.",
+      "as_of": "2024-05",
+      "date_precision": "month",
+      "system": "e-SiRCEV",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-SiRCEV",
+      "country_label": "Electronic Civil Registration and Vital Statistics System (e-SiRCEV)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Government of Mozambique (not specified further)",
+      "tiers": "Birth module used in health facilities in Inhambane Province: five, to become nineteen"
+    },
+    {
+      "system": "MGDH-births",
+      "country_label": "Hospital Data Management Module for Births Registration (MGDH-births)",
+      "class": "notification",
+      "platform": "",
+      "owner": "Government of Mozambique, with technical support from Jembi Health Systems and Saudigitus, funded by Vital Strategies via Bloomberg Philanthropies",
+      "tiers": "Public hospitals and health centres; Chicuque, Zavala, Maxixe, Inhambane and Inharrime districts of Inhambane from April and May 2024, national expansion planned"
+    },
+    {
+      "system": "e-SiRCEV and MGDH-births interoperability",
+      "country_label": "interoperability between e-SiRCEV and MGDH-births",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Government of Mozambique, with Jembi Health Systems and Saudigitus",
+      "tiers": "Launched 22 July 2024; real-time electronic birth notifications from public hospitals"
+    }
+  ],
+  "note": ""
+}

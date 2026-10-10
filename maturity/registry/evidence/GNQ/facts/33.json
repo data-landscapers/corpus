@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)",
+  "facts": [],
+  "systems": [
+    {"system": "CNEDOGE issuance of biometric official documents (DIP, passports, residence cards, civil-servant cards)", "country_label": "CNEDOGE; DIP", "class": "identity", "platform": "", "owner": "CNEDOGE, an autonomous public entity created by Decree 24/2010, attached to the Ministry of National Security", "tiers": "seat in Malabo; mandated to install and manage issuing and verification devices nationwide and at diplomatic and consular missions"}
+  ],
+  "note": "An explainer on the identity-document issuing centre; nothing on civil registration."
+}

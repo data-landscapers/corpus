@@ -1,0 +1,18 @@
+{
+  "slug": "2025-05-07-actuniger-niger-revue-plan-strategique-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:103", "fact": "ActuNiger reports, and UNICEF's representative repeats, that the INCI solution computerising civil status services was deployed in 103 communes by May 2025, with 40 more being integrated; no total of communes or offices is given, and the large declaration centres are said to have been digitalised.", "as_of": "2025-05-07", "date_precision": "day", "system": "INCI", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The 2023-2027 strategic plan for improving civil registration and vital statistics, successor to the 2017-2021 plan evaluated in 2022, was under mid-term review at a workshop opened by the Interior Ministry's secretary general on 7 May 2025; the article presents INCI computerisation as part of the same reform programme.", "as_of": "2025-05-07", "date_precision": "day", "system": "INCI", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNICEF's representative said the computerisation of civil status reached 103 communes notably with UNICEF support, and the WURI-Niger coordinator said WURI aims to computerise 87 more communes by end 2025; the review workshop was to look for lasting financing.", "as_of": "2025-05-07", "date_precision": "day", "system": "INCI", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "In May 2025, 40 further communes were being integrated into civil status computerisation beyond the 103 covered, and WURI-Niger set a target of 87 additional communes computerised by end 2025.", "as_of": "2025-05", "date_precision": "month", "system": "INCI", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "INCI", "country_label": "solution « INCI »", "class": "civil", "platform": "", "owner": "", "tiers": "103 communes nationally; 40 more being integrated"},
+    {"system": "Numérisation des actes", "country_label": "numérisation des actes dans quatre communes pilotes", "class": "archive", "platform": "", "owner": "", "tiers": "four pilot communes"},
+    {"system": "Hakin Yara", "country_label": "campagne nationale « Hakin Yara »", "class": "outreach", "platform": "", "owner": "", "tiers": "national campaign launched 2024; regional campaigns in Agadez, Dosso, Maradi and Zinder; mobile registration in areas without civil status agents"},
+    {"system": "Audiences foraines", "country_label": "audiences foraines", "class": "outreach", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Interopérabilité avec les formations sanitaires", "country_label": "interopérabilité avec les formations sanitaires", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "WURI-Niger", "country_label": "programme WURI-Niger", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

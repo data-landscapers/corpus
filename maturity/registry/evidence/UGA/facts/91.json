@@ -1,0 +1,10 @@
+{
+  "slug": "2021-01-01-uga-health-information-digital-health-strategic-plan-2020-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Ministry of Health registry on medical causes of death and births", "country_label": "certification of medical causes of death, death and birth notification (strategy 1.2)", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "health facilities, public and private; planned for 2020/21 to 2024/25, with timely birth notification for all health facility deliveries"},
+    {"system": "link of the Ministry of Health registry on causes of death and births to NIRA's national citizens' register", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "planned intervention, 2020/21 to 2024/25"},
+    {"system": "NIRA's national citizens' register", "country_label": "national citizens' register", "class": "identity", "platform": "", "owner": "NIRA", "tiers": ""}
+  ],
+  "note": "The health ministry's plan (January 2021) treats births and deaths from the health side only: facilities notify and certify, and a planned link feeds NIRA's register; it says civil registration is limited and vital registration data incomplete, and states nothing on how or where the registrar records an event. Its budget line 1.2, 'Strengthen civil registration and vital statistics', is US$4,475,028 over five years for that notification and certification work."
+}

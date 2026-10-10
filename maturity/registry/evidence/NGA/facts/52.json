@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-13-fg-unlock-150-billion-dormant-land-capital",
+  "facts": [],
+  "systems": [
+    {"system": "Land Information Systems (LIS) and Geographic Information Systems (GIS) under the National Land Registration, Documentation and Titling Programme (NLRDTP)", "country_label": "NLRDTP / Land4Growth; National Land Information Repository", "class": "land", "platform": "", "owner": "State land agencies and registries, coordinated by the Federal Ministry of Housing and Urban Development", "tiers": "initial phase in 18 to 20 states (planned)"},
+    {"system": "Lagos e-GIS", "country_label": "Lagos e-GIS reforms", "class": "land", "platform": "", "owner": "Lagos State Government", "tiers": "Lagos State"}
+  ],
+  "note": "About land registration and titling only, which is out of the study's scope; nothing on civil registration."
+}

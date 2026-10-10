@@ -1,0 +1,8 @@
+{
+  "slug": "2022-11-01-cabo-verde-mcc-evaluation-lmits-land-management-information-system",
+  "facts": [],
+  "systems": [
+    {"system": "Land Management, Information and Technology System (LMITS)", "country_label": "LMITS", "class": "land", "platform": "", "owner": "National Land Management Institute", "tiers": "Land registries, notaries and municipal chambers on Sal, Boa Vista, São Vicente and Maio; used to process most land transactions"}
+  ],
+  "note": "MCC evaluation brief on the land management system; the registries and registrar's office it names are land registries. Nothing on civil registration."
+}

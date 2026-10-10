@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-17 Congo - national workshop launches secure digital-identity system push",
+  "facts": [],
+  "systems": [
+    {"system": "SIFEC (Système d'information des faits d'État Civil)", "country_label": "Système d'information des faits d'État Civil (SIFEC)", "class": "", "platform": "", "owner": "Ministry of the Interior (the director general of territorial administration spoke for it)", "tiers": "not stated"},
+    {"system": "Unified digital identity (planned) and Digital Wallet", "country_label": "identité numérique unifiée ; Digital Wallet", "class": "identity", "platform": "", "owner": "Ministry of the Interior, with World Bank support under PATN; Ministry of Posts, Telecommunications and Digital Economy", "tiers": "national, being built; the government committed to a legal and institutional framework for the wallet"}
+  ],
+  "note": "The held text is a short summary of an ACI report on the workshop of 16 July 2025. It says the Interior ministry reported civil status reform progressing through SIFEC, 'digitising civil-status records', which does not say whether offices enter events in it or past registers are being captured; the system is left unclassified and no fact is taken."
+}

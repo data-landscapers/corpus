@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-sudan-sudapass-imminent-launch-announcement",
+  "facts": [],
+  "systems": [
+    {"system": "SudaPass", "country_label": "SudaPass unified national digital identity", "class": "identity", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": "application activated by passport verification or facial recognition, giving access to government and private services and electronic signature; announced as imminent, within the Baladna platform"}
+  ],
+  "note": "The document announces the coming launch of the national digital identity; nothing on civil registration."
+}

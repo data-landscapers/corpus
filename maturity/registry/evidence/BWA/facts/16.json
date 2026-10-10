@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National ID System / National Identity Card (Omang)", "country_label": "Omang", "class": "identity", "platform": "", "owner": "", "tiers": "national; adult coverage 90 per cent or above in the 2024 Findex survey (9 September to 3 October 2024); no digital ID for online authentication"}
+  ],
+  "note": "A global dataset on adult identity-card ownership; for Botswana it names only the national identity system and says nothing on how births or deaths are registered."
+}

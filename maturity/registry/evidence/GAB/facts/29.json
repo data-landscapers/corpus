@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-28-gabon-national-id-card-goes-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic National Identity Card (CNIE)", "country_label": "Carte nationale d'identité électronique (CNIE)", "class": "identity", "platform": "chip card carrying a 14-character Personal Identification Number (NIP)", "owner": "", "tiers": "national; applications open June 2024; the NIP certificate, issued after biometric capture, is required to apply"}
+  ],
+  "note": "Identity card only (class identity); nothing on civil registration."
+}

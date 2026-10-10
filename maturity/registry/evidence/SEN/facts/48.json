@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-23-anec-ansd-protocole-interoperabilite-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "protocole d'interopérabilité ANEC-ANSD", "country_label": "protocole d'interopérabilité", "class": "exchange", "platform": "", "owner": "Agence nationale de l'État civil (ANEC) and Agence Nationale de la Statistique et de la Démographie (ANSD)", "tiers": "national; protocol signed in the week of 23 January 2026, with no scope or technical arrangement stated"}
+  ],
+  "note": "The signing of an interoperability protocol between the civil-status and statistics agencies, which is exchange; nothing on how offices record events."
+}

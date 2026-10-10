@@ -1,0 +1,14 @@
+{
+  "slug": "2020-06-01-prodigy-deee-plan-gestion-dechets",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "PRODIGY's e-waste plan of June 2020 states that the project is to computerise the civil status registration system and all civil status processes (births, marriages, deaths) for all Malagasy municipalities; this is stated as what the project will do, not as in service.", "as_of": "2020-06", "date_precision": "month", "system": "système d'enregistrement des faits d'état civil (informatisation)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "PRODIGY's e-waste plan of June 2020 states that the 1,695 communes of all regions are to receive civil status registration tools and digital systems, with one kit (desktop computer, central unit, multifunction printer, UPS) for each of the 1,695 commune civil status offices, 6,780 units in all; it is a projection made in the preparation phase and names no office yet equipped or entering digitally.", "as_of": "2020-06", "date_precision": "month", "system": "système d'enregistrement des faits d'état civil (informatisation)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "PRODIGY's e-waste plan of June 2020 presents the computerisation of civil status registration as part of PRODIGY (P169413), a project supported by the World Bank through investment project financing with the Government as borrower; it names no domestic budget line.", "as_of": "2020-06", "date_precision": "month", "system": "système d'enregistrement des faits d'état civil (informatisation)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "système d'enregistrement des faits d'état civil (informatisation)", "country_label": "système d'enregistrement des faits d'état civil; outils d'enregistrement des actes d'état civil", "class": "civil", "platform": "", "owner": "Government of Madagascar under PRODIGY; a national structure to manage the databases is to be set up", "tiers": "planned for the civil status offices of all 1,695 communes, with single computerised national databases"},
+    {"system": "kit équipement informatique des communes", "country_label": "", "class": "enabling", "platform": "", "owner": "PRODIGY; the officier d'état civil of each commune is responsible for it", "tiers": "one desktop computer, central unit, multifunction printer and UPS for each of 1,695 commune civil status offices (planned)"},
+    {"system": "numéro d'identifiant unique", "country_label": "identifiant unique à la naissance", "class": "identity", "platform": "", "owner": "", "tiers": "national, from birth (planned)"}
+  ],
+  "note": "The plan also says more than 70% of the population lives in rural municipalities, part of it remote, and could be excluded by the project. The offices fact is recorded as none because the document gives only a planned total."
+}

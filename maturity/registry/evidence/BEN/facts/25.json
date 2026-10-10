@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-02 Benin reports 75% of identification services accessed through digital platforms",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Biometric Update reports that Benin has launched a digital civil registration system linked with health facilities for the issuance of a birth certificate at birth, the newborn also receiving a Personal Identification Number on registration; it puts the pilot's launch in October 2025.", "as_of": "2025-10", "date_precision": "month", "system": "Digital civil registration system linked with health facilities", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "Biometric Update states that the digital civil registration initiative is in a pilot phase, launched in October 2025 on its account, and gives no count of facilities.", "as_of": "2025-10", "date_precision": "month", "system": "Digital civil registration system linked with health facilities", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Biometric Update states that the digital civil registration pilot is supported by UNICEF and the World Bank-funded WURI project; no domestic budget line is stated.", "as_of": "2025-10", "date_precision": "month", "system": "Digital civil registration system linked with health facilities", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digital civil registration system linked with health facilities", "country_label": "", "class": "civil", "platform": "", "owner": "ANIP; supported by UNICEF and the WURI project", "tiers": "health facilities, pilot phase; registration issues the birth certificate and a Personal Identification Number"},
+    {"system": "ANIP digital platforms", "country_label": "digital government portal, ANIP BJ mobile app, USSD code", "class": "certificate", "platform": "web portal, mobile app, USSD", "owner": "ANIP", "tiers": "10.5 million civil status and identification services issued in 2025, at least 75% asked for through digital platforms (37% portal, 30% app, 8% USSD); 3.8 million authentications by telecom operators and 25 million eKYC verifications"},
+    {"system": "ePass", "country_label": "ePass", "class": "identity", "platform": "Seamfix GovSmart", "owner": "", "tiers": "self-service mobile application for passport renewal, integrated with the national ID and immigration systems"},
+    {"system": "Foundational identity certificate (fID)", "country_label": "fID", "class": "identity", "platform": "", "owner": "", "tiers": "obtained through the WURI project"}
+  ],
+  "note": ""
+}

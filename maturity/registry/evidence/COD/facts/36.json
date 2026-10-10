@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-29-drc-digital-id-phased-deployment-contract-do-over-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "DRC Pass", "country_label": "DRC Pass", "class": "identity", "platform": "Tridentity (blockchain identity platform)", "owner": "Trident Digital Tech, under a public-private partnership with the government signed in June 2025, as exclusive e-KYC provider", "tiers": "not stated; phased deployment under way in August 2025"},
+    {"system": "biometric national identity system (cancelled contract)", "country_label": "", "class": "identity", "platform": "", "owner": "Afritech, with Idemia as technology supplier; contract cancelled in 2024", "tiers": "none: cancelled before delivery"},
+    {"system": "data centre for citizen data", "country_label": "", "class": "enabling", "platform": "", "owner": "OADC Texaf Digital (first phase launched in August 2025)", "tiers": "not stated"}
+  ],
+  "note": "The article is about the DRC Pass digital identity concession; it states nothing about civil registration offices or the registration of births and deaths."
+}

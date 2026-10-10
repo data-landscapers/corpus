@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-05-gmb-standard-udp-supplementary-voter-data-disclosure",
+  "facts": [],
+  "systems": [
+    {"system": "voters' register (2026 supplementary voter registration)", "country_label": "voters' register", "class": "land", "platform": "", "owner": "Independent Electoral Commission", "tiers": "registration centres, constituencies and administrative areas"}
+  ],
+  "note": "Electoral register only; the registration centres are voter registration centres. Nothing on civil registration."
+}

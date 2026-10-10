@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-20-tanzania-pushes-crvs-id-integration-as-birth-registration-becomes-a-dpi-layer",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration and vital statistics (CRVS) system", "country_label": "CRVS system of RITA", "class": "", "platform": "", "owner": "Registration, Insolvency and Trusteeship Agency (RITA)", "tiers": "not stated"},
+    {"system": "CRVS-national ID linkage", "country_label": "RITA to be linked with NIDA to issue the Jamii Namba to children from birth through civil registration", "class": "exchange", "platform": "", "owner": "RITA and National Identification Authority (NIDA)", "tiers": "national; announced, legal framework in preparation"},
+    {"system": "national identity database", "country_label": "NIDA / National Identification Number; Jamii Namba", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": "national; over 22 million with a number as of April 2026"}
+  ],
+  "note": "Reports the planned RITA-NIDA linkage (exchange) and birth registration at 68% in 2025 against 55% in 2020, a share of births; it does not say how or at which offices the civil register's record is made."
+}

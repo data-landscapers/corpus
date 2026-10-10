@@ -1,0 +1,11 @@
+{
+  "slug": "2024-09-09 Namibia's new CRVS, national ID system reflects key data protection aspects",
+  "facts": [],
+  "systems": [
+    {"system": "CRVS system", "country_label": "CRVS system", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Digital birth notification", "country_label": "digital birth notification", "class": "notification", "platform": "", "owner": "", "tiers": "provided for in the Civil Registration and Identification Bill; not stated"},
+    {"system": "Link between the CRVS system and the national ID system", "country_label": "linking the CRVS system to the national ID system", "class": "exchange", "platform": "", "owner": "", "tiers": "provided for in the Bill, as reviewed by APC"},
+    {"system": "National ID system", "country_label": "national ID system; digital IDs for refugees", "class": "identity", "platform": "", "owner": "", "tiers": "digital IDs issued to refugees from June 2024"}
+  ],
+  "note": "A report of APC's review of the Bill's data protection provisions; the CRVS system is named with no description of how or where events are entered, so no fact is taken."
+}

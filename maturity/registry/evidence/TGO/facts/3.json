@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-28-tgo-e-id-togo-6-millions-enregistres",
+  "facts": [],
+  "systems": [
+    {"system": "e-ID Togo", "country_label": "e-ID Togo / registre national d'identification, Numéro d'Identification Unique (NIU)", "class": "identity", "platform": "MOSIP", "owner": "Agence nationale d'identification (ANID)", "tiers": "mass biometric enrolment by region: Savanes, Maritime, Plateaux, Grand Lomé and Centrale done (Centrale closed 2026-09-26); Kara due October to December 2026; more than 6 million registered"}
+  ],
+  "note": "Identity enrolment only; civil registration appears once, as a responsibility of the communes that should give them a role in keeping the identity register up to date."
+}

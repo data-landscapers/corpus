@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-27-zaf-smart-id-bank-partnership-home-affairs",
+  "facts": [],
+  "systems": [
+    {"system": "smart ID services at bank branches", "country_label": "digital partnership model", "class": "identity", "platform": "", "owner": "Department of Home Affairs with Absa, Capitec, FNB and Standard Bank", "tiers": "502 bank branches (Capitec 247, Standard Bank 144, FNB 96, Absa 15), at least one per bank in each province, as reported 2026-09-27; 750 targeted by end 2026"},
+    {"system": "green ID book", "country_label": "green ID book", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "to be phased out within two years"}
+  ],
+  "note": "Smart ID applications at bank branches only; nothing on civil registration."
+}

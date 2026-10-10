@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-01-national-registration-bureau-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration and Identification System (NRIS)", "country_label": "NRIS", "class": "identity", "platform": "", "owner": "National Registration Bureau, a department under the Ministry of Homeland Security", "tiers": "national; the Bureau registers births, deaths, marriages and identity under it; the page counter shows 153,283 births registered, undated"},
+    {"system": "National Birth Registration Campaign", "country_label": "NBRC", "class": "outreach", "platform": "", "owner": "National Registration Bureau", "tiers": "registration centres in government primary schools; Phase One completed 4 February 2026, Phase Two 23 March to 1 April 2026 in Nkhatabay, Dowa, Chiradzulu, Zomba City and Zomba districts"},
+    {"system": "NID-EMR Integration", "country_label": "NID-EMR Integration", "class": "exchange", "platform": "", "owner": "Digital Health Department of the Ministry of Health with the National Registration Bureau", "tiers": "shown at Mbabvi Health Centre"},
+    {"system": "National ID linkages with public and private institutions", "country_label": "National ID Linkages", "class": "exchange", "platform": "", "owner": "National Registration Bureau", "tiers": "payroll, agriculture, immigration, revenue, electoral commission, banks and Airtel"}
+  ],
+  "note": "The Bureau's home page (archived snapshot, excerpt): it lists its mandate, identity linkages and campaign news, and says the Bureau took over birth and death registration under a policy change reported in April 2025, but does not say how or where the record of a birth or death is made."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2021-01-21-swiss-sem-focus-eritrea-digital-population-registers",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital population register (one per Zoba)",
+      "country_label": "qutsri mezgeb nebari (register of residents); digital population register",
+      "class": "identity",
+      "platform": "",
+      "owner": "Nus-Zoba administrations in Zoba Maekel; the Zoba administration in Gash-Barka and Northern Red Sea",
+      "tiers": "each of the six Zobas since 2001, with no central register; Kebabi administrations and the Department of Immigration and Nationality have no access; prints residence and family cards and extracts of births, marriages and deaths; a registered death deletes the entry and prints a death notice needed for the death certificate"
+    },
+    {
+      "system": "Kebabi family register",
+      "country_label": "family register of the Kebabi administration (Memmehdar Kebabi)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Kebabi (local) administrations",
+      "tiers": "Kebabi level; a birth is entered here first, on a baptism certificate, hospital document or three witnesses, and a transfer document goes to the Nus-Zoba and/or Zoba; the medium is not stated"
+    },
+    {
+      "system": "Civil status office registers",
+      "country_label": "civil status offices; civil status registers",
+      "class": "civil",
+      "platform": "",
+      "owner": "civil status offices",
+      "tiers": "not yet established in some parts of the country; registers incomplete; the medium is not stated"
+    },
+    {
+      "system": "ID card",
+      "country_label": "ID card",
+      "class": "identity",
+      "platform": "",
+      "owner": "Department for Immigration and Nationality",
+      "tiers": "issued only occasionally since 2014"
+    }
+  ],
+  "note": "The only digital system described is the Zoba population register, which the typology classes as identity, so no civil fact is taken. The document does not say whether the Kebabi family register or the civil status registers are paper or digital; it says civil status offices are missing in parts of the country, that birth registration is rare in rural areas and that UNICEF (undated) puts registration below 40% of births. The capture is an excerpt ending part-way through section 3.3."
+}

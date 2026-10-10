@@ -1,0 +1,9 @@
+{
+  "slug": "2011-01-01-south-sudan-nationality-regulations-2011",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registry of South Sudanese Nationals (register of nationals)", "country_label": "Civil Registry of South Sudanese Nationals", "class": "identity", "platform": "", "owner": "Directorate of Nationality, Passports and Immigration, Ministry of Interior", "tiers": "headquarters in Juba, local branches in the ten states and designated embassies, as the regulations provide"},
+    {"system": "National Identity Card", "country_label": "National Identity Card", "class": "identity", "platform": "", "owner": "Directorate of Nationality, Passports and Immigration", "tiers": ""}
+  ],
+  "note": "Nationality regulations of 2011. Paragraph 83 mandates a register of nationals recording personal details including civil status, and notes that the Constitution (Schedule B no. 16) gives the states exclusive power over registration of birth, death, marriage and divorce; a birth certificate is only a supporting document for a nationality application. Nothing on how a birth or death is registered or on the form of any record."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-18-mjcr-ine-crvs-statistics-interoperability",
+  "facts": [],
+  "systems": [
+    {"system": "link between ESSIR-SERV and INE's statistical information systems", "country_label": "interoperabilidade dos sistemas de estatísticas vitais", "class": "exchange", "platform": "", "owner": "Ministério da Justiça, Assuntos Constitucionais e Religiosos (MJCR) and Instituto Nacional de Estatística (INE), under a memorandum signed 18 May 2026", "tiers": "national; sharing of data on births, deaths, marriages and other vital events in good time"},
+    {"system": "Sistema Electrónico de Registo e Serviço de Estatísticas Vitais (ESSIR-SERV)", "country_label": "ESSIR-SERV, as the document spells it", "class": "", "platform": "", "owner": "", "tiers": "named as the source of data on births, deaths, marriages and other events; how and where records are entered is not described"}
+  ],
+  "note": "A memorandum linking the civil registration system to the statistics institute (exchange class); the document does not describe how or where the civil registration system records an event, so no fact."
+}

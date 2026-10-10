@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "The National File / Biometric National Identity Card", "country_label": "The National File/Biometric National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": "national foundational ID as the World Bank's Annex D lists it; no digital ID system; 56 per cent of adults reported owning the ID in the Findex survey fielded 3 July to 13 August 2024 (58 per cent of men, 53 per cent of women)"}
+  ],
+  "note": "A global dataset on identity-document ownership. For the Republic of the Congo it gives adult ID coverage and names the foundational identity credential; it says nothing of civil registration offices or how births and deaths are recorded there."
+}

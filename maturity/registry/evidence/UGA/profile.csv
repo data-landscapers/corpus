@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+UGA,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026,UGA-001;UGA-008;UGA-009,UGA-007=owner:ministry;UGA-014=owner:ministry;UGA-015=owner:ministry;UGA-011=owner:ministry;UGA-004=owner:ministry;UGA-012=finance:donor;UGA-027=plan:current;UGA-028=finance:domestic;UGA-026=owner:ministry;UGA-023=owner:ministry;UGA-024=finance:donor;UGA-029=owner:ministry;UGA-030=owner:ministry,
+UGA,civil,events,coverage,B;D,2026-07-18,UGA-002;UGA-003;UGA-010;UGA-016,UGA-018=B;D;UGA-020=B,
+UGA,civil,made,coverage,connected,2020-12,UGA-019;UGA-021,UGA-025=paper,nothing dated since 2023-10-10
+UGA,civil,last12,qualifier,advancing,2025-03-19,UGA-017,UGA-013=regressing,nothing dated since 2025-10-10
+UGA,civil,offices,coverage,count:202,2015,UGA-022,,nothing dated since 2023-10-10

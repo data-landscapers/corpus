@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-05 Sierra Leone reaches 93 percent national ID coverage 80 percent services digitized",
+  "facts": [],
+  "systems": [
+    {"system": "NCRA civil registration and national ID registration system", "country_label": "ID registration; NIN", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; NCRA's Deputy Director of ICT states 93 per cent civil registration and national ID coverage, that registration was previously manual and has moved to a digital system, and that over 80 per cent of NCRA services are digitised (ID4Africa 2025 AGM, reported 5 June 2025)"},
+    {"system": "Digitisation of paper-based civil registration and ID records", "country_label": "digitizing our paper-based records", "class": "archive", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; about 30 per cent of historic paper records linked to current digital records, about 70 per cent still to do (reported 5 June 2025)"}
+  ],
+  "note": "The official says registration has moved from manual to digital and 80 per cent of services are digitised, in terms of ID registration coverage; the document does not say that a birth or death is entered digitally at the office where it is declared, nor which events or offices, so no civil fact is recorded. The parent should weigh this statement: it is the nearest any slice-1 news item comes to the question."
+}

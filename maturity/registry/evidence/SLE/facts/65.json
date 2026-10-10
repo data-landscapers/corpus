@@ -1,0 +1,23 @@
+{
+  "slug": "2020-04-01-sle-standard-operating-procedures-for-the-health-management-information-sy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Births and Deaths Programme",
+      "country_label": "Births and Deaths Programme (Ministry of Health and Sanitation)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health and Sanitation",
+      "tiers": "not stated; said only to manage data on vital statistics as a health information subsystem"
+    },
+    {
+      "system": "National Civil Registrations and Vital Statistics",
+      "country_label": "National Civil Registrations and Vital Statistics",
+      "class": "",
+      "platform": "",
+      "owner": "outside the Ministry of Health and Sanitation",
+      "tiers": "not stated; said only to be responsible for recording births and deaths"
+    }
+  ],
+  "note": "A health information manual: it says who is responsible for vital statistics and for recording births and deaths, and nothing about how either is done or in what system."
+}

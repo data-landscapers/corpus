@@ -1,0 +1,42 @@
+{
+  "slug": "2024-01-01-lesotho-2022-vital-statistics-report",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Bureau of Statistics' 2022 Vital Statistics Report states that vital-event data are routinely collected by Ministry of Home Affairs staff from all districts and compiled at the ministry's headquarters, through its National Identity and Civil Registry department; the preface is undated, so the report's publication year of 2024 is used (reference year 2022), and it does not say whether collection in the districts is electronic.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Civil registration system of the National Identity and Civil Registry department, Ministry of Home Affairs",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Civil registration system of the National Identity and Civil Registry department, Ministry of Home Affairs",
+      "country_label": "civil registration system",
+      "class": "civil",
+      "platform": "",
+      "owner": "National Identity and Civil Registry department, Ministry of Home Affairs",
+      "tiers": "data routinely collected by ministry staff from all districts, compiled at headquarters; births, deaths, marriages and divorces"
+    },
+    {
+      "system": "MOHA dashboard",
+      "country_label": "MOHA's dashboard",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Home Affairs",
+      "tiers": "named only as a place where the vital statistics report is disseminated to the public"
+    },
+    {
+      "system": "Transfer of civil registration records to the Bureau of Statistics for vital statistics",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Bureau of Statistics (Population Statistics Division) with the Ministries of Home Affairs and Health",
+      "tiers": "national; annual vital statistics report, the first for reference year 2021 with Bloomberg Data for Health support"
+    }
+  ],
+  "note": "The capture is front matter and the table of contents only; Chapter 2, on registration processes and information flows, was not captured."
+}

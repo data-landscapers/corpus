@@ -1,0 +1,36 @@
+{
+  "slug": "1986-06-20-zimbabwe-births-deaths-registration-act",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Births and Deaths Registration Act (Chapter 5:02, consolidated to 6 March 2020) requires each district registrar to keep registers in the prescribed form and to sign and forward all notices of births, still-births and deaths, with medical certificates, to the Registrar-General by registered post; the Act makes no provision for an electronic register or record. This is the statute's prescription, not a report of practice.",
+      "as_of": "2020-03-06",
+      "date_precision": "day",
+      "system": "registers of births and deaths",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Act places the registers under a Registrar-General of Births and Deaths, a public-service office that is the central registering office, with a registrar for each district, and assigns the Act's administration to the Minister of Home Affairs (text as consolidated to 6 March 2020).",
+      "as_of": "2020-03-06",
+      "date_precision": "day",
+      "system": "registers of births and deaths",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "registers of births and deaths",
+      "country_label": "registers of births and deaths",
+      "class": "civil",
+      "platform": "",
+      "owner": "Registrar-General of Births and Deaths, under the Minister of Home Affairs",
+      "tiers": "a registrar for each district, and the Registrar-General's office as central registering office"
+    }
+  ],
+  "note": "A statute: it names no information system and no software. Both facts are what the law prescribes, dated to the consolidation of 6 March 2020; the Act itself commenced on 20 June 1986."
+}

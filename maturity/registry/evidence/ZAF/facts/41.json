@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register (NPR)", "country_label": "National Population Register (NPR) / Smart ID Card, Green ID book", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Global identity-coverage dataset; for South Africa it names only the foundational ID system (NPR, Smart ID Card, Green ID book), codes no digital ID and gives 89% adult ID ownership (Findex fieldwork Aug-Oct 2024). Nothing on how a civil registration office records a birth or death."
+}

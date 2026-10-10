@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-08-ursb-non-individual-register-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Non-Individual Register (NIR)", "country_label": "Non-Individual Register; Entity Registration Number (ERN)", "class": "land", "platform": "", "owner": "Uganda Registration Services Bureau (URSB)", "tiers": "local government officers to enter entity data directly; in final testing in May 2026, full rollout expected by June 2026"}
+  ],
+  "note": "About a register of companies, NGOs, cooperatives and other entities, which the typology puts out of scope; nothing on civil registration."
+}

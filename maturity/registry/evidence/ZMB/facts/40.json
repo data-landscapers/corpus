@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Registration Information System (INRIS) project", "country_label": "INRIS", "class": "identity", "platform": "", "owner": "Department of National Registration, Passports and Citizenship, under the Ministry of Home Affairs and Internal Security", "tiers": "planned roll-out of new biometric National Registration Cards to all citizens, to be extended to refugees and former refugees; its stated objective is to improve civil registration and identity management through digitisation and automation"},
+    {"system": "UNHCR ProGres database", "country_label": "", "class": "identity", "platform": "ProGres", "owner": "UNHCR, to switch over to the Ministry of Home Affairs and Internal Security", "tiers": "registration of refugees and other persons of concern"},
+    {"system": "Refugee enrolment campaigns with mobile registration camps", "country_label": "", "class": "outreach", "platform": "biometric registration kits", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "community-level campaigns in three districts, in refugee communities only"}
+  ],
+  "note": "Passages only. INRIS is described by its card-issuing work, with civil registration named only in the project's objective; nothing states how or where a birth or death is entered."
+}

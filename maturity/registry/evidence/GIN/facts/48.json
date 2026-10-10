@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-02-wuri-guinea-implementation-status-results-report",
+  "facts": [],
+  "systems": [
+    {"system": "foundational ID (fID) system pilot generating Unique Identification Numbers (UNI)", "country_label": "fID system; UNI", "class": "identity", "platform": "", "owner": "WURI-Guinea, World Bank-financed; closed early on 28 June 2024", "tiers": "pilot; 8,000 persons received a number"},
+    {"system": "RAVEC (Recensement administratif à vocation d'état civil)", "country_label": "RAVEC", "class": "identity", "platform": "", "owner": "", "tiers": "anticipated administrative census"}
+  ],
+  "note": "The full World Bank status report: Guinea's identity project closed on 28 June 2024, and the indicator on newborn birth registrations assigned an identification number stood at zero on 30 March 2025, which concerns the link from birth registration to identity and not how offices register; no civil registration system is described."
+}

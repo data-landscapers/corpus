@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-18-niger-conseil-ministres-decret-rnec-rnp-interoperabilite",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 18 May 2026 the Council of Ministers adopted the decree applying ordonnance n°2026-21 of 22 April 2026 on the civil-status regime: it sets the organisation and equipment of civil-status services and the registration supports and, 'in the perspective of the full computerisation of the civil-status system through the Registre National de l'Etat Civil (RNEC)', which the ordonnance institutes, the rules for managing, processing, using and keeping the RNEC.", "as_of": "2026-05-18", "date_precision": "day", "system": "Registre National de l'Etat Civil (RNEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The decree on the civil-status regime and the RNEC was adopted on 18 May 2026 under the heading of the Ministère de l'Intérieur, de la Sécurité Publique et de l'Administration du Territoire, in the government's own communiqué.", "as_of": "2026-05-18", "date_precision": "day", "system": "Registre National de l'Etat Civil (RNEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Registre National de l'Etat Civil (RNEC)", "country_label": "Registre National de l'Etat Civil (RNEC)", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur, de la Sécurité Publique et de l'Administration du Territoire", "tiers": "not stated; full computerisation of the civil-status system is a 'perspective'"},
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP); Identifiant Unique National", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "mécanismes d'interopérabilité RNEC-RNP", "country_label": "mécanismes d'interopérabilité entre le RNEC, le RNP et les autres systèmes fonctionnels", "class": "exchange", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "set out in the decree"}
+  ],
+  "note": "The communiqué states the RNEC as instituted in law and computerisation as a perspective; it does not say the register is in service, what events it holds or which offices enter into it."
+}

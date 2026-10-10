@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-27-sudan-port-sudan-civil-registry-id-resumption",
+  "facts": [],
+  "systems": [
+    {"system": "national card production and Sudanese digital identity project", "country_label": "البطاقة القومية / مشروع الهوية السودانية الرقمية", "class": "identity", "platform": "", "owner": "General Administration of Civil Registry, Sudan Police", "tiers": "launched at Port Sudan, Red Sea State, on 27 December 2025 after more than two years' stoppage, other states to follow; the Port Sudan centre producing the new national card; passport and civil registry offices at embassies abroad also issue documents"},
+    {"system": "civil registry data", "country_label": "بيانات السجل المدني", "class": "", "platform": "", "owner": "General Administration of Civil Registry", "tiers": "said by the director of the national card production centre to be fully recovered up to 13 April 2023; what the data hold is not described; some civil registry offices were vandalised in the conflict and are being reopened in safe areas"}
+  ],
+  "note": "The document reports the resumption of national card issuance and the recovery of civil registry data; it states nothing about how births or deaths are registered."
+}

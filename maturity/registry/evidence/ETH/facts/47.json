@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-28-school-registration-fayda-digital-id",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The Director General of the Addis Ababa Civil Registration and Resident Services Agency is reported in January 2025 as saying the agency's plan to digitise all its services is in a pilot phase, with 21 of the city's 116 woredas already digitised; the report does not say which services, or whether births and deaths are entered digitally.", "as_of": "2025-01", "date_precision": "month", "system": "Addis Ababa Civil Registration and Resident Services Agency service digitisation", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Addis Ababa Civil Registration and Resident Services Agency service digitisation", "country_label": "", "class": "civil", "platform": "", "owner": "Addis Ababa Civil Registration and Resident Services Agency", "tiers": "21 of 116 woredas of Addis Ababa, pilot phase; what the digitised services are is not stated"},
+    {"system": "Fayda", "country_label": "Fayda digital ID", "class": "identity", "platform": "MOSIP", "owner": "National ID Program (NIDP)", "tiers": "national; 11.4 million holders; to be required for school registration in Addis Ababa from the next academic year, for children above five"},
+    {"system": "Kebele ID", "country_label": "Kebele ID", "class": "identity", "platform": "", "owner": "", "tiers": "local ID document"},
+    {"system": "special civil registration drive for the Fayda digital ID", "country_label": "", "class": "outreach", "platform": "", "owner": "Addis Ababa Civil Registration and Resident Services Agency", "tiers": "Addis Ababa, October 2024"}
+  ],
+  "note": ""
+}

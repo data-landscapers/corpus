@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-27 Cameroon's BUNEC partners with Liber Technologies for CRVS digitization",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "BUNEC, the national civil status registration office, partnered in October 2025 with the Luxembourg firm Liber Technologies to speed the digital transformation of civil registration under Law 2024/016, and aims for a fully digital system by 2029; the text names no plan document and no financing.", "as_of": "2025-10", "date_precision": "month", "system": "digital CRVS system (BUNEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "Law 2024/016, which the BUNEC and Liber Technologies partnership of October 2025 is to implement, authorises digital birth, marriage and death certificates and a unique personal identification number for every citizen; this is what the law permits, not a statement of what offices do.", "as_of": "2025-10", "date_precision": "month", "system": "digital CRVS system (BUNEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital CRVS system (BUNEC)", "country_label": "CRVS digital transformation; fully digital CRVS system by 2029", "class": "civil", "platform": "", "owner": "BUNEC, with Liber Technologies as partner", "tiers": "national aim for 2029; no offices named"},
+    {"system": "integration of civil registration with the biometric national ID and biometric voter kits", "country_label": "Unique Personal Identification Number", "class": "exchange", "platform": "", "owner": "BUNEC", "tiers": "intended"}
+  ],
+  "note": "The held text is a two-paragraph summary merging two reports of the same partnership."
+}

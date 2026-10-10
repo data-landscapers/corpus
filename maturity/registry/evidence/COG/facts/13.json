@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-28-patn-ptba-budget-2026-21-872-milliards",
+  "facts": [],
+  "systems": [
+    {"system": "Système intégré des faits d'état civil (Sifec)", "country_label": "Système intégré des faits d'état civil (Sifec)", "class": "", "platform": "", "owner": "Ministère de l'Intérieur; supported by the Projet d'accélération de la transformation numérique (PATN), which the World Bank finances with 100 million US dollars", "tiers": "not stated; the steering committee recommended extending internet access in ministries, town halls and hospitals so that they can connect to the platforms"},
+    {"system": "Système intégré de gestion des statistiques (Sigstat)", "country_label": "Système intégré de gestion des statistiques (Sigstat)", "class": "", "platform": "", "owner": "supported by PATN", "tiers": "not stated"}
+  ],
+  "note": "ACI reports that PATN's 2026 work plan and budget of 21.872 billion FCFA, adopted on 26 February 2026, supports SIFEC among other state systems. The article names SIFEC without saying what it does, so by the brief it is an unclassified system and gives no fact. The parent may want the content all the same: a World Bank-financed project's annual costed work plan names SIFEC as a system of the Interior ministry."
+}

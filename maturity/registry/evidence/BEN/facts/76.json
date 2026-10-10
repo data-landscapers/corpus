@@ -1,0 +1,79 @@
+{
+  "slug": "2020-12-01-apdp-rapport-activites-2015-2020",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Recensement Administratif à Vocation d'Identification de la Population (RAVIP)",
+      "country_label": "RAVIP",
+      "class": "identity",
+      "platform": "",
+      "owner": "Présidence de la République (authorisation 2017); Agence Nationale de Traitement (ANT) holds the RAVIP database (2019)",
+      "tiers": "national; population aged zero and over; operations checked by the APDP across the whole territory in April 2018"
+    },
+    {
+      "system": "Registre National des Personnes Physiques (RNPP) and Numéro Personnel d'Identification (NPI)",
+      "country_label": "RNPP; NPI",
+      "class": "identity",
+      "platform": "",
+      "owner": "Ministère d'Etat chargé du Secrétariat de la Présidence de la République (draft decrees, APDP opinion of 3 March 2020)",
+      "tiers": "national"
+    },
+    {
+      "system": "carte nationale d'identité",
+      "country_label": "carte nationale d'identité; cartes d'identité nationales biométriques",
+      "class": "identity",
+      "platform": "",
+      "owner": "Préfecture d'Abomey (collection checked 2018); ANT transfers RAVIP data for printing (2019)",
+      "tiers": "prefecture"
+    },
+    {
+      "system": "WURI",
+      "country_label": "projet WURI",
+      "class": "identity",
+      "platform": "",
+      "owner": "World Bank project",
+      "tiers": "described only as creating a platform for identifying the population"
+    },
+    {
+      "system": "base de données ANIP",
+      "country_label": "base de données ANIP",
+      "class": "",
+      "platform": "",
+      "owner": "ANIP",
+      "tiers": "named only as a database the Centre de Documentation de Sécurité Publique asked to connect to (2020)"
+    },
+    {
+      "system": "Family Search International: genealogical data and archive documents",
+      "country_label": "données généalogiques et documents d'archives (faits d'état civil)",
+      "class": "archive",
+      "platform": "",
+      "owner": "Family Search International (FSI)",
+      "tiers": "not stated; processing and transfer to the USA authorised by deliberation 2017-002 of 13 April 2017"
+    },
+    {
+      "system": "LEPI",
+      "country_label": "LEPI",
+      "class": "land",
+      "platform": "",
+      "owner": "Agence Nationale de Traitement (ANT); transmission in electronic format sought by the CENA (2019)",
+      "tiers": "national"
+    },
+    {
+      "system": "E-Terre",
+      "country_label": "projet E-Terre",
+      "class": "land",
+      "platform": "",
+      "owner": "Ministère de l'Economie et des Finances",
+      "tiers": "database of parcel owners holding land titles (receipt of 25 March 2019)"
+    },
+    {
+      "system": "Abomey-Calavi parcel owners database",
+      "country_label": "base de données des propriétaires et présumés propriétaires de parcelles",
+      "class": "land",
+      "platform": "",
+      "owner": "Commune d'Abomey-Calavi",
+      "tiers": "one commune (authorisation of 27 December 2018)"
+    }
+  ],
+  "note": "The data-protection authority's 2015-2020 report names civil status only as the subject of awareness sessions on handling civil-status acts (Comè and Bopa councils, September and October 2020; heads of commune civil-status services of the Collines, November 2020) and of one authorisation; it says nothing about how or where a birth or death is recorded, so no fact."
+}

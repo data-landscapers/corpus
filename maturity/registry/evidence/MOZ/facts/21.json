@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-16-atdi-misau-mou-digital-health",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma de Interoperabilidade do Governo", "country_label": "Plataforma de Interoperabilidade do Governo", "class": "exchange", "platform": "", "owner": "ATDI", "tiers": "cited by ATDI's chairman for integrating data between sectors, health and civil registration included, under a single citizen identification; no operating link stated"},
+    {"system": "identidade digital", "country_label": "identidade digital", "class": "identity", "platform": "", "owner": "", "tiers": "named with the interoperability platform; no deployment stated"}
+  ],
+  "note": "A digital health memorandum between ATDI and the health ministry; civil registration appears only as a sector the interoperability platform is to link, so no fact."
+}

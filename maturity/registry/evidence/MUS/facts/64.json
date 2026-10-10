@@ -1,0 +1,11 @@
+{
+  "slug": "2021-03-15-mus-score-for-health-data-technical-package-assessment-summary-for-mauriti",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "WHO's SCORE assessment rates Mauritius's civil registration data as exchanged electronically from local to regional offices and then to central offices, 'electronic at all levels'; the assessment uses data from 2013 to 2018 and was updated on 15 March 2021, and it does not say how the record is entered at the office.", "as_of": "2018", "date_precision": "year", "system": "CRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "WHO's SCORE assessment covers the registration of both births and deaths in Mauritius, giving completeness of 100% for each and electronic exchange of the data at all levels, on data from 2013 to 2018.", "as_of": "2018", "date_precision": "year", "system": "CRVS system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CRVS system", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "local, regional and central offices; registration locations rated as full coverage including rural areas"}
+  ],
+  "note": "Both values rest on one scorecard line about electronic exchange of data between office levels, not on a statement that the office enters the event digitally at registration; no office count is given, and as_of is the last year of the assessment's 2013-2018 data."
+}

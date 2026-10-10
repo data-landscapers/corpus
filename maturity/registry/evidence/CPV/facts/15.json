@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-24-governo-lanca-portal-govcv-modernizar-servicos-publicos-expressodasilhas",
+  "facts": [],
+  "systems": [
+    {"system": "Gov.cv", "country_label": "Gov.cv", "class": "certificate", "platform": "", "owner": "Government of Cabo Verde", "tiers": "national single portal, presented in Praia on 24 February 2026; to concentrate public services including finance and civil registry, with many processes done online from anywhere in the country"},
+    {"system": "Porton di Nos Ilha", "country_label": "Porton di Nos Ilha", "class": "", "platform": "", "owner": "Government of Cabo Verde", "tiers": "existing portal, to transfer into Gov.cv"}
+  ],
+  "note": "A citizen-facing portal that will carry civil registry services; the article does not say how the registry office makes the record."
+}

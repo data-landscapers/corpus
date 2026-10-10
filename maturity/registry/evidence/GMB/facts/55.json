@@ -1,0 +1,31 @@
+{
+  "slug": "2020-01-01-gambia-moj-registrar-generals-department-deeds-registry",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Deeds Registry",
+      "country_label": "The Deeds Registry (Registrar General's Department)",
+      "class": "land",
+      "platform": "",
+      "owner": "Registrar General's Department, Ministry of Justice",
+      "tiers": "one registry under the Lands (Registration of Deeds) Act 1980; registers deeds, conveyances, wills and other instruments affecting land"
+    },
+    {
+      "system": "Marriage Registry",
+      "country_label": "Marriage Registry; Register of Marriages",
+      "class": "",
+      "platform": "",
+      "owner": "Registrar General's Department, Ministry of Justice",
+      "tiers": "conducts civil marriages under the Civil Marriage Act 1938 and authenticates Christian and Muslim marriage certificates"
+    },
+    {
+      "system": "Intellectual Property Registry",
+      "country_label": "Intellectual Property Registry",
+      "class": "land",
+      "platform": "Intellectual Property Automation System (IPAS)",
+      "owner": "Registrar General's Department, Ministry of Justice",
+      "tiers": "one unit; registers patents, industrial designs and trademarks"
+    }
+  ],
+  "note": "The Registrar General here is the Ministry of Justice's, with three units for intellectual property, deeds and marriages; the page states nothing about birth or death registration and names no digital system for the marriage or deeds registers. The page is undated; its published date is inferred."
+}

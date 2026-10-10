@@ -1,0 +1,10 @@
+{
+  "slug": "2017-11-01-apai-crvs-costed-strategic-plan-2017-2021",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Economic Commission for Africa's annex table on the status of civil registration and vital statistics systems lists Ghana with its comprehensive assessment completed and its improvement plan developed; no date is given, so the document's printing date is used.", "as_of": "2017-11", "date_precision": "month", "system": "civil registration and vital statistics system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration and vital statistics system", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The only Ghana line is one row of the annex status table (columns: country, assessment status, plan; headings taken from the full document, as the passage file omits them); the plan is a CRVS improvement plan and the table says nothing on whether registration is digital."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-18-ghana-mocd-press-briefing-rural-telephony-ghanagov-egovnet",
+  "facts": [],
+  "systems": [
+    {"system": "e-Services platform", "country_label": "e-Services platform / Ghana E-Services Payment Platform", "class": "certificate", "platform": "built by IPMC, with a Magento-based payment platform by AYA Technologies", "owner": "NITA", "tiers": "national portal piloted from 2012; the Births and Deaths Registry's service on it from 2014 was the application for a certified copy of an entry in the birth register; described as largely non-functional and discontinued"},
+    {"system": "Ghana.gov", "country_label": "Ghana.gov", "class": "", "platform": "built and run by a consortium of Hubtel, expressPay and IT Consortium", "owner": "Government of Ghana under a public-private partnership", "tiers": "national services and payments platform; 1,507 institutions onboarded by January 2024; no Births and Deaths Registry service is named"}
+  ],
+  "note": "The Minister's statement of 18 February 2024 names the Registry only for a certified-copy application on the discontinued e-Services portal. Its government network connects 950 of 951 institutions, none of them named as registration offices. Nothing is stated about how births or deaths are registered."
+}

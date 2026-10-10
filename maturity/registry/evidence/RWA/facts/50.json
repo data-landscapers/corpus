@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-01-world-bank-rwa-p173373-restructuring-paper-res00638",
+  "facts": [],
+  "systems": [
+    {"system": "Civil records digitalization", "country_label": "digitalization of civil records", "class": "archive", "platform": "", "owner": "financed by the World Bank/AIIB Digital Acceleration Project, sub-component 2.1", "tiers": "ongoing work to digitalize millions of civil records, August 2025; no tiers stated"},
+    {"system": "Single Digital Identification system", "country_label": "SDID", "class": "identity", "platform": "", "owner": "NIDA, added as implementing agency", "tiers": "enrolment expected from August 2025; 75% of the population to be enrolled by project closing in December 2026"},
+    {"system": "Irembo e-government platform", "country_label": "Irembo", "class": "", "platform": "", "owner": "", "tiers": "platform upgrade under way"}
+  ],
+  "note": "The one civil-registration statement is the digitalization of existing civil records, which is archive class and gives no fact; the rest is identity enrolment and project financing."
+}

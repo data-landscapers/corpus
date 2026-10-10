@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Data Landscapers review states that rural registry offices in Sudan register births mainly on paper at the point of service: paper birth notices from hospitals or midwives go to local civil registry centres, where events are recorded manually before electronic transmission to regional and central databases; it gives no date for this, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "electronic civil registry", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "electronic civil registry", "country_label": "electronic civil registry", "class": "civil", "platform": "", "owner": "", "tiers": "local civil registry centres record manually and transmit electronically to regional and central databases; national aggregation with biometrics and national ID numbers under the 2011 Civil Registration Act"},
+    {"system": "mobile registration units", "country_label": "mobile units", "class": "outreach", "platform": "", "owner": "", "tiers": "used for mass registration, including remote areas"},
+    {"system": "SudaPass", "country_label": "SudaPass", "class": "identity", "platform": "", "owner": "", "tiers": "named as a recent plan (2025), not implemented in rural areas"}
+  ],
+  "note": "study.json lists this source under exclude_sources (an AI-assisted compilation by its own header); the fact is recorded as the document states it and is for the parent to handle."
+}

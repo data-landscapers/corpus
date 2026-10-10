@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-19-gia-cbl-level-3-biometric-digital-identity-ekyc",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Identity Management System for Citizens", "country_label": "Digital Identity Management System for Citizens; Level 3 Digital Identity", "class": "identity", "platform": "", "owner": "General Information Authority (GIA)", "tiers": "national; Level 3 biometric identity in technical trials with the Central Bank of Libya and a number of banks"}
+  ],
+  "note": "A meeting on using biometric digital identity for banks' identity checks; nothing on civil registration."
+}

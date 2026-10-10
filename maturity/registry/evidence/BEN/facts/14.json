@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-18-cip-cest-moi-130000-enroles",
+  "facts": [],
+  "systems": [
+    {"system": "Je Suis Citoyen Béninois card drive", "country_label": "campagne d'aide à l'obtention des cartes Cip et C'est Moi", "class": "identity", "platform": "", "owner": "NGO Je Suis Citoyen Béninois; cards issued by ANIP", "tiers": "nine communes (Lokossa, Bopa, Kouffo, Zè, Toffo, Allada, N'Dali, Pèrèrè, Sô-Ava), September 2025 to May 2026; over 130,000 people helped to a CIP or C'est Moi card, 1,995 at Sô-Ava; defective fingerprints, RAVIP numbers that did not work and no tablets in some arrondissements"},
+    {"system": "RAVIP", "country_label": "Ravip", "class": "identity", "platform": "", "owner": "", "tiers": "thousands enrolled in it still had no CIP or C'est Moi card"}
+  ],
+  "note": "An NGO drive for identity cards among people already enrolled; nothing on the registration of births or deaths."
+}

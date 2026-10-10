@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-17-malawi-nrb-registration-fees-e-kyc",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration services of the National Registration Bureau", "country_label": "civil registration services", "class": "", "platform": "", "owner": "National Registration Bureau", "tiers": "registration centres across the country; normal birth and death registration free, late birth registration over age 16 and certificate replacement K5,000 under regulations gazetted 31 July 2026"},
+    {"system": "e-KYC verification services", "country_label": "e-KYC", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "charged per verification to banks, mobile money, SIM and utility providers"},
+    {"system": "National ID", "country_label": "National ID", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "registration centres across the country"}
+  ],
+  "note": "A fee schedule for identity, civil registration and marriage services; it does not say how or where the record of a birth or death is made."
+}

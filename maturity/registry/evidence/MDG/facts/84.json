@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-psrsis-2023-2027-msanp",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'Information de Routine (RMA communautaire)",
+      "country_label": "RMA communautaire (Rapport Mensuel d'Activité)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la Santé Publique",
+      "tiers": "health facilities and community level"
+    }
+  ],
+  "note": "Passages of the health ministry's information-system plan 2023-2027. It says the routine health report (RMA communautaire) notifies births and deaths at facility and community level, incompletely, while civil registration of births and deaths is done at the commune, and it plans a national strategy for reporting vital events. It does not say the health report reaches the registrar, nor on what medium the commune registers, so the system is left unclassed and no fact is taken."
+}

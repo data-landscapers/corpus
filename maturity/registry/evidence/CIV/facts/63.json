@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-03-e-justice-platform-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "e-Justice platform", "country_label": "e-Justice", "class": "certificate", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "launched 30 January 2025 for Yopougon and Dabou: online applications for nationality certificates"},
+    {"system": "VERIF", "country_label": "VERIF application (ONECI)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "used to authenticate e-Justice applicants"}
+  ],
+  "note": "An online portal for nationality certificates authenticated through ONECI's VERIF application; nothing on civil registration offices."
+}

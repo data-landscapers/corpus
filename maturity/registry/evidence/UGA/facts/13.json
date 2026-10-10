@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Register and new national identity cards", "country_label": "National Identification Register", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "QR-code verification of the new national ID by banks and telecoms", "country_label": "QR code verification", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""}
+  ],
+  "note": "About the failure of QR-code verification on the new national identity cards; nothing on birth or death registration."
+}

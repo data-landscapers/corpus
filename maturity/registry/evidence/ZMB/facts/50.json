@@ -1,0 +1,10 @@
+{
+  "slug": "2021-03-15-zmb-score-for-health-data-technical-package-assessment-summary-for-zambia",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "WHO's SCORE assessment rates Zambia's civil registration and vital statistics system 'paper-based' on the attribute that all data are exchanged electronically from local to regional and then central offices; the assessment uses data from 2013-2018 and was updated 15 March 2021, so the last data year is used.", "as_of": "2018", "date_precision": "year", "system": "CRVS system (birth and death registration)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CRVS system (birth and death registration)", "country_label": "", "class": "civil", "platform": "paper-based", "owner": "", "tiers": "local, regional and central offices; places to register births and deaths rated as 'coverage only in urban areas'"}
+  ],
+  "note": "The same assessment gives completeness of birth registration 11% and of death registration 5%, and rates access to registration locations as urban only; these are shares of events and of access, not of offices entering digitally, so no offices fact is taken."
+}

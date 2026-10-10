@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-05-cote-ivoire-plateforme-nationale-authentification-identite-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques (RNPP)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national"},
+    {"system": "plateforme nationale d'authentification et portefeuille d'identité numérique", "country_label": "plateforme nationale d'authentification et portefeuille d'identité numérique", "class": "identity", "platform": "", "owner": "PARAE, with African Development Bank support", "tiers": "national; feasibility study launched 2026-10-05, running to end January 2027"}
+  ],
+  "note": "Feasibility study for an authentication platform and identity wallet; a civil status document is named only as a possible verifiable credential and civil status as a use case. Nothing on how offices register births or deaths."
+}

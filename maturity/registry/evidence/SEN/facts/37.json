@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin",
+  "facts": [],
+  "systems": [
+    {"system": "e-Sénégal", "country_label": "e-Sénégal", "class": "certificate", "platform": "", "owner": "Sénégal Numérique SA (SENUM SA)", "tiers": "national online single window and mobile application, launched 24 March 2026; civil-status acts to be added later, not offered at launch"},
+    {"system": "Numéro d'Identification Nationale (NIN) on the carte d'identité biométrique", "country_label": "NIN", "class": "identity", "platform": "", "owner": "", "tiers": "national; used to authenticate users of e-Sénégal"}
+  ],
+  "note": "An online portal for requesting administrative documents, to which civil-status acts are only promised; nothing on how a civil-status office records an event."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2020-07-08-wb-ner-001-niger-smart-villages-for-rural-growth",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Smart Villages for rural growth and digital inclusion",
+      "country_label": "Projet Villages Intelligents",
+      "class": "enabling",
+      "platform": "",
+      "owner": "ANSI (project management unit)",
+      "tiers": "rural broadband, digital financial services and digital skills; every region of Niger"
+    }
+  ],
+  "note": "A deal record for the Smart Villages rural connectivity loan (US$100m, implemented by ANSI); it does not mention civil registration."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-28-rwanda-completes-digitalisation-crvs-modules",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The Ministry of Local Government says all nine modules of the National Digital Civil Registration and Vital Statistics system are digitalised, birth and death among them with marriage, divorce, annulment, recognition, adoption, guardianship and legitimization; the text gives no year, so the document's publication date is used.", "as_of": "2026-01-28", "date_precision": "day", "system": "National Digital Civil Registration and Vital Statistics system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Local Government says the last two registers, guardianship and legitimization, were launched on a Tuesday, completing the digitalisation of all nine modules; the text gives no year and the publication date is used, though it describes the completion as ahead of a 2024 schedule.", "as_of": "2026-01-28", "date_precision": "day", "system": "National Digital Civil Registration and Vital Statistics system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Digital Civil Registration and Vital Statistics system", "country_label": "CRVS; National Digital Civil Registration and Vital Statistics system", "class": "civil", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The body carries no year and calls the completion ahead of a 2024 schedule, so it reads as an older release; both as_of dates are the list's published date, and the parent should check it before the last12 fact is used. It does not say where entries are made."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-05 Kenya Government moves to introduce digital civil registration system (Births and Deaths Bill 2025)",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The Star reports a three-day validation workshop, led by the State Department for Immigration and Citizen Services through the Civil Registration Service, on the Births and Deaths Registration Bill 2025, which gives a legal framework for digital registration; the service's Secretary called the current Act (Cap 149) outdated and paper-driven. The workshop is not dated in the text, so the published date is used.", "as_of": "2026-03-05", "date_precision": "day", "system": "civil registration system under the Births and Deaths Registration Bill 2025", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Star reports that the State Department for Immigration and Citizen Services, through the Civil Registration Service, led the validation of the Births and Deaths Registration Bill 2025, with technical and financial support from Vital Strategies and the Global Health Advocacy Incubator. Published date used.", "as_of": "2026-03-05", "date_precision": "day", "system": "civil registration system under the Births and Deaths Registration Bill 2025", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration system under the Births and Deaths Registration Bill 2025", "country_label": "", "class": "civil", "platform": "", "owner": "Civil Registration Service, State Department for Immigration and Citizen Services", "tiers": "a draft law providing for digital registration; no deployment described"},
+    {"system": "national population database", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "the bill aligns civil registration with it"},
+    {"system": "Unique Personal Identifier", "country_label": "UPI", "class": "identity", "platform": "", "owner": "", "tiers": "proposed, at birth"}
+  ],
+  "note": "The held text is a short summary of the article. It reports a draft law, not a system in use; the facts record the dated legislative step and who leads it."
+}

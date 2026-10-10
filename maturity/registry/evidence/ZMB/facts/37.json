@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP-based digital identity platform", "country_label": "", "class": "identity", "platform": "MOSIP", "owner": "SMART Zambia e-government division", "tiers": "developers trained by January 2025; an eKYC system on it in preparation"},
+    {"system": "National Registration Card (NRC)", "country_label": "NRC", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Identity platform training and its link to the SmartCarePro health record; nothing on civil registration. SmartCarePro is a health record system, outside this study's field."
+}

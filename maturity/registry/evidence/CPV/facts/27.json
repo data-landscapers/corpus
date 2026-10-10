@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-19-cne-nova-base-de-dados-eleicoes-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Electoral database and its management system (created 2007)", "country_label": "base de dados do recenseamento eleitoral", "class": "land", "platform": "", "owner": "electoral administration; the Comissão Nacional de Eleições asks the Government for a new one", "tiers": "national; described by the CNE's president on 18 December 2024 as out of date"}
+  ],
+  "note": "The electoral register only, out of scope; nothing on civil registration."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-12-com-conseil-ministres-evaluation-preparation-ia",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "no-change", "fact": "At the Council of Ministers of 11 March 2026 the Minister of the Interior presented a note on a draft decree for the Agence nationale de l'état civil (ANEC); the decree was not adopted, with further reflection, awareness work and attention to national sovereignty recommended before any final adoption.", "as_of": "2026-03-11", "date_precision": "day", "system": "Agence nationale de l'état civil (ANEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de l'état civil (ANEC)", "country_label": "ANEC", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur (draft decree, not adopted)", "tiers": "Not stated"},
+    {"system": "National identity card and passport identification system (new provider)", "country_label": "système d'identification (cartes nationales d'identité et passeports)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, with a new contractor", "tiers": "Enrolment and filing temporarily suspended in March 2026"}
+  ],
+  "note": "The value no-change is the drafter's reading of a draft decree presented and deferred; the parent may prefer to read the presentation as advancing."
+}

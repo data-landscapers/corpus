@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-19-cog-sifec-securisation-donnees-etat-civil-aci",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Interior ministry's security adviser told the SIFEC workshop of 18 to 20 February 2026 that SIFEC answers the problems of a civil status system that has long been manual and fragmented, and that the move from manual to digital is indispensable, ACI reported on 19 February 2026.", "as_of": "2026-02-19", "date_precision": "day", "system": "Système intégré des faits d'état civil (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "SIFEC has Births, Marriages and Deaths modules, its designers said at the workshop of 18 to 20 February 2026, where presentations covered the normal and exceptional birth procedures, the marriage act and the death declaration and death act; the software was under validation, not in use.", "as_of": "2026-02-19", "date_precision": "day", "system": "Système intégré des faits d'état civil (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "SIFEC is developed by the state agency ACSI, and its recommendations were examined from 18 to 20 February 2026 by ministerial experts and representatives of the administration, with the Finance and Interior ministries speaking for it.", "as_of": "2026-02-19", "date_precision": "day", "system": "Système intégré des faits d'état civil (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "From 18 to 20 February 2026 ministerial experts and ACSI examined in Brazzaville the recommendations on the SIFEC software, a stage the Interior ministry's adviser described as checking that they are operational, secure and inclusive.", "as_of": "2026-02-18", "date_precision": "day", "system": "Système intégré des faits d'état civil (Sifec)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système intégré des faits d'état civil (Sifec)", "country_label": "Système intégré des faits d'état civil (Sifec)", "class": "civil", "platform": "developed by ACSI; modules presented in client-server mode", "owner": "ACSI; Ministère de l'Intérieur et de la Décentralisation and Ministère des Finances", "tiers": "under validation in February 2026; no office named"}
+  ],
+  "note": ""
+}

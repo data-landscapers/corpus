@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-strategie-nationale-sante-numerique-2021-2025-guinee",
+  "facts": [],
+  "systems": [
+    {"system": "Système National Automatisé de Collecte et de Saisie des naissances et des décès", "country_label": "Système National Automatisé de Collecte et de Saisie des naissances et des décès", "class": "notification", "platform": "component of the SNIS project (DHIS2 warehouse)", "owner": "Ministry of Health", "tiers": "planned: births and deaths recorded in health facilities or by community health workers"},
+    {"system": "interface between the Ministry of Health's and the civil status ministry's information systems", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Health and the ministry in charge of civil status (technical committee proposed)", "tiers": "planned: baseline 0 interfaces between the SNIS and outside sources such as civil status, target 2 or more"}
+  ],
+  "note": "A health ministry strategy: it plans a health-side system to collect births and deaths seen in facilities and by community health workers, and an interface with civil status; nothing is stated about how civil registration offices record events."
+}

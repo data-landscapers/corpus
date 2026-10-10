@@ -1,0 +1,8 @@
+{
+  "slug": "2021-07-01-afi-financial-inclusion-forcibly-displaced-persons-mauritania",
+  "facts": [],
+  "systems": [
+    {"system": "national digital ID system / National Identity Number", "country_label": "National Identity Number", "class": "identity", "platform": "", "owner": "Mauritanian National Agency for Civil Registration, with UNHCR for refugees", "tiers": "identity numbers and cards issued to Malian refugees in M'bera camp and sought for urban refugees in Nouakchott and Nouadhibou; described as a 'highly robust national digital ID system' (July 2021)"}
+  ],
+  "note": "The passages concern identity numbers and cards for refugees as a condition of opening a bank account; nothing on registering births or deaths."
+}

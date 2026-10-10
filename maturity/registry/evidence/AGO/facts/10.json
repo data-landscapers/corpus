@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-08-angola-biometrics-border-surveillance-intelwatch",
+  "facts": [],
+  "systems": [
+    {"system": "civil registry", "country_label": "civil registry", "class": "", "platform": "", "owner": "", "tiers": "not stated; named only as the source from which the identity infrastructure draws data and as the foundation of the electoral roll"},
+    {"system": "national identity database", "country_label": "", "class": "identity", "platform": "foreign-built, vendors not tied to it in the passages (Dolinveste-T4B, ANY, Huawei named for the border and passport contracts)", "owner": "Ministry of the Interior and the Serviço de Migração e Estrangeiros for the border systems", "tiers": "centralised; the report calls it unaudited"},
+    {"system": "biometric border systems", "country_label": "", "class": "identity", "platform": "Dolinveste-T4B; ANY (electronic passport)", "owner": "Ministry of the Interior; Serviço de Migração e Estrangeiros", "tiers": "one degraded pilot at Santa Clara, paper passes on the DRC border, inactive gates at the new international airport"}
+  ],
+  "note": "The passages are the report's cover matter, recommendations and conclusion: they call for a civil registration drive and say the identity architecture draws on the civil registry, but state nothing about how or where births and deaths are recorded."
+}

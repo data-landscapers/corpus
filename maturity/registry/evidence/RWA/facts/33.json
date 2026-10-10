@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-28-rwanda-land-administration-case-study",
+  "facts": [],
+  "systems": [
+    {"system": "LAIS", "country_label": "National Registry system (LAIS), Land Administration Information System", "class": "land", "platform": "", "owner": "National Land Authority", "tiers": "land offices in all sectors and 30 districts; more than 14 government systems connected"}
+  ],
+  "note": "Land administration only, which the typology puts out of scope."
+}

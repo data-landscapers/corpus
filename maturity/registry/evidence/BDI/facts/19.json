@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-07-burundi-unveils-biometric-national-id-awaits-law",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 6 May 2026 the Ministry of the Interior unveiled a digital civil registration platform that is to underpin the country's new civil status system and the production of biometric identity cards; card production awaits adoption of the governing law.", "as_of": "2026-05-06", "date_precision": "day", "system": "digital civil registration platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of the Interior introduced the platform; its director general for territorial administration put the project's cost at about BIF 15 billion, with no funding source named.", "as_of": "2026-05-06", "date_precision": "day", "system": "digital civil registration platform", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital civil registration platform", "country_label": "", "class": "civil", "platform": "", "owner": "Ministry of the Interior", "tiers": "unveiled 6 May 2026; to underpin the new civil status system; no offices named"},
+    {"system": "biometric national identity card system", "country_label": "", "class": "identity", "platform": "", "owner": "Ministry of the Interior", "tiers": "technically ready to produce cards; awaiting the law; every citizen to re-register"}
+  ],
+  "note": "The article is chiefly about the identity card; it does not say what the civil registration platform records, where it runs or how the record is made."
+}

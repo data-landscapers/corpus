@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-11-techreviewafrica-ecowas-au-benin-electoral-roll",
+  "facts": [],
+  "systems": [
+    {"system": "Electoral roll", "country_label": "national electoral list", "class": "land", "platform": "", "owner": "ANIP, under the Electoral Code", "tiers": "national; shown to ECOWAS (6 April 2026) and African Union (10 April 2026) missions at Agblangandan"},
+    {"system": "Link between the population register, civil registry and electoral database", "country_label": "integrated model", "class": "exchange", "platform": "", "owner": "ANIP", "tiers": "ANIP's director general describes records updated continuously through interconnected administrative systems"},
+    {"system": "ANIP digital platforms and USSD services", "country_label": "", "class": "identity", "platform": "web, USSD, SMS", "owner": "ANIP", "tiers": "citizens verify polling information; registration units nationwide and abroad"}
+  ],
+  "note": "An account of observer visits to ANIP on the electoral roll; the civil registry appears only as one of three linked registers, with nothing on how births or deaths are recorded."
+}

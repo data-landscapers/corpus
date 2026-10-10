@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-01-ursb-annual-report-2023-24",
+  "facts": [],
+  "systems": [
+    {"system": "National Marriage Register System (NMRS)", "country_label": "National Marriage Register System / National Marriage Registration System (marriages only)", "class": "civil", "platform": "", "owner": "URSB (Directorate of Civil Registration); function transferred to NIRA by the 2024 amendment Act", "tiers": "624 accounts at end FY2023/24, 13 of them new, held by Chief Administrative Officers in districts and by places of worship; civil marriages solemnised in Kampala; the report credits service automation and record digitisation"},
+    {"system": "Online Business Registration System (OBRS)", "country_label": "Online Business Registration System", "class": "land", "platform": "", "owner": "URSB", "tiers": "online; 6 regional offices, 2 Kampala branches and 44 TREP centres"},
+    {"system": "Security Interest in Movable Property Registry (SIMPO)", "country_label": "SIMPO", "class": "land", "platform": "", "owner": "URSB", "tiers": "online"}
+  ],
+  "note": "URSB's civil registration directorate handled marriages only (2,717 civil marriages in Kampala, 499 district returns, 1,538 customary registrations in FY2023/24); the report states nothing about births or deaths, which were never the bureau's. The marriage system is listed under civil as the registrar's own system, for marriages."
+}

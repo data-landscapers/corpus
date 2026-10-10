@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-wearetech-rdc-pass-identification-numerique-phase-operationnelle",
+  "facts": [],
+  "systems": [
+    {"system": "RDC-Pass", "country_label": "RDC-Pass", "class": "identity", "platform": "", "owner": "ministry of the Digital Economy", "tiers": "first implementation phase: 50 enrolment agents trained in Kinshasa, 16 to 26 September 2026, before extension to a wider population"}
+  ],
+  "note": "The minister says RDC-Pass is neither a national identity card nor a replacement for the civil registration services, but a digital authentication credential for state services. Civil registration is mentioned only in that disclaimer; nothing is said of how or where events are registered."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "2021-10-29-worldbank-gambia-essential-health-services-strengthening-additional-financing",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank states that, as at its project paper of 29 October 2021, its Essential Health Services Strengthening Project 'is supporting The Gambia to establish a functional electronic CRVS system', had financed user devices for registration centres across the country (140 desktops, 60 laptops, 60 tablets, 120 printers, 120 scanners, 140 webcams, 140 UPS units and other items) and had recruited an international civil registration enterprise architect to guide the local team; no domestic budget line for the system is stated.",
+      "as_of": "2021-10-29",
+      "date_precision": "day",
+      "system": "electronic CRVS system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank names the Ministry of Health as implementing agency of the project that is establishing the electronic CRVS system, and treats CRVS under the ministry's health information systems (paragraph 13). Undated in the text; the document's date is used.",
+      "as_of": "2021-10-29",
+      "date_precision": "day",
+      "system": "electronic CRVS system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "electronic CRVS system",
+      "country_label": "functional electronic (CRVS) system",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "being established as at October 2021; not stated as live anywhere"
+    },
+    {
+      "system": "User devices for registration centres",
+      "country_label": "user devices for registration centers across the country",
+      "class": "enabling",
+      "platform": "140 desktops, 60 laptops, 60 tablets, 120 printers, 120 scanners, 140 webcams, 140 UPS, 60 solar bags, 200 Office 365 packages",
+      "owner": "Ministry of Health (World Bank financed)",
+      "tiers": "registration centres across the country; number of centres not stated"
+    }
+  ],
+  "note": "The paper also records that a review of the 1990 Act on Births, Deaths, Marriages and Divorces fed into the drafting of a new CRVS Bill, and resets the 'marriages registered' indicator baseline from 5,000 to 490. The capture is cut off inside the results framework."
+}

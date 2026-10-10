@@ -1,0 +1,9 @@
+{
+  "slug": "2021-12-01-tanzania-statistical-master-plan-phase-two-tsmp-ii",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Population Registration System (the Village Register transformed)", "country_label": "Village Register", "class": "identity", "platform": "", "owner": "", "tiers": "village; a target of the plan for 2022/23 to 2026/27, not a system in place"},
+    {"system": "scanning and indexing of civil registration records", "country_label": "", "class": "archive", "platform": "", "owner": "Registration, Insolvency and Trusteeship Agency (RITA)", "tiers": "listed as a need of RITA, not as work under way"}
+  ],
+  "note": "A statistics plan (December 2021): for RITA it records past support (CRVS assessment and ICT equipment) and lists needs, among them decentralisation of death registration and better storage of civil registration records through scanning and indexing; its targets concern vital statistics data integration and portals. Nothing states how or where a birth or death is recorded."
+}

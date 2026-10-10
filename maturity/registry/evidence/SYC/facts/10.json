@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-ecs-voter-registration-faq",
+  "facts": [],
+  "systems": [
+    {"system": "voters' register", "country_label": "voters' register", "class": "land", "platform": "", "owner": "Electoral Commission of Seychelles", "tiers": "checked by SMS of the NIN to 9600, on www.ecs.sc or at a registration centre; registration in person only"},
+    {"system": "monthly list of deceased from the Department of Immigration and Civil Status", "country_label": "list of deceased", "class": "exchange", "platform": "", "owner": "Department of Immigration and Civil Status (sender); Electoral Commission (receiver)", "tiers": "national; names removed from the voters' register at the 31 March certification or a pre-election certification"}
+  ],
+  "note": "An electoral-register FAQ, out of scope; its one civil-registration statement is a monthly list of deaths sent to the Electoral Commission, a link from the civil register and not a fact about how a death is registered."
+}

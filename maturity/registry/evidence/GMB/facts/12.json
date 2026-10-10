@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-06-citinewsroom-gambia-gam-id-national-identity-data-centre-abuko",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Management System (GAM ID)", "country_label": "GAM ID", "class": "identity", "platform": "built, financed and operated by Margins ID Group under a public-private partnership; hosted at the National Identity Management System Data Centre, Abuko", "owner": "Ministry of Interior; database stated as owned by the State", "tiers": "fixed registration centres from 4 August 2026 at Banjul, Kanifing, Bundung, Abuko, Brusubi, Brikama, Sanyang, Sibanor, Jarra Soma, Farafenni, Kerewan, Barra, Janjanbureh, Kaur, Basse and Fatoto, with mobile registration teams in all regions"}
+  ],
+  "note": "National identity system launch; 'mobile registration' here is identity enrolment. Nothing on civil registration."
+}

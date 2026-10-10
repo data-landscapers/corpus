@@ -1,0 +1,14 @@
+{
+  "slug": "2018-08-10-seychelles-nation-civil-registration-vital-statistics",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "A contributed article in Seychelles Nation states that the Civil Status records were computerised in 1989 and that two sets of records are currently kept, a manual record under the Civil Status Act and a computerised record for the National Population Database, which is updated daily from occurrences registered by the Civil Status; it speaks of vital events and vital records without listing births and deaths separately.", "as_of": "2018-08-10", "date_precision": "day", "system": "computerised Civil Status record", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The article states that the Civil Status Division in the Ministry of Employment, Immigration and Civil Status, with the National Bureau of Statistics, is the agency responsible for the civil registration and vital statistics system, each under its own law.", "as_of": "2018-08-10", "date_precision": "day", "system": "computerised Civil Status record", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "computerised Civil Status record", "country_label": "Civil Status records / computerised record", "class": "civil", "platform": "", "owner": "Civil Status Division, Ministry of Employment, Immigration and Civil Status", "tiers": "not stated; kept beside a manual record, and feeds the National Population Database daily"},
+    {"system": "National Population Database (NPD)", "country_label": "National Population Database (NPD) / population register", "class": "identity", "platform": "", "owner": "Civil Status Division", "tiers": "national; set up in 1988, updated daily from occurrences registered by the Civil Status and validated by censuses"},
+    {"system": "National Identity Number (NIN) system", "country_label": "National Identity Number (NIN)", "class": "identity", "platform": "", "owner": "", "tiers": "national; introduced with the NPD and made compulsory in June 1995"},
+    {"system": "submission of vital records to the National Bureau of Statistics", "country_label": "", "class": "exchange", "platform": "", "owner": "Civil Status Division (sender); National Bureau of Statistics (receiver)", "tiers": "national; vital records sent regularly in electronic and manual format"}
+  ],
+  "note": "The article does not say at which office, or at what point, the computerised record is made, so no fact is recorded for how the record is made or for local offices."
+}

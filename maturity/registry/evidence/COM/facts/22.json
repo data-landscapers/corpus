@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-01-anec-national-civil-status-agency-decree-consultations-lagazette",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "La Gazette des Comores reports that the implementing decree for the Agence nationale de l'état civil (ANEC), provided for by the law of 27 July 2023, was being drafted, with consultation workshops in the islands after an official launch in Moroni; the article is undated, so its published date (a month-level proxy) is used.", "as_of": "2025-11", "date_precision": "month", "system": "Agence nationale de l'état civil (ANEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de l'état civil (ANEC)", "country_label": "ANEC", "class": "civil", "platform": "", "owner": "Provided for by the law of 27 July 2023; decree in preparation under the AMECC project", "tiers": "Not yet created; to coordinate and direct all civil registration activity"},
+    {"system": "AMECC", "country_label": "projet AMECC", "class": "civil", "platform": "", "owner": "National coordinator Soundi Abdou Toybou", "tiers": "Computerisation and digitalisation stated as intended, not in service"}
+  ],
+  "note": ""
+}

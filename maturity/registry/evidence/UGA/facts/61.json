@@ -1,0 +1,10 @@
+{
+  "slug": "2024-08-01-integrated-national-data-exchange-uganda-case-study",
+  "facts": [],
+  "systems": [
+    {"system": "UGhub", "country_label": "UGhub, the national data exchange platform", "class": "exchange", "platform": "WSO2", "owner": "NITA-U", "tiers": "113 entities onboarded by end 2023, 47 of them ministries, departments and agencies; NIRA had not joined, so identity and civil registry data were not exchanged through it"},
+    {"system": "National Identification Register", "country_label": "National Identification Register; National Identity and Civil Registry data", "class": "identity", "platform": "", "owner": "NIRA", "tiers": ""},
+    {"system": "UGpass", "country_label": "UGpass digital authentication platform", "class": "identity", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": "A case study of the government data exchange; it says NIRA had yet to join UGhub and that fewer than 5% of district staff had a work computer and 2.5% internet access (2022 National ICT survey), but nothing on how births or deaths are registered."
+}

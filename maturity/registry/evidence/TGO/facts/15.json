@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21-togofirst-akoumape-modele-integre-2000-premiers-jours-naissance-keva",
+  "facts": [],
+  "systems": [
+    {"system": "Naissance Kéva", "country_label": "application « Naissance Kéva »", "class": "notification", "platform": "", "owner": "Direction régionale de la Santé maritime, with UNICEF, WHO and UNFPA support", "tiers": "maternities and town halls in the four communes of Vo prefecture, deployed since February 2026 as the first phase of a pilot model; the newborn's data is keyed at the maternity and, once the facility head validates it, the mairie can access it to draw up the birth act; planned extension to the Maritime region, then nationally"}
+  ],
+  "note": "The application carries the newborn's data from the maternity to the mairie, which then establishes the act: the facility notifies and the document does not say the mairie makes a digital record. Certification threshold stated: 90% of children born in the prefecture's centres holding a civil status document within eight days."
+}

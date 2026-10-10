@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-29-ethiopia-digital-id-isr-seq4",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda ID", "class": "identity", "platform": "", "owner": "National ID Program (NIDP)", "tiers": "registration mostly through partners: Ethio Telecom, EthioPost, Commercial Bank of Ethiopia, Oromia Finance Bureau and Addis Ababa CRRSA; over 25 million residents registered by September 2025"},
+    {"system": "Fayda integration with CRVS", "country_label": "", "class": "exchange", "platform": "", "owner": "National ID Program (NIDP)", "tiers": "not stated; integration reported as progressing at October 2025"},
+    {"system": "CRVS", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "A World Bank status report on the Fayda digital ID project. Its one mention of civil registration is that Fayda's integration with CRVS is progressing; it does not say what the CRVS system is or how offices register events."
+}

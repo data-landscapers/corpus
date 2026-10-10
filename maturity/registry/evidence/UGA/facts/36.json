@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-07-monitor-21-million-transferred-new-nira-system",
+  "facts": [],
+  "systems": [
+    {"system": "new national identification system", "country_label": "the new system", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "more than 140 NIRA offices across the country; 21.4 million of 28.5 million records migrated"},
+    {"system": "NIRA registration centres in hospitals", "country_label": "registration centres in most major hospitals", "class": "", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "most major hospitals, for newborns"}
+  ],
+  "note": "For the parent: a NIRA manager is reported in January 2026 saying NIRA has registration centres in most major hospitals where parents should register newborns, and more than 140 offices; the article does not say what system those centres use or whether the record is made digitally, so no fact is recorded and the centres are left unclassified."
+}

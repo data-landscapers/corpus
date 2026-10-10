@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-lby-moh-annual-statistical-report-2021",
+  "facts": [],
+  "systems": [
+    {"system": "Supply of births and deaths data by the Civil Status Authority to the Ministry of Health's Information and Documentation Centre", "country_label": "مصلحة الأحوال المدنية", "class": "exchange", "platform": "", "owner": "Civil Status Authority", "tiers": "national"}
+  ],
+  "note": "The passages say only that the 2021 report's births and deaths data came from the Civil Status Authority; nothing on how or where the authority's offices register an event."
+}

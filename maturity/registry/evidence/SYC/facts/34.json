@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-about-ekyc-seyid",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID eKYC", "country_label": "eKYC", "class": "identity", "platform": "SeyID", "owner": "Government of Seychelles (SeyID)", "tiers": "remote; video of an ID card or passport and a video selfie"}
+  ],
+  "note": "SeyID's page on remote identity verification; an identity system, and nothing on civil registration."
+}

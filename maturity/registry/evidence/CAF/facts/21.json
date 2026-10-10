@@ -1,0 +1,23 @@
+{
+  "slug": "2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Carte nationale d'identité",
+      "country_label": "carte nationale d'identité (CNI)",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "the diagnostic recommends more operational centres and decentralised assessment of applications"
+    },
+    {
+      "system": "Système d'identification des personnes",
+      "country_label": "système d'identification; écosystème d'identification",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "to be specified and deployed, per the diagnostic's recommendations"
+    }
+  ],
+  "note": "The World Bank-financed diagnostic validated on 17 April 2025 names no civil registration system; among its recommendations are to initiate the digitalisation of civil registration and to deploy equipment at local level, and it is said to be consistent with the recently validated Politique nationale de l'état civil. No system of the civil class is described, so no fact is taken."
+}

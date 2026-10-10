@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-17-anats-etat-civil-numerique-lancement",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "ANATS officially launched the digitalisation of civil-status registration at its premises in N'Djamena on 16 September 2025, on African Identity Day; the account names no offices, software or events covered.", "as_of": "2025-09-16", "date_precision": "day", "system": "Digitalisation de l'enregistrement à l'état civil (État Civil Numérique)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The digitalisation of civil-status registration was launched by the state agency ANATS, with the Ministry of Public Security and Immigration's representative presenting it as a government process; no plan or financing is stated.", "as_of": "2025-09-16", "date_precision": "day", "system": "Digitalisation de l'enregistrement à l'état civil (État Civil Numérique)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digitalisation de l'enregistrement à l'état civil (État Civil Numérique)", "country_label": "État Civil Numérique", "class": "civil", "platform": "", "owner": "ANATS", "tiers": "launched at ANATS's premises on 16 September 2025; where it is used is not stated"}
+  ],
+  "note": "Classed civil on the document's own words, the digitalisation of registration at the civil status; it describes a launch ceremony and gives nothing on where or how a record is made, so no coverage fact is taken."
+}

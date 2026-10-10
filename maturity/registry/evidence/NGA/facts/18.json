@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-31-nigeria-digital-identity-gap-leaves-schoolchildren-behind",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The National Population Commission's federal commissioner for Edo says the commission's birth registration system is fully digitised, with all registration data stored in a centralised national database and certificates carrying a QR code; he does not say where the entry is made, and gives no date, so the document's publication date is used.", "as_of": "2026-07-31", "date_precision": "day", "system": "NPC birth registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The document says the National Population Commission and its partners have enabled more than 10 million children to obtain birth registration through electronic systems, a figure it gives no date for; its publication date is used. It describes births only.", "as_of": "2026-07-31", "date_precision": "day", "system": "NPC birth registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "NPC birth registration system", "country_label": "birth registration; QR-coded birth certificate", "class": "civil", "platform": "", "owner": "National Population Commission (NPC)", "tiers": "a centralised national database; state offices in Edo and Oyo named; certificates issued through hospitals after delivery"},
+    {"system": "Birth registration integrated with the NIN system", "country_label": "NIN", "class": "exchange", "platform": "", "owner": "National Population Commission and National Identity Management Commission", "tiers": "newly registered children obtain a NIN automatically, with occasional connectivity problems, per the Commission's Oyo State director; not connected to any education platform in Edo State"},
+    {"system": "NPC registration of pupils in schools", "country_label": "", "class": "outreach", "platform": "", "owner": "National Population Commission, Oyo State", "tiers": "officials visit schools and register pupils who missed birth registration"},
+    {"system": "National Identification Number (NIN) enrolment", "country_label": "NIN; ward enrolment", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "ward-based enrolment since February 2026, mobile registration teams and accredited agents, in Oyo State"}
+  ],
+  "note": ""
+}

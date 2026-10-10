@@ -1,0 +1,8 @@
+{
+  "slug": "2024-09-24 Egypt deploys automated civil-registry kiosks (birth certificates and national ID)",
+  "facts": [],
+  "systems": [
+    {"system": "Automated civil-registry machines (kiosks)", "country_label": "automated civil-registry machines", "class": "certificate", "platform": "", "owner": "Ministry of Interior", "tiers": "touchscreen kiosks in major malls: an initial 8 offices expanded to 16 locations (Cairo, Giza, Gharbia, Alexandria, Hurghada, Cairo Airport and others), issuing birth, death, marriage and divorce certificates and national-ID application forms after fingerprint or face check (2024)"}
+  ],
+  "note": "Kiosks issue copies of certificates and identity-card forms; the document says nothing of how a birth or death is first registered."
+}

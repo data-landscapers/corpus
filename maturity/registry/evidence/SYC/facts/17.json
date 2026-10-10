@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-seyid-security",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID", "country_label": "SeyID", "class": "identity", "platform": "built with WiseKey OISTE public key infrastructure, on OpenID Connect", "owner": "SeyID Portal, Government of Seychelles", "tiers": "portal and mobile app"}
+  ],
+  "note": "The SeyID security page: authentication for the identity platform; an identity system, and nothing on civil registration."
+}

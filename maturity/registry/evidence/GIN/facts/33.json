@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-22-verite224-dge-oneci-convention-fichier-electoral",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Registre National des Personnes Physiques", "class": "identity", "platform": "", "owner": "ONECI", "tiers": ""},
+    {"system": "listes électorales biométriques (fichier électoral)", "country_label": "fichier électoral", "class": "land", "platform": "", "owner": "Direction Générale des Élections (DGE)", "tiers": ""}
+  ],
+  "note": "A second account of the 22 January 2026 DGE and ONECI convention on the electoral roll; nothing on the registration of births or deaths."
+}

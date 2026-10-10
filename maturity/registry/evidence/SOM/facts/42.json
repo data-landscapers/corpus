@@ -1,0 +1,11 @@
+{
+  "slug": "2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds",
+  "facts": [],
+  "systems": [
+    {"system": "HUBIYE", "country_label": "HUBIYE", "class": "identity", "platform": "developed in-house by NIRA engineers", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "identity verification platform using email and SMS one-time codes for consent; launched in Mogadishu on 7 May 2025"},
+    {"system": "eAqoonsi", "country_label": "eAqoonsi", "class": "identity", "platform": "developed in-house by NIRA engineers", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "mobile app carrying a digital ID legally equivalent to the national ID card"},
+    {"system": "CDS (Certificate Delivery System)", "country_label": "CDS", "class": "", "platform": "developed in-house by NIRA engineers", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "NIRA national ID records", "country_label": "National Identification Number (NIN)", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "fingerprint and face biometrics; supported by the World Bank's $75 million Scaled-UP project"}
+  ],
+  "note": "Concerns three identity tools launched by NIRA; the Certificate Delivery System is named with no description of what it does, and nothing is stated about registering births or deaths."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-25-annex-budget-speech-2026-2027-land-deeds-e-submission",
+  "facts": [],
+  "systems": [
+    {"system": "System of the Registrar of Civil Status, holding the Civil Status Database", "country_label": "Civil Status Database", "class": "", "platform": "", "owner": "Registrar of Civil Status", "tiers": ""},
+    {"system": "Central Population Database", "country_label": "Central Population Database", "class": "", "platform": "", "owner": "Registrar of Civil Status", "tiers": ""},
+    {"system": "Electronic access by the Mauritius Revenue Authority to the system of the Registrar of Civil Status (budget measure 9.2.3(c))", "country_label": "Access to Civil Status Information", "class": "exchange", "platform": "", "owner": "Registrar of Civil Status", "tiers": "national"},
+    {"system": "Registration of Deeds and Documents System", "country_label": "Registration of Deeds and Documents System", "class": "land", "platform": "", "owner": "Registrar-General's Department", "tiers": "attorneys-at-law to submit documents for registration electronically"},
+    {"system": "Immovable property database of the Registrar-General's Department", "country_label": "Records of Conservator of Mortgages", "class": "land", "platform": "", "owner": "Registrar-General's Department", "tiers": "paid searches, daily or by monthly subscription"}
+  ],
+  "note": "A budget annex: it announces the revenue authority's electronic access to the civil status system and measures on the deeds registry, and says nothing on how or where births and deaths are recorded. The captured text is an excerpt ending mid-table at section 19."
+}

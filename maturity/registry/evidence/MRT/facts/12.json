@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-01-dgat-interieur-bilan-premier-semestre-2026-interconnexion-biometrique-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "interconnexion des bases de données biométriques avec le système d'état civil", "country_label": "bases de données biométriques interconnectées avec le système d'état civil", "class": "exchange", "platform": "", "owner": "Ministère de l'Intérieur, de la Promotion de la Décentralisation et du Développement Local", "tiers": "listed as a first-half 2026 achievement under modernisation of the national security system, to strengthen border control and improve services"},
+    {"system": "système d'état civil", "country_label": "système d'état civil", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The ministry's first-half 2026 report names the civil-status system only as the thing the biometric databases were interconnected with; it does not say what that system does or where a record is made."
+}

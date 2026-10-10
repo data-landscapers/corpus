@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-06-projecto-njila-reabilita-postos-de-registo-bie-huambo",
+  "facts": [],
+  "systems": [
+    {"system": "Projecto Njila, componente III: reabilitação e apetrechamento de postos de registo de nascimento", "country_label": "Projecto Njila", "class": "enabling", "platform": "", "owner": "Ministério da Administração do Território as coordinator; component III under the Ministério da Justiça e dos Direitos Humanos; World Bank financing of USD 250 million", "tiers": "birth registration posts: 11 rehabilitated and equipped in Bié in 2025, five of them working since August 2025, mostly in maternal and child health centres; 13 more nearing completion in Huambo; the project covers 53 municipalities in eight provinces"},
+    {"system": "campanhas de massificação de registo de nascimento e emissão do BI", "country_label": "campanhas de massificação", "class": "outreach", "platform": "", "owner": "Projecto Njila; Ministério da Justiça e dos Direitos Humanos", "tiers": "Huambo municipality, more than 2,500 people in 2025; Cuito (Bié), more than 2,800 people"}
+  ],
+  "note": "The report gives counts of birth registration posts rehabilitated and equipped and of people reached by campaigns; it does not say how those posts record a birth, so premises and campaigns are noted and no fact is taken."
+}

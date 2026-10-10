@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-31-births-and-deaths-registry-validates-plan-to-digitise-national-vital-statistics",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Births and Deaths Registry held a two-day workshop, reported 31 July 2025, validating Ghana's Civil Registration and Vital Statistics Strategic Plan 2025-2030, whose priorities include modernising CRVS infrastructure with digital tools and expanding mobile registration in remote areas; the Acting Registrar spoke of it as still to be approved.", "as_of": "2025-07", "date_precision": "month", "system": "Civil Registration and Vital Statistics (CRVS) system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Births and Deaths Registry led the validation of the CRVS Strategic Plan 2025-2030, launched by the Deputy Minister of Local Government, Chieftaincy and Religious Affairs, who committed the government to modernising the registry; UNICEF, UNFPA and UNECA are named as partners in developing the plan.", "as_of": "2025-07", "date_precision": "month", "system": "Civil Registration and Vital Statistics (CRVS) system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "Births and Deaths Registry", "class": "civil", "platform": "", "owner": "Births and Deaths Registry, under the Ministry of Local Government, Chieftaincy and Religious Affairs", "tiers": "national, with district and community levels named for capacity building; digital tools and mobile registration in remote areas are priorities of the plan, not stated as in place"}
+  ],
+  "note": "The document names no software and does not say how offices record events now; digital tools are a priority of a plan validated but not yet approved. Finance is mentioned only as 'sustained funding' among the initiative's elements, with no source."
+}

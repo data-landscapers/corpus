@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-16-cabo-verde-justica-portal-servicos-digitais-905-atos",
+  "facts": [],
+  "systems": [
+    {"system": "Portal da Justiça", "country_label": "Portal da Justiça", "class": "certificate", "platform": "web-mobile portal", "owner": "Ministério da Justiça, through IMIJ", "tiers": "national online channel, launched in late 2024, for requesting birth, marriage, affiliation and death certificates, land, commercial and vehicle certificates, criminal records and identity card renewal without visiting a conservatória; 905 acts by 16 December 2025, of which 290 birth and 22 death certificates"},
+    {"system": "Sistema de Informação de Justiça (SIJ)", "country_label": "SIJ", "class": "", "platform": "", "owner": "Ministério da Justiça, through IMIJ", "tiers": "not stated"}
+  ],
+  "note": "A portal for requesting copies of acts, an alternative to the conservatória counters; it does not register events, and the page says nothing of how the conservatórias make the record."
+}

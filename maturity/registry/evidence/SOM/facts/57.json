@@ -1,0 +1,11 @@
+{
+  "slug": "2021-12-01-somalia-unfpa-crvs-country-profile",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The UNFPA-commissioned country profile states that there is no civil registration system office or department in Somalia, that the CRVS system needs to be re-established at local, regional and national levels and that infrastructure for it is inadequate, with only some of the 22 municipalities charged with keeping registers and doing so poorly; it names no digital system, and the date is the document's own, taken from its bibliographic citation.", "as_of": "2021-12", "date_precision": "month", "system": "civil registration system (stated absent)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration system (stated absent)", "country_label": "CRVS system", "class": "civil", "platform": "", "owner": "", "tiers": "none: no civil registration office or department at December 2021; no central coordinating authority found by the 2015 assessment"},
+    {"system": "municipal civil registers and municipal ID cards", "country_label": "", "class": "", "platform": "", "owner": "some of the 22 municipalities (local governments), under Law No. 7 of 2003 art. 9.10", "tiers": "some municipalities maintain registers and issue birth, death and marriage certificates and municipal ID cards; implementation poor; medium not stated"}
+  ],
+  "note": "The capture is an excerpt, ending within section 5; the sections on current status and challenges were not available to read."
+}

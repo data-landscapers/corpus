@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-07 Somalia expands national digital ID use cases to meet 15M issuance target by 2029",
+  "facts": [],
+  "systems": [
+    {"system": "national ID system", "country_label": "National ID Card", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "launched in 2023 with World Bank support; required for passport applications from 1 September 2025 and domestic travel from 1 January 2026"}
+  ],
+  "note": "Concerns use cases of the national ID only (passports, domestic travel, bank accounts); nothing is stated about civil registration."
+}

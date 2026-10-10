@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-01-ahram-online-50-mobile-notarization-centres-justice-ministry",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile real estate registration and notarization centres", "country_label": "mobile technology centres; mobile notarization vehicles", "class": "land", "platform": "", "owner": "Ministry of Justice, Real Estate Registration and Notarization Authority; delivered by the Ministry of Planning and Economic Development", "tiers": "93 mobile centres across governorates, including villages and remote areas; 141 services"},
+    {"system": "Digital Egypt Platform", "country_label": "Digital Egypt Platform", "class": "certificate", "platform": "", "owner": "", "tiers": "national online portal; services listed as covering civil status documents among others"}
+  ],
+  "note": "Mobile notarisation units for the land and notary service; civil status documents are mentioned only as a service category on Digital Egypt."
+}

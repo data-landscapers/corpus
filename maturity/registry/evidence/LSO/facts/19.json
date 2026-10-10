@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated national digital ID ecosystem",
+      "country_label": "integrated national digital ID ecosystem",
+      "class": "identity",
+      "platform": "MOSIP",
+      "owner": "MICSTI, with UNICEF support under the 2026 Action Plan of the Programme of Cooperation 2025-2028",
+      "tiers": ""
+    }
+  ],
+  "note": "An identity platform agreement covering card and passport renewal, biometric registration and proof-of-life checks; civil registration appears only in a description of SDG 16.9."
+}

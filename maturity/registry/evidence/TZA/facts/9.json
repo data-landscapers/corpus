@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-18-zcsra-crvs-decentralisation-egmrg",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "ZCSRA's Executive Director states that in Zanzibar birth, death, marriage and divorce registration is now decentralised in all 11 districts, down to shehia level through Shehas, on the eCRVS platform redeveloped in 2022 with its Sheha Mobile App.", "as_of": "2026-07-18", "date_precision": "day", "system": "eCRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "ZCSRA describes Zanzibar's eCRVS, redeveloped in 2022, as a web-based platform with a Sheha Mobile App for community-level registration, with health facilities and Shehas as registration agents since the 2018 Act, and lists real-time, interoperable data among its results.", "as_of": "2026-07-18", "date_precision": "day", "system": "eCRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "ZCSRA states that registration is decentralised in all 11 of Zanzibar's districts, through Shehas, using the eCRVS platform and Sheha Mobile App; the figure is districts of Zanzibar only (not mainland Tanzania), and no count of offices, health facilities or shehias using the system is given.", "as_of": "2026-07-18", "date_precision": "day", "system": "eCRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Zanzibar Civil Status Registration Agency, under ZCSRA Act No. 3 of 2018, runs the eCRVS system and presents it; the Act makes health facilities and Shehas its registration agents.", "as_of": "2026-07-18", "date_precision": "day", "system": "eCRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "ZCSRA reports a 2025/2026 business process improvement of the eCRVS with Vital Strategies support: streamlined workflows, a unified mobile app and better data quality.", "as_of": "2026", "date_precision": "year", "system": "eCRVS system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "eCRVS system", "country_label": "eCRVS (web-based platform) with the Sheha Mobile App", "class": "civil", "platform": "web-based platform and mobile app; software not named", "owner": "Zanzibar Civil Status Registration Agency (ZCSRA)", "tiers": "Zanzibar: all 11 districts, health facilities and Shehas at shehia level"},
+    {"system": "digital CRVS system (pilot)", "country_label": "UNFPA-supported pilot digital CRVS system launched at health facilities more than ten years ago", "class": "civil", "platform": "", "owner": "Zanzibar government, UNFPA-supported", "tiers": "health facilities, pilot; predecessor of the 2022 eCRVS"}
+  ],
+  "note": "All facts are for Zanzibar only; the document says nothing of mainland Tanzania."
+}

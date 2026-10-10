@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-13-anid-biometric-identification-togo-transformation-e-id",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-ID Togo",
+      "country_label": "e-ID Togo; Unique Identification Number (UIN/NIU)",
+      "class": "identity",
+      "platform": "MOSIP",
+      "owner": "Agence Nationale d'Identification (ANID); implementation entrusted to the Atos-IDEMIA consortium on 1 June 2023",
+      "tiers": "national central biometric database; enrolment by prefecture"
+    }
+  ],
+  "note": "An identity-enrolment article; on civil registration it carries only a researcher's remark that the identity file is not linked to the civil registry to extract deaths, and describes no civil registration system."
+}

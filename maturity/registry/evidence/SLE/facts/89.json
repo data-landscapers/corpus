@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-sierra-leone-national-digital-development-policy-2021",
+  "facts": [],
+  "systems": [
+    {
+      "system": "one-stop e-government platform",
+      "country_label": "one-stop, e-government platform",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "a policy objective, not a system in place: to deliver public services including registration (birth/death, national IDs, business permits); the document does not say whether events would be registered on it or certificates requested"
+    }
+  ],
+  "note": "A 2021 policy of intentions only: government 'hopes to establish' digital ID and civil registration as building blocks and to interconnect the civil registry with other registries; it states nothing about how or where births or deaths are registered, and names no civil registration system. The capture is truncated in the e-government section."
+}

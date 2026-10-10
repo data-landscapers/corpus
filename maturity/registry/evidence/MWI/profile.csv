@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-10-09,MWI-003;MWI-006;MWI-017,MWI-016=owner:ministry;MWI-018=finance:donor;MWI-051=owner:ministry;MWI-032=finance:donor;MWI-025=plan:current;MWI-026=owner:ministry;MWI-027=finance:donor;MWI-034=plan:current;MWI-035=owner:ministry;MWI-036=plan:current;MWI-037=owner:ministry;MWI-038=owner:ministry;MWI-039=owner:partner;MWI-040=plan:current;MWI-041=finance:donor;MWI-048=finance:donor;MWI-031=owner:ministry;MWI-054=owner:ministry,
+MWI,civil,events,coverage,B;D,2026-07-14,MWI-004;MWI-012;MWI-019;MWI-021;MWI-023;MWI-029;MWI-030;MWI-042;MWI-047;MWI-050,,
+MWI,civil,made,coverage,connected,2026-07-14,MWI-005;MWI-013;MWI-024;MWI-043,MWI-049=paper;MWI-052=paper;MWI-044=keyed-elsewhere;MWI-053=paper,
+MWI,civil,last12,qualifier,advancing,2026-10-09,MWI-001;MWI-015,MWI-033=regressing,
+MWI,civil,offices,coverage,count:180,2026-10-09,MWI-002,MWI-014=count:87;MWI-020=count:58;MWI-022=pilot;MWI-028=count:43;MWI-045=count:142;MWI-046=pilot,

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-27-mwi-nzika-digital-id-public-trust",
+  "facts": [],
+  "systems": [
+    {"system": "Nzika Digital ID Wallet", "country_label": "Nzika", "class": "identity", "platform": "", "owner": "National Registration Bureau, with UNDP and other development partners", "tiers": "citizens' smartphones; launched in Lilongwe on 16 September 2026, more than 22,000 enrolled by the launch; holds digital versions of the National ID and certain civil registration documents"},
+    {"system": "national identity system", "country_label": "National ID", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national; more than 13.5 million registered people"},
+    {"system": "portable biometric registration kits", "country_label": "biometric registration kits", "class": "identity", "platform": "Laxton", "owner": "National Registration Bureau; supplied and maintained by Laxton Limited under a World Bank-financed contract of about US$5.085 million", "tiers": "2,400 kits, linked to the population database by encrypted VPN"}
+  ],
+  "note": "An opinion column on the Nzika identity wallet and the Laxton kit contract; it states nothing about how or where births or deaths are registered."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-21-biometricupdate-kenyas-digital-birth-registration-270k-newborns",
+  "facts": [],
+  "systems": [
+    {"system": "electronic birth notification system", "country_label": "e-notification", "class": "notification", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "hospitals and health facilities send newborns' details to the civil registration office, where the record is processed; launched June 2026 after a pilot; more than 270,000 newborns in two months"},
+    {"system": "unique personal identifier", "country_label": "UPI", "class": "identity", "platform": "", "owner": "Civil Registration Services", "tiers": "assigned to newborns notified electronically"},
+    {"system": "CRVS system integration with the Ministry of Health's Hospital Management System", "country_label": "", "class": "exchange", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "in progress, for all connected hospitals"},
+    {"system": "civil registration system integration with the national ID platform", "country_label": "", "class": "exchange", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "stated aim"},
+    {"system": "e-notification system for deaths", "country_label": "", "class": "notification", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "planned"},
+    {"system": "digital birth certificate applications", "country_label": "", "class": "certificate", "platform": "", "owner": "", "tiers": "about 90 per cent of applications completed digitally, on officials' statement of February 2025"},
+    {"system": "Maisha Namba", "country_label": "Maisha Namba", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "This document describes the system as a notification: the hospital transmits the newborn's details to the civil registration office, where the birth record is processed. It does not say how the office makes the record. It also says, without detail, that Civil Registration Services had by December 2024 expanded through new offices and digitisation."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "1947-12-26-registration-of-persons-act",
+  "facts": [],
+  "systems": [
+    {"system": "National Integrated Identity Management System", "country_label": "NIIMS", "class": "identity", "platform": "", "owner": "Principal Secretary of the ministry responsible for registration of persons", "tiers": "national; a national population register, a unique national identification number, and support for printing identification documents including birth and death certificates (section 9A)"},
+    {"system": "Register of persons", "country_label": "register (section 5)", "class": "identity", "platform": "", "owner": "Principal Registrar", "tiers": "national; citizens aged eighteen and over, with provincial and district registrars"}
+  ],
+  "note": "The identity-card statute, for adults of eighteen and over. It mentions birth and death certificates only as documents whose printing NIIMS supports, and says nothing on how births and deaths are registered."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Register / National Identity Card", "country_label": "National Identification Register; National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": "listed as Burundi's foundational ID system in Annex D, with no digital ID; the adult coverage estimate uses the birth registration rate as proxy"}
+  ],
+  "note": "A global dataset report on identity coverage; Burundi appears once, in the Annex D table row for its foundational ID, and nothing is said of how its civil registration offices register. The annex tables after that row (other economies, and the gender-gap table) were checked by search for Burundi rather than read line by line."
+}

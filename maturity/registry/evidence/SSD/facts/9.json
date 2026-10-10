@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-11-immigration-chief-digital-reform-integrated-registry-mou",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The outgoing director-general said that under his leadership (February 2025 to August 2026) the Directorate signed a memorandum of understanding in Nairobi aimed at establishing an integrated civil registry system for recording births, deaths and marriages; the document gives no date for the signing, so the published date is used.", "as_of": "2026-08-11", "date_precision": "day", "system": "integrated civil registry system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The memorandum of understanding for an integrated civil registry system was signed by the Directorate of Civil Registry, Nationality, Passport and Immigration under its director-general, by his own account at the 10 August 2026 handover; the counterparty is not named.", "as_of": "2026-08-10", "date_precision": "day", "system": "integrated civil registry system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "integrated civil registry system", "country_label": "integrated civil registry system", "class": "civil", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration", "tiers": "not stated; a system to be established under a memorandum of understanding"},
+    {"system": "mobile registration kits", "country_label": "mobile registration kits", "class": "outreach", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration", "tiers": "100 kits procured to take registration services to rural communities"},
+    {"system": "school-based nationality registration", "country_label": "school-based nationality registration", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration", "tiers": "schools"}
+  ],
+  "note": ""
+}

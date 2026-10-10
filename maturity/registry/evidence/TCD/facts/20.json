@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices in Chad predominantly use paper-based systems for birth registration, with digital limited to pilots and paper the default; no date is given for the state described, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Rural registry offices (civil registration)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The essay states that the UNICEF-supported Tasdjil digital app, launched in 2022 and offline-capable with a process of under ten minutes, has enabled more than 109,000 birth registrations, often at health facilities; no date is given for the count, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Tasdjil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The essay calls Tasdjil a donor pilot and states that digital registration is limited to pilots, not scaled or standardised at rural registries, with no evidence of a majority of rural facilities using it; undated, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Tasdjil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:partner", "fact": "The essay describes Tasdjil as UNICEF-supported and a donor pilot, naming no government owner; undated, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Tasdjil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Tasdjil", "country_label": "Tasdjil digital app", "class": "civil", "platform": "mobile app, offline-capable", "owner": "UNICEF-supported", "tiers": "used for registrations often at health facilities; launched 2022; described as a donor pilot"},
+    {"system": "Rural registry offices (civil registration)", "country_label": "rural registry offices", "class": "civil", "platform": "paper", "owner": "", "tiers": "rural offices"}
+  ],
+  "note": "The document's own header says its country figures are an AI-assisted compilation and the author's analysis, not sourced fact, and the essay scores its own evidence on recording methods as thin; study.json lists this slug under exclude_sources. Tasdjil is classed civil on the essay's statement that registrations are made through the app."
+}

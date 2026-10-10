@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay's Uganda registry row states that district-level birth and death registration offices, 86 per cent of 152 of them rural, register births on paper at the point of service, the data being entered digitally later at regional levels and carried to the national database on CDs and flash drives, although all local offices have computers; it gives no date for this, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "national database", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The essay's Uganda registry row states that birth registrations made on paper at district offices are later entered digitally at regional levels into the national database; it gives no date for this, so the essay's publication date is used, and it says nothing of deaths being entered.", "as_of": "2026-03-31", "date_precision": "day", "system": "national database", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "national database of birth registrations", "country_label": "national database", "class": "civil", "platform": "", "owner": "", "tiers": "paper at 152 district-level birth and death registration offices; digital entry at regional levels"},
+    {"system": "Mobile Vital Record System", "country_label": "Mobile Vital Record System", "class": "notification", "platform": "", "owner": "", "tiers": "piloted 2013 with UNICEF; birth notifications from rural areas by mobile to a central database, full registration still on paper at district registries"},
+    {"system": "national digital ID", "country_label": "", "class": "identity", "platform": "MOSIP", "owner": "", "tiers": "migration of more than 28 million records, 2025-26"}
+  ],
+  "note": "For the parent: this is the source study.json lists under exclude_sources, an AI-assisted compilation by its own header; the two facts record what its Uganda registry row states and are undated in the source. Its own description of the Mobile Vital Record System is of a notification tool, which differs from how NIRA describes MVRS in documents 20 and 28."
+}

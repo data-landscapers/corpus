@@ -1,0 +1,19 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:73.8%", "fact": "The essay's country table states that the e-SIRCEV electronic civil registration system was deployed to 121 of 164 registries by 2021, citing an EMURGO blog; it says deployed, not registering.", "as_of": "2021", "date_precision": "year", "system": "e-SIRCEV", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that first capture at rural registry offices still largely uses paper forms before digital entry, with declaration vouchers from health centres or village chiefs entered in paper registers at municipal civil status offices; it gives no date, so the essay's date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Municipal civil status offices' paper registers", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The essay's country table states that in August 2025 ANIP launched a one-stop digital birth registration pilot in 10 health facilities, including the hospitals at Natitingou and Djougou.", "as_of": "2025-08", "date_precision": "month", "system": "One-stop digital birth registration pilot", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay's country table states that in the August 2025 one-stop pilot the data go directly into the RNPP, with the personal identification number generated automatically.", "as_of": "2025-08", "date_precision": "month", "system": "One-stop digital birth registration pilot", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "e-SIRCEV", "country_label": "e-SIRCEV", "class": "civil", "platform": "", "owner": "", "tiers": "121 of 164 registries by 2021"},
+    {"system": "Municipal civil status offices' paper registers", "country_label": "", "class": "civil", "platform": "paper", "owner": "", "tiers": "municipal civil status offices, fed by declaration vouchers from health centres or village chiefs"},
+    {"system": "One-stop digital birth registration pilot", "country_label": "", "class": "civil", "platform": "", "owner": "ANIP", "tiers": "10 health facilities from August 2025"},
+    {"system": "Mobile registration terminals", "country_label": "", "class": "enabling", "platform": "", "owner": "ANIP; given by the World Bank's WURI project", "tiers": "2,050 terminals received in October 2024, for birth registration at health facilities in all districts into the RNPP and RNEC"},
+    {"system": "National Register of Natural Persons (RNPP)", "country_label": "RNPP", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national"},
+    {"system": "National Register of Civil Status Events (RNEC)", "country_label": "RNEC", "class": "", "platform": "", "owner": "ANIP", "tiers": "national; not described"},
+    {"system": "ANIP digital channels", "country_label": "", "class": "certificate", "platform": "web portal, mobile app, USSD", "owner": "ANIP", "tiers": "10.5 million civil status and identity documents issued in 2025, 75% of procedures through digital channels (37% web, 30% app, 8% USSD)"}
+  ],
+  "note": "This source is on the study's exclude_sources list (an AI-assisted compilation, not sourced fact); its statements are recorded as the document makes them, for the parent to hold out."
+}

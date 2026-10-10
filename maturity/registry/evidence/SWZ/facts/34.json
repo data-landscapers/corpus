@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-28-digital-eswatini-project-pid",
+  "facts": [],
+  "systems": [
+    {"system": "Population Register (NPR)", "country_label": "Population Register (NPR)", "class": "identity", "platform": "", "owner": "not stated", "tiers": "to support digital ID; described on 28 June 2025 as requiring digitalisation of mainly manual paper-based records"},
+    {"system": "digitalising paper records (Digital Eswatini, Component 2)", "country_label": "", "class": "archive", "platform": "", "owner": "Ministry of Information, Communication and Technology (implementing agency)", "tiers": "planned at concept stage; sector not specified"}
+  ],
+  "note": "The concept-stage document names the Population Register only as the base for digital ID and gives birth registration rates (50.2% female, 50.9% male); it describes no civil registration system or office practice."
+}

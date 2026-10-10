@@ -1,0 +1,23 @@
+{
+  "slug": "2020-01-29-ecoi-burundi-national-identity-card-cni",
+  "facts": [],
+  "systems": [
+    {
+      "system": "carte nationale d'identité (CNI)",
+      "country_label": "Fichier national de l'identification / carte nationale d'identité",
+      "class": "identity",
+      "platform": "paper card; identification file kept at the communal office or city hall; the World Bank (August 2018) is cited that no unique ID number is issued and no central electronic database is kept",
+      "owner": "commune administrator at the communal office or city hall, by the embassy official and Isôko; the police under the Ministry of Interior, by the World Bank (August 2018)",
+      "tiers": "communal offices and Bujumbura city hall"
+    },
+    {
+      "system": "biometric CNI",
+      "country_label": "CNI biométrique",
+      "class": "identity",
+      "platform": "machine-readable card",
+      "owner": "Ministry of the Interior, with UNDP and the World Bank",
+      "tiers": "pilot in Bujumbura only; 37,725 persons registered as of 31 December 2013; the pilot period over by January 2020"
+    }
+  ],
+  "note": "The document is about the national identity card (class identity). A birth certificate copy or extract is a required supporting document; nothing is said of how births or deaths are registered."
+}

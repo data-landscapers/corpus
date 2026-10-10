@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-01-zaf-citizen-green-id-book-end-digital-id-prototype",
+  "facts": [],
+  "systems": [
+    {"system": "Smart ID replacement at bank branches", "country_label": "Smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "more than 515 bank branches; more than 1,000 service points expected by end 2026"},
+    {"system": "Digital Identity credential", "country_label": "Digital ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "first working prototype shown 2026-10-01"},
+    {"system": "green ID book", "country_label": "Green ID Book", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "production to cease 2027-03-31"},
+    {"system": "campaign to document undocumented citizens", "country_label": "", "class": "outreach", "platform": "mobile biometric technology", "owner": "Department of Home Affairs", "tiers": "rural and underserved communities; target of every citizen documented by 2029"},
+    {"system": "Electronic Travel Authorisation", "country_label": "ETA", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": "Identity documents, digital ID and a documentation campaign; nothing on how births or deaths are registered."
+}

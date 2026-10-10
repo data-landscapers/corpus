@@ -1,0 +1,8 @@
+{
+  "slug": "2023-06-15-guine-bissau-boletim-oficial-24-mapa-oficial-legislativas-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Electoral register (eleitores inscritos)", "country_label": "eleitores inscritos", "class": "land", "platform": "", "owner": "Comissão Nacional de Eleições", "tiers": "national; 893,618 registered voters at the legislative election of 4 June 2023"}
+  ],
+  "note": "Gazetted election results and the electoral register total only; out of scope, nothing on civil registration."
+}

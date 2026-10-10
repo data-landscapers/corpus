@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-22-south-sudan-id4d-country-diagnostic-national-id-gap",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The World Bank's feature on its 2026 ID4D diagnostic states that civil registration systems remain largely non-operational, with only limited birth notifications issued through a small number of health facilities and about 90% of births unrecorded; no date is given for the finding, so the published date is used.", "as_of": "2026-07-22", "date_precision": "day", "system": "Civil Registry", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:none", "fact": "The World Bank's 2026 diagnostic, as reported on 22 July 2026, recommends that the Civil Registry be operationalised and the Personal Identification Number activated, the legal basis being the Civil Registry Act 2018 and the 2024 regulations; it describes recommendations, not a plan in force.", "as_of": "2026-07-22", "date_precision": "day", "system": "Civil Registry", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registry", "country_label": "Civil Registry", "class": "civil", "platform": "", "owner": "DCRNPI", "tiers": "largely non-operational; presence outside Juba to be enhanced"},
+    {"system": "birth notifications", "country_label": "birth notifications", "class": "notification", "platform": "", "owner": "health facilities", "tiers": "a small number of health facilities"},
+    {"system": "Nationality Certificate and National Identity Card", "country_label": "Nationality Certificate (NC); National Identity Card (NIC)", "class": "identity", "platform": "", "owner": "DCRNPI", "tiers": "centralised offices"},
+    {"system": "Personal Identification Number", "country_label": "PIN", "class": "identity", "platform": "", "owner": "DCRNPI", "tiers": "provided for in law; not yet activated"}
+  ],
+  "note": ""
+}

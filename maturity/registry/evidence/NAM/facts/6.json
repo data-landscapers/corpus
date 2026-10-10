@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-21-newera-theofelus-digital-identity-trust-security-facts",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Identity Document (e-ID)", "country_label": "e-ID", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs (issuance); Ministry of Information and Communication Technology (digital ecosystem)", "tiers": "national; approved August 2023, in preparation for rollout"}
+  ],
+  "note": "Ministerial opinion piece on the electronic identity card; it says Home Affairs handles civil registration and states nothing on how or where civil registration is recorded."
+}

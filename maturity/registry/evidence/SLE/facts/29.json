@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-09 Unlocking opportunity - How digital ID can transform lives in Sierra Leone",
+  "facts": [],
+  "systems": [
+    {"system": "National ID number and ID card", "country_label": "national ID number; ID card", "class": "identity", "platform": "", "owner": "", "tiers": "National; 6.4 million people hold an ID number against a target of 8.8 million, and fewer than half a million cards had been issued as of 2024, at a fee of 6 to 7 US dollars"},
+    {"system": "Civil registration integrating with the national ID", "country_label": "civil registration integrating with the national ID", "class": "exchange", "platform": "", "owner": "", "tiers": "National; described as under way in December 2025"},
+    {"system": "Open-source biometric platform pilot", "country_label": "open-source biometric platform", "class": "identity", "platform": "", "owner": "", "tiers": "Piloted"},
+    {"system": "Digital farmer registry", "country_label": "digital farmer registry", "class": "", "platform": "", "owner": "", "tiers": "Planned, with integration to the national ID system"}
+  ],
+  "note": "A World Bank blog on the national ID; civil registration appears only as integrating with the ID, with nothing on how offices record births or deaths."
+}

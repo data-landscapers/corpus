@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-24-worldbank-nigeria-id4d-restructuring-p167183",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Management System (NIMS)", "country_label": "NIMS / NIN; NIMS 2.0 (new system under procurement, expected operational by December 2026)", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "enrolment by about 134 licensed front-end enrolment partners nationwide; 15 Nigerian government offices abroad equipped (November 2024)"},
+    {"system": "Automated Biometric Identification System (ABIS)", "country_label": "ABIS", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "national back end"}
+  ],
+  "note": "A restructuring paper for the identity project; civil registration and vital statistics appears only in the list of abbreviations, and the paper states nothing about birth or death registration or registration offices."
+}

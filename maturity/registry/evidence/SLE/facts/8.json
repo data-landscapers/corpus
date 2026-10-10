@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-12-sierra-leone-ncra-crvs-decade-investment-call",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registration integrated with identity management", "country_label": "integrated civil registration with identity management", "class": "exchange", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; stated by the NCRA Director General on 10 August 2026 as already done"},
+    {"system": "Identity verification platform", "country_label": "identity verification platform", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Used by institutions including financial and telecommunications companies"},
+    {"system": "National Identification Number (NIN)", "country_label": "National Identification Number (NIN)", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; to be linked to the voter register before the 2028 elections and used for bank KYC"}
+  ],
+  "note": "A call on 10 August 2026 for a decentralised, digital birth-to-death registration system and UNICEF's USD 1.16m three-year costing; the document does not say how any office records a birth or death now, nor name a system that does."
+}

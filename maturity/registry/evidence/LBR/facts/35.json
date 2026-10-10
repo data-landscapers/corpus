@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-30-no-national-id-no-transaction-eo147-observer",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "National ID card; Foreigner ID card", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national; enrolment made mandatory by Executive Order No. 147, announced 29 April 2025"}
+  ],
+  "note": "About mandatory identity enrolment; births and deaths appear only as registrations the national identification number is meant to serve as the identity number for."
+}

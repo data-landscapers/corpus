@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-06-gmb-observer-gid-court-cannot-access-semlex-id-data",
+  "facts": [],
+  "systems": [
+    {"system": "Semlex biometric identification system", "country_label": "Semlex biometric identification system", "class": "identity", "platform": "Semlex (Orbis administrative database named)", "owner": "Semlex under a build-operate-transfer agreement signed 16 May 2018; Semlex says it was transferred to the government on 22 March 2024; Gambia Immigration Department says its access ended with the contract", "tiers": ""}
+  ],
+  "note": "About access to the former national identity card data; nothing on civil registration."
+}

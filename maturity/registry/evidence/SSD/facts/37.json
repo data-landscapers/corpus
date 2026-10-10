@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-01-ssd-south-sudan-health-sector-transformation-project-hstp-p181385-world-ba",
+  "facts": [],
+  "systems": [
+    {"system": "birth notification", "country_label": "birth notification; coverage of birth registration notification", "class": "notification", "platform": "DHIS2 (birth notification cards printed for it)", "owner": "Ministry of Health, with UNICEF under the World Bank-financed HSTP", "tiers": "health facilities; national coverage 2 to 2.5% at November 2025 against a 0.4% baseline and a 10% end target; a pilot in one state to be planned by 31 December 2025"}
+  ],
+  "note": "A health project aide-memoire: it reports health-facility birth notification only, with no statement about registration by the civil registrar or about any civil registration system."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-dza-cour-des-comptes-rapport-annuel-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Civil-status counter application among the Interior ministry applications held by a commune", "country_label": "شباك الحالة المدنية", "class": "", "platform": "", "owner": "Ministry of the Interior", "tiers": "commune: the Court of Accounts counts 55 applications at one commune (not named in the passage), 41 of them the Interior ministry's, including the electronic counter for the biometric service and the civil-status counter"},
+    {"system": "Electronic counter for the biometric service", "country_label": "الشباك الإلكتروني للخدمة البيومترية", "class": "identity", "platform": "", "owner": "Ministry of the Interior", "tiers": "commune"},
+    {"system": "Digitisation of civil-status documents at the commune of Sidi Bel Abbes", "country_label": "رقمنة وثائق الحالة المدنية", "class": "", "platform": "", "owner": "commune of Sidi Bel Abbes", "tiers": "commune; cited as a reason for its new organisation chart applied in 2024"}
+  ],
+  "note": "Passages of the Court of Accounts report on commune staffing: civil-status counters appear as places staff are assigned, and a civil-status counter application is named with no description of what it does; nothing on how a birth or death is registered."
+}

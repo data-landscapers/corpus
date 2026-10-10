@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-27-cote-divoire-oneci-formation-citiweb-agents-etat-civil-goh",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "AIP states that the Citiweb software deployed by ONECI allows births, marriages, deaths and other acts of civil life to be captured at the civil status centres.", "as_of": "2025", "date_precision": "year", "system": "Citiweb", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "AIP states that all the civil status centres of the town halls and sub-prefectures were supplied at the end of 2025 with computer equipment carrying the Citiweb software; this is a statement of centres equipped, with no numerator or denominator, and a trainer says the training is what will allow the software's effective application.", "as_of": "2025", "date_precision": "year", "system": "Citiweb", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "AIP states that ONECI, whose mission is to modernise civil status, deployed Citiweb in the town halls and sub-prefectures and trains its own civil status agents on it.", "as_of": "2026-07-27", "date_precision": "day", "system": "Citiweb", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "At the end of 2025 all town hall and sub-prefecture civil status centres were supplied with computers carrying Citiweb, and training of agents began then, with agents of several regions already trained, per AIP.", "as_of": "2025", "date_precision": "year", "system": "Citiweb", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "From 27 to 29 July 2026 ONECI trained 44 civil status agents of the Gôh region's town halls and sub-prefectures at Gagnoa on the new Citiweb software, deployed there with a view to launching the modernisation of civil status; an ONECI trainer said agents in several centres were following procedures of their own devising.", "as_of": "2026-07-27", "date_precision": "day", "system": "Citiweb", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Citiweb", "country_label": "logiciel Citiweb", "class": "civil", "platform": "Citiweb", "owner": "ONECI", "tiers": "civil status centres of town halls (mairies) and sub-prefectures, all equipped at the end of 2025"}
+  ],
+  "note": ""
+}

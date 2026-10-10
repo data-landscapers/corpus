@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-01-lana-alnaib-alaam-qaidat-bayanat-alsijil-almadani-aliliktruniyya",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The Attorney General's office reports that he discussed with the head of the Civil Status Authority the latest completed phase of the project to create the electronic civil registry database, and the features that keep its data authoritative; no phase count, date of completion or supplier is given.", "as_of": "2026-03-01", "date_precision": "day", "system": "Electronic civil registry database project", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Electronic civil registry database project", "country_label": "مشروع استحداث قاعدة بيانات السجل المدني الإلكترونية", "class": "civil", "platform": "", "owner": "Civil Status Authority (مصلحة الأحوال المدنية), with the Attorney General's office", "tiers": "not stated; a project in phases"}
+  ],
+  "note": "The class rests on the project's description as the civil register's own electronic database; the item does not say what offices enter in it, or whether it replaces an existing system."
+}

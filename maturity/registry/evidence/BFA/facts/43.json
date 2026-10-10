@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-01-menaplan-fiue-bf-fichier-identification-unique-eleves",
+  "facts": [],
+  "systems": [
+    {"system": "WURI unique identification programme", "country_label": "Programme d'Identification Unique pour l'Intégration Régionale et l'Inclusion (Projet WURI)", "class": "identity", "platform": "", "owner": "Ministère de la Transition Digitale, des Postes et des Communications Electroniques (MTDPCE)", "tiers": ""}
+  ],
+  "note": "The education ministry's report on the pilot of its pupil file FIUE-BF (a school system, outside the field); birth-certificate extracts appear only as paper documents schools check pupil data against, and the civil-status directorate DGMEC only in the list of abbreviations. Nothing on how civil registration offices register."
+}

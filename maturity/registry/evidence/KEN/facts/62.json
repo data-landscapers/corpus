@@ -1,0 +1,11 @@
+{
+  "slug": "2025-02-25-birth-registration-reforms-automatic-id-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Digital birth certificate applications", "country_label": "", "class": "certificate", "platform": "", "owner": "", "tiers": "about 90 percent of birth certificate applications done digitally, as Kenya said in 2024"},
+    {"system": "Unique Personal Identifier (UPI) / Maisha Namba", "country_label": "Maisha Namba; Unique Personal Identifier (UPI)", "class": "identity", "platform": "", "owner": "", "tiers": "issued to every Kenyan registered at birth; serves as the birth certificate number and the national ID identifier at 18"},
+    {"system": "Automatic national ID issuance from civil registry data", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Interior", "tiers": "planned, announced February 2025: ID cards issued automatically at 18 from civil registry data"},
+    {"system": "civil registration system", "country_label": "civil registration system; civil registry", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The article says birth registration is being digitised and linked to the national ID through the Maisha Namba, and that about 90 percent of birth certificate applications were done digitally (Kenya, 2024); an application for a certificate is the certificate class, and nothing says where or how the office enters the birth."
+}

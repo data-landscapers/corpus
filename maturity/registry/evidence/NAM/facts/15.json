@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-namibia-id-registration-taken-to-khomas-schools",
+  "facts": [],
+  "systems": [
+    {"system": "national identity document (ID) registration at schools", "country_label": "school ID outreach programme", "class": "outreach", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "Khomas region schools, April to end July 2026; 24 of 55 planned schools visited"},
+    {"system": "national identity documents", "country_label": "national ID", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "national; 166,237 printed and 125,999 collected between 1 April 2025 and 30 June 2026"}
+  ],
+  "note": "An identity-card enrolment drive in schools; nothing on the registration of births or deaths."
+}

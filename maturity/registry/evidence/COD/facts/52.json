@@ -1,0 +1,8 @@
+{
+  "slug": "2022-11-04-drc-voter-cards-identity-documents",
+  "facts": [],
+  "systems": [
+    {"system": "voter identification and registration (voter card)", "country_label": "carte d'électeur", "class": "land", "platform": "", "owner": "Commission électorale nationale indépendante (CENI)", "tiers": "Registration Centres (Centres d'inscription) open during registration periods, where the card is printed on the spot; prior registration can be verified on a CENI computer server; serves in practice as the only identity card"}
+  ],
+  "note": "A research response on the voter card, an electoral register and so out of scope. Its mentions of civil status are the birth certificate as one accepted proof of identity and the civil-status details printed on the card; it states nothing about civil registration offices."
+}

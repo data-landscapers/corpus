@@ -1,0 +1,10 @@
+{
+  "slug": "2024-08-31-seychelles-elections-act-cap-262",
+  "facts": [],
+  "systems": [
+    {"system": "register of voters", "country_label": "register of voters / electronic list", "class": "land", "platform": "", "owner": "Electoral Commission", "tiers": "one register per electoral area; electronic list available at registration offices, district administration offices and the National Archives"},
+    {"system": "National Population Data Base", "country_label": "National Population Data Base", "class": "", "platform": "", "owner": "Chief Officer of the Civil Status, who compiles it", "tiers": ""},
+    {"system": "communication of civil status information to the Chief Registration Officer", "country_label": "", "class": "exchange", "platform": "", "owner": "Chief Officer of the Civil Status (source); Chief Registration Officer (user)", "tiers": "national; information given for identity cards, for the registration of births and deaths, and recorded in the National Population Data Base may be required for voter registration"}
+  ],
+  "note": "The Elections Act as at 31 August 2024: an electoral register, out of scope, with a power to draw on civil status information; the National Population Data Base is named without a description of what it does, and nothing says how a birth or death is registered."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-08-eritrean-electoral-law-constitutionnet",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Voter register",
+      "country_label": "Voter register",
+      "class": "land",
+      "platform": "",
+      "owner": "Electoral Commission (established in the draft proclamation)",
+      "tiers": ""
+    }
+  ],
+  "note": "A draft electoral law defining a voter register and voting cards; an electoral register is out of scope and the text says nothing of civil registration. The capture ends before the register's own articles."
+}

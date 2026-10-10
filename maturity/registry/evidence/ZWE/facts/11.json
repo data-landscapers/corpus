@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-13-unicef-zimbabwe-civil-registry-eight-districts",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "UNICEF's chief of child protection said some of the decentralised Civil Registry sub-offices are not computerised; the document gives no date and no count, so this is dated to publication.", "as_of": "2026-08-13", "date_precision": "day", "system": "Civil Registry sub-offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "UNICEF and the government, through the Civil Registry Department, launched a China-funded project to computerise, digitalise and solar-power 10 decentralised Civil Registry sub-offices at 10 sites in eight districts; the launch is described only as recent, so this is dated to publication.", "as_of": "2026-08-13", "date_precision": "day", "system": "computerisation of Civil Registry sub-offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The computerisation of 10 Civil Registry sub-offices is funded by China and delivered by UNICEF, per UNICEF's chief of child protection; no amount is given, and the document gives no date, so this is dated to publication.", "as_of": "2026-08-13", "date_precision": "day", "system": "computerisation of Civil Registry sub-offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "UNICEF says it is assisting the Government of Zimbabwe, through the Civil Registry Department, to computerise the 10 sub-offices, which are the department's own; dated to publication, the document giving no date.", "as_of": "2026-08-13", "date_precision": "day", "system": "computerisation of Civil Registry sub-offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "computerisation of Civil Registry sub-offices", "country_label": "computerise, digitalise and solar power sub-offices", "class": "civil", "platform": "", "owner": "Civil Registry Department, assisted by UNICEF and funded by China", "tiers": "10 decentralised sub-offices at 10 sites in eight districts"},
+    {"system": "targeted mobile registration", "country_label": "mobile registration component", "class": "outreach", "platform": "", "owner": "Civil Registry Department with UNICEF", "tiers": "hard-to-reach pockets in the programme's communities"}
+  ],
+  "note": "The document says computerisation will let communities get digitised copies of registration documents; it does not say the sub-office will enter the birth or death digitally at registration. The 10 sub-offices are to be computerised, not yet computerised, so no offices fact is recorded."
+}

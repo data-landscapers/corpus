@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-xss-world-bank-africa-economic-update-october-2026-ai-readiness",
+  "facts": [],
+  "systems": [
+    {"system": "national ID system", "country_label": "digital ID system", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "link of the national ID system to tax registration", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The Uganda passages concern the economy and the link between the digital ID and tax registration (35 per cent of new taxpayer registrations linked in 2022); nothing on civil registration offices."
+}

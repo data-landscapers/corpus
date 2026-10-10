@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-16-births-deaths-registry-backlog-graphic",
+  "facts": [],
+  "systems": [
+    {"system": "new digital system issuing certificates", "country_label": "", "class": "certificate", "platform": "", "owner": "Births and Deaths Registry", "tiers": "printing of certified copies decentralised to regional offices in the 16 regions; certificates carry the registrar's secure electronic signature (July 2025)"},
+    {"system": "automated systems used by field officers", "country_label": "", "class": "outreach", "platform": "", "owner": "Births and Deaths Registry", "tiers": "field officers to move to communities to register children and issue instant certificates, in preparation for a nationwide mass registration exercise"}
+  ],
+  "note": "The Registrar, interviewed on 14 July 2025, gives the Registry's own count of offices: over 470 nationwide in all 261 districts. The document describes digital printing of certified copies at regional offices and automated registration by field teams for a planned mass exercise, but does not say whether or how many of the 470 offices enter a birth or death digitally at registration, so no fact is recorded."
+}

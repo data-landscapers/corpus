@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-10-sierra-leone-land-administration-project-isr-seq-4",
+  "facts": [],
+  "systems": [
+    {"system": "Digital land information system", "country_label": "Land Information System (LIS)", "class": "land", "platform": "", "owner": "Ministry of Lands, Housing and Country Planning; National Land Commission", "tiers": "Not functional at 15 March 2024, terms of reference in draft; no land records digitised against a target of 200,000, and five central and provincial land offices planned"}
+  ],
+  "note": "Land administration only, out of scope under the typology; nothing on civil registration."
+}

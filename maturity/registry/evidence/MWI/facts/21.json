@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa",
+  "facts": [],
+  "systems": [
+    {"system": "digital national identity cards", "country_label": "digital national ID", "class": "identity", "platform": "", "owner": "National Registration Bureau, backed by the Digital Malawi Acceleration Project", "tiers": "planned as of July 2026; access by mobile phone"},
+    {"system": "civil registration and identification system", "country_label": "civil registration and identification system", "class": "", "platform": "", "owner": "National Registration Bureau", "tiers": "not stated; the National Registration Act and the Marriage, Divorce and Family Relations Act are under review to support it"}
+  ],
+  "note": "About planned digital identity cards and a review of the registration laws; it states nothing about how or where births or deaths are registered."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)", "country_label": "SNIAC", "class": "identity", "platform": "", "owner": "", "tiers": "national; the identity card is stated to be part of it"},
+    {"system": "Cartão Nacional de Identificação (CNI)", "country_label": "CNI", "class": "identity", "platform": "electronic polycarbonate chip card with CNI software/middleware", "owner": "", "tiers": "national; created by Decreto-Lei 19/2014, launched 23 January 2018 in Paúl, Santo Antão"},
+    {"system": "Chave Móvel Digital de Cabo Verde (CMDCV)", "country_label": "CMDCV", "class": "identity", "platform": "", "owner": "State of Cabo Verde", "tiers": "obtained online or in person at Casa do Cidadão counters, conservatórias and delegations of the Registo Civil, the national identification archive and the foreigners and borders directorate"},
+    {"system": "Autentika", "country_label": "Autentika", "class": "identity", "platform": "", "owner": "State of Cabo Verde", "tiers": "national online platform for electronic identity management and authentication"}
+  ],
+  "note": "Undated reference pages on the identity card and mobile digital key; conservatórias appear only as counters for obtaining the mobile key, and nothing is said of how births or deaths are registered."
+}

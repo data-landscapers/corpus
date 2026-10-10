@@ -1,0 +1,18 @@
+{
+  "slug": "2023-06-14-rwanda-sdid-law-029-2023",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D",
+     "fact": "Law 029/2023, in force on publication on 15 June 2023, provides in Articles 5 and 6 that a birth and a death, in a health facility or outside one, is registered in the CRVS system by a designated officer.",
+     "as_of": "2023-06-15", "date_precision": "day", "system": "CRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected",
+     "fact": "Law 029/2023 provides that a child born, or a person who dies, in a health facility is registered immediately in the CRVS system by a designated officer and that the data pass automatically to the population registry; the same transfer applies to events outside a health facility.",
+     "as_of": "2023-06-15", "date_precision": "day", "system": "CRVS system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CRVS system", "country_label": "CRVS", "class": "civil", "platform": "", "owner": "the organ in charge of national population identification and civil registration", "tiers": "health facilities and designated officers elsewhere, as the law states it"},
+    {"system": "Population registry", "country_label": "population registry", "class": "identity", "platform": "", "owner": "the organ in charge of national population identification and civil registration", "tiers": "registries of Rwandans, foundlings, foreign residents, refugees and asylum seekers, immigrants and stateless persons"},
+    {"system": "National Single Digital Identity System", "country_label": "SDID system", "class": "identity", "platform": "", "owner": "the organ in charge of national population identification and civil registration", "tiers": "registration centres at the sector, the cell, the health facility, mobile centres and diplomatic missions"},
+    {"system": "CRVS link to the population registry and the SDID system", "country_label": "", "class": "exchange", "platform": "", "owner": "the organ in charge of national population identification and civil registration", "tiers": "CRVS data transferred automatically to the population registry; the SDID system draws from both and stays synchronised (Article 8); the national identification number is assigned to a person registered in CRVS, and a child under five's SDID number is linked to it and to the parent's (Article 12)"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-07-wuri-niger-mission-appui-decisions-majeures",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP); Système National d'Identification des Personnes", "class": "identity", "platform": "open-source solution preferred, not named", "owner": "Ministère de l'Intérieur; future ANEI; technical Task Force coordinated by the ANSI; WURI-Niger project unit with the World Bank", "tiers": "not stated"},
+    {"system": "système d'état civil", "country_label": "système d'état civil", "class": "", "platform": "", "owner": "Direction Générale de l'État Civil, de la Migration et des Réfugiés (DGECM-R)", "tiers": "not stated"},
+    {"system": "alignement du RNP avec le système d'état civil", "country_label": "alignement du Registre National de la Population avec le système d'état civil", "class": "exchange", "platform": "", "owner": "WURI-Niger; Ministère de l'Intérieur", "tiers": "discussed at the 3-6 February 2026 mission"}
+  ],
+  "note": "A World Bank supervision mission of 3-6 February 2026 on the identification system, after the project's restructuring in September 2025. The civil-status system is named as something the RNP is to be aligned with, without description; nothing on how offices register."
+}

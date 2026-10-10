@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-13-mcit-public-prosecution-digitization-protocol",
+  "facts": [],
+  "systems": [
+    {"system": "Integration of judgment data with the civil status system", "country_label": "civil status system", "class": "exchange", "platform": "", "owner": "Public Prosecution with the Ministry of Interior's Civil Status Sector", "tiers": "national; 98% accuracy rate reported by the Public Prosecutor"},
+    {"system": "Public Prosecution civil status applications", "country_label": "civil status applications", "class": "", "platform": "", "owner": "Public Prosecution, with MCIT", "tiers": "to be restructured and upgraded under the protocol; not described"}
+  ],
+  "note": "Protocol on the Public Prosecution's systems; the civil status system appears only as something judgment data is linked to, and nothing is stated about registering births or deaths."
+}

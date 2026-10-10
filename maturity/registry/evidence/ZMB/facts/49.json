@@ -1,0 +1,8 @@
+{
+  "slug": "2022-10-01-digitizing-cash-transfers-zambia",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration Card (NRC)", "country_label": "NRC", "class": "identity", "platform": "paper-based, not yet digitalised", "owner": "", "tiers": "covers over 83 percent of the population, per a 2016 World Bank assessment cited in the note; duplicate and incorrect NRC records delayed digital payments"}
+  ],
+  "note": "A note on digitising social cash transfer payments; the only system in the study's field is the paper identity card, and nothing is said of civil registration. The cash-transfer MIS and payment gateway are social protection systems, outside the field."
+}

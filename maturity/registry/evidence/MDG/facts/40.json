@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National identification system / National Identity Card (CIN)", "country_label": "CIN", "class": "identity", "platform": "", "owner": "", "tiers": "listed in Annex D as Madagascar's foundational ID, with no digital ID system for online transactions as coded from 2024 data"}
+  ],
+  "note": "A global identity-coverage dataset; for Madagascar it names only the foundational ID credential in an annex table, and says nothing of civil registration offices."
+}

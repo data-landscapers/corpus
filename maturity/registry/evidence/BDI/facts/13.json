@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-12-burundi-eco-digitalisation-services-publics",
+  "facts": [],
+  "systems": [
+    {"system": "carte nationale d'identité biométrique", "country_label": "CNI biométrique", "class": "identity", "platform": "", "owner": "Government of Burundi (presented by the minister of finance, budget and digital economy)", "tiers": "after a pilot phase in one unnamed zone of Bujumbura province; BIF 16 billion provided in the 2026-2027 budget bill; card production to be launched"},
+    {"system": "digitalisation de l'état civil", "country_label": "digitalisation de l'état civil", "class": "", "platform": "", "owner": "Government of Burundi", "tiers": "to be carried out jointly with the biometric card so that births, deaths, marriages and other administrative data sit in one system; no offices named"},
+    {"system": "système numérique des titres fonciers", "country_label": "", "class": "land", "platform": "", "owner": "Government of Burundi with the justice and infrastructure ministries", "tiers": "in preparation; about 123,000 land title holders"}
+  ],
+  "note": "The minister (11 June 2026) says only that the biometric identity card project will be run jointly with the digitalisation of civil registration; the BIF 16 billion is stated for the identity card, and nothing is said of what the civil registration system does or where it runs, so it is unclassified and gives no fact."
+}

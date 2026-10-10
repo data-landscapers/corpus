@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-19-crvs-id-reforms-birth-registration-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Autentika", "country_label": "Autentika", "class": "exchange", "platform": "", "owner": "Justice Ministry; IMIJ (Institute for Justice Modernization and Innovation) oversees its digital innovation", "tiers": "national; described as an interoperability platform linking the civil registration and national identity systems, launched within the last five years"},
+    {"system": "Unique Identification Number issued at birth", "country_label": "Unique Identification Number", "class": "exchange", "platform": "", "owner": "Justice Ministry", "tiers": "every child born"},
+    {"system": "National ID system", "country_label": "national ID system", "class": "identity", "platform": "", "owner": "Justice Ministry", "tiers": "national, with digital identity services opened to the diaspora"},
+    {"system": "Civil registration system", "country_label": "civil registration", "class": "", "platform": "", "owner": "Justice Ministry", "tiers": "not stated"}
+  ],
+  "note": "IMIJ's presentation at the ID4Africa AGM (May 2026), as reported: birth registration at 99 per cent, up from about 91 per cent before the reforms, and 100 per cent of deaths in health facilities registered, after the civil register was linked to the identity system; a number is issued at birth (identity-integrated). These are shares of events, not of offices, and the article does not say how or where the office makes the record, so no civil fact. Next phase: consolidating databases and developing long-term financing models for identity services."
+}

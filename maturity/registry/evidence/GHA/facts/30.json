@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The review states that rural registry offices in Ghana predominantly record births on paper, with forms filled by hand at local points and later aggregated or scanned for electronic transmission to district, regional and central levels, paper remaining the default; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural registry offices' birth registration", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The review states that the UNICEF-supported m-Birth pilots, running since 2017, enable some electronic capture of births by mobile in rural and remote areas; the statement is undated, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "m-Birth", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The review describes m-Birth as a digital pilot whose coverage is limited by infrastructure and connectivity gaps and whose rollout beyond pilots and outreach is incomplete, with no count of offices; undated, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "m-Birth", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "m-Birth", "country_label": "m-Birth", "class": "civil", "platform": "", "owner": "UNICEF-supported; operator not stated", "tiers": "pilots in rural and remote areas since 2017; limited coverage"}
+  ],
+  "note": "This source is in study.json's exclude_sources (an AI-assisted compilation by its own header). m-Birth is classed civil on the document's words 'electronic capture' under its registry heading; the document does not say whether a registrar or another agent does the capture."
+}

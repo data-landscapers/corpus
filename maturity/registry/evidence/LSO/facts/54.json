@@ -1,0 +1,15 @@
+{
+  "slug": "2010-06-15-lesotho-land-administration-authority-act-2010",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Land registration system and land-holding database of the Land Administration Authority",
+      "country_label": "land registry and cadastre",
+      "class": "land",
+      "platform": "",
+      "owner": "Land Administration Authority, under the Minister responsible for land matters",
+      "tiers": "national; section 5(2)(a) charges the Authority with an accurate and complete database of land holding, registration of land transactions, leases, and deeds registry functions"
+    }
+  ],
+  "note": "Land statute (an excerpt, sections 1 to 17): land registration only, out of scope; nothing on civil registration."
+}

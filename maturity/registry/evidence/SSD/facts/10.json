@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-10-south-sudan-immigration-digital-reform-handover",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "At the handover of 10 August 2026 the outgoing director-general pointed to a memorandum of understanding signed in Nairobi during his tenure (from February 2025) to help establish an integrated civil registration system; the signing is not dated in the document, so the handover date is used.", "as_of": "2026-08-10", "date_precision": "day", "system": "integrated civil registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "integrated civil registration system", "country_label": "integrated civil registration system", "class": "civil", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration", "tiers": "not stated; to be established under a memorandum of understanding"},
+    {"system": "mobile registration kits", "country_label": "mobile registration kits", "class": "outreach", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration", "tiers": "100 kits bought to take services to rural communities; expansion to rural areas and cattle camps planned"},
+    {"system": "school-based nationality registration", "country_label": "school-based nationality registration", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration", "tiers": "schools"}
+  ],
+  "note": ""
+}

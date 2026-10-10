@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-03-snip-termes-de-reference-drc",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The government's terms of reference for the national identification master plan, issued under the Digital Transformation Project, state that the civil registers are mostly manual, suffer heavy losses of information and are not integrated into any central file; the text gives no date for this, so the posting date of 3 April 2026 is used (cover dated March 2026).", "as_of": "2026-04-03", "date_precision": "day", "system": "registres d'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "registres d'état civil", "country_label": "registres d'état civil", "class": "civil", "platform": "mostly manual registers", "owner": "not stated; the Ministry of Interior is named among the stakeholders", "tiers": "not stated; described nationally as mostly manual and not integrated into a central file"},
+    {"system": "Bureau central des actes de l'état civil", "country_label": "Bureau central des actes de l'état civil; fichier de l'état civil", "class": "", "platform": "", "owner": "", "tiers": "central service that keeps the civil-status file; its modernisation is listed as component 4 of the planned SNIP"},
+    {"system": "Système National d'Identification de la Population (SNIP)", "country_label": "SNIP; Fichier Général de la Population (FGP); Carte d'Identité Nationale; numéro d'identification national (NIN)", "class": "identity", "platform": "to be specified by the master plan; MOSIP and open-source principles named as the method's reference", "owner": "Office National d'Identification de la Population (ONIP), with the Ministry of Interior and Security and the Ministry of the Digital Economy as main beneficiaries; the study is contracted by UGPTN under the IDA- and AFD-supported Digital Transformation Project", "tiers": "planned: a 10-month consultancy is to audit ONIP and produce the strategy, master plan and a costed three-year action plan"},
+    {"system": "interopérabilité du FGP avec les registres sectoriels", "country_label": "cadre national d'interopérabilité du FGP", "class": "exchange", "platform": "", "owner": "", "tiers": "planned: interfaces between the population file and sector files including civil status, tax, social protection, education, health and elections; none exists, the functional systems being unconnected to any single register"}
+  ],
+  "note": ""
+}

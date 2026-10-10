@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-07-anip-rnpp-nouvelles-precisions",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national; enrolment yields the NPI, needed for secured identification documents"}
+  ],
+  "note": "A short notice that ANIP issued a note on RNPP enrolment and the rules for delivering secured birth acts; it gives none of the rules and nothing on how births are registered."
+}

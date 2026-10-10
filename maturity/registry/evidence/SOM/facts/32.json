@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-voter-registration-in-mogadishu",
+  "facts": [],
+  "systems": [
+    {"system": "biometric voter registration system", "country_label": "voter registration; voter card", "class": "land", "platform": "", "owner": "National Independent Electoral and Boundaries Commission (NIEBC); NOVA GROUP named as the company responsible for the system's digital infrastructure", "tiers": "54 registration centres in 16 of Mogadishu's 20 districts from 15 April to 30 September 2025 (918,890 voters after duplicates removed), extended to Dhusamareeb, Baidoa, Jowhar and Las Anod"},
+    {"system": "National ID services", "country_label": "NIRA registration centres at district offices", "class": "identity", "platform": "", "owner": "NIRA", "tiers": "registration centres at district offices in Mogadishu"}
+  ],
+  "note": "A policy paper on the 2025 biometric voter registration in Mogadishu, an electoral register the typology puts out of scope. Its only bearing on civil registration is in passing: district offices are named as where birth certificates and national ID services are given, and passports, national IDs or birth certificates as identification asked of 38% of polled registrants. It says nothing of how a birth or death is recorded, so no fact is taken."
+}

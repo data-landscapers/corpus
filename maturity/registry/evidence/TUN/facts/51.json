@@ -1,0 +1,9 @@
+{
+  "slug": "2020-01-01 ID4D Diagnostic of ID Systems in Tunisia (World Bank)",
+  "facts": [],
+  "systems": [
+    {"system": "CIN national ID", "country_label": "CIN", "class": "identity", "platform": "", "owner": "", "tiers": "named as covered by the diagnostic; not described on the page"},
+    {"system": "unique citizen identifier (IUC)", "country_label": "IUC", "class": "identity", "platform": "", "owner": "", "tiers": "named as planned; not described on the page"}
+  ],
+  "note": "The listed file is a companion page of 137 words for a PDF held beside it; it says only that the diagnostic covers civil registration, the national identity card and the planned citizen identifier, and states nothing usable. The PDF itself was not on the reading list."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "Data Landscapers' 54-country review states that registry offices in Comoros (prefectures and communes) record births in paper état civil registers and forms, with no routine digital system at rural offices and the Amecc digitisation plan not deployed at rural points of service; the document gives no date for the statement, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "état civil registers (prefectures and communes)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Amecc nationwide digitisation plan", "country_label": "Amecc", "class": "civil", "platform": "", "owner": "Funded by France and UNICEF", "tiers": "Plan validated in 2026; described as national ambition or pilot stage, not deployed at rural points of service"}
+  ],
+  "note": "This source is on study.json's exclude_sources list (an AI-assisted compilation by its own header); the fact is recorded as the document states it and is the parent's to exclude."
+}

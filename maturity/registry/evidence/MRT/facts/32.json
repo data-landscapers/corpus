@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social",
+  "facts": [],
+  "systems": [
+    {"system": "Registre Social", "country_label": "Registre Social", "class": "", "platform": "", "owner": "Délégation Générale à la Solidarité Nationale et à la Lutte contre l'Exclusion (TAAZOUR)", "tiers": "register of poor and vulnerable households; enrolment in it is the eligibility basis for Tekavoul transfers"},
+    {"system": "Houwiyeti", "country_label": "système Houwiyeti", "class": "certificate", "platform": "", "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés", "tiers": "tracking by notification of the status of resident cards requested through it (tail of a preceding decree on the resident card, in the same gazette extract)"}
+  ],
+  "note": "The decree creating the Tekavoul cash-transfer programme. Birth registration appears once, as one of the domains that transfer conditions cover (article 8); nothing says how or where a birth is registered."
+}

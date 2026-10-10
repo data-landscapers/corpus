@@ -1,0 +1,23 @@
+{
+  "slug": "2026-01-01-rapport-annuel-cmil-confidentialite-protection-donnees",
+  "facts": [],
+  "systems": [
+    {
+      "system": "PRODIGY civil-status reform (unique identifier number assigned from birth; central database)",
+      "country_label": "Projet de Gouvernance Digitale et de Gestion de l'Identité Malagasy (PRODIGY): gestion de l'état civil, numéro d'identifiant unique dès la naissance, base de données centrale",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur et de la Décentralisation, with the Commission Nationale chargée de l'État Civil et de l'Identification (CNECI) steering the reform; World Bank financing",
+      "tiers": ""
+    },
+    {
+      "system": "PRODIGY biometric enrolment / digital identity",
+      "country_label": "Identité numérique / enrôlement biométrique (Projet PRODIGY)",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Data-protection authority's annual report, cover-dated January 2026. It says PRODIGY, with World Bank financing, is transforming civil-status management by assigning a unique identifier from birth, that the Interior ministry holds a central database, and that CNECI steers civil-status modernisation; it speaks of computerising civil registers as a project CMIL will audit. It never says where or how a birth or death record is made, so no system can be classed civil and no fact is taken."
+}

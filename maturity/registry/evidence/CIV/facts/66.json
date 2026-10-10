@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-18-civ-2025-323-78016001649",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "The 2025 finance law (Loi de Finances n° 2024-1109 of 18 December 2024) appropriates FCFA 500,000,000 from domestic revenue under section 323, Ministry of the Interior and Security, to activity 78016001649 'Appuyer le processus de modernisation de l'Etat civil/ONECI'; the line names no software or system.", "as_of": "2025", "date_precision": "year", "system": "modernisation de l'Etat civil/ONECI (budget activity 78016001649)", "class": "civil"}
+  ],
+  "systems": [],
+  "note": "The budget line funds 'modernisation of civil status/ONECI' and describes no system; the fact is classed civil on the line's title alone, and the parent should decide whether it stands."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-02-16-innovation-gouv-bj-sniam-strategie-nationale-ia",
+  "facts": [],
+  "systems": [
+    {"system": "RNPP", "country_label": "base de données du RNPP", "class": "", "platform": "", "owner": "ANIP", "tiers": ""}
+  ],
+  "note": "An AI and big-data strategy: it lists ANIP's RNPP database as the civil-status data supplier and proposes an AI use case for detecting fraudulent birth certificates from scans, but says nothing of how or where a birth or death is registered."
+}

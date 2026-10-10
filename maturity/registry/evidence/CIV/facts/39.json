@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-18-cote-divoire-padci-revue-services-numeriques-cartographie-e-services-rapport-final",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The PADCI final report on government e-services (consultant OKTO/IT6, version 2.1 of 18 November 2025) lists an 'e-État civil CI' system among the prioritised e-services with the status 'to set up', and proposes it as an electronic civil status management system (SGEEC) in which town halls, maternities and consulates would enter births, deaths and marriages in real time into a central base; it is a proposal, not a system in service.", "as_of": "2025-11-18", "date_precision": "day", "system": "e-État civil CI / Système de Gestion Electronique de l'Etat Civil (SGEEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "e-État civil CI / Système de Gestion Electronique de l'Etat Civil (SGEEC)", "country_label": "e-Etat Civil", "class": "civil", "platform": "", "owner": "proposed; administrations named are town halls, health centres/maternities, consulates, Ministry of Justice, Ministry of Interior, ONECI", "tiers": "proposed for town halls, maternities, consulates and jurisdictions, with a central base; not in place"},
+    {"system": "Déclaration de naissance via SMS/app", "country_label": "Déclaration de naissance via SMS/app reliée au registre national", "class": "notification", "platform": "mobile (SMS/app)", "owner": "", "tiers": "proposed in the prioritised list, status 'to set up'"},
+    {"system": "ONECI e-services", "country_label": "ONECI: Abonnés mobiles, Pré-enrôlement CR, Réclamations, Commande de TVI", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "online"},
+    {"system": "e-ID", "country_label": "identité numérique ivoirienne (e-ID)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national; report recommends upgrading it"},
+    {"system": "e-Justice CIV", "country_label": "Portail de gestion du secteur de la Justice (e-Justice CIV)", "class": "certificate", "platform": "", "owner": "Ministry of Justice", "tiers": "proposed integrated portal for requesting judicial acts, including jugement supplétif, birth extract and death certificate"}
+  ],
+  "note": "The report also says civil status e-services are 'still in a phase of expansion' and need wider deployment, and recommends accelerating scanning and indexing of civil status archives with priority to rural areas; it names no civil registration system in service and gives no office counts."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-08-studia-ai-digitisation-civil-records-intelligentcio",
+  "facts": [],
+  "systems": [
+    {"system": "EC-MADA programme: digitisation of civil registration records", "country_label": "EC-MADA", "class": "archive", "platform": "Studia Inc OCR and AI-driven indexing of handwritten registers; D.IA Advisory for interoperability and integration into national systems", "owner": "led by Studia Inc, a vendor, within the national EC-MADA programme", "tiers": "inventory, digitisation and indexing of nearly 10 million existing records across 1,695 communes in 11 priority regions, by mobile units, with 500 people over seven months"}
+  ],
+  "note": "Back-capture of paper registers already written; nothing on how new births or deaths are entered at the office."
+}

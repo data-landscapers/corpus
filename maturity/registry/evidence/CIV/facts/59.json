@@ -1,0 +1,8 @@
+{
+  "slug": "2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11)",
+  "facts": [],
+  "systems": [
+    {"system": "WURI unique identification (Côte d'Ivoire)", "country_label": "WURI", "class": "identity", "platform": "", "owner": "hosted by the social protection ministry (MEPS), partnered with the health insurance fund (CNAM)", "tiers": "national programme; CMU enrolment about 60% in April 2025"}
+  ],
+  "note": "An excerpt of a World Bank status report on the WURI identification programme; the civil registry passages concern Guinea, and nothing is stated on Côte d'Ivoire's civil registration offices."
+}

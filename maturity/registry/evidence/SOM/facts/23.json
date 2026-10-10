@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-05-somalia-biometric-id-mandatory-inter-state-travel",
+  "facts": [],
+  "systems": [
+    {"system": "biometric national ID", "country_label": "national ID", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "required from 2 March 2026 for domestic flights between federal states, checked with the Immigration and Citizenship Agency at Aden Adde International Airport, Mogadishu; required for new or updated bank accounts from 1 September 2025 and for driving licences and vehicle registration"}
+  ],
+  "note": "The document is about the national identity card and its mandatory uses; it says nothing about civil registration or the registration of births or deaths. It also names PISCES, a US-backed biometric border management system, which is outside the study's field."
+}

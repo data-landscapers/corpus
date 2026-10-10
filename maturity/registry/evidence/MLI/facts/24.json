@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-30-modernisation-etat-civil-atelier-cnt",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The chair of the CNT's territorial administration commission says Mali adopted its Stratégie nationale de l'état civil (SNEC) in August 2018 and that the reform of act delivery and civil status data management, with the computerisation of the system, proceeds under it; the article of 30 July 2025 gives the strategy no end date and no cost.", "as_of": "2018-08", "date_precision": "month", "system": "système d'état civil (fichier central d'état civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "fichier central d'état civil", "country_label": "fichier central d'état civil interconnecté avec les différents centres d'état civil", "class": "", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Décentralisation", "tiers": "stated as the aim of the modernisation: a central file interconnected with the country's civil status centres and usable as a database by other state structures; the article does not say it exists or which centres are connected"}
+  ],
+  "note": "The ministry's secretary-general also says, on 30 July 2025, that digitalisation is still insufficient despite notable advances and that death registration rates are alarming, particularly in rural areas and among displaced people; neither statement gives a system, an office count or a way the record is made."
+}

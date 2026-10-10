@@ -1,0 +1,13 @@
+{
+  "slug": "2025-06-10 Guinea-Bissau deploys efforts to digitize birth registration, national ID systems",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Biometric Update reports the Head of the Civil Registration Office at the Ministry of Justice saying civil registration is being digitised through SIREC, with support from UNICEF, UNDP and the University of Aveiro, and naming inadequate funding and connectivity as challenges; the date used is the article's.", "as_of": "2025-06-10", "date_precision": "day", "system": "Integrated System of Citizen Registers and Statistics (SIREC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Biometric Update, in an article on digitising birth registration, reports the Ministry of Justice's head of civil registration saying registration in SIREC began roughly three months before the interview, after which UNDP trained civil registry officers on enrolment kits and the platform; no offices are named or counted, and the date used is the article's.", "as_of": "2025-06-10", "date_precision": "day", "system": "Integrated System of Citizen Registers and Statistics (SIREC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated System of Citizen Registers and Statistics (SIREC)", "country_label": "SIREC", "class": "civil", "platform": "", "owner": "Civil Registration Office, Ministry of Justice; support from UNICEF, UNDP and the University of Aveiro", "tiers": "not stated; civil registry officers trained on enrolment kits"},
+    {"system": "Biometric national ID card", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "described as functional and being modernised under a UNDP-supported, Swiss-financed Building National ID project; ECOWAS ENBIC card operational"},
+    {"system": "Birth registration in health facilities and schools", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "being explored: health technicians trained to register in facilities; the article does not say whether they register or notify"}
+  ],
+  "note": ""
+}

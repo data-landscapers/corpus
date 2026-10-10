@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-21-hcp-jms-2025-allocution",
+  "facts": [],
+  "systems": [
+    {
+      "system": "HCP access to the civil-status database",
+      "country_label": "bases de données de l'état civil (convention HCP - Intérieur)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Haut-Commissariat au Plan, with the Ministry of the Interior",
+      "tiers": "cooperation convention being finalised in October 2025, to give the statistics office access to the civil-status, business-register and population-register databases"
+    }
+  ],
+  "note": "No fact: the statistics office's World Statistics Day address; its one relevant statement is that a convention with the Interior department, giving it access to the civil-status database, was being finalised (class exchange). Nothing on how offices register."
+}

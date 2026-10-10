@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-maupass",
+  "facts": [],
+  "systems": [
+    {"system": "MauPass", "country_label": "MauPass", "class": "identity", "platform": "MSSQL Server; Acuant Trusted Identity Platform for identity verification; built by nVisionIT", "owner": "Ministry of Information Technology, Communication and Innovation; hosted at the Government Online Centre", "tiers": "citizens online; KYC registration and kiosks at Mauritius Post outlets; launched December 2020"},
+    {"system": "MoKloud", "country_label": "MoKloud digital safe", "class": "certificate", "platform": "", "owner": "", "tiers": "citizens online, through MauPass with two-factor authentication, to keep and download a digital extract of a birth or marriage certificate; 2,067 hits in January 2022 and 12,172 in September 2022"},
+    {"system": "Central Population Database", "country_label": "Central Population Database", "class": "identity", "platform": "", "owner": "", "tiers": "central; MauPass validates a user's name, address and identity number against it"},
+    {"system": "InfoHighway", "country_label": "InfoHighway", "class": "exchange", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "data sharing between government agencies; used by MauPass to verify users' information from the Civil Status Division"},
+    {"system": "MauSign", "country_label": "MauSign", "class": "", "platform": "", "owner": "", "tiers": "website for e-signing and buying digital certificates; a test system under development"}
+  ],
+  "note": "An OECD case study of the MauPass login service: citizens reach copies of birth and marriage certificates online and MauPass checks data against the Civil Status Division, but it does not say how a birth or death is registered."
+}

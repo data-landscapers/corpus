@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-25-tchadinfos-atelier-connecter-tribunaux-registre-biometrique",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National Biométrique des Populations (RNBP)", "country_label": "Registre National Biométrique des Populations", "class": "identity", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Interconnection between the Tribunaux de Grande Instance and the RNBP (being designed)", "country_label": "interconnexion entre les TGI et le RNBP", "class": "exchange", "platform": "", "owner": "Ministère de la Sécurité publique et de l'Immigration, with UNICEF", "tiers": "a reflection workshop of 25 February 2026 to lay its groundwork; not in service"},
+    {"system": "Village birth and death register (proposed)", "country_label": "registre d'enregistrement des naissances et des décès", "class": "notification", "platform": "", "owner": "proposal of the secretary-general of the Ministère de l'Administration du Territoire et de la Décentralisation", "tiers": "each village, kept by the village chief and transmitted monthly to the competent services; a proposal, with UNICEF asked to support it; its medium is not stated"}
+  ],
+  "note": "A reflection workshop: the courts-to-register link is being designed and the village register is a proposal; nothing is stated about how a civil registration office makes its record."
+}

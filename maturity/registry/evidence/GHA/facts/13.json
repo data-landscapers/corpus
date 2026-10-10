@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-25-malawi-ghana-digital-government-support-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "", "tiers": "national; more than 19 million holders"}
+  ],
+  "note": "Ghana appears only as the reference for a national digital ID; the birth registration blueprint mentioned is Malawi's."
+}

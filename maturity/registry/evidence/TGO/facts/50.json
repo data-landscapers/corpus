@@ -1,0 +1,15 @@
+{
+  "slug": "2024-06-01-2024-wb-wuri-guinea-restructuring",
+  "facts": [],
+  "systems": [
+    {
+      "system": "fID system (WURI Phase 2)",
+      "country_label": "foundational identification (fID) credentials",
+      "class": "identity",
+      "platform": "",
+      "owner": "World Bank WURI Phase 2 (P169594), which includes Togo with Benin, Burkina Faso and Niger",
+      "tiers": "national; the mid-term review recorded accelerated implementation in Togo"
+    }
+  ],
+  "note": "A restructuring of WURI Phase 1 for Guinea, Côte d'Ivoire and ECOWAS; Togo is named only as a Phase 2 country with accelerated implementation of identity credentials, and nothing is stated about its civil registration."
+}

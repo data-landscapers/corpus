@@ -1,0 +1,8 @@
+{
+  "slug": "2016-07-22-rdc-loi-04-028-16-007-identification-enrolement-electeurs",
+  "facts": [],
+  "systems": [
+    {"system": "fichier électoral (listes électorales)", "country_label": "fichier électoral", "class": "land", "platform": "", "owner": "Commission Electorale Nationale Indépendante (CENI)", "tiers": "Centres d'inscription, supervised by antennes and provincial executive secretariats"}
+  ],
+  "note": "Voter identification and enrolment law (coordinated text, captured as an excerpt to Art. 21): an electoral register, out of scope; civil registration appears only as the birth certificate accepted as proof of identity and age (Art. 10)."
+}

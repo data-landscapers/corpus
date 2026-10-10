@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-30-rwanda-business-registration",
+  "facts": [],
+  "systems": [
+    {"system": "business registry", "country_label": "online business registration, Office of the Registrar General", "class": "land", "platform": "", "owner": "Rwanda Development Board, Office of the Registrar General", "tiers": "national, fully online; support team at the RDB building in Kigali"}
+  ],
+  "note": "The business register only, which the typology puts out of scope; nothing on civil registration."
+}

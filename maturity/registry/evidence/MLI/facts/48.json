@@ -1,0 +1,10 @@
+{
+  "slug": "2022-07-01-mali-jo-2022-18-loi-2022-019-loi-electorale",
+  "facts": [],
+  "systems": [
+    {"system": "Base de données biométriques de l'état civil", "country_label": "base de données biométriques de l'état civil", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Numéro d'Identification Nationale (NINA)", "country_label": "NINA", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Liste électorale", "country_label": "liste électorale", "class": "land", "platform": "", "owner": "", "tiers": "One list per commune, embassy or consulate"}
+  ],
+  "note": "The electoral law draws the electoral list from the biometric civil-status database of photos and fingerprints, a population register; the passages say nothing on how births or deaths are registered at offices."
+}

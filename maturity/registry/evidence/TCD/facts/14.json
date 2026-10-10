@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfants",
+  "facts": [],
+  "systems": [
+    {"system": "Opération spéciale « Un enfant, un acte de naissance »", "country_label": "Un enfant, un acte de naissance", "class": "outreach", "platform": "smartphones carried by enrolment teams", "owner": "Government with UNICEF support; operational set-up presented by ANATS; steering committee chaired by Goundoul Vikama", "tiers": "first phase of six months in twelve provinces from 24 July 2026: community-recruited enrolment teams go household to household and a campaign runs in schools; target of at least one million children aged 4 months to 17 years"},
+    {"system": "Registre national biométrique", "country_label": "registre national biométrique", "class": "identity", "platform": "", "owner": "ANATS", "tiers": "national; receives the data the campaign's teams collect"}
+  ],
+  "note": "A campaign fielded for six months, so outreach and not an office: its teams capture children's data on smartphones for the national biometric register. Nothing is stated about how civil registration offices make their record. Also stated: a moratorium of 2 February 2026 suspends court fees for jugements supplétifs for children aged 4 months to 17 years until 2030."
+}

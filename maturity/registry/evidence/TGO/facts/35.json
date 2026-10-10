@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-03 Senegal taps inspiration from Togo's digital ID experience",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP-based digital ID system", "country_label": "digital ID system (WURI)", "class": "identity", "platform": "MOSIP", "owner": "National Identification Authority (ANID)", "tiers": "national; under implementation since a 2021 memorandum"}
+  ],
+  "note": "Identity system only; civil registration is not mentioned."
+}

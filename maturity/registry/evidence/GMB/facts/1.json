@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-07-gmb-foroyaa-gid-court-id-server-inaccessible",
+  "facts": [],
+  "systems": [
+    {"system": "national identification project server (Semlex)", "country_label": "national identity card system", "class": "identity", "platform": "", "owner": "Gambia Immigration Department holds the server and equipment; an oversight body controls access; operated under the Semlex contract until it expired", "tiers": "server, computers and registration machines physically located at the Gambia Immigration Department"}
+  ],
+  "note": "Court testimony on the national identity card server being inaccessible to the Immigration Department; the Registrar of Births and Deaths is named only as an absent witness. Nothing stated about how civil registration offices record births or deaths."
+}

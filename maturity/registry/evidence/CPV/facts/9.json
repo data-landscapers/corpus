@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "SNIAC", "country_label": "SNIAC", "class": "", "platform": "", "owner": "", "tiers": "described as a national system coordinating civil identification and registration, with electronic authentication and digital signatures; national coverage including the diaspora is an aim"},
+    {"system": "Porton di Nos Ilha", "country_label": "Porton di Nos Ilha", "class": "certificate", "platform": "", "owner": "government", "tiers": "online portal for requesting certificates"}
+  ],
+  "note": "Excluded source (study.json exclude_sources): an AI-assisted compilation. Its Cabo Verde registry row scores 3 but says it found no rural-specific evidence and only infers that rural registry points use digital systems, with initial recording possibly on paper in remote areas; an inference is not a stated fact, so none is taken."
+}

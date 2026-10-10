@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Civil and Criminal Identification Integrated Management Platform (PGIBI)", "country_label": "PGIBI / Integrated ID", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global identity-coverage dataset: for Angola it says only that the country is among those furthest behind on under-5 birth registration, and Annex D lists its foundational ID system (PGIBI, no digital ID, adult estimate from 2019 administrative data). The Annex D table's rows are misaligned in the transcription, so the PGIBI row is read as Angola's by position. Nothing on how a registry office records a birth or death."
+}

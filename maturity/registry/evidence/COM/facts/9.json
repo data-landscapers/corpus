@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-25-semlex-hands-biometric-data-to-comoros-government-alwatwan",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric passport and national identity card production (Semlex, then GenKey)", "country_label": "papiers biométriques (passeport et carte nationale d'identité)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur; produced by Semlex from 2007 to March 2026, GenKey from then", "tiers": "Production on Ngazidja; GenKey promises to decentralise to Ndzuani and Mwali; enrolment suspended from 2 March 2026, due to resume 27 March"}
+  ],
+  "note": "The document concerns the handover of the biometric identity-document database from Semlex to the government on 24 March 2026, an identity system; it states nothing about civil registration."
+}

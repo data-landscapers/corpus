@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-24-praps2-cartographie-vulnerabilite-pastorale-registre-social-unifie",
+  "facts": [],
+  "systems": [
+    {"system": "Registre Social Unifié (RSU)", "country_label": "Registre Social Unifié", "class": "", "platform": "", "owner": "enrolment data presented by INSEED; pastoral enrolment under PRAPS-2 Tchad", "tiers": "37,449 pastoral and agro-pastoral households enumerated across 13 provinces and more than 250 pastoral concentration zones, reported 24 March 2026; a social protection register, which fits none of the typology's classes"}
+  ],
+  "note": "A social registry enrolment of pastoral households; access to civil-status services is named as a project aim only, and no civil registration system is described."
+}

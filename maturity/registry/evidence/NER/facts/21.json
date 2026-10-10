@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-29-niger-diffa-173000-actes-de-naissance-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:4", "fact": "The Diffa regional directorate of civil status (DRECM-R) reports, in its July 2023 to July 2026 review, the computerisation of four communes of the Diffa region, with four administrateurs délégués, four departmental civil-status directors and nine civil-status agents trained in the digital tools; it gives no total of communes and the count is for one region only.", "as_of": "2026-07", "date_precision": "month", "system": "informatisation des communes (état civil), Diffa", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The Diffa regional directorate says its actions over July 2023 to July 2026, the computerisation of four communes among them, were carried out with the support of UNICEF and other technical and financial partners; no domestic budget line is mentioned.", "as_of": "2026-07", "date_precision": "month", "system": "informatisation des communes (état civil), Diffa", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The computerisation of four communes in Diffa is reported by, and as an action of, the Direction régionale de l'État civil, des Migrations et des Réfugiés of Diffa, the Interior Ministry's regional service (July 2026).", "as_of": "2026-07", "date_precision": "month", "system": "informatisation des communes (état civil), Diffa", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "informatisation des communes (état civil), Diffa", "country_label": "informatisation de quatre communes; outils numériques", "class": "civil", "platform": "", "owner": "Direction régionale de l'État civil, des Migrations et des Réfugiés (DRECM-R) de Diffa; communes", "tiers": "four communes of the Diffa region"},
+    {"system": "centres de déclaration dans les formations sanitaires", "country_label": "centres de déclaration implantés dans les formations sanitaires; interopérabilité santé-état civil", "class": "", "platform": "", "owner": "DRECM-R Diffa, with health services", "tiers": "health facilities, Diffa region"},
+    {"system": "équipes mobiles", "country_label": "équipes mobiles", "class": "outreach", "platform": "", "owner": "DRECM-R Diffa", "tiers": "displaced-persons sites and localities without a préposé aux écritures"},
+    {"system": "audiences foraines", "country_label": "audiences foraines; jugements déclaratifs", "class": "outreach", "platform": "", "owner": "DRECM-R Diffa", "tiers": "several communes of the Diffa region; 63,727 declaratory judgments, July 2023 to July 2026"}
+  ],
+  "note": "The document does not say which events the four computerised communes enter digitally or how the record is made; its 173,109 birth certificates, 4,760 marriage and 3,211 death acts are counts of acts, not of digital records."
+}

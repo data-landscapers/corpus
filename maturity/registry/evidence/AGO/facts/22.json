@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-30-unhcr-angola-estatisticas-mensais-da-populacao-refugiada-abril-2026",
+  "facts": [],
+  "systems": [
+    {"system": "proGres", "country_label": "base de dados de proGres do ACNUR", "class": "identity", "platform": "proGres", "owner": "UNHCR Angola, Dundo field office", "tiers": "the 2017 Kasai refugee population in Lunda Norte (Lôvua settlement and urban areas), 8,921 individuals at 30 April 2026; used for documentation, case management and planning"}
+  ],
+  "note": "UNHCR's refugee population bulletin: births and deaths are recorded weekly in UNHCR's own refugee database, which is not the civil registrar's system, so no fact is taken."
+}

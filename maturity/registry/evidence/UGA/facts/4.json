@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-09-uga-independent-nira-staffing-crisis-uncollected-ids",
+  "facts": [],
+  "systems": [
+    {"system": "marriage registration system migrated from URSB", "country_label": "a system that mirrors the previous URSB platform (marriages only)", "class": "civil", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "National Identification Register / new identification platform", "country_label": "National Identification Register", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "integration of the driving-permit system with the new identification platform", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "States NIRA's mandate over births and deaths, the 2024 transfer of civil registration including marriage from URSB, about 1.2 million physical marriage records inherited in some 302 archival boxes, and a marriage system moved from URSB (8 September 2026); the only registration system described handles marriages, and nothing is said of how or where a birth or death is recorded."
+}

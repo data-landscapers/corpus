@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-27-namibia-strengthens-birth-registration-africacdc",
+  "facts": [],
+  "systems": [
+    {"system": "e-birth notification and e-death notification", "country_label": "e-birth notification; e-death notification", "class": "notification", "platform": "", "owner": "Ministry of Home Affairs with the Ministry of Health and Social Services", "tiers": "153 facilities, state and private hospitals, as the home affairs minister states in March 2026; e-birth introduced 2017, e-death 2018"},
+    {"system": "integrated civil registration and vital statistics systems at health facilities", "country_label": "integrated CRVS systems", "class": "", "platform": "", "owner": "", "tiers": "health facilities"}
+  ],
+  "note": "The document reports electronic notification of births and deaths from 153 health facilities and an aim of registering children at hospitals after birth; it describes notification, not the register entry being made at a registration office, so no civil fact is taken."
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2025-03-28-guine-bissau-bo-12-4-suplemento-decreto-10-2025-entd-gw",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The national digital transformation strategy approved by Decreto n.º 10/2025 names the Registo Civil among the public-service digitisation initiatives its Intervention 11 is to consolidate and expand, calling it the key piece anchoring all digital transformation, and says the electronic system in the civil registry is already in partial operation; the strategy names no system by name and gives that intervention no costing in these passages.", "as_of": "2025-03-28", "date_precision": "day", "system": "Sistema eletrónico no registo civil (digitalização do Registo Civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The strategy's annex lists the GESTDOC project, financed by the European Union and then being implemented, as the vehicle for digitising the civil registry, cites continued UNICEF, UNDP and EU support, and says elsewhere that the civil registry digitisation often lacks continuity and institutional support and that electronic systems such as the civil registry's lack regular maintenance.", "as_of": "2025-03-28", "date_precision": "day", "system": "Sistema eletrónico no registo civil (digitalização do Registo Civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Sistema eletrónico no registo civil (digitalização do Registo Civil)", "country_label": "sistema eletrónico no registo civil", "class": "civil", "platform": "", "owner": "Registo Civil; GESTDOC project, EU-financed", "tiers": "described as in partial operation; said to exist and be usable to issue certificates and approvals, with staff trained; where it runs is not stated"},
+    {"system": "Digitalização/catalogação no Registo Civil", "country_label": "", "class": "archive", "platform": "", "owner": "", "tiers": "cataloguing of civil registry records under way; no figures in these passages"},
+    {"system": "Quadro técnico e legal para a identidade digital e plataforma de autenticação", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "Intervention 18, planned July 2026 to June 2028, to be tied to the digitisation of the Registo Civil within a foundational identity system"},
+    {"system": "Sistema integrado de identificação nacional", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "an initiative supporting its digitisation is listed among strengths"},
+    {"system": "Plataforma digital de suporte ao registo eleitoral", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "Intervention 21, planned, to work in articulation with the Registo Civil for incremental voter registration"},
+    {"system": "Centro de Formalização de Empresas", "country_label": "", "class": "land", "platform": "", "owner": "", "tiers": "business formalisation centre, from a 2015 pilot of an integrated digital platform"}
+  ],
+  "note": "Passages only. The strategy describes the civil registry's electronic system by certificate issue and cataloguing and does not say whether offices enter events in it at registration; no events, made or offices fact is taken."
+}

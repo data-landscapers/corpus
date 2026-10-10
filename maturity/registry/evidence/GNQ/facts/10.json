@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National ID System / National Identity Document (DNI)", "country_label": "National Identity Document (DNI)", "class": "identity", "platform": "", "owner": "", "tiers": "not stated; Annex D codes Equatorial Guinea as having no digital ID and takes its adult ID estimate from administrative data of 2021"}
+  ],
+  "note": "A global identity-coverage report; Equatorial Guinea appears only in the Annex D table, as a national identity system with no digital ID. Nothing on its civil registration offices."
+}

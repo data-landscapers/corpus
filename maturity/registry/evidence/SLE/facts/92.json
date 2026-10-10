@@ -1,0 +1,31 @@
+{
+  "slug": "2018-11-01-sle-national-digital-health-strategy-2018-2023",
+  "facts": [],
+  "systems": [
+    {
+      "system": "VaxTrack",
+      "country_label": "listed under 'Vital event reg/track' in the current health services and application architecture (Figure 9)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated"
+    },
+    {
+      "system": "RapidPro",
+      "country_label": "listed under 'Vital event reg/track' (Figure 9); elsewhere described as an SMS-based reporting platform for health programme indicators",
+      "class": "",
+      "platform": "RapidPro",
+      "owner": "not stated (Ministry of Health and Sanitation health sector platform)",
+      "tiers": "health facilities: 94% of health facilities reporting on programme indicators, per stakeholder interviews (2018); its data not captured in the HMIS"
+    },
+    {
+      "system": "M-DHIS",
+      "country_label": "listed under 'Vital event reg/track' and under data collection (Figure 9)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "A health-sector strategy: it says deployed digital health applications 'address' vital event registration and tracking and names three under that heading without saying what any does with a birth or death, and it names no civil registrar's system; civil registration and vital statistics appears otherwise only as a component label and as a collaborating unit (CRV) for planned health registries. The 50.9% (2008) to 80% (2013) figure is the share of newborns registered, not of offices."
+}

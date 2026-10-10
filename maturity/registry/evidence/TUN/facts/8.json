@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-lapresse-tunisia-khadamet-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Khadamet", "country_label": "application mobile nationale Khadamet (Services)", "class": "certificate", "platform": "mobile application", "owner": "Ministère des Technologies de la Communication", "tiers": "citizens, nationally"},
+    {"system": "identité numérique", "country_label": "identité numérique", "class": "identity", "platform": "", "owner": "", "tiers": "used to sign in to Khadamet"}
+  ],
+  "note": "The launch of a citizen application from which electronic civil status documents are extracted; a certificate channel, with nothing on how an office registers an event."
+}

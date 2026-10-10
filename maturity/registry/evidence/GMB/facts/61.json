@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-mobse-health-ministry-data-systems",
+  "facts": [],
+  "systems": [
+    {"system": "EMIS-HMIS linkage (Education Management Information System with Health Management Information System)", "country_label": "linkage between health and education databases", "class": "exchange", "platform": "", "owner": "Ministry of Basic and Secondary Education and Ministry of Health, through a joint technical working group", "tiers": "national; agreed by memorandum of understanding reported 3 July 2026, to share birth registration records among other data and verify school enrolment against national birth records"}
+  ],
+  "note": "A memorandum to link education and health data, birth registration records among the data to be shared; no civil registration system is named and nothing is stated about how or where births are registered."
+}

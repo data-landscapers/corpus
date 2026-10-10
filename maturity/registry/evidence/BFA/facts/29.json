@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-01-alt-code-des-personnes-et-de-la-famille",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Code des personnes et de la famille (text of the ALT's commission, August 2025) provides that civil-status acts are entered in each centre on registers kept in duplicate, immediately on both (arts. 142-11 and 143-3), on physical registers numbered and initialled by the court (art. 142-13); the text carries no adoption date, so the date is the document's.", "as_of": "2025-09", "date_precision": "month", "system": "registres de l'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The same code institutes a national digital civil-status register and provides that a centre which is computerised and connected to it may keep its registers in a single copy, with transcriptions and marginal mentions also entered in the national register (arts. 142-11 and 143-12); how the register works is left to a decree, and the text does not say that any centre is connected; the date is the document's.", "as_of": "2025-09", "date_precision": "month", "system": "registre numérique national de l'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "registre numérique national de l'état civil", "country_label": "registre numérique national de l'état civil", "class": "civil", "platform": "", "owner": "functioning to be set by decree in Conseil des ministres; civil-status officers send vital-statistics data to the ministry in charge of territorial administration", "tiers": "principal centres (commune seats; arrondissement seats in communes with special status) and secondary centres (villages, commune sectors, public or private health facilities); secondary centres keep birth and death registers only"},
+    {"system": "identifiant unique électronique", "country_label": "identifiant unique électronique", "class": "identity", "platform": "", "owner": "", "tiers": "attributed to every natural person on the territory and to Burkinabè born or living abroad (art. 131-1)"},
+    {"system": "auxiliaires de l'état civil", "country_label": "auxiliaires de l'état civil", "class": "notification", "platform": "", "owner": "designated under an interministerial order", "tiers": "villages and commune sectors; they inform the civil-status officers monthly of births, customary and religious marriages and deaths (art. 142-10)"},
+    {"system": "unités mobiles d'enregistrement", "country_label": "unités mobiles d'enregistrement", "class": "outreach", "platform": "", "owner": "", "tiers": "may be set up in certain zones in exceptional circumstances (art. 143-8)"}
+  ],
+  "note": "The capture is an excerpt ending at the head of Title IV chapter IV; both facts state what the law provides, not what offices do."
+}

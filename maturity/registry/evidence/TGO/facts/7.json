@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-24-togo-civil-registration-law-review-togofirst",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Togo First reports that the Ministry of Territorial Administration began a review of the 2009 civil registration law at a scoping meeting in Lomé 'last week' (the week of 17-21 August 2026), to reflect decentralisation, the digitalisation of procedures and interoperability between administrative systems, with reform proposals expected before the end of 2026.", "as_of": "2026-08", "date_precision": "month", "system": "civil registration (legal framework)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Services Publics platform", "country_label": "Services Publics (national portal)", "class": "certificate", "platform": "", "owner": "", "tiers": "online requests for copies of birth, marriage and death certificates for residents of five pilot municipalities since December 2025; Golfe 3 municipality's civil registration services integrated in February 2025 for certified extracts and full copies"},
+    {"system": "unique identification number", "country_label": "unique identification number (NIU)", "class": "identity", "platform": "", "owner": "", "tiers": "national rollout; the document says civil registration is becoming more closely integrated with the identification system through it, without saying how"}
+  ],
+  "note": "The only fact is the law review. The online service described is for requesting copies of acts; the document also mentions an August 2025 reform of the collection of statistics on births, deaths and marriages, with no system named."
+}

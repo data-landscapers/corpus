@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-03-bfa-sanguie-pouni-des-agents-de-letat-civil-outilles-a-lutilisat",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "AIB reports that the Direction générale de la modernisation de l'état civil (DGMEC) initiated the 31 August to 2 September 2026 training of Pouni's delegated officers and transcribing agents on the VENEEM platform.", "as_of": "2026-08-31", "date_precision": "day", "system": "VENEEM", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "AIB reports that the digitalisation operation at Pouni is financed by the Projet régional de gouvernance locale et de soutien (PREGOLS) under budget year 2026; the document names a project, not a state budget line, and does not say who funds the project.", "as_of": "2026", "date_precision": "year", "system": "VENEEM", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "AIB reports that Pouni's civil-status agents were trained from 31 August to 2 September 2026 to enter births, marriages and deaths in VENEEM.", "as_of": "2026-08-31", "date_precision": "day", "system": "VENEEM", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "AIB reports that the training covered configuring smartphones and entering civil-status events in real time on the VENEEM platform, at central offices and at secondary centres alike; the document does not say where the record is held.", "as_of": "2026-08-31", "date_precision": "day", "system": "VENEEM", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "A 72-hour session at Pouni town hall (Sanguié) from 31 August to 2 September 2026 trained delegated officers and transcribing agents to use VENEEM, per AIB.", "as_of": "2026-08-31", "date_precision": "day", "system": "VENEEM", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "VENEEM", "country_label": "plateforme VENEEM", "class": "civil", "platform": "VENEEM (smartphone entry)", "owner": "Direction générale de la modernisation de l'état civil (DGMEC)", "tiers": "commune central civil-status offices and secondary centres (Pouni, Sanguié)"}
+  ],
+  "note": ""
+}

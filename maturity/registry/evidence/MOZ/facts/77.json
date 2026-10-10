@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-19-worldbank-pid-social-registry-af1",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Social Registry interoperability with civil registration",
+      "country_label": "National Social Registry (NSR) and its interoperability with other government data systems such as civil registration, health, and education",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Labor, Gender, and Social Protection; financed by the World Bank additional financing of May 2026",
+      "tiers": "To be established; not stated further"
+    }
+  ],
+  "note": "A social protection project document: civil registration appears only as a system the planned social registry is to interoperate with, and no civil registration system is described."
+}

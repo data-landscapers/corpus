@@ -1,0 +1,8 @@
+{
+  "slug": "2023-07-01-ben-annuaire-des-statistiques-sanitaires-2022",
+  "facts": [],
+  "systems": [
+    {"system": "Civil-status sub-system of the national health information system", "country_label": "Sous-système d'état civil (SNIGS)", "class": "", "platform": "", "owner": "Ministère de la Santé", "tiers": "listed as one of the sub-systems completing the routine SNIGS; what it does is not described"}
+  ],
+  "note": "The passages are the health statistics yearbook's front matter and its method note: routine health reports go on paper from facility to health zone and are keyed at the zone. A civil-status sub-system is named without description, and nothing says how births or deaths are registered."
+}

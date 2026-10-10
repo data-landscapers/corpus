@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-lesahel-wuri-niger-presentation-projet",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'identification de base (f-ID)", "country_label": "système d'identification de base (f-ID), WURI-Niger", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, de la Sécurité publique et de l'Administration du Territoire (tutelle), with the DGECMR and HAPDP as first partners", "tiers": "to be designed and built; national coverage in all communes of the 8 regions; about 8 million people targeted before closing on 30 July 2026"},
+    {"system": "Cadre d'interopérabilité WURI", "country_label": "cadre d'interopérabilité et d'échanges sécurisés de données", "class": "exchange", "platform": "", "owner": "WURI-Niger", "tiers": "planned, between the f-ID system and public and private service providers; civil status listed among beneficiary structures"}
+  ],
+  "note": "A presentation of the WURI-Niger identity project; civil status appears only as a partner and beneficiary, with survey figures on birth declaration (66 per cent within 60 days, ENAFEME 2021) and no account of how offices register."
+}

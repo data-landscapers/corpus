@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-infohighway-leaflet-v12",
+  "facts": [],
+  "systems": [
+    {"system": "InfoHighway", "country_label": "InfoHighway", "class": "exchange", "platform": "Service Oriented Architecture, publish and subscribe, hosted at the Government Online Centre", "owner": "Ministry of Technology, Communication and Innovation", "tiers": "data sharing between ministries, departments and parastatals; the Civil Status Division is a connected publisher; 74 connections and 253 e-services"}
+  ],
+  "note": "A leaflet on the government data-sharing platform; it names the Civil Status Division as a connected agency and cites section 17A of the Civil Status Act as legal basis, and says nothing of how a birth or death is registered."
+}

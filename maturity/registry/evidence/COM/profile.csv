@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COM,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-28,COM-002;COM-004;COM-005,COM-015=plan:current;COM-010=finance:donor;COM-011=owner:ministry;COM-013=owner:ministry;COM-014=finance:donor;COM-017=finance:donor;COM-018=finance:not-stated;COM-027=finance:donor;COM-023=finance:donor;COM-022=plan:current,
+COM,civil,events,coverage,,,,,nothing held
+COM,civil,made,coverage,paper,2026-08-28,COM-001;COM-008;COM-019;COM-021,,
+COM,civil,last12,qualifier,advancing,2026-08-28,COM-003;COM-006;COM-009;COM-012;COM-020;COM-024;COM-025;COM-026,COM-016=no-change,
+COM,civil,offices,coverage,,,,,nothing held

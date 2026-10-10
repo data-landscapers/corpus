@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National ID Database/Identity Card", "country_label": "National ID Database / Identity Card (foundational ID); no digital ID; adult ID coverage 62 per cent (63 male, 60 female), ID4D-Findex 2025", "class": "identity", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "A global identity-coverage dataset; for Tanzania it gives only the national ID's name and adult coverage, and nothing on civil registration offices or systems."
+}

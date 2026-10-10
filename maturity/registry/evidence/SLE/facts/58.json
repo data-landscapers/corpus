@@ -1,0 +1,39 @@
+{
+  "slug": "2023-01-30-sierra-leone-ncra-biometric-id-verification-platform-launch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Biometric, Securitized and Multipurpose National, ECOWAS and Non-National Identity Cards",
+      "country_label": "Securitized and Multipurpose ID Cards; National Identification Number (NIN)",
+      "class": "identity",
+      "platform": "",
+      "owner": "NCRA; public-private partnership of the Government with Constrat Systems (SL) Limited",
+      "tiers": "launched at State House, Freetown, 30 January 2023"
+    },
+    {
+      "system": "Identity Verification Platform",
+      "country_label": "ID Verification Platform/System; electronic Know Your Customer Facility",
+      "class": "identity",
+      "platform": "",
+      "owner": "NCRA; public-private partnership with Constrat Systems (SL) Limited",
+      "tiers": "banks, microfinance institutions and ministries, departments and agencies"
+    },
+    {
+      "system": "NCRA Biometric Identity Management system",
+      "country_label": "Identity Management system; NCRA biometric verification system",
+      "class": "identity",
+      "platform": "",
+      "owner": "NCRA",
+      "tiers": "national; used for the government payroll verification"
+    },
+    {
+      "system": "Civil Registration and Vital Statistics (CRVS) systems",
+      "country_label": "CRVS systems",
+      "class": "",
+      "platform": "",
+      "owner": "NCRA ('housed and managed'); built with support of the EU, UNDP, UNICEF, WHO, UNFPA, Irish Aid, Plan International and the World Bank",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "An identity-card and verification-platform launch; the CRVS systems are named as housed and managed by NCRA with no description of how events are registered, so no fact. It also mentions a five-year strategic plan (2019-2024) developed in 2019 and NCRA memoranda with MDAs including the Electoral Commission for sharing personal data."
+}

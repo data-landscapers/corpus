@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-somalia-health-information-system-comprehensive-assessment-2022",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "At the WHO and Federal Ministry of Health assessment of September 2022, the Ministry of Interior, Federal Affairs and Reconciliation was responsible for CRVS policy, chaired the interagency working group, had recently set up a CRVS unit and was building the CRVS system, aiming at a central register of vital events in place of a completely decentralised and fragmented civil registration system.", "as_of": "2022-09", "date_precision": "month", "system": "CRVS system (central register of vital events, being built)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The assessment states that the Ministry of Interior published a national CRVS policy and implementation framework in January 2021 and that a CRVS Act requiring registration of births and deaths within a set period had been drafted, and by a later footnote submitted to Parliament by 2023.", "as_of": "2021-01", "date_precision": "month", "system": "CRVS system (central register of vital events, being built)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CRVS system (central register of vital events, being built)", "country_label": "CRVS system", "class": "civil", "platform": "", "owner": "Ministry of Interior, Federal Affairs and Reconciliation (CRVS unit)", "tiers": "none stated; existing civil registration described as completely decentralised, fragmented, limited and poorly functioning at September 2022"},
+    {"system": "hospital death records", "country_label": "", "class": "", "platform": "", "owner": "some hospitals", "tiers": "some hospitals keep death records with ICD-10 coded causes; no requirement to report deaths except from injury"}
+  ],
+  "note": "A health information system assessment (field visits September 2022): on civil registration it gives governance only, and states no digital entry anywhere; it also records no population register or national ID system, no routine vital statistics, IT infrastructure for entering information on the deceased scored as not present, and a roadmap item to equip registration offices with computers, tablets and electricity. DHIS2 and the other health systems are outside the study's field."
+}

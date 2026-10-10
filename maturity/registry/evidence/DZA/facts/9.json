@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid",
+  "facts": [],
+  "systems": [
+    {"system": "Digitised public services including civil status, through web platforms and dedicated applications", "country_label": "numérisation des services publics — état civil", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Fibre-optic network of more than 200,000 km and the national data centres (Mohammadia, Constantine, Blida)", "country_label": "", "class": "enabling", "platform": "", "owner": "Mohammadia data centre supervised by the Haut-Commissariat à la Numérisation, built with Huawei", "tiers": "national"}
+  ],
+  "note": "Civil status is named once in a list of digitised public services, with no description of what the system does; the capture is an excerpt, truncated at source."
+}

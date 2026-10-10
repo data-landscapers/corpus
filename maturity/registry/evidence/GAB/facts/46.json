@@ -1,0 +1,15 @@
+{
+  "slug": "2012-09-20-gemalto-gabon-biometric-national-registry",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Biometric national registry (national biometric identification initiative)",
+      "country_label": "national biometric civil registry",
+      "class": "identity",
+      "platform": "Gemalto Coesys enrolment and Coesys Issuance, with a PKI",
+      "owner": "State of Gabon, Ministry of Interior; built by Gemalto",
+      "tiers": "Not stated; desktop and mobile enrolment stations"
+    }
+  ],
+  "note": "The system enrols citizens' demographic data, fingerprints and photographs to issue identity documents and an electoral register: identity class, so no fact. The document says the database is to serve as master registry for issuing documents including birth certificates, but describes no registration of births or deaths at any office."
+}

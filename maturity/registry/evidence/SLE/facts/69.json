@@ -1,0 +1,70 @@
+{
+  "slug": "2020-01-01-sierra-leone-ncra-about-institution-and-ict-infrastructure",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "none",
+      "fact": "NCRA's own page says that, although a pilot civil registration ran between March and June 2017, it is yet to establish the civil registration system that will cover births, deaths, marriages, divorce, adoption and nullities, and that permanent registration centres beyond the districts are yet to be set up; the page is undated and the date is its published year.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Civil Registration Act 2016 (law on 30 June 2016) establishes NCRA and gives it the registration of births, deaths, marriages, divorces and adoptions, taking births and deaths from the National Office for Births and Deaths and marriages and divorces from the Administrator and Registrar General.",
+      "as_of": "2016-06-30",
+      "date_precision": "day",
+      "system": "civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "In the third and fourth quarters of 2017 UNDP contracted PricewaterhouseCoopers to develop a roadmap for a comprehensive CRVS system, producing a governance structure, a Strategic Plan, an ICT roadmap and policies and procedures for registration, archiving and sharing of vital events; the page gives the plan no end date.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "comprehensive Civil Registration and Vital Statistics (CRVS) system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "civil registration system",
+      "country_label": "CRVS system; National Civil Register",
+      "class": "civil",
+      "platform": "",
+      "owner": "NCRA",
+      "tiers": "not yet established for vital events; permanent registration centres beyond the districts not yet set up"
+    },
+    {
+      "system": "voter and mass civil registration, 2017",
+      "country_label": "Mass Civil Registration",
+      "class": "identity",
+      "platform": "",
+      "owner": "NCRA with the National Electoral Commission",
+      "tiers": "3,300 registration centres nationwide; 3,128,967 registered in the NEC-led phase (20 March to 30 April 2017) and 2,085,314 in the NCRA-led phase (15 May to 18 June 2017), 5.2 million including duplicates against a population of about 7 million"
+    },
+    {
+      "system": "NCRA ICT infrastructure",
+      "country_label": "ICT infrastructure",
+      "class": "enabling",
+      "platform": "",
+      "owner": "NCRA",
+      "tiers": "installed at NCRA headquarters and District Registration Offices; district and regional offices set up"
+    },
+    {
+      "system": "previous registration systems",
+      "country_label": "National Office for Births and Deaths; Office of the Administrator and Registrar General",
+      "class": "",
+      "platform": "",
+      "owner": "predecessor institutions",
+      "tiers": "not stated; described as uncoordinated, with databases unconnected to each other"
+    }
+  ],
+  "note": "The page also names a UNDP project, Support to an Integrated National Civil Registration System (2015-2017), and refers to both government and donor funds without figures."
+}

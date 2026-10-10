@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-eritrea-global-digital-identity-index-govtech",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ID system",
+      "country_label": "national ID (or similar foundational ID) system",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "records stated to be stored in digitized format (data year 2022)"
+    }
+  ],
+  "note": "A GovTech indicator table for 2022 with no civil registration indicator; its only registry-field entries are that a national ID system exists and its records are digitized."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The essay's country table says registration centres connected to the National Population Registration System record births and deaths electronically in real time at the point of service; it gives no date for this, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Population Registration System (NPRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay's country table says births and deaths are recorded electronically in real time at the registration centre, in the national NPRS, with certificates issued on the spot, while some sub-regional offices lack full NPRS connectivity or have slow networks and may fall back on paper; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Population Registration System (NPRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:62", "fact": "The essay's country table says 62 decentralised registration centres, the rural sub-regional Category II offices among them, are connected to NPRS, and gives no total of offices; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Population Registration System (NPRS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Population Registration System (NPRS)", "country_label": "NPRS", "class": "civil", "platform": "", "owner": "", "tiers": "62 decentralised registration centres, including sub-regional Category II offices; in use since 2011"},
+    {"system": "e-birth and e-death notifications", "country_label": "e-birth/death notifications", "class": "notification", "platform": "", "owner": "", "tiers": "153 health facilities including private ones, since 2017/2018, feeding NPRS"},
+    {"system": "M-files", "country_label": "M-files", "class": "archive", "platform": "M-Files", "owner": "", "tiers": "historical scanned records, since 2010"},
+    {"system": "mobile registrations", "country_label": "mobile registrations", "class": "outreach", "platform": "", "owner": "", "tiers": "in regions"}
+  ],
+  "note": "This is the source study.json lists under exclude_sources: an AI-assisted compilation by its own header. The facts are what its Namibia registry row states and carry no date of their own."
+}

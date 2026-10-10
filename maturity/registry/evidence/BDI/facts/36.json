@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-05-ssa-poms-burundi-vital-statistics-records",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration records held by the Officier de l'Etat Civil at the mayor's office", "country_label": "Officier de l'Etat Civil, Mairie", "class": "", "platform": "", "owner": "the office of the mayor of each town", "tiers": "local only: records are held in the office of the mayor of the town where the event occurred, or for births where the mother lives; no single nationwide repository (effective 5 February 2025)"}
+  ],
+  "note": "The US Social Security Administration states, effective 5 February 2025, that Burundi has no single nationwide repository of civil registration records and that they are held locally; it does not say whether the local record is paper or digital, so no aspect value can be taken and the holding is left unclassified."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-16-talangai-documents-identite-menages-vulnerables",
+  "facts": [],
+  "systems": [
+    {"system": "Pilot operation issuing birth certificates, identity cards and NIU to vulnerable households", "country_label": "opération pilote de délivrance d'actes de naissance, de CNI et de NIU", "class": "outreach", "platform": "", "owner": "Ministère des Affaires sociales, de la Solidarité et de l'Action humanitaire, through the PSIPJ project with World Bank support", "tiers": "Talangaï town hall, Brazzaville's sixth arrondissement, from 15 January 2026: 6,338 documents, of which 2,381 birth certificates, 1,743 identity cards and 2,214 NIU; extension to other localities envisaged if the pilot succeeds"},
+    {"system": "Registre social unique (RSU)", "country_label": "Registre social unique (RSU)", "class": "", "platform": "", "owner": "Ministère des Affaires sociales, de la Solidarité et de l'Action humanitaire", "tiers": "national digital database of vulnerable households; no class of the typology fits it"}
+  ],
+  "note": "A one-off, project-financed drive handing out documents at one town hall: outreach, not an office registering digitally. The article does not say how the birth certificates were made."
+}

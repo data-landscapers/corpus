@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-08-comores-code-electoral-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Fichier électoral", "country_label": "fichier électoral", "class": "land", "platform": "", "owner": "Centre National de Traitement des Données Electorales (CNTDE), Ministry in charge of elections, supervised by the CENI", "tiers": "Computerised and centralised national file, split into lists by polling station"},
+    {"system": "Pièce d'identité nationale biométrique", "country_label": "pièce d'identité nationale biométrique", "class": "identity", "platform": "", "owner": "", "tiers": "Accepted, with a birth certificate extract or supplementary judgment, to verify identity for voter registration"}
+  ],
+  "note": "The electoral code concerns the electoral register, which the typology puts with land out of scope; birth certificate extracts appear only as accepted identity documents, and nothing is stated about how civil registration records are made."
+}

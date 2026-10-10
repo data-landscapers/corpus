@@ -1,0 +1,8 @@
+{
+  "slug": "2018-01-01-omidyar-reg-mosip-2018-mosip-modular-open-source-identity-platform",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP", "country_label": "", "class": "identity", "platform": "MOSIP (Modular Open Source Identity Platform)", "owner": "", "tiers": "described as a modular open-source national ID platform adopted by Morocco among others; no deployment detail given"}
+  ],
+  "note": "A deal record for Omidyar Network's US$4m grant to IIIT-B for MOSIP (2018-2022); Morocco is named only as an adopter of the identity platform, and nothing concerns civil registration."
+}

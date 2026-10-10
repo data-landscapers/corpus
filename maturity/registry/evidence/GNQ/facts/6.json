@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-13-guinea-ecuatorial-comparecencia-exteriores-pasaporte-biometrico-cnedoge",
+  "facts": [],
+  "systems": [
+    {"system": "Pasaporte biométrico CEMAC (biometric capture at diplomatic missions, validation by CNEDOGE)", "country_label": "pasaporte biométrico-CEMAC; sistema nacional", "class": "identity", "platform": "", "owner": "CNEDOGE, with the Ministerio de Asuntos Exteriores, Cooperación Internacional y Diáspora", "tiers": "six diplomatic representations operational for biometric capture as of May 2026; others hold machines pending installation, connection to the national system and training"}
+  ],
+  "note": "Biometric passport issuance through diplomatic missions; nothing on civil registration."
+}

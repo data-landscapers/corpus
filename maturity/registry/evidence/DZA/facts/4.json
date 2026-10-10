@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-algeria-biometric-document-office-queues-ouled-fayet",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric documents service of Ouled Fayet commune", "country_label": "مصلحة الوثائق البيومترية", "class": "identity", "platform": "", "owner": "commune of Ouled Fayet, inspected by the wilaya of Algiers", "tiers": "commune"},
+    {"system": "Interior ministry digital projects and systems for civil-status documents", "country_label": "وثائق الحالة المدنية", "class": "", "platform": "", "owner": "Ministry of the Interior, Local Authorities and Transport", "tiers": ""}
+  ],
+  "note": "The commune's civil-status service is praised for handling files at once, and the minister's review names civil-status documents, but no system is described and nothing is said on how a birth or death is registered."
+}

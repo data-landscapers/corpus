@@ -1,0 +1,31 @@
+{
+  "slug": "2026-01-22-campanha-bi-gratuito-ilheu-das-rolas",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Campanha de atribuição gratuita do Bilhete de Identidade",
+      "country_label": "Bilhete de Identidade (BI); brigada da Direção-Geral dos Registos e Notariado",
+      "class": "identity",
+      "platform": "",
+      "owner": "Direção-Geral dos Registos e Notariado, financed by the EU-funded PReSE project (Camões)",
+      "tiers": "A mobile brigade for the campaign: Ilhéu das Rolas on 21 January 2026 and Porto Alegre, Caué district, on 22 January 2026"
+    },
+    {
+      "system": "Ligação por satélite (Starlink) e gerador portátil da brigada",
+      "country_label": "ligação de internet por satélite (Starlink); gerador portátil",
+      "class": "enabling",
+      "platform": "Starlink",
+      "owner": "Supplied by the PReSE project",
+      "tiers": "With the identity-card brigade in localities short of electricity and connectivity"
+    },
+    {
+      "system": "Recenseamento automático e permanente",
+      "country_label": "recenseamento automático e permanente",
+      "class": "land",
+      "platform": "",
+      "owner": "PReSE project",
+      "tiers": "National; a stated priority of the project"
+    }
+  ],
+  "note": "An identity-card campaign by a mobile brigade; the civil register is mentioned only as a database to be made interoperable with the electoral roll, with nothing on the registration of births or deaths."
+}

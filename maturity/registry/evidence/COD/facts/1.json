@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-01-cod-rdc-lidentification-de-la-population-au-cur-des-echanges-ent",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:none", "fact": "7SUR7.CD reports on 1 October 2026 that ONIP, the Digital Transformation Project unit (UGPTN), the World Bank and AFD discussed drawing up a national civil-registration strategy, a mapping of civil-registry centres and a master plan for their digitisation: all three are still to be written, and no existing plan is named.", "as_of": "2026-10-01", "date_precision": "day", "system": "digitalisation des centres d'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "A working session reported on 1 October 2026 (the dispatch's date; the meeting's own date is not given) agreed that a small joint team of UGPTN and ONIP would work on civil-registration questions under the Digital Transformation Project, with a digitisation master plan for civil-registry centres among the subjects; AFD raised possible expertise and financing, no sum stated.", "as_of": "2026-10-01", "date_precision": "day", "system": "digitalisation des centres d'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitalisation des centres d'état civil", "country_label": "digitalisation de l'état civil", "class": "civil", "platform": "", "owner": "not stated; discussed between ONIP, UGPTN, the World Bank and AFD", "tiers": "none in use: a master plan for digitising the civil-registry centres is to be defined"},
+    {"system": "identification de la population", "country_label": "identification de la population (ONIP)", "class": "identity", "platform": "", "owner": "Office national d'identification de la population (ONIP)", "tiers": "not stated; an integrated identification strategy is to be drawn up with World Bank support"}
+  ],
+  "note": ""
+}

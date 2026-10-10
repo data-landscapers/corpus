@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-05 Kenya Ministry of Health Launches Biometric Health Identification",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric Health Identification (BHI)", "country_label": "Biometric Health Identification (BHI)", "class": "identity", "platform": "", "owner": "Ministry of Health", "tiers": "launched at KUTRRH on 4 August 2025; biometric registration operational in all Level 4 to 6 public facilities, Level 2 and 3 to follow"}
+  ],
+  "note": "Biometric patient identification in health facilities; nothing on civil registration of births or deaths."
+}

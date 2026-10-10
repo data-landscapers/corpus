@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+EGY,civil,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-08-02,EGY-002;EGY-003;EGY-022,EGY-012=owner:ministry;EGY-021=owner:ministry;EGY-015=owner:ministry;EGY-023=plan:current;EGY-024=finance:domestic;EGY-025=owner:ministry;EGY-029=owner:ministry;EGY-030=owner:ministry;EGY-031=finance:domestic,
+EGY,civil,events,coverage,B;D,2026,EGY-001;EGY-007;EGY-011;EGY-014;EGY-017,EGY-026=B;D,
+EGY,civil,made,coverage,connected,2026,EGY-008;EGY-027,EGY-016=keyed-elsewhere;EGY-018=paper;EGY-005=paper,
+EGY,civil,last12,qualifier,,,,,nothing held
+EGY,civil,offices,coverage,count:4571,2026,EGY-006;EGY-028,EGY-004=not-published;EGY-019=not-published;EGY-020=pilot;EGY-013=count:4666,

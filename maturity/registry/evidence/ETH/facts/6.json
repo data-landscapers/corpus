@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-07-ethiopia-fayda-proof-of-identity-foreign-nationals",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda System", "class": "identity", "platform": "", "owner": "National ID Program (NIDP)", "tiers": ""}
+  ],
+  "note": "A list of documents accepted for Fayda enrolment; a birth certificate is one accepted proof of identity, but the page states nothing about how births or deaths are registered."
+}

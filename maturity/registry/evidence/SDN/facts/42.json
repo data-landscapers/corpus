@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-28-sudan-family-support-project-icr-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "National Civil Registry (NCR)", "country_label": "National Civil Registry (NCR)", "class": "", "platform": "", "owner": "", "tiers": "named only in the abbreviations list of the held excerpt; what it does is not described"},
+    {"system": "Sudan Family Support Project management information system", "country_label": "SFSP MIS", "class": "", "platform": "", "owner": "Ministry of Finance and Economic Planning (implementing agency), World Bank financed", "tiers": "safety-net system of a cash transfer project closed 30 June 2024; the held excerpt stops at the datasheet and does not describe its link to the registry"}
+  ],
+  "note": "The held text is the cover and datasheet of the completion report only; the National Civil Registry appears as an abbreviation and nothing is stated about civil registration."
+}

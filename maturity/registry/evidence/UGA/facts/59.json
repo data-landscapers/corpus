@@ -1,0 +1,9 @@
+{
+  "slug": "2024-10-15-nira-press-statement-mass-enrolment-status",
+  "facts": [],
+  "systems": [
+    {"system": "new National Security Information System (NSIS)", "country_label": "National Security Information System; National Identification Register", "class": "identity", "platform": "", "owner": "NIRA; technology partner Tahaluf under a contract signed 8 July 2024", "tiers": "new data centre at a co-location site; 5,665 kits for 135 districts and 11 cities, down to parish level; first modules (new registration, renewal, first ID at 16, replacement, change of particulars) due live 17 December 2024"},
+    {"system": "Mass Enrolment and Renewal Exercise", "country_label": "Mass Enrolment and Renewal Exercise; 53-day mobile registration outreach from 27 September 2024", "class": "identity", "platform": "", "owner": "NIRA with the Ministry of Internal Affairs", "tiers": "mobile outreaches at sub-county headquarters, parishes, schools and places of worship; Cabinet budget UGX 666.85 billion, UGX 300 billion appropriated December 2023"}
+  ],
+  "note": "Identity enrolment only: the new system's first modules are all national ID functions, and the statement says nothing about the registration of births or deaths."
+}

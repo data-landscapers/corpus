@@ -1,0 +1,12 @@
+{
+  "slug": "2023-08-03 The modernisation of Guinea's civil registry inspired by Belgium's experience (Citizenship Rights in Africa)",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "Enabel says a digital national civil registry is being piloted in ten communes, where paper deeds recorded at municipal level are entered into a national digital database, with more than 105,000 records migrated to date; no date is given, so the document's published date is used.", "as_of": "2023-08-03", "date_precision": "day", "system": "digital national civil registry", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Enabel says the ten-commune civil registry pilot is funded by the European Union and run with Enabel's support, with an extension to consolidate and scale it envisaged; no date is given, so the document's published date is used.", "as_of": "2023-08-03", "date_precision": "day", "system": "digital national civil registry", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital national civil registry", "country_label": "national digital civil registry / national digital database", "class": "civil", "platform": "three application modules developed with DXC Technology", "owner": "Guinean authorities with Enabel (EU-funded pilot); partners include the Ministry of Territorial Administration and Decentralisation and the ten pilot municipalities", "tiers": "ten pilot communes"},
+    {"system": "automatic birth notification module", "country_label": "", "class": "notification", "platform": "mobile app module developed with DXC Technology", "owner": "Enabel pilot project", "tiers": "ten pilot communes; module under development, to notify births within ten days"}
+  ],
+  "note": "No made fact: the document says paper deeds are recorded at municipal level and entered into the national database but not where or when the entry is done, and 'migrated' may mean back-capture. The 44,493 events recorded on time in 2022 in the pilot communes are not said to be recorded digitally."
+}

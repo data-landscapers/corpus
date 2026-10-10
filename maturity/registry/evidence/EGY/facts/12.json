@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-egypt-mobile-line-registration-governance",
+  "facts": [],
+  "systems": [
+    {"system": "Unified digital identity project", "country_label": "مشروع الهوية الرقمية الموحدة", "class": "identity", "platform": "", "owner": "Ministry of Communications and Information Technology, with the Ministry of Interior for technical linkage and biometric matching against official data", "tiers": "national; being implemented in stages"},
+    {"system": "Mobile line registration system", "country_label": "منظومة تسجيل خطوط الهاتف المحمول", "class": "identity", "platform": "", "owner": "National Telecom Regulatory Authority and the four mobile operators", "tiers": "national"}
+  ],
+  "note": "Parliamentary meeting on SIM registration rules and the unified digital identity project; nothing on civil registration of births or deaths."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National ID Card", "country_label": "National ID Card", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "For Guinea the dataset gives adult identity-card ownership only (47% of adults, 52% of men and 42% of women, surveyed 5 to 25 October 2024) and codes no digital ID system; it states nothing on how or where births and deaths are registered."
+}

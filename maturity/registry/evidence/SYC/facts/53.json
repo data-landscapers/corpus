@@ -1,0 +1,8 @@
+{
+  "slug": "1967-01-01-seychelles-land-registration-act-cap-107",
+  "facts": [],
+  "systems": [
+    {"system": "Land register", "country_label": "register under the Land Registration Act, prepared from the records of the Mortgage and Registration Office", "class": "land", "platform": "", "owner": "the Registrar (Land Registration Act)", "tiers": "not stated"}
+  ],
+  "note": "Passages of the Land Registration Act: a land register (class land, out of scope), with no statement that it is digital; a death certificate appears only as an attachment to a succession affidavit. Nothing on civil registration."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-01 Understanding-MOSIP-Biometric-Update-report",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP deployment in Ethiopia", "country_label": "", "class": "identity", "platform": "MOSIP", "owner": "", "tiers": ""}
+  ],
+  "note": "The held text is a source record summarising a MOSIP explainer; it names Ethiopia only as a MOSIP identity case study, and its civil registration reference is to Morocco. Nothing is stated about civil registration in Ethiopia."
+}

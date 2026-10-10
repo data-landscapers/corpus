@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id",
+  "facts": [],
+  "systems": [
+    {"system": "digital birth registration (pilot)", "country_label": "digital birth registration", "class": "", "platform": "", "owner": "Ministry of Health (as reported)", "tiers": "a pilot programme that automatically assigns the National Health Identifier to newborns; no site, office or count given"}
+  ],
+  "note": "One sentence says a pilot assigns the health identifier to newborns through digital birth registration, without saying who registers or where; unclassified, so no fact."
+}

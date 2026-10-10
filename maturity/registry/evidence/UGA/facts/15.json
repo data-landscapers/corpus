@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-10-unwanted-witness-uganda-biometrics-nin-digital-identity",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN)", "country_label": "NIN", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "link between the NIN and the voter register, with biometric voter verification kits", "country_label": "", "class": "exchange", "platform": "", "owner": "Electoral Commission and NIRA", "tiers": "more than 109,000 kits nationwide at the 2026 elections"}
+  ],
+  "note": "An opinion piece on the governance of the national ID and its link to the voter register; civil registration is mentioned only as the origin of identity data. Nothing on civil registration offices."
+}

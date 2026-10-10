@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-06-hansard-hospital-kiosks-dcnr",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "regressing", "fact": "The Minister of Labour and Home Affairs told Parliament on 6 March 2026 that of about 15 hospital kiosks set up by the Department of Civil and National Registration to register births quickly on site, 9 are operating and 6 have closed, chiefly for lack of staff, and some open ones have one officer instead of two; the dates of the closures are not given.", "as_of": "2026-03-06", "date_precision": "day", "system": "Hospital kiosks", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The hospital kiosks for on-site birth and death registration and certificates were established and are staffed by the Department of Civil and National Registration of the Ministry of Labour and Home Affairs, as the question and the minister's answer of 6 March 2026 state.", "as_of": "2026-03-06", "date_precision": "day", "system": "Hospital kiosks", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Hospital kiosks", "country_label": "hospital kiosks (diphaposi tse di faphegileng)", "class": "civil", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": "15 established at hospitals and clinics; 9 operating (Letsholathebe Memorial, Nyangabgwe Referral, Sekgoma Memorial, Rakops, Mahalapye, Deborah Retief Memorial, Princess Marina, Ghanzi, Scottish); 6 closed (Bokamoso Private, Sidilega Private, Lesirane Clinic, Bamalete Lutheran, Lobatse, Jwaneng)"}
+  ],
+  "note": "Body is an excerpt, truncated mid-answer, and the answer is in Setswana. Classed civil because the minister says the kiosks register births at the hospital; the document does not say whether the entry there is digital, so no events, made or offices fact is taken."
+}

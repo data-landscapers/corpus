@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-11-cameroon-signals-urgency-biometric-voter-id-collection",
+  "facts": [],
+  "systems": [
+    {"system": "biometric voter registry", "country_label": "biometric voter registration system; biometric voter cards", "class": "land", "platform": "kits from Giesecke and Devrient (2012), later GenKey and Veridos", "owner": "ELECAM", "tiers": "ELECAM's decentralised offices and council area commissions; about 8.2 million registered voters"}
+  ],
+  "note": "On the electoral register and voter cards, which the typology puts out of scope; nothing on civil registration."
+}

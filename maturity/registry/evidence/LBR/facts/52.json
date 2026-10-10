@@ -1,0 +1,9 @@
+{
+  "slug": "2020-01-01-liberia-worldbank-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "NBIS; biometric ID cards", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "being rolled out in 2020; NIR branch enrolment offices in 14 of 15 counties, without generators or reliable connectivity; initial focus on the capital, government employees and legal residents"},
+    {"system": "civil registry", "country_label": "civil registry", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages describe the identity system; the civil registry is named only as one of the functional systems the NBIS is expected to link, with no description of what it does."
+}

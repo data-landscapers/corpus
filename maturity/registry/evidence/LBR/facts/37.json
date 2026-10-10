@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-11-fpa-nir-digital-transformation-partnerships-enrollment",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "NIR ID card; National Identification Number (NIN)", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national; 740,000 enrolled as of December 2024"},
+    {"system": "NIR e-verification portal", "country_label": "e-verification portal", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "used by the Civil Service Agency under a May 2024 memorandum"},
+    {"system": "UNICEF pilot enrolling children under five in the NBIS", "country_label": "pilot project", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR), with UNICEF", "tiers": "pilot launched September 2023; 5,000 children in Montserrado County, expanding to Grand Bassa and Gbarpolu"}
+  ],
+  "note": "About identity enrolment and its partnerships only; nothing on civil registration."
+}

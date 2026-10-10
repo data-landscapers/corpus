@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "foundational ID (Ghana's row in the annex tables)", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "national; 88% of adults own an ID (ID4D-Global Findex Database 2025), no digital ID figure"}
+  ],
+  "note": "A global dataset of adult ID ownership and under-5 birth registration rates; Ghana appears only in the annex tables, with an ownership figure and a credential row that did not extract cleanly. Nothing on how births or deaths are recorded."
+}

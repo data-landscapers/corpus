@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-08 Scrapping fees for first-timers boosts Kenya digital ID registration",
+  "facts": [],
+  "systems": [
+    {"system": "Maisha Namba", "country_label": "Maisha Namba digital ID", "class": "identity", "platform": "", "owner": "", "tiers": "40 ID registration centres across 14 sub-counties in Kakamega County; a live-capture technology pilot at Kakamega"},
+    {"system": "Mobile registration campaigns", "country_label": "mobile registration campaigns", "class": "identity", "platform": "", "owner": "", "tiers": "other counties, for identity card enrolment"}
+  ],
+  "note": "Identity card enrolment and fees only; civil-registration reforms are mentioned in passing with no description of any system or office."
+}

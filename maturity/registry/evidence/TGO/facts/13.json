@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-18-uneca-egmrg-togo-integration-crvs-education",
+  "facts": [],
+  "systems": [
+    {"system": "Intégration CRVS-Education", "country_label": "Intégration CRVS-Education; tableau de bord CRVS et éducation / état civil-éducation", "class": "exchange", "platform": "", "owner": "Ministère de l'administration territoriale (DATF) with the ministère de l'éducation nationale", "tiers": "schools nationally: an annual dashboard following children without birth acts in schools; more than 125,356 identities attributed to pupils since 2024, on the DATF director's account at EGMRG, 2026-07-18"},
+    {"system": "campagne nationale de rattrapage des naissances des enfants dans les écoles", "country_label": "campagne nationale de rattrapage des naissances", "class": "outreach", "platform": "", "owner": "Ministère de l'administration territoriale, with the education sector identifying beneficiaries", "tiers": "schools; birth acts handed to pupils identified by the education sector"}
+  ],
+  "note": "A collaboration between civil registration and education to find and register pupils without birth acts; the document describes a dashboard and campaigns, and says nothing of how offices make the record. It gives 22% of under-fives without a birth act, 31% rural (UNICEF 2017)."
+}

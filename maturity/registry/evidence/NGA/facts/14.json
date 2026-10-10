@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-13-birth-registration-emerges-as-foundation-for-digital-public-infrastructure",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The document reports UNICEF recognising Nigeria's commitment to birth registration after the recent launch of a digital birth registration platform and a new national identity law; it gives the launch no date, so its publication date is used.", "as_of": "2026-08-13", "date_precision": "day", "system": "digital birth registration platform", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital birth registration platform", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Identification Number (NIN)", "country_label": "NIN", "class": "identity", "platform": "", "owner": "", "tiers": "birth registration is stated to be a prerequisite for obtaining one"}
+  ],
+  "note": ""
+}

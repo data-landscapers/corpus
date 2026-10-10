@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-18-etat-civil-actes-securises-natitingou",
+  "facts": [],
+  "systems": [
+    {"system": "Natitingou arrondissement equipment and registrar training", "country_label": "équipement progressif des arrondissements en matériels informatiques et bureautiques", "class": "enabling", "platform": "", "owner": "Mairie de Natitingou, with its partners", "tiers": "arrondissements of Natitingou commune; civil-status agents trained; reported at the commune's accountability hearing of 28 July 2025"},
+    {"system": "Secured civil-status acts", "country_label": "actes sécurisés (naissance, mariage, décès)", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "delivered through ANIP's services; births, marriages and deaths, with death declaration said to be neglected by citizens"},
+    {"system": "Mobile counters in communes", "country_label": "guichets mobiles dans les communes", "class": "outreach", "platform": "", "owner": "", "tiers": "named as a modernisation initiative to support; not described"}
+  ],
+  "note": "A commune hearing on the civil-status reform: it speaks of digitalisation and simplified procedures in general terms and of computers for arrondissements, without saying that any office enters births or deaths digitally."
+}

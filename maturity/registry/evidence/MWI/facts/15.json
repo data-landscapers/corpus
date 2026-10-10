@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-25-malawi-ghana-digital-government-support-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "national ID system", "country_label": "national ID", "class": "identity", "platform": "", "owner": "", "tiers": "national; very high coverage rate"},
+    {"system": "government data exchange platform", "country_label": "", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": ""}
+  ],
+  "note": "About digital-government cooperation with Ghana; on civil registration it says only that the government launched a five-year blueprint to accelerate birth registration last year (2025), naming no registration system and not saying how births are registered."
+}

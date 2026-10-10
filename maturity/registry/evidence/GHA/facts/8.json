@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-01-who-ghana-evidence-generation-suicide-prevention-situational-analysis",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The report states that the Births and Deaths Registry, under the Ministry of Local Government, is the agency mandated by the Registration of Births and Deaths Act (Act 1027 of 2020) to develop and administer the births and deaths registration system; the statement is undated, so the document's published date is used.", "as_of": "2026-09", "date_precision": "month", "system": "births and deaths registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "births and deaths registration system", "country_label": "Births and Deaths Registry (BDR)", "class": "civil", "platform": "", "owner": "Births and Deaths Registry, under the Ministry of Local Government", "tiers": "national: all deaths are to be registered with the BDR, by families or hospital staff; records are collated into national vital statistics"}
+  ],
+  "note": "The passages describe who registers a death and the Registry's mandate, and say many rural deaths go unregistered; they do not say whether the record is made on paper or digitally, at any office."
+}

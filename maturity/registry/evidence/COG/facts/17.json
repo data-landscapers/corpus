@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-18-cog-sifec-validation-etat-civil-mfbpp",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "SIFEC's software was developed by ACSI, an agency under the tutelage of the Ministry of Finance, Budget and Public Portfolio, whose minister's office opened the final validation workshop on 18 February 2026 with the Interior minister's security adviser taking part.", "as_of": "2026-02-18", "date_precision": "day", "system": "Système intégré des faits d'état civil (SIFEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "ACSI's director said on 18 February 2026 that the platform treats birth, marriage and death; the workshop programme lists client-server information systems for birth under the normal procedure, birth under the exceptional procedure, marriage, and death declaration and death act. The software was at final validation, not in use.", "as_of": "2026-02-18", "date_precision": "day", "system": "Système intégré des faits d'état civil (SIFEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 18 February 2026 the workshop for final validation of SIFEC's recommendations and technical presentation of its software opened at Kintélé, to run to 20 February; the Interior ministry's adviser said final validation follows the technical presentation phase.", "as_of": "2026-02-18", "date_precision": "day", "system": "Système intégré des faits d'état civil (SIFEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système intégré des faits d'état civil (SIFEC)", "country_label": "Système intégré des faits d'état civil (SIFEC)", "class": "civil", "platform": "software developed by ACSI; client-server modules for birth, marriage and death", "owner": "ACSI, under the Ministry of Finance; Ministry of the Interior and Decentralisation", "tiers": "at final validation in February 2026; no office named"}
+  ],
+  "note": ""
+}

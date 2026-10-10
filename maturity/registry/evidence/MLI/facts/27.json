@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps",
+  "facts": [],
+  "systems": [
+    {"system": "civil-registration centres and declaration points", "country_label": "primary civil-registration centres; secondary centres; declaration points", "class": "civil", "platform": "", "owner": "National Directorate of Civil Status (DNEC); National Agency for the Security of Civil Status Documents (ANSAEC), created 2025", "tiers": "747 functional primary centres (of 825 councils), 292 secondary centres and 8,000 declaration points (4,000 in health facilities, 4,000 in villages), as the DNEC's director of civil status told the ID4Africa 2025 AGM"},
+    {"system": "mobile campaigns", "country_label": "", "class": "outreach", "platform": "", "owner": "DNEC", "tiers": "to be strengthened, as a future plan"},
+    {"system": "platform for citizens abroad", "country_label": "", "class": "certificate", "platform": "", "owner": "", "tiers": "launched February 2025, for Malians abroad to access administrative and identity documents"}
+  ],
+  "note": "The Mali section gives the country's own count of local offices (a denominator) and registration rates of 89.5% births and around 20% deaths, but no count or share of offices entering digitally and no statement of how the record is made; expanding digitalisation of all civil-registration processes and digitising all records are stated as future plans, undated."
+}

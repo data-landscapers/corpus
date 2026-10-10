@@ -1,0 +1,15 @@
+{
+  "slug": "2002-12-27-eritrea-business-information-register-proclamation-124",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Business Information Register",
+      "country_label": "Business Information Register",
+      "class": "land",
+      "platform": "",
+      "owner": "Ministry of Trade and Industry",
+      "tiers": "national; businesses report annually by 15 January"
+    }
+  ],
+  "note": "The law founding the business register, which the typology puts out of scope; nothing on civil registration."
+}

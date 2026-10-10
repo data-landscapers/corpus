@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-14-home-affairs-40-years-closing-of-the-tap",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The government's commemorative account says the Birth, Marriage and Death department has sat within the Ministry of Home Affairs since 2009 and that the civil registration and identity systems were 'automated' over time, under a Civil Registration Act of 2023 that replaced the 1986 law; it dates none of the automation, so the page's published date of 14 April 2026 (itself a proxy) is used.", "as_of": "2026-04-14", "date_precision": "day", "system": "civil registration systems (Births, Marriages and Deaths)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration systems (Births, Marriages and Deaths)", "country_label": "Birth, Marriage, and Death department", "class": "civil", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "said to have been automated over time, with no statement of where entry is made; birth, marriage and death registration extended into several Tinkhundla centres"},
+    {"system": "Closing of the Tap", "country_label": "Closing of the Tap initiative", "class": "civil", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "registration offices within health facilities, registering newborns there, in Mbabane, Piggs Peak, Mankayane, Hlathikhulu, Sithobelweni, Manzini and Siteki (7); whether the entry is digital is not stated"},
+    {"system": "Mopping Up campaign", "country_label": "Mopping Up campaign", "class": "outreach", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "nationwide, taking registration into chiefdoms; over 30,000 people given first birth certificates"},
+    {"system": "national identity cards", "country_label": "national identity cards (Identification Order of 1998; cards introduced 2005)", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "not stated"}
+  ],
+  "note": "No statement of how or where a birth or death record is made digitally, and no count of offices entering digitally; the seven health-facility offices are given without saying how they register."
+}

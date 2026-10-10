@@ -1,0 +1,12 @@
+{
+  "slug": "2010-01-14-mwi-national-registration-act-2010",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The National Registration Act 2010 has each district registrar keep a register of births and one of deaths, entered from a signed or marked birth or death report, with the Director supplying the books and forms and each register sent to the Director once its space is exhausted, alongside monthly returns; the Act provides for no electronic record (dated to the Act's publication, 14 January 2010; commencement was left to a later Gazette notice).", "as_of": "2010-01-14", "date_precision": "day", "system": "National Registration System (district registers of births and deaths)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The National Registration Act 2010 makes the Director of National Registration, appointed by the Minister, responsible for the registration of births, marriages and deaths, with each District Commissioner or Chief Executive as district registrar, and has the Registrar General hand over the registers held under the repealed Births and Deaths Registration Act (dated to the Act's publication, 14 January 2010).", "as_of": "2010-01-14", "date_precision": "day", "system": "National Registration System (district registers of births and deaths)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Registration System (district registers of births and deaths)", "country_label": "National Registration System; population register; Births, Marriages and Deaths Registers", "class": "civil", "platform": "", "owner": "Director of National Registration", "tiers": "registers recorded at village, traditional authority, district and national levels; a register of births, marriages and deaths kept by the district registrar of each district"},
+    {"system": "National register", "country_label": "national register; district register; identity card", "class": "identity", "platform": "", "owner": "Director of National Registration", "tiers": "national register kept by the Director, a district register kept by every district registrar; persons aged 16 and over, with fingerprints and photograph"}
+  ],
+  "note": ""
+}

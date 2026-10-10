@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-05-nia-registration-of-citizens-in-ghana",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Register (NIR)", "country_label": "National Identity Register; Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority", "tiers": "registration centres; NIA district offices, some regional offices and Premium Centres"}
+  ],
+  "note": "The identity authority's enrolment procedure: a registration officer captures personal data and biometrics onto the National Identity Register and prints the card; a birth certificate from the Births and Deaths Registry is one accepted document, and nothing is said on how births or deaths are registered."
+}

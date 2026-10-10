@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-17-impressao-descentralizada-acelera-emissao-do-bi",
+  "facts": [],
+  "systems": [
+    {"system": "impressão descentralizada do Bilhete de Identidade", "country_label": "impressão descentralizada do BI", "class": "identity", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "printing in all 21 provinces since June 2026, where it had been done at the Luanda centre; identification posts"},
+    {"system": "brigadas móveis de identificação civil", "country_label": "brigadas móveis de identificação civil", "class": "outreach", "platform": "portable printers", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "communities and remote, hard-to-reach zones; to be intensified from July 2026"},
+    {"system": "serviço de atendimento ao domicílio", "country_label": "", "class": "identity", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "biometric capture and delivery at the applicant's home, for an additional fee"},
+    {"system": "Registo Eleitoral Oficioso", "country_label": "Registo Eleitoral Oficioso", "class": "land", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "A report on decentralised identity-card printing and mobile identification brigades; the Secretary of State says registration levels are below target but the report states nothing on how a birth or death is recorded."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-22-digital-ethiopia-2025-civil-registration-citizenship-services",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "A government statement attributed to the deputy director general of the Ethiopian Artificial Intelligence Institute says that in Addis Ababa connectivity has been created from the central level down to the woreda (district) level and that family registration, vital events registration, resident services and verification are being implemented through a digital system; no date is given for this, so the document's published date is used.", "as_of": "2025-12-22", "date_precision": "day", "system": "Addis Ababa civil registration and citizenship services digital system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The same statement calls the work 'a major pilot effort' and gives Addis Ababa, connected down to woreda level, as its example; it gives no count of offices and names no other region; undated, so the document's published date is used.", "as_of": "2025-12-22", "date_precision": "day", "system": "Addis Ababa civil registration and citizenship services digital system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Addis Ababa civil registration and citizenship services digital system", "country_label": "civil registration and citizenship services", "class": "civil", "platform": "applications developed using local capacity", "owner": "", "tiers": "Addis Ababa, from the central level down to woreda (district) level"}
+  ],
+  "note": "The statement does not name births or deaths separately ('vital events registration'), so no events fact is recorded."
+}

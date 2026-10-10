@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-egypt-sovereignty-huawei-us-ai-tender-thecube",
+  "facts": [],
+  "systems": [
+    {"system": "Huawei and iFlytek AI data centre proposal: civil registry integration", "country_label": "", "class": "exchange", "platform": "Huawei Ascend; iFlytek applications", "owner": "proposed by Huawei to the Egyptian government; not adopted in the document", "tiers": "a 102-page proposal reported on 26 August 2026 lists recognition of vehicles and individuals against a national population database and civil registry integration among its applications"},
+    {"system": "National population database", "country_label": "national population database", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "An analyst's commentary on a vendor bid: the civil registry appears only as something the proposed AI system would integrate with; nothing on how births or deaths are registered."
+}

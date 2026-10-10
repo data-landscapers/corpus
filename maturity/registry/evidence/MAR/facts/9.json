@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-01 Understanding-MOSIP-Biometric-Update-report",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MOSIP deployment in Morocco",
+      "country_label": "",
+      "class": "",
+      "platform": "MOSIP",
+      "owner": "",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "No fact: the file is a short source record of a MOSIP explainer; it says only that Morocco's MOSIP case concerns civil registration and social protection rather than a primary national ID, without saying what the deployment does, where or since when."
+}

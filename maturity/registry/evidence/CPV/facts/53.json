@@ -1,0 +1,60 @@
+{
+  "slug": "2007-12-05-cabo-verde-boletim-oficial-decreto-lei-43-2007-registo-electronico",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "Decreto-Lei 43/2007 allows registry acts to be made in electronic form with an advanced electronic signature (art. 3), has the conservatórias' books kept electronically (art. 4) and lets any conservatória reach the registry databases regardless of territorial competence (art. 11); acts made on paper when the system is down are carried into it afterwards (art. 25), and paper rules still apply until the computerisation of the registry services is complete (art. 24). A legal provision covering civil, commercial, land and vehicle registration, not a report of practice.",
+      "as_of": "2007-12-06",
+      "date_precision": "day",
+      "system": "bases de dados dos registos (registo civil)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The decree-law places the civil registry database, with those of the commercial, land and vehicle registries, in the ownership of the Direcção-Geral dos Registos, Notariado e Identificação, whose Director-General is responsible for their processing (arts. 14 and 16); electronic signature rules are set by the minister responsible for justice (art. 3).",
+      "as_of": "2007-12-06",
+      "date_precision": "day",
+      "system": "bases de dados dos registos (registo civil)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "bases de dados dos registos (registo civil)",
+      "country_label": "bases de dados dos registos; sistema informático",
+      "class": "civil",
+      "platform": "",
+      "owner": "Direcção-Geral dos Registos, Notariado e Identificação (DGRNI)",
+      "tiers": "Conservatórias, each able to reach the databases regardless of territorial competence"
+    },
+    {
+      "system": "Digitalização dos assentos de registo civil",
+      "country_label": "assentos de registo civil digitalizados no âmbito da reforma em curso; extractação; digitalização dos registos",
+      "class": "archive",
+      "platform": "",
+      "owner": "Direcção-Geral dos Registos, Notariado e Identificação (DGRNI)",
+      "tiers": "Digitised reproductions of civil registry entries are given the standing of the register books; a record still on paper is digitised when a registry act or certificate request touches it (arts. 5 and 27)"
+    },
+    {
+      "system": "Certidão online de registo",
+      "country_label": "certidão online de registo; certidão online",
+      "class": "certificate",
+      "platform": "",
+      "owner": "Direcção-Geral dos Registos, Notariado e Identificação; requests through the Casa do Cidadão",
+      "tiers": "Requested at any conservatória or competent public service, on the internet, or by the Casa do Cidadão telephone service after in-person authentication; delivered as an access code"
+    },
+    {
+      "system": "Porton di nôs Ilha",
+      "country_label": "Porton di nôs Ilha; Portal da Casa do Cidadão",
+      "class": "certificate",
+      "platform": "",
+      "owner": "Casa do Cidadão; infrastructure maintained by NOSI",
+      "tiers": "National web portal for requesting documents, certificates and payments, hosted in the State data centre; registration in person at accredited counters"
+    }
+  ],
+  "note": "The decree-law does not name births or deaths and gives no count of offices; the capture is truncated in Portaria Conjunta 42/2007."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-12-justica-reforca-emissao-do-bi-registo-eleitoral",
+  "facts": [],
+  "systems": [
+    {"system": "Nascer com Registo", "country_label": "Nascer com Registo", "class": "civil", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "civil registration and identification posts in the country's main hospitals, where newborns are registered; the report does not say whether the record is made digitally"},
+    {"system": "Plano de Municipalização do Bilhete de Identidade", "country_label": "Plano de Municipalização do Bilhete de Identidade", "class": "identity", "platform": "", "owner": "interministerial commission led by the Minister of State and head of the Casa Civil; Ministério da Justiça e dos Direitos Humanos", "tiers": "card printers in every provincial capital by end June 2026; Balcões Únicos de Atendimento ao Público also to collect data for the card"},
+    {"system": "brigadas móveis", "country_label": "brigadas móveis", "class": "outreach", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos, with the Ministério da Administração do Território", "tiers": "planned for localities in more distant zones"},
+    {"system": "registo eleitoral oficioso", "country_label": "actualização do registo eleitoral oficioso e prova de vida", "class": "land", "platform": "", "owner": "", "tiers": "Balcões Únicos de Atendimento ao Público, 15 June 2026 to 31 March 2027"}
+  ],
+  "note": "The minister says civil registration services are available in every province and that hospital posts register newborns, but the report states nothing on whether or how those records are made digitally, so no fact is taken."
+}

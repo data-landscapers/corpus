@@ -1,0 +1,9 @@
+{
+  "slug": "2020-10-08-wb-sdn-001-sudan-family-support-project",
+  "facts": [],
+  "systems": [
+    {"system": "Sudan Family Support Project MIS data-sharing platform", "country_label": "Sudan Family Support Project MIS", "class": "exchange", "platform": "", "owner": "Ministry of Finance and Economic Planning (implementing agency)", "tiers": ""},
+    {"system": "National Civil Registry", "country_label": "National Civil Registry", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A finance record of a cash-transfer project (approved 8 October 2020, closed 30 June 2024): it states only that the project's MIS held a data-sharing platform linked to the National Civil Registry by API, and says nothing of what the registry does or how births and deaths are registered. The record is an excerpt by its own note."
+}

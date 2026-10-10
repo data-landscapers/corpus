@@ -1,0 +1,18 @@
+{
+  "slug": "2025-04-01 South Africa Department of Home Affairs Strategic Plan 2025-2030",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Department of Home Affairs' own Strategic Plan 2025 to 2030, tabled in April 2025, carries online birth registration at high-volume health facilities as the department's work.", "as_of": "2025-04", "date_precision": "month", "system": "online birth registration", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Department of Home Affairs' Strategic Plan 2025 to 2030, tabled in April 2025, provides for online birth registration at high-volume health facilities, from a baseline of 8 of 91 priority facilities equipped, with connectivity and IT capacity named as the blocker.", "as_of": "2025-04", "date_precision": "month", "system": "online birth registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "online birth registration", "country_label": "online birth registration at high-volume health facilities", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "baseline 8 of 91 priority health facilities equipped"},
+    {"system": "National Population Register (NPR)", "country_label": "National Population Register; secure population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": ""},
+    {"system": "Integrated Identity System", "country_label": "Integrated Identity System", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "an outcome indicator, to be operational"},
+    {"system": "ABIS", "country_label": "ABIS", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "Phase 2 (iris, footprint and palm-print back end) completed February 2024; front-end live-capture integration expected 2025/26"},
+    {"system": "live capture", "country_label": "live capture", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "to reach 1,000 bank branches by 2029"},
+    {"system": "Smart ID system", "country_label": "Smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "universal enrolment planned for 2029"},
+    {"system": "Digital ID", "country_label": "Digital ID with remote authentication; digital wallet", "class": "identity", "platform": "", "owner": "Department of Home Affairs, with the South African Reserve Bank", "tiers": "planned for 2028/9"},
+    {"system": "digitisation of civic records", "country_label": "340 million paper civic records to be digitised", "class": "archive", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": "The file is a companion page summarising the tabled plan, not the plan's text; the 8 of 91 baseline is undated on the page. It also gives a target of more than 80% of births registered within 30 days."
+}

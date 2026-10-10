@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-12-finance-act-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Status Database", "country_label": "Civil Status Database", "class": "", "platform": "", "owner": "Registrar of Civil Status", "tiers": ""},
+    {"system": "Central Population Database", "country_label": "Central Population Database", "class": "", "platform": "", "owner": "Registrar of Civil Status", "tiers": ""},
+    {"system": "Direct, real-time and remote electronic access by the Director-General of the Mauritius Revenue Authority to the Civil Status Database and the Central Population Database (new section 123J, Income Tax Act)", "country_label": "Access to civil status information", "class": "exchange", "platform": "secure system-to-system connectivity", "owner": "Registrar of Civil Status", "tiers": "national"}
+  ],
+  "note": "The Act (assented 2026-08-12) obliges the Registrar of Civil Status to give the revenue authority electronic access to the two databases; it names them without saying how or where a birth or death is recorded, so no fact of class civil."
+}

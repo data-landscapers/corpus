@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-01 Identification System in Benin Increasing Access to Services",
+  "facts": [],
+  "systems": [
+    {"system": "National Registry of Physical Persons", "country_label": "National Registry of Physical Persons", "class": "identity", "platform": "", "owner": "Government of Benin", "tiers": "national; about 90% of the population biometrically enrolled in 2017-2018, then 2.2 million more with WURI support, to nearly 99%"},
+    {"system": "fID certificate (C'est moi card)", "country_label": "Certificat NPI/fID, « C'est moi »", "class": "identity", "platform": "QR-code certificate, with a mobile application to authenticate it", "owner": "Government of Benin, with the World Bank's WURI project", "tiers": "one-third of the population obtained it with WURI support; online or in print, free and lifelong"}
+  ],
+  "note": "A World Bank blog on identity enrolment; it says a quarter of the population had no birth certificate in 2017 and states nothing on how births or deaths are registered."
+}

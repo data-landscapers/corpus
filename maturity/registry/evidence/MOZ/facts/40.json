@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-eu-eom-mozambique-2024-final-report",
+  "facts": [],
+  "systems": [
+    {"system": "voter register", "country_label": "", "class": "land", "platform": "", "owner": "STAE (Technical Secretariat for Electoral Administration)", "tiers": "produced afresh for each election; the mission recommends updating it from other sources such as the civil registry"},
+    {"system": "civil registry", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named as a possible data source for the voter register, as 'a revised civil registry'; it was unclear whether STAE used its information for the 2024 elections; nothing on what it does"}
+  ],
+  "note": "Passages of an election observation report; the civil registry is named only as a source the voter register could draw on, with no description of how it records events, so no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-08-registered-mobile-line-alone-does-not-establish-legal-responsibility-egypt-ntra",
+  "facts": [],
+  "systems": [
+    {"system": "My NTRA application", "country_label": "My NTRA", "class": "identity", "platform": "", "owner": "National Telecom Regulatory Authority", "tiers": "national; citizens check mobile numbers registered in their names"}
+  ],
+  "note": "Regulator's statement on liability for registered mobile lines; nothing on civil registration."
+}

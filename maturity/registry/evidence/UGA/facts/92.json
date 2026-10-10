@@ -1,0 +1,13 @@
+{
+  "slug": "2015-03-26-registration-of-persons-act",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Registration of Persons Act, assented to on 26 March 2015, makes the National Identification and Registration Authority, a body corporate under the minister for internal affairs, responsible for registering births and deaths (section 5(1)(d)), with a registration officer in charge of each registration area entering every notified birth in the register (section 29(1)); Parts V and VI on births and deaths commenced on 1 January 2016, and the Act names no civil registration system.", "as_of": "2015-03-26", "date_precision": "day", "system": "registration of births and deaths (no system named)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "register of births", "country_label": "the register; register of births occurring outside Uganda", "class": "", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "kept by the registration officer in charge of a registration area, the informant signing or affixing a mark to the register (section 32); the Act does not say whether it is paper or electronic"},
+    {"system": "National Identification Register", "country_label": "National Identification Register", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "a national register of all persons in Uganda; registration centres designated by the Authority under section 58"},
+    {"system": "allocation of a National Identification Number on registration of a birth", "country_label": "National Identification Number; Alien Identification Number", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "section 29(2): on registration of a birth by a registration officer the Authority allocates the number"},
+    {"system": "incorporation of information from other government databases into the register", "country_label": "", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority", "tiers": ""}
+  ],
+  "note": "An excerpt: the held text stops in section 35, so Part VI on deaths, Part VII on monthly returns and Part IX on registration centres are seen only as contents headings. One governance fact; the Act does not state the medium of the births register, and its section 21 lists the Authority's possible funding sources (appropriations, grants, fees) without stating a budget."
+}

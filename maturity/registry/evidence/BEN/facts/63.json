@@ -1,0 +1,11 @@
+{
+  "slug": "2020-12-01-gsma-reimagining-identity-ecosystems-sub-saharan-africa-mobile",
+  "facts": [],
+  "systems": [
+    {"system": "RAVIP", "country_label": "Recensement Administratif à Vocation d'Identification des Personnes (RAVIP)", "class": "identity", "platform": "", "owner": "Government of Benin", "tiers": "National identification campaign expanded in 2019; about 350,000 biometric cards procured at the end of 2019 for the poor in remote locations; about 2.5 million registrants to be given birth certificates under the ARCH project"},
+    {"system": "carte d'identité (national ID)", "country_label": "carte d'identité", "class": "identity", "platform": "paper-based card", "owner": "Prefecture of the Mayor", "tiers": "Issued since 1992 to citizens aged 18 and over"},
+    {"system": "computerised voters' registry", "country_label": "", "class": "land", "platform": "", "owner": "", "tiers": "As of March 2020 generated from the paper-based national ID"},
+    {"system": "WURI programme", "country_label": "", "class": "exchange", "platform": "", "owner": "World Bank programme", "tiers": "Aims to link the civil registration system to human development and financial services"}
+  ],
+  "note": "The Benin chapter describes civil registration only institutionally (the Ministry of Interior and Public Security solely responsible, birth registration under 50 per cent, registration centres hard to reach in rural areas) and names no digital system at civil registration offices; its dated statements of paper concern the identity card, not the civil register."
+}

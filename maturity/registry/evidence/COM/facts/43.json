@@ -1,0 +1,8 @@
+{
+  "slug": "2021-07-01-comores-strategie-nationale-sante-numerique-2022-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Système National Automatisé de Collecte et de Saisie des naissances et des décès", "country_label": "Système National Automatisé de Collecte et de Saisie des naissances et des décès", "class": "notification", "platform": "DHIS2 (a component of the planned SNIS automation and extension)", "owner": "Ministère de la Santé", "tiers": "Planned: births and deaths recorded in health facilities or by community health agents, in collaboration with local civil status authorities"}
+  ],
+  "note": "The health strategy of July 2021 plans a health-side system to collect births and deaths, working with local civil status authorities; it is a planned notification system, not the registrar's, so it gives no fact."
+}

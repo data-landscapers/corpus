@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-13-sierra-leone-tscs-ecsl-tripartite-recommendations-voter-registration",
+  "facts": [],
+  "systems": [
+    {"system": "Voter registration and ECSL voter identity cards", "country_label": "ECSL election voter Identity cards", "class": "land", "platform": "", "owner": "Electoral Commission for Sierra Leone (ECSL)", "tiers": "National; a recommendation to use National Identity cards in their place was cited as an implementation difficulty on 13 February 2026"}
+  ],
+  "note": "Electoral reform and the voter register only; the typology puts electoral registers out of scope under the land class, and nothing is stated on civil registration."
+}

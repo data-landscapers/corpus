@@ -1,0 +1,13 @@
+{
+  "slug": "2024-02-16-national-identity-card-regulations-2024",
+  "facts": [],
+  "systems": [
+    {"system": "MNIC System", "country_label": "MNIC System; new identity card, MNIC 3.0", "class": "identity", "platform": "", "owner": "Head of the Mauritius National Identity Card Unit", "tiers": "designated offices, where applications are made electronically; in operation from 19 February 2024"},
+    {"system": "civil identity register", "country_label": "civil identity register", "class": "identity", "platform": "", "owner": "", "tiers": "consulted by the Head of the Unit to confirm a card holder is recorded as deceased before the card is perforated"},
+    {"system": "MauPass", "country_label": "MauPass account", "class": "identity", "platform": "", "owner": "", "tiers": "optional account created on application for a new identity card"},
+    {"system": "Mobile ID", "country_label": "Mobile ID", "class": "identity", "platform": "", "owner": "", "tiers": "citizens' phones; used with the MNIC Portal to report a lost card or a change of residence"},
+    {"system": "MNIS Certification Authority System", "country_label": "MNIS Certification Authority System", "class": "identity", "platform": "", "owner": "", "tiers": "issues the certificates that sign the card's Document Security Object and 2D barcode"},
+    {"system": "MauSign Certification Authority System", "country_label": "MauSign Certification Authority System", "class": "identity", "platform": "", "owner": "", "tiers": "issues the digital certificates stored on the card chip or given to MauPass users"}
+  ],
+  "note": "Identity card regulations: a card lapses on registration of the holder's death and the unit checks the civil identity register or a death certificate, but nothing is stated about how a birth or death is registered."
+}

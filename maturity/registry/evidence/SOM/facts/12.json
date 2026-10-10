@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-25-somalia-eaqoonsi-digital-id-adoption-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "eAqoonsi", "country_label": "eAqoonsi digital ID app", "class": "identity", "platform": "mobile application on Google Play and the Apple app store", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "citizens' smartphones; more than 50,000 downloads"},
+    {"system": "biometric national ID", "country_label": "national digital ID", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA); World Bank-funded project since 2023", "tiers": "more than one million digital IDs issued as of November 2025"}
+  ],
+  "note": "Concerns the national identity credential and its mobile application; nothing is stated on the registration of births or deaths."
+}

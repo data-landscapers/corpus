@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-28-camoes-gestdoc-encerramento-lancamento-passe-sirec",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "Camões reports that SIREC, launched at the 1.ª Conservatória de Bissau during the GESTDOC closing event of 22-23 January 2025, is an application with birth, marriage and death modules for registering acts in digital form, and that the first certificate was issued with it at the ceremony; it says the system will allow the move from paper to digital, not that offices had made it.", "as_of": "2025-01", "date_precision": "month", "system": "Sistema Integrado de Registos e Estatísticas do Cidadão (SIREC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Camões says SIREC was implemented at the Direção-Geral de Identificação Civil, Registo e Notariado, having been developed by the Universidade de Aveiro with training from Portugal's Instituto dos Registos e do Notariado, and launched in the presence of the Minister of Justice and Human Rights.", "as_of": "2025-01", "date_precision": "month", "system": "Sistema Integrado de Registos e Estatísticas do Cidadão (SIREC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Camões says SIREC was delivered under GESTDOC, a project financed by the European Union and managed and co-financed by Camões, I.P., which closed with the launch; no domestic funding is mentioned.", "as_of": "2025-01", "date_precision": "month", "system": "Sistema Integrado de Registos e Estatísticas do Cidadão (SIREC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Registos e Estatísticas do Cidadão (SIREC)", "country_label": "SIREC", "class": "civil", "platform": "application developed by the Universidade de Aveiro", "owner": "Direção-Geral de Identificação Civil, Registo e Notariado, Ministry of Justice and Human Rights", "tiers": "launched and demonstrated at the 1.ª Conservatória de Bissau, 22-23 January 2025; no other office named"},
+    {"system": "Registo Móvel", "country_label": "Registo Móvel", "class": "outreach", "platform": "", "owner": "Direção-Geral de Identificação Civil, Registos e Notariado", "tiers": "one vehicle handed over for mobile registration in remote areas; not said to be a permanent service"}
+  ],
+  "note": "The launch is dated 22-23 January 2025, outside the twelve-month window, so no last12 fact; the source gives no count of offices using SIREC."
+}

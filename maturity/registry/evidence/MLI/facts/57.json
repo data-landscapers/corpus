@@ -1,0 +1,9 @@
+{
+  "slug": "2006-10-18-mali-decret-06-442-modalites-application-nina",
+  "facts": [],
+  "systems": [
+    {"system": "Répertoire national (Numéro d'Identification Nationale)", "country_label": "répertoire national; Numéro d'Identification Nationale", "class": "identity", "platform": "", "owner": "Service national chargé de la statistique", "tiers": "Number attributed by the national statistics service on a file including civil status acts"},
+    {"system": "Transmission of civil status changes to the national repertoire", "country_label": "transmission des données au service national chargé de la statistique", "class": "exchange", "platform": "", "owner": "Service national chargé de la statistique sets the technical characteristics of the media", "tiers": "Declaration centres of town halls, health services, justice and security communicate changes of civil status within 30 days (Article 5)"}
+  ],
+  "note": "The decree governs the national identification number and obliges declaration centres to send civil-status changes to the statistics service within 30 days; it says nothing on how the declaration centres themselves record a birth or death."
+}

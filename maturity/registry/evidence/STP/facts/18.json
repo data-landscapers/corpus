@@ -1,0 +1,42 @@
+{
+  "slug": "2026-02-06-stp-pronto-novo-sistema-recenseamento-eleitoral",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The coordinator of the EU-funded PReSE project, Cristina Paula Baptista, told Lusa on 6 February 2026 that the country has a completely computerised information system of birth and death registrations, from which an electoral roll can be drawn; she does not say where or how the records are entered.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "Sistema de informação de registos de nascimento e óbito (registo civil)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sistema de informação de registos de nascimento e óbito (registo civil)",
+      "country_label": "sistema de informação de registos de nascimento e óbito; bases de dados do registo civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Plataforma de recenseamento automático e permanente (PReSE)",
+      "country_label": "recenseamento automático e permanente; base de dados do recenseamento eleitoral",
+      "class": "land",
+      "platform": "Under development with the University of Aveiro as technology partner",
+      "owner": "PReSE project: EU-funded (EUR 500,000), executed by Portuguese Cooperation through Camões",
+      "tiers": "National"
+    },
+    {
+      "system": "Campanha de atribuição de bilhetes de identidade",
+      "country_label": "bilhete de identidade",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "National campaign, under way in February 2026"
+    }
+  ],
+  "note": ""
+}

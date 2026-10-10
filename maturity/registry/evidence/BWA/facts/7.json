@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-01-bwa-2026-0400-0411",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "The FY2026/27 recurrent provision of P108,505,050 for department 0411 Civil and National Registration, from the Consolidated Fund, is stated by the minister to cover among others the maintenance of the Births and Deaths Registration System, with Omang production and the National Identification System; no share for the BDRS is given.", "as_of": "2026-04", "date_precision": "month", "system": "Births and Deaths Registration System (BDRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The budget line that maintains the Births and Deaths Registration System in FY2026/27 is held by the Ministry of Labour and Home Affairs' Department of Civil and National Registration (organisation 0400, department 0411).", "as_of": "2026-04", "date_precision": "month", "system": "Births and Deaths Registration System (BDRS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Births and Deaths Registration System (BDRS)", "country_label": "Births and Deaths Registration System (BDRS)", "class": "civil", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": ""},
+    {"system": "National Identification System (NIS)", "country_label": "National Identification System (NIS)", "class": "identity", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": ""},
+    {"system": "National Identity Cards (Omang)", "country_label": "Omang", "class": "identity", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": ""}
+  ],
+  "note": "The document names the BDRS as a system maintained but does not describe what it does; it is classed civil on its name being that of the births and deaths register, which the parent may wish to check against the brief's rule on names."
+}

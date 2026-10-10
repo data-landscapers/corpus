@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP)", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Carte Nationale d'Identité Biométrique (CNIB)", "country_label": "nouvelle Carte Nationale d'Identité Biométrique (CNIB)", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "tournée nationale de sensibilisation", "country_label": "tournée nationale de sensibilisation sur les réformes de l'état civil et de l'identification des personnes physiques", "class": "outreach", "platform": "", "owner": "", "tiers": "fourth stage, Agadez, 28 August 2026"}
+  ],
+  "note": "A short account of the Agadez workshop. It lists 'modernisation of civil status' as a discussion topic and says nothing about any registration system or how offices register."
+}

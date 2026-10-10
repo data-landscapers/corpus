@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-biometricupdate-madagascar-digital-id-trust",
+  "facts": [],
+  "systems": [
+    {"system": "national digital ID program", "country_label": "biometric ID scheme", "class": "identity", "platform": "", "owner": "Government of Madagascar, under the World Bank-funded PRODIGY project", "tiers": "national enrolment, including mobile teams in hard-to-access areas; more than six million enrolled as of June 2026 by the authorities' count, against a goal of 12 million"},
+    {"system": "AI-powered digitisation of civil registration records", "country_label": "", "class": "archive", "platform": "", "owner": "led by Studia Inc.", "tiers": "over 10 million civil registration records digitised, said to have accelerated ID enrolment"}
+  ],
+  "note": "Identity enrolment and a back-capture of existing civil registration records only; no system in which an office makes the digital record of a birth or death."
+}

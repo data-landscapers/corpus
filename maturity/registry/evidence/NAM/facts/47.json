@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-30 Civil Registration and Identification Act, 2024",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Register", "country_label": "Civil Register, comprising the Birth, Marriage, Death and Identity Registers", "class": "", "platform": "", "owner": "Registrar-General", "tiers": "a single national register established in law; the summary does not say whether or where it is kept digitally"},
+    {"system": "Electronic notices of civil events", "country_label": "e-notices", "class": "notification", "platform": "", "owner": "", "tiers": "provided for in the Act; not stated"},
+    {"system": "Identity documents", "country_label": "physical or electronic identity documents; unique identity number linked to a personal profile", "class": "identity", "platform": "", "owner": "Registrar-General", "tiers": "authorised by the Act"}
+  ],
+  "note": "A summary of the statute (Act 13 of 2024, published 2024-12-30): it states what the law provides for, not how or where any office registers an event, so no fact is taken."
+}

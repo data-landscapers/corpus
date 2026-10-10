@@ -1,0 +1,16 @@
+{
+  "slug": "2026-07-18-nira-crvs-national-id-integration-egmrg",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "NIRA's Principal Registration Officer told the registrars general meeting on 18 July 2026 that all of Uganda's CRVS registration systems had been put under one authority, NIRA, which sits under the Minister of Internal Affairs, and that NIRA developed the births and deaths module on its own NSIS.", "as_of": "2026-07-18", "date_precision": "day", "system": "NSIS BDR module", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "NIRA stated on 18 July 2026 that a BDR module built on OpenCRVS had been developed and integrated with the NSIS, so that a NIN is issued automatically once a birth is notified and certification is immediate; it described death registration as very disconnected from the rest of the system, and gave no count of offices or of births.", "as_of": "2026-07-18", "date_precision": "day", "system": "NSIS BDR module", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "NSIS BDR module", "country_label": "BDR module; crvs.nsis.nira.go.ug", "class": "civil", "platform": "OpenCRVS", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "not stated; the CRVS structure is given as NIRA, then Chief Administrative Officers, Town Clerks and Sub County Chiefs, then health facilities and licensed places of worship"},
+    {"system": "MVRS", "country_label": "MVRS", "class": "civil", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "not stated; said to have held birth and death registration as a standalone system before integration"},
+    {"system": "National Security Information System (NSIS)", "country_label": "NSIS", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "created 2014/15 with national ID and NIN registration"},
+    {"system": "marriage module on NSIS / MRS", "country_label": "MRS", "class": "civil", "platform": "OpenCRVS (planned)", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "marriages only; development and deployment on NSIS listed as a next step"},
+    {"system": "NIN issued automatically at birth notification", "country_label": "CRVS - National ID integration", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "no biometrics for a child of nine months or under"},
+    {"system": "integration of NSIS with UBOS systems for vital statistics", "country_label": "", "class": "exchange", "platform": "", "owner": "NIRA and UBOS", "tiers": "listed as a next step"}
+  ],
+  "note": "For the parent: the presentation lists as next steps, not as done, the deployment of crvs.nsis.nira.go.ug for birth registration with instant NIN generation and push-and-pull between the CRVS modules on NSIS; it says technology in rural areas is problematic to deploy, maintain and use over extended periods, undated and without a figure; and it does not say at which tier the digital record is made."
+}

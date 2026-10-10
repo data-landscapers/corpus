@@ -1,0 +1,11 @@
+{
+  "slug": "2023-09-13-dza-nin-decret-23-316",
+  "facts": [],
+  "systems": [
+    {"system": "Automated system generating the numéro d'identification national unique (NIN)", "country_label": "système automatisé (NIN)", "class": "identity", "platform": "", "owner": "minister in charge of the interior", "tiers": "central; to be in place by 31 December 2023 under decree 23-316; the 18-digit NIN is built from the year, commune or country code, act number and register series of the birth entry, and is carried on civil-status registers and extracts held at communes and consular services"},
+    {"system": "Registre national automatisé d'état civil", "country_label": "registre national automatisé d'état civil", "class": "", "platform": "", "owner": "", "tiers": "named only as a system the national vehicle registration file is linked to (decree 23-317, art. 5)"},
+    {"system": "Link between the national vehicle registration file and the national automated civil-status register", "country_label": "", "class": "exchange", "platform": "", "owner": "minister in charge of the interior", "tiers": "national (decree 23-317, art. 5)"},
+    {"system": "Interoperability link between authorised entities' information systems and the NIN automated system", "country_label": "dispositif d'interopérabilité", "class": "exchange", "platform": "", "owner": "minister in charge of the interior", "tiers": "national; holders of biometric documents are dispensed from presenting papers obtainable through it (decree 23-316, arts. 8 and 9)"}
+  ],
+  "note": "The gazette carries the NIN decree and the vehicle registration file decree; the NIN is derived from the birth entry and written on civil-status registers, but the text says nothing on how the commune office makes the birth or death record."
+}

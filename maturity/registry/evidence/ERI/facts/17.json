@@ -1,0 +1,23 @@
+{
+  "slug": "2024-10-17-eritrea-embassy-national-id",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Eritrean National ID",
+      "country_label": "National ID; Underage ID; Temporary ID",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "applied for from abroad through the embassy in Washington"
+    },
+    {
+      "system": "Consular Affairs Processing System (CAPS)",
+      "country_label": "CAPS",
+      "class": "identity",
+      "platform": "",
+      "owner": "Embassy of the State of Eritrea, Washington DC",
+      "tiers": "embassy; online application, fingerprint appointment and payment for identity cards"
+    }
+  ],
+  "note": "An embassy's identity-card requirements; a birth certificate copy is one of the documents asked for, and nothing concerns how births or deaths are registered."
+}

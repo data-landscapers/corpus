@@ -1,0 +1,34 @@
+{
+  "slug": "2011-03-21-lesotho-national-identity-cards-act-2011",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Section 4(4) and (5) of the National Identity Cards Act, 2011 (gazetted 21 March 2011, commenced 1 July 2013) require the Director responsible for national identity cards, under the Minister, to compile and maintain the register of all births and deaths and of all marriages and divorces, notwithstanding the Registration of Births and Deaths Act, 1973; the Act does not say whether that register is electronic.",
+      "as_of": "2013-07-01",
+      "date_precision": "day",
+      "system": "Register of all births and deaths compiled and maintained by the Director under the National Identity Cards Act, 2011",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Register of all births and deaths compiled and maintained by the Director under the National Identity Cards Act, 2011",
+      "country_label": "register of all births and deaths",
+      "class": "civil",
+      "platform": "",
+      "owner": "Director responsible for national identity cards, under the Minister",
+      "tiers": "not stated; the Act does not say the register is electronic"
+    },
+    {
+      "system": "National Identity Register",
+      "country_label": "the Register",
+      "class": "identity",
+      "platform": "",
+      "owner": "Director responsible for national identity cards, under the Minister",
+      "tiers": "national; citizens and non-citizens holding an indefinite residence permit, children entered on a parent's application; unique National Identity Number per entry; image and fingerprints from age sixteen; a birth certificate accompanies a card application"
+    }
+  ],
+  "note": "Statute only: it fixes who keeps the births and deaths register and is silent on how or where a record is made."
+}

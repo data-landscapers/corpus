@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-02-tun-khadamet-radioexpressfm",
+  "facts": [],
+  "systems": [
+    {"system": "Khadamet (خدمات)", "country_label": "تطبيقة خدمات", "class": "certificate", "platform": "mobile application (Google Play; App Store and web to follow)", "owner": "Ministry of Communication Technologies", "tiers": "citizens, by mobile phone"},
+    {"system": "الهوية الرقمية (digital identity)", "country_label": "الهوية الرقمية", "class": "identity", "platform": "", "owner": "", "tiers": "used to sign in to Khadamet"}
+  ],
+  "note": "A citizen service application through which civil status extracts are obtained and translations requested; a certificate channel, with nothing on how an office registers an event."
+}

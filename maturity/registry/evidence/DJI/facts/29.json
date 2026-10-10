@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "Direction Générale de la Population et de la Famille, with ANSIE", "tiers": "national: computerised, centralised, biometric register of persons present on the national territory, native or foreign, under Law 39/AN/19 of 21 January 2019"},
+    {"system": "Numéro National d'Identification", "country_label": "Numéro National d'Identification (NNI)", "class": "identity", "platform": "", "owner": "Direction Générale de la Population et de la Famille", "tiers": "national: attributed from birth to every person entered in a civil-status register, including registers kept by diplomatic and consular missions, and to regularly resident foreigners"},
+    {"system": "Plateforme d'interopérabilité", "country_label": "plateforme d'interopérabilité", "class": "exchange", "platform": "", "owner": "ANSIE, with the DGPF", "tiers": "being set up so that public and private institutions can use the national register"}
+  ],
+  "note": "Describes the identity register and number; the civil-status register is named only as what entitles a person to an NNI, with nothing on how offices register events."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-06-ken-kenyans-e-notification-birth-registration-sha-hospitals",
+  "facts": [],
+  "systems": [
+    {"system": "E-notification", "country_label": "electronic birth notification (e-notification)", "class": "notification", "platform": "", "owner": "State Department for Immigration and Citizen Services, Ministry of Interior", "tiers": "health facilities; to be extended to all SHA-contracted hospitals by December 2026"},
+    {"system": "Unique Personal Identifier", "country_label": "UPI", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "issued to newborns notified electronically; student records being moved onto it with the Ministry of Education"},
+    {"system": "civil registration system integration with hospital management systems", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Interior with Ministry of Health", "tiers": "SHA-contracted hospitals, planned"}
+  ],
+  "note": "The document describes a health-facility birth notification system and its planned extension, a notification-class system; it states nothing about how or where the civil registration office makes the record."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-22-governo-sistema-integrado-gestao-tributaria",
+  "facts": [],
+  "systems": [
+    {"system": "interoperability platform between the identity card, NUIT, birth registration and other public databases", "country_label": "plataforma de interoperabilidade", "class": "exchange", "platform": "", "owner": "Government (stated by the Finance Minister, 22 July 2026)", "tiers": "being created; no operating link stated"},
+    {"system": "Registo de Nascimento (system named, not described)", "country_label": "Registo de Nascimento", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Bilhete de Identidade system (named, not described)", "country_label": "Bilhete de Identidade", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A tax-administration speech; birth registration appears only as one database a planned interoperability platform would link, so no fact."
+}

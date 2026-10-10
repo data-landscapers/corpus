@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-01-newvision-uganda-nira-register-36m",
+  "facts": [],
+  "systems": [
+    {"system": "national register", "country_label": "the register", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "NIRA verification API", "country_label": "application programming interface (API)", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "exposed to 109 institutions in April 2026"}
+  ],
+  "note": "Gives NIRA's annual workload as about 1.5 million births and 300,000 deaths to record (27 August 2026) and 36.15 million people on the register; names no civil registration system and does not say how or where births and deaths are recorded."
+}

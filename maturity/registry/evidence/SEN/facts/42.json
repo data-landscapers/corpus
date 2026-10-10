@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's Senegal registry row states that rural registry offices and village auxiliaries predominantly record on paper, village chiefs holding notebooks for vital events, and that paper remains the default at the rural point of service outside isolated pilots; undated in the row, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural registry offices (paper registers)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "local", "fact": "The essay's Senegal registry row states that more than 100 centres are computerised with local servers for data entry and backup, citing a UNECA CRVS snapshot; undated in the row, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "computerised civil-status centres (local servers)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:100", "fact": "The essay's Senegal registry row gives more than 100 centres computerised out of 587 in total, some of them rural, citing a UNECA CRVS snapshot; undated in the row, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "computerised civil-status centres (local servers)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "computerised civil-status centres (local servers)", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "more than 100 of 587 centres, some rural"},
+    {"system": "RAPIDPRO mobile app for birth capture", "country_label": "", "class": "", "platform": "RapidPro", "owner": "", "tiers": "pilot in the Kolda region"},
+    {"system": "digitising of historical records", "country_label": "", "class": "archive", "platform": "", "owner": "", "tiers": "more than 20 million historical records"},
+    {"system": "new digital platform and mobile app (2025)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "launched 2025; legislation to enable full digital processes pending"}
+  ],
+  "note": "study.json lists this source under exclude_sources (an AI-assisted compilation by its own header); the facts are recorded as the document states them and are for the parent to exclude from profiles. Only the Senegal registry row bears on the study; the clinic, school and police rows are outside it."
+}

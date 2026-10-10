@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-24-npc-launches-vitalreg-digital-registration-platform",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The National Population Commission launched VitalReg as a nationwide digital registration system for births and deaths under its electronic civil registration and vital statistics initiative, operational from 1 July 2026, on the account of its federal commissioner for Anambra.", "as_of": "2026-07-01", "date_precision": "day", "system": "VitalReg", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "VitalReg became operational across all 36 states and the Federal Capital Territory on 1 July 2026, replacing paper-based registration, according to the National Population Commission's federal commissioner and state director in Anambra.", "as_of": "2026-07-01", "date_precision": "day", "system": "VitalReg", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The Commission's federal commissioner for Anambra describes VitalReg as an online platform with 24-hour access, digital certificate issuance and a secure national civil registration database, to which registration moves from paper; he does not describe the entry at a centre.", "as_of": "2026-07-01", "date_precision": "day", "system": "VitalReg", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:4011", "fact": "The National Population Commission says it operates 4,011 registration centres across the 774 local government areas, 131 of them in Anambra's 21, and plans about 8,000; the document says the platform is operational in every state but not how many of the centres enter on it. Undated, so the publication date is used.", "as_of": "2026-07-24", "date_precision": "day", "system": "VitalReg", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The National Population Commission launched VitalReg and runs the registration centres, working with ALGON, NIMC, UNICEF and Barnksforte Technologies Ltd., on its federal commissioner's account of 1 July 2026's rollout.", "as_of": "2026-07-01", "date_precision": "day", "system": "VitalReg", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:vendor", "fact": "The Commission's federal commissioner for Anambra says the platform is operated under a public-private partnership with Barnksforte Technologies Ltd., for system reliability, cybersecurity and continuing upgrades; undated, so the publication date is used.", "as_of": "2026-07-24", "date_precision": "day", "system": "VitalReg", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "VitalReg", "country_label": "VitalReg; E-CRVS", "class": "civil", "platform": "VitalReg", "owner": "National Population Commission (NPC); operated under a public-private partnership with Barnksforte Technologies Ltd.", "tiers": "all 36 states and the Federal Capital Territory; 4,011 NPC registration centres across 774 local government areas, about 8,000 planned"}
+  ],
+  "note": ""
+}

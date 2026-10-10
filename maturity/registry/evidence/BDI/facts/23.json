@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-16-mininter-vers-une-solution-numerique-innovante-production-gestion-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme numérique DHIS2 du ministère de l'Intérieur", "country_label": "plateforme numérique DHIS2", "class": "", "platform": "DHIS2", "owner": "Ministère de l'Intérieur, du Développement Communautaire et de la Sécurité Publique (direction des statistiques), with UNICEF, UNFPA and UNDP named as partners", "tiers": "under development as presented on 12 March 2026; to collect statistical data from the communes up to central level, civil status among the domains; pilot phase announced for May 2026 in some regions before national extension"}
+  ],
+  "note": "The platform is described as collecting the ministry's statistics, civil status among several domains, not as registering births or deaths; it fits none of the typology's classes as described, so it is left unclassified and gives no fact."
+}

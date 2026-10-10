@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-tunisie-cni-interoperability-solutions",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National interoperability platform",
+      "country_label": "Interoperability of Information Systems",
+      "class": "exchange",
+      "platform": "X-Road",
+      "owner": "Centre National de l'Informatique (CNI)",
+      "tiers": "national; pilot service 'Notification of death' supplies the Ministry of Social Affairs from the civil registry database, for beneficiaries of the needy families programme and of discounted health cards"
+    },
+    {
+      "system": "Civil Registry Data Base",
+      "country_label": "Civil Registry Data Base",
+      "class": "",
+      "platform": "",
+      "owner": "Centre National de l'Informatique (CNI)",
+      "tiers": "named only as the provider of the death-notification pilot service"
+    }
+  ],
+  "note": "An undated project page (published date a proxy) on the exchange platform; the civil registry database is named as a data provider with nothing on how or where its records are made."
+}

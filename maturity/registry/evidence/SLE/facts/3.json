@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-18-sle-calabash-ncra-identity-day-inmates",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number registration and National ID card", "country_label": "NIN registration; National ID card", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Biometric enrolment of 100 inmates at Sierra Leone Correctional Service headquarters, Freetown, 17 September 2026"},
+    {"system": "NCRA mobile registration teams", "country_label": "mobile registration teams", "class": "outreach", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Deployed to underserved communities, alongside decentralised NCRA services, for civil registration and national identification"},
+    {"system": "National Inmates Identity Management System", "country_label": "National Inmates Identity Management System", "class": "identity", "platform": "", "owner": "Sierra Leone Correctional Service", "tiers": "Piloted in correctional centres in 2018 and 2020"}
+  ],
+  "note": "An identity enrolment drive for inmates; nothing on how a birth or death is recorded at a registration office."
+}

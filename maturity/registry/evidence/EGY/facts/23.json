@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-19-ahram-pm-presidential-directives-digital-transformation",
+  "facts": [],
+  "systems": [
+    {"system": "Digital identity application", "country_label": "تطبيق الهوية الرقمية", "class": "identity", "platform": "second release adds biometric and liveness verification", "owner": "Ministry of Communications and Information Technology", "tiers": "national"},
+    {"system": "Government digital switch", "country_label": "المحول الرقمي الحكومي", "class": "exchange", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "105 government bodies connected; 100 national databases linked"},
+    {"system": "Digital Egypt platform", "country_label": "منصة مصر الرقمية", "class": "", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "national; 242 digital services"},
+    {"system": "Mobile and automated service centres", "country_label": "مراكز الخدمات المتنقلة والمميكنة", "class": "", "platform": "", "owner": "Ministry of Planning and Economic Development", "tiers": "governorates; being expanded"}
+  ],
+  "note": "Cabinet review of digital transformation; civil services are named only as a priority sector and nothing is stated about registering births or deaths."
+}

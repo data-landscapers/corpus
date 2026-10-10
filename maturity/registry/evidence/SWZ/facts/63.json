@@ -1,0 +1,8 @@
+{
+  "slug": "1998-11-24-eswatini-identification-order-1998",
+  "facts": [],
+  "systems": [
+    {"system": "population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Registrar General", "tiers": "national; compiled from documents available to the Registrar, holding for each resident a birth entry number and identity number, the particulars given at notice of birth and of death, and from age 16 a photograph and fingerprints"}
+  ],
+  "note": "The 1998 Order founding the population register, identity numbers and identity documents: a legal text on identity enrolment that takes the particulars of birth and death notices into the register but does not say how or where a birth or death is recorded; no civil-class fact."
+}

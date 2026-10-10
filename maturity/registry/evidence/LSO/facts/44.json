@@ -1,0 +1,90 @@
+{
+  "slug": "2022-05-01-worldbank-lesotho-national-id-service-delivery",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank note states that the Department of National Identity and Civil Registry (NICR) in the Ministry of Home Affairs administers civil registration and identification as one integrated system, registering births and deaths and issuing the certificates; the note gives no date for this, so its publication date of May 2022 is used.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "NICR national ID and civil registration system (NID system)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The World Bank note states that 15 enrolment centres across Maseru and each of the 10 districts allow for birth registration and national ID enrolment, linked to a central server; undated in the note, so its publication date of May 2022 is used.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "NICR national ID and civil registration system (NID system)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "D",
+      "fact": "The World Bank note states that the one system brings together civil registration, identification and passport data, that the NID system draws on birth and death registration data and that the lifetime ID number is printed on the death certificate; it does not say where a death is entered, and is undated on this point, so its publication date of May 2022 is used.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "NICR national ID and civil registration system (NID system)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The World Bank note states that all 15 enrolment centres that allow for birth registration have internet connectivity and are linked to a central server in a dedicated data centre, with front-end civil registry and NID processes sharing a closely linked back-end database; undated in the note, so its publication date of May 2022 is used.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "NICR national ID and civil registration system (NID system)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:15",
+      "fact": "The World Bank note counts 15 enrolment centres, across Maseru and each of Lesotho's 10 districts, that allow for birth registration and NID enrolment, all connected to a central server, plus about fifteen mobile registration units serving remote areas periodically; it gives no total of local registration offices, and no date, so its publication date of May 2022 is used.",
+      "as_of": "2022-05",
+      "date_precision": "month",
+      "system": "NICR national ID and civil registration system (NID system)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NICR national ID and civil registration system (NID system)",
+      "country_label": "NID system; national identity register (NIR); population register",
+      "class": "civil",
+      "platform": "",
+      "owner": "Department of National Identity and Civil Registry (NICR), Ministry of Home Affairs",
+      "tiers": "15 enrolment centres across Maseru and the 10 districts, all online to a central server in a dedicated data centre; one system for civil registration, biometric identification from age 16 and passport data, linked by a unique lifetime ID number printed on birth certificate, ID card, passport and death certificate; implementation began July 2013"
+    },
+    {
+      "system": "National ID (NID) biometric enrolment",
+      "country_label": "NID",
+      "class": "identity",
+      "platform": "",
+      "owner": "NICR, Ministry of Home Affairs",
+      "tiers": "same 15 enrolment centres; ten fingerprints and a portrait from age 16; covers an estimated 85 percent of the eligible population"
+    },
+    {
+      "system": "Mobile registration units",
+      "country_label": "mobile registration units",
+      "class": "outreach",
+      "platform": "laptop and registration equipment in a watertight suitcase",
+      "owner": "NICR, Ministry of Home Affairs",
+      "tiers": "about fifteen units, used to serve remote areas on a periodic basis"
+    },
+    {
+      "system": "NICR identity verification API",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "API developed by the NICR system's software solution provider (unnamed)",
+      "owner": "NICR, Ministry of Home Affairs",
+      "tiers": "connections tested by the Ministry of Public Service, Ministry of Finance, financial institutions and the South African Department of Home Affairs; an interface with the Old Age Pension MIS removes deceased pensioners from the payee list"
+    }
+  ],
+  "note": "The capture is an excerpt, truncated mid-document in section 3.1. The note also gives coverage figures that are not aspects of this study: 44.5 percent of under-fives with a registered birth (2018) and a death registration rate of 38 percent (2019 comprehensive CRVS assessment, Ministry of Home Affairs data)."
+}

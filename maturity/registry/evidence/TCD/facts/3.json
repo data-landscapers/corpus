@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-24-tchad-ndjamena-numerisation-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The N'Djamena town hall cites the volume of archives, the still heavy recourse to physical procedures and the risk of loss or deterioration of documents in its civil-status service at the launch of the digitisation project.", "as_of": "2026-09-23", "date_precision": "day", "system": "État civil de la commune de N'Djamena", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The commune of N'Djamena launched a project on 23 September 2026 to digitise its civil status and signed a memorandum with ANATS; an integrated management platform, digital solutions and interconnection of systems are planned, none reported in service.", "as_of": "2026-09-23", "date_precision": "day", "system": "État civil de la commune de N'Djamena", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The project is the commune of N'Djamena's, under a memorandum with the state agency ANATS, supported by the OIF.", "as_of": "2026-09-23", "date_precision": "day", "system": "État civil de la commune de N'Djamena", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "État civil de la commune de N'Djamena", "country_label": "état civil de la commune de la ville de N'Djamena", "class": "civil", "platform": "", "owner": "Commune de N'Djamena", "tiers": "N'Djamena commune"},
+    {"system": "Numérisation et sauvegarde des registres existants (projet OIF)", "country_label": "numérisation de l'état civil", "class": "archive", "platform": "", "owner": "Commune de N'Djamena with ANATS; OIF support", "tiers": "N'Djamena commune (planned)"},
+    {"system": "Plateforme intégrée de gestion (planned)", "country_label": "plateforme intégrée de gestion", "class": "", "platform": "", "owner": "Commune de N'Djamena", "tiers": "N'Djamena commune (planned)"},
+    {"system": "SIGPTS", "country_label": "Système intégré de gestion des populations et des titres sécurisés", "class": "identity", "platform": "", "owner": "ANATS", "tiers": "national; assigns the Numéro national d'identification unique after enrolment and deduplication"},
+    {"system": "Rapprochement of the town hall's systems with SIGPTS (planned)", "country_label": "", "class": "exchange", "platform": "", "owner": "ANATS and Commune de N'Djamena", "tiers": "N'Djamena commune (planned)"},
+    {"system": "OIF regularisation project", "country_label": "", "class": "outreach", "platform": "", "owner": "OIF-supported", "tiers": "Tandjilé and Ennedi Est provinces, 2024 and 2025; 53,000 children regularised"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2024-02-21-zaf-2024-vote-5-dha-transversal-it",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "The National Treasury's Estimates of National Expenditure 2024, tabled 21 February 2024, name R15 million for the automation of birth registration in 41 health facilities in 2024/25, within the Home Affairs vote's Transversal Information Technology Management subprogramme (R1,190.1 million appropriated, revised to R1,110.6 million on 30 October 2024).", "as_of": "2024-02-21", "date_precision": "day", "system": "automation of birth registration", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Estimates of National Expenditure 2024 place the automation of birth registration in 41 health facilities under Vote 5, Home Affairs, as a component of the department's own information technology subprogramme for 2024/25.", "as_of": "2024-02-21", "date_precision": "day", "system": "automation of birth registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "automation of birth registration", "country_label": "automation of birth registration in health facilities", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "41 health facilities budgeted for 2024/25"},
+    {"system": "interactive self-service kiosks", "country_label": "interactive self-service kiosks for smart ID and passport applications", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "250 non-modernised offices budgeted for 2024/25, R60 million"},
+    {"system": "smart ID and passport application rollout", "country_label": "smart-ID/passport application rollout", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "5 further front offices budgeted for 2024/25, R15 million"}
+  ],
+  "note": "A budget-line record built from the Estimates of National Expenditure 2024 and the 2024 adjusted estimates, an excerpt; the amounts are appropriations, and the record holds no outturn. It does not say what the automation does beyond its name and place."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2000-12-30-loi-17-2000-regime-propriete-fonciere-congo",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre de la propriété foncière (livre foncier)",
+      "country_label": "registre des titres fonciers dit livre foncier",
+      "class": "land",
+      "platform": "",
+      "owner": "Conservation des Hypothèques et de la Propriété Foncière, Direction Générale des Impôts",
+      "tiers": "Kept by the conservateur as registers and card files; no tier or digital form stated"
+    }
+  ],
+  "note": "The land-tenure law of 30 December 2000: 'état civil' appears only as the civil status of a person named in a land registration request or deed. A land register, out of scope; nothing on civil registration."
+}

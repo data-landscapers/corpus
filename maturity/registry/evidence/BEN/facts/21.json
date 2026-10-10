@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-21-benin-programme-wadagni-talata-2026-2033",
+  "facts": [],
+  "systems": [
+    {"system": "Interconnection of state databases (civil status, tax, trade register, land)", "country_label": "principe du « dites-le-nous une fois »", "class": "exchange", "platform": "", "owner": "", "tiers": "a campaign commitment of 21 March 2026; no budget, sequence or implementing agency stated"},
+    {"system": "Registre National des Personnes Physiques", "country_label": "Registre National des Personnes Physiques", "class": "identity", "platform": "", "owner": "", "tiers": "named as a base the planned national household register would be linked to"},
+    {"system": "Digital cadastre", "country_label": "cadastre numérique", "class": "land", "platform": "", "owner": "", "tiers": "promised extension to all towns and rural areas"}
+  ],
+  "note": "An election programme; civil status appears only as one of the databases to be interconnected, with nothing on how births or deaths are registered."
+}

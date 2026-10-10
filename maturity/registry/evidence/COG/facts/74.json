@@ -1,0 +1,23 @@
+{
+  "slug": "2019-07-04-jo-2019-27-decret-2019-150-strategie-nationale-economie-numerique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre social unique",
+      "country_label": "registre social unique",
+      "class": "land",
+      "platform": "Centralised web platform, as the decree describes it; software not named",
+      "owner": "Ministère des affaires sociales et de l'action humanitaire (unité technique de gestion attached to the minister's cabinet)",
+      "tiers": "National, centralised; households registered by the social service"
+    },
+    {
+      "system": "Registre national d'identification civile",
+      "country_label": "registre national d'identification civile",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Gazette of 4 July 2019. The Congo Digital 2025 strategy (Décret 2019-150) names no civil registration system and says nothing on the état civil. Décret 2019-134 creates the registre social unique, a social-protection registry of poor households (out of scope, classed with the other registers), which may hold data from the registre d'état civil or the registre national d'identification civile 'si nécessaire'; the latter is named without description. Three name-change arrêtés of 19 June 2019 order transcription in the margin of the civil-status registers of Ouenzé and Pointe-Noire, which states nothing on how those registers are kept."
+}

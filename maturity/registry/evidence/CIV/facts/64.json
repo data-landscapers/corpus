@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-01-gulf-of-guinea-jrp-2024-cote-divoire-report",
+  "facts": [],
+  "systems": [
+    {"system": "RNPP", "country_label": "National Register of Physical Persons (RNPP)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national; enrolment of asylum-seekers approved, to be implemented in 2025"},
+    {"system": "DAARA refugee registration", "country_label": "registration of asylum-seekers by DAARA", "class": "identity", "platform": "", "owner": "DAARA (Direction d'Aide et d'Assistance aux Réfugiés et Apatrides), with UNHCR", "tiers": "northern regions; 29,233 individuals registered in 2024"}
+  ],
+  "note": "A UNHCR response plan report: refugee registration and planned enrolment in the population register (class identity); 181 asylum-seeking children were helped to obtain birth certificate extracts and 5,014 people assisted with civil status documents in 2024, with nothing on how offices record events."
+}

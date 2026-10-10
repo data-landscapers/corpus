@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-10-botswana-doubles-down-on-digital-transformation-2026-budget",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Identification System", "country_label": "National Digital Identification System", "class": "identity", "platform": "", "owner": "Government of Botswana", "tiers": "planned; acceleration announced in the 2026/27 budget"},
+    {"system": "1Gov1Citizen", "country_label": "1Gov1Citizen integrated e-services platform", "class": "", "platform": "", "owner": "Government of Botswana", "tiers": "52 public services online and 179 more in final integration testing; no civil registration service is named"}
+  ],
+  "note": "A report of the 2026/27 budget speech on connectivity, the e-services portal, digital ID, e-procurement and health data; nothing on the registration of births or deaths."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-cmr-minddevel-plan-strategique-esec-2025-2029",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The 2025-2029 strategic plan for modernising civil registration and vital statistics is costed at 101.683 billion FCFA, with 63% for axis 3 (computerisation and interoperability) and 60,425 million FCFA for fully computerising the system; the plan carries no date, so the publisher's year label is used.", "as_of": "2024", "date_precision": "year", "system": "Système ESEC", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The plan's technical lead is the Bureau National de l'État Civil (BUNEC) under the supervision of the decentralisation ministry MINDDEVEL, whose minister signs the preface; undated, so the publisher's year label is used.", "as_of": "2024", "date_precision": "year", "system": "Système ESEC", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The plan's baseline states that manual registration and weak interconnection of civil registration systems make systematic, reliable and exhaustive vital statistics impossible; undated, so the publisher's year label is used.", "as_of": "2024", "date_precision": "year", "system": "Système ESEC", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système ESEC", "country_label": "Système d'enregistrement des faits d'état civil et de production des statistiques d'état civil (ESEC)", "class": "civil", "platform": "", "owner": "BUNEC, under MINDDEVEL; registration by the communes", "tiers": "national system; registration described as manual"}
+  ],
+  "note": "The page is a structured extract of a 136-page plan, not its full text."
+}

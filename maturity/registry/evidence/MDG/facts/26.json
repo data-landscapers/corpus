@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-16-etat-civil-enrolement-biometrique-national-lexpress",
+  "facts": [],
+  "systems": [
+    {"system": "enrôlement biométrique", "country_label": "enrôlement biométrique, under the Réforme de l'état civil et de l'identité (RECI)", "class": "identity", "platform": "", "owner": "ministère de l'Intérieur et de la Décentralisation, with a steering committee (COPIL)", "tiers": "pilot phase completed in Atsimondrano; the COPIL validated the proof of concept and the national deployment of 2,500 kits in March 2026"}
+  ],
+  "note": "Identity enrolment only, though filed under état civil; no civil registration system is described."
+}

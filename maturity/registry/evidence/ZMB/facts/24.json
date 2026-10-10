@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The Ministry of Home Affairs and Internal Security's public relations officer says about 1.3 million citizens have been enrolled on INRIS and over 500,000 births and deaths have been registered, with no period or denominator given.", "as_of": "2025-12-28", "date_precision": "day", "system": "National Registration Information System (INRIS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Home Affairs and Internal Security speaks for INRIS and for the civil registration and identity management reforms as the government's own, saying that under the previous administration implementation was manual, fragmented and underfunded, with no dedicated funding for birth and death registration in 2019 and 2020.", "as_of": "2025-12-28", "date_precision": "day", "system": "National Registration Information System (INRIS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Registration Information System (INRIS)", "country_label": "INRIS", "class": "civil", "platform": "", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "not stated; 1.3 million citizens enrolled, over 500,000 births and deaths registered"},
+    {"system": "INRIS API Manager: end-to-end automation of birth and death notifications", "country_label": "INRIS API Manager", "class": "notification", "platform": "", "owner": "Ministry of Home Affairs and Internal Security, with support from Cooperating Partners", "tiers": "being implemented; to update population records in real time"},
+    {"system": "Biometric National Registration Cards", "country_label": "NRC", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "smart card printers and blank cards being procured; issuance after the 2026 General Elections"}
+  ],
+  "note": "The document does not say where or how births and deaths are entered, nor how many offices use INRIS. Cooperating Partners' support is stated for the notification automation, not for the registration system's running costs, so no finance fact is recorded."
+}

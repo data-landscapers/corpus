@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement",
+  "facts": [],
+  "systems": [
+    {"system": "Carte nationale d'identité biométrique de l'Alliance des États du Sahel (CNIB AES)", "country_label": "CNIB AES", "class": "identity", "platform": "", "owner": "Police nationale", "tiers": "biometrics collected at the regional police headquarters in Agadez and sent digitally to central production in Niamey"}
+  ],
+  "note": "An identity-card enrolment launch at a police headquarters. A birth certificate or supplementary judgment is a required supporting document; nothing is said of how civil-status offices register."
+}

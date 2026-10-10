@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-odpic-registre-commerce-societes",
+  "facts": [],
+  "systems": [
+    {"system": "Registre de Commerce et des Sociétés", "country_label": "Registre de Commerce et des Sociétés (RCS)", "class": "land", "platform": "", "owner": "Office Djiboutien de la Propriété Industrielle et Commerciale (ODPIC)", "tiers": "national business register; the page does not say whether it is electronic"}
+  ],
+  "note": "A presentation of the business register, which the typology puts out of scope; nothing on civil registration."
+}

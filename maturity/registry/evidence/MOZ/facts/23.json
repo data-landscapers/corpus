@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31-government-launches-free-birth-registration-clubofmozambique",
+  "facts": [],
+  "systems": [
+    {"system": "Free Birth Registration campaign", "country_label": "Free Birth Registration campaign", "class": "outreach", "platform": "", "owner": "Ministry of Justice, with Ministry of the Interior agents issuing identity cards; costs funded by the World Bank-funded EDGE project", "tiers": "up to 500 mobile brigades in districts, administrative posts and localities, 23 March to 31 December 2026; about 7 million people targeted at 25,000 a day"},
+    {"system": "identity card issuance", "country_label": "Identity Cards", "class": "identity", "platform": "", "owner": "Ministry of the Interior", "tiers": "issued by the same brigades alongside birth registration"}
+  ],
+  "note": "A registration campaign by mobile brigades fielded for the campaign, with free registration at civil registry offices; nothing on how the record is made, digital or paper, so no fact."
+}

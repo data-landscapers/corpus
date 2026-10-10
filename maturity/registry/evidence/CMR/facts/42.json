@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-27 Digital Transformation of Civil Registration in Cameroon - e-Governance innovations (Law 2024-016)",
+  "facts": [],
+  "systems": [
+    {"system": "national civil status database and electronic declaration under Law 2024/016", "country_label": "electronic declaration of civil-status acts; national database; electronic certificates", "class": "civil", "platform": "", "owner": "", "tiers": "provided for in the 2024 law; barriers named: insufficient equipment, limited internet access, low digital literacy"}
+  ],
+  "note": "The held text is a two-paragraph summary of a peer-reviewed article on what the 2024 law provides (electronic declaration, a national database, electronic certificates) and the barriers to it; it states nothing about what offices do or how many, so it gives no fact."
+}

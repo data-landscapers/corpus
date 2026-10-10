@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-09 Home affairs to introduce electronic IDs to curb identity fraud",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic identity card (e-ID)", "country_label": "e-ID; electronic identity cards", "class": "identity", "platform": "smart card with a contactless microchip holding biometric and demographic data", "owner": "Ministry of Home Affairs, Immigration, Safety and Security, in collaboration with UNDP", "tiers": "launch planned by July 2026; mobile-enabled verification and outreach teams for rural communities"}
+  ],
+  "note": "About the electronic identity card only; nothing on civil registration."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-28 Madagascar digital ID pilot kicks off, testing infrastructure ahead of nationwide rollout",
+  "facts": [],
+  "systems": [
+    {"system": "national digital ID system", "country_label": "", "class": "identity", "platform": "IriTech IriAegis-BK iris scanner as official hardware; face, iris and fingerprint capture", "owner": "Government of Madagascar under the World Bank-funded PRODIGY; integration with ministries through the national interoperability system overseen by the Digital Governance Unit", "tiers": "pilot from 27 January 2026, mainly in the district of Antsimondrano; national rollout expected from April 2026, more than 12 million citizens targeted"}
+  ],
+  "note": "Identity enrolment pilot only; no civil registration system is described."
+}

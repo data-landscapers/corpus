@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-10 Cameroon - First digital birth certificate in the North-West and South-West regions (UNDP)",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 7 January 2026 a birth certificate collected at Limbe I Council became the first civil certificate issued through a fully digitalised civil registration system in the North-West and South-West regions, per UNDP Cameroon.", "as_of": "2026-01-07", "date_precision": "day", "system": "digitalised civil registration system (UNDP project councils)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The first certificate issued through the digitalised system at Limbe I Council on 7 January 2026 was a birth certificate, per UNDP Cameroon.", "as_of": "2026-01-07", "date_precision": "day", "system": "digitalised civil registration system (UNDP project councils)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:10", "fact": "UNDP Cameroon's project covers ten municipalities: Maroua III, Koza, Mindif, Meri, Mora, Limbe I, Buea, Tiko, Bamenda III and Bamenda City Council; the document says only Limbe I had issued a certificate by 7 January 2026 in the two anglophone regions, and gives no national total.", "as_of": "2026-01-07", "date_precision": "day", "system": "digitalised civil registration system (UNDP project councils)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The ten municipalities are covered by UNDP Cameroon's Denmark-funded project 'Contributing to Social Cohesion Efforts in the Far-North, North-West and South-West Regions'.", "as_of": "2026-01-07", "date_precision": "day", "system": "digitalised civil registration system (UNDP project councils)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitalised civil registration system (UNDP project councils)", "country_label": "fully digitalised civil-registration system", "class": "civil", "platform": "", "owner": "UNDP Cameroon project, under the BUNEC-led reform", "tiers": "ten municipalities in the Far North, North-West and South-West; first certificate at Limbe I on 7 January 2026"}
+  ],
+  "note": "The held text is a two-paragraph summary of the UNDP story, not its full body."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-18-niger-begins-operational-rollout-of-aes-biometric-passport",
+  "facts": [],
+  "systems": [
+    {"system": "AES biometric passport", "country_label": "AES biometric passport", "class": "identity", "platform": "", "owner": "Ministry of the Interior; identity infrastructure contract held by Libyan firm Al Itissan Al-Jadeed", "tiers": "enrolment in Niamey only from 15 September 2026; centres planned in the regions and abroad"},
+    {"system": "new generation biometric national ID", "country_label": "biometric national ID", "class": "identity", "platform": "", "owner": "Government of Niger", "tiers": "not stated; launched March 2026"}
+  ],
+  "note": "A passport enrolment launch. The civil registry appears only in a general phrase about modernising 'civil registry and identity verification systems'; no civil registration system or office is described."
+}

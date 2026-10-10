@@ -1,0 +1,15 @@
+{
+  "slug": "2023-12-11-burundi-carte-identite-biometrique-mininter",
+  "facts": [],
+  "systems": [
+    {
+      "system": "carte d'identité biométrique",
+      "country_label": "carte d'identité biométrique à identifiant unique",
+      "class": "identity",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, du Développement communautaire et de la Sécurité Publique",
+      "tiers": "print test of specimens at Gitega on 8 December 2023; work to run in 11 pilot communes, then the other communes before the 2025 elections"
+    }
+  ],
+  "note": "The only system described is the biometric identity card (class identity): equipment bought 'in the framework of the digitalisation of civil-status services' was tested by printing specimen cards. Nothing is said of how an office registers a birth or death."
+}

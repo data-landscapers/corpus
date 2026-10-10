@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-19-sao-tome-campanha-nacional-bilhete-de-identidade-gratuito",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Campanha de atribuição gratuita do Bilhete de Identidade",
+      "country_label": "Bilhete de Identidade; campanha de atribuição gratuita",
+      "class": "identity",
+      "platform": "",
+      "owner": "Direção-Geral dos Registos e Notariado, with technical and financial support from the EU-funded PReSE project (Camões)",
+      "tiers": "National campaign, ended 15 March 2026"
+    },
+    {
+      "system": "Recenseamento eleitoral automático e permanente",
+      "country_label": "recenseamento eleitoral automático e permanente; cadernos eleitorais",
+      "class": "land",
+      "platform": "",
+      "owner": "",
+      "tiers": "National"
+    }
+  ],
+  "note": "A free identity-card campaign; the civil register is mentioned only as the data source for the electoral roll, with nothing on how or where a birth or death is registered."
+}

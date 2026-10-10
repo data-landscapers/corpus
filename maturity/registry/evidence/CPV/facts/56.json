@@ -1,0 +1,31 @@
+{
+  "slug": "2022-11-24-cabo-verde-decreto-lei-47-2022-transformacao-digital-administracao-publica",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)",
+      "country_label": "SNIAC",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Listed among the transversal services that public ICT investments must reuse (Decreto-lei 47/2022, art. 4); also named as a service where nationality-process fees are waived (Decreto-lei 48/2022)"
+    },
+    {
+      "system": "Autentika",
+      "country_label": "Plataforma de Autenticação Eletrónica - Autentika",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "Transversal platform for secure authentication of users of digital public services"
+    },
+    {
+      "system": "Porton di nôs Ilha",
+      "country_label": "Portal de Prestação de Serviços integrado do Estado - Porton di nôs Ilha",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "National portal on which all State services and content must be made available"
+    }
+  ],
+  "note": "Decreto-lei 47/2022 governs prior opinion on public ICT purchases and Decreto-lei 48/2022 fee waivers in nationality processes; the conservatórias and the civil registry appear only as services where the waiver applies, and nothing is stated about how a birth or death is recorded. Capture truncated."
+}

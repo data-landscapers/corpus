@@ -1,0 +1,14 @@
+{
+  "slug": "2025-03-19-uganda-national-id-civil-registry-mosip-opencrvs",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The integrator Technoforte says the overhaul of Uganda's civil registration and national identity systems is spearheaded by the National Identification and Registration Authority, with OpenCRVS for civil registration, and implemented by Tahaluf of Abu Dhabi with Technoforte as system integrator; it gives no date, so this is dated to publication.", "as_of": "2025-03-19", "date_precision": "day", "system": "OpenCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "Technoforte states the planned solution will digitise birth, death, adoption, marriage and divorce records, link birth registration to creation of a national ID and automate death records; this is stated as intention, not as a system in use, and is dated to publication.", "as_of": "2025-03-19", "date_precision": "day", "system": "OpenCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Technoforte reports that Uganda has started a project to replace its civil registration and identity systems with OpenCRVS and MOSIP on NIRA's data centre, with health facilities to serve as registration hubs for newborns and offline enrolment centres in remote regions; no start date is given, so this is dated to publication.", "as_of": "2025-03-19", "date_precision": "day", "system": "OpenCRVS", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "OpenCRVS", "country_label": "civil registration system under NIRA's overhaul project", "class": "civil", "platform": "OpenCRVS", "owner": "NIRA; implemented by Tahaluf with Technoforte", "tiers": "planned: NIRA data centre; health facilities as registration hubs; mobile registration units; offline enrolment centres in remote regions"},
+    {"system": "MOSIP national ID platform", "country_label": "national ID management; Unique Identification Numbers", "class": "identity", "platform": "MOSIP, with Tech5 ABIS", "owner": "NIRA; implemented by Tahaluf with Technoforte", "tiers": "target of 50 million citizens enrolled and 30 million legacy records migrated"},
+    {"system": "MOSIP-OpenCRVS interoperability", "country_label": "secure APIs between MOSIP and OpenCRVS, linking birth registration to national ID creation", "class": "exchange", "platform": "MOSIP; OpenCRVS", "owner": "NIRA", "tiers": "planned"}
+  ],
+  "note": "A vendor's announcement of work begun: everything on civil registration is stated as intended, with no office live. The page's own date is a proxy."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-easybusiness-single-window-registry",
+  "facts": [],
+  "systems": [
+    {"system": "Single Window Registry", "country_label": "Single Window Business Registry", "class": "land", "platform": "easybusiness.gov.gm", "owner": "Government of The Gambia", "tiers": "online portal for business registration and trading licences"}
+  ],
+  "note": "Business registration portal; out of the study's scope and nothing on civil registration."
+}

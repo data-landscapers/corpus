@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's Niger registry row states that rural registry offices, which it counts as 11,056 of 11,638 in total, record births and vital events by hand on paper in duplicate forms, one kept locally and one sent up, and that notification and registration remain paper-based nationwide; it gives no date for the statement, so the essay's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper civil registration in rural registry offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The essay states that Niger's digital pilots are 'not electronic point-of-service recording' and that paper is the default in rural offices, with electronic databases only urban (citing UNECA); no date is given for the statement, so the essay's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper civil registration in rural registry offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "NRC/UNICEF digitisation of handwritten birth records", "country_label": "equipping of 81 communes with computers and solar power to digitise 240k existing handwritten records via mobile teams (2024)", "class": "archive", "platform": "", "owner": "NRC and UNICEF", "tiers": "81 communes, given as about 30% of 270"},
+    {"system": "WURI pilot, Filingué", "country_label": "WURI pilot in Filingué (2025), 21k under-fives: digitising existing records and training on paper form-filling", "class": "archive", "platform": "", "owner": "WURI project", "tiers": "Filingué"},
+    {"system": "electronic civil registration databases (urban)", "country_label": "electronic DBs only urban, per UNECA", "class": "", "platform": "", "owner": "", "tiers": "urban only"}
+  ],
+  "note": "study.json lists this source under exclude_sources: an AI-assisted compilation by its own header, not sourced fact. The two facts record what its Niger registry row states and are for the parent to treat under that exclusion. The row also gives 66.5% birth registration completeness (2019)."
+}

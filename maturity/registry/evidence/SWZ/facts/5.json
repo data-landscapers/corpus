@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-swz-network-blackout-home-affairs-eptc",
+  "facts": [],
+  "systems": [
+    {"system": "Ministry of Home Affairs system for national ID card and passport applications (unnamed)", "country_label": "the system", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "Home Affairs headquarters in Mbabane; down in a network blackout on 2026-09-16, when officials said no application or document could be processed without connectivity"}
+  ],
+  "note": "The outage of 2026-09-16 is reported for identity card and passport processing at headquarters; the document does not mention birth or death registration, so no civil-class fact."
+}

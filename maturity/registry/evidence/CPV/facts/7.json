@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-01-oms-cabo-verde-modernizacao-sistema-registo-de-obitos",
+  "facts": [],
+  "systems": [
+    {"system": "Death certification and cause-of-death notification (project 'Melhorar a certificação de óbito e notificação de causas de morte')", "country_label": "certificação de óbito e notificação da causa de morte", "class": "notification", "platform": "", "owner": "Ministério da Saúde, with WHO; financed by Portuguese Cooperation", "tiers": "health delegations (delegacias de saúde) and central health services"},
+    {"system": "DHIS-2", "country_label": "DHIS-2", "class": "", "platform": "DHIS2", "owner": "Ministério da Saúde", "tiers": "not stated; its modernisation is part of the national health information systems strategy the project sits in"},
+    {"system": "Computer equipment for death registration and certification (30 desktops, 30 monitors, 1 laptop)", "country_label": "equipamentos informáticos", "class": "enabling", "platform": "", "owner": "Ministério da Saúde (handed over by WHO)", "tiers": "health delegations and central services involved in registering, certifying and analysing causes of death"}
+  ],
+  "note": "A health-ministry death certification project (WHO, about July 2026; page undated, published inferred to the month): 30 desktops handed to health delegations, and the certification process revised with health, civil registry and statistics sectors. It states nothing on how the civil registry office records a death, so no fact for the civil class."
+}

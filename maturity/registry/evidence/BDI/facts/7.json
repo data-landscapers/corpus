@@ -1,0 +1,17 @@
+{
+  "slug": "2026-08-11-rtnb-le-burundi-accelere-la-modernisation-de-letat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The director general for territorial administration, Valentin Nahimana, said Burundi has digitalised civil registration in pilot communes and decentralised it down to the zones.", "as_of": "2026-08-10", "date_precision": "day", "system": "digitalisation de l'état civil (système d'enregistrement biométrique)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:13", "fact": "Thirteen communes already have a 'biometric registration system', stated in connection with UNICEF's support and described as a step towards complete digitalisation of civil registration services; no total is given.", "as_of": "2026-08-10", "date_precision": "day", "system": "digitalisation de l'état civil (système d'enregistrement biométrique)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The digitalisation of civil registration in pilot communes is presented by the interior ministry's directorate general for territorial administration as the state's own reform.", "as_of": "2026-08-10", "date_precision": "day", "system": "digitalisation de l'état civil (système d'enregistrement biométrique)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The article says these activities are supported by UNICEF; it states no domestic budget line and no amount.", "as_of": "2026-08-10", "date_precision": "day", "system": "digitalisation de l'état civil (système d'enregistrement biométrique)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On African civil registration day, 10 August 2026, the authorities reported civil registration digitalised in pilot communes, with thirteen communes holding a biometric registration system.", "as_of": "2026-08-10", "date_precision": "day", "system": "digitalisation de l'état civil (système d'enregistrement biométrique)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitalisation de l'état civil (système d'enregistrement biométrique)", "country_label": "système d'enregistrement biométrique", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur, du Développement communautaire et de la Sécurité publique (Direction générale de l'administration du territoire)", "tiers": "pilot communes; 13 communes"},
+    {"system": "interopérabilité entre l'état civil et les services de santé", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "a priority: births and deaths registered in health facilities are to be taken directly into the civil registration system (future tense)"},
+    {"system": "notification through chefs de collines", "country_label": "", "class": "notification", "platform": "", "owner": "", "tiers": "planned, for events at home"},
+    {"system": "système national d'identité numérique", "country_label": "système national d'identité numérique", "class": "identity", "platform": "", "owner": "the State (per the director general for territorial administration)", "tiers": "being set up; unique identification number, fingerprints and facial recognition"}
+  ],
+  "note": "The article does not say which events the thirteen-commune system records or how the record is made; 'support' by UNICEF is the article's word, recorded under finance as the nearest value."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "système de gestion de l'État Civil", "country_label": "système de gestion de l'État Civil", "class": "", "platform": "", "owner": "MSPC/MATD (named as responsible)", "tiers": ""},
+    {"system": "Projet Identité Unique des Personnes (WURI)", "country_label": "Projet WURI (identité numérique)", "class": "identity", "platform": "", "owner": "Primature; MSPC/MATD named as responsible", "tiers": ""},
+    {"system": "référentiel national biométrique des personnes physiques", "country_label": "référentiel national biométrique des personnes physiques", "class": "identity", "platform": "", "owner": "MSPC", "tiers": "planned"},
+    {"system": "Système de E-Justice (casier judiciaire, jugement supplétif)", "country_label": "E-Justice", "class": "", "platform": "", "owner": "MJDH", "tiers": "planned"}
+  ],
+  "note": "No fact: the strategy 'Guinée Digitale 2023-2027' (version 1.2, 11 June 2024) lists initiative 4.1.6, 'improvement and extension of the civil status management system', under MSPC/MATD at USD 1,750 thousand over 6 months, but does not say what the system does, so it is unclassified. If the parent classes it civil from other documents, this is a plan:current and owner:ministry statement dated 2024-06-11."
+}

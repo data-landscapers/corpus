@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-17-cote-divoire-oneci-la-poste-application-maposte-nni-rnpp",
+  "facts": [],
+  "systems": [
+    {"system": "MaPoste", "country_label": "MaPoste", "class": "certificate", "platform": "mobile application", "owner": "La Poste de Côte d'Ivoire with ONECI", "tiers": "national, by smartphone, for holders of a Numéro National d'Identification; online request and tracking of birth and marriage acts, nationality certificate, criminal record and residence certificates, and delivery of the identity card; launched 2026-01-16"},
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national; gives each citizen a biometric-based NNI"}
+  ],
+  "note": "A postal application through which birth and marriage acts can be requested and tracked online: a request channel for copies, not registration. Nothing on how offices register births or deaths."
+}

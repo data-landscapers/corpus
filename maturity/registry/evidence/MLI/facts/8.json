@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-mali-collectivites-digitalisation-paiements-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "dispositif de paiement numérique", "country_label": "paiements digitaux dans les centres d'état civil", "class": "certificate", "platform": "", "owner": "collectivités territoriales, under the Ministère de l'Administration territoriale et de la Décentralisation; Direction nationale de l'état civil runs support and control missions", "tiers": "each centre d'état civil; the meeting of 30 July 2026 was with the communes of Bamako District and the urban commune of Kati"}
+  ],
+  "note": "Concerns digital payment of fees at civil status centres (nearly FCFA 200 million raised for local authorities between July 2024 and May 2026, and a 30-day reporting order of 30 July 2026), not how the centres make the record of a birth or death; no fact for the civil class."
+}

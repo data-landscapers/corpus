@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-business-registration",
+  "facts": [],
+  "systems": [
+    {"system": "Register of businesses", "country_label": "BIPA business registration", "class": "land", "platform": "", "owner": "Business and Intellectual Property Authority (BIPA)", "tiers": "BIPA offices; forms lodged on paper, records held off the premises"}
+  ],
+  "note": "The business register only, which the typology puts out of scope; nothing on civil registration."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2016-12-01-ghana-gheiti-open-data-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Beneficial Ownership register", "country_label": "Beneficial Ownership register", "class": "land", "platform": "", "owner": "Registrar General's Department", "tiers": ""}
+  ],
+  "note": "An extractives open-data policy; the Registrar General is named only for digitising the beneficial ownership register, a business register outside the study's scope, and civil registration is not mentioned."
+}

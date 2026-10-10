@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-30-ben-acte-de-naissance-gratuit-derniere-journee-pour-regulariser",
+  "facts": [],
+  "systems": [
+    {"system": "ANIP BJ application", "country_label": "application ANIP BJ", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "remote request and free download of the birth act, with the number from the birth declaration form or the RAVIP receipt"},
+    {"system": "ANIP services portal", "country_label": "portail de services de l'Agence", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "remote request and download; in person at the nearest ANIP antenna"},
+    {"system": "*151# USSD code", "country_label": "*151#", "class": "certificate", "platform": "USSD", "owner": "ANIP", "tiers": "returns the child's personal identification number (NPI) by SMS, to be taken to an ANIP unit"},
+    {"system": "RAVIP", "country_label": "Recensement administratif à vocation d'identification de la population (RAVIP)", "class": "identity", "platform": "", "owner": "", "tiers": "children enrolled in it who never received their act are covered by the campaign"},
+    {"system": "Free birth-act campaign for under-14s, 16-30 September 2026", "country_label": "opération spéciale de délivrance gratuite des actes de naissance", "class": "outreach", "platform": "", "owner": "ANIP, with UNICEF support", "tiers": "over 32,000 children served by 28 September 2026"}
+  ],
+  "note": "The campaign delivers acts for births already declared and registered; the document does not say how or where those births were recorded."
+}

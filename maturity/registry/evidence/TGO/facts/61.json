@@ -1,0 +1,23 @@
+{
+  "slug": "2022-06-24-togo-loi-2022-010-identification-biometrique-jo",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Base de données centrale (NIU)",
+      "country_label": "base de données centrale; Numéro d'Identification Unique (NIU)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Agence nationale d'identification (ANID), under law 2020-009 as amended by law 2022-010 of 24 June 2022",
+      "tiers": "national central database; enrolment by the agency or registration bodies it designates"
+    },
+    {
+      "system": "Registre social des personnes et des ménages",
+      "country_label": "Registre social des personnes et des ménages",
+      "class": "",
+      "platform": "",
+      "owner": "Agence nationale d'identification (ANID)",
+      "tiers": "national; to be interconnected with administrations' databases"
+    }
+  ],
+  "note": "The amending law on biometric identification: definitions, compulsory use of the NIU and the agency's missions; it does not mention civil registration."
+}

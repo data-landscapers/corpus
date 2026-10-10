@@ -1,0 +1,9 @@
+{
+  "slug": "2020-05-12-decret-loi-2020-17-identifiant-unique-citoyen",
+  "facts": [],
+  "systems": [
+    {"system": "Registre de l'identifiant unique citoyen", "country_label": "Registre de l'identifiant unique citoyen", "class": "identity", "platform": "", "owner": "ministère chargé des affaires locales", "tiers": "instituted 12 May 2020; the identifier is attributed to every Tunisian national entered in the civil status birth register, to nationals born abroad registered with a diplomatic or consular mission, and to naturalised persons"},
+    {"system": "registre des naissances de l'état civil", "country_label": "registre des naissances de l'état civil", "class": "", "platform": "", "owner": "", "tiers": "named as the register whose entries receive the identifier; not described"}
+  ],
+  "note": "The decree-law founding the citizen identifier register, an identity system; it says nothing on how civil status events are registered."
+}

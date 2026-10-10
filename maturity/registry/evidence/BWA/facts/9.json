@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay's country table states that Botswana's rural registry offices are linked to a national online, real-time computerised Births and Deaths Registration System since 2004, allowing electronic entry at the point of service, with some paper kept for certificates or backup (no date for the present state; the essay's 31 March 2026 date is used).", "as_of": "2026-03-31", "date_precision": "day", "system": "Births and Deaths Registration System (BDRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The essay's country table describes the system to which Botswana's registry offices are linked as the Births and Deaths Registration System, registering both events (the essay's 31 March 2026 date is used).", "as_of": "2026-03-31", "date_precision": "day", "system": "Births and Deaths Registration System (BDRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "The essay's country table says a majority of rural registry facilities, across 12 districts and 24 sub-districts, use digital point-of-service entry through the linked system and that 13 or more health facilities have electronic on-site registration, but gives no count of offices entering digitally and no denominator (the essay's 31 March 2026 date is used).", "as_of": "2026-03-31", "date_precision": "day", "system": "Births and Deaths Registration System (BDRS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Births and Deaths Registration System (BDRS)", "country_label": "Births and Deaths Registration System (BDRS)", "class": "civil", "platform": "", "owner": "", "tiers": "registry offices in 12 districts and 24 sub-districts; electronic on-site registration at 13+ health facilities"},
+    {"system": "Mobile registration pilots", "country_label": "", "class": "outreach", "platform": "", "owner": "", "tiers": "pilots in remote rural areas such as Okavango"}
+  ],
+  "note": "The document's own header marks its country figures as an AI-assisted compilation, and study.json lists it under exclude_sources; the facts are recorded as the brief requires and the passages hold only the Botswana rows."
+}

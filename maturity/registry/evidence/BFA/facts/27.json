@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-insd-plan-strategique-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Interoperability protocol and draft convention between the INSD and the DGMEC for access to civil-status data", "country_label": "protocole d'interopérabilité avec la DGMEC", "class": "exchange", "platform": "", "owner": "Institut national de la statistique et de la démographie (INSD) and Direction générale de la modernisation de l'état civil (DGMEC)", "tiers": "national; the convention was still a draft in October 2025"}
+  ],
+  "note": "The statistics institute's plan: civil-status statistics reports on births (2023), divorces (2024) and marriages (2025), and a data-access link with the DGMEC not yet in effect; nothing on how offices record events."
+}

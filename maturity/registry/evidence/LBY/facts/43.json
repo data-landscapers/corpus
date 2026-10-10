@@ -1,0 +1,11 @@
+{
+  "slug": "2018-02-01-presidential-council-decision-130-2018-national-number-competences",
+  "facts": [],
+  "systems": [
+    {"system": "National number issuance (transferred with its technical staff and equipment to the Civil Status Authority, 1 February 2018)", "country_label": "الرقم الوطني; مشروع الرقم الوطني", "class": "identity", "platform": "", "owner": "Civil Status Authority (مصلحة الأحوال المدنية), Ministry of Interior", "tiers": ""},
+    {"system": "National database", "country_label": "قاعدة البيانات الوطنية", "class": "identity", "platform": "", "owner": "General Information Authority, National Database Administration", "tiers": "national"},
+    {"system": "National Data Exchange Network (the existing data network, to be developed)", "country_label": "الشبكة الوطنية لتبادل البيانات", "class": "exchange", "platform": "", "owner": "General Information Authority", "tiers": "national"},
+    {"system": "Electronic personal identity cards and the biometric fingerprint system", "country_label": "البطاقات الشخصية الإلكترونية; نظام البصمة البيومترية", "class": "identity", "platform": "", "owner": "Passports, Nationality and Foreigners' Affairs Authority", "tiers": ""}
+  ],
+  "note": "A decision allocating competences over the national number, the national database and identity cards; it says nothing about how a birth or death is registered or about civil registry offices."
+}

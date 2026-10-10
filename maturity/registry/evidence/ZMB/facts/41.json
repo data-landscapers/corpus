@@ -1,0 +1,10 @@
+{
+  "slug": "2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration",
+  "facts": [],
+  "systems": [
+    {"system": "Digitisation of legacy civil registration records", "country_label": "", "class": "archive", "platform": "Integrated National Registration Information System (INRIS)", "owner": "Department of National Registration, Passport and Citizenship (DNRPC)", "tiers": "nearly 81 percent of legacy civil registration records digitised, per UNDP, September 2024"},
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "INRIS", "class": "identity", "platform": "", "owner": "Department of National Registration, Passport and Citizenship (DNRPC)", "tiers": "1.5 million of 9 million adults enrolled with biometrics; DNRPC staff in over 145 offices across 10 provinces; next phase to add registration points near communities, a unique legal ID number and improved child registration"},
+    {"system": "National Registration Card (NRC)", "country_label": "NRC", "class": "identity", "platform": "paper-based legacy system", "owner": "Department of National Registration, Passport and Citizenship (DNRPC)", "tiers": "over 88 percent (elsewhere 89 percent) of adults aged 16 and older hold one"}
+  ],
+  "note": "The article describes INRIS by back-capture of legacy records and biometric enrolment of adults; improved child registration is a plan for the next phase, and nothing states that an office enters births or deaths digitally."
+}

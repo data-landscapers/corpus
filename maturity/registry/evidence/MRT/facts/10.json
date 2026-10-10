@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-18-etat-civil-parliamentary-id-exclusion-ladepeche",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register", "country_label": "Registre national de la population", "class": "identity", "platform": "", "owner": "Ministry of the Interior", "tiers": "enrolment as a permanent service rather than campaigns; 3.4 million registered in 2019 and more than 5.1 million in June 2026, per the interior minister to the National Assembly; 36,516 registered in under a year under the 2025 reform"},
+    {"system": "local identification-and-statistics commissions", "country_label": "commissions locales d'identification et de statistiques", "class": "identity", "platform": "", "owner": "Ministry of the Interior", "tiers": "238 commissions installed in all communes since end-September 2025"},
+    {"system": "mobile missions", "country_label": "missions mobiles", "class": "outreach", "platform": "", "owner": "Ministry of the Interior", "tiers": "mobile missions and a survey that registered more than 613,000 citizens with enrolment difficulties"}
+  ],
+  "note": "A report of the 18 June 2026 parliamentary debate on enrolment of persons in the biometric population register and exclusion from it; nothing on how or where a birth or death is registered."
+}

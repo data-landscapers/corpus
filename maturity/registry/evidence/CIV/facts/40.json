@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-17-societe-generale-oneci-authentification-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "ONECI online authentication platform", "country_label": "plateforme d'authentification en ligne de l'Oneci", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national; opened to a bank (Société Générale Côte d'Ivoire, agreement signed 11 November 2025)"},
+    {"system": "RNPP", "country_label": "Registre national des personnes physiques (Rnpp)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national"}
+  ],
+  "note": "Identity authentication for a bank against the population register; nothing on civil registration offices."
+}

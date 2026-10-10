@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-27-nrb-2025-2030-strategic-plan-sdg-16.9-biometricupdate",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "Biometric Update reports that the National Registration Bureau's 2025-2030 Strategic Plan, launched in September 2025 and drafted with UNDP's help, sets out how government will modernise its civil registration and national digital ID system and aims to have all births, marriages and deaths registered by 2030, universal civil registration being the first of its six pillars.", "as_of": "2025-09", "date_precision": "month", "system": "civil registration and national digital ID system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Biometric Update reports the Minister of Homeland Security saying at the plan's launch in September 2025 that the National Registration Bureau's mandate is to build and maintain the national registration and identification system, whose civil registration side the Bureau's own plan sets out to modernise.", "as_of": "2025-09", "date_precision": "month", "system": "civil registration and national digital ID system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration and national digital ID system", "country_label": "civil registration", "class": "civil", "platform": "", "owner": "National Registration Bureau (NRB)", "tiers": ""},
+    {"system": "National Registration and Identification System", "country_label": "National Registration and Identification System", "class": "", "platform": "", "owner": "National Registration Bureau (NRB)", "tiers": ""},
+    {"system": "national digital ID system", "country_label": "national digital ID", "class": "identity", "platform": "", "owner": "", "tiers": "rollout intended for 2026; over 12 million citizens already hold a national ID"}
+  ],
+  "note": "The article says nothing on how or where a birth or death is entered, on events registered digitally or on offices; the two facts are governance only."
+}

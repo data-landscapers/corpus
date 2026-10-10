@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-19-arch-assurance-maladie-communes",
+  "facts": [],
+  "systems": [
+    {"system": "carte d'identité nationale biométrique", "country_label": "carte d'identité nationale biométrique", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "21,800 cards distributed to ARCH health-insurance beneficiaries; 21 communes covered by the insurance"}
+  ],
+  "note": "About the ARCH health-insurance rollout, for which ANIP's biometric national identity card is required; nothing on the registration of births or deaths."
+}

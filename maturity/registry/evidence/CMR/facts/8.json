@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-25-cameroun-georges-elanga-obam-veut-mettre-fin-aux-lots-num-riques-de-l",
+  "facts": [],
+  "systems": [
+    {"system": "programme de digitalisation des communes et des régions", "country_label": "programme de digitalisation des communes et des régions", "class": "enabling", "platform": "", "owner": "MINDDEVEL, with the Ministry of Posts and Telecommunications", "tiers": "in preparation for the 384 decentralised local authorities; to let civil status, health, education, budget and local tax systems communicate"},
+    {"system": "systèmes liés à l'état civil", "country_label": "état civil", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The minister's speech at the August 2026 Internet Governance Forum on interoperability; civil status is named as a possible pivot identifier, with no statement of what any civil registration system does or where."
+}

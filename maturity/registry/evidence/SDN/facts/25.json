@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-16-sudan-health-civil-registry-digitisation-committee",
+  "facts": [],
+  "systems": [
+    {"system": "electronic link between the Federal Ministry of Health and the Civil Registry", "country_label": "الربط الإلكتروني / الربط الشبكي مع السجل المدني", "class": "exchange", "platform": "", "owner": "Federal Ministry of Health and the Civil Registry Administration, Ministry of Interior", "tiers": "the health undersecretary said that before the war the relationship ran on memoranda of understanding and a network link, which circumstances interrupted; on 16 March 2026 the two agreed a joint higher committee, technical committees and a new memorandum, towards birth and death registration"},
+    {"system": "Civil Registry", "country_label": "السجل المدني (إدارة السجل المدني بوزارة الداخلية)", "class": "", "platform": "", "owner": "Civil Registry Administration, Ministry of Interior", "tiers": "named as the national register in which a citizen's health status from birth to death is to be recorded; how it registers births and deaths is not described"}
+  ],
+  "note": "The document reports a meeting agreeing a committee and a memorandum to restore the health-to-civil-registry link for births and deaths; it describes an exchange and an intention, and states nothing about how a registry office makes the record."
+}

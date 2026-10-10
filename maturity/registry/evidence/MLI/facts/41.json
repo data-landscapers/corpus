@@ -1,0 +1,8 @@
+{
+  "slug": "2023-09-27-mali-postpones-elections-idemia-payment-dispute",
+  "facts": [],
+  "systems": [
+    {"system": "RAVEC", "country_label": "RAVEC, the civil identification system", "class": "identity", "platform": "built by Idemia", "owner": "Government of Mali; service operated by Idemia and shut off by it over unpaid invoices since March 2023", "tiers": ""}
+  ],
+  "note": "The document describes RAVEC as a civil identification database used for voter registration and identity cards, an identity-class system; it says nothing on registration of births or deaths at offices."
+}

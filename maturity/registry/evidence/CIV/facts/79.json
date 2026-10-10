@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-cote-divoire-tribunal-de-commerce-abidjan-fonctionnement-du-rccm",
+  "facts": [],
+  "systems": [
+    {"system": "Registre du Commerce et du Crédit Mobilier (RCCM)", "country_label": "RCCM; Fichier national du RCCM", "class": "land", "platform": "etribcomweb.tcabidjan.ci (the Tribunal de Commerce's RCCM application); 225invest.ci (CEPICI) for online applications", "owner": "Tribunal de Commerce d'Abidjan, designated national file by décret n° 2021-582 of 6 October 2021; local files at the registry of each jurisdiction", "tiers": "local files at each jurisdiction's greffe, transmitting in paper and digital form to the national file, which transmits to the OHADA regional file at the CCJA"}
+  ],
+  "note": "The document describes the business and securities register, a business register and so out of scope; 'état civil' appears only as an analogy and as a datum in a trader's file. Nothing is stated about civil registration."
+}

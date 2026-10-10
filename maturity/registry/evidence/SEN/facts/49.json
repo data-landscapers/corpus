@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-23-etat-civil-statistiques-publiques-gouvernance-donnee",
+  "facts": [],
+  "systems": [
+    {"system": "protocole d'interopérabilité ANSD-ANEC", "country_label": "protocole d'interopérabilité", "class": "exchange", "platform": "", "owner": "Agence nationale de la Statistique et de la Démographie (ANSD) and Agence nationale de l'État civil (ANEC)", "tiers": "national; signed January 2026; foresees automated exchange of civil-status data, a geographic information system for civil status and regular statistical reports, none stated as in service"}
+  ],
+  "note": "The ANSD-ANEC interoperability protocol, which is exchange with statistics; nothing on how offices record events."
+}

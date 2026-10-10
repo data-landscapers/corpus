@@ -1,0 +1,72 @@
+{
+  "slug": "2024-02-28-gmb-national-health-sector-policy-2021-2030",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Ministry of Health's National Health Sector Policy 2021-2030 states that civil registration and vital statistics in The Gambia is 'currently paper-based' (section 5.3.5); the policy gives no date for the statement, so the document's published date is used.",
+      "as_of": "2024-02-28",
+      "date_precision": "day",
+      "system": "Civil Registration and Vital Statistics (CRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "none",
+      "fact": "The Ministry of Health's policy describes CRVS as currently paper-based and says there is 'a need to establish a functional electronic CRVS' for births, deaths, marriages and divorces in all regions; no event is stated as registered digitally. Undated in the text; the document's published date is used.",
+      "as_of": "2024-02-28",
+      "date_precision": "day",
+      "system": "Civil Registration and Vital Statistics (CRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Health Sector Policy 2021-2030 sets out, under its CRVS heading, the need to establish a functional electronic CRVS and names as the primary intervention an integrated real-time data management system for immunisation and birth registration; it lists a costed National Health Sector Strategic Plan 2021-2025 as its implementing document. Undated in the text; the document's published date is used.",
+      "as_of": "2024-02-28",
+      "date_precision": "day",
+      "system": "Civil Registration and Vital Statistics (CRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The policy lists 'Births & Deaths Registration' among the Ministry of Health's own institutions and units that took part in drafting it (annex 4, item 26), and places CRVS under the ministry's health management information system chapter. Undated in the text; the document's published date is used.",
+      "as_of": "2024-02-28",
+      "date_precision": "day",
+      "system": "Civil Registration and Vital Statistics (CRVS)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Civil Registration and Vital Statistics (CRVS)",
+      "country_label": "Civil Registration and Vital Statistics (CRVS); Births & Deaths Registration",
+      "class": "civil",
+      "platform": "paper",
+      "owner": "Ministry of Health (Births & Deaths Registration)",
+      "tiers": "not stated; described nationally as paper-based"
+    },
+    {
+      "system": "Digitization of paper birth and death registers",
+      "country_label": "digitization of paper birth and Death registers",
+      "class": "archive",
+      "platform": "",
+      "owner": "",
+      "tiers": "undertaken in six of the seven health regions"
+    },
+    {
+      "system": "Integrated real-time data management system for immunization and birth registration",
+      "country_label": "integrated real-time data management system for both immunization and birth registration",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "planned as the policy's primary CRVS intervention; not stated as built"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-undp-guinea-bissau-annual-report-2024",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "UNDP's report on 2024 says that for decades proving identity in Guinea-Bissau depended on paper records handwritten in old registers, and that this was beginning to change with a process to digitise the registers; the only digital work it reports for 2024 is that back-digitisation, not entry at registration.", "as_of": "2024", "date_precision": "year", "system": "Civil registration system (handwritten registers)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digitisation of civil registry books (Legal ID for All)", "country_label": "", "class": "archive", "platform": "", "owner": "Ministry of Justice and Human Rights, with UNDP; funded by the Swiss Confederation", "tiers": "more than 7,500 registry books and 1.3 million civil acts catalogued in five regions; in Bissau all civil birth registry books digitised, 230,967 records; headline figure of 1.7 million civil and identity records digitised"},
+    {"system": "Candonga di Justiça (Mobile Justice Initiative)", "country_label": "Candonga di Justiça", "class": "outreach", "platform": "", "owner": "Ministry of Justice, with UNDP", "tiers": "launched 2021; scaled to national coverage in 2024, eastern, southern, northern and island regions; 3,288 children registered in a 15-day deployment"},
+    {"system": "Interoperability of the civil registration database with national identity card, voter registration, social protection and judiciary", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "described as future"},
+    {"system": "National Statistical Report on Civil Registration (2018-2022)", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Justice and Human Rights, Ministry of Public Health, INE, UNDP, UNICEF", "tiers": "first national vital statistics report from civil registration, published in 2024"}
+  ],
+  "note": "SIREC is not named in this report; the digital work reported for 2024 is archive digitisation and a mobile campaign."
+}

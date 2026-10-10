@@ -1,0 +1,12 @@
+{
+  "slug": "2019-05-01-angola-minjusdh-boletim-justica-direitos-humanos-edicao-12",
+  "facts": [],
+  "systems": [
+    {"system": "SIRC", "country_label": "sistema SIRC", "class": "", "platform": "", "owner": "supported by the Direcção Nacional dos Registos e do Notariado and the ministry's Gabinete de Tecnologias de Informação", "tiers": "named at two Lojas de Registo in Luanda province, Camama and Zango 4, which a breakdown of SIRC and PROMOREN left unable to perform registry and notary acts in late May 2019; the acronym is not expanded and what the system does is not described"},
+    {"system": "PROMOREN", "country_label": "sistema PROMOREN", "class": "", "platform": "", "owner": "supported by the Direcção Nacional dos Registos e do Notariado and the ministry's Gabinete de Tecnologias de Informação", "tiers": "named at the Camama and Zango 4 Lojas de Registo, Luanda province, with SIRC; not described"},
+    {"system": "technology solution for the registry and notary services (DGM contract)", "country_label": "solução tecnológica para os serviços de registos e do notariado", "class": "", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos, under a nine-month contract signed with the company DGM in late May 2019", "tiers": "not stated; what the solution does is not described"},
+    {"system": "Guiché Único da Empresa Online", "country_label": "GUE Online (gue.gov.ao)", "class": "land", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "online, launched 25 March 2019; 44 companies constituted online by May 2019"},
+    {"system": "Bilhete de Identidade issuance and status website", "country_label": "campanha 'Meu Primeiro BI, Rumo à Cidadania'; bi.minjusdh.gov.ao", "class": "identity", "platform": "", "owner": "Direcção Nacional do Arquivo de Identificação Civil e Criminal, Ministério da Justiça e dos Direitos Humanos", "tiers": "all Repartições de Identificação nationally, on the Saturdays of June 2019"}
+  ],
+  "note": "No fact: the bulletin reports that a breakdown of the systems SIRC and PROMOREN left the Camama and Zango 4 Lojas de Registo unable to perform registry and notary acts (Lojas de Registo being where civil, commercial, vehicle and land registration and identity cards are done), but it describes neither system, so neither can be classed as the civil registrar's."
+}

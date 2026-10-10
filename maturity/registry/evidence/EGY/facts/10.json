@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric eKYC system for SIM registration", "country_label": "biometric eKYC system", "class": "identity", "platform": "selfie matched to the national ID photograph", "owner": "National Telecommunications Regulatory Authority", "tiers": "mobile operators; piloted, described as connected to civil registry information"},
+    {"system": "My Lines", "country_label": "My Lines", "class": "identity", "platform": "", "owner": "National Telecommunications Regulatory Authority", "tiers": "national"}
+  ],
+  "note": "Facial verification for SIM registration against the national ID; nothing on registration of births or deaths."
+}

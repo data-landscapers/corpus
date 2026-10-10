@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-05-minjusdh-falhas-do-sistema-nos-postos-de-identificacao",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "regressing", "fact": "Novo Jornal reports on 5 May 2026 that identification and civil registration posts in almost the whole country had been without their system for four months, most such services in Luanda province for three, with one working post found in several municipalities visited and failures at the national directorate too; the justice ministry blames telecommunications breakdowns and gives no date for a fix.", "as_of": "2026-05-05", "date_precision": "day", "system": "sistema nos postos de identificação e registo civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The justice ministry says on 5 May 2026 that the lack of system at identification and civil registration posts, which stops documents including the identity card and the death bulletin being processed, is due to telecommunications breakdowns: the posts' system depends on a network link; the report does not say where the record is held.", "as_of": "2026-05-05", "date_precision": "day", "system": "sistema nos postos de identificação e registo civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "sistema nos postos de identificação e registo civil", "country_label": "o sistema", "class": "civil", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos; Direcção Nacional de Identificação, Registos e Notariado (DNIRN) as the central office", "tiers": "identification and civil registration posts in the municipalities, the DNIRN centre, and SIAC citizen service centres, where the system was working"}
+  ],
+  "note": "The report names the system only as 'o sistema' and does not separate the civil registration system from the identity-card one; the class rests on the report's statement that civil registration services, the death bulletin among them, stop without it."
+}

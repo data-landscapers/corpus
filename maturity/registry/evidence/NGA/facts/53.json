@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-12-nimc-id-prisoners-social-register-ai",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity System / National Identification Number (NIN)", "country_label": "NIN", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "enrolment in correctional facilities; ward-level enrolment announced as imminent (June 2025)"}
+  ],
+  "note": "About NIN enrolment of prison inmates and the social register; nothing on civil registration, births, deaths or registration offices."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-01 Guinea-Bissau to digitize civil identification, registry and notary services",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Identificação Nacional", "country_label": "Sistema Integrado de Identificação Nacional", "class": "", "platform": "", "owner": "Ministry of Justice and Human Rights; workshop financed by UNDP", "tiers": "named in the title of a two-day workshop for 50 technicians, with no description of what it does"},
+    {"system": "Computerisation of civil registry books", "country_label": "informatização dos livros de registo", "class": "archive", "platform": "", "owner": "Direção-Geral dos Serviços de Identificação Civil, dos Registos e do Notariado, in partnership with the European Union", "tiers": "announced as future; first phase to begin in Bissau and be extended to the regions"},
+    {"system": "Requests for birth, marriage and death entries from any location", "country_label": "", "class": "certificate", "platform": "", "owner": "Direção-Geral dos Serviços de Identificação Civil, dos Registos e do Notariado", "tiers": "announced as future: any request to be met wherever the person is, in the country or abroad"}
+  ],
+  "note": "The minister announces that identification, registry and notary services will be digitised, as a programme starting in Bissau; what is described is the computerising of register books and the serving of copies, in the future tense, and no office is said to make a digital record at registration, so no fact is taken. The page carries no date; the month is a proxy."
+}

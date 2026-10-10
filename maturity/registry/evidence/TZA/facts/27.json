@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-29-tanzania-budgets-4-5m-digital-id-pilot-minors",
+  "facts": [],
+  "systems": [
+    {"system": "Unique Number ID", "country_label": "Unique Number ID (unified digital ID for those under 18)", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs / National Identification Authority (NIDA)", "tiers": "Pilot planned for 235,826 minors in Zanzibar and the Iringa and Mbeya regions, budgeted TZS 11.34 billion for 2025/26, ahead of a nationwide rollout envisaged for 2026/27"},
+    {"system": "NIDA integrated portal", "country_label": "integrated portal", "class": "exchange", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": "Connects the immigration department, the Zanzibar civil status registration agency and the Registration Insolvency and Trusteeship Agency for data exchange and ID issuance at airports, hospitals and border posts"}
+  ],
+  "note": "An identity pilot for minors and a data-exchange portal; the minister's plan to integrate birth registration with the national ID so newborns are registered before leaving hospital is stated as a plan, with no civil registration system described."
+}

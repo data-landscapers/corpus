@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-07-cameroon-undp-civil-status-digitisation-equipment",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "A UNDP Cameroon request for quotations posted on 7 August 2026 seeks equipment for the digitalisation of civil status registration at three pilot centres, deadline 24 August 2026; the centres are not named and no budget is given.", "as_of": "2026-08-07", "date_precision": "day", "system": "digitalisation of civil status registration (three pilot centres)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The tender notice of 7 August 2026 names UNDP Cameroon as contracting authority and UNDP as funding agency for the pilot centres' equipment, budget not stated.", "as_of": "2026-08-07", "date_precision": "day", "system": "digitalisation of civil status registration (three pilot centres)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitalisation of civil status registration (three pilot centres)", "country_label": "digitalisation of civil status registration", "class": "civil", "platform": "", "owner": "UNDP Cameroon (contracting authority)", "tiers": "three pilot centres, unnamed; equipment at tender stage"}
+  ],
+  "note": ""
+}

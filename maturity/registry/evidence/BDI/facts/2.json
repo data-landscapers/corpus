@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-03-bdi-2027-presidential-election-more-than-one-million-new-voters",
+  "facts": [],
+  "systems": [
+    {"system": "electoral register / electoral database", "country_label": "electoral register", "class": "land", "platform": "", "owner": "Independent National Electoral Commission (CENI)", "tiers": "partial voter registration planned for October 2026 in more than 4,000 registration centres"}
+  ],
+  "note": "Voter registration only; the electoral register is out of scope and the document says nothing of civil registration."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-14-mwi-eu-phase-iii-birth-registration",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "UNDP Malawi reports that an EU delegation was briefed by a National Registration Bureau official on the real-time birth registration system at Bwaila Hospital in Lilongwe, and that children are being registered through hospital-based birth registration initiatives; the visit is undated, so the published date is used.", "as_of": "2026-07-14", "date_precision": "day", "system": "real-time birth registration system at Bwaila Hospital", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "UNDP Malawi, in a photo caption, calls the system at Bwaila Hospital in Lilongwe a real-time birth registration system; it gives no further description of how the record is made or where it is held (published date used).", "as_of": "2026-07-14", "date_precision": "day", "system": "real-time birth registration system at Bwaila Hospital", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "UNDP Malawi states that a National Registration Bureau official presented the real-time birth registration system at Bwaila Hospital, and that the Bureau implements birth registration for the Government with support from UNDP's IDT4M project, UNICEF and other partners (published date used).", "as_of": "2026-07-14", "date_precision": "day", "system": "real-time birth registration system at Bwaila Hospital", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "real-time birth registration system at Bwaila Hospital", "country_label": "real-time birth registration system; hospital-based birth registration", "class": "civil", "platform": "", "owner": "National Registration Bureau", "tiers": "Bwaila Hospital, Lilongwe, named; hospital-based birth registration initiatives elsewhere not counted"},
+    {"system": "National Birth Registration Campaign", "country_label": "National Birth Registration Campaign", "class": "outreach", "platform": "", "owner": "National Registration Bureau, supported by UNDP's IDT4M project and UNICEF; project jointly funded by the Government of Malawi, the EU, Norway and Irish Aid", "tiers": "nationwide; Phase 3 under way in July 2026 with registration centres at primary schools; over 3.5 million children registered of an estimated 7.5 million eligible, including through hospitals"},
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS system", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

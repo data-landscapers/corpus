@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-01-who-his-maturity-assessment-south-sudan",
+  "facts": [],
+  "systems": [
+    {"system": "death notification", "country_label": "death notification", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "health system; death notification rate recorded at 20%, with none of the notified deaths officially registered"},
+    {"system": "DHIS2", "country_label": "District Health Information System 2 (DHIS 2)", "class": "", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "national and sub-national/district levels; a health information system, with no registration function described"}
+  ],
+  "note": "A Ministry of Health and WHO self-assessment of February 2025: it gives full death registration coverage as 0% and no notified death as officially registered, and scores systems for generating birth, death and cause-of-death data at 25%. These are shares of events, not statements about a civil registration system or its offices, so no fact is recorded."
+}

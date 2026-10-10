@@ -1,0 +1,16 @@
+{
+  "slug": "2026-07-18-uneca-fatty-overview-of-crvs-in-the-gambia",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Registrar General states that before 2022 The Gambia's civil registration processes were manual and paper-based.", "as_of": "2021", "date_precision": "year", "system": "civil registration (before eCRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The Registrar General states that The Gambia deployed an eCRVS system in August 2022 that issues birth certificates and national health insurance cards from a single process, registering more than 1.17 million people with a unique national identification number between August 2022 and February 2023.", "as_of": "2022-08", "date_precision": "month", "system": "eCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The Registrar General states that as of June 2026 over 1.4 million people were registered in the eCRVS and issued a birth certificate and health insurance card, 54.64% of births registered being female and 45.36% male; no count of deaths is given.", "as_of": "2026-06", "date_precision": "month", "system": "eCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The eCRVS is presented by the Registrar General - CRVS as the system The Gambia deployed, and as the source-of-truth registry under what he calls the eCRVS Act 2026 (document date used; no date given for the Act).", "as_of": "2026-07-18", "date_precision": "day", "system": "eCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The Registrar General reports cumulative eCRVS registrations of over 1.4 million as of June 2026, against more than 1.17 million by February 2023, and cites an eCRVS Act 2026 making CRVS the source-of-truth registry.", "as_of": "2026-06", "date_precision": "month", "system": "eCRVS", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "eCRVS", "country_label": "eCRVS system", "class": "civil", "platform": "", "owner": "Registrar General - CRVS, The Gambia", "tiers": "not stated; civil registration decentralised in 1997"},
+    {"system": "eID system", "country_label": "eID system / identity system", "class": "identity", "platform": "eID system software and user devices procured with World Bank support", "owner": "", "tiers": ""},
+    {"system": "eCRVS links to the eID system, health insurance system and human resource information system through the UIN", "country_label": "CRVS integration", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Presentation slides; no statement of where the digital record is made or how many offices use the eCRVS."
+}

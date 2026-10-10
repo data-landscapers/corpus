@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-esi-back-in-banjul",
+  "facts": [],
+  "systems": [
+    {"system": "biometric voter registration (BVR) 2026", "country_label": "national voters list", "class": "land", "platform": "Electoral Services International Inc. (ESI)", "owner": "Independent Electoral Commission", "tiers": "field registration with registration kits; onsite work March to July 2026"}
+  ],
+  "note": "Electoral register only; nothing on civil registration."
+}

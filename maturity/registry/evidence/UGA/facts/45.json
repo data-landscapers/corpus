@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-29-nira-instant-birth-registrations",
+  "facts": [],
+  "systems": [
+    {"system": "instant birth and NIN registration at referral hospitals", "country_label": "instant birth as well as NIN registrations (International Identity Day)", "class": "outreach", "platform": "", "owner": "NIRA", "tiers": "district offices camped at regional referral hospitals and high-volume health facilities, to mark International Identity Day in September 2025"},
+    {"system": "Mass Enrollment and Renewal Exercise", "country_label": "Mass Enrollment and Renewal Exercise; National Identification Register", "class": "identity", "platform": "", "owner": "NIRA", "tiers": "parish level across the country, and the diaspora"}
+  ],
+  "note": "The birth registration it reports is a commemorative drive by district offices at hospitals, fielded for the day, with no statement of how the record is made; the rest is identity enrolment (10.5 million renewals, 2.5 million fresh registrations)."
+}

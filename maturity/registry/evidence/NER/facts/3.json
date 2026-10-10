@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-22-ner-mispat-civil-status-interoperability-review",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population", "country_label": "Registre National de la Population", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, de la Sécurité Publique et de l'Administration du Territoire", "tiers": "not stated"},
+    {"system": "Carte Biométrique et Passeport Biométrique AES", "country_label": "Carte Biométrique et Passeport Biométrique AES", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "passport being extended to all regions"},
+    {"system": "tournée de sensibilisation du Projet WURI", "country_label": "tournée de sensibilisation du Projet WURI sur la réforme de l'état civil et du Registre National de la Population", "class": "outreach", "platform": "", "owner": "Projet WURI, Ministère de l'Intérieur", "tiers": "not stated"}
+  ],
+  "note": "The ministry's review of 22 September 2026 lists 'the progress of the digitalisation of civil status' among the files examined, with no system named and nothing said of what it does, where, or how far it has gone."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-itweb-africa-namibia-digital-trust-framework",
+  "facts": [],
+  "systems": [
+    {"system": "electronic IDs", "country_label": "electronic IDs", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""},
+    {"system": "National Public Key Infrastructure (NPKI) / National Trust Framework", "country_label": "NPKI", "class": "enabling", "platform": "Veridos", "owner": "Communications Regulatory Authority of Namibia (CRAN), as Root Certification Authority", "tiers": "national"}
+  ],
+  "note": "Signing of a public key infrastructure agreement for electronic identity documents; nothing on civil registration."
+}

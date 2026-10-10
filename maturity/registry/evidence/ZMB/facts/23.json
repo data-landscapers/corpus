@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-04-zambia-certifies-879-million-voters",
+  "facts": [],
+  "systems": [
+    {"system": "Certified Register of Voters 2026", "country_label": "Register of Voters", "class": "land", "platform": "", "owner": "Electoral Commission of Zambia (ECZ)", "tiers": "national; inspected online and at all polling stations, 22 February to 8 March 2026"}
+  ],
+  "note": "The article concerns the electoral register only, class land, out of scope. It reports 1,173 records of deceased voters removed, with no link to death registration described, and states nothing about civil registration."
+}

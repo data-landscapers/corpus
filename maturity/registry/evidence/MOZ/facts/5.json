@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-mznews-mozambique-portal-cidadao-atdi",
+  "facts": [],
+  "systems": [
+    {"system": "Portal do Cidadão", "country_label": "Portal do Cidadão", "class": "certificate", "platform": "", "owner": "ATDI (Agência de Transformação Digital e Inovação)", "tiers": "national online single counter for about 140 public services, to cover progressively the issue of identification and civil registry documents"},
+    {"system": "Identidade Digital", "country_label": "Identidade Digital", "class": "identity", "platform": "", "owner": "ATDI", "tiers": "named as a pillar for authenticating portal users; no deployment stated"}
+  ],
+  "note": "A citizen portal for requesting documents, civil registry among the sectors to be added progressively; nothing on how a registry office records a birth or death, so no fact."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "1999-01-15-sgg-gouv-bj-loi-97-029-communes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "registres d'état civil",
+      "country_label": "registres d'état civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "the mayor, as officier d'état civil of the commune (articles 69-71)",
+      "tiers": "commune (mairie); the mayor may delegate to a mairie official, and for marriages only to a deputy or a chef d'arrondissement"
+    }
+  ],
+  "note": "The 1999 communes law makes the mayor civil-status officer who receives declarations of birth, marriage and death and transcribes them on the civil-status registers (art. 70); it does not say whether the registers are paper or digital, and names no digital system, so no fact. The source text stops mid-article 81."
+}

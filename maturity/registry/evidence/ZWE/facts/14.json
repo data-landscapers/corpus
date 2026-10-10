@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-zimbabwe-registrar-general-to-take-over-voters-roll",
+  "facts": [],
+  "systems": [
+    {"system": "voters' roll", "country_label": "voters' roll", "class": "land", "platform": "", "owner": "moving from the Zimbabwe Electoral Commission to the Registrar-General's Office under Constitutional Amendment Act No. 3", "tiers": "national"},
+    {"system": "Registrar-General's national population database", "country_label": "national population database; Registrar's database", "class": "identity", "platform": "", "owner": "Registrar-General's Office", "tiers": "national; used by ZEC to clean the voters' roll of the dead and to find those of voting age"}
+  ],
+  "note": "The document is about moving the electoral register to the Registrar-General; it states nothing of how births or deaths are registered. The capture is truncated."
+}

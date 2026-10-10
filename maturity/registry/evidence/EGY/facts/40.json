@@ -1,0 +1,15 @@
+{
+  "slug": "2025-08-02-mped-planning-information-infrastructure-executive-status-report",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:4666", "fact": "The planning ministry's status report on its Information Infrastructure Center says 4,666 health offices are electronically linked under the births and deaths systems project, and that 2,000 health offices had their operating capacity raised with devices and equipment; it gives no total of health offices and no date other than the report's own.", "as_of": "2025-08-02", "date_precision": "day", "system": "Births and deaths systems (health projects information infrastructure)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The status report describes the health projects information infrastructure as sustaining the births and deaths systems and supporting accurate recording of vital statistics; dated to the report.", "as_of": "2025-08-02", "date_precision": "day", "system": "Births and deaths systems (health projects information infrastructure)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The status report lists sustaining the births and deaths systems among projects carried out by the planning ministry's own Information Infrastructure Center; dated to the report.", "as_of": "2025-08-02", "date_precision": "day", "system": "Births and deaths systems (health projects information infrastructure)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Births and deaths systems (health projects information infrastructure)", "country_label": "مشروع البنية المعلوماتية للمشروعات الصحية (استدامة أنظمة المواليد والوفيات)", "class": "civil", "platform": "", "owner": "Information Infrastructure Center of the Ministry of Planning, Economic Development and International Cooperation", "tiers": "4,666 health offices electronically linked; 2,000 equipped"},
+    {"system": "Egypt Services centres", "country_label": "مراكز خدمات مصر", "class": "", "platform": "", "owner": "Ministry of Planning", "tiers": "fixed centres in Sharm El-Sheikh, Alexandria, Aswan and Mokattam; 156 services, civil status services among the categories listed without description"},
+    {"system": "Mobile technology centres", "country_label": "المراكز التكنولوجية المتنقلة", "class": "", "platform": "", "owner": "Ministry of Planning with government bodies", "tiers": "276 delivered of 326 planned"},
+    {"system": "Real Estate Publicity and Notarisation offices capacity project", "country_label": "مكاتب ومأموريات مصلحة الشهر العقاري والتوثيق", "class": "land", "platform": "", "owner": "Ministry of Justice, supported by the Ministry of Planning", "tiers": "28 offices and 293 sub-offices"}
+  ],
+  "note": "The count is of health offices 'electronically linked', the report's wording; it does not say that each registers births and deaths in the system, nor how the record is made."
+}

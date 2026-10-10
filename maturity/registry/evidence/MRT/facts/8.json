@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-21-houwiyeti-usage-metrics-techrek",
+  "facts": [],
+  "systems": [
+    {"system": "Houwiyeti", "country_label": "هويتي (Houwiyeti)", "class": "certificate", "platform": "", "owner": "National Agency for Population Register and Secure Titles (ANRPTS)", "tiers": "citizen-facing application for requesting documents remotely: 677,000 activated accounts, 554,027 services completed, of which 406,871 civil-status extracts, 63,384 passport requests, 59,363 identity-card requests and 24,409 national electronic certificates, per ANRPTS at a seminar of 16-17 June 2026; launched December 2023, public from January 2024"}
+  ],
+  "note": "The document describes Houwiyeti as an application through which citizens request civil-status extracts, passports and identity cards; it does not describe any office registering a birth or death, so there is no civil fact."
+}

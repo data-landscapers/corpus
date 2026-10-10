@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-21-cniapge-drives-digital-shift-in-equatorial-guineas-public-services",
+  "facts": [],
+  "systems": [
+    {"system": "CNIAPGE apps for civil registry", "country_label": "", "class": "", "platform": "", "owner": "Centro Nacional para Informatización de la Administración Pública de Guinea Ecuatorial (CNIAPGE)", "tiers": "not stated"},
+    {"system": "CNIAPGE app for company registry", "country_label": "", "class": "land", "platform": "", "owner": "CNIAPGE", "tiers": "not stated"}
+  ],
+  "note": "A profile of CNIAPGE that says only that it builds apps for the civil registry, among others; what the app does, where it runs and since when are not stated, so no fact."
+}

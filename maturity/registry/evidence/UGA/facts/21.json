@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-30-ursb-e-registry-replaces-obrs",
+  "facts": [],
+  "systems": [
+    {"system": "URSB e-Registry", "country_label": "e-Registry", "class": "land", "platform": "", "owner": "Uganda Registration Services Bureau (URSB)", "tiers": "online portal; replaces the Online Business Registration System (OBRS)"}
+  ],
+  "note": "About the business, intellectual property and insolvency registry, which the typology puts out of scope; nothing on civil registration."
+}

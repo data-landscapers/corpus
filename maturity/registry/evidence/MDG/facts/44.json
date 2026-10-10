@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-20-worldbank-decim-madagascar-supervision-digital-nov-2025",
+  "facts": [],
+  "systems": [
+    {"system": "DECIM rural digital infrastructure and devices", "country_label": "DECIM (P178701)", "class": "enabling", "platform": "", "owner": "MNDPT for the digital side, financed by the World Bank (USD 375m, of which USD 135m digital)", "tiers": "rural connectivity mapping taken to fokontany level, tender draft slipped to January 2026; targets of 1,500 schools, health centres and ministry departments with new or improved internet and 664,000 devices"},
+    {"system": "enrôlement biométrique", "country_label": "", "class": "identity", "platform": "", "owner": "PRODIGY, not DECIM, as at November 2025", "tiers": ""}
+  ],
+  "note": "A companion excerpt on DECIM's connectivity and device activities; it does not mention civil registration or commune registry offices."
+}

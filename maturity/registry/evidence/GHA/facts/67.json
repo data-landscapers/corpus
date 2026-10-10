@@ -1,0 +1,10 @@
+{
+  "slug": "2019-03-05-nia-faqs",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification System (NIS)", "country_label": "National Identity Register (NIR); Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority", "tiers": "regional and district offices, Premium Centres, Ghana Missions abroad"},
+    {"system": "Foreigner Identification Management System (FIMS)", "country_label": "Non-Citizen Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority", "tiers": ""},
+    {"system": "Identity Verification System Platform (IVSP)", "country_label": "IVSP", "class": "identity", "platform": "", "owner": "National Identification Authority", "tiers": "user agencies linked to the register"}
+  ],
+  "note": "The identity authority's questions and answers on Ghana Card enrolment; a birth certificate from the Births and Deaths Registry is an accepted document, and nothing is said on how births or deaths are registered or on any link to the civil register."
+}

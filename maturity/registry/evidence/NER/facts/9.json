@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-09-ner-nigerdiaspora-enrolement-passeport-biometrique-aes",
+  "facts": [],
+  "systems": [
+    {"system": "passeport biométrique AES", "country_label": "passeport biométrique AES", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur; Direction de la Surveillance du Territoire in Niamey, regional directorates of the Police nationale elsewhere", "tiers": "DST in Niamey and regional police directorates, from 15 September 2026"}
+  ],
+  "note": "A passport enrolment notice. A legalised copy of the birth certificate is a required document; nothing on civil-status offices or any registration system."
+}

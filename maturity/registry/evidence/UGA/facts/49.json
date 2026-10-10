@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-21-ict-go-ug-pdmis-parish-development-model-digitization",
+  "facts": [],
+  "systems": [
+    {"system": "NIRA database", "country_label": "National Identification and Registration Authority (NIRA) database; NIN", "class": "identity", "platform": "", "owner": "NIRA", "tiers": "queried by PDMIS to verify beneficiaries' National Identification Numbers"}
+  ],
+  "note": "About the Parish Development Model Information System, a household and beneficiary register of the ICT ministry (over 8 million household records, nearly 79% of households, August 2025), which is outside the study's field; nothing on the registration of births or deaths."
+}

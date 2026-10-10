@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-08-sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "TASDJIL", "country_label": "application TASDJIL", "class": "", "platform": "", "owner": "", "tiers": "UNICEF's sub-office head says it has been deployed as part of efforts since 2021 to modernise the civil-status system; what it does and where it runs are not stated"},
+    {"system": "Fiches mensuelles de collecte", "country_label": "nouvelles fiches mensuelles de collecte", "class": "", "platform": "", "owner": "Direction des Affaires politiques et de l'État civil, with UNICEF support", "tiers": "civil-status agents and mayors of Moyen-Chari and Mandoul trained at Sarh, 7-8 August 2026; for recording and transmitting birth, marriage and death data to the central level"}
+  ],
+  "note": "TASDJIL is named with no description of what it does, so no fact is taken for it; the new monthly collection forms are a statistical return from civil-status agents to the centre, whose medium the document does not state."
+}

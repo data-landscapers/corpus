@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-03-dematerialisation-sans-connectivite-pas-de-deconcentration-d",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme nationale de dématérialisation (E-Sénégal)", "country_label": "E-Sénégal", "class": "certificate", "platform": "", "owner": "Sénégal Services / Sénégal Numérique", "tiers": "national online portal; civil status to be integrated soon, announced 3 September 2026"},
+    {"system": "Espaces Sénégal Services (ESS)", "country_label": "Espaces Sénégal Services", "class": "enabling", "platform": "", "owner": "Sénégal Services / Sénégal Numérique", "tiers": "local one-stop counters; connectivity and equipment problems found at Louga, Saint-Louis, Dagana and Matam"}
+  ],
+  "note": "Connectivity of deconcentrated services, and civil status only as a service to be added to the national online procedures platform; nothing on how a civil-status office records an event."
+}

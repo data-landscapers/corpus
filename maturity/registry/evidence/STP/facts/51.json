@@ -1,0 +1,16 @@
+{
+  "slug": "2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The INIC and UNU-EGOV digital governance strategy of June 2020 states that DGRN, with INIC, began developing an electronic birth registration system with issuance of the corresponding certificates in 2016, and that the Sistema Integrado de Gestão de Assentos (SIGA) is in production, still under continuous improvement.", "as_of": "2020-06", "date_precision": "month", "system": "Sistema Integrado de Gestão de Assentos (SIGA)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The strategy states that the Direção Geral de Registo e Notariado (DGRN) began developing the electronic birth registration system in 2016 with INIC's support, and that SIGA runs on a cloud platform from the University of Aveiro, Portugal.", "as_of": "2016", "date_precision": "year", "system": "Sistema Integrado de Gestão de Assentos (SIGA)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The strategy states that the electronic birth registration system was begun in 2016 under the PASP PALOP-TL project for improving public services, with European Union support; no domestic budget line is stated.", "as_of": "2016", "date_precision": "year", "system": "Sistema Integrado de Gestão de Assentos (SIGA)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão de Assentos (SIGA)", "country_label": "SIGA; Sistema de Registo Electrónico de Nascimento", "class": "civil", "platform": "Cloud platform run from the University of Aveiro, Portugal", "owner": "Direção Geral de Registo e Notariado (DGRN), with INIC", "tiers": "not stated; in production"},
+    {"system": "Identidade Digital", "country_label": "Identidade Digital", "class": "identity", "platform": "", "owner": "", "tiers": "proposed; state certification infrastructure and qualified digital signature"},
+    {"system": "Plataforma de Autenticação", "country_label": "Plataforma de Autenticação", "class": "identity", "platform": "single sign-on", "owner": "", "tiers": "proposed"},
+    {"system": "Plataforma de Interoperabilidade", "country_label": "Plataforma de Interoperabilidade", "class": "exchange", "platform": "", "owner": "", "tiers": "proposed"},
+    {"system": "Passaporte electrónico", "country_label": "passaporte electrónico", "class": "identity", "platform": "", "owner": "Serviço de Migração e Fronteiras (SMF)", "tiers": "not stated; launched 2018, replacing the biometric passport of 2008"}
+  ],
+  "note": "Stored as an excerpt, truncated at the fetch limit in chapter 2; the justice and citizenship measures (section 4.9) are not in the capture. The same strategy as the annex at n 50, which carries its approval; this document describes itself as a proposal, so no plan fact is taken from it."
+}

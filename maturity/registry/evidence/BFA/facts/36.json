@@ -1,0 +1,13 @@
+{
+  "slug": "2024-11-13 Burkina Faso - digitalisation of birth declarations and civil status (VENEEM)",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The document describes VENEEM as a digital civil-registration platform for the systematic declaration of civil-status events, capturing births and other events at their point of occurrence, in health facilities and elsewhere, per the Director of the unique identifier and securing of civil-status documents; deaths are not named; the date is the document's.", "as_of": "2024-11-13", "date_precision": "day", "system": "VENEEM", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The document states that VENEEM captures events at their point of occurrence, runs on computers and smartphones, and supports notifications and level-by-level validation under the Code des personnes et de la famille; it does not say where the record is held; the date is the document's.", "as_of": "2024-11-13", "date_precision": "day", "system": "VENEEM", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The platform is presented by Commissaire principal Ousmane Diallo Nacanabo, Director of the unique identifier and securing of civil-status documents, a state official; the document names no ministry; the date is the document's.", "as_of": "2024-11-13", "date_precision": "day", "system": "VENEEM", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "VENEEM", "country_label": "VENEEM", "class": "civil", "platform": "VENEEM (computer and smartphone)", "owner": "Direction of the unique identifier and securing of civil-status documents", "tiers": "point of occurrence of events: health facilities and elsewhere"},
+    {"system": "Unique identifier (identifiant unique)", "country_label": "identifiant unique", "class": "exchange", "platform": "", "owner": "", "tiers": "the document says VENEEM underpins the unique identifier and secure civil-status documents, beneath WURI enrolment and the CIB-AES card"}
+  ],
+  "note": "The captured body is a two-paragraph summary of the Burkina24 article, not its full text."
+}

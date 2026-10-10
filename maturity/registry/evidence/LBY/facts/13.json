@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay's Libya registry row states that the Civil Registration Authority's branches, issuing offices and service offices, rural ones included, are all fully automated and electronically linked through a single database since at least 2020, citing the health ministry's 2020 vital statistics report.", "as_of": "2020", "date_precision": "year", "system": "Civil Registration Authority single database", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "The essay states that all of the Civil Registration Authority's 12 branches, 133 issuing offices and 400 service offices are fully automated and electronically linked, as at 2020, citing the health ministry's 2020 vital statistics report; it gives no count of offices entering events.", "as_of": "2020", "date_precision": "year", "system": "Civil Registration Authority single database", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The essay states that the automated, linked offices yield timely data with 100 per cent of births and more than 90 per cent of deaths registered, as at 2020, citing the health ministry's 2020 vital statistics report.", "as_of": "2020", "date_precision": "year", "system": "Civil Registration Authority single database", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registration Authority single database", "country_label": "Civil Registration Authority (CRA)", "class": "civil", "platform": "", "owner": "Civil Registration Authority", "tiers": "12 branches, 133 issuing offices and 400 service offices, covering all Libya including rural areas"}
+  ],
+  "note": "Passages only. The source is on the study's exclude list as an AI-assisted compilation; its Libya registry row restates the 2020 vital statistics report (document 39) and a UNFPA assessment of computer use in compiling, storing, validating and transmitting vital statistics."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay's country table states that civil status data entry in Seychelles is done by central officers from paper inputs, citing a WHO SCORE assessment (2013-2018 data) that records are paper-based locally with electronic processing; no date is given for the statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Civil Status records (system not named)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The essay's country table states there is no evidence of digital recording at the regional Civil Status offices, such as Praslin, where births are registered in person on a paper maternity certificate; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Civil Status records (system not named)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Status records (system not named)", "country_label": "Civil Status", "class": "civil", "platform": "", "owner": "Seychelles Civil Status", "tiers": "paper at regional offices on islands such as Praslin; electronic processing centrally"},
+    {"system": "SeyID", "country_label": "SeyID virtual IDs", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "CertExpress", "country_label": "CertExpress online certificates", "class": "certificate", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is an AI-assisted compilation by its own header, and study.json lists it under exclude_sources; the two facts are what its Registry row for Seychelles states."
+}

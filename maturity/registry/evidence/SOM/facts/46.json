@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-13 NADRA powers Somalia's digital transformation with foundational ID infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration Management and Vital Statistics System (CRMVS)", "country_label": "CRMVS", "class": "", "platform": "built by Pakistan's NADRA", "owner": "Somali authorities; part of the National Identification System (SNID) project", "tiers": "built and handed over in November 2024; launch in preparation at January 2025"},
+    {"system": "National Identity Management System (NIMS)", "country_label": "NIMS", "class": "identity", "platform": "built by Pakistan's NADRA", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "rolled out in 2024, launched in Mogadishu on 16 September by this document's account; biometric ID cards issued since"}
+  ],
+  "note": "The CRMVS is named as built, handed over in November 2024 and not yet launched, with no description of what it does or where it is used, so it is unclassified and gives no fact."
+}

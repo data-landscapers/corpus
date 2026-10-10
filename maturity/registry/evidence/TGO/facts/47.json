@@ -1,0 +1,15 @@
+{
+  "slug": "2024-11-01-anid-togo-identification-biometrique-transformation-e-id-fr",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-ID Togo",
+      "country_label": "e-ID Togo; Numéro d'Identification Unique (NIU)",
+      "class": "identity",
+      "platform": "MOSIP",
+      "owner": "Agence Nationale d'Identification (ANID); built by the Atos-IDEMIA consortium, awarded 1 June 2023",
+      "tiers": "national central database; pilot (Proof of Concept) from 4 October 2023 aiming at 2,000 registrations nationwide in 30 days, before mass enrolment"
+    }
+  ],
+  "note": "An identity-enrolment article; on civil registration it carries only a researcher's remark that the identity file is not linked to the civil registry to extract deaths, and describes no civil registration system."
+}

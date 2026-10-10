@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-06-worldbank-mdap-p176459-mid-term-review-aide-memoire",
+  "facts": [],
+  "systems": [
+    {"system": "rural connectivity investments (telecom towers)", "country_label": "", "class": "enabling", "platform": "", "owner": "INCM and the Universal Service and Access Fund, under the World Bank-financed Digital Acceleration Project", "tiers": "US$50 million rural tower tender expected by July 2025; Community Multimedia Centres being equipped; no registry office is named"},
+    {"system": "Government Communications Network (GovNet)", "country_label": "GovNet", "class": "enabling", "platform": "", "owner": "INAGE", "tiers": "feasibility study on its extension contracted; no registry office is named"}
+  ],
+  "note": "A mid-term review of the Digital Acceleration Project: connectivity, cybersecurity and education; civil registration is not mentioned, and the EDGE project appears only for coordination."
+}

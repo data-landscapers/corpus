@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-18-namibia-crvs-social-protection-integration-san-outreach",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Registration System (NPRS)", "country_label": "NPRS", "class": "", "platform": "", "owner": "the ministry responsible for civil registration", "tiers": "national; holds the national population register, against which existence and live status are verified"},
+    {"system": "NPRS to social protection system integration", "country_label": "CRVS-Social Protection Integration", "class": "exchange", "platform": "", "owner": "the ministries responsible for civil registration and for social protection, under a memorandum of agreement", "tiers": "national; verification of existence and live status, and referral of undocumented persons"},
+    {"system": "e-notification system", "country_label": "e notification system", "class": "notification", "platform": "", "owner": "", "tiers": "used to monitor notification and registration of births and deaths"},
+    {"system": "integrated outreach registration for national documents and social protection services", "country_label": "integrated outreach registration", "class": "outreach", "platform": "", "owner": "the ministries responsible for civil registration and for social protection", "tiers": "San communities in 2025, more than 21,000 people assisted; to extend to Ovatue and Ovatjimba in 2026"},
+    {"system": "electronic identity card", "country_label": "electronic identity card", "class": "identity", "platform": "", "owner": "", "tiers": "being introduced"}
+  ],
+  "note": "The Chief Registrar's presentation is on the link between the population register and social protection; it describes NPRS as the register checked for identity and live status and does not say where or how a birth or death is entered, so NPRS is left unclassified and no civil fact is taken."
+}

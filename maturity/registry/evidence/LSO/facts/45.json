@@ -1,0 +1,15 @@
+{
+  "slug": "2021-09-01-lesotho-data-use-statistical-capacity-assessment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Civil registry integrations with banks and mobile money providers",
+      "country_label": "civil registry",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "some private-sector organisations (banks, mobile money providers) integrate with the civil registry operationally; government-side integration lags (September 2021)"
+    }
+  ],
+  "note": "An excerpt on open data and access to information; its one line on the civil registry says only that banks and mobile money providers integrate with it, which is exchange, not how an office registers."
+}

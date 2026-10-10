@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-15-tunisia-114-digital-transformation-projects-cabinet-review",
+  "facts": [],
+  "systems": [
+    {"system": "échange électronique des extraits d'état civil entre postes consulaires et municipalités", "country_label": "échange électronique des extraits d'état civil", "class": "certificate", "platform": "", "owner": "government (Présidence du gouvernement communiqué)", "tiers": "consular posts abroad and municipalities; a project under way, not yet in service"},
+    {"system": "renouvellement en ligne de la carte d'identité nationale", "country_label": "renouvellement de la carte d'identité nationale", "class": "identity", "platform": "", "owner": "government", "tiers": "a project under way"}
+  ],
+  "note": "A government list of projects under way; civil status appears only as a planned electronic exchange of extracts between consulates and municipalities, and nothing is stated on how offices register events."
+}

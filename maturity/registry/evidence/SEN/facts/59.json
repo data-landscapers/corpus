@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-01-convention-interoperabilite-anec-daf",
+  "facts": [],
+  "systems": [
+    {"system": "Protocole d'interopérabilité ANEC-DAF", "country_label": "protocole d'interopérabilité entre l'ANEC et la DAF, signed 1 July 2025", "class": "exchange", "platform": "", "owner": "ANEC (ministry of Urbanisme, Collectivités territoriales et Aménagement des territoires) and DAF (ministry of the Interior)", "tiers": "national; to automate authentication of civil-status acts and share births, deaths and changes to acts in real time with the national identity file"},
+    {"system": "Fichier national d'identité", "country_label": "fichier national d'identité; carte nationale d'identité", "class": "identity", "platform": "", "owner": "DAF, ministry of the Interior", "tiers": "national"}
+  ],
+  "note": "The document reports only the signing of the ANEC-DAF interoperability protocol, an exchange link; it states nothing about how or where civil-status offices register events."
+}

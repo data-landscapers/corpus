@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-13-burundi-decentralization-civil-registry-digitization-abp",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The interior ministry's permanent secretary said in the ministry's declaration for African civil registration day that the government is pursuing the scaling-up of its own digital platform for registering civil-status events.", "as_of": "2026-08-11", "date_precision": "day", "system": "plateforme numérique d'enregistrement des faits de l'état-civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The interior ministry stated on 11 August 2026 that the government continues to scale up its digital platform for registering civil-status events, to ease registration, archiving and conservation of acts, while naming insufficient infrastructure and equipment, staff skills and resource mobilisation as challenges.", "as_of": "2026-08-11", "date_precision": "day", "system": "plateforme numérique d'enregistrement des faits de l'état-civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "plateforme numérique d'enregistrement des faits de l'état-civil", "country_label": "plateforme numérique d'enregistrement des faits de l'état-civil", "class": "civil", "platform": "", "owner": "Ministère de l'intérieur, du développement communautaire et de la sécurité publique", "tiers": "being scaled up; no count of offices given"},
+    {"system": "interopérabilité entre l'état-civil et les services de santé", "country_label": "interopérabilité entre l'état-civil et les services de santé", "class": "exchange", "platform": "", "owner": "Ministère de l'intérieur, du développement communautaire et de la sécurité publique", "tiers": "parents declare births directly to civil registry agents in the health facility; piloted since 2023, institutionalised 2024, operating in 123 health facilities with more than 52,000 births registered since launch; the document does not say the record made there is digital"}
+  ],
+  "note": "The document gives no number of offices using the digital platform and does not say how the record is made. Civil registry offices have also been deployed at zone level (no count, not stated as digital)."
+}

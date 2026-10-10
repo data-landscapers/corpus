@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-23-mandiana-pn-ravec-300-centres-enrolement",
+  "facts": [],
+  "systems": [
+    {"system": "recensement biométrique (PN-RAVEC)", "country_label": "recensement biométrique; commissions administratives de recensement (CAR)", "class": "identity", "platform": "", "owner": "PN-RAVEC, with a prefectural coordinator", "tiers": "300 administrative census commissions deployed across Mandiana prefecture; launched there on 22 April 2025"}
+  ],
+  "note": "The launch of the biometric census in Mandiana prefecture on 22 April 2025 with 300 census commissions; these are identity enrolment points for a census, not offices registering births or deaths, so no civil fact."
+}

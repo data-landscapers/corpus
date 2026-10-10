@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-rwanda-tax-registration-de-registration",
+  "facts": [],
+  "systems": [
+    {"system": "RDB business registration portal", "country_label": "Office of the Registrar General, RDB", "class": "land", "platform": "", "owner": "Rwanda Development Board", "tiers": "online, national; integrated with the Rwanda Revenue Authority's taxpayer registration"}
+  ],
+  "note": "Business and tax registration only (the Registrar General here is the business registrar); nothing on civil registration."
+}

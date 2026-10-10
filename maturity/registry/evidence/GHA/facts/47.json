@@ -1,0 +1,10 @@
+{
+  "slug": "2024-10-01-gha-report-of-the-mid-term-review-of-the-health-sector-medium-term-develop",
+  "facts": [],
+  "systems": [
+    {"system": "integration of data from LHIMS, eTracker, BDR and NIA", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Local Government, Decentralisation and Rural Development and the Births and Deaths Registry, with health research centres, Vital Strategies and the University of Ghana", "tiers": "under way in October 2024, to reconcile births reported from several sources; described as work in progress"},
+    {"system": "Sample Registration System", "country_label": "Sample Registration System", "class": "", "platform": "", "owner": "", "tiers": "being designed in October 2024 to capture deaths that occur outside health facilities"},
+    {"system": "Births and Deaths Registration (BDR)", "country_label": "Births and Deaths Registry", "class": "civil", "platform": "", "owner": "Births and Deaths Registry", "tiers": "examined by the review 'at operational levels'; no description of its system"}
+  ],
+  "note": "The review says efforts are under way to raise civil registration coverage by integrating health, registry and identity data, and that a digitisation drive from the Vice President's office 'has benefited Civil Registration systems', without saying what the Registry's offices use or how a record is made."
+}

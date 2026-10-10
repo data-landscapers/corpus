@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-25-digital-government-transformation-strategy-progress-update",
+  "facts": [],
+  "systems": [
+    {"system": "MoKloud (Online Birth Certificate, Online Marriage Certificate)", "country_label": "MoKloud", "class": "certificate", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "online, to the public"},
+    {"system": "InfoHighway", "country_label": "InfoHighway", "class": "exchange", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "data sharing between government agencies; 527+ services, 25 publishers, 130+ connections"},
+    {"system": "MauPass", "country_label": "MauPass", "class": "identity", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national authentication for online services"}
+  ],
+  "note": "The update reports birth and marriage certificates issued online through MoKloud over InfoHighway, and the Civil Status Act amended to allow it; it says nothing of how or where a birth or death is registered."
+}

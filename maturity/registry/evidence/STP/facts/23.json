@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-24-sao-tome-world-bank-icr-institutional-capacity-building-project",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema Integrado de Registo de Propriedade (SIRP)",
+      "country_label": "SIRP; Integrated Property Registration System",
+      "class": "land",
+      "platform": "",
+      "owner": "Ministry of Justice (General Directorate for Registries and Notaries), financed by the World Bank Institutional Capacity Building Project",
+      "tiers": "Not stated; 131,219 real-estate and car records digitised and catalogued at 30 June 2025"
+    }
+  ],
+  "note": "A completion report on banking supervision, public finance, statistics and property registration; the only registry system is the property register, out of scope. The capture is truncated at the fetch limit, in the middle of the Objective 3 table."
+}

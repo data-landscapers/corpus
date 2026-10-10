@@ -1,0 +1,8 @@
+{
+  "slug": "2024-04-23-id-platform-delivered-by-wisekey-facilitates-digital-govt-services-in-seychelles",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID", "country_label": "SeyID", "class": "identity", "platform": "WISeKey WISeID", "owner": "Government of Seychelles; delivered by WISeKey", "tiers": "web and mobile app, with a wallet for the National ID and digital driver's licence"}
+  ],
+  "note": "Trade-press report of the SeyID identity platform's delivery by WISeKey; an identity system, and nothing on civil registration."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-26-lesotho-micsti-unicef-digital-id-work-plan",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated national digital identity ecosystem",
+      "country_label": "integrated national digital identity ecosystem",
+      "class": "identity",
+      "platform": "MOSIP",
+      "owner": "MICSTI, with UNICEF under the 2026 Annual Work Plan of the Programme of Cooperation 2025-2028",
+      "tiers": ""
+    }
+  ],
+  "note": "The work plan is said to advance digital identity and civil registration systems, but everything it describes is identity: renewal, biometric registration, proof-of-life and authentication. No civil registration system or office is described."
+}

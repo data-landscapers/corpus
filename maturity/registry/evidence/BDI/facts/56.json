@@ -1,0 +1,23 @@
+{
+  "slug": "2026-08-04-insbu-actualites-et-evenements",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Saisie numérique des faits d'état civil 2025",
+      "country_label": "saisie numérique des faits d'état civil / digitalisation des registres",
+      "class": "archive",
+      "platform": "",
+      "owner": "INSBU, with the Ministère de l'Intérieur, supported by UNDP (PNUD)",
+      "tiers": "civil-status agents 'dans tout le Burundi'; registers of births, marriages and deaths"
+    },
+    {
+      "system": "RPPCUB 2026 (Recensement des Propriétaires des Propriétés/Parcelles dans les Centres Urbains du Burundi)",
+      "country_label": "RPPCUB",
+      "class": "land",
+      "platform": "tablets as collection tools",
+      "owner": "INSBU",
+      "tiers": "urban centres; launched 14 July 2026, enumerator training in Ngozi, Rumonge, Gitega, Ntahangwa, Mugere and Mukaza"
+    }
+  ],
+  "note": "One entry bears on the study: from 9 to 16 June 2026 INSBU, with the Interior Ministry and UNDP support, ran a national follow-up and training mission of civil-status agents for the 'digitalisation des registres' (births, marriages, deaths) across Burundi, under the title 'Saisie numérique des faits d'état civil 2025'. It is classed archive because the document describes keying, in 2026, the registers of events of 2025; it does not say the event is entered when registered, nor that the keying is routine for each new event. If the parent reads it as routine keying it would be civil, keyed-elsewhere, B;D, offices not-published, as_of 2026-06."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2019-01-01-niger-strategie-nationale-e-sante",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Interface SNIS - système de l'État civil",
+      "country_label": "interface du SNIS avec le système de l'État civil",
+      "class": "exchange",
+      "platform": "DHIS2 (SNIS)",
+      "owner": "Ministère de la Santé Publique",
+      "tiers": "planned project component in the 2019-2023 strategy"
+    }
+  ],
+  "note": "The e-health strategy names civil status only as one source of health information and as a system the national health information system is to be interfaced with; it says nothing of how civil status offices register."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-10-pnud-bamenda-appel-offre-digitalisation-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "UNDP published on 10 August 2026 a request for quotations for the supply of equipment for the digitalisation of civil status registration at three pilot centres, Bamenda I, Bamenda II and Bamenda III, and at BUNEC's Bamenda antenna, with bids due on 24 August 2026; the equipment was not yet supplied.", "as_of": "2026-08-10", "date_precision": "day", "system": "digitalisation of civil status registration (pilot centres, Bamenda)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The equipment for the three Bamenda pilot centres and BUNEC's Bamenda antenna is procured by UNDP through its own request for quotations of 10 August 2026.", "as_of": "2026-08-10", "date_precision": "day", "system": "digitalisation of civil status registration (pilot centres, Bamenda)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitalisation of civil status registration (pilot centres, Bamenda)", "country_label": "digitalisation of civil status registration", "class": "civil", "platform": "", "owner": "UNDP procurement; BUNEC antenna named", "tiers": "three pilot centres: Bamenda I, Bamenda II, Bamenda III, plus the BUNEC Bamenda antenna; equipment at tender stage"}
+  ],
+  "note": ""
+}

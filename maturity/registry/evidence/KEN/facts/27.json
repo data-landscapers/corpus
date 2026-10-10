@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-24-institutionalize-trust-digital-government-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "digitisation of 42 million birth registration records", "country_label": "", "class": "archive", "platform": "", "owner": "Ministry of Interior, State Department for Immigration and Citizen Services", "tiers": "more than 42 million records digitised in fiscal year 2025/2026, on the ministry's announcement and the principal secretary's briefing"},
+    {"system": "Maisha Namba", "country_label": "Maisha Namba", "class": "identity", "platform": "", "owner": "", "tiers": "more than 1.5 million cards produced in the first five months of 2026"},
+    {"system": "e-Citizen", "country_label": "e-Citizen", "class": "", "platform": "", "owner": "", "tiers": "more than 26,000 services"}
+  ],
+  "note": "The civil registration content is the digitisation of 42 million existing birth records in 2025/2026, a back-capture of registers already written; nothing is said about how new events are entered at offices."
+}

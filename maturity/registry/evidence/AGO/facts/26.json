@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay's Angola registry row states that rural registry offices predominantly record births on paper, with forms filled by hand at the point of service and digitised later at higher levels; it gives no date for this, so the published date of 31 March 2026 is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "civil registration offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "The essay relays a 2023 UNECA survey in which Angola reports itself among 10 countries where all civil registration offices countrywide have digitised databases and electronic entry of vital events, with electronic transmission from local to central level; no numerator or denominator is given, and the essay sets against it an African Union status report scoring Angola's digitisation below 35 per cent.", "as_of": "2023", "date_precision": "year", "system": "civil registration offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration offices", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "rural registry offices, with digitisation at higher levels; all offices countrywide on Angola's own 2023 survey answer"},
+    {"system": "Born with a birth certificate", "country_label": "Nascer com Registo", "class": "identity", "platform": "", "owner": "", "tiers": "identity issuance at hospitals, pilots in Zaire province"}
+  ],
+  "note": "study.json lists this slug under exclude_sources as an AI-assisted compilation: both facts are what the essay states, relayed from other reports, and the two contradict each other. The other Angola rows cover clinics, schools and police stations."
+}

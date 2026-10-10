@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-national-identity-card-consular-services-embassy-washington",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric National Identity Card application service for Algerians abroad", "country_label": "biometric National Identity Card", "class": "identity", "platform": "", "owner": "Embassy of Algeria in Washington", "tiers": "consular: online for holders of a biometric passport and a National Identification Number, otherwise at the embassy for fingerprint and signature capture; online tracking portal"}
+  ],
+  "note": "A consular identity-card procedure; the S12 birth certificate appears only as a paper to supply, and nothing is said on civil registration."
+}

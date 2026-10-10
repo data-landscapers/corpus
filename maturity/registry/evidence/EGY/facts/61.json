@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-worldbank-assessment-of-land-governance-in-egypt",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registry", "country_label": "Civil Registry", "class": "", "platform": "", "owner": "", "tiers": "the boundary of the qism (urban district) is also the boundary of the Civil Registry, which covers national ID registration and birth and death registration"}
+  ],
+  "note": "A land governance assessment; the one passage on the Civil Registry gives its territorial unit, the qism, and nothing on how records are made."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-seychelles-webgis",
+  "facts": [],
+  "systems": [
+    {"system": "WebGIS", "country_label": "WebGIS", "class": "land", "platform": "", "owner": "Ministry of Habitat, Infrastructure and Land Transport", "tiers": "public web portal"}
+  ],
+  "note": "The disclaimer page of the land ministry's public geoportal; a land system, out of scope, and nothing on civil registration."
+}

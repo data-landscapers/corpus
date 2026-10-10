@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01 Uganda Moves to Digital Certificates of Customary Ownership to secure land rights and improve land use",
+  "facts": [],
+  "systems": [
+    {"system": "digital Certificate of Customary Ownership template", "country_label": "digital CCO", "class": "land", "platform": "Social Tenure Domain Model (STDM)", "owner": "Ministry of Lands, Housing and Urban Development, with GLTN / UN-Habitat", "tiers": "Area Land Committees"}
+  ],
+  "note": "Concerns customary land certificates only; nothing on civil registration."
+}

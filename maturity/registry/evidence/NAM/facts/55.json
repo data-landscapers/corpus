@@ -1,0 +1,10 @@
+{
+  "slug": "2024-04-01 Namibia navigates biometric data privacy pending civil registration bill",
+  "facts": [],
+  "systems": [
+    {"system": "E-notices of birth and death", "country_label": "e-notices of birth and death", "class": "notification", "platform": "", "owner": "", "tiers": "not stated; the Bill links them to identity management and assigns a unique identifier at birth"},
+    {"system": "National ID card", "country_label": "ID cards (photograph plus ten fingerprints)", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "not stated"},
+    {"system": "Voter registration", "country_label": "voter registration (biometric)", "class": "land", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "An analysis of biometric data protection ahead of the Civil Registration and Identification Bill; it describes no system in which an office registers births or deaths."
+}

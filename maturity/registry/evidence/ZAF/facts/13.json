@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-31-home-affairs-extends-operational-hours-to-support-final-voter-registration",
+  "facts": [],
+  "systems": [
+    {"system": "Smart ID card", "country_label": "Smart ID card", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "all Home Affairs offices; more than 360,000 identity documents awaiting collection at 2026-07-31"}
+  ],
+  "note": "Extended office hours for identity document collection before voter registration; nothing on civil registration."
+}

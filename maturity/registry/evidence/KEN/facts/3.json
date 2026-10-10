@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-03-bungoma-id-registration-hampered-by-staff-vehicle",
+  "facts": [],
+  "systems": [
+    {"system": "live-capture kits", "country_label": "live-capture kits", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "Bungoma county registration centres; more kits awaited"},
+    {"system": "Rapid Results Initiative", "country_label": "Rapid Results Initiative", "class": "outreach", "platform": "", "owner": "National Registration Bureau with National Government Administration Officers", "tiers": "an 11-day mobile exercise in Bungoma county, reaching about 101,000 people"},
+    {"system": "e-Citizen", "country_label": "e-Citizen", "class": "certificate", "platform": "", "owner": "", "tiers": "payment for birth certificates issued by sub-county civil registrars in Bungoma"},
+    {"system": "NRB online ID application verification service", "country_label": "", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "online"}
+  ],
+  "note": "Civil Registration Services officials report one registrar in each of Bungoma's 13 sub-counties, birth coverage of 76 per cent and death coverage of 64.8 per cent, and that the one officer receives, verifies, enters and approves; the document does not say the entry is digital or name a civil registration system, so no fact is taken."
+}

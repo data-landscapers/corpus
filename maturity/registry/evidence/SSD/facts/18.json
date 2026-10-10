@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-24-south-sudan-modern-digital-birth-death-marriage-records",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 24 July 2026 the government announced plans to establish a Civil Registration and Vital Statistics system, a modern digital system recording births, deaths, marriages and divorces, the director-general saying it was important for South Sudan to establish one as most African countries already use such systems; it is an announced plan with no start date.", "as_of": "2026-07-24", "date_precision": "day", "system": "Civil Registration and Vital Statistics (CRVS) system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The planned CRVS system was announced by the director-general of Civil Registry, Nationality, Passports and Immigration as his directorate's, on 24 July 2026.", "as_of": "2026-07-24", "date_precision": "day", "system": "Civil Registration and Vital Statistics (CRVS) system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The director-general said on 24 July 2026 that partner countries and development organisations met in Zimbabwe expressed readiness to support the system with training, technical assistance, funding and infrastructure; no commitment, sum or domestic budget is stated.", "as_of": "2026-07-24", "date_precision": "day", "system": "Civil Registration and Vital Statistics (CRVS) system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS system; modern civil registration system", "class": "civil", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration", "tiers": "planned; none stated"}
+  ],
+  "note": ""
+}

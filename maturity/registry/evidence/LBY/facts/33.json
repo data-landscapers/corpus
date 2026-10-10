@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-who-emro-libya-annual-report-2023",
+  "facts": [],
+  "systems": [
+    {"system": "District Health Information Software 2 (DHIS2)", "country_label": "DHIS2", "class": "exchange", "platform": "DHIS2", "owner": "Ministry of Health, with WHO and other health partners", "tiers": "health facilities: rolled out in 2023 in 40 municipalities, 465 primary health care facilities and 51 hospitals; integrating civil registration and vital statistics reporting into it is planned for 2024, not done"}
+  ],
+  "note": "WHO's 2023 report. On the subject it says only that WHO supported national procedures for death certification and cause of death, paving the way for integrating civil registration and vital statistics reporting into DHIS2 in 2024, and that the health information workplan includes electronic tools for standardised registration of vital statistics. It names no civil registrar's system and does not say how an office enters a birth or death. The file's own header note calls the capture truncated, but the body read here runs to the report's last page."
+}

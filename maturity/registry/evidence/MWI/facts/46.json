@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-28 Malawi nears full scale digital ID rollout to streamline access to services",
+  "facts": [],
+  "systems": [
+    {"system": "National ID", "country_label": "national ID", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "National; 12.5 million enrolled, linked with over 33 institutions"},
+    {"system": "National ID number issued at birth", "country_label": "", "class": "exchange", "platform": "", "owner": "National Registration Bureau", "tiers": "The NRB Principal Secretary says every child now receives a national ID number at birth"},
+    {"system": "Digital ID wallet", "country_label": "digital ID wallet", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "Planned; full-scale digital ID rollout targeted for 2026"}
+  ],
+  "note": "Gives counts of births (over 3.5 million) and deaths (under 200,000) registered and the ID number at birth, but says nothing of how or where the record is made."
+}

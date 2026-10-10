@@ -1,0 +1,23 @@
+{
+  "slug": "2026-02-13 Morocco signs agreements with iDakto and ShareID for national digital identity wallet",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national digital identity wallet",
+      "country_label": "national digital identity wallet (Idarati X.0 programme)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Administrative Reform, with the DGSN",
+      "tiers": "in development; cooperation agreements with iDakto and ShareID announced 12 February 2026"
+    },
+    {
+      "system": "national electronic identity card",
+      "country_label": "national ID card",
+      "class": "identity",
+      "platform": "IDEMIA (2019 contract)",
+      "owner": "DGSN",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "No fact: about the national digital identity wallet (class identity). Nothing on civil registration."
+}

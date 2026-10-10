@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11)",
+  "facts": [],
+  "systems": [
+    {"system": "Unique Identification Number (UNI) pilot under WURI", "country_label": "Unique Identification Number (UNI)", "class": "identity", "platform": "", "owner": "WURI-Guinea project, World Bank-financed, closed early on 28 June 2024", "tiers": "pilot; 8,000 persons received a number"},
+    {"system": "RAVEC (Recensement Administratif à Vocation d'État Civil)", "country_label": "RAVEC", "class": "identity", "platform": "", "owner": "", "tiers": "planned administrative census"}
+  ],
+  "note": "A summary page of the World Bank status report: the identity pilot's early closing and the October 2023 passing of an identification law and a separate civil registry law; no civil registration system is described."
+}

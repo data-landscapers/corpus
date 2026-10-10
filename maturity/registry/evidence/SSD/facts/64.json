@@ -1,0 +1,12 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank study states that the Directorate of Nationality, Passport and Immigration under the Ministry of Interior has been tasked with establishing a civil registration system; the study gives no date for this, so its publication date (August 2018, on research carried out in 2017) is used.", "as_of": "2018-08", "date_precision": "month", "system": "civil registration system (to be established)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration system (to be established)", "country_label": "civil registration system", "class": "civil", "platform": "", "owner": "Directorate of Nationality, Passport and Immigration, Ministry of Interior", "tiers": "not yet established as at 2018"},
+    {"system": "national ID card", "country_label": "national ID card", "class": "identity", "platform": "card with thumbprint image, 2D barcode and ICAO-compliant machine-readable zone; 14-digit alphanumeric personal identification number", "owner": "Directorate of Nationality, Passport and Immigration, Ministry of Interior", "tiers": "170 registration devices across the country and embassies and about 100 handheld read-and-verify devices, largely at the borders; over 1 million cards issued"},
+    {"system": "Nationality Certificate", "country_label": "Nationality Certificate", "class": "identity", "platform": "MUHLBAUER (tender holder); 9-digit unique number", "owner": "Directorate of Nationality, Passport and Immigration, Ministry of Interior", "tiers": "issued since 2015 to citizens of all ages"}
+  ],
+  "note": "The South Sudan section is about the national ID and Nationality Certificate (identity class). It also says a birth certificate is not required for a national ID in South Sudan and gives birth registration at 14.7 per cent (SHHS-2, 2010) in one table and 35 per cent of under-fives (UNICEF) in a country box: shares of births, not of offices. The civil-class entry is a system yet to be established, with no description of how it would make a record."
+}

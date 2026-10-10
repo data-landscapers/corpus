@@ -1,0 +1,39 @@
+{
+  "slug": "2020-01-02-sierra-leone-finance-act-2020-tax-register",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic Know Your Customer Service (eKYC)",
+      "country_label": "eKYC",
+      "class": "identity",
+      "platform": "",
+      "owner": "National Civil Registration Secretariat / National Civil Registration Authority",
+      "tiers": "fee schedule for banks, microfinance, credit reference, passport, driver licence, NRA, NaSSIT, councils, Ministry of Lands, WAEC, universities and mobile companies"
+    },
+    {
+      "system": "National and ECOWAS ID cards",
+      "country_label": "National ID Card; ECOWAS ID Card; Corporate ID Card",
+      "class": "identity",
+      "platform": "",
+      "owner": "National Civil Registration Secretariat / National Civil Registration Authority",
+      "tiers": "not stated; fees per card"
+    },
+    {
+      "system": "civil registration certificates",
+      "country_label": "Delayed and Late Certificate; Certified True Copy; Marriage, Adoption and Divorce Certificates",
+      "class": "certificate",
+      "platform": "",
+      "owner": "National Civil Registration Secretariat / National Civil Registration Authority",
+      "tiers": "not stated; fees per certificate, with no statement of how they are requested or issued"
+    },
+    {
+      "system": "tax register",
+      "country_label": "tax register; Tax Identification Number (TIN); Integrated Tax Administration System (ITAS)",
+      "class": "land",
+      "platform": "",
+      "owner": "National Revenue Authority",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "A finance act: its schedule sets the civil registration body's fees for identity verification, ID cards and certificates, and says nothing about how births or deaths are registered."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [],
+  "systems": [
+    {"system": "National ID system (national population registry, national ID number and smartcard)", "country_label": "National ID", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA), Ministry of Home Affairs", "tiers": "national; about 14.7 million of a targeted 25 million citizens registered as of mid-2018"}
+  ],
+  "note": "For Tanzania the document describes the national ID system only; of civil registration it says that RITA is responsible for it and gives birth registration coverage figures, and states nothing on how or where a birth or death is recorded."
+}

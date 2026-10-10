@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-15-ang-gtape-966152-eleitores-caderno-eleitoral",
+  "facts": [],
+  "systems": [
+    {"system": "Caderno Eleitoral (GTAPE voter database)", "country_label": "Caderno Eleitoral", "class": "land", "platform": "", "owner": "Gabinete Técnico de Apoio ao Processo Eleitoral (GTAPE)", "tiers": "national, by region and diaspora; 966,152 voters at 2025-08-15"}
+  ],
+  "note": "Electoral register only; out of scope, nothing on civil registration."
+}

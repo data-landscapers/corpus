@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-02-cabo-verde-programa-de-governo-cabo-verde-para-todos",
+  "facts": [],
+  "systems": [
+    {"system": "RNI (Registo Civil)", "country_label": "RNI", "class": "", "platform": "", "owner": "Serviços dos Registos, Notariado e Identificação (justice sector)", "tiers": "not stated; listed among systems 'already existing' to be developed, improved and made fully operational"},
+    {"system": "SIRP (Registo Predial)", "country_label": "SIRP", "class": "land", "platform": "", "owner": "Serviços dos Registos, Notariado e Identificação", "tiers": "not stated"},
+    {"system": "SIRC (Registo Comercial)", "country_label": "SIRC", "class": "land", "platform": "", "owner": "Serviços dos Registos, Notariado e Identificação", "tiers": "not stated"},
+    {"system": "Chave Móvel Digital", "country_label": "Chave Móvel Digital", "class": "identity", "platform": "", "owner": "State", "tiers": "national; to be generalised as the central means of authentication"},
+    {"system": "Portal Único de Serviços Digitais do Estado", "country_label": "Portal Único de Serviços Digitais do Estado", "class": "", "platform": "", "owner": "State", "tiers": "national; to be launched"}
+  ],
+  "note": "The government programme of 2 July 2026 (section 4.1.5) commits to accelerating the digital integration of registries, notaries and identification by fully operationalising existing systems including 'RNI (Registo Civil)', to allow acts online; it names the system but does not say what it does or where the record is made, so no fact is taken. The parent may want this as a plan naming the system if another document classes RNI as civil. Capture is an excerpt truncated at 50,000 characters."
+}

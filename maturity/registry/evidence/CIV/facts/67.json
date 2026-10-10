@@ -1,0 +1,9 @@
+{
+  "slug": "2024-06-01-2024-wb-wuri-guinea-restructuring",
+  "facts": [],
+  "systems": [
+    {"system": "WURI foundational ID (fID) system, Côte d'Ivoire", "country_label": "fID system / UNI (WURI-Côte d'Ivoire)", "class": "identity", "platform": "", "owner": "project implementation unit at the Ministère de l'Emploi et de la Protection Sociale, with the Caisse Nationale d'Assurance Maladie", "tiers": "pilot launched in June 2024; 500,000 digital authentications a month reported at 3 June 2024"},
+    {"system": "RNPP", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "", "tiers": "listed in the abbreviations only"}
+  ],
+  "note": "A World Bank restructuring paper on the WURI identification programme (class identity); its one civil registration item is an indicator, newborn birth registrations assigned a unique number, at 0 on 3 June 2024 against a target of 5,000,000 by June 2026, and nothing is stated on how offices record events."
+}

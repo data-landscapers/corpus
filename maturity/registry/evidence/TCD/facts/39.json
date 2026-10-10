@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-chad-imf-country-report-2024-336",
+  "facts": [],
+  "systems": [
+    {"system": "Taxpayer register", "country_label": "taxpayer register", "class": "land", "platform": "", "owner": "tax administration", "tiers": "described by the IMF as unreliable and incomplete (2024)"},
+    {"system": "Company register", "country_label": "company register", "class": "land", "platform": "", "owner": "", "tiers": "no mechanism to identify and collect information on beneficial owners of legal persons (2024)"},
+    {"system": "Land register (recommended)", "country_label": "land register", "class": "land", "platform": "", "owner": "", "tiers": "a digital public platform the IMF recommends creating; formal land titles are lacking across much of rural Chad"}
+  ],
+  "note": "An IMF chapter on governance and corruption: the registers it names are tax, company and land registers, out of the study's scope; civil registration is not mentioned."
+}

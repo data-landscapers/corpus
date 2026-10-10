@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-03-mediaguinee-pn-ravec-secured-civil-registry-intrants-rgph4",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "On 3 March 2026 PN-RAVEC handed the 13 communes of Conakry secured, harmonised registers and printed forms, the birth register among them, which its deputy national coordinator said would cover more than 95% of the communes' needs for registering civil status events in Conakry in 2026.", "as_of": "2026-03-03", "date_precision": "day", "system": "registres et imprimés d'état civil sécurisés", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "registres et imprimés d'état civil sécurisés", "country_label": "intrants d'état civil sécurisés (registres et imprimés)", "class": "civil", "platform": "paper registers and printed forms", "owner": "PN-RAVEC supplies them; the communes' civil status services use them", "tiers": "the 13 communes of Conakry"}
+  ],
+  "note": "The document does not say registration is on paper only; it states that paper registers and forms were supplied to meet the year's registration needs. The printed forms include the burial authorisation certificate; no death register is named."
+}

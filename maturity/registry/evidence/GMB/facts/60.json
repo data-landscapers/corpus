@@ -1,0 +1,9 @@
+{
+  "slug": "2009-01-01-gambia-passport-office-immigration-act-cap-16-02",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric Passport", "country_label": "Biometric Passport", "class": "identity", "platform": "", "owner": "Director General of Immigration (Gambia Immigration Department)", "tiers": "Passport Office, ECOWAS Avenue, Banjul; application in person for interview and enrolment"},
+    {"system": "national identity card", "country_label": "national identity card", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A passport application page: the birth certificate appears only as a supporting document required by section 4B of the Immigration Act. Nothing stated about civil registration offices or how births and deaths are recorded."
+}

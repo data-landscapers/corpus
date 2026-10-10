@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-19-dz-interieur-rencontre-transformation-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic services at commune and wilaya level in civil status", "country_label": "services électroniques au niveau des communes et des wilayas — état civil", "class": "", "platform": "", "owner": "Ministry of the Interior, Local Authorities and Transport", "tiers": "communes and wilayas; the minister stressed on 16 February 2026 the importance of generalising them"},
+    {"system": "Electronic services for the biometric identity card, driving licences and biometric passports", "country_label": "carte d'identité biométrique, permis de conduire, passeports biométriques", "class": "identity", "platform": "", "owner": "Ministry of the Interior, Local Authorities and Transport", "tiers": "communes and wilayas"},
+    {"system": "National identification number as the single identifier linking databases", "country_label": "numéro d'identification national", "class": "identity", "platform": "", "owner": "Ministry of the Interior, Local Authorities and Transport", "tiers": "national; its adoption as the linking key is urged by the minister"}
+  ],
+  "note": "A ministerial speech of 16 February 2026 urging that electronic services in civil status be generalised at commune and wilaya level; it does not say what those services do, how a birth or death is registered, or how many offices have them."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The essay's Mauritania registry row says a UNICEF CRVS country profile of 2017 gives birth registration as processed 'electronically' by ANRPTS, on paper extracts from health facilities presented at the local Citizens' Reception Centre within 60 days.", "as_of": "2017", "date_precision": "year", "system": "ANRPTS civil registration through Citizens' Reception Centres (CAC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay's author, citing no direct evidence of digital recording at rural points, judges it 'likely' that paper declarations are entered digitally centrally and scores rural registries as predominantly paper locally; no date is given, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "ANRPTS civil registration through Citizens' Reception Centres (CAC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "ANRPTS civil registration through Citizens' Reception Centres (CAC)", "country_label": "Citizens' Reception Centres (CAC)", "class": "civil", "platform": "", "owner": "ANRPTS", "tiers": "Citizens' Reception Centres across the country, including rural areas"},
+    {"system": "Houwiyeti", "country_label": "Houwiyeti / e-ID", "class": "identity", "platform": "", "owner": "ANRPTS", "tiers": "digital ID application for verification, described as a pilot"}
+  ],
+  "note": "The source is the AI-assisted compilation that study.json excludes from profiles; its second fact is the author's own inference, worded as such. The passages on clinics, schools and police are outside the study."
+}

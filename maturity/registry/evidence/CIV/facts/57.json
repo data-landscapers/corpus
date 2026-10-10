@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-17-etat-civil-systeme-securise-sneci-fratmat",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "On 16 June 2025 ONECI opened at Yamoussoukro the third seminar on implementing the National Strategy for Civil Status and Identification (SNECI) for civil status officers, regional health directors and magistrates, at which the Minister of the Interior and Security said the aim is to put in place a digital civil status system ('état civil numérique') that is secure, interconnected and produces statistics; the article names no software.", "as_of": "2025-06-16", "date_precision": "day", "system": "état civil numérique (aim of the SNECI)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Minister of the Interior and Security said on 16 June 2025 that ONECI is the executing arm of the national civil status policy, with the support of its partner the European Union.", "as_of": "2025-06-16", "date_precision": "day", "system": "état civil numérique (aim of the SNECI)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "état civil numérique (aim of the SNECI)", "country_label": "état civil numérique; Stratégie nationale de l'état civil et de l'identification (Sneci)", "class": "civil", "platform": "", "owner": "ONECI, under the Ministry of the Interior and Security, with European Union support", "tiers": "stated as an aim for the whole territory; no offices or counts given"}
+  ],
+  "note": "The digital civil status system is stated as an aim and is not described beyond 'recording civil status events' with new technologies; the two governance facts rest on that, and the parent should weigh the class."
+}

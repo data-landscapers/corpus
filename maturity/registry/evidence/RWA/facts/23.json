@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-16-rwanda-vital-statistics-report-2025",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The National Institute of Statistics reports that the system shows 356,838 births and 39,355 deaths that occurred and were registered in 2025, and that divorces are registered into the NCI_CRVS system.", "as_of": "2025", "date_precision": "year", "system": "NCI_CRVS system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "NCI_CRVS system", "country_label": "NCI_CRVS; CRVS system", "class": "civil", "platform": "", "owner": "", "tiers": "national; holds registered births, deaths, marriages and divorces, and causes of death from health facilities and from verbal autopsy in communities"}
+  ],
+  "note": "The page says events are registered into the system but not where the entry is made or by how many offices; its completeness rates (births 92.9%, deaths 50.5% in 2025) are shares of events, not of offices."
+}

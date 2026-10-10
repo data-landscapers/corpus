@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration Card (NRC) system", "country_label": "NRC", "class": "identity", "platform": "paper-based legacy card", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "covered some 94 percent of the adult population by 2021"},
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "INRIS", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs and Internal Security", "tiers": "has registered 15 percent of adults using biometrics; post offices planned as further registration sites"},
+    {"system": "Planned homegrown foundational ID system", "country_label": "Digital ID", "class": "identity", "platform": "open standards, not named", "owner": "Government of Zambia; Smart Zambia Institute implements the financing project", "tiers": "planned; US$23 million IDA and US$2 million commercial financing under sub-component 2.1"}
+  ],
+  "note": "World Bank project document (partial capture) on connectivity, digital identity and e-services; the INRIS it describes is identity enrolment by biometrics, and it states nothing about the registration of births or deaths."
+}

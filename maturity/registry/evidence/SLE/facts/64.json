@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-sierra-leone-public-elections-act-2022",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Register of Voters",
+      "country_label": "Register of Voters",
+      "class": "land",
+      "platform": "",
+      "owner": "Electoral Commission",
+      "tiers": "registration centres prescribed within a ward or chiefdom"
+    }
+  ],
+  "note": "The passages are the Act's definitions of voter registration and a clause letting a Registration Officer ask for a birth certificate; the 'registration centre' is electoral. Nothing on civil registration."
+}

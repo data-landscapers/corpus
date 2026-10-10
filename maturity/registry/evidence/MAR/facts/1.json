@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-15-crvs-laws-morocco-coordination-technology",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "CRVS Laws' legal analysis states that Law 36.21 of 2021 (arts 2, 11, 12) provides for a national digital civil registration system that records, updates and stores civil acts and shares its data, and that Decree 2.22.04 art 18 authorises the Ministry of the Interior to use and share the national register's data; the page is undated, so as_of is its published date.",
+      "as_of": "2026-09-15",
+      "date_precision": "day",
+      "system": "national digital civil registration system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national digital civil registration system",
+      "country_label": "national digital civil registration system / national register (Law 36.21, Decree 2.22.04)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministry of the Interior",
+      "tiers": "national; office level not stated"
+    }
+  ],
+  "note": "Legal analysis only: says nothing of which offices enter events digitally. Data sharing with the statistics agency is authorised, not required; no coordinating committee."
+}

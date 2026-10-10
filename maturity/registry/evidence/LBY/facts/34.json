@@ -1,0 +1,8 @@
+{
+  "slug": "2023-02-07-gia-alrabt-aliliktruni",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic linkage service to the national database", "country_label": "الربط الإلكتروني / قاعدة البيانات الوطنية / الشبكة الوطنية لتبادل البيانات", "class": "exchange", "platform": "", "owner": "General Information Authority (الهيئة العامة للمعلومات), National Database Department", "tiers": "national; open to national bodies on request; no link to the civil register is named"}
+  ],
+  "note": "The General Information Authority's service page for linking national bodies' systems to the national database it runs, resting on Presidential Council decisions 130 and 1690 of 2018; the page body does not mention civil registration."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-clubofmozambique-dnic-identity-cards-first-semester",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Card (BI) production", "country_label": "Bilhete de Identidade (BI)", "class": "identity", "platform": "", "owner": "National Directorate of Civil Identification (DNIC)", "tiers": "service posts, 1,749 mobile capture units, 14 diplomatic and consular missions"},
+    {"system": "online pre-appointment scheduling system for identity cards", "country_label": "", "class": "identity", "platform": "", "owner": "DNIC", "tiers": "all posts at provincial civil identification headquarters since 15 January 2026"}
+  ],
+  "note": "Identity-card production figures for the first half of 2026 only; civil registration is not mentioned."
+}

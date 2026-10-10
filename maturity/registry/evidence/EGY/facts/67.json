@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-09-egy-maspero-digital-egypt-platform-un-shortlist-interoperability",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Egypt platform", "country_label": "منصة مصر الرقمية", "class": "certificate", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "web portal, mobile app and post offices nationwide; more than 240 services in 29 bundles, civil status services among them, with 12.9 million registered users (September 2026)"},
+    {"system": "Government digital switch", "country_label": "المحول الرقمي الحكومي", "class": "exchange", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "links the platform to more than 100 national databases and 109 government bodies"}
+  ],
+  "note": "Civil status is named only as one of the service bundles on the citizen portal; the document says nothing on how a birth or death is registered."
+}

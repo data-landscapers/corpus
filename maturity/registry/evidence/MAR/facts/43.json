@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-maroc-dgct-strategie-transformation-digitale-collectivites-territoriales",
+  "facts": [],
+  "systems": [
+    {"system": "Alhalamadania.ma", "country_label": "Alhalamadania.ma", "class": "", "platform": "", "owner": "Ministère de l'Intérieur, Direction Générale des Collectivités Territoriales (DGCT)", "tiers": "national platform for the collectivités territoriales; named, not described"},
+    {"system": "Watiqa.ma", "country_label": "Watiqa.ma", "class": "", "platform": "", "owner": "Ministère de l'Intérieur, Direction Générale des Collectivités Territoriales (DGCT)", "tiers": "national platform for the collectivités territoriales; named, not described"}
+  ],
+  "note": "The DGCT page lists Etat Civil among the commune business lines its digital transformation programme (strategy drawn up in 2021) is to digitalise, and names Alhalamadania.ma and Watiqa.ma among deployed national platforms without saying what either does; no system is described, so no fact."
+}

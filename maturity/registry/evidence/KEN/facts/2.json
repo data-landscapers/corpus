@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-05-parliament-probes-delays-in-issuance-of-ids",
+  "facts": [],
+  "systems": [
+    {"system": "Live Capture Units", "country_label": "Live Capture Units", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "county registration offices in Elgeyo Marakwet, transmitting to Nairobi headquarters"}
+  ],
+  "note": "The only system described is the identity bureau's live capture; the county civil registration officer asks for ICT equipment, connectivity and digitisation of records but no civil registration system is named or described."
+}

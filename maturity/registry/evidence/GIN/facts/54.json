@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-pn-ravec-site-officiel",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de l'État Civil (RNEC)", "country_label": "Registre National de l'État Civil (RNEC)", "class": "", "platform": "", "owner": "PN-RAVEC", "tiers": ""},
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "PN-RAVEC", "tiers": ""}
+  ],
+  "note": "The programme's home page: the two registers are named with a slogan each and no description of what they do; two undated news headlines mention the handover of printed and secured civil status registers, with no text."
+}

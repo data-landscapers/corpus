@@ -1,0 +1,13 @@
+{
+  "slug": "2024-03-11-refugee-policy-review-framework-drc",
+  "facts": [],
+  "systems": [
+    {"system": "national civil registry services", "country_label": "", "class": "", "platform": "", "owner": "the competent civil registry authority (not named)", "tiers": "not stated; refugees and asylum-seekers may register births, deaths and marriages on the same terms as nationals, with access limited for both by accessibility, awareness and availability of services; nothing said of how records are made"},
+    {"system": "leniency measure for late birth registration of refugee children", "country_label": "", "class": "outreach", "platform": "", "owner": "not stated", "tiers": "Goma and South Kivu (over 2,500 refugee children, to 30 June 2023) and Aru (2,750 South Sudanese refugee children), bypassing the judicial procedure for late registration"},
+    {"system": "refugee identity cards and asylum-seeker attestations", "country_label": "", "class": "identity", "platform": "", "owner": "Secretariat of the Commission Nationale pour les Réfugiés (CNR), under the Ministry of Interior", "tiers": "CNR Permanent Secretariat and provincial branches; 16 per cent of refugees held a CNR card in 2022"},
+    {"system": "refugee management database (registration, proof of registration)", "country_label": "", "class": "identity", "platform": "", "owner": "UNHCR, which maintains it; handover of registration to the Ministry of Interior planned for 2021 did not materialise", "tiers": "not stated; 74.37 per cent of refugees and asylum-seekers individually registered in 2022"},
+    {"system": "national identity cards (planned)", "country_label": "", "class": "identity", "platform": "", "owner": "Office National d'Identification de la Population (ONIP)", "tiers": "none: to be provided 'in the long run'"},
+    {"system": "one-stop shop for business registration", "country_label": "", "class": "land", "platform": "", "owner": "not stated", "tiers": "not stated"}
+  ],
+  "note": "The document says refugees may register vital events with the civil registry on the same terms as nationals and that implementation is limited; it does not describe how any office records a birth or death, on paper or digitally, so there is no fact."
+}

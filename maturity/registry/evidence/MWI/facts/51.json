@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-nrb-frequently-asked-questions",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The NRB's FAQ page states that the National Registration Bureau, a department in the Ministry of Homeland Security mandated to maintain the NRIS, registers every birth and every death and issues the certificates, with offices at every District Council, in selected post offices and in other designated centres. The page is undated; its published year is used.", "as_of": "2025", "date_precision": "year", "system": "Birth and death registration (NRB)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The NRB's FAQ page states that births are registered at the health facility, the village headman's office or the District Registration Office by parents or guardians filling an NR8 Birth Report form that hospital staff or the village head verify, with the certificate issued within 10 working days; deaths are registered at a health facility, in the community or at the District Registration Office, and no digital system is named for either. The page is undated; its published year is used.", "as_of": "2025", "date_precision": "year", "system": "Birth and death registration (NRB)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Birth and death registration (NRB)", "country_label": "Birth registration; death registration; NR8 Form (Birth Report)", "class": "civil", "platform": "", "owner": "National Registration Bureau, Ministry of Homeland Security", "tiers": "Health facilities, village headmen's offices and District Registration Offices; death certificates collected at the District Registration Office"},
+    {"system": "National Registration and Identification System (NRIS)", "country_label": "NRIS; National Registry", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "District Registration Offices in every district, selected post offices and designated centres; data sent to the National Registry for de-duplication and card printing"},
+    {"system": "Online pre-registration", "country_label": "Pre registration", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "Online; biometrics still captured in person at NRB offices"}
+  ],
+  "note": ""
+}

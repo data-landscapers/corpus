@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-10-zwe-businesstimes-rbz-ghost-wallets-civil-registry-linkage",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registry national database linkage with mobile financial services subscriber records", "country_label": "Civil Registry's national database", "class": "exchange", "platform": "", "owner": "Civil Registry; linkage by the Reserve Bank of Zimbabwe", "tiers": "national"}
+  ],
+  "note": "A lede-only capture on closing ghost mobile money wallets by linking them to the Civil Registry database; nothing on how births or deaths are registered."
+}

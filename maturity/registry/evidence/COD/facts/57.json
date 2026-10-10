@@ -1,0 +1,10 @@
+{
+  "slug": "2016-07-15-rdc-loi-16-008-code-famille-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Family Code as amended by Law 16/008 of 15 July 2016 has every birth, marriage and death entered as an act in a separate bound register whose blank leaves are numbered and initialled by the public prosecutor's officer, written out without gaps or abbreviations and closed by the civil-status officer at each year's end (Arts. 82-84); the captured articles provide for no electronic record.", "as_of": "2016-07-15", "date_precision": "day", "system": "registres de l'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "registres de l'état civil", "country_label": "registre de naissance, de mariage, de décès; registre supplétoire", "class": "civil", "platform": "paper registers", "owner": "Officier de l'état civil: mayor, bourgmestre of the commune, chief of the secteur or chefferie, head of diplomatic or consular mission; or a State agent named by the provincial governor", "tiers": "Bureau principal at the seat of each commune, secteur or chefferie; bureaux secondaires created by the provincial governor; a named officer may be posted to a groupement, a health zone or a reference hospital"}
+  ],
+  "note": "The capture is an excerpt ending in Art. 84; the Code's later civil-status articles were not read because they are not in the file."
+}

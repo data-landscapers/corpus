@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-21-worldbank-procasef-p172422-isr-seq12",
+  "facts": [],
+  "systems": [
+    {"system": "Land Information System / SIFCOM", "country_label": "SIFCOM", "class": "land", "platform": "", "owner": "PROCASEF with World Bank financing; municipal land bureaus", "tiers": "municipal land offices; 0 of a target of 120 equipped and operational with access at 21 November 2025, deployment postponed to end-December 2025"},
+    {"system": "eNICAD / SGF (Système de Gestion Foncière)", "country_label": "eNICAD", "class": "land", "platform": "", "owner": "tax and lands administration", "tiers": "parcel numbering; SGF rollout planned for 2026"}
+  ],
+  "note": "World Bank status report on the cadastre and land tenure project; land registration is out of scope and the document says nothing about civil registration."
+}

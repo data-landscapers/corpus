@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-10-congo-sifec-civil-status-digitisation-senate",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The Minister of the Interior and Decentralisation told the Senate on 7 August 2026 that the rollout of SIFEC was imminent; Brazzaville Insider, citing ACI, describes it as a plan on the verge of deployment and not a system in use.", "as_of": "2026-08-07", "date_precision": "day", "system": "Integrated Civil Status Facts System (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "According to the Interior minister on 7 August 2026, SIFEC would cover birth, marriage and death certificates, dematerialising and centralising the records; this is the stated scope of a platform not yet rolled out.", "as_of": "2026-08-07", "date_precision": "day", "system": "Integrated Civil Status Facts System (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Minister of the Interior and Decentralisation presented SIFEC to the Senate on 7 August 2026 as his ministry's answer to the sale of civil status papers by officials in town halls, districts and urban communities.", "as_of": "2026-08-07", "date_precision": "day", "system": "Integrated Civil Status Facts System (Sifec)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated Civil Status Facts System (Sifec)", "country_label": "Système intégré des faits d'état civil (Sifec)", "class": "civil", "platform": "", "owner": "Ministry of the Interior and Decentralisation", "tiers": "not yet rolled out as at 7 August 2026; designed to dematerialise and centralise birth, marriage and death records"}
+  ],
+  "note": ""
+}

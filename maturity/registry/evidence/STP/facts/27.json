@@ -1,0 +1,31 @@
+{
+  "slug": "2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "New foundational identity (bilhete de identidade) as a digital ID",
+      "country_label": "bilhete de identidade; Identidade Digital",
+      "class": "identity",
+      "platform": "Designed and implemented by the system integrator Ooru; Verifiable Credentials Infrastructure (VCI) shown as a prototype",
+      "owner": "INIC and DGRN jointly, financed by the World Bank STP Digital project (P177158)",
+      "tiers": "In design at September 2025; mass registration of the population planned for January or February 2026"
+    },
+    {
+      "system": "Interoperability and data-exchange platform (DEX)",
+      "country_label": "plataforma de interoperabilidade; DEX",
+      "class": "",
+      "platform": "Open standards, source code available to the government",
+      "owner": "INIC, financed by the World Bank STP Digital project (P177158)",
+      "tiers": "Functional prototype at September 2025"
+    },
+    {
+      "system": "Guiché Único de Empresas (GUE)",
+      "country_label": "Guiché Único de Empresas",
+      "class": "land",
+      "platform": "",
+      "owner": "DGRN",
+      "tiers": "Not stated; a legal and ICT diagnostic was presented in September 2025"
+    }
+  ],
+  "note": "An extract of a World Bank aide-mémoire on digital identity, interoperability, the data centre and the business register; it says nothing on the registration of births or deaths. The body is an excerpt, not the full document."
+}

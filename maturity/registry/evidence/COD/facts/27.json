@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-28-drc-8b-digital-plan-telecom-infrastructure-data-centers",
+  "facts": [],
+  "systems": [
+    {"system": "DRC Pass", "country_label": "DRC Pass", "class": "identity", "platform": "described as blockchain-based, with biometrics", "owner": "", "tiers": "not stated"},
+    {"system": "civil registration systems", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "not stated; named once, as 'streamlined civil registration systems' among the digital government services the 2026-2030 plan would bring"}
+  ],
+  "note": "A trade-press summary of the National Digital Plan 2026-2030: towers, fibre, data centres and training. Civil registration appears in one phrase, with no system described, no office and no date."
+}

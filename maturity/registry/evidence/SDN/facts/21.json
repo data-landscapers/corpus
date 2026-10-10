@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-29-gezira-umm-al-qura-civil-registry-relaunch",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The governor of Gezira State inaugurated civil registry work in Umm al-Qura locality on 29 April 2026 for issuing the national number and birth certificates, and the state's civil registry director said all civil registry centres in the state were complete and six more would open, per Al-Nawrs News; the report does not say whether the record is made digitally and gives no total of centres.", "as_of": "2026-04-29", "date_precision": "day", "system": "civil registry centre, Umm al-Qura locality", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registry centre, Umm al-Qura locality", "country_label": "السجل المدني بمحلية أم القرى", "class": "civil", "platform": "", "owner": "Civil Registry Administration, Gezira State police", "tiers": "locality centre in Gezira State issuing the national number and birth certificates; six further centres pledged in the state; no digital system described"}
+  ],
+  "note": ""
+}

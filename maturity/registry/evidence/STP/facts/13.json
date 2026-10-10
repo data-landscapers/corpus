@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-23-sao-tome-mne-emissao-passaporte-nao-presencial-diaspora",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Emissão de passaporte por via não presencial",
+      "country_label": "passaporte por via não presencial (Decreto-Lei n.º 1/2026)",
+      "class": "identity",
+      "platform": "Scanned documents sent as PDF by email",
+      "owner": "Serviço de Migração e Fronteiras (SMF)",
+      "tiers": "Central, for citizens in the diaspora"
+    }
+  ],
+  "note": "Passport applications by email for the diaspora, on a copy of a valid Bilhete de Identidade; nothing on the registration of births or deaths."
+}

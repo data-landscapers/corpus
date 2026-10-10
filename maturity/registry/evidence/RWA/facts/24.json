@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The essay's country table says rural registry offices at cell level use the NCI-CRVS system to record births and deaths at the point of service; the row is undated, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Centralized and Integrated CRVS (NCI-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay's country table says cell executive secretaries enter events electronically into the national NCI-CRVS, from a paper notification form the village chief completes for home births, and that health facility data managers enter maternity registers directly, as real-time digital services; undated, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Centralized and Integrated CRVS (NCI-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:2564", "fact": "The essay's country table says over 416 sectors and 2,148 cells provide real-time digital registration services, 2,564 offices together, giving no denominator; undated, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Centralized and Integrated CRVS (NCI-CRVS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Centralized and Integrated CRVS (NCI-CRVS)", "country_label": "NCI-CRVS", "class": "civil", "platform": "", "owner": "", "tiers": "cells (2,148), sectors (416) and health facilities with data managers"},
+    {"system": "community notification forms", "country_label": "paper community notification form", "class": "notification", "platform": "paper", "owner": "", "tiers": "village chiefs, for home births; entered by the cell executive secretary within 30 days"},
+    {"system": "IremboGov", "country_label": "IremboGov", "class": "certificate", "platform": "Irembo", "owner": "", "tiers": "certification of registered events"},
+    {"system": "link from NCI-CRVS to the National Population Register", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "registration generates a unique NIN and integrates with the National Population Register"}
+  ],
+  "note": "Passages only. study.json lists this slug under exclude_sources (an AI-assisted compilation, not sourced fact); the facts are recorded as the document states them for the parent to treat accordingly."
+}

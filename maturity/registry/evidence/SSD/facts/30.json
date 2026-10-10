@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-16 Juba - Passport, ID card issuance resumes",
+  "facts": [],
+  "systems": [
+    {"system": "personal identity card", "country_label": "Butaka Shakhsia", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)", "tiers": "not stated; 380,000 cards held in January 2026, issued to adults aged 18 and above"},
+    {"system": "nationality certificate", "country_label": "Jinsia", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)", "tiers": "not stated; about 35,000 certificates held in January 2026"},
+    {"system": "registration of foreigners", "country_label": "nationwide registration of foreigners using a SIM-card-based system", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)", "tiers": "planned"}
+  ],
+  "note": "About the resumption of passport, nationality and identity card issuance; nothing on the registration of births or deaths."
+}

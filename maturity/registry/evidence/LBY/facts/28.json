@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-06 Libya's Project Intilaqa matches Civil Registry electronic data with paper records",
+  "facts": [],
+  "systems": [
+    {"system": "Project Intilaqa", "country_label": "Intilaqa", "class": "archive", "platform": "", "owner": "Civil Registry Authority (CRA), Ministry of Interior", "tiers": "257 offices had completed matching and scanning by September 2024, with the data of 1.8 million families printed, a 97% completion rate on the CRA's figure"},
+    {"system": "Civil Registry electronic data (database)", "country_label": "Civil Registry database", "class": "", "platform": "", "owner": "Civil Registry Authority (CRA)", "tiers": "not stated"}
+  ],
+  "note": "Intilaqa matches the Civil Registry's electronic data against paper records and scans them, which is back-capture and checking of registers already written; the article does not say how a new birth or death is entered, so the sub-indicator takes no fact."
+}

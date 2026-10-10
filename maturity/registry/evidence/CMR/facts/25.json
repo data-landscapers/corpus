@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Card (CNI)", "country_label": "National Identity Card (CNI)", "class": "identity", "platform": "", "owner": "", "tiers": "foundational credential surveyed by Findex, 4 June to 7 July 2024; no digital ID listed"}
+  ],
+  "note": "A global dataset on adult ID ownership; its one Cameroon row (Annex D) names the national identity card as the foundational credential and says nothing of civil registration offices. Read as the opening 450 lines, the Cameroon rows with their table context and every civil-registration mention, not line by line to the end."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "National registration database", "country_label": "national registration database", "class": "", "platform": "", "owner": "the ministry (not named)", "tiers": "not stated; the instant payment scheme expects to verify identity against it at onboarding"},
+    {"system": "Digital ID card", "country_label": "new digital ID cards", "class": "identity", "platform": "", "owner": "", "tiers": "reported as rolling out 'next month' from July 2025"}
+  ],
+  "note": "An interview about the instant payment system; it says only that Namibia has a new Civil Registration and Identification law and a budget to implement it, and states nothing about how or where events are registered."
+}

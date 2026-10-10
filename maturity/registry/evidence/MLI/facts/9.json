@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-24-mali-conseil-des-ministres-cm-2026-29",
+  "facts": [],
+  "systems": [
+    {"system": "cahier de recensement", "country_label": "cahier de recensement", "class": "identity", "platform": "", "owner": "chefs de village, de fraction et de quartier, under the Ministère de l'Administration territoriale et de la Décentralisation", "tiers": "villages, fractions and quartiers"},
+    {"system": "Système intégré de Gestion des Ressources humaines", "country_label": "Système intégré de Gestion des Ressources humaines", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The draft ordinance adopted on 24 July 2026 formalises the village-level 'cahier de recensement', the register from which family record books are issued; the communiqué does not say how it is kept and says nothing of births or deaths registered at civil status centres. The cahier is classed identity as a population listing, on the document's one-line description."
+}

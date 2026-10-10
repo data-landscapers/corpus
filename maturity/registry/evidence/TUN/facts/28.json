@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-11-unfpa-72-municipalites-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "UNFPA Tunisia reports three training workshops on 20 November, 4 December and 11 December 2025, organised by the Ministry of the Interior and the National Institute of Health with the statistics institute and the Centre National d'Informatique and UNFPA support, involving 72 municipalities in all and giving civil status officers and heads of municipal districts intensive training on the Medania digital system for accurate and prompt declarations; the total number of municipalities is not given.", "as_of": "2025-12-11", "date_precision": "day", "system": "Medania", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Medania", "country_label": "système numérique Medania", "class": "civil", "platform": "", "owner": "", "tiers": "municipalities: civil status officers and heads of municipal districts in 72 municipalities were trained on it; training organised by the Ministry of the Interior with the Centre National d'Informatique among the partners"}
+  ],
+  "note": ""
+}

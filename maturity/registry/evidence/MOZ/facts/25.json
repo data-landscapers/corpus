@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-20-wb-moz-mass-civil-registration",
+  "facts": [],
+  "systems": [
+    {"system": "mass civil-registration campaign", "country_label": "", "class": "outreach", "platform": "", "owner": "Ministry of Justice, Constitutional and Religious Affairs, with the Ministry of Interior; World Bank funding of about US$9 million", "tiers": "up to 500 mobile brigades nationwide, launched 20 March 2026, targeting up to 7 million citizens by December 2026"},
+    {"system": "National Identity Card issuance", "country_label": "National Identity Card", "class": "identity", "platform": "", "owner": "Ministry of Interior", "tiers": "issued on the spot by the same brigades, free where first-time"}
+  ],
+  "note": "A deal record for the campaign's World Bank funding; a campaign by mobile brigades, with nothing on how the record is made, so no fact."
+}

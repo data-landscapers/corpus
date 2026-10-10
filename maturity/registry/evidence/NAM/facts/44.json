@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-08-namibia-vote39-home-affairs-budget-speech",
+  "facts": [],
+  "systems": [
+    {"system": "Population Register", "country_label": "Programme 01: Establishment and Regulation of Population Register", "class": "", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "not stated; a budget programme of N$178,122,000 for 2025/26"},
+    {"system": "Mass Registration campaign for national documents", "country_label": "Mass Registration campaign", "class": "outreach", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "5 February to 31 July 2024; 110,620 national documents issued and 14,976 undocumented or stateless persons recorded"},
+    {"system": "Biometric Fingerprint System (BFS)", "country_label": "Biometric Fingerprint System (BFS)", "class": "", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "first piloted at Khomas Regional Office, now being rolled out to other offices across the country"},
+    {"system": "Identity Personalization System", "country_label": "Identity Personalization System", "class": "", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "procurement of an upgrade of the existing system"},
+    {"system": "ID services at sub-regional offices", "country_label": "ID services", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "to be expanded in 2025/26 to Omungwelume Sub-regional Office (Ohangwena) and Karasburg Sub-regional Office (//Kharas)"},
+    {"system": "Civic affairs regional offices", "country_label": "Civic Affairs Regional Office; Regional Offices; Sub-Regional Office", "class": "enabling", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "Karas regional office completed; Nkurenkuru (Kavango West) and Katima Mulilo (Zambezi) under construction for completion in 2025/26; Karasburg sub-regional office renovated; feasibility studies for Ohangwena, Oshikoto, Otjozondjupa, Omusati and an Erongo sub-regional office"}
+  ],
+  "note": "The speech describes no system that registers births or deaths. The N$178,122,000 for 2025/26 is a domestic budget line for the programme 'Establishment and Regulation of Population Register', a name with no description; it also states that the Civil Registration and Identification Act, passed December 2024, was not yet operational at 8 May 2025 pending regulations."
+}

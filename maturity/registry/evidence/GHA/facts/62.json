@@ -1,0 +1,15 @@
+{
+  "slug": "2020-12-01-gsma-reimagining-identity-ecosystems-sub-saharan-africa-mobile",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "GSMA, citing UNICEF, states that the Government of Ghana has been piloting mobile birth registration systems since 2016, and that Tigo, UNICEF and the Births and Deaths Registry partnered in 2015 to develop an automated birth registration system called mBirth; no count of offices or sites is given.", "as_of": "2020-12", "date_precision": "month", "system": "mBirth", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "GSMA describes mBirth and the mobile systems piloted since 2016 as birth registration systems; deaths are not mentioned.", "as_of": "2020-12", "date_precision": "month", "system": "mBirth", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "GSMA states that the Births and Deaths Registry is the government agency responsible for civil registration in Ghana, and that mBirth was developed by the operator Tigo in partnership with UNICEF and the Registry (2015); no date is given for the first statement, so the report's date is used.", "as_of": "2020-12", "date_precision": "month", "system": "mBirth", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "mBirth", "country_label": "mBirth; mobile birth registration", "class": "civil", "platform": "", "owner": "Births and Deaths Registry, with Tigo (Airtel Tigo) and UNICEF", "tiers": "piloted; hard-to-reach areas named as the aim"},
+    {"system": "One-stop portal for e-services", "country_label": "integrated one-stop portal", "class": "certificate", "platform": "", "owner": "Government of Ghana", "tiers": "online"},
+    {"system": "Ghana Card / national ID registry", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority, in public-private partnership with Margins ID Group subsidiaries (ICPS, IMS)", "tiers": "registration centres; Mobile Registration Workstations"},
+    {"system": "Foreigners Identity Management System (FIMS)", "country_label": "FIMS", "class": "identity", "platform": "", "owner": "National Identification Authority", "tiers": ""}
+  ],
+  "note": "The report does not say who enters the record in mBirth or where, so mBirth's class rests on its description as an automated birth registration system; it also gives birth registration at about 70 per cent, lower in rural areas, and lists low investment in digital data capture and inadequate funding of the registry as challenges."
+}

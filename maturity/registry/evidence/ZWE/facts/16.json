@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-18-zwe-crvs-health-integration-egmrg-presentation",
+  "facts": [],
+  "systems": [
+    {"system": "CRVS-Health interoperability platform", "country_label": "CRVS-Health Integration; secure interoperability platform to exchange birth and death notifications", "class": "exchange", "platform": "API/middleware, design to be finalised Q4 2026; HL7 FHIR and ICD-10 named as standards", "owner": "Civil Registry Department with the Ministry of Health and Child Care", "tiers": "in implementation as of 18 July 2026; pilot planned in 3 provinces Q1-Q2 2027; all health facilities as a future aim"},
+    {"system": "birth and death notifications from health facilities", "country_label": "birth/death notifications", "class": "notification", "platform": "", "owner": "Ministry of Health and Child Care notifies; Civil Registry Department registers and issues the certificate", "tiers": "health facilities; processed manually before the integration"},
+    {"system": "National Population Register", "country_label": "National Population Register", "class": "identity", "platform": "", "owner": "Civil Registry Department", "tiers": "national; automated validation and synchronisation with it introduced"},
+    {"system": "Business Intelligence Module", "country_label": "Business Intelligence Module", "class": "", "platform": "", "owner": "Civil Registry Department", "tiers": "to be completed Q3 2026"}
+  ],
+  "note": "The presentation is on the link between health facilities' notifications and the Civil Registry, classes exchange and notification; it does not say how the registry office makes the record. A comprehensive CRVS country assessment is said to have been done, undated."
+}

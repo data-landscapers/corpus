@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-21-chinadaily-zimbabwe-gdssc-fund-civil-registry-digitisation",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "A two-year programme in eight drought-affected districts, financed through China's Global Development and South-South Cooperation Fund and managed by the government with UNICEF, is expected to support the digitisation and solarisation of civil registry offices and strengthen birth registration systems; no budget figure is given.", "as_of": "2026-08-07", "date_precision": "day", "system": "digitisation of civil registry offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 7 August 2026 a Chinese-funded, UNICEF-partnered two-year programme was launched at Kowoyo Clinic, Goromonzi, covering eight districts and expected to support the digitisation and solarisation of civil registry offices; the document does not say how many offices or what the digitised office will do.", "as_of": "2026-08-07", "date_precision": "day", "system": "digitisation of civil registry offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitisation of civil registry offices", "country_label": "digitization and solarization of civil registry offices", "class": "civil", "platform": "", "owner": "Government of Zimbabwe in partnership with UNICEF; financed by China's Global Development and South-South Cooperation Fund", "tiers": "civil registry offices in eight drought-affected districts"},
+    {"system": "outreach services for legal identity documents", "country_label": "outreach services", "class": "outreach", "platform": "", "owner": "Government of Zimbabwe in partnership with UNICEF", "tiers": "eight drought-affected districts"}
+  ],
+  "note": "The document says the offices are to be digitised but not what the digitised office does; the class civil is read from the phrase 'digitization of civil registry offices' alone and the parent may prefer it unclassified."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-03 Cabo Verde and CAR launch digital government platforms (Gov.CV)",
+  "facts": [],
+  "systems": [
+    {"system": "Gov.CV", "country_label": "Gov.CV", "class": "certificate", "platform": "web portal and mobile app", "owner": "Government of Cabo Verde", "tiers": "national; a single gateway to public services including civil registration and identity, tax, higher education and transport"}
+  ],
+  "note": "A citizen-facing service portal launched by the Prime Minister; the article does not say how civil registration offices make their records."
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2024-03-28 A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The World Bank states that before 2020 birth registration in The Gambia was paper-based, with completeness of about 59%.", "as_of": "2019", "date_precision": "year", "system": "birth registration (before eCRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The World Bank states that between 1 August 2022 and 28 February 2023 nearly 1.17 million people, more than half the population, were registered and issued birth certificates with a unique national identification number and QR code through an eCRVS system that replaced the paper process.", "as_of": "2023-02-28", "date_precision": "day", "system": "eCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank describes civil registration as the Ministry of Health's, the eCRVS having been built for the Gambian context with the private sector and its registration campaign run with the National Health Insurance Authority (campaign end date used).", "as_of": "2023-02-28", "date_precision": "day", "system": "eCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank states that the eCRVS mass registration of August 2022 to February 2023 was run by the World Bank-financed Gambia Essential Health Services Strengthening Project; no domestic budget line is named.", "as_of": "2023-02-28", "date_precision": "day", "system": "eCRVS", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "eCRVS", "country_label": "electronic Civil Registration and Vital Statistics (eCRVS) system", "class": "civil", "platform": "built with the private sector; vendor not named", "owner": "Ministry of Health", "tiers": "not stated by office; satellite internet used in remote areas"},
+    {"system": "simultaneous mass registration of birth certificates and national health insurance, 1 August 2022 to 28 February 2023", "country_label": "mass registration", "class": "outreach", "platform": "", "owner": "Ministry of Health with the National Health Insurance Authority, under the World Bank-financed Gambia Essential Health Services Strengthening Project", "tiers": "more than 1,500 officers; nearly 1.17 million people"},
+    {"system": "satellite internet in remote areas", "country_label": "", "class": "enabling", "platform": "satellite internet", "owner": "", "tiers": "remote areas"},
+    {"system": "integration of the Ministry of Interior's national ID system with the Ministry of Health's civil registration, the unique national identification number as common key", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Interior; Ministry of Health", "tiers": ""}
+  ],
+  "note": "The brief describes a mass campaign; it does not say how many offices enter records in the eCRVS or whether entry is online at registration. A March 2023 Gambia Bureau of Statistics survey found about 54% reported being registered, a share of people and not of offices."
+}

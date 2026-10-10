@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-13-mali-loi-2024-028-code-procedure-penale",
+  "facts": [],
+  "systems": [
+    {"system": "Base de données du Centre de traitement des données à caractère d'Etat civil (CTDEC)", "country_label": "base de données du Centre de Traitement des Données à Caractère d'Etat civil (CTDEC)", "class": "identity", "platform": "", "owner": "Centre de Traitement des Données à Caractère d'Etat civil", "tiers": "Consulted by court registries to verify a natural person's identity, as the alternative to examining the civil status registers, and a legal person's name (Articles 1289, 1290, 1292, 1324, 1327)"},
+    {"system": "Registres de l'état civil", "country_label": "registres de l'état civil", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The criminal procedure code has court registries verify identity against the civil status registers or the CTDEC database before filing criminal-record entries; it says nothing on how births or deaths are registered."
+}

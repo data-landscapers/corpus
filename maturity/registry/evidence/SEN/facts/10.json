@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-16-letechobservateur-senegal-id-day-gouvernance-identifiant-unique",
+  "facts": [],
+  "systems": [
+    {"system": "interconnexion entre les centres d'état civil et différentes institutions", "country_label": "interconnexion", "class": "exchange", "platform": "", "owner": "Agence nationale de l'État civil (ANEC)", "tiers": "civil-status centres and other institutions; described on 16 September 2026 as very advanced"},
+    {"system": "registre de la Direction de l'Automatisation des Fichiers", "country_label": "registre de la DAF", "class": "identity", "platform": "", "owner": "Direction de l'Automatisation des Fichiers (DAF), ministère de l'Intérieur", "tiers": "national; Wave has no access to it yet"},
+    {"system": "identifiant unique / identité numérique (New Deal Technologique)", "country_label": "identité numérique", "class": "identity", "platform": "", "owner": "ministry in charge of digital affairs; governance still to be decided", "tiers": "national; solution adopted and strategy defined, not in service"}
+  ],
+  "note": "Panel account of digital identity governance; on civil status it says only that interconnection of centres with other institutions is very advanced and that data quality is a problem, with no statement of how or where events are entered."
+}

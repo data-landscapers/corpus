@@ -1,0 +1,15 @@
+{
+  "slug": "1997-05-19-eritrea-proclamation-95-1997-land-registration-cadastral-office",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cadastral Office land register",
+      "country_label": "Cadastral Office",
+      "class": "land",
+      "platform": "",
+      "owner": "Cadastral Office, Ministry of Land, Water and Environment",
+      "tiers": "national; may designate one registration district or several"
+    }
+  ],
+  "note": "The law founding the land register, which the typology puts out of scope; nothing on civil registration."
+}

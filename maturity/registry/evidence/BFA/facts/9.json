@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-25-cnib-carte-nationale-identite-burkinabe",
+  "facts": [],
+  "systems": [
+    {"system": "CNIB control and issuance system", "country_label": "Carte Nationale d'Identité Burkinabè (CNIB)", "class": "identity", "platform": "", "owner": "Office National d'Identification (ONI)", "tiers": "data collection centres (CCD) in police stations; intermediate processing centres (CTID); ONI production centre"}
+  ],
+  "note": "Identity-card page: a copy of the birth certificate is a supporting document for the card; nothing on civil registration offices or how they record events."
+}

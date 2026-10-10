@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-11-malawi-nzika-digital-id-wallet-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Nzika Digital ID Wallet", "country_label": "Nzika", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "citizens' smartphones; launch scheduled for 16 September 2026; stores a digital version of the national ID card"},
+    {"system": "national digital ID system", "country_label": "national ID", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national; more than 13.5 million people, 99 per cent of citizens"}
+  ],
+  "note": "An advance notice of the identity wallet's launch; birth registration appears only in the wording of SDG 16.9, and nothing is stated about how births or deaths are registered."
+}

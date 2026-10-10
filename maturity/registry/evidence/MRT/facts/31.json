@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-01-ifes-election-faqs-mauritania-presidential-elections",
+  "facts": [],
+  "systems": [
+    {"system": "RAVEL voter register", "country_label": "Recensement administratif à vocation électorale (RAVEL)", "class": "land", "platform": "", "owner": "National Independent Electoral Commission (CENI)", "tiers": "electoral register compiled in 2023 and revised 15 April to 29 May 2024; 1,939,341 voters as of 7 June 2024; registration requires a valid biometric identity card"}
+  ],
+  "note": "Election FAQs: the electoral register, which the typology groups with the out-of-scope registers, and the biometric identity card as a condition of registering. Nothing on civil registration."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register / National ID Card", "country_label": "National Population Register/National ID Card", "class": "identity", "platform": "", "owner": "not stated", "tiers": "national; adult ID ownership 85% (men 84%, women 86%) in the ID4D-Findex survey, fieldwork 13 May to 27 June 2024; no digital ID coverage reported"}
+  ],
+  "note": "A global identity-coverage dataset; for Eswatini it gives only the foundational ID system's name and adult ID ownership, and nothing on civil registration offices. The annex table's row alignment is damaged in the transcription around the Eswatini line."
+}

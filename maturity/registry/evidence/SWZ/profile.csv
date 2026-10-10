@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SWZ,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-06-08,SWZ-002;SWZ-003;SWZ-005,SWZ-013=owner:ministry;SWZ-014=plan:current,
+SWZ,civil,events,coverage,B;D,2022,SWZ-011,,nothing dated since 2023-10-10
+SWZ,civil,made,coverage,connected,2022,SWZ-010,SWZ-001=paper,
+SWZ,civil,last12,qualifier,advancing,2026-06-08,SWZ-004,,
+SWZ,civil,offices,coverage,count:14,2022,SWZ-012,,nothing dated since 2023-10-10

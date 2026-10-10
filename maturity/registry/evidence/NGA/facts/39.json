@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-05-corporate-tax-2026-cac-numbers-nrs-identifiers",
+  "facts": [],
+  "systems": [
+    {"system": "Corporate Affairs Commission (CAC) company register, integrated with the Nigeria Revenue Service database", "country_label": "RC Number", "class": "land", "platform": "", "owner": "Corporate Affairs Commission; Nigeria Revenue Service", "tiers": "national; integrated from 1 January 2026"}
+  ],
+  "note": "About company registration numbers serving as tax identifiers; a business register, out of scope, and nothing on civil registration."
+}

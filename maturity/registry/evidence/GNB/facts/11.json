@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-11 Semlex Guinea-Bissau strengthens access to biometric identification",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric national identity card production centres", "country_label": "", "class": "identity", "platform": "Semlex", "owner": "Ministry of Justice, Directorate General of Civil Identification", "tiers": "18 production centres nationwide including Bissau; Safim (Biombo) opened 2026-01-30, with São Domingos and Bolama planned"}
+  ],
+  "note": "Identity-card production only; no civil registration content."
+}

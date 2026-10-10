@@ -1,0 +1,9 @@
+{
+  "slug": "2024-08-06-openimis-powers-cameroon-long-term-vision-universal-health-coverage",
+  "facts": [],
+  "systems": [
+    {"system": "openIMIS pilot for civil registration (North)", "country_label": "openIMIS pilot for civil registration", "class": "", "platform": "openIMIS", "owner": "", "tiers": "North; listed in the timeline at December 2023"},
+    {"system": "CamerHealth beneficiary registry", "country_label": "CamerHealth", "class": "", "platform": "CamerHealth application", "owner": "Ministry of Public Health", "tiers": "beneficiary registry of the universal health coverage scheme, interoperable with openIMIS"}
+  ],
+  "note": "A health-financing article; its timeline lists an openIMIS pilot for civil registration in the North at December 2023 with no description of what it does, so it is a systems entry with no class and gives no fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-23-tunisie-centres-modeles-police-garde-nationale-empreintes-digitales",
+  "facts": [],
+  "systems": [
+    {"system": "extrait électronique d'état civil", "country_label": "extrait électronique d'état civil", "class": "certificate", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "adopted in 2024 and described in September 2025 as fully operational"},
+    {"system": "plateforme numérique d'inscription à distance des élèves du baccalauréat", "country_label": "plateforme numérique (inscription à distance, extraits électroniques, demande de carte d'identité)", "class": "certificate", "platform": "", "owner": "Ministère de l'Intérieur, with the Ministère des Technologies de la communication", "tiers": "baccalaureate pupils online: attendance certificates, electronic extracts, fee payment and identity card requests"},
+    {"system": "demande en ligne de la carte d'identité nationale, lecteurs d'empreintes digitales", "country_label": "carte d'identité nationale", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, direction de la police technique et scientifique", "tiers": "police and national guard centres: one visit for fingerprints, digital readers replacing ink progressively; 21 model centres under construction"},
+    {"system": "identité numérique", "country_label": "identité numérique", "class": "identity", "platform": "", "owner": "", "tiers": "to be used with a QR code for an online residence certificate planned for 1 November 2025"}
+  ],
+  "note": "Interior ministry online services: an electronic civil status extract and identity card requests; certificate and identity systems, with nothing on how a registry office makes the record."
+}

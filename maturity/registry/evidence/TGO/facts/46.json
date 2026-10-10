@@ -1,0 +1,15 @@
+{
+  "slug": "2024-11-25-togo-digital-acceleration-project-p179138-pad",
+  "facts": [],
+  "systems": [
+    {
+      "system": "KfW E-Governance Project: digitalising civil registry services",
+      "country_label": "civil registry services (key services provided at the communal level)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digital Economy and Digital Transformation (MENTD) leads; KfW finances, EUR 20 million, contract signature expected by January 2025",
+      "tiers": "communes of the southern region whose mayors' and prefects' offices are to be connected by fibre"
+    }
+  ],
+  "note": "No fact: the passage (World Bank PAD, 25 November 2024) says only that a KfW project in final preparation will digitalise civil registry services in southern communes, without saying whether that is registration, copies of acts or old registers, so the system is unclassified."
+}

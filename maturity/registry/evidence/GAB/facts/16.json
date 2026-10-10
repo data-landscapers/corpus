@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table (an AI-assisted compilation by its own header) states that rural registry offices in Gabon primarily use paper-based processes for birth registration and that it found no evidence of routine digital recording at the point of service; it gives no date for this, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Rural registry offices (no system named)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "One-Stop Centres", "country_label": "One-Stop Centres (provinces)", "class": "outreach", "platform": "", "owner": "", "tiers": "provinces; late registration through supplementary judgments from tribunals transcribed into certificates, as the essay describes it"}
+  ],
+  "note": "study.json lists this slug under exclude_sources (AI-assisted compilation, not sourced fact); the fact is recorded as the document states it, for the parent to treat accordingly."
+}

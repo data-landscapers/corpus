@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-08-govt-procures-5-machine-systems-id-passport-onecitizendaily",
+  "facts": [],
+  "systems": [
+    {"system": "national ID and passport production machines", "country_label": "new generation of systems (five machines)", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport, and Immigration (CRNPI); machines provided by the Ministry of Interior", "tiers": "Juba: two machines for passports, three for national ID and nationality certificates"},
+    {"system": "mobile enrollment kits", "country_label": "mobile kits", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport, and Immigration (CRNPI)", "tiers": "100 kits received about the start of May 2026, to be distributed across all states; documents processed locally and data sent to Juba for final production"}
+  ],
+  "note": "About equipment for national ID, nationality certificate and passport production; nothing on the registration of births or deaths."
+}

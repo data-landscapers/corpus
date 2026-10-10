@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026",
+  "facts": [],
+  "systems": [
+    {"system": "Three-month registration campaign for birth certificates and National Registration Cards", "country_label": "campaign", "class": "outreach", "platform": "", "owner": "Government of Zambia", "tiers": "launched April 2025; intended to register around 3.5 million people"},
+    {"system": "Digital ID", "country_label": "digital ID", "class": "identity", "platform": "", "owner": "Department of National Registration, Passports and Citizenship, Ministry of Home Affairs and Internal Security", "tiers": "planned; the Registrar General aims to have digital IDs in place by the end of 2027"}
+  ],
+  "note": "No civil registration system is named or described. The Registrar General speaks of transforming civil registration through digitisation, of a roadmap and of backing from government and international partners, without naming a system, a plan document, offices or a record method. Also stated: 14 percent of births registered as of 2024 (UNICEF); six percent of registered children hold a certificate; target of 50 percent by the end of 2026; UNICEF advises linking health facilities to the civil registration system and more funding."
+}

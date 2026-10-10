@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-03-rwanda-health-intelligence-center-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Health Intelligence Center", "country_label": "HIC", "class": "exchange", "platform": "six-layer data architecture with a data lakehouse", "owner": "Ministry of Health", "tiers": "national; launched 3 April 2025; takes CRVS among its source systems alongside DHIS2, eBuzima and others"},
+    {"system": "Civil Registration and Vital Statistics", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": "named as a source system only"}
+  ],
+  "note": "The CRVS system is named only as one data source of a health analytics centre, with no description of how it registers; no fact."
+}

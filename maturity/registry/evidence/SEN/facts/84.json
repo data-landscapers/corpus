@@ -1,0 +1,8 @@
+{
+  "slug": "2020-05-07-european-union-sen-2020-nekkal-civil-registration-bw01",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national de l'état civil", "country_label": "Registre national de l'état civil; programme Nekkal", "class": "archive", "platform": "", "owner": "not stated; the Nekkal programme is EU-financed (FCFA 18 billion grant, launched 7 May 2020 for 42 months)", "tiers": "national register into which the digitised records are centralised"}
+  ],
+  "note": "No fact: the record states only back-capture, more than 19 million civil-status records digitised and indexed by June 2024 and centralised in the national register, under an EU grant of FCFA 18 billion; it says nothing of offices entering events digitally. It also gives the national civil-status strategy's budget as FCFA 68 billion."
+}

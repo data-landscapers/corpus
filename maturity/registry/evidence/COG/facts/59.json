@@ -1,0 +1,9 @@
+{
+  "slug": "2022-06-02-jo-2022-22-arretes-1888-1889-direction-identification-civile",
+  "facts": [],
+  "systems": [
+    {"system": "fichier national de l'identification civile and carte nationale d'identité informatisée, sécurisée et biométrique", "country_label": "fichier national; carte nationale d'identité informatisée, sécurisée et biométrique", "class": "identity", "platform": "", "owner": "direction de l'identification civile, ministère de la sécurité et de l'ordre public (police nationale)", "tiers": "central direction; production centres at Brazzaville, Pointe-Noire and Oyo covering all departments; departmental data-collection sections with antennas in arrondissements, districts and urban communities"},
+    {"system": "collaboration between the direction de l'identification civile and the civil status services", "country_label": "collaboration avec les services de l'état civil", "class": "exchange", "platform": "", "owner": "direction de l'identification civile", "tiers": "data-collection antennas collect and authenticate civil status documents and gather deceased persons' identity documents from civil status services to update the identity database; no electronic link is described"}
+  ],
+  "note": "Arrêtés 1888 and 1889 of 10 May 2022 organise the identity directorate and its card production centres; they describe an administrative hand-over of documents with the civil status services and say nothing of how a civil registration office records a birth or death."
+}

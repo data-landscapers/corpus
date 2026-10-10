@@ -1,0 +1,23 @@
+{
+  "slug": "2020-09-10-togo-loi-2020-009-identification-biometrique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Base de données centrale (NIU)",
+      "country_label": "base de données centrale; numéro d'identification unique (NIU)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Agence nationale d'identification (ANID), created by article 19 under the Presidency with technical supervision by the ministries for the digital economy and for security",
+      "tiers": "national central database; enrolment by the agency or registration bodies it designates; under-fives enrolled on demographic data against a parent's number"
+    },
+    {
+      "system": "Communication of civil-status acts and facts to the identity agency (article 12)",
+      "country_label": "actes et faits d'état civil et jugements déclaratifs communiqués à l'ANID",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Agence nationale d'identification (ANID) as recipient",
+      "tiers": "a legal provision of 10 September 2020, with the arrangements left to regulation; no system described"
+    }
+  ],
+  "note": "The founding law on biometric identification; on civil registration it provides only that civil-status acts and facts are to be communicated to the identity agency, and says nothing of how registry offices record events."
+}

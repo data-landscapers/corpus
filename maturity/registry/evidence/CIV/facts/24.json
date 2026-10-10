@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-03-rsu-convention-bcpfs-oneci",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national; to be interconnected with the social registry (RSU) under a convention signed 2026-04-02"}
+  ],
+  "note": "A convention of 2026-04-02 to interconnect the social registry of poor households (RSU) with ONECI's databases for unique identification through the population register; the social registry is outside the study's classes. Nothing on the registration of births or deaths."
+}

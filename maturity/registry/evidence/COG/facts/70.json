@@ -1,0 +1,15 @@
+{
+  "slug": "2007-04-02-congo-carte-nationale-didentite",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Carte nationale d'identité informatisée et sécurisée",
+      "country_label": "carte nationale d'identité informatisée et sécurisée",
+      "class": "identity",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur et de la Décentralisation; direction de l'identification civile; delivered by the national police authority of the applicant's place of residence",
+      "tiers": "Produced only by the centres of Brazzaville and Pointe-Noire; delivered by the national police at the place of residence"
+    }
+  ],
+  "note": "Describes the identity card under Décret 2007-207 of 2 April 2007: issued from age 16 on an original civil-status document (birth declaration, birth act, late declaration, family booklet, transcribed jugement supplétif or acte de notoriété), and a civil-status officer drawing up a death act must collect the card for the direction de l'identification civile. An identity system; nothing on how civil registration offices make their records."
+}

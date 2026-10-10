@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-11-guinee-decentralisation-etat-civil-npi",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de l'État Civil", "country_label": "Registre National de l'État Civil", "class": "", "platform": "", "owner": "Government of Guinea (stated by the Minister of Territorial Administration and Decentralisation)", "tiers": ""},
+    {"system": "plateforme de numérisation de l'état civil", "country_label": "plateforme de numérisation de l'état civil", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Registre National des Personnes Physiques", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A second publication of the minister's 10 August 2026 declaration: a national civil status register tied to a personal identification number and a civil status digitisation platform are named without a description of what they do or where records are entered; the 54% (2022) to 72% (2025) figure is a share of births registered, not of offices."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-30-datasphere-africa-data-availability-to-impact",
+  "facts": [],
+  "systems": [
+    {"system": "birth registration systems and national identification registration, not communicating", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "workshop participants' example of agencies hosted on e-Citizen whose information stays siloed"},
+    {"system": "e-Citizen", "country_label": "e-Citizen", "class": "", "platform": "", "owner": "", "tiers": "common platform hosting multiple government agencies"}
+  ],
+  "note": "Workshop participants' remark that birth registration systems often do not communicate with identity registration; nothing on how offices register."
+}

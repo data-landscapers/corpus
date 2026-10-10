@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-18 Launch of New Digital Solutions for Public Services",
+  "facts": [],
+  "systems": [
+    {"system": "CertExpress", "country_label": "CertExpress", "class": "certificate", "platform": "", "owner": "Department of Immigration and Civil Status, with the Department of Information Communications Technology", "tiers": "online; birth, marriage and death certificates in 2 working days for SCR 50, saved to the E-Doc wallet in the SeyID app"},
+    {"system": "SeyID", "country_label": "SeyID / virtual ID card", "class": "identity", "platform": "", "owner": "Department of Immigration and Civil Status, with the Department of Information Communications Technology", "tiers": "website and app; virtual ID cards for permit holders from 17 September 2024, and for citizens abroad"}
+  ],
+  "note": "The announcement of virtual ID cards for permit holders and of CertExpress for requesting certificates online: an identity system and a certificate portal, neither a civil-class system, and nothing on how a birth or death is registered."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-25-zwe-mutare-e-passport-office-opens",
+  "facts": [],
+  "systems": [
+    {"system": "e-passport services", "country_label": "e-passport", "class": "identity", "platform": "", "owner": "Civil Registry Department, Ministry of Home Affairs and Cultural Heritage", "tiers": "Mutare provincial registry office from 25 September 2025, after Chipinge; previously Harare and Marondera named; Johannesburg abroad"},
+    {"system": "Mutare Provincial Registry Complex", "country_label": "Provincial Registry Office", "class": "enabling", "platform": "", "owner": "Civil Registry Department", "tiers": "one provincial office (Manicaland); new building with a 40kVA solar power plant"}
+  ],
+  "note": "The opening of a provincial registry building and its e-passport service: the office issues birth and death certificates, but the article does not say how a birth or death is recorded there; the Registrar-General says civil registration is decentralised to all 10 provinces and 63 districts."
+}

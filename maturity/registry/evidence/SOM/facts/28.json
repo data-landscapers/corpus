@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-13-baidoa-idp-legal-id-registration-pilot",
+  "facts": [],
+  "systems": [
+    {"system": "Somali National ID system", "country_label": "national ID; digital legal ID", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA), with UNDP support", "tiers": "launched September 2023 with first enrolment centres in Banadir Region; over 1 million registered by November 2025 at 12,000 to 15,000 a day; permanent centres, mobile registration teams and enrolment centres in more than 30 embassies"},
+    {"system": "Baidoa IDP national ID registration campaign", "country_label": "Baidoa pilot", "class": "outreach", "platform": "", "owner": "NIRA with UNDP, the Federal Government, the Office of the President of South West State and Baidoa Municipality; funded from UNDP's Funding Windows (Luxembourg, Republic of Korea, Denmark)", "tiers": "one-month campaign with two enrolment centres and registration points at IDP sites in Baidoa; 38,026 people enrolled against a target of 25,000"}
+  ],
+  "note": "The document is about enrolment in the national identity system and a one-month identity registration drive among displaced people in Baidoa. It states nothing about the registration of births or deaths or about a civil registration office, so no fact is taken."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-11-webinaire-prodigy-cni-biometrique-digital-gov-mg",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The UGD's webinar deck of 11 June 2025 lists, among initiatives under way, the systematic registration of births, described as delivering a civil-status act with a unique identification number (NUI) for each newborn; it gives no count of acts or offices.", "as_of": "2025-06-11", "date_precision": "day", "system": "Enregistrement systématique des naissances / Système d'État Civil (SIECM)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Enregistrement systématique des naissances / Système d'État Civil (SIECM)", "country_label": "SIECM", "class": "civil", "platform": "", "owner": "PRODIGY component 1, financed by the World Bank; presented by the Unité de Gouvernance Digitale", "tiers": "shown as its own perimeter in the system diagram, receiving data from the IDMS; tiers not stated"},
+    {"system": "Système IDMS (orchestration, ABIS, NUI generator, IDVS, registre de population)", "country_label": "IDMS", "class": "identity", "platform": "described as an open-source, open-standard system for unique identification; ABIS; IDVS module for authentication and eKYC", "owner": "PRODIGY / Unité de Gouvernance Digitale", "tiers": "offline biometric enrolment on kits loaded with NUI and biographic data by district; central deduplication and population register"},
+    {"system": "Carte Nationale d'Identité biométrique", "country_label": "CNI biométrique", "class": "identity", "platform": "chipless polycarbonate ID-1 card, laser personalised, with a QR code in W3C verifiable-credential format", "owner": "PRODIGY", "tiers": "production target of 100,000 cards a day, with card production deconcentrated inside the country during the transition"},
+    {"system": "Registre des Foyers (e-Fokontany)", "country_label": "e-Fokontany", "class": "identity", "platform": "", "owner": "", "tiers": "household census attributing a unique identifier and a fokontany booklet to each household; its database feeds the enrolment kits"},
+    {"system": "Digitalisation des registres (Scan/OCR)", "country_label": "", "class": "archive", "platform": "scan and OCR", "owner": "PRODIGY", "tiers": "shown in the enrolment flow as a source for civil-status catch-up"},
+    {"system": "IDMS to Système d'État Civil data flow", "country_label": "", "class": "exchange", "platform": "", "owner": "PRODIGY", "tiers": "enrolment captures information for the état civil and sends data to the civil status system, which confirms or establishes the civil status before the NUI is activated"}
+  ],
+  "note": "A procurement webinar on the biometric identity card; the civil registration system appears only as a linked initiative and a box in the architecture diagram, with no statement of how or where offices use it."
+}

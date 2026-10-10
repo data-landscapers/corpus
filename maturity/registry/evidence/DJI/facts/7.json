@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-10-interieur-mobile-id-lancement-officiel",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile ID", "country_label": "Mobile ID, système national d'identité numérique", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, with MDENI, TO7 Network, ANC and ANSIE", "tiers": "national; smartphone-based authentication for public services, launched 10 February 2026"},
+    {"system": "Numéro National d'Identification", "country_label": "Numéro National d'Identification (NNI)", "class": "identity", "platform": "", "owner": "", "tiers": "named as a reform already under way"},
+    {"system": "Modernisation des registres d'état civil", "country_label": "modernisation des registres d'état civil", "class": "", "platform": "", "owner": "", "tiers": "named as a reform already under way, with no description of what it does"}
+  ],
+  "note": "The launch of Mobile ID; the modernisation of the civil-status registers is named in one clause with no description, so no civil-class fact."
+}

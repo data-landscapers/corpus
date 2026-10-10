@@ -1,0 +1,54 @@
+{
+  "slug": "2022-05-06-gff-enregistrement-statistiques-faits-etat-civil-tchad",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The GFF liaison officer in Chad states that the government established ANATS by administrative decree and that the agency seeks, among other things, to support the digitalisation of civil status records; no date is given for the decree, so the document's date is used.",
+      "as_of": "2022-05-06",
+      "date_precision": "day",
+      "system": "civil registration and vital statistics system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The GFF liaison officer states that a budgeted CRVS action plan was developed to guide the CRVS component of the PRPSS project, covering a communication strategy, training and the upgrading of civil registration centres, operational support to centres in PRPSS provinces and interoperability between health facilities and registration centres; the plan's own date is not given, so the document's date is used.",
+      "as_of": "2022-05-06",
+      "date_precision": "day",
+      "system": "civil registration and vital statistics system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The GFF liaison officer states that the PRPSS project, cofinanced by the World Bank and the GFF at US$105.6 million over 2021-2025 and covering eight of 23 provinces, dedicates US$2.4 million to CRVS improvement; no domestic budget line is mentioned.",
+      "as_of": "2022-05-06",
+      "date_precision": "day",
+      "system": "civil registration and vital statistics system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "civil registration and vital statistics system",
+      "country_label": "CRVS; civil registration centers",
+      "class": "civil",
+      "platform": "",
+      "owner": "ANATS named as the agency established to support it; ministries of planning, interior, public health and women and child protection took part in the action plan",
+      "tiers": "civil registration centres; PRPSS support in eight of 23 provinces"
+    },
+    {
+      "system": "digitalization of civil status records (pilot)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "ANATS, with UNICEF, UNFPA and UNHCR",
+      "tiers": "piloted in a few health districts, as at May 2022"
+    }
+  ],
+  "note": "The pilot gives no fact: the document says only that the digitalisation of civil status records is being piloted in a few health districts, without saying whether events are entered digitally at registration or existing records digitised, so it is left unclassified. Registration rates (25.5% national, 50% urban, 21.1% rural, MICS6 2019) are shares of births, not of offices."
+}

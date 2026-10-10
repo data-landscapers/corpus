@@ -1,0 +1,23 @@
+{
+  "slug": "2026-01-01-projet-appui-modernisation-etat-civil-rca",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Base de données (projet d'appui à la modernisation de l'état civil)",
+      "country_label": "création d'une base de données",
+      "class": "",
+      "platform": "",
+      "owner": "CIVIPOL, EU grant of EUR 4,450,000, with the MATD, the justice and health ministries and ICASEES",
+      "tiers": "pilot zone; created to secure the processing of the pilot regularisation of birth certificates (stock) and of the support to on-time birth registration (flow); who enters records, and where, is not described"
+    },
+    {
+      "system": "Expérience pilote de régularisation et de délivrance d'actes de naissance",
+      "country_label": "expérience pilote de régularisation et de délivrance d'actes de naissance; opérations de rattrapage",
+      "class": "outreach",
+      "platform": "",
+      "owner": "CIVIPOL, EU-financed",
+      "tiers": "pilot intervention zone; 35-month project begun January 2021; the page lists the handing over of the project's 100,000th birth certificate among its news"
+    }
+  ],
+  "note": "A standing project page: it names a database created to secure processing in the pilot zone without saying what it does at the office, so no civil-class system is described and no fact is taken."
+}

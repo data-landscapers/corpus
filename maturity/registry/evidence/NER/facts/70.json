@@ -1,0 +1,14 @@
+{
+  "slug": "2024-12-01-e-government-in-niger",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The E-Governance Knowledge Hub's country review states that, for now, civil registration and identification in Niger are paper based; it gives no date for the statement, so the document's published date (December 2024, itself inferred; its web sources were accessed in November 2024) is used.", "as_of": "2024-12", "date_precision": "month", "system": "civil registration", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The E-Governance Knowledge Hub's country review states that civil registration in Niger is paper based for now, naming no digital registration of births or deaths; undated in the text, so the document's published date (December 2024, inferred) is used.", "as_of": "2024-12", "date_precision": "month", "system": "civil registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration", "country_label": "civil registration", "class": "civil", "platform": "paper", "owner": "", "tiers": "not stated; described nationally as paper based"},
+    {"system": "electronic ID card", "country_label": "electronic ID card (2003 decree)", "class": "identity", "platform": "", "owner": "", "tiers": "decreed obligatory in 2003 and not realised, the card being too expensive to issue; identification described as paper-based"},
+    {"system": "Biometric Electoral Register", "country_label": "Biometric Electoral Register", "class": "land", "platform": "", "owner": "CENI", "tiers": "voter registration with ten fingerprints and photo, first initiatives in 2020; consultable on the CENI website"},
+    {"system": "digitalization of land cadastre", "country_label": "Numérisation du cadastre", "class": "land", "platform": "Excel files; PostgreSQL with PostGIS", "owner": "Direction Générale des Impôts", "tiers": "scanning of land title files and keying of title data, 81% complete in 2020"}
+  ],
+  "note": ""
+}

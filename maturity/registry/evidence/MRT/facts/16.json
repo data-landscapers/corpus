@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-16-ami-numerisation-services-consulaires-etat-civil-houwiyeti-diaspora",
+  "facts": [],
+  "systems": [
+    {"system": "تطبيق هويتي (Houwiyeti)", "country_label": "هويتي", "class": "", "platform": "", "owner": "", "tiers": "application through which consular and civil-status services are said to have been digitised for Mauritanians abroad, per the Director General for Mauritanians Abroad at a meeting in Montreal reported on 16 March 2026; which services is not stated"},
+    {"system": "منصة الخدمات القنصلية الرقمية", "country_label": "منصة الخدمات القنصلية الرقمية (digital consular services platform)", "class": "", "platform": "", "owner": "وزارة الشؤون الخارجية (Ministry of Foreign Affairs)", "tiers": "for Mauritanians abroad"}
+  ],
+  "note": "One clause lists the digitisation of consular and civil-status services through Houwiyeti and the consular platform among achievements for the diaspora; it does not say what either does, and nothing concerns an office registering a birth or death."
+}

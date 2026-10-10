@@ -1,0 +1,10 @@
+{
+  "slug": "1973-03-23-zambia-births-and-deaths-registration-act",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Births and Deaths Registration Act (Cap. 51, in force 23 March 1973, amended 1994) has notice of a birth or death given on a signed prescribed form to the district Registrar, who signs it and forwards it by registered post to the Registrar-General, who alone keeps the registers of births and deaths; the Act provides for no electronic record.", "as_of": "1973-03-23", "date_precision": "day", "system": "Registers of births and deaths", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Registers of births and deaths", "country_label": "Registers of births and deaths", "class": "civil", "platform": "", "owner": "Registrar-General of Births and Deaths", "tiers": "Notices are received by a Registrar of Births and Deaths in each district and forwarded to the Registrar-General, who keeps the registers"}
+  ],
+  "note": "The held text is the Act's sections 1 to 22 and stops at the heading of the subsidiary Districts Order; the General Rules are not in it."
+}

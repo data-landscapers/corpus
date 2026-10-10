@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-19-sen-programme-d-appui-au-developpement-de-l-education-au-senegal-pades-ii",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme Etat Civil (éducation)", "country_label": "Etat Civil: a platform used to identify in real time pupils without a civil-status document, filled in by school directors", "class": "", "platform": "", "owner": "ministère de l'Education nationale", "tiers": "schools, through their directors"}
+  ],
+  "note": "An education programme document; its passages give only the fall in pupils without a birth certificate (826,023 in 2017 to 497,335 in 2022) and an education-ministry platform listing such pupils, which is not a civil registration system and fits none of the typology's classes."
+}

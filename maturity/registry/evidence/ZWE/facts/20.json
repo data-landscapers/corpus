@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-14-minister-denies-id-backlog",
+  "facts": [],
+  "systems": [
+    {"system": "Zimbabwe Population Registry System (ZPRS)", "country_label": "Zimbabwe Population Registry System (ZPRS)", "class": "", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage", "tiers": ""},
+    {"system": "e-passports", "country_label": "e-passports", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage; Civil Registry Department", "tiers": ""},
+    {"system": "online application for birth certificates and passports", "country_label": "apply for birth certificates and passports online in real time", "class": "certificate", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage", "tiers": "a stated long-term goal, not in service"},
+    {"system": "mobile registration exercises", "country_label": "mobile registration exercises", "class": "outreach", "platform": "", "owner": "", "tiers": "said to have reached a fraction of an estimated 1.5 million undocumented children"}
+  ],
+  "note": "The minister names ZPRS without saying what it does, and concedes recent delays in issuing birth certificates for want of funds; the document does not say how an office makes the record of a birth or death."
+}

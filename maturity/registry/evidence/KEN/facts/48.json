@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-14-iebc-iris-identification-technology-nation",
+  "facts": [],
+  "systems": [
+    {"system": "KIEMS kits (Biometric Voter Registration module)", "country_label": "KIEMS kits", "class": "land", "platform": "", "owner": "Independent Electoral and Boundaries Commission", "tiers": "voter registration in 278 constituencies, supported by 57 Huduma centres, from 29 September 2025"}
+  ],
+  "note": "A news explainer on iris capture in voter registration; the electoral register is out of scope and nothing is said of civil registration."
+}

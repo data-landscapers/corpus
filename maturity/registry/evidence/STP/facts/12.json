@@ -1,0 +1,54 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "keyed-elsewhere",
+      "fact": "The essay's country table states that rural civil registry posts mostly use paper forms for birth registration and send paper copies to regional offices for electronic processing and transmission to the central DGRN; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Civil registry of the DGRN (unnamed in the document)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The essay's country table describes birth registration only: paper forms at rural posts, processed electronically at regional offices; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Civil registry of the DGRN (unnamed in the document)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "not-published",
+      "fact": "The essay's country table states that electronic databases exist only in urban areas and that rural offices remain paper-based, with no count of offices; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Civil registry of the DGRN (unnamed in the document)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Civil registry of the DGRN (unnamed in the document)",
+      "country_label": "Postos de Registo Civil; DGRN",
+      "class": "civil",
+      "platform": "",
+      "owner": "DGRN",
+      "tiers": "Rural posts on paper; regional offices process electronically and transmit to the central DGRN; electronic databases in urban areas only"
+    },
+    {
+      "system": "MOSIP digital ID pilot",
+      "country_label": "MOSIP digital ID",
+      "class": "identity",
+      "platform": "MOSIP",
+      "owner": "",
+      "tiers": "Pilots since 2024, anchored on CRVS"
+    }
+  ],
+  "note": "The document is an AI-assisted compilation by its own header and is listed in study.json exclude_sources; the facts are recorded as it states them."
+}

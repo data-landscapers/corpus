@@ -1,0 +1,74 @@
+{
+  "slug": "2026-03-10-sao-tome-dgrn-registo-nascimento-electronico-maternidades",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The chief conservator of the Registo Civil says births are registered in the maternities by entering the data directly into the DGRN database through its electronic system; he gives death counts (1,063 in 2025) but does not say deaths are entered digitally. No date is given for the system, so the document's published date is used.",
+      "as_of": "2026-03-10",
+      "date_precision": "day",
+      "system": "Sistema eletrónico de registo de nascimento (DGRN)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The chief conservator of the Registo Civil says birth registration is made directly in the system, into the DGRN's database, by DGRN technicians and trained nurse-midwives at the maternities, which have computers and printers, and that paper is being eliminated. No date is given, so the document's published date is used.",
+      "as_of": "2026-03-10",
+      "date_precision": "day",
+      "system": "Sistema eletrónico de registo de nascimento (DGRN)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "not-published",
+      "fact": "The chief conservator of the Registo Civil says free birth registration up to one year is done in all the country's maternities, by DGRN technicians and trained nurse-midwives entering it in the electronic system; he gives no number of maternities and says nothing of the other registry offices. No date is given, so the document's published date is used.",
+      "as_of": "2026-03-10",
+      "date_precision": "day",
+      "system": "Sistema eletrónico de registo de nascimento (DGRN)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The electronic birth registration system is described by the chief conservator of the Registo Civil as the DGRN's own, operated in the maternities by DGRN technicians and midwives it trained. No date is given, so the document's published date is used.",
+      "as_of": "2026-03-10",
+      "date_precision": "day",
+      "system": "Sistema eletrónico de registo de nascimento (DGRN)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "In March 2026 the chief conservator of the Registo Civil says the DGRN is, at this moment, eliminating paper by registering births directly in its database from the maternities; the DGRN recorded 3,077 birth registrations in 2025, against 4,701 in 2021.",
+      "as_of": "2026-03-10",
+      "date_precision": "day",
+      "system": "Sistema eletrónico de registo de nascimento (DGRN)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sistema eletrónico de registo de nascimento (DGRN)",
+      "country_label": "sistema eletrónico; registo de nascimento; Registo Civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "Direção-Geral dos Registos e Notariados (DGRN)",
+      "tiers": "All maternities in the country, staffed by DGRN technicians and trained nurse-midwives with computers and printers"
+    },
+    {
+      "system": "Campanhas de sensibilização para o registo de nascimento",
+      "country_label": "campanhas de sensibilização",
+      "class": "outreach",
+      "platform": "",
+      "owner": "Direção-Geral dos Registos e Notariados (DGRN)",
+      "tiers": "Aimed at mothers who give birth at home"
+    }
+  ],
+  "note": ""
+}

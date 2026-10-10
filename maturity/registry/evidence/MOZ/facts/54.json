@@ -1,0 +1,34 @@
+{
+  "slug": "2024-01-01-iba-digital-regulations-metaverse-mozambique",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The International Bar Association chapter states that the Strategic Plan for Information Society 2019-2028 and its operational plan (Resolution 52/2019) include improving the civil registry components, and that e-SIRCEV was established in 2018 to centralise the registry of all events subject to civil registration; dated to the document's published year, the plan running 2019-2028.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "e-SIRCEV",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-SIRCEV",
+      "country_label": "System of Civil Registration and Vital Statistics (e-SIRCEV)",
+      "class": "civil",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated; established 2018 to centralise the registry of all civil registration events and to interoperate with other public systems"
+    },
+    {
+      "system": "civil identification information system",
+      "country_label": "civil identification information system (Law 6/2022, national citizen identity cards)",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": ""
+}

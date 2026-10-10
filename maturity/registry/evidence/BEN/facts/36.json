@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-18-gouv-bj-elections-2026-plateformes-anip",
+  "facts": [],
+  "systems": [
+    {"system": "Liste Électorale Informatisée (LEI)", "country_label": "Liste Électorale Informatisée (LEI)", "class": "land", "platform": "", "owner": "ANIP", "tiers": "national; posted in each voting centre in September and October-November 2025 and sent to the CENA on 12 November 2025"},
+    {"system": "eservices.anip.bj and the ANIP.BJ application", "country_label": "https://eservices.anip.bj; application mobile ANIP.BJ", "class": "identity", "platform": "web portal, mobile app", "owner": "ANIP", "tiers": "the identification document needed to vote; also from ANIP counters in town halls and in the arrondissements of the special-status communes"},
+    {"system": "RAVIP", "country_label": "RAVIP", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "enrolment after 28 September 2025 comes too late for the 2026 roll"}
+  ],
+  "note": "A meeting of 16 August 2025 on the electoral roll and ANIP's platforms; nothing on the registration of births or deaths."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Civil Identification and Authentication System (SNIAC) / National Identification Card (CNI)", "country_label": "SNIAC / CNI", "class": "identity", "platform": "", "owner": "", "tiers": "national; listed as Cabo Verde's foundational ID system and credential, with a digital ID coded 'Yes' at data collection in 2024; adult coverage estimated from 2019 administrative data"}
+  ],
+  "note": "Global identity-coverage dataset; Cabo Verde appears as one of four Sub-Saharan economies with an operational digital ID in 2024 and in the annex table of foundational ID systems. Nothing on how civil registration offices record births or deaths."
+}

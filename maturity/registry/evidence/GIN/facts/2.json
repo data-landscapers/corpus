@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-18-gin-guinee114-atelier-extension-rnpp",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques (RNPP)", "class": "identity", "platform": "", "owner": "ONECI and the Direction générale des Élections jointly, under the supervision of MATD", "tiers": ""},
+    {"system": "Plateforme de vérification et de validation de l'identité", "country_label": "plateforme dédiée à la vérification et à la validation de l'identité", "class": "identity", "platform": "", "owner": "ONECI and the Direction générale des Élections, under MATD; local subcontractor Nexyme takes part", "tiers": ""}
+  ],
+  "note": "A workshop of 18 September 2026 on extending the population register and building an identity verification platform (first phase asked for before end-2026); no civil registration system is described."
+}

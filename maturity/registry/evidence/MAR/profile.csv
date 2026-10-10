@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MAR,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-15,MAR-001;MAR-008;MAR-016,MAR-007=owner:ministry;MAR-011=owner:ministry;MAR-015=owner:ministry;MAR-020=owner:ministry;MAR-021=finance:domestic,
+MAR,civil,events,coverage,B;D,2024-10-29,MAR-012,MAR-018=none,
+MAR,civil,made,coverage,connected,2024-10-29,MAR-014,MAR-009=paper;MAR-017=paper,
+MAR,civil,last12,qualifier,no-change,2026-01-30,MAR-006,,
+MAR,civil,offices,coverage,share:61%,2026-01-30,MAR-004,MAR-010=none;MAR-013=share:100%;MAR-005=share:15%;MAR-019=none,

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-07-22-acerwc-concluding-observations-eritrea",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The ACERWC, in concluding observations adopted at its session of 17-25 April 2026, records that Eritrea has developed a five-year Strategic Civil Registration and Vital Statistics Plan for 2024-2028; the document does not say whether the plan names a digital registration system.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Civil registration and vital statistics system",
+      "class": "civil"
+    }
+  ],
+  "systems": [],
+  "note": "No information system is named; the one fact is the CRVS plan, whose content the document does not describe. The capture is an excerpt ending in paragraph 8."
+}

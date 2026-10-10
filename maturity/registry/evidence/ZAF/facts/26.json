@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-06-digital-id-draft-regulation-gazetted",
+  "facts": [],
+  "systems": [
+    {"system": "national digital ID and digital wallet", "country_label": "digital ID", "class": "identity", "platform": "MyMzansi app", "owner": "Department of Home Affairs", "tiers": "proposed in draft regulations announced 2026-05-05; wallet to hold digital versions of identity document, birth certificate and marriage certificate; five-year validity"},
+    {"system": "population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national"},
+    {"system": "Smart ID issuance through banks", "country_label": "Smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": ""}
+  ],
+  "note": "Draft digital identity regulations; nothing on how births or deaths are registered."
+}

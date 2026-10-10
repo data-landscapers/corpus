@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda national digital ID", "class": "identity", "platform": "", "owner": "National ID Program (NIDP), transformed in August 2026 into the state-owned enterprise Faydaverse", "tiers": "national; 49.1 million enrolments on 12,000 biometric registration kits as of 24 August 2026"}
+  ],
+  "note": "Identity enrolment figures only; nothing on civil registration."
+}

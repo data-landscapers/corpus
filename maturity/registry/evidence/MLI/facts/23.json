@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-26 Mali introduces new platforms to enhance digital public service access",
+  "facts": [],
+  "systems": [
+    {"system": "NINA", "country_label": "national identification system (NINA)", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SIGIP", "country_label": "SIGIP", "class": "", "platform": "developed in Mali", "owner": "Ministry of Territorial Administration and Decentralisation", "tiers": ""}
+  ],
+  "note": "Platforms presented on 16 September 2025 are for transport documents, tolls, health records and, in SIGIP, data confidentiality, association monitoring and public-servant attendance; none is described as registering births or deaths. The article adds only that birth registration is around 90 percent, a share of events."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-mali-insp-disk-mali-asc-notification-perinatal-deaths-births",
+  "facts": [],
+  "systems": [
+    {"system": "DISK-Mali", "country_label": "DISK-Mali", "class": "notification", "platform": "integrated into DHIS2; smartphone data collection form", "owner": "Ministry of Health (INSP and the Direction Générale de la Santé et de l'Hygiène Publique) with Vital Strategies", "tiers": "community health worker sites in the health districts of Diéma, Kita, Sikasso and Kignan; the electronic form is said to be set up for all community health worker sites"}
+  ],
+  "note": "Community health workers notify live births and perinatal deaths by smartphone into the health system (729 live births and 35 perinatal deaths in eight months, 43.8% of notified births in the four districts' health zones); a health-side notification tool, with no statement that a civil status centre makes a digital record. The abstract gives no dates for the eight months."
+}

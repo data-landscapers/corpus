@@ -1,0 +1,10 @@
+{
+  "slug": "2019-05-01-tza-health-information-system-guidelines",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics system", "country_label": "Civil Registration and Vital Statistics system; vital registration system (birth and death registration)", "class": "", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA), under the Ministry of Constitution and Legal Affairs; vital statistics managed by the National Bureau of Statistics", "tiers": "Births, deaths and causes of death collected at health facilities and in the community and reported by health workers to RITA; some health facilities to be designated registration centres under the CRVS strategy; described in May 2019 as not fully operational, capturing a very low percentage of births and only facility-based deaths"},
+    {"system": "Village Registration System", "country_label": "Village Registration System", "class": "identity", "platform": "", "owner": "Prime Minister's Office; hamlet chairperson reports to the village executive officer", "tiers": "Village level: a register of village residents, updated as births or deaths occur"},
+    {"system": "Interoperability of RITA data systems with health facility systems", "country_label": "", "class": "exchange", "platform": "", "owner": "RITA with the Ministry of Health and PO-RALG", "tiers": "Required by the guidelines, to avoid duplicate work by health workers; the CRVS feed into DHIS is described as under development"}
+  ],
+  "note": "Health ministry guidelines of May 2019: they say who governs civil registration, that health workers report births and deaths to RITA and that the system is not fully operational, and cite the National CRVS Strategy 2015/16-2020/21, but never say whether or where a birth or death is entered as a digital record, so the system is unclassified and gives no fact."
+}

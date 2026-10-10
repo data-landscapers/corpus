@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push",
+  "facts": [],
+  "systems": [
+    {"system": "National personal register", "country_label": "national personal register", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national; nearly 98% of the population registered, more than 10 million identity documents issued, close to 200,000 biometric authentications a day, connected to more than 80 public and private institutions (ANIP's director general, ID4Africa, May 2025)"},
+    {"system": "Citizen mobile wallet", "country_label": "mobile wallet", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "planned for the end of 2026"}
+  ],
+  "note": "ANIP's director general says birth registration and identity management sit under one body and that a law gave legal identity to people without birth certificates; the document describes no system by which births or deaths are recorded."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-29 Namibia prepares to roll out national digital ID system",
+  "facts": [],
+  "systems": [
+    {"system": "National digital identity system", "country_label": "national digital identity system", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security (MHAISS), with UNDP and other development partners", "tiers": "launch in preparation; N$70 million allocated by government within the ministry's N$7.4 billion budget, per The Namibian"},
+    {"system": "African Guest Identity Card", "country_label": "African Guest Identity Cards", "class": "identity", "platform": "biometric card", "owner": "", "tiers": "issued to refugees"}
+  ],
+  "note": "About the digital identity system; it says the Civil Registration and Identification Act 2024 aims to integrate civil registration with the national ID system, and describes no civil registration system."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-15-recenseamento-automatico-fiscalizado-anpdp",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Recenseamento eleitoral automático",
+      "country_label": "base de dados do recenseamento eleitoral automático",
+      "class": "land",
+      "platform": "",
+      "owner": "Comissão Eleitoral Nacional (CEN)",
+      "tiers": "National"
+    },
+    {
+      "system": "Base de dados do registo e notariado",
+      "country_label": "base de dados do registo e notariado; base de dados dos registos",
+      "class": "",
+      "platform": "",
+      "owner": "Registos e Notariado",
+      "tiers": ""
+    }
+  ],
+  "note": "States that the data-protection agency will inspect the connection between the registry-and-notary database and the electoral commission's database; the registry database is named without a description of how its records are made."
+}

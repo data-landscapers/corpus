@@ -1,0 +1,11 @@
+{
+  "slug": "2025-02-17-anip-plateformes-digitales-numero-vert",
+  "facts": [],
+  "systems": [
+    {"system": "eservices.anip.bj", "country_label": "plateforme eservices.anip.bj", "class": "certificate", "platform": "web portal, with an AI chatbot, an anti-fraud system and a free call centre on 7054", "owner": "ANIP", "tiers": "put into service on 14 February 2025; citizens obtain their documents online"},
+    {"system": "Tablets in embassies", "country_label": "tablettes déployées dans plusieurs ambassades", "class": "identity", "platform": "tablets", "owner": "ANIP", "tiers": "several embassies, for the diaspora's identification documents"},
+    {"system": "Motorbikes for identification agents", "country_label": "", "class": "enabling", "platform": "", "owner": "ANIP, through the World Bank-financed WURI project", "tiers": "agents reach people living with a disability"},
+    {"system": "Registre national des personnes physiques", "country_label": "Registre national des personnes physiques", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national; a double-validation mechanism checks data sent to it"}
+  ],
+  "note": "The launch of ANIP's service platforms on 14 February 2025; the director general speaks of a mother obtaining a birth act at birth as an aim, and no system for recording births is described."
+}

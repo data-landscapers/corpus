@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay's country table scores Algeria's registry 2 and describes recording as predominantly paper locally with national digital systems, saying central digitisation indicates paper at rural points digitised centrally; it says it found no direct rural-specific evidence and gives no date, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "civil registration (état civil) at commune level, with civil registries interconnected nationally", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil registries interconnected nationally, allowing extracts from any commune", "country_label": "état civil", "class": "civil", "platform": "", "owner": "Ministry of the Interior", "tiers": "commune level, including rural areas; interconnected since about 2014"},
+    {"system": "Online request for the 12S secure birth certificate (demande12s.interieur.gov.dz)", "country_label": "12S", "class": "certificate", "platform": "", "owner": "Ministry of the Interior", "tiers": "online"},
+    {"system": "Digital birth extract (etatcivil.interieur.gov.dz)", "country_label": "نسخة رقمية لشهادة الميلاد", "class": "certificate", "platform": "", "owner": "Ministry of the Interior", "tiers": "online"}
+  ],
+  "note": "This source is on the study's exclude_sources list (an AI-assisted compilation by its own header); its one fact is the essay's inference, recorded as the document states it."
+}

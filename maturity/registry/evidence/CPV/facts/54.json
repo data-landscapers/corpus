@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-21-cabo-verde-decreto-lei-36-2026-portal-unico-servicos-digitais",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Portal Único",
+      "country_label": "Portal Único; Portal transacional de serviços públicos digitais integrados do Estado",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "National portal for digital public services, for residents on all islands and the diaspora"
+    },
+    {
+      "system": "Cartão nacional de identificação and passaporte eletrónico issuance through embassies",
+      "country_label": "cartão nacional de identificação; passaporte eletrónico",
+      "class": "identity",
+      "platform": "",
+      "owner": "Embassy of Cabo Verde in Portugal for the document life cycle, working with RNI, the Polícia Nacional and NOSi",
+      "tiers": "Requests lodged at embassies and consulates; identification data checked against the civil register by the embassy in Portugal"
+    }
+  ],
+  "note": "The passages concern the single digital services portal and the issue of identity cards and passports through embassies, checked against the civil register; nothing is stated about how a registry office records a birth or death."
+}

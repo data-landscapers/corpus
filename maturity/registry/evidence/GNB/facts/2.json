@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-18-guinea-bissau-gtape-entrega-cadernos-eleitorais-cne",
+  "facts": [],
+  "systems": [
+    {"system": "Cadernos Eleitorais (Recenseamento Eleitoral)", "country_label": "Cadernos Eleitorais", "class": "land", "platform": "", "owner": "Gabinete Técnico do Apoio ao Processo Eleitoral (GTAPE)", "tiers": "national; handed to the CNE on paper and in electronic form"}
+  ],
+  "note": "Electoral register only (966,152 voters, handed over 2026-08-18); out of scope, no civil registration content."
+}

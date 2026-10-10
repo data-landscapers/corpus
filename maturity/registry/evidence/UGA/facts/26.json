@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-01 Understanding-MOSIP-Biometric-Update-report",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP deployment in Uganda", "country_label": "", "class": "identity", "platform": "MOSIP", "owner": "", "tiers": ""}
+  ],
+  "note": "A source record summarising a report on the MOSIP identity platform; it lists Uganda as a case study and says nothing of civil registration there (the civil registration use it names is Morocco's)."
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "2026-07-20-matddl-numerisation-etat-civil-training-oubangui",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Oubangui Médias reports that in July 2026 the territorial administration ministry (MATDDL), supported by its technical operator CIVIPOL, was preparing to deploy a Central African application meant to cover, in time, the management of births, marriages and deaths; the software was not yet deployed.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Système National Intégré de Gestion de l'État Civil (logiciel applicatif endogène centrafricain)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The article says the MATDDL, through its Direction Générale de la Décentralisation et de l'État Civil, is preparing the deployment of the civil registration application, with CIVIPOL as its technical operator.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Système National Intégré de Gestion de l'État Civil (logiciel applicatif endogène centrafricain)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The article says the work follows the Politique Nationale de l'État Civil (PNEC), validated and adopted by the Head of State on 4 April 2025; it does not say the policy names the application.",
+      "as_of": "2025-04-04",
+      "date_precision": "day",
+      "system": "Système National Intégré de Gestion de l'État Civil (logiciel applicatif endogène centrafricain)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The article places the work within the project supporting the modernisation, securing and accessibility of the civil registration system, financed by the European Union Delegation; no domestic budget line is mentioned.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Système National Intégré de Gestion de l'État Civil (logiciel applicatif endogène centrafricain)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Système National Intégré de Gestion de l'État Civil",
+      "country_label": "Système National Intégré de Gestion de l'État Civil; logiciel applicatif endogène centrafricain",
+      "class": "civil",
+      "platform": "locally developed application, not named",
+      "owner": "MATDDL (DGDEC), with CIVIPOL as technical operator",
+      "tiers": "not yet deployed; deployment in preparation, July 2026"
+    },
+    {
+      "system": "Registre National de l'État Civil (RNEC)",
+      "country_label": "Registre National de l'État Civil (RNEC)",
+      "class": "archive",
+      "platform": "",
+      "owner": "MATDDL (DGDEC)",
+      "tiers": "national file fed by scanning of existing registers from communes and tribunals, including the most isolated; nearly 2 million acts, of which 125,000 birth certificates from late-registration campaigns"
+    },
+    {
+      "system": "Numérisation des registres d'état civil (MODERO scanning campaign)",
+      "country_label": "campagne de numérisation des registres d'état civil",
+      "class": "archive",
+      "platform": "scanners; electronic document management",
+      "owner": "MATDDL (DGDEC), with CIVIPOL, EU-financed",
+      "tiers": "project zone first, the whole country in time; agents trained in Bangui 16-17 July 2026 and scanning started; more than 56% of original registers said to be degraded or at risk"
+    },
+    {
+      "system": "Campagnes d'enregistrement tardif",
+      "country_label": "campagnes d'enregistrement tardif à l'état civil",
+      "class": "outreach",
+      "platform": "",
+      "owner": "",
+      "tiers": "125,000 birth certificates issued through recent campaigns"
+    }
+  ],
+  "note": ""
+}

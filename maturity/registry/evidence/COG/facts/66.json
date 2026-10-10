@@ -1,0 +1,11 @@
+{
+  "slug": "2018-01-01-acsi-systeme-integre-des-faits-detat-civil-sifec",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The state information systems agency ACSI lists SIFEC, an application for managing civil status events that follows a person from birth through marital life to death, with the Ministry of the Interior as client, as a prototype with status 'in development', year 2018; no deployment in any office is stated.", "as_of": "2018", "date_precision": "year", "system": "Système Intégré des Faits d'Etat Civil (SIFEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système Intégré des Faits d'Etat Civil (SIFEC)", "country_label": "SIFEC", "class": "civil", "platform": "developed by the Agence Congolaise des Systèmes d'Information (ACSI)", "owner": "Ministère de l'intérieur (client); ACSI (developer)", "tiers": "prototype, in development (2018); no tier stated"},
+    {"system": "SIRVEC (système d'information du recensement à vocation d'état civil)", "country_label": "SIRVEC", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

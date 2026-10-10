@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-16-cniapge-app-rc-digitalizacion-registro-civil-egob",
+  "facts": [],
+  "systems": [
+    {"system": "APP RC (Digitalización del Registro Civil)", "country_label": "Digitalización del Registro Civil, APP RC", "class": "certificate", "platform": "", "owner": "Centro Nacional para la Informatización de la Administración Pública de Guinea Ecuatorial (CNIAPGE)", "tiers": "not stated; described only as allowing the issue of electronic certificates with QR codes to verify their authenticity"},
+    {"system": "Pre-registro de Nacimientos", "country_label": "Pre-registro de Nacimientos", "class": "notification", "platform": "", "owner": "CNIAPGE", "tiers": "being implemented in the city of Bata, Continental Region; a new system that will allow newborns to be registered from the reference hospitals"},
+    {"system": "Plataforma de Desarrollo e-Gob", "country_label": "e-Gob", "class": "enabling", "platform": "", "owner": "CNIAPGE", "tiers": "all institutions of the national public administration, as stated"}
+  ],
+  "note": "As of 16 March 2025 CNIAPGE's Director General describes APP RC only by its issue of electronic certificates with QR codes, which is the certificate class, and Pre-registro de Nacimientos as a future system for registering newborns from reference hospitals, under way in Bata with unspecified 'improvements in the Civil Registry'; classed notification on the word pre-registro, though the text says 'registrar' and the parent may read it as civil. Nothing states that an office makes the digital record of a birth or death."
+}

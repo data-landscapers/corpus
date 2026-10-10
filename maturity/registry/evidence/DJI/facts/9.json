@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-10-mobile-id-launch-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile ID", "country_label": "Mobile ID", "class": "identity", "platform": "", "owner": "Interior Ministry", "tiers": "national; electronic authentication by smartphone or unique digital identifier, launched 9 February 2026; access to civil registry services is named among its priority use cases"}
+  ],
+  "note": "An account of the Mobile ID launch; access to civil registry services is listed as a priority use of the identity credential, with no civil registration system described."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-11-anid-plateaux-ouest-enregistrement",
+  "facts": [],
+  "systems": [
+    {"system": "programme national d'identification biométrique (WURI-Togo)", "country_label": "Numéro d'identification unique (NIU), programme WURI-Togo", "class": "identity", "platform": "", "owner": "Agence nationale d'identification (ANID)", "tiers": "enrolment campaign by prefecture: awareness launched 2026-05-07 at Kpalimé and Badou for Kloto and Wawa (Plateaux-Ouest), enrolment in Wawa due from 2026-05-17; more than 6 million NIU holders at end 2025"}
+  ],
+  "note": "Identity enrolment only; civil registration is not mentioned."
+}

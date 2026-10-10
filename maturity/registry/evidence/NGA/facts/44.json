@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-01 Nigeria intensifies efforts to digitalise birth, death registrations",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "DPI Africa reports that the e-CRVS platform launched by President Tinubu 'in November' is a digital platform for documenting birth and stillbirth, birth attestation, adoption, marriage and divorce notification, migration and death, issuing electronic certificates for births and deaths; the document gives no year for the launch (its latest dated figure is August 2023), so its published date is used.", "as_of": "2025-12", "date_precision": "month", "system": "electronic Civil Registration and Vital Statistics System (e-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "DPI Africa states that the e-CRVS platform is managed by the National Population Commission, the statutory body responsible for documenting births, deaths and marriages; no date is given for this, so the published date is used.", "as_of": "2025-12", "date_precision": "month", "system": "electronic Civil Registration and Vital Statistics System (e-CRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "DPI Africa states that birth registration in Nigeria has been paper-based 'over the years' and that the National Population Commission is set to digitalise the process, its chairman calling e-CRVS a departure from paper-based recording of vital events; no date is given, so the published date is used.", "as_of": "2025-12", "date_precision": "month", "system": "electronic Civil Registration and Vital Statistics System (e-CRVS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "electronic Civil Registration and Vital Statistics System (e-CRVS)", "country_label": "e-CRVS / eCRVS", "class": "civil", "platform": "", "owner": "National Population Commission (NPC)", "tiers": ""},
+    {"system": "National Identification Number (NIN) database", "country_label": "NIN database", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "NIMC enrolment centres"},
+    {"system": "e-CRVS certificate required for date-of-birth modification on the NIN database", "country_label": "NIMC guidelines for modification of date of birth (issued 24 December, year not given)", "class": "exchange", "platform": "", "owner": "National Identity Management Commission (NIMC) and National Population Commission (NPC)", "tiers": ""}
+  ],
+  "note": "The launch is dated only 'in November' with no year, and the published date is a proxy; no last12 fact is recorded because the event cannot be dated from the document. Nothing is stated on how many offices use the platform or how the record is made there."
+}

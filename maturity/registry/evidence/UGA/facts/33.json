@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-11 Uganda migrates more than 28M records to new national ID system",
+  "facts": [],
+  "systems": [
+    {"system": "new national digital ID system", "country_label": "new national register", "class": "identity", "platform": "five modules based on MOSIP; service provider Tahaluf; Tech5, Technoforte, Entrust and Hyf also named", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "mass exercise at parish level, continuing as routine at NIRA offices"}
+  ],
+  "note": "About the migration of more than 28 million national ID records and the enrolment figures of 9 February 2026; nothing on birth or death registration."
+}

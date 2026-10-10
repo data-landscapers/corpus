@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-05-madagascar-2-6m-digital-id-enrollments-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "digital identity system", "country_label": "", "class": "identity", "platform": "Laxton biometric registration kits and fingerprint scanners; database infrastructure by IN Groupe", "owner": "Government of Madagascar, under the World Bank-funded PRODIGY project", "tiers": "mass enrolment with nearly 2,500 multimodal kits; 2.6 million enrolled in two months against a target of two million"}
+  ],
+  "note": "Identity enrolment only; civil registration appears only as a commentator's remark on a retroactive legal framework."
+}

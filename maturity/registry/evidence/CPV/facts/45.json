@@ -1,0 +1,11 @@
+{
+  "slug": "2020-01-01-cabo-verde-sniac-sistema-nacional-identificacao-autenticacao-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)", "country_label": "SNIAC", "class": "identity", "platform": "", "owner": "Direção Geral dos Registos, Notariado e Identificação (DGRNI), Ministério da Justiça e Trabalho", "tiers": "Central system, created by Lei n.º 43/VIII/2013, for identification, civil authentication and the citizen's life cycle; supplies data for the CNI, the electronic passport and the residence title; national and diaspora coverage is a stated aim, not a stated fact"},
+    {"system": "Cartão Nacional de Identificação (CNI)", "country_label": "CNI", "class": "identity", "platform": "", "owner": "DGRNI", "tiers": ""},
+    {"system": "Passaporte Eletrónico Cabo-Verdiano (PEC)", "country_label": "PEC", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Bases de dados registais e de identificação civil", "country_label": "bases de dados registais e de identificação civil", "class": "", "platform": "", "owner": "DGRNI", "tiers": "Data shared with other public entities; what the databases hold and where they are entered is not described"}
+  ],
+  "note": "Ministry of Justice page (undated; 2020 inferred) describing DGRNI and SNIAC. It says DGRNI registers facts of civil status and runs SNIAC as an identification and authentication system, but not that any conservatória enters a birth or death digitally, nor which events, how or in how many offices. SNIAC is an identity system by this description, so no fact."
+}

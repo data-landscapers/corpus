@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-06-rwandan-government-launches-imibereho-dynamic-social-registry",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": "named only as a system the social registry is integrated with"},
+    {"system": "Imibereho Dynamic Social Registry integration with CRVS", "country_label": "Imibereho", "class": "exchange", "platform": "", "owner": "Ministry of Local Government", "tiers": "national; launched 29 February 2024; a birth registered in CRVS updates the social registry automatically; also cross-checked against NIDA, LODA's MEIS and HMIS"}
+  ],
+  "note": "A social registry launch: the civil registration system appears only as a source that updates it, with nothing on where or how a birth is registered."
+}

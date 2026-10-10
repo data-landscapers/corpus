@@ -1,0 +1,15 @@
+{
+  "slug": "2020-01-01-sierra-leone-freetown-city-council-property-reform-faq-plus-codes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Freetown City Council property tax database",
+      "country_label": "property registry; Rate Book and Valuation List; Plus Codes",
+      "class": "land",
+      "platform": "",
+      "owner": "Freetown City Council",
+      "tiers": "Freetown only; more than 160,000 properties against 60,000 in the old database"
+    }
+  ],
+  "note": "A municipal property tax FAQ; nothing on civil registration."
+}

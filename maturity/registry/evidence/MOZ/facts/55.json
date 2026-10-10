@@ -1,0 +1,42 @@
+{
+  "slug": "2024-01-01-mozambique-crvs-law-policy-summary",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The CRVS Law and Policy Compendium states that civil registration is administered by the Ministry of Justice through the National Directorate of Registries and Notary Services, and that the Civil Registration Code as revised by Law No. 12/2018 established the electronic system e-SIRCEV; no date is given for the statement, so the document's published year is used.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "e-SIRCEV",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-SIRCEV",
+      "country_label": "e-SIRCEV electronic system",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministry of Justice, through the National Directorate of Registries and Notary Services",
+      "tiers": "Not stated; births and deaths are registered at the registry office of occurrence or residence"
+    },
+    {
+      "system": "e-SIRCEV integration with national ID and health systems",
+      "country_label": "e-SIRCEV, integrated with national ID and health systems",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "transmission of civil registration data to INE",
+      "country_label": "electronic notification and transmission of data to the National Institute of Statistics (INE)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "Provided for in law; registrars to INE"
+    }
+  ],
+  "note": "A summary of the law: it says what must be registered and where, not which offices enter records digitally."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "DGDN Database/National Identity Card", "country_label": "DGDN Database/National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": "national foundational ID as the dataset lists it; adult ID ownership 62% in the 2025 Findex round (surveyed 21 September to 14 October 2024), up from 40% in 2021; men 68%, women 57%; no digital ID system"}
+  ],
+  "note": "Identity ownership survey figures only; for Togo it gives no birth registration figure in the text and nothing on how civil registration offices record. The annex tables were read for their headers and Togo's rows, not every other economy's row."
+}

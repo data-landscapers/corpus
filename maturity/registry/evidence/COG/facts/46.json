@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-01-worldbank-icr-congo-lisungi-safety-nets",
+  "facts": [],
+  "systems": [
+    {"system": "RSU interoperability with the civil registration and vital statistics databases", "country_label": "RSU", "class": "exchange", "platform": "", "owner": "government", "tiers": "not stated; the government is 'working on improving' the interoperability"},
+    {"system": "civil registration and vital statistics databases", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passage says only that the government is working on the social registry's interoperability with the civil registration and vital statistics databases; the databases are named and not described, so no fact."
+}

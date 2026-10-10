@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-03-banks-baulk-at-a-bill-from-public-id-that-turns-commercial",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda national digital identity system", "class": "identity", "platform": "", "owner": "FaydaVerse, state-owned enterprise under Ethiopian Investment Holdings (formerly National ID Program)", "tiers": "national; more than 51 million registered, about 150 institutions integrated, 15,000 registration kits"}
+  ],
+  "note": "Identity system only (fees charged to banks for Fayda KYC checks); nothing on civil registration."
+}

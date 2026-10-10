@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-eib-cog-001-congo-digital-transformation",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The deal record reports that the Journal officiel of 30 October 2025, ratifying the EIB loan and EU grant, sets out a EUR 135 million financing table (World Bank 94.6, EIB loan 26, EU grants 10.3 and 4.1) and names a World Bank-financed component modernising the civil status register with the preconditions for an inclusive digital identification framework; no domestic budget line is stated.", "as_of": "2025-10-30", "date_precision": "day", "system": "état-civil register", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "état-civil register (modernisation component of the digital transformation acceleration project)", "country_label": "état civil", "class": "civil", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "IT interoperability framework and data exchange platform", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "not stated; no link to the civil register is described"}
+  ],
+  "note": ""
+}

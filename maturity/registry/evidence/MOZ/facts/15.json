@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-11-digitization-public-archives-nampula",
+  "facts": [],
+  "systems": [
+    {"system": "electronic system for entering registry office documents (unnamed)", "country_label": "electronic system / electronic platforms", "class": "archive", "platform": "", "owner": "Provincial Directorate of Justice and Labor, Nampula, with the Provincial Statistics Delegation", "tiers": "staff of all registry offices in Nampula province being trained to enter documents; technical teams in the districts digitising existing records; Nampula Civil Registry Office holds documents from 1930"}
+  ],
+  "note": "The document describes transposing existing physical records into digital form to preserve them (archive class), not the digital registration of a birth or death when declared; so no fact. The system is unnamed and the entry of new events is not stated either way."
+}

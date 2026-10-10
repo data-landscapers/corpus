@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-14-creation-agence-nationale-securisation-actes-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Council of Ministers of 5 February 2025, on the report of the minister of territorial administration and decentralisation, adopted the texts creating the Agence nationale de Sécurisation des actes d'état civil, whose main missions are to identify and put in place electronic means for managing civil status acts, to design and securely produce them and to authenticate them; it replaces the CTDEC, faulted for insufficient synergy between civil status actors and inadequate securing of acts against forgery.", "as_of": "2025-02-05", "date_precision": "day", "system": "moyens électroniques pour la gestion des actes d'état civil (Agence nationale de Sécurisation des actes d'état civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "moyens électroniques pour la gestion des actes d'état civil (Agence nationale de Sécurisation des actes d'état civil)", "country_label": "Agence nationale de Sécurisation des actes d'état civil", "class": "civil", "platform": "", "owner": "Agence nationale de Sécurisation des actes d'état civil, under the Ministère de l'Administration territoriale et de la Décentralisation", "tiers": "not stated"},
+    {"system": "RAVEC", "country_label": "Recensement Administratif à Vocation d'état civil (RAVEC)", "class": "identity", "platform": "", "owner": "", "tiers": "since 2009: a register of Malians at home and abroad, each given a unique Numéro d'Identification National"},
+    {"system": "Centre de Traitement des Données de l'état civil (CTDEC)", "country_label": "CTDEC", "class": "identity", "platform": "", "owner": "government", "tiers": "central: charged with centralising and processing the information gathered in the RAVEC census"}
+  ],
+  "note": "An account of an institutional decision; it does not say which offices enter records, how, or for which events."
+}

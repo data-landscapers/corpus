@@ -1,0 +1,10 @@
+{
+  "slug": "2018-09-01-angola-minjusdh-boletim-justica-direitos-humanos-edicao-00",
+  "facts": [],
+  "systems": [
+    {"system": "Nascer com o Registo", "country_label": "Nascer com o Registo; campanha de registo nas maternidades", "class": "civil", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos with the Ministério da Saúde", "tiers": "maternities, where Justice staff working in rotation make the registration; for remote communities with no birth registration service the project foresees 'livros de cadastro'. No count of maternities and no statement of whether the record is digital"},
+    {"system": "Registo de Nascimento nas Escolas", "country_label": "campanha de registo nas escolas", "class": "outreach", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos, under a protocol with the Ministério da Educação signed 1 June 2018", "tiers": "launched 16 June 2018 at a primary school in Cazenga, Luanda; to run nationally each January"},
+    {"system": "Bilhete de Identidade Integrado", "country_label": "Bilhete de Identidade Integrado; novo sistema de emissão dos bilhetes de identidade", "class": "identity", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "data captured at the repartições de identificação civil e criminal; launched 20 November 2017 at the Samba post, Luanda; a second phase is to integrate the taxpayer, social security and voter numbers and the birth bulletin"}
+  ],
+  "note": "The bulletin counts civil registry output for 2017 to 2018 (1,846,954 acts in the Conservatórias do Registo Civil; 1,049,825 birth entries, 37,028 death entries, 6,017 marriage entries) and describes the maternity and school registration programmes, but nowhere says how the record is made, on paper or digitally, so it states nothing on any aspect."
+}

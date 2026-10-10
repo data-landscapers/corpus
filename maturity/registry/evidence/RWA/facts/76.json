@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-smart-africa-blueprint-digital-identity",
+  "facts": [],
+  "systems": [
+    {"system": "National ID", "country_label": "national ID", "class": "identity", "platform": "", "owner": "", "tiers": "accepted since 2014 as a travel document between Kenya, Rwanda and Uganda, by a largely manual process"}
+  ],
+  "note": "A regional digital identity blueprint: Rwanda appears as a working-group member, in a chart with no figures, and for cross-border travel on the national ID; nothing on civil registration."
+}

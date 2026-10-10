@@ -1,0 +1,23 @@
+{
+  "slug": "2023-04-24-togo-jo-decret-2023-043-registre-social-personnes-menages",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre social des personnes et des ménages (RSPM)",
+      "country_label": "Registre social des personnes et des ménages (RSPM); numéro d'identification du ménage (NIM)",
+      "class": "",
+      "platform": "",
+      "owner": "Agence nationale d'identification (ANID), under decree 2023-043/PR of 24 April 2023",
+      "tiers": "national database held electronically, keyed to the NIU and a household number"
+    },
+    {
+      "system": "Guichet des redevances et recettes non fiscales du secteur maritime (GRM)",
+      "country_label": "GRM",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "online window for submarine-cable authorisations, integrated with the national online request platform validated by the Agence Togo Digital"
+    }
+  ],
+  "note": "A gazette issue carrying the submarine-cable authorisation decree and the decree creating the social register; neither concerns civil registration."
+}

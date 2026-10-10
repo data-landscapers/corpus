@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-moh-libya-markaz-almalumat-waltawthiq-alsihi",
+  "facts": [],
+  "systems": [
+    {"system": "Civil status statistics reports on births and deaths, compiled by the Health Information and Documentation Centre in cooperation with the Civil Status Authority (2013-2020 issued in 2022; 2021 and 2022 in preparation)", "country_label": "إحصاءات الأحوال المدنية; مصلحة الأحوال المدنية", "class": "exchange", "platform": "", "owner": "Health Information and Documentation Centre, Ministry of Health, with the Civil Status Authority", "tiers": "national"}
+  ],
+  "note": "The page describes the health centre's own work and DHIS2; on civil registration it says only that the centre issued the 2013-2020 births and deaths statistics with the Civil Status Authority, with nothing on how offices register."
+}

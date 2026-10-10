@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Physical Persons National Register (RNPP)", "country_label": "Physical Persons National Register (RNPP)/National Identity Card; the Carte « C'est Moi » as foundational credential", "class": "identity", "platform": "", "owner": "", "tiers": "national; the 2024 Findex round asked about the old Carte nationale d'identité, so Benin's foundational coverage rests on 2021 data"},
+    {"system": "Mobile ID Bénin app", "country_label": "the Mobile ID Bénin app", "class": "identity", "platform": "mobile app", "owner": "", "tiers": "Benin is one of four Sub-Saharan economies coded as giving access to a digital ID system at data collection in 2024"}
+  ],
+  "note": "A global identity-coverage dataset; for Benin it gives only the names of the identity credentials and a coding note, and nothing on civil registration offices or on Benin's birth registration."
+}

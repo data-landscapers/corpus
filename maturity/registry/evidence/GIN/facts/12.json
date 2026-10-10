@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-09-guinea-data-governance-fragmentation-commentary",
+  "facts": [],
+  "systems": [
+    {"system": "NPI (Numéro Personnel d'Identification)", "country_label": "Numéro Personnel d'Identification (NPI)", "class": "identity", "platform": "", "owner": "the administration (as the post puts it)", "tiers": ""}
+  ],
+  "note": "A LinkedIn commentary on data governance: says the administration manages civil status and the personal identification number in a silo, and that an April 2025 decree attributes the number from birth; no civil registration system is described."
+}

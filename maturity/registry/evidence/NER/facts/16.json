@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-17-niger-dosso-civil-status-tour-aneri-decrees",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "registre National de la Population (RNP)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur; ANEI (décrets n°2026-242 and 2026-243)", "tiers": "central database, to be set up"},
+    {"system": "systèmes de gestion de l'état civil", "country_label": "systèmes de gestion de l'état civil", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "interopérabilité du RNP", "country_label": "RNP interopérable avec les systèmes de gestion de l'état civil, de la carte nationale biométrique et des documents de voyage", "class": "exchange", "platform": "", "owner": "", "tiers": "announced, future"},
+    {"system": "carte nationale biométrique", "country_label": "carte nationale biométrique", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "tournée nationale de sensibilisation", "country_label": "tournée nationale de sensibilisation en matière d'état civil et d'identification des personnes", "class": "outreach", "platform": "", "owner": "Ministère de l'Intérieur, under the World Bank-financed WURI programme", "tiers": "Dosso, 14 August 2026"}
+  ],
+  "note": "The Dosso stage: birth-declaration rate from 53.48% (2022) to 79% (2026), ordonnance n°2026-21 and the ANEI decrees, and a coming RNP interoperable with 'civil-status management systems' named without description. Nothing on how offices make the record."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2020-12-01-gsma-reimagining-identity-ecosystems-sub-saharan-africa-mobile",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "GSMA states that the mobile Vital Records System, developed in 2010, enables births and deaths to be registered in health facilities and villages through a web-based app and mobile USSD; the document dates the system's use no more closely, so its publication date is used.", "as_of": "2020-12", "date_precision": "month", "system": "mobile Vital Records System (m-VRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "GSMA states that births and deaths are registered in health facilities and villages on the m-VRS by web-based app or mobile USSD, and that the information is then accessible to back-office registration officers, who verify the registration before approving the printing and issue of the birth certificate; no date is given for this, so the publication date is used.", "as_of": "2020-12", "date_precision": "month", "system": "mobile Vital Records System (m-VRS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "mobile Vital Records System", "country_label": "m-VRS", "class": "civil", "platform": "web-based app and mobile USSD", "owner": "Government of Uganda in a public-private partnership with Uganda Telecom (UTL), supported by UNICEF", "tiers": "health facilities and villages; back-office registration officers verify"},
+    {"system": "NIRA mobile registration units", "country_label": "mobile registration units", "class": "outreach", "platform": "", "owner": "NIRA", "tiers": "remote areas"},
+    {"system": "National Identification Number issued to every child on registration of birth", "country_label": "NIN", "class": "exchange", "platform": "", "owner": "NIRA", "tiers": ""},
+    {"system": "national ID system", "country_label": "National Identity Card (NIC); national identification register", "class": "identity", "platform": "", "owner": "NIRA", "tiers": "continuous registration; mass campaign 'My Country, My Identity' 2014-2016"},
+    {"system": "National Security Information System identity card project", "country_label": "NSIS", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

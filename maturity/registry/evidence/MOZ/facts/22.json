@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay's country table states that rural civil registration posts (345 administrative posts) mostly record births on paper forms, which are sent to district conservatories and entered there in the eCRVS system and synced centrally; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "eCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The essay's country table describes births as the event recorded on paper at rural posts and entered electronically at district conservatories in eCRVS; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "eCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:188", "fact": "The essay's country table states that digital systems were rolled out to all 68 conservatories and about 120 posts in 2018, with no rural split, citing a child-identity presentation; 188 is the sum of the two figures, set against 345 administrative posts named in the same row.", "as_of": "2018", "date_precision": "year", "system": "eCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The essay's country table names a national SIRCEV plan for 2019-29 with an 80 per cent target, alongside donor pilots by UNICEF and the World Bank; no date is given for the statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "eCRVS", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "eCRVS", "country_label": "SIRCEV / eCRVS", "class": "civil", "platform": "", "owner": "", "tiers": "all 68 conservatories and about 120 posts (2018); rural administrative posts fill paper forms that district conservatories enter; experimental offline modules for conflict zones"},
+    {"system": "hospital registration posts", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "156 hospital posts (2024); what they do is not described"},
+    {"system": "mobile notifications from posts to district conservatories", "country_label": "", "class": "notification", "platform": "", "owner": "", "tiers": "rural administrative posts to district conservatories"}
+  ],
+  "note": "Passages of an AI-assisted compilation by its own header; the facts are what its Mozambique registry row states, each citing secondary sources it names."
+}

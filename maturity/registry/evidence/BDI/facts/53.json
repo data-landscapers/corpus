@@ -1,0 +1,26 @@
+{
+  "slug": "2017-11-01-apai-crvs-costed-strategic-plan-2017-2021",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "UNECA's table of country status lists Burundi with its comprehensive CRVS assessment completed and its plan 'Developed'; the passage carries the row without the column headings, and no date beyond the document's publication, November 2017, which is used here.",
+      "as_of": "2017-11",
+      "date_precision": "month",
+      "system": "civil registration and vital statistics system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "civil registration and vital statistics system",
+      "country_label": "",
+      "class": "civil",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "One table row names Burundi. The plan is a CRVS improvement plan; the passage does not say that it names a digital system, and the column heading for 'Developed' is not in the passage."
+}

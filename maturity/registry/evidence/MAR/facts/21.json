@@ -1,0 +1,62 @@
+{
+  "slug": "2025-10-27-hespress-interieur-walis-numerisation-etat-civil",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "Hespress, citing its own unnamed sources, reports that several communes and administrative annexes were short of the paper registers that are essential for registering births, rationed by the central administration under quotas, and that prosecutions of parents unable to declare children within the legal time limit had risen as a result.",
+      "as_of": "2025-10-27",
+      "date_precision": "day",
+      "system": "registres papier de l'état civil",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "none",
+      "fact": "Hespress reports that the Interior Ministry's circular called for training commune presidents and civil-status office staff on the national digital platform, access to which was to be opened shortly through secure accounts; the article gives no office as yet using it.",
+      "as_of": "2025-10-27",
+      "date_precision": "day",
+      "system": "plateforme numérique nationale de l'état civil",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Hespress reports that the Ministry of the Interior, by circular to ten walis, is driving the civil-status digitisation under Law 36-21, which provides for a centralised national digital platform with a single electronic register, electronic signature of acts and a civil and social identifier assigned at each birth.",
+      "as_of": "2025-10-27",
+      "date_precision": "day",
+      "system": "plateforme numérique nationale de l'état civil",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "registres papier de l'état civil",
+      "country_label": "registres d'état civil",
+      "class": "civil",
+      "platform": "paper",
+      "owner": "Ministère de l'Intérieur; communal civil-status officers",
+      "tiers": "communes and administrative annexes"
+    },
+    {
+      "system": "plateforme numérique nationale de l'état civil",
+      "country_label": "plateforme numérique nationale; registre national de l'état civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur",
+      "tiers": "provided for by Law 36-21; staff access to be opened shortly (October 2025)"
+    },
+    {
+      "system": "numérisation des registres de l'état civil (loi 36-21, art. 54)",
+      "country_label": "dématérialisation des registres d'état civil",
+      "class": "archive",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur",
+      "tiers": "inventory, scanning and secure storage of all paper registers, old and recent; nearly 20 million electronic acts in Casablanca-Settat and Rabat-Salé-Kénitra; ten other regions given three weeks to finish, with weekly reports"
+    }
+  ],
+  "note": "The offices value 'none' rests on the statement that access to the platform was still to be opened; the article does not say in terms that no office uses it. The platform also carries the birth-time civil and social identifier (identity link) and automated data sharing between public institutions (exchange). Sourced to unnamed contacts, not to the circular."
+}

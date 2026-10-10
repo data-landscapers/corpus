@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-28-guinee-mgg-denonce-racket-etat-civil-biometrique",
+  "facts": [],
+  "systems": [
+    {"system": "état civil biométrique", "country_label": "état civil biométrique", "class": "identity", "platform": "", "owner": "the State (MATD and the Ministry of Security and Civil Protection are the ministries addressed); Multimédia Glory Guinée (MGG) SARL is the technical partner deploying the system and supplying the enrolment equipment", "tiers": "enrolment centres (centres d'enrôlement)"}
+  ],
+  "note": "The document describes the system as the enrolment of citizens' data at enrolment centres for the issue of biometric documents, announced as free; it does not describe the registration of births or deaths, so no civil fact. The contractor MGG alleged illegal fees at some centres on 28 July 2026."
+}

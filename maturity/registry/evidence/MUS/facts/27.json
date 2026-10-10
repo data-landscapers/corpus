@@ -1,0 +1,12 @@
+{
+  "slug": "2024-07-01-smart-id-cards-in-mauritius-policy-brief",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius National Identity Scheme (MNIS) / Mauritius National Identity Card system (MNIC 3.0)", "country_label": "Smart ID card; MNIC", "class": "identity", "platform": "built with the Singapore Cooperation Enterprise; revamp agreed by Cabinet on 2021-02-19", "owner": "Prime Minister's Office; steering committee chaired by the Minister of Information Technology, Communication and Innovation", "tiers": "national; issued at Identity Card Centres; first phase of the new card launched 2024-02-26"},
+    {"system": "Central database kept by the Registrar of Civil Status under section 3 of the National Identity Card Act, at the Government Online Centre (Mauritius National Identity Card Database)", "country_label": "MNIC Central Database", "class": "identity", "platform": "", "owner": "Registrar of Civil Status", "tiers": "central; fingerprint images and minutiae removed in 2015 after the Supreme Court ruling"},
+    {"system": "Mobile ID", "country_label": "Mobile ID", "class": "identity", "platform": "mobile app (digital wallet)", "owner": "", "tiers": "citizen app, planned as the second phase of the new card under the 2024 regulations"},
+    {"system": "MauPass", "country_label": "National Authentication Framework (MauPass)", "class": "identity", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national two-factor authentication for government e-services"},
+    {"system": "MoKloud", "country_label": "MoKloud platform", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A policy brief on the identity card and Mobile ID: every system it describes is of the identity class, and it says nothing on how or where births and deaths are registered."
+}

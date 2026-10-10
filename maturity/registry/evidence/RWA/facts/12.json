@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-13-birth-registration-emerges-as-foundation-for-digital-public-infrastructure",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "Biometric Update, reporting a Vital Strategies case study, says Rwanda's civil registration moved from one where families travelled long distances to register births and deaths to a decentralised and digitalised system; no date is given for the state described, so the document's publication date is used.", "as_of": "2026-08-13", "date_precision": "day", "system": "CRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "Biometric Update, reporting a Vital Strategies case study, says the digitalised system has thousands of registration points, giving no count, total or year; the document's publication date is used.", "as_of": "2026-08-13", "date_precision": "day", "system": "CRVS system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CRVS system", "country_label": "CRVS system", "class": "civil", "platform": "", "owner": "Government of Rwanda; Vital Strategies has supported its modernisation since 2016", "tiers": "decentralised, thousands of registration points; connects with hospitals, government agencies and businesses"},
+    {"system": "integration of birth registration with the national ID system", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "real-time identity verification and data sharing across sectors; supports access to around 200 services"},
+    {"system": "national ID system", "country_label": "national ID system", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

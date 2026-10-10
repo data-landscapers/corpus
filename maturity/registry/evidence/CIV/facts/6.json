@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-civ-afriksoir-neuf-groupes-travail",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques (RNPP)", "class": "identity", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "SSO national", "country_label": "SSO national", "class": "identity", "platform": "", "owner": "", "tiers": "national; proposed by the workshop's working groups on 2026-09-04, tied to the RNPP and the NNI"}
+  ],
+  "note": "A workshop on prioritising digital public services; on civil status it reports only the distance between applicants and civil status centres and processing delays. Nothing on how offices register births or deaths."
+}

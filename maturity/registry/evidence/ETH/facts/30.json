@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-05-nebe-mirchaye-voter-registration-system",
+  "facts": [],
+  "systems": [
+    {"system": "Mirchaye", "country_label": "\"Mirchaye\" voter registration system and Candidate Registration System", "class": "land", "platform": "web, mobile application and election officers' tablets, using Fayda data", "owner": "National Election Board of Ethiopia (NEBE)", "tiers": "selected polling stations; manual registration on physical registries in the remaining polling stations; inaugurated 5 January 2026"}
+  ],
+  "note": "An electoral register, which the typology places out of scope with land and business registers; nothing on civil registration."
+}

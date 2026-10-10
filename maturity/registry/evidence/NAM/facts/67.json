@@ -1,0 +1,12 @@
+{
+  "slug": "2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The SDG Knowledge Hub, reporting a compendium case study, states that births and deaths are registered through e-birth and e-death notification platforms hosted at health facilities, police mortuaries and civil registration offices and linked to the National Population Registration System; no date is given, so the published date is used.", "as_of": "2020-01-24", "date_precision": "day", "system": "National Population Registration System (NPRS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Population Registration System (NPRS)", "country_label": "NPRS", "class": "civil", "platform": "", "owner": "", "tiers": "national; registers citizens, permanent residents and refugees; databases combined under a unique identification number"},
+    {"system": "e-birth and e-death notification platforms", "country_label": "e-birth and e-death notification platforms", "class": "notification", "platform": "", "owner": "", "tiers": "health facilities, police mortuaries and civil registration offices"},
+    {"system": "National Data Exchange Service Bus", "country_label": "National Data Exchange Service Bus", "class": "exchange", "platform": "", "owner": "", "tiers": "national interoperability layer linking the notification platforms and functional registers to the NPRS"}
+  ],
+  "note": ""
+}

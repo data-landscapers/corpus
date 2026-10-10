@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-09-genkey-takes-over-comoros-biometric-passport-id-production-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric passport and national ID card production (GenKey, replacing Semlex)", "country_label": "biometric passports and national ID cards", "class": "identity", "platform": "", "owner": "Ministry of the Interior; GenKey as contractor, replacing Semlex (contract since 2007)", "tiers": "Only security printer in Moroni; equipment to be supplied for production on the other two main islands; issuance suspended until 26 March 2026"}
+  ],
+  "note": "The document concerns the change of contractor for biometric passports and identity cards, an identity system; it states nothing about civil registration."
+}

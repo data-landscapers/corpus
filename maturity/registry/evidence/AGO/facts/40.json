@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-17 Angola begins issuance of ID cards to newborns",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Biometric Update reports that Angolan authorities announced the start of birth registration and identity-card issuance for newborns from maternity wards in Zaire province, beginning at the hospital in Mbanza Kongo municipality with registration equipment installed there and due to extend to the province's other 10 municipalities; the document does not say whether the birth record is made digitally, and gives no date for the announcement, so the date is its published date.", "as_of": "2025-11-17", "date_precision": "day", "system": "'Born with a birth certificate' initiative", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "'Born with a birth certificate' initiative", "country_label": "'Born with a birth certificate'", "class": "civil", "platform": "", "owner": "not stated; supported by the Ministry of Health and UNICEF, announced by the provincial delegate for Justice and Human Rights", "tiers": "maternity wards in Zaire province: Mbanza Kongo first, then the other 10 municipalities"}
+  ],
+  "note": "Classed civil as a registrar's post in a maternity where the source says births are registered; the same post issues the identity card to the newborn. The source says nothing on the software or on whether the record is digital, so no events, made or offices fact is taken."
+}

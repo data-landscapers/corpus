@@ -1,0 +1,16 @@
+{
+  "slug": "2024-05-01-sierra-leone-ncra-id4africa-2024-country-presentation",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "NCRA's May 2024 presentation lists among its technology assets an upgraded integrated eCRVS System for the registration of birth, death, marriage, divorce and adoption events; it does not say where or by which offices the entry is made.", "as_of": "2024-05", "date_precision": "month", "system": "eCRVS System", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The National Civil Registration Authority, the state agency formed under the 2016 Act, presents the integrated eCRVS and ID management system as its own, with data held in its own Tier III data centre, in May 2024.", "as_of": "2024-05", "date_precision": "month", "system": "eCRVS System", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "eCRVS System", "country_label": "integrated eCRVS System; Integrated CRVS & ID Management System", "class": "civil", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Stated as an upgraded system for births, deaths, marriage, divorce and adoption events registration; no tier or office count given"},
+    {"system": "Foundational ID System and NIN", "country_label": "Foundational ID System; IDMS; NIN", "class": "identity", "platform": "An open-source digital public good piloted to upgrade the ID system", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; about 90 per cent of the population enrolled with a NIN in 2022-2024, about 2.5 million children under 18 registered; registration decentralised with mobile registration kits"},
+    {"system": "Integration of CRVS and ID management under the NIN", "country_label": "Integrated CRVS and ID management with unique NIN", "class": "exchange", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; the eCRVS system and the foundational ID system shown as one integrated system feeding the NIN"},
+    {"system": "Centralized ID Verification System", "country_label": "Centralized ID Verification System", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Read-only verification by API or portal for banks, tax, elections, SIM registration and other services"},
+    {"system": "Securitised certificates of births, deaths, marriages, divorce and adoption", "country_label": "Securitized Legal Identity Documents", "class": "certificate", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Issued with the NIN"},
+    {"system": "NCRA Tier III Data Center", "country_label": "Tier III Data Center", "class": "enabling", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National"}
+  ],
+  "note": "The eCRVS system is classed civil on the slide's statement that it is for registration of birth and death events; the slide gives no account of how the record is made or in which offices, so the parent should treat the class as resting on that one line. The 90 per cent coverage figures are of people enrolled, not of offices."
+}

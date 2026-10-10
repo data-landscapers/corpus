@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-02-anats-tchad-site-officiel-nni-sigpts",
+  "facts": [],
+  "systems": [
+    {"system": "SIGPTS", "country_label": "Système Intégré de Gestion des Populations et des Titres Sécurisés", "class": "identity", "platform": "", "owner": "ANATS", "tiers": "national; 29 user reception centres (CAU) listed, eight in N'Djamena and the rest in provincial capitals; assigns a unique NNI after enrolment and deduplication"},
+    {"system": "ANATS website, 'État civil' entry", "country_label": "État civil — actes de naissance, de mariage et autres démarches d'état civil", "class": "", "platform": "", "owner": "ANATS", "tiers": "website menu entry; what it does is not described"}
+  ],
+  "note": "The agency's home page: it lists civil-status acts among the documents ANATS delivers and offers an 'État civil' entry, but says nothing of where or how a birth or death is recorded. The page carries no date of its own."
+}

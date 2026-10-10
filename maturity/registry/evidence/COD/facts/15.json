@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "RDC-Pass", "country_label": "RDC-Pass (DRC Pass)", "class": "identity", "platform": "Trident Digital Tech DRC Africa SAS, subsidiary of Singapore's Trident Digital Tech Holdings, under a 20-year public-private partnership signed in June 2025 with exclusive e-KYC rights", "owner": "the government; the Ministry of Planning values the project at USD 97.1 million", "tiers": "not stated; phased rollout beginning with technical audits and pilot testing before national deployment"}
+  ],
+  "note": "A digital identity platform covering biometric SIM registration, single login to e-government services and identity verification for financial institutions; civil registration is not mentioned."
+}

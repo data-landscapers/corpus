@@ -1,0 +1,12 @@
+{
+  "slug": "2020-12-01-gsma-reimagining-identity-ecosystems-sub-saharan-africa-mobile",
+  "facts": [],
+  "systems": [
+    {"system": "Monitoring of Vital Events through Information Technology (MOVE-IT)", "country_label": "MOVE-IT", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "community health workers report births and deaths on mobile devices"},
+    {"system": "Integrated Population Registration System (IPRS)", "country_label": "IPRS", "class": "exchange", "platform": "", "owner": "Government of Kenya (Ministry of Interior)", "tiers": "national; pulls data from civil registration, birth registration and refugee registration and assigns a unique identifier; verification service for public and private providers"},
+    {"system": "National Integrated Identity Management System (NIIMS)", "country_label": "Huduma Namba", "class": "identity", "platform": "", "owner": "Government of Kenya", "tiers": "national; registration began early 2019, nearly 31 million with fingerprints scanned by May 2019"},
+    {"system": "National Registration Bureau automated fingerprint identification system", "country_label": "", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national"},
+    {"system": "IEBC biometric voter registration system", "country_label": "", "class": "land", "platform": "", "owner": "Independent Electoral and Boundaries Commission", "tiers": "national"}
+  ],
+  "note": "The Kenya chapter says sub-chiefs register births at village level and the local registration office assigns a birth registration number, and that the Department of Civil Registration processes certificates; it does not say whether any civil registration office records events digitally. The systems it describes are notification, identity and exchange."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-17-cmr-tribunedelinfo-cdhc-quatre-priorites-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The government's reform runs under the Strategic Plan for the Modernisation of the Civil Status Registration System 2025-2029; the human rights commission (CDHC), at a round table on 17-18 September 2026, recommends more resources for BUNEC and the communes and completing the digital coverage of the national file.", "as_of": "2026-09-17", "date_precision": "day", "system": "fichier national (de l'état civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "fichier national (de l'état civil)", "country_label": "fichier national; couverture numérique du fichier national", "class": "civil", "platform": "", "owner": "BUNEC", "tiers": "digital coverage incomplete, per the CDHC's recommendation to complete it"},
+    {"system": "interconnexion des fichiers santé-justice-identification", "country_label": "interconnexion des fichiers", "class": "exchange", "platform": "", "owner": "", "tiers": "recommended, with privacy safeguards"}
+  ],
+  "note": ""
+}

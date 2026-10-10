@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-03-unhcr-japan-documentacao-cabo-delgado",
+  "facts": [],
+  "systems": [
+    {
+      "system": "mobile documentation and legal aid services",
+      "country_label": "mobile documentation and legal aid services",
+      "class": "outreach",
+      "platform": "",
+      "owner": "UNHCR with national authorities, financed by Japan (US$6.9 million, 2026-2028)",
+      "tiers": "Hard-to-reach areas of Cabo Delgado; civil documentation for about 100,000 people"
+    },
+    {
+      "system": "rehabilitation of government service points",
+      "country_label": "rehabilitation or reconstruction of 27 government service points",
+      "class": "enabling",
+      "platform": "",
+      "owner": "UNHCR with national authorities, financed by Japan (US$6.9 million, 2026-2028)",
+      "tiers": "27 service points in Cabo Delgado, with 300 provincial and district officials for civil registration, identification and legal assistance to be trained"
+    }
+  ],
+  "note": "Premises, training and a mobile documentation project for displaced people, agreed in March 2026; no information system is named and nothing is said about how offices make the record."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-06-01-2024-wb-wuri-guinea-restructuring",
+  "facts": [],
+  "systems": [
+    {"system": "fID system (foundational identification system)", "country_label": "fID system; Registre National des Personnes Physiques (RNPP) in the abbreviations", "class": "identity", "platform": "open-source identification system (pilot)", "owner": "Guinea Office of the Prime Minister (Primature), project implementation unit, World Bank WURI financing", "tiers": "pilot only: 8,226 individuals registered, about 8,000 unique identity numbers issued"},
+    {"system": "Recensement administratif à vocation d'état civil (RAVEC)", "country_label": "RAVEC", "class": "outreach", "platform": "", "owner": "", "tiers": "anticipated administrative census for civil registry purposes, not yet held"}
+  ],
+  "note": "An identity-project restructuring paper: it states nothing about how a civil registration office records a birth or death. It reports the October 2023 civil registry law only as passed, and zero newborn birth registrations assigned a unique identity number as of 3 June 2024 (an exchange matter)."
+}

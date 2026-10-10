@@ -1,0 +1,11 @@
+{
+  "slug": "2017-12-05-unicef-crvs-djibouti-country-profile",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "UNICEF's country profile, compiled from December 2016 to November 2017 with national officials, states that birth registration is processed manually on paper at the civil registrar's office, and marriage registration likewise; the death section's processing field is not in the capture.", "as_of": "2017-11", "date_precision": "month", "system": "civil registration (paper)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "UNICEF's country profile, compiled from December 2016 to November 2017, gives the processing of birth registration as manual, on paper, and states that there is no regular process for establishing vital statistics on births; the death section's processing field is not in the capture.", "as_of": "2017-11", "date_precision": "month", "system": "civil registration (paper)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration (paper)", "country_label": "civil registrar's office; civil registration office", "class": "civil", "platform": "paper", "owner": "civil registrars appointed by decree, each with a territorial jurisdiction; organisation described as decentralised", "tiers": "civil registrars' offices; also heads of diplomatic and consular missions"}
+  ],
+  "note": "The profile also lists, among marriage requirements, a 'computerized copy' of the birth certificate extract beside a photocopy or handwritten full copy, without naming any system."
+}

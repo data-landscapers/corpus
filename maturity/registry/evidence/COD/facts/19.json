@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-12-proposition-loi-identification-personnes-physiques-actualite",
+  "facts": [],
+  "systems": [
+    {"system": "système national d'identification des personnes physiques", "country_label": "Fichier Général de la Population; Carte d'identité nationale", "class": "identity", "platform": "", "owner": "not stated; the bill was tabled by two deputies at the National Assembly on 12 June 2026", "tiers": "not operational: the bill's explanatory memorandum says the country has no reliable national identification system and no up-to-date Fichier Général de la Population"},
+    {"system": "mise en connexion des bases de données sectorielles (état civil, migrations, santé)", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "proposed in the bill; attempts in 2015 and 2022 to link the electoral file to the civil registers did not produce a working system"},
+    {"system": "registres de l'état civil", "country_label": "registres de l'état civil", "class": "", "platform": "", "owner": "", "tiers": "not stated; named only as what the electoral file and the identification system should be linked to"}
+  ],
+  "note": "A private member's bill on identifying physical persons. It names civil registers and a civil-status database only as things to be connected; it does not say how or where births and deaths are recorded."
+}

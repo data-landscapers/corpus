@@ -1,0 +1,60 @@
+{
+  "slug": "2021-11-01-ilo-diagnostico-interoperabilidade-protecao-social",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The ILO diagnostic of November 2021 states that e-RCEV, the modernised civil registration and vital statistics system, has automatically assigned the unique citizen number (NUIC) to newborns since 2017, does not yet digitise records from before 2017, and that the government is in the early stages of deploying it; for deaths it states only that the hospital module MGDH shares death records with e-RCEV.",
+      "as_of": "2021-11",
+      "date_precision": "month",
+      "system": "e-RCEV",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The ILO diagnostic of November 2021 names the National Directorate of Registries and Notaries as the institution holding e-RCEV and as the entity responsible for the NUIC.",
+      "as_of": "2021-11",
+      "date_precision": "month",
+      "system": "e-RCEV",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-RCEV",
+      "country_label": "Sistema de Registo Civil e Estatísticas Vitais (RCEV, e-RCEV)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Direcção Nacional de Registos e Notariados",
+      "tiers": "Not stated; early stages of deployment in 2021"
+    },
+    {
+      "system": "SINAREC",
+      "country_label": "Sistema Nacional de Registo Civil (SINAREC)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "MGDH",
+      "country_label": "Módulo de Gestão de Dados Hospitalares (MGDH)",
+      "class": "notification",
+      "platform": "",
+      "owner": "Ministério da Saúde",
+      "tiers": "Hospitals; records hospital mortality and shares death records with e-RCEV"
+    },
+    {
+      "system": "e-RCEV and MGDH link",
+      "country_label": "e-RCEV interoperates only with the MGDH",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Direcção Nacional de Registos e Notariados; Ministério da Saúde",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": ""
+}

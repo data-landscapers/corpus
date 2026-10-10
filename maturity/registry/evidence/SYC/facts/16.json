@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-seyid-privacy-policy",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID", "country_label": "SeyID", "class": "identity", "platform": "", "owner": "Government of Seychelles and the Department of Information Communications Technology", "tiers": "portal and mobile app"}
+  ],
+  "note": "The SeyID privacy statement: what the identity platform collects and how it is used; an identity system, and nothing on civil registration."
+}

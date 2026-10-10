@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-15-aib-safane-modernisation-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Digitisation of birth registers (DGMEC, under PREGOLS)", "country_label": "numérisation des registres de naissance", "class": "archive", "platform": "", "owner": "Direction générale de la modernisation de l'état civil (DGMEC), Ministère de l'Administration territoriale et de la Mobilité; under the Programme pour la résilience, la gouvernance locale et les services de base (PREGOLS)", "tiers": "commune town hall (mairie de Safané, Mouhoun): 1,553 registers from the 1950s to date, scanned 1 to 10 October 2025 by a DGMEC team"}
+  ],
+  "note": "Back-capture only: a DGMEC team scanned Safané's existing birth registers; the document says nothing on how new events are recorded."
+}

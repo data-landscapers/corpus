@@ -1,0 +1,31 @@
+{
+  "slug": "2019-01-01-worldbank-digital-economy-for-gabon-diagnostic-report",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Foundational ID system (unique identifier, NIP)",
+      "country_label": "NIP",
+      "class": "identity",
+      "platform": "",
+      "owner": "Government of Gabon (strategy)",
+      "tiers": ""
+    },
+    {
+      "system": "Digitized civil registry database",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Planned link between the NIP database and the civil registry",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Government of Gabon (strategy)",
+      "tiers": ""
+    }
+  ],
+  "note": "The passages describe government strategy as of 2019 for a foundational ID system assigning a lifetime NIP with biometric de-duplication, seeded from electoral and social registries; over time its database 'would' interoperate with the digitized civil registry database so that each NIP links to a birth record and NIPs can be generated at birth. All conditional and future; the civil registry database is named without saying how records are made, so no fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-01-gnb-ang-candonga-di-justica-2026-sirec-registo-movel",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "An EU press release carried by ANG says the birth registration services of the Candonga di Justiça caravan of 22-29 June 2026 would register children aged 0 to 7 using the SIREC digital registration system; this is a mobile caravan, not a fixed office.", "as_of": "2026-06", "date_precision": "month", "system": "SIREC", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "ANG reports that the third Candonga di Justiça caravan, 22-29 June 2026, was to take birth registration on SIREC to 16 communities in Cacheu, Oio, Bafatá and Gabu; the document announces the plan and does not report the result.", "as_of": "2026-06", "date_precision": "month", "system": "SIREC", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "SIREC", "country_label": "sistema de registo digital SIREC", "class": "civil", "platform": "", "owner": "", "tiers": "used by the mobile caravan in 16 communities of Cacheu, Oio, Bafatá and Gabu"},
+    {"system": "Candonga di Justiça", "country_label": "Caravana Candonga di Justiça", "class": "outreach", "platform": "SIREC", "owner": "UNDP and European Union, with the Centros de Acesso à Justiça", "tiers": "third edition, 22-29 June 2026: 16 communities in Cacheu (São Domingos, Bigene), Oio (Farim), Bafatá and Gabu"}
+  ],
+  "note": ""
+}

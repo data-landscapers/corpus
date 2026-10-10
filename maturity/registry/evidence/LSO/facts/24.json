@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Identity Register",
+      "country_label": "National Identity Register / National Identity Card",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "listed as the foundational ID system, with no digital ID system (credential names verified in early 2024)"
+    }
+  ],
+  "note": "A global identity coverage dataset; Lesotho appears only in the annex table of credential names, where the extraction does not align its coverage figures to the row. Nothing on how births or deaths are registered."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-20-dza-echaab-rakmana-shafafiya-asrana",
+  "facts": [],
+  "systems": [
+    {"system": "Remote extraction of documents such as the birth certificate through the official portal and the Ministry of the Interior's sites", "country_label": "استخراج شهادة الميلاد عن بُعد عبر البوابة الرسمية والمواقع التابعة لوزارة الداخلية", "class": "certificate", "platform": "", "owner": "Ministry of the Interior", "tiers": "online, for the citizen; said by a university lecturer to relieve commune services"},
+    {"system": "National sovereign cloud of the National Centre for Digital Services (data centres at Mohammadia and Blida)", "country_label": "الحوسبة السحابية السيادية الوطنية", "class": "enabling", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "national; an expert says sensitive government data such as civil status is hosted there, inside the country"}
+  ],
+  "note": "Civil status appears only as data hosted on the sovereign cloud and as a birth certificate obtainable remotely; nothing on how or where a birth or death is registered."
+}

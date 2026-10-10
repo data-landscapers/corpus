@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-26-gabon-launches-electronic-national-id-card",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic National Identity Card (CNIE)", "country_label": "Carte nationale d'identité électronique (CNIE)", "class": "identity", "platform": "chip card carrying a 14-digit Personal Identification Number (NIP)", "owner": "", "tiers": "nationwide coverage intended; announced 24 June 2024 after a near decade-long gap in card renewals since the 2015 end of the Semlex contract"}
+  ],
+  "note": "Identity card only (class identity); nothing on civil registration."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "2022-01-01-worldbank-guinea-bissau-digital-economy-diagnostic",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The World Bank diagnostic states that civil registration is still paper based, and that a digital civil registration system supported by Portuguese Cooperation is still in the conceptualization phase; undated, the published date is used.", "as_of": "2022", "date_precision": "year", "system": "Civil registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The World Bank diagnostic states that civil registration is still paper based and names a lack of digitalization among its constraints; undated, the published date is used.", "as_of": "2022", "date_precision": "year", "system": "Civil registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank states that the civil registration system is under the Ministry of Justice, with services provided by 55 Civil Registration Offices (conservatories and decentralized posts) and 20 hospitals and health centers; undated, the published date is used.", "as_of": "2022", "date_precision": "year", "system": "Civil registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The World Bank states that a holistic assessment of the CRVS system under APAI-CRVS in 2017 resulted in the approval of a national strategic plan and the creation of a steering committee.", "as_of": "2017", "date_precision": "year", "system": "Civil registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "The World Bank counts 55 Civil Registration Offices plus 20 hospitals and health centers providing registration, gives no number entering digitally, and cites lack of power and connectivity at CRVS centers; undated, the published date is used.", "as_of": "2022", "date_precision": "year", "system": "Civil registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil registration system", "country_label": "civil registration system; Civil Registration Offices (conservatories and decentralized posts)", "class": "civil", "platform": "paper", "owner": "Ministry of Justice", "tiers": "55 Civil Registration Offices and 20 hospitals and health centers"},
+    {"system": "Digital civil registration system (planned)", "country_label": "digital civil registration system", "class": "civil", "platform": "", "owner": "Ministry of Justice, with Portuguese Cooperation support", "tiers": "conceptualization phase; none in use"},
+    {"system": "GESTDOC", "country_label": "GESTDOC", "class": "archive", "platform": "GESTDOC", "owner": "Portuguese Institute for Registries and Notaries (support to PALOP countries)", "tiers": "digitalization of all books of civil registration"},
+    {"system": "RAPIDPRO", "country_label": "civil registry and vital statistics (CRVS) system – RAPIDPRO", "class": "exchange", "platform": "RapidPro", "owner": "Ministry of Justice and National Statistics Institute", "tiers": ""},
+    {"system": "Identity management system (national ID card)", "country_label": "identification registry; biometric ID card", "class": "identity", "platform": "", "owner": "Ministry of Justice department; system maintained and data housed by a private vendor", "tiers": "barely operational, not integrated with the CRVS system; no interoperability with civil registration"},
+    {"system": "Biometric registration kits", "country_label": "400 biometric registration kits", "class": "identity", "platform": "", "owner": "Government; reported used for the Ministry of Territorial Administration's voter registry", "tiers": ""},
+    {"system": "National voter registry", "country_label": "voter registry", "class": "land", "platform": "", "owner": "Ministry of Territorial Administration", "tiers": "national"},
+    {"system": "Biometric passport system", "country_label": "biometric passports", "class": "identity", "platform": "", "owner": "data managed by CETIS", "tiers": "Bissau and certain embassies; no interoperability with ID or civil registration systems"}
+  ],
+  "note": ""
+}

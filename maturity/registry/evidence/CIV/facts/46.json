@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-29-interoperability-platform-uxp-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme d'interopérabilité de l'administration publique", "country_label": "plateforme d'interopérabilité de l'administration publique", "class": "exchange", "platform": "UXP (Cybernetica)", "owner": "Ministry of Digital Transition and Digitalization; project run by SNDI", "tiers": "pilot phase of twelve public bodies including ONECI, launched 25 September 2025"}
+  ],
+  "note": "A government data-exchange platform with ONECI among twelve pilot bodies; nothing on how civil registration offices record events."
+}

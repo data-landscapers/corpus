@@ -1,0 +1,11 @@
+{
+  "slug": "2017-01-16-nj-chineses-apoiam-angola-emissao-bi-registo-nascimento",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Novo Jornal, citing Lusa's reading of a presidential dispatch dated January 2017, reports that the Ministry of Justice and Human Rights is to contract China National Electronics Import & Export Corporation for USD 243 million of goods, installations and technical support for the technology that manages civil and criminal identification and issues birth registrations and identity cards, to be placed on a Chinese commercial credit line the finance ministry is authorised to negotiate.", "as_of": "2017-01", "date_precision": "month", "system": "Plataforma de Gestão Integrada da Identificação Civil e Criminal", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Plataforma de Gestão Integrada da Identificação Civil e Criminal", "country_label": "Plataforma de Gestão Integrada da Identificação Civil e Criminal", "class": "civil", "platform": "supplied by China National Electronics Import & Export Corporation (CEIEC)", "owner": "Ministério da Justiça e dos Direitos Humanos, as contracting ministry", "tiers": "not stated; a contract authorised in January 2017, not a system in use"},
+    {"system": "registration and identity-card posts", "country_label": "postos de registo e emissão de Bilhete de Identidade", "class": "identity", "platform": "", "owner": "", "tiers": "96 posts nationally on Government information of August 2016, 36 of them in Luanda (24 fixed, 12 mobile)"}
+  ],
+  "note": "The platform is classed civil because the document says the technology issues birth registrations and that the contract is to restore a project recasting birth and death registration; the same platform also manages identity cards and criminal records, and the document does not say where or how a birth is entered. The parent may prefer identity."
+}

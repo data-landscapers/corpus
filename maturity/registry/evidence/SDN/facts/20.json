@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-11-sudan-health-sector-digitalization-hms-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics (CRVS) system within the Hospital Management System (HMS)", "country_label": "نظام التسجيل المدني والإحصاءات الحيوية (CRVS)", "class": "", "platform": "Hospital Management System (HMS)", "owner": "Ministry of Health with the Ministry of Digital Transformation and Communications", "tiers": "first phase launched 11 May 2026 at Al-Nao hospital in Khartoum State and the diagnostic centre of Gedaref hospital, with gradual expansion to health institutions in other states intended; named as a component, what it does is not described"}
+  ],
+  "note": "A CRVS system is named among the components of a hospital management system launched at two hospitals, with no description of what it does or whether a birth or death is registered there; a name alone gives no fact."
+}

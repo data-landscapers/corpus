@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-27-africanmanager-national-business-register-digital",
+  "facts": [],
+  "systems": [
+    {"system": "National Business Register", "country_label": "National Business Register (electronic platform)", "class": "land", "platform": "electronic platform", "owner": "National Business Register", "tiers": "paper filing ends 1 July 2026; access requires a digital identity"},
+    {"system": "digital identity", "country_label": "digital identity", "class": "identity", "platform": "", "owner": "", "tiers": "required for access to the business register"}
+  ],
+  "note": "The business register ending paper filing; a business register is out of scope and gives no fact."
+}

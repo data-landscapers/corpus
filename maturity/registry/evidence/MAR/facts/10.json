@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's Morocco registry row states, citing the World Bank's 2018 ID4D diagnostic, that rural registry offices (1,282 principal rural offices of about 2,200 in total) mainly used handwritten paper ledgers for birth registration, with no connected computer system in the majority, and reported aggregates upward by hand.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "civil registry offices' paper registers",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's Morocco registry row states that recording at the point of service remains paper by default, although Law 36.21 enables electronic pre-declarations; it gives no date for this, so as_of is the essay's published date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "civil registry offices' paper registers",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "civil registry offices' paper registers",
+      "country_label": "rural registry offices",
+      "class": "civil",
+      "platform": "paper",
+      "owner": "",
+      "tiers": "1,282 principal rural offices of about 2,200 offices in total (2018)"
+    },
+    {
+      "system": "national project to digitise historical civil records",
+      "country_label": "",
+      "class": "archive",
+      "platform": "",
+      "owner": "",
+      "tiers": "launched 2025 (given as 194M MAD): manual entry of 38 million historical paper records across all 1,821 offices, by regional lots, and connecting the offices to a unified system"
+    }
+  ],
+  "note": "The source is listed in study.json exclude_sources (an AI-assisted compilation); facts recorded as the essay states them, for the parent to handle. The essay gives three different office totals (about 2,200; 1,821) without reconciling them."
+}

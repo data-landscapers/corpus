@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-19-budget-annex-2026-27-statistics-act-independence",
+  "facts": [],
+  "systems": [
+    {"system": "System of the Registrar of Civil Status (Civil Status Database)", "country_label": "Civil Status Database", "class": "", "platform": "", "owner": "Registrar of Civil Status", "tiers": ""},
+    {"system": "Central Population Database", "country_label": "Central Population Database", "class": "", "platform": "", "owner": "Registrar of Civil Status", "tiers": ""},
+    {"system": "MRA electronic access to the system of the Registrar of Civil Status", "country_label": "Access to Civil Status Information", "class": "exchange", "platform": "", "owner": "Mauritius Revenue Authority", "tiers": ""}
+  ],
+  "note": "The passages state only that the law will be clarified to give the revenue authority electronic access to the Registrar of Civil Status's system; they do not say what that system does or how a birth or death is entered."
+}

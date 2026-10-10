@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Database (NPD)", "country_label": "National Population Database (NPD) / National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global identity-coverage dataset; its one Seychelles entry lists the National Population Database and National Identity Card as the foundational ID system, with no digital ID coded and 2021 administrative data used. An identity listing, and nothing on how births or deaths are registered."
+}

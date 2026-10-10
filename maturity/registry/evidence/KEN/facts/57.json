@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-15-kemis-team-unveiled",
+  "facts": [],
+  "systems": [
+    {"system": "KEMIS integration with the births and deaths register", "country_label": "Kenya Education Management Information System (KEMIS)", "class": "exchange", "platform": "", "owner": "Ministry of Education", "tiers": "planned on 15 May 2025: through the Civil Registration Services and the National Registration Bureau, to give every learner a unique personal number"},
+    {"system": "Unique Personal Identifier (UPI), Maisha ecosystem", "country_label": "Unique Personal Identifier (UPI)", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "to be given to every newborn; to be the death certificate number on death"},
+    {"system": "births and deaths register", "country_label": "births and deaths register", "class": "", "platform": "", "owner": "Civil Registration Services", "tiers": ""}
+  ],
+  "note": "The births and deaths register is named only as a planned integration for the education system; nothing on how or where a birth or death is entered."
+}

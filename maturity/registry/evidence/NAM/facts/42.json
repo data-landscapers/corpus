@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-09-namibia-to-launch-groundbreaking-e-id-namibiansun",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic identity card (e-ID)", "country_label": "e-ID; electronic identity card", "class": "identity", "platform": "smart card with a contactless microchip holding biometric and demographic data", "owner": "Ministry of Home Affairs, with UNDP", "tiers": "launch scheduled by July 2026; awareness campaign starting in Khomas region"},
+    {"system": "Mobile verification units", "country_label": "mobile verification units", "class": "outreach", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "planned for remote areas, to improve access to services including birth registration, voter enrolment and social grants"}
+  ],
+  "note": "About the electronic identity card; birth registration is named only as a service the planned mobile verification units would make easier to reach."
+}

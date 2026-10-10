@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-14 Egypt Interior Ministry launches MOIEG-PASS biometric verification app",
+  "facts": [],
+  "systems": [
+    {"system": "MOIEG-PASS", "country_label": "MOIEG-PASS", "class": "identity", "platform": "mobile app with locally developed facial recognition; Android pilot", "owner": "Ministry of Interior", "tiers": "national; users scan the national ID card and pass facial recognition to reach government digital services"}
+  ],
+  "note": "Identity verification app; nothing on civil registration of births or deaths."
+}

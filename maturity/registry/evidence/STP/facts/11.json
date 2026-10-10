@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-01-sao-tome-lei-recenseamento-eleitoral-automatico-entra-em-vigor",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Base de dados eleitoral (recenseamento automático e permanente)",
+      "country_label": "base de dados eleitoral; recenseamento eleitoral automático",
+      "class": "land",
+      "platform": "",
+      "owner": "Comissão Eleitoral Nacional (CEN), fed with civil identification data by the Direção Geral dos Registos e do Notariado (DGRN)",
+      "tiers": "National"
+    }
+  ],
+  "note": "Reports the electoral registration law published on 26 March 2026, under which the DGRN shares civil identification data with the CEN; nothing on how or where a birth or death is registered."
+}

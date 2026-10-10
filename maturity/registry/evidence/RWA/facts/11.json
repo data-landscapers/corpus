@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-17-newtimes-rwanda-digital-id-enrollment-8-million",
+  "facts": [],
+  "systems": [
+    {"system": "Digital ID", "country_label": "Digital ID", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": "district-by-district registration and photography by NIDA teams since October 2025; more than 8 million registered and 7 million photographed at 17 August 2026; services to be activated at sector offices later"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "identity", "platform": "Irembo", "owner": "", "tiers": "used by residents to check, complete and correct identity information such as date of birth"},
+    {"system": "civil registry", "country_label": "civil registry", "class": "", "platform": "", "owner": "", "tiers": "sector offices help parents register children not yet recorded, on a hospital birth document or vaccination card"}
+  ],
+  "note": "Identity enrolment; the civil registry is named only as the source of incomplete records where children's births were not recorded, with no description of how it records."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-seychelles-tin-registration-company",
+  "facts": [],
+  "systems": [
+    {"system": "TIN registration (e-Service Gateway)", "country_label": "TIN registration", "class": "", "platform": "", "owner": "Government of Seychelles (e-Service Gateway)", "tiers": "online; requires the contact person's 11-digit National Identity Number"}
+  ],
+  "note": "The online tax registration form for a company, which validates a National Identity Number; a tax register outside the study's classes, and nothing on civil registration."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-30-programme-national-foncier-ii",
+  "facts": [],
+  "systems": [
+    {"system": "Plans Locaux d'Occupation Foncière (PLOF)", "country_label": "PLOF", "class": "land", "platform": "orthophoto plans", "owner": "land administration and communes (guichets fonciers)", "tiers": "594 communes (37% of communes) have a guichet foncier; the document states that no true land information system exists"}
+  ],
+  "note": "Land administration only, which is out of scope; nothing on civil registration."
+}

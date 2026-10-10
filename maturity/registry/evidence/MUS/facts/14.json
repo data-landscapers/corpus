@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-06-cabinet-highlights-internet-gratis-srm",
+  "facts": [],
+  "systems": [
+    {"system": "KOREK Super App", "country_label": "KOREK", "class": "", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "citizen app; Cabinet agreed on 2026-02-06 to a steering committee to develop it into a single gateway that is to include civil status and mobile identity services"},
+    {"system": "MoKloud", "country_label": "MoKloud", "class": "", "platform": "", "owner": "", "tiers": "an existing app to be folded into KOREK"}
+  ],
+  "note": "Cabinet lists civil status services among those the KOREK super-app is to include, without saying what they are; nothing on how or where births and deaths are recorded."
+}

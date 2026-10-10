@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist",
+  "facts": [],
+  "systems": [
+    {"system": "national mobile digital ID and digital signature infrastructure", "country_label": "", "class": "identity", "platform": "", "owner": "ATDI (procurement under the World Bank-financed EDGE project)", "tiers": "national; in procurement, shortlist sent to the World Bank, contracting planned for September 2026"},
+    {"system": "interoperability platform", "country_label": "", "class": "", "platform": "", "owner": "ATDI", "tiers": "expected in the fourth quarter of 2026; no connected agency named"}
+  ],
+  "note": "Citizen Portal, interoperability platform and mobile digital ID procurement; civil registration is not mentioned, so no fact."
+}

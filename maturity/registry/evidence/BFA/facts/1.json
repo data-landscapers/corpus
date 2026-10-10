@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-09-bfa-lefaso-zama-tche-maisons-du-citoyen-transition-digitale-bilan",
+  "facts": [],
+  "systems": [
+    {"system": "Dematerialised civil-status procedures (among about 260 administrative procedures put online)", "country_label": "procédures dématérialisées liées à l'état civil", "class": "certificate", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "online; assisted access planned through Maisons du citoyen (Zama Tchè) in communes"},
+    {"system": "Identité digitale (identifiant électronique unique)", "country_label": "identité digitale pour tous", "class": "identity", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "national; enrolment announced for October 2026"},
+    {"system": "Zama Tchè (Maisons du citoyen)", "country_label": "Zama Tchè / Maisons du citoyen", "class": "enabling", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "80 launched; one planned in each of 351 communes (302 rural) by 2030"}
+  ],
+  "note": "Minister's accountability review of 8 October 2026: civil-status procedures are among those dematerialised for online requests, and digital-identity enrolment is due; nothing on how a civil registration office records a birth or death."
+}

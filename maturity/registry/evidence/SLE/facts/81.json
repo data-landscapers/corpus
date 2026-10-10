@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Identification Number (national identity infrastructure)",
+      "country_label": "National Identification Number, issued by the National Civil Registration Authority",
+      "class": "identity",
+      "platform": "",
+      "owner": "National Civil Registration Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "An education data hub and learner identifier project; the Authority appears only as issuer of the national identity number the learner ID is to be linked to, and nothing is stated about registering births or deaths."
+}

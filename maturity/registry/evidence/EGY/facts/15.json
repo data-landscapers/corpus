@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-09-egypt-ntra-mobile-line-data-governance-measures",
+  "facts": [],
+  "systems": [
+    {"system": "My NTRA application", "country_label": "My NTRA", "class": "identity", "platform": "", "owner": "National Telecommunications Regulatory Authority", "tiers": "national; citizens check mobile lines registered in their names"}
+  ],
+  "note": "Committee chair on mobile lines registered to non-users; nothing on civil registration."
+}

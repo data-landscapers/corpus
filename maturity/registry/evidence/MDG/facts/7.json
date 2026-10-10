@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-mdg-lexpressmg-etat-civil-20-pourcent-sans-identite-legale",
+  "facts": [],
+  "systems": [
+    {"system": "enregistrement biométrique", "country_label": "enregistrement biométrique au niveau des communes", "class": "identity", "platform": "", "owner": "the State, with its partners", "tiers": "to be developed at commune level, stated as a priority at the National Identity Day on 15 September 2026"}
+  ],
+  "note": "States that about 20% of citizens are not registered with the état civil (a share of people, not of offices) and names priorities; describes no system by which an office registers an event digitally."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration system", "country_label": "civil registration system", "class": "", "platform": "", "owner": "National Identification and Registration Authority (NIRA), taken over from URSB", "tiers": ""},
+    {"system": "reconfiguration of the civil registration system to issue national ID numbers at birth registration", "country_label": "", "class": "exchange", "platform": "", "owner": "NIRA", "tiers": "under way at the time of the study (2017)"},
+    {"system": "national identification register and national ID card", "country_label": "National Security and Identification System (NSIS); national identification register", "class": "identity", "platform": "", "owner": "NIRA; launched 2014 under the Ministry of Internal Affairs", "tiers": "nearly 15 million citizens registered before the 2016 election; school pupils aged 5 to 16 registered from May 2017"},
+    {"system": "refugee ID system", "country_label": "functional refugee ID system", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A regional study of national IDs. On Uganda's civil registration it says only that NIRA took it over from URSB and is reconfiguring the system to issue national ID numbers at birth registration, with under-five birth registration at 30 per cent (UNICEF); nothing on how or where offices make the record."
+}

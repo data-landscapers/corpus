@@ -1,0 +1,13 @@
+{
+  "slug": "2024-12-11-unicef-liberia-children-legal-identity",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "UNICEF Liberia says the Birth Registration Information Management System (BRIMS) has been implemented on the DHIS2 platform, streamlining birth registration processes and improving data management; no date is given for the implementation, so the release's date is used.", "as_of": "2024-12-11", "date_precision": "day", "system": "Birth Registration Information Management System (BRIMS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "UNICEF Liberia says birth registration services have been decentralised to all 15 counties and 58 centres, but does not say how many of the 58 centres enter births in BRIMS; no date is given, so the release's date is used.", "as_of": "2024-12-11", "date_precision": "day", "system": "Birth Registration Information Management System (BRIMS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNICEF says that as lead agency it supports Liberia's birth registration with mobile registration and certification campaigns, supplies and incentive payments for birth registration staff, and its Representative asks that civil registration be given budgetary and operational support under the new National Development Plan; no domestic budget line is stated.", "as_of": "2024-12-11", "date_precision": "day", "system": "Birth Registration Information Management System (BRIMS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Birth Registration Information Management System (BRIMS)", "country_label": "BRIMS; birth registration centers", "class": "civil", "platform": "DHIS2", "owner": "", "tiers": "birth registration services decentralised to all 15 counties and 58 centres"},
+    {"system": "Mobile registration and certification campaigns", "country_label": "mobile registration and certification campaigns", "class": "outreach", "platform": "", "owner": "supported by UNICEF", "tiers": ""}
+  ],
+  "note": ""
+}

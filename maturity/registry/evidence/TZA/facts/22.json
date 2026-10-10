@@ -1,0 +1,16 @@
+{
+  "slug": "2025-08-01-deep-zanzibar-dynamic-social-registry-blueprint",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The working paper, from its own interviews, says Zanzibar's CRVS system, which registers births, deaths and marriages, is an outdated system that is difficult to update and relies primarily on paper-based records; it gives no date for the finding, so the paper's date of August 2025 is used.", "as_of": "2025-08", "date_precision": "month", "system": "CRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Zanzibar Civil Status Registration Agency, established under Act No. 3 of 2018 by merging the Births and Deaths Office with the Registration and Identity Cards Office, registers births, deaths, marriages and divorces with full executive authority in all 11 districts of Zanzibar, as at 2025.", "as_of": "2025", "date_precision": "year", "system": "CRVS system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CRVS system", "country_label": "CRVS system of the Zanzibar Civil Status Registration Agency (ZCSRA)", "class": "civil", "platform": "", "owner": "Zanzibar Civil Status Registration Agency (ZCSRA)", "tiers": "Zanzibar, all 11 districts"},
+    {"system": "ZanID", "country_label": "ZanID system and number; identity cards for resident and non-resident Zanzibaris", "class": "identity", "platform": "", "owner": "Zanzibar Civil Status Registration Agency (ZCSRA)", "tiers": "Zanzibar; adults, with no ZanID number for under-18s"},
+    {"system": "CRVS integration with ZanID and other systems", "country_label": "CRVS integration with the ZanID system to verify identity, with a linkage to the Zanzibar Revenue Authority; ZUPS MIS interface with the civil registry for ID numbers; proposed CRVS link to the ZDSR", "class": "exchange", "platform": "", "owner": "ZCSRA", "tiers": "Zanzibar; partial"},
+    {"system": "Shehia Registry", "country_label": "Shehia Registry (Daftari la Shehia), kept by Shehas on paper, partially digitised", "class": "", "platform": "", "owner": "Shehia leaders, local government", "tiers": "shehia"},
+    {"system": "Jamii Namba", "country_label": "Jamii Namba digital ID, under development by NIDA", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": "national"},
+    {"system": "Land Registry", "country_label": "Land Registry (Zanzibar)", "class": "land", "platform": "", "owner": "", "tiers": "Zanzibar"}
+  ],
+  "note": "Facts are for Zanzibar only; the paper is a blueprint for a social registry and treats the CRVS as a source to link to."
+}

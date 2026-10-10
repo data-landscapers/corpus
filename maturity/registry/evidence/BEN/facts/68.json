@@ -1,0 +1,10 @@
+{
+  "slug": "2019-01-01-adn-benin-recipe-challenges-electronic-biometric-identification-data-capture",
+  "facts": [],
+  "systems": [
+    {"system": "eID database (Unique Personal Identifier)", "country_label": "", "class": "identity", "platform": "tablets, with a technical partner", "owner": "Agency for the Digital Development (ADN), Presidency of the Republic", "tiers": "About 600 fixed registration centres across the country for six months, at least 2 tablets a centre, 1,500 tablets deployed"},
+    {"system": "exceptional regularisation of people registered without a birth certificate", "country_label": "", "class": "outreach", "platform": "", "owner": "", "tiers": "A law allowed an exceptional process that regularised 2.5 million people enrolled with no identity document, on a document signed on the spot by two witnesses and a municipal officer"},
+    {"system": "database of electronic, dematerialized birth certificates", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "Created for those regularised; printed birth certificates being delivered"}
+  ],
+  "note": "An undated essay on the biometric identification census: the birth certificates it describes were produced in bulk from identity enrolment under an exceptional law, not entered at an office where a birth is declared, so no fact is recorded."
+}

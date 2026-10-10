@@ -1,0 +1,31 @@
+{
+  "slug": "2019-07-01-niger-loi-2019-29-regime-etat-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre national de l'état civil",
+      "country_label": "registre national de l'état civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "",
+      "tiers": "instituted by art. 73 as the synchronisation of the computerised civil status registers of all communes, diplomatic missions and consular posts; fed by a computerised treatment hosted by the commune or, failing that, the departmental civil status directorate (art. 52)"
+    },
+    {
+      "system": "Registre national de population",
+      "country_label": "registre national de population",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "instituted by art. 74 on civil status data; central database of residents, nationals abroad, foreigners, refugees and stateless persons, with biometric data (arts. 75-76)"
+    },
+    {
+      "system": "Archivage électronique des données de l'état civil",
+      "country_label": "saisie et archivage électronique des données de l'état civil",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "principal centres (commune seats), diplomatic missions and consular posts (arts. 13-14)"
+    }
+  ],
+  "note": "The civil status law of 1 July 2019 sets what is permitted and states no deployment: paper and electronic supports both exist in law (art. 18), declarations are written in notebooks or keyed on electronic supports at declaration centres (art. 49), a computerised treatment hosted by the commune or the departmental directorate may be used to establish acts (art. 52), principal centres key and archive electronically (art. 13), and the existing arrangement stays in force until new supports are in place (art. 102). No office is said to be registering digitally."
+}

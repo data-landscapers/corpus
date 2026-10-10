@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01 South Africa - Smart ID Card guide (Baker McKenzie)",
+  "facts": [],
+  "systems": [
+    {"system": "Smart ID Card", "country_label": "Smart ID Card, replacing the green barcoded ID book", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "from age 16; citizens and permanent residents from visa-exempt countries as of May 2025"},
+    {"system": "Live Capture", "country_label": "DHA Live Capture Offices", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "Live Capture offices and participating bank branches; photo, fingerprints and signature captured"},
+    {"system": "eHomeAffairs", "country_label": "eHomeAffairs portal; e-Services Portal", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "online application for the Smart ID Card"},
+    {"system": "Branch Appointment Booking System (BABS)", "country_label": "Branch Appointment Booking System", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "online booking for select offices"}
+  ],
+  "note": "A law firm's guide to applying for the Smart ID Card, current as of May 2025; identity enrolment only. A birth certificate appears as a supporting document; nothing is said of how a birth or death is registered."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-31-ben-anip-business-intelligence-procurement",
+  "facts": [],
+  "systems": [
+    {"system": "Fichier National de l'État Civil (FNEC)", "country_label": "Fichier National de l'État Civil (FNEC)", "class": "", "platform": "", "owner": "ANIP", "tiers": "national file, named as a trust referential; the notice says ANIP records civil-status events and produces and delivers acts, without saying where or how the record is made"},
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national register of persons, named as a trust referential"},
+    {"system": "ANIP business-intelligence environment", "country_label": "environnement Business Intelligence de l'ANIP", "class": "", "platform": "open-source tools on-premise, no cloud (specified, not yet built)", "owner": "ANIP; tender run through UNICEF (LRPS 9205843)", "tiers": "central; at the stage of a study, architecture and specification, proposals due 29 September 2026"}
+  ],
+  "note": "A tender for the design of an analytics environment over ANIP's registers; it names the national civil-status file but does not say how or where events are entered in it."
+}

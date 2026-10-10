@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-13-ken-explainer-clarification-on-id-registration-rules-for-kenyans-without",
+  "facts": [],
+  "systems": [
+    {"system": "eCitizen, Civil Registration Services department", "country_label": "eCitizen", "class": "certificate", "platform": "", "owner": "", "tiers": "online application and payment for a late birth certificate; printed form and originals then taken to a Huduma Centre or sub-county Civil Registration office for physical verification"}
+  ],
+  "note": "Describes the online application for a late birth certificate, finished on paper at the sub-county office; it does not say how the office makes the register entry."
+}

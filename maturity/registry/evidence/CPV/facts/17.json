@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao",
+  "facts": [],
+  "systems": [
+    {"system": "Autentika", "country_label": "Autentika", "class": "identity", "platform": "authentication and authorisation server, integrated by OpenID Connect", "owner": "State of Cabo Verde; onboarding and helpdesk at NOSi", "tiers": "national online; more than 95,000 daily users"},
+    {"system": "Chave Móvel Digital de Cabo Verde (CMDCV)", "country_label": "CMDCV", "class": "identity", "platform": "", "owner": "State of Cabo Verde", "tiers": "activated online or in person at conservatórias and delegations of the Registo Civil, the national identification archive, Casa do Cidadão, the foreigners and borders directorate, and embassies abroad"},
+    {"system": "Cartão Nacional de Identificação (CNI)", "country_label": "CNI", "class": "identity", "platform": "chip card with middleware", "owner": "", "tiers": "national; activated in person at the same authorised entities"}
+  ],
+  "note": "Undated portal page for the State's authentication platform; conservatórias and delegations of the Registo Civil appear only as counters activating identity credentials. Nothing on how births or deaths are registered."
+}

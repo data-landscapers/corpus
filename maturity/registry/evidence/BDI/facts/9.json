@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-10-burundi-ekori-tax-registration-data-exchange",
+  "facts": [],
+  "systems": [
+    {"system": "e-KORI", "country_label": "e-KORI", "class": "land", "platform": "", "owner": "Office burundais des recettes (OBR)", "tiers": "online; all tax registration (immatriculation) requests since 4 August 2026, with in-person biometric capture at OBR offices for individuals"},
+    {"system": "easybusiness.bi", "country_label": "easybusiness.bi", "class": "land", "platform": "", "owner": "Agence de développement du Burundi (ADB)", "tiers": "online portal for commercial registration, passing data automatically to OBR through e-KORI"}
+  ],
+  "note": "Tax and business registration only, which the typology puts out of scope; nothing on civil registration."
+}

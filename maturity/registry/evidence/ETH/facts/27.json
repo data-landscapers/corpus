@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda ID", "class": "identity", "platform": "", "owner": "National ID Programme (NIDP)", "tiers": ""},
+    {"system": "land registry", "country_label": "", "class": "land", "platform": "", "owner": "", "tiers": "a land registry containing 18 million plots, to which farmers are linked under the National Agricultural Finance Implementation Roadmap"}
+  ],
+  "note": "An article on Nigeria's farmer identification; its one Ethiopia paragraph concerns the Fayda ID and a land registry. Nothing is stated about civil registration in Ethiopia."
+}

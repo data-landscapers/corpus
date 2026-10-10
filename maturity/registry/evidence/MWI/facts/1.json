@@ -1,0 +1,14 @@
+{
+  "slug": "2026-10-09-malawi24-undp-printers-decentralise-civil-registration",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Malawi24 reports that UNDP handed the government 152 printers in Lilongwe on 9 October 2026 to decentralise birth, marriage and death registration, 100 for National Registration Bureau offices at Traditional Authority level and 52 for health facilities.", "as_of": "2026-10-09", "date_precision": "day", "system": "NRB birth, marriage and death registration services", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:180", "fact": "The homeland security minister said 180 health facilities have already been digitalised, with work under way to extend registration services through traditional and sub-traditional authorities; the document gives no total and does not say what digitalised means or that the facilities register births there (no date given; published date used).", "as_of": "2026-10-09", "date_precision": "day", "system": "NRB birth, marriage and death registration services", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The printers were supplied by UNDP through the Inclusive Digital Transformation for Malawi project, financed by the European Union, Norway and Ireland.", "as_of": "2026-10-09", "date_precision": "day", "system": "NRB birth, marriage and death registration services", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "NRB birth, marriage and death registration services", "country_label": "registration services of the National Registration Bureau", "class": "civil", "platform": "", "owner": "National Registration Bureau, with the Ministry of Health at health facilities", "tiers": "NRB offices at Traditional Authority level; health facilities (180 said to be digitalised)"},
+    {"system": "152 printers handed over by UNDP", "country_label": "printers", "class": "enabling", "platform": "", "owner": "National Registration Bureau and Ministry of Health; supplied by UNDP", "tiers": "100 to NRB offices at Traditional Authority level, 52 to health facilities"},
+    {"system": "national identity system", "country_label": "national identity system", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

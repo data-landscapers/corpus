@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-zambia-national-registration-act-cap-126",
+  "facts": [],
+  "systems": [
+    {"system": "Register of persons under the National Registration Act", "country_label": "the register; national registration card", "class": "identity", "platform": "paper forms forwarded by registrars to the Chief Registrar", "owner": "Chief Registrar", "tiers": "registrars in specified areas take the application and photograph and forward the form to the Chief Registrar, who keeps the register"}
+  ],
+  "note": "The 1964 Act and its regulations govern registration of persons aged 16 and over and the national registration card; they are an identity statute and say nothing of registering births or deaths beyond the surrender of a dead person's card."
+}

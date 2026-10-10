@@ -1,0 +1,31 @@
+{
+  "slug": "2024-11-28-decreto-presidencial-267-24-universalizacao-do-bilhete-de-identidade",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper",
+     "fact": "The Strategic Plan approved by Presidential Decree 267/24 states that civil registration is at present done by five coexisting means, ordinary books, 'smart books', the Sistema Integrado de Registo Civil, the system integrated with identity card data and the PROMOREM application, and calls the method of civil registration antiquated.",
+     "as_of": "2024-11-28", "date_precision": "day", "system": "Livros normais (ordinary register books)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published",
+     "fact": "The Strategic Plan approved by Presidential Decree 267/24 states that the civil registry services number more than 300 and have no centralised database system; it gives no count of services registering in any of the digital systems it lists.",
+     "as_of": "2024-11-28", "date_precision": "day", "system": "Sistema Integrado de Registo Civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current",
+     "fact": "Presidential Decree 267/24 approved the Strategic Plan for the Universalisation of the Identity Card, to run from January 2025 to December 2026, which provides for a single database (Base de Dados Única) fed daily by a new method of civil registration from a cut-off date, integration of the identity card, civil registry and adult-citizen databases, and intercommunication between conservatórias and identification posts.",
+     "as_of": "2024-11-28", "date_precision": "day", "system": "Base de Dados Única", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry",
+     "fact": "The Strategic Plan approved by Presidential Decree 267/24 places the single database and the civil registry and identification services that are to feed it with the Ministry of Justice and Human Rights, monitored by the Interministerial Commission created by Presidential Order 231/22.",
+     "as_of": "2024-11-28", "date_precision": "day", "system": "Base de Dados Única", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Registo Civil", "country_label": "Sistema Integrado de Registo Civil", "class": "civil", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "civil registry services"},
+    {"system": "Sistema Integrado com os dados do Bilhete de Identidade", "country_label": "Sistema Integrado com os dados do Bilhete de Identidade", "class": "civil", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "civil registry services"},
+    {"system": "PROMOREM", "country_label": "Aplicativo PROMOREM", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Livros inteligentes", "country_label": "Livros inteligentes", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Base de Dados Única", "country_label": "Base de Dados Única", "class": "civil", "platform": "planned single database of the citizen's civil history from birth to death", "owner": "Ministry of Justice and Human Rights", "tiers": "to be fed daily by the registry services; not yet in being"},
+    {"system": "Digitisation of the national civil registry archive", "country_label": "digitalização de todo o arquivo físico nacional a nível do Registo Civil", "class": "archive", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "planned, national"},
+    {"system": "Bilhete de Identidade issuance", "country_label": "Bilhete de Identidade; Centro de Produção do Bilhete de Identidade (CPBI); Recolha de Dados Única", "class": "identity", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "about 364 fixed and mobile identification posts at home and in the diaspora; printing central at CPBI, Luanda"},
+    {"system": "BUAP data capture for the identity card", "country_label": "Balcão Único de Atendimento ao Público (BUAP)", "class": "identity", "platform": "", "owner": "Ministry of Territorial Administration with the Ministry of Justice and Human Rights", "tiers": "164 municipalities, 518 communes and 44 urban districts"},
+    {"system": "Mobile brigades and 600 fixed and mobile data-capture kits", "country_label": "brigadas móveis; kits fixos e móveis", "class": "outreach", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "remote areas, maternities, schools, churches, hospitals; planned"},
+    {"system": "Integration of the identity card, civil registry and BDCM databases", "country_label": "integração das bases de dados do Bilhete de Identidade, do Registo Civil e da BDCM", "class": "exchange", "platform": "", "owner": "Ministry of Justice and Human Rights; Ministry of Territorial Administration", "tiers": "planned; the plan states the civil registry and civil identification services do not intercommunicate"},
+    {"system": "BDCM", "country_label": "Base de Dados de Cidadãos Maiores (BDCM)", "class": "land", "platform": "", "owner": "Ministry of Territorial Administration", "tiers": ""}
+  ],
+  "note": ""
+}

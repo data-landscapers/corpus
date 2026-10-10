@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-04-nrb-strategic-plan-2025-2030-launch",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "UNDP Malawi reports that the National Registration Bureau Strategic Plan 2025-2030 was launched in Lilongwe on 4 September 2025, with universal civil registration among its six priority areas and the aim of a fully digitalised Bureau in which every birth, marriage and death is recorded.", "as_of": "2025-09-04", "date_precision": "day", "system": "civil registration systems", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "UNDP Malawi reports the Minister of Homeland Security saying at the launch on 4 September 2025 that the National Registration Bureau's mandate is to build and maintain a comprehensive National Registration and Identification System, the Bureau's plan covering the recording of every birth, marriage and death.", "as_of": "2025-09-04", "date_precision": "day", "system": "civil registration systems", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration systems", "country_label": "civil registration", "class": "civil", "platform": "", "owner": "National Registration Bureau (NRB)", "tiers": ""},
+    {"system": "National Registration and Identification System", "country_label": "National Registration and Identification System", "class": "", "platform": "", "owner": "National Registration Bureau (NRB)", "tiers": ""},
+    {"system": "NRB database integration with the Malawi Revenue Authority and the Immigration Department", "country_label": "NRB database", "class": "exchange", "platform": "", "owner": "National Registration Bureau (NRB)", "tiers": ""}
+  ],
+  "note": "The release says nothing on how or where a birth or death is entered, on events registered digitally or on offices; the two facts are governance only."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-02-digitalisation-actes-de-naissance-debat-alt",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Archivage électronique (SAE)", "country_label": "Système d'Archivage électronique (SAE)", "class": "archive", "platform": "", "owner": "Direction générale de la Modernisation de l'Etat civil (DGMEC)", "tiers": "commune of Léo: 152,543 civil-status documents (all birth, marriage and death registers) scanned and archived, 18 to 23 August 2025"},
+    {"system": "Unique civil-status identifier (provided for in the draft Code des personnes et de la famille)", "country_label": "identifiant unique à l'état civil", "class": "", "platform": "", "owner": "", "tiers": "to be set by decree"}
+  ],
+  "note": "The bill debated on 1 September 2025 would allow birth acts to be recorded in digital registers, which is a legal provision and not a system in use; the operation described at Léo is back-capture of existing registers."
+}

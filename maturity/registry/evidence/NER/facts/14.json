@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-20-lesahel-tillaberi-etat-civil-identification",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Interior Ministry's deputy secretary-general announced at Tillabéri on 19 August 2026 the ministry's works to modernise the civil-status system: computerisation of communes and declaration centres, a new platform for managing civil-status events to be put into service, and a Registre National d'État Civil to be made operational.", "as_of": "2026-08-19", "date_precision": "day", "system": "nouvelle plateforme de gestion des faits d'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The deputy secretary-general placed the civil-status and identification reforms under the WURI-Niger project, which Le Sahel states is financed by the World Bank (19 August 2026); no domestic budget line is mentioned.", "as_of": "2026-08-19", "date_precision": "day", "system": "nouvelle plateforme de gestion des faits d'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "As at 19 August 2026 the computerisation of communes and declaration centres and the new civil-status platform were announced as works to come, not yet in service, following ordonnance n°2026-21 of 22 April 2026 on the civil-status regime and the texts creating the ANEI.", "as_of": "2026-08-19", "date_precision": "day", "system": "nouvelle plateforme de gestion des faits d'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "nouvelle plateforme de gestion des faits d'état civil", "country_label": "nouvelle plateforme de gestion des faits d'état civil; Registre National d'État Civil; informatisation des communes et des centres de déclaration", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur, de la Sécurité publique et de l'Administration du Territoire; ANEI to manage the RNP and associated registers", "tiers": "communes and declaration centres, announced"},
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP)", "class": "identity", "platform": "", "owner": "ANEI", "tiers": "first enrolment phase in Niamey's five arrondissements communaux, other regions in 2027"},
+    {"system": "Carte nationale d'identité biométrique and passeport biométrique AES", "country_label": "nouvelle Carte nationale d'identité biométrique; nouveau passeport biométrique AES", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "mission nationale de sensibilisation", "country_label": "tournée nationale de sensibilisation sur les réformes en matière d'état civil et d'identification", "class": "outreach", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "third stage, Tillabéri, 19 August 2026, after Tahoua and Dosso"}
+  ],
+  "note": ""
+}

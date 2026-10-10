@@ -1,0 +1,15 @@
+{
+  "slug": "2024-05-01 Lesotho joins 50-in-5 (country profile)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CRVS and national ID system",
+      "country_label": "CRVS and national ID system",
+      "class": "identity",
+      "platform": "",
+      "owner": "Ministry of Local Government, Chieftainship, Home Affairs and Police",
+      "tiers": "provides identity verification services to government payroll, pensioners, banks, insurers and telecommunications operators; an upgrade of the national ID to a digital ID is planned (May 2024)"
+    }
+  ],
+  "note": "The profile describes the combined CRVS and national ID system only by its identity verification services; nothing on how or where births and deaths are registered."
+}

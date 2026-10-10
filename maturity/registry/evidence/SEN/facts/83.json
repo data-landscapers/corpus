@@ -1,0 +1,10 @@
+{
+  "slug": "2020-11-25-sen-actualisation-strategie-senegal-numerique-2025-plan-actions",
+  "facts": [],
+  "systems": [
+    {"system": "Registre de l'état civil (digitalisation, action 523)", "country_label": "Digitalisation du registre de l'état civil", "class": "", "platform": "", "owner": "MCTDAT, MENT/ADIE and the Ministère de l'intérieur, as the action's responsables", "tiers": "not stated; an indicator counts the communes or other administrations where the service is available"},
+    {"system": "Identité numérique fiable (action 513)", "country_label": "Création d'une identité numérique fiable (PP – PM); identifiant unique du citoyen", "class": "identity", "platform": "", "owner": "Ministère en charge de l'Etat Civil, MENT, Ministère de l'intérieur and others, as the action's responsables", "tiers": "national; planned"},
+    {"system": "Système de gestion du registre national foncier (action 527)", "country_label": "Registre national foncier", "class": "land", "platform": "", "owner": "MFB/DGID (Cadastre), MENT", "tiers": "national; planned"}
+  ],
+  "note": "No fact: the plan names the digitalisation of the civil register as action 523 (priority P2, deadline 2025, budget FCFA 2,000 million, public financing; steps: study, legal framework, develop the solution, deploy) but does not say what the system does or where the record is made, so it is unclassified. The document prints no date; 2020-11-25 is a proxy."
+}

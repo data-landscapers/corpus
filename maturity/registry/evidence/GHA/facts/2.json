@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-01-xss-world-bank-africa-economic-update-october-2026-ai-readiness",
+  "facts": [],
+  "systems": [
+    {"system": "digital ID system", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "national; linked to tax registration"}
+  ],
+  "note": "The passages naming Ghana are macroeconomic, plus one on the digital ID linked to tax registration; nothing on civil registration in Ghana."
+}

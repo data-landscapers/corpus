@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-25-gouvernement-inaugure-deux-datacenters",
+  "facts": [],
+  "systems": [
+    {"system": "Modular datacentres of the public administration", "country_label": "datacenters modulaires de l'administration publique", "class": "enabling", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "two sites in Ouagadougou, inaugurated 23 January 2026; said to house servers storing dematerialised civil-status data among others"}
+  ],
+  "note": "Datacentre inauguration; civil status is named only among the kinds of dematerialised state data the servers store, with no registration system or office described."
+}

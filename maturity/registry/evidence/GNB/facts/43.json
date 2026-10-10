@@ -1,0 +1,9 @@
+{
+  "slug": "2019-01-01-cne-guine-bissau-legislacao-eleitoral-lei-11-2013-recenseamento",
+  "facts": [],
+  "systems": [
+    {"system": "Recenseamento eleitoral (sistema informático do recenseamento eleitoral)", "country_label": "recenseamento eleitoral; cadernos eleitorais; cartão de eleitor manual melhorado ou biométrico; ficheiro informático central", "class": "land", "platform": "", "owner": "Government through its electoral-process support structure, in collaboration with and supervised by the CNE", "tiers": "registration commissions per administrative sector or municipality, mobile brigades and registration posts; consulates abroad"},
+    {"system": "Conservatórias e Delegações do Registo Civil", "country_label": "Conservatórias e Delegações do Registo Civil", "class": "", "platform": "", "owner": "", "tiers": "send the electoral support structure, by 31 December each year, a list of citizens over 18 who died in the year (art. 28); the law does not say how the register is kept"}
+  ],
+  "note": "Lei n.º 11/2013 is the electoral registration law: an electoral register is outside the sub-indicator's class, and the law says nothing of how civil registry offices record births or deaths. The capture is truncated at art. 51."
+}

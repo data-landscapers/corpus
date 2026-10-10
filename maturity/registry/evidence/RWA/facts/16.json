@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-30-rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "IremboGov", "country_label": "IremboGov, central digital services hub", "class": "certificate", "platform": "Irembo", "owner": "", "tiers": "national; more than 600 services, over 240 paid, across civil registration, licensing, immigration, land, health insurance and taxation; 4,000 agents"},
+    {"system": "Single Digital Identity (SDID)", "country_label": "SDID", "class": "identity", "platform": "", "owner": "", "tiers": "nationwide enrolment under way, backed by the World Bank's RDAP; integrated with IremboGov and national payment systems"}
+  ],
+  "note": "Civil registration appears only as one service family on the IremboGov portal; nothing on how a registry office records an event."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-30-farmer-profile-initiative",
+  "facts": [],
+  "systems": [
+    {"system": "national ID", "country_label": "national ID", "class": "identity", "platform": "", "owner": "", "tiers": "integrated with the farmer profile database, initially in 311 ACC woredas"},
+    {"system": "rural land information systems", "country_label": "rural land information systems", "class": "land", "platform": "", "owner": "", "tiers": "integrated with the farmer profile database, initially in 311 ACC woredas"}
+  ],
+  "note": "A page on the Agricultural Transformation Institute's farmer profile database. It states nothing about civil registration; it names the national ID and rural land information systems only as systems the database integrates with."
+}

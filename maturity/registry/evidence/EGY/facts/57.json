@@ -1,0 +1,8 @@
+{
+  "slug": "2023-07-31-egypt-digital-id-checks-fintech-transactions",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Identification Process (FRA Decree No. 140 of 2023)", "country_label": "Digital Identification Process", "class": "identity", "platform": "", "owner": "Financial Regulatory Authority", "tiers": "biometric identity verification for fintech transactions with non-bank financial entities, decreed 11 July 2023; tiers not stated"}
+  ],
+  "note": "Identity verification rules for non-bank finance; nothing on the registration of births or deaths."
+}

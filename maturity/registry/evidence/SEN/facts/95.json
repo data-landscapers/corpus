@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-16-aps-new-deal-technologique-un-an-e-paiement-tresor-e-jokko",
+  "facts": [],
+  "systems": [
+    {"system": "e-Consulat", "country_label": "e-Consulat", "class": "certificate", "platform": "", "owner": "not stated; reported by the Ministère de la Communication, des Télécommunications et du Numérique", "tiers": "online, for Senegalese abroad: requests for passports, consular cards and civil-status acts, with online payment"},
+    {"system": "e-Jokko", "country_label": "e-Jokko, plateforme nationale d'interopérabilité", "class": "enabling", "platform": "", "owner": "Government of Senegal", "tiers": "national; first uses in public finance and social protection, civil status not named"}
+  ],
+  "note": "No fact: the ministry's one-year account of the New Deal technologique mentions civil status only as acts that Senegalese abroad can request through e-Consulat; nothing on registration at offices."
+}

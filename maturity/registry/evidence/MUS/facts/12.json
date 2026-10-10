@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-22-mauritius-national-fintech-strategy-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Central KYC system (CKYC), launched April 2025, whose first phase includes integration with the Civil Status Division, the police, the companies registry and the Central Electricity Board", "country_label": "Central KYC system", "class": "exchange", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The passages name the Civil Status Division only as an institution the Central KYC system integrates with in its first phase; nothing on how or where births and deaths are recorded."
+}

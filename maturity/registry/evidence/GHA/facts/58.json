@@ -1,0 +1,12 @@
+{
+  "slug": "2022-06-01-ghana-health-information-system-strategic-plan-2022-2025",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Health's plan states that the Births and Deaths Registry, within the Ministry of Local Government and Rural Development, develops and manages the births and deaths registration system under Act 1027 of 2020; no date is given, so the plan's publication date is used.", "as_of": "2022-06", "date_precision": "month", "system": "births and death registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "births and death registration system", "country_label": "Births and Deaths Registry", "class": "civil", "platform": "", "owner": "Births and Deaths Registry, Ministry of Local Government and Rural Development", "tiers": "district offices of the Registry are named"},
+    {"system": "Health-facility sharing of birth data and medical certificates of cause of death with the Births and Deaths Registry", "country_label": "", "class": "notification", "platform": "", "owner": "Ministry of Health / Ghana Health Service health facilities", "tiers": "health facilities in the districts, to the district offices of the Registry"},
+    {"system": "BDR software", "country_label": "software of other data generators (e.g. BDR)", "class": "", "platform": "", "owner": "Births and Deaths Registry", "tiers": ""}
+  ],
+  "note": "The plan does not say whether the Registry's offices record digitally: it says facility births are shared with the Registry's district offices, that a doctor's cause-of-death certificate is presented to the Registry for death registration, and lists the Registry's software only as an opportunity; the 2019 WHO SCORE assessment it cites found limited capacity for counting births and deaths."
+}

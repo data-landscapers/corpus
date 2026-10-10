@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-03-armp-patnuc-connectivite-entites-publiques-ami",
+  "facts": [],
+  "systems": [
+    {"system": "PATNUC broadband connectivity of public entities (Component 2)", "country_label": "Connectivité large bande de certaines entités publiques dans le cadre du PATNUC", "class": "enabling", "platform": "", "owner": "MINPOSTEL, PATNUC project management unit; World Bank loan IDA 69870-CM", "tiers": "decentralised local authorities (CTD), hospitals and health centres, schools, training and social centres; identification centres named among the entities to be connected"}
+  ],
+  "note": "A call for expressions of interest for a study of bandwidth and LAN needs; it names the digitalisation of civil status only as one of the public services the connectivity is meant to serve, and describes no civil registration system."
+}

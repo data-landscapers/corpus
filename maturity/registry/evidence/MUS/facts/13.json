@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:68.1%", "fact": "The essay, citing a 2012 UNECA country report, says Mauritius had 47 civil status offices in total, 32 of them fully computerised for instant digital entry and 15 not computerised (32 of 47).", "as_of": "2012", "date_precision": "year", "system": "Civil Status Division computerised offices (Central Population Database)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay, citing a 2012 UNECA country report, says the 32 computerised civil status offices made the digital entry instantly at the office, and that data reaches the central electronic Central Population Database.", "as_of": "2012", "date_precision": "year", "system": "Civil Status Division computerised offices (Central Population Database)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay, citing a 2012 UNECA country report, says the 15 non-computerised civil status offices used manual entry forms that were transferred to computerised sites for data entry.", "as_of": "2012", "date_precision": "year", "system": "Civil Status Division computerised offices (Central Population Database)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The essay's Mauritius registry row concerns birth registration: it says parents register a birth at a district Civil Status Office and that, per a 2012 UNECA report, 32 of 47 offices entered the record digitally.", "as_of": "2012", "date_precision": "year", "system": "Civil Status Division computerised offices (Central Population Database)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Status Division computerised offices (Central Population Database)", "country_label": "Civil Status Offices; Central Population Database", "class": "civil", "platform": "", "owner": "Civil Status Division", "tiers": "47 offices in 2012: 32 computerised, 15 sending manual entry forms to computerised sites; data reaches the central database and, monthly, Statistics Mauritius"},
+    {"system": "Mokloud", "country_label": "Mokloud", "class": "certificate", "platform": "", "owner": "", "tiers": "online access to certificates, not registration"}
+  ],
+  "note": "This source is on study.json's exclude_sources list (an AI-assisted compilation by its own header); the facts are what it states, all resting on its citation of a 2012 UNECA report. Its own reading that rural offices 'likely' rely on paper is a judgement and is not recorded."
+}

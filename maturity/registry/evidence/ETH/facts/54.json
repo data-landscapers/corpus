@@ -1,0 +1,9 @@
+{
+  "slug": "2024-03-07-ethiopia-inclusive-id-refugees",
+  "facts": [],
+  "systems": [
+    {"system": "Ethiopian Digital ID system", "country_label": "Fayda", "class": "identity", "platform": "", "owner": "National ID Program (NIDP)", "tiers": "refugee inclusion in pilot stage in Addis Ababa at March 2024, through the Refugees and Returnees Service"},
+    {"system": "PING project (PRIMES Interoperability Gateway)", "country_label": "", "class": "exchange", "platform": "UNHCR PRIMES Interoperability Gateway", "owner": "RRS, UNHCR and NIDP under a tripartite data sharing agreement", "tiers": "links the refugee and national ID databases"}
+  ],
+  "note": "A UNHCR press release on digital ID cards for refugees. Civil registration appears only in the description of the World Bank's ID4D initiative; nothing is said of how births or deaths are registered."
+}

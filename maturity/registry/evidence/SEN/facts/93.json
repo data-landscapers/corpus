@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-23-senegal-connect-park-bloque-a-5-pourcent-oceans-news",
+  "facts": [],
+  "systems": [
+    {"system": "Sénégal Connect Park", "country_label": "Sénégal Connect Park (Diamniadio)", "class": "enabling", "platform": "", "owner": "State of Senegal; financed by AfDB and BOAD loans with FCFA 6.329 billion from the State", "tiers": "national hosting site, 95% built at 20 May 2026"},
+    {"system": "Fichiers de la Direction de l'automatisation des fichiers (DAF)", "country_label": "DAF", "class": "identity", "platform": "", "owner": "Direction de l'automatisation des fichiers", "tiers": "national; 139 GB of biometric and electoral data exfiltrated in February 2026, according to the article"}
+  ],
+  "note": "No fact: the article names no civil registration system. It reports only that an emergency plan was due from the State's IT directorates by the end of June 2026 to secure the conservation of civil-status registers and archives, after cyberattacks on the tax directorate, the DAF and the Treasury."
+}

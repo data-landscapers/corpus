@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Card", "country_label": "National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": "Not stated; adult ID ownership 72% (74% men, 71% women) in the Findex survey of 7 September to 10 October 2024; no digital ID"}
+  ],
+  "note": "For Comoros the dataset gives only the foundational credential (National Identity Card), no digital ID and adult ID ownership of 72%; it states nothing about how civil registration offices record events."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-31-sa-operation-vulindlela-q1-2026-progress-report",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Identity programme", "country_label": "Digital ID", "class": "identity", "platform": "", "owner": "government (Operation Vulindlela reform 27)", "tiers": "regulations consulted on; prototype in development"},
+    {"system": "Smart ID and passport services at bank branches", "country_label": "", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "203,887 applications across 171 branches in Q1 2026/27"},
+    {"system": "MyMzansi", "country_label": "MyMzansi platform", "class": "", "platform": "", "owner": "government", "tiers": "production-ready pilot under development"},
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "", "platform": "", "owner": "government", "tiers": "pilot linking administrative data across government, nine months in"}
+  ],
+  "note": "The digital public infrastructure section covers identity, data exchange and payments; it states nothing on civil registration."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-03-gambia-launches-sovereign-digital-id-margins-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Management System (NIMS)", "country_label": "GAM ID", "class": "identity", "platform": "Margins ID Systems Applications (MIDSA) under a build, operate and transfer agreement awarded January 2026", "owner": "Government of The Gambia; operated by MIDSA", "tiers": "pilot 6-29 July 2026 for selected institutions; nationwide enrolment from 4 August 2026"}
+  ],
+  "note": "National identity system launch; nothing on civil registration."
+}

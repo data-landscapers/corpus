@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's Burundi registry row states that rural communal état civil bureaus record births by entirely paper-based processes, with no electronic data entry or database at the point of service; it gives no date of its own, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "communal état civil bureaus (paper registers)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay reports a UNECA survey of October 2022 to April 2023 as confirming that Burundi has no national electronic CRVS database and that business processes from notification to certification remain paper-based nationwide, records moving as paper copies.", "as_of": "2023-04", "date_precision": "month", "system": "communal état civil bureaus (paper registers)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The essay states that it found no evidence of e-CRVS pilots, digital tools or deployments in rural registries in Burundi in searches up to 2026; undated in the text, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "communal état civil bureaus (paper registers)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "communal état civil bureaus (paper registers)", "country_label": "bureaux communaux d'état civil", "class": "civil", "platform": "", "owner": "", "tiers": "communal offices; paper only, per the essay"}
+  ],
+  "note": "The file's own header marks the country rows as an AI-assisted compilation, the author's analysis and not sourced fact, and study.json lists this slug under exclude_sources; the facts are recorded as the document states them for the parent to treat accordingly."
+}

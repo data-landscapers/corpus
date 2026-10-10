@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-07-rwanda-digital-acceleration-project-aide-memoire-nov-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Civil records digitalization", "country_label": "civil records digitalization", "class": "archive", "platform": "", "owner": "NIDA, financed by the World Bank/AIIB Digital Acceleration Project", "tiers": "7.2 million records scanned and 900,000 indexed across 287 of 418 sectors, as of the mission of 27 October to 7 November 2025"},
+    {"system": "Single Digital ID system", "country_label": "SDID", "class": "identity", "platform": "", "owner": "NIDA", "tiers": "mass enrolment began 28 October 2025 in Gisagara, Huye and Nyanza; about 1.67% of the population registered; system due live to issue credentials by June 2026"},
+    {"system": "Irembo 3.0", "country_label": "Irembo", "class": "", "platform": "low-code/no-code platform", "owner": "Irembo, with RISA", "tiers": "central e-services portal; national"}
+  ],
+  "note": "The only civil-registration statement is the scanning and indexing of existing records, which is archive class and gives no fact; the rest is identity enrolment, connectivity and other e-services."
+}

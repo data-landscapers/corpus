@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-south-sudan-annual-health-sector-performance-report-2024-25",
+  "facts": [],
+  "systems": [
+    {"system": "birth notification", "country_label": "Birth Notification", "class": "notification", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "pilot stage; coverage 2% of all live births in community and facility settings in 2024-25, against a 55% target"},
+    {"system": "death notification (CRVS)", "country_label": "Death notification; CRVS", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "pilot phase at health facilities; coverage not determined"}
+  ],
+  "note": "Passages only. The Ministry of Health reports on notification of births and deaths from health facilities and communities, which is not registration by the civil registrar; no civil-class system is described."
+}

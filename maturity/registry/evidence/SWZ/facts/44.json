@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Card", "country_label": "National Identification Card, with Personal Identity Number (PIN)", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "data centrally stored by the ministry; initiated 2003"},
+    {"system": "civil registry", "country_label": "civil registry", "class": "", "platform": "", "owner": "", "tiers": "commercial banks and other service providers allowed access for identity verification"},
+    {"system": "Biometric Voter Registration System", "country_label": "Biometric Voter Registration System", "class": "land", "platform": "", "owner": "Elections and Boundaries Commission", "tiers": "used in the 2013 and 2018 elections"}
+  ],
+  "note": "The article says biometric and digital systems were rolled out in civil registration before legal frameworks existed, and that banks may query the civil registry to verify identity, but does not say how or where a birth or death is entered; no civil-class fact."
+}

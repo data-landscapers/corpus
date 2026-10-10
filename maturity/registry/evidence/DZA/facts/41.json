@@ -1,0 +1,14 @@
+{
+  "slug": "2021-11-28-dz-interieur-modernisation-services-publics",
+  "facts": [],
+  "systems": [
+    {"system": "Guichet électronique de l'état civil", "country_label": "Guichet électronique de l'état Civil", "class": "", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire", "tiers": "commune counters"},
+    {"system": "Numérisation de tous les actes de l'état civil", "country_label": "Numérisation de tous les actes de l'état civil au niveau national", "class": "archive", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire", "tiers": "national"},
+    {"system": "Registre national automatique de l'état civil", "country_label": "registre national automatique de l'état civil", "class": "", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire", "tiers": "national; listed among services at commune counters"},
+    {"system": "Issue of civil status documents from any commune", "country_label": "obtenir tous les documents d'état civil en temps réel de n'importe quelle commune", "class": "certificate", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire", "tiers": "any commune, including for citizens born abroad"},
+    {"system": "Online request for the 12S birth certificate", "country_label": "Demande de certificat de naissance 12S", "class": "certificate", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire", "tiers": "online, for the community abroad"},
+    {"system": "Carte nationale d'identité biométrique électronique", "country_label": "carte nationale d'identification biométrique électronique", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire", "tiers": "issued; electronic counter for biometric documents at communes; online application"},
+    {"system": "Passeport biométrique électronique", "country_label": "passeport biométrique électronique", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire", "tiers": "issued and generalised"}
+  ],
+  "note": "The ministry's programme page lists the electronic civil status counter, the digitisation of all acts and the national automated register as items, without saying that a commune enters a birth or death digitally when it is declared; no fact for a civil-class system."
+}

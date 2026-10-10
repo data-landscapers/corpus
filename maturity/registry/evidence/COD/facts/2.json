@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration (advisory services)", "country_label": "civil registration", "class": "", "platform": "", "owner": "not stated; the country project's implementation unit under the IDEA programme, financed by USD 400M IDA and EUR 100M AFD", "tiers": "not stated"},
+    {"system": "digital identity", "country_label": "digital identity", "class": "identity", "platform": "", "owner": "", "tiers": "not stated; to be accelerated in 2026 with data governance and the e-government master plan"}
+  ],
+  "note": "The DRC section is a dozen bullet points. It lists among January-June 2026 achievements that advisory services were launched for cybersecurity, e-signatures and civil registration, and says nothing of any civil registration system, its offices or how events are recorded; the other civil registration hit is Zambia's."
+}

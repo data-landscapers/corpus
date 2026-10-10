@@ -1,0 +1,8 @@
+{
+  "slug": "2019-02-08-gnq-plan-estrategico-de-fortalecimiento-del-sistema-nacional-de-informacio",
+  "facts": [],
+  "systems": [
+    {"system": "Community structures with a civil registry system (PEFSNIS 2019-2023 indicator)", "country_label": "estructuras comunitarias con un sistema de registro civil", "class": "", "platform": "", "owner": "Ministerio de Sanidad y Bienestar Social (the plan's owner)", "tiers": "community structures; the plan tracks the proportion that have one"}
+  ],
+  "note": "The health information system plan lists, among its result indicators, the proportion of community structures with a civil registry system; the baseline and target columns did not extract in a readable order and the passages do not say what such a system is, so no fact."
+}

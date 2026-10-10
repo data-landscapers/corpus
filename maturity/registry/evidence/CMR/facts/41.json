@@ -1,0 +1,11 @@
+{
+  "slug": "2025-04-01-official-management-civil-criminal-records-cameroon-electronic-approach",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "A law article says that births, deaths and marriages are registered on declaration in paper registers kept in three copies at the civil status registration centres in the councils, with a counterfoil at the Court of First Instance, and that civil records are 'only' kept on hard copies up to the present; it argues this from the wording of the 1981 ordinance as amended in 2011 and gives no date, so the date is the publication date.", "as_of": "2025-04", "date_precision": "month", "system": "civil status registers (1981 ordinance regime)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The same article states that Cameroon has not adopted digital records management for civil records and attributes no identification number at birth, and recommends an electronic system; it does not mention the 2024 civil registration law or any pilot; date is the publication date.", "as_of": "2025-04", "date_precision": "month", "system": "civil status registers (1981 ordinance regime)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil status registers (1981 ordinance regime)", "country_label": "civil status registration registers; counterfoil registers", "class": "civil", "platform": "paper", "owner": "civil status registration centres in the councils; duplicates at Courts of First Instance", "tiers": "all centres, per the article; special registries under sub-divisional officers; diplomatic missions for events abroad"}
+  ],
+  "note": "A doctrinal article reasoning from the 1981 ordinance; it does not report a survey of offices."
+}

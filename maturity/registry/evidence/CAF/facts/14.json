@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Carte nationale d'identité sécurisée",
+      "country_label": "carte nationale d'identité sécurisée",
+      "class": "identity",
+      "platform": "biometric enrolment: fingerprints, photograph, personal data",
+      "owner": "Al-Madina, the company contracted to produce the card",
+      "tiers": "enrolment mission at Birao (Vakaga), December 2025, after Bouar and Berbérati"
+    }
+  ],
+  "note": "An identity-card enrolment mission; nothing on civil registration."
+}

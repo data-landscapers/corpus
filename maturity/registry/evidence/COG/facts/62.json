@@ -1,0 +1,16 @@
+{
+  "slug": "2021-04-26-world-bank-concept-pid-congo-digital-acceleration-project",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The World Bank's concept document, prepared 26 April 2021, states that in rural areas the civil registration system is largely paper-based and relies on manual processes, and calls the civil registration process as a whole decentralised and largely paper-based.", "as_of": "2021-04-26", "date_precision": "day", "system": "civil registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "local", "fact": "The World Bank states that in the civil registration centres of urban Brazzaville and Pointe-Noire no standardised system is used and, with no shared digital platform, electronic civil registry records are stored locally and not consolidated.", "as_of": "2021-04-26", "date_precision": "day", "system": "civil registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "The World Bank says digitisation is uneven across the civil registration centres of urban Brazzaville and Pointe-Noire and that rural areas are largely paper-based; it gives no count or share of centres.", "as_of": "2021-04-26", "date_precision": "day", "system": "civil registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The World Bank states that the Government of Congo has developed a civil registration digitalisation roadmap to standardise the systems and create a consolidated population register; the roadmap's date and cost are not given.", "as_of": "2021-04-26", "date_precision": "day", "system": "civil registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration system (electronic records in urban centres)", "country_label": "", "class": "civil", "platform": "no standardised system", "owner": "", "tiers": "civil registration centres in urban Brazzaville and Pointe-Noire, unevenly; records stored locally and not consolidated; rural areas largely paper-based"},
+    {"system": "consolidated population register (roadmap objective)", "country_label": "", "class": "identity", "platform": "", "owner": "Government of Congo", "tiers": "planned"},
+    {"system": "National ID card", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "biometrics collected in digital format at enrolment"},
+    {"system": "functional ID systems for civil servants and taxpayers", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "multiple, non-interoperable; collect or intend to collect biometrics"}
+  ],
+  "note": ""
+}

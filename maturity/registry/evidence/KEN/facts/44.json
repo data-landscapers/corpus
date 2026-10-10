@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Integrated Identity Management System (NIIMS)", "country_label": "National Integrated Identity Management System (NIIMS)/ID Card", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global dataset on identity-card ownership; for Kenya it names the foundational ID system (no digital ID, Findex fieldwork 29 July to 3 September 2024) and says nothing of how civil registration offices register births or deaths."
+}

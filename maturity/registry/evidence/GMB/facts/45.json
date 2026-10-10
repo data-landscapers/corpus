@@ -1,0 +1,23 @@
+{
+  "slug": "2024-01-01 Gambia National Digital Identity Strategy (Strategy Report)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "eCRVS",
+      "country_label": "eCRVS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National ID (Margins/MIDSA build)",
+      "country_label": "national-ID build",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "A 95-word companion page to a PDF: it names the eCRVS only as the 'unique-national-ID backbone' behind the identity strategy and says nothing of what it does, where, or since when."
+}

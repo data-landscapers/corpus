@@ -1,0 +1,15 @@
+{
+  "slug": "1992-05-06-births-and-deaths-registration-act-51-of-1992",
+  "facts": [],
+  "systems": [
+    {
+      "system": "population register",
+      "country_label": "population register (Identification Act, 1986)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Director-General: Home Affairs",
+      "tiers": "national; notice is given to any person the Director-General authorises under section 4"
+    }
+  ],
+  "note": "The 1992 statute (captured as an excerpt, ending mid-section 30) makes inclusion of the particulars in the population register the registration of a birth or death (s.5(2)) and has the authorised person complete a prescribed death register (s.14), but says nothing of whether any record is electronic or of where it is entered; no dated fact on digital entry at an office."
+}

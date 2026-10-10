@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-12-councils-begin-issuance-digital-birth-certificates-biometricupdate",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Biometric Update, citing a UNDP blog, says some councils in the North West and South West Regions have issued their first digital birth certificates, parents receiving them through the digitised civil registration system of those councils; no date is given for the first issue, so the date is the publication date.", "as_of": "2026-01-12", "date_precision": "day", "system": "council civil registration systems digitised under the UNDP project", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:12", "fact": "Biometric Update says Limbe I Council is among about a dozen local government bodies being supported to issue digital birth certificates under the UNDP-implemented project in the Far North, North West and South West; the figure is approximate, no total is given, and the date is the publication date.", "as_of": "2026-01-12", "date_precision": "day", "system": "council civil registration systems digitised under the UNDP project", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Councils in the North West and South West Regions issued their first digital birth certificates, reported on 12 January 2026.", "as_of": "2026-01", "date_precision": "month", "system": "council civil registration systems digitised under the UNDP project", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:partner", "fact": "The project, 'Contributing to Social Cohesion Efforts in the Far North, North West and South West Regions', is implemented by UNDP and supported by BUNEC; date is the publication date.", "as_of": "2026-01-12", "date_precision": "day", "system": "council civil registration systems digitised under the UNDP project", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The UNDP project supporting the councils has funding from the Danish government; date is the publication date.", "as_of": "2026-01-12", "date_precision": "day", "system": "council civil registration systems digitised under the UNDP project", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "council civil registration systems digitised under the UNDP project", "country_label": "digital birth certificates; digitalization of civil status documents", "class": "civil", "platform": "", "owner": "councils, under a UNDP-implemented project supported by BUNEC", "tiers": "about a dozen councils in the Far North, North West and South West, Limbe I among them"},
+    {"system": "BUNEC partnership with Liber Technologies", "country_label": "civil registration digitization reforms", "class": "", "platform": "", "owner": "BUNEC; Liber Technologies", "tiers": ""}
+  ],
+  "note": ""
+}

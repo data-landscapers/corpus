@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-zwe-herald-rbz-mobile-money-civil-registry-integration",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registry system integration with mobile money providers", "country_label": "Civil Registry system; Civil Registry Department's national database", "class": "exchange", "platform": "", "owner": "Civil Registry Department; integration directed by the Reserve Bank of Zimbabwe", "tiers": "national database, queried by all mobile money providers for identity verification at on-boarding and KYC review"}
+  ],
+  "note": "The document is about verifying mobile money customers' national identity against the Civil Registry database, complete by 30 June 2026; it says nothing of how births or deaths are registered."
+}

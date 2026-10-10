@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MUS,civil,governance,qualifier,owner:ministry,2025-09-02,MUS-008,MUS-010=owner:ministry;MUS-012=owner:ministry,"not stated: plan, finance"
+MUS,civil,events,coverage,B;D,2025-09-06,MUS-006;MUS-011,MUS-009=B;D;MUS-014=B;D,
+MUS,civil,made,coverage,connected,2018,MUS-013,,nothing dated since 2023-10-10
+MUS,civil,last12,qualifier,advancing,2025-09-06,MUS-005,,nothing dated since 2025-10-10
+MUS,civil,offices,coverage,not-published,2025-09-06,MUS-007,,

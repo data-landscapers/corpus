@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-20-maposte-app-postal-digital-id-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "MaPoste", "country_label": "MaPoste", "class": "certificate", "platform": "mobile application", "owner": "La Poste de Côte d'Ivoire with ONECI", "tiers": "national, by smartphone, for holders of a national identification number; lets users apply for a national ID card, birth certificate and criminal record document; launched January 2026"},
+    {"system": "National Register of Natural Persons (RNPP)", "country_label": "RNPP", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national; biometric, linked to MaPoste"}
+  ],
+  "note": "A postal application through which a birth certificate can be applied for: a request channel for copies, not registration. Nothing on how offices register births or deaths."
+}

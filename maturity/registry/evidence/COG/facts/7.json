@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-08-congo-civil-status-fraud-network-investigation",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Minister of the Interior and Decentralisation told the Senate on 7 August 2026 that the government's answer to the trafficking of civil status acts includes their digitalisation through the project of a Système intégré de gestion de l'état civil, which he said will strengthen control over the making, archiving and issuing of acts.", "as_of": "2026-08-07", "date_precision": "day", "system": "Système intégré de gestion de l'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système intégré de gestion de l'état civil", "country_label": "Système intégré de gestion de l'état civil", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur et de la Décentralisation", "tiers": "described as a project, in the future tense; no office or tier named"}
+  ],
+  "note": "The article reports the system as a project and gives no deployment date, office count or event list."
+}

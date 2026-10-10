@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LSO,civil,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-08-05,LSO-003;LSO-005;LSO-006,LSO-016=finance:donor;LSO-027=owner:ministry;LSO-018=finance:donor;LSO-019=owner:ministry;LSO-024=owner:ministry;LSO-026=owner:ministry,
+LSO,civil,events,coverage,B,2026-08-05,LSO-001;LSO-007;LSO-013;LSO-015,LSO-020=B;LSO-021=D;LSO-025=B;D,
+LSO,civil,made,coverage,connected,2025-06-19,LSO-014;LSO-022,,
+LSO,civil,last12,qualifier,advancing,2026-08-05,LSO-004,,
+LSO,civil,offices,coverage,count:30,2026-08-05,LSO-002,LSO-017=pilot;LSO-023=count:15,

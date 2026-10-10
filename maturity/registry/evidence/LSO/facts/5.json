@@ -1,0 +1,56 @@
+{
+  "slug": "2026-08-05-unicef-lesotho-sms-birth-registration",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "UNICEF Lesotho says birth registration stations in health facilities are supported by a low-tech SMS-based platform for registering births; deaths are not mentioned (no event date given; the post's date is used).",
+      "as_of": "2026-08-05",
+      "date_precision": "day",
+      "system": "SMS-based birth registration platform",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:30",
+      "fact": "UNICEF Lesotho says 30 birth registration stations have been established in government and CHAL health facilities across three districts, Maseru, Berea and Leribe, supported by an SMS-based platform; no total of offices is given (no event date given; the post's date is used).",
+      "as_of": "2026-08-05",
+      "date_precision": "day",
+      "system": "SMS-based birth registration platform",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNICEF Lesotho says the Government of Lesotho set up the 30 SMS-supported birth registration stations with support from the Government of Japan and UNICEF; no domestic budget is mentioned (the post's date is used).",
+      "as_of": "2026-08-05",
+      "date_precision": "day",
+      "system": "SMS-based birth registration platform",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "UNICEF Lesotho reports that 30 birth registration stations supported by an SMS-based platform have been established in health facilities in Maseru, Berea and Leribe (no date of establishment given; the post's date is used).",
+      "as_of": "2026-08-05",
+      "date_precision": "day",
+      "system": "SMS-based birth registration platform",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SMS-based birth registration platform",
+      "country_label": "birth registration stations",
+      "class": "civil",
+      "platform": "SMS-based platform, not named",
+      "owner": "Government of Lesotho, with Government of Japan and UNICEF support",
+      "tiers": "30 stations in government and CHAL health facilities in Maseru, Berea and Leribe"
+    }
+  ],
+  "note": "Classed civil because the document calls the health-facility points birth registration stations; it does not say whether the SMS message is itself the registration or a notification to the registrar, nor how the record is held."
+}

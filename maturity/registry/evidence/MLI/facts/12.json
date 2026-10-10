@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table, an AI-assisted compilation by its own header, scores Mali's rural registries 1 and says rural registry offices and village declaration points primarily use paper forms for birth registration, with no evidence of routine electronic entry at most rural points of service although national CRVS software exists; it gives no date, so this is dated to publication.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural registry offices and village declaration points", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "rural registry offices and village declaration points", "country_label": "local council centers; declaration points (8,000)", "class": "civil", "platform": "", "owner": "", "tiers": "rural registry offices and some 8,000 declaration points"},
+    {"system": "Digital CRVS software (commercial off-the-shelf)", "country_label": "", "class": "", "platform": "commercial off-the-shelf, unnamed", "owner": "", "tiers": "national"}
+  ],
+  "note": "The slug is on the study's exclude_sources list (study.json): the row is recorded as the document states it and is for the parent to hold out of any profile."
+}

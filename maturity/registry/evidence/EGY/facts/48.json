@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-03-egypt-foreign-residents-status-regulated",
+  "facts": [],
+  "systems": [
+    {"system": "GAPIN registration and ID card for foreign residents", "country_label": "General Administration of Passports, Immigration and Nationality (GAPIN) registration", "class": "identity", "platform": "", "owner": "Ministry of Interior", "tiers": "all foreign nationals living in Egypt to register and obtain an ID card by 30 June 2024; tiers not stated"}
+  ],
+  "note": "Residency registration of foreign nationals only; nothing on the registration of births or deaths."
+}

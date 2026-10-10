@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-malawi-reviews-digital-land-workflows",
+  "facts": [],
+  "systems": [
+    {"system": "Land Information Management System (LIMS)", "country_label": "LIMS", "class": "land", "platform": "web-based", "owner": "Ministry of Lands, Housing and Urban Development; developed with the World Bank-financed Agricultural Commercialisation Project", "tiers": "Lands, Surveys and Physical Planning departments; launched February 2024, some land transactions still manual"}
+  ],
+  "note": "About the land administration system, which is out of the study's scope; nothing on civil registration."
+}

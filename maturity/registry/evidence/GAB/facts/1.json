@@ -1,0 +1,14 @@
+{
+  "slug": "2026-10-09-gab-gabonreview-etat-civil-atelier-cloture-diagnostic",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "GabonReview reports that the ten-day preparatory workshop for the national civil registration conferences (assises nationales de l'état civil) closed on 8 October 2026, its final report going to the Interior minister to set the conferences' calendar; the reform strategy includes creating a national civil registration centre to centralise and secure the data.", "as_of": "2026-10-08", "date_precision": "day", "system": "Centre national d'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "GabonReview states the civil registration reform, including the planned national civil registration centre, is carried under component 2 of the Gabon Digital programme, financed by the World Bank; no domestic budget line is mentioned.", "as_of": "2026-10-08", "date_precision": "day", "system": "Centre national d'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Centre national d'état civil", "country_label": "centre national d'état civil", "class": "civil", "platform": "", "owner": "Gabon Digital programme, component 2; report to the Ministry of the Interior, Security and Decentralisation", "tiers": "planned; to centralise and secure demographic data nationally"},
+    {"system": "Registre biométrique des personnes physiques", "country_label": "registre biométrique des personnes physiques", "class": "identity", "platform": "", "owner": "Gabon Digital programme, component 2", "tiers": "planned; to cover the whole territory"},
+    {"system": "Système national d'identification digitale", "country_label": "système national d'identification digitale", "class": "identity", "platform": "", "owner": "Gabon Digital programme, component 2", "tiers": "planned; national"},
+    {"system": "Numéro d'identification personnel (NIP) / Carte nationale d'identité", "country_label": "NIP; CNI", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The workshop's diagnosis (badly kept archives, irregular data-entry practices in some services, 1972 Civil Code) does not say how local offices make the record, so no events, made or offices fact."
+}

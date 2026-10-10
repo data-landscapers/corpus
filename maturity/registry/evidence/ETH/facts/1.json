@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-09-eth-biometricupdate-fayda-developer-sandbox",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda digital ID", "class": "identity", "platform": "", "owner": "Faydaverse Digital Solutions (formerly National ID Program)", "tiers": "national; more than 52 million registrations as of 9 October 2026"}
+  ],
+  "note": "Identity system only (developer sandbox for Fayda authentication); nothing on civil registration."
+}

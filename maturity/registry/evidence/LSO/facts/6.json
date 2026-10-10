@@ -1,0 +1,62 @@
+{
+  "slug": "2026-07-18-lesotho-egmrg-crvs-social-protection-interoperability",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Lesotho's NICR told the Registrar Generals' meeting that the lead agency for civil registration is the Department of National Identity and Civil Registry, Ministry of Home Affairs, with CRVS, identification and passport data under one roof.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "Digital birth registration",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "NICR's presentation lists a costed CRVS Strategic Plan 2026-2030 as still to be developed during 2026, with UNICEF and UNECA, and nationwide scale-up of digital birth registration as an action for 2026-2027; no plan in force is cited.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "Digital birth registration",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "NICR's presentation names digital birth registration, with village health workers and civil registration officers working together at community level, as its answer to remote communities' lack of registration services; deaths are not mentioned.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "Digital birth registration",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital birth registration",
+      "country_label": "Digital Birth Registration",
+      "class": "civil",
+      "platform": "",
+      "owner": "Department of National Identity and Civil Registry (NICR), Ministry of Home Affairs",
+      "tiers": "community level, by village health workers and civil registration officers; nationwide scale-up scheduled 2026-2027"
+    },
+    {
+      "system": "NICR integrated system",
+      "country_label": "Integrated System: CRVS, identification and passport data under one roof",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Department of National Identity and Civil Registry (NICR), Ministry of Home Affairs",
+      "tiers": "national; a unique personal identification number is issued upon birth registration"
+    },
+    {
+      "system": "CRVS-NISSA integration",
+      "country_label": "NISSA",
+      "class": "exchange",
+      "platform": "",
+      "owner": "NICR; Ministry of Gender, Youth and Social Development (MoGYSD) named as partner",
+      "tiers": "community-level birth registration integrated with the social assistance registry; deepening scheduled 2026-2028"
+    }
+  ],
+  "note": "No count of offices or communities, and no statement of how the record is made."
+}

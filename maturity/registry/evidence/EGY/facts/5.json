@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-26-egy-egypt-launches-biometric-verification-system-for-remote-digi",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic biometric verification system", "country_label": "electronic biometric verification system", "class": "identity", "platform": "built by NTRA with ITIDA, CyShield and licensed e-signature companies", "owner": "National Telecom Regulatory Authority; frameworks from MCIT with the Ministry of Interior", "tiers": "licensed mobile operators' apps; pilot phase"},
+    {"system": "Integration platform connecting with the Civil Status Sector", "country_label": "integration platform", "class": "exchange", "platform": "", "owner": "MCIT in coordination with the Ministry of Interior", "tiers": "national"}
+  ],
+  "note": "Identity verification for telecom services; nothing on registration of births or deaths at civil registry offices."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-aps-senegal-cdp-daf-deux-options-interoperabilite-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "système intégré de l'état civil et de l'identité, or interoperability mechanisms between the systems", "country_label": "interopérabilité entre l'état civil et les systèmes d'identification", "class": "exchange", "platform": "", "owner": "Commission de protection des données personnelles (CDP) with the Direction de l'automatisation des fichiers (DAF)", "tiers": "central administration; two options studied and submitted to the competent authorities as of 16 September 2026, none in service"}
+  ],
+  "note": "Only the two options for linking civil status and identity, which is exchange; nothing on how a civil-status office records an event."
+}

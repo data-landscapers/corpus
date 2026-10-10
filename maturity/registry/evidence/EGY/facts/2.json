@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-16-egy-youm7-civil-registry-digital-services",
+  "facts": [],
+  "systems": [
+    {"system": "Smart self-service machines for civil status documents", "country_label": "الماكينات الذاتية الذكية لاستخراج وثائق الأحوال المدنية", "class": "certificate", "platform": "", "owner": "Civil Status Sector, Ministry of Interior", "tiers": "civil registry premises, international airports, malls, public squares and model police premises; print computerised birth, marriage, divorce and death certificates and family records after checking the user against the central database"},
+    {"system": "Equipped vehicles serving as mobile civil status offices", "country_label": "السيارات المجهزة (مقرات أحوال مدنية متحركة)", "class": "certificate", "platform": "", "owner": "Ministry of Interior", "tiers": "villages, remote and neediest areas; described as bringing citizens their official documents, with home service for the elderly and disabled"},
+    {"system": "Model civil status centres", "country_label": "المراكز النموذجية", "class": "certificate", "platform": "", "owner": "Ministry of Interior", "tiers": "redeveloped administrative premises; number not given"},
+    {"system": "Ministry of Interior e-service portals", "country_label": "بوابات وزارة الداخلية", "class": "", "platform": "", "owner": "Ministry of Interior", "tiers": ""}
+  ],
+  "note": "Undated feature on issuing copies of civil status documents by kiosk and mobile vehicle; it does not say how or where a birth or death is first registered."
+}

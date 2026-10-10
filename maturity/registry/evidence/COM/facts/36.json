@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-12-com-anpi-annuaire-entreprises-registre-public",
+  "facts": [],
+  "systems": [
+    {"system": "Annuaire des entreprises (registre public en ligne)", "country_label": "Annuaire des entreprises", "class": "land", "platform": "", "owner": "Agence Nationale pour la Promotion des Investissements (ANPI)", "tiers": "Online national directory, searchable by island, sector, year, RCCM number and city"}
+  ],
+  "note": "A business register, which the typology puts with land out of scope; the document states nothing about civil registration."
+}

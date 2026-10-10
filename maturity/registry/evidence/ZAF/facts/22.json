@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-01-draft-electoral-matters-amendment-bill-2026",
+  "facts": [],
+  "systems": [
+    {"system": "automated voter registration database", "country_label": "Automated Voter Registration", "class": "land", "platform": "", "owner": "Electoral Commission, in cooperation with the department managing the population register", "tiers": "proposed in a draft private member's bill, 2026"},
+    {"system": "population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national; bill would have it transfer eligible voters' information to the Electoral Commission"}
+  ],
+  "note": "A draft bill on automated voter registration from the population register; it calls South Africa's civil registration and identity systems advanced without describing them."
+}

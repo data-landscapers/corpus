@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-01-cseaafrica-data-driven-public-sector-guinea-roadmap",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Civil Registration System (DCRS) pilot: digitisation of existing paper records", "country_label": "Digital Civil Registration System (DCRS)", "class": "archive", "platform": "", "owner": "Ministry of Territorial Administration, with support from Enabel and the European Union", "tiers": "ten pilot municipalities, including some in Conakry and Kindia, from October 2022"},
+    {"system": "Digital Civil Registration System (DCRS) pilot: mobile application for birth notification", "country_label": "Digital Civil Registration System (DCRS)", "class": "notification", "platform": "mobile application", "owner": "Ministry of Territorial Administration, with support from Enabel and the European Union", "tiers": "health centres, notifying the civil registry; ten pilot municipalities"},
+    {"system": "National Identity Number (NIN)", "country_label": "National Identity Number (NIN)", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The brief describes the civil registration pilot by two functions only: digitising existing paper birth, marriage and death records, and creating automatic notification of future births from health centres by mobile application; neither is the office making the digital record at registration, so no civil fact. It also says rural municipal offices rely on manual reporting and paper-based records, in general terms and not of civil registration specifically, and that 44,493 vital events were registered on time in 2022."
+}

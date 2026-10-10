@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices in Zimbabwe rely entirely on paper-based processes for birth registration, with no evidence found of electronic recording at the point of service and data likely transcribed later at district level; the row is undated, so this is dated to publication, and the essay is an AI-assisted compilation by its own header.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural registry offices' birth registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "ZPR integration with health for automated notifications", "country_label": "ZPR", "class": "exchange", "platform": "", "owner": "", "tiers": "central systems, starting urban; planned 2023, no rural rollout confirmed"},
+    {"system": "mobile apps for registration", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "piloted"}
+  ],
+  "note": "This slug is in study.json's exclude_sources. Read: the essay's prose and the three Zimbabwe rows of its 54-country table in full; the table rows for other countries, which make up the rest of the file, were not read."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-26-sdn-suna-omdurman-bank-sudapass-ekyc",
+  "facts": [],
+  "systems": [
+    {"system": "SudaPass", "country_label": "الهوية الرقمية الوطنية «سوداباس»", "class": "identity", "platform": "", "owner": "Ministry of Digital Transformation and Communications (leads the bank linkage, with the Central Bank of Sudan)", "tiers": "national digital identity used for remote customer verification; linked to Omdurman National Bank's digital channels, other banks to follow"}
+  ],
+  "note": "The document concerns the national digital identity being linked to a bank for customer data updates; it states nothing about civil registration."
+}

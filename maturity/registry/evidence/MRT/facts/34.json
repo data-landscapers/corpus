@@ -1,0 +1,10 @@
+{
+  "slug": "2024-03-01-unhcr-mauritania-factsheet-march-2024",
+  "facts": [],
+  "systems": [
+    {"system": "ANRPTS registration of refugees and asylum-seekers", "country_label": "registration by the National Civil Registry Agency (ANRPTS); National Identification Numbers (NNI)", "class": "identity", "platform": "", "owner": "Ministry of Interior and ANRPTS, with UNHCR", "tiers": "registration of refugees and asylum-seekers in urban and rural areas and issue of NNIs; 128,000 registered refugees and asylum-seekers as of 29 February 2024"},
+    {"system": "ANRPTS mobile registration in Hodh Chargui", "country_label": "mobile registration", "class": "outreach", "platform": "", "owner": "ANRPTS, supported by UNHCR", "tiers": "mobile registration in remote locations (Dwenkara, Adel Bagrou, Bousteilla, Djigueni, Fereini) to address the registration backlog"},
+    {"system": "social registry databases", "country_label": "social registry (Tekavoul)", "class": "", "platform": "", "owner": "", "tiers": "updated to include new arrivals in the social safety net"}
+  ],
+  "note": "The registration described is the registration of refugees as persons and the issue of identification numbers, not the registration of births or deaths; the mobile registration is fielded to clear a backlog."
+}

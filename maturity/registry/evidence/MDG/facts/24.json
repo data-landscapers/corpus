@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-08-lexpress-enregistrement-biometrique-autorites-premieres-inscrites",
+  "facts": [],
+  "systems": [
+    {"system": "Izaho tokana", "country_label": "enregistrement biométrique (Hetsika izaho tokana)", "class": "identity", "platform": "", "owner": "ministère de l'Intérieur et de la Décentralisation, through Prodigy", "tiers": "national operation launched 27 January 2026, opened in the district of Mahajanga I in early April 2026 and to reach all districts; collects fingerprints, iris and face to issue a unique identifier (NUI) to more than twelve million citizens over 18"}
+  ],
+  "note": "Identity enrolment only; no civil registration system is described."
+}

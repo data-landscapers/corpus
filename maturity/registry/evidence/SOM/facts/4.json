@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-01-som-hiiraan-nira-id-flights-puntland",
+  "facts": [],
+  "systems": [
+    {"system": "NIRA system", "country_label": "NIRA national identity card", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "NIRA registration centres; none in Puntland; more than 1.5 million citizens registered since 2023"}
+  ],
+  "note": "Concerns enforcement of the national identity card for domestic travel from 2026-10-01; the registration offices are identity enrolment offices, and nothing is stated on births or deaths."
+}

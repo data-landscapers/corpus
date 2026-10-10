@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025",
+  "facts": [],
+  "systems": [
+    {"system": "Smart ID Card", "country_label": "Smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs; produced by Government Printing Works", "tiers": "4,002,964 issued in calendar 2025, against 3,427,468 in 2024"},
+    {"system": "Online Verification Service", "country_label": "OVS", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "repaired; said to have raised uptime of the population register at Home Affairs offices"},
+    {"system": "population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "used at Home Affairs offices"}
+  ],
+  "note": "Smart ID issuance figures for 2025; nothing on civil registration."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-05-egypt-property-registration-rate-below-10pct",
+  "facts": [],
+  "systems": [
+    {"system": "National Property Identification System", "country_label": "National Property ID; Real Estate Wealth Management System (REWMS)", "class": "land", "platform": "", "owner": "multiple government entities", "tiers": "national; nearly 30 million property numbers issued"},
+    {"system": "Real Estate Registry", "country_label": "Real Estate Registry", "class": "land", "platform": "", "owner": "", "tiers": "national; under 10% of real estate formally registered"}
+  ],
+  "note": "Property identification and real estate registration, out of scope; nothing on civil registration."
+}

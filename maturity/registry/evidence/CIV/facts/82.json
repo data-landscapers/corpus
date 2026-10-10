@@ -1,0 +1,8 @@
+{
+  "slug": "2018-06-05-wb-reg-005-west-africa-unique-identification-for-regional",
+  "facts": [],
+  "systems": [
+    {"system": "WURI foundational ID system", "country_label": "", "class": "identity", "platform": "", "owner": "implementing agency for Côte d'Ivoire given as the Ministère de l'Emploi et de la Protection Sociale", "tiers": "national: a foundational ID system and digital ID credentials giving government-recognised proof of unique identity; World Bank project P161329, approved 5 June 2018"}
+  ],
+  "note": "A World Bank deal record for the WURI identity programme; civil registration appears only in the Bank's category label, and nothing is stated about how civil registration offices record events."
+}

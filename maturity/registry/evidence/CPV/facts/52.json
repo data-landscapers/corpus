@@ -1,0 +1,31 @@
+{
+  "slug": "2008-01-14-cabo-verde-boletim-oficial-lei-22-vii-2008-base-dados-recenseamento-eleitoral",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Base de Dados do Recenseamento Eleitoral (BDRE)",
+      "country_label": "BDRE; Sistema de Gestão da Base de Dados do Recenseamento Eleitoral",
+      "class": "land",
+      "platform": "",
+      "owner": "Serviço central de apoio ao processo eleitoral, under the supervision of the Comissão Nacional de Eleições",
+      "tiers": "Hosted in the State data centre; registration commissions enter and update records online over the State network, in the country and at consulates"
+    },
+    {
+      "system": "Base de Dados do Registo de Nascimento",
+      "country_label": "Base de Dados do Registo de Nascimento",
+      "class": "",
+      "platform": "",
+      "owner": "Ministério da Justiça",
+      "tiers": ""
+    },
+    {
+      "system": "Base de Dados do Arquivo Nacional de Identificação Civil",
+      "country_label": "Base de Dados do Arquivo Nacional de Identificação Civil",
+      "class": "",
+      "platform": "",
+      "owner": "Ministério da Justiça",
+      "tiers": ""
+    }
+  ],
+  "note": "Lei 22/VII/2008 governs the electoral registration database, an electoral register and so out of scope. It names a birth registration database and a civil identification archive database of the Ministry of Justice only as systems the BDRE must be interconnected with (art. 9), without saying what either does or how a birth is recorded; no fact."
+}

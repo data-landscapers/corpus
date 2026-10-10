@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-uganda-nira-id-nightmare-queues-auditor-general",
+  "facts": [],
+  "systems": [
+    {"system": "National Security Information System (NSIS)", "country_label": "NSIS", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "described as the backbone of NIRA's operations; stated to be unable to register births and deaths and not fully integrated with third-party systems"},
+    {"system": "marriage registration systems", "country_label": "marriage registration systems (marriages only)", "class": "civil", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""}
+  ],
+  "note": "No civil-class system for births or deaths is described. The newspaper reports the Auditor General finding that the NSIS, an identity system, cannot register births and deaths, that birth and death registration and death certificates face delays, that marriage systems have ICT gaps, and that NIRA had not finalised its new strategic plan by the July 2025 deadline; the audit itself is not held and the findings are undated beyond the 2024/25 financial year."
+}

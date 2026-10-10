@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-08-burundi-digital-civil-registry-biometric-id-wearetech",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "At the 6 May 2026 presentation the interior ministry's director general said the reform needed changes to the family code, whose provisions still mandated manual registration of civil records; the article says the authorities have long managed civil registration records manually.", "as_of": "2026-05-06", "date_precision": "day", "system": "digital platform for civil registration management and biometric national identity card production", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 6 May 2026 the Ministry of the Interior, Community Development and Public Security presented a digital platform for civil registration management and biometric identity card production; the authorities said the infrastructure was nearly complete and awaited a decree governing the system's use.", "as_of": "2026-05-06", "date_precision": "day", "system": "digital platform for civil registration management and biometric national identity card production", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The platform was presented by the Ministry of the Interior, Community Development and Public Security, whose director general said the authorities had prepared the reform for several years.", "as_of": "2026-05-06", "date_precision": "day", "system": "digital platform for civil registration management and biometric national identity card production", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital platform for civil registration management and biometric national identity card production", "country_label": "", "class": "civil", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security", "tiers": "presented 6 May 2026; awaiting a decree; no offices named"},
+    {"system": "biometric national identity card", "country_label": "", "class": "identity", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security", "tiers": "future card with a unique identification number; not yet issued"}
+  ],
+  "note": "The article gives the presentation as Tuesday 6 May; other sources say Wednesday 6 May 2026. No count of offices and no funding source is stated. Limited electricity and internet in some rural areas are named as challenges."
+}

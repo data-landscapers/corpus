@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-anid-togo-e-id-enrolment-steps-benefits",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-ID",
+      "country_label": "e-ID Togo; numéro d'identification unique (NIU); basic identification system (fID)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification (ANID)",
+      "tiers": "fixed or mobile registration centres"
+    }
+  ],
+  "note": "The agency's explainer of identity enrolment and its benefits; nothing on civil registration."
+}

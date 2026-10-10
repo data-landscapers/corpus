@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica",
+  "facts": [],
+  "systems": [
+    {"system": "Portal de Justiça", "country_label": "Portal de Justiça / Portal da Justiça", "class": "certificate", "platform": "www.justica.gov.cv, integrated with Autentika and the SIJ", "owner": "Ministério da Justiça; created by Decreto-Lei 53/2024 of 4 November", "tiers": "national online, launched in Praia on 18 December 2024; birth, marriage, affiliation and death certificates, land, commercial, vehicle and criminal-record certificates, identity card renewal, and booking of services that must still be done in person"},
+    {"system": "Autentika", "country_label": "Autentika", "class": "identity", "platform": "", "owner": "State", "tiers": "the State's authentication platform, used to sign in to the portal"},
+    {"system": "Sistema de Informação da Justiça (SIJ)", "country_label": "SIJ", "class": "", "platform": "", "owner": "justice sector", "tiers": "lawyers follow their cases through it without travelling to the comarcas"},
+    {"system": "Portal de Serviços Públicos Digitais Integrados do Estado", "country_label": "Portal de Serviços Públicos Digitais Integrados do Estado", "class": "", "platform": "", "owner": "State", "tiers": "single national services portal, at an advanced stage of development in December 2024"}
+  ],
+  "note": "A portal for requesting certificates and renewing the identity card; the statement says nothing of how the conservatórias register a birth or death."
+}

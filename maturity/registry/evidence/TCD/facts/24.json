@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Population Register (RNBP) and Integrated Population and Secured Titles Management System (SIGPTS)", "country_label": "RNBP & SIGPTS / National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": "national; listed in Annex D as Chad's foundational ID system, with no digital ID for online authentication and the adult coverage estimate taken from 2021 administrative data"}
+  ],
+  "note": "A global identification dataset: Chad is named among the economies furthest behind on under-five birth registration and in the annex table of foundational ID systems; nothing is stated about how civil registration offices make their record."
+}

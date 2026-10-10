@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-foroyaa-national-id-cards-bureaucracy",
+  "facts": [],
+  "systems": [
+    {"system": "national ID card (biometric)", "country_label": "national ID card", "class": "identity", "platform": "Innovatrics from 2009; Semlex from 2018", "owner": "Immigration Department under the Ministry of Interior", "tiers": "ID card processing centres, Kanifing named; Kanifing centre closed for two days by a power cut"}
+  ],
+  "note": "Identity card issuance only; a birth certificate is one accepted supporting document. Nothing on civil registration."
+}

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SLE,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2024-05,SLE-003;SLE-006;SLE-010,SLE-005=owner:ministry;SLE-015=finance:donor;SLE-011=owner:ministry;SLE-012=finance:domestic;SLE-009=owner:ministry,
+SLE,civil,events,coverage,B;D,2024-05,SLE-002,SLE-004=B;D;SLE-007=B;SLE-008=none;SLE-013=B;D,
+SLE,civil,made,coverage,connected,2016-08-04,SLE-014,,nothing dated since 2023-10-10
+SLE,civil,last12,qualifier,,,,,nothing held
+SLE,civil,offices,coverage,,,,,nothing held

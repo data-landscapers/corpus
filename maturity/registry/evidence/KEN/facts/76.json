@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-kenya-country-presentation-id4africa-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Unique Personal Identifier registration system", "country_label": "Maisha Namba", "class": "exchange", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "assigned during birth registration; becomes the national ID number at 18"},
+    {"system": "Maisha Integrated Database (MID)", "country_label": "Maisha Integrated Database", "class": "exchange", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "national; holds national ID, births, deaths, foreign nationals and refugees data, with an eKYC layer for relying agencies"},
+    {"system": "Electronic National Identity Card", "country_label": "Maisha Card", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national; introduced 1 November 2023"},
+    {"system": "Digital ID", "country_label": "Maisha Digital ID", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "pilot stage; phone app"},
+    {"system": "National Registration Bureau identification management system and AFIS", "country_label": "", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "centralised"}
+  ],
+  "note": "An identity-programme presentation: it says the identifier is assigned during birth registration and that births and deaths data sit in the integrated database, and lists 'automation of all manual registration process' as a way forward, but does not say how or where a civil registration office records a birth or death."
+}

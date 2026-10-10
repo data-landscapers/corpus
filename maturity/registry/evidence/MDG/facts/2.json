@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-22-mdg-rcbe-operational-phase",
+  "facts": [],
+  "systems": [
+    {"system": "Registre central des bénéficiaires effectifs (RCBE)", "country_label": "RCBE", "class": "land", "platform": "", "owner": "Direction générale des impôts (DGI), ministère de l'Économie et des finances", "tiers": "national platform; cross-matched with RNCS-CM, Bianco, EDBM and the chamber of notaries under four protocols signed in September 2026"},
+    {"system": "Registre national du commerce et des sociétés (RNCS-CM)", "country_label": "RNCS-CM", "class": "land", "platform": "", "owner": "ministère de la Justice (DGAJER)", "tiers": ""}
+  ],
+  "note": "A beneficial-ownership register and the companies register only; nothing on civil registration."
+}

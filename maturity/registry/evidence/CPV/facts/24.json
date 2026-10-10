@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-28-cabo-verde-mortality-management-who-portugal",
+  "facts": [],
+  "systems": [
+    {"system": "Death certification and cause-of-death notification process", "country_label": "death certification and cause-of-death notification", "class": "notification", "platform": "", "owner": "health sector (National Directorate of Health), with WHO support and Portuguese Cooperation funding", "tiers": "all levels of care; trainers from various islands trained to cascade across districts; assessed nationally 14-16 April 2025, which recommended digitising notifications in real time"},
+    {"system": "IT equipment for the certification and notification process", "country_label": "IT equipment", "class": "enabling", "platform": "", "owner": "health sector, with WHO", "tiers": "to be reinforced under the joint initiative to modernise death registration"}
+  ],
+  "note": "WHO's account of the April 2025 assessment of death certification: nearly 100 per cent of deaths certified by doctors, progress in integrating information systems, and a recommendation to digitise notifications in real time. It concerns the health side's certification and notification, and states nothing on how the civil registry office records a death, so no civil fact."
+}

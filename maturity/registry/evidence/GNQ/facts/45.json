@@ -1,0 +1,12 @@
+{
+  "slug": "2017-12-05-unicef-crvs-profile-equatorial-guinea",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "UNICEF's CRVS profile, compiled from December 2016 to November 2017, gives the processing of birth, marriage and death registration as manual, on paper, at civil registrars' offices, mayors' offices, other district or local authorities and provincial birth registration centres; the registration points send their record books to the central birth office, which processes and files them on paper only.", "as_of": "2017", "date_precision": "year", "system": "Civil registration (Central Register of Notaries, Ministry of Justice, Worship and Correctional Institutions)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "UNICEF's CRVS profile, compiled from December 2016 to November 2017, gives births and deaths alike as processed manually on paper, with birth data handled by the central office on paper only and never published.", "as_of": "2017", "date_precision": "year", "system": "Civil registration (Central Register of Notaries, Ministry of Justice, Worship and Correctional Institutions)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "UNICEF's CRVS profile, compiled from December 2016 to November 2017, names the Central Register of Notaries of the Ministry of Justice, Worship and Correctional Institutions as the authority registering births, marriages and deaths, in a centralised structure.", "as_of": "2017", "date_precision": "year", "system": "Civil registration (Central Register of Notaries, Ministry of Justice, Worship and Correctional Institutions)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil registration (paper registers)", "country_label": "Central Register of Notaries; civil registrar's office", "class": "civil", "platform": "", "owner": "Central Register of Notaries, Ministry of Justice, Worship and Correctional Institutions", "tiers": "civil registrars' offices, mayors' offices, other district or local authorities and provincial birth registration centres, sending record books to the central office"}
+  ],
+  "note": ""
+}

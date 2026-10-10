@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic National Population Registration System (eNPRS) / National Identification Card (NID)", "country_label": "eNPRS; National Identification Card", "class": "identity", "platform": "", "owner": "", "tiers": "listed in Annex D as a foundational ID system and credential, with no digital ID; the table's rows are misaligned in the text extract, so its attachment to Namibia is read from position and is not certain"}
+  ],
+  "note": "A global identity-coverage dataset: for Namibia it gives adult ID ownership of 99 per cent (2024 Findex fieldwork) and names the foundational ID system; it states nothing on how or where births and deaths are registered."
+}

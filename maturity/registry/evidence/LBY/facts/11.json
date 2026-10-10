@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-19-fake-national-numbers-for-sale-alwasat",
+  "facts": [],
+  "systems": [
+    {"system": "Civil registry system", "country_label": "منظومة السجل المدني / منظومة الأحوال المدنية", "class": "", "platform": "", "owner": "Civil Status Authority (مصلحة الأحوال المدنية), Ministry of Interior", "tiers": "not stated; civil registry offices in some thirty named towns appear as the places where forged family records were made"},
+    {"system": "National number system", "country_label": "منظومة الرقم الوطني", "class": "identity", "platform": "", "owner": "Civil Status Authority", "tiers": "national"},
+    {"system": "Project matching the national number system against the paper register", "country_label": "مشروع مطابقة منظومة الأرقام الوطنية بالسجل الورقي", "class": "", "platform": "", "owner": "Ministry of Interior with the Attorney General's office", "tiers": "announced 17 May 2023; a check of the electronic records against paper, to find forgery"},
+    {"system": "Electronic identity card and electronic passport issuing system", "country_label": "منظومة إصدار بطاقة الهوية الإلكترونية وجواز السفر الإلكتروني", "class": "identity", "platform": "", "owner": "Ministry of Interior", "tiers": "approved as projects in May 2023"},
+    {"system": "Secure electronic system to protect civil status data", "country_label": "نظام إلكتروني محكم لحماية البيانات", "class": "", "platform": "", "owner": "Attorney General's office and Civil Status Authority", "tiers": "a proposal discussed on 18 December 2025"}
+  ],
+  "note": "A feature on forged national numbers. It records that civil status worked as separate municipal offices until unified by Decision 115 of 1998 and that a paper register exists beside the electronic system, but it does not say how or where a birth or death is entered."
+}

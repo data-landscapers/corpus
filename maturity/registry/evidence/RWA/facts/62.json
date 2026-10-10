@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-13-9-5-million-rwandans-voter-list",
+  "facts": [],
+  "systems": [
+    {"system": "voter list", "country_label": "voter list", "class": "land", "platform": "", "owner": "National Electoral Commission (NEC)", "tiers": "national; citizens of voting age extracted and imported electronically from NIDA, every person of 18 registered automatically"},
+    {"system": "National Identity Agency (NIDA) records", "country_label": "", "class": "identity", "platform": "", "owner": "National Identity Agency (NIDA)", "tiers": "source of the voter list"}
+  ],
+  "note": "An electoral register drawn from the identity agency's records: out of the sub-indicator's class; it says only that the list is corrected for deaths, not how a death is registered."
+}

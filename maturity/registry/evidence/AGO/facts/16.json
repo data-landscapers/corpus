@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-01-impressao-do-bi-abrange-todas-as-provincias",
+  "facts": [],
+  "systems": [
+    {"system": "sistema informático do registo de nascimento", "country_label": "registo de nascimento", "class": "", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "not stated; named only as the computer system whose data the identity card draws on"},
+    {"system": "interoperabilidade entre os sistemas do registo de nascimento e do Bilhete de Identidade", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "not stated; the minister says on 1 July 2026 that the card results from integrating the data in the birth registration, through interoperability between the two computer systems"},
+    {"system": "Plano de Universalização do Bilhete de Identidade", "country_label": "Plano de Universalização do Bilhete de Identidade", "class": "identity", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "printing posts in the capitals of all 21 provinces, five in Luanda; second phase to issue the card at birth in maternities and hospitals with civil registration services; registration and issuance also at diplomatic missions and consular posts"},
+    {"system": "brigadas móveis equipadas com sistemas de impressão", "country_label": "brigadas móveis", "class": "outreach", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos, with the Ministério da Administração do Território", "tiers": "remote localities without permanent justice services; already registering and issuing cards locally in Moxico-Leste"}
+  ],
+  "note": "The minister describes identity-card printing, mobile brigades and the card's dependence on the birth registration system; the report does not say where or how the birth record itself is made, so the birth registration system is unclassified and gives no fact."
+}

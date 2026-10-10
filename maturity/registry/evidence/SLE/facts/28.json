@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Civil Registration System (NCRS)/National Identity Card", "country_label": "National Civil Registration System (NCRS); National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": "National; listed as Sierra Leone's foundational ID system and credential, with no digital ID for online transactions; 43 per cent of adults report owning the ID (Findex fieldwork 3 October to 9 November 2024), below the 2021-2022 estimate"}
+  ],
+  "note": "A global dataset on adult ID ownership; the system is named in a table of foundational ID credentials with no description of how civil events are recorded, and Sierra Leone's birth registration is not separately reported."
+}

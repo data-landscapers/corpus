@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National ID System/National Identity Card", "country_label": "Gambian National ID Card", "class": "identity", "platform": "", "owner": "", "tiers": "adult ID ownership 86% (men 86%, women 87%) in the 2025 Findex survey, fieldwork 17 September to 19 October 2024; coded as having no digital ID"}
+  ],
+  "note": "Global identity coverage dataset; for The Gambia it gives only the national ID credential and adult ownership. Nothing on how civil registration offices record events."
+}

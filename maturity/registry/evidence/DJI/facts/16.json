@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Register of Natural Persons/National Identity Card", "country_label": "National Register of Natural Persons; National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": "national foundational ID system; coded as having no digital ID for online authentication (credential names verified early 2024); adult coverage estimated from the voter registration rate, there being no Findex data"}
+  ],
+  "note": "A global dataset on identity ownership; for Djibouti it says only that foundational ID coverage is known to be low and lists the foundational ID system in Annex D, whose table extracts out of alignment (the Djibouti row is read from the line that follows its name). Nothing on civil registration offices."
+}

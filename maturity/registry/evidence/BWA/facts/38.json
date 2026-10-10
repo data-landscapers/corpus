@@ -1,0 +1,62 @@
+{
+  "slug": "2015-09-01-identity-management-systems-analysis-botswana-country-report",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The report of September 2015, by the Department of Civil and National Registration with the University of Botswana and the World Bank, states that births and deaths documentation passes online from local and regional offices to a central national data repository, which is connected to outstations so that changes and updates to registrations are made in real time.",
+      "as_of": "2015-09",
+      "date_precision": "month",
+      "system": "national civil registration",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The September 2015 report states that both births and deaths are transferred online from local and regional offices to the central repository, and that electronic on-site registration in hospitals covers births and deaths.",
+      "as_of": "2015-09",
+      "date_precision": "month",
+      "system": "national civil registration",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:13",
+      "fact": "The September 2015 report states that electronic on-site registration of births and deaths in hospitals began in 2011 and had opened in 13 hospitals; it gives the department's network as 37 stations in 12 districts and 25 sub-districts but does not say how many of the 37 are connected to the central repository.",
+      "as_of": "2015-09",
+      "date_precision": "month",
+      "system": "Electronic On-site Birth Registration",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The September 2015 report states that the Department of Civil and National Registration, a government department within the Ministry of Labour and Home Affairs with 454 staff, delivers civil registration and identity management under the Births and Deaths Registration Act and the National Registration Act.",
+      "as_of": "2015-09",
+      "date_precision": "month",
+      "system": "national civil registration",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The September 2015 report lists as its way forward a 2015-2020 CRVS and Identity Management Investment Plan; the captured excerpt gives the plan's title only, not its content.",
+      "as_of": "2015-09",
+      "date_precision": "month",
+      "system": "national civil registration",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {"system": "national civil registration", "country_label": "civil registration; central national data repository", "class": "civil", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": "37 stations in 12 districts and 25 sub-districts; central repository connected to outstations"},
+    {"system": "Electronic On-site Birth Registration", "country_label": "electronic On-site Registration of Births and Deaths", "class": "civil", "platform": "", "owner": "Department of Civil and National Registration", "tiers": "13 hospitals, from 2011"},
+    {"system": "National Identity Management System (NIS)", "country_label": "National Identity System; Omang", "class": "identity", "platform": "", "owner": "Department of Civil and National Registration, Ministry of Labour and Home Affairs", "tiers": "national; interfaced with the electoral system, SOBERS, government payroll and the transport system"},
+    {"system": "link between birth and death registration and the National Identity Management System", "country_label": "", "class": "exchange", "platform": "", "owner": "Department of Civil and National Registration", "tiers": "the identity number is issued on birth registration and used for the identity card at 16; the identity system is updated in real time when a death occurs"}
+  ],
+  "note": "The capture is an excerpt cut partway through the national identity chapter."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-08-09 Regulation Governing SIM Card Registration in Rwanda (RURA No.18-2024)",
+  "facts": [],
+  "systems": [
+    {"system": "national-ID database", "country_label": "national-ID database", "class": "identity", "platform": "", "owner": "", "tiers": "used to verify identity at SIM registration"}
+  ],
+  "note": "A companion page for a SIM registration regulation: identity verification against the national-ID database only; nothing on civil registration."
+}

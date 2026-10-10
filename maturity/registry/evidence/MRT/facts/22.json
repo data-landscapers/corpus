@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated System of Population Management and Secured Titles (SIGPTS)", "country_label": "SIGPTS", "class": "identity", "platform": "", "owner": "National Agency for the Population Register and Secure Titles (ANRPTS)", "tiers": "national ID system put in place in 2020, integrating all government structures involved in issuing ID documents; more than 94 per cent of the population enrolled for national ID, per the ANRPTS director at ID4Africa, May 2025"},
+    {"system": "Houwiyeti", "country_label": "Houwiyeti", "class": "identity", "platform": "", "owner": "ANRPTS", "tiers": "digital ID and digital-government platform launched in 2023; 70 per cent of passport requests made through it and more than 622,000 document extracts processed in the year, per the ANRPTS director, May 2025"}
+  ],
+  "note": "The extract describes SIGPTS as the system for enrolling the population for national ID and issuing ID documents, and Houwiyeti as a remote request platform; it does not say births or deaths are registered in either."
+}

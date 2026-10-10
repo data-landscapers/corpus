@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-10-sdn-fjajpress-police-forum-digital-transformation-identity",
+  "facts": [],
+  "systems": [
+    {"system": "civil registry system", "country_label": "civil registry", "class": "", "platform": "", "owner": "Sudanese Police Forces", "tiers": "named as restored alongside the e-passport system; what it does is not described"},
+    {"system": "Public Service Complexes (One-Stop Shop)", "country_label": "Public Service Complexes", "class": "identity", "platform": "", "owner": "General Administration of Public Service Complexes, Sudanese Police Forces", "tiers": "Omdurman and Bahri complexes and inter-state outlets issuing national identification numbers, passports and licences; Khartoum complex to resume within three months; expansion planned to River Nile, Northern, Gezira, Red Sea and Gedaref"}
+  ],
+  "note": "The document reports national identification number, passport and licence services at police service complexes and names the civil registry system as restored; it says nothing of how or where births or deaths are registered."
+}

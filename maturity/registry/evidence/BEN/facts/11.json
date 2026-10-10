@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-16-guichet-unique-naissances-familles",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "La Nation reports that since August 2025 parents in the pilot maternities have their newborn registered at the hospital by ANIP's agents and receive the birth act there, some sites registering about twenty files a day; the date is that of the report.", "as_of": "2026-07-16", "date_precision": "day", "system": "Guichet unique d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "La Nation reports that ten public health facilities were chosen to try the one-stop desk from August 2025: CHU-MEL Cotonou, the CNHU, CHU Abomey-Calavi, the departmental hospitals of Borgou-Alibori, Mono, Ouémé and Zou-Collines, the zone hospitals of Natitingou and Suru-Léré, and the Ordre de Malte hospital at Djougou.", "as_of": "2025-08", "date_precision": "month", "system": "Guichet unique d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "Desk agents at Natitingou and Djougou say they register the child in the system at the maternity, working on tablets, centralised databases and identification platforms, with the NPI issued in 48 to 72 hours and the quality of the internet connection named as essential to it; the date is that of the report.", "as_of": "2026-07-16", "date_precision": "day", "system": "Guichet unique d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "ANIP's own agents staff the desks in the hospitals and do the registration, checking and updating of data, under its departmental identification directors; the date is that of the report.", "as_of": "2026-07-16", "date_precision": "day", "system": "Guichet unique d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "La Nation states that ANIP began the reform with the support of the WURI project and UNICEF; no domestic budget line is stated, and the date is that of the report.", "as_of": "2026-07-16", "date_precision": "day", "system": "Guichet unique d'enregistrement des naissances", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Guichet unique d'enregistrement des naissances", "country_label": "Guichet unique d'enregistrement des naissances", "class": "civil", "platform": "computers, tablets, centralised databases and identification platforms", "owner": "ANIP, with WURI project and UNICEF support", "tiers": "ten pilot public hospitals, also receiving parents referred from peripheral health centres; registering the child yields the NPI, from which the secured birth act is made; parents without identification are enrolled on the spot"},
+    {"system": "RAVIP identification", "country_label": "identification Ravip", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "parents lacking it can be enrolled at the desk"}
+  ],
+  "note": ""
+}

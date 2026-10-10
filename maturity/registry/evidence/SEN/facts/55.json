@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The IDS Senegal country report states that the National Civil Registration Agency (ANEC) was established in May 2023 with the mission to digitalise, centralise and interconnect 689 civil registration centres through the centralised RNEC register, under the Ministry of Territorial Collectivities, which oversees national civil registration policy.", "as_of": "2023-05", "date_precision": "month", "system": "RNEC (National Registration File)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The report states that the EU is funding the creation of the national biometric civil registry (RNEC) through a partnership of ANEC, the French company CIVIPOL and the Belgian agency Enabel, under an EU Emergency Trust Fund for Africa programme costing EUR 28 million; no date is given for the statement, so the document's publication date is used.", "as_of": "2025-12", "date_precision": "month", "system": "RNEC (National Registration File)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "The report states that Senegal's programme to computerise and digitalise civil registration has had 'substantial public funding' in addition to the creation of ANEC, giving no amount and no budget line; no date is given, so the document's publication date is used.", "as_of": "2025-12", "date_precision": "month", "system": "RNEC (National Registration File)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:400", "fact": "The report, citing ANEC 2025, states that the civil status management application Nekkal 'is being deployed' in 400 civil status centres, against the 689 civil registration centres it gives as ANEC's remit; it does not say how many of the 400 register events in it.", "as_of": "2025", "date_precision": "year", "system": "Nekkal", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "RNEC (National Registration File)", "country_label": "RNEC, the national biometric civil registry", "class": "civil", "platform": "", "owner": "ANEC, with CIVIPOL and Enabel as implementers of the EU-funded programme", "tiers": "central register through which 689 civil registration centres are to be interconnected"},
+    {"system": "Nekkal", "country_label": "Nekkal, civil status management application", "class": "civil", "platform": "", "owner": "ANEC", "tiers": "being deployed in 400 civil status centres"},
+    {"system": "Digitisation and indexing of civil status records", "country_label": "20 million civil status records digitised and indexed as of 2024 (interview with ANEC expert)", "class": "archive", "platform": "", "owner": "ANEC", "tiers": "national"},
+    {"system": "National Register of Natural Persons (RNPP)", "country_label": "RNPP; national biometric ID file", "class": "identity", "platform": "", "owner": "File Automation Directorate (DAF), Ministry of the Interior", "tiers": "national"},
+    {"system": "ECOWAS biometric identity card (ENBIC)", "country_label": "ENBIC", "class": "identity", "platform": "", "owner": "Ministry of the Interior / DAF", "tiers": "national; issued on presentation of a birth certificate less than one year old or equivalent"},
+    {"system": "One-way interoperability channels between civil registration files, DAF files and telecoms and bank files", "country_label": "", "class": "exchange", "platform": "", "owner": "ANEC, DAF, telecoms operators, banks", "tiers": "national; files siloed, with one-way verification channels"}
+  ],
+  "note": ""
+}

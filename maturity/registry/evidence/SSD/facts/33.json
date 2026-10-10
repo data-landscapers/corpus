@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National ID System / National Identity Card", "country_label": "National Identity Card (NIC)", "class": "identity", "platform": "", "owner": "", "tiers": "not stated; coded as having no digital ID; a footnote gives the NIC as issued to about 18,500 people (about 0.3 percent)"},
+    {"system": "Nationality Certificate", "country_label": "Nationality Certificate (NC)", "class": "identity", "platform": "", "owner": "", "tiers": "not stated; held by around 10.5 percent of the population, per a footnote"}
+  ],
+  "note": "A global identity-coverage dataset; South Sudan appears only in the credential table and its footnote on identity cards. Nothing on how births or deaths are registered there."
+}

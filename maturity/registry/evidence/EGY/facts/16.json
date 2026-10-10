@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-08-egypt-ntra-my-numbers-facial-verification",
+  "facts": [],
+  "systems": [
+    {"system": "Arqamy ('My Numbers') service", "country_label": "أرقامي", "class": "identity", "platform": "My NTRA app", "owner": "National Telecom Regulatory Authority", "tiers": "national; lookup of mobile lines registered against a national ID number, with face verification to be added"}
+  ],
+  "note": "Lookup of mobile lines by national ID number; nothing on civil registration."
+}

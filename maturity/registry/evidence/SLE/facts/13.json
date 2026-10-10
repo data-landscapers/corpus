@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-natca-phase-out-unregistered-sims-link-national-id",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN)", "country_label": "National Identification Numbers (NINs)", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; SIM cards to be linked to holders' NINs under the Subscribers Regulations 2025, after a six-month transition (announced July 2026)"}
+  ],
+  "note": "SIM registration tied to the identity number; nothing on civil registration."
+}

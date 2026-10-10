@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-22-gabon-loi-organique-001-2025-code-electoral",
+  "facts": [],
+  "systems": [
+    {"system": "Liste électorale (biometric electoral roll)", "country_label": "liste électorale", "class": "land", "platform": "", "owner": "Ministry of the Interior", "tiers": "national; enrolment records civil status details, photograph and fingerprints; automatic registration at 18 for those enrolled for the NIP; deceased voters struck off on the death certificate, of which the competent administrative authority must send a copy to the ministry within fifteen days"},
+    {"system": "Numéro d'Identification Personnel (NIP)", "country_label": "Numéro d'Identification Personnel", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The electoral code (law of 19 January 2025): birth certificates, supplementary judgments and death certificates appear only as supporting documents for the electoral roll, an electoral register (out of scope under the typology's land class). The death-certificate copy sent to the Interior ministry is a paper transmission, not a system. No fact."
+}

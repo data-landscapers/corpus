@@ -1,0 +1,15 @@
+{
+  "slug": "2024-05-31-national-policy-on-data-and-cloud",
+  "facts": [],
+  "systems": [
+    {
+      "system": "birth register",
+      "country_label": "birth register",
+      "class": "",
+      "platform": "",
+      "owner": "Department of Home Affairs",
+      "tiers": ""
+    }
+  ],
+  "note": "A data and cloud policy (excerpt): it lists birth registration among data government holds partly on paper and partly on departmental servers, and says data-sharing among Health, Education, Social Development and Home Affairs could let a child be registered and given a certificate and identity number at birth, as an aim; it states nothing dated about how or where births are registered now."
+}

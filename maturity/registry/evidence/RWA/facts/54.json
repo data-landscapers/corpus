@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-23-digital-id-85m-budget-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Single Digital Identification System", "country_label": "SDIS", "class": "identity", "platform": "ABIS and PKI planned", "owner": "Ministry of ICT and Innovation / NIDA", "tiers": "biometric registration centres to be set up across the country; Rwf12.2 billion budgeted for 2025-2026 of an expected Rwf54.2 billion"},
+    {"system": "SDIS pre-enrollment system", "country_label": "pre-enrollment system", "class": "identity", "platform": "", "owner": "", "tiers": "in development in May 2025, to process and digitize civil registry data for the identity system"}
+  ],
+  "note": "Identity system financing and procurement; civil registry data is mentioned only as input to the identity pre-enrolment system."
+}

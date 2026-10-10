@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-etax-platform-manual-module-1-registration",
+  "facts": [],
+  "systems": [
+    {"system": "National ID personal number", "country_label": "personal number as it appears on the National ID", "class": "identity", "platform": "", "owner": "", "tiers": "not stated; the number is checked against government records when a citizen registers on the eTax platform"},
+    {"system": "alien registration", "country_label": "Alien Registration Number; registration of foreign residents", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration", "tiers": "not stated"}
+  ],
+  "note": "The revenue authority's manual for taxpayer registration; the civil registry appears only in the name of the directorate that registers foreign residents. Nothing on the registration of births or deaths."
+}

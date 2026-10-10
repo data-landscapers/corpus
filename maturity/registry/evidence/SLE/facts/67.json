@@ -1,0 +1,15 @@
+{
+  "slug": "2020-01-01-ec-sle-002-it-and-physical-infrastructure-support-to",
+  "facts": [],
+  "systems": [
+    {
+      "system": "IT and Physical Infrastructure Support to Civil Registration in Sierra Leone",
+      "country_label": "civil register service centres",
+      "class": "enabling",
+      "platform": "",
+      "owner": "European Commission grant of EUR 5,000,000 (US$5,711,000), 2020-2025; recipient unspecified in the record",
+      "tiers": "not stated; aims to raise birth and death registration through citizen access to civil register service centres and document extracts"
+    }
+  ],
+  "note": "A finance record (description truncated in the capture) for an EU grant to IT and physical infrastructure for civil registration; it describes no registration system and how records are made, so no fact."
+}

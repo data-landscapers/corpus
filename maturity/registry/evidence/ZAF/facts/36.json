@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-09 Home affairs launches Smart ID partnership with banks",
+  "facts": [],
+  "systems": [
+    {"system": "Smart ID digital partnership with banks", "country_label": "digital partnership", "class": "identity", "platform": "secure digital gateway to Home Affairs systems", "owner": "Department of Home Affairs with Capitec", "tiers": "first live bank branch launched at Orange Farm on 2026-03-09; the earlier bank partnership was limited to 30 branches"},
+    {"system": "national population register", "country_label": "national population register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national"},
+    {"system": "Online Verification Service", "country_label": "Online Verification Service", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "used by the banking sector; upgraded in 2025"},
+    {"system": "digital identity system", "country_label": "digital identity", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "being built; to hold identity, birth certificate and marriage certificate in digital form"}
+  ],
+  "note": "Launch of Smart ID services at a bank branch; nothing on how births or deaths are registered."
+}

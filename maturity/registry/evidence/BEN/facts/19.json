@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-08-anip-voter-identification-scrutin",
+  "facts": [],
+  "systems": [
+    {"system": "Certificat du Numéro Personnel d'Identification (C'est moi card)", "country_label": "« carte c'est moi »", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "free around the 12 April 2026 presidential poll; requested at local administrative offices or through ANIP's online platform, mobile application and USSD services"}
+  ],
+  "note": "Extended opening hours and a fee waiver on an identity certificate before the election; nothing on civil registration."
+}

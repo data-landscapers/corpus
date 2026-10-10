@@ -1,0 +1,9 @@
+{
+  "slug": "2024-08-12-haki-na-sheria-v-ag-maisha-ruling",
+  "facts": [],
+  "systems": [
+    {"system": "Maisha Ecosystem", "country_label": "Maisha Number (unique personal identifier); Maisha Card (3rd generation identification card); digital identification card; Maisha Data Base", "class": "identity", "platform": "", "owner": "Ministry of Interior and Coordination of National Government", "tiers": "national; 2nd generation identity cards retired on 14 November 2023; registration backlog 1,215,095 at 31 July 2024"},
+    {"system": "e-Citizen", "country_label": "e-Citizen portal", "class": "certificate", "platform": "", "owner": "Government of Kenya", "tiers": "supports payment of virtually all government services; more than 450 government agencies depend on it to confirm status"}
+  ],
+  "note": "A High Court ruling on the identity card rollout; the Principal Registrar of Births and Deaths is a respondent but nothing is said of how births or deaths are registered."
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "keyed-elsewhere",
+      "fact": "The essay's country table says rural registry offices and civil registration points mostly register births on paper forms, the records being digitised later and transferred electronically to regional and national databases (no date given; the essay's date is used).",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Automated birth registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The essay's country table describes digital recording for birth registration only, at the point of service with immediate certification; deaths are not mentioned (the essay's date is used).",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Automated birth registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "pilot",
+      "fact": "The essay's country table says automated point-of-service recording was piloted in about 4 hospitals since 2021 and in select rural community councils, naming Qanya in Qacha's Nek in 2022, against paper at most of some 10,000 rural points (the essay's date is used).",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Automated birth registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The essay's country table cites a National CRVS Strategic Plan 2020-2024 promoting decentralisation to chiefs and councils and digitalisation; the plan's own period ends in 2024.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Automated birth registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The essay's country table says the pilots of automated birth registration were supported by UNICEF; no domestic budget is mentioned (the essay's date is used).",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Automated birth registration system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Automated birth registration system",
+      "country_label": "automated birth registration system",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministry of Home Affairs, with UNICEF support",
+      "tiers": "about 4 hospitals since 2021 and select rural community councils, e.g. Qanya in Qacha's Nek (2022)"
+    },
+    {
+      "system": "Ntlafatsa Bana system",
+      "country_label": "Ntlafatsa Bana",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named with the year 2023 and no description"
+    }
+  ],
+  "note": "Passages of an AI-assisted compilation by its own header, listed in study.json under exclude_sources; the facts are recorded as the table states them and are the parent's to exclude."
+}

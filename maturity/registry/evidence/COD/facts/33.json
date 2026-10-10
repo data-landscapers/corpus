@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [],
+  "systems": [
+    {"system": "civil status register (birth, marriage and death register)", "country_label": "registre de l'état civil", "class": "civil", "platform": "", "owner": "Officer of Civil Status, under the Family Code (Article 82a)", "tiers": "not stated; the passages say births, marriages and deaths are recorded as certificates in the register and do not say whether on paper or digitally"},
+    {"system": "Fichier général de la population (FGP)", "country_label": "FGP", "class": "identity", "platform": "", "owner": "not stated in the passages; created by Decree No. 22/07 of 2 March 2022", "tiers": "not stated; registration in it precedes the identity card and gives the national ID number, and its data fields include birth and death certificate numbers"},
+    {"system": "Carte d'identité nationale (CIN)", "country_label": "CIN", "class": "identity", "platform": "", "owner": "not stated in the passages; created by Decree No. 22/08 of 2 March 2022, executed by a ministerial order of 15 November 2023", "tiers": "not stated; the passages say there is no official national ID in use and the voter card serves in its place"},
+    {"system": "Voter Card", "country_label": "carte d'électeur", "class": "land", "platform": "", "owner": "CENI, the electoral body", "tiers": "registration offices, number not stated; used as a provisional national ID"}
+  ],
+  "note": "The DRC chapter's passages describe the civil status register only as law (Family Code) and are otherwise about identity cards; nothing states how a local office records a birth or death. The other nine country chapters are not about DR Congo."
+}

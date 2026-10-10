@@ -1,0 +1,9 @@
+{
+  "slug": "2017-03-01-mapping-social-protection-mis-uganda",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Register", "country_label": "NIR; NIRA ID", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "proposed linkage between NIRA and the Single Registry for social protection", "country_label": "Single Registry", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Labour and Social Development", "tiers": "proposed in the report (March 2017), not in place"}
+  ],
+  "note": "The passages concern social protection information systems and the NIRA ID as a prerequisite for the single registry; on civil registration they say only that NIRA's objectives include registering births and deaths. No fact on how offices register."
+}

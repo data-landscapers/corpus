@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-16-madagascar-selects-in-groupe-8-5m-digital-id-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "integrated digital ID system and database management system", "country_label": "", "class": "identity", "platform": "IN Groupe (database and identity management, about 8.5 million euros); Laxton (biometric registration kits)", "owner": "Government of Madagascar under PRODIGY, supported by $143 million from the World Bank", "tiers": "contracts awarded by May 2025"},
+    {"system": "civil registry modernisation", "country_label": "", "class": "", "platform": "IN Groupe", "owner": "PRODIGY", "tiers": "the IN Groupe project is said to modernise the civil registry; what the system does is not described"}
+  ],
+  "note": "A contract award for the identity database and enrolment kits; civil registry modernisation is named with no description of the system or where it runs."
+}

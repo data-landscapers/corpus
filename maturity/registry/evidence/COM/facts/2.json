@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-28-lagazettedescomores-amecc-etat-civil-enterrer-registres-papier",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "La Gazette des Comores reports on 28 August 2026 that the civil registration system is still largely dependent on old paper registers, which the AMECC project aims to modernise progressively.", "as_of": "2026-08-28", "date_precision": "day", "system": "état civil (registres papier)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The AMECC civil registration modernisation project is carried by the Ministry of the Interior, with the support of international partners, notably the French embassy and UNICEF.", "as_of": "2026-08-28", "date_precision": "day", "system": "AMECC (Appui à la Modernisation de l'État civil aux Comores)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 28 August 2026 AMECC held a consultation at Fomboni town hall, Mohéli, with midwives, village chiefs, cadis and mayors on births, deaths and marriages, a first stocktaking step to continue in Djando district and Nioumachoi before other actions such as awareness caravans.", "as_of": "2026-08-28", "date_precision": "day", "system": "AMECC (Appui à la Modernisation de l'État civil aux Comores)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "AMECC (Appui à la Modernisation de l'État civil aux Comores)", "country_label": "projet AMECC", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur, with the French embassy and UNICEF", "tiers": "Preparatory field consultations on Mohéli (Fomboni, then Djando district and Nioumachoi); no system in service stated"}
+  ],
+  "note": ""
+}

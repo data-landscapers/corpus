@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-26-national-id-cctv-facial-recognition-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration Bureau database", "country_label": "", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "central; planned link to a six-city police CCTV facial recognition network"}
+  ],
+  "note": "The article's 'civil registry database' is the national identity card database, to be linked to police CCTV; nothing on birth or death registration."
+}

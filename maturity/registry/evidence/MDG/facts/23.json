@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "mass biometric enrolment solution for the national ID", "country_label": "", "class": "identity", "platform": "Laxton enrolment kits (iris, face, fingerprint; work with or without connectivity) and software; database management system by IN Groupe", "owner": "Government of Madagascar through the World Bank-funded PRODIGY project; Laxton commissioned to design, supply, deploy and support", "tiers": "2,500 kits; the January 2026 pilot enrolled nearly 130,000 people through 116 registration centres in 26 communes"}
+  ],
+  "note": "Identity enrolment only; no civil registration system is described."
+}

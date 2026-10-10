@@ -1,0 +1,8 @@
+{
+  "slug": "2024-08-02 Mauritania launches digital ID app to boost access to services and improve governance",
+  "facts": [],
+  "systems": [
+    {"system": "e-ID Mauritania", "country_label": "e-ID Mauritania", "class": "identity", "platform": "open-source mobile app; TECH5 technology with SmartMS", "owner": "Ministry of Digital Transformation, Innovation and Public Sector Modernization (MTNIMA), with UNDP", "tiers": "pilot of a mobile tool letting residents authenticate their identity online"}
+  ],
+  "note": "A report of the digital identity app pilot; nothing on registering births or deaths."
+}

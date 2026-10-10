@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-20-aps-senegal-hebergement-donnees-personnelles-pleniere",
+  "facts": [],
+  "systems": [
+    {"system": "Cartes nationales d'identité", "country_label": "cartes nationales d'identité", "class": "identity", "platform": "", "owner": "run by foreign firms subcontracting to Senegalese companies, according to deputy Alioune Bèye", "tiers": "national"}
+  ],
+  "note": "No fact: at the plenary of 20 August 2026 deputy Fama Ba cited recent cyberattacks on the administrations in charge of civil status, taxation and public accounting, but the article names no civil registration system, gives no date for the attack and says nothing of its effect on registration."
+}

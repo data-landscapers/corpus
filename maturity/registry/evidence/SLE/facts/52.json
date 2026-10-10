@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-sierra-leone-ncra-mosip-pilot-digital-id-commitment",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP digital ID pilot", "country_label": "MOSIP ID Platform", "class": "identity", "platform": "MOSIP", "owner": "National Civil Registration Authority (NCRA)", "tiers": "A pilot to develop and test a national digital ID system on open-source modules, for possible integration into the existing ID infrastructure (undated article, capture-year date 2024)"}
+  ],
+  "note": "A digital identity pilot; nothing on birth or death registration."
+}

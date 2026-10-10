@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-15-presfor-certificats-fonciers-electroniques-moronou",
+  "facts": [],
+  "systems": [
+    {"system": "SIFOR-CI (Système d'Information du Foncier Rural de Côte d'Ivoire)", "country_label": "SIFOR-CI", "class": "land", "platform": "", "owner": "Agence Foncière Rurale (AFOR)", "tiers": "national rural land data; first five electronic land certificates signed at Bongouanou, Moronou region, on 2026-03-12"},
+    {"system": "DIGIFOR", "country_label": "DIGIFOR", "class": "land", "platform": "", "owner": "Agence Foncière Rurale (AFOR)", "tiers": "not stated"},
+    {"system": "SCCARTO", "country_label": "SCCARTO", "class": "land", "platform": "", "owner": "Agence Foncière Rurale (AFOR)", "tiers": "not stated"}
+  ],
+  "note": "Entirely about rural land certification systems, which are out of the study's scope; nothing on civil registration."
+}

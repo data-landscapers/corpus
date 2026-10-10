@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-28-angola-estado-biometrico-risco-democratico-2027",
+  "facts": [],
+  "systems": [
+    {"system": "plataforma nacional de controlo fronteiriço biométrico", "country_label": "", "class": "identity", "platform": "T4B-Dolinveste consortium platform using fingerprints and facial recognition", "owner": "Ministério do Interior; data managed by the Serviço de Migração e Estrangeiros (SME)", "tiers": "borders; national"},
+    {"system": "sistema de emissão de passaportes biométricos", "country_label": "", "class": "identity", "platform": "ANY Security Printing Company, EUR 130 million ten-year contract", "owner": "", "tiers": "biometric enrolment, passport production and local personalisation"},
+    {"system": "Bilhete de Identidade", "country_label": "Bilhete de Identidade", "class": "identity", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "16 million holders in October 2025, on the justice minister's statement"},
+    {"system": "registo eleitoral", "country_label": "actualização do registo eleitoral nos Balcões Únicos de Atendimento ao Público", "class": "land", "platform": "", "owner": "consolidated database of adult citizens passed to the Comissão Nacional Eleitoral", "tiers": "Balcões Únicos de Atendimento ao Público"}
+  ],
+  "note": "An opinion piece on biometric border control, identity and the electoral register; it mentions the civil registration gap only as identity-card holding and states nothing on how births or deaths are recorded."
+}

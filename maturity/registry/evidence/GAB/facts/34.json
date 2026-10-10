@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-02-world-bank-digital-gabon-68m-loan",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank states that it and the Government of Gabon signed a US$68.5 million loan for the Digital Gabon Project on 2 January 2024, which is to modernise legal identity systems, including digitalising civil registration and providing a unique ID through a one-stop platform.", "as_of": "2024-01-02", "date_precision": "day", "system": "Digital Gabon Project: digitalisation of civil registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digital Gabon Project: digitalisation of civil registration", "country_label": "Digital Gabon Project", "class": "civil", "platform": "", "owner": "Government of Gabon; World Bank loan", "tiers": "planned as of January 2024"},
+    {"system": "Unique ID through a one-stop platform", "country_label": "unique ID", "class": "identity", "platform": "", "owner": "Government of Gabon; World Bank loan", "tiers": "planned as of January 2024"}
+  ],
+  "note": "The press release states the intention to digitalise civil registration without describing the system; classed civil on that statement alone."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits",
+  "facts": [],
+  "systems": [
+    {"system": "Ndaga Muntu national ID biometric registration kits", "country_label": "Ndaga Muntu", "class": "identity", "platform": "MOSIP; IriTech IriShield iris scanners", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "more than 5,665 kits rolled out under the 2024 to 2026 campaign"}
+  ],
+  "note": "About iris scanners on national ID enrolment kits; nothing on birth or death registration."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-06-11-navigating-legal-challenges-digital-governance-innovation",
+  "facts": [],
+  "systems": [
+    {"system": "National System for Civil Identification and Authentication (SNIAC)", "country_label": "SNIAC", "class": "identity", "platform": "", "owner": "", "tiers": "central system, dated to 2009, holding citizen identity and civil registry data for in-person identity verification and digital authentication; the basis for the passport (2016), identity card (2018) and residence permit (2021)"},
+    {"system": "National Identification Card (CNI)", "country_label": "CNI", "class": "identity", "platform": "", "owner": "", "tiers": "national, launched 2018"}
+  ],
+  "note": "Passages from a case study of NOSi's electoral work; the one relevant paragraph describes SNIAC as a central identity system that also holds civil registry data, without saying how or where a birth or death is entered."
+}

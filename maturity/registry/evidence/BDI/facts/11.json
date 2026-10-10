@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-16-abp-lancement-recensement-proprietaires-centres-urbains-rppcub-2026",
+  "facts": [],
+  "systems": [
+    {"system": "RPPCUB-2026 (Recensement des propriétaires des propriétés ou parcelles dans les centres urbains du Burundi)", "country_label": "RPPCUB-2026", "class": "land", "platform": "", "owner": "Government of Burundi; technical presentation by INSBU", "tiers": "first phase: communes of Muha, Mukaza and Ntahangwa and the towns of Gitega, Ngozi and Rumonge; digitised geo-referenced land register with a Web GIS, launched 14 July 2026"}
+  ],
+  "note": "A land register census, out of scope; nothing on civil registration."
+}

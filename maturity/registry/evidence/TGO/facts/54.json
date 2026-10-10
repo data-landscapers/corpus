@@ -1,0 +1,23 @@
+{
+  "slug": "2024-01-01-faq-e-id-togo",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-ID Togo",
+      "country_label": "e-ID Togo; Unique Identification Number (NIU); fundamental identification system (fID)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification (ANID); financed under the World Bank's WURI programme, $72 million for Togo",
+      "tiers": "fixed centres, usually in schools, and mobile centres across the country during mass registration; ANID headquarters and agencies afterwards"
+    },
+    {
+      "system": "Registre Social des Personnes et des Ménages (RSPM)",
+      "country_label": "Registre Social des Personnes et des Ménages (RSPM)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as the reference for granting aid and subsidies, for which the NIU is required"
+    }
+  ],
+  "note": "The identity agency's FAQ on biometric enrolment; its registration centres and mobile teams are identity enrolment, and nothing is said of civil registration."
+}

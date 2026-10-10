@@ -1,0 +1,15 @@
+{
+  "slug": "2002-10-21-eritrea-demographic-profile-birth-registration",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Civil status offices (birth registration under the transitional civil code)",
+      "country_label": "civil status offices; civil status officer; register of civil status",
+      "class": "civil",
+      "platform": "",
+      "owner": "heads of communes and departmental offices of civil status, as the draft Civil Code provides",
+      "tiers": "eight urban areas only in 2002 (Asmara, Keren, Massawa, Dekemhare, Assab, Mendefera, Segeneyti, Akordet); no civil status officer in any rural area; the medium of the register is not stated"
+    }
+  ],
+  "note": "A 2002 paper by the Ministry of Justice, the statistics office and UNICEF: birth registration is optional and done in eight towns only, rural areas have no civil status officer and no birth registration, and the towns register for administrative purposes without keeping statistics. It does not say whether the registers are paper or digital, so no aspect value is recorded."
+}

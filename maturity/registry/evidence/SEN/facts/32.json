@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:67%", "fact": "Figures released by ANEC on 15 July 2026 give 67% of civil-status centres as digitised through the Civil Registration Management Software (LGEC), while stating that 629 centres are connected to the national civil-registration network; no count of digitised centres is given.", "as_of": "2026-07-15", "date_precision": "day", "system": "Civil Registration Management Software (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The National Civil Registration Agency (ANEC) runs the modernisation, with 3,695 registration officers and staff trained by 15 July 2026 and a data-verification campaign in Fatick, Louga and Diourbel from 13 to 29 July 2026.", "as_of": "2026-07-15", "date_precision": "day", "system": "Civil Registration Management Software (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "ANEC reported on 15 July 2026 more than 15.3 million civil-registration records digitised, 67% of centres on the LGEC and a verification campaign under way in three regions from 13 to 29 July 2026.", "as_of": "2026-07-15", "date_precision": "day", "system": "Civil Registration Management Software (LGEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registration Management Software (LGEC)", "country_label": "LGEC", "class": "civil", "platform": "", "owner": "National Civil Registration Agency (ANEC)", "tiers": "civil-status centres; 67% of centres at 15 July 2026"},
+    {"system": "Sama État Civil", "country_label": "Sama État Civil", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "online civil-registration requests; 27% of centres connected to it at 15 July 2026"},
+    {"system": "national civil-registration network", "country_label": "", "class": "enabling", "platform": "", "owner": "ANEC", "tiers": "629 civil-status centres stated as connected"}
+  ],
+  "note": "The held text is a short digest of the article, not its full body; it does not say whether the 15.3 million records are back-capture or entries made at registration, so no events or made fact is written."
+}

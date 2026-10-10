@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-07-nilepost-nira-national-id-expo-register-gap",
+  "facts": [],
+  "systems": [
+    {"system": "national register / National Identification Number (NIN)", "country_label": "national register", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "use of the NIN in electronic Know Your Customer, taxation and government digital authentication", "country_label": "e-KYC", "class": "exchange", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A notice of NIRA's identity expo: about 35.58 million people, some 75 per cent, on the national register (September 2026). Birth and death registration is named only as a topic for discussion."
+}

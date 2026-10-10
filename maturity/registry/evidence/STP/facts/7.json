@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-30-prese-inaugura-recenseamento-automatico",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Recenseamento automático (PRESE)",
+      "country_label": "recenseamento automático e permanente dos eleitores",
+      "class": "land",
+      "platform": "",
+      "owner": "PRESE project: EU-funded (EUR 500,000), implemented by Portuguese Cooperation through Camões",
+      "tiers": "National"
+    }
+  ],
+  "note": "States only that automatic and permanent voter registration draws on civil-registry data; nothing on how or where a birth or death is registered."
+}

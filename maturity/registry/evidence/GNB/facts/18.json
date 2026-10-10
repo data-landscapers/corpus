@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-04-gnb-unicef-nascer-com-identidade-registo-nascimento-saude",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "UNICEF reports that trained health workers at registration posts inside hospitals and health centres register births on a digital platform installed on a tablet, with a printer, and that since December 2024 nurses, social workers and midwives are authorised to register children under one; the article does not name the platform or say whether it is connected to a national register, and the date used is the article's.", "as_of": "2025-09-04", "date_precision": "day", "system": "Birth registration posts in health services (digital platform on tablet)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "UNICEF says digital registration is available in hospitals and health centres of three regions, Bissau, Tombali and Quinara, and gives no count of posts or total; it reports more than 20,000 children aged 0 to 7 registered between October 2024 and June 2025, 5,886 of them before age one.", "as_of": "2025-09-04", "date_precision": "day", "system": "Birth registration posts in health services (digital platform on tablet)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNICEF says the health-service registration posts run under its project Rumo ao Registo Universal de Nascimentos e Identidade Legal, financed by the Italian Agency for Development Cooperation, which donated the tablets, computers, printers and motorbikes; no domestic funding is mentioned, and the date used is the article's.", "as_of": "2025-09-04", "date_precision": "day", "system": "Birth registration posts in health services (digital platform on tablet)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Birth registration posts in health services (digital platform on tablet)", "country_label": "posto de registo", "class": "civil", "platform": "unnamed digital platform on tablet with printer", "owner": "civil registry (supervised by the Conservador of the Bissau Velho registry office), staffed by health workers; UNICEF project", "tiers": "hospitals and health centres in the Sector Autónomo de Bissau, Tombali and Quinara, including the Centro Materno Infantil de Bissau and Hospital Nacional Simão Mendes"},
+    {"system": "Sistema Integrado de Registo e Estatísticas do Cidadão", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named as supported by the UNICEF project, with no description of what it does"},
+    {"system": "Birth registration in vaccination campaigns", "country_label": "", "class": "outreach", "platform": "", "owner": "", "tiers": "nationwide vaccination campaigns"},
+    {"system": "Interoperability between civil registration and the health sector", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "health workers register on the registry's behalf; described as interoperability of services, not a data link"}
+  ],
+  "note": ""
+}

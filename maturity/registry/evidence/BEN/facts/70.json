@@ -1,0 +1,12 @@
+{
+  "slug": "2018-06-06-decret-2018-206-anip-attributions",
+  "facts": [],
+  "systems": [
+    {"system": "registre national des personnes physiques", "country_label": "registre national des personnes physiques", "class": "identity", "platform": "", "owner": "Agence Nationale d'Identification des Personnes (ANIP), under the President of the Republic; resources include annual State allocations under the Finance Law, development-partner funds and authentication and document fees, with an initial allocation of 250 million FCFA", "tiers": "National; ANIP has departmental delegations at the prefectures (DDIP) and a communal unit for the identification of persons (UCIP) at each town hall"},
+    {"system": "registres communaux des personnes physiques", "country_label": "registres communaux des personnes physiques", "class": "identity", "platform": "", "owner": "Agence Nationale d'Identification des Personnes (ANIP)", "tiers": "Communal"},
+    {"system": "registre national des documents d'identification", "country_label": "registre national des documents d'identification", "class": "identity", "platform": "", "owner": "Agence Nationale d'Identification des Personnes (ANIP)", "tiers": "National"},
+    {"system": "liste électorale permanente informatisée", "country_label": "liste électorale permanente informatisée", "class": "land", "platform": "", "owner": "", "tiers": ""},
+    {"system": "fichier central de l'état civil", "country_label": "fichier central de l'état civil", "class": "", "platform": "", "owner": "", "tiers": "ANIP's information systems directorate contributes to its updating"}
+  ],
+  "note": "The decree organising ANIP: it gives the agency the population register, the communal registers of persons and the identification number, and mentions the central civil-status file only as something its IT directorate helps update; nothing on how a birth or death is registered."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Registry (NIR)/National ID Card", "country_label": "National Identification Registry (NIR)/National ID Card", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "listed as Liberia's foundational ID system, with no digital ID; adult coverage estimate drawn from the 2021 Findex survey"}
+  ],
+  "note": "A global identity coverage dataset; Liberia appears once, in Annex D, as a row naming its foundational identity credential, and nothing is stated on civil registration or how births are recorded in Liberia."
+}

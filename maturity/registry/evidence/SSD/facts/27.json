@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-20 What is actually functioning as DPI in South Sudan",
+  "facts": [],
+  "systems": [
+    {"system": "civil service biometric registration", "country_label": "biometric registration of public servants", "class": "identity", "platform": "", "owner": "government, supported by the World Bank", "tiers": "a siloed payroll database; not a national identity layer"}
+  ],
+  "note": "States that there is no national digital identity and no interoperable public registries, and that digital systems are concentrated in cities; it does not mention civil registration or the registration of births and deaths."
+}

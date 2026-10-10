@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-03-senum-teledac-dematerialisation-actes-administratifs",
+  "facts": [],
+  "systems": [
+    {"system": "TeleDAc", "country_label": "Télédemande d'Actes Administratifs (TeleDAc)", "class": "certificate", "platform": "TeleDAc", "owner": "Société Sénégal Numérique S.A. (SENUM, formerly ADIE)", "tiers": "online platform; consular civil status (état civil consulaire) is one of the sectors with procedures on it"}
+  ],
+  "note": "No fact: the page describes an online platform for requesting administrative acts, built for building permits, and names consular civil status only as one sector with procedures online; nothing on registration at offices. The page is undated; 2026-09-03 is the retrieval date."
+}

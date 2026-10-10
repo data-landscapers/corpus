@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-27-mozambique-national-id-legal-framework-dnic",
+  "facts": [],
+  "systems": [
+    {"system": "national identity card issuance (biometric)", "country_label": "", "class": "identity", "platform": "", "owner": "National Directorate of Civil Identification (DNIC)", "tiers": "ID service centres, two new in Maputo; nearly 1,800 mobile registration units; online pre-enrolment; consular services abroad"}
+  ],
+  "note": "Identity-card issuance and its new legal framework only; the mobile registration units are DNIC's, for identity enrolment, and civil registration is not mentioned."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-24-somalia-eaqoonsi-app-dpi",
+  "facts": [],
+  "systems": [
+    {"system": "eAqoonsi", "country_label": "eAqoonsi app", "class": "identity", "platform": "mobile application; Google Play shows more than 50,000 downloads", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "citizens' smartphones, after in-person registration at a NIRA centre"},
+    {"system": "national identification system", "country_label": "national ID; 11-digit national ID number", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "NIRA centres, number nationwide not disclosed; nearly two million people registered"}
+  ],
+  "note": "Concerns the national identity system and its mobile application; nothing is stated on the registration of births or deaths."
+}

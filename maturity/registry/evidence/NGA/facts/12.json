@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-18-fij-npc-corrects-vitalreg-records",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The document describes VitalReg as the digital birth registration recently launched by the National Population Commission, through which a Lagos father was trying to register his two daughters; it gives no launch date, so its publication date is used.", "as_of": "2026-08-18", "date_precision": "day", "system": "VitalReg", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "VitalReg", "country_label": "VitalReg; birth registration website", "class": "civil", "platform": "VitalReg", "owner": "National Population Commission (NPC)", "tiers": "an online portal a parent uses with his NIN; records keyed in 2024 by ad hoc staff UNICEF engaged are said by an NPC officer to be in it"}
+  ],
+  "note": ""
+}

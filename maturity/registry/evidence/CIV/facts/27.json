@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-19-capital-foncier-sigfu-idufci-cadastral-digitalization",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFU (Système Intégré de Gestion du Foncier Urbain)", "country_label": "SIGFU", "class": "land", "platform": "", "owner": "Ministry of Construction, Housing and Urban Planning (MCLU)", "tiers": "Guichet Unique du Foncier of the Plateau in Abidjan and several regional branches; extension to interior cities under way"},
+    {"system": "IDUFCI (Identifiant Unique du Foncier de Côte d'Ivoire)", "country_label": "IDUFCI", "class": "land", "platform": "", "owner": "Ministry of Construction, Housing and Urban Planning (MCLU)", "tiers": "national: every urban and rural parcel"},
+    {"system": "SIGNE", "country_label": "SIGNE", "class": "land", "platform": "", "owner": "MCLU (DMISSA) with the Ministry of Public Service", "tiers": "electronic signature of land acts by the Minister or a Prefect, operational since January 2024"}
+  ],
+  "note": "Entirely about urban land administration systems, which are out of the study's scope; nothing on civil registration."
+}

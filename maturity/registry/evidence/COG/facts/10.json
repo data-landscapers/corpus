@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-01-acpce-bulletin-annuel-statistiques-formalites-entreprises-2025",
+  "facts": [],
+  "systems": [
+    {"system": "ACPCE integrated digital information system for business formalities", "country_label": "système d'information numérique intégré", "class": "land", "platform": "", "owner": "Agence Congolaise pour la Création des Entreprises (ACPCE)", "tiers": "ACPCE; business creation, modification and striking-off formalities, including the RCCM registration"}
+  ],
+  "note": "A business-register statistics bulletin. The study term matched only the RCCM described as a company's 'acte de naissance'; nothing on civil registration."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-02-csd-system-revamping-communique-registry",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The Civil Status Division announced on 2 September 2025 that its CSD System was being revamped, with a transition period in which delays or slowness might be met and civil status offices opened exceptionally on the weekend of 6 and 7 September 2025.", "as_of": "2025-09-06", "date_precision": "day", "system": "CSD System", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "In the context of the revamping of the CSD System, the Civil Status Division says its offices would open on 6 and 7 September 2025 for the registration of births and deaths, the publication of civil marriages and applications for civil status extracts.", "as_of": "2025-09-06", "date_precision": "day", "system": "CSD System", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "The Civil Status Division says the exceptional opening for the CSD System revamp covers all civil status offices in Mauritius except Petite Riviere, Baie du Cap and Grand Bois, and Rodrigues; it gives no count of offices and does not say why the three are excluded.", "as_of": "2025-09-06", "date_precision": "day", "system": "CSD System", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The communique on the revamping of the CSD System is issued by the Civil Status Division of the Prime Minister's Office, which speaks of the system as its own operations.", "as_of": "2025-09-02", "date_precision": "day", "system": "CSD System", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "CSD System", "country_label": "Civil Status Division (CSD) System", "class": "civil", "platform": "", "owner": "Civil Status Division, Prime Minister's Office", "tiers": "civil status offices in Mauritius and Rodrigues; Petite Riviere, Baie du Cap and Grand Bois are named as excluded from the transition-weekend opening"}
+  ],
+  "note": "The communique does not describe how a record is made: that the offices register births and deaths in the CSD System is implied by the transition's effect on their service, not stated, so no 'made' fact is written."
+}

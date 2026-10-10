@@ -1,0 +1,14 @@
+{
+  "slug": "2021-05-10-gabon-project-information-document-digital-gabon-p175987",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank project information document of 10 May 2021 allots US$10.5 million of a US$68.5 million IBRD financing, the whole project cost, to sub-component 2.2, digitalisation of the civil registration system including birth registration; no domestic contribution is shown.", "as_of": "2021-05-10", "date_precision": "day", "system": "Digitalized CR system (Digital Gabon sub-component 2.2)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank project information document of 10 May 2021 states the planned digitalised civil registration system, the population registry and the national ID system will be governed by the same state entity, the CNEC, with the project implemented by a unit housed in the Ministry of Communication and Digital Economy and technical coordination by ANINF.", "as_of": "2021-05-10", "date_precision": "day", "system": "Digitalized CR system (Digital Gabon sub-component 2.2)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digitalized CR system (Digital Gabon sub-component 2.2)", "country_label": "digitalized CR system; CNEC", "class": "civil", "platform": "", "owner": "CNEC (planned governing entity); project unit in the Ministry of Communication and Digital Economy; ANINF technical coordination", "tiers": "planned in May 2021: to register, manage and archive vital records such as birth records, with a centralised CR database and a module for registration in local government offices"},
+    {"system": "Population registry (RPP) managing the NIP", "country_label": "RPP; NIP", "class": "identity", "platform": "", "owner": "CNEC (planned)", "tiers": "planned; all persons in Gabon, citizens and non-citizens; a universal physical ID credential to all NIP holders"},
+    {"system": "Upgraded national ID system", "country_label": "national ID card", "class": "identity", "platform": "", "owner": "CNEC (planned)", "tiers": "planned; Gabonese citizens"},
+    {"system": "NIP linked to the birth record", "country_label": "", "class": "exchange", "platform": "separate databases on shared infrastructure; government interoperability platform to be built", "owner": "CNEC (planned)", "tiers": "planned: the NIP can be linked to the birth record where the birth is registered in Gabon"}
+  ],
+  "note": "A planning document: it describes the intended system and states nothing about how offices registered in 2021."
+}

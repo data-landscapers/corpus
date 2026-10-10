@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The Tunisia country report, citing UNFPA 2021, describes the Civil Register, the MADANIA system, as a digitised civil registration system and centralised database managing the civil status records of all Tunisian nationals and of foreigners with registered civil status, covering births and deaths as well as marriages and divorces (no date given for the statement; the document's published date is used).", "as_of": "2025-12-01", "date_precision": "day", "system": "MADANIA", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Tunisia country report, citing UNFPA 2021, states that the births and deaths held in the MADANIA civil register come under the authority of the Ministry of Interior, and marriages and divorces under the Ministry of Justice (no date given for the statement; the document's published date is used).", "as_of": "2025-12-01", "date_precision": "day", "system": "MADANIA", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "MADANIA", "country_label": "Civil Register (MADANIA system)", "class": "civil", "platform": "", "owner": "Ministry of Interior for births and deaths; Ministry of Justice for marriages and divorces", "tiers": "centralised national database; office tiers not stated"},
+    {"system": "Unique Citizen Identifier (IUC)", "country_label": "Identifiant unique citoyen (IUC)", "class": "identity", "platform": "", "owner": "IUC Register Management Unit", "tiers": "an 11-digit number assigned to Tunisian nationals at birth or on acquiring nationality, based on civil registration records, with no further enrolment; no biometric data stored"},
+    {"system": "National Identity Card (CIN), biometric version", "country_label": "Carte d'identité nationale (CIN)", "class": "identity", "platform": "", "owner": "Ministry of Interior", "tiers": "biometric card mandated by Law 2024-22 for citizens aged 15 and over; none issued as of May 2025"},
+    {"system": "Mobile ID", "country_label": "Mobile ID", "class": "identity", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": "introduced 2022 for digital authentication to online public services"},
+    {"system": "interoperability platform", "country_label": "interoperability framework / interoperability platform", "class": "exchange", "platform": "", "owner": "", "tiers": "part of the digital-ID system alongside the IUC register"}
+  ],
+  "note": "Passages of a ten-country collection; only the Tunisia country report states anything on Tunisia. It does not say how or where the record is made, nor how many offices use the system."
+}

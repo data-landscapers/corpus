@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-27-assabahnews-moarref-watani-sihi-sahetna",
+  "facts": [],
+  "systems": [
+    {"system": "المنصة الوطنية للتصريح بالولادات (national birth declaration platform)", "country_label": "المنصة الوطنية للتصريح بالولادات / المنصة الوطنية لتسجيل الرضع", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "first national trial at Mongi Slim hospital, La Marsa: 202 births declared from June 2026 to 27 July 2026, each newborn given a national health identifier linked to the mother's; to be extended gradually to all health institutions; the newborn is still registered at the municipality, where the name can be updated; a direct link to the civil status registers is stated as an aim"},
+    {"system": "دفاتر الحالة المدنية (civil status registers)", "country_label": "دفاتر الحالة المدنية", "class": "", "platform": "", "owner": "", "tiers": "named as a national system the birth declaration platform is meant to link to"}
+  ],
+  "note": "The hospital declares the birth on a health ministry platform and the municipality still registers the newborn, so the system is a notification and gives no fact for civil registration."
+}

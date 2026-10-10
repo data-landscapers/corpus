@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa",
+  "facts": [],
+  "systems": [
+    {"system": "national ID registration", "country_label": "NIDA national ID: endorsement letter from local government, application and biometrics at NIDA offices or rural pop-up registration points; online application portal introduced December 2022", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": "NIDA offices and pop-up registration centres; 23 million registered by December 2022"},
+    {"system": "biometric SIM card registration", "country_label": "SIM registration with fingerprints verified against the national ID database", "class": "identity", "platform": "", "owner": "mobile network operators, against NIDA's database", "tiers": "operator outlets and agents"}
+  ],
+  "note": "A study of national ID and SIM registration (interviews July-August 2022); birth certificates appear only as supporting documents for an ID, and no civil registration system is described."
+}

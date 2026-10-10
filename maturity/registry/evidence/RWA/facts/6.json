@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-23-rwa-dawn-habimana-civil-registration-services",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration services campaign", "country_label": "week-long civil registration campaign for International Civil Registration Day", "class": "outreach", "platform": "", "owner": "Ministry of Local Government; Nyamagabe District", "tiers": "Gasaka Sector and across Nyamagabe District, 23 to 28 September 2026; about 150 residents registered at launch, 64 of them children"},
+    {"system": "digital identity cards", "country_label": "digital identity card registration and photography", "class": "identity", "platform": "", "owner": "", "tiers": "offered during the same campaign in Nyamagabe"}
+  ],
+  "note": "A district campaign; it names no registrar's system and says only that officials and residents raised unspecified problems with technology systems."
+}

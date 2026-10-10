@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-23-akwa-ibom-digital-civil-registration-system",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Akwa Ibom State announced the commencement of the electronic civil registration and vital statistics system, to register births, deaths and birth attestations digitally on the Vital Registration platform, following the Commission's national briefing of 15 July 2026; the report is dated 23 July 2026.", "as_of": "2026-07-23", "date_precision": "day", "system": "Electronic Civil Registration and Vital Statistics (e-CRVS) system, Vital Registration platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The National Population Commission's federal commissioner for Akwa Ibom says the platform carries digital registration of births, deaths, attestation of birth and other civil registration services.", "as_of": "2026-07-23", "date_precision": "day", "system": "Electronic Civil Registration and Vital Statistics (e-CRVS) system, Vital Registration platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:vendor", "fact": "The Commission's federal commissioner for Akwa Ibom says the platform is operated under a public-private partnership with Banksforte Technology Limited, a Nigerian IT provider serving as the Commission's technical partner and responsible for continuous availability, cybersecurity and technology administration.", "as_of": "2026-07-23", "date_precision": "day", "system": "Electronic Civil Registration and Vital Statistics (e-CRVS) system, Vital Registration platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The system is the National Population Commission's: the Commission directs its rollout state by state, has signed a partnership compact on decentralising birth registration with ALGON, NIMC, UNICEF and Banksforte, and appealed to the Akwa Ibom State Government to support the full rollout across the state.", "as_of": "2026-07-23", "date_precision": "day", "system": "Electronic Civil Registration and Vital Statistics (e-CRVS) system, Vital Registration platform", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Electronic Civil Registration and Vital Statistics (e-CRVS) system, Vital Registration platform", "country_label": "e-CRVS; Vital Registration platform", "class": "civil", "platform": "", "owner": "National Population Commission (NPC); operated under a public-private partnership with Banksforte Technology Limited", "tiers": "Akwa Ibom State, commencing; the state government asked to support full rollout across the state"}
+  ],
+  "note": ""
+}

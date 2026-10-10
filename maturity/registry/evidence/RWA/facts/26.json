@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-30-races-to-meet-2027-deadline-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Single Digital ID System (SDID)", "country_label": "SDID", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": "mobile registration campaign, then sector offices only; at least 1.5 million enrolled earlier in 2026; to be issued to newborns, refugees and stateless persons"},
+    {"system": "Irembo", "country_label": "Irembo digital government platform", "class": "", "platform": "Irembo", "owner": "", "tiers": ""}
+  ],
+  "note": "Identity enrolment only; nothing on civil registration."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-20-egypt-digital-id-ekyc-esignature-approaching-youm7",
+  "facts": [],
+  "systems": [
+    {"system": "Digital identity system with biometric e-KYC verification", "country_label": "منظومة الهوية الرقمية؛ التحقق البيومتري e-KYC", "class": "identity", "platform": "face recognition or other biometrics, linked directly to civil status data", "owner": "the State, under the Digital Egypt strategy", "tiers": "national; in preparation"},
+    {"system": "Civil status databases", "country_label": "قواعد بيانات الأحوال المدنية", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Forthcoming digital identity and e-signature; the civil status databases are named only as what identity checks link to, with nothing on how births or deaths are registered."
+}

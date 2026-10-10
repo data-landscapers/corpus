@@ -1,0 +1,15 @@
+{
+  "slug": "2024-12-04 World Bank approves $70M for Morocco's social protection delivery (RNP and Unified Social Registry)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Population Registry (RNP)",
+      "country_label": "Registre national de la population (RNP)",
+      "class": "identity",
+      "platform": "",
+      "owner": "National Register Agency (established by Law 72-18)",
+      "tiers": "about half the population enrolled under the first project; second World Bank project of US$70 million approved 4 December 2024 to extend it to rural and remote areas through digital and remote applications"
+    }
+  ],
+  "note": "No fact: World Bank financing for the population registry and the Unified Social Registry (class identity). Civil registration is not mentioned."
+}

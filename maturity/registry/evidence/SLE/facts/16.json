@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-01 Understanding-MOSIP-Biometric-Update-report",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP", "country_label": "MOSIP", "class": "identity", "platform": "MOSIP", "owner": "", "tiers": "Sierra Leone is listed as a country case study of the open-source identity platform; no detail given in the record"}
+  ],
+  "note": "A source record summarising a MOSIP explainer; Sierra Leone is named as a case study with nothing stated about it, and the civil registration use it mentions is Morocco's."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2024-04-28-villededjibouti-sigec-diagnostic",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The Ville de Djibouti states that the registration of civil-status events (births, civil and religious marriages, divorces and deaths) in Djibouti-Ville is done by the civil-status centres and has rested since 2011 on software for entering, transmitting and using civil-status data.", "as_of": "2024-04-28", "date_precision": "day", "system": "SIGEC", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "local", "fact": "The Ville de Djibouti states that since 2011 its database has been fed continuously as civil-status agents make new entries in the software, which handles entry, transmission and use of the data; the database is the city's, and the document does not say it is held in a national register.", "as_of": "2024-04-28", "date_precision": "day", "system": "SIGEC", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "The Ville de Djibouti states that the communes of Djibouti-Ville have exercised civil status through SIGEC since it was set up and made operational in 2011, in the city's civil-status centres; it gives no count of centres and says nothing of offices outside the capital.", "as_of": "2024-04-28", "date_precision": "day", "system": "SIGEC", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Ville de Djibouti states that it has held the civil-status public service since the Ministry of the Interior transferred the competence in 2008, that SIGEC has its own administrator and teams at the Mairie, and that the service runs on means that are insufficient but dedicated; the 2024 diagnostic by an international expert was commissioned under the city's governance support project PROGOUV.", "as_of": "2024-04-28", "date_precision": "day", "system": "SIGEC", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "SIGEC", "country_label": "système informatisé de gestion de l'état civil (SIGEC)", "class": "civil", "platform": "software solution, not named", "owner": "Ville de Djibouti (Mairie); operated by the communes", "tiers": "civil-status centres of Djibouti-Ville, since 2011"},
+    {"system": "Numérisation et indexation des registres existants", "country_label": "numérisation et indexation des registres existants", "class": "archive", "platform": "", "owner": "Ville de Djibouti", "tiers": "Djibouti-Ville: existing registers digitised and indexed when SIGEC was set up in 2011"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-07-maroc-loi-72-18-ciblage-appui-social-agence-nationale-registres",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national de la population", "country_label": "Registre national de la population (RNP)", "class": "identity", "platform": "", "owner": "Agence nationale des registres (the administration, transitionally, until the Agency's organs are installed)", "tiers": "national digital register of Moroccans and foreign residents, who may apply for inscription; holds biometrics and assigns the Identifiant digital civil et social"}
+  ],
+  "note": "Law 72-18 (enacted 2020-08-08) creates the population register, the unified social register and the Agence nationale des registres; it says nothing of civil-status offices or how births and deaths are registered."
+}

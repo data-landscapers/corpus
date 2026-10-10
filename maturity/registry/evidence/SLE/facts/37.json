@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-19 NCRA, Ministry of Agriculture partner on National Digital Farmer Registry integration",
+  "facts": [],
+  "systems": [
+    {"system": "Biometrics Digital ID and National Identification Number system", "country_label": "Biometrics Digital ID and NIN system; NIN database", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; to authenticate farmers for the Ministry of Agriculture's registry under an arrangement discussed in May 2025"},
+    {"system": "National Digital Farmer Registry", "country_label": "National Digital Farmer Registry", "class": "", "platform": "", "owner": "Ministry of Agriculture and Food Security, with the Food Systems Resilience Project; vendor Tiwai Memory Masters", "tiers": "In development; possible hosting at NCRA's data centre"},
+    {"system": "NCRA Tier 3 data centre", "country_label": "Tier 3 Data Centre", "class": "enabling", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; houses the country's civil registration and ID systems"}
+  ],
+  "note": "A farmer registry to be verified against the identity number; nothing on how births or deaths are registered."
+}

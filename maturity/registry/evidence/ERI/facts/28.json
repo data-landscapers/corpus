@@ -1,0 +1,15 @@
+{
+  "slug": "2018-09-26-eritrea-national-id-card-ecoi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National identity card",
+      "country_label": "national identity card (ER ID); new electronic card",
+      "class": "identity",
+      "platform": "",
+      "owner": "Department of Immigration and Nationality",
+      "tiers": "12 branch offices, applications approved at the Asmara headquarters; missions abroad; handwritten until 2014, an electronic card introduced from 2014-2015"
+    }
+  ],
+  "note": "Concerns the identity card only; a birth certificate is one of the documents an applicant submits, and nothing is said of how births or deaths are registered."
+}

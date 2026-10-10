@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-06-anip-rnpp-actes-naissance-securises",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques (Rnpp)", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national; enrolment requires a birth act or a supplementary judgment and gives the NPI; Beninese born abroad enrol at diplomatic missions or ANIP units"},
+    {"system": "Fichier national de l'état civil", "country_label": "fichier national de l'état civil", "class": "", "platform": "", "owner": "ANIP", "tiers": "national file; named as a source of the secured birth act, with no account of how events enter it"},
+    {"system": "Secured birth act delivery", "country_label": "délivrance de l'acte de naissance sécurisé", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "by ANIP's note of 5 May 2026 the secured act is produced from RNPP and national civil-status file data"},
+    {"system": "Reconstitution of old birth acts", "country_label": "reconstitution des anciens actes de naissance", "class": "archive", "platform": "", "owner": "ANIP", "tiers": "holders of old birth acts must have them reconstituted to obtain a secured act matching the national register (note of 5 May 2026)"},
+    {"system": "RNPP and national civil-status file link", "country_label": "", "class": "exchange", "platform": "", "owner": "ANIP", "tiers": "the secured birth act draws on both registers; RNPP enrolment rests on a birth act or supplementary judgment"}
+  ],
+  "note": "ANIP's instruction of 5 May 2026 on identity enrolment and the delivery of secured copies; it does not say how or where a new birth or death is recorded."
+}

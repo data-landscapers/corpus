@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-21 South Africa's digital ID gets a targeted launch date",
+  "facts": [],
+  "systems": [
+    {"system": "national digital identity system", "country_label": "digital identity", "class": "identity", "platform": "public key infrastructure, certificate authority, identity platform and digital wallet", "owner": "Department of Home Affairs, hosted in the South African Revenue Service's environment", "tiers": "hosting infrastructure due by 2027-03-31; credentials via mobile wallet targeted for 2027/28"},
+    {"system": "smart ID and passport services through bank branches", "country_label": "smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "bank branches"},
+    {"system": "Electronic Travel Authorisation", "country_label": "ETA", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "live since 2025-10-29"}
+  ],
+  "note": "The digital identity timeline in the 2026/27 Annual Performance Plan; nothing on civil registration."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-08-no-financial-transactions-with-ghana-card-yet-says-nia",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "national; not activated for financial transactions as of 8 April 2026"}
+  ],
+  "note": "The identification authority's denial that the card can make payments; nothing on civil registration."
+}

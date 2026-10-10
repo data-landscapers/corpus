@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-18-kenya-crvs-national-id-integration-egmrg",
+  "facts": [],
+  "systems": [
+    {"system": "CRVS-National ID integration", "country_label": "", "class": "exchange", "platform": "", "owner": "Civil Registration Services", "tiers": "parents' national ID details carried in birth records and the Birth Entry Number in national ID registration; stated as established by July 2026, with real-time exchange affected by connectivity gaps in remote areas"},
+    {"system": "central CRVS databases", "country_label": "", "class": "", "platform": "", "owner": "Civil Registration Services", "tiers": "central; described only as interoperable with the IPRS database"},
+    {"system": "Integrated Population Registration System", "country_label": "IPRS", "class": "identity", "platform": "", "owner": "", "tiers": "central"},
+    {"system": "Unique Personal Identifier", "country_label": "UPI", "class": "identity", "platform": "", "owner": "", "tiers": "planned as a lifelong identifier assigned at birth"}
+  ],
+  "note": "The Secretary of Civil Registration Services presents the link between the civil register and the national ID. He says registration processes were digitised to support real-time data sharing, without saying which processes, at which offices or for which events, so no fact on the offices' own entry is taken."
+}

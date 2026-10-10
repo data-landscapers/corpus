@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-immatriculation-taxpayer-registration-directorate-general-taxation-cameroon",
+  "facts": [],
+  "systems": [
+    {"system": "Immatriculation fiscale en ligne (NIU)", "country_label": "Immatriculation fiscale / Numéro d'Identifiant Unique (NIU)", "class": "", "platform": "", "owner": "Direction Générale des Impôts (DGI)", "tiers": "online only, by the taxpayer, on the DGI website"}
+  ],
+  "note": "The tax directorate's procedure page for taxpayer registration; a tax register, which the typology gives no class, and nothing on civil registration."
+}

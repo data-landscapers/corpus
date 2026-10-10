@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-08-benin-ere-numerique-revolution-administrative",
+  "facts": [],
+  "systems": [
+    {"system": "eservices.anip.bj and the ANIP BJ application", "country_label": "plateforme eservices.anip.bj; application mobile ANIP BJ", "class": "certificate", "platform": "web portal, mobile app", "owner": "ANIP", "tiers": "citizens retrieve birth and marriage acts and nationality certificates online; access for rural populations named as a remaining challenge (April 2025)"},
+    {"system": "service-public.bj", "country_label": "www.service-public.bj", "class": "", "platform": "web portal", "owner": "Government of Benin", "tiers": "national portal with more than 1,000 services digitised, over 210 fully dematerialised; it also carries land and cadastre services"}
+  ],
+  "note": "The document calls the online retrieval of civil-status documents the dematerialisation of civil status; it says nothing of how or where an event is recorded."
+}

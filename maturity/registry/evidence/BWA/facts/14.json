@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-10-government-modernises-land-administration-systems",
+  "facts": [],
+  "systems": [
+    {"system": "Land Information System", "country_label": "Land Information System", "class": "land", "platform": "", "owner": "Geospatial Information Centre", "tiers": "four-year upgrade programme starting 2026/27"},
+    {"system": "Deeds Registry", "country_label": "Deeds Registry", "class": "land", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "About land administration and the Deeds Registry, which the typology puts out of scope; nothing on civil registration."
+}

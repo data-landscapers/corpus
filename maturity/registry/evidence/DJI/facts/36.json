@@ -1,0 +1,9 @@
+{
+  "slug": "2019-01-21-djibouti-loi-39-an-19-rnpp",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques", "country_label": "registre national des personnes physiques (registre national)", "class": "identity", "platform": "", "owner": "Direction générale de la population et de la famille (keeping and access); ANSIE (technical management and data security)", "tiers": "national: central and single file of biographic and biometric data; the single reference for identifying individuals and producing secured documents, civil-status acts among them (Article 12)"},
+    {"system": "Numéro National d'Identification", "country_label": "Numéro National d'Identification (NNI)", "class": "identity", "platform": "", "owner": "Direction générale de la population et de la famille", "tiers": "national: attributed from birth to every person entered in a civil-status register, and to regularly resident foreigners; use mandatory for all institutions"}
+  ],
+  "note": "The founding law of the identity register and number; it makes the register the reference for producing civil-status acts but says nothing of how civil-status offices record events."
+}

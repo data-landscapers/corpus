@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-23-cog-adiac-sifec-etat-civil-operationnalisation",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "SIFEC was designed and developed by the state's Agence congolaise des systèmes d'information (ACSI) at the prompting of the Direction générale de l'administration du territoire, and on 22 September 2026 ACSI handed its operating documents to that directorate of the Ministry of the Interior and Decentralisation, according to Les Dépêches de Brazzaville.", "as_of": "2026-09-22", "date_precision": "day", "system": "Système intégré des faits d'état civil (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 22 September 2026 ACSI's director general handed the technical documents for putting SIFEC into operation to the director general of territorial administration, at a workshop in Kintélé presenting the platform's functions.", "as_of": "2026-09-22", "date_precision": "day", "system": "Système intégré des faits d'état civil (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "After the 22 September 2026 handover seven steps were still to come, the article says, among them an inventory, centralisation of data, training of users, finalising the civil status law's digitalisation phase, study visits with Côte d'Ivoire, change management and the deployment of the system; no office is said to be using SIFEC.", "as_of": "2026-09-22", "date_precision": "day", "system": "Système intégré des faits d'état civil (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "ACSI's director general said on 22 September 2026 that SIFEC is to improve the management of births, deaths, marriages and marginal notes; this is the system's stated scope, deployment being a step still ahead.", "as_of": "2026-09-22", "date_precision": "day", "system": "Système intégré des faits d'état civil (Sifec)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système intégré des faits d'état civil (Sifec)", "country_label": "Système intégré des faits d'état civil (Sifec)", "class": "civil", "platform": "software designed and developed in house by ACSI", "owner": "Ministère de l'Intérieur et de la Décentralisation, Direction générale de l'administration du territoire; built by ACSI", "tiers": "not deployed as at 22 September 2026; meant to digitalise the registration of civil status events and the production of statistics"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-02-19-mauritius-national-identity-card-unit",
+  "facts": [],
+  "systems": [
+    {"system": "MNIC 3.0", "country_label": "Mauritius National Identity Card (MNIC 3.0) system", "class": "identity", "platform": "", "owner": "Mauritius National Identity Card Unit", "tiers": "National Identity Card Centres across Mauritius and Rodrigues; operational since 19 February 2024"},
+    {"system": "Mobile ID digital wallet", "country_label": "mobile ID", "class": "identity", "platform": "", "owner": "Mauritius National Identity Card Unit", "tiers": "citizens' phones; may hold other digital documents such as a birth certificate in future"},
+    {"system": "MauPass", "country_label": "MauPass, National Authentication Framework", "class": "identity", "platform": "", "owner": "", "tiers": "citizens, for online government services; launched December 2020"},
+    {"system": "MauSign", "country_label": "MauSign", "class": "", "platform": "", "owner": "", "tiers": "certification authority issuing digital certificates to citizens and organisations"},
+    {"system": "MoRendezVous", "country_label": "MoRendezVous", "class": "", "platform": "", "owner": "", "tiers": "online appointment booking for government services"}
+  ],
+  "note": "The identity card unit's page: identity enrolment and cards only; a birth certificate is mentioned only as a document the wallet may hold in future."
+}

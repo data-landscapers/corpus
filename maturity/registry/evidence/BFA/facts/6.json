@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-burkina-faso-administration-signature-electronique-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "Service Public BF (national portal, 95 dematerialised procedures including civil status)", "country_label": "Service Public BF", "class": "certificate", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": "national online portal"}
+  ],
+  "note": "Forward notice of the electronic-signature launch; civil status appears only as one field covered by the portal's online procedures, with nothing on registration at an office."
+}

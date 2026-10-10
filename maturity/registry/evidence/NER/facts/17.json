@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-12-niger-tahoua-campagne-identite-legale-rnp",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Interior Ministry's own account of its campaign launch at Tahoua on 11 August 2026 lists, among the reforms it is carrying out, the computerisation of communes for civil status and the putting into service of a Registre National d'État Civil (RNEC); the campaign is run with the WURI project's support.", "as_of": "2026-08-11", "date_precision": "day", "system": "Registre National d'État Civil (RNEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "As at 11 August 2026 the Interior Ministry names computerisation of communes for civil status and the putting into service of the RNEC as reforms under way with the campaign, without saying how many communes are computerised or that the RNEC is in service.", "as_of": "2026-08-11", "date_precision": "day", "system": "Registre National d'État Civil (RNEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Registre National d'État Civil (RNEC)", "country_label": "Registre National d'État Civil (RNEC); informatisation des communes pour l'état civil", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur, de la Sécurité Publique et de l'Administration du Territoire", "tiers": "communes; extent not stated"},
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP)", "class": "identity", "platform": "", "owner": "future ANEI", "tiers": "to start in Niamey within weeks of August 2026, national extension from 2027"},
+    {"system": "Registre National des Nationalités (RNN)", "country_label": "Registre National des Nationalités (RNN)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "to be created"},
+    {"system": "carte biométrique and passeport AES", "country_label": "carte biométrique; passeport AES", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "campagne nationale d'information", "country_label": "campagne nationale d'information sur l'identité légale et les opérations d'enregistrement au RNP", "class": "outreach", "platform": "", "owner": "Ministère de l'Intérieur, with the WURI project", "tiers": "Tahoua, 11-12 August 2026"}
+  ],
+  "note": ""
+}

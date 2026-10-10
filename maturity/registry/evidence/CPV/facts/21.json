@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-cabo-verde-ine-estatisticas-vitais-2023-registo-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Estatísticas Vitais (INE's fifth vital statistics report, for 2023, built on the administrative records of the Registos, Notariado e Identificação)", "country_label": "Estatísticas Vitais", "class": "exchange", "platform": "", "owner": "Instituto Nacional de Estatística, from RNI records", "tiers": "national; 6,760 births, 2,925 deaths and 2,435 marriages in 2023, with figures by municipality"}
+  ],
+  "note": "INE's vital statistics for 2023 are drawn from the civil registry's administrative records, a link from the register to statistics; the article does not say how the records are made or name the registry's system."
+}

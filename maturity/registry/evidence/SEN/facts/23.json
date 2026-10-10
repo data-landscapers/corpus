@@ -1,0 +1,16 @@
+{
+  "slug": "2026-08-05-senegal-civil-registration-digitalization-anec",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:70%", "fact": "ANEC's director general Matar Ndao said that nearly 70% of the country's civil-status centres were digitalised, with no count given, and that the aim was full national coverage by the end of 2026; the interview is undated, so the published date is used.", "as_of": "2026-08-05", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "ANEC's own teams deploy the LGEC in the regions under a national remediation plan, per its director general in an interview published 5 August 2026 (published date used).", "as_of": "2026-08-05", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "ANEC's director general cites a Plan national de remédiation du Logiciel de gestion de l'état civil (LGEC) under way and says the agency is finalising the implementation of its Plan stratégique de développement 2026-2030; published date used.", "as_of": "2026-08-05", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "ANEC's director general said the LGEC had passed its pilot phase and that, after Dakar and Thiès, teams were deploying it in the Diourbel, Fatick and Louga regions; published date used.", "as_of": "2026-08-05", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Logiciel de gestion de l'état civil (LGEC)", "country_label": "LGEC", "class": "civil", "platform": "", "owner": "Agence nationale de l'État civil (ANEC)", "tiers": "civil-status centres, used by their agents; Dakar and Thiès done, Diourbel, Fatick and Louga under way"},
+    {"system": "Sama État Civil", "country_label": "Sama État Civil", "class": "", "platform": "", "owner": "ANEC", "tiers": "platform being deployed with the LGEC; the document does not say what it does"},
+    {"system": "plateforme de pré-déclaration", "country_label": "plateforme de pré-déclaration", "class": "notification", "platform": "", "owner": "ANEC", "tiers": "health facilities; developed, to let them notify each birth to the competent centre; not stated as in service"},
+    {"system": "audiences foraines", "country_label": "audiences foraines", "class": "outreach", "platform": "", "owner": "the courts; not organised by ANEC", "tiers": ""}
+  ],
+  "note": "On how the record is made the director general says only that digitalisation does not replace the physical register, that declarations are still received in the centres as the law requires and that the software simplifies the agents' work; this does not say whether the record stays in the office or reaches a national register, so no `made` fact is written."
+}

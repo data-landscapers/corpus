@@ -1,0 +1,98 @@
+{
+  "slug": "2026-07-18-dgdec-etat-civil-digitalisation-egmrg",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Director General of Decentralisation and Civil Registration (DGDEC, MATDDL), presenting on 18 July 2026, gives the context for digitalisation as an all-paper system, 77% manual, with 70% of civil registration centres without electricity; the presentation does not say what the 77% is a share of.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "centres d'état civil (registration on paper)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The DGDEC states on 18 July 2026 that an integrated Central African civil registration software is under development, to cover births, marriages and deaths, and lists its deployment among the next steps; an operational map of 45 centres has been validated.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "logiciel d'état civil intégré centrafricain (Logiciel de gestion de l'état civil)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The presentation is the DGDEC's own, and gives the MATDDL the mission of drawing up and carrying out national civil registration policy and overseeing the civil registration centres; the software is described as developed for Central African autonomy, with the MODERO project (CIVIPOL as technical operator) in support.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "logiciel d'état civil intégré centrafricain (Logiciel de gestion de l'état civil)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The DGDEC states on 18 July 2026 that the legal framework is strictly aligned with the Politique Nationale de l'État Civil (PNEC) and names deployment of the civil registration management software as a next step; it does not say the PNEC names the software.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "logiciel d'état civil intégré centrafricain (Logiciel de gestion de l'état civil)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The presentation is made with the support of the MODERO project, financed by the European Union with CIVIPOL as technical operator; no domestic budget line is stated.",
+      "as_of": "2026-07-18",
+      "date_precision": "day",
+      "system": "logiciel d'état civil intégré centrafricain (Logiciel de gestion de l'état civil)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Logiciel de gestion de l'état civil",
+      "country_label": "logiciel d'état civil intégré centrafricain",
+      "class": "civil",
+      "platform": "locally developed, not named",
+      "owner": "MATDDL (DGDEC), with MODERO (EU / CIVIPOL)",
+      "tiers": "in development; deployment a next step; scope births, marriages and deaths"
+    },
+    {
+      "system": "Registre National de l'Etat Civil (RNEC)",
+      "country_label": "Registre National de l'Etat Civil (RNEC); base de données nationale centralisée de l'état civil",
+      "class": "archive",
+      "platform": "",
+      "owner": "MATDDL (DGDEC)",
+      "tiers": "national centralised database of more than 225,000 birth certificates, fed as the last step of the late-registration process and by the scanning of documents"
+    },
+    {
+      "system": "Plateforme de rattrapage (processus dématérialisé en 7 étapes)",
+      "country_label": "Plateforme; équipes mobiles autonomes sur kits solaires",
+      "class": "outreach",
+      "platform": "tablets / Kobo in rural areas",
+      "owner": "MATDDL (DGDEC), with MODERO (EU / CIVIPOL)",
+      "tiers": "late registration of children past the legal deadline: single entry and automated judgments and birth certificates, court control, act drawn up at the mairie, then integration into the RNEC; carried by mobile teams; 477,927 acts issued across the network"
+    },
+    {
+      "system": "Numérisation des documents d'état civil",
+      "country_label": "numérisation des documents d'état civil",
+      "class": "archive",
+      "platform": "",
+      "owner": "MATDDL (DGDEC)",
+      "tiers": "operations under way, July 2026; 56% of birth registers degraded"
+    },
+    {
+      "system": "Réhabilitation et équipement des centres d'état civil",
+      "country_label": "centres d'état civil",
+      "class": "enabling",
+      "platform": "solar power, premises, computer equipment",
+      "owner": "MATDDL (DGDEC), with MODERO",
+      "tiers": "civil registration centres; 70% of centres without electricity"
+    }
+  ],
+  "note": ""
+}

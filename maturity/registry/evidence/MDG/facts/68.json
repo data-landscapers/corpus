@@ -1,0 +1,17 @@
+{
+  "slug": "2020-10-08-worldbank-prodigy-financing-agreement",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The Financing Agreement signed on 8 October 2020 has IDA extend a USD 140,000,000 credit for PRODIGY, whose Part 1 is to pay for the development, acquisition and implementation of a national civil registration platform (back-end, front-end and databases), civil registration transfers to communes and the operating costs of the national civil registration and identification centre.", "as_of": "2020-10-08", "date_precision": "day", "system": "national civil registration platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Financing Agreement signed on 8 October 2020 provides for the operationalization of the National Civil Registration and Identification Center (NCRIC) to manage two national civil registration and identification databases, and makes failure to adopt the NCRIC legal framework an event of suspension.", "as_of": "2020-10-08", "date_precision": "day", "system": "national civil registration platform", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "national civil registration platform", "country_label": "", "class": "civil", "platform": "", "owner": "National Civil Registration and Identification Center (NCRIC)", "tiers": "to be developed: back-end, front-end and databases, with digital services and equipment for selected communes and civil registration offices"},
+    {"system": "digitalization of civil registration and identity archive records", "country_label": "", "class": "archive", "platform": "", "owner": "", "tiers": "equipment and services to be acquired under the project"},
+    {"system": "digitalization of notifications from health centers and health workers", "country_label": "", "class": "notification", "platform": "", "owner": "", "tiers": "health centers and community workers, for births and deaths occurring in health facilities"},
+    {"system": "Unique Identifier Numbers (UIN) from birth", "country_label": "", "class": "identity", "platform": "", "owner": "NCRIC; Ministry of Interior and Decentralization", "tiers": "national, to be adopted"},
+    {"system": "upgraded national identity card with biometric enrollment", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "biometric enrollment to start in selected regions, for the population over 18"},
+    {"system": "secure identity authentication system", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "to be developed and rolled out"},
+    {"system": "ID-M interoperability protocols", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "part of the civil registration platform's specification"}
+  ],
+  "note": "A financing agreement: everything it names is to be built, and it states nothing on what offices then did."
+}

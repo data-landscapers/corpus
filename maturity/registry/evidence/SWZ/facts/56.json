@@ -1,0 +1,10 @@
+{
+  "slug": "2022-02-12-eswatini-crvs-phase-two-launch",
+  "facts": [],
+  "systems": [
+    {"system": "closing of the tap initiative", "country_label": "closing of the tap initiative", "class": "", "platform": "", "owner": "Ministry of Home Affairs and Ministry of Health", "tiers": "aims that no hospital birth goes unregistered; seen at the Manzini civil registration and identity management offices; how the record is made is not described"},
+    {"system": "mobile registration", "country_label": "mobile registration for hard-to-reach populations", "class": "outreach", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "trucks equipped with registration equipment and materials, used as a mop-up strategy for unregistered births"},
+    {"system": "identity management component", "country_label": "ID offices; identity management", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "being digitised; described as an opportunity to link with birth and death registration for a real-time population register"}
+  ],
+  "note": "A report of a UNECA mentorship mission (workshop around December 2021): it describes a hospital birth-registration initiative, mobile mop-up registration and digitisation of identity management, and a CRVS strategy 2021-2026 still being drafted, but does not say how or where a birth or death record is entered; no civil-class fact."
+}

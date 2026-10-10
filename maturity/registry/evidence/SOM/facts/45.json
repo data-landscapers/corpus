@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-14-somalia-civil-registration-overhaul",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration Management and Vital Statistics System (CRMVS)", "country_label": "CRMVS", "class": "", "platform": "built by Pakistan's NADRA", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "delivered to Somali authorities in November 2024 with NADRA funding and technical assistance; rollout announced January 2025, no offices or tiers stated"},
+    {"system": "National Identity Management System (NIMS)", "country_label": "NIMS; National Identification System (SNID) project", "class": "identity", "platform": "built by Pakistan's NADRA", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "inaugurated September 2023 by this document's account; registration offices planned for each district"}
+  ],
+  "note": "The CRMVS is named and dated but the document does not say what it does beyond providing reliable citizen identification: no events registered, no offices, no account of how a record is made, so it is left unclassified and gives no fact."
+}

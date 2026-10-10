@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-no-longer-invisible-legal-identity-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "Izaho Tokana", "country_label": "Izaho Tokana (mass biometric enrollment operation)", "class": "identity", "platform": "", "owner": "Ministry of Interior staff, supported by PRODIGY (World Bank and Global Financing Facility)", "tiers": "more than 2,000 mobile teams with biometric kits since April 2026, 26 days a month, feeding a de-duplicated biometric database; over 3.25 million adults enrolled as of 10 June 2026; a law of 28 May 2026 lets births be registered en masse within the operation"}
+  ],
+  "note": "Describes the identity enrolment campaign and the law letting it lead to birth certificates for adults; says births are registered in about 1,700 communes but does not say how a commune office makes the record."
+}

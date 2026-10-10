@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-25-namibia-electronic-id-rollout-september-2026",
+  "facts": [],
+  "systems": [
+    {"system": "electronic identity (E-ID) cards", "country_label": "E-ID", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security, with the Office of the Prime Minister giving oversight and technology support", "tiers": "national; rollout scheduled September 2026 over the ministry's existing nationwide registration infrastructure and mobile registration campaigns"},
+    {"system": "national population register", "country_label": "national population register", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security; key components managed by the Office of the Prime Minister", "tiers": "national; the register on which the E-ID system is built"},
+    {"system": "mobile registration campaigns", "country_label": "mobile registration campaigns", "class": "outreach", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "remote and underserved communities, served regularly"},
+    {"system": "electronic identity verification for social grants", "country_label": "", "class": "exchange", "platform": "", "owner": "Office of the Prime Minister", "tiers": "used to stop payments to deceased beneficiaries; about N$16 million said to be saved on social grants"}
+  ],
+  "note": "A briefing on the electronic identity card and the identity management system; nothing on how or where births and deaths are entered in the civil register."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2023-05-01-cabo-verde-tor-health-information-electronic-prescription-system",
+  "facts": [],
+  "systems": [
+    {"system": "RNI/SNIAC", "country_label": "RNI/SNIAC", "class": "exchange", "platform": "", "owner": "", "tiers": "Web-service link from the Ministry of Health's SIS: to register a patient the SIS searches the RNI database by ID or birth certificate to identify and confirm the user; marked DONE"},
+    {"system": "CNI (National Identification Registry)", "country_label": "CNI", "class": "identity", "platform": "", "owner": "", "tiers": "The SIS user registration system is to be integrated with it"},
+    {"system": "Autentika", "country_label": "Autentika", "class": "identity", "platform": "", "owner": "State of Cabo Verde", "tiers": "National electronic identity and authentication platform with single sign-on"}
+  ],
+  "note": "Terms of reference for upgrading the health information system (SIS), dated May 2023 by inference; a birth certificate appears only as a key for looking a patient up in the RNI database. A childbirth module is among those to be developed, with no statement that it notifies or registers births. Nothing on how a civil registration office records a birth or death. PDEX is named as the state interoperability platform, with no link to the civil register described."
+}

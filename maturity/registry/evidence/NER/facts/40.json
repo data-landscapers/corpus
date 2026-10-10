@@ -1,0 +1,11 @@
+{
+  "slug": "2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "WURI Niger birth registration pilot", "country_label": "birth registration pilot, Filingué", "class": "outreach", "platform": "", "owner": "WURI Niger project", "tiers": "Filingué administrative area; 21,202 under-fives without birth certificates targeted"},
+    {"system": "Digitization of existing birth records", "country_label": "digitization of existing birth records", "class": "archive", "platform": "", "owner": "WURI Niger project", "tiers": "local councils and judicial officers in the Filingué area"},
+    {"system": "Norwegian Refugee Council birth certificate digitization", "country_label": "project to digitize birth certificates", "class": "archive", "platform": "", "owner": "Norwegian Refugee Council", "tiers": ""},
+    {"system": "MOSIP-based national digital ID", "country_label": "national digital ID program", "class": "identity", "platform": "MOSIP", "owner": "", "tiers": "pilot powered by BioEnable completed"}
+  ],
+  "note": "A campaign pilot issuing birth certificates to under-fives and scanning existing records; no office is described as registering digitally."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2025-10-10-burundi-rapport-initial-crpd-c-bdi-1",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Government of Burundi's own report states that ordinary registration continues as usual although the civil-status services 'currently' suffer from a lack of computerised data; the report gives no date for the statement, so its date of receipt by the UN, 3 December 2021, is used rather than its 2025 publication date.",
+      "as_of": "2021-12-03",
+      "date_precision": "day",
+      "system": "services d'état civil",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "services d'état civil",
+      "country_label": "bureau de l'état civil",
+      "class": "civil",
+      "platform": "none stated; the report says the services lack computerised data",
+      "owner": "",
+      "tiers": "the civil-status office of the mother's domicile, where a birth is declared within fifteen days; provincial civil-status controllers"
+    }
+  ],
+  "note": "The value 'paper' is the nearest closed value to the report's words (a lack of computerised data); the report does not use the word paper. Also stated, with no aspect to carry it: a national ad hoc steering committee chaired by the First Vice-President, functional since 2014; distance from civil-status offices listed first among causes of non-registration; 84% of under-fives registered (EDS 2016-2017), from 54% in Kirundo to 94% in Gitega."
+}

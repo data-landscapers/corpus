@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-01-rapport-audit-mndpt-cour-des-comptes",
+  "facts": [],
+  "systems": [
+    {"system": "e-Fokontany", "country_label": "e-Fokontany; carnet électronique à QR code « Karinempokontany »", "class": "identity", "platform": "", "owner": "ministère du Développement Numérique (MNDPT); financed from the MNDPT's general and annex budgets, the FDTIC, the Présidence and PRODIGY", "tiers": "digitisation of household data for administration at fokontany level; 5,882,085 QR-code booklets printed and distributed to the districts as at 9 September 2025 against a target of 5,817,968 households; the Cour des Comptes states it is not yet fully functional"},
+    {"system": "identifiants uniques", "country_label": "mise en place des identifiants uniques", "class": "", "platform": "", "owner": "named among the MNDPT's projects", "tiers": ""}
+  ],
+  "note": "An audit of the digital ministry's finances (truncated capture); it covers e-poketra payment cards and the e-Fokontany household register and says nothing of civil registration."
+}

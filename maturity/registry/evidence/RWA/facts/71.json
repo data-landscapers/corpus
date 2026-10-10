@@ -1,0 +1,19 @@
+{
+  "slug": "2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D",
+     "fact": "DHIS2 states that the NCI-CRVS system was launched in 2020 and that birth and death, with cause of death, were its first two modules deployed.",
+     "as_of": "2020", "date_precision": "year", "system": "NCI-CRVS System", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected",
+     "fact": "DHIS2 states that a birth is registered at the health facility: a data manager or nurse enters the newborn in the CRVS system, the health centre head or nursing and midwifery director registers it, and a national identity number is issued and sent to the parent by message; the document gives no date for the practice, so its publication date is used.",
+     "as_of": "2022-04-28", "date_precision": "day", "system": "NCI-CRVS System", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "NCI-CRVS System", "country_label": "NCI-CRVS", "class": "civil", "platform": "", "owner": "", "tiers": "health facilities, where births are registered"},
+    {"system": "Web-based application for civil status events", "country_label": "", "class": "", "platform": "", "owner": "National Institute of Statistics of Rwanda, with the Ministry of Local Government, the Ministry of Health and NIDA", "tiers": "collection, storage and production of data on civil status events; where it is used is not stated"},
+    {"system": "National Person Registry", "country_label": "NPR", "class": "identity", "platform": "", "owner": "", "tiers": "interoperable with CRVS through a unique identification number assigned at birth"},
+    {"system": "CRVS link to the Electronic Immunization Registry", "country_label": "EIR", "class": "exchange", "platform": "DHIS2 Tracker in the national HMIS; a custom script pushes registered newborns from CRVS", "owner": "Ministry of Health EPI programme, supported by HISP Rwanda", "tiers": "all public and private health facilities offering routine vaccination; integration built in 2021 and early 2022, complete and validated as of April 2022"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "certificate", "platform": "", "owner": "", "tiers": "online portal where the digital birth certificate is requested with the child's national identity number"}
+  ],
+  "note": ""
+}

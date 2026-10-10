@@ -1,0 +1,10 @@
+{
+  "slug": "2020-11-01-mauritanie-etude-cadrage-digitalisation-services-publics-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "système d'information d'état civil", "country_label": "état civil (one of the 'systèmes d'information régaliens')", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Guichet en ligne pour l'accès aux services d'État civil et des titres sécurisés", "country_label": "Guichet en ligne pour l'accès aux services d'État civil et des titres sécurisés", "class": "certificate", "platform": "", "owner": "", "tiers": "listed as a planned online service in the 2012-2016 administration modernisation and ICT strategy"},
+    {"system": "Etat civil et papiers d'identité (first lot of digital services)", "country_label": "Etat civil et papiers d'identité", "class": "certificate", "platform": "proposed national digital services platform (portal, API gateway, identity management)", "owner": "MIDEC / ANRPTS", "tiers": "proposed for deployment from 2021: online requests for birth and death acts, extracts, rectification and regularisation of civil status, pre-requests for identity card and passport"}
+  ],
+  "note": "The passages state only that a civil status information system exists among the state's core systems (November 2020), without saying what it does or where it is used, and propose online request services for acts, which are of class certificate; nothing on how an office makes the record."
+}

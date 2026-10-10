@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-13-undp-somalia-digital-transformation-2025-highlights",
+  "facts": [],
+  "systems": [
+    {"system": "national identity system", "country_label": "National ID", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA), with UNDP technical support", "tiers": "NIRA centres, Baidoa among them; mobile registration models reached 38,026 displaced persons within a month"},
+    {"system": "Hubiye eKYC", "country_label": "Hubiye eKYC platform", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "real-time identity verification for 1.2 million citizens across 25 integrated services, the commercial banks among them"}
+  ],
+  "note": "UNDP's review of 2025: the national identity system, its verification platform and mobile identity registration of displaced persons; nothing is stated on the registration of births or deaths."
+}

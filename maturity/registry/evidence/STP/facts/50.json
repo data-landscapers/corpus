@@ -1,0 +1,17 @@
+{
+  "slug": "2021-08-09-sao-tome-resolucao-35-2020-estrategia-governacao-digital",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The national digital governance strategy annexed to Resolução 35/2020 states that in 2016 DGRN, with INIC, began developing an electronic birth registration system with issuance of the corresponding certificates, and that the Sistema Integrado de Gestão de Assentos (SIGA) is in production, still under continuous improvement; the strategy's final version is dated June 2020.", "as_of": "2020-06", "date_precision": "month", "system": "Sistema Integrado de Gestão de Assentos (SIGA)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The strategy states that the Direção Geral de Registo e Notariado (DGRN), in collaboration with INIC, began developing the electronic birth registration system in 2016, and that SIGA runs on a cloud platform from the University of Aveiro, Portugal.", "as_of": "2016", "date_precision": "year", "system": "Sistema Integrado de Gestão de Assentos (SIGA)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The strategy states that the electronic birth registration system was begun in 2016 under the PASP PALOP-TL project for improving public services, with European Union support; no domestic budget line is stated.", "as_of": "2016", "date_precision": "year", "system": "Sistema Integrado de Gestão de Assentos (SIGA)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Council of Ministers approved the Estratégia Nacional para a Governação Digital for 2020/2024 on 16 July 2020 (Resolução 35/2020, gazetted 9 August 2021); the strategy names SIGA in its account of past initiatives, and the captured excerpt stops before its justice and citizenship measures, so what it plans for the system is not in the capture.", "as_of": "2020-07-16", "date_precision": "day", "system": "Sistema Integrado de Gestão de Assentos (SIGA)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Gestão de Assentos (SIGA)", "country_label": "SIGA", "class": "civil", "platform": "Cloud platform run from the University of Aveiro, Portugal", "owner": "Direção Geral de Registo e Notariado (DGRN), with INIC", "tiers": "not stated; in production"},
+    {"system": "Identidade Digital", "country_label": "Identidade Digital", "class": "identity", "platform": "", "owner": "", "tiers": "proposed; state certification infrastructure and qualified digital signature"},
+    {"system": "Plataforma de Autenticação", "country_label": "Plataforma de Autenticação", "class": "identity", "platform": "single sign-on", "owner": "", "tiers": "proposed"},
+    {"system": "Plataforma de Interoperabilidade", "country_label": "Plataforma de Interoperabilidade", "class": "exchange", "platform": "", "owner": "", "tiers": "proposed"},
+    {"system": "Passaporte electrónico", "country_label": "passaporte electrónico", "class": "identity", "platform": "", "owner": "Serviço de Migração e Fronteiras (SMF)", "tiers": "not stated; launched 2018, replacing the biometric passport of 2008"}
+  ],
+  "note": "Stored as an excerpt, truncated at the fetch limit in chapter 3; the sector measures (including justice and citizenship) are not in the capture. The annex is the same strategy as n 51."
+}

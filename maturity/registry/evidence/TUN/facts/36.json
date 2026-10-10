@@ -1,0 +1,9 @@
+{
+  "slug": "2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)",
+  "facts": [],
+  "systems": [
+    {"system": "E-Houwiya", "country_label": "E-Houwiya (mobile ID)", "class": "identity", "platform": "mobile ID with a personal X.509 certificate and qualified mobile signature", "owner": "ICT department with the National Digital Certification Agency, the National Computer Center and local telecom operators", "tiers": "nationwide since 2 August 2022; 200,000 subscribers as of March 2025, over 15,000 of them abroad; issued to holders of a physical identity card aged over 18"},
+    {"system": "E-Bawaba", "country_label": "E-Bawaba", "class": "", "platform": "government portal", "owner": "", "tiers": "one of the government portals E-Houwiya signs in to"}
+  ],
+  "note": "A former minister's account of the mobile digital identity; an identity system, with nothing on civil registration."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-23-lanation-carte-nationale-identite-biometrique",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques", "country_label": "Registre national des personnes physiques (RNPP); base nationale de la population; plateforme nationale", "class": "identity", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "DGPF central headquarters: enrolment of fingerprints, iris, photograph and electronic signature, with automatic issue of the NNI; marriage acts, supplementary judgments and other civil-status procedures are also recorded in the platform"},
+    {"system": "Electronic archiving of civil-status acts", "country_label": "numérisation des archives", "class": "archive", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "DGPF: birth, marriage and death acts, full copies and court decisions are being progressively archived in electronic form; supporting documents are scanned"},
+    {"system": "Carte nationale d'identité biométrique", "country_label": "carte nationale d'identité biométrique", "class": "identity", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "issued at the DGPF central headquarters; replaces the earlier 'carte numérique'"}
+  ],
+  "note": "Describes identity enrolment and the electronic archiving of acts at the DGPF; it does not say that an office makes a digital record of a birth or death when it is declared, so no civil-class fact."
+}

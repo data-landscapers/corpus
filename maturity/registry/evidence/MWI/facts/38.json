@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Registration and Identification System (NRIS)", "country_label": "National Registration and Identification System (NRIS) / National Identity Card (NIC)", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global dataset on adult ID ownership and digital ID; for Malawi it names only the foundational ID system and credential in Annex D and states nothing about how any civil registration office records births or deaths."
+}

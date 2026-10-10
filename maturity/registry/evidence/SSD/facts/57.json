@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-south-sudan-birth-notification-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "birth notification system", "country_label": "birth notification system", "class": "notification", "platform": "", "owner": "Ministry of Health, supported by UNICEF South Sudan", "tiers": "implemented in several health centers; non-operational since 2018 (as assessed in 2021)"},
+    {"system": "CRVS system", "country_label": "CRVS system", "class": "", "platform": "", "owner": "Ministry of Health (a stated goal)", "tiers": "not built; a goal, to track births, deaths, marriages, divorces and fetal deaths and incorporate the birth notification system"}
+  ],
+  "note": "The only system described is a health-facility birth notification system, non-operational since 2018 per a 2021 assessment: class notification, so no fact. The CRVS system is a goal with no description of who makes the record."
+}

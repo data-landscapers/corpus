@@ -1,0 +1,23 @@
+{
+  "slug": "2021-01-01-lesotho-social-protection-programs-and-systems-review-policy-brief",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Birth registration database",
+      "country_label": "birth registration database",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as a database to which social assistance programmes' links are weak (2021); what it does is not described"
+    },
+    {
+      "system": "ID database",
+      "country_label": "ID database",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as a database to which social assistance programmes' links are weak (2021); what it does is not described"
+    }
+  ],
+  "note": "A social protection review; its one relevant sentence says links from social assistance programmes to the ID and birth registration databases are weak. Nothing on how or where births and deaths are registered."
+}

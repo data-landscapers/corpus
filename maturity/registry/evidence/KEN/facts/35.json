@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-14-proof-of-existence",
+  "facts": [],
+  "systems": [
+    {"system": "Maisha Namba", "country_label": "Maisha Namba; Unique Personal Identifier", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "launched November 2023; identifier assigned at birth; KSh 15.13 billion allocated for 2024-25 with targets of 7.5 million identity cards and 6.3 million birth certificates; rollout suspended by the High Court"},
+    {"system": "eCitizen", "country_label": "eCitizen", "class": "", "platform": "", "owner": "", "tiers": "over 16,000 public services"},
+    {"system": "nationwide mobile registration campaign", "country_label": "", "class": "outreach", "platform": "", "owner": "", "tiers": "announced by the government, for identity enrolment"}
+  ],
+  "note": "An article on the identity system and the litigation against it; birth registration appears as a 2024-25 target of 6.3 million certificates and in an expert witness's warning about a fully online approach, with nothing on how offices register."
+}

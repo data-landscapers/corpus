@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-02-cei-point-de-presse-liste-electorale-definitive-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Liste électorale (biometric electoral roll)", "country_label": "liste électorale définitive 2025", "class": "land", "platform": "", "owner": "Commission Électorale Indépendante (CEI)", "tiers": "national: 8,727,431 voters; consultable on cei.ci and by SMS from 4 June 2025"}
+  ],
+  "note": "The electoral roll (an electoral register, which the typology places with class land, out of scope); civil status acts are mentioned only as a source of the roll's imperfections."
+}

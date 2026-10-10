@@ -1,0 +1,15 @@
+{
+  "slug": "2022-10-01-zwe-rbz-collateral-registry-user-manual",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Collateral Registry System (CRS)",
+      "country_label": "Collateral Registry",
+      "class": "land",
+      "platform": "centralised web-based software, not named",
+      "owner": "Reserve Bank of Zimbabwe",
+      "tiers": "national, online; used without visiting the registry office"
+    }
+  ],
+  "note": "User manual of the Reserve Bank's register of security interests in movable property (October 2022): a commercial register, out of scope, classed with the land and business registers as the nearest class. Nothing on civil registration; the study term matched 'registry office' in that sense only."
+}

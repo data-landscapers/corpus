@@ -1,0 +1,14 @@
+{
+  "slug": "2025-04-14-decrets-npi-rnpp-protection-donnees-personnelles",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Decree D/2025/053 of 14 April 2025 provides that civil status officers reach the system through secure authentication and may register civil status events on paper and on electronic support, and that the means of authentication are issued and renewed by the body in charge of civil status and identification.", "as_of": "2025-04-14", "date_precision": "day", "system": "système d'enregistrement des faits d'état civil sur support électronique (décret D/2025/053)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "système d'enregistrement des faits d'état civil sur support électronique (décret D/2025/053)", "country_label": "le système; enregistrement des faits d'état civil sur support papier et électronique", "class": "civil", "platform": "", "owner": "l'organe en charge de l'état civil et de l'identification des personnes physiques", "tiers": "civil status and identification centres, under the civil status officer; declaration agents declare events on paper booklets sent monthly to the centre, or electronically"},
+    {"system": "Registre National de l'État Civil (RNEC)", "country_label": "Registre National de l'Etat Civil (RNEC)", "class": "", "platform": "", "owner": "", "tiers": "communal civil status registers are named beside it"},
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "Registre National des Personnes Physiques (RNPP)", "class": "identity", "platform": "", "owner": "l'organe en charge de l'état civil et de l'identification des personnes physiques", "tiers": "communal and consular registers of persons kept by the civil status officer and the consular agent, centralised nationally"},
+    {"system": "Numéro personnel d'identification (NPI)", "country_label": "numéro personnel d'identification (NPI)", "class": "identity", "platform": "", "owner": "l'organe en charge de l'état civil et de l'identification des personnes physiques", "tiers": ""},
+    {"system": "link from civil status to the population register and identification number", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "the number is instituted for every Guinean on the issue of the birth act; the population register is fed by the national civil status register, and the communal register of persons is kept up to date by the communal civil status register"}
+  ],
+  "note": "Three decrees of 14 April 2025, an excerpt that stops at Article 9 of the third. They are legal provisions and state no office count and nothing on what is in use: the third decree allows registration on paper or electronically without saying which is done, so no fact on events, how the record is made or offices."
+}

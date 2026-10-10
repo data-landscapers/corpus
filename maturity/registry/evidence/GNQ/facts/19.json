@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-09-ministerio-seguridad-anteproyecto-2026-digitalizacion-afis",
+  "facts": [],
+  "systems": [
+    {"system": "CNEDOGE official-document issuance services", "country_label": "CNEDOGE", "class": "identity", "platform": "", "owner": "Centro Nacional de Emisión de Documentos de Guinea Ecuatorial (CNEDOGE)", "tiers": "not stated; its 2026 draft budget is for strengthening and modernising the centre's services"},
+    {"system": "AFIS criminal database", "country_label": "base de datos criminales (AFIS)", "class": "", "platform": "AFIS", "owner": "Ministerio de Seguridad Nacional", "tiers": "not stated; listed for reactivation in the ministry's 2026 draft budget"}
+  ],
+  "note": "The security ministry's and CNEDOGE's 2026 draft budgets; nothing on civil registration."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2021-07-30-wb-gab-001-digital-gabon-project",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digitalised civil registration (Digital Gabon Project scope)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Project implemented by CN-TIPPEE; Ministry of Communication and Digital Economy with ANINF support (2021 PAD entry)",
+      "tiers": ""
+    },
+    {
+      "system": "Unique digital ID (Digital Gabon Project scope)",
+      "country_label": "",
+      "class": "identity",
+      "platform": "",
+      "owner": "Project implemented by CN-TIPPEE; Ministry of Communication and Digital Economy with ANINF support (2021 PAD entry)",
+      "tiers": ""
+    }
+  ],
+  "note": "A deal record: the World Bank's US$68.5m Digital Gabon loan (IBRD, approved 30 July 2021, agreement signed 2 January 2024, effective 30 July 2024, closing 30 June 2026) lists 'digitalised civil registration' in its scope beside a unique digital ID, with no description of what the civil registration component does or where; named only, so no fact. All results indicators were at baseline in December 2024 and disbursement about 7% in February 2026, stated for the project as a whole."
+}

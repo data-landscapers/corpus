@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-15-deskeco-rdc-pass-lancement-agents",
+  "facts": [],
+  "systems": [
+    {"system": "Système national d'identification numérique (RDC-PASS)", "country_label": "RDC-PASS", "class": "identity", "platform": "technology support from Trident Digital Tech DRC Africa SAS", "owner": "ministry of the Digital Economy", "tiers": "not stated; launched officially in Kinshasa on Saturday 13 June 2026"}
+  ],
+  "note": "The launch of the RDC-PASS digital identifier, which the President says is not a national identity card and replaces neither the competent institutions nor official documents; civil registration is not mentioned."
+}

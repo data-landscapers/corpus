@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-31-interoperable-birth-registration-digital-id-plans",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Biometric Update reported on 31 July 2026 that the authorities, through the director-general of the Civil Registry directorate, are working out plans to digitise civil registration and the national ID system and link them, so that births are declared to the civil registry from health facilities as they happen; it is a plan, with no system in operation described.", "as_of": "2026-07-31", "date_precision": "day", "system": "unified digital civil registration", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The planned digital civil registration is led by the Directorate of Civil Registry, Nationality, Passport and Immigration, which says it is to be the body issuing birth certificates, with the Ministries of Justice, Interior and Health collaborating (director-general Elia Costa, reported 31 July 2026).", "as_of": "2026-07-31", "date_precision": "day", "system": "unified digital civil registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "unified digital civil registration", "country_label": "unified digital civil registration", "class": "civil", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration", "tiers": "planned; none stated"},
+    {"system": "civil registration and national ID linkage", "country_label": "civil registration-national ID digitization and linkage", "class": "exchange", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration", "tiers": "planned"},
+    {"system": "birth notification from health facilities", "country_label": "", "class": "notification", "platform": "", "owner": "health facilities, notifying the Directorate of Civil Registry", "tiers": "planned: hospitals and other health facilities"},
+    {"system": "national ID system", "country_label": "national ID system", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document also gives birth registration as currently estimated at about 10 percent; a share of births registered is not a share of offices and is not recorded as a fact."
+}

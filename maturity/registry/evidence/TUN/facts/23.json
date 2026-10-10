@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-25-pm-conseil-ministeriel-restreint-services-consulaires-numeriques",
+  "facts": [],
+  "systems": [
+    {"system": "بوابة القنصلية الرقمية / منصة الخدمات القنصلية الرقمية (digital consular portal)", "country_label": "بوابة القنصلية الرقمية", "class": "", "platform": "", "owner": "government (ministerial council decision, Présidence du Gouvernement)", "tiers": "consulates abroad: the council of 25 April 2026 decided to develop the digitisation of consular services, naming remote extraction of civil status documents and the procedures for registering births, deaths and marriages abroad, and to speed completion of the portal; not stated as in service"},
+    {"system": "e-RDV", "country_label": "خدمة حجز المواعيد عن بعد (e-RDV)", "class": "", "platform": "", "owner": "", "tiers": "appointment booking, trialled in a number of model consulates, to be generalised"}
+  ],
+  "note": "A council decision to develop digital consular services for Tunisians abroad, including registration procedures at consulates; a decision to develop, at consulates rather than local offices, and the document does not say how the record would be made, so no fact."
+}

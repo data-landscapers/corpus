@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-15-namibia-mhaiss-eid-omaheke-campaign",
+  "facts": [],
+  "systems": [
+    {"system": "electronic identity cards (e-IDs)", "country_label": "e-ID", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security, with UNDP technical support", "tiers": "national; rollout expected September 2026; awareness campaign in all seven Omaheke constituencies, 27 July to 5 August 2026"},
+    {"system": "national population register", "country_label": "national population register", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "national; holds citizens' information, including what is carried on the identity card, accessed by institutions with the holder's consent"}
+  ],
+  "note": "An awareness campaign for the electronic identity card; the civil registration system is mentioned only as something the e-ID is meant to modernise."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01 Building Resilient CRVS Systems amid COVID-19 - Namibia (Technical Brief)",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Registration System (NPRS)", "country_label": "NPRS", "class": "civil", "platform": "", "owner": "", "tiers": "described as decentralised and linked to health facilities; kept functioning as an essential service during the 2020 state of emergency"},
+    {"system": "e-birth and e-death notification systems", "country_label": "e-birth and e-death notification systems", "class": "notification", "platform": "", "owner": "", "tiers": "online; introduced in 2017 and 2018"}
+  ],
+  "note": "The file holds a three-paragraph summary of the brief, not its text; it gives survey registration rates and says the system kept working through 2020, but nothing on which offices enter records or how."
+}

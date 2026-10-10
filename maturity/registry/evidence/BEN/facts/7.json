@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-17-ben-gouv-anip-journee-identite-2026-parakou",
+  "facts": [],
+  "systems": [
+    {"system": "Mon identité autrement", "country_label": "service « Mon identité autrement »", "class": "", "platform": "", "owner": "ANIP", "tiers": "launched at Parakou on 16 September 2026; what it does is not described"},
+    {"system": "Online renewal of the biometric national identity card", "country_label": "digitalisation du renouvellement de la carte nationale d'identité biométrique", "class": "identity", "platform": "", "owner": "ANIP", "tiers": ""},
+    {"system": "Free birth-act campaign for under-14s, 16-30 September 2026", "country_label": "délivrance gratuite des actes de naissance", "class": "outreach", "platform": "", "owner": "ANIP, with UNICEF support", "tiers": "children under 14 who never obtained an act from ANIP; decree 2025-679 allows registration of under-14s on the prosecutor's requisition and on testimony"}
+  ],
+  "note": "An Identity Day account of reforms, a campaign and a national target of legal identity for all by 2028; it describes no system by which an office records a birth or death."
+}

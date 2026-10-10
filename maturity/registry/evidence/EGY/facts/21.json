@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-02-egypt-development-plan-digital-transformation-population-file",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "Youm7 reports the FY2026/27 economic and social development plan as saying the Ministry of Health and Population and the bodies concerned have developed the system for registering births and deaths electronically across the Republic; the plan gives no date for this, so the article's publication date is used.", "as_of": "2026-08-02", "date_precision": "day", "system": "Electronic birth and death registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The FY2026/27 development plan, as reported by Youm7, credits the Ministry of Health and Population and the bodies concerned with developing the electronic birth and death registration system; no date is given, so the publication date is used.", "as_of": "2026-08-02", "date_precision": "day", "system": "Electronic birth and death registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The economic and social development plan for fiscal year 2026/27, as reported by Youm7, names the electronic birth and death registration system within the digital-transformation axis of the national family development project; dated to the article's publication.", "as_of": "2026-08-02", "date_precision": "day", "system": "Electronic birth and death registration system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "The plan as reported describes electronic birth and death registration as at the level of the whole Republic and gives no count or share of offices; dated to the article's publication.", "as_of": "2026-08-02", "date_precision": "day", "system": "Electronic birth and death registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Electronic birth and death registration system", "country_label": "منظومة تسجيل المواليد والوفيات إلكترونيًا", "class": "civil", "platform": "", "owner": "Ministry of Health and Population and the bodies concerned", "tiers": "at the level of the Republic; offices not specified"}
+  ],
+  "note": "The article reports the plan second-hand and does not say at which office or by what means the record is made; class civil rests on the plan's wording that the system registers births and deaths electronically."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay's Egypt registry row says births and other vital events are recorded on paper forms at local Civil Registry Offices and compiled at governorate level, where electronic data entry occurs before central processing; it gives no date for this, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Civil Registry Offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The essay's Egypt registry row says civil registry offices lack computers, scanners and internet and use only paper, citing the WHO EMRO questionnaire; it gives no date for this, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Civil Registry Offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registry Offices", "country_label": "Civil Registry Offices", "class": "civil", "platform": "paper forms; electronic data entry at governorate level", "owner": "", "tiers": "local offices on paper; governorate level keys; central processing"},
+    {"system": "EBDRS", "country_label": "EBDRS", "class": "notification", "platform": "GPRS/3G links", "owner": "", "tiers": "about 4,571 health offices since 2017, rural included; described as handling health notifications digitally and notifying the civil registry electronically"},
+    {"system": "Kiosks and machines for certificate issuance", "country_label": "kiosks/machines", "class": "certificate", "platform": "", "owner": "", "tiers": "urban; no rural rollout found by the essay"}
+  ],
+  "note": "This slug is in study.json's exclude_sources (an AI-assisted compilation by its own header); the facts are what its Egypt registry row states and are recorded for the parent to exclude. The row's score text is inconsistent with itself (scored 1, described as score 2)."
+}

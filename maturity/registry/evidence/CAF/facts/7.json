@@ -1,0 +1,50 @@
+{
+  "slug": "2026-04-24-bossangoa-mairie-rehabilitation-undp",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "UNDP reports that under its EU-financed stabilisation programme civil registration registers were distributed to several communes of the Ouham to strengthen local registration, and a batch of registers for declaring births went to the maternity of Bossangoa university hospital; computer equipment and training in digitising civil registration documents are named as the next step, not yet delivered. The article does not date the distribution; the date is its publication date.",
+      "as_of": "2026-04-24",
+      "date_precision": "day",
+      "system": "registres d'état civil (communes de l'Ouham, mairie de Bossangoa)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Registres d'état civil",
+      "country_label": "registres d'état civil; registres destinés à la déclaration des naissances",
+      "class": "civil",
+      "platform": "paper registers",
+      "owner": "communes; Ministère de l'Administration du Territoire as institutional partner",
+      "tiers": "several communes of the Ouham prefecture and the maternity of the Hôpital Universitaire de Bossangoa"
+    },
+    {
+      "system": "Audiences foraines (Ouham)",
+      "country_label": "audiences foraines",
+      "class": "outreach",
+      "platform": "",
+      "owner": "Tribunal de Grande Instance de Bossangoa, with UNDP and EU financing",
+      "tiers": "several localities of the Ouham; more than 1,700 supplementary judgments and reconstitution acts issued"
+    },
+    {
+      "system": "Numérisation des documents d'état civil (Bossangoa)",
+      "country_label": "numérisation des documents d'état civil",
+      "class": "archive",
+      "platform": "",
+      "owner": "UNDP, EU-financed (EUR 1 million), with the Ministère de l'Administration du Territoire and Ouham local authorities",
+      "tiers": "planned next step: computer equipment and training for the mairie, the Tribunal de Grande Instance and health facilities of Bossangoa"
+    },
+    {
+      "system": "Réhabilitation de la mairie de Bossangoa",
+      "country_label": "mairie de Bossangoa",
+      "class": "enabling",
+      "platform": "rehabilitated premises, solar panels, water tower",
+      "owner": "UNDP Programme de stabilisation, EU-financed",
+      "tiers": "Bossangoa mairie and Tribunal de Grande Instance; works launched October 2024, visited complete 23 April 2026"
+    }
+  ],
+  "note": ""
+}

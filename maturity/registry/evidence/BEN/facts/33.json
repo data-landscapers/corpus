@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-17-journee-internationale-identite-benin",
+  "facts": [],
+  "systems": [
+    {"system": "RAVIP", "country_label": "Ravip", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "the base of the Registre national des personnes physiques"},
+    {"system": "Fichier national de l'état civil", "country_label": "fichier national de l'état civil", "class": "", "platform": "", "owner": "ANIP", "tiers": "listed among the gains since 2017, with no account of how events enter it"},
+    {"system": "Online secured birth act and personal identification certificate", "country_label": "acte de naissance sécurisé et certificat d'identification personnelle en ligne", "class": "certificate", "platform": "ANIP's online platforms", "owner": "ANIP", "tiers": "made free on 13 September 2025 and extended to 19 September; hundreds of thousands of requests in four days saturated the platforms for a time; 2.5 million secured birth acts delivered under a derogatory law"}
+  ],
+  "note": "ANIP's director general cites the law of 6 January 2021 as simplifying and dematerialising procedures; the document describes delivery of copies and identity enrolment, not how an office records a birth or death."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-16 Digital IDs How registration is progressing so far",
+  "facts": [],
+  "systems": [
+    {"system": "digital ID (e-Indangamuntu)", "country_label": "e-Indangamuntu, digital national ID", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": "rotating and semi-permanent registration sites in Kigali; 2,373,854 registered of about 14 million at 16 March 2026; sector offices to be equipped afterwards for children turning five and newborns"},
+    {"system": "integration of the digital ID system with CRVS", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "the digital ID system is integrated with Civil Registration and Vital Statistics; family trees link parents and children"},
+    {"system": "Civil Registration and Vital Statistics (CRVS)", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eRainbow", "country_label": "eRainbow platform and digital wallet", "class": "identity", "platform": "", "owner": "", "tiers": "citizens see which institutions accessed their data and can revoke consent"}
+  ],
+  "note": "Identity enrolment; CRVS is named only as integrated with the digital ID system, and enrolment staff are said to find unregistered children and wrong birth details, with no description of how the civil record is made."
+}

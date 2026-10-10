@@ -1,0 +1,16 @@
+{
+  "slug": "2025-06-23-gabon-legal-digital-id-three-projects",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "GabonReview reports that workshops opened at Ntoum on 23 June 2025 to draw up a roadmap and action plan described as a preliminary to the effective start of three projects, among them the Centre national d'état civil (CNEC); the workshops were also to map the civil status centres. The project had therefore not started.", "as_of": "2025-06-23", "date_precision": "day", "system": "Centre national d'état civil (CNEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "GabonReview states the three projects, including the CNEC, are financed by the World Bank under the Gabon Digital programme, component 2.", "as_of": "2025-06-23", "date_precision": "day", "system": "Centre national d'état civil (CNEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The secretary-general of the Interior ministry is reported as placing the three projects, including the CNEC, in the continuation of the Plan national de développement pour la transition 2024-2026, which makes legal and digital identification a lever of administrative transformation; the article does not say the plan names the CNEC.", "as_of": "2025-06-23", "date_precision": "day", "system": "Centre national d'état civil (CNEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Centre national d'état civil (CNEC)", "country_label": "Centre national d'état civil (CNEC)", "class": "civil", "platform": "", "owner": "Gabon Digital programme, component 2 (general coordinator: ANINF deputy director-general); Ministry of the Interior, Security and Decentralisation", "tiers": "not started as of June 2025; civil status centres to be mapped"},
+    {"system": "Registre biométrique des personnes physiques (RBPP)", "country_label": "Registre biométrique des personnes physiques (RBPP)", "class": "identity", "platform": "", "owner": "Gabon Digital programme, component 2", "tiers": "extension planned"},
+    {"system": "Système national d'identité digitale (SNID)", "country_label": "Système national d'identité digitale (SNID)", "class": "identity", "platform": "", "owner": "Gabon Digital programme, component 2", "tiers": "planned"},
+    {"system": "IBOGA", "country_label": "IBOGA", "class": "identity", "platform": "", "owner": "", "tiers": "existing system to be inventoried, with CNIE, CNAMGS, CNSS and DGDI"},
+    {"system": "Common biometric reference (interconnection of RBPP, SNID and CNEC)", "country_label": "référentiel biométrique commun", "class": "exchange", "platform": "", "owner": "", "tiers": "ambition: to interconnect the three systems"}
+  ],
+  "note": "The article describes the CNEC thinly, as the civil registration pillar of an integrated identification ecosystem; it is classed civil on that and on the mapping of civil status centres."
+}

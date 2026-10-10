@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-25-nia-approved-fees-and-charges-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card registration", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "NIA district offices, premium centres, a paid mobile registration service for groups of seven or more, and registration abroad"},
+    {"system": "Foreigner Identification Management System (FIMS)", "country_label": "FIMS", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "not stated"}
+  ],
+  "note": "The identification authority's fee schedule; 'mobile registration' is its paid identity-card service. Nothing on civil registration."
+}

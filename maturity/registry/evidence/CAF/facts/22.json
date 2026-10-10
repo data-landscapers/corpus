@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-22-aial-group-data-centre-mou-oubanguimedias",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plateforme de digitalisation (AIAL)",
+      "country_label": "plate-forme de digitalisation; Centre de données",
+      "class": "enabling",
+      "platform": "data centre and satellite internet access",
+      "owner": "AIAL Group Limited, under a memorandum of understanding with the Ministère de l'Economie numérique signed 21 January 2025; no contract yet",
+      "tiers": "proposed: a platform gathering the data of all ministries, on which administrative documents, birth certificates among them, are to be traced"
+    }
+  ],
+  "note": "A memorandum for a data centre and a government-wide platform; birth certificates are named only among documents the platform would trace, and nothing is said of how births are registered."
+}

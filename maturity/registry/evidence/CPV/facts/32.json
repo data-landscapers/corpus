@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-cabo-verde-mobile-digital-key",
+  "facts": [],
+  "systems": [
+    {"system": "Cabo Verde Mobile Digital Key (CMDCV)", "country_label": "Chave Móvel Digital de Cabo Verde", "class": "identity", "platform": "", "owner": "State of Cabo Verde; applications handled by NOSi (cxm@nosi.cv)", "tiers": "Obtained online or in person at Casa do Cidadão desks, the registries and offices of the Civil Registry and National Civil and Criminal Identification Archive, the Directorate of Foreigners and Borders and accredited services"},
+    {"system": "Autentika", "country_label": "Autentika", "class": "identity", "platform": "", "owner": "Government of Cabo Verde; helpdesk at NOSi", "tiers": "National online authentication platform"},
+    {"system": "National Identification Card (CNI)", "country_label": "Cartão Nacional de Identificação", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Reference page on the mobile digital key and the Autentika authentication platform; civil registry offices appear only as counters where the key is requested. Nothing on how a birth or death is registered."
+}

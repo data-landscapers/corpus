@@ -1,0 +1,8 @@
+{
+  "slug": "2017-08-14-niger-code-electoral-loi-2017-64",
+  "facts": [],
+  "systems": [
+    {"system": "Fichier Electoral Biométrique (FEB)", "country_label": "Fichier Electoral Biométrique", "class": "land", "platform": "", "owner": "CENI, through its Direction Technique chargée de l'Informatique et du Fichier Electoral Biométrique (DIFEB)", "tiers": "single national file built from the lists of communes, regions, embassies and consulates"}
+  ],
+  "note": "The electoral code (capture cut off in art. 156): it sets up the biometric voter roll, an electoral register outside the study's field; civil status appears only as documents accepted for enrolment (birth act, jugement supplétif) and as a civil status officer chairing the administrative commissions."
+}

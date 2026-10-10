@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-24-zimbabwe-african-registrars-e-passport-civil-registration-model",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:93", "fact": "The Deputy Registrar General for Systems Development and Management said all 10 provinces and 63 districts have been computerised and more than 20 of 209 sub-offices; the count is 10 plus 63 plus the floor of 20, of 282 offices so described, and he does not say what a computerised office does.", "as_of": "2026-07-22", "date_precision": "day", "system": "computerisation of registry services", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Registrar General's department presents the computerisation of its provinces, districts and sub-offices as its own decentralisation programme, through its Deputy Registrar General for Systems Development and Management.", "as_of": "2026-07-22", "date_precision": "day", "system": "computerisation of registry services", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "computerisation of registry services", "country_label": "computerised provinces, districts and sub-offices; decentralisation programme", "class": "civil", "platform": "", "owner": "Registrar General's department (Civil Registry Department)", "tiers": "all 10 provinces, all 63 districts, more than 20 of 209 sub-offices"},
+    {"system": "e-passport system", "country_label": "e-passport", "class": "identity", "platform": "", "owner": "Registrar General's department", "tiers": "enrolment centres in 10 districts, eight provincial centres and one in Johannesburg; introduced 2022"}
+  ],
+  "note": "The capture is truncated. 'Computerised' is the source's only word for what the offices do: it does not say births or deaths are entered digitally at the office, so events and made are not recorded and the parent may read the offices figure as offices equipped. The date is the Wednesday of the delegates' tour, two days before publication."
+}

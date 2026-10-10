@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-27-cnib-aes-enrolment-nita-payment-kiosks-actuniger",
+  "facts": [],
+  "systems": [
+    {"system": "Carte nationale d'identité biométrique (CNIB-AES)", "country_label": "CNIB-AES", "class": "identity", "platform": "", "owner": "Police commissariats; NITA Transfert collects the enrolment fee at kiosks", "tiers": "commissariat de Yantala, Niamey, from 25 April 2026; other commissariats of Niamey and the interior to follow"}
+  ],
+  "note": "A sponsored account of fee-payment kiosks at an identity-card enrolment site. A birth certificate or supplementary judgment is a required document; nothing on civil-status offices."
+}

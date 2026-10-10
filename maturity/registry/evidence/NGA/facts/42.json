@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Management System (NIMS)", "country_label": "National Identity Management System (NIMS) / NIN slip, National Electronic Identity Card (e-ID card)", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global identity-coverage dataset: for Nigeria it names only the foundational identity system in its annex table and a survey-based adult ID coverage row; it states nothing about how or where civil registration offices record births or deaths."
+}

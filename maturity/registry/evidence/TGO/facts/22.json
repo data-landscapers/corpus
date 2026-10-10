@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table says Togo's rural civil status offices at prefectures and town halls record births in multi-leaflet paper registers, with paper used throughout for transfers to central levels and no electronic CRVS database, citing an ECA-APAI report; it gives no date, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "état civil (rural registry offices)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The essay's country table says core recording at Togo's rural registry offices remains paper and manual, the December 2025 pilots in five communes covering online requests for copies and not the recording stage; it gives no date for the statement, so the document's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "état civil (rural registry offices)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "online requests for copies of acts (pilot)", "country_label": "demande en ligne des copies d'actes", "class": "certificate", "platform": "", "owner": "", "tiers": "five pilot communes since December 2025, some rural such as Avé 2"}
+  ],
+  "note": "An AI-assisted compilation by its own header; the facts record what its Togo registry row states, undated. Its clinic, school and police rows are outside the study."
+}

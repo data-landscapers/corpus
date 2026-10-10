@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-12-togo-enregistrement-biometrique-agoe-nyive",
+  "facts": [],
+  "systems": [
+    {"system": "e-ID Togo", "country_label": "e-ID Togo, Unique Identification Number (NIU); WURI", "class": "identity", "platform": "", "owner": "National Identification Agency (ANID) with INSEED", "tiers": "biometric registration campaign: Golfe prefecture and Greater Lomé done, Agoè-Nyivé from 2025-08-20"}
+  ],
+  "note": "Identity enrolment only; civil registration is not mentioned."
+}

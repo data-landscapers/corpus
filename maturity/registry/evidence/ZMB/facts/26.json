@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-30-zambia-ethiopia-digital-id-cooperation-wb-blog",
+  "facts": [],
+  "systems": [
+    {"system": "Foundational digital ID system", "country_label": "digital ID", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs and Internal Security and Smart Zambia Institute", "tiers": "national; being strengthened under DZAP with World Bank support; cooperation agreement with Ethiopia's National ID Program signed 29 September 2025"},
+    {"system": "Government e-services Portal", "country_label": "ZamPortal", "class": "certificate", "platform": "", "owner": "Government of Zambia", "tiers": "online, public; road fitness certificates, immigration services, land and deeds services among others"}
+  ],
+  "note": "The blog concerns digital identity, class identity. Civil registration appears only as one of the services to which both governments are linking ID registration and verification; no civil registration system is described. ZamPortal is not said to offer civil registration copies; it is entered as a service portal, classed certificate on that ground only."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01 Liberia NIR presentation - Legal Framework and Mandate",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Registry enrolment (NIN and biometric ID card)", "country_label": "NIN; biometric ID card", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national mandate under the 2011 NIR Act"}
+  ],
+  "note": "The file is a short excerpt page describing the identity registry's legal mandate; it states nothing on civil registration."
+}

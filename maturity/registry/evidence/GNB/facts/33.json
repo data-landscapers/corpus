@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01 Building a National Identification System - Scanning and Digitizing the Civil Registry Books in Guinea-Bissau",
+  "facts": [],
+  "systems": [
+    {"system": "Building a National Identification System: scanning and digitising the civil registry books", "country_label": "", "class": "archive", "platform": "", "owner": "Ministry of Justice and Human Rights as main partner and beneficiary; funded by UNDP with Swiss Confederation co-financing", "tiers": "a digitisation centre set up and equipped; civil registry books organised and recovered"},
+    {"system": "Software to digitise the civil registry (births, deaths, marriages and annotations)", "country_label": "", "class": "", "platform": "", "owner": "UNDP project with the Ministry of Justice and Human Rights", "tiers": "to be developed as the main national platform; the page does not say whether offices register in it or whether it holds scanned books"}
+  ],
+  "note": "A project page describing the scanning of existing registry books and software still to be developed; an archive, and the page carries no date of its own (the year is a proxy), so no fact."
+}

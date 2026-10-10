@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-18-brokers-of-citizenship-digital-id",
+  "facts": [],
+  "systems": [
+    {"system": "Digital identity biometric enrolment and digital ID card", "country_label": "digital ID card", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Enrolment at NCRA on presentation of documents or a justice of the peace's affidavit; the card costs 165 Leones, seven times the old paper card"}
+  ],
+  "note": "An account of intermediaries in identity enrolment; nothing on how births or deaths are registered."
+}

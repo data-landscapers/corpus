@@ -1,0 +1,16 @@
+{
+  "slug": "2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Biometric Update reports that the World Bank, through the WURI-Benin project, gave ANIP 2,050 mobile registration terminals in October 2024, meant for the digital and instant registration of births at health facilities; no domestic funding is stated.", "as_of": "2024-10", "date_precision": "month", "system": "Digital civil registration at health facilities", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The terminals were handed to ANIP's director general, who said they would strengthen ANIP's capacity to modernise civil status and register every child in the RNPP from birth.", "as_of": "2024-10", "date_precision": "month", "system": "Digital civil registration at health facilities", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "Officials state the intent, not yet the practice: the 2,050 terminals are to let health facilities in all districts register births, marriages and deaths directly into the National Register of Natural Persons and the National Register of Civil Status Events.", "as_of": "2024-10", "date_precision": "month", "system": "Digital civil registration at health facilities", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digital civil registration at health facilities", "country_label": "", "class": "civil", "platform": "mobile registration terminals", "owner": "ANIP", "tiers": "intended for health facilities in all districts; at the stage of equipment handed over in October 2024"},
+    {"system": "Mobile registration terminals", "country_label": "", "class": "enabling", "platform": "", "owner": "ANIP; donated by the World Bank through WURI-Benin", "tiers": "2,050 terminals"},
+    {"system": "National Register of Natural Persons (RNPP)", "country_label": "RNPP", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national"},
+    {"system": "National Register of Civil Status Events (RNEC)", "country_label": "RNEC", "class": "", "platform": "", "owner": "ANIP", "tiers": "national; named as the register the terminals would feed, with no account of how offices enter events in it"},
+    {"system": "C'est moi card (fID certificate)", "country_label": "« C'est moi » card", "class": "identity", "platform": "", "owner": "", "tiers": "introduced with WURI support"}
+  ],
+  "note": "The document states what the terminals are meant to do; it reports no birth or death yet registered with them and no count of facilities using them."
+}

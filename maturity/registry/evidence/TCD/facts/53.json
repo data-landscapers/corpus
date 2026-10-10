@@ -1,0 +1,108 @@
+{
+  "slug": "2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The World Bank states that Chad's civil registration system, managed by local governments under the Ministry of Territorial Administration and Decentralization, is mainly paper based with no consolidated database at central level; the report gives no date for this, so its 2023 publication year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank states that civil registration is managed by local governments under the supervision of the Ministry of Territorial Administration and Decentralization, that ANATS is the main implementing agency for the digitalisation of civil registration services and the centralised civil registry, and that the division of responsibilities between the two is unclear; undated, so the 2023 publication year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The World Bank states that digitalisation of civil registration services and a centralised civil registry have been under way since 2021 as part of the civil registration strategy roadmap, following the National Strategic Plan for the Improvement of Civil Registration adopted in 2017; it adds that the efforts are nascent and would need significant investment, and names no source of finance.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The World Bank states that civil registration officers in six hospitals use the TASDJIL mobile application for birth declarations, after which ANATS issues a birth certificate electronically; deaths are not mentioned for it; undated, so the 2023 publication year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "TASDJIL",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The World Bank states that civil registration officers in six hospitals enter the declaration in the TASDJIL mobile application, the ANATS office receives it in its system, verifies the information, assigns a national identification number (NNI) and issues a birth certificate electronically within 5 to 15 minutes; undated, so the 2023 publication year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "TASDJIL",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:6",
+      "fact": "The World Bank states that some civil registration officers in six hospitals use TASDJIL, calling the effort nascent; no total of registration offices is given; undated, so the 2023 publication year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "TASDJIL",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "civil registration system",
+      "country_label": "état civil",
+      "class": "civil",
+      "platform": "mainly paper based, no consolidated central database",
+      "owner": "local governments under the Ministry of Territorial Administration and Decentralization (MATD); ANATS as implementing agency for digitalisation",
+      "tiers": "local governments"
+    },
+    {
+      "system": "TASDJIL",
+      "country_label": "TASDJIL",
+      "class": "civil",
+      "platform": "mobile application developed by ANATS",
+      "owner": "ANATS",
+      "tiers": "civil registration officers in six hospitals, with validation and issuance at the ANATS office"
+    },
+    {
+      "system": "SIGPTS",
+      "country_label": "SIGPTS (integrated identity management system); Numéro National d'Identification (NNI)",
+      "class": "identity",
+      "platform": "",
+      "owner": "ANATS",
+      "tiers": "national; introduced in 2020; modules produce civil status documents (birth, marriage and death certificates), identity cards, passports and other secure documents; registration centres being established in provinces and mobile enrolment being piloted"
+    },
+    {
+      "system": "Registre National Biométrique des Populations (RNBP)",
+      "country_label": "Registre National Biométrique des Populations (RNBP)",
+      "class": "identity",
+      "platform": "",
+      "owner": "ANATS",
+      "tiers": "national; source of the NNI"
+    },
+    {
+      "system": "integration of the civil registration system into the national identification system",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "SIGPTS",
+      "owner": "ANATS",
+      "tiers": "central level, since early 2023; TASDJIL declarations are assigned an NNI at ANATS"
+    }
+  ],
+  "note": "Passages only. TASDJIL is classed civil because the source has civil registration officers stationed in hospitals making the declaration in it; the source calls the effort nascent and uses neither 'pilot' nor 'live'."
+}

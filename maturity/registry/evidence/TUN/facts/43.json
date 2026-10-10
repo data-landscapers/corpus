@@ -1,0 +1,9 @@
+{
+  "slug": "2024-03-11-loi-organique-2024-22-carte-identite-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "carte nationale d'identité (à puce électronique)", "country_label": "carte nationale d'identité", "class": "identity", "platform": "card with a secure encrypted electronic chip and an electronic authentication certificate", "owner": "services spécialisés du ministère de l'intérieur", "tiers": "compulsory for Tunisian nationals aged fifteen and over; issued after fingerprint and photograph are taken"},
+    {"system": "registre de l'état civil", "country_label": "registre de l'état civil", "class": "", "platform": "", "owner": "", "tiers": "named only as the register whose entries trigger a 90-day deadline to change the card"}
+  ],
+  "note": "The organic law on the national identity card; an identity document, and the law says nothing on how civil status events are registered."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-25-ursb-hands-marriage-registration-to-nira",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "On 24 April 2025 the Uganda Registration Services Bureau handed marriage registration to the National Identification and Registration Authority under laws amended in August 2024, so that births, marriages and deaths are recorded by one national body, with the function's budget moved from the bureau's vote to the authority's; the article names no registration system.", "as_of": "2025-04-24", "date_precision": "day", "system": "Civil registration function (no system named)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "NIRA national register", "country_label": "NIRA's national register (over 27.7 million Ugandans captured)", "class": "identity", "platform": "", "owner": "NIRA", "tiers": ""}
+  ],
+  "note": "The one fact is institutional: the article describes the transfer of the marriage registration mandate and says nothing on how or where births and deaths are entered. It is not tied to a named system."
+}

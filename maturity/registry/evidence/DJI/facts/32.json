@@ -1,0 +1,9 @@
+{
+  "slug": "2020-07-13-decret-2020-150-nni-composition-caracteristiques",
+  "facts": [],
+  "systems": [
+    {"system": "Numéro National d'Identification", "country_label": "Numéro National d'Identification (NNI)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur (decree on its proposal)", "tiers": "national: a twelve-position number attributed to every person entered in a civil-status register, including registers kept by diplomatic and consular missions, and to regularly resident foreigners; mandatory on acts and files of state services, regions, communes, hospitals, schools and utilities"},
+    {"system": "Saisie des antériorités des actes", "country_label": "saisie des antériorités des actes", "class": "archive", "platform": "", "owner": "", "tiers": "Article 10 provides that earlier acts will be keyed in as part of implementing the NNI; the capture ends mid-article"}
+  ],
+  "note": "A decree on the composition and scope of the identity number; the civil-status register is the basis for attribution, and nothing is said of how offices record events."
+}

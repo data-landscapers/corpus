@@ -1,0 +1,10 @@
+{
+  "slug": "2022-11-01-dgct-midec-rapport-capacites-institutionnelles-communes-mdp",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The interior ministry's DGCT states that civil status acts are, under Law 2011-003, the exclusive competence of ANRPTS, and that mayors are no longer competent to record, draw up or issue acts of birth, marriage or death, though the 1987 communes ordinance still names the mayor a civil status officer; the document gives no date for this beyond 'today', so its publication date is used.", "as_of": "2022-11", "date_precision": "month", "system": "état civil (ANRPTS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "état civil (ANRPTS)", "country_label": "actes de l'état civil, Agence Nationale du Registre des Populations et des Titres Sécurisés", "class": "civil", "platform": "", "owner": "ANRPTS", "tiers": "the document says only that civil status acts are ANRPTS's exclusive competence and not the communes'; it does not describe a system or where it is used"}
+  ],
+  "note": "The body is an excerpt cut at the executive summary, before the report's own section and table on 'L'Etat civil' (illustrations 78-79, table 48). The communal survey's indicator on archiving declarations of birth, marriage and death is called confusing by the report itself and gives no figure here; the communal systems it names (SIGeL, El Mouhassil, Kachel) are finance and administration tools outside the study's field."
+}

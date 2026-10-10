@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-18-home-affairs-chief-codes-verification",
+  "facts": [],
+  "systems": [
+    {"system": "Ministry of Home Affairs system holding citizens' records and Chief Codes (unnamed)", "country_label": "the ministry's system; civil registration system", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "not stated; a Chief Code is updated in it at Home Affairs before a replacement identity card is applied for, as stated on 2026-08-18"}
+  ],
+  "note": "Describes correcting the Chief Code on a person's record ahead of a replacement identity card; says nothing of how or where a birth or death is entered."
+}

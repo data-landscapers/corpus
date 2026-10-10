@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-07-anats-oim-mou-identite-securisee",
+  "facts": [],
+  "systems": [
+    {"system": "SIGPTS", "country_label": "Système intégré de gestion des populations et des titres sécurisés", "class": "identity", "platform": "", "owner": "ANATS", "tiers": "national; aimed at a national biometric population register, machine-readable secure documents and applications for public and private administrations"}
+  ],
+  "note": "An ANATS-IOM memorandum of 7 May 2026 on identity documents for vulnerable people; civil status is mentioned only as an area of past reform, and the one system described is the identity system."
+}

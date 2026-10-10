@@ -1,0 +1,74 @@
+{
+  "slug": "2026-03-09-worldbank-isr-municipal-performance-program-p168147",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "share:61%",
+      "fact": "The World Bank's implementation status report for the Municipal Performance Program gives the civil registry back-office system as operational in 59 of 97 participating municipalities (reported as 61%), verified by the IGAT; the value was first reported at 30 June 2024 and is unchanged at 30 January 2026. The denominator is the Program's participating municipalities, not all offices, and the report does not say what the system does.",
+      "as_of": "2026-01-30",
+      "date_precision": "day",
+      "system": "back-office system for the civil registry",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "share:15%",
+      "fact": "The World Bank's implementation status report gives a baseline of 15% of the Municipal Performance Program's participating municipalities with the civil registry back-office system operational, at December 2018.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "back-office system for the civil registry",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "no-change",
+      "fact": "The World Bank's report shows the share of participating municipalities with the civil registry back-office system operational at 61% both at the previous reading (30 June 2024) and the current one (30 January 2026).",
+      "as_of": "2026-01-30",
+      "date_precision": "day",
+      "system": "back-office system for the civil registry",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank's report names the Interior Ministry's DGCL/DGCT as responsible for the Municipal Performance Program, under whose third sub-programme the civil registry platform was rolled out to participating municipalities with uptake it calls satisfactory.",
+      "as_of": "2026-01-30",
+      "date_precision": "day",
+      "system": "back-office system for the civil registry",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank's report records the Municipal Performance Program, which includes the civil registry back-office system among its results, as Program-for-Results financing under an IBRD loan (EUR 192 million disbursed, 71% of the envelope) with AFD co-financing, closing 31 December 2026; it does not state the domestic share.",
+      "as_of": "2026-01-30",
+      "date_precision": "day",
+      "system": "back-office system for the civil registry",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "back-office system for the civil registry",
+      "country_label": "back-office system for the civil registry",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministry of the Interior, DGCT (formerly DGCL)",
+      "tiers": "operational in 59 of 97 participating municipalities"
+    },
+    {
+      "system": "Rokhas",
+      "country_label": "Rokhas",
+      "class": "land",
+      "platform": "",
+      "owner": "DGCT",
+      "tiers": "building permits and commercial licences; all participating municipalities"
+    }
+  ],
+  "note": "Class civil is given on the system's descriptive name alone (a back-office system for the civil registry, operational in municipalities); the report never says an event is entered in it at registration, so the parent may prefer to hold it unclassified. The file is a truncated excerpt, cut off mid-table after the results section."
+}

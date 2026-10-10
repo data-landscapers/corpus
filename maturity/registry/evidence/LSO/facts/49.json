@@ -1,0 +1,52 @@
+{
+  "slug": "2018-09-01-lso-data-requirement-analysis-and-data-mapping-unicef-lesotho",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Development Gateway diagnostic for UNICEF (September 2018, interviews in May 2018) states that the Ministry of Home Affairs oversees civil and vital registration using a National Identity and Civil Registry (NICR) database, of which it is the custodial agency, with collection ongoing by direct registration by ministry staff and with UNICEF support.",
+      "as_of": "2018-09",
+      "date_precision": "month",
+      "system": "National Identity and Civil Registry (NICR) database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The Development Gateway diagnostic for UNICEF (September 2018) states that the Ministry of Home Affairs is responsible for recording births and deaths of Lesotho citizens and oversees civil and vital registration processes using the NICR database; it does not say at which offices the entry is made.",
+      "as_of": "2018-09",
+      "date_precision": "month",
+      "system": "National Identity and Civil Registry (NICR) database",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Identity and Civil Registry (NICR) database",
+      "country_label": "NICR",
+      "class": "civil",
+      "platform": "",
+      "owner": "Ministry of Home Affairs",
+      "tiers": "ongoing collection by direct registration by Ministry of Home Affairs staff; tiers not stated"
+    },
+    {
+      "system": "UNICEF-supported pilots harmonising civil registration and school registration",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Home Affairs with UNICEF",
+      "tiers": "pilots; places and function not described"
+    },
+    {
+      "system": "Inter-linkages between the NICR and administrative databases (EMIS, NISSA)",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "under discussion in 2018, not built"
+    }
+  ],
+  "note": "Passages only. The diagnostic names the NICR database and its custodian but not how or where a record is made, nor the offices using it."
+}

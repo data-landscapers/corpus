@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's country table states, citing a 2023 UNECA assessment of 43 African countries, that rural registry offices (secondary centres in villages) record births on paper forms and ledgers, with paper copies transferred through the system to central storage, and concludes that rural facilities are entirely paper-based.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "centres d'état civil, secondary centres (paper registers)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "none",
+      "fact": "The essay's country table states, citing the 2023 UNECA assessment, that no electronic CRVS database exists in the country, one of 7 of the 43 countries assessed, and that it found no evidence of a digital rollout in reports of 2020 to 2026.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "centres d'état civil, secondary centres (paper registers)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Centres d'état civil (secondary centres in villages)",
+      "country_label": "centres d'état civil; secondary centres",
+      "class": "civil",
+      "platform": "paper forms and ledgers",
+      "owner": "",
+      "tiers": "rural secondary centres in villages, with paper copies passed to central storage"
+    }
+  ],
+  "note": "An AI-assisted compilation by its own header, listed in study.json exclude_sources; the facts record what its country table states, with the sources it cites named in each."
+}

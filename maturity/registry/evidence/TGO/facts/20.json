@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-10-togo-equipements-informatiques-communes-pilotes-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "projet de digitalisation des demandes de copies d'actes d'état civil", "country_label": "digitalisation des demandes de copies d'actes d'état civil", "class": "certificate", "platform": "", "owner": "Ministère de l'Administration territoriale (MATGLAC), Direction de l'administration territoriale et des frontières", "tiers": "pilot phase launched 2025-12-19 in five pilot communes: Golfe 1, Agoè-Nyivé 1, Lacs 1, Avé 2 and Zio 2; national extension planned after evaluation"},
+    {"system": "matériel informatique remis aux communes pilotes", "country_label": "kits de matériel informatique", "class": "enabling", "platform": "", "owner": "supplied by the ministère de l'Efficacité du service public et de la transformation digitale", "tiers": "the five pilot communes, 2026-04-08: two computers, one printer, one UPS and two extension leads each, after the communes reported having no computers or printers to produce copies of acts"}
+  ],
+  "note": "The pilot digitises requests for copies of acts, not the registration of events; the ministry states the pilot communes lacked computers and printers until 8 April 2026. Nothing on how a birth or death is recorded."
+}

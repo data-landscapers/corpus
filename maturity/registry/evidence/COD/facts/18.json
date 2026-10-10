@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-13-rdc-pass-plateforme-identite-numerique-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "RDCpass", "country_label": "RDCpass, identité numérique nationale", "class": "identity", "platform": "rdcpass.gouv.cd, with the agent terminal agent.rdcpass.cd and the citizen account app.rdcpass.cd", "owner": "Programme national d'identifiant numérique, République Démocratique du Congo", "tiers": "platform online; phase 1 agent training under way, citizen enrolment at official reception points to open a week after agents are certified; Kinshasa named as the first node, registration points not yet announced"}
+  ],
+  "note": "The RDCpass platform's own page: verified digital identity, e-signature, document verification and access to services. It says nothing of civil registration, births or deaths."
+}

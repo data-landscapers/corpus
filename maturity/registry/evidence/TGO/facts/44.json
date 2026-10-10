@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-anid-togo-rspm-social-register",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Personal and Household Social Register (RSPM)",
+      "country_label": "Personal and Household Social Register (RSPM)",
+      "class": "",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification (ANID), the publisher of the page",
+      "tiers": "national information system on households and individuals, with a unique identifier per household"
+    }
+  ],
+  "note": "A description of the social register's design intent; nothing on civil registration."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2024-12-24 Morocco's DGSN issued 4.6 million electronic national IDs in 2024 (annual report)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "electronic national identity card",
+      "country_label": "electronic national identity card; Trusted Third Party Identity Verification platform",
+      "class": "identity",
+      "platform": "",
+      "owner": "General Directorate of National Security (DGSN)",
+      "tiers": "nearly 4.7 million cards issued in 2024 at the Rabat and Marrakech centres; 80 mobile units serving over 130,000 citizens in remote areas; 71 centres at diplomatic missions"
+    }
+  ],
+  "note": "No fact: the police directorate's 2024 identity-card figures (class identity). Nothing on civil registration."
+}

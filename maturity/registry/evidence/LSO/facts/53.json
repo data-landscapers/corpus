@@ -1,0 +1,23 @@
+{
+  "slug": "2011-02-24-lesotho-land-regulations-2011",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registers of land allocations kept by allocating authorities",
+      "country_label": "register of all allocations",
+      "class": "land",
+      "platform": "",
+      "owner": "land allocating authorities and local councils, reporting every 3 months to the Commissioner",
+      "tiers": "each allocating authority, rural and urban; the regulations do not say the register is electronic"
+    },
+    {
+      "system": "Register of land held by minors",
+      "country_label": "",
+      "class": "land",
+      "platform": "",
+      "owner": "Master of the High Court",
+      "tiers": "national; copies to the Commissioner and the Registrar or allocating authority"
+    }
+  ],
+  "note": "Land regulations (an excerpt, regulations 1 to 9): land registers only, out of scope; nothing on civil registration."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2025-10-20-world-bank-isr-digital-sao-tome-and-principe-seq7",
+  "facts": [],
+  "systems": [
+    {
+      "system": "New digital ID system (Digital Sao Tome and Principe project)",
+      "country_label": "digital ID system",
+      "class": "identity",
+      "platform": "",
+      "owner": "Government, financed by the World Bank Digital Sao Tome and Principe project (P177158)",
+      "tiers": "In design at September 2025, with mass enrolment targeted for January or February 2026; no ID strategy and modernisation roadmap published at 19 September 2025"
+    },
+    {
+      "system": "Interoperability platform (national data exchange layer)",
+      "country_label": "interoperability platform; interoperability solution",
+      "class": "",
+      "platform": "",
+      "owner": "Government, financed by the World Bank Digital Sao Tome and Principe project (P177158)",
+      "tiers": "Not operational at 19 September 2025; no government system connected, against a target of five by May 2027"
+    }
+  ],
+  "note": "A project status report on the submarine cable, digital ID design, data governance and the census; it says nothing about civil registration or the registry offices."
+}

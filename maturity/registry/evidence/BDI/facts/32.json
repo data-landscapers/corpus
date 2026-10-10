@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-isoko-fichier-national-identification-carte-nationale-identite",
+  "facts": [],
+  "systems": [
+    {"system": "Fichier National de l'Identification / Carte Nationale d'Identité", "country_label": "Fichier National de l'Identification; Carte Nationale d'Identité", "class": "identity", "platform": "", "owner": "", "tiers": "applied for and issued at the mairie or communal office, which draws up an identification sheet kept on site; further texts are still to be adopted to institute the national identification file"}
+  ],
+  "note": "The government portal's procedure page for the identity card; civil registration appears only as the birth certificate copy or extract required with the application, so there is no fact for the civil class. The page is undated."
+}

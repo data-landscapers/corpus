@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-16-new-deal-technologique-un-an",
+  "facts": [],
+  "systems": [
+    {"system": "e-Consulat", "country_label": "e-Consulat", "class": "certificate", "platform": "", "owner": "Government of Senegal", "tiers": "Senegalese abroad; remote requests for passports, consular cards and civil-status acts with online payment"},
+    {"system": "e-Sénégal", "country_label": "e-Sénégal", "class": "certificate", "platform": "", "owner": "Government of Senegal", "tiers": "national online single window; criminal-record and nationality-certificate requests and appointments; no civil-status service stated"},
+    {"system": "e-Jokko", "country_label": "e-Jokko", "class": "exchange", "platform": "", "owner": "Government of Senegal", "tiers": "national interoperability platform between ministries; first uses are tax-customs and social protection, civil status not named"}
+  ],
+  "note": "One-year review of the New Deal technologique; civil status appears only as acts that can be requested through the e-Consulat portal, which is a certificate service, and nothing is said on how offices record events."
+}

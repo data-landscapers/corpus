@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-01-gnb-undp-annual-report-2025",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNDP reports that SIREC was implemented with UNDP technical assistance and financed by the Swiss Confederation, the European Union and Portuguese Cooperation; no domestic funding is mentioned.", "as_of": "2025", "date_precision": "year", "system": "Integrated Civil Registration System (SIREC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "UNDP reports that during 2025 it deployed the SIREC platform, trained 63 civil registry officials on digital systems, and that Decree No. 02/2025 set a new legal framework for digital civil registration.", "as_of": "2025", "date_precision": "year", "system": "Integrated Civil Registration System (SIREC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated Civil Registration System (SIREC)", "country_label": "SIREC", "class": "civil", "platform": "", "owner": "Ministry of Justice and Human Rights civil registration service; deployed by UNDP", "tiers": "civil registry offices and health facilities, as designed; no count of offices given"},
+    {"system": "Digitisation of civil registry archives", "country_label": "", "class": "archive", "platform": "SIREC", "owner": "UNDP (led the operational digitisation)", "tiers": "Bissau: all civil birth registry books digitised, 230,967 records; over 7,500 registry books catalogued, more than 1.3 million records, in five regions"},
+    {"system": "Candonga di Justiça", "country_label": "Candonga di Justiça", "class": "outreach", "platform": "", "owner": "Ministry of Justice and Human Rights, with UNDP and EU support", "tiers": "periodic mobile operations in remote communities, combining legal aid and civil registration"},
+    {"system": "SIREC interoperability with national ID card, voter register, social protection and judiciary", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "described as future, not in place"}
+  ],
+  "note": "The report gives 19,142 new birth registrations and 627 marriage registrations for 2025 without saying they were made in SIREC, and gives no count of offices using it; no events, made or offices fact taken."
+}

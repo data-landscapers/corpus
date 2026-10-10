@@ -1,0 +1,9 @@
+{
+  "slug": "2023-09-29-cpv-2024-sniac-pec",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)", "country_label": "SNIAC", "class": "identity", "platform": "", "owner": "Ministério da Justiça", "tiers": ""},
+    {"system": "Passaporte Eletrónico - PEC", "country_label": "PEC", "class": "identity", "platform": "", "owner": "Ministério da Justiça (SNIAC)", "tiers": ""}
+  ],
+  "note": "Budget line record: CVE 141,524,912 proposed for FY2024 for the electronic passport, sub-line 9.1 of the SNIAC programme funded from the identity-document fee. An identity system by the document's own description; nothing on birth or death registration."
+}

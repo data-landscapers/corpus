@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's Equatorial Guinea registry row says, citing the UNICEF CRVS profile (2017 data), that births, marriages and deaths are processed manually on paper at civil registrars' offices, mayors' offices and local authorities, the registration books being sent to the central office and filed on paper.", "as_of": "2017", "date_precision": "year", "system": "Civil registration at civil registrars' offices, mayors' offices and local authorities", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The essay's Equatorial Guinea registry row says, citing the UNICEF CRVS profile (2017 data), that birth, marriage and death registration is manual and on paper, with no digital system mentioned.", "as_of": "2017", "date_precision": "year", "system": "Civil registration at civil registrars' offices, mayors' offices and local authorities", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The essay's Equatorial Guinea registry row says a digital civil registry pilot was launched in 2018 and that it found no evidence of implementation at rural facilities.", "as_of": "2018", "date_precision": "year", "system": "Digital civil registry pilot", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digital civil registry pilot", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "a pilot launched in 2018; no evidence of implementation at rural facilities"}
+  ],
+  "note": "The source is an AI-assisted compilation by its own header and is listed under exclude_sources in study.json; the facts are what its Equatorial Guinea registry row states, each attributed in the row to another document."
+}

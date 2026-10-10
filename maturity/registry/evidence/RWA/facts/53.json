@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-18 Why Are Rwandans Getting Multiple National ID Numbers - Auditor General Points to a System Flaw",
+  "facts": [],
+  "systems": [
+    {"system": "National ID system", "country_label": "national ID / 16-digit NIN", "class": "identity", "platform": "", "owner": "NIDA", "tiers": "national"}
+  ],
+  "note": "About the national identity number being reissued on correction or replacement; nothing on civil registration."
+}

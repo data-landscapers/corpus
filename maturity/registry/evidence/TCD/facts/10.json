@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-tchadinfos-maires-deux-logone-formes-enregistrement-naissances",
+  "facts": [],
+  "systems": [
+    {"system": "TASDJIL", "country_label": "application numérique TASDJIL", "class": "", "platform": "", "owner": "", "tiers": "UNICEF's sub-office head credits its deployment among government reforms; what it does and where it runs are not stated"},
+    {"system": "Interoperability between health facilities and civil-status centres", "country_label": "interopérabilité entre les formations sanitaires et les centres d'état civil", "class": "notification", "platform": "", "owner": "Government", "tiers": "health facilities and civil-status centres; extent not stated"},
+    {"system": "Fiches mensuelles de collecte des données des faits d'état civil", "country_label": "fiches mensuelles de collecte", "class": "", "platform": "", "owner": "Ministère de l'Administration du territoire et de la Décentralisation, with UNICEF support", "tiers": "civil-status officers send monthly disaggregated data up to the ministry; mayors of Logone occidental and Logone oriental trained"}
+  ],
+  "note": "TASDJIL is called a digital application with no description of what it does, so it is unclassified and gives no fact; the document states that organic laws 014 and 015/CNT/2024 of 16 August 2024 make communes the principal civil-status actors, which is law, not a system."
+}

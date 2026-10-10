@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01 CRVS Systems - Burkina Faso civil registration technical brief",
+  "facts": [],
+  "systems": [
+    {"system": "VENEEM", "country_label": "VENEEM", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A companion page to a PDF whose text is not in the file: it says only that civil registration was declared an essential service from March 2020 with staff rotation under lockdown, and names VENEEM without saying what it does. Nothing on digital entry at offices."
+}

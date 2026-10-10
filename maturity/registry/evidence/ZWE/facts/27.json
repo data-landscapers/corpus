@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-17-zimbabwe-social-registry-support-project-pid",
+  "facts": [],
+  "systems": [
+    {"system": "ZISO integration with civil registry systems", "country_label": "integration with civil registry systems", "class": "exchange", "platform": "ZISO, formerly ISPMIS", "owner": "Ministry of Public Service, Labor, and Social Welfare; financed by a World Bank-administered multi-donor trust fund (US$0.3 million IT component)", "tiers": "proposed, concept stage, February 2026"}
+  ],
+  "note": "A World Bank concept note for the social registry, outside the study's field; civil registration appears only as systems the social registry is to be integrated with, with nothing on how births or deaths are registered."
+}

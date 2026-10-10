@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-14-mali-kura-biometrie-systeme-souverain-ravec",
+  "facts": [],
+  "systems": [
+    {"system": "Mali Kura Biométrie", "country_label": "Mali Kura Biométrie", "class": "identity", "platform": "built by Malian engineers between 2 October and 16 December 2023, replacing the system held by IDEMIA; no foreign maintenance contractor", "owner": "Ministère de l'Administration territoriale, with a committee of volunteer national experts", "tiers": "central: the system managing the data of the RAVEC population census, launched 13 February 2024"},
+    {"system": "RAVEC", "country_label": "recensement administratif à vocation d'état civil (RAVEC)", "class": "identity", "platform": "", "owner": "", "tiers": "the population database recovered from IDEMIA"}
+  ],
+  "note": "On the system managing the RAVEC biometric population database; identity, with nothing on how civil status centres register births or deaths."
+}

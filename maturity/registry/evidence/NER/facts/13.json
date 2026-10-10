@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur; Agence nationale de l'enregistrement et d'identification des personnes physiques", "tiers": "not stated; registration operations by deconcentrated actors foreseen"},
+    {"system": "Carte Nationale d'Identité Biométrique", "country_label": "nouvelle Carte Nationale d'Identité Biométrique", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "système de gestion de l'état civil", "country_label": "système de gestion de l'état civil", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "interopérabilité du RNP avec l'état civil", "country_label": "RNP interopérable avec le système de gestion de l'état civil, la CNI biométrique, les documents de voyage et la nationalité", "class": "exchange", "platform": "", "owner": "", "tiers": "announced, future"},
+    {"system": "Atelier de sensibilisation sur les réformes en matière de l'état civil", "country_label": "atelier de sensibilisation", "class": "outreach", "platform": "", "owner": "Ministère de l'Intérieur (DGAT/DD)", "tiers": "Agadez, 28 August 2026"}
+  ],
+  "note": "The workshop account gives a 79.63% birth-declaration rate, credited to systematic registration of births in health centres, and the RNP's planned interoperability with a 'civil-status management system' that it names without describing. Nothing on how offices make the record."
+}

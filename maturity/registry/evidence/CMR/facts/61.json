@@ -1,0 +1,12 @@
+{
+  "slug": "2023-08-01-ins-cameroun-rapport-statistiques-etat-civil-2018-2022",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The national statistics institute's report of August 2023 states that civil-status data are collected manually, on paper, from the registers of the 2,875 civil status centres (419 principal, 2,455 secondary), of which three in five function; BUNEC obtained 2018 figures only by going through the registers in 2020, covering about 62% of centres.", "as_of": "2023-08", "date_precision": "month", "system": "Système ESEC", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The report describes the Bureau National de l'État Civil (BUNEC) as the government's technical arm for civil status, charged under decree 2013/031 with supervising the centres, building a national civil-status file and drawing up a master plan for computerising the system; stated as at the report's date.", "as_of": "2023-08", "date_precision": "month", "system": "Système ESEC", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système ESEC", "country_label": "Système d'enregistrement des faits d'état civil et de production des statistiques d'état civil (ESEC); centres d'état civil (CEC) principaux et secondaires", "class": "civil", "platform": "", "owner": "BUNEC (supervision), under MINDDEVEL; communes and civil status officers register", "tiers": "2,875 civil status centres: 419 principal (communes, urban communities, consular posts) and 2,455 secondary; paper registers, data compiled by BUNEC's 10 regional agencies"},
+    {"system": "DHIS2 birth and death declaration forms", "country_label": "formulaires individuels de déclaration de naissance, de décès et de causes de décès saisis dans le DHIS2", "class": "notification", "platform": "DHIS2", "owner": "Ministère de la Santé Publique (MINSANTE)", "tiers": "health facilities in four pilot regions (Centre, Extrême-Nord, Littoral, Sud), trained in 2022; electronic transmission of death declarations to civil status centres began in 2022 and is incomplete; 211 facilities had entered birth declaration forms"}
+  ],
+  "note": ""
+}

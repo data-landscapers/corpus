@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-25-ago-africanewsroom-id-cards-issued",
+  "facts": [],
+  "systems": [
+    {"system": "Campanha de Universalização do Registo Civil e do Bilhete de Identidade", "country_label": "Campanha de Universalização do Registo Civil e do Bilhete de Identidade", "class": "outreach", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos, through the Direcção Nacional de Identificação, Registo e Notariado", "tiers": "whole national territory and the diaspora; fixed posts and mobile brigades run by provincial delegations by municipality"},
+    {"system": "Bilhete de Identidade", "country_label": "Bilhete de Identidade", "class": "identity", "platform": "", "owner": "Direcção Nacional de Identificação, Registo e Notariado", "tiers": "Angola and the diaspora; 17,166,000 issued in all by 24 September 2026, more than 1.1 million of them in the campaign"},
+    {"system": "brigadas móveis", "country_label": "brigadas móveis", "class": "outreach", "platform": "", "owner": "Direcção Nacional de Identificação, Registo e Notariado and provincial justice delegations", "tiers": "several provinces, sent to communities including remote zones; the director calls them a permanent strategy, for identification services"}
+  ],
+  "note": "A release on identity-card issuance under the universalisation campaign and its mobile brigades; it does not say how, or whether, any office makes a digital record of a birth or death."
+}

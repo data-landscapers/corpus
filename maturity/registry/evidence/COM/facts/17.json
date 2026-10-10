@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-16-com-decret-26-003-pr-loi-de-finances-2026-annexes-companion",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:not-stated", "fact": "The companion page to the 2026 finance law (promulgated 16 January 2026) records that, hand-checked across Article 11 and the full ministry classification, the law carries no identity or data-exchange line at any grain, naming no population register or CRVS system, and no named IT system anywhere.", "as_of": "2026-01-16", "date_precision": "day", "system": "CRVS / population register (no line in the Loi de Finances 2026)", "class": "civil"}
+  ],
+  "systems": [],
+  "note": "The fact is a stated absence of a named domestic budget line for a civil registration system; finance:not-stated is the nearest value in the closed list and the parent may drop it. The rest of the document is the digital ministry's vote and tax-code provisions."
+}

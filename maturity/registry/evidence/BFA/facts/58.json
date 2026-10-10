@@ -1,0 +1,9 @@
+{
+  "slug": "2017-02-11-oni-missions",
+  "facts": [],
+  "systems": [
+    {"system": "base de données centralisée sur l'identité nationale", "country_label": "base de données centralisée sur l'identité nationale (système automatisé d'identification)", "class": "identity", "platform": "", "owner": "Office National d'Identification (ONI)", "tiers": ""},
+    {"system": "base de données sur l'état civil", "country_label": "base de données sur l'état civil", "class": "", "platform": "", "owner": "Office National d'Identification (ONI), as a mission to set one up", "tiers": ""}
+  ],
+  "note": "ONI's statement of its missions under its 2004 founding decree: identity cards, passports and the central identity database. Setting up a civil-status database is listed as a mission, with nothing said of what it does or whether it exists."
+}

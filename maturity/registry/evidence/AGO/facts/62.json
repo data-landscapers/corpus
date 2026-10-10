@@ -1,0 +1,10 @@
+{
+  "slug": "2021-01-25-angola-lei-3-21-alteracao-identificacao-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Bilhete de Identidade de Cidadão Nacional", "country_label": "Bilhete de Identidade de Cidadão Nacional; its number serves as the Número Único do Cidadão (NUC)", "class": "identity", "platform": "", "owner": "the service competent to issue the Bilhete de Identidade (not named)", "tiers": "not stated"},
+    {"system": "Base de Dados de Cidadão Maior", "country_label": "Base de Dados de Cidadão Maior", "class": "land", "platform": "", "owner": "", "tiers": "not stated; the database against which a voter card's data are confirmed"},
+    {"system": "Transmission of identity-card files to the civil registry", "country_label": "remessa oficiosa de cópia do processo para a Conservatória de Registo Civil competente", "class": "exchange", "platform": "", "owner": "the service competent to issue the Bilhete de Identidade", "tiers": "from the identity-card service to the competent Conservatória de Registo Civil, where a card is issued on a voter card (art. 20(6)); the medium is not stated"}
+  ],
+  "note": "An identity-card law: it names the birth entry and the civil registry office only as the documents an application rests on and as the recipient of a copy of the file; nothing on how the office makes the record of a birth or death."
+}

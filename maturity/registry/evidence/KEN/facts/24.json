@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-26-govt-enhances-registration-new-technology",
+  "facts": [],
+  "systems": [
+    {"system": "live capture devices", "country_label": "digital live capture technology devices", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "600 devices procured, transmitting national ID applications to the central processing centre in Nairobi"},
+    {"system": "e-Citizen", "country_label": "e-Citizen", "class": "certificate", "platform": "", "owner": "", "tiers": "over 24,000 services onboarded, among them what the principal secretary calls registration and printing of birth certificates online"},
+    {"system": "Integrated Population Registration System", "country_label": "IPRS", "class": "identity", "platform": "", "owner": "", "tiers": "over 800 organisations integrated for identity verification"},
+    {"system": "Civil Registration and Digital Identity sensitisation", "country_label": "CRDI", "class": "outreach", "platform": "", "owner": "Civil Registration Services", "tiers": "public sensitisation to raise birth and death registration"}
+  ],
+  "note": "The regional coordinator for civil registration reports civil registration officers in every sub-county of Kakamega, birth registration of 76.8 per cent there against 77 per cent nationally and death registration of 64 against 46 per cent; the document does not say how those officers make the record. The principal secretary's 'registration and printing of birth certificates online' is given as a service on e-Citizen, with no description."
+}

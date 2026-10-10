@@ -1,0 +1,14 @@
+{
+  "slug": "2017-06-19-loi-2017-08-identification-personnes-physiques",
+  "facts": [],
+  "systems": [
+    {"system": "registre national des personnes physiques", "country_label": "registre national des personnes physiques; Registre national biométrique de la population", "class": "identity", "platform": "nominative, personal, numeric and biometric database", "owner": "Agence nationale d'identification des personnes (ANIP), created by the law; the Agence nationale de traitement (ANT) in the interim", "tiers": "National; fed from the communal registers and the diplomatic or consular registers, the data sent electronically or, failing that, on paper within fifteen days"},
+    {"system": "registres communaux des personnes physiques", "country_label": "registre communal", "class": "identity", "platform": "", "owner": "The mayor, who may delegate to heads of arrondissement; designed and implemented by ANIP", "tiers": "Every commune; the law states that the communal register is distinct from the civil-status register"},
+    {"system": "carte nationale d'identité électronique", "country_label": "carte nationale d'identité électronique", "class": "identity", "platform": "card with electronic module and barcode", "owner": "", "tiers": "Compulsory for every Beninese aged 18 and over"},
+    {"system": "registre national des documents d'identification", "country_label": "registre national des documents d'identification", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "National; police and gendarmerie use it through an information system"},
+    {"system": "recensement initial administratif à vocation d'identification de la population", "country_label": "recensement initial administratif à vocation d'identification de la population", "class": "identity", "platform": "", "owner": "State; supervised by a national commission of nine members of the National Assembly and nine of the Government", "tiers": ""},
+    {"system": "Liste électorale permanente informatisée", "country_label": "LEPI", "class": "land", "platform": "", "owner": "", "tiers": ""},
+    {"system": "fichier national d'état civil", "country_label": "fichier national d'état civil", "class": "", "platform": "", "owner": "", "tiers": "To be put in place on the basis of the national register (art. 13)"}
+  ],
+  "note": "The identification law: it sets up the population register, the communal registers of persons, the identification number and the electronic identity card, and states that the communal register is distinct from the civil-status register; it says nothing of how births or deaths are registered."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-16-comoros-civil-status-modernisation-financing-need",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "Comores Droit reports that at the 14 August 2026 restitution in Moroni the country was said to hold a legal framework, technical studies, a national mapping of civil registration centres and a costed modernisation plan for its civil registration system.", "as_of": "2026-08-14", "date_precision": "day", "system": "AMECC II (projet d'appui à la modernisation de l'état civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The advances so far were financed by the French embassy and UNICEF through AMECC II, and national institutions validated a residual financing need of EUR 9,009,900 to implement the reform, according to the UNICEF-recruited consultant's presentation of 14 August 2026.", "as_of": "2026-08-14", "date_precision": "day", "system": "AMECC II (projet d'appui à la modernisation de l'état civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "A UNICEF-recruited consultant ran a resource-mobilisation mission from 30 July to 16 August 2026 and presented its first results on 14 August 2026, with an international mobilisation mission and a partners' conference to follow; the reform is described as still to pass from preparation to large-scale implementation.", "as_of": "2026-08-14", "date_precision": "day", "system": "AMECC II (projet d'appui à la modernisation de l'état civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "AMECC II (projet d'appui à la modernisation de l'état civil)", "country_label": "projet AMECC II", "class": "civil", "platform": "", "owner": "National institutions, financed by the French embassy and UNICEF", "tiers": "Preparation phase; no system in service stated"}
+  ],
+  "note": ""
+}

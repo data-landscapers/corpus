@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-12-south-sudan-iom-cfm-q2-2026-full-report",
+  "facts": [],
+  "systems": [
+    {"system": "DTM biometric registration", "country_label": "DTM biometric registration and re-registration exercise", "class": "identity", "platform": "", "owner": "IOM (Displacement Tracking Matrix)", "tiers": "IOM-managed displacement sites: Bentiu IDP Camp, Malakal PoC, Bulakat Transit Centre"}
+  ],
+  "note": "A humanitarian feedback report; the only registration it describes is IOM's biometric registration of displaced people and their registration cards, which is not civil registration."
+}

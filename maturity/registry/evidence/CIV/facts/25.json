@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices predominantly record births and vital events on paper, with manual registration at local civil status centres; it gives no date for this, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper registers at local civil status centres (Bureau de l'État Civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:12.2%", "fact": "The essay's country table states that ONECI's Cityweb software was in 105 of 860 centres across 5 regions as of early 2024, with a plan for 80 per cent by the end of 2024, citing a Semlex page.", "as_of": "2024", "date_precision": "year", "system": "Cityweb", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay's country table states that Cityweb enables digital entry at the centres with real-time updates and no manual transmission, citing a Semlex page.", "as_of": "2024", "date_precision": "year", "system": "Cityweb", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The essay's country table describes Cityweb as a national digital system being rolled out by ONECI.", "as_of": "2024", "date_precision": "year", "system": "Cityweb", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Cityweb", "country_label": "Cityweb", "class": "civil", "platform": "Cityweb", "owner": "ONECI", "tiers": "local civil status centres: 105 of 860 across 5 regions as of early 2024"},
+    {"system": "RNPP", "country_label": "RNPP", "class": "identity", "platform": "", "owner": "", "tiers": "national; named only as a national ambition"}
+  ],
+  "note": "This source is in study.json exclude_sources (an AI-assisted compilation by its own header): the facts record what its Côte d'Ivoire registry row states, for the parent to exclude. It also gives rural birth registration coverage of 60 per cent in 2016 against 90 per cent urban, a share of births, not of offices."
+}

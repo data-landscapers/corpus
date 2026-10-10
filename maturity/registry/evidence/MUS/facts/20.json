@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-01-rgd-annual-report-2024-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius e-Registry System (MeRS)", "country_label": "MeRS; Mauritius e-Registry Project (MeRP)", "class": "land", "platform": "", "owner": "Registrar-General's Department, Ministry of Finance", "tiers": "national online registration of deeds, land registry searches and motor-vehicle transfers, in operation since 2014"},
+    {"system": "Movable Property Registry System (MPRS)", "country_label": "MPRS", "class": "land", "platform": "", "owner": "Registrar-General's Department", "tiers": "planned collateral registry; draft legislation submitted"},
+    {"system": "MauPass", "country_label": "MauPass (Individual)", "class": "identity", "platform": "", "owner": "Government of Mauritius", "tiers": "national single sign-on, integrated into MeRS in 2024-25"}
+  ],
+  "note": "The Registrar-General's Department registers deeds, land and vehicle transfers, not births and deaths: its systems fall in the out-of-scope land class and the report says nothing about civil registration. The captured text is truncated at the fetch cap."
+}

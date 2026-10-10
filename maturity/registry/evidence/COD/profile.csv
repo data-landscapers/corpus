@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COD,civil,governance,qualifier,owner:partner;plan:none;finance:donor,2026-10-01,COD-001;COD-005;COD-013,COD-014=finance:donor;COD-015=plan:none;COD-020=owner:ministry;COD-021=plan:none;COD-022=finance:donor,
+COD,civil,events,coverage,B;D,2025-08-18,COD-012,COD-018=none,
+COD,civil,made,coverage,paper,2026-07-23,COD-003;COD-007;COD-017;COD-023,,
+COD,civil,last12,qualifier,advancing,2026-10-01,COD-002;COD-006;COD-016,COD-004=regressing,
+COD,civil,offices,coverage,pilot,2025-08-18,COD-011,COD-019=none,

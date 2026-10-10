@@ -1,0 +1,34 @@
+{
+  "slug": "2020-01-01-worldbank-car-digital-economy-assessment",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The World Bank's digital economy assessment describes the current civil registration and identification system as fragmented and on paper, with civil registration archives largely on paper and a large part of the registers destroyed in the 2013 crisis, and civil registration services still unavailable in many regions; it gives no date for the statement, and the date is its publication year.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "système d'enregistrement à l'état civil (paper)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Système d'enregistrement à l'état civil",
+      "country_label": "système d'enregistrement à l'état civil; services d'état civil",
+      "class": "civil",
+      "platform": "paper",
+      "owner": "",
+      "tiers": "not available in many regions of the country; archives largely on paper and largely destroyed in 2013"
+    },
+    {
+      "system": "Système d'identification national",
+      "country_label": "système d'identification national; carte d'identité nationale; attestation d'identité",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "national identity cards not being issued at the time of the assessment, a three-month identity attestation used instead; biometric data collected for passports with a private company"
+    }
+  ],
+  "note": ""
+}

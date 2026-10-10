@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-06-le-renouveau-plateforme-digitale-etat-civil-cni-biometrique",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 6 May 2026 the interior ministry, with the support of Ladec, presented and demonstrated the digital civil-status platform and biometric identity card production; the permanent secretary named electricity and internet coverage in all registration centres and health facilities, training and card-production kits as challenges still to be met.", "as_of": "2026-05-06", "date_precision": "day", "system": "Plate-forme digitale d'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministère de l'Intérieur, du développement communautaire et de la sécurité publique presented the platform, with the support of Ladec (Land and development expertise center) and in the presence of the Swiss cooperation office; the permanent secretary called on all partners to accompany the process.", "as_of": "2026-05-06", "date_precision": "day", "system": "Plate-forme digitale d'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Plate-forme digitale d'état civil", "country_label": "Plate-forme digitale d'état civil", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur, du développement communautaire et de la sécurité publique, with the support of Ladec", "tiers": "presented and demonstrated 6 May 2026; registration centres and health facilities named as the sites needing electricity and internet"},
+    {"system": "carte nationale d'identité biométrique", "country_label": "CNI biométrique", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur, du développement communautaire et de la sécurité publique", "tiers": "production presented; kits still to be bought"}
+  ],
+  "note": "The article gives no count of offices, does not say which events the platform records or how, and names no funding source; a centralised database is listed among the system's expected benefits."
+}

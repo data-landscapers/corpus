@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN) registry", "country_label": "NIN", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC), under a World Bank-supported programme", "tiers": "enrolment centres, expanded; mobile NIN vans at rural markets and religious gatherings"}
+  ],
+  "note": "About farmers failing identity verification for agricultural programmes; nothing on civil registration. The farmers registry, bank verification number and SIM registration it names are outside the typology."
+}

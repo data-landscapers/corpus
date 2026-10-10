@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registry (no national ID)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global report on identity coverage. Somalia appears twice: named among the economies furthest behind on birth registration rates, and in Annex D, whose table gives its foundational ID system as 'Civil Registry (no national ID)', no digital ID, and the birth registration rate as the proxy for adult coverage (credential names verified in early 2024). Neither says how or where a birth or death is recorded, and a share of births registered places nothing, so no fact is taken; the registry is named without a description and is left unclassified."
+}

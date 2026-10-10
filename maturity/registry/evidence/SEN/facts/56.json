@@ -1,0 +1,16 @@
+{
+  "slug": "2025-11-05-aps-anec-nekkal-seul-outil-reconnu-20-millions-actes",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:400", "fact": "ANEC's director-general Matar Ndao told a press conference on 5 November 2025 that the NEKKAL application is deployed in 400 civil-status centres, from which the central civil-status database is accessible; he gave no total number of centres.", "as_of": "2025-11-05", "date_precision": "day", "system": "NEKKAL", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "ANEC's director-general said on 5 November 2025 that the central civil-status database is accessible from the NEKKAL application in the 400 centres where it is deployed, and spoke of a 'network of civil-status centres connected to NEKKAL'; the article does not say in terms that acts are entered in it at registration.", "as_of": "2025-11-05", "date_precision": "day", "system": "NEKKAL", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "On 5 November 2025 the director-general of ANEC, an agency attached to the ministry of Urbanisme, Collectivités territoriales et Aménagement des territoires, stated that NEKKAL is the only civil-status management tool recognised by the government.", "as_of": "2025-11-05", "date_precision": "day", "system": "NEKKAL", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 5 November 2025 ANEC's director-general called on mayors still using 'clandestine' civil-status management software to stop and to join the network of centres connected to NEKKAL, and reported 20 million acts digitised, indexed and loaded into the national civil-status register and a user platform designed for remote requests.", "as_of": "2025-11-05", "date_precision": "day", "system": "NEKKAL", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "NEKKAL", "country_label": "application NEKKAL", "class": "civil", "platform": "", "owner": "ANEC", "tiers": "deployed in 400 civil-status centres"},
+    {"system": "Registre national de l'état civil", "country_label": "registre national de l'état civil; base de données centrale de l'état civil", "class": "archive", "platform": "", "owner": "ANEC", "tiers": "central; 20 million acts digitised, indexed and loaded"},
+    {"system": "Logiciels 'clandestins' de gestion de l'état civil", "country_label": "logiciels clandestins", "class": "civil", "platform": "", "owner": "communes (mayors), not recognised by the government", "tiers": "some communes' civil-status centres, number not stated"},
+    {"system": "Plateforme dédiée aux usagers", "country_label": "plateforme dédiée aux usagers, for remote requests", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "not stated"}
+  ],
+  "note": ""
+}

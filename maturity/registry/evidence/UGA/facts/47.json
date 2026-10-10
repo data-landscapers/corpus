@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access",
+  "facts": [],
+  "systems": [
+    {"system": "National ID System", "country_label": "National Identification Register; National ID card (Ndaga Muntu); NIN", "class": "identity", "platform": "", "owner": "NIRA", "tiers": "the High Court held on 10 June 2025 that it operates primarily offline"}
+  ],
+  "note": "An advocacy account of the June 2025 High Court ruling on mandatory use of the national ID; nothing on the registration of births or deaths."
+}

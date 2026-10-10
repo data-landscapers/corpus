@@ -1,0 +1,16 @@
+{
+  "slug": "2025-08-21-anip-guichet-unique-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The government states that from 20 August 2025 the declaration and registration of a birth are done on site in about ten public health facilities, the parents receiving the child's NPI by SMS, with registration and the NPI free.", "as_of": "2025-08-20", "date_precision": "day", "system": "Guichet unique", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The government states that the one-stop desk's pilot phase was launched on 20 August 2025 at CHU-MEL Cotonou and runs for six months, August 2025 to February 2026, in ten public health facilities, with generalisation promised by ANIP afterwards.", "as_of": "2025-08-20", "date_precision": "day", "system": "Guichet unique", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The pilot was launched by ANIP, represented by its head of policy, partnerships and communication, with the Director of Civil Status present, on 20 August 2025.", "as_of": "2025-08-20", "date_precision": "day", "system": "Guichet unique", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The government states that ANIP set up the one-stop desk with the support of its partners WURI and UNICEF; no domestic budget line is stated.", "as_of": "2025-08-20", "date_precision": "day", "system": "Guichet unique", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Guichet unique", "country_label": "guichet unique (déclaration, enregistrement et obtention de l'acte de naissance)", "class": "civil", "platform": "", "owner": "ANIP, with WURI and UNICEF support", "tiers": "ten public health facilities: CHU-MEL and CNHU Cotonou, CHU Abomey-Calavi, the departmental hospitals of Zou-Collines, Ouémé, Borgou-Alibori and Mono, the zone hospitals of Natitingou and Suru-Léré, and the Ordre de Malte hospital at Djougou; the NPI goes to parents by SMS"},
+    {"system": "ANIP communal units", "country_label": "unités communales", "class": "", "platform": "", "owner": "ANIP", "tiers": "where parents often had to go several times to complete a birth registration; how they record is not described"},
+    {"system": "Online birth act and NPI certificate", "country_label": "acte de naissance et certificat NPI en ligne", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "online or at ANIP's physical counters"},
+    {"system": "RAVIP", "country_label": "RAVIP", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "parents not yet enrolled can enrol at the desk and update their contact details"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-27-aps-nekkal-atteint-objectifs-capitalisation-connectivite",
+  "facts": [],
+  "systems": [
+    {"system": "système d'information de l'état civil (programme Nekkal)", "country_label": "Nekkal", "class": "", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "programme launched 7 May 2021 and closed after 42 months; the document does not say what the information system does"},
+    {"system": "connectivité Internet des centres d'état civil", "country_label": "", "class": "enabling", "platform": "", "owner": "", "tiers": "civil-status centres; ANEC's director said on 27 April 2026 that some centres had Internet installed without a complete circuit, so in effect none, and that speeds were very low"},
+    {"system": "fichier national d'identité biométrique", "country_label": "fichier national d'identité biométrique", "class": "identity", "platform": "", "owner": "", "tiers": "national; named as the programme's second objective"}
+  ],
+  "note": "ANEC's director reports the Nekkal programme's objectives met and names connectivity and training shortfalls in centres; the document describes no system by what it does and gives no figure on offices or events, so no fact is written."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-31-eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Recenseamento eleitoral automático",
+      "country_label": "recenseamento eleitoral automático; cadernos eleitorais",
+      "class": "land",
+      "platform": "",
+      "owner": "Comissão Eleitoral Nacional (CEN), under the EU-funded PRESE project",
+      "tiers": "National; provisional rolls consulted at district, regional and diaspora electoral commissions and online"
+    }
+  ],
+  "note": "States only that the electoral roll for the 19 July 2026 presidential election was compiled automatically, for the first time, from the civil registry directorate's data; says nothing on how or where a birth or death is registered."
+}

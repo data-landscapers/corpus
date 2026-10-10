@@ -1,0 +1,14 @@
+{
+  "slug": "2026-02-26-guichet-unique-naissances-bilan-six-mois",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "At the review workshop of 24 February 2026 ANIP's Herbert Assogba reported that in six months 17,071 children were declared in the pilot health facilities and 13,069 of them registered, 76.56%, against a registration rate of 21.95% in 2025.", "as_of": "2026-02-24", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "Six months after the pilot phase was launched the one-stop desk was running in 10 health facilities, with gradual national scale-up named as a prospect at the workshop of 24 February 2026.", "as_of": "2026-02-24", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The pilot was launched by ANIP with the Ministry of Health as its partner, the WURI programme, UNICEF and the Ministry of the Interior attending the review as stakeholders on 24 February 2026.", "as_of": "2026-02-24", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The six-month review of 24 February 2026 reported registration in the ten pilot facilities up from 21.95% to 76.56%, with over 96% of filiations legally secured.", "as_of": "2026-02-24", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Guichet unique de déclaration et d'enregistrement des naissances", "country_label": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil", "platform": "", "owner": "ANIP, with the Ministry of Health", "tiers": "10 health facilities; replaces the parents' journey to ANIP centres after the birth; the document does not describe the tools used"},
+    {"system": "RNPP", "country_label": "RNPP", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national; its quality is said to be strengthened by the desk"}
+  ],
+  "note": ""
+}

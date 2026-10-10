@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-11-rapid-mixed-methods-assessment-libya-primary-care-system",
+  "facts": [],
+  "systems": [
+    {"system": "Automated vital registration system", "country_label": "vital registration system", "class": "", "platform": "", "owner": "", "tiers": "more than 400 civil registration offices are counted in the same sentence; the article does not say they use the system"}
+  ],
+  "note": "A primary care assessment (data gathered 2021). One sentence says Libya has more than 400 civil registration offices and an automated vital registration system, citing a 1991 technical paper; it does not say what is automated or where a birth or death is entered, so no aspect takes a value."
+}

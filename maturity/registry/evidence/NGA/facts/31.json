@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay states that the National Population Commission's roughly 4,000 local registration centres, each serving groups of rural communities, predominantly record births by hand on paper forms that are digitised later at regional level, with backlogs; it gives no date, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "NPC local registration centres", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The essay states that electronic civil registration with UNICEF is limited to pilots and select states, naming Nasarawa and Kano with OpenCRVS and mobile applications at health facilities and community drives, and not reaching most rural offices; undated, so its publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "eCRVS", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "eCRVS", "country_label": "eCRVS; ecrvs.nationalpopulation.gov.ng self-service portal", "class": "civil", "platform": "OpenCRVS and mobile applications, as the essay names them", "owner": "National Population Commission (NPC), with UNICEF", "tiers": "pilots in Nasarawa and Kano states at health facilities and community drives; about 4,000 NPC local registration centres nationwide"},
+    {"system": "RapidSMS", "country_label": "RapidSMS", "class": "", "platform": "RapidSMS", "owner": "", "tiers": "since 2011, for monitoring and reporting, not registration"}
+  ],
+  "note": "study.json lists this slug under exclude_sources (an AI-assisted compilation, by its own header); the facts are recorded as the brief requires and the exclusion is the parent's to apply."
+}

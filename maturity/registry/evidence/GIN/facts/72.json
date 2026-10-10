@@ -1,0 +1,8 @@
+{
+  "slug": "2014-11-25-guinea-national-identity-card-coi-query-response",
+  "facts": [],
+  "systems": [
+    {"system": "national identity card and its central database", "country_label": "carte nationale d'identité", "class": "identity", "platform": "cards made by Sabari Technology", "owner": "police service responsible for forensic identification, under the ministry of security", "tiers": "issued at central police stations (seven in Conakry); about 20 per cent of those required to hold a card had one in 2013"}
+  ],
+  "note": "A query response on the national identity card: the birth certificate appears only as a document required to apply, and nothing is stated about how civil registration offices record events."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-08-zimbabwe-unicef-china-birth-registration-digitisation",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "UNICEF's chief of child protection said on the Friday before publication that some decentralised Civil Registry sub-offices are not currently computerised; no count is given.", "as_of": "2026-08-07", "date_precision": "day", "system": "Civil Registry sub-offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "UNICEF and the government are set to computerise, digitalise and solar-power 10 Civil Registry sub-offices at 10 sites in eight districts, under a China-funded project announced at the Goromonzi launch of a two-year drought programme on the Friday before publication.", "as_of": "2026-08-07", "date_precision": "day", "system": "computerisation of Civil Registry sub-offices", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The computerisation of 10 Civil Registry sub-offices is under a project funded by China and implemented by UNICEF in partnership with the government; no amount is given.", "as_of": "2026-08-07", "date_precision": "day", "system": "computerisation of Civil Registry sub-offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "computerisation of Civil Registry sub-offices", "country_label": "computerisation, digitalisation and solar powering of Civil Registry sub-offices", "class": "civil", "platform": "", "owner": "Civil Registry Department with UNICEF; funded by China", "tiers": "10 decentralised sub-offices at 10 sites in eight districts"},
+    {"system": "targeted mobile registration exercises", "country_label": "mobile registration component", "class": "outreach", "platform": "", "owner": "Civil Registry Department with UNICEF", "tiers": "communities that are difficult to reach"}
+  ],
+  "note": "The document says computerisation will improve efficiency and give access to digitised copies of birth certificates; it does not say the sub-office will enter the birth digitally at registration. The 10 sub-offices are to be computerised, so no offices fact is recorded. The date 2026-08-07 is the Friday before the publication date."
+}

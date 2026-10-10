@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-mchumanisi-data-exchange-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Mchumanisi", "country_label": "National Data Exchange Platform (Mchumanisi)", "class": "exchange", "platform": "", "owner": "Ministry of Information, Communications and Technology (proposed in the draft National Data Governance Policy 2027-2031)", "tiers": "proposed, not built; for secure sharing between government institutions, civil registration data among the fragmented holdings named, as reported 2026-07-22"}
+  ],
+  "note": "A proposed data exchange platform in a draft policy under validation; civil registration appears only as one of the data holdings spread across more than 70 government systems, and nothing is said of how births or deaths are entered."
+}

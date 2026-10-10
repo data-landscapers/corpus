@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-sdn-national-health-sector-recovery-and-reform-strategic-plan-nhrr-sp-2022",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration and vital statistics (CRVS) systems", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A health sector plan: it names CRVS systems only as a data source for its monitoring, sets an outcome of better coordination of birth and death registration with a birth registration rate baseline of 67.3 (MICS 2014) and no death rate, and says nothing of how or where a registry office makes the record."
+}

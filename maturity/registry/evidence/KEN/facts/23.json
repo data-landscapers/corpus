@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-28-kenyans-to-soon-access-their-national-ids-electronically-murkomen-confirms",
+  "facts": [],
+  "systems": [
+    {"system": "eCitizen birth certificate application and download", "country_label": "eCitizen, Civil Registration Department Services", "class": "certificate", "platform": "eCitizen", "owner": "Ministry of Interior", "tiers": "online: apply, upload documents, pay, await approval, then download and print; announced days before 28 June 2026"},
+    {"system": "digital Maisha Card", "country_label": "Maisha Card", "class": "identity", "platform": "", "owner": "Ministry of Interior", "tiers": "announced on 27 June 2026 as coming soon, no date given"}
+  ],
+  "note": "A phone-based identity card to come and an online portal for applying for and printing birth certificates; neither is the registrar's office making the record of a birth or death."
+}

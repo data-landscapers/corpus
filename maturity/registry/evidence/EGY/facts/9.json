@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-egypt-sim-verification-5-million-users",
+  "facts": [],
+  "systems": [
+    {"system": "Araqamy ('My Lines')", "country_label": "Araqamy", "class": "identity", "platform": "My NTRA app", "owner": "National Telecom Regulatory Authority", "tiers": "national; lets users review mobile lines and e-wallets linked to their national identity cards"}
+  ],
+  "note": "SIM lines registered against national identity cards; nothing on civil registration."
+}

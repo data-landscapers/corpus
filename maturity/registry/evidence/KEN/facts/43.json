@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa",
+  "facts": [],
+  "systems": [
+    {"system": "national identity card registration", "country_label": "", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "applicants take supporting documents to the local government authority, then to the bureau's offices for a form and biometrics; about 200,000 first-time applications a month"}
+  ],
+  "note": "A study of identity requirements for mobile money in Kenya and Tanzania; birth certificates appear as a supporting document for an ID application and as a source of errors, with nothing on how births or deaths are registered."
+}

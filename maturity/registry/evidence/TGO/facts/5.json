@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-15-tgo-levisionnaire-matglac-etat-civil-reforme-cadre-juridique",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The territorial administration ministry (MATGLAC) officially launched the re-reading of law 2009-010 on the organisation of civil status on 21 August 2026, with OIF technical and financial support and UNECA technical input; its director of territorial administration said the reform must take in the digitisation of civil status and the interoperability of systems, across the 117 communes created since the law.", "as_of": "2026-08-21", "date_precision": "day", "system": "état civil (civil registration system)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "MATGLAC opened a three-day technical workshop on 8 September 2026 for the support unit re-reading the 2009 civil status law, with UNECA expertise; a diagnosis of the law's application is to precede a new or amending law.", "as_of": "2026-09-08", "date_precision": "day", "system": "état civil (civil registration system)", "class": "civil"}
+  ],
+  "systems": [],
+  "note": "No information system is named; the two facts are dated steps in a law review that is to provide for digitisation. The document does not say how offices register today."
+}

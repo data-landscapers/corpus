@@ -1,0 +1,8 @@
+{
+  "slug": "2024-08-15-tech5-mauritania-digital-id-pilot-undp",
+  "facts": [],
+  "systems": [
+    {"system": "digital ID pilot (later Houwiyeti)", "country_label": "Houwiyeti (هويتي)", "class": "identity", "platform": "TECH5 T5-OmniMatch, T5-AirSnap Face, T5-LDS, T5-IDencode / T5-Cryptograph; back end and identity provider by SmartMS; OpenID Connect; source code contributed to MOSIP", "owner": "Ministry of Digital Transition, Innovation and Public Sector Modernisation (MTNIMA); funded by UNDP", "tiers": "mobile app for digital onboarding from a passport or contactless ID card and face verification for passwordless login to the e-government portal; pilot tender June 2022, presented 22 March 2023 to more than 70 testers, ran to 1 October 2023"}
+  ],
+  "note": "The vendor's account of a digital identity pilot for e-government login; nothing on registering births or deaths."
+}

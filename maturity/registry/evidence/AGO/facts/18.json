@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral",
+  "facts": [],
+  "systems": [
+    {"system": "base de dados de cidadãos maiores", "country_label": "actualização do registo eleitoral (prova de vida)", "class": "land", "platform": "", "owner": "interministerial commission headed by the Minister of State and head of the Casa Civil; database handed to the Comissão Nacional Eleitoral", "tiers": "Balcões Únicos de Atendimento ao Público in municipal and communal administrations and some diplomatic and consular missions; 254 working in the 21 provinces at 15 June 2026, of 634 intended"},
+    {"system": "brigadas móveis de registo de nascimento e emissão de Bilhetes de Identidade", "country_label": "brigadas móveis", "class": "outreach", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos, with the Ministério da Administração do Território", "tiers": "to be sent to communities in distant zones; late registration for adults without any document"}
+  ],
+  "note": "A report on the electoral register update; birth registration appears only as a campaign to be intensified by mobile brigades, with nothing on how the record is made."
+}

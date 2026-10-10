@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-15-developzim-zchpc-hpc-phase-2-commissioned",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registry integration with the High Performance Computing centre", "country_label": "Civil Registry", "class": "exchange", "platform": "", "owner": "Zimbabwe Centre for High Performance Computing hosts the infrastructure", "tiers": "national data centre at the University of Zimbabwe; integrated to support Smart Policing"}
+  ],
+  "note": "The commissioning of a national computing centre on 15 August 2025: one sentence says the Civil Registry is integrated with it to support Smart Policing; nothing on how births or deaths are registered."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-02-superapp-digital-wallet-clarification-no-1",
+  "facts": [],
+  "systems": [
+    {"system": "SuperApp based on Verifiable Digital Credentials in a Secure ID Wallet (request for information, launched 2025-09-11)", "country_label": "SuperApp / Digital wallet", "class": "certificate", "platform": "blockchain, to be proposed by the bidder; self-sovereign identity with selective disclosure", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "planned citizen wallet expected to hold nine documents, among them the Mobile ID, the birth certificate and the marriage certificate"}
+  ],
+  "note": "A procurement clarification of 2025-10-02 for a planned wallet that would hold the birth certificate as a credential; a system not yet built, and nothing on how or where births and deaths are registered."
+}

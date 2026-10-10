@@ -1,0 +1,11 @@
+{
+  "slug": "2022-03-02-decret-22-07-fichier-general-population",
+  "facts": [],
+  "systems": [
+    {"system": "Fichier général de la population (FGP)", "country_label": "fichier général de la population (FGP)", "class": "identity", "platform": "", "owner": "Office National d'Identification de la Population (ONIP), which constitutes and maintains it; held only on national territory", "tiers": "not stated: created in law by Decree 22/07 of 2 March 2022, with compulsory registration and a national identification number given at first registration; the decree does not say it is in operation"},
+    {"system": "automatic update of the FGP through civil status", "country_label": "mise à jour automatique à travers l'état civil", "class": "exchange", "platform": "", "owner": "ONIP; authorities holding the data must communicate them regularly to the FGP (Article 11)", "tiers": "not stated: provided for in the decree (Article 6.2), which also has the FGP hold birth and death act numbers and the registration numbers of a person's civil-status acts (Article 9); no operating link described"},
+    {"system": "communal and territorial population registers", "country_label": "registres communaux et territoriaux de la population", "class": "identity", "platform": "", "owner": "not stated", "tiers": "communes and territories; the FGP is to harmonise their management with that of the civil-status registers (Article 6.8); nothing said of their form"},
+    {"system": "civil-status registers", "country_label": "registres de l'état civil", "class": "", "platform": "", "owner": "not stated; governed by the Family Code", "tiers": "not stated; named only as the registers the FGP is to be updated from and harmonised with"}
+  ],
+  "note": "A decree creating the population file, an identity system. It names the civil-status registers only as a source for that file and states nothing about how a civil registration office records a birth or death. The captured text stops in Article 18."
+}

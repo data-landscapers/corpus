@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's Somalia registry row, an AI-assisted compilation by its own header, states that rural registry offices (district or local municipal offices) rely on paper forms for births and that most rural registration remains paper-based; it gives no date for this, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural registry offices (Degmada/local municipalities)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The essay's Somalia registry row states, citing OpenCRVS's country story, that more than 28,000 births had been registered digitally through OpenCRVS by 2026; it mentions no deaths.", "as_of": "2026", "date_precision": "year", "system": "OpenCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay's Somalia registry row states, citing OpenCRVS's country story, that births are registered digitally at the point of service into a central database (2026).", "as_of": "2026", "date_precision": "year", "system": "OpenCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:30", "fact": "The essay's Somalia registry row states, citing OpenCRVS's country story, that OpenCRVS runs as digital pilots in 30 districts, many of them rural, with 160 hospitals linked (2026); it gives no total of districts or offices and says the pilots cover a minority of facilities.", "as_of": "2026", "date_precision": "year", "system": "OpenCRVS", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:19", "fact": "The essay's Somalia registry row states, citing SONNA, that the system was launched in 19 districts including rural ones (Abudwaq, Hudur and Kismayo are named) in August 2025; it gives no total.", "as_of": "2025-08", "date_precision": "month", "system": "OpenCRVS", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "OpenCRVS", "country_label": "", "class": "civil", "platform": "OpenCRVS", "owner": "", "tiers": "30 districts, many rural, with 160 hospitals linked; launched in 19 districts in August 2025"}
+  ],
+  "note": "Passages only. The source is listed in study.json's exclude_sources as an AI-assisted compilation; its facts are recorded as what it states and each says so. It calls the OpenCRVS deployment 'digital pilots'. It also mentions a CRVS policy and law (2021 onward) and a 2024-29 plan without saying the plan names the system, so no governance fact is taken; and a UNFPA 2021 statement of no national CRVS office and an unimplemented digital repository policy, and 3.5% of under-fives registered (SHDS 2020), which are not office facts."
+}

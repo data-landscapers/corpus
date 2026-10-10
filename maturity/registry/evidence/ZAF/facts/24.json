@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-15-dha-highest-ever-smart-id-output-2025-26",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Deputy Minister of Home Affairs told the National Assembly on 15 May 2026 that the department intends in 2026/27 to automate the birth process at health facilities for first registrations of citizens, which he said would end the generation of paper records; it is stated as an intention, not as a system in use.", "as_of": "2026-05-15", "date_precision": "day", "system": "automated birth process at health facilities", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "automated birth process at health facilities", "country_label": "Early Birth Registration", "class": "civil", "platform": "", "owner": "Department of Home Affairs, Civic Services Branch", "tiers": "health facilities; planned for 2026/27, first registrations of citizens; 680,555 babies registered within 30 days of birth in 2025/26 against a target of 677,000"},
+    {"system": "digitisation of civic records", "country_label": "digitisation of Civic Records", "class": "archive", "platform": "", "owner": "Department of Home Affairs", "tiers": "more than 60 million civic records digitised since inception; a further 25 million targeted for 2026/27"},
+    {"system": "mobile offices", "country_label": "mobile offices", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "6,304 site visits in 2025/26, of which 5,010 public schools and 516 special schools; rural, remote and disaster-affected communities; identity documents and replacement birth certificates"},
+    {"system": "Smart ID card", "country_label": "Smart ID Card", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "just over four million issued in 2025/26"}
+  ],
+  "note": ""
+}

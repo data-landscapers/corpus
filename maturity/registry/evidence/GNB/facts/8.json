@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices in Guinea-Bissau rely entirely on paper for births and vital events, with SIREC begun in 2025 as an early rollout not standard at rural registries; the row gives no date of its own, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Rural registry offices (paper registers)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "SIREC", "country_label": "SIREC", "class": "civil", "platform": "", "owner": "supported by UNDP and UNICEF", "tiers": "described as a national digital system begun in 2025 for digitising records and some birth registrations, with efforts to extend to remote areas and health facilities; not standard at rural registries"}
+  ],
+  "note": "This slug is in study.json exclude_sources (an AI-assisted compilation); the one fact is recorded as the document states it and is the parent's to exclude."
+}

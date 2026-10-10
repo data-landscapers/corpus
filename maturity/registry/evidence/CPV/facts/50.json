@@ -1,0 +1,46 @@
+{
+  "slug": "2014-12-09-cabo-verde-boletim-oficial-lei-75-viii-2014-codigo-registo-civil",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The Civil Registry Code approved by Lei 75/VIII/2014 makes birth and death registrable facts (art. 1) and provides that civil registry acts and processes are drawn up in electronic form (art. 15), birth and death entries declared at a competent office being made by inscription (art. 40); this is what the law requires, not a report of practice.",
+      "as_of": "2014-12-10",
+      "date_precision": "day",
+      "system": "base de dados do registo civil nacional",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The Code requires entries to be drawn up in electronic form at the conservatórias, delegations or hospital civil registry posts (arts. 15, 45), a hospital birth to be registered at the hospital post before discharge (art. 76), and acts to be held in the national civil registry database, which any conservatória consults in place of certificates (arts. 6, 36); an entry is made on paper only when the system is unavailable and is then transcribed (art. 41(1)(g)). A legal requirement, not a report of practice.",
+      "as_of": "2014-12-10",
+      "date_precision": "day",
+      "system": "base de dados do registo civil nacional",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Code places electronic requests, communications and notifications under rules set by order of the minister responsible for justice (art. 15) and the electronic archiving of registry documents under terms set by the Director-General of Registries, Notary and Identification (art. 24).",
+      "as_of": "2014-12-10",
+      "date_precision": "day",
+      "system": "base de dados do registo civil nacional",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "base de dados do registo civil nacional",
+      "country_label": "base de dados do registo civil nacional; suporte informático de registo civil nacional; sistema informático",
+      "class": "civil",
+      "platform": "",
+      "owner": "Direcção-Geral dos Registos, Notariado e Identificação, under the minister responsible for justice",
+      "tiers": "Conservatória dos Registos Centrais, conservatórias do registo civil, delegações dos registos e notariado, postos de registo civil (including hospital posts); consulates for entries made abroad"
+    }
+  ],
+  "note": "The capture is truncated at art. 78 of the Code; later articles, including those on death registration, were not available to read."
+}

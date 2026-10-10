@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-28-civil-registry-digital-system-birth-death-marriage",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Eye Radio reported on 28 July 2026 that the government is preparing to introduce a nationwide digital registry, a centralised system for registering births, deaths, marriages and divorces, moving the issue of birth certificates from hospitals to the Directorate of Civil Registry; the director-general said it would start as soon as possible, with no date given.", "as_of": "2026-07-28", "date_precision": "day", "system": "nationwide digital registry", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The planned digital registry is the Directorate of Civil Registry, Nationality, Passports and Immigration's, to be implemented through coordination between the Ministries of Health, Justice and Interior, according to its director-general on 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "nationwide digital registry", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The director-general said on 28 July 2026 that implementation would start as soon as possible with support from partners; no partner, sum or domestic budget is named.", "as_of": "2026-07-28", "date_precision": "day", "system": "nationwide digital registry", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "nationwide digital registry", "country_label": "nationwide digital registry; unified national database for vital records", "class": "civil", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration", "tiers": "planned; none stated"},
+    {"system": "birth notification from health facilities", "country_label": "", "class": "notification", "platform": "", "owner": "hospitals and other health facilities, notifying the Directorate of Civil Registry", "tiers": "planned: hospitals and other health facilities"},
+    {"system": "digital national identification card", "country_label": "digital ID", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration", "tiers": "planned, for citizens aged 18 and above"}
+  ],
+  "note": "The document states that birth certificates are at present issued by hospitals; it does not say how those are recorded."
+}

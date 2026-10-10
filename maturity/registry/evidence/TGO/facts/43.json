@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-anid-togo-presentation-missions",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Central National Biometric Identification Database",
+      "country_label": "Central National Biometric Identification Database; fID system; NIU",
+      "class": "identity",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification (ANID), under the Presidency, with technical supervision by the ministries for the digital economy and for security",
+      "tiers": "national central database"
+    },
+    {
+      "system": "Social Register of Persons and Households (RSPM)",
+      "country_label": "Social Register of Persons and Households (RSPM)",
+      "class": "",
+      "platform": "",
+      "owner": "Agence Nationale d'Identification (ANID)",
+      "tiers": "national; socio-economic data on individuals and households, to be interconnected with administrations' databases"
+    }
+  ],
+  "note": "The identity agency's statement of its mandate and two registers; it does not mention civil registration."
+}

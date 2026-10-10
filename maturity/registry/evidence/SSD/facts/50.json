@@ -1,0 +1,9 @@
+{
+  "slug": "2024-10-07-eu-envoy-urges-nationality-registration-affordable",
+  "facts": [],
+  "systems": [
+    {"system": "civil registry system", "country_label": "civil registry", "class": "civil", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration, Ministry of Interior", "tiers": "limited to those residing in towns; rural areas not reached; described by the minister as not integrated (October 2024)"},
+    {"system": "nationality certificate issuance", "country_label": "nationality certificate ID", "class": "identity", "platform": "", "owner": "Directorate of Civil Registry, Nationality, Passport and Immigration", "tiers": ""}
+  ],
+  "note": "The interior minister says the civil registry is limited to towns and unintegrated and that work on a registry of births and deaths is under way, but the document does not say whether any record is made digitally or on paper, so no aspect value is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2020-08-21 Algorithmic Colonisation of Africa",
+  "facts": [],
+  "systems": [
+    {"system": "national biometric ID", "country_label": "", "class": "identity", "platform": "", "owner": "Government of Kenya", "tiers": "national; enrolment requires a national ID card and birth certificate"}
+  ],
+  "note": "An essay on algorithmic colonialism; on Kenya it says only that enrolling for the national biometric ID requires a birth certificate that minorities struggle to obtain. Nothing on how births or deaths are registered."
+}

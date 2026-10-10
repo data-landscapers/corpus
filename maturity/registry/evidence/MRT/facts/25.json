@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Law 2025-011 of 24 February 2025 requires a birth to be declared within 60 clear days at the Centre d'Accueil des Citoyens of the place of birth or of the parents' residence, on the health facility's birth-register extract, and provides that civil status acts are signed electronically; article 15 covers declarations of civil status events generally and names no other event.", "as_of": "2025-02-24", "date_precision": "day", "system": "Centres d'Accueil des Citoyens (CAC) / Registre National Biométrique des Populations", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "Under new article 15 of the Civil Status Code (law of 24 February 2025) heads of Centres d'Accueil des Citoyens receive civil status declarations only at the centres, the declarations are registered there with a signed procès-verbal, and the resulting acts are signed electronically, while article 31 treats the recorded data as data of the Registre National Biométrique des Populations; the law states the rule and does not describe the technology or how many centres apply it.", "as_of": "2025-02-24", "date_precision": "day", "system": "Centres d'Accueil des Citoyens (CAC) / Registre National Biométrique des Populations", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Centres d'Accueil des Citoyens (CAC) / Registre National Biométrique des Populations", "country_label": "Centres d'Accueil des Citoyens (CAC); Registre National Biométrique des Populations", "class": "civil", "platform": "", "owner": "the structure provided for by article 6, paragraph 2, of law 2011-003 (not named in this text)", "tiers": "Centres d'Accueil des Citoyens, the compulsory and only place of declaration of civil status events and of requests for secure titles"},
+    {"system": "systèmes d'information adoptés (délivrance à distance)", "country_label": "systèmes d'information adoptés", "class": "certificate", "platform": "", "owner": "", "tiers": "remote delivery of digital civil status acts, requests for secure titles and dispatch of the titles (article 15, second paragraph)"}
+  ],
+  "note": "A statute: it states what the law requires from 24 February 2025, not what any centre does in practice, and gives no count of centres. Both facts are the legal provision."
+}

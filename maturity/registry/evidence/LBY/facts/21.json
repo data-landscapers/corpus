@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-20-gia-ly-dnid-second-level-trial-phases",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Identity System (LY-DNID)", "country_label": "LY-DNID", "class": "identity", "platform": "", "owner": "General Information Authority (GIA)", "tiers": "national; level one in use between government systems in a number of institutions, level two (verification for citizens) in pilot from 19 November 2025"},
+    {"system": "National Data Distributor (LY-NDEX)", "country_label": "LY-NDEX", "class": "exchange", "platform": "", "owner": "General Information Authority (GIA)", "tiers": "national; integrated with LY-DNID; no link to the civil register is stated"}
+  ],
+  "note": "The pilot of the second level of the digital identity system; the page body says nothing of civil registration or of a link to the civil register."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-01-igc-property-tax-land-records-zambia",
+  "facts": [],
+  "systems": [
+    {"system": "Council valuation rolls and property tax maps", "country_label": "valuation roll", "class": "land", "platform": "manual systems and hard-copy maps", "owner": "local councils; Lusaka City Council's main roll of 2019 holds 82,265 properties", "tiers": "councils"},
+    {"system": "National Land Titling Programme digital base maps", "country_label": "NLTP", "class": "land", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cadastre", "country_label": "", "class": "land", "platform": "", "owner": "", "tiers": "described as outdated and incomplete"}
+  ],
+  "note": "A policy brief on property tax and land records; land is out of the study's scope and the brief says nothing of civil registration."
+}

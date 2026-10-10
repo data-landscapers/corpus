@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register", "country_label": "National Population Register", "class": "", "platform": "built in-country, with support from the Office of the Prime Minister", "owner": "Ministry of Home Affairs, Immigration, Safety and Security (MHAISS)", "tiers": "not stated"},
+    {"system": "Remote biometric enrolment", "country_label": "remote biometric enrolment via hand-held devices", "class": "identity", "platform": "hand-held devices", "owner": "MHAISS", "tiers": "tested; scale not stated"},
+    {"system": "e-ID", "country_label": "e-ID", "class": "identity", "platform": "", "owner": "MHAISS, with UNDP support", "tiers": "launch being prepared for 2026"},
+    {"system": "NamX", "country_label": "NamX", "class": "exchange", "platform": "data-exchange platform", "owner": "Government of Namibia", "tiers": "being deployed for inter-ministry sharing"}
+  ],
+  "note": "The National Population Register is named with no description of what it does or where records are entered; the rest is identity and data exchange. A 2021 UNDP baseline found obsolete software and siloed databases at the ministry, stated of no named system."
+}

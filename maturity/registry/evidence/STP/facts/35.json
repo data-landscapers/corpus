@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-05 São Tomé and Principe pilots MOSIP-based national digital ID system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National digital ID system (MOSIP pilot)",
+      "country_label": "national digital ID system",
+      "class": "identity",
+      "platform": "MOSIP",
+      "owner": "Justice Ministry (its systems analyst spoke for the delegation at ID4Africa 2025)",
+      "tiers": "Pilot phase, begun in 2024; no fixed timeline for nationwide rollout at June 2025"
+    }
+  ],
+  "note": "A Justice Ministry analyst says the digital ID work started with civil registration and that a good system capturing all citizens' data exists, and the article credits digitisation for 98 per cent birth-certificate coverage in 2023; none of it says how or where a birth or death is registered, and no civil registration system is named."
+}

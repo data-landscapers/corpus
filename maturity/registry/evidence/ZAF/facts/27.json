@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-04-draft-identification-regulations-2026",
+  "facts": [],
+  "systems": [
+    {"system": "population register", "country_label": "population register", "class": "identity", "platform": "", "owner": "Director-General of Home Affairs", "tiers": "national; draft regulations call it the authoritative record of identity and civic-status information"},
+    {"system": "digital identity credential", "country_label": "digital identity credential", "class": "identity", "platform": "MyMzansi application", "owner": "Director-General of Home Affairs", "tiers": "draft of 2026-05-04; in-person enrolment at equipped Department offices, foreign missions, ports of entry, authorised trusted-entity branches and mobile enrolment units; to be available in every municipality"},
+    {"system": "real-time identity verification services", "country_label": "", "class": "identity", "platform": "API", "owner": "Director-General of Home Affairs", "tiers": "draft; for accredited trusted entities, including confirmation of life-event status"}
+  ],
+  "note": "Draft regulations on digital identity credentials and the population register; a registered death revokes a credential and a birth certificate is an enrolment document, but nothing is stated on how births or deaths are registered."
+}

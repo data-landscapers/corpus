@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-11-mwi-channelafrica-nzika-wallet-acces-limites",
+  "facts": [],
+  "systems": [
+    {"system": "Nzika wallet", "country_label": "Nzika", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "citizens' smartphones, nationwide from the launch on 16 September 2026; initially a digital national ID, birth certificate and marriage certificate"},
+    {"system": "national identity database", "country_label": "national ID", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national; mass registration from 2017 registered slightly more than 9 million citizens"}
+  ],
+  "note": "An account of the identity wallet ahead of its launch; it states nothing about how or where births or deaths are registered."
+}

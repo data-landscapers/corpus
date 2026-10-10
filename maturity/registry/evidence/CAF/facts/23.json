@@ -1,0 +1,23 @@
+{
+  "slug": "2024-10-08 Central African Republic in full biometric voter registration preparations",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Biometric voter registration (electoral register)",
+      "country_label": "electoral register",
+      "class": "land",
+      "platform": "GenKey biometric enrolment software and hardware; at least 3,000 enrolment tablets",
+      "owner": "National Election Authority (ANE)",
+      "tiers": "national registration drive planned to run to 30 December 2024"
+    },
+    {
+      "system": "National ID card",
+      "country_label": "national ID card",
+      "class": "identity",
+      "platform": "",
+      "owner": "Al Madina, the security printing company producing the card",
+      "tiers": "issued only in the capital because of insecurity; an enrolment centre opened in Bambari"
+    }
+  ],
+  "note": "On the biometric electoral register and the identity card; the birth certificate is named only as an accepted proof of identity."
+}

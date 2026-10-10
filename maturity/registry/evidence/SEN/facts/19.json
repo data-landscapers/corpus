@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-17-senegal-anec-kaolack-civil-registry-budget-gap",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:75%", "fact": "ANEC data reported by APS on 17 August 2026 give 471 of the country's 629 civil-status centres as already digitalised through the LGEC, a rate of 75%.", "as_of": "2026-08-17", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Agence nationale de l'état civil (ANEC) deploys the LGEC, trains communal civil-status agents and officers on it and hands computer equipment to their centres, with four ANEC teams in the Kaolack region in August 2026.", "as_of": "2026-08-17", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The LGEC is deployed under a Plan national de remédiation de l'état civil, whose fourth phase ran in the Kaolack region from 10 to 20 August 2026, with Kaffrine and then Tambacounda to follow.", "as_of": "2026-08-17", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "ANEC's director general said on 17 August 2026 that the agency's budget for the 2026 financial year had still not been notified, which kept the digitalisation from going faster; the document names no donor.", "as_of": "2026-08-17", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The fourth phase of the national remediation plan deployed the LGEC and trained officers in Nioro, Ndiédieng and Kaolack communes from 10 to 20 August 2026, with 471 of 629 centres digitalised nationally, though ANEC's 2026 budget was still not notified.", "as_of": "2026-08-17", "date_precision": "day", "system": "Logiciel de gestion de l'état civil (LGEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Logiciel de gestion de l'état civil (LGEC)", "country_label": "LGEC", "class": "civil", "platform": "", "owner": "Agence nationale de l'état civil (ANEC)", "tiers": "communal civil-status centres; 471 of 629 centres as of 17 August 2026"},
+    {"system": "Sama état civil", "country_label": "Sama état civil", "class": "certificate", "platform": "", "owner": "ANEC", "tiers": "platform being activated in civil-status centres; the document does not say what it does"}
+  ],
+  "note": ""
+}

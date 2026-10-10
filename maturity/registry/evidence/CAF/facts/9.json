@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-30-civipol-archivist-recruitment-etat-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Dématérialisation des actes d'état civil (numérisation et indexation)",
+      "country_label": "schéma général de dématérialisation des actes d'état civil; solution et site d'indexation des documents d'état civil",
+      "class": "archive",
+      "platform": "",
+      "owner": "CIVIPOL-RCA, in support of the MATDDL, under the EU project Appui à la Modernisation, à la Sécurisation et à l'Accessibilité du Système d'État Civil en RCA",
+      "tiers": "archive holdings in civil registration centres, tribunals, health facilities, the justice ministry and the foreign affairs ministry; scheme still to be validated and field operations still to start at the March 2026 recruitment"
+    },
+    {
+      "system": "Système d'information documentaire",
+      "country_label": "système d'information documentaire pour la sécurité des documents d'état civil",
+      "class": "archive",
+      "platform": "",
+      "owner": "MATDDL, with CIVIPOL-RCA",
+      "tiers": "to be set up"
+    }
+  ],
+  "note": "A recruitment notice for a physical-archiving expert: it concerns archiving, scanning and indexing of existing civil registration documents, and states nothing about how an office records a birth or death."
+}

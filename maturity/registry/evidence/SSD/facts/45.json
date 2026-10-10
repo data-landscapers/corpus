@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-business-registration-service-south-sudan",
+  "facts": [],
+  "systems": [
+    {"system": "Business Registration Service (BRS)", "country_label": "Business Registration Online Services", "class": "land", "platform": "eServices.gov.ss", "owner": "Ministry of Justice", "tiers": "online portal"}
+  ],
+  "note": "The Ministry of Justice's business registration portal; a business register, which the typology puts out of scope. Nothing on civil registration."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-03-17-advocates-privacy-inclusion-maisha-namba-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Maisha Namba", "country_label": "Maisha Namba digital ID", "class": "identity", "platform": "", "owner": "Government of Kenya", "tiers": "national, launched 2023; described by a court witness as having a centralised data repository"},
+    {"system": "Nationwide ID registration campaign", "country_label": "", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "launched March 2025; students, prisoners and border communities"}
+  ],
+  "note": "Court testimony on the identity system; an expert witness says the government should have pursued a fully online approach to services such as birth registration, and the government claims unspecified birth registration reforms. No statement of how offices register."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-19-mediaguinee-rnpp-fichier-electoral-provisional-stats",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques (RNPP)", "class": "identity", "platform": "", "owner": "MATD", "tiers": "national; 9,010,191 people registered after deduplication, as presented 19 July 2025"},
+    {"system": "PN-RAVEC (recensement administratif à vocation d'état civil)", "country_label": "recensement administratif à vocation d'état civil (PN-RAVEC)", "class": "identity", "platform": "", "owner": "MATD", "tiers": "national; 9,121,500 people enumerated before deduplication"},
+    {"system": "fichier électoral biométrique permanent", "country_label": "fichier électoral biométrique permanent", "class": "land", "platform": "", "owner": "MATD", "tiers": "6,748,923 voters"}
+  ],
+  "note": "Provisional statistics of the population register and electoral roll presented on 19 July 2025; these are identity enrolment and electoral figures, and nothing is stated on the registration of births or deaths."
+}

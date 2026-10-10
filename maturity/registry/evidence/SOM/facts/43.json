@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-20-somalia-nira-id-center-boondheere",
+  "facts": [],
+  "systems": [
+    {"system": "NIRA service center, Boondheere District", "country_label": "NIRA service center", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "one district centre in Mogadishu, opened 19 April 2025, issuing national ID cards, birth certificates and related documents"},
+    {"system": "national ID system", "country_label": "National Identification Number (NIN)", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "Puntland civilian registration system", "country_label": "", "class": "", "platform": "", "owner": "Puntland", "tiers": ""}
+  ],
+  "note": "The centre is said to issue birth certificates alongside ID cards, but the document does not say that births are registered there or how the record is made; regional states' own civilian registration systems are named without description."
+}

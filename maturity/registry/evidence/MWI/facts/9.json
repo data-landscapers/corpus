@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-17-mwi-nation-national-ids-lifetime",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration system", "country_label": "civil registration system", "class": "", "platform": "", "owner": "National Registration Bureau", "tiers": "not stated; the homeland security minister said on 16 September 2026 that 6.6 million children are registered in it, with 3.4 million more targeted by year-end and over four million births registered since 2015"},
+    {"system": "National Birth Registration Campaign", "country_label": "National Birth Registration Campaign", "class": "outreach", "platform": "", "owner": "National Registration Bureau", "tiers": "seven phases; four done, registering about four million previously unregistered children; three phases covering 10 districts remain"},
+    {"system": "Nzika Digital ID / Nzika Wallet", "country_label": "Nzika", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "citizens' smartphones; over 22,000 holders at launch on 16 September 2026; to include digital birth and marriage certificates eventually"},
+    {"system": "national ID system", "country_label": "National ID", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national; over 13.5 million registered, about 99 per cent of citizens aged 16 and over"}
+  ],
+  "note": "Gives counts of children registered and the birth campaign's progress, which are people registered and a campaign, not offices entering events digitally; it does not say how or where the record is made."
+}

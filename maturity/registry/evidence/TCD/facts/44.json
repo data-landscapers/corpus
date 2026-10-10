@@ -1,0 +1,70 @@
+{
+  "slug": "2022-06-01-inseed-bulletin-trimestriel-009-etat-civil",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "INSEED states that ANATS, a public establishment under the ministry in charge of security created by Ordonnance 001/PR/2016, is in charge of organising and keeping the civil status system, and that article 23 of Ordonnance 002/PR/2020 of 14 February 2020 gives it the organisation and keeping of the civil status file and its archives.",
+      "as_of": "2020-02-14",
+      "date_precision": "day",
+      "system": "système d'état civil (fichier de l'état civil)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "INSEED states that a national strategic plan for improving civil status covers 2018-2022, its seventh axis being the progressive computerisation and lasting financing of civil status; no costing or budget is given.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "système d'état civil",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "INSEED describes the civil status centre entering a birth in the register of birth declarations from the second leaf of the maternity's paper birth bulletin, quotes UNICEF's representative (10 August 2022) that centres frequently run out of birth-act registers, lists weak computerisation of registration centres among the eight priority problems of the 2017 assessment, and still recommends computerising the system.",
+      "as_of": "2022-08-10",
+      "date_precision": "day",
+      "system": "système d'état civil",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "système d'état civil (fichier de l'état civil)",
+      "country_label": "état civil; fichier de l'état civil",
+      "class": "civil",
+      "platform": "",
+      "owner": "ANATS (Agence Nationale des Titres Sécurisés), under the ministry in charge of security; DAPEC also named among the structures",
+      "tiers": "communes, embassies and consulates, Centres d'Accueil des Usagers; centres d'état civil (principal and secondary)"
+    },
+    {
+      "system": "registre national biométrique de la population",
+      "country_label": "registre national biométrique de la population; Numéro National d'Identification (NNI)",
+      "class": "identity",
+      "platform": "",
+      "owner": "ANATS",
+      "tiers": "national; intended, with enrolment of adults and registration of newborns and an NNI proposed from birth, for about 11,000,000 people"
+    },
+    {
+      "system": "dispositif de collecte des données sur les faits d'état civil (INSEED)",
+      "country_label": "dispositif pilote de collecte de données sur les naissances, les mariages et les décès; CNMD",
+      "class": "exchange",
+      "platform": "",
+      "owner": "INSEED",
+      "tiers": "five of N'Djamena's ten arrondissements from October 2020 (2nd to 6th), all ten from June to October 2022"
+    },
+    {
+      "system": "bulletin médical de naissance",
+      "country_label": "bulletin médical de naissance",
+      "class": "notification",
+      "platform": "paper form in leaves",
+      "owner": "DSSIS, Ministère de la Santé Publique",
+      "tiers": "maternities; the second leaf goes to the centre d'état civil"
+    }
+  ],
+  "note": "Capture is an excerpt, truncated at the fetch limit; no digital system for civil status centres is described, and no count of centres is given."
+}

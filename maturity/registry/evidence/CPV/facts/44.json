@@ -1,0 +1,11 @@
+{
+  "slug": "2022-03-30-tdr-ta-lmits-usability-evaluation",
+  "facts": [],
+  "systems": [
+    {"system": "SIGTP - Property Management and Transaction Information System", "country_label": "SIGTP", "class": "land", "platform": "", "owner": "INGT (National Institute for Land Management) leads; NOSI gives technical and operational support", "tiers": "Municipal councils, land registry offices, notaries and INGT on the four registered islands: Sal, Boavista, Maio and the rural area of São Vicente"},
+    {"system": "Land Registry Information System", "country_label": "Land Registry Information System", "class": "land", "platform": "", "owner": "Land Registry Office", "tiers": "Land registry offices, linked to SIGTP"},
+    {"system": "Notary Information System", "country_label": "Notary Information System", "class": "land", "platform": "", "owner": "Notaries", "tiers": "Notaries, linked to SIGTP"},
+    {"system": "Municipal Information System", "country_label": "Municipal Information System", "class": "land", "platform": "", "owner": "Municipal councils", "tiers": "Municipal councils, linked to SIGTP"}
+  ],
+  "note": "Terms of reference for improvements to the land register platform SIGTP; the registry offices it names are land registry offices, and 'RNI' appears only as a user who would approve a land registration request. Nothing on civil registration."
+}

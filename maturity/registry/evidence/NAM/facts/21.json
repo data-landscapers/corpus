@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-07-system-says-no-to-hungry-pensioners",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Registry System", "country_label": "National Population Registry System", "class": "", "platform": "", "owner": "", "tiers": "national; the register against which 15,825 old-age grant beneficiaries' names were unverified, their grants suspended"},
+    {"system": "planned link between the gender ministry's grants system and the home affairs ministry's system for reporting of deaths", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Gender Equality and Child Welfare; Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "planned as at June 2026"}
+  ],
+  "note": "Suspension of 15,825 old-age grants on a check against the population registry; the registry is named, not described, and nothing is said on how births or deaths are registered."
+}

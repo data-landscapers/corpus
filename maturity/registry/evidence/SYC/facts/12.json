@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-ics-national-identity-card",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Card", "country_label": "National Identity Card / NIN card", "class": "identity", "platform": "", "owner": "Civil Status, Department of Immigration and Civil Status", "tiers": "Mahe Central Office, Praslin Office and La Digue Office"},
+    {"system": "SeyID", "country_label": "SeyID / virtual ID", "class": "identity", "platform": "SeyID app, with eKYC", "owner": "", "tiers": "mobile app; sign-up needs a valid NIN or ID card"}
+  ],
+  "note": "The identity card procedure: a first card is applied for with a birth certificate, and the virtual ID is a separate sign-up; identity systems only, and nothing on how a birth or death is registered."
+}

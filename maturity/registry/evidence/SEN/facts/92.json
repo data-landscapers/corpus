@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-20-senegal-rapport-intercommission-projet-loi-25-2026-iic",
+  "facts": [],
+  "systems": [
+    {"system": "Projet de modernisation de l'Etat civil", "country_label": "projet d'Etat civil; projet de modernisation de l'Etat civil", "class": "", "platform": "", "owner": "Agence nationale de l'État civil (ANEC); data to be saved at the Sénégal Numérique (SENUM) data centre", "tiers": "the minister says ANEC acts across the whole national territory, through awareness and outreach activities"},
+    {"system": "Cartes nationales d'identité et permis de conduire", "country_label": "confection des cartes nationales d'identité et des permis de conduire", "class": "identity", "platform": "", "owner": "production entrusted to foreign companies, according to the commissioners", "tiers": "national"}
+  ],
+  "note": "No fact: at the intercommission of 13 August 2026 the minister said only that ANEC is carrying the civil-status modernisation project nationwide and that its data will be held at SENUM's data centre; the report does not say what the project's system does or where records are made, so it is unclassified."
+}

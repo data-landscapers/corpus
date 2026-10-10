@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The IDS Malawi country report states that the National Registration Act of 2010 makes the National Registration Bureau the authority responsible for civil registration, and that the Bureau began operating in 2017 under the ministry now called Homeland Security, overseeing civil registration.", "as_of": "2017", "date_precision": "year", "system": "civil registration", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registration", "country_label": "civil registration", "class": "civil", "platform": "", "owner": "National Registration Bureau (NRB), under the Ministry of Homeland Security", "tiers": ""},
+    {"system": "National Registration and Identification System (NRIS)", "country_label": "biometric national ID", "class": "identity", "platform": "", "owner": "National Registration Bureau (NRB), under the Ministry of Homeland Security", "tiers": "national; 12.5 million registered as of May 2025"}
+  ],
+  "note": "The Malawi passages cover the biometric national ID and its law; beyond naming the Bureau as the civil registration authority they describe no civil registration system and nothing on how any office records a birth or death."
+}

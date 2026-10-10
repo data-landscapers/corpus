@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-17-ravec-kindia-atelier-textes-application-etat-civil-identification",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de l'état civil", "country_label": "Registre National de l'état civil", "class": "", "platform": "", "owner": "PN-RAVEC presents its constitution mechanisms", "tiers": ""},
+    {"system": "Registre National des personnes physiques", "country_label": "Registre National des personnes physiques", "class": "identity", "platform": "", "owner": "PN-RAVEC presents its constitution mechanisms", "tiers": ""}
+  ],
+  "note": "A workshop of 12 to 17 January 2026 reviewing draft implementing texts for the 2023 civil status and identification laws; the national civil status register is described only by its function of attributing and keeping a personal identification number, with nothing on where or how births and deaths are entered, so it is left unclassified. Interoperability of notification and identification systems is listed as a problem discussed."
+}

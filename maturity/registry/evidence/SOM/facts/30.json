@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-somalia-nira-background",
+  "facts": [],
+  "systems": [
+    {"system": "national identification system", "country_label": "National Identification Number (NIN), 'Tirsi Aqoonsi'", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA), established under the Identification and Registration Act (Law No. 009 of March 2023)", "tiers": "data centres, regional enrolment offices and mobile registration units"}
+  ],
+  "note": "NIRA's institutional page describes the national identity system, its biometric database and its enrolment offices and mobile units. It states nothing about the registration of births or deaths, so no fact is taken."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-27-ghana-li-2523-national-identity-register-amendment-regulations-2026",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Register", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "national; biometric verification against it mandatory under L.I. 2523, in force 9 June 2026"},
+    {"system": "NIA Identity Verification System", "country_label": "", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA)", "tiers": "organisations verifying identity"}
+  ],
+  "note": "Companion page to the identity-register regulations; nothing on civil registration."
+}

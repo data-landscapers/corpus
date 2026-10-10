@@ -1,0 +1,31 @@
+{
+  "slug": "2026-02-23-modero-etat-civil-eu-civipol-oubanguimedias",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Outils de gestion (projet MODERO)",
+      "country_label": "infrastructures numériques à travers des outils de gestion",
+      "class": "",
+      "platform": "",
+      "owner": "CIVIPOL, in technical support of the MATDDL, EU-financed",
+      "tiers": "not stated; the project extends from a pilot phase in several towns, among them Bangui and localities of the corridor, to new communes"
+    },
+    {
+      "system": "Délivrance d'actes de naissance aux enfants scolarisés (projet MODERO)",
+      "country_label": "délivrance de 400 000 actes de naissance aux enfants scolarisés et à leur fratrie",
+      "class": "outreach",
+      "platform": "",
+      "owner": "MATDDL (DGDEC), with CIVIPOL, EU-financed",
+      "tiers": "birth certificates within and past the legal deadline; target 400,000 over four years, said reachable by 2028; 2025 activities validated on 20 February 2026 as 90% complete"
+    },
+    {
+      "system": "Numérisation des actes (projet MODERO)",
+      "country_label": "numérisation des actes, digitalisation",
+      "class": "archive",
+      "platform": "",
+      "owner": "MATDDL, with CIVIPOL, EU-financed",
+      "tiers": "listed among the project's objectives"
+    }
+  ],
+  "note": "The article names digital management tools and digitalisation as project objectives without saying what any system does or where a birth is recorded, so no system of the civil class is described."
+}

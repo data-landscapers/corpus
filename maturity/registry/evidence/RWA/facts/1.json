@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-08-rwa-nida-temporarily-suspends-photography-exercise-for-e-ids",
+  "facts": [],
+  "systems": [
+    {"system": "e-Indangamuntu", "country_label": "e-Indangamuntu, digital national identification card", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": "photography exercise held in sectors; suspended 8 October 2026"},
+    {"system": "Irembo", "country_label": "Irembo platform", "class": "identity", "platform": "Irembo", "owner": "", "tiers": "online pre-enrolment for the e-Indangamuntu"}
+  ],
+  "note": "Identity enrolment only; it says civil registration details are corrected with civil registration officers in sectors, without saying how the record is made."
+}

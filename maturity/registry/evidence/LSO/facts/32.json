@@ -1,0 +1,36 @@
+{
+  "slug": "2025-04-02 Lesotho launches Digital Birth Registration under Ntlafatsa Bana programme",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The EU Delegation reports that it, the Government of Lesotho and UNICEF launched the Digital Birth Registration system within the Ntlafatsa Bana programme; deaths are not mentioned (no launch date given; the document's date is used).",
+      "as_of": "2025-04-02",
+      "date_precision": "day",
+      "system": "Digital Birth Registration",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The EU Delegation says the Ntlafatsa Bana programme, within which Digital Birth Registration was launched, is supported by UNICEF with an EU contribution; no domestic budget is mentioned (the document's date is used).",
+      "as_of": "2025-04-02",
+      "date_precision": "day",
+      "system": "Digital Birth Registration",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Birth Registration",
+      "country_label": "Digital Birth Registration",
+      "class": "civil",
+      "platform": "",
+      "owner": "Government of Lesotho with the EU Delegation and UNICEF, within the Ntlafatsa Bana programme",
+      "tiers": ""
+    }
+  ],
+  "note": "The document names the system as a birth registration system and says nothing of how or where the record is made; it is classed civil on that description alone. No offices are counted."
+}

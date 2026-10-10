@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-14-uga-independent-will-uganda-nin-tax-push-deliver-more-revenue",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN)", "country_label": "NIN", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "Instant TIN", "country_label": "Instant TIN", "class": "exchange", "platform": "", "owner": "Uganda Revenue Authority", "tiers": "integrates information between URA, NIRA and URSB"}
+  ],
+  "note": "About the replacement of the tax number by the NIN; civil registration appears only in a consultant's job title. Nothing on civil registration offices."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-11-systemes-information-etat-plateformes-presentees-deputes",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "SIFEC is developed by the Agence congolaise des systèmes d'information (ACSI), a public administrative establishment, to a specification it received, its project head told the National Assembly's Ecofin committee; the session was reported on 11 August 2026 as held recently, so the date is the article's.", "as_of": "2026-08-11", "date_precision": "day", "system": "Système intégré des faits d'état-civil (Sifec)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "SIFEC's project head told deputies that the system automates ten civil status events, the main ones being births, marriages and deaths, each ending in a civil status act, alongside centralisation of data and interoperability with other systems; the committee's chair described the applications as being developed. Dated to the article of 11 August 2026.", "as_of": "2026-08-11", "date_precision": "day", "system": "Système intégré des faits d'état-civil (Sifec)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système intégré des faits d'état-civil (Sifec)", "country_label": "Système intégré des faits d'état-civil (Sifec)", "class": "civil", "platform": "developed in house by ACSI", "owner": "ACSI", "tiers": "under development; aim is the computerisation of the national civil status system"}
+  ],
+  "note": ""
+}

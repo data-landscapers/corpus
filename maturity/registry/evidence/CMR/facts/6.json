@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-31-cameroon-birth-registration-drive-schools-legal-identity",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Biometric Update says BUNEC continues to modernise the civil status registration system, with a growing number of councils switching to digital birth registration systems; it gives no count and no date, so the date is the publication date.", "as_of": "2026-08-31", "date_precision": "day", "system": "digital birth registration systems (councils)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital birth registration systems (councils)", "country_label": "digital birth registration systems", "class": "civil", "platform": "", "owner": "BUNEC", "tiers": "a growing number of councils, uncounted"},
+    {"system": "PAREC school birth certificate drive and special mobile court hearings", "country_label": "special mobile court hearings; declaratory birth judgments", "class": "outreach", "platform": "", "owner": "Ministry of Basic Education; Ministry of Justice; BUNEC", "tiers": "one million primary-school pupils without birth certificates identified from 2024; hearings resume September 2026"}
+  ],
+  "note": ""
+}

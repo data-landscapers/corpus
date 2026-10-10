@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-18-mrt-registre-national-population-5-1-millions-parlement",
+  "facts": [],
+  "systems": [
+    {"system": "السجل الوطني للسكان", "country_label": "السجل الوطني للسكان (Registre national de la population)", "class": "identity", "platform": "", "owner": "وزارة الداخلية وترقية اللامركزية والتنمية المحلية (Ministry of the Interior)", "tiers": "enrolment available all year at the competent centres across the country; more than 5.1 million registered against 3.4 million in 2019, per the interior minister in parliament on 18 June 2026; 36,516 registered in under a year under the regime in force from early 2025"},
+    {"system": "اللجان المحلية", "country_label": "لجان محلية للتحديد والإحصاء", "class": "identity", "platform": "", "owner": "وزارة الداخلية", "tiers": "238 local commissions at commune level examining identification files"},
+    {"system": "بعثات ميدانية", "country_label": "بعثات ميدانية / حملات المسح الميداني", "class": "outreach", "platform": "", "owner": "وزارة الداخلية", "tiers": "field missions and field survey campaigns that registered 613,000 citizens"}
+  ],
+  "note": "A second report of the same parliamentary statement on enrolment in the biometric population register; it says civil-status systems were modernised and digitised from 2019 in general terms, and nothing on how or where a birth or death is registered."
+}

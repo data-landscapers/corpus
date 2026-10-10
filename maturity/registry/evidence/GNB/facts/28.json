@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-22-gnb-sirec-sistema-integrado-registo-estatisticas-cidadao",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "SIREC's own About page describes it as the platform for registering civil-status acts, naming birth, acknowledgement of paternity, marriage and death; the page is undated and says nothing of which offices use it, so the proxy publication date is used.", "as_of": "2025-01-22", "date_precision": "day", "system": "Sistema Integrado de Registo e Estatísticas do Cidadão (SIREC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "SIREC's About page says the system creates, updates, stores and consults civil registration information in a single integrated database, with wholly digital storage of acts; this is the system's stated design on an undated standing page, not a report of offices entering events, and the proxy publication date is used.", "as_of": "2025-01-22", "date_precision": "day", "system": "Sistema Integrado de Registo e Estatísticas do Cidadão (SIREC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "SIREC's About page says the system was implemented by the Direção-Geral de Identificação Civil, Registos e Notariado, in partnership with Portugal's Instituto dos Registos e do Notariado and the Universidade de Aveiro; undated page, proxy publication date used.", "as_of": "2025-01-22", "date_precision": "day", "system": "Sistema Integrado de Registo e Estatísticas do Cidadão (SIREC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "SIREC's About page says the system was financed by the European Union under the GESTDOC project, managed by Camões, I.P.; no domestic funding is mentioned, and the proxy publication date is used.", "as_of": "2025-01-22", "date_precision": "day", "system": "Sistema Integrado de Registo e Estatísticas do Cidadão (SIREC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Sistema Integrado de Registo e Estatísticas do Cidadão (SIREC)", "country_label": "SIREC", "class": "civil", "platform": "developed with the Universidade de Aveiro; hosted page at sirec.web.ua.pt", "owner": "Direção-Geral de Identificação Civil, Registos e Notariado", "tiers": "not stated"},
+    {"system": "Digitalização e catalogação de assentos existentes em livro", "country_label": "", "class": "archive", "platform": "SIREC", "owner": "Direção-Geral de Identificação Civil, Registos e Notariado", "tiers": "listed among SIREC's functions; no figures"},
+    {"system": "Número de identificação único do cidadão", "country_label": "", "class": "exchange", "platform": "SIREC", "owner": "", "tiers": "SIREC is said to manage a unique identification number to be assigned to each citizen"}
+  ],
+  "note": ""
+}

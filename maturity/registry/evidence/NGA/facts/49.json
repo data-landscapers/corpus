@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-04 How NIMC is building Nigeria's digital infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Database", "country_label": "National Identity Database / NIN", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "Front-End Partners and Diaspora Front-End Partners enrol"}
+  ],
+  "note": "An opinion column on NIMC; it says only that NIMC and the National Population Commission are collaborating to accelerate and digitalise birth registration, naming no civil registration system and nothing about offices, events or how records are made."
+}

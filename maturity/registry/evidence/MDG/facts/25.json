@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices (municipalities and fokontany) primarily record births on paper forms and keep manual registers locally, with no centralised national digital repository; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural registry offices' paper registers", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The essay's country table states it found no evidence of routine digital use at the rural point of service, births being recorded on paper; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural registry offices' paper registers", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The essay's country table states that the offline applications planned for civil registration offices under the World Bank's PRODIGY project remained in a design or pilot phase, citing a 2023 trial in Toamasina with an urban focus, two-thirds of offices lacking stable internet.", "as_of": "2023", "date_precision": "year", "system": "PRODIGY offline application for civil registration offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "PRODIGY offline application for civil registration offices", "country_label": "", "class": "civil", "platform": "", "owner": "World Bank PRODIGY project", "tiers": "planned for civil registration offices; design or pilot phase, a 2023 trial in Toamasina"},
+    {"system": "registers digitised after collection in urban areas", "country_label": "", "class": "archive", "platform": "", "owner": "", "tiers": "urban areas such as Antananarivo, where registers are digitised after collection"},
+    {"system": "biometric ID", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "named as a national policy aim alongside e-CRVS"}
+  ],
+  "note": "By its own header an AI-assisted compilation, and listed under exclude_sources in study.json; facts are recorded as the document states them, from the Madagascar Registry row only."
+}

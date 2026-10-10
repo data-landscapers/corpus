@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-09-dza-prixalgerie-digital-identity-data-governance-technical-details",
+  "facts": [],
+  "systems": [
+    {"system": "National digital identity system (منظومة الهوية الرقمية)", "country_label": "الهوية الرقمية", "class": "identity", "platform": "", "owner": "High Commission for Digitalisation, developed in coordination with the Ministry of the Interior", "tiers": "registration and appointment at the commune through the portal dzds.dz, then activation and verification against biometric data"}
+  ],
+  "note": "The document describes the digital identity system and data governance only; it states nothing about the registration of births or deaths."
+}

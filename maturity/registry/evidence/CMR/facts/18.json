@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-18-cameroon-tribune-integrate-civil-registration-id-systems",
+  "facts": [],
+  "systems": [
+    {"system": "software for civil registration", "country_label": "software for civil registration", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "software for identity", "country_label": "software for identity", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "interoperability between civil registration and identity software", "country_label": "integration of civil registration and ID systems", "class": "exchange", "platform": "", "owner": "", "tiers": "sought, not in place: BUNEC's Director General says in May 2026 the two systems must be made to communicate"}
+  ],
+  "note": "A paywalled lede: BUNEC's Director General says Cameroon already has software for civil registration and another for identity and needs interoperability between them; what the civil registration software does and where is not stated."
+}

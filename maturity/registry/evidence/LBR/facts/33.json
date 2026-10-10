@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-09 Liberia needs more funding to widen national ID coverage (NIR's Peters)",
+  "facts": [],
+  "systems": [
+    {"system": "National ID registration", "country_label": "national ID", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national; about 14 per cent of some 5 million citizens registered"},
+    {"system": "UNICEF child-enrolment pilot", "country_label": "child enrollment pilot", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR), with UNICEF", "tiers": "pilot; about 5,000 children enrolled in May 2025; expansion to 100,000-200,000 hoped for"}
+  ],
+  "note": "Reports identity enrolment and a pilot enrolling children in the national ID; of birth registration it says only that UNICEF assists and that the registry seeks funding to make it free."
+}

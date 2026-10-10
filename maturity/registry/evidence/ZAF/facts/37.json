@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-16 South Africa digital ID and mDL to launch this year, president promises",
+  "facts": [],
+  "systems": [
+    {"system": "national digital ID", "country_label": "Digital ID", "class": "identity", "platform": "MyMzansi platform", "owner": "Department of Home Affairs", "tiers": "launch promised for 2026 in the State of the Nation Address of 2026-02-12; legal framework pending Cabinet approval"},
+    {"system": "Smart ID and passport services at bank branches", "country_label": "Smart ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "hundreds more bank branches promised in 2026"},
+    {"system": "SASSA biometric verification", "country_label": "", "class": "identity", "platform": "", "owner": "SASSA", "tiers": "grant beneficiary verification, introduced 2025"},
+    {"system": "Electronic Travel Authorization", "country_label": "ETA", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "launched October 2025"}
+  ],
+  "note": "The President's digital ID and digital services promises; nothing on civil registration."
+}

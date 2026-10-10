@@ -1,0 +1,9 @@
+{
+  "slug": "2019-01-01-zambia-national-registration-regulations-2019",
+  "facts": [],
+  "systems": [
+    {"system": "National registration register and National Registration Card", "country_label": "NRC", "class": "identity", "platform": "card index letter and serial number allotted in electronic form; photograph and 10 rolled and 10 plain fingerprints captured by the Registrar", "owner": "Chief Registrar", "tiers": "registrars take applications and forward forms to the Chief Registrar"},
+    {"system": "Link between birth registration and the national registration card number", "country_label": "", "class": "exchange", "platform": "", "owner": "Chief Registrar", "tiers": "regulation 6(2)(a): for a person born in Zambia the card number is obtained from the birth registration made for a birth certificate under the Births and Deaths Registration Act; regulation 14: a dead person's card goes to the Chief Registrar for revocation and the issue of a death certificate"}
+  ],
+  "note": "The 2019 regulations govern identity registration and tie the card number to the birth registration in law; they do not say how or where a birth or death is entered."
+}

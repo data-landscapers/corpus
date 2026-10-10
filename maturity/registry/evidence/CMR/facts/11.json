@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-10-cameroon-cdhc-civil-registry-interoperability",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The National Strategic Plan for the Modernisation of the Civil Status System 2025-2029, drawn up by BUNEC, was officially launched on 11 September 2025, per the human rights commission's statement of 10 August 2026.", "as_of": "2025-09-11", "date_precision": "day", "system": "fichier national de l'état civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:not-stated", "fact": "The human rights commission (CDHC), in its statement of 10 August 2026, recommends that the government progressively allocate the necessary resources to BUNEC and the communes to complete the digital coverage of the national civil status file; it gives no amount and names no budget line.", "as_of": "2026-08-10", "date_precision": "day", "system": "fichier national de l'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "fichier national de l'état civil", "country_label": "fichier national de l'état civil; couverture numérique", "class": "civil", "platform": "", "owner": "BUNEC", "tiers": "digital coverage incomplete; BUNEC and communes"},
+    {"system": "opérations spéciales d'établissement et de délivrance gratuite des actes de naissance (PAREC)", "country_label": "opérations spéciales; audiences foraines", "class": "outreach", "platform": "", "owner": "government, World Bank-financed through PAREC", "tiers": "primary-school pupils; phase 1: 48,232 favourable judgments, 49,311 files, 544 mobile hearings; phase 2 to January 2027"},
+    {"system": "interopérabilité des systèmes d'information santé, justice et identification", "country_label": "interopérabilité progressive", "class": "exchange", "platform": "", "owner": "", "tiers": "recommended by the CDHC"}
+  ],
+  "note": ""
+}

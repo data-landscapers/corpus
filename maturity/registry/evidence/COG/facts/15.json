@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-20-cog-sifec-cloture-recommandations-mfbpp",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 20 February 2026 the three-day workshop at Kintélé for the final validation of SIFEC's recommendations and the technical presentation of its software closed, having validated 17 recommendations on technical, functional and operational points, according to the Finance ministry.", "as_of": "2026-02-20", "date_precision": "day", "system": "Système intégré des faits d'état civil (SIFEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The workshop's final communiqué of 20 February 2026 names as the principal recommendation the provision of the human, material and financial resources needed to deploy the platform; ACSI's director general speaks of what deployment will allow, in the future tense.", "as_of": "2026-02-20", "date_precision": "day", "system": "Système intégré des faits d'état civil (SIFEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:not-stated", "fact": "As at 20 February 2026 the resources for SIFEC's deployment were still asked for: the validation workshop's principal recommendation was that the human, material and financial means be made available, and the Finance ministry's account names no budget line or funder.", "as_of": "2026-02-20", "date_precision": "day", "system": "Système intégré des faits d'état civil (SIFEC)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The SIFEC validation workshop was closed on 20 February 2026 by the Finance minister's office, with the Interior and Decentralisation minister's office represented and ACSI's director of application systems as the project's technical coordinator.", "as_of": "2026-02-20", "date_precision": "day", "system": "Système intégré des faits d'état civil (SIFEC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Système intégré des faits d'état civil (SIFEC)", "country_label": "Système intégré des faits d'état civil (SIFEC)", "class": "civil", "platform": "software built by ACSI", "owner": "ACSI, with the Finance and Interior ministries", "tiers": "not deployed as at 20 February 2026; intended downstream uses in nine ministries, among them identity checks for the nationality certificate, the NIU, the driving licence and examinations, online civil status documents for Congolese abroad, and removal of the deceased from payroll and pension files"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-02-22-mali-decret-2019-0112-ninacad-identification-parcelles",
+  "facts": [],
+  "systems": [
+    {"system": "NINACAD", "country_label": "Numéro d'identification national unique cadastral (NINACAD); application NINACAD", "class": "land", "platform": "", "owner": "Cadastre service attributes the number; domains service issues the receipt", "tiers": ""}
+  ],
+  "note": "A decree on the cadastral parcel identifier, a land-class system out of the study's scope; nothing on civil registration."
+}

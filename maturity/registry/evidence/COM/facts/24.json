@@ -1,0 +1,13 @@
+{
+  "slug": "2025-10-14-amecc-civil-registry-digitisation-study-launch-moheli-lagazette",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "La Gazette des Comores describes the current civil registration system as still largely manual, with frequent errors, falsifications, lost documents and difficult access to registers; the statement is undated, so the published date is used.", "as_of": "2025-10-14", "date_precision": "day", "system": "système d'état civil (registres de naissance, mariage, décès)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The government adopted in 2024 a Plan stratégique de modernisation de l'état civil, following law n°23-06/AU of 27 July 2023 on digitisation and personal data protection, the article reports.", "as_of": "2024", "date_precision": "year", "system": "AMECC (Appui à la Modernisation de l'État Civil aux Comores)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The AMECC project has the financial and technical support of France and UNICEF, as stated at the study launch of 10 October 2025.", "as_of": "2025-10-10", "date_precision": "day", "system": "AMECC (Appui à la Modernisation de l'État Civil aux Comores)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The study preceding digitalisation of the civil registration system was launched in Moroni on 2 October 2025 and presented again at Fomboni, Mohéli, on 10 October 2025 for local stakeholders.", "as_of": "2025-10-10", "date_precision": "day", "system": "AMECC (Appui à la Modernisation de l'État Civil aux Comores)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "AMECC (Appui à la Modernisation de l'État Civil aux Comores)", "country_label": "projet AMECC", "class": "civil", "platform": "", "owner": "Government, national coordinator Soundi Abdou Toilib; financial and technical support from France and UNICEF", "tiers": "Preliminary study launched in Moroni and Mohéli; aims to digitalise birth, marriage and death registers"}
+  ],
+  "note": ""
+}

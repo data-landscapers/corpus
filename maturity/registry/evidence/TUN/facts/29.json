@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-10-lapresse-tunisie-carte-identite-passeport-biometriques",
+  "facts": [],
+  "systems": [
+    {"system": "carte d'identité biométrique", "country_label": "carte d'identité biométrique", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "presented in December 2025 as a reform in prospect; no issuance date given"},
+    {"system": "passeport biométrique", "country_label": "passeport biométrique", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "presented in December 2025 as a reform in prospect; no issuance date given"}
+  ],
+  "note": "The interior ministry's case for the biometric identity card and passport; identity documents, with nothing on civil registration."
+}

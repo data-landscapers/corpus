@@ -1,0 +1,12 @@
+{
+  "slug": "2016-01-01-mali-matd-etat-civil-recensement-biometrique-ravec",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The territorial administration ministry's presentation of the RAVEC system shows birth declarations being registered in the City-web application and passed through a MorphoCivis/City-web interface for calculation of the NINA; it does not say at which offices, and gives no date for this, so the document's 2016 date is used (its results table is as at 20 April 2016).", "as_of": "2016", "date_precision": "year", "system": "City_Web", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "City_Web", "country_label": "application City_Web (City-web)", "class": "civil", "platform": "City-web", "owner": "Ministère de l'Administration Territoriale et des Collectivités Locales (presenter)", "tiers": "not stated"},
+    {"system": "Interface MorphoCivis / City-web", "country_label": "Interface MorphoCivis / City-web", "class": "exchange", "platform": "MorphoCivis", "owner": "", "tiers": "Passes a registered birth declaration to matching, NINA calculation and insertion in the population file, and returns the NINA"},
+    {"system": "RAVEC", "country_label": "Recensement Administratif à Vocation d'Etat Civil (RAVEC); base de données RAVEC; fichier population; NINA", "class": "identity", "platform": "MorphoCivis", "owner": "Ministère de l'Administration Territoriale et des Collectivités Locales", "tiers": "A biometric census of citizens inside and outside the country: 14,300,533 enrolled against 13,484,576 forecast at 20 April 2016"}
+  ],
+  "note": "A slide deck. A modern civil status system covering the whole country by thin client is stated as a long-term objective of RAVEC, not as something in place; the City_Web section itself carries no text beyond its heading."
+}

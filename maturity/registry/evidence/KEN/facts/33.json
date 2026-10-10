@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that in rural Kenya births are registered on paper Form B1 in duplicate by assistant chiefs at sub-locations (10,666 in all) or at rural health facilities, the duplicates batched to Civil Registration Offices for entry into registers, and that sub-county registrars send Excel summaries of the paper registers to the national office; it gives no date for this, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper Form B1 and registers at Civil Registration Offices", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "paper Form B1 and registers at Civil Registration Offices", "country_label": "Form B1; Civil Registration Offices (CROs)", "class": "civil", "platform": "paper, with Excel summaries", "owner": "Civil Registration Services", "tiers": "assistant chiefs at sub-locations and rural health facilities notify on paper; sub-county registrars enter registers and send Excel summaries to the national office"},
+    {"system": "CRVSS", "country_label": "CRVSS", "class": "", "platform": "", "owner": "", "tiers": "piloted in some counties, not scaled for want of resources"},
+    {"system": "historical digitisation of 46 million records", "country_label": "", "class": "archive", "platform": "", "owner": "", "tiers": ""},
+    {"system": "IPRS", "country_label": "IPRS", "class": "identity", "platform": "", "owner": "", "tiers": "national linkage"},
+    {"system": "Estonia-supported e-birth registration", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "hospital digital pilots, 2025, not rural-focused"},
+    {"system": "mobile birth notification pilots (WHO MoVE-IT; Finnish/Nokia 2008-2012)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "small-scale pilots"}
+  ],
+  "note": "The passages' own header marks the essay as an AI-assisted compilation, and study.json lists this slug under exclude_sources; the fact is recorded as the document states it."
+}

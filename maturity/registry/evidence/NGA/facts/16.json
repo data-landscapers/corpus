@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-07-why-nin-based-voter-register-can-make-nigerias-elections-more-secure",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN) database", "country_label": "NIN", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": ""},
+    {"system": "INEC voter register and Bimodal Voter Accreditation System (BVAS)", "country_label": "voter register; BVAS", "class": "land", "platform": "", "owner": "Independent National Electoral Commission (INEC)", "tiers": "polling units on election day"}
+  ],
+  "note": "An opinion letter arguing for a voter register tied to the identity number; it states nothing about how births or deaths are registered."
+}

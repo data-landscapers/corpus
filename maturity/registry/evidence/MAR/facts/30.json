@@ -1,0 +1,15 @@
+{
+  "slug": "2024-10-23-aujourdhui-extension-identifiant-digital-civil-social",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre national de la population (RNP)",
+      "country_label": "Registre national de la population (RNP); identifiant digital civil et social (IDCS)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur",
+      "tiers": "over 18.4 million people enrolled at 31 December 2023; enrolment agents use a back-office system; second World Bank project (PICPPS II, four years from 30 November 2024) to extend coverage, notably in isolated rural areas"
+    }
+  ],
+  "note": "No fact: about the population registry, its identifier and the Unified Social Registry (class identity). Civil registration is not discussed."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-07-17-egypt-crvs-journey-2017-2026",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "Egypt's presentation to the 2026 APAI-CRVS registrars-general meeting says that in 2017 registration was entirely constrained by decentralised paper registers, with physical logs taking up to one month to reach the centre.", "as_of": "2017", "date_precision": "year", "system": "Egypt CRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:4571", "fact": "Egypt's presentation gives its 2026 position as full nationwide automation of 4,571 health offices across the 27 governorates; it gives no separate total of offices.", "as_of": "2026", "date_precision": "year", "system": "Egypt CRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "Egypt's presentation says that in 2026 a central database for births and deaths runs on a secure platform and directly updates the statistics office's population clock and its monthly and annual reports of births and deaths.", "as_of": "2026", "date_precision": "year", "system": "Egypt CRVS system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "Egypt's presentation describes the 2026 system as automated health offices feeding a central births and deaths database, using secured mobile GPRS/3G tunnels where landlines are lacking, in place of the 2017 paper registers.", "as_of": "2026", "date_precision": "year", "system": "Egypt CRVS system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Egypt CRVS system", "country_label": "CRVS system; central database for births and deaths", "class": "civil", "platform": "secure platform; mobile GPRS/3G secured tunnels", "owner": "not stated; presented by Egypt's delegate, with CAPMAS named as the statistics office it updates", "tiers": "4,571 health offices in 27 governorates, described as full nationwide automation"},
+    {"system": "Interoperability of the births and deaths database", "country_label": "Interoperability", "class": "exchange", "platform": "", "owner": "", "tiers": "central database linked to identity management, comprehensive health insurance and some public services; direct updates to CAPMAS"}
+  ],
+  "note": "Slide deck with no printed date; 2026 is the deck's own label for the current position. It also names rural connectivity constraints as what did not work, met by mobile data tunnels, and says the system's completion still needs partner support."
+}

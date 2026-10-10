@@ -1,0 +1,8 @@
+{
+  "slug": "2024-12-02-cbos-national-number-bank-account-circular",
+  "facts": [],
+  "systems": [
+    {"system": "General Administration of Civil Registry system (national number check)", "country_label": "نظام الإدارة العامة للسجل المدني", "class": "identity", "platform": "", "owner": "General Administration of Civil Registry", "tiers": "banks must consult it to confirm a customer's national number when opening an account, under a Central Bank of Sudan circular of 2 December 2024"}
+  ],
+  "note": "The circular concerns the national number as a bank account document, checked against the Civil Registry's system; nothing on the registration of births or deaths."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2020-09-29-wb-mdg-002-digital-governance-and-identification-management-system",
+  "facts": [],
+  "systems": [
+    {"system": "national digital-identity system", "country_label": "", "class": "identity", "platform": "", "owner": "Government of Madagascar; PRODIGY PIU as implementing agency", "tiers": "national; biometric enrolment, ID-card printing, two data centres to host it"}
+  ],
+  "note": "A deal record for PRODIGY (US$143m committed, closed 30 June 2026): civil registration appears only in the World Bank category label, and every dated development it gives concerns the identity system, so no fact for a civil-class system."
+}

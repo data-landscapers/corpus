@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "NID-CRVS system", "country_label": "NID-CRVS system", "class": "exchange", "platform": "", "owner": "National Identification Registry (NIR), with OSD International as proposed technology and implementation partner", "tiers": "proposed; not yet approved by the Legislature"},
+    {"system": "national ID", "country_label": "national ID", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national; issuance suspended since June 2025"}
+  ],
+  "note": "The NIR describes a proposed NID-CRVS system as a framework linking national identification with civil registration, under a signed US$54 million OSD partnership still awaiting legislative approval (reported 14 September 2026); it states nothing on how or where births or deaths are recorded at registration offices."
+}

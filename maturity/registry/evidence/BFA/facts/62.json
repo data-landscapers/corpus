@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-22-worldbank-pad-economic-opportunities-resilience-project",
+  "facts": [],
+  "systems": [
+    {"system": "WURI unique ID", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Carte Nationale d'Identité Burkinabè", "country_label": "Carte Nationale d'Identité Burkinabè (CNIB)", "class": "identity", "platform": "", "owner": "ministry in charge of security", "tiers": ""}
+  ],
+  "note": "A World Bank appraisal of a social protection project (excerpt): the ministry in charge of decentralization is to support beneficiaries in obtaining civil status documents, and the WURI unique ID is called a prerequisite for the integrated social-protection system. The Registre Social Unique is a social registry, outside the field. Nothing on how civil registration offices register."
+}

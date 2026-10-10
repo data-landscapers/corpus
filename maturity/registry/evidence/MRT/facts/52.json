@@ -1,0 +1,11 @@
+{
+  "slug": "2015-08-13-mauritania-national-identity-documents-irb",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:180", "fact": "The IRB, citing the state news agency AMI, reports that in June 2013 there were 180 Citizen Welcome Centres issuing biometric civil status documents for the country's 216 communes; it does not say how the centre enters the record of a birth.", "as_of": "2013-06", "date_precision": "month", "system": "Centres d'accueil des citoyens (CAC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Centres d'accueil des citoyens (CAC)", "country_label": "Centre d'accueil des citoyens (Citizen Welcome Centre / enrollment center)", "class": "civil", "platform": "", "owner": "ANRPTS", "tiers": "commune: a birth is declared, within 60 days, at the CAC of the commune, which issues the birth certificate extract; marriage certificate extracts, identity card and passport applications are made at the same centres; 180 centres for 216 communes in June 2013"},
+    {"system": "Registre national biométrique des populations", "country_label": "Registre national biométrique des populations (National Population Biometric Register)", "class": "identity", "platform": "", "owner": "ANRPTS", "tiers": "national register; enrolment is the condition for the identity card, mandatory from age sixteen; civil status documents carry the national identification number (NNI) of each party"}
+  ],
+  "note": "One offices fact only: the document describes the procedure for declaring a birth at the commune CAC and the NNI carried on civil status acts, but never states whether the record is made digitally at the centre, so no events or made fact is taken."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2022-11-02-south-sudan-helping-secure-a-future-national-id-card",
+  "facts": [],
+  "systems": [
+    {"system": "National ID card registration by mobile registration team", "country_label": "National ID", "class": "identity", "platform": "laptops, photo printer and biometric iris and fingerprint scanners, run on generators", "owner": "Department of Civil Registry, Nationality, Passports and Immigration (DCRNPI), with UNHCR", "tiers": "mobile drive in Raja, Western Bahr el Ghazal, May 2022; earlier drives in Wau; some 15,000 people served since 2013"}
+  ],
+  "note": "A mobile national-ID registration drive (identity class); a birth certificate or age assessment is named only as a document an applicant must produce. Nothing on how births or deaths are registered."
+}

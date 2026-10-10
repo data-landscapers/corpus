@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-mli-anthropic-threat-intelligence-lakana-360-anse",
+  "facts": [],
+  "systems": [
+    {"system": "national biometric civil registry", "country_label": "national biometric civil registry", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The passages describe a surveillance platform that matched individuals against the national biometric civil registry and other state registries; they do not name the country, and say nothing on how births or deaths are registered."
+}

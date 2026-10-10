@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-05-addis-ababa-launches-integrated-digital-civil-service-system",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "On 5 December 2025 the mayor of Addis Ababa launched the Integrated Civil Registration and Residency Service Technology, a platform integrating vital events registration with residency identification, and announced that full implementation would begin in 50 woredas on 8 December 2025 (Ethiopian News Agency).", "as_of": "2025-12-05", "date_precision": "day", "system": "Integrated Civil Registration and Residency Service Technology", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:50", "fact": "The mayor of Addis Ababa announced that full implementation of the Integrated Civil Registration and Residency Service Technology would commence in 50 woredas from 8 December 2025; this is an announced start, the report gives no total number of woredas, and it concerns the capital only.", "as_of": "2025-12-08", "date_precision": "day", "system": "Integrated Civil Registration and Residency Service Technology", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The platform was developed by the Ethiopian Artificial Intelligence Institute, a state body, and is for the Addis Ababa Civil Registration and Residency Service Agency, whose director general spoke for it at the launch on 5 December 2025; no vendor or donor is named.", "as_of": "2025-12-05", "date_precision": "day", "system": "Integrated Civil Registration and Residency Service Technology", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated Civil Registration and Residency Service Technology", "country_label": "Integrated Civil Registration and Residency Service Technology", "class": "civil", "platform": "developed by the Ethiopian Artificial Intelligence Institute; resident-facing smartphone application", "owner": "Civil Registration and Residency Service Agency, Addis Ababa city administration", "tiers": "Addis Ababa; 50 woredas from 8 December 2025"}
+  ],
+  "note": "The report does not name births or deaths separately and does not describe how the record is made at the office, so no events or made fact is recorded; finance is not mentioned."
+}

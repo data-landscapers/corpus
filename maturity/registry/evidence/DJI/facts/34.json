@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-dji-plan-national-de-developpement-sanitaire-2020-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Système National d'Information Sanitaire", "country_label": "Système National d'Information Sanitaire (SNIS)", "class": "exchange", "platform": "Excel and ESOPE", "owner": "Direction de l'Information Sanitaire, Ministère de la Santé", "tiers": "national health information system; the civil status (État civil) is listed among the sources of the data that feed it, with no description of the link"}
+  ],
+  "note": "The passages carry one mention of civil status, as a data source of the health information system; nothing on how civil registration offices record events."
+}

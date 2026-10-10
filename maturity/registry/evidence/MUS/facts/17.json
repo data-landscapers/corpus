@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius National Identity Scheme (MNIS)", "country_label": "Mauritius National ID Card", "class": "identity", "platform": "", "owner": "", "tiers": "national foundational ID; adult coverage of 90 per cent or above in the 2024 Findex survey"},
+    {"system": "MauPass", "country_label": "MauPass", "class": "identity", "platform": "", "owner": "", "tiers": "digital ID for remote authentication, coded as available to the general population at data collection in 2024"}
+  ],
+  "note": "A global identity-coverage dataset: for Mauritius it names the national identity scheme and MauPass and gives adult ID coverage, and states nothing about how or where births and deaths are registered."
+}

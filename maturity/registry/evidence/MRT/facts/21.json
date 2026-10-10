@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-11-mauritania-upr-fourth-cycle-national-report-a-hrc-wg6-51-mrt-1",
+  "facts": [],
+  "systems": [
+    {"system": "Houwiyeti digital application", "country_label": "Houwiyeti", "class": "certificate", "platform": "", "owner": "", "tiers": "lets holders of national identification numbers apply for, track and obtain secure documents remotely: passports, identity cards, residence cards and civil status certificates (paragraph 32)"},
+    {"system": "enrolment campaigns", "country_label": "enrolment campaigns", "class": "outreach", "platform": "", "owner": "", "tiers": "the 2023 campaign enrolled 66,000 citizens, many from the diaspora (paragraph 32)"},
+    {"system": "programme to modernize the civil registry", "country_label": "programme to modernize the civil registry", "class": "", "platform": "", "owner": "", "tiers": "said to have been implemented and to facilitate birth registration; what it consists of is not stated (paragraph 54)"},
+    {"system": "Social Register", "country_label": "Social Register / unified social register", "class": "", "platform": "", "owner": "", "tiers": "national targeting database for social programmes; update launched in 2021"}
+  ],
+  "note": "The government's UPR report, an excerpt cut at the fetch limit. It lists Act No. 2025-011, the Civil Status Code, among laws adopted and says a programme to modernise the civil registry has facilitated birth registration, without saying how or where a birth is recorded; no fact on a civil-class system can be taken."
+}

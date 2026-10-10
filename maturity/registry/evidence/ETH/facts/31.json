@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Kebele ID System", "country_label": "Kebele ID System / Kebele ID Card", "class": "identity", "platform": "", "owner": "", "tiers": "local kebele ID, named as Ethiopia's foundational ID credential surveyed between 11 September 2024 and 22 January 2025; no digital ID coded for Ethiopia"},
+    {"system": "Fayda", "country_label": "new national ID system (Fayda)", "class": "identity", "platform": "", "owner": "", "tiers": "scaling up registration nationwide; not captured by the survey"}
+  ],
+  "note": "A global identity-coverage dataset report. For Ethiopia it gives adult ID ownership (91 per cent, on the kebele ID) and lists the country among those furthest behind on under-5 birth registration, without a figure; it says nothing about how or where births and deaths are registered, so no fact is recorded."
+}

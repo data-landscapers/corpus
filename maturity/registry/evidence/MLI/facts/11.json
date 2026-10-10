@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-18-mali-dnec-enregistrement-communautaire-naissances-zones-reculees",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The DNEC's head of digitalisation, presenting on 18 July 2026, describes the birth chain as paper: community health workers fill village notebooks, the declaration agent sends slip no. 2 from the declaration centre to the civil status centre, where the officer draws up the act; he calls it a paper community model, lists availability of registers among the difficulties, and names complete digitalisation of the system as a priority, the digital transformation being still incomplete.", "as_of": "2026-07-18", "date_precision": "day", "system": "état civil (centres de déclaration et centres d'état civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "état civil (centres de déclaration et centres d'état civil)", "country_label": "centre de déclaration; centre d'état civil; centre principal d'état civil", "class": "civil", "platform": "", "owner": "Direction Nationale de l'État Civil (DNEC)", "tiers": "declaration centre, civil status centre, then préfet, governor and DNEC; INSTAT for statistics and the national archives for conservation"},
+    {"system": "modèle communautaire de déclaration (Agents de Déclaration Villageois)", "country_label": "ASC, ADV, cahiers villageois", "class": "notification", "platform": "paper village notebooks", "owner": "DNEC with DGSHP, FENASCOM and the Association des Municipalités du Mali, under a memorandum of understanding", "tiers": "villages, feeding declaration centres"},
+    {"system": "campagnes annuelles de formation et de sensibilisation; jugements supplétifs", "country_label": "jugement supplétif", "class": "outreach", "platform": "", "owner": "DNEC", "tiers": "national campaigns; nine communes sensitised and 2,800 birth certificates by jugement supplétif in one year"}
+  ],
+  "note": "The document also gives registration rates of 89.5% births, 50% deaths and 20% marriages, which are shares of events and not of offices; the planned move to electronic birth notification and real-time data transmission is a stated perspective, with no date or system named."
+}

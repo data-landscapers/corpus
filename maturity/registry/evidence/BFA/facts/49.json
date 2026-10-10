@@ -1,0 +1,13 @@
+{
+  "slug": "2023-01-01-ogp-burkina-engagement-2-accessibilite-actes-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "Burkina Faso's Open Government Partnership commitment no. 2 commits the state to digitalising the system that registers civil-status acts and to creating secondary civil-status centres in all health centres, with activities scheduled from 2023-01-01 to 2025-06-30; it names no software, and the date used is the document's published date, which is the start of that schedule.", "as_of": "2023-01", "date_precision": "month", "system": "digitalisation du système d'enregistrement des actes d'état civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitalisation du système d'enregistrement des actes d'état civil", "country_label": "digitalisation des modes de production et de gestion des actes d'état civil", "class": "civil", "platform": "", "owner": "", "tiers": "centres d'état civil; secondary centres to be created in health centres"},
+    {"system": "RESINA", "country_label": "RESINA (interconnexion et réseau local)", "class": "enabling", "platform": "", "owner": "", "tiers": "centres principaux d'état civil"},
+    {"system": "plateforme de demandes d'actes d'état civil en ligne", "country_label": "plateforme de demandes d'actes d'état civil en ligne", "class": "certificate", "platform": "", "owner": "", "tiers": ""},
+    {"system": "opérations spéciales de transcription des actes issus des opérations massives de délivrance", "country_label": "opérations spéciales pour la transcription des actes d'état civil", "class": "outreach", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The activity table's execution rates (networking of main centres 30.64%, training on the online request platform not started, transcription operations 40%) carry no date of their own. The document also states that insecurity destroyed the registers of 532 civil-status centres and that the national mean access radius to a centre is 7.80 km, neither dated."
+}

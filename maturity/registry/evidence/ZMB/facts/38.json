@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-zambia-birth-registration-id-related-services",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "CRVS Laws reports, on the account of the Department of National Registration, Passport and Citizenship, that in practice a registrar uses the Integrated National Registration Information System (INRIS) to assign a unique system-generated number at the time of birth registration; the page gives no date, no count of offices and does not say where the registrar sits, so the document's published year is used.", "as_of": "2025", "date_precision": "year", "system": "Integrated National Registration Information System (INRIS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "INRIS", "class": "civil", "platform": "", "owner": "Department of National Registration, Passport and Citizenship", "tiers": "used by a registrar at birth registration; tiers not stated"},
+    {"system": "National Registration Card (NRC)", "country_label": "NRC", "class": "identity", "platform": "", "owner": "Department of National Registration, Passport and Citizenship", "tiers": "for persons over 16; can be issued without a birth certificate"},
+    {"system": "Link from birth registration records to the national registration card number", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "National Registration Regulations 2019, regulation 6(2)(a): for a person born in Zambia the card number is obtained from the birth registration records"}
+  ],
+  "note": ""
+}

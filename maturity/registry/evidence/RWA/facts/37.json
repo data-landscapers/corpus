@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Register", "country_label": "NPR / National Identity Card (NID)", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A global identity-coverage dataset; Rwanda appears only in Annex D as a row naming its foundational ID system, with the adult estimate drawn from voter registration. Nothing on how civil registration offices register."
+}

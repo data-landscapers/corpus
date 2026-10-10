@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-23-lanation-dgpf-administration-modernisee-interconnectee",
+  "facts": [],
+  "systems": [
+    {"system": "Numérisation des archives administratives", "country_label": "programme de numérisation des archives; base de données numérique", "class": "archive", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "DGPF: birth acts, marriage acts, photographs and supporting documents progressively entered in a digital database; civil-status acts being progressively secured and centralised"},
+    {"system": "Carte nationale d'identité biométrique", "country_label": "carte nationale d'identité biométrique", "class": "identity", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "issued across the national territory since 2025; enrolment centres in the arrondissements of Djibouti-Ville and the prefectures of the interior regions; counters in all regions"},
+    {"system": "Équipes mobiles équipées de kits biométriques", "country_label": "équipes mobiles", "class": "identity", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "mobile identity enrolment for the elderly, the sick, the hospitalised and remote localities"},
+    {"system": "ID Mobile", "country_label": "ID Mobile", "class": "identity", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "in preparation: identity card on the mobile phone"},
+    {"system": "Portail numérique", "country_label": "portail numérique", "class": "", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "in preparation: certain administrative procedures online, not specified"},
+    {"system": "Système d'interopérabilité", "country_label": "système d'interopérabilité", "class": "identity", "platform": "", "owner": "Direction générale de la Population et de la Famille (DGPF)", "tiers": "being worked on: real-time verification of an identity card by public administrations, banks and social-protection bodies"}
+  ],
+  "note": "The DGPF director general describes digitisation of archives of civil-status acts and identity-card enrolment; nothing on a birth or death being entered digitally at the office where it is declared, so no civil-class fact."
+}

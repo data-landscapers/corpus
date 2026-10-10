@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-28-unicef-burundi-interoperability-civil-registry-health-kirundo",
+  "facts": [],
+  "systems": [
+    {"system": "interoperability between civil registry and health services", "country_label": "interoperability approach", "class": "exchange", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security and Ministry of Public Health and AIDS Control, supported by UNICEF", "tiers": "52 health facilities across Kirundo province since mid-October 2023, hosting civil registry offices where a local registrar registers births and issues birth certificates the same day; about 600 registrations a month in the health centres, per a registrar"}
+  ],
+  "note": "The article describes registrars' desks in health facilities, which the typology treats as registry offices, but nowhere says the record is digital: the registrar is shown completing the birth register and a parent signing in it. With no digital record stated there is no value to record, so no fact; the class follows the country's own label and the parent may prefer to treat these as offices."
+}

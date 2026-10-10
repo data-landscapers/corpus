@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-04-cinews-oneci-santegidio-enregistrement-naissances",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:98%", "fact": "ONECI's director general said on 2 March 2026 that the digitalisation of the civil status system is effective with 98 per cent of centres computerised and connected to the cityweb software; he gave no numerator or denominator, and the figure is of centres computerised and connected, not of centres registering with it.", "as_of": "2026-03-02", "date_precision": "day", "system": "cityweb", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The civil status system and its cityweb software are presented by ONECI's director general as ONECI's own, with the Ministry of the Interior and Security supervising and ONECI supplying the technical means under the convention signed on 2 March 2026.", "as_of": "2026-03-02", "date_precision": "day", "system": "cityweb", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "CINEWS states that the convention of 2 March 2026 is part of the implementation of the Stratégie nationale de l'état civil et de l'identification (SNECI); the document does not say whether the strategy names the software.", "as_of": "2026-03-02", "date_precision": "day", "system": "cityweb", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "cityweb", "country_label": "logiciel cityweb", "class": "civil", "platform": "cityweb", "owner": "ONECI", "tiers": "civil status centres: 98 per cent computerised and connected, per ONECI's director general on 2026-03-02"},
+    {"system": "numérisation des registres", "country_label": "numérisation des registres", "class": "archive", "platform": "", "owner": "ONECI with the Sant'Egidio community", "tiers": "provided for in the convention of 2026-03-02; not yet reported as done"}
+  ],
+  "note": "The convention with Sant'Egidio also provides for community awareness, equipping civil status centres, opening offices in health centres, supplying sub-prefectures with registers and issuing birth extracts; these are commitments, not reported results. ONECI's aim of capturing 99 per cent of births is a share of births, not of offices."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-02-use-of-ghana-card-for-all-financial-transactions",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "", "tiers": "the only identification card for transactions at Bank of Ghana licensed and regulated financial institutions, from 1 July 2022"}
+  ],
+  "note": "A Bank of Ghana directive on the identity card for financial transactions; nothing on civil registration."
+}

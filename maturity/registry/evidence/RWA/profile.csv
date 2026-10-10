@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+RWA,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-06-30,RWA-003;RWA-007;RWA-018,RWA-017=owner:ministry;RWA-030=owner:ministry;RWA-031=plan:current;RWA-032=finance:donor;RWA-039=owner:ministry;RWA-008=plan:current;RWA-044=owner:ministry;RWA-051=owner:ministry,
+RWA,civil,events,coverage,B;D,2026-08-13,RWA-001;RWA-004;RWA-010;RWA-011;RWA-015;RWA-019;RWA-025;RWA-035;RWA-053,RWA-040=B;D;RWA-042=B;D;RWA-045=B;RWA-052=B;D;RWA-048=B;D,
+RWA,civil,made,coverage,connected,2026-06-03,RWA-005;RWA-020;RWA-021;RWA-026;RWA-027;RWA-028;RWA-036;RWA-037;RWA-041;RWA-043;RWA-046;RWA-049,,
+RWA,civil,last12,qualifier,advancing,2026-06-03,RWA-009;RWA-016;RWA-023;RWA-033;RWA-034,RWA-024=regressing,
+RWA,civil,offices,coverage,share:100%,2025,RWA-022;RWA-029,RWA-002=not-published;RWA-006=not-published;RWA-038=count:3220;RWA-047=none;RWA-050=not-published,

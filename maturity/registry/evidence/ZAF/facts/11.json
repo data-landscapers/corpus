@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-17-south-africa-digital-identity-public-services-ecosystem",
+  "facts": [],
+  "systems": [
+    {"system": "Intelligent Population Register", "country_label": "Intelligent Population Register", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "planned; biometric-based, described as part of efforts to streamline civil registration and build a dependable citizen database"},
+    {"system": "Smart ID services at bank branches", "country_label": "Digital Partnership", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "372 participating bank branches (August 2026)"},
+    {"system": "My Home Affairs Online branch locator portal", "country_label": "My Home Affairs Online", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "online, national"},
+    {"system": "national digital ID", "country_label": "MyMzansi digital ID", "class": "identity", "platform": "MyMzansi", "owner": "Department of Home Affairs", "tiers": "planned"},
+    {"system": "data exchange platform", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "being piloted"},
+    {"system": "Electronic Travel Authorization", "country_label": "ETA", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": "Smart ID branch locator and identity roadmap; the planned population register is said to streamline civil registration but nothing is stated about how births or deaths are registered."
+}

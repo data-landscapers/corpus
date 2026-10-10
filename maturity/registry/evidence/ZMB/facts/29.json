@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-11 DZAP World Bank PAD",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Registration Information System (INRIS)", "country_label": "INRIS", "class": "identity", "platform": "", "owner": "Ministry of Home Affairs and Internal Security (MoHAIS)", "tiers": "has registered 15 percent of adults using biometrics; coverage gap of about 85 percent"},
+    {"system": "National Registration Card system", "country_label": "NRC", "class": "identity", "platform": "paper", "owner": "", "tiers": "legacy paper-based; covered some 94 percent of adults by 2021"},
+    {"system": "Homegrown foundational ID system", "country_label": "Digital ID", "class": "identity", "platform": "open standards", "owner": "Government of Zambia; project implemented by Smart Zambia Institute", "tiers": "planned; registration sites to be expanded through post offices"},
+    {"system": "Government eServices portal", "country_label": "ZamPortal", "class": "certificate", "platform": "", "owner": "Government of Zambia", "tiers": "online; 300 of an estimated 1,500 government services"},
+    {"system": "ZamConnect", "country_label": "ZamConnect", "class": "exchange", "platform": "", "owner": "Government of Zambia", "tiers": "data integration and data exchange platform; no link to the civil register stated"}
+  ],
+  "note": "The capture is a partial excerpt (datasheet and Strategic Context paragraphs 9-10). In it INRIS is described only as biometric registration of adults for identity, so it is classed identity here and gives no fact; birth and death registration are not mentioned. ZamPortal is classed certificate as a service portal, with no civil registration service stated. The component descriptions and results framework were not captured."
+}

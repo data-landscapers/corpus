@@ -1,0 +1,88 @@
+{
+  "slug": "2023-06-20-worldbank-gambia-essential-health-services-project-paper-pad5486",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The World Bank project paper states that civil registration in The Gambia 'was paper-based until last year', that is until 2022, when the project supported the development of a functional eCRVS.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Civil registration (before the eCRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The World Bank states that the Ministry of Health's Births and Deaths Registry ran a mass registration on the eCRVS from 1 August 2022 to 28 February 2023 that registered 1,167,460 people of all ages, each issued a birth certificate and a health insurance card carrying a National Identification Number and QR code; a Gambia Bureau of Statistics household survey of March 2023 found 53.64 per cent of the population registered. No death registration on the system is stated in the passages.",
+      "as_of": "2023-02-28",
+      "date_precision": "day",
+      "system": "electronic Civil Registration and Vital Statistics (eCRVS) System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank names the Ministry of Health's Births and Deaths Registry as the body that ran the eCRVS mass registration, and the 'MOH CRVS division' as the source of the births-registered and marriages-registered indicators. Undated in the text; the document's published date is used.",
+      "as_of": "2023-06-20",
+      "date_precision": "day",
+      "system": "electronic Civil Registration and Vital Statistics (eCRVS) System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank states that its Essential Health Services Strengthening Project supported the development of the eCRVS in 2022, financed the procurement of ICT equipment for it, and recruited an international civil registration enterprise architect to guide the local team; no domestic budget line is stated in the passages.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "electronic Civil Registration and Vital Statistics (eCRVS) System",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "electronic Civil Registration and Vital Statistics (eCRVS) System",
+      "country_label": "eCRVS",
+      "class": "civil",
+      "platform": "HERA",
+      "owner": "Ministry of Health, Births and Deaths Registry (MOH CRVS division)",
+      "tiers": "standard operating procedures developed for birth registration 'to resume at the health facilities'; ICT equipment 'installed in all health facilities' (passage truncated)"
+    },
+    {
+      "system": "Mass birth and health insurance registration",
+      "country_label": "mass registration",
+      "class": "outreach",
+      "platform": "HERA (eCRVS)",
+      "owner": "Ministry of Health, Births and Deaths Registry",
+      "tiers": "nationwide campaign, 1 August 2022 to 28 February 2023; 1,167,460 people registered"
+    },
+    {
+      "system": "eCRVS link to the National Identity System",
+      "country_label": "interoperability of the eCRVS and the National Identity System",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health with the Gambia Department of Immigration, Ministry of Interior",
+      "tiers": "ongoing collaboration: the eCRVS allocates the NIN to under-18s and people without ID cards and transmits it to the national ID system; the electronic birth certificate is to become a prerequisite for the ID card"
+    },
+    {
+      "system": "National Identity System",
+      "country_label": "National Identity System; national ID cards with NIN",
+      "class": "identity",
+      "platform": "",
+      "owner": "Gambia Department of Immigration, Ministry of Interior",
+      "tiers": "issues ID cards to people aged 18 years and older"
+    },
+    {
+      "system": "eCRVS links to eNHIS and eHRMIS",
+      "country_label": "eNHIS interoperable with eCRVS; eHRMIS import from eCRVS by NIN",
+      "class": "exchange",
+      "platform": "openIMIS (eNHIS)",
+      "owner": "Ministry of Health",
+      "tiers": "planned: the eNHIS 'will be interoperable' with the eCRVS, and the NIN is to allow import of biographic data and photo into the eHRMIS"
+    }
+  ],
+  "note": "The passages do not say how or where the record is made after the mass registration, nor how many offices or facilities register. They also record that a review of the 1990 Act on Births, Deaths, Marriages and Divorces fed into a new CRVS Bill and regulations."
+}

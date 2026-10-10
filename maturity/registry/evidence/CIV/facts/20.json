@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-09-oneci-renforce-capacites-speakers-langues-locales-linfodrome",
+  "facts": [],
+  "systems": [
+    {"system": "logiciel national de l'état civil", "country_label": "logiciel national de l'état civil", "class": "", "platform": "", "owner": "ONECI", "tiers": "not stated; named as what the health-centre terminals connect to"},
+    {"system": "terminals in health centres connected to the national civil status software", "country_label": "terminaux connectés au logiciel national de l'état civil", "class": "notification", "platform": "", "owner": "ONECI", "tiers": "health centres; first tests in Abidjan reported conclusive as of 2026-06-09, to be extended progressively to the whole country"},
+    {"system": "points de collecte communautaires", "country_label": "points de collecte communautaires", "class": "notification", "platform": "", "owner": "ONECI", "tiers": "villages: agents named by village chiefs are to record births not registered at a health facility and transmit the data to the civil status services of sub-prefectures and town halls; planned"},
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "RNPP (given in the document as Régime national des personnes physiques)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "national"}
+  ],
+  "note": "A training day for local-language broadcasters on 2026-06-09. The national civil status software is named without a description of what offices do in it; the terminals and community collection points notify the civil status services and are tested or planned. ONECI's director general puts the birth declaration rate below 60 per cent, a share of births, not of offices."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-08-cabinet-approves-revised-white-paper-citizenship",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "Cabinet approved the Revised White Paper on Citizenship, Immigration and Refugee Protection in the week before 8 April 2026; the Department of Home Affairs says its civil registration reforms include introducing mandatory birth and death registration through digital channels, with legislative amendments still to be drafted.", "as_of": "2026-04", "date_precision": "month", "system": "mandatory birth and death registration through digital channels", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Department of Home Affairs is named as the department that will draft and table the legislation implementing the Revised White Paper's civil registration reforms, including birth and death registration through digital channels (approved by Cabinet in the week before 8 April 2026).", "as_of": "2026-04", "date_precision": "month", "system": "mandatory birth and death registration through digital channels", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "mandatory birth and death registration through digital channels", "country_label": "civil registration reforms", "class": "civil", "platform": "", "owner": "Department of Home Affairs", "tiers": "policy approved by Cabinet, April 2026; for citizens and resident foreigners; not yet legislated"},
+    {"system": "National Population Register", "country_label": "NPR", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national; records basic information including names, births and deaths"},
+    {"system": "Intelligent Population Register", "country_label": "IPR", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "planned replacement of the NPR, using biometrics, interoperability and real-time data integration, as the foundation for Digital ID"},
+    {"system": "Electronic Travel Authorisation", "country_label": "ETA", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "2024-10-30-worldbank-togo-astre-p178835-isr-seq3-interoperable-social-information-system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Togo eID system",
+      "country_label": "Togo eID",
+      "class": "identity",
+      "platform": "",
+      "owner": "ANID; financed by the WURI program",
+      "tiers": "national; soft-launched on 27 November 2023"
+    },
+    {
+      "system": "Dynamic social registry (RSPM)",
+      "country_label": "RSPM",
+      "class": "",
+      "platform": "",
+      "owner": "ANID; financed by the WURI program",
+      "tiers": "national; software 75% complete and 0% of the population registered as at 30 September 2024"
+    },
+    {
+      "system": "Beneficiary Operations Management System (BOMS)",
+      "country_label": "BOMS",
+      "class": "",
+      "platform": "",
+      "owner": "ANID",
+      "tiers": "not yet in place as at 30 September 2024"
+    },
+    {
+      "system": "Data exchange platform",
+      "country_label": "data exchange platform between the eID, RSPM, BOMS and other administrative systems",
+      "class": "",
+      "platform": "",
+      "owner": "ANID",
+      "tiers": "not in place as at 30 September 2024; target December 2026"
+    }
+  ],
+  "note": "A supervision report on the social protection information system (eID, social registry, payments); it does not mention civil registration."
+}

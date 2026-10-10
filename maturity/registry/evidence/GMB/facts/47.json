@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-marriage-registry-moj-gambia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Marriage Registry",
+      "country_label": "Marriage Registry (Registrar General's Department)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Justice, Registrar General's Department",
+      "tiers": "one registry premises; civil marriages registered on a submitted Civil Marriage Form"
+    }
+  ],
+  "note": "The page covers marriage registration, divorce certificates and bachelor/spinster certificates only, by form and fee at the Ministry of Justice; it states nothing about birth or death registration (a death certificate appears only as a supporting document) and describes no digital system."
+}

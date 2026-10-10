@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-01-ethiopia-tadat-performance-assessment-2025",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration database", "country_label": "civil registration database", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "company registration database", "country_label": "company registration database", "class": "land", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "The passages of this IMF tax administration assessment are its contents pages and one broken fragment naming a civil registration database beside the company registration database, in a sentence about the tax administration's own system (TASS). Nothing is said of what the database is or how it is filled."
+}

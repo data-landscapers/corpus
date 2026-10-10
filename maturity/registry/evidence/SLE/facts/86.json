@@ -1,0 +1,23 @@
+{
+  "slug": "2024-01-01-sierra-leone-mtndp-2024-2030",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Civil Registration and Vital Statistics and ID Management System",
+      "country_label": "Integrated Civil Registration and Vital Statistics and ID Management System",
+      "class": "",
+      "platform": "",
+      "owner": "National Civil Registration Authority",
+      "tiers": ""
+    },
+    {
+      "system": "Interoperability between NCRA and MoHS",
+      "country_label": "interoperability between NCRA and MoHS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "National Civil Registration Authority; Ministry of Health",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: the plan (January 2024) names the integrated system only as an ongoing project in its project list, without saying what it does, so it cannot be classed. For the parent: the same passage states that under the 2019-2023 plan NCRA completed the UN-guided Comprehensive Country Assessment, developed a costed National CRVS & ID Management Strategic Plan, 'strengthened' birth and death registration and interoperability with the health ministry, and printed securitised birth and death certificates; the project list also carries rehabilitation of district offices and of the NCRA complex."
+}

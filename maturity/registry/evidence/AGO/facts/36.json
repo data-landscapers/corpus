@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-lei-13-25-altera-a-lei-do-registo-eleitoral-oficioso",
+  "facts": [],
+  "systems": [
+    {"system": "Base de Dados de Cidadãos Maiores (BDCM)", "country_label": "Base de Dados de Cidadãos Maiores (BDCM)", "class": "land", "platform": "", "owner": "Central Administration and its deconcentrated organs (the Executive)", "tiers": "managed centrally; register areas down to municipality, urban district, commune, neighbourhood and village, and consular areas abroad"},
+    {"system": "Ficheiro Informático de Cidadãos Maiores (FICM)", "country_label": "Ficheiro Informático de Cidadãos Maiores (FICM)", "class": "land", "platform": "", "owner": "the Executive, which supplies it to the Comissão Nacional Eleitoral", "tiers": "national"},
+    {"system": "Base de Dados do Bilhete de Identidade / Base de Dados de Identificação Civil (BDIC)", "country_label": "Base de Dados do Bilhete de Identidade; Base de Dados de Identificação Civil (BDIC)", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "An electoral-register law (excerpt; the body breaks off in article 21). The electoral base is fed from the identity-card database; civil registry offices appear only among the bodies that must report an adult's death to the nearest local state administration on presenting a document. Nothing on how a registry office records a birth or death."
+}

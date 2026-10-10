@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-19 Georeferencing of land titles - a revolution for security and transparency in Togo",
+  "facts": [],
+  "systems": [
+    {"system": "georeferencing of land titles (cadastre digital database)", "country_label": "géoréférencement des titres fonciers", "class": "land", "platform": "", "owner": "Office Togolais des Recettes, Direction du Cadastre et de la Conservation Foncière", "tiers": "land titles created before 2007; surveyors measure parcels in the field and the data are entered into a digital database"}
+  ],
+  "note": "Land titles and cadastre only, which are out of the study's scope; nothing on civil registration."
+}

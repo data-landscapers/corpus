@@ -1,0 +1,9 @@
+{
+  "slug": "2019-12-01-senegal-snds-iii-2019-2023-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "Dispositif national de collecte de données et Système d'Information Géographique de l'état civil", "country_label": "Dispositif national de collecte de données et SIG de l'état civil", "class": "exchange", "platform": "", "owner": "DEC (Direction de l'état civil) as responsible; planned, financed 100% by donors in the strategy's budget table", "tiers": "national; planned activity of the 2019-2023 statistics strategy"},
+    {"system": "Programme de modernisation de l'Etat civil", "country_label": "programme de modernisation de l'Etat civil", "class": "", "platform": "", "owner": "not stated; under way with the support of technical and financial partners, December 2019", "tiers": "not stated"}
+  ],
+  "note": "No fact: the passages of the statistics strategy cover civil-status statistics only: quarterly returns by registrars, transmission of civil-status data to statistical services, a mapping and atlas of civil status, and regularisation of unregistered children aged 0 to 5. Nothing on how an office makes the record."
+}

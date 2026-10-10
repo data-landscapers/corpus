@@ -1,0 +1,10 @@
+{
+  "slug": "2024-08-02-hcn-sntn-2025-2030-strategie-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN)", "country_label": "NIN", "class": "identity", "platform": "", "owner": "Ministry of the Interior, Local Administration and Territory Planning", "tiers": "national; introduced in 2010, said to have enabled the digitalisation of civil status records and biometric ID cards and passports"},
+    {"system": "Digitalisation of civil status records", "country_label": "", "class": "", "platform": "", "owner": "Ministry of the Interior, Local Administration and Territory Planning", "tiers": ""},
+    {"system": "Digital identity for citizens and businesses (strategy objective 12)", "country_label": "", "class": "identity", "platform": "", "owner": "High Commission for Digitalization", "tiers": "national; target of 100 per cent of citizens and businesses by 2030"}
+  ],
+  "note": "The national digital transformation strategy (version of 2 August 2024) mentions civil status once, in its preamble, as records digitalised after the 2010 NIN; it names no civil registration system among its objectives and says nothing on how births or deaths are registered."
+}

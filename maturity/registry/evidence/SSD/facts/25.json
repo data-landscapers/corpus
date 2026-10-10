@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Data Landscapers review (an AI-assisted compilation by its own header) states that rural registry offices rely entirely on paper for births and other vital events, on manual forms and registers, with no evidence of digital systems at the point of service; undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "civil registry", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The Data Landscapers review states that no digital system was found at any rural registry office, and that pilots for birth registration in Juba supported by Vital Strategies and UNHCR are isolated and not scaled to rural areas; undated, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "civil registry", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Data Landscapers review states that a costed CRVS plan exists but that implementation lags for want of institutions, electricity, internet and funding; it gives the plan no date or title, and the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "civil registry", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registry", "country_label": "rural registry offices", "class": "civil", "platform": "", "owner": "", "tiers": "rural offices on paper; birth registration pilots in Juba supported by Vital Strategies and UNHCR"}
+  ],
+  "note": "Passages only. The source is listed in study.json under exclude_sources; its statements are recorded as it gives them."
+}

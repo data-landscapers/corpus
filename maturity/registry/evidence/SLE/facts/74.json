@@ -1,0 +1,56 @@
+{
+  "slug": "2016-08-04-sierra-leone-national-civil-registration-act-2016",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Civil Registration Act 2016 (section 2, sections 15 and 37) establishes the National Civil Registration Authority as a body corporate responsible for registering births, deaths, marriages, divorces, nullities and adoptions throughout Sierra Leone, and requires it to establish and maintain the electronic Integrated National Civil Registration System.",
+      "as_of": "2016-08-04",
+      "date_precision": "day",
+      "system": "Integrated National Civil Registration System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "Section 21 of the Act provides in law that the Authority is financed by moneys appropriated by Parliament, together with gifts, grants and other contributions and other moneys accruing to it; this is the statutory provision, with no amount stated.",
+      "as_of": "2016-08-04",
+      "date_precision": "day",
+      "system": "Integrated National Civil Registration System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The Act provides in law (sections 37 and 42) that the Integrated National Civil Registration System creates and maintains the civil status registers in electronic format, the registers including a Register of Births and a Register of Deaths; a statutory provision, not a report of practice.",
+      "as_of": "2016-08-04",
+      "date_precision": "day",
+      "system": "Integrated National Civil Registration System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The Act provides in law (sections 37(3) and 38(3) to (5)) that the system functions at national, regional, district, chiefdom and ward levels, that data are entered once at the place where the event occurs, and that local registration centres send their data regularly to the districts for transmission to regional or national level; section 34 keeps a manual Personal Registration File alongside the electronic entry. A statutory provision, not a report of practice.",
+      "as_of": "2016-08-04",
+      "date_precision": "day",
+      "system": "Integrated National Civil Registration System",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated National Civil Registration System",
+      "country_label": "Integrated National Civil Registration System (INCRS)",
+      "class": "civil",
+      "platform": "",
+      "owner": "National Civil Registration Authority",
+      "tiers": "national, regional, district, chiefdom and ward levels, as the Act prescribes"
+    }
+  ],
+  "note": "The held text is an excerpt of the Act, truncated in section 44; every fact is what the statute prescribes, dated to its Gazette publication of 4 August 2016."
+}

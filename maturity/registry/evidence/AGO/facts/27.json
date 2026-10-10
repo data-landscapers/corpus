@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-04-zaire-inicia-registo-de-recem-nascidos-na-maternidade",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "ANGOP reports on 4 March 2026 that Nascer com Registo, which places a civil registration post in the maternity, is run by the ministries of Justice and Human Rights, of Health and of Social Action, Family and Women's Promotion, with UNICEF support; the post at Mbanza Kongo answers to the Conservatória do Registo da Comarca.", "as_of": "2026-03-04", "date_precision": "day", "system": "Nascer com Registo", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "ANGOP reports on 4 March 2026 that Nascer com Registo is implemented across the country by the Angolan Executive with European Union financing; no amount and no domestic budget line is given.", "as_of": "2026-03-04", "date_precision": "day", "system": "Nascer com Registo", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "A civil registration post opened on 3 March 2026 in the maternity of the Maria Eugénia Neto provincial hospital at Mbanza Kongo, Zaire, where the registrar says newborns have been registered since October 2025 and which will also issue death entries; the report does not say whether the record is made digitally.", "as_of": "2026-03-03", "date_precision": "day", "system": "Nascer com Registo", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Nascer com Registo", "country_label": "Nascer com Registo", "class": "civil", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos, Ministério da Saúde and Ministério da Acção Social, Família e Promoção da Mulher; EU financing, UNICEF support; locally the Conservatória do Registo da Comarca de Mbanza Kongo", "tiers": "registration posts in maternities; one at the provincial hospital of Zaire in Mbanza Kongo, registering newborns since October 2025 and children up to one year born elsewhere; other health units still without a post"}
+  ],
+  "note": "The class rests on the report's statement that the birth is registered at the maternity post; nothing in it says the record is digital, so no fact is taken for events, how the record is made or offices."
+}

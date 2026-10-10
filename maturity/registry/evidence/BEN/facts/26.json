@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-29-anip-digitalisation-quatre-millions-beninois",
+  "facts": [],
+  "systems": [
+    {"system": "eservices.anip.bj portal", "country_label": "portail eservices.anip.bj", "class": "certificate", "platform": "web", "owner": "ANIP", "tiers": "37% of civil-status and identity requests in 2025, on ANIP's figures published 26 January 2026"},
+    {"system": "ANIP BJ application", "country_label": "application mobile ANIP BJ", "class": "certificate", "platform": "mobile app", "owner": "ANIP", "tiers": "30% of requests in 2025; ANIP's mobile applications passed 300,000 downloads"},
+    {"system": "ANIP USSD service", "country_label": "service USSD", "class": "certificate", "platform": "USSD", "owner": "ANIP", "tiers": "8% of requests in 2025, for areas of weak connectivity; physical counters took the remaining 25%"},
+    {"system": "ANIP authentication and eKYC services", "country_label": "authentifications via les opérateurs GSM; eKYC", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "3.8 million authentications through GSM operators and 25 million eKYC verifications in 2025"}
+  ],
+  "note": "ANIP's 2025 figures count requests for and delivery of documents (10.5 million civil-status and identity documents, 4 million citizens served, 75% online or remote), not the registration of births or deaths."
+}

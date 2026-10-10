@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "National Biometric Identity Management System", "country_label": "National Biometric Identity Management System", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; has registered about 93 per cent of the population, each with a National Identification Number (NCRA Director-General, 5 August 2026)"},
+    {"system": "Modular Open Source Identity Platform pilot", "country_label": "MOSIP", "class": "identity", "platform": "MOSIP", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Piloted; support sought for full implementation (5 August 2026)"},
+    {"system": "Electronic Know Your Customer platform", "country_label": "eKYC platform", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "Integrated with multiple institutions for identity verification"},
+    {"system": "NCRA data centre", "country_label": "Tier III-compliant data centre", "class": "enabling", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National"},
+    {"system": "National Data Exchange Layer pilot", "country_label": "national Data Exchange Layer", "class": "", "platform": "X-Road", "owner": "Ministry of Finance", "tiers": "Being piloted (August 2026); no link to the civil register stated"}
+  ],
+  "note": "The NCRA head's speech on identity infrastructure; registration at birth is stated only as a future aim, and nothing says how births or deaths are recorded."
+}

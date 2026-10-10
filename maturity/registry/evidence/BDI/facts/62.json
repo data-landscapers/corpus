@@ -1,0 +1,31 @@
+{
+  "slug": "2014-11-28-burundi-loi-1-33-organisation-administration-communale",
+  "facts": [],
+  "systems": [
+    {
+      "system": "état civil communal",
+      "country_label": "centre d'enregistrement (état civil), with an agent d'état civil",
+      "class": "civil",
+      "platform": "'registres des actes de l'état civil'; the law does not say paper or electronic",
+      "owner": "the commune: the Administrateur communal is officier de l'état civil (art. 30); supervision by the Gouverneur or Maire and the minister for territorial administration",
+      "tiers": "one agent d'état civil per centre d'enregistrement in each commune (art. 57); the chef de zone assists on civil-status matters (art. 60); Bujumbura's three urban communes take over état civil from the Mairie, which keeps a civil-status control service (arts. 130, 132)"
+    },
+    {
+      "system": "carte nationale d'identité",
+      "country_label": "cartes d'identité / Carte Nationale d'Identité",
+      "class": "identity",
+      "platform": "",
+      "owner": "the commune's agent de l'état civil issues identity cards (art. 65)",
+      "tiers": "communes, including Bujumbura's urban communes (art. 132)"
+    },
+    {
+      "system": "guichet foncier",
+      "country_label": "guichet foncier communal",
+      "class": "land",
+      "platform": "",
+      "owner": "the commune",
+      "tiers": "one 'responsable du guichet foncier' among each commune's minimum staff (art. 57)"
+    }
+  ],
+  "note": "The 2014 law on communal administration fixes who registers and where (the local office is the commune's 'centre d'enregistrement'), which is the denominator's definition, but states no count of centres and nothing about how the record is made, so it yields no value for any aspect."
+}

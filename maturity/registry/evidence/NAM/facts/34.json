@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-06-namibia-home-affairs-24-hospitals-instant-birth-registration",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Home Affairs, Immigration, Safety and Security said in a notice in the first week of December 2025 that it had deployed staff to 24 state hospitals to issue birth certificates right after delivery, and that 126 state and private hospitals were equipped with the electronic birth notification system; the report does not say in what system the deployed staff make the register entry.", "as_of": "2025-12", "date_precision": "month", "system": "birth registration by home affairs staff at state hospitals", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The staff registering births and issuing certificates at 24 state hospitals are the Ministry of Home Affairs, Immigration, Safety and Security's own, deployed by it, as its executive director's notice of early December 2025 states.", "as_of": "2025-12", "date_precision": "month", "system": "birth registration by home affairs staff at state hospitals", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "birth registration by home affairs staff at state hospitals", "country_label": "instant birth registration", "class": "civil", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "24 state hospitals, where birth certificates are issued right after delivery"},
+    {"system": "electronic birth notification system", "country_label": "electronic birth notification system", "class": "notification", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": "126 state and private hospitals, where nurses record births"}
+  ],
+  "note": "The hospital desks are classed civil because the report says births are registered and certificates issued there; it does not state that the entry is digital, so no fact is taken on events, how the record is made or offices."
+}

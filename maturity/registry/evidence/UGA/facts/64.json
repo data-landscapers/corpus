@@ -1,0 +1,11 @@
+{
+  "slug": "2024-06-01-uganda-data-ecosystem-social-protection",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration system", "country_label": "civil registration", "class": "", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "national ID system", "country_label": "Ndaga Muntu", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "NIRA offices; continuous enrolment has replaced mass registration drives"},
+    {"system": "National Identification Number designated to infants when their birth is registered", "country_label": "NIN", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""},
+    {"system": "link of the National ID Database to the National Single Registry for social protection", "country_label": "National Single Registry (NSR)", "class": "exchange", "platform": "", "owner": "Ministry of Gender, Labour and Social Development", "tiers": "national"}
+  ],
+  "note": "States registration completeness (32 per cent of births and 23 per cent of deaths, DHS 2016), that vital statistics are not produced from civil registration data, and that a NIN is now designated at birth registration; nothing on how or where an office makes the record, so no fact."
+}

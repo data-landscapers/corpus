@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-mped-egypt-decent-life-first-phase-implementation-status",
+  "facts": [],
+  "systems": [
+    {"system": "Government Service Centers (Decent Life first phase)", "country_label": "Gov. Service Centers", "class": "enabling", "platform": "", "owner": "Ministry of Planning and Economic Development reports it; operator not stated", "tiers": "305 centres completed of 332 targeted in the first-phase villages of 20 governorates by the end of 2022/2023; each includes a local unit, post office, supply office, real estate registry, social unit and civil registry"},
+    {"system": "Fibre optic network to Decent Life villages", "country_label": "Fiber Optic Network Expansion Program", "class": "enabling", "platform": "", "owner": "", "tiers": "187 villages connected of 1,468 targeted by the end of 2022/2023"}
+  ],
+  "note": "Buildings and connectivity only: the service centres are said to house a civil registry, with nothing on how a birth or death is registered there."
+}

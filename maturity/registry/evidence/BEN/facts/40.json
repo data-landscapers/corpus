@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-14-world-bank-wuri-benin-isrr",
+  "facts": [],
+  "systems": [
+    {"system": "fID system", "country_label": "fID system generating UNIs", "class": "identity", "platform": "", "owner": "ANIP, implementing agency for Benin under the World Bank's WURI Phase 2 (P169594)", "tiers": "national; operational, 2,253,000 persons registered and UNIs delivered to 5,526,376 direct beneficiaries at 10 February 2025; rated only partially aligned with international good practice; 864,735 digital authentications a month"},
+    {"system": "Assignment of UNIs to newborn birth registrations", "country_label": "", "class": "exchange", "platform": "", "owner": "ANIP", "tiers": "the World Bank reports 100% of births assigned temporary UNIs, at 15 December 2023 and again at 10 February 2025, against a target of 80%"},
+    {"system": "Links from services to the fID system", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "at least 19 services at 10 February 2025: all government services, Alafia microcredit, Gbessoke, Cash + Care, mobile money and SIM registration"},
+    {"system": "ANIP grievance platform", "country_label": "ANIP GRM platform", "class": "", "platform": "online", "owner": "ANIP", "tiers": "100,553 complaints received, 84,222 (84%) closed"}
+  ],
+  "note": "A World Bank status report on the identity project; it records a 2018 ID law and a 2021 civil registration law as adopted and that registered births receive a temporary unique number, and says nothing of how or where births are recorded."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-01-deep-opm-zanzibar-dynamic-social-registry-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS system (Zanzibar)", "class": "", "platform": "", "owner": "Zanzibar Civil Status Registration Agency (ZCSRA)", "tiers": "Zanzibar; not stated further"},
+    {"system": "ZanID", "country_label": "ZanID number (unique identifier)", "class": "identity", "platform": "", "owner": "Zanzibar Civil Status Registration Agency (ZCSRA)", "tiers": "Zanzibar; some residents, particularly children, hold no ZanID number"},
+    {"system": "CRVS linkage to the proposed Zanzibar Dynamic Social Registry (ZDSR)", "country_label": "CRVS linkage for near-real-time birth and death notifications to the ZDSR", "class": "exchange", "platform": "", "owner": "ZCSRA recommended as host of the ZDSR", "tiers": "proposed in a blueprint; not built"}
+  ],
+  "note": "A blueprint for a proposed social registry in Zanzibar; it names the CRVS system and ZanID only as things the registry would link to, and states nothing about how or where births and deaths are registered."
+}

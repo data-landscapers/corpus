@@ -1,0 +1,10 @@
+{
+  "slug": "2022-12-30-mali-carte-identite-biometrique-msi",
+  "facts": [],
+  "systems": [
+    {"system": "Carte nationale d'identité biométrique sécurisée", "country_label": "Carte nationale d'identité biométrique sécurisée", "class": "identity", "platform": "Produced by the Malian company M-SI; Dermalog Identification Systems GmbH supplies some equipment and training", "owner": "Minister responsible for security", "tiers": ""},
+    {"system": "Carte NINA", "country_label": "Carte NINA (carte du numéro d'identification nationale)", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cellule de traitement des données d'état civil (CTDEC)", "country_label": "CTDEC", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "An article on who produces the biometric identity card under Decree 2022-0639; the CTDEC is named only as the body handling citizens' biometric data. Nothing on registration of births or deaths at offices."
+}

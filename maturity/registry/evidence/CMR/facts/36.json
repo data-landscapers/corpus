@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-08-plan-to-modernize-local-digital-govt-services-biometricupdate",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Decentralisation and Local Development Minister told the National Assembly that a Digital Master Plan for the 394 decentralised local authorities is being updated, under which digital civil registration efforts will be accelerated, BUNEC's capacity strengthened and secondary and special civil registration centres made operational; the update was not yet finished, the address is undated, and the date is the publication date.", "as_of": "2025-07-08", "date_precision": "day", "system": "digital civil registration (local authorities)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital civil registration (local authorities)", "country_label": "digital civil registration efforts", "class": "civil", "platform": "", "owner": "Ministry of Decentralisation and Local Development; BUNEC", "tiers": "to be accelerated at grassroots level; no offices counted"},
+    {"system": "Digital Master Plan for decentralised entities", "country_label": "Digital Master Plan", "class": "enabling", "platform": "", "owner": "Ministry of Decentralisation and Local Development", "tiers": "394 decentralised local authorities: 10 regions, 360 councils, 14 city councils"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-16-com-2026-06-0615",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The 2026 finance law's public-investment programme annexe lists the civil registration modernisation project AMECC with France as financier, while the state's own appropriation to the Direction de l'État Civil et Casier Judiciaire is KMF 4,000,000 of goods and services naming no digital activity (KMF 2,000,000 in the revised 2025 law).", "as_of": "2026-01-16", "date_precision": "day", "system": "Appui à la modernisation de l'état civil aux Comores (AMECC)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Appui à la modernisation de l'état civil aux Comores (AMECC)", "country_label": "AMECC", "class": "civil", "platform": "", "owner": "Listed in the public-investment programme under Gouvernance & Administration; financier France", "tiers": "Not stated"},
+    {"system": "Biometric documents (Semlex)", "country_label": "Documents Biométriques Semlex", "class": "identity", "platform": "", "owner": "Semlex, named in the revenue nomenclature", "tiers": "Not stated"}
+  ],
+  "note": "The domestic line (service 06 0615, KMF 4,000,000, under the Ministry of Justice) is the directorate's running budget and names no system, so no finance:domestic fact is recorded for it; the parent may read it otherwise."
+}

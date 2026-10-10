@@ -1,0 +1,9 @@
+{
+  "slug": "2022-10-08-libya-draft-law-national-information-system",
+  "facts": [],
+  "systems": [
+    {"system": "National database of basic data on citizens and residents", "country_label": "قاعدة البيانات الوطنية (البيانات الأساسية للمواطنين والمقيمين)", "class": "exchange", "platform": "", "owner": "General Information Authority (الهيئة العامة للمعلومات); owned by the state", "tiers": "national; under article 48 of the draft the Civil Status Authority would have to supply national number, name, mother's name, date and place of birth and registration number, with any change at once, and the passport authority the biometrics; a draft of 8 October 2022, not enacted"},
+    {"system": "National data transmission network", "country_label": "الشبكة الوطنية لتراسل البيانات", "class": "enabling", "platform": "", "owner": "General Authority for Communications and Informatics", "tiers": "national; would connect the components of the national information system"}
+  ],
+  "note": "A Cabinet draft law on the national information system. It concerns access to information and the national database fed from the civil register; it says nothing of how a birth or death is entered. The four JSON-LD lines at the foot of the file (site metadata, about 37,000 bytes) were checked by search for the study's terms and not read through; they hold none."
+}

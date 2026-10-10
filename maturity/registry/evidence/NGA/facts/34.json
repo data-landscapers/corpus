@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-20 UNICEF records 14 million Nigeria birth registrations in two years",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "UNICEF's country representative said on 20 February 2026 that the birth registration system is being digitalised across health facilities, with supporting legislation before the National Assembly, and that 14 million children had been registered in two years; she names no system.", "as_of": "2026-02-20", "date_precision": "day", "system": "birth registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "birth registration system", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "being digitalised across health facilities, per UNICEF"}
+  ],
+  "note": ""
+}

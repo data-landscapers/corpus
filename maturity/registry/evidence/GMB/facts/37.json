@@ -1,0 +1,9 @@
+{
+  "slug": "2024-10-01-dpi-map-gambia-country-profile",
+  "facts": [],
+  "systems": [
+    {"system": "National digital identity (DIDS)", "country_label": "national digital identity", "class": "identity", "platform": "", "owner": "governing entity not given", "tiers": "status of implementation: pilot, last updated 1 October 2024; collects or uses biometric data"},
+    {"system": "eCRVS initiative", "country_label": "eCRVS", "class": "", "platform": "", "owner": "", "tiers": "named only as what the World Bank is funding"}
+  ],
+  "note": "A checklist profile; the eCRVS is named as a World Bank-funded initiative with no description of what it does, and 'ID or Civil Registry Act' is marked NA."
+}

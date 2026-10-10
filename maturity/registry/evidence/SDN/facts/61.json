@@ -1,0 +1,13 @@
+{
+  "slug": "2011-01-01-sudan-civil-registry-act-2011",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Civil Registry Act 2011 makes the General Administration of the Civil Registry of the Ministry of Interior responsible for all civil registry activities, with a state administration and a centre in each locality or administrative unit under it, and defines the registry of births, deaths and other civil-status incidents as a paper or automated record.", "as_of": "2011", "date_precision": "year", "system": "Civil Registry", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registry", "country_label": "Civil Registry", "class": "civil", "platform": "", "owner": "General Administration of the Civil Registry, Ministry of Interior (police)", "tiers": "General Administration; Civil Registry Administration in each state; Civil Registry Center in the locality or administrative unit; missions abroad"},
+    {"system": "Civil Registry Information System", "country_label": "Civil Registry Information System", "class": "", "platform": "", "owner": "General Administration of the Civil Registry, Ministry of Interior", "tiers": ""},
+    {"system": "National Number", "country_label": "National Number", "class": "identity", "platform": "", "owner": "General Administration of the Civil Registry, Ministry of Interior", "tiers": ""},
+    {"system": "Notice of birth or death", "country_label": "Notice", "class": "notification", "platform": "", "owner": "health authorities or a person authorised under article 23", "tiers": ""}
+  ],
+  "note": "An excerpt: the held text stops in Chapter Two, before the provisions on centres and on registering births and deaths. The Act allows the record to be paper or automated and does not say which the centres keep, so the class civil rests on the registry being defined as the record of civil-status incidents, and no fact is taken on events, how the record is made or offices."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-16-gouvernement-relance-carte-identite-onip-actualite",
+  "facts": [],
+  "systems": [
+    {"system": "carte d'identité nationale (carte biométrique nationale)", "country_label": "carte d'identité nationale", "class": "identity", "platform": "", "owner": "Office National d'Identification de la Population (ONIP), under the Ministry of the Interior", "tiers": "none in use on 14 November 2025: identification operations are to begin shortly, province by province, starting with the pilot province of Kinshasa; card production and issue announced for 2026"},
+    {"system": "fichier général de la population", "country_label": "fichier général de la population", "class": "identity", "platform": "", "owner": "ONIP", "tiers": "not yet constituted: to be built from 2026 identification operations, with CENI's electoral data transferred into ONIP's database"},
+    {"system": "CENI electoral roll data", "country_label": "données de la CENI", "class": "land", "platform": "", "owner": "Commission électorale nationale indépendante (CENI)", "tiers": "not stated; those enrolled by CENI are to be the first to receive the card"}
+  ],
+  "note": "The article is about relaunching the national identity card through ONIP; it states nothing about civil registration offices or the registration of births and deaths."
+}

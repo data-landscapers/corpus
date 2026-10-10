@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-22-ecz-voter-register-inspection",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic/Online Inspection of the Provisional Register of Voters", "country_label": "ECZ Online Portal; ECZ Companion app; USSD *214#", "class": "land", "platform": "", "owner": "Electoral Commission of Zambia (ECZ)", "tiers": "public self-service, national, 22 February to 8 March 2026; corrections only at polling stations during physical inspection"}
+  ],
+  "note": "The press release concerns the electoral register only, which the typology puts in class land, out of scope. It states nothing about civil registration."
+}

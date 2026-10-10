@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-20-fg-land-information-system-digitisation",
+  "facts": [],
+  "systems": [
+    {"system": "National digital land information system (planned) under the National Land Registration and Documentation Programme (NLRDP)", "country_label": "NLRDP; national digital land information system", "class": "land", "platform": "", "owner": "Federal Ministry of Housing and Urban Development, with state governments", "tiers": "planned nationwide; several states already use geographic information systems in land administration"}
+  ],
+  "note": "About land registration only, which is out of the study's scope; nothing on civil registration."
+}

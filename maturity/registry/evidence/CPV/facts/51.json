@@ -1,0 +1,23 @@
+{
+  "slug": "2014-03-17-cabo-verde-decreto-lei-19-2014-cartao-nacional-de-identificacao",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cartão Nacional de Identificação (CNI)",
+      "country_label": "Cartão Nacional de Identificação; CNI",
+      "class": "identity",
+      "platform": "",
+      "owner": "Direcção-Geral dos Registos, Notariado e Identificação (DGRNI); supervision by the Unidade de Coordenação da Reforma do Estado",
+      "tiers": "Requests received at the conservatórias do registo civil, at other public services such as the Casa do Cidadão by protocol, by a mobile reception service for remote communities, and at embassies and consular posts; rollout gradual over a multi-year cycle"
+    },
+    {
+      "system": "Sistema Nacional de Identificação e Autenticação Civil (SNIAC)",
+      "country_label": "SNIAC; base de dados do SNIAC civil",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "Central database that confirms or generates the civil identification number (NIC) when a card request is processed; in progressive implementation since 2007"
+    }
+  ],
+  "note": "The decree-law creates the national identity card and governs its issue; it concerns identity enrolment only, taking names and filiation from the birth entry, and states nothing about how a civil registration office records a birth or death. Capture truncated after the start of Decreto-Lei 20/2014."
+}

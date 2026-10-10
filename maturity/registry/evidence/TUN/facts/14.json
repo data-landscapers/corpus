@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-15-tunisia-conseil-ministeriel-restreint-interoperabilite-tunisienumerique",
+  "facts": [],
+  "systems": [
+    {"system": "demande à distance de traduction des documents d'état civil", "country_label": "demande à distance de traduction des documents d'état civil", "class": "certificate", "platform": "", "owner": "government", "tiers": "citizens online; launched in the first half of 2026"},
+    {"system": "échange électronique des mentions d'état civil entre les consulats à l'étranger et les municipalités", "country_label": "échange électronique des mentions d'état civil", "class": "", "platform": "", "owner": "government", "tiers": "consulates abroad and municipalities; one of 114 projects under way on 15 August 2026, not in service"},
+    {"system": "Khadamet", "country_label": "application mobile « Khadamet »", "class": "certificate", "platform": "mobile application", "owner": "government", "tiers": "citizens; more than 40 administrative services, launch announced for the coming days"},
+    {"system": "identité numérique", "country_label": "identité numérique", "class": "identity", "platform": "", "owner": "", "tiers": "sign-in to Khadamet"},
+    {"system": "demande de renouvellement à distance de la carte d'identité nationale", "country_label": "renouvellement à distance de la carte d'identité nationale", "class": "identity", "platform": "", "owner": "government", "tiers": "a project under way"},
+    {"system": "Registre national des entreprises", "country_label": "Registre national des entreprises", "class": "land", "platform": "", "owner": "", "tiers": "transactions with economic operators fully digitised, first half of 2026"}
+  ],
+  "note": "A ministerial council's review of 15 August 2026; civil status appears as a remote translation request and a planned exchange of annotations between consulates and municipalities, and nothing is stated on how offices register events."
+}

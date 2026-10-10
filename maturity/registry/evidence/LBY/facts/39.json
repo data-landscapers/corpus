@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-libya-moh-vital-statistics-report-2020",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The Ministry of Health's Health Information Centre says its 2020 report was generated from the Civil Registration Authority's electronic system, which recorded 231,670 births and 31,051 deaths in 2020.", "as_of": "2020", "date_precision": "year", "system": "Civil Registration Authority (CRA) electronic system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The Health Information Centre states that all Civil Registration Authority offices are fully automated and electronically linked to the central CRA, working through a single automated system on the same database; no date is given, so the document's published year is used.", "as_of": "2022", "date_precision": "year", "system": "Civil Registration Authority (CRA) electronic system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "The Health Information Centre states that all CRA offices are fully automated and linked: the foreword counts 12 branches, 133 issuing offices and 400 service offices on the single system, while the historical overview gives 12 branches and 380 service offices; no date is given, so the published year is used.", "as_of": "2022", "date_precision": "year", "system": "Civil Registration Authority (CRA) electronic system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The report states that the Civil Registration Authority, of the Ministry of Interior, manages the collection of births and deaths data and issues the legal documents; no date is given, so the published year is used.", "as_of": "2022", "date_precision": "year", "system": "Civil Registration Authority (CRA) electronic system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registration Authority (CRA) electronic system", "country_label": "Civil Registration Authority; civil registration database", "class": "civil", "platform": "", "owner": "Civil Registration Authority, Ministry of Interior", "tiers": "12 branches, 133 issuing offices and 400 service offices (380 service offices in another passage); civil registration offices in all general hospitals and some private hospitals with maternity wards"},
+    {"system": "National ID provided at birth since 2013, as a unique identifier", "country_label": "national ID", "class": "exchange", "platform": "", "owner": "Civil Registration Authority", "tiers": "national"},
+    {"system": "Compilation of vital statistics by the Health Information and Documentation Centre from the civil registration database", "country_label": "", "class": "exchange", "platform": "", "owner": "Health Information and Documentation Centre, Ministry of Health, with the Civil Registration Authority", "tiers": "national"}
+  ],
+  "note": ""
+}

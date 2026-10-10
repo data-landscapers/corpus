@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-13-presidence-lancement-rdc-pass",
+  "facts": [],
+  "systems": [
+    {"system": "RDC-Pass, système national d'identification numérique", "country_label": "RDC-Pass", "class": "identity", "platform": "", "owner": "the government, with the minister of the Digital Economy", "tiers": "launched on 13 June 2026 in Kinshasa; deployment to begin the following Monday and proceed gradually across the country"}
+  ],
+  "note": "The Presidency's account of the RDC-Pass launch: a personal digital identifier for access to state services such as the passport and driving licence. Civil registration is not mentioned."
+}

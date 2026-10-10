@@ -1,0 +1,11 @@
+{
+  "slug": "2014-03-24-qanun-8-lisanat-2014-bishan-alraqm-alwatani",
+  "facts": [],
+  "systems": [
+    {"system": "National number (12 digits, granted from birth)", "country_label": "الرقم الوطني", "class": "identity", "platform": "", "owner": "National Number Project with the Civil Status Authority", "tiers": "national"},
+    {"system": "National database (basic citizen data, completed with ten-print, iris, photograph and signature from passport and identity card applications)", "country_label": "قاعدة البيانات الوطنية", "class": "identity", "platform": "", "owner": "Civil Status Authority and the National Number Project", "tiers": "national"},
+    {"system": "Civil registry database", "country_label": "قاعدة بيانات السجل المدني", "class": "", "platform": "", "owner": "Civil Status Authority (مصلحة الأحوال المدنية)", "tiers": ""},
+    {"system": "Grant of the national number from birth on the person's data in the civil registry (Article 4)", "country_label": "", "class": "exchange", "platform": "", "owner": "Civil Status Authority", "tiers": "national"}
+  ],
+  "note": "The law defines the national number and the national database and names the civil registry database only as the source they complement; it does not say how or where a birth or death is entered, so the civil registry database is unclassified and gives no fact."
+}

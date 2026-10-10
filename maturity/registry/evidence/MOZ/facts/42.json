@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-jembi-mozambique-case-study",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Jembi states that real-time digital birth registration was launched in July 2024 by connecting the hospital system MGDH-Birth to the civil registration system e-SiRCEV, with over 11,589 newborns registered in the pilot.", "as_of": "2024-07", "date_precision": "month", "system": "e-SiRCEV", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "Jembi states that at Chicuque Rural Hospital health workers entered birth data directly into MGDH-Birth with instant confirmation in e-SiRCEV, through an interoperability layer, so that a newborn was registered without travel to a registry office.", "as_of": "2024", "date_precision": "year", "system": "e-SiRCEV", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "Jembi calls the hospital birth registration link a pilot, expanded from 5 to 19 health facilities in Inhambane Province during 2024; no total of facilities or offices is given.", "as_of": "2024", "date_precision": "year", "system": "e-SiRCEV", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "e-SiRCEV", "country_label": "e-SiRCEV (Civil Registration)", "class": "civil", "platform": "", "owner": "", "tiers": "receives births in real time from 19 health facilities in Inhambane Province (pilot, 2024)"},
+    {"system": "MGDH-Birth", "country_label": "MGDH-Birth (Hospital Data Management)", "class": "exchange", "platform": "linked to e-SiRCEV through OpenHIM, Jembi's interoperability layer", "owner": "", "tiers": "health facilities in Inhambane Province, 5 rising to 19; health workers enter the birth data"}
+  ],
+  "note": "The birth is entered by health workers in the hospital system, not by a registrar; the source calls the result birth registration, and the facts follow its wording."
+}

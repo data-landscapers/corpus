@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-liberia-naymote-president-meter-annual-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric ID enrollment", "country_label": "Biometric ID Enrollment", "class": "identity", "platform": "", "owner": "", "tiers": "710,000 citizens enrolled (14% of 5.2 million) as of June 2025; mobile registration units deployed to all 15 counties"}
+  ],
+  "note": "The passages' mobile registration units are for biometric identity enrolment, not civil registration; the County Service Centre findings (60.7% of services unavailable in Bong, Grand Bassa and Margibi) name no civil registration service or system."
+}

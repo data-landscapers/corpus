@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-techcity-nigeria-nin-healthcare-access",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN) registration", "country_label": "NIN", "class": "identity", "platform": "", "owner": "", "tiers": "registration centres and registration points in Niger State, described as sited for urban convenience"}
+  ],
+  "note": "About identity-number enrolment as a condition of health-fund services in Niger State; the registration it describes is identity enrolment, and it says nothing of births or deaths."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "registre national des personnes physiques", "class": "identity", "platform": "", "owner": "ONECI", "tiers": ""},
+    {"system": "recensement biométrique", "country_label": "recensement biométrique dans les centres d'état civil", "class": "identity", "platform": "", "owner": "ONECI", "tiers": "civil status centres"},
+    {"system": "fichier électoral biométrique", "country_label": "fichier électoral biométrique", "class": "land", "platform": "", "owner": "Direction générale des élections (DGE)", "tiers": ""}
+  ],
+  "note": "A convention of 22 January 2026 making the population register the single source of the electoral roll; ONECI's director general speaks of continuing the biometric census in civil status centres, which is identity enrolment; no fact on the registration of births or deaths."
+}

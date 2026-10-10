@@ -1,0 +1,13 @@
+{
+  "slug": "2025-06-01-worldbank-congo-digital-acceleration-isr",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The World Bank's implementation status report scores the indicator 'Operationalization of digitalized CR database', defined as a national digital database of civil registration records being operational, as No at 31 May 2025, unchanged from No at 30 November 2024 and at the December 2022 baseline, against a target of Yes by December 2027.", "as_of": "2025-05-31", "date_precision": "day", "system": "Digitalized CR database", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Making the digitalised civil registration database operational is an intermediate result of component 3 (33 million US dollars) of the World Bank's Congo Digital Acceleration Project, a 100 million dollar IBRD loan of which 39.19 per cent was disbursed in the report archived on 30 June 2025.", "as_of": "2025-06-30", "date_precision": "day", "system": "Digitalized CR database", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digitalized CR database", "country_label": "digitalized CR database (national digital database of CR records)", "class": "civil", "platform": "", "owner": "Government of Congo, under the World Bank's Congo Digital Acceleration Project (P175592)", "tiers": "national; not operational at 31 May 2025"},
+    {"system": "eGov one-stop-shop portal and online public services", "country_label": "eGov one-stop-shop portal", "class": "certificate", "platform": "", "owner": "Government of Congo, under project P175592", "tiers": "national; 0 of a targeted 10 new transactional services online at 31 May 2025, an extract of birth certificate being one of the examples given"},
+    {"system": "Digital ID system (roadmap and operational plan)", "country_label": "digital ID system", "class": "identity", "platform": "", "owner": "Government of Congo, under project P175592", "tiers": "national; roadmap and operational plan not drafted at 31 May 2025"}
+  ],
+  "note": "The report defines the database only as a national digital database of civil registration records; it does not say whether offices enter events in it or past registers are captured, and it is classed civil here on the name of what it holds. The same report scores 'CR and ID legal and regulatory framework modernized' as No at 31 May 2025."
+}

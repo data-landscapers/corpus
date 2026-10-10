@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-ue-document-conjoint-programmation-togo-2021-2027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "services d'état civil digitalisés",
+      "country_label": "services d'état civil digitalisés (communes)",
+      "class": "",
+      "platform": "",
+      "owner": "communes; support listed against Germany, the EU, France and AFD",
+      "tiers": "communes, as an intended area of support under the Team Europe initiative on decentralisation and local governance, 2021-2027"
+    }
+  ],
+  "note": "No fact: the joint programming document (published 2021) lists the development and digitalisation of communal civil-status services as an area the EU, Germany and France intend to support, without saying what the digitalised service would do or that any exists; unclassified by the brief's rule."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-16-press-release-collaboration-with-state-agencies-on-managing-the-register-of-voters",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Population Registration System (IPRS)", "country_label": "Integrated Population Registration System (IPRS)", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "national; a secure API link with the electoral commission was under discussion on 2026-02-16, to check that only legitimate ID and passport numbers are used"},
+    {"system": "Register of voters", "country_label": "Register of voters", "class": "land", "platform": "", "owner": "Independent Electoral and Boundaries Commission (IEBC)", "tiers": "national"}
+  ],
+  "note": "An electoral commission press release: it says the commission works with Civil Registration Services to confirm death records for removing the dead from the voters register, and names no civil registration system, office or way of recording."
+}

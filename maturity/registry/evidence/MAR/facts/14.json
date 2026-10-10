@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-ancfcc-chiffres-cles",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ANCFCC land titles and cadastre",
+      "country_label": "titres fonciers et plans cadastraux; mappes cadastrales numériques",
+      "class": "land",
+      "platform": "",
+      "owner": "ANCFCC (Agence Nationale de la Conservation Foncière, du Cadastre et de la Cartographie)",
+      "tiers": "154 external services across the Kingdom; 6,750,000 land titles and cadastral plans at end 2021; 225 million documents digitised"
+    }
+  ],
+  "note": "No fact: the land agency's key figures (class land, out of scope). Nothing on civil registration."
+}

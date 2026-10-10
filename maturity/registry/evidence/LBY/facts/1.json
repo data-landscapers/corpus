@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-27-lby-alwasat-national-number-fraud-civil-registry",
+  "facts": [],
+  "systems": [
+    {"system": "National Number project unified electronic system", "country_label": "مشروع الرقم الوطني (منظومة إلكترونية موحدة)", "class": "identity", "platform": "", "owner": "Civil Status Authority (مصلحة الأحوال المدنية)", "tiers": "national; numbers issued and circulated through it after 2011"},
+    {"system": "Civil registry system", "country_label": "منظومة السجل المدني / منظومة الأحوال المدنية", "class": "", "platform": "", "owner": "Civil Status Authority (مصلحة الأحوال المدنية)", "tiers": "not stated; civil registry offices are named without saying what they enter"}
+  ],
+  "note": "A feature on forged national numbers (more than 89,000 on the last official count). It describes the national number system as an identity system and names the civil registry system only as the base that numbers are checked against; it does not say how or where a birth or death is entered."
+}

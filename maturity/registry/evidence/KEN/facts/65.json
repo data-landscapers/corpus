@@ -1,0 +1,14 @@
+{
+  "slug": "2024-10-11-births-deaths-registration-amendment-rules-2024",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "Legal Notice 153 of 2024 substitutes rules 7 and 13 of the Births and Deaths Registration Rules so that the register of births and the register of deaths kept by a registrar in a registration area shall each be maintained in loose-leaf and electronic form; the notice gives no commencement date, so the date is its published date.", "as_of": "2024-10-11", "date_precision": "day", "system": "register of births and register of deaths, in loose-leaf and electronic form", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "local", "fact": "The amended rules prescribe that the registrar in a registration area keeps the register in loose-leaf and electronic form and completes each birth or death registration form in duplicate on paper, delivering it monthly to the sub-county registrar, who forwards the duplicate to the Principal Registrar; the rules say nothing of an online or national electronic register (a legal prescription, not a statement of deployment; dated to the notice's published date).", "as_of": "2024-10-11", "date_precision": "day", "system": "register of births and register of deaths, in loose-leaf and electronic form", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The rules are made by the Cabinet Secretary for Interior and National Administration under section 29 of the Births and Deaths Registration Act, and place the registers with registrars, sub-county registrars and the Principal Registrar (dated to the notice's published date).", "as_of": "2024-10-11", "date_precision": "day", "system": "register of births and register of deaths, in loose-leaf and electronic form", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "register of births and register of deaths, in loose-leaf and electronic form", "country_label": "register of births; register of deaths", "class": "civil", "platform": "", "owner": "Principal Registrar, under the Cabinet Secretary for Interior and National Administration", "tiers": "kept by a registrar in each registration area (hospital, sub-location, sub-county); forms forwarded monthly to the sub-county registrar and on to the Principal Registrar"},
+    {"system": "Unique personal identification number on birth and death entries", "country_label": "unique personal identification number", "class": "identity", "platform": "", "owner": "", "tiers": "given to each birth entry by the registrar and reused at death registration (rules 8(2), 14(3), 17(1))"},
+    {"system": "Birth and death certificates issued by the Principal Registrar", "country_label": "", "class": "certificate", "platform": "", "owner": "Principal Registrar", "tiers": "on payment of the prescribed fee: Shs. 200 for a certificate"}
+  ],
+  "note": ""
+}

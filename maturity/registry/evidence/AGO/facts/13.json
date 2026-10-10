@@ -1,0 +1,16 @@
+{
+  "slug": "2026-07-18-processo-da-digitalizacao-do-sistema-de-registo-civil-em-angola",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Angola's presentation to the registrars general meeting of 18 July 2026 states that the government has implemented a multifunctional database under the management of the Ministry of Justice as the centre of digital identity, with the civil registration system listed first among its existing systems.", "as_of": "2026-07-18", "date_precision": "day", "system": "Sistema do Registo Civil", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Angola's presentation of 18 July 2026 states that biographic and biometric data are collected and validated at the act of issuing the birth entry (assento de nascimento), under phase I of the digital identity architecture, covering all national citizens; it gives no count of offices and does not mention deaths.", "as_of": "2026-07-18", "date_precision": "day", "system": "Sistema do Registo Civil", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Sistema do Registo Civil", "country_label": "Sistema do Registo Civil", "class": "civil", "platform": "", "owner": "Ministério da Justiça", "tiers": "not stated; listed as an existing system in phase I, with data collected at the act of issuing the birth entry"},
+    {"system": "base de dados multifuncional da Identidade Digital", "country_label": "Identidade Digital", "class": "identity", "platform": "", "owner": "Ministério da Justiça", "tiers": "national; three phases, from existing systems to a digital identity card, wallet app and online service platform"},
+    {"system": "Sistema de Gestão do Bilhete de Identidade", "country_label": "Sistema de Gestão do Bilhete de Identidade", "class": "identity", "platform": "", "owner": "Ministério da Justiça", "tiers": "not stated; an existing system being merged with the civil registration system"},
+    {"system": "Número Único do Cidadão (NUC)", "country_label": "Número Único do Cidadão", "class": "exchange", "platform": "", "owner": "Ministério da Justiça", "tiers": "assigned within the civil registration process, from the first weeks of life, and enabling issue of the identity card"},
+    {"system": "Sistema de registo Predial", "country_label": "Sistema de registo Predial", "class": "land", "platform": "", "owner": "Ministério da Justiça", "tiers": "not stated"},
+    {"system": "Sistema de Registo Comercial", "country_label": "Sistema de Registo Comercial", "class": "land", "platform": "", "owner": "Ministério da Justiça", "tiers": "not stated"}
+  ],
+  "note": "The presentation sets out a target architecture and its phases; it does not say whether the record is made online or locally, nor how many offices use the system. Also listed, outside the study's field: criminal record, vehicle and notarial systems."
+}

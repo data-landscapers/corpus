@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-01-npdm-formerly-iprs",
+  "facts": [],
+  "systems": [
+    {"system": "Maisha Integrated Population Register", "country_label": "Maisha Integrated Population Register; National Population Data Management (NPDM), formerly IPRS", "class": "identity", "platform": "", "owner": "Directorate of National Population Data Management, State Department for Immigration and Citizen Services", "tiers": "central repository collecting data from primary, secondary and tertiary registration agencies; identity verification for public and private entities"}
+  ],
+  "note": "The population register's mandate page: a central repository fed by the registration agencies, with no statement of how or where a birth or death is entered."
+}

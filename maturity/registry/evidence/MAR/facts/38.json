@@ -1,0 +1,23 @@
+{
+  "slug": "2022-06-01-idemia-morocco-national-digital-id-case-study",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national eID card",
+      "country_label": "national electronic identity (eID) card",
+      "class": "identity",
+      "platform": "IDEMIA (ID-One Cosmo)",
+      "owner": "General Directorate of National Security (DGSN)",
+      "tiers": "issued from August 2020; over 10 million cards by April 2022; two personalisation sites; online pre-enrolment and appointments"
+    },
+    {
+      "system": "national digital ID platform",
+      "country_label": "national digital ID platform; Mon identité numérique app; www.identitenumerique.ma",
+      "class": "identity",
+      "platform": "IDEMIA",
+      "owner": "DGSN, provided to the Digital Development Agency (ADD)",
+      "tiers": "pilot from 2019 over three years; launched 25 April 2022 for all service providers"
+    }
+  ],
+  "note": "No fact: the vendor's account of the identity card and the digital identity platform (class identity). Civil registration is not mentioned."
+}

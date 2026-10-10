@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-genkey-to-replace-semlex-from-april-data-domiciled-in-comoros-alwatwan",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric passports and identity cards (Semlex, then Genkey Solutions)", "country_label": "documents biométriques (passeports et cartes d'identité)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur; Semlex under a build-operate-transfer contract since 2007, Genkey from April 2026", "tiers": "A single production machine in Moroni; equipment promised for Ndzuani and Mwali under the Genkey contract"}
+  ],
+  "note": "The document concerns the contractor for biometric identity documents, an identity system; civil registration appears only in a list of Genkey's fields of work elsewhere, with nothing stated for Comoros."
+}

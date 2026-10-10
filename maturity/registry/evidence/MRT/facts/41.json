@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-world-bank-phcpi-assessment-primary-health-care-system-mauritania",
+  "facts": [],
+  "systems": [
+    {"system": "civil registry", "country_label": "civil registry", "class": "", "platform": "", "owner": "", "tiers": "registration of children said to have risen from 56 per cent in 2007 to 66 per cent in 2015; registration of deaths 'extremely limited', occurring only in hospitals, as cemeteries do not require a death certificate"}
+  ],
+  "note": "The passages give shares of children registered and say death registration is confined to hospitals; they do not say whether any registration is made digitally or on paper, so no fact on the study's aspects can be taken. The health information system (SNIS on DHIS2) and paper patient registers they describe are outside the study's field. The Civil Registration and Vital Statistics measure is scored 1.7 in a table whose columns are misaligned in the transcription."
+}

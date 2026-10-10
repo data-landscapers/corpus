@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1",
+  "facts": [],
+  "systems": [
+    {"system": "Intégration des systèmes d'enregistrement des actes d'état civil (PNDS action 3.4)", "country_label": "Intégration des systèmes d'enregistrement des actes d'état civil, les recensements nationaux, les enquêtes démographiques et les systèmes de surveillance", "class": "exchange", "platform": "", "owner": "Ministère de la Santé (health information system)", "tiers": "a planned action of the health plan 2021-2030 for integrating civil status registration systems with health information; not described as existing"}
+  ],
+  "note": "The passages mention civil registration only as a component of a WHO health-information index, as a planned integration with the health information system, and in SDG target wording; nothing on how or where events are registered."
+}

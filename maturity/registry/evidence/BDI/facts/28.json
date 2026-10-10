@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-16 Burundi adopts data protection law",
+  "facts": [],
+  "systems": [
+    {"system": "biometric national identity card", "country_label": "", "class": "identity", "platform": "", "owner": "Ministry of Interior, Community Development and Public Security", "tiers": "registration software aligned to the new administrative boundaries installed; pilot testing in about a dozen communes ahead of a phased national rollout (January 2026)"},
+    {"system": "voter register (digitised)", "country_label": "", "class": "land", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The article describes the dozen-commune pilot as the biometric national identity card's and does not mention civil registration, so it gives no fact for the civil class."
+}

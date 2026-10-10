@@ -1,0 +1,39 @@
+{
+  "slug": "2025-09-04-sao-tome-rstp-plataforma-recenseamento-automatico-98-por-cento",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGA",
+      "country_label": "base de dados do registo civil (SIGA e Bilhete de Identidade); sistemas de registo civil",
+      "class": "",
+      "platform": "",
+      "owner": "Direção Geral dos Registos e Notariados (DGRN)",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Bilhete de Identidade",
+      "country_label": "Bilhete de Identidade",
+      "class": "identity",
+      "platform": "",
+      "owner": "Direção Geral dos Registos e Notariados (DGRN)",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "Plataforma de recenseamento automático",
+      "country_label": "plataforma de recenseamento automático; plataforma de interoperabilidade entre a base de dados do registo civil e a do recenseamento eleitoral",
+      "class": "land",
+      "platform": "Developed by the University of Aveiro",
+      "owner": "PReSE project (EU-financed, implemented by Portuguese Cooperation through Camões), with the DGRN and the Comissão Eleitoral Nacional",
+      "tiers": "National; 98% ready on 4 September 2025 by the DGRN director's account, to be tested in January 2026"
+    },
+    {
+      "system": "Equipment for the DGRN's civil registry systems (PReSE)",
+      "country_label": "equipamentos essenciais para estabilizar e modernizar os sistemas de registo civil",
+      "class": "enabling",
+      "platform": "",
+      "owner": "PReSE project, for the DGRN",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "SIGA is named as the civil registry database without a description of how or where its records are made, so no fact is taken; the document is about the electoral platform that reads it."
+}

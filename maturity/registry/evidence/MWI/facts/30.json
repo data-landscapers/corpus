@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration",
+  "facts": [],
+  "systems": [
+    {"system": "mass birth-registration campaign", "country_label": "mass birth-registration campaign", "class": "outreach", "platform": "", "owner": "Government of Malawi, with EU, Irish, Norwegian and UNDP support", "tiers": "nationwide; phase 1 witnessed in Dedza in early 2026, aiming to register 4.6 million children"},
+    {"system": "national registration system / National ID", "country_label": "National ID", "class": "identity", "platform": "", "owner": "Government of Malawi, supported by the EU since 2016", "tiers": "national; full coverage of the adult population reached in 2024"}
+  ],
+  "note": "A short notice of the birth registration campaign and the identity system's coverage; a campaign and an identity register, with nothing on how local offices register births or deaths."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-10-digital-id-trust-services-draft-law--biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Digital ID system to be introduced under the draft law on digital identity and trust services", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "national; to be linked with the biometric ID card system in place"},
+    {"system": "Biometric ID card system", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "national, in place"}
+  ],
+  "note": "The document concerns a draft law on digital identity and trust services; nothing on civil registration."
+}

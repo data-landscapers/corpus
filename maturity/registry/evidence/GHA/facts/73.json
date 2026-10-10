@@ -1,0 +1,8 @@
+{
+  "slug": "2015-01-01-ifu-gha-icps-2015-icps-ghana-digital-national-id-card",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana Card production", "country_label": "Ghana Card", "class": "identity", "platform": "", "owner": "Intelligent Card Production Systems (ICPS), for the National Identification Authority", "tiers": "card production plant in Accra"}
+  ],
+  "note": "An investment record (USD 5 million, 2015) for the company producing biometric national identity cards; nothing on birth or death registration."
+}

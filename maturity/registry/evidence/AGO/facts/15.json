@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-15-mais-de-120-mil-bilhetes-aguardam-levantamento",
+  "facts": [],
+  "systems": [
+    {"system": "postos de identificação", "country_label": "postos de identificação", "class": "identity", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "posts across the country, including ones installed in new hospitals with maternity and paediatric services; more than 120,000 issued cards uncollected at 15 July 2026"},
+    {"system": "Registo Eleitoral Oficioso e Prova de Vida", "country_label": "Registo Eleitoral Oficioso", "class": "land", "platform": "", "owner": "", "tiers": "Balcões Únicos de Atendimento ao Público (BUAP) across the country and abroad, 15 June 2026 to 31 March 2027"}
+  ],
+  "note": "The minister says mothers leave hospitals that have identification posts without registering their babies; the report does not say how a birth is recorded at those posts, so no fact is taken."
+}

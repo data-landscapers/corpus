@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's Guinea registry row states that rural registry offices primarily use paper for birth registration, home births being noted in paper village notebooks by sector chiefs and forwarded to the head of the rural commune, who registers and issues certificates manually; it cites UNICEF and UNECA profiles and gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural commune civil registration (paper registers)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The essay's Guinea registry row states there is no evidence of digital tools at the point of service in most rural registry facilities, nor of networked systems in routine use; no date is given, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "rural commune civil registration (paper registers)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "local", "fact": "The essay's Guinea registry row states that a 2017 modernisation pilot in the rural N'Zérékoré region introduced computers that were standalone and not networked.", "as_of": "2017", "date_precision": "year", "system": "2017 modernisation pilot, N'Zérékoré region", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The essay's Guinea registry row describes digital elements as limited to isolated pilots and some urban or commune centres, naming a 2017 pilot in the rural N'Zérékoré region, with no number of offices given.", "as_of": "2017", "date_precision": "year", "system": "2017 modernisation pilot, N'Zérékoré region", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "rural commune civil registration (paper registers)", "country_label": "village notebooks; head of the rural commune as registrar", "class": "civil", "platform": "paper", "owner": "rural communes (mayor or delegate as registrar)", "tiers": "sector chiefs' village notebooks, then the rural commune"},
+    {"system": "2017 modernisation pilot, N'Zérékoré region", "country_label": "", "class": "civil", "platform": "standalone computers, not networked", "owner": "", "tiers": "rural N'Zérékoré region"},
+    {"system": "EU-backed project (2021-2024) digitising paper records into a national database", "country_label": "", "class": "archive", "platform": "", "owner": "EU-backed; the essay cites Enabel", "tiers": "10 municipalities"}
+  ],
+  "note": "The source is an AI-assisted compilation by its own header and is listed in study.json exclude_sources; the facts are what its Guinea registry row states. The row also says about 40 centres were acquiring computers with local backups planned, and names a National CRVS Reform Strategy 2018-2022."
+}

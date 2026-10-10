@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-21-rwanda-counting-everything-nisr-ktpress",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "KT Press, reading the statistics institute's 2025 vital statistics report, says a fully digital civil registration system registers births and deaths from hospitals to village-level administration, with 356,838 births recorded in 2025; the expansion is undated, so the document's publication date is used.", "as_of": "2026-04-21", "date_precision": "day", "system": "fully digital civil registration system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "fully digital civil registration system", "country_label": "civil registration system", "class": "civil", "platform": "", "owner": "", "tiers": "from hospitals to village-level administration"},
+    {"system": "linking of birth, death and identity data", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "a single national architecture"}
+  ],
+  "note": ""
+}

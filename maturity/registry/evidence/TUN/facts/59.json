@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-01-tunisie-pap-mission-technologies-communication-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ء-هوية (E-Houwiya)",
+      "country_label": "الهوية الرقمية الوطنية على الجوال \"ء-هوية\"",
+      "class": "identity",
+      "platform": "mobile digital identity",
+      "owner": "مهمة تكنولوجيات الاتصال (Ministry of Communication Technologies)",
+      "tiers": "national, citizen-facing: the key to the citizen's digital-services portal, used among other things to obtain an electronic civil status extract bearing a visible electronic seal"
+    }
+  ],
+  "note": "The passages name civil status only as a document the mobile digital identity lets a citizen extract electronically; nothing on how a registry office records a birth or death."
+}

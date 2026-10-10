@@ -1,0 +1,10 @@
+{
+  "slug": "2022-05-20-malawi-foundational-legal-identity-system",
+  "facts": [],
+  "systems": [
+    {"system": "National ID system", "country_label": "national ID system; national ID registry", "class": "identity", "platform": "", "owner": "National Registration Bureau, with UNDP financial and technical support", "tiers": "National; over nine million registered in 180 days from May 2017"},
+    {"system": "National ID link to the core civil registration system", "country_label": "", "class": "exchange", "platform": "", "owner": "National Registration Bureau", "tiers": "UNDP says the national ID system is linked with the core civil registration system and that further interoperability is a next step"},
+    {"system": "Core civil registration system", "country_label": "core civil registration system", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "About the 2017 national ID registration; the civil registration system is named as linked to it, with no description of what it does or where events are entered."
+}

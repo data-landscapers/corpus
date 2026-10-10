@@ -1,0 +1,10 @@
+{
+  "slug": "2018-04-12-djibouti-loi-006-an-18-livres-fonciers-numerises",
+  "facts": [],
+  "systems": [
+    {"system": "Livres fonciers numérisés", "country_label": "livres fonciers numérisés; base de données électronique centralisée des registres fonciers", "class": "land", "platform": "", "owner": "Conservateur de la Propriété Foncière", "tiers": "national: scanned and digitised land books whose entries constitute the land title; centralised electronic database open to free consultation"},
+    {"system": "Base de données nationale de la direction générale de la population", "country_label": "base de données nationale située au sein de la direction générale de la population", "class": "identity", "platform": "", "owner": "Direction générale de la population", "tiers": "national: used by the land registrar to verify identity documents (Article 64)"},
+    {"system": "Registre du commerce", "country_label": "registre du commerce", "class": "land", "platform": "", "owner": "", "tiers": "checked by the land registrar for companies"}
+  ],
+  "note": "A land-property law; land and business registers are out of the study's scope, and civil registration is not mentioned."
+}

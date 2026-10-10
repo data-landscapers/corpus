@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-25-lesotho-digital-service-id-pilot-govls",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital/service identification system",
+      "country_label": "digital/service identification system",
+      "class": "identity",
+      "platform": "",
+      "owner": "Ministry of Information, Communication, Science, Technology and Innovation (MICSTI)",
+      "tiers": "pilot from 2 April 2026 with about 10,000 participants; enrolment needs a national identity document, a registered SIM and biometric registration"
+    }
+  ],
+  "note": "An identity credential pilot; nothing on the registration of births or deaths."
+}

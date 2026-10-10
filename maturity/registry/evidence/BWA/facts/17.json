@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [],
+  "systems": [
+    {"system": "Omang national identity card", "country_label": "Omang", "class": "identity", "platform": "AFIS (automated fingerprint identification), digitised 1999", "owner": "Civil and national registration under the home affairs ministry; IT run by the Department of Shared Digital Services, Ministry of Communications, Knowledge and Technology", "tiers": "national; 86.7 per cent of those aged 15 and over hold a card (2022 census)"},
+    {"system": "Civil registration system", "country_label": "civil registration", "class": "", "platform": "", "owner": "Ministry of Home Affairs", "tiers": "services decentralised to 12 districts and 24 sub-districts; birth registration 83.2 per cent by 2015-16; no statement of how the record is made"}
+  ],
+  "note": "The Botswana passages cover the Omang identity card, its legal basis and its wider uses; civil registration is described only as a decentralised service whose birth certificate is required for Omang, with nothing on whether births or deaths are entered digitally. The file holds passages for all ten countries; only Botswana's were used."
+}

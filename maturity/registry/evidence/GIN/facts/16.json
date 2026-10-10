@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "Registre national des personnes physiques (RNPP)", "country_label": "Registre national des personnes physiques (RNPP)", "class": "identity", "platform": "", "owner": "ONECI", "tiers": ""},
+    {"system": "plateforme nationale d'interopérabilité et de vérification de l'identité du RNPP", "country_label": "projet « Diama Djigui »", "class": "identity", "platform": "", "owner": "ONECI, with NG Tech Innovation under a memorandum of understanding signed 24 July 2026", "tiers": ""}
+  ],
+  "note": "A memorandum of 24 July 2026 between ONECI and NG Tech Innovation for an interoperability and identity-verification platform on the population register; no civil registration system is described."
+}

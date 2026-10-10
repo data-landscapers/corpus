@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-23-mali-obligations-paiement-numerique-services-publics",
+  "facts": [],
+  "systems": [
+    {"system": "Mandatory digital payment for civil status acts", "country_label": "paiement numérique obligatoire des prestations concernant les actes d'état civil", "class": "certificate", "platform": "Mobile money services and digital platforms", "owner": "Set by interministerial instruction of 19 July 2024 under Décret n°2024-0429/PT-RM; list fixed by the minister of finance", "tiers": "Implementation asked of governors, prefects, sub-prefects, mayors and others"}
+  ],
+  "note": "The instruction puts payment for civil status acts in the first wave of mandatory digital payment; it concerns paying for the act, not how the birth or death is recorded."
+}

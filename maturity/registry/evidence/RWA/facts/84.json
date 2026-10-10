@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-e-gouvernance-rwanda-etudes-gabon-guinee-liberia",
+  "facts": [],
+  "systems": [
+    {"system": "IremboGov", "country_label": "IremboGov", "class": "certificate", "platform": "Irembo", "owner": "Irembo", "tiers": "national online portal, 248 public services from nearly 50 institutions; birth, celibacy and marriage certificates issued through it rose from 683,560 in 2020 to 1,977,628 in 2024, 70% handled in under an hour in 2024 against 61% in 2020, on Irembo's data"}
+  ],
+  "note": "A truncated news article on study visits to Rwanda; it gives the count of civil-status certificates issued through the IremboGov portal, and names the digitalisation of civil status only as a topic of a Gabonese delegation's programme, without saying how a birth or death is registered."
+}

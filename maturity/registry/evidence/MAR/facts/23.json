@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-24 Morocco fast-tracks 'Mon e-ID' digital identity after cyberattacks (iDAKTO)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mon e-ID",
+      "country_label": "Mon e-ID mobile app and citizen portal (national digital identity)",
+      "class": "identity",
+      "platform": "iDAKTO, with Idemia Smart Identity by IN Group",
+      "owner": "Digital Development Agency (ADD) and DGSN",
+      "tiers": "2.5 million active users and over 7 million transactions since April 2022; adopted by the ministries of Justice, Habitat and Youth, the CNSS, the DGI and the TGR"
+    }
+  ],
+  "note": "No fact: about the national digital identity app (class identity). Nothing on civil registration."
+}

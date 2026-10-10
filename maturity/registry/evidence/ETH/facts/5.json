@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-16-eth-birrmetrics-cbe-fayda-id-bank-account-deadline",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda national digital identification system", "class": "identity", "platform": "", "owner": "National ID Programme", "tiers": "national; enrolment also offered at Commercial Bank of Ethiopia branches"}
+  ],
+  "note": "Identity system only (linking bank accounts to Fayda); nothing on civil registration."
+}

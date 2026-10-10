@@ -1,0 +1,8 @@
+{
+  "slug": "2022-03-01-plaquette-nicad",
+  "facts": [],
+  "systems": [
+    {"system": "NICAD (Numéro d'Identification cadastral)", "country_label": "NICAD, the unique and mandatory parcel identifier instituted by decree 2012-396 of 27 March 2012", "class": "land", "platform": "", "owner": "Direction générale des Impôts et des Domaines, through the Bureaux du Cadastre", "tiers": "national; issued by the territorially competent Bureau du Cadastre"}
+  ],
+  "note": "A leaflet on the cadastral parcel identifier, of class land; nothing on civil registration."
+}

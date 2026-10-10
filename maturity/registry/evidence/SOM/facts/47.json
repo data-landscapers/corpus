@@ -1,0 +1,11 @@
+{
+  "slug": "2024-12-01-somalia-land-sector-a-snapshot",
+  "facts": [],
+  "systems": [
+    {"system": "Hargeisa GIS property database", "country_label": "", "class": "land", "platform": "", "owner": "Hargeisa municipality, with UN-Habitat support", "tiers": "more than 60,000 properties, for tax collection, without ownership information; similar databases in Boroma and Berbera"},
+    {"system": "Garowe and Bossaso municipal land registration", "country_label": "", "class": "land", "platform": "", "owner": "municipalities of Garowe and Bossaso", "tiers": "municipal level, registering land ownership and transfers"},
+    {"system": "Garowe and Gardo GIS databases", "country_label": "", "class": "land", "platform": "", "owner": "municipalities, with UN-Habitat support", "tiers": "municipal, for tax collection"},
+    {"system": "State Land Registry (South West State)", "country_label": "State Land Registry", "class": "land", "platform": "", "owner": "South West State", "tiers": "established in law by the 2022 Urban Land Law"}
+  ],
+  "note": "A land sector paper: every system it names is a land or property-tax register, out of the study's scope; civil documentation appears only as a recommendation to support women in obtaining identity cards and marriage certificates."
+}

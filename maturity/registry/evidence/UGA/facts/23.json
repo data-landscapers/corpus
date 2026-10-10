@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-01-nira-birth-registration-alien-registration",
+  "facts": [],
+  "systems": [
+    {"system": "nationwide birth registration campaign and community registration exercises", "country_label": "birth registration campaign; community-based mass registration outreaches", "class": "outreach", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "groups of at least ten parents with children under six months invite NIRA officials; outreaches in border districts scaled down under Ebola measures (1 June 2026)"},
+    {"system": "Alien Registration and pre-registration portal", "country_label": "Alien Identification Number (AIN)", "class": "identity", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "first centre at NIRA's Wandegeya office, from 8 June 2026"},
+    {"system": "Partner Management System", "country_label": "Partner Management System", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "identity verification and card readability for onboarded institutions, from the National Identification Register"}
+  ],
+  "note": "Describes a birth registration campaign, the fees for birth certificates and that children under nine months need no biometric capture and receive a NIN; it does not say what system records a birth or at which office, so there is no civil-class fact."
+}

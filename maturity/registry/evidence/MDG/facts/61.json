@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-10-worldbank-legal-identity-madagascar-namibia",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "A World Bank staff blog states that one agency, the Centre National de l'État Civil et de l'Identité (CNECI), will manage the civil registration and identification databases and the interoperability between them; no date is given, so the publication date is used.", "as_of": "2023-10-10", "date_precision": "day", "system": "new civil registration (CR) system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "A World Bank staff blog states that the new civil registration and identification systems are being designed under the World Bank-supported PRODIGY project; it names no domestic financing; no date is given, so the publication date is used.", "as_of": "2023-10-10", "date_precision": "day", "system": "new civil registration (CR) system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "A World Bank staff blog states that the new civil registration system is being designed, not yet in service, to combine analog and digital processes because two-thirds of civil registration offices lack stable internet access: where connectivity is unreliable an offline application is to register births and exchange data with the central database when a connection is available; no date is given, so the publication date is used.", "as_of": "2023-10-10", "date_precision": "day", "system": "new civil registration (CR) system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "A World Bank staff blog states that the offline application under design is to register births and assign a Unique Identification Number to newborns; deaths are not mentioned and nothing is said to be in service; no date is given, so the publication date is used.", "as_of": "2023-10-10", "date_precision": "day", "system": "new civil registration (CR) system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "new civil registration (CR) system", "country_label": "", "class": "civil", "platform": "", "owner": "Centre National de l'État Civil et de l'Identité (CNECI)", "tiers": "under design for civil registration offices, with an offline application for offices without reliable connectivity and a central CR database"},
+    {"system": "new identification (ID) system with Unique Identification Number (UIN)", "country_label": "", "class": "identity", "platform": "", "owner": "Centre National de l'État Civil et de l'Identité (CNECI)", "tiers": "national; UIN to be issued from birth, giving a single personal record across civil registration and identification"},
+    {"system": "government interoperability platform", "country_label": "", "class": "exchange", "platform": "X-Road", "owner": "Government of Madagascar", "tiers": "under development; CR and ID databases as core layers, to interoperate with the national social registry"}
+  ],
+  "note": ""
+}

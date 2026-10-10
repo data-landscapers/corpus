@@ -1,0 +1,15 @@
+{
+  "slug": "2025-05-29-carnegie-political-economy-social-data-morocco-targeting",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Population Registry (RNP)",
+      "country_label": "Registre national de la population (RNP); Civic and Social Digital Identifier (IDCS)",
+      "class": "identity",
+      "platform": "developed since 2018 with the World Bank and IIIT Bangalore",
+      "owner": "Ministry of the Interior",
+      "tiers": "central demographic database secured by iris biometrics; about 22 million people registered; the IDCS is the key linking national and local social-programme databases"
+    }
+  ],
+  "note": "No fact: an analysis of the Unified Social Register and social targeting; the population registry it describes is class identity. Civil registration is not discussed."
+}

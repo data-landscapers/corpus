@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-19-tanzania-digital-id-address-student-loans-zanzibar",
+  "facts": [],
+  "systems": [
+    {"system": "digital ID address system (National Address Programme, NaP)", "country_label": "Zanzibar National Address Programme; over 450,000 digital addresses assigned to people and plots", "class": "land", "platform": "", "owner": "Zanzibar Ministry of Construction, Communication and Transport; Tanzania's Ministry of Communication and Information", "tiers": "Zanzibar; regions, councils, wards, streets and villages"},
+    {"system": "National Physical Addressing System (NaPA)", "country_label": "NaPA platform and app", "class": "land", "platform": "", "owner": "Tanzanian government", "tiers": "national"},
+    {"system": "Jamii Number", "country_label": "national digital ID system, Jamii Number", "class": "identity", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": "About address registers and the national ID; civil registration is not mentioned."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The World Bank's summary of its Digital Economy Country Diagnostic says a digital civil-registry pilot was launched in 2018, and calls it a milestone for digital public platforms; no office count is given.", "as_of": "2018", "date_precision": "year", "system": "Digital civil-registry pilot", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Digital civil-registry pilot", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "a pilot launched in 2018; where it runs is not stated"}
+  ],
+  "note": ""
+}

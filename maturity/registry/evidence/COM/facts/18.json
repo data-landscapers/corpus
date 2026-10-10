@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-05-alwatwan-assoumani-interieur-plan-comores-emergent",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Minister of the Interior says civil status acts are made on secured printed forms ordered by the Ministry of Finance and produced abroad, with a recurring shortage of them, and that the France-backed civil registration modernisation project has drawn up standard civil status forms and a national mapping of the system; the interview gives no date, so its published date is used.", "as_of": "2026-01-05", "date_precision": "day", "system": "état civil (imprimés des actes d'état civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Projet d'Appui à la modernisation de l'état civil", "country_label": "projet d'Appui à la modernisation de l'état civil", "class": "civil", "platform": "", "owner": "Ministère de l'Intérieur, in collaboration with France", "tiers": "Standard forms and a national mapping of the civil registration system produced; 54 communes named as the municipal tier"},
+    {"system": "Biometric passports and national identity cards (Semlex, then Genkey)", "country_label": "cartes nationales et passeports biométriques", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur; Genkey replacing Semlex from 1 April 2026", "tiers": "Biometric capture on Ndzuani and Mwali, printing on Ngazidja only"}
+  ],
+  "note": "The paper fact rests on the minister's account of printed forms; he does not say in terms that registration is on paper only."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-tunisie-cni-madania-etat-civil",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The Centre National de l'Informatique's page states that the national civil status system Madania manages all civil status documents, naming birth, marriage, divorce and death, publishes them at municipalities, municipal districts and commercial sites, and builds a centralised database (the page is undated; the document's published date, a proxy year, is used).", "as_of": "2024", "date_precision": "year", "system": "Madania", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Madania", "country_label": "MADANIA, the national civil status system", "class": "civil", "platform": "", "owner": "Centre National de l'Informatique (the page's publisher, under its project management services)", "tiers": "municipalities, municipal counties and commercial sites; centralised database; documents issued online regardless of place of registration; number of sites not given"},
+    {"system": "Madania: electronic exchange with the national social security funds", "country_label": "échange électronique des documents d'état civil avec les caisses de sécurité sociale", "class": "exchange", "platform": "Madania", "owner": "Centre National de l'Informatique", "tiers": "national social security funds"},
+    {"system": "MADANIA 2", "country_label": "MADANIA 2", "class": "exchange", "platform": "", "owner": "Centre National de l'Informatique", "tiers": "a project whose objective is to let social security funds and educational institutions obtain civil status documents online"}
+  ],
+  "note": "The page does not say how or when the record is made at the office, nor how many offices use the system."
+}

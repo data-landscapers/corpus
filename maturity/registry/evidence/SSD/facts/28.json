@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-19 South Sudan introduces digital payment system for passports after supply crisis",
+  "facts": [],
+  "systems": [
+    {"system": "digital payment system for passports and national ID", "country_label": "digital system (bank-linked payment for immigration documents)", "class": "certificate", "platform": "", "owner": "National Revenue Authority, with the immigration directorate; said to be supported by European Union services", "tiers": "immigration compound in Juba, through a commercial bank on site; from 19 January 2026"},
+    {"system": "immigration database", "country_label": "immigration database", "class": "identity", "platform": "", "owner": "immigration directorate", "tiers": "not stated"},
+    {"system": "biometric registration of public servants", "country_label": "biometric registration exercise for public servants", "class": "identity", "platform": "", "owner": "government", "tiers": "Juba; launched November 2025"}
+  ],
+  "note": "About payment for passports and national identity cards. Civil registration appears only as something analysts say immigration systems should be integrated with; the piece states there is no unified national digital ID interoperable with the civil registry."
+}

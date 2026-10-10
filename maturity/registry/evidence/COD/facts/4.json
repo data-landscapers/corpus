@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-30-cod-diaspora-congolaise-lancement-a-paris-et-bruxelles-de-la-pha",
+  "facts": [],
+  "systems": [
+    {"system": "programme d'identification numérique de la diaspora congolaise", "country_label": "identification numérique de la diaspora (diaspora.gouv.cd)", "class": "identity", "platform": "diaspora.gouv.cd, an online self-registration platform recording education, specialisations and intended contributions", "owner": "minister delegate for the Francophonie and the Congolese Diaspora", "tiers": "pilot phase: launched at the embassy in Paris on 27 September 2026 and presented in Brussels two days later; other diplomatic and consular missions to follow, undated"},
+    {"system": "Carte Okapi", "country_label": "Carte Okapi", "class": "identity", "platform": "", "owner": "minister delegate for the Francophonie and the Congolese Diaspora", "tiers": "a project, presented in Paris and Brussels; for people of Congolese origin with a foreign nationality and children of Congolese origin born abroad"}
+  ],
+  "note": "A register of the skills and profiles of Congolese abroad and a card for people of Congolese origin; nothing on civil registration, births or deaths."
+}

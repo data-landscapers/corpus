@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-24-nimc-act-2026-id4d-acoe-roundtable",
+  "facts": [],
+  "systems": [
+    {"system": "National identity system (National Identification Number)", "country_label": "NIN", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC), supported by the World Bank-backed Nigeria Digital ID4D Project", "tiers": "enrolment centres, nationwide"}
+  ],
+  "note": "A roundtable on the identity statute; civil registration appears only as something the ID4D project says it will go on integrating with the national identification number, with no system or office described."
+}

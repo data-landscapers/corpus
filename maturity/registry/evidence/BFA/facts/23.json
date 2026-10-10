@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification System / Burkinabe National Identity Card (CNIB)", "country_label": "CNIB", "class": "identity", "platform": "", "owner": "", "tiers": "listed as the foundational ID with no digital ID; adult coverage of 90 per cent or above on the 2024 Findex survey (fieldwork 20 July to 17 August 2024)"}
+  ],
+  "note": "A global identity-coverage dataset; for Burkina Faso it gives adult identity-card ownership only, and nothing on civil registration offices or how births and deaths are recorded."
+}

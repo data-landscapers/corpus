@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-04-decreto-presidencial-245-21-regime-juridico-do-nif",
+  "facts": [],
+  "systems": [
+    {"system": "Bilhete de Identidade database", "country_label": "base de dados das entidades competentes para emissão do Bilhete de Identidade", "class": "identity", "platform": "", "owner": "the entities competent to issue the Bilhete de Identidade (not named)", "tiers": "not stated; the decree requires it to be shared with the tax authority's taxpayer register (art. 16)"}
+  ],
+  "note": "A tax-number decree: the birth entry (assento de nascimento) appears only as one document on which the tax authority may assign a sequential NIF; nothing on how civil registration offices record births or deaths. The Registo Geral de Contribuintes it governs is a tax register, outside the study's classes."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-11-bfa-alt-loi-027-2024-identification-unique",
+  "facts": [],
+  "systems": [
+    {"system": "registre national de l'identifiant unique de la personne physique", "country_label": "registre national de l'identifiant unique de la personne physique", "class": "identity", "platform": "", "owner": "an organisme en charge de l'identifiant unique, to be created by decree; a designated public structure meanwhile", "tiers": "central database of unique identifiers with biographic and biometric data; birth-certificate references are optional enrolment data (law n°027-2024/ALT of 11 October 2024, promulgated 28 October 2024)"}
+  ],
+  "note": "The law on unique electronic identification: an identity register, with the birth certificate's references an optional field; nothing on civil registration offices or how they record events."
+}

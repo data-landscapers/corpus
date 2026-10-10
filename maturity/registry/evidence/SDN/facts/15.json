@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-24-sudan-refugees-commission-foreign-number-system",
+  "facts": [],
+  "systems": [
+    {"system": "Foreign Number system", "country_label": "Foreign Number", "class": "identity", "platform": "", "owner": "Commission for Refugees, with UNHCR and the Passports and Civil Registry Authority at the Ministry of Interior", "tiers": "refugee registration and smart cards carrying a Foreign Number, reactivated from June 2026; UNHCR-approved registry of over 950,000 refugees"}
+  ],
+  "note": "The document concerns refugee registration and identity cards; it states nothing about the registration of births or deaths."
+}

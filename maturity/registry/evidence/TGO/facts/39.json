@@ -1,0 +1,15 @@
+{
+  "slug": "2025-04-02 Municipal elections in Togo - revision of electoral rolls begins 7 April",
+  "facts": [],
+  "systems": [
+    {
+      "system": "electoral rolls",
+      "country_label": "listes électorales / fichier électoral",
+      "class": "land",
+      "platform": "",
+      "owner": "Commission Electorale Nationale Indépendante (CENI)",
+      "tiers": "revision centres across the national territory, 7 to 23 April 2025, with nearly 6,000 data-entry operators"
+    }
+  ],
+  "note": "An electoral-roll revision only; the electoral register is out of scope and the document says nothing of civil registration."
+}

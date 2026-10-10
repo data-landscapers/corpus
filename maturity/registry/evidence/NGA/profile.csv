@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-22,NGA-004;NGA-005;NGA-030,NGA-016=owner:vendor;NGA-019=owner:vendor;NGA-020=owner:ministry;NGA-025=owner:vendor;NGA-026=owner:ministry;NGA-031=owner:ministry;NGA-037=owner:vendor;NGA-038=owner:ministry;NGA-039=finance:not-stated;NGA-015=owner:ministry;NGA-043=owner:ministry;NGA-046=owner:ministry;NGA-047=finance:donor;NGA-052=owner:ministry;NGA-056=owner:ministry;NGA-058=owner:ministry,
+NGA,civil,events,coverage,B;D,2026-08-18,NGA-002;NGA-006;NGA-007;NGA-010;NGA-011;NGA-018;NGA-021;NGA-028;NGA-033;NGA-042;NGA-044;NGA-051;NGA-054,,
+NGA,civil,made,coverage,connected,2026-07-31,NGA-001;NGA-009;NGA-013;NGA-024;NGA-029;NGA-036;NGA-040;NGA-045,NGA-041=paper;NGA-053=paper,
+NGA,civil,last12,qualifier,advancing,2026-08-13,NGA-003;NGA-008;NGA-012;NGA-017;NGA-022;NGA-032;NGA-034;NGA-050;NGA-057,,
+NGA,civil,offices,coverage,count:4011,2026-07-24,NGA-014;NGA-023;NGA-035,NGA-027=count:3372;NGA-055=pilot,

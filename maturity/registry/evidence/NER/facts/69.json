@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-01-unhcr-niger-annual-results-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "proGres", "country_label": "proGres", "class": "", "platform": "proGres", "owner": "UNHCR", "tiers": "UNHCR's registration database for refugees, asylum-seekers and Nigerien returnees (13,522 returnee households, 46,577 individuals, in 2024); not a civil register, and the document does not describe it further"}
+  ],
+  "note": "UNHCR's 2024 results for displaced people: 59.98% of refugee and asylum-seeker children under five had births registered with a civil authority in 2024 (baseline 43%), 3,584 people were supported to obtain civil-status, identity or legal documents, and UNHCR gave resources to civil registry centres; none of it says how a civil-status centre makes its record or names a civil registration system."
+}

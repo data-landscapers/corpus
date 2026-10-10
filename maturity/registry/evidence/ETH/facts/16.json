@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-07 Beyond the Platform Understanding the Growing MOSIP Ecosystem",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda digital ID (National ID Program)", "class": "identity", "platform": "MOSIP, customised in-house", "owner": "Ethiopian National ID Program (NIDP), moving to a state-owned enterprise", "tiers": "national; 46 million registered, 13 million cards printed, 150+ agencies doing KYC, three data-centre sites, as stated by its executive director on 7 July 2026"},
+    {"system": "civil registration system", "country_label": "civil registration system", "class": "", "platform": "", "owner": "", "tiers": "not stated; named only as the system whose demographic data was harmonised field by field with the digital ID"},
+    {"system": "integration between the civil registration system and Fayda", "country_label": "civil registration - ID harmonisation and integration", "class": "exchange", "platform": "", "owner": "National ID Program", "tiers": "not stated; NIDP's executive director says that when a child is born the parents' digital ID can be used to generate a digital ID for the child through the integration, and that major life events are pushed from one system to the other (7 July 2026)"}
+  ],
+  "note": "A webinar on the MOSIP ecosystem. For Ethiopia it describes the identity system and its link to the civil registration system (exchange); it does not say how, where or in how many offices births or deaths are registered, so there is no fact for the civil class."
+}

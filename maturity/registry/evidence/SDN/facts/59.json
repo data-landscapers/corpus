@@ -1,0 +1,9 @@
+{
+  "slug": "2016-05-02-sudan-nic-wsis-forum-2016-egov-presentation",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registration", "country_label": "Civil Registration", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eID Card", "country_label": "eID Card", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A National Information Center slide deck on e-government: Civil Registration is named once, as something the National DataCenter's networking is integrated with alongside the banking services company, and an eID card once, as an end entity of the national PKI; neither is described, and nothing is said of how births or deaths are registered."
+}

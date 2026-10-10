@@ -1,0 +1,15 @@
+{
+  "slug": "2024-09-13-zimra-public-notice-69-tarms-release-3",
+  "facts": [],
+  "systems": [
+    {
+      "system": "TaRMS integration with the Civil Registry",
+      "country_label": "Tax and Revenue Management System (TaRMS)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Zimbabwe Revenue Authority",
+      "tiers": "national; listed among Release 2 integrations already implemented by 13 September 2024, with no description of what is exchanged"
+    }
+  ],
+  "note": "A tax-system release notice; the Civil Registry appears once, in a list of systems TaRMS integrates with. Nothing on registration of births or deaths."
+}

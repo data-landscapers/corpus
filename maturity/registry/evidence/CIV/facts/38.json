@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric national identity card (CNI) digital-ID programme", "country_label": "Carte nationale d'identité (CNI) biométrique", "class": "identity", "platform": "Idemia biometric technology; Semlex as current project operator", "owner": "Ministry of Interior and Security, implemented by ONECI with support of the Ministry of Digital Transformation", "tiers": "national enrolment; about 8 million citizens registered by 2024; registration centres limited in rural areas"},
+    {"system": "RNPP", "country_label": "Registre national des personnes physiques (RNPP)", "class": "identity", "platform": "", "owner": "the executive; launched 2018 (Decree 2018-454)", "tiers": "national: a single database of natural persons unifying civil status data"}
+  ],
+  "note": "The Côte d'Ivoire passages describe the biometric identity card and the population register (class identity) only; nothing is stated about how a civil registration office records a birth or death. The other passages concern other countries."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-05-dha-smart-id-bank-branch-locator",
+  "facts": [],
+  "systems": [
+    {"system": "smart ID services at bank branches", "country_label": "digital partnership", "class": "identity", "platform": "", "owner": "Department of Home Affairs with banks", "tiers": "372 participating bank branches (August 2026)"},
+    {"system": "online bank-branch locator", "country_label": "", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "online, national"},
+    {"system": "green barcoded ID book", "country_label": "green ID book", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "about 16 million holders"}
+  ],
+  "note": "Smart ID applications through banks only; nothing on civil registration."
+}

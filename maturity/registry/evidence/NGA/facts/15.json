@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-11-nigeria-nimc-act-2026-legal-analysis",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Database", "country_label": "NIN; National Identity Database", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": "enrolment within and outside Nigeria, through licensed enrolment agents"}
+  ],
+  "note": "A law-firm reading of the 2026 identity Act; it names no civil registration system. The parent may want its one statement on the subject: the Act makes the identity commission, in collaboration with relevant agencies, responsible for the registration of births and deaths."
+}

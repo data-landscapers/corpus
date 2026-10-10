@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-22-nira-tighten-id-security-after-breach",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Register (NIR)", "country_label": "National Identification Register; biometric national ID database", "class": "identity", "platform": "", "owner": "NIRA", "tiers": ""},
+    {"system": "on-site birth registration teams at health facilities", "country_label": "teams dispatched to health facilities for on-site birth registration", "class": "outreach", "platform": "", "owner": "NIRA", "tiers": "health facilities, during the 2025 mass ID registration and renewal drive"}
+  ],
+  "note": "About a claimed breach of the identity register and the ID renewal drive; on births it reports only, at second hand, that teams were being sent to health facilities for on-site registration in September 2025, with nothing on how the record is made."
+}

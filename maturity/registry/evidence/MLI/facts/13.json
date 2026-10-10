@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-20-lessor-sigrh-controle-biometrique-agents-etat",
+  "facts": [],
+  "systems": [
+    {"system": "carte Nina", "country_label": "carte Nina", "class": "identity", "platform": "", "owner": "Agence nationale de sécurisation des actes d'état civil (ANSAEC), called on where fingerprint reads fail", "tiers": ""},
+    {"system": "SIGRH", "country_label": "Système intégré de gestion des ressources humaines des fonctions publiques de l'État et des collectivités", "class": "", "platform": "", "owner": "Ministère de la Refondation de l'État", "tiers": "all regions and diplomatic and consular missions"}
+  ],
+  "note": "On the biometric check of state employees under the SIGRH payroll system, outside the study's field; the birth certificate extract and Nina card appear only as supporting papers, and ANSAEC only as the body called on for fingerprint problems."
+}

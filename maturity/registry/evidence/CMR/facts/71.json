@@ -1,0 +1,8 @@
+{
+  "slug": "2017-11-01-apai-crvs-costed-strategic-plan-2017-2021",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The Economic Commission for Africa's country table lists Cameroon's comprehensive assessment of civil registration and vital statistics as completed and its strategic plan as developed; the table gives no date, so the document's published date is used.", "as_of": "2017-11", "date_precision": "month", "system": "civil registration and vital statistics system", "class": "civil"}
+  ],
+  "systems": [],
+  "note": "The only passage naming Cameroon is one row of a status table; it describes no information system."
+}

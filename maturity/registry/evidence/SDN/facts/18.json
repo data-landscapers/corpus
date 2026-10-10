@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-17-south-gezira-al-hosh-first-electronic-birth-certificate",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The civil registry centre of South Gezira locality (Al-Hosh office) announced it had issued an electronic birth certificate, drawn up at the office on 17 May 2026, for a child born in August 2023, as reported by Al-Nawrs News; the report does not say how the underlying record is made or held.", "as_of": "2026-05-17", "date_precision": "day", "system": "civil registry centre, South Gezira locality (Al-Hosh office)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The Al-Hosh civil registry office in South Gezira locality resumed work after a stoppage caused by insecurity and displacement and issued its first electronic birth certificate on 17 May 2026, according to Al-Nawrs News and local sources it cites.", "as_of": "2026-05-17", "date_precision": "day", "system": "civil registry centre, South Gezira locality (Al-Hosh office)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:1", "fact": "One local office is named as issuing an electronic birth certificate on 17 May 2026: the Al-Hosh office of the South Gezira locality civil registry centre, serving the locality and its surrounding rural villages; no total of offices is given (Al-Nawrs News).", "as_of": "2026-05-17", "date_precision": "day", "system": "civil registry centre, South Gezira locality (Al-Hosh office)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "civil registry centre, South Gezira locality (Al-Hosh office)", "country_label": "مركز السجل المدني بمحلية جنوب الجزيرة (مكتب الحوش)", "class": "civil", "platform": "", "owner": "Sudan Police (certificate signed by a police major)", "tiers": "locality office in Gezira State issuing an electronic birth certificate; serves the locality and surrounding rural villages"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,civil,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-07,ETH-004;ETH-005;ETH-006,ETH-014=owner:ministry;ETH-017=owner:ministry;ETH-018=plan:current;ETH-021=owner:ministry;ETH-025=finance:donor,
+ETH,civil,events,coverage,B;D,2026-07,ETH-001;ETH-024,,
+ETH,civil,made,coverage,connected,2026-07,ETH-002;ETH-010,ETH-015=paper;ETH-026=paper,
+ETH,civil,last12,qualifier,advancing,2025-12-05,ETH-012;ETH-019;ETH-022,ETH-020=regressing,
+ETH,civil,offices,coverage,count:50,2025-12-08,ETH-013,ETH-003=pilot;ETH-011=pilot;ETH-016=pilot;ETH-023=pilot,

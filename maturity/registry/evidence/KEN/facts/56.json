@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-27-harmonize-education-data-maisha-namba-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Maisha Namba", "country_label": "Maisha Namba digital ID; Unique Personal Identifier (UPI)", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "KEMIS integration with the birth and death registration system", "country_label": "Kenya Education Management Information System (KEMIS)", "class": "exchange", "platform": "", "owner": "Ministry of Education", "tiers": "planned: KEMIS pilot from July 2025, fully live by September 2025; the UPI to be issued to every child and used by KEMIS"},
+    {"system": "birth and death registration system", "country_label": "birth and death registration system", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The civil registration system is named only as something the education system will be integrated with; no description of what it does or where records are entered."
+}

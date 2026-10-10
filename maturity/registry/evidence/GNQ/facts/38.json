@@ -1,0 +1,8 @@
+{
+  "slug": "2022-04-05-decreto-34-2022-levantamiento-censo-electoral",
+  "facts": [],
+  "systems": [
+    {"system": "Censo Electoral", "country_label": "Censo Electoral; Carnet de Elector", "class": "land", "platform": "", "owner": "Ministerio del Interior y Corporaciones Locales", "tiers": "census tables (mesas censales) in each electoral constituency, ordered by decree of 5 April 2022"}
+  ],
+  "note": "The decree ordering the electoral census, an electoral register out of the study's scope; nothing on civil registration."
+}

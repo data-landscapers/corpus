@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-02-ugd-idms-audit-tdr",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The UGD's terms of reference state that a platform for the systematic registration of births (ESN) is already operational in several communes; no date is given for this, so the document's date is used.", "as_of": "2026-03-02", "date_precision": "day", "system": "plateforme d'Enregistrement Systématique des Naissances (ESN)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "The UGD's terms of reference state that the ESN platform is operational in 'several communes', giving neither a number nor a total; no date is given, so the document's date is used.", "as_of": "2026-03-02", "date_precision": "day", "system": "plateforme d'Enregistrement Systématique des Naissances (ESN)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The UGD's terms of reference state that the ESN platform is being deployed progressively at national scale; no date is given, so the document's date is used.", "as_of": "2026-03-02", "date_precision": "day", "system": "plateforme d'Enregistrement Systématique des Naissances (ESN)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "plateforme d'Enregistrement Systématique des Naissances (ESN)", "country_label": "ESN", "class": "civil", "platform": "", "owner": "a component of the IDMS audited by the Unité de Gouvernance Digitale (UGD), Présidence, under PRODIGY; the institution in charge of civil status and identity has its seat in Antananarivo", "tiers": "operational in several communes, with progressive national deployment"},
+    {"system": "système de gestion de l'identité des personnes (IDMS)", "country_label": "IDMS", "class": "identity", "platform": "", "owner": "Unité de Gouvernance Digitale (UGD), Présidence, under PRODIGY", "tiers": "central infrastructure with biometric enrolment equipment acquired; not yet in mass enrolment and no significant volume of biometric data or identities recorded in production as at March 2026; the ESN is one of its components and interoperability mechanisms with existing systems are in the audit's scope"}
+  ],
+  "note": "The document does not say how the ESN record is made (at the office, online or keyed elsewhere), nor who owns or finances the ESN specifically."
+}

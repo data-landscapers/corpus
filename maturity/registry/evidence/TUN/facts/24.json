@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The essay's country table states that rural municipal civil status offices, with their subsidiary offices, annexes and mobile units, record births and other events by hand in duplicate paper registers that hold legal force, and that registrars then transcribe them manually into the national Madania system; it found no evidence of direct digital entry at the point of service (no date given; the document's published date is used).", "as_of": "2026-03-31", "date_precision": "day", "system": "Madania", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The essay's country table, citing UNFPA, states that civil registration is only partially digitised, limited to births and deaths and excluding marriages and divorces (no date given; the document's published date is used).", "as_of": "2026-03-31", "date_precision": "day", "system": "Madania", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "The essay's country table, citing the Centre of Excellence for CRVS Systems, states that digitisation began in major municipalities in the 1980s and reached full national rollout by 2005, interconnecting all of the 350-plus principal and subsidiary offices; it gives no exact numerator or denominator.", "as_of": "2005", "date_precision": "year", "system": "Madania", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Madania", "country_label": "Madania", "class": "civil", "platform": "", "owner": "", "tiers": "all 350-plus principal and subsidiary municipal civil status offices, as transcription from paper registers"},
+    {"system": "online certificate issuance (2022)", "country_label": "online certificate issuance", "class": "certificate", "platform": "", "owner": "", "tiers": "described as a recent pilot that improves access, not recording"}
+  ],
+  "note": "Passages of an AI-assisted compilation, by its own header not sourced fact; the facts are recorded as the document states them."
+}

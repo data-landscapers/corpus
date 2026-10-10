@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-13-worldbank-icr-gambia-social-safety-net-project-p167260",
+  "facts": [],
+  "systems": [
+    {"system": "Civil Registry", "country_label": "Civil Registry", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "planned integration of the Social Registry (GamSR) with the Civil Registry on a unified IT platform, with connections to the National Identification program", "country_label": "", "class": "exchange", "platform": "", "owner": "World Bank Gambia Social Safety Net Project (P167260), Component 1B", "tiers": "stated as the design at appraisal in 2019; the capture breaks off before the outcomes section"},
+    {"system": "National Identification program", "country_label": "National Identification program", "class": "identity", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Social protection project report, captured as an excerpt ending at Component 3; the Civil Registry is named only as something the Social Registry was to be integrated with."
+}

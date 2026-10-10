@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "foundational ID (adult identity credential)", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "the text lists Mauritania among nine Sub-Saharan economies with adult ID coverage of 90 per cent or above (ID4D-Findex, 2024 fieldwork); the credential's name in Annex D cannot be read reliably because the table's rows are misaligned in the transcription"}
+  ],
+  "note": "A global report on adult identity-document ownership. Its only statements on Mauritania are adult ID coverage; it says nothing about the country's civil registration system or offices. In Annex E the row beside Mauritania reads 95 per cent, but the columns are misaligned in the transcription and the figure is not relied on."
+}

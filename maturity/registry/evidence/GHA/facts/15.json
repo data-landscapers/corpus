@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-12-nia-tests-registration-system-children-0-5",
+  "facts": [],
+  "systems": [
+    {"system": "registration application system for children aged 0-5", "country_label": "Ghana Personal Identification Number (Ghana PIN)", "class": "identity", "platform": "", "owner": "National Identification Authority (NIA), in partnership with the Births and Deaths Registry and the Ghana Health Service", "tiers": "selected hospitals and other health facilities; launched March 2024, suspended after a technical fault, tested again on 11 August 2026 ahead of a nationwide rollout"}
+  ],
+  "note": "The system issues identity numbers to children aged 0 to 5 at health facilities and is the identification authority's; the document does not say it registers the birth or how the Births and Deaths Registry records one."
+}

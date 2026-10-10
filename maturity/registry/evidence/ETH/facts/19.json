@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-18-ethiopia-digital-id-isr-seq5",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda ID", "class": "identity", "platform": "", "owner": "National ID Program, operationalised as the state-owned enterprise FaydaVerse; project implementing agency the Prime Minister's Office; World Bank financed (P179040)", "tiers": "national; 39,028,382 people with a Fayda ID at 23 March 2026; permanent, semi-permanent and mobile registration sites"},
+    {"system": "data exchange platform", "country_label": "data exchange platform", "class": "", "platform": "", "owner": "", "tiers": "12 government agencies integrated at 23 March 2026; the report does not say whether the civil registrar is one of them"}
+  ],
+  "note": "A World Bank status report on the digital ID project; it reports identity enrolment and authentication only and states nothing about civil registration. Its 'mobile registration' sites are Fayda enrolment sites."
+}

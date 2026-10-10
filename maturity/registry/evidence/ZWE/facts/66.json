@@ -1,0 +1,11 @@
+{
+  "slug": "2020-03-06-zwe-births-and-deaths-registration-act-chapter-5-02",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Births and Deaths Registration Act, as consolidated to 6 March 2020, requires the registrar of each district to keep registers in the prescribed form and to sign and forward every notice of birth, still-birth or death and every medical certificate of cause of death to the Registrar-General by registered post, the Registrar-General keeping registers of his own (sections 3 to 5); the text as captured makes no provision for an electronic register or record.", "as_of": "2020-03-06", "date_precision": "day", "system": "registers of births and deaths", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Births and Deaths Registration Act, as consolidated to 6 March 2020, assigns its administration to the Minister of Home Affairs and establishes a Registrar-General of Births and Deaths as the central registering office, with a registrar for each district (sections 2 and 3).", "as_of": "2020-03-06", "date_precision": "day", "system": "registers of births and deaths", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "registers of births and deaths", "country_label": "registers", "class": "civil", "platform": "registers in the prescribed form; notices forwarded by registered post", "owner": "Registrar-General of Births and Deaths, under the Minister of Home Affairs", "tiers": "a registrar for each district, with deputy and assistant registrars; the Registrar-General's office as the central registering office"}
+  ],
+  "note": "The captured text stops mid-sentence in section 27(3)(b), so the end of the Act was not read. The made value rests on the statute's registers and registered post, not on a statement that offices use paper today. Notice of a birth is due within 42 days, of a death within 30."
+}

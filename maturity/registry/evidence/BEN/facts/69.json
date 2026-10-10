@@ -1,0 +1,25 @@
+{
+  "slug": "2018-10-10-sgg-decret-2018-471-dematerialisation-etat-civil",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "Decree 2018-471 of 10 October 2018 (art. 10) refers to the birth acts recorded in the paper registers currently available in the civil-status centres, which are to be scanned under ANIP; it describes no digital entry at those centres, and does not say in terms that they register on paper only.",
+      "as_of": "2018-10-10",
+      "date_precision": "day",
+      "system": "registres-papiers des centres d'état civil",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {"system": "registres-papiers des centres d'état civil", "country_label": "registres-papiers", "class": "civil", "platform": "paper registers", "owner": "", "tiers": "Civil-status centres"},
+    {"system": "enregistrement à titre dérogatoire à l'état civil", "country_label": "enregistrement à titre dérogatoire", "class": "outreach", "platform": "an information management system is authorised; enrolment and testimony forms read by QR code; an application encodes the personal identification number on the draft acts", "owner": "Comité technique de pilotage chaired by the Director General of ANIP, under a Comité national de suivi chaired by the Minister of the Interior; costs charged to the State budget", "tiers": "Lists drawn up by arrondissement and commune for people enrolled in the identification census with no birth certificate; the prosecutor requisitions each mayor to enter them in the current year's birth register; draft acts go to the competent civil-status officers for signature"},
+    {"system": "dématérialisation duplicative des registres-papiers", "country_label": "dématérialisation duplicative", "class": "archive", "platform": "scanning, with full or partial character recognition", "owner": "Agence Nationale d'Identification des Personnes (ANIP)", "tiers": "Birth acts in the paper registers held in the civil-status centres"},
+    {"system": "fichier central de l'état civil", "country_label": "fichier central de l'état civil", "class": "archive", "platform": "", "owner": "", "tiers": "Built from the acts of the derogatory registration and the scanned paper registers; interoperable with the biometric population register for its updating"},
+    {"system": "registre national biométrique de la population", "country_label": "registre national biométrique de la population", "class": "identity", "platform": "", "owner": "Agence Nationale d'Identification des Personnes (ANIP)", "tiers": "National; signed birth acts are attached to the persons concerned in it"},
+    {"system": "extrait sécurisé d'acte de naissance", "country_label": "extrait sécurisé", "class": "certificate", "platform": "", "owner": "Agence Nationale d'Identification des Personnes (ANIP), whose head is civil-status officer with national territorial competence", "tiers": "Issued on request, whatever the place of birth, at ANIP or its departmental or communal representations, carrying the encoded personal identification number"},
+    {"system": "système de communication électronique des données de l'état civil", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "To be set up for identification and control of personal data, under a later decree"}
+  ],
+  "note": "The decree's digital registration is the one-off derogatory registration of people enrolled without a birth certificate, and its dematerialisation is the scanning of existing registers: neither is routine digital entry at the office where a birth is declared."
+}

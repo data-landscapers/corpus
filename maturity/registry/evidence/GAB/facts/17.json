@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National identity card (CNI)", "country_label": "Identity Card (CNI)", "class": "identity", "platform": "", "owner": "", "tiers": "adult ID ownership 78% (men 76%, women 81%) in the ID4D-Global Findex Database 2025, 2024 fieldwork; no digital ID coverage figure for Gabon. The annex table's rows are misaligned in the transcription, so the system name against Gabon is uncertain."}
+  ],
+  "note": "A global identity-coverage dataset: for Gabon it gives only adult ID ownership (class identity). Nothing on how civil registration offices register."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural civil registration offices (centres d'état civil) in the Republic of the Congo predominantly use paper birth registers and that it found no evidence of an operational electronic system in rural areas; no date is given, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "SIFEC (Système Intégré des Faits d'État Civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "none", "fact": "The essay states that SIFEC was validated in February 2026 but remains in its implementation phase with no confirmed rural rollout; dated to the essay's publication.", "as_of": "2026-03-31", "date_precision": "day", "system": "SIFEC (Système Intégré des Faits d'État Civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "SIFEC (Système Intégré des Faits d'État Civil)", "country_label": "Système Intégré des Faits d'État Civil (SIFEC)", "class": "civil", "platform": "", "owner": "", "tiers": "national system validated in February 2026, in implementation; no rural rollout confirmed"}
+  ],
+  "note": "This source is on the study's exclude_sources list (an AI-assisted compilation by its own header); the facts are recorded as the document states them and are the parent's to exclude."
+}

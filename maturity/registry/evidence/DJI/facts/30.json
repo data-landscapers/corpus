@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-worldbank-govtech-djibouti-customs-asycudaworld",
+  "facts": [],
+  "systems": [
+    {"system": "e-Birth Certificate", "country_label": "e-Birth Certificate", "class": "", "platform": "", "owner": "ANSIE (source of the planned e-government architecture figure)", "tiers": "named as an e-service in the planned e-government architecture, with no description; implementation under way but not complete"},
+    {"system": "e-ID", "country_label": "e-ID", "class": "identity", "platform": "", "owner": "ANSIE (planned architecture)", "tiers": "named as a foundation layer in the planned e-government architecture"},
+    {"system": "X-ROAD interoperability platform", "country_label": "", "class": "exchange", "platform": "X-ROAD (open source)", "owner": "ANSIE", "tiers": "central government; rolled out 2021, fewer than 10 platforms using it; the document does not say the civil register is connected"},
+    {"system": "Citizen Service Centers", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named in the planned e-government architecture, with no description"}
+  ],
+  "note": "A case study of customs automation; an 'e-Birth Certificate' service appears only as a label in a figure of the planned architecture, so no civil-class fact."
+}

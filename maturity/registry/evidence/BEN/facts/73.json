@@ -1,0 +1,19 @@
+{
+  "slug": "2017-01-01 AU - Report on the Status of Civil Registration and Vital Statistics in Africa",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "not-published",
+      "fact": "In the APAI-CRVS monitoring round of October 2016, answered by each country's own civil registration focal point, Benin is listed among the 21 of 39 responding countries scoring under 35 per cent on digitisation of the civil registration system, a composite covering electronic capture at local offices, electronic transmission and notification, and linkage to the identity database; the report gives no country's answer on how many local offices capture records electronically.",
+      "as_of": "2016-10",
+      "date_precision": "month",
+      "system": "civil registration system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {"system": "civil registration system", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "Local civil registration offices; Benin's digitisation score under 35 per cent, October 2016"}
+  ],
+  "note": "A continental report: Benin appears only in the annex's score bands (legal framework 50-64, infrastructure and resources 35-49, planning and coordination 35-49, registration process 50-64, digitisation under 35, cause of death under 35, vital statistics under 35, uses 50-64, overall 35-49); its individual answers are not published."
+}

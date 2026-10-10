@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-07-77-million-nigerians-safety-net-register-nassco",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN)", "country_label": "NIN", "class": "identity", "platform": "", "owner": "", "tiers": "12.3 million NINs captured and over 11.5 million validated against the National Social Register, across 774 local government areas and 8,756 wards"}
+  ],
+  "note": "About the National Social Register, a social protection register outside the typology, and its linking to the identity number; nothing on civil registration."
+}

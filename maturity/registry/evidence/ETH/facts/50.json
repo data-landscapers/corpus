@@ -1,0 +1,17 @@
+{
+  "slug": "2024-09-01-crc-factsheet-ethiopia-child-identity",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Citing UNICEF, the factsheet states that about 24 per cent of the total births registered in 2023 were completed through the Mobile Ethiopian-Civil Registration and Vital Statistics digital platform; it gives a share of births, not of offices, and no absolute numbers.", "as_of": "2023", "date_precision": "year", "system": "Mobile Ethiopian-Civil Registration and Vital Statistics digital platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The factsheet describes the Mobile Ethiopian-Civil Registration and Vital Statistics digital platform as UNICEF-supported, and names no other source of finance for it.", "as_of": "2023", "date_precision": "year", "system": "Mobile Ethiopian-Civil Registration and Vital Statistics digital platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "A local contact quoted in the factsheet says registration is manual, with files being lost, and that the government has started to develop a new electronic system to replace it; no date is given, so the factsheet's date is used.", "as_of": "2024-09", "date_precision": "month", "system": "civil registration system (manual registration)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Mobile Ethiopian-Civil Registration and Vital Statistics digital platform", "country_label": "Mobile Ethiopian-CRVS", "class": "civil", "platform": "mobile", "owner": "UNICEF-supported; operator not stated", "tiers": "not stated; about 24% of births registered in 2023"},
+    {"system": "new electronic system", "country_label": "", "class": "civil", "platform": "", "owner": "government", "tiers": "under development, on a local contact's account"},
+    {"system": "civil registration system (manual)", "country_label": "vital events registration", "class": "civil", "platform": "paper files", "owner": "federal and regional vital events registration agencies", "tiers": "local Civil Registration Offices"},
+    {"system": "outreach and IDP-site birth registration", "country_label": "", "class": "outreach", "platform": "", "owner": "Oromia Civil Registration Agency, with UNICEF support", "tiers": "registration centres in the Elwaye, Dubuluk and Yabello IDP sites; over 5,000 children registered October-November 2023; mobile birth registration in IDP camps"},
+    {"system": "digital ID", "country_label": "Ethiopia National ID Program (NIDP)", "class": "identity", "platform": "", "owner": "NIDP", "tiers": "not stated"},
+    {"system": "alignment between digital ID and birth registration", "country_label": "", "class": "exchange", "platform": "", "owner": "NIDP and Immigration and Citizenship Services, dialogue facilitated by UNICEF", "tiers": "dialogue only, 2023"}
+  ],
+  "note": ""
+}

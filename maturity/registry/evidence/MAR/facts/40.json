@@ -1,0 +1,31 @@
+{
+  "slug": "2021-09-03-portail-collectivites-territoriales-loi-36-21-etat-civil",
+  "facts": [],
+  "systems": [
+    {
+      "system": "national central digital civil status system and national register",
+      "country_label": "منظومة رقمية وطنية مركزية; سجل وطني لتسجيل وترسيم وقائع الحالة المدنية",
+      "class": "civil",
+      "platform": "",
+      "owner": "",
+      "tiers": "created in law by Law 36.21 (Dahir 1.21.81 of 14 July 2021): a national register for recording civil status events, electronic acts given probative force, electronic signature of acts; the page does not say whether it is in operation"
+    },
+    {
+      "system": "civil status portal: preliminary declaration of births and deaths",
+      "country_label": "بوابة الحالة المدنية",
+      "class": "notification",
+      "platform": "",
+      "owner": "",
+      "tiers": "Law 36.21 obliges managers of civil and military health institutions, health offices and local authorities to make the preliminary declaration of births and deaths through the portal or any means connected to the digital system"
+    },
+    {
+      "system": "civil and social digital identifier at birth registration",
+      "country_label": "معرف رقمي مدني-اجتماعي",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "Law 36.21 assigns the identifier when the birth of any Moroccan or resident foreigner is registered, and adopts electronic exchange of civil status data with partners"
+    }
+  ],
+  "note": "No fact: the Interior Ministry portal's list of what Law 36.21 introduces, dated 3 September 2021. It states legal provisions only: nothing on whether or where the system runs, and the owner is not named on the page."
+}

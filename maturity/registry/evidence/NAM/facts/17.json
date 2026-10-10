@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-namibia-digital-id-transparency",
+  "facts": [],
+  "systems": [
+    {"system": "digital identification system / electronic identity (e-ID) system", "country_label": "e-ID", "class": "identity", "platform": "", "owner": "", "tiers": "national; planned, to operate under the Civil Registration and Identification Act"}
+  ],
+  "note": "Data-access transparency claims for the planned electronic identity system; nothing on civil registration."
+}

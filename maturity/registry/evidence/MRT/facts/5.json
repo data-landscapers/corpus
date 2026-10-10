@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty",
+  "facts": [],
+  "systems": [
+    {"system": "système d'information de l'Agence nationale du registre des populations et des titres sécurisés", "country_label": "système d'information de l'ANRPTS", "class": "identity", "platform": "", "owner": "Agence nationale du registre des populations et des titres sécurisés (ANRPTS)", "tiers": "central system behind the agency's digital services and the services of the centres d'accueil des citoyens; stopped for the whole of 8 August 2026 for preventive maintenance"},
+    {"system": "Houwiyeti", "country_label": "Houwiyeti", "class": "identity", "platform": "", "owner": "ANRPTS", "tiers": "mobile application for remote documents and identity verification for public and private services; about 1.5 million beneficiaries and 554,027 remote services"},
+    {"system": "Khadamati", "country_label": "Khadamati", "class": "", "platform": "", "owner": "", "tiers": "application grouping more than 15 public digital services, relying on Houwiyeti for identity verification"}
+  ],
+  "note": "The document describes the ANRPTS system as a population-register and identity system and Houwiyeti as an identity and documents application; it does not say that births or deaths are registered in either, so the one-day maintenance stoppage of 8 August 2026 is given under systems and yields no civil fact."
+}

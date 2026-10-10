@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table says rural registry offices, 2,350 secondary civil status centres in villages, predominantly record births and other vital events on paper, with no evidence of predominant digital use at the point of service; it gives no date for this, so the date is the publication date.", "as_of": "2026-03-31", "date_precision": "day", "system": "national civil status system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The essay's country table says the rollout is limited to pilots and donor projects in a handful of municipalities, with the first digital births issued in select urban councils in 2026 (for example Limbe I), not in the majority of rural facilities.", "as_of": "2026", "date_precision": "year", "system": "national civil status system", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The essay's country table says a strategic plan for 2025-2029 aims for full digital civil registration by 2029; the date is the publication date.", "as_of": "2026-03-31", "date_precision": "day", "system": "national civil status system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "national civil status system", "country_label": "civil status centres; national database under Law No. 2024/016", "class": "civil", "platform": "", "owner": "", "tiers": "pilots and donor projects in a handful of municipalities; 2,350 secondary centres in villages on paper"}
+  ],
+  "note": "The source's own header marks its country figures as an AI-assisted compilation, and study.json lists it under exclude_sources; the rows are recorded as the document states them."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-09-accelerates-biometric-enrollment-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "national digital identity system", "country_label": "digital ID", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": "district enrolment campaigns; more than 4.4 million biometrically enrolled at June 2026; biometric kits expected to be deployed permanently to sector offices"}
+  ],
+  "note": "Identity enrolment only; nothing on civil registration."
+}

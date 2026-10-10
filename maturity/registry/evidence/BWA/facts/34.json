@@ -1,0 +1,30 @@
+{
+  "slug": "2019-01-01-bwa-botswana-health-data-collaborative-roadmap-2020-2025",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Health and Wellness roadmap states that the Department of Civil and National Registration holds the mandate to register all births, deaths, marriages and divorces occurring in Botswana, and that its Civil Registration offices produce the birth and death certificates; no date is given, so the document's 2019 publication year is used.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The roadmap names a Civil Registration and Vital Statistics and identity management Investment Plan 2015-2020, due an end-term review in 2020/21, and schedules a successor CRVS strategic plan for 2021-2026 under the Department of Civil and National Registration; its own CRVS strategy sets a target of all births registered through the civil registration system by 2021, with improved ICT infrastructure for CRVS. Dated to the document's 2019 publication year.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "civil registration system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {"system": "civil registration system", "country_label": "civil registration system", "class": "civil", "platform": "", "owner": "Department of Civil and National Registration", "tiers": "Civil Registration offices"},
+    {"system": "birth and death notification forms CRB-2 and CRD-2", "country_label": "CRB-2; CRD-2", "class": "notification", "platform": "paper forms", "owner": "Ministry of Health and Wellness", "tiers": "hospitals and maternity clinics"}
+  ],
+  "note": "No coverage fact: the document says health staff fill paper notification forms that are carried to Civil Registration offices, and that the 2018 HIS assessment found this manual process and the lack of a comprehensive civil registration system a gap, but it does not say how the registration office itself makes its record."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-18-wearetech-nine-digital-projects-public-administration",
+  "facts": [],
+  "systems": [
+    {"system": "national public services portal", "country_label": "national public services portal", "class": "certificate", "platform": "", "owner": "", "tiers": "online"},
+    {"system": "One-stop shop for public services (GUSP)", "country_label": "Guichet unique des services publics (GUSP)", "class": "", "platform": "", "owner": "Ministry of Public Administration Modernization and Civil Service", "tiers": ""}
+  ],
+  "note": "The only civil registration content is that the national public services portal gives online access to procedures including civil registry documents (stated May 2026), which is certificate and gives no civil fact."
+}

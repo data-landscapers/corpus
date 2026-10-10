@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-29-worldbank-gambia-rise-project-isr05520",
+  "facts": [],
+  "systems": [
+    {"system": "CRVS", "country_label": "CRVS", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "interoperability of the GamSR, EMISs (MoBSE and MoHERST), CRVS and health insurance system", "country_label": "", "class": "exchange", "platform": "", "owner": "World Bank RISE project (P179233), performance-based condition of USD 500,000", "tiers": "baseline January 2024: no interoperability across systems; 0 at 25 November 2025 with one instance being verified; target at least 3 systems interoperable by October 2028"},
+    {"system": "Gambia Social Registry (GamSR)", "country_label": "GamSR", "class": "", "platform": "", "owner": "", "tiers": "43 districts; 15 programmes using it at 25 November 2025"}
+  ],
+  "note": "The CRVS is named only as one system in an interoperability indicator, with no description of what it does; nothing on how offices register events."
+}

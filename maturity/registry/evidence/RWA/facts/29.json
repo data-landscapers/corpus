@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-24-senators-commend-digital-id-rollout",
+  "facts": [],
+  "systems": [
+    {"system": "e-Indangamuntu", "country_label": "digital national identity card (e-Indangamuntu)", "class": "identity", "platform": "", "owner": "National Identification Agency (NIDA); reported to the Senate by the Minister of ICT and Innovation", "tiers": "over 1.8 million biometric submissions at 22 February 2026 against a target of 15 million; all 30 districts expected in 2026"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "", "platform": "Irembo", "owner": "", "tiers": "named as a national system the identity platform integrates with"}
+  ],
+  "note": "Identity enrolment; civil registration is named only as a service the digital ID is expected to improve."
+}

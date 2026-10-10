@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-08 Rwanda National Identification Agency begins digital ID enrollment",
+  "facts": [],
+  "systems": [
+    {"system": "Single Digital Identification System", "country_label": "SDIS / digital ID", "class": "identity", "platform": "includes an Automated Biometric Identification System (ABIS)", "owner": "NIDA", "tiers": "nationwide registration launched 7 August 2025; biometric capture expected from mid-September 2025"}
+  ],
+  "note": "Identity enrolment only; nothing on civil registration."
+}

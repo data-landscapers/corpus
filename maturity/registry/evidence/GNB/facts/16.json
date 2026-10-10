@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-spatialdimension-guinea-bissau-mining-cadastre",
+  "facts": [],
+  "systems": [
+    {"system": "Geodata and Mining Cadastre System", "country_label": "", "class": "land", "platform": "Spatial Dimension", "owner": "Ministry of Energy, Industry and Natural Resources", "tiers": "national; World Bank-funded project won on tender in April 2015"}
+  ],
+  "note": "Mining cadastre only; out of scope, nothing on civil registration."
+}

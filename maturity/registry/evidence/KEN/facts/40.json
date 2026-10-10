@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-20-cybernetica-piloted-interoperability-platform-kenya",
+  "facts": [],
+  "systems": [
+    {"system": "government interoperability and secure data exchange platform, pilot", "country_label": "", "class": "", "platform": "X-Road, as the GovStack information mediator building block", "owner": "Ministry of ICT and ICT Authority; piloted by Cybernetica with GIZ, EU and ESTDEV funding", "tiers": "test environment with two demo services, April 2024 to June 2025"}
+  ],
+  "note": "A general government data exchange pilot; it does not mention civil registration."
+}

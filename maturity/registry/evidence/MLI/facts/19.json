@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Population Database of the Civil Status Administrative Census (RAVEC)/NINA Card", "country_label": "RAVEC; NINA Card", "class": "identity", "platform": "", "owner": "", "tiers": "national; listed as Mali's foundational ID system, with no digital ID (names verified early 2024, Findex fieldwork 18 July to 13 October 2024)"}
+  ],
+  "note": "A global identity coverage dataset: for Mali it names only the foundational ID system and adult ID ownership, and says nothing of how civil status centres register births or deaths. The Annex E coverage table is misaligned in the text layer, so no Mali figure is taken from it."
+}

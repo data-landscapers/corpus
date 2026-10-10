@@ -1,0 +1,12 @@
+{
+  "slug": "2021-06-16-discurso-representante-unicef-dia-nino-africano-sirec",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "UNICEF's Representative says the Sistema Informatizado del Registro Civil (SIREC) was put into service in December 2018 through the Ministry of Justice, with the support of UNICEF and the European Union and the collaboration of CNIAPGE.", "as_of": "2018-12", "date_precision": "month", "system": "SIREC (Sistema Informatizado del Registro Civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "UNICEF's Representative says that, in modernising the Central Registry Centre under SIREC, 192,000 birth records covering 1980 to 2019 were converted to digital form and 20,000 new records were digitised; deaths are not mentioned (stated in a speech of 16 June 2021).", "as_of": "2021-06-16", "date_precision": "day", "system": "SIREC (Sistema Informatizado del Registro Civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "SIREC (Sistema Informatizado del Registro Civil)", "country_label": "SIREC; Sistema Informatizado del Registro Civil", "class": "civil", "platform": "", "owner": "Ministry of Justice, with support from UNICEF and the European Union and the collaboration of CNIAPGE", "tiers": "the Centro de Registro Central is the only site named; in service since December 2018"},
+    {"system": "Conversion of 192,000 birth records of 1980-2019 to digital form", "country_label": "", "class": "archive", "platform": "SIREC", "owner": "Ministry of Justice, with UNICEF, the European Union and CNIAPGE", "tiers": "Centro de Registro Central"}
+  ],
+  "note": "The speech does not say whether the 20,000 new records are births entered digitally at registration or paper acts keyed afterwards, and names no office other than the Central Registry Centre; it also gives 46 per cent of children as having no record of birth registration."
+}

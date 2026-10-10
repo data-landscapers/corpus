@@ -1,0 +1,9 @@
+{
+  "slug": "2023-06-01-minsap-pnds-iii-plano-nacional-desenvolvimento-sanitario-2023-2028",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile-phone application for births managed by UNICEF", "country_label": "aplicativo para telefones móveis gerido pela UNICEF", "class": "", "platform": "", "owner": "UNICEF", "tiers": "the health plan of June 2023 says birth registration data are digitised through it and are not transferred to the health information system at INASA; it does not say who enters the data or whether the entry is the registration"},
+    {"system": "Birth registration in vaccination campaigns and maternal and child health services", "country_label": "", "class": "outreach", "platform": "", "owner": "Ministry of Justice with the Ministry of Public Health, under their partnership agreement", "tiers": "the health ministry commits to collaborate in civil registration during vaccination campaigns and through maternal and child health services"}
+  ],
+  "note": "Passages only. The plan calls the civil registry sub-system a grave weakness, with minimal coverage of deaths and births covered at 24% to 36%, and says the country has no functioning vital statistics system; the one digital tool it names is described too thinly to class, so no fact."
+}

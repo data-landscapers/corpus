@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-civil-registration-children-burkina-faso-phase-ii",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "AMADE's project page states that its Phase II project (2025-2028) works with the national authorities to test and document an automated birth registration system, through digitisation and interoperability with health services, in three municipalities (Kaya, Tenkodogo, Koupéla), and lists deployment of the digital birth registration platform among its activities; the page is undated, so the year is the document's inferred one.", "as_of": "2025", "date_precision": "year", "system": "digital birth registration platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "AMADE describes the system under test in Kaya, Tenkodogo and Koupéla as an automated birth registration system and a digital birth registration platform; no other event is named; the page is undated, so the year is the document's inferred one.", "as_of": "2025", "date_precision": "year", "system": "digital birth registration platform", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "AMADE's page gives the Phase II project a funding of 450,000 (currency not stated) for 2025-2028, with the Tin Tua Association, the DGMEC and the basic-education ministry as partners; no state budget contribution is stated.", "as_of": "2025", "date_precision": "year", "system": "digital birth registration platform", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digital birth registration platform (automated birth registration system)", "country_label": "", "class": "civil", "platform": "", "owner": "tested by AMADE with the national authorities; partners Tin Tua Association, DGMEC, MEBAPLN", "tiers": "three municipalities: Kaya, Tenkodogo, Koupéla"},
+    {"system": "Interoperability between civil registry services and health facilities", "country_label": "", "class": "exchange", "platform": "", "owner": "AMADE project with DGMEC", "tiers": "three municipalities: Kaya, Tenkodogo, Koupéla"},
+    {"system": "Digitisation and archiving of birth certificates (digital archiving solution)", "country_label": "", "class": "archive", "platform": "", "owner": "AMADE project with DGMEC", "tiers": "the municipalities involved"},
+    {"system": "Identification and regularisation of children without birth certificates", "country_label": "", "class": "outreach", "platform": "", "owner": "AMADE and Tin Tua Association", "tiers": "10,000 children regularised in the 2022-2024 pilot; 45,000 targeted in three municipalities"}
+  ],
+  "note": "The page also cites the DGMEC (2024) for 60.65% of births registered within the two-month legal deadline, which is a share of births and not of offices."
+}

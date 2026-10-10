@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-namibia-mobile-id-prototype-birth-registration",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile identity prototype (m-ID)", "country_label": "mobile identity prototype; mobile ID; m-ID", "class": "notification", "platform": "mobile application, with an offline mode planned", "owner": "Ministry of Home Affairs, Immigration, Safety and Security (MHAISS), with UNDP", "tiers": "prototype tested with residents at Otjimbingwe, Erongo Region; a mother or a community health worker submits a birth from a phone and the ministry receives and approves it; rollout planned for 2026 after nationwide consultations"}
+  ],
+  "note": "The prototype is a phone application by which a mother or community health worker sends a birth to the ministry, which registers it; no registry office makes the record, so it is not of the civil class and gives no fact."
+}

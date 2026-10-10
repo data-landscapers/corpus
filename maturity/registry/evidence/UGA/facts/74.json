@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01 Maintaining civil registration amid COVID-19 - Uganda's mobile notification system (IDRC)",
+  "facts": [],
+  "systems": [
+    {"system": "MVRS", "country_label": "MVRS; mobile notification system", "class": "notification", "platform": "", "owner": "NIRA", "tiers": "in use in 112 of 135 districts and 222 of 5,230 birth-handling health facilities (2020)"}
+  ],
+  "note": "The file is a short companion page to a PDF, not the full text. It calls MVRS a mobile notification system and does not say where the record is made, so it is entered as notification and gives no fact. Its dated figures, for the parent: the lockdown from 31 March 2020 (extended to end-June) closed all district registration offices; NIRA recorded about 83,200 birth events electronically in January-August 2020, 21 per cent of the same period in 2019; MVRS in 112 of 135 districts and 222 of 5,230 health facilities."
+}

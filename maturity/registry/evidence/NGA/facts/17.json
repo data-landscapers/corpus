@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-05-nigeria-integrates-national-student-ids-digital-identity-system",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Database (NIN registry)", "country_label": "NIN", "class": "identity", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": ""}
+  ],
+  "note": "About linking learner identification numbers in the education information system to the identity register; nothing on civil registration."
+}

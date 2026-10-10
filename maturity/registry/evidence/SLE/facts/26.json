@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-sierra-leone-2023-elections-final-report",
+  "facts": [],
+  "systems": [
+    {"system": "Voter register extracted from the civil register", "country_label": "voter registry extracted from a civil registry", "class": "exchange", "platform": "", "owner": "Electoral Commission for Sierra Leone (ECSL) with the National Civil Registration Authority (NCRA)", "tiers": "National; the extract of NCRA's civil register was the basis of the September 2022 voter register update, and 3,374,258 persons were on the final register for the 24 June 2023 elections; citizens already in the civil register still had to appear in person"},
+    {"system": "Civil register", "country_label": "civil register", "class": "", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; named as the source of the voter register, with no description of how it is compiled"}
+  ],
+  "note": "The passages treat the civil register only as the source of the voter register; nothing says how births or deaths are recorded."
+}

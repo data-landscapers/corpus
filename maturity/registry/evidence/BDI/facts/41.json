@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-24 Burundi - biometric national ID card will not be available for 2025 voter enrolment",
+  "facts": [],
+  "systems": [
+    {"system": "biometric national identity card", "country_label": "carte nationale d'identité biométrique", "class": "identity", "platform": "", "owner": "", "tiers": "not available for the 2025 voter enrolment, per the electoral commission on 17 May 2024; enrolment to use the current identity card"},
+    {"system": "voter enrolment / voter census", "country_label": "enrôlement des électeurs", "class": "land", "platform": "", "owner": "Commission Electorale Nationale Indépendante (CENI)", "tiers": "voter census in 2024, valid for the 2025 and 2027 elections"}
+  ],
+  "note": "About the identity card and voter enrolment only; nothing on civil registration."
+}

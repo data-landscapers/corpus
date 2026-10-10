@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-19-civ-2026-323-78016001649",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:domestic", "fact": "The 2026 finance law (Loi de Finances n° 2025-987 of 19 December 2025) appropriates FCFA 500,000,000 from domestic revenue under section 323, Ministry of the Interior and Security, for activity 78016001649, supporting the process of modernising civil status/ONECI; the same amount as proposed, and identical in all three years per the record.", "as_of": "2026", "date_precision": "year", "system": "processus de modernisation de l'Etat civil/ONECI (budget activity 78016001649)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The 2026 finance law places the civil status modernisation line with the Ministry of the Interior and Security (section 323), for ONECI.", "as_of": "2026", "date_precision": "year", "system": "processus de modernisation de l'Etat civil/ONECI (budget activity 78016001649)", "class": "civil"}
+  ],
+  "systems": [],
+  "note": "A budget line, not a named information system: the facts are attached to the line's own label, 'modernisation de l'Etat civil/ONECI', which names no software and does not say what the money buys. The parent should weigh whether it counts as a domestic line for the civil registration system."
+}

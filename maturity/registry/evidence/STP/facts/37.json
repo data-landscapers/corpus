@@ -1,0 +1,39 @@
+{
+  "slug": "2025-04-07-governo-lanca-sistema-emissao-documentos-embaixada-portugal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Emissão de Documentos",
+      "country_label": "Sistema de Emissão de Documentos na Embaixada de São Tomé e Príncipe em Portugal",
+      "class": "certificate",
+      "platform": "A digital portal of the Direção Geral do Registo e Notariado, with direct access for embassies",
+      "owner": "Ministry of Foreign Affairs, Cooperation and Communities with the DGRN",
+      "tiers": "Embassy in Portugal from April 2025, for requests for birth certificates, the polycarbonate identity card, criminal record certificates and certificates of capacity to marry; to be extended to other embassies during 2025"
+    },
+    {
+      "system": "Sistema Integrado de Gestão de Assentos (SIGA)",
+      "country_label": "SIGA; Sistema Integrado de Gestão de Assentos",
+      "class": "",
+      "platform": "",
+      "owner": "Direção Geral do Registo e Notariado (DGRN)",
+      "tiers": "Not stated; implemented in 2017 by the minister's account, its data now processed digitally at the embassy"
+    },
+    {
+      "system": "Serviço Público Integrado",
+      "country_label": "Serviço Público Integrado",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "First opened in Mé-Zochi in 2024; a second to open shortly in Lobata"
+    },
+    {
+      "system": "Bilhete de Identidade em policarbonato",
+      "country_label": "Bilhete de Identidade",
+      "class": "identity",
+      "platform": "",
+      "owner": "Direção Geral do Registo e Notariado (DGRN)",
+      "tiers": "Requested through the embassy in Portugal"
+    }
+  ],
+  "note": "The embassy system is a counter for requesting copies and cards, not registration. SIGA is named, with its 2017 start, but the document does not say how or where its records are made, so no fact is taken."
+}

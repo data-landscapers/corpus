@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-05-seeks-expert-services-mass-birth-id-registration-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "civil registration and identification systems", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Justice, Constitutional and Religious Affairs", "tiers": "subject of an international tender for non-consulting services under the World Bank-funded EDGE project, published 11 December 2025 with bids due 5 February 2026; nothing on what the systems do"},
+    {"system": "national ID card issuance", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "cards issued free of charge with World Bank support; coverage limited in rural and hard-to-reach communities"}
+  ],
+  "note": "A tender for services to support mass birth and identity registration; the systems are named without any description of what they do or where, so no fact."
+}

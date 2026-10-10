@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [],
+  "systems": [
+    {"system": "Fayda", "country_label": "Fayda ID, National ID Program (NIDP)", "class": "identity", "platform": "", "owner": "National ID Program, led by the Prime Minister's Office through the National Identification Authority", "tiers": "registration centres across the country, including Addis Ababa Civil Registration and Residency Service Agency branch offices, Ethio telecom (29 locations), Ministry of Revenue (25 locations) and nine banks"},
+    {"system": "kebele ID", "country_label": "kebele ID", "class": "identity", "platform": "paper; no central database", "owner": "kebele administrations", "tiers": "over 16,000 kebeles; cards pre-printed or filled in by hand at the kebele office"}
+  ],
+  "note": "The Ethiopia chapter is about the Fayda digital ID. On civil registration it says only that kebeles issue birth certificates and that the paper-based, decentralised system it describes is the kebele ID; it states nothing about how a civil registration office records a birth or death."
+}

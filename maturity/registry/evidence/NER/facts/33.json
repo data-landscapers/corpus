@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-mot-du-coordonnateur-wuri-niger",
+  "facts": [],
+  "systems": [
+    {"system": "système d'identification de base des personnes (fID)", "country_label": "système d'identification de base (fID); numéro d'identifiant unique (NIU); système d'information national d'identification biométrique", "class": "identity", "platform": "", "owner": "WURI-Niger project, financed by the World Bank, under the Ministère de l'Intérieur, de la Sécurité Publique et de l'Administration du Territoire", "tiers": "not stated; procurement in preparation"},
+    {"system": "interopérabilité du fID avec les systèmes fonctionnels", "country_label": "interopérabilité du système fID avec les systèmes fonctionnels publics et privés", "class": "exchange", "platform": "", "owner": "WURI-Niger", "tiers": "project component, planned"}
+  ],
+  "note": "The WURI-Niger coordinator's page is about the foundational identity system. Birth registration appears only in the wording of SDG 16.9; nothing on civil-status offices."
+}

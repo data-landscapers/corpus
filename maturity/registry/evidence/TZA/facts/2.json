@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-17-tza-citizen-nida-number-digital-identity-jamii-namba",
+  "facts": [],
+  "systems": [
+    {"system": "national identification system", "country_label": "NIDA number / national identity card", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA), Ministry of Home Affairs", "tiers": "national; cards delivered to NIDA offices; child registration from birth under pilot in three districts"},
+    {"system": "Jamii Namba", "country_label": "Jamii Namba", "class": "identity", "platform": "", "owner": "government (NIDA)", "tiers": "national vision of one identity used across services"}
+  ],
+  "note": "Identity enrolment only (NIDA registration of children from birth piloted in three districts, card figures); the document states nothing about the civil registrar's system or offices."
+}

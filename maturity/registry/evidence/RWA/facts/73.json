@@ -1,0 +1,8 @@
+{
+  "slug": "2021-06-01 The Irembo model in Rwanda",
+  "facts": [],
+  "systems": [
+    {"system": "Irembo", "country_label": "Irembo", "class": "certificate", "platform": "", "owner": "Irembo, a private company in which the government holds a stake, under a 25-year agreement", "tiers": "online single-window platform with 4,000 agents; parents download a birth certificate within hours of a hospital registering the birth online"}
+  ],
+  "note": "An interview on the Irembo portal: its chief executive says in passing that a hospital registers a birth online, naming no registration system; the system described is the certificate channel."
+}

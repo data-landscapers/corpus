@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Document and Records Management System (EDRMS)", "country_label": "EDRMS", "class": "land", "platform": "built by Mediabox", "owner": "Directorate of Land Titles and National Cadastre (DTFCN); World Bank funded under PAFEN", "tiers": "internal tool of the directorate, launched 17 June 2025; integrated with the Building Permit System and the Property Management System"}
+  ],
+  "note": "A land administration system, out of scope; nothing on civil registration."
+}

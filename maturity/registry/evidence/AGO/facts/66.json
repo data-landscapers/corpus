@@ -1,0 +1,8 @@
+{
+  "slug": "2019-05-10-angola-decreto-presidencial-136-19-cadastro-social-unico",
+  "facts": [],
+  "systems": [
+    {"system": "civil identification system", "country_label": "sistema de identificação civil", "class": "identity", "platform": "", "owner": "", "tiers": "not stated; the Cadastro Social Único uses civil identification as a rule and its biometrics are to interoperate with it where possible (art. 26)"}
+  ],
+  "note": "The founding decree of the single social registry, which is a social-protection register outside the study's classes. Birth registration appears only as a duty on provincial managers to develop strategies for access to civil documentation, preferably birth registration (art. 11); nothing on how civil registration offices make the record."
+}

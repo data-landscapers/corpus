@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural registry offices in Ethiopia, the kebeles (92 per cent of operational sites), rely entirely on paper-based manual registration in bound booklets with carbon copies, the original staying local and copies passing upward; it gives no date for this, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "kebele civil registration (paper booklets)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The essay's country table states that digitalisation is limited to urban pilots: 100 kebeles in Addis Ababa computerised, a tablet 'ME-CRVS' in 1,300 kebeles, and fragmented home-grown or open-source systems in regions such as Oromia and Amhara, with no routine point-of-service digital use in most rural offices; it gives no total of kebeles and no date, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Addis Ababa computerised kebeles; ME-CRVS; regional systems", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The essay's country table names a CRVS Strategy 2022-26, Digital Ethiopia 2030 and a 2025 Proclamation as national policy aiming at full digital linkage of civil registration to the national ID (Fayda); undated beyond those titles, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "civil registration (national plans)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Addis Ababa computerised kebele registration", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "100 kebeles in Addis Ababa, described as an urban pilot"},
+    {"system": "ME-CRVS", "country_label": "tablet ME-CRVS", "class": "", "platform": "tablet", "owner": "", "tiers": "1,300 kebeles"},
+    {"system": "regional civil registration systems", "country_label": "", "class": "civil", "platform": "home-grown and open-source, fragmented", "owner": "regions", "tiers": "regions such as Oromia and Amhara"},
+    {"system": "Fayda", "country_label": "NID / Fayda ID", "class": "identity", "platform": "", "owner": "", "tiers": "linkage to civil registration is a policy aim"}
+  ],
+  "note": "This source is listed in study.json exclude_sources (an AI-assisted compilation by its own header); the facts above record what its Ethiopia registry row states, for the parent to handle under that exclusion. The row also says conflict cut kebele operations from 90 to 70 per cent, undated."
+}

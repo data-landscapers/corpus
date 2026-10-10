@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-seyid-minor-id-wallet",
+  "facts": [],
+  "systems": [
+    {"system": "Minor ID (SeyID ID-Wallet)", "country_label": "Minor ID / Minor's Identity Card", "class": "identity", "platform": "SeyID ID-Wallet", "owner": "SeyID Portal, Government of Seychelles", "tiers": "mobile app; activated by a parent or guardian"}
+  ],
+  "note": "A product page for a child's virtual identity card activated by a parent in the SeyID wallet; an identity system, and nothing on how a birth is registered."
+}

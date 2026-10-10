@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-25-cd-walikale-registres-naissance-identite",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The chief of the Wanianga sector, Walikale territory (North Kivu), told the provincial head of Interior and Security on 23 July 2026 that his civil registration office had had no birth registers for several months and so could not register newborns: at this one office registration rests on the paper register book, and no digital means is mentioned.", "as_of": "2026-07-23", "date_precision": "day", "system": "bureau de l'état civil du secteur des Wanianga", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "regressing", "fact": "ACTUALITE.CD reports that on 23 July 2026 the Wanianga sector civil registration office (Walikale, North Kivu) had been out of birth registers for several months, halting the registration of births there; the province promised resupply as soon as possible, with no date.", "as_of": "2026-07-23", "date_precision": "day", "system": "bureau de l'état civil du secteur des Wanianga", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "bureau de l'état civil du secteur des Wanianga", "country_label": "bureau de l'état civil (secteur)", "class": "civil", "platform": "paper birth registers (registres de naissance), supplied by the provincial hierarchy", "owner": "the sector administration, under the provincial division of Interior and Security of North Kivu", "tiers": "one sector office in Walikale territory; its agents were trained in July 2026 on registration procedure, keeping of registers and conservation of archives"}
+  ],
+  "note": ""
+}

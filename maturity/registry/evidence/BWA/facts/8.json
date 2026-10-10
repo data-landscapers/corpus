@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-01-bwa-2026-0400-12061",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic National Identification System (Biometric Omang)", "country_label": "Biometric Omang", "class": "identity", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": "P31,700,000 of the P42,019,862 Computerisation line, FY2026/27; project stated not to have progressed owing to a change of scope"},
+    {"system": "Births and Deaths Registration System (BDRS)", "country_label": "Births and Deaths Registration System", "class": "", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""},
+    {"system": "National Identification System", "country_label": "National Identification System", "class": "identity", "platform": "", "owner": "Ministry of Labour and Home Affairs", "tiers": ""}
+  ],
+  "note": "The Computerisation development line (P42,019,862, domestic) is itemised to the biometric identity system, a library system and a records system, none of them civil registration; the BDRS appears only in a note repeating the separate recurrent provision recorded from document 7."
+}

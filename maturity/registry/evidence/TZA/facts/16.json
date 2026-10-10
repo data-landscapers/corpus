@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-06-tanzania-legislative-framework-infant-id-registration",
+  "facts": [],
+  "systems": [
+    {"system": "eRITA", "country_label": "eRITA platform: users apply for registration documents online, track and receive them; upgraded so birth certificates issue within 48 hours", "class": "certificate", "platform": "", "owner": "Registration, Insolvency and Trusteeship Agency (RITA)", "tiers": "online"},
+    {"system": "decentralised one-stop facilities", "country_label": "decentralised one-stop birth registration facilities introduced under RITA's reforms", "class": "", "platform": "", "owner": "RITA", "tiers": "operational in all 26 mainland regions"},
+    {"system": "national ID / infant registration", "country_label": "NIDA national ID; Infant Registration Bill to register children at birth with a unique number", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": "national; bill to be tabled, pilot with UNICEF"}
+  ],
+  "note": "Describes eRITA only as an online channel for applying for, tracking and receiving documents, and the one-stop facilities without saying whether they register digitally; birth registration coverage of 60 per cent in 2022 (UNICEF) is a share of births."
+}

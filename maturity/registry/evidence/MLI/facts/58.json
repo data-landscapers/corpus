@@ -1,0 +1,9 @@
+{
+  "slug": "2006-08-11-mali-loi-06-040-numero-identification-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "Numéro d'Identification Nationale (NINA) and répertoire national d'identification", "country_label": "NINA; répertoire national d'identification", "class": "identity", "platform": "", "owner": "Service national chargé de la statistique", "tiers": ""},
+    {"system": "NINA written on the birth act", "country_label": "NINA inscrit en marge de l'acte de naissance et sur les actes d'Etat civil", "class": "exchange", "platform": "", "owner": "", "tiers": "The number attributed at birth or adoption is written in the margin of the birth act (Article 5) and on civil status acts (Article 7)"}
+  ],
+  "note": "The law institutes the national identification number and requires it on the birth act; it says nothing on how offices record a birth or death."
+}

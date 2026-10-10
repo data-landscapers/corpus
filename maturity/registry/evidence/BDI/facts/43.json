@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-01-unhcr-burundi-demander-asile-enregistrement-progres-bims",
+  "facts": [],
+  "systems": [
+    {"system": "proGres", "country_label": "base de données proGres", "class": "identity", "platform": "proGres (UNHCR)", "owner": "Office National de Protection des Réfugiés et des Apatrides (ONPRA), under the interior ministry, with UNHCR", "tiers": "asylum seekers registered at ONPRA's head office in Bujumbura and, since February 2024, at the Cishemere and Makombe transit centres"},
+    {"system": "BIMS", "country_label": "système BIMS", "class": "identity", "platform": "BIMS (UNHCR biometric identity management system)", "owner": "ONPRA with UNHCR", "tiers": "fingerprint and iris enrolment of asylum seekers at registration; refugee identity cards (CIR) issued by ONPRA"}
+  ],
+  "note": "UNHCR's asylum procedure page: registration and biometric enrolment of asylum seekers and refugees, an identity matter; nothing on the registration of births or deaths."
+}

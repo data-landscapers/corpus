@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-02-contrat-objectifs-121000-actes-etat-civil-deplaces",
+  "facts": [],
+  "systems": [
+    {"system": "Fully digitised civil-status registers", "country_label": "registres d'état civil entièrement numérisés", "class": "archive", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Mobilité", "tiers": "30 communes, per the minister at the evaluation of his 2025 performance contract on 2 February 2026"},
+    {"system": "Issue of civil-status acts to internally displaced people", "country_label": "délivrance d'actes d'état civil aux personnes déplacées internes", "class": "outreach", "platform": "", "owner": "Ministère de l'Administration territoriale et de la Mobilité", "tiers": "more than 121,000 acts in 2025 against 65,000 planned"}
+  ],
+  "note": "The document reports registers digitised in 30 communes and acts issued to displaced people; it does not say that any office enters new events digitally."
+}

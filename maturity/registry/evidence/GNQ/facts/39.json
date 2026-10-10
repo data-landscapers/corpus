@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-inege-estrategia-nacional-desarrollo-estadistica-2022-2026",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The national statistics strategy for 2022-2026, which carries a budget annex, sets as expected result 1.1.6 a civil registry system established and vital statistics produced, measured by the percentage of progress in implementing the civil registry system, with INEGE named against it; the passages do not say what the system does or where (no date given; dated to the document's published year).", "as_of": "2022", "date_precision": "year", "system": "Sistema de registro civil (ENDE 2022-2026 expected result 1.1.6)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Sistema de registro civil (ENDE 2022-2026 expected result 1.1.6)", "country_label": "Sistema de registro civil", "class": "civil", "platform": "", "owner": "INEGE is the body named against the result", "tiers": "not stated"},
+    {"system": "Base de datos de hechos vitales", "country_label": "Base de datos de hechos vitales", "class": "", "platform": "", "owner": "INEGE", "tiers": "not stated; a validated vital-events database is the result's target"}
+  ],
+  "note": "The system is classed civil on the phrase 'sistema de registro civil' alone; the passages describe nothing of its function, so the parent may prefer to leave it unclassified and drop the fact."
+}

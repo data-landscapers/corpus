@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-11-burundi-civil-registry-digitization-biometric-id",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:13", "fact": "Thirteen communes already have a 'biometric registration system' within the digital modernisation of the civil registration system, as reported on African civil registration day; no total of communes or offices is given.", "as_of": "2026-08-10", "date_precision": "day", "system": "système d'enregistrement biométrique (état civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The article states that the digitisation rests on the registration of civil-status events in pilot communes, with services decentralised down to zone level.", "as_of": "2026-08-10", "date_precision": "day", "system": "système d'enregistrement biométrique (état civil)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "As of 10 August 2026 thirteen communes had the system and the authorities were progressively extending the digitisation and decentralisation of civil registration services.", "as_of": "2026-08-10", "date_precision": "day", "system": "système d'enregistrement biométrique (état civil)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "système d'enregistrement biométrique (état civil)", "country_label": "système d'enregistrement biométrique", "class": "civil", "platform": "", "owner": "", "tiers": "13 pilot communes; services decentralised to zone level"},
+    {"system": "interopérabilité état civil - services de santé", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "births and deaths registered in health facilities are integrated into the civil registration arrangement"},
+    {"system": "notification through chefs de collines", "country_label": "", "class": "notification", "platform": "", "owner": "", "tiers": "planned, for events occurring at home"},
+    {"system": "système national d'identité numérique", "country_label": "système national d'identité numérique", "class": "identity", "platform": "", "owner": "", "tiers": "being set up; unique identification number with fingerprint and facial biometrics"}
+  ],
+  "note": "The thirteen-commune system is called a 'biometric registration system' and is presented as civil registration digitisation; the article does not say which events it records or how the record is made. UNICEF figures on children registered (84%) and holding a certificate (66%) are shares of births, not of offices."
+}

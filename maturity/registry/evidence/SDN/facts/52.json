@@ -1,0 +1,13 @@
+{
+  "slug": "2022-01-01-sudan-health-information-system-assessment-2020",
+  "facts": [],
+  "systems": [
+    {"system": "CRVS system", "country_label": "civil registration and vital statistics (CRVS) system", "class": "", "platform": "", "owner": "CRVS office, Ministry of the Interior", "tiers": ""},
+    {"system": "updated death registration system", "country_label": "updated death registration system, with a standardised death notification form", "class": "notification", "platform": "", "owner": "Federal Ministry of Health", "tiers": "health facilities; reviewed 2015, endorsed 2016, implementation still facing challenges in 2020"},
+    {"system": "birth notification form", "country_label": "comprehensive birth notification form", "class": "notification", "platform": "", "owner": "Federal Ministry of Health, HIS department", "tiers": "developed, not yet implemented in 2020"},
+    {"system": "notification of births and deaths by authorised community leaders and teachers", "country_label": "", "class": "notification", "platform": "", "owner": "civil authorities", "tiers": "areas where health facilities do not exist"},
+    {"system": "CRVS office registration campaigns", "country_label": "registration campaigns", "class": "outreach", "platform": "", "owner": "CRVS office", "tiers": "areas where health facilities do not exist"},
+    {"system": "community-based health information system", "country_label": "community-based health information system", "class": "", "platform": "", "owner": "", "tiers": "community"}
+  ],
+  "note": "The passages treat civil registration as a source of health data: birth registration 67.3%, death registration about 28%, a CRVS strategic plan of 2014, and the CRVS office under the Ministry of the Interior. None describes a digital system at the registry office or says how the office makes the record, so no system of class civil is described and no fact is taken."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-28-angola-home-delivery-id-card-fee",
+  "facts": [],
+  "systems": [
+    {"system": "Tratamento e entrega do Bilhete de Identidade ao Domicílio", "country_label": "BI ao Domicílio", "class": "identity", "platform": "delivery requested at the portal bientregas.ao; home processing requested by WhatsApp", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "Luanda province only in a first phase, launched 28 July 2026"}
+  ],
+  "note": "A report of the fees for the home identity-card service; civil identification only, nothing on civil registration."
+}

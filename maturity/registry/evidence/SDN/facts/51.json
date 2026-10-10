@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-sudan-de4a-diagnostic-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "National Civil Registry (NCR)", "country_label": "National Civil Registry (NCR)", "class": "identity", "platform": "", "owner": "", "tiers": "NCR offices and about 1,400 mobile registration kits; coverage by state not universal (2020 estimates)"}
+  ],
+  "note": "The passages describe the National Civil Registry as Sudan's foundational ID system, issuing a national number, its certificate and the national ID card, with registration and management fully digitised but coverage not universal; nothing in them says a birth or death is entered digitally at the office where it is declared, so the system is identity and gives no fact. The sentence listing what the system issues breaks off at 'civil registration' in the passages."
+}

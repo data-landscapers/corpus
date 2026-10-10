@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23-unicef-partner-birth-registration-legal-identity",
+  "facts": [],
+  "systems": [
+    {"system": "Simplified Birth Registration System", "country_label": "Simplified Birth Registration System", "class": "", "platform": "", "owner": "government, with UNICEF as partner since 2012", "tiers": "not stated; under-five registration said to have risen to 61-76 per cent in the last five years"},
+    {"system": "BRIDGE-Tanzania birth registration awareness project", "country_label": "EU-funded BRIDGE-Tanzania: communication, community sensitisation and district-level coordination by an NGO for UNICEF", "class": "outreach", "platform": "", "owner": "UNICEF, EU-funded (indicative budget $330,000)", "tiers": "ten districts in Tanga, Mwanza and Dar es Salaam, 1 August 2026 to 31 August 2027"},
+    {"system": "infant biometric registration", "country_label": "infant biometric registration pilot of 2025, with a bill announced", "class": "identity", "platform": "", "owner": "government, with UNICEF support", "tiers": "pilot"}
+  ],
+  "note": "Names the Simplified Birth Registration System as a platform without saying what it does or where the record is entered; the project it reports is community awareness work, and the figures are shares of births."
+}

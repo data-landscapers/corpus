@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-21-sudan-launches-sudapass-digital-id",
+  "facts": [],
+  "systems": [
+    {"system": "SUDAPASS", "country_label": "SUDAPASS national digital identity", "class": "identity", "platform": "", "owner": "Ministry of Digital Transformation and Telecommunications, through the Sudanese Cybersecurity Authority and the National Electronic Authentication Authority, in coordination with the Ministry of Interior's Civil Registry", "tiers": "national digital identity for electronic authentication and digital signature, launched in Khartoum on 21 May 2026"},
+    {"system": "SUDAPASS integration with civil registry databases", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "officials gave technical briefings at the launch on integration with civil registry databases"},
+    {"system": "civil registry databases", "country_label": "Civil Registry", "class": "", "platform": "", "owner": "Ministry of Interior", "tiers": "named only as the databases SUDAPASS integrates with; what they hold is not described"}
+  ],
+  "note": "The document reports the launch of the national digital identity and its integration with civil registry databases; it states nothing about how births or deaths are registered."
+}

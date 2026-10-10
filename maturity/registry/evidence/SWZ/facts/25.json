@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "The essay's country table says rural registry offices (it names Hlatikhulu, Hluti and Nhlangano) work a hybrid: informants bring a chief's or indvuna's letter, officers fill the paper BMD-1 form by hand, and typists then enter the data into the National Population Register over networked terminals; it gives no date for the practice, so the essay's published date of 31 March 2026 is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Population Register (NPR)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The essay's country table describes electronic entry of births, from the BMD-1 form, into the National Population Register at registry offices, and speaks more broadly of 'vital events' without naming deaths; undated, so the published date of 31 March 2026 is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Population Register (NPR)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "share:100%", "fact": "The essay's country table states that all district-level civil registration offices countrywide, rural ones included, have digitised databases with electronic entry of vital events; it gives no count of offices and no year, so the published date of 31 March 2026 is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "National Population Register (NPR)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "The essay's country table cites a national CRVS plan for 2022-27 that pushes integration and mobile units, and a 2024 tender for a further digital roadmap.", "as_of": "2022", "date_precision": "year", "system": "National Population Register (NPR)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Population Register (NPR)", "country_label": "National Population Register; BMD-1 form", "class": "civil", "platform": "", "owner": "civil registration offices (CRD); ministry not named", "tiers": "all district-level civil registration offices countrywide, including rural ones such as Hlatikhulu, Hluti and Nhlangano, by networked terminals"},
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "notification", "platform": "", "owner": "Ministry of Health", "tiers": "health facilities, said to be 'linked via CMIS' while registration takes place at civil registration offices"}
+  ],
+  "note": "This source is on the study's exclude_sources list (an AI-assisted compilation by its own header); its facts are recorded as stated and are for the parent to treat accordingly. Passages file read whole."
+}

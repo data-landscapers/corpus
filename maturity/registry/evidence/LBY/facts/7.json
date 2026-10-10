@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop",
+  "facts": [],
+  "systems": [
+    {"system": "Libyan Digital National Identity (LY-DNID)", "country_label": "LY-DNID", "class": "identity", "platform": "", "owner": "General Information Authority (GIA)", "tiers": "national; digital verification across government bodies"},
+    {"system": "Libyan National Data Exchange (LY-NDEX)", "country_label": "LY-NDEX", "class": "exchange", "platform": "", "owner": "General Information Authority (GIA)", "tiers": "national; information exchange between government bodies; no link to the civil register is stated"}
+  ],
+  "note": "A workshop on information exchange against money laundering; the Civil Status Authority is listed as a participant and nothing is said of civil registration."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-21-digital-birth-notification-system-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "digital birth notification system", "country_label": "e-notification", "class": "notification", "platform": "", "owner": "Civil Registration Services, State Department for Immigration and Citizen Services", "tiers": "pilot: hospitals alert Civil Registration authorities of new births for registration; phased, starting with Nairobi County, Nairobi Hospital implementing by April 2026, hospitals being onboarded and trained, national rollout planned"},
+    {"system": "Unique Personal Identifier", "country_label": "UPI", "class": "identity", "platform": "", "owner": "", "tiers": "issued on registration of a notified birth"},
+    {"system": "Maisha Namba", "country_label": "Maisha Namba", "class": "identity", "platform": "", "owner": "", "tiers": "national digital identity system, to which the UPI will connect"}
+  ],
+  "note": "The system is described as a pilot in which hospitals digitally alert the civil registration authorities, who then register: a notification. The document does not say how the registration that follows is entered."
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "2025-04-01-uncdf-payment-infrastructure-assessment-sao-tome-and-principe",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "UNCDF describes CivID, the DGRN's first-time registration software (CivID 1.1), as a computerised civil registration and identification system used to record births, deaths and other occurrences, with an upgrade to CivID 2.0 to add birth registrations, certificate printing in the same system and mobile access; the report's data run to September 2023 and it does not say where the entry is made.",
+      "as_of": "2023-09",
+      "date_precision": "month",
+      "system": "CivID",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "UNCDF states that the DGRN, the agency mandated to coordinate national identification services, modernises the country's civil registration and vital statistics systems and introduced the CivID software; the report's data run to September 2023.",
+      "as_of": "2023-09",
+      "date_precision": "month",
+      "system": "CivID",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "UNCDF states that the DGRN modernises the civil registration and vital statistics systems under the National Strategy for Permanent Birth Registration (ENRPN), with CivID introduced under it; the strategy's period is not given, and the report's data run to September 2023.",
+      "as_of": "2023-09",
+      "date_precision": "month",
+      "system": "CivID",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "CivID",
+      "country_label": "CivID 1.1; CivID 2.0 (planned upgrade); first-time registration software",
+      "class": "civil",
+      "platform": "CivID",
+      "owner": "General Directorate of Registries and Notaries (DGRN)",
+      "tiers": "Not stated"
+    },
+    {
+      "system": "National identity (NID) cards",
+      "country_label": "NID; personal identification cards",
+      "class": "identity",
+      "platform": "",
+      "owner": "General Directorate of Registries and Notaries (DGRN)",
+      "tiers": "Not stated; holding a card is not mandatory, coverage is not public and the system is not integrated with retail payment systems"
+    }
+  ],
+  "note": "The document is a payments assessment; its one paragraph on identification is the source of the facts. It does not say how or in which offices CivID records are entered."
+}

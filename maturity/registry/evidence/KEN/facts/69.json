@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-01-ken-2024-immigration-population-management",
+  "facts": [],
+  "systems": [
+    {"system": "Maisha Namba third-generation ID issuance", "country_label": "Maisha Namba", "class": "identity", "platform": "", "owner": "National Registration Bureau", "tiers": "national; target of 7.5m cards in FY2024/25"},
+    {"system": "IPRS", "country_label": "IPRS", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "national"},
+    {"system": "Civil registration (birth certificates)", "country_label": "civil registration", "class": "", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "target of 6.3m birth certificates in FY2024/25"}
+  ],
+  "note": "A domestic budget line: Vote 1024 programme 0626000 Population Management Services, KES 6,836,307,352 appropriated for FY2024/25 (June 2024), covering the National Registration Bureau, civil registration (6.3m birth certificates) and IPRS, with Civil Registration absorbing 99 percent. It funds the civil registration service without naming or describing a registration system, so no fact is taken; the parent may want it for governance finance."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-17-journee-internationale-identite-25-millions-actes",
+  "facts": [],
+  "systems": [
+    {"system": "RAVIP", "country_label": "RAVIP", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "launched in 2017; more than 2.5 million secured birth acts delivered since, on ANIP's director general's account of 16 September 2025"},
+    {"system": "Secured birth acts", "country_label": "actes de naissance sécurisés", "class": "certificate", "platform": "", "owner": "ANIP", "tiers": "more than 2.5 million delivered since 2017"},
+    {"system": "National file", "country_label": "fichier national fiable", "class": "", "platform": "", "owner": "ANIP", "tiers": "named beside the personal identification number and the computerised electoral list; not described"},
+    {"system": "Computerised electoral list", "country_label": "liste électorale informatisée", "class": "land", "platform": "", "owner": "ANIP", "tiers": "national"}
+  ],
+  "note": "ANIP's director general credits a 2021 law on the dematerialisation of civil status and restates the 2028 target of legal identity for all; the document names no system by which an office records a birth or death, so the law has no system to attach to."
+}

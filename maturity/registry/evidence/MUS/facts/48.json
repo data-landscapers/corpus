@@ -1,0 +1,10 @@
+{
+  "slug": "1986-04-11-national-identity-card-act-version-3",
+  "facts": [],
+  "systems": [
+    {"system": "MNIC System", "country_label": "MNIC System", "class": "identity", "platform": "", "owner": "National Identity Card Unit, under the Prime Minister's Office", "tiers": "offices designated by the Head of the Unit; registration, personalisation and issuance of the identity card and Mobile ID"},
+    {"system": "identity register", "country_label": "register kept under section 3", "class": "identity", "platform": "", "owner": "Head of the National Identity Card Unit", "tiers": "kept in electronic form at an office the Minister designates; records the identity particulars of every citizen"},
+    {"system": "Mobile ID", "country_label": "Mobile ID, stored in the digital wallet", "class": "identity", "platform": "", "owner": "National Identity Card Unit", "tiers": "optional for holders of an identity card, from 19 February 2024"}
+  ],
+  "note": "The identity card law: the card is applied for at 18 on a birth certificate, the Head of the Unit consults the Registrar of Civil Status and cancels a card on registration of death; nothing on how a birth or death is registered."
+}

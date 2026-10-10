@@ -1,0 +1,9 @@
+{
+  "slug": "2018-11-27-boletim-oficial-48-decreto-6-2018-regulamento-geral-lei-da-terra",
+  "facts": [],
+  "systems": [
+    {"system": "Cadastro Nacional de Terras", "country_label": "Cadastro Nacional de Terras; Atlas; Livro de Tombo; Tombo geral das concessões", "class": "land", "platform": "", "owner": "Direção-Geral de Geografia e Cadastro", "tiers": "national, fed by the sector ministries and the national, regional, sectoral and section land commissions"},
+    {"system": "Matriz Predial", "country_label": "Matriz Predial", "class": "land", "platform": "books", "owner": "repartições de finanças", "tiers": "finance offices"}
+  ],
+  "note": "The general regulation of the land law: land concessions, cadastre and land commissions only. It names the Direção-Geral da Identificação Civil, dos Registos e do Notariado as a land institution and says nothing of civil registration. The capture is truncated at art. 22 and partly garbled."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-19 Madagascar's digital governance, ID project timeline extended to 2026",
+  "facts": [],
+  "systems": [
+    {"system": "unified biometric national ID system", "country_label": "", "class": "identity", "platform": "Laxton enrolment kits; database management system from IN Groupe", "owner": "PRODIGY, supported by about $143 million from the World Bank, closing date extended to 30 June 2026", "tiers": "procurement of the biometric ID system, enrolment kits and scanners planned between June 2025 and June 2026"},
+    {"system": "civil-registration integration systems", "country_label": "", "class": "", "platform": "", "owner": "PRODIGY", "tiers": "named among planned procurements, with modernising civil-registry infrastructure; what they do is not described"}
+  ],
+  "note": "Reports the extension of PRODIGY and its planned procurements; civil registration systems are named as purchases to come, with no description of what they do or where they run."
+}

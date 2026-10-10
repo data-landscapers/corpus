@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZWE,civil,governance,qualifier,owner:ministry;finance:donor,2026-08-13,ZWE-005;ZWE-006,ZWE-001=finance:donor;ZWE-009=finance:donor;ZWE-011=owner:ministry;ZWE-014=finance:domestic;ZWE-015=owner:ministry;ZWE-017=owner:ministry;ZWE-021=owner:ministry;ZWE-022=finance:donor;ZWE-025=owner:ministry;ZWE-027=owner:ministry,not stated: plan
+ZWE,civil,events,coverage,B,2025-07-15,ZWE-019,,
+ZWE,civil,made,coverage,connected,2025-07-15,ZWE-020,ZWE-003=paper;ZWE-007=paper;ZWE-024=paper;ZWE-026=paper,
+ZWE,civil,last12,qualifier,advancing,2026-08-13,ZWE-002;ZWE-004;ZWE-008;ZWE-016;ZWE-023,ZWE-013=regressing,
+ZWE,civil,offices,coverage,count:93,2026-07-22,ZWE-010,ZWE-018=count:20,

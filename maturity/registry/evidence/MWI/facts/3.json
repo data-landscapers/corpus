@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Next Generation Digital Identification Programme", "country_label": "Next Generation Digital Identification Programme", "class": "identity", "platform": "", "owner": "National Registration Bureau, financed under the World Bank Digital Malawi Acceleration Project", "tiers": "contract signed in January-June 2026 for 2,400 biometric registration kits; goal of enrolling a further two million people"},
+    {"system": "Bomalathu Digital Services Platform", "country_label": "Bomalathu", "class": "", "platform": "", "owner": "Government of Malawi, hosted at the National Data Centre", "tiers": "central government e-services; six services onboarded, 19 being integrated"}
+  ],
+  "note": "For Malawi the report covers the Digital Malawi Acceleration Project: identity kits for the National Registration Bureau and a review of the National Registration Act. It states nothing about how births or deaths are registered; its civil registration mentions concern the DRC and Zambia."
+}

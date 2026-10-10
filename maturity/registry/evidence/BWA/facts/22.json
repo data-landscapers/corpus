@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-national-identity-card-application-botswana",
+  "facts": [],
+  "systems": [
+    {"system": "National Identity Document (Omang)", "country_label": "Omang", "class": "identity", "platform": "", "owner": "Department of Civil and National Registration", "tiers": "applications taken at head office and regional and district offices nationwide; cards made at a centralised production centre in 14 working days"}
+  ],
+  "note": "A service page for the national identity card; a birth certificate is a required document, but nothing is said on how births or deaths are registered. Body is an excerpt."
+}

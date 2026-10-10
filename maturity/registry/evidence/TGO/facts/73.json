@@ -1,0 +1,23 @@
+{
+  "slug": "2021-04-01-togo-mentd-strategie-togo-digital-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "portail unique des services publics digitalisés",
+      "country_label": "portail unique (portail central des services publics digitalisés)",
+      "class": "certificate",
+      "platform": "",
+      "owner": "Ministère de l'Économie Numérique et de la Transformation Digitale (MENTD), strategy lead",
+      "tiers": "planned in April 2021 as a national single portal for citizens and businesses; requests for birth, marriage and death acts are among its 20 priority services, to be digitalised end to end and tied to a unique identifier per citizen"
+    },
+    {
+      "system": "e-ID",
+      "country_label": "projet d'identification nationale biométrique e-ID",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; named as supporting the requests for birth, marriage and death acts, nationality certificate, identity card, passport, visa and residence card"
+    }
+  ],
+  "note": "No fact: the passages are a plan (April 2021) to put the request for and delivery of copies of civil-status acts on a single portal, a certificate service; they say nothing of how or where a birth or death is registered, and name no registrar's system."
+}

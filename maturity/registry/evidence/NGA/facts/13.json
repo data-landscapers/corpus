@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-16-fij-npc-vitalreg-wrong-family-records",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The document describes VitalReg as the digital birth registration recently launched by the National Population Commission, with a Birth Section a parent reaches after verifying his NIN and account; a Lagos father found there on 15 August 2026 a birth registered under his name that he did not know.", "as_of": "2026-08-15", "date_precision": "day", "system": "VitalReg", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "VitalReg", "country_label": "VitalReg; birth registration website", "class": "civil", "platform": "VitalReg", "owner": "National Population Commission (NPC)", "tiers": "an online portal a parent signs in to with a verified NIN; it also displays charges for birth certificates and birth attestation"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Civil Register (NCR) / National ID", "country_label": "National Civil Register (NCR)", "class": "identity", "platform": "", "owner": "", "tiers": "listed as Sudan's foundational ID system and credential; no digital ID coded (No), adult coverage estimated from the voter registration rate"}
+  ],
+  "note": "A global identity-coverage dataset; its only statement on Sudan is one annex row naming the National Civil Register as the foundational ID system with no digital ID, and it says nothing about how births or deaths are registered there."
+}

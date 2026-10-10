@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-06-pnud-digitalisation-etat-civil-burundi",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "UNDP states that the civil status service of Gitega commune is being transformed towards digitalisation with UNDP's technical and financial support; no domestic budget line or amount is given, and the article is undated as to the event, so its publication date is used.", "as_of": "2025-01-06", "date_precision": "day", "system": "digitalisation du Service d'État Civil de la Commune de Gitega", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:1", "fact": "The article names one office, the civil status service of Gitega commune, as in transition to digitalisation, where the electronic method now lets a record be found by the person's name; it gives no total and no date for the event, so its publication date is used.", "as_of": "2025-01-06", "date_precision": "day", "system": "digitalisation du Service d'État Civil de la Commune de Gitega", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "digitalisation du Service d'État Civil de la Commune de Gitega", "country_label": "digitalisation de l'État Civil", "class": "civil", "platform": "", "owner": "Commune de Gitega (Service d'État Civil), with UNDP technical and financial support", "tiers": "Gitega commune; the article also speaks of a transition to digitalised data across the country without naming other offices"}
+  ],
+  "note": "The article says the registration process for births, deaths and marriages was revisited and that records are now retrievable electronically, but does not say whether the event is entered digitally when it is registered or the registers are captured afterwards; the civil class is the nearer reading and the parent may judge it archive. UNDP names 'digitalisation of civil status with biometric identity' as a key result of its country programme."
+}

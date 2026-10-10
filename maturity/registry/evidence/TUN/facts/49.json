@@ -1,0 +1,10 @@
+{
+  "slug": "2020-05-15-tunisie-decret-2020-312-identifiant-unique-citoyen",
+  "facts": [],
+  "systems": [
+    {"system": "Registre de l'identifiant unique citoyen", "country_label": "Registre de l'identifiant unique citoyen", "class": "identity", "platform": "a digital platform for its management, to be set up by the minister of local affairs", "owner": "ministre chargé des Affaires locales, through the Unité de gestion du Registre; Centre national de l'informatique for technical and operational tasks", "tiers": "holds Tunisian nationals entered in the civil status registers of the communes and of diplomatic missions and consulates, and naturalised persons; civil status officers must update its data within seven days of an entry; its data has probative force until proved otherwise and may stand in for the paper registers"},
+    {"system": "base de données de l'état civil", "country_label": "base de données de l'état civil", "class": "", "platform": "", "owner": "Unité de gestion du Registre de l'identifiant unique citoyen, ministère chargé des affaires locales (article 24)", "tiers": "named as managed by the Unit together with the Register; not described"},
+    {"system": "plateforme d'état civil", "country_label": "plateforme d'état civil", "class": "", "platform": "", "owner": "", "tiers": "named in article 4: agents who deliver civil status acts may not disclose the identifier on it; not otherwise described"}
+  ],
+  "note": "The decree of 15 May 2020 governs the citizen identifier and its register, an identity system fed from the civil status registers; it names a civil status database and platform without describing how an office makes the record, so no fact."
+}

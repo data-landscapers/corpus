@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)",
+  "facts": [],
+  "systems": [
+    {"system": "National ID Card (NIDA Card)", "country_label": "NIDA Card; NIDA Online Registration Portal / e-Registration Portal", "class": "identity", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": "Online application, then submission and biometric registration at NIDA district offices; open to citizens aged 18 and above and permitted residents"}
+  ],
+  "note": "Guidance on applying for the national identity card; a birth certificate appears only as a supporting document, and nothing is stated about civil registration."
+}

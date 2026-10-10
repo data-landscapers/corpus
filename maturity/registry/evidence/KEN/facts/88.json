@@ -1,0 +1,10 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [],
+  "systems": [
+    {"system": "National ID card system with Automated Fingerprint Identification System (AFIS)", "country_label": "national ID card", "class": "identity", "platform": "", "owner": "National Registration Bureau, Ministry of Interior", "tiers": "national; over 25.3 million cards issued by June 2017"},
+    {"system": "Integrated Population Registration System (IPRS)", "country_label": "IPRS", "class": "exchange", "platform": "", "owner": "Government of Kenya (Ministry of Interior)", "tiers": "national; consolidating data of the National Registration Bureau, Department of Civil Registration, Immigration Services and Refugee Affairs; service providers can verify a national ID card or birth certificate online"},
+    {"system": "Refugee ID system", "country_label": "", "class": "identity", "platform": "", "owner": "Department of Refugee Affairs, Ministry of Interior", "tiers": "national; database integrated with the national ID and alien registration systems through the IPRS"}
+  ],
+  "note": "A regional study of national ID systems. On Kenya's civil registration it says only that the Department of Civil Registration maintains a separate registry of births and deaths and that its data is being consolidated into the IPRS; it does not say how or where events are recorded."
+}

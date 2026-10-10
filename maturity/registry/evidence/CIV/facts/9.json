@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-cote-divoire-unhcr-factsheet-january-june-2026",
+  "facts": [],
+  "systems": [
+    {"system": "national refugee database", "country_label": "national refugee database", "class": "identity", "platform": "", "owner": "Government (DAARA, under the National Security Council) with UNHCR support", "tiers": "registration of refugees and asylum-seekers, reported for the north (Bounkani and Tchologo)"}
+  ],
+  "note": "On civil registration the factsheet states only that cost and travel to civil registry offices limit birth registration for refugee households, and that UNHCR advocates late birth registration and mobile civil registration services; nothing on how offices make the record."
+}

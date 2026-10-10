@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-20-govt-integrate-id-cards-ecrvs-thepoint",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Civil Registration and Vital Statistics", "country_label": "Electronic Civil Registration and Vital Statistics", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National ID system (concession contract)", "country_label": "national identity card", "class": "identity", "platform": "", "owner": "Ministry of Interior", "tiers": ""},
+    {"system": "planned integration of ID cards with the Electronic Civil Registration and Vital Statistics, passport and other identification databases", "country_label": "unified digital ID system", "class": "exchange", "platform": "", "owner": "government; stated in the 2025 State of the Nation Address as to be locally designed, built, operated and managed", "tiers": "stated as an intention, June 2025"}
+  ],
+  "note": "The eCRVS is named as a database to be integrated with identity cards, with no description of what it does or where records are made."
+}

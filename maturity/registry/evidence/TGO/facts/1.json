@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-04-tgo-maeciate-communique-16-services-digitalises",
+  "facts": [],
+  "systems": [
+    {"system": "e-Service du MAECIATE", "country_label": "e-Service du MAECIATE", "class": "certificate", "platform": "", "owner": "Ministère des affaires étrangères (MAECIATE)", "tiers": "Togolese abroad, online: six consular services from 2026-10-01, including delivery of a birth act and drawing up of a marriage act"},
+    {"system": "Guichet national des démarches administratives digitalisées", "country_label": "Guichet national des démarches administratives digitalisées (new.service-public.gouv.tg)", "class": "certificate", "platform": "", "owner": "", "tiers": "national online portal; carries the same six consular services, including delivery of a birth act, from 2026-10-01"}
+  ],
+  "note": "Consular online requests only (birth act delivery, marriage act) for Togolese abroad; nothing on how a local civil registration office records a birth or death."
+}

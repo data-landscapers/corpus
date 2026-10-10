@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+DZA,civil,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-07,DZA-003;DZA-004;DZA-010,DZA-009=owner:ministry;DZA-006=owner:ministry,
+DZA,civil,events,coverage,B;D,2025-10-10,DZA-011,DZA-001=B;DZA-007=B;D,
+DZA,civil,made,coverage,connected,2018,DZA-002;DZA-008,,nothing dated since 2023-10-10
+DZA,civil,last12,qualifier,,,,,nothing held
+DZA,civil,offices,coverage,not-published,2025-10-10,DZA-012,,

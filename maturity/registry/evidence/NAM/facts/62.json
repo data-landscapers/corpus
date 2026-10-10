@@ -1,0 +1,13 @@
+{
+  "slug": "2023-10-10-worldbank-legal-identity-madagascar-namibia",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "A World Bank staff blog states that in Namibia all vital events are centralised in a single database, the National Population Register (NPRS), with no separate identity system, and gives birth and death registration coverage of 88 and 94 per cent; no date is given, so the published date is used.", "as_of": "2023-10-10", "date_precision": "day", "system": "National Population Register (NPRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "A World Bank staff blog states that e-birth and e-death reporting platforms run in almost all health facilities, police mortuaries and civil registry offices, enabling real-time reporting to the NPRS; it gives no count and no date, so the published date is used.", "as_of": "2023-10-10", "date_precision": "day", "system": "National Population Register (NPRS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "National Population Register (NPRS)", "country_label": "NPRS", "class": "civil", "platform": "home-grown, by the blog's description", "owner": "", "tiers": "national single database for civil registration and identity; multiple siloed databases until 2011"},
+    {"system": "e-birth and e-death reporting platforms", "country_label": "e-birth and e-death reporting platforms", "class": "notification", "platform": "", "owner": "", "tiers": "almost all health facilities, police mortuaries and civil registry offices"},
+    {"system": "Interoperability layer linking the NPRS to other registries", "country_label": "", "class": "exchange", "platform": "X-Road", "owner": "", "tiers": "national; links public and private sector registries; used to validate identity for COVID-19 emergency income support"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-niger-agadez-reformes-etat-civil-identification",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population (RNP)", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur (MISPAT); ANEI", "tiers": "first phase to begin in Niamey, then the other regions"},
+    {"system": "Carte Nationale d'Identité Biométrique", "country_label": "nouvelle CNI biométrique", "class": "identity", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "tournée nationale de sensibilisation", "country_label": "tournée nationale de sensibilisation sur les réformes en matière d'état civil et d'identification des personnes", "class": "outreach", "platform": "", "owner": "MISPAT (DGATDD)", "tiers": "fourth stage at Agadez, 28 August 2026, after Tahoua, Dosso and Tillabéri"}
+  ],
+  "note": "The Agadez stage of the tour: a 79.8% birth-declaration rate, the civil-status ordinance and three ANEI decrees, and the coming RNP. 'Strengthening the civil-status system' is named with no description; nothing on how offices register."
+}

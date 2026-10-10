@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-20 Transforming lives in Benin a unique identification system",
+  "facts": [],
+  "systems": [
+    {"system": "C'est Moi card", "country_label": "carte « C'est Moi »", "class": "identity", "platform": "", "owner": "Government of Benin and ANIP, supported by the World Bank's WURI project (US$45 million for Benin)", "tiers": "national; nearly 99% of the population biometrically enrolled and more than 7.7 million people holding an NPI at end May 2025, with more than 6.1 million certificates issued free"},
+    {"system": "Single Social Registry", "country_label": "Single Social Registry", "class": "", "platform": "", "owner": "", "tiers": "its operationalisation is supported by the WURI project; not described"}
+  ],
+  "note": "A World Bank feature on identity enrolment and the C'est Moi card; it says a quarter of the population once had no birth certificate but states nothing on how births or deaths are registered."
+}

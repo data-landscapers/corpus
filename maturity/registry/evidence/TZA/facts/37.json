@@ -1,0 +1,8 @@
+{
+  "slug": "2024-03-12-jamii-namba-development-work-started-chanzo",
+  "facts": [],
+  "systems": [
+    {"system": "Jamii Namba", "country_label": "Jamii Namba (universal identity number)", "class": "identity", "platform": "", "owner": "Ministry of Information with the National Identification Authority (NIDA); design with RITA and Zanzibar ID", "tiers": "In design as of March 2024, to identify Tanzanians from birth; completion expected at the end of 2025"}
+  ],
+  "note": "News of an identity number under design; the birth certificate number is mentioned only as one of several identifiers to be unified, and nothing is stated about how births are registered."
+}

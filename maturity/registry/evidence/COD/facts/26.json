@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The Data Landscapers review's table row for DR Congo says rural registry offices, which it counts as 877 of 979 local offices, record births in entirely paper carbon-copy registers of four copies per event, with no computer or mobile technology used in registration; it dates this to 2019 reports and cites the UNECA CRVS snapshot.", "as_of": "2019", "date_precision": "year", "system": "local civil registration offices (carbon-copy registers)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "The same row states that no computers or mobile technology are used in the registration process at local offices and that it found no evidence of digital recording in rural offices as of 2019 reports.", "as_of": "2019", "date_precision": "year", "system": "local civil registration offices (carbon-copy registers)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The row mentions recent pilots, naming Masina (urban), and plans to digitise historical registers, against 979 local offices of which it counts 877 as rural; it gives no date for the pilot, so the 2019 date of the reports it cites is used.", "as_of": "2019", "date_precision": "year", "system": "local civil registration offices (carbon-copy registers)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "local civil registration offices (carbon-copy registers)", "country_label": "rural registry offices", "class": "civil", "platform": "paper carbon-copy registers, four copies per event: applicant, local court, central office in Kinshasa, local office", "owner": "", "tiers": "979 local offices, 877 of them rural; a pilot at Masina (urban)"},
+    {"system": "historical digitization of registers", "country_label": "", "class": "archive", "platform": "", "owner": "", "tiers": "planned, no detail"}
+  ],
+  "note": "The passages' header marks this as an AI-assisted compilation, the author's analysis and not sourced fact; study.json lists the slug under exclude_sources. The facts record what the row states. The other DR Congo rows are clinics, schools and police stations."
+}

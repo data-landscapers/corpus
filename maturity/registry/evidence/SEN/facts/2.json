@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-30-sen-vipeoples-passports-id-cards-national-expertise",
+  "facts": [],
+  "systems": [
+    {"system": "carte d'identité biométrique CEDEAO", "country_label": "carte d'identité biométrique CEDEAO", "class": "identity", "platform": "", "owner": "Direction de l'automatisation des fichiers (DAF), ministère de l'Intérieur et de la Sécurité publique; cards made by a Malaysian operator under contract", "tiers": ""},
+    {"system": "datacenter national (état civil, cartes d'identité, passeports)", "country_label": "datacenter", "class": "enabling", "platform": "", "owner": "Government of Senegal (announced)", "tiers": "national; announced, not built"}
+  ],
+  "note": "Identity-card and passport production and a planned national datacenter for civil-status and identity data; nothing on how a civil registration office records an event."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-rita-erita-online-services",
+  "facts": [],
+  "systems": [
+    {"system": "eRITA", "country_label": "eRITA Services: Birth and Death System, Marriage and Divorce Management System, Trustees Management System", "class": "certificate", "platform": "", "owner": "Registration Insolvency and Trusteeship Agency (RITA)", "tiers": "Public online portal with account login: new applications for birth and death registration, exchange of old certificates for new, and verification of birth and death certificates; marriage and divorce services also listed"}
+  ],
+  "note": "RITA's service page lists what the public can apply for online; it describes a portal for applications and verification and says nothing of how or where a registration office makes the record, so no fact is taken for the civil class."
+}

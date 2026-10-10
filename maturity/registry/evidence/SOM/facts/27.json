@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "OpenCRVS's own country page counts 28,391 completed birth registrations in the system; it names births as the vital event captured and gives no figure for deaths. The page is undated, so its published date (a proxy, to the month) is used.", "as_of": "2026-01", "date_precision": "month", "system": "Unified Digital Civil Registration System (OpenCRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "count:30", "fact": "OpenCRVS's own country page states that the system operates in 30 Somali districts and is linked to 160 hospitals; it gives no total of districts or offices. The page is undated, so its published date (a proxy, to the month) is used.", "as_of": "2026-01", "date_precision": "month", "system": "Unified Digital Civil Registration System (OpenCRVS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "OpenCRVS's own country page states that the system, which it calls production-level and no longer a proof of concept, captures vital events such as births at the point of occurrence in the districts and linked hospitals, within one unified digital civil registration system. The page is undated, so its published date (a proxy, to the month) is used.", "as_of": "2026-01", "date_precision": "month", "system": "Unified Digital Civil Registration System (OpenCRVS)", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Unified Digital Civil Registration System (OpenCRVS)", "country_label": "Unified Digital Civil Registration System (CRVS)", "class": "civil", "platform": "OpenCRVS", "owner": "", "tiers": "30 districts, integrated with 160 hospitals"}
+  ],
+  "note": "The vendor's page, 235 words. The 'connected' value rests on 'unified' and 'at the point of occurrence'; the page does not say in so many words that district records are held in a national register, nor whether the hospitals register or only notify. It names no owning ministry, plan or funder, so no governance fact is taken."
+}

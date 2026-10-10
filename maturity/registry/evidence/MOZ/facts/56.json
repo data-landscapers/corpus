@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-portal-do-utente-srn",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Portal do utente",
+      "country_label": "Portal do utente - Serviço de Registos e Notariado",
+      "class": "",
+      "platform": "",
+      "owner": "Serviço de Registos e Notariado",
+      "tiers": "Public web portal; users fill in forms, follow their processes and book appointments, with Registo Civil one of seven service areas listed"
+    }
+  ],
+  "note": "A captured landing page of a user portal: civil registration appears as a menu category only, with no statement of what the portal does for it or of how offices register."
+}

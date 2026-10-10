@@ -1,0 +1,9 @@
+{
+  "slug": "2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)",
+  "facts": [],
+  "systems": [
+    {"system": "e-ID Mauritania", "country_label": "e-ID Mauritania", "class": "identity", "platform": "open-source, mobile-based; components on MTNIMA's GitHub", "owner": "Ministry of Digital Transformation, Innovation and Public Sector Modernization (MTNIMA), with UNDP", "tiers": "pilot; designed for several identities on one phone and verification without cellular connectivity"},
+    {"system": "national biometric system", "country_label": "national biometric system", "class": "identity", "platform": "", "owner": "National Agency for People Registry and Secure Documents, under the Ministry of Home Affairs", "tiers": ""}
+  ],
+  "note": "UNDP's blog on the digital identity pilot; it places the identity function with the registry agency under the interior ministry but says nothing on registering births or deaths."
+}

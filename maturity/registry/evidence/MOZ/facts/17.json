@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "mobile digital ID and digital signature infrastructure", "country_label": "", "class": "identity", "platform": "smartphone app, SIM (Java Card applets) and eSIM profiles; PKI/CA with HSM", "owner": "ATDI, financed by the World Bank EDGE project", "tiers": "national, at tender (expressions of interest due 5 June 2026)"},
+    {"system": "national population register", "country_label": "", "class": "identity", "platform": "", "owner": "", "tiers": "to be linked to the mobile ID architecture"},
+    {"system": "X-Road interoperability infrastructure", "country_label": "", "class": "", "platform": "X-Road", "owner": "", "tiers": "described as pre-existing; no civil registration link stated"}
+  ],
+  "note": "A tender for mobile digital identity and e-signature; civil registration is not mentioned, so no fact."
+}

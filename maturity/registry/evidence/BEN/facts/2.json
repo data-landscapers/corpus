@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-03-ben-gouv-preuve-de-vie-biometrique-pensionnes",
+  "facts": [],
+  "systems": [
+    {"system": "Pensioners' proof-of-life application", "country_label": "preuve de vie (application dédiée)", "class": "identity", "platform": "", "owner": "Ministère de l'Économie et des Finances", "tiers": "pensioner's smartphone, after identification by NPI and pension booklet number and a fingerprint check; biometric kiosks in some public spaces"}
+  ],
+  "note": "A biometric proof of life for pensioners, tied to the personal identification number; nothing on the registration of births or deaths."
+}

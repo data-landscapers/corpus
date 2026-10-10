@@ -1,0 +1,88 @@
+{
+  "slug": "2018-12-04-lei-12-2018-revisao-codigo-registo-civil",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Law 12/2018 of 4 December 2018 creates SIRCEV and rests it on the National Directorate of Registries and Notaries, with the provincial justice directorates coordinating and the civil registry conservatórias executing and administering registration operations, nationwide.",
+      "as_of": "2018-12-04",
+      "date_precision": "day",
+      "system": "SIRCEV",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "Law 12/2018 provides that the birth and death books of the conservatórias are replaced by electronic entries, with other books replaced gradually and the paper kept as proof where it contradicts the electronic record; this is what the law provides, not a count of what offices do.",
+      "as_of": "2018-12-04",
+      "date_precision": "day",
+      "system": "SIRCEV",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "Law 12/2018 (revised article 18) makes each conservatória responsible for carrying out the electronic registration itself and then remitting it to the central registry services, and lets a certificate of an electronically made record be requested at any conservatória in the country; this is what the law provides, not a count of what offices do.",
+      "as_of": "2018-12-04",
+      "date_precision": "day",
+      "system": "SIRCEV",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "keyed-elsewhere",
+      "fact": "The Civil Registration Code as captured with Law 12/2018 (article 13) creates a centralised database at the Central Registries Conservatória in which all civil registration acts are recorded by transcription, every registry office sending full-copy certificates of the previous month's acts by the tenth of each month.",
+      "as_of": "2018-12-04",
+      "date_precision": "day",
+      "system": "base de dados centralizada da Conservatória dos Registos Centrais",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SIRCEV",
+      "country_label": "Sistema Electrónico de Registo Civil e Estatísticas Vitais (SIRCEV)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Direcção Nacional dos Registos e Notariado",
+      "tiers": "Whole national territory in law: provincial justice directorates coordinate, conservatórias do registo civil execute; civil registry posts at each administrative post seat (which may work as mobile brigades) and hospital posts draw up birth and death entries"
+    },
+    {
+      "system": "base de dados centralizada da Conservatória dos Registos Centrais",
+      "country_label": "base de dados centralizada, Conservatória dos Registos Centrais",
+      "class": "civil",
+      "platform": "",
+      "owner": "Conservatória dos Registos Centrais",
+      "tiers": "Central; all registry offices send monthly full-copy certificates for transcription"
+    },
+    {
+      "system": "digitisation of existing registers",
+      "country_label": "digitalização de registos existentes (artigo 4)",
+      "class": "archive",
+      "platform": "",
+      "owner": "Regulated by the minister responsible for Justice",
+      "tiers": "Records made before SIRCEV came into force, integrated by faithful digitisation of the books"
+    },
+    {
+      "system": "electronic notification of births and deaths",
+      "country_label": "notificação (artigo 18-B)",
+      "class": "notification",
+      "platform": "",
+      "owner": "Direcção Nacional dos Registos e Notariado",
+      "tiers": "Health units and communities; notifiers are registry staff, health professionals, administrative authorities and others accredited by the national director; the NUIC is assigned on notification and the system answers by SMS"
+    },
+    {
+      "system": "SIRCEV data sharing",
+      "country_label": "interoperabilidade com outros sectores; partilha de dados e produção de estatísticas (artigo 371)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Direcção Nacional dos Registos e Notariado",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "The capture is an excerpt of the law's operative articles; the transitional and final provisions are not in it."
+}

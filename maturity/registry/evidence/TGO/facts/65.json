@@ -1,0 +1,15 @@
+{
+  "slug": "2018-06-14-togo-loi-2018-005-code-foncier-et-domanial",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cadastre",
+      "country_label": "cadastre; plan cadastral; livres fonciers",
+      "class": "land",
+      "platform": "",
+      "owner": "service de la conservation chargé de l'immatriculation foncière; Agence Nationale du Domaine et du Foncier",
+      "tiers": "organised at national and communal level; the cadastral plan is established in digital format, with read-only online access provided for in the law of 14 June 2018"
+    }
+  ],
+  "note": "The land code; civil status appears only as the source of names in notarial acts and as a supporting document, and the cadastre and land books are out of scope."
+}

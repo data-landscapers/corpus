@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-05-sierra-leone-bsl-nin-deadline-for-banks",
+  "facts": [],
+  "systems": [
+    {"system": "National Identification Number (NIN)", "country_label": "National Identification Number (NIN); NIN registration centers", "class": "identity", "platform": "", "owner": "National Civil Registration Authority (NCRA)", "tiers": "National; required for all banking transactions after 31 December 2025 under a Bank of Sierra Leone directive of 2 September 2025; queues, system outages and technical faults reported at NIN registration centres"}
+  ],
+  "note": "A central bank deadline for use of the identity number; nothing on birth or death registration."
+}

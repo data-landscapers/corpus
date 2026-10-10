@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-19-mosip-brownfield-sierra-leone-migration",
+  "facts": [],
+  "systems": [
+    {"system": "NIRA's new identity platform", "country_label": "", "class": "identity", "platform": "MOSIP; legacy ABIS from Neurotechnology; kit software from technoforte and Tech5", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "more than 28 million records migrated and some 6.7 million new registrations; about five thousand biometric kits"}
+  ],
+  "note": "About the migration of Uganda's national ID records to MOSIP; civil registration is mentioned only in general terms about MOSIP, not for Uganda."
+}

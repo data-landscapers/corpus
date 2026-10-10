@@ -1,0 +1,14 @@
+{
+  "slug": "2024-10-20-cameroon-hopes-to-fully-digitize-civil-registration-by-2029",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "Biometric Update reports that the government has implemented a pilot in about 40 councils in partnership with OpenCRVS as part of civil registration digitisation; no date is given for the pilot, so the document's published date is used.", "as_of": "2024-10-20", "date_precision": "day", "system": "OpenCRVS pilot", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "paper", "fact": "The mayor of Njombe-Penja council (Littoral) says his staff are being prepared for training to migrate from handwritten to digital birth certificates, with BUNEC's support, so certificates there are still handwritten; undated, so the document's published date is used.", "as_of": "2024-10-20", "date_precision": "day", "system": "OpenCRVS pilot", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "A BUNEC official says a 2025-2029 strategic plan for civil registration is being elaborated, to launch in 2025 and reach a fully digital system by 2029; it follows the PAMEC support programme, whose second phase began in 2021 and was due to end in 2024.", "as_of": "2024-10-20", "date_precision": "day", "system": "OpenCRVS pilot", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "In July 2024 Cameroon signed a US$4.8 million grant agreement with Korea through KOICA for civil registration digitisation; the 2025-2029 plan is supported by Vital Strategies and the Bloomberg Philanthropies Data for Health Initiative.", "as_of": "2024-07", "date_precision": "month", "system": "OpenCRVS pilot", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The pilot is described as implemented by the government, with the National Civil Registration Office (BUNEC) supporting councils in the move to digital certificates; undated, so the document's published date is used.", "as_of": "2024-10-20", "date_precision": "day", "system": "OpenCRVS pilot", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "OpenCRVS pilot", "country_label": "pilot of the digital CRVS system", "class": "civil", "platform": "OpenCRVS", "owner": "Government of Cameroon / BUNEC", "tiers": "about 40 councils"}
+  ],
+  "note": ""
+}

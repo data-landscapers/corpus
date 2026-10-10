@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-24-moz-jornalnoticias-registo-civil-maternidades",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "Jornal Notícias reports the justice sector is gradually installing 100 civil registration posts in health units with maternity wards nationwide, so newborns are registered before leaving hospital, beside about 250 birth registration posts already working in health units, about 25 per cent of some 1,000 health units; the document gives no date, so its published date is used, and it does not say whether the posts enter the record digitally.", "as_of": "2026-09-24", "date_precision": "day", "system": "postos de registo civil em unidades sanitárias", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "Jornal Notícias reports the installation of the 100 new civil registration posts in maternities has the support of cooperation partners, mainly in supplying computer equipment; no domestic budget is stated, and the document gives no date, so its published date is used.", "as_of": "2026-09-24", "date_precision": "day", "system": "postos de registo civil em unidades sanitárias", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "postos de registo civil em unidades sanitárias", "country_label": "postos de registo civil / postos de registo de nascimento", "class": "civil", "platform": "", "owner": "Sector da Justiça, Assuntos Constitucionais e Religiosos", "tiers": "about 250 posts in health units, about 25 per cent of some 1,000 health units; 100 more being installed in health units with maternity wards"}
+  ],
+  "note": "No software or digital entry is named: the count of 250 posts is not recorded under offices because the document does not state that they register digitally."
+}

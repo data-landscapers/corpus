@@ -1,0 +1,8 @@
+{
+  "slug": "2010-09-17-ordonnance-2010-54-cgct-niger",
+  "facts": [],
+  "systems": [
+    {"system": "service de l'état civil de la commune", "country_label": "service de l'état civil de la commune", "class": "civil", "platform": "", "owner": "the mayor, who with the deputy mayors is civil-status officer (article 93)", "tiers": "commune; the code says nothing of how the record is made"}
+  ],
+  "note": "The 2010 local-government code (the capture is an excerpt, cut off at article 204): its one civil-status provision, article 93, makes the mayor and deputies civil-status officers who transcribe and authenticate civil-status acts, and makes the mayor responsible for the commune's civil-status service. It states nothing on digital registration, and civil status is not among the transferable domains listed in article 163."
+}

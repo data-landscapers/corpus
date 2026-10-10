@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-gabon-electoral-roll-verification-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Electoral-roll consultation platform (consultation.listelectorale.ga)", "country_label": "consultation de la liste électorale", "class": "land", "platform": "online lookup keyed on the NIP and name", "owner": "Ministry of the Interior and Security; published by ANINF/SSI", "tiers": "national, online"}
+  ],
+  "note": "An electoral-roll lookup (electoral registers are out of scope under the typology's land class); nothing on civil registration."
+}

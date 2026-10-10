@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Civil Identification System / Identity Card (BI)",
+      "country_label": "Identity Card (BI)",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "Not stated; Annex D codes the country as having no digital ID, with the adult coverage estimate drawn from 2021 administrative data"
+    }
+  ],
+  "note": "A global dataset report; the country appears once, in the Annex D table of foundational ID systems. Nothing on how or where a birth or death is registered."
+}

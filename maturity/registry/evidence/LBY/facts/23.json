@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-02-lana-maslahat-aljawazat-tatwir-manzumat-isdar-aljawazat",
+  "facts": [],
+  "systems": [
+    {"system": "Passport issuing system", "country_label": "منظومة إصدار الجوازات", "class": "identity", "platform": "", "owner": "Passports, Nationality and Foreigners Affairs Authority", "tiers": "not stated; an electronic passport project is in the development plan"},
+    {"system": "Civil registry system", "country_label": "منظومة السجل المدني", "class": "", "platform": "", "owner": "", "tiers": "named as a system the passport authority works through; not described"}
+  ],
+  "note": "A meeting on the passport issuing system on 1 September 2025; the civil registry system is named once, as something passport issue relies on, with no account of what it does."
+}

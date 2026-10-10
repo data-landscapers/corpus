@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-22-modernisation-etat-civil-reci-biometrique-midi",
+  "facts": [],
+  "systems": [
+    {"system": "biometric enrolment under the Réforme de la gestion de l'état civil et de l'identité (RECI)", "country_label": "RECI", "class": "identity", "platform": "", "owner": "ministère de l'Intérieur et de la Décentralisation (MID), supported by the World Bank through PRODIGY", "tiers": "progressive integration of citizens into a national database; 2,500 enrolment kits, mobile and ultra-mobile devices among them, to be deployed nationally; 70 districts trained by 22 January 2026"}
+  ],
+  "note": "Titled as modernisation of the état civil but describes identity enrolment only; no civil registration office system is described."
+}

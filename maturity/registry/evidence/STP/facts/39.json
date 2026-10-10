@@ -1,0 +1,54 @@
+{
+  "slug": "2025-04-01-uncdf-sao-tome-and-principe-remittance-policy-diagnostic",
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "UNCDF describes CivID, the DGRN's first-time registration software (CivID 1.1), as a digital civil registration and identification system that registers births, deaths and other vital events and is also used to issue national IDs; the report's data run to November 2023 and it does not say where the entry is made.",
+      "as_of": "2023-11",
+      "date_precision": "month",
+      "system": "CivID",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "UNCDF states that the DGRN is responsible for civil registration and set out to modernise the civil registration and vital statistics systems, introducing the CivID 1.1 software; the report's data run to November 2023.",
+      "as_of": "2023-11",
+      "date_precision": "month",
+      "system": "CivID",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "UNCDF states that the DGRN's modernisation of civil registration and the introduction of CivID 1.1 came under the National Strategy for Permanent Birth Registration (ENRPN); the strategy's period is not given, and the report's data run to November 2023.",
+      "as_of": "2023-11",
+      "date_precision": "month",
+      "system": "CivID",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "CivID",
+      "country_label": "CivID 1.1; first-time registration software",
+      "class": "civil",
+      "platform": "CivID",
+      "owner": "Direcção Geral dos Registos e Notariado (DGRN)",
+      "tiers": "Not stated; not interoperable with any payment system"
+    },
+    {
+      "system": "National IDs",
+      "country_label": "national IDs",
+      "class": "identity",
+      "platform": "Issued from CivID 1.1",
+      "owner": "Direcção Geral dos Registos e Notariado (DGRN)",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "The document is a remittance policy diagnostic; two short passages on identification systems are the source of the facts, and they repeat the companion payment infrastructure assessment. It does not say how or in which offices CivID records are entered."
+}

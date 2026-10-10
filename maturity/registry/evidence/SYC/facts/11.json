@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-ics-civil-status-division",
+  "facts": [],
+  "systems": [
+    {"system": "National Population Database", "country_label": "National Population Database", "class": "", "platform": "", "owner": "Civil Status Division, Department of Immigration and Civil Status", "tiers": ""}
+  ],
+  "note": "The Civil Status Division is said to register births, deaths and marriages and to have custody of the National Population Database, but the page does not say what the database does or how or where a record is made, so the system is unclassified and gives no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-monservis-government-services-portal",
+  "facts": [],
+  "systems": [
+    {"system": "SeyID", "country_label": "SeyID", "class": "identity", "platform": "", "owner": "", "tiers": "the login for individuals on the monServis portal"}
+  ],
+  "note": "The landing page of the monServis e-services portal, entered with a SeyID login; it lists no civil registration service and says nothing on how births or deaths are registered."
+}

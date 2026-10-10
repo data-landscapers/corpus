@@ -1,0 +1,14 @@
+{
+  "slug": "2026-02-25-gouv-bj-guichet-unique-bilan-six-mois",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "The government's account of the 24 February 2026 review workshop gives ANIP's figures: 17,071 children declared in the pilot health facilities in six months and 13,069 registered, 76.56%, against 21.95% in 2025.", "as_of": "2026-02-24", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "The government states that six months after the pilot's launch the one-stop desk was running in 10 health facilities, with gradual national scale-up among the prospects.", "as_of": "2026-02-24", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The government states the pilot was launched by ANIP with the Ministry of Health as partner, the WURI programme, UNICEF and the Ministry of the Interior taking part in the review of 24 February 2026.", "as_of": "2026-02-24", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "last12", "value": "advancing", "fact": "The government reports registration in the ten pilot facilities up from 21.95% in 2025 to 76.56% after six months, at the review of 24 February 2026.", "as_of": "2026-02-24", "date_precision": "day", "system": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Guichet unique de déclaration et d'enregistrement des naissances", "country_label": "Guichet unique de déclaration et d'enregistrement des naissances", "class": "civil", "platform": "", "owner": "ANIP, with the Ministry of Health", "tiers": "10 health facilities; the document does not describe the tools used"},
+    {"system": "RNPP", "country_label": "RNPP", "class": "identity", "platform": "", "owner": "ANIP", "tiers": "national"}
+  ],
+  "note": "The same text as document 22, on the government's own site."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2020-05-19-maroc-circulaire-interieur-32-dematerialisation-zero-papier",
+  "facts": [],
+  "systems": [
+    {"system": "Système de Gestion de l'État Civil (SGEC)", "country_label": "SGEC", "class": "", "platform": "", "owner": "Ministère de l'Intérieur, Direction Générale des Collectivités Territoriales (DGCT)", "tiers": "operational in the Rabat-Salé-Kénitra and Casablanca-Settat regions as of 2020-05-19, to be generalised progressively; a component of the Programme de Modernisation de l'État Civil (PMEC)"},
+    {"system": "Registre National de l'État Civil (RNEC)", "country_label": "RNEC", "class": "", "platform": "", "owner": "Ministère de l'Intérieur, DGCT", "tiers": "national database, to be hosted in a dedicated Civil Status Data Centre; being built under the PMEC"},
+    {"system": "www.alhalalmadania.ma", "country_label": "portail de l'état civil", "class": "", "platform": "", "owner": "Ministère de l'Intérieur, DGCT", "tiers": "civil-status portal, a PMEC component; named, not described"},
+    {"system": "WATIQA", "country_label": "plateforme WATIQA (www.watiqa.ma)", "class": "certificate", "platform": "", "owner": "Ministère de l'Intérieur (project owner), with the Trésorerie Générale du Royaume, the Agence de Développement du Digital and Barid Al Maghrib", "tiers": "online ordering of civil-status documents by residents and Moroccans abroad, delivered by registered post"},
+    {"system": "Identifiant Digital Civil et Social (IDCS)", "country_label": "IDCS", "class": "identity", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "identifier to be assigned to every new birth, a PMEC component"}
+  ],
+  "note": "The page is a structured extract of a scanned circular. It states the SGEC was operational in two regions (Rabat-Salé-Kénitra, Casablanca-Settat) on 2020-05-19, to be generalised, but does not say what the SGEC does or who enters what in it, so it is left unclassified and gives no fact; if the parent classes SGEC as civil from other documents, this is a dated coverage statement for 2020-05-19."
+}

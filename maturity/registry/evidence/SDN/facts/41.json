@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-05-sudan-tax-chamber-core-system-projects",
+  "facts": [],
+  "systems": [
+    {"system": "Tax Chamber integration with information sources", "country_label": "Integration with Information Sources", "class": "exchange", "platform": "Tax Chamber Core System", "owner": "Sudan Taxation Chamber", "tiers": "18 bodies identified for integration, the Civil Registry Authority and the Commercial Registrar among the priority ones; project said to be over 80% implemented"}
+  ],
+  "note": "The document describes the Tax Chamber's systems; the Civil Registry Authority is named only as a body its system integrates with, and nothing is said about how births or deaths are registered."
+}

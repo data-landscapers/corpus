@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-07-zambia-launches-srs-vs-silent-deaths",
+  "facts": [],
+  "systems": [
+    {"system": "Sample-Based Registration System with Vital Statistics (SRS-VS)", "country_label": "SRS-VS", "class": "", "platform": "", "owner": "Ministry of Health, with the Zambia National Public Health Institute", "tiers": "Community Surveillance Assistants identify pregnancies and deaths in a statistically representative sample of the population; community engagement materials expected to be deployed across all districts"}
+  ],
+  "note": "SRS-VS is described as continuous mortality surveillance of a population sample by community assistants, run by the health ministry, 'not a parallel' system but a catalyst for the national CRVS system; the document does not say it registers events with the civil registrar or notifies the registrar, so it fits no class of the typology cleanly and is left unclassified. The community engagement strategic plan and materials were launched on 7 May 2026; nearly 48 percent of deaths are said to occur outside health facilities."
+}

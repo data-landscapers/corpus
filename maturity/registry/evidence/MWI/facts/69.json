@@ -1,0 +1,8 @@
+{
+  "slug": "2014-12-31-business-registration-act",
+  "facts": [],
+  "systems": [
+    {"system": "Malawi Business Registration Database", "country_label": "Malawi Business Registration Database", "class": "land", "platform": "", "owner": "Registrar of Businesses", "tiers": "central database; online access for MITC, MRA, NSO and local authorities"}
+  ],
+  "note": "The business registration statute: it establishes an electronic business register and says nothing of civil registration, births or deaths."
+}

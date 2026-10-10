@@ -1,0 +1,9 @@
+{
+  "slug": "2025-08-11-eacc-iprs-integration",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Population Register System (IPRS)", "country_label": "Integrated Population Register System (IPRS)", "class": "identity", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": "national; consolidates citizen registration data including births and deaths, national registration bureau, refugee and immigration records"},
+    {"system": "EACC systems integration with IPRS", "country_label": "", "class": "exchange", "platform": "", "owner": "Ethics and Anti-Corruption Commission", "tiers": "planned: a work plan agreed by 11 August 2025 targets full integration within six months"}
+  ],
+  "note": "The anti-corruption commission's plan to link to the population register; says the register holds births and deaths data but not how or where those records are made."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-02-drc-cuts-biometric-passport-price-dermalog-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "biometric passport enrolment and personalisation system", "country_label": "", "class": "identity", "platform": "Dermalog", "owner": "the government (Foreign Affairs); supplied by Dermalog under a US$48 million contract awarded in 2022", "tiers": "biometric capture centres in provincial capitals: 50 fixed and mobile stations in the country and 50 mobile units at diplomatic missions; online application"},
+    {"system": "national digital ID program", "country_label": "", "class": "identity", "platform": "", "owner": "Trident (Singapore), under a public-private partnership whose first phase began in April 2025", "tiers": "not stated"}
+  ],
+  "note": "A passport article. Its only mentions of civil status are prospective and undescribed: digitisation is 'meant to' increase the reliability of civil registries, and the passport would 'in the future' give access to online services such as civil status documents; no civil registration system is named."
+}

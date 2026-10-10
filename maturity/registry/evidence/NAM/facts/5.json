@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-24-vital-strategies-d4h-stronger-together-namibia-lesotho-crvs",
+  "facts": [],
+  "systems": [
+    {"system": "integrated civil registration and vital statistics (CRVS) and identity management system", "country_label": "integrated CRVS and identity management system", "class": "", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""},
+    {"system": "electronic birth and death notification", "country_label": "electronic birth & death notification", "class": "notification", "platform": "", "owner": "Ministry of Health and Social Services", "tiers": "health facilities; outside them, in rural areas, police and traditional authorities verify home births and natural community deaths before notification and registration"}
+  ],
+  "note": "A benchmarking-visit brief: it names the integrated system without saying where or how the register entry is made, and describes electronic notification by the health ministry, which is not the civil class."
+}

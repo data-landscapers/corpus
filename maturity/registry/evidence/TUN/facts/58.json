@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-02-tun-khadamet-analyst-critique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Khadamet",
+      "country_label": "application « Khadamet »",
+      "class": "certificate",
+      "platform": "mobile application working with the digital identity; a web version is planned",
+      "owner": "Ministère des Technologies de la communication (Direction générale des technologies de l'information)",
+      "tiers": "national, citizen-facing: a parent reaches their children's birth extracts and requests a French translation remotely, the request passing to the municipality where the birth was registered"
+    }
+  ],
+  "note": "A portal for obtaining birth extracts and their translation; the document says nothing of how the municipality makes the record of a birth or death."
+}

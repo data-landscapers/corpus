@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-23-national-id-issuance-halt-1-7m-debt-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "national identity infrastructure (biometric registration database)", "country_label": "national ID", "class": "identity", "platform": "managed by Techno Brain", "owner": "National Identification Registry (NIR)", "tiers": "national; coverage below 15 per cent; card issuance suspended since June 2025"}
+  ],
+  "note": "About the halt in national ID card issuance and the US$1.7 million debt to Techno Brain: an identity system only, and nothing on civil registration."
+}

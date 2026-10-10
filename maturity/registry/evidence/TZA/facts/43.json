@@ -1,0 +1,9 @@
+{
+  "slug": "2021-10-11-written-laws-miscellaneous-amendments-no-3-act-2021",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Register of births and deaths", "country_label": "electronic Register of births and deaths (section 19A, Births and Deaths Registration Act, Cap. 108)", "class": "", "platform": "", "owner": "Registrar General", "tiers": "The Act requires the Registrar General to keep and maintain it; it does not say where or by whom entries are made"},
+    {"system": "Sharing of registration information under section 19A", "country_label": "", "class": "exchange", "platform": "", "owner": "Registrar General", "tiers": "The Registrar General shares and exchanges information in the electronic register with public institutions mandated to identify and register persons; validated information received from them is deemed registered in it"}
+  ],
+  "note": "Part III of the Act (assented 28 September 2021, gazetted 11 October 2021) adds section 19A to Cap. 108, obliging the Registrar General to keep an electronic register of births and deaths and to exchange its information with identification bodies; the statute says nothing of how or where a registration office makes the record, so the register is unclassified and gives no fact."
+}

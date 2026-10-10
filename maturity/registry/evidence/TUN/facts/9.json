@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-radionationale-tunisia-birth-cert-remote-translation",
+  "facts": [],
+  "systems": [
+    {"system": "e-bawaba.tn (remote translation of the birth extract)", "country_label": "خدمة ترجمة مضمون الولادة عن بُعد / منصة الخدمات على الخط e-bawaba.tn", "class": "certificate", "platform": "e-bawaba.tn online services platform, or QR code", "owner": "Ministry of the Interior, with the Ministry of Communication Technologies", "tiers": "citizens online; each request is passed to the municipality where the birth was registered"},
+    {"system": "معرف الهوية الرقمية (digital identity identifier)", "country_label": "معرف الهوية الرقمية", "class": "identity", "platform": "", "owner": "", "tiers": "used to register on e-bawaba.tn"}
+  ],
+  "note": "A service launched on 31 August 2026 for requesting a translated birth extract online; a certificate channel, with nothing on how the municipality makes the record."
+}

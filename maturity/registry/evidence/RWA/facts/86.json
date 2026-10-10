@@ -1,0 +1,12 @@
+{
+  "slug": "2025-10-10-rwa-annual-health-statistical-booklet-fiscal-year-2023-2024",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The Ministry of Health's booklet for fiscal year 2023-2024 says the Civil Registration and Vital Statistics (CRVS) system supplies data on births, deaths and causes of death, reports birth registration completeness of 90.04% and death registration of 41.8% through it, and tabulates from the CRVS database 15,270 deaths registered in 2023 by type of health facility (8,872 at district hospitals, 735 at health centres, 2 at health posts); it does not say how or where the record is entered.", "as_of": "2024", "date_precision": "year", "system": "Civil Registration and Vital Statistics (CRVS) system", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Civil Registration and Vital Statistics (CRVS) system", "country_label": "CRVS system / CRVS database", "class": "civil", "platform": "", "owner": "", "tiers": "deaths registered in 2023 tabulated by health facility type: clinics, health centres, health posts, district, provincial, private, referral and teaching hospitals; community deaths also held, 17,676 against 15,173 in facilities in 2023-2024"},
+    {"system": "verbal autopsy", "country_label": "Verbal Autopsies", "class": "", "platform": "", "owner": "", "tiers": "for deaths outside health facilities; feeds cause of death to the CRVS system"},
+    {"system": "link from the CRVS system to the Rwanda Health Management Information System", "country_label": "RHMIS", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": "CRVS data on births, deaths and causes of death integrated into the RHMIS for national health reporting"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-30 DR Congo gives Singapore firm exclusive digital-ID rights (NTU-SBF risk analysis)",
+  "facts": [],
+  "systems": [
+    {"system": "DRCPass", "country_label": "DRCPass", "class": "identity", "platform": "", "owner": "Trident Digital Tech (Singapore), under a public-private partnership with the government: a 20-year exclusive e-KYC concession", "tiers": "not stated; described as nationwide"}
+  ],
+  "note": "An analysis of the DRCPass digital identity concession; it states nothing about civil registration."
+}

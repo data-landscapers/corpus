@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-06-problem-with-plan-for-digital-ids-in-south-africa",
+  "facts": [],
+  "systems": [
+    {"system": "digital ID", "country_label": "digital ID", "class": "identity", "platform": "", "owner": "Department of Home Affairs", "tiers": "national; not yet launched, hosting infrastructure procurement not signed in Q1 2026/27"},
+    {"system": "MyMzansi", "country_label": "MyMzansi platform", "class": "", "platform": "", "owner": "government", "tiers": ""}
+  ],
+  "note": "Digital ID procurement and the National Identification Registration Bill missed their Q1 targets; nothing on civil registration offices."
+}

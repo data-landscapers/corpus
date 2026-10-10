@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9",
+  "facts": [],
+  "systems": [
+    {"system": "Software/Middleware do CNI (version 1.9.9, 17 March 2026)", "country_label": "MW / Software do CNI", "class": "identity", "platform": "middleware and SDK for Windows, Linux and macOS", "owner": "SNIAC", "tiers": "installed by citizens and by public or private front offices with a card reader"},
+    {"system": "Cartão Nacional de Identificação (CNI)", "country_label": "CNI", "class": "identity", "platform": "", "owner": "SNIAC", "tiers": "national"}
+  ],
+  "note": "A download page for the identity card's middleware; nothing on civil registration."
+}

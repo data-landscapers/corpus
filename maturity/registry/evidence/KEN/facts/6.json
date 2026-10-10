@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-22-ken-kenyans-co-ke-sha-nssf-social-protection-database",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Population Registration Service", "country_label": "IPRS", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Enhanced Single Registry and CDMIS data exchange with Civil Registration Services", "country_label": "ESR; CDMIS", "class": "exchange", "platform": "", "owner": "State Department for Social Protection and Senior Citizen Affairs", "tiers": "planned upgrade under the World Bank-funded KSEIP-2; consultant being sought"}
+  ],
+  "note": "Civil Registration Services is named only as one of the systems the social protection registry is to exchange data with; nothing is stated about how births or deaths are registered."
+}

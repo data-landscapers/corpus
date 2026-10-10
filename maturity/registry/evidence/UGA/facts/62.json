@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-16-nira-cosase-18-million-unregistered-staffing",
+  "facts": [],
+  "systems": [
+    {"system": "National ID registration", "country_label": "National Identity Cards; NINs; mass enrolment and renewal", "class": "identity", "platform": "", "owner": "NIRA", "tiers": "district registration offices; mass enrolment planned across 10,717 parishes, 2,190 sub-counties and 146 districts"}
+  ],
+  "note": "No system for births or deaths is named or described, so no fact. It does give the count of offices of the body that registers them: NIRA present in 112 districts with 24 districts and 10 cities unserved (its director, 1 July 2024), and offices in 111 of 146 districts as of October 2023 (Auditor General), with 410 of 856 posts filled; rural offices served 60 to 150 people a day against 600 to 1,000 in Kampala."
+}

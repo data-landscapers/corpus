@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-world-bank-id4d-global-dataset-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National ID System/National Identity Card", "country_label": "National ID System/National Identity Card", "class": "identity", "platform": "", "owner": "", "tiers": "not stated; no digital ID system (Findex fieldwork 14 August to 14 September 2024)"}
+  ],
+  "note": "A global dataset on identity-document ownership. For Niger it gives adult ID coverage below 70% with a 20-point gender gap (2024 survey) and names the national identity card; it says nothing about Niger's civil registration offices or any registration system there."
+}
