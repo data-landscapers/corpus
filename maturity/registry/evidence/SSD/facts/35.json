@@ -1,15 +1,62 @@
 {
   "slug": "2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan",
   "facts": [
-    {"sub_indicator": "civil", "aspect": "governance", "value": "plan:current", "fact": "Hold the Child's project snapshot states that South Sudan has adopted a Costed Plan for the Civil Registration and Vital Statistics System and recently approved Civil Registry Rules and Procedures, with implementation constrained by limited infrastructure and institutional weakness; the adoption is undated, so the published date is used.", "as_of": "2025-12-15", "date_precision": "day", "system": "Civil Registration and Vital Statistics (CRVS) System", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "finance:donor", "fact": "The birth-registration pilot is resourced by Vital Strategies, and the project supporting its roll-out at Juba Teaching Hospital is costed at USD 85,000 with USD 48,000 still sought from donors, per Hold the Child's snapshot published 15 December 2025; no domestic budget is mentioned.", "as_of": "2025-12-15", "date_precision": "day", "system": "birth registration pilot", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The birth registration work is carried out with the Ministry of Interior's Department of Civil Registry, Nationality, Passport and Immigration (DCRNPI), implemented by the NGO Hold the Child with a technical working group of UN agencies and Vital Strategies, per the snapshot published 15 December 2025.", "as_of": "2025-12-15", "date_precision": "day", "system": "birth registration pilot", "class": "civil"},
-    {"sub_indicator": "civil", "aspect": "events", "value": "none", "fact": "Hold the Child's snapshot states that the country is yet to issue birth certificates and national identity cards at scale, birth registration having only been piloted within existing constraints; undated, so the published date is used.", "as_of": "2025-12-15", "date_precision": "day", "system": "birth registration pilot", "class": "civil"}
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "Hold the Child's project snapshot states that South Sudan has adopted a Costed Plan for the Civil Registration and Vital Statistics System and recently approved Civil Registry Rules and Procedures, with implementation constrained by limited infrastructure and institutional weakness; the adoption is undated, so the published date is used.",
+      "as_of": "2025-12-15",
+      "date_precision": "day",
+      "system": "Civil Registration and Vital Statistics (CRVS) System",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The birth-registration pilot is resourced by Vital Strategies, and the project supporting its roll-out at Juba Teaching Hospital is costed at USD 85,000 with USD 48,000 still sought from donors, per Hold the Child's snapshot published 15 December 2025; no domestic budget is mentioned.",
+      "as_of": "2025-12-15",
+      "date_precision": "day",
+      "system": "birth registration pilot",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The birth registration work is carried out with the Ministry of Interior's Department of Civil Registry, Nationality, Passport and Immigration (DCRNPI), implemented by the NGO Hold the Child with a technical working group of UN agencies and Vital Strategies, per the snapshot published 15 December 2025.",
+      "as_of": "2025-12-15",
+      "date_precision": "day",
+      "system": "birth registration pilot",
+      "class": "civil"
+    }
   ],
   "systems": [
-    {"system": "birth registration pilot", "country_label": "adopted birth-registration business process", "class": "civil", "platform": "", "owner": "DCRNPI, with Hold the Child; resourced by Vital Strategies", "tiers": "pilot in Juba, at Juba Teaching Hospital; light equipment to be provided for its roll-out there"},
-    {"system": "Civil Registration and Vital Statistics (CRVS) System", "country_label": "CRVS System", "class": "civil", "platform": "", "owner": "DCRNPI", "tiers": "a costed plan adopted; not stated"},
-    {"system": "National ID processing", "country_label": "National Identity cards; Nationality Certificates", "class": "identity", "platform": "", "owner": "DCRNPI", "tiers": "piloted; about 10% of the population hold a Nationality Certificate"}
+    {
+      "system": "birth registration pilot",
+      "country_label": "adopted birth-registration business process",
+      "class": "civil",
+      "platform": "",
+      "owner": "DCRNPI, with Hold the Child; resourced by Vital Strategies",
+      "tiers": "pilot in Juba, at Juba Teaching Hospital; light equipment to be provided for its roll-out there"
+    },
+    {
+      "system": "Civil Registration and Vital Statistics (CRVS) System",
+      "country_label": "CRVS System",
+      "class": "civil",
+      "platform": "",
+      "owner": "DCRNPI",
+      "tiers": "a costed plan adopted; not stated"
+    },
+    {
+      "system": "National ID processing",
+      "country_label": "National Identity cards; Nationality Certificates",
+      "class": "identity",
+      "platform": "",
+      "owner": "DCRNPI",
+      "tiers": "piloted; about 10% of the population hold a Nationality Certificate"
+    }
   ],
-  "note": "The document does not say whether the Juba pilot records births digitally or on paper, so no fact is recorded for how the record is made or for offices."
+  "note": "The document does not say whether the Juba pilot records births digitally or on paper, so no fact is recorded for how the record is made or for offices. Withdrawn on the parent's check of 2026-10-10: a fact recorded as events 'none', which the text does not state."
 }

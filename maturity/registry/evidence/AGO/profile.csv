@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-07-18,AGO-001;AGO-008;AGO-025,AGO-007=owner:ministry;AGO-018=owner:ministry;AGO-031=owner:vendor;AGO-035=owner:ministry;AGO-037=finance:donor;AGO-026=owner:ministry;AGO-014=owner:ministry;AGO-030=owner:ministry;AGO-043=owner:ministry;AGO-044=owner:ministry;AGO-045=owner:ministry;AGO-019=plan:current;AGO-036=plan:current,
+AGO,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-07-18,AGO-001;AGO-008;AGO-025,AGO-007=owner:ministry;AGO-018=owner:ministry;AGO-031=owner:vendor;AGO-035=owner:ministry;AGO-037=finance:donor;AGO-026=owner:ministry;AGO-014=owner:ministry;AGO-030=owner:ministry;AGO-043=owner:ministry;AGO-045=owner:ministry;AGO-019=plan:current;AGO-036=plan:current,
 AGO,civil,events,coverage,B,2026-07-18,AGO-002;AGO-012;AGO-017;AGO-028;AGO-034,AGO-041=B,
 AGO,civil,made,coverage,connected,2026-05-05,AGO-004;AGO-011;AGO-027,AGO-016=local;AGO-020=paper;AGO-021=keyed-elsewhere;AGO-033=local;AGO-038=paper;AGO-039=keyed-elsewhere;AGO-023=paper,
 AGO,civil,last12,qualifier,regressing,2026-05-05,AGO-003,AGO-009=advancing;AGO-010=advancing;AGO-015=advancing;AGO-032=advancing,
-AGO,civil,offices,coverage,none,2024,AGO-022;AGO-040,AGO-013=not-published;AGO-029=not-published;AGO-024=not-published;AGO-042=not-published,
+AGO,civil,offices,coverage,not-published,2024,AGO-013;AGO-022;AGO-024;AGO-029;AGO-040;AGO-042,,

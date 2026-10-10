@@ -3,12 +3,12 @@ type: task
 reader: cc
 title: maturity-study-registry.md — the third maturity study: rural registry offices, as civil registration
 last_reviewed: 2026-10-10
-status: CC's proposal, with Bill's five rulings of 2026-10-10; reviewed and the ladder tested 2026-10-10
+status: Bill's five rulings of 2026-10-10; ladder tested; Phase 1 search under way
 ---
 
 # Maturity study: registry — civil registration
 
-*(Commissioned by Bill on 2026-10-10, the third study under `maturity/documentation/maturity-study-method.md`. Lines marked (Bill) are his; the rest is CC's. Study id `registry`. Triggers: "**run maturity study registry**", then "**… phase 2**".)*
+*(Commissioned by Bill on 2026-10-10, under `maturity/documentation/maturity-study-method.md`. Lines marked (Bill) are his. Triggers: "**run maturity study registry**", then "**… phase 2**".)*
 
 ## 1. The question, and the rows it redraws
 
@@ -20,9 +20,9 @@ status: CC's proposal, with Bill's five rulings of 2026-10-10; reviewed and the 
 |---|---|---|
 | Civil registration | Digitalisation of rural registry offices: civil registration | `digital.rural--digitalisation-of-rural-registry-offices-civil-registration` |
 
-The id enters `lookups/indicators.csv` only at acceptance, when the rural row is retired. **Identity enrolment and land registration get no ladder here.**
+The id enters `lookups/indicators.csv` at acceptance. **Identity enrolment and land registration get no ladder here.**
 
-`dpi.id--interoperability-of-birth-registration-and-digital-id` is not redrawn. Its evidence is logged in `maturity/registry/exchange.csv`.
+`dpi.id--interoperability-of-birth-registration-and-digital-id` is not redrawn; its evidence is logged in `exchange.csv`.
 
 ## 2. Typology
 
@@ -40,7 +40,7 @@ The id enters `lookups/indicators.csv` only at acceptance, when the rural row is
 
 **The test: is the event entered as a digital record where and when it is registered?** A register digitised afterwards by a project is `archive`. A paper register keyed elsewhere as routine, for each new event, is `civil`, `keyed-elsewhere`.
 
-**Classified by what the source says the system does, never by name**; a name alone is unclassified.
+**Classified by what the source says the system does**; a name alone is unclassified.
 
 **A registrar's desk in a maternity is a registry office** where the source says the birth is registered there; where the facility only notifies, it is `notification`. **A mobile team that is a permanent feature of the service is an office; one fielded for a campaign is `outreach`** *(Bill)*. Where the source does not say, it is a campaign.
 
@@ -48,7 +48,7 @@ The id enters `lookups/indicators.csv` only at acceptance, when the rural row is
 
 **Events.** B births, D deaths. Marriages and divorces are noted.
 
-**Two flags that never change the stage** *(Bill)*. *Identity integrated*: registering a birth issues or feeds the identity number; its absence is not penalised. *Backlog capture*: past registers are being digitised: noteworthy, though new births are the priority. The stager sets both from `systems.csv`.
+**Two flags that never change the stage** *(Bill)*. *Identity integrated*: registering a birth issues or feeds the identity number; its absence is not penalised. *Backlog capture*: past registers are being digitised: noteworthy, though new births are the priority. The stager sets both.
 
 ## 3. Aspects
 
@@ -66,7 +66,7 @@ The id enters `lookups/indicators.csv` only at acceptance, when the rural row is
 
 ## 4. The ladder
 
-Tested and fixed at R3, 2026-10-10 (`ladder-test.csv`): every rung is reached. **Deaths are a stage 5 requirement only** *(Bill)*.
+Tested at R3: every rung is reached. **Deaths are a stage 5 requirement only** *(Bill)*.
 
 **Civil registration**
 
@@ -84,25 +84,24 @@ Tested and fixed at R3, 2026-10-10 (`ladder-test.csv`): every rung is reached. *
 
 **A share of communes or districts with a digital office is read as the share of offices**; the short summary says which. A share of offices *equipped*, *deployed*, *computerised* or *digitised* is not a share registering: it is `equipped` and places at stage 3. *All offices*, said by the registrar or the statistics office beside a count of offices, is 100 per cent. A share of births registered places nothing.
 
-**Fixed at R3.** What a law prescribes or permits is governance and places nothing. A paper form keyed at the same office when the event is registered is entry at the office. A digital record with no event named is read as births. A union of two registration systems is staged on the part holding most of the population, and the long summary states the other.
+**Fixed at R3.** `connected` is read from the fact's words: where they do not say the entry is made at the office, the fact reaches no rung above 3. What a law prescribes or permits is governance and places nothing. A paper form keyed at the same office when the event is registered is entry at the office. A digital record with no event named is read as births. A union of two registration systems is staged on the part holding most of the population, and the long summary states the other.
 
 ## 5. The norm
 
-The frame's anchor (`lookups/maturity-norms.csv`): the AU Digital Transformation Strategy's 99.9 per cent legal identity by 2030, and the 100 per cent of births and 80 per cent of deaths of SDG 17.19.2(b) that the APAI-CRVS papers restate.
+The frame's anchor: the AU Digital Transformation Strategy's 99.9 per cent legal identity by 2030, and the 100 per cent of births and 80 per cent of deaths of SDG 17.19.2(b) that the APAI-CRVS papers restate.
 
-**It does not measure what the sub-indicator measures**: it counts people and events registered, which a paper office meets. The ladder borrows nothing from it; the 90 per cent line is the health study's. *Read from the texts at R3; this paragraph is from the lookup.*
+**Neither measures what the sub-indicator measures**: both count people and events registered, which a paper office meets. **One programme text does**: the APAI-CRVS costed plan for 2017 to 2021 counts *countries with electronic data capture on the local level*, 5 in 2016 and 40 by 2021. It sets no share of offices, so stage 3 meets it. The ladder borrows nothing; the 90 per cent line is the health study's. *(Read 2026-10-10.)*
 
 ## 6. What Phase 1 reads and searches for
 
-- **Subjects**: `digital.rural`, `dpi.registry`, `dpi.id`.
-- **Term list**: in `study.json`.
-- **Source types for the briefs**, ranked: the registrar's annual reports, manuals and circulars, which say which offices enter what; vital statistics reports; CRVS strategies, assessments and costed plans; World Bank, UNICEF, UNDP and UNFPA appraisal and implementation reports; UNECA and APAI-CRVS country papers; dated news of a rollout, an outage or a withdrawal, for aspect 4.
+- **Subjects and term list**: in `study.json`.
+- **Source types for the briefs**, ranked: the registrar's annual reports, manuals and circulars; vital statistics reports; CRVS strategies, assessments and costed plans; World Bank, UNICEF, UNDP and UNFPA appraisal and implementation reports; UNECA and APAI-CRVS country papers; dated news of a rollout, an outage or a withdrawal, for aspect 4.
 
 ## 7. Tasks, in order
 
 - [x] **R1. Bill's rulings**: five, 2026-10-10.
-- [x] **R2. Review all 54 countries in one run**, method §4: 3,610 documents, 1,482 facts.
-- [x] **R3. Test and fix the ladder** on the profiles. *The norm's texts are still to be read.*
+- [x] **R2. Review all 54 countries**, method §4.
+- [x] **R3. Test and fix the ladder**; the norm's texts read.
 - [ ] **R4. Search, select and hand over**, method §5.
 - [ ] **R5. Phase 2**, on Bill's trigger, method §6 and §7.
 - [ ] **R6. Write, render and lint**, method §8.
