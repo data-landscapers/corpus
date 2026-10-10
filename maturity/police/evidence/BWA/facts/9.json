@@ -1,17 +1,6 @@
 {
   "slug": "2025-05-06-integrate-technology-police-service",
-  "facts": [
-    {
-      "sub_indicator": "record",
-      "aspect": "made",
-      "value": "paper",
-      "fact": "President Boko, opening the 51st Botswana Police Senior Officers Annual Conference on 2025-05-06, said police officers currently spent 60 percent of their time behind the desk doing paperwork, time technology and artificial intelligence could return to field work; he named no record or system, and the document does not say the paperwork is the occurrence book or case file.",
-      "as_of": "2025-05-06",
-      "date_precision": "day",
-      "system": "Police paperwork (no system named)",
-      "class": "record"
-    }
-  ],
+  "facts": [],
   "systems": [
     {
       "system": "Safer city initiative (surveillance cameras)",
@@ -22,5 +11,5 @@
       "tiers": "cameras installed at strategic locations, as the president states it"
     }
   ],
-  "note": "The one fact is the president's general statement about paperwork; whether it bears on station records is the parent's to decide. Drones and artificial intelligence are proposals, not systems in use."
+  "note": "The one fact is the president's general statement about paperwork; whether it bears on station records is the parent's to decide. Drones and artificial intelligence are proposals, not systems in use. Parent, P3: made=paper withdrawn - paperwork in general; names no station record."
 }

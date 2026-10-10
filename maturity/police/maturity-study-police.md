@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-police.md — the fourth maturity study: rural police stations, as station records
 last_reviewed: 2026-10-10
-status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 stopped by Bill mid-review, P2 part done: slices from NER 2 onward (NGA to ZWE) not yet read
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; reviewed and ladder tested; search under way
 ---
 
 # Maturity study: police — station records
@@ -65,7 +65,7 @@ The id enters `lookups/indicators.csv` at acceptance. **`dpi.mis--justice` is no
 
 ## 4. The ladder
 
-A draft, tested and fixed at P3.
+Tested at P3 (`ladder-test.csv`): rungs 4 and 5 are unreached on what is held, and stand. 37 countries hold nothing usable.
 
 **Station records**
 
@@ -89,7 +89,7 @@ A draft, tested and fixed at P3.
 
 The frame's anchor (`lookups/maturity-norms.csv`) is Corpus-defined: the AFRIPOL Statute of 2017 connects national police agencies and says nothing below the national level, and the lookup's search found no AU instrument on local stations.
 
-**No norm measures what the sub-indicator measures.** The ladder borrows nothing; the 90 per cent line is the health study's. **Owed a reading at P3**: the African Commission's guidelines on arrest and police custody, for what they require of a station's registers. *From the lookup.*
+**No norm measures what the sub-indicator measures.** The ladder borrows nothing; the 90 per cent line is the health study's. The African Commission's Luanda Guidelines (2014), part 4, require arrest and custody registers wherever people are held and name no medium; the custody register is a noted class here. *(Part 4 read 2026-10-10.)*
 
 ## 6. What the review reads and the search asks for
 
@@ -99,20 +99,14 @@ The frame's anchor (`lookups/maturity-norms.csv`) is Corpus-defined: the AFRIPOL
 ## 7. Tasks, in order
 
 - [x] **P1. Bill's rulings**: the five proposals stand, 2026-10-10.
-- [ ] **P2. Review all 54 countries**, method §4.
-- [ ] **P3. Test and fix the ladder** on the profiles; read the norm's texts.
+- [x] **P2. Review all 54 countries**, method §4: 1,932 documents, 92 slices.
+- [x] **P3. Test the ladder**: 4 at stage 3, 7 at 2, 5 at 1; 16 facts corrected (`corrections.csv`).
 - [ ] **P4. Search and hand over**, method §5.
 - [ ] **P5. Re-read and stage**, method §6 and §7.
 - [ ] **P6. Write, render and lint**, method §8.
 - [ ] **P7. Report to Bill.** Acceptance is his.
 
-**The rulings of P1**, CC's proposals, which Bill ran without amendment:
-
-1. **Station records only**: the occurrence book and the case file. The rest is noted.
-2. **Only the rural row is redrawn**; `dpi.mis--justice` stands.
-3. **The gendarmerie counts as police**; chiefs and municipal police do not.
-4. **Stage 5 needs both records**; stages 3 and 4 need either.
-5. **Crime statistics place nothing**; routine keying of each case at headquarters reaches stage 3.
+**The rulings of P1**, CC's proposals, run unamended: station records only; only the rural row redrawn; the gendarmerie counts; stage 5 needs both records; crime statistics place nothing, and routine keying at headquarters reaches stage 3.
 
 ## Boundary
 

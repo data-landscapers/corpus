@@ -1,37 +1,6 @@
 {
   "slug": "2021-08-12-niger-dst-materiel-biometrique",
-  "facts": [
-    {
-      "sub_indicator": "record",
-      "aspect": "records",
-      "value": "C",
-      "fact": "Le Sahel (ONEP) reports that the second component of the France-Spain-Niger joint investigation team project is to create a procedure-drafting software, LRP, for the DST's special investigations division, to help Nigerien police officers draft their procès-verbaux; it is announced as planned, not as in use.",
-      "as_of": "2021-08-11",
-      "date_precision": "day",
-      "system": "LRP (Logiciel de Rédaction de Procédures)",
-      "class": "record"
-    },
-    {
-      "sub_indicator": "record",
-      "aspect": "stations",
-      "value": "none",
-      "fact": "Le Sahel (ONEP) describes the LRP procedure-drafting software as a future creation for the DST's special investigations division only; no station, commissariat or post is said to use it.",
-      "as_of": "2021-08-11",
-      "date_precision": "day",
-      "system": "LRP (Logiciel de Rédaction de Procédures)",
-      "class": "record"
-    },
-    {
-      "sub_indicator": "record",
-      "aspect": "governance",
-      "value": "finance:donor",
-      "fact": "Le Sahel (ONEP) reports that the joint investigation team project, whose second component is the LRP software, is financed by the European Union through France and Spain, which gave equipment worth EUR 156,000 (FCFA 102 million) under its first component.",
-      "as_of": "2021-08-11",
-      "date_precision": "day",
-      "system": "LRP (Logiciel de Rédaction de Procédures)",
-      "class": "record"
-    }
-  ],
+  "facts": [],
   "systems": [
     {
       "system": "LRP (Logiciel de Rédaction de Procédures)",
@@ -50,5 +19,5 @@
       "tiers": "Phase 1: 5 fixed and 2 mobile identification posts at the DST/DIS, each with a computer, fingerprint scanner, HD camera and printer; phase 2 planned: a data centre, 15 fixed posts (5 each at Abalak, Tanout and Arlit) and 20 mobile posts for the CMCF"
     }
   ],
-  "note": ""
+  "note": "Parent, P3: records=C withdrawn - a headquarters investigations unit, announced only: not a station system. Parent, P3: stations=none withdrawn - as NER-004. Parent, P3: governance=finance:donor withdrawn - as NER-004."
 }

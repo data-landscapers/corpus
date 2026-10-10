@@ -1,0 +1,17 @@
+row_id,action,why
+BWA-003,withdrawn,paperwork in general; names no station record
+CPV-009,added stations=not-published,the source gives no count; the system is live in stations
+MLI-004,withdrawn,what a law prescribes is governance and places nothing
+MWI-002,withdrawn,the source does not say how or where a station enters a record
+MWI-003,revalued not-published to none,'as it is introduced': no station is said to be using it
+NER-004,withdrawn,"a headquarters investigations unit, announced only: not a station system"
+NER-005,withdrawn,as NER-004
+NER-006,withdrawn,as NER-004
+NGA-001,withdrawn,the source does not say reports or cases are entered digitally: unclassified
+NGA-002,withdrawn,as NGA-001
+NGA-003,withdrawn,as NGA-001
+STP-002,withdrawn,the justice-wide case system; no source says a station enters reports in it: exchange
+STP-003,withdrawn,as STP-002
+STP-004,withdrawn,as STP-002
+STP-005,withdrawn,as STP-002
+STP-006,withdrawn,as STP-002

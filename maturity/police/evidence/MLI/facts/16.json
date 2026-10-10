@@ -1,17 +1,6 @@
 {
   "slug": "2024-12-13-mali-loi-2024-028-code-procedure-penale",
-  "facts": [
-    {
-      "sub_indicator": "record",
-      "aspect": "made",
-      "value": "paper",
-      "fact": "The Code de procédure pénale of 13 December 2024 requires the judicial police officer's procès-verbaux to be drafted on the spot and signed on each sheet by the officer and the persons heard (art. 132), the originals sent directly to the prosecutor (art. 34), a receipt issued at once for every complaint (art. 30) and heads of police units and gendarmerie brigades to send the prosecutor monthly statements of their files (art. 36); the passages read provide no electronic form for the procès-verbal or the complaint.",
-      "as_of": "2024-12-13",
-      "date_precision": "day",
-      "system": "Procès-verbaux of the judicial police",
-      "class": "record"
-    }
-  ],
+  "facts": [],
   "systems": [
     {
       "system": "Registre de garde à vue",
@@ -78,5 +67,5 @@
       "tiers": "National and centralised; the registries of the tribunals of first instance receive the record cards (arts. 1289-1291, 1302, 1330)"
     }
   ],
-  "note": "A law, read as passages (the paragraphs carrying a study term, of 130,405 words): the one fact is the form the statute prescribes for the procès-verbal, not a statement of what stations do; the files and registers it authorises are permissions, with decrees still to come."
+  "note": "A law, read as passages (the paragraphs carrying a study term, of 130,405 words): the one fact is the form the statute prescribes for the procès-verbal, not a statement of what stations do; the files and registers it authorises are permissions, with decrees still to come. Parent, P3: made=paper withdrawn - what a law prescribes is governance and places nothing."
 }

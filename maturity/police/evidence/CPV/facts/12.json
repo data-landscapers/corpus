@@ -1,13 +1,66 @@
 {
   "slug": "2026-03-16-nosi-sistema-informacao-justica-penal",
   "facts": [
-    {"sub_indicator": "record", "aspect": "records", "value": "O;C", "fact": "The Ministry of Justice says the SIJ's digital criminal-process subsystem takes in the Polícia Nacional's stations and the Polícia Judiciária's delegations, so that the handling of complaints is essentially digital from the police to the courts, with about 25,000 autos and more than 18,000 cases processed end to end by 16 March 2026.", "as_of": "2026-03-16", "date_precision": "day", "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal", "class": "record"},
-    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "The Ministry of Justice says the SIJ solution integrates the Polícia Nacional's stations and the Polícia Judiciária's delegations, complaints being handled digitally from the police through to the courts in the one system; it does not describe how the station enters the complaint.", "as_of": "2026-03-16", "date_precision": "day", "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal", "class": "record"},
-    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The criminal-process subsystem of the SIJ was developed by the state's NOSi with the justice institute IMIJ and handed to the Ministry of Justice on 16 March 2026; the ministry is the justice ministry, not the Polícia Nacional's.", "as_of": "2026-03-16", "date_precision": "day", "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal", "class": "record"},
-    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "On 16 March 2026 NOSi formally handed over the SIJ's digital criminal-process subsystem, which by then had processed about 25,000 autos and more than 18,000 cases and took in the police stations; the stated target is all courts fully digital within three years.", "as_of": "2026-03-16", "date_precision": "day", "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal", "class": "record"}
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O;C",
+      "fact": "The Ministry of Justice says the SIJ's digital criminal-process subsystem takes in the Polícia Nacional's stations and the Polícia Judiciária's delegations, so that the handling of complaints is essentially digital from the police to the courts, with about 25,000 autos and more than 18,000 cases processed end to end by 16 March 2026.",
+      "as_of": "2026-03-16",
+      "date_precision": "day",
+      "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The Ministry of Justice says the SIJ solution integrates the Polícia Nacional's stations and the Polícia Judiciária's delegations, complaints being handled digitally from the police through to the courts in the one system; it does not describe how the station enters the complaint.",
+      "as_of": "2026-03-16",
+      "date_precision": "day",
+      "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The criminal-process subsystem of the SIJ was developed by the state's NOSi with the justice institute IMIJ and handed to the Ministry of Justice on 16 March 2026; the ministry is the justice ministry, not the Polícia Nacional's.",
+      "as_of": "2026-03-16",
+      "date_precision": "day",
+      "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 16 March 2026 NOSi formally handed over the SIJ's digital criminal-process subsystem, which by then had processed about 25,000 autos and more than 18,000 cases and took in the police stations; the stated target is all courts fully digital within three years.",
+      "as_of": "2026-03-16",
+      "date_precision": "day",
+      "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "not-published",
+      "fact": "The Ministry of Justice's account of the SIJ criminal-process subsystem in the Polícia Nacional's stations gives no count or share of stations using it.",
+      "as_of": "2026-03-16",
+      "date_precision": "day",
+      "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal",
+      "class": "record"
+    }
   ],
   "systems": [
-    {"system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal", "country_label": "SIJ", "class": "record", "platform": "developed by NOSi with IMIJ", "owner": "Ministério da Justiça", "tiers": "courts, Polícia Nacional stations (esquadras) and Polícia Judiciária delegations; no count of stations given"}
+    {
+      "system": "Sistema de Informação da Justiça (SIJ), subsistema de tramitação digital do processo penal",
+      "country_label": "SIJ",
+      "class": "record",
+      "platform": "developed by NOSi with IMIJ",
+      "owner": "Ministério da Justiça",
+      "tiers": "courts, Polícia Nacional stations (esquadras) and Polícia Judiciária delegations; no count of stations given"
+    }
   ],
   "note": "Classed record on the document's statement that complaint handling is digital from the police onward; the system is the justice ministry's and also the link to the courts (justice linked). No count or share of stations is given."
 }

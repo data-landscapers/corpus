@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBR,record,governance,qualifier,owner:ministry;finance:donor,2022-04-04,LBR-008;LBR-011,LBR-006=finance:donor;LBR-014=finance:donor,nothing dated since 2023-10-10
+LBR,record,records,coverage,O,2023-03-09,LBR-003,LBR-007=C;LBR-009=C;LBR-012=O;C,nothing dated since 2023-10-10
+LBR,record,made,coverage,connected,2023-03-09,LBR-004;LBR-010,,nothing dated since 2023-10-10
+LBR,record,last12,qualifier,,,,,nothing held
+LBR,record,stations,coverage,pilot,2021-01,LBR-005;LBR-013,,nothing dated since 2023-10-10

@@ -1,11 +1,15 @@
 {
   "slug": "2024-01-01-sao-tome-ministerio-publico-sistema-gestao-processual",
-  "facts": [
-    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The Public Prosecutor's Office says the case management programme is piloted by the Ministry of Justice with a team from the Supreme Court, the first-instance court and the prosecution, and is to serve the courts, the prosecution, the Polícia Nacional, the Polícia Judiciária and the prison service; the page gives no date, so its published year is used.", "as_of": "2024", "date_precision": "year", "system": "Sistema de Gestão Processual", "class": "record"},
-    {"sub_indicator": "record", "aspect": "governance", "value": "finance:donor", "fact": "The Public Prosecutor's Office says the case management programme has been financed by UNDP São Tomé and Príncipe since 2020 and is being implemented by the firm Synergy in two phases, installation of the software at INIC and then digitisation of proceedings; the page gives no date, so its published year is used.", "as_of": "2024", "date_precision": "year", "system": "Sistema de Gestão Processual", "class": "record"}
-  ],
+  "facts": [],
   "systems": [
-    {"system": "Sistema de Gestão Processual", "country_label": "Sistema de Gestão Processual (Programa de Gestão Processual)", "class": "record", "platform": "Synergy; software to be installed at INIC", "owner": "Ministry of Justice, with the Supreme Court, the first-instance court and the Public Prosecutor's Office; financed by UNDP", "tiers": "To be implemented for the courts, the prosecution, the Polícia Nacional, the Polícia Judiciária and the prison and social reintegration services; no station or place named"}
+    {
+      "system": "Sistema de Gestão Processual",
+      "country_label": "Sistema de Gestão Processual (Programa de Gestão Processual)",
+      "class": "record",
+      "platform": "Synergy; software to be installed at INIC",
+      "owner": "Ministry of Justice, with the Supreme Court, the first-instance court and the Public Prosecutor's Office; financed by UNDP",
+      "tiers": "To be implemented for the courts, the prosecution, the Polícia Nacional, the Polícia Judiciária and the prison and social reintegration services; no station or place named"
+    }
   ],
-  "note": "Class is the parent's to confirm: the document names the two police forces as parties to a justice-wide case management system and does not say that a station enters its reports or cases in it. The prosecution's own interim spreadsheet replacing its paper registers is not a police system and is left out."
+  "note": "Class is the parent's to confirm: the document names the two police forces as parties to a justice-wide case management system and does not say that a station enters its reports or cases in it. The prosecution's own interim spreadsheet replacing its paper registers is not a police system and is left out. Parent, P3: governance=owner:ministry withdrawn - the justice-wide case system; no source says a station enters reports in it: exchange. Parent, P3: governance=finance:donor withdrawn - as STP-002."
 }

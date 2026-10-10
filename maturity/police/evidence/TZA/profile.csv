@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TZA,record,governance,qualifier,owner:ministry;finance:not-stated,2024-05,TZA-006;TZA-007,,not stated: plan
+TZA,record,records,coverage,C,2024-05,TZA-003,,
+TZA,record,made,coverage,connected,2024-04,TZA-005,,
+TZA,record,last12,qualifier,,,,,nothing held
+TZA,record,stations,coverage,count:23,2024-04,TZA-004,,

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CPV,record,governance,qualifier,owner:ministry,2026-03-16,CPV-005,CPV-008=owner:ministry,"not stated: plan, finance"
+CPV,record,records,coverage,O;C,2026-03-16,CPV-003;CPV-007,,
+CPV,record,made,coverage,connected,2026-03-16,CPV-004,,
+CPV,record,last12,qualifier,advancing,2026-03-16,CPV-006,,
+CPV,record,stations,coverage,not-published,2026-03-16,CPV-009,,

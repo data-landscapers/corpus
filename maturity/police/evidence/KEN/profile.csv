@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+KEN,record,governance,qualifier,owner:ministry,2026-08-28,KEN-024,KEN-003=owner:ministry;KEN-007=owner:ministry;KEN-011=owner:ministry;KEN-017=owner:ministry;KEN-020=owner:ministry;KEN-022=owner:ministry,"not stated: plan, finance"
+KEN,record,records,coverage,O;C,2026-08-28,KEN-001;KEN-005;KEN-009;KEN-016;KEN-019;KEN-021;KEN-023;KEN-026,,
+KEN,record,made,coverage,,,,,nothing held
+KEN,record,last12,qualifier,advancing,2026-08-28,KEN-004;KEN-008;KEN-012;KEN-018;KEN-025,,
+KEN,record,stations,coverage,none,2026-05-13,KEN-002;KEN-006;KEN-010,,

@@ -13,18 +13,8 @@
     },
     {
       "sub_indicator": "record",
-      "aspect": "made",
-      "value": "connected",
-      "fact": "UNDP Malawi describes the Crime Management System as designed to give the Malawi Police Service a centralised digital platform for crime information, to be introduced across police stations and formations nationwide; it does not say how or where a station enters a record.",
-      "as_of": "2026-07-29",
-      "date_precision": "day",
-      "system": "Crime Management System",
-      "class": "record"
-    },
-    {
-      "sub_indicator": "record",
       "aspect": "stations",
-      "value": "not-published",
+      "value": "none",
       "fact": "UNDP Malawi says officers from across the country were trained to be early adopters and champions of the Crime Management System 'as it is introduced' across police stations and formations nationwide; no number of stations using it, and no number of officers trained, is given.",
       "as_of": "2026-07-29",
       "date_precision": "day",
@@ -72,5 +62,5 @@
       "tiers": "To be introduced across police stations and formations nationwide; officers trained as early adopters, July 2026"
     }
   ],
-  "note": ""
+  "note": "Parent, P3: made=connected withdrawn - the source does not say how or where a station enters a record. Parent, P3: stations revalued not-published to none - 'as it is introduced': no station is said to be using it."
 }

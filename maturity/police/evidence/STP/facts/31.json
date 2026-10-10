@@ -1,12 +1,15 @@
 {
   "slug": "2023-01-01-synergy-international-systems-sao-tome-icms-justica",
-  "facts": [
-    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The vendor Synergy says the Government of São Tomé and Príncipe, with the support of the UNDP office, awarded it a contract in December 2022 to implement an Integrated Case Management System for the justice system.", "as_of": "2022-12", "date_precision": "month", "system": "Integrated Case Management System (ICMS)", "class": "record"},
-    {"sub_indicator": "record", "aspect": "governance", "value": "plan:current", "fact": "The vendor Synergy says the National Strategy for Digital Governance calls for digitalising the justice system, and that the Integrated Case Management System is contracted to that end; the page gives no date for the strategy, so its published year is used.", "as_of": "2023", "date_precision": "year", "system": "Integrated Case Management System (ICMS)", "class": "record"},
-    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The vendor Synergy says its analysts made a needs assessment in January 2023 and that the system 'will be rolled out in phases', the first covering the whole cycle of criminal proceedings across police, prosecution, judiciary and prison in the city of São Tomé, and a later stage the whole country; no station is said to use it yet.", "as_of": "2023-01", "date_precision": "month", "system": "Integrated Case Management System (ICMS)", "class": "record"}
-  ],
+  "facts": [],
   "systems": [
-    {"system": "Integrated Case Management System (ICMS)", "country_label": "", "class": "record", "platform": "Synergy eCase", "owner": "Government of São Tomé and Príncipe, with the support of UNDP; implemented by Synergy International Systems", "tiers": "Not yet rolled out as at January 2023; phase 1 police, prosecution, judiciary and prison in the city of São Tomé, later the whole country"}
+    {
+      "system": "Integrated Case Management System (ICMS)",
+      "country_label": "",
+      "class": "record",
+      "platform": "Synergy eCase",
+      "owner": "Government of São Tomé and Príncipe, with the support of UNDP; implemented by Synergy International Systems",
+      "tiers": "Not yet rolled out as at January 2023; phase 1 police, prosecution, judiciary and prison in the city of São Tomé, later the whole country"
+    }
   ],
-  "note": "A vendor's statement, good for what the system is to do. Class is the parent's to confirm: the page says the system covers the cycle of criminal proceedings across the police and the rest of the justice chain, and does not say a station takes a report in it."
+  "note": "A vendor's statement, good for what the system is to do. Class is the parent's to confirm: the page says the system covers the cycle of criminal proceedings across the police and the rest of the justice chain, and does not say a station takes a report in it. Parent, P3: governance=owner:ministry withdrawn - as STP-002. Parent, P3: governance=plan:current withdrawn - as STP-002. Parent, P3: stations=none withdrawn - as STP-002."
 }
