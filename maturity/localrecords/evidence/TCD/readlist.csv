@@ -1,0 +1,7 @@
+n,slice,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,TCD,status,dpi.pay,,outputs/reports/TCD/TCD-status.md,,Digital Payments and Fintech,,,status,,0,385
+,,TCD,status,dpi.registry,,outputs/reports/TCD/TCD-status.md,,Registries,,,status,,0,346
+,,TCD,status,dpi.mis,,outputs/reports/TCD/TCD-status.md,,Sectoral management information systems,,,status,,0,418
+,,TCD,status,digital.localgov,,outputs/reports/TCD/TCD-status.md,,Digitalisation of sub-national government,,,status,,0,317
+1,1,TCD,raw,2026-06-01-akofena-adressage-officiel-reperes-populaires-ndjamena,passages,scripts/.workroot/study/localrecords/passages/2026-06-01-akofena-adressage-officiel-reperes-populaires-ndjamena.md,https://www.revueakofena.com/n020_vol-1_05/,De l'adressage officiel aux repères populaires : quels enjeux pour l'orientation spatiale dans la ville de N'Djamena ?,2026-06-01,TCD,ledger+subject,fiscalite locale,1,785
+2,1,TCD,raw,2017-04-27-aimf-ndjamena-mobilisation-recettes-modernisation-gestion-financiere,whole,raw/2017/2017-04-27-aimf-ndjamena-mobilisation-recettes-modernisation-gestion-financiere.md,https://www.aimf.asso.fr/actions/ndjamena-mobilisation-des-recettes-et-modernisation-de-la-gestion-financiere/,N'Djaména – Mobilisation des recettes et modernisation de la gestion financière,2017-04-27,TCD,ledger+subject,finances locales;local tax,2,469

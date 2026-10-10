@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-localrecords.md — the sixth maturity study: digitalisation of local government records, as the revenue record
 last_reviewed: 2026-10-10
-status: CC's proposal, awaiting Bill's rulings; nothing run
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 under way
 ---
 
 # Maturity study: localrecords — revenue records
@@ -93,7 +93,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 
 ## 7. Tasks, in order
 
-- [ ] **R1. Bill's rulings**, below.
+- [x] **R1. Bill's rulings**: the six proposals stand, 2026-10-10.
 - [ ] **R2. Review all 54 countries**, method §4.
 - [ ] **R3. Test and fix the ladder.**
 - [ ] **R4. Search and hand over**, method §5.
@@ -101,7 +101,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 - [ ] **R6. Write, render and lint.**
 - [ ] **R7. Report to Bill.**
 
-**Proposed for R1**:
+**The rulings of R1**, CC's proposals, run unamended:
 
 1. The revenue record only; documents, accounts and permits are noted.
 2. Only this row is redrawn.

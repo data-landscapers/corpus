@@ -1,0 +1,7 @@
+n,slice,iso3,kind,slug,read,path,url,title,published,places,why,terms,hits,words
+,,SYC,status,dpi.pay,,outputs/reports/SYC/SYC-status.md,,Digital Payments and Fintech,,,status,,0,331
+,,SYC,status,dpi.registry,,outputs/reports/SYC/SYC-status.md,,Registries,,,status,,0,345
+,,SYC,status,dpi.mis,,outputs/reports/SYC/SYC-status.md,,Sectoral management information systems,,,status,,0,329
+,,SYC,status,digital.localgov,,outputs/reports/SYC/SYC-status.md,,Digitalisation of sub-national government,,,status,,0,64
+1,1,SYC,raw,2023-03-01-govtech-maturity-index-2022-regional-brief-afe,passages,scripts/.workroot/study/localrecords/passages/SYC/2023-03-01-govtech-maturity-index-2022-regional-brief-afe.md,https://documents1.worldbank.org/curated/en/099040723102011827/pdf/P169482059758a0cd095d709f59c065838e.pdf,"GovTech Maturity Index, 2022 Update — Regional Brief: East and Southern Africa",2023-03-01,XSS;ETH;KEN;MUS;RWA;TZA;UGA;ZAF;ZMB,regional,lgrcis;local government revenue,2,888
+2,1,SYC,raw,2022-11-04-syc-budget-2023,passages,scripts/.workroot/study/localrecords/passages/2022-11-04-syc-budget-2023.md,https://www.finance.gov.sc/wp-content/uploads/2025/08/BUDGET-2023-ADDRESS.pdf,Budget 2023,2022-11-04,SYC,subject+considered,property tax,2,543
