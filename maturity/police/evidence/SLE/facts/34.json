@@ -1,0 +1,23 @@
+{
+  "slug": "2024-12-01-sle-wapis-programme",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS (West Africa Police Information System)",
+      "country_label": "Data Collection and Registration Center (DACORE), Freetown",
+      "class": "",
+      "platform": "WAPIS, INTERPOL programme funded by the European Union (EUR 28 million, 2017-2023)",
+      "owner": "INTERPOL as implementer, European Union as donor; national authorities",
+      "tiers": "Sierra Leone: the data centre in Freetown, inaugurated January 2022; no stations named"
+    },
+    {
+      "system": "WAPIS connection to INTERPOL I-24/7 and the regional sharing platform",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "INTERPOL I-24/7",
+      "owner": "INTERPOL, through each country's National Central Bureau",
+      "tiers": "national"
+    }
+  ],
+  "note": "INTERPOL's standing programme page. Its one statement on Sierra Leone is the inauguration of the Data Collection and Registration Center in Freetown in January 2022. It describes WAPIS in general as an electronic national police information system for creating, managing and sharing files on crimes and offences (cases and events, suspects, victims, witnesses, proceedings, weapons, vehicles, identity documents), but does not say that Sierra Leone's stations enter reports or cases in it, so the system is left unclassed and no fact is given."
+}

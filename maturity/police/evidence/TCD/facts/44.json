@@ -1,0 +1,23 @@
+{
+  "slug": "2024-01-01-tcd-lettre-d-information-sipao-numero-24",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'Information Policière du Tchad (SIPT)",
+      "country_label": "SIPT",
+      "class": "",
+      "platform": "SIPAO/WAPIS programme, implemented by INTERPOL",
+      "owner": "INTERPOL project funded by the European Union; to be hosted by the CREDOP, Chad's data collection and registration centre; a national single point of contact coordinates it",
+      "tiers": "not yet operational in January 2024: the programme's priority for 2024 is to finish renovating the building assigned to it and make SIPT fully operational so that Chadian users can begin recording criminal data; no unit named"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24/7",
+      "class": "exchange",
+      "platform": "INTERPOL I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "named by the national contact as the channel through which SIPT is to reach regional and international police data"
+    }
+  ],
+  "note": "No fact: SIPT is described as a common national police database for investigators, with nothing on what stations enter, so it has no class. For the parent: the newsletter states that in January 2024 Chadian users had not begun recording data in SIPT, that Chad adopted the project's legal framework and assigned a building in under six months of 2023, and the national contact says its lasting depends on the CREDOP gaining its own budget. Programme totals (550,000 cases, 12 countries extended beyond the centre) are not given by country."
+}

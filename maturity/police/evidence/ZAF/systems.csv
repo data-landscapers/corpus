@@ -40,3 +40,70 @@ ZAF,Body-worn and vehicle dashboard cameras with video and evidence management s
 ZAF,Cybersecurity Hub incident reporting (web form and e-mail),Cybersecurity Hub,public,,"Cybersecurity Hub, the national CSIRT under the Department of Communications and Digital Technologies","national; the public and businesses report cyber incidents, and those concerning cybercrime or cyberbullying are routed to SAPS for resolution",2026-08-04-cybersecurity-hub-south-africa-national-csirt-incident-management-and-reporting
 ZAF,Electronic Travel Authorisation (ETA),Electronic Travel Authorisation (ETA),border,,Department of Home Affairs,development for visitor's visas completed in quarter 3 of 2025/26; rollout not stated,2026-05-05-zaf-atc260508-report-of-the-portfolio-committee-on-home-affairs-on-the-qua
 ZAF,"Immigration criminal checks (stop lists, Interpol, records from countries of origin)",stop lists,border,,"Department of Home Affairs, Immigration Services",used by immigration to check travellers; the committee notes it cannot fully determine whether incoming travellers have criminal records,2026-05-05-zaf-atc260508-report-of-the-portfolio-committee-on-home-affairs-on-the-qua
+ZAF,digital case and docket management systems,digital case and docket management systems,record,,SAPS,recommended by the committee for identified pilot police stations by 31 March 2027; not stated as in place,2026-06-03-select-committee-report-saps-budget-vote-28-2026-27
+ZAF,body-worn cameras,body-worn cameras,surveillance,,"SAPS, procurement with the State Information Technology Agency (SITA)",procurement under way; prioritised police stations not named,2026-06-03-select-committee-report-saps-budget-vote-28-2026-27
+ZAF,dashboard cameras and CCTV systems,"dashboard cameras, CCTV systems",surveillance,,SAPS,planned rollout,2026-06-03-select-committee-report-saps-budget-vote-28-2026-27
+ZAF,"desktops, laptops, scanners and LAN upgrades","desktops, laptops and scanners; network infrastructure, LAN upgrades",enabling,,SAPS,being rolled out to police stations; no count,2026-06-03-select-committee-report-saps-budget-vote-28-2026-27
+ZAF,National Forensic DNA Database,National Forensic DNA Database,identification,,SAPS; assessed by the Civilian Secretariat for Police Service,national,2026-06-03-select-committee-report-saps-budget-vote-28-2026-27
+ZAF,SAPS Complaints Management System,SAPS Complaints Management System,,,SAPS,,2026-06-03-select-committee-report-saps-budget-vote-28-2026-27
+ZAF,IPID case flow management system,case flow management system and database,,,Independent Police Investigative Directorate,,2026-06-03-select-committee-report-saps-budget-vote-28-2026-27
+ZAF,Crime Administration System (CAS)/Investigate Case Docket Management Systems (ICDMS),CAS/ICDMS,record,,South African Police Service,"captured at the police station (Community Service Centre); verified at station, provincial and national level",2025-12-31-zaf-question-nw6007-to-the-acting-minister-of-police
+ZAF,quarterly crime statistics,quarterly crime statistics,statistics,,South African Police Service,national; compiled from dockets registered on CAS/ICDMS,2025-12-31-zaf-question-nw6007-to-the-acting-minister-of-police
+ZAF,ICDMS,ICDMS,record,,SAPS,police stations: 789 of 1 160 sent SMS feedback on case dockets through it (baseline),2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Crime Administration System,CAS,,,SAPS,,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Integrated Persons Management (IPM) System,IPM,identification,,SAPS,"police stations: 31 estimated for 2024/25; targets 92 in 2025/26, 124 in 2026/27, 400 in 2027/28",2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Automated Fingerprint Identification System,AFIS,identification,,SAPS,,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Criminal Record System,CRIM,identification,,SAPS Criminal Record Centre,"national, provincial and district (Local Criminal Record Centres)",2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Automated Ballistic Information System / Integrated Ballistics Identification System,ABIS / IBIS,identification,,SAPS,,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,National Forensics DNA Database,NFDD,identification,,SAPS,,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Laboratory Information Management System,LIMS,identification,,SAPS Forensic Science Laboratory,four laboratories; chemistry modules to all regions in 2025/26,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Firearm Control Management System,Firearm Control Management System,single-function,,SAPS,release 1 tested by 31 March 2025; releases 1 and 2 to prioritised sites in 2025/26,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Central Firearms Register,CFR,,,SAPS,,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,second-hand goods dealers registration system,system to register and manage second-hand goods dealers,single-function,,SAPS,pilot of phases 1 and 2 in Gauteng planned for 2025/26,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,National Key Points management system,system to manage National Key Points,single-function,,SAPS,five modules in development,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,incident management system for 10111 centres,"incident registration, management and dispatch; 10111 Command Centres",surveillance,,SAPS,20 10111 centres in 2025/26,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,CCTV at police stations,CCTV,surveillance,,SAPS,"45 sites 2022/23, 100 sites 2023/24, 44 estimated 2024/25; target 104 in 2025/26",2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,"body-worn cameras, vehicle dashboard cameras, drones, ANPR",new mobile technologies,surveillance,,SAPS,"217 items in 2025/26: 100 body-worn cameras, 100 dashboard cameras, 17 drones",2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,National Network Upgrade Programme (WAN sites),NNUP; National Network Communication Infrastructure sites,enabling,,"SAPS, with SITA","94 WAN sites 2021/22, 118 in 2022/23, 191 in 2023/24, 50 estimated 2024/25; target 93 in 2025/26",2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,end-user devices,"notebooks, desktops, scanners",enabling,,SAPS,"2025/26: 263 notebooks, 979 desktops, 77 scanners",2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,MySAPS App,SAPS Mobile Application / MySAPSApp,,,SAPS,phases 5 and 6 planned,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Rate our Service,Rate our Service,,,SAPS,,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,Integrated Justice System,IJS,,,,,2025-04-04-zaf-annual-performance-plan-2025-2026
+ZAF,case docket management system (unnamed),case docket management,record,,SAPS,,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Crime Administration System,CAS,,,SAPS,,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Integrated Persons Management (IPM),IPM,identification,,SAPS,"deliverables: 92 in 2025/26, 124 in 2026/27, 400 in 2027/28, 512 in 2028/29",2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Automated Fingerprint Identification System,AFIS,identification,,SAPS,,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Criminal Record System,CRIM,identification,,SAPS,,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Automated Ballistic Information System,ABIS,identification,,SAPS,,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Laboratory Information Management System,LIMS,identification,,SAPS Forensic Science Laboratory,"modules implemented by region, 2025/26 to 2027/28",2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Firearm Control Management System,firearm management releases 1 to 4,single-function,,SAPS,prioritised sites; fully deployed in all prioritised sites in 2026/27,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Second-Hand Goods system,SHGCS,single-function,,SAPS,pilot in Gauteng 2025/26; all provinces from 2026/27,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,National Key Points System,National Key Points System,single-function,,SAPS,"development 2025/26, implementation 2026/27",2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,incident management system for 10111 centres,"incident registration, management and dispatch",surveillance,,SAPS,20 10111 centres in 2025/26,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,CCTV at police stations and public surveillance areas,CCTV,surveillance,,SAPS,"police station sites: 104 in 2025/26, 135, 135, 240, 280 by 2029/30",2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,"ANPR units, body-worn cameras, dashboard cameras, drones",mobile technologies,surveillance,,SAPS,"217 items 2025/26, 220 a year after",2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,WAN infrastructure replacement,WAN sites,enabling,,"SAPS, with SITA","93 sites 2025/26, 130, 180, 200, 240 by 2029/30",2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,digital radio infrastructure,digital radio,enabling,,SAPS,"Cape Town Metro 2025/26, then two areas a year",2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,end-user devices,"notebooks, desktops, scanners",enabling,,SAPS,"263 notebooks, 979 desktops, 77 scanners a year",2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Rate Our Service application,Rate Our Service,public,,SAPS,launched 13 October 2023,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,SAPS Mobile Application,MySAPS App,,,SAPS,,2025-04-04-zaf-strategic-plan-2025-to-2030
+ZAF,Integrated Case Docket Management System,ICDMS,record,,"SAPS Technology Management Services, with SITA and external parties",998 police stations; 159 not yet covered (May 2021),2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,old case registration system (unnamed),the old system,record,,SAPS,159 police stations without ICDMS; feeds the same database,2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,firearm permit system,firearm permit system,single-function,,SAPS; formerly supplied by Forensic Data Analysts (FDA); being rebuilt by TMS with SITA,switched off; replaced by a physical firearm register at stations,2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,Central Firearm Registry,Central Firearm Registry,single-function,,SAPS,"licence applications taken at stations, sent to provincial headquarters and processed manually; online system planned",2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,Property administrative system,PAS,,,SAPS Supply Chain Management,station inventories inspected every six months,2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,Integrated Ballistic Identification System,IBIS,identification,,SAPS,,2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,DNA database,DNA database,identification,,SAPS,,2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,P-Chem system,P-Chem system,identification,,SAPS forensic laboratories,,2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,wide area network sites and digital radio sites,WAN sites; digital radio communication infrastructure,enabling,,"SAPS, dependent on SITA","2021/22 targets: 90 WAN sites, 4 digital radio sites",2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w
+ZAF,ICDMS,ICDMS,,,South African Police Service,named only as an IT programme in which members at police station level are to be trained,2019-04-01-national-rural-safety-strategy
+ZAF,OPAM,OPAM,,,South African Police Service,named only as an IT programme in which members at police station level are to be trained,2019-04-01-national-rural-safety-strategy
+ZAF,Reservist System,Reservist System,personnel,,South African Police Service,,2019-04-01-national-rural-safety-strategy
+ZAF,Integrated Command Centre,Command Centre,surveillance,,South African Police Service,"planned, to be established by 30 November 2024",2019-04-01-national-rural-safety-strategy
+ZAF,Integrated Case Docket Management System (ICDMS),ICDMS; e-docket,record,,South African Police Service,rolled out to 1153 or 80% of SAPS stations nationally in 2017,2019-01-01-zaf-mec-albert-fritz-on-e-docket-software-not-being-effectively-used-by-sa
+ZAF,ICDMS links to courts and other departments,ICDMS,exchange,,South African Police Service,"rolled out to 509 of the 627 courts in 2017; intended to take information from Home Affairs, Social Development, Justice and the National Prosecuting Authority; in July to September 2019 none of 11 assessed Western Cape stations had linked it with Social Development or Justice",2019-01-01-zaf-mec-albert-fritz-on-e-docket-software-not-being-effectively-used-by-sa
+ZAF,Docket Archive Store (DAS),Docket Archive Store,,,South African Police Service,stations; 62.9% of dockets reported lost in the DAS at the 11 assessed stations,2019-01-01-zaf-mec-albert-fritz-on-e-docket-software-not-being-effectively-used-by-sa
+ZAF,Crime Administration System (CAS),CAS,record,,South African Police Service,stations with access to CAS; non-CAS stations keep the paper Crime Register,2011-01-01-zaf-national-instruction-3-of-2011-registration-of-case-dockets-on-the-cri
+ZAF,E-Docket system,E-Docket system,record,,South African Police Service,"station Community Service Centre, where the contents of the complete docket are scanned",2011-01-01-zaf-national-instruction-3-of-2011-registration-of-case-dockets-on-the-cri
+ZAF,Crime Management Information System (SAPS 6),SAPS 6; CMI system,statistics,,South African Police Service,"stations; monthly counts of crime codes, updated automatically from CAS at CAS stations",2011-01-01-zaf-national-instruction-3-of-2011-registration-of-case-dockets-on-the-cri
+ZAF,Geographic information system for crime mapping,GIS,,,South African Police Service,"station Crime Information Official, or a paper municipal map",2011-01-01-zaf-national-instruction-3-of-2011-registration-of-case-dockets-on-the-cri

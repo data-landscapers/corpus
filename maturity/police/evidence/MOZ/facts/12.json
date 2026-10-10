@@ -1,0 +1,15 @@
+{
+  "slug": "2007-10-01-moz-support-to-the-police-of-the-republic-of-mozambique-project-outcome-ev",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The UNDP outcome evaluation mission, visiting PRM stations and commands in September 2007, verified the almost complete absence of digital records of autos, case files or any other procedure across the PRM.", "as_of": "2007-09", "date_precision": "month", "system": "PRM autos and case files", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The evaluation mission found in September 2007 that IT use was mainly confined to the Central Command, limited in provincial commands and non-existent at district and police station level, with piles of paper serving as case file archives and stations lacking paper and typewriter ribbons.", "as_of": "2007-09", "date_precision": "month", "system": "PRM autos and case files", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The evaluation mission reported in September 2007 that IT use was non-existent at district and police station level, and that most stations it visited had either a non-functional computer or outdated typewriters; it gives no count of stations.", "as_of": "2007-09", "date_precision": "month", "system": "PRM autos and case files", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "plan:none", "fact": "The evaluation states that the Phase III output of an information technology plan for the PRM had not been achieved at all by October 2007, its needs assessment waiting on a bilateral funding agreement with Spain.", "as_of": "2007-10", "date_precision": "month", "system": "PRM autos and case files", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Integrated System for Justice Sector Planning, Monitoring and Evaluation (SIPMAJ)", "country_label": "SIPMAJ", "class": "exchange", "platform": "", "owner": "justice sector, endorsed by the Ministry of the Interior", "tiers": "planned in 2007: a joint justice-sector database with a module for entering criminal offence data from police stations, available to the whole judicial system"},
+    {"system": "PRM salary payment system", "country_label": "", "class": "personnel", "platform": "", "owner": "PRM", "tiers": "central command; computerised, paid through individual bank accounts"},
+    {"system": "Computers at model police stations", "country_label": "", "class": "enabling", "platform": "", "owner": "PRM, supplied under the UNDP project", "tiers": "some model stations; most found non-functional in 2007"}
+  ],
+  "note": "Passages file read to its end. SIPMAJ was only planned in 2007 and is described as a justice-sector planning database; its police-station module is entered under systems, with no fact."
+}

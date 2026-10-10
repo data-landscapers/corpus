@@ -1,0 +1,9 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [],
+  "systems": [
+    {"system": "IRAPOL", "country_label": "système national IRAPOL", "class": "", "platform": "", "owner": "Burkina Faso authorities, who decided to keep it; a first batch of equipment given by the SIPAO programme (INTERPOL, European Union funding)", "tiers": "extended further by the donated equipment, places not stated; what it records is not described"},
+    {"system": "INTERPOL I-24/7 connection", "country_label": "connexion au réseau I-24/7 d'INTERPOL", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL, SIPAO programme", "tiers": "planned for Burkina Faso in the days after August 2019, following signature of the memorandum of understanding"}
+  ],
+  "note": "INTERPOL's SIPAO newsletter no. 12, August 2019, French edition. For Burkina Faso it says only that a first batch of donated equipment extended the national system IRAPOL, which the authorities chose to keep, that the memorandum of understanding is signed and I-24/7 connection is to follow, and that its national contact point visited the Niger centre on 11-12 June 2019. It does not say what IRAPOL does or that stations enter cases in it, so the system is unclassified and gives no fact."
+}

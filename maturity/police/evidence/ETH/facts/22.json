@@ -1,0 +1,46 @@
+{
+  "slug": "2026-01-20-eth-crims-criminal-justice-digitalisation-coordinating-committee",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O;C",
+      "fact": "The Ministry of Justice says CRIMS is under development, not yet in use: it is to record digitally everything from the crime report through investigation, charge, trial and sentence, with modules for report intake, investigation, juvenile offenders, offence type, biometric data, and prosecutors' and courts' decisions; no date is given for the forum, so the published date is used.",
+      "as_of": "2026-01-20",
+      "date_precision": "day",
+      "system": "Criminal Records Information Management System (CRIMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Justice says CRIMS is being developed by the Ethiopian Artificial Intelligence Institute for the ministry, the Federal Police Commission and the Addis Ababa Police Commission to work in jointly, steered by a coordinating committee whose forum the Minister of Justice attended; no finance is stated and the published date is used.",
+      "as_of": "2026-01-20",
+      "date_precision": "day",
+      "system": "Criminal Records Information Management System (CRIMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Ministry of Justice reported a coordinating-committee forum, with the minister and senior leaders of the three bodies, at which CRIMS was said to be in development; the item gives no forum date, so its published date is used.",
+      "as_of": "2026-01-20",
+      "date_precision": "day",
+      "system": "Criminal Records Information Management System (CRIMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Criminal Records Information Management System (CRIMS)",
+      "country_label": "Criminal Records Information Management System (CRIMS)",
+      "class": "record",
+      "platform": "built by the Ethiopian Artificial Intelligence Institute",
+      "owner": "Ministry of Justice, with the Federal Police Commission and the Addis Ababa Police Commission",
+      "tiers": "under development; to be worked in jointly by the Ministry of Justice, the Federal Police Commission and the Addis Ababa Police Commission; no stations or places given"
+    }
+  ],
+  "note": "The document names no station, no count of users and no launch date; it states the system's intended scope only, and that one record is to be shared by police, prosecution and the courts' decisions."
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2025-12-31-zaf-question-nw6007-to-the-acting-minister-of-police",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The Acting Minister of Police replies that when a complaint is taken at the station's Community Service Centre and the elements of a crime exist, a case docket is opened and captured on the Crime Administration System (CAS)/Investigate Case Docket Management System (ICDMS); the reply is undated and the question's date, 31 December 2025, is used.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "Crime Administration System (CAS)/Investigate Case Docket Management Systems (ICDMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The Acting Minister of Police replies that the docket is captured on CAS/ICDMS at the station by the Community Service Centre and signed off on the system by the Shift Commander to the Detective Commander, and that Crime Registrar officials at station, provincial and national level verify the registered dockets on the same system, the station checking each 24 hours' registrations; a physical docket is kept beside it; the reply is undated and the question's date, 31 December 2025, is used.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "Crime Administration System (CAS)/Investigate Case Docket Management Systems (ICDMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "not-published",
+      "fact": "The Acting Minister of Police describes registration on CAS/ICDMS as the procedure at the police station generally and gives no number of stations using it and no total of stations; the reply is undated and the question's date, 31 December 2025, is used.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "Crime Administration System (CAS)/Investigate Case Docket Management Systems (ICDMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "Crime Administration System (CAS)/Investigate Case Docket Management Systems (ICDMS)", "country_label": "CAS/ICDMS", "class": "record", "platform": "", "owner": "South African Police Service", "tiers": "captured at the police station (Community Service Centre); verified at station, provincial and national level"},
+    {"system": "quarterly crime statistics", "country_label": "quarterly crime statistics", "class": "statistics", "platform": "", "owner": "South African Police Service", "tiers": "national; compiled from dockets registered on CAS/ICDMS"}
+  ],
+  "note": "The reply also says SAPS halted the release of crimes against women and children in the quarterly crime statistics because victim details are captured incompletely or in duplicate, and that system upgrades are being worked on; undated, and a statistics matter, so no fact."
+}

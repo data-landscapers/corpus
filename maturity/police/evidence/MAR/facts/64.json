@@ -1,0 +1,13 @@
+{
+  "slug": "2019-08-06-mar-generalisation-du-systeme-informatique-de-gestion-des-arrondissements",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "A source at the Agadir police prefecture, quoted by Le Matin, says Gestarr, the computer system for managing police arrondissements, allows citizens' complaints to be centralised and followed and their administrative documents to be processed faster, and gives the force a tool for mapping crime nationally.", "as_of": "2019-08-03", "date_precision": "day", "system": "Gestarr", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "Le Matin says the platform provides the computer link between the police arrondissements themselves and with the central services of the Sûreté nationale, centralising complaints.", "as_of": "2019-08-03", "date_precision": "day", "system": "Gestarr", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "not-published", "fact": "The Agadir police prefecture source says Gestarr was generalised across the city's arrondissements and became operational on 3 August 2019, continuing a project the DGSN had rolled out over the previous three years in the Kingdom's cities; no count of arrondissements is given.", "as_of": "2019-08-03", "date_precision": "day", "system": "Gestarr", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The Agadir police prefecture source says Gestarr was built by the Sûreté nationale's own technical staff, as part of the DGSN's strategy to upgrade its arrondissements.", "as_of": "2019-08-03", "date_precision": "day", "system": "Gestarr", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Gestarr", "country_label": "système informatique de gestion des arrondissements de police « Gestarr »", "class": "record", "platform": "Built in-house by Sûreté nationale technical staff", "owner": "DGSN", "tiers": "Police arrondissements, linked to each other and to the DGSN's central services; all arrondissements of Agadir from 3 August 2019, after three years of rollout in other cities"}
+  ],
+  "note": ""
+}

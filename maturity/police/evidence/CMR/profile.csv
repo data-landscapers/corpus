@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,record,governance,qualifier,,,,,nothing held
-CMR,record,records,coverage,,,,,nothing held
+CMR,record,governance,qualifier,owner:ministry,2020-06,CMR-005,,nothing dated since 2023-09-28
+CMR,record,records,coverage,C,2020-06,CMR-004,,nothing dated since 2023-09-28
 CMR,record,made,coverage,,,,,nothing held
 CMR,record,last12,qualifier,,,,,nothing held
 CMR,record,stations,coverage,,,,,nothing held

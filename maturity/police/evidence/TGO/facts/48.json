@@ -1,0 +1,31 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)",
+      "country_label": "SIPAO, with a Comité national d'orientation stratégique (CNOS)",
+      "class": "",
+      "platform": "SIPAO/WAPIS, implemented by INTERPOL with European Union funding",
+      "owner": "Ministère de la Sécurité et de la Protection civile, whose representative chaired the first national strategic committee on 29 September 2022, which adopted a 2022-2023 action plan",
+      "tiers": "national centre (DACORE) in Lomé: 10 centre staff trained 10 to 21 October 2022, 17 users trained 29 August to 2 September 2022, 2 IT administrators trained 22 to 23 September 2022; standard operating rules for the databases in validation with 15 experts of the Police nationale, Gendarmerie, customs, justice and water and forests, due early 2023; awareness sessions planned for the first quarter of 2023; no unit named"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24/7",
+      "class": "exchange",
+      "platform": "INTERPOL I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "Togo one of five countries whose SIPAO users can query INTERPOL's global databases from their workstation, as of December 2022"
+    },
+    {
+      "system": "AFIS",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "INTERPOL AFIS project, EUR 5 million from the European Union over 2022 to 2024",
+      "tiers": "Togo named a pilot country for a full system on 21 July 2022; launch missions in September and October 2022"
+    }
+  ],
+  "note": "No fact: for Togo the newsletter reports training, the operating rules under validation, the national committee and its 2022-2023 action plan, and the I-24/7 link; it describes the newsletter's own view that Togo is still moving towards making SIPAO effectively operational, and says nothing of stations entering reports or cases, so the system has no class. Regional totals (14 of 16 centres operational, about 500,000 records) are not given by country."
+}

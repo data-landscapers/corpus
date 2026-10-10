@@ -1,0 +1,19 @@
+{
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "1",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "records": "none",
+      "made": "paper",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-001;SLE-005;SLE-006",
+      "gaps": "No row shows the 2025 survey of case management done, or any other dated act of preparing the e-Case Management System; no count of stations and no dated event in the twelve months are held. SLE-002 to SLE-004 are from the excluded compilation and set nothing.",
+      "note": "The force's own plan sets a paper-based baseline at 2024 and a July 2026 report has statement-taking and record-keeping still on stationery. The e-Case Management System is a plan with milestones only, with no dated act of preparation or pilot, so rung 2 is not reached."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2020-08-25-egy-police-stations-prosecution-courts-electronic-linking-strategy",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Law enforcement project for criminal justice (strategy to digitise the justice system)",
+      "country_label": "منظومة إنفاذ القانون / مشروع إنفاذ القانون",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministries of Justice, Interior and Communications, with the Public Prosecution",
+      "tiers": "as at August 2020 a strategy still being finalised by the justice and communications ministries: to link police stations electronically to the Public Prosecution and on to the courts of every degree, by developing criminal-justice applications and integrating with the police stations' system, the prosecution's system, the Court of Cassation and the Constitutional Court; the President ordered its steps completed quickly at a meeting two days before publication, at national and governorate level"
+    },
+    {
+      "system": "Police stations' system",
+      "country_label": "نظام أقسام الشرطة",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as a system the law enforcement project is to integrate with; what it does and where it runs are not described"
+    },
+    {
+      "system": "Public Prosecution's system",
+      "country_label": "نظام النيابة العامة",
+      "class": "",
+      "platform": "",
+      "owner": "Public Prosecution",
+      "tiers": "named only as a system the law enforcement project is to integrate with; not described"
+    }
+  ],
+  "note": "Al-Watan, 25 August 2020, on a justice-digitisation strategy in preparation: the police-to-prosecution-to-courts link is an exchange, and the police stations' system is named without any statement of what it does or that stations make a digital record, so no fact for the record class. Its figures are the courts' own (unified litigation programme in more than 129 courts; experts' case-tracking programme in 39 of 45 offices), outside the police field."
+}

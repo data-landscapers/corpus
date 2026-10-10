@@ -1,0 +1,8 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [],
+  "systems": [
+    {"system": "SIPAO (WAPIS)", "country_label": "SIPAO", "class": "identification", "platform": "WAPIS", "owner": "INTERPOL programme with the national authorities; financed by the European Union", "tiers": "not yet installed in August 2019: memorandum of understanding signed, first equipment received, legal framework almost finished, premises allocated for the data collection centre (DACORE)"}
+  ],
+  "note": "For Mauritania the newsletter states only the preparation of the SIPAO data centre as of August 2019; it describes the system as national databases of wanted persons, stolen vehicles and documents fed by a collection centre, and does not say that stations enter their cases in it, so there is no fact."
+}

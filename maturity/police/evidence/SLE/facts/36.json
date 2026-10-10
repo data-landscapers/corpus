@@ -1,0 +1,15 @@
+{
+  "slug": "2022-09-19-sle-slp-commences-5-days-wapis-data-quality-training-for-the-slp-immigrati",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS (West Africa Police Information System)",
+      "country_label": "National Crime Monitoring System",
+      "class": "",
+      "platform": "WAPIS, INTERPOL programme sponsored by the European Union",
+      "owner": "Sierra Leone Police, with INTERPOL and the European Union; police, Immigration and Anti-Corruption Commission officers are users",
+      "tiers": "launched in Sierra Leone in January 2022; training held at CID Headquarters, Freetown; the Inspector General says it is not deployed countrywide"
+    }
+  ],
+  "note": "Sierra Leone Police news item of 19 September 2022 on a five-day WAPIS data-quality course at CID Headquarters, Freetown. It calls WAPIS a 'National Crime Monitoring System' for criminal data collection and information sharing, launched in January 2022, and reports the Inspector General saying that because the system 'is not deployed country wide' data collection could be a major challenge, and asking partners to extend it to all border crossings. It does not say that stations enter reports or cases in it, so the system is unclassed and no record fact is given; the parent may want the not-countrywide statement of 2022-09-19 if another document classes Sierra Leone's WAPIS as record."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2022-05-23-gha-three-ngos-sensitise-greater-accra-communities-on-adr",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The document says the Government of Ghana launched the electronic Integrated Criminal Justice Case Tracking System in 2018, for the Police Service, the Economic and Organised Crime Office, the Attorney-General's office, the Legal Aid Commission and the Prisons Service; it names no single owning ministry.", "as_of": "2018", "date_precision": "year", "system": "Ghana Case Tracking System (CTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:donor", "fact": "The document says the Ghana Case Tracking System project is being supported by USAID, whose Justice Sector Support Activity also pays for the awareness campaign; it gives no domestic budget line, and no date for the events, so the date is the document's published date.", "as_of": "2022-05-23", "date_precision": "day", "system": "Ghana Case Tracking System (CTS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Ghana Case Tracking System (CTS)", "country_label": "Ghana CTS; Integrated Criminal Justice Case Tracking System", "class": "record", "platform": "integrated software with online, offline and Android versions", "owner": "Government of Ghana, launched 2018; supported by USAID", "tiers": "tracks criminal cases from arrest through investigation, prosecution, conviction and release across the Police Service, EOCO, the Attorney-General's office, the Legal Aid Commission and the Prisons Service; no count of stations given, and the campaign urges the public to demand that it is used at police stations"}
+  ],
+  "note": "Governance facts only: the document describes what the system is for and says almost all personnel have been trained, but states no station, count or date of actual entry; the facilitator asks communities to demand its use at police stations."
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,record,governance,qualifier,,,,,nothing held
-BFA,record,records,coverage,,,,,nothing held
-BFA,record,made,coverage,,,,,nothing held
+BFA,record,governance,qualifier,owner:ministry,2026-10-02,BFA-004,BFA-008=owner:ministry,"not stated: plan, finance"
+BFA,record,records,coverage,O,2026-10-02,BFA-003,BFA-005=none,
+BFA,record,made,coverage,paper,2023-12,BFA-006,,
 BFA,record,last12,qualifier,,,,,nothing held
-BFA,record,stations,coverage,,,,,nothing held
+BFA,record,stations,coverage,none,2023-12,BFA-007,,

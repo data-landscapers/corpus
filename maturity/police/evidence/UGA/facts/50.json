@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-upf-vote144-budget-performance-report",
+  "facts": [],
+  "systems": [
+    {"system": "ePIS", "country_label": "ePIS (automation of UPF processes and procedures)", "class": "", "platform": "", "owner": "Uganda Police Force", "tiers": "not stated; listed among plans to improve vote performance, FY 2026/27"},
+    {"system": "Computers for district police stations", "country_label": "computers provided to district police stations", "class": "enabling", "platform": "", "owner": "Uganda Police Force", "tiers": "all 186 district police stations, half year FY 2025/26"},
+    {"system": "Radio communication", "country_label": "radio communication under the sub-county policing model", "class": "enabling", "platform": "", "owner": "Uganda Police Force", "tiers": "150 (81%) of 186 police districts/divisions"},
+    {"system": "Solar power installations", "country_label": "solar power", "class": "enabling", "platform": "", "owner": "Uganda Police Force", "tiers": "20 facilities in Karamoja, Kalangala and Buvuma; 235 facilities assessed"},
+    {"system": "Criminal Automated Biometric Identification System", "country_label": "Criminal Automated Biometric Identification System", "class": "identification", "platform": "", "owner": "Uganda Police Force, Forensic Services", "tiers": "21 police stations at the 2023/24 base; target 28 in 2026/27"},
+    {"system": "I-24/7", "country_label": "i-24/7 system", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "Uganda Police Force, Interpol and International Relations", "tiers": "2% of gazetted border points connected at the 2023/24 base; target 10% in 2026/27"},
+    {"system": "National CCTV project", "country_label": "National CCTV project", "class": "surveillance", "platform": "", "owner": "Uganda Police Force", "tiers": "phases 1 and 2 concluded; 32% of required coverage at the 2023/24 base, target 84%"},
+    {"system": "Crime Data Analysis Centre", "country_label": "Crime Data Analysis Centre", "class": "statistics", "platform": "", "owner": "Uganda Police Force", "tiers": "under construction, 75% complete at half year FY 2025/26"}
+  ],
+  "note": "The Vote 144 policy statement for FY 2026/27 names no system in which a station records a report or a case: it gives computers to all 186 district police stations and radio in 150 of 186 districts (enabling), and lists 'ePIS' as planned automation with no description of what it does."
+}

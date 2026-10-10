@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,record,governance,qualifier,,,,,nothing held
-GMB,record,records,coverage,none,2026-03-24,GMB-004,,
-GMB,record,made,coverage,paper,2026-03-24,GMB-003,,
+GMB,record,governance,qualifier,owner:ministry;finance:donor,2021-04-22,GMB-012;GMB-013,GMB-007=finance:donor,nothing dated since 2023-09-28
+GMB,record,records,coverage,none,2026-03-24,GMB-004,GMB-009=O;GMB-015=none;GMB-006=C;GMB-008=C,
+GMB,record,made,coverage,connected,2021-04-22,GMB-010,GMB-003=paper;GMB-005=paper;GMB-014=paper,
 GMB,record,last12,qualifier,,,,,nothing held
-GMB,record,stations,coverage,,,,,nothing held
+GMB,record,stations,coverage,pilot,2021-04-22,GMB-011,GMB-016=none,nothing dated since 2023-09-28

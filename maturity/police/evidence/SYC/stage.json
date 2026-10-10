@@ -1,0 +1,19 @@
+{
+  "iso3": "SYC",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "records": "O;C",
+      "made": "connected",
+      "last12": "",
+      "stations": "equipped:100%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SYC-005;SYC-006;SYC-007;SYC-008",
+      "gaps": "No share or count of stations entering their own records is held: the only figure is a station commander's quote, carried by the vendor, that all stations are connected, with no count of stations and no year, and the same source says the database is bedding in at headquarters. The Occurrence Book itself was still listed as an upcoming enhancement; no plan is stated and nothing is held for the last twelve months. SYC-001 to SYC-004 come from the excluded source and set nothing.",
+      "note": "The case system is live and connected across stations, with the incident intake form and the case file digital, which meets rung 3. Rung 4 needs more than half of stations recording on a share or a count with a denominator, and a share connected is equipped, not recording."
+    }
+  ]
+}

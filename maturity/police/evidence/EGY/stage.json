@@ -1,0 +1,19 @@
+{
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "unplaced",
+      "governance": "",
+      "records": "",
+      "made": "paper",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one usable fact is from 2021 and says stations often lack the technology to write reports on a computer, which is short of saying every station records on paper; it names no system, no count of stations and no place. EGY-001 to EGY-003 are from the excluded source and set nothing, so the Digital Justice Platform is not established; governance and the last twelve months are not held. Parent ruling: the one admissible fact (2021) says stations often lack the means to write reports on a computer, which is short of a statement that stations record on paper only.",
+      "note": "Parent ruling: the one admissible fact (2021) says stations often lack the means to write reports on a computer, which is short of a statement that stations record on paper only."
+    }
+  ]
+}

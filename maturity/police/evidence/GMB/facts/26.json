@@ -1,0 +1,23 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIPAO (WAPIS)",
+      "country_label": "",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "INTERPOL programme funded by the European Union, with ECOWAS; in The Gambia the Ministry of the Interior opened the awareness session",
+      "tiers": "National training of 80 users, 15 August to 2 September 2022, and an awareness session in Banjul, 13 to 15 October 2022, for 313 officers of the law-enforcement services; no Gambian station is said to enter records"
+    },
+    {
+      "system": "AFIS",
+      "country_label": "",
+      "class": "identification",
+      "platform": "",
+      "owner": "INTERPOL AFIS project, European Union funding of 5 million euros over 2022 to 2024",
+      "tiers": "The Gambia named one of three pilot countries for a complete AFIS on 21 July 2022; strategic visit to the Ministry of the Interior in Banjul on 8 September 2022"
+    }
+  ],
+  "note": "For The Gambia the newsletter reports training, an awareness session and the AFIS pilot; its statements that data centres record police data daily are regional, name no Gambian figure and do not say that stations enter reports or cases, so no fact of class record."
+}

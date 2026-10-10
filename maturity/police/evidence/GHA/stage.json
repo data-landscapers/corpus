@@ -1,0 +1,19 @@
+{
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "3",
+      "governance": "",
+      "records": "C",
+      "made": "connected",
+      "last12": "",
+      "stations": "count:55",
+      "cap": "",
+      "flags": "justice linked",
+      "stage_sources": "GHA-005;GHA-006;GHA-009;GHA-010",
+      "gaps": "No total of stations stands beside the 55, so no share; the count is dated to its source's published year, 2022, a proxy, and nothing is held since. No governance fact falls inside the 36 months to the as-at (all are 2018 to 2022) and none inside the last twelve; the occurrence record (O) is not evidenced; GHA-011 does not say in terms that entry is online, and connected rests on GHA-006, one municipal command. GHA-001 and GHA-002 are from the excluded source and set nothing; no admissible dated fact says rural stations are outside the Case Tracking System.",
+      "note": "The Case Tracking System holds the case docket digitally in 55 stations across seven regions, so it is live outside the capital and past a pilot. Rung 4 needs more than half of stations on a share or a count with a denominator, and no denominator is held."
+    }
+  ]
+}

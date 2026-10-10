@@ -1,0 +1,10 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "", "platform": "SIPAO, INTERPOL's programme financed by the European Union (EUR 52 million cumulated since 2012)", "owner": "", "tiers": "for Côte d'Ivoire nothing beyond a training of 12 trainers, 26-30 September 2022; regionally, 14 of 16 countries have an operational data centre (DACORE) that collects, centralises and records police data daily, and extension beyond the DACORE in the capital is a 2023 priority; countries not listed"},
+    {"system": "I-24/7", "country_label": "I-24/7", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "Côte d'Ivoire is one of five countries connected as of December 2022, so SIPAO users can query INTERPOL's global databases from their workstation"},
+    {"system": "AFIS", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "", "tiers": "Côte d'Ivoire is one of four countries where an existing AFIS is to be restored or upgraded as a priority, by the AFIS project steering committee's recommendation of 21 July 2022"}
+  ],
+  "note": "INTERPOL's December 2022 newsletter describes SIPAO regionally as data centres that collect, centralise and record police data, and gives regional figures only (nearly 500,000 records; 14 of 16 DACORE operational); it names Côte d'Ivoire for the I-24/7 connection, the AFIS upgrade list, a trainers' course and as host of meetings. Nothing says Ivorian stations enter reports or cases in SIPAO, so it is not classed as record and gives no fact."
+}

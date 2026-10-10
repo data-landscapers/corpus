@@ -1,0 +1,9 @@
+{
+  "iso3": "SDN",
+  "cells": [
+    {"sub_indicator": "record", "stage": "1", "governance": "", "records": "", "made": "paper",
+     "last12": "", "stations": "", "cap": "", "flags": "", "stage_sources": "SDN-003",
+     "gaps": "The one admissible statement is a thesis abstract dated by its repository year, 2022, older than three years at the as-at and before the war; nothing dated since says how stations record. No admissible row gives the records aspect, and governance, the last twelve months and a station count are not held.",
+     "note": "A 2022 thesis abstract describes the report system in Sudanese police stations as the old paper one and proposes an electronic replacement. No evidence row dates an act on a station record system; the electronic report platform in systems.csv is a public class and places nothing."}
+  ]
+}

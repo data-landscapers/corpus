@@ -1,0 +1,82 @@
+{
+  "slug": "2020-08-03-ken-kenyas-national-police-service-goes-digital",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "pilot",
+      "fact": "The Inspector-General of Police said on 3 August 2020 that the web-based digital Occurrence Book was installed in all police stations in Nairobi, with more than 10,000 iPads issued to officers, and called it a successful pilot project in Nairobi; no number of stations is given, and officers were given 18 months to move to the system.",
+      "as_of": "2020-08-03",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "The digitisation launched at BuruBuru Police Station, Nairobi, on 3 August 2020 starts with the Occurrence Book, in which all incidents and complaints are recorded; complainants are to receive their OB number by SMS.",
+      "as_of": "2020-08-03",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The system's developer said on 3 August 2020 that the digital OB is web-based, with data saved on servers and open only to registered officers, and the Interior Cabinet Secretary said seniors track the progress of each complaint in real time.",
+      "as_of": "2020-08-03",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "Capital News states at the launch on 3 August 2020 that police stations have been filing records and all complaints manually, the digital OB then being installed in Nairobi's stations only.",
+      "as_of": "2020-08-03",
+      "date_precision": "day",
+      "system": "Occurrence Book (manual)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The digital OB was launched on 3 August 2020 by the Interior Cabinet Secretary with the ICT Cabinet Secretary and the Inspector-General of Police, as a National Police Service system built with the ICT Ministry; no funder or budget is stated.",
+      "as_of": "2020-08-03",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "digital Occurrence Book (OB)",
+      "country_label": "digital Occurrence Book",
+      "class": "record",
+      "platform": "Web-based, data on servers; developer named as Prof Theuri Mutahi; iPads issued to officers",
+      "owner": "National Police Service / Ministry of Interior",
+      "tiers": "All police stations in Nairobi, August 2020, as a pilot; launched at BuruBuru Police Station; 18 months given for officers to move to it"
+    },
+    {
+      "system": "Automation of Police Administration",
+      "country_label": "",
+      "class": "personnel",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "One of five areas of the automation; registers all police officers"
+    },
+    {
+      "system": "Automation of Police Investigations",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "One of five areas of the automation; said to cover forensics, integration of data and crime analysis, with no further description"
+    }
+  ],
+  "note": "The article names three of the automation's five areas only."
+}

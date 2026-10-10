@@ -1,0 +1,19 @@
+{
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "records": "C",
+      "made": "paper",
+      "last12": "",
+      "stations": "pilot",
+      "cap": "",
+      "flags": "rural gap",
+      "stage_sources": "UGA-006;UGA-023;UGA-009;UGA-013",
+      "gaps": "No fact shows any station outside Kampala Metropolitan entering cases digitally: the Crime Records Management System was piloted in ten Kampala divisions in 2017 and only tested there again by 2021, with no count of stations and nothing dated since on whether it still runs, and ePIS was in its design phase in June 2024 with no station using it (stations: pilot for CRMS at 2021 against none for ePIS at 2024). The plan held (UGA-020) gives no costing and no period, finance is not stated in every source, and nothing is held for the twelve months to the as-at.",
+      "note": "Stage 2 because the one system that reached stations was a pilot confined to Kampala Metropolitan and its successor ePIS is still being designed. Stage 3 needs a record system past its pilot and live in some stations outside the capital, and the 2021 fact says upcountry tests and rollout were still to come."
+    }
+  ]
+}

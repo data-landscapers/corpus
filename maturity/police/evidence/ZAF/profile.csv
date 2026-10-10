@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZAF,record,governance,qualifier,,,,,nothing held
-ZAF,record,records,coverage,C,2025-04-11,ZAF-004,,
-ZAF,record,made,coverage,,,,,nothing held
-ZAF,record,last12,qualifier,advancing,2025-04-11,ZAF-005,,nothing dated since 2025-10-10
-ZAF,record,stations,coverage,,,,,nothing held
+ZAF,record,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-06-03,ZAF-006;ZAF-012;ZAF-013,ZAF-011=plan:current;ZAF-014=plan:current;ZAF-015=owner:ministry;ZAF-020=owner:ministry;ZAF-023=owner:ministry;ZAF-024=finance:not-stated;ZAF-029=owner:ministry,
+ZAF,record,records,coverage,C,2025-12-31,ZAF-004;ZAF-007,ZAF-018=C;ZAF-022=C;ZAF-025=C,
+ZAF,record,made,coverage,connected,2025-12-31,ZAF-008;ZAF-019;ZAF-026,ZAF-027=paper,
+ZAF,record,last12,qualifier,advancing,2025-04-11,ZAF-005,,nothing dated since 2025-09-28
+ZAF,record,stations,coverage,share:86.3%,2021-05-04,ZAF-016,ZAF-009=not-published;ZAF-010=equipped:68%;ZAF-017=count:159;ZAF-021=equipped:80%;ZAF-028=not-published,

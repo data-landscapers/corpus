@@ -1,0 +1,9 @@
+{
+  "iso3": "NGA",
+  "cells": [
+    {"sub_indicator": "record", "stage": "1", "governance": "", "records": "none", "made": "paper",
+     "last12": "", "stations": "", "cap": "", "flags": "", "stage_sources": "NGA-006;NGA-007;NGA-008;NGA-009",
+     "gaps": "The newest statements that stations record on paper are from 2021 and 2022, older than three years at the as-at; nothing dated since says whether that still holds. systems.csv lists a Smart Police Station in Gombe State (one station, 'digital reporting mechanisms', source of June 2026) with no evidence row, so no dated act on a station record system is held; governance, the last twelve months and a station count are not held.",
+     "note": "The Ministry of Police Affairs (2021) and an onsite observation published in 2022 both say stations make statements, reports and the crime diary by hand. Rung 2 needs an evidence row dating an act on a named station system inside 36 months, and none is held."}
+  ]
+}

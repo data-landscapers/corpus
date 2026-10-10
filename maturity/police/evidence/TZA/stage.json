@@ -1,0 +1,19 @@
+{
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry;finance:not-stated",
+      "records": "C",
+      "made": "connected",
+      "last12": "",
+      "stations": "count:23",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-003;TZA-004;TZA-005",
+      "gaps": "No fact says a station enters the case file when the case is opened: the April 2024 facts give the system as installed and 23 regional Central Police Stations as connected to the backbone and linked to the prosecutor's office, with no total of stations. Nothing is held after May 2024, no plan or funding source is stated, and the link to the prosecutor is not shown carrying the case file, so justice linked is not set. TZA-001 and TZA-002 are from the excluded source and set nothing.",
+      "note": "A case file system is installed and stations in 23 regions are connected to it, which is a system being prepared for stations. Stage 3 needs the record live in stations outside the capital, and the evidence stops at installation and connection."
+    }
+  ]
+}

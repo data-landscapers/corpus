@@ -1,0 +1,15 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIPAO (WAPIS)",
+      "country_label": "future SIPAO data collection and registration centre (DACORE)",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "INTERPOL programme funded by the European Union (11th European Development Fund); Gambia's Ministry of the Interior received the equipment",
+      "tiers": "Not yet in use: The Gambia joined in November 2017 and signed the memorandum of understanding; workstations, scanners and servers were handed over on 3 July 2019 to begin digitising police data held on paper; premises for the centre found and under rehabilitation, inauguration possible at the end of 2019; first training in August 2019"
+    }
+  ],
+  "note": "For The Gambia the newsletter reports the equipment handover, the premises and the first training, ahead of any use; it does not say that stations enter reports or cases in the system, so no fact of class record. This is the French edition of the document at n 33."
+}

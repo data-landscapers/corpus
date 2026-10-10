@@ -1,0 +1,31 @@
+{
+  "slug": "2025-05-01-civ-sipao-lettre-d-information-numero-27-mai-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIPAO (Système d'information policière pour l'Afrique de l'Ouest)",
+      "country_label": "SIPAO national; CREDIPOL (Centre de recueil et d'enregistrement de données et informations policières), the DACORE of Senegal",
+      "class": "",
+      "platform": "SIPAO / WAPIS, developed under the INTERPOL programme",
+      "owner": "Senegalese authorities; programme run by INTERPOL and financed by the European Union until May 2025, handed to ECOWAS and the national authorities on 8 April 2025",
+      "tiers": "CREDIPOL, the national data centre; the document does not say which Senegalese units or stations enter data"
+    },
+    {
+      "system": "Cellule d'analyse criminelle (ANACRIM) at CREDIPOL",
+      "country_label": "ANACRIM",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Senegalese forces at CREDIPOL; equipped by INTERPOL (SIPAO programme and ENACT project), with 12 months of mentoring",
+      "tiers": "national, at CREDIPOL, in place since February 2025"
+    },
+    {
+      "system": "SIPAO link to INTERPOL I-24/7",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "INTERPOL I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "Senegal named among four countries that have begun feeding INTERPOL's databases through SIPAO"
+    }
+  ],
+  "note": "INTERPOL's closing newsletter for the programme. For Senegal it states only the criminal analysis cell at CREDIPOL (February 2025), Senegal's feeding of INTERPOL databases, and Senegal as an example of sustainability; it does not say that Senegalese stations or brigades enter reports or cases in SIPAO, so no record fact. Regional totals (14 countries with remote sites connected, 15 with a national budget line of which 5 funded, 729,000 records by early 2025) are not broken down by country."
+}

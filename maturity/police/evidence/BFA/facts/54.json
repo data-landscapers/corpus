@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-14-bfa-libreinfo-bclcc-cybercriminalite-prejudice-interview",
+  "facts": [],
+  "systems": [
+    {"system": "Alerte BCLCC", "country_label": "Alerte BCLCC, plateforme de signalement", "class": "public", "platform": "web version and downloadable mobile application; anonymous or named reports", "owner": "Brigade centrale de lutte contre la cybercriminalité (BCLCC), a directorate-general of the Ministère de la Sécurité", "tiers": "online, for the public; in service for about a year at September 2026; 77 reports received in one week"}
+  ],
+  "note": "Interview with a BCLCC officer on cybercrime: complaint counts (6,288 in 2025, over 1,000 in the first half of 2026) and losses for one class of offence at a central brigade. It names no system in which a station records a report or a case, and says nothing of how the brigade's own complaints are recorded."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2022-03-08-cmr-le-cameroun-veut-mettre-en-place-une-plateforme-numerique-pour-traiter",
+  "facts": [],
+  "systems": [
+    {
+      "system": "plateforme numérique de traitement des données issues des plaintes des usagers",
+      "country_label": "plateforme numérique de traitement des données issues des plaintes des usagers en général et des plaintes contre la police en particulier",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Délégation générale à la sûreté nationale (DGSN); a consultant is sought by tender to build it, under a project with German technical and financial support",
+      "tiers": "not stated; planned, not yet built as of March 2022"
+    },
+    {
+      "system": "standard 1500",
+      "country_label": "le 1500",
+      "class": "public",
+      "platform": "telephone switchboard",
+      "owner": "police nationale (DGSN)",
+      "tiers": "national number through which users' complaints are handled for now: reporting police harassment, giving information, calling for help"
+    },
+    {
+      "system": "mobile numbers for following a national identity card",
+      "country_label": "",
+      "class": "public",
+      "platform": "mobile telephone numbers",
+      "owner": "",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "A news report of a DGSN tender for a consultant to build software managing complaints by users, and against the police in particular: a complaints-handling mechanism, not the station's record of a report or a case. No system of class record is described."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-10-13-gha-a-police-database-to-tackle-terrorism-in-ghana",
+  "facts": [],
+  "systems": [
+    {"system": "West African Police Information System (WAPIS) database", "country_label": "WAPIS database", "class": "", "platform": "WAPIS", "owner": "not stated; installation in northern Ghana supported by the European NORPREVSEC project, implemented by FIIAPP, with a WAPIS team and INTERPOL taking part", "tiers": "the first WAPIS computer was installed at the regional Judicial Police Unit in Tamale and is reported fully operational as at October 2023; the project supports installation across the five northern regions and trained 25 trainees of the security agencies to enter information"}
+  ],
+  "note": "No fact: the document describes WAPIS as a database for collecting, analysing and exchanging information between security agencies, with one terminal at a regional judicial police unit in Tamale; it never says that stations enter reports or cases in it when they take them, so the class is left empty."
+}

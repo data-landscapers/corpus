@@ -1,0 +1,23 @@
+{
+  "slug": "2025-05-01-civ-sipao-lettre-d-information-numero-27-mai-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)",
+      "country_label": "SIPAO, at the Centre d'Information Policière du Togo (CIPT), the national DACORE",
+      "class": "",
+      "platform": "SIPAO/WAPIS, developed and implemented by INTERPOL with European Union funding; handed to national and regional authorities on 8 April 2025, the programme closing in May 2025",
+      "owner": "CIPT, under the Ministre de la Sécurité et de la Protection civile, who on 17 December 2024 called SIPAO a central pillar of the country's security architecture",
+      "tiers": "national centre in Lomé, where a criminal analysis cell (ANACRIM) was inaugurated on 17 December 2024 with equipment, software and premises paid by the programme; no remote site or unit in Togo is named"
+    },
+    {
+      "system": "SAED (AFIS)",
+      "country_label": "SAED",
+      "class": "identification",
+      "platform": "Thales, under INTERPOL supervision",
+      "owner": "INTERPOL SAED project of the SIPAO programme, funded by the European Union; forensic police services",
+      "tiers": "fully installed in Togo, one of three pilot countries, between October and December 2024"
+    }
+  ],
+  "note": "No fact: for Togo the newsletter reports the analysis cell at the CIPT and the fingerprint system, and names Togo among countries on a sound path to sustaining SIPAO; it does not say what Togo's units enter, so SIPAO has no class here. The programme's closing totals are regional and not given by country: 14 countries with remote sites connected, 15 with a national budget line adopted of which 5 funded, 729,000 records by early 2025; the system is described as digitising the information in police reports."
+}

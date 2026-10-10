@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-tcd-lettre-d-information-sipao-numero-24",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information de police de l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "", "platform": "SIPAO, INTERPOL's programme financed by the European Union", "owner": "", "tiers": "for Côte d'Ivoire: used with the national police for checks of participants and at border checkpoints during the CAN, 13 January to 11 February 2024, against national, regional and global databases; no count of Ivorian sites"},
+    {"system": "I-24/7", "country_label": "I-24/7", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "10 countries had connected their national SIPAO to it by the end of 2023; Côte d'Ivoire not named among them"},
+    {"system": "Contrôles biométriques de la police nationale", "country_label": "", "class": "identification", "platform": "", "owner": "Police nationale ivoirienne", "tiers": "biometric checks against files of suspected terrorists during the CAN, January-February 2024"},
+    {"system": "AFIS (projet SIPAO-AFIS)", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "INTERPOL project", "tiers": "pilot countries are Benin, The Gambia and Togo; Côte d'Ivoire received refresher training on fingerprint recording only"}
+  ],
+  "note": "INTERPOL's January 2024 newsletter names Côte d'Ivoire for the CAN security checks run with SIPAO, for hosting the November 2023 steering committees and for fingerprint training; the programme figures (550,000 cases, 12 countries extended beyond the DACORE) are regional and name no country. Nothing says Ivorian stations enter reports or cases in SIPAO, so it is not classed as record and gives no fact."
+}

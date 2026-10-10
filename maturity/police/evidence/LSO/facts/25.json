@@ -1,0 +1,15 @@
+{
+  "slug": "2024-03-26-lso-lesotho-mounted-police-service-record-information-management-system-lm",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lesotho Mounted Police Service Record Information Management System (LMPS_RIMS)",
+      "country_label": "LMPS_RIMS",
+      "class": "identification",
+      "platform": "built by the developer himself; software not stated",
+      "owner": "Sekake Lenka, a private developer, as a personal project begun in 2019; not the police service",
+      "tiers": "none: the post states no adoption, pilot or deployment by the Lesotho Mounted Police Service, and a commenter asks whether it has been pitched to the authorities"
+    }
+  ],
+  "note": "No fact: a developer's own LinkedIn post of 26 March 2024 about a system he built alone, whose stated aims are analysis of national and regional crime trends and safe keeping of criminal records. It is not said to be the force's system or in use at any station, and nothing says a station would enter reports or cases in it. Classed on the criminal-records aim; the crime-trend aim is the statistics class."
+}

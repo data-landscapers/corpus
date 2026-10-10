@@ -2,11 +2,11 @@ iso3,sub_indicator,rung,records,made,stations,stations_as_of,stopped_by
 AGO,record,no evidence,,,,,nothing held
 BDI,record,no evidence,,,,,nothing held
 BEN,record,no evidence,,,,,nothing held
-BFA,record,no evidence,,,,,nothing held
+BFA,record,2,O,paper,none,2023-12,paper at stations beside a system elsewhere
 BWA,record,no evidence,,,,,nothing held
 CAF,record,no evidence,,,,,nothing held
 CIV,record,no evidence,,,,,nothing held
-CMR,record,no evidence,,,,,nothing held
+CMR,record,2,C,,,,how the record is made is not stated
 COD,record,1,,paper,,,a dated statement of paper only
 COG,record,1,none,paper,none,2014-01,a dated statement of paper only
 COM,record,no evidence,,,,,nothing held
@@ -15,41 +15,41 @@ DJI,record,no evidence,,,,,nothing held
 DZA,record,no evidence,,,,,nothing held
 EGY,record,1,,paper,,,a dated statement of paper only
 ERI,record,no evidence,,,,,nothing held
-ETH,record,no evidence,,,,,nothing held
-GAB,record,no evidence,,,,,nothing held
-GHA,record,no evidence,,,,,nothing held
-GIN,record,no evidence,,,,,nothing held
-GMB,record,1,none,paper,,,a dated statement of paper only
-GNB,record,no evidence,,,,,nothing held
+ETH,record,2,O;C,,,,how the record is made is not stated
+GAB,record,2,C,,,,how the record is made is not stated
+GHA,record,3,C,connected,count:55,2022,no share of stations over half
+GIN,record,2,C,,count:10,2021-03-31,how the record is made is not stated
+GMB,record,2,none,connected,pilot,2021-04-22,"a pilot, or no station said to be using it"
+GNB,record,2,none,,,,how the record is made is not stated
 GNQ,record,no evidence,,,,,nothing held
-KEN,record,2,O;C,,none,2026-05-13,how the record is made is not stated
-LBR,record,2,O,connected,pilot,2021-01,"a pilot, or no station said to be using it"
-LBY,record,2,C,,not-published,2025-12-31,how the record is made is not stated
-LSO,record,no evidence,,,,,nothing held
-MAR,record,no evidence,,,,,nothing held
+KEN,record,3,O;C,connected,equipped:42%,2022-12,"a share of stations equipped, not recording"
+LBR,record,2,none,connected,pilot,2021-01,"a pilot, or no station said to be using it"
+LBY,record,2,O;C,,not-published,2025-12-31,how the record is made is not stated
+LSO,record,1,,paper,,,a dated statement of paper only
+MAR,record,2,C,connected,pilot,2023,"a pilot, or no station said to be using it"
 MDG,record,no evidence,,,,,nothing held
 MLI,record,no evidence,,,,,nothing held
-MOZ,record,no evidence,,,,,nothing held
-MRT,record,no evidence,,,,,nothing held
+MOZ,record,1,none,paper,none,2007-09,a dated statement of paper only
+MRT,record,3,O,connected,count:34,2025-06-19,no share of stations over half
 MUS,record,3,O;C,connected,equipped:100%,2025-06-17,"a share of stations equipped, not recording"
-MWI,record,2,O;C,,none,2026-07-29,how the record is made is not stated
-NAM,record,no evidence,,,,,nothing held
-NER,record,no evidence,,,,,nothing held
-NGA,record,no evidence,,,,,nothing held
-RWA,record,no evidence,,,,,nothing held
-SDN,record,no evidence,,,,,nothing held
-SEN,record,no evidence,,,,,nothing held
+MWI,record,2,O;C,paper,pilot,2022,paper at stations beside a system elsewhere
+NAM,record,1,none,paper,,,a dated statement of paper only
+NER,record,2,C,keyed-elsewhere,,,"a pilot, or no station said to be using it"
+NGA,record,1,none,paper,,,a dated statement of paper only
+RWA,record,2,C,,,,how the record is made is not stated
+SDN,record,1,,paper,,,a dated statement of paper only
+SEN,record,2,,,none,2025-10-02,how the record is made is not stated
 SLE,record,1,none,paper,,,a dated statement of paper only
-SOM,record,no evidence,,,,,nothing held
-SSD,record,no evidence,,,,,nothing held
+SOM,record,1,none,paper,none,2024-04-19,a dated statement of paper only
+SSD,record,2,none,paper,not-published,2021,paper at stations beside a system elsewhere
 STP,record,no evidence,,,,,nothing held
-SWZ,record,no evidence,,,,,nothing held
+SWZ,record,2,C,paper,,,paper at stations beside a system elsewhere
 SYC,record,3,O;C,connected,equipped:100%,2025-01-06,"a share of stations equipped, not recording"
 TCD,record,no evidence,,,,,nothing held
 TGO,record,no evidence,,,,,nothing held
 TUN,record,no evidence,,,,,nothing held
 TZA,record,3,C,connected,count:23,2024-04,no share of stations over half
-UGA,record,2,C,,pilot,2017-12-14,how the record is made is not stated
-ZAF,record,2,C,,,,how the record is made is not stated
-ZMB,record,unplaced,,,,,no coverage aspect stated
-ZWE,record,2,O,,pilot,2026-10-08,how the record is made is not stated
+UGA,record,2,C,paper,pilot,2021,paper at stations beside a system elsewhere
+ZAF,record,4,C,connected,share:86.3%,2021-05-04,under 90 per cent
+ZMB,record,2,O;C,paper,none,2024,paper at stations beside a system elsewhere
+ZWE,record,2,O,paper,pilot,2026-10-08,paper at stations beside a system elsewhere

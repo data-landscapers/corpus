@@ -1,0 +1,39 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)",
+      "country_label": "programme SIPAO; centre SIPAO (DACORE); sites distants",
+      "class": "",
+      "platform": "SIPAO / WAPIS",
+      "owner": "Programme implemented by INTERPOL and funded by the European Union; the editorial is by the Director General of Niger's National Police, who names the National Police and the Gendarmerie among the national authorities",
+      "tiers": "Pilot country; DACORE inaugurated in September 2015; by August 2019 a training room and 100 operators trained, 26 sites set up in the city of Niamey and interconnected with the DACORE, among them the central file division of the Gendarmerie; planned, undated: an operating budget for the programme and extension of the network to sites in the regions; the programme head says pilot countries' DACOREs collect, centralise and record police data and are extending beyond the DACORE within the capital"
+    },
+    {
+      "system": "Fichier automatisé des empreintes digitales (FAED)",
+      "country_label": "système automatisé d'empreintes digitales (FAED)",
+      "class": "identification",
+      "platform": "",
+      "owner": "",
+      "tiers": "Already held by Niger in August 2019; its interconnection with SIPAO was to start in the following weeks"
+    },
+    {
+      "system": "Fichier central de la Gendarmerie",
+      "country_label": "division du fichier central de la Gendarmerie; service des fichiers de la Gendarmerie nationale",
+      "class": "identification",
+      "platform": "",
+      "owner": "Gendarmerie nationale",
+      "tiers": "A SIPAO remote site in Niamey, visited on 11 June 2019"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24/7",
+      "class": "exchange",
+      "platform": "I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "Connection of the pilot countries' national systems planned by the end of 2019"
+    }
+  ],
+  "note": "French edition of newsletter no. 12 (English twin is n 47). It gives 26 interconnected sites in Niamey and none in the regions as of August 2019, but calls them sites, names only the gendarmerie's central file division, and does not say that commissariats or brigades enter their reports or cases; so no class and no fact. The parent may want the 26 Niamey sites, the planned operating budget and the planned regional extension if another document makes SIPAO a record system here."
+}

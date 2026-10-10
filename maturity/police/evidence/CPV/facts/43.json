@@ -1,0 +1,23 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AFIS (Système automatisé de reconnaissance d'empreintes digitales)",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "",
+      "tiers": "An existing AFIS in Cabo Verde, which the AFIS project's steering committee of 21 July 2022 recommended be restored or upgraded as a priority; a technical mission went to Cabo Verde in 2022 to define the needs for strengthening the forensic chain or extending the AFIS. No sites stated."
+    },
+    {
+      "system": "SIPAO (Système d'information policière pour l'Afrique de l'Ouest)",
+      "country_label": "SIPAO / WAPIS",
+      "class": "",
+      "platform": "",
+      "owner": "INTERPOL implements the programme, funded by the European Union with the ECOWAS Commission as partner",
+      "tiers": "Not stated for Cabo Verde. Regionally, a data collection and registration centre (DACORE) in the capital records police data; 14 of the 16 beneficiary countries have one operating, the 14 not listed by name, and extension beyond the DACORE and beyond the capital is a priority for 2023."
+    }
+  ],
+  "note": "A regional INTERPOL newsletter of December 2022. It names Cabo Verde only for its existing AFIS, an identification system, to be restored or upgraded, and for a technical mission on it. It states nothing about Cabo Verde's stations or about SIPAO in Cabo Verde by name: the 14 countries with an operating DACORE are not listed, only Liberia and Mali being named as the two without, and nowhere does it say stations enter their cases in the system, so SIPAO is left unclassified and gives no fact."
+}

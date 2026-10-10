@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-tcd-lettre-d-information-sipao-numero-24",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AFIS",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "supplier selected by international tender for the three pilot countries, not named",
+      "owner": "INTERPOL AFIS project under the SIPAO programme, funded by the European Union; pilot countries urged in November 2023 to commit funds for maintenance after the project phase",
+      "tiers": "Togo one of three pilot countries; forensic offices of the Police nationale and the Gendarmerie nationale refitted ahead of installation; forensic kits handed over between September and December 2023; national trainers trained forensic unit members"
+    }
+  ],
+  "note": "No fact: for Togo the newsletter covers only the fingerprint pilot, an identification system. Its programme totals at the end of 2023 (550,000 cases in national databases, 12 countries extended beyond the central centre, 10 connected to I-24/7) are not given by country."
+}

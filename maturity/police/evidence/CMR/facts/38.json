@@ -1,0 +1,60 @@
+{
+  "slug": "2020-06-01-cmr-appui-a-la-police-camerounaise",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "GIZ's factsheet on its support to the Cameroonian police, status June 2020, states that a digitised system for processing and transmitting information on investigations, criminal proceedings, arrest warrants, fines and current sanctions is barely used, which it puts down to weak institutional and management capacity; it gives no count of the units using it and does not say where entries are made.",
+      "as_of": "2020-06",
+      "date_precision": "month",
+      "system": "système numérisé de traitement et de transmission d'informations sur les enquêtes, les procédures pénales, les mandats d'arrêt, les amendes et les sanctions",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "GIZ's factsheet, status June 2020, presents the barely used digitised investigations and proceedings system as the Délégation générale à la sûreté nationale's own, saying the DGSN must besides overcome unreliable internet connection, electricity and computer equipment; it names no other operator, plan or budget line for the system.",
+      "as_of": "2020-06",
+      "date_precision": "month",
+      "system": "système numérisé de traitement et de transmission d'informations sur les enquêtes, les procédures pénales, les mandats d'arrêt, les amendes et les sanctions",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "système numérisé de traitement et de transmission d'informations sur les enquêtes, les procédures pénales, les mandats d'arrêt, les amendes et les sanctions",
+      "country_label": "",
+      "class": "record",
+      "platform": "",
+      "owner": "Délégation générale à la sûreté nationale (DGSN), as the document implies",
+      "tiers": "not stated; barely used as of June 2020"
+    },
+    {
+      "system": "base de données dactyloscopiques numérisée",
+      "country_label": "",
+      "class": "identification",
+      "platform": "",
+      "owner": "police judiciaire (DGSN), supported by the GIZ programme",
+      "tiers": "not stated; in use by the police judiciaire"
+    },
+    {
+      "system": "base de données numérisée sur la criminalité au niveau national",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national level; its use is named a priority of the GIZ component, with no description of what it holds or who enters it"
+    },
+    {
+      "system": "mécanisme interne de gestion des plaintes contre les agents de police",
+      "country_label": "mécanisme interne de plainte contre les manquements de la police",
+      "class": "single-function",
+      "platform": "",
+      "owner": "DGSN, with GIZ support for its development and digitisation",
+      "tiers": "not stated; digitisation planned as of June 2020"
+    }
+  ],
+  "note": "The record system is classed on the document's description alone (information on investigations and criminal proceedings, processed and transmitted digitally); the document does not say that stations enter cases in it, nor how the record is made. The GIZ project (July 2019 to December 2022, about EUR 2.77 million, German Federal Foreign Office) is not stated to finance that system."
+}

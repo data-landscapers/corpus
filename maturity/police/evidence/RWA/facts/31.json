@@ -1,0 +1,15 @@
+{
+  "slug": "2025-04-02-rwa-scheduled-iecms-system-downtime-and-upgraded-system-deployment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "country_label": "IECMS",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Justice, which announces the upgrade and runs the support address",
+      "tiers": "Not stated; scheduled downtime 5 to 10 April 2025, upgraded system go-live 11 April 2025"
+    }
+  ],
+  "note": "A Ministry of Justice notice of 2 April 2025 giving the downtime and go-live dates of the upgraded IECMS; it does not say what the system records or who enters in it, so it has no class and gives no fact. The upgrade also falls outside the twelve months before the study."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "2025-10-29-swz-evaluation-of-one-stop-centre-osc-for-integrated-services-for-violence",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "UNICEF's evaluators state that at the Mbabane and Manzini One Stop Centres the police record by hand in occurrence books, that police, prosecution and social welfare keep separate paper registers, and that an extra exercise book was added after dockets were lost; the evaluation ran in 2025 and reports on the two centres' police, not on stations nationally.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "occurrence books (handwritten registers)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "UNICEF's evaluators state that Manzini One Stop Centre's records are all manual and that the police there complete paper forms such as the RSP-88, sent to headquarters every 2 to 3 months and not kept on site; no digital police record is named at either centre, in an evaluation run in 2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "occurrence books (handwritten registers)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "occurrence books (handwritten registers)",
+      "country_label": "occurrence books",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Royal Eswatini Police Service",
+      "tiers": "police at the Mbabane and Manzini One Stop Centres; the evaluation also recommends checking police occurrence books each morning to log after-hours cases"
+    },
+    {
+      "system": "PS Form 1 / PS Form 2 and RSP-88",
+      "country_label": "Police Service Forms; RSP-88 medical form",
+      "class": "single-function",
+      "platform": "paper",
+      "owner": "Royal Eswatini Police Service",
+      "tiers": "standard forms the police use to document and track reported sexual and gender-based violence cases; at Manzini sent to headquarters every 2 to 3 months"
+    }
+  ],
+  "note": "Passages only. Both facts describe police working at two hospital-based centres, not police stations at large; the document says dockets return to the station nearest the incident for investigation and says nothing of how those stations record."
+}

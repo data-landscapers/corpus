@@ -1,0 +1,11 @@
+{
+  "slug": "2019-04-01-national-rural-safety-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "ICDMS", "country_label": "ICDMS", "class": "", "platform": "", "owner": "South African Police Service", "tiers": "named only as an IT programme in which members at police station level are to be trained"},
+    {"system": "OPAM", "country_label": "OPAM", "class": "", "platform": "", "owner": "South African Police Service", "tiers": "named only as an IT programme in which members at police station level are to be trained"},
+    {"system": "Reservist System", "country_label": "Reservist System", "class": "personnel", "platform": "", "owner": "South African Police Service", "tiers": ""},
+    {"system": "Integrated Command Centre", "country_label": "Command Centre", "class": "surveillance", "platform": "", "owner": "South African Police Service", "tiers": "planned, to be established by 30 November 2024"}
+  ],
+  "note": "No fact: the strategy names no station record system by what it does. Station count, not a count of stations recording digitally: SAPS Division Visible Policing gives 885 rural and rural/urban police stations for financial year 2018/2019, 432 rural and 453 rural/urban, with no national total of stations. Planned only, all to 31 March 2021: 'IT system-based reporting' as a rural technology capacity to be audited, a system-based approach to crime statistics, an audit of communication infrastructure (30 November 2020), data analytics and dashboards. It states that the lack of communication infrastructure, network and technological support in rural areas hampers SAPS service delivery."
+}

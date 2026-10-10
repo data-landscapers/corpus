@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-01-nam-about-us-nampol",
+  "facts": [],
+  "systems": [
+    {
+      "system": "E-Policing system",
+      "country_label": "E-Policing system",
+      "class": "",
+      "platform": "",
+      "owner": "Namibian Police Force",
+      "tiers": "not stated; launched in 2014 and said to be still being implemented (page captured June 2026)"
+    },
+    {
+      "system": "computerised crime databases",
+      "country_label": "computerized crime databases",
+      "class": "",
+      "platform": "",
+      "owner": "Namibian Police Force",
+      "tiers": "not stated; introduced in the late 1990s and early 2000s under Inspector-General Hangula (1995-2005)"
+    }
+  ],
+  "note": "The force's history page says only that the E-Policing system, launched in 2014 and still being implemented, aims to move policing processes from manual work to automation, and that computerised crime databases were introduced in 1995-2005; it does not say what either records, where, or in how many stations, so neither can be classed and no fact is taken. The page gives 14 regional commands and no count of stations."
+}

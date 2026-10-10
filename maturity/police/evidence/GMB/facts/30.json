@@ -1,0 +1,92 @@
+{
+  "slug": "2021-04-22-gmb-term-of-reference-tor-for-the-recruitment-of-consultant-upgrade-the-mo",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "UNDP's terms of reference state that the Gambia Police Force has an existing digital Case Management System, the need for which was identified with UNDP in 2019, and that in 2020 the Rule of Law project supported its operationalisation with training and mentorship.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Case Management System (CMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "UNDP's terms of reference state that a mobile app for crime reporting by police officers was developed in 2020 covering the four most reported crimes and was in an ongoing pilot, and that UNDP and the police had agreed to extend it to all reported crimes.",
+      "as_of": "2021-04-22",
+      "date_precision": "day",
+      "system": "Mobile App for crime reporting",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "UNDP's terms of reference specify that the upgraded app is to let everyday police officers collect and input data on reported cases, offline where there is no stable connection, and upload and synchronise it in real time with the centralised Case Management System; this is the specification for the upgrade, not a report that it works so.",
+      "as_of": "2021-04-22",
+      "date_precision": "day",
+      "system": "Mobile App for crime reporting",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "pilot",
+      "fact": "UNDP's terms of reference describe the app as still in its pilot phase, to be extended to other police stations in phases, with priority to selected community-policing areas and to stations with ICT capacity; training for 20 officers at headquarters and selected regional and field offices is planned, and no count of stations is given.",
+      "as_of": "2021-04-22",
+      "date_precision": "day",
+      "system": "Mobile App for crime reporting",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "UNDP's terms of reference state that the application will be owned by the Gambia Police Force, while UNDP's Rule of Law project, its Accelerator Lab and the police manage and oversee the upgrade.",
+      "as_of": "2021-04-22",
+      "date_precision": "day",
+      "system": "Mobile App for crime reporting",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNDP's terms of reference show the case management system's operationalisation in 2020 and the app's development and upgrade as supported and contracted by UNDP's Strengthening Rule of Law, Access to Justice and Security Service Delivery project; no domestic budget is mentioned.",
+      "as_of": "2021-04-22",
+      "date_precision": "day",
+      "system": "Case Management System (CMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Case Management System (CMS)",
+      "country_label": "digital Case Management System",
+      "class": "record",
+      "platform": "",
+      "owner": "Gambia Police Force, with UNDP Rule of Law project support",
+      "tiers": "Centralised; training planned at headquarters and selected regional and field offices, traffic officers included, to decentralise data input"
+    },
+    {
+      "system": "Mobile App for crime reporting",
+      "country_label": "Mobile Application for Reporting Crime",
+      "class": "record",
+      "platform": "To be a hybrid or native app for iOS and Android; UNDP Accelerator Lab technical support",
+      "owner": "To be owned by the Gambia Police Force",
+      "tiers": "Pilot; to expand to other police stations in phases, community-policing areas and stations with ICT capacity first"
+    },
+    {
+      "system": "Quarterly Crime Statistics Template",
+      "country_label": "Quarterly Crime Statistics Template",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Gambia Police Force, with UNDP Rule of Law project support",
+      "tiers": "Aligned to the Case Management System in 2020"
+    }
+  ],
+  "note": "Terms of reference for a 35-day consultancy, signed 22 April 2021: they state intent and the position at signing; no award or outcome is in the document. In 2020 the project also mapped all police posts, districts and stations, with no count given."
+}

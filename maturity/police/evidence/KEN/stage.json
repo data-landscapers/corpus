@@ -1,0 +1,19 @@
+{
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry;finance:not-stated",
+      "records": "O",
+      "made": "connected",
+      "last12": "advancing",
+      "stations": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "KEN-002;KEN-006;KEN-010;KEN-023;KEN-034;KEN-036",
+      "gaps": "The stations facts disagree: 76 stations in and around Nairobi held a connected digital Occurrence Book on 30 June 2023 (KEN-034), while the Inspector General and the Interior Cabinet Secretary in April, May and August 2026 speak of it as in procurement and still to come, with no station using one (KEN-002, KEN-006, KEN-010, KEN-023); nothing says what became of the Nairobi system, and no station outside the capital area is established as recording digitally. The case file is a commitment only (KEN-019); the seven-year reform strategy (KEN-029) carries no period and is not said to name the system, so no plan value is held; no domestic budget line is stated; the only statements on rural stations and on Eldoret come from the excluded source (KEN-013 to KEN-015), so no rural gap is flagged.",
+      "note": "Either reading gives rung 2: the 2023 system ran only in and around Nairobi, and the 2026 facts describe a system being procured with no station using it. Rung 3 needs a system past its pilot and live in stations outside the capital, which no admissible fact shows."
+    }
+  ]
+}

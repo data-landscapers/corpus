@@ -1,0 +1,23 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)",
+      "country_label": "SIPAO (WAPIS)",
+      "class": "",
+      "platform": "SIPAO, implemented by INTERPOL",
+      "owner": "INTERPOL programme, funded by the European Union since 2012 (EUR 52 million cumulative), with the ECOWAS Commission",
+      "tiers": "For Liberia: all operational activity was suspended until shortly before December 2022; the programme head says Liberia, like Mali, already has all the infrastructure needed to digitise police data, and the steering committee of 10 November 2022 opened the possibility of restarting some activities there, training above all. Liberia is one of the 2 of 16 beneficiary countries without an operational data centre (DACORE). Nothing said of stations."
+    },
+    {
+      "system": "AFIS",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "WAPIS AFIS project, run by INTERPOL and CIVIPOL with EUR 5 million of European Union funds, 2022-2024",
+      "tiers": "Liberia holds none: the AFIS steering committee of 21 July 2022 recommended that Liberia, with Burkina Faso, Guinea-Bissau, Mali and Sierra Leone, be prepared for an AFIS under a possible future action"
+    }
+  ],
+  "note": "No fact: for Liberia the newsletter states only that SIPAO activity was suspended until recently and that the infrastructure to digitise police data is in place; it does not say what the system records or that any station enters reports or cases in it, so it is unclassified. Regionally the system sits in a national centre in the capital, with extension beyond it a 2023 priority."
+}

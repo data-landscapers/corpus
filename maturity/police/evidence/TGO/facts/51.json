@@ -1,0 +1,23 @@
+{
+  "slug": "2019-11-01-tgo-ceremonie-de-remise-des-registres-de-garde-a-vue-et-du-premier-lot-de",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Registre de garde à vue",
+      "country_label": "nouveau registre de garde à vue",
+      "class": "single-function",
+      "platform": "paper register, designed and produced under the Programme d'Appui au Secteur de la Justice (PASJ), funded by the European Union",
+      "owner": "Ministère de la sécurité et de la protection civile",
+      "tiers": "for the investigation units of the police and the gendarmerie nationale; handed over on 5 November 2019; designed to comply with the criminal procedure code and the Luanda Guidelines of 2014"
+    },
+    {
+      "system": "Système d'Informations Policières d'Afrique de l'Ouest (SIPAO/WAPIS)",
+      "country_label": "SIPAO/WAPIS",
+      "class": "",
+      "platform": "SIPAO/WAPIS, an ECOWAS programme sponsored by the European Union and implemented by INTERPOL",
+      "owner": "Ministère de la sécurité et de la protection civile; memorandum between INTERPOL and the Togolese government signed 14 March 2019",
+      "tiers": "a first lot of computer equipment, valued at 36 million CFA francs, handed over at the ministry on 5 November 2019; aim stated as interconnecting police, gendarmerie, customs, water and forests and justice to share police information; no unit named"
+    }
+  ],
+  "note": "No fact: the ministry reports the handover on 5 November 2019 of a new paper custody register, a single-function class, and of a first lot of SIPAO equipment; it says nothing of how units record reports or cases, and describes SIPAO only by its aim, so that system has no class. The page prints no date of its own; the event date is in its text."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2020-10-23-ssd-unmiss-police-hands-over-building-to-serve-as-a-crime-data-analysis-fa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Crime data analysis centre, Buluk police division",
+      "country_label": "crime data analysis facility",
+      "class": "statistics",
+      "platform": "",
+      "owner": "South Sudan National Police Service; building financed by UNMISS as a Quick Impact Project, with training by UN police",
+      "tiers": "Buluk police division, Juba; intended to build a database of crimes committed across the country"
+    },
+    {
+      "system": "Emergency call centre, Juba",
+      "country_label": "emergency call centre",
+      "class": "public",
+      "platform": "",
+      "owner": "South Sudan National Police Service",
+      "tiers": "Juba"
+    }
+  ],
+  "note": "UNMISS news item (published 23 October 2020, a proxy date) on a building handed to the crime response team at Buluk police division, Juba, to map, aggregate and analyse crimes: a statistics-class facility, so no record fact. It quotes the team's commander that they had had no systematic way of registering, reporting and analysing the information they collect, reporting by phone or radio, and the article speaks of the previous lack of a proper information management system at the police station; it does not say what the facility's own system is or that reports or cases are entered in it."
+}

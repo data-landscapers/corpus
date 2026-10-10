@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,record,governance,qualifier,,,,,nothing held
-GIN,record,records,coverage,,,,,nothing held
+GIN,record,governance,qualifier,owner:ministry;finance:domestic,2021-03-31,GIN-004;GIN-005,,nothing dated since 2023-09-28
+GIN,record,records,coverage,C,2021-03-31,GIN-006,,nothing dated since 2023-09-28
 GIN,record,made,coverage,,,,,nothing held
 GIN,record,last12,qualifier,,,,,nothing held
-GIN,record,stations,coverage,,,,,nothing held
+GIN,record,stations,coverage,count:10,2021-03-31,GIN-007,,nothing dated since 2023-09-28

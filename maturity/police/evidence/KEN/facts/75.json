@@ -1,0 +1,52 @@
+{
+  "slug": "2023-07-01-ken-ipoa-performance-report-july-december-2022",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "equipped:42%",
+      "fact": "The Independent Policing Oversight Authority found computers available at 42% of the police facilities it re-inspected in July-December 2022 (55 follow-up inspections in 16 counties), up from 38% at their first inspection, and attributes the rise to the automated OB; a share of an inspected sample with computers, not of all stations and not of stations recording in the system.",
+      "as_of": "2022-12",
+      "date_precision": "month",
+      "system": "automated OB",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Independent Policing Oversight Authority reports for July-December 2022 that official police registers, the Occurrence Book among them, were in short supply and that most officers in charge of the premises it inspected had resorted to improvised registers (four-quire black books); an Occurrence Book was kept at 98% of the 55 facilities re-inspected.",
+      "as_of": "2022-12",
+      "date_precision": "month",
+      "system": "Occurrence Book (police registers)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "automated OB",
+      "country_label": "automated OB",
+      "class": "record",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Named once, as the reason computers became available in some police facilities re-inspected in July-December 2022; no description and no count of stations"
+    },
+    {
+      "system": "National Forensic Lab",
+      "country_label": "National Forensic Lab",
+      "class": "identification",
+      "platform": "",
+      "owner": "Directorate of Criminal Investigations",
+      "tiers": "National; IPOA reports difficulty getting forensic services from DCI units, July-December 2022"
+    },
+    {
+      "system": "IPOA Complaints Management System, with Enterprise Content Management and ERP",
+      "country_label": "Complaints Management System",
+      "class": "",
+      "platform": "",
+      "owner": "Independent Policing Oversight Authority (the oversight body, not the police)",
+      "tiers": "IPOA headquarters and regional offices; complaints against police received by walk-in, letter, email, website, social media and toll-free 1559; ECM enhancement at 85% and ERP at 55% in December 2022, with United States support and UNOPS quality assurance"
+    }
+  ],
+  "note": "Read to its end (page 48). The report inspects paper registers and does not describe the automated OB beyond one mention; its percentages are of the 55 facilities re-inspected in the half-year, not of all stations. The executive summary and section 2.4.1 disagree on the split of the five thematic inspections (4 on police records and 1 on illegal immigrants, or the reverse)."
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "records": "",
+      "made": "paper",
+      "last12": "no-change",
+      "stations": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-009;ZWE-011",
+      "gaps": "No fact dated by the as-at names a station entering reports or dockets in a system: the electronic docket system was announced in December 2025 as coming soon (ZWE-009), and the 2021 pilot study for rural stations (ZWE-015) gives no station and no record, so the newer fact stands for stations. Which record the system will hold is not established, the last statement on how records are made dates from 2021, and no finance is stated inside the 36 months. The Warren Park proof of concept (ZWE-001 to ZWE-005) is dated 8 October 2026, after the as-at, and sets nothing; ZWE-006 to ZWE-008 are from the excluded source.",
+      "note": "A system for stations is being prepared: needs assessment done and a partner sought in January 2024, an electronic docket system announced in December 2025. Rung 3 needs a system past its pilot and live in stations outside the capital, and none is recorded as live anywhere by the as-at."
+    }
+  ]
+}

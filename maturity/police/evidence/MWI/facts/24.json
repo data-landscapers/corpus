@@ -1,0 +1,78 @@
+{
+  "slug": "2024-08-01-mwi-final-narrative-programme-report-spotlight-initiative-malawi",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "pilot",
+      "fact": "The Spotlight Initiative's final report states that in 2022 the police's SGBV case management system was incorporated into the crime record system and the combined system was piloted in the programme's six districts (Mzimba, Nkhata Bay, Ntchisi, Dowa, Nsanje and Machinga); no count of stations is given.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "crime record system (with the police SGBV integrated Case Management System)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The report states that police officers enter data into the combined crime record and SGBV case management system, having previously entered it into two separate systems, and that its dashboards report the progress of the SGBV cases registered and their delays (2022).",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "crime record system (with the police SGBV integrated Case Management System)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The report states that the Spotlight Initiative, funded by the European Union and run by four UN agencies from January 2019 to December 2023, supported the roll-out of the police's SGBV integrated digital case management system; no domestic funding for it is stated.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "crime record system (with the police SGBV integrated Case Management System)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "crime record system",
+      "country_label": "crime record system",
+      "class": "record",
+      "platform": "",
+      "owner": "Malawi Police Service",
+      "tiers": "combined with the SGBV case management system and piloted in six districts in 2022; wider use not stated"
+    },
+    {
+      "system": "police SGBV integrated Case Management System (CMS)",
+      "country_label": "SGBV integrated Case Management System",
+      "class": "record",
+      "platform": "",
+      "owner": "Malawi Police Service, with Spotlight Initiative support",
+      "tiers": "merged into the crime record system in 2022"
+    },
+    {
+      "system": "RapidPro mobile data collection",
+      "country_label": "RapidPro",
+      "class": "statistics",
+      "platform": "RapidPro",
+      "owner": "Malawi Police Service, upgraded under the Spotlight Initiative",
+      "tiers": "police SGBV data reporting, said to have risen from about 10% to 95%; feeds quarterly bulletins"
+    },
+    {
+      "system": "SGBV Data Observatory Hub",
+      "country_label": "National and District Data Observatory Hubs (www.nsogbv.mw)",
+      "class": "statistics",
+      "platform": "",
+      "owner": "National Statistical Office",
+      "tiers": "national hub and six district hubs; takes data from police, judiciary, health and social welfare; over 5,000 cases recorded"
+    },
+    {
+      "system": "web-based GBV information management system",
+      "country_label": "GBV IMS / GBVMIS",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Ministry of Gender, Community Development and Social Welfare",
+      "tiers": "established 2015, upgraded under the programme; police, social welfare and health contribute; 584 district and community service providers trained"
+    }
+  ],
+  "note": "The document does not say where officers enter the data (station or district office), nor whether the combined system was extended beyond the six pilot districts; the governance fact is dated to the 2022 merger, the programme running 2019-2023."
+}

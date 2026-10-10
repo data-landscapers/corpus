@@ -1,0 +1,23 @@
+{
+  "slug": "2023-01-20-stp-ministerio-da-justica-lanca-o-processo-de-informatizacao-da-gestao-pro",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Informatização da gestão processual do sistema judiciário",
+      "country_label": "informatização da gestão processual do sistema judiciário (Reforma da Justiça)",
+      "class": "",
+      "platform": "software supplied by Synergy, winner of the international tender, modelled on African cases such as Rwanda",
+      "owner": "Ministério da Justiça, Administração Pública e Direitos Humanos; sponsored and financed by UNDP among others",
+      "tiers": "launched 19 January 2023; phase one criminal procedure, phase two civil, family and other processes, completion possible by the end of 2023 according to a project source; no site named"
+    },
+    {
+      "system": "Basic digitisation in the Ministério Público",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Procuradoria-Geral da República",
+      "tiers": "described by the Procurador-geral as a small earlier experience"
+    }
+  ],
+  "note": "No fact: the system is the judiciary's case management, a courts' and prosecution system outside the record class. The only mention of the police is the minister's remark that the launch is an opportunity to improve the functioning of the courts, the Ministério Público, the Polícia and the Polícia Judiciária; the article does not say the police will enter cases in it or be linked to it, so it is not classed exchange either."
+}

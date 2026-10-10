@@ -1,0 +1,15 @@
+{
+  "slug": "2023-08-30-stp-presidente-da-republica-diz-que-a-policia-tem-de-se-modernizar-para-me",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Zulo (Zulu)",
+      "country_label": "sistema integrado de informação policial, o mais conhecido por Zulo",
+      "class": "",
+      "platform": "",
+      "owner": "Polícia Nacional de São Tomé e Príncipe",
+      "tiers": "not yet inaugurated on 30 August 2023: the Comandante Geral said it would be inaugurated shortly"
+    }
+  ],
+  "note": "No fact: the article names the system and does not say what it does, so its class is left empty. Its one dated statement is the Comandante Geral's announcement at the force's 48th anniversary ceremony on 30 August 2023 that the integrated police information system would 'brevemente' be inaugurated, which the parent may want as a dated not-yet-in-service statement if another document classes Zulu as record."
+}

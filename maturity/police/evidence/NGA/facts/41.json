@@ -1,0 +1,60 @@
+{
+  "slug": "2021-06-08-nga-enhancing-effective-policing-with-infrastructural-support-as-wapis-dat",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Ministry of Police Affairs' press unit states that writing a statement, generating a report for citizens and entering biodata in police stations are done manually, and that divisional police stations lack basic ICT infrastructure; it gives no date, so the date is the article's publication (a proxy date).",
+      "as_of": "2021-06-08",
+      "date_precision": "day",
+      "system": "Divisional police station manual records",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The Ministry of Police Affairs' press unit states that statements and reports in police stations are made manually and that most criminal records of offenders and property across the country are not made electronically; it gives no date, so the date is the article's publication (a proxy date).",
+      "as_of": "2021-06-08",
+      "date_precision": "day",
+      "system": "Divisional police station manual records",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Divisional police station manual records",
+      "country_label": "statements, reports and biodata done manually",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Nigeria Police Force",
+      "tiers": "Divisional police stations in the country, as the ministry describes them in June 2021"
+    },
+    {
+      "system": "WAPIS Centre / Data Collection and Registration Centre (DACORE)",
+      "country_label": "WAPIS Centre; WAPIS database centre; DACORE",
+      "class": "identification",
+      "platform": "West African Police Information System (WAPIS)",
+      "owner": "Inaugurated by the Minister of Police Affairs; ECOWAS programme funded by the European Union and implemented by INTERPOL; regulation of the WAPIS National Committee (WANACO) adopted by the Federal Government on 24 March 2021",
+      "tiers": "One centre at Force Headquarters, Abuja, inaugurated 26 May 2021, with biometric equipment to capture suspects and convicted criminals into a centralised database and to be the hub collating criminal-proceedings information from law enforcement agencies; a first batch of 20 workstations installed on agency sites (Police, Immigration, NAPTIP, NDLEA) and three training sessions"
+    },
+    {
+      "system": "CCTV project",
+      "country_label": "abandoned CCTV project",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Ministry of Police Affairs, through a public-private partnership concession",
+      "tiers": "Being reactivated in 2021"
+    },
+    {
+      "system": "Police Public Complaints Committee (PPCC)",
+      "country_label": "Police Public Complaints Committee",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministry of Police Affairs",
+      "tiers": "Resuscitated; to have 24-hour dedicated lines for complaints against officers"
+    }
+  ],
+  "note": "The WAPIS centre is described as biometric capture of suspects and convicts at headquarters and inter-agency collation, so it is not a record system here; the facts are the ministry's own statement that stations record by hand."
+}

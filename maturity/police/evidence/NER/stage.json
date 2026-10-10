@@ -1,0 +1,19 @@
+{
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "",
+      "records": "C",
+      "made": "keyed-elsewhere",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-004;NER-005",
+      "gaps": "The placing fact is from 2019: cases keyed into SIPAO by a team of 8 at the Police Technique et Scientifique in Niamey, with no station, brigade or region named and no word on what the team keys from. Nothing since says the system reached stations outside the capital or still runs; governance facts are from 2019 and outside the 36 months, and no station count or event in the last twelve months is held.",
+      "note": "Rung 2 because the system runs at headquarters in the capital only. Rung 3 needs it live in some stations outside the capital, or routine keying of each station's forms, and neither is stated."
+    }
+  ]
+}

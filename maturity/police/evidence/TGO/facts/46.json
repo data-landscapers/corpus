@@ -1,0 +1,15 @@
+{
+  "slug": "2024-12-01-tgo-renforcement-du-dispositif-securitaire-au-togo",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'Information Policière d'Afrique de l'Ouest (SIPAO)",
+      "country_label": "SIPAO, at the Centre d'Information Policière du Togo (CIPT)",
+      "class": "",
+      "platform": "SIPAO programme, implemented by INTERPOL",
+      "owner": "Ministère de la sécurité et de la protection civile, through the CIPT; programme sponsored by the European Union under the ECOWAS Commission",
+      "tiers": "the CIPT in Lomé, Adidogomé, where the criminal intelligence analysis cell (ANACRIM) was inaugurated on 17 December 2024 after computer equipment, analysis software, premises and staff were provided; no station or unit named; Togo joined the programme in 2017"
+    }
+  ],
+  "note": "No fact: the ministry reports the opening of an analysis cell at the national police information centre and the minister's commitment to SIPAO; it does not say what SIPAO records or who enters it, so the system has no class."
+}

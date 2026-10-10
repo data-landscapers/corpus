@@ -1,0 +1,102 @@
+{
+  "slug": "2024-10-01-ken-national-police-service-annual-report-2022",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "The National Police Service's annual report for 2022 says the Digital Occurrence Book, launched on 21 November 2019 at Kasarani Sub-County in Nairobi County, captures the bio-data of crime suspects reported to a police station and the officers assigned, replacing the manual OB there.",
+      "as_of": "2019-11-21",
+      "date_precision": "day",
+      "system": "Digital Occurrence Book (Digital OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The National Police Service says that in 2022 the Digital OB captured reports at the police station on a real-time basis and that senior police commanders could access and monitor its use from their own offices; it gives no number of stations.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Digital Occurrence Book (Digital OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The National Police Service's report for 2022 presents the Digital OB as its own system and names its Utumishi Project as the programme that will fully automate the Service, a digitised Occurrence Book among its parts; no budget or funder is given.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Digital Occurrence Book (Digital OB)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Occurrence Book (Digital OB)",
+      "country_label": "Digital OB",
+      "class": "record",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Police station level, launched 21 November 2019 at Kasarani Sub-County, Nairobi; monitored by senior commanders from their offices; no count of stations given"
+    },
+    {
+      "system": "Utumishi Project",
+      "country_label": "Utumishi Project",
+      "class": "",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "A programme said to lead to full automation of the Service: digitised Occurrence Book, digital HR Information System, digital duty roster and patrol system, and a report generator for crime trends; stated as future"
+    },
+    {
+      "system": "digital HR Information System, digital duty roster and patrol system (Utumishi Project)",
+      "country_label": "",
+      "class": "personnel",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Parts of the Utumishi Project; automation said to produce service reports on recruitment, promotion, deployment and transfers"
+    },
+    {
+      "system": "report generator for crime trends, with GIS crime mapping (Utumishi Project)",
+      "country_label": "",
+      "class": "statistics",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Part of the Utumishi Project; GIS for crime measurement and mapping to be incorporated"
+    },
+    {
+      "system": "Integrated Command Centre (IC3)",
+      "country_label": "IC3",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Nairobi (Jogoo House) and Mombasa, installed 2019 by the report's account; used in 2022 chiefly to track stolen or missing vehicles"
+    },
+    {
+      "system": "Electronic Crash System (e-Crash)",
+      "country_label": "e-Crash",
+      "class": "single-function",
+      "platform": "",
+      "owner": "National Police Service with the World Bank, NTSA and other agencies",
+      "tiers": "Road traffic crash recording, piloted 2019-2021"
+    },
+    {
+      "system": "DCI National Forensic Laboratory",
+      "country_label": "DCI National Forensic Laboratory",
+      "class": "identification",
+      "platform": "",
+      "owner": "Directorate of Criminal Investigations, National Police Service",
+      "tiers": "One national laboratory, construction completed and opened 2022; ten laboratories including fingerprint identification, ballistics, digital forensics and evidence management"
+    },
+    {
+      "system": "speed cameras",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "National Police Service with NTSA",
+      "tiers": "Traffic enforcement on the roads, 2022"
+    }
+  ],
+  "note": "The report states no count or share of stations using the Digital OB and names no case-file system. It also says 130 police posts were gazetted as police stations in 2022, without giving the total number of stations."
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2011-01-01-zaf-national-instruction-3-of-2011-registration-of-case-dockets-on-the-cri",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "SAPS National Instruction 3 of 2011 requires every case docket and enquiry opened for investigation to be registered at once on the Crime Administration System, and tells station commanders that the Occurrence Book is not to be used for registering criminal cases, all crimes reported at the station being recorded and captured only on CAS.", "as_of": "2011", "date_precision": "year", "system": "Crime Administration System (CAS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "Under the 2011 instruction the member taking the report opens a paper docket (SAPS 3M), which a data typist or member at the station's Community Service Centre captures on CAS; dockets are transferred to and acknowledged by other stations on CAS, and when CAS is offline cases go on a paper SAPS 441 form for later capture.", "as_of": "2011", "date_precision": "year", "system": "Crime Administration System (CAS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The 2011 instruction states that there are stations with no access to CAS, where reported case dockets are registered in the paper Crime Register (SAPS 1) and transferred by hand, fax or registered post; it gives no count of them.", "as_of": "2011", "date_precision": "year", "system": "Crime Administration System (CAS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "not-published", "fact": "The 2011 instruction distinguishes CAS stations from non-CAS stations and gives no number of either.", "as_of": "2011", "date_precision": "year", "system": "Crime Administration System (CAS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The instruction is issued by the South African Police Service, Division Detective Service, which runs CAS as its own system for registering and managing case dockets.", "as_of": "2011", "date_precision": "year", "system": "Crime Administration System (CAS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Crime Administration System (CAS)", "country_label": "CAS", "class": "record", "platform": "", "owner": "South African Police Service", "tiers": "stations with access to CAS; non-CAS stations keep the paper Crime Register"},
+    {"system": "E-Docket system", "country_label": "E-Docket system", "class": "record", "platform": "", "owner": "South African Police Service", "tiers": "station Community Service Centre, where the contents of the complete docket are scanned"},
+    {"system": "Crime Management Information System (SAPS 6)", "country_label": "SAPS 6; CMI system", "class": "statistics", "platform": "", "owner": "South African Police Service", "tiers": "stations; monthly counts of crime codes, updated automatically from CAS at CAS stations"},
+    {"system": "Geographic information system for crime mapping", "country_label": "GIS", "class": "", "platform": "", "owner": "South African Police Service", "tiers": "station Crime Information Official, or a paper municipal map"}
+  ],
+  "note": "A standing instruction, not a report of practice: it says what stations must do, and gives no station count. Date is the year of issue; the instruction carries no day."
+}

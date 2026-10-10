@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,record,governance,qualifier,owner:ministry,2026-01-20,ETH-002,ETH-005=owner:ministry,"not stated: plan, finance"
+ETH,record,records,coverage,O;C,2026-01-20,ETH-001,ETH-004=O;C,
+ETH,record,made,coverage,,,,,nothing held
+ETH,record,last12,qualifier,advancing,2026-01-20,ETH-003,,
+ETH,record,stations,coverage,,,,,nothing held

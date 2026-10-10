@@ -1,0 +1,19 @@
+{
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "1",
+      "governance": "",
+      "records": "none",
+      "made": "paper",
+      "last12": "",
+      "stations": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-003;GMB-004",
+      "gaps": "The newest facts disagree with the older ones: the Inspector General's briefing of March 2026 describes the force's documentation as paper-based and names no digital system, while UNDP's 2020 and April 2021 documents describe a case management system and a crime-reporting app in pilot (GMB-006, GMB-008, GMB-009, GMB-011), whose fate after 2021 no row states. No governance fact falls inside the 36 months, no dated event inside the twelve, and no count of stations is held; the only statement on rural stations is from the excluded source.",
+      "note": "The newest dated fact on records and on how they are made is the Inspector General's statement of 24 March 2026 that documentation is paper-based and digitalisation still to come, which is the dated statement of absence rung 1 asks for. Rung 2 would need a system for stations being prepared or piloted at the as-at, and the pilot held is dated April 2021 with nothing since to say it continued."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "2025-03-27-ken-national-police-service-seek-sh20-billion-to-digitize-operations",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Inspector-General of Police presented the National Police Service's own digitisation programme, including the rollout of a digital Occurrence Book, at a forum in Nairobi on 26 March 2025, and the Ministry of Interior had announced in January 2025 that the nationwide rollout of the digital OB would be part of its policing modernisation.",
+      "as_of": "2025-03-26",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The National Police Service asked development partners for Sh20 billion on 26 March 2025 for digitisation including the digital Occurrence Book rollout: Sh11 billion network connectivity, Sh4 billion digitisation of police and citizen records, Sh3.5 billion ICT equipment, Sh0.93 billion software and new technologies; a request, with no commitment or budget line stated.",
+      "as_of": "2025-03-26",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The article says the digitisation efforts, the digital Occurrence Book among them, align with a seven-year reform strategy recommended by the National Task Force on Police Reforms; it does not say the strategy names the system.",
+      "as_of": "2025-03-27",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "The Inspector-General said on 26 March 2025 that the digital Occurrence Book, through which citizens would file complaints and report incidents remotely, was not yet operational: it was expected to be operational within two months, with full implementation set for April 2025.",
+      "as_of": "2025-03-26",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "digital Occurrence Book (OB)",
+      "country_label": "digital OB",
+      "class": "record",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Nationwide rollout announced by the Ministry of Interior in January 2025; not yet operational on 26 March 2025, expected operational within two months with full implementation in April 2025"
+    },
+    {
+      "system": "online traffic fine payment platform (traffic instant fines)",
+      "country_label": "",
+      "class": "single-function",
+      "platform": "",
+      "owner": "National Police Service / Ministry of Interior",
+      "tiers": "Announced in January 2025 as part of policing modernisation; hoped for by the Inspector-General in March 2025"
+    },
+    {
+      "system": "body cameras for police officers",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Ministry of Interior",
+      "tiers": "Plans being finalised, March 2025; not deployed"
+    },
+    {
+      "system": "network connectivity and ICT equipment for the police service",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Sought from development partners in March 2025: Sh11 billion connectivity, Sh3.5 billion ICT equipment"
+    }
+  ],
+  "note": "The article describes the digital OB chiefly by its public face (citizens filing complaints from home); it is classed record as the occurrence book itself, and the document says nothing of how or at how many stations entries are made. Its two dates for the system going live (within two months; April 2025) do not agree and are given as stated."
+}

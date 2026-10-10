@@ -1,0 +1,62 @@
+{
+  "slug": "2022-09-01-gmb-undp-the-gambia-2019-2021-report",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "UNDP's 2019-2021 country report states that in The Gambia the justice and security sector's case files and administrative systems are paper based, delaying justice and sustaining a case backlog; the statement is undated within the reporting period, so the document's published month is used.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "justice and security sector case files (paper based)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "UNDP reports that in 2020 it gave technical and financial support to develop a Mobile Data Collection App incorporated in the police's digitalised case management system, and trained 24 police officers to use the systems for data storage, analysis and real-time reporting of crimes on a daily and quarterly basis.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Police Case Management System with Mobile Data Collection App (MDCA)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNDP reports that the Mobile Data Collection App and the phased digitalisation of the justice and security sector were supported technically and financially by UNDP with UN Peacebuilding Fund money in 2020; no domestic funding is mentioned.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Police Case Management System with Mobile Data Collection App (MDCA)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Police Case Management System with Mobile Data Collection App (MDCA)",
+      "country_label": "Police Case Management System; Mobile Data Collection App for Police",
+      "class": "record",
+      "platform": "",
+      "owner": "Gambia Police Force, developed with UNDP and Peacebuilding Fund support",
+      "tiers": "Not stated; 24 police officers trained in 2020"
+    },
+    {
+      "system": "GIS mapping of police stations",
+      "country_label": "",
+      "class": "personnel",
+      "platform": "Geographical Information Systems",
+      "owner": "Gambia Police Force; done by the National Youth Council under a UNDP grant",
+      "tiers": "All police stations in The Gambia mapped, to show assets and personnel for deployment; no count given"
+    },
+    {
+      "system": "Information Management System for the National Statistical System",
+      "country_label": "",
+      "class": "statistics",
+      "platform": "",
+      "owner": "The Gambia Bureau of Statistics among the institutions covered, with UNDP support",
+      "tiers": "Covers the Gambia Police Force with the Bureau of Statistics, Fire and Rescue, Prisons and Civil Aviation"
+    }
+  ],
+  "note": "A UNDP self-report on 2019 to 2021; the police passages are two paragraphs and a caption. It gives no number of stations using the system and names no owner or plan for it. Court systems (virtual courts, CATS in five courts) are outside the police field and not listed."
+}

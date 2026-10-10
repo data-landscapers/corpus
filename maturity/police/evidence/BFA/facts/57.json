@@ -1,0 +1,9 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {"system": "IRAPOL", "country_label": "IRAPOL national system", "class": "", "platform": "", "owner": "Burkina Faso authorities, who decided to keep it; an initial batch of equipment donated by the WAPIS programme (INTERPOL, European Union funding)", "tiers": "expanded further by the donated equipment, places not stated; what it records is not described"},
+    {"system": "INTERPOL I-24/7 connection", "country_label": "connecting to INTERPOL's I-24/7 network", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL, WAPIS programme", "tiers": "planned for Burkina Faso in the days after August 2019, following signature of the memorandum of understanding"}
+  ],
+  "note": "INTERPOL's WAPIS newsletter no. 12, August 2019, English edition of the document at n 56. For Burkina Faso it says only that an initial batch of donated equipment allowed further expansion of the IRAPOL national system, which the authorities chose to keep, that the memorandum of understanding is signed and I-24/7 connection is to follow, and that its national contact point visited the Niger centre on 11-12 June 2019. It does not say what IRAPOL does or that stations enter cases in it, so the system is unclassified and gives no fact."
+}

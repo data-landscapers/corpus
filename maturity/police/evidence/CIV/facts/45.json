@@ -1,0 +1,10 @@
+{
+  "slug": "2021-04-28-civ-communique-du-conseil-des-ministres-du-mercredi-28-avril-2021",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information Policière de Côte d'Ivoire (SIP CI)", "country_label": "SIP CI", "class": "identification", "platform": "SIPAO / WAPIS", "owner": "Ministère de l'Intérieur et de la Sécurité, with the Centre de Traitement des Informations Policières (CTIP)", "tiers": "created by decree adopted in Council on 28 April 2021; to be used and shared by all law-enforcement services on the national territory (Justice, Police Nationale, Gendarmerie Nationale, forest police, customs, maritime and port police); no sites or stations stated"},
+    {"system": "Centre de Traitement des Informations Policières (CTIP)", "country_label": "CTIP", "class": "", "platform": "", "owner": "Ministère de l'Intérieur et de la Sécurité", "tiers": "created by the same decree of 28 April 2021; location not stated"},
+    {"system": "Système d'Information Policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO or WAPIS", "class": "", "platform": "", "owner": "ECOWAS member states and Mauritania, instituted in 2012; in Côte d'Ivoire a Comité National de Pilotage created by decree on 28 April 2021", "tiers": "not stated"}
+  ],
+  "note": "The Council of Ministers of 28 April 2021 adopted two decrees, one creating the national SIPAO steering committee and one creating the CTIP and the SIP CI. The communiqué describes the SIP CI as a shared electronic police information system whose database holds the criminal-antecedents file, the wanted-persons file and the file of reported or stolen weapons, which is the identification class; it does not say stations enter reports or cases in it, and a decree places nothing, so no fact. The body repeats the communiqué twice; both read."
+}

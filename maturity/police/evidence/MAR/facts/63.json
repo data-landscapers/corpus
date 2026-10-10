@@ -1,0 +1,13 @@
+{
+  "slug": "2019-10-07-mar-dgsn-gestarr-le-nouveau-systeme-de-gestion-des-arrondissements-de-poli",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "A DGSN principal police officer of the public-security directorate, speaking at the DGSN open days in Tangier (2 to 6 October 2019), says GESTARR computerises the work of the police arrondissements and manages the complaints citizens lodge there, as well as residence certificates and declarations of loss and of theft.", "as_of": "2019-10", "date_precision": "month", "system": "GESTARR", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "The DGSN officer says the information coming from the arrondissements is stored on a central DGSN server so that complaints and documents issued can be followed, with information shared between arrondissements across the Kingdom.", "as_of": "2019-10", "date_precision": "month", "system": "GESTARR", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "not-published", "fact": "Le360, reporting from the DGSN open days of October 2019, says GESTARR has been set up in almost all the Kingdom's arrondissements; it gives no number and no total.", "as_of": "2019-10", "date_precision": "month", "system": "GESTARR", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The system is presented by a DGSN officer at the DGSN's own open days as the force's system, held on a central DGSN server.", "as_of": "2019-10", "date_precision": "month", "system": "GESTARR", "class": "record"}
+  ],
+  "systems": [
+    {"system": "GESTARR", "country_label": "système de gestion des arrondissements de police (GESTARR)", "class": "record", "platform": "", "owner": "DGSN", "tiers": "Police arrondissements, almost all of them in October 2019; data held on a central DGSN server; direct link to the identity-data registration centres"}
+  ],
+  "note": ""
+}

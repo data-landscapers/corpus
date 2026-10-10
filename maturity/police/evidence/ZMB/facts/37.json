@@ -1,0 +1,13 @@
+{
+  "slug": "2021-12-15-zmb-eu-committed-to-fighting-sgbv-in-the-sadc-region",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "UNDP's Assistant Resident Representative, speaking in Lusaka on 29 November 2021, listed among milestones reached with the Zambia Police Service the rollout of the Electronic Occurrence Book 'for improved case management' to the Victim Support Unit, through donated ICT equipment and training of officers; the rollout itself is not dated.", "as_of": "2021-11-29", "date_precision": "day", "system": "Electronic Occurrence Book", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "not-published", "fact": "UNDP's statement of 29 November 2021 says the Electronic Occurrence Book was rolled out to the Victim Support Unit and gives no number of stations or units using it.", "as_of": "2021-11-29", "date_precision": "day", "system": "Electronic Occurrence Book", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:donor", "fact": "UNDP states on 29 November 2021 that the Electronic Occurrence Book was rolled out through donation of ICT equipment to the Victim Support Unit, work it describes as done jointly by UNDP, GIZ, the Zambia Police Service and the EU Delegation; no domestic funding is mentioned.", "as_of": "2021-11-29", "date_precision": "day", "system": "Electronic Occurrence Book", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Electronic Occurrence Book", "country_label": "Electronic Occurrence Book", "class": "record", "platform": "", "owner": "Zambia Police Service, with UNDP, GIZ and EU support", "tiers": "Victim Support Unit"},
+    {"system": "DNA laboratory", "country_label": "DNA lab", "class": "identification", "platform": "", "owner": "Zambia Police Service", "tiers": "police headquarters and Levy Mwanawasa Teaching Hospital, strengthened under the UN joint programme funded by Sweden and Ireland"}
+  ],
+  "note": "The statement does not say how the record is made or whether the Electronic Occurrence Book is used outside the Victim Support Unit. No station count."
+}

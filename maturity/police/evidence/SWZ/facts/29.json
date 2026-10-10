@@ -1,0 +1,36 @@
+{
+  "slug": "2025-08-20-swz-reps-attend-iecms-training",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "Independent News reports that Royal Eswatini Police Service officers, in the Ministry of Justice's IECMS training of trainers, were trained on entering new cases into the system and walked through all docket components; it does not say any station yet enters cases, and the day is 'yesterday' to a page dated 20 August 2025.",
+      "as_of": "2025-08",
+      "date_precision": "month",
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Independent News calls the IECMS training of trainers the Ministry of Justice's programme, with a Technical Working Group supporting the sessions and Synergy International Systems supporting implementation, in August 2025; the ministry is Justice, not the police's own.",
+      "as_of": "2025-08",
+      "date_precision": "month",
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "country_label": "IECMS",
+      "class": "record",
+      "platform": "Synergy International Systems supports implementation",
+      "owner": "Ministry of Justice",
+      "tiers": "police trainers being trained in August 2025 to enter new cases and docket components; no station, region or go-live named"
+    }
+  ],
+  "note": "The parent must weigh the class: earlier SWZ files class the IECMS as exchange, a court system linking the police. This document is the first to say police enter new cases and dockets in it, so it is classed record here, at training stage only. The event is fourteen months before October 2026, so no last12 fact is given."
+}

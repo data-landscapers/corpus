@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,record,governance,qualifier,,,,,nothing held
-NER,record,records,coverage,,,,,nothing held
-NER,record,made,coverage,,,,,nothing held
+NER,record,governance,qualifier,owner:ministry;finance:donor,2019-05-23,NER-006;NER-007,,nothing dated since 2023-09-28
+NER,record,records,coverage,C,2019-05-23,NER-004,,nothing dated since 2023-09-28
+NER,record,made,coverage,keyed-elsewhere,2019-05-23,NER-005,,nothing dated since 2023-09-28
 NER,record,last12,qualifier,,,,,nothing held
 NER,record,stations,coverage,,,,,nothing held

@@ -1,0 +1,9 @@
+{
+  "slug": "2021-08-01-caf-bangui-operationnaliser-la-direction-des-services-de-police-judiciaire",
+  "facts": [],
+  "systems": [
+    {"system": "Rehabilitated database room and lot of computer and office equipment", "country_label": "salle de base de données; équipements informatiques et bureautiques", "class": "enabling", "platform": "", "owner": "Direction des services de Police judiciaire (DSPJ); donated by MINUSCA's police component (UNPol), 16,000,000 CFA francs, handed over 12 August 2021", "tiers": "DSPJ headquarters, Bangui"},
+    {"system": "Database of the Direction des services de Police judiciaire", "country_label": "base de données", "class": "", "platform": "", "owner": "Direction des services de Police judiciaire (DSPJ)", "tiers": "DSPJ, Bangui"}
+  ],
+  "note": "No fact: the document reports a donated room and equipment (enabling) at the judicial police directorate in Bangui and names a database without saying what it holds or who enters it; the director asks for an archiving system and computer training, neither in place. Nothing on stations recording reports or cases."
+}

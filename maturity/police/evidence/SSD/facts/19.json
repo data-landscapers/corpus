@@ -1,0 +1,54 @@
+{
+  "slug": "2022-01-01-ssd-south-sudan",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "UNDP reports that 10,836 cases, 2,508 of them brought by female claimants, were recorded in 2021 through the new Case Monitoring Information Management System set up in Juba for the judiciary, the Ministry of Justice and Constitutional Affairs and the South Sudan National Police Service; it does not say how many were entered by the police or at which stations.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Case Monitoring Information Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "not-published",
+      "fact": "UNDP's report on 2021 places the unified case management system in Juba only, for the courts, the justice ministry and the South Sudan National Police Service, and gives no count of police stations using it.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Case Monitoring Information Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNDP states in its Global Programme for Rule of Law report on 2021 that it supported the setup in Juba of the unified case management system for the courts, the justice ministry and the South Sudan National Police Service; no domestic funding is mentioned.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Case Monitoring Information Management System",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Case Monitoring Information Management System",
+      "country_label": "unified case management system; Case Monitoring Information Management System",
+      "class": "record",
+      "platform": "",
+      "owner": "judiciary, Ministry of Justice and Constitutional Affairs and South Sudan National Police Service, set up with UNDP support",
+      "tiers": "Juba"
+    },
+    {
+      "system": "Case Monitoring Information Management System as the shared system of courts, justice ministry and police",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "as above",
+      "tiers": "Juba"
+    }
+  ],
+  "note": "Classed record because the document calls it a case management system in which cases are recorded and names the police as one of its three institutions; but it does not say the police station makes the entry, and 'brought by female claimants' reads as court cases. The parent should weigh whether this is a police record system or a courts' one with a police link (exchange)."
+}

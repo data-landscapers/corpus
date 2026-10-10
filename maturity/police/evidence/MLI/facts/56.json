@@ -1,0 +1,9 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {"system": "SIPAO (WAPIS)", "country_label": "SIPAO; Centre de recueil et d'enregistrement des données (DACORE)", "class": "identification", "platform": "SIPAO/WAPIS, an INTERPOL programme with ECOWAS, financed by the European Union (EUR 52 million cumulated since 2012)", "owner": "INTERPOL programme; national law enforcement services", "tiers": "Mali: all operational activity suspended until late 2022; the infrastructure to digitise police data is in place and the November 2022 steering committee allowed training to restart; no stations named"},
+    {"system": "AFIS", "country_label": "Système automatisé de reconnaissance d'empreintes digitales (AFIS)", "class": "identification", "platform": "", "owner": "INTERPOL and CIVIPOL project, financed by the European Union (EUR 5 million, 2022-2024)", "tiers": "Mali is among the countries to be prepared for an AFIS in a possible future action; none deployed"}
+  ],
+  "note": "No fact: the newsletter describes SIPAO as electronic criminal databases fed at a central data centre (DACORE) and never says stations enter reports or cases in it. For Mali it states only that, as of December 2022, operational activity had been suspended until recently, that the infrastructure for digitising police data exists, that the steering committee of 10 November 2022 opened the way to restarting training, and that Mali is listed for future AFIS preparation only; Mali is not among the 14 of 16 countries with an operational DACORE."
+}

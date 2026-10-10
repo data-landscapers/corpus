@@ -1,0 +1,36 @@
+{
+  "slug": "2023-08-24-eth-crims",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O;C",
+      "fact": "The Ministry of Justice says it is training federal investigating police and prosecutors in order to launch widely its criminal record management information system, which is to support the process from the crime report to sentencing; the first round lasts five days and about 100 investigators and prosecutors are to be trained in all; no event date is given, so the published date is used.",
+      "as_of": "2023-08-24",
+      "date_precision": "day",
+      "system": "Criminal record management information system (CRIMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Justice runs the CRIMS training and names greater use of technology as one of its goals for the year, its state minister for institution building and reform addressing the trainees; no finance is stated and the published date is used.",
+      "as_of": "2023-08-24",
+      "date_precision": "day",
+      "system": "Criminal record management information system (CRIMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Criminal record management information system (CRIMS)",
+      "country_label": "የወንጀል መዝገብ አስተዳደር የመረጃ ሥርዓት (CRIMS)",
+      "class": "record",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": "federal investigating police and prosecutors being trained ahead of a wide launch; no stations or places given"
+    }
+  ],
+  "note": "The document does not say the system is in use, how a record is entered or in which stations; it states training ahead of a launch only."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO (WAPIS)", "class": "", "platform": "SIPAO, implemented by INTERPOL", "owner": "INTERPOL programme, funded by the European Union with the ECOWAS Commission", "tiers": "nothing on Ghana's own sites; Ghana is named for a 2022 awareness event of more than 300 participants; across the region the system sits in a national data collection and registration centre in the capital, with extension to remote sites and border posts planned for 2023"},
+    {"system": "Automated fingerprint identification system (AFIS)", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "not stated; the WAPIS AFIS project is run by INTERPOL and CIVIPOL with European Union funds", "tiers": "Ghana holds an existing AFIS, which the project's steering committee of 21 July 2022 recommended strengthening in a second phase, with Niger, Nigeria and Senegal"},
+    {"system": "INTERPOL I-24/7", "country_label": "I-24/7", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "Ghana is one of five countries whose SIPAO users can query INTERPOL's global databases from their workstations, as at December 2022"}
+  ],
+  "note": "No fact: for Ghana the newsletter gives an awareness event, an existing fingerprint system to be strengthened and the link from SIPAO to I-24/7; it describes SIPAO as central data centres collecting police data and never says that stations in Ghana enter their cases in it, so the class is left empty."
+}

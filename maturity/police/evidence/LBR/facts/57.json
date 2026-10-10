@@ -1,0 +1,27 @@
+{
+  "slug": "2026-01-01-lbr-liberia-rural-security-at-risk-as-nyehn-town-police-station-falls-apar",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "FrontPageAfrica reports that Nyehn Town Police Station, the only police facility serving Todee District in Lower Montserrado County, has no computers, by an officer posted there, and that officers move files and documents out of the rain under a roof leaking for more than 15 years; the page carries no date, so the document's published date, padded to 2026-01-01, is used.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "Nyehn Town Police Station paper files",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "An officer at Nyehn Town Police Station, Todee District, told FrontPageAfrica the station has no computers and sometimes no basic stationery, so no record is made digitally there; the page carries no date, so the document's published date, padded to 2026-01-01, is used.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "Nyehn Town Police Station paper files",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "One rural station only; the document names no information system and gives no national figure. Its date is not established beyond the year: the frontmatter says the captured page carries no date and 2026-01-01 is padded."
+}

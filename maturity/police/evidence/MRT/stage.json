@@ -1,0 +1,19 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "records": "O",
+      "made": "connected",
+      "last12": "",
+      "stations": "count:34",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-003;MRT-004;MRT-005",
+      "gaps": "No fact shows the system live in a station outside Nouakchott: the launch of 19 June 2025 names the Nouakchott wilayas and their commissariats, and the 34 centres linked (27 police, 7 gendarmerie) are given with no place and no total of stations. No plan or finance is stated, and no evidence row is dated inside the twelve months; systems.csv holds a report of 18 December 2025 that 62 sub-stations were connected and the system not yet activated, which no evidence row carries.",
+      "note": "Rung 2 because the system was launched on a dated act inside 36 months and is shown working only in the capital. Rung 3 needs it live in some stations outside the capital, which no fact says."
+    }
+  ]
+}

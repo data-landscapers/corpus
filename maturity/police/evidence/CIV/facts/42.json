@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-01-civ-sipao-lettre-d-information-numero-27-mai-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "", "platform": "SIPAO, a police data management platform co-developed by INTERPOL with the region's countries, financed by the European Union", "owner": "national authorities; implemented by INTERPOL until May 2025, formally transferred to national and regional authorities at Abuja on 8 April 2025", "tiers": "for Côte d'Ivoire: the national centre (CTIP) in Abidjan; remote sites are counted for the region only (14 countries have connected remote sites), with no figure for Côte d'Ivoire"},
+    {"system": "Centre de traitement des informations policières (CTIP)", "country_label": "CTIP, the DACORE of Côte d'Ivoire", "class": "", "platform": "SIPAO", "owner": "directed by Commissaire principal Doumbia", "tiers": "central, Abidjan; visited by INTERPOL's Secretary General on 18-19 February 2025"},
+    {"system": "I-24/7", "country_label": "I-24/7", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "consulted from any SIPAO workstation; Côte d'Ivoire is one of four countries that have begun to feed INTERPOL's databases; 33,000 consultations of INTERPOL databases through SIPAO during the CAN 2023 in Côte d'Ivoire"}
+  ],
+  "note": "INTERPOL's closing newsletter describes SIPAO regionally as a platform that digitises and exploits the information in police reports, and gives regional counts only (729,000 records by early 2025; 14 countries with remote sites; 15 with a national budget line, 5 of them funded) without naming Côte d'Ivoire in them; nothing says Ivorian stations enter reports or cases in it, so it is not classed as record and gives no fact."
+}

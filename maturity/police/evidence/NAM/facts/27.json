@@ -1,0 +1,27 @@
+{
+  "slug": "2022-01-01-nam-investigating-the-enhancement-of-traffic-offence-records-management-th",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "A 2022 University of Namibia honours study of police stations in the Omusati region (8 officers interviewed of 15 sampled, from a population of 65) found that officers record by hand, first in the station crime register and then in paper files kept in cabinets or boxes, and concluded that no digital record system is in place there; its subject is traffic offence records, though its questions were put about crime records generally.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "station crime register (manual)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The 2022 Omusati study states that its assumption that the police had embarked on digital crime records proved incorrect and that no digital record system is in place; one officer said that at present most stations have no reliable electricity and no computers, and officers at rural police posts said electricity could be many years away.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "station crime register (manual)",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "A student study of one region, not a national measure, and its own counts disagree (two stations with traffic units out of 7 in the region; elsewhere 15 stations). One of the eight participants said records made by hand at the scene are digitised on return to the office, which the study's conclusion does not take up. The study names no digital system; the e-Government Strategic Action Plan 2014-2018 is cited only as background. The register described is the traffic crime register, a single-function record, so the parent may prefer to read both facts as bearing on traffic records only."
+}

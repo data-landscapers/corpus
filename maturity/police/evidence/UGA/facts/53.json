@@ -1,0 +1,47 @@
+{
+  "slug": "2024-05-01-uga-the-jlos-bulletin-special-edition-on-e-justice-a-digital-justice-ecosy",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "A senior officer of the Uganda Police Force's ICT directorate writes that the force resolved in October 2022 to embark on the Electronic Policing Information System project, and the head of the legal department of its Criminal Investigations Directorate writes that the Inspector General and all heads of directorates have endorsed the project, which seeks to automate case management processes across the force.",
+      "as_of": "2022-10",
+      "date_precision": "month",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "The bulletin's two police articles describe ePIS throughout as a project that 'seeks to' automate case management across the force and 'will' share data with prosecutors, courts and prisons; neither says it is in use at any station, and the editorial lists lack of internet connectivity at upcountry police stations among the obstacles; dated by the bulletin's imprint, May 2024.",
+      "as_of": "2024-05",
+      "date_precision": "month",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The bulletin names no budget line or funder for ePIS; the police ICT officer writes only that continued investment in technology is crucial to electronic policing; dated by the bulletin's imprint, May 2024.",
+      "as_of": "2024-05",
+      "date_precision": "month",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "Electronic Policing Information System (ePIS)", "country_label": "ePIS Project", "class": "record", "platform": "", "owner": "Uganda Police Force", "tiers": "project begun October 2022; not said to be in use anywhere"},
+    {"system": "UPF Mobi", "country_label": "UPF Mobi App", "class": "public", "platform": "mobile app", "owner": "Uganda Police Force", "tiers": "public; reports of crime and missing persons, traffic tickets and fines; over 100,000 downloads"},
+    {"system": "CCTV cameras", "country_label": "CCTV cameras", "class": "surveillance", "platform": "", "owner": "Uganda Police Force", "tiers": "in and around Kampala"},
+    {"system": "Prosecution Case Management Information System (PROCAMIS)", "country_label": "PROCAMIS", "class": "exchange", "platform": "built by Graphic Systems (U), Integrated Software Specialists and Eastern Software Systems", "owner": "Office of the Director of Public Prosecutions", "tiers": "36 ODPP office sites by December 2023; set up to take case details from law enforcement electronically"},
+    {"system": "Electronic Court Case Management Information System (ECCMIS)", "country_label": "ECCMIS", "class": "exchange", "platform": "", "owner": "Judiciary", "tiers": "about ten courts in a pilot phase; movement of data from law enforcement to courts an expected benefit"},
+    {"system": "Prisoners Management Information System (PMIS)", "country_label": "PMIS", "class": "exchange", "platform": "", "owner": "Uganda Prisons Service", "tiers": "three pilot prisons at Luzira; biometrics module to be integrated with the police"},
+    {"system": "SEMA citizen feedback system", "country_label": "SEMA feedback mechanisms", "class": "", "platform": "USSD codes, QR codes, online surveys and feedback devices", "owner": "SEMA with the JLOS Secretariat", "tiers": "Kampala divisional police stations in a 2018 pilot; 40 JLOS service points, police stations among them, from 2021"},
+    {"system": "e-Immigration System", "country_label": "e-Visa and Permit system / Border Management System", "class": "border", "platform": "", "owner": "Directorate of Citizenship and Immigration Control, Ministry of Internal Affairs", "tiers": "Entebbe airport and 10 other points of entry; about 80% of entry points still manual"},
+    {"system": "National Security Information System (NSIS)", "country_label": "NSIS", "class": "", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "national identification register; no police link stated in this document"}
+  ],
+  "note": ""
+}

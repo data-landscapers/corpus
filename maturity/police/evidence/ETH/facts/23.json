@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-18-eth-moj-ethiopian-ai-institute-crims-project-discussion",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CRIMS (integrated criminal administration system)",
+      "country_label": "የተቀናጀ የወንጀል አስተዳደር ሥርዓት (CRIMS)",
+      "class": "",
+      "platform": "project presented by the Ethiopian Artificial Intelligence Institute",
+      "owner": "Ministry of Justice",
+      "tiers": "a project under discussion on 18 July 2024; the only users named are prosecutors, whose information it is to hold; no police unit or place given"
+    }
+  ],
+  "note": "No fact: the document does not say that police enter reports or cases in CRIMS, only that it is to hold prosecutors' information, so the system is unclassified here. It does state that the Ministry of Justice made the integrated criminal administration system a pillar of its three-year justice sector transformation roadmap, and that the AI Institute's experts presented the gaps of an earlier project attempted at the ministry, the remedies, the project's duration and the budget needed, with no figure given."
+}

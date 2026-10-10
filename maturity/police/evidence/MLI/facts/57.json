@@ -1,0 +1,8 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [],
+  "systems": [
+    {"system": "SIPAO (WAPIS)", "country_label": "SIPAO; Centre national de documentation criminelle (CNDC), Mali's DACORE", "class": "identification", "platform": "SIPAO/WAPIS, an INTERPOL programme financed by the European Union", "owner": "CNDC; programme run by INTERPOL", "tiers": "DACORE in Bamako, where officers feed the database daily; stand-alone remote posts not yet interconnected, the interconnection under way in June 2019"}
+  ],
+  "note": "No fact: the newsletter (French edition of WAPIS Newsletter No. 12) describes the national SIPAO databases as files of wanted persons, stolen vehicles and stolen travel documents and says SIPAO solves the problem of police data held on paper, but never says Mali's stations enter reports or cases in it. For Mali it reports the information session of 26 to 28 June 2019 in Bamako, implementation since 2012, a signed memorandum with INTERPOL, daily feeding of the database at the CNDC, and autonomous remote posts awaiting interconnection; it does not say what those posts are."
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GHA,record,governance,qualifier,,,,,nothing held
-GHA,record,records,coverage,,,,,nothing held
-GHA,record,made,coverage,,,,,nothing held
+GHA,record,governance,qualifier,owner:ministry;finance:donor,2022-05-23,GHA-004;GHA-013,GHA-014=finance:donor;GHA-016=owner:ministry;GHA-017=finance:donor;GHA-003=owner:ministry;GHA-007=owner:ministry;GHA-008=finance:donor,nothing dated since 2023-09-28
+GHA,record,records,coverage,C,2022,GHA-010,GHA-005=C,nothing dated since 2023-09-28
+GHA,record,made,coverage,connected,2022,GHA-006;GHA-011,,nothing dated since 2023-09-28
 GHA,record,last12,qualifier,,,,,nothing held
-GHA,record,stations,coverage,,,,,nothing held
+GHA,record,stations,coverage,count:55,2022,GHA-009,GHA-012=pilot;GHA-015=pilot,nothing dated since 2023-09-28

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-01-ben-atelier-et-reunion-strategiques-sur-le-programme-sipao",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information Policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "", "platform": "", "owner": "INTERPOL programme backed by the European Union and ECOWAS; Benin's delegation came from the Ministry of Justice and Legislation (SIPAO focal point, DACORE director)", "tiers": "not stated; the meetings of 1-3 April 2025 in Abidjan planned a move to autonomous national management two months before the EDF component closes"},
+    {"system": "plateforme régionale d'échange de données (SIPAO)", "country_label": "", "class": "exchange", "platform": "", "owner": "", "tiers": "regional; post-closure actions planned at the 11th steering committee, 2 April 2025"},
+    {"system": "AFIS", "country_label": "volet biométrique AFIS du SIPAO", "class": "identification", "platform": "Thales", "owner": "deployed in partnership with Thales and INTERPOL", "tiers": "Benin a pilot country with Gambia and Togo; deployment reported as successful at 3 April 2025; initiative launched in 2022"}
+  ],
+  "note": "No fact: the justice ministry reports three days of SIPAO and AFIS meetings and names SIPAO without saying what it does or that stations enter reports or cases in it; AFIS is a fingerprint system, a noted class."
+}

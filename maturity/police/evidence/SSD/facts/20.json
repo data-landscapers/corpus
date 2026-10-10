@@ -1,0 +1,23 @@
+{
+  "slug": "2021-08-26-ssd-crime-reporting-on-speed-dial-responsiveness-of-wau-police-emergency-c",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Emergency Call Centre (ECC), Wau",
+      "country_label": "Emergency Call Centre; toll-free 777 or 112",
+      "class": "public",
+      "platform": "toll-free short codes with response operators and patrol vehicles; calls logged by hand in call registers, with reports and computerised templates",
+      "owner": "South Sudan National Police Service, supported by UNDP's Access to Justice, Security and Human Rights Strengthening programme with funding from Japan and the Netherlands",
+      "tiers": "Wau municipality, inaugurated February 2019"
+    },
+    {
+      "system": "Emergency Call Centre (ECC), Juba",
+      "country_label": "Emergency Call Centre",
+      "class": "public",
+      "platform": "",
+      "owner": "South Sudan National Police Service, supported by UNDP",
+      "tiers": "Juba, the pilot, operational since 2014"
+    }
+  ],
+  "note": "UNDP article on the Wau police emergency call centre: a number through which the public reports crimes and emergencies, with dispatch (public; it also has the dispatch function of the surveillance class). It states that all calls received at the Wau centre are recorded manually by operators in call registers, and gives reported crimes in Wau of 2,641 in 2018, 2,082 in 2019 and 603 in 2020. Nothing on police stations recording reports or cases, so no record fact."
+}

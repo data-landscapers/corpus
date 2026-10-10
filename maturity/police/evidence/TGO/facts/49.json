@@ -1,0 +1,23 @@
+{
+  "slug": "2022-08-01-sen-wapis-newsletter-number-20-august-2022",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System (WAPIS)",
+      "country_label": "WAPIS, managed by the Togo Police Information Centre (CIPT)",
+      "class": "",
+      "platform": "WAPIS, implemented by INTERPOL with European Union funding",
+      "owner": "Government of Togo: the CIPT, beside the Ministry of Security and Civil Defence, inaugurated by its minister on 29 April 2022",
+      "tiers": "national police data collection and registration centre in Lomé, the ninth put into operation under the programme; said to involve the law enforcement agencies in collecting, storing and sharing criminal data and to serve front-line agents in investigations and at border crossings, in the future tense; no station or unit named; extension beyond the centres is the programme's next phase"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24/7",
+      "class": "exchange",
+      "platform": "INTERPOL I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "the channel through which the CIPT is to share criminal data at global level"
+    }
+  ],
+  "note": "No fact: Togo has one article, on the CIPT's inauguration on 29 April 2022, describing the centre as managing WAPIS at national level; it does not say what is entered or that a station enters reports or cases, so the system has no class. The description of WAPIS as giving an accused person's criminal record, wanted persons and crime statistics is the Senegalese centre head's and is about Senegal."
+}

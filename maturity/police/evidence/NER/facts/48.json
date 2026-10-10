@@ -1,0 +1,64 @@
+{
+  "slug": "2019-05-23-ner-wapis-sipao-un-fichier-de-police-pour-le-niger",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "EUCAP Sahel Niger reports that the SIPAO database holds offences, criminals' identities and criminal proceedings, that the team recording criminal acts had entered more than 8,000 cases and that 700 new cases were recorded in the month; the article gives no date for the month, so the date is its publication.",
+      "as_of": "2019-05-23",
+      "date_precision": "day",
+      "system": "Système d'Information Policière en Afrique de l'Ouest (SIPAO)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "keyed-elsewhere",
+      "fact": "EUCAP Sahel Niger reports that cases are entered in SIPAO by a team of 8 under the director of the Police Technique et Scientifique in Niamey, who is responsible for recording criminal acts in Niger, while operators are being trained to record data directly from their own service; it does not say from what the team keys, and the date is the article's publication.",
+      "as_of": "2019-05-23",
+      "date_precision": "day",
+      "system": "Système d'Information Policière en Afrique de l'Ouest (SIPAO)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "EUCAP Sahel Niger states that SIPAO, launched in Niger in 2012, is financed by the European Union under the Emergency Trust Fund for Africa and implemented by INTERPOL with EUCAP Sahel Niger, and that it succeeded despite weak budgetary means; the date is the article's publication.",
+      "as_of": "2019-05-23",
+      "date_precision": "day",
+      "system": "Système d'Information Policière en Afrique de l'Ouest (SIPAO)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "EUCAP Sahel Niger reports that the database is worked by a team of the national police's Direction de la Police Technique et Scientifique in Niamey, whose director is responsible for recording criminal acts in Niger; the date is the article's publication.",
+      "as_of": "2019-05-23",
+      "date_precision": "day",
+      "system": "Système d'Information Policière en Afrique de l'Ouest (SIPAO)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Système d'Information Policière en Afrique de l'Ouest (SIPAO)",
+      "country_label": "SIPAO; fichier SIPAO",
+      "class": "record",
+      "platform": "SIPAO / WAPIS",
+      "owner": "Direction de la Police Technique et Scientifique, Police nationale (operates); funded by the European Union under the Emergency Trust Fund for Africa, implemented by INTERPOL with EUCAP Sahel Niger",
+      "tiers": "A team of 8 in a building in Niamey; law enforcement officers, including the internal security forces, can record, collect and search police data; operators are being trained to record directly from their service; no station, brigade or region is named"
+    },
+    {
+      "system": "INTERPOL network",
+      "country_label": "réseau international INTERPOL",
+      "class": "exchange",
+      "platform": "",
+      "owner": "INTERPOL",
+      "tiers": "Planned: the database to be connected to INTERPOL's network and shared with the databases of other ECOWAS countries, Chad and Mauritania"
+    }
+  ],
+  "note": "Classed record on what the article says the system does: a headquarters team keys each new case as routine (700 in a month, over 8,000 held). It does not say that stations or brigades enter cases, nor that the team keys from stations' paper forms, so keyed-elsewhere is the nearest value and the parent should test it against the typology; no stations fact is given because the article gives no count of entering units."
+}

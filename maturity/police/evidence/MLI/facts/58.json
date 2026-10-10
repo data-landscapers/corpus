@@ -1,0 +1,8 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {"system": "WAPIS (SIPAO)", "country_label": "WAPIS; Data Collection and Registration Centre (DACORE)", "class": "identification", "platform": "WAPIS/SIPAO, an INTERPOL programme financed by the European Union", "owner": "DACORE team; programme run by INTERPOL", "tiers": "DACORE in Bamako, where officers enter information in the database daily; existing stand-alone remote outposts, their interconnection in progress in June 2019"}
+  ],
+  "note": "No fact: the English edition of the same issue as document 57. It describes the national WAPIS databases as holding wanted persons, stolen vehicles and stolen travel documents and never says Mali's stations enter reports or cases in the system. For Mali it reports the awareness session of 26 to 28 June 2019 in Bamako, implementation stages since 2012, a signed memorandum with INTERPOL, daily data entry at the DACORE and remote outposts not yet interconnected."
+}

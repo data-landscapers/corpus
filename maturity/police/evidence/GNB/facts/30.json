@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-tcd-lettre-d-information-sipao-numero-24",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système Intégré d'Information Criminelle (SIIC-SIPAO)",
+      "country_label": "SIIC",
+      "class": "exchange",
+      "platform": "SIPAO (WAPIS)",
+      "owner": "a director of the SIIC, named as presenting Guinea-Bissau's DACORE; under INTERPOL's SIPAO programme, financed by the European Union",
+      "tiers": "the national data collection and registration centre (DACORE); its director calls it a national platform for real-time intercommunication of criminal information, says data entered have supported proceedings by the anti-drug unit and the brigade for crimes against women and children of the Polícia Judiciária's national directorate, and names extension to all law-enforcement institutions as the main challenge still ahead"
+    }
+  ],
+  "note": "INTERPOL's SIPAO newsletter of January 2024 carries an interview with the SIIC's director: the system is described as a platform for sharing criminal information, with data entered at the centre and used by two Polícia Judiciária units; extension to other institutions is still to come, and nothing says stations enter reports or cases in it, so no fact. The programme-wide figures (550,000 cases, 12 countries extended beyond the DACORE, 10 connected to I-24/7) name no country."
+}

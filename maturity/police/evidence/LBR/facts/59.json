@@ -1,0 +1,23 @@
+{
+  "slug": "2025-05-01-lbr-undp-liberia-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Crime Statistics Information Management System",
+      "country_label": "Crime Statistics Information Management System; also called the police's online case management system and the crime statistics database",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Liberia National Police, with technical and financial support from UNDP's Joint Rule of Law programme",
+      "tiers": "Stated as established and rolled out nationwide in 2024, collecting crime statistics digitally around the country; no count of stations or counties given"
+    },
+    {
+      "system": "Judicial Case Management System",
+      "country_label": "online Judicial Case Management System",
+      "class": "",
+      "platform": "",
+      "owner": "Judiciary of Liberia, with UNDP support",
+      "tiers": "Montserrado County courts: court clerks file cases digitally; a court system, not a police one, and outside the typology's classes"
+    }
+  ],
+  "note": "No fact: the one passage on the police (page 25) says its online case management system moved the force from manually collecting and tabulating crime statistics to collecting them digitally, and that the Crime Statistics Information Management System is rolled out nationwide, making crime statistics reports timely. That describes statistics, not a station's record of a report or case. The rest of the report is on other sectors."
+}

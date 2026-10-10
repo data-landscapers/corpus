@@ -1,0 +1,31 @@
+{
+  "slug": "2024-12-01-ben-lettre-dinformation-sipao-numero-25-26-decembre-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIPAO (WAPIS)",
+      "country_label": "DACORE (Gambia's data collection and registration centre)",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "Gambia Police Force DACORE, under the INTERPOL programme funded by the European Union",
+      "tiers": "A national DACORE whose director joined the Belgium study visit of 24 September to 3 October 2024; no station use is stated for The Gambia"
+    },
+    {
+      "system": "AFIS",
+      "country_label": "",
+      "class": "identification",
+      "platform": "Thales, supplied under INTERPOL supervision",
+      "owner": "INTERPOL AFIS project within the WAPIS programme",
+      "tiers": "The Gambia is one of three pilot countries; launch events April to May 2024, active deployment from October 2024, to be operational by the end of 2024"
+    },
+    {
+      "system": "Police call centre (proposed)",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Proposed within the DACORE with the Gambia Police Force operations unit",
+      "tiers": "A proposal the DACORE director said he would put forward; centralised, not yet in being"
+    }
+  ],
+  "note": "For The Gambia the newsletter states only the AFIS pilot, the DACORE director's attendance at the study visit and his proposal for a central call centre; it does not say that Gambian stations enter reports or cases in WAPIS, so no fact of class record."
+}

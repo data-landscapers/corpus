@@ -1,0 +1,23 @@
+{
+  "slug": "2021-10-14-gmb-ecowas-strengthens-its-security-architecture-with-the-inauguration-of",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System (WAPIS)",
+      "country_label": "WAPIS Data Collection and Registration Centre (DACORE)",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "Government of The Gambia through the Ministry of Interior and the Gambia Police Force; INTERPOL programme funded by the European Union under ECOWAS; memorandum of understanding with INTERPOL signed 19 January 2019",
+      "tiers": "Centre inaugurated 14 October 2021 at the Joint Operation Center in Banjul, the eighth operational in West Africa; 40 workstations installed in the capital area at Police, Immigration and Drug Law Enforcement Agency premises; 72 people trained in six sessions; INTERPOL said it would add workstations in the centre and across the network of police stations"
+    },
+    {
+      "system": "I-24/7",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "INTERPOL I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "A connection for WAPIS users in The Gambia was envisaged, not yet made"
+    }
+  ],
+  "note": "The release describes WAPIS as a centralised national system for collecting, storing and sharing criminal data among agencies and counts workstations in the capital area; it does not say that stations enter reports or cases in it, so the system is unclassified and gives no fact. The EU ambassador asked for a budget heading for the centre by the start of 2022, a request and not a line."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {"system": "WAPIS", "country_label": "WAPIS", "class": "identification", "platform": "WAPIS", "owner": "INTERPOL programme with the national authorities; financed by the European Union", "tiers": "not yet installed in August 2019: memorandum of understanding signed, first batch of equipment received, legal framework almost finalised, premises allocated for the data collection and registration centre (DACORE)"}
+  ],
+  "note": "English edition of the same issue as document 53. For Mauritania it states only the preparation of the WAPIS data centre as of August 2019, and describes the system as national databases of wanted persons, stolen vehicles and documents; it does not say that stations enter their cases in it, so there is no fact."
+}

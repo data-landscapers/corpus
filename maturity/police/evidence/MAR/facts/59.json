@@ -1,0 +1,17 @@
+{
+  "slug": "2025-12-17-mar-la-dgsn-mise-sur-le-numerique-pour-rapprocher-ses-services-des-citoyen",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "The DGSN's 2025 annual review, as La Vie éco reports it, says the Qadaya computer system networks the police services so that cases of misdemeanours and crimes are handled quickly and in real time.", "as_of": "2025", "date_precision": "year", "system": "Qadaya", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "not-published", "fact": "The DGSN's 2025 review says the generalisation of Qadaya continued in 2025 to cover 16 of the 22 police commands (commandements de sûreté) nationally, with national generalisation in view; it gives no count of arrondissements or stations.", "as_of": "2025", "date_precision": "year", "system": "Qadaya", "class": "record"},
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "The DGSN's 2025 review says Qadaya's rollout continued during 2025 and reached 16 of 22 police commands, towards national coverage.", "as_of": "2025", "date_precision": "year", "system": "Qadaya", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The DGSN's 2025 review presents Qadaya as a system the DGSN itself is generalising across its commands, within services its own technical and engineering teams develop.", "as_of": "2025", "date_precision": "year", "system": "Qadaya", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Qadaya", "country_label": "Qadaya", "class": "record", "platform": "", "owner": "DGSN", "tiers": "16 of 22 police commands (commandements de sûreté) in 2025; national generalisation planned"},
+    {"system": "Traffic-accident report digitisation system", "country_label": "système informatique de numérisation des procès-verbaux d'accidents de la circulation", "class": "single-function", "platform": "", "owner": "DGSN", "tiers": "All police commands; generalisation completed in 2025"},
+    {"system": "e-Police", "country_label": "e-Police", "class": "public", "platform": "", "owner": "DGSN", "tiers": "Online, national; 34,014 remote criminal-record requests processed in 2025; extension to Moroccans abroad in preparation"},
+    {"system": "CNIE.MA", "country_label": "CNIE.MA", "class": "public", "platform": "", "owner": "DGSN", "tiers": "Online portal for identity-card pre-application; e-payment of stamp duty under test in 2025"},
+    {"system": "Electronic identity-data enrolment programme", "country_label": "programme d'enregistrement électronique des données d'identité", "class": "", "platform": "", "owner": "DGSN", "tiers": "71 identity-document centres in consulates and embassies abroad; 80 mobile units in mountainous and remote areas"}
+  ],
+  "note": ""
+}

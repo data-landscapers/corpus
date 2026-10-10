@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-07-sle-interpol-wapis-afis-team-engages-sierra-leone-police-eu-delegation-to",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS/AFIS Programme",
+      "country_label": "WAPIS/AFIS",
+      "class": "identification",
+      "platform": "Automated Fingerprint Identification System integrated into the national police information system (WAPIS)",
+      "owner": "INTERPOL, with European Union support; Sierra Leone Police as the national counterpart",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "News report of an INTERPOL technical team's visit to the Sierra Leone Police and the EU Delegation 'last week' (published 7 August 2026, a proxy date) on integrating fingerprint identification into the police information system. It describes biometric identification and data sharing only, gives no rollout, count or date of deployment, and says nothing on stations recording reports or cases."
+}

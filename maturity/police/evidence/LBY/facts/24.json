@@ -1,0 +1,23 @@
+{
+  "slug": "2023-02-04-lby-interior-ministry-criminal-record-certificate-system-eastern-region",
+  "facts": [],
+  "systems": [
+    {
+      "system": "نظام إصدار الحالة الجنائية والخدمات المصاحبة له (criminal status certificate issuing system and its accompanying services)",
+      "country_label": "نظام إصدار الحالة الجنائية",
+      "class": "identification",
+      "platform": "",
+      "owner": "Information and Documentation Centre of the Ministry of Interior (Government of National Unity), with the Criminal Investigation Agency",
+      "tiers": "Being installed at 4 February 2023 at the Criminal Investigation Agency's Jabal al Akhdar branch in Al Bayda, for the eastern region; earlier activated in Benghazi, Sabha, Misrata, Tripoli, Zintan, Gharyan, Janzour and Zuwara"
+    },
+    {
+      "system": "es.moi.gov.ly criminal status request form",
+      "country_label": "",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministry of Interior, Information and Documentation Centre",
+      "tiers": "online link through which residents of Al Bayda and nearby areas can request the certificate"
+    }
+  ],
+  "note": "No fact: the system issues criminal status certificates at Criminal Investigation Agency branches, with an online request form, which are the identification and public classes; nothing concerns a station's record of a report or case. The ministry calls the installation a stage of its digital transformation plan, run through the Information and Documentation Centre."
+}

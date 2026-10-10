@@ -1,0 +1,60 @@
+{
+  "slug": "2024-07-01-lso-ombudsman-s-report-on-the-inspection-of-police-cells-nationwide-2023",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Ombudsman's inspection of 40 Lesotho Mounted Police Service stations and posts, begun in July 2023, found posts without stationery keeping their registers and forms by hand: at Dili-Dili officers produced registers such as the LMPS1 themselves, at Ramats'eliso they drew forms on A4 paper or in an exercise book, and at Sekake and Mphaki a local businessman or the business community supplied exercise books on request; Qholaqhoe also had no stationery.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "station registers and forms on paper (LMPS1 named)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Ombudsman's 2023 inspection reports that Butha-Buthe police station had no computers for its work and filing system, and recommends that Berea police station and all its units be given computers within twelve months and that Liphiring post be given one computer and a printer within a year; the inspection began in July 2023.",
+      "as_of": "2023-07",
+      "date_precision": "month",
+      "system": "station filing system on paper",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "station registers and forms (LMPS1)",
+      "country_label": "LMPS1 and other registers",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Lesotho Mounted Police Service",
+      "tiers": "police posts; hand-made for lack of stationery at Dili-Dili, Ramats'eliso, Sekake and Mphaki. The report does not say what the LMPS1 register records"
+    },
+    {
+      "system": "prisoner's property register",
+      "country_label": "prisoner's property register",
+      "class": "single-function",
+      "platform": "paper",
+      "owner": "Lesotho Mounted Police Service",
+      "tiers": "all stations in principle; the printed register was no longer supplied for want of budget, and most stations used any other book or form or kept property unregistered"
+    },
+    {
+      "system": "office computers",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Lesotho Mounted Police Service",
+      "tiers": "Mohale's Hoek police station: computers recently procured and working, in the new building and in the units in the old one; none at Butha-Buthe; asked for at Berea and Liphiring. What the computers are used for is not stated"
+    },
+    {
+      "system": "Interpol 'Mind and Find'",
+      "country_label": "Mind and Find",
+      "class": "border",
+      "platform": "INTERPOL",
+      "owner": "INTERPOL",
+      "tiers": "absent: Maputsoe police post, on the South African border, was reported as meant to have it and did not"
+    }
+  ],
+  "note": "Read as passages only (15,093 of 30,061 words); the general section on communication (12.0) is among the parts not held, though its recommendations are. The report inspects cells and conditions, not record keeping: it names no digital system for reports or cases anywhere, and its statements on registers are incidental and by post, not a national statement that stations record on paper. It also says a 'huge number' of stations had no electricity, and recommends CCTV, which no station is said to have."
+}

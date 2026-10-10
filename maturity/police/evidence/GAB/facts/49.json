@@ -1,0 +1,46 @@
+{
+  "slug": "2026-01-01-gab-procedures-judiciaires-lentes-la-solution-bema-pour-braver-les-obstacl",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:vendor",
+      "fact": "BEMA, an integrated judicial management system, was developed by the company JBSOFT Gabon with magistrates and court auxiliaries and presented by its designer, Jonas Beyeni, at a seminar in Libreville on 10 January 2026; the document states no adoption by the police, the gendarmerie or a ministry.",
+      "as_of": "2026-01-10",
+      "date_precision": "day",
+      "system": "BEMA",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "As its designer describes it, BEMA is built so that the judicial police officer enters the procedure and the software generates the procès-verbal, in a single file per person from arrest to release, passed digitally to the court and the prison; this is the design as presented on 10 January 2026, and the document states no station using it.",
+      "as_of": "2026-01-10",
+      "date_precision": "day",
+      "system": "BEMA",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "BEMA was officially presented on 10 January 2026 at a seminar in Libreville of magistrates and court auxiliaries; the designer says that police, court and prison currently work in isolation, with information re-entered at each; no deployment or adoption decision is stated.",
+      "as_of": "2026-01-10",
+      "date_precision": "day",
+      "system": "BEMA",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "BEMA",
+      "country_label": "BEMA, système de gestion judiciaire intégré",
+      "class": "record",
+      "platform": "ERP by JBSOFT Gabon, designed to run on ANINF's secured network",
+      "owner": "JBSOFT Gabon (vendor)",
+      "tiers": "none stated; presented at a seminar, designed for police, courts and prisons"
+    }
+  ],
+  "note": "The year of '10 janvier dernier' is read from the document's published date (2026-01). BEMA is also designed as an exchange link from police to court and prison; presented only, not stated as in use."
+}

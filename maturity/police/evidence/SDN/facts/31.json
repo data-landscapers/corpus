@@ -1,0 +1,8 @@
+{
+  "slug": "2023-10-23-sdn-sudan-police-electronic-reporting-system-explained",
+  "facts": [],
+  "systems": [
+    {"system": "Sudanese Police electronic report system", "country_label": "نظام البلاغ الإلكتروني للشرطة السودانية (sudanpolice.net)", "class": "public", "platform": "Web platform at sudanpolice.net, by CDS Co. Ltd", "owner": "Ministry of Interior / Sudan Police Forces headquarters, through CDS Co. Ltd", "tiers": "Online, for citizens: reports of missing persons, sexual violence, theft and vehicle theft; the system issues a report number and the citizen can query the report's status and the action taken by report number and phone number"}
+  ],
+  "note": "No fact: a Ministry of Interior and CDS Co. Ltd user guide to the online platform through which citizens file reports, a noted class; it does not mention police stations or how a station records a report."
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,record,governance,qualifier,owner:ministry,2026-08-28,KEN-024,KEN-003=owner:ministry;KEN-007=owner:ministry;KEN-011=owner:ministry;KEN-017=owner:ministry;KEN-020=owner:ministry;KEN-022=owner:ministry,"not stated: plan, finance"
-KEN,record,records,coverage,O;C,2026-08-28,KEN-001;KEN-005;KEN-009;KEN-016;KEN-019;KEN-021;KEN-023;KEN-026,,
-KEN,record,made,coverage,,,,,nothing held
+KEN,record,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-08-28,KEN-024;KEN-028;KEN-029,KEN-003=owner:ministry;KEN-007=owner:ministry;KEN-011=owner:ministry;KEN-017=owner:ministry;KEN-020=owner:ministry;KEN-027=owner:ministry;KEN-022=owner:ministry;KEN-037=owner:ministry;KEN-033=owner:ministry;KEN-043=owner:ministry;KEN-048=owner:ministry,
+KEN,record,records,coverage,O;C,2026-08-28,KEN-001;KEN-005;KEN-009;KEN-016;KEN-019;KEN-021;KEN-023;KEN-026;KEN-030,KEN-035=O;KEN-040=O;KEN-045=O;KEN-031=O,
+KEN,record,made,coverage,connected,2023-06-30,KEN-032;KEN-036;KEN-041;KEN-046,KEN-039=paper;KEN-047=paper,nothing dated since 2023-09-28
 KEN,record,last12,qualifier,advancing,2026-08-28,KEN-004;KEN-008;KEN-012;KEN-018;KEN-025,,
-KEN,record,stations,coverage,none,2026-05-13,KEN-002;KEN-006;KEN-010,,
+KEN,record,stations,coverage,equipped:42%,2022-12,KEN-038,KEN-002=none;KEN-006=none;KEN-010=none;KEN-034=count:76;KEN-042=not-published;KEN-044=pilot,

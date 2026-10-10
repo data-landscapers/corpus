@@ -1,0 +1,26 @@
+{
+  "slug": "2024-08-01-gnb-uma-aplicacao-para-registro-de-ocorrencias-criminais-o-caso-da-guine-b",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The author of an undergraduate final project at IFBA (Brazil), dated August 2024, states that Guinea-Bissau does not have a system for recording criminal occurrences in police stations, giving that as the first reason for building a prototype; no source is cited for the statement and no date is given, so the document's own date is used.",
+      "as_of": "2024-08",
+      "date_precision": "month",
+      "system": "sistema de registros de ocorrências criminais (stated as not existing in the country)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Uma aplicação para registro de ocorrências criminais (student prototype, 'Proposta Guiné-Bissau')",
+      "country_label": "",
+      "class": "record",
+      "platform": "Web application built on Java, Spring Boot, Thymeleaf, Bootstrap, Highcharts and PostgreSQL",
+      "owner": "Ibra Có, student at Instituto Federal da Bahia (Brazil); no Guinea-Bissau institution named",
+      "tiers": "none: a proposal, tested through a deployed link by ten users of Guinean nationality who answered a questionnaire; not stated as used by any police force or station"
+    }
+  ],
+  "note": "One fact, the stated absence. The prototype registers occurrences and victims and charts them by type, neighbourhood, gender and status, but the document does not say any force or station uses it. Its statement that written registration still predominates is about the public sector as a whole, citing Joaquim and Cá (2022), not about police stations, so no 'made' fact is taken from it."
+}

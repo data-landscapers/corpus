@@ -1,0 +1,15 @@
+{
+  "slug": "2021-10-12-tgo-conseil-des-ministres-du-12-octobre-2021-deux-projets-de-decrets-adopt",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Fichier central national des données policières de la République togolaise (FCNDP)",
+      "country_label": "FCNDP, managed by the Centre d'informations de police du Togo (CIPT), under the SIPAO programme",
+      "class": "",
+      "platform": "SIPAO programme",
+      "owner": "Government of Togo: the CIPT, created by a decree adopted in the Council of Ministers on 12 October 2021, with a national steering committee created by a second decree the same day",
+      "tiers": "a central police data file common to justice, the police, the gendarmerie nationale, water and forests and customs; created by decree, no site or unit named"
+    }
+  ],
+  "note": "No fact: the communiqué reports two decrees adopted on 12 October 2021, creating the SIPAO national steering committee and the CIPT with its central police data file, and ties the second to axis 3 of the government roadmap on digitalising public services. It does not say what the file holds or who enters it, so the system has no class; the study reads a law as placing nothing."
+}

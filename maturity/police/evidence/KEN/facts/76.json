@@ -1,0 +1,56 @@
+{
+  "slug": "2020-09-01-ken-police-usher-in-a-bold-new-era-with-digital-ob",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "The Nation's spot check of major Nairobi police stations (Kasarani, Buruburu, Lang'ata) found the paper Occurrence Book replaced at the report desk by a desktop on which the duty officer keys each entry, with a tablet as back-up; the article is undated and its published date of September 2020 is used.",
+      "as_of": "2020-09",
+      "date_precision": "month",
+      "system": "digital OB",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "Entries are keyed at the station when the report is made, on a desktop or on tablets running on prepaid data and locked to OB entries, and the Buruburu sub-county commander says senior officers view what is entered at station level; when desktop and tablet both fail the entry goes in the old paper OB and is transferred later, and officers report intermittent network and power (undated article; published date of September 2020 used).",
+      "as_of": "2020-09",
+      "date_precision": "month",
+      "system": "digital OB",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "not-published",
+      "fact": "The Nation gives no count of stations using the digital OB: it reports 210 desktops and 10,181 locally assembled tablets issued to officers in Nairobi, and the Inspector General saying training and rollout across the country would be complete in 18 months (undated article; published date of September 2020 used).",
+      "as_of": "2020-09",
+      "date_precision": "month",
+      "system": "digital OB",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Inspector General of Police said the National Police Service itself would finish training officers and rolling the digital OB out across the country in 18 months; officers had received one day of training, and no funder is named (undated article; published date of September 2020 used).",
+      "as_of": "2020-09",
+      "date_precision": "month",
+      "system": "digital OB",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "digital OB",
+      "country_label": "digital OB",
+      "class": "record",
+      "platform": "Desktops at the report desk and locally assembled tablets on prepaid data, restricted to OB entries, with personal log-in codes",
+      "owner": "National Police Service",
+      "tiers": "Police stations in Nairobi (Kasarani, Buruburu and Lang'ata named); 210 desktops and 10,181 tablets in Nairobi; entries visible to senior commanders; national rollout promised within 18 months"
+    }
+  ],
+  "note": "The captured page carries no date; as_of is the row's published date, month precision."
+}

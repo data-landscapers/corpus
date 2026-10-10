@@ -1,0 +1,8 @@
+{
+  "slug": "2024-03-11-cod-la-police-judiciaire-dotee-dun-nouveau-batiment-abritant-le-bureau-dan",
+  "facts": [],
+  "systems": [
+    {"system": "Logiciels d'analyse criminelle du bureau d'analyse criminelle", "country_label": "bureau d'analyse criminelle", "class": "identification", "platform": "", "owner": "Police Nationale Congolaise (Police judiciaire), equipped by UNDP, MONUSCO Police and the Korean National Police Agency", "tiers": "one crime-analysis office of the Police judiciaire, handed over on 28 February 2024; the city is not named"}
+  ],
+  "note": "The article describes software that analyses criminal intelligence for investigations at one Police judiciaire office, and the office head's statement that manual handling of criminal data ends there; it names no system in which a station records a report or a case, so there is no fact."
+}

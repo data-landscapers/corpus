@@ -1,0 +1,18 @@
+{
+  "slug": "2026-04-02-upf-annual-crime-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Crime Incident Tracking and Analysis System (CITRAS)", "country_label": "CITRAS", "class": "", "platform": "", "owner": "Uganda Police Force", "tiers": "not stated; introduced as part of the force's digitalisation, 2025"},
+    {"system": "Human Resource Management Information System (HRMIS)", "country_label": "HRMIS", "class": "", "platform": "", "owner": "Uganda Police Force", "tiers": "not stated"},
+    {"system": "Express Penalty System (EPS)", "country_label": "EPS", "class": "", "platform": "", "owner": "Uganda Police Force", "tiers": "not stated"},
+    {"system": "Automatic Number Plate Recognition (ANPR)", "country_label": "ANPR", "class": "", "platform": "", "owner": "Uganda Police Force", "tiers": "not stated"},
+    {"system": "Intelligent Transport Management System (ITMS)", "country_label": "ITMS", "class": "", "platform": "", "owner": "Uganda Police Force", "tiers": "not stated"},
+    {"system": "National CCTV network", "country_label": "national CCTV network", "class": "surveillance", "platform": "", "owner": "Uganda Police Force, Directorate of ICT", "tiers": "crime hotspots; expansion a 2026 priority"},
+    {"system": "Road Crash Database System", "country_label": "Road Crash Database System", "class": "single-function", "platform": "Survey123", "owner": "Uganda Police Force, Directorate of Traffic and Road Safety", "tiers": "officers from nine police stations in Kampala Metropolitan trained to collect and enter crash data"},
+    {"system": "Integrated Ballistic Identification System (IBIS)", "country_label": "IBIS", "class": "identification", "platform": "IBIS", "owner": "Uganda Police Force, Directorate of Forensic Services", "tiers": "forensic laboratory"},
+    {"system": "Automated Fingerprint Information System (AFIS)", "country_label": "AFIS", "class": "", "platform": "", "owner": "", "tiers": "named in the list of acronyms only"},
+    {"system": "I-24/7", "country_label": "I-24/7", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "Uganda Police Force, Directorate of INTERPOL and International Relations", "tiers": "used for motor vehicle searches and cross-border cooperation"},
+    {"system": "Crime Data Analysis Centre (CDAC)", "country_label": "Crime Data Analysis Centre", "class": "statistics", "platform": "", "owner": "Uganda Police Force, Directorate of Criminal Investigations", "tiers": "being set up at the Directorate of Criminal Investigations"}
+  ],
+  "note": "The passages name CITRAS as introduced under digitalisation 'to ensure prompt data capture and management' and to reduce 'the predominant manual system', but do not say what CITRAS records, who enters it or at which stations, so it is unclassified and gives no fact; the rest are noted classes or names alone."
+}

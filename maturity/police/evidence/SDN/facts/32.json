@@ -1,0 +1,10 @@
+{
+  "slug": "2022-01-01-sdn-computerising-crime-reports-in-sudanese-police-stations",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "A Sudan University of Science and Technology thesis abstract describes the system for reports in Sudanese police stations as the old paper one, proposes converting it to an electronic system, and focuses on the reports that open the legal procedure for medical treatment after incidents, known as Form 8; the abstract gives no date, so the repository record's published year is used.", "as_of": "2022", "date_precision": "year", "system": "Paper reports in police stations (including Form 8)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Paper reports in police stations (including Form 8)", "country_label": "البلاغات في أقسام الشرطة؛ أورنيك 8", "class": "record", "platform": "Paper", "owner": "Sudan Police", "tiers": "Police stations; the thesis proposes an electronic replacement and reports none in use"}
+  ],
+  "note": "Abstract only is held (the thesis text is not), and the year is the repository record's proxy; the abstract does not name its authors or say how many stations it studied."
+}

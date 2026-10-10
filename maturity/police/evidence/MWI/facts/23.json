@@ -1,0 +1,60 @@
+{
+  "slug": "2025-06-01-mwi-national-conference-report-e-justice-in-malawi",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "At the e-justice conference of 17-18 September 2024 the panel with the Malawi Police Service's ICT officer reported that the service is working towards digitising its processes, including implementing a crime management system, and that digital records will reduce the need for paper-based documentation; UNDP's assessment presented there found most justice-sector processes still paper-based, the police's one named technology being a fingerprint system.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "crime management system",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "As reported at the conference of 17-18 September 2024, the Malawi Police Service is implementing a crime management system and has added to it a crime reporting feature through which victims report incidents for follow-up by the Crime Investigation Department; no station count or rollout date is given.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "crime management system",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "crime management system",
+      "country_label": "crime management system",
+      "class": "record",
+      "platform": "",
+      "owner": "Malawi Police Service",
+      "tiers": "not stated; being implemented as of September 2024"
+    },
+    {
+      "system": "crime reporting feature of the crime management system",
+      "country_label": "crime reporting feature",
+      "class": "public",
+      "platform": "",
+      "owner": "Malawi Police Service",
+      "tiers": "victims report incidents; followed up by the Crime Investigation Department"
+    },
+    {
+      "system": "Automated Fingerprint Identification System (AFIS)",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "vendor-provided, vendor-locked; vendor not named",
+      "owner": "Malawi Police Service",
+      "tiers": "not stated"
+    },
+    {
+      "system": "Integrated Case Management System (ICMS / iCASE)",
+      "country_label": "Integrated Intelligence Electronic Case Management System (iCASE)",
+      "class": "exchange",
+      "platform": "undecided: proprietary off-the-shelf (USD 2-4 million) or open-source, partly locally developed",
+      "owner": "justice-sector institutions led by the Judiciary, with UNDP support",
+      "tiers": "proposed across judiciary, police, prosecution, prisons and oversight bodies; not yet operational; annexed strategy costs it at USD 3,530,000 over 2023-2027"
+    }
+  ],
+  "note": "The crime management system is classed record on the statement that its digital records replace paper documentation; the document does not say that stations enter reports or cases in it, nor who funds it. The annexed e-justice strategy and its costing concern the justice-sector case management system, not the police system."
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "2021-01-01-gmb-igp-jobe-assures-digitalization-of-records-under-police",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "Kerr Fatou reports that police stations in The Gambia still kept their records manually, 56 years after independence, and that the station diary produced from Kairaba Police Station to the truth commission was in too poor a condition to read; the page is undated, the year follows from the 56 years and the month from the Inspector General's 'this month [March]'.",
+      "as_of": "2021-03",
+      "date_precision": "month",
+      "system": "police station diaries (manual record keeping)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "Inspector General Mamour Jobe told the Truth, Reconciliation and Reparations Commission that he had started on record keeping and hoped to have the records at headquarters and in the regions computerised before the end of the month, an undertaking and not a delivery, with station records still manual; the page is undated, the year inferred from '56 years after Independence' and the month from 'this month [March]'.",
+      "as_of": "2021-03",
+      "date_precision": "month",
+      "system": "police station diaries (manual record keeping)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "Kerr Fatou states that police stations in The Gambia still maintained manual record keeping, naming no station that records digitally and giving no count of stations; the page is undated, the year inferred from '56 years after Independence' and the month from 'this month [March]'.",
+      "as_of": "2021-03",
+      "date_precision": "month",
+      "system": "police station diaries (manual record keeping)",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "The undertaking is to computerise records at headquarters and regional level and to store them separately; no system, software or budget is named."
+}

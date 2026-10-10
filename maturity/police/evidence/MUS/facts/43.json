@@ -1,0 +1,15 @@
+{
+  "slug": "2023-03-12-mus-police-ce-qui-a-change-entre-1968-et-2023",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "Défi Media reports that statements made at police stations, once handwritten in Occurrence Books, have since 2015 been entered in the Crime Occurrence Tracking System; the practice is stated as current at publication, whose date is used.", "as_of": "2023-03-12", "date_precision": "day", "system": "Crime Occurrence Tracking System (COTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "Défi Media reports that since 2015 the entries are made directly on computers linked to a server, in place of the handwritten Occurrence Books; the practice is stated as current at publication, whose date is used.", "as_of": "2023-03-12", "date_precision": "day", "system": "Crime Occurrence Tracking System (COTS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Crime Occurrence Tracking System (COTS)", "country_label": "Crime Occurrence Tracking System (COTS)", "class": "record", "platform": "built with State Informatics Limited", "owner": "Mauritius Police Force", "tiers": "police stations, on computers linked to a server; the Crime Intelligence Unit keeps a database of arrested persons through it"},
+    {"system": "Safe City", "country_label": "réseau Safe City", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force", "tiers": "about 4,000 cameras island-wide since August 2019; command room at Ebène"},
+    {"system": "Speed Cameras", "country_label": "Speed Cameras", "class": "single-function", "platform": "", "owner": "", "tiers": "motorways and village approaches"},
+    {"system": "Access to the National Land Transport Authority vehicle database", "country_label": "base de données de la National Land Transport Authority", "class": "exchange", "platform": "", "owner": "National Land Transport Authority", "tiers": "police look up vehicle owners"},
+    {"system": "Smart radio and mobile data", "country_label": "Smart Radio", "class": "enabling", "platform": "", "owner": "Mauritius Police Force", "tiers": "every officer"}
+  ],
+  "note": "The article gives 2015 as the start of entry in COTS and no count or share of stations; the people quoted are unnamed officers."
+}

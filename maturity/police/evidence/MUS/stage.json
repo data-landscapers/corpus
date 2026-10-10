@@ -1,0 +1,19 @@
+{
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "records": "O;C",
+      "made": "connected",
+      "last12": "no-change",
+      "stations": "equipped:100%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-002;MUS-003;MUS-004",
+      "gaps": "No share or count of stations entering records, and no count of stations: the only figure is all stations equipped with computers for the system (2025-06-17). No plan or finance for the system is stated in the 36 months, and nothing is dated inside the twelve months to the as-at; the replacement announced on 2025-06-17 falls before that window. MUS-001 is from the excluded source and sets nothing.",
+      "note": "The Crime Occurrence Tracking System is live, connected to the headquarters server and takes complaints from first report to disposal, so rung 3 is met. Rung 4 needs more than half of stations on a share or a count with a denominator of stations recording, and the evidence gives only stations equipped."
+    }
+  ]
+}

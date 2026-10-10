@@ -1,0 +1,15 @@
+{
+  "slug": "2025-04-08-nga-fg-receives-wapis-platform-and-infrastructure-from-european-union",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System (WAPIS)",
+      "country_label": "WAPIS platform and infrastructure; Data Collection and Registration Centre (DACORE)",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "Federal Government through the Ministry of Police Affairs, whose minister chairs the WAPIS National Committee (WANACO); handed over by the European Union and INTERPOL in April 2025; Nigeria Police Force is the coordinating agency",
+      "tiers": "One DACORE at the Nigeria Police Force Headquarters, Abuja, inaugurated 26 May 2021, communicating with 'remote locations' that are not described; eight agencies on board (NDLEA, Navy, Immigration, EFCC, Correctional Service, NAPTIP, Customs, Police); MoU with INTERPOL signed 16 April 2019; a budget proposal submitted to the President by the ministry and the force, not yet approved; the EU ambassador gives EUR 380 million as EU spending on centralised police information systems, national and regional"
+    }
+  ],
+  "note": "The ministry describes a handover of a centre at Force Headquarters used for inter-agency information sharing; it does not say that stations enter their reports or cases in WAPIS, so the typology gives the system no class and it yields no fact. The handover (April 2025) and the pending budget proposal fall outside the twelve months before the study."
+}

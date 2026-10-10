@@ -1,0 +1,90 @@
+{
+  "slug": "2024-04-19-somalia-idlo-iecms-rfp",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "IDLO's request for proposal of 19 April 2024 states that the Somali Police and the Custodial Corps use paper-based systems and have never made a serious attempt to develop an electronic case management system.",
+      "as_of": "2024-04-19",
+      "date_precision": "day",
+      "system": "Police paper-based system",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "IDLO's request for proposal of 19 April 2024 states that the Police use paper-based systems, and that the planned IECMS would be the first electronic case management system for Somalia's federal justice institutions.",
+      "as_of": "2024-04-19",
+      "date_precision": "day",
+      "system": "Police paper-based system",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "On 19 April 2024 IDLO invited bids, due 3 June 2024, to develop over 15 months a cloud-based Integrated Electronic Case Management System whose criminal investigation module would let investigators create a complaint when received at a police station or call centre; the first phase covers only the Police (CID) in Mogadishu with the Attorney General Office, three courts and Mogadishu Central Prison, and nothing was yet built.",
+      "as_of": "2024-04-19",
+      "date_precision": "day",
+      "system": "Integrated Electronic Case Management System (IECMS), Criminal Investigation Module",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "IDLO states on 19 April 2024 that the IECMS is being established with funds from the U.S. Department of State's Bureau of International Narcotics and Law Enforcement Affairs, under its two-year Somalia Justice Support Programme.",
+      "as_of": "2024-04-19",
+      "date_precision": "day",
+      "system": "Integrated Electronic Case Management System (IECMS), Criminal Investigation Module",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "The request for proposal of 19 April 2024 has IDLO procuring the IECMS in collaboration with the Office of the Attorney General, the vendor reporting to IDLO, and the source code and intellectual property passing on completion to the Attorney General Office on behalf of all recipient institutions, the Police (CID) among them.",
+      "as_of": "2024-04-19",
+      "date_precision": "day",
+      "system": "Integrated Electronic Case Management System (IECMS), Criminal Investigation Module",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Electronic Case Management System (IECMS), Criminal Investigation Module",
+      "country_label": "IECMS",
+      "class": "record",
+      "platform": "to be developed: web-based, cloud-hosted, backups on Microsoft Azure",
+      "owner": "procured by IDLO with U.S. INL funds, in collaboration with the Office of the Attorney General, which is to own the source code",
+      "tiers": "planned first phase: Police (CID) in Mogadishu; complaint, evidence, detention and release, seized items and biometric registration functions"
+    },
+    {
+      "system": "IECMS as the link between police, prosecution, courts and prison",
+      "country_label": "IECMS",
+      "class": "exchange",
+      "platform": "to be developed: one system with criminal investigation, public prosecution, judiciary and correctional services modules",
+      "owner": "IDLO and the Office of the Attorney General",
+      "tiers": "planned: Attorney General Office, Police (CID), Supreme Court, Benadir Regional Court, Benadir Appeal Court and Mogadishu Central Prison"
+    },
+    {
+      "system": "IECMS public complaint filing and e-payment",
+      "country_label": "",
+      "class": "public",
+      "platform": "planned function of the IECMS: public self-registration, online filing of a complaint to a nearby police station, online payment of fees",
+      "owner": "IDLO and the Office of the Attorney General",
+      "tiers": "planned"
+    },
+    {
+      "system": "Federal courts' basic case management system",
+      "country_label": "",
+      "class": "",
+      "platform": "web-based, semi-automatic: case documents captured outside it, scanned and attached",
+      "owner": "the courts",
+      "tiers": "Benadir Regional Court, Benadir Appeal Court and the Supreme Court only; a courts' system, not a police one"
+    }
+  ],
+  "note": "Read to the end (1,502 lines, two reads). Dates are the RFP's own date; the document gives no later event."
+}

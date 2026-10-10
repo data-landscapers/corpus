@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZMB,record,governance,qualifier,finance:not-stated,2026-02-03,ZMB-006,,"not stated: owner, plan"
-ZMB,record,records,coverage,,,,,nothing held
-ZMB,record,made,coverage,,,,,nothing held
+ZMB,record,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-02-03,ZMB-006;ZMB-011;ZMB-012,ZMB-013=finance:domestic;ZMB-016=finance:donor,
+ZMB,record,records,coverage,O;C,2025-01,ZMB-010,ZMB-007=none;ZMB-014=O,
+ZMB,record,made,coverage,paper,2025-01,ZMB-008,,
 ZMB,record,last12,qualifier,advancing,2026-02-03,ZMB-005,,
-ZMB,record,stations,coverage,,,,,nothing held
+ZMB,record,stations,coverage,none,2024,ZMB-009,ZMB-015=not-published,

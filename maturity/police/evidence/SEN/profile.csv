@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,record,governance,qualifier,,,,,nothing held
+SEN,record,governance,qualifier,owner:ministry,2025-10-02,SEN-005,,"not stated: plan, finance"
 SEN,record,records,coverage,,,,,nothing held
 SEN,record,made,coverage,,,,,nothing held
 SEN,record,last12,qualifier,,,,,nothing held
-SEN,record,stations,coverage,,,,,nothing held
+SEN,record,stations,coverage,none,2025-10-02,SEN-004,,

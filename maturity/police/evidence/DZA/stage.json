@@ -1,0 +1,19 @@
+{
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "no evidence",
+      "governance": "",
+      "records": "",
+      "made": "",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only rows held are from a source the study excludes. No held source states whether stations record reports or cases on paper or digitally, in what system, or in how many stations; what is held names systems of noted classes only.",
+      "note": "No evidence row on station records from an admissible source."
+    }
+  ]
+}

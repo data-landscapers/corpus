@@ -1,0 +1,13 @@
+{
+  "slug": "2024-10-01 Mauritius Police Force Annual Report 2023-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Criminal Attribute Database (CADB)", "country_label": "Criminal Attribute Database (CADB)", "class": "identification", "platform": "", "owner": "Crime Records Office, Central CID, Mauritius Police Force", "tiers": "Crime Records Office; stores fingerprintable and non-fingerprintable offences"},
+    {"system": "Automatic Fingerprint Identification System (AFIS)", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "Mauritius Police Force", "tiers": "procurement not finalised after more than three years, per the Director of Audit; specifications under revision to add biometrics"},
+    {"system": "Safe City Project", "country_label": "Safe City Project - eLTE Radio Communication System, IVS & ITS", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force, Communication Branch", "tiers": "command centres (PMCCC, SCC, TMCC) and police stations"},
+    {"system": "CCTV systems", "country_label": "CCTV Systems", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force, Communication Branch", "tiers": "805 cameras at police stations and posts, plus detention centres, driving test centres and units"},
+    {"system": "Photographic Enforcement Device", "country_label": "PED", "class": "single-function", "platform": "", "owner": "Mauritius Police Force", "tiers": "road traffic contraventions"},
+    {"system": "Point of Sales machines", "country_label": "POS Machine", "class": "single-function", "platform": "", "owner": "Mauritius Police Force with the State Bank of Mauritius", "tiers": "pilot in 12 pre-selected police stations, installation from August 2024, to be extended to the rest"}
+  ],
+  "note": "Passages file read to its end. The report counts 72 police stations and 14 police posts (June 2024) and reports offences as statistics, but the passages name no system in which stations record reports or cases, so there is no fact; many passages are cut to headings only."
+}

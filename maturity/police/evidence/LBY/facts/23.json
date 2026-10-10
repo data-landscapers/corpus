@@ -1,0 +1,36 @@
+{
+  "slug": "2025-05-03-lby-tripoli-security-directorate-police-investigation-digital-system",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "The Libyan News Agency reports that on 3 May 2025 Tripoli's security director, Major General Khalil Wahiba, told the heads of investigation of the police stations and traffic departments, whose officers receive reports and complaints and open the case minutes, to attend to the running of 'the digital system' as a primary source for the database and for documenting legal rights; the document does not name the system, say which record is entered in it or how, or count the stations.",
+      "as_of": "2025-05-03",
+      "date_precision": "day",
+      "system": "المنظومة الرقمية (the digital system, unnamed)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The instruction to keep the digital system running in police stations' investigation work was given on 3 May 2025 by the director of the Tripoli Security Directorate, a Ministry of Interior body, to the stations' heads of investigation, per the Libyan News Agency; no partner, vendor, plan or budget is named.",
+      "as_of": "2025-05-03",
+      "date_precision": "day",
+      "system": "المنظومة الرقمية (the digital system, unnamed)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "المنظومة الرقمية (the digital system, unnamed)",
+      "country_label": "المنظومة الرقمية",
+      "class": "record",
+      "platform": "",
+      "owner": "Tripoli Security Directorate (Ministry of Interior)",
+      "tiers": "police stations and traffic departments under the Tripoli Security Directorate; no count; capital only"
+    }
+  ],
+  "note": "The classing rests on thin words and the parent should weigh it: the system is unnamed and described in one clause, as a primary source for the database and for documenting legal rights, in a meeting about station officers taking reports and opening case minutes. The value O is the nearest in the closed list; the document names neither the first report nor the case file as what is entered. It covers Tripoli only."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2022-08-01-sen-wapis-newsletter-number-20-august-2022",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System (WAPIS)",
+      "country_label": "WAPIS; national Data Collection and Registration Centre (DACORE)",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "Programme funded by the European Union and implemented by INTERPOL with the ECOWAS Commission",
+      "tiers": "A national data centre: Niger is listed among the eight countries whose centre was in operation before Togo's opened on 29 April 2022; the programme's next phase is to extend the system beyond the DACOREs; data entry clerks and validators are named as DACORE roles"
+    },
+    {
+      "system": "WAPIS use by the judiciary",
+      "country_label": "WAPIS",
+      "class": "exchange",
+      "platform": "WAPIS",
+      "owner": "WAPIS Programme (INTERPOL); UNDP keen to support an extension to the Ministry of Justice",
+      "tiers": "First training of magistrates and judicial staff in Niamey during a mission of 20 to 24 June 2022: five clerks of the Niamey Regional Court, a deputy attorney-general, an investigating judge and two other magistrates; IOM to support connecting border points"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24/7",
+      "class": "exchange",
+      "platform": "I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "Named as the channel through which national centres share data; nothing specific to Niger"
+    }
+  ],
+  "note": "For Niger the newsletter reports an operating national centre and training of court staff; it does not say that stations enter their reports or cases in WAPIS, so the typology gives the system no class and it yields no fact."
+}

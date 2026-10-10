@@ -1,0 +1,9 @@
+{
+  "slug": "2024-06-07-gin-securite-une-delegation-de-l-interpol-recue-par-le-bureau-du-conseil-n",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "exchange", "platform": "", "owner": "INTERPOL programme, funded by the European Union; presented by the Ministère de la Sécurité et de la Protection civile", "tiers": "sub-regional, between law-enforcement services of West Africa"},
+    {"system": "Centre de recueil et d'enregistrement des données policières (CREDPOL)", "country_label": "CREDPOL", "class": "", "platform": "", "owner": "Ministère de la Sécurité et de la Protection civile", "tiers": "not stated"}
+  ],
+  "note": "No record-class fact: the document describes SIPAO only as a sub-regional programme to increase information exchange and coordination between law-enforcement services (EU-funded, ending six months after the 6 June 2024 audience), and names CREDPOL without saying what it does or that stations enter cases in it; the ministry asked the CNT for legislation to sustain CREDPOL."
+}

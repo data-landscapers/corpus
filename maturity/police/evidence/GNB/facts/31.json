@@ -1,0 +1,15 @@
+{
+  "slug": "2023-04-17-gnb-ministra-da-justica-sipao-permitira-partilha-de-informacao-e-dados-cri",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Informação Policial da África Ocidental (SIPAO)",
+      "country_label": "SIPAO; sistema integrado de informação criminal",
+      "class": "exchange",
+      "platform": "SIPAO (WAPIS)",
+      "owner": "a steering committee of several entities, whose first ordinary meeting the Minister of Justice and Human Rights spoke after on 17 April 2023; staffed by the Polícia Judiciária; INTERPOL accompanies and the European Union finances, per the minister",
+      "tiers": "one centre for collecting and processing criminal information; the minister said the other forces had not named full-time staff for its multidisciplinary team, leaving the work to Polícia Judiciária personnel"
+    }
+  ],
+  "note": "Describes SIPAO as sharing criminal information and data among ECOWAS countries over the INTERPOL channel, through one centre where all police forces are meant to work; the Polícia Judiciária's director says an integrated criminal information system for all criminal police bodies has been in force since the criminal investigation organisation law no. 8/2011. Nothing on stations entering reports or cases, so no fact."
+}

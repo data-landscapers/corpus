@@ -1,0 +1,16 @@
+{
+  "slug": "2025-02-01-uga-annual-crime-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Policing Information System (ePIS)", "country_label": "ePIS", "class": "", "platform": "", "owner": "", "tiers": "named in the list of acronyms only"},
+    {"system": "Electronic Identification Bureau (eIB)", "country_label": "eIB", "class": "", "platform": "", "owner": "", "tiers": "named in the list of acronyms only"},
+    {"system": "Automated Fingerprint Information System (AFIS)", "country_label": "AFIS", "class": "", "platform": "", "owner": "", "tiers": "named in the list of acronyms only"},
+    {"system": "Criminal Automated Biometric Information System (CARBIS)", "country_label": "CARBIS", "class": "", "platform": "", "owner": "Uganda Police Force", "tiers": "listed as specialised investigative equipment the force intends to provide"},
+    {"system": "Integrated Ballistic Information System (IBIS)", "country_label": "IBIS", "class": "identification", "platform": "IBIS", "owner": "Uganda Police Force, Directorate of Forensic Services", "tiers": "forensic laboratory; hits linked firearm cases in Kyegegwa, Kagadi and Kakumiro to one recovered rifle"},
+    {"system": "Express Penalty Scheme (EPS)", "country_label": "EPS", "class": "", "platform": "", "owner": "", "tiers": "named in the list of acronyms only"},
+    {"system": "Road Crash Database System", "country_label": "Road Crash Database System", "class": "single-function", "platform": "Survey123", "owner": "Uganda Police Force, Directorate of Traffic and Road Safety", "tiers": "officers from nine police stations in Kampala Metropolitan trained to collect and enter crash data"},
+    {"system": "CCTV cameras", "country_label": "CCTV cameras", "class": "surveillance", "platform": "", "owner": "Uganda Police Force", "tiers": "not stated; the plan is to have them widely available across the country"},
+    {"system": "Emergency and toll-free lines (999, 112, 0800 numbers)", "country_label": "999 or 112 (Emergency); toll-free lines", "class": "public", "platform": "", "owner": "Uganda Police Force", "tiers": "headquarters, regional operations rooms and specialised units"}
+  ],
+  "note": "The passages are crime counts by region and division (statistics) and name ePIS in the list of acronyms only, with no description of what it does; chapter 10 says the force is 'devising means' to supply the basic forms and books for inquiries, computers and filing cabinets, and that sub-county policing is to be 'accompanied by digitisation', none of which states how a station records a report or a case."
+}

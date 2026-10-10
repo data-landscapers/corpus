@@ -1,0 +1,13 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "stations", "value": "pilot", "fact": "INTERPOL's newsletter says visiting national contact points watched data-entry operators at work in Ghana's SIPAO centre, at the immigration service and at the Kaneshie police station in Accra on 10 and 11 July 2019; it calls Ghana a pilot country with more than 35 SIPAO posts in the capital, shared among police, immigration and prisons, and none yet in the regions.", "as_of": "2019-07-11", "date_precision": "day", "system": "SIPAO (WAPIS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "INTERPOL's newsletter says the Ghana police gave a liaison vehicle to its own SIPAO data collection and registration centre, to serve the remote sites in Accra and soon the regions; the event is undated, so the date is the issue's, August 2019.", "as_of": "2019-08", "date_precision": "month", "system": "SIPAO (WAPIS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:donor", "fact": "The newsletter says the SIPAO programme is implemented by INTERPOL and funded by the European Union; for Ghana it names no budget line beyond the police's gift of a vehicle, and the date is the issue's, August 2019.", "as_of": "2019-08", "date_precision": "month", "system": "SIPAO (WAPIS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO; centre SIPAO (DACORE)", "class": "record", "platform": "SIPAO, implemented by INTERPOL", "owner": "Ghana police for the national centre; programme run by INTERPOL with European Union funds", "tiers": "a data collection and registration centre in Accra and more than 35 posts in the capital among police, immigration and prisons, with data-entry operators at the Kaneshie police station; the regions to follow"},
+    {"system": "INTERPOL I-24/7", "country_label": "I-24/7", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "connection of the pilot countries' national systems planned by the end of 2019; not yet made"}
+  ],
+  "note": "Classed record on one statement only, that operators enter data at the Kaneshie police station; the newsletter does not say what they enter, whether reports are entered when taken, or whether the station is online to the centre, so no records or made fact is given. French edition of the document at n 69."
+}

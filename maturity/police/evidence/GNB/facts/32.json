@@ -1,0 +1,23 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)",
+      "country_label": "SIPAO",
+      "class": "exchange",
+      "platform": "SIPAO (WAPIS)",
+      "owner": "INTERPOL's SIPAO programme with the national authorities; financed by the European Union",
+      "tiers": "a data collection and registration centre (DACORE) not yet inaugurated at December 2022: inauguration was planned for January 2023, 14 DACORE staff were trained from 26 September to 14 October 2022, and computer equipment was handed over on 19 October 2022"
+    },
+    {
+      "system": "Système automatisé de reconnaissance d'empreintes digitales (AFIS)",
+      "country_label": "",
+      "class": "identification",
+      "platform": "AFIS, a component of the SIPAO programme",
+      "owner": "INTERPOL's AFIS project, financed by the European Union",
+      "tiers": "none: the project's steering committee of 21 July 2022 placed Guinea-Bissau among the countries to be prepared for an AFIS under a possible future action"
+    }
+  ],
+  "note": "INTERPOL's SIPAO newsletter of December 2022 reports for Guinea-Bissau a programme delegation received by the President on 19 October 2022, equipment handed over, user training begun and the data centre due to open in January 2023; SIPAO is described as electronic criminal databases shared nationally, regionally and globally, and nothing says stations enter reports or cases, so no fact. The programme-wide figures (14 of 16 centres operational, about 500,000 police records) are not given by country."
+}

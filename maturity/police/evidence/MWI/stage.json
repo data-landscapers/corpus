@@ -1,0 +1,19 @@
+{
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry;finance:not-stated",
+      "records": "O;C",
+      "made": "paper",
+      "last12": "advancing",
+      "stations": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MWI-001;MWI-003;MWI-011;MWI-013",
+      "gaps": "No source gives a station using the Crime Management System: the July 2026 fact (MWI-003) says it is still being introduced and counts none, which disagrees with the 2022 pilot of the combined crime record system in six districts (MWI-013), whose later use is not stated. How the record is made in the new system, a current plan and a funder are not stated; the only statements on rural stations come from the excluded essay, so no rural gap is flagged.",
+      "note": "A system for stations is being prepared: piloted in six districts in 2022 and, in July 2026, officers trained ahead of its introduction. Rung 3 needs it past its pilot and live in stations outside the capital, and no fact says so."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "records": "O;C",
+      "made": "connected",
+      "last12": "advancing",
+      "stations": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MAR-004;MAR-005;MAR-008;MAR-009;MAR-016;MAR-017",
+      "gaps": "No share or count of police arrondissements entering records is published: the newest dated fact (2025) gives 16 of 22 police commands for the case system and no count of stations, and GESTARR's completed generalisation (2023, beside 454 arrondissements) is a statement of rollout, not of stations recording. No plan or finance is stated, nothing dated places the gendarmerie's brigades in or out of a record system, and the connected reading rests on 2019 facts.",
+      "note": "Complaints and case files are made in the DGSN's connected systems, live past pilot in commands well outside the capital, which meets rung 3. Rung 4 needs more than half of stations on a share or a count with a denominator, and the evidence gives commands, not stations."
+    }
+  ]
+}

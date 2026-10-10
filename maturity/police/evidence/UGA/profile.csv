@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,record,governance,qualifier,owner:ministry;finance:not-stated,2017-12-14,UGA-007;UGA-008,,nothing dated since 2023-10-10
-UGA,record,records,coverage,C,2017-12-14,UGA-005,,nothing dated since 2023-10-10
-UGA,record,made,coverage,,,,,nothing held
+UGA,record,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2024-06-10,UGA-010;UGA-011;UGA-020,UGA-014=finance:not-stated;UGA-019=owner:ministry;UGA-021=finance:not-stated;UGA-015=owner:ministry;UGA-016=finance:not-stated;UGA-012=owner:ministry;UGA-025=owner:ministry;UGA-026=finance:not-stated;UGA-007=owner:ministry;UGA-008=finance:not-stated,
+UGA,record,records,coverage,C,2021,UGA-022,UGA-005=C,nothing dated since 2023-09-28
+UGA,record,made,coverage,paper,2023,UGA-017;UGA-024,,
 UGA,record,last12,qualifier,,,,,nothing held
-UGA,record,stations,coverage,pilot,2017-12-14,UGA-006,,nothing dated since 2023-10-10
+UGA,record,stations,coverage,pilot,2021,UGA-006;UGA-023,UGA-009=none;UGA-013=none;UGA-018=none,

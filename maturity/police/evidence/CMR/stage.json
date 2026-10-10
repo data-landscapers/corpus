@@ -1,0 +1,19 @@
+{
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "",
+      "records": "C",
+      "made": "",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CMR-004",
+      "gaps": "The only usable fact is from June 2020: a digitised system for investigations and criminal proceedings existed and was barely used. Which units use it, whether any is outside the capital, where and how entries are made and how many stations enter are not established, and nothing is held since 2020; the 2020 ownership fact is outside the 36-month governance window. CMR-001 to CMR-003 are from the excluded source and set nothing.",
+      "note": "A case-file system existed in 2020 but nothing shows it live in stations outside the capital, so the row for stage 3 is not met and the cell takes the rung below. The placing rests on a fact more than six years old, not on a dated act of preparation."
+    }
+  ]
+}

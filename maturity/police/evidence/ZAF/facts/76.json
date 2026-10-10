@@ -1,0 +1,67 @@
+{
+  "slug": "2021-05-04-zaf-saps-2021-22-annual-performance-plan-administration-visible-policing-w",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "share:86.3%",
+      "fact": "SAPS told the Portfolio Committee on Police on 4 May 2021 that the Integrated Case Docket Management System (ICDMS) had been implemented in 998 police stations with 159 still to be covered, a total of 1 157 by addition (the same meeting's plan counts 1 156 stations); stated by Lt Gen Mfazi, Deputy National Commissioner: Crime Detection, and repeated by Maj Gen Mavundla, Head: Technology Management, in answer to a question about the position at the end of 2020/21.",
+      "as_of": "2021-05-04",
+      "date_precision": "day",
+      "system": "Integrated Case Docket Management System (ICDMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "count:159",
+      "fact": "SAPS's Head of Technology Management told the Portfolio Committee on Police on 4 May 2021 that at the 159 police stations without ICDMS, cases were registered on the old system, which merged the information into the same database as ICDMS; those stations were to receive ICDMS as the network was upgraded.",
+      "as_of": "2021-05-04",
+      "date_precision": "day",
+      "system": "the old system (unnamed; predecessor of ICDMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "SAPS told the Portfolio Committee on Police on 4 May 2021 that cases are registered and processed on ICDMS at the police stations where it is implemented, and on the old system at the rest.",
+      "as_of": "2021-05-04",
+      "date_precision": "day",
+      "system": "Integrated Case Docket Management System (ICDMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "SAPS's Head of Technology Management told the Portfolio Committee on Police on 4 May 2021 that ICDMS depends on the station's network link, low network hampering the processing of cases, and that cases registered on the old system at the other stations are merged into the same database as ICDMS.",
+      "as_of": "2021-05-04",
+      "date_precision": "day",
+      "system": "Integrated Case Docket Management System (ICDMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "SAPS told the Portfolio Committee on Police on 4 May 2021 that its Technology Management Services was engaging SITA over technical difficulties with ICDMS at the remaining stations, and that there were external parties to the project.",
+      "as_of": "2021-05-04",
+      "date_precision": "day",
+      "system": "Integrated Case Docket Management System (ICDMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "Integrated Case Docket Management System", "country_label": "ICDMS", "class": "record", "platform": "", "owner": "SAPS Technology Management Services, with SITA and external parties", "tiers": "998 police stations; 159 not yet covered (May 2021)"},
+    {"system": "old case registration system (unnamed)", "country_label": "the old system", "class": "record", "platform": "", "owner": "SAPS", "tiers": "159 police stations without ICDMS; feeds the same database"},
+    {"system": "firearm permit system", "country_label": "firearm permit system", "class": "single-function", "platform": "", "owner": "SAPS; formerly supplied by Forensic Data Analysts (FDA); being rebuilt by TMS with SITA", "tiers": "switched off; replaced by a physical firearm register at stations"},
+    {"system": "Central Firearm Registry", "country_label": "Central Firearm Registry", "class": "single-function", "platform": "", "owner": "SAPS", "tiers": "licence applications taken at stations, sent to provincial headquarters and processed manually; online system planned"},
+    {"system": "Property administrative system", "country_label": "PAS", "class": "", "platform": "", "owner": "SAPS Supply Chain Management", "tiers": "station inventories inspected every six months"},
+    {"system": "Integrated Ballistic Identification System", "country_label": "IBIS", "class": "identification", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "DNA database", "country_label": "DNA database", "class": "identification", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "P-Chem system", "country_label": "P-Chem system", "class": "identification", "platform": "", "owner": "SAPS forensic laboratories", "tiers": ""},
+    {"system": "wide area network sites and digital radio sites", "country_label": "WAN sites; digital radio communication infrastructure", "class": "enabling", "platform": "", "owner": "SAPS, dependent on SITA", "tiers": "2021/22 targets: 90 WAN sites, 4 digital radio sites"}
+  ],
+  "note": "PMG's summary of the committee meeting, not a SAPS document. A member's question on whether the Connect South Africa project had speeded the ICDMS rollout drew no answer."
+}

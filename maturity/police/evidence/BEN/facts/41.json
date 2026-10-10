@@ -1,0 +1,10 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "centre national SIPAO (DACORE)", "class": "", "platform": "", "owner": "INTERPOL programme funded by the European Union; Benin a pilot country", "tiers": "a national centre (DACORE) able to collect, centralise and record police data; at August 2019 the programme director says the pilot countries are extending the system beyond the DACORE in the capital, and beyond the capital in Benin's case; no count of sites and no station-level entry stated; Benin's centre was queried for wanted persons, stolen vehicles and stolen travel documents in operation Adwenpa IV, 16-22 July 2019"},
+    {"system": "plateforme régionale de partage de données criminelles (SIPAO)", "country_label": "", "class": "exchange", "platform": "", "owner": "ECOWAS", "tiers": "regional, planned"},
+    {"system": "connexion des systèmes SIPAO nationaux au réseau I-24/7 d'INTERPOL", "country_label": "", "class": "exchange", "platform": "I-24/7", "owner": "INTERPOL", "tiers": "planned for the pilot countries, Benin among them, by the end of 2019"}
+  ],
+  "note": "No fact: INTERPOL's programme director says in August 2019 that Benin's SIPAO is being extended beyond the capital, but describes a central data centre recording police data and wanted-persons and stolen-property files, and does not say stations enter their reports or cases in it. The parent should weigh the extension statement with documents 23, 25 and 39. The Niger, Ghana and Mali site counts are not Benin's."
+}

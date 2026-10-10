@@ -1,0 +1,15 @@
+{
+  "slug": "2024-08-22-gnb-policia-judiciaria-diretor-nacional-diz-que-a-luta-contra-a-criminalid",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Informação Policial da África Ocidental (SIPAO)",
+      "country_label": "SIPAO",
+      "class": "exchange",
+      "platform": "SIPAO (WAPIS)",
+      "owner": "not stated; the new service was inaugurated with the Polícia Judiciária's National Director, the Guarda Nacional's Commander and a representative of the Secretary of State for Public Order present",
+      "tiers": "a new SIPAO service beside the Guarda Nacional command (ex-QG) in Bissau; described as a centre for collecting and processing information where all police forces work and share information, with sharing nationally and internationally over the INTERPOL channel"
+    }
+  ],
+  "note": "States that a new SIPAO service was inaugurated on a Wednesday (the dispatch is dated 2024-08-22) beside the Guarda Nacional command in Bissau, and describes it as sharing and cross-checking criminal data between the country's police forces and abroad; nothing on stations entering reports or cases, so no fact."
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "2022-06-01-nga-software-development-for-crime-management-in-nigeria",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "Jimoh, Wajiga and Garba report that an onsite observation at Nigerian police stations found criminal records managed manually in a crime diary or ledger, and describe crime reporting and detailing in stations as a manual method; they give neither the number of stations observed nor the date, so the date is the paper's publication.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Crime diary or ledger",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "Jimoh, Wajiga and Garba state that Nigerian police stations they observed keep criminal records by hand in a crime diary or ledger, with no digital record named; the observation is undated and its sample is not given, so the date is the paper's publication.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Crime diary or ledger",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Crime diary or ledger",
+      "country_label": "crime diary or ledger; criminal diary/records",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Nigeria Police Force",
+      "tiers": "Police stations, as observed onsite by the authors; sample and date not given"
+    },
+    {
+      "system": "Web-based crime information management software (the authors' prototype)",
+      "country_label": "",
+      "class": "",
+      "platform": "Python front end, MongoDB back end",
+      "owner": "The authors (Aminu Saleh College of Education, Azare; Modibbo Adama University, Yola)",
+      "tiers": "An academic prototype, not stated to be deployed in any station; its sample report is headed Bauchi State Command, Katagum Area Command"
+    },
+    {
+      "system": "Criminal Information Management System (CRIMS)",
+      "country_label": "CRIMS",
+      "class": "",
+      "platform": "PHP and MySQL",
+      "owner": "Oludele and others (2015), cited as implemented 'for' the Nigeria Police Force",
+      "tiers": "Cited from the literature; no deployment stated"
+    }
+  ],
+  "note": "The software described is a research prototype and gives no fact; the two facts are the paper's own observation that stations record by hand. The cited NDLEA real-time crime information system is outside the field (not a police force)."
+}

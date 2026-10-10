@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10-sdn-police-103-facilities-damaged-and-2024-2030-rebuild-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Police databases", "country_label": "قواعد البيانات الشرطية", "class": "", "platform": "", "owner": "Sudan Police Forces / Ministry of Interior", "tiers": "Restored after the war; said to have helped settle administrative and financial matters and the payment of entitlements"},
+    {"system": "Digital systems development project", "country_label": "تطوير الأنظمة الرقمية", "class": "", "platform": "", "owner": "Sudan Police Forces / Ministry of Interior", "tiers": "One of 39 projects in 21 programmes of the police plan for 2024-2030; not described"}
+  ],
+  "note": "No fact: the account of the police's periodic forum in Omdurman (held the Tuesday before publication, 2026-06-10 being a proxy date) names no station record system. It states that 103 police facilities were damaged or destroyed in the war, that about 70% of the post-war plan's targeted programmes and projects were carried out, that the 2024-2030 plan has a 'development of digital systems' project it does not describe, and that restored police databases served administrative and financial matters."
+}

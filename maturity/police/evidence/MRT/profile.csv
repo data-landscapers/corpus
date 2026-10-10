@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,record,governance,qualifier,,,,,nothing held
-MRT,record,records,coverage,,,,,nothing held
-MRT,record,made,coverage,,,,,nothing held
-MRT,record,last12,qualifier,,,,,nothing held
-MRT,record,stations,coverage,,,,,nothing held
+MRT,record,governance,qualifier,owner:ministry,2025-06-19,MRT-006,,"not stated: plan, finance"
+MRT,record,records,coverage,O,2025-06-19,MRT-003,,
+MRT,record,made,coverage,connected,2025-06-19,MRT-004,,
+MRT,record,last12,qualifier,advancing,2025-06-19,MRT-007,,nothing dated since 2025-09-28
+MRT,record,stations,coverage,count:34,2025-06-19,MRT-005,,

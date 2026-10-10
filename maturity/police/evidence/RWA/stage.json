@@ -1,0 +1,9 @@
+{
+  "iso3": "RWA",
+  "cells": [
+    {"sub_indicator": "record", "stage": "2", "governance": "owner:ministry", "records": "C", "made": "",
+     "last12": "", "stations": "", "cap": "", "flags": "justice linked", "stage_sources": "RWA-003",
+     "gaps": "Not established: that the Rwanda Investigation Bureau's stations and posts enter the case file themselves, where the entry is made, how it is made, or how many stations do it. Plan and finance are not held in an evidence row (systems.csv names a 2024/25-2028/29 sector plan and a budget line for the system), and nothing is dated inside the last twelve months.",
+     "note": "The bureau's own history (2024) says it processes criminal investigation files in the Integrated Electronic Case Management System, from investigation to final judgment. Rung 3 needs the system live in stations outside the capital, and no admissible fact names a station or a place."}
+  ]
+}

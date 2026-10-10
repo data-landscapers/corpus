@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,record,governance,qualifier,,,,,nothing held
-MAR,record,records,coverage,,,,,nothing held
-MAR,record,made,coverage,,,,,nothing held
-MAR,record,last12,qualifier,,,,,nothing held
-MAR,record,stations,coverage,,,,,nothing held
+MAR,record,governance,qualifier,owner:ministry,2025,MAR-007,MAR-011=owner:ministry;MAR-015=owner:ministry;MAR-019=owner:ministry;MAR-023=owner:ministry,"not stated: plan, finance"
+MAR,record,records,coverage,C,2025,MAR-004;MAR-008;MAR-012,MAR-016=O;MAR-020=O,
+MAR,record,made,coverage,connected,2019-10,MAR-017;MAR-021,,nothing dated since 2023-09-28
+MAR,record,last12,qualifier,advancing,2025,MAR-006;MAR-010;MAR-014,,
+MAR,record,stations,coverage,pilot,2023,MAR-013,MAR-005=not-published;MAR-009=not-published;MAR-018=not-published;MAR-022=not-published,

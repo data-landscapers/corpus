@@ -1,0 +1,19 @@
+{
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "1",
+      "governance": "owner:partner;finance:donor",
+      "records": "none",
+      "made": "paper",
+      "last12": "",
+      "stations": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-003;SOM-004",
+      "gaps": "No evidence row dates the case management system as built or in use by the police: the April 2024 tender (SOM-005) covers only the CID in Mogadishu and nothing was built. systems.csv holds an October 2025 launch linking the CID, prosecutors, courts and prisons, classed as exchange with no station named. The Puntland CID database was still to be installed in 2021, a member state's force and outside the 36 months. No plan is stated, and nothing is dated in the last twelve months.",
+      "note": "IDLO's statement of 19 April 2024 that the police use paper-based systems is the dated absence rung 1 asks for. Rung 2 needs a dated act of preparation inside 36 months or a system running in the capital, and an invitation to bid is neither."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "",
+      "records": "O;C",
+      "made": "connected",
+      "last12": "",
+      "stations": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-003;LBR-004;LBR-005;LBR-007;LBR-013",
+      "gaps": "No fact shows either system live in a station outside Montserrado County, and no count or share of stations entering records is held; the newest coverage facts are of 2021 to 2023. Governance holds nothing inside the 36 months (owner:ministry and finance:donor are of 2021 and 2022) and nothing is held for the last twelve months. LBR-015 and LBR-016 (2026) show one rural station, Nyehn Town, on paper with no computers, which disagrees with O;C for that station only and does not carry the country; rural gap is not flagged on one station.",
+      "note": "The Crime Statistics Information System was pioneered by six officers in Montserrado County, the seat of the capital, from a headquarters launch, and the police case management system is stated as rolled out with no station named. Rung 3 needs a system past its pilot and live in some stations outside the capital, which no row establishes."
+    }
+  ]
+}

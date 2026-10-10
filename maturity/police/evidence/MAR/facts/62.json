@@ -1,0 +1,15 @@
+{
+  "slug": "2021-12-20-mar-bilan-2021-des-services-de-la-dgsn-couronnement-d-une-vision-et-d-acti",
+  "facts": [],
+  "systems": [
+    {"system": "GESTARR", "country_label": "système d'information dans la gestion des arrondissements de police « GESTARR »", "class": "", "platform": "", "owner": "DGSN", "tiers": "Police arrondissements (448 nationally in 2021); generalisation extended in 2021 to the regional sûreté of Dakhla and the prefectures of Laâyoune and Casablanca, the police prefecture of Oujda to follow as the last stage; wanted-persons and identification databases being integrated into it"},
+    {"system": "DGSN electronic messaging system", "country_label": "système de messagerie électronique des services de la sûreté nationale", "class": "enabling", "platform": "", "owner": "DGSN", "tiers": "Tangier, Tétouan, Casablanca, Al Hoceima, Taza and Safi connected in 2021"},
+    {"system": "Emergency line 19 call-management application", "country_label": "application de la gestion des communications à travers la ligne d'appel d'urgence « 19 »", "class": "surveillance", "platform": "", "owner": "DGSN", "tiers": "Command and coordination rooms in 52 police centres nationally, generalised in 2021"},
+    {"system": "Road-control document digitisation applications", "country_label": "Applications informatiques pour la numérisation de la gestion et du stockage des documents de contrôle routier", "class": "single-function", "platform": "", "owner": "DGSN", "tiers": "Extended in 2021 to Casablanca, Fès, Beni Mellal, Oujda, Settat, Agadir, Laâyoune, Meknès, Taza, Ouarzazate, Errachidia and Dakhla"},
+    {"system": "Electronic payment of traffic fines", "country_label": "règlement électronique des amendes transactionnelles et forfaitaires", "class": "single-function", "platform": "", "owner": "DGSN with the national road-safety agency", "tiers": "Progressive introduction begun in 2021"},
+    {"system": "CNIE mobile enrolment units", "country_label": "unités mobiles", "class": "", "platform": "", "owner": "DGSN", "tiers": "22 vehicles linked to the biometric databases, serving rural and isolated areas"},
+    {"system": "National forensic laboratory", "country_label": "Laboratoire National de la Police Scientifique", "class": "identification", "platform": "", "owner": "DGSN", "tiers": "Casablanca, new premises opened 2021; central digital-traces laboratory and five regional laboratories"},
+    {"system": "Police recruitment portal", "country_label": "portail électronique", "class": "public", "platform": "", "owner": "DGSN", "tiers": "Online applications to police entrance examinations"}
+  ],
+  "note": "The DGSN's 2021 review dates GESTARR's rollout (448 arrondissements; Dakhla, Laâyoune and Casablanca added in 2021, Oujda the last still to come) but calls it only an information system for managing the arrondissements and does not say that reports or cases are entered in it, so it is unclassified here and gives no fact."
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "records": "O;C",
+      "made": "",
+      "last12": "advancing",
+      "stations": "not-published",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "LBY-003;LBY-006;LBY-007",
+      "gaps": "No station outside the Tripoli Security Directorate is shown using a records system, and no count of stations, total, plan or source of finance is given. How the record is made is not stated, and the May 2025 fact names neither the system nor the record entered in it. No dated fact says rural stations are outside the system, so no rural gap is flagged; the only statement of paper recording nationwide is from the excluded source.",
+      "note": "The investigation-reports system launched on 31 December 2025 belongs to the Tripoli directorate's stations alone, and a system running only in the capital is rung 2. Rung 3 needs it live in some stations outside the capital, which no fact shows."
+    }
+  ]
+}

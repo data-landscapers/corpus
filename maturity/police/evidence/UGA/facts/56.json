@@ -1,0 +1,60 @@
+{
+  "slug": "2021-01-01-uga-police-upgrades-digital-crime-record-management-system",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The Independent reports that the Uganda Police Force's digital Crime Record Management System replaces a manual system based on moving copies of hard case files, and is used by the records officers at police stations; the article carries no date and is dated here by its published year, 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Crime Record Management System (CRMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "pilot",
+      "fact": "The Independent reports, quoting the police ICT directorate's spokesman, that the system was pioneered in Kampala Metropolitan in 2017, stalled when station records officers found it hard to use, has been upgraded and tested in Kampala, is to be tested in upcountry stations next, and will be rolled out only once the Police Advisory Committee accepts it; no count of stations is given, and the article carries no date and is dated here by its published year, 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Crime Record Management System (CRMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Independent reports that police stations currently have one records officer in charge of case files and that detectives therefore keep the files of the cases they handle, the digital system not yet being rolled out; the article carries no date and is dated here by its published year, 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "manual crime record management system",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Independent reports that the force's own ICT Directorate upgraded the system on the direction of the Police Advisory Committee, at its ICT Research, Development and Innovation Centre at Kikandwa; the article carries no date and is dated here by its published year, 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Crime Record Management System (CRMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The Independent's report names no budget line or funder for the Crime Record Management System or its upgrade; the article carries no date and is dated here by its published year, 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Crime Record Management System (CRMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "Crime Record Management System (CRMS)", "country_label": "Digital Crime Record Management system-CRMS", "class": "record", "platform": "built and upgraded in-house by the police ICT Directorate", "owner": "Uganda Police Force, ICT Directorate", "tiers": "pioneered in Kampala Metropolitan in 2017; upgraded and tested in Kampala; upcountry station tests and rollout pending"},
+    {"system": "Fleet management system", "country_label": "digital system for fleet management", "class": "", "platform": "in-house, in development", "owner": "Uganda Police Force, ICT Directorate", "tiers": "in development; to monitor police vehicles, boats, motorcycles and helicopters"}
+  ],
+  "note": ""
+}

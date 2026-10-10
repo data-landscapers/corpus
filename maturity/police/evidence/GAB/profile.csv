@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GAB,record,governance,qualifier,,,,,nothing held
-GAB,record,records,coverage,,,,,nothing held
+GAB,record,governance,qualifier,owner:vendor,2026-01-10,GAB-003,,"not stated: plan, finance"
+GAB,record,records,coverage,C,2026-01-10,GAB-004,,
 GAB,record,made,coverage,,,,,nothing held
-GAB,record,last12,qualifier,,,,,nothing held
+GAB,record,last12,qualifier,advancing,2026-01-10,GAB-005,,
 GAB,record,stations,coverage,,,,,nothing held

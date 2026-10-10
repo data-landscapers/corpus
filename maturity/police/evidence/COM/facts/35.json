@@ -1,0 +1,31 @@
+{
+  "slug": "2023-06-01-comores-strategie-nationale-lbc-ft-padm-2023-2027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "équipements et logiciels informatiques des postes de police pour le contrôle aux frontières (Action 7.1.2)",
+      "country_label": "",
+      "class": "border",
+      "platform": "",
+      "owner": "DGPSN, DGD",
+      "tiers": "police posts doing border control; planned action, investment budget"
+    },
+    {
+      "system": "Renseignements préalables concernant les voyageurs (RPCV) et Dossiers passagers (PNR)",
+      "country_label": "RPCV / PNR",
+      "class": "border",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "échange d'informations entre la Police, la Gendarmerie, la Douane et le BCN pour les contrôles aux frontières",
+      "country_label": "",
+      "class": "border",
+      "platform": "",
+      "owner": "",
+      "tiers": "border controls; planned"
+    }
+  ],
+  "note": "No fact: the passages of this 2023-2027 anti-money-laundering strategy name no system in which a police station or gendarmerie brigade records a report or a case; they plan specialised financial-crime brigades, training, rehabilitation and construction of commissariats, police equipment and a camera item (fragments, no system described), and IT equipment and software for border-control police posts, which is class border."
+}

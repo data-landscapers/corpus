@@ -1,0 +1,19 @@
+{
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "records": "O;C",
+      "made": "paper",
+      "last12": "advancing",
+      "stations": "none",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "ZMB-005;ZMB-009;ZMB-010",
+      "gaps": "No fact shows any station entering a report or a case digitally: the 2024 statement is that the occurrence book, crime register and dockets are paper at headquarters and across the service (ZMB-007, ZMB-009), which disagrees with the same study's headquarters Police Information Management System holding crime reports and case files (ZMB-010), and nothing says who enters those. The centralised system the 40 stations are to be connected to is not implemented and no station count or pilot is given; finance is not stated for it, the 2024 domestic allocation (ZMB-013) being for e-Government at headquarters as a whole.",
+      "note": "Rung 2 on a records system at headquarters only and a station system in preparation, with networking equipment received for 40 stations by February 2026. Not rung 3 because nothing is live in any station outside the capital; the Electronic Occurrence Book of 2021 is confined to the Victim Support Unit and sets nothing, and ZMB-001 to ZMB-004 are from the excluded source."
+    }
+  ]
+}

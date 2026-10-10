@@ -1,0 +1,19 @@
+{
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "1",
+      "governance": "",
+      "records": "none",
+      "made": "paper",
+      "last12": "",
+      "stations": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-006;MOZ-007;MOZ-008",
+      "gaps": "The statement of absence dates from September 2007, and nothing usable is dated since; the later rows saying the same are from the excluded source. The 2007 finding that no information technology plan existed falls outside the governance window, so owner, plan and finance are not established, and nothing is held for the last twelve months. The systems held since are a single-function register of gender-based violence and an unclassified public security information system at headquarters, with no fact that stations enter reports or cases in either.",
+      "note": "The 2007 UNDP evaluation verified the almost complete absence of digital records of autos and case files across the force and no IT use at station level, which is the dated statement rung 1 asks for. Rung 2 needs a dated act on a named station records system inside 36 months, and none is held."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,record,governance,qualifier,,,,,nothing held
-SOM,record,records,coverage,,,,,nothing held
-SOM,record,made,coverage,,,,,nothing held
+SOM,record,governance,qualifier,owner:partner;finance:donor,2024-04-19,SOM-006;SOM-007,SOM-009=finance:donor,not stated: plan
+SOM,record,records,coverage,none,2024-04-19,SOM-004,,
+SOM,record,made,coverage,paper,2024-04-19,SOM-003,,
 SOM,record,last12,qualifier,,,,,nothing held
-SOM,record,stations,coverage,,,,,nothing held
+SOM,record,stations,coverage,none,2024-04-19,SOM-005;SOM-008,,

@@ -1,0 +1,72 @@
+{
+  "slug": "2023-07-03-ken-76-police-occurrence-books-digitised-in-modernisation-drive",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "count:76",
+      "fact": "The Star reports that 76 police stations in and around Nairobi had their Occurrence Books digitised by 30 June 2023, with the Deputy Inspector General of Administration Police telling the President the service planned to roll it out to other parts of the country; no total of stations is given.",
+      "as_of": "2023-06-30",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "The Interior Cabinet Secretary said on 30 June 2023 that the police OB had been digitised so that complaints, statements and details of criminal activities made at police stations are recorded in it and cannot be edited.",
+      "as_of": "2023-06-30",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The Deputy Inspector General of Administration Police said on 30 June 2023 that reports entered in the digital OB at the station are open to monitoring by ward, county and regional commanders and the Inspector General, and the Cabinet Secretary called it real-time reporting of crimes.",
+      "as_of": "2023-06-30",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The digital OB was presented on 30 June 2023 by the Interior Cabinet Secretary and the Deputy Inspector General of Administration Police as the government's own digitisation, with most personnel said to be trained; no funder or budget is stated.",
+      "as_of": "2023-06-30",
+      "date_precision": "day",
+      "system": "digital Occurrence Book (OB)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "digital Occurrence Book (OB)",
+      "country_label": "digital OB",
+      "class": "record",
+      "platform": "",
+      "owner": "National Police Service / Ministry of Interior",
+      "tiers": "76 police stations in and around Nairobi by 30 June 2023; rollout to the rest of the country planned; entries monitored by ward, county and regional commanders and the Inspector General"
+    },
+    {
+      "system": "police complaints system and civilian review on Gava Mkononi",
+      "country_label": "Gava Mkononi",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministry of Interior; Independent Policing Oversight Authority",
+      "tiers": "Online platform on which the public files complaints against officers to IPOA and IPOA posts investigation progress; to be incorporated, June 2023"
+    },
+    {
+      "system": "police clearance (certificate of good conduct) processing",
+      "country_label": "",
+      "class": "public",
+      "platform": "",
+      "owner": "Directorate of Criminal Investigations",
+      "tiers": "Being worked into the Gava Mkononi platform, June 2023"
+    }
+  ],
+  "note": "The speech date is taken as Friday 30 June 2023, the article of Monday 3 July saying the launch at the KICC was on Friday."
+}

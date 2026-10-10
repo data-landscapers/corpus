@@ -1,0 +1,13 @@
+{
+  "slug": "2022-05-18-gha-more-training-needed-on-cts-police-superintendent",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "The Asokwa Municipal Police Commander says the Case Tracking System has eliminated the use of paper as case dockets in the prosecution of criminal cases; the event is undated, so the date is the document's published date.", "as_of": "2022-05-18", "date_precision": "day", "system": "Case Tracking System (CTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "The Asokwa Municipal Police Commander says he can sit in his office and monitor cases in all stations within his jurisdiction through the Case Tracking System, and names unstable internet and electricity as hindering it; no count of stations is given, and the date is the document's published date.", "as_of": "2022-05-18", "date_precision": "day", "system": "Case Tracking System (CTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The document says the Case Tracking System was launched by the Government of Ghana in 2018 as a common platform for the Attorney General's office, the Police Service, the Prisons Service, the Legal Aid Commission, the Economic and Organised Crime Office and the Judicial Service; it names no single owning ministry.", "as_of": "2018", "date_precision": "year", "system": "Case Tracking System (CTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:donor", "fact": "The document says the Case Tracking System was launched in 2018 with the support of USAID; it gives no domestic budget line.", "as_of": "2018", "date_precision": "year", "system": "Case Tracking System (CTS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Case Tracking System (CTS)", "country_label": "Ghana's Case Tracking System (CTS)", "class": "record", "platform": "integrated software", "owner": "Government of Ghana, launched 2018 with USAID support", "tiers": "tracks criminal cases from inception to disposition across six justice institutions; in use in the stations of the Asokwa Municipal Police Command, Ashanti Region, by the commander's account, with too few personnel trained"}
+  ],
+  "note": ""
+}

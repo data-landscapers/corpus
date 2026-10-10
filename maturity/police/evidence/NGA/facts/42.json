@@ -1,0 +1,68 @@
+{
+  "slug": "2020-11-06-nga-nigeria-documents-issued-by-the-police-during-criminal-investigations",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "A senior lecturer at Northumbria University who has researched the Nigerian police told Canada's Immigration and Refugee Board on 10 October 2020 that police records are recorded and kept manually in hard copy, though some are kept electronically at the state commands or police headquarters.",
+      "as_of": "2020-10-10",
+      "date_precision": "day",
+      "system": "Police station records (statements, police reports, charge sheets)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "Sources writing to Canada's Immigration and Refugee Board in October 2020 describe statements and police reports as written on a standard paper form and letterhead at the division, with records made manually in hard copy; a law-firm partner adds that use of computer networks and electronic databases is still very low among police formations.",
+      "as_of": "2020-10",
+      "date_precision": "month",
+      "system": "Police station records (statements, police reports, charge sheets)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Police station records",
+      "country_label": "petition, police report, witness statements, record of exhibits, charge sheets; standard police form approved by Force Headquarters",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Nigeria Police Force",
+      "tiers": "Police divisions and stations; some records kept electronically at state commands or headquarters (October 2020)"
+    },
+    {
+      "system": "Electronic crime database and computer network",
+      "country_label": "computer network and electronic crime database",
+      "class": "",
+      "platform": "",
+      "owner": "Nigeria Police Force",
+      "tiers": "Per the senior lecturer, 10 October 2020: not in all police commands, still at the developmental stage, and without the human and financial resources to work effectively; what is entered in it and where is not stated"
+    },
+    {
+      "system": "Nigeria Police Crime and Incident Data Base",
+      "country_label": "Nigeria Police Crime and Incident Data Base",
+      "class": "",
+      "platform": "",
+      "owner": "Nigeria Police Force",
+      "tiers": "First phase launched in December 2019 by the President, per the Guardian (Nigeria), as an electronic criminal database to support investigation and planning; the IRB found no corroboration"
+    },
+    {
+      "system": "Nigeria Police National Command and Control Centre",
+      "country_label": "Nigeria Police National Command and Control Centre",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Nigeria Police Force",
+      "tiers": "Announced December 2019, for operational coordination and real-time situation monitoring"
+    },
+    {
+      "system": "Digital case management solution with biometric database",
+      "country_label": "digital case management solution",
+      "class": "identification",
+      "platform": "Biosec Solutions named as co-leading the project",
+      "owner": "Nigeria Police Force",
+      "tiers": "Being worked on as of an April 2019 force statement: to enrol, identify and verify suspects and persons of interest through a biometric database, and to integrate with the National Identity Management Commission database"
+    }
+  ],
+  "note": "The statements are second-hand (lawyers and a UK academic, in correspondence with the IRB); the document's own date is a proxy, so the facts take the dates of the correspondence. The April 2019 'digital case management solution' is described only by its biometric identification function, so it is classed identification and gives no fact."
+}

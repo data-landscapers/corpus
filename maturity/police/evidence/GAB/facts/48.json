@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-08-gab-securite-et-digitalisation-identity-secu-debarque-a-la-brigade-du-pk9",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Identity Secu",
+      "country_label": "Identity Secu",
+      "class": "public",
+      "platform": "mobile application, on the Play Store",
+      "owner": "Gendarmerie Nationale",
+      "tiers": "deployed on 8 May 2026 at the PK9 gendarmerie brigade, Libreville; serves about fifteen districts of the capital, extension to other areas planned in the following months"
+    },
+    {
+      "system": "computer equipment given to the PK9 brigade",
+      "country_label": "matériel informatique de pointe",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Gendarmerie Nationale",
+      "tiers": "PK9 gendarmerie brigade, Libreville"
+    }
+  ],
+  "note": "No fact: the document describes a public app through which citizens file a complaint online and follow it (class public) and the equipping of one brigade (class enabling); it does not say the brigade itself makes a digital record of reports or cases."
+}

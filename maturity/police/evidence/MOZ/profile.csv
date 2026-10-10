@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MOZ,record,governance,qualifier,,,,,nothing held
-MOZ,record,records,coverage,,,,,nothing held
-MOZ,record,made,coverage,,,,,nothing held
+MOZ,record,governance,qualifier,plan:none,2007-10,MOZ-009,,nothing dated since 2023-09-28
+MOZ,record,records,coverage,none,2007-09,MOZ-006,,nothing dated since 2023-09-28
+MOZ,record,made,coverage,paper,2007-09,MOZ-007,,nothing dated since 2023-09-28
 MOZ,record,last12,qualifier,,,,,nothing held
-MOZ,record,stations,coverage,,,,,nothing held
+MOZ,record,stations,coverage,none,2007-09,MOZ-008,,nothing dated since 2023-09-28

@@ -1,0 +1,15 @@
+{
+  "slug": "2022-10-12-gmb-wapis-engages-police-officers-on-eradication-of-organised-crimes-terro",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS",
+      "country_label": "WAPIS Data Collection and Registration Center (DACORE)",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "Gambia Police Force with the Ministry of Interior; run as an INTERPOL programme fully funded by the European Union",
+      "tiers": "Police Commissioner Lamin L.K. Bojang: workstations installed in all major police stations across the country and in the Navy, Immigration Department, Drug Law Enforcement Agency, Prison Department, Revenue Authority and State Intelligence Services, with no count or list; INTERPOL's head of WAPIS: 80 workstations deployed in the greater Banjul area; a permanent site identified for a building to house the INTERPOL National Central Bureau and the WAPIS data centre"
+    }
+  ],
+  "note": "The article describes WAPIS only as a means of exchanging police information and says where workstations are installed; it does not say that stations enter reports or cases in it, so the system is unclassified and gives no fact. The event is undated in the body (published 2022-10-12)."
+}

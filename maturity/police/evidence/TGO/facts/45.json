@@ -1,0 +1,23 @@
+{
+  "slug": "2024-12-01-ben-lettre-dinformation-sipao-numero-25-26-decembre-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière d'Afrique de l'Ouest (SIPAO/WAPIS)",
+      "country_label": "SIPAO, run by the Centre d'information policière du Togo (CIPT), the national DACORE",
+      "class": "identification",
+      "platform": "SIPAO/WAPIS, implemented by INTERPOL; servers hosted free of charge by the Ministère de l'Économie numérique",
+      "owner": "CIPT, a permanent administrative service under the Ministre de la Sécurité et de la Protection civile, staffed from the general state budget with an operating budget allocated; programme partners the European Union, INTERPOL and ECOWAS, the programme phase ending May 2025",
+      "tiers": "national centralised database shared by police, gendarmerie, justice, customs and the water and forests service; the director speaks of SIPAO's deployment across the national territory and of deployment to remote sites as an activity to continue; data-entry operators of the centre fetched archives from the units and digitised them, a 2018 procès-verbal among them; no count of units given"
+    },
+    {
+      "system": "AFIS",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "Thales, under INTERPOL supervision",
+      "owner": "INTERPOL AFIS project; servers hosted by the Ministère de l'Économie numérique",
+      "tiers": "Togo one of three pilot countries; launch event April to May 2024, active deployment from October 2024, to be operational by the end of 2024"
+    }
+  ],
+  "note": "No fact: the CIPT's director describes SIPAO as collecting, centralising, recording and sharing data from checks and searches of persons and goods, and as giving an offender's history; entry is described only as the centre's operators digitising the units' archives, not as stations entering reports or cases, so it is classed identification as in file 20. For the parent: the director states staff on the state budget and an operating budget for the CIPT (December 2024), which would be finance:domestic if the system is later classed record."
+}

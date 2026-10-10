@@ -1,0 +1,9 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {"system": "SIPAO (WAPIS)", "country_label": "SIPAO", "class": "identification", "platform": "WAPIS", "owner": "Direction générale de la Sûreté nationale, with INTERPOL; financed by the European Union", "tiers": "not stated for Mauritania; awareness sessions in Nouakchott on 25-27 October 2022 for more than 300 people; connected to INTERPOL's I-24/7 by December 2022"},
+    {"system": "AFIS", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "", "tiers": "an existing AFIS to be restored or upgraded as a priority, by the AFIS steering committee's recommendation of 21 July 2022; technical mission in 2022"}
+  ],
+  "note": "For Mauritania the newsletter reports awareness sessions, the I-24/7 connection and the AFIS upgrade only; it describes SIPAO as electronic criminal databases fed by data collection centres and does not say that Mauritanian stations enter their cases in it, so there is no fact."
+}

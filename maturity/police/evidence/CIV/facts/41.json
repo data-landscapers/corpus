@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-civ-bilan-2011-2025-paix-securite-et-justice",
+  "facts": [],
+  "systems": [
+    {"system": "SIPAO", "country_label": "SIPAO", "class": "", "platform": "", "owner": "Police nationale", "tiers": "105 sites interconnected via SIPAO, listed under the Police nationale's achievements 2011-2025"},
+    {"system": "SIGAPP", "country_label": "Système Intégré de Gestion Applications et Procédures Police (SIGAPP)", "class": "", "platform": "", "owner": "", "tiers": "extension listed as a post-2025 perspective for security; current reach not stated"},
+    {"system": "Vidéo-protection urbaine", "country_label": "Vidéo-protection urbaine", "class": "surveillance", "platform": "", "owner": "Police nationale", "tiers": "the 12 police prefectures (none in 2011)"}
+  ],
+  "note": "The government's September 2025 record sheet names SIPAO (105 sites interconnected) and SIGAPP (extension planned after 2025) by name only, without saying what either does or that stations enter reports or cases in them; no system is classifiable as record, so no fact. It also gives 28 of 114 commissariats to standard in 2011, 35 new commissariats and 203 gendarmerie brigades in 2024/2025 against 153 in 2011."
+}

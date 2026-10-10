@@ -1,0 +1,46 @@
+{
+  "slug": "2025-04-04-zaf-strategic-plan-2025-to-2030",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The SAPS Strategic Plan 2025 to 2030, tabled 4 April 2025, lists the enhancement of case docket management among its information systems deliverables, with 50% functionality integration in 2025/26, 75% in 2026/27 and full functionality integration and case tracking in 2027/28; the system is not named and no station count is given.",
+      "as_of": "2025-04-04",
+      "date_precision": "day",
+      "system": "case docket management (system unnamed)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The SAPS Strategic Plan 2025 to 2030, tabled 4 April 2025, carries the case docket management enhancement as SAPS's own deliverable and says modernisation through digitisation is inhibited by poor service delivery from SITA and by its cost.",
+      "as_of": "2025-04-04",
+      "date_precision": "day",
+      "system": "case docket management (system unnamed)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "case docket management system (unnamed)", "country_label": "case docket management", "class": "record", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Crime Administration System", "country_label": "CAS", "class": "", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Integrated Persons Management (IPM)", "country_label": "IPM", "class": "identification", "platform": "", "owner": "SAPS", "tiers": "deliverables: 92 in 2025/26, 124 in 2026/27, 400 in 2027/28, 512 in 2028/29"},
+    {"system": "Automated Fingerprint Identification System", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Criminal Record System", "country_label": "CRIM", "class": "identification", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Automated Ballistic Information System", "country_label": "ABIS", "class": "identification", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Laboratory Information Management System", "country_label": "LIMS", "class": "identification", "platform": "", "owner": "SAPS Forensic Science Laboratory", "tiers": "modules implemented by region, 2025/26 to 2027/28"},
+    {"system": "Firearm Control Management System", "country_label": "firearm management releases 1 to 4", "class": "single-function", "platform": "", "owner": "SAPS", "tiers": "prioritised sites; fully deployed in all prioritised sites in 2026/27"},
+    {"system": "Second-Hand Goods system", "country_label": "SHGCS", "class": "single-function", "platform": "", "owner": "SAPS", "tiers": "pilot in Gauteng 2025/26; all provinces from 2026/27"},
+    {"system": "National Key Points System", "country_label": "National Key Points System", "class": "single-function", "platform": "", "owner": "SAPS", "tiers": "development 2025/26, implementation 2026/27"},
+    {"system": "incident management system for 10111 centres", "country_label": "incident registration, management and dispatch", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "20 10111 centres in 2025/26"},
+    {"system": "CCTV at police stations and public surveillance areas", "country_label": "CCTV", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "police station sites: 104 in 2025/26, 135, 135, 240, 280 by 2029/30"},
+    {"system": "ANPR units, body-worn cameras, dashboard cameras, drones", "country_label": "mobile technologies", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "217 items 2025/26, 220 a year after"},
+    {"system": "WAN infrastructure replacement", "country_label": "WAN sites", "class": "enabling", "platform": "", "owner": "SAPS, with SITA", "tiers": "93 sites 2025/26, 130, 180, 200, 240 by 2029/30"},
+    {"system": "digital radio infrastructure", "country_label": "digital radio", "class": "enabling", "platform": "", "owner": "SAPS", "tiers": "Cape Town Metro 2025/26, then two areas a year"},
+    {"system": "end-user devices", "country_label": "notebooks, desktops, scanners", "class": "enabling", "platform": "", "owner": "SAPS", "tiers": "263 notebooks, 979 desktops, 77 scanners a year"},
+    {"system": "Rate Our Service application", "country_label": "Rate Our Service", "class": "public", "platform": "", "owner": "SAPS", "tiers": "launched 13 October 2023"},
+    {"system": "SAPS Mobile Application", "country_label": "MySAPS App", "class": "", "platform": "", "owner": "SAPS", "tiers": ""}
+  ],
+  "note": "Passages only. No station count for any record system. The risk register lists 'incorrect recording of crimes', 'inadequate distribution of IT resources in rural areas' and 'unintegrated JCPS Cluster IT systems' as root causes, with no figures."
+}

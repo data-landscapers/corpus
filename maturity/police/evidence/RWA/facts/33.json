@@ -1,0 +1,84 @@
+{
+  "slug": "2024-10-01-rwa-rwanda-investigation-bureau-delivering-justice-in-rwanda-the-journey-2",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The Rwanda Investigation Bureau's own history states that it has incorporated the Integrated Electronic Case Management System to process criminal investigation files, and that the handling of cases is digitalised from investigation to final judgment through it; the book gives no date for this, so the date is its publication (it covers 2017 to 2023).",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Rwanda Investigation Bureau's history states that the Integrated Electronic Case Management System is managed by the Ministry of Justice; no date is given, so the date is the book's publication.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "country_label": "IECMS",
+      "class": "record",
+      "platform": "",
+      "owner": "Ministry of Justice (manages); used by the Rwanda Investigation Bureau for criminal investigation files",
+      "tiers": "From investigation to final judgment; the passages do not say whether RIB stations and posts enter the files or where"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24-7",
+      "class": "exchange",
+      "platform": "I-24/7",
+      "owner": "INTERPOL National Central Bureau, Kigali (within RIB)",
+      "tiers": "Manned by the NCB and extended to the Rwanda National Police, the prosecution authority, the revenue authority and the immigration directorate"
+    },
+    {
+      "system": "NCB Border Support dashboard",
+      "country_label": "NCB Border Support dashboard; NCB Dashboard that monitors Stop Lists on Rwandan borders",
+      "class": "border",
+      "platform": "",
+      "owner": "INTERPOL National Central Bureau (RIB)",
+      "tiers": "Supports immigration and the revenue authority; an NCB representative at all borders"
+    },
+    {
+      "system": "Automated Fingerprint Identification System (AFIS)",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "Rwanda Investigation Bureau",
+      "tiers": "Listed among RIB's intentions for the way forward: to build one"
+    },
+    {
+      "system": "Criminal Records Unit",
+      "country_label": "Criminal Records Unit",
+      "class": "identification",
+      "platform": "",
+      "owner": "Rwanda Investigation Bureau",
+      "tiers": "A unit of 7 in RIB's structure, beside crime statistics and report staff; medium not stated"
+    },
+    {
+      "system": "RIB digital forensic laboratory",
+      "country_label": "Digital Forensic unit; in-house forensic laboratory",
+      "class": "identification",
+      "platform": "",
+      "owner": "Rwanda Investigation Bureau, Cybercrime Division",
+      "tiers": "Headquarters division of 28 staff"
+    },
+    {
+      "system": "RIB call centre",
+      "country_label": "RIB Call centre",
+      "class": "public",
+      "platform": "",
+      "owner": "Rwanda Investigation Bureau",
+      "tiers": "Receives and orients crime reporting; crimes can be reported in person or by other means"
+    }
+  ],
+  "note": "Passages only, and the two IECMS passages are cut short by the extraction. The system is classed record because the investigating body says its investigation files are processed in it; the document does not say that stations or posts make the entry, give how the record is made, or count units, so there is no made or stations fact. The body is the Rwanda Investigation Bureau, separated from the National Police in 2017-2018, not the police: the parent decides whether its stations count. 'From investigation to the final judgment' also bears on the justice-linked flag."
+}

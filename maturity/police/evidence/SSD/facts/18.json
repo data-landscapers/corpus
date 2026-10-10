@@ -1,0 +1,36 @@
+{
+  "slug": "2026-06-07-ssd-development-of-web-based-application-for-crime-report-handling-in-poli",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The abstract of Simon Gawar Dak's thesis states that the South Sudan National Police Services uses a paper-based system for handling crime reporting, with crime files misplaced or lost from police shelves and suspect documentation altered; the thesis's own year is not stated, so the Afribary listing date of 7 June 2026, the document's published date, is used.",
+      "as_of": "2026-06-07",
+      "date_precision": "day",
+      "system": "SSNPS paper-based crime reporting system",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The thesis abstract states that the South Sudan National Police Services handles crime reporting on a paper-based system; the web application it describes is the researcher's own, built and tested for Jubek State, with no statement that the police adopted it (published date used, the thesis giving no year).",
+      "as_of": "2026-06-07",
+      "date_precision": "day",
+      "system": "SSNPS paper-based crime reporting system",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Web-based application for crime report handling (thesis prototype)",
+      "country_label": "",
+      "class": "record",
+      "platform": "PHP, HTML, JavaScript and MySQL",
+      "owner": "the researcher, Simon Gawar Dak; not stated as adopted by the police",
+      "tiers": "designed for Jubek State, South Sudan National Police Services; tested and validated as a research prototype"
+    }
+  ],
+  "note": "Abstract and contents only (the full text is behind a subscription). The date is weak: 7 June 2026 is the listing's citation date, and 'Jubek State' is a name from 2015-2020, so the paper-based account may describe an earlier year; the parent should weigh the as_of."
+}

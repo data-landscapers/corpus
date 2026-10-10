@@ -1,0 +1,59 @@
+{
+  "slug": "2023-01-01-uga-international-consultant-to-review-and-assess-crime-management-busines",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "A UNODC consultancy notice states that the collection, processing, analysis and sharing of data and information in the Uganda Police Force is currently 'largely manual' for lack of digital tools and platforms, and calls the present arrangement the 'current manual information system'; the notice is undated and the assignment was to run September to December 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "current manual information system",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "A UNODC consultancy notice calls the Electronic Policing Information System 'proposed' and gives the programme's goal as to design, develop, deploy and operationalise it in all policing regions, divisions, districts, stations and specialised units countrywide, with a review of crime management business processes still to be done as its foundation; the notice is undated and the assignment was to run September to December 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "A UNODC consultancy notice presents ePIS as the Uganda Police Force's own programme and strategy, with the force commissioning the business process review 'with support from UNODC'; the notice is undated and the assignment was to run September to December 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "A UNODC consultancy notice describes an ePIS programme with a stated overall goal and four named interventions: business process reform, automation of case management processes, enabling infrastructure and digital skilling; no costing or programme period is given, the notice is undated and the assignment was to run September to December 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "A UNODC consultancy notice names no funder or budget line for ePIS itself; it states only that the review of crime management business processes is supported by UNODC under its five-year programme, Strengthening Crime Prevention and Criminal Justice in Uganda; the notice is undated and the assignment was to run September to December 2023.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "Electronic Policing Information System (ePIS)", "country_label": "ePIS programme", "class": "record", "platform": "", "owner": "Uganda Police Force, with UNODC support for the business process review", "tiers": "proposed; intended for all policing regions, divisions, districts, stations and specialised units countrywide"}
+  ],
+  "note": ""
+}

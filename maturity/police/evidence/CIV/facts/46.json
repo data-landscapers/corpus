@@ -1,0 +1,8 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "", "platform": "SIPAO, implemented by INTERPOL and financed by the European Union", "owner": "", "tiers": "none stated for Côte d'Ivoire: as of 19-20 June 2019 the memorandum of understanding between the Ivorian government and INTERPOL was still unsigned, with a deadline of September 2019 set by the steering committee, and the visit was to revive implementation in the country"}
+  ],
+  "note": "INTERPOL's August 2019 newsletter names Côte d'Ivoire as host of the programme team since November 2017, for the INTERPOL executive director's visit of 19-20 June 2019 (memorandum of understanding not yet signed, signature promised as imminent), and for its contact point's study visit to Niamey on 11-12 June 2019. It reports no Ivorian data centre, site or station on the system; the sites and data-entry it describes are Niger's, Ghana's, Benin's and Mali's. No system in Côte d'Ivoire is described as one in which stations enter reports or cases, so no fact."
+}

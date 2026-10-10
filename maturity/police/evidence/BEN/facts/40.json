@@ -1,0 +1,10 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {"system": "AFIS (Système automatisé de reconnaissance d'empreintes digitales)", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "INTERPOL project under the SIPAO programme, EU-funded at EUR 5 million over 33 months (2022-2024)", "tiers": "Benin named with Gambia and Togo as the three pilot countries for a complete AFIS, recommended by the project steering committee on 21 July 2022; launch missions to the pilot countries in September-October 2022"},
+    {"system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)", "country_label": "", "class": "", "platform": "", "owner": "INTERPOL programme, EU-funded since 2012 (EUR 52 million cumulative), with the ECOWAS Commission", "tiers": "stated for the region only, not for Benin: 14 of 16 beneficiary countries have an operational data centre (DACORE) that collects, centralises and records police data daily; extension beyond the DACORE in the capital is a 2023 priority"},
+    {"system": "plateforme régionale de partage de données SIPAO", "country_label": "", "class": "exchange", "platform": "", "owner": "ECOWAS", "tiers": "regional; decentralised platform kept for a transitional period by the experts' committee of 8-9 November 2022"}
+  ],
+  "note": "No fact: Benin appears only as an AFIS pilot country, a noted class. What the newsletter says of SIPAO is regional and names no Benin site; it describes central data centres recording police data, not stations entering their reports or cases."
+}

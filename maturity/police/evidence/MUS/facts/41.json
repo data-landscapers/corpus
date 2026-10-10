@@ -1,0 +1,14 @@
+{
+  "slug": "2026-06-19-budget-speech-2026-2027-startup-revolution",
+  "facts": [],
+  "systems": [
+    {"system": "Safe City surveillance", "country_label": "Safe City", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force", "tiers": "to be expanded in 2026-2027"},
+    {"system": "Cyber Forensic laboratory", "country_label": "Cyber Forensic laboratory", "class": "identification", "platform": "", "owner": "", "tiers": "to be set up; part of a Rs 13 million provision"},
+    {"system": "Forensic Science Laboratory drug analysis equipment", "country_label": "Forensic Science Laboratory", "class": "identification", "platform": "", "owner": "Forensic Science Laboratory", "tiers": "Rs 85 million for advanced drug analysis equipment"},
+    {"system": "Specialised investigative tools for virtual assets, financial crime and forensic accounting", "country_label": "specialised investigative tools", "class": "", "platform": "", "owner": "Mauritius Police Force", "tiers": "to be deployed"},
+    {"system": "Coastal Surveillance Radar System", "country_label": "Coastal Surveillance Radar System", "class": "surveillance", "platform": "", "owner": "Police Force, with assistance from India, France and the USA", "tiers": "to be acquired"},
+    {"system": "Digital Border Control System with biometric e-Gates", "country_label": "digital Border Control System", "class": "border", "platform": "", "owner": "", "tiers": "airport; being put in place"},
+    {"system": "Public asset upgrade programme (courts, post offices, police stations)", "country_label": "public asset upgrade programme", "class": "enabling", "platform": "", "owner": "Government", "tiers": "police stations among run-down facilities; Rs 10 million for an assessment"}
+  ],
+  "note": "Read to its end. The speech of 19 June 2026 earmarks Rs 14.2 billion for law and order and Rs 531 million for police equipment, and names a police Strategic Plan, but names no system in which stations record reports or cases; the e-judiciary platform it announces is the courts' own."
+}

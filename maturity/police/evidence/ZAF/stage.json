@@ -1,0 +1,19 @@
+{
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "4",
+      "governance": "owner:ministry;plan:current;finance:domestic",
+      "records": "C",
+      "made": "connected",
+      "last12": "no-change",
+      "stations": "share:86.3%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-007;ZAF-008;ZAF-016;ZAF-018;ZAF-019",
+      "gaps": "The share is of May 2021 and its denominator is derived: 998 stations with ICDMS plus 159 without, 1 157 by addition, where the same meeting's plan counts 1 156. The newest stations facts disagree with it in kind: the reply of 31 December 2025 gives no count (ZAF-009), and the 2023/24 baseline of 68% (789 of 1 160) counts stations using one ICDMS function, not stations registering dockets (ZAF-010). No fact names the occurrence or complaint as first recorded as digital, none gives a rural share, and none shows the docket passing digitally to prosecutor or court; the finance row names no budget line for the docket system; the one advancing event, 11 April 2025, falls outside the twelve months.",
+      "note": "C is captured at the station on CAS/ICDMS and verified on the same system at provincial and national level, in 998 of 1 157 stations. Not 5: O is not established, the share is under 90 per cent, and the figure is older than two years and gives no rural share."
+    }
+  ]
+}

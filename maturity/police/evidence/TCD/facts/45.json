@@ -1,0 +1,15 @@
+{
+  "slug": "2019-08-01-mli-sipao-lettre-d-information-numero-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)",
+      "country_label": "SIPAO",
+      "class": "",
+      "platform": "SIPAO/WAPIS, implemented by INTERPOL",
+      "owner": "INTERPOL programme funded by the European Union; premises for the DACORE allocated by the Chadian authorities",
+      "tiers": "as of August 2019: digitisation stations deployed in Chad, the premises for the national centre (DACORE) renovated and awaiting servers in the following weeks; no unit named and no entry of data reported"
+    }
+  ],
+  "note": "No fact: Chad has one sentence, in the programme director's closing column, on scanning stations deployed and the centre's premises awaiting servers in August 2019; nothing says what the system records or that a station enters reports or cases, so it has no class. French edition of the same issue as file 46."
+}

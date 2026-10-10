@@ -1,0 +1,9 @@
+{
+  "iso3": "ETH",
+  "cells": [
+    {"sub_indicator": "record", "stage": "2", "governance": "owner:ministry;finance:not-stated", "records": "O;C", "made": "",
+     "last12": "advancing", "stations": "", "cap": "", "flags": "advancing", "stage_sources": "ETH-001",
+     "gaps": "CRIMS is under development and not yet in use at 2026-01-20: O and C are what it is to record, not what any station records, and no station, place or way of making the record is given. The 2023 training for a wide launch (ETH-004) falls outside the 36 months and no launch is recorded since; no plan or finance is stated.",
+     "note": "A named system, CRIMS, is being built for the Ministry of Justice, the Federal Police and the Addis Ababa Police, on a fact dated inside 36 months. Rung 3 needs it past its pilot and live in stations outside the capital, and the ministry says it is not yet in use."}
+  ]
+}

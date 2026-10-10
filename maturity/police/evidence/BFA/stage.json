@@ -1,0 +1,19 @@
+{
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "records": "none",
+      "made": "paper",
+      "last12": "",
+      "stations": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-005;BFA-006;BFA-007",
+      "gaps": "Nothing dated on or before the as-at says the computerised main courante went live in any commissariat or brigade: the newest usable fact is December 2023, when it was over 80% built and due by mid-January 2024. The minister's statement that it is achieved is dated 2 October 2026, after the as-at, and sets nothing; BFA-001 and BFA-002 are from the excluded source. No plan, finance, station count or event in the last twelve months is held.",
+      "note": "A named platform for commissariats and brigades was being built by the ministry in December 2023, inside 36 months of the as-at, which is preparation. Stage 3 needs the system live in stations outside the capital, and no fact inside the as-at shows any station using it."
+    }
+  ]
+}

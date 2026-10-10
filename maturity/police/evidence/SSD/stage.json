@@ -1,0 +1,19 @@
+{
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "",
+      "records": "C",
+      "made": "paper",
+      "last12": "",
+      "stations": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-006;SSD-007",
+      "gaps": "The placing fact is of 2021, older than three years: a shared case system in Juba only, with no count of police stations and no statement of how many cases the police entered or whether the file passes digitally to the court. The facts disagree: a thesis abstract, dated only by its 2026 listing, says the force handles crime reporting on paper (SSD-004, SSD-005). Nothing on governance is dated inside 36 months, and nothing in the last twelve.",
+      "note": "A case system for courts, justice ministry and police ran in Juba only in 2021, which is rung 2 under the ladder. Rung 3 needs a record system live in stations outside the capital, and none is shown."
+    }
+  ]
+}

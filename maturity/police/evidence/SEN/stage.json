@@ -1,0 +1,19 @@
+{
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "unplaced",
+      "governance": "owner:ministry;finance:not-stated",
+      "records": "",
+      "made": "",
+      "last12": "",
+      "stations": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No admitted source says how stations or brigades record today: the only statement of paper is the excluded compilation's (SEN-001 to SEN-003). ARHIP was shown at a design workshop on 2 October 2025 with its technical form not stated and its use in the units still under discussion; no training, delivery or agreement is dated, and no plan or finance is stated.",
+      "note": "Rung 2 needs a dated act of preparation on a named system, and a presentation of a tool still in design, of unstated technical form, is not one. Rung 1 needs a dated statement of paper-only recording from an admitted source, and none is held."
+    }
+  ]
+}

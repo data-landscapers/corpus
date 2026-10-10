@@ -1,0 +1,32 @@
+{
+  "slug": "2023-12-22-uga-igps-christmas-message",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Inspector General of Police states that in 2024 the force plans to strengthen its business and case management systems under the ePIS project, which he calls an integrated digital platform for the management of policing services, and to embrace paperless transactions through ICT systems in all 29 regions.",
+      "as_of": "2023-12-22",
+      "date_precision": "day",
+      "system": "ePIS project",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The Inspector General of Police names no budget line or funder for the ePIS project in his message of 22 December 2023.",
+      "as_of": "2023-12-22",
+      "date_precision": "day",
+      "system": "ePIS project",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "ePIS project", "country_label": "ePIS project", "class": "record", "platform": "", "owner": "Uganda Police Force", "tiers": "planned for 2024; no station or region said to use it"},
+    {"system": "Call response centres", "country_label": "call response centers", "class": "public", "platform": "", "owner": "Uganda Police Force", "tiers": "20 sub-county police stations in Aswa, East Kyoga and Mt. Moroto regions, established in 2023"},
+    {"system": "Online complaints management system", "country_label": "online complaints management system", "class": "", "platform": "", "owner": "Uganda Police Force, Professional Standards Unit", "tiers": "planned for 2024"},
+    {"system": "Solar power at community police stations", "country_label": "solar power", "class": "enabling", "platform": "", "owner": "Uganda Police Force", "tiers": "seven new community police stations in Karamoja"}
+  ],
+  "note": ""
+}

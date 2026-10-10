@@ -1,0 +1,19 @@
+{
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "1",
+      "governance": "",
+      "records": "none",
+      "made": "",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-002",
+      "gaps": "The statement of absence is one author's, in an undergraduate project dated August 2024, citing no source: that the country has no system for recording criminal occurrences in police stations. It does not say how stations do record, and nothing is held on governance, the last twelve months or stations; the only other row is from the excluded source. The criminal-information centre in Bissau is held as an exchange system, with no station named as entering its cases.",
+      "note": "Rung 1 on a dated statement that no station system exists. Not rung 2: no system for stations is shown being prepared, piloted or run at headquarters as a record system, and a noted class places nothing above 1."
+    }
+  ]
+}

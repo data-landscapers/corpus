@@ -1,0 +1,25 @@
+{
+  "slug": "2026-06-03-select-committee-report-saps-budget-vote-28-2026-27",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Select Committee on Security and Justice reports that the 2025-2030 SAPS Strategic Plan commits to digitise internal case and resource management systems; no system is named and no station count is given (report dated 3 June 2026, briefing held 20 May 2026).",
+      "as_of": "2026-06-03",
+      "date_precision": "day",
+      "system": "internal case management systems (unnamed)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "digital case and docket management systems", "country_label": "digital case and docket management systems", "class": "record", "platform": "", "owner": "SAPS", "tiers": "recommended by the committee for identified pilot police stations by 31 March 2027; not stated as in place"},
+    {"system": "body-worn cameras", "country_label": "body-worn cameras", "class": "surveillance", "platform": "", "owner": "SAPS, procurement with the State Information Technology Agency (SITA)", "tiers": "procurement under way; prioritised police stations not named"},
+    {"system": "dashboard cameras and CCTV systems", "country_label": "dashboard cameras, CCTV systems", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "planned rollout"},
+    {"system": "desktops, laptops, scanners and LAN upgrades", "country_label": "desktops, laptops and scanners; network infrastructure, LAN upgrades", "class": "enabling", "platform": "", "owner": "SAPS", "tiers": "being rolled out to police stations; no count"},
+    {"system": "National Forensic DNA Database", "country_label": "National Forensic DNA Database", "class": "identification", "platform": "", "owner": "SAPS; assessed by the Civilian Secretariat for Police Service", "tiers": "national"},
+    {"system": "SAPS Complaints Management System", "country_label": "SAPS Complaints Management System", "class": "", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "IPID case flow management system", "country_label": "case flow management system and database", "class": "", "platform": "", "owner": "Independent Police Investigative Directorate", "tiers": ""}
+  ],
+  "note": "One governance fact only. The passages give no station count for any record system. Recommendation 6.13 (digital case and docket management in identified pilot stations by 31 March 2027, to reduce lost dockets) is the committee's ask, not a stated deployment, so it is a systems entry and no fact. Technology Management Services is given R3.1 billion for 2026/27, tied to no system."
+}

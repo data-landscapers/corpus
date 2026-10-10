@@ -1,0 +1,31 @@
+{
+  "slug": "2018-04-13-nam-vote-06-ministry-of-safety-and-security",
+  "facts": [],
+  "systems": [
+    {
+      "system": "E-Policing",
+      "country_label": "E-Policing",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Safety and Security",
+      "tiers": "said on 13 April 2018 to have been rolled out to most crucial infrastructures; no stations counted"
+    },
+    {
+      "system": "NamPol Automated Biometric Identification System (N-ABIS)",
+      "country_label": "N-ABIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministry of Safety and Security / Namibian Police Force",
+      "tiers": "said on 13 April 2018 to have been rolled out to most crucial infrastructures"
+    },
+    {
+      "system": "CCTV coverage and planned safe-city CCTV",
+      "country_label": "CCTV coverage; safe city CCTV coverage",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Ministry of Safety and Security",
+      "tiers": "deployed to some facilities; safe-city coverage for the rest of the country awaits resources, under the Ministerial Strategic Plan"
+    }
+  ],
+  "note": "The minister's vote speech of 13 April 2018 names E-Policing without saying what it does, so it cannot be classed and gives no fact. What it does state: E-Policing and N-ABIS rolled out to most crucial infrastructures, and N$64,240,000 sought for the Information and Communication Technology programme in 2018/19, a domestic budget line for the ministry's ICT as a whole and not for E-Policing by name."
+}

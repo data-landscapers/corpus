@@ -1,0 +1,15 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS",
+      "country_label": "future WAPIS data collection and registration centre (DACORE)",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "INTERPOL programme funded by the European Union (11th European Development Fund); Gambia's Minister of the Interior attended the handover",
+      "tiers": "Not yet in use: The Gambia joined in November 2017 and signed the memorandum of understanding; workstations, scanners and servers were handed over on 3 July 2019 to start digitising paper-based police data; premises for the centre found and being refurbished, inauguration expected at the end of 2019; first training in August 2019"
+    }
+  ],
+  "note": "For The Gambia the newsletter reports the equipment handover, the premises and the first training, ahead of any use; it does not say that stations enter reports or cases in the system, so no fact of class record. This is the English edition of the document at n 32."
+}

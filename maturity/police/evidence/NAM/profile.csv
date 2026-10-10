@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NAM,record,governance,qualifier,,,,,nothing held
-NAM,record,records,coverage,,,,,nothing held
-NAM,record,made,coverage,,,,,nothing held
+NAM,record,records,coverage,none,2022,NAM-004,,nothing dated since 2023-09-28
+NAM,record,made,coverage,paper,2022,NAM-003,,nothing dated since 2023-09-28
 NAM,record,last12,qualifier,,,,,nothing held
 NAM,record,stations,coverage,,,,,nothing held

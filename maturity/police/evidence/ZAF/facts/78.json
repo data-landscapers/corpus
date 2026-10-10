@@ -1,0 +1,15 @@
+{
+  "slug": "2019-01-01-zaf-mec-albert-fritz-on-e-docket-software-not-being-effectively-used-by-sa",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "stations", "value": "equipped:80%", "fact": "The Western Cape Minister of Community Safety states that in 2017 the Integrated Case Docket Management System had been rolled out to 1153 or 80% of SAPS stations nationally (the 80% implies a total of about 1441 stations, which the statement does not give); the figure is of rollout, not of stations recording.", "as_of": "2017", "date_precision": "year", "system": "Integrated Case Docket Management System (ICDMS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "The statement says the ICDMS generates e-dockets, used mainly by detectives, and manages criminal cases, inquests and enquiries from when they are opened to when they are closed; the provincial assessment of July to September 2019 found it not effectively used at 11 Western Cape stations, with 72.7% of detectives not fully trained to use it.", "as_of": "2019-09", "date_precision": "month", "system": "Integrated Case Docket Management System (ICDMS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The statement describes the ICDMS as a system of the South African Police Service, implemented in SAPS stations and in courts.", "as_of": "2017", "date_precision": "year", "system": "Integrated Case Docket Management System (ICDMS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:not-stated", "fact": "The Western Cape Minister of Community Safety gives the total cost of implementing ICDMS in SAPS stations and courts as R613.5 million in 2017, without naming the source of the money.", "as_of": "2017", "date_precision": "year", "system": "Integrated Case Docket Management System (ICDMS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Integrated Case Docket Management System (ICDMS)", "country_label": "ICDMS; e-docket", "class": "record", "platform": "", "owner": "South African Police Service", "tiers": "rolled out to 1153 or 80% of SAPS stations nationally in 2017"},
+    {"system": "ICDMS links to courts and other departments", "country_label": "ICDMS", "class": "exchange", "platform": "", "owner": "South African Police Service", "tiers": "rolled out to 509 of the 627 courts in 2017; intended to take information from Home Affairs, Social Development, Justice and the National Prosecuting Authority; in July to September 2019 none of 11 assessed Western Cape stations had linked it with Social Development or Justice"},
+    {"system": "Docket Archive Store (DAS)", "country_label": "Docket Archive Store", "class": "", "platform": "", "owner": "South African Police Service", "tiers": "stations; 62.9% of dockets reported lost in the DAS at the 11 assessed stations"}
+  ],
+  "note": ""
+}

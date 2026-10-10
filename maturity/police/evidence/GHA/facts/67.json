@@ -1,0 +1,12 @@
+{
+  "slug": "2022-01-01-gha-let-s-resource-case-tracking-system-lrc",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "stations", "value": "count:55", "fact": "The Legal Resources Centre's workshop report says 55 police stations and 3 prisons services are using the Case Tracking System, in seven regions (Greater Accra, Ashanti, Northern, Volta, Bono, Western, Eastern) and over 40 districts, and gives an unreconciled total of 757 user centres; no total of stations is given, and the date is the document's published year, a proxy.", "as_of": "2022", "date_precision": "year", "system": "Case Tracking System (CTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "The Legal Resources Centre's monitoring specialist says 2,475 cases were registered using the Case Tracking System from December 2021; the document does not say whether the figure is national or the Volta Region's, and the date is its published year, a proxy.", "as_of": "2022", "date_precision": "year", "system": "Case Tracking System (CTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "The document says 104 laptops, 95 tablets and 93 connectivity units were given out in the Volta Region to run the Case Tracking System application, and that inconsistent use and poor internet access hinder it in all six justice centre institutions of South Dayi, Adaklu, Hohoe, Ketu South, Ho and Ketu North; it does not say in terms that the entry is made online, and the date is its published year, a proxy.", "as_of": "2022", "date_precision": "year", "system": "Case Tracking System (CTS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Case Tracking System (CTS)", "country_label": "Case Tracking System (CTS); CTS application", "class": "record", "platform": "application run on laptops and tablets", "owner": "not stated; the workshop was run by the Legal Resources Centre with the USAID Justice Sector Support Activity", "tiers": "seven regions and over 40 metropolitan, municipal and district areas; 55 police stations and 3 prisons services, with a stated total of 757 user centres"}
+  ],
+  "note": "The event is undated: the published date is a year-only proxy and the body counts cases from December 2021. The made fact rests on equipment and internet, not on a statement of online entry."
+}

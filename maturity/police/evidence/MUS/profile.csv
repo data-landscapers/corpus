@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MUS,record,governance,qualifier,owner:ministry,2025-06-17,MUS-005,,"not stated: plan, finance"
-MUS,record,records,coverage,O;C,2025-06-17,MUS-002;MUS-007,,
-MUS,record,made,coverage,connected,2025-06-17,MUS-003,,
-MUS,record,last12,qualifier,advancing,2025-06-17,MUS-006;MUS-009,,nothing dated since 2025-10-10
+MUS,record,records,coverage,O;C,2025-06-17,MUS-002;MUS-007,MUS-010=O,
+MUS,record,made,coverage,connected,2025-06-17,MUS-003;MUS-011,,
+MUS,record,last12,qualifier,advancing,2025-06-17,MUS-006;MUS-009,,nothing dated since 2025-09-28
 MUS,record,stations,coverage,equipped:100%,2025-06-17,MUS-004;MUS-008,,

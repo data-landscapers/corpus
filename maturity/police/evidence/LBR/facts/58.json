@@ -1,0 +1,15 @@
+{
+  "slug": "2025-08-28-lbr-lnp-trains-officers-on-upgraded-crime-reporting-platform",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Crime Statistics Information System (CSIS)",
+      "country_label": "Crime Statistics Information System (CSIS)",
+      "class": "statistics",
+      "platform": "DHIS2",
+      "owner": "Liberia National Police, Research and Planning Division; developed and implemented with UNDP Liberia",
+      "tiers": "43 Reporting Officers given a three-day refresher in Monrovia, August 2025; where they are posted is not stated"
+    }
+  ],
+  "note": "No fact: the document describes CSIS as collecting crime data in real time for crime statistics and trend analysis by the Inspector General, entered by Reporting Officers, which is the statistics class. A UNDP analyst calls it 'the digital case management system' in a speech, but nothing says a station enters a report or a case file in it. No count of stations is given."
+}

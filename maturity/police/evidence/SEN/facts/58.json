@@ -1,0 +1,36 @@
+{
+  "slug": "2025-10-02-sen-cooperation-ue-senegal-la-gendarmerie-presente-l-outil-arhip-pour-harm",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "Seneweb reports that on 2 October 2025 the Gendarmerie nationale held a workshop presenting and demonstrating ARHIP, a tool to help draft and harmonise proces-verbaux across services, to assess progress in its design and share the templates drawn up so far; how to put it into use in the units that draw up proces-verbaux was still under discussion, and the article does not state the tool's technical form.",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "ARHIP (outil d'Aide à la Rédaction et à l'Harmonisation Inter-services des Procédures judiciaires et administratives)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Seneweb reports that the Gendarmerie nationale hosted and presented the ARHIP tool on 2 October 2025, the workshop co-chaired by its Haut-commandant and the European Union ambassador, the tool having been initiated under phase 2 of the Programme Opérationnel Conjoint (POC II); the article does not say who pays for it.",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "ARHIP (outil d'Aide à la Rédaction et à l'Harmonisation Inter-services des Procédures judiciaires et administratives)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ARHIP",
+      "country_label": "outil d'Aide à la Rédaction et à l'Harmonisation Inter-services des Procédures judiciaires et administratives (ARHIP)",
+      "class": "record",
+      "platform": "",
+      "owner": "Gendarmerie nationale, under POC II with the European Union",
+      "tiers": "intended for the units of the security forces that draw up proces-verbaux (Gendarmerie, Police nationale, Customs); not yet in use"
+    }
+  ],
+  "note": "Classed record on the document's description (a tool for drafting proces-verbaux in units); the document does not say whether the proces-verbal is held as a digital record or printed, so no records or made fact is given."
+}

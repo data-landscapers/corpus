@@ -1,0 +1,15 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System (WAPIS)",
+      "country_label": "WAPIS; future WAPIS data collection and registration centre (DACORE)",
+      "class": "",
+      "platform": "WAPIS, implemented by INTERPOL",
+      "owner": "INTERPOL programme, funded by the European Union (11th EDF); Liberia signed the memorandum of understanding with INTERPOL, among the first to do so",
+      "tiers": "Liberia joined in November 2017. A first batch of equipment (workstations, scanners, servers) was handed over in Liberia on 5 July 2019 to start digitising paper-based police data; premises for the future national centre were found and being refurbished, with inauguration expected at the end of 2019; first training delivered in August or early September 2019. No centre operating and no station named."
+    }
+  ],
+  "note": "No fact: for Liberia the newsletter reports a donation of equipment and a centre not yet opened, to digitise existing paper police data; it does not say that any station enters reports or cases in the system, so it is unclassified. English edition of the same issue as document 61."
+}

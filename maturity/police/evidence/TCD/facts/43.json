@@ -1,0 +1,23 @@
+{
+  "slug": "2024-12-01-ben-lettre-dinformation-sipao-numero-25-26-decembre-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière du Tchad (SIPT)",
+      "country_label": "SIPT",
+      "class": "",
+      "platform": "SIPAO/WAPIS programme, implemented by INTERPOL",
+      "owner": "INTERPOL project funded by the European Union, extended on 9 July 2024 at no cost to 31 December 2025; hosted by the national data collection and registration centre (DACORE, also called CREDOP), whose director and deputy are appointed by national texts",
+      "tiers": "centre in N'Djamena under renovation from July 2024 for six months; deployment of system extensions and installation of IT equipment set as objectives on 23 April 2024; more than a hundred police and gendarmerie officers trained to use SIPT between 2019 and 2023; no station or unit named as using it"
+    },
+    {
+      "system": "AFIS",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "supplier selected in June 2024, not named",
+      "owner": "INTERPOL AFIS project under the SIPAO programme; police technique et scientifique of the police and the gendarmerie",
+      "tiers": "deployment began July 2024, to last 11 months and finish in the second quarter of 2025; 41 forensic technicians trained in August 2024"
+    }
+  ],
+  "note": "No fact: the newsletter describes SIPT by its legal texts, its centre's renovation, training and the fingerprint component, and never says what is entered in it or that a station enters reports or cases, so the system has no class. For the parent: a domestic budget line for SIPT was still being prepared with INTERPOL's support in December 2024, the data processing was certified by ANSICE on 29 January 2024, and the memorandum of understanding was signed during a visit of 9 to 12 January 2024."
+}

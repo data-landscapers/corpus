@@ -1,0 +1,17 @@
+{
+  "slug": "2026-10-03-bfa-jeppc-2026-le-ministre-sana-presente-les-acquis-dans-la-modernisation",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "The Minister of Security, presenting his department's results for 2022-2026 on 2 October 2026, listed the dematerialisation of certain working tools, notably the main courante (occurrence book) and SYGESS, among what has been achieved; the report gives no count of stations using it and does not say how the entry is made.", "as_of": "2026-10-02", "date_precision": "day", "system": "main courante dématérialisée", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The dematerialisation of the main courante is presented by the Minister of Security on 2 October 2026 as an achievement of the Ministry of Security itself over 2022-2026; no partner, vendor or source of finance is named.", "as_of": "2026-10-02", "date_precision": "day", "system": "main courante dématérialisée", "class": "record"}
+  ],
+  "systems": [
+    {"system": "main courante dématérialisée", "country_label": "dématérialisation de la main courante", "class": "record", "platform": "", "owner": "Ministère de la Sécurité", "tiers": "not stated"},
+    {"system": "SYGESS", "country_label": "SYGESS", "class": "", "platform": "", "owner": "Ministère de la Sécurité", "tiers": "named as a dematerialised working tool, not described"},
+    {"system": "Alerte BCLCC", "country_label": "plateforme Alerte BCLCC", "class": "", "platform": "", "owner": "Ministère de la Sécurité; Brigade centrale de lutte contre la cybercriminalité", "tiers": "named as a platform launched, not described"},
+    {"system": "Alerte Laabal", "country_label": "plateforme Alerte Laabal", "class": "", "platform": "", "owner": "Ministère de la Sécurité; Brigade Laabal", "tiers": "named as a platform, not described"},
+    {"system": "S24/7", "country_label": "concept S24/7", "class": "surveillance", "platform": "", "owner": "Ministère de la Sécurité", "tiers": "links video protection, Police secours and the BAC; places not stated"},
+    {"system": "Operations centres of the Police nationale, the Gendarmerie nationale and the ministry (CCO/MSECU)", "country_label": "centres des opérations; Centre de Coordination des Opérations du ministère de la Sécurité (CCO/MSECU)", "class": "surveillance", "platform": "", "owner": "Ministère de la Sécurité, Police nationale, Gendarmerie nationale", "tiers": "one each for the police, the gendarmerie and the ministry, made operational in 2022-2026"},
+    {"system": "vidéoverbalisation and e-contravention", "country_label": "vidéoverbalisation; e-contravention", "class": "single-function", "platform": "", "owner": "Ministère de la Sécurité", "tiers": "stated as generalised, under road safety"}
+  ],
+  "note": ""
+}

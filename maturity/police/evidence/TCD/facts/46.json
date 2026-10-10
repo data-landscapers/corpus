@@ -1,0 +1,15 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System (WAPIS)",
+      "country_label": "WAPIS",
+      "class": "",
+      "platform": "WAPIS/SIPAO, implemented by INTERPOL",
+      "owner": "INTERPOL programme funded by the European Union; premises for the DACORE allocated by the authorities in Chad",
+      "tiers": "as of August 2019: scanning stations rolled out in Chad, the premises for the national centre (DACORE) refurbished and awaiting servers in the next few weeks; no unit named and no entry of data reported"
+    }
+  ],
+  "note": "No fact: Chad has one sentence, in the head of programme's conclusion, on scanning stations rolled out and the centre's premises awaiting servers in August 2019; nothing says what the system records or that a station enters reports or cases, so it has no class. English edition of the same issue as file 45."
+}

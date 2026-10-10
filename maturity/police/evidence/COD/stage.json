@@ -1,0 +1,19 @@
+{
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "1",
+      "governance": "",
+      "records": "",
+      "made": "paper",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-003;COD-004",
+      "gaps": "The placing rests on two statements of March 2023, more than three years before the as-at: police documents are typed or handwritten on paper and a statement must by law be written out and signed. Neither says in terms that no digital system exists, and nothing since is held on any system for stations, on governance or on the last twelve months. COD-001 and COD-002 are from the excluded source and set nothing.",
+      "note": "Two dated statements give the station's record as paper across the country, a typed and printed statement being paper under the study's test. Stage 2 needs a named system prepared, piloted or running at headquarters, and no row shows one."
+    }
+  ]
+}

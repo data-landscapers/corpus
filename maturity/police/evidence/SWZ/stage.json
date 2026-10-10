@@ -1,0 +1,19 @@
+{
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "records": "C",
+      "made": "paper",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-006",
+      "gaps": "No fact says any station enters cases in the IECMS: police trainers were trained in August 2025 and no station, region or go-live is named. The owner is the Ministry of Justice, not the police's own ministry; plan and finance are not stated. Paper recording is dated 2025 at two One Stop Centres only, not stations nationally. The training falls just outside the twelve months, and no fact shows the police case file passing digitally to the court.",
+      "note": "Police officers trained in August 2025 to enter new cases and dockets in the IECMS is a dated act of preparation on a named system inside 36 months. Rung 3 needs the system live in stations outside the capital, and no station is shown entering."
+    }
+  ]
+}

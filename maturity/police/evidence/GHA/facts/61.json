@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-20-gha-igp-yohuno-outlines-digital-future-for-ghana-police-with-ai-and-real-t",
+  "facts": [],
+  "systems": [
+    {"system": "District Police Information Management System (DPIMS)", "country_label": "District Police Information Management System (DPIMS)", "class": "", "platform": "", "owner": "Ghana Police Service", "tiers": "not stated; cited by the Inspector-General as a current technological initiative"},
+    {"system": "Forensic laboratories", "country_label": "improved forensic laboratories", "class": "identification", "platform": "", "owner": "Ghana Police Service", "tiers": "not stated"},
+    {"system": "Real-Time Crime Centre", "country_label": "Real-Time Crime Centre", "class": "surveillance", "platform": "", "owner": "Ghana Police Service", "tiers": "planned launch announced; not in service"},
+    {"system": "AI-powered crime prediction platform", "country_label": "AI-powered crime prediction platform", "class": "", "platform": "", "owner": "Ghana Police Service", "tiers": "planned launch announced; not in service"},
+    {"system": "Mobile app for reporting crimes and receiving police updates", "country_label": "mobile app", "class": "public", "platform": "", "owner": "Ghana Police Service", "tiers": "in development; not in service"}
+  ],
+  "note": "The Inspector-General names the District Police Information Management System as a current initiative without saying what it does or where it runs; everything else named is of a noted class or a plan."
+}

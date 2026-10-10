@@ -1,0 +1,19 @@
+{
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "unplaced",
+      "governance": "",
+      "records": "none",
+      "made": "paper",
+      "last12": "",
+      "stations": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The statement of absence is from 2014 and covers the commissariats of Pointe-Noire and Nkayi only; nothing is held on Brazzaville, on the rest of the country or on the gendarmerie beyond one brigade, and nothing dated since. Governance and the last twelve months are not established. Parent ruling: the absence rests on a 2014 survey of two towns (Pointe-Noire and Nkayi), which does not carry the country; stage 1 is a claim and is not made on it.",
+      "note": "Parent ruling: the absence rests on a 2014 survey of two towns (Pointe-Noire and Nkayi), which does not carry the country; stage 1 is a claim and is not made on it."
+    }
+  ]
+}

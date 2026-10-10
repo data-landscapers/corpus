@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-dji-gendarmerie-nationale-de-djibouti",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Fichier automatisé des Empreintes digitales",
+      "country_label": "Fichier automatisé des Empreintes digitales",
+      "class": "identification",
+      "platform": "",
+      "owner": "Gendarmerie nationale de Djibouti; the replacement wholly financed by France's DCSD",
+      "tiers": "the brigade d'investigations criminelle of the Section de Recherches et de Documentation; the file set up in 2004 is called obsolete and a new one was due to be installed in 2022"
+    }
+  ],
+  "note": "No fact: the fiche names no system in which brigades record reports or cases; it gives the gendarmerie's territorial brigades (13 listed in seven companies, a further Balbala brigade begun in September 2021) and four police commissariats at Tadjourah, Obock, Ali-Sabieh and Dikhil, with only a fingerprint file as an information system."
+}

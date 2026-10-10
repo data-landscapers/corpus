@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ZWE,record,governance,qualifier,owner:ministry;plan:current,2026-10-08,ZWE-004;ZWE-005,ZWE-010=owner:ministry,not stated: finance
+ZWE,record,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-10-08,ZWE-004;ZWE-005;ZWE-013,ZWE-010=owner:ministry;ZWE-011=plan:current;ZWE-012=owner:ministry;ZWE-016=plan:current;ZWE-017=owner:ministry;ZWE-018=finance:domestic,
 ZWE,record,records,coverage,O,2026-10-08,ZWE-002,,
-ZWE,record,made,coverage,,,,,nothing held
+ZWE,record,made,coverage,paper,2021-12-16,ZWE-014,,nothing dated since 2023-09-28
 ZWE,record,last12,qualifier,advancing,2026-10-08,ZWE-003,,
-ZWE,record,stations,coverage,pilot,2026-10-08,ZWE-001,ZWE-009=none,
+ZWE,record,stations,coverage,pilot,2026-10-08,ZWE-001;ZWE-015,ZWE-009=none,

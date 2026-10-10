@@ -1,0 +1,8 @@
+{
+  "slug": "2019-12-27-cog-commandement-des-forces-de-police",
+  "facts": [],
+  "systems": [
+    {"system": "centre d'appels d'urgence de la police", "country_label": "centre d'appels d'urgence de la police", "class": "", "platform": "", "owner": "Commandement de la sécurité publique, Commandement des forces de police", "tiers": ""}
+  ],
+  "note": "The ministry's summary of Décret 2019-376 lists the police command's organisation only: a transmissions and IT directorate, an information-processing division in the general staff, an archiving and information-processing division and Interpol and Afripol bureaux in the judicial police command. It names no system in which a station records a report or a case and describes none; the emergency call centre is named with no description of what it does."
+}

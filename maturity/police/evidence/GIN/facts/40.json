@@ -1,0 +1,8 @@
+{
+  "slug": "2019-12-01-gin-annuaire-statistique-de-la-police-et-de-la-protection-civile-2018",
+  "facts": [],
+  "systems": [
+    {"system": "Annuaire statistique de la police et de la protection civile", "country_label": "Annuaire statistique de la police et de la protection civile 2018", "class": "statistics", "platform": "", "owner": "Ministère de la Sécurité et de la Protection Civile, Bureau de Stratégie et de Développement; published with the EU-funded PARFSE project", "tiers": "counts compiled per central directorate, regional police directorate, commissariat central de police and special commissariat (complaints registered, procès-verbaux drawn up, crimes and offences recorded, 2012-2018)"}
+  ],
+  "note": "No record-class fact: the passages are the ministry's statistical yearbook (tables of staff, equipment and yearly counts of complaints, procès-verbaux and offences by structure) and name no system in which a station records a report or case. Enabling only: table 44 counts operational computers, 40 across the commissariats centraux de police in 2018 (24 in 2016, 32 in 2017), 10 in the regional directorates and 0 in the road-prevention commissariats; the method note says archives were unavailable in some structures after moves or the ransacking of commissariats. Passages file read to its end; it holds term-bearing paragraphs only, of 44,816 words."
+}

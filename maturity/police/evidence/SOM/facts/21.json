@@ -1,0 +1,44 @@
+{
+  "slug": "2021-08-12-som-puntland-state-police-enhance-their-information-management-system-with",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "EUCAP Somalia reports handing IT equipment to the Puntland State Police so that computer stations can be set up in Puntland's nine regional CID offices and connected to a database server at CID headquarters in Garowe to exchange criminal reports, statistics and intelligence; the system was still to be installed (the document gives no date for the handover, so its published date, itself a proxy, is used).",
+      "as_of": "2021-08-12",
+      "date_precision": "day",
+      "system": "Puntland State Police Information Management System (CID database)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "EUCAP Somalia states that it donated the IT equipment for the Puntland State Police's Information Management System and that its advisers would go on developing training for its setup and use; no domestic funding is mentioned (published date used, the document giving none for the handover).",
+      "as_of": "2021-08-12",
+      "date_precision": "day",
+      "system": "Puntland State Police Information Management System (CID database)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Puntland State Police Information Management System (CID database)",
+      "country_label": "Information Management System",
+      "class": "record",
+      "platform": "computer stations in regional CID offices linked to a database server at CID headquarters",
+      "owner": "Puntland State Police (Criminal Investigation Department), with equipment and advice from EUCAP Somalia",
+      "tiers": "planned: nine regional CID offices and CID headquarters, Garowe; a federal member state's police, not the federal force"
+    },
+    {
+      "system": "Planned link from Puntland CID to the INTERPOL National Central Bureau, Mogadishu",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Puntland State Police",
+      "tiers": "a stated goal once the system is installed"
+    }
+  ],
+  "note": "Classed record on the document's words (regional CID offices exchanging criminal reports with a headquarters database), but the document also describes it as a flow of statistics and intelligence, the units are regional CID offices rather than stations taking reports from the public, and the force is Puntland's state police: the parent should weigh whether it is record or statistics and whether a state force counts."
+}

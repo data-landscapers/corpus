@@ -1,0 +1,19 @@
+{
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "unplaced",
+      "governance": "owner:vendor",
+      "records": "C",
+      "made": "",
+      "last12": "no-change",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only system held, BEMA, is a vendor's design presented at a Libreville seminar on 10 January 2026, with no adoption by the police, the gendarmerie or a ministry and no station using it; the C is what the design would record, not a record made. The one statement that stations record on paper comes from the excluded source (GAB-001, GAB-002), so no dated statement of absence is held. Plan, finance, how the record is made and stations are not stated.",
+      "note": "Not rung 2: a vendor's presentation is not a dated act of preparation on a system the force has taken up. Not rung 1: the paper-only statement is from the excluded source alone."
+    }
+  ]
+}

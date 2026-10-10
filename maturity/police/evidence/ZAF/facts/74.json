@@ -1,0 +1,68 @@
+{
+  "slug": "2025-04-04-zaf-annual-performance-plan-2025-2026",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "equipped:68%",
+      "fact": "The SAPS Service Delivery Improvement Plan in the 2025/26 Annual Performance Plan gives as baseline that 68% (789 of 1 160) of police stations sent SMS bundles giving complainants feedback on a case docket through the ICDMS functionality, under National Instruction 13 of 2017 on case docket management, with a target of 68% (796 of 1 170); the table column is headed baseline year 2023/2024, and the figure counts stations using this ICDMS function, not stations registering dockets.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "ICDMS",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The SAPS Annual Performance Plan 2025/26, tabled 4 April 2025, lists among its information systems deliverables for 2025 to 2030 the enhancement of case docket management, for case workflow, user profiles, audit trails and keeping complainants informed, with a 2025/26 deliverable of 50% functionality integration; the system is not named in that table.",
+      "as_of": "2025-04-04",
+      "date_precision": "day",
+      "system": "case docket management (ICDMS elsewhere in the plan)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The SAPS Annual Performance Plan 2025/26, tabled 4 April 2025, carries the case docket management enhancement as SAPS's own information systems deliverable and governs ICDMS use by SAPS National Instruction 13 of 2017; it names dependence on third parties such as SITA as a risk.",
+      "as_of": "2025-04-04",
+      "date_precision": "day",
+      "system": "ICDMS",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The SAPS Annual Performance Plan 2025/26 funds its IS/ICT deliverables from Programme 1 of Vote 28, with R2,998 billion for Technology Management Services and R2 863,0 million for computer services in 2025/26; no budget line names the case docket system.",
+      "as_of": "2025-04-04",
+      "date_precision": "day",
+      "system": "case docket management (ICDMS elsewhere in the plan)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "ICDMS", "country_label": "ICDMS", "class": "record", "platform": "", "owner": "SAPS", "tiers": "police stations: 789 of 1 160 sent SMS feedback on case dockets through it (baseline)"},
+    {"system": "Crime Administration System", "country_label": "CAS", "class": "", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Integrated Persons Management (IPM) System", "country_label": "IPM", "class": "identification", "platform": "", "owner": "SAPS", "tiers": "police stations: 31 estimated for 2024/25; targets 92 in 2025/26, 124 in 2026/27, 400 in 2027/28"},
+    {"system": "Automated Fingerprint Identification System", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Criminal Record System", "country_label": "CRIM", "class": "identification", "platform": "", "owner": "SAPS Criminal Record Centre", "tiers": "national, provincial and district (Local Criminal Record Centres)"},
+    {"system": "Automated Ballistic Information System / Integrated Ballistics Identification System", "country_label": "ABIS / IBIS", "class": "identification", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "National Forensics DNA Database", "country_label": "NFDD", "class": "identification", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Laboratory Information Management System", "country_label": "LIMS", "class": "identification", "platform": "", "owner": "SAPS Forensic Science Laboratory", "tiers": "four laboratories; chemistry modules to all regions in 2025/26"},
+    {"system": "Firearm Control Management System", "country_label": "Firearm Control Management System", "class": "single-function", "platform": "", "owner": "SAPS", "tiers": "release 1 tested by 31 March 2025; releases 1 and 2 to prioritised sites in 2025/26"},
+    {"system": "Central Firearms Register", "country_label": "CFR", "class": "", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "second-hand goods dealers registration system", "country_label": "system to register and manage second-hand goods dealers", "class": "single-function", "platform": "", "owner": "SAPS", "tiers": "pilot of phases 1 and 2 in Gauteng planned for 2025/26"},
+    {"system": "National Key Points management system", "country_label": "system to manage National Key Points", "class": "single-function", "platform": "", "owner": "SAPS", "tiers": "five modules in development"},
+    {"system": "incident management system for 10111 centres", "country_label": "incident registration, management and dispatch; 10111 Command Centres", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "20 10111 centres in 2025/26"},
+    {"system": "CCTV at police stations", "country_label": "CCTV", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "45 sites 2022/23, 100 sites 2023/24, 44 estimated 2024/25; target 104 in 2025/26"},
+    {"system": "body-worn cameras, vehicle dashboard cameras, drones, ANPR", "country_label": "new mobile technologies", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "217 items in 2025/26: 100 body-worn cameras, 100 dashboard cameras, 17 drones"},
+    {"system": "National Network Upgrade Programme (WAN sites)", "country_label": "NNUP; National Network Communication Infrastructure sites", "class": "enabling", "platform": "", "owner": "SAPS, with SITA", "tiers": "94 WAN sites 2021/22, 118 in 2022/23, 191 in 2023/24, 50 estimated 2024/25; target 93 in 2025/26"},
+    {"system": "end-user devices", "country_label": "notebooks, desktops, scanners", "class": "enabling", "platform": "", "owner": "SAPS", "tiers": "2025/26: 263 notebooks, 979 desktops, 77 scanners"},
+    {"system": "MySAPS App", "country_label": "SAPS Mobile Application / MySAPSApp", "class": "", "platform": "", "owner": "SAPS", "tiers": "phases 5 and 6 planned"},
+    {"system": "Rate our Service", "country_label": "Rate our Service", "class": "", "platform": "", "owner": "SAPS", "tiers": ""},
+    {"system": "Integrated Justice System", "country_label": "IJS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages only. The plan gives no count of stations registering dockets digitally; the one ICDMS station figure is the SMS-feedback share, recorded as equipped. The station total is 1 160 at baseline and 1 170 as the 2025/26 target denominator. The risk register names 'inadequate distribution of IT resources in rural areas' and ageing IT infrastructure as root causes, with no figure. Standing Order (General) 301, registers, books and forms, is listed for review from 2025/26."
+}

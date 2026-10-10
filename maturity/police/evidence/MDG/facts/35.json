@@ -1,0 +1,23 @@
+{
+  "slug": "2025-06-11-mdg-undp-mdg-00611-cabinet-pour-le-developpement-et-le-deploiement-de-logi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Fichier central",
+      "country_label": "Fichier central",
+      "class": "identification",
+      "platform": "designed and developed in house by technicians of the Gendarmerie nationale",
+      "owner": "Gendarmerie nationale, Direction de la Police Judiciaire",
+      "tiers": "at the Direction de la Police Judiciaire only, stated as now set up; described as a secure mechanism to record, save and process all data on the results of judicial police actions; it does not yet handle fingerprints; no brigade is said to enter anything in it"
+    },
+    {
+      "system": "Logiciel de suivi des dossiers judiciaires dans le domaine de la police technique et scientifique",
+      "country_label": "logiciel de suivi des dossiers judiciaires (police technique et scientifique)",
+      "class": "identification",
+      "platform": "to be developed by a firm recruited under UNDP notice UNDP-MDG-00611",
+      "owner": "for the Gendarmerie nationale; procured and financed by UNDP Madagascar under its rule-of-law initiation plan",
+      "tiers": "not yet built at the notice's date: planned functions are central files, wanted, desertion, firearm and fingerprint records, an automated fingerprint file (FAED), latent and palm prints, facial recognition and line-ups, control of foreigners, a person's history by type of offence, and a dashboard of statistics"
+    }
+  ],
+  "note": "No fact: both systems are files on persons, prints and wanted notices held centrally, the identification class, and the notice does not say a brigade records a report or case digitally. Two statements the parent may want: the notice says the majority of the gendarmerie's brigades and research units still use 'archaic' methods in judicial police work for lack of means, without saying paper; and the Fichier central's description as recording all data on the results of judicial police actions could be read wider than identification. The notice's day, 2025-06-11, is a proxy."
+}

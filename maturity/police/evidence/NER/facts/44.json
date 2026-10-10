@@ -1,0 +1,47 @@
+{
+  "slug": "2022-12-01-mli-sipao-lettre-d-information-numero-21",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'information policière pour l'Afrique de l'Ouest (SIPAO)",
+      "country_label": "système SIPAO national; Centre de recueil et d'enregistrement des données (DACORE)",
+      "class": "",
+      "platform": "SIPAO / WAPIS",
+      "owner": "Programme funded by the European Union (EUR 52 million cumulated since 2012) and implemented by INTERPOL with the ECOWAS Commission; EUCAP Sahel has trained Niger's users since March 2018",
+      "tiers": "A national data centre: the newsletter says 14 of 16 beneficiary countries have an operational DACORE that collects, centralises and records police data daily (Liberia and Mali the two without), and that extension beyond the DACORE in the capital, and beyond the capital, is a 2023 priority; in Niger, 13 DACORE staff trained 17 October to 4 November 2022 and 19 users trained on data protection 15 to 19 August 2022; awareness session for investigators of the National Police, Gendarmerie and National Guard in Niamey"
+    },
+    {
+      "system": "SIPAO extension to the courts",
+      "country_label": "extension du système SIPAO aux tribunaux",
+      "class": "exchange",
+      "platform": "SIPAO / WAPIS",
+      "owner": "Supported by UNDP's country office",
+      "tiers": "Planned: judges, prosecutors and clerks to be connected so that they can consult and enter data such as arrest warrants and final court decisions"
+    },
+    {
+      "system": "MIDAS (Migration Information and Data Analysis System)",
+      "country_label": "MIDAS",
+      "class": "border",
+      "platform": "MIDAS (IOM)",
+      "owner": "IOM",
+      "tiers": "Eight border posts connected to MIDAS; a first connection between MIDAS and the national SIPAO, letting the posts query the national database, was being finalised in late 2022"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24/7",
+      "class": "exchange",
+      "platform": "I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "Niger is one of five countries whose SIPAO users can query INTERPOL's global databases from their workstation (with Côte d'Ivoire, Ghana, Mauritania and Togo)"
+    },
+    {
+      "system": "AFIS",
+      "country_label": "AFIS existant",
+      "class": "identification",
+      "platform": "",
+      "owner": "AFIS project of INTERPOL and CIVIPOL, EU-funded (EUR 5 million, 2022-2024, per this issue)",
+      "tiers": "Niger is listed among the countries whose existing AFIS is to be strengthened in a second phase (steering committee of 21 July 2022)"
+    }
+  ],
+  "note": "For Niger the newsletter reports partnerships, training and links around a national centre; it does not say that stations or brigades enter their reports or cases in SIPAO, so the typology gives the system no class and it yields no fact."
+}

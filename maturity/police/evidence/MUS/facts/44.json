@@ -1,0 +1,12 @@
+{
+  "slug": "2021-01-01-mus-force-annual-policing-plan-2021",
+  "facts": [],
+  "systems": [
+    {"system": "Crime Occurrence Tracking System (COTS)", "country_label": "Crime Occurrence Tracking System (COTS)", "class": "", "platform": "", "owner": "Mauritius Police Force", "tiers": "used 'for an average of 30%' in Divisions in August 2020 and over 80% in December 2020; more than 10,000 officers trained; target of 100% usage/completion by end of March 2021; Crime Records Office, Traffic and NTA databases to be migrated or integrated by April 2021"},
+    {"system": "Automated Fingerprint Identification System (AFIS)", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "Mauritius Police Force", "tiers": "to be introduced by end of 2021"},
+    {"system": "Online Application for Certificate of Character", "country_label": "Online Application for Certificate of Character", "class": "public", "platform": "", "owner": "Mauritius Police Force", "tiers": "to be introduced by December 2021"},
+    {"system": "SafeCity Project", "country_label": "SafeCity Project", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force", "tiers": "island-wide target; Sub-Command Centres at divisional level by March 2021; Station Monitoring Bays in station areas for live CCTV"},
+    {"system": "Panic Button", "country_label": "Panic Button", "class": "public", "platform": "", "owner": "Mauritius Police Force", "tiers": "requests from victims of gender-based violence located within 2 minutes and dispatched to stations within 3"}
+  ],
+  "note": "The plan names COTS and gives its usage figures (30% of Divisions' use in August 2020, over 80% in December 2020, 100% targeted by March 2021) but never says what the system does, so by the brief it is unclassified here and gives no fact; the figures are in the systems entry for the parent to use with a document that describes COTS."
+}

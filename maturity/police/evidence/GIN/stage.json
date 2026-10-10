@@ -1,0 +1,19 @@
+{
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "unplaced",
+      "governance": "",
+      "records": "C",
+      "made": "",
+      "last12": "",
+      "stations": "count:10",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Every usable fact is dated 31 March 2021: ten police and gendarmerie units of Greater Conakry equipped with the SIPAO kit, with no total of units and no statement that any was entering records, and the digitising of procès-verbaux stated as an intention (C is that intention, not a record made). Nothing dated inside 36 months of the as-at shows preparation, a pilot or a system running, and governance (ministry as owner, a 2021 budget line) falls outside its window. The paper-only statements come from the excluded source (GIN-001 to GIN-003), so no dated statement of absence is held.",
+      "note": "Not rung 2: the 2021 equipping is an act of preparation older than 36 months and the fact does not say the system ran, even in the capital. Not rung 1: the paper-only statement is from the excluded source alone."
+    }
+  ]
+}

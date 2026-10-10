@@ -1,0 +1,19 @@
+{
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "unplaced",
+      "governance": "",
+      "records": "",
+      "made": "paper",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The one usable fact, from the Ombudsman's inspection begun in July 2023 and so older than three years, shows five named posts keeping registers and forms by hand; it does not say that stations record on paper only, nor what the other inspected stations do. No records system for stations is named in any evidence row, and nothing is held on governance, the records made, the stations or the last twelve months. The two rows stating paper recording nationwide are from the excluded source.",
+      "note": "Stage 1 needs a dated statement that stations record on paper only, and hand-made registers at a few posts lacking stationery is not that statement. Nothing held is a record system, in preparation or live, so no higher rung is open."
+    }
+  ]
+}

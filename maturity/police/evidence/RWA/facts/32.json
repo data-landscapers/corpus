@@ -1,0 +1,71 @@
+{
+  "slug": "2024-10-01-rwa-justice-reconciliation-law-order-sector-strategic-plan-2024-25-2028-29",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "country_label": "IECMS; E-Justice systems",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Justice (hosting, maintenance, upgrade and user training are MINIJUST lines); the Rwanda Investigation Bureau is responsible for the line 'Update IECMS by introducing E. signature and online complaint'",
+      "tiers": "Described only as having streamlined court processes; plan targets: 100% of IECMS upgraded and operationalised in 2024/25, hosted and maintained each year to 2028/29, training of trainers for 200 end users and training of 3,000 end users, RIB's e-signature and online-complaint update in 2025/26; also named as a sector reporting system"
+    },
+    {
+      "system": "RIB services through Irembo",
+      "country_label": "services provided by RIB through IREMBO",
+      "class": "public",
+      "platform": "Irembo",
+      "owner": "Rwanda Investigation Bureau",
+      "tiers": "Baseline 75% of RIB services provided through Irembo, target 100%"
+    },
+    {
+      "system": "Smart Police Services kiosks",
+      "country_label": "Kiosks of Smart Police Services",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministry of Interior and Rwanda National Police",
+      "tiers": "Baseline 0; 15 planned by 2028/29 (1, 3, 4, 3 and 4 a year); what the kiosks do is not described"
+    },
+    {
+      "system": "Traffic Enforcement Camera Project",
+      "country_label": "Traffic Enforcement Camera Project; Countrywide Road Safety Reinforcement Cameras",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Ministry of Interior and Rwanda National Police",
+      "tiers": "Implementation 54% at baseline (2022/23), target 79% by 2028/29"
+    },
+    {
+      "system": "Interpol coordination centre and dashboard",
+      "country_label": "Interpol coordination centre; dashboard at RIB Headquarters",
+      "class": "border",
+      "platform": "",
+      "owner": "Rwanda Investigation Bureau",
+      "tiers": "Constructed at RIB Headquarters; the dashboard 'controls all movements at all gazetted borders'"
+    },
+    {
+      "system": "ISANGE system for GBV cases",
+      "country_label": "ISANGE for GBVs cases",
+      "class": "single-function",
+      "platform": "",
+      "owner": "",
+      "tiers": "Named as developed, with Abunzi and MAJ MIS and Sobanuza Inkiko (mediation, legal aid and court-information systems outside the police field)"
+    },
+    {
+      "system": "Government Command Centre (GCC)",
+      "country_label": "Government Command Centre",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Named as the place the sector's key performance indicators are reported"
+    },
+    {
+      "system": "Rwanda Forensic Institute laboratories",
+      "country_label": "Rwanda Forensic Institute (RFI)",
+      "class": "identification",
+      "platform": "",
+      "owner": "Rwanda Forensic Institute",
+      "tiers": "Upgrade towards ISO accreditation, 65% at baseline to 100% by 2028/29; forensic services to be decentralised to three provinces"
+    }
+  ],
+  "note": "Read whole (99 pages, mostly indicator tables). The plan describes IECMS only as streamlining court processes and never says that police or RIB stations and posts enter reports or cases in it, so it has no class and gives no fact. If another document makes IECMS the record system, this is a current sector plan (October 2024, covering 2024/25 to 2028/29, RWF 921.1 billion in all, RWF 85.6 billion for the technology outcome) that names its upgrade; it also plans 1,421 investigators for RIB stations and posts and gives 33 district police units and police stations constructed at baseline, 58 targeted."
+}

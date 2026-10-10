@@ -1,0 +1,8 @@
+{
+  "slug": "2024-09-18-sdn-police-add-stolen-vehicle-inquiry-to-electronic-reporting-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Police electronic report platform", "country_label": "منصة البلاغ الالكتروني للشرطة", "class": "public", "platform": "", "owner": "Sudan Police Forces / Ministry of Interior", "tiers": "Citizens report online; to the day of the statement 43,960 missing-vehicle reports, 16,474 against property, 226 missing persons and 57 against the person; a stolen-vehicle inquiry feature added in September 2024"}
+  ],
+  "note": "No fact: the platform is a public reporting channel, a noted class. The police headquarters says the criminal case begins with a report made at the police stations spread across the country or through the platform, and does not say how a station records the report it takes."
+}

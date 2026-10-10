@@ -1,0 +1,39 @@
+{
+  "slug": "2019-08-01-ner-wapis-newsletter-no-12",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System (WAPIS)",
+      "country_label": "WAPIS programme; WAPIS centre (DACORE); remote sites",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "Programme set up by INTERPOL and financed by the European Union; the editorial is by the Director General of the Niger National Police",
+      "tiers": "Pilot country; DACORE inaugurated in September 2015; by August 2019 a training room and 100 operators trained, 26 sites established in the town of Niamey and connected to the DACORE, among them the Gendarmerie's central files division; planned, undated: an operating budget for the programme and expansion of the network to sites in the regions; the programme head says pilot countries' DACOREs give the capacity to collect, centralise and record police data and are expanding beyond the DACORE in the capital"
+    },
+    {
+      "system": "Automated Fingerprint Identification System (AFIS)",
+      "country_label": "AFIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "",
+      "tiers": "Already held by Niger in August 2019; work on linking it to WAPIS was to start in the coming weeks"
+    },
+    {
+      "system": "Gendarmerie central files",
+      "country_label": "Gendarmerie's central files division",
+      "class": "identification",
+      "platform": "",
+      "owner": "National Gendarmerie",
+      "tiers": "A WAPIS remote site in Niamey, visited on 11 June 2019"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24/7",
+      "class": "exchange",
+      "platform": "I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "Connection of the pilot countries' national systems planned by the end of 2019"
+    }
+  ],
+  "note": "English edition of newsletter no. 12 (French twin is n 46); same content. It gives 26 connected sites in Niamey and none in the regions as of August 2019, but calls them sites, names only the Gendarmerie's central files division, and does not say that police stations or brigades enter their reports or cases; so no class and no fact. The Kaneshie police station it mentions is Ghana's."
+}

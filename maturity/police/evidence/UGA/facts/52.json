@@ -1,0 +1,47 @@
+{
+  "slug": "2024-06-10-uga-experience-and-impact-of-digital-transformation-in-the-administration",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "The article states that the Uganda Police Force's Electronic Policing Information System, through which a crime case management system is being developed to manage all cases registered and investigated by the police from inception to conclusion countrywide, is in its design phase; no station is said to use it, and no date is given beyond the article's publication, 10 June 2024.",
+      "as_of": "2024-06-10",
+      "date_precision": "day",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The article states that the crime case management system being developed through ePIS is primarily owned by the Uganda Police Force's Directorate of Criminal Investigations, with stakeholders across the criminal justice chain taking part in the design; dated by the article's publication, 10 June 2024.",
+      "as_of": "2024-06-10",
+      "date_precision": "day",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The article names no budget line or funder for ePIS, and lists a shortage of resources for country-wide digital programmes among the justice institutions' prevailing challenges; dated by the article's publication, 10 June 2024.",
+      "as_of": "2024-06-10",
+      "date_precision": "day",
+      "system": "Electronic Policing Information System (ePIS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "Electronic Policing Information System (ePIS)", "country_label": "ePIS", "class": "record", "platform": "", "owner": "Uganda Police Force; the crime case management system owned by the Directorate of Criminal Investigations", "tiers": "design phase; intended for strategic, regional and district levels, countrywide"},
+    {"system": "Criminal Automated Biometrics Information System (CABIS)", "country_label": "CABIS", "class": "identification", "platform": "", "owner": "Uganda Police Force", "tiers": "initial rollout phase; also used to issue the certificate of good conduct"},
+    {"system": "Electronic Criminal Records Office (eCRO)", "country_label": "eCRO", "class": "identification", "platform": "", "owner": "Uganda Police Force, Directorate of Forensics", "tiers": "business processes documented; development and rollout outstanding"},
+    {"system": "Prosecution Case Management Information System (PROCAMIS)", "country_label": "PROCAMIS", "class": "exchange", "platform": "", "owner": "Office of the Director of Public Prosecutions", "tiers": "ODPP offices, rollout incomplete; holds the criminal cases submitted by the police; integration with ePIS not yet made, integration with ECCMIS ongoing through UG-Hub"},
+    {"system": "Electronic Court Case Management Information System (ECCMIS)", "country_label": "ECCMIS", "class": "exchange", "platform": "", "owner": "Judiciary", "tiers": "select pilot courts since 2021; data exchange with police officers envisaged"},
+    {"system": "Prisoner Management Information System (PMIS)", "country_label": "PMIS", "class": "", "platform": "", "owner": "Uganda Prisons Service", "tiers": "pilot in two prison facilities; integration with police systems only suggested"},
+    {"system": "National Security Information System (NSIS)", "country_label": "NSIS / National Identification Register", "class": "exchange", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "police, ODPP, courts and prisons verify identity through data exchange with NIRA"},
+    {"system": "e-immigration system", "country_label": "e-immigration system", "class": "border", "platform": "", "owner": "Directorate of Citizenship and Immigration Control, Ministry of Internal Affairs", "tiers": "borders; used by law enforcement in cross-border investigations"},
+    {"system": "I-24/7", "country_label": "Interpol's i-24/7 database", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "integration with CABIS planned"}
+  ],
+  "note": ""
+}

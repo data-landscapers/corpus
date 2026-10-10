@@ -1,0 +1,14 @@
+{
+  "slug": "2024-01-17-zwe-police-in-zimbabwe-looking-for-computerization-partner-kazembe",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "governance", "value": "plan:current", "fact": "The Home Affairs minister said on 17 January 2024 that computerisation of police operations, the ZRP Integrated Information System covering crime management, electronic traffic management, forensics and human resources, is part of the ministry's integrated ICT strategy approved by Cabinet in 2022 and a flagship of its 100-day cycle; the police had finished a needs assessment and were looking for a partner, which he expected within 2024.", "as_of": "2024-01-17", "date_precision": "day", "system": "ZRP Integrated Information System", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The minister presents the ZRP Integrated Information System as a programme of the Zimbabwe Republic Police and the Ministry of Home Affairs and Cultural Heritage, with a partner still to be chosen and cooperation with China raised with the Chinese ambassador on 17 January 2024.", "as_of": "2024-01-17", "date_precision": "day", "system": "ZRP Integrated Information System", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:not-stated", "fact": "The minister's statement of 17 January 2024 names no source of funds for the ZRP Integrated Information System, saying only that the police are open to partners.", "as_of": "2024-01-17", "date_precision": "day", "system": "ZRP Integrated Information System", "class": "record"}
+  ],
+  "systems": [
+    {"system": "ZRP Integrated Information System", "country_label": "ZRP Integrated Information System", "class": "record", "platform": "", "owner": "Zimbabwe Republic Police; Ministry of Home Affairs and Cultural Heritage", "tiers": "in preparation: needs assessment done, partner sought; no station named"},
+    {"system": "Online border management system", "country_label": "online border management system", "class": "border", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage; tender awarded to an unnamed company", "tiers": ""},
+    {"system": "e-passports and civil registry systems", "country_label": "e-passports; registry offices online", "class": "", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage, civil registry", "tiers": "registry offices countrywide being brought online"}
+  ],
+  "note": "The system is classed record on its 'crime management' component only: the article does not say stations will enter reports or cases in it, and the minister would not say how far computerisation had gone. No station count."
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NGA,record,governance,qualifier,,,,,nothing held
-NGA,record,records,coverage,,,,,nothing held
-NGA,record,made,coverage,,,,,nothing held
+NGA,record,records,coverage,none,2022-06,NGA-007,NGA-009=none;NGA-011=none,nothing dated since 2023-09-28
+NGA,record,made,coverage,paper,2022-06,NGA-006;NGA-008;NGA-010,,nothing dated since 2023-09-28
 NGA,record,last12,qualifier,,,,,nothing held
 NGA,record,stations,coverage,,,,,nothing held

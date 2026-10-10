@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-18-gha-ghana-committed-to-success-of-wapis-programme",
+  "facts": [],
+  "systems": [
+    {"system": "West African Police Information System (WAPIS)", "country_label": "WAPIS programme", "class": "", "platform": "WAPIS", "owner": "Ministry of the Interior for Ghana; programme supported by the European Union, with an INTERPOL delegation attending", "tiers": "not stated for Ghana; described generally as an electronic national police information system in which law enforcement authorities create, manage and share files on crimes and offences"}
+  ],
+  "note": "No fact: on 18 July 2024 the Minister of the Interior pledges that WAPIS will run effectively in Ghana, and the system is described in general terms only; the document never says that stations in Ghana enter their cases in it, nor where it is installed, so the class is left empty."
+}

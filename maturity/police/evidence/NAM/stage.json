@@ -1,0 +1,19 @@
+{
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "record",
+      "stage": "unplaced",
+      "governance": "",
+      "records": "none",
+      "made": "paper",
+      "last12": "",
+      "stations": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The statement of absence is from 2022 and from one region, Omusati, on 8 officers interviewed; nothing newer is held and nothing national. The force's E-Policing system, launched in 2014, is named in systems.csv with no source outside the excluded essay saying what it does or which stations use it, so it places nothing. No governance fact, no station count and nothing in the last twelve months. Parent ruling: the absence rests on a 2022 study of traffic-offence records in one region (Omusati), which is one function in one region and does not carry the country.",
+      "note": "Parent ruling: the absence rests on a 2022 study of traffic-offence records in one region (Omusati), which is one function in one region and does not carry the country."
+    }
+  ]
+}

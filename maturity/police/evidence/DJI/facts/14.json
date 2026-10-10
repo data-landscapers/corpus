@@ -1,0 +1,15 @@
+{
+  "slug": "2024-10-01-dji-ffdj-partenariat-informatique-avec-la-gendarmerie-nationale-djiboutien",
+  "facts": [],
+  "systems": [
+    {
+      "system": "IntraGend",
+      "country_label": "IntraGend",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Gendarmerie nationale djiboutienne; set up with two French military information-systems specialists on a mission of 1 to 22 October 2024",
+      "tiers": "headquarters (état-major) and its distant brigades, for messaging and file sharing"
+    }
+  ],
+  "note": "No fact: the document describes an internal network restoring messaging and file sharing between gendarmerie headquarters and its brigades, and training of the IT service; it states nothing about how brigades record reports or cases."
+}
