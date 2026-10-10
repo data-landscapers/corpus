@@ -77,7 +77,15 @@
       "subject": "digital.rural",
       "text": "Digitalisation of rural registry offices: civil registration",
       "indicator_id": "digital.rural--digitalisation-of-rural-registry-offices-civil-registration",
-      "class": "civil"
+      "class": "civil",
+      "criteria_of": "8291001c644d",
+      "criteria": [
+        "A dated source states that local civil registration offices register births and deaths on paper only. Scanning or keying old registers does not change this.",
+        "A system for local offices to register births digitally is being prepared or piloted, or one runs at the national office or in the capital only.",
+        "Births are entered digitally when they are registered, past any pilot, in some local offices; they are a minority, or no share of offices is published. A share of offices equipped or connected, however high, places here.",
+        "More than half of local offices enter births digitally at the office when they are registered, into the national register. The figure is a published share, or a count given with its total.",
+        "At least 90 per cent of local offices do so, for deaths as well as births, on a figure published within the past two years. The figure gives the share for rural offices."
+      ]
     }
   ],
   "classes": [
