@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-police.md — the fourth maturity study: rural police stations, as station records
 last_reviewed: 2026-10-10
-status: CC's proposal of 2026-10-10, for Bill's rulings; not yet run
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 under way
 ---
 
 # Maturity study: police — station records
@@ -98,7 +98,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is Corpus-defined: the AFRIPOL
 
 ## 7. Tasks, in order
 
-- [ ] **P1. Bill's rulings**, below.
+- [x] **P1. Bill's rulings**: the five proposals stand, 2026-10-10.
 - [ ] **P2. Review all 54 countries**, method §4.
 - [ ] **P3. Test and fix the ladder** on the profiles; read the norm's texts.
 - [ ] **P4. Search and hand over**, method §5.
@@ -106,7 +106,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is Corpus-defined: the AFRIPOL
 - [ ] **P6. Write, render and lint**, method §8.
 - [ ] **P7. Report to Bill.** Acceptance is his.
 
-**For Bill's rulings at P1**, each with CC's proposal taken unless he says otherwise:
+**The rulings of P1**, CC's proposals, which Bill ran without amendment:
 
 1. **Station records only**: the occurrence book and the case file. The rest is noted.
 2. **Only the rural row is redrawn**; `dpi.mis--justice` stands.
