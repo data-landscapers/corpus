@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 158
+sources_cited: 159
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -58,6 +58,8 @@ Payments are the second channel. [Namclear, the national clearing house, signed 
 Namibia's formal integration position is strong and improving: [regional integration is one of its ten most improved governance measures, up 14.8 points over 2014-2023 to 64.7 out of 100 and 4th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023), and [it ranks 6th of 54 for overall governance on 63.9, well above the African average of 49.3, though its own score has fallen 3.3 points since 2014 while that average rose](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023).
 
 Ambition is also being borrowed from the neighbourhood: [the ICT minister said in June 2026 that Angola's sovereign data centre in Luanda had encouraged Namibia's own data-centre ambitions](https://itweb.africa/article/namibia-encouraged-by-angola-on-datacentre-establishment/JN1gPvOA8oPMjL6m).
+
+[An assessment of the legal, regulatory and institutional framework against the continental Protocol on Digital Trade went to a validation workshop in Windhoek, reported 5 October 2026, to feed a national digital trade action plan](https://techreviewafrica.com/news/7567/x).
 
 ### Standards
 <!-- gov.standards -->

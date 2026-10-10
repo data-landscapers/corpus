@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 196
+sources_cited: 197
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -123,6 +123,8 @@ The plumbing underneath is thin: [one exchange point, CV-IXP in Praia, with five
 
 <!-- derived -->
 That 2026 penetration target sits well above where penetration actually stood at the end of 2025, and is out of reach on the current trajectory.
+
+[The national operator and an internet exchange operator signed a non-binding letter of intent, announced 29 September 2026, under which the operator would provide transport capacity between Lisbon and Sao Paulo in exchange for access to the exchange's services in five cities; a definitive agreement is still to come](https://www.de-cix.net/en/about-de-cix/media/press-releases/de-cix-and-cabo-verde-telecom-plan-new-south-atlantic-interconnection-corridor).
 
 ### Data Storage
 <!-- infra.store -->

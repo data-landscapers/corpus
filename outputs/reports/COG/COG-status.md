@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 140
+sources_cited: 141
 sections_written: 39
 not_established: 2
 acquire_lines: 35
@@ -181,6 +181,8 @@ The national tax payment rail went live before the Treasury account behind it. [
 For households the story is mobile money and only mobile money. [Adults holding a mobile-money account rose from 2 percent in 2014 to 37 percent in 2021 while the share holding a bank account was almost unchanged](https://www.elibrary.imf.org/view/journals/002/2024/252/article-A001-en.xml), but [only about one in four registered mobile-money accounts is actively used](https://www.elibrary.imf.org/view/journals/002/2024/252/article-A001-en.xml). [The market is a duopoly between MTN and Airtel, MTN holding the larger share](https://www.adiac-congo.com/content/de-linclusion-financiere-que-nous-apporte-le-mobile-money-163010), and [transfer fees have risen since 2019](https://www.adiac-congo.com/content/de-linclusion-financiere-que-nous-apporte-le-mobile-money-163010). [Access to banking services is among the country's most improved governance indicators and still scores under 20 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cg.pdf). [Opening an account requires the NIU](https://www.finances.gouv.cg/en/articles/unique-identification-number-niu).
 
 The rules are set regionally. [BEAC owns 99.2 percent of GIMACPAY, acts as its settlement agent and directly operates the SYGMA and SYSTAC systems Congo participates in](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf); [GIMACPAY has treated domestic and cross-border transactions alike since its July 2020 launch](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf), though [its scheme rules are not public](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf). [Standards for authenticating electronic payments and handling complaints come from a BEAC instruction of January 2024, and IT-risk rules for supervised institutions from a COBAC regulation of December 2024](https://www.beac.int/wp-content/uploads/2026/04/RAPPORT-SUR-LES-SERVICES-DE-PAIEMENT-DANS-LA-CEMAC-2024-.pdf), and [the National Financial Inclusion Strategy was still in draft after a third technical review in December 2025](https://www.finances.gouv.cg/fr/articles/3%C3%A8me-r%C3%A9union-du-comit%C3%A9-technique-d%E2%80%99%C3%A9laboration-de-la-strat%C3%A9gie-nationale-d%E2%80%99inclusion). New entrants arrive regardless: [a PawaPay subsidiary took an ARPCE aggregator licence in June 2026 to offer one API across operators, banks and microfinance institutions](https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/), and [a remittance corridor from France and Belgium opened in May 2026](https://www.connectingafrica.com/fintech/belmoney-digipay-enable-congolese-remittances-from-france-and-belgium).
+
+[A domestic payment aggregation platform launched on 14 September 2026, taking collective collections and merchant payments across mobile-money operators by QR code or link without exposing the merchant's number](https://www.aci.cg/fintech-yano-se-positionne-dans-la-structuration-des-transactions-financieres-mobiles/).
 
 ### Registries
 <!-- dpi.registry -->

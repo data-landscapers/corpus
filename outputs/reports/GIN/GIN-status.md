@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 159
+sources_cited: 161
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -185,6 +185,8 @@ The demand side is the constraint. [The central bank stated in July 2026 that mo
 
 The state is both a user and a laggard. [Trésor Pay launched on 22 December 2025 as a central platform for paying administrative fees, duties and charges owed to the state through electronic money](https://guineenews.org/2025/12/22/finances-publiques-tresor-pay-officiellement-lance-en-guinee/), nearly nine years after [Orange Money began collecting motor vehicle tax with reconciliation to the Treasury in March 2017](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/programme/mobile-money/making-debut-p2g-payments-orange-money-collaborates-government-ease-vehicle-tax-collections-guinea/); [payments from the state have faltered, civil servants still paid in cash having gone without their April and May 2024 salaries after a December 2023 circular moved pay onto bank accounts](https://guineematin.com/2024/06/06/guinee-ou-sont-passes-les-salaires-davril-et-mai-des-fonctionnaires-payes-au-billetage/). Governance lags the machinery: [the country had no payment-systems statute and no national payments council in 2025](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/), [a 2027–2030 strategy was only put out to consultancy tender on 14 August 2026](https://fr.linkedin.com/posts/africanenda_africanenda-foundation-et-la-banque-centrale-activity-7494021276999581696-R9o0), and [Guinea had recorded no transaction on the Pan-African Payment and Settlement System](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/) (2025).
 
+[The regional digital integration project called on 1 October 2026 for a firm to design and implement a national payment scheme over nine months, covering governance, rules, security and a pilot, with expressions of interest due 23 October](https://letravail224.com/appel-a-manifestation-dinteret-pour-le-recrutement-dun-cabinet-pour-la-conception-et-la-mise-en-oeuvre-dun-schema-national-de-paiement-snp-en-republique-de-guinee/).
+
 ### Registries
 <!-- dpi.registry -->
 
@@ -273,6 +275,8 @@ The classrooms are being wired ahead of what they can record. [585 schools had b
 Formal computing education is available and privately supplied: [nine private institutions list computer engineering, computer science or MIAGE licence programmes on the national admissions portal](https://parcoursupguinee.org/institutions-et-formations) (2025). On the state's own side, [digital-skills training for public administration staff sits in the nine-project package announced in May 2026 to modernise government systems](https://www.wearetech.africa/fr/fils/actualites/tech/guinea-launches-nine-digital-projects-to-modernize-public-administration), alongside a mapping of the administration and an inventory of its personnel IT systems.
 
 Below that, training runs through Conakry's cybercafés, where [students seeking computer training cannot reliably finish what they start because the electricity and the connection both fail](https://afrique.le360.ma/societe/guinee-frequentes-coupures-delectricite-a-conakry-vacances-sous-tension_UV6SVPRQCFCTLFZRKVX26JKYIQ/) (August 2026).
+
+[An operator's foundation and a UN agency signed a protocol in Conakry on 5 October 2026 to equip 50 schools in six regions with connected learning hubs and train 500 adolescents in science, technology and digital skills; no budget or delivery date is stated](https://mediaguinee.com/2026/10/education-la-fondation-orange-guinee-et-lunicef-signent-un-partenariat-pour-numeriser-50-ecoles/).
 
 ### Research institutions
 <!-- capacity.research -->
