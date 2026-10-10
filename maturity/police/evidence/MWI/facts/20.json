@@ -1,0 +1,23 @@
+{
+  "slug": "2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Universal Case Management System (justice sector)",
+      "country_label": "universal Case Management System",
+      "class": "exchange",
+      "platform": "",
+      "owner": "E-Justice Task Force under the Ministry of Homeland Security and the Ministry of Justice, on a framework developed by UNDP",
+      "tiers": "Requirements being identified at the task force meeting of 14-15 July 2025, with the Malawi Police Service, Directorate of Public Prosecutions, Judiciary and Prisons Service taking part; not built"
+    },
+    {
+      "system": "MASO-ATHU",
+      "country_label": "MASO-ATHU election observation and incident reporting system",
+      "class": "",
+      "platform": "mobile and web, real-time and offline",
+      "owner": "",
+      "tiers": "Used by election stakeholders, the Malawi Police Service among them, for incident monitoring on Election Day, September 2025"
+    }
+  ],
+  "note": "The passages name the police only as a participant in the e-justice task force and as a user of an election incident system; nothing on station records."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2020-11-01-mauritanie-etude-cadrage-digitalisation-services-publics-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "online request for a criminal record extract", "country_label": "Demande de casier judiciaire", "class": "public", "platform": "", "owner": "Ministère de la Justice (MJ)", "tiers": "proposed in November 2020 for the first lot of digital services, from 2021; listed in the 2012-2016 strategy, whose online-services orientation was put at 35 per cent achieved in 2017"},
+    {"system": "counter for following complaints, procès-verbaux and cases before the courts", "country_label": "guichet de suivi des plaintes, des procès-verbaux et des affaires auprès des tribunaux", "class": "public", "platform": "", "owner": "", "tiers": "proposed service for litigants and lawyers, in the study's catalogue of services to digitalise by 2025"}
+  ],
+  "note": "A 2020 scoping study of online public services: the passages list proposed citizen-facing services of the justice ministry and the courts, none of them a police or gendarmerie station record."
+}

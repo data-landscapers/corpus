@@ -1,0 +1,8 @@
+{
+  "slug": "2021-10-01-ami-dgsn-inauguration-centre-national-recueil-donnees-criminelles-sipao",
+  "facts": [],
+  "systems": [
+    {"system": "SIPAO (WAPIS)", "country_label": "Centre national de recueil et d'enregistrement des données criminelles (CNREDC), relevant du système d'information policière d'Afrique de l'ouest (SIPAO)", "class": "exchange", "platform": "SIPAO / WAPIS", "owner": "Direction générale de la Sûreté nationale; financed under cooperation between Mauritania, the European Union and INTERPOL", "tiers": "one national centre at DGSN headquarters in Nouakchott, inaugurated 1 October 2021; no count of connected units"}
+  ],
+  "note": "No fact: the document describes the centre by the exchange of data between the police and other law-enforcement bodies and with other countries, and does not say that stations enter reports or cases in it. Its name says it collects and records criminal data, at headquarters only; the parent may read that as a record system running in the capital, in which case the document gives owner (DGSN) and finance (EU and INTERPOL cooperation), as of 2021-10-01."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-itwebafrica-malawi-police-digital-traffic-fines",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic payment system for traffic fines",
+      "country_label": "electronic payment system for traffic fines",
+      "class": "single-function",
+      "platform": "payment through commercial banks (National Bank of Malawi, FDH Bank) and mobile money (TNM Mpamba, Airtel Money)",
+      "owner": "Malawi Police Service",
+      "tiers": "Scheduled to become operational at Police Headquarters in Lilongwe and across the six police regions in the week of 4 September 2026"
+    }
+  ],
+  "note": "Electronic payment of traffic fines only: one function, and a payment channel for the public, not a station record, so no fact."
+}

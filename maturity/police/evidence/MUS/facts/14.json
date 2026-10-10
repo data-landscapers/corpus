@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-17-mauritius-police-to-modernize-systems-with-rs-43-million-budget",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "News Moris, carrying Defi Media's account of the Prime Minister's reply in the National Assembly, reports that the Crime Occurrence Tracking System was introduced in 2011 to manage and track complaints.", "as_of": "2025-06-17", "date_precision": "day", "system": "Crime Occurrence Tracking System (COTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "equipped:100%", "fact": "The report has the Prime Minister saying all police stations are equipped with personal computers used for the Crime Occurrence Tracking System; no count of stations is given.", "as_of": "2025-06-17", "date_precision": "day", "system": "Crime Occurrence Tracking System (COTS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "The report has the Prime Minister announcing that the Crime Occurrence Tracking System, improved but never replaced since 2011, is to be replaced by a new case management system, with a specialised consultant to be hired on the Central Informatics Bureau's recommendation; no date or budget for that replacement is given.", "as_of": "2025-06-17", "date_precision": "day", "system": "Crime Occurrence Tracking System (COTS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Crime Occurrence Tracking System (COTS)", "country_label": "Crime Occurrence Tracking System (COTS)", "class": "record", "platform": "Not named; introduced 2011", "owner": "Mauritius Police Force", "tiers": "Personal computers in all police stations"},
+    {"system": "Criminal Attribute Database (CADB)", "country_label": "Criminal Attribute Database (CADB)", "class": "identification", "platform": "Not named; operational since 1999, never modernised", "owner": "Mauritius Police Force", "tiers": "Terminals in all police stations; Rs 43 million in the 2025-2026 budget for a new integrated system with biometric data, tender by end of August 2025, live within two years"},
+    {"system": "Safe City network", "country_label": "Safe City", "class": "surveillance", "platform": "Operated by Mauritius Telecom under a lease", "owner": "Mauritius Police Force (leased)", "tiers": "Footage reviewed from station computers; upgrade scheduled December 2025"},
+    {"system": "CCTV cameras", "country_label": "CCTV", "class": "surveillance", "platform": "Maintained and upgraded by Brinks Ltd under a rental agreement", "owner": "Mauritius Police Force (rented)", "tiers": "Not stated"}
+  ],
+  "note": "A syndicated press account of the same parliamentary reply as document 13 (Hansard, 17 June 2025); the Rs 43 million is for the criminal records database, not for the station records system."
+}

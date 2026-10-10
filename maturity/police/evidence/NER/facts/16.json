@@ -1,0 +1,23 @@
+{
+  "slug": "2025-06-30 Signature of two MoUs between Niger and Libyan firm Al Itissal Al Jadeed - toward digitising passports and the national ID card",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Biometric e-passport issuance system with electronic archiving of records",
+      "country_label": "e-passport",
+      "class": "border",
+      "platform": "",
+      "owner": "Interior ministry, with the Libyan company Al Itissal Al Jadeed financing, building and maintaining it under a public-private partnership",
+      "tiers": "Memorandum of understanding signed 2025-06-27; chips meant to be read at airports, borders, police stations and security posts"
+    },
+    {
+      "system": "National identity card issuance",
+      "country_label": "Nigerien national identity card",
+      "class": "",
+      "platform": "",
+      "owner": "Interior ministry, with Al Itissal Al Jadeed",
+      "tiers": "Memorandum of understanding signed 2025-06-27"
+    }
+  ],
+  "note": "Two memorandums on identity and travel documents; police stations appear only as places where a chip would be checked, and nothing is said of reports or cases recorded at a station."
+}
