@@ -1,0 +1,15 @@
+{
+  "slug": "2023-12-20-mli-interconnexion-des-collectivites-territoriales-un-reseau-dacces-de-tel",
+  "facts": [],
+  "systems": [
+    {
+      "system": "réseau d'accès aux services des télécommunications des collectivités territoriales",
+      "country_label": "projet de mise en place d'un réseau d'accès aux services des télécommunications des collectivités territoriales; réseau d'accès de télécommunications privées de 20 gouvernorats",
+      "class": "central",
+      "platform": "private telecommunications access network",
+      "owner": "launched by the Prime Minister",
+      "tiers": "20 gouvernorats, by the headline; collectivités territoriales, by the project's name"
+    }
+  ],
+  "note": "A lede only: the outlet sends readers to the Nouvel Horizon print edition of 20 December 2023. It states that the Prime Minister launched the project on 18 December 2023; the headline gives the network as one of 20 gouvernorats, the State's representations, so the system is central and gives no fact. A launch of a project is also an announcement, not a connection made."
+}

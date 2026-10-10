@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,connection,governance,qualifier,,,,,nothing held
+GIN,connection,governance,qualifier,owner:partner;finance:donor,2022-07-27,GIN-010;GIN-011,,nothing dated since 2023-09-28
 GIN,connection,use,coverage,systems,2026-09-02,GIN-003;GIN-006,GIN-002=none,
-GIN,connection,connected,coverage,,,,,nothing held
+GIN,connection,connected,coverage,institutional,2022-07-27,GIN-008,,nothing dated since 2023-09-28
 GIN,connection,last12,qualifier,regressing,2026-09-02,GIN-005,,
-GIN,connection,authorities,coverage,pilot,2026-04,GIN-007,GIN-004=not-published,
+GIN,connection,authorities,coverage,pilot,2026-04,GIN-007;GIN-009,GIN-004=not-published,

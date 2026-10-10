@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,connection,governance,qualifier,,,,,nothing held
-MWI,connection,use,coverage,systems,2026-07-31,MWI-001;MWI-002,,
-MWI,connection,connected,coverage,,,,,nothing held
+MWI,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2024-07,MWI-008;MWI-009;MWI-010,MWI-011=owner:ministry;MWI-012=finance:donor;MWI-013=owner:ministry;MWI-014=finance:donor;MWI-018=plan:none;MWI-019=owner:ministry,
+MWI,connection,use,coverage,systems,2026-07-31,MWI-001;MWI-002;MWI-016;MWI-021,MWI-006=internet,
+MWI,connection,connected,coverage,institutional,2024-07,MWI-005;MWI-015,MWI-020=none,
 MWI,connection,last12,qualifier,advancing,2026-06,MWI-004,,
-MWI,connection,authorities,coverage,pilot,2026-06,MWI-003,,
+MWI,connection,authorities,coverage,count:4,2022,MWI-017,MWI-003=pilot;MWI-007=not-published,

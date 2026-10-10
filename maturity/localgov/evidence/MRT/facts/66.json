@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-mrt-evaluation-de-la-performance-de-la-gestion-des-finances-publiques-de-l",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The PEFA assessment of January 2025 says the local authorities (13 regions and 219 communes) ran their budgets in the off-line system El Khazin until 2022 and from 2022 began using SIGeL, the integrated local finance management system, for revenue and expenditure, assets, general accounting and reporting, giving the supervising directorates faster and timely access to their financial data; it does not say how the authorities' offices are connected.", "as_of": "2022", "date_precision": "year", "system": "Système Intégré de Gestion des Finances Locales (SIGeL)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "equipped:90%", "fact": "The PEFA assessment says the local finance directorate and the directorate-general of local authorities were in the final phase of deploying SIGeL in all local authorities, at 90 per cent at the end of 2023, against 232 authorities (13 regions and 219 communes) at the end of 2022; the share is of authorities with the system deployed, regions included, and no connection is stated.", "as_of": "2023-12", "date_precision": "month", "system": "Système Intégré de Gestion des Finances Locales (SIGeL)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Système Intégré de Gestion des Finances Locales (SIGeL)", "country_label": "SIGeL", "class": "application", "platform": "", "owner": "Direction des Finances Locales (DGTCP, Ministère des Finances) and Direction Générale des Collectivités Territoriales (ministry in charge of decentralisation)", "tiers": "communes and regions, 90 per cent of 232 at the end of 2023; the two supervising ministries read the data"},
+    {"system": "El Khazin", "country_label": "El Khazin", "class": "application", "platform": "", "owner": "not stated", "tiers": "communes and regions, off-line, for budget execution until 2022"}
+  ],
+  "note": "Passages only. Both facts rest on the working-online rule: SIGeL replaces an off-line system and is said to give the supervising ministries standardised, real-time information from communes and regions, but the document never says the system is held centrally, that it is used at the authorities' own offices, or how they are connected. The 90 per cent is a share of deployment across communes and regions together, recorded as equipped."
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "2019-07-31-lso-chief-thesele-hands-over-community-councils-buildings",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "pilot",
+      "fact": "The Minister of Communications, Science and Technology said at the handover on 31 July 2019 that the buildings of two community councils, Dinizulu in Thaba-Tseka and Kubake in Maseru district, part of the e-Government Pilot Project begun in 2014, have been installed with the Internet; no total of community councils is given.",
+      "as_of": "2019-07-31",
+      "date_precision": "day",
+      "system": "e-Government Pilot Project",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The Minister of Communications, Science and Technology said on 31 July 2019 that the two community council buildings handed over under his ministry's e-Government Project have been installed with the Internet; the Dinizulu building is described as comprising a reception, administrative offices and internet.",
+      "as_of": "2019-07-31",
+      "date_precision": "day",
+      "system": "e-Government Pilot Project",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "The report of the 31 July 2019 handover states that the two community council buildings have the Internet installed and names no system the councils' staff work in over it.",
+      "as_of": "2019-07-31",
+      "date_precision": "day",
+      "system": "e-Government Pilot Project",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The report of 31 July 2019 states that the e-Government Project, whose pilot built and connected the two community council buildings at a cost of M7.3 million, is under the Ministry of Communications, Science and Technology, which handed the buildings to the Ministry of Local Government and Chieftainship Affairs.",
+      "as_of": "2019-07-31",
+      "date_precision": "day",
+      "system": "e-Government Pilot Project",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The report of 31 July 2019 states that the e-Government Project under the Ministry of Communications, Science and Technology is financially supported by the African Development Bank; the two community council buildings cost M7.3 million.",
+      "as_of": "2019-07-31",
+      "date_precision": "day",
+      "system": "e-Government Pilot Project",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Government Pilot Project",
+      "country_label": "e-Government's Pilot Project; 'hashtag connect the councils'",
+      "class": "connection",
+      "platform": "",
+      "owner": "Ministry of Communications, Science and Technology, financially supported by the African Development Bank",
+      "tiers": "two community councils: Dinizulu (Thaba-Tseka district) and Kubake at St. Rodrigue (Maseru district)"
+    },
+    {
+      "system": "free Wi-Fi for communities around the two councils",
+      "country_label": "free Wi Fi; free data",
+      "class": "public-access",
+      "platform": "Wi-Fi",
+      "owner": "Ministry of Communications, Science and Technology",
+      "tiers": "communities around the two community councils, promised by the Minister"
+    }
+  ],
+  "note": "The Minister also said the government is determined to build modern community councils throughout the country, with no number or date, and that the ministry will assist churches and other institutions with the Internet. The Dinizulu building also houses government departments (Social Development, Forestry, Home Affairs, the revenue authority), which are central."
+}

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,connection,governance,qualifier,,,,,nothing held
+SYC,connection,use,coverage,internet,2025-03-01,SYC-001,,
+SYC,connection,connected,coverage,,,,,nothing held
+SYC,connection,last12,qualifier,,,,,nothing held
+SYC,connection,authorities,coverage,count:27,2025-03-01,SYC-002,,

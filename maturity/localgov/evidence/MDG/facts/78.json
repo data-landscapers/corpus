@@ -1,0 +1,164 @@
+{
+  "slug": "2024-06-01-mdg-plan-national-de-decentralisation-emergente-annexe-au-decret-n2023-932",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:10%",
+      "fact": "The national decentralisation plan's performance table gives a baseline of 10 per cent, marked 'to be verified' and sourced to the finance ministry, for communes with direct access to the communes' financial information system (SIFC) over a secure connection, as a share of all communes (1,695 by the plan's count), with targets of 30 per cent for 2025-2027 and 50 per cent for 2030; the baseline carries no year, so the published date is used.",
+      "as_of": "2024-06",
+      "date_precision": "month",
+      "system": "connexion sécurisée aux Systèmes d'Information stratégiques de l'Etat",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The plan measures communes 'having a secure connection' to the State's SIFC, baseline 10 per cent to be verified, and costs under its own budget the support and annual connection fees for 1,000 communes over three years, with the ministries of decentralisation, digital development and finance responsible; the baseline carries no year, so the published date is used.",
+      "as_of": "2024-06",
+      "date_precision": "month",
+      "system": "connexion sécurisée aux Systèmes d'Information stratégiques de l'Etat",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The plan defines its connection indicator as communes having direct access to the Système d'Information Financière Communal (SIFC), a State information system, with a baseline of 10 per cent of communes to be verified (source: finance ministry); a second indicator, communes connected and using the SIFC and public procurement management, has no baseline and a 2030 target of 50 per cent. No year is given for the baseline, so the published date is used.",
+      "as_of": "2024-06",
+      "date_precision": "month",
+      "system": "connexion sécurisée aux Systèmes d'Information stratégiques de l'Etat",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Plan National de Décentralisation Emergente 2023-2030, validated by decree 2023-932 of 2 August 2023, sets as product 214 that local governments have a secure connection to the State's strategic information systems, with activities to give them a secure connection to the civil status system and the SIFC (2145) and to equip them with computer equipment and an internet connection (2146), costed with the product's other activities at 23,092,000 thousand ariary.",
+      "as_of": "2023-08-02",
+      "date_precision": "day",
+      "system": "connexion sécurisée aux Systèmes d'Information stratégiques de l'Etat",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The plan validated by decree on 2 August 2023 names the ministry of decentralisation (MINDEC), the ministry of digital development (MNDPT) and the finance ministry (MEF) as responsible for the secure connection of local governments to the civil status system and the SIFC, and MNDPT and MINDEC for equipping them with computers and an internet connection.",
+      "as_of": "2023-08-02",
+      "date_precision": "day",
+      "system": "connexion sécurisée aux Systèmes d'Information stratégiques de l'Etat",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The plan validated on 2 August 2023 gives an indicative cost of 23,092,000 thousand ariary for product 214, including annual connection fees for 1,000 communes over three years and one desktop computer, printer, inverter and solar panel kit per local government, and names no source of funds for it; its declaration asks technical and financial partners to support the plan as a whole.",
+      "as_of": "2023-08-02",
+      "date_precision": "day",
+      "system": "connexion sécurisée aux Systèmes d'Information stratégiques de l'Etat",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "connexion sécurisée aux Systèmes d'Information stratégiques de l'Etat",
+      "country_label": "connexion sécurisée aux Systèmes d'Information stratégiques de l'Etat (Etat civil, SIFC)",
+      "class": "connection",
+      "platform": "",
+      "owner": "MINDEC, MNDPT, MEF",
+      "tiers": "communes: 10 per cent with direct access to the SIFC at baseline, to be verified; 50 per cent targeted for 2030; annual connection fees costed for 1,000 communes over three years"
+    },
+    {
+      "system": "équipement des CTD en matériels informatiques et en connexion internet",
+      "country_label": "Equiper les CTD en matériels informatiques et en connexion internet (activité 2146)",
+      "class": "equipment",
+      "platform": "one desktop computer, one printer, one inverter and a solar panel kit per local government",
+      "owner": "MNDPT, MINDEC",
+      "tiers": "local governments (CTD), planned; no number delivered"
+    },
+    {
+      "system": "Système d'Information Financière des Communes (SIFC)",
+      "country_label": "Système d'Information Financière des Communes; Système d'Information Financière Communal",
+      "class": "application",
+      "platform": "",
+      "owner": "MEF",
+      "tiers": "communes; to be extended to all communes 'taking account of the constraints of access to electricity and internet connection' (activity 3156)"
+    },
+    {
+      "system": "centre d'état civil numérique",
+      "country_label": "centre d'état civil numérique; Système d'information stratégique de l'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "MINDEC",
+      "tiers": "150 of 1,695 communes have computerised the processing of civil status data at baseline; 50 per cent targeted for 2030"
+    },
+    {
+      "system": "SALOHY / SALOHY RNF",
+      "country_label": "logiciel SALOHY; SALOHY RNF; logiciel RNF",
+      "class": "application",
+      "platform": "SALOHY",
+      "owner": "MEF",
+      "tiers": "to be deployed in all local governments for the computerised collection of fiscal and non-fiscal revenue and the transfer of revenue"
+    },
+    {
+      "system": "plateforme informatisée web des ressources disponibles",
+      "country_label": "plateforme intégrée web des ressources disponibles (DCFE, FDL, FNP)",
+      "class": "application",
+      "platform": "web",
+      "owner": "MINDEC, MEF, MNDPT",
+      "tiers": "to be developed; no local government has access at baseline; 75 per cent targeted for 2030"
+    },
+    {
+      "system": "Bureau foncier communal (BIF)",
+      "country_label": "Birao Ifoton'ny Fananan-tany (BIF)",
+      "class": "",
+      "platform": "",
+      "owner": "MATSF",
+      "tiers": "562 communes with an operational office in 2022; 926 targeted for 2030"
+    },
+    {
+      "system": "portail ODDL",
+      "country_label": "portail « ODDL »",
+      "class": "",
+      "platform": "web",
+      "owner": "ODDL",
+      "tiers": "local governance index scores online for 5 per cent of communes at baseline"
+    },
+    {
+      "system": "SIGOB",
+      "country_label": "SIGOB",
+      "class": "central",
+      "platform": "",
+      "owner": "MINDEC",
+      "tiers": "the plan's own monitoring system, to be set up"
+    },
+    {
+      "system": "AUGURE",
+      "country_label": "Application Unique pour la Gestion Uniforme des Ressources humaines de l'Etat",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "the State's human resources application; its deployment is listed under the territorial civil service reform"
+    },
+    {
+      "system": "PRODIGY",
+      "country_label": "Projet de Gouvernance Digitale et de Gestion de l'Identité Malagasy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named in the list of acronyms only"
+    },
+    {
+      "system": "SIIGAC",
+      "country_label": "système d'information intégré de la gouvernance et de l'anti-corruption",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named in a footnote as usable for collecting the local governance index"
+    }
+  ],
+  "note": "Passages only, read whole. The 10 per cent baseline is the plan's own, flagged 'A vérifier', with no year and no numerator; the indicator's label says CTD and its definition says communes. The headline indicator 'communal services digitalised' (2 in 2023, 4 in 2027, 7 in 2030) counts services, not communes. Everything beyond the baseline is a target or a planned activity: no commune is said to have been connected or equipped under the plan."
+}

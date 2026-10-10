@@ -1,0 +1,106 @@
+{
+  "slug": "2023-01-01-cmr-reseaux-communautaires-pour-linclusion-numerique-des-zones-rurales-que",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The town halls of Mayo-Oulo and Bibemi, in the North region, were each fitted with at least one Wi-Fi access point joined by a long-distance Wi-Fi link to the postal digital access point at Mayo-Oulo, which has fibre, and to the Bibemi community telecentre, under a pilot agreed between the telecommunications ministry and GIZ's PRADEC programme after studies in 2018, as APC's policy brief states; the brief gives no date for the installation, so the fact is dated to its publication in 2023, and it does not say who pays for the link.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "réseaux maillés Wi-Fi autour des télécentres (PRADEC)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "The pilot networks at Mayo-Oulo and Bibemi give the connected sites, the two town halls among them, internet access and offline access to the GOON platform of local content, as APC's brief of 2023 states; it names no use by the town halls' staff and no national system worked in. Dated to publication.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "réseaux maillés Wi-Fi autour des télécentres (PRADEC)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:2",
+      "fact": "Two communes' town halls, Mayo-Oulo and Bibemi, are named as sites connected by the pilot networks, among 4 sites at Mayo-Oulo and the sites listed at Bibemi, on APC's brief of 2023; no total of communes connected is given. Dated to publication.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "réseaux maillés Wi-Fi autour des télécentres (PRADEC)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "PRADEC, run by GIZ under the ministry of decentralisation, bought the equipment, installed the pilot networks, trained the telecentre managers and supports monitoring and maintenance, while the telecommunications ministry eased use of the Wi-Fi bands, licensing and access to fibre, and the communes of Mayo Oulo and Bibemi mobilised residents and repaired the telecentre buildings, as APC's brief of 2023 states. Dated to publication.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "réseaux maillés Wi-Fi autour des télécentres (PRADEC)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The equipment of the pilot networks that reach the two town halls was acquired by GIZ's PRADEC programme, the only funder the brief of 2023 names for them; the brief adds that telecommunications is not a power transferred to local authorities, so their own funds cannot be used for such networks. Dated to publication.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "réseaux maillés Wi-Fi autour des télécentres (PRADEC)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "réseaux maillés Wi-Fi autour des télécentres (PRADEC)",
+      "country_label": "réseaux maillés autour des TCP de Mandama et Bibemi et du PAN de Mayo-Oulo",
+      "class": "connection",
+      "platform": "Ubiquiti equipment on 2.4 and 5 GHz Wi-Fi; long-distance Wi-Fi links to a telecentre or postal access point; fibre backhaul at Mayo-Oulo",
+      "owner": "PRADEC (GIZ) with MINPOSTEL",
+      "tiers": "pilot around 4 telecentres agreed (Mandama, Bibemi, Idenau, Bakingili); the town halls of Mayo-Oulo and Bibemi among the sites connected, beside schools, hospitals and a youth centre; a convention of April 2021 to repeat it around 20 more telecentres"
+    },
+    {
+      "system": "Télécentres Communautaires Polyvalents (TCP)",
+      "country_label": "TCP; Points d'Accès Numériques (PAN); Centres Agricoles Numériques (CAN)",
+      "class": "public-access",
+      "platform": "mostly VSAT, a few on fibre or operators' networks",
+      "owner": "MINPOSTEL, with CAMTEL as engineer; transfer of management to the communes planned",
+      "tiers": "231 set up nationally by 2016, including 52 PAN in post offices and 2 CAN; 57 of 231 working, on the 2017 audit ordered by the Prime Minister"
+    },
+    {
+      "system": "plateforme GOON",
+      "country_label": "plateforme numérique GOON",
+      "class": "web",
+      "platform": "offline content platform designed with the University of Ngaoundéré and ActivSpaces",
+      "owner": "PRADEC (GIZ)",
+      "tiers": "Mandama and Bibemi networks; local educational resources and municipal services content"
+    },
+    {
+      "system": "backbone national en fibre optique",
+      "country_label": "backbone national en fibre optique",
+      "class": "backbone",
+      "platform": "fibre optic, about 20,000 km (12,000 laid by the state, 8,000 by the private sector)",
+      "owner": "the state through CAMTEL, and private operators",
+      "tiers": "serves 209 of 360 arrondissements and 52 of 58 departments; no commune office is said to be on it"
+    },
+    {
+      "system": "CYBERVILLAGE TIC AFRICA",
+      "country_label": "CYBERVILLAGE",
+      "class": "public-access",
+      "platform": "802.11 mesh networks",
+      "owner": "TIC AFRICA, a private firm",
+      "tiers": "neighbourhoods of Bandjoun, Bafoussam, Douala and Limbe"
+    },
+    {
+      "system": "Centres multimédias communaux (CMM)",
+      "country_label": "Centres multimédias communaux",
+      "class": "public-access",
+      "platform": "",
+      "owner": "communes",
+      "tiers": "named as infrastructure PRADEC builds on; no count"
+    }
+  ],
+  "note": "The town halls are connected through a telecentre's Wi-Fi link, bought and maintained by a donor programme; the brief lists broadband connection of the communes only as a prospect of the telecentre programme, so no `plan` fact is written. The fibre figure covers arrondissements, an area, and is backbone."
+}

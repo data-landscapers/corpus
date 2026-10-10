@@ -1,0 +1,63 @@
+{
+  "slug": "2026-02-03 Liberia National Digital Strategy 2025-2029 (Digital Liberia)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Wide Area Network (GovNet)",
+      "country_label": "GovNet",
+      "class": "backbone",
+      "platform": "fibre optic backbone, through a partnership with LTC Mobile and CSquared; other internet service providers where there is no fibre",
+      "owner": "Government of Liberia, with LTC Mobile and CSquared",
+      "tiers": "52 Ministries, Agencies and Commissions connected directly to the fibre network since the 2019 rollout, 25MB each; MACs in counties without fibre connected through other internet service providers; remaining MACs in Montserrado county to be onboarded"
+    },
+    {
+      "system": "National Fiber Backbone",
+      "country_label": "National Broadband Network; National Fiber Backbone",
+      "class": "backbone",
+      "platform": "fibre optic",
+      "owner": "",
+      "tiers": "350+ km installed in Monrovia; yet to be expanded across Liberia"
+    },
+    {
+      "system": "National Data Center",
+      "country_label": "National Data Center",
+      "class": "backbone",
+      "platform": "",
+      "owner": "hosted at LTC Mobile",
+      "tiers": "underused by other MACs; the National Disaster Recovery Site not set up"
+    },
+    {
+      "system": "County Service Centers",
+      "country_label": "County Service Centers",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "established in all 15 counties, their effectiveness limited by budgetary and operational issues; 'All County Service Centers have internet access' is listed under Local Government in a table"
+    },
+    {
+      "system": "e-County",
+      "country_label": "e-County",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "not implemented: the strategy says Liberia lacks a dedicated e-County system for digital governance at county level"
+    },
+    {
+      "system": "Community Computer Centers",
+      "country_label": "Community Computer Centers",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; listed among earlier initiatives with a status only"
+    },
+    {
+      "system": "IFMIS",
+      "country_label": "Integrated Financial Management Information System (IFMIS)",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of Finance and Development Planning",
+      "tiers": "87 spending entities; no local government named"
+    }
+  ],
+  "note": "Passages only. GovNet connects Ministries, Agencies and Commissions, including those in counties, and no local government office is said to be on it. The County Service Centers are one-stop service centres, class central; the line that all of them have internet access stands in a table whose column headings the passages do not carry, so it cannot be read as achieved or as a target."
+}

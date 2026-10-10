@@ -1,0 +1,18 @@
+{
+  "slug": "2023-11-01-profogmeps-quadro-de-gestao-ambiental-e-social-p178040",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "connected", "value": "none", "fact": "The project's first-phase consultations with provincial and municipal bodies, held from May 2019 to February 2020, found as a main finding a lack of electricity, of an internet connection and of computer equipment for running services at local level; no number of municipal administrations is given (the country has 164 municipalities).", "as_of": "2020-02", "date_precision": "month", "system": "internet connection of municipal administrations", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "SIGFE", "country_label": "SIGFE", "class": "application", "platform": "", "owner": "Ministry of Finance (MINFIN)", "tiers": "to be adopted and used for preparing and executing municipal budgets in the 58 target municipalities; planned under subcomponent 2A"},
+    {"system": "SNCPE", "country_label": "SNCPE", "class": "application", "platform": "", "owner": "National Public Procurement Service (SNCP), under MINFIN", "tiers": "to digitise municipal procurement; planned"},
+    {"system": "Portal do Munícipe", "country_label": "Portal do Munícipe / Portal Municipal", "class": "web", "platform": "", "owner": "", "tiers": "to ease collection of municipal fees; improvements planned"},
+    {"system": "SAGIT", "country_label": "SAGIT, sistema de informação de gestão fundiária", "class": "application", "platform": "", "owner": "MINOPUH / INOTU", "tiers": "the country's land management information system, to be implemented in selected municipalities; planned under subcomponent 2B"},
+    {"system": "Municipal websites", "country_label": "Website do Município", "class": "web", "platform": "", "owner": "each selected municipality", "tiers": "one site to be set up for each of the 58 selected municipalities, showing performance and budget; planned"},
+    {"system": "IT hardware and software for municipalities", "country_label": "hardware e software", "class": "equipment", "platform": "", "owner": "municipalities under Component 1 grants; MINFIN and MINOPUH buying on their behalf under Component 2", "tiers": "the 58 target municipalities; planned, no connection stated"},
+    {"system": "Civil registration and identity card systems", "country_label": "sistemas de registo civil e Bilhete de Identidade", "class": "central", "platform": "", "owner": "Ministry of Justice and Human Rights (MINJUSDH)", "tiers": "MINJUSDH and its deconcentrated offices; upgrade planned under Component 3"},
+    {"system": "Balcão Único de Atendimento ao Público (BUAP)", "country_label": "BUAP", "class": "central", "platform": "", "owner": "", "tiers": "one-stop shops, named as users of identity information"},
+    {"system": "Portal do Cidadão", "country_label": "Portal do Cidadão", "class": "web", "platform": "", "owner": "", "tiers": "national platform, named as a user of identity information"}
+  ],
+  "note": "World Bank environmental and social framework for PROFOGMEPS (P178040), read as passages; the project's own ICT spending is on applications and hardware, with no connection of municipal offices named, so it gives no governance fact."
+}

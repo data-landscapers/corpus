@@ -1,0 +1,15 @@
+{
+  "slug": "2020-02-14-swz-budget-speech-2020",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The Minister for Finance told Parliament on 14 February 2020 that in the 2020/21 financial year government would extend its networks to the Tinkhundla Service Centres and health facilities and further digitalise its services; an intention announced in the budget speech, with no count of centres, cost or completion date.", "as_of": "2020-02-14", "date_precision": "day", "system": "Extension of government networks to Tinkhundla Service Centres", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The 2020 budget speech says the extension of government networks to the Tinkhundla Service Centres in 2020/21 would be done 'with the assistance of development partners'; it names no partner and no domestic budget line for it.", "as_of": "2020-02-14", "date_precision": "day", "system": "Extension of government networks to Tinkhundla Service Centres", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The 2020 budget speech presents the extension of networks to the Tinkhundla Service Centres as central government's own work, following its replacement of the government core network equipment.", "as_of": "2020-02-14", "date_precision": "day", "system": "Extension of government networks to Tinkhundla Service Centres", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Extension of government networks to Tinkhundla Service Centres", "country_label": "", "class": "connection", "platform": "government network", "owner": "Government of Eswatini, with development partners", "tiers": "announced for Tinkhundla Service Centres and health facilities in 2020/21; none said to be connected"},
+    {"system": "Government core network", "country_label": "government core network", "class": "backbone", "platform": "", "owner": "Government of Eswatini", "tiers": "central; core network equipment and security replaced by February 2020"},
+    {"system": "National Data Centre", "country_label": "National Data Centre (NDC)", "class": "backbone", "platform": "", "owner": "Government of Eswatini", "tiers": "central; operational and being scaled up, with funding secured for a data recovery centre"},
+    {"system": "Online study loan application system", "country_label": "", "class": "central", "platform": "", "owner": "Government of Eswatini", "tiers": "applicants, from February 2019"}
+  ],
+  "note": "The passages file holds no passage (the speech carries no study term); paragraph 94 was read in the mirror's whole copy, lines 966-989. The speech announces the connection and reports none made: no centre is said to be on the network, so no `connected`, `use` or `authorities` fact is taken. The Regional Development Fund's rise from E110 million to E177 million for the Tinkhundla is not an ICT line."
+}

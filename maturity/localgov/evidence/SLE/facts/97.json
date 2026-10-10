@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-22-sle-fiscal-decentralisation-policy-implementation-strategy-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "PFM Smart", "country_label": "real time processing IFMIS system (PFM Smart); SMART PFM system", "class": "application", "platform": "a real-time processing financial management system", "owner": "Ministry of Finance", "tiers": "local authorities; named in the Minister's foreword, dated 22 January 2025, as something to be introduced, and in the implementation plan as a roll-out for 2024 to 2025 with which the new salary grant is to be synchronised; nothing is said of it being installed or in use"},
+    {"system": "Digital platforms and automation for local revenue administration", "country_label": "appropriate digital platforms and automation", "class": "application", "platform": "", "owner": "central government, as part of the enabling environment it is to provide", "tiers": "local councils' own-source revenue; a statement of what central government must provide, with no system named"},
+    {"system": "Local revenue databases", "country_label": "revenue databases", "class": "application", "platform": "", "owner": "local councils, with Ministry of Finance support", "tiers": "local councils; to be developed and updated for the major own-source revenues"},
+    {"system": "Debt Management System", "country_label": "CG's Debt Management System; MOF Debt Management Database and Monitoring System", "class": "central", "platform": "", "owner": "Ministry of Finance", "tiers": "central; local council borrowing is to be recorded in it"}
+  ],
+  "note": "A fiscal policy on expenditure and revenue assignment, transfers and borrowing. It commits to introducing PFM Smart at the local councils and says nothing of internet, networks or any connection at a council office, and nothing of the system being installed or live."
+}

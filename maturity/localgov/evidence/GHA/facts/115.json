@@ -1,0 +1,47 @@
+{
+  "slug": "2023-12-01-ghana-national-action-plan-2024-2028",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Ghana Government Enterprise Architecture and eGovernment Interoperability Framework (GGEA & eGIF)",
+      "country_label": "GGEA & eGIF",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Ministry of Communications and Digitalisation; National Information Technology Agency (NITA)",
+      "tiers": "standards for government ICT, with the government said to be investing in data centre infrastructure, systems and networking; MDAs and MMDAs named only as collaborating institutions, and no district assembly office is said to be connected"
+    },
+    {
+      "system": "Ghana Open Data Initiative (GODI)",
+      "country_label": "GODI portal",
+      "class": "web",
+      "platform": "",
+      "owner": "National Information Technology Agency (NITA)",
+      "tiers": "national; 20 MDAs of a target of 50 had uploaded data by the end of the fourth action plan"
+    },
+    {
+      "system": "CHRAJ web-based complaint and redress system",
+      "country_label": "comprehensive online/web-based complaint and redress system",
+      "class": "central",
+      "platform": "",
+      "owner": "Commission on Human Rights and Administrative Justice (CHRAJ)",
+      "tiers": "planned: system developed in 2024, CHRAJ offices nationwide networked in 2025, piloted in 2026, open to citizens in 2027"
+    },
+    {
+      "system": "Citizens' Complaints Centre",
+      "country_label": "Citizens' Complaints Centre (CCC)",
+      "class": "central",
+      "platform": "",
+      "owner": "Public Sector Reform Secretariat, Ministry of Information and CHRAJ jointly",
+      "tiers": "planned: pilot in 2025, national rollout in 2027"
+    },
+    {
+      "system": "Beneficial ownership central register",
+      "country_label": "electronic B.O. register",
+      "class": "central",
+      "platform": "",
+      "owner": "Office of the Registrar of Companies",
+      "tiers": "national"
+    }
+  ],
+  "note": "Read whole (75 pages). An open-government action plan: district assemblies appear as subjects of audit follow-up, right-to-information units (260 MMDAs with the administrative set-up) and the election of chief executives; nothing is stated about any assembly office's connection or the systems its staff work in."
+}

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,connection,governance,qualifier,,,,,nothing held
-KEN,connection,use,coverage,systems,2026-09-21,KEN-001;KEN-002;KEN-003;KEN-004;KEN-005,,
-KEN,connection,connected,coverage,,,,,nothing held
+KEN,connection,governance,qualifier,owner:ministry,2024-01,KEN-006,KEN-012=owner:ministry,"not stated: plan, finance"
+KEN,connection,use,coverage,systems,2026-09-21,KEN-001;KEN-002;KEN-003;KEN-004;KEN-005,KEN-011=internet,
+KEN,connection,connected,coverage,institutional,2024-01,KEN-007;KEN-010,,
 KEN,connection,last12,qualifier,,,,,nothing held
-KEN,connection,authorities,coverage,,,,,nothing held
+KEN,connection,authorities,coverage,share:100%,2017,KEN-009,KEN-008=count:29,nothing dated since 2023-09-28

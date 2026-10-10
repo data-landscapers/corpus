@@ -1,0 +1,74 @@
+{
+  "slug": "2022-01-01-ken-last-mile-county-connectivity-project-lmccp",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:29",
+      "fact": "The ministry's project page states that in Phase I, implemented in 2012-2013, twenty-eight counties plus the capital city of Nairobi were connected for voice and data applications into the national private governmental voice and data network (NOFBI), of the 47 counties it names; its words are 'counties', not county government offices.",
+      "as_of": "2013",
+      "date_precision": "year",
+      "system": "County Connectivity Project",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:100%",
+      "fact": "The ministry's project page states that Phase 2, completed in 2017, connected the eighteen remaining counties and three additional towns, after the twenty-eight counties plus Nairobi of Phase I, of the 47 counties it names; its words are 'counties', not county government offices.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "County Connectivity Project",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The ministry's project page states that the counties were connected by secure connections into the national private governmental voice and data network (NOFBI), with a voice and data IP network and IP telephony infrastructure, the remaining counties being connected by 2017.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "County Connectivity Project",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "The ministry's project page states that the counties were connected for voice and data applications and IP telephony over the governmental network, naming no system the counties work in; the last counties were connected by 2017.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "County Connectivity Project",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Information, Communications and the Digital Economy presents the County Connectivity Project as its own, initiated to lay the foundation of an e-government strategy under devolution to the 47 counties, with Phases 4 and 5 started in 2022 and running concurrently; the page names no funder.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "County Connectivity Project",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "County Connectivity Project",
+      "country_label": "Last Mile County Connectivity Project (LMCCP); County Connectivity Project (CCP)",
+      "class": "connection",
+      "platform": "voice and data IP network and IP telephony over NOFBI",
+      "owner": "Ministry of Information, Communications and the Digital Economy",
+      "tiers": "counties (28 plus Nairobi in 2012-2013, the 18 remaining and 3 additional towns by 2017); additional MDAs in Phase 3; additional sites within county headquarters in Phase IV; Government sites and ministries in sub-counties in Phase V"
+    },
+    {
+      "system": "Kenya National Optical Fiber Backbone Infrastructure (NOFBI)",
+      "country_label": "NOFBI",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "",
+      "tiers": "the national private governmental voice and data network the counties are connected into"
+    }
+  ],
+  "note": "An undated standing page; published is a proxy year. Phase 3 (from 2017) connected additional MDAs and refurbished the CCP and NOFBI server rooms in the counties. Phases 4 and 5 (from 2022) are stated as targets: Phase IV additional sites within county headquarters, Phase V Government sites and ministries in sub-counties, which give no fact. The page says 'counties' and 'county headquarters' throughout and never 'county government'."
+}

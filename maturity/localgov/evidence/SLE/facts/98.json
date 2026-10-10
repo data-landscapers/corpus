@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-sle-public-financial-management-reform-strategy-and-plan-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "", "platform": "", "owner": "Ministry of Finance", "tiers": "the strategy's costing carries a line 'Roll-Out of PFM Smart to Local Councils' under Theme 4: US$1,575,600 in 2023, 870,000 in 2024, 865,000 in 2025 and 865,000 in 2026, US$4,175,600 in all; what the system does is not described in the passages"},
+    {"system": "Local councils' accounting system", "country_label": "", "class": "application", "platform": "not named", "owner": "", "tiers": "local councils; described only as an accounting system that is 'post-ante', given as one cause of unsupported expenditure"},
+    {"system": "Fiscal cadastral system", "country_label": "Fiscal Cadastral System", "class": "application", "platform": "", "owner": "", "tiers": "local councils; called unsustainable; the costing gives US$9,800,000 over 2023 to 2027 to upgrade it and 'the supportive ICT environment in all councils', after an assessment to adopt one standard system"},
+    {"system": "Digital Citizens Engagement Platforms", "country_label": "Digital Citizens Engagement Platforms", "class": "web", "platform": "", "owner": "", "tiers": "to be set up in all city councils; US$80,000 costed for 2023"},
+    {"system": "Integrated Financial Management Information System", "country_label": "IFMIS", "class": "central", "platform": "FreeBalance", "owner": "Ministry of Finance", "tiers": "introduced in 2005 with the management of funds at central and local government level among its objectives; rollout costed for all central government MDAs and donor-funded projects; no local council is said to be on it"}
+  ],
+  "note": "A reform strategy and its costing. It costs the roll-out of PFM Smart to the local councils and the ICT environment for a cadastral system in all councils, and names no connection at a council office, planned or existing. Read as the passages file."
+}

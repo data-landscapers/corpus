@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+EGY,connection,governance,qualifier,owner:ministry;finance:not-stated,2024-01-15,EGY-002;EGY-003,,not stated: plan
+EGY,connection,use,coverage,,,,,nothing held
+EGY,connection,connected,coverage,,,,,nothing held
+EGY,connection,last12,qualifier,,,,,nothing held
+EGY,connection,authorities,coverage,pilot,2024-01-15,EGY-001,,

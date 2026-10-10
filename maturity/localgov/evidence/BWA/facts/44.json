@@ -1,0 +1,14 @@
+{
+  "slug": "2023-01-01-bwa-botswana-fibre-networks-2023-annual-report",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:4", "fact": "BoFiNet's annual report says that at the end of financial year 2022/23 it had partnered with four local authorities (Serowe and Mahalapye District Councils, Bobirwa and Boteti Sub District Councils) for the deployment of premises Wi-Fi in their Rural Administration Centres; it gives no total of councils and does not say the service was live.", "as_of": "2023-03", "date_precision": "month", "system": "premises Wi-Fi in Rural Administration Centres", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "premises Wi-Fi in Rural Administration Centres", "country_label": "premises Wi-Fi in Rural Administration Centres (RACs)", "class": "connection", "platform": "BoFiNet premises Wi-Fi", "owner": "BoFiNet, in partnership with the councils", "tiers": "four local authorities: two district councils and two sub-district councils; deployment partnerships"},
+    {"system": "SmartBots Village Connectivity", "country_label": "SmartBots Village Connectivity initiative", "class": "public-access", "platform": "public Wi-Fi", "owner": "BoFiNet, mandated by Government", "tiers": "85 hotspots in 16 localities; 1,138 premises in 144 villages being connected, among them 165 sites of the Ministry of Local Government and Rural Development (customary courts and tribal administration offices)"},
+    {"system": "national open-access backbone", "country_label": "national open-access backbone broadband infrastructure", "class": "backbone", "platform": "fibre (over 12,000 km) and microwave radio", "owner": "BoFiNet", "tiers": "206 of 399 gazetted localities connected; the remaining 193 targeted by 2025"},
+    {"system": "Fibre-To-The-Business", "country_label": "FTTB", "class": "backbone", "platform": "fibre", "owner": "BoFiNet", "tiers": "4,803 commercial and government premises in 13 towns; no council office named"},
+    {"system": "BoFiNet data centre", "country_label": "Data Centre project", "class": "backbone", "platform": "", "owner": "BoFiNet", "tiers": "national; 96% complete at year end"}
+  ],
+  "note": "Read as passages. The one fact is a count of councils partnered for deployment, not of offices stated as connected: the parent should read it as preparation. The 206-of-399 localities figure is network coverage of areas and gives no fact; the 165 Ministry of Local Government sites are customary courts and tribal offices under a public Wi-Fi scheme."
+}

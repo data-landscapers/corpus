@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 AGO,connection,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-08-14,AGO-005;AGO-006;AGO-012,AGO-010=owner:ministry;AGO-011=owner:ministry;AGO-013=finance:not-stated;AGO-015=plan:current;AGO-016=finance:donor;AGO-017=owner:ministry;AGO-018=owner:ministry,
 AGO,connection,use,coverage,systems,2026-08-14,AGO-002;AGO-007;AGO-014;AGO-020,,
-AGO,connection,connected,coverage,institutional,2026-08-14,AGO-001,,
+AGO,connection,connected,coverage,institutional,2026-08-14,AGO-001,AGO-021=none,
 AGO,connection,last12,qualifier,advancing,2026-08-14,AGO-004;AGO-009;AGO-019,,
 AGO,connection,authorities,coverage,count:11,2026-08-14,AGO-003,AGO-008=count:254,

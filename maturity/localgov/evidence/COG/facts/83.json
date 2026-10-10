@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-30-cog-presentation-de-la-plateforme-pdrcl-a-la-mairie-de-brazzaville-par-lac",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plateforme de Dématérialisation des Recettes des Collectivités Locales (PDRCL)",
+      "country_label": "PDRCL",
+      "class": "application",
+      "platform": "designed by ACSI; mobile terminals for collection agents and a dashboard for the municipal authority",
+      "owner": "Agence Congolaise des Systèmes d'Information (ACSI)",
+      "tiers": "presented to the mayor of Brazzaville on 30 April 2026; not said to be in use in any local authority"
+    }
+  ],
+  "note": "A local revenue collection platform presented to the capital's city hall, an application not yet in use; nothing is stated about any office's connection."
+}

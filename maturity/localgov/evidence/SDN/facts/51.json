@@ -1,0 +1,13 @@
+{
+  "slug": "2022-11-30-sdn-nic-sixth-coordination-meeting-state-information-centre-directors",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:not-stated", "fact": "The National Information Centre's sixth coordination meeting with the states' information centre directors, held on 22 November 2022, recommended directing Sudatel to connect fibre at once to the localities and bodies that ask for it, the beneficiary to pay; it is a recommendation, no locality is reported connected, and no budget line is named.", "as_of": "2022-11-22", "date_precision": "day", "system": "Sudatel fibre for localities on request", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Sudatel fibre for localities on request", "country_label": "توصيل فايبر للمحليات", "class": "connection", "platform": "fibre", "owner": "Sudatel to deliver; the requesting locality or body to pay", "tiers": "localities and other bodies that request it; recommended on 22 November 2022, none reported connected"},
+    {"system": "States' network", "country_label": "شبكة الولايات", "class": "upper-tier", "platform": "", "owner": "National Information Centre with the states' information centres and the telecommunications companies", "tiers": "states; the meeting recommended strengthening it and lowering the cost of internet"},
+    {"system": "State information centres", "country_label": "مراكز معلومات الولايات", "class": "upper-tier", "platform": "", "owner": "state governments, coordinated by the National Information Centre", "tiers": "one in each state; the meeting asked for urgent support for centres damaged in recent events"},
+    {"system": "National email", "country_label": "البريد القومي", "class": "central", "platform": "", "owner": "", "tiers": "the meeting recommended making its use mandatory for electronic exchange; no tier stated"}
+  ],
+  "note": "The one fact is a recommendation of a meeting: a connection asked for, not delivered. Everything else in the text concerns the states' information centres, the upper tier."
+}

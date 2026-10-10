@@ -1,0 +1,26 @@
+{
+  "slug": "2024-06-17-lso-micsti-partners-strategise",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Lesotho News Agency reports the ministry's Principal Secretary saying on 17 June 2024 that the ministry provides 74 digital services and that its plan is to roll them out by also connecting Community Councils; he gave no number of councils, no date and no funding, and the captured text ends there.",
+      "as_of": "2024-06-17",
+      "date_precision": "day",
+      "system": "planned connection of Community Councils",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "planned connection of Community Councils",
+      "country_label": "connecting Community Councils",
+      "class": "connection",
+      "platform": "",
+      "owner": "Ministry of Information, Communications, Science, Technology and Innovation",
+      "tiers": "Community Councils, as a stated plan; none said to be connected"
+    }
+  ],
+  "note": "An excerpt: the body ends in an ellipsis at the capture. The connection of Community Councils is announced, not reported as made; the year is from the file's header, the dateline giving 17 June only."
+}

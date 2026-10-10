@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,connection,governance,qualifier,,,,,nothing held
+SDN,connection,governance,qualifier,finance:not-stated,2022-11-22,SDN-002,,nothing dated since 2023-09-28
 SDN,connection,use,coverage,,,,,nothing held
 SDN,connection,connected,coverage,,,,,nothing held
 SDN,connection,last12,qualifier,,,,,nothing held

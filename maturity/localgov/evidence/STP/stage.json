@@ -1,0 +1,19 @@
+{
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "no evidence",
+      "governance": "",
+      "use": "",
+      "connected": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held names the institutions on the government network or puts a district council on it; the digital governance strategy is held cut off before its network chapter.",
+      "note": ""
+    }
+  ]
+}

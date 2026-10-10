@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 MAR,connection,governance,qualifier,owner:ministry;finance:donor,2026-03-09,MAR-004;MAR-005,MAR-009=owner:ministry;MAR-014=owner:ministry;MAR-018=owner:ministry;MAR-019=finance:domestic,not stated: plan
 MAR,connection,use,coverage,systems,2026-01-30,MAR-001;MAR-006;MAR-008;MAR-011,MAR-013=internet;MAR-016=none,
-MAR,connection,connected,coverage,none,2016,MAR-015,,nothing dated since 2023-10-10
+MAR,connection,connected,coverage,none,2016,MAR-015,,nothing dated since 2023-09-28
 MAR,connection,last12,qualifier,,,,,nothing held
 MAR,connection,authorities,coverage,equipped:60.9%,2020-05-19,MAR-010,MAR-002=count:91;MAR-003=count:59;MAR-007=count:100;MAR-012=count:240;MAR-017=not-published,

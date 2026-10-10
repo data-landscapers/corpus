@@ -1,0 +1,45 @@
+{
+  "slug": "2023-11-01-uganda-g2p-payment-mechanisms-feasibility-study",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The gender ministry's feasibility study states that local governments transfer project funds to community group accounts using the Integrated Financial Management System (IFMS), that their accounting officers prepare and submit quarterly warrants on it, and that as of July 2022 all local governments had been migrated to the IFMS; it gives no count of local governments and does not describe the link each uses.",
+      "as_of": "2022-07",
+      "date_precision": "month",
+      "system": "Local government access to the Integrated Financial Management System",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The study team, visiting Koboko and Yumbe districts on 25 to 29 April 2022, found that Koboko district offices have access to internet, though its Community Service Department has no active access to NITA-U's internet, and that Yumbe's local government offices were reported not to have adequate hardware, software or internet for the programme's work; the study covers these two district local governments only.",
+      "as_of": "2022-04",
+      "date_precision": "month",
+      "system": "NITA-U internet at district local government offices",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The study names the internet at Koboko district offices in April 2022 as that of the National Information Technology Authority (NITA-U), a government body, and assigns NITA-U the role of ensuring last-mile internet connectivity for the district local governments running social protection payments.",
+      "as_of": "2022-04",
+      "date_precision": "month",
+      "system": "NITA-U internet at district local government offices",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {"system": "NITA-U internet at district local government offices", "country_label": "NITA-U's internet", "class": "connection", "platform": "", "owner": "National Information Technology Authority (NITA-U)", "tiers": "Koboko district offices, without its Community Service Department; Yumbe local government offices reported inadequate"},
+    {"system": "Integrated Financial Management System", "country_label": "IFMS", "class": "application", "platform": "IT-based budgeting and accounting system with a treasury single account", "owner": "Ministry of Finance, Planning and Economic Development, Accountant General", "tiers": "ministries, departments and agencies and local governments; all local governments migrated as of July 2022"},
+    {"system": "Electronic Cash", "country_label": "E-Cash", "class": "application", "platform": "mobile commerce platform on a secure web portal, integrated with the major telecoms", "owner": "Government of Uganda, with Stanbic Bank as sole service provider", "tiers": "ministries, agencies and local governments, for cash pay-outs"},
+    {"system": "BBS-Connect", "country_label": "BBS Connect", "class": "application", "platform": "Oracle banking digital experience, customised", "owner": "Bank of Uganda", "tiers": "Bank of Uganda customers including government ministries, departments and agencies; being phased out by the finance ministry"},
+    {"system": "SAGE Management Information System", "country_label": "SAGE MIS", "class": "application", "platform": "", "owner": "Ministry of Gender, Labour and Social Development, Expanding Social Protection programme", "tiers": "programme MIS unit centrally, with access at local governments"},
+    {"system": "DRDIP Management Information System", "country_label": "DRDIP MIS", "class": "application", "platform": "", "owner": "Office of the Prime Minister", "tiers": "project staff centrally and at district local governments"},
+    {"system": "National Single Registry", "country_label": "NSR", "class": "central", "platform": "", "owner": "Ministry of Gender, Labour and Social Development", "tiers": "national; linked to the SAGE MIS and the NIRA identity database"}
+  ],
+  "note": ""
+}

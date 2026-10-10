@@ -1,0 +1,19 @@
+{
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "no evidence",
+      "governance": "",
+      "use": "",
+      "connected": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held states whether any of the 54 communes' offices is connected; the search found no published count and its likeliest source could not be fetched.",
+      "note": ""
+    }
+  ]
+}

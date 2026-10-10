@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2023,GMB-005;GMB-006;GMB-008,GMB-007=plan:current;GMB-009=finance:domestic,
-GMB,connection,use,coverage,systems,2026-08,GMB-001;GMB-004,GMB-002=none,
-GMB,connection,connected,coverage,,,,,nothing held
-GMB,connection,last12,qualifier,,,,,nothing held
-GMB,connection,authorities,coverage,count:1,2026-08,GMB-003,,
+GMB,connection,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2025-09,GMB-014;GMB-015;GMB-020,GMB-019=owner:ministry;GMB-021=finance:not-stated;GMB-005=plan:current;GMB-006=finance:donor;GMB-007=plan:current;GMB-008=owner:ministry;GMB-009=finance:domestic,
+GMB,connection,use,coverage,systems,2026-08,GMB-001;GMB-004;GMB-010;GMB-016,GMB-002=none,
+GMB,connection,connected,coverage,institutional,2025-09,GMB-011;GMB-017,,
+GMB,connection,last12,qualifier,advancing,2025-09,GMB-013,,
+GMB,connection,authorities,coverage,share:100%,2024-12,GMB-018,GMB-003=count:1;GMB-012=count:4,

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-08-13-syc-seychelles-government-directory-2025",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "internet", "fact": "The Office of the President's government directory lists, 'as from 1st March 2025', 27 district administration offices under the Ministry of Local Government and Community Affairs, each with its own office mailbox on the government's gov.sc domain (anseauxpinsda@gov.sc to takamakada@gov.sc) beside an office telephone number; it states nothing else of what the offices do online.", "as_of": "2025-03-01", "date_precision": "day", "system": "District administration office gov.sc mailboxes", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:27", "fact": "The government directory's table of district administrations, dated 1 March 2025, lists 27 districts, Praslin's two and La Digue among them, and gives every one of the 27 an office mailbox on gov.sc; the directory states no total of districts beyond its own list.", "as_of": "2025-03-01", "date_precision": "day", "system": "District administration office gov.sc mailboxes", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "District administration office gov.sc mailboxes", "country_label": "", "class": "connection", "platform": "government email on the gov.sc domain", "owner": "Government of Seychelles; Ministry of Local Government and Community Affairs", "tiers": "all 27 district administration offices listed"},
+    {"system": "Office of the Mayor of Victoria contact", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "the acting Mayor's listed email is a yahoo.com address, with no gov.sc mailbox given"},
+    {"system": "Department of Information and Communications Technology", "country_label": "DICT", "class": "central", "platform": "", "owner": "Office of the Vice-President", "tiers": "central department with an IT Division; listed as a contact only"}
+  ],
+  "note": "A contact directory. It states no connection: how the district offices are connected, who pays and whether they are on a government network are not said, so no `connected` or `governance` fact is taken; the mailboxes on the government's own domain are recorded as use."
+}

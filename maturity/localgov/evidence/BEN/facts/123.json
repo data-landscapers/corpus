@@ -1,0 +1,13 @@
+{
+  "slug": "2023-05-31-ben-digitalisation-makes-authorities-in-west-africa-more-efficient",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "none", "fact": "KfW reports on 31 May 2023 that 187 authorities (ministries, the presidential office and prefectures) are connected in Benin's administrative network and that connecting all municipalities to it is the next step; no municipality is said to be on it.", "as_of": "2023-05-31", "date_precision": "day", "system": "administrative network", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "KfW, on behalf of Germany's BMZ, financed the administrative network with EUR 10 million in a first phase, to which Benin's government added a counterpart of about EUR 4.8 million, and plans a further EUR 14.3 million in a second phase; connecting all municipalities is given as the next step.", "as_of": "2023-05-31", "date_precision": "day", "system": "administrative network", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "administrative network", "country_label": "administrative network", "class": "backbone", "platform": "radio and fibre-optic links; 27 central hubs with photovoltaic emergency power", "owner": "Government of Benin, financed by KfW for BMZ", "tiers": "187 authorities: ministries, the presidential office and prefectures; municipalities to be connected next"},
+    {"system": "national data centre", "country_label": "national data centre", "class": "backbone", "platform": "", "owner": "Government of Benin, financed by KfW for BMZ", "tiers": "national"},
+    {"system": "key applications for municipalities", "country_label": "key applications for budget planning, awarding of contracts and statistics", "class": "application", "platform": "", "owner": "", "tiers": "municipalities, once connected; planned"}
+  ],
+  "note": "The network as built serves central authorities and prefectures (backbone, central); the two facts are the stated absence of municipalities and the funding of the programme whose next step is to connect them. The connection of municipalities is announced, not live."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2023-05-31-ben-digitalisation-makes-authorities-in-west-africa-more-efficient",
+  "facts": [],
+  "systems": [
+    {"system": "Government intranet", "country_label": "the government's intranet", "class": "backbone", "platform": "", "owner": "Government of Senegal; a second KfW project of EUR 40 million, on behalf of the German Federal Government, is to finance reliable access to IT services and the connection of public administration to it", "tiers": "public administration; no local government office is said to be on it"},
+    {"system": "Land registry cadastre in a geographic information system", "country_label": "land registry cadastre", "class": "central", "platform": "GIS", "owner": "financed by a KfW grant of EUR 29 million on behalf of the German Federal Government", "tiers": "data management centres to be built, rehabilitated and equipped; the text says no uniform cadastres have existed in the various municipalities"},
+    {"system": "Community houses", "country_label": "community houses", "class": "public-access", "platform": "", "owner": "planned under the KfW cadastre project", "tiers": "planned in some municipalities, for easier access to administrative services"}
+  ],
+  "note": "KfW's news item of 31 May 2023 says of Senegal that it will finance the connection of public administration to the government's intranet and the digitalisation of the cadastre; no commune or other local government office is named as connected or to be connected. The 187 authorities on Benin's network and the plan for Benin's municipalities are Benin's, not Senegal's."
+}

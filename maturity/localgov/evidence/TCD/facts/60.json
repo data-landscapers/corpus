@@ -1,0 +1,63 @@
+{
+  "slug": "2026-05-19-tcd-remise-dequipements-aux-23-communes-le-numerique-au-service-des-citoye",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The finance ministry's own post states that the equipment handed to the 23 communes that are provincial capitals, under the Projet d'Appui à la Transformation Numérique du Tchad (PATN), included Starlink Business kits with antenna, router and Wi-Fi, monthly internet-provider subscriptions and Wi-Fi access points; it reports the handover and does not say the links are in service, and gives no date for the ceremony, so the post's published date is used.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink Business kits and monthly internet subscriptions handed to communes under PATN",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:23",
+      "fact": "The finance ministry states that 23 communes, those of the provincial capitals, received the equipment, which included satellite kits and monthly internet subscriptions, at a ceremony chaired by the Secretary of State for Finance and Budget; it gives no national count of communes and does not say how many are online, and gives no ceremony date, so the published date is used.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink Business kits and monthly internet subscriptions handed to communes under PATN",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The handover to the 23 communes was made by the Government through the finance ministry, whose Secretary of State for Finance and Budget chaired the ceremony, under the PATN project; no ceremony date is given, so the published date is used.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink Business kits and monthly internet subscriptions handed to communes under PATN",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The finance ministry states that the equipment for the 23 communes, satellite kits and internet subscriptions among it, was provided under the PATN project with the World Bank's support, which the Secretary of State acknowledged; no domestic budget line is named and no ceremony date is given, so the published date is used.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink Business kits and monthly internet subscriptions handed to communes under PATN",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The finance ministry reports the official handover to 23 provincial-capital communes of computers, printers, copiers, Starlink Business kits, monthly internet subscriptions and Wi-Fi access points under PATN; the post is dated 19 May 2026 and gives no separate ceremony date.",
+      "as_of": "2026-05-19",
+      "date_precision": "day",
+      "system": "Starlink Business kits and monthly internet subscriptions handed to communes under PATN",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {"system": "Starlink Business kits and monthly internet subscriptions handed to communes under PATN", "country_label": "Projet d'Appui à la Transformation Numérique du Tchad (PATN)", "class": "connection", "platform": "Starlink Business satellite kits with router and Wi-Fi; monthly ISP subscriptions; Wi-Fi access points", "owner": "Government, through the finance ministry, with World Bank support", "tiers": "23 communes that are provincial capitals"},
+    {"system": "Computers, printers and photocopiers handed to communes under PATN", "country_label": "Projet d'Appui à la Transformation Numérique du Tchad (PATN)", "class": "equipment", "platform": "All-in-one and Core i5 desktop computers, HP LaserJet printers, IR 2425 photocopiers, consumables", "owner": "Government, through the finance ministry, with World Bank support", "tiers": "23 communes that are provincial capitals"},
+    {"system": "SIGFiP", "country_label": "SIGFiP", "class": "", "platform": "", "owner": "Ministère des Finances", "tiers": ""},
+    {"system": "Facturation Électronique Normalisée", "country_label": "Facturation Électronique Normalisée", "class": "", "platform": "", "owner": "Ministère des Finances", "tiers": ""},
+    {"system": "e-Tax", "country_label": "e-Tax", "class": "", "platform": "", "owner": "Ministère des Finances", "tiers": ""}
+  ],
+  "note": ""
+}

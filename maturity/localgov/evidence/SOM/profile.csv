@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SOM,connection,governance,qualifier,owner:ministry;plan:current,2019,SOM-003;SOM-004,,nothing dated since 2023-10-10
-SOM,connection,use,coverage,systems,2022,SOM-001,,nothing dated since 2023-10-10
+SOM,connection,governance,qualifier,owner:ministry;plan:current,2019,SOM-003;SOM-004,,nothing dated since 2023-09-28
+SOM,connection,use,coverage,systems,2022,SOM-001,,nothing dated since 2023-09-28
 SOM,connection,connected,coverage,,,,,nothing held
 SOM,connection,last12,qualifier,,,,,nothing held
-SOM,connection,authorities,coverage,not-published,2022,SOM-002,,nothing dated since 2023-10-10
+SOM,connection,authorities,coverage,not-published,2022,SOM-002,,nothing dated since 2023-09-28

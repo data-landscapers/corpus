@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,connection,governance,qualifier,owner:partner;finance:donor,2024-07-19,BDI-002;BDI-003,,not stated: plan
+BDI,connection,governance,qualifier,owner:partner;plan:current;finance:donor,2024-07-19,BDI-002;BDI-003;BDI-008,,
 BDI,connection,use,coverage,,,,,nothing held
 BDI,connection,connected,coverage,institutional,2024-07-19,BDI-001,,
 BDI,connection,last12,qualifier,,,,,nothing held
-BDI,connection,authorities,coverage,count:1,2024-07-19,BDI-004,BDI-006=not-published;BDI-005=not-published,
+BDI,connection,authorities,coverage,count:1,2024-07-19,BDI-004,BDI-006=not-published;BDI-007=none;BDI-005=not-published,

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MRT,connection,governance,qualifier,,,,,nothing held
+MRT,connection,use,coverage,systems,2022,MRT-001,,nothing dated since 2023-09-28
+MRT,connection,connected,coverage,,,,,nothing held
+MRT,connection,last12,qualifier,,,,,nothing held
+MRT,connection,authorities,coverage,equipped:90%,2023-12,MRT-002,,

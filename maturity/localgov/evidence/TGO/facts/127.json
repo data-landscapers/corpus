@@ -1,0 +1,69 @@
+{
+  "slug": "2026-07-01-tgo-plan-d-action-de-reinstallation-des-travaux-d-extension-de-la-connecti",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "none",
+      "fact": "The digital ministry's resettlement plan for the Maritime region, final version of July 2026, states that the Projet d'Accélération Numérique du Togo (PANT) is to extend last-mile fibre to public facilities including 136 town hall buildings, with 1,488 schools and 253 health facilities, and to connect all municipal buildings of the communes nationally; the works had not begun, the plan saying fibre deployment would start once the contract was signed, so none is connected under it yet, and it gives no figure for town halls already connected by other means.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Last-mile broadband connectivity to public institutions under PANT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "none",
+      "fact": "At the project's stakeholder consultations in the Maritime region in June 2025 the project team answered that it was planned to connect the 117 communes, all prefectures, health centres and secondary schools with electricity, with connectivity offered free for ten years, and that the project was still in procurement; the answer states a plan and no commune connected.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "Last-mile broadband connectivity to public institutions under PANT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The resettlement plan of July 2026 names the Ministère de l'Efficacité du Service Public et de la Transformation Numérique as the project's ministry and its PANT project management unit as promoter of the fibre extension that is to reach town halls.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Last-mile broadband connectivity to public institutions under PANT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The resettlement plan of July 2026 states that PANT, a 100 million dollar project under the Government Roadmap 2025, has a component to densify the backhaul network and extend last-mile connectivity to public institutions, named as education, health and town halls, with a target of 136 town hall buildings across six lots and 494 km of fibre in the Maritime region linking commune seats.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Last-mile broadband connectivity to public institutions under PANT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The resettlement plan of July 2026 states that PANT is implemented with the World Bank for 100 million dollars; the only state financing it names is the compensation of the 741 affected persons in the Maritime region, and it names no domestic budget line for the connections.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Last-mile broadband connectivity to public institutions under PANT",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The final resettlement plan for the Maritime region's fibre works was issued in July 2026 after a second consultation on 23 and 24 December 2025 with the secretaries general of prefectures and town halls; the plan says the operator that will do the detailed design and the works was still to be recruited and that deployment would start after contracting.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Last-mile broadband connectivity to public institutions under PANT",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {"system": "Last-mile broadband connectivity to public institutions under PANT", "country_label": "Projet d'Accélération Numérique du Togo (PANT), extension de la connectivité à large bande (backhaul)", "class": "connection", "platform": "optical fibre backhaul with last-mile links", "owner": "Ministère de l'Efficacité du Service Public et de la Transformation Numérique, PANT project management unit, with the World Bank", "tiers": "planned: 136 town hall buildings, 1,488 schools and 253 health facilities nationally; Maritime region prefectures of Agoè-Nyivé, Zio, Avé, Yoto, Lacs, Bas-Mono and Vo"}
+  ],
+  "note": ""
+}

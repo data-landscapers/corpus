@@ -1,0 +1,116 @@
+{
+  "slug": "2025-04-01-gmb-2024-public-finance-management-annual-progress-report",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "Most councils were actively using the government's Integrated Financial Management Information System (IFMIS) in 2024, on the Ministry of Finance's annual progress report: Brikama Area Council was the only one fully using it to print its financial statements and enter its 2024 budget, Banjul City Council had migrated all its data and cleared its backlogs, Kuntaur kept its 2024 records up to date, and Basse and Kerewan had migrated revenue data only.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "By the fourth quarter of 2024 Janjanbureh and Kuntaur area councils had working internet connections giving access to most of their offices, Banjul City Council had a 100 Mbps connection and Kuntaur had upgraded to 10 Mbps, while Janjanbureh and Kerewan still had unreliable internet and too little backup power, on the Ministry of Finance's report; the report does not say who pays for the connections.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "councils' internet connections for IFMIS",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:100%",
+      "fact": "IFMIS had been implemented in all Local Government Area Councils by the end of 2024, on the Ministry of Finance's report, which gives no count and names eight councils (Banjul, Kanifing, Brikama, Mansakonko, Kerewan, Kuntaur, Janjanbureh, Basse); it adds that most, not all, were actively using it and that low bandwidth and frequent disruptions persisted.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The rollout of IFMIS to the councils is a reform of the Ministry of Finance and Economic Affairs, reported by its Public Finance Management Directorate under the local government pillar of the strategy, with the system run by the Accountant General's Department, as of 2024.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Public Financial Management Strategy 2021-2025 has Local Government Authorities as one of its seven pillars, with rolling out IFMIS to the councils its first component; the 2024 report under it recommends improving internet connectivity and backup power for councils with poor infrastructure. The strategy is named for the system's rollout, not for a connection programme.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The 2024 report names no budget or funder for the councils' internet connections; its foreword credits development partners' money with driving the reforms in general, and Janjanbureh and Mansakonko councils were seeking funds from partners such as ActionAid for training.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "councils' internet connections for IFMIS",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "country_label": "IFMIS",
+      "class": "connection",
+      "platform": "",
+      "owner": "Ministry of Finance and Economic Affairs; Accountant General's Department",
+      "tiers": "all ministries, departments and agencies, sub-treasuries, foreign missions, Local Government Area Councils, 21 subvented agencies and 12 self-accounting projects"
+    },
+    {
+      "system": "councils' internet connections for IFMIS",
+      "country_label": "internet connection",
+      "class": "connection",
+      "platform": "Banjul 100 Mbps; Kuntaur 10 Mbps",
+      "owner": "the councils",
+      "tiers": "Banjul, Kuntaur and Janjanbureh named as working; Janjanbureh and Kerewan unreliable; Mansakonko steadied by a backup generator"
+    },
+    {
+      "system": "digital tax register (DTCS)",
+      "country_label": "DTCS system; digital tax register",
+      "class": "application",
+      "platform": "",
+      "owner": "Basse Area Council",
+      "tiers": "Basse Area Council"
+    },
+    {
+      "system": "desktops and laptops for IFMIS",
+      "country_label": "new desktops and laptops",
+      "class": "equipment",
+      "platform": "",
+      "owner": "the councils",
+      "tiers": "Kanifing Municipal Council and others bought new devices; only one council fully uses them for IFMIS, others held back by faulty equipment and restricted user rights"
+    },
+    {
+      "system": "Functional Revenue and Payment Platform",
+      "country_label": "functional revenue platform",
+      "class": "central",
+      "platform": "",
+      "owner": "Accountant General's Department",
+      "tiers": "all government ministries; non-tax revenue in its first phase"
+    },
+    {
+      "system": "Electronic Records Management System (ERMS)",
+      "country_label": "ERMS",
+      "class": "central",
+      "platform": "",
+      "owner": "Ministry of Public Service; National Records Service",
+      "tiers": "8 ministries, departments and agencies"
+    }
+  ],
+  "note": "The council abbreviations are read as: BCC Banjul, KMC Kanifing, BAC Brikama, MKAC Mansakonko, KAC Kerewan, KTAC/KTRA Kuntaur, JAC Janjanbureh, BSAC Basse; the report spells none of them out. The share is of councils with the national system implemented, stated as `all` with no count beside it. The National Audit Office's 80 Mbps link is a central body's and gives no fact."
+}

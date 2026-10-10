@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,connection,governance,qualifier,finance:donor,2025-08-24,SLE-005,,"not stated: owner, plan"
-SLE,connection,use,coverage,systems,2025,SLE-001;SLE-009,SLE-008=internet,
-SLE,connection,connected,coverage,institutional,2025-04,SLE-003,SLE-006=personal,
-SLE,connection,last12,qualifier,advancing,2025,SLE-011,,
-SLE,connection,authorities,coverage,share:100%,2025,SLE-010,SLE-004=not-published;SLE-002=count:1;SLE-007=none,
+SLE,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-03,SLE-021;SLE-022;SLE-024,SLE-005=finance:donor;SLE-014=owner:ministry;SLE-015=finance:donor;SLE-025=owner:ministry,
+SLE,connection,use,coverage,systems,2026-03,SLE-001;SLE-009;SLE-018,SLE-008=internet,
+SLE,connection,connected,coverage,institutional,2026-03,SLE-003;SLE-012;SLE-017,SLE-006=personal,
+SLE,connection,last12,qualifier,advancing,2026-03,SLE-011;SLE-016;SLE-023,,
+SLE,connection,authorities,coverage,share:100%,2026-03,SLE-010;SLE-019,SLE-020=count:1;SLE-013=not-published;SLE-004=not-published;SLE-002=count:1;SLE-007=none,

@@ -1,0 +1,14 @@
+{
+  "slug": "2021-04-01-csps-undp-local-government-capacity-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "ICT systems (hardware, software, connectivity) of state ministries and institutions", "country_label": "ICT system", "class": "upper-tier", "platform": "", "owner": "state and administrative-area governments", "tiers": "86 ministries and institutions of the ten states and three administrative areas interviewed: 58% (50) report no ICT system and 42% (36) report one, 'such as hardware and software connectivity'; lack of ICT systems and poor network coverage and connectivity in some states are listed among the states' challenges"},
+    {"system": "DHIS2 and HMIS", "country_label": "DHIS2 and HMIS", "class": "upper-tier", "platform": "DHIS2", "owner": "", "tiers": "named among tools in place at state ministries and institutions; no description"},
+    {"system": "EWARS", "country_label": "EWARS", "class": "upper-tier", "platform": "", "owner": "", "tiers": "available only in surveillance offices"},
+    {"system": "ODK software and reporting template", "country_label": "ODK", "class": "upper-tier", "platform": "ODK", "owner": "", "tiers": "named among tools in place at state ministries and institutions"},
+    {"system": "Payroll software", "country_label": "Payroll software", "class": "upper-tier", "platform": "", "owner": "", "tiers": "named among tools in place at state ministries and institutions"},
+    {"system": "Online connections for coordination (Skype, Zoom, WhatsApp, Messenger)", "country_label": "", "class": "upper-tier", "platform": "Skype, Zoom, WhatsApp, Messenger", "owner": "", "tiers": "listed among mechanisms state institutions use to coordinate and exchange information; how they connect is not stated"},
+    {"system": "Staff familiarity with computer equipment and software; ICT training", "country_label": "", "class": "capacity", "platform": "", "owner": "", "tiers": "68% (59) of the 86 state institutions say staff are not familiar with the equipment and computer software, 32% (27) that they are; the report recommends that UNDP and partners train local government staff in ICT and provide communication equipment, computers and internet services"}
+  ],
+  "note": "Read whole, body now complete. Despite its title the assessment surveyed 86 ministries and institutions of the ten states and three administrative areas, the upper tier, with national bodies; no county, city or town office was assessed and nothing is stated on the connection of a county's own office, so no fact is taken. Its recommendation that partners provide computers and internet services to local government is a recommendation, not a programme."
+}

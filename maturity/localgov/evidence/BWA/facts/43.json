@@ -1,0 +1,11 @@
+{
+  "slug": "2024-11-28-bwa-govt-commits-to-address-payment-delays",
+  "facts": [],
+  "systems": [
+    {"system": "Government Budgeting and Accounting System (GABS)", "country_label": "GABS", "class": "central", "platform": "Oracle", "owner": "Ministry of Finance", "tiers": "central government ministries; under-performing, Oracle Consulting contracted in August 2024 to restore it"},
+    {"system": "the system at councils", "country_label": "the system at councils", "class": "application", "platform": "", "owner": "councils", "tiers": "councils; used from June 2024 as a temporary measure to pay outstanding central government supplier payments"},
+    {"system": "Great Plains Microsoft Dynamics 365", "country_label": "Great Plains Microsoft Dynamics 365", "class": "central", "platform": "Microsoft Dynamics 365", "owner": "Ministry of Finance", "tiers": "central government; planned as a fall-back to GABS"},
+    {"system": "Government Data Network (GDN)", "country_label": "Government Data Network (GDN)", "class": "backbone", "platform": "", "owner": "", "tiers": "government; named among causes of late payment, no council office said to be on it"}
+  ],
+  "note": "The Finance Minister's parliamentary answer (reported 28 November 2024) says councils run a payment system of their own, used from June 2024 to pay central government's suppliers; it states no connection at council offices and no work by councils in a system held elsewhere, so there is no fact."
+}

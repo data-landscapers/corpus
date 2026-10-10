@@ -1,0 +1,52 @@
+{
+  "slug": "2015-06-26-cmr-draft-pcd-de-bibey",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "The institutional diagnosis of Bibey commune, made in September-October 2014 for its communal development plan, lists among the weaknesses of the commune's own assets the absence of an internet connection and of a website, beside no working electricity network or solar power and only partial telephone coverage; one commune, as stated by the plan's drafters.",
+      "as_of": "2014-10",
+      "date_precision": "month",
+      "system": "connexion internet de la Commune de Bibey",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "none",
+      "fact": "With no internet connection at the commune of Bibey in September-October 2014, the plan records no online working: computerising payroll and financial management and equipping the administrative services with computers are listed as things still to be done.",
+      "as_of": "2014-10",
+      "date_precision": "month",
+      "system": "connexion internet de la Commune de Bibey",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "connexion internet de la Commune de Bibey",
+      "country_label": "connexion internet",
+      "class": "connection",
+      "platform": "",
+      "owner": "Commune de Bibey",
+      "tiers": "one commune; absent in 2014"
+    },
+    {
+      "system": "informatisation de la gestion financière et de la paie",
+      "country_label": "informatiser la gestion financière; logiciel de paie",
+      "class": "application",
+      "platform": "",
+      "owner": "Commune de Bibey",
+      "tiers": "planned for the commune in its 2015-2017 plan; not in place"
+    },
+    {
+      "system": "Télé centre communautaire / Centre multimédia",
+      "country_label": "Télé centre communautaire/Centre multi média",
+      "class": "public-access",
+      "platform": "",
+      "owner": "listed under MINCOM, the telecommunications ministry and the culture ministry",
+      "tiers": "Bibey urban centre"
+    }
+  ],
+  "note": "Read as passages of a 57,836-word plan. One commune's own diagnosis, so no `authorities` fact is written."
+}

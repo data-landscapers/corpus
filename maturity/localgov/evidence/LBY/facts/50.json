@@ -1,0 +1,112 @@
+{
+  "slug": "2021-01-01-lby-e-government-and-digital-transformation-in-libyan-local-authorities",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "Wynn, Bakeer and Forti's case studies of the Misurata, Sabratha and Rujban local authorities find internet access at the authorities' offices that is slow, often disconnected or not always available: in Sabratha's finance department, with fifteen networked computers, the internet was often disconnected and unreliable, and in Rujban it was normally unavailable in community services and unreliable in human resources; the paper does not say who provides or pays for it, and gives no fieldwork date, so its published year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "local authority internet access",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:3",
+      "fact": "The paper studies three local authorities, Misurata, Sabratha and Rujban, by questionnaire and interviews with eighteen officials, and concludes for the three that access to the internet was not always available; it gives no figure for Libya's local authorities as a whole and no fieldwork date, so its published year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "local authority internet access",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "The paper finds that the three authorities' information systems are isolated in-house or third-party systems on departmental networks, with data exchange on paper, and that online services are used occasionally to display and update information on the authority's website (Sabratha finance); no national or shared system is worked in over the internet. No fieldwork date is given, so the published year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "local authority internet access",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:none",
+      "fact": "The paper states that a coherent strategy is needed for ensuring connectivity within and between Libya's local authorities, that the three authorities had no detailed or planned strategies to adopt e-government, and that the national E-Libya initiative was suspended in 2015 and its 2017 revival hampered by civil war; the published year is used.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "local authority internet access",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "local authority internet access",
+      "country_label": "access to the internet",
+      "class": "connection",
+      "platform": "",
+      "owner": "",
+      "tiers": "the offices of the Misurata, Sabratha and Rujban local authorities; slow, unreliable or normally unavailable"
+    },
+    {
+      "system": "departmental local area networks",
+      "country_label": "LAN; client/server network; peer-to-peer network",
+      "class": "equipment",
+      "platform": "",
+      "owner": "the local authorities",
+      "tiers": "single departments in Sabratha and Rujban; no authority had an effective cross-authority network"
+    },
+    {
+      "system": "Purchasing System",
+      "country_label": "Purchasing System",
+      "class": "application",
+      "platform": "in-house, SQL database and Visual Basic; introduced 2010",
+      "owner": "Sabratha local authority IT department",
+      "tiers": "Sabratha procurement, six computers, isolated"
+    },
+    {
+      "system": "Warehouse Management System (WMS)",
+      "country_label": "Warehouse Management System",
+      "class": "application",
+      "platform": "in-house, SQL database and Visual Studio; introduced 2008",
+      "owner": "Sabratha local authority IT department",
+      "tiers": "Sabratha procurement, four computers, isolated"
+    },
+    {
+      "system": "accounts management and payroll system",
+      "country_label": "accounts management and payroll system",
+      "class": "application",
+      "platform": "Borland Delphi, by third-party programmers",
+      "owner": "Sabratha local authority",
+      "tiers": "Sabratha finance, eight users on a departmental server"
+    },
+    {
+      "system": "in-house system recording civilian details",
+      "country_label": "in-house system to record civilian details",
+      "class": "application",
+      "platform": "in-house",
+      "owner": "Rujban local authority",
+      "tiers": "Rujban community services"
+    },
+    {
+      "system": "in-house personnel and payroll system",
+      "country_label": "in-house developed system",
+      "class": "application",
+      "platform": "in-house, on a client/server network",
+      "owner": "Rujban local authority",
+      "tiers": "Rujban human resources; no network access to other areas of the authority"
+    },
+    {
+      "system": "local authority web portals",
+      "country_label": "website; web portal",
+      "class": "web",
+      "platform": "",
+      "owner": "the local authorities",
+      "tiers": "all three authorities; one-way, very basic information"
+    }
+  ],
+  "note": "Read whole. The paper gives no date for its fieldwork: the model was piloted in Libya in 2017 and since applied to two further authorities, and the paper was published in 2021. In Misurata, finance works on standalone personal computers, and no internet access is described there beyond the three-authority conclusion. The authors' recommendation that the Ministry of Local Authorities establish common systems and connectivity is a proposal, not a programme."
+}

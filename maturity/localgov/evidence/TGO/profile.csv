@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,connection,governance,qualifier,owner:ministry;finance:donor,2026-02-07,TGO-003;TGO-004,TGO-006=finance:donor;TGO-011=finance:donor;TGO-007=finance:donor;TGO-008=owner:ministry;TGO-017=owner:ministry,not stated: plan
+TGO,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-07,TGO-020;TGO-021;TGO-022,TGO-003=finance:donor;TGO-004=owner:ministry;TGO-006=finance:donor;TGO-011=finance:donor;TGO-007=finance:donor;TGO-008=owner:ministry;TGO-017=owner:ministry,
 TGO,connection,use,coverage,systems,2026-05-12,TGO-009;TGO-012;TGO-014,,
 TGO,connection,connected,coverage,institutional,2026-02-07,TGO-002,,
-TGO,connection,last12,qualifier,advancing,2026-02,TGO-005;TGO-016,,
-TGO,connection,authorities,coverage,count:1,2021-05-27,TGO-013,TGO-015=pilot;TGO-001=none;TGO-010=pilot,
+TGO,connection,last12,qualifier,advancing,2026-07,TGO-005;TGO-016;TGO-023,,
+TGO,connection,authorities,coverage,count:1,2021-05-27,TGO-013,TGO-018=none;TGO-015=pilot;TGO-001=none;TGO-019=none;TGO-010=pilot,

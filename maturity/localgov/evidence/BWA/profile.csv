@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 BWA,connection,governance,qualifier,,,,,nothing held
-BWA,connection,use,coverage,systems,2021-05,BWA-003,,nothing dated since 2023-10-10
+BWA,connection,use,coverage,systems,2021-05,BWA-003,,nothing dated since 2023-09-28
 BWA,connection,connected,coverage,,,,,nothing held
 BWA,connection,last12,qualifier,,,,,nothing held
-BWA,connection,authorities,coverage,count:6,2021-05,BWA-002,BWA-001=pilot,nothing dated since 2023-10-10
+BWA,connection,authorities,coverage,count:4,2023-03,BWA-004,BWA-002=count:6;BWA-001=pilot,nothing dated since 2023-09-28

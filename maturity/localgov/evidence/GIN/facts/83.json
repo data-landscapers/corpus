@@ -1,0 +1,64 @@
+{
+  "slug": "2022-07-27-gin-appel-doffre-marche-de-service-pour-la-connexion-internet-de-10-commun",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "Enabel, the Belgian development agency, issued tender GIN170101T-10045 on 27 July 2022 for a service contract for the internet connection of 10 communes and the other actors of the pilot project to digitalise civil registration, closing on 17 August 2022; a tender, with no connection reported as delivered.",
+      "as_of": "2022-07-27",
+      "date_precision": "day",
+      "system": "Connexion Internet de 10 communes (projet pilote de digitalisation de l'Etat Civil)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "pilot",
+      "fact": "The tender of 27 July 2022 names 10 pilot communes to be connected: the 5 communes of Conakry and the communes of Kassa, Coyah, Kindia, Mamou and Tolo; no total of communes is given.",
+      "as_of": "2022-07-27",
+      "date_precision": "day",
+      "system": "Connexion Internet de 10 communes (projet pilote de digitalisation de l'Etat Civil)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "The internet connection of the 10 pilot communes is procured by Enabel under Belgian procurement law, by negotiated procedure without prior publication, as its tender notice of 27 July 2022 states.",
+      "as_of": "2022-07-27",
+      "date_precision": "day",
+      "system": "Connexion Internet de 10 communes (projet pilote de digitalisation de l'Etat Civil)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The tender of 27 July 2022 is launched by Enabel for the programme to digitalise Guinea's civil registration, the notice citing Belgium's bilateral portfolio of EUR 45 million for 2019-2023 and Enabel's work for other donors; no Guinean budget is named.",
+      "as_of": "2022-07-27",
+      "date_precision": "day",
+      "system": "Connexion Internet de 10 communes (projet pilote de digitalisation de l'Etat Civil)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Connexion Internet de 10 communes (projet pilote de digitalisation de l'Etat Civil)",
+      "country_label": "Connexion Internet de 10 communes et des autres acteurs du projet pilote de digitalisation de l'Etat Civil",
+      "class": "connection",
+      "platform": "",
+      "owner": "Enabel",
+      "tiers": "10 communes: the 5 of Conakry, Kassa, Coyah, Kindia, Mamou and Tolo, with the pilot's other actors"
+    },
+    {
+      "system": "projet pilote de digitalisation de l'Etat Civil",
+      "country_label": "Programme de digitalisation de l'état civil guinéen",
+      "class": "application",
+      "platform": "",
+      "owner": "Enabel",
+      "tiers": "pilot in 10 communes"
+    }
+  ],
+  "note": "A tender notice: the connection is being procured, not reported as live."
+}

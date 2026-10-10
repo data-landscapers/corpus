@@ -1,0 +1,47 @@
+{
+  "slug": "2023-06-30-egy-mcit-achievements-in-10-years",
+  "facts": [],
+  "systems": [
+    {
+      "system": "project to connect all government buildings through a fiber optic network",
+      "country_label": "project to connect all 31,500 government buildings nationwide through a fiber optic network",
+      "class": "backbone",
+      "platform": "fibre optic",
+      "owner": "Ministry of Communications and Information Technology",
+      "tiers": "31,500 government buildings nationwide; more than 18,000 connected by June 2023, the rest in progress; no local government office is said to be among them"
+    },
+    {
+      "system": "digital transformation units",
+      "country_label": "digital transformation units in ministries, governorates, and public agencies",
+      "class": "upper-tier",
+      "platform": "",
+      "owner": "the ministries, governorates and agencies, with technical support from MCIT",
+      "tiers": "ministries, governorates and public agencies"
+    },
+    {
+      "system": "Digital Decent Life training of governorate staff",
+      "country_label": "Digital Decent Life initiative",
+      "class": "capacity",
+      "platform": "",
+      "owner": "Ministry of Communications and Information Technology",
+      "tiers": "3,335 employees at governorates' general bureaus and affiliated service directorates, and members of the Decent Life team"
+    },
+    {
+      "system": "Digital Egypt Platform",
+      "country_label": "Digital Egypt Platform",
+      "class": "web",
+      "platform": "",
+      "owner": "Ministry of Communications and Information Technology",
+      "tiers": "national; 165+ government services to citizens"
+    },
+    {
+      "system": "national information infrastructure project",
+      "country_label": "national information infrastructure project",
+      "class": "backbone",
+      "platform": "",
+      "owner": "MCIT with the Administrative Control Authority",
+      "tiers": "national; more than 100 government databases of citizen data linked"
+    }
+  ],
+  "note": "The fibre figure is of government buildings of every kind, with no local government office named among them, so it is backbone and gives no fact; the governorates named are the upper tier."
+}

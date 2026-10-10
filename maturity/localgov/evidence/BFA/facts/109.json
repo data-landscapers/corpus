@@ -1,0 +1,14 @@
+{
+  "slug": "2024-06-06-bfa-rapport-n2024-016-alt-comfib-dossier-n099-relatif-au-projet-de-loi-por",
+  "facts": [],
+  "systems": [
+    {"system": "RESINA", "country_label": "Réseau informatique national de l'administration (RESINA)", "class": "backbone", "platform": "fibre in towns, carried between towns on the national backbone; WiMAX radio links to distant sites, being abandoned as obsolete", "owner": "the State of Burkina Faso; Ministry of Digital Transition, with ANPTIC", "tiers": "sites of the public administration (offices, health centres, education and training bodies); no commune or town hall named; recurring connection problems, rehabilitation under way from 2024 over three years"},
+    {"system": "national fibre-optic backbone", "country_label": "Backbone", "class": "backbone", "platform": "2,001 km of fibre; Huawei Technology; operated by Bridge Fiber Solution (Telecel Faso) under a delegation signed 15 October 2021", "owner": "the State, financed by a loan from Exim Bank of China", "tiers": "all regional capitals and 36 provincial capitals; completed 2022"},
+    {"system": "G-cloud", "country_label": "G-cloud", "class": "backbone", "platform": "", "owner": "the State", "tiers": "national; reinforced under e-Burkina (2017-2022)"},
+    {"system": "e-Burkina platforms and e-services", "country_label": "e-Burkina", "class": "central", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "158 platforms and e-services, 137 online; public and private administrations"},
+    {"system": "SMART Burkina", "country_label": "SMART Burkina", "class": "city-systems", "platform": "video surveillance, a mobile network for the security forces, 800 km of fibre", "owner": "Ministry of Territorial Administration", "tiers": "Ouagadougou and Bobo-Dioulasso"},
+    {"system": "Espaces publics numériques", "country_label": "Espaces publics numériques (EPN)", "class": "public-access", "platform": "", "owner": "PACTDIGITAL, Ministry of Digital Transition", "tiers": "rural communes; planned"},
+    {"system": "PACTDIGITAL", "country_label": "Projet d'accélération de la transformation digitale (PACTDIGITAL)", "class": "backbone", "platform": "", "owner": "Ministry of Digital Transition; IDA credit 7462-BF of USD 150 million", "tiers": "national, 2024-2028: backbone extension, RESINA rehabilitation, white-zone coverage, data centres"}
+  ],
+  "note": "Finance committee report of 6 June 2024 on ratifying the IDA credit for PACTDIGITAL. It describes RESINA as the State's closed network for public administration sites and admits recurring outages, but names no commune, town hall or local authority office on it, so there is no fact."
+}

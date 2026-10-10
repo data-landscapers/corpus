@@ -1,0 +1,19 @@
+{
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "connection",
+      "stage": "no evidence",
+      "governance": "",
+      "use": "",
+      "connected": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing held states a connection at a sub-zoba administration; what is held concerns zoba population registers and central systems.",
+      "note": ""
+    }
+  ]
+}

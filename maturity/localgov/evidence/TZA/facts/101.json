@@ -1,0 +1,29 @@
+{
+  "slug": "2026-05-04-tza-deds-directed-to-cover-internet-costs-in-public-offices",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "personal",
+      "fact": "At Workers' Day in Geita Region on 1 May 2026 the Trade Union Congress of Tanzania (TUCTA) complained, through the regional secretary of the teachers' union, that many public employees are forced to buy internet bundles with their own money, and the Regional Commissioner answered by telling employers, District Executive Directors among them, to cover staff internet costs from internal revenues; the report is of Geita Region only and gives no count of councils or staff.",
+      "as_of": "2026-05-01",
+      "date_precision": "day",
+      "system": "Internet access for staff of public offices in Geita Region, district councils included",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "no-change",
+      "fact": "On 1 May 2026 the Geita Regional Commissioner directed District Executive Directors and other employers to pay for employees' internet from internal revenues, and heads of schools and health departments to report office internet expenses monthly or quarterly for reimbursement; the Daily News reports the directive and no connection provided under it.",
+      "as_of": "2026-05-01",
+      "date_precision": "day",
+      "system": "Internet access for staff of public offices in Geita Region, district councils included",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {"system": "Internet access for staff of public offices in Geita Region, district councils included", "country_label": "internet service for employees", "class": "connection", "platform": "mobile internet bundles bought by staff", "owner": "employers, District Executive Directors among them, by the Regional Commissioner's directive", "tiers": "public offices in Geita Region: district councils, schools and health departments"}
+  ],
+  "note": ""
+}

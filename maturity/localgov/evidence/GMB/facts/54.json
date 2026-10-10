@@ -1,0 +1,116 @@
+{
+  "slug": "2025-09-01-gmb-2nd-3rd-quarter-pfm-performance-report",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "In the second and third quarters of 2025 Kuntaur Area Council was posting live in the government's IFMIS and producing financial reports on demand, Basse Area Council used it for its accounting, Janjanbureh Area Council's key staff had access to it, and Brikama Area Council was installing it for all users with staff entering budget data, on the Ministry of Finance's performance report; the report gives no single date, so the fact is dated to its publication month.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "Janjanbureh Area Council had working internet at its offices with plans to raise its bandwidth, Kuntaur Area Council was extending internet and backup power across all its offices, and at Brikama Area Council internet speed and connectivity remained problems, with further investment planned, on the Ministry of Finance's report for the second and third quarters of 2025; it does not say who pays for the connections. Dated to the publication month.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "councils' internet connections for IFMIS",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:4",
+      "fact": "The report for the second and third quarters of 2025 describes IFMIS in use or being installed at four councils (Basse, Kuntaur, Janjanbureh and Brikama) and says in general that councils continued rolling it out; it gives no total of councils and no figure for the others. Dated to the publication month.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "During the second and third quarters of 2025 Kuntaur Area Council was extending internet across its offices, Brikama Area Council was installing IFMIS for all its users and Janjanbureh planned more bandwidth, devices and users, while all of Basse's trained IFMIS users were on administrative leave, on the Ministry of Finance's report. Dated to the publication month.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The rollout of IFMIS to the councils is reported by the Public Finance Management Department of the Ministry of Finance and Economic Affairs as the first component of the local government pillar of its reforms, with named ministry focal persons, in the report for the second and third quarters of 2025.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The report for the second and third quarters of 2025 names no budget or funder for the councils' internet connections; it says only that councils plan further investment, and that the government lacks funds for a localised IFMIS.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "councils' internet connections for IFMIS",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "country_label": "IFMIS",
+      "class": "connection",
+      "platform": "",
+      "owner": "Ministry of Finance and Economic Affairs; Accountant General's Department",
+      "tiers": "ministries, departments and agencies, 21 subvented agencies connected, and area councils (Basse, Kuntaur, Janjanbureh and Brikama described)"
+    },
+    {
+      "system": "councils' internet connections for IFMIS",
+      "country_label": "internet",
+      "class": "connection",
+      "platform": "",
+      "owner": "the councils",
+      "tiers": "Janjanbureh working; Kuntaur being extended to all offices; Brikama slow and unreliable"
+    },
+    {
+      "system": "Digital Tax Collection System (DTCS)",
+      "country_label": "Digital Tax Collection System",
+      "class": "application",
+      "platform": "",
+      "owner": "the councils",
+      "tiers": "in use at Basse, not yet integrated with IFMIS; a pilot planned at Kuntaur by the fourth quarter of 2025 with a budget line; none at Janjanbureh or Brikama"
+    },
+    {
+      "system": "Functional Revenue and Payment Platform",
+      "country_label": "Functional Revenue and Payment Platform",
+      "class": "central",
+      "platform": "",
+      "owner": "Accountant General's Department",
+      "tiers": "all ministries; non-tax revenue in its first phase"
+    },
+    {
+      "system": "Electronic Records Management System (ERMS)",
+      "country_label": "ERMS",
+      "class": "central",
+      "platform": "",
+      "owner": "National Records Service",
+      "tiers": "ministries, departments and agencies; rollout to more held up"
+    },
+    {
+      "system": "ASYCUDA World",
+      "country_label": "ASYCUDA World",
+      "class": "central",
+      "platform": "ASYCUDA World",
+      "owner": "Gambia Revenue Authority",
+      "tiers": "all customs offices nationwide"
+    }
+  ],
+  "note": "The cover reads June 2025 and the body reports events to July 2025 with missions set for August and September; the facts are dated to the publication month, September 2025. Kuntaur's sub-treasuries in its five districts are the council's own collection points, with nothing said of their connection."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2021-02-01-bdi-strategie-sectorielle-pour-la-mise-en-uvre-du-plan-national-de-develop",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "none", "fact": "The ICT ministry's sector strategy of February 2021 states that about a hundred public institutions are interconnected by a fibre-optic link and that the project needs to be extended to the communes and other public institutions not yet connected; no commune is said to be on it.", "as_of": "2021-02", "date_precision": "month", "system": "fibre-optic interconnection of public institutions", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The sector strategy for implementing the National Development Plan 2018-2027, issued by the Ministry of Communication, Information Technologies and Media in February 2021, names the extension of the government's fibre-optic interconnection to the communes under its e-government project.", "as_of": "2021-02", "date_precision": "month", "system": "fibre-optic interconnection of public institutions", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "fibre-optic interconnection of public institutions", "country_label": "institutions publiques interconnectées par une liaison à fibre optique", "class": "connection", "platform": "", "owner": "", "tiers": "about a hundred public institutions; communes not yet connected"},
+    {"system": "fibre-optic metropolitan networks (MAN)", "country_label": "Réseaux Métropolitains (MAN) à fibre optique", "class": "backbone", "platform": "", "owner": "", "tiers": "Bujumbura, Ngozi and Gitega; extension planned"},
+    {"system": "public Wi-Fi network", "country_label": "wifi public", "class": "public-access", "platform": "", "owner": "", "tiers": "universities and public places; planned"},
+    {"system": "data centre", "country_label": "DATA CENTER", "class": "backbone", "platform": "", "owner": "", "tiers": "national; support to its setting up planned"}
+  ],
+  "note": "Read as passages: one paragraph bears on communes."
+}

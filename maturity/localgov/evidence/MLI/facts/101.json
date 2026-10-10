@@ -1,0 +1,36 @@
+{
+  "slug": "2022-06-02-mli-collectivites-territoriales-du-mali-la-mise-en-place-du-projet-de-leur",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Council of Ministers of 1 June 2022 adopted a draft decree approving the contract for the Projet d'Accès au service de télécommunication des collectivités territoriales, awarded to SIMO TELECOM for CFA 9,407,295,000 all taxes included over twelve months; its communiqué says the project is to put telecommunication infrastructure in place at the level of the collectivités territoriales and give the Administration its own secure, autonomous network.",
+      "as_of": "2022-06-01",
+      "date_precision": "day",
+      "system": "Projet d'Accès au service de télécommunication des collectivités territoriales",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The communiqué of the Council of Ministers of 1 June 2022 states that the Projet d'Accès au service de télécommunication des collectivités territoriales, a contract of CFA 9,407,295,000, is entirely financed by the Agence de Gestion du Fonds d'Accès Universel.",
+      "as_of": "2022-06-01",
+      "date_precision": "day",
+      "system": "Projet d'Accès au service de télécommunication des collectivités territoriales",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Projet d'Accès au service de télécommunication des collectivités territoriales",
+      "country_label": "Projet d'Accès au service de télécommunication des collectivités territoriales",
+      "class": "connection",
+      "platform": "contractor SIMO TELECOM",
+      "owner": "the State; financed by the Agence de Gestion du Fonds d'Accès Universel (AGEFAU)",
+      "tiers": "telecommunication infrastructure 'at the level of the different collectivités territoriales'; the Administration's own network; no office said to be connected"
+    }
+  ],
+  "note": "A contract approved, not a connection made: no collectivité is said to be connected. The communiqué's words leave open whether the network serves the collectivités' own offices or the State administration in their areas; the class is read from the project's name and the parent may reclass it central."
+}

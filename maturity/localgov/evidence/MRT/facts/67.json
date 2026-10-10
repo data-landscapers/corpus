@@ -1,0 +1,11 @@
+{
+  "slug": "2019-01-01-mesrstic-plan-actions-strategie-nationale-promotion-haut-debit-volume-2",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau national large bande: extension to the chefs-lieux of wilayas, moughataas and communes", "country_label": "réseau large bande national", "class": "backbone", "platform": "optical fibre", "owner": "MESRSTIC (DGTIC), with FAUS, SDIN and the operators", "tiers": "planned in January 2019: Tidjikja and 21 unconnected moughataa seats from 2020 over three years (about 2,950 km, 36 M US$); all commune seats from 2023 over seven years (some 120 sections, 3,500 to 5,000 km, 50 to 60 M US$); no commune office said to be on it"},
+    {"system": "Réseau inter-administration (RIAD)", "country_label": "RIAD", "class": "backbone", "platform": "VPN over existing networks, as budgeted", "owner": "MESRSTIC, with the Ministère de la fonction publique", "tiers": "planned from 2020 over four years to connect ministries and public establishments, following the national broadband network; sites to be defined; no local government named"},
+    {"system": "Datacenter national", "country_label": "datacenter national", "class": "backbone", "platform": "", "owner": "MESRSTIC (DGTIC), with SDIN", "tiers": "planned: feasibility study 2020, construction from end 2020 over two years; government computing to migrate from 2022"},
+    {"system": "Connexion des établissements publics", "country_label": "connexion des établissements publics (hôpitaux, écoles, dispensaires…)", "class": "central", "platform": "", "owner": "MESRSTIC with the ministries concerned", "tiers": "planned from 2020 over four years: all public establishments (schools, hospitals, dispensaries) by 2023; communes not named"}
+  ],
+  "note": "Read whole. A plan of January 2019 of actions not yet begun: it would take the fibre network to the seat of every commune, which is coverage of areas, and connect ministries and public establishments to an inter-administration network, with a possible target of 100 per cent of administrations on broadband by 2023. It names no commune or town hall office as connected or to be connected, so it gives no fact."
+}

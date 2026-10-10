@@ -1,0 +1,52 @@
+{
+  "slug": "2024-01-01-ken-ict-authority-strategic-plan-2024-2027",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The ICT Authority's strategic plan for 2024 to 2027 states that the County Governments have not prioritised ICT investments in their development planning and have continued to rely on national government initiatives to support their connectivity; it gives no date for this, so its published date is used.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "national government initiatives supporting County Governments' connectivity",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The ICT Authority's strategic plan for 2024 to 2027 states that the County Governments rely on national government initiatives to support their connectivity, naming no initiative, no number of counties and no payer beyond the national government; it gives no date, so its published date is used.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "national government initiatives supporting County Governments' connectivity",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national government initiatives supporting County Governments' connectivity",
+      "country_label": "national government initiatives to support their connectivity",
+      "class": "connection",
+      "platform": "",
+      "owner": "national government",
+      "tiers": "County Governments, number not given"
+    },
+    {
+      "system": "One Government Network (OGN)",
+      "country_label": "One Government Network",
+      "class": "",
+      "platform": "",
+      "owner": "ICT Authority",
+      "tiers": "not stated; the plan lists its commercialisation as an activity"
+    },
+    {
+      "system": "National Optic Fibre Backbone Infrastructure (NOFBI)",
+      "country_label": "NOFBI",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "not stated; named in the list of acronyms only"
+    }
+  ],
+  "note": "Passages only. The plan also lists the lack of a legal framework for standardising county government ICT investments as a threat, and says devolution lets county governments widen ICT services subject to their own prioritisation and budgeting; neither states a connection. Its Key Result Area 1, universal, secure and reliable connectivity, is costed in the passages without naming county governments."
+}

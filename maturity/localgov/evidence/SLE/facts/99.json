@@ -1,0 +1,13 @@
+{
+  "slug": "2022-12-01-sle-sierra-leone-national-digital-development-strategy",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The National Digital Development Strategy of December 2022 says connections to public buildings, local councils among them, are to be prioritised, and its implementation plan sets as a long-term action for 2027 to extend broadband access to all government institutions nationwide, including local councils, schools, hospitals and libraries; it gives no count of councils, no baseline and, in the passages held, no cost.", "as_of": "2022-12", "date_precision": "month", "system": "Broadband access for government institutions including local councils", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The strategy of December 2022 names the Ministry of Information and Communications as lead for extending broadband to all government institutions including local councils by 2027, with DSTI, the universal access fund UADF, NDiDA, NaTCA, Leonecom, Zoodlabs and internet service providers as partners.", "as_of": "2022-12", "date_precision": "month", "system": "Broadband access for government institutions including local councils", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Broadband access for government institutions including local councils", "country_label": "Extend broadband access to all government institutions nationwide", "class": "connection", "platform": "broadband; technology not stated", "owner": "Ministry of Information and Communications, with DSTI, UADF, NDiDA, NaTCA, Leonecom, Zoodlabs and ISPs", "tiers": "planned for all government institutions nationwide, including local councils, by 2027; nothing reported as delivered"},
+    {"system": "Telecentres, e-centres and cyber cafes in underserved areas", "country_label": "", "class": "public-access", "platform": "", "owner": "UADF, with NaTCA, NDiDA, SALPOST, ISPs and DSTI", "tiers": "to be subsidised in underserved areas, a quick win for 2024"},
+    {"system": "Freetown City Council address renumbering", "country_label": "", "class": "city-systems", "platform": "", "owner": "Freetown City Council with the Ministry of Trade and Industry", "tiers": "Freetown; in progress when the strategy was written"}
+  ],
+  "note": "Both facts are a plan: a connection intended for the councils by 2027, none stated as existing. Read as the passages file, which holds four paragraphs carrying a study term."
+}

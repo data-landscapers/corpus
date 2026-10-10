@@ -1,0 +1,9 @@
+{
+  "slug": "2023-05-31-ben-digitalisation-makes-authorities-in-west-africa-more-efficient",
+  "facts": [],
+  "systems": [
+    {"system": "standardised administrative network", "country_label": "standardised administrative network", "class": "backbone", "platform": "", "owner": "Government of Côte d'Ivoire, financing planned through KfW (EUR 20 million)", "tiers": "authorities based in the greater Abidjan area; planned"},
+    {"system": "digital applications for communication between authorities", "country_label": "digital applications for better communication between authorities", "class": "application", "platform": "", "owner": "", "tiers": "authorities in greater Abidjan; planned"}
+  ],
+  "note": "For Côte d'Ivoire the item (KfW, 31 May 2023) states only a planned administrative network for authorities based in greater Abidjan, financed through KfW at EUR 20 million; no local government office is named, so there is no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-07-sdn-abu-hujar-locality-esali-electronic-collection-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Isali electronic collection and payment system at Abu Hujar locality", "country_label": "نظام التحصيل والسداد الإلكتروني (إيصالي)", "class": "application", "platform": "Isali", "owner": "the state Ministry of Finance, whose information technology department supplied the devices and trained the collectors; the state is not named", "tiers": "Abu Hujar locality, from 7 July 2026: its land offices and collection departments"}
+  ],
+  "note": "SUNA reports that Abu Hujar locality began applying the Isali electronic collection and payment system on 7 July 2026 in its land offices and collection departments, with devices supplied and all collectors trained. The text does not say the system is online or held elsewhere and names no network or connection at the locality's offices, so the system is an application and no fact of the connection class is recorded."
+}

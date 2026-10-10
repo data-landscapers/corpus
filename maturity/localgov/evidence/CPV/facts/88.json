@@ -1,0 +1,66 @@
+{
+  "slug": "2025-10-06-cpv-nosi-garante-total-flexibilidade-negocial-junto-das-camaras-municipais",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "NOSi, the state enterprise, supplies the country's municipal councils with Local Digital Governance services under service agreements begun in 2022, which clarified partnership terms in force since 2016, on NOSi's communiqué of 6 October 2025; the document names the services as digital services supplied by NOSi and does not describe what the councils do in them or the link they use.",
+      "as_of": "2025-10-06",
+      "date_precision": "day",
+      "system": "serviços de Governação Digital Local (NOSi)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:95.5%",
+      "fact": "21 of the 22 municipalities were receiving NOSi's services regularly on 6 October 2025, all but Mosteiros, on NOSi's communiqué; the figure is of councils supplied with NOSi's digital services, and the document does not state how their offices are connected.",
+      "as_of": "2025-10-06",
+      "date_precision": "day",
+      "system": "serviços de Governação Digital Local (NOSi)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "By 6 October 2025 NOSi's services to the Mosteiros municipal council were not in regular supply over unpaid current invoices, and the association of municipalities (ANMCV) said it was indignant at the suspension of NOSi's services to municipalities; NOSi reported a very low payment rate across the councils.",
+      "as_of": "2025-10-06",
+      "date_precision": "day",
+      "system": "serviços de Governação Digital Local (NOSi)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Local Digital Governance services are supplied to the municipal councils by NOSi, E.P.E., a public enterprise, under a contract signed with each council, as NOSi stated on 6 October 2025.",
+      "as_of": "2025-10-06",
+      "date_precision": "day",
+      "system": "serviços de Governação Digital Local (NOSi)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The municipal councils pay NOSi current invoices under their service agreements, with accumulated debts repaid in monthly instalments, while NOSi bears the cost of electricity, telecommunications and cybersecurity suppliers to keep the services to the municipalities running, on NOSi's communiqué of 6 October 2025.",
+      "as_of": "2025-10-06",
+      "date_precision": "day",
+      "system": "serviços de Governação Digital Local (NOSi)",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "serviços de Governação Digital Local (NOSi)",
+      "country_label": "serviços de Governação Digital Local",
+      "class": "connection",
+      "platform": "",
+      "owner": "NOSi, E.P.E.",
+      "tiers": "all 22 municipal councils under service agreements since 2022; 21 in regular supply on 6 October 2025, Mosteiros not"
+    }
+  ],
+  "note": "The class rests on the document's words that NOSi supplies digital services to the councils and pays telecommunications to keep them running; it never says the councils' offices are on a network or enter transactions there, so no `connected` fact is written and the share is of councils served. If that is too thin, the system is an application and the facts fall."
+}

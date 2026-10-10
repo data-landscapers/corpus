@@ -1,0 +1,13 @@
+{
+  "slug": "2025-03-01-sierra-leone-mof-pfm-reform-progress-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "application", "platform": "a more advanced, web-based financial management system, upgraded from PETRA Financial", "owner": "Ministry of Finance (Public Financial Management Reform Division), through the World Bank's Accountable Governance for Basic Service Delivery Project", "tiers": "intended for all local councils; in 2024 only the study and design phase was completed, with a workshop on its findings from 30 July to 2 August 2024 in Makeni; full implementation and roll-out expected in the second quarter of 2025"},
+    {"system": "PETRA Financial", "country_label": "PETRA Financial; Petra Financial Accounting Systems", "class": "application", "platform": "Petra", "owner": "", "tiers": "the local councils' financial management system in 2024; council officials raised challenges with it at the accountability workshop"},
+    {"system": "Integrated Financial Management Information System", "country_label": "IFMIS", "class": "central", "platform": "", "owner": "Accountant General's Department, Ministry of Finance", "tiers": "coverage rose from 58 to 82 MDAs in 2024; the Ministry of Local Government and Rural Development and the Local Government Service Commission are on the coverage list; no local council is said to be on it"},
+    {"system": "Audit software for tracking audit recommendations", "country_label": "audit software", "class": "central", "platform": "", "owner": "Ministry of Finance, Internal Audit", "tiers": "developed and adopted by the Ministry of Finance in 2024; no council use stated"},
+    {"system": "Upgraded property tax system", "country_label": "upgraded property Tax System", "class": "application", "platform": "", "owner": "Ministry of Finance, Fiscal Decentralisation Division", "tiers": "in development in February 2024, to be rolled out to all local councils in due course"},
+    {"system": "Local council payroll (core staff)", "country_label": "Local Council Payroll (core staff)", "class": "central", "platform": "", "owner": "Ministry of Finance", "tiers": "payment automated in 2024 in place of manual vouchers; where it is operated is not stated"}
+  ],
+  "note": "For 2024 the report states only that PFM Smart had finished its study and design phase and that roll-out to the councils was expected in the second quarter of 2025: no installation, no internet provision and no go-live at any council. Nothing is said of a council office's connection. Read as the passages file, with the full text searched for PFM Smart, Petra, internet and network; nothing further on the councils was found."
+}
