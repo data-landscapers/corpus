@@ -8,7 +8,7 @@
 
 **Where data is digitised.** The ministry's methodology for its 2024 statistics states that [each facility aggregates its registers and tally sheets monthly and the figures are entered into DHIS2 at council level, for 11,805 public and private health facilities](<https://www.moh.go.tz/storage/app/uploads/public/698/4e8/b7b/6984e8b7b067c606076637.pdf>).
 
-**Last twelve months.** The University of Dar es Salaam's DHIS2 Lab reported on 1 October 2025 that a workshop led by the Ministry of Health Zanzibar [validated data flows from programme and point-of-service systems into ZHMIS, Zanzibar's HMIS, and moved the integration towards the live environment](<https://dhis2.udsm.ac.tz/advancing-tanzanias-information-systems-interoperability-agenda/>).
+**Last twelve months.** No dated event falls inside the twelve months. The latest is of 1 October 2025, when the University of Dar es Salaam's DHIS2 Lab reported that a workshop led by the Ministry of Health Zanzibar [validated data flows from programme and point-of-service systems into ZHMIS, Zanzibar's HMIS, and moved the integration towards the live environment](<https://dhis2.udsm.ac.tz/advancing-tanzanias-information-systems-interoperability-agenda/>).
 
 **Primary clinics doing the digital input.** The guidelines of May 2019 state that [aggregated data is entered into DHIS in some health facilities, and at council level where facilities use paper](<https://www.moh.go.tz/storage/app/uploads/public/661/fe3/71d/661fe371de96f490413146.pdf>).
 

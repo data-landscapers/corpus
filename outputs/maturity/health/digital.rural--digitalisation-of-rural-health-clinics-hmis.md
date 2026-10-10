@@ -470,8 +470,6 @@ Local health offices entered facilities' reports into the system in 144 of 189 l
 
 Clinics report on paper, and council offices enter the figures into the national reporting system (2024).
 
-*Advancing.*
-
 - The Ministry of Health's methodology for its 2024 annual statistics states that patient data is recorded at the point of care in HMIS registers and tally sheets, aggregated by the facility each month, and then entered into the DHIS2 platform at council level, for data covering January to December 2024 from 11,805 public and private health facilities ([source, 2024](https://www.moh.go.tz/storage/app/uploads/public/698/4e8/b7b/6984e8b7b067c606076637.pdf)).
 - The May 2019 guidelines describe MTUHA as collecting routine data from dispensaries, health centres and council hospitals through the councils, with regional referral hospitals supervised by the ministry, while national, zonal and specialised hospitals and private hospitals use different data collection platforms ([source, 2019-05](https://www.moh.go.tz/storage/app/uploads/public/661/fe3/71d/661fe371de96f490413146.pdf)).
 

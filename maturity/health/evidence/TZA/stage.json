@@ -7,13 +7,14 @@
       "governance": "owner:ministry;plan:none",
       "tiers": "T2;T3;T4",
       "digitised": "district",
-      "last12": "advancing",
+      "last12": "",
       "clinics": "not-published",
       "cap": "",
-      "flags": "advancing",
+      "flags": "",
       "stage_sources": "TZA-023;TZA-044",
-      "gaps": "No share or count of primary clinics entering their own reports is published: TZA-040 and TZA-043 say some facilities enter directly with no figure, the only clinics row (TZA-017, none) is a 2017 sample of 16 facilities and does not carry the country, and TZA-037 (facility, over 75% of 27 sampled facilities, no dispensaries) disagrees with TZA-023 (council-level entry for 11,805 facilities) for 2024. Tiers rest on a 2019 fact; finance is not stated inside 36 months (TZA-012, donor, is 2022); HSSP V, the plan TZA-035 cites, ran to June 2026 by TZA-011 and no successor period is given; the advancing event (TZA-022) is Zanzibar's ZHMIS on a proxy date.",
-      "note": "The ministry's own 2024 methodology has facilities aggregating on paper and councils keying into DHIS2, which is stage 3's whole row. Stage 4 needs entry at the facility by more than half of primary clinics on a figure with a denominator, and none is held."
+      "gaps": "No share or count of primary clinics entering their own reports is published: TZA-040 and TZA-043 say some facilities enter directly with no figure, the only clinics row (TZA-017, none) is a 2017 sample of 16 facilities and does not carry the country, and TZA-037 (facility, over 75% of 27 sampled facilities, no dispensaries) disagrees with TZA-023 (council-level entry for 11,805 facilities) for 2024. Tiers rest on a 2019 fact; finance is not stated inside 36 months (TZA-012, donor, is 2022); HSSP V, the plan TZA-035 cites, ran to June 2026 by TZA-011 and no successor period is given; the advancing event (TZA-022) is Zanzibar's ZHMIS on a proxy date. The Zanzibar validation workshop of 1 October 2025 has passed out of the twelve months, and no later dated event is held.",
+      "note": "The ministry's own 2024 methodology has facilities aggregating on paper and councils keying into DHIS2, which is stage 3's whole row. Stage 4 needs entry at the facility by more than half of primary clinics on a figure with a denominator, and none is held.",
+      "as_at": "2026-10-11"
     },
     {
       "sub_indicator": "emr",
