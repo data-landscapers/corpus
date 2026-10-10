@@ -110,7 +110,15 @@
       "subject": "digital.localgov",
       "text": "ICT infrastructure for local government: office connection",
       "indicator_id": "digital.localgov--ict-infrastructure-for-local-government-office-connection",
-      "class": "connection"
+      "class": "connection",
+      "criteria_of": "d2a3451b4ec7",
+      "criteria": [
+        "A dated source states that local government offices have no connection of their own. Staff working on their own phones or modems does not change this.",
+        "A programme to connect local government offices is being prepared or piloted: equipment handed over, a contract signed or pilot offices connected. Or only the capital city or the regions above are connected.",
+        "Some local government offices outside the capital are connected, past any pilot, or work in a national system. They are a minority, or no share of local governments is published. A share equipped or covered by a programme, however high, places here.",
+        "More than half of local governments have a connection provided to the office by the state or the authority. The figure is a published share, or a count given with its total.",
+        "At least 90 per cent of local governments are connected and work in national systems over the connection, on a figure published within the past two years. The figure gives the share for rural local governments."
+      ]
     }
   ],
   "classes": [

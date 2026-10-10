@@ -101,7 +101,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentr
 - [x] **L3. Test and fix the ladder**: 9 facts withdrawn.
 - [x] **L4. Search and hand over**, method §5: 59 documents, `notes-for-osint` 224.
 - [x] **L5. Re-read and stage**: 52 of 59 admitted; as at 2026-09-30; agreement 18 of 20.
-- [x] **L6. Write, render and lint**: clean.
+- [x] **L6. Write, render and lint**: clean; on the soft-launch map.
 - [x] **L7. Report to Bill.** Awaiting acceptance.
 
 **The rulings of L1**, CC's proposals, run unamended: the office's connection only; only this row redrawn; the basic tier, elected or appointed; working online in a national system counts as a connection; stage 5 needs `systems`; a connection in the capital only is stage 2.

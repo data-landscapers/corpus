@@ -18,9 +18,9 @@ status: in use; Bill's rulings of 2026-10-06 and 2026-10-10
 2. **Bill confirms.**
 3. **Corpus works to the OSINT note without stopping**: review, ladder test, search, handover (§4, §5).
 4. **OSINT ingests without stopping** and closes the note.
-5. **Corpus completes without stopping**: a stage, a short summary and a long summary per country per sub-indicator (§6 to §8).
+5. **Corpus completes without stopping**: a stage, a short summary and a long summary per country per sub-indicator and the soft-launch map (§6 to §8).
 
-**Bill is asked once, at step 2.** "**prepare maturity study {id}**" starts step 1 and "**run maturity study {id}**" step 3. Step 5 starts at the first cycle to find the note closed (`CYCLE.md` step 4), or on the same words by hand. A later doubt is settled conservatively, written in the study file and reported at the end.
+**Bill is asked once, at step 2.** "**prepare maturity study {id}**" starts step 1 and "**run maturity study {id}**" step 3. Step 5 starts at the first cycle to find the note closed (`CYCLE.md` step 4), or by hand. A later doubt is settled conservatively and reported at the end.
 
 **Where things live** *(Bill)*:
 
@@ -81,11 +81,11 @@ The rules a study's ladder is written to:
 - **Relevance selects; there is no numeric cap** *(Bill)*. A fetched document is kept when its body states a dated fact, on an aspect with a gap, that nothing held states; one such fact is enough. Anything else goes to the unselected register.
 - **Delivery is a handover in `prepared\`, not a `new-queue\` batch** *(Bill)*: maturity evidence is not general ingest, and OSINT is told so. Candidates are written to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, flat with no country folders, each with `sweep_batch: maturity-study-{id}-{ISO3}-YYYY-MM-DD`, `places: [{ISO3}]` and the study's subject first in `topics:`.
 - **OSINT's cycle pulls the folder once it carries `READY`, written last**; file names are unique against `raw/`. One `[ACT]` note in `notes-for-osint.md`, titled *Maturity study {id}: evidence to ingest*, with `Affects: outputs/maturity/{id}/`. `study-stage.py ready` writes the folder's `BRIEF.md`.
-- **Records in `maturity/{id}/search/`**: `searched.csv` by country and sub-indicator, `staged.csv` by file handed over, and `unselected.csv`. Candidate bodies are never committed in Corpus.
+- **Records in `maturity/{id}/search/`**: `searched.csv`, `staged.csv` by file handed over, and `unselected.csv`. Candidate bodies are never committed.
 
-Before the note is written, `python scripts/lint-staged-queue.py` passes over the folder; then the share is committed and pushed.
+Before the note, `python scripts/lint-staged-queue.py {folder}` passes; then the share is committed and pushed.
 
-**A found document reaches the study only by returning through ingest** *(Bill)*; delivery is not admission.
+**A found document reaches the study only through ingest** *(Bill)*.
 
 **Step 3 ends** with a commit and a log line.
 
@@ -117,7 +117,9 @@ Files, in `outputs/maturity/{id}/`:
 
 `scripts/study-render.py` writes the pages from the CSVs. `scripts/lint-study.py` holds them: a row for every cell, a stage or a reason, every source and link held in `raw/`, the short summary inside its cap, and the cap rule applied wherever it fires.
 
-**Nothing is published to `site/` and the frame is not touched until Bill accepts the study.** On acceptance, rows are retired and minted under `adding-an-indicator.md` §2 and §10, and the study's CSV is the baseline edition.
+**Step 5 ends on the soft-launch map and methodology page** *(Bill; `output-spec-v2.md`)*: write five `criteria` and `criteria_of` into `study.json`, run `scripts/maturity-site.py`, commit and push. Nobody is asked first.
+
+**The frame is not touched until Bill accepts the study.** On acceptance, rows are retired and minted under `adding-an-indicator.md` §2 and §10, and the study's CSV is the baseline edition.
 
 ## 9. The study file
 
