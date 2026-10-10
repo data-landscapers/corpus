@@ -3,13 +3,13 @@ title: Cybersecurity — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: infra.cybersec
-places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: dd4f935fae34
+places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
+record: caf747537f7c
 ---
 
 # Cybersecurity: monthly update, September – October 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -87,7 +87,11 @@ The regulator then gave the fraud a source: [prisoners are behind up to 90 per c
 
 ## Mauritania
 
-An outside measure is the only dated position this month. The Internet Society [puts the country's internet resilience at 43 per cent, with 3 per cent of the 1,000 most-visited websites served from a local server or cache and a security preparedness score of 39.33 on the 2024 global cybersecurity index](https://pulse.internetsociety.org/en/reports/mr/). No national incident or response figure is held for the month.
+An outside measure is the only dated position this month. The Internet Society [puts the country's internet resilience at 43 per cent, with 3 per cent of the 1,000 most-visited websites served from a local server or cache and a security preparedness score of 39.33 on the 2024 global cybersecurity index](https://pulse.internetsociety.org/en/reports/mr/). No national incident or response figure is held for the month. [The project unit issued a national tender on 9 October 2026 to set up the national response team and a security operations centre for the administration's intranet, with bids due 17 November 2026](https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf).
+
+## Mozambique
+
+[The minister said on 7 October 2026 that a national network of response teams now has teams in government, the cyber defence unit, the research network, the regulator, the telecoms sector and four provinces, with more being set up](https://aimnews.org/2026/10/08/governo-reforca-medidas-de-seguranca-cibernetica-em-mocambique/).
 
 ## Namibia
 
@@ -101,7 +105,7 @@ The national response team [recorded a rise in high-impact incidents across sect
 
 ## Rwanda
 
-The prime minister said [reported financial fraud complaints fell by about 30% in the second quarter of 2026 from 4,128 a year earlier](https://taarifa.rw/2026/10/04/digital-payments-hit-3-1-billion-fraud-complaints-drop-30/), while digital transactions reached 3.1 billion in 2025. He said phone-based fraud and scams seeking confidential information remain.
+The prime minister said [reported financial fraud complaints fell by about 30% in the second quarter of 2026 from 4,128 a year earlier](https://taarifa.rw/2026/10/04/digital-payments-hit-3-1-billion-fraud-complaints-drop-30/), while digital transactions reached 3.1 billion in 2025. He said phone-based fraud and scams seeking confidential information remain. [The central bank reported on 8 October 2026 that fraud cases fell to 2,879 in the second quarter of 2026 from 4,128 a year earlier, while only 3.6% of the Rwf471 million involved had been recovered](https://en.igihe.com/business/article/rwanda-cyber-fraud-falls-30-but-fund-recovery-remains-low).
 
 ## Senegal
 
@@ -123,7 +127,7 @@ After the insurance-software supplier breached in June reportedly paid a ransom,
 
 Fake traffic-fine messages quoting motorists' correct number plates led the road traffic infringement agency [to consider investigating whether the national vehicle database had been accessed](https://www.itweb.co.za/article/inside-the-fake-aarto-fine-scam/DZQ58vV8BazMzXy2). The fines platform being impersonated says its own system was not breached.
 
-Gauteng's e-Panic Button app [left its database unsecured, exposing users' names, phone numbers, crime reports with images and GPS coordinates, and location histories](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/), until the contractor fixed the flaws after a news outlet's alert on 21 September. On 29 September the provincial department [said the flaw was patched and no personal information compromised](https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/). On 30 September the Information Regulator [said it had received no breach notification from the department and would engage it](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/); its own compliance assessment of the department had not been finalised. The capacity added was commercial, not state: a 40-desk [security operations centre opened in Cape Town under a R55m investment](https://www.itweb.co.za/article/integrity360-invests-r55m-in-ct-base-and-its-largest-soc/8OKdWMDXLoYMbznQ), serving customers across Africa and internationally.
+Gauteng's e-Panic Button app [left its database unsecured, exposing users' names, phone numbers, crime reports with images and GPS coordinates, and location histories](https://groundup.news/article/gauteng-panic-app-exposes-crime-reports-users-locations/), until the contractor fixed the flaws after a news outlet's alert on 21 September. On 29 September the provincial department [said the flaw was patched and no personal information compromised](https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/). On 30 September the Information Regulator [said it had received no breach notification from the department and would engage it](https://mg.co.za/news/south-africa/2026-09-30-information-regulator-to-engage-gauteng-over-e-panic-button-data-breach/); its own compliance assessment of the department had not been finalised. The capacity added was commercial, not state: a 40-desk [security operations centre opened in Cape Town under a R55m investment](https://www.itweb.co.za/article/integrity360-invests-r55m-in-ct-base-and-its-largest-soc/8OKdWMDXLoYMbznQ), serving customers across Africa and internationally. [The legislature's committees said after a joint meeting on 5 October 2026 that the department notified the Information Regulator only that morning, about two weeks after it was alerted, and could not say how many records were exposed](https://nyakaza.org.za/accountability-over-alleged-e-panic-button-security-breach/).
 
 ## Tanzania
 

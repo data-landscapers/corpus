@@ -3,13 +3,13 @@ title: Connectivity — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: infra.connect
-places: DZA; AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c65b14bf93ca
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 3f3ddea29e9f
 ---
 
 # Connectivity: monthly update, September – October 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ The national cable company [began deploying new optical equipment across its Sou
 ## Botswana
 
 On 23 September the state wholesaler said it had [signed a long-term lease with an unnamed South African partner, raising available international capacity through the Ramatlabama and Pioneer Gate crossings from 300 Gbit/s to 1 Tbit/s](https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s). The term and price were not disclosed. The state fibre operator [announced the launch of its internet exchange point for local traffic](https://itweb.africa/article/bofinet-launches-digital-delta-ixp/8OKdWMDXL9VMbznQ); no member count is given.
+
+## Burkina Faso
+
+[The minister put 3,140 public buildings on the national administration network on 8 October 2026](https://www.moussonews.com/zero-zone-blanche-plus-de-25-milliards-fcfa-mobilises-pour-accompagner-la-couverture-des-1-500-localites/), [against 2,332 in the state ICT agency's 2020 report](https://assises-resina.gov.bf/images/Rapport_annuel_2020_ANPTIC_Version_finale_septembre_2021_compressed-2.pdf). [The minister said on 8 October 2026 that 750 villages with no network will be connected by end-2026 and 750 more by 2028, on FCFA 25bn mobilised by the State, under a target of no white zones by 2030](https://refletinfo.net/telecommunications-750-villages-burkinabe-sortiront-bientot-des-zones-blanches/).
 
 ## Burundi
 
@@ -49,7 +53,7 @@ The country's dependence on one neighbour was examined. A published assessment [
 
 ## Chad
 
-The ministry measured the backbone's shortfall. Meeting the World Bank's resident representative on 15 September, the minister [put the remaining need at about 8,000 km of fibre for a full national mesh, with six provinces still unconnected](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique).
+The ministry measured the backbone's shortfall. Meeting the World Bank's resident representative on 15 September, the minister [put the remaining need at about 8,000 km of fibre for a full national mesh, with six provinces still unconnected](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique). [The minister told German, European and cooperation-agency representatives on 9 October 2026 that the country has about 6,000 km of optical fibre and aims for 14,000 km](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/).
 
 ## Congo
 
@@ -79,7 +83,7 @@ The main exchange, EG-IX, [peaked at 722.19Gb/s on 7 September across 18 member 
 
 The terms followed on 9 September, when the government [launched the service officially and reserved its sale to the state, with a dedicated revenue account and privately signed contracts cancelled](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/). No licence text, tariff or subscriber figure is published.
 
-Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions.
+Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions. [The Vice-President instructed the finance ministry on 7 October 2026 to investigate and expedite the financing file for the operator's network agreement with the vendor, slowed by Treasury payment arrears to the operator](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/).
 
 ## Ethiopia
 
@@ -128,6 +132,10 @@ One wholesale fibre entrant is leaving. Airtel [is winding up its Kenyan fibre s
 The backbone went back to tender. The ICT Authority [issued framework agreements for national backbone links and cross-border and metro links under the World Bank-financed digital economy project](https://techtrendske.co.ke/2026/09/16/kenya-floats-tender-for-national-fibre-backbone-cross-border-links/), each for three years extendable by two, with Treasury putting public-sector fibre at 30,454km in 2026 against 22,486km in 2022. No award is held.
 
 The Communications Authority [called stakeholders to an online validation forum on 30 September to finalise its draft guidelines for commercial internet telephony services](https://techafricanews.com/2026/09/22/kenya-ca-finalise-commercial-internet-telephony-guidelines/), having published the consultation responses and its position on each. The draft text is not held.
+
+## Lesotho
+
+[Vodacom Lesotho launched a fully managed enterprise satellite service built on Starlink in Maseru, reported 9 October 2026, offered as primary connectivity, as backup and combined with terrestrial links](https://spaceinafrica.com/2026/10/09/vodacom-lesotho-launches-enterprise-satellite-connectivity-solution-powered-by-starlink/).
 
 ## Libya
 

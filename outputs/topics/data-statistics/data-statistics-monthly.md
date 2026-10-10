@@ -4,7 +4,7 @@ compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: data.statistics
 places: AGO; BWA; BFA; CMR; CAF; TCD; COG; COD; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBY; MUS; MOZ; NGA; RWA; SEN; SLE; ZAF; TGO; TUN; UGA
-record: e55729f0cf84
+record: 839e097c160f
 ---
 
 # National statistics: monthly update, September – October 2026
@@ -111,7 +111,7 @@ The census technical committee [received the national mapping completion report 
 
 ## South Africa
 
-An [expression of interest for a consultant to develop South Africa's National Strategy for the Development of Statistics was issued on 9 September 2026](https://www.sadc.int/procurement-opportunities/individual-consultancy-develop-national-strategy-development-statistics-0), under a regional statistics project run through the SADC secretariat.
+An [expression of interest for a consultant to develop South Africa's National Strategy for the Development of Statistics was issued on 9 September 2026](https://www.sadc.int/procurement-opportunities/individual-consultancy-develop-national-strategy-development-statistics-0), under a regional statistics project run through the SADC secretariat. [A deputy minister in the Presidency said in a keynote address on 9 October 2026 that Census 2031 is in development, and called statistical independence a constitutional safeguard](https://www.presidency.gov.za/keynotes-address-deputy-minister-presidency-nonceba-mhlauli-occasion-celebrating-stats-sa-census).
 
 ## Togo
 

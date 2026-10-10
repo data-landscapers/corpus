@@ -3,13 +3,13 @@ title: Training and skills — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: capacity.training
-places: DZA; AGO; BEN; BFA; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
-record: 5c346c96223a
+places: DZA; AGO; BEN; BFA; CAF; CIV; DJI; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; MLI; MRT; MAR; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZWE
+record: 6a49837b5f95
 ---
 
 # Training and skills: monthly update, September – October 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,10 @@ UNICEF [handed the secondary education ministry 628 items of computer equipment 
 On 24 September the digital ministry [opened a two-day artificial-intelligence course for the secretaries general of all ministries and institutions, covering generative tools and which administrative data may be put into them](https://www.sidwaya.info/utilisation-de-lintelligence-artificielle-des-secretaires-generaux-a-lecole-des-bonnes-pratiques/); no instrument governing AI use in ministries has followed on the record.
 
 An association of blind and partially sighted students [closed its fifth adapted computing course on 11 September, having trained 70 visually impaired pupils and students](https://www.sidwaya.info/formation-en-informatique-70-eleves-et-etudiants-en-situation-de-handicap-visuel-outilles/) from first computer use to e-mail and AI, and its president said they have no computers to practise on afterwards.
+
+## Central African Republic
+
+[The government signed a five-year partnership with Russia on 9 October 2026, implemented through HSE University, for digital-governance training of public servants, joint research and expert seminars](https://www.afrique-sur7.fr/la-centrafrique-tend-la-main-a-la-russie-pour-renforcer-sa-gouvernance-numerique).
 
 ## Cote d'Ivoire
 

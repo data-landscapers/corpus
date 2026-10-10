@@ -4,7 +4,7 @@ compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MUS; MAR; NAM; NGA; RWA; SEN; ZAF; TZA; TUN
-record: df2b0324b70d
+record: 54db5dd0e9d4
 ---
 
 # Data Storage: monthly update, September – October 2026
@@ -71,7 +71,7 @@ The first private data centre was inaugurated on 29 April 2026 and announced fro
 
 ## Ghana
 
-The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum.
+The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum. [Visiting the atomic energy commission on 9 October 2026, the science minister said its proposed AI data centre must operate under human oversight to protect sensitive nuclear information, and asked for governance arrangements to be built into the plan](https://ghanaguardian.com/zanetor-agyeman-rawlings-calls-for-human-control-of-gaecs-proposed-ai-data-centre).
 
 ## Guinea
 

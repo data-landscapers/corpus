@@ -3,13 +3,13 @@ title: Access to services — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: include.access
-places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; SEN; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
-record: ba463aa808d7
+places: DZA; AGO; BEN; CMR; COG; CIV; DJI; EGY; GNQ; ETH; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; TZA; TGO; UGA; ZMB; ZWE
+record: 3f3f3ad617d8
 ---
 
 # Access to services: monthly update, September – October 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -111,9 +111,13 @@ An urban survey of 13,251 respondents in 12 cities, published in September by a 
 
 A second UK-sponsored community connectivity hub [was commissioned at Amuvi in Arochukwu, Abia State](https://newsleverage.com/2026/09/27/eze-eberechukwu-oji-commissions-amuvi-community-self-built-connectivity-hub/), offering free internet access and free eight-week digital-skills training for 100 people. Civil-society organisations [reported on 2 October that access to TikTok over mobile data has been disrupted in Kaduna, Kebbi, Kano and Sokoto since about 14 September](https://paradigmhq.org/joint-statement-on-the-unexplained-tiktok-disruption-in-northern-nigeria-by-civil-society-organisations/), across more than one provider; no authority, operator or the platform has explained it, and the organisations say they cannot establish the cause. The 2026 access-to-finance survey [finds only 30.7 per cent of formally included adults financially healthy](https://nairametrics.com/2026/10/05/nigeria-hits-73-financial-inclusion-target-but-60-4-million-adults-remain-vulnerable/). A foundation [filed a fundamental-rights suit against the platform over restricted access in four northern states](https://punchng.com/foundation-sues-as-tiktok-restricts-access-to-kano-kebbi-others/).
 
+## Rwanda
+
+[The development board announced a planned Business Obstacles Alert platform on 8 October 2026, for businesses to report and track obstacles in accessing public services after registration](https://www.newtimes.co.rw/article/39536/news/business/rdb-mulls-new-platform-for-businesses-to-report-service-delivery-obstacles).
+
 ## Senegal
 
-The Council of Ministers on 10 September [directed the state digital company to set up an information system to monitor and handle citizens' concerns](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/), with no scope, channel or date stated.
+The Council of Ministers on 10 September [directed the state digital company to set up an information system to monitor and handle citizens' concerns](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/), with no scope, channel or date stated. [The commission of inquiry opened its hearings on 5 October 2026; a former funding director testified that the 2025-26 handover recorded an order for 25,000 computers from two suppliers without the contracts](https://www.camou-communication.com/2026/10/08/un-etudiant-un-ordinateur-mame-penda-ba-ouvre-le-bal-dune-enquete-aux-multiples-interrogations/).
 
 ## Sierra Leone
 
@@ -125,7 +129,7 @@ The agency's managing director [said on 22 September that 60% of executive commi
 
 The [Presidential Hotline, run since September 2009 on the state IT agency's case-management platform, was the subject of an oversight visit on 9 September](https://www.sanews.gov.za/south-africa/mohai-conducts-oversight-visit-presidential-hotline-call-centre), with automation on the agenda. The [ParliMeter platform, which tracks MPs' attendance, bills, committees and ministerial answers, passed to the Parliamentary Monitoring Group as its EU-funded phase ended](https://myza.co.za/parlimeter-enters-its-next-chapter/). Neither publishes a resolution rate or usage figures.
 
-A private referral app linking rural health workers with specialist doctors [passed three million patients referred](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients), a total across five southern African countries with no figure for South Africa alone. The regulator [withdrew its telecommunications affordability inquiry notice on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), 26 days after gazetting it, and [says it will republish it with a draft questionnaire](https://www.icasa.org.za/news/2026/icasa-withdraws-notices-on-ott-services-and-telecommunications-affordability-inquiries).
+A private referral app linking rural health workers with specialist doctors [passed three million patients referred](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrique-du-sud-la-plateforme-vula-franchit-le-cap-des-3-millions-de-patients), a total across five southern African countries with no figure for South Africa alone. The regulator [withdrew its telecommunications affordability inquiry notice on 30 September](https://www.icasa.org.za/uploads/files/Notice-of-Withdrawal-of-Notice-of-Intention-to-Conduct-a-Market-Inquiry-Into-The-Affordability-of-Telecommunications-Services-in-South-Africa.pdf), 26 days after gazetting it, and [says it will republish it with a draft questionnaire](https://www.icasa.org.za/news/2026/icasa-withdraws-notices-on-ott-services-and-telecommunications-affordability-inquiries). [The social development department received a qualified audit opinion for 2025/26 over weaknesses in the agency's payment system, including grants paid to deceased people and government employees, Parliament's committee heard on 6 October 2026](https://www.citizen.co.za/alex-news/news-headlines/local-news/2026/10/08/weaknesses-in-sassa-payment-system-triggers-portfolio-committee-concern-after-qualified-audit/). [The agency defended its reviews and biometric enrolment as fraud controls on 9 October](https://www.sanews.gov.za/south-africa/sassa-steps-grant-controls).
 
 ## South Sudan
 
@@ -133,7 +137,7 @@ Access got dearer and the machinery for questioning it got weaker, in the same w
 
 ## Tanzania
 
-Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
+Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/). [The communications regulator reported at a regional cohort meeting of 5 to 9 October 2026 that its initiative on assistive technologies for persons with disabilities was 80 percent complete, its website accessibility work recognised under a new national standard on accessibility of ICT products and services](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/).
 
 ## Togo
 

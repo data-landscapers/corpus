@@ -3,13 +3,13 @@ title: New investments — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: finance.new
-places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
-record: b71a643fc5bf
+places: AGO; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; SWZ; GHA; KEN; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; ZAF; TZA; ZMB
+record: f21e736263c4
 ---
 
 # New investments: monthly update, September – October 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -46,6 +46,10 @@ A further figure was attached to the digitalisation programme at the prioritisat
 ## Djibouti
 
 The investment on offer was estimated rather than committed. A country private sector diagnostic [identified at least US$600 million of private investment and about 12,000 jobs available over five years across off-grid solar energy, data centres and tourism, with the policy actions that would bring them about](https://www.worldbank.org/en/news/press-release/2026/09/14/world-bank-group-report-identifies-significant-private-investment-potential-for-dj). Nothing in it is a transaction.
+
+## DR Congo
+
+[Vodacom Congo said at its forum in Kinshasa on 8 October 2026 that it plans a long-term US$670m network investment programme, against an average of US$140m a year, and put its 4G coverage at 46.1%](https://zoom-eco.net/autres-actualites/rdc-vodacom-veut-porter-a-670-millions-usd-ses-investissements-reseau-pour-accelerer-la-transformation-numerique/).
 
 ## Egypt
 

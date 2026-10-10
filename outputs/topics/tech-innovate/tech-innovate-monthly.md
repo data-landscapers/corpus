@@ -4,7 +4,7 @@ compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: tech.innovate
 places: AGO; BFA; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GMB; KEN; LBR; MRT; MAR; NAM; NGA; SEN; SLE; ZAF; TZA; UGA; ZWE
-record: 1b057939b1f7
+record: 8a5634f23dff
 ---
 
 # Innovation ecosystem: monthly update, September – October 2026
@@ -29,7 +29,7 @@ The innovation record moved to the extent that two institutions said they intend
 
 On 15 September the digital minister [presented six costed opportunities worth FCFA 541.3bn to the private sector, under a ministerial roadmap of seven pillars and 40 projects aiming to lift the digital economy to 15 per cent of GDP by 2030](https://www.aip.ci/cote-divoire-aip-pnd-2026-2030-le-ministre-djibril-ouattara-presente-les-sept-piliers-de-lacceleration-numerique/), from an estimated 6 to 8 per cent now.
 
-Opening the 2026 Ivoire Tech Forum, the digital minister [announced a startup labelling platform to give labelled startups access to the fiscal framework's incentives](https://techreviewafrica.com/news/7410/); no date or operator was given.
+Opening the 2026 Ivoire Tech Forum, the digital minister [announced a startup labelling platform to give labelled startups access to the fiscal framework's incentives](https://techreviewafrica.com/news/7410/); no date or operator was given. [The economy ministry launched the Fintech Sector Support Project on 6 October 2026 through its financial inclusion promotion agency, with African Development Bank backing, to support fintech firms beyond payments and money transfers](https://www.ecofinagency.com/news-finances/0910-59598-cote-d-ivoire-seeks-to-diversify-fintech-sector-beyond-digital-payments).
 
 ## DR Congo
 

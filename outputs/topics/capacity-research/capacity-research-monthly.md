@@ -3,13 +3,13 @@ title: Research institutions — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: capacity.research
-places: COM; EGY; GHA; KEN; MAR; UGA; ZWE
-record: dbfbddb7701f
+places: COM; EGY; GHA; KEN; MAR; SLE; UGA; ZWE
+record: ffcb95d0f77f
 ---
 
 # Research institutions: monthly update, September – October 2026
 
-*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ On 24 September a regional digital-rights network [published its comments on the
 ## Morocco
 
 Two published outputs show what the university departments are working on, neither of them adopted by anyone. Researchers at two universities built an [electronic voting model combining biometric verification of the voter, blockchain and the ability to keep working where connectivity is weak or absent, tested in a field trial with 300 participants and published on 4 September in a peer-reviewed cybersecurity journal](https://www.hespress.com/%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%b5%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%aa%d8%b9-1802990.html). It is a research platform, not an electoral system the authorities have taken up. Separately a scientific review available from 1 September records an [expansion of Moroccan research applying artificial intelligence to drought, water scarcity and rising temperatures, across water, agriculture, energy, cities and natural hazards](https://www.hespress.com/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%8a%d9%88%d8%b3%d8%b9-%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%84%d9%85-1804454.html). Neither account carries a paper count, a funding figure or any record of operational adoption.
+
+## Sierra Leone
+
+[The Center for Information Privacy, Human-Centered Technology and Ethics Research launched in Freetown on 6 October 2026 to research the handling of personal data, train on data-subject rights and feed evidence into data-protection law and policy](https://truthmedia.sl/cipher-launched-to-promote-data-protection-cybersecurity-and-digital-privacy/).
 
 ## Uganda
 

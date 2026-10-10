@@ -3,13 +3,13 @@ title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly up
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: dpi.mis
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7f8fe99e402b
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f1ceaaa1df51
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -31,7 +31,7 @@ Customs [now issues the laisser-passer for foreign vehicles wholly online](https
 
 ## Burkina Faso
 
-On 21 September the health ministry [put a digitalised, geolocated health map at the centre of its sector council, to show disparities in care in real time and to plan facilities, staff, essential-medicine supply and biomedical equipment under the health transformation strategy for 2026-2030](https://www.sidwaya.info/ministere-de-la-sante-la-carte-sanitaire-digitalisee-au-coeur-du-premier-casem-de-2026/). No go-live date, coverage or budget line is stated.
+On 21 September the health ministry [put a digitalised, geolocated health map at the centre of its sector council, to show disparities in care in real time and to plan facilities, staff, essential-medicine supply and biomedical equipment under the health transformation strategy for 2026-2030](https://www.sidwaya.info/ministere-de-la-sante-la-carte-sanitaire-digitalisee-au-coeur-du-premier-casem-de-2026/). No go-live date, coverage or budget line is stated. [The security minister listed it, with the SYGESS system, as computerised among his department's 2022-26 results in October 2026](https://www.minute.bf/jeppc-2026-le-ministre-sana-presente-les-acquis-dans-la-modernisation-de-son-departement/).
 
 ## Burundi
 
@@ -46,6 +46,10 @@ The water utility [awarded a CFA721.76 million contract on 17 August 2026 for 3,
 The justice information system reported on its second year. The justice institute's evaluation, released on 16 September, [counts 46,000 criminal case files handled digitally across all 17 comarcas, an estimated 2.3 million sheets of paper saved, 401 justice professionals signing with qualified digital signatures and 110 trained in artificial intelligence](https://expressodasilhas.cv/pais/2026/09/17/justica-digital-ja-poupa-23-milhoes-de-folhas-de-papel/104656); the civil-process component waits on authorisation for three pilots.
 
 Procurement opened behind the announced health digitalisation. [Expressions of interest close on 18 September 2026 for a consultancy to train and support use of the health information system, its portal and the open-source district health platform, under a US$29m concessional health-security project](https://static.expressodasilhas.cv/media/pub/v2/pdf/2026/09/1788545549351.pdf). It is a training and support contract rather than a build — which is the part an announced system usually lacks, and the part that decides whether it is used.
+
+## Central African Republic
+
+[The first integrated criminal database was established on 9 October 2026, the UN mission financing the centre, equipment and servers and UNODC providing expertise, training and connectivity; extension to the judicial police and the regions is the stated next step](https://www.africa-newsroom.com/press/central-african-republic-establishes-first-integrated-criminal-database-with-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republic-minusca-and-united-nations-office-on-drugs-and-crime-unodc-support?lang=en). [A second report records the centre's inauguration at the interior ministry](https://www.alwihdainfo.com/rca-inauguration-du-nouveau-centre-de-donnees-criminelles-au-ministere-de-linterieur/).
 
 ## Chad
 
@@ -82,6 +86,10 @@ Customs also appears on a list of intended work: [an undated page of the PAMFP p
 The Integrated Financial Management Information System was [among the systems the ICT ministry listed as disrupted on 23 September](https://independentnews.co.sz/48729/news/govt-systems-crippled-by-digital-outages/), with technical experts engaged and no cause or restoration date given.
 
 The science park [confirmed on 24 September that an incident at the National Data Centre lies behind the disruption](https://times.co.sz/44621/news/national-data-centre-hit-by-incident/), without saying what it was. [The outage was blocking new loans to civil servants](https://www.eswatiniobserver.com/system-glitch-stalls-civil-servants-loans/), lenders being unable to check applicants against the salary-deduction ceiling.
+
+## Ethiopia
+
+[The revenue ministry re-advertised on 8 October 2026 for a technical lead to govern the system's architecture, oversee vendors and integrate it with its data warehouse and e-invoicing systems, with expressions of interest due 29 October](https://www.getchereta.com/tender/85995).
 
 ## Gabon
 
@@ -153,7 +161,7 @@ The judiciary set technology as a priority for the year ahead. At the launch of 
 
 ## Senegal
 
-The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops.
+The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops. [The agriculture ministry launched the nationwide digitalisation of subsidised seed and fertiliser distribution through the ERP Pass application on 9 October 2026; producers are notified by text message, and the minister said the state now holds a digital register of beneficiaries and allocations](https://ledakarois.sn/article/intrants-agricoles-la-distribution-passe-au-numerique-avec-l-application-erp-pass).
 
 ## Sierra Leone
 
@@ -193,7 +201,7 @@ The health ministry and UNICEF [set the priority needs for a national digital pl
 
 The family ministry [brought a case system for child-protection delegates into service on 11 September, digitising notifications on children at risk](https://www.alchourouk.com/article/%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%85%D9%86%D8%AF%D9%88%D8%A8%D9%8A-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9); no access rule or volume is published.
 
-Labour inspection moved onto a system of its own. The social affairs ministry [launched its Gestion du travail platform for labour inspectors on 23 September, built under an ILO project, in a pilot to the end of December with full operation from early 2027](https://www.tunisienumerique.com/tunisie-linspection-du-travail-passe-au-numerique/); its enterprise module is to exchange data with the business register and the social security fund. No user count or exchange date is published. The health ministry [announced a national platform to track medicine stocks and the generalisation of e-pharmacy](https://www.tunisienumerique.com/medicaments-comment-la-tunisie-veut-prevenir-les-ruptures-avant-quelles-ne-surviennent/), with no supplier or launch date.
+Labour inspection moved onto a system of its own. The social affairs ministry [launched its Gestion du travail platform for labour inspectors on 23 September, built under an ILO project, in a pilot to the end of December with full operation from early 2027](https://www.tunisienumerique.com/tunisie-linspection-du-travail-passe-au-numerique/); its enterprise module is to exchange data with the business register and the social security fund. No user count or exchange date is published. The health ministry [announced a national platform to track medicine stocks and the generalisation of e-pharmacy](https://www.tunisienumerique.com/medicaments-comment-la-tunisie-veut-prevenir-les-ruptures-avant-quelles-ne-surviennent/), with no supplier or launch date. [The religious affairs ministry launched a digital platform to manage mosque staff, presented on 9 October 2026: it tracks personnel files, identifies vacant posts and links central and regional services](https://www.lapresse.tn/2026/10/10/lancement-dune-plateforme-numerique-pour-gerer-les-cadres-des-mosquees/).
 
 ## Uganda
 

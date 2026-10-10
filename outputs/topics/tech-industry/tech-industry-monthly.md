@@ -4,7 +4,7 @@ compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: tech.industry
 places: DZA; AGO; CAF; EGY; SWZ; KEN; MDG; MUS; MOZ; NGA; SEN; ZAF; TZA; UGA
-record: ad3ac0eba20c
+record: e8718811b02d
 ---
 
 # ICT Industry: monthly update, September – October 2026
@@ -55,7 +55,7 @@ The state is looking for a partner to take part of its telecommunications operat
 
 ## Nigeria
 
-The communications minister [put the ICT sector's contribution to GDP at about 21 per cent, up from about 16 per cent in three years](https://von.gov.ng/ict-contribution-to-gdp-rises-to-21-minister/). A consultancy procurement [opened on 21 September for a programme to build a knowledge-services export industry](https://www.premiumtimesng.com/promoted/911181-request-for-expression-of-interest-consultancy-services-for-the-establishment-of-a-national-business-process-outsourcing-and-high-value-it-enabled-services-industry-for-the-idice-programme.html), with a 1,000-graduate academy. The software industry association [committed on 10 September to launch a national software industry registry within six months](https://www.thisdaylive.com/2026/09/10/ispon-inaugurates-nec-harps-on-national-software-industry-registry/).
+The communications minister [put the ICT sector's contribution to GDP at about 21 per cent, up from about 16 per cent in three years](https://von.gov.ng/ict-contribution-to-gdp-rises-to-21-minister/). A consultancy procurement [opened on 21 September for a programme to build a knowledge-services export industry](https://www.premiumtimesng.com/promoted/911181-request-for-expression-of-interest-consultancy-services-for-the-establishment-of-a-national-business-process-outsourcing-and-high-value-it-enabled-services-industry-for-the-idice-programme.html), with a 1,000-graduate academy. The software industry association [committed on 10 September to launch a national software industry registry within six months](https://www.thisdaylive.com/2026/09/10/ispon-inaugurates-nec-harps-on-national-software-industry-registry/). [OPay filed a registration statement in the United States on 9 October 2026 for a New York listing](https://www.sec.gov/Archives/edgar/data/2103076/000119312526418812/d56487df1.htm). [The filing shows a South African banking group's unit buying up to US$200m of shares in a private placement alongside the offering, and 50.1 million monthly active users at end-July 2026](https://techcentral.co.za/standard-bank-opay-stake-ipo/287154/).
 
 ## Senegal
 

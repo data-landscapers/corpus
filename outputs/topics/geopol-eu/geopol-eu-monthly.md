@@ -1,17 +1,19 @@
 ---
 title: EU activities — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 subject: geopol.eu
-places: GNQ; GMB; SEN
-record: 2c479fc1e014
+places: CPV; GNQ; GMB; SEN
+record: 30d3e34dec60
 ---
 
 # EU activities: monthly update, September – October 2026
 
-*3 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
-*The place reports do not share one window; the period above is the range they span.*
+## Cape Verde
+
+[The 14th special partnership ministerial in Brussels on 9 October 2026 reported a Global Gateway digital pipeline in preparation, covering submarine cables and inter-island connectivity, and progress in European support for the national data and AI strategies](https://www.eeas.europa.eu/eeas/joint-communique-fourteenth-ministerial-meeting-european-union-eu-cabo-verde-special-partnership_en).
 
 ## Equatorial Guinea
 

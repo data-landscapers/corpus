@@ -4,7 +4,7 @@ compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e12842ffa649
+record: 74f067a187f7
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -47,11 +47,11 @@ The Council of Ministers [adopted a draft labour code on 3 September that replac
 
 ## Congo
 
-On 17 September the prime minister said [the 2001 law on freedom of information and communication must be updated for social networks, disinformation and artificial intelligence](https://www.adiac-congo.com/content/sicom-2026-un-bilan-et-des-engagements-pour-lavenir-171694), and the media fair's closing resolutions recommended its reform. The resolutions come from media professionals; no draft has been announced. The money-transfer regulator said [it will enforce article 13 of the 2026 finance law, which requires every operator to register on its digital platform and declare all transfers monthly, on pain of a FCFA 20 million fine](https://www.aci.cg/congo-finances-vers-la-digitalisation-du-secteur-des-transferts-de-fonds-pour-une-meilleure-transparence/).
+On 17 September the prime minister said [the 2001 law on freedom of information and communication must be updated for social networks, disinformation and artificial intelligence](https://www.adiac-congo.com/content/sicom-2026-un-bilan-et-des-engagements-pour-lavenir-171694), and the media fair's closing resolutions recommended its reform. The resolutions come from media professionals; no draft has been announced. The money-transfer regulator said [it will enforce article 13 of the 2026 finance law, which requires every operator to register on its digital platform and declare all transfers monthly, on pain of a FCFA 20 million fine](https://www.aci.cg/congo-finances-vers-la-digitalisation-du-secteur-des-transferts-de-fonds-pour-une-meilleure-transparence/). [The transfer regulator said it will enforce the use of electronic payment terminals by every money-transfer operator from January 2027, after showing 200 of 1,000 terminals ordered to about a hundred operators in Brazzaville](https://www.adiac-congo.com/content/transfert-de-fonds-lusage-des-terminaux-de-paiement-electronique-entrera-en-vigueur-des).
 
 ## Cote d'Ivoire
 
-An analysis published on 10 September sets out [the banking reform that brings financial technology firms into the regulated perimeter](https://cadreco.media/finance/2026/reforme-bancaire-la-cote-divoire-redessine-la-frontiere-avec-les-fintechs): two bills adopted by the Council of Ministers on 29 April 2026, under which competition between banks, payment institutions, electronic money issuers and fintechs turns on licences and their obligations. No adoption by parliament is on record.
+An analysis published on 10 September sets out [the banking reform that brings financial technology firms into the regulated perimeter](https://cadreco.media/finance/2026/reforme-bancaire-la-cote-divoire-redessine-la-frontiere-avec-les-fintechs): two bills adopted by the Council of Ministers on 29 April 2026, under which competition between banks, payment institutions, electronic money issuers and fintechs turns on licences and their obligations. No adoption by parliament is on record. [The telecoms regulator's head, speaking on World Post Day, 9 October 2026, called for the postal network to be adapted to the digital economy; the report records a revision of the 2013 Postal Code under way](https://www.aip.ci/cote-divoire-aip-lartci-mise-sur-linnovation-pour-transformer-le-reseau-postal-en-levier-de-developpement/).
 
 ## DR Congo
 
@@ -143,7 +143,7 @@ The online press answered the draft ordinance in its own name: fourteen editors 
 
 ## Nigeria
 
-The platform penalty moved toward a deal: Meta [is negotiating a settlement with the commission after a first appeal was rejected](https://www.africaintelligence.fr/afrique-ouest/2026/09/14/apres-son-amende-de-220-millions-de-dollars-meta-tente-de-negocier-un-compromis-avec-abuja,110876270-art), on a single paywalled account.
+The platform penalty moved toward a deal: Meta [is negotiating a settlement with the commission after a first appeal was rejected](https://www.africaintelligence.fr/afrique-ouest/2026/09/14/apres-son-amende-de-220-millions-de-dollars-meta-tente-de-negocier-un-compromis-avec-abuja,110876270-art), on a single paywalled account. [The Nigerian Fintech Regulatory Commission Bill passed second reading in the House of Representatives in October 2025 and had a public hearing on 2 March 2026; it would create a single licensing gateway beside the central bank and the securities regulator, and is still pending](https://businesstech.ng/fintech-regulatory-commission-bill-nigeria/).
 
 ## Senegal
 

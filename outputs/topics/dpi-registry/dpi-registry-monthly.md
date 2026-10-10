@@ -4,7 +4,7 @@ compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: a8aaa2375d53
+record: 2a177a171b59
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
@@ -55,7 +55,7 @@ Control arrived before the system did. A [circular of 1 September 2026 from the 
 
 ## Cote d'Ivoire
 
-The animal resources ministry said [data from the electronic livestock identification system it plans with a French firm will be hosted and secured in Côte d'Ivoire](https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html).
+The animal resources ministry said [data from the electronic livestock identification system it plans with a French firm will be hosted and secured in Côte d'Ivoire](https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html). [At the Abidjan land days of 5 to 7 October 2026 the cadastre director presented the e-Cadastre platform as part of moving cadastre procedures and land-tax payment online by stages](https://www.koaci.com/article/2026/10/09/cote-divoire/societe/cote-divoire-journees-foncieres-le-cadastre-numerique-au-coeur-de-la-reforme-fiscale_201459.html).
 
 ## DR Congo
 
@@ -169,7 +169,7 @@ The companies commission [launched on 29 September a disclosure module giving la
 
 ## Sudan
 
-[Company commercial registration was added to the national e-government platform](https://alghadalsudani.com/34214/), with two services for the legal profession, reported on 1 October. It is the first movement on the register since administrative work in Port Sudan was suspended in December 2025; no count of registrations made online is published.
+[Company commercial registration was added to the national e-government platform](https://alghadalsudani.com/34214/), with two services for the legal profession, reported on 1 October. It is the first movement on the register since administrative work in Port Sudan was suspended in December 2025; no count of registrations made online is published. [A survivors' fund opened a tender for a secure, offline-capable digital victims' registry, built with a national organisation in an 18-month project from 1 November 2026, with about 500 survivors to be documented first and hosting outside the country](https://www.globalsurvivorsfund.org/wp-content/uploads/2026/10/VAC_TRF_termofref-sudan-registry_SDN_EN_2026.pdf).
 
 ## Tanzania
 

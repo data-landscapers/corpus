@@ -3,13 +3,13 @@ title: Digitalisation of sub-national government — monthly update, September �
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: digital.localgov
-places: BFA; CMR; TCD; GHA; GNB; KEN; LBY; MWI; NAM; NGA; RWA; SEN; ZAF; SDN; TZA; TUN; UGA
-record: e916676d962a
+places: BFA; CMR; TCD; GHA; GNB; KEN; LBY; MWI; NAM; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA
+record: 3f222a4571a8
 ---
 
 # Digitalisation of sub-national government: monthly update, September – October 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -78,6 +78,10 @@ The Gauteng e-government department's 2025/26 annual report records [96 public W
 Johannesburg's municipal network company [set a 2026/27 target of 200,000 free Wi-Fi connections against 1,574,979 recorded in 2024/25, without explanation, and describes itself as under-capacitated, with 26 network staff for 1,200km of fibre and R20.7m of capital budget](https://www.sundaytimes.timeslive.co.za/news/2026-09-19-joburgs-wi-fi-plan-falters-amid-a-litany-of-woes/).
 
 Tshwane and the CSIR [launched an Enterprise Data and Analytics Platform on 29 September that pools municipal departments' service-delivery data, after a six-month test](https://gautengnews.net/tshwane-promises-faster-service-delivery-responses-but-keeps-war-room-dashboard-internal/). The live war-room dashboard stays internal; the city will consider a public version once the data is fully tested. No cost has been stated. A collaboration agreement between Tshwane and the CSIR [sets a two-year implementation period to 30 June 2028 for the city's data and analytics platform](https://www.citizen.co.za/rekord/news-headlines/2026/10/02/tshwane-launches-data-platform-with-csir-to-boost-service-delivery/), which is to extend across its seven regions. The department [put that camera estate at the disposal of a police murder investigation](https://www.itweb.co.za/article/thousands-of-cameras-to-help-catch-ekurhuleni-killer/KBpdg7pm5pXMLEew). No access rule, retention period or audit is published.
+
+## South Sudan
+
+[Its first executive meeting under a caretaker mayor, reported 8 October 2026, put the move to digital collection at the centre of its priorities, after the state government launched a digital revenue system and e-services for the council in September](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/).
 
 ## Sudan
 

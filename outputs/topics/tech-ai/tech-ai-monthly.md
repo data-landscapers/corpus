@@ -3,13 +3,13 @@ title: AI — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2e20de448332
+places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; DJI; COD; EGY; SWZ; GAB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4b393c4bd32f
 ---
 
 # AI: monthly update, September – October 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -38,6 +38,10 @@ Camera enforcement of road offences [recorded 19,910 offences over August 2026, 
 ## Burundi
 
 The strategy went looking for money. The finance and budget minister carried its ambitions to the Korea-Africa economic cooperation ministerial in Seoul, [seeking the financing and partnerships to turn it into concrete projects](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-a-seoul-le-burundi-presente-ses-ambitions), the account naming connectivity, data infrastructure and local skills as what the strategy validated in April provides for, against national digital capacity it describes as limited. No commitment, partner or project is reported as resulting, which leaves the strategy where the repository already had it: adopted, unfunded and unimplemented.
+
+## Chad
+
+[A pre-validation workshop for the National Artificial Intelligence Strategy opened in N'Djamena on 8 October 2026, the strategy aimed at health, agriculture, education and public services](https://camerpressagency.com/la-souverainete-au-bout-de-lalgorithme-et-du-guichet/).
 
 ## Cote d'Ivoire
 
@@ -135,7 +139,7 @@ An agriculture official [set out a plan to reach 2.5 million farmers with AI adv
 
 ## Senegal
 
-An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html). A high court [began piloting a locally deployed AI application for judicial archives](https://apanews.net/senegal-ai-enters-judicial-archives/), with UNDP and Korean funding.
+An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html). A high court [began piloting a locally deployed AI application for judicial archives](https://apanews.net/senegal-ai-enters-judicial-archives/), with UNDP and Korean funding. [The justice ministry judged the pilot's first results satisfactory at a meeting with the UN agency on 9 October 2026, naming staff recruitment and the regular feeding of the court platform as the open challenges](https://www.leral.net/Justice-senegalaise-Pikine-Guediawaye-teste-la-numerisation-des-archives-judiciaires_a408035.html).
 
 ## Seychelles
 
@@ -177,13 +181,13 @@ The month's only artificial-intelligence movement is a procurement. The developm
 
 ## Tunisia
 
-At a finance-ministry seminar on 29 September the director general of the national customs school [listed a customs risk-targeting system, Sanad 2, and a chatbot for the tax directorate among projects to be announced](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/). Customs [presented a simulated risk model on 2025 data that found about 96.9 million dinars in additional amounts at a 49.23% detection rate](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/), and the ministry's computing centre [put a one-year big-data tax-audit project, on local infrastructure and open-source tools, at the bid-receipt stage](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/). None has a go-live date on record. A finance ministry document on the 2027 budget [rested resource mobilisation on countering tax evasion with artificial intelligence](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155388-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A). Customs said [the share of declarations sent to the red channel fell from 4.7% in 2025 to 2.6% in 2026, with artificial intelligence in the risk analysis since May](https://www.lapresse.tn/2026/10/06/douane-tunisienne-le-circuit-rouge-recule-fortement-en-2026/).
+At a finance-ministry seminar on 29 September the director general of the national customs school [listed a customs risk-targeting system, Sanad 2, and a chatbot for the tax directorate among projects to be announced](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/). Customs [presented a simulated risk model on 2025 data that found about 96.9 million dinars in additional amounts at a 49.23% detection rate](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/), and the ministry's computing centre [put a one-year big-data tax-audit project, on local infrastructure and open-source tools, at the bid-receipt stage](https://www.webmanagercenter.com/2026/09/30/573616/douanes-et-fiscalite-la-tunisie-accelere-lusage-de-lintelligence-artificielle/). None has a go-live date on record. A finance ministry document on the 2027 budget [rested resource mobilisation on countering tax evasion with artificial intelligence](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/155388-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-2027-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%AA%D8%B1%D8%AA%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8-%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%A6%D9%8A-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A). Customs said [the share of declarations sent to the red channel fell from 4.7% in 2025 to 2.6% in 2026, with artificial intelligence in the risk analysis since May](https://www.lapresse.tn/2026/10/06/douane-tunisienne-le-circuit-rouge-recule-fortement-en-2026/). [Customs said on 9 October 2026 that artificial intelligence integrated into its risk-management and selectivity system, built in-house, should enter operation at the end of November 2026](https://fr.allafrica.com/stories/202610090629.html).
 
 ## Uganda
 
 A domestic model reached a continental prize rather than a deployment: a startup building [credit scoring for smallholder farmers who lack collateral took US$50,000, about 190m shillings, in growth funding at a Kigali food-systems summit](https://nilepost.co.ug/technology/369117/ugandan-startup-sandi-ai-wins-shs190m-gogettaz-agripreneur-prize). No user count, lender partnership, loan volume or model documentation is published. In the same week the state set artificial intelligence against a sector rather than a system, [making "Digital Agenda and Artificial Intelligence to Redesign Tourism" the theme of national World Tourism Day celebrations, against 793,815 visitors in the first half of 2026 and receipts up 25.6% to 2.30tn shillings](https://www.monitor.co.ug/uganda/news/national/uganda-turns-to-ai-to-drive-tourism-growth-5583524) — a framing with no programme, budget or system behind it.
 
-Mbarara University of Science and Technology [leads the data-pipeline and machine-learning work in a four-year, GBP 4.4m Wellcome Trust microscopy programme led by the University of Cape Town](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which began in September 2026.
+Mbarara University of Science and Technology [leads the data-pipeline and machine-learning work in a four-year, GBP 4.4m Wellcome Trust microscopy programme led by the University of Cape Town](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which began in September 2026. [The civil aviation authority has moved Entebbe airport's car parks onto AI-assisted number-plate recognition and mobile-money payment, reported 9 October 2026, and says it keeps vehicle registration records, timestamps and payment logs indefinitely, releasing them to security agencies under statutory guidelines](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876).
 
 ## Zambia
 

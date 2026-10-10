@@ -4,7 +4,7 @@ compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: infra.capacity
 places: CMR; COD; KEN; LBY; RWA; ZAF; TGO
-record: 08adb4091e7e
+record: 0fa8eb69dbb4
 ---
 
 # Technical Capacity: monthly update, September – October 2026
@@ -19,7 +19,7 @@ The digital transformation project [launched train.patnucelearning.cm on 21 Sept
 
 ## DR Congo
 
-Assembly capacity for digital hardware appears in this repository for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to. The regional programme's half-year report [records the digital transformation project's unit operational and a US$10m Kinshasa connectivity pilot, against delays in validating the backbone investment strategy and late disbursement of the French co-financing, with a US$190m backbone tender and US$65m of last-mile tenders the year's stated priorities](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
+Assembly capacity for digital hardware appears in this repository for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to. The regional programme's half-year report [records the digital transformation project's unit operational and a US$10m Kinshasa connectivity pilot, against delays in validating the backbone investment strategy and late disbursement of the French co-financing, with a US$190m backbone tender and US$65m of last-mile tenders the year's stated priorities](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf). [The project's steering committee held its first session on 8 October 2026 and validated the 2026 annual work plan and budget, reviewing delays component by component and setting priorities to 2027](https://7sur7.cd/2026/10/10/transformation-numerique-le-copil-valide-le-ptba-2026-et-appelle-accelerer-lexecution-du).
 
 ## Kenya
 

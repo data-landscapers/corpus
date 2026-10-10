@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
-record: 120828b921a5
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; TGO; TUN; UGA; ZWE
+record: 7fb8f7c7c5b5
 ---
 
 # Regional collaboration: monthly update, September – October 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -124,6 +124,10 @@ Mauritius is one of 49 states that signed, with the European Space Agency, [a de
 ## Morocco
 
 The UN Economic and Social Commission for Western Asia and the minister for digital transition [signed a memorandum in Rabat establishing a framework for regional cooperation on modernising public administration and advancing digital governance reform](https://techafricanews.com/2026/09/03/escwa-morocco-digital-governance-mou/). No programme, value or deliverable is attached to it.
+
+## Mozambique
+
+[The ICT institute joined TriDigital, reported 9 October 2026: a common framework and bilingual platform for assessing the digital maturity of public institutions in Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe, running to January 2028 and including a demonstration diagnostic of the country's own maturity](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/).
 
 ## Namibia
 

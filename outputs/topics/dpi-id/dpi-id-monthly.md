@@ -3,19 +3,23 @@ title: Digital Identity and CRVS — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: dpi.id
-places: DZA; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
-record: 3c73f0789477
+places: DZA; AGO; BEN; BFA; CMR; TCD; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MDG; MWI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB
+record: ea05204d12d2
 ---
 
 # Digital Identity and CRVS: monthly update, September – October 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
 Applicants in Algiers and Bejaia [reported waits of at least three months, and in some cases five to six, for a biometric driving licence, and six to eight weeks for a biometric passport](https://maghrebemergent.news/fr/permis-et-passeports-biometriques-les-delais-de-delivrance-penalisent-les-citoyens/). No official explanation is published, and the repository holds no earlier issuance time to set these against. The digitalisation commission [set out how the national digital identity is obtained, by registration and appointment at the commune, activation and verification against the holder's biometric data](https://news.prixalgerie.com/identite-numerique-algerie-gouvernance-donnees/).
+
+## Angola
+
+[Tech By Tech released its AngolaID wallet in test mode, reported 9 October 2026: a credential created by video liveness check and facial recognition, verifiable by QR code, with an API and SDK for banks, schools and clinics; the company says it neither issues nor replaces the state identity card](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/).
 
 ## Benin
 
@@ -89,7 +93,7 @@ The SIM half of the identity regime moved for the first time in nine months. The
 
 The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
 
-The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december). The identification authority [began school-based registration of children aged 6 to 14 in the North East and Upper East Regions](https://www.myjoyonline.com/nia-extends-ghana-card-registration-for-children-in-north-east-and-upper-east/).
+The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december). The identification authority [began school-based registration of children aged 6 to 14 in the North East and Upper East Regions](https://www.myjoyonline.com/nia-extends-ghana-card-registration-for-children-in-north-east-and-upper-east/). [The identification authority's deputy executive secretary said, reported 9 October 2026, that registration of children aged 0 to 5 would begin the following week, alongside the continuing registration of those aged 6 to 14](https://www.ghanaweb.com/GhanaHomePage/business/NIA-biometric-system-to-tighten-fraud-controls-2055880).
 
 ## Kenya
 
@@ -121,7 +125,7 @@ On International Identity Day the registration bureau [launched the Nzika wallet
 
 An investigation reported that [a US$5.09m World Bank-financed contract for 2,400 biometric registration kits, with remote software support, went to a Hong Kong-registered supplier in March](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/), about 27% above estimate. The procurement authority says remote access reaches the kits only; the registration bureau and the regulator did not answer.
 
-On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published. UNDP [handed over 152 printers to decentralise birth, marriage and death registration, the minister saying 180 health facilities had already been digitalised](https://malawi24.com/2026/10/09/printers-to-bring-registration-services-closer-to-malawians/).
+On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published. UNDP [handed over 152 printers to decentralise birth, marriage and death registration, the minister saying 180 health facilities had already been digitalised](https://malawi24.com/2026/10/09/printers-to-bring-registration-services-closer-to-malawians/). [The UN agency's own account of 10 October 2026 puts the registration application, which links civil registration to identity management, in pilot at 87 locations across five districts, with 250 planned by 2028](https://www.undp.org/malawi/news/undp-hands-over-152-printers-national-registration-bureau-expand-civil-registration).
 
 ## Mauritius
 
@@ -151,7 +155,7 @@ A second use for election hardware was floated rather than agreed: the admission
 
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
-On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/).
+On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/). [Katsina State sought a partnership with the national identity commission, reported 10 October 2026, to integrate its identity management system with the national architecture; the two agreed a technical working group to draft a framework and memorandum within eight weeks](https://www.timeexpressnigeria.com/2026/10/gov-radda-seeks-nimc-partnership-to-strengthen-identity-management/).
 
 ## Rwanda
 

@@ -3,15 +3,19 @@ title: Standards — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 subject: gov.standards
-places: ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 1a009d54da50
+places: BEN; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
+record: 1c8a713f45d8
 ---
 
 # Standards: monthly update, September – October 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Benin
+
+[The state digital agency presented a national cybersecurity reference framework for AI systems to the administration's information-systems directors on 8 October 2026: four risk tiers from minimal to unacceptable, an AI officer and an ethics committee, and traceability of system decisions](https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents).
 
 ## Ethiopia
 
