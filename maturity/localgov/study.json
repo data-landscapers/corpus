@@ -1,0 +1,237 @@
+{
+  "id": "localgov",
+  "study_file": "maturity-study-localgov.md",
+  "subjects": [
+    "digital.localgov",
+    "infra.connect",
+    "dpi.govtech"
+  ],
+  "stage_topic": "digital.localgov",
+  "redraws": [
+    "digital.localgov--ict-infrastructure-for-local-government"
+  ],
+  "terms": [
+    "local government",
+    "local governments",
+    "local authority",
+    "local authorities",
+    "local council",
+    "local councils",
+    "district council",
+    "district councils",
+    "district assembly",
+    "district assemblies",
+    "municipal council",
+    "municipal councils",
+    "town council",
+    "town councils",
+    "city council",
+    "county government",
+    "county governments",
+    "local government area",
+    "local government areas",
+    "municipality",
+    "municipalities",
+    "woreda",
+    "woredas",
+    "sub-national government",
+    "subnational government",
+    "town hall",
+    "town halls",
+    "collectivité territoriale",
+    "collectivités territoriales",
+    "collectivité locale",
+    "collectivités locales",
+    "collectivités décentralisées",
+    "mairie",
+    "mairies",
+    "hôtel de ville",
+    "conseil communal",
+    "conseil municipal",
+    "conseils municipaux",
+    "communes",
+    "autarquia",
+    "autarquias",
+    "autarquias locais",
+    "câmara municipal",
+    "câmaras municipais",
+    "administração municipal",
+    "administrações municipais",
+    "administração local",
+    "município",
+    "municípios",
+    "البلديات",
+    "بلدية",
+    "الجماعات الترابية",
+    "الجماعات المحلية",
+    "الإدارة المحلية",
+    "المجالس المحلية",
+    "الحكم المحلي",
+    "الوحدات المحلية",
+    "government network",
+    "government-wide network",
+    "government wide area network",
+    "government intranet",
+    "GovNet",
+    "WoredaNet",
+    "national backbone infrastructure",
+    "last mile connectivity",
+    "intranet gouvernemental",
+    "intranet de l'administration",
+    "réseau de l'administration",
+    "rede do governo",
+    "rede privativa do estado",
+    "الشبكة الحكومية",
+    "e-council",
+    "e-commune",
+    "e-communes",
+    "e-municipality",
+    "e-municipalities",
+    "smart council",
+    "smart councils",
+    "smart municipality",
+    "commune numérique",
+    "communes numériques",
+    "mairie connectée",
+    "mairies connectées",
+    "município digital",
+    "البلدية الإلكترونية",
+    "البلدية الرقمية",
+    "county ICT",
+    "council ICT",
+    "local government ICT",
+    "LAIFOMS",
+    "e-government for local"
+  ],
+  "sub_indicators": [
+    {
+      "key": "connection",
+      "label": "Office connection",
+      "subject": "digital.localgov",
+      "text": "ICT infrastructure for local government: office connection",
+      "indicator_id": "digital.localgov--ict-infrastructure-for-local-government-office-connection",
+      "class": "connection"
+    }
+  ],
+  "classes": [
+    "connection",
+    "equipment",
+    "application",
+    "web",
+    "public-access",
+    "city-systems",
+    "backbone",
+    "capacity",
+    "upper-tier",
+    "central"
+  ],
+  "aspects": [
+    {
+      "key": "governance",
+      "name": "Governance, planning, finance",
+      "role": "qualifier",
+      "window_months": 36,
+      "facets": {
+        "owner": [
+          "ministry",
+          "partner",
+          "vendor"
+        ],
+        "plan": [
+          "current",
+          "none"
+        ],
+        "finance": [
+          "domestic",
+          "donor",
+          "not-stated"
+        ]
+      }
+    },
+    {
+      "key": "use",
+      "name": "What the office does over it",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "systems"
+      ],
+      "values": [
+        "systems",
+        "internet",
+        "none"
+      ]
+    },
+    {
+      "key": "connected",
+      "name": "How the office is connected",
+      "role": "coverage",
+      "defer": [
+        "none",
+        "personal"
+      ],
+      "prefer": [
+        "institutional"
+      ],
+      "values": {
+        "connection": [
+          "institutional",
+          "personal",
+          "none"
+        ]
+      }
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": [
+        "advancing",
+        "no-change",
+        "regressing"
+      ]
+    },
+    {
+      "key": "authorities",
+      "name": "Local governments connected",
+      "role": "coverage",
+      "pattern": "share:\\d{1,3}(\\.\\d+)?%|equipped:\\d{1,3}(\\.\\d+)?%|count:\\d+|pilot|none|not-published",
+      "prefer": [
+        "share:",
+        "equipped:",
+        "count:",
+        "pilot",
+        "none",
+        "not-published"
+      ]
+    }
+  ],
+  "cap": {
+    "aspect": "governance",
+    "above": 3,
+    "flag": "externally run",
+    "all": [
+      "owner:ministry"
+    ],
+    "any": [
+      "finance:domestic",
+      "plan:current"
+    ]
+  },
+  "flags": [
+    "externally run",
+    "rural gap",
+    "on the government network",
+    "advancing",
+    "regressing"
+  ],
+  "exclude_sources": [
+    {
+      "slug": "2026-03-31 Africa we have a data problem",
+      "why": "An AI-assisted compilation by its own header, not sourced fact (Bill, 2026-10-06). Its rows stay in evidence.csv; none enters a profile or sets a stage."
+    }
+  ]
+}
