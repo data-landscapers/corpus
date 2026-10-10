@@ -1,0 +1,7 @@
+# Egypt
+
+## Revenue records
+
+***Noted, not assessed***. [The Egyptian Tax Authority's E-Receipt System and E-Invoice System](<https://eta.gov.eg/en/home>); [its Real Estate Transactions app, for registering transactions, paying the tax and obtaining clearance certificates](<https://sis.gov.eg/en/media-center/news/egypt-launches-new-tax-services-center-real-estate-transactions-app-as-part-of-tax-relief-drive/>); [the National Property Identification System, a national digital property inventory reported in July 2026 at nearly 30 million IDs](<https://www.dailynewsegypt.com/2026/07/05/egypts-property-registration-rate-remains-below-10-despite-major-digital-id-rollout-world-bank/>); [the annual real estate tax of the Ministry of Finance's Real Estate Tax Authority, 25 per cent of which a 2020 World Bank assessment says goes to local government](<https://documents1.worldbank.org/curated/en/809671644219582056/pdf/Assessment-of-Land-Governance-in-Egypt.pdf>); [the Real Estate Tax Authority's app for returns, advance payments and exemption requests, with about 1.2 million users logged in by 28 September 2026](<https://enterpriseam.com/egypt/2026/09/28/complaints-mount-over-difficult-real-estate-tax-app-as-taxpayers-press-for-deadline-extension/>).
+
+***Not held***. Whether any governorate or local unit keeps its own digital revenue record. No source on local government revenue records is held.

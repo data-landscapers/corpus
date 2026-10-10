@@ -1,0 +1,17 @@
+# The Gambia
+
+## Revenue records
+
+**Governance, planning, finance.** The evaluation of the 2021–2025 public finance strategy says [most of the funding for revenue reform comes from the councils, with support from donors](<https://mofea.gov.gm/wp-content/uploads/2026/04/END-EVALUATION-REPORT-OF-THE-PUBLIC-FINANCE-MANAGEMENT-STRATEGY-2021-2025.pdf>). Kuntaur Area Council had [a budget line for a pilot of digital collection](<https://mofea.gov.gm/wp-content/uploads/2025/09/SECOND-and-THIRD-QUARTER-PFM-PERFORMANCE-REPORT-1-1.pdf>) in September 2025.
+
+**What is recorded.** Basse Area Council [implemented a digital tax register](<https://mofea.gov.gm/wp-content/uploads/2025/04/2024-PFM-Annual-Progress-Report.pdf>) in 2024. Kanifing Municipal Council holds [a property rates database](<https://www.kerrfatou.com/kmc-says-digital-address-codes-will-improve-emergency-response-and-property-tax-collection/>), by its Rates Manager in June 2026. In Banjul [market stalls were registered by QR code](<https://www.undp.org/gambia/blog/banjul-city-council-leads-way-municipalities-go-digital>) in three of five pilot zones by August 2022.
+
+**Where the record is held.** Basse's system [runs beside the government accounting system, with the link between the two pending](<https://mofea.gov.gm/wp-content/uploads/2025/09/SECOND-and-THIRD-QUARTER-PFM-PERFORMANCE-REPORT-1-1.pdf>) in September 2025. Kanifing's database is [the council's own](<https://www.kerrfatou.com/kmc-says-digital-address-codes-will-improve-emergency-response-and-property-tax-collection/>).
+
+**Last twelve months.** The evaluation, dated April 2026 and covering the period to 2025, reports the Digital Tax Collection System [largely unimplemented in Banjul City Council](<https://mofea.gov.gm/wp-content/uploads/2026/04/END-EVALUATION-REPORT-OF-THE-PUBLIC-FINANCE-MANAGEMENT-STRATEGY-2021-2025.pdf>), and its link to the accounting system incomplete in Kanifing and Janjanbureh.
+
+**Local governments recording.** The ministry of finance's report of September 2025 names [one council, Basse, as operating the system](<https://mofea.gov.gm/wp-content/uploads/2025/09/SECOND-and-THIRD-QUARTER-PFM-PERFORMANCE-REPORT-1-1.pdf>), and says [Janjanbureh has none and Brikama no digital platform for collections](<https://mofea.gov.gm/wp-content/uploads/2025/09/SECOND-and-THIRD-QUARTER-PFM-PERFORMANCE-REPORT-1-1.pdf>).
+
+***Noted, not assessed***. The Gambia Revenue Authority's planned [Integrated Tax Administration System](<https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister>); the Accountant General's [functional revenue platform](<https://mofea.gov.gm/wp-content/uploads/2025/04/2024-PFM-Annual-Progress-Report.pdf>) for ministries' non-tax revenue; the ministry of finance's [IFMIS](<https://mofea.gov.gm/wp-content/uploads/2025/09/SECOND-and-THIRD-QUARTER-PFM-PERFORMANCE-REPORT-1-1.pdf>), the accounting system extended to area councils; Kanifing Municipal Council's [digital addressing system](<https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia>) and its [digital address project](<https://www.kerrfatou.com/kmc-launches-digital-address-project-to-enhance-service-delivery-and-revenue-mobilization/>).
+
+***Not held***. The total of councils is not stated beside any count, so no share of councils recording is established. No owner or plan for the system is held from the last three years.

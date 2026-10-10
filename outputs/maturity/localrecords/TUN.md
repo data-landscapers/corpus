@@ -1,0 +1,17 @@
+# Tunisia
+
+## Revenue records
+
+**Governance, planning, finance.** The municipal revenue system GRB 2.0 was [developed by the GIZ-run REMO project in partnership with the Ministry of the Interior](<https://www.lapresse.tn/2026/05/16/cooperation-tunisie-allemagne-le-projet-remo-prend-fin-en-propulsant-la-gouvernance-locale-a-lere-numerique/>), which ran from 1 May 2022 to 30 April 2026 as [a German-Tunisian cooperation programme](<https://www.lapresse.tn/2026/05/16/cooperation-tunisie-allemagne-le-projet-remo-prend-fin-en-propulsant-la-gouvernance-locale-a-lere-numerique/>).
+
+**What is recorded.** For the business tax, the commune president [lists the taxable persons and the amounts due and enters the list in the commune's GRB system](<https://www.giz.de/sites/default/files/media/els-document/2025-08/giz-idm-2203-les-revenus-municipaux-et-les-circuit-paiements-fr.pdf>), a GIZ study said in March 2022. Ceremony fees were then [receipted from a stub book at the commune's cash office](<https://www.giz.de/sites/default/files/media/els-document/2025-08/giz-idm-2203-les-revenus-municipaux-et-les-circuit-paiements-fr.pdf>).
+
+**Where the record is held.** The commune's entry is [visible on the GRB network to the regional treasurer and the municipal receiver of the Ministry of Finance](<https://www.giz.de/sites/default/files/media/els-document/2025-08/giz-idm-2203-les-revenus-municipaux-et-les-circuit-paiements-fr.pdf>), who follow collection (March 2022).
+
+**Last twelve months.** The REMO project, which produced GRB 2.0, [ended on 30 April 2026](<https://www.lapresse.tn/2026/05/16/cooperation-tunisie-allemagne-le-projet-remo-prend-fin-en-propulsant-la-gouvernance-locale-a-lere-numerique/>).
+
+**Local governments recording.** In 2024 a cooperation project in Bizerte was [developing GRB 2.0 and electronic payment of municipal fees for that commune](<https://www.pfvt.fr/wp-content/uploads/2024/10/LIVRET_NUM_WEB_FR.pdf>). The 2022 study calls GRB [the communes' system](<https://www.giz.de/sites/default/files/media/els-document/2025-08/giz-idm-2203-les-revenus-municipaux-et-les-circuit-paiements-fr.pdf>).
+
+***Noted, not assessed***. The Ministry of Finance's [Recette municipale](<https://www.giz.de/sites/default/files/media/els-document/2025-08/giz-idm-2203-les-revenus-municipaux-et-les-circuit-paiements-fr.pdf>), which collects each commune's property taxes and fees; the planned [electronic payment of municipal taxes](<https://www.lapresse.tn/2026/08/15/tunisie-114-projets-numeriques-en-cours-voici-les-services-qui-vont-bientot-changer-le-quotidien/>); the [digital platform of the Maisons de services numériques](<https://www.lapresse.tn/2026/05/16/cooperation-tunisie-allemagne-le-projet-remo-prend-fin-en-propulsant-la-gouvernance-locale-a-lere-numerique/>); Bizerte's [Espaces Citoyens](<https://www.pfvt.fr/wp-content/uploads/2024/10/LIVRET_NUM_WEB_FR.pdf>); the building-permit platform [Taamir](<https://www.lapresse.tn/2026/06/24/dans-16-municipalites-coup-denvoi-de-loctroi-en-ligne-du-permis-de-construire-via-la-plateforme-taamir/>); and the audit court's [Tathmine](<https://www.lapresse.tn/2026/05/16/cooperation-tunisie-allemagne-le-projet-remo-prend-fin-en-propulsant-la-gouvernance-locale-a-lere-numerique/>).
+
+***Not held***. No count or share of communes entering their rolls in GRB is given, and what is known of its use dates from March 2022. No plan naming the system is held.

@@ -1,0 +1,17 @@
+# Ghana
+
+## Revenue records
+
+**Governance, planning, finance.** The Office of the Head of the Local Government Service, a state body, [runs the training on the revenue software it calls dLRev](<https://lgs.gov.gh/ohlgs-equips-municipal-assemblies-with-dlrev-software-to-boost-igf-under-gscsp/>), under a [programme the World Bank supports](<https://lgs.gov.gh/ohlgs-equips-municipal-assemblies-with-dlrev-software-to-boost-igf-under-gscsp/>). [GIZ funded the application](<https://copenhagenconsensus.com/sites/default/files/gp_a4_digitization_final.pdf>) in 2019. Korle Klottey Municipal Assembly's own system is [a company's software as a service](<https://audit.gov.gh/files/audit_reports/Performance_Audit_Report_Of_The_Auditor-General_On_Computerised_Financial_And_Electronic_Systems_In_Selected_Covered_Entities_As_At_31_December_2024.pdf>), as audited at 31 December 2024.
+
+**What is recorded.** dLRev [holds a register of businesses and properties with their owners](<https://copenhagenconsensus.com/sites/default/files/gp_a4_digitization_final.pdf>), and manages the billing and collection of property rates and business operating permits, as described in 2019. Korle Klottey's system [held a property database, payer accounts and bills](<https://audit.gov.gh/files/audit_reports/Performance_Audit_Report_Of_The_Auditor-General_On_Computerised_Financial_And_Electronic_Systems_In_Selected_Covered_Entities_As_At_31_December_2024.pdf>) at 31 December 2024.
+
+**Where the record is held.** Since 2017 dLRev has been [hosted on the national platform of the National IT Agency](<https://copenhagenconsensus.com/sites/default/files/gp_a4_digitization_final.pdf>), with no standalone operation in a district.
+
+**Last twelve months.** A [training of 350 staff of 35 Municipal Assemblies](<https://isd.gov.gh/local-government-service-trains-350-municipal-assembly-staff-on-digital-revenue-collection/>) on the software began in February 2026, and [about 150 officers in six regions](<https://lgs.gov.gh/ohlgs-equips-municipal-assemblies-with-dlrev-software-to-boost-igf-under-gscsp/>) were trained in July 2026. Ga West Municipal Assembly [introduced a digital revenue system in one zonal council](<https://gawest.gov.gh/news-details.php?n=bjJzMjlyOG8zcHM1MTJxN3A2N25yMTY0Nm81MnNzMTIyOTNvMDBucg%3D%3D>), with data capture set for April 2026.
+
+**Local governments recording.** [Nine of Ghana's 260 assemblies, 3.5 per cent](<https://copenhagenconsensus.com/sites/default/files/gp_a4_digitization_final.pdf>), used dLRev throughout 2019, by a paper GIZ commissioned. In February 2020 [47 of GIZ's 90 partner districts](<https://copenhagenconsensus.com/sites/default/files/gp_a4_digitization_final.pdf>) had properties registered in it. The Ministry of Local Government reports that in 2021 it [rolled the software out in 114 of the 260](<https://mofep.gov.gh/sites/default/files/pbb-estimates/2022/2022-PBB-MLGDRD.pdf>).
+
+***Noted, not assessed***. Korle Klottey Municipal Assembly's [Digital Revenue Mobilisation Strategy](<https://ghanaiantimes.com.gh/kokma-seeks-global-partners-for-ai-driven-local-governance/>), under which properties and businesses were mapped; the Ministry of Local Government's [Permit Processing System](<https://mofep.gov.gh/sites/default/files/pbb-estimates/2022/2022-PBB-MLGDRD.pdf>).
+
+***Not held***. No figure for assemblies recording in dLRev is dated after February 2020: the 2021 figure is a roll-out and the 2026 figures are staff trained. No current plan for the software is held, and nothing on its hosting is dated after 2017.

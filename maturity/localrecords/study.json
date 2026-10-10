@@ -95,7 +95,15 @@
       "subject": "digital.localgov",
       "text": "Digitalisation of local government records: revenue records",
       "indicator_id": "digital.localgov--digitalisation-of-local-government-records-revenue-records",
-      "class": "revenue"
+      "class": "revenue",
+      "criteria_of": "37c754650688",
+      "criteria": [
+        "A dated source states that local governments keep their revenue records on paper, with no system in use.",
+        "A system is being prepared or piloted, or a one-off survey has built a register with no system to keep it. Or only the capital city or the regions above record digitally.",
+        "Some local governments outside the capital record payments in a system, past any pilot. They are a minority, or no share is published. Electronic receipts with no register of payers place here, and so does a share given a system or trained on it, however high.",
+        "More than half of local governments keep a digital register of their payers, with each bill and payment against it. The figure is a published share, or a count given with its total.",
+        "At least 90 per cent of local governments keep that register in a national or shared system, on a figure published within the past two years."
+      ]
     }
   ],
   "classes": [
