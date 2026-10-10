@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-28-mrt-mtnima-digitalisation-casier-judiciaire-acces-en-ligne",
+  "facts": [],
+  "systems": [
+    {"system": "casier judiciaire (digitised)", "country_label": "casier judiciaire", "class": "identification", "platform": "delivered through the Houwiyeti application and the Khidmati portal", "owner": "Ministère de la Justice, with MTNIMA and ANRPTS", "tiers": "citizens obtain their record remotely, without going to the judicial services; launched 28 March 2025"}
+  ],
+  "note": "The criminal record and its online delivery: an identification system of the justice ministry, not a station record. The minister says digitisation will later extend to criminal and commercial procedure from the registration of cases to judgments, a statement about the courts; nothing on police or gendarmerie stations."
+}

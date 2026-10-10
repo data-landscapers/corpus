@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-07-cnib-aes-mass-enrolment-launch-lesahel",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AES biometric national identity card enrolment",
+      "country_label": "carte nationale d'identité biométrique AES",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, de la Sécurité Publique et de l'Administration du Territoire",
+      "tiers": "Mass enrolment launched 2026-04-25 at the Yantala police commissariat; enrolment centres installed in the twenty commissariats of Niamey, with gradual extension to the whole country planned"
+    }
+  ],
+  "note": "Police commissariats appear only as enrolment centres for the civil identity card, which no typology class covers; nothing on reports or cases recorded at a station."
+}

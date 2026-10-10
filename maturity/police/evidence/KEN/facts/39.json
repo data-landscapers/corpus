@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-22 IG Kanja receives comprehensive presentation on the National Police Service Information Management System (NPSIMS)",
+  "facts": [],
+  "systems": [
+    {"system": "National Police Service Information Management System (NPSIMS)", "country_label": "NPSIMS", "class": "", "platform": "", "owner": "National Police Service; presented by a technical team led by the Principal Secretary for ICT and the Digital Economy", "tiers": "Not stated; presented to the Inspector General at headquarters on 22 July 2025, with no station named as using it"}
+  ],
+  "note": "The page describes NPSIMS as an online system to consolidate fragmented police systems, give citizens access by app, USSD, web and call centre, and keep audit trails and a digital chain of custody; it does not say that stations enter reports or cases in it, so it is left unclassified and gives no fact. The Inspector General calls automation key to the NPS Strategic Plan 2023-2027, without saying the plan names the system."
+}

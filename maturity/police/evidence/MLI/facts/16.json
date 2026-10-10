@@ -1,0 +1,82 @@
+{
+  "slug": "2024-12-13-mali-loi-2024-028-code-procedure-penale",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Code de procédure pénale of 13 December 2024 requires the judicial police officer's procès-verbaux to be drafted on the spot and signed on each sheet by the officer and the persons heard (art. 132), the originals sent directly to the prosecutor (art. 34), a receipt issued at once for every complaint (art. 30) and heads of police units and gendarmerie brigades to send the prosecutor monthly statements of their files (art. 36); the passages read provide no electronic form for the procès-verbal or the complaint.",
+      "as_of": "2024-12-13",
+      "date_precision": "day",
+      "system": "Procès-verbaux of the judicial police",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Registre de garde à vue",
+      "country_label": "registre de garde à vue; registre spécial",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Officers of the judicial police, Police nationale and Gendarmerie nationale",
+      "tiers": "Every police or gendarmerie premises that may hold a person in custody; numbered and initialled by the president of the tribunal (art. 115); the special register may be kept in dematerialised form (art. 128)"
+    },
+    {
+      "system": "Fichiers d'antécédents",
+      "country_label": "fichiers d'antécédents; traitements automatisés de données à caractère personnel",
+      "class": "identification",
+      "platform": "",
+      "owner": "Police nationale and Gendarmerie nationale, under a magistrate named by the justice minister",
+      "tiers": "The law permits the two forces to run them on data gathered in inquiries (art. 409); direct access for prosecutors, access by mobile means for authorised personnel (arts. 413-416); an implementing decree is to follow (art. 417)"
+    },
+    {
+      "system": "Fichiers d'analyse sérielle",
+      "country_label": "fichiers d'analyse sérielle",
+      "class": "identification",
+      "platform": "",
+      "owner": "Judicial police services and units of the Police nationale and Gendarmerie nationale, under judicial control",
+      "tiers": "Permitted by art. 418 for serial crimes and offences; an implementing decree is to follow (art. 423)"
+    },
+    {
+      "system": "Fichier des personnes recherchées",
+      "country_label": "fichier des personnes recherchées",
+      "class": "identification",
+      "platform": "",
+      "owner": "",
+      "tiers": "Holds warrants, search orders and court-ordered bans and obligations (art. 424); no tier stated"
+    },
+    {
+      "system": "Logiciels de rapprochement judiciaire",
+      "country_label": "logiciels de rapprochement judiciaire",
+      "class": "identification",
+      "platform": "",
+      "owner": "Judicial police services of the Police nationale and Gendarmerie nationale, and Customs, under judicial control",
+      "tiers": "Permitted by art. 425 to cross-match information on methods gathered in inquiries; no tier stated"
+    },
+    {
+      "system": "Fichiers de police ou de gendarmerie (relevés signalétiques)",
+      "country_label": "fichiers de police ou de gendarmerie",
+      "class": "identification",
+      "platform": "",
+      "owner": "Police nationale and Gendarmerie nationale",
+      "tiers": "Fed and consulted with fingerprints, palm prints and photographs taken by or under a judicial police officer (art. 87)"
+    },
+    {
+      "system": "Fichier national automatisé des empreintes génétiques",
+      "country_label": "fichier national automatisé des empreintes génétiques",
+      "class": "identification",
+      "platform": "",
+      "owner": "Under the control of a magistrate",
+      "tiers": "National, centralised (art. 1251); judicial police officers may order entries and comparisons (arts. 1251, 1253)"
+    },
+    {
+      "system": "Casier judiciaire national centralisé et informatisé",
+      "country_label": "gestion informatisée du casier judiciaire",
+      "class": "identification",
+      "platform": "",
+      "owner": "A service created for the purpose (art. 1330); registry of each tribunal and the Bamako Court of Appeal for the special record",
+      "tiers": "National and centralised; the registries of the tribunals of first instance receive the record cards (arts. 1289-1291, 1302, 1330)"
+    }
+  ],
+  "note": "A law, read as passages (the paragraphs carrying a study term, of 130,405 words): the one fact is the form the statute prescribes for the procès-verbal, not a statement of what stations do; the files and registers it authorises are permissions, with decrees still to come."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-24-justice-ministry-dgsn-electronic-data-exchange",
+  "facts": [],
+  "systems": [
+    {"system": "electronic data exchange between the Ministry of Justice and the DGSN", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministry of Justice and General Directorate of National Security (DGSN), under a memorandum of understanding signed in Rabat on 24 July 2024", "tiers": "The DGSN is to obtain updated data from the ministry's information systems for managing judicial affairs; the memorandum sets the rules, channels and security standards for the exchange"}
+  ],
+  "note": "A link between the police and the justice ministry's case systems is the exchange class, logged for dpi.mis--justice. The article says what the DGSN will receive and names no police records system and nothing a station enters."
+}

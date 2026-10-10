@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-16-aes-biometric-passport-tiani-first-enrollee-actuniger",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AES biometric passport",
+      "country_label": "passeport biométrique AES",
+      "class": "border",
+      "platform": "",
+      "owner": "Direction de la Surveillance du Territoire (DST) of the Police nationale, with the company Al Itsal Aljadid and its local partner Hasdi",
+      "tiers": "Enrolment of the President at the presidential palace on 2026-07-16; five passport categories to be issued"
+    },
+    {
+      "system": "AES biometric national identity card",
+      "country_label": "Carte nationale d'identité biométrique (CNIB)",
+      "class": "",
+      "platform": "",
+      "owner": "Direction de la Surveillance du Territoire (DST) of the Police nationale, with Al Itsal Aljadid and Hasdi",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "Travel and identity documents issued through the police's DST; the passport is classed border as an immigration document and the identity card is left unclassed, no typology class covering a civil identity card. Nothing on reports or cases recorded at a station."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-27-cnib-aes-enrolment-nita-payment-kiosks-actuniger",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AES biometric national identity card enrolment",
+      "country_label": "Carte nationale d'identité biométrique (CNIB-AES)",
+      "class": "",
+      "platform": "",
+      "owner": "not stated; 'the competent authorities', with NITA Transfert taking the fee at kiosks on site",
+      "tiers": "Deployed in the neighbourhood commissariats of Niamey, launched at the Yantala commissariat on 2026-04-25; to be extended to commissariats in the interior"
+    }
+  ],
+  "note": "Commissariats appear only as enrolment sites for the civil identity card, which no typology class covers; nothing on reports or cases recorded at a station."
+}

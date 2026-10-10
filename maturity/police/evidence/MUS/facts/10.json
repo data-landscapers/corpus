@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-31-mpf-strategic-plan-2026-2028",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic database for disaggregated data on violence against women, children and elderly persons", "country_label": "electronic database for keeping disaggregated data on violence against women, children and elderly person", "class": "single-function", "platform": "", "owner": "Mauritius Police Force (lead: all divisions and the Brigade pour la protection de la famille)", "tiers": "To be set up under the 2026-2028 plan; tiers not stated"},
+    {"system": "Crime map of station areas", "country_label": "crime map of station areas", "class": "statistics", "platform": "", "owner": "Mauritius Police Force (all divisions, Crime Prevention Unit)", "tiers": "To be updated for station areas, to identify crime trends; a planned activity"},
+    {"system": "Safe City cameras", "country_label": "Safe City cameras; PMCCC/SCC", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force", "tiers": "Used to prevent and detect road traffic offences and for patrols"},
+    {"system": "Coastal surveillance system", "country_label": "coastal surveillance system", "class": "surveillance", "platform": "", "owner": "Mauritius Police Force (National Coast Guard)", "tiers": "To be enhanced under the plan"}
+  ],
+  "note": "The force's strategic plan for 2026-2028, signed 31 December 2025 (capture marked as an excerpt): it names no occurrence-book, complaints or case-file system and makes no statement on how stations record; its digital commitments are of noted classes."
+}

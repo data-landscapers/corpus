@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-05-cs-murkomen-ocs-conference-digital-ob-case-management",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O;C", "fact": "The National Police Service reports that on 4 September 2025 the Interior Cabinet Secretary restated the ministry's commitment to rolling out a Digital Occurrence Book and a Case Management System with secure mobile applications; both are given as an initiative to be rolled out, with no station said to be using them.", "as_of": "2025-09-04", "date_precision": "day", "system": "Digital Occurrence Book (DOB) and Case Management System", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The Ministry of Interior and National Administration is named as committed to digitising police operations, the Digital Occurrence Book and Case Management System included, in the Cabinet Secretary's address to station commanders on 4 September 2025.", "as_of": "2025-09-04", "date_precision": "day", "system": "Digital Occurrence Book (DOB) and Case Management System", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Digital Occurrence Book (DOB)", "country_label": "DOB", "class": "record", "platform": "", "owner": "Ministry of Interior and National Administration; National Police Service", "tiers": "Police stations; to be rolled out, no station count given"},
+    {"system": "Case Management System", "country_label": "Case Management System", "class": "record", "platform": "", "owner": "Ministry of Interior and National Administration; National Police Service", "tiers": "Police stations; to be rolled out with secure mobile applications, no station count given"}
+  ],
+  "note": "The page says the conference aligns with the National Police Service Strategic Plan 2023-2027 but does not say the plan names either system, so no plan fact is recorded."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-23-mali-obligations-paiement-numerique-services-publics",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Paiement numérique des amendes et contraventions de police",
+      "country_label": "paiement numérique obligatoire dans les services publics",
+      "class": "public",
+      "platform": "Mobile money services and digital platforms, not named",
+      "owner": "Government, by interministerial instruction of 19 July 2024 under Décret n°2024-0429/PT-RM; the directors general of the police and the gendarmerie are among those charged with applying it",
+      "tiers": "Not stated; first wave of operations made subject to digital payment, which also covers the criminal record extract, passports and identity cards"
+    }
+  ],
+  "note": "No fact: an obligation to pay police fines and other public fees digitally; it concerns payment, not the record a station makes of a report or case."
+}
