@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 189
+sources_cited: 192
 sections_written: 39
 not_established: 1
 acquire_lines: 67
@@ -201,6 +201,8 @@ Competition has not dislodged the incumbent. [M-PESA Ethiopia reported 2.58 mill
 
 Regulation is restrictive. [The National Bank confirmed on 23 July 2026 that its prohibition covers the whole category of virtual assets, not only cryptocurrencies, by clarification of existing rules rather than new regulation and with no enforcement mechanism announced](https://www.thereporterethiopia.com/51969/). [Revenue authorities froze and swept the accounts of the payment gateways Arifpay, Chapa and Santimpay in May 2026 over disputed tax claims](https://www.thereporterethiopia.com/52044/), in a gateway sector where [online sports betting accounts for almost all volume](https://www.thereporterethiopia.com/52044/) (2025). Government-to-person payments are meanwhile shifting to electronic transfer across [safety-net programmes reaching more than 9 million people](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) (March 2024). A licensed payment-system operator and an international card scheme [signed a framework agreement to roll out 148,000 contactless acceptance devices to merchants, certified as tax cash registers](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/). Ethiopia joined the pan-African payment and settlement system as its 31st member, and [non-bank wallets and payment providers are preparing to connect, each needing a central bank no-objection letter first](https://capitalethiopia.com/2026/10/04/mobile-money-wallets-set-to-link-with-papss-opening-access-to-african-markets/) (2026).
 
+[Awash Bank and Oromia Bank launched international payment cards on 8 October 2026, eight months after the central bank's amendment of 11 February 2026 let authorised banks issue internationally accepted cards to foreign-currency account holders](https://birrmetrics.com/banks-race-to-launch-international-payment-cards-as-forex-reforms-open-new-market/).
+
 ### Registries
 <!-- dpi.registry -->
 
@@ -220,6 +222,10 @@ The core systems exist. [An integrated financial management information system b
 Health is the deepest deployment and shows what depth is worth. [DHIS2 has been the national health information system since 2018, with automated reporting implemented at all health facilities](https://medinform.jmir.org/2024/1/e50375), yet [the deployment scored 2.81 out of 5 against the country's own 2025 target of 4.09](https://medinform.jmir.org/2024/1/e50375). [The community health information system was running in more than 7,500 health posts, with more than 20 million people registered through it](https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/) (2025), [under half of the country's 17,903 health posts](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1554995/full); [health workers report carrying parallel paper and electronic records and personal liability for lost devices](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/).
 
 Education is digitising its records while most schools lack power: [digitisation of the education management information system was completed in 2024/25, and only 31.8 per cent of primary and middle schools had electricity](https://blog.atenu.org/ethiopia-education-report-2024-25/), and [a DHIS2-based education data system begun with UNICEF in November 2025 works with schools, woreda offices and zonal departments in four regions](https://education.dhis2.org/implementation/ethiopia/). The health ministry [announced deployment of electronic medical information systems across 130 health facilities](https://www.ecofinagency.com/news-digital/2409-48979-ethiopia-to-modernize-medical-data-management-with-digital-rollout) (2025).
+
+[A 2025 review of the property-tax system records that it was built in 2016 for three pilot cities and never fully implemented, and sets out a roadmap for national scale-up](https://logri.org/project/ethiopia-property-tax-system-review/).
+
+[The revenue ministry re-advertised on 8 October 2026 for a technical lead to govern the system's architecture, oversee vendors and integrate it with its data warehouse and e-invoicing systems, with expressions of interest due 29 October](https://www.getchereta.com/tender/85995).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 203
+sources_cited: 206
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -54,6 +54,8 @@ The sharpest test came from the courts. [Decree 48/2025 let INCM, by court order
 Mozambique's ATDI and Ethiopia's FaydaVerse Digital Solutions Enterprise [signed a memorandum of understanding in Addis Ababa on 27 April 2026 covering digital identity and public infrastructure, open standards, interoperability and capacity-building](https://clubofmozambique.com/news/mozambique-and-ethiopia-sign-mou-to-boost-digital-identity/). Mozambique has [ratified the African Union's Malabo Convention on cyber security and personal data protection](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Mozambique), and the president has [named Kenya and Rwanda as the models for the digital government overhaul he ordered](https://iafrica.com/mozambique-launches-digital-government-overhaul-looking-to-kenya-and-rwanda-as-models/). Its [only regional economic community membership is SADC, and it scores 57.6 out of 100 on the Ibrahim Index's Regional Integration measure, 14th of 54 African states and down 0.9 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf) (2023).
 
 In August 2026 [the customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap and action plan for customs-to-customs data exchange in Pretoria, phased from priority corridors](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/).
+
+[The ICT institute joined TriDigital, reported 9 October 2026: a common framework and bilingual platform for assessing the digital maturity of public institutions in Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe, running to January 2028 and including a demonstration diagnostic of the country's own maturity](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/).
 
 ### Standards
 <!-- gov.standards -->
@@ -177,6 +179,8 @@ Duties are arriving sector by sector rather than across the estate. [Notice 2/GB
 
 Nor has the state's largest personal-data holding been tested in public: [no independent security audit, penetration test or vulnerability assessment of the national identity system has been published](https://greaterinternetfreedom.org/wp-content/uploads/2023/10/Mozambique_BDI-Research.pdf) (2023). The 2021 cybersecurity policy is [under revision into a national strategy for 2026–2030](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/) that has not been adopted (July 2026).
 
+[The minister said on 7 October 2026 that a national network of response teams now has teams in government, the cyber defence unit, the research network, the regulator, the telecoms sector and four provinces, with more being set up](https://aimnews.org/2026/10/08/governo-reforca-medidas-de-seguranca-cibernetica-em-mocambique/).
+
 ## DPI
 
 ### Data Exchange
@@ -239,6 +243,8 @@ Revenue is where the state performs — Mozambique [ranks first of 54 African st
 Health is split between a paper base and donor-built platforms. [Primary health care facilities recorded and reported on paper registers and forms, with 52 monthly reporting forms mandated, the most of five countries studied](https://pmc.ncbi.nlm.nih.gov/articles/PMC8436492/) (2016–17). A [memorandum signed with the United States in December 2025 sets commitments to a national health data exchange and a health data warehouse, and provides for a US-built patient tracking system to pass to Mozambican management by June 2026](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf), under a [data-sharing agreement signed the same day and not annexed to it](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf).
 
 Elsewhere it is pilots and memoranda. A [gender-based violence case-data tool was being piloted in four provinces, with nationwide expansion still planned](https://www.spotlightinitiative.org/news/innovative-data-tool-strengthens-services-gender-based-violence-survivors-mozambique) (2023), a [KOICA-funded digital road traffic-offence monitoring centre began operating in Greater Maputo in December 2025](https://360mozambique.com/business/infrastructure/south-korea-invests-usd-7-million-in-the-implementation-of-a-digital-road-violation-monitoring-system/), and the [road transport institute INATRO signed a memorandum with CEDSIF, the finance ministry's shared systems-hosting centre, in August 2025 to host and modernise its driver-licensing and vehicle systems](https://integritymagazine.co.mz/arquivos/48038).
+
+[The President laid the first stone in August 2024 for a building in Maputo to house the interior ministry's public security management information system, financed with US$11m from Korea's export credit bank and due in December 2025](https://clubofmozambique.com/news/mozambique-to-have-a-public-security-management-information-system-watch/).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

@@ -3,9 +3,9 @@ title: Rwanda — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: RWA
-ledger_rows: 37
+ledger_rows: 39
 not_held: 7
-record: b42d7e7e964c
+record: ce46872af0db
 ---
 
 # Rwanda: monthly update, September – October 2026
@@ -68,7 +68,7 @@ A UNDP review published on 17 September [records AI compute capacity hosted in t
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The prime minister said [reported financial fraud complaints fell by about 30% in the second quarter of 2026 from 4,128 a year earlier](https://taarifa.rw/2026/10/04/digital-payments-hit-3-1-billion-fraud-complaints-drop-30/), while digital transactions reached 3.1 billion in 2025. He said phone-based fraud and scams seeking confidential information remain.
+The prime minister said [reported financial fraud complaints fell by about 30% in the second quarter of 2026 from 4,128 a year earlier](https://taarifa.rw/2026/10/04/digital-payments-hit-3-1-billion-fraud-complaints-drop-30/), while digital transactions reached 3.1 billion in 2025. He said phone-based fraud and scams seeking confidential information remain. [The central bank reported on 8 October 2026 that fraud cases fell to 2,879 in the second quarter of 2026 from 4,128 a year earlier, while only 3.6% of the Rwf471 million involved had been recovered](https://en.igihe.com/business/article/rwanda-cyber-fraud-falls-30-but-fund-recovery-remains-low).
 <!-- /narrative -->
 
 ## DPI
@@ -118,6 +118,11 @@ The e-government platform's own numbers reached the record this month through an
 <!-- narrative: digitalisation--digital-localgov -->
 A civil-society organisation [called on 17 September for stronger powers at cell level and more decentralised services, putting the share of public services decentralised at 44 per cent of 522](https://www.newtimes.co.rw/article/39008/news/featured/never-again-rwanda-calls-for-stronger-powers-at-cell-level-more-decentralised-services). No earlier share is held.
 <!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+[A company's solar-powered connectivity and power unit for health posts, deployed with the health ministry and a vaccine alliance and launched on 1 October 2026, has reached 65 health posts in 21 districts, with 85 more planned](https://en.igihe.com/health/article/inside-a-new-infrastructure-layer-boosting-rwandas-digital-health-expansion).
+<!-- /narrative -->
 
 ## Technology
 
@@ -142,6 +147,11 @@ A first cohort of 24 teachers [completed a ten-day training-of-trainers programm
 
 ## Inclusion
 
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+[The development board announced a planned Business Obstacles Alert platform on 8 October 2026, for businesses to report and track obstacles in accessing public services after registration](https://www.newtimes.co.rw/article/39536/news/business/rdb-mulls-new-platform-for-businesses-to-report-service-delivery-obstacles).
+<!-- /narrative -->
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->

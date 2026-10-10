@@ -1,12 +1,12 @@
 ---
 title: Djibouti: status report
-compiled: 2026-10-08
+compiled: 2026-10-10
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 194
+sources_cited: 197
 sections_written: 39
 not_established: 0
 acquire_lines: 21
@@ -239,6 +239,8 @@ The land register has the strongest legal footing of the lot: the 2018 land-prop
 
 The business register, [the Registre de Commerce et des Sociétés maintained by ODPIC, is legally mandatory within a month of incorporation and issues registration receipts and certificates](https://odpic.dj/presentation-du-registre-de-commerce-et-des-societes-rcs/). For addressing, [La Poste de Djibouti adopted what3words as the official national standard in February 2017](https://what3words.com/partner/djibouti-post), assigning a fixed three-word address to every three-metre square of the country.
 
+[Terms of reference of February 2024 describe the capital's civil-status system as running since 2011 at three commune centres and five maternity antennas on one central server, and commission a diagnostic of it under a city governance project](https://expertise-france.gestmax.fr/_expertise_france/public_files/mdj-tdr-diagnostic-etat-civil-vf.pdf).
+
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
@@ -288,6 +290,8 @@ Schools are the one rural network where routine capture is already partly digita
 Agriculture is being designed for the constraint rather than around it. [AfDB-supported co-design workshops in Djibouti City on 6–7 October 2025 under the BREFONS programme produced digital advisory services for the Ali-Sabieh and Tadjourah regions](https://alliancebioversityciat.org/publications-data/co-design-workshop-report-development-digital-technologies-agriculture-djibouti), built as [interactive voice response scripts, micro-videos, agro-meteorological bulletin templates and community-radio content in Somali and Afar, for low-connectivity, mixed-literacy rural users](https://alliancebioversityciat.org/publications-data/co-design-workshop-report-development-digital-technologies-agriculture-djibouti).
 
 The governance measures behind all of this move in opposite directions. [Rural Market Access fell 6.3 points over 2014-2023 to 9.4 out of 100, 37th of 54 African states and among Djibouti's ten worst-scoring indicators in the Ibrahim Index, even as the Rural Economy score rose 8.7 points to 45.9](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dj.pdf) (2023). [Rural Representation and Participation is the country's fifth most improved indicator, up 22.8 points to 49.5, and Rural Land and Water Access rose 14.4 points to 73.3, eleventh of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-dj.pdf) (2023).
+
+[French military specialists rebuilt the national gendarmerie's intranet over three weeks in October 2024 so that headquarters can again message and share files with its brigades](https://www.defense.gouv.fr/operations/actualites/ffdj-partenariat-informatique-gendarmerie-nationale-djiboutienne). [The force's own account lists 13 brigades and a 2004 fingerprint file due for replacement](https://www.force-publique.net/wp-content/uploads/2023/05/2023-Djibouti-fr.pdf).
 
 ## Technology
 

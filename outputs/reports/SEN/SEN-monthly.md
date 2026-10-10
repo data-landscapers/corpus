@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: SEN
-ledger_rows: 51
+ledger_rows: 53
 not_held: 3
-record: bd7566f6d122
+record: 8646cbf0148f
 ---
 
 # Senegal: monthly update, September – October 2026
@@ -110,7 +110,7 @@ The digitisation the audit is measuring has its own figures. The civil-status ag
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops.
+The agricultural information layer is to be rebuilt rather than extended. The market regulation agency and a Belgian development agency [held a workshop on 4 September to design a modernised market information system, with funding sought through the 2027 budget](https://lesoleil.sn/actualites/economie/lagence-de-regulation-des-marches-et-enabel-conjuguent-leurs-forces-pour-renforcer-les-systemes-dinformation/). No design document, cost, coverage or timetable is published, and the funding is sought rather than secured — which is the difference between this and the satellite work already running on the same crops. [The agriculture ministry launched the nationwide digitalisation of subsidised seed and fertiliser distribution through the ERP Pass application on 9 October 2026; producers are notified by text message, and the minister said the state now holds a digital register of beneficiaries and allocations](https://ledakarois.sn/article/intrants-agricoles-la-distribution-passe-au-numerique-avec-l-application-erp-pass).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -139,7 +139,7 @@ The online civil-status certificate platform has left its pilot: by August it [w
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html). A high court [began piloting a locally deployed AI application for judicial archives](https://apanews.net/senegal-ai-enters-judicial-archives/), with UNDP and Korean funding.
+An outside score placed the country: Oxford Insights' 2025 index [put government AI readiness at 46.10, 97th in the world and first of the eight UEMOA states](https://www.seneweb.com/fr/news/Technologie/preparation-a-lia-le-senegal-leader-dans-luemoa-mais-la-region-reste-en-deca-de-la-moyenne-mondiale_n_504306.html). A high court [began piloting a locally deployed AI application for judicial archives](https://apanews.net/senegal-ai-enters-judicial-archives/), with UNDP and Korean funding. [The justice ministry judged the pilot's first results satisfactory at a meeting with the UN agency on 9 October 2026, naming staff recruitment and the regular feeding of the court platform as the open challenges](https://www.leral.net/Justice-senegalaise-Pikine-Guediawaye-teste-la-numerisation-des-archives-judiciaires_a408035.html).
 <!-- /narrative -->
 ### ICT Industry
 
@@ -172,7 +172,7 @@ A national digital training plan for state employees [was validated at a worksho
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-The Council of Ministers on 10 September [directed the state digital company to set up an information system to monitor and handle citizens' concerns](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/), with no scope, channel or date stated.
+The Council of Ministers on 10 September [directed the state digital company to set up an information system to monitor and handle citizens' concerns](https://aps.sn/le-communique-du-conseil-des-ministres-du-jeudi-10-septembre-2026/), with no scope, channel or date stated. [The commission of inquiry opened its hearings on 5 October 2026; a former funding director testified that the 2025-26 handover recorded an order for 25,000 computers from two suppliers without the contracts](https://www.camou-communication.com/2026/10/08/un-etudiant-un-ordinateur-mame-penda-ba-ouvre-le-bal-dune-enquete-aux-multiples-interrogations/).
 <!-- /narrative -->
 
 ## Data

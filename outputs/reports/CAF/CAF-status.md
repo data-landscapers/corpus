@@ -1,12 +1,12 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-09-30
+compiled: 2026-10-10
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 103
+sources_cited: 106
 sections_written: 39
 not_established: 3
 acquire_lines: 27
@@ -208,6 +208,8 @@ The systems themselves are substantial. The [financial management information sy
 
 In the line ministries the digital layer sits above the point of service rather than at it. [DHIS2, the health information system, is run from central and subnational data offices and offers its users fewer functions than in Ethiopia, Tanzania or Uganda, every user interviewed saying it needs improvement](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) (2024), and [health data is still gathered on paper forms and registers, against poor internet connectivity and insecurity](https://documents1.worldbank.org/curated/en/810311653593644795/pdf/Central-African-Republic-Health-Service-Delivery-and-System-Strengthening-Project-SENI-PLUS.pdf) (2022). Education is arranged the same way: [rural primary schools keep registers and enrolment lists on paper while principals report to the ministry by SMS through EduTrac, which feeds a central education management information system](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2023-07-car-itap-report.pdf) (2023), and police and gendarmerie posts outside the capital [keep case and detention records in paper registers and handwritten reports](https://minusca.unmissions.org/fr/des-kits-de-constat-d%E2%80%99accidents-et-des-registres-de-bureaux-au-profit-des-forces-de) (2025). The newest system is narrower still: the planning ministry [launched an internal platform in February 2026 for its own budget, staff and project data, within one ministry rather than across government](https://www.techarena.co.ke/2026/03/03/car-launches-dunia-digital-economy-ministry/).
 
+[The first integrated criminal database was established on 9 October 2026, the UN mission financing the centre, equipment and servers and UNODC providing expertise, training and connectivity; extension to the judicial police and the regions is the stated next step](https://www.africa-newsroom.com/press/central-african-republic-establishes-first-integrated-criminal-database-with-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republic-minusca-and-united-nations-office-on-drugs-and-crime-unodc-support?lang=en). [A second report records the centre's inauguration at the interior ministry](https://www.alwihdainfo.com/rca-inauguration-du-nouveau-centre-de-donnees-criminelles-au-ministere-de-linterieur/).
+
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
@@ -270,6 +272,8 @@ Digital literacy has no public programme behind it, with [no government digital 
 [The government has no strategy or programme to build digital skills in the public sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and what training exists has been created and paid for from outside it. [A digital training centre and start-up incubator funded by the African Development Bank and the European Union opened at the University of Bangui in January 2024](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/centrafrique-le-gouvernement-a-lance-un-centre-de-formation-digital-et-incubateur-start-up-a-luniversite-de-bangui), one component of a Bank programme that also covered [a cybersecurity and e-certification platform and technical assistance to set up the country's digital development agency](https://www.agenceecofin.com/infrastructures/0802-105283-inauguration-de-la-dorsale-optique-nationale-de-la-republique-centrafricaine-et-de-l-interconnexion-avec-le-congo) (2023). [Civil servants have been trained under the World Bank's Public Sector Digital Governance Project](https://documents1.worldbank.org/curated/en/099052925135520222/pdf/BOSIB-50d33b34-4918-409e-92f7-070a1773ac56.pdf), women a minority of them (May 2025), and [a harmonisation and training workshop on the Pata Polélé payment system ran in Bangui in April 2026](https://ndjonisango.com/2026/04/18/rca-une-formation-sur-la-digitalisation-du-systeme-de-paiement-pata-polele-dans-trois-ministeres-cles/) for the ministries piloting it.
 
 Formal qualifications run through [the University of Bangui's Institut Supérieur de Technologie, which supplies most of the country's holders of a professional licence in computer engineering](https://www.univ-bangui.org/technologie/).
+
+[The government signed a five-year partnership with Russia on 9 October 2026, implemented through HSE University, for digital-governance training of public servants, joint research and expert seminars](https://www.afrique-sur7.fr/la-centrafrique-tend-la-main-a-la-russie-pour-renforcer-sa-gouvernance-numerique).
 
 ### Research institutions
 <!-- capacity.research -->

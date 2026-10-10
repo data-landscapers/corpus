@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 158
+sources_cited: 159
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -225,6 +225,8 @@ Attention at the top has turned inward. [President Doumbouya announced on 14 Aug
 Guinea is running the digitalisation of civil registration as a limb of decentralisation rather than as a system of its own: [the programme covers renewed governance of the country's 375 communal councils, the Conakry-specific FODECCON fund and the national FNDL and FODEL local-development funds, and work has begun on a second tier that would make the regions decentralised collectivities in their own right](https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre) (August 2026).
 
 What a commune or a prefecture runs on its own account is a separate question, and the foundational layers are still to be built: [full digitalisation of the general land cadastre was set as a ministerial priority only in February 2026](https://www.visionguinee.info/le-ministre-de-lurbanisme-annonce-la-digitalisation-integrale-du-cadastre-foncier-pour-garantir-la-transparence-dans-la-gestion-des-titres-fonciers/), and [the government was piloting digital addressing with the start-up FindMe in 2025](https://www.wearetech.africa/en/fils-uk/news/tech/lack-of-digital-addresses-slows-africa-s-shift-to-an-inclusive-digital-economy).
+
+[A revenue-management tool tested in Benin was presented at the Conakry governorate on 25 March 2025 for piloting in the capital's 13 urban communes, Coyah and Kindia, with financing still to be found](https://guineematin.com/2025/03/25/guinee-vers-une-digitalisation-des-services-communaux-de-conakry-coyah-et-kindia/).
 
 ### Rural digital data capture
 <!-- digital.rural -->

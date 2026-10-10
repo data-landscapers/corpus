@@ -3,9 +3,9 @@ title: Burkina Faso — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: BFA
-ledger_rows: 31
+ledger_rows: 34
 not_held: 8
-record: 55065a7d4bf4
+record: f1b93c81e3be
 ---
 
 # Burkina Faso: monthly update, September – October 2026
@@ -47,6 +47,11 @@ The digital ministry's sectoral board [approved a 2026 work plan of CFA 61bn, ab
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+[The minister put 3,140 public buildings on the national administration network on 8 October 2026](https://www.moussonews.com/zero-zone-blanche-plus-de-25-milliards-fcfa-mobilises-pour-accompagner-la-couverture-des-1-500-localites/), [against 2,332 in the state ICT agency's 2020 report](https://assises-resina.gov.bf/images/Rapport_annuel_2020_ANPTIC_Version_finale_septembre_2021_compressed-2.pdf). [The minister said on 8 October 2026 that 750 villages with no network will be connected by end-2026 and 750 more by 2028, on FCFA 25bn mobilised by the State, under a target of no white zones by 2030](https://refletinfo.net/telecommunications-750-villages-burkinabe-sortiront-bientot-des-zones-blanches/).
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
@@ -88,7 +93,7 @@ Civil registration is being digitised one commune at a time, and the training is
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-On 21 September the health ministry [put a digitalised, geolocated health map at the centre of its sector council, to show disparities in care in real time and to plan facilities, staff, essential-medicine supply and biomedical equipment under the health transformation strategy for 2026-2030](https://www.sidwaya.info/ministere-de-la-sante-la-carte-sanitaire-digitalisee-au-coeur-du-premier-casem-de-2026/). No go-live date, coverage or budget line is stated.
+On 21 September the health ministry [put a digitalised, geolocated health map at the centre of its sector council, to show disparities in care in real time and to plan facilities, staff, essential-medicine supply and biomedical equipment under the health transformation strategy for 2026-2030](https://www.sidwaya.info/ministere-de-la-sante-la-carte-sanitaire-digitalisee-au-coeur-du-premier-casem-de-2026/). No go-live date, coverage or budget line is stated. [The security minister listed it, with the SYGESS system, as computerised among his department's 2022-26 results in October 2026](https://www.minute.bf/jeppc-2026-le-ministre-sana-presente-les-acquis-dans-la-modernisation-de-son-departement/).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

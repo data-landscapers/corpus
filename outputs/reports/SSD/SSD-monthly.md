@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: SSD
-ledger_rows: 15
-not_held: 12
-record: 5f90327c1219
+ledger_rows: 17
+not_held: 10
+record: 416e770b0930
 ---
 
 # South Sudan: monthly update, September – October 2026
@@ -64,6 +64,11 @@ The operator [reported more than 500 sites modernised with solar-hybrid power, d
 
 The only description the repository holds of how import revenue is actually collected is an account of a sanctioned contractor collecting it. A UK-registered firm [manages national revenue through a US-dollar e-Permit charge levied on imports before any tax assessment is issued, enforced at all border points by the Ugandan and Kenyan revenue authorities alongside the firm's own staff deployed under national revenue authority cover](https://thecapitaltimes.co.ug/on-the-spot-ura-links-with-us-sanctioned-south-sudan-firm-crawford-capital-raises-concern), and collection has continued since the United States sanctioned the firm on 12 May over the diversion of public resources and foreign assistance. The Tanzanian and Rwandan revenue authorities have publicly dissociated themselves. No contract, legal instrument or revenue figure is published, and no national authority is recorded as answering the account.
 <!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+[The trade minister met one operator's management, reported 8 October 2026, on reopening its mobile money transactions and restoring services; the date and cause of the suspension are not stated](https://radioyei.org/news/technology/mtn-government-discuss-reopening-of-momo-services/).
+<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
@@ -73,6 +78,14 @@ The social insurance fund [reports more than 1,200 registered workers and has op
 
 <!-- narrative: dpi--dpi-govtech -->
 Tax audit moved off paper on 21 September, when the revenue authority [launched an electronic tax audit module with support from Crawford Capital Pay, after its commissioner general banned manual audits by directive](https://jubaechotv.com.ss/ssra-launches-digital-tax-audit-system-to-strengthen-revenue-administration/). No count of the audits or taxpayer files it covers is published.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+[Its first executive meeting under a caretaker mayor, reported 8 October 2026, put the move to digital collection at the centre of its priorities, after the state government launched a digital revenue system and e-services for the council in September](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/).
 <!-- /narrative -->
 
 ## Capacity

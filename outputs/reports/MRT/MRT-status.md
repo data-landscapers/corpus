@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 136
+sources_cited: 137
 sections_written: 39
 not_established: 4
 acquire_lines: 39
@@ -146,6 +146,8 @@ The pipeline behind all of it is narrow. [Tertiary ICT and STEM provision rests 
 Mauritania sits in the [evolving band of the ITU's 2024 Global Cybersecurity Index](https://statbase.org/data/mrt-global-cybersecurity-index/), on a legal footing laid a decade ago: [Law No. 2016-007 is the country's cybercrime statute](https://mtnima.gov.mr/sites/default/files/loi_2016_-_007_relative_la_cybercriminalite.pdf), and Mauritania has [ratified the African Union's Malabo Convention on cyber security and personal data protection](https://dataprotection.africa/mauritania/).
 
 The newest additions to the state's electronic reach are investigative powers rather than defences: the investigation provisions of the [narcotics bill approved by the Council of Ministers in August 2026 provide for interception of communications, electronic and technical monitoring, and geolocation and technical tracking](https://www.ami.mr/archives/267317). Money to build the defensive side is not yet committed, though cybersecurity is one of the components of the [digital financing package agreed in principle with the Islamic Development Bank in April 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-in-talks-with-isdb-for-50-million-digital-financing-deal).
+
+[The project unit issued a national tender on 9 October 2026 to set up the national response team and a security operations centre for the administration's intranet, with bids due 17 November 2026](https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf).
 
 ## DPI
 

@@ -3,9 +3,9 @@ title: Madagascar — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: MDG
-ledger_rows: 25
+ledger_rows: 26
 not_held: 5
-record: 50d876083c4b
+record: 2a6680b46314
 ---
 
 # Madagascar: monthly update, September – October 2026
@@ -79,7 +79,7 @@ On 18 September a Japan-funded International Organization for Migration project 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-On 21 September the commerce ministry [began training its regional directorates at Mahamasina on Alalana, a platform for export-authorisation requests covering products including vanilla and clove](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html); no launch date, cost or vendor was given.
+On 21 September the commerce ministry [began training its regional directorates at Mahamasina on Alalana, a platform for export-authorisation requests covering products including vanilla and clove](https://www.lexpress.mg/2026/09/commerce-les-demarches-dexportation.html); no launch date, cost or vendor was given. [The tax directorate launched the Torohy platform on 9 October 2026 for the public to report corruption and related offences in the tax administration; the head of state asked for the same mechanism at customs and the treasury](https://www.lexpress.mg/2026/10/lutte-contre-la-corruption-le-colonel.html).
 <!-- /narrative -->
 
 ## Technology

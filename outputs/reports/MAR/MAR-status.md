@@ -6,7 +6,7 @@ region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 197
+sources_cited: 202
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -218,6 +218,8 @@ Tax administration is [fully digitised nationwide, with online attestations and 
 
 Health is where the systems exist and the architecture does not. The national digitised health management information system [was running in every public health centre in all regions by December 2019, with a patient-level electronic record still to be built](https://documents1.worldbank.org/curated/en/998811657067132849/pdf/Morocco-Health-Sector-Support-Project.pdf), yet academic review finds health information systems [fragmented and not governed by an integrated national architecture](https://www.mdpi.com/2673-7426/6/2/22) (2025). Since 2025 the MOHIM programme has been [building a sovereign national health interoperability framework aligned with HL7 FHIR, DICOM and SNOMED CT](https://globalhealthconnector.com/news/building-the-future-of-digital-health-in-africa-the-mohim-project-and-interoperability-through-practice-in-africa/), validated through Projectathons. Education went first: [Massar has been mandatory nationwide since 2013](https://wizaide.com/glossaire/massar/) for enrolment, student identification, grades and absences, with data entered directly rather than compiled on paper. Labour is the newest arrival, the public employment agency having [launched Veille+, a labour-market intelligence platform with AI features built with the ILO](https://www.challenge.ma/lanapec-lance-veille-un-dispositif-innovant-pour-anticiper-les-evolutions-du-marche-de-lemploi-302777/) in May 2025. The government stated that [the integrated hospital information system had been deployed in all public hospitals of the twelve regions](https://www.maroc.ma/sites/default/files/2024-12/sante-fr.pdf).
 
+[The police explained the district management system in 2019: complaints and loss and theft declarations stored on a central server](https://fr.le360.ma/societe/dgsn-gestarr-le-nouveau-systeme-de-gestion-des-arrondissements-de-police-199731/). [Its 2023 review reported the rollout complete and linked to a criminal-case system piloted in 350 police posts](https://le12.ma/fr/maroc-la-dgsn-dresse-son-bilan-pour-2023/). [Crime-case management was added in 2024](https://www.lereporter.ma/la-direction-generale-de-la-surete-nationale-presente-son-bilan-annuel-au-titre-de-lannee-2024/). [The case system was networked in 16 of 22 police commands in 2025](https://www.lavieeco.com/pouvoirs/securite/la-dgsn-mise-sur-le-numerique-pour-rapprocher-ses-services-des-citoyens/).
+
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
@@ -237,6 +239,8 @@ The consolidation attempt is [Idarati X.0, launched in February 2026](https://ww
 The financial-management system does reach below the centre: it is [in use, custom-built rather than off-the-shelf, anchored on treasury execution, and covers both central and local government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Beneath that, the shared reference data local administration runs on is thinner — [addressing data was fragmented across urban planning agencies, the land and cadastre agency, utilities and the postal service](https://thesai.org/Downloads/Volume12No2/Paper_69-Urban_Addressing_Practices_and_Geocoding.pdf) (2021).
 
 Compliance at the local level has needed pushing. The [Interior Ministry instructed walis, provincial governors and municipal council presidents to implement Law 55.19, having found that citizens were still routinely being made to produce the abolished certificates](https://en.hespress.com/142557-morocco-abolishes-22-administrative-certificates-to-streamline-public-services.html) (2021).
+
+[Regional authorities in Casablanca-Settat told councils in May 2025 to drop their own software for the GIR-CT revenue system, with an e-filing and e-payment platform run with the treasury](https://fr.hespress.com/426411-casablanca-settat-mobilisation-des-autorites-pour-renforcer-la-collecte-des-taxes-locales-et-eviter-la-prescription.html).
 
 ### Rural digital data capture
 <!-- digital.rural -->

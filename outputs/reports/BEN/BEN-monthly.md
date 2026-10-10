@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: BEN
-ledger_rows: 32
+ledger_rows: 33
 not_held: 4
-record: 841f39112784
+record: c1b2ff421299
 ---
 
 # Benin: monthly update, September – October 2026
@@ -34,6 +34,11 @@ The data-protection authority took its position abroad rather than issuing it at
 
 <!-- narrative: governance--gov-regional -->
 At a joint assessment of the Seme-Krake border post on 11 September 2026, [Nigeria's customs offered Benin real-time exchange of declarations, manifests, transit data, risk profiles and enforcement alerts](https://tribuneonlineng.com/nigeria-benin-republic-move-to-close-trade-gaps-at-seme-border/). The two administrations share the post and no system. [The Beninese and Togolese data-protection authorities held a joint working session at Lome on 2 and 3 October](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/) on sharing experience and building skills, after the Togolese authority's mission to Cotonou in August. The agreement's own date and text are not held.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+[The state digital agency presented a national cybersecurity reference framework for AI systems to the administration's information-systems directors on 8 October 2026: four risk tiers from minimal to unacceptable, an AI officer and an ethics committee, and traceability of system decisions](https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents).
 <!-- /narrative -->
 
 ## ICT Infrastructure

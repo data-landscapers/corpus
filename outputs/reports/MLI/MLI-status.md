@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-10-07
+compiled: 2026-10-10
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 143
+sources_cited: 150
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -212,6 +212,8 @@ Other registers are uneven. The commercial register has been [computerised since
 
 Social protection has its own register, [established by decree in May 2022 to cover beneficiaries of contributory and non-contributory schemes alike](https://rsu.gouv.ml/portail/presentation/) and [still maturing, the most recent year of the World Bank-supported Sahel Adaptive Social Protection Programme spent strengthening its policy, systems and diagnostics](https://www.worldbank.org/en/programs/sahel-adaptive-social-protection-program-trust-fund/country-work/mali) (2025). Credit information is regional and private, Mali being [covered by BIC-UEMOA, the credit bureau spanning all eight UEMOA states](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux) (August 2026).
 
+[The agency's board was named on 21 July 2026, including the digital-economy ministry and the civil-status director](https://sgg-mali.ml/JO/2026/mali-jo-2026-17-2.pdf).
+
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
@@ -238,6 +240,10 @@ The measured position is well below that activity. Mali [scored 0.3005 on the UN
 [Local authorities were ordered on 30 July 2026, at a meeting with the communes of Bamako District and Kati, to report within thirty days on how digital payment is functioning in each état civil centre — the difficulties met, the corrective measures taken, the equipment needed and what would improve it](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/). Local authorities must also [designate focal points to supervise digital payment at those centres and pass technical and financial information upward](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/). The territorial administration ministry [frames generalised digital payment as the instrument for ending fraudulent practice in local revenue collection](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/), and the order came alongside publication of [what the whole local-government tier had raised through the channel since July 2024](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/).
 
 Beneath that, digitalisation of the civil register is still partial. A [UNICEF-supported platform for consolidating birth, death and marriage records nationally has been piloted since 2022 without a countrywide rollout](https://www.unicef.org/mali/en/stories/celebration-progress-birth-registration-mali) (2024), and the [network of civil status centres and declaration points administered by the DNEC is still being digitised](https://www.aa.com.tr/fr/afrique/le-mali-se-dote-dun-syst%C3%A8me-informatique-souverain-de-gestion-des-donn%C3%A9es-de-l%C3%A9tat-civil/3136986) (2024). In December 2025 the [data protection authority opened a regional antenna in Ségou](https://lessor.ml/posts/autorite-de-protection-des-donnees-a-caractere-personnel-la-region-de-segou-a-son-antenne-6932a107b56bd). The [ministry of territorial administration named digitalisation of public services, modernisation of civil registration and dissemination of the new administrative map among its priorities in August 2026, and asked UNDP for reinforced support to deliver them](https://malijet.com/actualite-politique-au-mali/311342-mali-pnud-vers-un-renforcement-du-partenariat-autour-des-r.html).
+
+[The local-authorities directorate trained seven staff on the software and its central server in September 2023](https://dgct.gouv.ml/atelier-de-formation-avancee-des-agents-de-la-dgct-sur-la-gestion-et-ladministration-du-logiciel-recode-phase-2/). [It was reported tested in 680 communes in July 2024](https://proarides.org/wp-content/uploads/2025/11/Pro-ARIDES_2024_NT_Mali_Digitalisation-taxes.pdf). [The directorate's 2025 action plan adds a financial-control module](https://dgct.gouv.ml/dgct-reunion-de-coordination-et-de-suivi-de-la-mise-en-oeuvre-des-activites-du-plan-daction-2025/).
+
+[A FCFA 9.407bn contract for a secure state network reaching local authorities was reported in June 2022, for 12 months](http://news.abamako.com/h/270935.html). [The Prime Minister launched it on 18 December 2023](https://bamada.net/interconnexion-des-collectivites-territoriales-un-reseau-dacces-de-telecommunications-privees-de-20-gouvernorats-lance-par-le-premier-ministre). [In April 2025 the universal access agency was seeking to revive the September 2022 convention](https://agefaumali.com/archives/le-directeur-general-par-interim-recu-par-le-directeur-general-de-la-societe-malienne-de-transmission-et-de-diffusion-m-cheick-oumar-traore-de-la-smtd/).
 
 ### Rural digital data capture
 <!-- digital.rural -->

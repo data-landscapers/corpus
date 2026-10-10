@@ -3,9 +3,9 @@ title: Sierra Leone — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: SLE
-ledger_rows: 27
+ledger_rows: 28
 not_held: 5
-record: 75d29c5fba92
+record: 4f421a1fb836
 ---
 
 # Sierra Leone: monthly update, September – October 2026
@@ -111,6 +111,11 @@ The information minister [launched a National AI and Deepfake Sensitization Camp
 
 <!-- narrative: capacity--capacity-training -->
 A first cohort of the civil service digital skills programme [was in training in September and due to conclude on 25 September](https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants), with 1,000 civil servants planned in year one.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+[The Center for Information Privacy, Human-Centered Technology and Ethics Research launched in Freetown on 6 October 2026 to research the handling of personal data, train on data-subject rights and feed evidence into data-protection law and policy](https://truthmedia.sl/cipher-launched-to-promote-data-protection-cybersecurity-and-digital-privacy/).
 <!-- /narrative -->
 
 ## Inclusion

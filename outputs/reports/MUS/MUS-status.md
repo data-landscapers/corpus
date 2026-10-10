@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 131
+sources_cited: 133
 sections_written: 39
 not_established: 2
 acquire_lines: 29
@@ -198,6 +198,8 @@ The finance and revenue back office is another matter. [A financial management i
 Two admissions sit inside that record. [The government human resource management information system is a hybrid of custom and commercial software but still carries manual processes and paperwork](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [the financial management system carries programme performance indicators for only some programmes rather than across the budget as a whole](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 Elsewhere the line ministries do run real systems. [OpenEMIS is the national education management information system, with student and staff profiles, attendance, enrolment and academic performance entered directly by administrators at national, zonal and school level, following a 2022 UNESCO-supported capacity-building programme for ministry staff](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) (2022). Policing is mid-replacement: [the 2025-2026 budget allocates Rs 43 million to replace the Crime Occurrence Tracking System with a new police case management system and to add biometric capability to the Criminal Attribute Database, with tendering opening at the end of August 2025](https://newsmoris.com/mauritius-police-to-modernize-systems-with-rs-43-million-budget/). The platform's country account reported [DHIS2 in use at regional and national level, with extension to district and primary care level still planned](https://dhis2.org/fr/integration-des-donnees-dhis2-avec-vigiflow-pour-le-signalement-des-cas-daefi-a-maurice/) (2022).
+
+[The force's 2021 policing plan put use of the system up from 30% to over 80% of divisions in 2020, with full use targeted for 2021](https://police.govmu.org/police/?mdocs-file=6214). [A 2023 press account dates the replacement of handwritten occurrence books by computer entries to 2015](https://defimedia.info/police-ce-qui-change-entre-1968-et-2023).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 206
+sources_cited: 212
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -229,6 +229,8 @@ The social registry rests on a [decree of 24 April 2023: held electronically, ca
 
 Business registration is the joined-up corner: [the commerce register was reissued online in 2019 as a fully digital register open to the public](https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Togo-Digital-Economy-Diagnostic-Report.pdf) and [the one-stop shop issues a single card carrying commerce, tax and social security numbers together](https://www.cfetogo.tg/missions-et-attributions-du-cfe-togo.html). [There is no operating national addressing system](https://www.republicoftogo.com/toutes-les-rubriques/societe/adressage-urbain-effort-de-modernisation), the national scheme remaining under development while address databases are built in Grand Lomé, and [a single window for mapping the country's underground and aerial networks opened only in April 2026](https://www.togofirst.com/fr/gouvernance-economique/0304-18635-togo-le-guichet-unique-de-cartographie-des-infrastructures-officiellement-lance).
 
+[One commune's registration application lifted births registered from 700 in 2019 to 1,975 in 2020](https://www.undp.org/fr/togo/actualites/chaque-nom-compte-la-digitalisation-des-actes-detat-civil-une-experience-du-pnud-dans-les-communes). [A Lomé commune began piloting online birth and death declaration from two health facilities in March 2024](https://www.togofirst.com/fr/gestion-publique/2903-13745-au-togo-une-commune-lance-la-teledeclaration-des-naissances-avec-l-appui-du-pnud). [The public-service ministry tendered technical assistance for a 16-commune digitisation pilot, bids closing 10 August 2026](https://bk.numerique.gouv.tg/wp-content/uploads/2026/07/MESPTN-Consultant-international-2.pdf).
+
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
@@ -252,6 +254,8 @@ Delivery is by ministry rather than by service: [the administration is being dig
 
 What a citizen cannot do is answer back. [There is no central feedback or grievance-redress platform for public services, nor any of the five further mechanisms the index tracks, nor artificial intelligence in citizen-facing services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [no e-participation platform either](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The social protection service portal is still being implemented](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The foreign ministry put ten administrative procedures on the national portal from 1 October 2026](https://actu-togo.tg/2026/10/01/diplomatie-le-togo-dematerialise-16-demarches-administratives-et-consulaires/), and [the communication ministry put ten services of the state broadcasters online](https://www.journaldutogo.com/togo-digitalisation-services-tvt-radio-lome-2026/). The Council of Ministers [authorised the justice minister to set up an online repository of Togolese case law](https://www.republiquetogolaise.tg/gestion-publique/0710-12350-conseil-des-ministres-du-06-octobre-2026). The Council of Ministers [adopted a visa decree updating the regime digitised in 2022, with new categories and stronger personal-data protection](https://www.republiquetogolaise.tg/gestion-publique/0710-12350-conseil-des-ministres-du-06-octobre-2026).
 
+[A trade-facilitation alliance launched a project in Lomé on 9 October 2026 to digitalise the plant import permit for the agricultural production directorate, funded by the European Union and the German Government](https://www.tradefacilitation.org/2026/10/togo-launches-digitalisation-of-plant-import-permits/).
+
 ## Digitalisation
 
 ### Digitalisation of sub-national government
@@ -264,6 +268,8 @@ The money behind municipal digitalisation is German. KfW is financing [a EUR 20 
 Education is the one system that reaches down. Togo has [run a DHIS2-based education management information system nationally since 2019](https://www.gpekix.org/blog/togo-empowering-schools-and-districts-data), built with GPE KIX and Norad support, whose dashboards cover enrolment, teacher-pupil ratios and exam results and push analysis out to district and school actors; it succeeded [a statistical package whose thin analytical tools left sub-national actors dependent on centrally produced analyses](https://education.dhis2.org/emis-togo-2022/). It [works best at regional level](https://education.dhis2.org/gpe-kix-study-tour/), where staff use dynamic tables, dashboards and maps to decide where to send teachers and which schools to build. Lower down it thins: [validated data reaches the system weeks after collection](https://education.dhis2.org/gpe-kix-study-tour/), too late for in-year decisions at district or school level, and [training reached few staff and was never refreshed, with devices in short supply](https://education.dhis2.org/gpe-kix-study-tour/).
 
 [Togo has no operating national addressing system](https://www.republicoftogo.com/toutes-les-rubriques/societe/adressage-urbain-effort-de-modernisation): the national scheme remains under development, with address databases so far only in Grand Lomé. On whether rural populations have a voice in decisions affecting them, the Ibrahim Index [scores Togo 62.2 of 100.0 in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tg.pdf), its weakest rural measure at 32nd of 54 despite a 4.8-point gain over the decade.
+
+[Doufelgou 1 and Sotouboua 2 validated taxpayer files of 597 and 991 taxpayers built with the SIG Recettes application in March 2025](https://www.togofirst.com/fr/gouvernance-economique/1703-15943-decentralisation-doufelgou-1-et-sotouboua-2-valident-leur-fichier-des-contribuables-aux-recettes-non-fiscales). [Bassar 1 validated a census of 1,358 taxpayers the same month](https://atop.tg/les-resultats-dun-recensement-des-contribuables-valides-a-bassar-1/).
 
 ### Rural digital data capture
 <!-- digital.rural -->

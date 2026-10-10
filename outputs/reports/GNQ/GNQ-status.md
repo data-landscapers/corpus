@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-10-07
+compiled: 2026-10-10
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 191
+sources_cited: 194
 sections_written: 39
 not_established: 2
 acquire_lines: 23
@@ -126,6 +126,8 @@ There is [no operational domestic internet exchange point](https://www.peeringdb
 
 The domestic backbone was described in 2019 as [four fibre rings, two insular and two continental, representing more than US$30 million invested](https://www.guineaecuatorialpress.com/imgdb/2019/file/5cdr_DISCURSOMINISTROKIGALI.pdf). [Twenty of a planned 34 telecommunications towers along the Bata–Mongomo–Ebibeyin–Evinayong trunk road were handed over as operational on 23 September 2025](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_refuerza_su_red_de_telecomunicaciones_con_20_antenas_nuevas__ya_operativas), and a [CAB-4 fibre interconnection with Gabon was launched at a signing in November 2025](https://www.guineaecuatorialpress.com/index.php/noticias/guinea_ecuatorial_y_gabon_firman_acuerdos_de_cooperacion_en_telecomunicaciones). [Internet subscriptions rose 10.9% in 2024 while mobile telephony fell 3.2% and fixed telephony 11.8%](https://www.guineaecuatorialpress.com/noticias/inege_presenta_la_octava_edicion_del_anuario_estadistico_nacional_de_guinea_ecuatorial). GETESA [signed a six-month network-optimisation contract with Huawei on 9 July 2026](https://www.guineaecuatorialpress.com/noticias/getesa_y_huawei_firman_un_contrato_de_colaboracion_para_la_optimizacion_de_la_red_telefonica) and [raised the data volume in all eight of its prepaid packages by 50% from 14 August 2026 while holding prices](https://ahoraeg.com/economia/empresa/2026/08/14/getesa-aumenta-un-50-el-volumen-de-datos-en-todos-sus-paquetes-prepago-durante-el-verano/). The digital terrestrial television project [remains unbuilt after ten years with more than half its budget released, and the President asked Spain in October 2025 to work with him on returning the money](https://www.guineaecuatorialpress.com/noticias/audiencia_presidencial_con_jorge_moragas_encargado_de_negocios_de_la_embajada_de_espa%C3%B1a).
 
+[The Vice-President instructed the finance ministry on 7 October 2026 to investigate and expedite the financing file for the operator's network agreement with the vendor, slowed by Treasury payment arrears to the operator](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/).
+
 ### Data Storage
 <!-- infra.store -->
 
@@ -177,6 +179,8 @@ Equatorial Guinea has [no functional digital identity or digital authentication 
 The constraint on issuance is physical rather than digital. CNEDOGE's Director General told deputies in April 2025 that [booklets and plates were out of stock](https://ahoraeg.com/sociedad/2025/04/02/la-camara-de-diputados-examina-las-tarifas-y-los-procesos-de-emision-de-documentos-oficiales-en-cnedoge/), that the centre neither owns the consumables nor is funded for them through the Treasury, and that applications are validated so they can be printed when stock arrives; the same session heard that [fees invert between first issue and renewal](https://ahoraeg.com/sociedad/2025/04/02/la-camara-de-diputados-examina-las-tarifas-y-los-procesos-de-emision-de-documentos-oficiales-en-cnedoge/), 7,500 XAF for a passport against 10,000 XAF to renew it. [Annobón has no permanent CNEDOGE office](https://infoannobon.com/el-gobierno-despliega-en-annobon-una-jornada-masiva-de-documentacion-para-acercar-la-administracion/) and received a seven-day documentation mission from mid-July 2026, issuing documents on the island for the first time to residents reaching majority.
 
 Passports are where the biometric estate is real. [7,706 CEMAC biometric passports were issued through diplomatic missions between 2022 and 2026](https://www.guineaecuatorialpress.com/index.php/noticias/comparecencia_de_simeon_oyono_esono_ante_el_pleno_de_la_camara_de_los_diputados_para_presentar_propuestas_en_los_convenios_internacionales), and [six representations are operational for biometric capture](https://www.guineaecuatorialpress.com/index.php/noticias/comparecencia_de_simeon_oyono_esono_ante_el_pleno_de_la_camara_de_los_diputados_para_presentar_propuestas_en_los_convenios_internacionales) while others hold the machines but await installation and training (May 2026). The [reglamento requires the passport number to equal the identity-card number](https://www.guineaecuatorialpress.com/noticias/reglamento_de_aplicacion_del_decreto_de_expedicion_del_pasaporte_biometrico_cemac) but [specifies no deduplication method, coverage target, audit rule or grievance procedure](https://www.guineaecuatorialpress.com/noticias/reglamento_de_aplicacion_del_decreto_de_expedicion_del_pasaporte_biometrico_cemac). The criminal fingerprint database AFIS [needs reactivating](https://www.guineaecuatorialpress.com/noticias/el_ministerio_de_seguridad_presenta_su_anteproyecro_para_2026_ante_el_ministerio_de_hacienda), listed in the security ministry's draft 2026 budget.
+
+[The justice ministry announced in April 2025 the activation of civil registry offices in every district beyond Bata and Malabo](https://realequatorialguinea.com/destacado/politica/justicia-anuncia-la-activacion-de-las-oficinas-del-registro-civil-en-todos-los-distritos-de-guinea-ecuatorial/). [A multisector commission under the first deputy prime minister began redrafting the 1957 Civil Registry Law in January 2026](https://realequatorialguinea.com/destacado/politica/inicia-la-reforma-de-la-ley-del-registro-civil-y-de-la-ley-organica-del-poder-judicial-de-guinea-ecuatorial/).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->

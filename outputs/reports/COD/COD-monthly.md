@@ -3,9 +3,9 @@ title: DR Congo — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: COD
-ledger_rows: 51
+ledger_rows: 52
 not_held: 7
-record: 76725560432a
+record: 3bd1beaa22fa
 ---
 
 # DR Congo: monthly update, September – October 2026
@@ -43,6 +43,11 @@ The country is one of 49 states that signed, with the European Space Agency, [a 
 <!-- narrative: finance--finance-mou -->
 An Algerian state electronics firm and its consortium [signed a protocol, reported on 4 September, for the digital and payments programme of the Kinshasa expansion project](https://algerie-eco.com/2026/09/04/inatel-signe-un-accord-strategique-pour-le-projet-de-nouvelle-ville-de-kinshasa/): digital equipment, electronic payment systems, skills transfer and a technology centre. No value is published.
 <!-- /narrative -->
+### New investments
+
+<!-- narrative: finance--finance-new -->
+[Vodacom Congo said at its forum in Kinshasa on 8 October 2026 that it plans a long-term US$670m network investment programme, against an average of US$140m a year, and put its 4G coverage at 46.1%](https://zoom-eco.net/autres-actualites/rdc-vodacom-veut-porter-a-670-millions-usd-ses-investissements-reseau-pour-accelerer-la-transformation-numerique/).
+<!-- /narrative -->
 
 ## ICT Infrastructure
 
@@ -59,8 +64,7 @@ A philanthropic accelerator [announced on 24 September a demonstration that will
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
-
-Assembly capacity for digital hardware appears in this repository for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to. The regional programme's half-year report [records the digital transformation project's unit operational and a US$10m Kinshasa connectivity pilot, against delays in validating the backbone investment strategy and late disbursement of the French co-financing, with a US$190m backbone tender and US$65m of last-mile tenders the year's stated priorities](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
+Assembly capacity for digital hardware appears in this repository for the first time, as a framework rather than a plant. The coordination office of the Kinshasa expansion project and an Algerian-led consortium [agreed a memorandum on 30 August for an assembly and production facility at Maluku covering electronic payment terminals, cash machines and computers, with an innovation centre for payment technologies, cybersecurity and applied artificial intelligence and vocational training attached](https://bankable.africa/en/digital/0309-3526-kinshasa-kia-mona-plans-digital-equipment-assembly-facility). No investment figure, production capacity or construction timetable is stated, so what is signed is an intention to cooperate rather than a commitment anyone can be held to. The regional programme's half-year report [records the digital transformation project's unit operational and a US$10m Kinshasa connectivity pilot, against delays in validating the backbone investment strategy and late disbursement of the French co-financing, with a US$190m backbone tender and US$65m of last-mile tenders the year's stated priorities](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf). [The project's steering committee held its first session on 8 October 2026 and validated the 2026 annual work plan and budget, reviewing delays component by component and setting priorities to 2027](https://7sur7.cd/2026/10/10/transformation-numerique-le-copil-valide-le-ptba-2026-et-appelle-accelerer-lexecution-du).
 <!-- /narrative -->
 
 ## DPI

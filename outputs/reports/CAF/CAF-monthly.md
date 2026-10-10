@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: CAF
-ledger_rows: 11
+ledger_rows: 13
 not_held: 4
-record: 8eb92b89ace4
+record: 19fd76a12f5e
 ---
 
 # Central African Republic: monthly update, September – October 2026
@@ -60,6 +60,11 @@ Fire [damaged part of the national elections authority's data-processing centre 
 <!-- narrative: dpi--dpi-pay -->
 The regulator's first-half 2026 market observatory [counts more than 702,000 active mobile-money clients at the end of June 2026](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0), from operators' returns.
 <!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+[The first integrated criminal database was established on 9 October 2026, the UN mission financing the centre, equipment and servers and UNODC providing expertise, training and connectivity; extension to the judicial police and the regions is the stated next step](https://www.africa-newsroom.com/press/central-african-republic-establishes-first-integrated-criminal-database-with-united-nations-multidimensional-integrated-stabilization-mission-in-the-central-african-republic-minusca-and-united-nations-office-on-drugs-and-crime-unodc-support?lang=en). [A second report records the centre's inauguration at the interior ministry](https://www.alwihdainfo.com/rca-inauguration-du-nouveau-centre-de-donnees-criminelles-au-ministere-de-linterieur/).
+<!-- /narrative -->
 
 ## Technology
 
@@ -67,6 +72,14 @@ The regulator's first-half 2026 market observatory [counts more than 702,000 act
 
 <!-- narrative: technology--tech-industry -->
 The regulator [published operators' combined revenue for the first half of 2026 in its market observatory](https://www.icasees.org/index.php/component/edocman/observatoire-des-marches-de-communications-electroniques-s1-2027/download?Itemid=0). It is turnover reported to the regulator; no contribution to output, employment or firm count is held.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+[The government signed a five-year partnership with Russia on 9 October 2026, implemented through HSE University, for digital-governance training of public servants, joint research and expert seminars](https://www.afrique-sur7.fr/la-centrafrique-tend-la-main-a-la-russie-pour-renforcer-sa-gouvernance-numerique).
 <!-- /narrative -->
 
 ## Data

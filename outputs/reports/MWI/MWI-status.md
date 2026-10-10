@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 210
+sources_cited: 214
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -168,6 +168,8 @@ What it opens is uneven. The ID is used by [banks to verify customers against th
 
 A smartphone wallet [will complement the plastic card rather than replace it — a person must already hold a national ID to self-register for the digital version](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1) — and [is designed to need no periodic renewal](https://times.mw/digital-ids-poised-to-go-live-in-september/). The system it would sit on is [primarily donor-funded, having drawn over US$73 million from UNDP, DFID, the EU, Irish Aid, Norway, USAID and UNICEF, with government meeting roughly 40 per cent of project costs and struggling with recurrent salaries, card production and IT maintenance](https://www.id4africa.com/2022/files/ID4Africa_LiveCast_Supplement_NRB.pdf) (2024). A World Bank-financed contract [for 2,400 biometric registration kits, of about US$5.09 million, was awarded in March 2026 to a Hong Kong-registered supplier some 27 per cent above the estimate](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/) (reported September 2026). UNDP [handed over 152 printers to decentralise birth, marriage and death registration, the minister saying 180 health facilities had already been digitalised](https://malawi24.com/2026/10/09/printers-to-bring-registration-services-closer-to-malawians/).
 
+[The UN agency's own account of 10 October 2026 puts the registration application, which links civil registration to identity management, in pilot at 87 locations across five districts, with 250 planned by 2028](https://www.undp.org/malawi/news/undp-hands-over-152-printers-national-registration-bureau-expand-civil-registration).
+
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
@@ -223,6 +225,10 @@ Very little of the digital state is council-owned. The clearest exception is [Bl
 The money and the machinery both run through the centre. [The second Governance to Enable Service Delivery project covers 32 councils, 28 district and 4 municipal, against 28 under its predecessor](https://documents.worldbank.org/curated/en/099040626213814853/pdf/BOSIB-7cdb769f-9fbc-4059-9cfb-0c929fa07d24.pdf), [bringing the municipal councils of Karonga, Kasungu, Luchenza and Mangochi into the performance-based grant system for the first time](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/) (July 2026) after [the original project closed on 30 June 2026](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/). [The National Local Government Finance Committee implements it](https://documents.worldbank.org/curated/en/099040626213814853/pdf/BOSIB-7cdb769f-9fbc-4059-9cfb-0c929fa07d24.pdf), funding [re-engineering of council planning, financial management, procurement and contract management, plus a performance dashboard and ICT equipment](https://documents.worldbank.org/curated/en/099040626213814853/pdf/BOSIB-7cdb769f-9fbc-4059-9cfb-0c929fa07d24.pdf) — systems bought for councils rather than by them.
 
 What the grants measure is drifting apart from what the audits find. [The Local Authority Performance Assessment sets eligibility for the grants, and improvement in a council's score is a headline indicator of the new project](https://documents.worldbank.org/curated/en/099040626213814853/pdf/BOSIB-7cdb769f-9fbc-4059-9cfb-0c929fa07d24.pdf); [27 of the 28 district councils qualified under the 2025/26 assessment, with Dowa best-performing](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/), while [the number of councils with clean audit opinions fell to 18 from 22 in 2023/24](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/) and [Nkhotakota drew an adverse opinion](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/) (2026).
+
+[Councils were reported in September 2022 to be operating on a financial system not upgraded since 2014, with the local network reaching only chief executives' offices](https://mwnation.com/councils-operating-on-expired-ifmis/). [The accountant general sought expressions of interest in May 2025 for a new council system with a local revenue module and bank links, on a 14-month build](https://ppda.mw/storage/documents/opentenders/ADVERT-EOI-LA%20IFMIS%202_FF.pdf).
+
+[A UN agency reported in February 2025 that Mwanza district council's e-ticketing system for market, parking and border fees had lifted council revenue from K63m in 2022-23 to about K129m in 2024-25](https://www.undp.org/malawi/stories/digital-tool-improves-how-mwanza-collects-revenue).
 
 ### Rural digital data capture
 <!-- digital.rural -->

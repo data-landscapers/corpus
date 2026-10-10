@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 165
+sources_cited: 166
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -109,6 +109,8 @@ The rest is small, or is not money into the country. [MIGA](https://www.miga.org
 
 <!-- derived -->
 Eight commitments and pledges are on the record, made between 2016 and 2024 by six financiers. Around US$227 million of that is finance actually committed as at August 2026, and about US$197 million of it is four IBRD loans — non-concessional sovereign borrowing, with grant money amounting to a single small award. Three commitments worth roughly US$125 million were still live as at August 2026. Connectivity and e-government take most of the recorded total, and the largest figure of all is a private pledge under a memorandum rather than a financing agreement.
+
+[The lender's restructuring paper of June 2026 records US$13.38m disbursed by 31 May 2026, rates progress towards the objective moderately unsatisfactory and keeps the civil-registration digitisation component unchanged](https://documents1.worldbank.org/curated/en/099062726133542471/pdf/P175987-e83bc197-693c-4c5b-bf60-39949daa03f8.pdf).
 
 ## ICT Infrastructure
 

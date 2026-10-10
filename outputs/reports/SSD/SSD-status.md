@@ -1,12 +1,12 @@
 ---
 title: South Sudan: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: SSD
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 176
+sources_cited: 181
 sections_written: 39
 not_established: 3
 acquire_lines: 51
@@ -191,6 +191,8 @@ Retail payment runs on mobile money, which [the Bank of South Sudan affirmed as 
 
 The rails carrying government money are privately operated and take a rent. [A November 2020 contract makes Crawford Capital the Revenue Authority's e-Tax collector with a legal entitlement to 2% of all digitally assessed taxation, against the 0.5% commercial banks receive for physically collecting and transporting cash revenue](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/cohrsouthsudan/a-hrc-60-crp-5.pdf); [its payments subsidiary levies a further US$20.16 on a US$100 visa](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/cohrsouthsudan/a-hrc-60-crp-5.pdf); and [from late 2023 banks were instructed to deposit non-oil revenue collections into accounts controlled by the company rather than into Revenue Authority accounts as the law requires](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/cohrsouthsudan/a-hrc-60-crp-5.pdf). [Fees for passports and national identity documents have had to be paid digitally rather than in cash since January 2026](https://www.sudanspost.com/south-sudan-introduces-digital-payment-system-for-passports-after-supply-crisis/). [The economic reform committee ordered banks on 29 August 2026 to enforce cash payment of tax, reversing the cashless measure](https://jubaechotv.com.ss/economic-reform-committee-orders-banks-to-enforce-cash-tax-payments/), and [about six payment cycles of the government cash-transfer programme were pending in August 2026](https://www.eyeradio.org/statement-ministry-of-agriculture-and-food-security-reassures-shabaka-meisha-beneficiaries-on-cash-transfer-payment-delays/).
 
+[The trade minister met one operator's management, reported 8 October 2026, on reopening its mobile money transactions and restoring services; the date and cause of the suspension are not stated](https://radioyei.org/news/technology/mtn-government-discuss-reopening-of-momo-services/).
+
 ### Registries
 <!-- dpi.registry -->
 
@@ -213,6 +215,8 @@ Health and education both run on paper. [A 2024/25 maturity assessment rates the
 
 Social protection is run for the state rather than by it. [There is no unified national social registry; a programme-specific biometric beneficiary system has run under World Bank-financed safety nets since 2014 and authenticated 100% of programme payments by 2024](https://documents1.worldbank.org/curated/en/220671548682108567/pdf/Final-South-Sudan-SP-Stocktaking-Report.pdf), [managed by UNOPS as a standalone donor platform](https://documents1.worldbank.org/curated/en/099547304262221721/pdf/P177663052560e0a09751096e3c16b0c24.pdf) and [running its own biometric registration and deduplication rather than the national ID](https://documents1.worldbank.org/curated/en/108181587397967837/pdf/South-Sudan-Safety-Net-Project.pdf). [A social insurance system is in use but does not interoperate with other government systems and does not use the national identification number](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [An education-in-emergencies information system was launched on the DHIS2 platform, with 12 county education departments equipped](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) (August 2026), and [the social insurance fund opened contributor registration on 1 October 2026 and began talks with a bank on linking its digital platform](https://radioyei.org/news/business/insurance/nsif-ecobank-explore-digital-integration-as-contributor-registration-nears/).
 
+[A UN agency reports 10,836 cases recorded in 2021 through a case monitoring system established for the judiciary, the justice ministry and the national police in Juba](https://rolhr.undp.org/annualreport/2021/africa/south-sudan.html). [A UN mission handed over a crime data analysis facility for one Juba police division in October 2020](https://unmiss.unmissions.org/en/news/unmiss-police-hands-over-building-serve-crime-data-analysis-facility-south-sudanese).
+
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
@@ -233,6 +237,8 @@ Of the 32 headline GovTech indicators the World Bank assessed for South Sudan in
 South Sudan's integrated financial management information system [covers central government only and does not extend to sub-national government](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), so states and counties sit outside the one system that would carry public money through a digital record. The wider pattern is the same: digital systems are [concentrated in Juba and operate at national level only, with rural counties effectively excluded](https://www.sudanspost.com/what-is-actually-functioning-as-dpi-in-south-sudan/) (2025).
 
 Where the local tier touches the digital state at all it does so as a transcription point rather than a user — county health departments key paper returns from the clinics below them [into the national health platform](https://www.afro.who.int/sites/default/files/2025-03/Knowledge%20Management%20Series%20for%20Health%20Maturity%20of%20the%20Health%20Information%20System%20of%20South%20Sudan%20_%20progress,%20gaps%20and%20priorities%20for%20investment.pdf) (2025), and the registers a local administration would draw on, the civil registry among them, [reach the towns and stop](https://www.eyeradio.org/eu-envoy-urges-south-sudan-to-make-nationality-registration-affordable-for-citizens/) (2024). Rural populations were scored at [the lowest assessed level for representation and participation](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ss.pdf) in 2023, where they had been for the decade before.
+
+[The capital's council ordered an end to manual payments in October 2022 and told businesses to register on a vendor-built revenue system](https://www.onecitizendaily.com/index.php/2022/10/21/advertisement-by-juba-city-council-jcc/). [Its first executive meeting under a caretaker mayor, reported 8 October 2026, put the move to digital collection at the centre of its priorities, after the state government launched a digital revenue system and e-services for the council in September](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/).
 
 ### Rural digital data capture
 <!-- digital.rural -->

@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: TZA
-ledger_rows: 64
+ledger_rows: 65
 not_held: 5
-record: 1f9350e74e27
+record: 4b2f9671e075
 ---
 
 # Tanzania: monthly update, September – October 2026
@@ -181,7 +181,7 @@ The instrument behind teacher training entered the repository, and it is eleven 
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/).
+Mobile-industry research [found identity requirements for SIM registration leave refugee women registering lines through local citizens or intermediaries](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/closing-the-digital-divide-for-refugee-women-means-understanding-their-full-experience-of-connectivity/). [The communications regulator reported at a regional cohort meeting of 5 to 9 October 2026 that its initiative on assistive technologies for persons with disabilities was 80 percent complete, its website accessibility work recognised under a new national standard on accessibility of ICT products and services](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/).
 <!-- /narrative -->
 ### Digital divides
 

@@ -3,9 +3,9 @@ title: Mozambique — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: MOZ
-ledger_rows: 35
+ledger_rows: 37
 not_held: 19
-record: a20ca25b6ab1
+record: 261c043f7941
 ---
 
 # Mozambique: monthly update, September – October 2026
@@ -41,6 +41,11 @@ A law regulating artificial intelligence in education [is almost ready and will 
 <!-- narrative: governance--gov-protect -->
 A media freedom organisation told a Maputo round table on 3 September that [the draft Personal Data Protection Law must not restrict press freedom and the right to information](https://ikweli.co.mz/2026/09/03/protecao-de-dados-nao-pode-travar-liberdade-de-imprensa-alerta-misa/); the ICT institute's board chair said approval of the law is only the start and needs supervision and accountability mechanisms. At a Maputo fair on 1-2 September the institute [set out its registration and licensing regime for digital platforms and named enforcement capacity as the main challenge](https://360mozambique.com/innovation/tech/facim-2026-intic-accelerates-ict-regulation-to-protect-citizens-online/). Parliament's standing commission [placed the personal data protection draft law on the agenda of the ordinary session opening on 28 October](https://clubofmozambique.com/news/mozambique-parliament-convenes-extraordinary-and-ordinary-sessions-for-october/); no text is held.
 <!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+[The ICT institute joined TriDigital, reported 9 October 2026: a common framework and bilingual platform for assessing the digital maturity of public institutions in Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe, running to January 2028 and including a demonstration diagnostic of the country's own maturity](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/).
+<!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
@@ -68,6 +73,11 @@ ICT equipment financed by a bilateral cooperation agency and delivered through U
 The regulator answered complaints about data bundles. It [said it is building a tariff management system, due to operate in November 2026, to compare operators' packages, identify the effective price including validity, and stop data running out before a bundle's stated expiry](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/), and that it is restructuring packages in parallel. No rule or sanction has been published yet.
 
 The finance and communications ministries [invited expressions of interest within 15 days from strategic partners for the state operator, including a possible partial sale of the state's shares](https://360mozambique.com/tenders/mozambique-ministry-of-finance-seeks-strategic-investment-partners-and-partnerships/). The operator's documentation for bidders [counts 1.79 million active mobile customers at the end of 2025, up 62.1 per cent on the year, and fixed lines down 20 per cent to 15,537](https://clubofmozambique.com/news/mozambique-tmcel-ends-2025-with-1-79-mln-mobile-customers-prepares-for-strategic-partner/). The regulator [put a proposed national Internet para Todos strategy to validation, with 2030 targets for internet use, digital skills and public access points](https://bcl.org.mz/noticia/mocambique-valida-estrategia-para-acelerar-acesso-a-internet-e-inclusao-digital/). The regulator [validated the national Internet para Todos strategy, which targets 95% broadband coverage and at least 60% of schools connected by 2030](https://itweb.africa/article/mozambique-targets-95-broadband-coverage-by-2030/4r1ly7R9P99vpmda).
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+[The minister said on 7 October 2026 that a national network of response teams now has teams in government, the cyber defence unit, the research network, the regulator, the telecoms sector and four provinces, with more being set up](https://aimnews.org/2026/10/08/governo-reforca-medidas-de-seguranca-cibernetica-em-mocambique/).
 <!-- /narrative -->
 
 ## DPI

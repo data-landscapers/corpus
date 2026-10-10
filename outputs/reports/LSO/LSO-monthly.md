@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: LSO
-ledger_rows: 14
+ledger_rows: 15
 not_held: 4
-record: 0952320972da
+record: 36ca1954a418
 ---
 
 # Lesotho: monthly update, September – October 2026
@@ -40,6 +40,11 @@ The border is to be digitised from both sides: the Bi-National Commission's mid-
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+[Vodacom Lesotho launched a fully managed enterprise satellite service built on Starlink in Maseru, reported 9 October 2026, offered as primary connectivity, as backup and combined with terrestrial links](https://spaceinafrica.com/2026/10/09/vodacom-lesotho-launches-enterprise-satellite-connectivity-solution-powered-by-starlink/).
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->

@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 183
+sources_cited: 188
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -111,6 +111,8 @@ Most of the rest goes to towers and fibre. [Helios Towers signed an investment c
 <!-- derived -->
 DR Congo has drawn 18 distinct digital-sector commitments between 2014 and 2026, with implementation windows running to 2031: six active, five closed, four approved, two pipeline and one whose status is not recorded. Setting aside three unsigned memoranda worth US$3.1 billion between them, and counting the two China Eximbank records once, signed or approved commitments over 2014-2026 come to roughly US$1.95 billion, of which a single hydropower approval is US$1 billion and US$56 million is risk cover rather than capital. Connectivity accounts for eight of the eighteen, but with the memoranda set aside its contracted total over 2014-2026 of about US$138 million falls well behind digital identity and civil registration at about US$612 million. Most of it is debt.
 
+[Vodacom Congo said at its forum in Kinshasa on 8 October 2026 that it plans a long-term US$670m network investment programme, against an average of US$140m a year, and put its 4G coverage at 46.1%](https://zoom-eco.net/autres-actualites/rdc-vodacom-veut-porter-a-670-millions-usd-ses-investissements-reseau-pour-accelerer-la-transformation-numerique/).
+
 ## ICT Infrastructure
 
 ### Connectivity
@@ -160,6 +162,8 @@ The administrative trend is nonetheless upward. [Effective Administration is amo
 Of the seven government systems whose software type is recorded, four — tax, human resources, payroll and social insurance — run custom software, and three — financial management, customs and debt management — run commercial off-the-shelf products.
 
 Custom does not mean Congolese. [The national digital identity platform is a twenty-year exclusive concession to Trident](https://bankable.africa/en/digital/2601-2298-drcpass-digital-id-plan-priced-at-97-1m-financing-remains-unclear). The domestic pipeline exists: [Congolese universities run computer science and ICT degrees, including a department at the University of Kinshasa Polytechnic established in 2005](https://polytech-unikin.ac.cd/departement-genie-informatique).
+
+[The project's steering committee held its first session on 8 October 2026 and validated the 2026 annual work plan and budget, reviewing delays component by component and setting priorities to 2027](https://7sur7.cd/2026/10/10/transformation-numerique-le-copil-valide-le-ptba-2026-et-appelle-accelerer-lexecution-du).
 
 ### Cybersecurity
 <!-- infra.cybersec -->
@@ -238,6 +242,8 @@ Payroll is the fiscal reason for much of it. The [ENCORE project built the first
 
 Education and justice run their own islands. The [education management information system is not sufficiently operational in all provinces, and a 2024 evaluation found its databases unharmonised and its capacity building over-reliant on external partners](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-09-thematic-country-level-evaluation-democratic-republic-congo-case-study.pdf), and a [national electronic education management information system is still lacking, its implementation facing procurement and data integrity problems](https://thedocs.worldbank.org/en/doc/d3291c08f4b645fdc31be4908947ef6b-0140022025/related/5EDU-WP-5-An-Assessment-of-the-Digital-Readiness-of-Secondary-Schools-in-the-DRC.pdf) (2024). A [decree of March 2025 set up computerised case management for the commercial courts, after the judiciary had announced deployment of the SIGAJ case-management software in 2024](https://droitnumerique.cd/mise-en-place-dun-systeme-integre-de-gestion-informatisee/), and the [higher-education portal ESURSI went live on 30 March 2026 carrying student identity, transcripts and diploma equivalences](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-centralisation-des-donnees-et-acces-au-savoir-les-enjeux-du-nouveau-portail-numerique-universitaire). The tax directorate [began nationwide checks of the standardised invoice on 5 October 2026, after the moratorium ended](https://rdc-monde.com/rdc-impot-la-dgi-deploie-un-controle-rigoureux-de-la-facture-normalisee-apres-la-fin-du-moratoire/).
 
+[UNDP, the UN mission and Korean police handed the judicial police a building housing a crime-analysis office with computer equipment on 28 February 2024](https://www.undp.org/fr/drcongo/actualites/la-police-judiciaire-dotee-dun-nouveau-batiment-abritant-le-bureau-danalyse-criminelle).
+
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
@@ -262,6 +268,8 @@ What the state does not offer is as telling. There is [no electronic government 
 Sub-national government sits largely outside the digital state. A [study of 24 municipalities in Kinshasa found legacy systems unable to integrate with anything else, with digital services concentrated in the capital across the country's 26 provinces](https://ijisrt.com/assets/upload/files/IJISRT23AUG1743.pdf) (2023) — and Kinshasa is the tier that has gone furthest, having since [announced drone surveillance paired with a citizen-reporting app, with a private company](https://rdc-monde.com/kinshasa-investit-dans-les-drones-entre-lespoir-et-le-doute/) (2026).
 
 What exists below the centre mostly reaches down from it. The civil service [biometric registry has issued cards in every province](https://www.biometricupdate.com/202507/dr-congo-fights-public-service-waste-with-biometric-id-registry) (July 2025), the [financial management system is recorded as operating at local as well as central government level](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025) even though [no treasury single account exists](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) to consolidate what it manages, and an EU-funded [human resources system now runs career and staffing management for the national police, with the provincial stations of Tshikapa, Bunia and Mbandaka equipped for it](https://coginta.org/en/DRC-modernization-of-HR-management-of-the-Congolese-national-police/) (2025). Provincial and territorial offices run little of their own: [digitisation of civil registration is at pilot stage in one Kinshasa commune](https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil) (2025), and extension of the one-stop company registration window to the provinces has been [requested rather than delivered](https://congoguardian.com/2026/07/29/rdc-mukoko-samba-evalue-les-reformes-du-guichet-unique-de-creation-dentreprise/) (July 2026).
+
+[The Moptax system, covering property identification, valuation, billing, mobile-money payment and enforcement, was configured for Kananga and handed over in April 2025](https://logri.org/2025/04/building-local-government-capacity-for-property-tax-reform-in-kananga-drc/). [Tshopo province opened a computerised one-stop revenue counter in June 2025 and launched province-wide taxpayer identification](https://acp.cd/province/tshopo-inauguration-dun-guichet-unique-des-recettes-pour-le-developpement-de-la-province/).
 
 ### Rural digital data capture
 <!-- digital.rural -->

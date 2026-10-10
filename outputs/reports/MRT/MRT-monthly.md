@@ -3,9 +3,9 @@ title: Mauritania — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: MRT
-ledger_rows: 19
+ledger_rows: 20
 not_held: 3
-record: 0a037af24e71
+record: 9f31764e7215
 ---
 
 # Mauritania: monthly update, September – October 2026
@@ -42,7 +42,7 @@ A satellite broadband operator [lists Mauritania among sixteen African markets i
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-An outside measure is the only dated position this month. The Internet Society [puts the country's internet resilience at 43 per cent, with 3 per cent of the 1,000 most-visited websites served from a local server or cache and a security preparedness score of 39.33 on the 2024 global cybersecurity index](https://pulse.internetsociety.org/en/reports/mr/). No national incident or response figure is held for the month.
+An outside measure is the only dated position this month. The Internet Society [puts the country's internet resilience at 43 per cent, with 3 per cent of the 1,000 most-visited websites served from a local server or cache and a security preparedness score of 39.33 on the 2024 global cybersecurity index](https://pulse.internetsociety.org/en/reports/mr/). No national incident or response figure is held for the month. [The project unit issued a national tender on 9 October 2026 to set up the national response team and a security operations centre for the administration's intranet, with bids due 17 November 2026](https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf).
 <!-- /narrative -->
 
 ## DPI

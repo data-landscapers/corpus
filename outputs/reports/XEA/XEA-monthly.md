@@ -1,11 +1,11 @@
 ---
 title: East Africa — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: XEA
-ledger_rows: 18
+ledger_rows: 19
 not_held: 0
-record: 16617f638293
+record: 3c468ec7a565
 ---
 
 # East Africa: monthly update, September – October 2026
@@ -60,8 +60,7 @@ On 22 September the regional assembly's accounts committee [held an oversight se
 ### Sectoral management information systems
 
 <!-- narrative: systems--dpi-mis -->
-
-On 22 September Afreximbank [issued a US$29m guarantee to BSMART Technology, operator of the EAC Customs Bond, to scale the platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/). The bond lets clearing agents obtain customs guarantees online instead of lodging paper bonds at each border; it was piloted in Uganda from August 2025, took in Rwanda and Burundi in January 2026 and was launched at the Heads of State Summit in March 2026. No uptake figure is published.
+On 22 September Afreximbank [issued a US$29m guarantee to BSMART Technology, operator of the EAC Customs Bond, to scale the platform](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/). The bond lets clearing agents obtain customs guarantees online instead of lodging paper bonds at each border; it was piloted in Uganda from August 2025, took in Rwanda and Burundi in January 2026 and was launched at the Heads of State Summit in March 2026. No uptake figure is published. [The health ministers' sectoral council, concluding in Arusha on 6 October 2026, advanced the regional information sharing platform for pandemic and epidemic intelligence and noted all eight partner states onboarded on the pooled procurement mechanism's digital platform](https://www.africa-newsroom.com/press/east-african-community-eac-health-ministers-step-up-regional-action-to-strengthen-health-security?lang=en).
 <!-- /narrative -->
 ### National statistics
 

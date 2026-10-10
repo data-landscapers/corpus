@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, September – October 2026
-compiled: 2026-10-07
-period: 2026-09-01 to 2026-10-07
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: GNQ
-ledger_rows: 14
+ledger_rows: 15
 not_held: 6
-record: e258f5e33229
+record: 6953b86b1c7f
 ---
 
 # Equatorial Guinea: monthly update, September – October 2026
@@ -47,7 +47,7 @@ Two enforcement bodies agreed to exchange information rather than to publish any
 <!-- narrative: ict-infrastructure--infra-connect -->
 The terms followed on 9 September, when the government [launched the service officially and reserved its sale to the state, with a dedicated revenue account and privately signed contracts cancelled](https://ahoraeg.com/politica/2026/09/09/el-gobierno-exige-a-meta-tributar-en-guinea-ecuatorial-y-ordena-centralizar-la-comercializacion-de-starlink-en-ortel/). No licence text, tariff or subscriber figure is published.
 
-Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions.
+Access then narrowed for everyone else. Since 2 September [bandwidth has been throttled and Facebook and TikTok unreachable without a VPN](https://www.seneweb.com/fr/news/Afrique/guinee-equatoriale-coupure-de-facebook-et-tiktok_n_504430.html), after a viral video accusing the vice-president of corruption whose author was arrested; no order has been published and the information ministry did not answer questions. [The Vice-President instructed the finance ministry on 7 October 2026 to investigate and expedite the financing file for the operator's network agreement with the vendor, slowed by Treasury payment arrears to the operator](https://ahoraeg.com/politica/2026/10/08/getesa-ahorrara-262-millones-de-francos-cfa-al-mes-para-reinvertirlos-en-la-mejora-de-la-red-nacional/).
 <!-- /narrative -->
 
 ## DPI

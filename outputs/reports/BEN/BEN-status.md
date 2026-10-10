@@ -1,12 +1,12 @@
 ---
 title: Benin: status report
-compiled: 2026-10-07
+compiled: 2026-10-10
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 167
+sources_cited: 174
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -49,6 +49,8 @@ The sharpest current exposure is inside government itself. [ASIN's June 2026 leg
 
 Cooperation is being built outwards: [the APDP and Senegal's data protection commission signed a cooperation convention in Cotonou in April 2026](https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou), and [at an international data protection forum in Lomé in July 2026 it set out Benin's compliance work and pressed for stronger cooperation between African authorities](https://leconomistebenin.bj/lapdp-benin-partage-son-experience-au-fipdcp-2026-a-lome/).
 
+[Décret 2024-877 of 11 April 2024 sets the rules for ten criminal-justice files, including DNA and biometric data, with retention of 10 and 30 years, no right to object and appeal to the data protection authority](https://sgg.gouv.bj/doc/decret-2024-877/download). [The regional police information programme's newsletter of December 2024 records the decree](https://www.interpol.int/fr/content/download/22944/file/24COM007802_WAPIS_Newsletter%2025_2024-12_FR_Optimized.pdf).
+
 ### Regional collaboration
 <!-- gov.regional -->
 
@@ -68,6 +70,8 @@ The interoperability framework is the main standard-setting instrument, and spec
 Elsewhere the mandating is patchier. [Benin has a unified budget classification and chart of accounts covering central government, and its financial management system exchanges data both through separate interfaces and through a government service bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and land records run on [the e-Foncier Bénin land information system, built to the ISO 19152 standard](https://www.gouv.bj/article/2124/cadastre-national-benin-gouvernement-mobilise-partenaires-techniques-financiers-generalisation/) (2023). Procurement does not enforce standards on its own data: [the e-procurement portal publishes tender notices and contracts but not to the Open Contracting Data Standard, and does not exchange data with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [There is no government open source software policy or action plan for the public sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 Newer standards are arriving as guidance rather than as framework. [ASIN's June 2026 legal note on generative AI calls for a binding harmonised charter setting the roles of public-service staff, providers and partners alike](https://asin.bj/doc/137/download). On method, [ASIN has given state security officers a common risk-analysis framework in EBIOS Risk Manager](https://fraternite.bj/face-aux-attaques-du-numerique-lasin-offre-un-outil-danalyse-des-risques-aux-acteurs-de-protection/), and [the certification programme for those officers, taught to Certified Ethical Hacker and ISO 27001, is presented as part of implementing the national digital security strategy and the state information-system security policy](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi).
+
+[The state digital agency presented a national cybersecurity reference framework for AI systems to the administration's information-systems directors on 8 October 2026: four risk tiers from minimal to unacceptable, an AI officer and an ethics committee, and traceability of system decisions](https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents).
 
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
@@ -240,6 +244,10 @@ The financial spine of the Beninese state stops at the centre: the [financial ma
 Where national platforms do reach the communal tier they reach it as delivery channels rather than as local capability. The GBESSOKÉ social safety net [began monthly electronic cash transfers by mobile money in September 2025, reaching 20,621 beneficiaries, 85 per cent of them women, across twelve pilot communes, with beneficiaries issued dedicated SIM cards, and is to extend to all 77 communes](https://www.gouv.bj/article/3265/mise-oeuvre-programme-gbessoke-transferts-monetaires-demarre-plus-mille-menages-deja-touches-/). Civil registration runs the same way: [e-SIRCEV, launched in 2019, assigns a unique identification number at birth](https://www.emurgo.africa/blog/posts/digital-id-initiatives-by-country-in-africa) through the registration centres, a national system operated locally rather than a communal one.
 
 The limit of that model shows where a national service still depends on a local official. Putting residence-certificate applications online [has not removed the bottleneck: issuance still depends on a neighbourhood or village chief obtaining a code from ANIP's platform, which many chiefs struggle to get](https://fraternite.bj/delivrance-des-certificats-de-residence-la-mise-en-ligne-na-pas-resolu-le-probleme-au-niveau-des-chefs-de-quartier-ou-de-village/) (April 2025). Access to civil-status records remains a live local grievance, with [communal authorities in Godomey holding an open dialogue with residents about it in June 2026](https://lanation.bj/index.php/actualites/acces-aux-actes-detat-civil-a-godomey-autorites-communales-et-citoyens-en-dialogue-ouvert). One thing is being built deliberately across the tiers: intake to the information-security officer certification programme [has been opened beyond central government to local authorities, state enterprises and the private sector](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi) (August 2026).
+
+[A communes-association project put networked cash-desk software at single revenue windows in 12 communes in 2019-20](https://www.ancb.bj/index.php/projet/paacol.html). [The association's digital commission was still discussing the digitisation of commune revenue collection in June 2025, with connectivity named as the first need](https://www.ancb.bj/index.php/k2-listing/item/885-premiere-session-2025-de-la-commission-numerique-et-innovation-technologique-de-l-ancb-des-recommandations-concretes-pour-accelerer-la-digitalisation-du-recouvrement-des-recettes-communales.html).
+
+[A development bank recorded 187 authorities, ministries, the presidency and prefectures, connected in one administrative network by May 2023, with every municipality to follow](https://www.kfw-entwicklungsbank.de/About-us/News/News-Details_765120.html). [The government's 2025 bond report counts 12 more town halls using the network's services in 2024](https://odd.finances.bj/wp-content/uploads/2025/03/Benin_Rapport-dallocation-et-dimpact-Eurobond-ODD_2025.pdf).
 
 ### Rural digital data capture
 <!-- digital.rural -->

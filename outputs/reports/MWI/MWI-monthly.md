@@ -5,7 +5,7 @@ period: 2026-09-01 to 2026-10-10
 place: MWI
 ledger_rows: 40
 not_held: 35
-record: efb1ae81f50a
+record: d6cf2f6ce281
 ---
 
 # Malawi: monthly update, September – October 2026
@@ -82,7 +82,7 @@ On International Identity Day the registration bureau [launched the Nzika wallet
 
 An investigation reported that [a US$5.09m World Bank-financed contract for 2,400 biometric registration kits, with remote software support, went to a Hong Kong-registered supplier in March](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/), about 27% above estimate. The procurement authority says remote access reaches the kits only; the registration bureau and the regulator did not answer.
 
-On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published. UNDP [handed over 152 printers to decentralise birth, marriage and death registration, the minister saying 180 health facilities had already been digitalised](https://malawi24.com/2026/10/09/printers-to-bring-registration-services-closer-to-malawians/).
+On 29 September India's High Commissioner [met UNDP and UNCDF to review the achievements and transition of an e-KYC and digital identity project implemented with the Reserve Bank of Malawi](https://ianslive.in/india-un-agencies-review-e-kyc-and-digital-identity-project-in-malawi--20260929225238) and funded through the India-UN Development Partnership Fund. No budget, deliverable or transition date is published. UNDP [handed over 152 printers to decentralise birth, marriage and death registration, the minister saying 180 health facilities had already been digitalised](https://malawi24.com/2026/10/09/printers-to-bring-registration-services-closer-to-malawians/). [The UN agency's own account of 10 October 2026 puts the registration application, which links civil registration to identity management, in pilot at 87 locations across five districts, with 250 planned by 2028](https://www.undp.org/malawi/news/undp-hands-over-152-printers-national-registration-bureau-expand-civil-registration).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, September – October 2026
-compiled: 2026-10-01
-period: 2026-09-01 to 2026-10-01
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: CPV
-ledger_rows: 15
+ledger_rows: 16
 not_held: 30
-record: 4bcea9dcd4d9
+record: 5d6db9708fb2
 ---
 
 # Cape Verde: monthly update, September – October 2026
@@ -107,4 +107,9 @@ The fisheries ministry presented a [public Fisheries Information System giving s
 
 <!-- narrative: geopolitics--geopol-usa -->
 The one United States instrument on the record has gone. The national press reported on 12 September that [the third Millennium Challenge compact, whose initial agreement was signed in April 2024, was officially terminated in December 2025 after the corporation's global aid was cut, and that the country is on the eligible list for FY2027 published on 31 August](https://expressodasilhas.cv/economia/2026/09/12/millennium-challenge-corporation-cabo-verde-elegivel-mas-ainda-nao-se-sabe-se-vai-avancar-com-candidatura/104583). The ministry responsible gave no answer on whether it will apply.
+<!-- /narrative -->
+### EU activities
+
+<!-- narrative: geopolitics--geopol-eu -->
+[The 14th special partnership ministerial in Brussels on 9 October 2026 reported a Global Gateway digital pipeline in preparation, covering submarine cables and inter-island connectivity, and progress in European support for the national data and AI strategies](https://www.eeas.europa.eu/eeas/joint-communique-fourteenth-ministerial-meeting-european-union-eu-cabo-verde-special-partnership_en).
 <!-- /narrative -->

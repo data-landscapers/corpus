@@ -3,18 +3,18 @@ title: East Africa — progress report, October 2025 – October 2026
 compiled: 2026-10-10
 period: 2025-10-01 to 2026-10-10
 place: XEA
-ledger_rows: 62
+ledger_rows: 63
 not_held: 0
-record: 5edbbb09709e
+record: 006d4d52208a
 ---
 
 # East Africa: progress report, October 2025 – October 2026
 
 *Compiled 2026-10-10 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 62 bodies, instruments and systems on this place's ledger, 41 changed position between 2025-10-01 and 2026-10-10, 10 did not, 11 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 63 bodies, instruments and systems on this place's ledger, 41 changed position between 2025-10-01 and 2026-10-10, 10 did not, 12 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 122 sources for this place in the window — 26 in the earlier half (2025-10 to 2026-03), 96 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 123 sources for this place in the window — 26 in the earlier half (2025-10 to 2026-03), 97 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -151,6 +151,7 @@ Two data-protection tracks moved in different directions: the EAC's cross-border
 |---|---|---|---|
 | EAC Customs Bond (EACBond digital regional customs guarantee) | Piloting in Uganda from August 2025 | [Launched at the 25th Summit of Heads of State in March 2026 after Rwanda and Burundi were onboarded in January 2026; clearing and forwarding agents obtain customs bonds on a digital platform instead of lodging physical bond documents at each border post. On 22 September 2026 Afreximbank issued a US$29 million guarantee to the platform's operator, BSMART Technology, to scale it](https://www.afreximbank.com/afreximbank-issues-a-29-million-guarantee-to-scale-eac-customs-bond-easing-movement-of-goods-across-east-africa/) | Movement |
 | IMPULSE study — newborn-data electronic health information systems | Under way in the Central African Republic, Ethiopia, Tanzania and Uganda, having contributed to version 2.0 of the newborn measurement tools; no findings on electronic systems published (2024-07) | [The IMPULSE study examined the functionalities of electronic routine health information systems related to newborn data across Uganda, Ethiopia, Tanzania and the Central African Republic; findings are the study's own and no follow-up policy response is on file](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | Movement |
+| EAC Regional Information Sharing Platform for Pandemic and Epidemic Intelligence | ***Baseline not held*** | [The health ministers' sectoral council, concluding in Arusha on 6 October 2026, advanced the regional information sharing platform for pandemic and epidemic intelligence, noted all eight partner states onboarded and trained on the pooled procurement mechanism's digital platform, and called for a dashboard to track regional health commitments](https://www.africa-newsroom.com/press/east-african-community-eac-health-ministers-step-up-regional-action-to-strengthen-health-security?lang=en) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 

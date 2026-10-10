@@ -3,9 +3,9 @@ title: Cote d'Ivoire — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: CIV
-ledger_rows: 35
+ledger_rows: 38
 not_held: 10
-record: 95870f656c85
+record: d37ccb398ce9
 ---
 
 # Cote d'Ivoire: monthly update, September – October 2026
@@ -30,7 +30,7 @@ The development plan's digital component was then costed for investors: on 15 Se
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-An analysis published on 10 September sets out [the banking reform that brings financial technology firms into the regulated perimeter](https://cadreco.media/finance/2026/reforme-bancaire-la-cote-divoire-redessine-la-frontiere-avec-les-fintechs): two bills adopted by the Council of Ministers on 29 April 2026, under which competition between banks, payment institutions, electronic money issuers and fintechs turns on licences and their obligations. No adoption by parliament is on record.
+An analysis published on 10 September sets out [the banking reform that brings financial technology firms into the regulated perimeter](https://cadreco.media/finance/2026/reforme-bancaire-la-cote-divoire-redessine-la-frontiere-avec-les-fintechs): two bills adopted by the Council of Ministers on 29 April 2026, under which competition between banks, payment institutions, electronic money issuers and fintechs turns on licences and their obligations. No adoption by parliament is on record. [The telecoms regulator's head, speaking on World Post Day, 9 October 2026, called for the postal network to be adapted to the digital economy; the report records a revision of the 2013 Postal Code under way](https://www.aip.ci/cote-divoire-aip-lartci-mise-sur-linnovation-pour-transformer-le-reseau-postal-en-levier-de-developpement/).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -83,7 +83,7 @@ The regional central bank said [the Ivorian Treasury, having met all its require
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The animal resources ministry said [data from the electronic livestock identification system it plans with a French firm will be hosted and secured in Côte d'Ivoire](https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html).
+The animal resources ministry said [data from the electronic livestock identification system it plans with a French firm will be hosted and secured in Côte d'Ivoire](https://www.koaci.com/article/2026/10/07/cote-divoire/societe/cote-divoire-identification-du-betail-attaque-sur-sa-convention-avec-vettronic-le-mirah-contre-attaque-et-promet-que-les-donnees-resteront-sous-controle-ivoirien_201385.html). [At the Abidjan land days of 5 to 7 October 2026 the cadastre director presented the e-Cadastre platform as part of moving cadastre procedures and land-tax payment online by stages](https://www.koaci.com/article/2026/10/09/cote-divoire/societe/cote-divoire-journees-foncieres-le-cadastre-numerique-au-coeur-de-la-reforme-fiscale_201459.html).
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -125,7 +125,7 @@ A Swiss-founded research centre in Côte d'Ivoire is one of four African partner
 <!-- narrative: technology--tech-innovate -->
 On 15 September the digital minister [presented six costed opportunities worth FCFA 541.3bn to the private sector, under a ministerial roadmap of seven pillars and 40 projects aiming to lift the digital economy to 15 per cent of GDP by 2030](https://www.aip.ci/cote-divoire-aip-pnd-2026-2030-le-ministre-djibril-ouattara-presente-les-sept-piliers-de-lacceleration-numerique/), from an estimated 6 to 8 per cent now.
 
-Opening the 2026 Ivoire Tech Forum, the digital minister [announced a startup labelling platform to give labelled startups access to the fiscal framework's incentives](https://techreviewafrica.com/news/7410/); no date or operator was given.
+Opening the 2026 Ivoire Tech Forum, the digital minister [announced a startup labelling platform to give labelled startups access to the fiscal framework's incentives](https://techreviewafrica.com/news/7410/); no date or operator was given. [The economy ministry launched the Fintech Sector Support Project on 6 October 2026 through its financial inclusion promotion agency, with African Development Bank backing, to support fintech firms beyond payments and money transfers](https://www.ecofinagency.com/news-finances/0910-59598-cote-d-ivoire-seeks-to-diversify-fintech-sector-beyond-digital-payments).
 <!-- /narrative -->
 
 ## Capacity

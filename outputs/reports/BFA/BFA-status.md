@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 160
+sources_cited: 163
 sections_written: 39
 not_established: 1
 acquire_lines: 62
@@ -124,6 +124,10 @@ The direction is better than the level. [Mobile Communications is Burkina Faso's
 Outside the towns, coverage is extended through a [universal-service programme run by the regulator ARCEP as a public-private partnership, awarded by tender to Orange Burkina Faso](https://www.sidwaya.info/couverture-du-burkina-faso-en-reseau-mobile-environ-300-zones-blanches-rayees-de-la-carte/), whose first phase was complete by 2022 and left thousands of localities with no mobile network at all.
 
 An [internet exchange point, BFIX, operates with sites in Ouagadougou and Bobo-Dioulasso](https://pulse.internetsociety.org/en/ixp-tracker/country/BF/) (2024). The state's own network is the weak point: [RESINA, built out since 2007 around a fibre backbone with WiMAX stations, IP telephony, DNS and DHCP](https://lefaso.net/spip.php?article148338), was [named by the budget directorate among the obstacles to executing the 2025 state budget](https://www.finances.gov.bf/fileadmin/user_upload/storage/fichiers/Rapport_de_la_revue_a_mi-parcours_de_l_execution_du_budget_de_l_Etat_exercice_2025_.pdf). A replacement had [its architecture settled and its equipment bids under evaluation](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/) as at July 2026. Connectivity is where the external money has gone, through the World Bank's [Digital Acceleration Project](https://projects.worldbank.org/en/projects-operations/project-detail/P177022) running to 2028 and the [closed WARCIP broadband operation](https://projects.worldbank.org/en/projects-operations/project-detail/P161836) before it.
+
+[The minister put 3,140 public buildings on the national administration network on 8 October 2026](https://www.moussonews.com/zero-zone-blanche-plus-de-25-milliards-fcfa-mobilises-pour-accompagner-la-couverture-des-1-500-localites/), [against 2,332 in the state ICT agency's 2020 report](https://assises-resina.gov.bf/images/Rapport_annuel_2020_ANPTIC_Version_finale_septembre_2021_compressed-2.pdf).
+
+[The minister said on 8 October 2026 that 750 villages with no network will be connected by end-2026 and 750 more by 2028, on FCFA 25bn mobilised by the State, under a target of no white zones by 2030](https://refletinfo.net/telecommunications-750-villages-burkinabe-sortiront-bientot-des-zones-blanches/).
 
 ### Data Storage
 <!-- infra.store -->

@@ -6,7 +6,7 @@ region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 165
+sources_cited: 167
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -115,6 +115,8 @@ Chad reaches the rest of the internet through one route, and in February 2026 it
 Take-up has not moved. [13.2% of the population used the internet in October 2025, on 2.79 million users](https://datareportal.com/reports/digital-2026-chad), the same rate as a year earlier. [Mobile connections equal 73.3% of the population](https://datareportal.com/reports/digital-2026-chad), but those are active SIMs rather than people: ITU put [unique mobile-phone penetration at 44.3% in 2024](https://www.ecofinagency.com/news-digital/0406-56180-chad-seeks-world-bank-support-to-bring-connectivity-to-500-underserved-areas), and [only 8.6% of adults owned a smartphone that year](https://www.ecofinagency.com/news-digital/0406-56180-chad-seeks-world-bank-support-to-bring-connectivity-to-500-underserved-areas). Coverage runs well ahead of use — [about 60% of the population lay under a 4G network in 2023](https://datahub.itu.int/data/?e=1&i=100095&s=19306&v=chart) — and what capacity exists is thin, at [roughly 21 kbit/s of international bandwidth per user in 2022](https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_TCD.pdf). Chad's IIAG Internet & Computers score of [5.5 out of 100 was the fourth worst of that index's 96 indicators in 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-td.pdf).
 
 The state's answer is PMICE, the connectivity modernisation programme [launched in July 2020 with Huawei as contractor](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/) and financed by a [111 billion FCFA China Eximbank loan](https://cio-mag.com/tchad-un-pret-de-111-milliards-fcfa-pour-developper-les-tic/). Operators were [ordered under a seven-day ultimatum in September 2025 to connect to the national fibre network](https://afriqueitnews.com/tech-media/tchad-ordonne-operateurs-connecter-reseau-national-fibre-optique/), and the first phase [reached Sarh in Moyen-Chari in December 2025](https://lendjampost.com/inauguration-de-la-fibre-optique-au-moyen-chari-un-pas-vers-la-modernisation-numerique/). Starlink runs on [a multiservice ISP licence granted on application without a public tender](https://www.toumaiwebmedias.com/assemblee-nationale-adoption-de-la-loi-sur-la-regulation-des-communications-electroniques-et-des-activites-postales/). In June 2026 the government [rejected fuel supply as a justification for the deteriorating quality of Airtel's and Moov's mobile services](https://www.connectingafrica.com/connectivity/chad-pushes-telcos-for-network-upgrades), while [around 500 localities remain cut off from the network or without basic digital services, the outstanding challenge named for the World Bank-financed PATN programme](https://salaminfo.com/2026/06/02/le-gouvernement-tchadien-et-la-banque-mondiale-accelerent-le-deploiement-des-routes-virtuelles/).
+
+[The minister told German, European and cooperation-agency representatives on 9 October 2026 that the country has about 6,000 km of optical fibre and aims for 14,000 km](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/).
 
 ### Data Storage
 <!-- infra.store -->
@@ -242,6 +244,8 @@ Chad's artificial-intelligence governance sits inside its cybersecurity agency: 
 
 <!-- derived -->
 Chad has no artificial-intelligence strategy and no artificial-intelligence law.
+
+[A pre-validation workshop for the National Artificial Intelligence Strategy opened in N'Djamena on 8 October 2026, the strategy aimed at health, agriculture, education and public services](https://camerpressagency.com/la-souverainete-au-bout-de-lalgorithme-et-du-guichet/).
 
 ### ICT Industry
 <!-- tech.industry -->

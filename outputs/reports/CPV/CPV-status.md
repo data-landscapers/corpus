@@ -1,12 +1,12 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-09-25
+compiled: 2026-10-10
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 195
+sources_cited: 196
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -394,6 +394,8 @@ European money holds the wire too. [European Investment Bank lending finances a 
 The European Investment Bank is Cabo Verde's third-largest non-state digital financier on the record as at September 2026, with two commitments worth about USD 65 million, behind the African Development Bank's six worth about USD 131 million and the World Bank's five worth about USD 89 million.
 
 Above the finance sits a bilateral frame that has been growing digital limbs. The EU–Cabo Verde special partnership was described in the 2024 budget debate as [gaining a digital-transformation pillar and a cybersecurity strand](https://www.governo.cv/discurso-do-primeiro-ministro-sua-excelencia-dr-jose-ulisses-correia-e-silva-no-debate-orcamento-estado-de-2024-oe2024/) (November 2023), and a year later the Prime Minister put [a EUR 300 million EU Global Gateway package](https://www.governo.cv/discurso-de-abertura-do-primeiro-ministro-debate-sobre-o-orcamento-de-estado-para-2025/) to the 2025 budget debate. The reach now runs into policy drafting: Cabo Verde [kicked off a data strategy for public administration and a national artificial intelligence strategy with European Union representatives at the table, by May 2026](https://techafricanews.com/2026/05/04/cape-verde-launches-national-data-and-ai-strategies-to-modernize-public-administration/), aimed at integrating government data across departments. In the private layer, [the Portuguese cybersecurity firm VisionWare was among the first companies into both of Cabo Verde's TechParks](https://expressodasilhas.cv/economia/2025/05/31/bruno-castro-ceo-visionware-para-um-cibercriminoso-atacar-nos-estados-unidos-ou-em-cabo-verde-e-exatamente-a-mesma-coisa/97276) and recruits its local staff through the NOSi Akademia training pipeline (May 2025).
+
+[The 14th special partnership ministerial in Brussels on 9 October 2026 reported a Global Gateway digital pipeline in preparation, covering submarine cables and inter-island connectivity, and progress in European support for the national data and AI strategies](https://www.eeas.europa.eu/eeas/joint-communique-fourteenth-ministerial-meeting-european-union-eu-cabo-verde-special-partnership_en).
 
 ### Gulf/UAE activities
 <!-- geopol.gulf -->

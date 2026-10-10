@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 179
+sources_cited: 180
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -306,6 +306,8 @@ The pipeline those programmes draw on is thin and only recently connected. [Twel
 <!-- capacity.research -->
 
 Knowledge production in computing and engineering rests on a small number of public institutions: [the University of Sierra Leone, whose Fourah Bay College awards degrees in electrical, electronic, mechanical and civil engineering, and Njala University](https://www.usl.edu.sl/programs?campus=fbc). Neither the scale of that output nor Sierra Leone's public spending on research and development had been published as at August 2026.
+
+[The Center for Information Privacy, Human-Centered Technology and Ethics Research launched in Freetown on 6 October 2026 to research the handling of personal data, train on data-subject rights and feed evidence into data-protection law and policy](https://truthmedia.sl/cipher-launched-to-promote-data-protection-cybersecurity-and-digital-privacy/).
 
 ## Inclusion
 

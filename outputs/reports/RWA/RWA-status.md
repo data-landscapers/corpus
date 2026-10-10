@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 203
+sources_cited: 207
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -151,6 +151,8 @@ The institutional design concentrates the two roles in one body: the [National C
 
 Capacity-building has arrived more recently than the strategy. The National Cyber Security Authority opened a [Cyber Security Centre of Excellence, CyberHub, at the University of Rwanda's College of Science and Technology in October 2025](https://itweb.africa/article/rwanda-unveils-cyber-security-centre-of-excellence/kLgB17ez2x4M59N4), combining a cyber academy, an innovation hub and technical labs with partners including Cisco and GIZ, and Cabinet approved a [post-secondary institute in AI and cybersecurity in July 2026](https://www.newtimes.co.rw/article/37660/news/technology/new-institute-of-computing-to-train-next-generation-of-tech-leaders). The prime minister said [reported fraud complaints over digital payments were about 30% lower in the second quarter of 2026 than the 4,128 of a year earlier](https://taarifa.rw/2026/10/04/digital-payments-hit-3-1-billion-fraud-complaints-drop-30/).
 
+[The central bank reported on 8 October 2026 that fraud cases fell to 2,879 in the second quarter of 2026 from 4,128 a year earlier, while only 3.6% of the Rwf471 million involved had been recovered](https://en.igihe.com/business/article/rwanda-cyber-fraud-falls-30-but-fund-recovery-remains-low).
+
 ## DPI
 
 ### Data Exchange
@@ -245,6 +247,8 @@ What the tier does not yet have is a channel of its own. The government announce
 
 Donors have funded the lower tier directly rather than as an afterthought to national systems: KfW is [supporting the decentralisation agency's monitoring and information system for the lower tiers of administration to 2028](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201668367), and French lending in January 2023 [covered local alongside central e-government systems](https://interweavegov.substack.com/p/rwandas-digital-transformation-an).
 
+[The revenue authority's 2023 account describes its local government tax system, in service since 2015, as linked to the land registry by parcel identifier and integrated with the identity agency and banks, with property tax about 30% of local revenue](https://www.addistaxinitiative.net/sites/default/files/resources/3.1.%20Presentation%20Karasira_IT%20Rwanda.pdf).
+
 ### Rural digital data capture
 <!-- digital.rural -->
 
@@ -257,6 +261,8 @@ What stops the rest is rarely the network. [Rural electricity access ran far beh
 Where the state has paid for last-mile capacity, placement has not always followed need. Rwanda's Universal Access and Service Fund [subsidised bandwidth at 193 rural and remote institution sites at Frw 100,000,000 a year in financial year 2020/21](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Reports/RURA_ANNUAL_REPORT_2020-2021.pdf), and in the same year [paid Frw 96,000,000 for two telecommunications towers built inside Nyungwe National Park at the request of local authorities](https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Reports/RURA_ANNUAL_REPORT_2020-2021.pdf) — siting driven by local political request rather than by coverage modelling.
 
 The rural base itself is strong on assets and weakening on connection to markets. Rwanda's rural economy scored [77.8 of 100 in 2023, fourth of 54 African states, with rural land and water access first at 93.1 and rural economy support second at 90.1](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf). Against that, [rural market access fell 15.5 points over 2014-2023 to 59.8 and 24th place, its second most deteriorated measure, with rural representation and participation also down, to 68.1 at 25th](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf).
+
+[A company's solar-powered connectivity and power unit for health posts, deployed with the health ministry and a vaccine alliance and launched on 1 October 2026, has reached 65 health posts in 21 districts, with 85 more planned](https://en.igihe.com/health/article/inside-a-new-infrastructure-layer-boosting-rwandas-digital-health-expansion).
 
 ## Technology
 
@@ -334,6 +340,8 @@ The identity credential is the gate in front of most of this. It is [required to
 Channels that do not assume a smartphone still carry much of the load. MINICT publishes [USSD codes — *456*1# on MTN and *255*5*4# on Airtel — that let any subscriber check whether their SIM is 4G-capable without visiting a shop](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027); the new interoperable payment system [runs over customers' existing USSD, app and internet-banking channels with no new app required](https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-ekash-to-enable-nationwide-instant-interoperable-payments); and the government service platform rests on [field agents who transact on behalf of citizens who cannot use it directly](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy). More than nine in ten adults are [financially included, with the central bank's deputy governor putting the remaining problem as depth rather than access](https://itweb.africa/article/rwanda-strengthens-african-fintech-hub-role/kYbe9MXba5bvAWpG), though [formal banking access remains one of the country's weakest measures](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-rw.pdf).
 
 Where digital authentication fails, [remediation can require in-person verification within limited service hours](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally). The stated response is the Rwanda Digital Acceleration Project, whose components run to [smart-device affordability measures, digital-literacy programmes and connectivity for schools, hospitals and markets that are not yet connected](https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026).
+
+[The development board announced a planned Business Obstacles Alert platform on 8 October 2026, for businesses to report and track obstacles in accessing public services after registration](https://www.newtimes.co.rw/article/39536/news/business/rdb-mulls-new-platform-for-businesses-to-report-service-delivery-obstacles).
 
 ### Digital divides
 <!-- include.divides -->

@@ -6,7 +6,7 @@ region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 218
+sources_cited: 222
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -233,6 +233,8 @@ Where services have been digitised they are single-agency. [Business registratio
 
 The institutional machinery is being assembled ahead of the services. [A National Digital Addressing Steering Committee was launched in October 2025](https://techafricanews.com/2025/10/13/the-gambia-takes-major-step-toward-a-fully-digital-nation-with-launch-of-ndasc/), [a National Enterprise Architecture framework was validated under the GovStack initiative with ITU support in May 2026](https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative), and the Ministry of Information runs [Factguard, a national misinformation and disinformation response centre that takes public submissions through a free hotline and has them checked by trained human analysts against stated evidence](https://factguard.gov.gm/). The government [began issuing a biometric driving licence valid for three years, replacing annual renewal](https://foroyaa.net/gambia-begins-rollout-of-new-three-year-driving-licence/) (2026). The finance ministry [introduced a digital duty waiver application system, committing to a decision within 72 hours where requirements are met](https://thepoint.gm/africa/gambia/national-news/govt-promises-duty-waiver-decision-in-72-hrs-with-new-digital-system), reported on 30 September 2026.
 
+[The procurement authority trained a second cohort of its cadre from 8 to 10 October 2026 on the 2022 Act, the 2024 Regulations and the rollout of the Electronic Government Procurement system, with the new instruments mandatory from January 2027](https://thepoint.gm/africa/gambia/national-news/gppa-trains-procurement-cadre-on-new-act-regulations-and-standard-documents).
+
 ## Digitalisation
 
 ### Digitalisation of sub-national government
@@ -245,6 +247,8 @@ Sub-national digital government otherwise rests on a single instrument. The [Nat
 One council has built to it. Kanifing has [tied digital address codes, built on Google Plus Codes and displayed on compound gates, to properties' geographic coordinates and into its municipal property-rates register](https://www.kerrfatou.com/kmc-says-digital-address-codes-will-improve-emergency-response-and-property-tax-collection/), and its rates manager said collectors now work from tablets that navigate to a registered property by its address rather than by the owner's name (June 2026). The council expects the codes to improve emergency response and rates collection, and is adding street numbering alongside them.
 
 The [Greater Banjul Area Sustainable Urban Development Programme 2020-40 is supported by an African Development Bank Transition Support Facility grant covering capacity building and implementation of the Greater Banjul Digital Master Plan](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-GM-J00-002).
+
+[The finance ministry's 2024 progress report put the system in all area councils, with one council fully on it and most on unreliable links](https://mofea.gov.gm/wp-content/uploads/2025/04/2024-PFM-Annual-Progress-Report.pdf). [Its 2025 performance report recorded untrained users at Basse and bandwidth shortages at Brikama](https://mofea.gov.gm/wp-content/uploads/2025/09/SECOND-and-THIRD-QUARTER-PFM-PERFORMANCE-REPORT-1-1.pdf). [The April 2026 end evaluation found it fully used only in Kerewan, with the councils' revenue system still unlinked](https://mofea.gov.gm/wp-content/uploads/2026/04/END-EVALUATION-REPORT-OF-THE-PUBLIC-FINANCE-MANAGEMENT-STRATEGY-2021-2025.pdf).
 
 ### Rural digital data capture
 <!-- digital.rural -->

@@ -1,12 +1,12 @@
 ---
 title: Zimbabwe: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: ZWE
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 7
-sources_cited: 161
+sources_cited: 164
 sections_written: 39
 not_established: 1
 acquire_lines: 37
@@ -252,6 +252,8 @@ What sub-national government has built for itself is municipal and unconnected. 
 
 Provision for the rest of local government has come as hardware rather than as systems: [the government donated 250 Starlink kits to local authorities](https://www.techzim.co.zw/2025/07/starlink-kits-for-local-authorities-zimbabwe/) under its digitisation drive (July 2025). The books underneath are largely unautomated. Auditing the 2024 financial year, the Auditor-General found [most local authorities lagging in technology, their business processes still manual or partially automated, with modules of their accounting systems left unactivated and the resulting late submission of financial statements compromising document retention](https://veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf) (June 2025), and [most councils without an enterprise resource planning system for revenue collection, so recognising revenue on a cash basis for want of complete databases and losing revenue as a result](https://veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf); [revenue-collection and debt-recovery findings rose from 81 across 51 local authorities to 92 across 60](https://veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf).
 
+[The institute behind the state-backed council system said in June 2025 that councils adopt its peripheral modules, not its core](https://www.heraldonline.co.zw/hits-erp-systems-boost-for-councils/). [The capital's mayor said in October 2025 that the city had signed up to a new provider's system after a court dispute, citing a presidential directive that every municipality have a functional one](https://www.heraldonline.co.zw/harare-city-council-reintroduces-the-enterprise-resource-planning-system/).
+
 ### Rural digital data capture
 <!-- digital.rural -->
 
@@ -264,6 +266,8 @@ Where registration reaches remote districts it arrives as an expedition rather t
 [Poor rural internet and electricity access, with limited device availability, hold back digital adoption at rural points of service](https://documents1.worldbank.org/curated/en/982981621880260112/pdf/Digital-Economy-for-Zimbabwe-Country-Diagnostic-Report.pdf) (2025). Neither [rural network reach](https://technomag.co.zw/wp-content/uploads/2026/04/Q4-2025-Abridged-Sector-performance-report-HMed-final-1.pdf) nor [rural electricity access](https://tradingeconomics.com/zimbabwe/access-to-electricity-urban-percent-of-urban-population-wb-data.html) has since caught up with its urban equivalent.
 
 Digital capture that does reach the countryside is sectoral: [a farmer registry run with FAO](https://www.fao.org/africa/news-stories/news-detail/fao-expands-digital-farmer-registry-to-strengthen-agricultural-data-and-empower-smallholders-in-zimbabwe/en) and [a biometric register of cotton farmers modelled on the tobacco board's](https://www.biometricupdate.com/202510/nigeria-zimbabwe-launch-new-farmer-digital-id-initiatives) enrol producers one commodity at a time. The [rural economy is Zimbabwe's second best-performing governance area, at 70.8 out of 100 in 2023 after the largest decade gain of any of the index's sub-categories for the country](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zw.pdf), with [rural market access the one component to deteriorate, down 10.8 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zw.pdf).
+
+[A company partnering the postal operator reported at a conference, reported 9 October 2026, that it has set up 28 nurse-staffed digital health sites in post offices and modular container clinics, connected by satellite and a state mobile operator, and reached 118,000 people](https://www.heraldonline.co.zw/zimsmart-converts-zimpost-offices-into-digital-health-clinics/).
 
 ## Technology
 

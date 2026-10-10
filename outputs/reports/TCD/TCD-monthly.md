@@ -3,9 +3,9 @@ title: Chad — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: TCD
-ledger_rows: 30
+ledger_rows: 31
 not_held: 22
-record: 122db93372c7
+record: 08ba2f51c8a1
 ---
 
 # Chad: monthly update, September – October 2026
@@ -60,7 +60,7 @@ The digital minister [reviewed the World Bank-financed digital transformation su
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The ministry measured the backbone's shortfall. Meeting the World Bank's resident representative on 15 September, the minister [put the remaining need at about 8,000 km of fibre for a full national mesh, with six provinces still unconnected](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique).
+The ministry measured the backbone's shortfall. Meeting the World Bank's resident representative on 15 September, the minister [put the remaining need at about 8,000 km of fibre for a full national mesh, with six provinces still unconnected](https://www.agenceecofin.com/actualites-numerique/1709-141662-infrastructure-numerique-le-tchad-a-encore-besoin-de-8000-km-de-fibre-optique). [The minister told German, European and cooperation-agency representatives on 9 October 2026 that the country has about 6,000 km of optical fibre and aims for 14,000 km](https://www.tachad.com/tchad-le-ministre-des-telecommunications-echange-avec-les-partenaires-europeens-sur-la-transformation-numerique/).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -111,6 +111,14 @@ In the capital, N'Djamena city hall and the secure-documents agency ANATS [signe
 
 <!-- narrative: digitalisation--digital-rural -->
 A delegation [studied three agricultural platforms in Lome on 28 August 2026](https://www.togofirst.com/en/agriculture/0209-19932-togo-shares-digital-agriculture-experience-with-chad), built by the Togolese arm of the same regional programme: a hydro-agrometeorological information system, an alerting service and an advisory service.
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+[A pre-validation workshop for the National Artificial Intelligence Strategy opened in N'Djamena on 8 October 2026, the strategy aimed at health, agriculture, education and public services](https://camerpressagency.com/la-souverainete-au-bout-de-lalgorithme-et-du-guichet/).
 <!-- /narrative -->
 
 ## Capacity

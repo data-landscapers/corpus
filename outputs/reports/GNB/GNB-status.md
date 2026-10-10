@@ -1,12 +1,12 @@
 ---
 title: Guinea-Bissau: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: GNB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-27
 intersections_read: 22
-sources_cited: 161
+sources_cited: 163
 sections_written: 39
 not_established: 2
 acquire_lines: 31
@@ -247,6 +247,8 @@ Guinea-Bissau's digital-government programme is, so far, a schedule. The nationa
 What runs, runs in revenue. [Kontaktu is the tax authority's operational portal for declarations and payments, and a December 2025 service instruction makes it the only system through which taxpayer numbers may be issued](https://kontaktu.mef.gw/); [its own operating instruction publishes the boundary of the digital route, listing fourteen taxes and contributions that still require a prior declaration](https://kontaktu.mef.gw/api/public_files/ahJL4HsBTtIyVO-stAXo.pdf). [Customs launched ASYCUDAWorld on 26 January 2026, replacing ASYCUDA++, in use since the early 1990s, across all computerised customs offices, among them the Port of Bissau, the international airport, São Domingos, Gabú and Bafatá, with UNCTAD providing the technical assistance and the African Development Bank the money](https://asycuda.org/en/guinea-bissau-launches-asycudaworld-to-strengthen-customs-digitalization/). [Company registration runs through a one-stop shop, the Centro de Formalização de Empresas, which brings together the notary, commercial registration, taxpayer registration and business licensing](https://cfe.gw/), and [the Judiciary Police runs an online complaint portal](https://pj.gw).
 
 All of it operates without a horizontal law: [the Electronic Transactions Law was still a draft out to public consultation by the regulator in May 2026](https://www.odemocratagb.com/?p=57171), so the customs, tax, wage-bill and Treasury systems already in use have no statute giving electronic filings and electronic payments to the state their legal effect. Openness has gone backwards on the same stretch: [parliament's Dados Abertos page, which serves four datasets over an API, carries a stated last-modification date of 1 April 2015](https://www.parlamento.gw/transparencia/dados-abertos).
+
+[The system's steering committee heard in April 2023 that the other forces had sent no staff, the Judicial Police citing a 2011 law as its basis](https://www.odemocratagb.com/?p=43960). [A second service opened at the Guarda Nacional command in Bissau in August 2024, linking the police forces' criminal data](https://ang.gw/policia-judiciaria-diretor-nacional-diz-que-a-luta-contra-a-criminalidade-organizada-exige-nova-estrategia/).
 
 ## Digitalisation
 

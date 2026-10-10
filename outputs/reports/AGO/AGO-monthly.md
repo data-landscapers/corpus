@@ -3,9 +3,9 @@ title: Angola — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: AGO
-ledger_rows: 40
+ledger_rows: 41
 not_held: 6
-record: 193c0d717d0c
+record: df3a78a0e346
 ---
 
 # Angola: monthly update, September – October 2026
@@ -66,6 +66,11 @@ The state printer [inaugurated a data centre on 11 September with more than 170 
 The land-concession single window is moving to the provinces: the cadastral institute [trained Huambo's municipal administrations on its procedures on 14 September](https://angop.ao/noticias/sociedade/governo-do-huambo-moderniza-praticas-de-gestao-de-direitos-fundiarios/), under [the 2025 decree that created it](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-84-25-de-16-de-abril/).
 
 The tax and customs administration [is integrating the commerce ministry's and other licensing bodies' platforms with its own](https://forbesafricalusofona.com/agt-de-angola-trabalha-na-integracao-de-plataformas-para-facilitar-acompanhamento-dos-processos/), its head of systems development said on 30 September, under service-level agreements setting response times of three days for the commerce ministry and five for other bodies; importers are to follow their customs processes by taxpayer number. No go-live date is stated. The transport minister [said on 28 September that the logistics single window is being completed](https://www.africa-newsroom.com/press/angola-governo-lanca-plataforma-para-monitorizar-a-cadeia-logistica-nacional?lang=pt) with the tax administration and the commerce and interior ministries, to track the logistics chain across air, sea, road and rail; no launch date is stated. The interoperability framework study and its platform roadmap [were completed in the first half of 2026 and the platform, an enterprise service bus on X-Road, is under tender at about US$13.0m](https://idea.comesa.int/wp-content/uploads/2026/10/IDEA-Biannual-implementation-Progress-January-to-June-2026-V-J20-FK-006.pdf).
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+[Tech By Tech released its AngolaID wallet in test mode, reported 9 October 2026: a credential created by video liveness check and facial recognition, verifiable by QR code, with an API and SDK for banks, schools and clinics; the company says it neither issues nor replaces the state identity card](https://pti.ao/tech-by-tech-disponibiliza-versao-de-testes-do-angolaid/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

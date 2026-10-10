@@ -3,9 +3,9 @@ title: Ghana — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: GHA
-ledger_rows: 91
+ledger_rows: 93
 not_held: 10
-record: ceff0a64677c
+record: 22a146ca6356
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -83,7 +83,7 @@ On 25 September in New York the President [discussed with Amazon's chief global 
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum.
+The storage estate gained a number rather than a building. The communications minister [put an artificial-intelligence computing centre at US$250m, beside US$200m for digitalisation](https://www.citinewsroom.com/2026/09/govt-rolls-out-measures-to-address-ghanas-ai-digital-infrastructure-gaps-sam-george/), as the government's answer to capacity gaps a UNESCO readiness assessment identified. Nothing is procured, sited or dated, and no capacity figure accompanies either sum. [Visiting the atomic energy commission on 9 October 2026, the science minister said its proposed AI data centre must operate under human oversight to protect sensitive nuclear information, and asked for governance arrangements to be built into the plan](https://ghanaguardian.com/zanetor-agyeman-rawlings-calls-for-human-control-of-gaecs-proposed-ai-data-centre).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -111,7 +111,7 @@ The SIM half of the identity regime moved for the first time in nine months. The
 
 The identification authority's head [said the Ghana Card will become an electronic wallet secured by biometrics and PIN, introduced in phases, linked to bank accounts and loadable through authorised vendors](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html). No date or central-bank approval is stated.
 
-The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december). The identification authority [began school-based registration of children aged 6 to 14 in the North East and Upper East Regions](https://www.myjoyonline.com/nia-extends-ghana-card-registration-for-children-in-north-east-and-upper-east/).
+The licensing authority [put its DVLAverify biometric identity-verification app on Apple's App Store on 23 September and opened a web verification platform](https://www.myjoyonline.com/dvlaverify-app-now-available-on-ios-as-dvla-introduces-web-verification-platform/), so vehicle-registration applicants can verify their identity remotely from a computer with a webcam. No user count is published. The foreign ministry and the regional commission [ran a public campaign for the regional biometric card's acceptance at every member state's borders by December 2026](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december). The identification authority [began school-based registration of children aged 6 to 14 in the North East and Upper East Regions](https://www.myjoyonline.com/nia-extends-ghana-card-registration-for-children-in-north-east-and-upper-east/). [The identification authority's deputy executive secretary said, reported 9 October 2026, that registration of children aged 0 to 5 would begin the following week, alongside the continuing registration of those aged 6 to 14](https://www.ghanaweb.com/GhanaHomePage/business/NIA-biometric-system-to-tighten-fraud-controls-2055880).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

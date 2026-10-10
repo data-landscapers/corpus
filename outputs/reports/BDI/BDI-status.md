@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 235
+sources_cited: 237
 sections_written: 39
 not_established: 2
 acquire_lines: 44
@@ -216,6 +216,8 @@ Account opening remains a documentary exercise. [There is no centralised identit
 
 The state's one digital disbursement channel of any size is social protection: [the Merankabandi programme, built on a unified social registry, the CORE-MIS platform and digital payments, delivered emergency support to more than 100,000 households during recent floods and food crises](https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises) (May 2026). Across borders Burundi is still outside the traffic: [the central bank said in May 2026 that joining the Pan-African Payment and Settlement System is the next logical step](https://www.brb.bi/node/3303), and [Tanzania and Rwanda are integrating their instant payment systems under the regional payments masterplan](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374) (July 2026). [The central bank has acceded to the pan-African payment and settlement system, with four Burundian banks authorised to take part](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/), and [told the regional central-bank governors it expects to join the East African cross-border payment system by December 2026](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616).
 
+[The East African Legislative Assembly's accounts committee reported on 8 October 2026 that components of the regional payment-systems integration project were unfinished when its grant closed in June, and recommended an audit and a costed completion plan; the central bank said it remains committed to joining the East African Payment System by December](https://www.burunditimes.com/regional-lawmakers-flag-unfinished-burundi-payment-systems-work-as-grant-closes/).
+
 ### Registries
 <!-- dpi.registry -->
 
@@ -264,6 +266,8 @@ Nothing yet moves commune data to the centre across sectors. [The interior minis
 That gap is old. [The multiservice telecentre planned for every commune and the government intranet and e-government services had not been delivered as at 2020, although national broadband infrastructure had reached commune level](https://thedocs.worldbank.org/en/doc/094ae7e492b4b741f58747465021caf0-0200022021/original/DE4A-Burundi-EN.pdf), while the government's own communications network was [described at the same time as not functioning effectively in most government units](https://thedocs.worldbank.org/en/doc/094ae7e492b4b741f58747465021caf0-0200022021/original/DE4A-Burundi-EN.pdf).
 
 The statutory frame long predates any of it. The 2014 communal administration law [creates consultative development committees at commune, colline and quartier level that meet quarterly and advise on development planning](https://faolex.fao.org/docs/pdf/bur222007.pdf) and [requires each commune's development plan to be formally approved and coherent with the national development plan](https://faolex.fao.org/docs/pdf/bur222007.pdf). The map beneath it has since changed: [a 2025 reform consolidated the 18 provinces into 5](https://www.burunditimes.com/burundis-new-governors-sworn-in-following-major-provincial-reforms/), and [UNDP handed vehicles to provincial governors and 165 laptops, 165 power supplies, 68 printers and 68 photocopiers to communal administrations](https://lerenouveau.bi/le-pnud-octroie-un-don-destine-aux-gouverneurs-de-province-et-administrateurs-communaux/) (August 2026).
+
+[Butihinda commune trained its planning, finance and accounting staff on 5 May 2026 to use Interbank Burundi's IBB M+ platform for communal revenue](https://communebutihinda.gov.bi/butihinda-en-marche-vers-la-digitalisation-des-recettes-communales-grace-a-la-plateforme-ibb-m/).
 
 ### Rural digital data capture
 <!-- digital.rural -->

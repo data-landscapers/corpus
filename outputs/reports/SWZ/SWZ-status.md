@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 195
+sources_cited: 198
 sections_written: 39
 not_established: 1
 acquire_lines: 57
@@ -211,6 +211,8 @@ Government collects digitally more readily than it pays. [The Revenue Service ta
 
 [Licensing runs under the National Payment Systems Act 2023](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=CBE+prioritises+broader+digital+ecosystem&bvhdgsj=Business+and+Economy&yiphi=1848), and [the Practice Note for Mobile Money Service Providers requires fee disclosure, written customer agreements, working complaints and dispute resolution, free hotlines and confidentiality](https://www.centralbank.org.sz/wp-content/uploads/2021/03/PracticeNoteforMMSP-FinalMarch2019.pdf), [published in full and without registration](https://www.centralbank.org.sz/national-payment-systems/). [Scheme governance runs through a National Payments Council with no reserved seats for consumers or small providers](https://www.centralbank.org.sz/wp-content/uploads/2021/03/NPSOversightPolicyFramework-March2019.pdf) (2023). [Access points make no accommodation for persons with disabilities](https://gov.sz/images/FinalReport--NFIS--2023-2028.pdf), and [refugees reach digital accounts only partially, on refugee and non-Swazi documents accepted by several banks and by MTN's mobile money under simplified due diligence](https://issuu.com/afi-global/docs/leveraging_digital_id_and_e-kyc_for_the_financial_/s/16368018) (2025). [The bank closing its mobile wallet at the end of 2026 has begun telling customers that its Instant Money service will return](https://eswatinipositivenews.online/standard-bank-revives-instant-money-as-unayo-exits/), with no terms announced. The provident fund [launched Express Claims, a three-hour payout target piloted for claims up to E5,000, with a card payment gateway for contributions](https://times.co.sz/45780/news/enpf-cuts-claims-processing-from-days-to-three-hours/) (2026). [Fast payments on the national payment switch were described as fully active in September 2026, with QR-code merchant payments the next module in development](https://www.eswatiniobserver.com/eswatini-payment-system-enters-new-era/). The dominant operator's [mobile money platform completed its move to a cloud-native vendor platform, reported in August 2026](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/). [Bank-paid elderly grants moved from the 20th to the 25th of the month from August 2026, on a disbursement system built with the science park](https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/).
 
+[The ICT principal secretary said on 9 October 2026 that the government plans to use post offices as community digital centres for citizen authentication, document verification and digital payments in rural areas](https://eswatinipositivenews.online/govt-to-use-post-offices-as-community-digital-centres-ps-prince-mashishimba/).
+
 ### Registries
 <!-- dpi.registry -->
 
@@ -251,6 +253,8 @@ Of the 32 headline indicators assessed for Eswatini in the 2025 GovTech Maturity
 <!-- digital.localgov -->
 
 Eswatini has no digital layer of its own below the centre: the integrated financial management information system is [still under implementation and covers central government only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), spanning treasury and budget preparation (2025). Where the state has extended its reach below the centre it has done so through existing counters rather than through local government systems, with [post offices opened as payment points for government services](https://techafricanews.com/2025/09/26/eswatini-ministry-of-ict-unveils-post-office-based-government-service-payment-system/) to cut the distance citizens travel to pay (September 2025), and with the Tinkhundla structures [used as the channel for engaging communities on the digitisation rollout](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) (June 2026). Connectivity constrains the centre as well: [most of the assessed government ministries run on internet connections of 1 Mbps or less](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/) (May 2026). The visible local-level programme is in the capital, where [Mbabane is being fitted out as a smart city](https://techafricanews.com/2025/08/04/eswatini-ramps-up-tech-reform-with-new-legislation-5g-rollout-and-coding-training-for-all/) with 5G and public Wi-Fi (August 2025).
+
+[The Manzini council added a second mobile wallet for rates in December 2020, alongside transfer, debit order and card](https://manzinicity.co.sz/you-can-now-pay-rates-using-e-mali/). [By April 2024 it offered a USSD code to view balances and pay, with bills by bulk text message and email](https://manzinicity.co.sz/rates-bills-for-2024-2025-financial-year-now-available/).
 
 ### Rural digital data capture
 <!-- digital.rural -->

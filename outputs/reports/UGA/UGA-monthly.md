@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: UGA
-ledger_rows: 60
+ledger_rows: 61
 not_held: 11
-record: bee104d6c983
+record: 395a9aaf30ac
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -139,7 +139,7 @@ Local-government finance got a system of its own on 22 September, when the local
 <!-- narrative: technology--tech-ai -->
 A domestic model reached a continental prize rather than a deployment: a startup building [credit scoring for smallholder farmers who lack collateral took US$50,000, about 190m shillings, in growth funding at a Kigali food-systems summit](https://nilepost.co.ug/technology/369117/ugandan-startup-sandi-ai-wins-shs190m-gogettaz-agripreneur-prize). No user count, lender partnership, loan volume or model documentation is published. In the same week the state set artificial intelligence against a sector rather than a system, [making "Digital Agenda and Artificial Intelligence to Redesign Tourism" the theme of national World Tourism Day celebrations, against 793,815 visitors in the first half of 2026 and receipts up 25.6% to 2.30tn shillings](https://www.monitor.co.ug/uganda/news/national/uganda-turns-to-ai-to-drive-tourism-growth-5583524) — a framing with no programme, budget or system behind it.
 
-Mbarara University of Science and Technology [leads the data-pipeline and machine-learning work in a four-year, GBP 4.4m Wellcome Trust microscopy programme led by the University of Cape Town](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which began in September 2026.
+Mbarara University of Science and Technology [leads the data-pipeline and machine-learning work in a four-year, GBP 4.4m Wellcome Trust microscopy programme led by the University of Cape Town](https://www.itweb.co.za/article/r101m-uct-project-brings-ai-microscopy-to-africa/LPp6V7rBYJb7DKQz), which began in September 2026. [The civil aviation authority has moved Entebbe airport's car parks onto AI-assisted number-plate recognition and mobile-money payment, reported 9 October 2026, and says it keeps vehicle registration records, timestamps and payment logs indefinitely, releasing them to security agencies under statutory guidelines](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876).
 <!-- /narrative -->
 ### ICT Industry
 

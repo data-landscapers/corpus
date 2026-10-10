@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: NGA
-ledger_rows: 137
+ledger_rows: 140
 not_held: 9
-record: d2317e97a04f
+record: 9be42f7a1637
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -28,7 +28,7 @@ The IT agency [issued a cloud package of four frameworks headed by a National Cl
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The platform penalty moved toward a deal: Meta [is negotiating a settlement with the commission after a first appeal was rejected](https://www.africaintelligence.fr/afrique-ouest/2026/09/14/apres-son-amende-de-220-millions-de-dollars-meta-tente-de-negocier-un-compromis-avec-abuja,110876270-art), on a single paywalled account.
+The platform penalty moved toward a deal: Meta [is negotiating a settlement with the commission after a first appeal was rejected](https://www.africaintelligence.fr/afrique-ouest/2026/09/14/apres-son-amende-de-220-millions-de-dollars-meta-tente-de-negocier-un-compromis-avec-abuja,110876270-art), on a single paywalled account. [The Nigerian Fintech Regulatory Commission Bill passed second reading in the House of Representatives in October 2025 and had a public hearing on 2 March 2026; it would create a single licensing gateway beside the central bank and the securities regulator, and is still pending](https://businesstech.ng/fintech-regulatory-commission-bill-nigeria/).
 <!-- /narrative -->
 ### Data protection
 
@@ -113,7 +113,7 @@ A second use for election hardware was floated rather than agreed: the admission
 
 The government then set itself a nearer deadline: [95 per cent identity number coverage by December 2026](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/), announced on 16 September with the database put at nearly 140 million, a figure above the 117.5 million issued numbers the lender recorded for June.
 
-On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/).
+On 23 September the identity commission [denied that identity numbers and other personal data had been breached and offered for sale, and its Director-General ordered an investigation into whether licensed tokenisation verification agents had breached their licences](https://www.thisdaylive.com/2026/09/23/nimc-assures-nigerians-of-safety-of-identity-data/), directly or through sub-licensees. No finding or timetable is published. A technology outlet reported that [a presidential directive orders every ministry, department and agency to adopt the authentication service as its default identity check](https://techmoonshot.com/2026/10/05/nimcs-ninauth-mandate-and-nigerias-180m-nin-push/). The supervising minister said [implementation of the national cooperative identity reform had commenced at no cost to government, and tasked the states to support it](https://fmino.gov.ng/cooperative-digitalisation-fg-reaffirms-commitment-towards-national-cooperative-identity-reform-under-rh-crrp-2030-tasks-states-on-implementation/). [Katsina State sought a partnership with the national identity commission, reported 10 October 2026, to integrate its identity management system with the national architecture; the two agreed a technical working group to draft a framework and memorandum within eight weeks](https://www.timeexpressnigeria.com/2026/10/gov-radda-seeks-nimc-partnership-to-strengthen-identity-management/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -193,7 +193,7 @@ On 24 September the electoral commission's chairman [said it had begun deploying
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
-The communications minister [put the ICT sector's contribution to GDP at about 21 per cent, up from about 16 per cent in three years](https://von.gov.ng/ict-contribution-to-gdp-rises-to-21-minister/). A consultancy procurement [opened on 21 September for a programme to build a knowledge-services export industry](https://www.premiumtimesng.com/promoted/911181-request-for-expression-of-interest-consultancy-services-for-the-establishment-of-a-national-business-process-outsourcing-and-high-value-it-enabled-services-industry-for-the-idice-programme.html), with a 1,000-graduate academy. The software industry association [committed on 10 September to launch a national software industry registry within six months](https://www.thisdaylive.com/2026/09/10/ispon-inaugurates-nec-harps-on-national-software-industry-registry/).
+The communications minister [put the ICT sector's contribution to GDP at about 21 per cent, up from about 16 per cent in three years](https://von.gov.ng/ict-contribution-to-gdp-rises-to-21-minister/). A consultancy procurement [opened on 21 September for a programme to build a knowledge-services export industry](https://www.premiumtimesng.com/promoted/911181-request-for-expression-of-interest-consultancy-services-for-the-establishment-of-a-national-business-process-outsourcing-and-high-value-it-enabled-services-industry-for-the-idice-programme.html), with a 1,000-graduate academy. The software industry association [committed on 10 September to launch a national software industry registry within six months](https://www.thisdaylive.com/2026/09/10/ispon-inaugurates-nec-harps-on-national-software-industry-registry/). [OPay filed a registration statement in the United States on 9 October 2026 for a New York listing](https://www.sec.gov/Archives/edgar/data/2103076/000119312526418812/d56487df1.htm). [The filing shows a South African banking group's unit buying up to US$200m of shares in a private placement alongside the offering, and 50.1 million monthly active users at end-July 2026](https://techcentral.co.za/standard-bank-opay-stake-ipo/287154/).
 <!-- /narrative -->
 ### Innovation ecosystem
 

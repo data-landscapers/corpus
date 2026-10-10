@@ -5,7 +5,7 @@ period: 2025-10-01 to 2026-10-10
 place: XAF
 ledger_rows: 233
 not_held: 3
-record: 194436861eca
+record: 73b1c74a7de9
 ---
 
 # Africa: progress report, October 2025 – October 2026
@@ -14,7 +14,7 @@ record: 194436861eca
 
 *Of 233 bodies, instruments and systems on this place's ledger, 137 changed position between 2025-10-01 and 2026-10-10, 30 did not, 63 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 1101 sources for this place in the window — 173 in the earlier half (2025-10 to 2026-03), 928 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 1102 sources for this place in the window — 173 in the earlier half (2025-10 to 2026-03), 929 in the later (2026-04 to 2026-10). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -218,7 +218,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 
 | Body, instrument or system | At 2025-10-01 | At 2026-10-10 | Progress |
 |---|---|---|---|
-| African take-up of China's Cross-Border Interbank Payment System | Standard Bank licensed as the first African bank to transact through China's Cross-Border Interbank Payment System, with CIPS transactions due on its platforms from September 2025 (2025-06) | [a cross-border payments startup launching direct yuan payouts into Chinese bank accounts from dollar, euro, sterling and stablecoin balances, alongside continental take-up of China's own cross-border interbank system](https://techcabal.com/2026/09/01/grey-chinese-yuan-payouts-for-africa/) | Movement |
+| African take-up of China's Cross-Border Interbank Payment System | Standard Bank licensed as the first African bank to transact through China's Cross-Border Interbank Payment System, with CIPS transactions due on its platforms from September 2025 (2025-06) | [A bank operating in 34 African countries said on 9 October 2026 that it would sign an agreement in China the next day to join the Cross-Border Interbank Payment System for yuan transactions and is in talks to offer yuan settlement jointly with a Chinese bank; a Rwandan bank is reported to have joined and an Angolan bank to plan to; a cross-border payments startup launched direct yuan payouts in September 2026](https://www.cnbcafrica.com/2026/ecobank-to-join-chinas-cips-payments-platform-for-yuan-settlement) | Movement |
 | Association of African Central Banks (AACB) | No decision of the Assembly on continental payment harmonisation held | [A list of 54 decisions, of which decision 21 rules that the Payment Systems Directive for Africa is not to be led by an entity external to central banks and directs its own task force to lead the work](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | Movement |
 | Banks and countries connected to PAPSS | 28 banks within nine months of launch, against an ambition of all 500 to 600 African banks (2022) | [30 countries connected and about 200 financial institutions live, against a target of about 38 countries and 80% continental coverage by the end of 2026 and full continental coverage within five years; I&M Bank Kenya went live for customers on 20 September 2026, sending to participating African markets in Kenyan shillings through its branches, with no volume, fee, corridor or transaction-limit detail published](https://techreviewafrica.com/news/7347/papss-goes-live-at-im-bank-kenya-to-expand-cross-border-payments) | Movement, marginal |
 | CARICOM Payment and Settlement System (CAPSS) | Did not exist; modelled on PAPSS since CARICOM governors' unanimous October 2023 selection | [Proof of concept complete in two countries; the ECCB Governor says at least two more central banks are needed for the initial pilot; not commercially operational, with settlement, FX, liquidity, AML and interoperability arrangements unresolved](https://www.truthng.com/caricom-prepares-papss-inspired-local-currency-payment-system/) | Movement |

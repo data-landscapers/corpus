@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 157
+sources_cited: 158
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -233,6 +233,8 @@ The finance systems are real but narrow. [The financial management information s
 None of the five core administrative systems in operation — financial management, the treasury single account, tax, customs and e-procurement — has governance arrangements covering compliance, security and audit trails.
 
 The gap at the centre is the workforce: [there is no human resources management information system with self-service for public employees and managers and no payroll system linked to one, so no public service HR data is exchanged and the national ID is not used as an HR identifier](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). A journal study reported managers saying [district officers key facilities' monthly paper summaries into DHIS2 while primary facilities still report on paper](https://sajim.co.za/index.php/sajim/article/view/2060/3547) (2026).
+
+[The safety ministry's 2018/19 vote speech reported the E-Policing system and an automated biometric identification system in place](https://www.parliament.na/wp-content/uploads/2021/08/Vote-06-Ministry-of-Safety-and-Security.pdf). [A 2022 university study found police in one region keeping traffic-offence records on paper in cabinets](https://digital.unam.edu.na/xmlui/handle/11070.1/18365). [The force's own history page dates E-Policing to 2014](https://nampol.gov.na/about-us1).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

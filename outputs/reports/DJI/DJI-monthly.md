@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, September – October 2026
-compiled: 2026-10-08
-period: 2026-09-01 to 2026-10-08
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: DJI
 ledger_rows: 14
-not_held: 12
-record: 7d88bbd90dda
+not_held: 11
+record: 1e67cbd33a6a
 ---
 
 # Djibouti: monthly update, September – October 2026

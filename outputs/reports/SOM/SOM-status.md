@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 166
+sources_cited: 169
 sections_written: 39
 not_established: 3
 acquire_lines: 38
@@ -231,6 +231,8 @@ The most developed digital system run by a tier of government below the national
 What it replaced was physical. [Paper vouchers were carried up to 90km and keyed in by hand, a reconciliation the state's finance minister puts at 30 to 45 days and which remained incomplete, and shilling cash sat 48 hours in the treasury for conversion to dollars before deposit (July 2026)](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem). The state [reports a many-fold rise in collections at equipped checkpoints in the first quarter of 2026 against 2020](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem).
 
 Beyond that, sub-national involvement is participation in national systems rather than systems of the states' own. [Local administrations in Jubbaland, South West, Hirshabelle, Galmudug and Northeastern State take part in the digital civil registration pilot in 19 districts, which the interior ministry announced on Africa CRVS Day in August 2025](https://www.ecofinagency.com/news-digital/1108-48024-somalia-pilots-19-district-digital-civil-registry-lays-groundwork-for-nationwide-legal-identity). Land is the clearest case of the gap: with no unified national digital land or title register, [municipal land registration runs in isolation in Garowe and Bosaso, alongside UN-Habitat GIS databases built for tax collection in Hargeisa, Boroma, Berbera, Garowe and Gardo (2024)](https://arablandinitiative.gltn.net/sites/default/files/2024-12/docs/somalia-land-sector-snapshot.pdf), each a town's own arrangement rather than a tier of the state.
+
+[A UN agency reported in August 2021 that Garowe's local revenue had tripled on mobile tax and the financial system, and that the scheme was extended to four more districts](https://unhabitat.org/news/16-aug-2021/mobile-taxation-expanded-to-four-districts-of-somalia-after-a-successful-pilot). [A 2023 governance brief found only Puntland councils running such a system](https://somalipublicagenda.org/wp-content/uploads/2023/11/SPA_Governance_Briefs_26_2023_ENGLISH.pdf). [The UN programme's final report counts about 22,000 Garowe properties geo-referenced and paid by mobile money](https://mptf.undp.org/sites/default/files/documents/2024-05/annex_vii_jplg_2023.pdf).
 
 ### Rural digital data capture
 <!-- digital.rural -->

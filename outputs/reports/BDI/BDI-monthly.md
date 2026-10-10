@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: BDI
-ledger_rows: 9
-not_held: 15
-record: 2abe6fae9582
+ledger_rows: 10
+not_held: 14
+record: 1994a490a075
 ---
 
 # Burundi: monthly update, September – October 2026
@@ -41,6 +41,11 @@ International capacity moved for the first time in the record: Tanzania's state 
 
 ## DPI
 
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+[The East African Legislative Assembly's accounts committee reported on 8 October 2026 that components of the regional payment-systems integration project were unfinished when its grant closed in June, and recommended an audit and a costed completion plan; the central bank said it remains committed to joining the East African Payment System by December](https://www.burunditimes.com/regional-lawmakers-flag-unfinished-burundi-payment-systems-work-as-grant-closes/).
+<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->

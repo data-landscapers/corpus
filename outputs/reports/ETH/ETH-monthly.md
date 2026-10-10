@@ -3,9 +3,9 @@ title: Ethiopia — monthly update, September – October 2026
 compiled: 2026-10-10
 period: 2026-09-01 to 2026-10-10
 place: ETH
-ledger_rows: 28
+ledger_rows: 30
 not_held: 5
-record: 9e5e2d9406b6
+record: 3d56aa3bf266
 ---
 
 # Ethiopia: monthly update, September – October 2026
@@ -85,7 +85,12 @@ The linking of bank accounts to Fayda moved to its last phase. The largest state
 <!-- narrative: dpi--dpi-pay -->
 The challenger's wallet [more than doubled its monthly active users to 2.58 million in the quarter to June, yet contributes about 2% of the unit's service revenue against 45.6% in Kenya](https://www.ecofinagency.com/news-finances/0308-57937-safaricom-s-ethiopian-unit-delivers-rapid-growth-but-mobile-money-struggles), and its [cardless ATM withdrawal was extended to Awash Bank's ATM network](https://techafricanews.com/2026/09/08/m-pesa-ethiopia-cardless-atm-withdrawals-awash-bank/).
 
-Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). The central bank [put digital financial transactions at 33 trillion birr in fiscal year 2025/26](https://www.ena.et/web/eng/w/eng_9654453), a director's figure given at a finance forum on 30 September with no published series behind it. An assessment of the second financial inclusion strategy [counts 157.6 million mobile money accounts at June 2026, 29.56 per cent of them active, and about eight billion digital transactions worth over 34 trillion birr in fiscal year 2025/26, with some banks charging up to 11 per cent for transfers to mobile wallets](https://www.thereporterethiopia.com/53174/). A licensed payment-system operator and an international card scheme [signed a framework agreement to roll out 148,000 contactless acceptance devices to merchants, certified as tax cash registers](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/).
+Scale and use are far apart. A diagnostic report [counts more than 135 million mobile wallets opened against fewer than one adult in ten holding a mobile money account, and 0.4% relying on one alone](https://akofada.shega.co/insights/research-reports/mobile-money-in-ethiopia-a-diagnostic-report), while the national switch [says its instant-payment service passed 1 million transactions in a day in May](https://techreviewafrica.com/news/7138/ethswitch-takes-ethiopias-digital-payments-push-to-global-fintech-stage). The central bank [put digital financial transactions at 33 trillion birr in fiscal year 2025/26](https://www.ena.et/web/eng/w/eng_9654453), a director's figure given at a finance forum on 30 September with no published series behind it. An assessment of the second financial inclusion strategy [counts 157.6 million mobile money accounts at June 2026, 29.56 per cent of them active, and about eight billion digital transactions worth over 34 trillion birr in fiscal year 2025/26, with some banks charging up to 11 per cent for transfers to mobile wallets](https://www.thereporterethiopia.com/53174/). A licensed payment-system operator and an international card scheme [signed a framework agreement to roll out 148,000 contactless acceptance devices to merchants, certified as tax cash registers](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/). [Awash Bank and Oromia Bank launched international payment cards on 8 October 2026, eight months after the central bank's amendment of 11 February 2026 let authorised banks issue internationally accepted cards to foreign-currency account holders](https://birrmetrics.com/banks-race-to-launch-international-payment-cards-as-forex-reforms-open-new-market/).
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+[The revenue ministry re-advertised on 8 October 2026 for a technical lead to govern the system's architecture, oversee vendors and integrate it with its data warehouse and e-invoicing systems, with expressions of interest due 29 October](https://www.getchereta.com/tender/85995).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

@@ -1,12 +1,12 @@
 ---
 title: Botswana: status report
-compiled: 2026-10-08
+compiled: 2026-10-10
 place: BWA
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 10
-sources_cited: 175
+sources_cited: 176
 sections_written: 39
 not_established: 1
 acquire_lines: 35
@@ -276,6 +276,8 @@ Where the next model comes from is being decided in public and in the presence o
 [Street naming and addressing sit with local government, and Botswana has no well-defined location addressing system, the national addressing component of the LAPCAS land programme never having been implemented](https://www.ajol.info/index.php/sajg/article/view/272275/257074) (2024).
 
 Citizen participation in local development planning has a statutory channel in the district, urban, village and ward Development Committees established by the [Local Government Act, 2012](https://www.cofc.gov.bw/wp-content/uploads/2025/06/LOCAL-GOVERNMENT-ACT-18-OF-2012-1.pdf), and the [Digital Services Act, 2025](http://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf) sets digital-service duties for every public body.
+
+[Gaborone City Council, a commercial bank and a local proptech firm launched the PayRates platform for paying property rates online, reported 14 June 2024](https://www.bwtechzone.com/2024/06/access-bank-gaborone-city-council.html).
 
 ### Rural digital data capture
 <!-- digital.rural -->

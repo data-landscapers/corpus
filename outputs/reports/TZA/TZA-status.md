@@ -1,12 +1,12 @@
 ---
 title: Tanzania: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 222
+sources_cited: 227
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -251,6 +251,8 @@ Where the digital state is visible below the national tier, it is in registries 
 
 The lowest rung of government taking part in real-time digital capture is the ward. [Ward Executive Offices, alongside health facilities, act as birth registration points](https://www.unicef.org/tanzania/press-releases/simplified-birth-registration-implemented-all-26-regions-mainland-tanzania) at which the record is entered on a mobile application and transmitted to the national register as the paper certificate is handed over (2023) — a national system operated at ward level, rather than a system of the ward's own.
 
+[Lender evaluators recorded the earlier revenue system, built for 8 councils, scaled to all 185 mainland authorities](https://documents1.worldbank.org/curated/en/594221634919490583/pdf/Tanzania-TZ-Strategic-Cities-Project.pdf). [Its successor had 169 councils on it by February 2023](https://dailynews.co.tz/how-usaid-ps3-project-increased-efficiency-in-govt-systems/). [The auditor's 2023/24 report found 16 councils still on the retired system](https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_PO-RALG__Regional_Administrations_and_Local_Government_Authorities_FY_2023-24.pdf). [An October 2025 account gives unconfigured revenue sources and incompatible devices as reasons councils collected outside it](https://thechanzo.com/2025/10/07/wataalamu-waeleza-changamoto-zitokanazo-na-halmashauri-kutotumia-mfumo-wa-tausi-kikamilifu-huweza-kusababisha-mapato-kupotea/).
+
 ### Rural digital data capture
 <!-- digital.rural -->
 
@@ -339,6 +341,8 @@ The last mile fails the same way at both ends: [address placards issued to house
 Some cannot use what exists at all: refugees and asylum seekers may open a lowest-tier mobile-money account without formal identity documents, but [cashing in and out demands papers most of them cannot obtain](https://reliefweb.int/attachments/09a75838-e186-4ff7-8fb4-300bda077a55/Displaced%20and%20Disconnected%20-%20East%20and%20Horn%20of%20Africa%20and%20Great%20Lakes%20Region.pdf), and [no law requires digital payment systems to accommodate persons with disabilities, leaving accessibility voluntary and uneven](https://www.adry.up.ac.za/articles-2025/ally-am) (2025).
 
 Retail delivery is running at about half of plan: [fibre-to-the-door reached 64,266 of 126,740 planned customers](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) and [public Wi-Fi 61 of 120 planned sites](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) (March 2026).
+
+[The communications regulator reported at a regional cohort meeting of 5 to 9 October 2026 that its initiative on assistive technologies for persons with disabilities was 80 percent complete, its website accessibility work recognised under a new national standard on accessibility of ICT products and services](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/).
 
 ### Digital divides
 <!-- include.divides -->

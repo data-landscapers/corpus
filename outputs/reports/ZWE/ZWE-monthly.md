@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-10
+period: 2026-09-01 to 2026-10-10
 place: ZWE
-ledger_rows: 33
+ledger_rows: 34
 not_held: 7
-record: db69fe540352
+record: 843d88c9e234
 ---
 
 # Zimbabwe: monthly update, September – October 2026
@@ -97,6 +97,14 @@ The health ministry said [its laboratory information management system runs at 1
 
 <!-- narrative: dpi--dpi-govtech -->
 The ICT minister [set a 2030 deadline on 18 September 2026 for turning more than 250 post offices into technology-driven service centres](https://techreviewafrica.com/news/7324/zimbabwe-sets-out-plan-to-modernise-postal-and-courier-services-for-digital-economy), under a three-phase plan; no cost or site schedule is published.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+[A company partnering the postal operator reported at a conference, reported 9 October 2026, that it has set up 28 nurse-staffed digital health sites in post offices and modular container clinics, connected by satellite and a state mobile operator, and reached 118,000 people](https://www.heraldonline.co.zw/zimsmart-converts-zimpost-offices-into-digital-health-clinics/).
 <!-- /narrative -->
 
 ## Technology

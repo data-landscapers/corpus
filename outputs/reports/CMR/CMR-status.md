@@ -1,12 +1,12 @@
 ---
 title: Cameroon: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 195
+sources_cited: 196
 sections_written: 39
 not_established: 2
 acquire_lines: 59
@@ -208,6 +208,8 @@ Declared dependent children on Cameroon's state payroll [rose 55.3% in 21 months
 On the money side, an [integrated financial management system supports transaction processing and budget preparation but reaches central government only](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [treasury single account it supports is only partly used](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Revenue administration is being rebuilt: alongside a [customs management system that exchanges data with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) and the tax directorate's [TAS, GovIn, ATOM and FUSION suite](https://revenuedevelopment.org/new-phase-initiated-in-cameroon/), the finance ministry [awarded a €7.15 million contract, about CFA 4.7 billion, in April 2026 to build SIGIT, a KfW-financed integrated tax and duty management system designed to interoperate with customs, budget and treasury systems](https://www.businessincameroon.com/public-management/0705-16135-cameroon-awards-4-7-million-tax-digitalization-contract-to-international-consortium).
 
 Sectoral systems mostly collect statistics. In health, [45% of health workers surveyed reported interoperability problems with the national DHIS2 system](https://pmc.ncbi.nlm.nih.gov/articles/PMC12605872/) (2025), against a [strategy target of electronic medical records in 70% of facilities](https://extranet.who.int/cpcd/sites/default/files/public_file_repository/cmr_cameroon_digital-health-strategy_2020-2024.pdf) that rural services have not met. Education runs the same way: [SIGE and STATEDUC aggregate centrally from paper school returns](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2023-11-cameroon-itap-report.pdf), and a [new integrated sectoral platform for education management information was launched in May 2025](https://www.unesco.org/en/articles/unesco-and-partners-officially-launch-integrated-emis-platform-and-its-methodological-tools). In justice, [42 of 60 targeted court registries are connected to the RJ-Secure network](https://www.businessincameroon.com/public-management/3009-15103-cameroon-justice-system-makes-slow-progress-despite-reforms-since-2018) while [rural police and gendarmerie posts keep case files by hand on paper procès-verbaux](https://www.unodc.org/cld/uploads/res/document/criminal-procedre-code_html/Cameroon_Criminal_Procedure_Code_2005.pdf) (2025). The [employment fund's jobseeker database](https://www.fnecm.org/index.php/en/job-seekers) and [SYSTAC for driving licences](https://ssdtmint.cm/en/index.html) stand alone, and [no farmer registry reaches a government exchange](https://www.worldbank.org/en/news/press-release/2021/09/28/world-bank-provides-100-million-to-accelerate-digital-transformation-and-smart-agriculture-in-cameroon). The family health directorate's bulletin read [completeness of monthly activity reports at 96% and timeliness at 89% for October to December 2025](https://biblio-minsante.cm/server/api/core/bitstreams/2bc60008-7482-4a7c-842d-15f112a2efd7/content) (2026). A press account citing the ministry said [the electronic medical record had been tried in about fifty facilities, with no date set for national deployment](https://ecomatin.net/le-gouvernement-en-quete-dune-expertise-etrangere-pour-operationnaliser-la-digitalisation-des-dossiers-medicaux) (2023).
+
+[A German cooperation project description of June 2020 records the national police's digital case and warrant system as barely used and makes use of a national digital crime database a priority](https://www.giz.de/en/downloads/giz2020_fr_appui_a_la_police_camerounaise.pdf).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

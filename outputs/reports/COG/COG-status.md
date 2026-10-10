@@ -1,12 +1,12 @@
 ---
 title: Congo: status report
-compiled: 2026-10-09
+compiled: 2026-10-10
 place: COG
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 4
-sources_cited: 137
+sources_cited: 140
 sections_written: 39
 not_established: 2
 acquire_lines: 35
@@ -30,6 +30,8 @@ The newest digital instrument on Congo's statute book creates a committee: [Déc
 The instruments that do arrive are fiscal. Certified electronic invoicing [became compulsory on 1 July 2026 under a decree of 30 March 2026](https://www.finances.gouv.cg/fr/articles/lancement-officiel-de-la-campagne-nationale-de-sensibilisation-au-syst%C3%A8me-de-facturation), reaching every natural and legal person supplying, distributing or using e-invoicing terminals or software; presentation of the unique tax number [has been compulsory since October 2022 for opening a bank account, subscribing to telecommunications and registering with social security](https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu); and a [levy on newly imported SIM-equipped digital terminals](https://www.adiac-congo.com/content/assemblee-nationale-presentation-de-la-taxe-sur-les-nouveaux-terminaux-numeriques-cartes-sim) took effect in June 2026. Parliament's own digital legislating runs mostly through the finance law: in the 2025 budget it [raised the operational digital programme by XAF 1.81bn while cutting the ministry's pilotage programme by XAF 7.59bn](https://sgg.cg/JO/2024/congo-jo-2024-15-sp.pdf), a net cut of XAF 5.78bn to the ministry's vote. The agency meant to carry the sector, [ADEN, was created by loi n° 69-2022 of 16 August 2022](https://www.finances.gouv.cg/fr/articles/la-dgcb-installe-ses-premiers-cadres-aupr%C3%A8s-de-laden) with legal personality and management autonomy.
 
 Day-to-day regulation is ARPCE's. It [gave MTN and Airtel two more months in October 2025](https://www.connectingafrica.com/regulation/congo-sets-2-month-deadline-for-sim-registration) to finish identifying SIM card holders, and [served formal notice on MTN Congo and Airtel Congo in April 2026](https://www.adiac-congo.com/content/qualite-de-service-des-reseaux-mobiles-larpce-monte-la-pression-sur-mtn-et-airtel-169708) over mobile quality of service, with six months to improve. The money-transfer regulator said [it will enforce article 13 of the 2026 finance law, which requires every operator to register on its digital platform and declare all transfers monthly, on pain of a FCFA 20 million fine](https://www.aci.cg/congo-finances-vers-la-digitalisation-du-secteur-des-transferts-de-fonds-pour-une-meilleure-transparence/).
+
+[The transfer regulator said it will enforce the use of electronic payment terminals by every money-transfer operator from January 2027, after showing 200 of 1,000 terminals ordered to about a hundred operators in Brazzaville](https://www.adiac-congo.com/content/transfert-de-fonds-lusage-des-terminaux-de-paiement-electronique-entrera-en-vigueur-des).
 
 ### Data protection
 <!-- gov.protect -->
@@ -215,7 +217,7 @@ Coordination is the remaining gap. [The GovTech institution exists](https://www.
 ### Digitalisation of sub-national government
 <!-- digital.localgov -->
 
-The first digital system built for Congo's local authorities collects their money, and it is not yet in service: [the PDRCL, a platform to move local-authority revenue collection online, reached final validation at a workshop closing on 14 February 2026](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226), [run by the state's systems agency ACSI](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226) under the finance ministry.
+The first digital system built for Congo's local authorities collects their money, and it has reached a pilot at one market: [the PDRCL, a platform to move local-authority revenue collection online, reached final validation at a workshop closing on 14 February 2026](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226), [run by the state's systems agency ACSI](https://www.finances.gouv.cg/fr/articles/cloture-atelier-PDRCL_140226) under the finance ministry, [was presented to Brazzaville city hall in April 2026](https://acsi.cg/actualites/presentation-de-la-plateforme-pdrcl-a-la-mairie-de-brazzaville-par-lacsi/), and [went to a pilot phase at Pointe-Noire's Ndjindji central market in May 2026, with a trader database, a field-collector application and a citizen portal](https://www.vox.cg/lacsi-deploie-la-plateforme-de-dematerialisation-des-recettes-au-marche-central-de-ndjindji/).
 
 Beneath that the administrative tier runs on its own. [Civil registration is decentralised to municipal officials and still largely kept on paper](https://documents1.worldbank.org/curated/en/804131654274496053/pdf/Congo-Republic-of-Congo-Digital-Acceleration-Project.pdf) (2022). [The interoperability platform is a central-government project, with European Investment Bank and EU support](https://documents1.worldbank.org/curated/en/804131654274496053/pdf/Congo-Republic-of-Congo-Digital-Acceleration-Project.pdf). The one system designed with a municipal authority in the room was still being demonstrated: [ARPCE's national digital addressing platform was shown in October 2024 to a steering committee that includes the cadastre and Brazzaville city hall](https://www.adiac-congo.com/content/economie-postale-la-revolution-de-ladressage-national-touche-au-160394). Where the state does reach people locally it does so as a campaign rather than a service: [uncollected national identity and tax-number cards were handed out through a proximity distribution drive from September 2025](https://www.adiac-congo.com/content/administration-lancement-de-la-campagne-de-distribution-de-proximite-des-cni-et-niu-166913), framed around revision of the electoral roll.
 
