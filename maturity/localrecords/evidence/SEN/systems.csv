@@ -1,0 +1,18 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,TeleDAC / TeleDAc,Télédemande d'Actes Administratifs,permits,,Société Sénégal Numérique S.A. with APIX and the urbanism ministry,"Dakar, Pikine, Guédiawaye, Rufisque; extended to the 52 communes of the Dakar region",2026-09-03-senum-teledac-dematerialisation-actes-administratifs
+SEN,Adressage Numérique National (ANN),Adressage Numérique National,survey,,Ministère des Télécommunications et du Numérique,"national, pilot phase",2026-08-05-adressage-numerique-le-senegal-se-donne-pour-objectif-de-boucler-la-phase-pilote-en-un-an
+SEN,OBFILOC,Observatoire des finances locales,central,,DGCPT (Treasury),601 collectivités territoriales,2026-07-23-aps-dgcpt-obfiloc-observatoire-finances-locales
+SEN,unnamed new application used in some communes of the Dakar region,,,,,some communes of the Dakar region,2026-07-23-aps-dgcpt-obfiloc-observatoire-finances-locales
+SEN,LGEC,Logiciel de Gestion de l'État Civil,civil,,ANEC,"629 civil-status centres, 437 fully deployed",2026-07-21-anec-senegal-etat-davancement-lgec-437-sur-629
+SEN,SAMA ETAT CIVIL,SAMA ETAT CIVIL,civil,,ANEC,online users' platform,2026-07-21-anec-senegal-etat-davancement-lgec-437-sur-629
+SEN,NEKKAL civil-status programme systems,NEKKAL,civil,,"ANEC, EU-financed, executed by Civipol and Enabel",400 civil-status centres interconnected,2026-06-29-aps-nekkal-avancees-modernisation-etat-civil
+SEN,PRODAP,Projet de promotion de la digitalisation de l'administration publique,,,Sénégal numérique SA (SENUM),"pilot in six communes: Mbour, Dakar-Plateau, Ngor, Rufisque, Kaffrine, Kaolack",2026-04-25-aps-prodap-phase-pilote-mbour-six-communes
+SEN,NEKKAL application,NEKKAL,civil,,ANEC,400 civil-status centres,2025-11-05-aps-anec-nekkal-seul-outil-reconnu-20-millions-actes
+SEN,unauthorised civil-status software,logiciels clandestins,civil,,some mayors,communes,2025-11-05-aps-anec-nekkal-seul-outil-reconnu-20-millions-actes
+SEN,Cadastre / NICAD,Cadastre (DGID); NICAD parcel identifier,central,,Direction générale des Impôts et des Domaines (DGID),national; counts parcels liable to the property tax,2025-09-01-geosenegal-bulletin-geospatial-septembre-2025
+SEN,RNEC / LGEC,Registre national de l'État civil; Logiciel de Gestion de l'État Civil,civil,,ANEC,400 civil-status centres; 235 in service,2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall
+SEN,PAGCF property tax application,new property tax management system (PAGCF),central,"web and Android application, built with a local software developer","DGID (Ministry of Finance), with Paris School of Economics; DGCPT collects local taxes","Dakar: 97 cadastral sections, 40,000+ parcels",2025-01-01-digital-tool-property-tax-dakar
+SEN,SenGec,plateforme de gestion électronique du Courrier,documents,,Sénégal Numérique SA,to be deployed to communes under the AMS agreement,2024-02-12-senum-ams-informatisation-des-mairies
+SEN,tax-recovery software and revenue collection scheme for mairies,logiciels pour la récupération optimisée des taxes; dispositif de collecte des taxes et recettes,,,Sénégal Numérique SA,"communes, announced in the 9 February 2024 agreement with the AMS",2024-02-12-senum-ams-informatisation-des-mairies
+SEN,existing mairie management software,logiciel existant de gestion des Mairies,,,,communes; to be upgraded,2024-02-12-senum-ams-informatisation-des-mairies
+SEN,SIB / Télépaiement platform,Système d'information bancaire (Trésor); plateforme unique de Télépaiement,central,,Trésor public national,national Treasury,2021-03-01-bceao-guide-digitalisation-paiements-etats-membres-uemoa

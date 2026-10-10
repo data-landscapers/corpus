@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MAR,revenue,governance,qualifier,owner:ministry,2020-05-19,MAR-007,,nothing dated since 2023-10-10
+MAR,revenue,recorded,coverage,,,,,nothing held
+MAR,revenue,held,coverage,shared,2025-08-06,MAR-001;MAR-004;MAR-006,,
+MAR,revenue,last12,qualifier,advancing,2025-08-06,MAR-003,,nothing dated since 2025-10-10
+MAR,revenue,authorities,coverage,share:60.9%,2020-05-19,MAR-005,MAR-002=count:100,

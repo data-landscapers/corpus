@@ -1,0 +1,31 @@
+{
+ "slug": "2024-02-12-senum-ams-informatisation-des-mairies",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SenGec",
+   "country_label": "plateforme de gestion électronique du Courrier",
+   "class": "documents",
+   "platform": "",
+   "owner": "Sénégal Numérique SA",
+   "tiers": "to be deployed to communes under the AMS agreement"
+  },
+  {
+   "system": "tax-recovery software and revenue collection scheme for mairies",
+   "country_label": "logiciels pour la récupération optimisée des taxes; dispositif de collecte des taxes et recettes",
+   "class": "",
+   "platform": "",
+   "owner": "Sénégal Numérique SA",
+   "tiers": "communes, announced in the 9 February 2024 agreement with the AMS"
+  },
+  {
+   "system": "existing mairie management software",
+   "country_label": "logiciel existant de gestion des Mairies",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "communes; to be upgraded"
+  }
+ ],
+ "note": "Partnership announcement only; tax-collection software is promised with no description of what it records, so unclassified and no fact."
+}

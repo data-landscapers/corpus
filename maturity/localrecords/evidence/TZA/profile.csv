@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TZA,revenue,governance,qualifier,owner:ministry;plan:current,2026-06-11,TZA-002;TZA-003,TZA-005=owner:ministry;TZA-008=owner:ministry;TZA-010=owner:ministry,not stated: finance
+TZA,revenue,recorded,coverage,register,2025-06-30,TZA-006,TZA-009=receipts,
+TZA,revenue,held,coverage,shared,2025,TZA-004;TZA-007,TZA-001=paper,
+TZA,revenue,last12,qualifier,,,,,nothing held
+TZA,revenue,authorities,coverage,,,,,nothing held

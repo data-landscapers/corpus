@@ -1,0 +1,14 @@
+{
+  "slug": "2023-01-01-sle-public-financial-management-reform-strategy-and-plan-2023-2027",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "held", "value": "paper", "fact": "The strategy cites the 2020 Auditor General's report as finding in councils receipt books not submitted for inspection, receipts issued with blank duplicates and revenue not banked or accounted for, so councils recorded own-source revenue on paper receipts.", "as_of": "2020", "date_precision": "year", "system": "Council receipt books", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "none", "fact": "The strategy cites the 2020 Auditor General's report as finding that councils lacked a database for registered businesses and properties.", "as_of": "2020", "date_precision": "year", "system": "Council receipt books", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "plan:current", "fact": "The Ministry of Finance PFM Reform Strategy 2023-2027 sets as an objective a robust fiscal cadastral system for property tax administration, rolled out in phases starting with the city councils, with the UK FCDO named as supporting fiscal decentralisation and property tax.", "as_of": "2023", "date_precision": "year", "system": "Fiscal cadastral system", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Fiscal cadastral system", "country_label": "fiscal cadastral system for property tax", "class": "revenue", "platform": "", "owner": "Ministry of Finance", "tiers": "city councils first, planned"},
+    {"system": "Council receipt books", "country_label": "receipt books", "class": "revenue", "platform": "paper", "owner": "local councils", "tiers": "councils, as of 2020"},
+    {"system": "Integrated Financial Management Information System", "country_label": "IFMIS", "class": "accounts", "platform": "", "owner": "Ministry of Finance", "tiers": "central government"}
+  ],
+  "note": ""
+}

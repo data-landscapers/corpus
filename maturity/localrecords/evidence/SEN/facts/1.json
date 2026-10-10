@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-03-senum-teledac-dematerialisation-actes-administratifs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TeleDAC / TeleDAc",
+   "country_label": "Télédemande d'Actes Administratifs",
+   "class": "permits",
+   "platform": "",
+   "owner": "Société Sénégal Numérique S.A. with APIX and the urbanism ministry",
+   "tiers": "Dakar, Pikine, Guédiawaye, Rufisque; extended to the 52 communes of the Dakar region"
+  }
+ ],
+ "note": "Building-permit and administrative-act procedures; no bill or payment stated, so no revenue fact."
+}

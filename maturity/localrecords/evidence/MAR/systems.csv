@@ -1,0 +1,20 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,Système intégré de taxation (SIT),système intégré de taxation,central,,Direction générale des impôts,"national, centralised; its taxpayer registration module is interconnected with a local taxation module",2025-11-01-maroc-tadat-rapport-evaluation-performance
+MAR,GIR-CT,Système de gestion intégrée des recettes des collectivités territoriales (Integrated Revenue Management System for Local Authorities),revenue,,,"national system, interfaced in more than 100 large municipalities",2025-09-17-morocco-world-bank-ennajaa-isr-interoperability
+MAR,Online platform to fill and pay local taxes,online platform to fill and pay local taxes,central,,State,local taxes managed by the State; at test phase in August 2025,2025-09-17-morocco-world-bank-ennajaa-isr-interoperability
+MAR,GID,GID accounting and budget system,accounts,,,local authorities; extension to AREPs off-track,2025-09-17-morocco-world-bank-ennajaa-isr-interoperability
+MAR,GIR-CT,"Gestion Intégrée de la Recette, Collectivités Territoriales",revenue,,Trésorerie Générale du Royaume (TGR),municipalities; target at least 100 large municipalities,2021-11-22-world-bank-ennajaa-program-appraisal
+MAR,GID-CT,"Gestion Intégrée de la Dépense, Collectivités Territoriales",accounts,,TGR,local governments,2021-11-22-world-bank-ennajaa-program-appraisal
+MAR,"Tax base management for TSC, TH and TP","taxe sur les services communaux, taxe d'habitation, taxe professionnelle",central,,DGI (tax base) and TGR (collection),"municipalities, on their behalf; 42 percent of revenues of the ten largest in 2017",2021-11-22-world-bank-ennajaa-program-appraisal
+MAR,GIR,GIR (Gestion intégrée des recettes),,,Ministry of the Interior / DGCT,collectivités territoriales,2021-01-01-maroc-dgct-strategie-transformation-digitale-collectivites-territoriales
+MAR,GID,GID (Gestion intégrée des dépenses),accounts,,Ministry of the Interior / DGCT,collectivités territoriales,2021-01-01-maroc-dgct-strategie-transformation-digitale-collectivites-territoriales
+MAR,Rokhas,Rokhas.ma,permits,,Ministry of the Interior / DGCT,collectivités territoriales,2021-01-01-maroc-dgct-strategie-transformation-digitale-collectivites-territoriales
+MAR,Chikaya,Chikaya.ma,,,Ministry of the Interior / DGCT,collectivités territoriales,2021-01-01-maroc-dgct-strategie-transformation-digitale-collectivites-territoriales
+MAR,Watiqa,Watiqa.ma,,,Ministry of the Interior / DGCT,collectivités territoriales,2021-01-01-maroc-dgct-strategie-transformation-digitale-collectivites-territoriales
+MAR,Indimaj,Indimaj (actes RH),accounts,,Ministry of the Interior / DGCT,collectivités territoriales,2021-01-01-maroc-dgct-strategie-transformation-digitale-collectivites-territoriales
+MAR,GIR-CT,Gestion intégrée des recettes des collectivités territoriales (GIR-CT),revenue,,Ministry of the Interior / DGCT with the TGR,"local authorities, wholesale markets (2 of 38), abattoirs (5 of 65)",2020-05-19-maroc-circulaire-interieur-32-dematerialisation-zero-papier
+MAR,GID-CT,GID-CT,accounts,,Ministry of the Interior / DGCT,local authorities,2020-05-19-maroc-circulaire-interieur-32-dematerialisation-zero-papier
+MAR,Rokhas,ROKHAS,permits,,Ministry of the Interior / DGCT,subset of regions,2020-05-19-maroc-circulaire-interieur-32-dematerialisation-zero-papier
+MAR,Bureau d'Ordre Digital,Bureau d'Ordre Digital,documents,,Ministry of the Interior with ADD,240 local authorities,2020-05-19-maroc-circulaire-interieur-32-dematerialisation-zero-papier
+MAR,@ujour-idm@j,@ujour-idm@j,accounts,,Ministry of the Interior / DGCT,local authorities,2020-05-19-maroc-circulaire-interieur-32-dematerialisation-zero-papier
+MAR,SGEC,Système de Gestion de l'État Civil,civil,,Ministry of the Interior,two regions,2020-05-19-maroc-circulaire-interieur-32-dematerialisation-zero-papier

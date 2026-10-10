@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-05-adressage-numerique-le-senegal-se-donne-pour-objectif-de-boucler-la-phase-pilote-en-un-an",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Adressage Numérique National (ANN)",
+   "country_label": "Adressage Numérique National",
+   "class": "survey",
+   "platform": "",
+   "owner": "Ministère des Télécommunications et du Numérique",
+   "tiers": "national, pilot phase"
+  }
+ ],
+ "note": "Addressing project (survey class); names local taxation only as a benefit, no revenue system."
+}

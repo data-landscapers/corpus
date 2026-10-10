@@ -1,0 +1,58 @@
+{
+ "slug": "2022-11-01-dgct-midec-rapport-capacites-institutionnelles-communes-mdp",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "El Mouhassil was tested and provided to communes by the Direction Generale des Collectivites Territoriales of the Ministry of the Interior and Decentralisation, with partner support from Germany, France and the World Bank; undated, so the report date 2022-11 is used.",
+   "as_of": "2022-11",
+   "date_precision": "month",
+   "system": "El Mouhassil",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "El Mouhassil",
+   "country_label": "El Mouhassil",
+   "class": "revenue",
+   "platform": "",
+   "owner": "DGCT, Ministry of the Interior and Decentralisation",
+   "tiers": "communes (optional use)"
+  },
+  {
+   "system": "SIGeL",
+   "country_label": "Systeme integre de gestion des finances locales",
+   "class": "accounts",
+   "platform": "integrates Elbeledi and Alhazen",
+   "owner": "DGCT and Ministry of Finance",
+   "tiers": "communes; no financial operation outside SIGeL from 6 May 2022"
+  },
+  {
+   "system": "Elbeledi",
+   "country_label": "Elbeledi",
+   "class": "accounts",
+   "platform": "",
+   "owner": "DGCT",
+   "tiers": "authorising officers of local budgets"
+  },
+  {
+   "system": "Alhazen",
+   "country_label": "Alhazen",
+   "class": "accounts",
+   "platform": "",
+   "owner": "DGCT",
+   "tiers": "wilaya treasurers and municipal receivers"
+  },
+  {
+   "system": "Kachel",
+   "country_label": "Kachel",
+   "class": "documents",
+   "platform": "toolbox of independent applications",
+   "owner": "DGCT",
+   "tiers": "communes (acts and administration, communal assets, HR, mail and archiving)"
+  }
+ ],
+ "note": ""
+}

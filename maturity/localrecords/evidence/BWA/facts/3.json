@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-botswana-govtech-digital-identity-index",
+  "facts": [],
+  "systems": [
+    {"system": "Lekgetho Live", "country_label": "Lekgetho Live - Tax Management & Revenue Collection System", "class": "central", "platform": "", "owner": "Botswana Unified Revenue Service (BURS)", "tiers": "national tax administration (GTMI data year 2022)"}
+  ],
+  "note": "GTMI country sheet names only the national tax management platform; no local government revenue record stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-23-benin-economic-governance-service-delivery-isr",
+  "facts": [],
+  "systems": [
+    {"system": "DGI electronic tax system", "country_label": "electronic tax system", "class": "central", "platform": "", "owner": "Direction Générale des Impôts", "tiers": "national; property tax revenue collected through digital payments is a World Bank results indicator (35 per cent against a 40 per cent target at 31 Dec 2024)"}
+  ],
+  "note": "Property tax is reported by the national tax directorate, so the figures describe a central system, not a local government record."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-26-diffa-naneye-yarda-digital-tax",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "UNDP Niger says the commune urbaine of Diffa put Naneye Yarda into service on 11 December 2025, a system covering the whole tax cycle: a digital census of taxable establishments by agents with tablets, automatic tax calculation, tax notices with QR codes, and payment by electronic terminals carried by tax collectors.", "as_of": "2025-12-11", "date_precision": "day", "system": "Naneye Yarda", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "UNDP Niger says Diffa is the first region outside the capital to deploy the full digitalisation of municipal taxation; it gives no count of communes in the country, and the document names no other commune outside Niamey.", "as_of": "2025-12-11", "date_precision": "day", "system": "Naneye Yarda", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "UNDP Niger reports the commune urbaine of Diffa commissioned the Naneye Yarda municipal tax system on 11 December 2025, replacing manual collection with incomplete taxpayer files.", "as_of": "2025-12-11", "date_precision": "day", "system": "Naneye Yarda", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Naneye Yarda", "country_label": "Naneye Yarda (Confiance)", "class": "revenue", "platform": "", "owner": "Commune urbaine de Diffa, with technical support from ANSI and UNDP", "tiers": "commune urbaine of Diffa, the first outside the capital"}
+  ],
+  "note": ""
+}

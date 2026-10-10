@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-gha-2024-011-01109-01109001",
+  "facts": [],
+  "systems": [
+    {"system": "Land Use Planning and Management Information System (LUPMIS)", "country_label": "LUPMIS", "class": "land", "platform": "", "owner": "Land Use and Spatial Planning Authority", "tiers": "national; to be redeveloped as a dynamic platform for spatial planning, development control and street addressing (2024 commitment)"}
+  ],
+  "note": "Budget line for spatial planning; the digital system named is a land and planning one, not a revenue record."
+}

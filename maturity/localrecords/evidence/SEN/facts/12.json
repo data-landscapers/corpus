@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-05-aps-anec-nekkal-seul-outil-reconnu-20-millions-actes",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NEKKAL application",
+   "country_label": "NEKKAL",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": "400 civil-status centres"
+  },
+  {
+   "system": "unauthorised civil-status software",
+   "country_label": "logiciels clandestins",
+   "class": "civil",
+   "platform": "",
+   "owner": "some mayors",
+   "tiers": "communes"
+  }
+ ],
+ "note": "Civil registration only; out of scope."
+}

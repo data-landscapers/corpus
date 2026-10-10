@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-17-ohlgs-dlrev-software-municipal-assemblies-training",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "The Office of the Head of the Local Government Service held two 2-day workshops, 13-14 July in Cape Coast and 16-17 July 2026 in Ho, training about 150 officers of Regional Co-ordinating Councils and participating Municipal Assemblies in six regions on the dLRev revenue management software.", "as_of": "2026-07", "date_precision": "month", "system": "dLRev", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The Office of the Head of the Local Government Service, a state body, runs the dLRev training and describes it as part of its capacity-building mandate, with the Head of Service urging Assemblies to adopt ICT revenue management (document published 2026-07-17).", "as_of": "2026-07", "date_precision": "month", "system": "dLRev", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "The dLRev training was held under the Ghana Secondary Cities Support Programme, a World Bank-supported programme that covers revenue administration and computerisation in participating Municipal Assemblies.", "as_of": "2026-07", "date_precision": "month", "system": "dLRev", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "dLRev", "country_label": "dLRev (dL-Rev) revenue management software", "class": "revenue", "platform": "", "owner": "Office of the Head of the Local Government Service", "tiers": "participating Municipal Assemblies and Regional Co-ordinating Councils in Central, Western, Western North, Eastern, Volta and Oti regions (training); number of assemblies not stated"}
+  ],
+  "note": ""
+}

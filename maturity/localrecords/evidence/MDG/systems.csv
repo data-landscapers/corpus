@@ -1,0 +1,6 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,carte marchand digitalisation of markets,digitalisation des marchés (carte marchand),revenue,"tablet registration, chip and QR cards, electronic payment terminals",Commune Urbaine d'Antananarivo,Antananarivo municipal markets,2026-10-08-mdg-allafrica-tana-digitalisation-marches
+MDG,SIGRNF,Système d'Information de Gestion des Recettes Non Fiscales,central,"mobile money (Mvola, Orange Money, Airtel Money)",Ministère de l'Économie et des Finances,"non-tax revenues of the State, progressive nationwide deployment",2025-05-09-sigrnf-lancement-mef-gov-mg
+MDG,SAFI,Système d'Administration Fiscale Intégré,central,,Direction Générale des Impôts,manages State taxes and local taxes; national,2024-06-18-decret-1253-2024-mef-safi-digitalisation-fiscale
+MDG,SALOHY RNF,logiciel SALOHY RNF,revenue,software,,communes; plan activity 3119 is to support communes in using it for computerised collection of non-tax revenues,2024-06-01-mdg-plan-national-de-decentralisation-emergente-annexe-au-decret-n2023-932
+MDG,SIFC,Système d'Information Financière des Communes,accounts,,State,communes; connection planned,2024-06-01-mdg-plan-national-de-decentralisation-emergente-annexe-au-decret-n2023-932

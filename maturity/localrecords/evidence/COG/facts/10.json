@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-30-cog-presentation-de-la-plateforme-pdrcl-a-la-mairie-de-brazzaville-par-lac",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "ACSI presented PDRCL to the Mayor of Brazzaville on 30 April 2026 as recording every transaction in real time through field agents' mobile terminals, with a dashboard for the municipal authority; no register of payers is stated.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "PDRCL",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "ACSI made the official presentation of PDRCL to the Mayor of Brazzaville on 30 April 2026, after the February validation.",
+   "as_of": "2026-04-30",
+   "date_precision": "day",
+   "system": "PDRCL",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PDRCL",
+   "country_label": "Plateforme de dématérialisation des recettes des collectivités locales",
+   "class": "revenue",
+   "platform": "mobile terminals and dashboard",
+   "owner": "ACSI",
+   "tiers": "municipal; Brazzaville presented"
+  }
+ ],
+ "note": ""
+}

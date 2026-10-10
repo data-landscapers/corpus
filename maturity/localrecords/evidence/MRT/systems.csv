@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MRT,SIGeL,Systeme Integre de Gestion Locale,accounts,,"Direction des Finances Locales, Direction Generale du Tresor et de la Comptabilite Publique",urban and rural communes; generalised by joint circular 005-2022 MIDEC/MF,2026-07-01-tresor-dfl-note-conjoncture-finances-locales-2025-sigel
+MRT,SIGeL,Systeme Integre de Gestion des Finances Locales,accounts,,Direction des Finances Locales and Direction Generale des Collectivites Territoriales,communes and regions; 90 percent of territorial collectivities by end 2023,2025-01-01-mrt-evaluation-de-la-performance-de-la-gestion-des-finances-publiques-de-l
+MRT,Leegoud,plateforme Leegoud,land,,Direction Generale des Domaines et du Patrimoine de l'Etat,"national; sample of consultations from Teyarett, Tevragh-Zeina and Dar Naim",2024-05-01-etude-outils-renforcement-recettes-dgdpe-mauritanie
+MRT,El Mouhassil,El Mouhassil,revenue,,"DGCT, Ministry of the Interior and Decentralisation",communes (optional use),2022-11-01-dgct-midec-rapport-capacites-institutionnelles-communes-mdp
+MRT,SIGeL,Systeme integre de gestion des finances locales,accounts,integrates Elbeledi and Alhazen,DGCT and Ministry of Finance,communes; no financial operation outside SIGeL from 6 May 2022,2022-11-01-dgct-midec-rapport-capacites-institutionnelles-communes-mdp
+MRT,Elbeledi,Elbeledi,accounts,,DGCT,authorising officers of local budgets,2022-11-01-dgct-midec-rapport-capacites-institutionnelles-communes-mdp
+MRT,Alhazen,Alhazen,accounts,,DGCT,wilaya treasurers and municipal receivers,2022-11-01-dgct-midec-rapport-capacites-institutionnelles-communes-mdp
+MRT,Kachel,Kachel,documents,toolbox of independent applications,DGCT,"communes (acts and administration, communal assets, HR, mail and archiving)",2022-11-01-dgct-midec-rapport-capacites-institutionnelles-communes-mdp

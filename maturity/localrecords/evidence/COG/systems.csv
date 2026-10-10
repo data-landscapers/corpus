@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COG,PDRCL,Plateforme de Dématérialisation des Recettes des Collectivités Locales,revenue,,"ACSI (Agence congolaise des systèmes d'information), under the finance ministry","Local governments (back office), market collectors, and a public web and mobile module for taxpayers",2026-02-12-cog-atelier-pdrcl-acsi-mfbpp
+COG,PDRCL,Plateforme de dématérialisation des recettes des collectivités locales,revenue,,ACSI,local collectivities; no rollout stated,2026-08-11-systemes-information-etat-plateformes-presentees-deputes
+COG,CURS,Caisse unique des recettes de service,central,,ACSI,state service revenue,2026-08-11-systemes-information-etat-plateformes-presentees-deputes
+COG,SIGE,Système intégré de gestion de l'éducation,,,ACSI,,2026-08-11-systemes-information-etat-plateformes-presentees-deputes
+COG,SUPILA,Système unique de plaque d'immatriculation et de lecture automatique,,,ACSI,,2026-08-11-systemes-information-etat-plateformes-presentees-deputes
+COG,Sifec,Système intégré des faits d'état-civil,civil,,ACSI,national,2026-08-11-systemes-information-etat-plateformes-presentees-deputes
+COG,FOUTA,"FOUTA, switch monétique national et souverain",central,,Ministry of finance (Treasury),"all public revenue including that of local collectivities, paid into the Treasury's BEAC account",2026-06-11-jo-2026-24-arrete-1009-paiement-recettes-publiques-plateforme-fouta
+COG,PDRCL,Plateforme de dématérialisation des recettes des collectivités locales,revenue,"in-house build, back-office, field-collection and public modules",ACSI,local collectivities; Brazzaville and Pointe-Noire consulted,2026-02-14-cog-cloture-atelier-pdrcl-acsi-mfbpp
+COG,PDRCL,Plateforme de dématérialisation des recettes des collectivités locales,revenue,mobile terminals and dashboard,ACSI,municipal; Brazzaville presented,2026-04-30-cog-presentation-de-la-plateforme-pdrcl-a-la-mairie-de-brazzaville-par-lac

@@ -1,0 +1,10 @@
+{
+  "slug": "2023-05-10-pddsp-plan-directeur-digitalisation-services-publics-2023-2033",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "plan:current", "fact": "The national digitalisation master plan PDDSP 2023-2033, adopted by the Council of Ministers on 10 May 2023, includes an initiative to digitalise communal tax collection, run by the communal administrator with the public treasury and transacting from mobile terminals.", "as_of": "2023-05", "date_precision": "month", "system": "Numérisation de la taxe communale", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Numérisation de la taxe communale", "country_label": "Numérisation de la taxe communale", "class": "revenue", "platform": "mobile terminals", "owner": "communal administrator with the public treasury", "tiers": "communes"}
+  ],
+  "note": ""
+}

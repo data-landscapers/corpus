@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-23-ghana-ohlgs-dlrev-350-assembly-staff-trained",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "OHLGS launched a training workshop on the District Local Revenue (dL-Rev) software for 350 staff of 35 Municipal Assemblies, the first batch from 16 to 20 February 2026 in Kumasi.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "dL-Rev",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Office of the Local Government Service, a state body, runs the dL-Rev training under the Ghana Secondary Cities Support Programme.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "dL-Rev",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dL-Rev",
+   "country_label": "District Local Revenue (dL-Rev) software",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Office of the Head of the Local Government Service",
+   "tiers": "35 participating Municipal Assemblies of the Ghana Secondary Cities Support Programme (trained); MMDAs generally"
+  }
+ ],
+ "note": ""
+}

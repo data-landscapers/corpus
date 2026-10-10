@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-12-sierra-leone-ncra-crvs-decade-investment-call",
+  "facts": [],
+  "systems": [
+    {"system": "National Civil Registration Authority civil registration and identity system", "country_label": "NCRA", "class": "civil", "platform": "", "owner": "NCRA", "tiers": "national"}
+  ],
+  "note": "Civil registration and identity only; nothing on local government revenue records."
+}

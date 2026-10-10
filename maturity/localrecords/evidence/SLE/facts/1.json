@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-sle-thisday-free-nationwide-land-registration-lmis",
+  "facts": [],
+  "systems": [
+    {"system": "Land Management Information System (LMIS)", "country_label": "LMIS", "class": "land", "platform": "", "owner": "Ministry of Lands", "tiers": "national"}
+  ],
+  "note": "Land registration and titles only; no local government revenue record stated."
+}

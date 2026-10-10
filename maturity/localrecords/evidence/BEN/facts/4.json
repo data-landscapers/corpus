@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-01-messager-impots-47-convergence-plateformes",
+  "facts": [],
+  "systems": [
+    {"system": "DGI e-services platform", "country_label": "plateforme e-services", "class": "central", "platform": "", "owner": "Direction Générale des Impôts", "tiers": "national; the Taxe Foncière unique appears among taxes under the national tax code"}
+  ],
+  "note": "National tax directorate newsletter; the land tax appears as a national tax, with no local government record stated."
+}

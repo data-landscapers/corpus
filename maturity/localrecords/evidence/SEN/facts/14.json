@@ -1,0 +1,15 @@
+{
+ "slug": "2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RNEC / LGEC",
+   "country_label": "Registre national de l'État civil; Logiciel de Gestion de l'État Civil",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": "400 civil-status centres; 235 in service"
+  }
+ ],
+ "note": "Civil registration only; out of scope."
+}

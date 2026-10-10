@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)",
+  "facts": [],
+  "systems": [
+    {"system": "Municipal Property Tax System", "country_label": "MPTS", "class": "revenue", "platform": "", "owner": "Ministry of Finance", "tiers": "22 local councils (World Bank projects supporting it)"},
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "accounts", "platform": "", "owner": "Ministry of Finance", "tiers": "local government"},
+    {"system": "Integrated Tax Administration System", "country_label": "ITAS", "class": "central", "platform": "", "owner": "National Revenue Authority", "tiers": "national"},
+    {"system": "Government Service Bus prototype", "country_label": "GSB", "class": "enabling", "platform": "X-Road or similar", "owner": "Ministry of Finance", "tiers": "national"},
+    {"system": "LoMEMIS", "country_label": "LoMEMIS", "class": "", "platform": "", "owner": "Ministry of Finance", "tiers": "local"}
+  ],
+  "note": "The MPTS is named as supported by ongoing projects, with no statement of what it records, where it is live or how many councils; year-only date."
+}

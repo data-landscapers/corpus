@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-building-a-growth-friendly-tax-environment-agt-angola",
+  "facts": [],
+  "systems": [
+    {"system": "SIGT (Sistema Integrado de Gestão Tributária)", "country_label": "SIGT", "class": "central", "platform": "", "owner": "AGT", "tiers": "national; other settling entities such as provincial governments feed payments"},
+    {"system": "RUPE (Single State Payments Reference)", "country_label": "RUPE", "class": "", "platform": "", "owner": "AGT / MINFIN", "tiers": "national"}
+  ],
+  "note": "AGT presentation on national tax administration; the only local mention is a conclusion that a new parafiscal model should finance municipalities, with no system stated."
+}

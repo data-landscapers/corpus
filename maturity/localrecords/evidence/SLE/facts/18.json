@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-01-sierra-leone-mof-pfm-reform-progress-report-2024",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "none", "fact": "The Fiscal Decentralisation Division told local council leaders on 29 February 2024 that the Ministry was supporting development of an upgraded property tax system to be rolled out to all local councils in due course, and councils named outdated cadastral systems among their collection problems; no council is stated to run the upgraded system.", "as_of": "2024-02-29", "date_precision": "day", "system": "Upgraded property tax system", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Upgraded property tax system", "country_label": "upgraded property tax system", "class": "revenue", "platform": "", "owner": "Ministry of Finance, Fiscal Decentralisation Division", "tiers": "planned for all local councils"},
+    {"system": "Petra Financial Accounting System", "country_label": "Petra", "class": "accounts", "platform": "", "owner": "local councils", "tiers": "local councils"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MOZ,e-SGA (Sistema de Gestao Autarquica),Sistema Informatico para a Gestao Autarquica,revenue,,"CEDSIF, IP for ANAMM",municipalities (autarquias),2026-08-08-cedsif-sistema-de-gestao-autarquica-e-sga-especificacao
+MOZ,SESPE (Servico de Pagamentos ao Estado),SESPE,central,e-SISTAFE,Ministry of Finance,"state bodies, provincial and district decentralised bodies and municipalities (autarquias)",2025-11-01-mef-cge-2024-discurso-sespe
+MOZ,SISPGIA,Sistema de Processamento e Gestao do Imposto Predial Autarquico,revenue,,Maputo Municipal Council,Maputo municipality,2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal
+MOZ,SISTAE,Sistema de Taxas por Actividade Economica,,,,,2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal
+MOZ,SIRR,Sistema de Informacao de Recolha de Receitas,,,,,2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal
+MOZ,SIGERE,Sistema de Informacao para Gestao de Receitas,,,,Maputo municipality,2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal
+MOZ,M17,Sistema Gestao Orcamental,accounts,,,,2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal
+MOZ,SGRSU,Sistema de Gestao de Residuos Solidos Urbanos,,,,,2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal
+MOZ,SiGIT,Sistema de Gestao de Terras,land,,,,2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal
+MOZ,SIGEF,Sistema de Informacao de Gestao Financeira,accounts,,,municipalities,2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal
+MOZ,Projecto Município Digital,projecto de transformação digital nos 65 municípios,,,MCTD and ANAMM,65 municipalities (planned); MoU signed 21 February 2025,2025-02-22-jornal-noticias-digitalizacao-moderniza-gestao-municipal-no-pais
+MOZ,Sistemas de arrecadação e gestão tributária,sistemas de arrecadação e gestão tributária,,,ANAMM,municipalities; no count given,2025-02-22-jornal-noticias-digitalizacao-moderniza-gestao-municipal-no-pais
+MOZ,Secretarias virtuais municipais,secretarias virtuais,web,,ANAMM / MCTD,municipalities,2025-02-22-jornal-noticias-digitalizacao-moderniza-gestao-municipal-no-pais
+MOZ,Sistema Nacional de Gestão Documental,Sistema Nacional de Gestão Documental,documents,,MCTD,municipalities (to be adopted),2025-02-22-jornal-noticias-digitalizacao-moderniza-gestao-municipal-no-pais

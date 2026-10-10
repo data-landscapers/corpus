@@ -80,6 +80,8 @@ The id enters `lookups/indicators.csv` at acceptance. `dpi.pay--revenue-collecti
 
 **Receipts alone stop at stage 3.** A local government that issues electronic receipts and holds no register of payers cannot say who has not paid.
 
+**Fixed at R3** (`ladder-test.csv`, `corrections.csv`): stages 2 and 3 are reached; 1, 4 and 5 by nobody before the search. A system in use in a counted local government, with what it records not stated, is read as `receipts`. Staff trained on a system, or a system made available, is `equipped`. Paper in some local governments does not unsay a count of others recording.
+
 ## 5. The norm
 
 The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital Transformation Strategy, with the decentralisation charter's Article 16. The Strategy asks states to "establish electronic government registers or digitalise existing ones, starting with an electronic population registry, eBusiness register and Land Use register", and to let organisations "reuse core registers".
@@ -94,8 +96,8 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 ## 7. Tasks, in order
 
 - [x] **R1. Bill's rulings**: the six proposals stand, 2026-10-10.
-- [ ] **R2. Review all 54 countries**, method §4.
-- [ ] **R3. Test and fix the ladder.**
+- [x] **R2. Review all 54 countries**, method §4: 566 documents, 117 facts, 20 countries with evidence.
+- [x] **R3. Test and fix the ladder**: 3 facts withdrawn.
 - [ ] **R4. Search and hand over**, method §5.
 - [ ] **R5. Re-read and stage.**
 - [ ] **R6. Write, render and lint.**

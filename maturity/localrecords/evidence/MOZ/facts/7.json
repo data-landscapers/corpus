@@ -1,0 +1,12 @@
+{"slug":"2020-09-01-pdul-avaliacao-rapida-sistemas-informacao-gestao-financeira-municipal","facts":[
+{"sub_indicator":"revenue","aspect":"recorded","value":"register","fact":"A September 2020 rapid assessment for the Ministry of Economy and Finance describes SISPGIA, a municipal property tax system in the Maputo municipality built in 2009, with modules for a taxpayer register, taxpayer queries and payment of taxes and fees.","as_of":"2020-09","date_precision":"month","system":"SISPGIA","class":"revenue"}],
+"systems":[
+{"system":"SISPGIA","country_label":"Sistema de Processamento e Gestao do Imposto Predial Autarquico","class":"revenue","platform":"","owner":"Maputo Municipal Council","tiers":"Maputo municipality"},
+{"system":"SISTAE","country_label":"Sistema de Taxas por Actividade Economica","class":"","platform":"","owner":"","tiers":""},
+{"system":"SIRR","country_label":"Sistema de Informacao de Recolha de Receitas","class":"","platform":"","owner":"","tiers":""},
+{"system":"SIGERE","country_label":"Sistema de Informacao para Gestao de Receitas","class":"","platform":"","owner":"","tiers":"Maputo municipality"},
+{"system":"M17","country_label":"Sistema Gestao Orcamental","class":"accounts","platform":"","owner":"","tiers":""},
+{"system":"SGRSU","country_label":"Sistema de Gestao de Residuos Solidos Urbanos","class":"","platform":"","owner":"","tiers":""},
+{"system":"SiGIT","country_label":"Sistema de Gestao de Terras","class":"land","platform":"","owner":"","tiers":""},
+{"system":"SIGEF","country_label":"Sistema de Informacao de Gestao Financeira","class":"accounts","platform":"","owner":"","tiers":"municipalities"}],
+"note":""}

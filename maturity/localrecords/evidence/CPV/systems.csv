@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,SIM 2.0,Sistema de Informação Municipal (SIM),accounts,,Municipalities,"Operational in all municipalities; focused on accounting, financial management and budget execution (allocation of revenues and expenses), described as obsolete",2025-01-01-tor-simple-territory-management
+CPV,SIMple Territory Management modules,SIMple,revenue,,"Finance ministry special projects unit, World Bank financed","Municipalities; planned modules for cadastre, property assessment and property tax collection",2025-01-01-tor-simple-territory-management
+CPV,Documento Único de Cobrança (DUC),Documento Único de Cobrança,central,,"Ministry of Finance, State Treasury","All inflows to the State Treasury from budget execution, payable across the state collection network",2012-06-18-cabo-verde-portaria-28-2012-documento-unico-de-cobranca

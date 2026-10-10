@@ -1,0 +1,13 @@
+{
+  "slug": "2020-01-01-sierra-leone-freetown-city-council-property-reform-faq-plus-codes",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Freetown City Council says its new digital property database holds more than 160,000 properties against 60,000 in the old one, and bills each property and business a Rate Demand Notice with a unique property or business number; the page is undated and the year 2020 is taken from its references to the 2020 tax year.", "as_of": "2020", "date_precision": "year", "system": "Freetown City Council property tax and business licence database", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Freetown City Council says banks automatically credit payments to the owner's council account, so no cash-office receipt is needed, and that arrears from before the reform are being moved into the new property tax database; dated by the 2020 tax year.", "as_of": "2020", "date_precision": "year", "system": "Freetown City Council property tax and business licence database", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "Freetown City Council holds the property and business records in its own database, with the council's rates and licence departments and an Enquiry and Appeals Desk working from them; the page does not say it reports to a national system.", "as_of": "2020", "date_precision": "year", "system": "Freetown City Council property tax and business licence database", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "The page describes the reform in Freetown City Council only; the page's year of 2020 is inferred.", "as_of": "2020", "date_precision": "year", "system": "Freetown City Council property tax and business licence database", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Freetown City Council property tax and business licence database", "country_label": "property tax and business licensing database", "class": "revenue", "platform": "points-based valuation, Plus Codes for addresses", "owner": "Freetown City Council", "tiers": "Freetown City Council"}
+  ],
+  "note": ""
+}

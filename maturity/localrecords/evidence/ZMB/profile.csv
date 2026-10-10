@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZMB,revenue,governance,qualifier,owner:ministry,2026-03,ZMB-003,,"not stated: plan, finance"
+ZMB,revenue,recorded,coverage,receipts,2026-03,ZMB-001,ZMB-006=none,
+ZMB,revenue,held,coverage,paper,2024-05,ZMB-005,,
+ZMB,revenue,last12,qualifier,advancing,2026-03,ZMB-004,,
+ZMB,revenue,authorities,coverage,pilot,2026-03,ZMB-002,,

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-23-aps-dgcpt-obfiloc-observatoire-finances-locales",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OBFILOC",
+   "country_label": "Observatoire des finances locales",
+   "class": "central",
+   "platform": "",
+   "owner": "DGCPT (Treasury)",
+   "tiers": "601 collectivités territoriales"
+  },
+  {
+   "system": "unnamed new application used in some communes of the Dakar region",
+   "country_label": "",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "some communes of the Dakar region"
+  }
+ ],
+ "note": "OBFILOC is a Treasury data platform (central/accounts); the commune application is named with no description of what it does."
+}

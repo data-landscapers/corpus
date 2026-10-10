@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-gha-2026-011-01109-01109004",
+  "facts": [],
+  "systems": [
+    {"system": "Land Use Planning and Management Information System (LUPMIS)", "country_label": "LUPMIS", "class": "land", "platform": "web-based platform, redevelopment supported by GIZ", "owner": "Land Use and Spatial Planning Authority", "tiers": "national; spatial planning, development control and street addressing"}
+  ],
+  "note": "Budget line for spatial planning; the only digital system is a land and planning system, no revenue record."
+}

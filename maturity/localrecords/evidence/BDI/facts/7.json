@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-09-aco-burundi-cartographie-censitaire-apurement-base-rgphae",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "A headline listed on the Association des Communes du Burundi page names 12 communes (Bubanza, Bukinanyana, Kayanza, Ngozi, Kirundo, Muyinga, Cankuzo, Ruyigi, Rutana, Gitega, Makamba, Nyanza) as pilots for E-TAXE digital taxation for communal revenue management; the headline carries no date, so the page's 2026-02-09 date is used.", "as_of": "2026-02", "date_precision": "month", "system": "E-TAXE", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "E-TAXE", "country_label": "E-TAXE", "class": "revenue", "platform": "", "owner": "", "tiers": "12 pilot communes"}
+  ],
+  "note": ""
+}

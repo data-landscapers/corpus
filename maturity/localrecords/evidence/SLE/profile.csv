@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SLE,revenue,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-05-20,SLE-010;SLE-011;SLE-014,SLE-004=finance:donor;SLE-005=owner:vendor;SLE-023=plan:current;SLE-018=plan:current,
+SLE,revenue,recorded,coverage,register,2026-05-20,SLE-001;SLE-007;SLE-019,SLE-017=none,
+SLE,revenue,held,coverage,shared,2026-05-20,SLE-008,SLE-003=local;SLE-015=paper;SLE-016=paper;SLE-020=local,
+SLE,revenue,last12,qualifier,advancing,2026-05-20,SLE-006;SLE-012,,
+SLE,revenue,authorities,coverage,count:3,2025-12,SLE-002,SLE-009=pilot;SLE-013=pilot;SLE-022=none;SLE-021=count:1,

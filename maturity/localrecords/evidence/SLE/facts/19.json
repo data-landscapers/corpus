@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-sierra-leone-mtndp-2024-2030",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "plan:current", "fact": "The national development plan for 2024-2030 lists among its local revenue measures developing a modernised property tax system reflecting current valuation, property roll and a larger tax base, and preparing revenue mobilisation strategies for each local council.", "as_of": "2024-01", "date_precision": "month", "system": "Modernised property tax system", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Modernised property tax system", "country_label": "modernised Property Tax System", "class": "revenue", "platform": "", "owner": "Government of Sierra Leone", "tiers": "local councils, planned"}
+  ],
+  "note": ""
+}

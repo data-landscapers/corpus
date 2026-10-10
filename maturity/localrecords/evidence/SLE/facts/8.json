@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-22-sle-fiscal-decentralisation-policy-implementation-strategy-2025-2029",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The Ministry of Finance policy says the property tax system as implemented in Freetown will be reviewed, adjusted and piloted in other local councils, with a roll-out strategy to follow; Kenema's experience is also to be reviewed.", "as_of": "2025-01-22", "date_precision": "day", "system": "Freetown property tax system", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "plan:current", "fact": "The Fiscal Decentralisation Policy and Implementation Strategy 2025-2029 sets a plan led by the Ministry of Finance's Fiscal Decentralisation Division with the Ministry of Local Government and local councils to run property tax roll-out pilots and develop scaling-up plans, and to update revenue databases for major own-source revenues.", "as_of": "2025-01-22", "date_precision": "day", "system": "Freetown property tax system", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "paper", "fact": "The policy says local tax administration is to be streamlined to reduce delays in printing local tax receipts, and councils are to be allowed to buy these receipts directly from the government printers, so these receipts are printed on paper.", "as_of": "2025-01-22", "date_precision": "day", "system": "Local tax receipts", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Freetown property tax system", "country_label": "property tax system as implemented in Freetown", "class": "revenue", "platform": "", "owner": "Freetown City Council", "tiers": "Freetown; to be piloted in other councils"},
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "accounts", "platform": "real-time IFMIS", "owner": "Ministry of Finance", "tiers": "local councils"}
+  ],
+  "note": ""
+}

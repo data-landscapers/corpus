@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BDI,revenue,governance,qualifier,owner:ministry;plan:current;finance:domestic,2025-07,BDI-003;BDI-004;BDI-006,,
+BDI,revenue,recorded,coverage,,,,,nothing held
+BDI,revenue,held,coverage,,,,,nothing held
+BDI,revenue,last12,qualifier,advancing,2025-07,BDI-002,,nothing dated since 2025-10-10
+BDI,revenue,authorities,coverage,count:30,2026-07,BDI-001,BDI-005=pilot,

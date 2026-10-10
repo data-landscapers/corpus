@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,SIGT (Sistema Integrado de Gestão Tributária),SIGT,central,,AGT,national tax offices (Repartições Fiscais),2026-01-26-manual-de-procedimentos-das-reparticoes-fiscais-agt
+AGO,SIGT (Sistema Integrado de Gestão Tributária),SIGT,central,,AGT,national; other settling entities such as provincial governments feed payments,2024-01-01-building-a-growth-friendly-tax-environment-agt-angola
+AGO,RUPE (Single State Payments Reference),RUPE,,,AGT / MINFIN,national,2024-01-01-building-a-growth-friendly-tax-environment-agt-angola
+AGO,Portal do Munícipe,Portal do Munícipe,web,,municipalities under PROFOGMEPS (World Bank project),selected municipalities; to facilitate collection of municipal fees,2023-11-01-profogmeps-quadro-de-gestao-ambiental-e-social-p178040
+AGO,SIGFE,SIGFE,accounts,,MINFIN,to be adopted for municipal budget preparation and execution,2023-11-01-profogmeps-quadro-de-gestao-ambiental-e-social-p178040
+AGO,SNCPE,SNCPE,accounts,,,to digitalise municipal procurement,2023-11-01-profogmeps-quadro-de-gestao-ambiental-e-social-p178040

@@ -1,0 +1,22 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,Irembo,Irembo,web,,,"national; civil registration, registration certificates and land services via digital platforms",2026-08-27-rwanda-decentralisation-digital-delivery-op-ed
+RWA,LAIS,Land Administration Information System,land,,National Land Authority,national; land offices in all sectors and 30 districts; more than 14 systems connected,2026-01-28-rwanda-land-administration-case-study
+RWA,Irembo,Irembo,web,,,national; named among the digital systems for land services,2026-01-28-rwanda-land-administration-case-study
+RWA,Rwanda Land Dashboard,Rwanda Land Dashboard,land,,National Land Authority,national,2026-01-28-rwanda-land-administration-case-study
+RWA,CAMA System for Property Tax Administration,CAMA (Computer Assisted Mass Appraisal),central,,Rwanda Revenue Authority,national; listed for FY 2025/26 to integrate data from multiple institutions for property valuation,2025-10-01-rra-annual-activity-report-2024-25
+RWA,Local government tax register,local government tax register,central,,Rwanda Revenue Authority collects on districts' behalf,"districts; 1,347,846 active taxpayers in June 2024",2025-09-01-rwa-minaloc-decentralization-impact-assessment-2000-2025
+RWA,LAIS,Land Administration and Information System,land,,National Land Authority,"integrated with RRA, IFMIS and Irembo",2025-09-01-rwa-minaloc-decentralization-impact-assessment-2000-2025
+RWA,CAMA,Computer Assisted Mass Appraisal,central,,Rwanda Revenue Authority,being rolled out for property tax valuation,2025-09-01-rwa-minaloc-decentralization-impact-assessment-2000-2025
+RWA,IFMIS,Integrated Financial Management Information System,accounts,,,integrated with LAIS,2025-09-01-rwa-minaloc-decentralization-impact-assessment-2000-2025
+RWA,Irembo,Irembo,web,,,integrated with LAIS,2025-09-01-rwa-minaloc-decentralization-impact-assessment-2000-2025
+RWA,Local government tax register,local government tax register,central,,Rwanda Revenue Authority collects on districts' behalf,"districts; 1,347,846 active taxpayers in June 2024",2025-09-01-minaloc-decentralization-impact-assessment-2000-2025
+RWA,LAIS,Land Administration Information System,land,,National Land Authority,"integrated with RRA, IFMIS and Irembo",2025-09-01-minaloc-decentralization-impact-assessment-2000-2025
+RWA,CAMA,Computer Assisted Mass Appraisal,central,,Rwanda Revenue Authority,being rolled out for property tax valuation,2025-09-01-minaloc-decentralization-impact-assessment-2000-2025
+RWA,IFMIS,Integrated Financial Management Information System,accounts,,,integrated with LAIS,2025-09-01-minaloc-decentralization-impact-assessment-2000-2025
+RWA,Irembo,Irembo,web,,,247 services accessible,2025-09-01-minaloc-decentralization-impact-assessment-2000-2025
+RWA,Building Permit Management Information System,Building Permit Management Information System,permits,,,introduced 2024,2025-09-01-minaloc-decentralization-impact-assessment-2000-2025
+RWA,CAMA,Computer Assessment Mass Appraisal model,central,,"MINALOC, MINECOFIN and RRA",to be rolled out to all secondary and satellite cities,2024-11-14-rwanda-governance-decentralisation-sector-strategic-plan-2024-2029
+RWA,IFMIS,Integrated Financial Management Information System,accounts,,,local governments,2024-11-14-rwanda-governance-decentralisation-sector-strategic-plan-2024-2029
+RWA,LMIS,Land Management Information System,land,,,local governments,2024-11-14-rwanda-governance-decentralisation-sector-strategic-plan-2024-2029
+RWA,LAIS,Land Administration Information System,land,,Rwanda land authority,national; operational since 2008,2019-06-01-revised-national-land-policy
+RWA,Irembo,Irembo,web,,Government of Rwanda,national service portal,2022-09-01-rwanda-digital-divides-dividends-include

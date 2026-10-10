@@ -1,0 +1,27 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SLE,Land Management Information System (LMIS),LMIS,land,,Ministry of Lands,national,2026-09-15-sle-thisday-free-nationwide-land-registration-lmis
+SLE,National Civil Registration Authority civil registration and identity system,NCRA,civil,,NCRA,national,2026-08-12-sierra-leone-ncra-crvs-decade-investment-call
+SLE,MOPTAX 2.0,MOPTAX 2.0 (Municipal Property Tax System),revenue,Baloosoft software,Ministry of Finance with councils,"Kenema, Makeni and Freetown city councils",2026-06-01-sierra-leone-mof-pfm-reform-progress-report-2025
+SLE,MOPTAX 1.0,MOPTAX 1.0,revenue,Baloosoft,Freetown City Council,"Freetown, now a legacy system",2026-06-01-sierra-leone-mof-pfm-reform-progress-report-2025
+SLE,PFM Smart,PFM Smart,accounts,"web-based real-time accounting, upgraded from Petra Accounting",Ministry of Finance,live in all 21 local councils in the first quarter of 2026,2026-06-01-sierra-leone-mof-pfm-reform-progress-report-2025
+SLE,Central Government Monitoring and Reporting System,CGMRS,,,Ministry of Finance,central,2026-06-01-sierra-leone-mof-pfm-reform-progress-report-2025
+SLE,Integrated Tax Administration System,ITAS,central,,National Revenue Authority,national,2026-06-01-sierra-leone-mof-pfm-reform-progress-report-2025
+SLE,Municipal Property Tax System (MOPTAX 2.0 and CGMRS),MPTS,revenue,MOPTAX 2.0 mobile/web software with the Central Government Monitoring and Reporting System; developer Baloosoft,"Ministry of Finance, Fiscal Decentralization Division",Kenema City Council piloted; Bo and Koidu planned; 22 local councils intended,2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu
+SLE,PFM Smart,PFM Smart,accounts,web-based accounting software,Ministry of Finance,councils,2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu
+SLE,Government Service Bus (X-Road),GSB,enabling,X-Road,Ministry of Finance,national,2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu
+SLE,Freetown property tax system,property tax system as implemented in Freetown,revenue,,Freetown City Council,Freetown; to be piloted in other councils,2025-01-22-sle-fiscal-decentralisation-policy-implementation-strategy-2025-2029
+SLE,PFM Smart,PFM Smart,accounts,real-time IFMIS,Ministry of Finance,local councils,2025-01-22-sle-fiscal-decentralisation-policy-implementation-strategy-2025-2029
+SLE,Municipal Property Tax System,MPTS,revenue,,Ministry of Finance,22 local councils (World Bank projects supporting it),2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,PFM Smart,PFM Smart,accounts,,Ministry of Finance,local government,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Integrated Tax Administration System,ITAS,central,,National Revenue Authority,national,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Government Service Bus prototype,GSB,enabling,X-Road or similar,Ministry of Finance,national,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,LoMEMIS,LoMEMIS,,,Ministry of Finance,local,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
+SLE,Land information system (Land Administration Project),land information system,land,,"Ministry of Lands, Housing and Country Planning",national,2024-04-10-sierra-leone-land-administration-project-isr-seq-4
+SLE,Digital addressing with Google Maps,digital address system,survey,Google Maps,"Directorate of Science, Technology and Innovation","residential addresses, urban",2024-01-01-sierra-leone-dsti-google-maps-digital-addressing
+SLE,Fiscal cadastral system,fiscal cadastral system for property tax,revenue,,Ministry of Finance,"city councils first, planned",2023-01-01-sle-public-financial-management-reform-strategy-and-plan-2023-2027
+SLE,Council receipt books,receipt books,revenue,paper,local councils,"councils, as of 2020",2023-01-01-sle-public-financial-management-reform-strategy-and-plan-2023-2027
+SLE,Integrated Financial Management Information System,IFMIS,accounts,,Ministry of Finance,central government,2023-01-01-sle-public-financial-management-reform-strategy-and-plan-2023-2027
+SLE,Freetown City Council property tax and business licence database,property tax and business licensing database,revenue,"points-based valuation, Plus Codes for addresses",Freetown City Council,Freetown City Council,2020-01-01-sierra-leone-freetown-city-council-property-reform-faq-plus-codes
+SLE,Upgraded property tax system,upgraded property tax system,revenue,,"Ministry of Finance, Fiscal Decentralisation Division",planned for all local councils,2025-03-01-sierra-leone-mof-pfm-reform-progress-report-2024
+SLE,Petra Financial Accounting System,Petra,accounts,,local councils,local councils,2025-03-01-sierra-leone-mof-pfm-reform-progress-report-2024
+SLE,Modernised property tax system,modernised Property Tax System,revenue,,Government of Sierra Leone,"local councils, planned",2024-01-01-sierra-leone-mtndp-2024-2030

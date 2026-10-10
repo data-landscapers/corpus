@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GMB,revenue,governance,qualifier,finance:domestic,2025-09,GMB-008,,"not stated: owner, plan"
+GMB,revenue,recorded,coverage,register,2026-06,GMB-001;GMB-009,,
+GMB,revenue,held,coverage,local,2026-06,GMB-002;GMB-007,GMB-006=paper,
+GMB,revenue,last12,qualifier,,,,,nothing held
+GMB,revenue,authorities,coverage,count:1,2026-06,GMB-003;GMB-004;GMB-010,GMB-005=none,

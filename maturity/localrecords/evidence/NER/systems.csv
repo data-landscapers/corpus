@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,plateforme digitale de gestion des faits d'état civil,plateforme digitale de gestion des faits d'état civil,civil,,"Direction Générale de l'État Civil, WURI-Niger","100 communes in service, extension to 166 more planned",2026-01-01-etat-civil-wuri-niger
+NER,Naneye Yarda,Naneye Yarda (Confiance),revenue,,"Commune urbaine de Diffa, with technical support from ANSI and UNDP","commune urbaine of Diffa, the first outside the capital",2025-12-26-diffa-naneye-yarda-digital-tax
+NER,INCI,INCI,civil,,"Direction générale de l'état civil, supported by UNICEF","103 communes, 40 more being integrated",2025-05-07-actuniger-niger-revue-plan-strategique-etat-civil
+NER,Naneye Yarda,Naneye Yarda,revenue,,"Ville de Niamey, built by ANSI",City of Niamey,2025-01-29-niamey-naneye-yarda-taxes-municipales-plateforme

@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,Human Resource Information System (HRIS),HRIS,accounts,,National government; counties migrating manual payrolls to it,47 counties,2026-08-01-ken-cob-county-birr-fy2025-26-companion
+KEN,County Revenue Management System (CRMS),County Revenue Management Systems (CRMS),revenue,"vendor or county-built; must integrate with IFMIS, Business Registration Service and IPRS","each county government (County Treasury lead), with vendors","47 counties; functions include taxpayer registration, billing, payment processing, receipting",2026-08-14-kenya-cra-county-revenue-automation-standards
+KEN,County revenue management systems,county revenue management systems / ERP,revenue,ERP,county governments,counties,2026-02-23-kenya-vision2030-rapid-assessment-counties-automation-employment

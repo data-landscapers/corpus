@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-18-dgdec-etat-civil-digitalisation-egmrg",
+  "facts": [],
+  "systems": [
+    {"system": "RNEC (Registre National de l'État Civil)", "country_label": "RNEC", "class": "civil", "platform": "", "owner": "MATDDL / DGDEC with CIVIPOL (EU-funded MODERO)", "tiers": "national; 45 centres in the digitisation map"}
+  ],
+  "note": "Civil registration only; no revenue record."
+}

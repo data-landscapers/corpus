@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-04-canevas-rapport-midcsp-2025-2026-t3-companion",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:30", "fact": "The catalogue note on the Interior ministry's Q3 FY2025/26 execution report lists 30 communes digitalised in communal revenue, with the digitalisation of collection being extended; no total of communes is given and the document dates only by its 2026-07 publication.", "as_of": "2026-07", "date_precision": "month", "system": "digitalisation of communal revenue collection", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "digitalisation of communal revenue collection", "country_label": "digitalisation de la collecte des recettes communales", "class": "revenue", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security (MIDCSP)", "tiers": "communes"}
+  ],
+  "note": ""
+}

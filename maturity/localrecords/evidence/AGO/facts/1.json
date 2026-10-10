@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-26-manual-de-procedimentos-das-reparticoes-fiscais-agt",
+  "facts": [],
+  "systems": [
+    {"system": "SIGT (Sistema Integrado de Gestão Tributária)", "country_label": "SIGT", "class": "central", "platform": "", "owner": "AGT", "tiers": "national tax offices (Repartições Fiscais)"}
+  ],
+  "note": "The passages are an AGT manual for its own tax offices (Imposto Predial handled by AGT); no municipal revenue record is stated."
+}

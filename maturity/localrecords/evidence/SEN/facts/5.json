@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-21-anec-senegal-etat-davancement-lgec-437-sur-629",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LGEC",
+   "country_label": "Logiciel de Gestion de l'État Civil",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": "629 civil-status centres, 437 fully deployed"
+  },
+  {
+   "system": "SAMA ETAT CIVIL",
+   "country_label": "SAMA ETAT CIVIL",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC",
+   "tiers": "online users' platform"
+  }
+ ],
+ "note": "Civil registration only; out of scope."
+}

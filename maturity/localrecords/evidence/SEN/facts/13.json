@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-01-geosenegal-bulletin-geospatial-septembre-2025",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cadastre / NICAD",
+   "country_label": "Cadastre (DGID); NICAD parcel identifier",
+   "class": "central",
+   "platform": "",
+   "owner": "Direction générale des Impôts et des Domaines (DGID)",
+   "tiers": "national; counts parcels liable to the property tax"
+  }
+ ],
+ "note": "National cadastre under the tax directorate with a fiscal mission for the property tax; central class, no local government record stated."
+}

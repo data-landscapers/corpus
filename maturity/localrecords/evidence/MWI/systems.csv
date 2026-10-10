@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,Bomalathu,Bomalathu,,,Ministry of Information (e-Government),councils asked whether they could collect property rates and taxes on it,2024-09-01-mwi-digital-malawi-acceleration-project-p505095-stakeholder-engagement-pla
+MWI,Revenue Management System (Blantyre),RMS,revenue,Technobrain,"Blantyre City Council, vendor-operated","city council; city rates, business licences, markets",2023-08-01-mwi-digitalisation-of-local-revenues-in-malawi
+MWI,Revenue Management System (Lilongwe),RMS,revenue,Nitel,"Lilongwe City Council, vendor-managed","city council; city rates, business licences, markets",2023-08-01-mwi-digitalisation-of-local-revenues-in-malawi
+MWI,ARMS (Mzuzu),RMS,revenue,Technobrain,Mzuzu City Council,"city council; all revenue streams since 2019, markets only per vendor table",2023-08-01-mwi-digitalisation-of-local-revenues-in-malawi
+MWI,REMOP (Mzuzu),REMOP,revenue,donor-provided software with GIS and mass valuation,Mzuzu City Council,"city council; city rates, 2013",2023-08-01-mwi-digitalisation-of-local-revenues-in-malawi
+MWI,Revenue Management System (Zomba),RMS,revenue,Nitel,Zomba City Council,"city council; markets, bus depots, parking",2023-08-01-mwi-digitalisation-of-local-revenues-in-malawi
+MWI,IFMIS,IFMIS,accounts,,NLGFC,"36 local governments from 2009, city councils from 2015",2023-08-01-mwi-digitalisation-of-local-revenues-in-malawi
+MWI,Blantyre City Council digital payment system with NBS Bank,digital payment systems for council services,web,,Blantyre City Council with NBS Bank,Blantyre City Council; planned,2026-03-06 Malawi's second city digitises tax collection

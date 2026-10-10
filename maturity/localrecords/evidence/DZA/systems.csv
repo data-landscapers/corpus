@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+DZA,Jibayatic,Jibayatic,central,,"General Directorate of Taxes (DGI), Ministry of Finance",national tax centres and inspectorates; online filing and payment of taxes from electronic declarations,2026-08-05-algeria-dgi-jibayatic-electronic-tax-payment-guide
+DZA,Posty Mob,Posty Mob,web,mobile application,Algérie Poste,"national; utility bill payment, with municipal tax payment stated as slated for digital integration by end 2025",2025-07-16-algeria-post-sonelgaz-digital-payments--techreviewafrica
+DZA,Djibayatic,Djibayatic,central,,national tax administration,tax structures nationwide; online declarations and payments,2025-03-11-digital-tax-data-integration--wearetech
+DZA,Moussahamatic,Moussahamatic,central,,national tax administration,tax structures nationwide,2025-03-11-digital-tax-data-integration--wearetech
+DZA,NIF en ligne,Plateforme du Numéro d'identification fiscale en ligne,central,,"Direction Générale des Impôts, Ministry of Finance","national; tax identifier registration, with decentralised registration at DIW, CDI and CPI",2023-11-10-dza-dgi-ouvrir-dossier-fiscal-nif
+DZA,Jibayatic,Jibayatic,central,,Direction Générale des Impôts,national tax portal,2023-11-10-dza-dgi-ouvrir-dossier-fiscal-nif
+DZA,Moussahamatic,Moussahamatic,central,,Direction Générale des Impôts,national online declaration and payment portal,2023-11-10-dza-dgi-ouvrir-dossier-fiscal-nif
+DZA,Tabioukom,Tabioukom,central,,Ministry of Finance,national; fiscal stamps,2023-11-10-dza-dgi-ouvrir-dossier-fiscal-nif
+DZA,Qassimatouka,Qassimatouka,central,,Ministry of Finance,national; vehicle tax stamp (vignette) payment,2023-11-10-dza-dgi-ouvrir-dossier-fiscal-nif
+DZA,Référentiel National d'Adressage (RNA),Référentiel National d'Adressage,survey,geographic information system,"Ministry of the Interior, Local Authorities and Territorial Planning (MICLAT)","national addressing exercise launched 2014, run through communal addressing cells; intended to serve tax recovery among other uses",2022-06-01-dza-rna-guide-procedures-adressage
+DZA,SI-JIBAYATIC,SI-JIBAYATIC,central,,national tax administration,tax structures equipped with the system; large taxpayer filings,2021-12-30-dz-joradp-loi-21-16-lf2022-jibayatic

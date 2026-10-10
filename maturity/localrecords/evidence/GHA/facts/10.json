@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-10-ghana-ga-west-digital-payment-rollout",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "Ga West Municipal Assembly introduced a digital revenue mobilisation system for ratepayers in the Kotoku Zonal Council only, covering business operating permits, property rates and market tolls, with a data capturing exercise to begin in April 2026.", "as_of": "2026-04", "date_precision": "month", "system": "Ga West digital revenue mobilisation system", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The Assembly's system enrols business and property registration and market tolls through a data capture exercise, sends ratepayers SMS links to their bills and takes their payments, so payers, bills and payments sit against each other (stated as launched or set to start in April 2026).", "as_of": "2026-04", "date_precision": "month", "system": "Ga West digital revenue mobilisation system", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "The Assembly contracted OMNI STRATEGIES, a company, to roll out the digitalisation process, and the company trained its field officers at the Assembly Hall on 7 April 2026.", "as_of": "2026-04-07", "date_precision": "day", "system": "Ga West digital revenue mobilisation system", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Ga West Municipal Assembly launched a public sensitisation programme and, from April 2026, a data capturing exercise for its cashless revenue payment system in the Kotoku Zonal Council.", "as_of": "2026-04", "date_precision": "month", "system": "Ga West digital revenue mobilisation system", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Ga West digital revenue mobilisation system", "country_label": "digital revenue mobilisation system / cashless revenue payment system", "class": "revenue", "platform": "OMNI STRATEGIES (contractor); platform not named", "owner": "Ga West Municipal Assembly, with contractor OMNI STRATEGIES", "tiers": "Kotoku Zonal Council of Ga West Municipal Assembly (pilot)"}
+  ],
+  "note": ""
+}

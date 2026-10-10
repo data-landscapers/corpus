@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,revenue,governance,qualifier,owner:vendor;plan:none;finance:donor,2023-08,MWI-005;MWI-006;MWI-007,,nothing dated since 2023-10-10
+MWI,revenue,recorded,coverage,register,2022,MWI-001,MWI-002=receipts,nothing dated since 2023-10-10
+MWI,revenue,held,coverage,local,2022,MWI-003,,nothing dated since 2023-10-10
+MWI,revenue,last12,qualifier,,,,,nothing held
+MWI,revenue,authorities,coverage,count:4,2022,MWI-004,,nothing dated since 2023-10-10

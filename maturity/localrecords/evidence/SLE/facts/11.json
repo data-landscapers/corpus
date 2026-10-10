@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-sierra-leone-dsti-google-maps-digital-addressing",
+  "facts": [],
+  "systems": [
+    {"system": "Digital addressing with Google Maps", "country_label": "digital address system", "class": "survey", "platform": "Google Maps", "owner": "Directorate of Science, Technology and Innovation", "tiers": "residential addresses, urban"}
+  ],
+  "note": "An addressing exercise; the document states no local revenue billing from it."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-01-bdi-2025-midcsp-digitalisation-recettes-communales",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "The Interior ministry's FY2025/26 revised budget carries a 2,000,000,000 BIF line for extending the digitalisation of revenue collection in the communes, with execution columns empty in the filed workbook.", "as_of": "2025-07", "date_precision": "month", "system": "digitalisation of communal revenue collection", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:domestic", "fact": "The record gives the origin of the 2,000,000,000 BIF line for extending communal revenue digitalisation as the domestic state budget.", "as_of": "2025-07", "date_precision": "month", "system": "digitalisation of communal revenue collection", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The spending entity on the communal revenue digitalisation line is the Ministry of the Interior, Community Development and Public Security.", "as_of": "2025-07", "date_precision": "month", "system": "digitalisation of communal revenue collection", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "digitalisation of communal revenue collection", "country_label": "digitalisation de la collecte des recettes dans les communes", "class": "revenue", "platform": "", "owner": "Ministry of the Interior, Community Development and Public Security (MIDCSP)", "tiers": "communes"}
+  ],
+  "note": ""
+}

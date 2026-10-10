@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,e-Justice,plateforme e-Justice,enabling,,Ministry of Justice,39 first-instance tribunals,2026-06-30-e-justice-39-tribunaux-connectes-fratmat
+CIV,Géoportail d'urbanisme du Grand Abidjan,Géoportail du Grand Abidjan,survey,,"Ministry of Urban Planning, Housing and Living Environment, with JICA",Greater Abidjan,2026-06-11-geoportail-grand-abidjan-ville-intelligente-fratmat
+CIV,Secongo digital solutions for collectivités,système pour la digitalisation des process,,,"Clotchor Secongo (private developer, self-reported)","75 collectivités territoriales including communes, per the developer's own note",2026-03-27-clotchor-secongo-digitalisation-collectivites-fratmat
+CIV,TresorPay,TresorPay,web,,Treasury (Trésor public),"national, 4,500 distributors per the developer",2026-03-27-clotchor-secongo-digitalisation-collectivites-fratmat
+CIV,SIGFU,Système Intégré de Gestion du Foncier Urbain,land,,State (decree 2021-862),Abidjan District; urban land nationally,2025-10-21-cote-divoire-land-and-urban-planning-sigfu-pada
+CIV,PADA,Projet d'Adressage du District d'Abidjan,survey,,State,"Abidjan District; extension to Yamoussoukro, Daloa, Korhogo (PAVI)",2025-10-21-cote-divoire-land-and-urban-planning-sigfu-pada
+CIV,SIGE,Système d'Information et de Gestion de l'Éducation,accounts,,Ministry of National Education,national,2025-07-11-sige-systeme-information-gestion-education-cote-divoire
+CIV,Net-Collect Services,plateforme Net-Collect Services,central,,Direction Générale du Trésor et de la Comptabilité Publique (DGTCP),"communes, regions and Districts; decree of 6 November 2019 institutes electronic collection of their resources",2023-01-01-cote-divoire-tresormoney-contexte-de-creation
+CIV,TrésorMoney,TrésorMoney CI,web,,"DGTCP, with BMI-CI Finances","national, State resources",2023-01-01-cote-divoire-tresormoney-contexte-de-creation

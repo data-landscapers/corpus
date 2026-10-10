@@ -1,0 +1,7 @@
+{"slug":"2021-11-22-world-bank-ennajaa-program-appraisal","facts":[
+{"sub_indicator":"revenue","aspect":"held","value":"shared","fact":"The World Bank appraisal says the national treasury (TGR) had established and extended the Integrated Revenue Management System for local authorities (GIR-CT), and that new GIR-CT features covering the whole chain from tax base to recovery were to be made available to municipalities; the TGR collects all municipal revenues except the professional tax.","as_of":"2021-11","date_precision":"month","system":"GIR-CT","class":"revenue"}
+],"systems":[
+{"system":"GIR-CT","country_label":"Gestion Intégrée de la Recette, Collectivités Territoriales","class":"revenue","platform":"","owner":"Trésorerie Générale du Royaume (TGR)","tiers":"municipalities; target at least 100 large municipalities"},
+{"system":"GID-CT","country_label":"Gestion Intégrée de la Dépense, Collectivités Territoriales","class":"accounts","platform":"","owner":"TGR","tiers":"local governments"},
+{"system":"Tax base management for TSC, TH and TP","country_label":"taxe sur les services communaux, taxe d'habitation, taxe professionnelle","class":"central","platform":"","owner":"DGI (tax base) and TGR (collection)","tiers":"municipalities, on their behalf; 42 percent of revenues of the ten largest in 2017"}
+],"note":"Mostly design and targets; held fact is the only dated state described."}

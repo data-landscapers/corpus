@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-20-matddl-numerisation-etat-civil-training-oubangui",
+  "facts": [],
+  "systems": [
+    {"system": "RNEC (Registre National de l'État Civil)", "country_label": "RNEC", "class": "civil", "platform": "", "owner": "MATDDL / DGDEC with CIVIPOL (EU-funded MODERO)", "tiers": "national, fed by communes and tribunals"}
+  ],
+  "note": "Civil registration only; no revenue record."
+}

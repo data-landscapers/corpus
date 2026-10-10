@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-etat-civil-wuri-niger",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme digitale de gestion des faits d'état civil", "country_label": "plateforme digitale de gestion des faits d'état civil", "class": "civil", "platform": "", "owner": "Direction Générale de l'État Civil, WURI-Niger", "tiers": "100 communes in service, extension to 166 more planned"}
+  ],
+  "note": "Civil registration only; out of scope, nothing on local revenue."
+}

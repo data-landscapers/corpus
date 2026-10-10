@@ -1,0 +1,4 @@
+{"slug":"2026-08-08-cedsif-sistema-de-gestao-autarquica-e-sga-especificacao","facts":[
+{"sub_indicator":"revenue","aspect":"governance","value":"owner:ministry","fact":"The CEDSIF state information-systems centre page specifies e-SGA, a single integrated municipal management system of 22 modules including municipal revenue management, markets and street trading, and commercial rents, with ANAMM named as client; the page gives no date, so the published date 2026-08-08 is used.","as_of":"2026-08-08","date_precision":"day","system":"e-SGA (Sistema de Gestao Autarquica)","class":"revenue"}],
+"systems":[{"system":"e-SGA (Sistema de Gestao Autarquica)","country_label":"Sistema Informatico para a Gestao Autarquica","class":"revenue","platform":"","owner":"CEDSIF, IP for ANAMM","tiers":"municipalities (autarquias)"}],
+"note":"A specification stated as what the system 'should' be; no rollout, count of municipalities, funding or plan stated."}

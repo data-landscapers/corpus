@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-29-aps-nekkal-avancees-modernisation-etat-civil",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NEKKAL civil-status programme systems",
+   "country_label": "NEKKAL",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANEC, EU-financed, executed by Civipol and Enabel",
+   "tiers": "400 civil-status centres interconnected"
+  }
+ ],
+ "note": "Civil registration only; out of scope."
+}

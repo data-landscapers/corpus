@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-29-niamey-naneye-yarda-taxes-municipales-plateforme",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "Le Sahel quotes the City of Niamey's delegated administrator saying 50 field agents with mobile devices had geolocated over 2,000 taxpayers, and that municipal tax payments through Al Izza and Nita were integrated with real-time revenue tracking and an automated audit of each transaction; the article is dated 2025-01-29 and gives the launch as a Monday.", "as_of": "2025-01", "date_precision": "month", "system": "Naneye Yarda", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:1", "fact": "Le Sahel reports the platform launched in the City of Niamey only; it names no other commune.", "as_of": "2025-01", "date_precision": "month", "system": "Naneye Yarda", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "Le Sahel says the City of Niamey launched Naneye Yarda under its 2025-2027 strategic plan, with the national information society agency ANSI building the architecture; it names no donor or budget line.", "as_of": "2025-01", "date_precision": "month", "system": "Naneye Yarda", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Naneye Yarda", "country_label": "Naneye Yarda", "class": "revenue", "platform": "", "owner": "Ville de Niamey, built by ANSI", "tiers": "City of Niamey"}
+  ],
+  "note": ""
+}

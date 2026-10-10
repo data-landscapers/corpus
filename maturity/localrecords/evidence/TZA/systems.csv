@@ -1,0 +1,23 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TZA,TAUSI,TAUSI,revenue,,PO-RALG,"used for collecting revenues and other charges; councils implied, not stated",2026-08-23-dailynews-tanzania-forest-revenue-integration
+TZA,TAFFMIS,Tanzania Forest Management Information System,permits,,Tanzania Forest Services Agency,central agency licensing; some council and village forests not linked,2026-08-23-dailynews-tanzania-forest-revenue-integration
+TZA,Zanzibar electronic receipt (e-receipt) system,electronic receipts,central,,Zanzibar Revenue Authority,"businesses, Zanzibar",2026-08-21-thecitizen-zanzibar-e-receipt-fines-reduced
+TZA,TAUSI,TAUSI,revenue,,PMO-RALG,"local government authorities; business licences, levies and taxes",2026-06-11-government-budget-speech-2026-27
+TZA,IDRAS,Integrated Domestic Revenue Administration System,central,,Tanzania Revenue Authority,national,2026-06-11-government-budget-speech-2026-27
+TZA,TAUSI,TAUSI revenue system,revenue,,PMO-RALG,centrally hosted for user entities,2026-03-30-nao-audit-information-systems-fy2024-25
+TZA,MUSE,MUSE,accounts,,Ministry of Finance,national,2026-03-30-nao-audit-information-systems-fy2024-25
+TZA,GePG,Government Electronic Payment Gateway,web,,Ministry of Finance,national,2026-03-30-nao-audit-information-systems-fy2024-25
+TZA,GAMIS,GAMIS,accounts,,Ministry of Finance,national,2026-03-30-nao-audit-information-systems-fy2024-25
+TZA,HCMIS,HCMIS,accounts,,PO-PSMGG,payroll,2026-03-30-nao-audit-information-systems-fy2024-25
+TZA,FFARS,Facility Financial Accounting and Reporting System,accounts,,PMO-RALG,health facilities,2026-03-30-nao-audit-information-systems-fy2024-25
+TZA,TAUSI,TAUSI revenue system,revenue,,PMO-RALG,"184 LGAs; property module, bills, business and service levies, land plot sales",2026-03-30-naot-audit-po-ralg-lgas-fy2024-25
+TZA,LGRCIS,LGRCIS,revenue,,PMO-RALG,discontinued from 31 March 2023 by instruction; still used with PoS for solid waste at Dar es Salaam City Council in 2024/25,2026-03-30-naot-audit-po-ralg-lgas-fy2024-25
+TZA,TANESCO LUKU property rate deduction,TANESCO LUKU platform,central,,TANESCO with PMO-RALG,"property rates collected by electricity meter deductions; TZS 80.28 billion of 188.96 billion budgeted, 2024/25",2026-03-30-naot-audit-po-ralg-lgas-fy2024-25
+TZA,GoT-HoMIS,GoT-HoMIS integrated with GePG,accounts,,PMO-RALG,health facilities,2026-03-30-naot-audit-po-ralg-lgas-fy2024-25
+TZA,IDRAS,Integrated Domestic Revenue Administration System,central,,Tanzania Revenue Authority,national; go-live 9 February 2026,2026-02-03-tra-idras-official-launch
+TZA,TAUSI Taxpayer Portal,TAUSI Taxpayer Portal,,,PO-RALG,,2024-01-01-tanzania-digital-economy-strategic-framework
+TZA,LGRCIS/TAUSI/TeRMIS,LGRCIS/TAUSI/TeRMIS,,,,"listed with FFARS, PlanRep, GoTHOMIS, SIS",2024-01-01-tanzania-digital-economy-strategic-framework
+TZA,LGRCIS,Local Government Revenue Collection Information System,revenue,,Government of Tanzania,local government,2023-03-01-govtech-maturity-index-2022-regional-brief-afe
+TZA,GePG,Government electronic Payment Gateway,web,,Ministry of Finance,national,2023-03-01-govtech-maturity-index-2022-regional-brief-afe
+TZA,LGRCIS,Local Government Revenue Collection Information System,,,PO-RALG,local government authorities,2024-02-01-e-government-technology-roadmap
+TZA,Tausi Taxpayer Portal,Tausi Taxpayer Portal,,,,listed under finance services,2024-02-01-e-government-technology-roadmap

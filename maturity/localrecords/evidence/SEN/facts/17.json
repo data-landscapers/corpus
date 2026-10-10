@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-digital-tool-property-tax-dakar",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PAGCF property tax application",
+   "country_label": "new property tax management system (PAGCF)",
+   "class": "central",
+   "platform": "web and Android application, built with a local software developer",
+   "owner": "DGID (Ministry of Finance), with Paris School of Economics; DGCPT collects local taxes",
+   "tiers": "Dakar: 97 cadastral sections, 40,000+ parcels"
+  }
+ ],
+ "note": "Property tax is assessed by the national tax administration (DGID, tax notices issued via its Tax Service Centres) and collected by the Treasury: class central, so no revenue fact; centrally-collected flag applies."
+}

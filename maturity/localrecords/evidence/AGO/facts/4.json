@@ -1,0 +1,10 @@
+{
+  "slug": "2023-11-01-profogmeps-quadro-de-gestao-ambiental-e-social-p178040",
+  "facts": [],
+  "systems": [
+    {"system": "Portal do Munícipe", "country_label": "Portal do Munícipe", "class": "web", "platform": "", "owner": "municipalities under PROFOGMEPS (World Bank project)", "tiers": "selected municipalities; to facilitate collection of municipal fees"},
+    {"system": "SIGFE", "country_label": "SIGFE", "class": "accounts", "platform": "", "owner": "MINFIN", "tiers": "to be adopted for municipal budget preparation and execution"},
+    {"system": "SNCPE", "country_label": "SNCPE", "class": "accounts", "platform": "", "owner": "", "tiers": "to digitalise municipal procurement"}
+  ],
+  "note": "Project text finances a Portal do Munícipe to facilitate municipal fee collection but does not say local staff record payers and payments in it, so it is class web, not revenue."
+}

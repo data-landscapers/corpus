@@ -1,0 +1,19 @@
+{
+  "slug": "2026-06-01-sierra-leone-mof-pfm-reform-progress-report-2025",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The Ministry of Finance says MOPTAX 2.0, built by Baloosoft, is a digital property tax management system supporting the full cycle of property tax administration and was deployed in Makeni in April 2025.", "as_of": "2025-04", "date_precision": "month", "system": "MOPTAX 2.0", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "count:3", "fact": "The Ministry of Finance says Freetown City Council was upgraded from MOPTAX 1.0 to 2.0 in December 2025, becoming the third local council after Kenema and Makeni to have the upgraded system; the country has 22 local councils.", "as_of": "2025-12", "date_precision": "month", "system": "MOPTAX 2.0", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "local", "fact": "The Ministry of Finance says integration of MOPTAX 2.0 with the Central Government Monitoring and Reporting System and PFM Smart is still expected in 2026 with World Bank support, so the councils' records stay in the councils' own systems for now.", "as_of": "2025-12", "date_precision": "month", "system": "MOPTAX 2.0", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "The Ministry of Finance says the Makeni deployment of MOPTAX 2.0 was funded by the UK FCDO, the Freetown upgrade was supported by FCDO through the International Growth Centre, and the World Bank is to support the integration.", "as_of": "2025-12", "date_precision": "month", "system": "MOPTAX 2.0", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:vendor", "fact": "The Ministry of Finance report names Baloosoft as the developer of MOPTAX 2.0; it does not say who runs the system day to day.", "as_of": "2025-12", "date_precision": "month", "system": "MOPTAX 2.0", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "Freetown City Council was upgraded to MOPTAX 2.0 in December 2025, and the Ministry reports the integration of MOPTAX with the central monitoring system and PFM Smart as foundational work with full operationalisation expected in 2026.", "as_of": "2025-12", "date_precision": "month", "system": "MOPTAX 2.0", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "MOPTAX 2.0", "country_label": "MOPTAX 2.0 (Municipal Property Tax System)", "class": "revenue", "platform": "Baloosoft software", "owner": "Ministry of Finance with councils", "tiers": "Kenema, Makeni and Freetown city councils"},
+    {"system": "MOPTAX 1.0", "country_label": "MOPTAX 1.0", "class": "revenue", "platform": "Baloosoft", "owner": "Freetown City Council", "tiers": "Freetown, now a legacy system"},
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "accounts", "platform": "web-based real-time accounting, upgraded from Petra Accounting", "owner": "Ministry of Finance", "tiers": "live in all 21 local councils in the first quarter of 2026"},
+    {"system": "Central Government Monitoring and Reporting System", "country_label": "CGMRS", "class": "", "platform": "", "owner": "Ministry of Finance", "tiers": "central"},
+    {"system": "Integrated Tax Administration System", "country_label": "ITAS", "class": "central", "platform": "", "owner": "National Revenue Authority", "tiers": "national"}
+  ],
+  "note": ""
+}

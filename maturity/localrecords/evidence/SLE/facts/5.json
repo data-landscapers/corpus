@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu",
+  "facts": [
+    {"sub_indicator": "revenue", "aspect": "recorded", "value": "register", "fact": "The notice says the Municipal Property Tax System covers the full property tax life cycle, from a georeferenced property roll through valuation, billing, demand notices and payment reconciliation, and was first deployed in Kenema City Council.", "as_of": "2026-05-20", "date_precision": "day", "system": "Municipal Property Tax System (MOPTAX 2.0 and CGMRS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "held", "value": "shared", "fact": "The notice says MOPTAX 2.0 is integrated with the Central Government Monitoring and Reporting System and, through the Government Service Bus, with national systems, so council records report to the centre.", "as_of": "2026-05-20", "date_precision": "day", "system": "Municipal Property Tax System (MOPTAX 2.0 and CGMRS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "authorities", "value": "pilot", "fact": "The Ministry of Finance says the first deployment was a pilot in Kenema City Council and seeks a firm to roll out in Bo and Koidu New Sembehun City Councils as the next step, laying the foundation for all 22 local councils; the notice is a procurement, not evidence the system is live in Bo or Koidu.", "as_of": "2026-05-20", "date_precision": "day", "system": "Municipal Property Tax System (MOPTAX 2.0 and CGMRS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "owner:ministry", "fact": "The rollout is run by the Ministry of Finance through its Fiscal Decentralization Division with the Ministry of Local Government, and the developers Baloosoft work with the consulting firm.", "as_of": "2026-05-20", "date_precision": "day", "system": "Municipal Property Tax System (MOPTAX 2.0 and CGMRS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "governance", "value": "finance:donor", "fact": "The rollout is financed under the Resilient Urban Sierra Leone Project by a US$50 million IDA grant and US$6.73 million GEF co-financing.", "as_of": "2026-05-20", "date_precision": "day", "system": "Municipal Property Tax System (MOPTAX 2.0 and CGMRS)", "class": "revenue"},
+    {"sub_indicator": "revenue", "aspect": "last12", "value": "advancing", "fact": "On 20 May 2026 the Ministry of Finance invited firms to roll out the system in Bo and Koidu New Sembehun City Councils over fifteen months, with expressions of interest due 10 June 2026.", "as_of": "2026-05-20", "date_precision": "day", "system": "Municipal Property Tax System (MOPTAX 2.0 and CGMRS)", "class": "revenue"}
+  ],
+  "systems": [
+    {"system": "Municipal Property Tax System (MOPTAX 2.0 and CGMRS)", "country_label": "MPTS", "class": "revenue", "platform": "MOPTAX 2.0 mobile/web software with the Central Government Monitoring and Reporting System; developer Baloosoft", "owner": "Ministry of Finance, Fiscal Decentralization Division", "tiers": "Kenema City Council piloted; Bo and Koidu planned; 22 local councils intended"},
+    {"system": "PFM Smart", "country_label": "PFM Smart", "class": "accounts", "platform": "web-based accounting software", "owner": "Ministry of Finance", "tiers": "councils"},
+    {"system": "Government Service Bus (X-Road)", "country_label": "GSB", "class": "enabling", "platform": "X-Road", "owner": "Ministry of Finance", "tiers": "national"}
+  ],
+  "note": ""
+}

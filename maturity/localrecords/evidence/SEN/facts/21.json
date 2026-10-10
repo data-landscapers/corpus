@@ -1,0 +1,15 @@
+{
+ "slug": "2021-03-01-bceao-guide-digitalisation-paiements-etats-membres-uemoa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIB / Télépaiement platform",
+   "country_label": "Système d'information bancaire (Trésor); plateforme unique de Télépaiement",
+   "class": "central",
+   "platform": "",
+   "owner": "Trésor public national",
+   "tiers": "national Treasury"
+  }
+ ],
+ "note": "Treasury payment digitalisation; central, no local government revenue record stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-23-abomey-registre-foncier-urbain",
+  "facts": [],
+  "systems": [
+    {"system": "Registre foncier urbain (RFU), Abomey", "country_label": "Registre foncier urbain (Rfu)", "class": "survey", "platform": "GIS", "owner": "Mairie d'Abomey, with the firm Begerpo Sarl", "tiers": "Abomey commune; official handover announced as imminent in June 2026"}
+  ],
+  "note": "The RFU is a parcel register being completed; the article says it will ease mobilisation of tax revenue but not that the commune bills or records payments from it, so it is class survey, not revenue."
+}
