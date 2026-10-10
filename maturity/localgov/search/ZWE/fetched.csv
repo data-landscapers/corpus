@@ -1,6 +1,6 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://zimtreasury.co.zw/wp-content/uploads/2024/11/2025-National-Budget-Statement-FINAL.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
-2,https://www.ictministry.gov.zw/assets/documents/National%20ICT%20Policy%202022-2027.pdf,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+1,https://zimtreasury.co.zw/wp-content/uploads/2024/11/2025-National-Budget-Statement-FINAL.pdf,fetched,"second pass, by Wayback",scripts/.workroot/study/localgov/cache/ZWE/1.txt,40999,pdf,
+2,https://www.ictministry.gov.zw/assets/documents/National%20ICT%20Policy%202022-2027.pdf,fetched,"second pass, by Wayback",scripts/.workroot/study/localgov/cache/ZWE/2.txt,15257,pdf,policy final new.cdr
 3,https://zimtreasury.co.zw/wp-content/uploads/2026/04/National-Development-Strategy-2-NDS2-2026-2030.pdf,fetched,,scripts/.workroot/study/localgov/cache/ZWE/3.txt,106885,pdf,
 4,https://www.ictministry.gov.zw/assets/documents/Smart%20Zimbabwe%202030%20Master%20Plan.pdf,held,held as raw/2019/2019-01-01-smart-zimbabwe-2030-master-plan.md,,0,,
 5,https://www.veritaszim.net/sites/veritas_d/files/Report%20%20of%20the%20Auditor-General%20for%20the%20Year%20Ended%2031%20Dec%202024%20on%20Local%20Authorities.pdf,held,held as raw/2025/2025-06-18-zimbabwe-oag-local-authorities-report-2024.md,,0,,

@@ -4,6 +4,6 @@ k,url,status,detail,cache,words,kind,page_title
 3,https://cib.govmu.org/Documents/Reports/Digital%20Government%20Enablers.pdf,fetched,,scripts/.workroot/study/localgov/cache/MUS/3.txt,798,pdf,
 4,https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/Blueprint-for-Mauritius-2025.pdf,held,held as raw/2025/2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029.md,,0,,
 5,https://nationalbudget2026.govmu.org/documents/2026_27_PSIP.pdf,held,held as raw/2026/2026-06-19-psip-2026-2027-to-2030-2031.md,,0,,
-6,https://nationalbudget2025.govmu.org/documents/2025_26_localGovt.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+6,https://nationalbudget2025.govmu.org/documents/2025_26_localGovt.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture",,0,,
 7,https://nationalbudget2026.govmu.org/documents/2026_27_annexBudget.pdf,held,held as raw/2026/2026-06-25-annex-budget-speech-2026-2027-land-deeds-e-submission.md,,0,,
 8,https://mof.govmu.org/Documents/budget_2025_2026/2025_26_annexBudget_final.pdf,held,held as raw/2025/2025-06-05-mus-annex-budget-speech-2025-26-companion.md,,0,,

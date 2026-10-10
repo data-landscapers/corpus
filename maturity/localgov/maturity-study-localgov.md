@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-localgov.md — the fifth maturity study: ICT infrastructure for local government, as the office's connection
 last_reviewed: 2026-10-10
-status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 under way
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 closed, waiting on notes-for-osint 224
 ---
 
 # Maturity study: localgov — office connection
@@ -97,7 +97,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentr
 - [x] **L1. Bill's rulings**: the six proposals stand, 2026-10-10.
 - [x] **L2. Review all 54 countries**, method §4: 4,154 documents, 607 facts.
 - [x] **L3. Test and fix the ladder**: 2 at stage 5, 1 at 4, 29 at 3, 8 at 2, 1 at 1; 9 facts withdrawn.
-- [ ] **L4. Search and hand over**, method §5.
+- [x] **L4. Search and hand over**, method §5: 59 documents, `notes-for-osint` 224.
 - [ ] **L5. Re-read and stage.**
 - [ ] **L6. Write, render and lint.**
 - [ ] **L7. Report to Bill.**

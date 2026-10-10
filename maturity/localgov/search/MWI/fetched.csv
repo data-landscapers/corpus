@@ -1,9 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://documents1.worldbank.org/curated/en/099061924122013705/txt/P160533-fa04dc42-9e3e-48d9-bf1d-a3485fc6d61d.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+1,https://documents1.worldbank.org/curated/en/099061924122013705/txt/P160533-fa04dc42-9e3e-48d9-bf1d-a3485fc6d61d.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
 2,https://digmap.pppc.mw/pppc-e-govt-sensitize-mwanza-mdas-on-ppp-connectivity-initiative/,fetched,,scripts/.workroot/study/localgov/cache/MWI/2.txt,435,html,"PPPC, E-govt sensitize Mwanza MDAs on PPP Connectivity Initiative"
 3,https://digmap.pppc.mw/digmap-internet-connectivity-to-over-500-mdas/,fetched,,scripts/.workroot/study/localgov/cache/MWI/3.txt,554,html,DIGMAP Internet Connectivity to over 500 MDAs
 4,https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt,held,held as raw/2024/2024-01-01-world-bank-mwi-2024-02-malawi-digital-acceleration-dmap-bw01.md,,0,,
 5,https://documents1.worldbank.org/curated/en/099091824155589106/pdf/P505095-9d6abe69-a9cf-48cb-bdd8-9140a232f79e.pdf,fetched,,scripts/.workroot/study/localgov/cache/MWI/5.txt,31221,pdf,World Bank Document
-6,https://ppda.mw/storage/documents/opentenders/ADVERT-EOI-LA%20IFMIS%202_FF.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+6,https://ppda.mw/storage/documents/opentenders/ADVERT-EOI-LA%20IFMIS%202_FF.pdf,fetched,"second pass, by second client",scripts/.workroot/study/localgov/cache/MWI/6.txt,1203,pdf,REQUEST FOR EXPRESSIONS OF INTEREST
 7,https://mwnation.com/councils-operating-on-expired-ifmis/,fetched,,scripts/.workroot/study/localgov/cache/MWI/7.txt,549,html,Councils operating on expired Ifmis - Nation Online
 8,https://www.theigc.org/sites/default/files/2024-01/Fleck%20et%20al%20Final%20report%20August%202023.pdf,fetched,,scripts/.workroot/study/localgov/cache/MWI/8.txt,15836,pdf,

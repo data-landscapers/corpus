@@ -1,8 +1,8 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.undp.org/fr/cameroon/blog/le-droit-lexistence-legale-en-moins-de-24h-lhistoire-de-la-digitalisation-des-faits-detat-civil-dans-la-region-de-lextreme-nord-du,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+1,https://www.undp.org/fr/cameroon/blog/le-droit-lexistence-legale-en-moins-de-24h-lhistoire-de-la-digitalisation-des-faits-detat-civil-dans-la-region-de-lextreme-nord-du,unfetchable,"HTTP 403; Wayback HTTP 429, not checked | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture",,0,,
 2,https://www.apc.org/sites/default/files/pb_cameroon_french.pdf,fetched,,scripts/.workroot/study/localgov/cache/CMR/2.txt,13950,pdf,
 3,http://pndp.org/documents/SIM_ba_Modernisation_chaine_budgetaire.pdf,fetched,,scripts/.workroot/study/localgov/cache/CMR/3.txt,2087,pdf,
-4,https://www.minhdu.gov.cm/wp-content/uploads/2022/10/CAMTEL-SESSION-SPECIALE-7_SMART-CITIES-OPPORTUNITES-DEFIS-ET-PERSPECTIVES-v1.4.pdf,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,
+4,https://www.minhdu.gov.cm/wp-content/uploads/2022/10/CAMTEL-SESSION-SPECIALE-7_SMART-CITIES-OPPORTUNITES-DEFIS-ET-PERSPECTIVES-v1.4.pdf,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked | second pass: second client: ConnectTimeout; certificate unverified: ConnectTimeout; Wayback: no usable capture",,0,,
 5,https://www.kongossamagazine.com/2024/06/politique-publiques-adisi-cameroun-veut.html,fetched,,scripts/.workroot/study/localgov/cache/CMR/5.txt,1138,html,Politique publiques : Adisi-Cameroun veut utiliser Internet pour booster la participation des jeunes .
 6,https://antic.cm/index.php/fr/component/k2/item/441-renforcement-de-la-gouvernance-locale-l-antic-forme-71-communes-de-la-region-du-centre-aux-tic.html,fetched,,scripts/.workroot/study/localgov/cache/CMR/6.txt,440,html,Renforcement de la gouvernance locale : l’ANTIC forme 71 communes de la région du Centre aux TIC
 7,https://armp.cm/details?id_publication=4258&type_publication=DC,fetched,,scripts/.workroot/study/localgov/cache/CMR/7.txt,665,html,AGENCE DE RÉGULATION DES MARCHÉS PUBLICS

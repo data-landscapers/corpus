@@ -1,8 +1,8 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://documents1.worldbank.org/curated/en/099111025151011061/txt/P171034-0104f174-616c-4ec6-92c6-19e1c2a6d4ac.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+1,https://documents1.worldbank.org/curated/en/099111025151011061/txt/P171034-0104f174-616c-4ec6-92c6-19e1c2a6d4ac.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
 2,https://dfp.gov.et/sites/default/files/images/resource/AM_Ethiopia_Digital_Foundations_and_TMA%2C_Jan_20_Feb_6%2C_2025.pdf,held,held as raw/2025/2025-02-01-ethiopia-digital-foundations-project-aide-memoire.md,,0,,
 3,http://www.mint.gov.et/documents/d/guest/final-mint-egov-services-evaluation-report-2023-?download=true,held,held as raw/2023/2023-02-01-mint-assessment-provision-e-government-services.md,,0,,
 4,https://documents1.worldbank.org/curated/en/099111824121513481/pdf/P1710341737ee4098183021f92a540a8564.pdf,fetched,,scripts/.workroot/study/localgov/cache/ETH/4.txt,12565,pdf,World Bank Document
-5,https://www.pmo.gov.et/media/other/b2329861-f9d7-4c4b-9f05-d5bc2c8b33b6.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+5,https://www.pmo.gov.et/media/other/b2329861-f9d7-4c4b-9f05-d5bc2c8b33b6.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture",,0,,
 6,https://inria.hal.science/hal-04601172v1/document,fetched,,scripts/.workroot/study/localgov/cache/ETH/6.txt,175,html,Making sure you're not a bot!
-7,https://www.ethiotelecom.et/ethio-telecom-2024-25-semi-annual-business-performance-report/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+7,https://www.ethiotelecom.et/ethio-telecom-2024-25-semi-annual-business-performance-report/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture",,0,,

@@ -1,9 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://documents1.worldbank.org/curated/en/099082323102024792/txt/P11821307cc1c003e0bf5709384bc41bafd.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+1,https://documents1.worldbank.org/curated/en/099082323102024792/txt/P11821307cc1c003e0bf5709384bc41bafd.txt,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
 2,https://alwatwan.net/societe/d%C3%A9centralisation/projet-amecc-i-vers-la-%C2%ABmodernisation-de-l%E2%80%99%C3%A9tat-civil%C2%BB.html,held,held as raw/2026/2026-03-26-amecc-civil-registry-computerisation-validation-workshop-alwatwan.md,,0,,
 3,https://www.francophonie.org/le-projet-etat-civil-deploye-aux-comores-8175,held,held as raw/2025/2025-09-25-oif-projet-ruwa-mwana-etat-civil-comores.md,,0,,
 4,https://alwatwan.net/societe/modernisation-de-l%E2%80%99administration-publique-i-lancement-officiel-du-projet-e-administration.html,held,held as raw/2025/2025-10-16-e-administration-project-launch-eu-expertise-france-alwatwan.md,,0,,
-5,https://gold.uclg.org/sites/default/files/field-document/comoros_2023.pdf,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+5,https://gold.uclg.org/sites/default/files/field-document/comoros_2023.pdf,fetched,"second pass, by Wayback",scripts/.workroot/study/localgov/cache/COM/5.txt,14351,pdf,
 6,https://www.cadri.net/system/files/2021-06/CADRI%20Comores%20-%20Rapport%20diagnostic%20capacite%CC%81s%20-%20Version%20partagee_0.pdf,fetched,,scripts/.workroot/study/localgov/cache/COM/6.txt,40302,pdf,
 7,https://evaluationreports.unicef.org/GetDocument?documentID=20023&fileID=51916,fetched,,scripts/.workroot/study/localgov/cache/COM/7.txt,3758,pdf,Terms of Reference (Template)
 8,https://lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-plan-strat%C3%A9gique-de-modernisation-de-l%E2%80%99%C3%A9tat-civil-.html,fetched,,scripts/.workroot/study/localgov/cache/COM/8.txt,496,html,Vers un plan stratégique de modernisation de l’état civil | La Gazette Des Comores
