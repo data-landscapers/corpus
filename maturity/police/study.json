@@ -1,0 +1,218 @@
+{
+  "id": "police",
+  "study_file": "maturity-study-police.md",
+  "subjects": [
+    "digital.rural",
+    "dpi.mis"
+  ],
+  "stage_topic": "dpi.mis",
+  "redraws": [
+    "digital.rural--digitalisation-of-rural-police-stations"
+  ],
+  "terms": [
+    "police station",
+    "police stations",
+    "police post",
+    "police posts",
+    "police service",
+    "police force",
+    "national police",
+    "gendarmerie",
+    "commissariat",
+    "commissariats",
+    "brigade de gendarmerie",
+    "brigades de gendarmerie",
+    "police nationale",
+    "poste de police",
+    "postes de police",
+    "police judiciaire",
+    "polícia nacional",
+    "polícia judiciária",
+    "esquadra",
+    "esquadras",
+    "posto policial",
+    "postos policiais",
+    "مركز الشرطة",
+    "مراكز الشرطة",
+    "مخفر",
+    "الدرك",
+    "الأمن الوطني",
+    "occurrence book",
+    "occurrence books",
+    "digital occurrence book",
+    "crime register",
+    "complaints register",
+    "case docket",
+    "case dockets",
+    "e-docket",
+    "charge sheet",
+    "police case management",
+    "crime administration system",
+    "crime records",
+    "crime reporting",
+    "crime statistics",
+    "criminal records",
+    "police information system",
+    "police records",
+    "main courante",
+    "registre des plaintes",
+    "dépôt de plainte",
+    "procès-verbal",
+    "procès-verbaux",
+    "fichier central",
+    "casier judiciaire",
+    "système d'information policière",
+    "livro de ocorrências",
+    "auto de notícia",
+    "participação criminal",
+    "registo criminal",
+    "informação criminal",
+    "processo-crime",
+    "محضر",
+    "بلاغ",
+    "السجل العدلي",
+    "fingerprint identification",
+    "empreintes digitales",
+    "AFIS",
+    "e-policing",
+    "digital policing",
+    "smart police station",
+    "police digitalisation",
+    "police digitization",
+    "WAPIS",
+    "SIPAO",
+    "IECMS",
+    "I-24/7",
+    "AFSECOM",
+    "AFRIPOL"
+  ],
+  "sub_indicators": [
+    {
+      "key": "record",
+      "label": "Station records",
+      "subject": "digital.rural",
+      "text": "Digitalisation of rural police stations: station records",
+      "indicator_id": "digital.rural--digitalisation-of-rural-police-stations-station-records",
+      "class": "record"
+    }
+  ],
+  "classes": [
+    "record",
+    "statistics",
+    "identification",
+    "single-function",
+    "public",
+    "surveillance",
+    "personnel",
+    "enabling",
+    "border",
+    "exchange"
+  ],
+  "aspects": [
+    {
+      "key": "governance",
+      "name": "Governance, planning, finance",
+      "role": "qualifier",
+      "window_months": 36,
+      "facets": {
+        "owner": [
+          "ministry",
+          "partner",
+          "vendor"
+        ],
+        "plan": [
+          "current",
+          "none"
+        ],
+        "finance": [
+          "domestic",
+          "donor",
+          "not-stated"
+        ]
+      }
+    },
+    {
+      "key": "records",
+      "name": "Records made digitally",
+      "role": "coverage",
+      "multi": true,
+      "defer": [
+        "none"
+      ],
+      "values": [
+        "O",
+        "C",
+        "none"
+      ]
+    },
+    {
+      "key": "made",
+      "name": "How the record is made",
+      "role": "coverage",
+      "defer": [
+        "paper"
+      ],
+      "prefer": [
+        "connected"
+      ],
+      "values": {
+        "record": [
+          "connected",
+          "local",
+          "keyed-elsewhere",
+          "paper"
+        ]
+      }
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": [
+        "advancing",
+        "no-change",
+        "regressing"
+      ]
+    },
+    {
+      "key": "stations",
+      "name": "Stations doing the digital entry",
+      "role": "coverage",
+      "pattern": "share:\\d{1,3}(\\.\\d+)?%|equipped:\\d{1,3}(\\.\\d+)?%|count:\\d+|pilot|none|not-published",
+      "prefer": [
+        "share:",
+        "equipped:",
+        "count:",
+        "pilot",
+        "none",
+        "not-published"
+      ]
+    }
+  ],
+  "cap": {
+    "aspect": "governance",
+    "above": 3,
+    "flag": "externally run",
+    "all": [
+      "owner:ministry"
+    ],
+    "any": [
+      "finance:domestic",
+      "plan:current"
+    ]
+  },
+  "flags": [
+    "externally run",
+    "rural gap",
+    "justice linked",
+    "advancing",
+    "regressing"
+  ],
+  "exclude_sources": [
+    {
+      "slug": "2026-03-31 Africa we have a data problem",
+      "why": "An AI-assisted compilation by its own header, not sourced fact (Bill, 2026-10-06). Its rows stay in evidence.csv; none enters a profile or sets a stage."
+    }
+  ]
+}
