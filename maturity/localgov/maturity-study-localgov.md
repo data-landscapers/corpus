@@ -92,7 +92,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentr
 ## 6. What the review reads and the search asks for
 
 - **Subjects and term list**: in `study.json`.
-- **Source types for the briefs**, ranked: annual reports of the ministry of local government and the national ICT agency, for government-network coverage; budget performance reports and parliamentary answers; audit reports on local governments; World Bank, African Development Bank, European Union and UNDP project documents and evaluations; local government association surveys; dated news of a connection, an outage or a withdrawal, for aspect 4.
+- **Source types for the briefs**, ranked: annual reports of the ministry of local government and the national ICT agency, for government-network coverage; budget performance reports and parliamentary answers; audit reports on local governments; World Bank, African Development Bank, European Union and UNDP project documents and evaluations; local government association surveys; dated news, for aspect 4.
 
 ## 7. Tasks, in order
 
