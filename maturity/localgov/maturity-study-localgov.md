@@ -41,8 +41,6 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 
 **Working online is evidence of a connection.** A source saying local governments enter transactions, at their own offices, in a national system held elsewhere states a `connection`, used for `systems`.
 
-**Classified by what the source says, never by name.**
-
 **Local governments.** The unit is the **basic tier**: the lowest body that administers a locality generally and holds its own budget, whether **elected or appointed**: communes, municipalities, district and town councils, local government areas, counties, woredas. The denominator is the country's own count of them; the short summary names the tier.
 
 **One flag that never changes the stage.** *On the government network*: the offices are on the government's own network.
@@ -81,7 +79,7 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 
 **The registry study's R3 fixes hold** (its §4): `institutional` is read from the fact's words, and a law places nothing. A connection with no use named is read as `internet`.
 
-**Fixed at L3** (`ladder-test.csv`, `corrections.csv`): every rung is reached. A share places above stage 3 only where its own source states the `institutional` connection. A network's coverage of areas is `backbone`. A count of offices, centres or sites is a floor without its total. A connection announced is preparation. The basic tier is the one the country counts as its local governments; sub-counties, sectors, cells and wards are sub-offices. A ministry's local sector office is `central`.
+**Fixed at L3** (`ladder-test.csv`, `corrections.csv`): every rung is reached. A share places above stage 3 only where its own source states the `institutional` connection. A network's coverage of areas is `backbone`. A count of offices, centres or sites is a floor without its total. A connection announced is preparation, and classified by what the source says. The basic tier is the one the country counts as its local governments; sub-counties, sectors, cells and wards are sub-offices. A ministry's local sector office is `central`.
 
 ## 5. The norm
 
