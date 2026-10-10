@@ -1,0 +1,76 @@
+{
+  "slug": "2026-07-29-undp-malawi-police-crime-management-system",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O;C",
+      "fact": "UNDP Malawi says the Crime Management System training builds officers' skills in digitally recording, tracking and managing crime information from the moment a case is reported until its final disposal, the system covering the entire case cycle.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Crime Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "UNDP Malawi describes the Crime Management System as designed to give the Malawi Police Service a centralised digital platform for crime information, to be introduced across police stations and formations nationwide; it does not say how or where a station enters a record.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Crime Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "not-published",
+      "fact": "UNDP Malawi says officers from across the country were trained to be early adopters and champions of the Crime Management System 'as it is introduced' across police stations and formations nationwide; no number of stations using it, and no number of officers trained, is given.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Crime Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 29 July 2026 the Malawi Police Service and UNDP Malawi opened a three-day technical training on the Crime Management System at the Central Region Training Centre in Lilongwe, for officers from across the country ahead of its introduction in stations.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Crime Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "UNDP Malawi presents the Crime Management System as the Malawi Police Service's own platform, launched by the Service in partnership with UNDP, with the Commissioner for Research and Planning and a Deputy Commissioner speaking for it; UNDP says it supports the system and its rollout.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Crime Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "UNDP Malawi's release of 29 July 2026 names UNDP as partner and supporter of the Crime Management System under its MESP governance portfolio but states no cost, no funder and no budget line.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Crime Management System",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Crime Management System",
+      "country_label": "Crime Management System",
+      "class": "record",
+      "platform": "",
+      "owner": "Malawi Police Service, with UNDP Malawi as partner",
+      "tiers": "To be introduced across police stations and formations nationwide; officers trained as early adopters, July 2026"
+    }
+  ],
+  "note": ""
+}

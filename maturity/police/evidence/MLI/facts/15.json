@@ -1,0 +1,23 @@
+{
+  "slug": "2025-02-21-mali-jo-2025-05-ordonnance-2025-009-ansaec-rnip",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Fichier national automatisé des Empreintes digitales (FNAED)",
+      "country_label": "FNAED",
+      "class": "identification",
+      "platform": "",
+      "owner": "Direction générale de la Police technique et scientifique, Ministère de la Sécurité et de la Protection civile",
+      "tiers": "A section of the Division de Dactyloscopie in the directorate-general's staffing table (Décret n°2025-0076 of 7 February 2025): one head and two to three officers; no regional or station tier stated"
+    },
+    {
+      "system": "Fichier manuel des Empreintes digitales (FMED)",
+      "country_label": "FMED",
+      "class": "identification",
+      "platform": "paper (manual file)",
+      "owner": "Direction générale de la Police technique et scientifique, Division des Antécédents judiciaires",
+      "tiers": "A section in the directorate-general's staffing table of 7 February 2025, beside a Section Statistiques et Base de Données; no station tier stated"
+    }
+  ],
+  "note": "The gazette issue carries the staffing table of the forensic police directorate-general, which names an automated and a manual fingerprint file (identification, noted not assessed); nothing in it states how police or gendarmerie stations record reports or cases."
+}

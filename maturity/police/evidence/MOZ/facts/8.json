@@ -1,0 +1,8 @@
+{
+  "slug": "2023-04-18-innovative-data-tool-gbv-survivors-mozambique",
+  "facts": [],
+  "systems": [
+    {"system": "InfoViolência", "country_label": "InfoViolência", "class": "single-function", "platform": "", "owner": "Ministry of the Interior, through police departments; developed with Spotlight Initiative support", "tiers": "police stations and Integrated Services Centres; piloted in Maputo Cidade, Gaza, Manica and Nampula provinces as at April 2023, nationwide expansion planned; over 268 police officers trained since 2019"}
+  ],
+  "note": "InfoViolência records gender-based violence cases only, at police stations and Integrated Services Centres, replacing printed forms: one class of offence, so single-function and no fact for the record class."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2019-05-02-unfpa-infoviolencia-gbv-app",
+  "facts": [],
+  "systems": [
+    {"system": "InfoViolencia", "country_label": "InfoViolencia", "class": "single-function", "platform": "custom software developed by EPOP Survey Consultoria e Serviços", "owner": "Ministry of Interior, with UNFPA support", "tiers": "pre-pilot from 2 May 2019 with officers of three police stations in Maputo and Matola, who fill out a registration form and insert its data in the platform; expansion to the whole country intended later"}
+  ],
+  "note": "InfoViolencia registers and manages gender-based violence cases only: one class of offence, so single-function and no fact for the record class."
+}

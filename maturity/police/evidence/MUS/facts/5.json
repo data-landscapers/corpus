@@ -1,0 +1,14 @@
+{
+  "slug": "2026-06-19-psip-2026-2027-to-2030-2031",
+  "facts": [],
+  "systems": [
+    {"system": "Automated Biometric Identification System", "country_label": "Automated Biometric Identification System (also 'Automated Biometric Information System')", "class": "identification", "platform": "", "owner": "Police Service", "tiers": "Listed as a Police Service e-Government initiative in the investment programme; tiers not stated"},
+    {"system": "e-Border Management System (Consultancy)", "country_label": "e-Border Management System", "class": "border", "platform": "", "owner": "Police Service", "tiers": "Consultancy stage; listed as a Police Service e-Government initiative"},
+    {"system": "Residence Permit Card System", "country_label": "Residence Permit Card System", "class": "border", "platform": "", "owner": "Police Service", "tiers": "Listed as a Police Service e-Government initiative; tiers not stated"},
+    {"system": "Digitalisation of Fixed Penalty Notice", "country_label": "Digitalisation of Fixed Penalty Notice", "class": "single-function", "platform": "", "owner": "Police Service", "tiers": "Listed as a Police Service e-Government initiative; tiers not stated"},
+    {"system": "Integrated Driving License Management System", "country_label": "Upgrading of Integrated Driving License Management System", "class": "single-function", "platform": "", "owner": "Police Service", "tiers": "An upgrade, listed as a Police Service e-Government initiative; tiers not stated"},
+    {"system": "Forensic Science Laboratory (construction)", "country_label": "Construction of the Forensic Science Laboratory", "class": "identification", "platform": "", "owner": "Forensic Science Laboratory, under the Prime Minister's Office vote; financed by Republic of India grant and loan", "tiers": "A building project in the 2026-27 estimates"},
+    {"system": "Coastal Surveillance Radar", "country_label": "Coastal Surveillance Radar", "class": "surveillance", "platform": "", "owner": "Not stated; financed by a Government of Japan grant (Rs 380 million in 2026-27)", "tiers": "Not stated"}
+  ],
+  "note": "Excerpt of the investment programme (the capture stops inside section 5.1, before the Police Service project list): the Police Service's e-Government initiatives are all of noted classes, and none is a station records system."
+}
