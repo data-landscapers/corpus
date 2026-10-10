@@ -79,13 +79,13 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 
 **The registry study's R3 fixes hold** (its §4): `institutional` is read from the fact's words, and a law places nothing. A connection with no use named is read as `internet`.
 
-**Fixed at L3** (`ladder-test.csv`, `corrections.csv`): every rung is reached. A share places above stage 3 only where its own source states the `institutional` connection. A network's coverage of areas is `backbone`. A count of offices, centres or sites is a floor without its total. A connection announced is preparation, and classified by what the source says. The basic tier is the one the country counts as its local governments; sub-counties, sectors, cells and wards are sub-offices. A ministry's local sector office is `central`.
+**Fixed at L3** (`ladder-test.csv`, `corrections.csv`): every rung is reached. A share places above stage 3 only where its own source states the `institutional` connection. A network's coverage of areas is `backbone`. A count of offices, centres or sites is a floor without its total. A connection announced is preparation. The basic tier is the one the country counts as its local governments; sub-counties, sectors, cells and wards are sub-offices. A ministry's local sector office is `central`.
 
 ## 5. The norm
 
 The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentralisation charter of 2014, Article 16(2): local governments "shall be provided with the required human, financial and technological resources", and ICT "shall be made accessible and effectively used". Its reference measure is the United Nations' Local Online Services Index.
 
-**Neither measures what the sub-indicator measures.** Article 16 sets a duty and no measure. The Index scores one city's portal, the `web` class. The ladder takes the Charter's two words: *accessible* is the connection and *effectively used* is `systems`. *(Article 16 read 2026-10-10, in the Laws.Africa text.)*
+**Neither measures what the sub-indicator measures.** Article 16 sets a duty and no measure. The Index scores one city's portal, the `web` class. The ladder takes the Charter's two words: *accessible* is the connection and *effectively used* is `systems`. *(Read 2026-10-10.)*
 
 ## 6. What the review reads and the search asks for
 
