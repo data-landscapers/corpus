@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "governance",
+ "fact": "Décret n° 2019-376 of 27 December 2019 on the commandement des forces de police, as reproduced by the interior ministry, places a direction des transmissions et de l'informatique within the police command, charged with the security of the information systems, the maintenance of equipment and promoting information and communication technology within the police, and gives the état-major a division du traitement de l'information; it names no station records system.",
+ "title": "Commandement des forces de Police",
+ "publisher": "Ministère de l'Intérieur, de la Décentralisation et du Développement Local",
+ "published": "2019-12-27",
+ "date_source": "proxy",
+ "why_not": ""
+}

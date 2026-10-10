@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "stations",
+ "fact": "Eritrea's report for 2017-2020, dated September 2021, says the country has 54 police stations and 35 sub stations, only one of them (Kerkebet, Anseba Region) new since the first report submitted in 2016; it states nothing on how any of them record reports or cases.",
+ "title": "Eritrea’s National Report (2017-2020) on The African Charter",
+ "publisher": "The State of Eritrea, Ministry of Foreign Affairs",
+ "published": "2021-09",
+ "date_source": "source",
+ "why_not": ""
+}

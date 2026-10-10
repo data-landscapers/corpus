@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "made;last12",
+ "fact": "The Uganda Police Force's crime report for 2025 says the force continued to digitalise processes by introducing the Crime Incident Tracking and Analysis System (CITRAS), aimed at reducing 'the predominant manual system'; it names no Crime Records Management System or ePIS in use and gives no count of stations entering cases digitally.",
+ "title": "The Uganda Police Force Annual Crime Report 2025",
+ "publisher": "Uganda Police Force",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

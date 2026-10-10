@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "made;stations",
+ "fact": "At an information session in Bamako on 26-28 June 2019, Mali's Centre national de documentation criminelle presented SIPAO as fed daily by agents at the DACORE and by stand-alone remote posts whose interconnection was still being carried out, and participants said the application answers the problem of police data held on paper.",
+ "title": "SIPAO Lettre d'information, numéro 12",
+ "publisher": "INTERPOL",
+ "published": "2019-08",
+ "date_source": "source",
+ "why_not": ""
+}

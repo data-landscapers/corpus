@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "records;made",
+ "fact": "The security ministry's 2018 police statistical yearbook (edition December 2019) states that its data were collected in the third quarter of 2019 by agents filling in fiches from the registers of the regional directorates and commissariats centraux and then keyed into a database at the ministry's Bureau de stratégie et de développement, and lists among the difficulties registers missing or badly kept in some structures, no durable archiving in most services and a lack of computers.",
+ "title": "Annuaire statistique de la police et de la protection civile 2018",
+ "publisher": "Ministère de la Sécurité et de la Protection Civile, Bureau de Stratégie et de Développement",
+ "published": "2019-12",
+ "date_source": "source",
+ "why_not": ""
+}

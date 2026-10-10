@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "made;stations;governance",
+ "fact": "In December 2022 INTERPOL stated that 14 of the 16 beneficiary countries had operational DACOREs recording police data daily, and that Mali was one of the two where all operational activity had been suspended until recently, though it held all the infrastructure needed to digitise police data; the steering committee had allowed training to restart there.",
+ "title": "SIPAO Lettre d'information, numéro 21",
+ "publisher": "INTERPOL",
+ "published": "2022-12",
+ "date_source": "source",
+ "why_not": ""
+}

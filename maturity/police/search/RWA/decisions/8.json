@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "record",
+ "aspect": "",
+ "fact": "",
+ "title": "Frequently Asked Questions",
+ "publisher": "Rwanda National Police",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "Fetched text does not carry the force-structure answer; no station count, no date, nothing on records."
+}

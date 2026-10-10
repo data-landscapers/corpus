@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "governance",
+ "fact": "The SAPS Annual Performance Plan 2025/26, tabled 4 April 2025, lists CAS/ICDMS among the department's digitalised crime detection and investigation systems, sets a 2025/26 IS/ICT deliverable of 50% functionality integration for enhanced case docket management, anticipates R2,998 billion of expenditure for Technology Management Services in 2025/26 and names SITA as the provider of outsourced IT services.",
+ "title": "Annual Performance Plan 2025/2026",
+ "publisher": "South African Police Service",
+ "published": "2025-04-04",
+ "date_source": "source",
+ "why_not": ""
+}

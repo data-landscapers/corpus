@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "governance",
+ "fact": "On 2 April 2025 the Ministry of Justice announced that the upgraded IECMS would go live on 11 April 2025 after a system downtime of 5-10 April 2025, with support through the ministry's own IECMS help address.",
+ "title": "Scheduled IECMS System Downtime and Upgraded System Deployment",
+ "publisher": "Ministry of Justice",
+ "published": "2025-04-02",
+ "date_source": "source",
+ "why_not": ""
+}

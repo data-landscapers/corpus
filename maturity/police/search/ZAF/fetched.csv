@@ -1,0 +1,10 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://pmg.org.za/committee-meeting/32761/,fetched,,scripts/.workroot/study/police/cache/ZAF/1.txt,10903,html,SAPS 2021/22 Annual Performance Plan (Administration & Visible Policing); with Deputy Minister | PMG
+2,https://pmg.org.za/committee-question/35281/,fetched,,scripts/.workroot/study/police/cache/ZAF/2.txt,698,html,Question to the Minister of Police - NW6007 | PMG
+3,https://www.saps.gov.za/about/stratframework/strategic_plan/2025_2026/SAPS_2025-26_APP_(04_April_2025).pdf,fetched,,scripts/.workroot/study/police/cache/ZAF/3.txt,49071,pdf,
+4,https://www.saps.gov.za/about/stratframework/strategic_plan/2025_2030/SAPS_2025_to_2030_SP_(04_April_2025).pdf,unfetchable,"SSLError; Wayback HTTP 503, not checked",,0,,
+5,https://www.saps.gov.za/newsroom/msspeechdetail.php?nid=60176,unfetchable,SSLError; no usable Wayback capture,,0,,
+6,https://pmg.org.za/files/RNW2056-241223.docx,unfetchable,"empty extraction; Wayback HTTP 503, not checked",,0,,
+7,https://www.gov.za/news/media-statements/mec-albert-fritz-e-docket-software-not-being-effectively-used-saps-and-courts,fetched,,scripts/.workroot/study/police/cache/ZAF/7.txt,533,html,MEC Albert Fritz on e-docket software not being effectively used by SAPS and Courts
+8,https://pss.lgv.org.za/wp-content/uploads/2024/10/SAPS-REGISTRATION-OF-DOCKETS.pdf,fetched,,scripts/.workroot/study/police/cache/ZAF/8.txt,7842,pdf,
+9,https://doi.org/10.4018/jcit.357268,fetched,,scripts/.workroot/study/police/cache/ZAF/9.txt,35,html,Electronic Docket Adoption in Rural Police Stations: A Case of the Amatole District Municipality

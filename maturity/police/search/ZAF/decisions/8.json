@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "record",
+ "aspect": "made",
+ "fact": "National Instruction 3 of 2011 requires every case docket to be registered immediately on CAS and its contents scanned onto the E-Docket system, stations without access to CAS to register dockets in the Crime Register (SAPS 1), and dockets to be recorded manually on a SAPS 441 form for later capture when CAS is offline.",
+ "title": "National Instruction 3 of 2011: Registration of Case Dockets on the Crime Administration System (CAS)",
+ "publisher": "South African Police Service",
+ "published": "2011",
+ "date_source": "source",
+ "why_not": ""
+}
