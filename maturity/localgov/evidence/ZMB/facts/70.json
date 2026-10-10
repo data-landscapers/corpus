@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-25-dzap-prepurchase-bulk-international-bandwidth-rfb",
+  "facts": [],
+  "systems": [
+    {
+      "system": "One Government Network",
+      "country_label": "One Government Network",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Smart Zambia Institute",
+      "tiers": "bulk international internet capacity being bought for it in two lots (bids invited 25 February 2026) under the World Bank-financed Digital Zambia Acceleration Project, for delivery nationwide; no local government office named"
+    }
+  ],
+  "note": "A procurement notice for international bandwidth for the government network, captured as the notice section only; it names no local government office and says nothing of who is on the network."
+}

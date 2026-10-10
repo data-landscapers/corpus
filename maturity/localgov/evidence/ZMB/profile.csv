@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZMB,connection,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-08-26,ZMB-004;ZMB-005;ZMB-027,ZMB-013=owner:ministry;ZMB-023=owner:ministry;ZMB-018=owner:ministry;ZMB-019=plan:current;ZMB-009=owner:ministry;ZMB-032=owner:ministry;ZMB-035=owner:ministry;ZMB-025=plan:current;ZMB-026=owner:ministry;ZMB-039=owner:ministry;ZMB-040=plan:current;ZMB-041=finance:domestic,
+ZMB,connection,use,coverage,systems,2026-03-24,ZMB-017;ZMB-024,ZMB-002=internet;ZMB-012=internet;ZMB-031=internet;ZMB-034=none,
+ZMB,connection,connected,coverage,institutional,2026-08-26,ZMB-001;ZMB-008;ZMB-010;ZMB-016;ZMB-022;ZMB-030;ZMB-038,ZMB-036=none,
+ZMB,connection,last12,qualifier,advancing,2026-08-26,ZMB-006;ZMB-014;ZMB-020,,
+ZMB,connection,authorities,coverage,share:100%,2026-03-25,ZMB-007;ZMB-015;ZMB-021,ZMB-003=count:1;ZMB-011=not-published;ZMB-029=share:80.2%;ZMB-033=count:6;ZMB-028=not-published;ZMB-037=share:1.7%,

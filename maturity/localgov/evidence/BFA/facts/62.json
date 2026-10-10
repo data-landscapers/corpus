@@ -1,18 +1,86 @@
 {
   "slug": "2024-01-30-anptic-nos-realisations",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "ANPTIC, the state ICT agency, lists the interconnection of the buildings of deconcentrated structures and of local governments to RESINA, the government network, and says every public structure interconnected to it has internet access with no monthly fee, over WiMAX or LTE at 5 Mbps, microwave at 200 Mbps or fibre at 1,024 Mbps; the page gives no date for this, so the date is its publication date.", "as_of": "2024-01-30", "date_precision": "day", "system": "RESINA", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "equipped:25%", "fact": "ANPTIC says RESINA serves about 25% of the country's 351 communes ('communes desservies sur 351'); the count itself did not survive capture and the figure is of communes the network serves, not of commune offices connected; the page gives no date for it, so the date is its publication date.", "as_of": "2024-01-30", "date_precision": "day", "system": "RESINA", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "internet", "fact": "ANPTIC says the RESINA connection gives interconnected structures, local governments' buildings among them, access to the government intranet's computing resources, to email and to the web, and that about 25,000 users reach centrally held business software through it, without saying how many of those users are in local governments; the page gives no date, so the date is its publication date.", "as_of": "2024-01-30", "date_precision": "day", "system": "RESINA", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "ANPTIC, the state agency created by decree in 2014, presents RESINA and its fibre, WiMAX, LTE and satellite links as its own achievement and runs the help desk for it; the page gives no date, so the date is its publication date.", "as_of": "2024-01-30", "date_precision": "day", "system": "RESINA", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "ANPTIC, the state ICT agency, lists the interconnection of the buildings of deconcentrated structures and of local governments to RESINA, the government network, and says every public structure interconnected to it has internet access with no monthly fee, over WiMAX or LTE at 5 Mbps, microwave at 200 Mbps or fibre at 1,024 Mbps; the page gives no date for this, so the date is its publication date.",
+      "as_of": "2024-01-30",
+      "date_precision": "day",
+      "system": "RESINA",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "ANPTIC says the RESINA connection gives interconnected structures, local governments' buildings among them, access to the government intranet's computing resources, to email and to the web, and that about 25,000 users reach centrally held business software through it, without saying how many of those users are in local governments; the page gives no date, so the date is its publication date.",
+      "as_of": "2024-01-30",
+      "date_precision": "day",
+      "system": "RESINA",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "ANPTIC, the state agency created by decree in 2014, presents RESINA and its fibre, WiMAX, LTE and satellite links as its own achievement and runs the help desk for it; the page gives no date, so the date is its publication date.",
+      "as_of": "2024-01-30",
+      "date_precision": "day",
+      "system": "RESINA",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "RESINA", "country_label": "RESINA, intranet gouvernemental", "class": "connection", "platform": "fibre backbone with metropolitan fibre in the 13 regional capitals, WiMAX and LTE base stations, microwave links and five satellite stations", "owner": "ANPTIC", "tiers": "buildings of the administration, of deconcentrated structures and of local governments; about 25% of 351 communes served; 9 Gbps of international capacity for the administration"},
-    {"system": "stations satellitaires PADTIC", "country_label": "stations satellitaires", "class": "backbone", "platform": "satellite", "owner": "ANPTIC, under the PADTIC project", "tiers": "five stations at Ouagadougou, Bobo-Dioulasso, Tenkodogo, Dori and Gaoua, 600 Mbps"},
-    {"system": "mini-datacenters and cloud nodes", "country_label": "mini-datacenters, nœuds cloud", "class": "backbone", "platform": "", "owner": "ANPTIC", "tiers": "about ten mini-datacentres and 8 cloud nodes, about 440 To of storage, 492 virtual machines for the administration"},
-    {"system": "logiciels métiers transversaux (SI N@folo/CID, SIGASPE, SYNTAX, CIE)", "country_label": "logiciels métiers", "class": "central", "platform": "", "owner": "the ministries and institutions concerned", "tiers": "central databases with users on different sites; about 25,000 users through RESINA"},
-    {"system": "messagerie gov.bf and téléphonie IP", "country_label": "messagerie professionnelle, téléphonie IP", "class": "central", "platform": "", "owner": "ANPTIC", "tiers": "30,000 mail accounts in ministries and institutions; 1,170 IP telephones in a pilot"},
-    {"system": "Bondoo, TAWALÉ (CIM), TOUMNANA (SIGED), SIGEPE, e-conseil des ministres", "country_label": "services et applications développées", "class": "central", "platform": "", "owner": "ANPTIC", "tiers": "administrative structures of the state"}
+    {
+      "system": "RESINA",
+      "country_label": "RESINA, intranet gouvernemental",
+      "class": "connection",
+      "platform": "fibre backbone with metropolitan fibre in the 13 regional capitals, WiMAX and LTE base stations, microwave links and five satellite stations",
+      "owner": "ANPTIC",
+      "tiers": "buildings of the administration, of deconcentrated structures and of local governments; about 25% of 351 communes served; 9 Gbps of international capacity for the administration"
+    },
+    {
+      "system": "stations satellitaires PADTIC",
+      "country_label": "stations satellitaires",
+      "class": "backbone",
+      "platform": "satellite",
+      "owner": "ANPTIC, under the PADTIC project",
+      "tiers": "five stations at Ouagadougou, Bobo-Dioulasso, Tenkodogo, Dori and Gaoua, 600 Mbps"
+    },
+    {
+      "system": "mini-datacenters and cloud nodes",
+      "country_label": "mini-datacenters, nœuds cloud",
+      "class": "backbone",
+      "platform": "",
+      "owner": "ANPTIC",
+      "tiers": "about ten mini-datacentres and 8 cloud nodes, about 440 To of storage, 492 virtual machines for the administration"
+    },
+    {
+      "system": "logiciels métiers transversaux (SI N@folo/CID, SIGASPE, SYNTAX, CIE)",
+      "country_label": "logiciels métiers",
+      "class": "central",
+      "platform": "",
+      "owner": "the ministries and institutions concerned",
+      "tiers": "central databases with users on different sites; about 25,000 users through RESINA"
+    },
+    {
+      "system": "messagerie gov.bf and téléphonie IP",
+      "country_label": "messagerie professionnelle, téléphonie IP",
+      "class": "central",
+      "platform": "",
+      "owner": "ANPTIC",
+      "tiers": "30,000 mail accounts in ministries and institutions; 1,170 IP telephones in a pilot"
+    },
+    {
+      "system": "Bondoo, TAWALÉ (CIM), TOUMNANA (SIGED), SIGEPE, e-conseil des ministres",
+      "country_label": "services et applications développées",
+      "class": "central",
+      "platform": "",
+      "owner": "ANPTIC",
+      "tiers": "administrative structures of the state"
+    }
   ],
-  "note": "Four facts, all resting on one undated page: the counters on it were captured as zero, so only the label 'environ 25%' of 351 communes survives, and local governments are named in a list of what RESINA interconnection brings, not counted."
+  "note": "Four facts, all resting on one undated page: the counters on it were captured as zero, so only the label 'environ 25%' of 351 communes survives, and local governments are named in a list of what RESINA interconnection brings, not counted. [parent, L3: an authorities fact withdrawn; see corrections.csv]"
 }

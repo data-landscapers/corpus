@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GHA,connection,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-09-03,GHA-002;GHA-003;GHA-004,GHA-007=owner:ministry;GHA-008=finance:not-stated;GHA-014=finance:not-stated;GHA-013=owner:ministry,
+GHA,connection,use,coverage,systems,2025-08-29,GHA-009,GHA-012=internet,
+GHA,connection,connected,coverage,institutional,2024-02-18,GHA-010,GHA-006=none,
+GHA,connection,last12,qualifier,advancing,2026-09-03,GHA-001;GHA-005;GHA-015,,
+GHA,connection,authorities,coverage,count:274,2024-02-18,GHA-011,,

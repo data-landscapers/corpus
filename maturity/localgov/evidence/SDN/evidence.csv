@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,connection,use,systems,"Rural clinics' aggregate health data is compiled on paper or Excel, submitted to locality offices and entered into the national DHIS2 at state and locality levels, on the compilation's reading of WHO's 2020 health information system assessment.",2020,year,DHIS2 entry at locality offices,connection,2026-03-31 Africa we have a data problem,https://data-landscapers.com/2026/03/31/africa-data-problem/

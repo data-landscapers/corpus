@@ -1,14 +1,64 @@
 {
   "slug": "2025-12-09-ucc-annual-communications-sector-report-2024",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The Uganda Communications Commission reports that in 2024 its universal service fund UCUSAF installed Internet Points of Presence at local government headquarters, to strengthen access to e-government services and information; it lists this among community-level programmes and does not say that council staff work over them.", "as_of": "2024", "date_precision": "year", "system": "UCUSAF Internet Points of Presence at local government headquarters", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:20", "fact": "The Uganda Communications Commission states that Internet Points of Presence were installed in local government headquarters across 20 districts in 2024, with no total of local governments given beside the figure.", "as_of": "2024", "date_precision": "year", "system": "UCUSAF Internet Points of Presence at local government headquarters", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The Internet Points of Presence at local government headquarters were installed in 2024 by the regulator, the Uganda Communications Commission, through its Uganda Communications Universal Service and Access Fund.", "as_of": "2024", "date_precision": "year", "system": "UCUSAF Internet Points of Presence at local government headquarters", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The Uganda Communications Commission reports that the fourth National Development Plan (2025/26 to 2029/30) sets a target of extending broadband infrastructure and high-speed internet to schools, hospitals and local government offices; no start date is given beyond the plan period, so the plan's first year is used.", "as_of": "2025", "date_precision": "year", "system": "NDP IV connectivity target for local government offices", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The Uganda Communications Commission reports that in 2024 its universal service fund UCUSAF installed Internet Points of Presence at local government headquarters, to strengthen access to e-government services and information; it lists this among community-level programmes and does not say that council staff work over them.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "UCUSAF Internet Points of Presence at local government headquarters",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:20",
+      "fact": "The Uganda Communications Commission states that Internet Points of Presence were installed in local government headquarters across 20 districts in 2024, with no total of local governments given beside the figure.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "UCUSAF Internet Points of Presence at local government headquarters",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Internet Points of Presence at local government headquarters were installed in 2024 by the regulator, the Uganda Communications Commission, through its Uganda Communications Universal Service and Access Fund.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "UCUSAF Internet Points of Presence at local government headquarters",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Uganda Communications Commission reports that the fourth National Development Plan (2025/26 to 2029/30) sets a target of extending broadband infrastructure and high-speed internet to schools, hospitals and local government offices; no start date is given beyond the plan period, so the plan's first year is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "NDP IV connectivity target for local government offices",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "UCUSAF Internet Points of Presence", "country_label": "Internet Points of Presence (PoPs) at local government headquarters", "class": "connection", "platform": "", "owner": "Uganda Communications Commission, through UCUSAF", "tiers": "local government headquarters in 20 districts"},
-    {"system": "National Backbone Infrastructure Phase V", "country_label": "NBI Phase V", "class": "backbone", "platform": "optical fibre", "owner": "NITA-U", "tiers": "planned: 5,845 km of fibre (5,000 km elsewhere in the report), 63 districts mainly in the north, last-mile connectivity to over 2,800 sites including schools, hospitals, government institutions and parishes"}
+    {
+      "system": "UCUSAF Internet Points of Presence",
+      "country_label": "Internet Points of Presence (PoPs) at local government headquarters",
+      "class": "connection",
+      "platform": "",
+      "owner": "Uganda Communications Commission, through UCUSAF",
+      "tiers": "local government headquarters in 20 districts"
+    },
+    {
+      "system": "National Backbone Infrastructure Phase V",
+      "country_label": "NBI Phase V",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "NITA-U",
+      "tiers": "planned: 5,845 km of fibre (5,000 km elsewhere in the report), 63 districts mainly in the north, last-mile connectivity to over 2,800 sites including schools, hospitals, government institutions and parishes"
+    }
   ],
   "note": ""
 }

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-16-2500-additional-schools-internet-connectivity-zanis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Wide Area Network",
+      "country_label": "Government Wide Area Network",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Smart Zambia Institute",
+      "tiers": "schools being integrated into it as a secure, centrally managed system (April 2026); low Earth orbit satellite used for underserved areas; no local government office named"
+    }
+  ],
+  "note": "School internet connectivity targets; the government network is mentioned only as taking in schools. Nothing on local government offices or their connection."
+}

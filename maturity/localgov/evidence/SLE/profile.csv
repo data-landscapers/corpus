@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SLE,connection,governance,qualifier,finance:donor,2025-08-24,SLE-005,,"not stated: owner, plan"
+SLE,connection,use,coverage,systems,2025,SLE-001;SLE-009,SLE-008=internet,
+SLE,connection,connected,coverage,institutional,2025-04,SLE-003,SLE-006=personal,
+SLE,connection,last12,qualifier,advancing,2025,SLE-011,,
+SLE,connection,authorities,coverage,share:100%,2025,SLE-010,SLE-004=not-published;SLE-002=count:1;SLE-007=none,

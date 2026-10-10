@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+DZA,connection,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-04-05,DZA-004;DZA-010;DZA-024,DZA-015=owner:ministry;DZA-011=owner:ministry;DZA-023=owner:ministry;DZA-020=owner:ministry;DZA-028=owner:ministry,
+DZA,connection,use,coverage,systems,2026-04-05,DZA-001;DZA-002;DZA-006;DZA-008;DZA-013;DZA-016;DZA-018;DZA-021;DZA-025;DZA-029;DZA-030,,
+DZA,connection,connected,coverage,institutional,2023-09,DZA-009;DZA-022;DZA-026,,nothing dated since 2023-10-10
+DZA,connection,last12,qualifier,advancing,2026-04-05,DZA-003,,
+DZA,connection,authorities,coverage,share:100%,2024,DZA-007;DZA-027,DZA-014=not-published;DZA-017=not-published;DZA-012=count:1;DZA-019=pilot,

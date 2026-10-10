@@ -1,11 +1,34 @@
 {
   "slug": "2026-04-27-aps-nekkal-atteint-objectifs-capitalisation-connectivite",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The director general of the national civil registry agency (ANEC) said on 27 April 2026 that connectivity poses enormous problems across the country: in some civil registry centres internet was installed under the Nekkal programme but the circuit was not completed, so in effect there is none, and elsewhere it is very slow; he gives no count of centres.", "as_of": "2026-04-27", "date_precision": "day", "system": "Internet des centres d'état civil (programme Nekkal)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "The director general of the national civil registry agency (ANEC) said on 27 April 2026 that connectivity poses enormous problems across the country: in some civil registry centres internet was installed under the Nekkal programme but the circuit was not completed, so in effect there is none, and elsewhere it is very slow; he gives no count of centres.",
+      "as_of": "2026-04-27",
+      "date_precision": "day",
+      "system": "Internet des centres d'état civil (programme Nekkal)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Internet des centres d'état civil (programme Nekkal)", "country_label": "", "class": "connection", "platform": "", "owner": "Nekkal programme, with ANEC", "tiers": "internet installed in civil registry centres; incomplete in some and very slow, per ANEC's director general on 2026-04-27; no count"},
-    {"system": "centres d'état civil construits (Nekkal)", "country_label": "", "class": "equipment", "platform": "", "owner": "Nekkal programme", "tiers": "several civil registry centres built across the country, others under way"}
+    {
+      "system": "Internet des centres d'état civil (programme Nekkal)",
+      "country_label": "",
+      "class": "connection",
+      "platform": "",
+      "owner": "Nekkal programme, with ANEC",
+      "tiers": "internet installed in civil registry centres; incomplete in some and very slow, per ANEC's director general on 2026-04-27; no count"
+    },
+    {
+      "system": "centres d'état civil construits (Nekkal)",
+      "country_label": "",
+      "class": "equipment",
+      "platform": "",
+      "owner": "Nekkal programme",
+      "tiers": "several civil registry centres built across the country, others under way"
+    }
   ],
   "note": ""
 }

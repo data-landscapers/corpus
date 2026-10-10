@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GAB,connection,governance,qualifier,owner:ministry,2026-04-01,GAB-004,,"not stated: plan, finance"
+GAB,connection,use,coverage,internet,2026-04-01,GAB-002,,
+GAB,connection,connected,coverage,institutional,2026-04-01,GAB-001,,
+GAB,connection,last12,qualifier,advancing,2026-04-01,GAB-005,,
+GAB,connection,authorities,coverage,count:1,2026-04-01,GAB-003,,

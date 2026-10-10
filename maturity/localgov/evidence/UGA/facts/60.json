@@ -1,11 +1,36 @@
 {
   "slug": "2025-10-10-emr-availability-use-public-health-facilities-uganda",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "A journal study, citing NITA-U, states that 603 MDAs, local government sites and public service institutions, health facilities and universities among them, had been connected to the National Backbone Infrastructure, against a target of more than 1,300 government offices in 52 districts; it does not say how many of the 603 are local government offices and gives no date, so the publication date is used.", "as_of": "2025-10-10", "date_precision": "day", "system": "National Backbone Infrastructure (NBI/EGI) connections to government sites", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The study states that the government network connecting MDAs and local government sites was begun by the Government of Uganda in fiscal year 2006/07 and is established by NITA-U, the public-sector IT agency; no date is given for the present arrangement, so the publication date is used.", "as_of": "2025-10-10", "date_precision": "day", "system": "National Backbone Infrastructure (NBI/EGI) connections to government sites", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "A journal study, citing NITA-U, states that 603 MDAs, local government sites and public service institutions, health facilities and universities among them, had been connected to the National Backbone Infrastructure, against a target of more than 1,300 government offices in 52 districts; it does not say how many of the 603 are local government offices and gives no date, so the publication date is used.",
+      "as_of": "2025-10-10",
+      "date_precision": "day",
+      "system": "National Backbone Infrastructure (NBI/EGI) connections to government sites",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The study states that the government network connecting MDAs and local government sites was begun by the Government of Uganda in fiscal year 2006/07 and is established by NITA-U, the public-sector IT agency; no date is given for the present arrangement, so the publication date is used.",
+      "as_of": "2025-10-10",
+      "date_precision": "day",
+      "system": "National Backbone Infrastructure (NBI/EGI) connections to government sites",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "NBI/EGI", "country_label": "National Data Transmission Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)", "class": "backbone", "platform": "optical fibre", "owner": "NITA-U", "tiers": "target of over 3,156 km across 52 districts and more than 1,300 government offices; 603 MDAs, local government sites and public institutions connected; 61 of 265 sampled public health facilities connected"}
+    {
+      "system": "NBI/EGI",
+      "country_label": "National Data Transmission Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "NITA-U",
+      "tiers": "target of over 3,156 km across 52 districts and more than 1,300 government offices; 603 MDAs, local government sites and public institutions connected; 61 of 265 sampled public health facilities connected"
+    }
   ],
   "note": ""
 }

@@ -14,7 +14,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "The acting chief executive of one of two local authorities surveyed in 2007 spoke of e-mail as something the authority itself installs for staff, and withholds from some; the study gives no count of local authorities connected.",
       "as_of": "2007",
       "date_precision": "year",

@@ -1,0 +1,10 @@
+iso3,n,aspect,value,action,why
+BFA,62,authorities,equipped:25%,withdrawn,"network coverage of communes, not offices connected: backbone gives no fact (L3)"
+ETH,63,authorities,equipped:72%,withdrawn,"a health system's coverage of districts: a sector system, and coverage, not offices (L3)"
+NER,10,authorities,equipped:68%,withdrawn,"communes computerised for civil status: equipment and application, not a connection (L3)"
+NER,20,authorities,equipped:30%,withdrawn,"communes given computers, from the excluded source: equipment (L3)"
+NER,22,authorities,equipped:37.6%,withdrawn,"a platform's deployment, and the share is the drafter's division: application (L3)"
+SDN,22,authorities,equipped:76%,withdrawn,"a health system's coverage of localities, from the excluded source (L3)"
+UGA,148,authorities,share:1%,withdrawn,"sub-county administrations are sub-offices, not the tier counted (L3)"
+UGA,76,authorities,equipped:36.3%,withdrawn,"districts reached by the backbone, not offices connected (L3)"
+UGA,84,authorities,equipped:50%,withdrawn,"network coverage of the country, not offices connected (L3)"

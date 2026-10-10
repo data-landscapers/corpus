@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TCD,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-08-04,TCD-001;TCD-003;TCD-004,TCD-002=plan:current,
+TCD,connection,use,coverage,systems,2025-06-03,TCD-005,,
+TCD,connection,connected,coverage,,,,,nothing held
+TCD,connection,last12,qualifier,,,,,nothing held
+TCD,connection,authorities,coverage,,,,,nothing held

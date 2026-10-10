@@ -1,0 +1,9 @@
+{
+  "slug": "2016-08-10-zimbabwe-national-ict-policy-2016",
+  "facts": [],
+  "systems": [
+    {"system": "Community Information Centres", "country_label": "Community Information Centres", "class": "public-access", "platform": "", "owner": "Government of Zimbabwe", "tiers": "not stated; the foreword lists their creation among investments made by 2016"},
+    {"system": "National ICT backbone", "country_label": "national ICT backbone", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "national; no local government office is said to be on it"}
+  ],
+  "note": "The 2016 policy's one mention of local authorities is a statement to enable them to partner ICT service providers to empower communities; the passages state nothing about connecting local government offices, so no fact."
+}

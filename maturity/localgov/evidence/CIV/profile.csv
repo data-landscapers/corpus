@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CIV,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-02-04,CIV-001;CIV-002;CIV-003,CIV-005=finance:donor;CIV-006=owner:ministry;CIV-007=plan:current;CIV-009=finance:donor;CIV-010=plan:current;CIV-011=owner:ministry;CIV-012=owner:partner;CIV-013=plan:current;CIV-014=owner:ministry;CIV-015=finance:donor,
+CIV,connection,use,coverage,systems,2026-08-11,CIV-018,,
+CIV,connection,connected,coverage,none,2025-05,CIV-016,,
+CIV,connection,last12,qualifier,advancing,2026-02-04,CIV-004;CIV-008,,
+CIV,connection,authorities,coverage,not-published,2025-05,CIV-017,,

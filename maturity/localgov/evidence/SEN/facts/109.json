@@ -14,7 +14,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "The interconnection of 400 civil registration centres was delivered to the centres by the NEKKAL programme, financed by the European Union and carried out with the national civil registration agency ANEC, as reported by the ministry's adviser on 29 June 2026; the article does not say what link was installed or who pays for it afterwards.",
       "as_of": "2026-06-29",
       "date_precision": "day",

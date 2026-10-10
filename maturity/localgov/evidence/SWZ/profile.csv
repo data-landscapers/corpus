@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SWZ,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-06,SWZ-001;SWZ-002;SWZ-009,SWZ-007=plan:current;SWZ-008=finance:donor;SWZ-011=plan:current;SWZ-012=owner:ministry;SWZ-013=finance:not-stated;SWZ-014=finance:donor;SWZ-015=plan:current;SWZ-003=owner:ministry,
+SWZ,connection,use,coverage,,,,,nothing held
+SWZ,connection,connected,coverage,,,,,nothing held
+SWZ,connection,last12,qualifier,advancing,2026-09-21,SWZ-004;SWZ-016,,
+SWZ,connection,authorities,coverage,count:38,2026-06-24,SWZ-006;SWZ-010,SWZ-005=none,

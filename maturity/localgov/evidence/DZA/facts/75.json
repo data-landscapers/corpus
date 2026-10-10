@@ -24,7 +24,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "The interior ministry says the information systems it provides to communes, dairas, wilayas and the centre are put into operation 'via the MICLAT intranet network', the ministry's own network; it does not say how each commune is linked or who pays, and gives no date, so the page's publication date is used.",
       "as_of": "2021-11-28",
       "date_precision": "day",

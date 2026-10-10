@@ -1,13 +1,44 @@
 {
   "slug": "2023-12-06-uganda-parliament-hansard-nbi-egi-phase-v-loan",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "equipped:50%", "fact": "The ICT minister told Parliament on 6 December 2023 that the National Backbone Infrastructure covered about 50 per cent of the country and that roughly 62 districts were not covered by phases I to IV, which Phase V with last-mile connections is to reach; this is network coverage, not offices stated as connected.", "as_of": "2023-12-06", "date_precision": "day", "system": "National Data Transmission Backbone Infrastructure/e-Government Infrastructure Project (NBI/EGI)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "Parliament on 6 December 2023 authorised borrowing of up to RMB 1,050,000,000 from the Export-Import Bank of China, on 20-year, 2 per cent terms, to finance Phase V of the backbone and e-Government infrastructure project, the proceeds covering about 100 per cent of the commercial contract.", "as_of": "2023-12-06", "date_precision": "day", "system": "National Data Transmission Backbone Infrastructure/e-Government Infrastructure Project Phase V", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The Committee on National Economy reported that the state agency NITA-U, as end user, contracted the China International Telecommunication Construction Corporation on 22 April 2022 to supply, install and commission Phase V, and Parliament told NITA-U to fast-track extension to the last-served local governments and schools.", "as_of": "2023-12-06", "date_precision": "day", "system": "National Data Transmission Backbone Infrastructure/e-Government Infrastructure Project Phase V", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "Parliament on 6 December 2023 authorised borrowing of up to RMB 1,050,000,000 from the Export-Import Bank of China, on 20-year, 2 per cent terms, to finance Phase V of the backbone and e-Government infrastructure project, the proceeds covering about 100 per cent of the commercial contract.",
+      "as_of": "2023-12-06",
+      "date_precision": "day",
+      "system": "National Data Transmission Backbone Infrastructure/e-Government Infrastructure Project Phase V",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Committee on National Economy reported that the state agency NITA-U, as end user, contracted the China International Telecommunication Construction Corporation on 22 April 2022 to supply, install and commission Phase V, and Parliament told NITA-U to fast-track extension to the last-served local governments and schools.",
+      "as_of": "2023-12-06",
+      "date_precision": "day",
+      "system": "National Data Transmission Backbone Infrastructure/e-Government Infrastructure Project Phase V",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "National Data Transmission Backbone Infrastructure/e-Government Infrastructure Project (NBI/EGI), Phase V", "country_label": "National Backbone Infrastructure (NBI)", "class": "connection", "platform": "optic fibre; supplier China International Telecommunication Construction Corporation", "owner": "NITA-U", "tiers": "About 50 per cent of the country after phases I to IV; Phase V to reach roughly 62 uncovered districts with last-mile connections; utilisation under 30 per cent of capacity"},
-    {"system": "Uganda Digital Acceleration Project (UDAP)", "country_label": "UDAP", "class": "backbone", "platform": "", "owner": "Ministry of ICT and National Guidance; World Bank financed", "tiers": "E-government services component and a digital-infrastructure component for refugee-hosting areas, with up to 200 masts; loan not yet disbursed at December 2023"}
+    {
+      "system": "National Data Transmission Backbone Infrastructure/e-Government Infrastructure Project (NBI/EGI), Phase V",
+      "country_label": "National Backbone Infrastructure (NBI)",
+      "class": "connection",
+      "platform": "optic fibre; supplier China International Telecommunication Construction Corporation",
+      "owner": "NITA-U",
+      "tiers": "About 50 per cent of the country after phases I to IV; Phase V to reach roughly 62 uncovered districts with last-mile connections; utilisation under 30 per cent of capacity"
+    },
+    {
+      "system": "Uganda Digital Acceleration Project (UDAP)",
+      "country_label": "UDAP",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Ministry of ICT and National Guidance; World Bank financed",
+      "tiers": "E-government services component and a digital-infrastructure component for refugee-hosting areas, with up to 200 masts; loan not yet disbursed at December 2023"
+    }
   ],
-  "note": "The page is a summary of the Hansard, not the full text. No local government office is named as connected; the coverage figure is the minister's, of the country."
+  "note": "The page is a summary of the Hansard, not the full text. No local government office is named as connected; the coverage figure is the minister's, of the country. [parent, L3: an authorities fact withdrawn; see corrections.csv]"
 }

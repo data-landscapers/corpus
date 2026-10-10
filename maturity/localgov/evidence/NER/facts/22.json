@@ -1,12 +1,31 @@
 {
   "slug": "2026-01-01-etat-civil-wuri-niger",
-  "facts": [
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "equipped:37.6%", "fact": "The WURI-Niger project page says a digital platform for managing civil-status events is in service in 100 communes, with extension planned to 166 more (266 in all, matching its 266 principal centres); it states the platform's deployment, not that the commune offices are connected, and gives no date, so the date is the page's proxy publication year.", "as_of": "2026", "date_precision": "year", "system": "plateforme digitale de gestion des faits d'état civil", "class": "connection"}
-  ],
+  "facts": [],
   "systems": [
-    {"system": "plateforme digitale de gestion des faits d'état civil", "country_label": "plateforme digitale de gestion des faits d'état civil", "class": "application", "platform": "", "owner": "Direction Générale de l'État Civil, with WURI-Niger support", "tiers": "in service in 100 communes; extension planned to 166 more communes and 38 diplomatic missions"},
-    {"system": "Registre National de la Population", "country_label": "Registre National de la Population", "class": "central", "platform": "", "owner": "", "tiers": "national; to be created under article 74 of law 2019-29"},
-    {"system": "guichets uniques d'état civil", "country_label": "Nouveaux Guichets Uniques", "class": "central", "platform": "", "owner": "", "tiers": "towns such as Niamey, Dogondoutchi and Magaria"}
+    {
+      "system": "plateforme digitale de gestion des faits d'état civil",
+      "country_label": "plateforme digitale de gestion des faits d'état civil",
+      "class": "application",
+      "platform": "",
+      "owner": "Direction Générale de l'État Civil, with WURI-Niger support",
+      "tiers": "in service in 100 communes; extension planned to 166 more communes and 38 diplomatic missions"
+    },
+    {
+      "system": "Registre National de la Population",
+      "country_label": "Registre National de la Population",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; to be created under article 74 of law 2019-29"
+    },
+    {
+      "system": "guichets uniques d'état civil",
+      "country_label": "Nouveaux Guichets Uniques",
+      "class": "central",
+      "platform": "",
+      "owner": "",
+      "tiers": "towns such as Niamey, Dogondoutchi and Magaria"
+    }
   ],
-  "note": "The page also lists as a challenge the problems of access to electricity and Internet in some communes, undated and unquantified; the one fact is a share of communes with the civil-status platform, recorded as equipped."
+  "note": "The page also lists as a challenge the problems of access to electricity and Internet in some communes, undated and unquantified; the one fact is a share of communes with the civil-status platform, recorded as equipped. [parent, L3: an authorities fact withdrawn; see corrections.csv]"
 }

@@ -1,16 +1,82 @@
 {
   "slug": "2022-09-01-digital-uganda-vision",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The ICT ministry's Digital Uganda Vision states that, under the NBI/EGI project, the Government through the ministry has provided connectivity to ministries, departments and agencies and to Local Governments by laying optical fibre across all major towns; no date is given for the statement, so the document's published date is used.", "as_of": "2022-09", "date_precision": "month", "system": "National Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:44%", "fact": "The Vision's targets table gives the percentage of district headquarters connected to the NBI as 44% at its 2020 baseline, with targets of 70% for 2025, 90% for 2030 and 100% for 2040; no numerator or denominator is given, and the figure is the ICT ministry's.", "as_of": "2020", "date_precision": "year", "system": "National Backbone Infrastructure (NBI)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The Vision states that under last-mile connectivity 575 of 700 planned sites had so far been connected, across 52 major districts, and that phase 4 brought connected MDAs to 603; it does not say how many of the sites are local government offices, and gives no date, so the published date is used.", "as_of": "2022-09", "date_precision": "month", "system": "NBI Last Mile Connectivity", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The Vision states that the connectivity to MDAs and Local Governments under the NBI/EGI project was provided by the Government through the Ministry of ICT and National Guidance; no date is given, so the published date is used.", "as_of": "2022-09", "date_precision": "month", "system": "National Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The Digital Uganda Vision, adopted in September 2022 and running to 2040, sets as outcomes 100% of district headquarters connected to the national broadband infrastructure and 100% connectivity for all government institutions, both central and local governments, with interim targets of 50% for 2025 and 75% for 2030 on the second.", "as_of": "2022-09", "date_precision": "month", "system": "National Backbone Infrastructure (NBI)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The ICT ministry's Digital Uganda Vision states that, under the NBI/EGI project, the Government through the ministry has provided connectivity to ministries, departments and agencies and to Local Governments by laying optical fibre across all major towns; no date is given for the statement, so the document's published date is used.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "National Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:44%",
+      "fact": "The Vision's targets table gives the percentage of district headquarters connected to the NBI as 44% at its 2020 baseline, with targets of 70% for 2025, 90% for 2030 and 100% for 2040; no numerator or denominator is given, and the figure is the ICT ministry's.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "National Backbone Infrastructure (NBI)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "The Vision states that under last-mile connectivity 575 of 700 planned sites had so far been connected, across 52 major districts, and that phase 4 brought connected MDAs to 603; it does not say how many of the sites are local government offices, and gives no date, so the published date is used.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "NBI Last Mile Connectivity",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Vision states that the connectivity to MDAs and Local Governments under the NBI/EGI project was provided by the Government through the Ministry of ICT and National Guidance; no date is given, so the published date is used.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "National Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Digital Uganda Vision, adopted in September 2022 and running to 2040, sets as outcomes 100% of district headquarters connected to the national broadband infrastructure and 100% connectivity for all government institutions, both central and local governments, with interim targets of 50% for 2025 and 75% for 2030 on the second.",
+      "as_of": "2022-09",
+      "date_precision": "month",
+      "system": "National Backbone Infrastructure (NBI)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "National Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)", "country_label": "NBI/EGI", "class": "connection", "platform": "optical fibre cable, four phases plus last-mile connectivity", "owner": "Government through the Ministry of ICT and National Guidance", "tiers": "MDAs and Local Governments across all major towns; 603 MDAs connected by phase 4; last mile 575 of 700 planned sites across 52 major districts"},
-    {"system": "National Data Center and Disaster Recovery Site", "country_label": "National Data Center and Disaster Recovery Site", "class": "backbone", "platform": "", "owner": "Government", "tiers": "common core infrastructure for shared services across MDAs and LGs"},
-    {"system": "e-Government systems for urban authorities (e-cities)", "country_label": "e-cities", "class": "application", "platform": "", "owner": "", "tiers": "a 2040 outcome: 90% of urban authorities, beginning with cities, supported to implement e-government systems"}
+    {
+      "system": "National Backbone Infrastructure and e-Government Infrastructure (NBI/EGI)",
+      "country_label": "NBI/EGI",
+      "class": "connection",
+      "platform": "optical fibre cable, four phases plus last-mile connectivity",
+      "owner": "Government through the Ministry of ICT and National Guidance",
+      "tiers": "MDAs and Local Governments across all major towns; 603 MDAs connected by phase 4; last mile 575 of 700 planned sites across 52 major districts"
+    },
+    {
+      "system": "National Data Center and Disaster Recovery Site",
+      "country_label": "National Data Center and Disaster Recovery Site",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "common core infrastructure for shared services across MDAs and LGs"
+    },
+    {
+      "system": "e-Government systems for urban authorities (e-cities)",
+      "country_label": "e-cities",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "a 2040 outcome: 90% of urban authorities, beginning with cities, supported to implement e-government systems"
+    }
   ],
   "note": "Capture is an excerpt, cut in section 4. No use over the connection is stated for local governments. The finance chapter was not in the capture."
 }

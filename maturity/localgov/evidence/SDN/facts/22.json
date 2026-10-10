@@ -1,12 +1,34 @@
 {
   "slug": "2026-03-31 Africa we have a data problem",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Rural clinics' aggregate health data is compiled on paper or Excel, submitted to locality offices and entered into the national DHIS2 at state and locality levels, on the compilation's reading of WHO's 2020 health information system assessment.", "as_of": "2020", "date_precision": "year", "system": "DHIS2 entry at locality offices", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "equipped:76%", "fact": "DHIS2 had 76 per cent locality coverage as of 2020, lower in rural and fragile states, on the compilation's reading of WHO's 2020 assessment; no numerator or count of localities is given, and the figure is coverage by the system, not offices said to be connected.", "as_of": "2020", "date_precision": "year", "system": "DHIS2 entry at locality offices", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "Rural clinics' aggregate health data is compiled on paper or Excel, submitted to locality offices and entered into the national DHIS2 at state and locality levels, on the compilation's reading of WHO's 2020 health information system assessment.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "DHIS2 entry at locality offices",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "DHIS2", "country_label": "national DHIS2", "class": "application", "platform": "DHIS2", "owner": "not stated", "tiers": "state and locality levels; 76% locality coverage and 64% facility reporting rate as of 2020"},
-    {"system": "electronic civil registry", "country_label": "electronic civil registry", "class": "central", "platform": "", "owner": "not stated", "tiers": "local civil registry centres record on paper and transmit electronically to regional and central databases"}
+    {
+      "system": "DHIS2",
+      "country_label": "national DHIS2",
+      "class": "application",
+      "platform": "DHIS2",
+      "owner": "not stated",
+      "tiers": "state and locality levels; 76% locality coverage and 64% facility reporting rate as of 2020"
+    },
+    {
+      "system": "electronic civil registry",
+      "country_label": "electronic civil registry",
+      "class": "central",
+      "platform": "",
+      "owner": "not stated",
+      "tiers": "local civil registry centres record on paper and transmit electronically to regional and central databases"
+    }
   ],
-  "note": "An AI-assisted compilation by its own header, and an excluded source in study.json. The 'locality offices' are those receiving health reports: the document does not say they are the locality government's own office or how they are connected, so the two facts rest on entry into a national system at locality level and the parent should weigh them. The school, police and registry rows state nothing about local government offices."
+  "note": "An AI-assisted compilation by its own header, and an excluded source in study.json. The 'locality offices' are those receiving health reports: the document does not say they are the locality government's own office or how they are connected, so the two facts rest on entry into a national system at locality level and the parent should weigh them. The school, police and registry rows state nothing about local government offices. [parent, L3: an authorities fact withdrawn; see corrections.csv]"
 }

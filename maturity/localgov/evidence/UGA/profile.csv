@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+UGA,connection,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2026-09-22,UGA-005;UGA-006;UGA-012,UGA-014=owner:ministry;UGA-015=plan:current;UGA-017=owner:ministry;UGA-018=plan:current;UGA-019=owner:ministry;UGA-011=owner:ministry;UGA-023=owner:ministry;UGA-039=owner:ministry;UGA-040=plan:current;UGA-041=finance:donor;UGA-025=finance:donor;UGA-026=owner:ministry;UGA-032=owner:ministry;UGA-045=owner:ministry;UGA-046=plan:current;UGA-024=finance:donor,
+UGA,connection,use,coverage,systems,2026-09-22,UGA-002;UGA-007;UGA-008;UGA-020;UGA-027;UGA-033;UGA-034;UGA-036;UGA-047;UGA-049,UGA-022=internet;UGA-031=internet,
+UGA,connection,connected,coverage,institutional,2026-09-22,UGA-001;UGA-009;UGA-016;UGA-030;UGA-037;UGA-042,,
+UGA,connection,last12,qualifier,advancing,2026-09-22,UGA-004;UGA-013,,
+UGA,connection,authorities,coverage,share:60.6%,2022,UGA-029,UGA-003=count:25;UGA-035=count:13;UGA-010=count:20;UGA-021=count:61;UGA-038=not-published;UGA-028=pilot;UGA-044=not-published;UGA-043=share:44%;UGA-048=share:15%;UGA-050=count:102;UGA-051=count:160,

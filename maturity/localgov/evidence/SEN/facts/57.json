@@ -1,21 +1,124 @@
 {
   "slug": "2025-12-22-procasef-mission-aide-memoire",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The World Bank's PROCASEF mission of 10 to 25 November 2025 found the communal land offices not yet connected to the internet: the connection, which it calls indispensable to the communal land information system SIFCOM, was still the subject of a costing study by SENUM for the 138 project communes with no guarantee the remaining budget could pay for it, and a stopgap connection was agreed for 28 February 2026.", "as_of": "2025-11", "date_precision": "month", "system": "raccordement à Internet des bureaux fonciers communaux", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "none", "fact": "In November 2025 the communal land information system SIFCOM that the land offices' agents are to work in was not yet deployed: deployment planned for 30 June 2025 had slipped to the end of December 2025, with production deployment agreed for 31 January 2026, on the World Bank mission's account.", "as_of": "2025-11", "date_precision": "month", "system": "raccordement à Internet des bureaux fonciers communaux", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "equipped:24.7%", "fact": "PROCASEF covers 138 communes and the mission counts 420 communes remaining outside it (138 of 558, the total being the sum of the two figures the document gives); land offices were under construction in 128 of the 138, 75 per cent complete overall and due to finish in March 2026, with furniture and computer equipment being delivered and 14 of the communes without electricity, as at November 2025 on the World Bank mission's account.", "as_of": "2025-11", "date_precision": "month", "system": "raccordement à Internet des bureaux fonciers communaux", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "PROCASEF, which builds, equips and is to connect the communal land offices, is run by the Ministry of Finance and Budget, and the state operator SENUM was costing the internet connection for the 138 communes in November 2025.", "as_of": "2025-11", "date_precision": "month", "system": "raccordement à Internet des bureaux fonciers communaux", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The land offices and their connection are paid from the World Bank's PROCASEF financing of US$80 million (credit and grant, 77.6 per cent disbursed at 31 October 2025); a further US$40 million was being framed in November 2025 and the connection's cost was not assured within the remaining budget.", "as_of": "2025-11", "date_precision": "month", "system": "raccordement à Internet des bureaux fonciers communaux", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "At the mission of 10 to 25 November 2025 PROCASEF agreed to put a stopgap internet connection in place for the communal land offices by 28 February 2026 and to deliver 128 fully functional offices before July 2026; a connection plan agreed at the June 2025 mission for 30 June 2025 had preceded it.", "as_of": "2025-11", "date_precision": "month", "system": "raccordement à Internet des bureaux fonciers communaux", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "The World Bank's PROCASEF mission of 10 to 25 November 2025 found the communal land offices not yet connected to the internet: the connection, which it calls indispensable to the communal land information system SIFCOM, was still the subject of a costing study by SENUM for the 138 project communes with no guarantee the remaining budget could pay for it, and a stopgap connection was agreed for 28 February 2026.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "raccordement à Internet des bureaux fonciers communaux",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "none",
+      "fact": "In November 2025 the communal land information system SIFCOM that the land offices' agents are to work in was not yet deployed: deployment planned for 30 June 2025 had slipped to the end of December 2025, with production deployment agreed for 31 January 2026, on the World Bank mission's account.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "raccordement à Internet des bureaux fonciers communaux",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "equipped:24.7%",
+      "fact": "PROCASEF covers 138 communes and the mission counts 420 communes remaining outside it (138 of 558, the total being the sum of the two figures the document gives); land offices were under construction in 128 of the 138, 75 per cent complete overall and due to finish in March 2026, with furniture and computer equipment being delivered and 14 of the communes without electricity, as at November 2025 on the World Bank mission's account.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "raccordement à Internet des bureaux fonciers communaux",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "PROCASEF, which builds, equips and is to connect the communal land offices, is run by the Ministry of Finance and Budget, and the state operator SENUM was costing the internet connection for the 138 communes in November 2025.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "raccordement à Internet des bureaux fonciers communaux",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The land offices and their connection are paid from the World Bank's PROCASEF financing of US$80 million (credit and grant, 77.6 per cent disbursed at 31 October 2025); a further US$40 million was being framed in November 2025 and the connection's cost was not assured within the remaining budget.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "raccordement à Internet des bureaux fonciers communaux",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "At the mission of 10 to 25 November 2025 PROCASEF agreed to put a stopgap internet connection in place for the communal land offices by 28 February 2026 and to deliver 128 fully functional offices before July 2026; a connection plan agreed at the June 2025 mission for 30 June 2025 had preceded it.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "raccordement à Internet des bureaux fonciers communaux",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Internet connection of the communal land offices", "country_label": "raccordement à Internet des bureaux fonciers communaux", "class": "connection", "platform": "", "owner": "PROCASEF (Ministry of Finance and Budget); costing study by SENUM", "tiers": "138 PROCASEF communes; not yet in place in November 2025"},
-    {"system": "Système d'Informations Foncières Communal (SIFCOM)", "country_label": "SIFCOM", "class": "application", "platform": "", "owner": "PROCASEF; provider KAVA-SOTERCO", "tiers": "communal land offices of 138 communes; not yet deployed in November 2025"},
-    {"system": "eNICAD", "country_label": "eNICAD", "class": "central", "platform": "", "owner": "DGID (Cadastre offices)", "tiers": "Cadastre offices; operational, uneven uptake"},
-    {"system": "Système de Gestion Foncière (SGF)", "country_label": "SGF", "class": "central", "platform": "", "owner": "DGID", "tiers": "to be deployed in 2026"},
-    {"system": "GeoSenegal", "country_label": "plateforme GeoSenegal", "class": "central", "platform": "open source", "owner": "GICC; hosting with SENUM", "tiers": "national geospatial data sharing platform"},
-    {"system": "Computer equipment for prefectoral services", "country_label": "matériel informatique des services préfectoraux", "class": "central", "platform": "", "owner": "PROCASEF", "tiers": "54 prefectoral services; delivery forthcoming"},
-    {"system": "CORS station network and geoportal", "country_label": "réseau de stations CORS", "class": "central", "platform": "", "owner": "ANAT / PROCASEF", "tiers": "national"}
+    {
+      "system": "Internet connection of the communal land offices",
+      "country_label": "raccordement à Internet des bureaux fonciers communaux",
+      "class": "connection",
+      "platform": "",
+      "owner": "PROCASEF (Ministry of Finance and Budget); costing study by SENUM",
+      "tiers": "138 PROCASEF communes; not yet in place in November 2025"
+    },
+    {
+      "system": "Système d'Informations Foncières Communal (SIFCOM)",
+      "country_label": "SIFCOM",
+      "class": "application",
+      "platform": "",
+      "owner": "PROCASEF; provider KAVA-SOTERCO",
+      "tiers": "communal land offices of 138 communes; not yet deployed in November 2025"
+    },
+    {
+      "system": "eNICAD",
+      "country_label": "eNICAD",
+      "class": "central",
+      "platform": "",
+      "owner": "DGID (Cadastre offices)",
+      "tiers": "Cadastre offices; operational, uneven uptake"
+    },
+    {
+      "system": "Système de Gestion Foncière (SGF)",
+      "country_label": "SGF",
+      "class": "central",
+      "platform": "",
+      "owner": "DGID",
+      "tiers": "to be deployed in 2026"
+    },
+    {
+      "system": "GeoSenegal",
+      "country_label": "plateforme GeoSenegal",
+      "class": "central",
+      "platform": "open source",
+      "owner": "GICC; hosting with SENUM",
+      "tiers": "national geospatial data sharing platform"
+    },
+    {
+      "system": "Computer equipment for prefectoral services",
+      "country_label": "matériel informatique des services préfectoraux",
+      "class": "central",
+      "platform": "",
+      "owner": "PROCASEF",
+      "tiers": "54 prefectoral services; delivery forthcoming"
+    },
+    {
+      "system": "CORS station network and geoportal",
+      "country_label": "réseau de stations CORS",
+      "class": "central",
+      "platform": "",
+      "owner": "ANAT / PROCASEF",
+      "tiers": "national"
+    }
   ],
   "note": "The denominator of 558 communes is the sum of the document's 138 covered and 420 remaining; the document also gives 190 communes as 34 per cent of Senegal's communes. The offices are the communes' own land offices."
 }

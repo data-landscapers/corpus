@@ -4,7 +4,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "NOSi's strategic plan lists the local area networks of municipal councils, beside those of ministries, schools and hospitals, among the networks served by basic access to the state's private network (RTPE), whose access and maintenance services it proposes to open to private providers; it gives no count of councils (no date given; plan dated March 2020).",
       "as_of": "2020-03",
       "date_precision": "month",

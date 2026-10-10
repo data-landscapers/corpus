@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+RWA,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-07-07,RWA-011;RWA-012;RWA-013,RWA-018=owner:ministry;RWA-016=plan:current;RWA-017=owner:ministry;RWA-023=owner:ministry;RWA-024=finance:donor;RWA-025=finance:domestic,
+RWA,connection,use,coverage,systems,2026-08-03,RWA-001;RWA-002;RWA-004;RWA-005;RWA-007;RWA-009;RWA-010;RWA-014;RWA-015;RWA-019;RWA-020;RWA-022,,
+RWA,connection,connected,coverage,institutional,2012-03-12,RWA-026,RWA-006=none;RWA-008=none,
+RWA,connection,last12,qualifier,,,,,nothing held
+RWA,connection,authorities,coverage,not-published,2022-09,RWA-021,,nothing dated since 2023-10-10

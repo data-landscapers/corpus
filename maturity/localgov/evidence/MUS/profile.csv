@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MUS,connection,governance,qualifier,owner:ministry,2024,MUS-007,,"not stated: plan, finance"
+MUS,connection,use,coverage,systems,2025-07-29,MUS-001;MUS-002;MUS-004;MUS-006,,
+MUS,connection,connected,coverage,,,,,nothing held
+MUS,connection,last12,qualifier,,,,,nothing held
+MUS,connection,authorities,coverage,share:100%,2024,MUS-005,MUS-003=count:12,

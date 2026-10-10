@@ -14,7 +14,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "The interior ministry's architecture slide shows the commune, wilaya and ministry levels of the civil-status register linked over the ministry's own network, labelled 'Réseau MICL'; no date is given, so the presentation's date is used.",
       "as_of": "2019-06-19",
       "date_precision": "day",

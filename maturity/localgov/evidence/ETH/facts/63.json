@@ -1,17 +1,6 @@
 {
   "slug": "2025-10-31-who-afro-ethiopia-digitalizes-health-emergency-information-systems",
-  "facts": [
-    {
-      "sub_indicator": "connection",
-      "aspect": "authorities",
-      "value": "equipped:72%",
-      "fact": "WHO's Ethiopia office states that the DHIS2 platform for disease surveillance and routine health data covers 72 per cent of districts nationwide, with over 2,975 public health institute staff at national, regional and woreda levels trained; no numerator or count of districts is given, health facilities are not yet on it, and the release does not say how woreda-level staff are connected.",
-      "as_of": "2025-10-31",
-      "date_precision": "day",
-      "system": "District Health Information System 2 (DHIS2), surveillance",
-      "class": "connection"
-    }
-  ],
+  "facts": [],
   "systems": [
     {
       "system": "District Health Information System 2 (DHIS2), surveillance and routine health data",
@@ -38,5 +27,5 @@
       "tiers": "national"
     }
   ],
-  "note": "The districts here are reached through the health sector's surveillance staff at woreda level; the release says the platform covers the districts, not that woreda offices are connected."
+  "note": "The districts here are reached through the health sector's surveillance staff at woreda level; the release says the platform covers the districts, not that woreda offices are connected. [parent, L3: an authorities fact withdrawn; see corrections.csv]"
 }

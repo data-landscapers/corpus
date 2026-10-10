@@ -1,15 +1,74 @@
 {
   "slug": "2025-05-01-cote-divoire-padci-plan-mobilisation-parties-prenantes",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The digital ministry's stakeholder plan for PADCI (May 2025) describes Component 2, 45 million dollars, extending last-mile broadband to public facilities (education, health and mairies) that have electricity but no internet, with sub-component 2.1 of 30 million dollars for the targeted public institutions; phase 1 runs 2025-2030 in Abidjan, Yamoussoukro and eleven regions.", "as_of": "2025-05", "date_precision": "month", "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The document places PADCI under the administrative authority of the Ministère de la Transition Numérique et de la Digitalisation, with a project coordination unit created within the ministry.", "as_of": "2025-05", "date_precision": "month", "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The document says Côte d'Ivoire initiated PADCI with the financial support of the World Bank Group; it names no domestic budget line for the connectivity component.", "as_of": "2025-05", "date_precision": "month", "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The ministry's plan states the component targets public facilities, mairies among them, that are electrified but not connected to the internet, and gives the government's ambition as broadband for all mairies; it gives no number of mairies unconnected.", "as_of": "2025-05", "date_precision": "month", "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The plan describes the connection of mairies as planned for 2025-2030 and states no count or share of mairies connected or to be connected.", "as_of": "2025-05", "date_precision": "month", "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The digital ministry's stakeholder plan for PADCI (May 2025) describes Component 2, 45 million dollars, extending last-mile broadband to public facilities (education, health and mairies) that have electricity but no internet, with sub-component 2.1 of 30 million dollars for the targeted public institutions; phase 1 runs 2025-2030 in Abidjan, Yamoussoukro and eleven regions.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The document places PADCI under the administrative authority of the Ministère de la Transition Numérique et de la Digitalisation, with a project coordination unit created within the ministry.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The document says Côte d'Ivoire initiated PADCI with the financial support of the World Bank Group; it names no domestic budget line for the connectivity component.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "The ministry's plan states the component targets public facilities, mairies among them, that are electrified but not connected to the internet, and gives the government's ambition as broadband for all mairies; it gives no number of mairies unconnected.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "The plan describes the connection of mairies as planned for 2025-2030 and states no count or share of mairies connected or to be connected.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)", "country_label": "Expansion de la Connectivité à Haut Débit Résiliente au Climat", "class": "connection", "platform": "", "owner": "Ministère de la Transition Numérique et de la Digitalisation (PADCI coordination unit); World Bank financing", "tiers": "public facilities: education, health and mairies, in Abidjan, Yamoussoukro and eleven regions (phase 1)"},
-    {"system": "Maison des services publics (MSP)", "country_label": "Maison des services publics", "class": "central", "platform": "", "owner": "PADCI, with La Poste de Côte d'Ivoire and certain sous-préfectures", "tiers": "pilot of physical and mobile centres; sous-préfectures and post offices"}
+    {
+      "system": "PADCI Composante 2 (connectivité haut débit du dernier kilomètre)",
+      "country_label": "Expansion de la Connectivité à Haut Débit Résiliente au Climat",
+      "class": "connection",
+      "platform": "",
+      "owner": "Ministère de la Transition Numérique et de la Digitalisation (PADCI coordination unit); World Bank financing",
+      "tiers": "public facilities: education, health and mairies, in Abidjan, Yamoussoukro and eleven regions (phase 1)"
+    },
+    {
+      "system": "Maison des services publics (MSP)",
+      "country_label": "Maison des services publics",
+      "class": "central",
+      "platform": "",
+      "owner": "PADCI, with La Poste de Côte d'Ivoire and certain sous-préfectures",
+      "tiers": "pilot of physical and mobile centres; sous-préfectures and post offices"
+    }
   ],
   "note": "Excerpt: pages 1 to 16 of a 119-page document. Planned work, not deployment achieved."
 }

@@ -1,11 +1,34 @@
 {
   "slug": "2020-06-01-prodigy-plan-mobilisation-parties-prenantes",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "In PRODIGY's public consultations of 17 to 25 June 2019 in communes of Atsimo Andrefana, Haute Matsiatra, Amoron'i Mania and Vakinankaratra, commune representatives said commune budgets were too small for computers and for consumables including internet credit, that communes could not bear the running costs of internet networks, and asked for the communes to be networked with the interior and justice ministries; no count of communes is given.", "as_of": "2019-06", "date_precision": "month", "system": "réseaux internet / crédit internet des communes", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "In PRODIGY's public consultations of 17 to 25 June 2019 in communes of Atsimo Andrefana, Haute Matsiatra, Amoron'i Mania and Vakinankaratra, commune representatives said commune budgets were too small for computers and for consumables including internet credit, that communes could not bear the running costs of internet networks, and asked for the communes to be networked with the interior and justice ministries; no count of communes is given.",
+      "as_of": "2019-06",
+      "date_precision": "month",
+      "system": "réseaux internet / crédit internet des communes",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Numérisation des faits d'état civil (PRODIGY composante 1)", "country_label": "numérisation des faits d'état civil / identité", "class": "application", "platform": "", "owner": "PREA, Présidence (PRODIGY, World Bank financed)", "tiers": "commune civil registry offices, with data centralised commune to district to national as discussed in consultations"},
-    {"system": "Mise en réseaux des communes avec le ministère de l'intérieur et le ministère de la justice", "country_label": "mise en réseaux des communes", "class": "connection", "platform": "", "owner": "", "tiers": "communes; a recommendation of the June 2019 consultations, not an existing network"}
+    {
+      "system": "Numérisation des faits d'état civil (PRODIGY composante 1)",
+      "country_label": "numérisation des faits d'état civil / identité",
+      "class": "application",
+      "platform": "",
+      "owner": "PREA, Présidence (PRODIGY, World Bank financed)",
+      "tiers": "commune civil registry offices, with data centralised commune to district to national as discussed in consultations"
+    },
+    {
+      "system": "Mise en réseaux des communes avec le ministère de l'intérieur et le ministère de la justice",
+      "country_label": "mise en réseaux des communes",
+      "class": "connection",
+      "platform": "",
+      "owner": "",
+      "tiers": "communes; a recommendation of the June 2019 consultations, not an existing network"
+    }
   ],
   "note": "The one fact is what consulted commune staff said in June 2019, recorded as stated; the document gives no measured count of connected or unconnected communes."
 }

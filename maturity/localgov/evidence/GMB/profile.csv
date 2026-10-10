@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GMB,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2023,GMB-005;GMB-006;GMB-008,GMB-007=plan:current;GMB-009=finance:domestic,
+GMB,connection,use,coverage,systems,2026-08,GMB-001;GMB-004,GMB-002=none,
+GMB,connection,connected,coverage,,,,,nothing held
+GMB,connection,last12,qualifier,,,,,nothing held
+GMB,connection,authorities,coverage,count:1,2026-08,GMB-003,,

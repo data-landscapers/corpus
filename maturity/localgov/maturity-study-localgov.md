@@ -39,11 +39,11 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 
 **The test: is the office itself connected, by a connection provided to it?** Staff working on their own phones or modems are not a connection. A network that *reaches the district* connects nothing until a source puts the office on it.
 
-**Working online is evidence of a connection.** A source saying local governments enter transactions, at their own offices, in a national system held elsewhere states a `connection`, used for `systems`. The system itself is not staged here.
+**Working online is evidence of a connection.** A source saying local governments enter transactions, at their own offices, in a national system held elsewhere states a `connection`, used for `systems`.
 
-**Classified by what the source says, never by name**: an *e-commune* is a connection in one country and a portal in another.
+**Classified by what the source says, never by name.**
 
-**Local governments.** The unit is the **basic tier**: the lowest body that administers a locality generally and holds its own budget, whether **elected or appointed**: communes, municipalities, district and town councils, local government areas, counties, woredas. The denominator is the country's own count of them. Their sub-offices, such as wards and *arrondissements*, are noted.
+**Local governments.** The unit is the **basic tier**: the lowest body that administers a locality generally and holds its own budget, whether **elected or appointed**: communes, municipalities, district and town councils, local government areas, counties, woredas. The denominator is the country's own count of them; the short summary names the tier.
 
 **One flag that never changes the stage.** *On the government network*: the offices are on the government's own network.
 
@@ -55,13 +55,11 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 | 2 | What the office does over it | coverage | `systems`: staff work in a national or shared system held elsewhere. `internet`: email and the web, or use not stated. `none` |
 | 3 | How the office is connected | coverage | `institutional`: provided to the office and paid for by the state or the authority. `personal`: staff's own phones or modems. `none` |
 | 4 | Last twelve months | qualifier | Advancing, no change on record, or regressing, with the dated event |
-| 5 | Local governments connected | coverage | Share of basic-tier local governments, with numerator, denominator, year and who says so; else `equipped`, a share given equipment, covered by a programme or passed by the network; else a count; else *not published* |
+| 5 | Local governments connected | coverage | Share of basic-tier local governments, with numerator, denominator, year and who says so; else `equipped`, a share given equipment or covered by a programme; else a count; else *not published* |
 
 **Aspects 2, 3 and 5 set the stage; 1 and 4 cap or flag it and never raise it. The cap rule and aspect 4 are the health study's, unchanged** (its §3): without the state as owner and a domestic budget line or current plan, stage 4 or 5 is capped at 3 and flagged *externally run*.
 
 **Rural.** The stage reads local governments nationally. Where a dated source says rural ones are unconnected, the cell is flagged *rural gap* and the short summary gives the figure.
-
-**Two tiers.** The cell is staged on the basic tier and the long summary states the other. The short summary names the tier its figure counts.
 
 ## 4. The ladder
 
@@ -79,26 +77,28 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 
 **A noted class never places a country above stage 1**, as in the police study (its §4).
 
-**A share of local governments *equipped*, *covered*, *supported* or *computerised* is not a share connected**: it is `equipped` and places at stage 3 only where a connection is live. *All councils*, said by the ministry beside a count of them, is 100 per cent.
+**A share *equipped*, *covered* or *computerised* is not a share connected**: it is `equipped` and places at stage 3 only where a connection is live. *All councils*, said by the ministry beside a count of them, is 100 per cent.
 
 **The registry study's R3 fixes hold** (its §4): `institutional` is read from the fact's words, and a law places nothing. A connection with no use named is read as `internet`.
+
+**Fixed at L3** (`ladder-test.csv`, `corrections.csv`): every rung is reached. A share places above stage 3 only where its own source states the `institutional` connection. A network's coverage of areas is `backbone`. A count of offices, centres or sites is a floor without its total. A connection announced is preparation. The basic tier is the one the country counts as its local governments; sub-counties, sectors, cells and wards are sub-offices. A ministry's local sector office is `central`.
 
 ## 5. The norm
 
 The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentralisation charter of 2014, Article 16(2): local governments "shall be provided with the required human, financial and technological resources", and ICT "shall be made accessible and effectively used". Its reference measure is the United Nations' Local Online Services Index.
 
-**Neither measures what the sub-indicator measures.** Article 16 sets a duty and no measure. The Index scores the portal of each country's most populous city: the `web` class, in one local government. The ladder takes the Charter's two words: *accessible* is the connection and *effectively used* is `systems`. The 90 per cent line is the health study's. *(Article 16 read 2026-10-10, in the Laws.Africa text.)*
+**Neither measures what the sub-indicator measures.** Article 16 sets a duty and no measure. The Index scores one city's portal, the `web` class. The ladder takes the Charter's two words: *accessible* is the connection and *effectively used* is `systems`. *(Article 16 read 2026-10-10, in the Laws.Africa text.)*
 
 ## 6. What the review reads and the search asks for
 
 - **Subjects and term list**: in `study.json`.
-- **Source types for the briefs**, ranked: annual reports of the ministry of local government and the national ICT agency, for government-network coverage; budget performance reports and parliamentary answers; audit reports on local governments; World Bank, African Development Bank, European Union and UNDP project documents and evaluations; local government association surveys; dated news, for aspect 4.
+- **Source types for the briefs**, ranked: annual reports of the ministry of local government and the national ICT agency, for government-network coverage; budget reports and parliamentary answers; audit reports on local governments; donor project documents and evaluations; local government association surveys; dated news, for aspect 4.
 
 ## 7. Tasks, in order
 
 - [x] **L1. Bill's rulings**: the six proposals stand, 2026-10-10.
-- [ ] **L2. Review all 54 countries**, method §4: 4,154 listings on the dry run.
-- [ ] **L3. Test and fix the ladder.**
+- [x] **L2. Review all 54 countries**, method §4: 4,154 documents, 607 facts.
+- [x] **L3. Test and fix the ladder**: 2 at stage 5, 1 at 4, 29 at 3, 8 at 2, 1 at 1; 9 facts withdrawn.
 - [ ] **L4. Search and hand over**, method §5.
 - [ ] **L5. Re-read and stage.**
 - [ ] **L6. Write, render and lint.**

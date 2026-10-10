@@ -4,7 +4,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "The digital ministry's portal states that the PRSCG programme aims to put in place a national network interconnecting 187 public-finance offices together with ministries, agencies, prefectures and town halls (mairies), and that most of the programme's infrastructure is already operational; dated to the article, 5 October 2021.",
       "as_of": "2021-10-05",
       "date_precision": "day",

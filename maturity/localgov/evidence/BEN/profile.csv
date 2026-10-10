@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+BEN,connection,governance,qualifier,owner:ministry;finance:not-stated,2026-07-18,BEN-006;BEN-007,BEN-019=finance:not-stated;BEN-018=owner:ministry,not stated: plan
+BEN,connection,use,coverage,systems,2026-09-11,BEN-002;BEN-009;BEN-011;BEN-013;BEN-014;BEN-015;BEN-020,BEN-004=internet,
+BEN,connection,connected,coverage,institutional,2026-07-18,BEN-003;BEN-016,BEN-012=personal,
+BEN,connection,last12,qualifier,regressing,2026-09-11,BEN-001,BEN-008=advancing,
+BEN,connection,authorities,coverage,count:1,2026-09-01,BEN-021,BEN-005=pilot;BEN-010=count:12;BEN-017=not-published,

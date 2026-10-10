@@ -175,13 +175,11 @@
       "prefer": [
         "institutional"
       ],
-      "values": {
-        "connection": [
-          "institutional",
-          "personal",
-          "none"
-        ]
-      }
+      "values": [
+        "institutional",
+        "personal",
+        "none"
+      ]
     },
     {
       "key": "last12",

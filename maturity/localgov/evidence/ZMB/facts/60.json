@@ -1,12 +1,42 @@
 {
   "slug": "2024-05-01-igc-property-tax-land-records-zambia",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "An International Growth Centre policy brief says most local councils still run on manual systems and lists lack of appropriate ICT infrastructure, such as internet connectivity and storage space, among the challenges to councils taking up technology; it gives no count of councils.", "as_of": "2024-05", "date_precision": "month", "system": "council internet connectivity", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "An International Growth Centre policy brief says most local councils still run on manual systems and lists lack of appropriate ICT infrastructure, such as internet connectivity and storage space, among the challenges to councils taking up technology; it gives no count of councils.",
+      "as_of": "2024-05",
+      "date_precision": "month",
+      "system": "council internet connectivity",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Lusaka City Council GIS unit", "country_label": "GIS unit", "class": "application", "platform": "GIS; software and hardware donated by partners", "owner": "Lusaka City Council", "tiers": "Lusaka City Council; not integrated into daily business or extended to the Valuation Department"},
-    {"system": "Lusaka property rates collection", "country_label": "", "class": "application", "platform": "manual; hard copy maps", "owner": "Lusaka City Council", "tiers": "Lusaka City Council"},
-    {"system": "Digital base map of Lusaka (2017 imagery)", "country_label": "", "class": "application", "platform": "automated mapping by Ordnance Survey", "owner": "Ordnance Survey with the Commonwealth Association of Architects and the International Growth Centre, at the request of the Ministry of Local Government", "tiers": "Lusaka, 420 square kilometres"}
+    {
+      "system": "Lusaka City Council GIS unit",
+      "country_label": "GIS unit",
+      "class": "application",
+      "platform": "GIS; software and hardware donated by partners",
+      "owner": "Lusaka City Council",
+      "tiers": "Lusaka City Council; not integrated into daily business or extended to the Valuation Department"
+    },
+    {
+      "system": "Lusaka property rates collection",
+      "country_label": "",
+      "class": "application",
+      "platform": "manual; hard copy maps",
+      "owner": "Lusaka City Council",
+      "tiers": "Lusaka City Council"
+    },
+    {
+      "system": "Digital base map of Lusaka (2017 imagery)",
+      "country_label": "",
+      "class": "application",
+      "platform": "automated mapping by Ordnance Survey",
+      "owner": "Ordnance Survey with the Commonwealth Association of Architects and the International Growth Centre, at the request of the Ministry of Local Government",
+      "tiers": "Lusaka, 420 square kilometres"
+    }
   ],
   "note": "The connectivity statement is a general challenge named in a list, not a measured absence at named councils; the value is the nearest in the closed list and the parent should weigh it as such. The event is undated, so the brief's own date is used."
 }

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+COG,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-02-26,COG-003;COG-006;COG-007,COG-005=finance:donor,
+COG,connection,use,coverage,,,,,nothing held
+COG,connection,connected,coverage,institutional,2026-02-26,COG-002,,
+COG,connection,last12,qualifier,advancing,2026-02-26,COG-001,,
+COG,connection,authorities,coverage,not-published,2026-02-26,COG-004,,

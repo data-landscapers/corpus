@@ -1,12 +1,46 @@
 {
   "slug": "2025-12-22-digital-ethiopia-2025-civil-registration-citizenship-services",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "In Addis Ababa connectivity has been created from the central level down to the woreda level as a major pilot for civil registration and citizenship services, on the account of the deputy director general of the Ethiopian Artificial Intelligence Institute; the document gives no date, so its published date is used.", "as_of": "2025-12-22", "date_precision": "day", "system": "Addis Ababa central-to-woreda connectivity for civil registration and resident services", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "Over the Addis Ababa central-to-woreda connectivity, family registration, vital events registration, resident services and verification are carried out through a digital system built with locally developed applications, a government statement says; no date given, published date used.", "as_of": "2025-12-22", "date_precision": "day", "system": "Addis Ababa central-to-woreda connectivity for civil registration and resident services", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "pilot", "fact": "The central-to-woreda connectivity is described as a major pilot effort in Addis Ababa only; no count of woredas connected and no total is given, and no date, so the published date is used.", "as_of": "2025-12-22", "date_precision": "day", "system": "Addis Ababa central-to-woreda connectivity for civil registration and resident services", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "In Addis Ababa connectivity has been created from the central level down to the woreda level as a major pilot for civil registration and citizenship services, on the account of the deputy director general of the Ethiopian Artificial Intelligence Institute; the document gives no date, so its published date is used.",
+      "as_of": "2025-12-22",
+      "date_precision": "day",
+      "system": "Addis Ababa central-to-woreda connectivity for civil registration and resident services",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "Over the Addis Ababa central-to-woreda connectivity, family registration, vital events registration, resident services and verification are carried out through a digital system built with locally developed applications, a government statement says; no date given, published date used.",
+      "as_of": "2025-12-22",
+      "date_precision": "day",
+      "system": "Addis Ababa central-to-woreda connectivity for civil registration and resident services",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "pilot",
+      "fact": "The central-to-woreda connectivity is described as a major pilot effort in Addis Ababa only; no count of woredas connected and no total is given, and no date, so the published date is used.",
+      "as_of": "2025-12-22",
+      "date_precision": "day",
+      "system": "Addis Ababa central-to-woreda connectivity for civil registration and resident services",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Addis Ababa civil registration and resident services digital system", "country_label": "family registration, vital events registration, resident services and verification", "class": "application", "platform": "locally developed applications", "owner": "", "tiers": "Addis Ababa: central level down to woreda level"}
+    {
+      "system": "Addis Ababa civil registration and resident services digital system",
+      "country_label": "family registration, vital events registration, resident services and verification",
+      "class": "application",
+      "platform": "locally developed applications",
+      "owner": "",
+      "tiers": "Addis Ababa: central level down to woreda level"
+    }
   ],
   "note": "The whole document is one paragraph. It concerns the capital city only; woredas here are Addis Ababa's own. Who owns or pays for the connectivity is not stated."
 }

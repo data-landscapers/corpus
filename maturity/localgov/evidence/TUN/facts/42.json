@@ -4,7 +4,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "The Communication Technologies mission's 2025 annual performance plan defines its indicator 1.1.2 as the share of public bodies' sites connected to the integrated administrative network (RNIA), naming RNIA3 as the network for local collectivities and municipalities beside RNIA2 for ministries and RNIA4 for the justice ministry.",
       "as_of": "2024",
       "date_precision": "year",

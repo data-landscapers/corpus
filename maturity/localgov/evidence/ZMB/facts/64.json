@@ -1,0 +1,15 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
+  "facts": [],
+  "systems": [
+    {
+      "system": "government data centres",
+      "country_label": "",
+      "class": "backbone",
+      "platform": "",
+      "owner": "INFRATEL",
+      "tiers": "three new data centres as the foundation of a government private cloud; no local government office named"
+    }
+  ],
+  "note": "A regional brief on central-government GovTech; its Zambia paragraph covers the Smart Zambia Institute, the Government Service Bus (central agencies exchanging data), INFRATEL's data centres and national e-procurement, and states nothing on Zambian local government offices or their connection. Local government appears only as a region-wide opportunity."
+}

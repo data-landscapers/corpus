@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NAM,connection,governance,qualifier,,,,,nothing held
+NAM,connection,use,coverage,internet,2007,NAM-001,,nothing dated since 2023-10-10
+NAM,connection,connected,coverage,institutional,2007,NAM-002,,nothing dated since 2023-10-10
+NAM,connection,last12,qualifier,,,,,nothing held
+NAM,connection,authorities,coverage,,,,,nothing held

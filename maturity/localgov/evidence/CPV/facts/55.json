@@ -4,7 +4,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "Huawei, the vendor, says that under the second phase of the state's e-government project it deployed 30 videoconferencing systems in high schools and municipal governments across the islands, on a government network meant to connect 1,142 organisations; it does not split the 30 between schools and municipal governments or say in so many words that the municipal offices are on the network (no date given; page dated July 2018 from its URL).",
       "as_of": "2018-07",
       "date_precision": "month",

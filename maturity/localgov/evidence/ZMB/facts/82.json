@@ -1,19 +1,106 @@
 {
   "slug": "2023-08-17-national-electronic-government-plan-2023-2026-zambia",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:1.7%", "fact": "The National Electronic Government Plan's Table 2 gives 2 local authorities connected to the Government Wide Area Network against a national target of 116, as at December 2022 (beside 10 of 116 district administration offices and 263 of 15,600 targeted sites); the percentage is computed from the plan's two figures, which the plan itself does not state as a share.", "as_of": "2022-12", "date_precision": "month", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The plan counts 2 local authorities as sites connected to the Government Wide Area Network, the government's own network deployed by the state, as at December 2022.", "as_of": "2022-12", "date_precision": "month", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The Government Wide Area Network is deployed by the Electronic Government Division in the Office of the President, which the plan names with the Ministry of Local Government and Rural Development, the Ministry of Finance, ZICTA and internet service providers as implementers of its extension; dated to the plan's publication.", "as_of": "2023-08-17", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The National Electronic Government Plan 2023-2026 commits to expanding the Government Wide Area Network to the 116 district administrative centres and local authorities, and its costed matrix carries deployment to 497 further sites at ZMW 500,000,000 and metro networks in 114 local authorities at ZMW 95,860,000.", "as_of": "2023-08-17", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:domestic", "fact": "The plan says its implementation, the network's extension included, shall depend largely on domestic financing through annual national budget allocations, with public-private partnerships, grants and concessional loans as part of the funding; it states an intention, not a budget line for local authority connections.", "as_of": "2023-08-17", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:1.7%",
+      "fact": "The National Electronic Government Plan's Table 2 gives 2 local authorities connected to the Government Wide Area Network against a national target of 116, as at December 2022 (beside 10 of 116 district administration offices and 263 of 15,600 targeted sites); the percentage is computed from the plan's two figures, which the plan itself does not state as a share.",
+      "as_of": "2022-12",
+      "date_precision": "month",
+      "system": "Government Wide Area Network (GWAN)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The plan counts 2 local authorities as sites connected to the Government Wide Area Network, the government's own network deployed by the state, as at December 2022.",
+      "as_of": "2022-12",
+      "date_precision": "month",
+      "system": "Government Wide Area Network (GWAN)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Government Wide Area Network is deployed by the Electronic Government Division in the Office of the President, which the plan names with the Ministry of Local Government and Rural Development, the Ministry of Finance, ZICTA and internet service providers as implementers of its extension; dated to the plan's publication.",
+      "as_of": "2023-08-17",
+      "date_precision": "day",
+      "system": "Government Wide Area Network (GWAN)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The National Electronic Government Plan 2023-2026 commits to expanding the Government Wide Area Network to the 116 district administrative centres and local authorities, and its costed matrix carries deployment to 497 further sites at ZMW 500,000,000 and metro networks in 114 local authorities at ZMW 95,860,000.",
+      "as_of": "2023-08-17",
+      "date_precision": "day",
+      "system": "Government Wide Area Network (GWAN)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The plan says its implementation, the network's extension included, shall depend largely on domestic financing through annual national budget allocations, with public-private partnerships, grants and concessional loans as part of the funding; it states an intention, not a budget line for local authority connections.",
+      "as_of": "2023-08-17",
+      "date_precision": "day",
+      "system": "Government Wide Area Network (GWAN)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "connection", "platform": "", "owner": "Electronic Government Division (Smart Zambia Institute), Office of the President", "tiers": "December 2022: 263 of 15,600 targeted sites; 10 of 10 provincial administration offices, 10 of 116 district administration offices, 2 of 116 local authorities"},
-    {"system": "Metro networks in local authorities", "country_label": "metro networks", "class": "", "platform": "", "owner": "", "tiers": "planned in 114 local authorities, 2023-2026 (ZMW 95,860,000)"},
-    {"system": "Optic fibre backbone points of presence", "country_label": "optic fibre backbone", "class": "backbone", "platform": "", "owner": "Electronic Government Division with Zamtel, ZESCO, FibreCom and Infratel", "tiers": "planned in all 116 districts; 12,000 km of fibre by Zamtel and FibreCom"},
-    {"system": "Government data centres (Tier 1 to Tier 3) and National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Electronic Government Division with Infratel", "tiers": "national; 10 provincial cache data centres planned"},
-    {"system": "Alternative last-mile technologies (towers, VSAT, satellite, radio spectrum)", "country_label": "last mile connectivity", "class": "", "platform": "", "owner": "Ministry of Technology and Science and Electronic Government Division with mobile operators and Infratel", "tiers": "planned for 200 Government sites; 10 sites designated for satellite internet, across the provinces"},
-    {"system": "Digital Transformation Centres", "country_label": "DTCs", "class": "public-access", "platform": "", "owner": "Electronic Government Division with partners", "tiers": "2 pilots by December 2022, in Mongu and Kitwe districts; 58 planned"}
+    {
+      "system": "Government Wide Area Network (GWAN)",
+      "country_label": "GWAN",
+      "class": "connection",
+      "platform": "",
+      "owner": "Electronic Government Division (Smart Zambia Institute), Office of the President",
+      "tiers": "December 2022: 263 of 15,600 targeted sites; 10 of 10 provincial administration offices, 10 of 116 district administration offices, 2 of 116 local authorities"
+    },
+    {
+      "system": "Metro networks in local authorities",
+      "country_label": "metro networks",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "planned in 114 local authorities, 2023-2026 (ZMW 95,860,000)"
+    },
+    {
+      "system": "Optic fibre backbone points of presence",
+      "country_label": "optic fibre backbone",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Electronic Government Division with Zamtel, ZESCO, FibreCom and Infratel",
+      "tiers": "planned in all 116 districts; 12,000 km of fibre by Zamtel and FibreCom"
+    },
+    {
+      "system": "Government data centres (Tier 1 to Tier 3) and National Data Centre",
+      "country_label": "National Data Centre",
+      "class": "backbone",
+      "platform": "",
+      "owner": "Electronic Government Division with Infratel",
+      "tiers": "national; 10 provincial cache data centres planned"
+    },
+    {
+      "system": "Alternative last-mile technologies (towers, VSAT, satellite, radio spectrum)",
+      "country_label": "last mile connectivity",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Technology and Science and Electronic Government Division with mobile operators and Infratel",
+      "tiers": "planned for 200 Government sites; 10 sites designated for satellite internet, across the provinces"
+    },
+    {
+      "system": "Digital Transformation Centres",
+      "country_label": "DTCs",
+      "class": "public-access",
+      "platform": "",
+      "owner": "Electronic Government Division with partners",
+      "tiers": "2 pilots by December 2022, in Mongu and Kitwe districts; 58 planned"
+    }
   ],
   "note": ""
 }

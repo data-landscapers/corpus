@@ -1,0 +1,58 @@
+{
+  "slug": "2026-03-08-zps-headquarters-egovernment-study",
+  "facts": [
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The article reports Bwalya and Mulundano's 2023 survey of local authorities as finding that all of them undertook e-procurement on the Zambia Public Procurement Authority's e-GP platform, while a majority (70%) reported constraints including unstable internet connectivity and limited ICT infrastructure; it does not say from where the councils work or who provides the connection, and gives no survey date, so the cited study's year is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "internet connectivity of local authorities",
+      "class": "connection"
+    }
+  ],
+  "systems": [
+    {
+      "system": "internet connectivity of local authorities",
+      "country_label": "",
+      "class": "connection",
+      "platform": "",
+      "owner": "",
+      "tiers": "local authorities surveyed by Bwalya and Mulundano (2023); described as unstable; provider not stated"
+    },
+    {
+      "system": "Government Wide Area Network (GWAN)",
+      "country_label": "GWAN",
+      "class": "backbone",
+      "platform": "",
+      "owner": "",
+      "tiers": "263 of 15,600 targeted sites connected as of December 2022, per the National Electronic Government Plan 2023-2026; no local government office named"
+    },
+    {
+      "system": "e-Government Procurement (e-GP) Platform",
+      "country_label": "e-GP",
+      "class": "application",
+      "platform": "",
+      "owner": "Zambia Public Procurement Authority",
+      "tiers": "used by all local authorities surveyed (2023)"
+    },
+    {
+      "system": "local authority websites/web portals",
+      "country_label": "",
+      "class": "web",
+      "platform": "",
+      "owner": "local authorities",
+      "tiers": "5 local authorities (14.29%) had one in the 2023 survey; basic information only, except Lusaka City Council's, which offered online payment"
+    },
+    {
+      "system": "local authority Facebook pages",
+      "country_label": "",
+      "class": "web",
+      "platform": "Facebook",
+      "owner": "local authorities",
+      "tiers": "all local authorities surveyed (2023)"
+    }
+  ],
+  "note": "A study of e-government at police headquarters; local authorities appear only in its literature review, through one cited 2023 survey. The police and national systems it describes are outside the study's field."
+}

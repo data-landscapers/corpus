@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,connection,governance,qualifier,owner:ministry;plan:current;finance:not-stated,2025-11,ZAF-007;ZAF-008;ZAF-009,,
+ZAF,connection,use,coverage,systems,2026-07,ZAF-001;ZAF-003,ZAF-012=internet;ZAF-006=internet,
+ZAF,connection,connected,coverage,institutional,2025-11,ZAF-005,,
+ZAF,connection,last12,qualifier,advancing,2026-07,ZAF-002;ZAF-004;ZAF-010,,
+ZAF,connection,authorities,coverage,count:1,2025-11,ZAF-011,,

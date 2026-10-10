@@ -1,20 +1,104 @@
 {
   "slug": "2018-09-01-national-broadband-policy",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:15%", "fact": "The ICT ministry's National Broadband Policy tabulates 15% of District Administrations as having basic internet access and 2% a fibre connection, and says connection remains low at district and local administration level; no numerator, denominator or date is given, so the published date is used.", "as_of": "2018-09", "date_precision": "month", "system": "Internet access of District Administrations", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:1%", "fact": "The same table of the National Broadband Policy gives 1% of Sub county Administrations as having basic internet access and 0% a fibre connection; no numerator, denominator or date is given, so the published date is used.", "as_of": "2018-09", "date_precision": "month", "system": "Internet access of Sub county Administrations", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The policy lists, among management systems in use in government supported by broadband connectivity, the finance ministry's Integrated Financial Management System rolled out to 102 local government sites and its Program Budgeting System rolled out to 160 Local Government votes; no date is given, so the published date is used.", "as_of": "2018-09", "date_precision": "month", "system": "IFMS and PBS at local government sites", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:102", "fact": "The policy states that the Integrated Financial Management System, a centralised system supported by broadband connectivity, has been rolled out to 102 LG sites, beside 75 central government sites; it gives no total of local governments and no date, so the published date is used.", "as_of": "2018-09", "date_precision": "month", "system": "IFMS at local government sites", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:160", "fact": "The policy states that the Program Budgeting System has been rolled out to 160 Local Government votes, beside 142 central government votes; it gives no total and no date, so the published date is used, and it does not say the votes enter it from their own offices.", "as_of": "2018-09", "date_precision": "month", "system": "PBS in Local Government votes", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:15%",
+      "fact": "The ICT ministry's National Broadband Policy tabulates 15% of District Administrations as having basic internet access and 2% a fibre connection, and says connection remains low at district and local administration level; no numerator, denominator or date is given, so the published date is used.",
+      "as_of": "2018-09",
+      "date_precision": "month",
+      "system": "Internet access of District Administrations",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The policy lists, among management systems in use in government supported by broadband connectivity, the finance ministry's Integrated Financial Management System rolled out to 102 local government sites and its Program Budgeting System rolled out to 160 Local Government votes; no date is given, so the published date is used.",
+      "as_of": "2018-09",
+      "date_precision": "month",
+      "system": "IFMS and PBS at local government sites",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:102",
+      "fact": "The policy states that the Integrated Financial Management System, a centralised system supported by broadband connectivity, has been rolled out to 102 LG sites, beside 75 central government sites; it gives no total of local governments and no date, so the published date is used.",
+      "as_of": "2018-09",
+      "date_precision": "month",
+      "system": "IFMS at local government sites",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:160",
+      "fact": "The policy states that the Program Budgeting System has been rolled out to 160 Local Government votes, beside 142 central government votes; it gives no total and no date, so the published date is used, and it does not say the votes enter it from their own offices.",
+      "as_of": "2018-09",
+      "date_precision": "month",
+      "system": "PBS in Local Government votes",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Integrated Financial Management System (IFMS)", "country_label": "IFMS", "class": "application", "platform": "", "owner": "Ministry of Finance, Planning and Economic Development", "tiers": "102 LG sites, 75 central government sites, 12 referral hospitals, 12 public universities and tertiary institutions, 35 missions"},
-    {"system": "Program Budgeting System (PBS)", "country_label": "PBS", "class": "application", "platform": "", "owner": "Ministry of Finance, Planning and Economic Development", "tiers": "142 central government votes and 160 Local Government votes"},
-    {"system": "Human Capital Management System (HCM)", "country_label": "HCM", "class": "application", "platform": "", "owner": "Ministry of Public Service", "tiers": "under development; pilot envisaged in 60 MDA/LGs by December 2018"},
-    {"system": "Unified Messaging and Communications System (UMCS)", "country_label": "UMCS", "class": "application", "platform": "email, instant messaging and VOIP", "owner": "", "tiers": "piloted for 3,000 users; to be rolled out across government MDA/LGs"},
-    {"system": "National Backbone Infrastructure (NBI)", "country_label": "NBI", "class": "backbone", "platform": "optical fibre", "owner": "Government of Uganda through NITA-U", "tiers": "over USD 105 million invested; used at under 30% of capacity; said to connect only government establishments; more than 60 districts have no fibre on their land; phase 4 financed by the World Bank"},
-    {"system": "Websites of MDAs and LGs", "country_label": "", "class": "web", "platform": "", "owner": "", "tiers": "248 websites developed across Government MDA/LGs; about 297 systems or applications in use across MDAs/LGs"},
-    {"system": "e-Citizens Portal", "country_label": "ecitizen.go.ug", "class": "web", "platform": "", "owner": "", "tiers": "houses around 74 MDA/LG services; includes KCCA's eciti online payment platform"}
+    {
+      "system": "Integrated Financial Management System (IFMS)",
+      "country_label": "IFMS",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of Finance, Planning and Economic Development",
+      "tiers": "102 LG sites, 75 central government sites, 12 referral hospitals, 12 public universities and tertiary institutions, 35 missions"
+    },
+    {
+      "system": "Program Budgeting System (PBS)",
+      "country_label": "PBS",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of Finance, Planning and Economic Development",
+      "tiers": "142 central government votes and 160 Local Government votes"
+    },
+    {
+      "system": "Human Capital Management System (HCM)",
+      "country_label": "HCM",
+      "class": "application",
+      "platform": "",
+      "owner": "Ministry of Public Service",
+      "tiers": "under development; pilot envisaged in 60 MDA/LGs by December 2018"
+    },
+    {
+      "system": "Unified Messaging and Communications System (UMCS)",
+      "country_label": "UMCS",
+      "class": "application",
+      "platform": "email, instant messaging and VOIP",
+      "owner": "",
+      "tiers": "piloted for 3,000 users; to be rolled out across government MDA/LGs"
+    },
+    {
+      "system": "National Backbone Infrastructure (NBI)",
+      "country_label": "NBI",
+      "class": "backbone",
+      "platform": "optical fibre",
+      "owner": "Government of Uganda through NITA-U",
+      "tiers": "over USD 105 million invested; used at under 30% of capacity; said to connect only government establishments; more than 60 districts have no fibre on their land; phase 4 financed by the World Bank"
+    },
+    {
+      "system": "Websites of MDAs and LGs",
+      "country_label": "",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "248 websites developed across Government MDA/LGs; about 297 systems or applications in use across MDAs/LGs"
+    },
+    {
+      "system": "e-Citizens Portal",
+      "country_label": "ecitizen.go.ug",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "houses around 74 MDA/LG services; includes KCCA's eciti online payment platform"
+    }
   ],
-  "note": "Capture is an excerpt, cut in the glossary. The connectivity figures are undated in the text; the policy is of September 2018. Sub-county figure recorded for the parent to place by tier."
+  "note": "Capture is an excerpt, cut in the glossary. The connectivity figures are undated in the text; the policy is of September 2018. Sub-county figure recorded for the parent to place by tier. [parent, L3: an authorities fact withdrawn; see corrections.csv]"
 }

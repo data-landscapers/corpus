@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MOZ,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-06-17,MOZ-004;MOZ-005;MOZ-006,,
+MOZ,connection,use,coverage,none,2026-06-17,MOZ-003,,
+MOZ,connection,connected,coverage,institutional,2026-06-17,MOZ-001,,
+MOZ,connection,last12,qualifier,advancing,2026-06-17,MOZ-007,,
+MOZ,connection,authorities,coverage,not-published,2026-06-17,MOZ-002,,

@@ -1,19 +1,100 @@
 {
   "slug": "2025-09-01-minaloc-decentralization-impact-assessment-2000-2025",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The Ministry of Local Government's impact assessment states that at the cell level, the sub-office below the sector, there is an absence of internet connectivity because cells lack computers, their accessories and energy; the report gives no date for the finding, so the publication date of September 2025 is used.", "as_of": "2025-09", "date_precision": "month", "system": "Cell office internet connectivity", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Ministry of Local Government's impact assessment states that Irembo, financial management systems and digital reporting tools have improved efficiency in local administration, and lists e-governance tools introduced between 2016 and 2024, among them the LODA platform, the Building Permit Management Information System (2024) and the Land Administration Information System; no date is given for the statement, so the publication date of September 2025 is used.", "as_of": "2025-09", "date_precision": "month", "system": "Irembo, financial management systems and digital reporting tools in local administration", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "The Ministry of Local Government's impact assessment states that at the cell level, the sub-office below the sector, there is an absence of internet connectivity because cells lack computers, their accessories and energy; the report gives no date for the finding, so the publication date of September 2025 is used.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "Cell office internet connectivity",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Ministry of Local Government's impact assessment states that Irembo, financial management systems and digital reporting tools have improved efficiency in local administration, and lists e-governance tools introduced between 2016 and 2024, among them the LODA platform, the Building Permit Management Information System (2024) and the Land Administration Information System; no date is given for the statement, so the publication date of September 2025 is used.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "Irembo, financial management systems and digital reporting tools in local administration",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Irembo", "country_label": "Irembo", "class": "web", "platform": "", "owner": "", "tiers": "national platform carrying 247 services; access points said to be insufficient at local level"},
-    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "", "tiers": "local government financial management; integrated with LAIS"},
-    {"system": "Land Administration Information System (LAIS)", "country_label": "LAIS", "class": "application", "platform": "", "owner": "", "tiers": "integrated with RRA, IFMIS and Irembo"},
-    {"system": "Building Permit Management Information System", "country_label": "BPMIS", "class": "application", "platform": "", "owner": "", "tiers": "introduced 2024"},
-    {"system": "Local Administrative Entities Development Agency (LODA) platform", "country_label": "LODA platform", "class": "", "platform": "", "owner": "LODA", "tiers": ""},
-    {"system": "e-Change of Name system", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "introduced 2023"},
-    {"system": "Self-application (Byikorere)", "country_label": "Byikorere", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Computer Assisted Mass Appraisal (CAMA)", "country_label": "CAMA", "class": "application", "platform": "", "owner": "", "tiers": "roll-out expected, for district property tax valuation"},
-    {"system": "Digital ambassadors", "country_label": "Digital ambassadors", "class": "public-access", "platform": "", "owner": "", "tiers": "deployed in each cell"}
+    {
+      "system": "Irembo",
+      "country_label": "Irembo",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "national platform carrying 247 services; access points said to be insufficient at local level"
+    },
+    {
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "country_label": "IFMIS",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "local government financial management; integrated with LAIS"
+    },
+    {
+      "system": "Land Administration Information System (LAIS)",
+      "country_label": "LAIS",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "integrated with RRA, IFMIS and Irembo"
+    },
+    {
+      "system": "Building Permit Management Information System",
+      "country_label": "BPMIS",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "introduced 2024"
+    },
+    {
+      "system": "Local Administrative Entities Development Agency (LODA) platform",
+      "country_label": "LODA platform",
+      "class": "",
+      "platform": "",
+      "owner": "LODA",
+      "tiers": ""
+    },
+    {
+      "system": "e-Change of Name system",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "introduced 2023"
+    },
+    {
+      "system": "Self-application (Byikorere)",
+      "country_label": "Byikorere",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Computer Assisted Mass Appraisal (CAMA)",
+      "country_label": "CAMA",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "roll-out expected, for district property tax valuation"
+    },
+    {
+      "system": "Digital ambassadors",
+      "country_label": "Digital ambassadors",
+      "class": "public-access",
+      "platform": "",
+      "owner": "",
+      "tiers": "deployed in each cell"
+    }
   ],
   "note": "Passages only; the same report as document 48, from another capture. The report also lists limited internet connectivity, lack of electricity and too few Irembo access points among infrastructure limits on local government, without figures."
 }

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NGA,connection,governance,qualifier,owner:vendor;plan:current;finance:donor,2026-09-22,NGA-001;NGA-002;NGA-003,NGA-005=plan:current;NGA-006=finance:donor;NGA-007=owner:partner;NGA-009=plan:current;NGA-010=finance:donor;NGA-011=owner:partner;NGA-015=plan:current;NGA-016=finance:donor;NGA-017=owner:ministry;NGA-024=finance:donor;NGA-023=plan:current;NGA-027=owner:ministry;NGA-034=plan:current,
+NGA,connection,use,coverage,systems,2025-11-13,NGA-030;NGA-032;NGA-033,NGA-014=internet;NGA-022=internet;NGA-029=internet,
+NGA,connection,connected,coverage,institutional,2025-12-17,NGA-013;NGA-021;NGA-028,,
+NGA,connection,last12,qualifier,advancing,2026-09-22,NGA-004;NGA-008;NGA-019;NGA-026,NGA-018=no-change;NGA-025=no-change,
+NGA,connection,authorities,coverage,share:96%,2025-11-13,NGA-031,NGA-012=count:510;NGA-020=count:510,

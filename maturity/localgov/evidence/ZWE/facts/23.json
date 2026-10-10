@@ -1,14 +1,64 @@
 {
   "slug": "2026-06-04-zwe-digital-information-centres-masvingo",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "Masvingo's Minister of State for Provincial Affairs said 104 Starlink kits were distributed to schools, clinics and local authorities in the province in the first and second quarters of 2026, improving internet connectivity; the article does not say how many went to local authorities or whether they are activated.", "as_of": "2026-06", "date_precision": "month", "system": "Starlink kits", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "internet", "fact": "The Masvingo provincial minister said the 104 Starlink kits given to schools, clinics and local authorities in the first half of 2026 improved internet connectivity and access to digital services; no system that council staff work in over them is named.", "as_of": "2026-06", "date_precision": "month", "system": "Starlink kits", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "The 104 Starlink kits distributed in Masvingo Province in the first half of 2026 are given as one total for schools, clinics and local authorities, per the provincial minister; the number of local authorities receiving one is not stated, and no national figure is given.", "as_of": "2026-06", "date_precision": "month", "system": "Starlink kits", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "In the first and second quarters of 2026, 104 Starlink kits were distributed to schools, clinics and local authorities in Masvingo Province, according to the province's Minister of State.", "as_of": "2026-06", "date_precision": "month", "system": "Starlink kits", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "Masvingo's Minister of State for Provincial Affairs said 104 Starlink kits were distributed to schools, clinics and local authorities in the province in the first and second quarters of 2026, improving internet connectivity; the article does not say how many went to local authorities or whether they are activated.",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Starlink kits",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "internet",
+      "fact": "The Masvingo provincial minister said the 104 Starlink kits given to schools, clinics and local authorities in the first half of 2026 improved internet connectivity and access to digital services; no system that council staff work in over them is named.",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Starlink kits",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "The 104 Starlink kits distributed in Masvingo Province in the first half of 2026 are given as one total for schools, clinics and local authorities, per the provincial minister; the number of local authorities receiving one is not stated, and no national figure is given.",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Starlink kits",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "In the first and second quarters of 2026, 104 Starlink kits were distributed to schools, clinics and local authorities in Masvingo Province, according to the province's Minister of State.",
+      "as_of": "2026-06",
+      "date_precision": "month",
+      "system": "Starlink kits",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Starlink kits", "country_label": "Starlink kits", "class": "connection", "platform": "Starlink", "owner": "not stated; reported by the Masvingo Minister of State for Provincial Affairs and Devolution", "tiers": "Masvingo Province: 104 kits to schools, clinics and local authorities in the first half of 2026, split not given"},
-    {"system": "Digital Information Centres", "country_label": "Digital Information Centres", "class": "public-access", "platform": "", "owner": "POTRAZ and the Ministry of ICT, Postal and Courier Services", "tiers": "205 nationwide after the Nemamwa centre: 32 newly established and 172 upgraded or established at post offices, per POTRAZ's Director-General (the two figures sum to 204)"}
+    {
+      "system": "Starlink kits",
+      "country_label": "Starlink kits",
+      "class": "connection",
+      "platform": "Starlink",
+      "owner": "not stated; reported by the Masvingo Minister of State for Provincial Affairs and Devolution",
+      "tiers": "Masvingo Province: 104 kits to schools, clinics and local authorities in the first half of 2026, split not given"
+    },
+    {
+      "system": "Digital Information Centres",
+      "country_label": "Digital Information Centres",
+      "class": "public-access",
+      "platform": "",
+      "owner": "POTRAZ and the Ministry of ICT, Postal and Courier Services",
+      "tiers": "205 nationwide after the Nemamwa centre: 32 newly established and 172 upgraded or established at post offices, per POTRAZ's Director-General (the two figures sum to 204)"
+    }
   ],
   "note": ""
 }

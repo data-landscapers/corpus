@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CMR,connection,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-08,CMR-003;CMR-005;CMR-006,CMR-007=finance:not-stated;CMR-009=plan:current;CMR-010=owner:ministry;CMR-011=finance:donor,
+CMR,connection,use,coverage,,,,,nothing held
+CMR,connection,connected,coverage,institutional,2026-08,CMR-002,,
+CMR,connection,last12,qualifier,advancing,2026-06-02,CMR-008,,
+CMR,connection,authorities,coverage,count:2,2026-08,CMR-004,CMR-001=not-published;CMR-012=not-published,

@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TUN,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-19,TUN-005;TUN-020;TUN-024,TUN-004=owner:ministry;TUN-009=owner:ministry;TUN-015=owner:ministry;TUN-023=owner:ministry;TUN-025=finance:domestic;TUN-027=owner:ministry,
+TUN,connection,use,coverage,systems,2026-09-19,TUN-001;TUN-006;TUN-010;TUN-012;TUN-018;TUN-026,,
+TUN,connection,connected,coverage,institutional,2026-09-19,TUN-019;TUN-021,,
+TUN,connection,last12,qualifier,advancing,2026-09-14,TUN-003;TUN-008;TUN-011;TUN-014,,
+TUN,connection,authorities,coverage,count:16,2026-06-24,TUN-002;TUN-007;TUN-013,TUN-022=not-published,

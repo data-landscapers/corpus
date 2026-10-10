@@ -1,17 +1,92 @@
 {
   "slug": "2026-08-14-zaire-instala-antenas-vsat-nas-comunas-para-buap",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The Ministry of Territorial Administration is running a national programme to supply and install V/SAT satellite antennas at commune seats, to guarantee communications and internet there so the public service counters (BUAP) can work; in Zaire ten named commune seats with no UNITEL network are to get them in the days after 14 August 2026, on the provincial registries and administrative modernisation director's word.", "as_of": "2026-08-14", "date_precision": "day", "system": "antenas V/SAT nas sedes comunais", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "More than 24,000 adults updated their electoral data for the national Registo Eleitoral Oficioso at the 12 BUAP counters installed at municipal seats in Zaire province between 15 July and 14 August 2026, on the provincial director's word; the antennas are being installed so that such counters can work where there is no mobile network.", "as_of": "2026-08-14", "date_precision": "day", "system": "Balcões Únicos de Atendimento ao Público (BUAP)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:11", "fact": "Twelve BUAP counters were working in the 11 municipalities of Zaire province on 14 August 2026, two of them in Tomboco (the seat and the commune of Kinsimba), on the provincial director's word; one province only, with no national count given.", "as_of": "2026-08-14", "date_precision": "day", "system": "Balcões Únicos de Atendimento ao Público (BUAP)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "Installation of V/SAT antennas at ten commune seats of Zaire province (Madimba, Kaluka, Nkiende, Sumba, Pedra do Feitiço, Quêlo, Quibala Norte, Musserra, Buela and Luvaka) was to begin in the days after 14 August 2026, under a national programme of the Ministry of Territorial Administration.", "as_of": "2026-08-14", "date_precision": "day", "system": "antenas V/SAT nas sedes comunais", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The V/SAT programme for commune seats is run nationally by the Ministry of Territorial Administration (MAT), as stated by its provincial director in Zaire on 14 August 2026.", "as_of": "2026-08-14", "date_precision": "day", "system": "antenas V/SAT nas sedes comunais", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:not-stated", "fact": "The report of 14 August 2026 on the Ministry of Territorial Administration's V/SAT programme for commune seats names no budget or funder.", "as_of": "2026-08-14", "date_precision": "day", "system": "antenas V/SAT nas sedes comunais", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The Ministry of Territorial Administration is running a national programme to supply and install V/SAT satellite antennas at commune seats, to guarantee communications and internet there so the public service counters (BUAP) can work; in Zaire ten named commune seats with no UNITEL network are to get them in the days after 14 August 2026, on the provincial registries and administrative modernisation director's word.",
+      "as_of": "2026-08-14",
+      "date_precision": "day",
+      "system": "antenas V/SAT nas sedes comunais",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "More than 24,000 adults updated their electoral data for the national Registo Eleitoral Oficioso at the 12 BUAP counters installed at municipal seats in Zaire province between 15 July and 14 August 2026, on the provincial director's word; the antennas are being installed so that such counters can work where there is no mobile network.",
+      "as_of": "2026-08-14",
+      "date_precision": "day",
+      "system": "Balcões Únicos de Atendimento ao Público (BUAP)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:11",
+      "fact": "Twelve BUAP counters were working in the 11 municipalities of Zaire province on 14 August 2026, two of them in Tomboco (the seat and the commune of Kinsimba), on the provincial director's word; one province only, with no national count given.",
+      "as_of": "2026-08-14",
+      "date_precision": "day",
+      "system": "Balcões Únicos de Atendimento ao Público (BUAP)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Installation of V/SAT antennas at ten commune seats of Zaire province (Madimba, Kaluka, Nkiende, Sumba, Pedra do Feitiço, Quêlo, Quibala Norte, Musserra, Buela and Luvaka) was to begin in the days after 14 August 2026, under a national programme of the Ministry of Territorial Administration.",
+      "as_of": "2026-08-14",
+      "date_precision": "day",
+      "system": "antenas V/SAT nas sedes comunais",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The V/SAT programme for commune seats is run nationally by the Ministry of Territorial Administration (MAT), as stated by its provincial director in Zaire on 14 August 2026.",
+      "as_of": "2026-08-14",
+      "date_precision": "day",
+      "system": "antenas V/SAT nas sedes comunais",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The report of 14 August 2026 on the Ministry of Territorial Administration's V/SAT programme for commune seats names no budget or funder.",
+      "as_of": "2026-08-14",
+      "date_precision": "day",
+      "system": "antenas V/SAT nas sedes comunais",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "antenas V/SAT nas sedes comunais", "country_label": "programa de disponibilização e instalação de antenas V/SAT nas sedes comunais", "class": "connection", "platform": "V/SAT satellite", "owner": "Ministry of Territorial Administration (MAT)", "tiers": "commune seats without the UNITEL network, nationally; ten named communes in Zaire"},
-    {"system": "Balcões Únicos de Atendimento ao Público (BUAP)", "country_label": "BUAP", "class": "", "platform": "", "owner": "not stated", "tiers": "12 counters at municipal seats in the 11 municipalities of Zaire, one of them in the commune of Kinsimba"},
-    {"system": "Registo Eleitoral Oficioso", "country_label": "Registo Eleitoral Oficioso com Natureza Prova de Vida", "class": "application", "platform": "", "owner": "", "tiers": "worked at the BUAP counters and by mobile brigades with tablets, to be distributed to the municipalities"}
+    {
+      "system": "antenas V/SAT nas sedes comunais",
+      "country_label": "programa de disponibilização e instalação de antenas V/SAT nas sedes comunais",
+      "class": "connection",
+      "platform": "V/SAT satellite",
+      "owner": "Ministry of Territorial Administration (MAT)",
+      "tiers": "commune seats without the UNITEL network, nationally; ten named communes in Zaire"
+    },
+    {
+      "system": "Balcões Únicos de Atendimento ao Público (BUAP)",
+      "country_label": "BUAP",
+      "class": "",
+      "platform": "",
+      "owner": "not stated",
+      "tiers": "12 counters at municipal seats in the 11 municipalities of Zaire, one of them in the commune of Kinsimba"
+    },
+    {
+      "system": "Registo Eleitoral Oficioso",
+      "country_label": "Registo Eleitoral Oficioso com Natureza Prova de Vida",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "worked at the BUAP counters and by mobile brigades with tablets, to be distributed to the municipalities"
+    }
   ],
   "note": "The document places the antennas and counters at commune and municipal seats and does not say in so many words that they sit in the municipal or commune administration's own office; the facts are worded to what it states."
 }

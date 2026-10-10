@@ -1,15 +1,68 @@
 {
   "slug": "2025-09-01-rwa-minaloc-decentralization-impact-assessment-2000-2025",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The Ministry of Local Government's impact assessment states that at the cell level, the sub-office below the sector, there is an absence of internet connectivity because cells lack computers, their accessories and energy; the report gives no date for the finding, so the publication date of September 2025 is used.", "as_of": "2025-09", "date_precision": "month", "system": "Cell office internet connectivity", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Ministry of Local Government's impact assessment states that Irembo, financial management systems and digital reporting tools have improved efficiency in local administration, and that the land administration system (LAIS) has been integrated with the revenue authority, IFMIS and Irembo to strengthen local governments; no date is given, so the publication date of September 2025 is used.", "as_of": "2025-09", "date_precision": "month", "system": "Irembo, IFMIS and digital reporting tools in local administration", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "The Ministry of Local Government's impact assessment states that at the cell level, the sub-office below the sector, there is an absence of internet connectivity because cells lack computers, their accessories and energy; the report gives no date for the finding, so the publication date of September 2025 is used.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "Cell office internet connectivity",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The Ministry of Local Government's impact assessment states that Irembo, financial management systems and digital reporting tools have improved efficiency in local administration, and that the land administration system (LAIS) has been integrated with the revenue authority, IFMIS and Irembo to strengthen local governments; no date is given, so the publication date of September 2025 is used.",
+      "as_of": "2025-09",
+      "date_precision": "month",
+      "system": "Irembo, IFMIS and digital reporting tools in local administration",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Irembo", "country_label": "Irembo", "class": "web", "platform": "", "owner": "", "tiers": "national e-governance platform; access points said to be insufficient at local level"},
-    {"system": "Integrated Financial Management Information System (IFMIS)", "country_label": "IFMIS", "class": "application", "platform": "", "owner": "", "tiers": "local government financial management; integrated with LAIS"},
-    {"system": "Land Administration Information System (LAIS)", "country_label": "LAIS", "class": "application", "platform": "", "owner": "", "tiers": "integrated with RRA, IFMIS and Irembo"},
-    {"system": "Computer Assisted Mass Appraisal (CAMA)", "country_label": "CAMA", "class": "application", "platform": "", "owner": "", "tiers": "roll-out expected, for district property tax valuation"},
-    {"system": "Rwanda Revenue Authority collection of local taxes and fees", "country_label": "", "class": "central", "platform": "", "owner": "Rwanda Revenue Authority, on behalf of decentralised entities under Prime Minister's Order 004/03 of 16/02/2021", "tiers": "districts"}
+    {
+      "system": "Irembo",
+      "country_label": "Irembo",
+      "class": "web",
+      "platform": "",
+      "owner": "",
+      "tiers": "national e-governance platform; access points said to be insufficient at local level"
+    },
+    {
+      "system": "Integrated Financial Management Information System (IFMIS)",
+      "country_label": "IFMIS",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "local government financial management; integrated with LAIS"
+    },
+    {
+      "system": "Land Administration Information System (LAIS)",
+      "country_label": "LAIS",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "integrated with RRA, IFMIS and Irembo"
+    },
+    {
+      "system": "Computer Assisted Mass Appraisal (CAMA)",
+      "country_label": "CAMA",
+      "class": "application",
+      "platform": "",
+      "owner": "",
+      "tiers": "roll-out expected, for district property tax valuation"
+    },
+    {
+      "system": "Rwanda Revenue Authority collection of local taxes and fees",
+      "country_label": "",
+      "class": "central",
+      "platform": "",
+      "owner": "Rwanda Revenue Authority, on behalf of decentralised entities under Prime Minister's Order 004/03 of 16/02/2021",
+      "tiers": "districts"
+    }
   ],
   "note": "Passages only. The report also lists limited internet connectivity, lack of electricity and too few Irembo access points among infrastructure limits on local government, and recommends investing in digital infrastructure for local government offices, without figures."
 }

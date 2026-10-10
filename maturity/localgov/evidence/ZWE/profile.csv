@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZWE,connection,governance,qualifier,owner:ministry;finance:domestic,2026-04-22,ZWE-005;ZWE-006,ZWE-008=owner:ministry;ZWE-009=finance:not-stated,not stated: plan
+ZWE,connection,use,coverage,internet,2026-06,ZWE-002,,
+ZWE,connection,connected,coverage,institutional,2026-06,ZWE-001,,
+ZWE,connection,last12,qualifier,advancing,2026-06,ZWE-004;ZWE-007,,
+ZWE,connection,authorities,coverage,not-published,2026-06,ZWE-003;ZWE-010,,

@@ -14,7 +14,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "The Centre National de l'Informatique states that workstations installed in municipalities, among about 4,500 across the administration, are connected to the servers of the state's data centre; the page is undated, so the document's published date (a retrieval-day proxy) is used.",
       "as_of": "2026-09-19",
       "date_precision": "day",

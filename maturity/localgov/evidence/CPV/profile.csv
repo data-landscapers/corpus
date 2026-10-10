@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CPV,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2020-03,CPV-004;CPV-005;CPV-006,CPV-008=owner:ministry,nothing dated since 2023-10-10
+CPV,connection,use,coverage,systems,2025-12-17,CPV-001;CPV-002;CPV-009;CPV-010,,
+CPV,connection,connected,coverage,institutional,2020-03,CPV-003;CPV-007,,nothing dated since 2023-10-10
+CPV,connection,last12,qualifier,,,,,nothing held
+CPV,connection,authorities,coverage,,,,,nothing held

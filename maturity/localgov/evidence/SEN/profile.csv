@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SEN,connection,governance,qualifier,owner:ministry;plan:current;finance:donor,2026-09-09,SEN-001;SEN-002;SEN-006,SEN-038=owner:ministry;SEN-041=finance:donor;SEN-042=owner:partner;SEN-010=owner:ministry;SEN-014=owner:ministry;SEN-016=plan:current;SEN-017=owner:ministry;SEN-047=finance:donor;SEN-022=owner:ministry;SEN-023=finance:donor;SEN-027=owner:ministry;SEN-028=finance:not-stated;SEN-032=owner:ministry;SEN-033=plan:current;SEN-034=finance:not-stated;SEN-052=finance:donor;SEN-053=owner:ministry;SEN-054=plan:current;SEN-035=plan:current;SEN-036=owner:ministry;SEN-037=finance:domestic,
+SEN,connection,use,coverage,systems,2025-11-05,SEN-025;SEN-030;SEN-050,SEN-013=internet;SEN-020=none;SEN-046=none,
+SEN,connection,connected,coverage,institutional,2026-06-29,SEN-004;SEN-011;SEN-029;SEN-040;SEN-049,SEN-007=none;SEN-019=none;SEN-045=none,
+SEN,connection,last12,qualifier,regressing,2026-09-07,SEN-003,SEN-043=advancing;SEN-009=advancing;SEN-015=advancing;SEN-024=advancing;SEN-048=no-change,
+SEN,connection,authorities,coverage,equipped:24.7%,2025-11,SEN-021,SEN-005=not-published;SEN-039=count:400;SEN-008=pilot;SEN-012=count:1;SEN-018=not-published;SEN-044=none;SEN-026=count:400;SEN-031=count:235;SEN-051=count:136,

@@ -1,19 +1,108 @@
 {
   "slug": "2021-05-22-worldbank-pad3761-senegal-cadastre-land-tenure-improvement",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The World Bank's appraisal of PROCASEF says the project will finance, for municipal land bureaus, IT equipment and the installation of an internet connection and electrification where necessary, and expects each supported municipality to have a land bureau with a secure digital connection five years on; this is planned at appraisal, not delivered.", "as_of": "2021-05-22", "date_precision": "day", "system": "internet connection of municipal land bureaus (PROCASEF)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The appraisal says a web-based municipal land information system is to be designed and deployed, accessible at the municipal land bureau and exchanging data with the tax department's SGF and the national spatial data infrastructure; at appraisal municipalities had no land information system and their land records were on paper.", "as_of": "2021-05-22", "date_precision": "day", "system": "internet connection of municipal land bureaus (PROCASEF)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:136", "fact": "The appraisal names 136 municipalities as those PROCASEF is to support, which it calls one in five municipalities, each to receive a land bureau with equipment and a connection; this is the project's target at appraisal and no municipality is said to be connected yet.", "as_of": "2021-05-22", "date_precision": "day", "system": "internet connection of municipal land bureaus (PROCASEF)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The appraisal states the project is financed wholly by IDA, US$80 million as a credit and a grant of US$40 million each, of which US$34.03 million is for the component that equips and connects land institutions; municipalities are to take over the land bureaus' running costs from their own budgets progressively.", "as_of": "2021-05-22", "date_precision": "day", "system": "internet connection of municipal land bureaus (PROCASEF)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The appraisal states the Ministry of Finances and Budget is the line ministry, with its Secretary General's office as implementing agency through a project unit and five regional units, and that land bureaus are the municipalities' own, their officer paid by the municipality.", "as_of": "2021-05-22", "date_precision": "day", "system": "internet connection of municipal land bureaus (PROCASEF)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "plan:current", "fact": "The appraisal is a costed five-year project, expected to close on 24 July 2026, whose sub-component 1.1 names the installation of an internet connection at central and decentralised land institutions, municipal land bureaus among them.", "as_of": "2021-05-22", "date_precision": "day", "system": "internet connection of municipal land bureaus (PROCASEF)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The World Bank's appraisal of PROCASEF says the project will finance, for municipal land bureaus, IT equipment and the installation of an internet connection and electrification where necessary, and expects each supported municipality to have a land bureau with a secure digital connection five years on; this is planned at appraisal, not delivered.",
+      "as_of": "2021-05-22",
+      "date_precision": "day",
+      "system": "internet connection of municipal land bureaus (PROCASEF)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "systems",
+      "fact": "The appraisal says a web-based municipal land information system is to be designed and deployed, accessible at the municipal land bureau and exchanging data with the tax department's SGF and the national spatial data infrastructure; at appraisal municipalities had no land information system and their land records were on paper.",
+      "as_of": "2021-05-22",
+      "date_precision": "day",
+      "system": "internet connection of municipal land bureaus (PROCASEF)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:136",
+      "fact": "The appraisal names 136 municipalities as those PROCASEF is to support, which it calls one in five municipalities, each to receive a land bureau with equipment and a connection; this is the project's target at appraisal and no municipality is said to be connected yet.",
+      "as_of": "2021-05-22",
+      "date_precision": "day",
+      "system": "internet connection of municipal land bureaus (PROCASEF)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The appraisal states the project is financed wholly by IDA, US$80 million as a credit and a grant of US$40 million each, of which US$34.03 million is for the component that equips and connects land institutions; municipalities are to take over the land bureaus' running costs from their own budgets progressively.",
+      "as_of": "2021-05-22",
+      "date_precision": "day",
+      "system": "internet connection of municipal land bureaus (PROCASEF)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The appraisal states the Ministry of Finances and Budget is the line ministry, with its Secretary General's office as implementing agency through a project unit and five regional units, and that land bureaus are the municipalities' own, their officer paid by the municipality.",
+      "as_of": "2021-05-22",
+      "date_precision": "day",
+      "system": "internet connection of municipal land bureaus (PROCASEF)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The appraisal is a costed five-year project, expected to close on 24 July 2026, whose sub-component 1.1 names the installation of an internet connection at central and decentralised land institutions, municipal land bureaus among them.",
+      "as_of": "2021-05-22",
+      "date_precision": "day",
+      "system": "internet connection of municipal land bureaus (PROCASEF)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "internet connection of municipal land bureaus (PROCASEF)", "country_label": "Bureau foncier communal", "class": "connection", "platform": "", "owner": "municipalities, with the Ministry of Finances and Budget's PROCASEF project unit", "tiers": "136 project-supported municipalities, planned"},
-    {"system": "Municipal Land Information System (LIS)", "country_label": "Système d'Information Foncière Communal (SIF)", "class": "application", "platform": "web-based; open-source tools such as STDM, SOLA and Open Tenure to be considered", "owner": "municipalities, with DGID", "tiers": "municipal land bureaus of the project's municipalities, to be developed; none existed at appraisal"},
-    {"system": "Système de Gestion Foncière (SGF)", "country_label": "Système de Gestion Foncière", "class": "central", "platform": "", "owner": "Direction Générale des Impôts et des Domaines (DGID)", "tiers": "central and DGID offices; not fully implemented and not connected to municipal land administration at appraisal"},
-    {"system": "IT equipment and furniture for municipal land bureaus", "country_label": "", "class": "equipment", "platform": "", "owner": "municipalities", "tiers": "project-supported municipalities, planned"},
-    {"system": "training of Land Bureau Officers and municipal staff", "country_label": "", "class": "capacity", "platform": "", "owner": "PROCASEF, with DGID and training institutions", "tiers": "project-supported municipalities, planned"}
+    {
+      "system": "internet connection of municipal land bureaus (PROCASEF)",
+      "country_label": "Bureau foncier communal",
+      "class": "connection",
+      "platform": "",
+      "owner": "municipalities, with the Ministry of Finances and Budget's PROCASEF project unit",
+      "tiers": "136 project-supported municipalities, planned"
+    },
+    {
+      "system": "Municipal Land Information System (LIS)",
+      "country_label": "Système d'Information Foncière Communal (SIF)",
+      "class": "application",
+      "platform": "web-based; open-source tools such as STDM, SOLA and Open Tenure to be considered",
+      "owner": "municipalities, with DGID",
+      "tiers": "municipal land bureaus of the project's municipalities, to be developed; none existed at appraisal"
+    },
+    {
+      "system": "Système de Gestion Foncière (SGF)",
+      "country_label": "Système de Gestion Foncière",
+      "class": "central",
+      "platform": "",
+      "owner": "Direction Générale des Impôts et des Domaines (DGID)",
+      "tiers": "central and DGID offices; not fully implemented and not connected to municipal land administration at appraisal"
+    },
+    {
+      "system": "IT equipment and furniture for municipal land bureaus",
+      "country_label": "",
+      "class": "equipment",
+      "platform": "",
+      "owner": "municipalities",
+      "tiers": "project-supported municipalities, planned"
+    },
+    {
+      "system": "training of Land Bureau Officers and municipal staff",
+      "country_label": "",
+      "class": "capacity",
+      "platform": "",
+      "owner": "PROCASEF, with DGID and training institutions",
+      "tiers": "project-supported municipalities, planned"
+    }
   ],
   "note": "Truncated capture, read to its end at paragraph 58. Every fact is a plan stated at appraisal in May 2021; the document reports nothing as delivered."
 }

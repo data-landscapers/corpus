@@ -1,13 +1,54 @@
 {
   "slug": "2026-05-07-niger-pvi-mairie-connectivity-reception",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "Le Sahel reports that the Projet Villages Intelligents held an official ceremony on 6 May 2026 inaugurating the broadband connectivity of the mairies, delivered to the town halls by the project with the communications minister present; it gives no number of mairies.", "as_of": "2026-05-06", "date_precision": "day", "system": "connectivité haut débit des mairies (Projet Villages Intelligents)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "The broadband connectivity of the mairies under the Projet Villages Intelligents was officially received at a ceremony on 6 May 2026, in the presence of the communications minister and the World Bank's resident representative.", "as_of": "2026-05-06", "date_precision": "day", "system": "connectivité haut débit des mairies (Projet Villages Intelligents)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "At the 6 May 2026 ceremony the World Bank's resident representative said the Bank finances the infrastructure and will support capacity building to sustain the investment; the document names no domestic budget line for the mairies' connectivity.", "as_of": "2026-05-06", "date_precision": "day", "system": "connectivité haut débit des mairies (Projet Villages Intelligents)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "Le Sahel reports that the Projet Villages Intelligents held an official ceremony on 6 May 2026 inaugurating the broadband connectivity of the mairies, delivered to the town halls by the project with the communications minister present; it gives no number of mairies.",
+      "as_of": "2026-05-06",
+      "date_precision": "day",
+      "system": "connectivité haut débit des mairies (Projet Villages Intelligents)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The broadband connectivity of the mairies under the Projet Villages Intelligents was officially received at a ceremony on 6 May 2026, in the presence of the communications minister and the World Bank's resident representative.",
+      "as_of": "2026-05-06",
+      "date_precision": "day",
+      "system": "connectivité haut débit des mairies (Projet Villages Intelligents)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "At the 6 May 2026 ceremony the World Bank's resident representative said the Bank finances the infrastructure and will support capacity building to sustain the investment; the document names no domestic budget line for the mairies' connectivity.",
+      "as_of": "2026-05-06",
+      "date_precision": "day",
+      "system": "connectivité haut débit des mairies (Projet Villages Intelligents)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "connectivité haut débit des mairies", "country_label": "connectivité des Mairies", "class": "connection", "platform": "", "owner": "Projet Villages Intelligents (PVI), with World Bank financing", "tiers": "mairies (town halls); number not stated"},
-    {"system": "Niamey-Yarda", "country_label": "plateforme Niamey-Yarda", "class": "application", "platform": "", "owner": "Ville de Niamey, with PVI and World Bank support", "tiers": "Ville de Niamey; municipal tax collection, monthly receipts reported up from 350 million to 515 million FCFA"}
+    {
+      "system": "connectivité haut débit des mairies",
+      "country_label": "connectivité des Mairies",
+      "class": "connection",
+      "platform": "",
+      "owner": "Projet Villages Intelligents (PVI), with World Bank financing",
+      "tiers": "mairies (town halls); number not stated"
+    },
+    {
+      "system": "Niamey-Yarda",
+      "country_label": "plateforme Niamey-Yarda",
+      "class": "application",
+      "platform": "",
+      "owner": "Ville de Niamey, with PVI and World Bank support",
+      "tiers": "Ville de Niamey; municipal tax collection, monthly receipts reported up from 350 million to 515 million FCFA"
+    }
   ],
   "note": ""
 }

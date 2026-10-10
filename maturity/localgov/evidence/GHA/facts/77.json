@@ -4,7 +4,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:institutional",
+      "value": "institutional",
       "fact": "The Minister for Communications and Digitalisation says the eGovernment network (GovNet) connects government agencies including MMDAs by fibre backbone, last-mile fibre and microwave links with VSAT backup, provided to the institutions on a 10-year indefeasible right of use, with 274 of 274 MMDA sites connected.",
       "as_of": "2024-02-18",
       "date_precision": "day",

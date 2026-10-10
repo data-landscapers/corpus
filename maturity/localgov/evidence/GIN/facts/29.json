@@ -1,11 +1,34 @@
 {
   "slug": "2026-03-31 Africa we have a data problem",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The essay's own compilation says rural commune civil-registration offices, where the mayor or a delegate is registrar, work on paper with no networked system in routine use and names lack of electricity and connectivity as a barrier; a 2017 pilot in the N'Zérékoré region brought standalone computers that were not networked (no date given for the general statement; the document's published date is used).", "as_of": "2026-03-31", "date_precision": "day", "system": "rural commune registry offices (no connection)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "The essay's own compilation says rural commune civil-registration offices, where the mayor or a delegate is registrar, work on paper with no networked system in routine use and names lack of electricity and connectivity as a barrier; a 2017 pilot in the N'Zérékoré region brought standalone computers that were not networked (no date given for the general statement; the document's published date is used).",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "rural commune registry offices (no connection)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Civil registry modernisation pilot, N'Zérékoré region (2017)", "country_label": "", "class": "equipment", "platform": "", "owner": "", "tiers": "rural communes of the N'Zérékoré region; standalone computers, not networked"},
-    {"system": "EU-backed digitisation of civil registration records (2021-2024)", "country_label": "", "class": "application", "platform": "", "owner": "Enabel named as the project source", "tiers": "10 municipalities; existing paper records digitised into a national database; about 40 centres acquiring computers with local backups planned"}
+    {
+      "system": "Civil registry modernisation pilot, N'Zérékoré region (2017)",
+      "country_label": "",
+      "class": "equipment",
+      "platform": "",
+      "owner": "",
+      "tiers": "rural communes of the N'Zérékoré region; standalone computers, not networked"
+    },
+    {
+      "system": "EU-backed digitisation of civil registration records (2021-2024)",
+      "country_label": "",
+      "class": "application",
+      "platform": "",
+      "owner": "Enabel named as the project source",
+      "tiers": "10 municipalities; existing paper records digitised into a national database; about 40 centres acquiring computers with local backups planned"
+    }
   ],
   "note": "This source is on study.json's exclude_sources list (an AI-assisted compilation by its own header); the one fact is what its Guinea registry row states, and the parent decides its use."
 }

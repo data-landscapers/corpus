@@ -1,14 +1,62 @@
 {
   "slug": "2026-07-17-zambie-lance-reseau-4g-prive-govlink",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:100%", "fact": "The article reports that in 2025 the Smart Zambia Institute announced it had linked the country's 116 local authorities to the Government Wide Area Network, 116 of 116 on the institute's own account as relayed by We Are Tech Africa.", "as_of": "2025", "date_precision": "year", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The Smart Zambia Institute, the public agency for digital transformation, is reported to have announced in 2025 that it had linked the 116 local authorities to the government's own wide area network.", "as_of": "2025", "date_precision": "year", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The linking of the 116 local authorities to the Government Wide Area Network in 2025 is attributed to the Smart Zambia Institute, described as the public agency in charge of digital transformation.", "as_of": "2025", "date_precision": "year", "system": "Government Wide Area Network (GWAN)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "share:100%",
+      "fact": "The article reports that in 2025 the Smart Zambia Institute announced it had linked the country's 116 local authorities to the Government Wide Area Network, 116 of 116 on the institute's own account as relayed by We Are Tech Africa.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Government Wide Area Network (GWAN)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "The Smart Zambia Institute, the public agency for digital transformation, is reported to have announced in 2025 that it had linked the 116 local authorities to the government's own wide area network.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Government Wide Area Network (GWAN)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The linking of the 116 local authorities to the Government Wide Area Network in 2025 is attributed to the Smart Zambia Institute, described as the public agency in charge of digital transformation.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Government Wide Area Network (GWAN)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "connection", "platform": "", "owner": "Smart Zambia Institute", "tiers": "the 116 local authorities, announced linked in 2025"},
-    {"system": "GovLink", "country_label": "GovLink", "class": "backbone", "platform": "private 4G network", "owner": "Government of Zambia; Smart Zambia Institute", "tiers": "launched 15 July 2026 to connect all public institutions; health sector as pilot, schools, farming communities and other administrations to follow; no local authority named"},
-    {"system": "Starlink kits", "country_label": "", "class": "", "platform": "Starlink", "owner": "Smart Zambia Institute", "tiers": "public structures in underserved areas since 2024; which structures is not stated"}
+    {
+      "system": "Government Wide Area Network (GWAN)",
+      "country_label": "GWAN",
+      "class": "connection",
+      "platform": "",
+      "owner": "Smart Zambia Institute",
+      "tiers": "the 116 local authorities, announced linked in 2025"
+    },
+    {
+      "system": "GovLink",
+      "country_label": "GovLink",
+      "class": "backbone",
+      "platform": "private 4G network",
+      "owner": "Government of Zambia; Smart Zambia Institute",
+      "tiers": "launched 15 July 2026 to connect all public institutions; health sector as pilot, schools, farming communities and other administrations to follow; no local authority named"
+    },
+    {
+      "system": "Starlink kits",
+      "country_label": "",
+      "class": "",
+      "platform": "Starlink",
+      "owner": "Smart Zambia Institute",
+      "tiers": "public structures in underserved areas since 2024; which structures is not stated"
+    }
   ],
   "note": ""
 }

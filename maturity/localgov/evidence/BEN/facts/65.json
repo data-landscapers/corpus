@@ -4,7 +4,7 @@
     {
       "sub_indicator": "connection",
       "aspect": "connected",
-      "value": "connection:personal",
+      "value": "personal",
       "fact": "Fraternité reports that neighbourhood and village chiefs, who sit below the commune and its arrondissements, reach ANIP's platform for the residence-form code through their own mobile phones, with repeated failed attempts in Glo-Djigbé, Bohicon and Cotonou in March 2025; one chief's assistant suggests a terminal for each chief, which they do not have.",
       "as_of": "2025-03",
       "date_precision": "month",

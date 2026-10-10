@@ -1,15 +1,72 @@
 {
   "slug": "2026-04-15-pvi-900-localites-connectivite",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "count:266", "fact": "The Projet Villages Intelligents told ANP that broadband internet connectivity had been extended to 266 communes, 339 health centres and 298 schools; it gives no total of communes and does not say in terms that the commune offices themselves are connected, and gives no date, so the date is the publication date.", "as_of": "2026-04-15", "date_precision": "day", "system": "connectivité haut débit (Projet Villages Intelligents)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "ANP reports, on the project's information, that the state and World Bank Projet Villages Intelligents extended broadband internet connectivity to 266 communes alongside health centres and schools, as public services provision; no date is given, so the date is the publication date.", "as_of": "2026-04-15", "date_precision": "day", "system": "connectivité haut débit (Projet Villages Intelligents)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The Projet Villages Intelligents is implemented by a project management unit under a steering committee chaired by the national agency ANSI, seconded by the ministry of new information technologies and the ministry of economy and finance; stated as at publication.", "as_of": "2026-04-15", "date_precision": "day", "system": "connectivité haut débit (Projet Villages Intelligents)", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:donor", "fact": "The project is financed by the State of Niger and the World Bank/IDA at USD 100 million through IDA credits and grants (6688-NE / D656-NE), took effect in October 2020 for six years and is due to close on 23 October 2026; no domestic budget line for the communes' connectivity is named.", "as_of": "2026-04-15", "date_precision": "day", "system": "connectivité haut débit (Projet Villages Intelligents)", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "count:266",
+      "fact": "The Projet Villages Intelligents told ANP that broadband internet connectivity had been extended to 266 communes, 339 health centres and 298 schools; it gives no total of communes and does not say in terms that the commune offices themselves are connected, and gives no date, so the date is the publication date.",
+      "as_of": "2026-04-15",
+      "date_precision": "day",
+      "system": "connectivité haut débit (Projet Villages Intelligents)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "institutional",
+      "fact": "ANP reports, on the project's information, that the state and World Bank Projet Villages Intelligents extended broadband internet connectivity to 266 communes alongside health centres and schools, as public services provision; no date is given, so the date is the publication date.",
+      "as_of": "2026-04-15",
+      "date_precision": "day",
+      "system": "connectivité haut débit (Projet Villages Intelligents)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Projet Villages Intelligents is implemented by a project management unit under a steering committee chaired by the national agency ANSI, seconded by the ministry of new information technologies and the ministry of economy and finance; stated as at publication.",
+      "as_of": "2026-04-15",
+      "date_precision": "day",
+      "system": "connectivité haut débit (Projet Villages Intelligents)",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The project is financed by the State of Niger and the World Bank/IDA at USD 100 million through IDA credits and grants (6688-NE / D656-NE), took effect in October 2020 for six years and is due to close on 23 October 2026; no domestic budget line for the communes' connectivity is named.",
+      "as_of": "2026-04-15",
+      "date_precision": "day",
+      "system": "connectivité haut débit (Projet Villages Intelligents)",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "connectivité haut débit (Projet Villages Intelligents)", "country_label": "Projet Villages Intelligents pour la Croissance Rurale et l'Inclusion Numérique (PVI)", "class": "connection", "platform": "", "owner": "project management unit under a steering committee chaired by ANSI", "tiers": "266 communes, 339 health centres, 298 schools; more than 900 localities in all eight regions with 3G/4G mobile broadband"},
-    {"system": "Point d'Echange Internet", "country_label": "1er Point d'Echange Internet (IXP)", "class": "backbone", "platform": "", "owner": "PVI with Niger Telecoms", "tiers": "national"},
-    {"system": "Centres Numériques Multiservices", "country_label": "Centres Numériques Multiservices", "class": "public-access", "platform": "", "owner": "PVI", "tiers": "124 centres in all regions since 2022; 26 more planned in 2026 for 150"}
+    {
+      "system": "connectivité haut débit (Projet Villages Intelligents)",
+      "country_label": "Projet Villages Intelligents pour la Croissance Rurale et l'Inclusion Numérique (PVI)",
+      "class": "connection",
+      "platform": "",
+      "owner": "project management unit under a steering committee chaired by ANSI",
+      "tiers": "266 communes, 339 health centres, 298 schools; more than 900 localities in all eight regions with 3G/4G mobile broadband"
+    },
+    {
+      "system": "Point d'Echange Internet",
+      "country_label": "1er Point d'Echange Internet (IXP)",
+      "class": "backbone",
+      "platform": "",
+      "owner": "PVI with Niger Telecoms",
+      "tiers": "national"
+    },
+    {
+      "system": "Centres Numériques Multiservices",
+      "country_label": "Centres Numériques Multiservices",
+      "class": "public-access",
+      "platform": "",
+      "owner": "PVI",
+      "tiers": "124 centres in all regions since 2022; 26 more planned in 2026 for 150"
+    }
   ],
   "note": ""
 }

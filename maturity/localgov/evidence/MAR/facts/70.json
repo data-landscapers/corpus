@@ -1,16 +1,82 @@
 {
   "slug": "2016-01-01-id4d-country-diagnostic-morocco",
   "facts": [
-    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:none", "fact": "The World Bank's ID4D diagnostic states that, with no official statistics available, the majority of the roughly 2,200 civil registry offices (1,503 principal offices attached to commune offices, 1,282 rural and 221 urban, plus about 700 annexes) are believed not to possess connected computer systems; no date is given, so the published year is used.", "as_of": "2016", "date_precision": "year", "system": "connected computer systems of the commune civil registry offices", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "use", "value": "none", "fact": "The World Bank's ID4D diagnostic states that births and deaths are registered by hand in paper ledgers at each of about 2,200 commune civil registry offices, that only aggregate statistics go from each office to the central bureau, and that no central repository exists; no date is given, so the published year is used.", "as_of": "2016", "date_precision": "year", "system": "connected computer systems of the commune civil registry offices", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "Asked what percentage of the roughly 2,200 civil registry offices have computers, the World Bank's ID4D diagnostic answers 'not known' and says no official statistics are available, adding only that the majority have no connected information systems; no date is given, so the published year is used.", "as_of": "2016", "date_precision": "year", "system": "connected computer systems of the commune civil registry offices", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The World Bank's ID4D diagnostic states that responsibility for equipping the civil registry offices lies with the municipal councils of the communes, so that offices range from well-equipped and modern to very primitive; no date is given, so the published year is used.", "as_of": "2016", "date_precision": "year", "system": "connected computer systems of the commune civil registry offices", "class": "connection"},
-    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:domestic", "fact": "The World Bank's ID4D diagnostic states that the municipal councils equip the civil registry offices from their own budgets, deciding their priorities at their discretion; no date is given, so the published year is used.", "as_of": "2016", "date_precision": "year", "system": "connected computer systems of the commune civil registry offices", "class": "connection"}
+    {
+      "sub_indicator": "connection",
+      "aspect": "connected",
+      "value": "none",
+      "fact": "The World Bank's ID4D diagnostic states that, with no official statistics available, the majority of the roughly 2,200 civil registry offices (1,503 principal offices attached to commune offices, 1,282 rural and 221 urban, plus about 700 annexes) are believed not to possess connected computer systems; no date is given, so the published year is used.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "connected computer systems of the commune civil registry offices",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "use",
+      "value": "none",
+      "fact": "The World Bank's ID4D diagnostic states that births and deaths are registered by hand in paper ledgers at each of about 2,200 commune civil registry offices, that only aggregate statistics go from each office to the central bureau, and that no central repository exists; no date is given, so the published year is used.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "connected computer systems of the commune civil registry offices",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "authorities",
+      "value": "not-published",
+      "fact": "Asked what percentage of the roughly 2,200 civil registry offices have computers, the World Bank's ID4D diagnostic answers 'not known' and says no official statistics are available, adding only that the majority have no connected information systems; no date is given, so the published year is used.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "connected computer systems of the commune civil registry offices",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank's ID4D diagnostic states that responsibility for equipping the civil registry offices lies with the municipal councils of the communes, so that offices range from well-equipped and modern to very primitive; no date is given, so the published year is used.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "connected computer systems of the commune civil registry offices",
+      "class": "connection"
+    },
+    {
+      "sub_indicator": "connection",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The World Bank's ID4D diagnostic states that the municipal councils equip the civil registry offices from their own budgets, deciding their priorities at their discretion; no date is given, so the published year is used.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "connected computer systems of the commune civil registry offices",
+      "class": "connection"
+    }
   ],
   "systems": [
-    {"system": "Connected computer systems of the commune civil registry offices", "country_label": "bureaux d'état civil", "class": "connection", "platform": "", "owner": "municipal councils equip the offices; the DGCL (Interior Ministry) coordinates civil registration", "tiers": "about 2,200 offices: 1,503 principal offices at commune offices and about 700 annexes; the majority believed unconnected"},
-    {"system": "watiqa.ma", "country_label": "Watiqa", "class": "web", "platform": "", "owner": "the government", "tiers": "national online service, since 2012, for citizens to order copies of their birth registration, delivered by courier"},
-    {"system": "RAMED database", "country_label": "Régime d'Assistance Médicale (RAMED)", "class": "central", "platform": "", "owner": "Interior Ministry manages the identity module; ANAM issues the cards", "tiers": "eligibility decided by a commission in each local administrative district"}
+    {
+      "system": "Connected computer systems of the commune civil registry offices",
+      "country_label": "bureaux d'état civil",
+      "class": "connection",
+      "platform": "",
+      "owner": "municipal councils equip the offices; the DGCL (Interior Ministry) coordinates civil registration",
+      "tiers": "about 2,200 offices: 1,503 principal offices at commune offices and about 700 annexes; the majority believed unconnected"
+    },
+    {
+      "system": "watiqa.ma",
+      "country_label": "Watiqa",
+      "class": "web",
+      "platform": "",
+      "owner": "the government",
+      "tiers": "national online service, since 2012, for citizens to order copies of their birth registration, delivered by courier"
+    },
+    {
+      "system": "RAMED database",
+      "country_label": "Régime d'Assistance Médicale (RAMED)",
+      "class": "central",
+      "platform": "",
+      "owner": "Interior Ministry manages the identity module; ANAM issues the cards",
+      "tiers": "eligibility decided by a commission in each local administrative district"
+    }
   ],
   "note": ""
 }

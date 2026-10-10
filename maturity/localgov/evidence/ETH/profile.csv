@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,connection,governance,qualifier,owner:ministry;finance:donor,2026-07,ETH-002;ETH-018,ETH-008=owner:ministry;ETH-017=owner:ministry,not stated: plan
+ETH,connection,use,coverage,systems,2026-07,ETH-001;ETH-004;ETH-006;ETH-009;ETH-011;ETH-012;ETH-015,ETH-010=internet;ETH-014=none,
+ETH,connection,connected,coverage,institutional,2025-12-22,ETH-003,,
+ETH,connection,last12,qualifier,advancing,2025-12-05,ETH-007,,
+ETH,connection,authorities,coverage,count:444,2025-10,ETH-016,ETH-005=pilot;ETH-013=count:592,
