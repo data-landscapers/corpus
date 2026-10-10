@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.unicef.org/crvs/eritrea/,unfetchable,HTTP 403; no usable Wayback capture | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture,,0,,
+2,https://cdn.who.int/media/docs/default-source/documents/ddi/score/country-profiles/who_score_eri_en.pdf?sfvrsn=3921f4d6_10,fetched,,scripts/.workroot/study/registry/cache/ERI/2.txt,4466,pdf,
+3,https://fln.dk/media/ow3jujfq/erit402.pdf,fetched,,scripts/.workroot/study/registry/cache/ERI/3.txt,3499,pdf,
+4,https://www.afro.who.int/sites/default/files/2022-07/Who%20Eritrea%20Bienniun%20Report%20WHO%202020%20-%202021_0.pdf,fetched,,scripts/.workroot/study/registry/cache/ERI/4.txt,26847,pdf,
+5,https://open.unicef.org/sites/transparency/files/documents/1420A007703001000.pdf,unfetchable,HTTP 403; no usable Wayback capture | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture,,0,,
+6,https://eritrea.unfpa.org/sites/default/files/pub-pdf/2025-11/Case%20Study%20Data%20for%20Development.pdf,held,held as raw/2025/2025-09-01-unfpa-eritrea-ephs-2025-data-for-development.md,,0,,
+7,https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey,held,held as raw/2026/2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP).md,,0,,

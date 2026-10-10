@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.ics.gov.sc/about/department/civil-status-division,held,held as raw/2026/2026-01-01-ics-civil-status-division.md,,0,,
+2,https://www.health.gov.sc/wp-content/uploads/Annual-Vital-Statistics-Report-2024.pdf,fetched,,scripts/.workroot/study/registry/cache/SYC/2.txt,8840,pdf,
+3,https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services,held,held as raw/2024/2024-09-18 Launch of New Digital Solutions for Public Services.md,,0,,
+4,https://www.ics.gov.sc/faq/civil-services/civil-status,fetched,,scripts/.workroot/study/registry/cache/SYC/4.txt,1075,html,Civil Status
+5,https://www.ics.gov.sc/civil-status/birth-registration,held,held as raw/2024/2024-01-01-birth-registration.md,,0,,
+6,https://www.ics.gov.sc/civil-status/death-registration,fetched,,scripts/.workroot/study/registry/cache/SYC/6.txt,320,html,Death Registration
+7,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/seychelles-population-and-vital-statistics-2025.pdf,fetched,"second pass, by certificate unverified",scripts/.workroot/study/registry/cache/SYC/7.txt,7951,pdf,

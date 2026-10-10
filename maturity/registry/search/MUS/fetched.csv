@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/06/Annex-Budget-Speech-2026-2027.pdf,fetched,,scripts/.workroot/study/registry/cache/MUS/1.txt,17980,pdf,
+2,https://csd.govmu.org/Documents/Communique%20SPO.pdf,unfetchable,HTTP 404; no usable Wayback capture | second pass: second client: HTTP 404; certificate unverified: HTTP 404; Wayback: no usable capture,,0,,
+3,https://csd.govmu.org/Documents/Communique/Communique%20Rose%20Belle.pdf,fetched,,scripts/.workroot/study/registry/cache/MUS/3.txt,132,pdf,
+4,https://csd.govmu.org/Documents/Communique%20.pdf,fetched,,scripts/.workroot/study/registry/cache/MUS/4.txt,99,pdf,
+5,https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=QWN0IDIzIG9mIDE5ODE%3D&doctitle=&doctype=act,fetched,,scripts/.workroot/study/registry/cache/MUS/5.txt,16275,pdf,CIVIL STATUS ACT (Version 8)
+6,https://statsmauritius.govmu.org/Pages/Statistics/ESI/Population/Pop_Vital_Yr25.aspx,fetched,,scripts/.workroot/study/registry/cache/MUS/6.txt,327,html,"// <![CDATA[ _spBodyOnLoadFunctionNames.push(""setupPageDescriptionCallout""); // ]]>"
+7,https://publicnotice.govmu.org/publicnotice/?p=31044,fetched,,scripts/.workroot/study/registry/cache/MUS/7.txt,131,html,Closure of Civil Status Offices on Monday 29 December 2025

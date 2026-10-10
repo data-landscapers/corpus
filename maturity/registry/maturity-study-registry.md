@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-registry.md — the third maturity study: rural registry offices, as civil registration
 last_reviewed: 2026-10-10
-status: Bill's five rulings of 2026-10-10; ladder tested; Phase 1 search under way
+status: Bill's five rulings of 2026-10-10; Phase 1 closed, waiting on `notes-for-osint` 221
 ---
 
 # Maturity study: registry — civil registration
@@ -101,8 +101,8 @@ The frame's anchor: the AU Digital Transformation Strategy's 99.9 per cent legal
 
 - [x] **R1. Bill's rulings**: five, 2026-10-10.
 - [x] **R2. Review all 54 countries**, method §4.
-- [x] **R3. Test and fix the ladder**; the norm's texts read.
-- [ ] **R4. Search, select and hand over**, method §5.
+- [x] **R3. Test and fix the ladder.**
+- [x] **R4. Search and hand over**, method §5: 70 documents, `notes-for-osint` 221.
 - [ ] **R5. Phase 2**, on Bill's trigger, method §6 and §7.
 - [ ] **R6. Write, render and lint**, method §8.
 - [ ] **R7. Report to Bill.**

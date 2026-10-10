@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://afro.who.int/pt/countries/cabo-verde/news/parceria-oms-e-ministerio-da-saude-impulsiona-modernizacao-do-sistema-de-registo-de-obitos,held,held as raw/2026/2026-07-01-oms-cabo-verde-modernizacao-sistema-registo-de-obitos.md,,0,,
+2,https://documents1.worldbank.org/curated/en/099040225075533741/pdf/P171099-0d80877d-4859-4991-a759-76e718029463.pdf,fetched,,scripts/.workroot/study/registry/cache/CPV/2.txt,4794,pdf,World Bank Document
+3,https://www.ine.cv/divulgacao-detalhe/notas-de-imprensa/4579/estatisticas-vitais-nascimentos-obitos-e-casamentos-ano-2024,unfetchable,empty extraction; no usable Wayback capture | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,,0,,
+4,https://www.inforpress.cv/en/minister-of-justice-highlights-advances-and-challenges-in-modernizing-the-judicial-system-in-cabo-verde,fetched,,scripts/.workroot/study/registry/cache/CPV/4.txt,185,html,Inforpress - Society
+5,https://justica.gov.cv/dgrni,fetched,,scripts/.workroot/study/registry/cache/CPV/5.txt,760,html,"Direção Geral dos Registos, Notariado e Identificação - Ministério-Justiça - Portal Justiça"
+6,https://sniac.cv/infraestrutura/,fetched,,scripts/.workroot/study/registry/cache/CPV/6.txt,427,html,INFRAESTRUTURA
+7,https://data.unicef.org/crvs/cabo-verde/,fetched,,scripts/.workroot/study/registry/cache/CPV/7.txt,2346,html,"CRVS - Birth, Marriage and Death Registration in Cabo Verde - UNICEF DATA"

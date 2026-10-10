@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "civil",
+ "aspect": "governance",
+ "fact": "ANIP's procurement notice for software and IT accessories (tablet chargers, maintenance and network kits), following its procurement plan published on 5 March 2025, states that the agency obtained funds from the Budget National under its budget to finance its programme of administration and management of the Registre national des personnes physiques; no amount is given.",
+ "title": "Acquisition de logiciels et accessoires informatiques (chargeurs tablette, valise de maintenance informatique, kit d'outils réseau informatique) au profit de l'ANIP",
+ "publisher": "Agence Nationale d'Identification des Personnes",
+ "published": "2025-08-08",
+ "date_source": "proxy",
+ "why_not": "Parent, 2026-10-10: states the same fact as lead 3, ANIP's later notice (Budget National funds); one such document is enough."
+}
