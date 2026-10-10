@@ -190,6 +190,14 @@ table = "Head\n\n" + "\n".join(f"| row {i} | {'HMIS' if i == 700 else 'x'} |" fo
 check("a block with no blank line is cut by line, not kept whole",
       ("| row 700 | HMIS |" in select.passages(table, rx), "| row 400 |" in select.passages(table, rx)),
       (True, False))
+check("a document carrying the terms three times or fewer is read as passages",
+      [select.around_terms({"words": 1500, "hits": h}) for h in (1, 3, 4)], [True, True, False])
+check("unless it is short, or no term reaches it and the report vouched for it",
+      [select.around_terms({"words": 900, "hits": 1}), select.around_terms({"words": 5000, "hits": 0})],
+      [False, False])
+check("and a returned document keeps the older rule",
+      [select.around_terms({"words": 1500, "hits": 1}, weak=False),
+       select.around_terms({"words": 9000, "hits": 2}, weak=False)], [False, True])
 
 tmp = Path(tempfile.mkdtemp(prefix="study-test-"))
 try:

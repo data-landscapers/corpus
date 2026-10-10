@@ -44,6 +44,13 @@ so in `read`. So does a document past `SPARSE_WORDS` with no more than `SPARSE_H
 risk is a fact stated away from any term, taken knowingly. Passages are
 source text, so they are written under the gitignored workroot and never committed.
 
+**So is any document that carries the terms no more than `WEAK_HITS` times** *(Bill,
+2026-10-10)*, once it is past `WEAK_WORDS`, below which the passages are the document. Across
+the registry, police and localgov studies these were two listings in three and 6.6 million
+of the 25 million words read, and one in 28 gave a fact. A document no term reaches is
+listed because a ledger row or the status report read it as being on the subject, and is
+still read whole. `--add` keeps the older rule: method §7 reads what ingest returned whole.
+
 **`--add` is the Phase 2 re-read (method §7) and renumbers nothing.** It appends to each
 existing list the documents `search/returned.csv` marks admitted, as `why = returned`, and
 the held excerpts of `search/reacquire.csv` that are no longer excerpts, as
@@ -78,6 +85,8 @@ SUMMARY_FIELDS = ["iso3", "documents", "passages", "words", "status_sections", "
 PASSAGE_WORDS = 20_000     # a document longer than this is read as passages
 SPARSE_WORDS = 8_000       # ...and so is one past this that carries a term only in passing
 SPARSE_HITS = 2
+WEAK_HITS = 3              # a document carrying the terms no more often than this...
+WEAK_WORDS = 1_000         # ...is read as passages too, once it is longer than this
 SLICE_WORDS = 70_000       # what one drafter reads
 OPENING_WORDS = 300        # what of its opening is always kept, for what the document is
 LONG_BLOCK = 400           # a "paragraph" past this is a table or a wrapped page: cut by line
@@ -108,6 +117,15 @@ def scan(rows: list[dict], read, terms: re.Pattern) -> dict[str, dict]:
             "folded": folded if found else "",
         }
     return out
+
+
+def around_terms(r: dict, weak: bool = True) -> bool:
+    """Whether a listed document is read as its passages rather than whole.
+
+    `weak` is off for `--add`, whose documents a search went looking for."""
+    words, hits = int(r["words"]), int(r["hits"])
+    return (words > PASSAGE_WORDS or (words > SPARSE_WORDS and hits <= SPARSE_HITS)
+            or (weak and words > WEAK_WORDS and 1 <= hits <= WEAK_HITS))
 
 
 def passages(text: str, terms: re.Pattern) -> str:
@@ -372,8 +390,7 @@ def main(argv=None) -> int:
             existing = study_lib.read_csv(path)
             rows = added(iso, existing, docs, returned, reacquired, complete, set(all_countries))
             for r in rows:
-                if int(r["words"]) > PASSAGE_WORDS or (int(r["words"]) > SPARSE_WORDS
-                                                        and int(r["hits"]) <= SPARSE_HITS):
+                if around_terms(r, weak=False):
                     shorten(r, iso)
             renumber(existing, rows)
             total += len(rows)
@@ -399,8 +416,7 @@ def main(argv=None) -> int:
             rows = [r for r in select(iso, all_countries[iso], docs, study["subjects"], routes)[0]
                     if r["slug"] not in listed]
             for r in rows:
-                if int(r["words"]) > PASSAGE_WORDS or (int(r["words"]) > SPARSE_WORDS
-                                                        and int(r["hits"]) <= SPARSE_HITS):
+                if around_terms(r):
                     shorten(r, iso)
             renumber(existing, rows)
             total += len(rows)
@@ -421,8 +437,7 @@ def main(argv=None) -> int:
         routes, status_rows = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url)
         rows, dropped = select(iso, all_countries[iso], docs, study["subjects"], routes)
         for r in rows:
-            if int(r["words"]) > PASSAGE_WORDS or (int(r["words"]) > SPARSE_WORDS
-                                                    and int(r["hits"]) <= SPARSE_HITS):
+            if around_terms(r):
                 shorten(r, iso)
         summary.append({"iso3": iso, "documents": len(rows),
                         "passages": sum(1 for r in rows if r["read"] == "passages"),

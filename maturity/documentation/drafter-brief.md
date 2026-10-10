@@ -20,7 +20,7 @@ A study id `{id}`, a country `{ISO3}` and a slice number, under `C:\CORPUS`.
 
 ## Reading
 
-**Read every document in your slice, in order of `n`, whole.** Where `read` is `whole`, the file is `C:\OSINT\` followed by `path`. Where `read` is `passages`, the file is `C:\CORPUS\` followed by `path`, and holds the passages of a long document; read all of it. A file longer than one read takes several: continue until its end.
+**Read every document in your slice, in order of `n`, whole.** Where `read` is `whole`, the file is `C:\OSINT\` followed by `path`. Where `read` is `passages`, the file is `C:\CORPUS\` followed by `path`, and holds a document's passages; read all of it. A file longer than one read takes several: continue until its end.
 
 **`C:\OSINT` is read-only. Never write, move or delete anything there.**
 

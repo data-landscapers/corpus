@@ -44,8 +44,6 @@ Output: `systems.csv`, one row per named system per country — `iso3, system, c
 
 ## 3. How a stage is defined
 
-The rules a study's ladder is written to:
-
 1. **A rung is a coverage test.** The existence of a named system, a strategy or a launch places nothing above Nascent.
 2. **Each rung states a value for every coverage aspect**, as a table of rung by aspect, and is met only when every aspect meets it. A drafter decides it from a dated source without interpretation.
 3. **Between two rungs, take the lower** and name the missing fact in the short summary.
@@ -58,15 +56,15 @@ The rules a study's ladder is written to:
 
 ## 4. Step 3: review what is held
 
-**The reading list is selected by a script and read by a drafter: whole, or a long document's passages around the terms** *(Bill)*. `scripts/study-select.py {id}` writes `maturity/{id}/evidence/{ISO3}/readlist.csv` from:
+**A script selects the reading list and a drafter reads it: whole, or as passages where a document is long or carries the terms three times or fewer** *(Bill, 2026-10-10)*. `scripts/study-select.py {id}` writes `maturity/{id}/evidence/{ISO3}/readlist.csv` from:
 
 - the status report's sub-sections for the study's subjects;
 - `ledger.csv` rows and `considered.txt` entries on those subjects;
 - every `raw/` document whose `places:` holds the country and whose `topics:` holds a study subject, or whose title or body matches the study's term list;
 - regional and continental documents that name the country.
 
-**Drafters work to `drafter-brief.md`, read every listed document, not its ledger line**, and write the facts `study-profile.py --merge` folds into `evidence.csv`, one row per stated fact: `row_id, iso3, sub_indicator, aspect, value, fact, as_of, date_precision, system, class, source_slug, url`. A row holds only what its own source states.
-`scripts/study-profile.py` then writes `profile.csv`: per sub-indicator and aspect, the best-evidenced value, its sources and a `gap` cell saying what is not established. Where sources disagree the newest value stands and both are kept.
+**Drafters work to `drafter-brief.md`, on Sonnet** *(Bill, 2026-10-10)*, **read every listed document, not its ledger line**, and write the facts `study-profile.py --merge` folds into `evidence.csv`, one row per stated fact: `row_id, iso3, sub_indicator, aspect, value, fact, as_of, date_precision, system, class, source_slug, url`. A row holds only what its own source states.
+`scripts/study-profile.py` then writes `profile.csv`: per sub-indicator and aspect, the best-evidenced value, its sources and a `gap` cell. Where sources disagree the newest value stands and both are kept.
 
 **The parent verifies files, not tallies**: slugs resolve in `raw/` and sampled facts match the body.
 
@@ -76,7 +74,7 @@ The rules a study's ladder is written to:
 
 **One Exa brief per country per sub-indicator that has a gap.** It names the gaps, gives the held facts as context, and asks in the country's working language for the study's source types, ranked.
 
-**Searchers work to `searcher-brief.md`; `scripts/study-stage.py` fetches and stages.**
+**Searchers work to `searcher-brief.md`, on Sonnet; `scripts/study-stage.py` fetches and stages.**
 
 - **Relevance selects; there is no numeric cap** *(Bill)*. A fetched document is kept when its body states a dated fact, on an aspect with a gap, that nothing held states; one such fact is enough. Anything else goes to the unselected register.
 - **Delivery is a handover in `prepared\`, not a `new-queue\` batch** *(Bill)*: maturity evidence is not general ingest, and OSINT is told so. Candidates are written to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, flat with no country folders, each with `sweep_batch: maturity-study-{id}-{ISO3}-YYYY-MM-DD`, `places: [{ISO3}]` and the study's subject first in `topics:`.
@@ -98,7 +96,7 @@ Before the note, `python scripts/lint-staged-queue.py {folder}` passes; then the
 1. **Re-read**: admitted documents are read whole into `evidence.csv` and the profiles refreshed.
 2. **Fix the as-at**: the last day of the month before step 5 opens.
 3. **Stage from the ladder**: the coverage aspects pick the rung, then the cap rule and the flags; `stage_sources` names the `row_id`s that set it, and `cap` the rung a capped cell had reached.
-4. **Check that two drafters agree.** A second drafter restages 20 cells, drawn by `study-profile.py --draw`, blind from `evidence.csv`. Below 16 in agreement, the rung that split them is rewritten and every country restaged.
+4. **Check that two drafters agree.** A second drafter, on Opus, restages 20 cells, drawn by `study-profile.py --draw`, blind from `evidence.csv`. Below 16 in agreement, the rung that split them is rewritten and every country restaged.
 
 ## 8. Step 5: write
 
