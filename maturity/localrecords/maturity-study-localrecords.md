@@ -92,7 +92,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 
 ## 6. What the review reads and the search asks for
 
-- **Subjects and term list**: in `study.json`. **The terms are revenue terms, not the localgov study's names for a local government**, which listed 4,400 documents.
+- **Subjects and term list**: in `study.json`. **The terms are revenue terms**, not the localgov study's names for a local government.
 - **Source types for the briefs**, ranked: audit reports on local governments; annual reports of the ministry of local government and of local finance bodies; budget reports and parliamentary answers; donor project documents and evaluations on local revenue; local government association surveys; dated news, for aspect 4.
 
 ## 7. Tasks, in order
@@ -105,14 +105,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 - [x] **R6. Write, render and lint**: clean; on the soft-launch map.
 - [x] **R7. Report to Bill.** Awaiting acceptance.
 
-**The rulings of R1**, CC's proposals, run unamended:
-
-1. The revenue record only; documents, accounts and permits are noted.
-2. Only this row is redrawn.
-3. Receipts with no register of payers stop at stage 3.
-4. A private collector's system counts, capped at 3.
-5. Revenue the centre collects is noted and flagged, and places nothing.
-6. Stage 5 needs a shared system.
+**The rulings of R1**, CC's proposals, run unamended: the revenue record only; only this row redrawn; receipts with no register stop at stage 3; a private collector's system counts, capped at 3; revenue the centre collects is flagged and places nothing; stage 5 needs a shared system.
 
 ## Boundary
 
