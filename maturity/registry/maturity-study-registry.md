@@ -8,7 +8,7 @@ status: Bill's five rulings of 2026-10-10; Phase 1 closed, waiting on `notes-for
 
 # Maturity study: registry — civil registration
 
-*(Commissioned by Bill on 2026-10-10, under `maturity/documentation/maturity-study-method.md`. Lines marked (Bill) are his. Triggers: "**run maturity study registry**", then "**… phase 2**".)*
+*(Commissioned by Bill on 2026-10-10, under `maturity/documentation/maturity-study-method.md`. Lines marked (Bill) are his. Trigger: "**run maturity study registry**".)*
 
 ## 1. The question, and the rows it redraws
 
@@ -92,7 +92,7 @@ The frame's anchor: the AU Digital Transformation Strategy's 99.9 per cent legal
 
 **Neither measures what the sub-indicator measures**: both count people and events registered, which a paper office meets. **One programme text does**: the APAI-CRVS costed plan for 2017 to 2021 counts *countries with electronic data capture on the local level*, 5 in 2016 and 40 by 2021. It sets no share of offices, so stage 3 meets it. The ladder borrows nothing; the 90 per cent line is the health study's. *(Read 2026-10-10.)*
 
-## 6. What Phase 1 reads and searches for
+## 6. What the review reads and the search asks for
 
 - **Subjects and term list**: in `study.json`.
 - **Source types for the briefs**, ranked: the registrar's annual reports, manuals and circulars; vital statistics reports; CRVS strategies, assessments and costed plans; World Bank, UNICEF, UNDP and UNFPA appraisal and implementation reports; UNECA and APAI-CRVS country papers; dated news of a rollout, an outage or a withdrawal, for aspect 4.
@@ -103,7 +103,7 @@ The frame's anchor: the AU Digital Transformation Strategy's 99.9 per cent legal
 - [x] **R2. Review all 54 countries**, method §4.
 - [x] **R3. Test and fix the ladder.**
 - [x] **R4. Search and hand over**, method §5: 70 documents, `notes-for-osint` 221.
-- [ ] **R5. Phase 2**, on Bill's trigger, method §6 and §7.
+- [ ] **R5. Re-read and stage** once note 221 closes, method §6 and §7.
 - [ ] **R6. Write, render and lint**, method §8.
 - [ ] **R7. Report to Bill.**
 

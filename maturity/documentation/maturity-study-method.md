@@ -1,18 +1,26 @@
 ---
 type: procedure
 reader: cc
-title: maturity-study-method.md — how one indicator is studied, staged and written up, in two phases around OSINT's ingest
-last_reviewed: 2026-10-06
-status: proposed by Cowork with Bill's rulings of 2026-10-06, for CC's operational review; first used by maturity/health/maturity-study-health.md; not yet run
+title: maturity-study-method.md — how one indicator is studied, staged and written up, in five steps around OSINT's ingest
+last_reviewed: 2026-10-10
+status: in use; Bill's rulings of 2026-10-06 and 2026-10-10
 ---
 
 # A maturity study: one indicator, worked whole
 
-*(Bill, 2026-10-06: the assessment is rebuilt topic by topic, indicator by indicator. The scale, the null and the as-at rule of `documentation/archived/maturity-assessment.md` §3 and §7 still hold.)*
+*(Bill, 2026-10-06. The scale, the null and the as-at rule of `documentation/archived/maturity-assessment.md` §3 and §7 still hold.)*
 
 ## 0. What a study is
 
-**One indicator, all 54 countries, two phases with OSINT's ingest between them.** Phase 1 defines, reviews, searches and hands over. Phase 2 re-reads, stages and writes: a stage, a short summary and a long summary per country per sub-indicator. Triggers: "**run maturity study {id}**" and "**run maturity study {id} phase 2**".
+**One indicator, all 54 countries, in five steps** *(Bill, 2026-10-10)*:
+
+1. **Corpus prepares the criteria**: the study file (§1 to §3, §9), and stops.
+2. **Bill confirms.**
+3. **Corpus works to the OSINT note without stopping**: review, ladder test, search, handover (§4, §5).
+4. **OSINT ingests without stopping** and closes the note.
+5. **Corpus completes without stopping**: a stage, a short summary and a long summary per country per sub-indicator (§6 to §8).
+
+**Bill is asked once, at step 2.** "**prepare maturity study {id}**" starts step 1 and "**run maturity study {id}**" step 3. Step 5 starts at the first cycle to find the note closed (`CYCLE.md` step 4), or on the same words by hand. A later doubt is settled conservatively, written in the study file and reported at the end.
 
 **Where things live** *(Bill)*:
 
@@ -46,9 +54,9 @@ The rules a study's ladder is written to:
 6. **A threshold is a share of a stated denominator.** A count without a denominator is a floor and places by the lower rung.
 7. **A qualifier carries at most one cap rule and a closed list of flags.**
 8. **A coverage fact carries its year**; one older than three years at the as-at still places the country and prints its year in the short summary.
-9. **The ladder is drafted before the review, tested on the review's evidence and fixed before Phase 2.** A rung nothing reaches, or one drafters read two ways, is rewritten then; a later change restages every country.
+9. **The ladder is confirmed at step 2, tested on the review's evidence and fixed before the search.** A rung nothing reaches, or one drafters read two ways, is rewritten then and the study file says so; a later change restages every country.
 
-## 4. Phase 1: review what is held
+## 4. Step 3: review what is held
 
 **The reading list is selected by a script and read by a drafter: whole, or a long document's passages around the terms** *(Bill)*. `scripts/study-select.py {id}` writes `maturity/{id}/evidence/{ISO3}/readlist.csv` from:
 
@@ -62,39 +70,37 @@ The rules a study's ladder is written to:
 
 **The parent verifies files, not tallies**: slugs resolve in `raw/` and sampled facts match the body.
 
-## 5. Phase 1: search for what is missing
+## 5. Step 3: search for what is missing
 
 **A gap is a coverage aspect with no dated fact inside three years, or a qualifier aspect with nothing in its window.**
 
 **One Exa brief per country per sub-indicator that has a gap.** It names the gaps, gives the held facts as context, and asks in the country's working language for the study's source types, ranked.
 
-**Fetch, capture, dedup, frontmatter and delegation are PROGRESS-FILLER's** (`documentation/archived/PROGRESS-FILLER.md` §0 and §3 to §6). Its cap (§4a) and its folders (§5) are replaced:
+**Searchers work to `searcher-brief.md`; `scripts/study-stage.py` fetches and stages.**
 
 - **Relevance selects; there is no numeric cap** *(Bill)*. A fetched document is kept when its body states a dated fact, on an aspect with a gap, that nothing held states; one such fact is enough. Anything else goes to the unselected register.
 - **Delivery is a handover in `prepared\`, not a `new-queue\` batch** *(Bill)*: maturity evidence is not general ingest, and OSINT is told so. Candidates are written to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, flat with no country folders, each with `sweep_batch: maturity-study-{id}-{ISO3}-YYYY-MM-DD`, `places: [{ISO3}]` and the study's subject first in `topics:`.
-- **OSINT's cycle pulls the folder once it carries `READY`, written last** (`notes-for-corpus` 78); file names are unique against `raw/`. One `[ACT]` note in `notes-for-osint.md`, titled *Maturity study {id}: evidence to ingest*, with `Affects: outputs/maturity/{id}/`. The folder's `BRIEF.md` opens by saying it is evidence for maturity study {id} and not general ingest, then gives the count by country, the selection rule, the lane asked for, the lint result and `Closed by: notes-for-osint NNN`.
+- **OSINT's cycle pulls the folder once it carries `READY`, written last**; file names are unique against `raw/`. One `[ACT]` note in `notes-for-osint.md`, titled *Maturity study {id}: evidence to ingest*, with `Affects: outputs/maturity/{id}/`. `study-stage.py ready` writes the folder's `BRIEF.md`.
 - **Records in `maturity/{id}/search/`**: `searched.csv` by country and sub-indicator, `staged.csv` by file handed over, and `unselected.csv`. Candidate bodies are never committed in Corpus.
 
 Before the note is written, `python scripts/lint-staged-queue.py` passes over the folder; then the share is committed and pushed.
 
-**Maturity batches take OSINT's backfill lane**: `maturity-study-` is among the prefixes its `scripts/ingest-lane.py` reads.
+**A found document reaches the study only by returning through ingest** *(Bill)*; delivery is not admission.
 
-**Corpus runs the searches and never writes to `raw/`** *(Bill)*. A found document reaches the study only by returning through ingest; delivery is not admission.
+**Step 3 ends** with a commit and a log line.
 
-**Phase 1 ends** with a commit, a log line and the counts for Bill.
+## 6. Step 4: OSINT's ingest
 
-## 6. Between the phases
+**Step 5 waits until the note has moved to `notes-for-osint-resolved.md`** and the mirror's `cycle-manifest.json` is later than the move. `scripts/study-returned.py {id}` then checks every row of `staged.csv` against the mirror's `lookups/raw-url-index.csv` and `rejected-urls.csv`. A document not admitted is not held, and its gap stands. The spent handover is deleted in the same commit.
 
-**Phase 2 waits until the note has moved to `notes-for-osint-resolved.md`** and the mirror's `cycle-manifest.json` is later than the move. `scripts/study-returned.py {id}` then checks every row of `staged.csv` against the mirror's `lookups/raw-url-index.csv` and `rejected-urls.csv`. A document not admitted is not held, and its gap stands. The spent handover is deleted in the same commit.
-
-## 7. Phase 2: stage
+## 7. Step 5: stage
 
 1. **Re-read**: admitted documents are read whole into `evidence.csv` and the profiles refreshed.
-2. **Fix the as-at**: the last day of the month before Phase 2 opens.
+2. **Fix the as-at**: the last day of the month before step 5 opens.
 3. **Stage from the ladder**: the coverage aspects pick the rung, then the cap rule and the flags; `stage_sources` names the `row_id`s that set it, and `cap` the rung a capped cell had reached.
 4. **Check that two drafters agree.** A second drafter restages 20 cells, drawn by `study-profile.py --draw`, blind from `evidence.csv`. Below 16 in agreement, the rung that split them is rewritten and every country restaged.
 
-## 8. Phase 2: write
+## 8. Step 5: write
 
 **Short summary: one plain sentence, 25 words at most, no link** *(Bill, 2026-10-09)*: what happens in the country, with its year; `writer-brief.md` holds the wording.
 
