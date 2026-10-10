@@ -12,9 +12,9 @@ status: CC's proposal, run unamended on Bill's word of 2026-10-10; staged, writt
 
 ## 1. The question, and the row it redraws
 
-**Does the local government keep its own revenue record digitally: who owes it, and what was paid?** `digital.localgov--digitalisation-of-local-government-records` has no settled subject. Its 40 staged cells hold civil registration, revenue software, treasury platforms, document systems, payroll checks and one city's scanning project as one thing; 21 sit at stage 3 and 19 at stage 2.
+**Does the local government keep its own revenue record digitally: who owes it, and what was paid?** `digital.localgov--digitalisation-of-local-government-records` has no settled subject. Its 40 staged cells hold civil registration, revenue software, treasury platforms, document systems and payroll checks as one thing.
 
-**Why revenue.** Of the record types the localgov study logged, it is the one a local government makes itself and that sources report by local government: 100 named systems in 34 countries. Civil registration is the registry study's. Land is `dpi.registry--land-register`. Accounts and payroll run in the treasury's system. Document and archive systems are named in 27 countries and described in few.
+**Why revenue.** Of the record types the localgov study logged, it is the one a local government makes itself and that sources report by local government: 100 named systems in 34 countries. Civil registration is the registry study's and land is `dpi.registry--land-register`; accounts run in the treasury's system; document systems are named in 27 countries and described in few.
 
 **One sub-indicator replaces the row**:
 
@@ -78,9 +78,9 @@ The id enters `lookups/indicators.csv` at acceptance. `dpi.pay--revenue-collecti
 
 **The localgov study's fixes hold** (its §4): a share *equipped*, *trained* or *covered* is `equipped` and places at stage 3 only where the system is live; a count of sites is a floor without its total; a system announced is preparation; a law places nothing.
 
-**Receipts alone stop at stage 3.** A local government that issues electronic receipts and holds no register of payers cannot say who has not paid.
+**Receipts alone stop at stage 3**: without a register of payers a local government cannot say who has not paid.
 
-**Fixed at R3** (`ladder-test.csv`, `corrections.csv`): stages 2 and 3 are reached; 1, 4 and 5 by nobody before the search. A system in use in a counted local government, with what it records not stated, is read as `receipts`. Staff trained on a system, or a system made available, is `equipped`. Paper in some local governments does not unsay a count of others recording.
+**Fixed at R3** (`ladder-test.csv`, `corrections.csv`): A system in use in a counted local government, with what it records not stated, is read as `receipts`. Staff trained on a system, or a system made available, is `equipped`. Paper in some local governments does not unsay a count of others recording.
 
 **Fixed at R5.** Where the record is held, left unstated, does not keep a country from stage 3 where a system is in use outside the capital. *Centrally collected* is flagged only where a source says a central body collects a local revenue; a national tax system alone is not that.
 
