@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-03-burkina-faso-600000-criminal-records-online-rural-gap",
+  "facts": [],
+  "systems": [
+    {"system": "Online criminal-record certificate platform", "country_label": "criminal record certificates online", "class": "public", "platform": "", "owner": "Ministry of Justice", "tiers": "online; more than 600,000 certificates issued, figure given at the forum of 2-3 June 2026"},
+    {"system": "Online filing and tracking of criminal complaints", "country_label": "", "class": "public", "platform": "", "owner": "Ministry of Justice", "tiers": "online, for citizens"}
+  ],
+  "note": "Justice ministry's public-facing online services only; the online complaint service is the citizen's portal, not the station's record. Nothing on police or gendarmerie stations."
+}

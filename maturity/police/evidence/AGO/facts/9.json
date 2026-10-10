@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's Angola police row says its searches found no evidence of digital case management or record-keeping in rural police stations, and that incident reports and case files appear paper-based; no figures given, and the date is the essay's publication date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Station incident reports and case files (no system named)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's Angola police row says incident reports and case files at stations appear paper-based and that rural areas are likely paper-only, inferring this from the absence of digital mentions in a 2024 US State Department report and a UK prisoner pack; the date is the essay's publication date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Station incident reports and case files (no system named)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SIC online complaints",
+      "country_label": "SIC online complaints",
+      "class": "public",
+      "platform": "",
+      "owner": "SIC (as the essay names it)",
+      "tiers": "Online; no tier stated"
+    }
+  ],
+  "note": "The source is on study.json's exclude_sources list as an AI-assisted compilation; its statements are hedged inference ('appear', 'likely') from an absence of evidence, not a dated statement by the force."
+}

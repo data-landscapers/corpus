@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-algeria-police-electronic-survey",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic survey on citizens' sense of security (algeriepolice.dz/qnss)", "country_label": "استبيان إلكتروني", "class": "public", "platform": "", "owner": "Direction générale de la sûreté nationale (national police)", "tiers": "online, open to the public by link or QR code; launched 2026-08-04"}
+  ],
+  "note": "The national police's online opinion survey of the public, launched 4 August 2026: a public-facing web form, not a system in which a station records a report or a case, so no fact. Classed public as the nearest class; it takes opinions, not reports."
+}

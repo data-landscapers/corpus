@@ -1,0 +1,37 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's country table (Data Landscapers, an AI-assisted compilation by its own header) states that rural police stations in Comoros record case files, complaints and incident reports entirely on paper, as handwritten procès-verbaux whose originals are physically sent to prosecutors under the 2014 Criminal Procedure Code; it gives no date, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper procès-verbaux (no system named)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's country table (Data Landscapers, an AI-assisted compilation by its own header) states that it found no digital case management system, pilot or digitisation at station level in Comoros, and scores police 1 as paper-mandated; it gives no date, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper procès-verbaux (no system named)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "The essay's country table (Data Landscapers, an AI-assisted compilation by its own header) states that no station-level digital recording was found in Comoros and that justice reforms' IT equipment goes to courts, not police; it gives no count of stations and no date, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper procès-verbaux (no system named)",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "The document is the one study.json lists under exclude_sources; its statements are recorded as it makes them and it names no police information system."
+}

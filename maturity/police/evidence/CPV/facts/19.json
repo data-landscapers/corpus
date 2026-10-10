@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-28-cabo-verde-justica-sij-instalacao-brava",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação de Justiça (SIJ), tramitação digital de processos penais", "country_label": "SIJ", "class": "exchange", "platform": "", "owner": "Ministério da Justiça", "tiers": "installed on Brava on 28 November 2025, so that all 17 comarcas are integrated and have access"}
+  ],
+  "note": "The document counts comarcas, the courts' districts, and does not mention the police or their stations; SIJ is entered here as the courts' criminal-process system for dpi.mis--justice."
+}

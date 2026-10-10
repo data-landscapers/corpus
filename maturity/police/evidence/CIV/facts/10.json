@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Abidjan CCTV surveillance network", "country_label": "", "class": "surveillance", "platform": "", "owner": "", "tiers": "Abidjan: tabulated as an extensive city-wide network of 1,000+ cameras with facial recognition and AI analytics, with an integrated command and control centre; data access given as police, intelligence services, municipal authorities and multiple agencies"}
+  ],
+  "note": "A twelve-city smart-city analysis, AI-written by its own header; for Abidjan it tabulates camera surveillance and a command centre only, and says nothing of station records."
+}

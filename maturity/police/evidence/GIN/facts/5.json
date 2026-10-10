@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-08-midas-formation-police-frontieres-guinee",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MIDAS",
+      "country_label": "système MIDAS",
+      "class": "border",
+      "platform": "MIDAS (IOM)",
+      "owner": "Ministry of Security and Civil Protection, with IOM",
+      "tiers": "Border police at six targeted entry points: Pamelap, Kamsar, Boundoufourdou, Sambaïlo, Kouremalé and Kolenda; 80 border police officers trained from 7 April 2026"
+    }
+  ],
+  "note": "Collection of migration data at border posts by the border police; a border system, out of scope, and nothing on station records."
+}

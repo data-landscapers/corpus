@@ -1,0 +1,13 @@
+{
+  "slug": "2021-01-26-undp-liberia-national-police-crime-statistics-information-system-goes-live",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O;C", "fact": "UNDP Liberia says the online Crime Statistics Information System launched at Liberia National Police headquarters on 25 January 2021 is part of a web-based rule-of-law case management system in which institutions record reported crimes and cases as they move through the criminal justice chain.", "as_of": "2021-01-25", "date_precision": "day", "system": "Crime Statistics Information System (CSIS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "pilot", "fact": "UNDP Liberia says the system went live at Liberia National Police headquarters on 25 January 2021 with a five-day training of trainers for 15 personnel, and is to be piloted separately by each institution at first; it names no station or county using it.", "as_of": "2021-01-25", "date_precision": "day", "system": "Crime Statistics Information System (CSIS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:donor", "fact": "UNDP Liberia says the system is an initiative of the joint UN Liberia Rule of Law Programme, led by UNDP and supported by the UNDP Crisis Bureau, as at its launch on 25 January 2021; no domestic funding is stated.", "as_of": "2021-01-25", "date_precision": "day", "system": "Crime Statistics Information System (CSIS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Crime Statistics Information System (CSIS)", "country_label": "Crime Statistics Information System", "class": "record", "platform": "web application, product not named", "owner": "Liberia National Police, under the joint UN Liberia Rule of Law Programme led by UNDP", "tiers": "Liberia National Police headquarters"},
+    {"system": "Rule of law case management system", "country_label": "rule of law case management system / case tracking tool", "class": "exchange", "platform": "web application, product not named", "owner": "Ministry of Justice and Liberia National Police, piloted separately by each institution", "tiers": "major rule of law institutions; no tier stated"}
+  ],
+  "note": "The document also says the system is to yield crime statistics, court backlog and pre-trial detention figures; it states no station-level entry."
+}

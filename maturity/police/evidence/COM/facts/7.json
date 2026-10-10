@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-16-com-2026-06-0615",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Casier judiciaire (criminal record)",
+      "country_label": "Casier Judiciaire",
+      "class": "identification",
+      "platform": "",
+      "owner": "Direction de l'État Civil et Casier Judiciaire, Ministère de la Justice, des Affaires Islamiques et de la Fonction Publique",
+      "tiers": "national directorate; no other tier stated"
+    }
+  ],
+  "note": "A 2026 budget line of KMF 4,000,000 for the directorate holding the civil register and the criminal record; the line names no digital activity and nothing on police stations, so no fact."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2026-03-23 From Essau to Gambisara - Reimagining Community Policing Across The Gambia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "mobile data-collection applications linked to case-management systems",
+      "country_label": "mobile data-collection applications",
+      "class": "",
+      "platform": "",
+      "owner": "community policing, with UNDP support",
+      "tiers": "not stated"
+    },
+    {
+      "system": "case-management systems",
+      "country_label": "case-management systems",
+      "class": "",
+      "platform": "",
+      "owner": "not stated",
+      "tiers": "not stated"
+    },
+    {
+      "system": "GIS mapping of police facilities",
+      "country_label": "GIS mapping",
+      "class": "personnel",
+      "platform": "",
+      "owner": "not stated",
+      "tiers": "Used to guide deployment and improve coverage; no tier stated"
+    }
+  ],
+  "note": "The apps and the case-management systems are named with no account of what they record, who enters it or where, and no date, so they are unclassified and give no fact. The 175 active structures of the 2022 State of the Nation Address are community-policing structures, not stations using a system."
+}

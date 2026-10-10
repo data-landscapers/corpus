@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-22 Ethiopia opens Africa's first unmanned Smart Police Station",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Police Station (SPS)", "country_label": "Smart Police Station", "class": "public", "platform": "", "owner": "", "tiers": "one unmanned station in Addis Ababa, inaugurated by the Prime Minister: self-service touchscreen kiosks where citizens report crimes, file complaints, pay fines and request documents around the clock, with officers on video call; one on-site manager; submitted cases are assigned to police personnel"}
+  ],
+  "note": "No fact: the only system described is a self-service channel for the public, classed public; the document says submitted cases are assigned to police personnel but describes no station system in which officers record them."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay states that rural police stations in Kenya predominantly record cases and complaints on paper, in manual Occurrence Books, P3 medical forms and paper dockets, later aggregated or digitised at higher levels; it gives no date, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Occurrence Books (OB) and paper dockets", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "The essay states that a Digital OB has been piloted or launched in urban stations, naming Kasarani in 2019 and Eldoret in 2026.", "as_of": "2026", "date_precision": "year", "system": "Digital OB", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "pilot", "fact": "The essay states that the Digital OB was piloted or launched in urban stations such as Kasarani (2019) and Eldoret (2026), with rollout depending on connectivity assessments that note difficulties in rural areas; it gives no count of stations.", "as_of": "2026", "date_precision": "year", "system": "Digital OB", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Digital OB", "country_label": "Digital OB", "class": "record", "platform": "", "owner": "", "tiers": "Urban stations such as Kasarani (2019) and Eldoret (2026), as pilots"},
+    {"system": "NPSIMS", "country_label": "NPSIMS", "class": "", "platform": "", "owner": "National Police Service", "tiers": "Not stated; a 'unified platform' presented in 2025"},
+    {"system": "SRIC arms register digitisation pilot", "country_label": "", "class": "single-function", "platform": "", "owner": "SRIC", "tiers": "A 2021 pilot in rural arid and semi-arid counties, Baringo and Samburu among them; arms registers, not cases"},
+    {"system": "World Bank digitisation of crash reports", "country_label": "eCrash", "class": "single-function", "platform": "", "owner": "World Bank", "tiers": "17,000 paper crash reports from Nairobi stations, digitised after the event"}
+  ],
+  "note": "study.json lists this source under exclude_sources as an AI-assisted compilation and not sourced fact; the facts above record what its Kenya police row states and are the parent's to exclude. The passages file was read whole."
+}

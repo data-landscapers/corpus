@@ -1,0 +1,23 @@
+{
+  "slug": "2024-11-21-decret-2024-2692-carte-nationale-identite-informatisee",
+  "facts": [],
+  "systems": [
+    {
+      "system": "carte nationale d'identité informatisée et sécurisée",
+      "country_label": "carte nationale d'identité informatisée et sécurisée",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'intérieur, de la décentralisation et du développement local; direction de l'identification civile",
+      "tiers": "Produced only at the Brazzaville, Pointe-Noire and Oyo centres; delivered by heads of departmental sections and of data collection antennas at the place of enrolment"
+    },
+    {
+      "system": "registre spécial (loss, theft or destruction of an identity card)",
+      "country_label": "registre spécial ouvert à cet effet",
+      "class": "single-function",
+      "platform": "not stated; the decree does not say the register is digital",
+      "owner": "police nationale",
+      "tiers": "The commissariat de police of the arrondissement or district nearest the holder's residence, whose commissaire issues a three-month attestation"
+    }
+  ],
+  "note": "Decree of 13 November 2024 on the computerised identity card. It states nothing on how a station records a report or a case. The identity card is a civil identity system, which the typology does not class; the lost-card register kept at the commissariat is a station register for one function, with no statement that it is digital, and a decree places nothing."
+}

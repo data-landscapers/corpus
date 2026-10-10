@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-21-cabo-verde-decreto-lei-36-2026-portal-unico-servicos-digitais",
+  "facts": [],
+  "systems": [
+    {"system": "Interoperability between the information systems of the Equipa de Serviço Digital, the Instituto de Modernização e Inovação da Justiça and the Direção Nacional da Polícia Nacional (unnamed)", "country_label": "mecanismos seguros de interoperabilidade entre os respetivos sistemas de informação", "class": "exchange", "platform": "", "owner": "Equipa de Serviço Digital, Instituto de Modernização e Inovação da Justiça and Direção Nacional da Polícia Nacional", "tiers": "required by article 27(6) within thirty days of the decree's entry into force, to give real-time access to court decisions barring the issue of travel documents; a legal obligation, not a stated deployment"}
+  ],
+  "note": "Decree-Law 36/2026 on digital public services through the Portal Único; the Polícia Nacional appears only as a body consulted on identity documents and as a party to a required link to court decisions on travel documents, and nothing is stated about stations recording reports or cases."
+}

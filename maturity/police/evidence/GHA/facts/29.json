@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-01-ghana-ejustice-system-underdelivering",
+  "facts": [],
+  "systems": [
+    {"system": "e-Justice system", "country_label": "eJustice", "class": "", "platform": "", "owner": "Judicial Service of Ghana; funded by the World Bank under the e-Transform project", "tiers": "court registries: planned for the Supreme Court, Court of Appeal and High and Circuit Courts in regional capitals and Tema by 2022; reported stalled, with some courts on manual processes"}
+  ],
+  "note": "The courts' own case-filing system, launched in 2019 and reported stalled; it is not a police system and the article states no link from the police to it, so it fits no class of the typology and is listed unclassified for the parent's justice log. No fact for station records."
+}

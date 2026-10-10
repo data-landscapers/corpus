@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-30-burkina24-inauguration-poste-police-frontiere-galgouli",
+  "facts": [],
+  "systems": [
+    {"system": "MIDAS", "country_label": "système de contrôle des flux migratoires MIDAS", "class": "border", "platform": "MIDAS (IOM)", "owner": "Ministère de la Sécurité, national police; supplied by IOM", "tiers": "five vehicles given with the Galgouli border police post, inaugurated 29 October 2025"},
+    {"system": "Office equipment of the Galgouli border police post", "country_label": "bâtiments entièrement équipés en matériel bureautique", "class": "enabling", "platform": "", "owner": "national police; financed by IOM", "tiers": "Poste de Police Frontière de Galgouli"}
+  ],
+  "note": "Border post and migration-flow control system, a class outside the sub-indicator; nothing on the recording of reports or cases."
+}

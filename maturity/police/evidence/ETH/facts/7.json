@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-05-ethiopia-smart-police-stations",
+  "facts": [],
+  "systems": [
+    {"system": "smart police station (SPS)", "country_label": "smart police station", "class": "public", "platform": "", "owner": "police; the head of its technology expansion department speaks for it", "tiers": "one pilot station in the Bole district of Addis Ababa, launched 9 February 2026: tablet booths where a member of the public selects crime, traffic report or general concern and enters details, after which a remote officer appears on screen and takes down information; three reports received in its first week"}
+  ],
+  "note": "No fact: the system described is a self-service reporting booth for the public, classed public. The document adds that traditional stations continue to operate and most citizens still report in person, but says nothing of how those stations record."
+}

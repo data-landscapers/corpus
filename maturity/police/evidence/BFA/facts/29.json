@@ -1,0 +1,9 @@
+{
+  "slug": "2024-03-31-ministere-securite-remise-postes-police-frontieres-midas",
+  "facts": [],
+  "systems": [
+    {"system": "MIDAS", "country_label": "outils de gestion digitale des flux migratoires (MIDAS)", "class": "border", "platform": "MIDAS (IOM)", "owner": "Ministère de la Sécurité, border police; supplied by IOM with United States and Italian funding", "tiers": "border police posts of Kosso, Hamélé, Lan and Dakola, handed over 28 March 2024; Yendéré post strengthened"},
+    {"system": "MIDAS mobile", "country_label": "véhicules équipés de MIDAS mobile", "class": "border", "platform": "MIDAS (IOM)", "owner": "Ministère de la Sécurité; supplied by IOM", "tiers": "three vehicles"}
+  ],
+  "note": "Border-control systems at border police posts, a class outside the sub-indicator; nothing on the recording of reports or cases."
+}

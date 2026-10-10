@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-01-dgat-interieur-bilan-premier-semestre-2026-interconnexion-biometrique-etat-civil",
+  "facts": [],
+  "systems": [
+    {"system": "bases de données biométriques", "country_label": "bases de données biométriques", "class": "border", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "interconnected with the civil-status system to strengthen border control; no tier stated"},
+    {"system": "nouvelles plateformes numériques et services électroniques", "country_label": "plateformes numériques ... services sécuritaires", "class": "public", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "citizens' access to security services; no tier stated"},
+    {"system": "centre de commandement et de contrôle de la circulation routière", "country_label": "centre de commandement et de contrôle de la circulation routière", "class": "surveillance", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "113 surveillance sites equipped in the wilayas of Nouakchott and Nouadhibou"}
+  ],
+  "note": "The interior ministry's first-half 2026 report names biometric databases, citizen-facing platforms and a traffic command centre, none of them a station record system; it says nothing on how stations record reports or cases."
+}

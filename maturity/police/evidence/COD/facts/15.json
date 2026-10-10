@@ -1,0 +1,15 @@
+{
+  "slug": "2025-06-12-drc-hr-management-police-modernization",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Human Resources Information System (HRIS)",
+      "country_label": "HRIS of the Congolese National Police",
+      "class": "personnel",
+      "platform": "",
+      "owner": "Congolese National Police; implemented by the EU-funded Police Reform Support Program (PARP 3) through Coginta with DCAF and Enabel",
+      "tiers": "Stated fully operational by 29 May 2025 for career and staffing management of all personnel; the HR departments of the provincial police stations of Tshikapa, Bunia and Mbandaka equipped with IT resources for it"
+    }
+  ],
+  "note": "The only system is the force's human resources system, class personnel; nothing is stated about how stations record reports or cases."
+}

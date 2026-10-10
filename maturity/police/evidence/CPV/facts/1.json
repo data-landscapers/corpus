@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-17-cpv-expressodasilhas-justica-digital-papel",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação da Justiça (SIJ)", "country_label": "Sistema de Informação da Justiça (SIJ)", "class": "exchange", "platform": "", "owner": "Instituto de Modernização e Inovação da Justiça (IMIJ)", "tiers": "all 17 comarcas; integrated with the stations (esquadras) of the Polícia Nacional and the Polícia Judiciária"},
+    {"system": "Portal da Justiça", "country_label": "Portal da Justiça", "class": "", "platform": "", "owner": "", "tiers": "used by lawyers to follow their cases digitally"}
+  ],
+  "note": "The document describes SIJ as the digital processing of criminal cases in the comarcas, with 46,000 autos handled in the 2025/2026 judicial year through its integration with Polícia Nacional and Polícia Judiciária stations (IMIJ, 16 September 2026); it does not say the station makes the record in it, so it is entered as the link to the courts and gives no fact."
+}

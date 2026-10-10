@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-15-justice-transformation-numerique-triple-lancement",
+  "facts": [],
+  "systems": [
+    {"system": "Justice Pénale en ligne", "country_label": "justice-penale.gov.bf", "class": "public", "platform": "", "owner": "Ministère de la Justice et des Droits humains", "tiers": "online; lets a citizen file a complaint and follow the case, launched 15 December 2025"},
+    {"system": "e-casier judiciaire", "country_label": "e-casier judiciaire", "class": "public", "platform": "", "owner": "Ministère de la Justice et des Droits humains", "tiers": "online; in service before December 2025"},
+    {"system": "e-Permis de Communiquer", "country_label": "e-permis-communiquer.gov.bf", "class": "public", "platform": "", "owner": "Ministère de la Justice et des Droits humains", "tiers": "online; permit to visit a detainee, launched 15 December 2025"},
+    {"system": "e-justice", "country_label": "e-justice", "class": "", "platform": "", "owner": "Ministère de la Justice et des Droits humains", "tiers": "named as an earlier platform, not described"}
+  ],
+  "note": "Justice ministry's citizen-facing platforms; the online complaint service is a public portal, and the document says nothing of police or gendarmerie stations entering reports."
+}

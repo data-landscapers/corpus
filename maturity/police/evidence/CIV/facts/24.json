@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-30-securisation-digitalisation-actes-justice-plateforme-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "e-justice.ci", "country_label": "plateforme de sécurisation et de digitalisation des actes de justice (www.e-justice.ci)", "class": "public", "platform": "", "owner": "Ministère de la Justice et des Droits de l'Homme, in partnership with ONECI", "tiers": "launched 30 January 2025 as a pilot in the jurisdictions of Dabou and Yopougon, for the nationality certificate only; the criminal-record extract to follow"}
+  ],
+  "note": "A justice-ministry portal for the public's certificates; nothing on police or gendarmerie stations or their records."
+}

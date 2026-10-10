@@ -1,0 +1,15 @@
+{
+  "slug": "2017-01-16-nj-chineses-apoiam-angola-emissao-bi-registo-nascimento",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plataforma de Gestão Integrada da Identificação Civil e Criminal",
+      "country_label": "Plataforma de Gestão Integrada da Identificação Civil e Criminal",
+      "class": "identification",
+      "platform": "Supplied by China National Electronics Import & Export Corporation (CEIEC)",
+      "owner": "Ministério da Justiça e dos Direitos Humanos; contract of US$243m authorised by presidential order of January 2017, to be placed on a Chinese commercial credit line",
+      "tiers": "To be implemented (January 2017); covers birth and death registration, identity-card issuance and the criminal record. 96 identity-card registration and issuing posts existed, 36 of them in Luanda"
+    }
+  ],
+  "note": "A civil and criminal identification platform of the justice ministry: criminal records, not police station records. Nothing on the police."
+}

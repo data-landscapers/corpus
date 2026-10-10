@@ -1,0 +1,63 @@
+{
+  "slug": "2020-12-01-apdp-rapport-activites-2015-2020",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Fichier criminel national informatisé",
+      "country_label": "fichier criminel national informatisé au service des forces de sécurité publique",
+      "class": "identification",
+      "platform": "",
+      "owner": "Centre de Documentation de la Sécurité Publique (CDSP)",
+      "tiers": "Police, Gendarmerie, Douanes, Eaux et Forêts, as the forces it serves; no station level stated. Favourable opinion of the data-protection authority, deliberation 2016-007 of 19 August 2016"
+    },
+    {
+      "system": "CDSP processing of identification data of persons prosecuted, arrested or wanted",
+      "country_label": "traitement des données personnelles d'identification des individus poursuivis, arrêtés ou recherchés",
+      "class": "identification",
+      "platform": "",
+      "owner": "Centre de Documentation de Sécurité Publique (CDSP)",
+      "tiers": "Not stated. Authorised by the data-protection authority in 2017"
+    },
+    {
+      "system": "CDSP connections to the ANIP, APB and DEI databases",
+      "country_label": "connexion à la base de données ANIP; connexion à la base de données de l'APB; connexion à la base de données de la DEI",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Centre de Documentation de Sécurité Publique (CDSP)",
+      "tiers": "Not stated. Three favourable opinions listed without dates; APB and DEI are not expanded in the document"
+    },
+    {
+      "system": "Système de Contrôle aux Frontières",
+      "country_label": "système de contrôle aux frontières",
+      "class": "border",
+      "platform": "",
+      "owner": "Direction Générale de la Police Républicaine (DGPR), the request made through the Secrétariat Général du Gouvernement",
+      "tiers": "Not stated. Favourable opinion listed under 2019"
+    },
+    {
+      "system": "Processing of airport users' personal data",
+      "country_label": "traitement des données personnelles des usagers de l'aéroport",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur et de la Sécurité Publique (MISP)",
+      "tiers": "The airport. Favourable opinion; what the processing does is not described"
+    },
+    {
+      "system": "Video surveillance of the Direction Générale de la Police Républicaine",
+      "country_label": "traitement de données personnelles par système de vidéosurveillance",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Direction Générale de la Police Républicaine",
+      "tiers": "Not stated. Declaration receipt 012-2019 of 15 March 2019"
+    },
+    {
+      "system": "Video surveillance of the Centre de Documentation de Sécurité Publique",
+      "country_label": "traitement de données à caractère personnel par système de vidéosurveillance",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Centre de Documentation de Sécurité Publique (CDSP)",
+      "tiers": "Not stated. Declaration receipt 050-2020 of 25 August 2020"
+    }
+  ],
+  "note": "The data-protection authority's 2015-2020 report lists its opinions and receipts for police data processing by title only: a criminal file, links to other databases, border control and video surveillance. It names no system in which a station records a report or a case, and says nothing of how stations record."
+}

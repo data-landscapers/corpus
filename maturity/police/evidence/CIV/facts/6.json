@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-02-securisation-personnes-biens-maillage-territoire-national",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'information policière d'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "", "platform": "", "owner": "", "tiers": "105 processing sites interconnected, installed in the judicial services and the services in charge of investigations, in the government's 2011-2025 record; the document does not say what is entered at them or by whom"},
+    {"system": "Vidéo protection urbaine (VPU)", "country_label": "VPU", "class": "surveillance", "platform": "", "owner": "", "tiers": "the 12 police prefectures and strategic towns"},
+    {"system": "Plateforme de lutte contre la cybercriminalité (PLCC)", "country_label": "PLCC", "class": "single-function", "platform": "", "owner": "", "tiers": "created within the 2011-2025 record; tiers not stated"},
+    {"system": "Counter-terrorism software and technological deliverables, phase 3", "country_label": "projet d'acquisition de logiciels et de produits livrables technologiques pour lutter contre le terrorisme", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Computer equipment at the Didiévi commissariat", "country_label": "matériel informatique", "class": "enabling", "platform": "", "owner": "Police nationale", "tiers": "the commissariat of Didiévi, opened 25 April 2025"}
+  ],
+  "note": "SIPAO is given as 105 interconnected processing sites in judicial and investigative services, with no statement that stations enter reports or cases in it, so it is not classed as record and gives no fact. The document also counts 35 commissariats, seven police districts and 11 regional judicial police services opened in 2011-2025, and a force of more than 25,000."
+}

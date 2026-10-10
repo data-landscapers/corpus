@@ -1,0 +1,8 @@
+{
+  "slug": "2017-05-01-id4d-country-diagnostic-burkina-faso",
+  "facts": [],
+  "systems": [
+    {"system": "National identity card (CNIB) production system", "country_label": "Carte Nationale d'Identité Burkinabè (CNIB)", "class": "", "platform": "", "owner": "Office National d'Identification (ONI), attached to the Ministry of Security; 250 staff, all police or gendarmerie officers", "tiers": "two card production centres (Ouagadougou, Bobo-Dioulasso), 45 intermediary data processing centres, 370 data collection centres, one a commune"}
+  ],
+  "note": "Passages file; the civil identity-card system is staffed by police and gendarmerie officers but falls in no class of the typology, and the AFIS named is the electoral commission's voter register. Nothing on station records."
+}

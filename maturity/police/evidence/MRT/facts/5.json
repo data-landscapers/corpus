@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states that rural police stations in Mauritania, served mainly by the Gendarmerie Nationale, record case files, complaints and incident reports on paper, and that it found no evidence of digital case management at station level; no date is given for the statement, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper case files, complaints and incident reports at rural stations", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table states that arrest statements at rural stations are handwritten procès-verbaux, at basic stations lacking electricity and office equipment, citing a UK FCDO prisoner pack and the US State Department's 2022 human rights report; no date is given for the statement, so the published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper case files, complaints and incident reports at rural stations", "class": "record"}
+  ],
+  "systems": [],
+  "note": "The file's own header marks the country figures as an AI-assisted compilation, not sourced fact, and study.json lists this slug under exclude_sources; the two rows record what it states and no more."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2025-06-20-govt-integrate-id-cards-ecrvs-thepoint",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System",
+      "country_label": "West African Police Information System",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "not stated; reported by the President under the Ministry of Interior's work",
+      "tiers": "Not stated: the President's 2025 State of the Nation Address says only that it is in use to digitise paper-based police records for easier access, sharing and utilisation"
+    },
+    {
+      "system": "CCTV systems linked to a traffic management centre",
+      "country_label": "CCTV systems and traffic management centre",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Ministry of Interior",
+      "tiers": "Planned along the OIC Highway and other strategic locations; not yet installed as at the 2025 address"
+    },
+    {
+      "system": "Surveillance equipment from the German government",
+      "country_label": "modern surveillance equipment",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "not stated; GMD 38 million of equipment secured from the German government",
+      "tiers": "Installed in strategic locations"
+    }
+  ],
+  "note": "The one police-records statement is the President's, in the 2025 State of the Nation Address reported 20 June 2025: WAPIS is in use to digitise paper-based police records. It does not say stations enter reports or cases in it, who keys the paper records or where, so under the typology's rule for this system it is unclassified and gives no fact."
+}

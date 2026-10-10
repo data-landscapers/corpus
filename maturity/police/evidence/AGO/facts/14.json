@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-eximbank-cn-ago-001-public-security-project-phase-2",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Public Security Project Phase 2 (integrated public security and anti-crime surveillance system)",
+      "country_label": "Centro Integrado de Segurança Pública (CISP)",
+      "class": "surveillance",
+      "platform": "Huawei technology (national Safe City programme)",
+      "owner": "Government of Angola / National Police; financed by an Export-Import Bank of China commercial loan of about US$80m committed in 2021",
+      "tiers": "Phase 1 was the CISP opened in Luanda in December 2019; phase 2 extends CCTV, facial recognition and command-and-control infrastructure to additional cities beyond Luanda"
+    }
+  ],
+  "note": "A loan record for a surveillance and command-and-control system; nothing on station records."
+}

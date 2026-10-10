@@ -1,0 +1,23 @@
+{
+  "slug": "2022-06-24-orden-ministerial-procedimientos-pasaporte-biometrico",
+  "facts": [],
+  "systems": [
+    {
+      "system": "cnedoge.gq passport application web application",
+      "country_label": "Página Web Oficial cnedoge.gq / aplicación web",
+      "class": "public",
+      "platform": "",
+      "owner": "CNEDOGE (Centro Nacional de Emisión de Documentos Oficiales de Guinea Ecuatorial), Ministerio de la Seguridad Nacional; uploaded documents reviewed by the Policía Nacional",
+      "tiers": "applicants abroad online; diplomatic missions and consular offices for appointments and biometric capture; personalisation and printing central at CNEDOGE"
+    },
+    {
+      "system": "Archivo de la Policía Nacional",
+      "country_label": "archivo de la Policía Nacional",
+      "class": "",
+      "platform": "",
+      "owner": "Policía Nacional",
+      "tiers": "consulted to check that a passport applicant never held an identity document (DIP); the order does not say whether it is paper or digital"
+    }
+  ],
+  "note": "No fact: the order of 2022-06-22 sets the procedure for biometric passports applied for abroad. The Policía Nacional appears as reviewer of uploaded applications and keeper of an archive of identity documents; nothing is said of stations recording reports or cases. Art. 15 requires a lost or stolen passport to be reported to the authorities of the jurisdiction, with no means stated; art. 16 has CNEDOGE notify annulments to migration authorities and INTERPOL."
+}

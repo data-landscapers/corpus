@@ -1,0 +1,15 @@
+{
+  "slug": "2016-01-01-mali-matd-etat-civil-recensement-biometrique-ravec",
+  "facts": [],
+  "systems": [
+    {
+      "system": "RAVEC database",
+      "country_label": "Recensement Administratif a Vocation d'Etat Civil (RAVEC)",
+      "class": "exchange",
+      "platform": "MorphoCivis / City_Web",
+      "owner": "Ministere de l'Administration Territoriale et des Collectivites Locales",
+      "tiers": "National civil-status and biometric population database; connecting the police and the gendarmerie to it is stated as a long-term objective only, not as done"
+    }
+  ],
+  "note": "No station-record system is named: the deck (results as of 2016-04-20) gives connection of police and gendarmerie to the RAVEC database as a long-term objective and lists the casier judiciaire among possible future applications of the database."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2020-01-22-angola-lei-2-20-videovigilancia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Videovigilância, interlinked to the Órgão de Integração de Segurança Pública",
+      "country_label": "Sistema de Videovigilância; Órgão de Integração de Segurança Pública",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Each authorised entity for its own cameras; the Órgão de Integração de Segurança Pública, by delegation of the head of the executive, has real-time or deferred access; the criminal police bodies (Polícia Nacional and Serviço de Investigação Criminal) may use their own fixed or mobile cameras",
+      "tiers": "Public places nationally; a legal regime, with no deployment figures"
+    }
+  ],
+  "note": "The video-surveillance law (with the tail of the witness-protection law and parliamentary resolutions in the same gazette): a legal regime for cameras, with nothing on station records. OCR text."
+}

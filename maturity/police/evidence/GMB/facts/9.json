@@ -1,0 +1,31 @@
+{
+  "slug": "2025-12-05-gambia-mofea-2026-budget-speech-national-assembly",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WAPIS",
+      "country_label": "West African Police Information Database system",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "",
+      "tiers": "Named in the list of acronyms only; the body of the speech does not mention it"
+    },
+    {
+      "system": "Migration Information and Data Analysis System (MIDAS)",
+      "country_label": "MIDAS",
+      "class": "border",
+      "platform": "MIDAS",
+      "owner": "Gambia Immigration Department, Ministry of Interior",
+      "tiers": "Entry points; to be expanded to more entry points in 2026"
+    },
+    {
+      "system": "Drone Surveillance Unit",
+      "country_label": "Drone Surveillance Unit",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Ministry of Interior",
+      "tiers": "Expansion planned for 2026; no tier stated"
+    }
+  ],
+  "note": "The Interior paragraphs (62-64, 101) name the GPF Strategic Plan 2024-2028 and D10.5 million for building police stations in 2026 but no system for station records, and do not say the plan covers one. The Ministry of Justice's planned Case Management System (para 68) is the justice ministry's, with no link to the police stated."
+}

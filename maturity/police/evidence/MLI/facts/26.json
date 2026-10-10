@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-21-abamako-mali-plateforme-e-justice-formation-utilisateurs",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-Justice",
+      "country_label": "plateforme e-Justice",
+      "class": "public",
+      "platform": "Built in Mali by Malian developers; payment partners Orange Money, Moov Money and Sama Money",
+      "owner": "Ministère de la Justice et des Droits de l'Homme",
+      "tiers": "Not yet launched on 21 July 2026; future users trained at the Bamako Court of Appeal; a second phase is to cover digital management of judicial files"
+    }
+  ],
+  "note": "No fact: a justice ministry portal through which citizens are to obtain the criminal record extract and nationality certificate online; it is not a police system and nothing is said of stations' records."
+}

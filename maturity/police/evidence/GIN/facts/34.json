@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-25-loi-l-2023-0020-etat-civil-republique-de-guinee",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Casier judiciaire central",
+      "country_label": "casier judiciaire central",
+      "class": "identification",
+      "platform": "",
+      "owner": "Held by the court registries (greffes), under the justice ministry",
+      "tiers": "Named in Articles 9 and 10 of the civil-status law of 25 October 2023 as a register whose data the security, justice, telecommunications and civil-status ministries must secure, and which national security personnel may consult; no digital system described"
+    }
+  ],
+  "note": "The civil-status law; judicial police officers appear only among those allowed to consult civil registers, and the proces-verbaux are register closures and foundling reports. It names no police information system and says nothing of station records. The source is an excerpt that stops in Article 88."
+}

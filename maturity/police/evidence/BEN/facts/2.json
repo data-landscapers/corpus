@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-24-benin-justice-sector-2026-2033-digital-plan",
+  "facts": [],
+  "systems": [
+    {"system": "liaison informatique directe tribunaux-commissariats-prisons-ministère de la Justice", "country_label": "interconnexion des services", "class": "exchange", "platform": "", "owner": "", "tiers": "planned for 2026-2033: courts, police stations, prisons and the justice ministry, for instant transmission of warrants and release orders"},
+    {"system": "portail unique du justiciable", "country_label": "portail unique du justiciable", "class": "public", "platform": "", "owner": "", "tiers": "planned for 2026-2033: lodging a complaint online, following a case and receiving notifications"}
+  ],
+  "note": "A presidential justice programme for 2026-2033: every system is planned, none is a station record system, and no owner, budget or date of operation is stated."
+}

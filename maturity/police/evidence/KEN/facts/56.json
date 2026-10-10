@@ -1,0 +1,23 @@
+{
+  "slug": "2018-05-25-capitalfm-kenya-police-ic3-command-centre-cctv",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated, Control and Communication Centre (IC3)",
+      "country_label": "IC3",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "One centre at National Police Headquarters, Nairobi, operational since May 2015: monitors 1,803 CCTV cameras in Nairobi and Mombasa counties, receives all the country's 999, 112 and 911 emergency calls and dispatches them; extension to other towns planned (May 2018)"
+    },
+    {
+      "system": "Automatic Number Plate Recognition Control System",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Cameras on major roads and highways, flagging stolen vehicles blacklisted at the command centre; over 1,800 vehicles blacklisted and 720 recovered between May 2015 and December 2017"
+    }
+  ],
+  "note": "The document describes the police command centre, its cameras, emergency-call dispatch and number-plate recognition, all of class surveillance; it states nothing about how stations record reports or cases."
+}

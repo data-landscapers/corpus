@@ -1,0 +1,23 @@
+{
+  "slug": "2021-12-21-angola-decreto-presidencial-308-21-regulamento-videovigilancia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Video-surveillance systems, integrated by the Centro Integrado de Segurança Pública",
+      "country_label": "sistemas de videovigilância; Centro Integrado de Segurança Pública",
+      "class": "surveillance",
+      "platform": "IP cameras, H.264/H.265, NVR recording (minimum technical requirements in Annex II)",
+      "owner": "The Centro Integrado de Segurança Pública is named as the public security integration body; the Polícia Nacional processes applications through its provincial commands and General Command and inspects installations",
+      "tiers": "National; a regulation, with no deployment figures"
+    },
+    {
+      "system": "Database of installed video-surveillance systems",
+      "country_label": "registo dos sistemas de videovigilância, em uma base de dados",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Polícia Nacional de Angola",
+      "tiers": "Required by article 12 of the regulation; no statement that it exists"
+    }
+  ],
+  "note": "The regulation of the video-surveillance law: licensing, data handling and fees for cameras. A legal text on surveillance; nothing on station records."
+}

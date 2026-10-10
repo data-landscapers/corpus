@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-24-radars-mobiles-etraffrika-policiers-gendarmes-formes",
+  "facts": [],
+  "systems": [
+    {"system": "eTraffrika", "country_label": "logiciel eTraffrika", "class": "single-function", "platform": "eTraffrika, developed by the team of Youssouf Fatiga, one of the trainers", "owner": "Direction générale des transports terrestres, in partnership with La Congolaise des frets (Karity group)", "tiers": "connected to the mobile radars; stores the city's vehicle fleet data, administrative documents and traffic offences, and eases recovery of traffic fines; pilot in Brazzaville and Pointe-Noire"},
+    {"system": "Mobile radars", "country_label": "radars mobiles", "class": "surveillance", "platform": "Jenoptik", "owner": "Direction générale des transports terrestres, in partnership with La Congolaise des frets; operated by territorial police and gendarmerie units", "tiers": "two radars, pilot phase in Brazzaville and Pointe-Noire; officers' training began 24 September 2025 in Brazzaville"}
+  ],
+  "note": "Traffic enforcement only: two mobile radars and a traffic-offence and fines software, neither a station's record of reports or cases."
+}

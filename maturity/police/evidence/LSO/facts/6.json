@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-20-lesotho-undp-lehokela-digital-policing-launch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lehokela Application",
+      "country_label": "Lehokela App",
+      "class": "public",
+      "platform": "Mobile application, Android only at launch; co-developed by LMPS, UNDP, the National University of Lesotho and Econet Telecom Lesotho; zero-rated by Econet",
+      "owner": "Lesotho Mounted Police Service",
+      "tiers": "Communities and Crime Prevention Committees report crime and violence to the police; launched nationally by 20 April 2026"
+    },
+    {
+      "system": "ICT Enablement Initiative",
+      "country_label": "ICT Enablement Initiative",
+      "class": "enabling",
+      "platform": "Desktop computers and related tools",
+      "owner": "Lesotho Mounted Police Service, supported by the UN Peacebuilding Fund through UNDP, OHCHR and UN Women",
+      "tiers": "Police stations, to be equipped so officers can monitor reported cases; no count given"
+    }
+  ],
+  "note": "UNDP news of 20 April 2026. Lehokela is described as a mobile app through which communities and Crime Prevention Committees report crime to the police, so it is class public and gives no fact; the ICT initiative is enabling. The document also names a five-year LMPS Strategic Plan, a Digital Transformation Policy and a Digital Transformation Strategy, drafted with UNDP technical support and funded by the Peacebuilding Fund, and says the launch lays a foundation for a centralised digital system for tracking crime; it describes no system in which stations record reports or cases."
+}

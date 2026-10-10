@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-02-afis-empreintes-digitales-sipao-cedeao",
+  "facts": [],
+  "systems": [
+    {"system": "Système automatisé d'identification par empreintes digitales et palmaires (AFIS)", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "Police républicaine; financed by the European Union, technical support from Interpol", "tiers": "inaugurated 30 September 2025 at the Direction générale de la Police républicaine"},
+    {"system": "Système d'information policière d'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO", "class": "exchange", "platform": "", "owner": "ECOWAS regional platform, under an additional act adopted 22 June 2025 in Abuja", "tiers": "described as a regional platform for sharing police information among the 15 ECOWAS member states; no station-level entry stated"},
+    {"system": "service de police technique et scientifique", "country_label": "police technique et scientifique de la Direction de la Police judiciaire", "class": "identification", "platform": "", "owner": "Direction de la Police judiciaire", "tiers": "one renovated and re-equipped service, reopened 30 September 2025 under the SIPAO programme"}
+  ],
+  "note": "A fingerprint identification system and a regional exchange platform; the document does not say stations enter reports or cases in SIPAO, so no fact for station records."
+}

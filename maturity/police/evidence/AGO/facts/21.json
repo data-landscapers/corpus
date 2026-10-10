@@ -1,0 +1,39 @@
+{
+  "slug": "2026-02-12-pn-reforca-seguranca-cinco-novos-centros-comando-controlo",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centros de Comando e Controlo (CCC), Projecto de Inovação em Segurança Pública phase 2",
+      "country_label": "Centros de Comando e Controlo (CCC); Projecto de Inovação em Segurança Pública",
+      "class": "surveillance",
+      "platform": "CCTV, software and communications; 524.8 km of optical fibre (154.8 km backbone, 370 km access) and hundreds of cameras",
+      "owner": "Polícia Nacional; financed by the Export-Import Bank of Korea, US$87m, to finish in 2028",
+      "tiers": "Five municipal centres in Luanda province (Cacuaco, Talatona, Viana, Kilamba Kiaxi, Cazenga); first stone laid at Cacuaco on 11 February 2026"
+    },
+    {
+      "system": "VTS",
+      "country_label": "sistema VTS (controlo de viaturas envolvidas em crimes e infracções de trânsito)",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Polícia Nacional",
+      "tiers": "Capacity to be increased in phase 2; monitors and tracks vehicles; no tier stated"
+    },
+    {
+      "system": "Emergency system",
+      "country_label": "sistema de emergência",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Polícia Nacional",
+      "tiers": "To be improved in phase 2; no tier stated"
+    },
+    {
+      "system": "Centro Electrónico de Segurança Pública (CESP)",
+      "country_label": "Centro Electrónico de Segurança Pública (CESP)",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Created with South Korean help, per the Korean ambassador; owner not stated",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "A dated event inside the last twelve months (groundbreaking, 11 February 2026), but for command-and-control and video surveillance in Luanda, a surveillance system. 'Ocorrências' here are incidents responded to, not records made at stations."
+}

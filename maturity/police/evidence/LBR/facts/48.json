@@ -1,0 +1,8 @@
+{
+  "slug": "2011-06-02-liberia-lta-annual-report-2010",
+  "facts": [],
+  "systems": [
+    {"system": "Liberia National Police radio frequency assignments", "country_label": "VHF and UHF assignments; 4.9 GHz band for emergency preparedness and response", "class": "enabling", "platform": "VHF and UHF radio; 15 MHz (4940-4955 MHz) in the 4.9 GHz band, seven channels", "owner": "Liberia National Police; frequencies assigned by the Liberia Telecommunications Authority in 2010", "tiers": "not stated"}
+  ],
+  "note": "The telecoms regulator's 2010 annual report; the police appear only as an assignee of radio frequencies, an enabling item. Nothing on station records."
+}

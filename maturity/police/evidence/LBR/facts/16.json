@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-01-liberia-national-data-governance-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Forensic Lab (DFL)", "country_label": "Digital Forensic Lab", "class": "identification", "platform": "", "owner": "Ministry of Posts and Telecommunications, with support from the ECOWAS Commission; hosted by the Liberia National Police Training Academy", "tiers": "one laboratory, expected to become operational soon as of March 2026"}
+  ],
+  "note": "The passages name a forensic laboratory and a data-sharing agreement between the Liberia National Police and the Ministry of Justice, with no system described; nothing on station records."
+}

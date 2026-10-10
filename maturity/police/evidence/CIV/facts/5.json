@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The Data Landscapers review says it found no specific evidence of digital recording at rural police stations or gendarmerie brigades in Côte d'Ivoire, and scores them 1; no date is given for the finding, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The Data Landscapers review says the standard practice of handwritten procès-verbaux persists and that rural stations are likely paper-based, with possible later central entry; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux", "class": "record"}
+  ],
+  "systems": [
+    {"system": "CTIP/BTIP", "country_label": "CTIP/BTIP", "class": "", "platform": "", "owner": "Ministry of Interior", "tiers": "police data processing in Abidjan, described as a central initiative"},
+    {"system": "WAPIS", "country_label": "WAPIS", "class": "", "platform": "", "owner": "INTERPOL (regional system)", "tiers": "named as a central initiative; not stated"},
+    {"system": "e-justice.ci", "country_label": "e-justice.ci", "class": "", "platform": "", "owner": "", "tiers": "named as justice digitalisation; not stated"}
+  ],
+  "note": "The source is on the study's exclude_sources list (an AI-assisted compilation by its own header); its statements are the author's inference, worded as 'no evidence found' and 'likely'."
+}

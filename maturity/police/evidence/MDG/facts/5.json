@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-16-fichier-central-gendarmerie-digitisation",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Fichier Central numérique de la Gendarmerie",
+      "country_label": "Fichier Central",
+      "class": "identification",
+      "platform": "Software being developed with UNDP support; not named",
+      "owner": "Gendarmerie nationale, Direction de la Police Judiciaire (Service du fichier et des rapprochements judiciaires); UNDP supports specification, development, equipment, infrastructure and training under the Rule of Law pillar of its Pacte civique portfolio",
+      "tiers": "In development as of 16 July 2026; intended for consultation by gendarmerie units across the whole territory (wanted persons, judicial antecedents, stolen objects, flagged documents, current investigations); fingerprint comparison and facial recognition to be added later"
+    }
+  ],
+  "note": "The system is a central lookup file of wanted persons, antecedents and stolen property (class identification), still being developed, so no fact. The document also states that gendarmerie investigators long worked with an essentially manual information-management system, with judicial, administrative and military data dispersed; it says this of the file's predecessor, not of the brigade's complaint or case record."
+}

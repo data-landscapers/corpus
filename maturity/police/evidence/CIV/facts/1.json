@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-30-e-justice-39-tribunaux-connectes-fratmat",
+  "facts": [],
+  "systems": [
+    {"system": "e-Justice", "country_label": "plateforme e-Justice", "class": "public", "platform": "", "owner": "Ministère de la Justice et des Droits de l'Homme (Unité de gestion du projet e-Justice; partners ONECI and ASERNUM)", "tiers": "all 39 first-instance tribunals connected by 29 June 2026; online issue of nationality certificates and criminal-record extracts (bulletins 1, 2 and 3) nationwide"}
+  ],
+  "note": "A justice-ministry portal through which the public obtains criminal-record extracts and nationality certificates from the tribunals; nothing on police or gendarmerie stations or their records."
+}

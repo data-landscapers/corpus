@@ -1,0 +1,23 @@
+{
+  "slug": "2025-02-17-statistics-botswana-annual-report-2023-24",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Tablets donated for digital capture of administrative data",
+      "country_label": "tablets from the 2021 Population and Housing Census",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Statistics Botswana donated them; the Botswana Police Service is one of four recipient agencies",
+      "tiers": "not stated; given to the Botswana Police Service in the year to 31 March 2024 to move from manual forms and questionnaires to digital data capture for administrative statistics"
+    },
+    {
+      "system": "Defence and Security sector information management systems and databases (under review and development)",
+      "country_label": "information management systems and databases, Defence and Security sector",
+      "class": "",
+      "platform": "",
+      "owner": "Statistics Botswana facilitates the review",
+      "tiers": "not stated; work had commenced in the year to 31 March 2024, with no description of what the systems do"
+    }
+  ],
+  "note": "The report (year to 31 March 2024) describes administrative-data digitalisation for statistics, which is not the station's record of a report or case, so no fact for the record class. The data quality framework rolled out to the justice sector including the police is a framework, not a system. The OSINT capture is an excerpt by its own frontmatter: it stops before the Statistics Highlights, HR and financial sections."
+}

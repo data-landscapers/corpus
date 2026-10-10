@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-03-cyber-security-authority-czech-republic-acdt-partner-train-journalists-cybercrime-reporting",
+  "facts": [],
+  "systems": [
+    {"system": "Digital forensic hardware and software of the police Cybercrime Unit", "country_label": "specialised digital forensic hardware and software", "class": "identification", "platform": "", "owner": "Ghana Police Service, Cybercrime Unit; donated by the Czech Republic in May 2026, valued at almost GH¢450,000", "tiers": "Cybercrime Unit"},
+    {"system": "Cyber Security Authority 24-hour reporting line", "country_label": "24-hour reporting line", "class": "public", "platform": "", "owner": "Cyber Security Authority", "tiers": ""}
+  ],
+  "note": "Journalist training on cybercrime; the only police items are forensic equipment donated to the Cybercrime Unit, a noted class, so there is no fact for station records."
+}

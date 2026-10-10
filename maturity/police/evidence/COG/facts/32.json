@@ -1,0 +1,15 @@
+{
+  "slug": "2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ID card system",
+      "country_label": "National ID card system",
+      "class": "",
+      "platform": "",
+      "owner": "National Police, overseen by the Ministry of Security and Public Order",
+      "tiers": "Not stated"
+    }
+  ],
+  "note": "The passages state only that the national identity card system is operated by the National Police, and that a copy of one's criminal record is needed for most transactions; neither is described as a station's record of reports or cases. The identity card system fits none of the typology's classes as described, so its class is left empty."
+}

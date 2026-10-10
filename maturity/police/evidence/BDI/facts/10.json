@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table states that Burundi's rural police stations record case files, complaints and incident reports as handwritten paper procès-verbaux, signed and carried by hand to prosecutors, and scores the police row 1; it gives no date for the statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten paper procès-verbaux", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states that it found no evidence of digital case management systems at Burundi's police stations and that rural stations are predominantly or entirely paper-based; it gives no date for the statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten paper procès-verbaux", "class": "record"}
+  ],
+  "systems": [],
+  "note": "Passages file. The document's own header calls its country figures an AI-aided compilation, the author's analysis and not sourced fact; study.json lists it under exclude_sources. Its statements rest on the criminal procedure code, a 2010 Human Rights Watch report and US State Department reports it cites."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2019-05-01-angola-minjusdh-boletim-justica-direitos-humanos-edicao-10",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Criminal record (Certificado do Registo Criminal) service of the civil and criminal identification offices",
+      "country_label": "Certificado do Registo Criminal; Identificação Civil e Criminal",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministério da Justiça e dos Direitos Humanos",
+      "tiers": "Requested and issued on the spot at the civil and criminal identification offices and posts (May 2019); the record is fed by criminal bulletins from court sentences. No statement that it is digital"
+    }
+  ],
+  "note": "A justice ministry staff bulletin of May 2019: the identity-card print centre, how to get a criminal record certificate, an anti-corruption campaign. The police appear only as an enforcing party and a seminar guest; nothing on station records."
+}

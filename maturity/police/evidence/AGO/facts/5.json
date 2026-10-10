@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-05-minjusdh-falhas-do-sistema-nos-postos-de-identificacao",
+  "facts": [],
+  "systems": [
+    {
+      "system": "System of the civil and criminal identification posts (unnamed)",
+      "country_label": "sistema nos postos de identificação civil e criminal",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministério da Justiça e dos Direitos Humanos; the Direcção Nacional de Identificação, Registos e Notariado (DNIRN) is the central office",
+      "tiers": "Identification and civil registry posts almost countrywide, the DNIRN centre and SIAC citizen service centres; issues identity cards, criminal record certificates and death certificates. Posts without system for about four months to May 2026, blamed on telecommunications breaks"
+    }
+  ],
+  "note": "The outage reported is of the justice ministry's identification posts, which issue criminal record certificates: an identification system, not the police's station records, so no fact."
+}

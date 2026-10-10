@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-04-cipesa-submission-draft-ai-policy-2026",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Facial recognition on live CCTV feeds",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Nairobi and Mombasa, with plans to expand to other cities, as CIPESA states it in August 2026"
+    }
+  ],
+  "note": "A civil society submission on the draft AI policy; its one statement about police systems is on facial recognition over CCTV, of class surveillance, and it says nothing about station records."
+}

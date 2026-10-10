@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-18-dba-fgi-cameroun-camtel-interoperabilite-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "I-CEMAC (INTERPOL), with access to I-24/7", "country_label": "projet I-CEMAC", "class": "border", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "border security systems; widened I-24/7 access named at Garoua-Boulaï"}
+  ],
+  "note": "Report of the 2026-08-18 internet governance forum; the one police-field mention is the INTERPOL I-CEMAC project for interoperable national border-security systems, a border class. States nothing about station records."
+}

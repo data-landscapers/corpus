@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-police.md — the fourth maturity study: rural police stations, as station records
 last_reviewed: 2026-10-10
-status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 under way
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 stopped by Bill mid-review, P2 part done: slices from NER 2 onward (NGA to ZWE) not yet read
 ---
 
 # Maturity study: police — station records

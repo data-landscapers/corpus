@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-31-lca-rfp-police-stations-wifi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Wi-Fi Project - Thirteen Police Stations",
+      "country_label": "Wi-Fi Project - Thirteen Police Stations",
+      "class": "enabling",
+      "platform": "Fortinet switches, access points and firewalls specified",
+      "owner": "Lesotho Communications Authority, through its Universal Service Fund",
+      "tiers": "Thirteen police posts across the ten districts, in six lots: Police Headquarters (Maseru), Thaba-Tseka, Mohale's Hoek, Mafeteng, Quthing, Qacha's Nek, Berea, Hlotse, Botha-Bothe, Mokhotlong, Maseru Urban (CBD), Maseru Rural (Mazenod) and the Police Training College"
+    }
+  ],
+  "note": "A July 2026 request for proposals for network equipment at thirteen police posts: connectivity only, class enabling; it names no record system and says nothing of how stations record reports or cases. The capture is truncated at Table 6 of 13."
+}

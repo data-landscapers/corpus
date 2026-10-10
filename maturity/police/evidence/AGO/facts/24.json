@@ -1,0 +1,23 @@
+{
+  "slug": "2018-02-14-decreto-presidencial-46-18-pnagia-interoperabilidade-administracao-do-estado",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema Integrado de Emissão do Bilhete de Identidade e Certificado do Registo Criminal (BI Integrado)",
+      "country_label": "Sistema Integrado de Emissão do Bilhete de Identidade e Certificado do Registo Criminal (BI Integrado)",
+      "class": "identification",
+      "platform": "",
+      "owner": "Not stated in the decree",
+      "tiers": "Listed among systems already implemented by February 2018; no tier stated"
+    },
+    {
+      "system": "Plataforma Tecnológica de Interoperabilidade (PTI)",
+      "country_label": "Plataforma Tecnológica de Interoperabilidade (PTI)",
+      "class": "exchange",
+      "platform": "Service-oriented architecture with a transactional bus, digital authentication, e-payments and an SMS gateway",
+      "owner": "The executive; not further stated in the captured text",
+      "tiers": "Planned (2018); the plan's example is police services confirming online whether an identity card is authentic"
+    }
+  ],
+  "note": "The national interoperability plan of 2018: it names the integrated identity-card and criminal-record certificate system as existing and gives a police check of an identity card as an example of the planned platform's use. Nothing on station records. Capture is truncated mid-section 6.1.4."
+}

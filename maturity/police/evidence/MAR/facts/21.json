@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "The essay's Morocco police row states that the DGSN's GESTARR system combines crime and delinquency management with digitised procedures, and that police and gendarmerie are digitising case management; it gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "GESTARR", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "not-published", "fact": "The essay states GESTARR is deployed in urban prefectures, regional sûretés (it names Ouarzazate, Errachidia and Taza) and provincial sûretés, with national rollout planned, and gives no count of units or total; no date is given, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "GESTARR", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The essay names GESTARR as the DGSN's own system, the national police force's; no date is given, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "GESTARR", "class": "record"}
+  ],
+  "systems": [
+    {"system": "GESTARR", "country_label": "GESTARR", "class": "record", "platform": "", "owner": "DGSN", "tiers": "Urban prefectures, regional sûretés (Ouarzazate, Errachidia, Taza named) and provincial sûretés; national rollout planned"},
+    {"system": "HID Livescan digital biometric booking", "country_label": "", "class": "identification", "platform": "HID Livescan", "owner": "Royal Gendarmerie", "tiers": "Said to be usable at remote outposts"},
+    {"system": "online criminal records portal", "country_label": "Casier judiciaire", "class": "public", "platform": "", "owner": "Ministry of Justice", "tiers": ""}
+  ],
+  "note": "Passages naming Morocco only. The essay is an AI-assisted compilation by its own header and is on the study's excluded-sources list; its police row is recorded as what the essay states, with no date of its own for the deployment."
+}

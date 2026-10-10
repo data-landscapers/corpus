@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-01-official-management-civil-criminal-records-cameroon-electronic-approach",
+  "facts": [],
+  "systems": [
+    {"system": "criminal records on index cards (central index and district index cards)", "country_label": "criminal records; bulletins no. 1, 2 and 3; certificate of non-conviction", "class": "identification", "platform": "paper index cards, filed alphabetically, in five copies", "owner": "registries of the Courts of First Instance and the Ministry of Justice", "tiers": "the Court of First Instance of the person's place of birth, and the central criminal record office at the Ministry of Justice in Yaoundé; the article says the police services do not keep criminal records"}
+  ],
+  "note": "A legal article (April 2025) on civil and criminal records: criminal records are conviction records kept by hand on index cards by the courts and the justice ministry, not by the police, an identification class. It says nothing about how police stations or gendarmerie brigades record reports or cases, so no fact on station records."
+}

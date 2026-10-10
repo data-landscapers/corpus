@@ -1,0 +1,13 @@
+{
+  "slug": "2026-04-01-interior-cs-murkomen-unveils-digital-ob-ai-reforms-modernise-policing",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "Interior Cabinet Secretary Kipchumba Murkomen said on 1 April 2026 that the government was procuring a digital Occurrence Book, to be launched soon, through which a crime could be reported from home or at the scene; it is described as to be acquired, not in use.", "as_of": "2026-04-01", "date_precision": "day", "system": "digital Occurrence Book (OB)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "As of 1 April 2026 the Interior Cabinet Secretary said the digital Occurrence Book was still in a procurement process and yet to be launched; no station is said to be using one.", "as_of": "2026-04-01", "date_precision": "day", "system": "digital Occurrence Book (OB)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The Interior Cabinet Secretary said on 1 April 2026 that the government was itself procuring the digital Occurrence Book.", "as_of": "2026-04-01", "date_precision": "day", "system": "digital Occurrence Book (OB)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "On 1 April 2026 the Interior Cabinet Secretary announced that a procurement to acquire a digital Occurrence Book was in progress and that it would be launched soon.", "as_of": "2026-04-01", "date_precision": "day", "system": "digital Occurrence Book (OB)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "digital Occurrence Book (OB)", "country_label": "digital OB", "class": "record", "platform": "", "owner": "Ministry of Interior", "tiers": "Not stated; in procurement in April 2026"}
+  ],
+  "note": ""
+}

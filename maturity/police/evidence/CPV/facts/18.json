@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-16-cabo-verde-justica-portal-servicos-digitais-905-atos",
+  "facts": [],
+  "systems": [
+    {"system": "Portal da Justiça", "country_label": "Portal da Justiça", "class": "public", "platform": "web and mobile platform", "owner": "Ministério da Justiça, through IMIJ", "tiers": "online requests for registry acts, among them the criminal record certificate: 58 of 905 acts since the late-2024 launch, as at 16 December 2025"},
+    {"system": "Sistema de Informação de Justiça (SIJ)", "country_label": "SIJ", "class": "", "platform": "", "owner": "Ministério da Justiça, through IMIJ", "tiers": ""}
+  ],
+  "note": "A public portal for registry certificates, the criminal record certificate among them; SIJ is named without a description, and nothing is said of police stations."
+}

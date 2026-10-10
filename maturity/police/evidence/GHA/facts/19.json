@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's Ghana police row says rural stations record case files, complaints and incidents predominantly on paper and that it found no evidence of station-level digital case recording, scoring them 1, entirely paper-based; the row gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Station case files, complaints and incident records", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's Ghana police row says local stations record on paper files, lack modern technology in smaller towns and the hinterland, and have their records physically carried to CID headquarters in Accra for the central database with no remote synchronisation; the row gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Station case files, complaints and incident records", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Station case files, complaints and incident records", "country_label": "paper files", "class": "record", "platform": "paper", "owner": "Ghana Police Service", "tiers": "local stations, smaller towns and hinterland"},
+    {"system": "IPDMS", "country_label": "IPDMS", "class": "", "platform": "", "owner": "", "tiers": "said to be new in 2025, promotional or pilot, not rolled out to rural stations"},
+    {"system": "AFIS", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "Ghana Police Service, Criminal Data Service Bureau, CID headquarters", "tiers": "CID headquarters, Accra; 2011, only 3,700 fingerprints captured"},
+    {"system": "Central criminal records database", "country_label": "central database", "class": "identification", "platform": "", "owner": "Ghana Police Service, CID headquarters", "tiers": "CID headquarters, Accra; fed from stations' paper CID Forms 6 and 8"},
+    {"system": "Police clearance service", "country_label": "clearance", "class": "public", "platform": "", "owner": "Ghana Police Service", "tiers": "central; digitised 2023"}
+  ],
+  "note": "This source is on the study's exclude_sources list as an AI-assisted compilation; the two facts are what its Ghana police row states and are for the parent to exclude. IPDMS is named with no account of what it does, so it is unclassified."
+}

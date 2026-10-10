@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-15-gha-myjoyonline-traffitech-gh-detect-offences-fines-defaulters",
+  "facts": [],
+  "systems": [
+    {"system": "TRAFFITECH-GH", "country_label": "TRAFFITECH-GH, automated traffic law enforcement programme", "class": "single-function", "platform": "fixed, mobile and in-vehicle cameras, sensors, laser speed devices and handheld PDAs feeding a back office that validates offences and issues electronic notices by SMS", "owner": "Ghana Police Service, Motor Traffic and Transport Department", "tiers": "full implementation from 1 October 2026; contested notices heard at a chosen MTTD regional police station"},
+    {"system": "Ghana.gov", "country_label": "ghana.gov.gh", "class": "public", "platform": "", "owner": "", "tiers": "national; motorists review evidence, pay and contest traffic notices through it, also by mobile money and *222#"}
+  ],
+  "note": "No fact: the document describes traffic-offence detection and fine payment only, a single-function system, and nothing on station occurrence or case records."
+}

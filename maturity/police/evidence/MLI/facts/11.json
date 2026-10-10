@@ -1,0 +1,23 @@
+{
+  "slug": "2026-01-20-instat-mali-khi-deux-51-octobre-decembre-2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plateforme de délivrance du casier judiciaire",
+      "country_label": "digitalisation de la délivrance du casier judiciaire",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministère de la Justice et des Droits de l'Homme",
+      "tiers": "Project meeting with the mobile operators on 14 October 2025, full-scale test of the modules on 23 October 2025, training of trainers at Koulikoro 24 November to 4 December 2025"
+    },
+    {
+      "system": "Système Intégré de Gestion des Dossiers Judiciaires (SIGDJ)",
+      "country_label": "SIGDJ",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la Justice et des Droits de l'Homme",
+      "tiers": "Named only, in the training of trainers at Koulikoro, 24 November to 4 December 2025; what it does is not described"
+    }
+  ],
+  "note": "Statistical bulletin: the justice ministry's criminal-record portal and SIGDJ are named, and the internal-security sector's 2024 statistical yearbook was validated on 18-19 December 2025 with no content described; nothing is said on how police or gendarmerie stations record."
+}

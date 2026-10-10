@@ -1,0 +1,27 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's AI-assisted country review says its searches of State Department, UNODC, World Bank and government sources found no evidence of a digital case management, incident reporting or records system for the police or the gendarmerie, and no pilot or donor project for police digitalisation; it gives no date, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's AI-assisted country review says complaints are filed in person and rural stations 'likely' use handwritten procès-verbaux, an inference from finding no contrary evidence rather than a sourced statement; it gives no date, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "The document's own header marks its country figures as an AI-aided compilation, not sourced fact, and study.json lists it under exclude_sources. It names no police information system; it says criminal record certificates are issued manually by the Ministry of Justice."
+}

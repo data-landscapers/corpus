@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Portail e-Citizen",
+      "country_label": "Portail e-Citizen",
+      "class": "public",
+      "platform": "Planned on X-Road (exchange), MOSIP (identity) and Mojaloop (payments), hosted at the Data Center National",
+      "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique (MPTEN), with ADEN among the named actors",
+      "tiers": "National single entry point for the public, described prospectively; the criminal record extract (casier judiciaire) is listed among its services, answered by querying the Interior and Justice ministries' databases"
+    }
+  ],
+  "note": "The ministry's undated statement of the planned national digital architecture (published date is the retrieval date). It names no police force, station or station record system; its one term is the online request for a casier judiciaire through the citizen portal, which is the public class and gives no fact."
+}

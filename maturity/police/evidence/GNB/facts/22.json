@@ -1,0 +1,15 @@
+{
+  "slug": "2023-03-09-pj-guine-bissau-inauguracao-siic-sistema-integrado-informacao-criminal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema Integrado de Informação Criminal (SIIC)",
+      "country_label": "Centro do Sistema Integrado de Informação Criminal (SIIC)",
+      "class": "exchange",
+      "platform": "Built under the West African Police Information System programme (SIPAO/WAPIS), to which the Polícia Judiciária's director says it connects",
+      "owner": "Polícia Judiciária, under the Ministry of Justice and Human Rights; ECOWAS and European Union representatives present",
+      "tiers": "One reformulated centre inaugurated 9 March 2023 at the Polícia Judiciária's national directorate in Bissau; the director says it works in the Polícia Judiciária and will also be in the Guarda Nacional, its fiscal-action brigade, the Polícia de Ordem Pública and the migration services; no station or post outside the centre is named"
+    }
+  ],
+  "note": "No fact: the document describes the SIIC as a specialised centre that collects, processes and disseminates criminal information and lets police and investigative agencies exchange it, giving real-time access to information on crimes, criminals and suspects; it does not say that stations enter reports or cases in it, so it is not classed record. The class is a judgement between exchange and identification, and the parent may prefer the other."
+}

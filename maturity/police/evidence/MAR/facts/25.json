@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Rabat CCTV surveillance network and command centres", "country_label": "", "class": "surveillance", "platform": "Facial recognition, licence plate recognition, AI analytics, behaviour detection, biometrics and drones, as the essay's Rabat column lists them", "owner": "", "tiers": "Rabat; the essay rates deployment extensive and says data access rests with police and municipal authorities"}
+  ],
+  "note": "AI-written essay on smart cities in twelve cities. Its Rabat column lists camera surveillance, command centres, drones and body cameras, and names the DGSN among the entities; all of it is surveillance. Nothing on how a station records a report or a case."
+}

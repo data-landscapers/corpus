@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01 I-CEMAC (INTERPOL border-management project, Central Africa)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "I-24/7 (INTERPOL), under project I-CEMAC",
+      "country_label": "I-CEMAC",
+      "class": "border",
+      "platform": "INTERPOL I-24/7 network and databases",
+      "owner": "INTERPOL with the National Central Bureau; funded by CEMAC (EUR 4.9m, 2019-2024)",
+      "tiers": "four border posts completed by March 2024 (Eboro, Myo-Kye, Léconi, Port-Gentil) with automated database searches; National Central Bureau modernised"
+    }
+  ],
+  "note": "Border screening only, out of scope: INTERPOL's I-24/7 extended to four Gabonese border posts by March 2024; no station record."
+}

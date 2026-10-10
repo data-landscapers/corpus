@@ -1,0 +1,15 @@
+{
+  "slug": "2019-05-01-angola-minjusdh-boletim-justica-direitos-humanos-edicao-11",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Central archive of civil and criminal identification (source of the Certificado de Registo Criminal)",
+      "country_label": "arquivo central; Certificado de Registo Criminal",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministério da Justiça e dos Direitos Humanos, Direcção Nacional de Identificação Civil e Criminal",
+      "tiers": "A central archive organised and updated by the directorate, with fixed and mobile identification offices nationwide; no statement that it is digital (May 2019)"
+    }
+  ],
+  "note": "A justice ministry staff bulletin of May 2019 on courts' autonomy, human rights training and revenues. The police appear only as a body sending a trainee to Oslo; nothing on station records."
+}

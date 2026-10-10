@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-30-police-online-reporting-tool-vbg",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National reporting platform (www.vbg.pn.gov.mg)",
+      "country_label": "national reporting platform of the National Police",
+      "class": "public",
+      "platform": "Website and Android app; software not named",
+      "owner": "National Police; developed by the Ministry of Public Security, the Directorate of Information and Transmission Systems and the Police Women's Brigade",
+      "tiers": "Public, online, national; said to complement other channels for contacting security forces and local mechanisms on the ground"
+    }
+  ],
+  "note": "The only system is a public portal for filing and tracking reports of gender-based violence and missing persons (class public); nothing on records made at stations."
+}

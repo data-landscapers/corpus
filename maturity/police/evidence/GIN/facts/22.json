@@ -1,0 +1,15 @@
+{
+  "slug": "2023-08-24-arrete-conjoint-ac-2023-3803-tarifs-actes-de-justice",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Service du Casier judiciaire central",
+      "country_label": "Casier judiciaire central; bulletin n° 3 du casier judiciaire sécurisé",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministry of Justice and Human Rights, Service du Casier judiciaire central",
+      "tiers": "The central service supplies secured criminal-record bulletins to the tribunaux de première instance, which issue them; as of the order of 24 August 2023"
+    }
+  ],
+  "note": "A joint order fixing the fees for court registry acts, including criminal-record bulletins; a criminal-records service, class identification, with no digital system described; the registers of judicial police officers are named only as exempt from the registry's visa fee. Nothing on how stations record."
+}

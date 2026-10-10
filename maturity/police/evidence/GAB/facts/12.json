@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The Data Landscapers review's Gabon police row states that rural police stations predominantly record criminal cases and complaints on paper, with no evidence of any digital tool deployed at the rural point of service; the row gives no date for this, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper-based recording at rural police stations", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The Data Landscapers review's Gabon police row states that rural police stations predominantly use paper-based recording for criminal cases and complaints, and scores the cell 1; no date is given for the statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper-based recording at rural police stations", "class": "record"}
+  ],
+  "systems": [
+    {"system": "FARIAJ", "country_label": "FARIAJ", "class": "identification", "platform": "", "owner": "national police", "tiers": "described as an automated judicial-antecedents database for identity checks, announced February 2026; appears centralised, no rural deployment evidenced"},
+    {"system": "SITA", "country_label": "SITA", "class": "personnel", "platform": "", "owner": "national police", "tiers": "for promotions, announced February 2026; appears centralised"},
+    {"system": "standardised custody registers", "country_label": "", "class": "single-function", "platform": "paper", "owner": "", "tiers": "paper baseline confirmed at an APT roundtable; digitalisation discussed only as a future aspiration"},
+    {"system": "Forces de Police Nationale complaints page (fillable PDF forms)", "country_label": "plaintes-dépositions", "class": "public", "platform": "fillable PDF forms on fpn.ga", "owner": "Forces de Police Nationale", "tiers": "online form requiring in-person validation"}
+  ],
+  "note": "The document is an AI-assisted compilation by its own header, not sourced fact; only the Gabon police row was used."
+}

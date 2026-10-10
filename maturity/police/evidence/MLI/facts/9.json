@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-12-mali-digitalisation-casier-judiciaire",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ecasierjudiciaire.gouv.ml",
+      "country_label": "délivrance en ligne du casier judiciaire",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministère de la Justice et des Droits de l'Homme, built with the digital economy ministry through AGETIC",
+      "tiers": "Online for citizens across the national territory and the diaspora, processed centrally; official test on 10 February 2026"
+    }
+  ],
+  "note": "A public portal for criminal record extracts (and a second for nationality certificates) run by the justice ministry; not a station record system, and nothing is said on police or gendarmerie stations."
+}

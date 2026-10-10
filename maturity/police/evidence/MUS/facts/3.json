@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-govmu-justice-info-page",
+  "facts": [],
+  "systems": [
+    {"system": "Police hotlines 999 / 112, Crime Stoppers 148, toll-free Police-Complaint 800 2345", "country_label": "Hotline", "class": "public", "platform": "", "owner": "Mauritius Police Force", "tiers": "National telephone numbers listed on the government page; no description beyond the names"}
+  ],
+  "note": "Government directory page: its only system statement is the Judiciary's electronic case filing and case management begun April 2010 (courts, not police); nothing on station records."
+}

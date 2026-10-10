@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-08-lbr-police-online-clearance-us200k",
+  "facts": [],
+  "systems": [
+    {"system": "digital police clearance system", "country_label": "online police clearance platform", "class": "public", "platform": "", "owner": "Liberia National Police, with the Liberia Telecommunications Authority as the document names its partner", "tiers": "online, for members of the public to apply for and track a police clearance; introduced May 2026"}
+  ],
+  "note": "Only a public clearance portal is described; nothing on station records."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "2021-05-04-egypt-police-record-keeping-coi",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Egyptian Front for Human Rights told Canada's Immigration and Refugee Board in an interview of 26 January 2021 that police stations often do not have the technology to write reports on a computer, whereas at national security facilities the investigation report is written on a computer.",
+      "as_of": "2021-01-26",
+      "date_precision": "day",
+      "system": "police station reports (no system named)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Egyptian Front for Human Rights, from its monitoring since 2013, told Canada's Immigration and Refugee Board on 26 January 2021 that about half of criminal-investigation documents are written and signed by hand; arrest records are mostly written on a computer but by hand where the location lacks equipment, which may exist in Cairo or Alexandria but not in other parts of Egypt or some parts of Cairo.",
+      "as_of": "2021-01-26",
+      "date_precision": "day",
+      "system": "police and prosecution investigation documents (no system named)",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "No information system is named. The source also says, without detail, that the authorities have begun putting documents online; which documents and where is not stated. All statements rest on one EFHR interview the IRB could not corroborate."
+}

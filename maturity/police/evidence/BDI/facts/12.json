@@ -1,0 +1,8 @@
+{
+  "slug": "2025-12-04-digital-business-africa-transition-numerique-burundi-securite-routiere",
+  "facts": [],
+  "systems": [
+    {"system": "Centralised digital road-safety platform for National Police data (unnamed)", "country_label": "dispositif digital centralisé dédié à la gestion des données de la Police nationale", "class": "single-function", "platform": "", "owner": "Ministry of Finance, responsible for the digital economy, with the Police nationale", "tiers": "Being set up at 3 December 2025, pilot not yet launched; instant checks of licences, insurance, roadworthiness and vehicle status; a users' app to pay fines by mobile money and report road incidents; a geographic information system to follow patrols; interconnection of the Police, OTRACO, insurers, the revenue office, telecoms and the Police judiciaire"}
+  ],
+  "note": "The platform is described by road-traffic functions only (licence, insurance and vehicle checks, fines, patrol tracking), which is the single-function class; the document does not say that stations record reports or cases in it, and names no commissariat or post."
+}

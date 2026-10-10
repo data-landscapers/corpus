@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01 I-CEMAC (INTERPOL border-management project, Central Africa)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "INTERPOL I-24/7 network and databases, extended under Project I-CEMAC to border points and the National Central Bureau",
+      "country_label": "I-CEMAC",
+      "class": "border",
+      "platform": "INTERPOL I-24/7",
+      "owner": "INTERPOL, funded by CEMAC (EUR 4.9m, 2019-2024)",
+      "tiers": "selected border points (40 targeted across the six CEMAC states) and the six National Central Bureaus; no site or update is given for the Central African Republic"
+    }
+  ],
+  "note": "A border-screening project (passengers and travel documents) that lists the Central African Republic as one of six member states with no country-specific detail; out of scope for station records."
+}

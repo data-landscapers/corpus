@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-15-fasoamazone-oni-cib-aes-enrolment",
+  "facts": [],
+  "systems": [
+    {"system": "CIB-AES biometric identity card enrolment", "country_label": "Carte d'Identité Biométrique AES (CIB-AES)", "class": "", "platform": "", "owner": "Office national d'identification (ONI)", "tiers": "enrolment sites in Ouagadougou, six of them police commissariats, to 16 September 2026"}
+  ],
+  "note": "National identity-card enrolment hosted at police commissariats; the civil identity system falls in no class of the typology, and the document states nothing on station records."
+}

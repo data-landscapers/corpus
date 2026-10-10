@@ -1,0 +1,15 @@
+{
+  "slug": "2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système de E-Justice",
+      "country_label": "Système de E-Justice (Casier Judiciaire, Jugement Supplétif)",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministry of Justice and Human Rights (MJDH)",
+      "tiers": "Planned: initiative 4.4.16 of the Guinée Digitale 2023-2027 strategy, costed at 2.75 million US dollars over 12 months"
+    }
+  ],
+  "note": "Passages file; the national digital strategy plans a justice ministry e-justice system covering the criminal record and supplementary judgments, class identification by its criminal-record content; the 'fichier central' is a register of critical infrastructure. The passages name no police or gendarmerie system."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2018-01-01-adii-facilitation-dematerialisation-douanes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "BADR",
+      "country_label": "système de dédouanement en ligne BADR",
+      "class": "border",
+      "platform": "",
+      "owner": "Administration des Douanes et Impôts Indirects (ADII)",
+      "tiers": "Customs offices; ports of Casablanca, Agadir, Tanger Med and Tanger and Tanger airport are named for the exchange of import-control results"
+    }
+  ],
+  "note": "A customs document on paperless clearance in 2018; the term hit is the minutes of a company's general meeting in a list of documents no longer required, and customs is out of the study's scope."
+}

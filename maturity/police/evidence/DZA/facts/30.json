@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table says rural police stations in Algeria, mainly Gendarmerie Nationale brigades, record complaints, case files and incident reports on paper as handwritten procès-verbaux, which are then sent to prosecutors; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbal", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table says it found no evidence of digital recording at rural police or gendarmerie facilities in Algeria, and that digitisation efforts cover urban justice, traffic fines and online submissions, not the first logging of a rural case; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbal", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Online pre-complaint", "country_label": "digital pre-complaints online", "class": "public", "platform": "", "owner": "", "tiers": "online; the procès-verbal must still be signed in person at the station within 30 days"}
+  ],
+  "note": "Passages only (the paragraphs naming Algeria). The source is on the study's exclude_sources list as an AI-assisted compilation; the two facts are recorded as the document states them and are the parent's to hold out of the profile."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2014-11-25-guinea-national-identity-card-coi-query-response",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National identity card issuance and its central database",
+      "country_label": "carte nationale d'identité",
+      "class": "single-function",
+      "platform": "Laminated paper card with a left index fingerprint; a central database assigning a fifteen-digit national identification number under the 1995 decree; cards made by Sabari Technology",
+      "owner": "The police service responsible for forensic identification, under the ministry of security",
+      "tiers": "Issued at central police stations (commissariats centraux), seven of them in Conakry; as of 2011 to 2014"
+    }
+  ],
+  "note": "A 2014 account of how the police issue the national identity card; one function only, the issue of an identity document, and nothing on how stations record reports or cases."
+}

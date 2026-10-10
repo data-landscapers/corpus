@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-26-national-id-cctv-facial-recognition-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "CCTV facial recognition network", "country_label": "CCTV network with facial recognition, proposed for six cities", "class": "surveillance", "platform": "", "owner": "National Police Service, with the Ministry of Interior integrating the National Registration Bureau database", "tiers": "Planned for Nairobi, Mombasa, Kisumu, Nakuru, Eldoret and Nyeri; in procurement in June 2026"},
+    {"system": "Integrated Command, Control and Communication Centre", "country_label": "IC3", "class": "surveillance", "platform": "", "owner": "National Police Service", "tiers": "Not stated"},
+    {"system": "Facial recognition system within the IC3", "country_label": "", "class": "surveillance", "platform": "NEC technology", "owner": "National Police Service", "tiers": "CCTV along major roads and highways, launched 2018"}
+  ],
+  "note": "The document covers a planned camera and facial recognition network only; surveillance is a noted class and nothing is said of station records."
+}

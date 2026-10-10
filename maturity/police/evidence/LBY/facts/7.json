@@ -1,0 +1,57 @@
+{
+  "slug": "2025-12-31-amn-tarabulus-tudashshin-manzumat-al-tahawwul-al-raqami",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The Libyan News Agency reports that the Tripoli Security Directorate inaugurated its digital transformation system on 31 December 2025, among whose components is a system for the evidence-gathering (investigation) reports of police stations and traffic sections; the report does not say whether the first complaint is also entered.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "منظومة محاضر جمع الإستدلالات بمراكز الشرطة وأقسام المرور",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Libyan News Agency reports that the Tripoli Security Directorate itself launched the system at its headquarters on 31 December 2025, with the Attorney General, the security director and a representative of the acting Minister of Interior present; no partner, vendor or source of finance is named.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "منظومة محاضر جمع الإستدلالات بمراكز الشرطة وأقسام المرور",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Tripoli Security Directorate inaugurated its digital transformation system, including the police-station investigation-reports system, on 31 December 2025, according to the Libyan News Agency.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "منظومة محاضر جمع الإستدلالات بمراكز الشرطة وأقسام المرور",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "not-published",
+      "fact": "The Libyan News Agency's report of the 31 December 2025 launch names the system as one for police stations and traffic sections of the Tripoli Security Directorate and gives no count of stations using it, no total and no station outside Tripoli.",
+      "as_of": "2025-12-31",
+      "date_precision": "day",
+      "system": "منظومة محاضر جمع الإستدلالات بمراكز الشرطة وأقسام المرور",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {"system": "منظومة التحول الرقمي (digital transformation system)", "country_label": "منظومة التحول الرقمي", "class": "", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "Tripoli Security Directorate; umbrella for the components below"},
+    {"system": "منظومة محاضر جمع الإستدلالات بمراكز الشرطة وأقسام المرور (investigation-reports system)", "country_label": "منظومة محاضر جمع الإستدلالات", "class": "record", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "police stations and traffic sections of the Tripoli directorate"},
+    {"system": "منظومة المراقبة المرورية والأمنية المعززة بالذكاء الإصطناعي (AI-assisted traffic and security monitoring)", "country_label": "منظومة المراقبة المرورية والأمنية", "class": "surveillance", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "not stated"},
+    {"system": "منظومة الإستعلام الأمني (security inquiry system)", "country_label": "منظومة الإستعلام الأمني", "class": "", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "not stated"},
+    {"system": "منظومة تسجيل المركبات الألية (motor vehicle registration system)", "country_label": "منظومة تسجيل المركبات الألية", "class": "single-function", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "not stated"},
+    {"system": "منظومة الاتصالات النوعية (specialised communications system)", "country_label": "منظومة الاتصالات النوعية", "class": "", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "not stated"},
+    {"system": "منظومة الإحصاء الجنائي (criminal statistics system)", "country_label": "منظومة الإحصاء الجنائي", "class": "statistics", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "not stated"},
+    {"system": "منظومة المعلومات الجغرافية (geographic information system)", "country_label": "منظومة المعلومات الجغرافية", "class": "", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "not stated"},
+    {"system": "المنظومة الإدارية والمالية (administrative and financial system)", "country_label": "المنظومة الإدارية والمالية", "class": "", "platform": "", "owner": "Tripoli Security Directorate", "tiers": "not stated"}
+  ],
+  "note": "The document names the components without describing how any works: how the record is made (connected, local or keyed elsewhere) is not stated, so no `made` fact."
+}

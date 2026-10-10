@@ -1,0 +1,8 @@
+{
+  "slug": "2015-09-21-wapis-west-african-police-information-system-launched",
+  "facts": [],
+  "systems": [
+    {"system": "West African Police Information System (WAPIS)", "country_label": "WAPIS", "class": "", "platform": "WAPIS, implemented by INTERPOL", "owner": "INTERPOL, funded by the European Union with ECOWAS", "tiers": "For Ghana the document says only that the programme was to be launched on 29 September 2015; in participating countries the system sits in a national Data Collection and Registration Centre"}
+  ],
+  "note": "No fact: for Ghana the document gives only a forthcoming launch date, and it describes WAPIS generally as a central system for collecting and sharing police data, never saying that stations enter their cases in it, so the class is left empty."
+}

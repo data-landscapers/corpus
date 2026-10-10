@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The Data Landscapers review says it found no evidence of digital case management or record-keeping in rural police stations or gendarmerie brigades and no national police IT system for rural use; no date is given, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "station record-keeping (no system named)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Data Landscapers review concludes that rural police stations and gendarmerie brigades are entirely paper-based, citing poor recordkeeping of arrests and detentions (US State Department, 2022) and records destroyed in the 2013 conflict; no date is given for the conclusion, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "station record-keeping (no system named)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "MINUSCA donation of computers, printers and solar power to Baoro police station and gendarmerie (2025), to draft procès-verbaux and investigation reports",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "UN MINUSCA (donor)",
+      "tiers": "Baoro, a rural station; described as not yet implemented widely"
+    }
+  ],
+  "note": "The source is listed in study.json exclude_sources (an AI-assisted compilation by its own header); facts recorded as stated for the parent to treat accordingly. Its conclusion is the author's inference from finding no evidence, not a sourced statement."
+}

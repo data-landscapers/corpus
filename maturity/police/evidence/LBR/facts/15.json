@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-13-liberia-orange-lnp-security-mou-911-call-centre-analyst",
+  "facts": [],
+  "systems": [
+    {"system": "LNP call center and emergency number 911", "country_label": "911", "class": "public", "platform": "", "owner": "Liberia National Police; Orange Liberia to refurbish the call centre, give technical support for reactivating 911 and supply computers and telecommunications equipment under an MoU signed 10 March 2026", "tiers": "the police call centre; 911 to be reactivated"},
+    {"system": "Closed User Group (CUG) communication plan", "country_label": "CUG", "class": "enabling", "platform": "Orange Liberia mobile network", "owner": "Orange Liberia, for the Liberia National Police", "tiers": "unlimited calls and SMS among active officers"}
+  ],
+  "note": "An MoU on security cooperation, an emergency number, phone plans and training; nothing on station records."
+}

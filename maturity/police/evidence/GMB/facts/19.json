@@ -1,0 +1,23 @@
+{
+  "slug": "2022-09-01-gambia-national-cybersecurity-strategy-action-plan-2022-2026-revised",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cybercrime Complaint Center web portal",
+      "country_label": "Cybercrime Complaint Center",
+      "class": "public",
+      "platform": "",
+      "owner": "not stated; complaints to be referred to law enforcement such as a police Cybercrime Response Unit, in collaboration with GM-CSIRT",
+      "tiers": "Planned in the 2022-2026 strategy: a website as the primary point for the public to report internet-related crime"
+    },
+    {
+      "system": "National Computer Forensic Laboratory (NCFL)",
+      "country_label": "National Computer Forensic Laboratory",
+      "class": "identification",
+      "platform": "",
+      "owner": "not stated; to support law enforcement operations",
+      "tiers": "Planned in the 2022-2026 strategy: one national laboratory and repository for computer crime evidence"
+    }
+  ],
+  "note": "A cybersecurity strategy. The Gambia Police Force appears as the investigator of cybercrime, with a Police Cybercrime Response Unit to be established; nothing on how stations record reports or cases, and no police records system is named."
+}

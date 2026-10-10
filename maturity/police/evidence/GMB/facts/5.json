@@ -1,0 +1,27 @@
+{
+  "slug": "2026-03-24 Gambia Police must transition from paper documentation to digitalised mode - IGP",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Inspector General of Police, Seedy Mukhtar Touray, told his quarterly media briefing at Police Headquarters in Banjul that the Gambia Police Force needs to move from paper-based documentation to a digitalised mode; the briefing is undated, so the document's published date is used.",
+      "as_of": "2026-03-24",
+      "date_precision": "day",
+      "system": "paper-based documentation",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The Inspector General of Police described the force's documentation as paper-based and digitalisation of police workflow and records management as something still to come, naming no digital system in use; the briefing is undated, so the document's published date is used.",
+      "as_of": "2026-03-24",
+      "date_precision": "day",
+      "system": "paper-based documentation",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "The statement is about the force as a whole; it names no station, no system and no plan or budget for the transition."
+}

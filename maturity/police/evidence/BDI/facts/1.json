@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-05-wearetech-burundi-e-justice-connectivite",
+  "facts": [],
+  "systems": [
+    {"system": "E-Justice", "country_label": "E-Justice", "class": "exchange", "platform": "", "owner": "", "tiers": "In preparation; planned to link the whole penal chain, from the judicial police through the prosecution and the courts to the prisons, with online filing of some complaints and case tracking for citizens"}
+  ],
+  "note": "E-Justice is described as a platform being prepared to link the actors of the penal chain and keep case files, which is the exchange class; the document does not say that police stations enter reports or cases in it, and gives no date for the announcement. The Makamba digitisation kits and 15,000 digitised files are in justice ministry structures and courts, not police."
+}

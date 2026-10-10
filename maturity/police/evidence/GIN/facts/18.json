@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-innovatrics-digitalization-police-investigation-west-africa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Automated Biometric Identification System (ABIS)",
+      "country_label": "ABIS of the police technique et scientifique",
+      "class": "identification",
+      "platform": "Innovatrics multimodal ABIS (fingerprint, palm print, face), with a criminal case management module that links biometric evidence between crime scenes and prepares court exhibits",
+      "owner": "National Police of Guinea, police technique et scientifique; supplied by Innovatrics",
+      "tiers": "Conakry, at the only police department in the country trained to process prints; 7,500 paper fingerprint cards migrated and 5,000 new criminal record cards enrolled in one month"
+    }
+  ],
+  "note": "A vendor case study of a fingerprint identification system at the forensic police in Conakry; class identification, and its case management module handles biometric evidence, not the reports or case files a station takes, so no fact. The document carries no date of deployment."
+}

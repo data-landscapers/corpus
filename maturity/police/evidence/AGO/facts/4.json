@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-02-nj-bi-tratado-a-partir-do-domicilio-mediante-taxa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Online criminal record certificate consultation and extraction (unnamed product)",
+      "country_label": "consulta e extracção do certificado de registo criminal 'online'",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministério da Justiça e dos Direitos Humanos",
+      "tiers": "Not yet live: the minister said on 2 July 2026 it should be implemented within six months, once reliability tests end"
+    }
+  ],
+  "note": "About identity-card issuance; the only system in the study's field is a justice ministry online criminal record certificate service still under test, a public-facing certificate service, not a station record system."
+}

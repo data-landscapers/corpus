@@ -1,0 +1,27 @@
+{
+  "slug": "2023-03-31-irb-coc-drc-police-documents-wanted-notices",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Executive Secretary of Héritiers de la justice, after consulting lawyers at the South Kivu Court of Appeal, told Canada's IRB on 9 March 2023 that police documents in criminal proceedings are typed and generally identical across the country, while the record of parties' hearings is handwritten in most cases, and that a case is referred to the police by a written and signed complaint.",
+      "as_of": "2023-03-09",
+      "date_precision": "day",
+      "system": "Procès-verbaux (statements and reports) of the PNC and its judicial police officers",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The DRC programme officer of the Ligue des droits de la personne dans la région des Grands Lacs told Canada's IRB on 15 March 2023 that a police statement must by law be written out and signed by the drafting officer on pain of nullity, that police documents differ in format, colour and type of paper, and supplied blank paper samples of findings, arrest and witness testimony reports.",
+      "as_of": "2023-03-15",
+      "date_precision": "day",
+      "system": "Procès-verbaux (statements and reports) of the PNC and its judicial police officers",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "No information system is named. The response also cites the US reciprocity schedule (undated) that a copy of the criminal record is issued by the justice department's Inspector General after proof of identity and fingerprints are given at the local police office in Kinshasa or Goma; no system is described for it."
+}

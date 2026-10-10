@@ -1,0 +1,31 @@
+{
+  "slug": "2025-05-09-ministerio-seguridad-anteproyecto-2026-digitalizacion-afis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digitalización integral del Ministerio de Seguridad Nacional",
+      "country_label": "digitalización integral del Ministerio de Seguridad Nacional",
+      "class": "",
+      "platform": "",
+      "owner": "Ministerio de Seguridad Nacional",
+      "tiers": "the ministry; said to cover police processes, human resources management, administration and archive; no station or tier stated"
+    },
+    {
+      "system": "AFIS",
+      "country_label": "base de datos criminales (AFIS)",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministerio de Seguridad Nacional",
+      "tiers": ""
+    },
+    {
+      "system": "CNEDOGE",
+      "country_label": "Centro Nacional de Emisión de Documentos de Guinea Ecuatorial (CNEDOGE)",
+      "class": "",
+      "platform": "",
+      "owner": "CNEDOGE, under its director general",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: on 2025-05-09 the Ministerio de Seguridad Nacional put to the Finance Ministry's budget conference, as proposals for 2026 still to be prioritised, a whole-ministry digitalisation 'including police processes', HR, administration and archive, and the reactivation of the criminal database (AFIS). It does not say that stations record reports or cases digitally, so the digitalisation is unclassified; AFIS needing reactivation is an identification-class statement. Comisarías are named only for revenue measures (a set amount per station, Treasury collection points in each)."
+}

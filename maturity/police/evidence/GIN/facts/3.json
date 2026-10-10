@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-09-digitalisation-casier-judiciaire-guinee",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plateforme de digitalisation des bulletins du casier judiciaire",
+      "country_label": "digitalisation des bulletins du casier judiciaire",
+      "class": "identification",
+      "platform": "Platform built by Louba Services; requests from a smartphone, biometric comparison of the applicant's photograph with the identity document",
+      "owner": "Ministry of Justice, Direction centrale du casier judiciaire",
+      "tiers": "Launch of the process announced in 2026; citizens apply online and the competent services process the request; no deployment figures"
+    }
+  ],
+  "note": "The launch of digital issue of criminal-record bulletins by the justice ministry; a criminal-records system, class identification, not a station record, so no fact."
+}

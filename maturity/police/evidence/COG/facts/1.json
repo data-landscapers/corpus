@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-28-cg-feuille-de-route-numerique-tribune",
+  "facts": [],
+  "systems": [
+    {"system": "Services numériques de l'État (casier judiciaire)", "country_label": "Services numériques de l'État", "class": "public", "platform": "", "owner": "ministère des Postes, des Télécommunications et de l'Économie numérique, under an interministerial task force", "tiers": "planned: the criminal-record extract is in the first wave of public services to be put online within two years; no deployment stated"}
+  ],
+  "note": "Opinion piece on the digital roadmap; names the criminal-record extract as a public service to be digitalised and says nothing of police stations or their records."
+}

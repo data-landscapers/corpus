@@ -1,0 +1,10 @@
+{
+  "slug": "2019-03-22-dgpr-sipao-extension-parakou",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'Information des Polices d'Afrique de l'Ouest (SIPAO)", "country_label": "SIPAO; centre de collecte de données CDSP-SIPAO", "class": "", "platform": "SIPAO (WAPIS), implemented by INTERPOL under ECOWAS", "owner": "Police républicaine, at the Centre de Documentation de la Sécurité Publique (CDSP); programme financed by the European Union", "tiers": "Benin joined 24 November 2011; data collection centre inaugurated 14 September 2015 at the CDSP, where more than 15 police and customs officers on 24-hour duty process police data for the whole national territory; network works begun December 2018 to connect 5 remote sites in Parakou and 4 in Cotonou by end March 2019, under technical test at 22 March 2019"},
+    {"system": "plateforme régionale d'échange électronique d'informations de police (SIPAO, niveau régional)", "country_label": "", "class": "exchange", "platform": "", "owner": "ECOWAS", "tiers": "planned by 2022 between member states and Mauritania"},
+    {"system": "I-24/7", "country_label": "système de communication sécurisée d'INTERPOL I-24/7", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "international exchange of police data, stated as a possibility for beneficiary countries"}
+  ],
+  "note": "No fact: the force describes SIPAO as a centralised national system for collecting, processing and analysing police data, keyed by officers at the CDSP, with remote sites being connected in Parakou and Cotonou, but does not say that stations enter their reports or cases in it, which the typology requires before the system is classed record. The parent should weigh this one: it is the only document in the slice describing the national system's reach."
+}

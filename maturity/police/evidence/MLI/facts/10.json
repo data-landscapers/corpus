@@ -1,0 +1,23 @@
+{
+  "slug": "2026-02-12-maliweb-justice-casier-nationalite-en-ligne",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ecasierjudiciaire.gouv.ml",
+      "country_label": "casier judiciaire en ligne",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministry of Justice; portal built by AGETIC",
+      "tiers": "Online for citizens, the diaspora and remote areas, applying with the NINA number; judges and prosecutors process files in personal workspaces; launched 10 February 2026"
+    },
+    {
+      "system": "E-verif",
+      "country_label": "E-verif",
+      "class": "public",
+      "platform": "",
+      "owner": "AGETIC",
+      "tiers": "Authenticity check of documents issued by the portals, each carrying a unique code"
+    }
+  ],
+  "note": "A public portal for criminal record extracts and nationality certificates run by the justice ministry; not a station record system, and nothing is said on police or gendarmerie stations."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-08-wearetech-madagascar-digital-criminal-records-platform",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital criminal records platform",
+      "country_label": "digital criminal records platform",
+      "class": "identification",
+      "platform": "",
+      "owner": "Judicial authorities (announced at the Supreme Court's 65th anniversary, 2 June 2026)",
+      "tiers": "In development; no tier stated"
+    },
+    {
+      "system": "Logipenal",
+      "country_label": "Logipenal",
+      "class": "",
+      "platform": "",
+      "owner": "The courts",
+      "tiers": "One of six applications (Logipenal, Logicivil, INFO, PAC, ILO, IGAP) in use within courts for civil, criminal, commercial and land cases; authorities acknowledge they do not yet cover the whole territory"
+    }
+  ],
+  "note": "Justice-sector systems only: a criminal records platform in development (identification) and the courts' own case applications, which are not the police's and are named without a link to police or gendarmerie. Nothing on station records."
+}

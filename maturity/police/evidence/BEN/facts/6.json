@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states that no evidence was found of digital case recording at rural stations of Benin's Republican Police, and no rural case management system, pilot or IT system; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "procès-verbaux of the Republican Police", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural Republican Police officers produce handwritten procès-verbaux for complaints and incidents, with paper copies charged at 300 FCFA a page by the justice ministry, and scores the country 1; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "procès-verbaux of the Republican Police", "class": "record"}
+  ],
+  "systems": [
+    {"system": "procès-verbaux of the Republican Police", "country_label": "procès-verbaux (PV)", "class": "record", "platform": "paper", "owner": "Police républicaine", "tiers": "rural stations, handwritten"},
+    {"system": "INTERPOL WAPIS", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "described only as regional, not station-level"}
+  ],
+  "note": "The document's own header marks it an AI-assisted compilation, and study.json lists it under exclude_sources; the facts are what its Benin police row states, and its statement is of evidence not found rather than of an observed absence."
+}

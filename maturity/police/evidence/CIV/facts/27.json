@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-18-cote-divoire-gestion-des-informations-policieres-btip-ctip",
+  "facts": [],
+  "systems": [
+    {"system": "Centre de Traitement des Informations Policières (CTIP)", "country_label": "CTIP", "class": "", "platform": "", "owner": "Ministère de l'Intérieur et de la Sécurité; directed by a Commissaire Principal de Police", "tiers": "central, at Cocody in Abidjan"},
+    {"system": "Bureaux de Traitement des Informations Policières (BTIP)", "country_label": "BTIP", "class": "", "platform": "", "owner": "Ministère de l'Intérieur et de la Sécurité, through the CTIP", "tiers": "recently installed, as of 18-20 November 2024, inside the commissariats of the Préfecture de Police d'Abidjan and the brigades of the Première Légion de Gendarmerie Territoriale d'Abidjan; no count of units given"}
+  ],
+  "note": "The interior ministry reports a training of 18 to 20 November 2024 for Abidjan commissariat heads and gendarmerie brigade commanders on managing the police information processing offices newly placed in their units and on using police data methodically in investigations. It does not say what is entered at those offices, or that a report or a case is recorded digitally when taken, so the system is left unclassified and gives no fact; the parent may judge otherwise, since this is the one document in the slice that puts a police information system inside stations, and only in Abidjan."
+}

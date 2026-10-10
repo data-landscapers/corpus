@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-assessing-socioeconomic-impacts-of-dpi",
+  "facts": [],
+  "systems": [
+    {"system": "SECUROUTE", "country_label": "SECUROUTE", "class": "single-function", "platform": "X-Road", "owner": "Government of Benin", "tiers": "digitalises vehicle-related services: vehicle registration, roadworthiness inspections, insurance verification and the motor vehicle tax, with fines issued for non-compliance; the national police took part in the study's stakeholder workshops"}
+  ],
+  "note": "SECUROUTE covers vehicle services and road fines only: single-function, so no fact for station records."
+}

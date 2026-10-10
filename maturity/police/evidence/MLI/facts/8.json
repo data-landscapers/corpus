@@ -1,0 +1,62 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's Mali police row, scored 1, states that rural police stations record case files, complaints and incidents on paper, the 2024 Code de procédure pénale requiring officers to draft procès-verbaux on the spot and sign each page, with no mention of digital drafting; no date is given for the finding, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Procès-verbaux and station registers on paper",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay states that initial capture at the station is paper-based: handwritten procès-verbaux with originals sent to the prosecutor, physical numbered and initialled custody registers, and monthly reports on case files; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Procès-verbaux and station registers on paper",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "The essay states that the digital initiatives it found sit at higher levels of the justice system and not in station-level recording, and that it found no rural digital pilot for police; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Procès-verbaux and station registers on paper",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SIG-DJ",
+      "country_label": "SIG-DJ",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Judicial dossier management, 2025; a higher-level justice system, not at stations"
+    },
+    {
+      "system": "WAPIS",
+      "country_label": "WAPIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Data centralisation, 2015; converts existing paper data or stores centrally, not station-level recording"
+    },
+    {
+      "system": "Online casier judiciaire",
+      "country_label": "casier judiciaire",
+      "class": "public",
+      "platform": "",
+      "owner": "",
+      "tiers": "Online, 2026; higher-level justice system"
+    }
+  ],
+  "note": "An AI-assisted compilation by its own header, and listed in study.json exclude_sources; facts recorded as the document states them, for the parent to treat under that rule."
+}

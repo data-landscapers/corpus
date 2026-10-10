@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The Data Landscapers 54-country review, an AI-assisted compilation by its own header, scores Botswana's rural police stations 1 and says they predominantly record case files, complaints and incident reports on paper, with no evidence found of digital recording at rural level; the document dates the statement no closer than its publication, 2026-03-31.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Occurrence Book (paper)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The same review says the Occurrence Book is the standard paper tool for logging crimes at stations, that police procedures remain manual, especially in rural areas, and that central systems such as criminal records rely on paper inputs from stations; undated in the document, so its publication date of 2026-03-31 is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Occurrence Book (paper)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Occurrence Book (paper)",
+      "country_label": "Occurrence Book (OB)",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Botswana police",
+      "tiers": "police stations, as the review states it"
+    },
+    {
+      "system": "Central criminal records",
+      "country_label": "criminal records",
+      "class": "identification",
+      "platform": "",
+      "owner": "",
+      "tiers": "central, fed by paper inputs from stations"
+    }
+  ],
+  "note": "Passages file; only the Botswana Police row is in the study's field. The source is on study.json's exclude_sources list as an AI-assisted compilation: the facts are recorded as the document states them and the parent decides their use. The row also cites the president's 2025 remark that paperwork takes 60 per cent of officers' time, not recorded here as it is another document's statement."
+}

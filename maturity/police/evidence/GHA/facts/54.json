@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-23-graphic-police-700-digital-enrolment-stations-nationwide",
+  "facts": [],
+  "systems": [
+    {"system": "Digital enrolment stations", "country_label": "digital enrolment stations", "class": "", "platform": "", "owner": "Ghana Police Service; announced by the Minister for the Interior", "tiers": "more than 700 to be rolled out across the country by the end of 2026, announced 21 August 2026"},
+    {"system": "TRAFITECH", "country_label": "TRAFITECH, automated road traffic enforcement system", "class": "single-function", "platform": "", "owner": "Ghana Police Service", "tiers": "named as in use by the Police Service"},
+    {"system": "National Criminal Automated Biometric Identification System", "country_label": "National Criminal Automated Biometric Identification System", "class": "identification", "platform": "", "owner": "Ghana Police Service", "tiers": "named as in use by the Police Service"}
+  ],
+  "note": "No fact: the document does not say what is enrolled at the digital enrolment stations or that reports or cases are recorded there, so their class is left empty; the other two systems are noted classes."
+}

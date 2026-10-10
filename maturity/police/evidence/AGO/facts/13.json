@@ -1,0 +1,47 @@
+{
+  "slug": "2023-01-01-ago-plano-de-desenvolvimento-nacional-20232027",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Centros integrados de segurança pública",
+      "country_label": "centros integrados de segurança pública",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "The ministry responsible for public security (Programme 48)",
+      "tiers": "Planned: to be built, 2023-2027; no number or place stated"
+    },
+    {
+      "system": "Video-surveillance system",
+      "country_label": "sistema de videovigilância",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "The ministry responsible for public security (Programme 48)",
+      "tiers": "Planned reinforcement in Luanda and the other provinces, and in the prison system"
+    },
+    {
+      "system": "Forensic laboratory and school",
+      "country_label": "laboratório e escola forense",
+      "class": "identification",
+      "platform": "",
+      "owner": "The ministry responsible for public security (Programme 48)",
+      "tiers": "Planned: to be implemented, 2023-2027"
+    },
+    {
+      "system": "Telecommunications, technology and information systems infrastructure",
+      "country_label": "infraestrutura de telecomunicações, tecnologias e sistemas de informação",
+      "class": "enabling",
+      "platform": "",
+      "owner": "The ministry responsible for public security (Programme 48)",
+      "tiers": "Planned improvement, 2023-2027; no tier stated"
+    },
+    {
+      "system": "Analytic systems for detecting and monitoring criminal activity",
+      "country_label": "sistemas analíticos de detecção e monitorização de actividades criminosas",
+      "class": "",
+      "platform": "",
+      "owner": "The ministry responsible for public security (Programme 48)",
+      "tiers": "Planned (priority 48.1.2); what they do is not described beyond analytic capacity against economic crime"
+    }
+  ],
+  "note": "The national plan's public security programme (48) lists surveillance centres, video surveillance, a forensic laboratory, ICT infrastructure and speed radars as planned actions; it names no system for recording occurrences or cases at stations."
+}

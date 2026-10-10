@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-12-mus-national-assembly-national-crime-agency-bill-2026",
+  "facts": [],
+  "systems": [
+    {"system": "National Flagging Database", "country_label": "National Flagging Database", "class": "identification", "platform": "", "owner": "Director-General of the National Crime Agency (proposed in the Bill)", "tiers": "Electronic register of entities of interest, searched and entered by the NCA and the Police Force; proposed in a bill, not yet set up"},
+    {"system": "Digital Forensic Laboratory", "country_label": "Digital Forensic Laboratory", "class": "identification", "platform": "", "owner": "National Crime Agency (proposed in the Bill)", "tiers": "A department of the proposed NCA; named in the arrangement of clauses only"}
+  ],
+  "note": "A bill: it proposes an electronic deconfliction register shared by the NCA and the Police, and says nothing of how stations record reports or cases."
+}

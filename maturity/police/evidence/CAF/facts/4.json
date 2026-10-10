@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-28-rca-huawei-modernisation-numerique-administration-data-center-tier-iii",
+  "facts": [],
+  "systems": [
+    {
+      "system": "eLTE military radio transmission network for the defence and security forces, the police and the gendarmerie",
+      "country_label": "réseau de transmission radio militaire eLTE",
+      "class": "enabling",
+      "platform": "Huawei eLTE",
+      "owner": "Ministère de l'Économie numérique, des Postes et Télécommunications, in partnership with Huawei (planned, discussed 26 May 2026)",
+      "tiers": "defence and security forces, police and gendarmerie; planned, not stated as deployed"
+    }
+  ],
+  "note": "The only item in the police field is a planned eLTE radio network for police and gendarmerie, an enabling system; nothing on station records. The 'Fichier central des projets' is a public-projects database, not a police file."
+}

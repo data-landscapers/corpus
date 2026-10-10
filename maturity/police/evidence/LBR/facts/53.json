@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-22-liberia-lnp-starlink-vehicle-procurement-fpa",
+  "facts": [],
+  "systems": [
+    {"system": "Liberia National Police internet connectivity", "country_label": "internet services under an official institutional contract", "class": "enabling", "platform": "LIBTELCO/LTC Mobile; the police say no facility uses Starlink (statement of 21 August 2026)", "owner": "Liberia National Police, supplied by the Liberia Telecommunications Corporation", "tiers": "police facilities; which and how many not stated"}
+  ],
+  "note": "A police statement on its internet supplier and vehicle purchases; connectivity is an enabling item and the document says nothing on how stations record."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-20-bfa-moussonews-demarches-administratives-en-ligne-usagers",
+  "facts": [],
+  "systems": [
+    {"system": "Online criminal-record (casier judiciaire) request", "country_label": "demande de casier judiciaire en ligne", "class": "public", "platform": "", "owner": "", "tiers": "online, 750 FCFA a request; a user without a smartphone applied at a commissariat instead"}
+  ],
+  "note": "Feature on users' difficulties with online procedures; a commissariat appears only as the place a criminal-record request was made in person. Nothing on station records."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Khidmaty",
+      "country_label": "portail Khidmaty",
+      "class": "public",
+      "platform": "",
+      "owner": "",
+      "tiers": "Central government portal through which citizens ask online for a criminal-record extract and deal with road-traffic offences, per the minister's preface; no tier stated"
+    }
+  ],
+  "note": "The held excerpt (front matter, preface, executive summary) names no police or gendarmerie system; its one term hit is the criminal-record request on the Khidmaty citizen portal, a public-class service. The excerpt is cut off before annex 3, the list of government systems."
+}

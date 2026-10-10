@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-17-cpv-nosi-entrega-sistema-de-informacao-da-justica",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação da Justiça (SIJ), componente Sistema de Informação do Processo Penal (SIPP)", "country_label": "SIJ / SIPP", "class": "exchange", "platform": "developed by NOSi", "owner": "Ministério da Justiça; maintenance and development passing to the Instituto de Modernização e Inovação da Justiça (IMIJ) with NOSi, case management to the courts", "tiers": "in operation in all comarcas, from the first to the last jurisdiction (Minister of Justice, March 2026)"}
+  ],
+  "note": "The document describes SIPP as the courts' criminal-process system, handed by NOSi to the Ministry of Justice; it does not mention the police or their stations, so it gives no fact and is entered for dpi.mis--justice."
+}

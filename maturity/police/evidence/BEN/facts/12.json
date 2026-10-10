@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-01-dgpr-afis-mise-en-exploitation",
+  "facts": [],
+  "systems": [
+    {"system": "fichier automatisé des empreintes biométriques (AFIS)", "country_label": "Système automatisé d'identification par empreinte digitale et palmaires (AFIS)", "class": "identification", "platform": "", "owner": "Direction générale de la Police républicaine; put into service with European Union financing", "tiers": "put into service 30 September 2025 at the Direction générale de la Police républicaine, for criminal use"},
+    {"system": "Système d'information policière d'Afrique de l'ouest (SIPAO)", "country_label": "SIPAO", "class": "exchange", "platform": "", "owner": "", "tiers": "described as a platform for automated exchange of police information between law-enforcement services of the 17 countries party to the programme; no station-level entry stated"},
+    {"system": "service de la Police Technique et Scientifique", "country_label": "Police Technique et Scientifique", "class": "identification", "platform": "", "owner": "Police républicaine", "tiers": "renovated premises inaugurated 30 September 2025"}
+  ],
+  "note": "The force's own account of its fingerprint file going into service; SIPAO is described only as an exchange platform, and nothing is said of stations recording reports or cases."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-20-agence-ecofin-cases-numeriques-burkina-faso",
+  "facts": [],
+  "systems": [
+    {"system": "e-Casier judiciaire", "country_label": "e-Casier judiciaire", "class": "public", "platform": "", "owner": "", "tiers": "online; reachable from the pilot village 'cases numériques' of Doufiguisso and Lemnogo"}
+  ],
+  "note": "Rural public internet access points launched February 2026; the e-criminal-record service is named only as an online service users can reach. Nothing on police or gendarmerie stations."
+}

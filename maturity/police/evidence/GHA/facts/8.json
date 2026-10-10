@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-who-ghana-evidence-generation-suicide-prevention-situational-analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Police suicide mortality data (district and national crime statistics)", "country_label": "Police Suicide Mortality Data", "class": "statistics", "platform": "", "owner": "Ghana Police Service, Criminal Investigation Department", "tiers": "compiled into district and national crime statistics"}
+  ],
+  "note": "The passages say the CID records and classifies suspected suicides and compiles them into district and national crime statistics, not systematically linked to health or mortality databases; nothing says whether any record is digital, so there is no fact for station records."
+}

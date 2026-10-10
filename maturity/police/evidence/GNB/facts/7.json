@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-26-unctad-guinea-bissau-launches-asycudaworld",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ASYCUDAWorld",
+      "country_label": "ASYCUDAWorld",
+      "class": "border",
+      "platform": "ASYCUDAWorld (UNCTAD), replacing ASYCUDA++",
+      "owner": "Customs, with UNCTAD technical assistance funded by the African Development Bank",
+      "tiers": "all computerised customs offices: Port of Bissau, Bissau International Airport, São Domingos, Gabú and Bafatá; launched 26 January 2026"
+    }
+  ],
+  "note": "Customs system only, out of scope as border; nothing on the police, its stations or their records."
+}

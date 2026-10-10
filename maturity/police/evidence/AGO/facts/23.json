@@ -1,0 +1,23 @@
+{
+  "slug": "2020-04-23-angola-lei-11-20-vigilancia-electronica",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Cellular identification or location and electronic surveillance means",
+      "country_label": "Identificação ou Localização Celular e Vigilância Electrónica",
+      "class": "surveillance",
+      "platform": "Location and signal-tracking software, video and audio surveillance cameras, satellite location, interception and radio-listening equipment (article 12)",
+      "owner": "The criminal police bodies, through their technological investigation units linked to the public security integration body of the ministry responsible for security and public order",
+      "tiers": "National; a legal regime, with no deployment stated"
+    },
+    {
+      "system": "Database of identification and criminal-interest data",
+      "country_label": "base de dados de dados de identificação e interesse criminal",
+      "class": "identification",
+      "platform": "",
+      "owner": "The criminal police body, in coordination with the public security integration body and with the data-protection authority informed (article 29)",
+      "tiers": "Required by the law for records obtained through surveillance: suspects' identity, the facts and place of the occurrence, biometric data and criminal antecedents; no statement that it exists"
+    }
+  ],
+  "note": "A law on cellular location and electronic surveillance by the criminal police. The database it requires holds surveillance-derived identification data, not the reports or case files stations take; a law places nothing."
+}

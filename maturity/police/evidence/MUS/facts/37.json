@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-data-protection-office-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CCTV Systems operated by the Mauritius Police Force",
+      "country_label": "CCTV Systems",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Mauritius Police Force",
+      "tiers": "Not stated; covered by a Code of Practice the Data Protection Commissioner issued in March 2010"
+    }
+  ],
+  "note": "The passages mention only a 2010 code of practice for police CCTV; nothing is said of station records."
+}

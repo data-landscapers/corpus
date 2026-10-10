@@ -1,0 +1,31 @@
+{
+  "slug": "2018-06-10-dza-jo-2018-034-loi-18-07-protection-donnees-personnelles",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Casier judiciaire",
+      "country_label": "casier judiciaire (bulletins n° 1, 2 et 3), with a casier judiciaire des personnes morales",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministry of Justice: the registry of each Cour and a central service headed by a magistrate",
+      "tiers": "Registry of each Cour for persons born in its area; central service at the ministry for persons born abroad and for legal persons; duplicates of custodial-sentence bulletins sent to the interior ministry"
+    },
+    {
+      "system": "Casier des infractions de circulation",
+      "country_label": "casier des infractions de circulation",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": "Registry of each Cour and the central casier judiciaire service"
+    },
+    {
+      "system": "Casier d'alcoolisme et de stupéfiants",
+      "country_label": "casier d'alcoolisme et de stupéfiants",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": "Registry of each Cour and the central casier judiciaire service"
+    }
+  ],
+  "note": "Journal officiel no. 34 of 2018: law 18-06 amending the criminal procedure code on the casier judiciaire, and law 18-07 on personal data. It names no system in which a police or gendarmerie station records a report or a case. The criminal records it governs are court-registry files, not said to be digital beyond bulletin no. 3 being deliverable electronically; law 18-07 excludes data processed for the prevention and prosecution of offences from its scope (Article 6)."
+}

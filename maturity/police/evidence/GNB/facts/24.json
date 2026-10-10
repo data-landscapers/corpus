@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-pj-gw-online-complaint-portal",
+  "facts": [],
+  "systems": [
+    {
+      "system": "pj.gw online services portal",
+      "country_label": "Polícia Judiciária da Guiné-Bissau (pj.gw): Queixas / Denúncias, Perda de Telemóvel, Acompanhar, Procurados, Desaparecidos, Achados & Perdidos",
+      "class": "public",
+      "platform": "Website, credited to Growth, Marketing Digital",
+      "owner": "Polícia Judiciária, Ministério da Justiça",
+      "tiers": "Online to the public: electronic complaints and reports for certain types of crime, lost-phone reports, tracking of a complaint's status, public wanted and missing-person alerts, lost and found; page footer dated 2023, archived 15 July 2025"
+    }
+  ],
+  "note": "No fact: the portal is a public reporting channel, classed public; the page lists a 'Registo de ocorrências' heading with no description, and says nothing on how a station records a report or a case."
+}

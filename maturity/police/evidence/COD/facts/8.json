@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-03-snip-termes-de-reference-drc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Police (functional identification system)",
+      "country_label": "système fonctionnel de la Police",
+      "class": "",
+      "platform": "",
+      "owner": "Police",
+      "tiers": "Not stated; listed among functional systems (ONIP, INSS, DGI, CENI, Ministry of Health, Police) that each act as an identifier with no interconnection to a single population register"
+    }
+  ],
+  "note": "The passages name a police system only in a list of unconnected functional identification systems, without saying what it does; nothing is stated about station records."
+}

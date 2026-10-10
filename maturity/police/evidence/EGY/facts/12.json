@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "The essay's Egypt police row says the Digital Justice Platform by Egabi starts with complaint registration and police record issuance at stations, citing Egabi's product page; it gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Digital Justice Platform", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's Egypt police row says a 2021 EFHR account, via the ECOI/IRB report, indicates police stations, especially outside Cairo and Alexandria, often lack technology, with about 50% of documents handwritten and arrest and investigation records sometimes paper-based depending on location.", "as_of": "2021", "date_precision": "year", "system": "police station records (paper)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's Egypt police row scores rural stations 1 and says it found no rural-specific digitalisation evidence, paper being predominant at rural stations with digital aggregation higher up; it gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "police station records (paper)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Digital Justice Platform", "country_label": "Digital Justice Platform", "class": "record", "platform": "Egabi Digital Justice Platform", "owner": "", "tiers": "police stations (complaint registration and police record issuance)"},
+    {"system": "unified law enforcement system", "country_label": "unified law enforcement system", "class": "exchange", "platform": "", "owner": "", "tiers": "national; described only as integrating criminal cases"}
+  ],
+  "note": "Passages file; the header marks the essay as an AI-assisted compilation, and study.json lists it under exclude_sources. Facts are recorded as the essay states them."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2023-09-13-dza-nin-decret-23-316",
+  "facts": [],
+  "systems": [
+    {"system": "fichier national d'immatriculation de véhicules", "country_label": "fichier national d'immatriculation de véhicules", "class": "", "platform": "central database with a unified scheme and software for the national, wilaya and foreign-ministry files", "owner": "minister of the interior", "tiers": "national, fed instantly from the wilaya files; the security services supply vehicles stolen, wanted, under investigation, crashed or burnt, and have secured access to consult it"},
+    {"system": "système d'information des infractions routières", "country_label": "systèmes d'information ... des infractions routières", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Official journal no. 60 of 2023 (decrees 23-316 on the national identification number and 23-317 on the vehicle registration file): no station record system is named. The vehicle file is a civil registry of the interior ministry that carries stolen and wanted flags from the security services; the traffic-offences information system is named only as one it is linked to. The gendarmerie appears otherwise only as a member of a humanitarian-law commission."
+}

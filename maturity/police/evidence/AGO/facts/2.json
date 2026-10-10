@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-08-angola-biometrics-border-surveillance-intelwatch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "Sistema de Comunicação Policial da Interpol",
+      "class": "exchange",
+      "platform": "INTERPOL I-24/7",
+      "owner": "Ministry of the Interior (signatory of the 2024 cooperation protocol)",
+      "tiers": "Connects border and migration systems to international databases with facial-recognition functionality, under a 2024 cooperation protocol"
+    }
+  ],
+  "note": "Passages name only INTERPOL's I-24/7 information-sharing platform, joined under a 2024 protocol and linking border and migration systems to international databases: an exchange system, not a station record system."
+}

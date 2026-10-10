@@ -1,0 +1,70 @@
+{
+  "slug": "2026-08-28-kenyans-cs-murkomen-reveals-major-changes-in-police-deployment",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "Interior Cabinet Secretary Kipchumba Murkomen said on 28 August 2026 that digital occurrence books would be introduced, linked to police communication centres, so that the public can report crime remotely; he spoke of them as still to come and gave no station in which one was in use.",
+      "as_of": "2026-08-28",
+      "date_precision": "day",
+      "system": "digital occurrence book (digital OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Interior Cabinet Secretary announced the digital occurrence book on 28 August 2026 as one of his ministry's reforms to digitise the operations of the National Police Service.",
+      "as_of": "2026-08-28",
+      "date_precision": "day",
+      "system": "digital occurrence book (digital OB)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 28 August 2026 the Interior Cabinet Secretary announced that digital occurrence books would accompany police communication centres to be set up first in Nairobi, Mombasa, Nyeri, Nakuru, Eldoret and Kisumu; it is an announcement of intent, with no date given for the occurrence book itself.",
+      "as_of": "2026-08-28",
+      "date_precision": "day",
+      "system": "digital occurrence book (digital OB)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "digital occurrence book (digital OB)",
+      "country_label": "digital OB",
+      "class": "record",
+      "platform": "",
+      "owner": "National Police Service, under the Ministry of Interior",
+      "tiers": "To be introduced with police communication centres, initially in Nairobi, Mombasa, Nyeri, Nakuru, Eldoret and Kisumu; none stated as in use (August 2026)"
+    },
+    {
+      "system": "AI-powered police deployment system",
+      "country_label": "",
+      "class": "personnel",
+      "platform": "",
+      "owner": "National Police Service, under the Ministry of Interior",
+      "tiers": "National; under way, to be rolled out by December 2026, using data analytics to decide where officers are deployed"
+    },
+    {
+      "system": "police communication centres (command centres)",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "National Police Service, under the Ministry of Interior",
+      "tiers": "To be established first in Nairobi, Mombasa, Nyeri, Nakuru, Eldoret and Kisumu"
+    },
+    {
+      "system": "CCTV cameras in police stations",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "National Police Service, under the Ministry of Interior",
+      "tiers": "Planned for about 1,200 police stations, to monitor activity inside them"
+    }
+  ],
+  "note": "The document describes the digital occurrence book only as a channel for the public to report crime remotely and as a source of crime data; it is classed record on the occurrence book being the typology's own example, and the parent may read it as public."
+}

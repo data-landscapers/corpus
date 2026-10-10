@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay scores Cabo Verde's rural police stations 1, paper only, having found no evidence of digital recording of case files, complaints or incident reports at rural stations or posts and inferring that they likely use paper; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay found no specific evidence of digital recording of case files, complaints or incident reports at rural police stations or posts in Cabo Verde, by its own account an absence of evidence; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "", "class": "record"}
+  ],
+  "systems": [
+    {"system": "SIJ judicial system", "country_label": "SIJ", "class": "exchange", "platform": "", "owner": "", "tiers": "integrates police with courts for process tracking; the essay says it works at court level, not at the station's first recording"}
+  ],
+  "note": ""
+}

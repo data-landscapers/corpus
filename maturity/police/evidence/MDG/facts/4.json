@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-29-madagascar-la-police-nationale-numerise-le-signalement-des-violences",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plateforme nationale de signalement (www.vbg.pn.gov.mg)",
+      "country_label": "plateforme nationale de signalement de la Police nationale",
+      "class": "public",
+      "platform": "Website and Android application; software not named",
+      "owner": "Police nationale; developed under the Ministère de la Sécurité publique, the Direction des systèmes d'information et des transmissions and the Brigade féminine de police",
+      "tiers": "Public, online, national; said to complement other channels of contact with the security forces and proximity mechanisms on the ground"
+    }
+  ],
+  "note": "The only system is a public portal for filing and tracking reports of gender-based violence and disappearances (class public); nothing on records made at stations."
+}

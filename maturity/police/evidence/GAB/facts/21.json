@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-02-gabon-electronic-id-11-year-hiatus",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Carte Nationale d'Identité Electronique (CNIE)",
+      "country_label": "CNIE",
+      "class": "",
+      "platform": "Thales reported to be taking over the contract",
+      "owner": "",
+      "tiers": "issued in Libreville only at launch (2024); planned for all police stations nationwide"
+    }
+  ],
+  "note": "National identity card issuance, not a police record system: the card was issued in Libreville only at launch, with a plan to extend issuance to all police stations nationwide. Class left empty because the typology has no class for identity-card issuance."
+}

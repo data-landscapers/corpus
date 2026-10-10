@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-28-dza-decret-26-153-aapi-reorganisation",
+  "facts": [],
+  "systems": [
+    {"system": "Customs information system", "country_label": "système d'information des douanes", "class": "border", "platform": "", "owner": "Administration des douanes", "tiers": "customs services; investment operations given a dedicated coding in it (decree 26-153 of 14 April 2026, art. 27)"}
+  ],
+  "note": "Gazette no. 31 of 28 April 2026: decrees reorganising the investment agency and its single windows; no police or gendarmerie system is named (the term matched 'procès-verbaux' of board meetings and site inspections). The one system in the typology is the customs system, out of scope. The capture is truncated at the gazette's page 32."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01 I-CEMAC (INTERPOL border-management project, Central Africa)",
+  "facts": [],
+  "systems": [
+    {"system": "I-CEMAC: INTERPOL I-24/7 network and databases at border points", "country_label": "I-CEMAC", "class": "border", "platform": "INTERPOL I-24/7", "owner": "INTERPOL, funded by CEMAC (EUR 4.9 million, 2019-2024)", "tiers": "selected border points and the INTERPOL National Central Bureau; in Cameroon, connected sites at Douala and Yaoundé logged more than 6,000 searches in 72 hours"}
+  ],
+  "note": "INTERPOL's border-management project for the six CEMAC states: screening of passengers and travel documents at border points, a border class and out of scope. States nothing about station records."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2021-04-01-interpol-sipao-lettre-information-16",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIPAO (WAPIS)",
+      "country_label": "SIPAO, held at the Centre National de Documentation Criminelle (CNDC), Mali's DACORE",
+      "class": "identification",
+      "platform": "SIPAO/WAPIS, INTERPOL programme with ECOWAS, financed by the European Union",
+      "owner": "Ministère de la Sécurité et de la Protection civile (CNDC); programme run by INTERPOL",
+      "tiers": "National data collection and registration centre (DACORE) in Bamako; no stations named"
+    }
+  ],
+  "note": "No fact: the newsletter describes SIPAO in Mali only as a DACORE holding files on lost or stolen objects, wanted persons, stolen documents and stolen vehicles (over 375,000 entries across Benin, Burkina Faso, Ghana, Mali and Niger together), and never says stations enter reports or cases in it. It does state that Mali has been a pilot country since 2012, that in February 2021 the CNDC had no legal framework and the system no dedicated budget line, that the finance minister noted a budget line for 2022 once the CNDC decree is signed, and that a data-quality audit in Mali was under way."
+}

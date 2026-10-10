@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-world-bank-gambia-id4d-diagnostic",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Drivers License System",
+      "country_label": "Drivers License System",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Gambia Police Force; the Inspector General of Police is the issuing authority for driver's licences, under the Ministry of Interior",
+      "tiers": "Not stated; uses the national identity system for biometric verification of applicants, and the police are shown as a planned user of the eCRVS and eID identity bus for driver's licences"
+    }
+  ],
+  "note": "An identity-system diagnostic. The police appear as issuer of driver's licences, and crime declaration and report filing are listed as steps in a citizen's life under 'Police, Public' with no system named. The fingerprint and biometric systems described are the national identity card's, run by the Department of Immigration, not a police system. Nothing on station records."
+}

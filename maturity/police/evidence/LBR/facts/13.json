@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states that rural police stations in Liberia record criminal cases and complaints in paper files and dockets, and scores them entirely paper, with digital systems limited to national and urban level; no date is given for the general statement, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "paper files and dockets", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay cites a January 2026 report on Nyehn Town Police Station in rural Todee District describing no computers and officers protecting paper documents from rain, which it reads as entirely manual processes.", "as_of": "2026-01", "date_precision": "month", "system": "paper files and dockets", "class": "record"}
+  ],
+  "systems": [
+    {"system": "CSIS", "country_label": "CSIS", "class": "statistics", "platform": "tablets for biodata and GPS input with online aggregation, as the essay describes it", "owner": "UNDP-supported", "tiers": "2021 pilot in urban Montserrado, replacing paper statistics reporting"},
+    {"system": "CMIS/DHIS2", "country_label": "CMIS", "class": "statistics", "platform": "DHIS2, with an offline mobile app for case statistics with GPS", "owner": "UNDP-supported", "tiers": "2022 rollout to police; training of county-level staff; no evidence of routine use at rural stations, by the essay's account"}
+  ],
+  "note": "An AI-assisted compilation by its own header; the facts are what its table states, citing other sources."
+}

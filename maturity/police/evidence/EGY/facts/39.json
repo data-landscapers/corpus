@@ -1,0 +1,15 @@
+{
+  "slug": "2025-03-11-egypt-data-protection-privacy-2025-chambers",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Ministry of Interior criminal records system",
+      "country_label": "the Ministry's criminal records system",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministry of Interior",
+      "tiers": ""
+    }
+  ],
+  "note": "The passages name only the Ministry of Interior's criminal records system (class identification), in a case where the Administrative Court on 10 April 2021 ordered an acquitted defendant's record deleted and the Ministry objected on 23 October 2021; nothing on station records."
+}

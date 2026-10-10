@@ -1,0 +1,47 @@
+{
+  "slug": "2024-05-08-plano-estrategico-da-pn-privilegia-plataformas-integradas-de-informacao",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plataformas Integradas de Informação Policiais (PIIPS)",
+      "country_label": "Plataformas Integradas de Informação Policiais (PIIPS)",
+      "class": "",
+      "platform": "",
+      "owner": "Polícia Nacional, Direcção de Telecomunicações e Tecnologias de Informação",
+      "tiers": "Not stated; a principal axis of the force's Plano Estratégico de Desenvolvimento 2022-2027, said to include the personnel system and other subsystems that entered service in 2024, none described"
+    },
+    {
+      "system": "Sistema integrado de gestão de pessoal e quadros",
+      "country_label": "sistema integrado de gestão de pessoal e quadros",
+      "class": "personnel",
+      "platform": "",
+      "owner": "Polícia Nacional",
+      "tiers": "In production since 2023, with close to 100,000 records of the force's staff"
+    },
+    {
+      "system": "MPLS private network",
+      "country_label": "rede privada por via da MPLS",
+      "class": "enabling",
+      "platform": "MPLS; optical fibre and microwave for central bodies",
+      "owner": "Polícia Nacional",
+      "tiers": "General Command to provincial commands 100% installed; central bodies 50% (May 2024). Nothing stated below the provincial command"
+    },
+    {
+      "system": "Radio communication system",
+      "country_label": "sistema de comunicação rádio",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Polícia Nacional",
+      "tiers": "Improvement and extension being implemented (May 2024)"
+    },
+    {
+      "system": "Projecto de Inovação de Segurança Pública, phase 2",
+      "country_label": "Projecto de Inovação de Segurança Pública",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Polícia Nacional; overseen by the Centro de Comando e Controlo",
+      "tiers": "Five municipal centres being built in Luanda province (Cazenga, Cacuaco, Kilamba Kiaxi, Talatona, Viana), with fibre expansion and more video-surveillance cameras in urban and suburban Luanda; real-time viewing of the Santa Clara border post (Cunene) and Ilha do Cabo (Luanda)"
+    }
+  ],
+  "note": "The force's ICT director describes PIIPS by name only, apart from its personnel subsystem, so it is unclassified and gives no fact. The document says nothing of occurrences or case files being recorded at esquadras; the network reaches provincial commands. The 2022-2027 strategic plan naming PIIPS would be a governance fact if PIIPS proves to be a record system."
+}

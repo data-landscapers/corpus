@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-03-state-ai-curb-insecurity-nation",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "Interior Cabinet Secretary Kipchumba Murkomen said on Wednesday 1 April 2026 that the government was running a procurement to establish a digital occurrence book, through which a crime could also be reported from home or at the scene; it is described as to be established, not in use.", "as_of": "2026-04-01", "date_precision": "day", "system": "digital OB", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "As of 1 April 2026 the Interior Cabinet Secretary described the digital occurrence book as still in procurement; no station is said to be using one.", "as_of": "2026-04-01", "date_precision": "day", "system": "digital OB", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The Interior Cabinet Secretary said on 1 April 2026 that the government itself was undertaking the procurement of the digital occurrence book.", "as_of": "2026-04-01", "date_precision": "day", "system": "digital OB", "class": "record"},
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "On 1 April 2026 the Interior Cabinet Secretary announced that procurement of a digital occurrence book was under way.", "as_of": "2026-04-01", "date_precision": "day", "system": "digital OB", "class": "record"}
+  ],
+  "systems": [
+    {"system": "digital OB", "country_label": "digital OB", "class": "record", "platform": "", "owner": "Ministry of Interior", "tiers": "Not stated; in procurement in April 2026"},
+    {"system": "ICT systems and digital CCTV cameras for police stations and public spaces", "country_label": "digital gadgets", "class": "surveillance", "platform": "", "owner": "Ministry of Interior", "tiers": "Planned for police stations and public spaces"}
+  ],
+  "note": "The held text is the paywalled page's visible body. The article says 'on Wednesday'; published Friday 3 April 2026, so the statement is dated 1 April 2026."
+}

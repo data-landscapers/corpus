@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services",
+  "facts": [],
+  "systems": [
+    {"system": "MaPoste", "country_label": "MaPoste", "class": "public", "platform": "", "owner": "La Poste de Côte d'Ivoire with ONECI", "tiers": "smartphone application launched 16 January 2026, backed by more than 200 post agencies; request and tracking of official documents including criminal records"}
+  ],
+  "note": "A postal application through which the public can request a criminal-record certificate among other documents; nothing on police or gendarmerie stations or their records."
+}

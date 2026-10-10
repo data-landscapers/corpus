@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-29-egypt-ict-sector-2023-year-in-review",
+  "facts": [],
+  "systems": [
+    {"system": "law enforcement system (digital capacity development and training)", "country_label": "law enforcement system", "class": "enabling", "platform": "", "owner": "Ministry of Communications and Information Technology runs the training; the bodies named are the Ministry of Interior, the Public Prosecution and all levels of courts", "tiers": "over 8,300 individuals trained in 2023, 13,493 in total; no station count or level given"}
+  ],
+  "note": "The communications ministry's 2023 review: for law enforcement it reports digital training only, and an AI voice-to-text and investigation-report project with the Ministry of Justice and the Cabinet. It describes no system in which stations record reports or cases."
+}

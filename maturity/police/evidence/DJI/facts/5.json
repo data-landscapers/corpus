@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-08-dji-strengthening-the-governance-of-gender-based-violence-data-integrating",
+  "facts": [],
+  "systems": [
+    {"system": "integrated DHIS2–GBVIMS-Health system", "country_label": "National Health Information System (DHIS2) with GBVIMS-Health", "class": "single-function", "platform": "DHIS2; GBVIMS-Health", "owner": "Ministry of Health (governance); Health Information Directorate (administration); UNFPA technical and financial support", "tiers": "health facilities, National Gendarmerie services, the UNFD listening unit and the national disability agency contribute to case registration and follow-up; integration in progress"}
+  ],
+  "note": "A health-ministry system for gender-based violence cases only, to which gendarmerie services contribute case registration: one class of offence and not the force's own station record, so no fact."
+}

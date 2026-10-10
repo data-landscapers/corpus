@@ -1,0 +1,15 @@
+{
+  "slug": "2023-04-01-sipao-wapis-lettre-information-22-credpol-guinee",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIPAO/WAPIS",
+      "country_label": "Système national d'information policière, run by the Centre de recueil et d'enregistrement des données policières (CREDPOL)",
+      "class": "exchange",
+      "platform": "INTERPOL SIPAO/WAPIS, with INTERPOL's I-24/7 secure channel",
+      "owner": "Ministry of Security and Civil Protection, through CREDPOL; implemented by INTERPOL with European Union funding and ECOWAS, INTERPOL's support ending November 2023, after which Guinea is to continue from CREDPOL's own budget",
+      "tiers": "The national centre in Conakry, inaugurated 25 January 2023; extension to law enforcement services and courts in Conakry and the provinces described as in prospect, not done"
+    }
+  ],
+  "note": "The document says CREDPOL collects, centralises, stores and shares police data among law enforcement services and with the region and the world over I-24/7, and that extension beyond the centre is still to come; it does not say that stations enter their reports or cases in the system, so under the typology it is not class record and gives no fact. Classed exchange on the sharing the document describes; the parent may prefer another class. The newsletter's AFIS project does not name Guinea's group."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's country table states that rural PNC stations record criminal cases and complaints primarily through paper procès-verbaux, generally typed but with hearings handwritten in most cases, and scores the police row 1; no event date is given, so the essay's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Paper procès-verbaux of the PNC",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's country table states that it found no evidence of a digital case management system at rural level in the PNC, procedures resting on written complaints and manual judicial-police processes; no event date is given, so the essay's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Paper procès-verbaux of the PNC",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "HRIS",
+      "country_label": "HRIS of the PNC",
+      "class": "personnel",
+      "platform": "",
+      "owner": "PNC",
+      "tiers": "Not stated; described as for personnel management only, not cases"
+    },
+    {
+      "system": "goCASE",
+      "country_label": "goCASE",
+      "class": "",
+      "platform": "UNODC goCASE",
+      "owner": "MONUSCO",
+      "tiers": "Stated as used by MONUSCO, not by the PNC"
+    }
+  ],
+  "note": "This slug is on study.json's exclude_sources list (an AI-assisted compilation); the two facts are recorded as the document states them, for the parent to exclude."
+}

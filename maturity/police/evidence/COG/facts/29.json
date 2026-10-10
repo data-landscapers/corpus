@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01 I-CEMAC (INTERPOL border-management project, Central Africa)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "I-24/7",
+      "country_label": "I-24/7 (I-CEMAC project)",
+      "class": "border",
+      "platform": "INTERPOL I-24/7 secure communications network and databases",
+      "owner": "INTERPOL; project funded by CEMAC (EUR 4.9m, 2019-2024)",
+      "tiers": "Selected border points (40 targeted across the six CEMAC states, Congo among them) and the six INTERPOL National Central Bureaus; no Congo site or progress is stated"
+    }
+  ],
+  "note": "A border-screening project extending INTERPOL's network to border points and National Central Bureaus: class border, not record. Congo is named as a member state only; the updates given are for Gabon, Equatorial Guinea and Cameroon."
+}

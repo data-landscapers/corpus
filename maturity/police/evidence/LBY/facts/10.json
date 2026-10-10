@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-11-lana-alnaib-alaam-majlis-huquq-alinsan-manzumat-altahawwul-alraqmi",
+  "facts": [],
+  "systems": [
+    {"system": "منظومة التحول الرقمي (Public Prosecution digital transformation system, launched January 2023)", "country_label": "منظومة التحول الرقمي", "class": "", "platform": "", "owner": "Attorney General's Office (Public Prosecution)", "tiers": "Public Prosecution; archives judicial files electronically and holds a database of cases and judgments, used by the judgment enforcement unit; no police station is mentioned"},
+    {"system": "البطاقات الجنائية (criminal record cards issued electronically through the same system)", "country_label": "البطاقات الجنائية", "class": "identification", "platform": "", "owner": "Attorney General's Office (Public Prosecution)", "tiers": "issued electronically and linked to other state bodies; used to clean municipal council electoral rolls"}
+  ],
+  "note": "The system described is the Public Prosecution's, not the police's: it archives judicial files and issues criminal record cards. The 558 evidence-gathering records are a committee's count, with no system named. No fact for a station record system."
+}

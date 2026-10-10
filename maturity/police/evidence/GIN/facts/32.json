@@ -1,0 +1,23 @@
+{
+  "slug": "2024-11-22-guinee-pisces-x-frontieres",
+  "facts": [],
+  "systems": [
+    {
+      "system": "PISCES X",
+      "country_label": "Système sécurisé de comparaison et évaluation d'identification personnel, PISCES X",
+      "class": "border",
+      "platform": "PISCES X, a biometric border-control database donated by the United States embassy; synchronises watch-list and immigration data with IOM's MIDAS, INTERPOL's system and the US customs targeting system",
+      "owner": "National Police of Guinea",
+      "tiers": "Conakry international airport, inaugurated 22 November 2024"
+    },
+    {
+      "system": "MIDAS",
+      "country_label": "terminaux de contrôle MIDAS",
+      "class": "border",
+      "platform": "MIDAS (IOM)",
+      "owner": "IOM project financed by the United States embassy at 1.8 million dollars, launched September 2024",
+      "tiers": "To be installed at six borders: Kouremale, Pamelap, Boundou Fourdou, Sambailo, Kolenda and Kamsar"
+    }
+  ],
+  "note": "Border-control systems at the airport and six border posts; class border, out of scope, and nothing on station records."
+}

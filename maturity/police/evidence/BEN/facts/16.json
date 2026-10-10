@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-service-public-bj-portail-national",
+  "facts": [],
+  "systems": [
+    {"system": "Délivrance du Casier judiciaire (Extrait B3)", "country_label": "Extrait B3 du casier judiciaire", "class": "public", "platform": "service-public.bj", "owner": "Gouvernement de la République du Bénin", "tiers": "e-service on the national portal, open to citizens and to foreigners resident or formerly resident"}
+  ],
+  "note": "The national services portal's front page; the criminal record extract is a public e-service, and no police record system is named."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2024-07-01-smart-id-cards-in-mauritius-policy-brief",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mauritian Safe City Project (MSCP)",
+      "country_label": "Safe City Project",
+      "class": "surveillance",
+      "platform": "Huawei, as commercial supplier",
+      "owner": "Mauritius Police Force, with Mauritius Telecom and Huawei; the brief says the responsibility of each is not clear",
+      "tiers": "4000 cameras mounted across the island, introduced in 2017"
+    }
+  ],
+  "note": "A policy brief on the national identity card and Mobile ID; the only police system named is the Safe City camera network, and nothing is said of station records."
+}

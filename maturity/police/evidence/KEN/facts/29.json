@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Nairobi Safe City surveillance system", "country_label": "Safe City", "class": "surveillance", "platform": "Huawei, with cloud storage managed by Huawei and eLTE wireless broadband", "owner": "Not stated; implemented by Huawei, with police and intelligence services given as having access", "tiers": "Nairobi; approximately 2,000 CCTV cameras with facial recognition, with an integrated command and control centre"}
+  ],
+  "note": "A twelve-city smart-city analysis, by its own account researched and written with an AI answer engine; for Kenya it covers Nairobi's surveillance network only, a noted class, and says nothing of how police stations record reports. Read to its end in two reads."
+}

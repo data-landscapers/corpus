@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-16-decreto-presidencial-62-26-protocolo-seguranca-rodoviaria-ia-contraordenacional",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Register of drivers, vehicles and vehicle inspection centres (cadastro), with driving licence and vehicle booklet issuance",
+      "country_label": "cadastro de condutores, de veículos e dos centros de inspecção técnica de veículos",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Polícia Nacional de Angola, Direcção de Trânsito e Segurança Rodoviária (under Decreto Presidencial 152/19)",
+      "tiers": "Not stated; described as a function of the directorate, with no statement that it is digital"
+    }
+  ],
+  "note": "A road-safety cooperation protocol with Portugal: it names dematerialisation, automation and artificial intelligence in the road-offence process as an area of cooperation, a declaration of intent only, and the traffic directorate's driver and vehicle register. Traffic only; nothing on station records. Capture is truncated after clause 8."
+}

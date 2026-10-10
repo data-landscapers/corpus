@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01 I-CEMAC (INTERPOL border-management project, Central Africa)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "I-24/7",
+      "country_label": "I-24/7",
+      "class": "border",
+      "platform": "INTERPOL I-24/7 secure communications network and databases",
+      "owner": "INTERPOL, through the National Central Bureau in Malabo; project I-CEMAC, funded by CEMAC (EUR 4.9m, 2019-2024)",
+      "tiers": "extended to 10 sites after an assessment at NCB Malabo in February 2023, including the Malabo, Bata and Mongomeyen airports and the Kiosi, Mongomo and Dimbala border crossings"
+    }
+  ],
+  "note": "No fact: the document describes INTERPOL's I-24/7 extended to border points and airports to screen passengers and travel documents, a border-class system; it says nothing of police stations recording reports or cases."
+}

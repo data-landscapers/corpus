@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-06-gab-infosgabon-douanes-controle-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Système intégré de gestion des opérations douanières", "country_label": "Système intégré de gestion des opérations douanières", "class": "border", "platform": "developed by IKA Technologie under Gabon Connect", "owner": "customs administration", "tiers": "in development; presented 29 September 2026; lot 1 covers mineral clearance and the special hydrocarbons warehouse"}
+  ],
+  "note": "Customs system only; nothing on police or gendarmerie station records."
+}

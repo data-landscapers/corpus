@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-01-rag-operationnel-oyem-aninf-modernisation-administrative-province",
+  "facts": [],
+  "systems": [
+    {"system": "Réseau de l'Administration Gabonaise (RAG)", "country_label": "RAG", "class": "enabling", "platform": "state fibre-optic network", "owner": "ANINF", "tiers": "Oyem (Woleu-Ntem): installed 2010, inactive until brought into service by April 2026; Commissariat d'Oyem connected, with the Mairie Centrale and the Palais de Justice"}
+  ],
+  "note": "Fibre connectivity reaching one provincial commissariat; the document describes no system in which the station makes a record."
+}

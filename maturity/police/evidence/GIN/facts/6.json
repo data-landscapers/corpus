@@ -1,0 +1,54 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay states that rural stations of the Police Nationale and the Gendarmerie record case files, complaints and incidents as handwritten paper proces-verbaux, entirely on paper at the point of service; it gives no date for the statement, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "handwritten procès-verbaux and manual registers",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay states that rural police and gendarmerie stations write their proces-verbaux by hand, with poor archiving and no computers, and that it found no digital recording at any rural station; it gives no date for the statement, so the published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "handwritten procès-verbaux and manual registers",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay says the security ministry's 2018 police statistical yearbook reports 8,843 proces-verbaux drawn up nationwide, including in regional units such as N'Zérékoré and Faranah, compiled from manual registers and fiches.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "handwritten procès-verbaux and manual registers",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Innovatrics ABIS",
+      "country_label": "",
+      "class": "identification",
+      "platform": "Innovatrics ABIS",
+      "owner": "",
+      "tiers": "Conakry, centrally; regions send paper for central processing"
+    },
+    {
+      "system": "MSPC Police Statistical Yearbook",
+      "country_label": "Annuaire statistique du MSPC",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Ministry of Security and Civil Protection (MSPC)",
+      "tiers": "National, compiled from manual registers; 2018 edition"
+    }
+  ],
+  "note": "Passages file; the document's own header calls its country rows an AI-assisted compilation, not sourced fact, and study.json lists it under exclude_sources. Facts recorded as the document states them."
+}

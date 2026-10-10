@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's country table states that rural police stations in Gambia rely entirely on paper for recording criminal cases and complaints, and that it found no evidence of digital case management at a majority of rural stations; no date is given for the state described, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "station diaries, pocket diaries and Diary of Action",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's country table states that official manuals mandate station diaries, pocket diaries and a Diary of Action for logging arrests, statements, incidents and actions, written, signed and copied by hand with no reference to digital tools; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "station diaries, pocket diaries and Diary of Action",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "UNDP-supported community policing mobile data apps",
+      "country_label": "mobile data apps linked to case management",
+      "class": "",
+      "platform": "",
+      "owner": "UNDP-supported community policing project",
+      "tiers": "Some areas, the Upper River Region named; said to be for patrols and reporting, not station case dockets"
+    }
+  ],
+  "note": "The document's own header marks its country figures as an AI-assisted compilation, the author's analysis and not sourced fact. It also mentions a UNDP feasibility study for digital case management in justice, undated and unnamed."
+}

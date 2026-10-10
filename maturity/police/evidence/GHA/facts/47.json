@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-15-gha-graphic-police-automated-traffic-offence-enforcement-cameras",
+  "facts": [],
+  "systems": [
+    {"system": "TRAFFITECH-GH", "country_label": "TRAFFITECH-GH, automated traffic law enforcement programme", "class": "single-function", "platform": "cameras and handheld Personal Data Assistant devices; electronic notices of violation by SMS", "owner": "Ghana Police Service, Motor Traffic and Transport Department, with NRSA, NIC, DVLA and the postal regulator", "tiers": "about 1,000 MTTD personnel trained nationwide; 20 in-vehicle cameras, 30 handheld cameras, 200 data devices; full enforcement from 1 October 2026 after a pilot of about 120,000 caution notices in 2024-2025"},
+    {"system": "Ghana.gov", "country_label": "Ghana.gov platform", "class": "public", "platform": "", "owner": "", "tiers": "national; traffic fines are paid through it within 14 days"}
+  ],
+  "note": "No fact: the document is about automated traffic-offence enforcement and fine payment, a single-function system, and says nothing about station occurrence or case records."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2022-06-02-jo-2022-22-arretes-1888-1889-direction-identification-civile",
+  "facts": [],
+  "systems": [
+    {
+      "system": "fichier national de l'identification civile (fichier alphabétique and fichier dactyloscopique)",
+      "country_label": "fichier national; fichier alphabétique; fichier dactyloscopique; banques et base de données de l'identification civile",
+      "class": "identification",
+      "platform": "not stated; a central server, database and network administered by the directorate's own division informatique",
+      "owner": "Direction de l'identification civile, under the minister in charge of the police nationale (ministère de la sécurité et de l'ordre public)",
+      "tiers": "Central directorate; three production centres at Brazzaville, Pointe-Noire and Oyo; departmental data collection sections, each keeping a manual departmental file, with antennas in arrondissements, districts and urban communities; answers requests from administrations and takes part in identification searches for administrative and judicial inquiries"
+    },
+    {
+      "system": "carte nationale d'identité informatisée, sécurisée et biométrique",
+      "country_label": "carte nationale d'identité informatisée, sécurisée et biométrique",
+      "class": "",
+      "platform": "",
+      "owner": "Direction de l'identification civile and its production centres",
+      "tiers": "Produced at Brazzaville (for Brazzaville, Pool, Likouala), Pointe-Noire (Pointe-Noire, Kouilou, Niari, Lékoumou, Bouenza) and Oyo (Plateaux, Cuvette, Cuvette-Ouest, Sangha); distributed through departmental sections and antennas"
+    }
+  ],
+  "note": "Gazette of 2 June 2022 carrying arrêtés 1888 and 1889 of 10 May 2022 on the civil identification directorate and its card production centres, with unrelated laws, decrees and notices. It states nothing on how a station records a report or a case; the national identification file with its fingerprint section is the identification class, classed here on the fingerprint file although its purpose is civil identity, and gives no fact."
+}

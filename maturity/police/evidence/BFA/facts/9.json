@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural police stations and gendarmerie brigades record case files, complaints and incident reports as handwritten procès-verbaux, with originals and certified copies carried physically to prosecutors and nothing digital specified at station level; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux (PVs)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states that it found no pilot and no aggregate digital entry for rural police, and that digitisation is limited to urban courts' e-criminal records and an online filing platform, not the initial rural recording; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux (PVs)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "handwritten procès-verbaux (PVs)", "country_label": "procès-verbaux", "class": "record", "platform": "paper", "owner": "police and gendarmerie", "tiers": "rural police stations and gendarmerie brigades"},
+    {"system": "e-criminal records", "country_label": "", "class": "identification", "platform": "", "owner": "courts, with UNDP support", "tiers": "urban courts: Ouagadougou, Bobo, Tenkodogo"},
+    {"system": "justice-penale.gov.bf online filing platform", "country_label": "justice-penale.gov.bf", "class": "public", "platform": "", "owner": "", "tiers": "online, 2025"}
+  ],
+  "note": "Passages file; the source describes itself as an AI-assisted compilation and is on the study's exclude_sources list. Facts recorded as the document states them."
+}

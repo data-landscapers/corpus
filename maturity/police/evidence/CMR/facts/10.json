@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table states that rural police stations, chiefly the Gendarmerie Nationale's 444 brigades and 160 posts, record case files, complaints and incident reports on handwritten procès-verbaux and paper files; the document gives no date for this, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux and paper files", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states it found no evidence of a digital case management system, a rural pilot or IT for incident reporting on official sites; the document gives no date for this, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux and paper files", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The essay's country table gives the gendarmerie 444 brigades and 160 posts and states that none is shown recording digitally, recording being on paper at facility level; the document gives no date for this, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux and paper files", "class": "record"}
+  ],
+  "systems": [
+    {"system": "criminal records in hard copy", "country_label": "", "class": "identification", "platform": "paper", "owner": "courts and the Ministry of Justice", "tiers": "stored by hand at courts and the Ministry of Justice; the police keep no digital criminal records"}
+  ],
+  "note": "The file's own header marks the country figures as an AI-aided compilation, the author's analysis and not sourced fact; study.json lists this slug under exclude_sources."
+}

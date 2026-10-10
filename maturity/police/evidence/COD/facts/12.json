@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-05-radiookapi-permis-conduire-puce-rdc",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Contrôle des permis de conduire biométriques à puce (mobile biometric control devices)",
+      "country_label": "contrôle des permis de conduire biométriques à puce",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministry of Transport (licence system); devices handed to the Ministry of the Interior for the PNC on 4 September 2025",
+      "tiers": "National deployment announced 4 September 2025; mobile devices for PNC road traffic officers to verify licences in the field, with training to precede the start of checks"
+    }
+  ],
+  "note": "The only system is the field verification of chip driving licences by traffic police, class single-function; nothing is stated about station records."
+}

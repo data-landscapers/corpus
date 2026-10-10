@@ -1,0 +1,8 @@
+{
+  "slug": "2018-03-01-arct-rapport-annuel-2017-burundi-large-bande-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Police emergency short numbers", "country_label": "numéros d'urgence: 111 Police Judiciaire, 112 Police d'intervention, 115 Police antiterroriste, 118 Police de sécurité routière (also 114 Protection des mœurs, 119 Lutte antidrogue)", "class": "public", "platform": "", "owner": "numbers assigned by the telecoms regulator ARCT to the police services named", "tiers": "national short codes, as listed in the regulator's 2017 annual report"}
+  ],
+  "note": "Telecoms regulator's annual report; the passage is a table of emergency short numbers assigned to police services. Telephone numbers for the public, not station records; nothing on how reports are recorded."
+}

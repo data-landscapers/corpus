@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica",
+  "facts": [],
+  "systems": [
+    {"system": "Portal de Justiça", "country_label": "Portal de Justiça / Portal da Justiça", "class": "public", "platform": "integrated with the state's Autentika authentication platform", "owner": "Ministério da Justiça", "tiers": "launched in Praia on 18 December 2024; online registry certificates, the criminal record certificate among them"},
+    {"system": "Sistema de Informação da Justiça (SIJ)", "country_label": "SIJ", "class": "", "platform": "", "owner": "Ministério da Justiça", "tiers": "lawyers reach their cases through the portal's integration with it, without travelling to the comarcas"}
+  ],
+  "note": "The launch of a public portal for registry services; the SIJ is named as being implemented with no description of what it does for the police, and no station is mentioned."
+}

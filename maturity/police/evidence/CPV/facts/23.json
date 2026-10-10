@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-nosi-egov-solutions",
+  "facts": [],
+  "systems": [
+    {"system": "Criminal Information System", "country_label": "Criminal Information System (SIC)", "class": "identification", "platform": "developed by NOSi", "owner": "Directorate General of Registries, Notary and Identification (DGRNI), which issues the certificate", "tiers": "registers a crime in the criminal record and issues the criminal record certificate online"},
+    {"system": "Justice Information System (SIJ)", "country_label": "SIJ", "class": "exchange", "platform": "developed by NOSi", "owner": "justice sector", "tiers": "described as a system across the justice sector for communication and the electronic processing of cases"}
+  ],
+  "note": "NOSi's catalogue of its e-government products, undated beyond 2025; the criminal information system it lists is the criminal record registry, and no system for police stations is listed."
+}

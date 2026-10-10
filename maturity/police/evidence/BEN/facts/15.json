@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-08-benin-ere-numerique-revolution-administrative",
+  "facts": [],
+  "systems": [
+    {"system": "demande de casier judiciaire sur service-public.bj", "country_label": "casier judiciaire", "class": "public", "platform": "service-public.bj", "owner": "", "tiers": "online request by citizens through the national public services portal"}
+  ],
+  "note": "An account of online public services; the only item in the field is the online request for a criminal record extract, a public service."
+}

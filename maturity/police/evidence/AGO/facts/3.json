@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-18-processo-da-digitalizacao-do-sistema-de-registo-civil-em-angola",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Gestão do Registo Criminal",
+      "country_label": "Sistema de Gestão do Registo Criminal",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministério da Justiça (the multifunctional digital identity database is under its management)",
+      "tiers": "Listed among the existing business systems to be integrated in the digital identity architecture; no tier stated"
+    }
+  ],
+  "note": "A presentation on civil registration and digital identity; the criminal record management system is listed as one of the existing systems to be integrated, an identification system of the justice ministry. Nothing on police stations or their records."
+}

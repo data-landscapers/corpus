@@ -1,0 +1,60 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's Lesotho police row says the Lesotho Mounted Police Service keeps Occurrence Books, complaints registers, custody logs and dockets on paper at its stations, rural ones without electricity or telephones included, citing an APCOF assessment; the row gives no date, so the essay's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Occurrence Books, complaints registers and dockets (paper)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's Lesotho police row says there is no rural-specific digital rollout and rural stations rely on paper, with later entry at district level described only as possible; the row gives no date, so the essay's publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Occurrence Books, complaints registers and dockets (paper)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Integrated Case Management System (ICMS)",
+      "country_label": "ICMS",
+      "class": "",
+      "platform": "Login portal, version 0.1.1",
+      "owner": "Lesotho Mounted Police Service",
+      "tiers": ""
+    },
+    {
+      "system": "LMPS_RIMS",
+      "country_label": "LMPS_RIMS",
+      "class": "",
+      "platform": "",
+      "owner": "Lesotho Mounted Police Service",
+      "tiers": "A project dated 2019 onwards"
+    },
+    {
+      "system": "GoLehokela",
+      "country_label": "GoLehokela digital policing platform",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Synergy CMS",
+      "country_label": "Synergy CMS",
+      "class": "exchange",
+      "platform": "Synergy Case Management System",
+      "owner": "The courts",
+      "tiers": "Limited urban sites (Maseru); said to integrate police data"
+    }
+  ],
+  "note": "Passages file; the source is on the study's exclude_sources list (an AI-assisted compilation by its own header). Only the Lesotho police row bears on the study. ICMS, LMPS_RIMS and GoLehokela are named without a description of what they do, so they are unclassified. The row is printed with score 1 and its text ends by saying score 2."
+}

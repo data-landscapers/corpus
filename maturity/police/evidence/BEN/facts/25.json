@@ -1,0 +1,10 @@
+{
+  "slug": "2015-09-21-wapis-west-african-police-information-system-launched",
+  "facts": [],
+  "systems": [
+    {"system": "West African Police Information System (WAPIS)", "country_label": "WAPIS; national Data Collection and Registration Centre (DACORE)", "class": "", "platform": "WAPIS, implemented by INTERPOL with ECOWAS", "owner": "Funded by the European Union and implemented by INTERPOL; installed in each participating country's national DACORE", "tiers": "launched in Benin, Mali and Niger by 21 September 2015; installed within a national centre, where existing paper police data are converted to digital and inserted with new police data from all national law enforcement agencies"},
+    {"system": "regional electronic police information sharing platform", "country_label": "", "class": "exchange", "platform": "", "owner": "ECOWAS", "tiers": "next phase of the programme as at September 2015"},
+    {"system": "I-24/7", "country_label": "", "class": "exchange", "platform": "INTERPOL I-24/7", "owner": "INTERPOL", "tiers": "each DACORE to be connected"}
+  ],
+  "note": "No fact: INTERPOL describes a system installed in one national centre that collects and centralises police information and converts paper data to digital, and does not say stations enter their reports or cases in it, which the typology requires before WAPIS is classed record."
+}

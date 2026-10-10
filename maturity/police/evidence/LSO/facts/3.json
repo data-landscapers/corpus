@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-12-undp-lesotho-lmps-desktop-handover",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lehokela Application",
+      "country_label": "Lehokela Application",
+      "class": "",
+      "platform": "",
+      "owner": "Lesotho Mounted Police Service",
+      "tiers": "Rollout under way; selected police stations and posts are to receive computers for it"
+    },
+    {
+      "system": "20 desktop computers handed to the Lesotho Mounted Police Service",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Lesotho Mounted Police Service; given by the UN Peacebuilding Fund project through UNDP",
+      "tiers": "To be deployed to selected police stations and posts"
+    }
+  ],
+  "note": "UNDP post of 12 June 2026: 20 desktops handed over to support the Lehokela rollout, for deployment to selected stations and posts, said to support a move from manual, paper-based processes. The post does not say what the Lehokela application does, so it is unclassified and gives no fact; the computers are enabling."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-03-05-coloniality-chinese-surveillance-technologies-africa-ijriss",
+  "facts": [],
+  "systems": [
+    {"system": "CCTV surveillance systems", "country_label": "", "class": "surveillance", "platform": "Chinese-supplied; linked to Chinese state-owned enterprises", "owner": "Ethiopian government", "tiers": "described only as extensive, with no places or counts"},
+    {"system": "communications monitoring infrastructure", "country_label": "", "class": "surveillance", "platform": "ZTE", "owner": "Ethiopian government", "tiers": "not stated; used to monitor communications of opposition activists and journalists"}
+  ],
+  "note": "No fact: a desk study of Chinese surveillance exports; for Ethiopia it names only camera and communications surveillance, classed surveillance, and says nothing of police station records."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-08-20-undp-transition-justice-congolaise-onu-suede",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGCJ",
+      "country_label": "SIGCJ, système pour le casier judiciaire",
+      "class": "identification",
+      "platform": "",
+      "owner": "Justice sector (Ministry of Justice and Conseil supérieur de la magistrature); introduced 2020-2024 under the UN joint justice reform programme coordinated by UNDP, MONUSCO and the UN human rights office, financed by Sweden",
+      "tiers": "Not stated; more than 15,000 criminal record archives digitised"
+    }
+  ],
+  "note": "A justice-sector account: of the four systems introduced in 2020-2024, only the criminal record system SIGCJ falls in the study's field (identification); SIGAJ (court cases, made mandatory by the Conseil supérieur de la magistrature), SIGE (prison registers, over 45,000 detainee files) and SIGMA (magistrates, over 6,600) are court and prison systems, and no link from any of them to the police is stated. Nothing on station records."
+}

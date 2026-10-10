@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-15-gha-police-traffitech-gh-motorist-brochure",
+  "facts": [],
+  "systems": [
+    {"system": "Traffitech-GH", "country_label": "Traffitech-GH", "class": "single-function", "platform": "fixed, mobile and in-vehicle cameras, laser speed devices and handheld Personal Digital Assistants feeding a back office that validates offences and issues electronic notices of violation by SMS; linked to the DVLA driver registration database and a motor insurance database", "owner": "Ghana Police Service, Motor Traffic and Transport Department", "tiers": "all classes of locally registered motor vehicle on public roads; contests heard at a chosen MTTD police station; brochure issued September 2026"},
+    {"system": "Ghana.gov", "country_label": "www.ghana.gov.gh", "class": "public", "platform": "", "owner": "", "tiers": "national; the only channel for viewing evidence, paying and contesting Traffitech-GH fines, with *222# and *220# short codes"}
+  ],
+  "note": "No fact: the brochure covers automated traffic enforcement and fine payment only, a single-function system; it says nothing about station occurrence or case records."
+}

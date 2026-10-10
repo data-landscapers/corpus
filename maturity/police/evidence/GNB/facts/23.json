@@ -1,0 +1,39 @@
+{
+  "slug": "2023-03-09-undp-e-justice-guinea-bissau-learning-what-works",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SIGDAJ (Justice Information and Data Management System)",
+      "country_label": "SIGDAJ",
+      "class": "",
+      "platform": "Local solution developed by the ICT Director of the Ministry of Justice",
+      "owner": "Ministry of Justice; tests run by UNDP's Accelerator Lab",
+      "tiers": "Two-week test at Buba: paper documents of the Centre for Access to Justice, the criminal register and the tribunal digitised and linked to it; a justice ministry and courts system, with no police station named"
+    },
+    {
+      "system": "Criminal register (Buba), digitised into SIGDAJ",
+      "country_label": "criminal register",
+      "class": "identification",
+      "platform": "SIGDAJ",
+      "owner": "Ministry of Justice",
+      "tiers": "Buba, existing paper documents digitised in the test"
+    },
+    {
+      "system": "DHIS2 adaptation for the justice sector",
+      "country_label": "",
+      "class": "",
+      "platform": "DHIS2",
+      "owner": "Ministry of Justice, with UNDP",
+      "tiers": "Centre for Access to Justice, data collected on tablets directly from users; not a police system"
+    },
+    {
+      "system": "Justice portal for online criminal record applications",
+      "country_label": "justice portal",
+      "class": "public",
+      "platform": "",
+      "owner": "Ministry of Justice, with NOSI and UNDP support",
+      "tiers": "planned next step as at 9 March 2023, to be tested"
+    }
+  ],
+  "note": "No fact: the tests concern the Ministry of Justice, the Buba tribunal, the criminal register and the Centre for Access to Justice; the document does not mention the police, its stations or how they record reports or cases."
+}

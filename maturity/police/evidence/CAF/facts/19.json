@@ -1,0 +1,15 @@
+{
+  "slug": "2022-03-15-minusca-forces-securite-renseignement-database",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Criminal database (base de données criminelles) to be installed at the Direction des services de police judiciaire and the Services de recherches et investigations, connected to the central server of the Direction générale des opérations; a provisional version already made available to the internal security forces",
+      "country_label": "base de données criminelles (provisoire)",
+      "class": "",
+      "platform": "",
+      "owner": "Internal security forces (police and gendarmerie), with the MINUSCA police's criminal intelligence and analysis section",
+      "tiers": "Two headquarters directorates in Bangui; in March 2022 installation was 'imminent' and a provisional database was in use, with training (14 February to 8 March 2022) in six special units, two commissariats and four gendarmerie brigades of the Bangui units, 168 staff; the Damara commissariat's chief is quoted on using it"
+    }
+  ],
+  "note": "The document does not say what the criminal database records or who enters it; it is named in the setting of training on intelligence gathering, crime statistics and criminal analysis, so it is left unclassified and gives no fact. Some units reported having no computers and no electricity."
+}

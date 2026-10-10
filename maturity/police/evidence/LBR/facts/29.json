@@ -1,0 +1,10 @@
+{
+  "slug": "2024-07-01-liberia-national-cybersecurity-strategy-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Cybercrime Reporting Channel at the Liberian National Police", "country_label": "Cybercrime Reporting Channel", "class": "public", "platform": "an online portal for citizens and businesses to report cybercrimes, to be integrated with the national incident reporting portal", "owner": "Ministry of Justice and Liberia National Police", "tiers": "planned in the strategy's action plan for Q1 2025; not stated as existing"},
+    {"system": "National Cybercrime Management System", "country_label": "National Cybercrime Management System", "class": "single-function", "platform": "", "owner": "Ministry of Justice and Liberia National Police", "tiers": "planned: a concept of operations in 2024-2026, action plan date Q2 2025; to be integrated into the national criminal investigations system"},
+    {"system": "national criminal investigations system", "country_label": "national criminal investigations system", "class": "", "platform": "", "owner": "", "tiers": "named only, as what the cybercrime system is to be integrated into"}
+  ],
+  "note": "A cybersecurity strategy dated July 2024; it plans a cybercrime reporting portal and a cybercrime management system for the police and states nothing on station records."
+}

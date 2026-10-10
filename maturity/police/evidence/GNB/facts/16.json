@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-undp-guinea-bissau-annual-report-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Model Police Station, Sintchan Tombom (Gabú)",
+      "country_label": "Model Police Station",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Police, with UNDP support through the Peacebuilding Fund",
+      "tiers": "one station in Gabú region, opened 2024; premises, women's holding cells and training of over 100 agents, with no record system described"
+    },
+    {
+      "system": "Border control systems upgrade (digital passport readers and biometric verification)",
+      "country_label": "",
+      "class": "border",
+      "platform": "",
+      "owner": "Migration and borders directorate, with UNDP support financed by the Peacebuilding Fund",
+      "tiers": "Osvaldo Vieira International Airport and Bissau port equipped in 2024; regional entry points being installed"
+    }
+  ],
+  "note": "The policing section describes the Gabú model station as premises, staffing, training and community outreach; it states nothing on how the station records reports or cases, so there is no fact."
+}

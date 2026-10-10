@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-02-cabo-verde-programa-de-governo-cabo-verde-para-todos",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema Integrado de Estatísticas Criminais", "country_label": "Sistema Integrado de Estatísticas Criminais", "class": "statistics", "platform": "", "owner": "Government (a commitment of the programme; to be created)", "tiers": ""},
+    {"system": "SIC (Registo Criminal)", "country_label": "SIC", "class": "identification", "platform": "", "owner": "Registos, Notariado e Identificação services", "tiers": "named as an existing system to be developed and made fully operational"},
+    {"system": "Laboratório de Polícia Científica", "country_label": "Laboratório de Polícia Científica", "class": "identification", "platform": "", "owner": "Polícia Judiciária", "tiers": "to be modernised"},
+    {"system": "Plataforma Unificada de Segurança", "country_label": "Plataforma Unificada de Segurança", "class": "surveillance", "platform": "", "owner": "Government, in partnership with municipalities (a commitment; video surveillance to be increased)", "tiers": ""}
+  ],
+  "note": "The government programme (capture truncated at section 5) commits to an integrated crime statistics system, more video surveillance and the electronic judicial process, but names no system in which stations record reports or cases."
+}

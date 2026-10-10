@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-08-bfa-moussonews-digitalisation-services",
+  "facts": [],
+  "systems": [
+    {"system": "Online criminal-record (casier judiciaire) request", "country_label": "demande de casier judiciaire en ligne", "class": "public", "platform": "", "owner": "", "tiers": "online nationwide since October 2023, whatever the place of birth; 750 FCFA a request"},
+    {"system": "Online cybercrime complaints and reporting", "country_label": "plaintes et signalement en ligne sur la cybercriminalité", "class": "public", "platform": "", "owner": "", "tiers": "online"},
+    {"system": "Ouagadougou traffic-offence cameras with SMS fine notification", "country_label": "caméras de surveillance; contraventions notifiées par SMS", "class": "single-function", "platform": "payment by Faso Arzeka", "owner": "", "tiers": "Ouagadougou streets, since 1 August 2026"}
+  ],
+  "note": "Names public-facing services and a camera-based traffic-fine system only; nothing on how stations record reports or cases."
+}

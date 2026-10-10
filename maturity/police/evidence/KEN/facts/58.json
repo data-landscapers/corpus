@@ -1,0 +1,23 @@
+{
+  "slug": "2012-01-01-aiddata-kenya-cctv-100m-chinese-grant-project-30364",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Public Safety Communication and Surveillance System (IPSCSS)",
+      "country_label": "IPSCSS",
+      "class": "surveillance",
+      "platform": "Built by Safaricom, with Huawei, under a May 2014 contract expected to cost KES 14.9 billion (US$169.6 million)",
+      "owner": "Government of Kenya",
+      "tiers": "1,800 CCTV cameras with face and number-plate recognition in Nairobi and Mombasa, and a command and control centre; the same contract was to connect 195 police stations with high-speed internet, build a 4G LTE police network of 80 base stations, supply 7,600 radio devices and link 600 police vehicles to the centre"
+    },
+    {
+      "system": "CCTV Installation Project",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "Installed and integrated by Nanjing Les Information Technology",
+      "owner": "Government of Kenya",
+      "tiers": "42 cameras in the Nairobi Central Business District, due for completion by September 2013, under a US$100 million Chinese grant of 2012 meant for major cities and towns starting with Nairobi, Mombasa and Kisumu"
+    }
+  ],
+  "note": "The document describes camera and command-centre projects, of class surveillance, and police connectivity and radios, which are enabling; it states nothing about a system in which stations record reports or cases."
+}

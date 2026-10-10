@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-djibouti-la-poste-what3words",
+  "facts": [],
+  "systems": [
+    {"system": "La Poste web interface for ordering the Casier Judiciaire and Certificat de non condamnation", "country_label": "Documents administratifs", "class": "public", "platform": "", "owner": "La Poste de Djibouti", "tiers": "online, with La Poste described as present throughout the country; requests are passed to the services concerned"}
+  ],
+  "note": "A postal web service through which the public orders a criminal-record extract: a public-class portal, not a station record. The page is undated; its published date is a proxy."
+}

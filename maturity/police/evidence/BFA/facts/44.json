@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-05-sig-conseil-ministres-n004-irapol",
+  "facts": [],
+  "systems": [
+    {
+      "system": "IRAPOL (Identification, Rapprochement, Analyse de Police)",
+      "country_label": "IRAPOL",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministère de la Sécurité (project created by joint order of the security and finance ministries, 15 June 2020)",
+      "tiers": "Not stated; described as a digitised mechanism for pooling and sharing information among internal-security actors, with five modules deployed: the IRAPOL core, Police judiciaire, management of detainees and remand prisons, tracking of civilian arms, and the mobile version IRAPOL SMART"
+    }
+  ],
+  "note": "No fact: the communique (Council of Ministers, 5 February 2026) describes IRAPOL only as pooling and sharing information among internal-security actors and does not say that stations or brigades enter reports or cases in it, so it is not a record-class system on this document's words. It states the project 'has not reached the expected results' and is to be reformed as a development operation costed at FCFA 10 billion over 24 months, fiche approved 2026-02-05. Class is the drafter's reading of 'mutualisation et partage'; the Police judiciaire module is named but not described. Capture is an excerpt, truncated in the nominations section."
+}

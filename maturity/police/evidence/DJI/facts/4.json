@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's Djibouti police row says Djiboutian law mandates handwritten procès-verbaux and custody registers in police and gendarmerie stations, and concludes that recording at rural stations, which the National Gendarmerie runs outside Djibouti City, is predominantly on paper; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux and garde à vue registers", "class": "record"},
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's Djibouti police row says it found no evidence of digital case management, incident reports or complaints recording at rural stations, and that the 2025 Digital Code and mobile ID do not cover police case files; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux and garde à vue registers", "class": "record"}
+  ],
+  "systems": [
+    {"system": "records digitalization in National Police precincts", "country_label": "", "class": "single-function", "platform": "", "owner": "National Police", "tiers": "certain urban National Police precincts, phased, per the US State Department's 2020 human rights report as the essay cites it; not the gendarmerie or rural areas"},
+    {"system": "casier judiciaire", "country_label": "casier judiciaire", "class": "identification", "platform": "", "owner": "Ministry of Justice", "tiers": "issued manually, per the essay"}
+  ],
+  "note": "Passages file; the essay is an AI-assisted compilation by its own header and is in study.json's exclude_sources. The precinct digitalisation is described only as aimed at tracking arrestees, so it is classed single-function (custody) and gives no fact."
+}

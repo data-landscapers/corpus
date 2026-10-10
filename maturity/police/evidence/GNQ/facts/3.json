@@ -1,0 +1,31 @@
+{
+  "slug": "2025-12-09-guinea-ecuatorial-ley-presupuestos-generales-estado-2026",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Interconexión de las Comisarías de Policías",
+      "country_label": "Proyecto de Implementación de un Sistema de Interconexión de las Comisarías de Policías",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministerio de Seguridad Nacional",
+      "tiers": "police stations (comisarías); no number or location stated"
+    },
+    {
+      "system": "Bases de Datos CNEDOGE",
+      "country_label": "CNEDOGE",
+      "class": "",
+      "platform": "",
+      "owner": "Ministerio de Seguridad Nacional",
+      "tiers": "projects to interconnect its databases with the embassies, to migrate them, and to extend CNEDOGE to the provincial capitals"
+    },
+    {
+      "system": "Laboratorio Criminalístico y Anti-Drogas",
+      "country_label": "Laboratorio Criminalístico y Anti-Drogas",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministerio de Seguridad Nacional",
+      "tiers": ""
+    }
+  ],
+  "note": "No fact: the 2026 budget law lists, under the Ministerio de Seguridad Nacional's Programa de Reforzamiento (16A), project 006 to implement a system interconnecting the police stations, with no statement that stations record reports or cases in it. The passage's amount column is misaligned in the extract (005 and 006 sit beside figures of 25, unit not shown), so no amount is given. Also listed: a ministry web page (003), complaint boxes in stations (010), and Policía Nacional staffing lines."
+}

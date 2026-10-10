@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-06-eeas-gambia-launches-afis-wapis-criminal-investigations",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Automated Fingerprint Identification System (AFIS)",
+      "country_label": "criminal AFIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "Gambia Police Force Criminal Records Office/Scientific Support Unit, under the Ministry of Interior; funded by the European Union, implemented by INTERPOL, supported by ECOWAS",
+      "tiers": "Launched 28 April 2026 at the Criminal Records Office/Scientific Support Unit; the ministry says it extends beyond that office to key security institutions throughout the country"
+    },
+    {
+      "system": "WAPIS (Western African Police Information System)",
+      "country_label": "national WAPIS system",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "national law enforcement; programme funded by the European Union and implemented by INTERPOL",
+      "tiers": "Described only as the existing national system into which nominal data is inserted; no station or tier is given"
+    }
+  ],
+  "note": "The document is about the fingerprint system, class identification. It says nominal data is inserted into the existing national WAPIS system but not who enters it, where, or whether stations record reports or cases in it, so no record-class fact."
+}

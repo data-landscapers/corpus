@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states that rural stations of the PRM use entirely paper-based systems for case files, complaints and incident reports, such as the Auto de Notícia form, and that there is no police-wide digital case management; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "PRM station records (Auto de Notícia forms)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table states that PRM rural stations record case files, complaints and incident reports on paper, scoring the station level 1 of its scale; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "PRM station records (Auto de Notícia forms)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The essay's country table states that there is no police-wide digital case management and that station-level recording is paper-based; it gives no date, so the publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "PRM station records (Auto de Notícia forms)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay cites a 2014 study of 40 investigators in rural Nampula province that found manual information systems in use, with no IT although staff were capable of using it.", "as_of": "2014", "date_precision": "year", "system": "PRM investigators' manual information systems, Nampula", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay cites a 2024 incident report from Rapale district, rural Nampula, as a typed paper-style form later digitised as a PDF.", "as_of": "2024", "date_precision": "year", "system": "PRM station records (Auto de Notícia forms)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "PRM station records (Auto de Notícia forms)", "country_label": "Auto de Notícia", "class": "record", "platform": "paper", "owner": "PRM (Polícia da República de Moçambique)", "tiers": "rural police stations; Nampula province and Rapale district named"},
+    {"system": "central fingerprint records", "country_label": "", "class": "identification", "platform": "manual", "owner": "", "tiers": "central; stated to be manual"}
+  ],
+  "note": "Passages only. The source is an AI-assisted compilation by its own header and is listed under exclude_sources in study.json; facts recorded as the document states them."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-21-assabah-dgsn-aman-madar-smart-patrol-facial-recognition",
+  "facts": [],
+  "systems": [
+    {"system": "Amane smart patrol vehicle", "country_label": "أمان", "class": "surveillance", "platform": "Developed in-house by the DGSN's own engineers; 360-degree cameras, automatic plate reading and live facial recognition, linked to command and coordination rooms", "owner": "Direction Générale de la Sûreté Nationale (DGSN)", "tiers": "In field service in Rabat from the week of 20 July 2026; Casablanca and Tangier to follow within days, then major cities and police prefectures by stages"},
+    {"system": "Madar mobile surveillance platform", "country_label": "مدار", "class": "surveillance", "platform": "Light-bar unit with high-resolution cameras covering six traffic lanes and a panoramic camera, using the same AI algorithms as Amane", "owner": "Direction Générale de la Sûreté Nationale (DGSN)", "tiers": "In field service in Rabat from the week of 20 July 2026; Casablanca and Tangier to follow within days"},
+    {"system": "central database", "country_label": "قاعدة البيانات المركزية", "class": "", "platform": "", "owner": "Direction Générale de la Sûreté Nationale (DGSN)", "tiers": "Reached directly from the patrol vehicles through a built-in checking device"}
+  ],
+  "note": "Patrol vehicles with cameras, plate reading and facial recognition are surveillance; the central database they reach is named with no account of what it holds. Nothing on how a station records a report or a case."
+}

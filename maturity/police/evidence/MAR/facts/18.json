@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-02-biometricupdate-morocco-national-id-renewal-online",
+  "facts": [],
+  "systems": [
+    {"system": "portal of the national police (online national identity card renewal)", "country_label": "", "class": "public", "platform": "", "owner": "General Directorate of National Security (DGSN)", "tiers": "Online for the form, supporting documents and stamp fees; biometric capture still at an enrolment office. Announced in May 2026 at the DGSN Open Days in Rabat; also used to follow requests for residency certificates"}
+  ],
+  "note": "The police portal here serves identity card renewal and residency certificates, a public service of the national identity system; the Mon e-ID application and the planned digital wallet are identity products. Nothing on how a station records a report or a case."
+}

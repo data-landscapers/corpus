@@ -1,0 +1,27 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The Data Landscapers review states that Libya's rural police stations record case files, complaints and incident reports on paper under the 1953 Code of Criminal Procedure, that it found no evidence of a digital case management system deployed to rural stations, and that paper is the general practice nationwide (its score 1); the review gives no date, so as_of is its published date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper station records (no system named)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Data Landscapers review states that police in Libya draw up reports, notifications and monthly statistics on paper and submit them physically to the prosecution, with no digital tool mentioned at station level; the review gives no date, so as_of is its published date.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper station records (no system named)",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "Passages file; by its own header an AI-assisted compilation, and listed under exclude_sources in study.json. Only the Libya police row gives facts; it names no system."
+}

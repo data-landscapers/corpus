@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-29-caf-undp-umirr-digital-capacity",
+  "facts": [],
+  "systems": [
+    {
+      "system": "UMIRR integrated case-management software (logiciel intégré de gestion des interventions, de prévention et de répression des infractions liées aux VBG et aux violations des droits de l'enfant)",
+      "country_label": "système de gestion des cas de l'UMIRR",
+      "class": "single-function",
+      "platform": "",
+      "owner": "UMIRR (joint police and gendarmerie unit), set up in 2025 with UNDP and UNPOL (MINUSCA); training supported by the Office National de l'Informatique",
+      "tiers": "UMIRR unit; more than 1,595 victims recorded since it went into service, as of June 2026"
+    }
+  ],
+  "note": "The only system named is the UMIRR unit's case-management software for one class of offence (gender-based violence and child-rights violations): single-function, so no fact for station records."
+}

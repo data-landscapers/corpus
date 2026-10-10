@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-21-oxford-tech-justice-ethiopia-ai-criminal-justice-atlas",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Police Station System", "country_label": "Smart Police Station System", "class": "public", "platform": "", "owner": "", "tiers": "launched by the Prime Minister in February 2026 as the first unmanned station; citizens report crimes, submit documents, pay fines and use routine services at AI-driven self-service kiosks, with remote audio-video support from officers at a central station"},
+    {"system": "EFP App", "country_label": "EFP App", "class": "public", "platform": "mobile application", "owner": "Ethiopian Federal Police, developed jointly with the Ethiopian AI Institute", "tiers": "launched May 2024; operating in Addis Ababa as at July 2026; citizens report crimes, upload files, share location and track their reports"},
+    {"system": "integrated criminal intelligence system", "country_label": "", "class": "", "platform": "", "owner": "reportedly under development with the Ministry of Justice", "tiers": ""}
+  ],
+  "note": "No fact: the document describes no system in which officers at a station record reports or cases. The unmanned Smart Police Station is described as a self-service channel for the public (kiosks, remote officers) and the EFP App as a public reporting app, so both are classed public; the parent may wish to check the kiosk classification."
+}

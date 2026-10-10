@@ -1,0 +1,8 @@
+{
+  "slug": "2023-12-01-liberia-lta-national-numbering-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Liberia National Police short code 911", "country_label": "911", "class": "public", "platform": "a harmonised special numbering resource in the national numbering plan", "owner": "Liberia National Police; the number allocated by the Liberia Telecommunications Authority", "tiers": "national short code, December 2023"}
+  ],
+  "note": "A telephone numbering plan; it allocates 911 to the police and states nothing on station records."
+}

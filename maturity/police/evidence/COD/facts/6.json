@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-09-acp-identification-biometrique-pnc-phase-operationnelle",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Identification biométrique des effectifs de la PNC (fichier biométrique unique des policiers)",
+      "country_label": "identification biométrique des effectifs de la Police nationale congolaise",
+      "class": "personnel",
+      "platform": "",
+      "owner": "Ministry of the Interior and the PNC; executed by the company Africa Business Agency (ABA)",
+      "tiers": "Entered its operational phase on 9 July 2026; to be deployed progressively in the 26 provinces, Kinshasa as pilot province; biometric enrolment not yet launched"
+    }
+  ],
+  "note": "The only system is a biometric file of police officers for staff, payroll and career management, class personnel; nothing is stated about station records."
+}

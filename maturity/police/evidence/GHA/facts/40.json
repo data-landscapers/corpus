@@ -1,0 +1,10 @@
+{
+  "slug": "2024-02-18-ghana-mocd-press-briefing-rural-telephony-ghanagov-egovnet",
+  "facts": [],
+  "systems": [
+    {"system": "eGovernment Network Connectivity Infrastructure (eGovNet)", "country_label": "eGovNet; GovNet; Digital Super Information Gateway (DSIG 100x)", "class": "enabling", "platform": "fibre backbone, microwave links and VSAT backup", "owner": "Ministry of Communications and Digitalisation; built by AirtelTigo and Ascend Digital Solutions under a 10-year contract", "tiers": "255 of 256 planned police sites connected, among 950 of 951 government sites, as at February 2024"},
+    {"system": "e-Services platform: application for fingerprint check and nominal vetting", "country_label": "e-Services platform (Ghana E-Services Payment Platform)", "class": "public", "platform": "portal developed by IPMC, payment platform by AYA Technologies on Magento", "owner": "NITA; service of the Ghana Police Service Criminal Investigation Division", "tiers": "online service deployed in 2014; the platform was later discontinued in favour of Ghana.gov"},
+    {"system": "Ghana.gov", "country_label": "Ghana.gov", "class": "public", "platform": "built and run by a consortium of Hubtel, expressPay and IT Consortium", "owner": "Government of Ghana under a public-private partnership", "tiers": "national; the minister says the police can now connect to it to support spot fines"}
+  ],
+  "note": "No station-record system is described: the document gives police sites connected to the government network, an online fingerprint-check application and the possibility of spot fines through Ghana.gov, all of noted classes."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's country table says its searches of web, academic, US State Department, UK, UNODC, Shabait and OSAC material found no evidence of digital case management, incident reporting or records systems in the Eritrean police, rural stations included, and scores police 1; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's country table infers, from the absence of any evidence of a digital system and from manual investigations under the Criminal Procedure Code, that recording at rural police stations is entirely on paper; this is the author's inference, not a sourced statement, and no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "",
+      "class": "record"
+    }
+  ],
+  "systems": [],
+  "note": "Excluded source under study.json (AI-assisted compilation); both facts are an inference from absence of evidence, not a sourced statement. The row also mentions police computer training (enabling) and names no police system."
+}

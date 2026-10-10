@@ -1,0 +1,26 @@
+{
+  "slug": "2024-08-12-haki-na-sheria-v-ag-maisha-ruling",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "The Interior ministry's principal secretary swore on 1 August 2024, as the High Court's ruling records it, that the identity data system supports government infrastructure including the police service's online occurrence book; the ruling gives no count of stations and does not say where entries are made.",
+      "as_of": "2024-08-01",
+      "date_precision": "day",
+      "system": "police service online occurrence book",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "police service online occurrence book",
+      "country_label": "online occurrence book",
+      "class": "record",
+      "platform": "",
+      "owner": "National Police Service",
+      "tiers": "Not stated; named in an Interior ministry affidavit of 1 August 2024 as one of the government systems that depend on the national identity data system"
+    }
+  ],
+  "note": "A ruling on the Maisha identity card; the occurrence book appears once, in the ministry's list of systems that the stayed identity database supports, which is also a link from the police system to the national identity system."
+}

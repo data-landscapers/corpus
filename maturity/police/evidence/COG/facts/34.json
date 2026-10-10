@@ -1,0 +1,15 @@
+{
+  "slug": "2020-12-01-republique-du-congo-diagnostic-economie-numerique-de4a",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Base de données biométrique des cartes d'identité nationales",
+      "country_label": "base de données biométrique des cartes d'identité nationales",
+      "class": "",
+      "platform": "",
+      "owner": "A private company engaged by the Government since 2008; the same company runs passport services",
+      "tiers": "Not stated; not interoperable with the passport system or the civil registry"
+    }
+  ],
+  "note": "The passages describe the national identity card biometric database (photos and fingerprints, digitised by a private contractor since 2008) and government payments; 'commissariat' is the UN refugee agency. Nothing on police or gendarmerie stations or their records; the identity card database is a civil identity system that fits none of the typology's classes as described, so its class is left empty."
+}

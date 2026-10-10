@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Accra CCTV surveillance", "country_label": "CCTV surveillance", "class": "surveillance", "platform": "Huawei and ZTE are among the vendors listed for Accra; the table does not tie either to the cameras", "owner": "", "tiers": "Accra; deployment rated moderate, with facial recognition, AI analytics and biometrics listed; an integrated command and control centre is marked unknown"}
+  ],
+  "note": "An AI-written essay on smart cities by its own account; its Accra column gives only city surveillance, a noted class, and nothing on police station records."
+}

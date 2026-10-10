@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National register (Omang) access by the Botswana Police Service",
+      "country_label": "Omang national register",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Department of Civil and National Registration holds the register; technical support from the Department of Shared Digital Services",
+      "tiers": "The National Registration (Amendment) Act 1993 authorises the Botswana Police Service, among four bodies, to draw on Omang data; the document describes a legal authorisation, not a technical link"
+    }
+  ],
+  "note": "Passages file; the Botswana passages concern the Omang national identity system, digitised in 1999 with an automated fingerprint identification system that is the civil identity system's, not a police one. The police appear only as a body authorised to access the register. Nothing on station records. Passages on Egypt, Liberia and Namibia are other countries' and give nothing for BWA."
+}

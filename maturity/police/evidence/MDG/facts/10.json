@@ -1,0 +1,68 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's country table states that Madagascar's rural police stations, run mainly by the National Gendarmerie, record criminal cases and complaints entirely on paper, and scores the police row 1; it gives no date for the statement, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper recording of criminal cases and complaints (no system named)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's country table states that it found no evidence of routine digital case management at the point of service in Madagascar's rural stations, with digital work limited to central-level initiatives and the courts' applications not extended to rural police recording; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "paper recording of criminal cases and complaints (no system named)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "paper recording of criminal cases and complaints (no system named)",
+      "country_label": "",
+      "class": "record",
+      "platform": "paper",
+      "owner": "National Gendarmerie, mainly, for rural stations",
+      "tiers": "rural police stations"
+    },
+    {
+      "system": "Custody registers",
+      "country_label": "registres de garde à vue",
+      "class": "single-function",
+      "platform": "paper",
+      "owner": "",
+      "tiers": "all stations, including rural ones, as the essay reads the APT guide"
+    },
+    {
+      "system": "UNDP-supported software for judicial file tracking in the technical and scientific police",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "UNDP-supported; 2025 tender",
+      "tiers": "planned, central level"
+    },
+    {
+      "system": "Laptop donations to the gendarmerie",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Gendarmerie",
+      "tiers": "basic administration, 2025"
+    },
+    {
+      "system": "LOGIPENAL",
+      "country_label": "LOGIPENAL",
+      "class": "",
+      "platform": "",
+      "owner": "justice sector",
+      "tiers": "courts, since 2018; not extended to rural police recording"
+    }
+  ],
+  "note": "Passages file. The document's own header calls its country figures an AI-aided compilation, not sourced fact, and study.json lists it under exclude_sources; the facts are what its Madagascar police row states, and its 'none' is a statement of evidence not found. The UNDP file-tracking software is described too thinly to class."
+}

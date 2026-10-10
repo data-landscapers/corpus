@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-18-cote-divoire-padci-revue-services-numeriques-cartographie-e-services-rapport-final",
+  "facts": [],
+  "systems": [
+    {"system": "e-justice.ci", "country_label": "plateforme e-justice.ci", "class": "public", "platform": "", "owner": "Ministère de la Justice, with SNDI infrastructure, ONECI identification and Treasury payment", "tiers": "citizens' online access to the nationality certificate and the criminal-record extract; the report recommends finishing its deployment"},
+    {"system": "Casier judiciaire électronique", "country_label": "Casier judiciaire électronique consultable en ligne", "class": "identification", "platform": "", "owner": "", "tiers": "recommended, not in place"},
+    {"system": "Système Intégré de Gestion des Procédures Judiciaires", "country_label": "Système d'Intégré de Gestion des Procédures Judiciaires", "class": "", "platform": "", "owner": "", "tiers": "named for upgrading; not stated"},
+    {"system": "CGI Digital", "country_label": "portail CGI Digital", "class": "public", "platform": "", "owner": "", "tiers": "users' online procedures and payments for vehicle registration, licences and fines"}
+  ],
+  "note": "The passages cover the e-services review's justice and security cluster, which is the justice ministry's e-justice.ci and court systems; nothing is said of police or gendarmerie stations or their records."
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's Guinea-Bissau police row scores rural police stations 1 and says it has no direct evidence on them, inferring from UNDP's 2023 e-justice account that recording is predominantly paper at rural and outlying stations, with digital entry central or in pilots; no figures, and no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "Station records (no system named)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "pj.gw online complaint submission",
+      "country_label": "pj.gw",
+      "class": "public",
+      "platform": "",
+      "owner": "Polícia Judiciária",
+      "tiers": "online, with case tracking; no tier stated"
+    },
+    {
+      "system": "Judiciary Police judicial forum website",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Polícia Judiciária",
+      "tiers": ""
+    },
+    {
+      "system": "goCASE",
+      "country_label": "",
+      "class": "",
+      "platform": "UNODC goCASE",
+      "owner": "",
+      "tiers": "2014, limited to the urban Transnational Crime Unit (TCU)"
+    },
+    {
+      "system": "SIGDAJ",
+      "country_label": "SIGDAJ",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": "ministry data aggregation; a justice-sector system, not a police one"
+    },
+    {
+      "system": "Gabú model police station",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "UNODC/UNDP supported, 2024",
+      "tiers": "one rural station at Gabú; community-policing premises, no records technology mentioned"
+    }
+  ],
+  "note": "Passages file; only the Guinea-Bissau police row is in the study's field. The source is on study.json's exclude_sources list as an AI-assisted compilation; its one statement is an inference from an absence of evidence, not an observed absence, and its text contradicts its own score (says 'fits score 2', column gives 1)."
+}

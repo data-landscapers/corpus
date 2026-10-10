@@ -1,0 +1,8 @@
+{
+  "slug": "2026-10-02-ben-certificats-de-perte-delivres-en-ligne",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme de délivrance des certificats de perte (www.certificatdeperte.bj)", "country_label": "plateforme du Centre de documentation et de sécurité publique (CDSP)", "class": "public", "platform": "www.certificatdeperte.bj", "owner": "Police républicaine, through the CDSP", "tiers": "sole channel for loss certificates from 1 October 2026 under a note de service of the Director General; electronic payment only; stations no longer issue the certificate, and station heads are to inform people declaring a loss and help them use the platform"}
+  ],
+  "note": "A public portal for one document, the loss certificate (lost documents are single-function in the typology): the declarant, not the station, enters the request, so no fact for station records."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-djibouti-bodycam-police-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "bodycam", "country_label": "bodycam (caméra-piéton)", "class": "surveillance", "platform": "", "owner": "Police Nationale", "tiers": "worn by national police and road-safety officers; the article describes patrols in the centre and busy districts of Djibouti city"}
+  ],
+  "note": "Body-worn cameras filming interventions only: a surveillance-class device. Nothing on how a station records a report or a case."
+}

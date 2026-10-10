@@ -1,0 +1,23 @@
+{
+  "slug": "2015-09-21-wapis-west-african-police-information-system-launched",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System (WAPIS)",
+      "country_label": "WAPIS, installed in the national Data Collection and Registration Centre (DACORE)",
+      "class": "",
+      "platform": "WAPIS, implemented by INTERPOL with ECOWAS, funded by the European Union",
+      "owner": "INTERPOL as implementer; Mali's interior ministry attended the launch",
+      "tiers": "National DACORE inaugurated in Bamako in September 2015; no stations named"
+    },
+    {
+      "system": "I-24/7",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "INTERPOL secure global police communications system",
+      "owner": "INTERPOL",
+      "tiers": "Each DACORE is to be connected to it"
+    }
+  ],
+  "note": "No fact: the release says WAPIS was launched in Mali in September 2015 inside a DACORE in Bamako, to centralise police information from national law enforcement agencies and to convert existing paper police data to digital alongside new police data; it does not say stations enter reports or cases in it, so the system is not classed as record."
+}

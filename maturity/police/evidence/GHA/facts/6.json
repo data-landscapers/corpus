@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-20-gha-worldports-icolms-courier-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Traffitech-GH", "country_label": "Traffitech-GH", "class": "", "platform": "", "owner": "Ghana Police Service", "tiers": ""}
+  ],
+  "note": "A courier-licensing platform; the police platform Traffitech-GH is named only as a planned integration for monitoring and enforcement, with no account of what it does, so it is unclassified and gives no fact."
+}

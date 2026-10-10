@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-25-cnib-carte-nationale-identite-burkinabe",
+  "facts": [],
+  "systems": [
+    {"system": "CNIB control and issuing system", "country_label": "système de contrôle et d'émission de CNIB", "class": "", "platform": "duplicate search on demographic data and fingerprint biometrics, with facial biometrics added in 2009", "owner": "Office National d'Identification (ONI)", "tiers": "data collection centres (CCD) installed in police commissariats, intermediary data processing centres (CTID), ONI production centre"}
+  ],
+  "note": "Undated standing page of the national police on the identity card (published date is the capture date); the civil identity system falls in no class of the typology. A lost card is declared at a commissariat, with nothing said on how the declaration is recorded."
+}

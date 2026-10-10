@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-03-tinto-hebergement-national-souverainete",
+  "facts": [],
+  "systems": [
+    {"system": "Online criminal-record (casier judiciaire) request", "country_label": "casier judiciaire en ligne", "class": "public", "platform": "", "owner": "", "tiers": "online, beside paper requests made at the court"}
+  ],
+  "note": "Interview on the decree governing state digital platforms; the criminal record is cited only as an example of tracking online against paper requests. Nothing on police or gendarmerie station records."
+}

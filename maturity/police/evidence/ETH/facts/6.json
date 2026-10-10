@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-12-fayda-enhances-police-operations-crime-prevention",
+  "facts": [],
+  "systems": [
+    {"system": "police referral app", "country_label": "police referral app", "class": "", "platform": "", "owner": "Ethiopian Federal Police", "tiers": ""},
+    {"system": "unmanned police service centers", "country_label": "unmanned police service centers", "class": "", "platform": "", "owner": "Ethiopian Federal Police", "tiers": ""},
+    {"system": "connection of the police referral app and unmanned police service centers to the Fayda national digital ID system", "country_label": "", "class": "exchange", "platform": "Fayda", "owner": "Ethiopian Federal Police; National ID Program", "tiers": "stated by the Federal Police Chief Commissioner on 12 March 2026 at a meeting with deputy commissioners of all regional states; no count of sites given"}
+  ],
+  "note": "No fact: the Chief Commissioner names a police referral app and unmanned police service centers without saying what either does, and says both are connected to the national digital ID; nothing is stated about how stations record reports or cases."
+}

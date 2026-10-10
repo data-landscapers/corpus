@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-24-graphic-cameras-replace-police-mttd-traffic-enforcement",
+  "facts": [],
+  "systems": [
+    {"system": "Automated traffic enforcement camera system", "country_label": "digital system to detect and enforce road traffic offences (not named in the document)", "class": "single-function", "platform": "face, mobile and in-vehicle cameras, handheld devices and radar, reviewed in a back-office control room, with electronic notices to offenders' phones", "owner": "Ghana Police Service Motor Traffic and Transport Department, under the Ministry of the Interior", "tiers": "more than 47 traffic offences; the minister said on 24 August 2026 it would be fully operational from September 2026"},
+    {"system": "National Crime Automated Biometric Identification System", "country_label": "National Crime Automated Biometric Identification System", "class": "identification", "platform": "", "owner": "Ministry of the Interior", "tiers": "being introduced; expected to reach 751 centres across the country by the end of 2026, per the minister on 24 August 2026"}
+  ],
+  "note": "No fact: the document covers automated traffic enforcement and a biometric identification system, both noted classes, and nothing on station occurrence or case records."
+}

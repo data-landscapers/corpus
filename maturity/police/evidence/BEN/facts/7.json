@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-21-benin-programme-wadagni-talata-2026-2033",
+  "facts": [],
+  "systems": [
+    {"system": "accès en ligne aux casiers judiciaires", "country_label": "casiers judiciaires en ligne", "class": "public", "platform": "", "owner": "", "tiers": "one of more than ten justice services stated as online"},
+    {"system": "Justice BJ", "country_label": "application « Justice BJ »", "class": "public", "platform": "", "owner": "", "tiers": "being generalised: case tracking, decisions, requests for documents and payments, for court services"}
+  ],
+  "note": "A presidential programme whose excerpt covers justice, administration and technology; it names no police system, and 'commissariat' occurs only in the name of a Haut-Commissariat."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2016-01-01-id4d-country-diagnostic-morocco",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CNIE system (with its Automatic Fingerprint Identification System)",
+      "country_label": "Carte Nationale d'Identité Electronique (CNIE)",
+      "class": "identification",
+      "platform": "AFIS from an unnamed vendor, with a proprietary fingerprint template on the card",
+      "owner": "Direction Générale de la Sûreté Nationale (DGSN), within the Ministry of Interior",
+      "tiers": "About 100 enrolment centres (CEDI) of a planned 120; back-end systems in place since 2008"
+    }
+  ],
+  "note": "The passages describe the police-run national identity card and its fingerprint de-duplication, a civil identity system; criminal records appear only as a database said to carry the card number, and nothing on how stations record reports or cases is stated."
+}

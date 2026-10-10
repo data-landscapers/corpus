@@ -1,0 +1,9 @@
+{
+  "slug": "2008-01-14-cabo-verde-boletim-oficial-lei-22-vii-2008-base-dados-recenseamento-eleitoral",
+  "facts": [],
+  "systems": [
+    {"system": "Base de Dados da Direcção de Emigração e Fronteiras", "country_label": "Base de Dados da Direcção de Emigração e Fronteiras", "class": "border", "platform": "", "owner": "Ministério da Administração Interna", "tiers": "holds residence authorisations and length of stay of foreign citizens; to be interconnected with the electoral database"},
+    {"system": "Base de Dados do Arquivo Nacional de Identificação Civil", "country_label": "Arquivo Nacional de Identificação Civil e Criminal", "class": "", "platform": "", "owner": "Ministério da Justiça", "tiers": "named as a database to be interconnected with the electoral database; what it holds on criminal identification is not described"}
+  ],
+  "note": "An official bulletin of 2008 (capture truncated) carrying the electoral database law, the law on state fees and the decree creating the financial intelligence unit; the police terms are the Polícia Judiciária as a member and recipient of that unit and a labour inspectors' course item, and nothing is stated about how stations record reports or cases."
+}

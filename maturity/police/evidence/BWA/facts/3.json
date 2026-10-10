@@ -1,0 +1,31 @@
+{
+  "slug": "2026-06-25-cybercrime-surges-safer-city-borders",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Safer city programme (CCTV surveillance cameras)",
+      "country_label": "safer city programme",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Botswana Police Service",
+      "tiers": "Cameras at points of entry (Sir Seretse Khama International Airport and the Tlokweng, Ramatlabama, Pioneer Gate, Ramotswa, Martins Drift, Maitengwe, Kazungula, Mohembo and Mamuno borders), monitored from police headquarters; expansion to other major villages and critical infrastructure planned"
+    },
+    {
+      "system": "Interpol International Child Sexual Exploitation Database",
+      "country_label": "Interpol International Child Sexual Exploitation Database",
+      "class": "exchange",
+      "platform": "INTERPOL ICSE database",
+      "owner": "INTERPOL; connected by the Botswana Police Service",
+      "tiers": "National connection; the commissioner says Botswana is the first country in sub-Saharan Africa to connect"
+    },
+    {
+      "system": "Traffic enforcement technologies",
+      "country_label": "traffic enforcement technologies",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Botswana Police Service",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "The commissioner's report to the Public Accounts Committee (2026-06-24) names surveillance, traffic and Interpol systems only; nothing on the station's occurrence book or case file, so no fact for the record class."
+}

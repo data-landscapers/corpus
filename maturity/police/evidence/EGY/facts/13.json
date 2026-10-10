@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-14-moi-mansat-al-tahaqquq-al-biyumitri-wal-musadaqa",
+  "facts": [],
+  "systems": [
+    {"system": "منصة التحقق البايومترى والمصادقة (MOIEG-PASS)", "country_label": "منصة التحقق البايومترى والمصادقة", "class": "public", "platform": "MOIEG-PASS smartphone application; face-recognition verification, described as developed in Egypt", "owner": "Ministry of Interior", "tiers": "national; citizens authenticating to the ministry's online services, in trial operation at 2026-02-14"}
+  ],
+  "note": "The Interior Ministry's citizen authentication app for its online services, in trial; not a station record system. The page's menu carries a 'complaints and reports' link with no description."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-01-moi-gambia-committed-to-implement-wapis-programme",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West African Police Information System Data Collection and Registration Centre (WAPIS-DACORE)",
+      "country_label": "WAPIS-DACORE",
+      "class": "",
+      "platform": "WAPIS",
+      "owner": "Ministry of Interior, with ECOWAS, INTERPOL and the European Union; a National Steering Committee chaired by the Ministers of Interior and Defence",
+      "tiers": "One national data collection and registration centre, inaugurated 14 October 2021; no station is named"
+    }
+  ],
+  "note": "The Ministry of Interior's page says the WAPIS data collection and registration centre was inaugurated on 14 October 2021 and that the steering committee's second meeting assessed its implementation; the page itself is undated. It describes the aim as police information management and sharing and does not say stations enter reports or cases, so under the typology's rule for this system it is unclassified and gives no fact."
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-05-13-police-to-deploy-body-cameras-digital-obs-cctv-in-major-2027-election-security-overhaul",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "Inspector General Douglas Kanja told the National Assembly's security committee on 13 May 2026 that the planned IC4 system will introduce digital Occurrence Books, as something still to come.", "as_of": "2026-05-13", "date_precision": "day", "system": "Digital Occurrence Books under the Integrated Command, Control, Communication and Coordination (IC4) system", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The Inspector General told MPs on 13 May 2026 that the service did not yet have the digital systems, digital Occurrence Books among them, and expected them within three to four months; no station is said to be using one.", "as_of": "2026-05-13", "date_precision": "day", "system": "Digital Occurrence Books under the Integrated Command, Control, Communication and Coordination (IC4) system", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "The National Police Service itself presented the IC4 programme, with digital Occurrence Books, to Parliament on 13 May 2026 as its own investment, the Inspector General speaking for it.", "as_of": "2026-05-13", "date_precision": "day", "system": "Digital Occurrence Books under the Integrated Command, Control, Communication and Coordination (IC4) system", "class": "record"},
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "On 13 May 2026 the Inspector General announced to a parliamentary committee the rollout of IC4, to bring digital Occurrence Books within three to four months; this is an announced rollout, not a completed one.", "as_of": "2026-05-13", "date_precision": "day", "system": "Digital Occurrence Books under the Integrated Command, Control, Communication and Coordination (IC4) system", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Digital Occurrence Books under the Integrated Command, Control, Communication and Coordination (IC4) system", "country_label": "digital OBs; IC4", "class": "record", "platform": "", "owner": "National Police Service", "tiers": "Not stated; announced, not yet in use in May 2026"},
+    {"system": "Integrated Command, Control, Communication and Coordination (IC4) system", "country_label": "IC4", "class": "surveillance", "platform": "", "owner": "National Police Service", "tiers": "Planned replacement for IC3; to carry digital OBs, body-worn cameras, automated traffic fines and expanded CCTV"},
+    {"system": "IC3 surveillance network", "country_label": "IC3", "class": "surveillance", "platform": "", "owner": "National Police Service", "tiers": "Not stated; described as ageing"},
+    {"system": "Automated traffic fine system", "country_label": "automated traffic management system", "class": "single-function", "platform": "", "owner": "National Police Service", "tiers": "Not stated; planned under IC4"},
+    {"system": "Body-worn cameras", "country_label": "body cameras", "class": "surveillance", "platform": "", "owner": "National Police Service", "tiers": "Not stated; planned under IC4"}
+  ],
+  "note": "The document gives no count of stations using a digital occurrence book. It reports police stations receiving Appropriations in Aid rising from 575 to 1,142 over three years, which is a funding count and not the force's count of stations."
+}

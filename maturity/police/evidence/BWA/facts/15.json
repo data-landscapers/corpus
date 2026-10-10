@@ -1,0 +1,15 @@
+{
+  "slug": "2019-10-22-botswana-national-trade-platform",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Trade Facilitation Platform (integrated Customs Management System and national Single Window)",
+      "country_label": "national Single Window / integrated CMS",
+      "class": "border",
+      "platform": "Trade Facilitation Platform (TFP), replacing ASYCUDA++ in use since 2002",
+      "owner": "Botswana Unified Revenue Service, internally funded",
+      "tiers": "all ports and land borders; seven government agencies connected in phase one, the Botswana Police Service sitting on the steering committee"
+    }
+  ],
+  "note": "A customs system, out of the study's scope; the Botswana Police Service appears only as a steering-committee member and one of the agencies on the trade platform. Nothing on station records."
+}

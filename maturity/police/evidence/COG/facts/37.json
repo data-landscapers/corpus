@@ -1,0 +1,54 @@
+{
+  "slug": "2014-02-01-apc-ameliorer-acces-justice-sante-tic-congo-rapport-enquete",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "An APC and AZUR Développement survey of police stations in Pointe-Noire and Nkayi, run December 2013 to January 2014, states that work in the commissariats is manual at almost every level, that the few computers found there serve only for secretarial work, and that there is no digital archiving.",
+      "as_of": "2014-01",
+      "date_precision": "month",
+      "system": "",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The APC and AZUR Développement survey (December 2013 to January 2014) states that Nkayi's commissariats hold one or two computers each on average, used by two to four self-taught officers for typing, scanning and printing documents, with the work otherwise manual and no internet connection at the station.",
+      "as_of": "2014-01",
+      "date_precision": "month",
+      "system": "",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "The APC and AZUR Développement survey (December 2013 to January 2014) names no station in its area of Pointe-Noire and Nkayi making a digital record: Nkayi has eight police posts besides the central commissariat and one gendarmerie brigade, and the survey says the commissariats' computers serve secretarial work only.",
+      "as_of": "2014-01",
+      "date_precision": "month",
+      "system": "",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "chaîne pénale",
+      "country_label": "logiciel « chaîne pénale » (PAREDA)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministère de la Justice et des Droits humains, with European Union funding",
+      "tiers": "Planned for the court registries, the prisons and the judicial police of Brazzaville, Dolisie and Pointe-Noire; software still under development in 2011-2012"
+    },
+    {
+      "system": "casier judiciaire",
+      "country_label": "service central du casier judiciaire",
+      "class": "identification",
+      "platform": "chaîne pénale software, planned",
+      "owner": "Ministère de la Justice et des Droits humains",
+      "tiers": "Brazzaville: a planned network of the central criminal records service with the judicial police, the prisons and the civil registry"
+    }
+  ],
+  "note": ""
+}

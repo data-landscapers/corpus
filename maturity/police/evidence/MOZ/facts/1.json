@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-29-74pct-legal-entity-registration-electronic-clubofmozambique",
+  "facts": [],
+  "systems": [
+    {"system": "criminal records registry", "country_label": "criminal records registry", "class": "identification", "platform": "", "owner": "Ministry of Justice, Constitutional and Religious Affairs", "tiers": "not stated; the minister said in June 2026 that it operates with a digital database"},
+    {"system": "prison system database", "country_label": "prison system", "class": "", "platform": "", "owner": "Ministry of Justice, Constitutional and Religious Affairs", "tiers": "not stated; said to operate with a digital database"}
+  ],
+  "note": "The justice minister says the criminal records registry and prison system run on digital databases; nothing on police stations or their records, so no fact."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "2025-01-01-mrt-agence-nationale-du-registre-des-populations-et-des-titres-securises",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AFIS Criminel",
+      "country_label": "AFIS Criminel",
+      "class": "",
+      "platform": "",
+      "owner": "Agence Nationale du Registre des Populations et des Titres Sécurisés (ANRPTS), Ministère de l'Intérieur",
+      "tiers": "A box in the architecture diagram of the Registre National Biométrique des Populations, beside AFIS Civil; the deck does not say what it does or who uses it"
+    },
+    {
+      "system": "SIGPTS",
+      "country_label": "Système intégré de Gestion des Populations et des Titres Sécurisés (SIGPTS)",
+      "class": "border",
+      "platform": "",
+      "owner": "ANRPTS, Ministère de l'Intérieur",
+      "tiers": "National biometric population register with control and verification stations, crossing points (points de passage), consulates and citizen reception centres; the deck gives its purposes as identifying citizens and residents, securing titles and managing migration flows"
+    },
+    {
+      "system": "NNI / Houwiyeti interconnection",
+      "country_label": "Numéro National d'Identification (NNI), Houwiyeti",
+      "class": "exchange",
+      "platform": "",
+      "owner": "ANRPTS",
+      "tiers": "The deck says digital services are interconnected through Houwiyeti and the NNI, and its diagram lists 'Police, sécurité' among the connected parties with ministries, telecom operators, banks and platforms; no tier stated"
+    }
+  ],
+  "note": "An ANRPTS slide deck on the population register; it states nothing about police stations or their records. 'AFIS Criminel' is a diagram label only, so its class is left empty."
+}

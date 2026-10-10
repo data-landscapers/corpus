@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-30-madagascar-police-digital-platform-gbv-disappearances",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Plateforme de signalement VBG et disparitions (vbg.pn.gov.mg)",
+      "country_label": "plateforme de signalement en ligne de la Police nationale",
+      "class": "public",
+      "platform": "Website and Android application built in-house; software not named",
+      "owner": "Police nationale, Direction des systèmes d'information et des transmissions (DSIT), under the Ministère de la Sécurité publique",
+      "tiers": "Public, online, nationwide; reports handled by specialised national police services and passed to the Brigade féminine de proximité, the Police des moeurs et de la protection des mineurs or the cybercrime service"
+    }
+  ],
+  "note": "The only system is a public reporting portal presented on 28 July 2026 (class public); the document says nothing on how stations themselves record a complaint or a case."
+}

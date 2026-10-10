@@ -1,0 +1,15 @@
+{
+  "slug": "2024-04-01-cnie-carte-nationale-identite-electronique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Numéro d'Identification Personnel (NIP) enrolment, preceding the Carte Nationale d'Identité Electronique (CNIE)",
+      "country_label": "NIP / CNIE (projet IBOGA)",
+      "class": "",
+      "platform": "biometric enrolment under the IBOGA project",
+      "owner": "ministère de l'Intérieur (DGDI)",
+      "tiers": "first phase Greater Libreville from 3 April 2024, at centres including the commissariats of Belle Vue II, Nzeng Ayong, Owendo and Akanda and the Inspection Générale des FPN; national in a second phase"
+    }
+  ],
+  "note": "Civil identity enrolment hosted in police premises, not a police record system: from 3 April 2024 the personal identification number (NIP) was issued in Greater Libreville centres that include four police commissariats and the police inspectorate's headquarters. Class left empty because the typology has no class for identity-card enrolment."
+}

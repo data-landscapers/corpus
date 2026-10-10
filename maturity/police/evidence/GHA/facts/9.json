@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-ghana-police-service-criminal-data-service-bureau-cdsb",
+  "facts": [],
+  "systems": [
+    {"system": "Automated fingerprint identification system (AFIS)", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "Ghana Police Service, Criminal Data Service Bureau, CID Headquarters", "tiers": "CID Headquarters; implemented September 2011, over 3,700 fingerprints and related records captured"},
+    {"system": "Criminal Records Database System", "country_label": "automated criminal records database", "class": "identification", "platform": "", "owner": "Ghana Police Service, Criminal Data Service Bureau, CID Headquarters", "tiers": "CID Headquarters; implemented May 2001, convict records back to 1986 captured"},
+    {"system": "Police Gazette", "country_label": "Police Gazette", "class": "identification", "platform": "", "owner": "Ghana Police Service, Criminal Data Service Bureau", "tiers": "publication of wanted and missing persons and stolen and recovered property; not said to be digital"}
+  ],
+  "note": "Both systems are fingerprint and criminal-record systems at CID Headquarters, class identification, so no fact. The page says police stations send suspects' and convicts' fingerprints and crime details to the bureau on CID Forms 6 and 8 for classification and preparation of criminal records, and that manual records are still being captured; it says nothing of the station's occurrence book or case file. Page undated; published 2026-08-29 is the retrieval date."
+}

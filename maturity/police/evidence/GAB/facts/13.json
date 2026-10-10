@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-16-forces-de-police-nationale-la-digitalisation-en-marche",
+  "facts": [],
+  "systems": [
+    {"system": "SITA", "country_label": "Système Informatisé du Tableau d'Avancement", "class": "personnel", "platform": "", "owner": "Forces de Police Nationale", "tiers": "project presented to the Interior minister at police headquarters (Komo) on 16 February 2026; aimed at fraudulent promotions"},
+    {"system": "FARIAJ", "country_label": "Fichier Automatisé de Recherche d'Identités et d'Antécédents Judiciaires", "class": "identification", "platform": "", "owner": "Forces de Police Nationale, Police Technique et Scientifique", "tiers": "project presented 16 February 2026; meant to trace individuals anywhere on the national territory; no count of commissariats given"}
+  ],
+  "note": "The two systems presented are a promotions table and an identity and judicial-antecedents file, both as projects; the page describes no station record of reports or cases. It also names the loi de Programmation sécuritaire 2026-2030, which the page ties to equipment, training and infrastructure, not to a record system."
+}

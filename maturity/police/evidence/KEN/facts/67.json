@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-31-kenya-auditor-general-report-national-government-2024-25",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Police Service services on the eCitizen platform",
+      "country_label": "eCitizen",
+      "class": "public",
+      "platform": "eCitizen",
+      "owner": "National Police Service for its services; onboarding paid for through the State Department for Immigration and Citizen Services",
+      "tiers": "National online portal; the Auditor-General found 1,197 of the police service's onboarded services unutilised as of 30 June 2025, within 22,642 unutilised of 28,373 onboarded across government"
+    }
+  ],
+  "note": "The passages are the table of contents and one audit paragraph on unused eCitizen services, which counts the police service's among them; a public portal is class public, and nothing is said about station records."
+}

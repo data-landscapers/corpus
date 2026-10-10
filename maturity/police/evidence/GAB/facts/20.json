@@ -1,0 +1,15 @@
+{
+  "slug": "2025-02-01-gabon-custody-registers-judicial-safeguards",
+  "facts": [],
+  "systems": [
+    {
+      "system": "standardised custody register",
+      "country_label": "custody registers",
+      "class": "single-function",
+      "platform": "paper; model register presented by APT",
+      "owner": "Ministry of Justice with APT; Police and Gendarmerie Directorates took part",
+      "tiers": "police stations and gendarmerie brigades; standard model presented February 2025, digitalisation discussed as a future step"
+    }
+  ],
+  "note": "Custody registers only, a single-function class: a roundtable of 18-19 February 2025 examined record-keeping in police stations and gendarmerie brigades, treated paper registers as the first step and digitalisation as a future modernisation, noting infrastructure limits in remote areas. No statement on the occurrence or complaint record or the case file."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-04-canevas-rapport-midcsp-2025-2026-t3-companion",
+  "facts": [],
+  "systems": [
+    {"system": "logiciel de production des permis de conduire", "country_label": "logiciel de production des permis de conduire", "class": "single-function", "platform": "", "owner": "Ministère de l'Intérieur, du Développement Communautaire et de la Sécurité Publique", "tiers": ""},
+    {"system": "Dedicated high-speed internet subscription for the sites of the Commissariat Général des Migrations (CGM)", "country_label": "sites du Commissariat Général Migrations abonnés internet IP dédié haut débit", "class": "border", "platform": "", "owner": "Commissariat Général des Migrations", "tiers": "CGM sites, number not stated"},
+    {"system": "logiciel de gestion des formations", "country_label": "logiciel de gestion des formations", "class": "", "platform": "", "owner": "Ministère de l'Intérieur, du Développement Communautaire et de la Sécurité Publique", "tiers": ""}
+  ],
+  "note": "A companion page for the interior ministry's third-quarter 2025/26 execution report; its note lists maintenance lines for driving-licence software and internet for migration sites, with no figures and nothing on a station record system."
+}

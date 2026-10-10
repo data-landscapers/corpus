@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-20-undp-lehokela-seven-years",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lehokela",
+      "country_label": "Lehokela",
+      "class": "public",
+      "platform": "Android mobile application developed by the National University of Lesotho; hosted on LMPS servers; distributed as an APK from 2020 to 2024 and then through the Google Play Store; zero-rated by Econet Telecom Lesotho",
+      "owner": "Lesotho Mounted Police Service, with UNDP (Accelerator Lab, then the Peacebuilding Fund project)",
+      "tiers": "Citizens and Community Policing Committees report incidents to the police; piloted from 2019 at T'sakholo, Mafeteng District; soft launch 2020; national launch 9 April 2026; phased national rollout from June 2026"
+    },
+    {
+      "system": "ICT equipment for Lehokela",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "Two servers, 65 tablets and three laptops (2020, UNDP Accelerator Lab); 30 desktop computers (Peacebuilding Fund project)",
+      "owner": "Lesotho Mounted Police Service; procured by UNDP",
+      "tiers": "Desktops for selected police stations, to give officers access to community incident reports; training on the application given to stations and posts across eleven LMPS policing districts in 2023-2024"
+    }
+  ],
+  "note": "UNDP's history of Lehokela, published 20 April 2026. It describes a community-policing platform through which citizens and Community Policing Committees send incident reports that officers at stations read and act on: class public, so no fact. It names the LMPS Digital Transformation Policy and Strategy, the LMPS Strategic Plan 2026-2031 and the Community Policing Unit Strategic Plan 2026-2029, adopted under the Peacebuilding Fund, and says nothing of the station's own occurrence book or case file."
+}
