@@ -1,0 +1,4 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-10-10,KEN,digital.localgov--digitalisation-of-local-government-records-revenue-records,fact,3,3,KEN-003;KEN-004;KEN-005;KEN-010,"Standards for county revenue automation gazetted July 2026 and a commentary on vendor commission contracts; governance now held, stage unchanged at 3"
+2026-10-10,GMB,digital.localgov--digitalisation-of-local-government-records-revenue-records,fact,3,3,GMB-009;GMB-007;GMB-004;GMB-001;GMB-002;GMB-003,"A UN agency tendered in June 2026 for a property tax system for Kanifing Municipal Council; stage unchanged at 3, advancing"
+2026-10-10,SSD,digital.localgov--digitalisation-of-local-government-records-revenue-records,fact,2,2,SSD-001;SSD-002;SSD-005;SSD-006,"A state government launched a digital revenue system for Juba City Council in September 2026; the cell stays at stage 2, capital only, now advancing"

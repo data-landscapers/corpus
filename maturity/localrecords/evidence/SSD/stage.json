@@ -4,16 +4,17 @@
     {
       "sub_indicator": "revenue",
       "stage": "2",
-      "governance": "",
+      "governance": "owner:ministry",
       "recorded": "register",
       "held": "",
-      "last12": "no-change",
+      "last12": "advancing",
       "authorities": "pilot",
       "cap": "",
-      "flags": "",
-      "stage_sources": "SSD-001;SSD-002",
-      "gaps": "Where the record is held is not stated, and no local government other than Juba City Council is named. Every fact is dated October 2022: nothing falls inside the governance window or the last twelve months, and whether the system outlasted its start is not established.",
-      "note": "One city council announced a payer register as just started in October 2022, which is a system being piloted in one place. Stage 3 needs a system past its pilot and live in local governments beyond that city, held in a stated place."
+      "flags": "advancing",
+      "stage_sources": "SSD-001;SSD-002;SSD-005;SSD-006",
+      "gaps": "Only Juba City Council, the capital's council, is named, in 2022 and again in October 2026, when the move off manual collection was still described as a transition to be made. Where the record is held is not stated, no vendor or funder of the system launched in September 2026 is named, and whether the 2022 system outlasted its start is not established.",
+      "note": "A system launched for the capital's council in September 2026, with the council still moving off manual collection, is a system being prepared in one place. Stage 3 needs it past its pilot and live in local governments beyond that city.",
+      "as_at": "2026-10-10"
     }
   ]
 }

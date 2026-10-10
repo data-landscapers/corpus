@@ -74,7 +74,7 @@ One council, Manzini, billed ratepayers by account and took payment by phone in 
 
 One council outside the capital keeps a digital tax register, reported in 2024 and 2025; the share of councils recording is not known.
 
-*Register survey.*
+*Register survey; Advancing.*
 
 - The 2024 PFM annual report says Basse Area Council resolved issues with its DTCS system and implemented a digital tax register ([source, 2024](https://mofea.gov.gm/wp-content/uploads/2025/04/2024-PFM-Annual-Progress-Report.pdf)).
 - The report says Basse Area Council's Digital Tax Collection System runs beside its IFMIS accounting system and that integration between the two is pending ([source, 2025-09](https://mofea.gov.gm/wp-content/uploads/2025/09/SECOND-and-THIRD-QUARTER-PFM-PERFORMANCE-REPORT-1-1.pdf)).
@@ -332,10 +332,14 @@ Three of 22 local councils had a property tax system by December 2025, with bill
 
 ### South Sudan: 2 Nascent
 
-Juba City Council began registering businesses on a digital revenue system in October 2022; whether it is still in use is not known.
+A digital revenue system was launched for Juba City Council in September 2026; the council is still leaving manual collection. No other council is named.
+
+*Advancing.*
 
 - Juba City Council's notice of 21 October 2022 invites all businesses within the council and its blocks to register their data at the block headquarters offices on a new digital revenue collection and management system; registration and service access had started, and manual payments for council services are to end (office order No 11/2022 of 4 October 2022) ([source, 2022-10-04](https://www.onecitizendaily.com/index.php/2022/10/21/advertisement-by-juba-city-council-jcc/)).
 - The system's roll out covers only Juba City Council and its four blocks (HQ, Juba, Kator, Munuki, Environment as the notice lists them); it is announced as just started, with no other local government named ([source, 2022-10-04](https://www.onecitizendaily.com/index.php/2022/10/21/advertisement-by-juba-city-council-jcc/)).
+- Access Radio reports on 8 October 2026 that the Central Equatoria State Government launched a Digital Revenue Collection System and e-Services for Juba City Council in September 2026, and that the council's first executive meeting under its caretaker mayor put the move from manual to digital revenue collection at the centre of its priorities ([source, 2026-09](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/)).
+- The report of 8 October 2026 names only Juba City Council, the capital's council, and describes the move from manual revenue collection to a digital system as a transition the council is still to make ([source, 2026-10-08](https://radioyei.org/news/states/central-equatoria/juba-city/juba-city-council-discusses-digital-revenue-transition/)).
 
 ### Togo: 2 Nascent
 

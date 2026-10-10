@@ -2,7 +2,7 @@
 
 ## Revenue records
 
-**Governance, planning, finance.** On 7 February 2019 the President [directed a task force to deliver one revenue management system for all 47 counties](<https://eujournal.org/index.php/esj/article/view/13419/13560>), and none had been delivered by September 2020. A 2018 policy brief says [most counties that had automated did not own their system](<https://cegkenya.org/wp-content/uploads/2019/11/Policy-Brief-Brochure2.pdf>).
+**Governance, planning, finance.** On 7 February 2019 the President [directed a task force to deliver one revenue management system for all 47 counties](<https://eujournal.org/index.php/esj/article/view/13419/13560>), and none had been delivered by September 2020. A 2018 policy brief says [most counties that had automated did not own their system](<https://cegkenya.org/wp-content/uploads/2019/11/Policy-Brief-Brochure2.pdf>). Standards for county revenue automation, [gazetted on 27 July 2026, say counties are to own their systems and revenue data](<https://cra.go.ke/download/standards-and-guidelines-on-the-automation-of-county-own-source-revenue/?wpdmdl=5257>). An October 2026 commentary puts [about 70 per cent of counties on contracts that pay a vendor up to 15 per cent of collections](<https://nation.africa/kenya/blogs-opinion/blogs/counties-must-rethink-costly-revenue-automation-5626512>), on the writer's own figures.
 
 **What is recorded.** A 2020 paper describes automation as [the move from paper receipts to an electronic system, with point-of-sale machines](<https://eujournal.org/index.php/esj/article/view/13419/13560>). In 2018, [97 per cent of the 34 counties with a system used only its collection module](<https://cegkenya.org/wp-content/uploads/2019/11/Policy-Brief-Brochure2.pdf>).
 
@@ -14,4 +14,4 @@
 
 ***Noted, not assessed***. The national government's [Human Resource Information System](<https://cob.go.ke/download/county-governments-budget-implementation-review-report-for-the-financial-year-2025-26/?wpdmdl=16482>), to which counties are moving their payrolls; the National Treasury's [IFMIS](<https://eujournal.org/index.php/esj/article/view/13419/13560>); Kiambu County's [CountyPro](<https://cegkenya.org/wp-content/uploads/2019/11/Policy-Brief-Brochure2.pdf>), its accounting and reporting system.
 
-***Not held***. No source says counties hold a register of payers, and no count of counties recording is dated after 2020. Nothing on who owns or plans the systems is dated within the last three years.
+***Not held***. No source says counties hold a register of payers, and no count of counties recording is dated after 2020. No source says any county has complied with the July 2026 standards.

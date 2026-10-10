@@ -191,11 +191,15 @@ All 47 counties were on the government network by 2017 and work in national syst
 
 ### Libya: 3 Established
 
-Three municipalities' offices had unreliable internet access in a 2021 study; how many of Libya's municipalities are connected is not known.
+The mayors of 21 municipalities were given access to the ministry's online systems in October 2025; how many municipal offices are connected is not known.
+
+*Advancing.*
 
 - Wynn, Bakeer and Forti's case studies of the Misurata, Sabratha and Rujban local authorities find internet access at the authorities' offices that is slow, often disconnected or not always available: in Sabratha's finance department, with fifteen networked computers, the internet was often disconnected and unreliable, and in Rujban it was normally unavailable in community services and unreliable in human resources; the paper does not say who provides or pays for it, and gives no fieldwork date, so its published year is used ([source, 2021](https://eprints.glos.ac.uk/9355/3/9355-Wynn-%282021%29-E-government-and-digital-transformation.pdf)).
 - The paper studies three local authorities, Misurata, Sabratha and Rujban, by questionnaire and interviews with eighteen officials, and concludes for the three that access to the internet was not always available; it gives no figure for Libya's local authorities as a whole and no fieldwork date, so its published year is used ([source, 2021](https://eprints.glos.ac.uk/9355/3/9355-Wynn-%282021%29-E-government-and-digital-transformation.pdf)).
 - The paper finds that the three authorities' information systems are isolated in-house or third-party systems on departmental networks, with data exchange on paper, and that online services are used occasionally to display and update information on the authority's website (Sabratha finance); no national or shared system is worked in over the internet. No fieldwork date is given, so the published year is used ([source, 2021](https://eprints.glos.ac.uk/9355/3/9355-Wynn-%282021%29-E-government-and-digital-transformation.pdf)).
+- A press report of October 2025 says the new mayors of 21 municipalities, trained in a second cohort, were given full access to the Ministry of Local Government's electronic systems, including the local revenue system; the total of municipalities is not given ([source, 2025-10](https://alsabaah.ly/%d9%85%d8%ac%d8%a7%d9%84%d8%b3-%d8%a8%d9%84%d8%af%d9%8a%d8%a9/)).
+- The mayors of 21 municipalities were given access in October 2025 to work in the ministry's electronic systems, among them the local revenue system ([source, 2025-10](https://alsabaah.ly/%d9%85%d8%ac%d8%a7%d9%84%d8%b3-%d8%a8%d9%84%d8%af%d9%8a%d8%a9/)).
 
 ### Madagascar: 3 Established
 

@@ -4,7 +4,7 @@
     {
       "sub_indicator": "civil",
       "stage": "2",
-      "governance": "owner:ministry;finance:donor",
+      "governance": "owner:ministry;plan:current;finance:donor",
       "events": "none",
       "made": "paper",
       "last12": "advancing",
@@ -12,8 +12,9 @@
       "cap": "",
       "flags": "advancing",
       "stage_sources": "COG-003;COG-007;COG-002;COG-017",
-      "gaps": "No office is said to use SIFEC at 22 September 2026, and the B;D rows (COG-004, 006, 008, 018, 022) give the scope of a system not yet deployed, so events is read as none. Older facts disagree with the newest: electronic records kept locally in some Brazzaville and Pointe-Noire centres (COG-032, 2021; COG-036 and 2 of Brazzaville's 10 offices digitised, COG-037, 2020) against a system called manual in 2026 (COG-017) and 2024 (COG-043); nothing since 2021 says whether those urban systems still run. Finance: COG-015 (not stated, for SIFEC's deployment) is newer than the donor rows COG-030 and COG-025. The roadmap (COG-034, COG-039) is from 2020-21 with no period given, so no plan is held.",
-      "note": "SIFEC is built and validated and its deployment is still ahead, which is a system being prepared. Stage 3 needs births live in local offices past a pilot, and the only such facts are from 2020-21, about two cities, and contradicted by newer ones."
+      "gaps": "No office is said to use SIFEC at 22 September 2026, and the B;D rows (COG-004, 006, 008, 018, 022) give the scope of a system not yet deployed, so events is read as none. Older facts disagree with the newest: electronic records kept locally in some Brazzaville and Pointe-Noire centres (COG-032, 2021; COG-036 and 2 of Brazzaville's 10 offices digitised, COG-037, 2020) against a system called manual in 2026 (COG-017) and 2024 (COG-043); nothing since 2021 says whether those urban systems still run. Finance: COG-015 (not stated, for SIFEC's deployment) is newer than the donor rows COG-030 and COG-025. The roadmap (COG-034, COG-039) is from 2020-21 with no period given; the plan held is the national civil-status reform policy for 2022-2026 (COG-044), whose period includes the as-at.",
+      "note": "SIFEC is built and validated and its deployment is still ahead, which is a system being prepared. Stage 3 needs births live in local offices past a pilot, and the only such facts are from 2020-21, about two cities, and contradicted by newer ones.",
+      "as_at": "2026-10-10"
     }
   ]
 }

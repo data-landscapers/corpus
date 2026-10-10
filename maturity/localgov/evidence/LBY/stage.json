@@ -5,15 +5,16 @@
       "sub_indicator": "connection",
       "stage": "3",
       "governance": "owner:ministry;plan:current",
-      "use": "internet",
+      "use": "systems",
       "connected": "institutional",
-      "last12": "",
-      "authorities": "count:3",
+      "last12": "advancing",
+      "authorities": "count:21",
       "cap": "",
-      "flags": "",
-      "stage_sources": "LBY-003;LBY-004;LBY-005",
-      "gaps": "The coverage facts are one 2021 case study of three authorities, with no total, no share and nothing dated since; it does not say who provides or pays for the offices' internet, so `institutional` rests on the access being at the offices' own networked departments. The ministry's 2023 e-mail accounts for municipal units were announced and not in use, its strategy's period is not given, finance is not stated, and no dated event falls in the twelve months to the as-at.",
-      "note": "Internet access is live, though unreliable, at the offices of three local authorities outside the capital, used for the web and not for any shared system: stage 3. Stage 4 needs more than half on a share or a count with a denominator, and the three are a floor without a total."
+      "flags": "advancing",
+      "stage_sources": "LBY-003;LBY-004;LBY-005;LBY-007;LBY-008",
+      "gaps": "The newest coverage fact is the October 2025 access given to the mayors of 21 municipalities to the ministry's electronic systems, a count with no total, and it says access was given, not that the offices work in the systems over their own connection; the only account of the offices' connections is a 2021 case study of three authorities. Who provides or pays for the offices' internet is not stated, the ministry's strategy gives no period, and finance is not stated.",
+      "note": "Municipalities outside the capital have been given access to the ministry's systems, 21 of them in October 2025, and internet access was live though unreliable at three offices in 2021: stage 3. Stage 4 needs more than half on a share or a count with a denominator, and neither count has a total.",
+      "as_at": "2026-10-10"
     }
   ]
 }
