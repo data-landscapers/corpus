@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Kampala Safe City CCTV network",
+      "country_label": "Safe City",
+      "class": "surveillance",
+      "platform": "Huawei",
+      "owner": "Uganda Police Force",
+      "tiers": "Kampala; extensive CCTV with facial recognition, licence plate recognition and an integrated command and control centre, access by police, intelligence services and multiple agencies"
+    }
+  ],
+  "note": "Names only a surveillance system for Kampala (Huawei-installed Safe City CCTV, financed by Chinese loans); states nothing about how a police station records a report. The document says of itself that it was researched and written by an AI answer engine."
+}

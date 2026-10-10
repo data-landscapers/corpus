@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-19-budget-speech-2026-2027-startup-revolution",
+  "facts": [],
+  "systems": [
+    {"system": "Cyber Forensic laboratory", "country_label": "Cyber Forensic laboratory", "class": "identification", "platform": "Not stated", "owner": "Not stated; part of a Rs 13 million provision in the 2026-2027 budget, shared with a cybersecurity survey and information security management systems", "tiers": "Not stated; announced, to strengthen investigative capabilities"},
+    {"system": "Specialised investigative tools for virtual assets, financial crime and forensic accounting", "country_label": "specialised investigative tools", "class": "", "platform": "Not stated", "owner": "Mauritius Police Force", "tiers": "Not stated; announced for deployment"},
+    {"system": "Digital Border Control System", "country_label": "digital Border Control System", "class": "border", "platform": "Biometric e-Gates", "owner": "Not stated", "tiers": "Airport; being put in place within a Rs 2.7 billion airport investment"},
+    {"system": "E-Visa system", "country_label": "E-Visa", "class": "border", "platform": "Not stated", "owner": "Not stated", "tiers": "Announced, for non-citizens applying before travel"}
+  ],
+  "note": "The held text is an excerpt of the budget speech, cut off at paragraph 193 before the Law and Order anchor it lists; what is held announces a National Crime Agency and police investigative tools and says nothing about station records."
+}

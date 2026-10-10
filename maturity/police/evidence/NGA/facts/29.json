@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-05-nga-nimc-s-ninauth-mandate-and-nigeria-s-180m-nin-push",
+  "facts": [],
+  "systems": [
+    {"system": "POSSAP", "country_label": "the Nigeria Police Force's POSSAP platform", "class": "", "platform": "", "owner": "Nigeria Police Force", "tiers": "named only as a platform citizens apply through that leans on NIN verification and has paired digitisation with fee increases; what it does is not described"},
+    {"system": "NINAuth", "country_label": "NIN Authentication (NINAuth)", "class": "exchange", "platform": "web, API and mobile channels", "owner": "National Identity Management Commission", "tiers": "ordered by the President as the default identity verification layer for every ministry, department and agency; POSSAP is said to lean on NIN as its verification backbone"}
+  ],
+  "note": "On identity verification; the police appear only through POSSAP, named with no description of its function. Nothing on station records."
+}

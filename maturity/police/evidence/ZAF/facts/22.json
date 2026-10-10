@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "The essay's country table says the national ICDMS (e-docket) system, meant for electronic case management, was rolled out to about 80% of police stations by 2017, including many rural ones, but is poorly implemented, with lost dockets and no external linkages.", "as_of": "2017", "date_precision": "year", "system": "ICDMS (e-docket)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "equipped:80%", "fact": "The essay's country table says the ICDMS (e-docket) system was rolled out to about 80% of stations by 2017, including many rural; it gives no numerator or denominator and names no source for the figure beyond its links.", "as_of": "2017", "date_precision": "year", "system": "ICDMS (e-docket)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table says rural police stations predominantly use manual paper-based dockets to record criminal cases and complaints, with no evidence that most rural stations routinely make the record digitally and paper the default; it gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "ICDMS (e-docket)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "ICDMS (e-docket)", "country_label": "ICDMS (e-docket)", "class": "record", "platform": "", "owner": "described as the national system; owner not named", "tiers": "rolled out to about 80% of stations by 2017, including many rural; rural stations said to remain on paper"}
+  ],
+  "note": "This slug is on the study's exclude_sources list as an AI-assisted compilation; the facts are recorded as the document states them. It also says 72.7% of detectives were untrained in the system in 2019, citing a provincial minister."
+}

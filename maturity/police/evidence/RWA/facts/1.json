@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-05-newtimes-rwanda-judicial-year-digital-justice-iecms",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Case Management System for the Justice Sector (ICSMES)", "country_label": "ICSMES (upgraded Integrated Case Management System for the Justice Sector)", "class": "", "platform": "", "owner": "", "tiers": "National Public Prosecution Authority, which will increase its use of it and of electronic indictments in the 2026/27 judicial year"}
+  ],
+  "note": "The document describes the prosecution's and judiciary's use of the justice case management system and electronic indictments; it says nothing of the police or of stations recording reports or cases, so the system is given no class and no fact."
+}

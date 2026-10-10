@@ -1,0 +1,70 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Data Landscapers 54-country review, an AI-assisted compilation by its own header, scores Sierra Leone's rural police stations 1 and says they record criminal cases and complaints entirely on paper, in occurrence books, dockets and manual files kept in locked cabinets; it gives no date, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "occurrence books, dockets and manual files",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The same review's Sierra Leone police row says it found no evidence of a digital case management system deployed at rural stations; it gives no date, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "occurrence books, dockets and manual files",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The same review says the Sierra Leone Police's 2025-2029 Strategic Development Plan plans an e-Case Management System, with a baseline survey in 2025 and implementation from 2026; the plan's own start year is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "e-Case Management System",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "occurrence books, dockets and manual files",
+      "country_label": "",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Sierra Leone Police",
+      "tiers": "rural police stations"
+    },
+    {
+      "system": "e-Case Management System",
+      "country_label": "e-Case Management System",
+      "class": "record",
+      "platform": "",
+      "owner": "Sierra Leone Police",
+      "tiers": "planned: baseline survey 2025, implementation 2026 onward; not deployed at rural stations"
+    },
+    {
+      "system": "HR system",
+      "country_label": "",
+      "class": "personnel",
+      "platform": "",
+      "owner": "Sierra Leone Police",
+      "tiers": "digitised 2025; the review calls it urban or regional, or not case related"
+    },
+    {
+      "system": "donated media computers",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Sierra Leone Police",
+      "tiers": "not stated"
+    }
+  ],
+  "note": "Passages only. The source is excluded from profiles by study.json; its statements are recorded as the author's compilation, not sourced fact."
+}

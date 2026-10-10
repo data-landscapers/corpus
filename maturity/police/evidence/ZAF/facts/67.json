@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-05-zaf-atc260508-report-of-the-portfolio-committee-on-home-affairs-on-the-qua",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Travel Authorisation (ETA)", "country_label": "Electronic Travel Authorisation (ETA)", "class": "border", "platform": "", "owner": "Department of Home Affairs", "tiers": "development for visitor's visas completed in quarter 3 of 2025/26; rollout not stated"},
+    {"system": "Immigration criminal checks (stop lists, Interpol, records from countries of origin)", "country_label": "stop lists", "class": "border", "platform": "", "owner": "Department of Home Affairs, Immigration Services", "tiers": "used by immigration to check travellers; the committee notes it cannot fully determine whether incoming travellers have criminal records"}
+  ],
+  "note": "Home Affairs quarterly performance report: civil registration, visas, asylum and identity systems only; criminal records appear only as an immigration check on travellers, and no police station record system is named."
+}

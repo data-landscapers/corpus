@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "stations", "value": "not-published", "fact": "The compilation says it found no evidence of digital case management in rural police stations: an integrated case management system was contracted in December 2022, its first phase planned for police, prosecution, judiciary and prisons in the city of São Tomé only, with no confirmed progress or rural implementation as of 2026; it gives no count of stations.", "as_of": "2026", "date_precision": "year", "system": "Integrated Case Management System (ICMS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Integrated Case Management System (ICMS)", "country_label": "", "class": "record", "platform": "Synergy", "owner": "", "tiers": "Phase 1 planned for police, prosecution, judiciary and prisons in the city of São Tomé only; nationwide expansion planned, not confirmed as of 2026"}
+  ],
+  "note": "An AI-assisted compilation by its own header, and an excluded source in study.json; its statement that rural dockets are 'likely paper-based' is a supposition and is not recorded as a fact."
+}

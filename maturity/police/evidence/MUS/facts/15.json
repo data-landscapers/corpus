@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-07-in-the-shadows-of-mass-surveillance-mauritiustimes",
+  "facts": [],
+  "systems": [
+    {"system": "PertSol interception system", "country_label": "PertSol", "class": "surveillance", "platform": "Surveillance system procured from Verint in 2017, with further equipment reportedly acquired in 2022", "owner": "Counter Terrorism Unit and National Security Services", "tiers": "Deployed on the major telecom operators' infrastructure; intercepted phone calls, internet traffic and social media communications"}
+  ],
+  "note": "An editorial on communications interception by the intelligence services; it says nothing about police stations or how a report or case is recorded."
+}

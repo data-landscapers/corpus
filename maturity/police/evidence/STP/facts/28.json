@@ -1,0 +1,8 @@
+{
+  "slug": "2023-04-18-sao-tome-rdp-africa-policia-nacional-sistema-zulu",
+  "facts": [],
+  "systems": [
+    {"system": "Zulu", "country_label": "Zulu", "class": "", "platform": "Software called Zulu", "owner": "Polícia Nacional de São Tomé e Príncipe, with support from Portugal's PSP", "tiers": "In development as at April 2023 as the force's programme to computerise its services; to be linked with Santomean and international institutions. No station or place named"}
+  ],
+  "note": "No fact: the excerpt names the software and its links to other institutions and does not say what it records or where, so its class is left empty."
+}

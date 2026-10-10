@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-07-rwanda-digital-acceleration-project-aide-memoire-nov-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Public Safety Emergency Response Management (PSERM) system", "country_label": "PSERM", "class": "surveillance", "platform": "", "owner": "Procured by RISA under the World Bank and AIIB Digital Acceleration Project (P173373)", "tiers": "Not yet delivered: contracting expected by end of November 2025, delivery in April and August 2026"},
+    {"system": "IECMS (judicial case management), disaster recovery and security infrastructure", "country_label": "IECMS", "class": "", "platform": "", "owner": "Procured by RISA under the World Bank and AIIB Digital Acceleration Project (P173373)", "tiers": "Described only as judicial case management; disaster recovery infrastructure contract due by 31 December 2025"}
+  ],
+  "note": "The aide memoire names an emergency response management system and security and disaster recovery infrastructure for judicial case management, both still being procured; it says nothing of the police or of stations recording reports or cases."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-tchad-le-sipt-en-phase-finale-pour-renforcer-la-securite-interieure-et-regionale",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Systeme d'Information Policiere du Tchad (SIPT)",
+      "country_label": "SIPT; CREDOP, called the heart of the project",
+      "class": "identification",
+      "platform": "",
+      "owner": "Ministere de la Securite publique et de l'Immigration; launched in 2016 with European Union support and implemented by INTERPOL",
+      "tiers": "Not yet operational at the third steering committee (2025, year only): CREDOP is to give instant information on criminal antecedents and help identify wanted persons, weapons, vehicles and other objects, and SIPT is also to collect crime statistics; Chad is described as the only Sahel-belt country not yet in the SIPAO programme; no station-level entry stated"
+    }
+  ],
+  "note": "The document describes SIPT as an antecedents, wanted-persons and stolen-objects file that will also yield crime statistics, a few months from the project's end and not yet operational; it does not say stations enter reports or cases in it, so there is no fact for station records."
+}

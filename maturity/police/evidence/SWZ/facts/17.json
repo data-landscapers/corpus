@@ -1,0 +1,15 @@
+{
+  "slug": "2022-08-17-ministry-of-justice-integrated-electronic-case-management-system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "country_label": "IECMS",
+      "class": "exchange",
+      "platform": "Enterprise case management software to be developed by Synergy International Systems (Armenia)",
+      "owner": "Ministry of Justice and Constitutional Affairs",
+      "tiers": "In development: contract awarded and kick-off meeting held 2022-08-17; to manage court cases from inception to end and let ten justice stakeholders, the police among them, exchange information; no stations named"
+    }
+  ],
+  "note": "A founding press release for a court case management system not yet built; the police are one of ten stakeholders, the justice system's processes are called manual, and nothing is said of how stations record."
+}

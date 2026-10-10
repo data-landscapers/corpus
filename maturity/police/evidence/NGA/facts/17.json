@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states that rural police stations in Nigeria record criminal cases and complaints in manual paper systems (handwritten statements, petitions, police reports, exhibit logs), with no evidence of routine rural deployment of any digital system; it gives no date for this, so the date is the essay's publication.", "as_of": "2026-03-31", "date_precision": "day", "system": "Station paper records (statements, petitions, police reports, exhibits logs)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay cites a 2020 assessment, sourced to a US Department of Justice document, as confirming that records are kept in hard copy at stations, with limited electronic storage only at state headquarters and very low use of computer networks and databases across formations.", "as_of": "2020", "date_precision": "year", "system": "Station paper records (statements, petitions, police reports, exhibits logs)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Station paper records", "country_label": "handwritten statements, petitions, police reports, exhibits logs", "class": "record", "platform": "paper", "owner": "Nigeria Police Force", "tiers": "stations, in hard copy; limited electronic storage only at state headquarters (2020 assessment)"},
+    {"system": "WAPIS", "country_label": "WAPIS", "class": "identification", "platform": "", "owner": "Interpol and EU funded, per the essay", "tiers": "described as a national criminal database since 2019, centralised or urban-focused"},
+    {"system": "CRIMS", "country_label": "CRIMS", "class": "", "platform": "", "owner": "", "tiers": "named as a pilot only"},
+    {"system": "Smart stations", "country_label": "planned smart stations (2025)", "class": "", "platform": "", "owner": "", "tiers": "planned; centralised or urban-focused, per the essay"}
+  ],
+  "note": "Passages only. This source is in study.json's exclude_sources (an AI-assisted compilation by its own header); the facts are recorded as the document states them and are the parent's to exclude."
+}

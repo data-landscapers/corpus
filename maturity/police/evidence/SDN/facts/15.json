@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-04-customs-authority-completes-digital-integration-of-asycuda-with-civil-registry",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA", "country_label": "ASYCUDA", "class": "border", "platform": "ASYCUDA", "owner": "Sudan Customs Authority", "tiers": "Customs management system, linked to the civil registry database through the Baladna platform to check national identity numbers; to be used by customs risk officers at checkpoints"}
+  ],
+  "note": "A customs system linked to the civil registry, which the typology puts out of scope; the document says nothing of police stations or their records."
+}

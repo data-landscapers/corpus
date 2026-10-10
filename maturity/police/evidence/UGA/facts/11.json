@@ -1,0 +1,64 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's country table states that rural police stations in Uganda record case files, complaints and incidents on paper, by manual entry in hard-backed occurrence books, with no evidence of a digital replacement at station level; it gives no date for this, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "occurrence books",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's country table scores Uganda's rural police stations 1, entirely paper-based, with occurrence books as the foundation document for all reports; it gives no date for this, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "occurrence books",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The essay's country table states that a Crime Records Management System was developed in 2017 for case tracking by the criminal investigations department.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "Crime Records Management System (CRMS)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "pilot",
+      "fact": "The essay's country table states that the Crime Records Management System of 2017 was piloted only in 10 Kampala divisions, and not at rural or station level.",
+      "as_of": "2017",
+      "date_precision": "year",
+      "system": "Crime Records Management System (CRMS)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Crime Records Management System (CRMS)",
+      "country_label": "Crime Records Management System (CRMS)",
+      "class": "record",
+      "platform": "",
+      "owner": "Uganda Police Force",
+      "tiers": "piloted in 10 Kampala divisions; not rural or station level"
+    },
+    {
+      "system": "ECCMIS",
+      "country_label": "ECCMIS",
+      "class": "",
+      "platform": "",
+      "owner": "Judiciary",
+      "tiers": ""
+    }
+  ],
+  "note": "The document is in study.json's exclude_sources: an AI-assisted compilation by its own header. Facts are recorded as it states them, for the parent to treat accordingly."
+}

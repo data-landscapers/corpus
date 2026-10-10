@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-16-new-deal-technologique-un-an",
+  "facts": [],
+  "systems": [
+    {"system": "e-Sénégal (demande de casier judiciaire)", "country_label": "e-Sénégal", "class": "public", "platform": "", "owner": "", "tiers": "online, for citizens and businesses; in service (March 2026, per the digital ministry)"},
+    {"system": "plateforme e-paiement du Trésor", "country_label": "e-paiement du Trésor", "class": "public", "platform": "", "owner": "Trésor", "tiers": "online, by phone; payment of taxes, fines and administrative fees"}
+  ],
+  "note": "New Deal one-year review; names the criminal-record request on e-Sénégal and the Treasury payment platform that takes fines. Nothing on police or gendarmerie station records."
+}

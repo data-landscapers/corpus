@@ -1,0 +1,15 @@
+{
+  "slug": "2026-06-23-statehouse-ecms-launch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic Case Management System (ECMS)",
+      "country_label": "ECMS",
+      "class": "",
+      "platform": "",
+      "owner": "Office of the Attorney General; funded by the United States Department of State, implemented through the UNODC Global Maritime Crime Programme with UNOPS",
+      "tiers": "Attorney General's Office and the legal affairs sector; live as an online platform from 2026-06-23"
+    }
+  ],
+  "note": "The system is the Attorney General's Office's own case management, not a police system; the document names no police force, no station and no link to a police system, so it has no class in the typology and gives no fact."
+}

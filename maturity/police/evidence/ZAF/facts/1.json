@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-15-biometricupdate-south-africa-sita-police-facial-recognition-tender",
+  "facts": [],
+  "systems": [
+    {"system": "Body-worn and vehicle dashboard cameras with facial recognition and automatic number plate recognition software", "country_label": "body-worn cameras, vehicle dashboard cameras and related software", "class": "surveillance", "platform": "", "owner": "South African Police Service; procured by the State Information Technology Agency (SITA)", "tiers": ""},
+    {"system": "National Population Register", "country_label": "National Population Register (NPR)", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}
+  ],
+  "note": "A tender for police cameras with facial recognition, a surveillance system; nothing on station records."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-22-fg-nigeria-police-mou-digital-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Connected police stations initiative", "country_label": "Connected police stations initiative under the National Anchor Institutions Connectivity Programme (NAICP), Project BRIDGE", "class": "enabling", "platform": "national fibre backbone; fibre optic connection of stations", "owner": "Federal Ministry of Communications, Innovation and Digital Economy with the Nigeria Police Trust Fund; a joint committee of the ministry and the police to be inaugurated; World Bank and European Commission support", "tiers": "police stations in all 774 local government areas, as intended; MoU signed Wednesday 22 April 2026; technical assistance to design the initiative"},
+    {"system": "National GIS database of police stations and facilities", "country_label": "national GIS database of police stations and facilities", "class": "enabling", "platform": "GIS", "owner": "to be developed under the MoU's technical assistance", "tiers": "national; to hold geolocation, infrastructure status and proximity to fibre points of presence"},
+    {"system": "National Data Exchange Platform", "country_label": "National Data Exchange Platform", "class": "exchange", "platform": "", "owner": "", "tiers": "the project would explore integration pathways with it, for secure data flows, case management and inter-agency collaboration"}
+  ],
+  "note": "The MoU connects stations to fibre and maps them: enabling class. Case management, incident reporting by AI and digital evidence management are named only as things the project would explore or support; no record system is described as built or piloted, so no fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-29-zwe-herald-kazembe-ai-criminal-justice-human-oversight-un-congress",
+  "facts": [],
+  "systems": [
+    {"system": "Police case management", "country_label": "police case management", "class": "", "platform": "", "owner": "", "tiers": "not stated"},
+    {"system": "Integrated Electronic Case Management System (IECMS)", "country_label": "Integrated Electronic Case Management System", "class": "", "platform": "", "owner": "Judicial Service Commission", "tiers": "not stated"},
+    {"system": "Electronic Traffic Management System", "country_label": "Electronic Traffic Management System", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "The minister names police case management in one clause, as part of the digitalised justice chain, with no description of what it does, where it runs or when; nothing usable as a fact."
+}

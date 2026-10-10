@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Tunis CCTV surveillance", "country_label": "", "class": "surveillance", "platform": "", "owner": "", "tiers": "Tunis; rated extensive in the essay's city table, with access by police, intelligence services and municipal authorities; whether an integrated command centre exists is given as unknown"},
+    {"system": "ANPR traffic enforcement", "country_label": "", "class": "surveillance", "platform": "Adaptive Recognition is among the vendors the table lists for Tunis", "owner": "", "tiers": "Tunis"}
+  ],
+  "note": "An AI-written essay on smart cities in twelve capitals, by its own introduction; for Tunis it names only camera surveillance and number-plate recognition. Nothing on station records."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-06-natcom-praises-digital-forensic-unit",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digital Forensic Unit",
+      "country_label": "Digital Forensic Unit",
+      "class": "identification",
+      "platform": "",
+      "owner": "Royal Eswatini Police Service",
+      "tiers": "A police unit recovering digital evidence in cybercrime investigations, working with a special cyber task team; no stations named"
+    }
+  ],
+  "note": "A forensic unit, not a station record system; the 528 criminal dockets sent to the Director of Public Prosecutions are not said to be digital."
+}

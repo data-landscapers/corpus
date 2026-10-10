@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-07-nigeria-police-vigilant-app-fraud-reporting",
+  "facts": [],
+  "systems": [
+    {"system": "NPF Vigilant App", "country_label": "Vigilant App", "class": "public", "platform": "mobile app, built by the Force ICT Department with financial-sector stakeholders", "owner": "Nigeria Police Force", "tiers": "national, public-facing; launched 1 September 2026; the public reports suspected financial fraud, uploads evidence, tracks cases and gets feedback; police sources told the outlet they had not heard of it"},
+    {"system": "Hawk Eye", "country_label": "Hawk Eye", "class": "public", "platform": "developed by Web Assets Nigeria Limited with other technology partners", "owner": "Nigeria Police Force", "tiers": "anonymous crime reporting by video, voice or text; launched 2017, piloted in the Federal Capital Territory; reported largely defunct by 2019"},
+    {"system": "Rescue Me", "country_label": "Rescue Me", "class": "public", "platform": "mobile app, more than 100,000 downloads on Google Play", "owner": "Nigeria Police Force", "tiers": "introduced 2021; emergency alerts and crime reporting to the Police Command and Control unit; more than 10,000 fake alerts reported by March 2022; still available in September 2026, though the writer's registration code never arrived"},
+    {"system": "National Cybercrime Centre (NCCC) reporting portal", "country_label": "NCCC reporting system", "class": "public", "platform": "web portal", "owner": "Nigeria Police Force National Cybercrime Centre", "tiers": "the public submits cybercrime reports, uploads evidence and tracks cases; the centre describes it as operating 24/7 across all 36 states and reports more than 146,000 reports filed and more than N58 billion recovered"}
+  ],
+  "note": "Four police platforms through which the public reports: public class, and the cybercrime portal is also limited to one class of offence. None is a record the station makes when it takes a report, so no fact."
+}

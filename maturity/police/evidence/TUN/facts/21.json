@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-alchourouk-lancement-application-khadamet",
+  "facts": [],
+  "systems": [
+    {"system": "Khadamet national application: traffic services", "country_label": "خدمات", "class": "public", "platform": "mobile application signed into with the digital identity; on Google Play at launch", "owner": "Ministry of Communication Technologies", "tiers": "online; first release announced 31 August 2026, letting a citizen view traffic offences and the validity of a driving licence, among other administrative services"}
+  ],
+  "note": "A citizen-facing application of the communication technologies ministry; its traffic-offence lookup is the only part in the study's field and is of the public class. Nothing on station records."
+}

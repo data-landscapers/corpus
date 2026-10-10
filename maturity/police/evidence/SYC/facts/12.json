@@ -1,0 +1,84 @@
+{
+  "slug": "2025-01-06-winsoft-seychelles-police-filemaker",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The vendor Winsoft says the Seychelles police force's custom app manages cases from start to finish, is the repository of every case recorded and is built to be robust enough for use in court; no deployment date is given, so the document's published date is used.",
+      "as_of": "2025-01-06",
+      "date_precision": "day",
+      "system": "Criminal Case System (case management system; Police Crime Detection database)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O",
+      "fact": "Winsoft says development began by digitising the intake form for incident reports, the record of a single crime, while listing digitisation of the Occurrence Book itself, the daily record of incidents, as an upcoming enhancement against paper records; no date is given, so the document's published date is used.",
+      "as_of": "2025-01-06",
+      "date_precision": "day",
+      "system": "Criminal Case System (case management system; Police Crime Detection database)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "Winsoft says the app runs on desktop computers or iPads as a central resource holding every case, that officers search crimes from other districts, and quotes the detective commander of Mont Fleuri station that all police stations are connected to the whole country; it also says the database is bedding in at headquarters in Victoria. No date is given, so the published date is used.",
+      "as_of": "2025-01-06",
+      "date_precision": "day",
+      "system": "Criminal Case System (case management system; Police Crime Detection database)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "equipped:100%",
+      "fact": "Marcus Jean, detective commander of Mont Fleuri station, is quoted by Winsoft saying all police stations are connected; no count of stations and no year is given, so the document's published date is used.",
+      "as_of": "2025-01-06",
+      "date_precision": "day",
+      "system": "Criminal Case System (case management system; Police Crime Detection database)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "Winsoft says the United Nations Office on Drugs and Crime funded and supported the project; no date or amount is given, so the document's published date is used.",
+      "as_of": "2025-01-06",
+      "date_precision": "day",
+      "system": "Criminal Case System (case management system; Police Crime Detection database)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Winsoft says the Seychelles Police Department wanted the app and brought in Transmedia, a UK Claris partner, to build it, and that the department has continued to evolve its use since deployment; no date is given, so the document's published date is used.",
+      "as_of": "2025-01-06",
+      "date_precision": "day",
+      "system": "Criminal Case System (case management system; Police Crime Detection database)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Criminal Case System (case management system; Police Crime Detection database)",
+      "country_label": "Criminal Case System",
+      "class": "record",
+      "platform": "FileMaker (Claris), custom app built by Transmedia",
+      "owner": "Seychelles Police Department; funded and supported by UNODC",
+      "tiers": "all police stations connected, by a station commander's quote; headquarters in Victoria; a Cautions module for minor offences added in 2023; Occurrence Book digitisation listed as upcoming"
+    },
+    {
+      "system": "eFines system for road traffic offences",
+      "country_label": "eFines",
+      "class": "single-function",
+      "platform": "being developed by Transmedia",
+      "owner": "Seychelles Police Department",
+      "tiers": "in development as at the document's date; online payment of traffic fines linked to violations in the case management system"
+    }
+  ],
+  "note": "A vendor case study: the only dated event is the 2023 Cautions module; deployment itself is undated. The government's wish to integrate with Coast Guard, Port Authority and Customs is stated as a wish only."
+}

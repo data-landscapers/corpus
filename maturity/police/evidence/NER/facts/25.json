@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-16-ner-actuniger-lancement-passeport-biometrique-aes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AES biometric passport",
+      "country_label": "e-passeport / passeport biométrique AES",
+      "class": "border",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, de la Sécurité Publique et de l'Administration du Territoire; enrolment by the Direction de la Surveillance du Territoire (DST)",
+      "tiers": "Mass enrolment launched 2026-09-15 at the DST in Niamey; enrolment equipment announced for each region and for the diaspora; online pre-enrolment through Amana, Nita and Airtel Money; five categories of document"
+    },
+    {
+      "system": "AES biometric national identity card",
+      "country_label": "Carte Nationale d'Identité Biométrique (CNIB)",
+      "class": "",
+      "platform": "",
+      "owner": "not stated",
+      "tiers": "Named only as launched some months before the passport"
+    }
+  ],
+  "note": "Launch of passport enrolment at the police's DST; the Police nationale appears as an attendee, and nothing is said of reports or cases recorded at a station."
+}

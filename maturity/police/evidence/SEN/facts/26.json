@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-31-digitalisation-amendes-forfaitaires",
+  "facts": [],
+  "systems": [
+    {"system": "digitalisation des amendes forfaitaires (Points de Digitalisation des Amendes, PDA)", "country_label": "Points de Digitalisation des Amendes (PDA)", "class": "single-function", "platform": "", "owner": "Police nationale and Gendarmerie", "tiers": "50 PDA installed nationwide in 2024, supported by 47 brigades (29 Police, 18 Gendarmerie); 164,014 fines processed in 2024 (Police 98,074, Gendarmerie 65,940), FCFA 841.9 million collected online; target of 100 PDA in 2025"}
+  ],
+  "note": "Fixed-penalty traffic fines only, a single function; the document states nothing about occurrence or case records at stations."
+}

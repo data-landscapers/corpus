@@ -1,0 +1,13 @@
+{
+  "slug": "2025-04-11-saps-digitizing-case-dockets",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "Police Minister Senzo Mchunu announced on 11 April 2025, after the Policing Summit in Ekurhuleni, that SAPS had established a partnership with the private sector to digitise case dockets and to upgrade five police stations across Gauteng, KwaZulu-Natal, Limpopo and the Western Cape; the document gives no count of stations digitising dockets.", "as_of": "2025-04-11", "date_precision": "day", "system": "digitising of case dockets (no system named)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "On 11 April 2025 the Police Minister announced a SAPS partnership with the private sector to digitise case dockets and upgrade five police stations in four provinces, saying implementation would begin immediately and that financial constraints would not impede it.", "as_of": "2025-04-11", "date_precision": "day", "system": "digitising of case dockets (no system named)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "digitising of case dockets (no system named)", "country_label": "digitizing case dockets", "class": "record", "platform": "", "owner": "SAPS in partnership with the private sector", "tiers": "announced; five police stations in Gauteng, KwaZulu-Natal, Limpopo and the Western Cape to be upgraded"},
+    {"system": "Body-worn cameras", "country_label": "body-worn cameras", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "planned for highway patrols, flying squads and public order police"},
+    {"system": "Municipal CCTV linked to the 10111 provincial command centres", "country_label": "10111 provincial command centers", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "planned, provincial command centres nationwide"}
+  ],
+  "note": ""
+}

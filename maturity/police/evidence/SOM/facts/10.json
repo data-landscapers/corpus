@@ -1,0 +1,15 @@
+{
+  "slug": "2025-04-20-somalia-nira-id-center-boondheere",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Somali Police Force biometric identification system",
+      "country_label": "biometric identification system",
+      "class": "identification",
+      "platform": "",
+      "owner": "Somali Police Force, with support from the FBI",
+      "tiers": "not stated; used to track criminal suspects"
+    }
+  ],
+  "note": "No fact: a national ID service centre opening on 19 April 2025; the only police system named is the force's biometric identification system for tracking suspects, an identification-class system, with integration of civil ID services into it expected, not done."
+}

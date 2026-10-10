@@ -1,0 +1,23 @@
+{
+  "slug": "2022-09-01-rwanda-digital-divides-dividends-include",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Irembo (Police services: registration for driving tests, driving licence application, renewal and replacement, traffic fines, motor vehicle inspection)",
+      "country_label": "Irembo",
+      "class": "public",
+      "platform": "Irembo e-government platform, launched 2014",
+      "owner": "Rwanda National Police is the institution for the services; back-office processing is each government institution's responsibility",
+      "tiers": "Online and by mobile phone, nationally; also through Irembo agents who apply on a citizen's behalf for a commission"
+    },
+    {
+      "system": "Irembo (Criminal record clearance certificate)",
+      "country_label": "Criminal Record Certificate",
+      "class": "public",
+      "platform": "Irembo e-government platform",
+      "owner": "National Public Prosecution Authority",
+      "tiers": "Online, nationally; fee Frw 1,200"
+    }
+  ],
+  "note": "No fact: the document names the police only as the institution behind Irembo's driving-licence, traffic-fine and vehicle-inspection services, and says nothing of how a station records a report or a case."
+}

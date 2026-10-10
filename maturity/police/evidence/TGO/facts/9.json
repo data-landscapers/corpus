@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-22-togo-maillage-securitaire-commissariats-mango-cinkasse",
+  "facts": [],
+  "systems": [
+    {
+      "system": "New police commissariats at Mango and Cinkassé, with vehicles, patrol equipment, furniture and computer hardware",
+      "country_label": "commissariats de police de Mango et Cinkassé",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Police nationale togolaise, under a partnership with the International Organization for Migration begun in June 2025",
+      "tiers": "two commissariats in the Savanes region (Mango, Cinkassé), inaugurated by December 2025"
+    }
+  ],
+  "note": "The document reports premises, vehicles and computer hardware for two new commissariats in the Savanes region; it names no system in which a station records reports or cases, so there is no fact for the record class."
+}

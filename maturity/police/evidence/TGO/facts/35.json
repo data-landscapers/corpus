@@ -1,0 +1,9 @@
+{
+  "slug": "2021-04-01-togo-mentd-strategie-togo-digital-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Dépôt de plaintes (citoyens; entreprises)", "country_label": "Dépôt de plaintes", "class": "public", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Demande d'extrait du casier judiciaire (citoyens)", "country_label": "Demande d'extrait du casier judiciaire", "class": "public", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages of the April 2021 digital strategy: complaint filing and the criminal-record extract request appear only as items in its numbered lists of public services for citizens and businesses, with no description of a system, a station or a date; fingerprints are the civil e-ID's. No station-record system is named, so no fact."
+}

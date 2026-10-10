@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table, an AI-assisted compilation by its own account, scores Zimbabwe's rural police stations 1 (paper only): they record criminal cases and complaints in manual paper dockets and crime registers, with no routine digital entry at the station; no date is given for the statement, so dated by publication.", "as_of": "2026-03-31", "date_precision": "day", "system": "Paper dockets and crime registers", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's table says rural stations record on physical dockets, described as prone to loss and tampering, and forward the paper dockets for processing, while the Zimbabwe Republic Police holds centralised digital databases such as the Criminal Records Office; dated by publication.", "as_of": "2026-03-31", "date_precision": "day", "system": "Paper dockets and crime registers", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The essay's table says the electronic docket system announced as coming 'soon' in December 2025 and the internet for rural stations pledged in 2021 remain unimplemented, with no evidence of a rural rollout or pilot; dated by publication.", "as_of": "2026-03-31", "date_precision": "day", "system": "Electronic docket system", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Electronic docket system", "country_label": "electronic docket system", "class": "record", "platform": "", "owner": "Zimbabwe Republic Police", "tiers": "announced December 2025 as coming soon; not implemented"},
+    {"system": "Criminal Records Office database", "country_label": "Criminal Records Office", "class": "identification", "platform": "", "owner": "Zimbabwe Republic Police", "tiers": "central"},
+    {"system": "DMR radios", "country_label": "DMR radios", "class": "enabling", "platform": "", "owner": "Zimbabwe Republic Police", "tiers": "in use for communications, not case recording; where is not stated"},
+    {"system": "Internet for rural police stations", "country_label": "internet provision to rural stations", "class": "enabling", "platform": "", "owner": "Government of Zimbabwe", "tiers": "pledged 2021; unimplemented"}
+  ],
+  "note": "The source is on the study's exclude_sources list (an AI-assisted compilation, not sourced fact); the facts are recorded as the brief requires and the parent decides their use. Only the Zimbabwe police row bears on this country; the file's other 53 countries' rows were read and give nothing for ZWE."
+}

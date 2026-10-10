@@ -1,0 +1,12 @@
+{
+  "slug": "2019-04-01-national-rural-safety-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "ICDMS", "country_label": "ICDMS", "class": "", "platform": "", "owner": "SAPS", "tiers": "named only as an IT programme in which members at rural police station level are to be trained, by 31 March 2022"},
+    {"system": "OPAM", "country_label": "OPAM", "class": "", "platform": "", "owner": "SAPS", "tiers": "named only as an IT programme in which members at rural police station level are to be trained"},
+    {"system": "IT system-based reporting (rural technology capacity)", "country_label": "IT system-based reporting", "class": "", "platform": "", "owner": "SAPS", "tiers": "a planned deliverable for rural and rural/urban police stations, due 31 March 2021; what is reported is not described"},
+    {"system": "Drone-based surveillance capability", "country_label": "", "class": "surveillance", "platform": "", "owner": "SAPS", "tiers": "a planned rural technology capacity, due 31 March 2021"},
+    {"system": "Reservist System", "country_label": "Reservist System", "class": "personnel", "platform": "", "owner": "SAPS", "tiers": "said to need urgent attention to become user-friendly"}
+  ],
+  "note": "No fact: the SAPS strategy (effective 1 April 2019; the file is an excerpt ending mid-table in Pillar 2) names ICDMS and 'IT system-based reporting' without saying what either records, so neither can be classed. It counts 885 rural and rural/urban stations in 2018/19 (432 rural, 453 rural/urban) and says a lack of communication infrastructure, network and technological support hampers SAPS service in those areas."
+}

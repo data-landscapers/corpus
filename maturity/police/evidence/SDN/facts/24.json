@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-10-sdn-fjajpress-police-forum-digital-transformation-identity",
+  "facts": [],
+  "systems": [
+    {"system": "Smart applications for passports, national identification cards and driving licences", "country_label": "One-Stop Shop and smart applications", "class": "public", "platform": "", "owner": "Sudan Police Forces, General Administration of Public Service Complexes", "tiers": "Planned: documents to be obtained by mobile phone or computer; the one-stop system and applications to extend to River Nile, Northern, Gezira, Red Sea and Gedaref states. Complexes at Omdurman and Bahri open, Khartoum to resume in part within three months; 522,225 transactions in 2026 against 206,162 in 2025"},
+    {"system": "E-passport system", "country_label": "e-passport", "class": "border", "platform": "", "owner": "Sudan Police Forces", "tiers": "Restored after the war; served through the public service complexes"},
+    {"system": "Civil registry", "country_label": "civil registry", "class": "", "platform": "", "owner": "Sudan Police Forces", "tiers": "Restored after the war; national identification numbers issued through the public service complexes, 7,000 to 10,000 transactions a day at Omdurman for identity numbers and passports together"},
+    {"system": "Cashless payment at public service complexes", "country_label": "", "class": "public", "platform": "", "owner": "General Administration of Public Service Complexes, with seven commercial banks", "tiers": "Network connectivity completed and direct cash transactions abolished at the complexes"}
+  ],
+  "note": "The fifth Police Forum covers the police's document-issuing complexes: passports, identity numbers and licences. It states nothing on how a station records a report or a case."
+}

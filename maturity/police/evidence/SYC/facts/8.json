@@ -1,0 +1,56 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "O;C",
+      "fact": "The essay's Seychelles police row says stations record criminal cases and complaints in a national digital case management system, entering incident reports, occurrence books and case details, with a digitised Occurrence Book; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "national digital case management system built on FileMaker platform",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The essay says entry is at the point of service on desktops and iPads in a national system to which all stations are connected, with search across districts, and that it replaced parallel manual records; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "national digital case management system built on FileMaker platform",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "share:100%",
+      "fact": "The essay says the system is deployed across all stations, naming Praslin, La Digue and Mont Fleuri, and gives no count of stations and no year; the statement is the author's, citing the vendor Winsoft, and the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "national digital case management system built on FileMaker platform",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The essay says the system was funded by UNODC and developed by Transmedia; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "national digital case management system built on FileMaker platform",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national digital case management system built on FileMaker platform",
+      "country_label": "national digital case management system",
+      "class": "record",
+      "platform": "FileMaker",
+      "owner": "Seychelles police; funded by UNODC, developed by Transmedia",
+      "tiers": "all stations, connected nationwide, as the essay states it; a Cautions module added in 2023"
+    }
+  ],
+  "note": "The file's own header marks the essay as an AI-assisted compilation to be treated as the author's analysis, not sourced fact, and study.json lists this slug under exclude_sources; the facts are recorded as the document states them, from its Seychelles police row only."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AES biometric national identity card enrolment",
+      "country_label": "Carte nationale d'identité biométrique de l'Alliance des États du Sahel (CNIB AES)",
+      "class": "",
+      "platform": "",
+      "owner": "Police nationale takes the applications; cards are made in central workshops in Niamey",
+      "tiers": "Enrolment opened 2026-09-15 at the regional directorate of the national police in Agadez; fingerprints and biometrics captured locally and the file sent digitally to Niamey; payment through Airtel Money, Amana and NITA"
+    }
+  ],
+  "note": "The regional police directorate appears only as the enrolment site for the civil identity card, which no typology class covers; nothing on reports or cases recorded at a station."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-16-sita-annual-report-2023-24",
+  "facts": [],
+  "systems": [
+    {"system": "SAPS IPM system", "country_label": "SAPS IPM system", "class": "", "platform": "", "owner": "SITA contract for SAPS; maintenance and technical support by Gijima Holdings", "tiers": ""},
+    {"system": "SAPS switching centres, nodal point sites and high sites", "country_label": "", "class": "enabling", "platform": "", "owner": "SITA; diesel replenishment by Infrasol", "tiers": "157 SAPS switching centres, nodal point sites and SAPS high sites"},
+    {"system": "SAPS Numerus data centre", "country_label": "Numerus data centre", "class": "enabling", "platform": "Oracle Database Enterprise Edition; SAS base software", "owner": "SITA, hosting for SAPS", "tiers": ""},
+    {"system": "Cisco wireless controllers for SAPS", "country_label": "", "class": "enabling", "platform": "Cisco", "owner": "SITA contract for SAPS", "tiers": ""},
+    {"system": "CA Performance Management software suite", "country_label": "", "class": "enabling", "platform": "CA Performance Management", "owner": "SITA", "tiers": "the next generation network, SAPS and the Department of Defence"}
+  ],
+  "note": "The passages are SITA's procurement tables for 2023/24: contracts for SAPS networks, a data centre and an 'IPM system' whose function is not described; nothing on station records."
+}

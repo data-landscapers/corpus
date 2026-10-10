@@ -1,0 +1,15 @@
+{
+  "slug": "2021-01-28-service-public-ne-lancement-plateforme",
+  "facts": [],
+  "systems": [
+    {
+      "system": "service-public.ne",
+      "country_label": "portail des services publics du Niger (service-public.ne)",
+      "class": "public",
+      "platform": "",
+      "owner": "Agence Nationale pour la Société de l'Information (ANSI) with the Haut-Commissariat à la Modernisation de l'Etat; financed by France through the AFD",
+      "tiers": "National portal of administrative procedures, launched 2021-01-28; its home page lists obtaining an extract of the criminal record (casier judiciaire) among the procedures"
+    }
+  ],
+  "note": "A general government procedures portal, not a police system; the criminal record extract is listed as a procedure and nothing is said of reports or cases recorded at a station."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2026-05-08-statehouse-drdm-spf-digital-dispatch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "radio communication equipment (handheld radios, base station repeaters, combiners, solar panels)",
+      "country_label": "radio communication equipment",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Seychelles Police Force, handed over by the Department of Risk and Disaster Management",
+      "tiers": "handed over at Police Headquarters, Victoria, on 2026-05-08; where it is deployed is not stated"
+    },
+    {
+      "system": "digital dispatch consoles",
+      "country_label": "digital dispatch consoles",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Seychelles Police Force, handed over by the Department of Risk and Disaster Management",
+      "tiers": "handed over at Police Headquarters, Victoria, on 2026-05-08; where they are deployed is not stated"
+    }
+  ],
+  "note": "A handover of radio and dispatch equipment for emergency communication under a DRDM-police agreement; nothing on how stations record reports or cases, and no police station is named."
+}

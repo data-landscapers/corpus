@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-27-sao-tome-unodc-digital-evidence-chain",
+  "facts": [],
+  "systems": [
+    {"system": "XRY", "country_label": "", "class": "identification", "platform": "XRY (MSAB)", "owner": "Judicial Police; procured by UNODC under the UN Peacebuilding Fund project", "tiers": "Judicial Police; in operational use as at June 2026"},
+    {"system": "Passware", "country_label": "", "class": "identification", "platform": "Passware", "owner": "Judicial Police; procured by UNODC under the UN Peacebuilding Fund project", "tiers": "Judicial Police; in operational use as at June 2026"}
+  ],
+  "note": "Digital forensics tools (extraction of data from mobile devices, decryption) and training for the Judicial Police, prosecutors and judges; no system in which a station records a report or a case."
+}

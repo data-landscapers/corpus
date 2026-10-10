@@ -1,0 +1,10 @@
+{
+  "slug": "2023-06-27-unfpa-sao-tome-informatizacao-policia-nacional-sistema-zulu",
+  "facts": [],
+  "systems": [
+    {"system": "Centro de Comando e Controlo", "country_label": "Centro de Comando e Controlo", "class": "surveillance", "platform": "", "owner": "Polícia Nacional de São Tomé e Príncipe; televisions and about ten computers from UNFPA", "tiers": "Launch expected in the first half of August 2023, covering the district of Água Grande in a first phase and extended gradually to the whole country"},
+    {"system": "Sistema Zulu", "country_label": "Sistema Zulu", "class": "statistics", "platform": "", "owner": "Polícia Nacional de São Tomé e Príncipe; supported by UNFPA", "tiers": "Part of the Centro de Comando e Controlo; first phase Água Grande only from August 2023, then gradually the whole country. Its project note says it allows the compilation of crime statistics"},
+    {"system": "Sistema de Informação da PNSTP", "country_label": "Sistema de Informação da PNSTP", "class": "", "platform": "", "owner": "Polícia Nacional de São Tomé e Príncipe", "tiers": "Named in the force's Strategic Plan, which sets computerisation of administrative and operational areas and its linking to national and international databases to identify and flag suspects, vehicles and wanted objects"}
+  ],
+  "note": "No fact: the document describes the Sistema Zulu as part of a command and control centre and as a means of compiling crime statistics, and nowhere says a station enters a report or a case in it, so no system of class record is described. The parent should weigh the class: as at June 2023 the launch was planned for August 2023 in Água Grande only, and the force's Strategic Plan names computerisation."
+}

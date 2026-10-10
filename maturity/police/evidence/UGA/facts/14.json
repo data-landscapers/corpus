@@ -1,0 +1,39 @@
+{
+  "slug": "2026-01-01-upf-vote144-budget-performance-report",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Computers at district police stations",
+      "country_label": "computers",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Uganda Police Force",
+      "tiers": "all 186 district police stations provided with computers, half year FY2025/26"
+    },
+    {
+      "system": "Radio communication",
+      "country_label": "radio communication, a component of the subcounty policing model",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Uganda Police Force",
+      "tiers": "150 (81%) of the 186 police districts/divisions"
+    },
+    {
+      "system": "Solar power at police facilities",
+      "country_label": "solar power",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Uganda Police Force",
+      "tiers": "installed in 20 facilities in Karamoja, Kalangala and Buvuma; 235 facilities assessed"
+    },
+    {
+      "system": "Crime Data Analysis Centre",
+      "country_label": "Crime Data Analysis Centre",
+      "class": "",
+      "platform": "",
+      "owner": "Uganda Police Force",
+      "tiers": "under construction, 75% complete"
+    }
+  ],
+  "note": "No station record system is named, so no fact: the report (held as an excerpt, half year FY2025/26, publication date a proxy) states computers provided to all 186 district police stations, police stations in 1,231 (56%) of 2,190 sub-counties, 200 new sub-county stations begun, an ICT department line of Ushs 22.430 billion recurrent for FY2026/27 and no external financing on the vote, without saying what is recorded on the computers."
+}

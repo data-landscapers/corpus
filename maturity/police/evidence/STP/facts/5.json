@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-01-sao-tome-unodc-direitosaopovo-ai-justice-platform",
+  "facts": [],
+  "systems": [
+    {"system": "DireitosAoPovo.st", "country_label": "DireitosAoPovo.st", "class": "public", "platform": "Legal-information chatbot on AI technology developed by Anthropic, with retrieval-augmented generation; built by the Justice Education Society of British Columbia", "owner": "UNODC with the Justice Education Society of British Columbia as implementing partner, in partnership with the Ministry of Justice; UN Peacebuilding Fund", "tiers": "Public, by phone; development agreed in June 2026, not yet in service"},
+    {"system": "VidaSemMedo", "country_label": "VidaSemMedo", "class": "public", "platform": "Reporting module of DireitosAoPovo.st", "owner": "UNODC and the Justice Education Society of British Columbia; reports go to the Judicial Police's Sexual Abuse and Gender-Based Violence Brigade", "tiers": "Public channel for reporting gender-based violence to the Judicial Police; in development"},
+    {"system": "Denuncia", "country_label": "Denuncia", "class": "public", "platform": "Reporting module of DireitosAoPovo.st", "owner": "UNODC and the Justice Education Society of British Columbia; reports go to the Judicial Police", "tiers": "Public channel for anonymous reporting of corruption to the Judicial Police; in development"}
+  ],
+  "note": "A public reporting platform with two channels to the Judicial Police, in development; it is of class public, and the document states nothing on how a station records a report or a case."
+}

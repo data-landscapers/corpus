@@ -1,0 +1,12 @@
+{
+  "slug": "2018-01-01-daf-interieur-direction-automatisation-des-fichiers-mandat",
+  "facts": [],
+  "systems": [
+    {"system": "ECOWAS biometric national identity card enrolment", "country_label": "cartes nationales d'identité biométriques à puces CEDEAO", "class": "identification", "platform": "", "owner": "Direction de l'Automatisation des Fichiers (DAF), Ministère de l'Intérieur", "tiers": "From 16 August 2017 at six named Dakar police commissariats, extending progressively to other commissariats of the Dakar region and of the central and peripheral regions, certain gendarmerie brigades and sub-prefectures"},
+    {"system": "Firearm carrying or possession permit file", "country_label": "permis de port ou de détention d'arme à feu", "class": "single-function", "platform": "", "owner": "DAF, Ministère de l'Intérieur", "tiers": "not stated"},
+    {"system": "Foreigner's identity card", "country_label": "carte d'identité d'étranger", "class": "border", "platform": "", "owner": "DAF, Ministère de l'Intérieur", "tiers": "not stated"},
+    {"system": "Refugee's identity card", "country_label": "carte d'identité de réfugié", "class": "border", "platform": "", "owner": "DAF, Ministère de l'Intérieur", "tiers": "not stated"},
+    {"system": "Passport registration certificate", "country_label": "certificat d'immatriculation pour passeport", "class": "border", "platform": "", "owner": "DAF, Ministère de l'Intérieur", "tiers": "not stated"}
+  ],
+  "note": "The ministry's statement of the DAF's mandate, which covers population files kept for non-police purposes. Commissariats and gendarmerie brigades appear only as identity card enrolment points; nothing on a station's record of a complaint or a case."
+}

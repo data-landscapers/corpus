@@ -1,0 +1,23 @@
+{
+  "slug": "2022-05-03-togo-centre-information-policiere-cipt-sipao",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Système d'Information Policière d'Afrique de l'Ouest (SIPAO/WAPIS)",
+      "country_label": "SIPAO, managed by the Centre d'Information Policière du Togo (CIPT)",
+      "class": "identification",
+      "platform": "SIPAO/WAPIS, implemented by INTERPOL",
+      "owner": "Ministère de la Sécurité et de la Protection Civile, through the CIPT; funded by the European Union (11th EDF) under the ECOWAS Commission",
+      "tiers": "national centre in Lomé, inaugurated 29 April 2022; workstations deployed in Lomé in units of the Police Nationale, the Gendarmerie, Customs and the drugs office OCRTIDB; no unit outside Lomé is named"
+    },
+    {
+      "system": "INTERPOL I-24/7",
+      "country_label": "I-24/7",
+      "class": "exchange",
+      "platform": "INTERPOL I-24/7",
+      "owner": "INTERPOL",
+      "tiers": "stated as a possible connection from the national system to INTERPOL's global databases, and a regional platform, under the SIPAO programme"
+    }
+  ],
+  "note": "No fact: the ministry describes SIPAO by what it will give investigators (a person's criminal antecedents, wanted persons, weapons, vehicles and objects, and crime statistics) and calls the CIPT the national centre for collecting and recording police data, but nowhere says a station enters its reports or cases in it, so the system is classed identification and not record. The parent should weigh that workstations were in police and gendarmerie units in Lomé only as of 29 April 2022; Togo joined in 2017, signed the protocol on 14 March 2019 and the related texts in October 2021."
+}

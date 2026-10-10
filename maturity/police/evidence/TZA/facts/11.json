@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's Tanzania police row says it found no evidence of routine digital recording of cases or incidents at rural police stations, and reads station reporting as paper-based or aggregate; the row gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Tanzania Police Force station records", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's Tanzania police row describes station recording as predominantly paper, with crime data from all stations sent to a central Statistics Unit under the Director of Criminal Investigation for compilation; the row gives no date, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Tanzania Police Force station records", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Tanzania Police Force station records", "country_label": "", "class": "record", "platform": "paper", "owner": "Tanzania Police Force", "tiers": "all stations, rural included"},
+    {"system": "Crime statistics compilation, Statistics Unit under the Director of Criminal Investigation", "country_label": "Statistics Unit", "class": "statistics", "platform": "", "owner": "Tanzania Police Force", "tiers": "central unit compiling data sent from all stations"},
+    {"system": "Police clearance certificate online service (pcc.tpf.go.tz)", "country_label": "", "class": "public", "platform": "", "owner": "Tanzania Police Force", "tiers": "online"},
+    {"system": "Prosecutions case management (cmis.nps.go.tz)", "country_label": "", "class": "", "platform": "", "owner": "National Prosecutions Service", "tiers": "online; the prosecution service's own system, no link to a police system stated"},
+    {"system": "Central forensic fingerprint records", "country_label": "", "class": "identification", "platform": "", "owner": "Tanzania Police Force", "tiers": "central"}
+  ],
+  "note": "The slug is on study.json's exclude_sources list (an AI-assisted compilation by its own header); the two facts record what the row states and are the parent's to set aside."
+}

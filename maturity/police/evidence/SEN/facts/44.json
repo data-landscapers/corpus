@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-17-senegal-autorite-nationale-cybersecurite",
+  "facts": [],
+  "systems": [
+    {"system": "National Police annual report: counts of recorded offences", "country_label": "rapport annuel de la Police nationale", "class": "statistics", "platform": "", "owner": "Police nationale", "tiers": "national count only: 3,794 cybercrime offences recorded in 2025 against 3,902 in 2024; how the count is compiled is not stated"}
+  ],
+  "note": "News of a cybersecurity bill. Its one police item is a crime count from the National Police's annual report, which is statistics; nothing on how a station records a complaint or a case."
+}

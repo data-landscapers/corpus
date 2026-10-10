@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Lagos smart-city CCTV surveillance and integrated command and control centre", "country_label": "Lagos CCTV surveillance; integrated command and control centre", "class": "surveillance", "platform": "ANPR cameras, AI analytics, drone surveillance, facial recognition marked 'potential'; Chinese firms including Huawei named as suppliers to Lagos", "owner": "Lagos State Government; data access listed as police, Lagos State Police Command and municipal authorities, with ownership of the data 'unclear'", "tiers": "Lagos city; deployment rated moderate (100-999 cameras); no retention policy specified, oversight rated weak"}
+  ],
+  "note": "A twelve-city analysis, AI-written by its own account; for Nigeria it covers Lagos surveillance only, which is the surveillance class. Nothing on station records, so no fact."
+}

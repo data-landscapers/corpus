@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-03-smart-zambia-police-digitalisation-40-stations",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "SMART Zambia Institute received routers, switches, access points and firewalls for deployment to 40 police stations, to connect them to a centralised digital system that, once implemented, is to let stations move essential processes and record-keeping online; the report is dated 3 February 2026 and gives no delivery date, so that date is used.", "as_of": "2026-02-03", "date_precision": "day", "system": "centralised digital system (Zambia Police Service LAN and Last Mile Connectivity Project)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:not-stated", "fact": "The report of the networking equipment for 40 police stations names SMART Zambia Institute as recipient and Synth Tech Limited as supplier and does not state how the project is financed; dated by the report, 3 February 2026.", "as_of": "2026-02-03", "date_precision": "day", "system": "centralised digital system (Zambia Police Service LAN and Last Mile Connectivity Project)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "centralised digital system", "country_label": "centralised digital system", "class": "record", "platform": "", "owner": "Zambia Police Service; project run by SMART Zambia Institute", "tiers": "not yet implemented; police stations are to be connected to it"},
+    {"system": "Zambia Police Service Local Area Network (LAN) and Last Mile Connectivity Project", "country_label": "Zambia Police Service LAN and Last Mile Connectivity Project", "class": "enabling", "platform": "routers, switches, access points and firewalls supplied by Synth Tech Limited", "owner": "SMART Zambia Institute (Project Manager Zaima Banda)", "tiers": "40 police stations nationwide, equipment received and to be deployed"}
+  ],
+  "note": "The centralised system is classed record on the document's words that stations will move record-keeping online through it; the document does not say it records occurrences or cases, and does not say any station yet enters records digitally. No stations fact is written: the 40 are stations due network equipment, not stations doing digital entry, and no total of stations is given."
+}

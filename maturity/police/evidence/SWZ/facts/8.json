@@ -1,0 +1,15 @@
+{
+  "slug": "2025-08-16-undp-donates-equipment-digital-justice-system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "country_label": "IECMS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Justice and Constitutional Affairs; equipment worth USD 10,000 donated by UNDP in August 2025",
+      "tiers": "In rollout; to be used by the Royal Eswatini Police, Correctional Services and other justice bodies, linking police, Anti-Corruption Commission, Prosecution, Attorney General's Office, Judiciary, Law Society, Correctional Services, Human Rights Commission and Ministry of ICT; no stations named"
+    }
+  ],
+  "note": "The IECMS is described as digitalising court operations and linking the police to other justice bodies; the document does not say stations record reports or cases in it."
+}

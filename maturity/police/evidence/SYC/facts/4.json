@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-30-seychelles-video-enforcement-traffic-system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "système de contrôle routier par vidéo-verbalisation",
+      "country_label": "vidéo-verbalisation",
+      "class": "single-function",
+      "platform": "Acusensus technology, if adopted permanently",
+      "owner": "Government of Seychelles, announced by the Vice-President; Acusensus named as partner if adopted",
+      "tiers": "eight-week pilot in Roche Caiman district, Mahé, announced by 2026-07-30"
+    }
+  ],
+  "note": "Traffic enforcement only: public cameras read plates and an officer issues an electronic ticket remotely; a single-function system, so no fact on station records."
+}

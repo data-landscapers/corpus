@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-06 Home Affairs on launch of world-class new identity verification service and cost",
+  "facts": [],
+  "systems": [
+    {"system": "Identity verification service against the National Population Register", "country_label": "new identity verification service", "class": "exchange", "platform": "", "owner": "Department of Home Affairs", "tiers": "Justice cluster users including SASSA, SAPS and the Department of Justice and Constitutional Development; the cluster runs over 180,000 transactions a day"}
+  ],
+  "note": "Home Affairs' statement on its identity verification service, launched 1 July 2025; SAPS is named only as a justice-cluster user onboarded to it, and no station record system is described."
+}

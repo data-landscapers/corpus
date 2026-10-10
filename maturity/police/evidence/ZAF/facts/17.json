@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-03-select-committee-report-saps-budget-vote-28-2026-27",
+  "facts": [],
+  "systems": [
+    {"system": "Risk Management Support System (RIMAS) Framework", "country_label": "Risk Management Support System (RIMAS) Framework", "class": "", "platform": "", "owner": "adopted by Cabinet; applied by SAPS Protection and Security Services", "tiers": ""}
+  ],
+  "note": "No fact: the held text is an excerpt that stops mid-sentence in the Home Affairs report (543 lines), before the Select Committee's report on SAPS Budget Vote 28 begins. The body read covers parliamentary villages, a housing forum and Home Affairs only. The file's frontmatter summary says the SAPS report records station hardware and network rollout counts and an e-Policing Policy with digital docket management directed into pilot stations, but none of that text is in the body, so nothing is taken from it; the parent needs the full document for those figures."
+}

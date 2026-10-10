@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-06-tun-tuniscope-interieur-casier-judiciaire-b3-interconnexion",
+  "facts": [],
+  "systems": [
+    {"system": "Criminal record (casier judiciaire) and its extract, bulletin no. 3", "country_label": "casier judiciaire; B3; carte n°3", "class": "identification", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "not stated; digitisation is given as the ministry's strategy in a written answer to a deputy, reported 6 October 2026"},
+    {"system": "Interconnection of the criminal record with the Ministry of Justice", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministère de l'Intérieur with the Ministère de la Justice", "tiers": "stated as an axis of the strategy, to update judgments and court decisions in the record beforehand; not said to be live"},
+    {"system": "Interconnection of the criminal record with the Ministry of Finance", "country_label": "", "class": "exchange", "platform": "", "owner": "Ministère de l'Intérieur with the Ministère des Finances", "tiers": "stated as an axis of the strategy, to integrate financial penalties automatically; not said to be live"}
+  ],
+  "note": "The criminal record is an identification system under the typology and its links to justice and finance are exchange; the article says nothing on station records, so there is no fact for the record class."
+}

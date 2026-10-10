@@ -1,0 +1,15 @@
+{
+  "slug": "2021-12-01-tanzania-statistical-master-plan-phase-two-tsmp-ii",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Crime Statistics Management Information System (CSMIS)",
+      "country_label": "Crime Statistics Management Information System (CSMIS)",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Tanzania Police Force",
+      "tiers": ""
+    }
+  ],
+  "note": "No record-class system: the plan (December 2021) says TSMP I established the Police Force's electronic statistical system, CSMIS, leaves inadequate ICT equipment, improving CSMIS and the statistics unit as remaining gaps, and plans a Police Force data portal for dissemination (intervention 1.3.11); all statistics, so no fact."
+}

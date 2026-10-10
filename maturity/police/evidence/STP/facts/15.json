@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-sao-tome-dgrn-centro-de-identificacao-civil-e-criminal",
+  "facts": [],
+  "systems": [
+    {"system": "Criminal identification records of the Centro de Identificação Civil e Criminal", "country_label": "registo criminal (Divisão de Registo Criminal, CICC)", "class": "identification", "platform": "", "owner": "Direcção Geral dos Registos e do Notariado, Ministry of Justice", "tiers": "Central service seated in the city of São Tomé, with jurisdiction over the whole national territory"}
+  ],
+  "note": "The registries directorate's page on its central civil and criminal identification service; criminal records are of class identification, the page does not say whether they are kept digitally, and nothing is stated on police stations."
+}

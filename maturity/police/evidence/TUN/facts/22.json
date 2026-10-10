@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-18-lapresse-tn-modernisation-administrative-passeports-cin",
+  "facts": [],
+  "systems": [
+    {"system": "Interior ministry digital services platform for passports", "country_label": "plateforme numérique de services; guichets électroniques", "class": "public", "platform": "", "owner": "Ministère de l'Intérieur, border police", "tiers": "online form, tax payment and appointment through the ministry's portal; mobile counters aboard the ferries Carthage and Tanit and offices for expatriates, which issued 10,609 documents since the start of the year (August 2026)"},
+    {"system": "Criminal record extract (casier judiciaire)", "country_label": "extrait de casier judiciaire; fiche d'antécédents", "class": "identification", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "central reception offices, about 120,000 users a year; a target of delivery in under a day is stated, with 48 hours for the national identity card"}
+  ],
+  "note": "Passports, identity cards and criminal record extracts issued by the interior ministry; the article says nothing on how a station records a complaint or a case, so there is no fact for the record class."
+}

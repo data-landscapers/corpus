@@ -1,0 +1,36 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's country table states that rural policing in Togo is done by Gendarmerie Nationale posts, where officers draft and sign procès-verbaux on site and keep physical custody registers, and scores rural stations 1 as entirely paper-based; it gives no date, so its published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "procès-verbaux and custody registers (paper)",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's country table states that it found no evidence of initial recording at rural gendarmerie posts being digital and no rural digital tools on official sites, the record being probably made on paper first and digitised centrally; it gives no date, so its published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "procès-verbaux and custody registers (paper)",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "WAPIS",
+      "country_label": "WAPIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "central; said to enable national data sharing since 2022, with no evidence of entry at rural posts"
+    }
+  ],
+  "note": "The document is an AI-assisted compilation by its own header, and study.json lists it under exclude_sources; the facts are what its Togo police row states."
+}

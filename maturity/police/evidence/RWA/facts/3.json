@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-23-60-non-professional-bailiffs-trained-iecms",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Electronic Case Management System (IECMS)", "country_label": "IECMS", "class": "", "platform": "", "owner": "Ministry of Justice", "tiers": "Non-professional bailiffs executing enforcement orders, 60 of them trained on it and its e-auction module on 23-25 April 2025"}
+  ],
+  "note": "The document describes the system only as bailiffs use it to execute court enforcement orders; it says nothing of the police or of stations, so no class and no fact."
+}

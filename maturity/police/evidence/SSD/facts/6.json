@@ -1,0 +1,23 @@
+{
+  "slug": "2026-02-08-smart-city-surveillance-police-plan",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Smart City project",
+      "country_label": "Smart City",
+      "class": "surveillance",
+      "platform": "Huawei",
+      "owner": "Ministry of Interior and South Sudan National Police Service; a grant of the Chinese government",
+      "tiers": "Approved as at February 2026; first phase Juba only, a second phase to cover the whole country"
+    },
+    {
+      "system": "Security cameras on Juba's major streets",
+      "country_label": "security cameras",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Ministry of Interior",
+      "tiers": "Juba: 150 cameras in 11 locations and surveillance drones launched in 2017; cameras reinstalled along major streets in January 2024"
+    }
+  ],
+  "note": "City surveillance for crime detection: class surveillance, so no fact; nothing on how stations record reports or cases."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Lusaka city surveillance system (extensive CCTV, advanced monitoring, real-time response, integrated command and control)", "country_label": "", "class": "surveillance", "platform": "Chinese-supplied; ZTE Corporation and Huawei Technologies listed as Lusaka's primary vendors", "owner": "data access listed for Police, Drug Enforcement Commission and ZTE Zambia Services Limited", "tiers": "Lusaka"},
+    {"system": "National Command Centre", "country_label": "National Command Centre", "class": "surveillance", "platform": "", "owner": "", "tiers": "Lusaka"}
+  ],
+  "note": "Twelve-city smart-city analysis, AI-written by its own account; for Lusaka it lists only surveillance and command-centre systems to which police have data access. Nothing on police station records."
+}

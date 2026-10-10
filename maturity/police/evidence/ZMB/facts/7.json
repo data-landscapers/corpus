@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-21-new-cyber-tools-for-police-zambia24",
+  "facts": [],
+  "systems": [
+    {"system": "Locally developed cyber-investigation and digital-forensics tools (cybersecurity monitoring equipment, forensic hardware and software)", "country_label": "cyber tools; Cyber Forensics Laboratory", "class": "identification", "platform": "developed by the Information and Communications University (ICU)", "owner": "Zambia Police Service, Forensics and Cybercrime Department", "tiers": "Forensics and Cybercrime Department in Lusaka"},
+    {"system": "My Companion", "country_label": "My Companion mobile application", "class": "", "platform": "mobile application developed by ICU", "owner": "Zambia Police Service, Forensics and Cybercrime Department", "tiers": "not stated"}
+  ],
+  "note": "Handover on 2026-04-21 of forensic and cybercrime-investigation tools to a central department in Lusaka; a forensic capability, not a station record system. The mobile application is named without a description of what it does."
+}

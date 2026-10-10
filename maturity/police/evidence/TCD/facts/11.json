@@ -1,0 +1,23 @@
+{
+  "slug": "2025-09-10-portail-inauguration-credop-police-technique-scientifique-sipt",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Systeme d'Information Policiere Tchadien (SIPT)",
+      "country_label": "Projet SIPT; Centre de recueil et d'enregistrement des donnees policieres",
+      "class": "",
+      "platform": "National version of the regional SIPAO programme (launched 2016)",
+      "owner": "Police nationale, Ministere de la Securite publique et de l'Immigration; premises financed by the European Union, with INTERPOL",
+      "tiers": "The data collection and registration centre inaugurated on 10 September 2025; INTERPOL's representative says it will centralise police data, integrate biometric identification tools and ease information sharing at national, regional and international level; no station-level entry stated"
+    },
+    {
+      "system": "Sous-direction de la police technique et scientifique",
+      "country_label": "Sous-direction de la police technique et scientifique",
+      "class": "identification",
+      "platform": "",
+      "owner": "Police nationale; premises financed by the European Union under the SIPT project",
+      "tiers": "One renovated and equipped unit of the national police, inaugurated on 10 September 2025"
+    }
+  ],
+  "note": "The document places SIPT in a central data centre and does not say that stations enter their reports or cases in it, so the typology gives it no class and it yields no fact."
+}

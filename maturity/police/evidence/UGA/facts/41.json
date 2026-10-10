@@ -1,0 +1,23 @@
+{
+  "slug": "2026-09-03-uga-police-ai-chatbot-announced",
+  "facts": [],
+  "systems": [
+    {
+      "system": "UPF chatbot",
+      "country_label": "UPF chatbot",
+      "class": "public",
+      "platform": "artificial intelligence chatbot, built by the police AI Unit at Kikandwa",
+      "owner": "Uganda Police Force",
+      "tiers": "announced, not yet launched; to be rolled out in different parts of the country"
+    },
+    {
+      "system": "999",
+      "country_label": "999 emergency line",
+      "class": "public",
+      "platform": "",
+      "owner": "Uganda Police Force",
+      "tiers": ""
+    }
+  ],
+  "note": "The only systems named are a public-facing chatbot answering questions about police services, announced but not launched, and the 999 emergency line; neither is a station record system, so no fact."
+}

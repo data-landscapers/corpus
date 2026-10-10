@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-13 FBI seeks vendors to support Somalia's biometric identification system",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Automated Biometric Identification System (ABIS)",
+      "country_label": "ABIS",
+      "class": "identification",
+      "platform": "",
+      "owner": "Somali Police Force; the FBI's CJIS Division is seeking vendors to operate and maintain it",
+      "tiers": "housed in a secure facility at Aden Adde International Airport, Mogadishu, with remote enrolment and a backup server; capacity of two million ten-print and 50,000 latent records"
+    }
+  ],
+  "note": "No fact: the document describes only the police fingerprint identification system (ABIS), an identification-class system, and an FBI request for information with a deadline of 24 January 2025; it states nothing about station records."
+}

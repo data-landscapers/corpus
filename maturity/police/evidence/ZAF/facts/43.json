@@ -1,0 +1,8 @@
+{
+  "slug": "2025-03-05-coloniality-chinese-surveillance-technologies-africa-ijriss",
+  "facts": [],
+  "systems": [
+    {"system": "Hikvision camera network, Johannesburg", "country_label": "", "class": "surveillance", "platform": "Hikvision cameras", "owner": "a local video surveillance provider (not named)", "tiers": "15,000 cameras rolled out across the Johannesburg metropolitan area in 2019; no police operator is stated"}
+  ],
+  "note": "A regional academic synthesis on Chinese surveillance technology; for South Africa it gives only the Johannesburg camera rollout and activist opposition to facial recognition, and nothing on station records."
+}

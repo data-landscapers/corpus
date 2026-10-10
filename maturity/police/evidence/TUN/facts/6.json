@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table states that its searches found no evidence of digital case management systems at rural police stations or gendarmerie posts in Tunisia, no rural digital pilot and no aggregate or central system, and scores the police row 1; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux, main courante and manual case files", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table states that police procedure relies on handwritten procès-verbaux for incidents and complaints, occurrence books (main courante) and manual case files, and calls recording entirely paper-based at facility level, with the National Guard covering the rural 87 per cent of the territory; no date is given, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux, main courante and manual case files", "class": "record"}
+  ],
+  "systems": [
+    {"system": "handwritten procès-verbaux, main courante and manual case files", "country_label": "procès-verbaux (PV); main courante", "class": "record", "platform": "paper", "owner": "police and National Guard", "tiers": "police stations and gendarmerie posts; rural areas named"},
+    {"system": "Criminal records (B3)", "country_label": "B3", "class": "identification", "platform": "", "owner": "", "tiers": "originates at police and gendarmerie stations on paper stamps and forms, per the essay"},
+    {"system": "Online request portal for criminal record extracts", "country_label": "", "class": "public", "platform": "", "owner": "", "tiers": "online; the essay says only that such portals exist"}
+  ],
+  "note": "Passages file. The document's own header calls its country figures an AI-aided compilation and not sourced fact, and study.json lists it under exclude_sources; the facts are what its Tunisia police row states, and its statement is of evidence not found, reasoned partly from what is 'typical of francophone Africa', rather than a dated statement by the force."
+}

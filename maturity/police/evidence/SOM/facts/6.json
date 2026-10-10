@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-10-somalia-iecms-launch-goobjoog",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Justice Sector Integrated Electronic Case Management System (IECMS)",
+      "country_label": "IECMS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Federal Government of Somalia; implemented with support from the US Bureau of International Narcotics and Law Enforcement Affairs (INL) and IDLO",
+      "tiers": "unveiled in Mogadishu on 9 October 2025; links the Criminal Investigation Department (CID), the Office of the Prosecutor, the courts and the prison service; no stations or regions named"
+    }
+  ],
+  "note": "No fact: the document describes the IECMS as a unified electronic workflow sharing criminal case information between the CID, prosecution, courts and prisons, replacing a paper process, so it is classed exchange; it does not say police stations enter reports or cases in it. The parent may weigh that the CID is its police end and each case stage 'from investigation to verdict' is to be tracked digitally."
+}

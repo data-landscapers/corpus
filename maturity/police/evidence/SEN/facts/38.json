@@ -1,0 +1,12 @@
+{
+  "slug": "2019-04-01-ue-nekkal-etude-faisabilite-fichier-central-national-biometrique",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric national identity card issuance system, with a central AFIS", "country_label": "carte nationale d'identité biométrique (CNI)", "class": "identification", "platform": "IRIS (Malaysia), with Synapsys Conseil; proprietary biometric templates", "owner": "Direction de l'Automatisation des Fichiers (DAF), Ministère de l'Intérieur", "tiers": "Applications taken and ten fingerprints captured in the country's commissariats, each with a local database, encrypted and transferred to the central site in Dakar; in service since October 2016, about 7,300,000 cards issued by April 2019"},
+    {"system": "Biometric passport issuance system, with a central AFIS", "country_label": "passeport biométrique", "class": "border", "platform": "IRIS", "owner": "Direction de la Police des Etrangers et des Titres de Voyage (DPETV), Ministère de l'Intérieur", "tiers": "Applications taken in commissariats and sent to the central site in Dakar; 4 autonomous issuing centres print locally; 138,423 passports issued from October 2016 to April 2019"},
+    {"system": "Web gateway from the passport system to the identity card database", "country_label": "passerelle web", "class": "border", "platform": "", "owner": "DPETV, querying the DAF's file", "tiers": "DPETV; search by identity card number, unique identifier or birth certificate number, not by biometrics"},
+    {"system": "Identity card for foreigners", "country_label": "carte d'identité pour étrangers", "class": "border", "platform": "paper, not machine-readable; a chip-card modernisation under study, not operational", "owner": "DPETV, Ministère de l'Intérieur", "tiers": "not stated"},
+    {"system": "Interconnection of the commissariats", "country_label": "projet d'interconnexion des commissariats", "class": "enabling", "platform": "", "owner": "DAF, Ministère de l'Intérieur", "tiers": "in preparation in April 2019"}
+  ],
+  "note": "A feasibility study of identity files: the commissariats appear only as enrolment points for identity cards and passports. It says nothing of how a station records a complaint or a case, so no fact of class record."
+}

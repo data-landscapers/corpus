@@ -1,0 +1,15 @@
+{
+  "slug": "2024-10-10-sierra-leone-slp-wapis-100-workstations-equipment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "West Africa Police Information System (WAPIS)",
+      "country_label": "WAPIS",
+      "class": "identification",
+      "platform": "WAPIS, on local, regional and global platforms",
+      "owner": "Sierra Leone Police, with EU funding through INTERPOL; EU funding was to end in November 2024 and the force was urged to take full ownership",
+      "tiers": "7 work stations at the start, after joining on 2022-01-26, and 21 by 2024-10-08, when equipment for 100 work stations across the country was handed over; the page does not say where the work stations are, nor that stations enter reports or cases in the system"
+    }
+  ],
+  "note": "The Sierra Leone Police describe WAPIS as an electronic criminal data record for tracking and for crime trend analysis, with no statement that a station records a report or a case in it, so it is not of the record class and gives no fact. The Inspector General notes electricity and internet problems in certain areas."
+}

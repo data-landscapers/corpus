@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-04-senegal-senum-diouf-connectivity-espaces-senegal-services",
+  "facts": [],
+  "systems": [
+    {"system": "infrastructures réseau déployées dans les préfectures et les brigades de gendarmerie", "country_label": "infrastructures réseau", "class": "enabling", "platform": "", "owner": "Senum SA", "tiers": "prefectures and gendarmerie brigades in the north (tour of Louga, Saint-Louis, Dagana, Matam); faults found, urgent maintenance and securing needed (September 2026)"}
+  ],
+  "note": "Only network infrastructure in gendarmerie brigades is named (enabling); nothing on how brigades record reports or cases."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-16-aps-new-deal-technologique-un-an-e-paiement-tresor-e-jokko",
+  "facts": [],
+  "systems": [
+    {"system": "e-Sénégal single window", "country_label": "e-Sénégal, guichet unique numérique", "class": "public", "platform": "", "owner": "Government of Senegal; the ministry of communication, telecommunications and digital reports it", "tiers": "Citizens and businesses: requests for the criminal record extract (casier judiciaire) and nationality certificate, and administrative appointments; in service by March 2026"},
+    {"system": "Treasury e-payment platform", "country_label": "plateforme e-paiement du Trésor", "class": "public", "platform": "", "owner": "Trésor public", "tiers": "The public, by telephone: taxes, fines and administrative fees in one system"},
+    {"system": "e-Visa", "country_label": "e-Visa", "class": "border", "platform": "", "owner": "not stated", "tiers": "Foreign nationals apply, pay and receive a visa online"},
+    {"system": "e-Consulat", "country_label": "e-Consulat", "class": "border", "platform": "", "owner": "not stated", "tiers": "Senegalese abroad: passport, consular card and civil status requests with online payment"}
+  ],
+  "note": "A ministry account of one year of the New Deal Technologique, relayed by APS. It names public-facing portals and an interoperability platform (e-Jokko) whose first uses are tax, customs and social protection; it says nothing of police or gendarmerie stations or how they record a complaint or a case."
+}

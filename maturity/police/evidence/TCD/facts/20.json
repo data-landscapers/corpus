@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01 I-CEMAC (INTERPOL border-management project, Central Africa)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "INTERPOL I-24/7 (I-CEMAC project)",
+      "country_label": "I-CEMAC",
+      "class": "border",
+      "platform": "I-24/7 network and INTERPOL databases",
+      "owner": "INTERPOL; project funded by CEMAC (2019-2024, EUR 4.9m)",
+      "tiers": "Selected border points (40 targeted across the six CEMAC states, Chad among them) and the six INTERPOL National Central Bureaus; the document gives no Chad site or count"
+    }
+  ],
+  "note": "A border-screening project extending INTERPOL's network to border points; Chad is named only as one of six CEMAC states, with no Chad-specific progress, and the class is out of scope."
+}

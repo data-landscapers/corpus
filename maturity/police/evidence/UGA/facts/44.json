@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-01-nita-u-nbi-phase5-kanungu-district",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Backbone Infrastructure (NBI) Phase 5",
+      "country_label": "National Backbone Infrastructure",
+      "class": "enabling",
+      "platform": "optical fibre backbone with last-mile connectivity",
+      "owner": "NITA-U, under the Ministry of ICT and National Guidance",
+      "tiers": "63 districts prioritised and 2,800 last-mile public institutions countrywide, security among the sectors; in Kanungu, 20 agencies including Kanungu Police, with last-mile connectivity to enable police posts to access high-speed internet"
+    }
+  ],
+  "note": "Connectivity only: the fibre extension launched in Kanungu on 1 December 2025 is to connect Kanungu Police and enable police posts to reach the internet; no station record system is named, so no fact."
+}

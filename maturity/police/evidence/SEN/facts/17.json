@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-12-aps-plateforme-signalement-cybercriminalite-police",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme numérique de signalement des infractions cybercriminelles", "country_label": "plateforme de signalement en ligne des infractions cybercriminelles", "class": "public", "platform": "developed in-house by Police nationale engineers", "owner": "Police nationale, Division spéciale de lutte contre la cybercriminalité (UNICEF support)", "tiers": "online, national; launched 12 February 2026, functional and in a validation test phase; a first report online, the complaint lodged and confirmed afterwards"}
+  ],
+  "note": "A public online reporting channel for one class of offence, received by the central cybercrime division; the document says it aims at interconnecting the Police nationale's databases but states nothing about commissariats making digital records."
+}

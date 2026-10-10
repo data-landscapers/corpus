@@ -1,0 +1,15 @@
+{
+  "slug": "2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Digitisation of criminal records",
+      "country_label": "",
+      "class": "identification",
+      "platform": "",
+      "owner": "Government of Chad",
+      "tiers": "Named by the World Bank (2023) as a government priority, beside nationality certificates and e-Tax; no system, site or progress stated"
+    }
+  ],
+  "note": "The passages name the digitising of criminal records only as a government priority, an identification matter; nothing on police stations or how they record reports or cases."
+}

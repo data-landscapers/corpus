@@ -1,0 +1,23 @@
+{
+  "slug": "2026-06-17-police-forensic-lab-equipment-china-training",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Forensic laboratory equipment for digital forensic investigations",
+      "country_label": "forensic lab equipment",
+      "class": "identification",
+      "platform": "",
+      "owner": "South Sudan National Police Service; equipment donated by the Government of China under a cooperation agreement",
+      "tiers": "First phase handed over in Juba on 15 June 2026, with 15 officers trained in China to install and run it; they are to train personnel in the states"
+    },
+    {
+      "system": "Electronic fingerprint technology",
+      "country_label": "electronic fingerprint technology",
+      "class": "identification",
+      "platform": "",
+      "owner": "South Sudan National Police Service; promised by China in a second phase with DNA testing equipment and expanded laboratory systems",
+      "tiers": "Scheduled, not delivered, as at June 2026"
+    }
+  ],
+  "note": "A forensic laboratory and a promised fingerprint system: class identification, so no fact; nothing on how stations record reports or cases."
+}

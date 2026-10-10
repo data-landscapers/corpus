@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-09-ner-nigerdiaspora-enrolement-passeport-biometrique-aes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AES biometric passport",
+      "country_label": "passeport biométrique AES",
+      "class": "border",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, de la Sécurité publique et de l'Administration du territoire; Direction de la Surveillance du Territoire (DST)",
+      "tiers": "Mass enrolment announced from 2026-09-15: at the DST in Niamey and at the regional directorates of the Police nationale elsewhere; enrolment for the ECOWAS-logo passport ends 2026-09-10"
+    }
+  ],
+  "note": "Announcement of passport enrolment; regional police directorates appear only as enrolment sites, and nothing is said of reports or cases recorded at a station."
+}

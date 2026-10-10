@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-30-ncop-question-331-integrated-person-management-sites",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Person Management (IPM) system", "country_label": "Integrated Person Management (IPM) system", "class": "identification", "platform": "", "owner": "South African Police Service", "tiers": "implemented at 235 police stations, components and sections as at 31 March 2026 (170 police stations per the earlier reply to Question 1640); phased plan of 150 sites in 2026/27, 400 in 2027/28 and 512 in 2028/29, full implementation anticipated by 2028/29"},
+    {"system": "Integrated Justice System (IJS)", "country_label": "Integrated Justice System (IJS)", "class": "exchange", "platform": "", "owner": "", "tiers": "said in the question to link SAPS, the Department of Justice and Constitutional Development and the Department of Correctional Services through a unified biometrics framework"},
+    {"system": "IJS Person Integration Services and Unique Person ID (UPID)", "country_label": "IJS Person Integration Services; Unique Person ID (UPID)", "class": "exchange", "platform": "", "owner": "", "tiers": "still being developed, per the Minister of Correctional Services' reply to Question 1642 of 17 December 2025 as quoted in the question"}
+  ],
+  "note": "No fact: the Integrated Person Management system is described as a biometrics system holding the details of arrested persons, read as identification, not the station's occurrence or case record. The Acting Minister of Police states it was at 235 police stations, components and sections at 31 March 2026, that Correctional Services has not yet integrated with it, and that rollout depends on provincial personnel, rugged mobile devices, computers, network connectivity and single fingerprint scanners."
+}

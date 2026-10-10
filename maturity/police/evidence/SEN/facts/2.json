@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-04-lesoleil-senegal-numerique-justice-tribunaux",
+  "facts": [],
+  "systems": [
+    {"system": "e-Sénégal (demande du casier judiciaire)", "country_label": "e-Sénégal", "class": "public", "platform": "", "owner": "", "tiers": "online, for citizens; criminal-record extract and nationality certificate requests"}
+  ],
+  "note": "Courts' e-Justice case platform (justice ministry DDA, UNDP support, pilot at TGI Pikine-Guédiawaye, launch 10 Sep 2026) and the Jokkoo ak Yoon complaints channel are court systems; no police station record and no link to a police system is stated."
+}

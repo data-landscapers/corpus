@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-01-rwanda-vital-statistics-report-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Electronic Case Management System (IECMS)", "country_label": "IECMS", "class": "", "platform": "", "owner": "", "tiers": "Named only as the source of divorce statistics, left out of the 2024 report because the system was under revision"}
+  ],
+  "note": "The passages name IECMS only as a source of divorce statistics under revision, and the Rwanda National Police only as a member of the national mortality technical committee; nothing on police records."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-29-zimbabwe-iecms-phase-4-3-manicaland",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Electronic Case Management System (IECMS)", "country_label": "IECMS", "class": "", "platform": "", "owner": "Judicial Service Commission", "tiers": "superior courts since 2022-2023; all 16 magistrates' court stations in Manicaland and Mashonaland East from 1 June 2026 (Phase 4.3); Mashonaland West, Midlands, Bulawayo, Harare South and Harare North not yet digitised"}
+  ],
+  "note": "The courts' case management rollout only; the police and their stations are not mentioned, so the system is left unclassed."
+}

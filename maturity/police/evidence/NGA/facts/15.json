@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-23-fg-ptf-mou-map-digitalise-police-stations",
+  "facts": [],
+  "systems": [
+    {"system": "Mapping and fibre connection of police stations (MoU, communications ministry and Police Trust Fund)", "country_label": "MoU to map and digitalise police stations; 'smart police stations'", "class": "enabling", "platform": "Galaxy Backbone government fibre; GIS mapping of stations against fibre points of presence", "owner": "Federal Ministry of Communications, Innovation and Digital Economy with the Police Trust Fund; funds and support from the World Bank and the European Union, per the minister", "tiers": "all police stations nationally, as intended; MoU signed Wednesday 22 April 2026; about 12 months in phases, mapping first; capacity building for officers"}
+  ],
+  "note": "The MoU as described maps stations and connects them to fibre, with officer training: enabling class. The minister's machine that would capture a spoken report and transcribe it into a statement is given as a future he sees, not as a system being built, so no record-class system and no fact."
+}

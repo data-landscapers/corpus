@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-03-permis-de-conduire-numerique-compte-a-rebours",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Driving Licence (DDL)", "country_label": "Digital Driving Licence (DDL)", "class": "single-function", "platform": "Shown in the KOREK! application, with a QR code the police scan to verify the licence; data drawn in real time from the police's official systems", "owner": "Ministry of Information Technology, Communication and Innovation, with the police Traffic Branch for corrections", "tiers": "Viewable by licence holders since 29 September 2026, some 884,000 holders; accepted at roadside checks from 1 January 2027 beside the original physical licence"},
+    {"system": "KOREK!", "country_label": "KOREK!", "class": "public", "platform": "Government mobile application, signed into with MauPass", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "Citizens' smartphones; shows the driving licence and penalty points among other public services"}
+  ],
+  "note": "A press account of the digital driving licence; the police station appears only as the place a driver may produce a physical licence within five days, and nothing is said of station records."
+}

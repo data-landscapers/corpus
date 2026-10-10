@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-11-galaxy-backbone-nptf-smart-police-station-gombe",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "stations", "value": "pilot", "fact": "Galaxy Backbone and the Nigeria Police Trust Fund deployed one Smart Police Station, in Gombe State, described as a model for future ones; the report lists digital reporting mechanisms among its features beside surveillance, communications and connectivity, and does not say reports or cases are entered digitally (date is the report's, 11 June 2026).", "as_of": "2026-06-11", "date_precision": "day", "system": "Smart Police Station", "class": "record"},
+    {"sub_indicator": "record", "aspect": "last12", "value": "advancing", "fact": "A first Smart Police Station with digital reporting mechanisms was deployed in Gombe State by Galaxy Backbone with the Nigeria Police Trust Fund, reported on 11 June 2026.", "as_of": "2026-06-11", "date_precision": "day", "system": "Smart Police Station", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "finance:not-stated", "fact": "The report of the Gombe Smart Police Station, deployed by Galaxy Backbone in partnership with the Nigeria Police Trust Fund, gives no cost and no source of funds (date is the report's).", "as_of": "2026-06-11", "date_precision": "day", "system": "Smart Police Station", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Smart Police Station", "country_label": "Smart Police Station", "class": "record", "platform": "", "owner": "Galaxy Backbone Limited with the Nigeria Police Trust Fund, for the Nigeria Police Force", "tiers": "one station, Gombe State; features listed are surveillance, communication systems, digital reporting mechanisms and internet connectivity"}
+  ],
+  "note": "Class rests on three words only, 'digital reporting mechanisms'; the rest of what the document describes is surveillance and enabling. The parent should check the class before using these facts."
+}

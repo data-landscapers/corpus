@@ -1,0 +1,15 @@
+{
+  "slug": "2025-05-24-permis-de-conduire-et-amendes-en-algerie",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic payment of traffic fines by payment terminal (TPE)",
+      "country_label": "paiement électronique des amendes routières",
+      "class": "single-function",
+      "platform": "electronic payment terminals taking bank cards and the Edahabia card",
+      "owner": "Ministry of Finance (Treasury), DGSN and Gendarmerie nationale, under a convention signed 24 May 2025",
+      "tiers": "police and gendarmerie agents nationwide after a trial in several wilayas; 2,000 terminals distributed to the security services at first"
+    }
+  ],
+  "note": "The only system is card payment of traffic fines to police and gendarmerie agents, a single-function system; nothing on how stations record reports or cases."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Police Security Management Information System",
+      "country_label": "National Police Security Management Information System",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Interior National security, as the strategy names the steward",
+      "tiers": "not stated; listed as a planned ICT solution under the strategy's Security priority service"
+    }
+  ],
+  "note": "Passages file. No fact: the e-Government Strategy 2025-2029 names a National Police Security Management Information System among planned security-sector ICT projects, beside e-prison and the national ID system, with no description of what it does, so it is unclassified."
+}

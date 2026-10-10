@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-03-dematerialisation-sans-connectivite-pas-de-deconcentration-d",
+  "facts": [],
+  "systems": [
+    {"system": "infrastructures numériques déployées dans les préfectures et les postes de gendarmerie", "country_label": "infrastructures numériques", "class": "enabling", "platform": "", "owner": "Sénégal Services / Sénégal Numérique", "tiers": "prefectures and gendarmerie posts in several departments (tour of Louga, Saint-Louis, Dagana, Matam); some need maintenance and securing (3 September 2026)"}
+  ],
+  "note": "Only digital infrastructure in gendarmerie posts is named (enabling); nothing on how posts record reports or cases."
+}

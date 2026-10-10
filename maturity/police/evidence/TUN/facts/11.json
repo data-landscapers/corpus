@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-23-tunisie-centres-modeles-police-garde-nationale-empreintes-digitales",
+  "facts": [],
+  "systems": [
+    {"system": "Model centres of the National Guard and National Security", "country_label": "centres modèles", "class": "enabling", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "21 under construction in September 2025, 10 of the National Guard and 11 of National Security, with administrative offices separated from judicial ones; locations not given"},
+    {"system": "Digital fingerprint readers replacing ink", "country_label": "équipements de lecture d'empreintes digitales", "class": "identification", "platform": "", "owner": "Ministère de l'Intérieur, direction de la police technique et scientifique", "tiers": "progressive generalisation announced; no count of centres given"},
+    {"system": "Remote appointment booking by SMS", "country_label": "prise de rendez-vous à distance via SMS", "class": "public", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "deployment announced for the centres"},
+    {"system": "Online national identity card application for baccalaureate pupils", "country_label": "", "class": "public", "platform": "developed with the Ministère des Technologies de la communication", "owner": "Ministère de l'Intérieur", "tiers": "online, with one visit to a centre for fingerprints"},
+    {"system": "Digital residence certificate", "country_label": "certificat de résidence", "class": "public", "platform": "digital identity and QR code, checked against the STEG and SONEDE databases", "owner": "Ministère de l'Intérieur", "tiers": "online; official launch planned for 1 November 2025"}
+  ],
+  "note": "An interior ministry official on administrative services at police and National Guard centres: premises, fingerprint readers, appointments and identity documents. It says nothing on how a centre records a complaint or a case, so there is no fact for the record class."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2019-06-19-dza-modernisation-du-service-public-en-algerie",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Security-control application on the biometric national identity card (CNIBE)",
+      "country_label": "Contrôle sécurité (CNIBE)",
+      "class": "identification",
+      "platform": "fingerprint data on the card's chip, compared automatically on mobile terminals",
+      "owner": "Ministère de l'Intérieur, des Collectivités Locales et de l'Aménagement du Territoire",
+      "tiers": "security agents, identifying a person by fingerprints with a simple terminal; no count or places given"
+    },
+    {
+      "system": "Infractions routières, shown linked by the NIN to the Registre national de la population",
+      "country_label": "Infractions Routières",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Interior ministry slide deck at ID4Africa, 19-20 June 2019, on civil status and biometric identity documents. Its AFIS, fingerprint processing and criminal-record check (Vérification Casier Judiciaire) are steps in producing identity documents, not police systems, and DGSN border posts are named only as a coordinating sector; nothing on how stations record."
+}

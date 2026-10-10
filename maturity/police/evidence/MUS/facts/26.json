@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-02-mus-pmo-cabinet-highlights-2026-10-02",
+  "facts": [],
+  "systems": [
+    {"system": "Online payment of fixed penalties for traffic offences", "country_label": "Supreme Court Portal", "class": "public", "platform": "Supreme Court Portal, with MauPass sign-in and payment by MauCAS QR code applications or card", "owner": "Not stated; the Mauritius Police Force enters the Fixed Penalty Notice into the system", "tiers": "Public, from 30 October 2026, for offences not carrying penalty points and only where the police have entered the notice; a second phase is to cover all traffic offences and speed-camera notices"},
+    {"system": "Photographic Enforcement Devices", "country_label": "Photographic Enforcement Device Notices; speed cameras", "class": "surveillance", "platform": "Not stated", "owner": "Not stated", "tiers": "63 speed cameras across the island"}
+  ],
+  "note": "Cabinet highlights; the police matter is online payment of traffic fines, a single function, and nothing is said of how stations record a report or a case."
+}

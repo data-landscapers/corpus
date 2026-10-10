@@ -1,0 +1,18 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's Zambia police row says baseline studies of 2020 show all police stations processing crime reports manually into occurrence books, registers and dockets, with no digital entry at the point of service.", "as_of": "2020", "date_precision": "year", "system": "occurrence books, registers and dockets", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's Zambia police row says that in the 2020 baseline studies complaints, witness statements, case dockets and police bonds are filled on paper forms at all stations.", "as_of": "2020", "date_precision": "year", "system": "occurrence books, registers and dockets", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The essay's Zambia police row says that in the 2020 baseline studies all stations record crime reports manually and none makes a digital entry at the point of service; it gives no count of stations.", "as_of": "2020", "date_precision": "year", "system": "occurrence books, registers and dockets", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay judges that rural police stations in Zambia remain entirely paper-based for recording cases and complaints, with data likely transcribed later at district level; no date is given, so the essay's publication date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "occurrence books, registers and dockets", "class": "record"}
+  ],
+  "systems": [
+    {"system": "occurrence books, registers and dockets", "country_label": "occurrence books, registers, dockets", "class": "record", "platform": "paper", "owner": "Zambia Police Service", "tiers": "all stations"},
+    {"system": "Crime mapping with physical maps and pins", "country_label": "", "class": "statistics", "platform": "paper maps and pins", "owner": "Zambia Police Service", "tiers": "85.2% of police stations (2020 baseline)"},
+    {"system": "SMART Zambia networking gear for 40 police stations", "country_label": "", "class": "enabling", "platform": "networking equipment", "owner": "SMART Zambia", "tiers": "40 stations (2026)"},
+    {"system": "AFIS", "country_label": "AFIS fingerprints", "class": "identification", "platform": "", "owner": "", "tiers": "national level; does not extend to case recording"},
+    {"system": "Proposed e-policing systems (cloud crime mapping, ZPS platform)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "proposed only"},
+    {"system": "GMIS", "country_label": "GMIS", "class": "", "platform": "", "owner": "", "tiers": "not stated"}
+  ],
+  "note": "Source is on the study's exclude_sources list (an AI-assisted compilation by its own header); facts recorded as the essay states them, for the parent to treat accordingly. Also states 24% of officers are computer-trained."
+}

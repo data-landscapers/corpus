@@ -1,0 +1,15 @@
+{
+  "slug": "2023-09-13-journaldutchad-creation-credop-donnees-policieres-decret-2278",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Systeme d'information policiere du Tchad (SIPT)",
+      "country_label": "SIPT, managed by the Centre de recueil et d'enregistrement des donnees policieres (CREDOP)",
+      "class": "",
+      "platform": "",
+      "owner": "CREDOP, housed at the ministry in charge of public security, with legal and judicial control by the ministry in charge of justice; created by decree no. 2278 of 18 August 2023",
+      "tiers": "A national centre that collects, records, centralises, safeguards and shares data from checks and searches for persons and property in administrative and judicial police work; staffed from the Police nationale, Gendarmerie nationale, Garde nationale et nomade and the Coordination de la Police judiciaire; no station-level entry stated"
+    }
+  ],
+  "note": "The decree creates a central centre to manage SIPT; the document does not say that stations or brigades enter their reports or cases in it, so the typology gives it no class and it yields no fact."
+}

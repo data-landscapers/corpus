@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table (an AI-assisted compilation by its own header) states that Senegal's rural police stations, mainly gendarmerie brigades, record case files, complaints and incident reports as handwritten procès-verbaux, with no evidence of digital case logging at rural stations; it gives no date, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux (paper)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay's country table (an AI-assisted compilation) states that procès-verbaux at rural gendarmerie brigades are drafted on the spot by hand, signed on each page, and the originals sent physically to prosecutors, citing the Criminal Procedure Code; it scores rural stations 1, entirely paper-based; no date is given, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux (paper)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "stations", "value": "none", "fact": "The essay's country table (an AI-assisted compilation) states that there is no evidence of digital case logging at any rural station in Senegal, recent digital initiatives being online services and central systems and not frontline recording; no date is given, so its published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "handwritten procès-verbaux (paper)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "cybercrime reporting portal", "country_label": "cybercrime reporting portal (2026)", "class": "public", "platform": "", "owner": "", "tiers": "online"},
+    {"system": "e-Senegal police clearances", "country_label": "e-Senegal", "class": "public", "platform": "", "owner": "", "tiers": "online"},
+    {"system": "AFIS for Gendarmerie", "country_label": "AFIS", "class": "identification", "platform": "", "owner": "Gendarmerie", "tiers": "central"}
+  ],
+  "note": "Source is listed in study.json exclude_sources (AI-assisted compilation, not sourced fact); facts recorded as the document states them, for the parent to treat accordingly."
+}

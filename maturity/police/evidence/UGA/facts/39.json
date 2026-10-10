@@ -1,0 +1,80 @@
+{
+  "slug": "2017-12-14-police-crime-records-management-system",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "C",
+      "fact": "The Uganda Police Force says its ICT Directorate has developed a crime records system for the Directorate of Crime Investigations that processes and tracks the progress of case files and eases the monitoring and management of crimes reported; no date is given beyond the document's publication, 14 December 2017.",
+      "as_of": "2017-12-14",
+      "date_precision": "day",
+      "system": "Crime Records Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "pilot",
+      "fact": "The Uganda Police Force says the finalised crime records system was being piloted in ten divisions of Kampala Metropolitan, with no total of divisions or stations given; dated by the document's publication, 14 December 2017.",
+      "as_of": "2017-12-14",
+      "date_precision": "day",
+      "system": "Crime Records Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Uganda Police Force says the crime records system was developed by its own ICT Directorate through the force's ICT Center for Innovation and Entrepreneurship Excellence, set up in 2014 by the Inspector General of Police in partnership with Microsoft; dated by the document's publication, 14 December 2017.",
+      "as_of": "2017-12-14",
+      "date_precision": "day",
+      "system": "Crime Records Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The Uganda Police Force names no budget line or funder for the crime records system, and says licence renewal and funds are among the greatest challenges of the police centre that built it, with NITA promising to help negotiate them; dated by the document's publication, 14 December 2017.",
+      "as_of": "2017-12-14",
+      "date_precision": "day",
+      "system": "Crime Records Management System",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Crime Records Management System",
+      "country_label": "crime records system",
+      "class": "record",
+      "platform": "built in-house by the police ICT Center for Innovation and Entrepreneurship Excellence (ICIEE)",
+      "owner": "Uganda Police Force, ICT Directorate, for the Directorate of Crime Investigations",
+      "tiers": "piloted in ten divisions of Kampala Metropolitan"
+    },
+    {
+      "system": "Duty-free information management",
+      "country_label": "Duty-free information management",
+      "class": "",
+      "platform": "built in-house by ICIEE",
+      "owner": "Uganda Police Force, Welfare directorate",
+      "tiers": ""
+    },
+    {
+      "system": "Certificate of Good Conduct",
+      "country_label": "Certificate of Good Conduct",
+      "class": "single-function",
+      "platform": "built in-house by ICIEE",
+      "owner": "Uganda Police Force, Directorate of INTERPOL and International Relations",
+      "tiers": ""
+    },
+    {
+      "system": "Human Resource Management System",
+      "country_label": "Human Resource Management System",
+      "class": "personnel",
+      "platform": "built in-house by ICIEE",
+      "owner": "Uganda Police Force",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

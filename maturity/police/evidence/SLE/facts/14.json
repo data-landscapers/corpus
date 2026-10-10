@@ -1,0 +1,178 @@
+{
+  "slug": "2025-01-29-sierra-leone-police-strategic-development-plan-2025-2029",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The Sierra Leone Police's own Strategic Development Plan 2025-2029 lists among its priorities a transition from a paper-based to a digital records management system, and among its weaknesses that internal records management interventions have not worked and a digital system is necessary; the monitoring framework sets the baseline at 2024.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "paper-based records management",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The plan treats the e-Case Management System as still to be established: against a 2024 baseline its 2025 milestone is a survey on the status of case management, with implementation of the survey's recommendations from 2026 to 2028 and an effective system as the 2029 target.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "e-Case Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Sierra Leone Police Strategic Development Plan 2025-2029 names an e-Case Management System for case tracking and processing as key intervention 4.3 under Strategic Goal 4, with yearly milestones from 2025 to a 2029 target; the plan prints no date, and the 2025-01-29 used is read from its file name.",
+      "as_of": "2025-01-29",
+      "date_precision": "day",
+      "system": "e-Case Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The plan makes the e-Case Management System the force's own undertaking, with Crime Services as the responsible directorate in the monitoring framework; the plan prints no date, and the 2025-01-29 used is read from its file name.",
+      "as_of": "2025-01-29",
+      "date_precision": "day",
+      "system": "e-Case Management System",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The plan gives no budget for the e-Case Management System; for the paired digital records management system its 2025 milestone is project initiation documents and the identification of a partner for sponsorship, and it says government allocation, limited and late, remains the force's main funding.",
+      "as_of": "2025-01-29",
+      "date_precision": "day",
+      "system": "e-Case Management System",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-Case Management System",
+      "country_label": "e-Case Management System",
+      "class": "record",
+      "platform": "",
+      "owner": "Sierra Leone Police (Crime Services)",
+      "tiers": "planned: survey of case management in 2025, implementation 2026 to 2028, target 2029; no station named"
+    },
+    {
+      "system": "paper-based records management",
+      "country_label": "",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Sierra Leone Police",
+      "tiers": "the force as a whole, baseline 2024"
+    },
+    {
+      "system": "digital records management system (personnel and criminal records)",
+      "country_label": "digital records management system",
+      "class": "personnel",
+      "platform": "",
+      "owner": "Sierra Leone Police (HRM, Operations and Crime)",
+      "tiers": "planned: intervention 4.2 migrates personnel records from paper to digital; the monitoring framework adds criminal records, with a sponsor to be identified in 2025 and implementation 2026 to 2028"
+    },
+    {
+      "system": "West Africa Police Information System (WAPIS)",
+      "country_label": "WAPIS",
+      "class": "identification",
+      "platform": "WAPIS",
+      "owner": "Sierra Leone Police, with partners",
+      "tiers": "a centralised database at CID Headquarters and regional offices, set up under the 2020-2024 plan to share criminal data on organised crime, money laundering and human trafficking among law enforcement agencies; the plan does not say stations enter cases in it"
+    },
+    {
+      "system": "CCTV cameras",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Sierra Leone Police",
+      "tiers": "specific locations in the Western Area and Police Headquarters, monitored round the clock"
+    },
+    {
+      "system": "Safe City project",
+      "country_label": "Safe City",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Sierra Leone Police",
+      "tiers": "planned: donor engagement 2025, pilot in part of Freetown 2026, all Freetown 2027, provincial regional headquarters 2028"
+    },
+    {
+      "system": "integrated command and control centre with GPS tracking of patrol vehicles and toll-free distress lines",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Sierra Leone Police (Operations)",
+      "tiers": "GPS fitted to all operational vehicles in the Western Area under the 2020-2024 plan; the centre is planned for 2025 to 2029"
+    },
+    {
+      "system": "Automated License Plate Recognition (ALPR) system",
+      "country_label": "ALPR",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Sierra Leone Police with the Sierra Leone Road Safety Authority",
+      "tiers": "planned: consultations 2025, pilot in the Western Area 2026, nationwide 2027 to 2028"
+    },
+    {
+      "system": "body-worn cameras and drones",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "Sierra Leone Police (Operations)",
+      "tiers": "planned: 200 body cameras a year from 2025, and 5 drones in 2025 rising to a target of 15"
+    },
+    {
+      "system": "smart police stations with mobile apps and data dashboards for online reporting, crime reporting and real-time information sharing",
+      "country_label": "smart police stations",
+      "class": "public",
+      "platform": "",
+      "owner": "Sierra Leone Police (ICT)",
+      "tiers": "planned: apps and dashboards built 2025, Western Area 2026, provincial regional headquarters 2027, provincial divisions 2028"
+    },
+    {
+      "system": "bar-coded police badges replacing biometric ID cards",
+      "country_label": "",
+      "class": "personnel",
+      "platform": "",
+      "owner": "Sierra Leone Police",
+      "tiers": "planned for all personnel"
+    },
+    {
+      "system": "digital radio communication system",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Sierra Leone Police",
+      "tiers": "the force's communication system, overhauled under the 2020-2024 plan; HF and VHF sets for personnel and stations planned from 2025"
+    },
+    {
+      "system": "internet connectivity for police stations and departments",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Sierra Leone Police (Operations)",
+      "tiers": "poor in most police facilities as of the plan; planned for the 6 regional headquarters and training facilities in 2025, Western Area divisions in 2026, provincial divisional headquarters in 2027 and 2028"
+    },
+    {
+      "system": "solar power for police stations and other facilities",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Sierra Leone Police (Infrastructure)",
+      "tiers": "planned: 8 divisional headquarters and 7 police stations a year from 2025 to 2028; electricity inadequate in police facilities, especially rural ones, which rely on thermal generators"
+    },
+    {
+      "system": "office equipment (computers, laptops, printers)",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Sierra Leone Police",
+      "tiers": "listed as insufficient among the critical challenges of 2020-2024"
+    }
+  ],
+  "note": "The plan does not name the occurrence book or the docket, and says nothing of how any one station records; it gives no count of stations, only that 38 divisions are implied by its patrol arithmetic. Its tables of reported crime for 2020 to 2024 name no system."
+}

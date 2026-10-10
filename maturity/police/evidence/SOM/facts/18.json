@@ -1,0 +1,15 @@
+{
+  "slug": "2019-11-01-somalia-national-ict-policy-strategy-2019-2024",
+  "facts": [],
+  "systems": [
+    {
+      "system": "co-ordinated connectivity building for public services in rural areas",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry of Posts, Telecommunications and Technology, as the policy's author",
+      "tiers": "a stated strategy, not a deployment: connectivity for schools, clinics, police stations, libraries and local authorities in rural areas, to give the public access there"
+    }
+  ],
+  "note": "Passages file. No fact: the National ICT Policy and Strategy 2019-2024 names police stations once, in a list of rural public services whose connectivity is to be co-ordinated; that is enabling, and nothing is said about station records or any police information system."
+}

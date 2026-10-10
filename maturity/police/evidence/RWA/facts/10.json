@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Kigali CCTV surveillance and command centre", "country_label": "", "class": "surveillance", "platform": "Huawei Technologies named among Kigali's vendors; facial recognition, licence plate recognition and AI analytics listed", "owner": "Rwanda National Police named as holding access to surveillance data", "tiers": "Kigali; deployment described as extensive, with an integrated command and control centre"},
+    {"system": "Body-worn police cameras", "country_label": "", "class": "surveillance", "platform": "", "owner": "", "tiers": "Kigali"},
+    {"system": "Speed enforcement cameras and automated violation detection", "country_label": "", "class": "single-function", "platform": "Lidar speed detection listed", "owner": "", "tiers": "Kigali"},
+    {"system": "Automated driving tests", "country_label": "", "class": "single-function", "platform": "", "owner": "Police (the table gives the police's view of the improvement)", "tiers": "Kigali"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "public", "platform": "Irembo (RwandaOnline Platform Ltd)", "owner": "RwandaOnline Platform Ltd", "tiers": "Online services including traffic fines and driving licences"}
+  ],
+  "note": "An AI-written analysis of twelve cities, by its own introduction; for Kigali it names surveillance, traffic and public-portal systems only and states nothing about stations recording reports or cases."
+}

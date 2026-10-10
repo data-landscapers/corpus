@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-sao-tome-and-principe-id4d-diagnostic-of-id-systems",
+  "facts": [],
+  "systems": [
+    {"system": "Criminal register", "country_label": "criminal register (civil and criminal identification center)", "class": "identification", "platform": "", "owner": "Direcção Geral dos Registos e do Notariado, Ministry of Justice, Public Administration and Human Rights", "tiers": "A central service on São Tomé; the report names it among the directorate's registers and says nothing of how it is kept"}
+  ],
+  "note": "A diagnostic of civil registration and civil identification; the police are not mentioned. The fingerprint system it describes (in-house, in place since 2021) authenticates identity card renewals at the registries directorate and is not a police system, so it is left out."
+}

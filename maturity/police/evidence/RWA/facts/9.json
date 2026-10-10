@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-24-minijust-iecms-upgrade-needs-assessment-validated",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Electronic Case Management System (IECMS)", "country_label": "IECMS", "class": "", "platform": "", "owner": "Ministry of Justice, with the justice sector institutions", "tiers": "Justice sector institutions; operational since January 2016, with more institutions joining over the years; a needs assessment for its upgrade was validated at a workshop of 8-11 May 2023"}
+  ],
+  "note": "The body states only that the system has run since January 2016 for justice sector institutions and that an upgrade needs assessment was validated in May 2023; the police and police posts appear in the file's ingest note, not in the document, so no class and no fact."
+}

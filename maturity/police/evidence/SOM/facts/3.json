@@ -1,0 +1,52 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay's Somalia police row states that rural police stations predominantly keep paper occurrence books or station diaries, crime registers and lost-property, lock-up and prisoners' property registers, citing the Somali Police Basic Recruit Curriculum, which trains on police books and forms and mentions no digital tool, and scores the row 1; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "occurrence books (OB)/station diaries and crime registers",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's Somalia police row states that it found no rural-specific digital pilots for station records and that the evidence points to paper at station level, the October 2025 IECMS not covering routine station case files; no date is given, so the document's published date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "occurrence books (OB)/station diaries and crime registers",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "occurrence books (OB)/station diaries and crime registers",
+      "country_label": "police books and forms",
+      "class": "record",
+      "platform": "paper",
+      "owner": "Somali Police Force",
+      "tiers": "rural police stations"
+    },
+    {
+      "system": "UNODC-supported digital crime statistics system",
+      "country_label": "",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Somali Police Force, with UNODC support",
+      "tiers": "populated with data reported by police across Somalia, rural posts included; the essay infers aggregation from paper at higher levels"
+    },
+    {
+      "system": "IECMS",
+      "country_label": "IECMS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "launched October 2025 for the CID, prosecutors, courts and prisons; not routine station case files"
+    }
+  ],
+  "note": "Passages file. The document's own header marks it an AI-assisted compilation and study.json lists it under exclude_sources; the facts are what its Somalia police row states, partly as inference ('implying', 'unlikely') and as evidence not found."
+}

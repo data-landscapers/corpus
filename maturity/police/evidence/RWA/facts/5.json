@@ -1,0 +1,15 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "C", "fact": "The essay's country table states that the Integrated Electronic Case Management System, launched in January 2016, covers the whole justice chain including the police Criminal Investigation Department, and that 100% of cases are filed electronically; it gives no date for the 100% figure, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Integrated Electronic Case Management System (IECMS)", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "connected", "fact": "The essay's country table states that some rural stations may still take initial documentation on paper before entering cases into the national IECMS, and that ICT literacy and infrastructure limits remain obstacles for rural personnel; undated, so the document's published date is used.", "as_of": "2026-03-31", "date_precision": "day", "system": "Integrated Electronic Case Management System (IECMS)", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Integrated Electronic Case Management System (IECMS)", "country_label": "IECMS", "class": "record", "platform": "Synisys (cited as the case-study source, not named in the text)", "owner": "", "tiers": "Police Criminal Investigation Department, prosecution (NPPA), judiciary and correctional services; said to be deployed in rural Nyaruguru District"},
+    {"system": "IECMS justice-chain link", "country_label": "IECMS", "class": "exchange", "platform": "", "owner": "", "tiers": "Police, NPPA, judiciary and correctional services on one system; SMS notifications let citizens track a case"},
+    {"system": "Four online reporting systems of the Rwanda National Police", "country_label": "", "class": "public", "platform": "", "owner": "Rwanda National Police", "tiers": "Introduced December 2025; tiers not stated"},
+    {"system": "Criminal records on Irembo", "country_label": "Irembo", "class": "identification", "platform": "Irembo", "owner": "", "tiers": "Criminal records said to be fully digitalised via the platform"},
+    {"system": "Subsidised internet connectivity at police sites", "country_label": "", "class": "enabling", "platform": "", "owner": "Government", "tiers": "45 rural and remote police sites"}
+  ],
+  "note": "study.json lists this slug under exclude_sources (an AI-assisted compilation, not sourced fact); the facts are recorded as the document states them and none of its statements carries a date of its own beyond the 2016 launch."
+}

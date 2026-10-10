@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-lesahel-wuri-niger-presentation-projet",
+  "facts": [],
+  "systems": [
+    {
+      "system": "WURI-Niger foundational identification system (f-ID) with unique identification number",
+      "country_label": "système d'identification de base (f-ID); numéro unique d'identification (NUI)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Intérieur, de la Sécurité publique et de l'Administration du Territoire, World Bank financed (about USD 81 million); the Direction Générale de la Police Nationale is a partner structure",
+      "tiers": "Planned, national coverage in all communes of the 8 regions; an interoperability framework is to let service providers verify identity, with the national police and the Gendarmerie nationale listed among the bodies to benefit"
+    }
+  ],
+  "note": "Presentation of the civil identification project; police and gendarmerie appear only as future users of identity verification, and nothing is said of reports or cases recorded at a station."
+}

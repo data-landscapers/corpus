@@ -1,0 +1,23 @@
+{
+  "slug": "2018-08-01-study-of-options-mutual-recognition-national-ids-eac",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ID card and Nationality Certificate system",
+      "country_label": "national ID card; Nationality Certificate",
+      "class": "",
+      "platform": "Muhlbauer, named for the Nationality Certificate tender",
+      "owner": "Directorate of Nationality, Passport and Immigration, Ministry of Interior",
+      "tiers": "170 registration devices across the country and embassies; over 1 million cards issued as at 2018, after fingerprint deduplication. A civil identity system, not described as a police one"
+    },
+    {
+      "system": "Handheld read and verify devices for the national ID card",
+      "country_label": "handheld read and verify devices",
+      "class": "border",
+      "platform": "",
+      "owner": "Directorate of Nationality, Passport and Immigration, Ministry of Interior",
+      "tiers": "About 100 devices, largely at the borders, as at 2018"
+    }
+  ],
+  "note": "A regional study of national identity systems, read to its end; the South Sudan section covers the identity card and nationality certificate only, and nothing is said of police stations or their records."
+}

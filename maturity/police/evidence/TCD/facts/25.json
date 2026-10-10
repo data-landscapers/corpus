@@ -1,0 +1,31 @@
+{
+  "slug": "2026-07-29-chad-adetic-equips-national-police-cybercrime-tech",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ADETIC digital equipment for the national police",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "National police; donated by ADETIC, the state digital development agency",
+      "tiers": "74 desktop computers, 59 laptops, IP communication gear, printers, scanners, photocopiers and videoconferencing equipment handed over on 20 July 2026; no stations or units named"
+    },
+    {
+      "system": "Surveillance cameras",
+      "country_label": "",
+      "class": "surveillance",
+      "platform": "",
+      "owner": "National police; donated by ADETIC",
+      "tiers": "105 cameras handed over on 20 July 2026; sites not stated"
+    },
+    {
+      "system": "National police public hotline",
+      "country_label": "",
+      "class": "public",
+      "platform": "",
+      "owner": "National police",
+      "tiers": "Out of service; the 20 July 2026 donation covers what is needed to bring it back online"
+    }
+  ],
+  "note": "An equipment handover: computers, cameras and a hotline. The document expects faster casework but names no system in which stations record reports or cases, so there is no fact for station records."
+}

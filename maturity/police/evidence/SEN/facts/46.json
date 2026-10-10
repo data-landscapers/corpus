@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-28-ndarinfo-e-senegal-guichet-unique-authentification-nin",
+  "facts": [],
+  "systems": [
+    {"system": "e-Sénégal single-window application", "country_label": "e-Sénégal, guichet unique", "class": "public", "platform": "mobile application sn.senum.guichetunique, login by the national identification number on the biometric identity card", "owner": "Sénégal Numérique SA (SENUM SA)", "tiers": "The public, by smartphone; launched 24 March 2026 with requests for the criminal record extract (casier judiciaire), nationality certificate, prison visit attestation and certificate of non-membership of the civil service"}
+  ],
+  "note": "News of a citizen portal whose first services include the request for a criminal record extract. A public channel for certificates; nothing on how a police or gendarmerie station records a complaint or a case."
+}

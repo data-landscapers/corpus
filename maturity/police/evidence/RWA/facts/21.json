@@ -1,0 +1,13 @@
+{
+  "slug": "2023-01-01-rwanda-development-budget-annex-ii-3-2023-2024-companion",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated Electronic Case Management (IECMS)", "country_label": "IECMS", "class": "", "platform": "", "owner": "Ministry of Justice (budget agency 1300 MINIJUST, project CIC)", "tiers": ""},
+    {"system": "Automated Finger Print Identification System", "country_label": "", "class": "identification", "platform": "", "owner": "General Secretariat NISS (budget agency 0102, project FCH)", "tiers": ""},
+    {"system": "Public CCTV Project", "country_label": "", "class": "surveillance", "platform": "", "owner": "Rwanda Information Society Authority (budget agency 1903, project AG3)", "tiers": ""},
+    {"system": "Government Command Center", "country_label": "", "class": "", "platform": "", "owner": "Rwanda Information Society Authority (budget agency 1903, project D13)", "tiers": ""},
+    {"system": "Border Management System, E-Gates, and Advanced Passenger Information and Passenger Name Record", "country_label": "", "class": "border", "platform": "", "owner": "General Secretariat NISS (budget agency 0102, projects FCI, 482 and FCG)", "tiers": ""},
+    {"system": "Smart NPPA project", "country_label": "", "class": "", "platform": "", "owner": "National Public Prosecution Authority (budget agency 1700, project C21)", "tiers": ""}
+  ],
+  "note": "A FY2023/24 development budget table of project names: systems are named with no description of what they do, and the Rwanda National Police lines are buildings, vehicles and a rule-of-law project (among them 'Construction and Rehabilitation of Police Stations'), none a record system. The text layer sets figures off from their labels, as the file's own note warns, so no amount is recorded."
+}

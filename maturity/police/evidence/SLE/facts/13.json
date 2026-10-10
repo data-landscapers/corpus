@@ -1,0 +1,23 @@
+{
+  "slug": "2025-07-01-dsti-police-partner-to-digitise-human-resource-processes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Personnel Management System",
+      "country_label": "Personnel Management System",
+      "class": "personnel",
+      "platform": "built by the Directorate of Science, Technology and Innovation",
+      "owner": "Sierra Leone Police, which commissioned it from the Directorate of Science, Technology and Innovation",
+      "tiers": "not in use as of 2025-07-01: requirements finalised and development under way; to hold records for over 10,000 officers nationwide"
+    },
+    {
+      "system": "digital skills training for 1,000 police officers in regional Digital Learning Hubs",
+      "country_label": "",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Directorate of Science, Technology and Innovation",
+      "tiers": "regional Digital Learning Hubs; to be rolled out"
+    }
+  ],
+  "note": "The system digitises promotions, transfers and payroll, the force's own staff; the article says nothing of reports or cases recorded at stations."
+}

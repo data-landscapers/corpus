@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-08-zps-headquarters-egovernment-study",
+  "facts": [],
+  "systems": [
+    {"system": "CCTV cameras", "country_label": "Closed Circuit Television cameras", "class": "surveillance", "platform": "", "owner": "Zambia Police Service", "tiers": "Zambia Police Service Headquarters (acquired 2021-2024)"},
+    {"system": "Biometric systems", "country_label": "biometric systems", "class": "", "platform": "", "owner": "Zambia Police Service", "tiers": "Zambia Police Service Headquarters"},
+    {"system": "Databases", "country_label": "databases", "class": "", "platform": "", "owner": "Zambia Police Service", "tiers": "Zambia Police Service Headquarters"},
+    {"system": "Computers", "country_label": "computers", "class": "enabling", "platform": "", "owner": "Zambia Police Service", "tiers": "Zambia Police Service Headquarters"},
+    {"system": "Zambia police e-services on ZamPortal", "country_label": "Zambia police e-services", "class": "public", "platform": "ZamPortal", "owner": "", "tiers": "named only in a 2021 reference title"}
+  ],
+  "note": "Capture is the abstract and reference list only, not the article body. The abstract says the service historically worked manually with little technology and names headquarters ICT acquisitions for 2021-2024, but states nothing about how stations record reports or cases and names no record system; the paper case-books statement the status report cites is not in this capture."
+}

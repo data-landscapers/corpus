@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-20-sudantribune-shurtat-almurur-bayanat-marakib",
+  "facts": [],
+  "systems": [
+    {"system": "National vehicle database", "country_label": "قاعدة بيانات المركبات / السجل الوطني للمركبات", "class": "single-function", "platform": "", "owner": "General Directorate of Traffic, Sudan Police", "tiers": "National register of 2,124,750 vehicles and 3,161,599 driving licences, recovered after the war with backup data centres in the states and abroad; services given through 63 licensing centres"},
+    {"system": "Salem", "country_label": "تطبيق سالم", "class": "public", "platform": "", "owner": "General Directorate of Traffic, Sudan Police", "tiers": "Electronic renewal of driving licences for citizens abroad through embassies and consulates in 16 countries, up from six; 1,519 licences issued; to be extended inside Sudan"},
+    {"system": "Electronic report platform", "country_label": "منصة البلاغ الإلكتروني", "class": "public", "platform": "", "owner": "Sudan Police", "tiers": "Received 68,312 reports of missing vehicles since the war began; 9,058 vehicles recovered"},
+    {"system": "Ansab", "country_label": "منصة إنساب", "class": "single-function", "platform": "", "owner": "General Directorate of Traffic, Sudan Police", "tiers": "Under development, for transfers of vehicle ownership with the parties attending in person"},
+    {"system": "Tracking of intercity buses", "country_label": "مشروع التتبع الجغرافي والآلي للبصات السفرية", "class": "surveillance", "platform": "", "owner": "General Directorate of Traffic, Sudan Police", "tiers": "Buses linked to control rooms; expansion planned for 2026"},
+    {"system": "Surveillance cameras, Khartoum State traffic authority", "country_label": "كاميرا مراقبة", "class": "surveillance", "platform": "", "owner": "Khartoum State traffic authority", "tiers": "20 cameras installed in Khartoum State"}
+  ],
+  "note": "The traffic police's 2026 plan: vehicle and licence registers, a public platform for reporting missing vehicles and camera and tracking systems, none of them a station's record of a report or a case."
+}

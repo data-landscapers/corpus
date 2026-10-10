@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [],
+  "systems": [
+    {"system": "Dakar CCTV surveillance network with integrated command and control centre", "country_label": "", "class": "surveillance", "platform": "vendors listed for Dakar: Huawei, Thales, Hikvision, Engie Ineo; facial recognition, licence plate recognition, AI analytics", "owner": "national government; data access by police, defence and security forces and intelligence services", "tiers": "Dakar only; moderate deployment (100-999 cameras); oversight internal only"}
+  ],
+  "note": "AI-generated twelve-city analysis by its own account; for Dakar it names only surveillance cameras and a command centre. Nothing on police stations or their records."
+}

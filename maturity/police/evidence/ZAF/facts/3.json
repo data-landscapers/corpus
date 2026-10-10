@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-14-top-ict-tenders-sita-activity-surge-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "Incident management solution", "country_label": "incident management solution", "class": "surveillance", "platform": "", "owner": "South African Police Service; tendered by the State Information Technology Agency (SITA), RFP 3285/2026", "tiers": "to manage, register and dispatch incidents reported by the public through the 10111 emergency number, police stations, the 112 number and sector patrol vehicles' cellphones"},
+    {"system": "Body-worn and vehicle dashboard cameras and related software", "country_label": "body-worn and vehicle dashboard cameras", "class": "surveillance", "platform": "", "owner": "South African Police Service; tendered by SITA, RFB 3286/2026", "tiers": ""}
+  ],
+  "note": "No fact: the incident management solution is a tender (closing 22 September 2026) for registering and dispatching calls for police assistance, read as command and dispatch, not the station's occurrence or case record. SITA states that SAPS has no single integrated system for registering reported incidents, which are handled by different systems on various platforms, some outdated and de-supported; the parent may wish to weigh that statement."
+}

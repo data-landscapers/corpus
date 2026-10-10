@@ -1,0 +1,23 @@
+{
+  "slug": "2022-11-04-syc-budget-2023",
+  "facts": [],
+  "systems": [
+    {
+      "system": "police station premises: renovation of the Central Police Station and new stations on Praslin and Ile Perseverance",
+      "country_label": "Law and Order capital projects",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Ministry for Internal Affairs, domestic budget 2023: R 8 million, R 21.7 million and R 5 million of a R 95.9 million allocation",
+      "tiers": "Central Police Station; Praslin; Ile Perseverance"
+    },
+    {
+      "system": "biometric passport system",
+      "country_label": "biometric passport project",
+      "class": "border",
+      "platform": "",
+      "owner": "Ministry for Internal Affairs; R 29 million for the system and R 8.4 million for its digital signature system",
+      "tiers": "national; to be completed before the end of 2022"
+    }
+  ],
+  "note": "The budget address funds police buildings and a biometric passport system and names no system in which stations record reports or cases; no budget line for a police information system is stated."
+}

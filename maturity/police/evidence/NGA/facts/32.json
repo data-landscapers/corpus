@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-02-nigeriainfo-npf-vigilant-app-fraud-reporting",
+  "facts": [],
+  "systems": [
+    {"system": "NPF Vigilant App", "country_label": "NPF Vigilant App", "class": "public", "platform": "mobile app on the Google Play Store and Apple App Store, developed by the Force ICT Department with financial-sector stakeholders", "owner": "Nigeria Police Force", "tiers": "national, public-facing; launched Tuesday 1 September 2026 in Abuja; users report suspected financial fraud, upload evidence, track cases and receive feedback"}
+  ],
+  "note": "A public reporting app for one class of offence: public class. Not a station record, so no fact."
+}

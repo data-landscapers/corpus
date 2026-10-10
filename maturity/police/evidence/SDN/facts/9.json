@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "none", "fact": "The essay's country table scores Sudan's police 1 and says its searches found no evidence of digital case management, incident reporting or record-keeping in Sudanese police stations, rural ones included, and no digitisation pilot; undated in the document, so dated to its publication.", "as_of": "2026-03-31", "date_precision": "day", "system": "Police station records", "class": "record"},
+    {"sub_indicator": "record", "aspect": "made", "value": "paper", "fact": "The essay says rural police stations in Sudan 'likely rely entirely on paper', an inference from finding no system rather than a reported observation; undated in the document, so dated to its publication.", "as_of": "2026-03-31", "date_precision": "day", "system": "Police station records", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Police e-services (vehicle lookup)", "country_label": "", "class": "public", "platform": "", "owner": "Sudan Police / Ministry of Interior", "tiers": "On the official websites; not operational records, the essay says"}
+  ],
+  "note": "Source listed in study.json exclude_sources as an AI-assisted compilation: its two facts are the author's inference from an absence of evidence, recorded as the document states them."
+}

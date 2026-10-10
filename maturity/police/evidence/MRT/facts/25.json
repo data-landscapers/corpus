@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-27-mauritanie-conseil-ministres-referentiel-cadastral-identifiant-parcellaire-casier-judiciaire",
+  "facts": [],
+  "systems": [
+    {"system": "Système national automatisé et sécurisé du registre central du casier judiciaire", "country_label": "registre central du casier judiciaire", "class": "identification", "platform": "", "owner": "Ministère de la Justice", "tiers": "draft decree approved by the Council of Ministers on 27 August 2026; to interconnect courts, prosecution services and the competent central services; no police station or gendarmerie brigade named"}
+  ],
+  "note": "The only system in the field is the criminal-record central register, an identification system run by the justice ministry and linking courts and prosecutors; the document says nothing of how police stations or gendarmerie brigades record reports or cases."
+}

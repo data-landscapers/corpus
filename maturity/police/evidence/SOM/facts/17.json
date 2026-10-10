@@ -1,0 +1,23 @@
+{
+  "slug": "2022-07-05-somalia-unodc-criminal-investigation-programme",
+  "facts": [],
+  "systems": [
+    {
+      "system": "digital crime statistics system",
+      "country_label": "New Digital Crime Statistics System",
+      "class": "statistics",
+      "platform": "",
+      "owner": "Somali Police Force; creation led by UNODC under the Criminal Investigation Programme, funded by the US State Department's INL (USD 11.4 million, May 2019 to November 2022)",
+      "tiers": "populated with reported data from the Police across Somalia; used by the Police for resource planning, training and crime prevention strategies"
+    },
+    {
+      "system": "administration units and refurbished police offices",
+      "country_label": "Administrative Support to Investigation; Refurbishments and Equipment",
+      "class": "enabling",
+      "platform": "",
+      "owner": "Somali Police Force, supported by UNODC",
+      "tiers": "9 police offices across Somalia refurbished and given vehicles, IT equipment and furniture; 102 chiefs, deputies and admin officers trained, including on crime statistics collation"
+    }
+  ],
+  "note": "No fact: the UNODC presentation of 5 July 2022 describes a crime statistics system fed by data reported by the police, a statistics-class system, and donated IT equipment, which is enabling; it does not say stations make a digital record of a report or a case."
+}

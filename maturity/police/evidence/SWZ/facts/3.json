@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-21-new-digital-court-system-case-delays",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Integrated Electronic Case Management System (IECMS)",
+      "country_label": "IECMS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Justice and Constitutional Affairs",
+      "tiers": "One connected platform for electronic case filing, virtual hearings and tracking of court proceedings, integrating the Judiciary, Ministry of Justice, Law Society, Royal Eswatini Police Service, Anti-Corruption Commission and Correctional Services; launched 2025-08-18, rollout still advancing in May 2026; no stations named"
+    }
+  ],
+  "note": "The IECMS is described as a court case system that links the police among six justice institutions; the document does not say stations record reports or cases in it, so it gives no station-records fact."
+}

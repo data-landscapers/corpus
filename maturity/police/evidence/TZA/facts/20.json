@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-01-nbs-crime-traffic-incidents-jan-jun-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Crime and traffic incident statistics, Statistics Unit of the Tanzania Police Force", "country_label": "Statistics Unit of Tanzania Police Force", "class": "statistics", "platform": "", "owner": "Tanzania Police Force, under the Director of Criminal Investigation (PGO 6(f) and PGO 41)", "tiers": "the unit receives data from police stations and compiles monthly, quarterly, half-yearly and annual crime reports; 35 police regions (30 mainland, 5 Zanzibar) and 12 police units"}
+  ],
+  "note": "The passages count offences reported at all police stations (1,847,551 crime and traffic cases, January to June 2024) and describe the Statistics Unit compiling stations' data, but do not say in what form a station makes or sends its record, on paper or otherwise; a statistics-class system only, so no fact. The report gives no count of stations."
+}
