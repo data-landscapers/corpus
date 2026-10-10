@@ -98,7 +98,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentr
 
 - [x] **L1. Bill's rulings**: the six proposals stand, 2026-10-10.
 - [x] **L2. Review all 54 countries**, method §4: 4,154 documents, 607 facts.
-- [x] **L3. Test and fix the ladder**: 2 at stage 5, 1 at 4, 29 at 3, 8 at 2, 1 at 1; 9 facts withdrawn.
+- [x] **L3. Test and fix the ladder**: 9 facts withdrawn.
 - [x] **L4. Search and hand over**, method §5: 59 documents, `notes-for-osint` 224.
 - [x] **L5. Re-read and stage**: 52 of 59 admitted; as at 2026-09-30; agreement 18 of 20.
 - [ ] **L6. Write, render and lint.**
