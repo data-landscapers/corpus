@@ -3,8 +3,8 @@ k,url,status,detail,cache,words,kind,page_title
 2,https://doi.org/10.51867/ajernet.7.1.89,held,held as raw/2026/2026-03-08-zps-headquarters-egovernment-study.md,,0,,
 3,https://weblog.iom.int/iom-supports-modernization-zambia-polices-case-flow-management-systems,fetched,,scripts/.workroot/study/police/cache/ZMB/3.txt,424,html,IOM Supports Modernization of Zambia Police's Case Flow Management Systems
 4,https://www.sadc.int/latest-news/eu-committed-fighting-sgbv-sadc-region,fetched,,scripts/.workroot/study/police/cache/ZMB/4.txt,1123,html,EU Committed to Fighting SGBV in the SADC Region
-5,https://www.parliament.gov.zm/node/11691,unfetchable,SSLError; no usable Wayback capture,,0,,
-6,https://www.mohais.gov.zm/?p=1747,fetched,,scripts/.workroot/study/police/cache/ZMB/6.txt,80,html,2022 © Ministry of Home Affairs and Internal Security. All rights reserved
+5,https://www.parliament.gov.zm/node/11691,fetched,"second pass, by certificate unverified",scripts/.workroot/study/police/cache/ZMB/5.txt,25497,html,"Tuesday, 14th November, 2023"
+6,https://www.mohais.gov.zm/?p=1747,fetched,second pass: second client: SSLError; certificate unverified: thin or empty; Wayback: no usable capture,scripts/.workroot/study/police/cache/ZMB/6.txt,80,html,2022 © Ministry of Home Affairs and Internal Security. All rights reserved
 7,https://media.zambialii.org/media/legislation/44018/source_file/52c705a26b930c3c/zm-act-2024-29-publication-document.pdf,fetched,,scripts/.workroot/study/police/cache/ZMB/7.txt,2172,pdf,C:\Users\HP\Desktop\Government
-8,https://documents1.worldbank.org/curated/en/099010325090041313/txt/P5050941c5aafd06919ffa1b9afc365c1de.txt,unfetchable,empty extraction; no usable Wayback capture,,0,,
-9,https://www.szi.gov.zm/?page_id=4589,unfetchable,SSLError; no usable Wayback capture,,0,,
+8,https://documents1.worldbank.org/curated/en/099010325090041313/txt/P5050941c5aafd06919ffa1b9afc365c1de.txt,unfetchable,empty extraction; no usable Wayback capture | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,,0,,
+9,https://www.szi.gov.zm/?page_id=4589,fetched,"second pass, by certificate unverified",scripts/.workroot/study/police/cache/ZMB/9.txt,700,html,Contact Information

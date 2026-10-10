@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-tpf-nbs-crime-report-2020",
+  "facts": [],
+  "systems": [
+    {"system": "Crime Statistics Management Information System (CSMIS)", "country_label": "CSMIS", "class": "statistics", "platform": "", "owner": "Tanzania Police Force, Statistics Unit (Kitengo cha Takwimu)", "tiers": "the Statistics Unit's electronic system for receiving crime information from all regions; begun in 20 main stations of the Dar es Salaam zone and the offices of the Regional Crime Officers, to be extended later to every police station (report of January 2021)"}
+  ],
+  "note": "Over 20,000 words (43,030): not read whole. Searched for police, station, kituo/vituo vya polisi, jalada, mfumo, kielektroniki, TEHAMA, CSMIS, occurrence book, docket, case-management, register and equipment terms, and read around every hit (summary, sections 1.2.1 to 1.2.3, the recommendations and the budget annex). No fact: section 1.2.3 describes CSMIS as the Statistics Unit's system for receiving and storing crime information from the regions, which is the statistics class; it does not say a station enters a report or a case in it when taken. The case files (majalada) of chapter 5 are counts received by the National Prosecutions Service, with no medium stated."
+}

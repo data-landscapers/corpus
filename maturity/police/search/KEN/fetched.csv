@@ -1,9 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
 1,http://www.nationalpolice.go.ke/sites/default/files/2024-10/ANNUAL%20REPORT%202022%20A4%20SIZE.pdf,fetched,,scripts/.workroot/study/police/cache/KEN/1.txt,8551,pdf,Annual report 2022 Draft.indd
-2,https://nationalpolice.go.ke/sites/default/files/2024-12/National%20Police%20Service%20Strategic%20Plan%20%202023-2027%20Abr%20Ver.pdf,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+2,https://nationalpolice.go.ke/sites/default/files/2024-12/National%20Police%20Service%20Strategic%20Plan%20%202023-2027%20Abr%20Ver.pdf,unfetchable,ConnectionError; no usable Wayback capture | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture,,0,,
 3,https://www.capitalfm.co.ke/news/2020/08/kenyas-national-police-service-goes-digital/,fetched,,scripts/.workroot/study/police/cache/KEN/3.txt,452,html,Kenya’s National Police Service goes digital
 4,https://nation.africa/kenya/news/police-usher-in-a-bold-new-era-with-digital-ob-1929806,fetched,,scripts/.workroot/study/police/cache/KEN/4.txt,697,html,Police usher in a bold new era with digital OB
 5,https://www.the-star.co.ke/news/2023-07-03-76-police-occurrence-books-digitised-in-modernisation-drive,fetched,,scripts/.workroot/study/police/cache/KEN/5.txt,523,html,76 police occurrence books digitised in modernisation drive
 6,https://kahawatungu.com/no-tender-awarded-digital-ob-system-police-experts-ig-mutyambai/,fetched,,scripts/.workroot/study/police/cache/KEN/6.txt,339,html,"There Was No Tender Awarded For Digital OB System, Police IT Experts Did It - IG Mutyambai - Kahawatungu"
-7,https://ipoa.news/wp-content/uploads/2023/07/IPOA-Performance-Report-July-Dec-2022.pdf,unfetchable,"HTTP 429; Wayback HTTP 429, not checked",,0,,
+7,https://ipoa.news/wp-content/uploads/2023/07/IPOA-Performance-Report-July-Dec-2022.pdf,fetched,"second pass, by second client",scripts/.workroot/study/police/cache/KEN/7.txt,14511,pdf,
 8,https://eastleighvoice.co.ke/national/130982/national-police-service-seek-sh20-billion-to-digitize-operations,fetched,,scripts/.workroot/study/police/cache/KEN/8.txt,1796,html,National Police Service seek Sh20 billion to digitize operations | The Eastleigh Voice

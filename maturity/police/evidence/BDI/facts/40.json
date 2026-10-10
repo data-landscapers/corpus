@@ -1,0 +1,23 @@
+{
+  "slug": "2023-05-10-pddsp-plan-directeur-digitalisation-services-publics-2023-2033",
+  "facts": [],
+  "systems": [
+    {
+      "system": "e-Justice",
+      "country_label": "système e-Justice",
+      "class": "public",
+      "platform": "",
+      "owner": "Not stated in the passages read; the plan's initiative 15, with a justice portal and an integrated justice information system among its activities",
+      "tiers": "Planned (2023-2033): filing of complaints, tracking of a case's progress and download of dispute forms by litigants; no tier stated"
+    },
+    {
+      "system": "e-Immigration",
+      "country_label": "e-Immigration",
+      "class": "border",
+      "platform": "Advance passenger information, electronic-passport chip reading, facial and fingerprint biometrics at immigration control",
+      "owner": "Not stated in the passages read",
+      "tiers": "Planned (2023-2033); visitors' fingerprints to be collected for identifying disaster or accident victims and for criminal investigations"
+    }
+  ],
+  "note": "Over 20,000 words (32,885): searched for police, gendarmerie, commissariat, station, poste, procès-verbal, main courante, occurrence, plainte, casier, empreintes, sécurité publique, justice, pénal and case-management terms, and read around every hit rather than whole. The plan never names the police, the gendarmerie or a station; the public security ministry appears only in the lists of participants. Its e-Justice initiative is a planned service for litigants, and the plan does not say police stations record in it."
+}

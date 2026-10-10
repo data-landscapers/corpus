@@ -1,7 +1,7 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://www.parliament.go.tz/uploads/documents/sw-1779711628-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAMBO%20YA%20NDANI%20YA%20NCHI%20KWA%20MWAKA%202026-2027_compressed.pdf,held,held as raw/2026/2026-05-01-hotuba-ya-bajeti-ya-wizara-ya-mambo-ya-ndani-ya-nchi-2026-2027.md,,0,,
 2,http://www.moha.go.tz/index.php/document/budget,fetched,,scripts/.workroot/study/police/cache/TZA/2.txt,156,html,Wizara ya Mambo ya Ndani ya Nchi
-3,https://www.ega.go.tz/news/ofisi-ya-taifa-ya-mashitaka-yatakiwa-kutumia-mifumo-ya-tehama-kuimarisha-utoaji-haki-kwa-wananchi,unfetchable,HTTP 500; no usable Wayback capture,,0,,
+3,https://www.ega.go.tz/news/ofisi-ya-taifa-ya-mashitaka-yatakiwa-kutumia-mifumo-ya-tehama-kuimarisha-utoaji-haki-kwa-wananchi,fetched,"second pass, by Wayback",scripts/.workroot/study/police/cache/TZA/3.txt,465,html,OFISI YA TAIFA YA MASHITAKA YATAKIWA KUTUMIA MIFUMO YA TEHAMA KUIMARISHA UTOAJI HAKI KWA WANANCHI
 4,https://www.nps.go.tz/pages/civilianization-of-prosecutions-division,fetched,,scripts/.workroot/study/police/cache/TZA/4.txt,829,html,OFISI YA TAIFA YA MASHTAKA
 5,https://www.mwananchi.co.tz/mw/toleo-maalumu/miaka-minne-ya-rais-samia-imefufua-matumaini-ya-watanzania-katika-upatikanaji-wa-haki-na-uendeshaji-wa-huduma-za-mashtaka-ya-jinai-4973600,fetched,,scripts/.workroot/study/police/cache/TZA/5.txt,1589,html,Miaka minne ya Rais Samia imefufua matumaini ya Watanzania katika upatikanaji wa haki na uendeshaji wa huduma za mashtaka ya jinai
 6,https://tanzaniainsight.com/implementation-of-criminal-justice-reforms-underway-mps-told/,fetched,,scripts/.workroot/study/police/cache/TZA/6.txt,582,html,"Implementation of Criminal Justice reforms underway, MPs told | Tanzania Insight"

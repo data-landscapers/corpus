@@ -1,6 +1,6 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://upf.go.ug/wp-content/uploads/2026/04/ACR-2025-Official-Report-Web-Version.pdf,fetched,,scripts/.workroot/study/police/cache/UGA/1.txt,40349,pdf,
-2,https://jlos.go.ug/wp-content/uploads/2025/11/THE-JLOS-BULLETIN-06-MAY-2024_FInal.pdf,unfetchable,ReadTimeout; no usable Wayback capture,,0,,
+2,https://jlos.go.ug/wp-content/uploads/2025/11/THE-JLOS-BULLETIN-06-MAY-2024_FInal.pdf,fetched,"second pass, by second client",scripts/.workroot/study/police/cache/UGA/2.txt,16676,pdf,
 3,https://iacajournal.org/articles/10.36745/ijca.580,fetched,,scripts/.workroot/study/police/cache/UGA/3.txt,5448,html,Experience and Impact of Digital Transformation in the Administration of Justice in Uganda: A Critical Analysis | International Journal for Court Administration
 4,https://upf.go.ug/wp-content/uploads/2025/02/ACR2024-Web.pdf,fetched,,scripts/.workroot/study/police/cache/UGA/4.txt,42930,pdf,
 5,https://upf.go.ug/igps-christmas-message-3/,fetched,,scripts/.workroot/study/police/cache/UGA/5.txt,991,html,IGPs CHRISTMAS MESSAGE

@@ -1,9 +1,9 @@
 k,url,status,detail,cache,words,kind,page_title
 1,http://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/98882,held,held as raw/2025/2025-12-13-mcit-public-prosecution-digitization-protocol.md,,0,,
-2,https://gate.ahram.org.eg/News/3523183.aspx,unfetchable,HTTP 403; no usable Wayback capture,,0,,
-3,https://www.elwatannews.com/news/details/4962187,unfetchable,HTTP 503; no usable Wayback capture,,0,,
+2,https://gate.ahram.org.eg/News/3523183.aspx,unfetchable,HTTP 403; no usable Wayback capture | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture,,0,,
+3,https://www.elwatannews.com/news/details/4962187,fetched,"second pass, by second client",scripts/.workroot/study/police/cache/EGY/3.txt,444,html,القصة الكاملة لربط أقسام الشرطة بالنيابات والمحاكم إلكترونيا - الوطن
 4,https://www.elwatannews.com/news/details/5571037,fetched,,scripts/.workroot/study/police/cache/EGY/4.txt,183,html,إطلاق خدمة إلكترونية تمكن المواطنين من متابعة بلاغات جرائم تقنيات المعلومات - الوطن
-5,https://egyptian-gazette.com/egypt/sisi-reviews-latest-public-prosecutions-e-systems-at-police-stations/,fetched,,scripts/.workroot/study/police/cache/EGY/5.txt,65,html,Sisi reviews latest public prosecution's e-systems at police stations - Egyptian Gazette
+5,https://egyptian-gazette.com/egypt/sisi-reviews-latest-public-prosecutions-e-systems-at-police-stations/,fetched,second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,scripts/.workroot/study/police/cache/EGY/5.txt,65,html,Sisi reviews latest public prosecution's e-systems at police stations - Egyptian Gazette
 6,https://www.vetogate.com/5168334,fetched,,scripts/.workroot/study/police/cache/EGY/6.txt,366,html,النيابة تطلق دورة تدريبية لتسهيل حصول المحامين على صور المحاضر والأحكام إلكترونيا
 7,https://www.egabi.com/solutions/digital-justice-platform,fetched,,scripts/.workroot/study/police/cache/EGY/7.txt,367,html,Digital Justice Platform
-8,https://english.ahram.org.eg/NewsContentP/1/574752/Egypt/Egypt%E2%80%99s-Justice-City-to-establish-integrated-digit.aspx,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+8,https://english.ahram.org.eg/NewsContentP/1/574752/Egypt/Egypt%E2%80%99s-Justice-City-to-establish-integrated-digit.aspx,unfetchable,HTTP 403; no usable Wayback capture | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture,,0,,

@@ -5,6 +5,6 @@ k,url,status,detail,cache,words,kind,page_title
 4,https://repository.sustech.edu/handle/123456789/27396,fetched,,scripts/.workroot/study/police/cache/SDN/4.txt,89,html,حوسبة البالغات في أقسام الشرطة
 5,https://www.sudaninet.net/78278,fetched,,scripts/.workroot/study/police/cache/SDN/5.txt,383,html,الشرطة تكشف عن رقم صادم لحجم المنشات المتضررة - سوداني نت
 6,https://soutalwatan.net/?p=703,fetched,,scripts/.workroot/study/police/cache/SDN/6.txt,100,html,الشرطة السودانية تسجل أرقاماً قياسية على منصة البلاغ الإلكتروني - صوت الوطن
-7,https://alkhalilnews.com/22599/,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+7,https://alkhalilnews.com/22599/,fetched,"second pass, by Wayback",scripts/.workroot/study/police/cache/SDN/7.txt,698,html,تعرف على نـــــظام الــبلاغ الإلـــكتروني للشــــرطة الســـودانية | الخليل نيوز
 8,https://moi.gov.sd/,fetched,,scripts/.workroot/study/police/cache/SDN/8.txt,10305,html,وزارة الداخلية السودانية - الموقع الرسمي
 9,https://www.state.gov/wp-content/uploads/2024/02/528267_SUDAN-2023-HUMAN-RIGHTS-REPORT-1.pdf,held,held as raw/2024/2024-02-01-sudan-2023-human-rights-report.md,,0,,

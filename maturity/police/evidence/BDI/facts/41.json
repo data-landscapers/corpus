@@ -1,0 +1,15 @@
+{
+  "slug": "2026-10-06-bdi-burunditimes-e-justice-online-complaints",
+  "facts": [],
+  "systems": [
+    {
+      "system": "E-Justice",
+      "country_label": "E-Justice",
+      "class": "exchange",
+      "platform": "",
+      "owner": "The government and the Ministry of Justice, with UNDP support",
+      "tiers": "In preparation, presented to a meeting of justice-sector officials on 2026-10-02: planned to connect the judicial police, prosecutors, courts and prisons in one system, with online filing of certain criminal complaints, case tracking for citizens, and assistance points for people unfamiliar with digital tools"
+    }
+  ],
+  "note": "E-Justice is a platform still being prepared to connect the institutions of the criminal justice chain and let citizens file some complaints online: the exchange class, with a public function. The document does not say that police stations enter reports or cases in it, so there is no fact."
+}

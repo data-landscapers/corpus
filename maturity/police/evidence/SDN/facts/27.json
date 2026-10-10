@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-22-sudan-traffic-police-smart-platform-preparations",
+  "facts": [],
+  "systems": [
+    {"system": "Unified national smart electronic traffic platform", "country_label": "منصة ذكية إلكترونية قومية موحدة", "class": "single-function", "platform": "built by the company CDS", "owner": "General Directorate of Traffic (its Technical Affairs Department implements the project)", "tiers": "not yet launched in June 2026: final arrangements for launch; to issue driving licences electronically and to count and register vehicles lost or damaged in the war in the capital and the states, with a vehicle database in preparation"}
+  ],
+  "note": "No fact: a traffic-only platform (driving licences, war-lost vehicles, a vehicle database) still in final preparation on 22 June 2026, class single-function; the document says nothing of station reports or case files."
+}

@@ -2,9 +2,9 @@ k,url,status,detail,cache,words,kind,page_title
 1,https://trust-fund-for-africa.europa.eu/news/wapis-sipao-un-fichier-de-police-pour-le-niger-2019-05-23_en,fetched,,scripts/.workroot/study/police/cache/NER/1.txt,557,html,WAPIS-SIPAO : Un fichier de police pour le Niger
 2,https://www.interpol.int/es/content/download/14327/file/WAPIS_SIPAO_Newsletter-12_EN_LR.pdf,fetched,,scripts/.workroot/study/police/cache/NER/2.txt,3557,pdf,
 3,https://www.interpol.int/fr/content/download/18589/file/WAPIS%20-%20Mid%20Term%20Repport%20%28Final%29.pdf?inLanguage=fre-FR&version=4,fetched,,scripts/.workroot/study/police/cache/NER/3.txt,1030,pdf,
-4,https://police-nationale.interieur.gouv.ne/uploads/documents/MaquetteSentinelle4-2022-2.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+4,https://police-nationale.interieur.gouv.ne/uploads/documents/MaquetteSentinelle4-2022-2.pdf,fetched,"second pass, by second client",scripts/.workroot/study/police/cache/NER/4.txt,9986,pdf,Mise en page 1
 5,https://www.interpol.int/fr/content/download/19117/file/WAPIS_Projectsheet_2023_FR.pdf,fetched,,scripts/.workroot/study/police/cache/NER/5.txt,765,pdf,23COM001661-01 - WAPIS_Projectsheet_2023_FR.indd
 6,https://www.interpol.int/fr/content/download/22944/file/24COM007802_WAPIS_Newsletter%2025_2024-12_FR_Optimized.pdf,fetched,,scripts/.workroot/study/police/cache/NER/6.txt,8681,pdf,24COM007802_WAPIS_Newsletter 25_2024-12_FR.indd
-7,https://police-nationale.interieur.gouv.ne/uploads/documents/Maquette_Juillet_2024-3.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+7,https://police-nationale.interieur.gouv.ne/uploads/documents/Maquette_Juillet_2024-3.pdf,fetched,"second pass, by second client",scripts/.workroot/study/police/cache/NER/7.txt,11702,pdf,Mise en page 1
 8,https://www.interpol.int/fr/content/download/22945/file/25COM00930_WAPIS_Newsletter%2027_2025-FR-LR_Optimized.pdf,fetched,,scripts/.workroot/study/police/cache/NER/8.txt,6175,pdf,
-9,http://www.gendarmerie-nationale.defense.gouv.ne/organisation,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+9,http://www.gendarmerie-nationale.defense.gouv.ne/organisation,fetched,"second pass, by second client",scripts/.workroot/study/police/cache/NER/9.txt,108,html,Gendarmerie Nationale du Niger

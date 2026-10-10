@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-29-libyaobserver-alniyaba-alamma-raqmanat-mahadir-wathaiq-qadaiyya",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Public Prosecution's digitisation of evidence-gathering records and their judicial documents",
+      "country_label": "رقمنة بيانات محاضر جمع الاستدلال والوثائق القضائية",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Public Prosecution (Attorney General's office)",
+      "tiers": "within the jurisdictions of the appeal courts of Tobruk, Gharyan, Zawiya, Misrata, Sabha and South Tripoli; judicial staff there archived the data of 400,000 evidence-gathering records still at preliminary inquiry and converted them to digital data, reported 29 October 2023"
+    }
+  ],
+  "note": "Libya Observer, 29 October 2023, reporting the Attorney General's office. The محاضر are digitised after the event by the prosecution's judicial staff, under the prosecution's move to digital working; the police and its stations are not mentioned and the document does not say how the record is first made, so no fact for the record class. Classed exchange as the justice side's holding of police-stage records, logged for dpi.mis--justice; the typology has no closer class."
+}

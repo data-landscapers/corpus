@@ -7,4 +7,4 @@ k,url,status,detail,cache,words,kind,page_title
 6,https://www.synisys.com/case-studies/zimbabwe-integrated-electronic-case-management-system-iecms/,fetched,,scripts/.workroot/study/police/cache/ZWE/6.txt,506,html,Zimbabwe Integrated Electronic Case Management System (IECMS)
 7,https://veritaszim.net/sites/veritas_d/files/AG%20REPORT%202020%20FOR%20APPROPRIATION%20ACCOUNTS%20FINANCE%20ACCOUNTS%20REVENUE%20STATEMENTS%20AND%20FUND%20ACCOUNT%20.pdf,fetched,,scripts/.workroot/study/police/cache/ZWE/7.txt,72745,pdf,A
 8,https://veritaszim.net/sites/veritas_d/files/Appropriation%20ACT%202024%20Act%2014%20of%202023%20.pdf,held,held as raw/2023/2023-12-29-zwe-appropriation-2024-act-no-14-of-2023-companion.md,,0,,
-9,https://www.newsday.co.zw/local-news/article/18294/govt-pledges-to-provide-internet-services-to-rural-police-officers,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+9,https://www.newsday.co.zw/local-news/article/18294/govt-pledges-to-provide-internet-services-to-rural-police-officers,unfetchable,HTTP 403; no usable Wayback capture | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture,,0,,

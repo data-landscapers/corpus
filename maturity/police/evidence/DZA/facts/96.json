@@ -1,0 +1,15 @@
+{
+  "slug": "2026-02-24-joradp-jo15-arrete-bdd-stupefiants",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National automated database of seized or confiscated narcotics, psychotropic substances and precursors",
+      "country_label": "Base de données nationale automatisée relative aux quantités des stupéfiants, des substances psychotropes et des précurseurs saisis ou confisqués",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Ministère de la Justice",
+      "tiers": "instituted at the justice ministry by the order of 10 February 2026 (art. 19); fed in real time by the courts; open to the coordination cell, the destruction commissions and the security services"
+    }
+  ],
+  "note": "Journal officiel no 15 of 24 February 2026, 28,667 words: not read whole; searched for police, gendarmerie, commissariat, station, procès-verbal, main courante, occurrence, case-management, sûreté, registre, fichier, stupéfiant and the Arabic terms, and read around every hit. No hit on police, gendarmerie, commissariat or procès-verbal. The one relevant text is the justice ministry order on a seized-drugs database fed by the courts, one class of offence and not a station record; the other hits are organisation charts of unrelated bodies."
+}

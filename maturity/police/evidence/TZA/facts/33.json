@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-01-nbs-crime-traffic-incidents-jan-jun-2024",
+  "facts": [],
+  "systems": [
+    {"system": "vehicle tracking system (VTS)", "country_label": "VTS", "class": "single-function", "platform": "", "owner": "", "tiers": "used by the traffic police division for speed control of passenger buses, January to June 2024"}
+  ],
+  "note": "Over 20,000 words (38,990): not read whole. Searched for police station, system, electronic, digital, computer, ICT, register, occurrence book, docket, case file, case-management, CSMIS, PGO and equipment terms, and read around every hit (executive summary, sections 1.2 to 1.5, 3.2, 4.1 and the recommendations). No fact: section 1.5 says only that the Statistics Unit receives data from police stations and compiles it, naming no system and no medium; CSMIS, named in the 2020 edition, is not mentioned. Case files in chapter 4 are counts received by the National Prosecutions Service."
+}

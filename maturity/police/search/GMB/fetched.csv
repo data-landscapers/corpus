@@ -1,5 +1,5 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.eeas.europa.eu/gambia/gambia-launches-automated-fingerprint-identification-system-afis-strengthen-criminal-investigations_en,unfetchable,HTTP 404; no usable Wayback capture,,0,,
+1,https://www.eeas.europa.eu/gambia/gambia-launches-automated-fingerprint-identification-system-afis-strengthen-criminal-investigations_en,unfetchable,HTTP 404; no usable Wayback capture | second pass: second client: HTTP 404; certificate unverified: HTTP 404; Wayback: no usable capture,,0,,
 2,https://www.interpol.int/content/download/22945/file/25COM00930_WAPIS_Newsletter%2027_2025-EN-LR_Optimized.pdf,fetched,,scripts/.workroot/study/police/cache/GMB/2.txt,5626,pdf,25COM00930_WAPIS_Newsletter 27_2025-EN-LR.indd
 3,https://www.undp.org/sites/g/files/zskgke326/files/2022-09/Finalfinal.pdf,fetched,,scripts/.workroot/study/police/cache/GMB/3.txt,12681,pdf,
 4,https://procurement-notices.undp.org/view_file.cfm?doc_id=251674,fetched,,scripts/.workroot/study/police/cache/GMB/4.txt,1575,pdf,
@@ -8,4 +8,4 @@ k,url,status,detail,cache,words,kind,page_title
 7,https://thepoint.gm/africa/gambia/headlines/interior-ministry-to-build-five-new-police-stations-minister,fetched,,scripts/.workroot/study/police/cache/GMB/7.txt,299,html,Interior Ministry to build five new police stations: Minister
 8,https://www.kerrfatou.com/igp-jobe-assures-digitalization-of-records-under-police/,fetched,,scripts/.workroot/study/police/cache/GMB/8.txt,227,html,IGP Jobe assures digitalization of records under police
 9,https://standard.gm/police-must-transition-from-paper-documentation-to-digitalised-mode-igp/,held,held as raw/2026/2026-03-24 Gambia Police must transition from paper documentation to digitalised mode - IGP.md,,0,,
-10,https://ons.gov.gm/security-legislation/wp-content/uploads/2022/05/GPF-DCAF-ARREST-AND-DETENTION-MANUAL.pdf,unfetchable,SSLError; no usable Wayback capture,,0,,
+10,https://ons.gov.gm/security-legislation/wp-content/uploads/2022/05/GPF-DCAF-ARREST-AND-DETENTION-MANUAL.pdf,fetched,"second pass, by certificate unverified",scripts/.workroot/study/police/cache/GMB/10.txt,12018,pdf,

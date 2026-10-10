@@ -1,0 +1,14 @@
+{
+  "slug": "2024-12-13-mali-loi-2024-028-code-procedure-penale",
+  "facts": [],
+  "systems": [
+    {"system": "Fichiers d'antécédents", "country_label": "fichiers d'antécédents (fichiers de Police judiciaire)", "class": "identification", "platform": "", "owner": "Police nationale and Gendarmerie nationale, under the Procureur de la République's control", "tiers": "not stated; the law permits them (art. 409) and does not say any exists"},
+    {"system": "Fichiers d'analyse sérielle", "country_label": "fichiers d'analyse sérielle", "class": "identification", "platform": "", "owner": "Police nationale and Gendarmerie nationale units with a judicial-police mission", "tiers": "not stated; permitted by the law"},
+    {"system": "Fichier des personnes recherchées", "country_label": "fichier des personnes recherchées", "class": "identification", "platform": "", "owner": "", "tiers": "not stated (art. 424)"},
+    {"system": "Logiciels de rapprochement judiciaire", "country_label": "logiciels de rapprochement judiciaire", "class": "", "platform": "", "owner": "Police nationale, Gendarmerie nationale and customs, under judicial control", "tiers": "not stated; permitted by the law (art. 425), fed only from procedure documents the services already hold"},
+    {"system": "Registre spécial de garde à vue", "country_label": "registre spécial (garde à vue)", "class": "single-function", "platform": "", "owner": "", "tiers": "every police or gendarmerie premises that may hold a person in custody; the law says it may be kept in dematerialised form (art. 128)"},
+    {"system": "Fichier national automatisé des empreintes génétiques", "country_label": "fichier national automatisé des empreintes génétiques", "class": "identification", "platform": "", "owner": "under a magistrate's control", "tiers": "national (art. 1251)"},
+    {"system": "Casier judiciaire national centralisé et informatisé", "country_label": "gestion informatisée du casier judiciaire", "class": "identification", "platform": "", "owner": "a service to be created for it (art. 1330)", "tiers": "national"}
+  ],
+  "note": "Over 20,000 words (130,630): searched for police, gendarmerie, commissariat, brigade, procès-verbal, main courante, registre des plaintes, fichier, logiciel and digital terms and read around every hit, not whole. No fact: the code is a law, which permits police files and a dematerialised custody register but states nothing about a station system in use; it does not mention a main courante, and its registre des plaintes (art. 65) is the prosecutor's."
+}

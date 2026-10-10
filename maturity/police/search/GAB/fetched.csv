@@ -1,7 +1,7 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://www.interieur.gouv.ga/9-actualites/804-forces-de-police-nationale-la-digitalisation-en-marche-/,held,held as raw/2026/2026-02-16-forces-de-police-nationale-la-digitalisation-en-marche.md,,0,,
 2,https://fpn.ga/presentation-des-voeux-de-nouvel-an-2025-des-forces-de-police-nationale-au-chef-supreme-des-forces-de-defense-et-de-securite/,fetched,,scripts/.workroot/study/police/cache/GAB/2.txt,768,html,PRESENTATION DES VŒUX DE NOUVEL AN 2025 DES FORCES DE POLICE NATIONALE AU CHEF SUPREME DES FORCES DE DEFENSE ET DE SECURITE.
-3,https://fpn.ga/infos-aux-usagers/plaintes-depositions/,unfetchable,ConnectTimeout; no usable Wayback capture,,0,,
+3,https://fpn.ga/infos-aux-usagers/plaintes-depositions/,fetched,"second pass, by Wayback",scripts/.workroot/study/police/cache/GAB/3.txt,168,html,Plaintes et dépositions
 4,https://www.gabonreview.com/gabon-plus-de-2-000-personnes-placees-sous-mandat-de-depot-en-2025/,fetched,,scripts/.workroot/study/police/cache/GAB/4.txt,362,html,Gabon : plus de 2 000 personnes placées sous mandat de dépôt en 2025 | Gabonreview.com | Actualité du Gabon |
 5,https://ethiquemediagabon.net/?p=14508,fetched,,scripts/.workroot/study/police/cache/GAB/5.txt,392,html,"Sécurité et Digitalisation : Identity Secu débarque à la Brigade du Pk9, la Gendarmerie gabonaise accélère sa modernisation"
 6,https://pyramidmediasgabon.com/2026/01/procedures-judicaires-la-solution-bema-pour-braver-les-obstacles/,fetched,,scripts/.workroot/study/police/cache/GAB/6.txt,416,html,Procédures judiciaires lentes : la solution ‘’BEMA’’ pour braver les obstacles - Pyramid Medias Gabon

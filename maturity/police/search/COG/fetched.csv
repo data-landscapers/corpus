@@ -1,5 +1,5 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://www.lesdepechesdebrazzaville.fr/_zbhfiles/download.php?doc=20240607_DBZ_DBZ_ALL.pdf,unfetchable,ReadTimeout; no usable Wayback capture,,0,,
+1,https://www.lesdepechesdebrazzaville.fr/_zbhfiles/download.php?doc=20240607_DBZ_DBZ_ALL.pdf,fetched,"second pass, by second client",scripts/.workroot/study/police/cache/COG/1.txt,10050,pdf,
 2,https://www.civipol.fr/fr/appel-d-offres/travaux-dextensionrestructuration-des-commissariats-centraux-de-police-de-la-0,fetched,,scripts/.workroot/study/police/cache/COG/2.txt,696,html,Civipol
 3,https://www.civipol.fr/en/node/941,fetched,,scripts/.workroot/study/police/cache/COG/3.txt,1090,html,Lancement du Programme POLICE+ Appui à la professionnalisation de la police congolaise et à la mise en place de commissariats pilotes
 4,https://www.civipol.fr/fr/projets/republique-du-congo-programme-dappui-la-professionnalisation-de-la-police-congolaise-et-la,fetched,,scripts/.workroot/study/police/cache/COG/4.txt,388,html,REPUBLIQUE DU CONGO - PROGRAMME D’APPUI A LA PROFESSIONNALISATION DE LA POLICE CONGOLAISE ET A LA MISE EN PLACE DE COMMISSARIATS PILOTES

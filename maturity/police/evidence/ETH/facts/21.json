@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-20-ethiopia-crims-project-steering-committee",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CRIMS (Criminal Record Information Management System)",
+      "country_label": "የወንጀል መረጃ አስተዳደር ስርአት (CRIMS)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Justice",
+      "tiers": "under development: its project steering committee met and set directions, reported 20 April 2026; no users or places given"
+    }
+  ],
+  "note": "The held file is an excerpt: the headline and date of a Ministry of Justice news item, with a bracketed summary in place of the article's prose. It names CRIMS as a development project and says nothing of what the system does or who enters records, so it is unclassified and gives no fact."
+}

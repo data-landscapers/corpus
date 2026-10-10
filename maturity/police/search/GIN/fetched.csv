@@ -1,11 +1,11 @@
 k,url,status,detail,cache,words,kind,page_title
-1,https://guineelex.com/decrets-arretes/decret-d-2019-132-prg-sgg,unfetchable,HTTP 503; no usable Wayback capture,,0,,
+1,https://guineelex.com/decrets-arretes/decret-d-2019-132-prg-sgg,unfetchable,HTTP 503; no usable Wayback capture | second pass: second client: HTTP 503; certificate unverified: HTTP 503; Wayback: no usable capture,,0,,
 2,https://mosaiqueguinee.com/2021/03/5eme-reunion-du-sipao-damantang-albert-rassure-les-membres-du-comite-de-pilotage/,fetched,,scripts/.workroot/study/police/cache/GIN/2.txt,584,html,5ème réunion du SIPAO : Damantang Albert rassure les membres du comité de pilotage - Mosaiqueguinee.com
 3,https://mspc.gov.gn/category/actualites/,fetched,,scripts/.workroot/study/police/cache/GIN/3.txt,2212,html,𝐂𝐎𝐎𝐏É𝐑𝐀𝐓𝐈𝐎𝐍 𝐆𝐔𝐈𝐍É𝐄–𝐂𝐇𝐈𝐍𝐄 : 𝐥𝐞 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐞 𝐀𝐡𝐦𝐞𝐝 𝐌𝐨𝐡𝐚𝐦𝐞𝐝 𝐎𝐮𝐫𝐲 𝐃𝐈𝐀𝐋𝐋𝐎 à 𝐥𝐚 𝐂𝐨𝐧𝐟é𝐫𝐞𝐧𝐜𝐞 𝐦𝐨𝐧𝐝𝐢𝐚𝐥𝐞 𝐬𝐮𝐫 𝐥𝐚 𝐬é𝐜𝐮𝐫𝐢𝐭é 𝐩𝐮𝐛𝐥𝐢𝐪𝐮𝐞
 4,https://www.interpol.int/fr/content/download/20226/file/WAPIS_Newsletter%20April%202023_NO22_FR.pdf,held,held as raw/2023/2023-04-01-sipao-wapis-lettre-information-22-credpol-guinee.md,,0,,
-5,https://cnt.gov.gn/interpol/,fetched,,scripts/.workroot/study/police/cache/GIN/5.txt,64,html,Our site is coming soon
+5,https://cnt.gov.gn/interpol/,fetched,"second pass, by Wayback",scripts/.workroot/study/police/cache/GIN/5.txt,290,html,UNE GUINEE NOUVELLE EST POSSIBLE
 6,https://www.interpol.int/fr/content/download/22944/file/24COM007802_WAPIS_Newsletter%2025_2024-12_FR_Optimized.pdf,fetched,,scripts/.workroot/study/police/cache/GIN/6.txt,8681,pdf,24COM007802_WAPIS_Newsletter 25_2024-12_FR.indd
-7,https://guineematin.com/2025/01/20/kankan-les-opj-saluent-la-digitalisation-des-casiers-judiciaires/,unfetchable,HTTP 507; no usable Wayback capture,,0,,
+7,https://guineematin.com/2025/01/20/kankan-les-opj-saluent-la-digitalisation-des-casiers-judiciaires/,fetched,"second pass, by second client",scripts/.workroot/study/police/cache/GIN/7.txt,408,html,Kankan : les OPJ saluent la digitalisation des casiers judiciaires - Guineematin.com
 8,https://www.interpol.int/fr/content/download/22945/file/25COM00930_WAPIS_Newsletter%2027_2025-FR-LR_Optimized.pdf,fetched,,scripts/.workroot/study/police/cache/GIN/8.txt,6175,pdf,
 9,https://www.stat-guinee.org/images/Documents/Publications/SSN/mspc/MSPC_ANNUAIRE_2018.pdf,fetched,,scripts/.workroot/study/police/cache/GIN/9.txt,44802,pdf,
 10,https://www.innovatrics.com/resources/digitalization-of-police-investigation-in-west-africa/,held,held as raw/2025/2025-01-01-innovatrics-digitalization-police-investigation-west-africa.md,,0,,

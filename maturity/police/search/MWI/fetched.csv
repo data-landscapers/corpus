@@ -3,7 +3,7 @@ k,url,status,detail,cache,words,kind,page_title
 2,https://mptf.undp.org/sites/default/files/documents/2024-08/final_spotlight_initiative_malawi_cumulative_report_revised.pdf,fetched,,scripts/.workroot/study/police/cache/MWI/2.txt,18704,pdf,Spotlight Initiative Malawi Final Report.cdr
 3,https://www.undp.org/sites/g/files/zskgke326/files/2025-06/e-justice_national_conference_malawi_report_pub.pdf,fetched,,scripts/.workroot/study/police/cache/MWI/3.txt,16877,pdf,
 4,https://www.unicef.org/malawi/media/12686/file/Malawi%20Police%20Data%20Digest%20%E2%80%94%20January%20to%20March%202020.pdf.pdf,fetched,,scripts/.workroot/study/police/cache/MWI/4.txt,996,pdf,
-5,https://doi.org/10.26634/jcom.12.1.20613,unfetchable,empty extraction; no usable Wayback capture,,0,,
+5,https://doi.org/10.26634/jcom.12.1.20613,unfetchable,empty extraction; no usable Wayback capture | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,,0,,
 6,https://malawian.com/news/brief/1792/,fetched,,scripts/.workroot/study/police/cache/MWI/6.txt,241,html,Police Launch Digital Crime System as Human Rights Commission Condemns Interrogation Torture | Malawian Newsbrief
 7,https://www.technobraingroup.com/impact/automatic-fingerprint-identification-systemafis-based-criminal-tracking-systemcts-for-police-departments/,fetched,,scripts/.workroot/study/police/cache/MWI/7.txt,352,html,Automatic Fingerprint Identification System(AFIS) based Criminal Tracking System(CTS) For Police Departments
 8,https://www.judiciary.mw/sites/default/files/2024-04/E-COURT%20LAUNCH.pdf,held,held as raw/2024/2024-04-01-e-court-launch-malawi-judiciary.md,,0,,

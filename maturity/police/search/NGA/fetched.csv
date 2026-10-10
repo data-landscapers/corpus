@@ -4,6 +4,6 @@ k,url,status,detail,cache,words,kind,page_title
 3,https://fmino.gov.ng/fg-launches-possap-for-institutional-transparency-and-accountability/,fetched,,scripts/.workroot/study/police/cache/NGA/3.txt,537,html,FG LAUNCHES POSSAP FOR INSTITUTIONAL TRANSPARENCY AND ACCOUNTABILITY - Federal Ministry of Information and National Orientation
 4,https://journals.ui.edu.ng/index.php/uijslictr/article/download/773/681,fetched,,scripts/.workroot/study/police/cache/NGA/4.txt,6136,pdf,
 5,https://policeaffairs.gov.ng/national-data-fusion-centre-a-game-changer-in-the-crime-management/,held,held as raw/2024/2024-12-02-national-data-fusion-centre-npcidb.md,,0,,
-6,https://policeaffairs.gov.ng/fg-receives-wapis-platform-and-infrastructure-from-european-union/,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
-7,https://policeaffairs.gov.ng/fg-commissions-modern-smart-divisional-police-station-in-mpape/,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
-8,https://policeaffairs.gov.ng/gaidam-reaffirms-government-commitment-to-data-driven-strategies-for-policing/,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+6,https://policeaffairs.gov.ng/fg-receives-wapis-platform-and-infrastructure-from-european-union/,fetched,"second pass, by certificate unverified",scripts/.workroot/study/police/cache/NGA/6.txt,592,html,FG RECEIVES WAPIS PLATFORM AND INFRASTRUCTURE FROM EUROPEAN UNION
+7,https://policeaffairs.gov.ng/fg-commissions-modern-smart-divisional-police-station-in-mpape/,fetched,"second pass, by certificate unverified",scripts/.workroot/study/police/cache/NGA/7.txt,728,html,FG COMMISSIONS MODERN SMART DIVISIONAL POLICE STATION IN MPAPE
+8,https://policeaffairs.gov.ng/gaidam-reaffirms-government-commitment-to-data-driven-strategies-for-policing/,fetched,"second pass, by certificate unverified",scripts/.workroot/study/police/cache/NGA/8.txt,533,html,Gaidam Reaffirms Government Commitment to Data-Driven Strategies for Policing

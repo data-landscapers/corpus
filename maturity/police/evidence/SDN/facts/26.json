@@ -1,0 +1,9 @@
+{
+  "slug": "2023-10-26-sudan-police-electronic-reporting-31000-reports",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Police Report Platform", "country_label": "electronic reporting platform; Electronic Police Report Platform", "class": "public", "platform": "", "owner": "Sudan Police Forces; reports acted on by the Criminal Action Committee formed by the Minister of the Interior", "tiers": "citizens report through it, including from conflict areas; 31,667 reports from 1 June to 21 October 2023, by the police spokesman; no station is named"},
+    {"system": "Traffic system", "country_label": "traffic system", "class": "single-function", "platform": "", "owner": "", "tiers": "not stated; vehicles reported stolen are blocked in it from licensing and sale"}
+  ],
+  "note": "No fact: the platform is one through which citizens file reports (class public), 31,667 of them from 1 June to 21 October 2023; the document does not say that any station enters reports or cases in a system."
+}

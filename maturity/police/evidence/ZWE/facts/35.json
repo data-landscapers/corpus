@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-24-zwe-pos-machines-starlink-police-roadblocks",
+  "facts": [],
+  "systems": [
+    {"system": "Point-of-Sale machines at police roadblocks", "country_label": "POS machines", "class": "single-function", "platform": "", "owner": "Ministry of Home Affairs and Cultural Heritage with the Ministry of ICT, Postal and Courier Services; Zimbabwe Republic Police", "tiers": "planned for all police roadblocks countrywide, for spot fines; distribution not yet begun at 2025-10-24"},
+    {"system": "Starlink satellite internet for roadblock POS machines", "country_label": "Starlink", "class": "enabling", "platform": "Starlink", "owner": "Ministry of ICT, Postal and Courier Services, engaging Starlink", "tiers": "planned connectivity wherever police operate, including remote areas"}
+  ],
+  "note": "A Herald report of 24 October 2025 on a planned rollout of card machines for spot fines at roadblocks, with satellite connectivity: a single-function system and an enabling one, neither yet distributed. It says nothing on how stations record reports or cases."
+}

@@ -1,7 +1,7 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://fr.le360.ma/societe/dgsn-gestarr-le-nouveau-systeme-de-gestion-des-arrondissements-de-police-199731/,fetched,,scripts/.workroot/study/police/cache/MAR/1.txt,435,html,"DGSN. GESTARR, le nouveau système de gestion des arrondissements de police"
-2,https://lematin.ma/journal/2019/generalisation-systeme-informatique-gestion-arrondissements-police/320740.html,unfetchable,HTTP 403; no usable Wayback capture,,0,,
-3,https://maroc-diplomatique.net/bilan-2021-des-services-de-la-dgsn1/,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://lematin.ma/journal/2019/generalisation-systeme-informatique-gestion-arrondissements-police/320740.html,fetched,"second pass, by Wayback",scripts/.workroot/study/police/cache/MAR/2.txt,258,html,Le Matin - Généralisation du système informatique de gestion des arrondissements de police
+3,https://maroc-diplomatique.net/bilan-2021-des-services-de-la-dgsn1/,fetched,"second pass, by Wayback",scripts/.workroot/study/police/cache/MAR/3.txt,8180,html,"Bilan 2021 des services de la DGSN, couronnement d'une vision et d'actions de moralisation publique"
 4,https://le12.ma/fr/maroc-la-dgsn-dresse-son-bilan-pour-2023/,fetched,,scripts/.workroot/study/police/cache/MAR/4.txt,11107,html,Maroc: La DGSN dresse son bilan pour 2023 - Le12 - FR
 5,https://www.lereporter.ma/la-direction-generale-de-la-surete-nationale-presente-son-bilan-annuel-au-titre-de-lannee-2024/,fetched,,scripts/.workroot/study/police/cache/MAR/5.txt,12027,html,La Direction Générale de la Sûreté Nationale présente son bilan annuel au titre de l’année 2024 | Le Reporter.ma
 6,https://article19.ma/accueil/archives/179605,fetched,,scripts/.workroot/study/police/cache/MAR/6.txt,452,html,"Coopération - Le Ministère de la Justice et la DGSN, vers une administration judiciaire électronique intégrée - Article19.ma"

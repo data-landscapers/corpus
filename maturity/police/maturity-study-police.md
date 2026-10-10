@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-police.md — the fourth maturity study: rural police stations, as station records
 last_reviewed: 2026-10-10
-status: CC's proposal, run unamended on Bill's word of 2026-10-10; reviewed and ladder tested; search under way
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 done, 141 documents delivered under note 223; step 5 waits on it
 ---
 
 # Maturity study: police — station records
@@ -101,7 +101,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is Corpus-defined: the AFRIPOL
 - [x] **P1. Bill's rulings**: the five proposals stand, 2026-10-10.
 - [x] **P2. Review all 54 countries**, method §4: 1,932 documents, 92 slices.
 - [x] **P3. Test the ladder**: 4 at stage 3, 7 at 2, 5 at 1; 16 facts corrected (`corrections.csv`).
-- [ ] **P4. Search and hand over**, method §5.
+- [x] **P4. Search and hand over**, method §5: 141 documents, `notes-for-osint` 223.
 - [ ] **P5. Re-read and stage**, method §6 and §7.
 - [ ] **P6. Write, render and lint**, method §8.
 - [ ] **P7. Report to Bill.** Acceptance is his.

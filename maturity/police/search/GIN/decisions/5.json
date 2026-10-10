@@ -1,11 +1,1 @@
-{
- "select": false,
- "sub_indicator": "record",
- "aspect": "",
- "fact": "",
- "title": "",
- "publisher": "",
- "published": "",
- "date_source": "source",
- "why_not": "Fetched text is a site-maintenance placeholder, not the document."
-}
+{"select": true, "sub_indicator": "record", "aspect": "governance", "fact": "On 6 June 2024 an INTERPOL mission led by the secretary general of the Ministère de la Sécurité et de la Protection civile presented the Système d'information policière pour l'Afrique de l'Ouest (SIPAO) to the Conseil National de la Transition: the programme is financed by the European Union and was to end in six months, and the secretary general asked for legislative support to sustain its results, notably the Centre de recueil et d'enregistrement des données policières (CREDPOL).", "title": "Sécurité : Une délégation de l'Interpol reçue par le Bureau du Conseil national de la transition", "publisher": "Conseil National de la Transition", "published": "2024-06-07", "date_source": "proxy", "why_not": ""}

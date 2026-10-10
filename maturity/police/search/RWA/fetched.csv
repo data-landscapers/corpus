@@ -1,7 +1,7 @@
 k,url,status,detail,cache,words,kind,page_title
 1,https://www.minijust.gov.rw/index.php?eID=dumpFile&f=118078&t=f&token=431ca023c6eaf677dde92adab3c7ea712ac58340,fetched,,scripts/.workroot/study/police/cache/RWA/1.txt,16194,pdf,
-2,https://usermanual.wiki/Pdf/RwandaIECMSRNPUserManual.1798970182.pdf,unfetchable,HTTP 403; no usable Wayback capture,,0,,
-3,https://www.undp.org/rwanda/news/enhancing-access-justice-where-it-needed-most,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://usermanual.wiki/Pdf/RwandaIECMSRNPUserManual.1798970182.pdf,unfetchable,HTTP 403; no usable Wayback capture | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture,,0,,
+3,https://www.undp.org/rwanda/news/enhancing-access-justice-where-it-needed-most,unfetchable,HTTP 403; no usable Wayback capture | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture,,0,,
 4,https://www.minijust.gov.rw/index.php?eID=dumpFile&f=124217&t=f&token=fb5f8d478d9d681804a1dbb7403a4186b4a10f89,fetched,,scripts/.workroot/study/police/cache/RWA/4.txt,108,pdf,
 5,https://www.minijust.gov.rw/news-detail/the-iecms-upgrade-needs-assessment-was-validated,held,held as raw/2026/2026-01-24-minijust-iecms-upgrade-needs-assessment-validated.md,,0,,
 6,https://www.rib.gov.rw/fileadmin/user_upload/RIB/Journey/RIB-The_2017-2023_Journey.pdf,fetched,,scripts/.workroot/study/police/cache/RWA/6.txt,22183,pdf,

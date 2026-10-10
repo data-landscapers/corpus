@@ -6,6 +6,6 @@ k,url,status,detail,cache,words,kind,page_title
 5,https://mptf.undp.org/sites/default/files/documents/2025-04/extracted_from_senegal_prodoc_140774.pdf,fetched,,scripts/.workroot/study/police/cache/SEN/5.txt,6491,pdf,
 6,https://senegal.un.org/fr/298588-le-projet-pilote-d%E2%80%99e-justice-dans-la-banlieue-de-dakar-progresse-avec-l%E2%80%99appui-du-fonds-odd,fetched,,scripts/.workroot/study/police/cache/SEN/6.txt,794,html,Le projet pilote d’e-justice dans la banlieue de Dakar progresse avec l’appui du Fonds ODD et des Nations Unies
 7,https://interieur.gouv.sn/securite/securite-publique/politique-de-securite-publique,fetched,,scripts/.workroot/study/police/cache/SEN/7.txt,1939,html,Politique de Sécurité publique
-8,https://senegalservices.sn/demarche/porter-plainte,unfetchable,"empty extraction; Wayback HTTP 429, not checked",,0,,
+8,https://senegalservices.sn/demarche/porter-plainte,unfetchable,"empty extraction; Wayback HTTP 429, not checked | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture",,0,,
 9,https://justice.sec.gouv.sn/wp-content/uploads/2020/11/code-procedure-penal.pdf,fetched,,scripts/.workroot/study/police/cache/SEN/9.txt,60906,pdf,
 10,https://lesoleil.sn/actualites/economie/digitalisation-des-amendes-forfaitaires-164-014-attestations-traitees-8419-millions-fcfa-collectes-par-les-forces-de-securite/,held,held as raw/2025/2025-01-31-digitalisation-amendes-forfaitaires.md,,0,,
