@@ -1,0 +1,220 @@
+{
+  "id": "localrecords",
+  "study_file": "maturity-study-localrecords.md",
+  "subjects": [
+    "digital.localgov",
+    "dpi.pay",
+    "dpi.registry",
+    "dpi.mis"
+  ],
+  "stage_topic": "digital.localgov",
+  "redraws": [
+    "digital.localgov--digitalisation-of-local-government-records"
+  ],
+  "terms": [
+    "local revenue",
+    "local revenues",
+    "own-source revenue",
+    "own-source revenues",
+    "own source revenue",
+    "internally generated funds",
+    "internally generated revenue",
+    "municipal revenue",
+    "municipal revenues",
+    "council revenue",
+    "county revenue",
+    "district revenue",
+    "local government revenue",
+    "local tax",
+    "local taxes",
+    "municipal tax",
+    "municipal taxes",
+    "property tax",
+    "property taxes",
+    "property rates",
+    "valuation roll",
+    "rates billing",
+    "market fees",
+    "market dues",
+    "revenue collection system",
+    "revenue management system",
+    "revenue administration system",
+    "revenue automation",
+    "e-revenue",
+    "electronic receipting",
+    "electronic receipts",
+    "point of sale devices",
+    "recettes communales",
+    "recettes municipales",
+    "recettes locales",
+    "recettes propres",
+    "ressources propres des collectivités",
+    "ressources propres des communes",
+    "fiscalité locale",
+    "finances locales",
+    "taxes locales",
+    "taxes communales",
+    "taxes municipales",
+    "impôts locaux",
+    "taxe foncière",
+    "impôt foncier",
+    "registre foncier urbain",
+    "rôle d'imposition",
+    "droits de place",
+    "taxe de marché",
+    "receitas municipais",
+    "receitas próprias",
+    "receitas autárquicas",
+    "receitas locais",
+    "finanças locais",
+    "finanças autárquicas",
+    "imposto predial",
+    "taxas municipais",
+    "impostos municipais",
+    "impostos locais",
+    "الجباية المحلية",
+    "الجبايات المحلية",
+    "الضرائب المحلية",
+    "الرسوم المحلية",
+    "الرسوم البلدية",
+    "الموارد الذاتية",
+    "المداخيل الذاتية",
+    "الضريبة العقارية",
+    "الإيرادات المحلية",
+    "LAIFOMS",
+    "LGRCIS",
+    "TAUSI",
+    "dLRev",
+    "SISTAE",
+    "Net-Collect"
+  ],
+  "sub_indicators": [
+    {
+      "key": "revenue",
+      "label": "Revenue records",
+      "subject": "digital.localgov",
+      "text": "Digitalisation of local government records: revenue records",
+      "indicator_id": "digital.localgov--digitalisation-of-local-government-records-revenue-records",
+      "class": "revenue"
+    }
+  ],
+  "classes": [
+    "revenue",
+    "survey",
+    "central",
+    "accounts",
+    "documents",
+    "permits",
+    "web",
+    "upper-tier",
+    "civil",
+    "land",
+    "enabling"
+  ],
+  "aspects": [
+    {
+      "key": "governance",
+      "name": "Governance, planning, finance",
+      "role": "qualifier",
+      "window_months": 36,
+      "facets": {
+        "owner": [
+          "ministry",
+          "partner",
+          "vendor"
+        ],
+        "plan": [
+          "current",
+          "none"
+        ],
+        "finance": [
+          "domestic",
+          "donor",
+          "not-stated"
+        ]
+      }
+    },
+    {
+      "key": "recorded",
+      "name": "What is recorded",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "register"
+      ],
+      "values": [
+        "register",
+        "receipts",
+        "none"
+      ]
+    },
+    {
+      "key": "held",
+      "name": "Where the record is held",
+      "role": "coverage",
+      "defer": [
+        "paper"
+      ],
+      "prefer": [
+        "shared"
+      ],
+      "values": [
+        "shared",
+        "local",
+        "paper"
+      ]
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": [
+        "advancing",
+        "no-change",
+        "regressing"
+      ]
+    },
+    {
+      "key": "authorities",
+      "name": "Local governments recording",
+      "role": "coverage",
+      "pattern": "share:\\d{1,3}(\\.\\d+)?%|equipped:\\d{1,3}(\\.\\d+)?%|count:\\d+|pilot|none|not-published",
+      "prefer": [
+        "share:",
+        "equipped:",
+        "count:",
+        "pilot",
+        "none",
+        "not-published"
+      ]
+    }
+  ],
+  "cap": {
+    "aspect": "governance",
+    "above": 3,
+    "flag": "externally run",
+    "all": [
+      "owner:ministry"
+    ],
+    "any": [
+      "finance:domestic",
+      "plan:current"
+    ]
+  },
+  "flags": [
+    "externally run",
+    "register survey",
+    "centrally collected",
+    "advancing",
+    "regressing"
+  ],
+  "exclude_sources": [
+    {
+      "slug": "2026-03-31 Africa we have a data problem",
+      "why": "An AI-assisted compilation by its own header, not sourced fact (Bill, 2026-10-06). Its rows stay in evidence.csv; none enters a profile or sets a stage."
+    }
+  ]
+}
