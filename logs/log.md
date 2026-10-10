@@ -13,6 +13,7 @@ title: Corpus process log
 
 <!-- newest first: a new entry goes directly below this line -->
 2026-10-10 · **MATURITY STUDY registry** · unclocked · Phase 1 to R3: Bill's five rulings, 3,610 documents read in 143 slices (three stopped short and were completed), 31 stubs read from their held PDFs, 1,620 facts. Ladder tested, every rung reached: 1 at stage 5, 3 at 4, 31 at 3, 15 at 2, 3 at 1, TGO unplaced. **Owed before R4:** sample facts against bodies (method §4), re-date `last12` facts taken from a listed date, de-duplicate twin captures, read the norm's texts. Housekeeping 13 opened. R4 not started.
+2026-10-10 12:16 · **MATURITY-STUDY** · 15m · registry, step 5 done: 58 of 70 admitted (note 221), 1,733 facts; as at 2026-09-30 stage 4: 1, 3: 39, 2: 14, TZA capped; agreement 18 of 20; 54 pages written, lint-study clean; awaiting acceptance — ok
 2026-10-10 10:55 · **MATURITY-STUDY** · unclocked · registry, Phase 1 closed (R4): pre-search checks done, AGO corrected 2 to 3; 29 countries searched, 214 leads, 70 documents delivered to prepared with READY, lint clean; notes-for-osint 221 raised; Phase 2 waits on it — ok
 2026-10-10 01:19 · **HOUSEKEEPING** · unclocked · job 11: regulator pattern narrowed to communications; UGA and NGA cells now not looked, 11 found cells all communications regulators; 756 cells, found whole 325, partial 64, absent 325, not looked 42 — ok
 2026-10-10 01:12 · **RENDER** · 18m · 251 reports, home, countries, topics, catalogue 27,216, finance, datasets and maturity pages rendered; 143 editions pruned; deployed — ok
