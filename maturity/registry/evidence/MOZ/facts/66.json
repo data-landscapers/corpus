@@ -1,6 +1,164 @@
 {
   "slug": "2021-01-01 Mozambique CRVS Case Study - UNICEF Evaluation",
-  "facts": [],
-  "systems": [],
-  "note": "The file holds a one-paragraph description of the UNICEF evaluation and none of its text; it states nothing about any system or office."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "UNICEF's evaluators state that as of October 2018 births and deaths are registered and certificates processed electronically in the e-CRVS system; marriage and divorce were left for a later stage.",
+      "as_of": "2018-10",
+      "date_precision": "month",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The evaluation states that district registration offices connect remotely to the central e-CRVS platform and enter registration data directly into the central electronic civil database held at NDRN, that all district offices have internet-connected computers and registrations done there are digitised at once, and that an offline mode synchronises when a connection returns; the passage is undated and the report is of 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "keyed-elsewhere",
+      "fact": "The evaluation states that at the 534 community registration points birth and death data are captured on registration forms, which the designated district registration office then processes to complete the record, the certificate being collected at the district office; the passage is undated and the report is of 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:80%",
+      "fact": "UNICEF's evaluators state that the e-CRVS system has been rolled out in 80 per cent of district civil registration offices, and elsewhere that it reaches 80 per cent of civil registration administrative units and districts, with no numerator or denominator; the same passage says all district offices and a number of administrative posts use computers to register vital events. Undated; the report is of 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:258",
+      "fact": "The evaluation states that by 2018, when full rollout was largely completed, e-CRVS had been rolled out and made functional in 75 districts and 183 administrative posts, with no total of offices given; it registered 54,539 people that year.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The evaluation states that in 2019, with UNICEF's financial and technical support, e-CRVS was expanded to a further 46 conservatories and 38 registration posts and 314 more staff were trained by NDRN; 554,892 people were registered that year.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The evaluation states that the e-CRVS back end runs on the server at the headquarters of NDRN, the registries directorate of the justice ministry, and that in 2019 technical capacity passed from NDRN to the National Institute for Electronic Government, which it describes as ensuring government ownership.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The evaluation's milestones list a Revised National Strategic Plan for CRVS, 2019-2028, in 2019, following the 2015-2019 plan whose outputs included an e-CRVS system for digital registration, and a five-year costed operational plan.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "UNICEF's evaluators state that the establishment of the system is largely managed and financed by UNICEF, in coordination with the national registration authorities, with Global Affairs Canada funding extended for two years in 2019; UNICEF's CRVS spending in Mozambique was 17,332,704 dollars over 2014-2020. Undated; the report is of 2021.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The evaluation states that the Government of Mozambique invested a total of 135,000 dollars in CRVS activities in 2014, paying close attention to the e-CRVS rollout.",
+      "as_of": "2014",
+      "date_precision": "year",
+      "system": "e-CRVS",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "e-CRVS",
+      "country_label": "Sistema de registo civil e estatísticas vitais (e-CRVS)",
+      "class": "civil",
+      "platform": "Custom-built web application with a MySQL vital events database, developed by national ICT experts under the National Institute of Information Technology with UNICEF support",
+      "owner": "National Directorate of Registries and Notaries (NDRN), Ministry of Justice, Constitutional Affairs and Religions; technical capacity with the National Institute for Electronic Government from 2019",
+      "tiers": "Central server at NDRN headquarters; district registration offices (conservatories); a number of administrative posts"
+    },
+    {
+      "system": "Mobile birth notification",
+      "country_label": "Mobile birth notification (USSD messaging)",
+      "class": "notification",
+      "platform": "USSD and SMS over the three main mobile operators' networks, into the NDRN notifications database",
+      "owner": "NDRN, with the mobile network operators; developed by UNICEF and handed over",
+      "tiers": "Registration agents at administrative posts and community registration points without computers or internet; notifications entered at NDRN head office"
+    },
+    {
+      "system": "Unique Civil Identification Number (NUIC)",
+      "country_label": "NUIC",
+      "class": "identity",
+      "platform": "Generated by the e-CRVS system",
+      "owner": "NDRN",
+      "tiers": "Issued centrally and sent to the registration agent and parents once a birth is notified"
+    },
+    {
+      "system": "Digitisation of the vital events paper records archive",
+      "country_label": "",
+      "class": "archive",
+      "platform": "",
+      "owner": "Ministry of Justice, Constitutional Affairs and Religions, with Italian Cooperation",
+      "tiers": "Planned; the central register holds in digital form only events registered from 2016"
+    },
+    {
+      "system": "Identification database",
+      "country_label": "",
+      "class": "identity",
+      "platform": "",
+      "owner": "Ministry of Interior",
+      "tiers": "National; not linked to the civil register database"
+    },
+    {
+      "system": "Health information system",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "Data-sharing with the CRVS system to be strengthened under the World Bank Primary Health Care Strengthening Programme, begun in 2017"
+    },
+    {
+      "system": "Maternal and neonatal deaths notification system",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health, with WHO support",
+      "tiers": "Supportive visits in seven of 11 provinces"
+    }
+  ],
+  "note": "Read from the artefact PDF. Text taken with pdftotext, all 31 pages, because the Read tool could not render PDF pages (pdftoppm missing). The 80 per cent is a rollout share and is recorded as equipped; the report also says all district offices use computers to register, with no count. It describes the system as both government-owned and largely managed and financed by UNICEF."
 }

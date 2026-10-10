@@ -1,6 +1,146 @@
 {
   "slug": "2019-01-01 Snapshot of CRVS Systems of Tanzania Mainland (IDRC Centre of Excellence)",
-  "facts": [],
-  "systems": [],
-  "note": "The file is a companion stub of 85 words for a PDF held beside it: it says only that the snapshot rests on a questionnaire RITA completed in December 2018; the snapshot's own text is not in the file, so nothing usable is stated."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The snapshot, from a questionnaire RITA completed in December 2018, states that registration of vital events in Tanzania Mainland is entrusted to the Registration, Insolvency and Trusteeship Agency (RITA), under the Ministry of Constitution and Legal Affairs, and that the central database the registration points upload to is RITA's.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "RITA's central database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The snapshot states that a CRVS strategic plan for 2015/16 to 2020/21 was first drafted in 2014 and is being revised with UNICEF support; its high-priority areas lacking funding include 'Use of ICT in civil registration' and decentralising registration to ward and health facilities, and the five-year plan is costed at USD 34 million.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "RITA's central database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "RITA reports for fiscal year July 2018 to June 2019 a government treasury allocation of USD 510,768 and a development-partner supplement of USD 572,169 against a requirement of USD 27.5 million, a gap of USD 26.4 million (96 per cent); the figures are for RITA's civil registration budget as a whole, not for the system alone.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "RITA's central database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The snapshot states that health facilities and ward offices use mobile phones to upload information on current births (name, sex, date of birth, family particulars) to RITA's central database in real time; decentralised death registration is piloted in one region on a new form, with no digital entry of deaths stated.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "RITA's central database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The snapshot states that health facilities and ward offices, which register births and issue the first certificate in the decentralised regions, upload each current birth by mobile phone to RITA's central database in real time; district registration offices and health facilities with computers use the Internet to transfer civil registration information to the next higher registration office.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "RITA's central database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The snapshot states that a comprehensive assessment conducted in late 2014 identified 'manual registration processes' among the challenges of the civil registration system.",
+      "as_of": "2014",
+      "date_precision": "year",
+      "system": "RITA civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:4816",
+      "fact": "RITA reports 4,816 registration points in the decentralised regions (3,003 in health facilities and 1,813 in Ward Executive Offices), given as 13 regions in one passage and 11 of 26 in another, and 84 district service points in the centralised regions; a separate passage says health facilities and ward offices upload births by mobile phone, without giving a count of the points doing so.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "RITA's central database",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:122",
+      "fact": "RITA reports that it has computerised its offices in 122 districts, with a further 22 districts to be computerised by June 2019, and has given computers for registration to 19 health facilities; this is offices equipped, not offices stated as registering, and no total of district offices is given.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "RITA civil registration system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "As of December 2018 RITA reports that it has started providing computers to registration officers in districts and hospitals, with 122 districts computerised and 22 more due by June 2019, that decentralised registration is being extended in stages with the centralised approach to be phased out, and that death registration decentralisation has been piloted in one region.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "RITA civil registration system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "RITA's central database",
+      "country_label": "birth registration system; RITA's central database",
+      "class": "civil",
+      "platform": "mobile phones uploading in real time; software not named",
+      "owner": "Registration, Insolvency and Trusteeship Agency (RITA)",
+      "tiers": "health facilities and Ward Executive Offices in the decentralised regions (4,816 registration points); RITA centrally"
+    },
+    {
+      "system": "RITA civil registration system",
+      "country_label": "computerised district registration offices",
+      "class": "civil",
+      "platform": "computers, with Internet transfer to the next higher registration office; software not named",
+      "owner": "Registration, Insolvency and Trusteeship Agency (RITA)",
+      "tiers": "offices in 122 districts and 19 health facilities; 22 more districts by June 2019"
+    },
+    {
+      "system": "Under-five birth registration",
+      "country_label": "birth registration of children under 5 years of age",
+      "class": "outreach",
+      "platform": "post-registration data captured by mobile phone from the field",
+      "owner": "RITA, with UNICEF",
+      "tiers": "field; under way since 2013 to clear the backlog"
+    },
+    {
+      "system": "National identification system",
+      "country_label": "national identification system",
+      "class": "identity",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; a birth certificate is required for the identity card"
+    },
+    {
+      "system": "RITA back-end link to the national identification system",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "RITA and the national identification agency",
+      "tiers": "national; the back-end is connected and data sharing protocols exist, but no unique identification number is shared; a ten-digit birth form number is meant for integration with health, statistics, identity and the electoral roll"
+    },
+    {
+      "system": "IT system (World Bank support)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Read from the artefact PDF. All 16 pages read as extracted text (the Read tool could not render PDF pages here); facts are dated December 2018, when RITA completed the questionnaire, not the stub's 2019-01-01."
 }

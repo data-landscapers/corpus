@@ -1,6 +1,12 @@
 {
   "slug": "2023-04-01 Digitalization of CRVS Systems in Africa (AfDB & COMESA)",
-  "facts": [],
-  "systems": [],
-  "note": "The file held is a 135-word companion page describing the AfDB and COMESA study in general terms; it carries no statement about Niger, and the study's own text is not in it."
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "offices", "value": "not-published", "fact": "The AfDB and COMESA assessment, from countries' own questionnaire answers collected October 2022 to April 2023, lists Niger among four countries where only towns in urban areas have electronic databases of civil registration records; it gives no number of offices.", "as_of": "2023", "date_precision": "year", "system": "electronic civil registration databases", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "made", "value": "keyed-elsewhere", "fact": "The AfDB and COMESA assessment (answers collected October 2022 to April 2023) lists Niger among six countries where paper copies of birth and death records go from local offices to the regional office and are processed there for electronic transmission to the central office.", "as_of": "2023", "date_precision": "year", "system": "electronic civil registration databases", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "The AfDB and COMESA assessment's statement on Niger's transmission of records, paper locally and electronic from the regional office, is made of birth and death records (answers collected October 2022 to April 2023).", "as_of": "2023", "date_precision": "year", "system": "electronic civil registration databases", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "electronic civil registration databases", "country_label": "", "class": "civil", "platform": "", "owner": "", "tiers": "towns in urban areas only; paper at local offices, electronic from the regional office to the central office"}
+  ],
+  "note": "Read from the artefact PDF. A 43-country questionnaire survey; Niger is named four times, and the study also lists it among six respondents without a digital national identity system and among eight without a data-transfer arrangement with the Ministry of Health. No system is named."
 }

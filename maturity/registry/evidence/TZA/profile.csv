@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,civil,governance,qualifier,owner:ministry;plan:current,2026-07-18,TZA-004;TZA-014,TZA-008=owner:ministry;TZA-012=owner:ministry;TZA-013=owner:ministry,not stated: finance
-TZA,civil,events,coverage,B;D,2026-07-18,TZA-001;TZA-009;TZA-015,,
-TZA,civil,made,coverage,connected,2026-07-18,TZA-002;TZA-010;TZA-016,TZA-007=paper;TZA-017=keyed-elsewhere,
-TZA,civil,last12,qualifier,advancing,2026,TZA-005;TZA-020;TZA-021,TZA-022=regressing,
-TZA,civil,offices,coverage,share:57%,2024,TZA-019,TZA-003=not-published;TZA-011=count:12025;TZA-018=equipped:100%,
+TZA,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2026-07-18,TZA-004;TZA-014;TZA-025,TZA-008=owner:ministry;TZA-012=owner:ministry;TZA-023=owner:ministry;TZA-024=plan:current;TZA-013=owner:ministry,
+TZA,civil,events,coverage,B;D,2026-07-18,TZA-001;TZA-009;TZA-015,TZA-026=B,
+TZA,civil,made,coverage,connected,2026-07-18,TZA-002;TZA-010;TZA-016;TZA-027,TZA-007=paper;TZA-017=keyed-elsewhere;TZA-028=paper,
+TZA,civil,last12,qualifier,advancing,2026,TZA-005;TZA-020;TZA-021;TZA-031,TZA-022=regressing,
+TZA,civil,offices,coverage,share:57%,2024,TZA-019,TZA-003=not-published;TZA-011=count:12025;TZA-018=equipped:100%;TZA-029=count:4816;TZA-030=count:122,

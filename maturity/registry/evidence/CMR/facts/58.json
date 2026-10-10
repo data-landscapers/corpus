@@ -1,6 +1,194 @@
 {
   "slug": "2024-01-01 World Bank - ID4D Diagnostic of ID Systems in Cameroon",
-  "facts": [],
-  "systems": [],
-  "note": "A companion page to a 103-page PDF that is not in the reading list; the page itself only describes the diagnostic and states no fact about any system. The parent may want the PDF read."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The World Bank's ID4D diagnostic (2023, field visit to the East region by March 2023) states that civil registration is essentially decentralised and paper-based: the registrar hand-copies each birth record six times across three paper registers, and there is no centralised, digitalised civil registry.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Civil registration system (primary and secondary civil registration centres)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The diagnostic states that several partner organisations have piloted different digital systems to record births and issue digital birth certificates, while BUNEC has not yet decided on the architecture or the solution to deploy nationally; no digital recording of deaths is described.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Partner pilot systems for recording births (including OpenCRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "pilot",
+      "fact": "The diagnostic states that digital recording of births exists only as partner pilots: GIZ and KOICA's PAMEC Phase 2 in pilot municipalities of the North, Southwest and Littoral regions, and OpenCRVS piloted by UNDP in the Far North and now by GIZ; no number of pilot offices is given, against 3,154 civil registration offices stated (374 principal, 2,522 secondary, 58 abroad).",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Partner pilot systems for recording births (including OpenCRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:partner",
+      "fact": "The diagnostic states that the few, fragmented digitalisation efforts in civil registration have been carried out through development partners (UNDP, GIZ, KOICA, EU), using different technologies and data standards.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Partner pilot systems for recording births (including OpenCRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The diagnostic states that BUNEC, the national civil status office under MINDDEVEL, is tasked by the 2018 Schéma Directeur with creating a shared IT system to record births, that efforts towards a centralised BUNEC-managed registry begun in 2011 are still at an early stage, and that no clear architecture for the national database is in place.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National civil status IT system and national civil status database (Fichier national d'état civil), planned",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The diagnostic states that the government adopted the Civil Status Rehabilitation Strategic Plan 2018-2023 and, in 2018, the Schéma Directeur de l'Informatisation du Système National de l'État Civil, under which the digital system is to be deployed first in the main civil status centres only while secondary centres continue with paper declarations.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "National civil status IT system and national civil status database (Fichier national d'état civil), planned",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The diagnostic states that digitalisation has been financed by development partners (the largest, GIZ and KOICA's PAMEC Phase II, about US$8 million; most others under US$2 million), that funding for nationwide scale-up of pilots has not emerged, and that a sustainable funding mechanism and a sufficient State budget allocation are lacking.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Partner pilot systems for recording births (including OpenCRVS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The diagnostic states that GIZ is now piloting OpenCRVS, the system UNDP piloted in the Far North some years earlier.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "OpenCRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The diagnostic states that as of 2023 the steering committee of the civil registration rehabilitation programme (PRE2C, set up in 2015) is no longer active: it was financed through partner projects rather than its own budget, and stopped when those projects closed.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Civil registration rehabilitation programme (PRE2C)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "OpenCRVS",
+      "country_label": "OpenCRVS",
+      "class": "civil",
+      "platform": "OpenCRVS",
+      "owner": "UNDP (earlier pilot), GIZ (current pilot)",
+      "tiers": "Pilot: Far North under UNDP; GIZ pilot location not stated"
+    },
+    {
+      "system": "PAMEC Phase 2 digital civil registration tools",
+      "country_label": "Programme d'appui à la modernisation de l'état civil (PAMEC II)",
+      "class": "civil",
+      "platform": "",
+      "owner": "GIZ and KOICA, with BUNEC and MINDDEVEL",
+      "tiers": "Pilot municipalities in the North, Southwest and Littoral regions"
+    },
+    {
+      "system": "National civil status IT system and national civil status database",
+      "country_label": "Fichier national d'état civil (Schéma Directeur de l'Informatisation du Système National de l'État Civil, 2018)",
+      "class": "civil",
+      "platform": "",
+      "owner": "BUNEC, under MINDDEVEL",
+      "tiers": "Planned: main civil status centres first, secondary centres to stay on paper; not deployed, architecture undecided"
+    },
+    {
+      "system": "Municipal-level civil registration management system",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "World Bank Community Development Program Support Project, phases II and III (closed 2013 and 2022)",
+      "tiers": "Municipal level"
+    },
+    {
+      "system": "EU scanning and indexing of existing paper registers",
+      "country_label": "PROCIVIS",
+      "class": "archive",
+      "platform": "",
+      "owner": "EU",
+      "tiers": "Pilot in Yaoundé; pilot in 8 councils with scanners, computers and servers supplied"
+    },
+    {
+      "system": "Scanning and indexing of past certificates at main civil status centres",
+      "country_label": "Schéma Directeur, 2018",
+      "class": "archive",
+      "platform": "",
+      "owner": "BUNEC",
+      "tiers": "Planned for each main civil status centre"
+    },
+    {
+      "system": "DHIS2 birth declarations",
+      "country_label": "DHIS2",
+      "class": "notification",
+      "platform": "DHIS2",
+      "owner": "MINSANTE",
+      "tiers": "DHIS2 operational in 80 percent of public hospitals; birth declarations entered and shared with BUNEC, mostly for statistics"
+    },
+    {
+      "system": "Hospital birth registration automation pilots",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Pilot programmes in hospitals, not scaled up for lack of resources"
+    },
+    {
+      "system": "Mobile registration units and birth registration campaigns",
+      "country_label": "",
+      "class": "outreach",
+      "platform": "",
+      "owner": "UNDP with the Government of Cameroon; State budget of FCFA 500 million planned for 2022 for a mass birth registration campaign",
+      "tiers": "Remote areas"
+    },
+    {
+      "system": "National identification system",
+      "country_label": "Carte nationale d'identité (CNI)",
+      "class": "identity",
+      "platform": "Thales (formerly Gemalto): enrolment application, AFIS, card printing",
+      "owner": "DGSN, through CNPTI",
+      "tiers": "296 identification centres (236 stationary, 60 mobile); central processing; production centres in Yaoundé and Garoua"
+    },
+    {
+      "system": "DGSN digital archive of birth certificate copies",
+      "country_label": "",
+      "class": "identity",
+      "platform": "",
+      "owner": "DGSN",
+      "tiers": "Central: copies of 8 million birth certificates archived after authenticity checks"
+    },
+    {
+      "system": "Unique personal identification number at birth and civil registration to identity link",
+      "country_label": "NIPU (Numéro d'identification personnel unique)",
+      "class": "exchange",
+      "platform": "",
+      "owner": "BUNEC (planned); DGSN for the identity number",
+      "tiers": "Planned; the diagnostic states there is no interoperability between the civil registration and identity systems"
+    }
+  ],
+  "note": "Read from the artefact PDF. The Read tool could not render the PDF (pdftoppm is not installed), so its text was extracted with pdftotext to the session scratchpad and read whole, 103 pages. The PDF is dated 2023 by its own copyright line (diagnostic begun August 2022, field visit by March 2023), not the stub's 2024-01-01. The stated office counts (374 principal, 2,522 secondary, 58 abroad) sum to 2,954, not the 3,154 stated. What the civil registration law and the 2021 draft law prescribe is left out as governance that places nothing."
 }

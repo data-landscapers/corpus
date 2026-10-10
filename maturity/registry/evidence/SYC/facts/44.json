@@ -1,8 +1,11 @@
 {
   "slug": "2022-11-01 Seychelles Civil Status Act Cap 34 (as at 1 Nov 2022)",
-  "facts": [],
-  "systems": [
-    {"system": "CertExpress", "country_label": "CertExpress", "class": "certificate", "platform": "", "owner": "", "tiers": ""}
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "The Civil Status Act as in force on 1 November 2022 makes the Chief Officer of Civil Status, appointed by the President and answering to the Minister responsible for civil status, keeper of the registers of births and deaths, with a Central Civil Status Office in Victoria and offices at Praslin, La Digue and Anse Royale; section 107A, inserted by Act 45 of 2021, lets him accept statements, forms and signatures through an electronic medium, while the registers themselves are prescribed as numbered pages kept in duplicate.", "as_of": "2022-11-01", "date_precision": "day", "system": "Registers of the civil status", "class": "civil"}
   ],
-  "note": "A two-line companion page for the Civil Status Act PDF; the statute's text is not in the file, which says only that the Act underpins civil registration and the CertExpress certificate service."
+  "systems": [
+    {"system": "Registers of the civil status", "country_label": "Registers of the civil status", "class": "civil", "platform": "", "owner": "Chief Officer of Civil Status", "tiers": "Central Civil Status Office, Victoria; offices at Praslin, La Digue and Anse Royale; police stations on the Outer Islands for deaths"},
+    {"system": "Electronic storage registers", "country_label": "Electronic storage registers (section 18A)", "class": "archive", "platform": "", "owner": "Chief Officer of Civil Status", "tiers": "All registers not in use, reproduced into digital format"}
+  ],
+  "note": "Read from the artefact PDF. A statute: what it prescribes is recorded as governance only, and it gives no made, events or offices fact. It names no software and does not say whether any office enters records digitally. CertExpress, named in the stub, is not in the Act."
 }

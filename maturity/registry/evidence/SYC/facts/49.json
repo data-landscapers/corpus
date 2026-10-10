@@ -1,6 +1,8 @@
 {
   "slug": "2018-01-01 Digital Government in Seychelles - Analysis and Recommendations (draft, World Bank)",
   "facts": [],
-  "systems": [],
-  "note": "A companion page for a World Bank draft held as a PDF; the report's text is not in the file, which states nothing about Seychelles beyond the title."
+  "systems": [
+    {"system": "National Identity Numbers system", "country_label": "National Identity Numbers system", "class": "identity", "platform": "", "owner": "", "tiers": "National: a comprehensive identity database with widely held cards, not usable to prove identity online"}
+  ],
+  "note": "Read from the artefact PDF. A 2018 World Bank draft on digital government in general: it lists the Department of Immigration and Civil Status among those interviewed and says nothing of how births or deaths are registered; its table of 13 e-services for 2017 holds none for civil status."
 }

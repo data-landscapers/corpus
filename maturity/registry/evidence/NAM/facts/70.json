@@ -2,7 +2,12 @@
   "slug": "2019-01-01 Identity and Electronic-Digital Government - Namibia (presentation, Melanie Tjijenda)",
   "facts": [],
   "systems": [
-    {"system": "National Population Registration System", "country_label": "National Population Registration System", "class": "", "platform": "", "owner": "", "tiers": ""}
+    {"system": "eNational Population Registration System (eNPRS)", "country_label": "eNPRS", "class": "civil", "platform": "", "owner": "", "tiers": "not stated; the timeline dates its implementation to 2014 and the architecture slide gives it a civil registration and identity database of unique profiles"},
+    {"system": "eBirth Notification System", "country_label": "eBirth Notification System", "class": "notification", "platform": "", "owner": "Ministry of Health and Ministry of Home Affairs, as the slide's two lanes", "tiers": "health side notifies, Home Affairs registers from the notification; about 73,000 notifications by June 2019"},
+    {"system": "eDeath Notification System", "country_label": "eDeath Notification System", "class": "notification", "platform": "", "owner": "health, mortuary and Home Affairs, as the slide's three lanes", "tiers": "health facility and mortuary notify, Home Affairs registers; about 8,000 notifications by June 2019"},
+    {"system": "Identity Document Tracking System (NPRS)", "country_label": "Identity Document Tracking System", "class": "identity", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Automated Fingerprint ID System (AFIS)", "country_label": "AFIS", "class": "identity", "platform": "", "owner": "", "tiers": "dated 2000-2004 on the timeline"},
+    {"system": "NamX (Interoperability Framework)", "country_label": "NamX", "class": "exchange", "platform": "", "owner": "", "tiers": "links eNPRS and eID to health, social protection, electoral and banking systems; framework implemented 2015/2016 under an agreement with eGA and Cybernetica of Estonia"}
   ],
-  "note": "The file holds a one-sentence description of the presentation, not its content; the system is named with no account of what it does."
+  "note": "Read from the artefact PDF. A 19-slide ID4Africa presentation of June 2019: it names eNPRS and draws its architecture but states nothing on which offices enter records, how the record is made, or who owns and funds the system."
 }

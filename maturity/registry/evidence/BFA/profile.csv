@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BFA,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026,BFA-001;BFA-002;BFA-008,BFA-007=owner:ministry;BFA-011=owner:ministry;BFA-009=finance:not-stated;BFA-022=finance:donor;BFA-040=finance:domestic;BFA-017=owner:ministry;BFA-019=finance:domestic;BFA-025=owner:ministry;BFA-018=plan:current;BFA-026=plan:current;BFA-030=owner:ministry;BFA-035=owner:ministry;BFA-036=plan:current;BFA-037=finance:donor;BFA-038=owner:vendor,
-BFA,civil,events,coverage,B;D,2026-08-31,BFA-003;BFA-021;BFA-023,BFA-027=B;BFA-032=none,
-BFA,civil,made,coverage,connected,2026-08-31,BFA-004;BFA-015;BFA-024;BFA-028,BFA-014=paper;BFA-031=paper,
-BFA,civil,last12,qualifier,advancing,2026-08-31,BFA-005;BFA-010;BFA-012,,
-BFA,civil,offices,coverage,count:170,2025,BFA-006,BFA-020=pilot;BFA-039=none;BFA-016=count:116;BFA-029=not-published;BFA-033=none;BFA-034=pilot,
+BFA,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026,BFA-001;BFA-002;BFA-008,BFA-007=owner:ministry;BFA-011=owner:ministry;BFA-009=finance:not-stated;BFA-022=finance:donor;BFA-040=finance:domestic;BFA-017=owner:ministry;BFA-019=finance:domestic;BFA-025=owner:ministry;BFA-018=plan:current;BFA-026=plan:current;BFA-030=owner:ministry;BFA-047=owner:ministry;BFA-048=finance:donor;BFA-035=owner:ministry;BFA-036=plan:current;BFA-037=finance:donor;BFA-038=owner:vendor,
+BFA,civil,events,coverage,B;D,2026-08-31,BFA-003;BFA-021;BFA-023,BFA-027=B;BFA-042=B;BFA-032=none,
+BFA,civil,made,coverage,connected,2026-08-31,BFA-004;BFA-015;BFA-024;BFA-028;BFA-043,BFA-014=paper;BFA-031=paper,
+BFA,civil,last12,qualifier,advancing,2026-08-31,BFA-005;BFA-010;BFA-012;BFA-044,,
+BFA,civil,offices,coverage,share:5.0%,2021,BFA-046,BFA-006=count:170;BFA-020=pilot;BFA-039=none;BFA-016=count:116;BFA-029=not-published;BFA-045=share:1.9%;BFA-041=pilot;BFA-033=none;BFA-034=pilot,

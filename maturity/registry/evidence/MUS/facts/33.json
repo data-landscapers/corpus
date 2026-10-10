@@ -1,6 +1,116 @@
 {
   "slug": "2024-01-01 Mauritius Civil Status Division Annual Report on Performance FY2023-2024",
-  "facts": [],
-  "systems": [],
-  "note": "The held file is a one-paragraph excerpt describing the report; it names no system and states nothing about how offices register."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The Civil Status Division's report for financial year 2023/2024 states that its computerised CSD System, operational since November 2001, provides for the registration of births, deaths and marriages and stores all life-event data of Mauritian citizens in the CSD database.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "CSD System (Civil Status Database)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The Division states that the CSD System registers births and deaths and generates each citizen's unique identification number at the time of registration of birth, the record being stored in the Division's single Civil Status Database; it does not describe the entry office by office.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "CSD System (Civil Status Database)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The CSD System is the Civil Status Division's own, the Division being under the Prime Minister's Office and headed by the Registrar of Civil Status, with an IT Unit of system analysts on its staff.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "CSD System (Civil Status Database)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "The Division's Strategic Directions 2023/2024 name the revamping of the CSD System and digitalisation of CSD services, and its Way Forward lists completing the revamping of the CSD/CPD System.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "CSD System (Civil Status Database)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The Division reports actual expenditure of Rs 387,863,137 against government budget estimates of Rs 445,600,000 for 2023/2024, covering IT equipment, its maintenance and the digitalisation of records, with no donor named; no line is given for the CSD System itself.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "CSD System (Civil Status Database)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Division reports for financial year 2023/2024 that the revamping of the Civil Status Database is under process, a new version of the linked Central Population Database having been operational since July/August 2023.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "CSD System (Civil Status Database)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "CSD System (Civil Status Database)",
+      "country_label": "CSD System; CSD computerized system; Civil Status Database",
+      "class": "civil",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "Not stated office by office; the Division comprises the Central Civil Status Office in Port Louis and 36 Civil Status Offices (33 in Mauritius, 2 in Rodrigues, 1 in Agalega). Generates the national identification number at birth registration."
+    },
+    {
+      "system": "Central Population Database (CPD)",
+      "country_label": "Central Population Database",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "Central; live since 2014, new version since July/August 2023; holds a subset of citizen data from the CSD system and the National Identity Card system for sharing among government agencies"
+    },
+    {
+      "system": "Info-Highway",
+      "country_label": "Info-Highway",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "Central; channel by which the Division provides data to public bodies"
+    },
+    {
+      "system": "National Identity Card (NIC/MNIC) system",
+      "country_label": "Mauritius National Identity Card system",
+      "class": "identity",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "Not stated; under revamping in 2023/2024"
+    },
+    {
+      "system": "Digitalisation of civil status records",
+      "country_label": "Digitalisation project of the civil status records",
+      "class": "archive",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "Central; registers from 1811 onward, about 1.5 million records captured (births 1861-1919, deaths 1861-2001), about 85,000 marriage records still to capture; pre-November 2001 events were earlier keyed from registers and need data cleansing"
+    },
+    {
+      "system": "Online services for civil status extracts",
+      "country_label": "online services",
+      "class": "certificate",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "Online application for civil status extracts, to be promoted through the media"
+    }
+  ],
+  "note": "Read from the artefact PDF. The Read tool could not render PDFs here (pdftoppm missing), so the full 26-page text was extracted with pdftotext and read whole; the two expenditure chart pages (22-23) are images with no text. Dated to financial year 2023/2024, not the stub's 2024-01-01. The report states no count or share of offices using the system, so there is no offices fact."
 }

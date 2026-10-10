@@ -1,6 +1,136 @@
 {
   "slug": "2020-01-01 CRVS Systems Snapshot - Ethiopia (ESEC)",
-  "facts": [],
-  "systems": [],
-  "note": "The file is a 70-word catalogue stub describing the snapshot's scope; the 16-page PDF's text is not in it, so it states nothing about how or where events are registered."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:100",
+      "fact": "The snapshot, built on a questionnaire the Federal Vital Events Registration Agency completed in December 2018, states that only 100 kebele civil registration offices, all in the Addis Ababa City Administration, use computers to register vital events and issue certificates; it counts 18,617 kebeles, of which 16,883 (about 90 per cent, 92 per cent of them rural) had started civil registration.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "Computer registration in Addis Ababa kebele civil registration offices",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "local",
+      "fact": "The 100 Addis Ababa kebele offices register vital events and issue certificates on computers at the office; the snapshot describes no national electronic register, and lists a centralised electronic civil registration system as something the World Bank, Gavi and the GFF are supporting to build.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "Computer registration in Addis Ababa kebele civil registration offices",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "Outside the 100 Addis Ababa offices registration is on paper: the snapshot says paper-based registration began in most of the country in mid-2016, that the kebele records each event in a bound booklet whose copies go up to the regional office, FVERA and the CSA, and that FVERA names paper-based registration its first challenge.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "Kebele civil registration (FVERA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The 100 computerised Addis Ababa offices are said to register 'vital events' with no event named; the snapshot gives the events the civil registration system covers as birth, marriage, divorce, death and adoption.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "Computer registration in Addis Ababa kebele civil registration offices",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "Civil registration is run by the Federal Vital Events Registration Agency under the Ministry of Peace, with regional vital events registration agencies and a civil status officer in each kebele; the organisational chart is dated 15 December 2018.",
+      "as_of": "2018-12",
+      "date_precision": "month",
+      "system": "Kebele civil registration (FVERA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "plan:current",
+      "fact": "A costed five-year strategic plan for 2014 to 2018 names automation of the civil registration process as a high priority, costed at US$14,074,000 of a US$17,874,000 total (source: FVERA); FVERA had started preparing the 2019-2023 plan.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Kebele civil registration (FVERA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "FVERA reports a government budget allocation of US$77,000 for 2014 to 2018 against an estimated plan cost of US$18 million, and an expected government allocation of US$1,407,400 towards automation, leaving a gap of US$12,666,600.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Kebele civil registration (FVERA)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "Development partners provided US$2.5 million over 2014 to 2018 (FVERA); the World Bank, Gavi and the Global Financing Facility support building a centralised electronic civil registration system and procuring office equipment, with UNICEF, UNECA, the Netherlands and UNFPA also supporting.",
+      "as_of": "2018",
+      "date_precision": "year",
+      "system": "Kebele civil registration (FVERA)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Computer registration in Addis Ababa kebele civil registration offices",
+      "country_label": "",
+      "class": "civil",
+      "platform": "",
+      "owner": "Federal Vital Events Registration Agency; Addis Ababa City Administration",
+      "tiers": "100 kebele civil registration offices in Addis Ababa"
+    },
+    {
+      "system": "Kebele civil registration (FVERA)",
+      "country_label": "Office of Civil Status",
+      "class": "civil",
+      "platform": "paper registers, four copies",
+      "owner": "Federal Vital Events Registration Agency, Ministry of Peace",
+      "tiers": "16,883 of 18,617 kebeles; copies to regional agencies, FVERA and the CSA"
+    },
+    {
+      "system": "Centralised electronic civil registration system",
+      "country_label": "",
+      "class": "civil",
+      "platform": "",
+      "owner": "Federal Vital Events Registration Agency, supported by the World Bank, Gavi and the GFF",
+      "tiers": "to be built; no tiers stated"
+    },
+    {
+      "system": "Health facility notification of births and deaths",
+      "country_label": "",
+      "class": "notification",
+      "platform": "paper notification forms prepared by the Federal Ministry of Health with FVERA",
+      "owner": "Federal Ministry of Health",
+      "tiers": "health facilities, notifying the kebele civil registration office"
+    },
+    {
+      "system": "Mobile phone notification",
+      "country_label": "",
+      "class": "notification",
+      "platform": "",
+      "owner": "Federal Vital Events Registration Agency",
+      "tiers": "intended only; not introduced"
+    },
+    {
+      "system": "CSA vital statistics compilation from register copies",
+      "country_label": "Vital Statistics Division",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Central Statistical Agency",
+      "tiers": "national; codes and keys in the paper copies received from the registration agencies"
+    }
+  ],
+  "note": "Read from the artefact PDF. Its text was taken with pdftotext, all 16 pages, because the Read tool could not render the PDF (pdftoppm missing). Facts are dated December 2018, when FVERA completed the questionnaire; the PDF carries a 2019 copyright. The snapshot also states that Ethiopia has no national identification system. The four-copy paper procedure is what Proclamation 760/2012 prescribes and is recorded only where the snapshot describes it as practice."
 }

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NAM,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2025-12,NAM-005;NAM-010;NAM-020,NAM-009=owner:ministry;NAM-019=owner:ministry;NAM-015=owner:ministry;NAM-028=owner:ministry;NAM-029=finance:domestic;NAM-021=plan:current;NAM-006=owner:ministry;NAM-030=plan:current,
-NAM,civil,events,coverage,B;D,2024-06-26,NAM-008;NAM-017,NAM-023=B;D;NAM-011=B;D;NAM-027=B;D;NAM-022=B;D;NAM-032=B;D;NAM-007=B,
-NAM,civil,made,coverage,connected,2024-04,NAM-012;NAM-013;NAM-018;NAM-024;NAM-033,,
-NAM,civil,last12,qualifier,advancing,2025-12,NAM-004,,
-NAM,civil,offices,coverage,share:100%,2023-09,NAM-025,NAM-014=not-published;NAM-026=not-published;NAM-016=not-published;NAM-034=count:55;NAM-031=pilot,
+NAM,civil,governance,qualifier,owner:ministry;plan:current;finance:domestic,2025-12,NAM-005;NAM-010;NAM-020,NAM-009=owner:ministry;NAM-019=owner:ministry;NAM-015=owner:ministry;NAM-028=owner:ministry;NAM-029=finance:domestic;NAM-021=plan:current;NAM-006=owner:ministry;NAM-043=owner:ministry;NAM-048=owner:ministry;NAM-044=plan:current;NAM-049=plan:current;NAM-030=plan:current;NAM-038=owner:ministry,
+NAM,civil,events,coverage,B;D,2024-06-26,NAM-008;NAM-017,NAM-023=B;D;NAM-011=B;D;NAM-036=B;D;NAM-027=B;D;NAM-042=B;D;NAM-047=B;D;NAM-022=B;D;NAM-032=B;D;NAM-007=B,
+NAM,civil,made,coverage,connected,2024-04,NAM-012;NAM-013;NAM-018;NAM-024;NAM-033;NAM-037;NAM-041;NAM-046,,
+NAM,civil,last12,qualifier,advancing,2025-12,NAM-004,NAM-039=regressing,
+NAM,civil,offices,coverage,share:100%,2023-09,NAM-025,NAM-014=not-published;NAM-026=not-published;NAM-016=not-published;NAM-034=count:55;NAM-040=equipped:58.5%;NAM-045=equipped:58.5%;NAM-035=equipped:95%;NAM-031=pilot,

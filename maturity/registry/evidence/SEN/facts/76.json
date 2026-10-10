@@ -2,7 +2,9 @@
   "slug": "2023-05-01 Children's Right to Identity in Senegal (CHIP CRC submission)",
   "facts": [],
   "systems": [
-    {"system": "Nékkal programme", "country_label": "programme Nékkal, named as the modernisation of civil registration", "class": "", "platform": "", "owner": "", "tiers": ""}
+    {"system": "Nékkal programme", "country_label": "« Nékkal » programme, the modernisation of the civil registration system, which seeks to improve digitalisation of the current system", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Dispositif de détection et d'enregistrement à l'état-civil des élèves sans acte de naissance (etatcivil.education.sn, SIMEN)", "country_label": "strategy and protocol for detecting and registering pupils without birth certificates, with birth registration integrated into the education ministry's central statistical database", "class": "outreach", "platform": "SIMEN", "owner": "Ministry of Education, with UNICEF support", "tiers": "schools: school directors and committees"},
+    {"system": "Audiences foraines", "country_label": "special birth registration operations (audience foraine) held by courts", "class": "outreach", "platform": "", "owner": "courts", "tiers": ""}
   ],
-  "note": "The held page is an excerpt summarising the submission: shares of children unregistered or without civil-status documents (22.3% of under-fives in 2019) and a mention of the Nékkal programme by name, with no description of what it does and nothing on how offices register."
+  "note": "Read from the artefact PDF. All three pages read (text extracted with PyMuPDF, the Read tool's PDF renderer being unavailable). The submission gives shares of children unregistered or without civil-status documents (22.3% of under-fives in 2019; 18.9% of elementary pupils in 2021) and awareness-raising counts, and names the Nékkal programme only as seeking to improve digitalisation, with no statement of what it does, which events it records, how the record is made or in which offices; a share of births registered places nothing, so there is no fact."
 }

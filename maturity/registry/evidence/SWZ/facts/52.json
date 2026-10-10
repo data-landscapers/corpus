@@ -1,6 +1,54 @@
 {
   "slug": "2023-04-01 Digitalization of CRVS Systems in Africa (AfDB & COMESA)",
-  "facts": [],
-  "systems": [],
-  "note": "The file is a short companion page for a PDF artefact (body_completeness: excerpt): it describes the AfDB and COMESA study in general terms and states nothing about Eswatini; the study's own text is not in the file read."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "not-published",
+      "fact": "The AfDB and COMESA assessment, from countries' own questionnaire answers collected October 2022 to April 2023, lists Eswatini among ten countries where all civil registration offices countrywide have digitised databases and all entry of vital events is done electronically; it gives no count of offices.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "CRVS IT system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The AfDB and COMESA assessment (answers collected October 2022 to April 2023) lists Eswatini among the countries where all registration records are transferred electronically from local offices to regional offices and on to a central office, with entry of vital events done electronically in every office.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "CRVS IT system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The AfDB and COMESA assessment's statement that Eswatini's records move electronically from local offices to the centre is made of birth and death records, and it says all entry of vital events there is electronic (answers collected October 2022 to April 2023).",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "CRVS IT system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "CRVS IT system",
+      "country_label": "",
+      "class": "civil",
+      "platform": "not named; data hosting outsourced, one of six countries the study lists as not hosting their own data",
+      "owner": "",
+      "tiers": "all civil registration offices at district level countrywide"
+    },
+    {
+      "system": "Link between the CRVS system and the patient-level electronic health record system",
+      "country_label": "",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "one of six countries the study lists with interoperability between the two systems"
+    }
+  ],
+  "note": "Read from the artefact PDF. A 43-country questionnaire survey reporting countries' own answers; no system is named for Eswatini. Its row in the software-capabilities table (Table 8) cannot be read reliably from the PDF's text layer and is not used."
 }

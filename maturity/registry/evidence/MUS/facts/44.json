@@ -1,6 +1,96 @@
 {
   "slug": "2019-06-01 The CRVS and Identity Eco-System in the Republic of Mauritius (presentation)",
-  "facts": [],
-  "systems": [],
-  "note": "The held file is a two-paragraph description of the deck, not its slides: it says the Civil Status Division registers vital events and that these feed the national identity system, names no system and does not say how the record is made."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The Registrar of Civil Status states in June 2019 that all civil events have been registered online since November 2001, the Division's services being registration of birth, death and marriage, with 100 per cent registration claimed.",
+      "as_of": "2019-06",
+      "date_precision": "month",
+      "system": "CSD system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The Registrar states that civil events are registered online since November 2001 at computerised civil status offices in the district of the event or residence, a national identity number being computer generated on each birth registered and the data shared through the Central Population Database.",
+      "as_of": "2019-06",
+      "date_precision": "month",
+      "system": "CSD system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "count:35",
+      "fact": "The Registrar lists 35 Civil Status Offices around the island by district, including two in Rodrigues (the cover slide says 33), describes them as computerised civil status offices and says all civil events are registered online; the deck does not say in terms that every office enters records.",
+      "as_of": "2019-06",
+      "date_precision": "month",
+      "system": "CSD system",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The system is presented as the Civil Status Division's own, the Division being under the Prime Minister's Office and headed by the Registrar of Civil Status, who gives the presentation.",
+      "as_of": "2019-06",
+      "date_precision": "month",
+      "system": "CSD system",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "CSD system",
+      "country_label": "CSD system; CVRS system",
+      "class": "civil",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "35 Civil Status Offices listed by district (Port Louis headquarters and sub office, eight other districts, Rodrigues); online since November 2001; generates the national identity number at birth registration and deactivates it at death; re-engineering listed as way forward"
+    },
+    {
+      "system": "Central Population Database (CPD)",
+      "country_label": "Central Population Database",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "Central; servers at the Government Online Data Centre; holds latest data of citizens for sharing"
+    },
+    {
+      "system": "Info Highway",
+      "country_label": "Info Highway",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "Central; 30 subscribers connected to CSD and 45 CSD e-services, 86 subscribers and 401 e-services nationwide; shares CSD data with ministries and departments"
+    },
+    {
+      "system": "Mauritius National Identity Card (MNIC) system",
+      "country_label": "Mauritius National Identity Card; electronic NIC system",
+      "class": "identity",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "3 MNIC units and a mobile team for bedridden citizens; electronic since 2009, smart card since 2013; 1,666,808 smart cards issued to date"
+    },
+    {
+      "system": "Online application for civil status extracts",
+      "country_label": "E-Services",
+      "class": "certificate",
+      "platform": "",
+      "owner": "Civil Status Division, Prime Minister's Office",
+      "tiers": "Listed as way forward, not stated as live"
+    },
+    {
+      "system": "Link from Ministry of Health and private clinics to the Civil Status Division",
+      "country_label": "",
+      "class": "notification",
+      "platform": "",
+      "owner": "",
+      "tiers": "Planned, to reduce late declaration of birth; hospitals and clinics currently issue a notification of birth"
+    }
+  ],
+  "note": "Read from the artefact PDF. The Read tool could not render PDFs here (pdftoppm missing), so the deck's full text was extracted with pdftotext and read whole; any figure held only in a slide image is not captured. Dated to the deck's own 18-21 June 2019. The deck gives no share of offices: the offices fact is a count, resting on 35 offices listed, 'computerised civil status offices' and 'all civil events registered online'."
 }

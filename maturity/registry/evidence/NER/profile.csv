@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026,NER-003;NER-034;NER-035,NER-001=owner:ministry;NER-002=finance:donor;NER-005=owner:ministry;NER-006=finance:donor;NER-008=owner:ministry;NER-010=owner:ministry;NER-011=finance:donor;NER-012=plan:current;NER-015=finance:donor;NER-016=owner:ministry;NER-019=finance:donor;NER-020=owner:ministry;NER-021=owner:ministry;NER-022=finance:donor;NER-026=owner:ministry;NER-029=owner:ministry;NER-037=plan:current;NER-038=finance:donor,
-NER,civil,events,coverage,none,2024-12,NER-041,,
-NER,civil,made,coverage,connected,2026-04-22,NER-028,NER-040=paper,
-NER,civil,last12,qualifier,advancing,2026-09-03,NER-004;NER-007;NER-009;NER-013;NER-017;NER-023;NER-024;NER-025;NER-030;NER-039,,
-NER,civil,offices,coverage,share:37.6%,2026,NER-033,NER-014=equipped:68%;NER-018=count:4;NER-027=count:102;NER-036=count:103,
+NER,civil,governance,qualifier,owner:ministry;plan:current;finance:donor,2026,NER-003;NER-034;NER-035,NER-001=owner:ministry;NER-002=finance:donor;NER-005=owner:ministry;NER-006=finance:donor;NER-008=owner:ministry;NER-010=owner:ministry;NER-011=finance:donor;NER-012=plan:current;NER-015=finance:donor;NER-016=owner:ministry;NER-019=finance:donor;NER-020=owner:ministry;NER-021=owner:ministry;NER-022=finance:donor;NER-026=owner:ministry;NER-029=owner:ministry;NER-037=plan:current;NER-038=finance:donor;NER-047=owner:ministry;NER-055=owner:ministry;NER-056=finance:domestic,
+NER,civil,events,coverage,B;D,2023,NER-046;NER-051,NER-041=none;NER-053=none,
+NER,civil,made,coverage,connected,2026-04-22,NER-028;NER-045,NER-040=paper;NER-050=keyed-elsewhere;NER-052=paper,
+NER,civil,last12,qualifier,advancing,2026-09-03,NER-004;NER-007;NER-009;NER-013;NER-017;NER-023;NER-024;NER-025;NER-030;NER-039;NER-048,,
+NER,civil,offices,coverage,share:37.6%,2026,NER-033,NER-014=equipped:68%;NER-018=count:4;NER-027=count:102;NER-036=count:103;NER-042=share:38%;NER-043=equipped:49%;NER-044=count:5;NER-049=not-published;NER-054=none,

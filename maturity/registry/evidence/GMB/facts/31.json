@@ -1,6 +1,124 @@
 {
   "slug": "2025-10-20 ID4D-Diagnostic of ID Systems in The Gambia - Presentation (World Bank)",
-  "facts": [],
-  "systems": [],
-  "note": "The file is a companion page to a PDF slide deck (body_completeness: excerpt) and holds a catalogue description only; the deck's content is not in it, so nothing is stated that can be recorded. The eCRVS is named in the description with no account of what it does."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The World Bank's 2025 diagnostic deck gives the Ministry of Health the mandate for birth registration and ownership of its data, through the Registrar General of Births and Deaths, and says the government is taking over the contract for the eCRVS, which is the vendor WCC's proprietary HERA product on a perpetual licence; the deck is dated 2025 and gives no closer date.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "eCRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank deck lists its own support as the deployment of the eCRVS and its integration with the electronic ID system under lending operation P173287, ending in August 2025, device procurement for registration centres, and cloud hosting and satellite connectivity financed under WARDIP; it states no domestic budget line.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "eCRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B",
+      "fact": "The World Bank deck states that the eCRVS birth module is in operation and a marriage module has been developed, and names no death module in operation; the deck is dated 2025 and gives no closer date.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "eCRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The World Bank deck describes civil registration as centralized and carried out locally by Ministry of Health staff in each district, on the eCRVS introduced in 2023, with health facilities and civil registration offices drawn as registration points sending data to a centralized register; the deck is dated 2025 and does not say in so many words that each point keys the record itself.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "eCRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "not-published",
+      "fact": "The World Bank deck counts 258 health facilities and 79 civil registration centres as the points where registration is carried out, and gives no figure for how many of them enter records in the eCRVS; the deck is dated 2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "eCRVS",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The World Bank deck states that user acceptance testing of the integrated eCRVS and electronic ID, to produce health insurance cards, was completed in April 2025, with testing for driving licences and ID cards to follow in May 2025.",
+      "as_of": "2025-04",
+      "date_precision": "month",
+      "system": "eCRVS",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "eCRVS",
+      "country_label": "electronic Civil Registration and Vital Statistics (eCRVS) system",
+      "class": "civil",
+      "platform": "HERA (WCC), proprietary, perpetual licence; cloud hosting on AWS",
+      "owner": "Ministry of Health, Registrar of Births and Deaths",
+      "tiers": "Centralized register; 258 health facilities and 79 civil registration centres as registration points; mobile registration by health workers; assigns a 12-digit NIN"
+    },
+    {
+      "system": "eCRVS mass registration campaign",
+      "country_label": "mass registration",
+      "class": "outreach",
+      "platform": "eCRVS",
+      "owner": "Ministry of Health",
+      "tiers": "Began 2 August 2022 in the Greater Banjul Area; August 2022 to February 2023 registered 1,167,460 people of all ages, issued birth certificates and national health insurance cards"
+    },
+    {
+      "system": "Online portal for registration",
+      "country_label": "online portal for registration",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "In the works"
+    },
+    {
+      "system": "National ID system",
+      "country_label": "biometric national ID card system",
+      "class": "identity",
+      "platform": "Semlex proprietary system, with ABIS, since October 2018",
+      "owner": "Ministry of Interior, Department of Immigration",
+      "tiers": "Centralized; 6 fixed and 12 mobile local enrolment centres"
+    },
+    {
+      "system": "GAMBIS",
+      "country_label": "Gambia Biometric Identification System (GAMBIS)",
+      "class": "identity",
+      "platform": "Innovatrics ABIS",
+      "owner": "",
+      "tiers": "Introduced July 2009"
+    },
+    {
+      "system": "eCRVS and eID integration",
+      "country_label": "integrated eCRVS/eID",
+      "class": "exchange",
+      "platform": "",
+      "owner": "Ministry of Health, Ministry of Interior and Ministry of Communications and Digital Economy, under a memorandum of understanding; NIN harmonisation MOU signed March 2024",
+      "tiers": "Under way; some data flow as of 2024; user acceptance testing completed April 2025"
+    },
+    {
+      "system": "eCRVS interoperability with eHRMIS and eNHIS",
+      "country_label": "eHRMIS; eNHIS",
+      "class": "exchange",
+      "platform": "",
+      "owner": "",
+      "tiers": "Interoperability effected between the eCRVS, the health human resource system and the national health insurance system"
+    }
+  ],
+  "note": "Read from the artefact PDF. A 2025 World Bank slide deck; the offices fact is not-published because the deck counts registration points without saying how many enter records in the eCRVS, and the made fact rests on a description and a diagram rather than an explicit statement of keying at the office."
 }

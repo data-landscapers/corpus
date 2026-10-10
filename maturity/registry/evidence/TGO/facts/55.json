@@ -3,13 +3,21 @@
   "facts": [],
   "systems": [
     {
-      "system": "e-ID (WURI Phase 2)",
-      "country_label": "e-ID; foundational unique identification",
+      "system": "eID Togo (foundational unique identification system, fID)",
+      "country_label": "eID Togo; e-ID",
       "class": "identity",
       "platform": "",
-      "owner": "ANID, created by the foundational unique identification law of September 2020; financed by the World Bank's WURI Phase 2 (P169594)",
-      "tiers": "national; goal of registering 8 million individuals by June 2024"
+      "owner": "Agence Nationale d'Identification (ANID); implementing agency the Ministère des Postes, de l'Economie Numérique et des Innovations; built by a contracted technology service provider and a registrations service provider; financed by the World Bank's WURI Phase 2 (P169594)",
+      "tiers": "proof of concept in four regions, October to November 2023; 8,000 individuals registered in a pilot by 15 December 2023; large-scale pilot under way; goal of 8 million registered by June 2024"
+    },
+    {
+      "system": "Link between the fID system and the civil registration system",
+      "country_label": "linking to the CR system",
+      "class": "exchange",
+      "platform": "",
+      "owner": "provided for by Law No. 2020-009 of 10 September 2020 on biometric identification",
+      "tiers": "in law only; the programme-wide indicator of newborn birth registrations assigned a unique number stands at 0 per cent on 15 December 2023, across the four countries"
     }
   ],
-  "note": "The held page is a short companion summary of the report, on the identity programme's legal scaffolding and enrolment goal; nothing on civil registration."
+  "note": "Read from the artefact PDF. All nine pages read as extracted text, since the Read tool could not render the PDF. The report covers the identity programme only: it names no civil registration system for Togo and states nothing on how or where births or deaths are registered, so there is no fact."
 }

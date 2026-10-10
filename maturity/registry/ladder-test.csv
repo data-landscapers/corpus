@@ -2,7 +2,7 @@ iso3,sub_indicator,rung,events,made,offices,offices_as_of,stopped_by
 AGO,civil,2,B,connected,none,2024,"a pilot, or no office said to be using it"
 BDI,civil,2,,paper,count:13,2026-08-10,paper at local offices beside a system elsewhere
 BEN,civil,2,B,connected,pilot,2026-07-16,"a pilot, or no office said to be using it"
-BFA,civil,3,B;D,connected,count:170,2025,no share of local offices over half
+BFA,civil,3,B;D,connected,share:5.0%,2021,no share of local offices over half
 BWA,civil,3,B;D,connected,count:13,2015-09,no share of local offices over half
 CAF,civil,1,none,paper,,,a dated statement of paper only
 CIV,civil,3,B;D,local,equipped:98%,2026-03-02,"a share of offices equipped, not registering"
@@ -23,7 +23,7 @@ GMB,civil,3,B,connected,count:79,2025,no share of local offices over half
 GNB,civil,3,B;D,connected,count:1,2026-04,no share of local offices over half
 GNQ,civil,2,B;D,paper,pilot,2018,paper at local offices beside a system elsewhere
 KEN,civil,2,B;D,connected,pilot,2018-12,"a pilot, or no office said to be using it"
-LBR,civil,2,B;D,connected,none,2019-01,"a pilot, or no office said to be using it"
+LBR,civil,3,B;D,connected,count:14,2015,no share of local offices over half
 LBY,civil,4,B;D,connected,share:100%,2022,the share is older than two years
 LSO,civil,3,B,connected,count:30,2026-08-05,no share of local offices over half
 MAR,civil,3,B;D,connected,equipped:100%,2024-10-29,"a share of offices equipped, not registering"
@@ -31,10 +31,10 @@ MDG,civil,3,B,connected,count:336,2025-12,no share of local offices over half
 MLI,civil,2,B;D,paper,pilot,2024-12-16,paper at local offices beside a system elsewhere
 MOZ,civil,3,B;D,connected,equipped:100%,2025,"a share of offices equipped, not registering"
 MRT,civil,3,B,connected,equipped:91.1%,2021-08-03,"a share of offices equipped, not registering"
-MUS,civil,3,B;D,connected,not-published,2025-09-06,no share of local offices over half
+MUS,civil,3,B;D,connected,count:35,2019-06,no share of local offices over half
 MWI,civil,3,B;D,connected,count:180,2026-10-09,no share of local offices over half
 NAM,civil,4,B;D,connected,share:100%,2023-09,the share is older than two years
-NER,civil,3,none,connected,share:37.6%,2026,no share of local offices over half
+NER,civil,3,B;D,connected,share:37.6%,2026,no share of local offices over half
 NGA,civil,3,B;D,connected,count:4011,2026-07-24,no share of local offices over half
 RWA,civil,5,B;D,connected,share:100%,2025,the rural share is not carried by a value
 SDN,civil,3,B,connected,count:1,2026-05-17,no share of local offices over half
@@ -47,9 +47,9 @@ SWZ,civil,3,B;D,connected,count:14,2022,no share of local offices over half
 SYC,civil,2,B;D,,,,how the record is made is not stated
 TCD,civil,3,B,connected,count:97,2025-06-03,no share of local offices over half
 TGO,civil,unplaced,,,,,no coverage aspect stated
-TUN,civil,2,B;D,,,,how the record is made is not stated
+TUN,civil,3,B;D,connected,equipped:100%,2020,"a share of offices equipped, not registering"
 TZA,civil,4,B;D,connected,share:57%,2024,under 90 per cent
-UGA,civil,3,B;D,connected,count:202,2015,no share of local offices over half
+UGA,civil,3,B;D,connected,equipped:83%,2020,"a share of offices equipped, not registering"
 ZAF,civil,3,B,connected,count:242,2026-03-26,no share of local offices over half
 ZMB,civil,3,B;D,keyed-elsewhere,count:11,2026,the record is not held in the national register
 ZWE,civil,3,B,connected,count:93,2026-07-22,no share of local offices over half

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TUN,civil,governance,qualifier,owner:ministry,2025-12-01,TUN-006,,"not stated: plan, finance"
-TUN,civil,events,coverage,B;D,2025-12-01,TUN-005;TUN-007,,
-TUN,civil,made,coverage,,,,,nothing held
-TUN,civil,last12,qualifier,advancing,2025-12-11,TUN-004,,
-TUN,civil,offices,coverage,,,,,nothing held
+TUN,civil,governance,qualifier,owner:ministry;plan:current,2025-12-01,TUN-006;TUN-009,TUN-008=owner:ministry;TUN-014=owner:ministry,not stated: finance
+TUN,civil,events,coverage,B;D,2025-12-01,TUN-005;TUN-007,TUN-015=B;D;TUN-010=B;D,
+TUN,civil,made,coverage,connected,2020,TUN-011;TUN-016,,nothing dated since 2023-10-10
+TUN,civil,last12,qualifier,advancing,2025-12-11,TUN-004;TUN-013,,
+TUN,civil,offices,coverage,equipped:100%,2020,TUN-012;TUN-017;TUN-018,,nothing dated since 2023-10-10

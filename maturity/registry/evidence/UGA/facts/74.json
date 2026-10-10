@@ -1,8 +1,82 @@
 {
   "slug": "2020-01-01 Maintaining civil registration amid COVID-19 - Uganda's mobile notification system (IDRC)",
-  "facts": [],
-  "systems": [
-    {"system": "MVRS", "country_label": "MVRS; mobile notification system", "class": "notification", "platform": "", "owner": "NIRA", "tiers": "in use in 112 of 135 districts and 222 of 5,230 birth-handling health facilities (2020)"}
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The brief states that NIRA, the registration agency, operates the central civil register using the MVRS web application, having taken it over from the Uganda Registration Services Bureau, which developed it in 2011; the brief gives no date for this, so its 2020 publication year is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Mobile Vital Records System (MVRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "events",
+      "value": "B;D",
+      "fact": "The brief states that births are notified and registered in the MVRS and that death registration uses the same process and system, with about 83,200 birth events recorded in January-August 2020 and only 2,099 deaths registered from January 2018 to August 2020, on the MVRS dashboards.",
+      "as_of": "2020-08",
+      "date_precision": "month",
+      "system": "Mobile Vital Records System (MVRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "made",
+      "value": "connected",
+      "fact": "The brief states that a paper notification form completed at a registration office, health facility or in the community is entered into the web-based MVRS at district offices and health facilities, and that every notification entered and registered there is recorded directly in the central NIRA register, with approval by the registrar at head office or a designated district office.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Mobile Vital Records System (MVRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "offices",
+      "value": "equipped:83%",
+      "fact": "The brief states that as of 2020 MVRS is used in 112 of 135 districts and in 222 of the 5,230 health facilities that handle births; it elsewhere speaks of 122 districts where MVRS is used.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Mobile Vital Records System (MVRS)",
+      "class": "civil"
+    },
+    {
+      "sub_indicator": "civil",
+      "aspect": "last12",
+      "value": "regressing",
+      "fact": "The brief states that the lockdown imposed on 31 March 2020 and extended to the end of June closed all district civil registration offices, officers entering events into MVRS from home, and that the birth events NIRA recorded electronically in January-August 2020 were 21 per cent of those of the same period in 2019.",
+      "as_of": "2020-03-31",
+      "date_precision": "day",
+      "system": "Mobile Vital Records System (MVRS)",
+      "class": "civil"
+    }
   ],
-  "note": "The file is a short companion page to a PDF, not the full text. It calls MVRS a mobile notification system and does not say where the record is made, so it is entered as notification and gives no fact. Its dated figures, for the parent: the lockdown from 31 March 2020 (extended to end-June) closed all district registration offices; NIRA recorded about 83,200 birth events electronically in January-August 2020, 21 per cent of the same period in 2019; MVRS in 112 of 135 districts and 222 of 5,230 health facilities."
+  "systems": [
+    {
+      "system": "Mobile Vital Records System (MVRS)",
+      "country_label": "MVRS",
+      "class": "civil",
+      "platform": "web application, over landline internet and mobile networks",
+      "owner": "NIRA (developed in 2011 by the Uganda Registration Services Bureau)",
+      "tiers": "NIRA head office, district offices and health facilities: 112 of 135 districts and 222 of 5,230 birth-handling health facilities (2020)"
+    },
+    {
+      "system": "Civil Registration Information Management System (CRIMS)",
+      "country_label": "CRIMS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as a legacy system to be integrated with MVRS"
+    },
+    {
+      "system": "national ID system",
+      "country_label": "national ID system",
+      "class": "identity",
+      "platform": "",
+      "owner": "NIRA",
+      "tiers": "planned integration with MVRS, with DHIS2"
+    }
+  ],
+  "note": "Read from the artefact PDF. The PDF describes MVRS as the application in which NIRA keeps the central civil register and registers events, so it is classed civil, not notification as the stub's title suggested. A death module is said to be in development although deaths are reported as registered in MVRS; the district count is given as 112 and, once, as 122."
 }

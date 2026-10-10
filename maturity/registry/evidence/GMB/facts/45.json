@@ -3,21 +3,37 @@
   "facts": [],
   "systems": [
     {
-      "system": "eCRVS",
-      "country_label": "eCRVS",
+      "system": "Digitized Birth Certificate",
+      "country_label": "Digital Birth certificate; Digitized Birth Certificate",
       "class": "",
       "platform": "",
-      "owner": "",
-      "tiers": ""
+      "owner": "Ministry of Health",
+      "tiers": "Initiated in the last quarter of 2022; its own 10-digit certificate number; no data synchronisation with the Immigration Department"
     },
     {
-      "system": "National ID (Margins/MIDSA build)",
-      "country_label": "national-ID build",
+      "system": "National Identity Number (NIN) programme",
+      "country_label": "National Identity Card; NIN database",
+      "class": "identity",
+      "platform": "Semlex biometric system, on a public-private partnership",
+      "owner": "Ministry of Interior, Department of Immigration",
+      "tiers": "Registration centres connected to data centres; biometric ID card issued from October 2018"
+    },
+    {
+      "system": "National Digital ID System (DIDS)",
+      "country_label": "National Digital ID System (DIDS)",
       "class": "identity",
       "platform": "",
+      "owner": "Ministry of Communication and Digital Economy",
+      "tiers": "Proposed; registration centres planned; costed at USD 22.24 million"
+    },
+    {
+      "system": "Registration at birth for integration with the CRVS system",
+      "country_label": "integration with the CRVS system",
+      "class": "exchange",
+      "platform": "",
       "owner": "",
-      "tiers": ""
+      "tiers": "Proposed feature of the Digital ID programme"
     }
   ],
-  "note": "A 95-word companion page to a PDF: it names the eCRVS only as the 'unique-national-ID backbone' behind the identity strategy and says nothing of what it does, where, or since when."
+  "note": "Read from the artefact PDF. No fact: the report, dated 27 April and 24 October 2023 on its cover, is a UNECA-drafted identity strategy, and says of civil registration only that a digital birth certificate under the Ministry of Health was initiated in the last quarter of 2022, without saying what system makes the record or where; it does not name the eCRVS."
 }

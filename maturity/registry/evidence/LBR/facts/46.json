@@ -2,7 +2,9 @@
   "slug": "2024-01-01 Liberia NIR presentation - Legal Framework and Mandate",
   "facts": [],
   "systems": [
-    {"system": "National Identification Registry enrolment (NIN and biometric ID card)", "country_label": "NIN; biometric ID card", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "national mandate under the 2011 NIR Act"}
+    {"system": "National Biometric Identification System (NBIS)", "country_label": "NBIS; NIN; biometric ID card (adult, resident and infant cards)", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "permanent enrolment centres in all 15 counties with at least 3 mobile teams, working online over a secured link to the central office or offline by portable storage media"},
+    {"system": "NIR verification platform", "country_label": "Verification Platform; EKYC", "class": "identity", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "authorised institutions verify an NIR card or fingerprints, singly or in batches"},
+    {"system": "Interface for data sharing between the National Biometric ID System and MOHSW birth and death", "country_label": "Interfaces for data sharing: MOHSW Birth & Death", "class": "exchange", "platform": "", "owner": "National Identification Registry (NIR)", "tiers": "shown on a diagram of interfaces with no description of what passes or whether it is live"}
   ],
-  "note": "The file is a short excerpt page describing the identity registry's legal mandate; it states nothing on civil registration."
+  "note": "Read from the artefact PDF. A nine-slide NIR presentation, undated in its own text, on the identity registry's 2011 Act, enrolment centres, cards and verification platform; birth and death registration appears only as a box labelled MOHSW Birth & Death on a diagram of data-sharing interfaces, so it states nothing about how civil registration offices record events."
 }

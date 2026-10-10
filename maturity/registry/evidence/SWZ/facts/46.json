@@ -1,6 +1,58 @@
 {
   "slug": "2024-01-01 Eswatini Ministry of Home Affairs Annual Report 2024-25",
-  "facts": [],
-  "systems": [],
-  "note": "The file is a two-sentence companion page for a PDF artefact (body_completeness: excerpt): it says only that the ministry owns the ID card and civil registration and that the report notes the launch of the CRVS Act; the report's own text is not in the file read."
+  "facts": [
+    {
+      "sub_indicator": "civil",
+      "aspect": "governance",
+      "value": "owner:ministry",
+      "fact": "The Ministry of Home Affairs' annual report for 2024/25, covering the year to the third quarter (December 2024), states that its Civil Registration and Vital Statistics Department maintains the National Population Register by registering all vital events and assigning Personal Identification Numbers, through 15 service centres (headquarters, 4 regional and 11 sub-regional offices) and 5 hospital registration points.",
+      "as_of": "2024-12",
+      "date_precision": "month",
+      "system": "National Population Register (NPR)",
+      "class": "civil"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Population Register (NPR)",
+      "country_label": "National Populations Register (NPR)",
+      "class": "civil",
+      "platform": "",
+      "owner": "Civil Registration and Vital Statistics Department, Ministry of Home Affairs",
+      "tiers": "Maintained through registration of all vital events and assignment of Personal Identification Numbers; 15 registration/service centres (headquarters, 4 regional, 11 sub-regional) and hospital-based registration at 5 hospitals and health centres"
+    },
+    {
+      "system": "Automation of Manual Certificates",
+      "country_label": "Automation of Manual Certificates (conversion of birth, marriage and death certificates)",
+      "class": "archive",
+      "platform": "",
+      "owner": "Civil Registration and Vital Statistics Department, Ministry of Home Affairs",
+      "tiers": "Historical records digitalised at headquarters and the service centres, and during the mopping exercise in Manzini and Hhohho regions; 2,421 birth certificates converted in October 2024 in those two regions; a high volume of unconverted manual certificates is listed as a challenge"
+    },
+    {
+      "system": "Mopping Exercise",
+      "country_label": "Mopping Exercise",
+      "class": "outreach",
+      "platform": "",
+      "owner": "Ministry of Home Affairs",
+      "tiers": "Manzini and Hhohho regions, registering births, marriages and deaths and converting certificates under a fee waiver; ended 31 October 2024; outreach programmes for births also run in Shiselweni and Lubombo chiefdoms and tinkhundla"
+    },
+    {
+      "system": "National Identity Card enrolment",
+      "country_label": "National Identity Cards (Sichazabuve / Tichazabuve)",
+      "class": "identity",
+      "platform": "",
+      "owner": "Civil Registration and Vital Statistics Department, Ministry of Home Affairs",
+      "tiers": "Enrolment at service centres from age 16; cards printed and issued at headquarters; enrolling machines described as outdated"
+    },
+    {
+      "system": "Modernized Digital Integrated System for the Ministry of Home Affairs",
+      "country_label": "Modernization of Civil registration and Immigration Systems (capital project G630/99)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Home Affairs",
+      "tiers": "Capital project to design, develop and implement the system: E20,000,000 allocated for the year ending 31 March 2025, nothing warranted or spent; the only work described is e-visa and e-permit development and a payment gateway"
+    }
+  ],
+  "note": "Read from the artefact PDF. The report gives registration counts by service centre and hospital but never says whether an office enters a birth or death digitally, so there is no events, made or offices fact; it lists an inconsistent network (terminal) and outdated equipment as undated challenges, and the launch of the CRVS Act No 28 of 2023 is law, not a fact here. Text taken with pdftotext because the Read tool could not render the PDF (58 pages, read whole)."
 }
