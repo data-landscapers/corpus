@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://uasf.esccom.org.sz/programmes/connectivity-programmes/,held,held as raw/2023/2023-10-03-uasf-connectivity-programmes.md,,0,,
+2,https://uasf.esccom.org.sz/wp-content/uploads/2023/10/2022.23-Universal-Access-Service-Fund-Annual-Report-_.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+3,https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf,held,held as raw/2025/2025-01-01-eswatini-mict-annual-performance-report-2024-25.md,,0,,
+4,https://uasf.esccom.org.sz/programmes/access-programmes/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+5,https://ezulwini.co.sz/documents/1742453492.pdf,fetched,,scripts/.workroot/study/localgov/cache/SWZ/5.txt,22856,pdf,
+6,https://www.mbabane.org.sz/wp-content/uploads/2023/09/MCM-Annual-Report-22-23.pdf,fetched,,scripts/.workroot/study/localgov/cache/SWZ/6.txt,23657,pdf,
+7,https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20HOUSING%202025.pdf,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,
+8,https://www.gov.sz/images/FinanceDocuments/Budget-Speech-2020.pdf,unfetchable,"ConnectTimeout; Wayback HTTP 429, not checked",,0,,

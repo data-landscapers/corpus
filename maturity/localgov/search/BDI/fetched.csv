@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.inafran.ru/files/Doc/Burundi/Sektoralnaa%20strategia%20v%20oblasti%20IKT%20do%202027%20g.%20prinata%20v%202021.pdf,fetched,,scripts/.workroot/study/localgov/cache/BDI/1.txt,17060,pdf,
+2,https://setic.gov.bi/wp-content/uploads/2023/09/CGES.pdf,fetched,,scripts/.workroot/study/localgov/cache/BDI/2.txt,34521,pdf,Environmental and Social Management Framework (ESMF) Burundi Digital Foundations Project (P176396)
+3,https://documents1.worldbank.org/curated/en/207441655916156350/pdf/Burundi-Digital-Foundations-Project.pdf,held,held as raw/2022/2022-05-31-world-bank-burundi-digital-foundations-project-pad.md,,0,,
+4,https://arct.gov.bi/wp-content/uploads/2024/04/RAPPORT-DES-INDICATEURS-TIC-EDITION-2022-V.FIN-PUBLIE.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture",,0,,
+5,https://www.undp.org/fr/burundi/actualites/le-pnud-appuie-la-digitalisation-de-la-fiscalite-communale-travers-e-taxe,fetched,"second pass, by Wayback",scripts/.workroot/study/localgov/cache/BDI/5.txt,581,html,Le PNUD appuie la digitalisation de la fiscalité communale à travers E-Taxe
+6,https://www.undp.org/fr/burundi/actualites/pnud-digitalisation-de-letat-civil-une-revolution-pour-un-service-public-efficace,unfetchable,"HTTP 403; Wayback HTTP 429, not checked | second pass: second client: HTTP 403; certificate unverified: HTTP 403; Wayback: no usable capture",,0,,
+7,https://mininterinfos.gov.bi/vers-une-solution-numerique-innovante-de-production-et-de-gestion-des-donnees/,held,held as raw/2026/2026-03-16-mininter-vers-une-solution-numerique-innovante-production-gestion-donnees.md,,0,,
+8,https://arct.gov.bi/wp-content/uploads/2026/04/OBSERVATOIRE-4EME-TRIM-2026.pdf,held,held as raw/2026/2026-04-27-arct-observatoire-marche-tic-q4-2025.md,,0,,

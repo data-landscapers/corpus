@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://numerique.gouv.tg/projets/projet-dacceleration-numerique-du-togo-pant,fetched,,scripts/.workroot/study/localgov/cache/TGO/1.txt,67,html,Projet d’Accélération Numérique du Togo (PANT) — Ministère de l'Efficacité du Service Public et de la Transformation Numérique
+2,https://bk.numerique.gouv.tg/wp-content/uploads/2026/09/PANT-Rapport-PAR-Re%CC%81gion-Maritime.pdf,fetched,,scripts/.workroot/study/localgov/cache/TGO/2.txt,72366,pdf,
+3,https://bk.numerique.gouv.tg/wp-content/uploads/2026/09/PANT-Rapport-PAR-Re%CC%81gion-Centrale.pdf,fetched,,scripts/.workroot/study/localgov/cache/TGO/3.txt,60706,pdf,
+4,https://bk.numerique.gouv.tg/wp-content/uploads/2026/07/MESPTN-Consultant-international-2.pdf,fetched,,scripts/.workroot/study/localgov/cache/TGO/4.txt,663,pdf,
+5,https://finances.gouv.tg/wp-content/uploads/2026/01/BUDGET-2026-BG-CHAP.pdf,held,held as raw/2026/2026-01-15-tgo-budget-depenses-2026-par-chapitre-companion.md,,0,,
+6,https://finances.gouv.tg/wp-content/uploads/2026/03/Budget-Citoyen-2026.pdf,held,held as raw/2026/2026-03-31-tgo-budget-citoyen-2026-companion.md,,0,,
+7,https://assemblee-nationale.tg/wp-content/uploads/2025/05/LOI-DE-FINANCES-2025-Loi-AN.pdf,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-01-ssd-moh-his-status-and-priorities-poster",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2 (health management information system)", "country_label": "HMIS/DHIS2", "class": "central", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": "rollout at county and health facility level ongoing in 2023; used by county health departments, the health ministry's local offices, not by county governments' own offices"}
+  ],
+  "note": "A health ministry poster on the health information system: the county health department is a ministry's local sector office, and nothing is stated on the connection of a county or other local government's own office."
+}

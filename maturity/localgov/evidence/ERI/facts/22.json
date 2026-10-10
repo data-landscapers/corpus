@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08-undp-eritrea-asycuda-world-digital-customs",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA World", "country_label": "ASYCUDA World", "class": "central", "platform": "ASYCUDA World (UNCTAD), source code transferred to the government", "owner": "Eritrean Customs Department, with UNDP support", "tiers": "all customs stations, interconnected on a secure internal network to a central server"}
+  ],
+  "note": "The customs department's new system, linking its own stations by intranet: a national agency's field offices, out of scope. No local government office is mentioned."
+}

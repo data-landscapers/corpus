@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-13-rwa-wb-p173373-digital-ai-compact-implementation-support-mission-march-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Last-mile connectivity (Rwanda Digital Acceleration Project)", "country_label": "Last-mile connectivity", "class": "", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": "3,054 public sites, primarily schools and health facilities, connected by March 2026 against a revised target of 5,000; no district or other local government office named among them"},
+    {"system": "Building Permit Management Information System", "country_label": "Building Permit Management Information System", "class": "application", "platform": "", "owner": "Rwanda Information Society Authority (project implementer)", "tiers": "stated as fully operational, application processing time cut by 70 percent; the offices that work in it are not named"}
+  ],
+  "note": "The World Bank's March 2026 aide-memoire on the Digital Acceleration Project counts public sites connected, primarily schools and health facilities, and names no district, sector or other local government office as connected."
+}

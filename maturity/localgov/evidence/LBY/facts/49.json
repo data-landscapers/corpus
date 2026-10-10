@@ -1,0 +1,8 @@
+{
+  "slug": "2023-02-07-gia-alrabt-aliliktruni",
+  "facts": [],
+  "systems": [
+    {"system": "National data exchange network", "country_label": "الشبكة الوطنية لتبادل البيانات", "class": "backbone", "platform": "", "owner": "General Information Authority", "tiers": "links the systems of national bodies to the national database at the Authority; no municipality or local government office named"}
+  ],
+  "note": "The General Information Authority's service page for linking national bodies' systems to the national database; it names no municipality, no local government office and no connection provided to one."
+}

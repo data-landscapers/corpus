@@ -47,3 +47,7 @@ MUS,Civil Status Database,Civil Status Database,,,,named in the section list onl
 MUS,Central Population Database,Central Population Database (CPD),,,,named in the section list only (sections 8B and 8C),1982-01-01-civil-status-act-2023-revision-birth-registration
 MUS,Civil Status Database,Civil Status Database,,,,named in the section list only (section 8A),1982-01-01-civil-status-act-version-7-cpd-csd
 MUS,Central Population Database,Central Population Database (CPD),,,,named in the section list only (sections 8B and 8C),1982-01-01-civil-status-act-version-7-cpd-csd
+MUS,Government Intranet Systems (GINS),GINS,backbone,,Government of Mauritius,named as an infrastructure building block of the government stack; no local authority said to be on it,2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029
+MUS,Government Online Centre (GOC),GOC,backbone,,Government of Mauritius,named as an infrastructure building block of the government stack; no local authority named,2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029
+MUS,Government Data Centre,Government Data Centre,backbone,sovereign government cloud,Government of Mauritius,"to be established, with a disaster recovery site; no local authority named",2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029
+MUS,InfoHighway,InfoHighway,backbone,,Government of Mauritius,national data exchange platform to connect all government systems in a hub-and-spoke model; no local authority named,2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029

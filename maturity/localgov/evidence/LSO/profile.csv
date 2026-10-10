@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,connection,governance,qualifier,,,,,nothing held
-LSO,connection,use,coverage,none,2025-09,LSO-001,,
-LSO,connection,connected,coverage,,,,,nothing held
+LSO,connection,governance,qualifier,owner:ministry;finance:domestic,2018-01-03,LSO-005;LSO-006,,nothing dated since 2023-10-10
+LSO,connection,use,coverage,internet,2018-01-03,LSO-004,LSO-001=none,
+LSO,connection,connected,coverage,institutional,2018-01-03,LSO-002,,nothing dated since 2023-10-10
 LSO,connection,last12,qualifier,,,,,nothing held
-LSO,connection,authorities,coverage,,,,,nothing held
+LSO,connection,authorities,coverage,pilot,2018-01-03,LSO-003,,nothing dated since 2023-10-10

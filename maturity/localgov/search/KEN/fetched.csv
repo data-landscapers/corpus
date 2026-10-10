@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ict.go.ke/last-mile-county-connectivity-project-lmccp,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+2,https://cms.icta.go.ke/sites/default/files/2022-04/Kenya%20Digital%20Masterplan%202022-2032%20Online%20Version.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+3,https://www.kenyanews.go.ke/govt-launches-phase-4-5-of-the-last-mile-county-connectivity-project/,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+4,https://www.treasury.go.ke/sites/default/files/Sector%20Budget%20Reports/2025.26-Energy-Infrastructure-and-ICT-Sector-Report.pdf,fetched,,scripts/.workroot/study/localgov/cache/KEN/4.txt,93693,pdf,
+5,https://www.oagkenya.go.ke/wp-content/uploads/2026/09/Information-and-Communications-Technology-Authority-2024-2025.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+6,https://cms.icta.go.ke/sites/default/files/2025-08/1%20-%20Framework_Agreement_for_Provision_of_Broadband_Internet_Capacity_Rural_Areas_KE-ICTA-478571-NC-RFB_WB_26_May_WB_Icta_reviewed27062025%20WB43_10%20Jul%202025_16%20Jul%202025%20updated.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+7,https://openbudget.or.ke/project/1122100100_maintenance_rehabilitation_of_last_mile/2026/,fetched,,scripts/.workroot/study/localgov/cache/KEN/7.txt,264,html,"Maintenance & Rehabilitation of Last Mile County Connectivity-BETA budget in 2026 is 528,000,000"
+8,https://cms.icta.go.ke/sites/default/files/2024-09/SP_2024_-_2027_0912.pdf,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,

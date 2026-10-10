@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "last12",
+ "fact": "Khartoum State's government, through its Supreme Council for Strategic Planning and Information, launched the return of its digital systems and fibre networks after its servers were burnt and cables cut in the war, announcing 85 per cent of the state's vital data recovered and 30 government units connected by fibre; the units are the state's and no locality is named.",
+ "title": "بعد تدمير مراكز المعلومات.. الخرطوم تستعيد ذاكرتها وتعيد تشغيل شريانها الرقمي",
+ "publisher": "المنصة السودانية",
+ "published": "2026-10-07",
+ "date_source": "proxy",
+ "why_not": "parent: a state's fibre restoration is upper-tier, no locality named"
+}

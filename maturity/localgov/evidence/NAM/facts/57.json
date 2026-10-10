@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-mict-strategic-plan-2025-2030-data-centre-energy",
+  "facts": [],
+  "systems": [
+    {"system": "Community Access Points (CAPs)", "country_label": "Community Access Points", "class": "public-access", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": "public facilities providing internet and ICT services, to be established in underserved regions"},
+    {"system": "Rural Information Communication Technology Centres (RICTC)", "country_label": "RICTC", "class": "", "platform": "", "owner": "", "tiers": "listed among the plan's acronyms only, with no description"}
+  ],
+  "note": "An excerpt of the ICT ministry's strategic plan, front matter to the start of the executive summary: regional councils appear only as an acronym, and nothing is stated on local authority or regional council offices or their connection."
+}

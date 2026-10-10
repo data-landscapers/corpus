@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "last12",
+ "fact": "Rwanda Dispatch reports that power cuts are disrupting services at sector offices in Kayonza and Gatsibo districts: its reporters found the Gahini, Kiyenzi and Mwiri sector offices in Kayonza without electricity and unable to serve residents, with civil registration approvals halted and local leaders unable to reach the Integrated Electronic Case Management System, and residents say the outages have grown more frequent since the dry season began the month before; sector offices are sub-offices below the district, and the cause is the power supply, not the data connection.",
+ "title": "Power Cuts Disrupt Services At Rural Sector Offices",
+ "publisher": "Rwanda Dispatch",
+ "published": "2026-09-13",
+ "date_source": "proxy",
+ "why_not": "parent: a power cut at sector offices, sub-offices, and not a connection event"
+}

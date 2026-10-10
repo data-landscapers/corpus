@@ -1,0 +1,8 @@
+{
+  "slug": "2022-08-01-namibia-4ir-task-force-final-report-data-centre-ixp",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "", "tiers": "recommended by the task force (Recommendation 4), not yet built; no local authority named"}
+  ],
+  "note": "An excerpt of the 4IR task force's final report, title page to executive summary: it names no local authority, regional council or local government office and says nothing of their connection."
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "governance",
+ "fact": "Chipinge Rural District Council's Strategic Plan for 2025, reviewed at a workshop on 11-13 November 2024, states under its e-government flagship that the whole of the council offices will be connected to LAN and ICT infrastructure established; the passage gives no cost, and it is one council's plan, not a national one.",
+ "title": "Chipinge Rural District Council Strategic Plan 2025",
+ "publisher": "Chipinge Rural District Council",
+ "published": "2024-11",
+ "date_source": "source",
+ "why_not": "parent: one council's uncosted plan for an office network, not a plan naming the connection of local governments"
+}

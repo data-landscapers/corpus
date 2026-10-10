@@ -1,0 +1,11 @@
+{
+  "slug": "2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Government Intranet Systems (GINS)", "country_label": "GINS", "class": "backbone", "platform": "", "owner": "Government of Mauritius", "tiers": "named as an infrastructure building block of the government stack; no local authority said to be on it"},
+    {"system": "Government Online Centre (GOC)", "country_label": "GOC", "class": "backbone", "platform": "", "owner": "Government of Mauritius", "tiers": "named as an infrastructure building block of the government stack; no local authority named"},
+    {"system": "Government Data Centre", "country_label": "Government Data Centre", "class": "backbone", "platform": "sovereign government cloud", "owner": "Government of Mauritius", "tiers": "to be established, with a disaster recovery site; no local authority named"},
+    {"system": "InfoHighway", "country_label": "InfoHighway", "class": "backbone", "platform": "", "owner": "Government of Mauritius", "tiers": "national data exchange platform to connect all government systems in a hub-and-spoke model; no local authority named"}
+  ],
+  "note": "The 2025-2029 digital transformation blueprint names no local authority, municipal, district or village council and says nothing of their offices' connection; its government intranet, data centre and data exchange are named with no local government office on them."
+}

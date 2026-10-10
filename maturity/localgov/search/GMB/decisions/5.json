@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "last12",
+ "fact": "At a one-day National Audit Office engagement with Local Government Authorities, reported in December 2025, participants named difficulties in the full implementation of IFMIS at the authorities, particularly system accessibility and the transfer of responsibilities, and recommended round-table discussions to address them.",
+ "title": "NAO Engages Local Government Authorities to Strengthen Audit Impact",
+ "publisher": "National Audit Office, The Gambia",
+ "published": "2025-12-21",
+ "date_source": "proxy",
+ "why_not": "parent: access difficulties with no connection event, and the date is not the document's"
+}

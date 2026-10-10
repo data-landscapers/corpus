@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "authorities",
+ "fact": "The Ministry of ICT and Innovation's sector plan, dated 1 January 2025, lists among the sector's achievements 'improved access to services by connecting 29 sectors, 664 health posts, 1,694 schools, 2,098 cells, 49 SACCOs, 16 National Electoral Commission offices, and 194 Rwanda Investigation Bureau stations'; sectors and cells are sub-offices below the district, the text gives no count of district offices, no total, no date for the connections and does not name the network or technology.",
+ "title": "ICT Sector Strategic Plan (2024 – 2029)",
+ "publisher": "Ministry of ICT and Innovation",
+ "published": "2025-01-01",
+ "date_source": "source",
+ "why_not": "parent: sectors and cells are sub-offices (L3); no fact on the district tier"
+}

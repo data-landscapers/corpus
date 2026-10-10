@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-eswatini-mict-annual-performance-report-2024-25",
+  "facts": [],
+  "systems": [
+    {"system": "Free public Wi-Fi", "country_label": "free public Wi-Fi", "class": "public-access", "platform": "", "owner": "Ministry of Information, Communications and Technology", "tiers": "footprint increased in 2024/25 to 48 Tinkhundla centres, 5 border gates, 5 rural clinics and other government establishments; stated as bridging the digital divide, with nothing on the centres' own office connection"},
+    {"system": "Optic fibre, Manzini/Mbabane corridor", "country_label": "", "class": "backbone", "platform": "", "owner": "Ministry of Information, Communications and Technology; Eswatini Posts and Telecommunications Corporation", "tiers": "8,200 home passes; no local government office named"},
+    {"system": "Nationwide optic fibre rollout on the electricity grid", "country_label": "", "class": "backbone", "platform": "", "owner": "Eswatini Posts and Telecommunications Corporation with Eswatini Electricity Company", "tiers": "partnership to use a 500 km grid network; no local government office named"}
+  ],
+  "note": "The ICT ministry's 2024/25 report to Parliament, captured in part: Tinkhundla centres appear only as sites of free public Wi-Fi for residents, and no town council, town board or Tinkhundla office is said to be given a connection its staff work over."
+}

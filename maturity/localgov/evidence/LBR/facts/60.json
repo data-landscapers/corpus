@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-06-liberia-great-project-implementation-status-results-report-seq3",
+  "facts": [],
+  "systems": [
+    {"system": "IFMIS", "country_label": "IFMIS", "class": "central", "platform": "", "owner": "", "tiers": "86 ministries, agencies and commissions at 30 September 2025 (target 107); County Treasury Offices connected remain at 4, the December 2023 baseline, against a target of 15 by December 2030"},
+    {"system": "County Service Centers", "country_label": "CSCs", "class": "central", "platform": "", "owner": "", "tiers": "all 15 counties, where coordinators have been deployed; services given offline, 41,000 people at 30 August 2024"}
+  ],
+  "note": "A World Bank status report on a central-government project: the county-level offices it counts are the treasury's county offices and the county service centres, both central field offices, so no fact is taken. It does not mention a county or city administration's own connection."
+}

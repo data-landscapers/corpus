@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "last12;governance",
+ "fact": "In late June 2026 the national fibre optic network reached Wau and crossed into Western Equatoria State towards Tambura, a year after the government's Fiber Optic Implementation Steering Committee, chaired by the Deputy Minister of ICT and Postal Services, approved more than US$9 million for the design phase in June 2025; no county or state office is said to be connected to it.",
+ "title": "Western Equatoria Governor Welcomes Fiber Optic Progress",
+ "publisher": "Access Radio",
+ "published": "2026-06-29",
+ "date_source": "proxy",
+ "why_not": "parent: fibre reaching a state is backbone and gives no fact"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "use;last12",
+ "fact": "Meeting the mayors of the communes of the District of Bamako and of Kati on 30 July 2026, the minister of territorial administration said digital payments at civil-status centres had generated nearly 200 million FCFA between July 2024 and May 2026 and were now a strict obligation at civil-status centres and mairies, while participants reported unsuitable telephones, failing operator alerts and a need for better network coverage, and the minister asked for a report on incidents and equipment needs within thirty days.",
+ "title": "Bamako et Kati : Dans la dynamique de la modernisation des services municipaux",
+ "publisher": "L'Essor (Maliweb)",
+ "published": "2026-07-31",
+ "date_source": "proxy",
+ "why_not": "parent: digital payment of civil-status fees is an application, in the capital's communes"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-21-tchadinfos-fibre-optique-sarh-moyen-chari",
+  "facts": [],
+  "systems": [
+    {"system": "Fibre connection of the governorates (projet de modernisation des infrastructures numériques de l'État, phase 1)", "country_label": "connexion des gouvernorats par fibre optique", "class": "central", "platform": "IP telephony over fibre", "owner": "Ministère des Télécommunications, de l'Économie numérique et de la Digitalisation de l'administration; built by Safitel Tchad", "tiers": "provincial governorates, tested by an IP telephony call at the provisional acceptance in Sarh, reported 21 December 2025; no commune or town hall named"},
+    {"system": "National fibre backbone, Iriba-Doba line", "country_label": "backbone national", "class": "backbone", "platform": "", "owner": "State of Chad; built by Safitel Tchad", "tiers": "1,200 km backbone; 15 sites of 100 gigabit capacity reported built; project launched July 2020 at EUR 175,106,916"},
+    {"system": "Centre national des données", "country_label": "Centre national des données", "class": "backbone", "platform": "", "owner": "State of Chad", "tiers": "one of the project's three modules; no local government office named"}
+  ],
+  "note": "The article reports a fibre line inaugurated at Sarh and a test of the governorates' connection; governorates are the state's provincial offices, and no commune or other local government office is said to be connected."
+}

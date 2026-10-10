@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-17-wardip-concurso-internacional-rede-nacional-fibra-optica",
+  "facts": [],
+  "systems": [
+    {"system": "National fibre-optic backbone", "country_label": "infraestrutura nacional de backbone de fibra óptica", "class": "backbone", "platform": "", "owner": "Ministério dos Transportes, Telecomunicações e Economia Digital, as a public-private partnership under WARDIP; World Bank IDA financing", "tiers": "national; at tender for design, construction, operation and maintenance, nothing built"}
+  ],
+  "note": "An international tender for the national fibre backbone, opened under WARDIP: a backbone at procurement, with no local government office said to be on it."
+}

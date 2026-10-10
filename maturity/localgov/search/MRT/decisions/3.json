@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "connected;authorities",
+ "fact": "In December 2023 the Commissioner for Human Rights said enrolment missions for the national biometric population register had been sent to bring the service to citizens in \"les communes rurales non connectées à Internet\", with registration to be offered in communes that have no civil status centre; the text speaks of communes, not of their mairies, and gives no number.",
+ "title": "Le Commissaire aux droits de l'Homme:\" La situation des droits de l'Homme en Mauritanie a connu de grandes évolutions et réalisations concrètes et nous sommes déterminés à la renforcer\"",
+ "publisher": "Agence Mauritanienne d'Information",
+ "published": "2023-12-09",
+ "date_source": "proxy",
+ "why_not": "parent: communes named as places without internet, not their offices"
+}
