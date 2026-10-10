@@ -82,6 +82,8 @@ The id enters `lookups/indicators.csv` at acceptance. `dpi.pay--revenue-collecti
 
 **Fixed at R3** (`ladder-test.csv`, `corrections.csv`): stages 2 and 3 are reached; 1, 4 and 5 by nobody before the search. A system in use in a counted local government, with what it records not stated, is read as `receipts`. Staff trained on a system, or a system made available, is `equipped`. Paper in some local governments does not unsay a count of others recording.
 
+**Fixed at R5.** Where the record is held, left unstated, does not keep a country from stage 3 where a system is in use outside the capital. *Centrally collected* is flagged only where a source says a central body collects a local revenue; a national tax system alone is not that.
+
 ## 5. The norm
 
 The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital Transformation Strategy, with the decentralisation charter's Article 16. The Strategy asks states to "establish electronic government registers or digitalise existing ones, starting with an electronic population registry, eBusiness register and Land Use register", and to let organisations "reuse core registers".

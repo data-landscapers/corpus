@@ -1,0 +1,19 @@
+{
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "recorded": "receipts",
+      "held": "paper",
+      "last12": "advancing",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey;advancing",
+      "stage_sources": "ZMB-001;ZMB-002;ZMB-005",
+      "gaps": "No fact shows the e-Council system live in any council: ZMB-001 is an announced plan that describes tracking collections and no register of payers, and ZMB-002 is a proof of concept in eight councils with a demonstration expected by 19 June 2026. Whether the demonstration took place is not in the evidence. The paper fact dates from May 2024. No plan period and no finance are stated.",
+      "note": "The e-Council system is at proof of concept in eight councils, and most councils were on manual systems at the last dated statement. Stage 3 needs a system past its pilot and live in some local governments outside the capital, and none is shown."
+    }
+  ]
+}

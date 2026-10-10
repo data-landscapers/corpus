@@ -1,0 +1,19 @@
+{
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "",
+      "recorded": "receipts",
+      "held": "local",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey;centrally collected",
+      "stage_sources": "BEN-001;BEN-002;BEN-003",
+      "gaps": "Whether the 12 selected communes of 77 were equipped and went live is not established: the one source, of September 2019, says they were to be equipped during 2019/2020. Nothing is dated since, so governance and the last twelve months hold nothing; the partner ownership and donor finance of 2019 fall outside the 36 months.",
+      "note": "Twelve communes selected for cash-desk software is a pilot, and no fact says it ran past selection. Stage 3 needs a system past its pilot and live in communes outside the capital."
+    }
+  ]
+}

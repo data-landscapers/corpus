@@ -1,0 +1,19 @@
+{
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "owner:ministry",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "no-change",
+      "authorities": "count:100",
+      "cap": "",
+      "flags": "centrally collected",
+      "stage_sources": "MAR-001;MAR-002;MAR-008;MAR-009",
+      "gaps": "The newest count, more than 100 large municipalities in August 2025, has no total and was still to be verified; MAR-010 of May 2025 gives no count at all, and the 969 of 1,590 of May 2020 (MAR-005) is GIR-CT deployed, not local authorities recording in it, so the two figures disagree and neither is a share. MAR-008 has communes issuing bills in GIR-CT while the Treasury's accountants take the payments; no plan or finance is stated, and nothing is dated inside the twelve months (the newest events are May and August 2025).",
+      "note": "GIR-CT is a national register live well beyond a pilot, which is stage 3. Stage 4 needs more than half on a share or a count with a denominator, and the only figure with a denominator is a 2020 deployment figure."
+    }
+  ]
+}

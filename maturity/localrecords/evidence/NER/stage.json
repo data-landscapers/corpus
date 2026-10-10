@@ -1,0 +1,19 @@
+{
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "owner:ministry;plan:current",
+      "recorded": "register",
+      "held": "",
+      "last12": "advancing",
+      "authorities": "count:1",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "NER-001;NER-002;NER-004;NER-005",
+      "gaps": "Where the record is held is not stated for Niamey or for Diffa. Outside the capital only Diffa is named, put into service on 11 December 2025 with no report of use since; no count of communes is given, and the 100 terminals handed to Niamey in August 2025 are not said to be in use. Finance is not stated.",
+      "note": "Naneye Yarda runs in the capital and was put into service in Diffa, a commune outside it, in December 2025, recording a register of taxable establishments. Stage 4 needs more than half of the communes, and one outside the capital is named."
+    }
+  ]
+}

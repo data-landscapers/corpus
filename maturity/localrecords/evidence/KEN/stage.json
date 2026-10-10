@@ -1,0 +1,19 @@
+{
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "",
+      "recorded": "receipts",
+      "held": "local",
+      "last12": "",
+      "authorities": "share:70%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-003;KEN-004;KEN-005;KEN-010",
+      "gaps": "No register of payers is established: the systems are described as collection modules and point-of-sale receipting, and a taxpayer database appears only as a feature of a proposed system. The 70% (33 of 47) is of 2020 and includes partial automation; the newest fact, of February 2026, names 5 of 47 counties as well established and 6 as largely manual, and does not say what is recorded. Nothing on governance is dated inside 36 months (vendor ownership is of 2018 and 2020, the 2019 directive gives no period), and nothing inside the twelve months.",
+      "note": "More than half of counties had automated collection, held in vendor-hosted systems, but what is recorded is receipts. Receipts alone stop at stage 3; stage 4 needs a register."
+    }
+  ]
+}

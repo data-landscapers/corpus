@@ -1,0 +1,6 @@
+{
+  "iso3": "LBY",
+  "cells": [
+    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. systems.csv does name a local revenues system of the Ministry of Local Government, unclassified: launched about May 2022 with six municipalities present, and 21 municipalities of the second cohort of mayors given access and training in October 2025. What it records, where the record is held and how many municipalities enter data are not established; correspondence and employment systems are also named.", "note": "No row on the sub-indicator, so no rung can be set. The local revenues system is named in systems.csv only, without a classified fact to stage from."}
+  ]
+}

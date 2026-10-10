@@ -1,0 +1,19 @@
+{
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:ministry;finance:domestic",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey;centrally collected",
+      "stage_sources": "CIV-001;CIV-003;CIV-004",
+      "gaps": "No fact says SYGIDAN Recettes is live in any commune: it was at pre-validation in April 2024, and in December 2025 one commune was handed its taxpayer database within the pilot. Register and shared describe the design, not use; no count of communes recording is given. The costed plan (CIV-021) ran to June 2024 and is not current at the as-at, and no last-twelve-months fact is held.",
+      "note": "A register system in a 22-commune pilot of 201, with general distribution announced and not reported. Stage 3 needs it past its pilot and live in communes outside the capital."
+    }
+  ]
+}

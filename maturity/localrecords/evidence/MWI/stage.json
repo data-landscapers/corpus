@@ -1,0 +1,19 @@
+{
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "owner:partner;finance:donor",
+      "recorded": "register",
+      "held": "local",
+      "last12": "",
+      "authorities": "count:4",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-001;MWI-003;MWI-004;MWI-008;MWI-009;MWI-010",
+      "gaps": "The four city councils (2022) are 4 of 35 local governments, and Mwanza's receipts-only LORMIS (2025-02) is a fifth; none is named in the other 30, and no figure for the cities is held after 2022. The newest recorded fact (MWI-008) is receipts and the register is the cities' of 2022; Zomba records market receipts only. The vendor ownership (2022) and the absence of a plan (2023-08) fall outside the 36 months, and nothing is held for the last twelve months.",
+      "note": "Registers of payers are live in Blantyre and Mzuzu, outside the capital, in systems each council keeps for itself. Five of 35 local governments is a minority, so stage 4 is not reached."
+    }
+  ]
+}

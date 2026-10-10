@@ -1,0 +1,19 @@
+{
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "",
+      "recorded": "",
+      "held": "",
+      "last12": "no-change",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey",
+      "stage_sources": "TGO-001",
+      "gaps": "What is recorded and where it is held are not established, and no go-live is stated for the Lacs 1 tax project. The only facts are dated May 2021, outside the governance window and the last twelve months; the taxpayer censuses in three other communes are surveys and place nothing.",
+      "note": "A project to digitalise municipal tax registration was initiated in one commune in 2021, with no go-live stated, which is preparation. Stage 3 needs a register or receipts live past a pilot in some local governments."
+    }
+  ]
+}

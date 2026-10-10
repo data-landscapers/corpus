@@ -1,0 +1,19 @@
+{
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "",
+      "recorded": "register",
+      "held": "local",
+      "last12": "",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-001;ZAF-002",
+      "gaps": "The cell rests on one National Treasury circular of December 2023, which describes every municipality's property-rates billing report and its reconciliation to the valuation roll and gives no count or share of municipalities billing from a system. No fact on governance and none inside the last twelve months is held.",
+      "note": "The circular describes municipalities billing property rates per property and owner from their own billing systems, which is register and local with coverage not published. Stage 4 needs more than half of municipalities on a share or a count with a denominator, and the evidence holds no count at all."
+    }
+  ]
+}

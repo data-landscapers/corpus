@@ -1,0 +1,19 @@
+{
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "unplaced",
+      "governance": "",
+      "recorded": "none",
+      "held": "",
+      "last12": "",
+      "authorities": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The two rows, on 2020 fiscal data, say local authorities are not empowered to levy taxes and none of the nine collects its own; that is no revenue to record, not a dated statement that records are kept on paper, and no system is said to be prepared. Nothing is dated since 2020, and no system is listed.",
+      "note": "Stage 1 needs a dated statement of paper records and stage 2 a system in preparation or pilot; the evidence gives neither. The State collecting and transferring shared taxes is stated only for regions and is not flagged."
+    }
+  ]
+}

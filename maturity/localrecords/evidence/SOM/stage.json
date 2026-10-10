@@ -1,0 +1,19 @@
+{
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "owner:partner",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "no-change",
+      "authorities": "count:4",
+      "cap": "",
+      "flags": "centrally collected",
+      "stage_sources": "SOM-001;SOM-004;SOM-005;SOM-007;SOM-013",
+      "gaps": "No total of local governments is given, so the counts (4 in October 2022; 5 in 2021) are a floor and no share; the newest authorities fact (SOM-002, September 2023) is a mobile-payment demonstration in other Puntland districts, a pilot beside the count. Held rests on a June 2021 fact that also says district use was not yet rolled out nationally; Galmudug and Benadir districts had no system (SOM-006), and nothing is dated inside the last twelve months.",
+      "note": "A register that bills and receipts payments is live past its Garowe pilot in four Puntland local governments, which is stage 3. Stage 4 needs more than half on a share or a count with a denominator, and the evidence states no denominator."
+    }
+  ]
+}

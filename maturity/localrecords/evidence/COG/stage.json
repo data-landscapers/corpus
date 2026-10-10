@@ -1,0 +1,19 @@
+{
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:ministry;finance:domestic",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "advancing",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "advancing;centrally collected",
+      "stage_sources": "COG-008;COG-012;COG-013;COG-017",
+      "gaps": "No local government is stated as live on PDRCL: validated in February 2026, deployment 'imminent', one market pilot in Pointe-Noire 'to be deployed' after training. COG-009 (2026-04-30) describes transactions only, against the register of COG-002 and COG-013; no plan naming the system is stated.",
+      "note": "PDRCL is validated and at pilot in one market, with nothing past its pilot or live outside Brazzaville and Pointe-Noire, so stage 3 is not met. The register and shared design are the platform's description, not local governments recording."
+    }
+  ]
+}

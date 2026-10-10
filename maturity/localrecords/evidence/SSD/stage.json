@@ -1,0 +1,19 @@
+{
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "",
+      "recorded": "register",
+      "held": "",
+      "last12": "no-change",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-001;SSD-002",
+      "gaps": "Where the record is held is not stated, and no local government other than Juba City Council is named. Every fact is dated October 2022: nothing falls inside the governance window or the last twelve months, and whether the system outlasted its start is not established.",
+      "note": "One city council announced a payer register as just started in October 2022, which is a system being piloted in one place. Stage 3 needs a system past its pilot and live in local governments beyond that city, held in a stated place."
+    }
+  ]
+}

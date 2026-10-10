@@ -1,0 +1,19 @@
+{
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "",
+      "recorded": "register",
+      "held": "local",
+      "last12": "",
+      "authorities": "count:1",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-001;NAM-002;NAM-003",
+      "gaps": "The evidence covers the City of Windhoek alone, and its water accounts only; no local authority outside the capital is named and no total is given. Nothing is held on governance, and the billing irregularities of July 2024 fall outside the last twelve months.",
+      "note": "Only the capital city is shown recording, which the ladder places at stage 2. Stage 3 needs a system live in a local government outside the capital."
+    }
+  ]
+}

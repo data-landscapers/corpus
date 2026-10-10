@@ -1,0 +1,19 @@
+{
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "recorded": "register",
+      "held": "",
+      "last12": "no-change",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-002",
+      "gaps": "The only recording stated is Maputo municipality's property tax system, on a September 2020 assessment; no fact says where the record is held, how many municipalities record, or that e-SGA, specified with a revenue module (MOZ-001), is in use anywhere. No plan or finance is stated and no dated event falls inside the twelve months.",
+      "note": "Only the capital's municipality is shown recording, with a national system specified and not shown live: both are stage 2. Stage 3 needs a system live in local governments outside the capital."
+    }
+  ]
+}

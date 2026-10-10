@@ -1,0 +1,19 @@
+{
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:vendor;finance:not-stated",
+      "recorded": "",
+      "held": "",
+      "last12": "no-change",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey",
+      "stage_sources": "TCD-001",
+      "gaps": "What is recorded and where it is held are not established: the Mongo fact describes a taxpayer census and payments that are to be recorded, not a system in use. No other commune is named, no plan is stated, and the April 2025 launch falls outside the last twelve months.",
+      "note": "One commune began a taxpayer census in April 2025 as the start of a digital tax system, which is preparation. Stage 3 needs a register or receipts live past a pilot, and no row says any commune is recording."
+    }
+  ]
+}

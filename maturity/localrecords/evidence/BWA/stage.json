@@ -1,0 +1,19 @@
+{
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "no evidence",
+      "governance": "",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No evidence row is held on local government revenue records. What is held instead is the national tax system of the Botswana Unified Revenue Service (Lekgetho Live), which systems.csv does not say collects any council revenue, and PayRates, an online property-rates payment platform for Gaborone City Council classed as a web service. Whether any council keeps a digital revenue register or receipt record is not established.",
+      "note": "No row on the sub-indicator, so no rung can be set. A payment front end for one council and a national tax system are noted classes and place nothing."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:vendor",
+      "recorded": "",
+      "held": "paper",
+      "last12": "advancing",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey;advancing",
+      "stage_sources": "CAF-001",
+      "gaps": "What the BMI-WFS system will record and where it will be held are not stated, and no fact says it is live; no commune other than Bangui is named. The paper fact is one trader's account of Bangui in December 2020 and is not a statement about local governments at large; plan and finance are not stated.",
+      "note": "An agreement signed in December 2025 for the capital alone is a system being prepared. Stage 3 needs a system live in local governments outside the capital."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey;centrally collected",
+      "stage_sources": "LBR-001",
+      "gaps": "One source, terms of reference of June 2023, plans a pilot revenue database and payment system in Monrovia and Paynesville; nothing says it was built or that any local government records on it. The governance facts (ministry unit, World Bank finance) are dated June 2023, outside the 36 months, and nothing is dated inside the twelve months.",
+      "note": "A planned pilot in two city corporations is preparation. Stage 3 needs a system past its pilot and live in local governments outside the capital, and none is recorded."
+    }
+  ]
+}

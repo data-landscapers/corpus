@@ -1,0 +1,6 @@
+{
+  "iso3": "CMR",
+  "cells": [
+    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. What is held instead is DIGI-CoR, an enabling programme for the decentralised local authorities still seeking financing in June 2026; SIGIT, the central tax directorate's system, unclassified, whose offices include the Centres de Fiscalité Locale et des Particuliers; and a planned digital land register for the Communauté urbaine de Douala. Whether any commune keeps a digital revenue record is not established.", "note": "No row on the sub-indicator, so no rung can be set. No system held is of class survey or central, so neither flag is set."}
+  ]
+}

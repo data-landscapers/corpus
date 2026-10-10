@@ -1,0 +1,19 @@
+{
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "One source, of 25 March 2025: a tool presented for a pilot in Conakry's 13 communes, Coyah and Kindia, with financing still to be found. Nothing says the pilot began, what the tool records or where it is held, and nothing is dated inside the twelve months or names an owner or plan.",
+      "note": "A system presented ahead of a pilot is preparation. Stage 3 needs a system past its pilot and live in local governments outside the capital, and none is recorded."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "no evidence",
+      "governance": "",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No evidence row is held on local government revenue records. What is held instead is central: SIGREF, the Ministry of Finance's integrated tax revenue system, and the application for the Patente Tributario Único Anual for small taxpayers, both national. No municipal system is named, and whether any municipality keeps a digital revenue record is not established.",
+      "note": "No row on the sub-indicator, so no rung can be set. The central systems are noted and place nothing."
+    }
+  ]
+}

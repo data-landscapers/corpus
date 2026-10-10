@@ -1,0 +1,19 @@
+{
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "no evidence",
+      "governance": "",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No evidence row is held on local government revenue records. What is held instead is two central systems: SIGEF, through which taxpayers declare to the General Directorate of Contributions and Taxes, and KONTAKTU, a piloted online tax payment platform connected to it. Neither is stated as serving a local government, and whether any keeps a digital revenue record is not established.",
+      "note": "No row on the sub-indicator, so no rung can be set. The central systems are noted and place nothing."
+    }
+  ]
+}

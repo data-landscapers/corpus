@@ -1,0 +1,19 @@
+{
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "",
+      "authorities": "equipped:100%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-003;AGO-004;AGO-005",
+      "gaps": "No share or count of municipalities whose staff record in the Portal do Munícipe: 164 of 164 is the ministry's figure for where it was implemented, with telecommunications problems in some. Nothing is dated after November 2021, so governance and the last twelve months hold nothing; the 2019 fact (AGO-009) read the Portal as receipts, the 2021 fact as a register.",
+      "note": "A register in a shared ministry system, launched and live, but the only figure is a share implemented, which is equipped and stops at 3. Stage 4 needs more than half of municipalities recording on a share or a count with a denominator."
+    }
+  ]
+}

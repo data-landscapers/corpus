@@ -1,0 +1,19 @@
+{
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "unplaced",
+      "governance": "",
+      "recorded": "none",
+      "held": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "register survey;centrally collected",
+      "stage_sources": "",
+      "gaps": "The one row is an audit of 22 communes over 2014-2018 finding no updated census of the taxable base and no register of receivables; it does not carry the country, is not a statement that records are kept on paper, and names no system in preparation. Every listed system is a noted class (central, survey, accounts, web), which places nothing.",
+      "note": "Stage 1 needs a dated statement of paper records and stage 2 a revenue system prepared or piloted; neither is in the evidence. The tax rolls for taxe foncière are drawn up centrally and the national addressing exercise is a survey, hence the two flags."
+    }
+  ]
+}

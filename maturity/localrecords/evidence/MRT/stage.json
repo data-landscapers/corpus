@@ -1,0 +1,19 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "",
+      "recorded": "register",
+      "held": "local",
+      "last12": "no-change",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey",
+      "stage_sources": "MRT-004;MRT-006;MRT-008",
+      "gaps": "El Mouhassil is stated live in one commune, Sebkha in Nouakchott, since April 2019; eight others were installing it in April 2020, Rosso held a training on it in July 2023 and Zouerate launched its own programme in May 2023, and no fact says any of them records. Every row is older than the 36 months to the as-at, so governance holds nothing and nothing is dated inside the twelve months; no count of communes is given.",
+      "note": "One commune recording, with others installing, trained or launching, is a pilot. Stage 3 needs the system past its pilot and live in communes outside the capital, which no fact states."
+    }
+  ]
+}

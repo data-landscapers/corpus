@@ -1,0 +1,19 @@
+{
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:ministry;plan:current;finance:donor",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "advancing",
+      "authorities": "equipped:13.6%",
+      "cap": "",
+      "flags": "register survey;advancing",
+      "stage_sources": "SLE-001;SLE-002;SLE-007;SLE-008;SLE-009;SLE-019",
+      "gaps": "Three of 22 councils have MOPTAX 2.0 (December 2025), which is the system installed, not councils said to be billing from it; outside Freetown, Kenema is called a pilot in May 2026 and Makeni a deployment, and Bo and Koidu are a procurement. The rows disagree on where the record is held: the May 2026 notice says the system is integrated with the central monitoring system, the 2025 progress report says that integration is still expected in 2026.",
+      "note": "Only Freetown, the capital, is shown billing from a register; outside it the system is a pilot in Kenema and installed in Makeni. Stage 3 needs it past its pilot and in use in a council outside the capital."
+    }
+  ]
+}

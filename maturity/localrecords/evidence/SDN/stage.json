@@ -1,0 +1,6 @@
+{
+  "iso3": "SDN",
+  "cells": [
+    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. What is held instead is the federal electronic collection system (Eysali, earlier E15), unclassified and with no local government named, and state-level systems: Isali launched in Gedaref in April 2025 and pending in Khartoum State, where localities are named among the bodies to apply it, plus Khartoum's state portal and the Baladna platform. Whether any locality records its own revenue digitally is not established.", "note": "No row on the sub-indicator, so no rung can be set. Upper-tier systems are noted, not assessed, and no system held is of class survey or central."}
+  ]
+}

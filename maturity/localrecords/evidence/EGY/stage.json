@@ -1,0 +1,6 @@
+{
+  "iso3": "EGY",
+  "cells": [
+    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "register survey;centrally collected", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. What is held instead is central: the Real Estate Tax Authority of the Ministry of Finance collects the real estate tax, a quarter of which is stated as going to local government, with its own app, alongside the Egyptian Tax Authority's e-invoice, e-receipt and real estate transactions systems. A national property identification system of nearly 30 million IDs is held as a survey. Whether any governorate or local unit keeps its own digital revenue record is not established.", "note": "No row on the sub-indicator, so no rung can be set. The central and survey systems set the two flags and place nothing."}
+  ]
+}

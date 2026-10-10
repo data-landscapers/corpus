@@ -1,0 +1,19 @@
+{
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "owner:partner;finance:donor",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "",
+      "authorities": "not-published",
+      "cap": "",
+      "flags": "centrally collected",
+      "stage_sources": "TUN-004;TUN-005;TUN-006",
+      "gaps": "No count or share of communes entering their business-tax roll in GRB is given, and the coverage facts date from March 2022. The newer authorities fact (TUN-003, 2024) is a pilot of the successor GRB 2.0 in Bizerte alone and does not carry the country; it disagrees with TUN-006 only on which system is meant. Ceremony fees are still receipted from a paper stub book (TUN-007, TUN-008). No plan is stated, and nothing is dated inside the last twelve months.",
+      "note": "GRB is described as the communes' own system, holding taxable persons and amounts due and followed by the Ministry of Finance's receivers on the GRB network, so register and shared are met with coverage not published. Stage 4 needs more than half of communes on a share or a count with a denominator, and none is given."
+    }
+  ]
+}

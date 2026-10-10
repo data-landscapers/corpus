@@ -1,0 +1,6 @@
+{
+  "iso3": "BFA",
+  "cells": [
+    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "centrally collected", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. What is held instead is two central systems: the DGI's micro-enterprise registration and payment software, whose tax is passed back to the collectivités territoriales, and the tax-administration chain run by the State's deconcentrated tax and treasury services. Whether any collectivité keeps its own digital revenue record is not established.", "note": "No row on the sub-indicator, so no rung can be set. The central systems are noted and place nothing."}
+  ]
+}

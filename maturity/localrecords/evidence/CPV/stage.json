@@ -1,0 +1,19 @@
+{
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:ministry;finance:donor",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001",
+      "gaps": "No coverage fact is held: what is recorded, where it is held and how many municipalities record are not established. The only rows are governance rows on terms of reference for planned property-tax modules of SIMple; the municipal system in use (SIM 2.0) is classed accounts and places nothing.",
+      "note": "Terms of reference issued in 2025 for a property-tax collection module are a system being prepared, which is stage 2. Nothing is piloted or live, so stage 3 is not met."
+    }
+  ]
+}

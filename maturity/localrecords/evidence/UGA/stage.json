@@ -1,0 +1,19 @@
+{
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "owner:vendor;plan:none;finance:domestic",
+      "recorded": "register",
+      "held": "",
+      "last12": "",
+      "authorities": "count:9",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-010;UGA-001;UGA-007;UGA-008",
+      "gaps": "No fact states where the record is held, and no total of local governments is given in the evidence, so no count can serve as a share. The counts disagree by system and date: IRAS monitored in nine cities (December 2024, the newest), IRAS rolled out in 128 local governments and E-LogRev operational in 48 (March 2024), 124 activated of which 39 lacked the equipment to operate (2023), and ELOGREV at 71 of 2,366 sites, which are not local governments. Owner disagrees: vendor (UGA-004) against ministry (UGA-011). The advancing fact (UGA-002) is dated December 2024, outside the twelve months, and is not carried.",
+      "note": "IRAS records assessments and payments against payers and is live in cities and districts outside the capital, on counts with no total. Stage 4 needs more than half on a share or a count with a denominator, and the evidence states no denominator of local governments."
+    }
+  ]
+}

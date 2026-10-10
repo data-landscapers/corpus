@@ -1,0 +1,19 @@
+{
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "owner:ministry;owner:vendor;plan:current;finance:domestic",
+      "recorded": "receipts",
+      "held": "",
+      "last12": "advancing",
+      "authorities": "count:30",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "BDI-001;BDI-011;BDI-014;BDI-016",
+      "gaps": "No register of payers is described in any system, and where the electronic record is held is not stated: the only held fact is manual collection in 2021 (BDI-018), before the systems. The 30 communes carry no total; the only denominator in the evidence is 119 communes in 2021 (BDI-019), not dated to the count, so no share is taken. Owner disagrees: the ministry's budget line (BDI-004) and a bank's platform (BDI-012).",
+      "note": "Electronic collection is live outside the capital, in Kayanza and a count of 30 communes, but what is recorded is payments only. Receipts alone stop at 3 whatever the share."
+    }
+  ]
+}

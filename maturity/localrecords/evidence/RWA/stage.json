@@ -1,0 +1,6 @@
+{
+  "iso3": "RWA",
+  "cells": [
+    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "centrally collected", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. What is held instead is central: the Rwanda Revenue Authority collects on the districts' behalf, keeping the local government tax register (1,347,846 active taxpayers in June 2024) and the automated LGT system for property tax, with a CAMA valuation model being rolled out. Land, accounts, permit and web systems are also named. Whether any district keeps a revenue record of its own is not established.", "note": "No row on the sub-indicator, so no rung can be set. A record kept by the national revenue authority is a central system: noted, flagged, and placing nothing."}
+  ]
+}

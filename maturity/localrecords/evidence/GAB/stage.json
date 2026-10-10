@@ -1,0 +1,19 @@
+{
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:vendor;owner:ministry",
+      "recorded": "register",
+      "held": "",
+      "last12": "advancing",
+      "authorities": "count:1",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GAB-001;GAB-003;GAB-007",
+      "gaps": "Only Libreville, the capital, is stated as operating a system (2026-07-03); Owendo's Digitax agreement is an implementation announced and Colloc-Pay was presented, not adopted. Where the record is held is not stated, the register is the vendor's design at the 2025 pilot launch, and whether the system the mayor calls operational is the GTI Gabon pilot is not established; owners disagree by system (vendor for GTI and Colloc-Pay, ministry for Digitax), and no plan or finance is stated.",
+      "note": "Only the capital city records, which the ladder places at stage 2. Stage 3 needs a system past its pilot and live in local governments outside the capital, and none is."
+    }
+  ]
+}

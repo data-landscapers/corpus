@@ -1,0 +1,19 @@
+{
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "",
+      "recorded": "register",
+      "held": "",
+      "last12": "no-change",
+      "authorities": "count:1",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001;SWZ-002",
+      "gaps": "No row states where the record is held, and only the Municipal Council of Manzini is described, with no count or total of other local governments. Nothing on governance is held, and nothing is dated inside the last twelve months (newest fact April 2024).",
+      "note": "Manzini, which is not the capital, bills ratepayers by account and tracks balances: a live register in one council. Stage 4 needs more than half of the local governments, and one is described."
+    }
+  ]
+}

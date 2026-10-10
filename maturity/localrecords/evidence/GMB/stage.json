@@ -1,0 +1,19 @@
+{
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "finance:donor",
+      "recorded": "register",
+      "held": "local",
+      "last12": "no-change",
+      "authorities": "count:1",
+      "cap": "",
+      "flags": "register survey",
+      "stage_sources": "GMB-009;GMB-007;GMB-004;GMB-001;GMB-002;GMB-003",
+      "gaps": "No total of councils is stated, so the two councils named as recording (Basse, and Kanifing's property rates database) are counts without a denominator. The April 2026 evaluation says Basse 'will embark on' the system, against two ministry reports that it operates one with a digital tax register; Janjanbureh and Brikama have none. Finance is read two ways, councils' own funds with donor support and a budget line for Kuntaur's pilot, and no owner or plan is held inside 36 months.",
+      "note": "A register is live in a council outside the capital, held in the council's own system. Stage 4 needs more than half of councils on a share or a count with a denominator, and the evidence names one or two with no total."
+    }
+  ]
+}

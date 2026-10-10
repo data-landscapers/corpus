@@ -1,0 +1,19 @@
+{
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "owner:ministry;finance:donor",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "advancing",
+      "authorities": "share:3.5%",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GHA-020;GHA-021;GHA-022;GHA-024",
+      "gaps": "No figure for assemblies recording in dLRev is dated after February 2020: 9 of 260 used it through 2019 and 47 partner districts had properties registered in 2020, while the 114 of 260 (43.8%) of 2021 is a roll-out and the 2026 figures are staff trained. The hosting on the national platform is dated 2017, no plan is held inside 36 months, and two assemblies' own systems (Korle Klottey, Ga West) are vendor-run.",
+      "note": "dLRev holds a register on a shared platform and is live in assemblies outside the capital, but only a minority is shown recording. Stage 4 needs more than half on a share of assemblies recording, and the only figure near it is equipped."
+    }
+  ]
+}

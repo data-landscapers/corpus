@@ -1,0 +1,19 @@
+{
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:ministry",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey",
+      "stage_sources": "ETH-001",
+      "gaps": "What CPTA records and where it is held are not stated, and the pilot fact dates from 2016 with the platform 'never fully implemented'; whether any of the three cities still uses it is not established. No plan or finance is stated, and nothing is dated inside the twelve months on the sub-indicator.",
+      "note": "CPTA was built for three pilot cities and never fully implemented, which is a system piloted: stage 2. Nothing is past its pilot or live, so stage 3 is not met."
+    }
+  ]
+}

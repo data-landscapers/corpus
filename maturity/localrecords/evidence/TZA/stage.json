@@ -1,0 +1,19 @@
+{
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "4",
+      "governance": "owner:ministry;plan:current;finance:not-stated",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "",
+      "authorities": "share:91.8%",
+      "cap": "",
+      "flags": "centrally collected",
+      "stage_sources": "TZA-006;TZA-004;TZA-007;TZA-021;TZA-015",
+      "gaps": "The share is 169 councils using TAUSI by February 2023 (TZA-021) over the 184 LGAs the Controller and Auditor General counts (TZA-015, TZA-020); it is older than two years. No authorities fact inside two years gives a share of LGAs recording: the newest (TZA-020, December 2024) is the property tax module implemented in 47 of 184, which is equipped:25.5% and concerns one module. TZA-007 has the audit drawing TAUSI collection reports for 184 LGAs in 2024/25 but is not stated as a count of LGAs recording. 16 LGAs still collected through LGRCIS in 2023/24, some councils issue receipts outside the system (TZA-013), and some keep forest-product revenue on paper (TZA-001). Nothing dated inside the last twelve months records an event of change.",
+      "note": "TAUSI holds bills against taxpayer records, is centrally hosted by PMO-RALG, and 169 of 184 councils had started to use it, so register, shared and more than half are met. Stage 5 needs 90 per cent on a figure published within two years, and the only such share dates from February 2023."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "unplaced",
+      "governance": "",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "centrally collected",
+      "stage_sources": "",
+      "gaps": "All three rows (MDG-001 to MDG-003) are dated 7 October 2026, after the as-at of 30 September 2026, so none sets anything. They describe one commune, Antananarivo, launching a market register that day; nothing is held on any commune at the as-at.",
+      "note": "The country has rows and none is dated by the as-at, so no rung can be set. Had the launch fallen inside, a single commune launching would have read as stage 2 at most."
+    }
+  ]
+}

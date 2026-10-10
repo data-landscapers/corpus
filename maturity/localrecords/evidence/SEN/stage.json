@@ -1,0 +1,19 @@
+{
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:vendor",
+      "recorded": "receipts",
+      "held": "",
+      "last12": "",
+      "authorities": "count:20",
+      "cap": "",
+      "flags": "register survey;centrally collected",
+      "stage_sources": "SEN-001;SEN-002",
+      "gaps": "The count is of communes equipped with Terlink, on the vendor's word, with no total of communes and no statement that any uses it. What the system records and where the record is held are not stated; the plan and the finance are not stated, and nothing is held for the last twelve months.",
+      "note": "More than 20 communes are equipped with a vendor's system and none is said to be recording in it. Equipped places at stage 3 only where the system is live, and no row says it is."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "iso3": "NGA",
+  "cells": [
+    {"sub_indicator": "revenue", "stage": "no evidence", "governance": "", "recorded": "", "held": "", "last12": "", "authorities": "", "cap": "", "flags": "register survey", "stage_sources": "", "gaps": "No evidence row is held on local government revenue records. Only a state-level revenue system is named, the Anambra State IGR portal, under a 2024 law merging state and local government levies into one demand notice. Also held are federal and state land information programmes and a local addressing database fed by local government areas, classed as a survey. Whether any local government area keeps its own digital revenue record is not established.", "note": "No row on the sub-indicator, so no rung can be set. An upper-tier system is noted, not assessed, and one state does not carry the country."}
+  ]
+}

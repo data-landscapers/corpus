@@ -1,0 +1,19 @@
+{
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "no evidence",
+      "governance": "",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No evidence row is held on local government revenue records. What is held instead is the Mauritius Revenue Authority's national Tax Payer Portal, a central system not stated as collecting any council revenue; the National Electronic Licensing System for permits through the local authorities; I-Council, a document and project system in 12 local authorities; and a cashier system of the Judiciary. Whether any council keeps a digital revenue register or receipt record is not established.",
+      "note": "No row on the sub-indicator, so no rung can be set. Permit, document and central systems are noted classes and place nothing."
+    }
+  ]
+}

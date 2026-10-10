@@ -1,0 +1,19 @@
+{
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "owner:partner;finance:donor",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "advancing",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "register survey;centrally collected;advancing",
+      "stage_sources": "MLI-001;MLI-007;MLI-008",
+      "gaps": "No fact shows the local tax module past its pilot outside Bamako: the 680 communes are ReCoDe deployed for testing with the tax module's use not stated (MLI-007), the same note says only Kava was willing to carry it through and recommends a pilot phase (MLI-008), and Salen and Koutiala are one-commune tests. Held is disputed, shared at the DGCT for 13 communes (MLI-005) against local (MLI-006, MLI-014) and paper for market fees (MLI-012); owner is the ministry for ReCoDe (MLI-009) and a partner for the Koutiala project, and no plan is stated.",
+      "note": "The register exists only in tests and pilots: Bamako Commune VI, Koulikoro, Kava, and Koutiala from March 2026. Stage 3 needs a system past its pilot and live in local governments outside the capital, and a count deployed for testing is not that."
+    }
+  ]
+}

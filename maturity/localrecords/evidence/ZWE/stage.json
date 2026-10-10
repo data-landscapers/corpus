@@ -1,0 +1,19 @@
+{
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "governance": "",
+      "recorded": "register",
+      "held": "shared",
+      "last12": "",
+      "authorities": "share:90.2%",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-009;ZWE-010;ZWE-001;ZWE-013",
+      "gaps": "The share is 83 of 92 local authorities using at least one LADS module (November 2024); which modules, and whether any records revenue, is not stated, so under the R3 fix the counted authorities are read as receipts. A register is shown only in named councils: Kwekwe on Promun, held locally (the newest fact, one council), Mutare on LADS, and Gwanda incompletely. The Auditor-General's report on 2024 says most local authorities had no ERP for revenue collection and were manual or partly automated, with no count. The governance facts are dated May 2023 and October 2021, outside the 36 months, and are not carried; nothing is dated as an event inside the last twelve months.",
+      "note": "LADS is in use past its pilot in most local authorities and linked to the national system, with a register shown only in a few named councils. Stage 4 needs register in more than half, and the 83 of 92 are not said to record revenue at all."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "2",
+      "governance": "finance:donor",
+      "recorded": "",
+      "held": "",
+      "last12": "",
+      "authorities": "pilot",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "One fact only: a July 2024 workshop to standardise and assess tools for tracking revenue and registering taxpayers, with 20 entities in four provinces whose tier is not stated. What is recorded, where it is held, whether any entity uses a tool, the owner and any plan are not stated; the provincial systems in Kinshasa, Tshopo and Kasaï Central are upper-tier and place nothing.",
+      "note": "Tools being standardised and assessed with 20 entities is a system in preparation. Stage 3 needs a system live in local governments outside the capital."
+    }
+  ]
+}
