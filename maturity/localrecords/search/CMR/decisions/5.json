@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "governance;authorities;held",
+ "fact": "In July 2024 the Ministry of Finance described Sim_ba use by decentralised councils as disparate, Martap commune running it on a single workstation, with its optimisation financed by PAGFI.",
+ "title": "Gestion des finances locales : Sim_ba, un frein à l'arrimage des CTD au Budget-programme",
+ "publisher": "News du Cameroun",
+ "published": "2024-08",
+ "date_source": "proxy",
+ "why_not": "accounting and budget software, class accounts: gives the study no fact (parent, R4)"
+}

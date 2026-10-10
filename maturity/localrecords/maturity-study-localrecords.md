@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-localrecords.md — the sixth maturity study: digitalisation of local government records, as the revenue record
 last_reviewed: 2026-10-10
-status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 under way
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; step 3 closed, waiting on OSINT's ingest under note 225
 ---
 
 # Maturity study: localrecords — revenue records
@@ -98,7 +98,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 - [x] **R1. Bill's rulings**: the six proposals stand, 2026-10-10.
 - [x] **R2. Review all 54 countries**, method §4: 566 documents, 117 facts, 20 countries with evidence.
 - [x] **R3. Test and fix the ladder**: 3 facts withdrawn.
-- [ ] **R4. Search and hand over**, method §5.
+- [x] **R4. Search and hand over**, method §5: 127 documents, `notes-for-osint` 225.
 - [ ] **R5. Re-read and stage.**
 - [ ] **R6. Write, render and lint.**
 - [ ] **R7. Report to Bill.**

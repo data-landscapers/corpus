@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "SIM 2.0, the Municipal Information System, is in operation in every municipality in the country and is essentially focused on accounting/financial management of budget execution, i.e. accounting for income and expenditure.",
+ "title": "Terms of Reference: Technical Assistance for the Development and Implementation of SIMple's Administrative and Financial Modules",
+ "publisher": "Unidade de Gestão de Projetos Especiais, Ministry of Finance",
+ "published": "2024-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

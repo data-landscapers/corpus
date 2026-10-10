@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "last12;governance",
+ "fact": "HIT's LADS, with 38 modules including financial management, billing and receipting, is in use by several local authorities, many implementing only peripheral modules, and HIT's InstaPark parking revenue system is used in 15 municipalities.",
+ "title": "HIT's ERP systems boost for councils",
+ "publisher": "The Herald",
+ "published": "2025-06-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

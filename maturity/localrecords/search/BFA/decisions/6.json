@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Public Expenditure and Revenue Review for Burkina Faso",
+ "publisher": "World Bank",
+ "published": "2022-04",
+ "date_source": "source",
+ "why_not": "Mentions local taxes and PACT compliance campaigns; no statement of a digital local revenue record."
+}

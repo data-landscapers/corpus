@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "governance;authorities;held",
+ "fact": "The Auditor General's information systems audit found the Ministry of Local Government's ELOGREV deployed at only 71 of 2,366 sites since 2014/15, interfaced with URA E-Tax and NIRA but not URSB, PBS or IFMS, with implementation funded by both MoFPED and URA's TREP and overlapping IRAS.",
+ "title": "Report of the Auditor General on the Ministry of Local Government for the audit year ended December 2024",
+ "publisher": "Office of the Auditor General",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

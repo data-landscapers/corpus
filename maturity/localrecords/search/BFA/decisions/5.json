@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Profil socio-économique des régions du Burkina Faso, 4e édition",
+ "publisher": "Ministère de l'Économie, des Finances et de la Prospective",
+ "published": "2022-11",
+ "date_source": "source",
+ "why_not": "Own-revenue totals and commune counts only; no statement of a digital payer or payment system (searched recettes propres, logiciel, digital)."
+}

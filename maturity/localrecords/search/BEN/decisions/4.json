@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;governance",
+ "fact": "The unique property tax (TFU) is administered by the DGI on behalf of municipalities, levied only where an urban land register (RFU) exists, self-declared by owners, with 90% to communes and 10% to central government.",
+ "title": "Bénin",
+ "publisher": "Local Government Revenue Initiative (LoGRI)",
+ "published": "2024-01-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

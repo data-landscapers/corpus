@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://tresorbenin.bj/documentation/serve/note-de-conjoncture-des-finances-locales-deuxieme-trimestre-2024",
+  "title": "Note de conjoncture des finances locales — deuxième trimestre 2024",
+  "publisher": "DGTCP Bénin",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "guichet unique deployment"
+ },
+ {
+  "url": "https://api.impots.bj/media/65e65d552449f_Rapport%20Final%20Evaluation%20TADAT-DGI%20BENIN%202023.PDF",
+  "title": "Rapport final d'évaluation TADAT-DGI Bénin 2023",
+  "publisher": "Direction Générale des Impôts",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "SIGIBé, RFU"
+ },
+ {
+  "url": "https://www.ancb.bj/index.php/k2-listing/item/885-premiere-session-2025-de-la-commission-numerique-et-innovation-technologique-de-l-ancb-des-recommandations-concretes-pour-accelerer-la-digitalisation-du-recouvrement-des-recettes-communales.html",
+  "title": "Première session 2025 de la commission Numérique et Innovation Technologique de l'ANCB",
+  "publisher": "ANCB",
+  "published": "2025-06-11",
+  "sub_indicator": "revenue",
+  "why": "digitisation status 2025"
+ },
+ {
+  "url": "https://logri.org/fr/notre-travail/ou-nous-travaillons/benin/",
+  "title": "Bénin",
+  "publisher": "LoGRI",
+  "published": "2024-01-03",
+  "sub_indicator": "revenue",
+  "why": "TFU/RFU, who administers"
+ },
+ {
+  "url": "https://www.ancb.bj/index.php/projet/paacol.html",
+  "title": "PAACOL",
+  "publisher": "ANCB",
+  "published": "2019-09-19",
+  "sub_indicator": "revenue",
+  "why": "guichets uniques in 12 communes, funding"
+ },
+ {
+  "url": "https://cooperation.decentralisation.gouv.bj/projet/76/mise-disposition-logiciel-gestion-recettes-fiscales-nouvelles-communes-formation-acteurs-nouveau-logiciel/",
+  "title": "Mise à disposition du logiciel de gestion des recettes non fiscales pour les nouvelles communes",
+  "publisher": "Plateforme de gestion de la coopération décentralisée",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "local software project"
+ },
+ {
+  "url": "https://cooperation.decentralisation.gouv.bj/projet/110/installation-guichet-unique-activites-connexes-acquisition-moto-profit-regisseur-recettes-reliure-cartonnage-registres-etat-civil-inventaire-patrimoine-communal-mise-disposition-logiciel-gestion-creation-d/",
+  "title": "Installation de guichet unique… mise à disposition de logiciel de gestion du RFU",
+  "publisher": "Plateforme de gestion de la coopération décentralisée",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "RFU software project"
+ },
+ {
+  "url": "https://www.giz.de/en/projects/support-reform-public-finances-achieve-sdgs-and-mobilise-public-revenues",
+  "title": "Support to the reform of public finances to achieve the SDGs and mobilise public revenues",
+  "publisher": "GIZ",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "communal digital solutions"
+ }
+]

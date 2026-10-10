@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;recorded",
+ "fact": "Since 2024 the DGI cross-checks its national taxpayer register against persons carrying on economic activity in the communes, to identify, register and tax new taxpayers (TADAT assessment, April 2025).",
+ "title": "République du Cameroun - Évaluation TADAT",
+ "publisher": "TADAT Secretariat",
+ "published": "2025-08",
+ "date_source": "source",
+ "why_not": ""
+}

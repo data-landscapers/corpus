@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities;governance",
+ "fact": "Since June 2023 LoGRI and UC Berkeley have supported Kasaï Central in deploying Moptax in Kananga (property register, billing, mobile money and bank payment, appeals, enforcement); in April 2025 it entered its first full year, with government-led operation planned for the 2026 tax cycle.",
+ "title": "Building Local Government Capacity for Property Tax Reform in Kananga, DRC",
+ "publisher": "LoGRI (Local Government Revenue Initiative)",
+ "published": "2025-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

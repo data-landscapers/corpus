@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;governance",
+ "fact": "Decreto Presidencial 176/24 states the Portal do Munícipe is the platform for requesting services and collecting the own revenues of local state bodies nationwide, requires prior registration of individuals and companies there (ID or company certificate and NIF), and has fees assessed and collected there by payment slip paid via RUPE.",
+ "title": "Decreto Presidencial n.º 176/24 — Regime Jurídico das Taxas Cobradas pelos Órgãos da Administração Local do Estado",
+ "publisher": "Presidência da República de Angola",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

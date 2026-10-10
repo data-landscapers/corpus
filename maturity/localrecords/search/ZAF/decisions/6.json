@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held",
+ "fact": "Mangaung Metropolitan Municipality's financial system, Solar, was rendered inoperable by a ransomware attack on 24 October 2023, and its statements record consumer receivables held on that system.",
+ "title": "Consolidated Annual Financial Statements for the year ended 30 June 2023",
+ "publisher": "Mangaung Metropolitan Municipality",
+ "published": "2024-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

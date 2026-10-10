@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities;governance",
+ "fact": "The PAMREC pilot launched 27 July 2023 will deploy the PROTON tax system in 19 municipalities, centralising geo-referenced taxpayer data and their payments, with a property assessment in 3 more; funded by Côte d'Ivoire and the AfDB with RDF as technical partner.",
+ "title": "Launch of Municipal Revenue Mobilization Project in Côte d'Ivoire",
+ "publisher": "Revenue Development Foundation",
+ "published": "2023-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf",
+  "title": "IFMIS upgrade terms of reference",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "IFMIS used by all Ministries and Councils"
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/cr/2022/english/1lsoea2022001.pdf",
+  "title": "Government Finance Statistics technical-assistance report",
+  "publisher": "IMF",
+  "published": "2022-02",
+  "sub_indicator": "revenue",
+  "why": "Council reporting universe"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099012624174578070/txt/BOSIB-128fca20-d94a-4436-b2de-2ad6f80d422e.txt",
+  "title": "Public Sector Foundations for Service Delivery Project",
+  "publisher": "World Bank",
+  "published": "2023-12-22",
+  "sub_indicator": "revenue",
+  "why": "Ownership and funding of IFMIS/IRMS"
+ },
+ {
+  "url": "https://nationalassembly.parliament.ls/wp-content/uploads/2023/03/27th-Monday.pdf",
+  "title": "National Assembly proceedings, 27 February 2023",
+  "publisher": "National Assembly of Lesotho",
+  "published": "2023-02-27",
+  "sub_indicator": "revenue",
+  "why": "Digital receipts via IFMIS"
+ },
+ {
+  "url": "https://nationalassembly.parliament.ls/wp-content/uploads/2023/11/2023-2024-Mid-Term-Budget-Statemet-08-11-2023-2.pdf",
+  "title": "2023/24 Mid-Term Budget Statement",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "2023-11-08",
+  "sub_indicator": "revenue",
+  "why": "IRMS rollout scale"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099100825094531786/pdf/P174171-5304aeee-6ce2-4c89-b994-5d51c6b7e14b.pdf",
+  "title": "Procurement plan P174171",
+  "publisher": "World Bank",
+  "published": "2024-05-16",
+  "sub_indicator": "revenue",
+  "why": "Funding and implementation"
+ },
+ {
+  "url": "https://auditorgeneral.org.ls/wp-content/uploads/2024/05/AUDIT-REPORT-2022.pdf",
+  "title": "Auditor-General report for year ended March 2022",
+  "publisher": "Auditor-General of Lesotho",
+  "published": "2022",
+  "sub_indicator": "revenue",
+  "why": "Councils in consolidated accounts"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.tadat.org/content/dam/tadat/en/assessments/Cameroon%20-%202025.pdf",
+  "title": "République du Cameroun - évaluation TADAT 2025",
+  "publisher": "TADAT",
+  "published": "2025",
+  "sub_indicator": "revenue",
+  "why": "national taxpayer register Harmony/ATOM, cross-check with commune activities from 2024"
+ },
+ {
+  "url": "https://tresorpublic.cm/",
+  "title": "TresorPay",
+  "publisher": "Direction Générale du Trésor, de la Coopération financière et monétaire",
+  "published": "2025",
+  "sub_indicator": "revenue",
+  "why": "national payment and receipt platform"
+ },
+ {
+  "url": "https://tresorpublic.cm/fr/services/cdtotvp",
+  "title": "Dématérialisation des recettes non fiscales - CTD",
+  "publisher": "Trésor public camerounais",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "council payment and receipt flow"
+ },
+ {
+  "url": "https://theguardianpostcameroon.com/post/3601/en/homelocal-regional-councils-minister-calls-for-speedy-setting-up-of-it-management-system-for-finances",
+  "title": "Local, regional councils: Minister calls for speedy setting up of IT management system for finances",
+  "publisher": "The Guardian Post",
+  "published": "2024-07-26",
+  "sub_indicator": "revenue",
+  "why": "SIMBA rollout target of 384 councils from 1 Jan 2025"
+ },
+ {
+  "url": "https://www.newsducamer.com/gestion-des-finances-locales-sim-_-ba-un-frein-a-larrimage-des-ctd-au-budget-programme/",
+  "title": "Gestion des finances locales : Sim_ba, un frein à l'arrimage des CTD au Budget-programme",
+  "publisher": "News du Cameroun",
+  "published": "2024-08-23",
+  "sub_indicator": "revenue",
+  "why": "uneven SIM_ba use, PAGFI funding"
+ },
+ {
+  "url": "https://theguardianpostcameroon.com/post/6886/en/homeenhance-financial-management-sw-regional-local-authorities-undergo-coaching-on-updated-simba",
+  "title": "To enhance financial management: SW regional, local authorities undergo coaching on updated SIMba Software",
+  "publisher": "The Guardian Post",
+  "published": "2026-04",
+  "sub_indicator": "revenue",
+  "why": "34 South-West councils moving to updated SIMba"
+ },
+ {
+  "url": "https://www.cameroon-tribune.cm/article.html/52133/fr.html/yaounde-les-merveilles-de",
+  "title": "Yaoundé : les merveilles de Simba",
+  "publisher": "Cameroon Tribune",
+  "published": "2022-10-27",
+  "sub_indicator": "revenue",
+  "why": "SIMBA in Yaoundé urban council"
+ },
+ {
+  "url": "https://www.impots.cm/fr/fichier-des-contribuables",
+  "title": "Fichier des contribuables",
+  "publisher": "Direction Générale des Impôts",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "national single taxpayer file"
+ }
+]

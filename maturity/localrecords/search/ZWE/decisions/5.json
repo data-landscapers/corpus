@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "last12;governance",
+ "fact": "Harare's mayor said the council has signed up to BIQ's ERP, following ministerial letters citing the President's plan that every municipality have a functional ERP, and Auditor-General and parliamentary recommendations.",
+ "title": "Harare City Council reintroduces the Enterprise Resource Planning system",
+ "publisher": "The Herald",
+ "published": "2025-10-17",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;last12;held",
+ "fact": "The semi-annual monitoring report for FY2024/25 says IRAS is being rolled out in all local governments, monitored across nine cities while Jinja stays on e-LogRev, and that local governments cannot track contractor street-parking collections through IRAS.",
+ "title": "Domestic Revenue Mobilisation Strategy: Semi-Annual Monitoring Report FY 2024/25",
+ "publisher": "Ministry of Finance, Planning and Economic Development",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.gov.bw/ministries/ministry-local-government-and-traditional-affairs",
+  "title": "Ministry of Local Government and Traditional Affairs",
+  "publisher": "Government of Botswana",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "council universe of 31"
+ },
+ {
+  "url": "https://www.gov.bw/sites/default/files/2025-03/2025%20Budget%20Speech%20_MINISTER%20OF%20FINANCE_09-02-2025_FINAL.pdf",
+  "title": "2025 Budget Speech",
+  "publisher": "Ministry of Finance, Botswana",
+  "published": "2025-02-09",
+  "sub_indicator": "revenue",
+  "why": "rates arrears owed to councils"
+ },
+ {
+  "url": "https://www.sng-wofi.org/country_profiles/botswana.html",
+  "title": "Country and territory profiles: Botswana",
+  "publisher": "SNG-WOFI",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "council count and funding"
+ },
+ {
+  "url": "https://www.bwtechzone.com/2024/06/access-bank-gaborone-city-council.html",
+  "title": "Access Bank, Gaborone City Council & GoSmartValue launch property-rate payment platform",
+  "publisher": "BW TechZone",
+  "published": "2024-06-14",
+  "sub_indicator": "revenue",
+  "why": "local PayRates platform, payment history"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/87943",
+  "title": "Strategy aims to maximise revenue collection",
+  "publisher": "Daily News",
+  "published": "2025",
+  "sub_indicator": "revenue",
+  "why": "revenue strategy for councils"
+ },
+ {
+  "url": "https://www.gov.bw/sites/default/files/2021-11/Auditor%20General%27s%20report%202019-2020%20.pdf",
+  "title": "Auditor General's Report for the year ended 31 March 2020",
+  "publisher": "Office of the Auditor General, Botswana",
+  "published": "2021",
+  "sub_indicator": "revenue",
+  "why": "debtor accounting at councils"
+ }
+]

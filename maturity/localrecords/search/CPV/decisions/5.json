@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "recorded",
+ "fact": "The Property Tax Code defines property-tax matrices as registers recording each property's characterisation, location and taxable value and the identity of its owners, usufructuaries and holders of surface rights.",
+ "title": "Lei n.º 55/X/2025, Código do Imposto sobre a Propriedade de Imóveis",
+ "publisher": "Assembleia Nacional",
+ "published": "2025-06-06",
+ "date_source": "source",
+ "why_not": "a law, which places nothing (parent, R4)"
+}

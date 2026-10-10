@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "Kannaland Municipality reports the number of formal residential properties billed for sewerage services in accordance with the SAMRAS financial system as at 30 June 2023.",
+ "title": "2022/2023 Final Annual Report",
+ "publisher": "Kannaland Municipality",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;governance;authorities",
+ "fact": "Thirty-four counties had acquired revenue management systems from various vendors, 97% of them using only the revenue collection module, and 14 of the 34 used the Zizi collection system as software as a service.",
+ "title": "Automation for County Own Source Revenue: Gaps, Challenges and Solutions (Policy Brief No. 2)",
+ "publisher": "Council of Governors / CEG Kenya",
+ "published": "2019-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

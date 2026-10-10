@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;governance",
+ "fact": "The World Bank IEG review of the Strategic Cities Project (closed 26 November 2020) reports that LGRCIS, which bills by bar-coded invoices and issues electronic receipts, was scaled up from 8 LGAs to all 185 mainland LGAs, with the project financed by IDA credits.",
+ "title": "Implementation Completion Report (ICR) Review: TZ-Strategic Cities Project (P111153)",
+ "publisher": "World Bank Group, Independent Evaluation Group",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

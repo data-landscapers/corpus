@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/272851638847407219/pdf/Nigeria-State-and-Local-Governance-Reform-Project.pdf",
+  "title": "Nigeria State and Local Governance Reform Project: Implementation Completion and Results Report",
+  "publisher": "World Bank",
+  "published": "2021-11-30",
+  "sub_indicator": "revenue",
+  "why": "Electronic taxpayer databases in 5 of 6 states; LG pilot, scale, funder"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/600781625160293178/pdf/Nigeria-State-Employment-and-Expenditure-for-Results-Project.pdf",
+  "title": "Nigeria State Employment and Expenditure for Results Project",
+  "publisher": "World Bank",
+  "published": "2021-05-28",
+  "sub_indicator": "revenue",
+  "why": "State tax administration systems, what recorded, who operates"
+ },
+ {
+  "url": "https://kaninvest.kn.gov.ng/wp-content/uploads/KANO-STATE-BERAP-2024-PROGRESS-REPORT.pdf",
+  "title": "Kano State BERAP 2024 Progress Report",
+  "publisher": "Kano State Government",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "KIRMAS-KIGRA state-LGA integration"
+ },
+ {
+  "url": "https://axxpoint.imostate.gov.ng/pdf/IMSG_Law_Revenue_Administration_2021.pdf",
+  "title": "Imo State Internal Revenue Administration, Consolidation and Codification Law 2021",
+  "publisher": "Imo State Government",
+  "published": "2021",
+  "sub_indicator": "revenue",
+  "why": "Taxpayer database requirement, LGA revenue committees"
+ },
+ {
+  "url": "https://anambrastate.gov.ng/wp-content/uploads/STATE-BUSINESS-ENABLING-REFORM-ACTION-PLANS-BERAP-FY-2023.pdf",
+  "title": "State Business Enabling Reform Action Plan FY 2023",
+  "publisher": "Anambra State Government",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "Consolidated demand notices, e-collection, receipts"
+ },
+ {
+  "url": "http://ngfrepository.org.ng:8080/jspui/handle/123456789/3118",
+  "title": "Edo Revenue Administration System – Technology for Tax",
+  "publisher": "Edo State IRS / NGF repository",
+  "published": "2021-04-19",
+  "sub_indicator": "revenue",
+  "why": "State ownership, payer registration"
+ },
+ {
+  "url": "https://taxpayers.irs.kg.gov.ng/E-TAXGuide.pdf",
+  "title": "KogiREMS User Guide",
+  "publisher": "Kogi State Internal Revenue Service",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "What a state platform records"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities;governance",
+ "fact": "The Treasury study (2022) finds collection of communal own revenue still run on receipt books with no regular control, and that the Treasury decided to support automation of local collection with software named Net Collect Services; the country has 31 regions, 201 communes and 2 autonomous districts.",
+ "title": "Rapport de l'étude sur la mobilisation des recettes propres des collectivités territoriales",
+ "publisher": "Direction générale du Trésor et de la Comptabilité publique",
+ "published": "2022-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

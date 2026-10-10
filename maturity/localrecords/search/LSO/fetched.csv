@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf,held,held as raw/2026/2026-08-26-lesotho-mofdp-ifmis-epicor-kinetic-upgrade-tor.md,,0,,
+2,https://www.imf.org/-/media/files/publications/cr/2022/english/1lsoea2022001.pdf,fetched,"second pass, by second client",scripts/.workroot/study/localrecords/cache/LSO/2.txt,12181,pdf,Kingdom of Lesotho: Technical Assistance Report-Government Finance Statistics; IMF Country Report No. 22/87; February 2022
+3,https://documents1.worldbank.org/curated/en/099012624174578070/txt/BOSIB-128fca20-d94a-4436-b2de-2ad6f80d422e.txt,unfetchable,empty extraction; no usable Wayback capture | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,,0,,
+4,https://nationalassembly.parliament.ls/wp-content/uploads/2023/03/27th-Monday.pdf,fetched,,scripts/.workroot/study/localrecords/cache/LSO/4.txt,16717,pdf,
+5,https://nationalassembly.parliament.ls/wp-content/uploads/2023/11/2023-2024-Mid-Term-Budget-Statemet-08-11-2023-2.pdf,fetched,,scripts/.workroot/study/localrecords/cache/LSO/5.txt,7814,pdf,
+6,https://documents1.worldbank.org/curated/en/099100825094531786/pdf/P174171-5304aeee-6ce2-4c89-b994-5d51c6b7e14b.pdf,fetched,,scripts/.workroot/study/localrecords/cache/LSO/6.txt,5581,pdf,World Bank Document
+7,https://auditorgeneral.org.ls/wp-content/uploads/2024/05/AUDIT-REPORT-2022.pdf,fetched,,scripts/.workroot/study/localrecords/cache/LSO/7.txt,44752,pdf,

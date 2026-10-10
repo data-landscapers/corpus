@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.tcontas.st/vic2025/c%C3%A2mara-distrital-de-m%C3%A9-z%C3%B3chi-(-ger%C3%AAncia-2023)",
+  "title": "Câmara Distrital de Mé-Zóchi (Gerência 2023)",
+  "publisher": "Tribunal de Contas de São Tomé e Príncipe",
+  "published": "2025",
+  "sub_indicator": "revenue",
+  "why": "Audit of a district council's accounts; whether payments are recorded in a system"
+ },
+ {
+  "url": "https://rstp.st/2025/06/16/governo-regional-formaliza-entrega-de-relatorio-do-ano-2024-ao-tribunal-de-contas/",
+  "title": "Governo Regional formaliza entrega de relatório do ano 2024 ao Tribunal de Contas",
+  "publisher": "Rádio STP",
+  "published": "2025-06-16",
+  "sub_indicator": "revenue",
+  "why": "Regional government reports local revenue; system not named"
+ },
+ {
+  "url": "https://impostos.financas.gov.st/index.php/component/k2/item/265-desenvolvimento-do-sistema-de-informacao-tributaria-para-a-gestao-do-iva-em-sao-tome-e-principe",
+  "title": "Desenvolvimento do Sistema de Informação Tributária para a Gestão do IVA em São Tomé e Príncipe",
+  "publisher": "Direcção dos Impostos / Ministério das Finanças",
+  "published": "2021-11",
+  "sub_indicator": "revenue",
+  "why": "National tax information system; owner, funder, taxpayer register"
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/cr/2022/english/1stpea2022001.pdf",
+  "title": "IMF Country Report No. 22/95",
+  "publisher": "IMF",
+  "published": "2022-04-15",
+  "sub_indicator": "revenue",
+  "why": "National IT platform and taxpayer register validation"
+ },
+ {
+  "url": "https://digitaldevelopmentcompass.undp.org/country/STP",
+  "title": "UNDP Digital Development Compass: Sao Tome and Principe",
+  "publisher": "UNDP",
+  "published": "2022",
+  "sub_indicator": "revenue",
+  "why": "Absence of tax management information system, e-filing, e-payments"
+ },
+ {
+  "url": "https://www.eeas.europa.eu/sites/default/files/documents/EU%20EOM_STeP_Final_Report_EN_pdf.pdf",
+  "title": "EU EOM Final Report STeP",
+  "publisher": "European Union Election Observation Mission",
+  "published": "2022",
+  "sub_indicator": "revenue",
+  "why": "Limited fiscal decentralisation of local bodies"
+ }
+]

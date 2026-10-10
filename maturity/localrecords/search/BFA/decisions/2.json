@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "In October 2021 the DGI was setting up software to register micro-enterprises and to take payment of the micro-enterprise contribution (CME), a tax passed to the collectivités territoriales, i.e. a national DGI system holding the payer register for a local-government revenue.",
+ "title": "Rapport de l'atelier régional d'échanges sur les dispositifs de financement des collectivités territoriales",
+ "publisher": "CGLU Afrique",
+ "published": "2021-10",
+ "date_source": "source",
+ "why_not": ""
+}

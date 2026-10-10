@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "governance;authorities",
+ "fact": "RRA's Strategic Plan 2019/20-2023/24 states the Government widened RRA's scope to collect local government taxes and fees, and commits RRA to complete enhancement of the Local Government Tax Management System.",
+ "title": "Strategic Plan 2019/20-2023/24",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2019-06-24",
+ "date_source": "proxy",
+ "why_not": "the revenue authority collecting for districts, class central, already shown by two selections (parent, R4)"
+}

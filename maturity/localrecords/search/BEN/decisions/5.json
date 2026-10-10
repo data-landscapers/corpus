@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities;governance",
+ "fact": "The PAACOL project, started in 2017 and funded CFAF 743m (EU 656m, AIMF 81m, ANCB 6m), installs single windows for non-tax revenue in 12 communes, each cashier's till equipped with software recording every payment, networked among communal actors.",
+ "title": "PAACOL",
+ "publisher": "Association Nationale des Communes du Bénin",
+ "published": "2019-09-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

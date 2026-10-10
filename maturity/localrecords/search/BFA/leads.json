@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://dgi.bf/digitalisation-des-services-de-la-dgi-les-plateformes-e-titre-et-e-cme-en-marche/",
+  "title": "Digitalisation des services de la DGI : les plateformes e-TITRE et e-CME en marche",
+  "publisher": "Direction générale des impôts",
+  "published": "2023-10-06",
+  "sub_indicator": "revenue",
+  "why": "national tax platform, rollout scope"
+ },
+ {
+  "url": "https://www.uclg.org/sites/default/files/rapport_atelier_regional_dechanges_dispositifs_de_financement_des_ct.pdf",
+  "title": "Atelier régional d'échanges sur les dispositifs de financement des collectivités territoriales",
+  "publisher": "UCLG Africa",
+  "published": "2021-10",
+  "sub_indicator": "revenue",
+  "why": "local software, held local vs shared"
+ },
+ {
+  "url": "https://dgi.bf/5eme-numero-de-la-rubrique-je-paye-mes-impots-la-taxe-de-residence/",
+  "title": "Taxe de résidence - Je paye mes impôts",
+  "publisher": "Direction générale des impôts",
+  "published": "2022-07-25",
+  "sub_indicator": "revenue",
+  "why": "register of payers recorded for local tax"
+ },
+ {
+  "url": "https://www.finances.gov.bf/forum/detail-actualites?cHash=a793c1cb0c49f4e76f127fdc865803e4&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=252",
+  "title": "Évaluation du Programme d'appui aux collectivités territoriales (PACT)",
+  "publisher": "Ministère de l'Économie, des Finances et du Développement",
+  "published": "2021-05-20",
+  "sub_indicator": "revenue",
+  "why": "owner and funder"
+ },
+ {
+  "url": "https://www.finances.gov.bf/fileadmin/user_upload/storage/fichiers/Profil_des_regions__edition_4.pdf",
+  "title": "Profil socio-économique des régions, 4e édition",
+  "publisher": "Ministère de l'Économie, des Finances et de la Prospective",
+  "published": "2022-11",
+  "sub_indicator": "revenue",
+  "why": "denominator of communes"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099915301032383021/pdf/P1747710a253fd0e30b9750f92be37c1028.pdf",
+  "title": "Public Expenditure and Revenue Review for Burkina Faso",
+  "publisher": "World Bank",
+  "published": "2022-04",
+  "sub_indicator": "revenue",
+  "why": "national context"
+ }
+]

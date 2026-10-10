@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;governance;authorities",
+ "fact": "RRA's July 2023 presentation states a national Rwanda Automated Local Government Tax Management (LGT) system was adopted in 2015 for property tax, with property registration, online declaration and payment, audit and enforcement modules, real-time integration with the Land Information System and NIDA, lists of filers, payers and non-payers, and property tax at about 30% of local government collections.",
+ "title": "Information Technology System for Property Tax Administration in Rwanda",
+ "publisher": "Rwanda Revenue Authority (Addis Tax Initiative presentation)",
+ "published": "2023-07-19",
+ "date_source": "source",
+ "why_not": ""
+}

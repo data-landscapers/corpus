@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;governance",
+ "fact": "Prime Minister's Order No 161/03 of 12/09/2019 makes the Rwanda Revenue Authority responsible for assessing and collecting taxes and fees on behalf of decentralised entities, for a service cost of 5% of taxes and 10% of fees collected.",
+ "title": "Prime Minister's Order Nº 161/03 of 12/09/2019 determining the institution in charge of assessment and collection of taxes and fees on behalf of decentralised entities",
+ "publisher": "Official Gazette of the Republic of Rwanda no. 37 of 23/09/2019",
+ "published": "2019-09-23",
+ "date_source": "source",
+ "why_not": ""
+}

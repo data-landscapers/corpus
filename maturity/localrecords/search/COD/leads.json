@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://cd.usembassy.gov/les-etats-unis-appuient-les-efforts-visant-a-ameliorer-la-gestion-des-finances-publiques-des-entites-territoriales-decentralisees-etd/",
+  "title": "United States supports efforts to improve public financial management for local governments",
+  "publisher": "U.S. Embassy Kinshasa / USAID GGA",
+  "published": "2024-07-23",
+  "sub_indicator": "revenue",
+  "why": "tools register taxpayers; 20 ETD in four provinces"
+ },
+ {
+  "url": "https://logri.org/2025/04/building-local-government-capacity-for-property-tax-reform-in-kananga-drc/",
+  "title": "Building Local Government Capacity for Property Tax Reform in Kananga, DRC",
+  "publisher": "LoGRI",
+  "published": "2025-04-28",
+  "sub_indicator": "revenue",
+  "why": "Moptax register-to-collection in Kananga"
+ },
+ {
+  "url": "https://logri.org/project/it-and-property-tax-reform-in-the-province-of-kasai-central-drc/",
+  "title": "IT and Property Tax Reform in the Province of Kasaï Central, DRC",
+  "publisher": "LoGRI",
+  "published": "2024-01-12",
+  "sub_indicator": "revenue",
+  "why": "start of Kananga system, funding"
+ },
+ {
+  "url": "https://drc.egov-africa.org/",
+  "title": "eGov DRC - Gouvernance électronique en RDC",
+  "publisher": "eGov DRC",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "eGov Tax, provinces adopting"
+ },
+ {
+  "url": "https://acp.cd/province/tshopo-inauguration-dun-guichet-unique-des-recettes-pour-le-developpement-de-la-province/",
+  "title": "Tshopo : inauguration d'un guichet unique des recettes pour le développement de la province",
+  "publisher": "Agence Congolaise de Presse",
+  "published": "2025-06-20",
+  "sub_indicator": "revenue",
+  "why": "Tshopo computerised one-stop revenue office, taxpayer identification"
+ },
+ {
+  "url": "https://acp.cd/province/tshopo-lefficacite-de-la-digitalisation-dans-laccroissement-des-recettes-provinciales-saluee-par-un-ministre/",
+  "title": "Tshopo : l'efficacité de la digitalisation dans l'accroissement des recettes provinciales saluée par un ministre",
+  "publisher": "Agence Congolaise de Presse",
+  "published": "2025-07-12",
+  "sub_indicator": "revenue",
+  "why": "Tshopo real-time notes issued/paid"
+ },
+ {
+  "url": "https://acp.cd/province/kasai-la-digitalisation-du-systeme-de-perception-des-recettes-provinciales-lancee-a-tshikapa/",
+  "title": "Kasaï : la digitalisation du système de perception des recettes provinciales lancée à Tshikapa",
+  "publisher": "Agence Congolaise de Presse",
+  "published": "2025-12-04",
+  "sub_indicator": "revenue",
+  "why": "Kodinet launch in Kasaï"
+ },
+ {
+  "url": "https://droitcongolais.be/Legislation/Dfiscal/generalites/D.22.18.04.05.2022.html",
+  "title": "Décret n°22/18 du 4 mai 2022 instituant LOGIRAD",
+  "publisher": "République démocratique du Congo, Ministère des Finances",
+  "published": "2022-05-04",
+  "sub_indicator": "revenue",
+  "why": "national platform, central non-tax revenue"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;recorded",
+ "fact": "On 15 June 2023 UNDP Mali stated that market fees in Malian communes are collected manually, with collectors writing paper tickets by hand, and that its Salen app (smartphone with printer linked to the town hall server) was tested in Koulikoro with about a hundred registered vendors, each ticket entered in the town hall database.",
+ "title": "Innovation et finance locale: Digitalisation de la gestion des ressources communales",
+ "publisher": "PNUD Mali",
+ "published": "2023-06-15",
+ "date_source": "source",
+ "why_not": ""
+}

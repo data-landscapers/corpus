@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://cra.go.ke/download/standards-and-guidelines-on-the-automation-of-county-own-source-revenue/?refresh=6a7ed3fd79d361786696701&wpdmdl=5257,unfetchable,ConnectionError; no usable Wayback capture | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture,,0,,
+2,https://documents1.worldbank.org/curated/en/099061725085538337/txt/P180935-41378f96-1780-44df-8d25-618e4ea3c91c.txt,unfetchable,empty extraction; no usable Wayback capture | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,,0,,
+3,https://cra.go.ke/wp-content/uploads/2025/09/Own-Source-Revenue-Mapping-Guidelines-For-County-Governments.pdf,unfetchable,ConnectionError; no usable Wayback capture | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture,,0,,
+4,https://homabay.go.ke/download/kdsp-ii-half-year-workplan-implementation-report-fy-2024-25,unfetchable,HTTP 404; no usable Wayback capture | second pass: second client: HTTP 404; certificate unverified: HTTP 404; Wayback: no usable capture,,0,,
+5,https://www.oagkenya.go.ke/wp-content/uploads/2026/05/AUDITOR-GENERALS-SUMMARY-REPORT-ON-COUNTY-GOVERNMENTS-2024-2025.pdf,unfetchable,ConnectionError; no usable Wayback capture | second pass: second client: ConnectionError; certificate unverified: ConnectionError; Wayback: no usable capture,,0,,
+6,https://cegkenya.org/wp-content/uploads/2019/11/Policy-Brief-Brochure2.pdf,fetched,,scripts/.workroot/study/localrecords/cache/KEN/6.txt,2300,pdf,Policy Brief Brochure2
+7,https://eujournal.org/index.php/esj/article/view/13419/13560,fetched,,scripts/.workroot/study/localrecords/cache/KEN/7.txt,9154,pdf,
+8,https://kdsp.devolution.go.ke/reforms-under-kdsp-ii,fetched,"second pass, by Wayback",scripts/.workroot/study/localrecords/cache/KEN/8.txt,523,html,Reforms under KDSP II

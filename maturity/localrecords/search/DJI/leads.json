@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099111025105624409/txt/P162904-3eeac894-d682-4b79-811f-96d267415705.txt",
+  "title": "Independent Evaluation Group Implementation Completion Report Review: Djibouti Public Administration Modernization Project",
+  "publisher": "World Bank IEG",
+  "published": "2025",
+  "sub_indicator": "revenue",
+  "why": "ITAS national tax system not deployed at 30 June 2024; no local deployment"
+ },
+ {
+  "url": "https://www.pefa.org/node/4156",
+  "title": "Djibouti 2023 - Evaluation PEFA",
+  "publisher": "PEFA",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "regions and communes largely outside scope; no local digital register"
+ },
+ {
+  "url": "https://aprm.au.int/sites/default/files/files/2025-07/djibouti-le-rapport-final.pdf",
+  "title": "Decentralisation budgetaire - Rapport de revue ciblee de la Republique de Djibouti",
+  "publisher": "MAEP / APRM",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "regions mobilise revenue with deconcentrated tax and treasury services; owner"
+ },
+ {
+  "url": "https://www.sng-wofi.org/country_profiles/djibouti_fr.html",
+  "title": "Fiches pays et territoires - Djibouti",
+  "publisher": "SNG-WOFI",
+  "published": "2020",
+  "sub_indicator": "revenue",
+  "why": "local revenue data availability"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099122024161040934/pdf/BOSIB-28d37d68-d0ab-4355-acca-fed683f4b387.pdf",
+  "title": "Djibouti Economic and Financial Governance Project - Project Appraisal Document",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "planned tax register, e-payments; funder"
+ },
+ {
+  "url": "https://www.govserv.org/DJ/Djibouti/101784638426809/Expertise-France-%C3%A0-Djibouti",
+  "title": "Mission de mobilisation des ressources propres pour les collectivites territoriales",
+  "publisher": "Expertise France",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "five-region diagnostic; EU funded"
+ },
+ {
+  "url": "https://www.lanation.dj/budget-sigtas-mise-en-oeuvre-de-la-transformation-numerique-de-ladministration-fiscale/",
+  "title": "BUDGET/SIGTAS : mise en oeuvre de la transformation numerique de l'administration fiscale",
+  "publisher": "La Nation",
+  "published": "2022-08-24",
+  "sub_indicator": "revenue",
+  "why": "SIGTAS announcement; coverage of local governments"
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/hls/2026/english/hlsea2026018.pdf",
+  "title": "Djibouti: Upgrading Tax Policy - High-Level Summary Technical Assistance Report",
+  "publisher": "IMF",
+  "published": "2026-03",
+  "sub_indicator": "revenue",
+  "why": "property tax consolidation; any local system"
+ }
+]

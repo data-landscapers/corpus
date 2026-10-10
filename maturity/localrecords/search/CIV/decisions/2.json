@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;governance;recorded",
+ "fact": "The appraisal sets the PAMREC pilot at 22 municipalities nationwide, with 100% of data-collection operations on digital media as a target, financed by the African Development Fund and the Ivorian Government.",
+ "title": "Pilot Support Project for the Mobilisation of Municipal Revenue in Côte d'Ivoire (PAMREC) - Project Appraisal Report",
+ "publisher": "African Development Bank",
+ "published": "2021-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.onecitizendaily.com/index.php/2022/10/21/advertisement-by-juba-city-council-jcc/",
+  "title": "Advertisement by Juba City Council (JCC)",
+  "publisher": "One Citizen Daily Newspaper",
+  "published": "2022-10-21",
+  "sub_indicator": "revenue",
+  "why": "Juba City Council digital revenue and collection management system; registers traders and businesses"
+ },
+ {
+  "url": "https://mptf.undp.org/sites/default/files/documents/2022-12/prodoc_south_sudan_fc1_2020_joint_sdg_fund_redacted.pdf",
+  "title": "Joint SDG Fund South Sudan programme document",
+  "publisher": "UNDP / Joint SDG Fund",
+  "published": "2022-12",
+  "sub_indicator": "revenue",
+  "why": "ICT installation and taxpayer database in three states; owner/funder, coverage"
+ },
+ {
+  "url": "https://southsudan.iom.int/sites/g/files/tmzbdl1046/files/documents/20220412-ecrp-county-capacity-report_5.pdf",
+  "title": "County Capacity Master Report",
+  "publisher": "IOM / ECRP",
+  "published": "2022-04-12",
+  "sub_indicator": "revenue",
+  "why": "11 counties assessed on local revenue collection tools; coverage"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-SouthSudan-jun22.pdf",
+  "title": "Digital Economy Assessment: South Sudan",
+  "publisher": "World Bank",
+  "published": "2022-06",
+  "sub_indicator": "revenue",
+  "why": "National e-tax portal 2021; interoperability limits"
+ },
+ {
+  "url": "https://cms.nra.gov.ss/uploads/SOUTH_SUDAN_REVENUE_AUTHORIRTY_ACT_2023_final_copy_677778ef23.pdf",
+  "title": "National Revenue Authority Act, 2016 (Amendment) Act, 2023",
+  "publisher": "South Sudan Revenue Authority",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "Legal basis for e-tax; shared national or local"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/south_sudan_-_non-oil_revenue_mobilization_and_accountability_phase_ii_norma_ii_-_project_appraisal_report.pdf",
+  "title": "South Sudan Non-Oil Revenue Mobilization and Accountability Phase II (NORMA II) appraisal report",
+  "publisher": "African Development Bank",
+  "published": "2024-05",
+  "sub_indicator": "revenue",
+  "why": "Owner and funder of national revenue digitalisation"
+ },
+ {
+  "url": "https://eyeradio.org/ssra-nca-sign-six-year-revenue-digitization-deal-with-ensoft/",
+  "title": "SSRA, NCA sign six-year revenue digitization deal with Ensoft",
+  "publisher": "Eye Radio",
+  "published": "2025-10-09",
+  "sub_indicator": "revenue",
+  "why": "National collection platform build-operate-transfer; ownership"
+ }
+]

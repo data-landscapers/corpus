@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "governance;held;authorities",
+ "fact": "On 11 December 2022 the Ministry of the Interior put into service a four-level computerised system (commune, daira, central administration) to monitor each commune's financial position monthly, including revenue recovery; it is a national system owned by the Ministry (no count of communes given).",
+ "title": "Suivi de la situation financière des communes : mise en service d'un système informatisé",
+ "publisher": "Algérie Eco (citing Ministry of the Interior communiqué)",
+ "published": "2022-12-19",
+ "date_source": "source",
+ "why_not": ""
+}

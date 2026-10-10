@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;governance",
+ "fact": "RRA's 2024/25 Action Plan sets a collection target of RWF 100.7 billion for local government taxes and fees collected on behalf of districts and the City of Kigali, and plans LGTMS integration with LAIS and other systems.",
+ "title": "RRA Action Plan 2024/25",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "the revenue authority collecting for districts, class central, already shown by two selections (parent, R4)"
+}

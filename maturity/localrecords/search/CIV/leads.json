@@ -1,0 +1,66 @@
+[
+ {
+  "url": "http://dgddl.gouv.ci/affiche_actualite.php?actu=504",
+  "title": "Les acquis du projet PAMREC jugés satisfaisants",
+  "publisher": "DGDDL / Ministère de l'Intérieur et de la Sécurité",
+  "published": "2026-05-19",
+  "sub_indicator": "revenue",
+  "why": "SYGIDAN-Recettes transferred to DGDDL; owner, partner, generalisation"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/cote_divoire_-_pilot_support_for_the_mobilisation_of_municipal_revenue_pamrec_-_project_appraisal_report.pdf",
+  "title": "PAMREC Project Appraisal Report",
+  "publisher": "African Development Bank",
+  "published": "2021-05",
+  "sub_indicator": "revenue",
+  "why": "22-commune pilot scope; ADF and government financing"
+ },
+ {
+  "url": "http://dgddl.gouv.ci/affiche_actualite.php?actu=451",
+  "title": "Lancement de l'opération de recensement des contribuables",
+  "publisher": "DGDDL / Ministère de l'Intérieur et de la Sécurité",
+  "published": "2024-11-18",
+  "sub_indicator": "revenue",
+  "why": "register of payers in SYGIDAN-Recettes"
+ },
+ {
+  "url": "https://www.aip.ci/cote-divoire-aip-vers-la-digitalisation-des-recettes-fiscales-des-communes/",
+  "title": "Vers la digitalisation des recettes fiscales des communes",
+  "publisher": "Agence Ivoirienne de Presse",
+  "published": "2024-04-25",
+  "sub_indicator": "revenue",
+  "why": "centralised revenue data, 22-commune pilot, wider deployment"
+ },
+ {
+  "url": "https://revenuedevelopment.org/digital-collection-of-market-taxes-in-ndouci-and-in-6-other-municipalities/",
+  "title": "Digital collection of market taxes in N'Douci, and in 6 other municipalities",
+  "publisher": "Revenue Development Foundation",
+  "published": "2024-04-01",
+  "sub_indicator": "revenue",
+  "why": "live in 7 municipalities; payments and tickets"
+ },
+ {
+  "url": "https://revenuedevelopment.org/launch-of-municipal-revenue-mobilization-project-in-cote-divoire/",
+  "title": "Launch of Municipal Revenue Mobilization Project in Côte d'Ivoire",
+  "publisher": "Revenue Development Foundation",
+  "published": "2023-10-10",
+  "sub_indicator": "revenue",
+  "why": "data model, pilot start, 19 municipalities"
+ },
+ {
+  "url": "https://tresor.gouv.ci/tres/wp-content/uploads/2022/08/RAPPORT-DE-LETUDE-SUR-LA-MOBILISATION-DES-RECETTES-PROPRES-DES-COLLECTIVITES-TERRITORIALES.pdf",
+  "title": "Rapport de l'étude sur la mobilisation des recettes propres des collectivités territoriales",
+  "publisher": "DGTCP",
+  "published": "2022-08",
+  "sub_indicator": "revenue",
+  "why": "denominator and state of local revenue records"
+ },
+ {
+  "url": "https://mairieassinie.com/web/ceremonie-de-restitution-des-bases-de-donnees-des-contribuables/",
+  "title": "Cérémonie de restitution des bases de données des contribuables",
+  "publisher": "Mairie d'Assinie-Mafia",
+  "published": "2025-12-10",
+  "sub_indicator": "revenue",
+  "why": "taxpayer database delivered to a commune"
+ }
+]

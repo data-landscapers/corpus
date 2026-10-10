@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "At FIDAK 2025 the Treasury (DGCPT) presented Koom Com, an application to give local governments a digital, geolocated census of taxpayers and track each payment from assessment to collection, to be deployed in phases starting with the 125 urban communes.",
+ "title": "FIDAK 2025 : présentation de l'outil numérique Koom Com pour la digitalisation et l'optimisation de la fiscalité locale",
+ "publisher": "Trésor public du Sénégal (DGCPT)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

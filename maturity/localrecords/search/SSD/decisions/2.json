@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;governance",
+ "fact": "UNDP planned to continue in 2020 with ICT installation and mapping of taxpayers for State Revenue Authorities (through AfDB funding), and lists a 'Taxpayer database installed' output; this is state-level, not county or council.",
+ "title": "Joint SDG Fund South Sudan programme document",
+ "publisher": "UNDP / Joint SDG Fund",
+ "published": "2022-12",
+ "date_source": "source",
+ "why_not": "state revenue authorities, class upper-tier: gives the study no fact (parent, R4)"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "governance;held",
+ "fact": "In 2020 local authorities were not empowered to collect taxes, local finance data were generally unavailable, and the EU and Expertise France had supported regional budgets since 2020 through the ADIL project; the shared business tax is collected by Ministry of Budget tax services.",
+ "title": "Fiches pays et territoires - Djibouti",
+ "publisher": "SNG-WOFI (UCLG / OECD)",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

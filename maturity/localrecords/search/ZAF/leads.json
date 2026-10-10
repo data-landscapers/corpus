@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.treasury.gov.za/publications/other/The%20state%20of%20local%20government%20finance%20and%20financial%20management%20as%20at%2030%20June%202024.pdf",
+  "title": "The State of Local Government Finances and Financial Management as at 30 June 2024",
+  "publisher": "National Treasury",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "257 municipalities, mSCOA and LGDRS reporting, billed revenue and debtors"
+ },
+ {
+  "url": "https://www.treasury.gov.za/publications/other/MinAnsw/2020/PQ%201683%20-%20Brink%20-%20NW2073E.pdf",
+  "title": "National Assembly Question for Written Reply 1683 [NW2073E]",
+  "publisher": "National Treasury",
+  "published": "2020",
+  "sub_indicator": "revenue",
+  "why": "module verification: billing, receipts, debtors; vendors, funding"
+ },
+ {
+  "url": "https://mfma.treasury.gov.za/Circulars/2024_25%20MTREF%20Budget%20Circular%20No.%20126%20-%2007%20December%202023%20%28final%29.pdf",
+  "title": "Municipal Budget Circular for the 2024/25 MTREF",
+  "publisher": "National Treasury",
+  "published": "2023-12-07",
+  "sub_indicator": "revenue",
+  "why": "ERP systems must generate mSCOA strings; ownership and procurement"
+ },
+ {
+  "url": "https://municipaldata.treasury.gov.za/docs",
+  "title": "Municipal Finance API Documentation",
+  "publisher": "National Treasury / Municipal Money",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "national reporting layer versus municipal systems"
+ },
+ {
+  "url": "https://www.kannaland.gov.za/download_document/1761",
+  "title": "2022/2023 Final Annual Report",
+  "publisher": "Kannaland Municipality",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "names SAMRAS and revenue/debtors system need"
+ },
+ {
+  "url": "https://lg.treasury.gov.za/supportingdocs/MAN/MAN_Financial%20Statement%20Audited_2023_Y_20240206T134927Z_arrie_bartnis.pdf",
+  "title": "Mangaung Metropolitan Municipality Consolidated Annual Financial Statements 2023",
+  "publisher": "Mangaung Metropolitan Municipality",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "names Solar as the financial system"
+ },
+ {
+  "url": "https://support.munsoft.co.za/story",
+  "title": "The Munsoft Story",
+  "publisher": "Munsoft",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "vendor claim of 58 of 257 municipalities"
+ },
+ {
+  "url": "https://staging.it-online.co.za/multi-million-rand-investment-in-samras-upgrade/",
+  "title": "SAMRAS receives multi-million rand upgrade",
+  "publisher": "IT-Online",
+  "published": "2020",
+  "sub_indicator": "revenue",
+  "why": "SAMRAS client count, vendor ownership and funding"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities;governance",
+ "fact": "A National and Provincial Treasury module-use verification in October and November 2019 found most municipalities have billing and receipts, debtors and creditors modules in their core financial systems or via third-party sub-systems, with vendor dependency, licence costs and vendor non-payment named as constraints.",
+ "title": "National Assembly Question for Written Reply 1683 [NW2073E]",
+ "publisher": "National Treasury",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

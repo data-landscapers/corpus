@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "governance;held",
+ "fact": "The Treasury circular of 7 December 2023 requires municipalities to generate their financial data strings and Schedule A1 directly from their own ERP systems, and tells them to budget for and upgrade the ERP modules and third-party systems they use.",
+ "title": "Municipal Budget Circular for the 2024/25 MTREF (MFMA Circular No. 126)",
+ "publisher": "National Treasury",
+ "published": "2023-12-07",
+ "date_source": "source",
+ "why_not": ""
+}

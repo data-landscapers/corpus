@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;authorities",
+ "fact": "On 4-5 June 2025 the ANCB digital commission met in Grand-Popo to analyse the current state of communal revenue recovery and draft recommendations for digitalising it, indicating no national digital system for communes' own revenue was yet reported as deployed.",
+ "title": "Première session 2025 de la commission Numérique et Innovation Technologique de l'ANCB",
+ "publisher": "Association Nationale des Communes du Bénin",
+ "published": "2025-06-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

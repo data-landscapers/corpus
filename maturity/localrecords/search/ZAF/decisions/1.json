@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;governance",
+ "fact": "Municipalities are required under the mSCOA regulations to plan, budget, transact and report directly from their own mSCOA-compliant core financial systems, but several still prepare reports on Excel spreadsheets and import them for submission to the National Treasury Local Government Upload portal.",
+ "title": "The State of Local Government Finances and Financial Management as at 30 June 2024",
+ "publisher": "National Treasury",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

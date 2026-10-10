@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities;governance",
+ "fact": "The DGTCP's Q2 2024 local finance bulletin says the reform of the communal revenue single window (guichet unique) was entering its operational phase, with deployment and training of some communal actors announced for Q3 2024, led by the Treasury with German cooperation support for some communes; no count of communes is given.",
+ "title": "Note de conjoncture des finances locales — deuxième trimestre 2024",
+ "publisher": "Direction Générale du Trésor et de la Comptabilité Publique",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

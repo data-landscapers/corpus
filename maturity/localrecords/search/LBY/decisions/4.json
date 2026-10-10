@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;authorities",
+ "fact": "The Ministry of Local Government's training programme for the second cohort of newly elected mayors, covering 21 named municipalities, grants them full access permissions to the Ministry's electronic systems, which include the Local Revenue System.",
+ "title": "برنامج تدريبي للدفعة الثانية من عمداء واعضاء مجالس بلدية",
+ "publisher": "منصة الصباح",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

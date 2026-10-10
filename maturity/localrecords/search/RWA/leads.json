@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.rra.gov.rw/fileadmin/user_upload/pm_order_granting_rra_to_collect_decentralized_tax_1.pdf",
+  "title": "Official Gazette no. 37 of 23/09/2019 - Prime Minister's Order on collection for decentralised entities",
+  "publisher": "Government of Rwanda / Rwanda Revenue Authority",
+  "published": "2019-09-23",
+  "sub_indicator": "revenue",
+  "why": "Owner and funding: RRA collects for districts, service cost"
+ },
+ {
+  "url": "https://localgov.rra.gov.rw/citizenHomePage",
+  "title": "RLGMS Citizen Home",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2025-05-13",
+  "sub_indicator": "revenue",
+  "why": "Register of taxpayers, declarations, arrears"
+ },
+ {
+  "url": "https://www.addistaxinitiative.net/sites/default/files/resources/3.1.%20Presentation%20Karasira_IT%20Rwanda.pdf",
+  "title": "Information Technology System for Property Tax Administration in Rwanda",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2023-07-19",
+  "sub_indicator": "revenue",
+  "why": "Centralised property records, coverage, channels"
+ },
+ {
+  "url": "https://www.rra.gov.rw/fileadmin/user_upload/RRA_FAQs_JAN_2024.pdf",
+  "title": "RRA Frequently Asked Questions - January 2024",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2024-01",
+  "sub_indicator": "revenue",
+  "why": "Online declaration workflow for district taxes"
+ },
+ {
+  "url": "https://www.rra.gov.rw/fileadmin/user_upload/rra_strategic_plan_2019-2024_ab.pdf",
+  "title": "RRA Strategic Plan 2019-2024",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2019-06-24",
+  "sub_indicator": "revenue",
+  "why": "Ownership, LGT system enhancement"
+ },
+ {
+  "url": "https://www.rra.gov.rw/fileadmin/user_upload/RRA_ACTION_PLAN_2024-2025_Ok.pdf",
+  "title": "RRA Action Plan 2024/25",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "Collection for all districts and Kigali"
+ },
+ {
+  "url": "https://www.rra.gov.rw/en/domestic-tax-services/local-government-taxes",
+  "title": "Local Government taxes",
+  "publisher": "Rwanda Revenue Authority",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "RRA collects local taxes on behalf of districts"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;governance",
+ "fact": "The 2023 TADAT assessment states SIGIBé, the DGI's centralised computerised tax system, holds the national taxpayer register and files tracking declaration and payment obligations and receipts, and that DGI field visits update the small-business file and the urban land register (RFU).",
+ "title": "Rapport final d'évaluation TADAT-DGI Bénin 2023",
+ "publisher": "Direction Générale des Impôts (Bénin) / FMI",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

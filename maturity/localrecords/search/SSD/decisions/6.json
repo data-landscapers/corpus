@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "governance;held",
+ "fact": "AfDB NORMA II appraisal excludes IT infrastructure and modernization of state revenue authorities pending outcomes of reforms on state and central revenue assignments.",
+ "title": "South Sudan Non-Oil Revenue Mobilization and Accountability Phase II (NORMA II) appraisal report",
+ "publisher": "African Development Bank",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": "state revenue authorities, class upper-tier: gives the study no fact (parent, R4)"
+}

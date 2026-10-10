@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "In December 2020 the Bangui city hall was identifying its traders and building a taxpayer database with an individual sheet showing what each owes in taxes, run by the mairie's own IT service (a local register, pilot in the city centre).",
+ "title": "Centrafrique: la mairie de Bangui modernise la collecte des taxes auprès des commerçants",
+ "publisher": "RFI",
+ "published": "2020-12-02",
+ "date_source": "source",
+ "why_not": ""
+}

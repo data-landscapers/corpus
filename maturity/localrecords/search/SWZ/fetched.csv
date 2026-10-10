@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/875201579097143908/txt/Eswatini-Swaziland-Local-Government-Project.txt,unfetchable,empty extraction; no usable Wayback capture | second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,,0,,
+2,https://www.imf.org/-/media/files/publications/cr/2022/english/1swzea2022001.pdf,fetched,"second pass, by second client",scripts/.workroot/study/localrecords/cache/SWZ/2.txt,13149,pdf,Kingdom of Eswatini: Technical Assistance Report on Government Finance Statistics Mission; IMF Country Report No. 22/356
+3,https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20HOUSING%202025.pdf,fetched,"second pass, by Wayback",scripts/.workroot/study/localrecords/cache/SWZ/3.txt,33298,pdf,
+4,https://www.mbabane.org.sz/wp-content/uploads/2023/09/MCM-Annual-Report-22-23.pdf,held,held as raw/2023/2023-09-01-swz-municipal-council-of-mbabane-annual-report-2022-23.md,,0,,
+5,https://manzinicity.co.sz/rates-bills-for-2024-2025-financial-year-now-available/,fetched,,scripts/.workroot/study/localrecords/cache/SWZ/5.txt,885,html,Blog
+6,https://manzinicity.co.sz/you-can-now-pay-rates-using-e-mali/,fetched,,scripts/.workroot/study/localrecords/cache/SWZ/6.txt,859,html,Blog
+7,https://eswatinipositivenews.online/mbabane-boss-backs-smart-billing-to-speed-up-service-delivery/,fetched,,scripts/.workroot/study/localrecords/cache/SWZ/7.txt,416,html,MBABANE BOSS BACKS SMART BILLING TO SPEED UP SERVICE DELIVERY - Eswatini Positive News
+8,https://www.eswatiniobserver.com/eswatini-municipalities-embrace-digital-future-at-icma-global-exchange/,fetched,,scripts/.workroot/study/localrecords/cache/SWZ/8.txt,462,html,Eswatini Municipalities Embrace Digital Future at ICMA Global Exchange

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "governance;authorities;held",
+ "fact": "On 12 December 2025 the Mairie de Bangui signed a convention with BMI-WFS, in the presence of the Minister of Territorial Administration, to digitalise the capital's municipal revenues, with the next similar signing planned in Gemena (DRC); no other CAR commune is named.",
+ "title": "Bangui : signature d'une convention pour la digitalisation des recettes municipales",
+ "publisher": "Agence Centrafricaine de Presse (ACAP)",
+ "published": "2025-12-18",
+ "date_source": "source",
+ "why_not": ""
+}

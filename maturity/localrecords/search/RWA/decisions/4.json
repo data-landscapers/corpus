@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "RRA's January 2024 FAQ describes taxpayers logging in with their TIN to declare and pay district revenues (trading licence, rental income, property tax) online through the RRA system, with district fees and taxes declared per district.",
+ "title": "RRA Frequently Asked Questions",
+ "publisher": "Rwanda Revenue Authority",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": "the revenue authority collecting for districts, class central, already shown by two selections (parent, R4)"
+}

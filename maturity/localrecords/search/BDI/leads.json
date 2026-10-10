@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.undp.org/fr/burundi/actualites/le-pnud-appuie-la-digitalisation-de-la-fiscalite-communale-travers-e-taxe",
+  "title": "Le PNUD appuie la digitalisation de la fiscalité communale à travers E-Taxe",
+  "publisher": "PNUD",
+  "published": "2024-08-26",
+  "sub_indicator": "revenue",
+  "why": "E-Taxe launch, 12 pilots"
+ },
+ {
+  "url": "https://procurement-notices.undp.org/view_file.cfm?doc_id=261606",
+  "title": "Recrutement de consultants pour une étude de faisabilité sur la modernisation de la gestion des taxes communales au Burundi",
+  "publisher": "PNUD",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "manual chain, survey of 119 communes"
+ },
+ {
+  "url": "https://www.rtnb.bi/?mypost%3Fid=249",
+  "title": "La digitalisation fiscale: E-Taxe, un tournant majeur pour la gestion des recettes communales",
+  "publisher": "RTNB",
+  "published": "2026-02-23",
+  "sub_indicator": "revenue",
+  "why": "12 pilots, traceability, centralisation"
+ },
+ {
+  "url": "https://communebutihinda.gov.bi/butihinda-en-marche-vers-la-digitalisation-des-recettes-communales-grace-a-la-plateforme-ibb-m/",
+  "title": "BUTIHINDA: En marche vers la digitalisation des recettes communales grâce à la plateforme IBB M+",
+  "publisher": "Commune Butihinda",
+  "published": "2026-05-06",
+  "sub_indicator": "revenue",
+  "why": "last 12 months: extension"
+ },
+ {
+  "url": "https://irisnews.org/collecte-des-taxes-communales-kayanza-ruyigi-et-kirundo-trois-realites-contrastees-burundi/",
+  "title": "Collecte des taxes communales : Kayanza, Ruyigi et Kirundo, trois réalités contrastées",
+  "publisher": "IRIS News",
+  "published": "2026-06-07",
+  "sub_indicator": "revenue",
+  "why": "recent field status"
+ },
+ {
+  "url": "https://www.undp.org/fr/burundi/actualites/le-pnud-et-le-gouvernement-evaluent-conjointement-les-interventions-sur-terrain",
+  "title": "Le PNUD et le Gouvernement évaluent conjointement les interventions sur terrain",
+  "publisher": "PNUD",
+  "published": "2025-06-26",
+  "sub_indicator": "revenue",
+  "why": "E-Taxe operational in Kayanza"
+ },
+ {
+  "url": "https://burundi-eco.com/recettes-communales-la-commune-kayanza-plus-productive-au-cours-de-lexercice-2024-%e2%80%90-2025/",
+  "title": "Recettes communales : La commune Kayanza plus productive au cours de l'exercice 2024-2025",
+  "publisher": "Burundi Eco",
+  "published": "2025-06-27",
+  "sub_indicator": "revenue",
+  "why": "POS collectors, payers"
+ },
+ {
+  "url": "https://abpinfo.bi/2025/01/16/le-projet-e-taxe-a-deja-prouve-ses-capacites-dans-la-collecte-des-taxes-et-impots-mais-se-heurte-a-un-faible-debit-de-connexion/",
+  "title": "Le projet « e-taxe » a déjà prouvé ses capacités dans la collecte des taxes et impôts, mais se heurte à un faible débit de connexion",
+  "publisher": "Agence Burundaise de Presse",
+  "published": "2025-01-16",
+  "sub_indicator": "revenue",
+  "why": "connectivity constraint"
+ }
+]

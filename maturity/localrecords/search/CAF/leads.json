@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20201201-centrafrique-la-mairie-de-bangui-modernise-la-collecte-des-taxes-aupr%C3%A8s-des-commer%C3%A7ants",
+  "title": "Centrafrique: la mairie de Bangui modernise la collecte des taxes auprès des commerçants",
+  "publisher": "RFI",
+  "published": "2020-12-01",
+  "sub_indicator": "revenue",
+  "why": "Bangui taxpayer database"
+ },
+ {
+  "url": "https://acap-rca.com/2025/12/18/bangui-signature-dune-convention-pour-la-digitalisation-des-recettes-municipales/",
+  "title": "Bangui : signature d'une convention pour la digitalisation des recettes municipales",
+  "publisher": "Agence Centrafricaine de Presse",
+  "published": "2025-12-18",
+  "sub_indicator": "revenue",
+  "why": "Bangui municipal revenue digitisation"
+ },
+ {
+  "url": "https://news.abangui.com/h/88206.html",
+  "title": "Digitalisation de l'administration publique : le PNUD et le gouvernement signent un accord de financement",
+  "publisher": "News Abangui",
+  "published": "2024-04-09",
+  "sub_indicator": "revenue",
+  "why": "funding and owner"
+ },
+ {
+  "url": "https://addistaxinitiative.net/node/102246",
+  "title": "Projet de digitalisation de l'Administration Fiscale de la République Centrafricaine Extension",
+  "publisher": "ITC / Addis Tax Initiative",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "national tax systems"
+ },
+ {
+  "url": "https://www.worldbank.org/en/news/press-release/2022/05/05/afw-republique-centrafricaine-soutenir-la-gouvernance-numerique-et-la-competitivite-des-entreprises",
+  "title": "Central African Republic: Supporting Digital Governance and Competitiveness",
+  "publisher": "World Bank",
+  "published": "2022-05-05",
+  "sub_indicator": "revenue",
+  "why": "IDA financing"
+ },
+ {
+  "url": "https://www.aimf.asso.fr/actualite/rca-le-premier-ministre-souligne-dimportance-du-deploiement-de-sim_ba-pour-lamelioration-de-la-gestion-des-ressources-publiques/",
+  "title": "RCA : le Premier Ministre souligne l'importance du déploiement de SIM_ba",
+  "publisher": "AIMF",
+  "published": "2026-07-13",
+  "sub_indicator": "revenue",
+  "why": "SIM_ba deployment"
+ }
+]

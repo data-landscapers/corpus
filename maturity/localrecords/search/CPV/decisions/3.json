@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "last12;authorities",
+ "fact": "On 11 November 2025 a workshop in Praia presented the state of development of the SIMple modules to technicians and councillors from all municipalities, the NOSi chair calling for all 22 municipalities to be fully involved.",
+ "title": "Projeto SIMPle integra a governação local na estratégia de transição digital do país",
+ "publisher": "NOSi",
+ "published": "2025-11-11",
+ "date_source": "source",
+ "why_not": ""
+}

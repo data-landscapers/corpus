@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities;governance",
+ "fact": "The UN Somalia Joint Fund final report says over 22,000 properties are mapped, geo-referenced and interfaced in Garowe with a mobile money payment platform giving real-time payment tracking, with similar work in Baidoa and Gabiley, and that FMIS support is funded by the World Bank.",
+ "title": "UN Somalia Joint Fund - Final Report (JPLG III project data, Annex VII)",
+ "publisher": "UNDP Multi-Partner Trust Fund / UN Somalia Joint Fund",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

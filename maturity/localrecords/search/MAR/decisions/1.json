@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "governance",
+ "fact": "The second amendment to the World Bank (IBRD) results-based loan to the Kingdom of Morocco, addressed to the Minister of Economy and Finance, funds an upgrade of the GIR-CT system to synchronize central government and municipal systems, with a disbursement-linked result for GIR-CT interfacing in at least 100 large municipalities.",
+ "title": "Second Amendment to the Original Loan Agreement (P169330/ENNAJAA)",
+ "publisher": "World Bank / IBRD",
+ "published": "2024-07-18",
+ "date_source": "proxy",
+ "why_not": "repeats the governance fact of another selection (parent, R4)"
+}

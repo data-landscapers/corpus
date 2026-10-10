@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/875201579097143908/txt/Eswatini-Swaziland-Local-Government-Project.txt",
+  "title": "Implementation Completion and Results Report: Swaziland Local Government Project (SLGP), Report No. ICR00004807",
+  "publisher": "World Bank",
+  "published": "2019-12-20",
+  "sub_indicator": "revenue",
+  "why": "Donor funding and scope; absence of shared billing platform"
+ },
+ {
+  "url": "https://www.imf.org/-/media/files/publications/cr/2022/english/1swzea2022001.pdf",
+  "title": "Kingdom of Eswatini: Technical Assistance Report on Government Finance Statistics Mission, Country Report No. 22/356",
+  "publisher": "International Monetary Fund",
+  "published": "2022-12-01",
+  "sub_indicator": "revenue",
+  "why": "No shared national local-government data; local own revenues"
+ },
+ {
+  "url": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20HOUSING%202025.pdf",
+  "title": "Ministry of Housing and Urban Development Annual Performance Report, Financial Year 2024/25",
+  "publisher": "Ministry of Housing and Urban Development",
+  "published": "2025",
+  "sub_indicator": "revenue",
+  "why": "Number of urban local governments; governance of municipal finance"
+ },
+ {
+  "url": "https://www.mbabane.org.sz/wp-content/uploads/2023/09/MCM-Annual-Report-22-23.pdf",
+  "title": "Municipal Council of Mbabane Annual Report 2022/2023",
+  "publisher": "Municipal Council of Mbabane",
+  "published": "2023",
+  "sub_indicator": "revenue",
+  "why": "Valuation roll and rates billing; local register"
+ },
+ {
+  "url": "https://manzinicity.co.sz/rates-bills-for-2024-2025-financial-year-now-available/",
+  "title": "Rates Bills for 2024/2025 Financial Year Now Available",
+  "publisher": "Municipal Council of Manzini",
+  "published": "2024-04-10",
+  "sub_indicator": "revenue",
+  "why": "Local billing and digital payment channels"
+ },
+ {
+  "url": "https://manzinicity.co.sz/you-can-now-pay-rates-using-e-mali/",
+  "title": "You Can Now Pay Rates Using E-Mali",
+  "publisher": "Municipal Council of Manzini",
+  "published": "2020-12-02",
+  "sub_indicator": "revenue",
+  "why": "Council-level digital payment of rates"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/mbabane-boss-backs-smart-billing-to-speed-up-service-delivery/",
+  "title": "Mbabane Boss Backs Smart Billing to Speed Up Service Delivery",
+  "publisher": "Eswatini Positive News",
+  "published": "2025-04-22",
+  "sub_indicator": "revenue",
+  "why": "Mbabane billing still paper-based, digitalisation planned"
+ },
+ {
+  "url": "https://www.eswatiniobserver.com/eswatini-municipalities-embrace-digital-future-at-icma-global-exchange/",
+  "title": "Eswatini Municipalities Embrace Digital Future at ICMA Global Exchange",
+  "publisher": "Eswatini Observer",
+  "published": "2025-09-03",
+  "sub_indicator": "revenue",
+  "why": "Cross-council digitalisation status"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "5ème numéro de la rubrique « Je paye mes impôts » : la taxe de résidence",
+ "publisher": "Direction générale des impôts",
+ "published": "2022-07-25",
+ "date_source": "source",
+ "why_not": "States the register of payers (declaration of name, address, dwelling) for a local tax but not that it is kept in a digital system."
+}

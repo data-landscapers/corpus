@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "In June 2024 Gaborone City Council launched the PayRates property-rate platform with Access Bank and GoSmartValue, giving owners automated reminders and online access to their payment history (a local, single-council platform).",
+ "title": "Access Bank, Gaborone City Council & GoSmartValue launch property-rate payment platform",
+ "publisher": "BW TechZone",
+ "published": "2024-06-14",
+ "date_source": "source",
+ "why_not": ""
+}

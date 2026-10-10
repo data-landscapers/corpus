@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded",
+ "fact": "The Cour des comptes' 2020 annual report finds that the 22 communes audited (Tlemcen, Annaba, Tizi Ouzou chambers, 2015-2017) lacked an exhaustive, updated census of their taxable base (signs, hotels, function halls), so no register of payers is kept for communal taxes.",
+ "title": "Rapport annuel 2020",
+ "publisher": "Cour des comptes",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.treasury.gov.za/publications/other/The%20state%20of%20local%20government%20finance%20and%20financial%20management%20as%20at%2030%20June%202024.pdf,fetched,,scripts/.workroot/study/localrecords/cache/ZAF/1.txt,30508,pdf,
+2,https://www.treasury.gov.za/publications/other/MinAnsw/2020/PQ%201683%20-%20Brink%20-%20NW2073E.pdf,fetched,,scripts/.workroot/study/localrecords/cache/ZAF/2.txt,1305,pdf,NATIONAL ASSEMBLY
+3,https://mfma.treasury.gov.za/Circulars/2024_25%20MTREF%20Budget%20Circular%20No.%20126%20-%2007%20December%202023%20%28final%29.pdf,fetched,,scripts/.workroot/study/localrecords/cache/ZAF/3.txt,11914,pdf,Guiding Circular
+4,https://municipaldata.treasury.gov.za/docs,fetched,,scripts/.workroot/study/localrecords/cache/ZAF/4.txt,14002,html,Municipal Money API Documentation
+5,https://www.kannaland.gov.za/download_document/1761,fetched,,scripts/.workroot/study/localrecords/cache/ZAF/5.txt,39899,pdf,
+6,https://lg.treasury.gov.za/supportingdocs/MAN/MAN_Financial%20Statement%20Audited_2023_Y_20240206T134927Z_arrie_bartnis.pdf,fetched,,scripts/.workroot/study/localrecords/cache/ZAF/6.txt,60260,pdf,MMM Consol 2023FSNG0000ZAFS.cvw
+7,https://support.munsoft.co.za/story,fetched,,scripts/.workroot/study/localrecords/cache/ZAF/7.txt,248,html,The Munsoft Story
+8,https://staging.it-online.co.za/multi-million-rand-investment-in-samras-upgrade/,fetched,,scripts/.workroot/study/localrecords/cache/ZAF/8.txt,247,html,SAMRAS receives multi-million rand upgrade

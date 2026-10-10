@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "The GIZ guide states that the communes' two property-tax rolls (TIB and TNB) are entered in the GRB software, which links each municipality with its municipal receiver for recovery, and that the commune enters its list of TCL taxpayers and amounts due on the GRB system for the municipal receiver to follow recovery.",
+ "title": "Les revenus municipaux et le circuit des paiements",
+ "publisher": "GIZ",
+ "published": "2022-03",
+ "date_source": "source",
+ "why_not": ""
+}

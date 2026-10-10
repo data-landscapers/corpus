@@ -1,0 +1,66 @@
+[
+ {
+  "url": "http://interieur.gov.dz/2021/11/28/modernisation-des-services-publics-administratifs-2/",
+  "title": "Modernisation des services publics administratifs",
+  "publisher": "Ministère de l'Intérieur, des Collectivités locales et de l'Aménagement du Territoire",
+  "published": "2021-11-28",
+  "sub_indicator": "revenue",
+  "why": "SI-SBFCL; national shared; owner"
+ },
+ {
+  "url": "https://www.ccomptes.dz/wp-content/uploads/2020/12/Rapport-Annuel-2020-F-1.pdf",
+  "title": "Rapport annuel 2020",
+  "publisher": "Cour des comptes",
+  "published": "2020",
+  "sub_indicator": "revenue",
+  "why": "audit of communes' local tax revenue"
+ },
+ {
+  "url": "https://www.mf.gov.dz/index.php/fr/activites-2/874-lancement-de-la-premiere-phase-pilote-du-systeme-integre-de-gestion-budgetaire-et-comptable-sigb",
+  "title": "Lancement de la première phase pilote du SIGB",
+  "publisher": "Ministère des Finances",
+  "published": "2022-05-10",
+  "sub_indicator": "revenue",
+  "why": "SIGB revenue accounting; owner"
+ },
+ {
+  "url": "https://algerie-eco.com/2022/12/19/suivi-de-la-situation-financiere-des-communes-mise-en-service-dun-systeme-informatise/",
+  "title": "Suivi de la situation financière des communes : mise en service d'un système informatisé",
+  "publisher": "Algérie Eco",
+  "published": "2022-12-19",
+  "sub_indicator": "revenue",
+  "why": "system in service 11 Dec 2022 for each commune"
+ },
+ {
+  "url": "https://expertise-france.gestmax.fr/_expertise_france/public_files/tdrs-1-2-6-7-expert-sap-basis-gex.pdf",
+  "title": "Projet d'appui à la gestion des finances publiques et à la mobilisation des ressources domestiques en Algérie (PAGFAL)",
+  "publisher": "Expertise France / Union européenne",
+  "published": "2024",
+  "sub_indicator": "revenue",
+  "why": "pilot sites; EU funding"
+ },
+ {
+  "url": "https://www.ccomptes.dz/wp-content/uploads/2019/09/gcct_fr.pdf",
+  "title": "Guide de contrôle des collectivités territoriales",
+  "publisher": "Cour des comptes",
+  "published": "2019",
+  "sub_indicator": "revenue",
+  "why": "records kept for local revenue"
+ },
+ {
+  "url": "https://bawabatic.dz/?req=informations&op=detail&id=472&lang=fr",
+  "title": "Télédéclaration et télépaiement JIBAYATIC",
+  "publisher": "Bawabatic / DGI",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "DGI national payer system"
+ },
+ {
+  "url": "https://mfdgi.gov.dz/moussahamaticfr/",
+  "title": "La déclaration et le paiement en ligne - Moussahama'tic",
+  "publisher": "Direction générale des impôts",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "DGI taxpayer account"
+ }
+]

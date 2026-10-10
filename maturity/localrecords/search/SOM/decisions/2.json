@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;recorded;held",
+ "fact": "The JPLG report says FMIS was deployed in five Puntland districts (Bossaso, Gardo, Galkayo, Garowe, Burtinle) over AIMS/BIMS records, five districts use mobile tax payment for property, business licence and transport taxes, and registered properties in Baidoa were being integrated into the South West state FMIS.",
+ "title": "UN Joint Programme on Local Governance: Semi-Annual Progress Report, January-June 2021",
+ "publisher": "UNDP Multi-Partner Trust Fund / Joint Programme on Local Governance",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}
