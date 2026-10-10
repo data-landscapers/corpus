@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-localgov.md — the fifth maturity study: ICT infrastructure for local government, as the office's connection
 last_reviewed: 2026-10-10
-status: CC's proposal, run unamended on Bill's word of 2026-10-10; staged as at 2026-09-30; being written
+status: CC's proposal, run unamended on Bill's word of 2026-10-10; staged, written and rendered; awaiting acceptance
 ---
 
 # Maturity study: localgov — office connection
@@ -59,7 +59,7 @@ The id enters `lookups/indicators.csv` at acceptance. **`digital.localgov--digit
 
 **Rural.** The stage reads local governments nationally. Where a dated source says rural ones are unconnected, the cell is flagged *rural gap* and the short summary gives the figure.
 
-## 4. The ladder
+## 4. The ladders
 
 **Office connection**
 
@@ -101,8 +101,8 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's decentr
 - [x] **L3. Test and fix the ladder**: 9 facts withdrawn.
 - [x] **L4. Search and hand over**, method §5: 59 documents, `notes-for-osint` 224.
 - [x] **L5. Re-read and stage**: 52 of 59 admitted; as at 2026-09-30; agreement 18 of 20.
-- [ ] **L6. Write, render and lint.**
-- [ ] **L7. Report to Bill.**
+- [x] **L6. Write, render and lint**: clean.
+- [x] **L7. Report to Bill.** Awaiting acceptance.
 
 **The rulings of L1**, CC's proposals, run unamended: the office's connection only; only this row redrawn; the basic tier, elected or appointed; working online in a national system counts as a connection; stage 5 needs `systems`; a connection in the capital only is stage 2.
 
