@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-08-smart-zambia-expands-digital-infrastructure",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The SMART Zambia e-Government Division announced, in its national coordinator's radio interview of 7 July 2026, that all local authorities and post offices in North-Western Province have been connected through the Government Wide Area Network over fibre.", "as_of": "2026-07-07", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "not-published", "fact": "SMART Zambia says all local authorities in North-Western Province are connected through the Government Wide Area Network as of 7 July 2026; the article gives no number of them and no national count or share of councils connected.", "as_of": "2026-07-07", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "use", "value": "internet", "fact": "The article says the fibre network in North-Western Province links government offices, schools and health facilities for improved communication and delivery of public services; it names no system that council staff work in over it.", "as_of": "2026-07-07", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The connection of North-Western Province's local authorities to the Government Wide Area Network is reported as the work of the SMART Zambia e-Government Division, under a digitalisation programme its coordinator says was launched in 2021.", "as_of": "2026-07-07", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "On 7 July 2026 SMART Zambia announced that all local authorities and post offices in North-Western Province had now been connected through the Government Wide Area Network.", "as_of": "2026-07-07", "date_precision": "day", "system": "Government Wide Area Network (GWAN)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "connection", "platform": "fibre-optic", "owner": "SMART Zambia e-Government Division", "tiers": "all local authorities and post offices in North-Western Province; also government offices, schools and health facilities there"},
+    {"system": "Zambia National Spatial Data Infrastructure (ZNSDI) GeoPortal", "country_label": "ZNSDI GeoPortal", "class": "central", "platform": "", "owner": "SMART Zambia", "tiers": "national land administration; said to support districts such as Mwinilunga"}
+  ],
+  "note": ""
+}

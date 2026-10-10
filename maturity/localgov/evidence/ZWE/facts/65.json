@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-02-hit-technovation-expo-ndarama-erp-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Ndarama ERP", "country_label": "Ndarama ERP", "class": "application", "platform": "Ndarama ERP (locally developed enterprise platform)", "owner": "Ndarama Technologies, a Harare Institute of Technology-linked company", "tiers": "the company's systems are deployed across 83 local authorities, with government ministries and public entities; ERP formally launched by the Minister of Higher and Tertiary Education on 30 July 2026"},
+    {"system": "Minimum Service Delivery Standards (MSDS) Platform", "country_label": "Minimum Service Delivery Standards (MSDS) Platform", "class": "", "platform": "", "owner": "Ndarama Technologies", "tiers": "listed among the company's major projects, with no description of what it does or where"},
+    {"system": "Citizen Engagement and Scoring Platform", "country_label": "Citizens Engagement and Scoring Platform", "class": "", "platform": "", "owner": "Ndarama Technologies and LADS Africa", "tiers": "said to have reached national deployment, launched under the President's patronage; no description of what it does"},
+    {"system": "MyBrick", "country_label": "MyBrick system", "class": "", "platform": "", "owner": "Ndarama Technologies", "tiers": "ongoing work for ZIMRA and local government; no description of what it does"}
+  ],
+  "note": "The document states a vendor's systems are deployed across 83 local authorities, which is an application; it says nothing of how the offices are connected or of where the system is held."
+}

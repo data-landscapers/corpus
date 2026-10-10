@@ -1,0 +1,12 @@
+{
+  "slug": "2025-11-27-zimbabwe-national-development-strategy-2-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated ERP systems of local authorities", "country_label": "fully functional integrated ERP systems", "class": "application", "platform": "", "owner": "local authorities", "tiers": "local authorities: 45% had a fully functional integrated ERP system at the 2024 baseline, with targets of 80% for 2026 and 100% from 2027 (NDS 2 results framework, Table 20)"},
+    {"system": "e-Whole of Government Performance Management System", "country_label": "e-Whole of Government Performance Management System", "class": "application", "platform": "", "owner": "Office of the President and Cabinet", "tiers": "national digital platform for tracking NDS 2 indicators, to integrate data from Ministries, Departments and Agencies, local authorities and other stakeholders; the document does not say local authorities enter data in it at their own offices"},
+    {"system": "Minimum Service Delivery Standards reporting system", "country_label": "Minimum Service Delivery Standards reporting system", "class": "", "platform": "", "owner": "Government of Zimbabwe", "tiers": "local authorities; a strengthened reporting system is called for, with no description of what it runs on"},
+    {"system": "Community Information Centres, kiosks and public access points", "country_label": "Community Information Centres, kiosks and public access points", "class": "public-access", "platform": "", "owner": "Government of Zimbabwe", "tiers": "to be established in under-served rural and urban areas under NDS 2, with fibre optic and broadband extension; ICT kiosks across the country are listed as an NDS 1 achievement"},
+    {"system": "National social protection registry (Social Registry)", "country_label": "Social Registry", "class": "central", "platform": "", "owner": "Department of Social Development", "tiers": "national; local authorities are to collaborate with the department, which keeps the registers of beneficiaries eligible for senior citizens' concessions"}
+  ],
+  "note": "The passages state no connection of a local authority office. Fibre and broadband extension is to under-served areas and public access points; digital infrastructure and links to head offices are promised for decentralised offices of ministries, which are central. The document gives the count of local authorities as 92 councils (60 rural district councils and 32 urban councils)."
+}

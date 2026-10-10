@@ -1,0 +1,13 @@
+{
+  "slug": "2025-02-01-ursb-annual-report-2023-24",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "use", "value": "systems", "fact": "The Uganda Registration Services Bureau reports that in FY 2023/24 it added 13 accounts on its National Marriage Register System, bringing the total to 624, held by district Chief Administrative Officers and places of worship among others, and trained CAOs on the system in eight districts; it gives no count of CAO accounts and does not say where or over what connection CAOs use them.", "as_of": "2024-06", "date_precision": "month", "system": "District Chief Administrative Officers' accounts on the National Marriage Register System", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "NMRS", "country_label": "National Marriage Register System", "class": "application", "platform": "", "owner": "Uganda Registration Services Bureau (URSB)", "tiers": "624 accounts at June 2024, including district Chief Administrative Officers and places of worship"},
+    {"system": "OBRS", "country_label": "Online Business Registration System", "class": "central", "platform": "", "owner": "Uganda Registration Services Bureau (URSB)", "tiers": "URSB and its clients online; integrated with URA, NIRA, NITA-U, the Ministry of Works and Transport and Posta Uganda"},
+    {"system": "SIMPO", "country_label": "Security Interest in Movable Property Registry", "class": "central", "platform": "", "owner": "Uganda Registration Services Bureau (URSB)", "tiers": "URSB, lenders and borrowers"},
+    {"system": "TREP centres", "country_label": "Taxpayer Registration Expansion Program centres", "class": "central", "platform": "", "owner": "URSB with the Uganda Revenue Authority, Kampala Capital City Authority and Local Government", "tiers": "44 centres nationwide"}
+  ],
+  "note": "The body gives no publication date; the period reported is July 2023 to June 2024. The report was searched for the study's terms and for its systems, and the passages on marriage registration, one-stop centres and outreach were read in full; its financial statements and other chapters were not read line by line."
+}

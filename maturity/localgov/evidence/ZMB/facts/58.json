@@ -1,0 +1,8 @@
+{
+  "slug": "2024-08-02-zambia-lsk-ix-exchange-record",
+  "facts": [],
+  "systems": [
+    {"system": "Lusaka Internet Exchange Point", "country_label": "LSK-IX", "class": "backbone", "platform": "", "owner": "", "tiers": "Lusaka: 12 peers, 76G capacity"}
+  ],
+  "note": "A registry record of the Lusaka internet exchange point; nothing on local government offices or their connection."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "INRIS", "country_label": "INRIS", "class": "central", "platform": "", "owner": "", "tiers": "national civil registration platform, said to be launched about 2022 and scaled to 40+ districts"}
+  ],
+  "note": "The Zambia passages cover rural clinics, schools, police stations and civil registry offices, not local government offices or their connection; the source is also an AI-assisted compilation by its own header and is on the study's excluded list."
+}

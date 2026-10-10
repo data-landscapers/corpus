@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-25-zanis-smart-zambia-digital-infrastructure-investment",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "authorities", "value": "share:100%", "fact": "Smart Zambia's national coordinator Percy Chinyama listed connecting all 116 local authorities to the government network among the institute's progress over 2021 to 2025, 116 of 116 on his account to the state news agency; the briefing is undated, so the published date is used.", "as_of": "2026-03-25", "date_precision": "day", "system": "government network (e-government)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "connected", "value": "connection:institutional", "fact": "The Smart Zambia Institute says it has connected all 116 local authorities to the government network; the briefing is undated, so the published date is used.", "as_of": "2026-03-25", "date_precision": "day", "system": "government network (e-government)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The connection of the 116 local authorities to the government network is reported by the Smart Zambia Institute as its own work over 2021 to 2025; the briefing is undated, so the published date is used.", "as_of": "2026-03-25", "date_precision": "day", "system": "government network (e-government)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "government network (e-government)", "country_label": "government network", "class": "connection", "platform": "", "owner": "Smart Zambia Institute", "tiers": "all 116 local authorities"}
+  ],
+  "note": ""
+}

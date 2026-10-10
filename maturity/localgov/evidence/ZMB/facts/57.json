@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated National Registration Information System", "country_label": "INRIS", "class": "central", "platform": "", "owner": "Department of National Registration, Passports and Citizenship, Ministry of Home Affairs and Internal Security", "tiers": "national; IT upgrading planned at the ministry's offices in three refugee settlements"},
+    {"system": "UNHCR ProGres refugee registration database", "country_label": "ProGres", "class": "central", "platform": "ProGres", "owner": "UNHCR, to be transferred to the Ministry of Home Affairs and Internal Security", "tiers": "national"}
+  ],
+  "note": "A refugee project appraisal; Kalumbila Town Council hosts a satellite project unit, and project accounting is done manually. No connection or information system at a council office is stated; the IT upgrading is at a ministry's settlement offices."
+}

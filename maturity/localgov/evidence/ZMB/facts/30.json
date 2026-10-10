@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-13-zambia-launches-pmis-property-management",
+  "facts": [],
+  "systems": [
+    {"system": "Property Management Information System (PMIS)", "country_label": "PMIS", "class": "central", "platform": "developed by CoreLink Consulting Limited; integrated with ZamPortal and ZamPay", "owner": "Ministry of Infrastructure, Housing and Urban Development with SMART Zambia Institute", "tiers": "a central ministry's government property rentals, valuation and housing services, online to the public"}
+  ],
+  "note": "A central ministry's online system for government property services; no local government office is named."
+}

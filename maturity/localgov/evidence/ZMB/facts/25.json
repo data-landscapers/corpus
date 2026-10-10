@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-02-eight-local-authorities-go-digital-mlgrd",
+  "facts": [],
+  "systems": [
+    {"system": "Government Service Bus (GSB) / ZamPortal, under the e-Council Digitisation Project", "country_label": "e-Council Digitisation Project; Government Service Bus; ZamPortal", "class": "web", "platform": "Government Service Bus; ZamPortal", "owner": "Ministry of Local Government and Rural Development with Smart Zambia Institute", "tiers": "eight local authorities as of 2 July 2026: Lusaka (live May 2026), Ndola, Kitwe, Solwezi, Chingola, Kalulushi, Kalumbila and Chilanga; citizens apply and pay online for permits, rates, levies and fees"}
+  ],
+  "note": "The ministry's press release, truncated in capture, on eight councils' services put online for citizens to apply and pay; it states nothing about the connection of council offices or staff working over one."
+}

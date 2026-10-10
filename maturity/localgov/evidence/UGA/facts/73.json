@@ -1,0 +1,8 @@
+{
+  "slug": "2024-10-15-nira-press-statement-mass-enrolment-status",
+  "facts": [],
+  "systems": [
+    {"system": "NSIS", "country_label": "National Security Information System (new), with the National Identification Register", "class": "central", "platform": "supplied by the technology partner Tahaluf", "owner": "National Identification and Registration Authority (NIRA)", "tiers": "NIRA data centre and district teams; 5,665 registration kits to be distributed to 135 districts and 11 cities, used by NIRA's registration assistants in mobile outreaches at sub-county headquarters, parishes, schools and places of worship"}
+  ],
+  "note": "A national agency's statement on its ID enrolment: sub-county headquarters are venues for NIRA's mobile teams and the Ministry of Local Government a partner in mobilisation. The internet outages it reports affect NIRA's own exercise; nothing is stated on a local government office's connection. The capture is an excerpt with imperfect tables."
+}

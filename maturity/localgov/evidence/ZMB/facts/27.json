@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-10 Sub-Saharan Africa's data centre landscape who owns the infrastructure (v2)",
+  "facts": [],
+  "systems": [
+    {"system": "INFRATEL Primary, Production and National Data Centre 3", "country_label": "INFRATEL data centres", "class": "backbone", "platform": "", "owner": "INFRATEL Corporation, wholly owned by the Government of Zambia through the Industrial Development Corporation", "tiers": "Lusaka; clients listed as Government of Zambia, ministries, ZICTA, enterprise and banks; no local government named"}
+  ],
+  "note": "A data centre ownership register, AI-compiled by its own header; its Zambia rows list five Lusaka data centres and state nothing about local government offices."
+}

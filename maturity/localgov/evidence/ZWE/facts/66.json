@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-30-zwe-2027-budget-strategy-paper",
+  "facts": [],
+  "systems": [
+    {"system": "Government Wide Area Network", "country_label": "Government Wide Area Network", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "investment in 2027 to expand it, with priority on extending digital access to schools, health institutions and Government offices; no local authority office named"},
+    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "to be upgraded to Tier IV, with a geographically separated Disaster Recovery Site"},
+    {"system": "Smart Government Private Cloud", "country_label": "Smart Government Private Cloud", "class": "backbone", "platform": "", "owner": "Government of Zimbabwe", "tiers": "to be expanded across MDAs"},
+    {"system": "Presidential Internet Programme", "country_label": "Presidential Internet Programme", "class": "", "platform": "", "owner": "Government of Zimbabwe", "tiers": "to be expanded in 2027; no description of what it does or where"}
+  ],
+  "note": "Treasury's 2027 priorities name the Government Wide Area Network and digital access for Government offices generally, and the Minimum Service Delivery Standards Framework across local authorities, but state no connection of a local authority office."
+}

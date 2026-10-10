@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-03-smart-zambia-police-digitalisation-40-stations",
+  "facts": [],
+  "systems": [
+    {"system": "Zambia Police Service Local Area Network (LAN) and Last Mile Connectivity Project", "country_label": "Zambia Police Service LAN and Last Mile Connectivity Project", "class": "central", "platform": "routers, switches, access points and firewalls supplied by Synth Tech Limited", "owner": "SMART Zambia Institute; Zambia Police Service", "tiers": "40 police stations nationwide, equipment received and to be deployed"}
+  ],
+  "note": "Networking equipment for 40 police stations, which are a national service's offices; no local government office is named."
+}

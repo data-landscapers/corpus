@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-22-zwe-manyame-rdc-full-digitisation",
+  "facts": [
+    {"sub_indicator": "connection", "aspect": "governance", "value": "finance:domestic", "fact": "Manyame Rural District Council's chief executive said its US$491,039 digitalisation programme, which includes phased investment in connectivity alongside software, hardware and training, is funded from the approved council budget.", "as_of": "2026-04-22", "date_precision": "day", "system": "Manyame RDC ICT modernisation programme (connectivity component)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "governance", "value": "owner:ministry", "fact": "The Manyame Rural District Council programme that includes investment in connectivity is the council's own, led by an internal project leader and implemented with ICT service providers who give technical support, per its chief executive.", "as_of": "2026-04-22", "date_precision": "day", "system": "Manyame RDC ICT modernisation programme (connectivity component)", "class": "connection"},
+    {"sub_indicator": "connection", "aspect": "last12", "value": "advancing", "fact": "Manyame Rural District Council began in December 2025 a US$491,039 programme of phased investment in software, hardware, connectivity and training, due to be complete by December 2026, according to its chief executive; the article does not say the council's connection is live.", "as_of": "2025-12", "date_precision": "month", "system": "Manyame RDC ICT modernisation programme (connectivity component)", "class": "connection"}
+  ],
+  "systems": [
+    {"system": "Manyame RDC ICT modernisation programme (connectivity component)", "country_label": "digitalisation project; ICT modernization programme", "class": "connection", "platform": "", "owner": "Manyame Rural District Council, with ICT service providers", "tiers": "One rural district council (Manyame, at Beatrice); connectivity is one of four investment lines and is not described further"},
+    {"system": "Manyame RDC integrated electronic platform", "country_label": "integrated electronic platform", "class": "application", "platform": "", "owner": "Manyame Rural District Council, with ICT service providers", "tiers": "One rural district council: online billing, electronic payments, digital records, land and housing administration, e-permitting, and stores, financials and supply chain modules; begun December 2025, due December 2026"},
+    {"system": "Manyame RDC Geographical Information System", "country_label": "GIS", "class": "application", "platform": "", "owner": "Manyame Rural District Council", "tiers": "One rural district council; GIS-based databases in place, two GIS specialists recruited"}
+  ],
+  "note": ""
+}
