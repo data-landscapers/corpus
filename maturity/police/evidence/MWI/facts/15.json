@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-28-mwi-macra-blantyre-smart-city-surveillance",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Smart City Surveillance Initiative (Blantyre)",
+      "country_label": "Smart City Surveillance Initiative",
+      "class": "surveillance",
+      "platform": "AI-powered smart cameras detecting and identifying objects, interpreting incidents and giving real-time surveillance support",
+      "owner": "Malawi Communications Regulatory Authority (MACRA), proposing; with the Malawi Police Service and the Road Traffic Directorate as collaborators",
+      "tiers": "Proposed to Blantyre City Assembly, reported 28 September 2026"
+    }
+  ],
+  "note": "A proposed camera network: surveillance, not a station record, so no fact."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2023-11-23-namibia-mhaiss-annual-report-2019-2020-ebirth-nprs",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Electronic Border Management System (e-BMS)",
+      "country_label": "e-BMS",
+      "class": "border",
+      "platform": "",
+      "owner": "Ministry of Home Affairs and Immigration",
+      "tiers": "97% of border posts have remote access to it and to head office, 2019/2020"
+    },
+    {
+      "system": "Namibia Automatic Fingerprint Identification System (NAFIS)",
+      "country_label": "NAFIS",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named in the list of abbreviations only, with no description of what it does"
+    }
+  ],
+  "note": "The home affairs ministry's 2019/2020 report covers civil registration, identity documents and immigration; the police appear only as staff trained on the e-birth notification system and as the Windhoek Police Mortuary, a site of the e-death notification system, and no system for station records is named. The capture ends mid-sentence."
+}

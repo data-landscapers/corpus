@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-22-ig-kanja-digitization-police-services-presentation",
+  "facts": [
+    {"sub_indicator": "record", "aspect": "records", "value": "O", "fact": "The National Police Service reports that on 22 January 2025 the Inspector General, at a presentation by the NPS Digitization Committee, highlighted the need to digitise the Occurrence Book; it is stated as a need, with no station said to hold a digital one.", "as_of": "2025-01-22", "date_precision": "day", "system": "Occurrence Book", "class": "record"},
+    {"sub_indicator": "record", "aspect": "governance", "value": "owner:ministry", "fact": "As of 22 January 2025 the force's own NPS Digitization Committee, presenting at police headquarters, was tasked with driving the digitisation of police stations and services, the Occurrence Book among them.", "as_of": "2025-01-22", "date_precision": "day", "system": "Occurrence Book", "class": "record"}
+  ],
+  "systems": [
+    {"system": "Occurrence Book", "country_label": "Occurrence Book", "class": "record", "platform": "", "owner": "National Police Service (NPS Digitization Committee)", "tiers": "Police stations; to be digitised"},
+    {"system": "Instant fines and ticketing systems for traffic offences", "country_label": "", "class": "single-function", "platform": "", "owner": "National Police Service", "tiers": "Not stated; to be introduced"}
+  ],
+  "note": ""
+}

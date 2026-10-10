@@ -1,0 +1,46 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {
+      "sub_indicator": "record",
+      "aspect": "records",
+      "value": "none",
+      "fact": "The essay's country table scores Niger's rural police stations 1 and says the brigades keep case files, complaints and incident reports on paper, with no evidence of digital recording at station level and no digitisation pilot or project found; it gives no date, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "handwritten procès-verbaux",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "made",
+      "value": "paper",
+      "fact": "The essay says, citing ethnographic studies of the gendarmerie, that a brigade's procès-verbal is drafted by hand in notebooks and on loose sheets and then typed on a typewriter or on the brigade's one self-funded computer, reverting to the typewriter in a blackout, and that about 10 per cent of complaints become a formal procès-verbal; it gives no date, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "handwritten procès-verbaux",
+      "class": "record"
+    },
+    {
+      "sub_indicator": "record",
+      "aspect": "stations",
+      "value": "none",
+      "fact": "The essay states that it found no evidence of digital recording at station level in Niger's rural brigades and no digitisation pilot or project; it gives no count of stations and no date, so the publication date is used.",
+      "as_of": "2026-03-31",
+      "date_precision": "day",
+      "system": "handwritten procès-verbaux",
+      "class": "record"
+    }
+  ],
+  "systems": [
+    {
+      "system": "handwritten procès-verbaux",
+      "country_label": "procès-verbaux (PVs)",
+      "class": "record",
+      "platform": "paper; typewriter or one computer per brigade for the final typing",
+      "owner": "Gendarmerie nationale",
+      "tiers": "rural brigades"
+    }
+  ],
+  "note": "This slug is in study.json exclude_sources: an AI-assisted compilation by its own header. The facts are recorded as the document states them; the parent decides their use."
+}

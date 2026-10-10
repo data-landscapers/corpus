@@ -1,0 +1,23 @@
+{
+  "slug": "2026-03-27-anp-lancement-carte-biometrique-aes",
+  "facts": [],
+  "systems": [
+    {
+      "system": "AES biometric national identity card",
+      "country_label": "carte nationale d'identité biométrique AES",
+      "class": "",
+      "platform": "",
+      "owner": "Interior ministry and Police nationale, produced under contract by the Libyan company Alitissal Aljadeed with the Nigerien company HAZDI",
+      "tiers": "Launched 2026-03-27 with the first card delivered to the President by the deputy director general of the Police nationale"
+    },
+    {
+      "system": "AES biometric passport",
+      "country_label": "passeport électronique biométrique",
+      "class": "border",
+      "platform": "",
+      "owner": "Alitissal Aljadeed, for the state",
+      "tiers": "In preparation at 2026-03-27"
+    }
+  ],
+  "note": "The launch of a civil identity card issued through the police, which no typology class covers; nothing on reports or cases recorded at a station."
+}

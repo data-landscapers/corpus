@@ -1,0 +1,23 @@
+{
+  "slug": "2024-02-01-mps-annual-report-2023",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Crime Management System",
+      "country_label": "Crime Management System",
+      "class": "",
+      "platform": "",
+      "owner": "Malawi Police Service",
+      "tiers": "Named only in a contents heading, 'Intervention by MPS to improve Crime Management System' (1.8, p.24); the section itself is not in the captured text"
+    },
+    {
+      "system": "Digitalisation of police processes, initial phase",
+      "country_label": "initial phase of digitalizing our processes",
+      "class": "",
+      "platform": "",
+      "owner": "Malawi Police Service",
+      "tiers": "Not stated; the Inspector General's foreword says that in 2023 the Service focused on developing the initial phase, to ease detection, reporting, tracking, supervision and analysis of crime trends"
+    }
+  ],
+  "note": "The captured text is an excerpt, cut at about page 6 of 68: the sections on the Crime Management System (1.8, p.24) and 'Table 19: Status of Rural Police Units' (p.43) are not in the file. What is captured says in the foreword only that an initial phase of digitalising processes was being developed in 2023, with no statement of what is recorded or where, so no system can be classed and no fact is taken. Recorded crime of 45,490 cases in 2023 is a count, not a record system."
+}

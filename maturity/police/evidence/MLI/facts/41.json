@@ -1,0 +1,15 @@
+{
+  "slug": "2022-11-11-mali-jo-2022-35-decret-2022-0639-carte-identite-biometrique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Carte nationale d'Identité biométrique sécurisée",
+      "country_label": "système de gestion et de production de la Carte nationale d'Identité biométrique sécurisée; base de données carte d'identité",
+      "class": "single-function",
+      "platform": "",
+      "owner": "Minister in charge of security (Article 5)",
+      "tiers": "By the decree of 3 November 2022 the card is established or renewed by police commissioners, gendarmerie brigade commanders and sub-prefects, and abroad by heads of diplomatic and consular missions; fingerprints are kept in the card database and may be used to identify a person in judicial proceedings"
+    }
+  ],
+  "note": "No fact: a decree instituting the biometric identity card, which stations issue; it sets rules and says nothing of what is deployed or of the record a station makes of a report or case."
+}
