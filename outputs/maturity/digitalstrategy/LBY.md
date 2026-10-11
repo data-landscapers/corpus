@@ -1,0 +1,21 @@
+# Libya
+
+## National strategy
+
+**Governance and finance.** [Prime Minister Abdul Hamid Dabaiba of the Government of National Unity approved the National Strategy for Government Digital Transformation, prepared by the Supreme Committee for Digital Transformation](<https://www.gia.gov.ly/en/2025/04/24/prime-minister-of-the-government-of-national-unity-approves-the-national-strategy-for-government-digital-transformation/>).
+
+**Standing.** [The Prime Minister approved the strategy on 21 April 2025](<https://www.gia.gov.ly/en/2025/04/24/prime-minister-of-the-government-of-national-unity-approves-the-national-strategy-for-government-digital-transformation/>), following [the General Information Authority's December 2022 proposal](<https://www.gia.gov.ly/wp-content/uploads/2023/03/Libya-Digital-Transformation-Strategy-2023.pdf>).
+
+**Text.** [The General Information Authority publishes the December 2022 proposal for the strategy, marked as a proposal on its cover](<https://www.gia.gov.ly/wp-content/uploads/2023/03/Libya-Digital-Transformation-Strategy-2023.pdf>).
+
+**Period.** [The vision is that by the end of 2030 everyone in Libya will enjoy world-class government services, with 2030 targets set against 2022 baselines](<https://www.gia.gov.ly/wp-content/uploads/2023/03/Libya-Digital-Transformation-Strategy-2023.pdf>).
+
+**Delivery plan.** [The proposal sets 2030 targets against 2022 baselines, such as a rise in Libya's e-government development index rank from 162 to 100, and lists eleven action areas with initiatives](<https://www.gia.gov.ly/wp-content/uploads/2023/03/Libya-Digital-Transformation-Strategy-2023.pdf>). It says [a national plan of projects and the budgets are still to be set](<https://www.gia.gov.ly/wp-content/uploads/2023/03/Libya-Digital-Transformation-Strategy-2023.pdf>).
+
+**Reporting.** [At the April 2025 launch the General Information Authority chairman said some of the strategy's plans had already been implemented in a number of ministries and bodies](<https://www.gia.gov.ly/en/2025/04/24/prime-minister-of-the-government-of-national-unity-approves-the-national-strategy-for-government-digital-transformation/>).
+
+**Last twelve months.** On 19 April 2026 the General Information Authority [described Level 3 biometric digital identity trials as part of implementing the National Digital Transformation Strategy 2023-2030](<https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/>), the name it also uses for the strategy.
+
+***Noted, not assessed***. [Civil Service Ministry digital transformation plan](<https://alwasat.ly/news/libya/526991>); [Civil Service Ministry strategic plan for digital transformation](<https://lana.gov.ly/post.php?id=362365&lang=ar>); [National Strategy for Primary Health Care 2023-2028](<https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/>); [Digital Identity Management System for Citizens](<https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/>); [Tax Authority's digital transformation plan](<https://libyaherald.com/2025/12/tax-authority-launches-unified-tax-system-and-activation-of-tax-polices-role>); [National Digital Identity System (LY-DNID)](<https://www.gia.gov.ly/en/2025/11/20/the-general-information-authority-launches-the-trial-phases-of-the-second-level-of-the-national-digital-identity-system-ly-dnid/>); [National Financial Inclusion Strategy 2025-2029](<https://cbl.gov.ly/en/governor-of-the-central-bank-of-libya-announces-from-tripoli-the-launch-of-the-national-financial-inclusion-strategy-and-a-number-of-transformative-projects-during-the-opening-of-the-electronic-paymen/>); [eLibya](<https://proceedings.open.tudelft.nl/DGO2025/article/download/1043/1077/1449>).
+
+***Not held***. The text of the strategy as approved in April 2025 is not held, only the December 2022 proposal. No budget, mandated body or results report is held for it.

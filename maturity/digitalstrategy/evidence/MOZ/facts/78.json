@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-10-moz-decreto-n-o-4-2026-de-10-de-marco-cria-a-agencia-de-transformacao-digi",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Decreto n.º 4/2026, approved by the Council of Ministers on 10 March 2026, creates the Agência de Transformação Digital e Inovação (ATDI, IP), tasked with mobilising resources for the Information Society Policy and its Strategic and Operational Plans, and its Technical Council with ensuring execution and permanent monitoring of the Plano Estratégico projects.", "as_of": "2026-03-10", "date_precision": "day", "system": "Plano Estratégico para a Sociedade de Informação 2019-2028", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Plano Estratégico para a Sociedade de Informação 2019-2028", "country_label": "Plano Estratégico e Plano Operacional para a Sociedade de Informação", "class": "national", "platform": "", "owner": "ATDI, IP (Conselho Técnico monitors)", "tiers": "national"},
+    {"system": "Política para a Sociedade de Informação", "country_label": "Política para a Sociedade de Informação de Moçambique", "class": "sector-ict", "platform": "", "owner": "ATDI, IP implements", "tiers": "national"}
+  ],
+  "note": ""
+}

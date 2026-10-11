@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-01-civ-bilan-2011-2025-communication-et-transition-numerique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The government's September 2025 record lists the Stratégie Nationale de Transformation Numérique 2025-2035 among the post-2025 prospects of the digital transition; it gives no adoption act.", "as_of": "2025-09", "date_precision": "month", "system": "Stratégie nationale de transformation numérique 2025-2035", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "to:2035", "fact": "The strategy listed among the post-2025 prospects is named for the period 2025-2035.", "as_of": "2025-09", "date_precision": "month", "system": "Stratégie nationale de transformation numérique 2025-2035", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Réseau National Haut Débit (RNHD)", "country_label": "Réseau National Haut Débit (RNHD)", "class": "", "platform": "fibre optic", "owner": "Government of Côte d'Ivoire", "tiers": "national; 31,604 km built per the government"}
+  ],
+  "note": ""
+}

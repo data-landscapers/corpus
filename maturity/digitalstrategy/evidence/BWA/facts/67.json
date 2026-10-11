@@ -1,0 +1,12 @@
+{
+  "slug": "2023-10-15-bwa-ict-advisor-explains-smartbots-project",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "The Presidential Advisor on ICT says the first phase of the Village Connectivity Project, one of about 378 SmartBots projects, cost government P234 million for 134 villages and 1,133 facilities; the article is dated 15 October 2023, which is used as the date.", "as_of": "2023-10-15", "date_precision": "day", "system": "SmartBots Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "SmartBots Digital Transformation Strategy", "country_label": "SmartBots (Smart Botswana)", "class": "national", "platform": "", "owner": "Government of Botswana, Presidential Advisor on ICT", "tiers": "national; six work streams including public sector transformation, agriculture and biotechnology"},
+    {"system": "SmartBots Village Connectivity Project", "country_label": "SmartBots Village Connectivity Project", "class": "programme", "platform": "", "owner": "Government of Botswana", "tiers": "villages; free internet at dikgotla, schools, libraries and clinics"},
+    {"system": "Botswana Research and Education Network (BotsREN)", "country_label": "BotsREN", "class": "thematic", "platform": "", "owner": "", "tiers": "eight universities"}
+  ],
+  "note": ""
+}

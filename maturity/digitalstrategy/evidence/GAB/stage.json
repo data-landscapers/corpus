@@ -1,0 +1,6 @@
+{
+  "iso3": "GAB",
+  "cells": [
+    {"sub_indicator": "national", "stage": "unplaced", "governance": "body:mandated", "standing": "adopted", "text": "", "period": "to:2025", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "lapsed", "stage_sources": "GAB-001;GAB-002", "gaps": "The strategy's period ended in 2025, before 2026, and no successor is on record in a dated evidence row. The nearest candidates are systems.csv lines only: a 'stratégie de l'économie numérique' said by UNESCO to be under preparation in June 2025, and later references to a 'stratégie nationale de transformation numérique' with no act, content or period; none is described as a national successor, so stage 2 for lapsed-with-successor is not reached. Adoption rests on a general ITU repository listing naming no act; no text, plan or reporting row is held. The donor finance row (GAB-005, AfDB, Nov 2020) is outside the 36-month window.", "note": "Instrument: Plan national stratégique Gabon Digital 2025 (SGDN / Gabon-Digital), 2020-2025, read as adopted from the ITU listing (GAB-001) with its period ended (GAB-002). Lapsed with no successor on record is unplaced."}
+  ]
+}

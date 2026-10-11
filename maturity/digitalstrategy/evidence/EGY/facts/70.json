@@ -1,0 +1,46 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The ITU repository lists Egypt Vision 2030 and the Digital Egypt Strategy as the country's strategy and says the countries it lists have adopted one; no adopting act is named, so this is dated by the repository's 2025 publication year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Egypt strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "The repository gives the time frame of Egypt Vision 2030 and the Digital Egypt Strategy as 2016 - ongoing.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Egypt strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The repository names the Ministry of Communications and Information Technology as lead/owner of Egypt Vision 2030 and the Digital Egypt Strategy.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Egypt strategy",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Egypt Vision 2030",
+      "country_label": "Egypt Vision 2030",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Egypt",
+      "tiers": "named with the Digital Egypt Strategy in one entry"
+    }
+  ],
+  "note": "The entry headed DR Congo describes an Egypt Digital Transformation Strategy 2020 - ongoing under ITIDA; it is mislabelled and gives no fact here."
+}

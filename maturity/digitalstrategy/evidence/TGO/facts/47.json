@@ -1,0 +1,64 @@
+{
+  "slug": "2025-05-27-tgo-le-togo-prepare-une-nouvelle-strategie-digitale",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Togo Officiel reports that the Ministry of Digital Economy and Digital Transformation launched on 22 May 2025 the recruitment of a consultant to update the national digital transformation strategy as a new 'Togo Digital' strategy; it is being prepared, not yet issued.",
+      "as_of": "2025-05-22",
+      "date_precision": "day",
+      "system": "Togo Digital 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The new 'Togo Digital' strategy is to cover 2025-2030, per Togo Officiel.",
+      "as_of": "2025-05-22",
+      "date_precision": "day",
+      "system": "Togo Digital 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The ministry started recruiting a consultant on 22 May 2025 to write the successor strategy Togo Digital 2025-2030.",
+      "as_of": "2025-05-22",
+      "date_precision": "day",
+      "system": "Togo Digital 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "Togo Officiel says the current strategy, the country's first digital transformation strategy of about five years ago, ends at the end of 2025; the date used is the article's publication date, 2025-05-27.",
+      "as_of": "2025-05-27",
+      "date_precision": "day",
+      "system": "Togo Digital 2025",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Togo Digital 2025",
+      "country_label": "stratégie de transformation numérique en vigueur (9 programmes)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de l'économie numérique et de la transformation digitale",
+      "tiers": "national"
+    },
+    {
+      "system": "Togo Digital 2025-2030",
+      "country_label": "nouvelle stratégie 'Togo Digital' 2025-2030",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de l'économie numérique et de la transformation digitale",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

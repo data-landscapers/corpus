@@ -1,0 +1,6 @@
+{
+  "iso3": "AGO",
+  "cells": [
+    {"sub_indicator": "national", "stage": "no evidence", "governance": "", "standing": "", "text": "", "period": "", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "evidence.csv holds no row for Angola on the national strategy; the systems listed (Agenda de Transição Digital da Administração Pública, a government-class agenda; PADA, a programme; the AI draft law, thematic) are noted classes and set no rung.", "note": "No evidence row exists, so no rung can be set."}
+  ]
+}

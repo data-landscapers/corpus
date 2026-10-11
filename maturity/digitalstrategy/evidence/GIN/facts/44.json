@@ -1,0 +1,27 @@
+{
+  "slug": "2024-12-05-gin-guineematin-table-ronde-strategie-nationale-digitalisation-etat",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Guineematin reports that the ministry held a round table on 4-5 December 2024 on the national state-digitalisation strategy, calls its \"élaboration\" proof of the government's will, and quotes the minister saying the strategy has been in \"mise en œuvre\" since 2022; no adoption is stated.",
+      "as_of": "2024-12-05",
+      "date_precision": "day",
+      "system": "Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2026",
+      "fact": "The article gives the strategy as \"2023-2026\", with a vision of a highly digitalised administration by 2026 (the instrument is listed elsewhere as 2023-2027).",
+      "as_of": "2024-12-05",
+      "date_precision": "day",
+      "system": "Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027",
+      "class": "national"
+    }
+  ],
+  "systems": [],
+  "note": "Class is empty: the article names the strategy as one for digitalising the state but does not describe its full scope; the stated vision concerns the administration."
+}

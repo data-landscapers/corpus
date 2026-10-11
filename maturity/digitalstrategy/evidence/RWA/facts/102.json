@@ -1,0 +1,37 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The ITU repository lists the Digital Transformation Strategy / Kigali Innovation City as the country's strategy and says the countries it lists have adopted one; no adopting act is named, so this is dated by the repository's 2025 publication year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Transformation Strategy",
+      "class": ""
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "The repository gives the time frame of the Digital Transformation Strategy / Kigali Innovation City as 2020 - ongoing.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Transformation Strategy",
+      "class": ""
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The repository names the Rwanda Development Board as lead/owner of the Digital Transformation Strategy / Kigali Innovation City.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Transformation Strategy",
+      "class": ""
+    }
+  ],
+  "systems": [],
+  "note": "Class is empty: the entry names a Digital Transformation Strategy but describes only skills, R&D, incubation and ICT-hub pillars."
+}

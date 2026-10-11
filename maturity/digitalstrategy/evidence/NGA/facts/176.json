@@ -1,0 +1,46 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The ITU repository lists the National Digital Economy Policy and Strategy as the country's strategy and says the countries it lists have adopted one; no adopting act is named, so this is dated by the repository's 2025 publication year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "The repository gives the time frame of the National Digital Economy Policy and Strategy as 2020 - ongoing.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The repository names NITDA as lead/owner of the National Digital Economy Policy and Strategy.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "NITDA SRAP / Digital Literacy for All",
+      "country_label": "NITDA SRAP / Digital Literacy for All",
+      "class": "thematic",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": "national; aim to train 20 million Nigerians"
+    }
+  ],
+  "note": ""
+}

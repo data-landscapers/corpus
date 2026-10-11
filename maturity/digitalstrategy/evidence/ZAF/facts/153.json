@@ -1,0 +1,50 @@
+{
+  "slug": "2023-03-31-zaf-department-of-communications-and-digital-technologies-annual-performan",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The Department of Communications and Digital Technologies' 2023/24 Annual Performance Plan, approved 31 March 2023, says the Digital Economy Framework and Strategy is to be developed and submitted to Cabinet for approval for public consultation, then finalised with public comments and given an implementation plan.",
+      "as_of": "2023-03-31",
+      "date_precision": "day",
+      "system": "Digital Economy Framework and Strategy",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Economy Framework and Strategy",
+      "country_label": "Digital Economy Framework and Strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "national"
+    },
+    {
+      "system": "National e-Government Strategy and Roadmap",
+      "country_label": "National e-Government Strategy and Roadmap",
+      "class": "government",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "public service"
+    },
+    {
+      "system": "Integrated Digital Transformation Strategy",
+      "country_label": "DCDT Integrated Digital Transformation Strategy",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "the department's own digitisation"
+    },
+    {
+      "system": "National Digital and Future Skills Strategy",
+      "country_label": "National Digital and Future Skills Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "2025-06-12-ssd-south-sudan-optimistic-about-digital-prospects-despite-conflict",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The ICT minister said South Sudan is 'now developing' a new South Sudan Digital Transformation Strategy (remarks at the EACO Assemblies, Juba; dated by the article's published date, a proxy).",
+      "as_of": "2025-06-12",
+      "date_precision": "day",
+      "system": "South Sudan Digital Transformation Strategy",
+      "class": ""
+    }
+  ],
+  "systems": [
+    {
+      "system": "South Sudan Digital Transformation Strategy",
+      "country_label": "South Sudan Digital Transformation Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of ICT and Postal Services",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Development Road Map and Master Plan",
+      "country_label": "South Sudan Digital Roadmap 2024",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of South Sudan",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Government Strategy",
+      "country_label": "Digital Government Strategy 2023",
+      "class": "government",
+      "platform": "",
+      "owner": "Government of South Sudan",
+      "tiers": ""
+    },
+    {
+      "system": "ICT Policy 2012 (revised)",
+      "country_label": "revised ICT Policy of 2012",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Government of South Sudan",
+      "tiers": ""
+    }
+  ],
+  "note": "Class of the strategy in preparation is empty: the article names it but does not describe its scope. The 2024 Roadmap is said only to be 'implemented', with no adoption word, so no standing fact for it."
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "2021-11-12-caf-centrafrique-restitution-des-etudes-relatives-au-plan-national-strateg",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "A workshop on 10-11 November 2021, opened by the chief of staff of the Ministry of Digital Economy, Posts and Telecommunications, presented the studies for the Plan National Stratégique Centrafrique Digitale 2025; no adoption is stated.",
+      "as_of": "2021-11-10",
+      "date_precision": "day",
+      "system": "Plan National Stratégique Centrafrique Digitale 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The document gives the plan's period as 2020-2025.",
+      "as_of": "2021-11-10",
+      "date_precision": "day",
+      "system": "Plan National Stratégique Centrafrique Digitale 2025",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plan National Stratégique Centrafrique Digitale 2025",
+      "country_label": "Plan National Stratégique Centrafrique Digitale 2020-2025 (PNS CD 2025)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Economie Numérique, des Postes et Télécommunications",
+      "tiers": "national"
+    },
+    {
+      "system": "Projet CAB-RCA",
+      "country_label": "Projet CAB-RCA",
+      "class": "programme",
+      "platform": "",
+      "owner": "République centrafricaine; financed by the European Union and the African Development Bank",
+      "tiers": "national"
+    },
+    {
+      "system": "Système National d'Identité Digitale (SNID)",
+      "country_label": "Système National d'Identité Digitale (SNID)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Economie Numérique, des Postes et Télécommunications",
+      "tiers": "national; feasibility study only"
+    }
+  ],
+  "note": "Class is empty: the document describes the plan only as built on orientations to develop electronic communications through wider connectivity, which does not settle whether it is national or sector-ict. The studies were commissioned under the CAB-RCA project."
+}

@@ -1,0 +1,21 @@
+{
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "",
+      "standing": "announced",
+      "text": "",
+      "period": "to:2030",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-002;SOM-004;SOM-006",
+      "gaps": "No source reports adoption: the strategy was validated in consultation on 12-13 October 2025 (SOM-004, SOM-006) and then said to be 'launched' by the government on 16 October 2025 (SOM-002) with no adopting act or body named. No text is held or linked, so no public-text row exists. No governance, delivery plan, reporting or last-twelve-months fact is held. No other national instrument is on record.",
+      "note": "Instrument: Digital Transformation Strategy 2025-2030. Launched and validated but not adopted, so stage 2; stage 3 needs adoption and a public text."
+    }
+  ]
+}

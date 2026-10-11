@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-26-civ-strategie-nationale-de-developpement-du-numerique-en-cote-d-ivoire-a-l",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The ministry's published text of the strategy, Version 1.4 dated 26 January 2022, carries a message from the Prime Minister and one from the Minister and sets the orientations, reforms and projects for 2021-2025; it states no adopting act and no source calls it a draft.", "as_of": "2022-01-26", "date_precision": "day", "system": "Stratégie nationale de développement du numérique 2021-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "text", "value": "public", "fact": "The document is the strategy's own text, published on the ministry's site telecom.gouv.ci.", "as_of": "2022-01-26", "date_precision": "day", "system": "Stratégie nationale de développement du numérique 2021-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "to:2025", "fact": "The strategy covers 2021-2025, with 2025 targets set for its 36 strategic indicators.", "as_of": "2022-01-26", "date_precision": "day", "system": "Stratégie nationale de développement du numérique 2021-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The action plan for the seven pillars lists reforms and projects with duration, start date, priority, budget in million FCFA and a State/donor financing split, for example 95,000 million FCFA for connecting public administrations to the RNHD.", "as_of": "2022-01-26", "date_precision": "day", "system": "Stratégie nationale de développement du numérique 2021-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The strategy is steered by the Commission Nationale de Développement de la Société de l'Information, with a monitoring and evaluation committee led by the digital ministry (MENUTI) and including finance, budget, planning and private-sector members.", "as_of": "2022-01-26", "date_precision": "day", "system": "Stratégie nationale de développement du numérique 2021-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "The plan assigns a State share (E) alongside donor shares (B) to its projects, for example 10,000 of 95,000 million FCFA for the last-mile project; these are planned splits, and the document cites no budget appropriation.", "as_of": "2022-01-26", "date_precision": "day", "system": "Stratégie nationale de développement du numérique 2021-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Plan National de Développement 2021-2025", "country_label": "Programme National de Développement 2021-2025 (PND)", "class": "development-plan", "platform": "", "owner": "Ministère du Plan et du Développement", "tiers": "national; the strategy's activities are linked to it"}
+  ],
+  "note": ""
+}

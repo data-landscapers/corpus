@@ -1,0 +1,21 @@
+{
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2040",
+      "plan": "costed",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-015;UGA-016;UGA-017;UGA-018",
+      "gaps": "No reporting row for the Vision, and its governance rows (2022-09, UGA-019, UGA-020) fall outside the 36-month window. Also holds rows for the Digital Transformation Roadmap 2023/24-2027/28 (newer, launched 2023 by the Ministry/Government, source verbs 'developed' and 'launched', no adopting act and no public text on record, so announced only); an adoption act or published roadmap text would make it the instrument in force. The Vision's adoption rests on the read-as-adopted rule, with no approval act named.",
+      "note": "Vision for a Digital Uganda 2040, published by the Ministry with the President's foreword and not called a draft, is read as adopted with public text and a period to 2040, so stage 3. Stage 4 needs published reporting, and none is held."
+    }
+  ]
+}

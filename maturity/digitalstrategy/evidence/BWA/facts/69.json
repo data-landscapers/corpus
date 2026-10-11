@@ -1,0 +1,10 @@
+{
+  "slug": "2020-11-09-bwa-state-of-the-nation-address-2020",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The President's State of the Nation Address of 9 November 2020 says Botswana aims to pursue a digitally inclusive nation through the Digital Transformation Agenda and that major e-service initiatives have been introduced; it measures this against no stated target.", "as_of": "2020-11-09", "date_precision": "day", "system": "Digital Transformation Agenda", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Agenda", "country_label": "Digital Transformation Agenda", "class": "", "platform": "", "owner": "Government of Botswana", "tiers": "national"}
+  ],
+  "note": "Passages file only; the agenda is named without a description of its scope, so the class is empty."
+}

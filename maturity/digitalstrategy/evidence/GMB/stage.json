@@ -1,0 +1,8 @@
+{
+  "iso3": "GMB",
+  "cells": [
+    {"sub_indicator": "national", "stage": "3", "governance": "", "standing": "adopted", "text": "public", "period": "to:2034", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "GMB-008;GMB-009;GMB-011",
+     "gaps": "The master plan has no governance, delivery-plan or reporting row of its own; the plan and finance rows (GMB-006, GMB-007) belong to the Digital ID and Digital Transformation Strategy 2023-2028. That strategy is only validated (May 2024, GMB-004, GMB-013, GMB-015) with no accessible text (GMB-014), so it would stand at stage 2. Adoption of the master plan rests on a third-party report that names the government and Sept 2024 but no act; it is dated 2023-2033 in some sources. Stage 4 needs a costed or actioned plan and published reporting.",
+     "note": "Instrument: National Digital Economy Master Plan 2024-2034, the one adopted national instrument. Adopted, text on the ministry website, in period; no plan or reporting rows, so not stage 4."}
+  ]
+}

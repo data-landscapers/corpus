@@ -1,0 +1,9 @@
+{
+  "slug": "2024-04-16-ago-terceira-edicao-do-forum-angola-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Livro Branco das TIC 2023-2027 (revision)", "country_label": "Livro Branco das TIC 2023-2027", "class": "sector-ict", "platform": "", "owner": "MINTTICS", "tiers": "national; proposed revision put to public consultation, approval not yet given as at 16 April 2024"},
+    {"system": "Cloud Nacional", "country_label": "Cloud Nacional", "class": "thematic", "platform": "", "owner": "", "tiers": "public administration; planned infrastructure platform"}
+  ],
+  "note": "The only strategy document named is the ICT White Paper revision 2023-2027 (class sector-ict); the secretary of state calls its approval a guide for the digital transformation strategy, but names no national digital strategy."
+}

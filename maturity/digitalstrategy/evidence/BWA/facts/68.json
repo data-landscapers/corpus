@@ -1,0 +1,11 @@
+{
+  "slug": "2021-05-10-bwa-govt-working-on-creating-smart-botswana",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Government online coordinator Pontsho Pusoetsile says the SmartBots strategy was adopted by cabinet in February 2020 and implemented from October 2020.", "as_of": "2020-02", "date_precision": "month", "system": "SmartBots Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "SmartBots Digital Transformation Strategy", "country_label": "SmartBots (Smart Botswana)", "class": "national", "platform": "", "owner": "Government of Botswana", "tiers": "national; action plan for public sector transformation and education reform"},
+    {"system": "1gov.gov.bw portal and OneGov app", "country_label": "1gov / OneGov", "class": "government", "platform": "web portal and Android app", "owner": "Government of Botswana", "tiers": "national; online public services"}
+  ],
+  "note": ""
+}

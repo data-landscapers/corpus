@@ -1,0 +1,12 @@
+{
+  "slug": "2022-04-12-ken-kna-ten-year-national-digital-master-plan-unveiled",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Kenya News Agency reports that the Kenya National Digital Master Plan 2022-2032 was unveiled and launched by ICT Cabinet Secretary Joe Mucheru at the Connected Kenya summit in Kwale; no adopting act by cabinet or parliament is named.", "as_of": "2022-04-12", "date_precision": "day", "system": "Kenya National Digital Master Plan 2022-2032", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "to:2032", "fact": "The report describes the Kenya National Digital Master Plan 2022-2032 as a ten-year plan and as the sequential successor to the 2014-2017 master plan.", "as_of": "2022-04-12", "date_precision": "day", "system": "Kenya National Digital Master Plan 2022-2032", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Kenya National Digital Master Plan 2022-2032", "country_label": "Kenya National Digital Master Plan 2022-2032", "class": "national", "platform": "", "owner": "Ministry of ICT, Innovation and Youth Affairs", "tiers": "national"},
+    {"system": "National ICT Master Plan 2014-2017", "country_label": "master plan 2014-2017", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

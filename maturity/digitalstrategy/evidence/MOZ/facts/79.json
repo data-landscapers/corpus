@@ -1,0 +1,70 @@
+{
+  "slug": "2022-12-01-moz-relatorio-de-actividades-de-2022-do-intic-ip",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2023",
+      "fact": "INTIC's 2022 activity report, dated December 2022, gives the Plano Estratégico e Plano Operacional da Sociedade de Informação as covering 2019-2023, in the title of its section 2.4 on evaluating the degree of implementation.",
+      "as_of": "2022-12",
+      "date_precision": "month",
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "After INTIC's visit to Brazilian counterparts, the parties agreed to cooperate on drawing up the digital transformation strategy of Mozambique, and the Brazilian SEME agreed to support its construction; the report, dated December 2022, gives no date for the visit and no text.",
+      "as_of": "2022-12",
+      "date_precision": "month",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The same cooperation agreed with Brazilian institutions includes drawing up the Agenda Digital de Moçambique and a digital government strategy; the report, dated December 2022, states no date and no text.",
+      "as_of": "2022-12",
+      "date_precision": "month",
+      "system": "Agenda Digital de Moçambique",
+      "class": ""
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "country_label": "Plano Estratégico e Plano Operacional da Sociedade de Informação (2019-2023)",
+      "class": "national",
+      "platform": "",
+      "owner": "INTIC, IP",
+      "tiers": "national"
+    },
+    {
+      "system": "Estratégia Nacional de Transformação Digital",
+      "country_label": "Estratégia de transformação digital de Moçambique",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Agenda Digital de Moçambique",
+      "country_label": "Agenda Digital de Moçambique",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Estratégia de Governo Digital",
+      "country_label": "Estratégia de Governo Digital",
+      "class": "government",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
+  ],
+  "note": "Class is empty for the digital transformation strategy and the Agenda Digital because the document names them without describing their scope. The passages file holds only the 2.4 heading of the Plano Estratégico evaluation, none of its findings."
+}

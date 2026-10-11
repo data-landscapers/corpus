@@ -5,9 +5,9 @@
       "sub_indicator": "national",
       "aspect": "standing",
       "value": "validated",
-      "fact": "The Presidency's Plan National du Numérique Horizon 2025, dated September 2019, was drafted by a framework of more than 250 experts convened by the head of state's cabinet and was put to a national validation workshop organised under Decision 19/077 of 10 August 2019; the plan names no enacting decree.",
-      "as_of": "2019-09",
-      "date_precision": "month",
+      "fact": "On 5 September 2019 the plenary of the national validation workshop (3-5 September, held under the Head of State's patronage) adopted the amended Draft Zéro of the Plan National du Numérique Horizon 2025 by show of hands and unanimously, and the plan is stated to be validated by all stakeholders; the Special Adviser handed it to the Minister of PTNTIC, representing the President, who took note and promised to send it on to the Government; the document names no cabinet adoption and no enacting decree.",
+      "as_of": "2019-09-05",
+      "date_precision": "day",
       "system": "Plan National du Numérique Horizon 2025",
       "class": "national"
     },
@@ -15,7 +15,7 @@
       "sub_indicator": "national",
       "aspect": "text",
       "value": "public",
-      "fact": "The plan, published on the Presidency's site, states its strategy runs to the horizon 2025 and rests on four pillars (infrastructure, content, application uses, governance and regulation), covering among other things the digital transformation of administrations and enterprises.",
+      "fact": "The document is the full text of the plan, dated September 2019 and issued under the Presidency's copyright, with its source URL on the Presidency's own site (presidence.cd); it covers four pillars (infrastructure, content, application uses, governance and regulation) and, among other things, the digital transformation of administrations and enterprises.",
       "as_of": "2019-09",
       "date_precision": "month",
       "system": "Plan National du Numérique Horizon 2025",
@@ -25,7 +25,7 @@
       "sub_indicator": "national",
       "aspect": "period",
       "value": "to:2025",
-      "fact": "The plan, published on the Presidency's site, states its strategy runs to the horizon 2025 and rests on four pillars (infrastructure, content, application uses, governance and regulation), covering among other things the digital transformation of administrations and enterprises.",
+      "fact": "The plan states that it carries the national digital development strategy to the horizon 2025, with intermediate target years of 2020 to 2025 in its priority-action timetable.",
       "as_of": "2019-09",
       "date_precision": "month",
       "system": "Plan National du Numérique Horizon 2025",
@@ -35,7 +35,7 @@
       "sub_indicator": "national",
       "aspect": "plan",
       "value": "actions",
-      "fact": "The plan's table of contents includes a timetable of priority actions (chapter 5) and a dashboard of the national digital strategy (appendix 3); the held extract does not show any costing.",
+      "fact": "Chapter 5 of the plan gives a timetable of 68 priority projects with indicators, baseline and target values (targets dated 2020 to 2025), a priority rank and responsible entities, and appendix 3 is a dashboard of objectives and actions by pillar; the budget-estimate column carries no figures, the note beneath it stating that the workshop panellists left the Government and the ADN to evaluate budgets, and the plan lists drawing up an action plan on the ADN's proposal and a financing plan as actions still to be done.",
       "as_of": "2019-09",
       "date_precision": "month",
       "system": "Plan National du Numérique Horizon 2025",
@@ -45,7 +45,17 @@
       "sub_indicator": "national",
       "aspect": "governance",
       "value": "body:mandated",
-      "fact": "The plan states that the organising committee created by Decision 19/077 of 10 August 2019 will follow up validation and implementation until the structures to be created for the purpose are in place, and lists an institutional implementation framework as appendix 2.",
+      "fact": "The plan states that the organising committee of the validation workshop, created by Decision 19/077 of the Head of State's Cabinet Director (dated 10 August in the front matter and 19 August in chapter 2 and the bibliography), will follow up validation and implementation until the structures to be created are in place; the Conseil National du Numérique and the Agence de Développement du Numérique are described as bodies still to be created, the ADN by Prime Minister's decree targeted for 2020.",
+      "as_of": "2019-09",
+      "date_precision": "month",
+      "system": "Plan National du Numérique Horizon 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The plan states no budget line or cost for itself: its budget-estimate column is blank, the panellists left the evaluation of budgets to the Government and the ADN, and it lists a financing plan for the plan's actions as a task to be drawn up, while the Head of State calls for financing beyond the Treasury, including public-private partnerships.",
       "as_of": "2019-09",
       "date_precision": "month",
       "system": "Plan National du Numérique Horizon 2025",
@@ -54,20 +64,20 @@
   ],
   "systems": [
     {
-      "system": "Plan National du Numérique – Horizon 2025",
+      "system": "Plan National du Numérique Horizon 2025",
       "country_label": "PNN",
       "class": "national",
       "platform": "",
-      "owner": "Présidence de la République (Cabinet of the Head of State)",
-      "tiers": "national; four pillars; vision to make digital a lever of integration, good governance, growth and social progress; the ICT sector had no updated sector framework since the 2009 sector policy document"
+      "owner": "Présidence de la République (Cabinet of the Head of State; Special Adviser for Digital)",
+      "tiers": "national; four pillars, 12 axes, 60 actions; vision to make digital a lever of integration, good governance, economic growth and social progress; covers economy and state"
     },
     {
       "system": "Document de Politique Sectorielle (2009)",
       "country_label": "DPS",
       "class": "sector-ict",
       "platform": "",
-      "owner": "",
-      "tiers": "national; the last sectoral ICT framework before the plan, per the plan"
+      "owner": "Ministère des Postes, Téléphones et Télécommunications",
+      "tiers": "national; telecoms and ICT sector policy of July 2009, which the plan calls lapsed for want of the review due after five years"
     },
     {
       "system": "Programme National Stratégique de Développement (PNSD, 2015)",
@@ -75,7 +85,23 @@
       "class": "development-plan",
       "platform": "",
       "owner": "Government",
-      "tiers": "national; aims at middle-income status in 2021, emerging in 2030, developed in 2050"
+      "tiers": "national; book 2 chapter 9 covers the digital economy and post in six axes; aims at middle-income status in 2021, emerging in 2030, developed in 2050"
+    },
+    {
+      "system": "Plan Directeur des systèmes d'information de l'administration et services publics de l'Etat 2019-2025",
+      "country_label": "",
+      "class": "government",
+      "platform": "",
+      "owner": "Comité de pilotage des Systèmes d'information de la RDC",
+      "tiers": "national; listed in the plan's bibliography only, dated November 2018"
+    },
+    {
+      "system": "Stratégie Nationale de Cybersécurité",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national; project 66 of the plan, to be drawn up and validated, target 2021"
     }
   ],
   "note": ""

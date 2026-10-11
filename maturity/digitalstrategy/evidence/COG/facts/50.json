@@ -1,0 +1,36 @@
+{
+  "slug": "2025-10-11-cog-patn-quatre-principaux-objectifs-a-atteindre-a-l-horizon-2027",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "Following its mid-term review, the PATN steering committee recommended proposing a date for validation by the Council of Ministers of the strategy \"Vision Congo digital 2030\"; the article gives no adoption. The review date is not stated, so the article's publication date is used.",
+      "as_of": "2025-10-11",
+      "date_precision": "day",
+      "system": "Stratégie numérique 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The strategy is named \"Vision Congo digital 2030\".",
+      "as_of": "2025-10-11",
+      "date_precision": "day",
+      "system": "Stratégie numérique 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "PATN",
+      "country_label": "Projet d'accélération de la transformation numérique (PATN)",
+      "class": "programme",
+      "platform": "",
+      "owner": "Government of Congo; steering committee chaired by Sylvain Lékaka; financed by the World Bank and the European Union",
+      "tiers": "national; US$100 million, about 40% disbursed per the article"
+    }
+  ],
+  "note": "Class is empty: the article names the Vision Congo digital 2030 strategy but does not describe its scope. Standing is validated on the article's wording that a date for Council of Ministers validation is to be proposed; it does not say the text is complete."
+}

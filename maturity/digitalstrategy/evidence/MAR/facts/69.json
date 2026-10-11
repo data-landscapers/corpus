@@ -1,0 +1,57 @@
+{
+  "slug": "2020-03-01-mar-add-note-orientations-generales-digital-maroc-horizon-2025",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The Agence de Développement du Digital's March 2020 note was written, at the Agency's request from the government, to propose to the Government strategic orientations for digital development to 2025; it records no adoption.",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Note d'orientations générales pour le développement du digital à horizon 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The note is the orientations' own text, held as a PDF on a public resource library (ressources.tanmia.ma).",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Note d'orientations générales pour le développement du digital à horizon 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The note sets a target vision for the next five years, to 2025.",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Note d'orientations générales pour le développement du digital à horizon 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The note sets targets with no cost: over 85% citizen satisfaction, 2,500 start-ups and 50,000 young talents in five years, and top 3 in Africa and top 40 worldwide on the UN Online Service Index; it names three axes and four cross-cutting pillars.",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Note d'orientations générales pour le développement du digital à horizon 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The note states the Agence de Développement du Digital, created by law 61-16 (Bulletin Officiel of 14 September 2017), is in charge of implementing the State's digital strategy and of proposing to the Government the general orientations for digital development.",
+      "as_of": "2017-09-14",
+      "date_precision": "day",
+      "system": "Note d'orientations générales pour le développement du digital à horizon 2025",
+      "class": "national"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

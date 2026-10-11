@@ -1,0 +1,64 @@
+{
+  "slug": "2024-11-14-mli-avenir-numerique-du-mali-la-politique-nationale-de-developpement-de-l",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "Le Matin reports that the Ministry of Communication, Digital Economy and Administrative Modernisation, with the Direction nationale de l'Économie numérique, held a workshop on 24 October 2024 to validate the Politique nationale de développement de l'Économie numérique (PNDEN) and its 2025-2029 action plan; adoption is not stated.",
+      "as_of": "2024-10-24",
+      "date_precision": "day",
+      "system": "Politique nationale de développement de l'économie numérique (PNDEN)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The validated PNDEN comes with an action plan for 2025-2029; the article gives no cost for it.",
+      "as_of": "2024-10-24",
+      "date_precision": "day",
+      "system": "Politique nationale de développement de l'économie numérique (PNDEN)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The action plan validated on 24 October 2024 covers 2025-2029; the article gives no period for the policy itself.",
+      "as_of": "2024-10-24",
+      "date_precision": "day",
+      "system": "Politique nationale de développement de l'économie numérique (PNDEN)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "results",
+      "fact": "The minister is quoted in the article as saying the previous version of the PNDEN (2015-2020) reached an execution rate of 27.30%, with 24.24% of resources mobilised; the article is dated 14 November 2024 and the period measured is 2015-2020.",
+      "as_of": "2024-10-24",
+      "date_precision": "day",
+      "system": "Mali Numérique 2020",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Politique nationale de développement de l'économie numérique 2021-2034",
+      "country_label": "Politique nationale de développement de l'Économie numérique (PNDEN)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de la Communication, de l'Économie numérique et de la Modernisation de l'administration; Direction nationale de l'Économie numérique",
+      "tiers": "national"
+    },
+    {
+      "system": "Précédente version du PNDEN (2015-2020)",
+      "country_label": "PNDEN (2015-2020)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère chargé de l'économie numérique",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

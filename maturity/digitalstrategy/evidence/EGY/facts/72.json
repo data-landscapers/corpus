@@ -1,0 +1,11 @@
+{
+  "slug": "2024-03-13-egy-supreme-council-digital-society-first-meeting-cloud-policy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "At the first meeting of the reconstituted Supreme Council for Digital Society the Prime Minister named approval (إقرار) of the National strategy for building a fully digital state among the council's objectives; the report records no approval of it.", "as_of": "2024-03-13", "date_precision": "day", "system": "National strategy for building a fully digital state", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Supreme Council for Digital Society, chaired by the Prime Minister and reconstituted, is charged with approving the strategy and works through an executive office and specialised committees (projects governance, data/applications/services governance, digital operations, procedures and legislation restructuring, data centres).", "as_of": "2024-03-13", "date_precision": "day", "system": "National strategy for building a fully digital state", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Cloud Computing Policy", "country_label": "سياسة الحوسبة السحابية", "class": "thematic", "platform": "", "owner": "Supreme Council for Digital Society", "tiers": "national; approved and launched at the meeting, stated to be in line with the Digital Egypt strategy"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,21 @@
+{
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "",
+      "standing": "adopted",
+      "text": "public",
+      "period": "open",
+      "plan": "none",
+      "reporting": "none",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-002;SLE-012;SLE-013",
+      "gaps": "No act or body is named for the approval (SLE-002 says 'approved' in 2021; the policy text itself, SLE-011, only recommends approval). Governance facts for the policy (SLE-014 body:none, SLE-015 finance:not-stated) are dated 2021, outside the 36 months, so governance is empty; nothing dated in the last twelve months. Other national instruments held: National Innovation and Digital Strategy 2019-2029 (public text, standing only launched; also stage 3, older), National Digital Development Strategy 2022 (validated/drafting, no adoption or public-text row) and a draft National Digital Transformation Roadmap. Stage 4 needs a delivery plan and published results; the policy has neither.",
+      "note": "Instrument: National Digital Development Policy 2021, the newest adopted instrument. Adopted, public text and an open period make stage 3; no plan and no reporting rule out stage 4."
+    }
+  ]
+}

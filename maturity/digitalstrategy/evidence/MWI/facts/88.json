@@ -1,0 +1,17 @@
+{
+  "slug": "2023-10-01-mwi-digital-inclusivity-and-affordability-case-of-malawi-universal-service",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "MACRA's Director General, in a slide deck for an ITU workshop, lists the 'recent adoption and approval' of the National Digitalization Policy by Cabinet as an opportunity; no date is given, so the document's published date (October 2023, a proxy) is used.",
+      "as_of": "2023-10",
+      "date_precision": "month",
+      "system": "National Digitalization Policy 2023-2028",
+      "class": "national"
+    }
+  ],
+  "systems": [],
+  "note": "The deck names the National Digitalization Policy without describing its scope, so the class is empty for that reason."
+}

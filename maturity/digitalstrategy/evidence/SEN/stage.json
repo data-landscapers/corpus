@@ -1,0 +1,21 @@
+{
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "body:mandated;finance:domestic;finance:donor",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2034",
+      "plan": "costed",
+      "reporting": "activity",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "SEN-056;SEN-057;SEN-058",
+      "gaps": "No source names an adopting act; adoption rests on the government's own published text (presidence.sn), which no source calls a draft. Reporting is activity only (first-year achievements, SEN-024, SEN-030), measured against no targets; the only execution rates (SEN-062) belong to the predecessor Stratégie Sénégal Numérique 2025 (period to 2025, replaced by the New Deal, so not a successor in preparation). The body (PM-chaired GouvNum) has no named act.",
+      "note": "Instrument: New Deal Technologique 2025-2034. Adopted, public text and a period to 2034 make stage 3; stage 4 needs published results against the strategy's own targets, and there is none."
+    }
+  ]
+}

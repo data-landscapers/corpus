@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TCD,national,governance,qualifier,body:mandated,2023,TCD-010,,not stated: finance
-TCD,national,standing,coverage,drafting,2023,TCD-009,TCD-003=announced;TCD-005=announced;TCD-008=none,
+TCD,national,governance,qualifier,body:mandated,2023,TCD-005,,not stated: finance
+TCD,national,standing,coverage,drafting,2023,TCD-004,TCD-003=none,
 TCD,national,text,coverage,,,,,nothing held
-TCD,national,period,coverage,to:2030,2026-07,TCD-001;TCD-007;TCD-011;TCD-013,,
-TCD,national,plan,coverage,costed,2026-03-16,TCD-002;TCD-004;TCD-006,TCD-012=actions,
+TCD,national,period,coverage,to:2030,2026-07,TCD-001;TCD-002;TCD-006;TCD-008,,
+TCD,national,plan,coverage,actions,2026-07,TCD-007,,
 TCD,national,reporting,coverage,,,,,nothing held
-TCD,national,last12,qualifier,advancing,2025-12-24,TCD-014,,
+TCD,national,last12,qualifier,,,,,nothing held

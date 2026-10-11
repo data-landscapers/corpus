@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-digitalstrategy.md — the seventh maturity study and the first of an instrument: the national digital transformation strategy
 last_reviewed: 2026-10-11
-status: CC's proposal, run on Bill's word of 2026-10-11; step 3 closed; awaiting OSINT's ingest under note 226
+status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: digitalstrategy — the national strategy
@@ -65,9 +65,9 @@ status: CC's proposal, run on Bill's word of 2026-10-11; step 3 closed; awaiting
 
 **One instrument, one name.** `instruments.csv` gives every named instrument its class, its name and its period's end; a cell is staged on the instrument in force, never on a mix.
 
-## 4. The ladder
+## 4. The ladders
 
-Tested at D3 (`ladder-test.csv`, `scripts/study-ladder-digitalstrategy.py`): 17 at stage 3, 25 at 2, 4 at 1. **Rungs 4 and 5 are unreached and stand**: the review held launches, and the search asks for the reporting.
+Staged as at 2026-09-30: 18 at stage 3, 27 at 2, 2 at 1, 5 unplaced, 2 with no evidence. **Rungs 4 and 5 are unreached and stand**: no government report against a strategy's own targets is held.
 
 **National strategy**
 
@@ -79,7 +79,7 @@ Tested at D3 (`ladder-test.csv`, `scripts/study-ladder-digitalstrategy.py`): 17 
 | 4 Operating | `adopted` | `public` | Not ended | `costed` or `actions` | `results` or `results-all`, published within three years |
 | 5 Leading | `adopted` | `public` | Not ended | `costed` | `results-all`, published within two years |
 
-**A noted class never places a country above stage 1**, as in the police study (its §4). A country holding only noted classes is unplaced.
+**A noted class never places a country above stage 1.** A country holding only noted classes is unplaced.
 
 **An expired strategy** with no successor in preparation leaves the cell unplaced and flagged *lapsed*.
 
@@ -88,21 +88,20 @@ Tested at D3 (`ladder-test.csv`, `scripts/study-ladder-digitalstrategy.py`): 17 
 **Fixed at D3** (`corrections.csv`):
 
 - **Adoption is the source's own word**: *approved*, *adopted*, *enacted* or *gazetted*; the act named is not required. A launch by a ministry alone is `announced`.
-- **A text the government has published, and no source calls a draft, is read as adopted.**
-- **Text and period are two aspects.**
+- **A text the government has published, and no source calls a draft, is read as adopted.** A text that calls itself a proposal, or asks to be approved, is not; nor is a proposal the text of the strategy later approved.
 - **A published rate of execution of the strategy's own actions is `results`.**
 - **A fact is kept for a named strategy whose scope its document does not describe**; the class comes from the documents that do.
 
 ## 5. The norm
 
-The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital Transformation Strategy for Africa 2020-2030. Under its enabling-environment pillar it asks states to "develop and implement national and sectorial digital strategies". Its monitoring section covers the continental strategy itself. *(Read 2026-10-11, from the held PDF.)*
+The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital Transformation Strategy for Africa 2020-2030. Under its enabling-environment pillar it asks states to "develop and implement national and sectorial digital strategies". Its monitoring section covers the continental strategy itself.
 
-**The norm names the subject and measures nothing.** The ladder takes one thing from it: *develop and implement*, so adoption is not the top. The OECD recommendation the lookup offers was not read.
+**The norm names the subject and measures nothing.** The ladder takes one thing from it: *develop and implement*, so adoption is not the top.
 
 ## 6. What the review reads and the search asks for
 
 - **Subjects and term list**: in `study.json`.
-- **Source types for the briefs**, ranked: the strategy's own text and its action plan; the adopting act in the official gazette or a cabinet communiqué; the government's implementation or mid-term reports on it; budget and audit reports naming it; evaluations and readiness assessments by the World Bank, UNDP and the ITU; dated news, for aspect 7.
+- **Source types for the briefs**, ranked: the strategy's own text and its action plan; the adopting act in the official gazette or a cabinet communiqué; the government's implementation or mid-term reports on it; budget and audit reports naming it; evaluations by the World Bank, UNDP and the ITU; dated news, for aspect 7.
 
 ## 7. Tasks, in order
 
@@ -111,10 +110,10 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 - [x] **D2. Review all 54 countries**, method §4: 3,433 documents, 89 slices, 143 read twice; 725 facts.
 - [x] **D3. Test and fix the ladder**: 289 corrections.
 - [x] **D4. Search and hand over**, method §5: 54 searches, 67 documents for 34 countries, `notes-for-osint` 226.
-- [ ] **D5. Re-read and stage**, method §7. **D6. Write, render and lint.**
-- [ ] **D7. Report to Bill.**
+- [x] **D5. Re-read and stage**, method §7: 61 of 67 admitted, 90 documents read, 867 facts; agreement 19 of 20.
+- [x] **D6. Write, render and lint.** **D7. Report to Bill.**
 
-**The rulings of D1**, CC's proposals, run unamended:
+**The rulings of D1**, run unamended:
 
 1. Adoption with a public, current text is stage 3 and no higher; stages 4 and 5 are set by published reporting against the strategy's own targets.
 2. An adopted strategy with no public text is stage 2.

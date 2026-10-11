@@ -1,0 +1,42 @@
+{
+  "slug": "2025-07-04-cmr-le-cameroun-trace-ses-sillons-dans-le-digital-avec-le-patnuc",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "PATNUC's account says a workshop of the project's stakeholders in Yaounde on 3 July 2025 discussed the diagnostic for updating the Plan Cameroun Numerique 2020, and that the next step could come after government approval; no updated plan is stated as adopted.",
+      "as_of": "2025-07-03",
+      "date_precision": "day",
+      "system": "Stratégie numérique du Cameroun (in preparation)",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plan Cameroun Numérique 2020",
+      "country_label": "Plan Cameroun Numérique 2020",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "PATNUC",
+      "country_label": "Projet d'accélération de la transformation numérique au Cameroun (PATNUC)",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "SND30",
+      "country_label": "Stratégie nationale de Développement 2020–2030 (SND30)",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
+  ],
+  "note": "The document names the Plan Cameroun Numérique 2020 without describing its scope, so its class is empty for that reason; the only dated fact is the July 2025 diagnostic workshop on updating it."
+}

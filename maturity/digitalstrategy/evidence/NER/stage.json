@@ -1,0 +1,21 @@
+{
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "",
+      "standing": "validated",
+      "text": "",
+      "period": "to:2035",
+      "plan": "actions",
+      "reporting": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-018;NER-019;NER-006;NER-007",
+      "gaps": "The Politique nationale de developpement du numerique 2026-2035 is complete but awaiting its approving decree (June 2026); no adoption on record and no text row. The earlier Politique nationale du numerique 2021-2030 was drafted in 2020 and never adopted (NER-014 says no policy in March 2025). Stage 3 needs adoption and a public text. No cost, reporting, body or finance rows.",
+      "note": "Instrument: Politique nationale de developpement du numerique 2026-2035, validated and awaiting a decree of approval, so stage 2. Stage 3 needs adoption and a public text."
+    }
+  ]
+}

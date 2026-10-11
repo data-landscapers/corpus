@@ -1,0 +1,21 @@
+# Morocco
+
+## National strategy
+
+**Governance and finance.** The [ITU repository](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>) names the Ministry of Digital Transition and Administration Reform as lead of Maroc Digital 2030, and [Morocco World News](<https://www.moroccoworldnews.com/2025/03/183937/morocco-expands-nationwide-digital-platform-for-business-creation/>) says MAD 11 billion was allocated for 2024-2026.
+
+**Standing.** The [ITU repository](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>) lists Digital Morocco 2030 among the strategies it says countries have adopted, and the [Government Council](<https://aujourdhui.ma/actualite/le-conseil-de-gouvernement-suit-une-presentation-sur-les-orientations-generales-du-developpement-numerique-maroc-digital-2030>) heard a presentation of its general orientations on 25 January 2024. It follows [Maroc Numeric 2013 and Maroc Digital 2020](<https://www.emerald.com/dprg/article/doi/10.1108/DPRG-03-2026-0153/1390051/Specification-asymmetry-and-digital-inclusion-how>).
+
+**Text.** [We Are Tech Africa](<https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-le-maroc-renforce-son-ecosysteme-avec-lappui-de-capgemini>) says Maroc Digital 2030 was launched in September 2024.
+
+**Period.** The [ITU repository](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>) gives its time frame as 2024-2030.
+
+**Delivery plan.** [Morocco World News](<https://www.moroccoworldnews.com/2025/03/183937/morocco-expands-nationwide-digital-platform-for-business-creation/>) pairs the MAD 11 billion for 2024-2026 with targets of 3,000 start-ups, 100,000 people trained a year and 240,000 jobs by 2030.
+
+**Reporting.** In its [declaration to the African Telecommunications Union conference](<https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031>) in Abuja, Morocco highlighted progress under Maroc Digital 2030, without figures.
+
+**Last twelve months.** On 17 July 2026 the ministry [signed a memorandum with Capgemini Maroc](<https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-le-maroc-renforce-son-ecosysteme-avec-lappui-de-capgemini>) on AI skills, and on 4 June 2026 [one with Orange Morocco](<https://techafricanews.com/2026/06/05/morocco-signs-ai-partnership-with-orange-morocco-to-advance-digital-transformation/>), both presented as implementing it.
+
+***Noted, not assessed***. [Digital Transformation Acceleration Program](<https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/>); [JAZARI Institutes programme](<https://techafricanews.com/2026/06/05/morocco-signs-ai-partnership-with-orange-morocco-to-advance-digital-transformation/>); [Nexus AI Factory](<https://techafricanews.com/2026/04/13/morocco-launches-nexus-ai-factory-to-position-itself-as-africas-leading-ai-hub/>); [EU-Morocco Digital Dialogue](<https://north-africa-middle-east-gulf.ec.europa.eu/news/joint-press-release-commission-and-kingdom-morocco-launch-digital-dialogue-strengthen-strategic-2026-04-08_en>); [Plan National de réforme de l'administration 2018-2021](<https://documents1.worldbank.org/curated/en/308971641932185582/pdf/Morocco-Public-Sector-Performance-ENNAJAA-Program-for-Results.pdf>); [National Plan for Public Procurement Digitization](<https://documents1.worldbank.org/curated/en/308971641932185582/pdf/Morocco-Public-Sector-Performance-ENNAJAA-Program-for-Results.pdf>); [Tax administration strategic action plan 2017-2021](<https://documents1.worldbank.org/curated/en/308971641932185582/pdf/Morocco-Public-Sector-Performance-ENNAJAA-Program-for-Results.pdf>); [Draft law 41-19 on digital administration](<https://documents1.worldbank.org/curated/en/308971641932185582/pdf/Morocco-Public-Sector-Performance-ENNAJAA-Program-for-Results.pdf>).
+
+***Not held***. No public text of Maroc Digital 2030 is held, and its adopting act and date are not stated. Results against it are not given beyond a general account of progress.

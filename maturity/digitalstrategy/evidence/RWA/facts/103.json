@@ -1,0 +1,70 @@
+{
+  "slug": "2023-10-26-rwa-backward-looking-joint-ict-sector-review-2022-2023-fy",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The joint ICT sector review of 26 October 2023 lists Smart Rwanda Master Plan II, a five-year ICT strategy with digital government, digital business and digital citizen pillars, among the 'policies under development'.",
+      "as_of": "2023-10-26",
+      "date_precision": "day",
+      "system": "Smart Rwanda Master Plan II",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The review says the Ministry of ICT and Innovation, 'supported by the Rwanda Digital Acceleration project under World Bank', is working on the policies under development, which include Smart Rwanda Master Plan II.",
+      "as_of": "2023-10-26",
+      "date_precision": "day",
+      "system": "Smart Rwanda Master Plan II",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2020",
+      "fact": "The review names the Smart Rwanda Master Plan I as covering 2016-2020.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Smart Rwanda 2020 Master Plan",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ICT Sector Strategic Plan (2018-2024)",
+      "country_label": "ICT Sector Strategic Plan (2018-2024)",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "MINICT",
+      "tiers": ""
+    },
+    {
+      "system": "National Strategy for Transformation (NST1) 2017-2024",
+      "country_label": "NST1",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Rwanda",
+      "tiers": ""
+    },
+    {
+      "system": "Rwanda Innovation Strategy",
+      "country_label": "Rwanda Innovation Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "MINICT",
+      "tiers": ""
+    },
+    {
+      "system": "National Digital Talent Policy",
+      "country_label": "National Digital Talent Policy (2016)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Smart Rwanda Master Plan I is named without a description of its scope, so its class is empty for that reason."
+}

@@ -1,0 +1,7 @@
+# Djibouti
+
+## National strategy
+
+***Noted, not assessed***. [Vision Djibouti 2035](<https://www.adi.dj/article/138724>); [Plan National de Développement PND-ADEEG 2025-2030](<https://www.adi.dj/article/138724>); [Digital Code](<https://techafricanews.com/2025/07/02/a-first-for-east-africa-djibouti-enacts-comprehensive-digital-code/>); [Digital Economy and Innovation Roadmap](<https://www.undp.org/djibouti/news/launch-roadmap-digital-economy-and-innovation>); [Feuille de route de la transformation numérique de l'Etat](<https://www.journalofficiel.dj/texte-juridique/decret-n2023-244-pr-mdeni-portant-organisation-et-fonctionnement-du-haut-conseil-superieur-de-leconomie-et-de-linnovation/>); [Stratégie nationale de transformation numérique de l'EFTP](<https://ifef.francophonie.org/djibouti-valide-sa-strategie-nationale-de-transformation-numerique-de-leftp/>); [Djibouti Digital Foundations Project](<https://documents1.worldbank.org/curated/en/099021026071059349/pdf/P174461-c8bd0e28-2653-456e-845a-f8242ec8facc.pdf>); [Economic and Financial Governance Project](<https://documents1.worldbank.org/curated/en/099122024161040934/pdf/BOSIB-28d37d68-d0ab-4355-acca-fed683f4b387.pdf>).
+
+***Not held***. The Council of Ministers of 7 October 2025 listed a national digital strategy as still to be drawn up, while later mentions of a Smart Nation strategy and a decision to update it give no status or date. Whether any national digital strategy has been adopted, or is in preparation, is not known.

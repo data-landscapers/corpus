@@ -1,0 +1,21 @@
+{
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "body:mandated;finance:domestic;finance:donor",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2025",
+      "plan": "costed",
+      "reporting": "activity",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed",
+      "stage_sources": "CIV-030;CIV-031;CIV-032;CIV-022",
+      "gaps": "The Strategie nationale de transformation numerique 2025-2035 (successor) was validated in August 2025 but no adopting act is on record, so it cannot be staged above 2; its text is not shown public. The 2026-2028 ministry roadmap and the PND 2026-2030 are not national-class instruments. Reporting is claims of delivery (fibre km, services) measured against no stated target. No dated event inside the last twelve months.",
+      "note": "Instrument: Strategie nationale de developpement du numerique 2021-2025, adopted with public text, but its period ended in 2025 and the successor NDTS 2025-2035 is only validated, so the cell is stage 2, lapsed. Stage 3 needs a strategy inside its period."
+    }
+  ]
+}

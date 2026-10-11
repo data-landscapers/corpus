@@ -1,0 +1,74 @@
+{
+  "slug": "2016-07-28-gin-politique-strategies-nationales-developpement-tic-2016-2020",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The document lists \"adoption du document de stratégie actualisé\" as the last step of its preparation method and records no adoption of the 2016-2020 text; the foreword says the Government \"a décidé d'élaborer\" the strategy.",
+      "as_of": "2016-07-28",
+      "date_precision": "day",
+      "system": "Politique et stratégies nationales de développement des TIC et de l'économie numérique 2016-2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The document is the strategy's own full text (three pillars, 17 axes, 89 actions), published by the ministry and hosted as a PDF at smartafrica.org; the day is taken from the file name (version 6, 28 July 2016).",
+      "as_of": "2016-07-28",
+      "date_precision": "day",
+      "system": "Politique et stratégies nationales de développement des TIC et de l'économie numérique 2016-2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2020",
+      "fact": "The strategy covers 2016-2020, with a five-year action plan to the 2020 horizon.",
+      "as_of": "2016-07-28",
+      "date_precision": "day",
+      "system": "Politique et stratégies nationales de développement des TIC et de l'économie numérique 2016-2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The action plan sets activities, deadlines, indicators and responsible bodies, and costs the strategy at GNF 1,500 billion over five years (Tables 12 and 13), with a yearly spending schedule.",
+      "as_of": "2016-07-28",
+      "date_precision": "day",
+      "system": "Politique et stratégies nationales de développement des TIC et de l'économie numérique 2016-2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The document provides a technical committee drawn from the ministry and a steering committee chaired by the minister, with ministry and stakeholder representatives, to monitor implementation; no date of their creation is given.",
+      "as_of": "2016-07-28",
+      "date_precision": "day",
+      "system": "Politique et stratégies nationales de développement des TIC et de l'économie numérique 2016-2020",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Document de stratégie e-Administration Guinée 2014-2019",
+      "country_label": "Document de stratégie e-Administration Guinée 2014-2019",
+      "class": "government",
+      "platform": "",
+      "owner": "",
+      "tiers": "The document says it was validated and adopted in the council of ministers."
+    },
+    {
+      "system": "Politique et Stratégies nationales de développement des TIC 2010-2015",
+      "country_label": "Politique et Stratégies nationales de développement des TIC 2010-2015",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Posts, Telecommunications and New Information Technologies",
+      "tiers": "The document says it was published in December 2010 and adopted by the government in 2010."
+    }
+  ],
+  "note": "Class national is taken from the document's own description: three pillars covering governance, connectivity and ICT for development (e-government, health, education, agriculture), an interministerial strategy for the digital economy; the ministry issued it and no cabinet adoption is recorded."
+}

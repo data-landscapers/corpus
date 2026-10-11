@@ -1,0 +1,8 @@
+{
+  "iso3": "RWA",
+  "cells": [
+    {"sub_indicator": "national", "stage": "2", "governance": "finance:donor", "standing": "adopted", "text": "", "period": "to:2020", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "lapsed", "stage_sources": "RWA-003;RWA-004;RWA-007;RWA-005;RWA-006",
+     "gaps": "No text-public row for the Smart Rwanda 2020 Master Plan and no plan or reporting row. The Digital Transformation Strategy for Rwanda (ICT Master Plan 2021-2025) is held by one row (RWA-001) giving only its period, ended before 2026; nothing shows it adopted, and nothing on its text or reporting. Whether Smart Rwanda Master Plan II (drafting, 2023-10) succeeds that plan is not stated; no later row on its status.",
+     "note": "Instrument: Smart Rwanda 2020 Master Plan, adopted 2015 and ended 2020, with Smart Rwanda Master Plan II in preparation. Lapsed with a successor in preparation is stage 2."}
+  ]
+}

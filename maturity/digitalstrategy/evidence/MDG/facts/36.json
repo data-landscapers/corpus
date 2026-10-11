@@ -1,0 +1,62 @@
+{
+  "slug": "2024-01-20-mdg-strategie-numerique-le-psn-accompagne-l-emergence-d-une-economie-numer",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Newsmada reports the digital minister 'presented' the five-year Plan stratégique du numérique (PSN) at Antaninarenina on 19 January 2024; the article names no adopting act or body, and says the ministry's initiatives are part of the Politique générale de l'État, whose three pillars were announced in the Council of Ministers that week.",
+      "as_of": "2024-01-19",
+      "date_precision": "day",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "Newsmada describes the PSN as a five-year plan aiming at the emergence of a digital economy by 2028, with the digital sector's share of GDP to rise from 1.5% (2019) to 6% by 2028.",
+      "as_of": "2024-01-19",
+      "date_precision": "day",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The minister is quoted that implementing the PSN needs USD 800 million in all, of which USD 500 million is available; the article also gives targets of posts and telecoms rising from 3% to 12% of GDP, mobile internet users doubling in five years and 900,000 more people equipped through the DECIM project.",
+      "as_of": "2024-01-19",
+      "date_precision": "day",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "country_label": "Plan stratégique quinquennal du numérique (PSN)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Digital Development, Posts and Telecommunications (MNDPT)",
+      "tiers": "national; telecoms liberalisation, internet access, connection costs, innovative ICT sectors"
+    },
+    {
+      "system": "DECIM",
+      "country_label": "projet de Connectivité numérique et énergétique à Madagascar (DECIM)",
+      "class": "programme",
+      "platform": "",
+      "owner": "MNDPT with the Ministry of Economy and Finance, operators and the World Bank",
+      "tiers": "subsidised smartphones for 900,000 more people"
+    },
+    {
+      "system": "e-fokontany",
+      "country_label": "e-fokontany",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "digitalisation of administrative interactions, cited under the governance pillar of the Politique générale de l'État"
+    }
+  ],
+  "note": "The article gives the minister's figures on the cost and the targets; it states no body mandated to deliver the plan, no budget line, no text and no report on results, so no facts on those aspects."
+}

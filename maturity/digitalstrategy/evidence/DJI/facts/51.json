@@ -1,0 +1,42 @@
+{
+  "slug": "2023-08-03-dji-decret-n-2023-244-pr-mdeni-portant-organisation-et-fonctionnement-du-h",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "Decree 2023-244/PR/MDENI institutes the Haut Conseil Supérieur de l'Economie Numérique et de l'Innovation (HCSENI), chaired by the President, to supervise, follow and evaluate the national digital economy and innovation strategy, with a steering committee under the digital minister to coordinate its updating and execution; dated by the document's published date (the decree was heard in Council of Ministers on 6 June 2023).",
+      "as_of": "2023-08-03",
+      "date_precision": "day",
+      "system": "Stratégie Nationale de l'Economie Numérique et de l'Innovation",
+      "class": ""
+    }
+  ],
+  "systems": [
+    {
+      "system": "Stratégie Nationale de l'Economie Numérique et de l'Innovation",
+      "country_label": "Stratégie Nationale de l'Economie Numérique et de l'Innovation",
+      "class": "",
+      "platform": "",
+      "owner": "HCSENI; Ministère en charge de l'Economie Numérique et de l'Innovation (secretariat)",
+      "tiers": ""
+    },
+    {
+      "system": "Feuille de route de la transformation numérique de l'Etat",
+      "country_label": "Feuille de route de la transformation numérique de l'Etat",
+      "class": "government",
+      "platform": "",
+      "owner": "approved by HCSENI",
+      "tiers": ""
+    },
+    {
+      "system": "Stratégie sur la cyber sécurité",
+      "country_label": "Stratégie sur la cyber sécurité",
+      "class": "thematic",
+      "platform": "",
+      "owner": "approved by HCSENI",
+      "tiers": ""
+    }
+  ],
+  "note": "Class of the Stratégie Nationale de l'Economie Numérique et de l'Innovation is empty: the decree names it but does not describe its scope. The decree gives HCSENI the power to approve the strategy but states no adoption, period, text or plan."
+}

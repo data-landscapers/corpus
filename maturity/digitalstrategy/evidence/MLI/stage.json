@@ -1,0 +1,21 @@
+{
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "",
+      "standing": "validated",
+      "text": "",
+      "period": "to:2034",
+      "plan": "actions",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-008;MLI-007",
+      "gaps": "PNDEN was validated at a workshop on 24 October 2024 and no source states adoption; no public text row. Periods conflict: 2021-2034 (MLI-007), action plan 2025-2029 (MLI-010), 2024-2028 (MLI-013, earlier). Predecessor Mali Numerique 2020 (ended 2020; draft-marked text, 27.30% execution rate) is not in force. Stage 3 needs adoption and a public text.",
+      "note": "Staged on the Politique nationale de developpement de l'economie numerique (PNDEN). Validated and awaiting adoption, so stage 2."
+    }
+  ]
+}

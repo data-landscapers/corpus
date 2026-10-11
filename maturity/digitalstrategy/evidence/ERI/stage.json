@@ -1,0 +1,6 @@
+{
+  "iso3": "ERI",
+  "cells": [
+    {"sub_indicator": "national", "stage": "1", "governance": "", "standing": "none", "text": "", "period": "", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "ERI-001", "gaps": "The only statement of absence is a third-party legal-status page (Levellers, reviewed 8 June 2026), not an Eritrean government source. Systems.csv holds only ministry-plan, thematic and sector-ict instruments (HSSDP III, IGIF action plan, ICT in Education policy, Communications Proclamation 1998), none a national digital strategy, so nothing stands in the way of stage 1 but nothing lifts it either.", "note": "Instrument: none; the evidence is a dated statement that Eritrea has no national digital transformation strategy, with nothing adopted, launched or in preparation on record. Stage 1 is the floor and no strategy exists to place higher."}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-22-gab-digital-identity-data-sharing-interoperability-interagency-wallets",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The ANINF director-general's slides state that ANINF is responsible for the coherent and coordinated implementation of the national strategy for digital development; the slides do not describe the strategy's scope.", "as_of": "2025-05-22", "date_precision": "day", "system": "national strategy for digital development", "class": ""}
+  ],
+  "systems": [
+    {"system": "Gabon Digital Program", "country_label": "Gabon Digital", "class": "programme", "platform": "", "owner": "ANINF", "tiers": "national; four components: enabling environment, legal identification, digital transformation of public administration and key services, citizen engagement and monitoring"}
+  ],
+  "note": "The national strategy for digital development is named without a description of its scope, so its class is empty; the slides give it no standing, text, period, plan or reporting."
+}

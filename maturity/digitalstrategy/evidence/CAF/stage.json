@@ -1,0 +1,6 @@
+{
+  "iso3": "CAF",
+  "cells": [
+    {"sub_indicator": "national", "stage": "2", "governance": "", "standing": "drafting", "text": "", "period": "to:2025", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "CAF-004;CAF-005", "gaps": "Nothing after November 2021: no row says the plan was adopted, and its stated period (2020-2025) has ended. CAF-001 (2020) says there is no comprehensive digital strategy; the later drafting rows supersede it. The rung above needs a dated adoption and a public text.", "note": "Staged on the Plan National Stratégique Centrafrique Digitale 2025: studies presented in a November 2021 workshop (CAF-004), no adoption stated, so drafting. Not flagged lapsed, because it was never adopted."}
+  ]
+}

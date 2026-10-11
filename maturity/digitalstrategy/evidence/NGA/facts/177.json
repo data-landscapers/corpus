@@ -1,0 +1,60 @@
+{
+  "slug": "2024-05-23-nga-digital-economy-policy-commission-general-assembly-session-report",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The NESG session report of 23 May 2024 names the 'National Digital Economy Policy and Strategy (NDEPS) Implementation Plan 2020-2030' as the plan the Digital Economy Compact serves.",
+      "as_of": "2024-05-23",
+      "date_precision": "day",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The report says the Digital Economy Compact designates the operational context of NDEPS 2030 to the Digital Economy Industry Working Group, a public-private body inaugurated on 27 October 2022 by the NESG and the Federal Ministry; the compact's date is not given, so the session date is used.",
+      "as_of": "2024-05-23",
+      "date_precision": "day",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nigeria e-Government Masterplan",
+      "country_label": "Nigeria E-Government Masterplan",
+      "class": "government",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National AI Strategy",
+      "country_label": "National AI Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": ""
+    },
+    {
+      "system": "Nigerian National Broadband Plan",
+      "country_label": "Nigerian National Broadband Plan",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "FMCIDE Strategic Blueprint 2023-2027",
+      "country_label": "the ministry's blueprint",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Federal Ministry of Communications and Digital Economy",
+      "tiers": ""
+    }
+  ],
+  "note": "The report names the National Digital Economy Policy and Strategy without describing its scope, so the class is empty for that reason; it states no adoption, text or reporting."
+}

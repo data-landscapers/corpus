@@ -1,0 +1,36 @@
+{
+  "slug": "2026-05-21-mdg-transformation-digitale-madagascar-expose-ses-ambitions-numeriques-a-l",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Moov.mg reports the digital ministry (MNDPT) presented its 'stratégie nationale de transformation digitale' and its roadmap to a World Bank delegation on 20 May 2026, under the vision 'Madagascar Digital 2030'; the report names no adopting act or body and no approval.",
+      "as_of": "2026-05-20",
+      "date_precision": "day",
+      "system": "Madagascar Digital 2030",
+      "class": ""
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 20 May 2026 the minister met the World Bank's resident representative and its regional digital and AI director to present the strategy and the projects being deployed, and to align priorities toward new financing and partnership arrangements.",
+      "as_of": "2026-05-20",
+      "date_precision": "day",
+      "system": "Madagascar Digital 2030",
+      "class": ""
+    }
+  ],
+  "systems": [
+    {
+      "system": "Madagascar Digital 2030",
+      "country_label": "Madagascar Digital 2030",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digital Development, Digital Transformation, Posts and Telecommunications (MNDPT)",
+      "tiers": "national; pillars are digital inclusion, modernised public services, secure infrastructure, cybersecurity and digital skills"
+    }
+  ],
+  "note": "The class is empty: the article describes pillars covering services and infrastructure but does not say the whole government adopted the vision, nor how it relates to the Plan Stratégique Numérique 2023-2028. No period is stated apart from '2030' in the vision's name, so no period fact. No cost, text or body stated."
+}

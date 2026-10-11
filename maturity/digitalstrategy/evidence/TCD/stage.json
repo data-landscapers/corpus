@@ -1,0 +1,6 @@
+{
+  "iso3": "TCD",
+  "cells": [
+    {"sub_indicator": "national", "stage": "unplaced", "governance": "body:mandated", "standing": "", "text": "", "period": "to:2030", "plan": "actions", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "", "gaps": "No row on this instrument says it was approved, adopted, launched or drafted; sources only name it as existing, with period 2020-2030, and text public is not stated, so standing is not established. The World Bank (2023) both cites the strategy and says there is no comprehensive national digital strategy (TCD-003), and recommends adopting 'Chad Digital Strategy Horizon 2030' (TCD-004, drafting), which may be the same document but is a different named instrument. Tchad Connexion 2030 (national development plan and economic strategy) is also held. Needed for stage 3: a source word of adoption and a public text; no reporting row.", "note": "Instrument: Stratégie nationale de transformation numérique 2020-2030. Its rows give period, a roadmap of undated targets and a mandated body, but none sets a standing, so no rung is reached."}
+  ]
+}

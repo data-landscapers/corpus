@@ -1,0 +1,22 @@
+{
+  "slug": "2022-01-01-ken-national-digital-master-plan-2022-2032",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The plan's own text, issued by the Ministry of ICT, Innovation and Youth Affairs with a Cabinet Secretary foreword, says stakeholders jointly developed it and names no adopting act or draft status; read as adopted under the study rule for a published, undrafted government text. Publication date given as 2022-01-01 by the document record.", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Master Plan 2022-2032", "class": "national"},
+    {"sub_indicator": "national", "aspect": "text", "value": "public", "fact": "The full plan text is published as a PDF on the ICT Authority's official site (cms.icta.go.ke).", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Master Plan 2022-2032", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "to:2032", "fact": "The plan states its period as 2022-2032 and says it will define efforts in the next ten years.", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Master Plan 2022-2032", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The plan carries a resource requirement per theme for each year 2022-2032 in Ksh millions (Table 6.1), and Annex 1 gives a budget, timeframe and responsible bodies for each key project, for example Ksh 118.0B for 52,000 km of government fibre in 2022-2030.", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Master Plan 2022-2032", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The plan names the ICT Authority as the main coordinating and implementing agency, chairing a Technical Implementation Committee and providing the secretariat and project management office, under an inter-ministerial committee chaired by the Principal Secretary and an oversight committee chaired by the Cabinet Secretary; a presidential-level oversight structure is also proposed.", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Master Plan 2022-2032", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Kenya National Digital Master Plan 2022-2032", "country_label": "Kenya National Digital Master Plan 2022-2032", "class": "national", "platform": "", "owner": "Ministry of ICT, Innovation and Youth Affairs; implemented through the ICT Authority", "tiers": "national and county"},
+    {"system": "National ICT Master Plan 2014-2017", "country_label": "Master Plan 2014-2017", "class": "national", "platform": "", "owner": "Ministry of ICT", "tiers": "national"},
+    {"system": "Digital Economy Blueprint 2019", "country_label": "Kenya Digital Economy Blueprint (2019)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National ICT Policy 2019", "country_label": "national ICT Policy", "class": "sector-ict", "platform": "", "owner": "Ministry of ICT", "tiers": "national"},
+    {"system": "National Broadband Strategy 2018-2023", "country_label": "National Broadband Strategy 2018-2023", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Ministry of ICT, Innovation and Youth Affairs Strategic Plan 2018-2023", "country_label": "Ministry of ICT, Innovation and Youth Affairs Strategic Plan (2018-2023)", "class": "ministry-plan", "platform": "", "owner": "Ministry of ICT, Innovation and Youth Affairs", "tiers": "ministry"},
+    {"system": "ICT Authority Strategic Plan 2020-2025", "country_label": "ICT Authority Strategic Plan (2020-2025)", "class": "ministry-plan", "platform": "", "owner": "ICT Authority", "tiers": "agency"},
+    {"system": "National Cybersecurity Strategy", "country_label": "(V2) National Cybersecurity Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Kenya Vision 2030 and Medium Term Plan III", "country_label": "Vision 2030 (and associated MTP)", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

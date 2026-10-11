@@ -1,0 +1,26 @@
+{
+  "slug": "2021-09-17-bfa-internet-au-burkina-faso-bientot-du-tres-haut-debit-a-ouaga-bobo-et-ko",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The article says a Schéma directeur d'aménagement numérique was produced within the 2017-2020 action plan of the national digital economy development strategy (SN@DEN); it gives no content or cost for the action plan and is dated 17 September 2021, which is used as the date.",
+      "as_of": "2021-09-17",
+      "date_precision": "day",
+      "system": "SN@DEN 2018-2027",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Schéma directeur d'aménagement numérique (SDAN)",
+      "country_label": "Schéma directeur d'aménagement numérique",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministère de l'Economie Numérique, des Postes et de la Transformation Digitale",
+      "tiers": "national; adopted by decree in Council of Ministers; broadband infrastructure layer"
+    }
+  ],
+  "note": "SN@DEN is named but its scope is not described, so the class is empty; the SDAN is a broadband planning document, a systems entry only."
+}

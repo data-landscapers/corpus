@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-syc-national-consultation-report",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Digital Economy Action Plan",
+      "country_label": "National Digital Economy Action Plan",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Seychelles",
+      "tiers": "national"
+    }
+  ],
+  "note": "Agenda 2063 evaluation report (2022). It says the government 'has developed' a National Digital Economy Action Plan as the roadmap for the digital economy and refers to a Digital Economy Agenda under development; it gives neither a scope, an adopting act nor a date, so the class is empty and no fact is recorded."
+}

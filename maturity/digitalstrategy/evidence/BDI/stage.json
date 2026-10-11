@@ -1,0 +1,6 @@
+{
+  "iso3": "BDI",
+  "cells": [
+    {"sub_indicator": "national", "stage": "1", "governance": "", "standing": "none", "text": "", "period": "", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "BDI-001;BDI-002", "gaps": "Both statements are from 2020 and nothing newer restates the absence. Other instruments held are not national strategies: PNDTIC 2010-2025 (sector-ict, ended), PDDSP 2023-2033 (government), the AI and data strategies (thematic), Vision 2040-2060 (development-plan). Nothing is on record as adopted, launched or in preparation as a national strategy, so no higher rung is open.", "note": "The World Bank assessment states in 2020 that Burundi has no overarching digital strategy, and no national strategy is on record as adopted, launched or in preparation since. Stage 1, instrument: none (No national digital strategy)."}
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The ITU repository lists the National Digital Development Strategy (SNNCI 2021-2025) as the country's strategy and says the countries it lists have adopted one; no adopting act is named, so this is dated by the repository's 2025 publication year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The repository gives the time frame of the National Digital Development Strategy (SNNCI 2021-2025) as 2021 - 2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The repository names the Ministry of Digital Economy, Telecommunications and Innovation as lead/owner of the National Digital Development Strategy (SNNCI 2021-2025).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "SADA Côte d'Ivoire",
+      "country_label": "SADA Côte d'Ivoire rollout",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Smart Africa; Ministry of Digital Economy",
+      "tiers": "named as evidence of implementation"
+    }
+  ],
+  "note": ""
+}

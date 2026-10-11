@@ -9,7 +9,7 @@
       "as_of": "2025-07-18",
       "date_precision": "day",
       "system": "Tchad Connexion 2030",
-      "class": "national"
+      "class": "development-plan"
     },
     {
       "sub_indicator": "national",
@@ -19,7 +19,7 @@
       "as_of": "2025-07-18",
       "date_precision": "day",
       "system": "Tchad Connexion 2030",
-      "class": "national"
+      "class": "development-plan"
     }
   ],
   "systems": [

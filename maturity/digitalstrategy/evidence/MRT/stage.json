@@ -1,0 +1,21 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "finance:donor",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2025",
+      "plan": "costed",
+      "reporting": "activity",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "lapsed;advancing",
+      "stage_sources": "MRT-012;MRT-017;MRT-018;MRT-019;MRT-002;MRT-006;MRT-029",
+      "gaps": "The agenda's mandated body (Haut Conseil du Numerique, MRT-020, MRT-023) is dated 2022 and 2020, outside the 36-month governance window, and its funding is donor-backed with no domestic budget line. No report against the agenda's own targets is held, only claims of activity. The successor, Agenda National de la Transformation Numerique 2030, was opened for preparation on 4 Dec 2025 (a consultant was contracted in July 2025) and has no adoption or text.",
+      "note": "Instrument: Agenda national de transformation numerique 2022-2025, adopted in 2022 with a public, costed text, but its period ended in 2025 and the successor is in preparation, so stage 2 and lapsed. Stage 3 needs a period not ended."
+    }
+  ]
+}

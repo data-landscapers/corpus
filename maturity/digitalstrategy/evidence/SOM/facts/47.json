@@ -1,0 +1,26 @@
+{
+  "slug": "2025-01-01-som-regional-initiatives-for-the-arab-states-arb5-developing-means-of-digi",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The ITU's 2025 Year in Review says the Digital Transformation Strategy for Somalia 'was developed' in 2025, with no adoption by the government stated; the page's date is the review year, not a publication date.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Transformation Strategy 2025-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Transformation Strategy 2025-2030",
+      "country_label": "Digital Transformation Strategy for Somalia",
+      "class": "national",
+      "platform": "",
+      "owner": "Federal Government of Somalia (ITU support)",
+      "tiers": ""
+    }
+  ],
+  "note": "Fact dated to 2025, the review year."
+}

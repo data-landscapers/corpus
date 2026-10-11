@@ -1,0 +1,21 @@
+{
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "body:mandated",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2034",
+      "plan": "actions",
+      "reporting": "activity",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "TZA-013;TZA-016;TZA-017;TZA-020;TZA-014;TZA-021",
+      "gaps": "No finance line tied to the framework; no published report against its targets (TZA-011 is activity only); plan states dated targets with no cost. A World Bank March 2023 row (TZA-022) calls the then-current strategy a draft, superseded by the 2024 launch.",
+      "note": "Digital Economy Strategic Framework 2024-2034, launched by the President on 2024-07-29 with its text on ictc.go.tz, is adopted, public and in period, so stage 3. Stage 4 needs published results against its targets, and reporting is activity only."
+    }
+  ]
+}

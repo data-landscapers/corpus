@@ -1,0 +1,46 @@
+{
+  "slug": "2023-01-01-zaf-the-need-for-strategic-direction-south-africa-country-profile",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Economist Impact says South Africa has published numerous draft versions of its national digital strategy, the ICT and Digital Economic Masterplan 2020-2025, but the final iteration is not available for review; the report's survey ran July-August 2022 and the report date, 2023, is used.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "ICT and Digital Economy Masterplan for South Africa",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "unpublished",
+      "fact": "A footnote in the Economist Impact profile says the plan is not publicly available, and the evaluator marked down South Africa's score for indicator 1.1.1 for that reason.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "ICT and Digital Economy Masterplan for South Africa",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "Economist Impact titles the masterplan 2020-2025.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "ICT and Digital Economy Masterplan for South Africa",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ICT and Digital Economy Masterplan for South Africa 2020-2025",
+      "country_label": "ICT and Digital Economic Masterplan for South Africa 2020-2025",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of South Africa",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

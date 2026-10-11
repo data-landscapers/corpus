@@ -1,0 +1,36 @@
+{
+  "slug": "2020-11-04-gab-digitalisation-de-l-administration-gabonaise-le-plan-directeur-valide",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "A steering committee of the Plan national stratégique Gabon digital 2025 (PNS-GD2025), meeting by videoconference with the African Development Bank, ANINF, the Prime Minister's office, the budget ministry and the government's general secretariat, is reported; the report does not describe the plan's scope. Date is the article's published date.",
+      "as_of": "2020-11-04",
+      "date_precision": "day",
+      "system": "Plan national stratégique Gabon Digital 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The article states the Gabon digital 2025 strategic plan is financed by the African Development Bank under project CAB Gabon through the Korea-Africa cooperation trust fund. Date is the article's published date.",
+      "as_of": "2020-11-04",
+      "date_precision": "day",
+      "system": "Plan national stratégique Gabon Digital 2025",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "E-government master plan (plan directeur) of the PNS-GD2025",
+      "country_label": "plan directeur",
+      "class": "government",
+      "platform": "",
+      "owner": "ANINF",
+      "tiers": "inter-administration data exchange and administrative procedures; the steering committee 'validated' (validé) the master plan and strategic vision"
+    }
+  ],
+  "note": "What the committee validated is the e-government platform's master plan, a government-services instrument, so no standing fact is recorded for the PNS-GD2025, whose scope the article does not describe."
+}

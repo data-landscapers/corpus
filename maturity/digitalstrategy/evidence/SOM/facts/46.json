@@ -1,0 +1,26 @@
+{
+  "slug": "2025-07-09-som-somalia-and-the-kingdom-of-saudi-arabia-strengthen-digital-cooperation",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The Minister of Communications and Technology names the National Digital Transformation Strategy as running 2025-2030, as the first pillar of Somalia's digital vision (press release of 9 July 2025).",
+      "as_of": "2025-07-09",
+      "date_precision": "day",
+      "system": "Digital Transformation Strategy 2025-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Transformation Strategy 2025-2030",
+      "country_label": "National Digital Transformation Strategy (2025-2030)",
+      "class": "national",
+      "platform": "",
+      "owner": "Federal Government of Somalia, Ministry of Communications and Technology",
+      "tiers": ""
+    }
+  ],
+  "note": "Release says only that the strategy is being implemented; no adoption word, so no standing fact."
+}

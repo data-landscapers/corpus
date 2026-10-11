@@ -1,0 +1,46 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The ITU repository lists Digital Morocco 2030 as the country's strategy and says the countries it lists have adopted one; no adopting act is named, so this is dated by the repository's 2025 publication year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The repository gives the time frame of Digital Morocco 2030 as 2024 - 2030.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The repository names the Ministry of Digital Transition and Administration Reform as lead/owner of Digital Morocco 2030.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National AI Strategy",
+      "country_label": "National AI Strategy (announced June 2025)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Morocco",
+      "tiers": "named as new in the Morocco entry"
+    }
+  ],
+  "note": ""
+}

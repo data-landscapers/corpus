@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CAF,national,governance,qualifier,finance:donor,2020,CAF-003,,nothing dated since 2023-09-28
-CAF,national,standing,coverage,drafting,2020,CAF-002,CAF-001=none,nothing dated since 2023-09-28
+CAF,national,standing,coverage,drafting,2021-11-10,CAF-002;CAF-004,CAF-001=none,nothing dated since 2023-09-28
 CAF,national,text,coverage,,,,,nothing held
-CAF,national,period,coverage,,,,,nothing held
+CAF,national,period,coverage,to:2025,2021-11-10,CAF-005,,nothing dated since 2023-09-28
 CAF,national,plan,coverage,,,,,nothing held
 CAF,national,reporting,coverage,,,,,nothing held
 CAF,national,last12,qualifier,,,,,nothing held

@@ -1,0 +1,21 @@
+{
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "DJI-001 (7 Oct 2025) records the elaboration of a national digital strategy as a challenge still open, but systems.csv shows later mentions of a Smart Nation strategy, a 'stratégie numérique' presented at WSIS 2026 and a decision to update the Smart Nation Strategy (World Bank, 10 Feb 2026), none described or dated as adopted, drafting or launched, so absence cannot be claimed as stage 1 and no rung above is set. Other national instruments (AI strategy, Digital Code, Vision 2035) are thematic, directive or development-plan and set nothing.",
+      "note": "No instrument on record is described as adopted, announced or in preparation, and the one statement of absence is contradicted by later undescribed mentions of a national strategy. Unplaced rather than stage 1."
+    }
+  ]
+}

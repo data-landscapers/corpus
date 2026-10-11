@@ -1,0 +1,21 @@
+{
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "body:mandated;finance:not-stated",
+      "standing": "announced",
+      "text": "",
+      "period": "to:2028",
+      "plan": "costed",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-003;MDG-004",
+      "gaps": "No source uses adopted, approved, enacted or gazetted for the Plan Strategique Numerique 2023-2028, and no row holds its text as public; no reporting against it. A separate national digital roadmap (announced, from the Digital Readiness Assessment) is only prospective. Stage 3 needs a source's word of adoption and a public text.",
+      "note": "Staged on the Plan Strategique Numerique 2023-2028. Only formalised, presented or delivered by the ministry, so standing is announced and the cell is stage 2."
+    }
+  ]
+}

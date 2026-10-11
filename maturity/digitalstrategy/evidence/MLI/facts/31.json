@@ -1,0 +1,54 @@
+{
+  "slug": "2023-12-30-mli-lancement-de-l-etude-d-elaboration-du-document-de-politique-nationale",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The ministry reports that the launch ceremony of the study to prepare the document of the Politique Nationale de Développement de l'Économie Numérique was held on 29 December 2023, under the Minister of Communication, Digital Economy and Administrative Modernisation.",
+      "as_of": "2023-12-29",
+      "date_precision": "day",
+      "system": "Politique nationale de développement de l'économie numérique (PNDEN)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The minister is reported as saying the policy being prepared will cover 2024-2028 and be aligned with the Government Action Programme, the CREDD and the SDGs.",
+      "as_of": "2023-12-29",
+      "date_precision": "day",
+      "system": "Politique nationale de développement de l'économie numérique (PNDEN)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "results",
+      "fact": "The minister is reported as giving an execution rate of 27.30% for the previous plan Mali Numérique 2020, drawing on an audit and evaluations.",
+      "as_of": "2023-12-29",
+      "date_precision": "day",
+      "system": "Mali Numérique 2020",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Politique nationale de développement de l'économie numérique 2021-2034",
+      "country_label": "Politique Nationale de Développement de l'Économie Numérique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de la Communication, de l'Économie Numérique et de la Modernisation de l'Administration; Direction nationale de l'économie numérique",
+      "tiers": "national"
+    },
+    {
+      "system": "Mali Numérique 2020",
+      "country_label": "Mali Numérique 2020",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère chargé de l'économie numérique",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

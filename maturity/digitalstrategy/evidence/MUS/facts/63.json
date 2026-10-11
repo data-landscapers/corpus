@@ -1,0 +1,11 @@
+{
+  "slug": "2025-08-26-mus-digital-transformation-first-meeting-of-inter-ministerial-committee",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "At its first meeting on 26 August 2025, the Inter-Ministerial Committee was reported as mandated to monitor, coordinate and guide implementation of projects under the Digital Transformation Blueprint, with MITCI the single point of contact and monthly reports to Cabinet.", "as_of": "2025-08-26", "date_precision": "day", "system": "Digital Transformation Blueprint 2025-2029", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The minister said the online motor vehicle licence renewal project under the Blueprint was already deployed and training of medical staff for the e-health system had begun, among around 84 projects; no targets are measured against.", "as_of": "2025-08-26", "date_precision": "day", "system": "Digital Transformation Blueprint 2025-2029", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Blueprint 2025-2029", "country_label": "Blueprint for Digital Transformation", "class": "national", "platform": "", "owner": "MITCI; Inter-Ministerial Committee", "tiers": "national"}
+  ],
+  "note": ""
+}

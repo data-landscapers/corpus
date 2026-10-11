@@ -1,0 +1,21 @@
+{
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "body:mandated;finance:not-stated",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2029",
+      "plan": "actions",
+      "reporting": "activity",
+      "last12": "no-change",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-012;MUS-019;MUS-007;MUS-008",
+      "gaps": "No source names an adopting act; adoption is read from the published text with no source calling it a draft, and from the presidential launch of 26 May 2025. The plan states no cost, and reporting is claims of activity (about 84 projects) measured against no target, so stage 4 is out of reach. One launch-day report (MUS-013) said the content was not yet unveiled; the full text was published on the MITCI site the next day. The earlier Digital Mauritius 2030 Strategic Plan (2018, to 2030) is also on record and is superseded by the Blueprint.",
+      "note": "Instrument: Digital Transformation Blueprint 2025-2029, launched by the President, text published and period to 2029, so stage 3. Stage 4 needs published results against its own targets, and none is held."
+    }
+  ]
+}

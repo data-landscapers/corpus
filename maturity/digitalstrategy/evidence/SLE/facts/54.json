@@ -5,7 +5,7 @@
       "sub_indicator": "national",
       "aspect": "standing",
       "value": "announced",
-      "fact": "The document, the National Digital Development Policy 2021 (a whole-of-government, whole-of-society policy across ten focus areas covering the digital economy and digital government), calls itself 'launched' in its unsigned foreword; it names no adopting act or body, and its design section records draft-policy consultation workshops held 28 September to 1 October 2021.",
+      "fact": "The foreword, signed by the Minister of Information and Communications, calls the policy 'launched'; Part 4 then recommends that the government 'approve the National Digital Development Policy 2021' and replace the National ICT Policy of 2016 with it, and Part 1 records draft-policy consultation workshops held 28 September to 1 October 2021. The document names no approving act or body.",
       "as_of": "2021",
       "date_precision": "year",
       "system": "National Digital Development Policy 2021",
@@ -15,7 +15,7 @@
       "sub_indicator": "national",
       "aspect": "text",
       "value": "public",
-      "fact": "The policy is dated 2021 on its cover and states no end date for itself (only a 2039 middle-income vision), and the text is the document hosted on the Ministry of Communication, Technology and Innovation site mocti.gov.sl. Text public: yes.",
+      "fact": "The policy text is the document hosted on the Ministry of Communication, Technology and Innovation site (mocti.gov.sl), dated 2021 on its cover.",
       "as_of": "2021",
       "date_precision": "year",
       "system": "National Digital Development Policy 2021",
@@ -25,7 +25,7 @@
       "sub_indicator": "national",
       "aspect": "period",
       "value": "open",
-      "fact": "The policy is dated 2021 on its cover and states no end date for itself (only a 2039 middle-income vision), and the text is the document hosted on the Ministry of Communication, Technology and Innovation site mocti.gov.sl. Text public: yes.",
+      "fact": "The policy states no end date for itself, only a vision of middle-income status by 2039, and says it 'shall be reviewed every five years'.",
       "as_of": "2021",
       "date_precision": "year",
       "system": "National Digital Development Policy 2021",
@@ -34,8 +34,38 @@
     {
       "sub_indicator": "national",
       "aspect": "governance",
-      "value": "body:mandated",
-      "fact": "The policy states that its Part 3 institutional framework spells out institutions, roles and mandates, listing a National Digital Development Council, a National Digital Development Agency, a Technical Working Group and a Partners Coordinating Committee; the captured text stops before Part 3, so the mandates themselves are not read.",
+      "value": "body:none",
+      "fact": "Part 3 sets out mandates for a proposed National Digital Development Council under the President, a proposed National Digital Development Agency (NDiDA) to coordinate implementation of the National Digital Development Strategy, a Technical Working Group and a Partners Coordinating Committee; Part 4 recommends that these be approved or legally established, so the bodies are proposed, not yet stated as constituted.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "National Digital Development Policy 2021",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The policy lists an objective 'to allocate a proportion of the national budget to develop e-government systems' and a Partners Coordinating Committee to analyse financing gaps, but states no budget line, amount or cost for the policy or the strategy; the foreword credits the Digital Impact Alliance with financial and technical support for developing the policy.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "National Digital Development Policy 2021",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "none",
+      "fact": "The policy contains no action or implementation plan and no costs; Part 4 instructs the Ministry of Information and Communications to 'develop the implementation plan for the NDDP' and says action plans will support the strategy and sectoral plans.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "National Digital Development Policy 2021",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "none",
+      "fact": "The policy reports on no progress against itself; Part 4 instructs the Ministry to develop a monitoring, evaluation and learning framework and says an M&E system based on agreed sector indicators 'shall' be developed, with periodic sector reviews built into implementation.",
       "as_of": "2021",
       "date_precision": "year",
       "system": "National Digital Development Policy 2021",
@@ -45,7 +75,7 @@
       "sub_indicator": "national",
       "aspect": "standing",
       "value": "announced",
-      "fact": "The policy says it 'informs the development of' a National Digital Development Strategy that will set targets and roles, and its 2021 workshops collected initial thoughts to shape that strategy; no strategy text, adoption or drafting stage is stated.",
+      "fact": "Part 4 says 'a digital development strategy will be developed to provide the implementation framework for this Policy', consolidating all sectors' digital plans and their resources, benchmarks, targets and responsibilities into the National Digital Development Strategy; no strategy text, adoption or drafting stage is stated.",
       "as_of": "2021",
       "date_precision": "year",
       "system": "National Digital Development Strategy 2022",
@@ -59,15 +89,15 @@
       "class": "national",
       "platform": "",
       "owner": "Ministry of Information and Communications (now Ministry of Communication, Technology and Innovation)",
-      "tiers": "whole of government and whole of society"
+      "tiers": "whole of government and whole of society; ten focus areas"
     },
     {
-      "system": "National Digital Development Strategy (NDDS)",
-      "country_label": "National Digital Development Strategy",
-      "class": "",
+      "system": "National Digital Development Strategy 2022",
+      "country_label": "National Digital Development Strategy (NDDS)",
+      "class": "national",
       "platform": "",
-      "owner": "",
-      "tiers": ""
+      "owner": "Ministry of Information and Communications; coordinated by the proposed NDiDA",
+      "tiers": "to consolidate all sectors' digital plans into one whole-of-government strategy"
     },
     {
       "system": "National ICT Policy 2009",
@@ -75,7 +105,7 @@
       "class": "sector-ict",
       "platform": "",
       "owner": "Ministry of Information and Communications",
-      "tiers": "said to be 'developed and approved' in 2009; reviewed 2016/2017 (the document gives both years); the 2021 policy is its successor"
+      "tiers": "'developed and approved' in 2009; reviewed 2016 (also given as 2017); the 2021 policy is its successor"
     },
     {
       "system": "Medium-Term National Development Plan 2019-2023",
@@ -86,5 +116,5 @@
       "tiers": ""
     }
   ],
-  "note": "Text is an excerpt cut off in the e-government section: Part 3 institutions, Part 4 implementation and review, any action plan, cost or budget line are not in it. The policy's class is national on its own description (whole-of-government, economy and state); the NDDS fact carries an empty class because the document does not describe the NDDS's scope."
+  "note": "Read whole including Part 3 (institutions) and Part 4 (recommendations, implementation and review). The policy is a framework: it recommends approval, proposes the bodies, and defers plan, costs and monitoring to the not-yet-written strategy. Class national on its own description (whole-of-government and whole-of-society, economy and state); the NDDS takes national because Part 4 describes it as consolidating all sectors' plans."
 }

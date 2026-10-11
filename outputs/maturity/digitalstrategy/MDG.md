@@ -1,0 +1,21 @@
+# Madagascar
+
+## National strategy
+
+**Governance and finance.** [UNDP](<https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf>) says the Plan Stratégique Numérique 2023-2028 is coordinated by the digital ministry, supported by the Unité de Gouvernance Digitale attached to the Presidency, and the ministry [estimates its budget at USD 800.169 million](<https://2424.mg/transformation-economique-letat-livre-un-plan-national-sur-le-numerique-dont-la-mise-en-oeuvre-coute-800-millions-de-dollars/>), of which USD 152.334 million is available.
+
+**Standing.** [Newsmada](<https://newsmada.com/2024/01/20/strategie-numerique-le-psn-accompagne-lemergence-dune-economie-numerique-a-madagascar/>) reports the digital minister presented the plan on 19 January 2024, and [UNDP](<https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf>) calls it formalised and in implementation in December 2025. A [national digital roadmap](<https://www.undp.org/fr/madagascar/communiques/remise-officielle-du-rapport-sur-levaluation-de-la-preparation-numerique-de-madagascar-dra>) is in preparation after the Digital Readiness Assessment report was handed over on 17 December 2025.
+
+**Text.** [2424.mg](<https://2424.mg/transformation-economique-letat-livre-un-plan-national-sur-le-numerique-dont-la-mise-en-oeuvre-coute-800-millions-de-dollars/>) reports the ministry delivered a national Plan stratégique du numérique 2023-2028 on 26 October 2023.
+
+**Period.** [UNDP](<https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf>) names the plan as the national digital strategy for 2023-2028.
+
+**Delivery plan.** The ministry [costs implementation at USD 800.169 million](<https://2424.mg/transformation-economique-letat-livre-un-plan-national-sur-le-numerique-dont-la-mise-en-oeuvre-coute-800-millions-de-dollars/>), with USD 647.835 million still to find, across four axes: legal framework, telecommunications, human capital, and digital and financial inclusion.
+
+**Reporting.** [UNDP](<https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf>) says the plan is in implementation, in a consolidation phase.
+
+**Last twelve months.** [Tia Tanindrazana](<https://www.tiatanindrazana.mg/actualites/fifandraisan-davitra-sy-ny-nomerika-67990.php>) wrote on 8 September 2026 that the plan aims to raise the digital sector to 6% of GDP by 2028.
+
+***Noted, not assessed***. [Inclusive Digitalisation for East and Southern Africa (IDEA) Programme](<https://www.comesa.int/comesa-launches-inaugural-idea-annual-digital-forum-to-drive-inclusive-cross-border-digital-transformation-in-africa/>), [PRODIGY](<https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf>), [DECIM](<https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf>), [Programme national de numérisation](<https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf>), [national digitalization strategy of the technical and vocational education sector](<https://www.ecofinagency.com/news-services/2309-48937-madagascar-targets-40-000-digital-skills-trainees-by-2028>), [programme to train 6,000 people in emerging digital professions](<https://www.wearetech.africa/en/fils-uk/news/tech/madagascar-launches-digital-readiness-assessment-to-tackle-hurdles>), [the government's first digital transformation roadmap](<https://public.digital/pd-insights/client-stories/madagascar-advancing-digital-transformation>).
+
+***Not held***. No source states that the Plan Stratégique Numérique 2023-2028 was adopted or approved, and no public text is held. No reporting against it is held.

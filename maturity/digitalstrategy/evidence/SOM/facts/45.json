@@ -1,0 +1,23 @@
+{
+  "slug": "2025-11-11-som-request-for-expressions-of-interest-national-ict-policy-and-strategy-f",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ICT Policy and Strategy 2019-2024",
+      "country_label": "National ICT Policy and Strategy 2019-2024",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Communications and Technology",
+      "tiers": ""
+    },
+    {
+      "system": "National ICT Policy and Strategy 2025-2029",
+      "country_label": "National ICT Policy and Strategy 2025-2029",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Communications and Technology (EA-RDIP, IDA-funded consultancy)",
+      "tiers": ""
+    }
+  ],
+  "note": "Procurement notice for an ICT sector policy renewal (2019-2024 to 2025-2029); sector-ict, not a national digital strategy; no fact."
+}

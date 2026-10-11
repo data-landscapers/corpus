@@ -1,0 +1,21 @@
+{
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "2",
+      "governance": "body:mandated",
+      "standing": "adopted",
+      "text": "",
+      "period": "open",
+      "plan": "",
+      "reporting": "activity",
+      "last12": "",
+      "cap": "",
+      "flags": "text unpublished",
+      "stage_sources": "EGY-002;EGY-003",
+      "gaps": "Adoption rests on the ITU repository's general listing (2025), with no adopting act, body or date, and no row shows the text public; no delivery plan, no domestic budget line, and reporting is activity only (EGY-005, Nov 2024). A second instrument, the National strategy for building a fully digital state, was announced for approval by the Supreme Council on 13 Mar 2024 with no approval recorded; it is not the instrument staged. Nothing on record in the last twelve months.",
+      "note": "Instrument: Digital Egypt strategy (open, 2016 onward). Adopted but no public text held, so stage 2 with flag text unpublished."
+    }
+  ]
+}

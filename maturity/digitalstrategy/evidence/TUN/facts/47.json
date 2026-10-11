@@ -1,0 +1,37 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The ITU repository lists the National Digital Strategic Plan / Digital Tunisia as the country's strategy and says the countries it lists have adopted one; no adopting act is named, so this is dated by the repository's 2025 publication year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Plan national stratégique Tunisie Digitale 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The repository gives the time frame of the National Digital Strategic Plan / Digital Tunisia as 2017 - 2020 and 2022 - 2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Plan national stratégique Tunisie Digitale 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The repository names the Ministry of Communication Technologies as lead/owner of the National Digital Strategic Plan / Digital Tunisia.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Plan national stratégique Tunisie Digitale 2020",
+      "class": "national"
+    }
+  ],
+  "systems": [],
+  "note": "The entry headed Tanzania describes Digital Tunisia 2020 and is mislabelled; it gives no fact here."
+}

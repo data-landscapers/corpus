@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ICT Strategy 2021-2025",
+      "country_label": "National ICT Strategy 2021-2025",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "National Information Center (NIC)",
+      "tiers": "national; time frame 2021 - 2025"
+    }
+  ],
+  "note": "The only Sudan entry is an ICT strategy (class sector-ict); no national digital strategy is described."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National ICT Policy / Broadband Policy",
+      "country_label": "National ICT Policy / Broadband Policy",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": "national; time frame 2018 - 2022 (phase)"
+    }
+  ],
+  "note": "The only Namibia entry is an ICT and broadband policy (class sector-ict); no national digital strategy is described."
+}

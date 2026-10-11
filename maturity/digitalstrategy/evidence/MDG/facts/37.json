@@ -1,0 +1,56 @@
+{
+  "slug": "2023-10-26-mdg-transformation-economique-l-etat-livre-un-plan-national-sur-le-numeriq",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "2424.mg reports the digital ministry (MNDPT) delivered ('livre') a national Plan stratégique du numérique (PSN) 2023-2028, of which it quotes the budget estimate; the article names no adopting act or body, so the value follows the D3 rule.",
+      "as_of": "2023-10-26",
+      "date_precision": "day",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "2424.mg names the plan the PSN 2023-2028, built on four axes: the legal framework of the digital sector, telecommunications, human capital, and digital and financial inclusion; the ministry says projects validated with other entities are budgeted in it.",
+      "as_of": "2023-10-26",
+      "date_precision": "day",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The ministry estimates the PSN's implementation budget at USD 800.169 million, with USD 152.334 million available (projects financeable at 19%) and USD 647.835 million still to find; the implementation arrangement is said to be an integral part of the plan.",
+      "as_of": "2023-10-26",
+      "date_precision": "day",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The ministry lists potential funding sources for the PSN (the public investment programme, own internal resources, new emerging projects, sovereign funds, development partners such as IFC, IMF and AfDB, and private investment) but ties no budget line to it; USD 647.835 million of the USD 800.169 million is unfunded.",
+      "as_of": "2023-10-26",
+      "date_precision": "day",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "country_label": "Plan stratégique du numérique (PSN) 2023-2028",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Digital Development, Digital Transformation, Posts and Telecommunications (MNDPT)",
+      "tiers": "national; four axes, cross-sector projects budgeted in the plan"
+    }
+  ],
+  "note": ""
+}

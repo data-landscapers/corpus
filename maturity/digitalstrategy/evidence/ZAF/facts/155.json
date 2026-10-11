@@ -1,0 +1,44 @@
+{
+  "slug": "2021-02-22-zaf-ict-and-digital-economy-masterplan-for-south-africa-final-draft",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The document is the 'Final draft' of the ICT and Digital Economy Masterplan for South Africa, dated 22 February 2021 and authored by Genesis Analytics and Knowledge Executive.",
+      "as_of": "2021-02-22",
+      "date_precision": "day",
+      "system": "ICT and Digital Economy Masterplan for South Africa",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The final draft contains a Priority Action Plan (section 6) with an appendix listing its actions, some with named executors and time limits such as three or five years; no costing is seen in the passages held.",
+      "as_of": "2021-02-22",
+      "date_precision": "day",
+      "system": "ICT and Digital Economy Masterplan for South Africa",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "ICT and Digital Economy Masterplan for South Africa",
+      "country_label": "ICT and Digital Economy Masterplan for South Africa",
+      "class": "national",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "national"
+    },
+    {
+      "system": "Roadmap for the Digital Transformation of Government",
+      "country_label": "National e-government strategy and roadmap (gazetted 2017)",
+      "class": "government",
+      "platform": "",
+      "owner": "Department of Telecommunications and Digital Technologies",
+      "tiers": "public services"
+    }
+  ],
+  "note": ""
+}

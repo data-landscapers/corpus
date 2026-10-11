@@ -1,0 +1,36 @@
+{
+  "slug": "2020-07-20-ner-telecommunications-vers-l-elaboration-d-un-document-de-politique-numer",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Le Sahel reports that the Ministry of Posts, Telecommunications and Digital Economy launched work to elaborate a digital policy 'Niger Numérique 2021-2030', with a national technical committee preparing a draft to submit to the Government for adoption; the article date (July 2020) is used.",
+      "as_of": "2020-07",
+      "date_precision": "month",
+      "system": "Politique nationale du numérique 2021-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The policy being drafted is named 'Niger Numérique 2021-2030' and covers 2021-2030, as reported by Le Sahel in July 2020.",
+      "as_of": "2020-07",
+      "date_precision": "month",
+      "system": "Politique nationale du numérique 2021-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Politique sectorielle des télécommunications et des TIC 2013-2020",
+      "country_label": "Politique sectorielle des télécommunications et des TIC (2013-2020)",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministère des Postes, des Télécommunications et de l'Economie Numérique",
+      "tiers": "Approved by decree No 2013-158 of 12 April 2013; period ended 2020."
+    }
+  ],
+  "note": "The article gives the new policy's drafting and period but not its scope beyond a revision of the telecom/ICT sector policy, so the class is empty for that reason."
+}

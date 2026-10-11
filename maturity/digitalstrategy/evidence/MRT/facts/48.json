@@ -1,0 +1,44 @@
+{
+  "slug": "2025-07-23-mrt-marches-liste-des-contrats-wardip",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The ministry's contracts list shows an individual consultant contract signed 23/07/2025 under the World Bank-financed WARDIP project, for four months, to upgrade the Agenda national de Transformation Numérique and draft an Agenda 2030; the page describes no scope.",
+      "as_of": "2025-07-23",
+      "date_precision": "day",
+      "system": "Agenda nationale de transformation numérique 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The contract of 1,280,000 MRU to upgrade the Agenda national de Transformation Numérique and draft an Agenda 2030 is listed under WARDIP with IDA as source of financing.",
+      "as_of": "2025-07-23",
+      "date_precision": "day",
+      "system": "Agenda nationale de transformation numérique 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Agenda nationale de transformation numérique 2030",
+      "country_label": "Agenda 2030 (Agenda national de Transformation Numérique)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration",
+      "tiers": "national"
+    },
+    {
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "country_label": "Agenda national de Transformation Numérique",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration",
+      "tiers": "national"
+    }
+  ],
+  "note": "Class is empty because the page names the national digital transformation agenda without describing its scope."
+}

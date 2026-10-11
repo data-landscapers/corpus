@@ -82,7 +82,15 @@
       "subject": "gov.policy",
       "text": "Digital transformation strategy: national strategy",
       "indicator_id": "gov.policy--digital-transformation-strategy-national-strategy",
-      "class": "national"
+      "class": "national",
+      "criteria_of": "14100297cf3b",
+      "criteria": [
+        "A dated source states that the country has no national digital strategy, and none is on record as adopted, launched or in preparation.",
+        "A national digital strategy is announced, being drafted, or validated and awaiting adoption. Or one is adopted and its text is not public. Or its period has ended and a successor is in preparation.",
+        "A national digital strategy is adopted, its text is public, and its period has not ended. A text the government has published, and no source calls a draft, counts as adopted. A strategy with no stated period stops here.",
+        "The strategy has a delivery plan with dated actions or costs, and the government has published results against its own targets within the past three years. Without a mandated body and a domestic budget line the stage is capped at 3.",
+        "The delivery plan is costed, and results against the strategy's targets are published on every pillar within the past two years."
+      ]
     }
   ],
   "classes": [
@@ -222,5 +230,6 @@
     "text unpublished",
     "advancing",
     "regressing"
-  ]
+  ],
+  "searched": "2026-10-11"
 }

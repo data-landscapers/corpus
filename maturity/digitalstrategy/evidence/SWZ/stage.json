@@ -1,0 +1,8 @@
+{
+  "iso3": "SWZ",
+  "cells": [
+    {"sub_indicator": "national", "stage": "no evidence", "governance": "", "standing": "", "text": "", "period": "", "plan": "", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "",
+     "gaps": "evidence.csv holds no row for this country. systems.csv names an Eswatini Digitalisation Strategy (2024-2028, 'Government in Your Hand') and a Digital Transformation Roadmap in procurement, with no evidence rows setting standing, text, period, plan or reporting.",
+     "note": "No evidence row, so no instrument can be staged."}
+  ]
+}

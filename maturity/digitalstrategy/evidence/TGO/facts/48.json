@@ -1,0 +1,26 @@
+{
+  "slug": "2022-04-27-tgo-62-ans-d-independance-adresse-du-chef-de-l-etat-a-la-nation",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "In his independence address the President says Togo 'a adopté' a strategy called Stratégie Togo Digital 2025, resting on three axes and aiming at lasting digital transformation, including progressive digitisation of administrative procedures; no act or adoption date is given, so the address date is used.",
+      "as_of": "2022-04-27",
+      "date_precision": "day",
+      "system": "Togo Digital 2025",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Togo Digital 2025",
+      "country_label": "Stratégie Togo Digital 2025",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Togo",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

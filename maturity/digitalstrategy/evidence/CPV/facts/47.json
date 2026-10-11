@@ -1,0 +1,98 @@
+{
+  "slug": "2026-05-07-cpv-resolucao-n-o-72-2026",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Resolução 72/2026 (approved in Council of Ministers 6 May 2026, BO 54 of 7 May 2026) does not approve a strategy: it takes stock of existing instruments and 'establishes the bases' for developing an Agenda Digital de Cabo Verde 2035, whose definition is a process still to be carried out.",
+      "as_of": "2026-05-06",
+      "date_precision": "day",
+      "system": "Agenda Digital de Cabo Verde 2035",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2035",
+      "fact": "The Resolution sets the vision of the Agenda Digital de Cabo Verde 2035 as a Digital Nation by 2035, structured in eight axes (annex).",
+      "as_of": "2026-05-06",
+      "date_precision": "day",
+      "system": "Agenda Digital de Cabo Verde 2035",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 6 May 2026 the Council of Ministers approved Resolução 72/2026, in force the day after publication on 7 May, setting the bases and eight axes for preparing the Agenda Digital 2035.",
+      "as_of": "2026-05-06",
+      "date_precision": "day",
+      "system": "Agenda Digital de Cabo Verde 2035",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Resolution lists the Estratégia de Economia Digital (EEDCV) 2025-2030 as 'aprovada em setembro de 2024', its focus being competitiveness, innovation and the digital economy.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "Estratégia para a Economia Digital de Cabo Verde",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The Resolution gives the Estratégia de Economia Digital (EEDCV) as covering 2025-2030.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "Estratégia para a Economia Digital de Cabo Verde",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Agenda Digital de Cabo Verde 2035",
+      "country_label": "Agenda Digital de Cabo Verde 2035",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Cabo Verde (Council of Ministers)",
+      "tiers": ""
+    },
+    {
+      "system": "Estratégia para a Economia Digital de Cabo Verde",
+      "country_label": "Estratégia de Economia Digital (EEDCV) 2025-2030",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": ""
+    },
+    {
+      "system": "Estratégia para a Governação Digital de Cabo Verde 2021-2024",
+      "country_label": "Estratégia para a Governação Digital (EGDCV) 2021-2024",
+      "class": "government",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": ""
+    },
+    {
+      "system": "Plano de Ação de Governação Digital 2023-2025",
+      "country_label": "Plano de Ação de Governação Digital 2023-2025",
+      "class": "government",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": ""
+    },
+    {
+      "system": "Plano Estratégico de Desenvolvimento Sustentável (PEDS II) 2022-2026",
+      "country_label": "Plano Estratégico de Desenvolvimento Sustentável (PEDS II) 2022-2026",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": ""
+    }
+  ],
+  "note": "Resolução 72/2026 only sets bases and orientations (eight axes) for preparing the Agenda Digital 2035; it adopts no strategy text."
+}

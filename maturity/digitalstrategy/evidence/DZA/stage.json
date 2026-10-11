@@ -1,0 +1,21 @@
+{
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "body:mandated;finance:donor",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2030",
+      "plan": "actions",
+      "reporting": "activity",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "DZA-005;DZA-010;DZA-046;DZA-052;DZA-053",
+      "gaps": "No adopting act is named (approval stated by El Chaab and the High Commissioner only). Reporting is activity throughout, measured against no strategy target, so stage 4 is not reached; the plan has actions with no cost (executive plan 2027-2030 in preparation); no domestic budget line is tied to the strategy (UNDP/Japan donor support only). Earlier DZA-050 'drafting' (Aug 2024) and 'announced'/'validated' rows are superseded by the later adoption rows.",
+      "note": "Instrument: Stratégie nationale de transformation numérique 2025-2030. Adopted, text public on the High Commission site and period to 2030, so stage 3; no published results against its own targets, so not 4."
+    }
+  ]
+}

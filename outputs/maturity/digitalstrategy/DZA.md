@@ -1,0 +1,21 @@
+# Algeria
+
+## National strategy
+
+**Governance and finance.** The [High Commission for Digitalisation](<https://www.joradp.dz/FTP/JO-FRANCAIS/2023/F2023059.pdf>), created by presidential decree 23-314 of 6 September 2023, designs the strategy and follows its implementation, and on 4 May 2026 it signed a [project with UNDP, supported by the Government of Japan](<https://www.echoroukonline.com/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%AF%D8%B9%D9%85-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA>) to support its implementation.
+
+**Standing.** [El Chaab](<https://www.ech-chaab.com/new/2026/09/09/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/>) says the National Digital Transformation Strategy 2025-2030 was adopted, approved and published in May 2025, and on 12 May 2025 the High Commissioner called it the [approved strategy](<https://www.echoroukonline.com/algeria-candidate-for-digital-leadership-in-africa-by-2030>).
+
+**Text.** The [text is published on the High Commission's site](<https://mail.webservices.dz/images/faq/hcn/SNTN-En.pdf>), in an August 2024 version with twenty-five strategic objectives.
+
+**Period.** The [ITU repository](<https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies>) gives its time frame as 2025 to 2030.
+
+**Delivery plan.** The minister said on 4 May 2026 that the [implementation plan for 2025-2026 is under way](<https://www.echoroukonline.com/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%AF%D8%B9%D9%85-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA>), with an executive plan for 2027-2030 in preparation.
+
+**Reporting.** The High Commission published a [review of April 2024 to September 2026](<https://www.ech-chaab.com/new/2026/09/09/%D8%AB%D9%84%D8%A7%D8%AB-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%AA%D8%B1%D8%B3%D9%85-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/>) listing its projects, and said on 2 September 2026 that the [second national data centre at Blida](<https://algerie-eco.com/2026/09/02/le-deuxieme-centre-national-de-donnees-a-blida-obtient-la-certification-internationale-tier-iii-design/>) implements its first axis.
+
+**Last twelve months.** The [National Digital Services Centre was inaugurated on 5 July 2026](<https://www.jeune-independant.net/centre-national-des-services-numeriques-le-coeur-digital-de-letat-prend-vie/>), and the Council of Ministers of 12 July 2026 gave administrations [one month to connect to the National Data Center](<https://www.wearetech.africa/en/fils-uk/news/algeria-sets-one-month-deadline-for-government-data-center-integration>).
+
+***Noted, not assessed***. [e-Algeria](<https://imcra-az.org/uploads/public_files/2025-10/81246.pdf>); [Presidential Decree 25-320 on data governance](<https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf>); [Law No. 25-11 amending the 2018 data protection law](<https://techcabal.com/2026/03/19/why-data-protection-has-become-africas-default-ai-policy-tool/>); [Digital Law](<https://mail.webservices.dz/images/faq/hcn/SNTN-En.pdf>); [draft law on digital identity and trust services](<https://www.biometricupdate.com/202511/algeria-approves-draft-legislation-on-digital-id-trust-services>); [digital ID and trust services framework](<https://www.biometricupdate.com/202604/algeria-emboldens-dpi-push-with-50-in-5-campaign-membership>); [data exchange platform among ministries](<https://www.biometricupdate.com/202604/algeria-emboldens-dpi-push-with-50-in-5-campaign-membership>); [National Data Center interconnection](<https://www.wearetech.africa/en/fils-uk/news/algeria-sets-one-month-deadline-for-government-data-center-integration>).
+
+***Not held***. No adopting act is named; approval is stated by the press and the High Commissioner only. No cost for the plan, no domestic budget line and no results against the strategy's own targets are held.

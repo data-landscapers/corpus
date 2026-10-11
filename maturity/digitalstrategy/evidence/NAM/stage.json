@@ -1,0 +1,21 @@
+{
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "body:mandated",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2029",
+      "plan": "",
+      "reporting": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-011;NAM-012;NAM-007;NAM-003;NAM-002",
+      "gaps": "No source names an adopting act or body; adopted rests on the published text (mict.gov.na, NAM-007) that no source calls a draft. Period is 2025-2029 in most rows and 2025-2028 in NAM-006, 013-016. No delivery plan, cost or progress report on record, and no finance row; a domestic budget line is also missing. No other national instrument held.",
+      "note": "Instrument: National Digital Strategy 2025-2029, launched 5 August 2025 by the ICT minister, text public and inside its period, so stage 3. Stage 4 needs a delivery plan and published results, and there are none."
+    }
+  ]
+}

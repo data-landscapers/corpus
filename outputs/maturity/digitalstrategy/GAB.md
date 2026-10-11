@@ -1,0 +1,7 @@
+# Gabon
+
+## National strategy
+
+***Noted, not assessed***. [e-government strategy and master plan](<https://documents1.worldbank.org/curated/en/301741627956043619/pdf/Gabon-Digital-Gabon-Project.pdf>); [Plan d'Accélération de la Transformation 2021-2023](<https://documents1.worldbank.org/curated/en/301741627956043619/pdf/Gabon-Digital-Gabon-Project.pdf>); [Digital Gabon (P175987)](<https://documents1.worldbank.org/curated/en/183121620708938835/pdf/Project-Information-Document-Digital-Gabon-P175987.pdf>); [eGabon project (P132824)](<https://documents1.worldbank.org/curated/en/301741627956043619/pdf/Gabon-Digital-Gabon-Project.pdf>); [Central African Backbone Phase 4, Gabon](<https://documents1.worldbank.org/curated/en/622871619791053067/pdf/Gabon-Fourth-Phase-of-the-Central-African-Backbone-Program-Gabon-Project.pdf>); [Plan stratégique Gabon émergent](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P17016008155bc0570b002059059dfec929.pdf>); [National Growth and Development Plan 2026-2030](<https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz>); [Ordonnance N° 0006/PR/2025 portant réglementation de la digitalisation en République gabonaise](<https://journal-officiel.ga/21995-0006-pr-2025-/>).
+
+***Not held***. The period of the Plan national stratégique Gabon Digital 2025 ended in 2025, and no successor is on record. A digital economy strategy was said to be in preparation in June 2025, with no act, text or period given.

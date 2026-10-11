@@ -3,9 +3,19 @@
   "facts": [
     {
       "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The UNDP assessment says Madagascar's national digital strategy is 'formalised' and anchored to the Politique Générale de l'État, and that it is in implementation (a consolidation phase); it names no adopting act, no body that adopted it and no approval date, and uses none of approved, adopted, enacted or gazetted, so the value follows the D3 rule; the report's December 2025 publication date is used.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
       "aspect": "period",
       "value": "to:2028",
-      "fact": "The UNDP Digital Readiness Assessment names the Plan Stratégique Numérique 2023-2028, aligned with the Politique Générale de l'État and the SDGs, as Madagascar's national digital vision; no as-of date is given, so the report's December 2025 publication date is used.",
+      "fact": "UNDP names the Plan Stratégique Numérique 2023-2028, aligned with the Politique Générale de l'État and the SDGs, as Madagascar's national digital strategy, covering modernisation of the state, public services, digital agriculture, financial inclusion and digital identity; no as-of date is given for the period, so the report's December 2025 publication date is used.",
       "as_of": "2025-12",
       "date_precision": "month",
       "system": "Plan Stratégique Numérique 2023-2028",
@@ -15,7 +25,7 @@
       "sub_indicator": "national",
       "aspect": "plan",
       "value": "actions",
-      "fact": "UNDP states the Plan Stratégique Numérique 2023-2028 sets targets including raising the digital sector's contribution to GDP to 6% by 2028; no cost is stated (date: report publication, December 2025).",
+      "fact": "UNDP cites targets in the plan: the digital sector at 6% of GDP in 2028 (1.5% in 2019), 80% network coverage and progressive 5G by 2028, 664,000 connected devices of which 400,000 for women and girls, and a gap of 40,000 specialists to fill; the report states no cost for the plan (report December 2025).",
       "as_of": "2025-12",
       "date_precision": "month",
       "system": "Plan Stratégique Numérique 2023-2028",
@@ -25,7 +35,7 @@
       "sub_indicator": "national",
       "aspect": "governance",
       "value": "body:mandated",
-      "fact": "UNDP states the plan is placed under the coordination of the digital ministry (MNDPT), which ensures coherence and strategic supervision of digital transformation; only 21% of surveyed experts consider the ministry and the Unité de Gouvernance Digitale fully operational (report December 2025).",
+      "fact": "UNDP states the plan is placed under the coordination of the digital ministry (MNDPT), which ensures coherence and strategic supervision, supported by the Unité de Gouvernance Digitale attached to the Presidency; 79% of surveyed experts confirm dedicated structures exist but only 21% judge them fully operational (report December 2025).",
       "as_of": "2025-12",
       "date_precision": "month",
       "system": "Plan Stratégique Numérique 2023-2028",
@@ -35,7 +45,7 @@
       "sub_indicator": "national",
       "aspect": "governance",
       "value": "finance:not-stated",
-      "fact": "UNDP reports that 86% of surveyed experts say digital budgets are limited per project and without sustained financing; it ties no budget line to the plan (report December 2025).",
+      "fact": "UNDP reports that 86% of surveyed experts say digital budgets are specific to and limited by project, none mentions a general or lasting allocation, and all point to almost no funding beyond a project's initial cycle; it ties no budget line to the plan (report December 2025).",
       "as_of": "2025-12",
       "date_precision": "month",
       "system": "Plan Stratégique Numérique 2023-2028",
@@ -49,18 +59,58 @@
       "class": "national",
       "platform": "",
       "owner": "Ministry of Digital Development (MNDPT)",
-      "tiers": "national; 93% of surveyed experts say it is widely owned, 7% judge it fully on track"
+      "tiers": "national; 93% of surveyed experts report execution delays, 7% judge implementation on track; only 50% judge it effectively integrated across government"
     },
     {
       "system": "PRODIGY",
       "country_label": "PRODIGY",
       "class": "programme",
-      "platform": "",
-      "owner": "World Bank-financed, run with the Unité de Gouvernance Digitale",
-      "tiers": "digitises civil status and identity"
+      "platform": "MOSIP",
+      "owner": "World Bank-financed (USD 143 million), run with the Unité de Gouvernance Digitale",
+      "tiers": "digitises civil status and prepares a national biometric identity"
     },
     {
-      "system": "programme national de numérisation",
+      "system": "DECIM",
+      "country_label": "DECIM",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank-supported, under the digital ministry",
+      "tiers": "connectivity of public institutions, 664,000 affordable devices, subsidy for networks in white zones"
+    },
+    {
+      "system": "Plan National du Développement des Télécommunications 2022-2026",
+      "country_label": "PNDPT 2022-2026",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Posts, Telecommunications and Digital Development",
+      "tiers": "telecoms sector plan cited by the report"
+    },
+    {
+      "system": "Stratégie nationale de développement de la statistique 2022-2030",
+      "country_label": "SNDS 2022-2030",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Institut National de la Statistique",
+      "tiers": "statistics and data exchange"
+    },
+    {
+      "system": "Stratégie d'Inclusion Financière 2018-2022",
+      "country_label": "Stratégie d'Inclusion Financière 2018-2022 / NFIS",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "financial inclusion; the report says the PSN and the NFIS treat digital financial services as priority levers"
+    },
+    {
+      "system": "Stratégie nationale de réforme de l'état civil 2018-2027",
+      "country_label": "Stratégie nationale de réforme de l'état civil 2018-2027",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "civil registration and identity"
+    },
+    {
+      "system": "Programme national de numérisation",
       "country_label": "programme national de numérisation",
       "class": "programme",
       "platform": "",
@@ -82,7 +132,23 @@
       "platform": "X-Road",
       "owner": "Unité de Gouvernance Digitale",
       "tiers": "public sector"
+    },
+    {
+      "system": "Torolalana",
+      "country_label": "Torolalana",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "online directory of administrative procedures"
+    },
+    {
+      "system": "Orinasa",
+      "country_label": "Orinasa",
+      "class": "",
+      "platform": "",
+      "owner": "Economic Development Board of Madagascar with the Unité de Gouvernance Digitale",
+      "tiers": "online business registration"
     }
   ],
-  "note": "The file is a truncated capture. Adoption by a named act is not stated in the text read, so no standing fact; no published progress report against the plan's targets is stated, so no reporting fact (the 7% figure is an expert survey). The class of the PSN is read from the text (national vision, GDP target, aligned with the general state policy). The text read does not say the plan's own text is public."
+  "note": "Read whole, 123 pages. The report states no adopting act for the PSN, so standing follows the D3 rule; it quotes the plan by page (pp. 9, 12, 16, 21, 47, 68, 70) but gives no link and does not say the plan's text is published, so no text fact. No published government progress report against the plan's targets is described (the 7% figure is an expert survey), so no reporting fact."
 }
