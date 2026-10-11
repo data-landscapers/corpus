@@ -26,7 +26,7 @@ status: CC's proposal; criteria prepared, awaiting Bill's rulings (method step 2
 |---|---|---|
 | Supervisory authority | Data protection authority: supervisory authority | `gov.protect--data-protection-authority-supervisory-authority` |
 
-**`gov.protect--national-data-protection-readiness` is proposed for retirement at acceptance**, as the law study's ruling 7 left it: a composite of the law row, this row and ratification, with 25 of 54 cells unplaced.
+**`gov.protect--national-data-protection-readiness` is not touched.** Which indicators the frame holds is Bill's decision alone.
 
 ## 2. Typology
 
@@ -107,16 +107,15 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the Malabo Convention, Arti
 - [ ] **D5. Re-read and stage**, method §7.
 - [ ] **D6. Write, render and lint.** **D7. Report to Bill.**
 
-**The proposals for D1**:
+**The proposals for D1**, each a yes or no:
 
-1. The subject is the body charged by law or decree with supervising data protection, wherever it sits; a designated regulator counts.
-2. Constitution is stage 3 and no higher; stage 4 is a dated decision of the body, stage 5 a published period's figures and a published budget or staff figure.
-3. A body that has lost its head and members is stage 2; one run by an acting head stays where it is, flagged *vacant*.
-4. Independence is not staged. A ministry unit, or a body whose seat is not stated, is capped at 4.
-5. Resources are required at stage 5 only, and searched for only there.
-6. The review carries the law study's facts and opens documents only for the cells they leave short.
-7. Network membership is a flag; meeting Malabo Articles 11 and 12 is not a test at any stage.
-8. `gov.protect--national-data-protection-readiness` is retired at acceptance and not replaced.
+1. Any body the law gives the job counts as the authority, including a telecoms regulator or an information commission given it as a second job.
+2. Having an authority appointed is stage 3. Stage 4 needs a ruling against a named organisation in the last three years. Stage 5 needs published yearly figures for its rulings, and a published budget or staff number.
+3. An authority whose members have all left and not been replaced drops to stage 2. One with an acting head keeps its stage.
+4. We do not judge whether an authority is independent, because that means interpreting the law's text. We record where it sits instead. An authority that is a department of a ministry cannot reach stage 5.
+5. We look for a budget or staff number only for authorities already at stage 4.
+6. We start from the facts the law study collected and read new documents only where those leave a country's stage undecided.
+7. Belonging to the African network of authorities is noted and does not change the stage.
 
 ## Boundary
 
