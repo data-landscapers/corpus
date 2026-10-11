@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-31-senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 29 July 2026 the digital ministry, through Sénégal Numérique S.A. with PAENS support, held a workshop presenting interim results of the Government Enterprise Architecture project under the New Deal Technologique, briefed participants on the PM-chaired GouvNum Committee and launched an inventory of the state's information systems.", "as_of": "2026-07-29", "date_precision": "day", "system": "New Deal Technologique", "class": ""}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Government Enterprise Architecture (EAG)", "country_label": "Architecture d'Entreprise Gouvernementale", "class": "programme", "platform": "", "owner": "Ministry of Telecommunications and Digital Affairs; implementer Sénégal Numérique S.A.", "tiers": "national"},
+    {"system": "GouvNum Committee", "country_label": "Comité GouvNum", "class": "", "platform": "", "owner": "Prime Minister (chair)", "tiers": "national"},
+    {"system": "Plateforme Nationale d'Interopérabilité du Sénégal (PINS)", "country_label": "PINS", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Calls the New Deal Technologique an 'agenda' without describing its scope, so class is left empty."
+}

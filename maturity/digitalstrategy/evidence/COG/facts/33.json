@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-21-congo-national-drive-secure-digital-identity-techafricanews",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "A national workshop opened by the Minister of Posts, Telecommunications and Digital Economy in Brazzaville in July 2025 to outline a digital identity roadmap was described as a milestone in implementing Congo Digital 2025, the national strategy for digital technology as a catalyst for inclusive and sustainable development; the article gives its publication date of 21 July 2025 and no event day.", "as_of": "2025-07", "date_precision": "month", "system": "Congo Digital 2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Congo Digital 2025", "country_label": "Congo Digital 2025", "class": "national", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy", "tiers": "national; described as the national strategy to position digital technology as a catalyst for inclusive and sustainable development"},
+    {"system": "Digital Transformation Acceleration Project (PATN)", "country_label": "PATN", "class": "programme", "platform": "", "owner": "World Bank-funded, USD 100 million", "tiers": "national; backs the digital identity workshop led by CARIA"}
+  ],
+  "note": ""
+}

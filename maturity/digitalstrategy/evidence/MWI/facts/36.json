@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-27-ict-sector-eyes-policy-enforcement-times",
+  "facts": [],
+  "systems": [
+    {"system": "Digitalisation Policy", "country_label": "Digit­alisation Policy / Malawi Digitalisation Policy", "class": "", "platform": "", "owner": "", "tiers": "national; an ICT expert says it must move 'from a document on a shelf' to lived reality by mid-2026; scope, date and adoption act not given"},
+    {"system": "Enterprise Service Bus", "country_label": "", "class": "", "platform": "", "owner": "Department of e-Government", "tiers": "government interoperability; ministries to be onboarded"},
+    {"system": "Public Sector Reforms Information Management System", "country_label": "", "class": "", "platform": "", "owner": "Government", "tiers": "launched December 2025; tracks MDAs against reform targets"},
+    {"system": "Malawi National Single Window", "country_label": "", "class": "", "platform": "", "owner": "Government", "tiers": "launched May 2025; trade agencies"}
+  ],
+  "note": "Expert outlook piece; the Digitalisation Policy is named without date, act or scope, so no fact beyond the opinion that it is 'a document on a shelf'."
+}

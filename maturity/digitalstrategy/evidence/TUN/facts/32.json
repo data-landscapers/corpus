@@ -1,0 +1,9 @@
+{
+  "slug": "2025-03-01-tunisie-pap-mission-technologies-communication-2025",
+  "facts": [],
+  "systems": [
+    {"system": "استراتيجية مهمة تكنولوجيات الاتصال (strategy of the Communication Technologies mission)", "country_label": "استراتيجية مهمة تكنولوجيات الاتصال", "class": "ministry-plan", "platform": "", "owner": "Ministry of Communication Technologies (annual performance plan 2025)", "tiers": "the mission's strategy, set within the government's major reform programme and the digital-development axes of the 2023-2025 development plan and the Tunisia 2035 vision"},
+    {"system": "مخطط التنمية 2023-2025 (development plan 2023-2025)", "country_label": "مخطط التنمية 2023-2025", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "named as carrying strategic axes on digital development that the mission's strategy follows"}
+  ],
+  "note": "A ministry budget performance plan: the strategy it describes is the mission's own (ministry-plan). The held passage does not state any national digital strategy, so no fact."
+}

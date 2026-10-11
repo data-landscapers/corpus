@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-egypt-cloud-first-policy-2024-mcit",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Supreme Council of Digital Society, formed under Presidential Decree No. 501 of 2022 and amended by No. 511, is chaired by the Prime Minister and approves the national strategy for building a fully digital state, with the Minister of Communications and Information Technology as rapporteur; the document is dated 2024 and gives no more precise date for the Council's formation than 2022.", "as_of": "2022", "date_precision": "year", "system": "National strategy for building a fully digital state", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Cloud First Policy Egypt 2024", "country_label": "Cloud First Policy", "class": "thematic", "platform": "", "owner": "Supreme Council of Digital Society", "tiers": "national; endorsed at the Council's session of 13 March 2024, first outcome of the Council; Executive Bureau chaired by the ICT minister implements"},
+    {"system": "Digital Egypt strategy", "country_label": "Digital Egypt", "class": "", "platform": "", "owner": "", "tiers": "national; the Cloud First Policy states it aligns with the Digital Egypt strategy and a national digital transformation strategy aligned with Egypt Vision 2030; strategy's own text and adoption not described"},
+    {"system": "Egypt Vision 2030", "country_label": "Egypt Vision 2030", "class": "", "platform": "", "owner": "", "tiers": "national; named as the vision the national digital transformation strategy aligns with"}
+  ],
+  "note": ""
+}

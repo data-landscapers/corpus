@@ -1,0 +1,10 @@
+{
+  "slug": "2016-08-10-zimbabwe-national-ict-policy-2016",
+  "facts": [],
+  "systems": [
+    {"system": "Zimbabwe National Policy for Information and Communications Technology (ICT) 2016", "country_label": "National ICT Policy 2016", "class": "sector-ict", "platform": "", "owner": "Ministry of Information Communication Technology, Postal and Courier Services", "tiers": "Marked 'Approved by Cabinet 10 August 2016'"},
+    {"system": "Zimbabwe Agenda for Sustainable Socio-Economic Transformation (Zim-ASSET)", "country_label": "Zim-ASSET", "class": "development-plan", "platform": "", "owner": "", "tiers": "Names ICTs as one of its pillars"},
+    {"system": "national e-Government strategy and blueprint", "country_label": "e-Government Strategy", "class": "government", "platform": "", "owner": "", "tiers": "Policy statement to develop a single national strategy and blueprint for e-government; no date"}
+  ],
+  "note": "Passages show a sector ICT policy (approved by Cabinet, 10 August 2016), not a national digital strategy; no fact for class national."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-24-sen-guindima-pins-interoperability-tender",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme d'Interopérabilité Nationale du Sénégal (PINS)", "country_label": "PINS", "class": "programme", "platform": "X-Road", "owner": "Ministry of Telecommunications and Digital Affairs (MCTN) / PAENS", "tiers": "national"},
+    {"system": "Projet d'Accélération de l'Économie Numérique au Sénégal (PAENS)", "country_label": "PAENS", "class": "programme", "platform": "", "owner": "MCTN, World Bank IDA credit", "tiers": "national"}
+  ],
+  "note": "A procurement notice for an infrastructure study; it names no national digital strategy."
+}

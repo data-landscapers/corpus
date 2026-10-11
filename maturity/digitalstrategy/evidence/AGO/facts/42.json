@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-18 White Paper on ICT 2023-2027 - Strategic Vision for ICTs in Angola",
+  "facts": [],
+  "systems": [
+    {"system": "Livro Branco das Tecnologias de Informação e Comunicação 2023-2027 (White Paper on ICT)", "country_label": "Livro Branco das TIC 2023-2027", "class": "sector-ict", "platform": "", "owner": "Ministry of Telecommunications, Information Technology and Social Communication (MINTTICS)", "tiers": "ICT sector; approved 5 December 2024, repealing the 2019-2022 White Paper; five objectives for 2027; public consultation held in March 2024"},
+    {"system": "ELP Angola 2050 (Long-Term Strategy)", "country_label": "Estratégia de Longo Prazo Angola 2050", "class": "", "platform": "", "owner": "Government of Angola", "tiers": "named as the framework in which the ICT White Paper sits; no digital content described"},
+    {"system": "National Development Plan 2023-2027", "country_label": "Plano de Desenvolvimento Nacional 2023-2027", "class": "", "platform": "", "owner": "Government of Angola", "tiers": "named as a framework in which the ICT White Paper sits; no digital content described"}
+  ],
+  "note": "The White Paper is an ICT sector policy; no national digital strategy is stated."
+}

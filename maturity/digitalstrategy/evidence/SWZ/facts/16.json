@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Health Sector Strategic Plan (NHSSP) 2024/25-2027/28",
+   "country_label": "NHSSP 2024/25-2027/28",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "operative digital health instrument per ICTworks (July 2026)"
+  },
+  {
+   "system": "eHealth Strategy 2016-2020",
+   "country_label": "eHealth Strategy 2016-2020",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": "expired with no successor per ICTworks (July 2026)"
+  }
+ ],
+ "note": "Digital health directory; Eswatini entry is a health-sector instrument, not a national digital strategy."
+}

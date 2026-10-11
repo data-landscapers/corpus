@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-11-ivoire-tech-forum-launch-techreviewafrica",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The article calls the Ivoire Tech Forum the first major tech gathering since the adoption of Côte d'Ivoire's National Digital Strategy 2025; it gives no adoption date or adopting body, so the article's published date is used.", "as_of": "2025-07-11", "date_precision": "day", "system": "National Digital Strategy 2025", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Strategy 2025", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Second pass: standing fact added at the article's published date; class is empty because the document does not describe the strategy's scope. No period is stated in the text."
+}

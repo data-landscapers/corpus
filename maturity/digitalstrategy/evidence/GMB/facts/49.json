@@ -1,0 +1,15 @@
+{
+  "slug": "2023-06-29-gambia-mocde-government-cloud-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Government Cloud Policy", "country_label": "Government Cloud Policy, The Gambia", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy (commissioned); GICTA as Principal Government Cloud Service Provider", "tiers": "all levels of government, national and local, and all organs of State"},
+    {"system": "Government Cloud Strategy 2023", "country_label": "Government Cloud Strategy 2023", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "government"},
+    {"system": "National e-Government Strategy 2020-2024", "country_label": "e-Government strategy 2020-2024 / The Gambia E-Government Strategic Plan 2020-2024", "class": "government", "platform": "", "owner": "Government of The Gambia", "tiers": "government institutions; states four strategic objectives, a government cloud infrastructure, an open data portal and an enterprise architecture"},
+    {"system": "The Gambia ICT for Development (ICT4D) Policy Statement 2018-2028", "country_label": "ICT4D Policy Statement 2018-2028", "class": "", "platform": "", "owner": "", "tiers": "described only as recognising ICT infrastructure development as a key pillar of the national digital transformation agenda"},
+    {"system": "Recovery Focused National Development Plan", "country_label": "National Development Plan", "class": "development-plan", "platform": "", "owner": "Government of The Gambia", "tiers": "national; seeks to make The Gambia a Digital Nation"},
+    {"system": "Gambia National Cybersecurity Policy & Strategy 2020-2024", "country_label": "National Cybersecurity policy (2020-2024)", "class": "thematic", "platform": "", "owner": "", "tiers": "named as part of the legal and policy framework for government information security"},
+    {"system": "Data Protection and Privacy Policy and Strategy", "country_label": "Data Protection and Privacy Policy and Strategy (draft)", "class": "thematic", "platform": "", "owner": "", "tiers": "described as drafted, with no Act yet adopted"},
+    {"system": "Critical Information Infrastructure Protection (CIIP) Policy Framework", "country_label": "CIIP Policy Framework", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A thematic cloud policy, unsigned in its own front matter; it states nothing about a national digital transformation strategy beyond naming other instruments."
+}

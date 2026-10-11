@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-05-moov-africa-burkina-aligns-government-digital-vision",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The operator's new director general said on 4-5 November 2025 that its roadmap aligns with the national digital-transformation strategy outlined by the Minister and the Head of State; the article names no adopting act.", "as_of": "2025-11-05", "date_precision": "day", "system": "national strategy for digital transformation outlined by the Minister and the Head of State", "class": "national"}
+  ],
+  "systems": [
+    {"system": "national strategy for digital transformation outlined by the Minister and the Head of State", "country_label": "Stratégie nationale de transformation digitale", "class": "national", "platform": "", "owner": "Ministry of Digital Transition, Postal and Electronic Communications; Head of State", "tiers": "National; priorities named: network infrastructure, digitalisation of public administration, mobile payments, financial inclusion"}
+  ],
+  "note": "Document date used as as_of because the meeting date is not given; the article is dated 5 November 2025."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-15-one-month-deadline-data-center-integration--wearetech",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "At the Council of Ministers of 12 July 2026 President Tebboune gave public administrations one month to connect their information systems to the National Data Center, which We Are Tech presents as accelerating the national digital transformation strategy.", "as_of": "2026-07-12", "date_precision": "day", "system": "National digital transformation strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "We Are Tech reports the inauguration of the National Digital Services Center, two Tier III data centres at 99.98% availability, as milestones of the national digital transformation strategy, with no strategy target cited.", "as_of": "2026-07-15", "date_precision": "day", "system": "National digital transformation strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Data Center interconnection", "country_label": "interconnexion intersectorielle via le Centre national de données", "class": "programme", "platform": "", "owner": "Public administrations under the High Commission for Digitalisation", "tiers": "public administrations"},
+    {"system": "National artificial intelligence strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

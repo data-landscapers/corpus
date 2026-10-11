@@ -1,0 +1,10 @@
+{
+  "slug": "2025-05-13-national-digital-transformation-strategy-2030--wearetech",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "We Are Tech says the High Commissioner for Digitalisation unveiled the National Digital Transformation Strategy (SNTN) on Monday 12 May 2025 as a blueprint to digitise Algeria by 2030, with the President's backing but no adopting act named.", "as_of": "2025-05-12", "date_precision": "day", "system": "National Digital Transformation Strategy (SNTN)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The strategy sets targets for 2030: training 500,000 ICT specialists, cutting their emigration by 40%, a 20% GDP share for the digital sector, and complete digitisation of government administration; no cost is stated.", "as_of": "2025-05-12", "date_precision": "day", "system": "National Digital Transformation Strategy (SNTN)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "open", "fact": "The strategy targets the year 2030 and the article does not say the full text is public.", "as_of": "2025-05-12", "date_precision": "day", "system": "National Digital Transformation Strategy (SNTN)", "class": "national"}
+  ],
+  "systems": [],
+  "note": "The strategy covers five pillars: infrastructure, skills, digital governance, digital economy and digital society, so it spans the economy and the state."
+}

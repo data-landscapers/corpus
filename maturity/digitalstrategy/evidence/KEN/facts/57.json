@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Digital Health Strategy 2024-2027", "country_label": "Kenya Digital Health Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Digital Health Act No. 15 of 2023", "country_label": "Digital Health Act", "class": "thematic", "platform": "Comprehensive Integrated Digital Health Information System", "owner": "Digital Health Agency", "tiers": "national"}
+  ],
+  "note": "Health-sector digital strategies only; thematic, no national digital strategy fact."
+}

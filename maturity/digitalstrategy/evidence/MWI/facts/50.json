@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "IntelSurv", "country_label": "IntelSurv", "class": "", "platform": "LLM-based training tool", "owner": "Kuyesera AI Lab, Malawi University of Business and Applied Sciences, with the Public Health Institute of Malawi", "tiers": "health professionals, disease surveillance (Early Warning, Alert and Response System)"}
+  ],
+  "note": "Continental AI report; Malawi appears once (IntelSurv, a health AI tool) and no Malawian digital strategy is named."
+}

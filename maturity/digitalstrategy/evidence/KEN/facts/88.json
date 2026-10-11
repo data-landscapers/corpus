@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "eHealth Strategy", "country_label": "eHealth Strategy", "class": "thematic", "platform": "", "owner": "Government of Kenya (health)", "tiers": "national"},
+    {"system": "National Police Service Information Management System (NPSIMS)", "country_label": "NPSIMS", "class": "", "platform": "", "owner": "National Police Service", "tiers": "national, urban pilot stations"}
+  ],
+  "note": "Rural paper-record assessment; names no national digital strategy with a dated fact for Kenya."
+}

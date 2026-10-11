@@ -1,0 +1,47 @@
+{
+ "slug": "2026-07-23-eswatini-launches-africa-first-womens-digital-academy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Transformation Agenda",
+   "country_label": "Eswatini's Digital Transformation Agenda / Digital Eswatini Agenda",
+   "class": "",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "named; no description"
+  },
+  {
+   "system": "Digital Eswatini Project",
+   "country_label": "Digital Eswatini Project",
+   "class": "programme",
+   "platform": "",
+   "owner": "World Bank-supported, Government",
+   "tiers": "preparations under way (July 2026)"
+  },
+  {
+   "system": "Government in Your Hand",
+   "country_label": "Government in Your Hand platform",
+   "class": "",
+   "platform": "platform",
+   "owner": "Government",
+   "tiers": "described as digital public services"
+  },
+  {
+   "system": "She Powers Africa Digital Academy",
+   "country_label": "She Powers Africa Digital Academy",
+   "class": "programme",
+   "platform": "",
+   "owner": "UAE General Women's Union with TDRA",
+   "tiers": "pilot, 50 women from government"
+  },
+  {
+   "system": "Coders Eswatini",
+   "country_label": "Coders Eswatini",
+   "class": "programme",
+   "platform": "",
+   "owner": "Eswatini with UAE",
+   "tiers": "target 300,000 people"
+  }
+ ],
+ "note": "'Digital Transformation Agenda' and 'Digital Eswatini Agenda' are named but the document states no scope, date or act for any strategy, so no fact is recorded."
+}

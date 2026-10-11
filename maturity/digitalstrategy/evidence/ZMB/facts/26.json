@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-16-zambia-govlink-private-4g-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "GovLink Private 4G", "country_label": "GovLink Private 4G network", "class": "", "platform": "private 4G", "owner": "e-Government Division, SMART Zambia Institute", "tiers": "national; health sector flagship"},
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "more than 2,000 health facilities"}
+  ],
+  "note": "Network launch; names no digital transformation strategy document."
+}

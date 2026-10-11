@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-01-ca-kenya-annual-report-fy-2024-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Universal Service Fund Strategy 2023-2027", "country_label": "Universal Service Fund (USF) Strategy 2023-2027", "class": "ministry-plan", "platform": "", "owner": "Communications Authority of Kenya", "tiers": "regulator; launched in FY 2024/25 to expand connectivity, digital literacy and support the Government's Digital Transformation Agenda"},
+    {"system": "Government's Digital Transformation Agenda", "country_label": "Government's Digital Transformation Agenda (GoTDA)", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national; named in the acronym list and as what the USF strategy supports; scope not described"}
+  ],
+  "note": "Regulator's annual report; the national agenda is named without date or scope, so no fact."
+}

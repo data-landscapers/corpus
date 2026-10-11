@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-29-rodrigues-port-mathurin-ai-cybersecurity-mission-lexpress",
+  "facts": [],
+  "systems": [
+    {"system": "Roadmap for ICT sector of Rodrigues (Rod-Digital Vision)", "country_label": "Rod-Digital Vision", "class": "ministry-plan", "platform": "", "owner": "Rodrigues Regional Assembly", "tiers": "Rodrigues"},
+    {"system": "stratégie nationale de transformation numérique et d'intelligence artificielle", "country_label": "stratégie nationale de transformation numérique et d'IA", "class": "", "platform": "", "owner": "Ministry of ICT", "tiers": "national"},
+    {"system": "KOREK!", "country_label": "KOREK!, government super-app", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"},
+    {"system": "MauPass", "country_label": "MauPass", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"}
+  ],
+  "note": "The minister's mission refers to an unnamed national digital transformation and AI strategy with no date, status or scope; no fact. The Rodrigues roadmap was launched 6 May 2026 by the regional assembly and is a sub-national ICT-sector plan."
+}

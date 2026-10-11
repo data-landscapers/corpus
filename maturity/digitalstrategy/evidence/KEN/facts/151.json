@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-15-ken-icta-rfb-538567-national-backbone-cross-border-links",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The ICT Authority tender of 15 September 2026 cites the Digital Master Plan 2022-2032, so the as-at date falls inside its stated period; the document does not describe the plan's scope or link its text.", "as_of": "2026-09-15", "date_precision": "day", "system": "Digital Master Plan 2022-2032", "class": ""},
+    {"system": "Digital Master Plan 2022-2032", "sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The tender says the Digital Master Plan 2022-2032 sets a national target of 100,000 km of fibre network; no cost for the target is stated.", "as_of": "2026-09-15", "date_precision": "day", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Master Plan 2022-2032", "country_label": "Digital Master Plan 2022-2032", "class": "", "platform": "", "owner": "", "tiers": "national; source of a 100,000 km fibre target; scope not described"},
+    {"system": "Kenya Digital Transformation Agenda", "country_label": "Kenya's Digital Transformation Agenda", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national; tender says it aims at over 100,000 km of fibre within five years; scope not described"},
+    {"system": "Kenya Digital Economy Acceleration Project", "country_label": "Kenya Digital Economy Acceleration Project", "class": "programme", "platform": "", "owner": "ICT Authority; World Bank credits 7289-KE and 7290-KE", "tiers": "national; backbone expansion subcomponents 1.1 and 1.5"}
+  ],
+  "note": "Procurement document. Master Plan facts have empty class: the tender cites its period and a target but does not describe its scope."
+}

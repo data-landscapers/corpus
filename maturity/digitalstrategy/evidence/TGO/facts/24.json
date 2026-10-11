@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-28-wearetech-togo-digital-strategie-2025-2030",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "WeAreTech.Africa reports that the government, through the Ministry of Digital Economy and Digital Transformation, 'recently launched' a recruitment to select a consultant to draft the next national digital strategy, called Togo Digital 2025-2030, which updates the strategic framework set up in 2020; no adopting act is given; dated by the article's publication date, 2025-05-28.", "as_of": "2025-05-28", "date_precision": "day", "system": "Togo Digital 2025-2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The article says the previous strategic framework of 2020 had enabled notable advances, naming the e-Gouv government platform, digital service centres and cybersecurity and data protection laws, with no target or report cited; dated by the article's publication date, 2025-05-28.", "as_of": "2025-05-28", "date_precision": "day", "system": "stratégie nationale de transformation numérique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Togo Digital 2025-2030", "country_label": "Togo Digital 2025-2030", "class": "national", "platform": "", "owner": "Ministry of Digital Economy and Digital Transformation", "tiers": ""},
+    {"system": "stratégie nationale de transformation numérique", "country_label": "stratégie nationale de transformation numérique (framework of 2020)", "class": "national", "platform": "", "owner": "government", "tiers": ""},
+    {"system": "e-Gouv", "country_label": "plateforme gouvernementale e-Gouv", "class": "", "platform": "", "owner": "government", "tiers": ""}
+  ],
+  "note": "The article says the 2020 national strategy 'touche à sa fin' but states no period, adoption act or text, so no period fact; the successor is at drafting stage with a 4% to 10% GDP aim for the digital sector."
+}

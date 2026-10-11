@@ -1,0 +1,23 @@
+{
+ "slug": "2025-09-24-digital-eswatini-procurement-plan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Eswatini Project (P508948)",
+   "country_label": "Digital Eswatini Project (P508948)",
+   "class": "programme",
+   "platform": "",
+   "owner": "Ministry of ICT, World Bank",
+   "tiers": "preparation grant US$2,000,000, 18 months"
+  },
+  {
+   "system": "Digital Eswatini roadmap and implementation plan",
+   "country_label": "Digital government roadmap",
+   "class": "government",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": "consulting contract US$800,000 signed 2025-12-17; completion 2026-06-30; roadmap, plan and budget to digitise about 200 priority services"
+  }
+ ],
+ "note": "Procurement plan; the Digital Eswatini roadmap contract covers digitisation of about 200 priority government services (government class, not national). No strategy fact."
+}

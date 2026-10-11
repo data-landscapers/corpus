@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-21-nation-kenya-ict-bill-solution-looking-for-a-problem",
+  "facts": [],
+  "systems": [
+    {"system": "National Broadband Strategy 2025-2030", "country_label": "National Broadband Strategy 2025-2030", "class": "thematic", "platform": "", "owner": "Government of Kenya", "tiers": "national; targets cited: fixed broadband cost from 13.4% to 2% of household income, 100,000 km of fibre, 25,000 public Wi-Fi spots"},
+    {"system": "Digital Economy Blueprint", "country_label": "Digital Economy Blueprint", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national; described only as setting out that connectivity is the foundation of the digital economy; date not given"}
+  ],
+  "note": "Opinion piece on a communications bill; no dated fact about a national-class strategy."
+}

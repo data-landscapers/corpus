@@ -1,0 +1,11 @@
+{
+  "slug": "2022-05-31-world-bank-burundi-digital-foundations-project-pad",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Foundations Project", "country_label": "Projet d'appui aux fondations de l'économie numérique (PAFEN)", "class": "programme", "platform": "", "owner": "Government of Burundi, financed by an IDA grant of USD 50 million", "tiers": "national; project appraisal document of 31 May 2022"},
+    {"system": "National ICT development policy (PNDTIC)", "country_label": "PNDTIC", "class": "sector-ict", "platform": "", "owner": "Government of Burundi", "tiers": "national; the project funds an evaluation of it and an update of its action plan"},
+    {"system": "e-government strategy (to be developed)", "country_label": "", "class": "government", "platform": "", "owner": "", "tiers": "national; technical assistance under the project is to develop it"},
+    {"system": "Sector Strategy for Implementing the National Development Plan", "country_label": "", "class": "development-plan", "platform": "", "owner": "Government of Burundi", "tiers": "national; articulates objectives on digital infrastructure"}
+  ],
+  "note": "A project appraisal document; it states no national digital strategy and plans only an e-government strategy and a PNDTIC evaluation."
+}

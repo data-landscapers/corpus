@@ -1,0 +1,31 @@
+{
+ "slug": "2026-01-01-cbe-eswatini-annual-integrated-report-2025-26",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Central Bank of Eswatini digital transformation strategy",
+   "country_label": "digital transformation strategy",
+   "class": "ministry-plan",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": "Bank's own operations"
+  },
+  {
+   "system": "National FinTech Strategy",
+   "country_label": "National FinTech Strategy",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Ministry of Finance, Central Bank",
+   "tiers": "Technical Implementation Team to produce a funded, time-bound action plan"
+  },
+  {
+   "system": "National Financial Literacy Strategy",
+   "country_label": "National Financial Literacy Strategy",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Ministry of Education and Training, Curriculum Centre",
+   "tiers": ""
+  }
+ ],
+ "note": "Central bank report; the 'digital transformation strategy' is the Bank's own internal one, and the National FinTech Strategy is thematic. No national strategy stated."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-22-nam-national-ai-institute-launch",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Namibia Business Review reports an NCRST statement that the National AI Institute is being established in line with, among other documents, the National Digital Strategy 2025-2028, giving the strategy's period as 2025-2028; the article does not say the text is public and does not describe the strategy's scope, so the class is left empty; as_of is the article's publication date.", "as_of": "2026-09-22", "date_precision": "day", "system": "National Digital Strategy 2025-2028", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Strategy 2025-2028", "country_label": "National Digital Strategy 2025-2028", "class": "", "platform": "", "owner": "", "tiers": "national; named, no description of scope"},
+    {"system": "Sixth National Development Plan (NDP6)", "country_label": "NDP6", "class": "", "platform": "", "owner": "", "tiers": "national; named as a basis for the AI Institute, no description of any digital chapter"}
+  ],
+  "note": "Strategy class empty because the article names it and gives its period but describes no scope; the period fact assumes nothing about whether the text is public."
+}

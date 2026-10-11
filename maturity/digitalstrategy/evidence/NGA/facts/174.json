@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-17-nitda-dpi-technical-standards-draft-v1-3",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Economy Policy", "country_label": "National Digital Economy Policy", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Broadband Plan", "country_label": "National Broadband Plan", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "e-Government Master Plan", "country_label": "e-Government Master Plan", "class": "government", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Cloud Computing Policy", "country_label": "National Cloud Computing Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Technical Standards for Deployment of Nigeria's Digital Public Infrastructure (draft v1.3)", "country_label": "", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"}
+  ],
+  "note": "The draft standards list the digital economy policy among reference policies only; no dated fact about it."
+}

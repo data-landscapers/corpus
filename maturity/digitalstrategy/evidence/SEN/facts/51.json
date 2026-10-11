@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-21-worldbank-isr06012-senegal-digital-economy-acceleration-project",
+  "facts": [],
+  "systems": [
+    {"system": "Senegal Digital Economy Acceleration Project (P172524, PAENS)", "country_label": "PAENS", "class": "programme", "platform": "", "owner": "MCTN, World Bank IDA/IBRD financed", "tiers": "national"},
+    {"system": "national e-Government strategy and roadmap", "country_label": "national e-Government strategy and roadmap", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+  ],
+  "note": "Passages only, from a World Bank project status report. The 'national e-Government strategy and roadmap' is mentioned once as the basis for the enterprise architecture, with no scope or dated fact."
+}

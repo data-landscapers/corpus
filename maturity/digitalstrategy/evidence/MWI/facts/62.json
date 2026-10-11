@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-01-mwi-digital-malawi-acceleration-project-p505095-stakeholder-engagement-pla",
+  "facts": [],
+  "systems": [
+    {"system": "National Digitalization Strategy", "country_label": "National Digitalization Strategy", "class": "", "platform": "", "owner": "", "tiers": "national; named as the strategy the project's activities are to be consistent with, in evaluation questions; scope not described"},
+    {"system": "Digital Malawi Acceleration Project (P505095)", "country_label": "Digital Malawi Acceleration Project", "class": "programme", "platform": "", "owner": "Public Private Partnership Commission; World Bank financed", "tiers": "national"}
+  ],
+  "note": "Passages only. The National Digitalization Strategy is named in two evaluation-question lines; no date, act, scope or status is stated, so no fact and class is empty."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-22 Driving Digital Transformation of the Economy in the Republic of Congo",
+  "facts": [],
+  "systems": [
+    {"system": "Congo Digital Strategy 2030", "country_label": "Congo Digital Strategy 2030", "class": "", "platform": "", "owner": "", "tiers": "named among the country's digital-transformation ambitions; the held text does not describe its coverage"},
+    {"system": "National Development Plan 2022-2026", "country_label": "Plan national de développement 2022-2026", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "PATN", "country_label": "World Bank PATN", "class": "programme", "platform": "", "owner": "World Bank-financed", "tiers": "named as a digital-transformation ambition"}
+  ],
+  "note": "GSMA summary names the Congo Digital Strategy 2030 but states nothing on its standing, text, plan or reporting, or what it covers."
+}

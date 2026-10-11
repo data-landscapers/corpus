@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-24-lesoleil-sonko-projets-structurants",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Le Soleil reports the ceremony as the first anniversary of the 'lancement' (launch) of the New Deal technologique, which the Prime Minister said follows from Vision Sénégal 2050; it names no adopting act, and gives no launch date beyond the anniversary in March 2026.", "as_of": "2025", "date_precision": "year", "system": "New Deal technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The programme rests on 12 priority projects with an investment portfolio estimated at close to FCFA 1,100 billion between 2025 and 2034.", "as_of": "2026-03-24", "date_precision": "day", "system": "New Deal technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Among the first decisions was the creation of the digital governance committee GouvNum, charged with coordinating the state's digital projects; a Conseil national du numérique was also installed to advise the state; no act is named.", "as_of": "2026-03-24", "date_precision": "day", "system": "New Deal technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 24 March 2026 Prime Minister Ousmane Sonko launched the New Deal's structuring projects at a ceremony marking its first anniversary, including the citizen single window, e-Consulat, sovereign cloud and universal connectivity.", "as_of": "2026-03-24", "date_precision": "day", "system": "New Deal technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal technologique", "country_label": "New Deal technologique", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
+    {"system": "Vision Sénégal 2050", "country_label": "Vision Sénégal 2050", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "GouvNum", "country_label": "Comité de gouvernance du numérique (GouvNum)", "class": "", "platform": "", "owner": "Government", "tiers": "national"},
+    {"system": "Start-up Act", "country_label": "Start-up Act", "class": "directive", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Class national: the document describes digitalising the economy and the administration, sovereignty and connectivity. Stated horizon 2034, no text linked, so no period fact."
+}

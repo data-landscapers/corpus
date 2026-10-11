@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-11-dza-elmawkie-tourism-sector-digitisation-review",
+  "facts": [],
+  "systems": [
+    {"system": "Digital strategy of the tourism sector", "country_label": "stratégie numérique du secteur du tourisme", "class": "ministry-plan", "platform": "", "owner": "Ministry of Tourism and Handicrafts", "tiers": "ministry and wilaya directorates"},
+    {"system": "Geographic system of economic land (système géographique du foncier économique)", "country_label": "système géographique du foncier économique", "class": "", "platform": "", "owner": "High Commission for Digitalisation (HCN)", "tiers": ""}
+  ],
+  "note": "A sector ministry's own digital strategy; no national strategy fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-lby-e-government-and-digital-transformation-in-libyan-local-authorities",
+  "facts": [],
+  "systems": [
+    {"system": "E-Libya", "country_label": "E-Libya (e-government strategy)", "class": "government", "platform": "", "owner": "Ministry of Communications and Informatics", "tiers": "national; mandated in 2010 to modernise government services, suspended in 2015; PricewaterhouseCoopers talks on an e-government plan from late 2017"}
+  ],
+  "note": "No fact: the only strategy named is the 2010 e-government strategy E-Libya (government class, aimed at government services); the paper states no national digital strategy."
+}

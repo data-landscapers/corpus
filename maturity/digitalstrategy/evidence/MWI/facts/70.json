@@ -1,0 +1,11 @@
+{
+  "slug": "2019-09-01-digital-government-strategy-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Government Strategy", "country_label": "Digital Government Strategy (DGS)", "class": "government", "platform": "", "owner": "Department of E-Government, Ministry of Information, Civic Education & Communication Technology; dated September 2019, five-year execution tenure", "tiers": "ministries, departments and agencies (MDAs); the text states no adopting act"},
+    {"system": "Digital Malawi", "country_label": "Digital Malawi", "class": "programme", "platform": "", "owner": "Government of Malawi; the strategy names the Digital Foundations and National Fibre Backbone Projects under it", "tiers": ""},
+    {"system": "National ICT Master and Strategic Plans (with the ICT Policy)", "country_label": "National ICT Master and Strategic Plans", "class": "", "platform": "", "owner": "Government of Malawi; the text says they were developed during 2013-2017", "tiers": ""},
+    {"system": "Malawi Growth and Development Strategy III (MGDS III)", "country_label": "MGDS III", "class": "", "platform": "", "owner": "Government of Malawi; the strategy says it is aligned to it", "tiers": ""}
+  ],
+  "note": "No fact: the strategy describes itself as the first national strategy for the Digital Government agenda, aimed at MDAs' service delivery, so under the typology it is class government and gives no fact on the national sub-indicator. The passages state no adopting act or cabinet approval."
+}

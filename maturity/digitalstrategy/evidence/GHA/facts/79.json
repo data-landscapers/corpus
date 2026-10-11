@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-01-ghana-national-ai-strategy-2025-2035",
+  "facts": [],
+  "systems": [
+    {"system": "Republic of Ghana National Artificial Intelligence Strategy 2025-2035", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Communication, Digital Technology and Innovations", "tiers": "national"},
+    {"system": "Ghana Integrated Digital Transformation Blueprint", "country_label": "Ghana Integrated Digital Transformation Blueprint", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Ghana Digital Economy Policy and Strategy", "country_label": "Ghana Digital Economy Policy and Strategy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ICT for Accelerated Development (ICT4AD) policy", "country_label": "ICT4AD", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber Security Policy and Strategy", "country_label": "Cyber Security Policy & Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The AI strategy is thematic; the document names the Digital Transformation Blueprint, Digital Economy Policy and Strategy and ICT4AD only as foundations, with no description of coverage, adoption or status."
+}

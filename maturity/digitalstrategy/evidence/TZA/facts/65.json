@@ -1,0 +1,11 @@
+{
+  "slug": "2021-04-01-ega-strategic-plan-2021-22-2025-26",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Authority Strategic Plan 2021/2022 - 2025/2026", "country_label": "e-GA Strategic Plan", "class": "ministry-plan", "platform": "", "owner": "e-Government Authority, President's Office Public Service Management and Good Governance", "tiers": "the Authority itself; dated April 2021"},
+    {"system": "National ICT Policy 2016", "country_label": "National ICT Policy 2016", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "e-Government Strategy", "country_label": "e-Government Strategy", "class": "government", "platform": "", "owner": "", "tiers": "public service delivery"},
+    {"system": "Five Years Development Plan III (FYDP III)", "country_label": "FYDP III", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Passages only. An agency strategic plan; the e-Government Strategy is named without a date or period, and no national digital strategy is described."
+}

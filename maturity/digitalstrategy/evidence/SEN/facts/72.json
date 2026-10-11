@@ -1,0 +1,13 @@
+{
+  "slug": "2025-02-27 Senegal unveils New Deal Technologique digital transformation strategy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Biometric Update says President Bassirou Diomaye Faye \"launched\" the New Deal Technologique digital-transformation strategy on 24 February 2025, within the Senegal 2050 agenda.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Biometric Update describes the strategy as running to 2034 and does not say whether its text is public; the stated period includes February 2025. Text public: not stated.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "Biometric Update gives an estimated budget of $1.7bn for the strategy (attributed to Ecofin) and targets of 95% internet coverage, over 150,000 digital jobs and at least 500 startups by 2034; the source describes no separate action plan.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Presidency", "tiers": "national; universal internet, unique biometric digital ID, single citizen portal, integrated services platform"},
+    {"system": "Senegal 2050", "country_label": "", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+  ],
+  "note": ""
+}

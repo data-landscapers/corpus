@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-20 Comms Ministry and WHO discuss health-sector digital transformation; Afia platform (SUNA)",
+  "facts": [],
+  "systems": [
+    {"system": "health-sector digital transformation strategy (خطة التحول الرقمي في القطاع الصحي)", "country_label": "الاستراتيجية الشاملة لخطة التحول الرقمي في القطاع الصحي", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Transformation with the Ministry of Health; WHO supporting", "tiers": "health sector only; on 2026-05-20 the minister met a Health Ministry and WHO delegation to discuss drawing it up, and WHO urged completing the national strategy"},
+    {"system": "Afia platform (منصة عافية)", "country_label": "منصة عافية", "class": "", "platform": "", "owner": "", "tiers": "health system platform; described only as part of efforts to develop the health system (not a strategy)"}
+  ],
+  "note": "The only strategy is for the health sector (class thematic), so no fact is recorded."
+}

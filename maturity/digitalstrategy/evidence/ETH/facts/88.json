@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Square", "country_label": "The digital health initiative (Digital Square)", "class": "programme", "platform": "DHIS2", "owner": "USAID, implemented by PATH", "tiers": "24+ countries incl. Ethiopia; US$111.3 million, 2016-2026"}
+  ],
+  "note": "Multi-country donor programme; no Ethiopian digital strategy."
+}

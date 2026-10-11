@@ -1,0 +1,9 @@
+{
+  "slug": "2020-01-01-koica-nga-digital-governance-ph2-2020-project-for-building-foundations-towards-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Project for Building Foundations Towards Digital Governance in Nigeria (Phase 2)", "country_label": "", "class": "programme", "platform": "Government Service Portal (services.gov.ng)", "owner": "KOICA grant, US$13m, 2020-2026", "tiers": "national"},
+    {"system": "e-Government master plan", "country_label": "e-government master plan", "class": "government", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Donor grant record; the e-government master plan is named only as the thing the project builds capacity to execute."
+}

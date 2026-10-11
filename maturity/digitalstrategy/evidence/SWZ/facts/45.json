@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Government Implementation Roadmap ('Government in Your Hand')",
+   "country_label": "Digital Government Implementation Roadmap ('Government in Your Hand')",
+   "class": "government",
+   "platform": "",
+   "owner": "Ministry of ICT under Digital Eswatini (P508948)",
+   "tiers": "terms of reference only; roadmap under development"
+  }
+ ],
+ "note": "Stub page for a terms of reference; the roadmap is for digital government (digital ID, data exchange, social registries, PKI, payments, about 200 services), so class government; no fact."
+}

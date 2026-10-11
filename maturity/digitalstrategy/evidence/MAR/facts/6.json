@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-29-morocco-signs-strategic-digital-infrastructure-partnership-with-vertiv-to-advance-ai-and-digital-morocco-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Morocco 2030", "country_label": "Digital Morocco 2030", "class": "", "platform": "", "owner": "Ministry of Digital Transition and Administrative Reform", "tiers": ""},
+    {"system": "AI Made in Morocco roadmap", "country_label": "AI Made in Morocco", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Cloud 2025-2030 roadmap", "country_label": "Cloud 2025-2030", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Names Digital Morocco 2030 only as a strategy the Vertiv MoU aligns with; states no adoption, period, cost or report, and no scope."
+}

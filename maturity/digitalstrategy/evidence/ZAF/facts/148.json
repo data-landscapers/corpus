@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-01-department-of-home-affairs-annual-report-2024-25",
+  "facts": [],
+  "systems": [
+    {"system": "Home Affairs digital transformation agenda", "country_label": "digital transformation agenda", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "department"},
+    {"system": "Birth Optimisation Strategy", "country_label": "Birth Optimisation Strategy", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "department"},
+    {"system": "Civic records digitisation project", "country_label": "digitisation project", "class": "programme", "platform": "", "owner": "Department of Home Affairs (announced by the President in the 2022 State of the Nation Address)", "tiers": "national"}
+  ],
+  "note": "Passages only; a department annual report. The 'digital transformation agenda' is the department's own, so no fact for a national strategy."
+}

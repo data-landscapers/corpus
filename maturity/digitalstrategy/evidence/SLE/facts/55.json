@@ -1,0 +1,9 @@
+{
+  "slug": "2020-01-01-sierra-leone-ncra-about-institution-and-ict-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "National Policy on Civil Registration Reform in Sierra Leone", "country_label": "National Policy on Civil Registration Reform in Sierra Leone", "class": "thematic", "platform": "", "owner": "Government of Sierra Leone (approved by Cabinet, per the page)", "tiers": "civil registration"},
+    {"system": "Civil Registration and Vital Statistics roadmap, including an ICT roadmap and strategic plan", "country_label": "CRVS roadmap (Strategic Plan, ICT roadmap)", "class": "thematic", "platform": "", "owner": "Developed for UNDP and the National Civil Registration Authority by PwC in the third and fourth quarters of 2017", "tiers": "civil registration and vital statistics"}
+  ],
+  "note": "An institution page of the National Civil Registration Authority: it names civil-registration policy and roadmap documents only, no national digital strategy, so no fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete",
+  "facts": [],
+  "systems": [
+    {"system": "Vision nationale unifiée pour la transformation digitale (plan de développement 2026-2030)", "country_label": "vision nationale unifiée pour la transformation digitale", "class": "development-plan", "platform": "", "owner": "Presidency of the Government", "tiers": "the Head of Government says the State has equipped itself with it within the 2026-2030 development plan, defining objectives, priorities and a project timetable"},
+    {"system": "Projets de digitalisation de l'administration (192 projects)", "country_label": "192 projets de transformation digitale", "class": "programme", "platform": "", "owner": "Ministry of Communication Technologies, followed by a ministerial council", "tiers": "192 projects under national follow-up; digitalisation of the administration"}
+  ],
+  "note": "The document places the digital vision inside the 2026-2030 development plan (class development-plan) and states no stand-alone national digital strategy; no fact."
+}

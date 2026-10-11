@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-07-senegal-relaunches-national-digital-addressing-project",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Addressing project (ANN)", "country_label": "Adressage Numérique National", "class": "programme", "platform": "", "owner": "Ministry of Telecommunications and Digital Affairs", "tiers": "national"},
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Senegal 2050 National Transformation Agenda", "country_label": "Agenda de transformation nationale Sénégal 2050", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Names the New Deal Technologique as the strategy a project belongs to, without scope or dated fact."
+}

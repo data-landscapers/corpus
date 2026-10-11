@@ -1,0 +1,12 @@
+{
+  "slug": "2023-12-22-world-bank-lesotho-public-sector-foundations-service-delivery-pad",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The World Bank appraisal document of 22 December 2023 says a National Digital Transformation Strategy 'was adopted by the previous administration' to set the key interventions for the country's digital agenda, naming no act or adoption date; the document's date is used.", "as_of": "2023-12-22", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Public Sector Foundations for Service Delivery Project", "country_label": "Public Sector Foundations for Service Delivery Project (IDA credit, US$12 million)", "class": "programme", "platform": "", "owner": "Government of Lesotho with the World Bank", "tiers": "national"},
+    {"system": "Second National Strategic Development Plan", "country_label": "NSDP II", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Strategy class left empty: the passage says only that it sets key interventions for the digital agenda and could serve as a roadmap; its scope is not described. The Cabinet-endorsed Chief Digital Officer framework is not tied to the strategy, so no governance fact."
+}

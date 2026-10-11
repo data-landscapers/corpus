@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-26-techgriot-mozambique-300-rural-localities",
+  "facts": [],
+  "systems": [
+    {"system": "Internet Para Todos", "country_label": "Internet Para Todos (Internet for All)", "class": "thematic", "platform": "", "owner": "Government of Mozambique; launched 28 March 2025 in Nacala-Porto; coverage expansion to 2030", "tiers": ""},
+    {"system": "National digital inclusion program", "country_label": "national digital inclusion program", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Transformation", "tiers": "rural localities and schools"}
+  ],
+  "note": "The article covers rural connectivity programmes (thematic); it names no national digital transformation strategy."
+}

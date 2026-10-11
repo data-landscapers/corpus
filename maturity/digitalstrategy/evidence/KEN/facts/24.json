@@ -1,0 +1,21 @@
+{
+  "slug": "2026-09-01-ria-growing-the-digital-economy-in-kenya-its-structure-and-challenges",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Research ICT Africa describes the Kenya National Digital Masterplan (2022-2032) as the central strategic framework for the digital economy, with four pillars (digital infrastructure, digital government services and data management, digital skills, digital innovation and enterprise) and a ten-year horizon, and cites its online version on the ICT Authority site (cms.icta.go.ke, 2022).", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Masterplan (2022-2032)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "open", "fact": "Research ICT Africa describes the Digital Economy Blueprint (2019) as organised around five pillars (digital infrastructure, digital government, digital business, innovation-driven entrepreneurship, digital skills and values) and links its text from the KIPPRA repository; no end date is stated.", "as_of": "2019", "date_precision": "year", "system": "Digital Economy Blueprint", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Kenya National Digital Masterplan (2022-2032)", "country_label": "Kenya National Digital Master Plan", "class": "national", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "government and private sector, national"},
+    {"system": "Digital Economy Blueprint", "country_label": "Digital Economy Blueprint: Powering Kenya's Transformation", "class": "national", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "National ICT Policy (2019)", "country_label": "National ICT Policy 2019", "class": "sector-ict", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national"},
+    {"system": "National Broadband Strategy 2018-2023", "country_label": "National Broadband Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Broadband Strategy 2025-2030 (draft)", "country_label": "draft National Broadband Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Universal Service Fund Strategy 2023-2027", "country_label": "USF Strategy", "class": "ministry-plan", "platform": "", "owner": "Communications Authority of Kenya", "tiers": "national"},
+    {"system": "Kenya Artificial Intelligence Strategy 2025-2030", "country_label": "Kenya AI Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National E-Commerce Strategy 2023", "country_label": "National E-Commerce Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Digital Superhighway", "country_label": "Digital Superhighway", "class": "programme", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Kenya Digital Economy Acceleration Project (KDEAP)", "country_label": "KDEAP", "class": "programme", "platform": "", "owner": "World Bank-supported, USD 390 million", "tiers": "national"},
+    {"system": "Bottom-Up Economic Transformation Agenda (BETA)", "country_label": "BETA", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+  ],
+  "note": "Blueprint record rests on a KIPPRA repository link, not an official ministry site, and the report gives no adoption act, body, budget line or progress report for either strategy; no adoption fact recorded."
+}

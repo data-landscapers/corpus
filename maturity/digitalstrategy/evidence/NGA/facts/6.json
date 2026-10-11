@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-28-nga-businessday-nigeria-66-fibre-delays-unfinished-digital-agenda",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national"},
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE", "class": "programme", "platform": "", "owner": "Federal Government, with World Bank, AfDB and EBRD financing", "tiers": "national"},
+    {"system": "Nigeria Universal Communication Access Project (NUCAP)", "country_label": "NUCAP", "class": "programme", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national"},
+    {"system": "3 Million Technical Talent programme (3MTT)", "country_label": "3MTT", "class": "programme", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national"}
+  ],
+  "note": "Names the minister's 'digital economy agenda' as a scorecard of programmes; states no national digital strategy document, adoption, period, cost or report."
+}

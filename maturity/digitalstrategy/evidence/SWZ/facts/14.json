@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-24-cbe-launches-survey-financial-inclusion-eswatini",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National FinTech Strategy 2025-2030",
+   "country_label": "National FinTech Strategy 2025-2030",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": "launched; named by the Governor as a reform since 2018"
+  },
+  {
+   "system": "National Financial Inclusion Strategy 2023-2028",
+   "country_label": "National Financial Inclusion Strategy 2023-2028",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": "Financial-sector strategies only; no national digital strategy stated."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2021-07-01-comores-strategie-nationale-sante-numerique-2022-2026",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Ministry of Health's digital health strategy states that ANADEN was created in 2019 under the Presidency's Secretariat General of the Government, with implementing the 'Comores Numérique 2028' strategy as its first mission.", "as_of": "2019", "date_precision": "year", "system": "Comores Numérique 2028", "class": "national"},
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The digital health strategy says the Government drew up the 'stratégie numérique Comores 2028' in 2018 and refers to its 'adoption' in the same year; it names no adopting act or body.", "as_of": "2018", "date_precision": "year", "system": "Comores Numérique 2028", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Stratégie Nationale de Santé Numérique 2022-2026", "country_label": "Stratégie Nationale de Santé Numérique", "class": "ministry-plan", "platform": "", "owner": "Ministère de la Santé, de la Solidarité, de la Protection Sociale et de la Promotion du Genre", "tiers": "national health sector; July 2021 update of an earlier strategy whose action plan went unimplemented for lack of funding; to be implemented in part by ANADEN"}
+  ],
+  "note": ""
+}

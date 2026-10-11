@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-06-anteprojecto-de-lei-do-governo-digital-angola",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda de Transição Digital (Decreto Presidencial 178/24, 31 July 2024)", "country_label": "Agenda de Transição Digital", "class": "government", "platform": "", "owner": "Government of Angola", "tiers": "public administration; the draft law says it was approved by Presidential Decree 178/24 and lists projects for digital identity, interoperability, e-signature, notifications and a single window"},
+    {"system": "Estratégia Nacional de Governo Digital", "country_label": "Estratégia Nacional de Governo Digital (art. 30 headed Estratégia nacional de transformação digital)", "class": "government", "platform": "", "owner": "Executive, on proposal of a coordinating entity to be designated", "tiers": "public administration; the draft law (2 April 2026; consultation 6 May to 7 June 2026) would have the Executive approve it with objectives, priorities, timetable and measurable targets"},
+    {"system": "Lei do Governo Digital (draft)", "country_label": "Ante-Projecto de Proposta de Lei do Governo Digital", "class": "directive", "platform": "", "owner": "Executive / Instituto de Modernização Administrativa (IMA) consultation portal", "tiers": "public administration; 107 articles, a draft not yet law"},
+    {"system": "Roteiro para a Reforma", "country_label": "Roteiro para a Reforma", "class": "", "platform": "", "owner": "", "tiers": "named as the setting of the state's modernisation; its content is not described"},
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "PADA", "class": "programme", "platform": "", "owner": "Government of Angola with the World Bank", "tiers": "national"},
+    {"system": "Estratégia de cibersegurança", "country_label": "estratégia de cibersegurança", "class": "thematic", "platform": "", "owner": "", "tiers": "named as existing, together with the data-protection regime"}
+  ],
+  "note": "A draft law on digital government; its strategy clause concerns government digitalisation only, so no national-class fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-16-uganda-updated-national-information-security-framework",
+  "facts": [],
+  "systems": [
+    {"system": "National Information Security Framework (NISF) 2026", "country_label": "National Information Security Framework", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance; NITA-U", "tiers": "government institutions; developed under the Uganda Digital Acceleration Project"},
+    {"system": "Uganda Digital Acceleration Project", "country_label": "Uganda Digital Acceleration Project", "class": "programme", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Cybersecurity framework (thematic); the document names no digital transformation strategy."
+}

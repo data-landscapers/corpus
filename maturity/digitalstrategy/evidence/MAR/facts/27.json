@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-08-eu-morocco-digital-dialogue-launch",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The Commission's press release says the EU is giving ongoing support to the Digital Morocco 2030 strategy for the rollout of digital public services, and that cooperation programmes under discussion would support its implementation; it states no domestic allocation.", "as_of": "2026-04-08", "date_precision": "day", "system": "Digital Morocco 2030", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Morocco 2030", "country_label": "Digital Morocco 2030 strategy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "EU-Morocco Digital Dialogue", "country_label": "EU-Morocco Digital Dialogue", "class": "programme", "platform": "", "owner": "European Commission and the Ministry Delegate for Digital Transition and Administrative Reform", "tiers": "launched 8 April 2026"}
+  ],
+  "note": "Class is left empty on the fact: the release does not describe Digital Morocco 2030's scope beyond support for rollout of digital public services."
+}

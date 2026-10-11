@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid",
+  "facts": [],
+  "systems": [
+    {"system": "Presidential Decree 25-320 on data governance", "country_label": "décret présidentiel n° 25-320", "class": "directive", "platform": "", "owner": "President of the Republic", "tiers": "administrations"}
+  ],
+  "note": "The decree is said to implement presidential instructions on the national digital transformation strategy; it is a decree, not a strategy, and no strategy aspect is stated."
+}

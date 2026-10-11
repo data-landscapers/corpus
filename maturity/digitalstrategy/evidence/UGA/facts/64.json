@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-05-uganda-calls-inclusive-ai-policies-kigali-summit",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "five-year Digital Transformation Roadmap", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""}
+  ],
+  "note": "The Roadmap is named only as 'five-year' with no dates, adopter or scope, so no dated fact and no class; the National AI Strategy (final stages of development, April 2025) is thematic."
+}

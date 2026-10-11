@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-nigeria-galaxy-backbone-koica-government-service-portal",
+  "facts": [],
+  "systems": [
+    {"system": "Government Service Portal (services.gov.ng)", "country_label": "Government Service Portal", "class": "", "platform": "", "owner": "Galaxy Backbone, with the Federal Ministry of Communications, Innovation and Digital Economy and KOICA", "tiers": "federal MDAs"}
+  ],
+  "note": "A service portal, not a strategy; the source names the 'Renewed Hope Agenda' and a 'digital public infrastructure agenda' without a strategy document."
+}

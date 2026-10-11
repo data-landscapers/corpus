@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-09-uga-busitema-mtn-ict-spark-hub-second-launch",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article gives Uganda's Digital Transformation Roadmap a period of 2024 to 2028; its published date 2026-09-09 is used as the as-of and falls inside that period. Text public: not stated", "as_of": "2026-09-09", "date_precision": "day", "system": "Digital Transformation Roadmap 2024-2028", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Roadmap 2024-2028", "country_label": "Digital Transformation Roadmap 2024-2028", "class": "", "platform": "", "owner": "", "tiers": "described only as seeking to extend digital skills and services beyond Kampala"},
+    {"system": "MTN ACE", "country_label": "MTN ACE", "class": "programme", "platform": "", "owner": "MTN Uganda Foundation, implemented by Centenary Technology Services", "tiers": "regional university hubs"}
+  ],
+  "note": "The article states the Roadmap's period (2024-2028, which differs from other documents' 2023-2028) but does not describe its scope as a whole, so the fact has class left empty."
+}

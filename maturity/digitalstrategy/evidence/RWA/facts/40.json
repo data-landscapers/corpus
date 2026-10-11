@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Rwanda Digital Health Strategy 2018-2023", "country_label": "Rwanda Digital Health Strategy 2018-2023", "class": "ministry-plan", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "ICT in Education Policy", "country_label": "REB ICT in Education Policy", "class": "ministry-plan", "platform": "", "owner": "Rwanda Education Board", "tiers": ""}
+  ],
+  "note": "Essay's rural-facility tables cite a health-sector digital strategy and an education ICT policy only as sources; no national-class strategy named."
+}

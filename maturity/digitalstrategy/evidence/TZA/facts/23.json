@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-06-tanzania-statement-un-global-dialogue-ai-governance",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Tanzania's country statement of 2026-07-06, delivered by Minister Angellah Kairuki, names the 'National Digital Economy Strategic Framework (2024-2034)' as a framework AI is to serve, so its stated period had not ended; the statement does not describe the framework's scope (class left empty) or link its text. Text public: not stated", "as_of": "2026-07-06", "date_precision": "day", "system": "National Digital Economy Strategic Framework (2024-2034)", "class": ""}
+  ],
+  "systems": [
+    {"system": "National AI Strategy Framework (2026)", "country_label": "National AI Strategy Framework (2026)", "class": "thematic", "platform": "", "owner": "Ministry of Communication and Information Technology", "tiers": ""},
+    {"system": "AI Policy Framework for the Health Sector (2022)", "country_label": "AI Policy Framework for the Health Sector (2022)", "class": "thematic", "platform": "", "owner": "", "tiers": "health sector"},
+    {"system": "National Guidelines for AI in Education (2025)", "country_label": "National Guidelines for AI in Education (2025)", "class": "thematic", "platform": "", "owner": "", "tiers": "education sector"},
+    {"system": "Tanzania Development Vision 2050", "country_label": "Tanzania Development Vision 2050", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The class of the National Digital Economy Strategic Framework is empty because the statement only names it; no adopting act or verb is given."
+}

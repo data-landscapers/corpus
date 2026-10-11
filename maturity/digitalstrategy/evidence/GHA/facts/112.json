@@ -1,0 +1,8 @@
+{
+  "slug": "2016-12-01-ghana-gheiti-open-data-policy",
+  "facts": [],
+  "systems": [
+    {"system": "GHEITI Open Data Policy", "country_label": "GHEITI Open Data Policy", "class": "thematic", "platform": "GHEITI open data portal", "owner": "Ghana Extractive Industries Transparency Initiative Multi-Stakeholder Group", "tiers": "Extractive sector reporting"}
+  ],
+  "note": "A sector open-data policy; not a national digital strategy."
+}

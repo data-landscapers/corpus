@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-22-nita-u-five-year-digital-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "NITA-U Strategic Plan FY2025/26 to 2029/30", "country_label": "NITA-U five-year digital strategy", "class": "ministry-plan", "platform": "", "owner": "National Information Technology Authority - Uganda", "tiers": "launched June 2026; six objectives; target of e-government use from 9.2% to 40% by FY2029/30; quarterly monitoring framework"},
+    {"system": "National Digital Transformation Programme", "country_label": "National Digital Transformation Programme", "class": "programme", "platform": "", "owner": "", "tiers": "named as one of the anchors of the NITA-U plan, with no description"},
+    {"system": "Fourth National Development Plan (NDP IV)", "country_label": "NDP IV", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Vision 2040", "country_label": "Vision 2040", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The only strategy with dates is the NITA-U agency's own strategic plan (class ministry-plan), so no fact is recorded."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-27-kenyans-co-ke-kabogo-ai-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya 2026 AI policy", "country_label": "Kenya's 2026 AI policy", "class": "thematic", "platform": "", "owner": "Government of Kenya", "tiers": "national; calls for AI adoption in public administration, health, education, agriculture and finance, with data-protection safeguards"},
+    {"system": "Digital Superhighway", "country_label": "Digital Superhighway", "class": "programme", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national; named with public Wi-Fi and digital hubs as ministry programmes"}
+  ],
+  "note": "News on an AI assistant platform; the ministry's wider digital transformation agenda is mentioned without name, date or scope."
+}

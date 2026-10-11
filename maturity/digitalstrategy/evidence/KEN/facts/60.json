@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-17-kenya-ict-officers-china-digital-trade",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The PS for ICT and the Digital Economy, on 2026-07-17, referred to Kenya's Digital Transformation Agenda and the Digital Master Plan 2022-2032, giving the plan's period as 2022 to 2032; the document does not say whether the text is public or describe its scope.", "as_of": "2022", "date_precision": "year", "system": "Digital Master Plan 2022-2032", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Master Plan 2022-2032", "country_label": "Digital Master Plan", "class": "", "platform": "", "owner": "State Department for ICT and the Digital Economy", "tiers": "national"},
+    {"system": "Digital Transformation Agenda", "country_label": "Digital Transformation Agenda", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+  ],
+  "note": "Master Plan class left empty: named with its period only."
+}

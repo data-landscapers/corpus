@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-12-three-digital-policies-signed-lestimes",
+  "facts": [],
+  "systems": [
+    {"system": "Broadband Infrastructure Sharing Policy", "country_label": "Broadband Infrastructure Sharing Policy", "class": "thematic", "platform": "", "owner": "MICSTI", "tiers": "national"},
+    {"system": "Data Management Policy", "country_label": "Data Management Policy", "class": "thematic", "platform": "", "owner": "MICSTI", "tiers": "national"},
+    {"system": "Artificial Intelligence Policy", "country_label": "Artificial Intelligence (AI) Policy", "class": "thematic", "platform": "", "owner": "MICSTI", "tiers": "national"},
+    {"system": "National Digital Policy", "country_label": "National Digital Policy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Strategic Development Plan II", "country_label": "National Strategic Development Plan II", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "e-Government Infrastructure Phase II", "country_label": "e-Government Infrastructure Phase II project", "class": "programme", "platform": "", "owner": "African Development Bank-supported", "tiers": "national"}
+  ],
+  "note": "The three policies signed on 11 June 2026 are thematic; the National Digital Policy is cited only for its vision of a knowledge-based digital economy, and the 'broader strategy' is unnamed."
+}

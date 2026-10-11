@@ -1,0 +1,11 @@
+{
+  "slug": "2023-06-23-gambia-government-cloud-strategy-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Government Cloud Strategy 2023 - 2027", "country_label": "Government Cloud Strategy 2023 - 2027", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy (commissioned)", "tiers": "government institutions (MDAs)"},
+    {"system": "National e-Government Strategy 2020 to 2024", "country_label": "national e-Government Strategy 2020 to 2024 (also cited as 2021-2024)", "class": "government", "platform": "", "owner": "Government of The Gambia", "tiers": "stated as adopted by the Government of The Gambia; modernises government service delivery"},
+    {"system": "National Development Plan", "country_label": "National Development Plan (NDP)", "class": "development-plan", "platform": "", "owner": "Government of The Gambia", "tiers": "national"},
+    {"system": "ICT for Development (ICT4D) policy", "country_label": "ICT4D policy", "class": "", "platform": "", "owner": "", "tiers": "named only as setting broader objectives the e-Government strategy guides toward"}
+  ],
+  "note": "A cloud strategy (thematic); the passages name the e-Government Strategy and other instruments but state nothing about a national digital transformation strategy."
+}

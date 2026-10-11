@@ -1,0 +1,16 @@
+{
+  "slug": "2024-12-01-e-government-in-niger",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Knowledge Hub report says that \"in 2023, a new Digital Development Policy 2023-2032 was adopted\"; it names no adopting act or body and does not describe the policy's scope.", "as_of": "2023", "date_precision": "year", "system": "Digital Development Policy 2023-2032", "class": ""},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The report gives the Digital Development Policy a period of 2023-2032 and says it was adopted in 2023; it does not say whether the text is public. The report is dated December 2024, inside that period.", "as_of": "2024-12", "date_precision": "month", "system": "Digital Development Policy 2023-2032", "class": ""},
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The report says the 'Niger 2.0' strategic plan was \"launched\" in 2017, with a strong focus on rural areas (the Smart Villages programme); it names no adopting act or body and does not otherwise describe its scope.", "as_of": "2017", "date_precision": "year", "system": "Niger 2.0 strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Development Policy 2023-2032", "country_label": "Digital Development Policy", "class": "", "platform": "", "owner": "", "tiers": "Said to be adopted in 2023; scope not described."},
+    {"system": "Digital Niger 2021-2030", "country_label": "Niger's Digital Policy 'Digital Niger 2021-2030'", "class": "sector-ict", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy", "tiers": "Described as the revised version of the previous Telecommunications Sectoral Policy; the ministry launched the work on it in 2021."},
+    {"system": "Niger 2.0 strategy", "country_label": "Niger 2.0 strategic plan", "class": "", "platform": "", "owner": "", "tiers": "Launched 2017; strong focus on rural areas through the Smart Villages programme."},
+    {"system": "Renaissance Program Act II", "country_label": "Renaissance Program Act II", "class": "development-plan", "platform": "", "owner": "", "tiers": "Described as the socio-economic programme first launched in 2010 with which the digital policy accords."},
+    {"system": "National cybersecurity strategy 2023-2027", "country_label": "stratégie nationale de cybersécurité 2023-2027", "class": "thematic", "platform": "", "owner": "", "tiers": "Enacted by government decree in 2022 per the report."}
+  ],
+  "note": "Class left empty for the 2023-2032 Digital Development Policy and for Niger 2.0 because the report does not describe their scope. The report's 2023-2032 policy and its 'Digital Niger 2021-2030' are named as separate instruments; the report does not reconcile them."
+}

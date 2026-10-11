@@ -1,0 +1,20 @@
+{
+  "slug": "2025-01-01-malawi-digital-readiness-assessment",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Ministry of Information and Digitalization's Digital Readiness Assessment says that, building on its findings, \"the next step is to develop Malawi's National Digital Transformation Strategy and Roadmap\"; it reports no drafting under way or adoption, and the date is the document's own year (2025) as no event date is given.", "as_of": "2025", "date_precision": "year", "system": "National Digital Transformation Strategy and Roadmap", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy and Roadmap", "country_label": "National Digital Transformation Strategy and Roadmap (also called National Digital Strategy and Roadmap)", "class": "national", "platform": "", "owner": "Ministry of Information and Digitalization", "tiers": "national; next steps call for policy and legal review, infrastructure, skills, e-government, cybersecurity, a multi-sectoral governance structure and monitoring and evaluation"},
+    {"system": "National Digitalization Policy (2023-2028)", "country_label": "National Digitalization Policy", "class": "", "platform": "", "owner": "Ministry of Information and Digitalization (cited as Malawi Government 2023)", "tiers": "national; said to advocate open data initiatives and system integration across government agencies; period 2023-2028 as stated"},
+    {"system": "ICT Master Plan", "country_label": "ICT Master Plan", "class": "", "platform": "", "owner": "", "tiers": "named with the National Digitalization Policy as the initiatives supporting digital literacy; scope not described"},
+    {"system": "Digital Economy Strategy", "country_label": "Digital Economy Strategy", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": "named in the Principal Secretary's preface as an existing initiative; scope not described"},
+    {"system": "National Broadband Strategy", "country_label": "National Broadband Strategy", "class": "thematic", "platform": "", "owner": "Government of Malawi", "tiers": "named as providing mechanisms for citizen participation"},
+    {"system": "Cybersecurity Strategy", "country_label": "Cybersecurity Strategy", "class": "thematic", "platform": "", "owner": "Government of Malawi", "tiers": "named as a foundational policy"},
+    {"system": "Child Online Protection Strategy", "country_label": "Child Online Protection Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "named"},
+    {"system": "National AI and Data Strategy", "country_label": "National AI and Data Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "recommended, not existing"},
+    {"system": "Digital Malawi Project / Digital Acceleration Project", "country_label": "Digital Malawi Program and its successor Digital Acceleration Project", "class": "programme", "platform": "", "owner": "Government of Malawi, World Bank financed", "tiers": "national"},
+    {"system": "Inclusive Digital Transformation for Malawi (IDT4M)", "country_label": "IDT4M", "class": "programme", "platform": "", "owner": "UNDP", "tiers": "national"},
+    {"system": "Malawi Vision 2063", "country_label": "Malawi Vision 2063", "class": "development-plan", "platform": "", "owner": "Government of Malawi", "tiers": "national; the assessment is aligned with it"}
+  ],
+  "note": "The assessment cites the National Digitalization Policy 2023-2028, an ICT Master Plan and a Digital Economy Strategy as existing, with no adoption act, verb or scope, so no fact and class empty for those. Read from passages only. Its Next Steps section places the national strategy as still to be developed."
+}

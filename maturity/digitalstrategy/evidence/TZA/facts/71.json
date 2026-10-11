@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square",
+  "facts": [],
+  "systems": [
+    {"system": "The digital health initiative (Digital Square)", "country_label": "Digital Square", "class": "programme", "platform": "DHIS2", "owner": "USAID, implemented by PATH (US$111,334,788 grant, 2016-2026)", "tiers": "24+ sub-Saharan countries including Tanzania"}
+  ],
+  "note": "A multi-country donor programme record; Tanzania is one name in a list; no digital strategy named."
+}

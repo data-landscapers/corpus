@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-npc-nationwide-digital-birth-death-registration",
+  "facts": [],
+  "systems": [
+    {"system": "VitalReg (Electronic Civil Registration and Vital Statistics, E-CRVS)", "country_label": "VitalReg", "class": "", "platform": "", "owner": "National Population Commission, with Barnks-forte Technologies Ltd.", "tiers": "4,011 registration centres across 774 local government areas"}
+  ],
+  "note": "A civil registration system launch; 'Federal Government's digital transformation agenda' is a generic phrase, no document named."
+}

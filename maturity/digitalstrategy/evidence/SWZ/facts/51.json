@@ -1,0 +1,23 @@
+{
+ "slug": "2024-11-22 Eswatini unveils readiness report for digital ID, transformation push",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national digital transformation strategy",
+   "country_label": "Eswatini Government Digital Transformation Strategy / national digital transformation strategy",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": "includes rural broadband expansion, national digital identity, cybersecurity and data governance; to be informed by the Digital Readiness Assessment"
+  },
+  {
+   "system": "Government in Your Hand Strategy",
+   "country_label": "Government in Your Hand Strategy",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": "Names an 'Eswatini Government Digital Transformation Strategy', a 'Government in Your Hand Strategy' and a 'national digital transformation strategy' (which 'includes' rural broadband, national digital identity, cybersecurity and data governance) without date, period, act or status, so no fact is recorded."
+}

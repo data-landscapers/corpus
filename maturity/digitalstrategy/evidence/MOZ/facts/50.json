@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-01-mozambique-zero-draft-2-national-data-governance-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Mozambique Agenda", "country_label": "", "class": "national", "platform": "", "owner": "Government", "tiers": "national; described as the digital transformation strategy within which the data policy operates, covering digital government services, digital economy development and digital inclusion"},
+    {"system": "National Data Governance Policy and Implementation Strategy (Zero Draft 2)", "country_label": "", "class": "thematic", "platform": "", "owner": "INTIC; drafted as a Council of Ministers Resolution", "tiers": "national; number and approval date left as placeholders"},
+    {"system": "National Development Strategy 2025-2044", "country_label": "", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "national; cited as approved by Resolution 16/2025 of 12 May"}
+  ],
+  "note": "The draft calls the Digital Mozambique Agenda the specific digital transformation strategy for the policy but gives no date, adoption act or period for it, so no fact is recorded; this sits oddly with other documents, which show a national strategy only in drafting."
+}

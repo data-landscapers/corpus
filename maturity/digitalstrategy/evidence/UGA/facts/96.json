@@ -1,0 +1,14 @@
+{
+  "slug": "2026-08-01-nita-u-digital-skills-framework-tor",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The NITA-U terms of reference give the Digital Transformation Roadmap's period as 2023/24-2027/28, so the August 2026 document date (used as as_of, the document giving no other date) falls inside it; Text public: not stated.", "as_of": "2026-08", "date_precision": "month", "system": "Digital Transformation Roadmap", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap (2023/24-2027/28)", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance (policy lead)", "tiers": "national; Pillar 4 designates digital skilling and technology capacity a strategic national priority"},
+    {"system": "National Development Plan IV (NDP IV)", "country_label": "National Development Plan IV, FY2025/26-2029/30", "class": "development-plan", "platform": "", "owner": "Government of Uganda", "tiers": "national"},
+    {"system": "National AI and Emerging Technologies Strategy", "country_label": "National AI and Emerging Technologies Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Draft National ICT Policy (2022)", "country_label": "Draft National ICT Policy, 2022", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Digital Skills and Competence Framework (NDSCF)", "country_label": "NDSCF / NDSF", "class": "programme", "platform": "", "owner": "NITA-U under UDAP, World Bank financed; MoICT&NG policy lead", "tiers": "national"}
+  ],
+  "note": "Document is a consultancy ToR for a digital skills framework. It states the Digital Transformation Roadmap's period but does not describe its scope as a whole, so the fact is recorded with class empty."
+}

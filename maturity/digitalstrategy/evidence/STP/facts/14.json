@@ -1,0 +1,13 @@
+{
+  "slug": "2023-01-01-sao-tome-and-principe-id4d-diagnostic-of-id-systems",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Government Strategy", "country_label": "Estratégia Nacional para a Governação Digital", "class": "government", "platform": "", "owner": "Government of STP; INIC leads the effort", "tiers": "national; the report says it was adopted and published in 2020, frames digital transformation initiatives to improve digital public services in nine sectors, and proposes a national datacenter, a GOV.ST eServices portal and digital identity and authentication platforms"},
+    {"system": "DGRN Strategic Plan 2017-2019 and 2020-2022", "country_label": "", "class": "ministry-plan", "platform": "", "owner": "DGRN (Ministry of Justice, Public Administration and Human Rights)", "tiers": "registries and notaries services"},
+    {"system": "National Strategy for Permanent Birth Registration (ENRPN)", "country_label": "Estratégia Nacional de Registo Permanente de Nascimentos", "class": "", "platform": "", "owner": "approved by Decree No. 45 of 2009", "tiers": "national; birth registration"},
+    {"system": "National Financial Inclusion Strategy 2021-2025", "country_label": "", "class": "", "platform": "", "owner": "Government", "tiers": "national; financial inclusion"},
+    {"system": "Social Protection Policy and Strategy (PENPS) 2014 and second National Social Protection Strategy 2023", "country_label": "PENPS", "class": "", "platform": "", "owner": "Government", "tiers": "national; social protection"},
+    {"system": "Digital São Tomé and Príncipe Project (P177158)", "country_label": "Projecto STP Digital", "class": "programme", "platform": "", "owner": "World Bank financed, implemented by a Project Implementation Unit", "tiers": "national"}
+  ],
+  "note": "The only digital strategy named is the 2020 National Digital Government Strategy, described as improving digital public services, so class government and no fact; the 'digital transformation strategy' phrase in the summary refers to the same document. The report recommends adopting a harmonized strategy for civil registration, identification and digital identity (a thematic strategy)."
+}

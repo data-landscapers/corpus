@@ -1,0 +1,8 @@
+{
+  "slug": "2019-01-01-discurso-ministro-kigali-red-nacional-banda-ancha",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda Digital", "country_label": "nuestra Agenda Digital / plan de desarrollo TIC", "class": "sector-ict", "platform": "", "owner": "Ministry responsible for ICT", "tiers": "the minister calls it recently drawn up and the country's ICT development plan, with strategic objectives; the speech is undated beyond 2019 and does not name the adopting authority"}
+  ],
+  "note": "Ministerial speech describing the ICT ministry's own Agenda Digital as the ICT development plan; sector-ict class, so no fact."
+}

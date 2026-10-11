@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-17-dza-abnews-reunion-gouvernement-transformation-numerique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "A government meeting chaired by the Prime Minister on 17 September 2026 heard a presentation, under the national digital transformation strategy 2025-2030, on widening the digital services portal and administrations' acceptance of its documents; no target is reported against.", "as_of": "2026-09-17", "date_precision": "day", "system": "Stratégie nationale de transformation numérique (2025-2030)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The report names the strategy's period as 2025-2030; it does not say the text is public (as-at 2026-09-17).", "as_of": "2026-09-17", "date_precision": "day", "system": "Stratégie nationale de transformation numérique (2025-2030)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Dzair Digital Services national portal", "country_label": "portail national des services numériques", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

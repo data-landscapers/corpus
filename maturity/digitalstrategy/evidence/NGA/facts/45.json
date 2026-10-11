@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-04-nitda-national-digital-infrastructure-assurance-framework-2026",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Infrastructure Assurance Framework (NDIAF) 2026", "country_label": "National Digital Infrastructure Assurance Framework", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"}
+  ],
+  "note": "A certification framework for digital infrastructure, thematic; no national digital strategy."
+}

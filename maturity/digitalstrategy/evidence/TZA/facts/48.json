@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National ICT Policy 2016", "country_label": "National ICT Policy 2016", "class": "sector-ict", "platform": "", "owner": "Ministry of ICT and Innovation (as cited by the report)", "tiers": "the report says the government has included AI in it"}
+  ],
+  "note": "Continental AI report; its Tanzania passages concern AI applications and the National ICT Policy 2016 (an ICT sector policy), and it lists Tanzania among countries with 'ongoing discussions' on AI strategies. No national digital strategy is named."
+}

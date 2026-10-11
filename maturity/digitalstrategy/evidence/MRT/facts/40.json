@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-30-mauritanie-digisante-mr-selection-sites-pilote",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie nationale de santé numérique 2024-2030", "country_label": "Stratégie nationale de santé numérique 2024-2030", "class": "thematic", "platform": "", "owner": "Ministère de la Santé", "tiers": "health sector; primary-care digitalisation named as a priority lever"},
+    {"system": "DIGISANTÉ-MR", "country_label": "projet de digitalisation de la santé en Mauritanie (DIGISANTÉ-MR)", "class": "programme", "platform": "", "owner": "Ministère de la Santé, EU-financed", "tiers": "pilot in five wilayas: Brakna, Trarza, Nouakchott Ouest, Nord and Sud"}
+  ],
+  "note": "Health-sector article; names only the thematic health strategy and an EU-financed programme."
+}

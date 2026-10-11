@@ -1,0 +1,31 @@
+{
+ "slug": "2026-06-20-eswatini-rolls-out-digital-platforms-health-agriculture-creative",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Umelusi App",
+   "country_label": "Umelusi MTN App",
+   "class": "",
+   "platform": "",
+   "owner": "MTN Eswatini with Ministry of ICT",
+   "tiers": "farmers"
+  },
+  {
+   "system": "TruMD",
+   "country_label": "TruMD",
+   "class": "",
+   "platform": "",
+   "owner": "MTN Eswatini with Ministry of ICT",
+   "tiers": "health"
+  },
+  {
+   "system": "Content Creator Hub",
+   "country_label": "Content Creator Hub",
+   "class": "",
+   "platform": "",
+   "owner": "MTN Eswatini with Ministry of ICT",
+   "tiers": "creative sector"
+  }
+ ],
+ "note": "Launch of three MTN/ministry apps; 'digital transformation agenda' only a phrase."
+}

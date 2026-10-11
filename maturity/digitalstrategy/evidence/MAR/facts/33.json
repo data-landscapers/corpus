@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-08 African smart cities A critical analysis",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The Rabat column of the smart-cities table lists a Digital Morocco 2030 target of 240,000 jobs, with no cost stated; no date is given for the statement, so the published date is used.", "as_of": "2026-01-08", "date_precision": "day", "system": "Digital Morocco 2030", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Morocco 2030", "country_label": "Digital Morocco 2030 strategy", "class": "", "platform": "", "owner": "", "tiers": "listed in Rabat's regulatory framework"},
+    {"system": "New Development Model (2035)", "country_label": "Morocco's New Development Model (2035)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National cybersecurity strategy", "country_label": "National cybersecurity strategy", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Class is left empty on the fact: the table names Digital Morocco 2030 and a target without describing its scope. Only the first 150 lines were read in full; the rest is a 12-city table, searched for every mention of Morocco, Rabat and Digital 2030."
+}

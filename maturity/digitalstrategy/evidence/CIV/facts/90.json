@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-cote-divoire-strategie-nationale-gouvernance-donnees-sngd-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale de la Gouvernance des données 2024-2030 (SNGD 2030)", "country_label": "SNGD 2030", "class": "thematic", "platform": "", "owner": "Ministère de la Transition Numérique et de la Digitalisation", "tiers": "national"},
+    {"system": "Stratégie nationale du numérique SNNCI 2025", "country_label": "Stratégie nationale du numérique SNNCI 2025", "class": "national", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The data governance strategy (thematic) refers to pillars 1 (digital infrastructure), 2 (digital financial services) and 3 (digital services) of the national digital strategy SNNCI 2025 but states nothing on its standing, text, plan or reporting."
+}

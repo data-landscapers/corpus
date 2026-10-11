@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya AI Strategy 2025-2030", "country_label": "Kenya AI Strategy 2025-2030", "class": "thematic", "platform": "", "owner": "Government of Kenya (ICT ministry site)", "tiers": "national"},
+    {"system": "ODPC Strategic Plan 2025-2029", "country_label": "ODPC Strategic Plan 2025-2029", "class": "ministry-plan", "platform": "", "owner": "Office of the Data Protection Commissioner", "tiers": "agency"}
+  ],
+  "note": "Continental review; Kenya cited only for its AI strategy and the ODPC plan, neither a national digital strategy."
+}

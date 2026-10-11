@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya National AI Strategy 2025-2030", "country_label": "Kenya AI Strategy 2025-2030", "class": "thematic", "platform": "", "owner": "Ministry of ICT and Digital Economy", "tiers": "national; launched March 2025"},
+    {"system": "ICT Authority Strategic Plan 2024-2027", "country_label": "ICT Authority Strategic Plan 2024-2027", "class": "ministry-plan", "platform": "", "owner": "ICT Authority", "tiers": "agency; its implementation matrix prioritises review and operationalisation of KODI"}
+  ],
+  "note": "Report is about AI; the only Kenyan strategies named are the thematic AI strategy and an agency plan, no national digital strategy is described."
+}

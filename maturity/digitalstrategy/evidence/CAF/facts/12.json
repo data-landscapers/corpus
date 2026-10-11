@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-28-car-systeme-national-identite-numerique-snid",
+  "facts": [],
+  "systems": [
+    {"system": "Système national d'identité numérique (SNID)", "country_label": "Système national d'identité numérique", "class": "programme", "platform": "", "owner": "Office national d'identification (ONI), newly created", "tiers": "national; US$13 million investment, implementation window 2027-2032"},
+    {"system": "Plan national de développement (strategic domain no. 1, Sécurité, gouvernance et état de droit)", "country_label": "Plan national de développement", "class": "development-plan", "platform": "", "owner": "government of the Central African Republic", "tiers": "national; SNID is anchored in its strategic domain no. 1"}
+  ],
+  "note": "Single-source communiqué on a digital identity project; no national digital strategy is stated."
+}

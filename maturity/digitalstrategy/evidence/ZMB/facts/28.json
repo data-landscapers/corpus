@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-08-smart-zambia-expands-digital-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "SMART Zambia digitalisation programme", "country_label": "SMART Zambia", "class": "programme", "platform": "", "owner": "SMART Zambia Institute, e-Government Division", "tiers": "national; launched 2021 per the National Coordinator"},
+    {"system": "Government Wide Area Network (GWAN)", "country_label": "GWAN", "class": "", "platform": "fibre-optic", "owner": "SMART Zambia Institute", "tiers": "provincial; all North-Western Province local authorities and post offices connected"},
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "about 80% of health facilities"},
+    {"system": "Zambia National Spatial Data Infrastructure (ZNSDI) GeoPortal", "country_label": "ZNSDI GeoPortal", "class": "", "platform": "", "owner": "SMART Zambia Institute", "tiers": "district; land administration"}
+  ],
+  "note": "Infrastructure progress claims; refers to the broader digital transformation agenda without naming a strategy document."
+}

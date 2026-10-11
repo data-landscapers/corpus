@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-07-katsina-10bn-tech-hub-worldbank-bridge",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria's broader digital transformation strategy", "country_label": "digital transformation strategy", "class": "", "platform": "", "owner": "federal government", "tiers": ""},
+    {"system": "BRIDGE Project", "country_label": "Project BRIDGE", "class": "programme", "platform": "", "owner": "federal government; financed by World Bank, AfDB, EIB, IsDB", "tiers": ""},
+    {"system": "federal 3 million tech talent training programme", "country_label": "3 million tech talent plan", "class": "programme", "platform": "", "owner": "federal government", "tiers": ""}
+  ],
+  "note": "The article says the Katsina hub 'aligns with Nigeria's broader digital transformation strategy, which places ICT at the heart of national development', and separately that 'the government aims to raise the ICT sector's share of GDP to 22% by 2027'; it does not attribute the target to the strategy, adopt or date the strategy, or describe its scope, so no fact."
+}

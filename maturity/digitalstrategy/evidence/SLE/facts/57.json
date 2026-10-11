@@ -1,0 +1,15 @@
+{
+  "slug": "2019-11-01-sierra-leone-national-innovation-and-digital-strategy-2019-2029",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The strategy says the Government of Sierra Leone, under President Julius Maada Bio, 'has developed' the 10-year National Innovation and Digital Strategy 2019-2029, covering digital identity, economy and governance; it names no adopting act or approving body.", "as_of": "2019-11-01", "date_precision": "day", "system": "National Innovation and Digital Strategy (NIDS) 2019-2029", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The strategy states a 2019-2029 period and is the text itself, hosted on the Ministry of Communication, Technology and Innovation site mocti.gov.sl, with a running footer 'Last Updated: November 1st, 2019'; it says it will be updated every 3-5 years. Text public: yes.", "as_of": "2019-11-01", "date_precision": "day", "system": "National Innovation and Digital Strategy (NIDS) 2019-2029", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The strategy lists short-term activities and medium-term target activities dated 2021 to 2025, with no costs, and says it is high-level and that more detailed sector implementation plans will be developed later.", "as_of": "2019-11-01", "date_precision": "day", "system": "National Innovation and Digital Strategy (NIDS) 2019-2029", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:none", "fact": "The strategy says a national authority instituted by law 'must be established' to guide the digital transformation, and that a consortium of national institutions will set digital identity standards; no body is yet mandated to deliver it.", "as_of": "2019-11-01", "date_precision": "day", "system": "National Innovation and Digital Strategy (NIDS) 2019-2029", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Innovation and Digital Strategy (NIDS) 2019-2029", "country_label": "Sierra Leone National Innovation & Digital Strategy", "class": "national", "platform": "", "owner": "Government of Sierra Leone, Directorate of Science, Technology and Innovation (Office of the President)", "tiers": "national; digital identity, digital economy, digital governance"},
+    {"system": "National ICT Policy 2009 (updated 2017)", "country_label": "ICT Policy 2009, with a 2017 update adding cybersecurity and e-government frameworks", "class": "sector-ict", "platform": "", "owner": "Ministry of Information and Communication", "tiers": ""},
+    {"system": "Medium-Term National Development Plan 2019-2023", "country_label": "Medium Term National Development Plan (MTNDP)", "class": "development-plan", "platform": "", "owner": "Government of Sierra Leone", "tiers": ""}
+  ],
+  "note": "Capture is an excerpt ending in the references list; the body of the strategy is complete."
+}

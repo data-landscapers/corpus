@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-01-uga-domestic-revenue-mobilisation-strategy-semi-annual-monitoring-report-f",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The Ministry of Finance's semi-annual report on the Domestic Revenue Mobilisation Strategy says that by 31 December 2024 NITA-U had made achievements including 'the rollout of an e-Government Strategy' and rated performance good, measured against no target of that strategy.", "as_of": "2024-12-31", "date_precision": "day", "system": "e-Government Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "e-Government Strategy", "country_label": "e-Government Strategy", "class": "", "platform": "", "owner": "NITA-U", "tiers": ""},
+    {"system": "Government Enterprise Architecture", "country_label": "Government Enterprise Architecture (GEA)", "class": "", "platform": "", "owner": "NITA-U", "tiers": ""},
+    {"system": "Interoperability Framework", "country_label": "Interoperability Framework", "class": "", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": "Revenue-strategy monitoring report (the Domestic Revenue Mobilisation Strategy is not a digital strategy); the e-Government Strategy is mentioned in one line with no scope, adopter or period, so class is left empty."
+}

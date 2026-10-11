@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-29-mictps-projects-government-enterprise-architecture",
+  "facts": [],
+  "systems": [
+    {"system": "Government Enterprise Architecture (GEA) and Implementation Plan", "country_label": "GEA", "class": "thematic", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services", "tiers": "firm being hired under EARDIP"},
+    {"system": "National Digital Skills Assessment, Framework Development and Implementation Plan", "country_label": "", "class": "thematic", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services", "tiers": "firm being hired"},
+    {"system": "Eastern Africa Regional Digital Integration Project (EARDIP), South Sudan", "country_label": "", "class": "programme", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Services; World Bank financed", "tiers": ""}
+  ],
+  "note": "Ministry projects page names no national digital strategy."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-14-nitda-unveils-cloud-policy-package-to-drive-nigerias-digital-infrastructure-gr",
+  "facts": [],
+  "systems": [
+    {"system": "National Cloud Computing Guideline", "country_label": "National Cloud Computing Guideline", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "government institutions"},
+    {"system": "National Cloud Technical Guideline", "country_label": "National Cloud Technical Guideline", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Digital Infrastructure Assurance Framework (NDIAF)", "country_label": "National Digital Infrastructure Assurance Framework", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Cloud Investment Strategy", "country_label": "National Cloud Investment Strategy", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"}
+  ],
+  "note": "The source calls the four cloud instruments a 'digital transformation and cloud governance policy package', but describes only cloud, so they are thematic; no national digital strategy named."
+}

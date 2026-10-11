@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-egypt-national-ai-strategy-second-edition-2025-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Egypt National Artificial Intelligence Strategy, Second Edition (2025-2030)", "country_label": "National AI Strategy 2nd Edition", "class": "thematic", "platform": "", "owner": "National Council for Artificial Intelligence", "tiers": "national; launched with a statement from the President"},
+    {"system": "Egypt National Artificial Intelligence Strategy (first edition)", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "launched May 2021 per the President's statement"}
+  ],
+  "note": "A strategy for one technology (AI), so thematic; the passages state no national digital transformation strategy."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-27-digital-dinar-blockchain-financial-sovereignty-echorouk",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Echorouk quotes the minister-High Commissioner for Digitalisation saying preparing the National Digital Transformation Strategy ('Digital Algeria 2030') is a commitment of the High Commission, drawn up with all ministries, experts and economic actors, and the first national reference for digital transformation.", "as_of": "2026-04-27", "date_precision": "day", "system": "Stratégie nationale de transformation numérique (Algérie numérique 2030)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Information Systems Security Strategy 2025-2030", "country_label": "الاستراتيجية الوطنية لأمن الأنظمة المعلوماتية", "class": "thematic", "platform": "", "owner": "National Council for Information Systems Security", "tiers": ""},
+    {"system": "Digital dinar project", "country_label": "الدينار الرقمي", "class": "programme", "platform": "blockchain", "owner": "Bank of Algeria", "tiers": ""}
+  ],
+  "note": ""
+}

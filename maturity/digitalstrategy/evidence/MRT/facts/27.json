@@ -1,0 +1,9 @@
+{
+  "slug": "2023-09-07-mauritania-startup-act-presentation-projet-de-loi",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda Digital 2022-2025", "country_label": "stratégie nationale de la transformation numérique: Agenda Digital 2022-2025", "class": "national", "platform": "", "owner": "Ministère de la Transformation Numérique, de l'Innovation et de la Modernisation de l'Administration", "tiers": "national; components listed: digital culture and trust, skills, governance, infrastructure, sectoral support, e-business and innovation, digital administration"},
+    {"system": "Startup Act Mauritanie (projet de loi)", "country_label": "Startup Act Mauritanie", "class": "directive", "platform": "", "owner": "MTNIMA", "tiers": "national; draft bill presented 7 September 2023"}
+  ],
+  "note": "The deck calls the Agenda Digital 2022-2025 'la stratégie nationale de la transformation numérique' and lists its components; it gives no adoption act, cost, or report, so no fact."
+}

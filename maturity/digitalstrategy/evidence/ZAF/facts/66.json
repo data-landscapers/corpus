@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-30-dha-annual-performance-plan-2026-27-digital-identity",
+  "facts": [],
+  "systems": [
+    {"system": "Department of Home Affairs comprehensive digital transformation strategy", "country_label": "digital transformation strategy (DHA)", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental; aimed at modernising DHA services, consistent with SARS and government digital priorities"},
+    {"system": "Department of Home Affairs Annual Performance Plan 2026/27", "country_label": "Annual Performance Plan 2026/27", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental; tabled March 2026"},
+    {"system": "Government-wide digital ID ecosystem", "country_label": "digital identity", "class": "programme", "platform": "PKI; facial recognition primary, fingerprints secondary", "owner": "Department of Home Affairs with SARB and SARS", "tiers": "national"}
+  ],
+  "note": "Passages describe the Department of Home Affairs' own strategy (ministry-plan); no national-class strategy stated."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-04-ami-lancement-preparation-agenda-national-transformation-numerique-2030",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "AMI reports that the Ministry of Digital Transformation and Modernisation of the Administration 'a annoncé le début de la préparation' of the Agenda National de la Transformation Numérique 2030 at a one-day workshop in Nouakchott on 4 December 2025; the article names no adopting act.", "as_of": "2025-12-04", "date_precision": "day", "system": "Agenda National de la Transformation Numérique 2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 4 December 2025 the digital ministry opened the preparation of the Agenda National de la Transformation Numérique 2030, with the World Bank taking part by video link, at a workshop that also evaluated the 2022-2025 agenda.", "as_of": "2025-12-04", "date_precision": "day", "system": "Agenda National de la Transformation Numérique 2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "At the 4 December 2025 workshop evaluating the 2022-2025 agenda, the ministry's secretary general said it brought considerable advances in digital infrastructure, electronic platforms and access to public services; the article gives no figures against the agenda's targets.", "as_of": "2025-12-04", "date_precision": "day", "system": "Agenda National de la Transformation Numérique 2022-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Agenda National de la Transformation Numérique 2022-2025", "country_label": "agenda de la transformation numérique 2022-2025", "class": "national", "platform": "", "owner": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration", "tiers": "national; infrastructure, platforms, public services and the digital economy's share of GDP, per the article"},
+    {"system": "Agenda National de la Transformation Numérique 2030", "country_label": "Agenda National de la Transformation Numérique 2030", "class": "national", "platform": "", "owner": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration", "tiers": "national; described as a roadmap for administration, economy and society, including mines, fisheries and tourism"}
+  ],
+  "note": "The 2022-2025 agenda is classed national from this article's description (administration, platforms, infrastructure, digital economy contribution to GDP); the article records no adopting act for either agenda."
+}

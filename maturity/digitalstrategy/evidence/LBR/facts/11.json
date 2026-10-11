@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Liberia: Equity, Sovereignty, Innovation for a Connected Future", "country_label": "Digital Liberia", "class": "ministry-plan", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "Described here as the ministry's five-year strategic plan, focused on a country that owns and manages its digital infrastructure"},
+    {"system": "School Connect Program", "country_label": "School Connect Program", "class": "programme", "platform": "", "owner": "Liberia Telecommunications Authority", "tiers": "Internet access to public high schools"},
+    {"system": "Executive Order No. 163 (Office of Technology, Digitalization and Innovation)", "country_label": "Executive Order No. 163", "class": "directive", "platform": "", "owner": "President of Liberia", "tiers": ""}
+  ],
+  "note": "The minister names the Digital Liberia plan as the ministry's five-year strategic plan, with no adoption, period, plan or report stated, and its scope as described here is infrastructure ownership; classed as the document describes it, so no fact is recorded."
+}

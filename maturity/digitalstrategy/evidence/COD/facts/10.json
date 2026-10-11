@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-05-rdc-unesco-snia-psen-validation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "UNESCO states that public actors, technical and financial partners and experts met in Kinshasa on 4 August 2026 and validated the Politique sectorielle de l'économie numérique (PSEN), which with the AI strategy will set the country's orientations to 2030, at the end of a process led by the government through the digital economy ministry.", "as_of": "2026-08-04", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique (PSEN)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "UNESCO reports the PSEN was validated on 4 August 2026, giving the DRC a strategic framework to 2030.", "as_of": "2026-08-04", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique (PSEN)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Politique sectorielle de l'économie numérique (PSEN)", "country_label": "PSEN", "class": "national", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; horizon 2030"},
+    {"system": "Stratégie nationale de l'intelligence artificielle (SNIA)", "country_label": "SNIA", "class": "thematic", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; validated 4 August 2026; built with UNESCO's AI readiness assessment"}
+  ],
+  "note": ""
+}

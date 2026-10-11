@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-01-nitda-national-cloud-investment-strategy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "NITDA's National Cloud Investment Strategy (August 2026) says the National Digital Economy Policy and Strategy (2020-2030) established Nigeria's long-term vision for a digitally enabled economy and continues to provide the overarching national policy framework; the stated period runs to 2030, and the strategy lists it among its foundational documents, but the passage does not say whether the text is public.", "as_of": "2026-08", "date_precision": "month", "system": "National Digital Economy Policy and Strategy 2020-2030 (NDEPS)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Economy Policy and Strategy 2020-2030 (NDEPS)", "country_label": "National Digital Economy Policy and Strategy 2020-2030", "class": "national", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national"},
+    {"system": "FMCIDE Strategic Blueprint: Accelerating our Collective Prosperity through Technical Efficiency (2023-2027)", "country_label": "FMCIDE Strategic Blueprint 2023-2027", "class": "ministry-plan", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national"},
+    {"system": "Nigeria Cloud Computing Policy (2019)", "country_label": "Nigeria Cloud Computing Policy (2019)", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "government institutions"},
+    {"system": "National Artificial Intelligence Strategy (NAIS)", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national"},
+    {"system": "National Sovereign Cloud Initiative", "country_label": "National Sovereign Cloud Initiative", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Cloud Investment Strategy", "country_label": "National Cloud Investment Strategy", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"}
+  ],
+  "note": "The passages describe the 2020-2030 strategy as the overarching national policy framework but give no adoption verb, act or body for it; no standing fact is recorded."
+}

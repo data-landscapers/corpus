@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-01-bkam-snif-rapport-annuel-exercice-2023",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Bank Al-Maghrib report on exercise 2023 calls Maroc Digital 2030 the future strategy, with which the second phase of the financial inclusion strategy would gain by aligning; the report prints no writing date, so the exercise year is used.", "as_of": "2023", "date_precision": "year", "system": "Maroc Digital 2030", "class": ""}
+  ],
+  "systems": [],
+  "note": "Class is left empty: the report names Maroc Digital 2030 but does not describe its scope. The financial inclusion strategy is outside the study's field."
+}

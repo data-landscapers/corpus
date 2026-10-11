@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-26-dgo2025-drivers-barriers-libya-e-government",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The paper says the National Committee for Digital Transformation, established in 2022, marked a renewed effort to develop a comprehensive digital strategy, emphasising regulatory reform, capacity building, infrastructure and citizen participation, with a target for implementation by 2030, citing the General Information Authority (2022).", "as_of": "2022", "date_precision": "year", "system": "digital strategy of the National Committee for Digital Transformation", "class": ""}
+  ],
+  "systems": [
+    {"system": "digital strategy of the National Committee for Digital Transformation", "country_label": "comprehensive digital strategy (target 2030)", "class": "", "platform": "", "owner": "National Committee for Digital Transformation; General Information Authority", "tiers": "national"},
+    {"system": "eLibya", "country_label": "eLibya initiative (2013)", "class": "programme", "platform": "", "owner": "", "tiers": "national; suspended after the 2014 conflict"},
+    {"system": "Ejraat Portal", "country_label": "Ejraat Portal", "class": "programme", "platform": "", "owner": "Ministry of Economy and Trade", "tiers": "national; limited in scope"}
+  ],
+  "note": "Class left empty: the paper names the strategy and a 2030 target and lists its emphases but says nothing of adoption by the whole government; 'drafting' is the closest value for a committee set up in 2022 to develop it."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2023-06-07-centenary-group-integrated-report-2022",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Centenary Group's 2022 report says its subsidiary Cente-Tech held an MoU with the Ministry of ICT and National Guidance under which UNDP contracted the development of the digital transformation roadmap for Uganda, 'including the big data utilization strategy and digital skilling program', and that the project was 55% complete at the close of 2022.", "as_of": "2022-12", "date_precision": "month", "system": "Digital Transformation Roadmap for Uganda", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Roadmap for Uganda", "country_label": "Digital Transformation Roadmap for Uganda", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance (UNDP-supported)", "tiers": ""}
+  ],
+  "note": "Bank annual report; the roadmap is mentioned as a consultancy being drafted, with its scope described only as including a big data strategy and a skilling programme, so class is left empty."
+}

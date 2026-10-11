@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-somalia-digital-economy-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Strategy (under development, MoCT)", "country_label": "e-Government Strategy and Implementation Roadmap", "class": "government", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": "federal; the diagnostic says it is being adopted and will be the first comprehensive national strategy supporting the digital government agenda"},
+    {"system": "National ICT Policy and Strategy 2019-2024", "country_label": "National ICT Strategy and Policy 2019-2024", "class": "sector-ict", "platform": "", "owner": "Ministry of Post, Telecommunications and Technology", "tiers": "national; identified e-government as a key focus area"},
+    {"system": "Government ICT Master Plan", "country_label": "Government ICT Master Plan", "class": "", "platform": "", "owner": "", "tiers": "named once as the document the e-Government Department's work should follow; scope not described"},
+    {"system": "National Development Plan 2020-2024", "country_label": "Somalia National Development Plan 2020 to 2024", "class": "development-plan", "platform": "", "owner": "Ministry of Planning, Investment and Economic Development", "tiers": "national; listed in the bibliography only"}
+  ],
+  "note": "The diagnostic states that a government e-Government strategy is being developed and that the country lacks a holistic digital platforms strategy; it states no national-class digital strategy, so no fact is recorded."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-07-consulta-estrategica-sobre-o-futuro-digital-de-cabo-verde",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting",
+     "fact": "The Minister of Economy, Commerce, Industry and Digital Transition held a strategic consultation in Praia on 6 August 2026 whose contributions are to deepen the national diagnosis and support the priorities and measures of the future digital transformation agenda, which the document describes as cross-government and not yet written.",
+     "as_of": "2026-08-06", "date_precision": "day",
+     "system": "futura agenda de transformação digital do país", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing",
+     "fact": "On 6 August 2026 the government convened public administration, private sector, academia and experts in a consultation on digital transformation (interoperability, service digitisation, skills, innovation, inclusion, data protection, cybersecurity) to feed the future agenda.",
+     "as_of": "2026-08-06", "date_precision": "day",
+     "system": "futura agenda de transformação digital do país", "class": "national"}
+  ],
+  "systems": [],
+  "note": ""
+}

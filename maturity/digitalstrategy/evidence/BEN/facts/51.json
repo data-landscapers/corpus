@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-29 Marc-Andre Loko - Benin's digital strategy involves a diversified portfolio of partners",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "ASIN's director general described a 2021-2026 digital plan, successor to a 2016 plan built by Deloitte, shifting toward home-grown adoption of digital services with digital payments and financial inclusion the fastest-moving strand; the article names no adopting act and no date, so its published date of 2024-05-29 applies.", "as_of": "2024-05-29", "date_precision": "day", "system": "2021-2026 digital plan", "class": "national"}
+  ],
+  "systems": [
+    {"system": "2016 digital plan", "country_label": "2016 digital plan (built with Deloitte)", "class": "", "platform": "", "owner": "government", "tiers": "national; the predecessor of the 2021-2026 plan, with no description of its content"}
+  ],
+  "note": ""
+}

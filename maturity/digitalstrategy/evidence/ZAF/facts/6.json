@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-21-itweb-fpb-ai-oversight-streaming",
+  "facts": [],
+  "systems": [
+    {"system": "FPB digitisation and artificial intelligence strategy", "country_label": "digitisation and artificial intelligence strategy", "class": "ministry-plan", "platform": "", "owner": "Film and Publication Board", "tiers": "agency-internal; approved per acting CEO, tied to FPB 2025-2030 strategic plan"},
+    {"system": "FPB 2025-2030 strategic plan", "country_label": "2025-2030 strategic plan", "class": "ministry-plan", "platform": "", "owner": "Film and Publication Board", "tiers": "agency"}
+  ],
+  "note": "Only an agency's own digitisation and AI strategy is named; no national strategy."
+}

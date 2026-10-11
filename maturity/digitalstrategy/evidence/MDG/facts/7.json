@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Plan Stratégique de Renforcement du Système d'Information Sanitaire 2023-2027", "country_label": "PSRSIS 2023-2027", "class": "thematic", "platform": "DHIS2", "owner": "Ministry of Public Health (MSANP)", "tiers": "national health information system; electronic RMA piloted in 10 districts"}
+  ],
+  "note": "Essay on paper-based records; names no national digital strategy for Madagascar."
+}

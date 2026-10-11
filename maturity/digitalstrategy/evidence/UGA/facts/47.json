@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-19-mosip-brownfield-sierra-leone-migration",
+  "facts": [],
+  "systems": [
+    {"system": "National digital ID (NIRA)", "country_label": "new identity platform", "class": "programme", "platform": "MOSIP", "owner": "National Identification and Registration Authority", "tiers": "more than 28 million records migrated, 6.7 million new registrations"}
+  ],
+  "note": "Digital ID migration report; no Uganda strategy named."
+}

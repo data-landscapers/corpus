@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-27-digital-platform-key-driver-innovation",
+  "facts": [],
+  "systems": [
+    {"system": "National Development Plan 12 (draft), Digitalisation chapter", "country_label": "NDP 12 Digitalisation chapter", "class": "development-plan", "platform": "", "owner": "Ministry of Communications and Innovation (presented to Parliament)", "tiers": "national; draft presented 27 October 2025"},
+    {"system": "ICT Roadmap", "country_label": "ICT Roadmap", "class": "ministry-plan", "platform": "", "owner": "Ministry of Communications and Innovation", "tiers": "national; to work with AI implementation to improve access to services"},
+    {"system": "1Gov1Citizen platform", "country_label": "one-Gov one-Citizen platform", "class": "", "platform": "open-source, led by a local developer", "owner": "Government of Botswana", "tiers": "national; unified e-services platform being implemented"}
+  ],
+  "note": "The minister says unnamed 'holistic national digitalisation instruments' are planned for immediate development; no name, class, standing or text, so no fact."
+}

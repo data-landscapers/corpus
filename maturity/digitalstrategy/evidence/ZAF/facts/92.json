@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article describes the roadmap behind MyMzansi, called South Africa's digital transformation strategy, as stretching to 2030, so the date of the article (November 2025) falls inside the stated period; Text public: not stated.", "as_of": "2025-11-09", "date_precision": "day", "system": "South Africa's digital transformation strategy (roadmap to 2030)", "class": ""}
+  ],
+  "systems": [
+    {"system": "South Africa's digital transformation strategy (roadmap to 2030)", "country_label": "digital transformation strategy / roadmap", "class": "", "platform": "", "owner": "The Presidency, guided by its Inter-Ministerial Committee on Digital Transformation", "tiers": "national; more than 200 public servants involved; lists interoperability and scalability as key service principles"},
+    {"system": "MyMzansi", "country_label": "MyMzansi", "class": "programme", "platform": "Silverstripe, GOV.UK Pay, GOV.UK Notify, verifiable credentials; AWS partner", "owner": "Presidency Digital Services Unit", "tiers": "national; prototype built in 10 weeks"}
+  ],
+  "note": "The article gives the roadmap's end year but does not describe its scope beyond digital government, so the fact is recorded with class left empty."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-sudan-3x3-digital-transformation-plan-phase-two",
+  "facts": [],
+  "systems": [
+    {"system": "3x3 Digital Transformation Plan", "country_label": "3×3 Digital Transformation Plan", "class": "ministry-plan", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": "three pathways: citizen services, private-sector services and government-sector services; phase one completed and phase two launched by the ministry, no cabinet or head-of-government act named"},
+    {"system": "CONSOLEX unified API gateway", "country_label": "UNIVERSAL SECURE (CONSOLEX)", "class": "", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": "integrates government systems for data exchange (not a strategy)"},
+    {"system": "SUDAPAY", "country_label": "SUDAPAY", "class": "", "platform": "", "owner": "Central Bank of Sudan", "tiers": "instant-transfer application (not a strategy)"}
+  ],
+  "note": "The 3x3 plan is the ministry's own plan, so class ministry-plan and no fact; the page's date is a proxy (2026-01-01, year precision)."
+}

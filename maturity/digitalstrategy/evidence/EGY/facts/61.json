@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-mped-egypt-decent-life-first-phase-implementation-status",
+  "facts": [],
+  "systems": [
+    {"system": "National Project for Rural Development 'Decent Life' Initiative", "country_label": "Decent Life", "class": "programme", "platform": "", "owner": "Ministry of Planning and Economic Development", "tiers": "villages in 20 governorates; first phase allocation EGP 350 billion, fibre connected to 187 villages and 1,028 mobile towers installed"},
+    {"system": "Digital transformation plan (state)", "country_label": "digital transformation plan", "class": "", "platform": "", "owner": "", "tiers": "national; mentioned only as the plan the fibre and tower rollout supports, with no description"}
+  ],
+  "note": "Rural development programme report; digital transformation plan is mentioned in passing with no description."
+}

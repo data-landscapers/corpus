@@ -1,0 +1,9 @@
+{
+  "slug": "2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)",
+  "facts": [],
+  "systems": [
+    {"system": "Uganda e-Government Interoperability Framework", "country_label": "e-Government Interoperability Framework (e-GIF)", "class": "thematic", "platform": "", "owner": "MoICT&NG / NITA-U", "tiers": "Twelve principles and six interoperability layers; consultancy duration 10 Nov 2020 - 9 Sep 2021"},
+    {"system": "Digital Government Strategy", "country_label": "Digital Government Strategy", "class": "government", "platform": "", "owner": "MoICT&NG / NITA-U", "tiers": ""}
+  ],
+  "note": "Companion page for an interoperability framework (a technical standard, not a national strategy); no national fact."
+}

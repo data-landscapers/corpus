@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "DHA Strategic Plan 2025-2030", "country_label": "DHA Strategic Plan 2025-2030", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental; said to emphasise digital transformation (e-Birth, Digital ID)"},
+    {"system": "Digital Health Strategy", "country_label": "Digital Health Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national health sector; named as a national ambition focused on future electronic health records"}
+  ],
+  "note": "Author's analysis of rural paper-based systems; no dated fact about a national-class digital strategy."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-sierra-leone-mocti-orange-bo-data-centre-commissioned",
+  "facts": [],
+  "systems": [
+    {"system": "Orange Sierra Leone Data Centre, Bo", "country_label": "Orange SL Data Centre in Bo", "class": "programme", "platform": "", "owner": "Orange Sierra Leone (Sonatel Group)", "tiers": "national disaster recovery hub, second facility after Freetown; EUR 23 million; opened by the President per the Ministry's 1 December 2025 release"},
+    {"system": "Big Five priorities (Digital Transformation agenda)", "country_label": "Big Five priorities", "class": "", "platform": "", "owner": "Ministry of Communication, Technology and Innovation", "tiers": ""},
+    {"system": "National AI Strategy", "country_label": "Sierra Leone's first-ever National AI Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Communication, Technology and Innovation with the World Bank Group", "tiers": "stated as being developed, in an undated sidebar item"}
+  ],
+  "note": "A data-centre commissioning. The Digital Transformation agenda under Big Five priorities is named without a document, scope or date, and the AI strategy is a thematic strategy in an undated sidebar item."
+}

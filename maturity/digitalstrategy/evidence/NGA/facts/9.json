@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-24-nga-apc-cccis-national-strategy-digital-divide",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The source says NITDA's National Digital Transformation Agenda targets 75% digital literacy nationwide by 2032; it gives no scope for the agenda and no cost, and no other date, so the source's published date is used.", "as_of": "2026-09-24", "date_precision": "day", "system": "National Digital Transformation Agenda", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Agenda", "country_label": "National Digital Transformation Agenda", "class": "", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Strategy for Community-Centred Connectivity Initiatives in Nigeria", "country_label": "National Strategy for Community-Centred Connectivity Initiatives in Nigeria", "class": "thematic", "platform": "", "owner": "National Advisory Committee for Community Networks in Nigeria, with LocNet and CITAD", "tiers": "national"}
+  ],
+  "note": "The agenda is named only for its literacy target, so its class is left empty; the fact is recorded as the source states it."
+}

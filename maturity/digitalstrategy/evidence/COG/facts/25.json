@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-21-cog-datacenter-national-bloque-defaut-financement-sikafinance",
+  "facts": [],
+  "systems": [
+    {"system": "stratégie nationale de transformation numérique du Congo", "country_label": "Stratégie nationale de transformation numérique du Congo", "class": "", "platform": "", "owner": "", "tiers": "named as the frame of the national data centre; the article says it seeks to modernise administration and improve broadband access, without describing standing, text or reporting"},
+    {"system": "Projet d'accélération de la transformation numérique (PATN)", "country_label": "PATN", "class": "programme", "platform": "", "owner": "World Bank-supported, USD 100 million", "tiers": "national"},
+    {"system": "national data centre", "country_label": "Data center national", "class": "programme", "platform": "", "owner": "AfDB and state co-financed; contractor Sumec", "tiers": "Brazzaville; works suspended at 95% in October 2025 for unpaid government share"}
+  ],
+  "note": "The article places the data centre within the national digital transformation strategy but gives no statement on that strategy's standing, text, delivery plan or reporting."
+}

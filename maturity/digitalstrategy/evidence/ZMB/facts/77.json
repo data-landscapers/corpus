@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Zambia Acceleration Project (DZAP)", "country_label": "DZAP", "class": "programme", "platform": "", "owner": "Smart Zambia Institute (project implementation unit); World Bank financing of USD 100 million approved 11 September 2025", "tiers": "national; under the COMESA IDEA programme"},
+    {"system": "Government Cloud Strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national; procurement for the strategy and a Data Classification Framework is progressing under DZAP"}
+  ],
+  "note": "The Zambia section reports a World Bank project (class programme) and states no national digital strategy, its standing, period, plan or reporting."
+}

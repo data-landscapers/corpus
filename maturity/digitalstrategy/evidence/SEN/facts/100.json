@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-sen-health-systems-stren-2016-health-systems-strengthening-plus-hss",
+  "facts": [],
+  "systems": [
+    {"system": "Health Systems Strengthening Plus (HSS+) - Senegal", "country_label": "HSS+", "class": "programme", "platform": "DHIS2", "owner": "USAID", "tiers": "health sector; US$37.3m, 2016-2023, completed"}
+  ],
+  "note": "Donor health programme record; names no national digital strategy."
+}

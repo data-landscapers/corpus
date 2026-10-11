@@ -1,0 +1,10 @@
+{
+  "slug": "2023-04-01-rwanda-national-artificial-intelligence-policy-2023",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Policy", "country_label": "The National AI Policy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and Innovation (MINICT) with RURA", "tiers": "national; six priority areas, 14 recommendations, implementation plan FY23/24 to FY27/28"},
+    {"system": "Smart Rwanda Master Plan", "country_label": "Smart Rwanda Master Plan", "class": "", "platform": "", "owner": "", "tiers": "named only as a plan the AI policy builds on; no description or date"},
+    {"system": "Vision 2050", "country_label": "Vision 2050", "class": "", "platform": "", "owner": "", "tiers": "named only as the national objectives the AI policy builds on; no description"}
+  ],
+  "note": "The document's own subject is the AI policy, class thematic. Smart Rwanda Master Plan and Vision 2050 are named with no dated fact or description, so no fact."
+}

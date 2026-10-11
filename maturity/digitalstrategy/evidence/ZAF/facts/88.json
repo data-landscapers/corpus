@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-15 South Africa plans Intelligent Population Register in proposed civil registration reform",
+  "facts": [],
+  "systems": [
+    {"system": "MyMzansi DPI roadmap", "country_label": "MyMzansi DPI roadmap", "class": "government", "platform": "", "owner": "Government of South Africa", "tiers": "described as intending to remodel how public services are delivered across several sectors"},
+    {"system": "Draft revised White Paper on Citizenship, Immigration and Refugee Protection", "country_label": "draft revised White Paper", "class": "directive", "platform": "", "owner": "Department of Home Affairs", "tiers": "gazetted for input 12 December 2025 to 31 January 2026"},
+    {"system": "Intelligent Population Register", "country_label": "Intelligent Population Register", "class": "programme", "platform": "", "owner": "Department of Home Affairs", "tiers": "national; proposed"},
+    {"system": "DHA Strategic Plan 2025-2030", "country_label": "Strategic Plan 2025-2030", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental"}
+  ],
+  "note": "The roadmap is described by its aim for public services (class government); no national-class fact."
+}

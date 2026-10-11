@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-xalam-cote-divoire-data-center-market-briefing",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Xalam Analytics' January 2026 briefing says the government has outlined a national digital strategy whose vision is for Côte d'Ivoire to become West Africa's digital hub, with pillars of full national digital coverage, digitisation of administrative processes, and training and skills; no adopting act is given.", "as_of": "2026-01", "date_precision": "month", "system": "National digital strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National digital strategy", "country_label": "", "class": "national", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": ""
+}

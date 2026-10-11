@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-13-anp-remise-document-pndn-2026-2035-ministre",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "ANP reports the PNDN 2026-2035 document was \"remis officiellement\" (handed over) to the Minister of Communication on 13 October 2025 by the drafting committee after two months' work; the minister speaks of the policy applying \"après son adoption\", so no adoption is stated and no adopting act or body is named.", "as_of": "2025-10-13", "date_precision": "day", "system": "Politique Nationale de Développement du Numérique (PNDN) 2026-2035", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The drafting committee handed the completed PNDN 2026-2035 document to the Minister of Communication on 13 October 2025.", "as_of": "2025-10-13", "date_precision": "day", "system": "Politique Nationale de Développement du Numérique (PNDN) 2026-2035", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Politique Nationale de Développement du Numérique (PNDN) 2026-2035", "country_label": "Politique Nationale de Développement du Numérique (PNDN)", "class": "national", "platform": "", "owner": "Ministère de la Communication et des Nouvelles Technologies de l'Information", "tiers": "Described by the committee chair as a national strategic framework to drive and govern the country's digital transformation, with three axes (sector governance and security; digital infrastructure and services; skills and innovation) and an institutional mechanism for coordination, monitoring and evaluation (no body named); the minister says it is to apply across the public administration and eventually the private sector."}
+  ],
+  "note": ""
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "2026-07-19-eswatini-1-06-billion-world-bank-digital-funding",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Eswatini Project",
+   "country_label": "Digital Eswatini Project",
+   "class": "programme",
+   "platform": "",
+   "owner": "Ministry of ICT, World Bank-financed",
+   "tiers": "about E1.2 billion (US$65 million); connecting 1,031 public institutions"
+  },
+  {
+   "system": "Government in Your Hand",
+   "country_label": "Government in Your Hand programme",
+   "class": "government",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": "national digital identity, e-payment gateway, 50+ priority government services; US$25m component"
+  },
+  {
+   "system": "Digital Transformation Roadmap",
+   "country_label": "Digital Transformation Roadmap",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": "procurement nearing completion (July 2026); identifies 50+ government services for digitalisation"
+  }
+ ],
+ "note": "Project financing and a Digital Transformation Roadmap in procurement (a ministry roadmap, scope not stated as national); no national strategy stated."
+}

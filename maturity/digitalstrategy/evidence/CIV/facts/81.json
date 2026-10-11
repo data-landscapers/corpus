@@ -1,0 +1,9 @@
+{
+  "slug": "2025-03-14-ai-data-governance-strategy-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "stratégie nationale pour l'intelligence artificielle", "class": "thematic", "platform": "", "owner": "Ministry of Digital Transition and Digitalization", "tiers": "national"},
+    {"system": "data governance strategy", "country_label": "stratégie de gouvernance des données", "class": "thematic", "platform": "", "owner": "Ministry of Digital Transition and Digitalization", "tiers": "national"}
+  ],
+  "note": "The AI and data governance strategies, handed to the Prime Minister on 13 March 2025, are single-technology strategies (thematic), so they give no fact for the national strategy."
+}

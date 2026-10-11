@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-31-cote-divoire-accelerateurs-numeriques-startups",
+  "facts": [],
+  "systems": [
+    {"system": "Feuille de route 2026-2028 du ministère de la Transition numérique", "country_label": "feuille de route 2026-2028", "class": "ministry-plan", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": "national"},
+    {"system": "Stratégie nationale de développement du numérique", "country_label": "stratégie nationale de développement du numérique", "class": "national", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "national"},
+    {"system": "Plan national de développement 2026-2030", "country_label": "PND 2026-2030", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": "The article says the ministry's seven-axis roadmap contributes to implementing the national digital development strategy and the PND; it states nothing of the strategy's standing, text, plan or reporting."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-10-11-national-ict-policy-2023-zambia",
+  "facts": [],
+  "systems": [
+    {"system": "National Information and Communication Technology Policy 2023", "country_label": "National ICT Policy 2023", "class": "sector-ict", "platform": "", "owner": "Ministry of Technology and Science", "tiers": "national"}
+  ],
+  "note": "An ICT sector policy, so sector-ict and not the national class; the passages hold only its contents page, a generic introduction and a mention of a 'digital transformation agenda'."
+}

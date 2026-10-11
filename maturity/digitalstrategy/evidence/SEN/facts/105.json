@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-17-senegal-critical-infrastructure-bill-ministry-details",
+  "facts": [],
+  "systems": [
+    {"system": "New Technology Deal", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national; the article calls it Senegal's broader digital transformation strategy to modernise the economy and public administration by 2034"},
+    {"system": "Bill on the protection of critical information infrastructure and digital security", "country_label": "", "class": "thematic", "platform": "", "owner": "Ministry of Telecommunications and Digital Economy", "tiers": "cybersecurity; submitted to the National Assembly Intercommission"}
+  ],
+  "note": "Article names the New Deal's aim of modernising economy and administration by 2034 but gives no adoption act, start date, plan or report for it."
+}

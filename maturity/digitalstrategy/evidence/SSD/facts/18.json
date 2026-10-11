@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-07-nca-mandatory-eservice-platform-circular",
+  "facts": [],
+  "systems": [
+    {"system": "Presidential Order on Digital Government Services and e-Service Integration", "country_label": "", "class": "directive", "platform": "", "owner": "President of the Republic of South Sudan", "tiers": "mandates use of the National e-Service Platform for government services and statutory fees"},
+    {"system": "National e-Service Platform (nca.eservices.gov.ss)", "country_label": "National e-Service Platform", "class": "programme", "platform": "", "owner": "Government of South Sudan", "tiers": "NCA licensees for regulatory payments and services"}
+  ],
+  "note": "The circular cites 'the Government's digital transformation agenda' without naming a document, date or period; no strategy fact."
+}

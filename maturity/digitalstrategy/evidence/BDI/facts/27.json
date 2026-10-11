@@ -1,0 +1,8 @@
+{
+  "slug": "2023-05-10-pddsp-plan-directeur-digitalisation-services-publics-2023-2033",
+  "facts": [],
+  "systems": [
+    {"system": "Plan Directeur de Digitalisation des Services Publics du Burundi (PDDSP 2023-2033)", "country_label": "PDDSP 2023-2033", "class": "government", "platform": "", "owner": "Ministry of Communication, Information Technologies and Media (text); adopted by the Council of Ministers on 10 May 2023", "tiers": "national; digitalisation of public services and national e-government master plan, coordinated by SETIC"}
+  ],
+  "note": "The plan states its subject as the digitalisation of public services (e-government), so it is class government and not national under the typology."
+}

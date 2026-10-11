@@ -1,0 +1,23 @@
+{
+ "slug": "2025-06-28-digital-eswatini-project-pid",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Eswatini",
+   "country_label": "Digital Eswatini Project (P508948)",
+   "class": "programme",
+   "platform": "",
+   "owner": "Ministry of ICT, World Bank",
+   "tiers": "concept stage 2025-06-28; US$65m"
+  },
+  {
+   "system": "National Cybersecurity Strategy (2022)",
+   "country_label": "National Cybersecurity Strategy (2022)",
+   "class": "thematic",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Project concept document; names National Cybersecurity Strategy (2022) as a thematic instrument. No national digital strategy stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-18-transformation-numerique-les-comores-passent-a-l-evaluation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Wearetech reports that Comores Numérique 2028, the national strategy drawn up in 2018, has been implemented by the national digital development agency ANADEN since 2019.", "as_of": "2019", "date_precision": "year", "system": "Comores Numérique 2028", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Projet d'appui à la digitalisation de l'économie comorienne (PADEC)", "country_label": "PADEC", "class": "programme", "platform": "", "owner": "ANADEN", "tiers": "national; components on infrastructure, digital uses and personal-data protection, launched 2025"}
+  ],
+  "note": ""
+}

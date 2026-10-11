@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-23-congo-eu-eib-backed-patn-phase-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Development Strategy 2030", "country_label": "Congo's Digital Development Strategy 2030", "class": "", "platform": "", "owner": "", "tiers": "named as closely tied to PATN and as identifying digital transformation as a key pillar of national growth; coverage of economy and state, and standing, not described"},
+    {"system": "National Development Plan 2022-2026", "country_label": "2022–2026 National Development Plan", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Project for Accelerating Digital Transformation (PATN)", "country_label": "PATN", "class": "programme", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy; EIB and EU phase of CFA 27 billion alongside World Bank CFA 61.4 billion", "tiers": "national; European-funded phase began operational deployment in November 2024 and was officially launched in June 2025"}
+  ],
+  "note": "Strategy named as linked to PATN; no statement on its standing, text, plan or reporting."
+}

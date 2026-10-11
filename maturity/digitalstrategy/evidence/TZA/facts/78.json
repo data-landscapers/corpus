@@ -1,0 +1,10 @@
+{
+  "slug": "2024-02-01-e-government-technology-roadmap",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Technology Roadmap", "country_label": "e-Government Technology Roadmap", "class": "ministry-plan", "platform": "", "owner": "e-Government Authority (e-GA)", "tiers": "public institutions; version 1.0, February 2024, covers the next five years"},
+    {"system": "e-Government Strategy 2022 - 2027", "country_label": "Tanzania e-Government Strategy 2022", "class": "government", "platform": "", "owner": "e-Government Authority", "tiers": "public institutions; seven pillars"},
+    {"system": "Government Cybersecurity Strategy 2022", "country_label": "Government Cyber Security Strategy, 2022", "class": "thematic", "platform": "", "owner": "", "tiers": "government"}
+  ],
+  "note": "An e-GA technology roadmap scoped to government's technology needs; the strategies named are e-government or cybersecurity, so no national-class instrument and no fact."
+}

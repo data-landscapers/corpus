@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-01-lca-strategic-plan-2026-2029",
+  "facts": [],
+  "systems": [
+    {"system": "LCA Strategic Plan 2026-2029", "country_label": "Strategic Plan 2026-2029", "class": "ministry-plan", "platform": "", "owner": "Lesotho Communications Authority", "tiers": "national"},
+    {"system": "Lesotho National Digital Transformation Strategy: Agenda 2030", "country_label": "Lesotho National Digital Transformation Strategy (LNDTS): Agenda 2030", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Extended National Strategic Development Plan II", "country_label": "NSDP II", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Passages only name the LNDTS as a national framework recognising ICT as an enabler (digital government services, broadband, cybersecurity, skills); its own section 3.5 was not in the passages, and no adoption, period, plan or reporting is stated, so no fact."
+}

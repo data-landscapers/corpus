@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-24-drc-psen-2026-2030-expert-validation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "Participants at a 21-22 July 2026 validation workshop in Kinshasa, including the Presidency, Prime Minister's office and Planning ministry, technically validated the draft Politique sectorielle de l'économie numérique 2026-2030, subject to integrating their recommendations.", "as_of": "2026-07-22", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique 2026-2030 (PSEN)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "none", "fact": "The workshop required the final PSEN to finalise the costing of interventions, its multi-year breakdown and its link to the medium-term expenditure framework, and to complete the baseline data, indicators and annual targets, so the draft had neither a finished costing nor annual targets.", "as_of": "2026-07-22", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique 2026-2030 (PSEN)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The PSEN 2026-2030 draft was technically validated at a UNDP-supported expert workshop on 21-22 July 2026.", "as_of": "2026-07-22", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique 2026-2030 (PSEN)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Politique sectorielle de l'économie numérique 2026-2030 (PSEN)", "country_label": "PSEN", "class": "national", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; five orientations: sovereign infrastructure, digital transformation of the state and public services, digital economy and innovation, human capital and inclusion, trust/data governance/cybersecurity/responsible AI; aligned with the Plan national stratégique de développement and the Government Action Programme 2024-2028"},
+    {"system": "Programme d'Actions du Gouvernement 2024-2028", "country_label": "", "class": "", "platform": "", "owner": "Prime Minister", "tiers": "named as the frame the PSEN follows, no description"}
+  ],
+  "note": ""
+}

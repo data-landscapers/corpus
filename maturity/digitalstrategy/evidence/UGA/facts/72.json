@@ -1,0 +1,13 @@
+{
+  "slug": "2024-08-01-integrated-national-data-exchange-uganda-case-study",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The DIAL case study says Uganda continued its digital policy 'through 2023, when it launched its Digital Transformation Roadmap' (verb: launched; no adopting act or body named).", "as_of": "2023", "date_precision": "year", "system": "Digital Transformation Roadmap", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Digital Government Strategy", "country_label": "Digital Government Strategy", "class": "government", "platform": "", "owner": "NITA-U", "tiers": "Aims to make Uganda one of the top digital governments in Africa by 2027"},
+    {"system": "E-Government Masterplan", "country_label": "E-Government Masterplan", "class": "government", "platform": "", "owner": "NITA-U", "tiers": "Created after NITA-U's 2012 E-government Readiness Assessment, with Korean support"},
+    {"system": "National ICT Policy 2003", "country_label": "National ICT Policy of 2003", "class": "sector-ict", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Data-exchange case study. The Roadmap's scope is not described here, so class is empty; the Digital Government Strategy (target 2027) and E-Government Masterplan are state-administration strategies, so systems only."
+}

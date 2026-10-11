@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-17-lesotho-broadband-shared-infrastructure-policy-second-draft",
+  "facts": [],
+  "systems": [
+    {"system": "Broadband and Shared Infrastructure Policy and Implementation Plan (Second Draft)", "country_label": "Broadband and Shared Infrastructure Policy", "class": "thematic", "platform": "", "owner": "MICSTI, developed with UNDP and Norway Registers Development", "tiers": "national"},
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Policy", "country_label": "National Digital Policy", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Says only that Lesotho's digital transformation 'is guided by' the National Digital Transformation Strategy and National Digital Policy; no adoption, scope, period, plan or reporting stated, so no fact."
+}

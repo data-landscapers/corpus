@@ -1,0 +1,10 @@
+{
+  "slug": "2022-08-05-ict-ministry-fy2021-22-q4-report",
+  "facts": [],
+  "systems": [
+    {"system": "National ICT Policy", "country_label": "National ICT Policy (output earlier titled National Digital Transformation Policy)", "class": "sector-ict", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "Drafting completed, awaiting presentation and approval by Cabinet (FY2021/22 Q4)"},
+    {"system": "E-waste Policy", "country_label": "Ewaste Policy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "National Cyber Security Strategy", "country_label": "National Cyber Security Strategy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "Final draft approved by the Minister"}
+  ],
+  "note": "The report says the 'National Digital Transformation Policy' output was retitled National ICT Policy on the Cabinet Secretariat's instruction, so the instrument is a sector ICT policy and gives no national fact."
+}

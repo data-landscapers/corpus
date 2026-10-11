@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-01-kenya-national-ai-strategy-2025-2030-draft-for-public-validation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The draft AI strategy (January 2025) states that the 10-year National Digital Master Plan runs 2022-2032, so the January 2025 as-at date falls inside its period; the document quotes the plan's content but does not link its text.", "as_of": "2025-01", "date_precision": "month", "system": "National Digital Master Plan 2022-2032", "class": ""},
+    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The draft AI strategy states that the National Digital Master Plan 2022-2032 follows a previous master plan for 2014-2017 that was extended to 2022; as-of is the end of the extension.", "as_of": "2022", "date_precision": "year", "system": "Previous national digital master plan 2014-2017 (extended to 2022)", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Master Plan 2022-2032", "country_label": "Kenya National Digital Master Plan (2022-2032)", "class": "", "platform": "", "owner": "", "tiers": "national; document says it notes the need for a national AI strategy and sets the pace for adopting AI, blockchain and quantum computing; scope otherwise not described"},
+    {"system": "Previous national digital master plan 2014-2017 (extended to 2022)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "national; predecessor of the 2022-2032 plan"},
+    {"system": "National Digital Economy Blueprint", "country_label": "National Digital Economy Blueprint", "class": "", "platform": "", "owner": "", "tiers": "national; referenced as an enabling policy that mentions AI for innovation-driven entrepreneurship; scope not described"},
+    {"system": "Kenya National AI Strategy 2025-2030 (draft for public validation, January 2025)", "country_label": "Kenya National Artificial Intelligence Strategy 2025-2030", "class": "thematic", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national; draft dated January 2025"}
+  ],
+  "note": "Master Plan facts are recorded with empty class: the document states its period and predecessor but does not describe its scope. The AI strategy itself is thematic."
+}

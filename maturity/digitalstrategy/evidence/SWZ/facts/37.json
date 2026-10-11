@@ -1,0 +1,31 @@
+{
+ "slug": "2025-12-01-eswatini-national-fintech-strategy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National FinTech Strategy (2025-2030)",
+   "country_label": "Eswatini National FinTech Strategy (2025-2030)",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Ministry of Finance and Central Bank of Eswatini",
+   "tiers": "launched 2025-12-04"
+  },
+  {
+   "system": "National Financial Inclusion Strategy II (2023-2028)",
+   "country_label": "NFIS II",
+   "class": "thematic",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Digital Economy Strategy",
+   "country_label": "Digital Economy Strategy",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "named only as a related strategy, no description"
+  }
+ ],
+ "note": "The passage names a 'Digital Economy Strategy' in a list of related strategies with no date, scope or status, so no fact is recorded."
+}

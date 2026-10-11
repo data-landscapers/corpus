@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-ago-governo-210-milhoes-digitalizacao-administracao",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda de Transição Digital da Administração Pública", "country_label": "Agenda de Transição Digital da Administração Pública", "class": "government", "platform": "", "owner": "Government of Angola; procurement run by the Instituto de Modernização Administrativa (IMA)", "tiers": "public administration; a US$210.91 million package authorised by presidential decrees between February and August 2026 aligns with it"},
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "Projecto de Aceleração Digital de Angola", "class": "programme", "platform": "", "owner": "Government of Angola with the World Bank", "tiers": "national"}
+  ],
+  "note": "Names the public-administration digital transition agenda only as the frame for a spending package; no national-class instrument."
+}

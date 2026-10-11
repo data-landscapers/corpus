@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress",
+  "facts": [],
+  "systems": [
+    {"system": "Data centre de Mauritius Telecom, Rose-Belle", "country_label": "Rose-Belle Tier IV data centre", "class": "", "platform": "Tier IV certified", "owner": "Mauritius Telecom", "tiers": "to host e-Health, the new government portal, Mobile ID, the penalty-points system and government AI equipment"},
+    {"system": "Government Online Centre (GOC)", "country_label": "Government Online Centre, Ébène", "class": "", "platform": "about 80 racks", "owner": "Government of Mauritius", "tiers": "government data"},
+    {"system": "Government blueprint for the digital sector (unnamed)", "country_label": "blueprint gouvernemental de modernisation du secteur digital", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"}
+  ],
+  "note": "The minister says the government blueprint comprises nearly 80 projects (visit of 29 December 2025), but the blueprint is not named, and a project count is not a dated action, cost or report; no fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-08-mdg-tiatanindrazana-mndpt-starlink-universites",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "Tia Tanindrazana says the Plan Stratégique Numérique 2023-2028 aims to raise the digital sector's share of GDP to 6% by 2028, expected to create 137,000 new jobs and convert 122,000 existing ones to technology-related jobs; no cost is stated (article of 8 September 2026).", "as_of": "2026-09-08", "date_precision": "day", "system": "Plan Stratégique Numérique 2023-2028", "class": ""}
+  ],
+  "systems": [
+    {"system": "Plan Stratégique Numérique 2023-2028", "country_label": "Plan Stratégique Numérique 2023-2028", "class": "", "platform": "", "owner": "", "tiers": "named for its GDP and jobs targets"}
+  ],
+  "note": "PSN fact recorded with class empty: the article gives targets but does not describe the plan's scope. No date is given for the targets, so the article date is used."
+}

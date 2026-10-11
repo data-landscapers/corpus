@@ -1,0 +1,12 @@
+{
+  "slug": "2024-04-17-sierra-leone-mocti-directorate-of-technology",
+  "facts": [],
+  "systems": [
+    {"system": "Government Data Hosting Facility Refurbishment and Deployment Readiness Project (GDHFRP)", "country_label": "GDHFRP", "class": "programme", "platform": "", "owner": "MoCTI Directorate of Technology", "tiers": "government data hosting"},
+    {"system": "Government Enterprise Unified Systems and Services Architecture (GUSSA) Project", "country_label": "GUSSA", "class": "programme", "platform": "Active Directory Services, single sign-on", "owner": "MoCTI Directorate of Technology", "tiers": "target of 50+ MDAs integrated"},
+    {"system": "Government Records Digitisation, Data Migration and Integration Project (GRDDMIP)", "country_label": "GRDDMIP", "class": "programme", "platform": "", "owner": "MoCTI Directorate of Technology", "tiers": "government records"},
+    {"system": "Government Systems Integration and Data Exchange Layer (DEL)", "country_label": "Data Exchange Layer", "class": "programme", "platform": "", "owner": "MoCTI Directorate of Technology", "tiers": "target of 20+ core systems integrated"},
+    {"system": "Government Digital Service Centre (GSC)", "country_label": "Government Digital Service Centre", "class": "programme", "platform": "", "owner": "MoCTI Directorate of Technology", "tiers": "target of 3+ service centres in SALPOST offices"}
+  ],
+  "note": "A ministry directorate page; the Government's digital transformation agenda is mentioned without naming a document, so no fact."
+}

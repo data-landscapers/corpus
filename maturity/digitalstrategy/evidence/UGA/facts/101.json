@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-06-ict-transforming-digital-infrastructure-gkma",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Uganda's Digital Transformation Road-map", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "national; only Pillar 1, Digital Infrastructure and Connectivity, is described"},
+    {"system": "Greater Kampala Metropolitan Area utility reorganisation directive", "country_label": "strategic directive of the Head of Public Service and Secretary to the Cabinet, 11 April 2025", "class": "directive", "platform": "", "owner": "Head of Public Service and Secretary to the Cabinet; implemented by Ministry of ICT & NG", "tiers": "Greater Kampala Metropolitan Area"}
+  ],
+  "note": "A fibre-ducting news item; it cites Pillar 1 of the Digital Transformation Roadmap and states no adoption, period, plan or report for it."
+}

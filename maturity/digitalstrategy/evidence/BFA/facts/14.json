@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-07-burkina-faso-afdb-digital-partnerships",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 6 May 2026 the Digital Transition Minister presented the twelve flagship digital projects, covering digital infrastructure, public-service modernisation and emerging-technology skills, to an African Development Bank delegation, which will now decide which it could support.", "as_of": "2026-05-06", "date_precision": "day", "system": "12 flagship digital projects", "class": "national"}
+  ],
+  "systems": [
+    {"system": "12 flagship digital projects", "country_label": "Douze projets phares du numérique", "class": "national", "platform": "", "owner": "Ministry of Digital Transition, Posts and Electronic Communications", "tiers": "National"},
+    {"system": "PACTDIGITAL", "country_label": "Digital Transformation Acceleration Project", "class": "programme", "platform": "", "owner": "World Bank-supported", "tiers": "National"},
+    {"system": "WURI", "country_label": "West Africa Unique Identification for Regional Integration and Inclusion", "class": "programme", "platform": "", "owner": "World Bank-supported", "tiers": "Regional programme"},
+    {"system": "Country Strategy Paper DSP-i 2022-2025", "country_label": "DSP-i 2022-2025", "class": "programme", "platform": "", "owner": "African Development Bank", "tiers": "Extended through 2026"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-15-ima-tdr-apoio-a-enapp-na-digitalizacao-da-oferta-formativa-e-learning",
+  "facts": [],
+  "systems": [
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "Projecto de Aceleração Digital de Angola", "class": "programme", "platform": "", "owner": "Instituto de Modernização Administrativa (IMA)", "tiers": "public administration"},
+    {"system": "Agenda de Transição Digital", "country_label": "Agenda de Transição Digital", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Estratégia nacional de transformação digital da Administração Pública", "country_label": "Estratégia nacional de transformação digital da Administração Pública", "class": "government", "platform": "", "owner": "", "tiers": "public administration"}
+  ],
+  "note": "Terms of reference for an e-learning contract that cite the digital transition agenda and the public administration's digital transformation strategy only as context; no status, text, plan or reporting is stated."
+}

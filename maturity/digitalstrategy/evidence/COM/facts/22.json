@@ -1,0 +1,12 @@
+{
+  "slug": "2018-12-01-comores-strategie-comores-numerique-2028",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The strategy's text is public on ANADEN's site, with a baseline year of 2018 and a roadmap running 2018-2028; it prints no publication date and ANADEN dates its drawing-up to December 2018.", "as_of": "2018-12", "date_precision": "month", "system": "Stratégie Comores Numérique 2028", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The strategy costs its six axes and thirteen orientations at 52,995,160,485 KMF in total, the largest line being complete national broadband coverage at 32,629,410,800 KMF; the figures are planned costings of 2018.", "as_of": "2018-12", "date_precision": "month", "system": "Stratégie Comores Numérique 2028", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The strategy designs three bodies: a Conseil National sur le Numérique chaired by the Secrétaire général du gouvernement, ANADEN to implement it, and an Observatoire national du numérique to measure sector performance.", "as_of": "2018-12", "date_precision": "month", "system": "Stratégie Comores Numérique 2028", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Plan Comores Émergent", "country_label": "Plan Comores Émergent (pays émergent à l'horizon 2030)", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; the parent frame of the digital strategy"}
+  ],
+  "note": ""
+}

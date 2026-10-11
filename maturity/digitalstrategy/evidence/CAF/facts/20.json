@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-16-centrafrique-centre-formation-digital-incubateur-universite-bangui",
+  "facts": [],
+  "systems": [
+    {"system": "stratégie numérique du pays", "country_label": "stratégie numérique", "class": "", "platform": "", "owner": "government of the Central African Republic", "tiers": "mentioned only as the strategy a planned digital development agency would help deploy; no name, content, act or date given"},
+    {"system": "Central African Backbone (national fibre-optic backbone project)", "country_label": "dorsale à fibre optique nationale", "class": "programme", "platform": "", "owner": "financed by the European Union and the African Development Bank; Ministry of Digital Economy, Posts and Telecommunications", "tiers": "national; includes a training centre, a cybersecurity and e-certification platform and technical assistance to create a digital development agency"}
+  ],
+  "note": "Article refers to the country's digital strategy only in passing, without naming or describing it; unclassified."
+}

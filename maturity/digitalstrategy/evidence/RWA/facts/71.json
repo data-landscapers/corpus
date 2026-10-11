@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-09 Rwanda charts a new course for government data sharing",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Sharing Policy", "country_label": "National Data Sharing Policy", "class": "thematic", "platform": "", "owner": "MINICT with RISA", "tiers": "government agencies; described as recently approved"},
+    {"system": "Second National Strategy for Transformation (NST2)", "country_label": "NST2", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Vision 2050", "country_label": "Vision 2050", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Refers to Rwanda's 'digital transformation agenda' only as a phrase, without naming, dating or describing a document, so no fact is recorded."
+}

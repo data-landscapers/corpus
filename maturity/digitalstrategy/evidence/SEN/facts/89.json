@@ -1,0 +1,11 @@
+{
+  "slug": "2023-12-20-senegal-strategie-nationale-des-donnees-snd-2023-2028",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale des Données du Sénégal (SND 2023-2028)", "country_label": "SND 2023-2028", "class": "thematic", "platform": "", "owner": "Government of Senegal", "tiers": "national; data, four strategic orientations, implementation plan to 2028 with monitoring indicators"},
+    {"system": "Sénégal numérique 2025 (SN2025)", "country_label": "SN2025", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national; 'a digital for all and for all uses in 2025', with a dynamic private sector"},
+    {"system": "Plan Sénégal Emergent (PSE)", "country_label": "PSE", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
+    {"system": "Plan Numérique", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named once as a national financing framework in the health-sector section"}
+  ],
+  "note": "Summary of the data strategy (thematic); SN2025 is cited as the ambition the data strategy translates, with no dated fact (adoption, period, cost, report) stated about it."
+}

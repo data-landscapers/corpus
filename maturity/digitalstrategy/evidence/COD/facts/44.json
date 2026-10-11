@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-world-bank-cod-2025-drc-digital-transformation-bw11",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "The deal record gives the National Digital Plan 2026-2030 (PNN2) as a US$1.5 billion envelope: US$1 billion of government public investment plus US$500 million from external partners (World Bank and AFD) already secured; the record dates the commitment to 2025.", "as_of": "2025", "date_precision": "year", "system": "National Digital Plan 2026-2030 (PNN2)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Plan 2026-2030 (PNN2)", "country_label": "PNN2", "class": "national", "platform": "", "owner": "Government of the DRC", "tiers": "national; the record describes the DRC Digital Transformation Project as carrying it, with digital ID, data-sharing, e-signature and payment-gateway deliverables"},
+    {"system": "DRC Digital Transformation Project", "country_label": "", "class": "programme", "platform": "", "owner": "Government of the DRC", "tiers": "national; US$400 million IDA plus EUR 100 million AFD"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2015-01-01-usaid-ken-national-hmis-afyain-2015-national-hmis-program-afyainfo---kenya",
+  "facts": [],
+  "systems": [
+    {"system": "National HMIS Program / AfyaInfo", "country_label": "AfyaInfo", "class": "programme", "platform": "AfyaInfo", "owner": "USAID (US$18,534,492, 2015-2021)", "tiers": "national public health system"}
+  ],
+  "note": "Donor health programme record; no national digital strategy named."
+}

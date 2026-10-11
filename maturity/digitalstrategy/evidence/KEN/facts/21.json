@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-kenya-digital-superhighway-implementation-coordination",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Superhighway", "country_label": "Digital Superhighway", "class": "programme", "platform": "", "owner": "Government of Kenya; State Departments for Broadcasting and Telecommunications and for ICT and the Digital Economy", "tiers": "national"},
+    {"system": "Kenya Digital Economy Acceleration Project (KDEAP)", "country_label": "KDEAP", "class": "programme", "platform": "", "owner": "World Bank-supported", "tiers": "national"}
+  ],
+  "note": "The Digital Superhighway is described as a connectivity programme, not a strategy; its multi-agency review of 2026-09-04 is a programme event."
+}

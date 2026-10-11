@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-16-rwanda-financial-sector-development-strategy-2025-2030-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Financial Sector Development Strategy (FSDS) 2025-2030", "country_label": "FSDS 2025-2030", "class": "ministry-plan", "platform": "", "owner": "Ministry of Finance and Economic Planning", "tiers": "financial sector"},
+    {"system": "National Payment System Framework and Strategy (2018-2024)", "country_label": "National Payment System Framework and Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "payments sector"}
+  ],
+  "note": "Financial-sector and payments strategies only; the passages name no national digital transformation strategy."
+}

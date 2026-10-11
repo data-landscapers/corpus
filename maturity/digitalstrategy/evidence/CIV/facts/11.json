@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-04-wearetech-cote-divoire-700-services-publics-numeriques",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The 3 September 2026 workshop opened work under the national digital development strategy and the PND 2026-2030 toward 700 high-impact digital public services by 2029 (a first portfolio of about 100) and a paper-free administration by 2030; the ministry's action is organised in seven pillars and 40 structuring projects.", "as_of": "2026-09-03", "date_precision": "day", "system": "Stratégie nationale de développement du numérique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de développement du numérique", "country_label": "stratégie nationale de développement du numérique", "class": "national", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "national"},
+    {"system": "Plan national de développement 2026-2030", "country_label": "PND 2026-2030", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"},
+    {"system": "Plateforme nationale d'interopérabilité", "country_label": "plateforme nationale d'interopérabilité", "class": "", "platform": "", "owner": "", "tiers": "public administration"}
+  ],
+  "note": ""
+}

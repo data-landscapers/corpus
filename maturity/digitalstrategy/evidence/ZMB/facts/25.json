@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-16-zambia-govlink-private-4g-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "GovLink Private 4G", "country_label": "GovLink Private 4G network", "class": "", "platform": "private 4G", "owner": "SMART Zambia Institute", "tiers": "national; health facilities first (Ndola, Kitwe, Arthur Davison), then schools and other public institutions"},
+    {"system": "SmartCare Pro", "country_label": "SmartCare Pro", "class": "", "platform": "", "owner": "Ministry of Health and SMART Zambia Institute", "tiers": "more than 2,000 facilities"}
+  ],
+  "note": "Network launch; refers to the digital transformation agenda generically, no strategy document named."
+}

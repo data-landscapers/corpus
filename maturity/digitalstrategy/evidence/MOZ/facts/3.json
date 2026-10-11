@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-24-moz-ecofinagency-unified-digital-platform",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Ecofin Agency reports Mozambique is preparing a National Digital Transformation Strategy with the International Telecommunication Union, having launched the process in February 2026, to coordinate initiatives that now span several strategies and sector projects; as_of is the publication date.", "as_of": "2026-09-24", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "none", "fact": "Ecofin Agency reports the government is still preparing a three-year operational plan to define the actions, results and costs of the digital transformation, and that the plan must still set financing requirements and expected results; as_of is the publication date.", "as_of": "2026-09-24", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Government's 2025-2029 Five-Year Program", "country_label": "Programa Quinquenal do Governo 2025-2029", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "national; calls for unified service portal, standardised systems and common interoperability infrastructure"},
+    {"system": "Interoperability regulatory framework (2017)", "country_label": "", "class": "thematic", "platform": "", "owner": "Government", "tiers": "national; under revision"},
+    {"system": "Three-year operational plan for digital transformation", "country_label": "", "class": "", "platform": "", "owner": "Government", "tiers": "in preparation; scope not described beyond actions, results and costs"}
+  ],
+  "note": ""
+}

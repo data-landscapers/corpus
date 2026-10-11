@@ -1,0 +1,15 @@
+{
+  "slug": "2021-04-29-worldbank-pad3530-warcip-togo-additional-financing",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The World Bank project paper says that in December 2020 a consulting firm was recruited to help the Government of Togo elaborate its Togo Digital Strategy 2025, a strategic study to inform accelerated digital transformation in the country, expected to be completed by summer 2021; no adopting act is mentioned.", "as_of": "2020-12", "date_precision": "month", "system": "Togo Digital Strategy 2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The paper says the technical assistance to deliver the Togo Digital Strategy 2025 is financed under the World Bank's WARCIP project: the winning bid was US$1.36 million against a US$0.6 million budget, and the additional financing covers a US$1.0 million overrun; this is the cost of preparing the strategy, dated by the paper's publication date, 2021-04-29.", "as_of": "2021-04-29", "date_precision": "day", "system": "Togo Digital Strategy 2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The paper says the Ministry of Digital Economy and Digital Transformation (MDEDT) is the body that identified added needs and wants to amend the contract to widen the scope of the Togo Digital Strategy 2025 study (about US$200,000 more); no act or the strategy mandates it, dated by the paper's publication date, 2021-04-29.", "as_of": "2021-04-29", "date_precision": "day", "system": "Togo Digital Strategy 2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Togo Digital Strategy 2025", "country_label": "Togo Digital Strategy 2025 / Digital Togo Strategy 2025", "class": "national", "platform": "", "owner": "Ministry of Digital Economy and Digital Transformation", "tiers": ""},
+    {"system": "Government Roadmap 2020-2025", "country_label": "Government Roadmap 2020-2025", "class": "development-plan", "platform": "", "owner": "Government of Togo", "tiers": ""},
+    {"system": "National Development Plan (PND) 2018-2022", "country_label": "Plan national de développement 2018-2022", "class": "development-plan", "platform": "", "owner": "Government of Togo", "tiers": ""},
+    {"system": "WARCIP Togo Project (APL2)", "country_label": "WARCIP Togo", "class": "programme", "platform": "", "owner": "Government of Togo, World Bank financed", "tiers": ""}
+  ],
+  "note": "The body:mandated fact is weak: the paper names the ministry as the strategy's sponsor, not a mandate by act; the parent may drop it. Roadmap 2020-2025 puts digital transformation at the forefront but is a government-wide roadmap, class development-plan."
+}

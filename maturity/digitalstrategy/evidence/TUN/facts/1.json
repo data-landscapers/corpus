@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-09-tun-tunisienumerique-poste-tunisienne-strategie-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie 2026-2030 de la Poste tunisienne", "country_label": "stratégie de transformation numérique de la Poste tunisienne 2026-2030", "class": "ministry-plan", "platform": "", "owner": "La Poste tunisienne (Office national des postes)", "tiers": "postal operator; five axes named by its CEO"},
+    {"system": "plan de développement à l'horizon 2030", "country_label": "plan de développement", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "minister says digital transformation and AI are essential pillars"}
+  ],
+  "note": "The strategy described is the postal operator's own (ministry-plan); the development plan is named only as having digital pillars. No national-class instrument."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-05-jeune-independant-centre-national-services-numeriques",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "Le Jeune Indépendant reports that President Tebboune inaugurated the National Algerian Digital Services Centre on 5 July 2026, and that an AI data centre opened at Oran in March 2025 to support the national digital transformation strategy; no target is cited.", "as_of": "2026-07-05", "date_precision": "day", "system": "Stratégie nationale de transformation numérique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Centre national algérien des services numériques", "country_label": "Centre national algérien des services numériques", "class": "thematic", "platform": "Huawei servers, storage and network technology", "owner": "State, with Huawei partnership", "tiers": "national; data centres at Algiers and Blida"}
+  ],
+  "note": ""
+}

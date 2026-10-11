@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-26-nga-leadership-nitda-higher-value-digital-jobs",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Cloud First Policy", "country_label": "Cloud First Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Project BRIDGE", "country_label": "Project BRIDGE", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The phrase 'digital economy strategy' is used generically; no named national digital strategy with a dated fact."
+}

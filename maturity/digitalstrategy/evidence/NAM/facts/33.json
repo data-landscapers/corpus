@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-10-towards-5g-enabled-digitalized-namibia-2026-telecomreviewafrica",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Telecom Review Africa says the National Digital Strategy (NDS) was 'launched in 2025', with no adopting act or body named, and groups it with the Sixth National Development Plan as national plans charting digital infrastructure and e-government transformation through 2025/26 to 2029/30.", "as_of": "2025", "date_precision": "year", "system": "National Digital Strategy (NDS)", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Strategy (NDS)", "country_label": "National Digital Strategy", "class": "", "platform": "", "owner": "", "tiers": "launched 2025; scope described only as digital infrastructure and e-government transformation, jointly with NDP6"},
+    {"system": "Digital Government Strategic Roadmap 2024-2026", "country_label": "Digital Government Strategic Roadmap 'Digital First Services for All'", "class": "government", "platform": "", "owner": "Office of the Prime Minister", "tiers": "six pillars including digital identity, interoperability and cybersecurity; target of digital IDs for at least 25% of the population by 2026"},
+    {"system": "Sixth National Development Plan (NDP6)", "country_label": "Sixth National Development Plan", "class": "development-plan", "platform": "", "owner": "", "tiers": "target of raising internet use from 53% to 90% by 2030"}
+  ],
+  "note": "The National Digital Strategy's own scope is not described, so its class is left empty."
+}

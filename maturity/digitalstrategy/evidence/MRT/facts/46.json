@@ -1,0 +1,11 @@
+{
+  "slug": "2024-06-10-mtnima-plateforme-nationale-temekoun-competences-numeriques-fonction-publique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "On 10 June 2024 the minister announced the launch of the Temekoun digital-skills project for civil servants, saying it falls under the 'Développement des Compétences Numériques' lever of the Agenda Numérique National 2022-2025; the article gives no target or measured result.", "as_of": "2024-06-10", "date_precision": "day", "system": "Agenda Numérique National 2022-2025", "class": ""}
+  ],
+  "systems": [
+    {"system": "Agenda Numérique National 2022-2025", "country_label": "Agenda Numérique National 2022-2025", "class": "", "platform": "", "owner": "MTNIMA", "tiers": "national; has a lever called 'Développement des Compétences Numériques'; German cooperation supports it"},
+    {"system": "Temekoun", "country_label": "plateforme nationale Tamekoun / Temekoun", "class": "programme", "platform": "", "owner": "MTNIMA with GIZ", "tiers": "national; civil service digital skills and certification"}
+  ],
+  "note": "The scope of the agenda is not described beyond its levers, so class is empty; the activity claim is recorded with class empty."
+}

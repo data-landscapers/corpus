@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-02-tun-tunisienumerique-pacte-national-sante-signe",
+  "facts": [],
+  "systems": [
+    {"system": "Pacte national de la santé", "country_label": "Pacte national de la santé", "class": "thematic", "platform": "", "owner": "Ministry of Health and Ministry of Communication Technologies, with Japan, WHO and World Bank", "tiers": "health sector; signed 1 October 2026; six axes with digital transformation as a lever"},
+    {"system": "Déclaration de Tunis", "country_label": "Déclaration de Tunis", "class": "thematic", "platform": "", "owner": "Ministry of Health (digital health summit)", "tiers": "digital health roadmap"}
+  ],
+  "note": "A sector health pact, not a national digital strategy; no national-class instrument."
+}

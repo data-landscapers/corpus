@@ -1,0 +1,12 @@
+{
+  "slug": "2025-09-10 Mauritius Digital Transformation 2025-2029 - A Blueprint and New Digital Regulations",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Economic Development Board reports that 'the Government of Mauritius has unveiled' A Blueprint for Mauritius - A Bridge to the Future (2025-2029), a plan to modernise the national digital ecosystem; no adopting act or body beyond the Government is named, and no unveiling date is given, so the page's published date is used.", "as_of": "2025-09-10", "date_precision": "day", "system": "A Blueprint for Mauritius - A Bridge to the Future (2025-2029)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "A Blueprint for Mauritius - A Bridge to the Future (2025-2029)", "country_label": "Digital Transformation 2025-2029 Blueprint", "class": "national", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national; digital ecosystem, regulations, unified government portal, mobile ID, SME programmes"},
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation (AI Unit)", "tiers": "national"},
+    {"system": "Unified government portal and mobile ID", "country_label": "unified government portal; mobile ID", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"}
+  ],
+  "note": "Classed national from the page's description of a plan to modernise the national digital ecosystem, spanning regulation, government services and SME programmes. It states the Minister announced on 21 August 2025 that new digital regulations would follow."
+}

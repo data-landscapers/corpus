@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-01-cabo-verde-estrategia-economia-digital-eedcv",
+  "facts": [],
+  "systems": [
+    {"system": "ESTRATÉGIA DA ECONOMIA DIGITAL DE CABO VERDE (EEDCV)", "country_label": "Estratégia da Economia Digital de Cabo Verde", "class": "national", "platform": "", "owner": "Ministério da Economia Digital", "tiers": "Pillars on digital infrastructure (including public digital infrastructure), skills and brain gain, and market and innovation; dated September 2024"},
+    {"system": "PEDS II", "country_label": "Plano Estratégico de Desenvolvimento Sustentável II (PEDS II)", "class": "development-plan", "platform": "", "owner": "", "tiers": "Has a digital economy section"}
+  ],
+  "note": "Passages hold only the cover and contents (dated Setembro de 2024): no adoption act, period, delivery plan or reporting is stated, so no fact. EEDCV classed national on its pillar list, which spans infrastructure, skills and the market; its coverage of the state's own services rests on one objective (ID 1, public digital infrastructure), so the class is the parent's to confirm."
+}

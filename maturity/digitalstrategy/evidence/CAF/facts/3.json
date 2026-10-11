@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-26-caf-orange-linkedin-services-publics-numeriques",
+  "facts": [],
+  "systems": [
+    {"system": "stratégies de transformation numérique gouvernementale (strategy for the digital transformation of the public administration)", "country_label": "stratégie de transformation numérique gouvernementale", "class": "government", "platform": "", "owner": "Projet de Gouvernance Numérique du Secteur Public (PGNSP), technical assistance with Sofrecom", "tiers": "public administration; validated at a workshop in Bangui on 2026-08-26"},
+    {"system": "stratégie de facilitation de l'accès aux services numériques (strategy for access to digital public services)", "country_label": "stratégie de facilitation de l'accès aux services numériques", "class": "government", "platform": "", "owner": "Projet de Gouvernance Numérique du Secteur Public (PGNSP)", "tiers": "citizen access to digital public services; validated at a workshop in Bangui on 2026-08-26"}
+  ],
+  "note": "The post describes a restitution and validation workshop for two strategies covering the state's administration and its services only; class government, so no national-class fact."
+}

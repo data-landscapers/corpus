@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia",
+  "facts": [],
+  "systems": [
+    {"system": "Livro Branco das TIC (ICT White Paper)", "country_label": "Livro-Branco das TIC", "class": "sector-ict", "platform": "", "owner": "MINTTICS", "tiers": "national; cited by the UNESCO readiness assessment as a strategic document it analysed"},
+    {"system": "National AI Strategy (Estratégia Nacional de IA)", "country_label": "Estratégia Nacional de IA", "class": "thematic", "platform": "", "owner": "", "tiers": "the UNESCO assessment, presented 30 June 2026, identifies the absence of a specific guiding instrument for AI"}
+  ],
+  "note": "UNESCO AI readiness assessment; states no national digital transformation strategy."
+}

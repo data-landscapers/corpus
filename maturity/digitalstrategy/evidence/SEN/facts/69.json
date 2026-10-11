@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-12-digital-schools-sonatel-mou",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "We Are Tech Africa describes the \"Technological New Deal\" as the government's \"recently launched\" digital strategy, naming no act or adopting body; the article's date is used because it gives no launch date.", "as_of": "2025-03-12", "date_precision": "day", "system": "Technological New Deal", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Technological New Deal", "country_label": "", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national; includes training 100,000 digital graduates and STEM in all educational cycles"},
+    {"system": "Digital Schools programme", "country_label": "", "class": "programme", "platform": "", "owner": "Ministry of National Education with Sonatel Foundation", "tiers": "120 elementary schools"},
+    {"system": "$206 million education infrastructure modernisation strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "Government of Senegal", "tiers": "education sector"}
+  ],
+  "note": "Article calls the New Deal the government's recently launched digital strategy; the class national rests on its stated scope (digital training and education targets across cycles) plus the strategy's description elsewhere only partly; no period, plan cost or report."
+}

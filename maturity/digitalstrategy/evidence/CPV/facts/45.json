@@ -1,0 +1,11 @@
+{
+  "slug": "2020-10-22-cabo-verde-world-bank-digital-cabo-verde-project-appraisal-document",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Cabo Verde Program", "country_label": "Digital Cabo Verde Program", "class": "programme", "platform": "", "owner": "Government of Cabo Verde", "tiers": "Adopted December 2019 to foster an innovation ecosystem and support digital entrepreneurs"},
+    {"system": "Digital Cabo Verde Project (P171099)", "country_label": "Digital Cabo Verde Project", "class": "programme", "platform": "", "owner": "Directorate of Telecommunications and Digital Economy, Ministry of Finance; IDA credit of US$20.0 million", "tiers": ""},
+    {"system": "Strategic Plan for Sustainable Development (PEDS) 2017-2021", "country_label": "PEDS 2017-2021", "class": "development-plan", "platform": "", "owner": "Government of Cabo Verde", "tiers": "Names digital services and innovation as one of seven strategic sectors"},
+    {"system": "National Cybersecurity Strategy (NCS) 2016-2020", "country_label": "Estratégia Nacional de Cibersegurança", "class": "thematic", "platform": "", "owner": "Government of Cabo Verde", "tiers": ""}
+  ],
+  "note": "The October 2020 appraisal says the coordination of digital initiatives could be achieved by developing an overarching digital economy strategy with an action plan; it does not state that none exists, so no fact is recorded. It lists a National Commission for Digital Strategy (CNED) only in its acronyms."
+}

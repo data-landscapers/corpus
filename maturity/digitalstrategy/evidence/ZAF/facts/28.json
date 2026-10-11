@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-11-sa-dcdt-2050-digital-economy-vision-tender",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Transformation Roadmap", "country_label": "National Digital Transformation Roadmap", "class": "", "platform": "", "owner": "Government of South Africa", "tiers": "national; named in a DCDT tender, no date or scope given"},
+    {"system": "Digital Economy Masterplan", "country_label": "Digital Economy Masterplan", "class": "", "platform": "", "owner": "", "tiers": "national; named in a DCDT tender as identifying four processes shaping the sector, no date, owner or adoption given"},
+    {"system": "South Africa's 2050 digital economy vision", "country_label": "2050 digital economy vision", "class": "", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; DCDT tender (August 2026) for ICT indicators, modelling and scenarios to support it"}
+  ],
+  "note": "Tender digest naming three national documents without describing their scope or stating adoption, period, cost or reports; no fact."
+}

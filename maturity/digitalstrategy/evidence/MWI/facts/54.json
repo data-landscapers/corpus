@@ -1,0 +1,12 @@
+{
+  "slug": "2025-06-01-mwi-national-conference-report-e-justice-in-malawi",
+  "facts": [],
+  "systems": [
+    {"system": "National Digitisation Policy 2023-2028", "country_label": "National Digitisation Policy", "class": "", "platform": "", "owner": "Department of E-Government (presented by its Director, Paul Katema)", "tiers": "national; eight priority areas listed: infrastructure, universal access, ICT governance, digital government, ICT legal and regulatory environment, research and innovation, human capital, cyber security resilience"},
+    {"system": "Malawi 2063 Vision", "country_label": "Malawi 2063 vision", "class": "", "platform": "", "owner": "", "tiers": "national; named as identifying digitalisation and technology as enablers"},
+    {"system": "E-Justice Strategy Malawi (roadmap annexed to the conference report)", "country_label": "E-Justice Strategy", "class": "thematic", "platform": "", "owner": "Judiciary of Malawi with UNDP support", "tiers": "justice sector"},
+    {"system": "Judiciary Strategic Plan 2019-2024", "country_label": "Strategic Plan, 2019-2024", "class": "ministry-plan", "platform": "", "owner": "Judiciary of Malawi", "tiers": "judiciary"},
+    {"system": "Judiciary ICT policy", "country_label": "Malawi judiciary's ICT policy", "class": "ministry-plan", "platform": "", "owner": "Judiciary of Malawi", "tiers": "judiciary"}
+  ],
+  "note": "No fact recorded: the National Digitisation Policy 2023-2028 is named with its period and priority areas, but this report states no adoption act or verb, does not say the text is public, and does not say it was adopted by the government as a whole, so standing and period cannot be valued and class is left empty. The Director of E-Government calls it a 'blueprint'; the report also says a 'Digital Transformation Agenda' exists without naming a document. Conference sat 17-18 September 2024."
+}

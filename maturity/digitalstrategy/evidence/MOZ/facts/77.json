@@ -1,0 +1,9 @@
+{
+  "slug": "2024-08-14-jembi-birth-registration-interoperability",
+  "facts": [],
+  "systems": [
+    {"system": "Government 5-year Program (PQG) 2020-2024", "country_label": "Programa Quinquenal do Governo (PQG) 2020-2024", "class": "development-plan", "platform": "", "owner": "Government of Mozambique", "tiers": ""},
+    {"system": "e-government strategy", "country_label": "e-government strategy", "class": "", "platform": "", "owner": "Government of Mozambique", "tiers": ""}
+  ],
+  "note": "The e-government strategy is named once with no date and no description of scope, so there is no fact; the rest concerns birth-registration interoperability."
+}

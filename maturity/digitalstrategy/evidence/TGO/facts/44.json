@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-03-togo-data-lab-expansion-google-org-cega",
+  "facts": [],
+  "systems": [
+    {"system": "Togo Digital Strategy 2025", "country_label": "Togo Digital Strategy 2025", "class": "national", "platform": "", "owner": "Ministry of Public Service Efficiency and Digital Transformation", "tiers": "all sectors"},
+    {"system": "Togo Data Lab", "country_label": "Togo Data Lab (TDL)", "class": "programme", "platform": "", "owner": "CEGA and the Ministry, Google.org funded", "tiers": ""}
+  ],
+  "note": "A boilerplate paragraph calls the Togo Digital Strategy 2025 a 'key achievement' and a comprehensive roadmap driving digital adoption across all sectors; it gives no adoption verb, act, period, plan or report, so no fact."
+}

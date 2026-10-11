@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Schéma Directeur National de Santé Numérique", "country_label": "Schéma Directeur National de Santé Numérique", "class": "thematic", "platform": "", "owner": "", "tiers": "A national digital health instrument, validated 28-30 May 2025 per the directory; primary text not located."}
+  ],
+  "note": "Directory of digital health strategies; its only Niger entry is a health-sector instrument, not a national digital strategy, so no fact is recorded (class thematic is the parent's call as the typology lists no health class)."
+}

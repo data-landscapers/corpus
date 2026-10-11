@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-19 South Sudan orders full digitization of public institutions",
+  "facts": [],
+  "systems": [
+    {"system": "Presidential decree of 17 December 2025 granting the Electronic Services Council authority to digitise all government institutions", "country_label": "", "class": "directive", "platform": "", "owner": "President Salva Kiir; Electronic Services Council", "tiers": "all public institutions, to adopt digital systems by January 2026"},
+    {"system": "National E-Government Framework", "country_label": "", "class": "government", "platform": "", "owner": "Developed by the private service provider under contract with the Ministry of Information and Communications Technology and Postal Services", "tiers": "guides the rollout of digital government initiatives; the article gives no adopting act, period or date"}
+  ],
+  "note": "A decree to digitalise (directive) and a service-provider-authored e-government framework (government); no national strategy stated."
+}

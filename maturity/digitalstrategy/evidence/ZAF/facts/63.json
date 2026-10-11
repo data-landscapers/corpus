@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-21 South Africa's digital ID gets a targeted launch date",
+  "facts": [],
+  "systems": [
+    {"system": "Department of Home Affairs Annual Performance Plan 2026/27", "country_label": "Annual Performance Plan 2026/2027", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental; tabled in parliament 30 March 2026"},
+    {"system": "National digital identity system", "country_label": "national digital identity system", "class": "programme", "platform": "PKI, certificate authority, digital wallet hosted in SARS environment", "owner": "Department of Home Affairs", "tiers": "national; hosting due 31 March 2027, full platform 2027/28"},
+    {"system": "Digital transformation pact (Home Affairs, SARS, BMA, GPW)", "country_label": "digital transformation pact", "class": "programme", "platform": "", "owner": "Home Affairs, SARS, Border Management Authority, Government Printing Works", "tiers": "signed April 2025"}
+  ],
+  "note": "The article says the President placed digital ID at the centre of government's digital transformation agenda but names no national strategy document."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-01-tsowa-nigerian-responsible-ai-governance-framework",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Economy Policy and Strategy", "country_label": "National Digital Economy Policy and Strategy", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Nigerian Responsible AI Governance Framework (N-RAIGF)", "country_label": "Nigerian Responsible AI Governance Framework", "class": "thematic", "platform": "", "owner": "Babangida Tsowa (author; a proposal, not government policy)", "tiers": "public institutions"}
+  ],
+  "note": "A private white paper (a proposal, claiming no government adoption) that cites the National Digital Economy Policy and Strategy as providing 'the broader modernization direction'; no date, period or adoption is given, so no fact."
+}

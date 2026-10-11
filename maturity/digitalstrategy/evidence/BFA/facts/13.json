@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-17-national-ai-roadmap-2026-2030-validated-techafricanews",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The document states that Burkina Faso's digital transformation agenda comprises twelve flagship projects, one of which is the \"AI for All\" initiative; it gives no costs, and states this at the 17 June 2026 AI roadmap validation workshop.", "as_of": "2026-06-17", "date_precision": "day", "system": "digital transformation agenda", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Roadmap 2026-2030", "country_label": "Feuille de route nationale de l'intelligence artificielle 2026-2030", "class": "thematic", "platform": "", "owner": "Ministry of Digital Transition, Postal and Electronic Communications (SPIVTEN)", "tiers": "National; validated at a workshop on 17 June 2026, not yet adopted"},
+    {"system": "AI for All", "country_label": "L'IA au service de tous", "class": "thematic", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "One of twelve flagship projects of the digital transformation agenda"},
+    {"system": "RELANCE Plan 2026-2030", "country_label": "Plan RELANCE 2026-2030", "class": "", "platform": "", "owner": "", "tiers": "National"}
+  ],
+  "note": "Concerns the AI roadmap (thematic); the one fact is about the twelve-flagship digital transformation agenda, class empty because the document does not describe the agenda's scope."
+}

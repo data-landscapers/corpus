@@ -1,0 +1,13 @@
+{
+  "slug": "2021-12-27-cpv-bo-retificacao-190-2021-egdcv-republicacao",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Boletim Oficial of 27 December 2021 states that Resolução n.º 113/2021 approves the Estratégia para a Governação Digital de Cabo Verde, first published in BO n.º 123 (Suplemento) of 14 December 2021 and corrected and republished in full by Retificação n.º 190/2021.", "as_of": "2021-12-14", "date_precision": "day", "system": "Estratégia para a Governação Digital de Cabo Verde 2021-2024", "class": ""},
+    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The gazette gives the strategy's period as 2021 to 2024, which had ended by October 2026, and republishes it in full in the Boletim Oficial of 27 December 2021 at boe.incv.cv. Text public: yes.", "as_of": "2021-12-27", "date_precision": "day", "system": "Estratégia para a Governação Digital de Cabo Verde 2021-2024", "class": ""}
+  ],
+  "systems": [
+    {"system": "Estratégia para a Governação Digital de Cabo Verde 2021-2024", "country_label": "Estratégia para a Governação Digital de Cabo Verde", "class": "", "platform": "", "owner": "Government of Cabo Verde", "tiers": "Approved by Resolução n.º 113/2021, first published in BO n.º 123 I Série Suplemento of 14 December 2021 and republished in full by Retificação n.º 190/2021 in BO n.º 126 of 27 December 2021"},
+    {"system": "Agenda Digital 2019-21", "country_label": "Agenda Digital 2019-21", "class": "", "platform": "", "owner": "", "tiers": "Passage says it aims to foster an innovation and entrepreneurship ecosystem"},
+    {"system": "Resolução n.º 54/2020", "country_label": "Agenda Digital, Resolução n.º 54/2020", "class": "", "platform": "", "owner": "", "tiers": "Cited with PEDS and the Agenda Digital among instruments the strategy articulates with"}
+  ],
+  "note": "Facts added on the second pass; their class is empty because the document does not describe the strategy's scope (the passages hold only the index and fragments)."
+}

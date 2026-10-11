@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-31-von-nigeria-sovereign-ai-gitex",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Cloud Policy", "country_label": "National Digital Cloud Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Project BRIDGE", "country_label": "Project Bridge", "class": "programme", "platform": "", "owner": "Federal Government", "tiers": "states, local government areas and wards"},
+    {"system": "3 Million Technical Talent programme (3MTT)", "country_label": "3MTT", "class": "programme", "platform": "", "owner": "", "tiers": "774 local government areas"}
+  ],
+  "note": "The Secretary to the Government speaks of the Federal Government's 'digital transformation agenda' implemented through reforms, naming no document and giving no date, period, cost or report."
+}

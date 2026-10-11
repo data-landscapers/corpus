@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-20-kenya-ict-budget-policy-statement-techafricanews",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The ICT ministry's 2026 Budget Policy Statement, presented to the National Assembly committee on 17 February 2026, was aligned with the Kenya National Digital Master Plan (2022-2032); the report does not say whether the plan's text is public.", "as_of": "2026-02-17", "date_precision": "day", "system": "Kenya National Digital Master Plan (2022-2032)", "class": ""}
+  ],
+  "systems": [
+    {"system": "Kenya National Digital Master Plan (2022-2032)", "country_label": "Kenya National Digital Master Plan", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Kenya Digital Economy Blueprint", "country_label": "Digital Economy Blueprint", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Fourth Medium-Term Plan (MTP IV, 2023-2027)", "country_label": "MTP IV", "class": "development-plan", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Government and Digital Service Delivery Strategy", "country_label": "Government and Digital Service Delivery Strategy", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+  ],
+  "note": "The Digital Master Plan is named with a dated period but its scope is not described, so class is left empty; the period fact uses the 17 February 2026 presentation date."
+}

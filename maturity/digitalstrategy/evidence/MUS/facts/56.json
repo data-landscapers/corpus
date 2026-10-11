@@ -1,0 +1,31 @@
+{
+ "slug": "2026-07-14-ai-enabled-water-leakage-reporting-korek",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government's digital transformation agenda",
+   "country_label": "digital transformation agenda",
+   "class": "",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "KOREK! App",
+   "country_label": "KOREK!",
+   "class": "",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": "citizens"
+  },
+  {
+   "system": "AI-enabled water leakage reporting service",
+   "country_label": "water leakage reporting",
+   "class": "",
+   "platform": "",
+   "owner": "Central Water Authority / MITCI",
+   "tiers": ""
+  }
+ ],
+ "note": "KOREK! is called a pillar of an unnamed digital transformation agenda; no strategy named or dated."
+}

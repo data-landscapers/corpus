@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Health Strategy (2025)", "country_label": "Estratégia de Saúde Digital", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "national; plans rural pilots"},
+    {"system": "National SIRCEV plan 2019-2029", "country_label": "SIRCEV", "class": "thematic", "platform": "", "owner": "Government", "tiers": "national; civil registration, target 80% birth registration"}
+  ],
+  "note": "Rural-digitisation assessment by the author; it refers to a Mozambican 'Digital Strategy' only in passing, without date or scope, so no fact is recorded."
+}

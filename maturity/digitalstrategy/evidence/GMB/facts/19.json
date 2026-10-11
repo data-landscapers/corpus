@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-01-gambia-mocde-cstd29-statement-ai",
+  "facts": [],
+  "systems": [
+    {"system": "Recovery Focused National Development Plan 2023-2027 (RF-NDP)", "country_label": "RF-NDP 2023-2027", "class": "development-plan", "platform": "", "owner": "Government of The Gambia", "tiers": "national"},
+    {"system": "National AI Policy and Strategy", "country_label": "National AI Policy and Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; under development, April 2026"},
+    {"system": "National Data Policy", "country_label": "National Data Policy", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; validated 2025"},
+    {"system": "Open Data Strategy 2024-2027", "country_label": "Open Data Strategy 2024-2027", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national"},
+    {"system": "National enterprise architecture framework", "country_label": "national enterprise architecture framework", "class": "government", "platform": "", "owner": "GICTA", "tiers": "interoperability across government systems"}
+  ],
+  "note": "Ministry statement to the UN: says digital transformation is a central pillar of the RF-NDP 2023-2027 and that a National AI Policy and Strategy is being developed; names no national digital strategy."
+}

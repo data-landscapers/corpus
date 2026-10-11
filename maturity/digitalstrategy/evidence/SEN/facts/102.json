@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-10-sen-seneweb-plan-formation-numerique-agents-etat",
+  "facts": [],
+  "systems": [
+    {"system": "stratégie nationale de transformation numérique de l'administration publique", "country_label": "stratégie nationale de transformation numérique de l'administration publique", "class": "government", "platform": "", "owner": "Ministry of the Civil Service, Labour and Public Service Reform with the Ministry of Telecommunications and Digital Affairs", "tiers": "public administration"},
+    {"system": "Plan de formation au numérique des agents de l'Etat", "country_label": "Plan de formation au numérique des agents de l'Etat", "class": "ministry-plan", "platform": "", "owner": "Ministry of the Civil Service with the Ministry of Telecommunications and Digital Affairs; UNCHK (FORCE-N programme)", "tiers": "state employees; multi-year; national validation workshop 10 September 2026"}
+  ],
+  "note": "Article concerns a training plan under the government-administration strategy; no dated fact about a national (whole-government) strategy."
+}

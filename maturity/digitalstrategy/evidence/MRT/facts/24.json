@@ -1,0 +1,13 @@
+{
+  "slug": "2023-12-01-mtnima-politique-nationale-participation-electronique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The ESCWA-drafted e-participation policy document says the Mauritanian Government 'a élaboré et approuvé en 2022' a national Digital Transformation Agenda 2022-2025; the document names no further act, decree or council.", "as_of": "2022", "date_precision": "year", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The document states the agenda's global objectives for 2025 against 2021: digital value added from 350 million dollars (4.5% of GDP) to 700 million (8%), formal jobs from 5,000 to 15,000, and internet users from 25% to 65% of individuals, and lists 13 projects in four key initiatives; it gives no cost.", "as_of": "2023-12", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Agenda National de Transformation Numérique 2022-2025", "country_label": "Agenda National de Transformation Numérique 2022-2025", "class": "national", "platform": "", "owner": "Ministère de la Transformation Numérique, de l'Innovation et de la Modernisation de l'Administration (MTNIMA), drafted with ESCWA", "tiers": "national; digital governance, infrastructure and open government axes, 13 projects"},
+    {"system": "Stratégie de Croissance Accélérée et de Prospérité Partagée (SCAPP) 2016-2030", "country_label": "SCAPP 2016-2030", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Politique Nationale de Participation Electronique", "country_label": "Politique nationale de participation électronique (draft, December 2023)", "class": "thematic", "platform": "", "owner": "MTNIMA with ESCWA", "tiers": "national; steering committee and coordination committee proposed"}
+  ],
+  "note": "The excerpt stops at 50,000 characters, mid-section 7. Class national follows the document's description of the agenda (infrastructure, digital governance, open government, digital economy and jobs targets)."
+}

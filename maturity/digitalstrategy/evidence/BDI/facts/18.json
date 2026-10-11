@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-23-pafen-evaluation-mi-parcours-transformation-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Projet d'Appui aux Fondations de l'Économie Numérique (PAFEN)", "country_label": "PAFEN", "class": "programme", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy, with the World Bank", "tiers": "national; 61% of budget committed at the 23 March 2026 mid-term review, horizon 2028"},
+    {"system": "Vision Burundi 2040-2060", "country_label": "Vision Burundi 2040-2060", "class": "development-plan", "platform": "", "owner": "Government of Burundi", "tiers": "national"}
+  ],
+  "note": "The document reports on a World Bank-supported project; it states no national digital strategy."
+}

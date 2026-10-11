@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-senum-transformation-digitale-administration",
+  "facts": [],
+  "systems": [
+    {"system": "stratégie numérique du MCTN", "country_label": "stratégie numérique du MCTN", "class": "ministry-plan", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital Affairs (MCTN)", "tiers": "SENUM presents itself as its operational arm; scope not otherwise described"},
+    {"system": "stratégie de digitalisation de l'État", "country_label": "stratégie de digitalisation de l'état", "class": "government", "platform": "", "owner": "Government of Senegal; SENUM SA as executive arm", "tiers": "state administration"},
+    {"system": "Schéma Directeur SI Gouvernemental", "country_label": "Schéma Directeur SI Gouvernemental", "class": "government", "platform": "", "owner": "SENUM SA", "tiers": "government information systems"}
+  ],
+  "note": "SENUM presentation to the Presidency (passages only); names strategies with no date, period, plan cost or report."
+}

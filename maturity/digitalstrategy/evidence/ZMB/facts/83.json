@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-10-zambia-gewel2-additional-financing-project-paper",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Strategy for SP (Ministry of Community Development and Social Services)", "country_label": "Digital Strategy for Social Protection", "class": "ministry-plan", "platform": "", "owner": "Ministry of Community Development and Social Services", "tiers": "the ministry; stated to be in final draft, validation planned for November 2025"},
+    {"system": "Zambia Social Registry", "country_label": "", "class": "programme", "platform": "", "owner": "GRZ; Cabinet Memorandum approved April 2025, concept note endorsed September 2025", "tiers": "national social protection"},
+    {"system": "Digital Zambia Acceleration Project (P505094)", "country_label": "", "class": "programme", "platform": "", "owner": "World Bank financed", "tiers": "national; described as recently approved"}
+  ],
+  "note": "The only strategy named is a ministry's own digital strategy (class ministry-plan); no national digital strategy is stated."
+}

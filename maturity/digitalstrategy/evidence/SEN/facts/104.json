@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-01-senegal-national-cybersecurity-authority-law",
+  "facts": [],
+  "systems": [
+    {"system": "projet de loi relatif à la protection des Infrastructures d'Information critiques et à la sécurité numérique", "country_label": "", "class": "thematic", "platform": "", "owner": "National Assembly; Ministry of Telecommunications and Digital Affairs", "tiers": "cybersecurity; adopted in plenary 20 August 2026 and creates the Autorité nationale de Cybersécurité"},
+    {"system": "stratégie numérique du pays", "country_label": "stratégie numérique", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "named as the frame of the law, which it says treats protection of sensitive data, essential services and critical infrastructure as a digital-sovereignty stake; no date or description of coverage"}
+  ],
+  "note": "Cybersecurity law report; no dated fact about a national strategy."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-20-home-affairs-828m-digital-id-budget",
+  "facts": [],
+  "systems": [
+    {"system": "MyMzansi DPI Roadmap", "country_label": "MyMzansi DPI Roadmap", "class": "government", "platform": "", "owner": "Government of South Africa", "tiers": "national; described as guiding the digital transformation programme to streamline public service delivery"},
+    {"system": "Department of Home Affairs digital transformation agenda", "country_label": "digital transformation agenda / vision", "class": "", "platform": "", "owner": "Department of Home Affairs", "tiers": "national department; named only; USD 828 million (ZAR 13.8 billion) tabled for 2026/27 for Smart IDs, digital visa and national digital ID, after USD 615 million requested the year before"}
+  ],
+  "note": "Class government for the MyMzansi roadmap because the article describes it as streamlining public service delivery; no adoption, period, cost or report is stated for it."
+}

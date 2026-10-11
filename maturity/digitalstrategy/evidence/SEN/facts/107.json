@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-10-aps-bignona-mairie-haut-debit-satellitaire",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "APS, on 10 April 2026, says the government aims, through the New Deal technologique, to connect one million Senegalese to the Internet free of charge by the end of 2026; no cost is given.", "as_of": "2026-04-10", "date_precision": "day", "system": "New Deal technologique", "class": ""}
+  ],
+  "systems": [
+    {"system": "New Deal technologique", "country_label": "New Deal technologique", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "the article cites it for a universal-connectivity policy; its overall scope is not described"},
+    {"system": "politique de connectivité universelle", "country_label": "politique de connectivité universelle", "class": "thematic", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital Affairs", "tiers": "connectivity; satellite kits installed at three Bignona institutions on 9 April 2026"},
+    {"system": "plan numérique territorial (Bignona)", "country_label": "", "class": "regional", "platform": "", "owner": "Bignona departmental council, requested by the minister", "tiers": "department; requested, not yet drawn up"}
+  ],
+  "note": "The article describes only the New Deal's connectivity target, not its scope, so class is empty."
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-10-eswatini-data-governance-policy-year-end",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Governance Policy",
+   "country_label": "National Data Governance Policy",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  },
+  {
+   "system": "Government in Your Hand",
+   "country_label": "Government in Your Hand mobile application",
+   "class": "",
+   "platform": "mobile application",
+   "owner": "Ministry of ICT",
+   "tiers": "expanded with six services in Q1 2026/27"
+  }
+ ],
+ "note": "Names only a thematic data policy in development, expected by end-2026; no national digital strategy stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-26-ptn-dement-lancement-drcpass-actualite",
+  "facts": [],
+  "systems": [
+    {"system": "DRCPass", "country_label": "DRCPass", "class": "programme", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Affairs with Trident Digital Tech", "tiers": "national; called a pillar of the national digital strategy; PPP signed 19 June 2025, not yet launched on 26 June 2025"},
+    {"system": "Stratégie numérique nationale", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named only as the strategy DRCPass is a pillar of, with no description"},
+    {"system": "Système National d'Identification Numérique (SNIN)", "country_label": "SNIN", "class": "programme", "platform": "", "owner": "Government", "tiers": "national"}
+  ],
+  "note": "Ministry denial of an ID launch; the national strategy is named without description."
+}

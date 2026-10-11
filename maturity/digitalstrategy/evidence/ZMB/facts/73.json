@@ -1,0 +1,12 @@
+{
+  "slug": "2023-08-17-national-electronic-government-plan-2023-2026-zambia",
+  "facts": [],
+  "systems": [
+    {"system": "National Electronic Government Plan 2023-2026", "country_label": "NeGP", "class": "government", "platform": "", "owner": "Electronic Government Division, Office of the President (Smart Zambia Institute); steering committee chaired by the Secretary to the Cabinet", "tiers": "public bodies; strategy for digitalising public-sector administration and services"},
+    {"system": "National Electronic Government Master Plan 2018-2030", "country_label": "e-Government Master Plan 2030", "class": "government", "platform": "", "owner": "", "tiers": "public sector; named as the plan the NeGP builds on"},
+    {"system": "Eighth National Development Plan (8NDP)", "country_label": "8NDP", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; named as the source of the digital transformation agenda"},
+    {"system": "National Cyber Security Policy 2021", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national; described as launched in 2021"},
+    {"system": "National ICT Policy", "country_label": "", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national; stated to be under review"}
+  ],
+  "note": "The NeGP covers the state's own administration and services (seven e-Government thematic areas), so it is class government and gives no fact."
+}

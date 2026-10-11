@@ -1,0 +1,11 @@
+{
+  "slug": "2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Somalia e-Government Strategy and Implementation Roadmap 2025-2029", "country_label": "Somalia e-Government Strategy 2025 / National e-Government Strategy and Roadmap", "class": "government", "platform": "", "owner": "Ministry of Communications and Technology (e-Government Department), with a National e-Government Coordination Committee", "tiers": "federal government ministries, departments and agencies; the text describes it as a strategy to digitalise public services"},
+    {"system": "National ICT Policy and Strategy 2019-2024", "country_label": "Somalia National ICT Policy and Strategy (2019-2024)", "class": "sector-ict", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": "national; the text says the cabinet adopted a new five-year ICT Policy on 28 November 2019"},
+    {"system": "National Transformation Plan 2025-2029", "country_label": "National Transformation Plan (NTP) 2025-2029", "class": "development-plan", "platform": "", "owner": "Government of Somalia (Ministry of Planning)", "tiers": "national; the e-government thrusts are mapped to its four pillars"},
+    {"system": "Somali Infrastructure Strategic Plan 2019-2063", "country_label": "Somali Infrastructure Strategic Plan (2019-2063)", "class": "thematic", "platform": "", "owner": "", "tiers": "national; mobile coverage and ICT infrastructure"}
+  ],
+  "note": "Whole document read. The e-Government strategy is classed government: it is a strategy for digitalising public services (vision: effective government through digitisation of service delivery). It states no adoption act, no cost figure and no reporting. No fact is recorded because no document of class national appears in it."
+}

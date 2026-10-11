@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",
+  "facts": [],
+  "systems": [
+    {"system": "Law Regulating the Use of AI", "country_label": "Law Regulating the Use of AI", "class": "directive", "platform": "", "owner": "Parliament", "tiers": "under deliberation in Parliament in 2025"},
+    {"system": "Data classification guide", "country_label": "data classification guide", "class": "thematic", "platform": "", "owner": "", "tiers": "sets standards for categorising data by sensitivity, with mandatory domestic storage for sensitive data"}
+  ],
+  "note": "Data-protection roundup; Morocco appears with an AI bill, a data classification guide and a planned General Directorate for AI, but no national digital strategy."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-01-xwa-niyel-mtdpce-lignes-directrices-ia-ethique-inclusive-responsable-afrique-francophone",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The guidelines say the New Deal Technologique, a new national digital strategy placing digital technology and AI at the heart of the country's economic and social transformation, was launched ('lancement') in February 2025; they name no adopting act or body.", "as_of": "2025-02", "date_precision": "month", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Passages only; the passage is cut off before naming the country it describes, but the strategy is Senegal's by name. Class national on the description (economic and social transformation)."
+}

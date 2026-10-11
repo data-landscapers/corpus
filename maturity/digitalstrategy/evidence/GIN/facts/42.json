@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-18-wardip-sop1-isr-seq4-guinee",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The World Bank status report of 18 March 2026 lists the adoption of a national digital economy policy and strategy with a gender and disability lens in Guinea (and The Gambia) as a target of the WARDIP policy indicator, and its progress count shows entries for Guinea-Bissau, Mauritania and The Gambia but none for Guinea.", "as_of": "2026-03-18", "date_precision": "day", "system": "National digital economy policy and strategy (WARDIP target)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "DTfA/WARDIP SOP1 (P176932)", "country_label": "WARDIP", "class": "programme", "platform": "", "owner": "World Bank-financed; Guinea one of four countries", "tiers": "national and regional; implementation status report seq 4, 18 March 2026"},
+    {"system": "ECOWAS E-Government Strategy (updated)", "country_label": "", "class": "regional", "platform": "", "owner": "ECOWAS", "tiers": "regional; stated as finalised in the March 2026 report"}
+  ],
+  "note": ""
+}

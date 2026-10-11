@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-01-nitda-dpi-framework-public-review-ngdx",
+  "facts": [],
+  "systems": [
+    {"system": "draft DPI life events framework", "country_label": "DPI framework (life events)", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": ""},
+    {"system": "draft technical standard for the Nigerian Data Exchange (NGDX)", "country_label": "NGDX technical standard", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": ""}
+  ],
+  "note": "Report of a public review of draft DPI instruments; 'digital transformation agenda' is generic and names no adopted national strategy."
+}

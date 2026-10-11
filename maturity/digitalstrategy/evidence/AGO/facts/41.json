@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-19-agenda-de-transicao-digital-apresentada-nos-eua",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda de Transição Digital (Angola)", "country_label": "Agenda de Transição Digital", "class": "government", "platform": "", "owner": "Government of Angola; presented by the Casa Civil head, with the IMA and INFOSI", "tiers": "state digitalisation; the minister said on 19 March 2025 it contains 214 projects, including PADA and the SIMPLIFICA simplification project, and ensures alignment among all digital initiatives"},
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "PADA", "class": "programme", "platform": "", "owner": "Government of Angola with the World Bank", "tiers": "national; supports a single digital identity and a national data infrastructure"},
+    {"system": "SIMPLIFICA 1.0 and 2.0", "country_label": "SIMPLIFICA", "class": "programme", "platform": "", "owner": "Government of Angola", "tiers": "public administration; simplification of acts and procedures"}
+  ],
+  "note": "The agenda is described as the digitalisation of the state, with a public digital infrastructure pillar; it is not presented as economy-wide, so no national-class fact."
+}

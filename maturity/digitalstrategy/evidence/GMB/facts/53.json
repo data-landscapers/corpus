@@ -1,0 +1,11 @@
+{
+  "slug": "2020-10-01-moici-universal-access-and-service-policy-2020",
+  "facts": [],
+  "systems": [
+    {"system": "Universal Access and Service Policy 2020", "country_label": "Universal Access and Service Policy 2020", "class": "sector-ict", "platform": "", "owner": "Ministry of Information and Communication Infrastructure", "tiers": "information and communication sector; implements universal access provisions of the Information and Communications Act 2009"},
+    {"system": "The Gambia ICT for Development Policy Statement 2018-2028", "country_label": "ICT4D Policy Statement 2018-2028", "class": "sector-ict", "platform": "", "owner": "", "tiers": "named as the policy context, with its implementation strategies"},
+    {"system": "National Broadband Policy and Strategy 2020-2024", "country_label": "National Broadband Policy and Strategy 2020 - 2024", "class": "thematic", "platform": "", "owner": "", "tiers": "named as an implementation strategy of the ICT4D Policy"},
+    {"system": "National e-Government Strategy 2020-2024", "country_label": "National e-Government Strategy 2020-2024", "class": "government", "platform": "", "owner": "", "tiers": "named as an implementation strategy of the ICT4D Policy"}
+  ],
+  "note": "A sector universal-access policy; the passages name other instruments but state nothing about a national digital strategy."
+}

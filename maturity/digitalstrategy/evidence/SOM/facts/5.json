@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-19-sonna-somalia-chinese-tech-import-megawatt-analysis",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "A Ministry of Information adviser, writing in a personal capacity, says Somalia has a National Digital Strategy running to 2029; no start date is given and the document itself is not linked. As_of is the article's published date, 2026-08-19. Text public: not stated", "as_of": "2026-08-19", "date_precision": "day", "system": "National Digital Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Public Infrastructure Strategy", "country_label": "National Digital Public Infrastructure Strategy", "class": "thematic", "platform": "", "owner": "Government with the World Bank", "tiers": "national; stated as under active development"}
+  ],
+  "note": "The National Digital Strategy's scope is not described, so class is left empty; only its stated end year (2029) is recorded."
+}

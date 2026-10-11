@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-16 Malawi President orders digital revolution",
+  "facts": [],
+  "systems": [
+    {"system": "Presidential directive on digitalisation (State of the Nation Address, 2026/27 budget meeting)", "country_label": "", "class": "directive", "platform": "", "owner": "President Mutharika", "tiers": "all ministries, departments and agencies; passports, national ID cards, driver's licences and public procurement 'forthwith'"},
+    {"system": "Malawi Vision 2063", "country_label": "", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Digital Identity Wallet", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "being tested"}
+  ],
+  "note": "A directive to digitalise with no strategy behind it; no national digital strategy stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2019-10-31-liberia-mopt-national-ict-policy-2019-2024",
+  "facts": [],
+  "systems": [
+    {"system": "Liberia Information and Communications Technology (ICT) Policy (2019-2024)", "country_label": "National ICT Policy 2019-2024", "class": "sector-ict", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "ICT sector policy covering infrastructure, broadband, spectrum, cybersecurity and universal access; period 2019-2024"},
+    {"system": "e-Government Strategy", "country_label": "Government of Liberia e-Government strategy", "class": "government", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "national and county governments; aims at better access to government services"},
+    {"system": "e-Liberia Office (Project Management Office)", "country_label": "e-Liberia Office", "class": "", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "directorate supporting e-Government Strategy implementation"}
+  ],
+  "note": "The document is an ICT sector policy (sector-ict) and describes e-Government as a strategy for government services; no national-class strategy named."
+}

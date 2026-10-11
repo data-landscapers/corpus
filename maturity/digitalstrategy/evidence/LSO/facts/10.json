@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-18-lesotho-national-ai-strategy-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "MICSTI with the United Nations in Lesotho", "tiers": "national"},
+    {"system": "Data Centre Blueprint", "country_label": "Data Centre Blueprint", "class": "thematic", "platform": "", "owner": "MICSTI with the United Nations in Lesotho", "tiers": "national"},
+    {"system": "Artificial Intelligence Policy", "country_label": "Artificial Intelligence Policy", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Data Management Policy", "country_label": "Data Management Policy", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Broadband and Shared Infrastructure Policy", "country_label": "Broadband and Shared Infrastructure Policy", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Thematic instruments only; a 'broader digital transformation agenda' is mentioned without name, text or date, so no fact."
+}

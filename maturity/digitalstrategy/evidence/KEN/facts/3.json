@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-29-ken-jointsdgfund-digiken-guarantee-digital-enterprises",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Platforms Kenya (DigiKen)", "country_label": "DigiKen", "class": "programme", "platform": "", "owner": "United Nations programme funded by the European Union through the Joint SDG Fund", "tiers": "national"},
+    {"system": "Digital Superhighway Agenda", "country_label": "Digital Superhighway Agenda", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+  ],
+  "note": "No dated fact about a national strategy; the Digital Superhighway Agenda is named only as the agenda DigiKen supports, with no scope described."
+}

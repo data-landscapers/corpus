@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-29-interoperability-platform-uxp-wearetech",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme d'interopérabilité de l'administration publique (UXP)", "country_label": "plateforme d'interopérabilité", "class": "programme", "platform": "UXP by Cybernetica (X-Road based)", "owner": "SNDI under the Ministry of Digital Transition and Digitalisation", "tiers": "twelve pilot public bodies"},
+    {"system": "Feuille de route numérique 2022 (digital governance roadmap)", "country_label": "feuille de route numérique adoptée en 2022", "class": "government", "platform": "", "owner": "government, with Digital Nation (Estonia)", "tiers": "public administration"},
+    {"system": "Plan stratégique Côte d'Ivoire 2030", "country_label": "Plan stratégique Côte d'Ivoire 2030", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": "Launch of the interoperability platform on 2025-09-25; the 2022 digital roadmap is said to have been adopted but is described only as the source of this project."
+}

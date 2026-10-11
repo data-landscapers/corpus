@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-21-lesotho-draft-ai-policy-implementation-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Artificial Intelligence Policy and Implementation Plan (Second Draft)", "country_label": "Artificial Intelligence Policy and Implementation Plan", "class": "thematic", "platform": "", "owner": "MICSTI, developed with UNDP and Norway Registers Development", "tiers": "national"},
+    {"system": "Lesotho's National Digital Transformation Strategy: Agenda 2030", "country_label": "National Digital Transformation Strategy: Agenda 2030 (cited as a 2024 document)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Policy 2024", "country_label": "National Digital Policy 2024", "class": "", "platform": "MICSTI", "owner": "MICSTI", "tiers": "national"},
+    {"system": "Research and Innovation Policy", "country_label": "Research and Innovation Policy (2023)", "class": "", "platform": "", "owner": "Department of Science, Technology and Innovation, MICSTI", "tiers": ""}
+  ],
+  "note": "AI policy draft (thematic). It cites the NDTS 'Agenda 2030' (2024) and National Digital Policy 2024 only as documents that mention AI, with no adoption, scope, period or reporting, so no fact. I searched the 73 pages for strategy mentions and read the front matter, rationale and situational analysis; the implementation tables were not read line by line."
+}

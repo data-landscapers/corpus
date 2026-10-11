@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-11-angola-referencia-africana-em-tecnologias-espaciais",
+  "facts": [],
+  "systems": [
+    {"system": "Estratégia Nacional de Transformação Digital, Inovação Tecnológica e Soberania Digital", "country_label": "Estratégia Nacional de Transformação Digital, Inovação Tecnológica e Soberania Digital", "class": "", "platform": "", "owner": "Government of Angola (as named by the MINTTICS minister)", "tiers": "national; the document names it and says the National Space Programme is one of its pillars, but states nothing on its adoption, text or scope beyond that"},
+    {"system": "Programa Espacial Nacional", "country_label": "Programa Espacial Nacional", "class": "thematic", "platform": "ANGOSAT-2", "owner": "Government of Angola", "tiers": "national"},
+    {"system": "Conecta Angola", "country_label": "Conecta Angola", "class": "programme", "platform": "ANGOSAT-2", "owner": "MINTTICS", "tiers": "32 free internet access points in remote localities and six universities connected, per the minister"}
+  ],
+  "note": "Minister names a national transformation strategy only in passing, as the frame for the space programme; no adoption or content stated, so no fact."
+}

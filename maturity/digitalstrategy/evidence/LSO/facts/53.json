@@ -1,0 +1,9 @@
+{
+  "slug": "2022-03-01-lso-transforming-health-care-in-lesotho-using-digital-health-to-overcome-h",
+  "facts": [],
+  "systems": [
+    {"system": "National eHealth Strategy 2019-2023", "country_label": "National eHealth Strategy 2019-2023 (Ministry of Health, 2018)", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "national"},
+    {"system": "HMIS Strategic Plan 2018-2022", "country_label": "HMIS Strategic Plan 2018-2022 (Ministry of Health, 2018)", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": "Passages are a bibliography and a mention of the continental Digital Transformation Strategy for Africa; the only Lesotho instruments are health strategies (thematic)."
+}

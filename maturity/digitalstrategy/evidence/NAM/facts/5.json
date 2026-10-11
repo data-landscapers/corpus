@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Paradigm Initiative report describes Namibia's policy framework as including the 'newly launched' National Digital Strategy (2025); the source's verb is launched and it names no adopting act or body.", "as_of": "2025", "date_precision": "year", "system": "National Digital Strategy", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The report's Table 1 lists the Ministry of Information and Communication Technology (MICT) as lead institution for Namibia's National Broadband Policy and National Digital Strategy, which it dates 'ongoing'; the table date is the report's own (2026-09-22).", "as_of": "2026-09-22", "date_precision": "day", "system": "National Digital Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Strategy", "country_label": "National Digital Strategy", "class": "", "platform": "", "owner": "Ministry of Information and Communication Technology (MICT)", "tiers": "launched 2025 per report; scope not described"},
+    {"system": "National Broadband Policy (2018-2028)", "country_label": "National Broadband Policy", "class": "thematic", "platform": "", "owner": "MICT", "tiers": ""},
+    {"system": "Universal Access and Service Policy (2012)", "country_label": "Universal Access and Service Policy", "class": "sector-ict", "platform": "", "owner": "CRAN", "tiers": ""},
+    {"system": "IMT-2020 5G Strategy (2022)", "country_label": "IMT-2020 5G Strategy", "class": "thematic", "platform": "", "owner": "CRAN", "tiers": "listed as for public consultation"},
+    {"system": "CRAN Strategic Plan (2023-2026)", "country_label": "CRAN Strategic Plan", "class": "ministry-plan", "platform": "", "owner": "CRAN", "tiers": ""},
+    {"system": "Namibia Artificial Intelligence Strategy", "country_label": "Namibia Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "in development, 2025"},
+    {"system": "National Policy on ICT in Education (2005)", "country_label": "National Policy on ICT in Education", "class": "", "platform": "", "owner": "", "tiers": "under revision"}
+  ],
+  "note": "The National Digital Strategy's scope is not described, so its class is left empty."
+}

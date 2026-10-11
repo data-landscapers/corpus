@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-06-tunisie-decret-gouvernemental-2021-3-donnees-publiques-ouvertes",
+  "facts": [],
+  "systems": [
+    {"system": "Décret gouvernemental n° 2021-3 du 6 janvier 2021 relatif aux données publiques ouvertes (open public data programme)", "country_label": "Décret gouvernemental n° 2021-3", "class": "directive", "platform": "National open data portal", "owner": "Unité de l'administration électronique (Prime Ministry), with a joint consultative committee under the minister for administrative modernisation", "tiers": "All public bodies under Organic Law 2016-22 art. 2; each names an open-data officer"}
+  ],
+  "note": "A decree on open public data after deliberation of the Council of Ministers, with no strategy behind it for the economy and the state at large; it only has the e-administration unit prepare a strategy for new open-data use cases (art. 4). No national digital strategy is named."
+}

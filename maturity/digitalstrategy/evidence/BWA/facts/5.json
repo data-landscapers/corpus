@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-14-digwatch-botswana-national-data-strategy-eu-data-governance-africa",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Strategy", "country_label": "National Data Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Innovation", "tiers": "national; in development, with AU Commission and EU support, AUDA-NEPAD and GIZ implementing"},
+    {"system": "National Data Policy", "country_label": "National Data Policy", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Innovation", "tiers": "national; progress reported"}
+  ],
+  "note": "Data strategy and policy are thematic (data); no national digital strategy stated."
+}

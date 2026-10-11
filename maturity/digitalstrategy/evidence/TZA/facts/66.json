@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-ec-tza-006-tz-business-environment-growth-and-innovation",
+  "facts": [],
+  "systems": [
+    {"system": "TZ Business Environment, Growth and Innovation: PE BEGIN", "country_label": "PE BEGIN", "class": "programme", "platform": "", "owner": "European Commission (financier), EUR 11,115,158 grant, 2021-2026", "tiers": "national; supports the Blueprint Action Plan and ICT infrastructure capacity"},
+    {"system": "Blueprint for Regulatory Reforms", "country_label": "Tanzania's Blueprint for Regulatory Reforms", "class": "", "platform": "", "owner": "", "tiers": "national; a business-environment reform blueprint with an action plan"}
+  ],
+  "note": "A donor programme record; the blueprint it supports is a regulatory-reform blueprint, not described as a digital strategy."
+}

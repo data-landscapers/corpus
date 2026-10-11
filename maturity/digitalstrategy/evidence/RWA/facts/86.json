@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-rwanda-digital-government-strategy-and-governance",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The document says the Government of Rwanda 'issued' the Smart Rwanda Master Plan (SRMP) in October 2015, with the vision of a knowledge-based society; it names no adopting act or body, so the source's verb is 'issued' only.", "as_of": "2015-10", "date_precision": "month", "system": "Smart Rwanda Master Plan", "class": ""}
+  ],
+  "systems": [
+    {"system": "Smart Rwanda Master Plan", "country_label": "SMART Rwanda Master Plan (SRMP)", "class": "", "platform": "", "owner": "Government of Rwanda", "tiers": "national; document gives its objectives (secure shared infrastructure, ICT governance structure, e-government) and three enablers but does not itself describe its scope across economy and state"},
+    {"system": "Rwanda Digital Government Strategy", "country_label": "Rwanda Digital Government Strategy and Governance", "class": "government", "platform": "Digital Government Platform", "owner": "Rwanda Information Society Authority (RISA)", "tiers": "all public entities; a RISA guideline on the Digital Government Platform, enterprise architecture governance and a three-phase roadmap (Connected, Intelligence, Transformed Government), no cost or dates stated"},
+    {"system": "Government of Rwanda Enterprise Architecture Framework v2.1", "country_label": "Government of Rwanda Enterprise Architecture Framework (RGEA)", "class": "", "platform": "modified TOGAF", "owner": "RISA", "tiers": "all public entities; framework and standards for IT blueprints"},
+    {"system": "Rwanda Cyber Security Policy", "country_label": "Rwanda Cyber Security Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "named as the basis of the cyber security objectives; no description of the policy itself"}
+  ],
+  "note": "Only fact: the SRMP's dated issue (Oct 2015), recorded with class empty because the document gives its objectives but does not itself describe a whole-economy-and-state scope. The document's own subject, the Digital Government Strategy, is class government (state administration and services only) and gives no fact."
+}

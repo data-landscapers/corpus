@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-29-executive-order-163-digital-government-ndmi-observer",
+  "facts": [],
+  "systems": [
+    {"system": "Executive Order No. 163", "country_label": "Executive Order No. 163", "class": "directive", "platform": "", "owner": "President of Liberia", "tiers": "Signed 22 April 2026; creates the OTDI within the Office of the President; requires a prioritised roadmap from the OTDI within 180 days and draft legislation within 12 months"},
+    {"system": "National Digitalization and Modernization Initiative (NDMI)", "country_label": "National Digitalization and Modernization Initiative", "class": "government", "platform": "", "owner": "Office of Technology, Digitalization and Innovation (OTDI), Office of the President", "tiers": "Whole-of-government modernisation of public service delivery across ministries, agencies and commissions"}
+  ],
+  "note": "The order covers digitalising the state's own administration and services; it is a directive with a roadmap still to be prepared, not a national digital strategy."
+}

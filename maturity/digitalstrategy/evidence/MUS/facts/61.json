@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-01-mauritius-data-centre-market-report",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Smart Mauritius Digital Agenda 2030 / Digital Mauritius 2030",
+   "country_label": "Smart Mauritius Digital Agenda 2030",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "market report calls it national and says it mandates a national e-platform roll-out"
+  },
+  {
+   "system": "MauPass",
+   "country_label": "MauPass",
+   "class": "",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "single sign-on introduced 2020; over 1 million citizens"
+  }
+ ],
+ "note": "Market report; the strategy is named loosely with no date of adoption or period; no fact."
+}

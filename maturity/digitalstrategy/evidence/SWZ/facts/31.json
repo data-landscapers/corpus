@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-19-e2-8m-study-signals-bright-2026-digital-outlook",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "current",
+   "fact": "The article says the Eswatini Digitalisation Strategy (2024-2028), framed under the theme 'Government in Your Hand', is driving the country's digital reform agenda in January 2026, inside its stated 2024-2028 period; the document gives no date for the statement beyond its 2026-01-19 publication. Text public: not stated.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Eswatini Digitalisation Strategy (2024-2028)",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The article says the digital reform agenda is driven by the Eswatini Digitalisation Strategy (2024-2028) 'under the leadership of the Ministry of Information, Communications and Technology'; dated by the article's publication, 2026-01-19.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Eswatini Digitalisation Strategy (2024-2028)",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Digitalisation Strategy (2024-2028)",
+   "country_label": "Eswatini Digitalisation Strategy (2024-2028) / 'Government in Your Hand'",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  },
+  {
+   "system": "ESCCOM State of Communications Sector Study 2025/26",
+   "country_label": "ESCCOM State of Communications Sector Study 2025/26",
+   "class": "sector-ict",
+   "platform": "",
+   "owner": "ESCCOM",
+   "tiers": "tender award announced to 360 Degrees Business Solutions, E2,805,425"
+  }
+ ],
+ "note": "Class national because the article says the strategy seeks to improve public service delivery, stimulate economic growth and promote social inclusion. No adoption verb or act is stated, so no standing fact is recorded."
+}

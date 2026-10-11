@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-02 Momentum builds on SA's single digital entry point MyMzansi",
+  "facts": [],
+  "systems": [
+    {"system": "National digital transformation roadmap", "country_label": "national digital transformation roadmap", "class": "government", "platform": "", "owner": "Government of South Africa", "tiers": "described as unveiled in May 2025 with the aim to modernise how public services are delivered and accessed"},
+    {"system": "MyMzansi", "country_label": "MyMzansi", "class": "programme", "platform": "", "owner": "Government (Presidency, National Treasury, DCDT)", "tiers": "single digital entry point for government services; test groups from March 2026"},
+    {"system": "Operation Vulindlela phase two", "country_label": "Operation Vulindlela", "class": "programme", "platform": "", "owner": "Presidency and National Treasury", "tiers": "seven reform areas incl. digital public infrastructure"}
+  ],
+  "note": "The roadmap is described by its aim of modernising public services (class government), so no national-class fact is recorded."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-05-cameroon-mandates-digital-payment-platform-non-tax-revenues",
+  "facts": [],
+  "systems": [
+    {"system": "Trésor Pay", "country_label": "Trésor Pay", "class": "", "platform": "", "owner": "Ministry of Finance", "tiers": "central government non-tax revenue collection"}
+  ],
+  "note": "Refers to the government's digital transformation strategy only in passing, with no name or description; Trésor Pay is a payment platform, not a strategy."
+}

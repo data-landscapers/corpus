@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "National AI strategy", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Economy and E-Governance Bill", "country_label": "National Digital Economy and E-Governance Bill", "class": "directive", "platform": "", "owner": "NITDA (positioned as super-regulator)", "tiers": ""},
+    {"system": "Digital Sovereignty, AI Governance, and Fair Compensation Bill", "country_label": "Digital Sovereignty, AI Governance, and Fair Compensation Bill", "class": "directive", "platform": "", "owner": "", "tiers": ""},
+    {"system": "General Application and Implementation Directive (GAID)", "country_label": "GAID", "class": "directive", "platform": "", "owner": "NDPC", "tiers": ""}
+  ],
+  "note": "Data-protection roundup; for Nigeria it states a national AI strategy adopted in 2025 and several bills, none a general digital strategy."
+}

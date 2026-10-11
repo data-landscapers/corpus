@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-09-smart-ids-go-digital-draft-rules",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "government", "platform": "", "owner": "The Presidency", "tiers": "described by the Minister as having the goal of digitalising government services"},
+    {"system": "Department of Home Affairs digital transformation plans", "country_label": "broader digital transformation plans", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental"},
+    {"system": "Draft amended regulations under the Identification Act of 1997 (Digital Identity)", "country_label": "draft digital identity regulations", "class": "directive", "platform": "", "owner": "Department of Home Affairs", "tiers": "gazetted for comment until 6 June 2026"}
+  ],
+  "note": "No national-class strategy described; the Roadmap is named only by its goal of digitalising government services, with no dated fact."
+}

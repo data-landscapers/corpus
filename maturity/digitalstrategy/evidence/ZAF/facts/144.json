@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-06-african-digital-transformation-centre-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Economy Masterplan", "country_label": "Digital Economy Masterplan", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Fourth Industrial Revolution roadmap", "country_label": "Fourth Industrial Revolution roadmap", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "draft National Artificial Intelligence Policy Framework", "country_label": "draft National Artificial Intelligence Policy Framework", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national"},
+    {"system": "African Union Digital Transformation Strategy 2020-2030", "country_label": "", "class": "regional", "platform": "", "owner": "African Union", "tiers": "continental"},
+    {"system": "African Digital Transformation Centre (ADTC)", "country_label": "ADTC", "class": "programme", "platform": "", "owner": "Department of Communications and Digital Technologies with the ITU, hosted by The Innovation Hub", "tiers": "national"}
+  ],
+  "note": "A DCDT launch statement that names the Digital Economy Masterplan and the 4IR roadmap only as 'national policy initiatives', with no scope, adoption, period, cost or report stated, so no fact is recorded for them."
+}

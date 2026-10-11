@@ -1,0 +1,31 @@
+{
+ "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national e-Government Strategy (new)",
+   "country_label": "new national e-Government Strategy",
+   "class": "government",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": "to be formulated; foundation is the Digital Landscape Assessment Report"
+  },
+  {
+   "system": "e-Government framework",
+   "country_label": "national e-Government framework",
+   "class": "government",
+   "platform": "",
+   "owner": "",
+   "tiers": "ministry ICT strategies are to align to it; 20 of 22 ministries lack an approved ICT strategy aligned to it"
+  },
+  {
+   "system": "Health Information Exchange",
+   "country_label": "Health Information Exchange",
+   "class": "",
+   "platform": "HL7/FHIR",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The new national e-Government Strategy is a government-services strategy to be formulated from the Digital Landscape Assessment Report (endorsed by the Ministry of ICT on 2026-05-21); classed government, so no fact."
+}

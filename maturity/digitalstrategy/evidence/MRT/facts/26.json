@@ -1,0 +1,9 @@
+{
+  "slug": "2023-11-07-worldbank-dtfa-wardip-sop1-pad4756",
+  "facts": [],
+  "systems": [
+    {"system": "WARDIP", "country_label": "Western Africa Regional Digital Integration Program (DTfA/WARDIP SOP1, P176932)", "class": "programme", "platform": "", "owner": "World Bank; Mauritania component under the digital transformation ministry", "tiers": "national; regional programme of US$293.00m with Mauritania at US$60.00m IDA plus US$1.00m government counterpart per the capture note"},
+    {"system": "national whole-government digitalization strategy (planned under WARDIP subcomponent 4.3)", "country_label": "national strategies for whole-government digitalization", "class": "government", "platform": "", "owner": "entities in charge of whole-government digitalization strategies", "tiers": "to be developed with project technical assistance in GA, GUI, GB and MA; no Mauritanian strategy is named"}
+  ],
+  "note": "The passages name Mauritania only as a WARDIP beneficiary; the project funds development of national digital-government strategies, but the PAD names no existing Mauritanian national strategy and gives no dated fact about one."
+}

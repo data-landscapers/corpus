@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-09-wearetech-senegal-cloud-souverain-ia",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article says the New Deal technologique was 'launched' (lancé) in February 2025 to accelerate the country's digital transformation; it names no adopting act or body.", "as_of": "2025-02", "date_precision": "month", "system": "New Deal technologique", "class": ""},
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The programme comprises 12 programmes and 50 priority projects for an announced FCFA 1,105 billion (about US$2 billion) over 2025-2034, per the article.", "as_of": "2026-09-09", "date_precision": "day", "system": "New Deal technologique", "class": ""},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "Prime Minister Ahmadou Al Aminou Lo's general policy statement of 8 September 2026 placed a sovereign cloud and sectoral AI use at the centre of the New Deal and narrowed project selection to what is feasible, financed and measurable.", "as_of": "2026-09-08", "date_precision": "day", "system": "New Deal technologique", "class": ""}
+  ],
+  "systems": [
+    {"system": "New Deal technologique", "country_label": "New Deal technologique", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+  ],
+  "note": "The document does not describe the strategy's scope beyond digital transformation and the policy statement's priorities, so class is left empty. Stated period 2025-2034, no text linked, so no period fact. The 12 programmes and 50 projects are the strategy's own, with an announced total."
+}

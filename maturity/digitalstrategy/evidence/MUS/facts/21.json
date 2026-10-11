@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-12-national-ai-strategy-fair-guidelines-launch-lexpress",
+  "facts": [],
+  "systems": [
+    {"system": "AI for Mauritius (AIM), Stratégie nationale sur l'IA", "country_label": "Stratégie nationale sur l'intelligence artificielle (AIM)", "class": "thematic", "platform": "", "owner": "AI Unit; Ministry of Information Technology, Communication and Innovation", "tiers": "national"},
+    {"system": "FAIR Guidelines", "country_label": "lignes directrices FAIR", "class": "thematic", "platform": "", "owner": "AI Unit", "tiers": "national"},
+    {"system": "Digital Transformation Blueprint 2025-2029", "country_label": "Digital Transformation Blueprint 2025-2029", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"},
+    {"system": "KOREK Super App", "country_label": "KOREK Super App", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"},
+    {"system": "Digital Interactive Virtual Assistant (DIVA)", "country_label": "DIVA", "class": "", "platform": "AI-powered", "owner": "Government of Mauritius", "tiers": "national"}
+  ],
+  "note": "The AI strategy was 'officiellement lancée' on 9 April 2026 but is thematic. The Blueprint 2025-2029 is named as its precursor, aiming at a 'smart, inclusive' nation, with no adoption, text, plan or report stated; no fact."
+}

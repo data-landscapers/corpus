@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-11-uem-eduardo-mondlane-university-inaugurates-data-centre",
+  "facts": [],
+  "systems": [
+    {"system": "Estratégia Nacional de Desenvolvimento", "country_label": "Estratégia Nacional de Desenvolvimento", "class": "", "platform": "", "owner": "Government", "tiers": "national; named by the minister as one of the frameworks the data centre aligns with"},
+    {"system": "Programa Quinquenal do Governo", "country_label": "Programa Quinquenal do Governo", "class": "", "platform": "", "owner": "Government", "tiers": "national; named by the minister as one of the frameworks the data centre aligns with"},
+    {"system": "MozSkills Project", "country_label": "Projecto MozSkills", "class": "programme", "platform": "", "owner": "Ministry of Communications and Digital Transformation", "tiers": "national; World Bank financed; implemented the UEM data centre"}
+  ],
+  "note": "A data-centre inauguration; it names national frameworks only as alignment, with no dated fact about a digital strategy."
+}

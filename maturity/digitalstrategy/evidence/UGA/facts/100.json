@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-13-ict-go-ug-national-ai-emerging-technologies-strategy-consultations",
+  "facts": [],
+  "systems": [
+    {"system": "National AI & Emerging Technologies Strategy", "country_label": "National AI & Emerging Technologies Strategy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance, with NITA-U and AI Uganda", "tiers": "national; in consultation in March 2026, finalisation expected May 2026"},
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "national", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "national; covers digital infrastructure, services, cybersecurity and data protection, digital skilling and innovation"},
+    {"system": "National data strategy", "country_label": "national data strategy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "government and wider economy; efforts ongoing"},
+    {"system": "Fourth National Development Plan (NDP IV)", "country_label": "NDP IV", "class": "development-plan", "platform": "", "owner": "Government of Uganda", "tiers": "national"}
+  ],
+  "note": "The only strategy with a dated status here is the AI & Emerging Technologies Strategy, which is thematic; the Digital Transformation Roadmap is named as foundation with no adoption, period, plan or report stated."
+}

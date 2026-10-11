@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-01-gcg-analysis-national-ai-strategies-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius Artificial Intelligence Strategy (2018)", "country_label": "Mauritius Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "Working Group on AI, Government of Mauritius; Economic Development Board as secretariat", "tiers": "national"},
+    {"system": "AI for Mauritius (AIM)", "country_label": "National AI Strategy (revised 2026)", "class": "thematic", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national"},
+    {"system": "FAIR Guidelines", "country_label": "FAIR Guidelines", "class": "thematic", "platform": "", "owner": "Government of Mauritius", "tiers": "national"}
+  ],
+  "note": "The document covers national AI strategies only; the 2018 and 2026 AI strategies are thematic, so no fact is recorded."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2020-03-01-nigerian-national-broadband-plan-2020-2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The broadband plan says that in November 2019 President Buhari 'launched' the National Digital Economy Policy and Strategy for a Digital Nigeria, and elsewhere that it was 'unveiled by the President'; no further act is named.", "as_of": "2019-11", "date_precision": "month", "system": "National Digital Economy Policy and Strategy", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The plan says a National Digital Economy Council 'has been established to oversee the implementation of the National Digital Economy policy and strategy'. No date for its establishment is given, so the plan's published date is used.", "as_of": "2020-03", "date_precision": "month", "system": "National Digital Economy Policy and Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Economy Policy and Strategy", "country_label": "National Digital Economy Policy and Strategy for a Digital Nigeria", "class": "", "platform": "", "owner": "Federal Ministry of Communications and Digital Economy", "tiers": "national"},
+    {"system": "Nigerian National Broadband Plan 2020-2025", "country_label": "NNBP 2020-2025", "class": "thematic", "platform": "", "owner": "Federal Ministry of Communications and Digital Economy; Presidential Committee", "tiers": "national"},
+    {"system": "Economic Recovery and Growth Plan (ERGP)", "country_label": "ERGP", "class": "development-plan", "platform": "", "owner": "Federal Government", "tiers": "national"}
+  ],
+  "note": "Class left empty: the plan lists the strategy's eight pillars but does not describe whether it covers both economy and state."
+}

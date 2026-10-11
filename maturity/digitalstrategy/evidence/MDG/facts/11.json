@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-17-undp-remise-rapport-dra-madagascar",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "On 17 December 2025 Madagascar formally received the UNDP-supported Digital Readiness Assessment report, which the page says will mark a step toward drawing up a national roadmap for digital, guiding public policy, investment and partnerships; no roadmap text or adoption is stated.", "as_of": "2025-12-17", "date_precision": "day", "system": "feuille de route nationale pour le numérique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Digital Development, Posts and Telecommunications and UNDP handed over the final Digital Readiness Assessment report on 17 December 2025, after a process begun in February 2025, as the basis for a national digital roadmap.", "as_of": "2025-12-17", "date_precision": "day", "system": "feuille de route nationale pour le numérique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Digital Readiness Assessment (DRA)", "country_label": "Digital Readiness Assessment / DRA", "class": "", "platform": "", "owner": "Ministry of Digital Development, Posts and Telecommunications (MNDPT) with UNDP", "tiers": "national diagnostic across skills, connectivity, government, regulation and economy; not a strategy"},
+    {"system": "feuille de route nationale pour le numérique", "country_label": "feuille de route nationale pour le numérique", "class": "national", "platform": "", "owner": "", "tiers": "announced as a next step after the DRA, December 2025"}
+  ],
+  "note": "Class national for the roadmap is read from the page's own words (national roadmap guiding public policy, investments and partnerships); the page states no pillars."
+}

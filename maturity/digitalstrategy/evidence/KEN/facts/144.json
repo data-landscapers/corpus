@@ -1,0 +1,8 @@
+{
+  "slug": "2017-01-01-usaid-ken-hpn-afya-halisi-2017-hpn---afya-halisi-rmnch-national",
+  "facts": [],
+  "systems": [
+    {"system": "HPN - Afya Halisi: RMNCH National Core", "country_label": "Afya Halisi", "class": "programme", "platform": "HMIS", "owner": "USAID (US$36,012,034, 2017-2022)", "tiers": "national health information system and community health information"}
+  ],
+  "note": "Donor health programme record; no national digital strategy named."
+}

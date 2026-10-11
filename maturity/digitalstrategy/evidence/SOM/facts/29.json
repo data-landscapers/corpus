@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-17-somalia-advances-national-clean-energy-transition-through-amp",
+  "facts": [],
+  "systems": [
+    {"system": "Draft digital strategy for mini-grid monitoring and data access", "country_label": "draft digital strategy for monitoring and data access", "class": "thematic", "platform": "", "owner": "Ministry of Energy and Water Resources with UNDP (Africa Mini-grids Programme)", "tiers": "national; energy sector; reviewed at a 6-7 October 2025 workshop"},
+    {"system": "National Transformation Plan 2025-2029", "country_label": "National Transformation Plan (NTP)", "class": "development-plan", "platform": "", "owner": "Government of Somalia", "tiers": "national"}
+  ],
+  "note": "The only 'digital strategy' is a sector-specific draft for mini-grids; no national digital strategy."
+}

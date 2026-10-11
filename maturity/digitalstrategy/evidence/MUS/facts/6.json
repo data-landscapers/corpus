@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-25-undp-mauritius-annual-report-2025",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Transformation Blueprint 2025-2029", "country_label": "National Digital Transformation Blueprint 2025-2029", "class": "", "platform": "", "owner": "Government of Mauritius; Ministry of ICT", "tiers": "national"},
+    {"system": "Digital Mauritius Strategic Plan 2030", "country_label": "Digital Mauritius Strategic Plan 2030", "class": "national", "platform": "", "owner": "Government of Mauritius", "tiers": "public and private sectors"},
+    {"system": "Digital Health Architecture Blueprint", "country_label": "Digital Health Architecture Blueprint", "class": "thematic", "platform": "", "owner": "Ministry of Health and Wellness", "tiers": "national"},
+    {"system": "E-Health system", "country_label": "E-Health system", "class": "", "platform": "", "owner": "Ministry of Health and Wellness", "tiers": "one regional hospital and associated facilities, national rollout underway"},
+    {"system": "MauStats", "country_label": "MauStats", "class": "", "platform": "", "owner": "Statistics Mauritius", "tiers": "national"}
+  ],
+  "note": "UNDP says it supported development of the Blueprint 2025-2029 in 2025, informed by a Digital Readiness Assessment, but does not describe its scope, adoption, cost or reporting; no aspect of the ladder is stated, so no fact. The Digital Mauritius Strategic Plan 2030 is described as targeting public and private sectors but carries no date or status here."
+}

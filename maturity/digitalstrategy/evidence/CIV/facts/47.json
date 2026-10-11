@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services",
+  "facts": [],
+  "systems": [
+    {"system": "MaPoste", "country_label": "MaPoste", "class": "programme", "platform": "super-app on the national identification number and RNPP", "owner": "ONECI and La Poste de Côte d'Ivoire", "tiers": "200+ post offices, national"}
+  ],
+  "note": "App launch (2026-01-16); the article only says it aligns with the national digital transformation strategy, which it does not describe."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Agenda for Equatorial Guinea (ADIGE)", "country_label": "ADIGE", "class": "sector-ict", "platform": "", "owner": "Ministry of Transport and Telecommunications", "tiers": "four objectives: universalize telecom access, digitize administrative procedures, support the ICT sector, empower citizens; the World Bank says the government is implementing it; no adopting act or period in this record. Classed sector-ict because the ministry's own account (2022) calls it the ICT sector's strategic plan and no whole-government adoption is stated"},
+    {"system": "National Development Plan 2035", "country_label": "National Development Plan 2035 (2021)", "class": "development-plan", "platform": "", "owner": "", "tiers": "introduced technology and innovation as a cross-cutting theme"}
+  ],
+  "note": "The record states no adopting act, period, text, plan or reporting for any national digital strategy."
+}

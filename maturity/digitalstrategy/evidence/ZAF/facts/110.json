@@ -1,0 +1,10 @@
+{
+  "slug": "2024-10-11 South Africa's Significant Improvement in the UN e-Government Index 2024",
+  "facts": [],
+  "systems": [
+    {"system": "National e-Government Strategy and Roadmap", "country_label": "National e-Government Strategy and Roadmap (2019-2024 MTSF provision, target of digitised services for whole of government by 2030)", "class": "government", "platform": "National e-Government Portal (eservices.gov.za)", "owner": "Department of Communications and Digital Technologies, with SITA as execution arm", "tiers": "National; 255 services identified for digitisation, 134 e-services live"},
+    {"system": "Data and Cloud Strategy", "country_label": "Data and Cloud Strategy (said to be in drafting, October 2024)", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": ""},
+    {"system": "National AI Plan", "country_label": "National AI Plan (said to be in drafting, October 2024)", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": ""}
+  ],
+  "note": "The department's statement names a National e-Government Strategy and Roadmap, which it describes as digitising government services, so it is class government and gives no fact for the national class. The Data and Cloud Strategy and the National AI Plan are thematic."
+}

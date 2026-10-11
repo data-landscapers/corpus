@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force",
+  "facts": [],
+  "systems": [
+    {"system": "ICT Roadmap 2030", "country_label": "ICT Roadmap 2030", "class": "ministry-plan", "platform": "", "owner": "Ministry of Communications and Innovation", "tiers": "national; produced by the minister after a stakeholder meeting in Mahalapye, targets 100,000 ICT jobs in five years; no cabinet adoption stated"},
+    {"system": "Digital Services Act", "country_label": "Digital Services Act", "class": "directive", "platform": "", "owner": "Parliament / Ministry of Communications and Innovation", "tiers": "national; passed 2024, in force 21 November 2025 with a two-year implementation window"},
+    {"system": "ICT roadmap (Mahalapye, a decade earlier)", "country_label": "earlier ICT roadmap", "class": "ministry-plan", "platform": "", "owner": "", "tiers": "national; crafted about a decade before 2026"}
+  ],
+  "note": "The ICT Roadmap 2030 is the minister's own roadmap with no adopting act stated, so ministry-plan under the typology; no fact for the national class."
+}

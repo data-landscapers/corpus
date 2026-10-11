@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-24-new-deal-technologique-senegal-partenariats-washington",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "Minister Samba Diouf took the New Deal Technologique to Washington, presenting to the US Chamber of Commerce and meeting the State Department and the US DFC on financing for its priority projects; the visit date is not given, so the publication date is used.", "as_of": "2026-07-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Ministry of Telecommunications and Digital Affairs", "tiers": "national"}
+  ],
+  "note": "Class national: the document calls it the main lever for modernising the economy and the administration, and 'the digital strategy of Senegal'. No financier, amount or signing reported; no adoption, period or report stated."
+}

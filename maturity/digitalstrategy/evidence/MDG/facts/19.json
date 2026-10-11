@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-04 Madagascar - Digital Economy (Country Commercial Guide)",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The US Commercial Service guide says the government's Digital Transformation Plan 2023-2028 (Plan Stratégique Numérique) aims to raise the digital sector's contribution to GDP by six percent by 2028; no cost is stated (guide published 4 August 2025).", "as_of": "2025-08-04", "date_precision": "day", "system": "Plan Stratégique Numérique 2023-2028", "class": ""}
+  ],
+  "systems": [
+    {"system": "Plan Stratégique Numérique 2023-2028", "country_label": "Digital Transformation Plan 2023-2028 / PSN", "class": "", "platform": "", "owner": "Government; ministry MNDPT", "tiers": "described as focused on telecommunications and digitising public services"}
+  ],
+  "note": "PSN fact recorded with class empty: the guide's description (telecommunications and public services) neither shows nor rules out an economy-wide scope; 'established' names no act, so no standing fact."
+}

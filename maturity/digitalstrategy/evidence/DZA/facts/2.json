@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The report says Algeria's SNTN-2030 (National Digital Transformation Strategy) was launched in 2025, naming no adopting act.", "as_of": "2025", "date_precision": "year", "system": "SNTN-2030 (National Digital Transformation Strategy)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The report's table names the High Commissioner for Digitization and the Ministry of Post, Telecom and Digital Technology as lead institutions of SNTN-2030 for 2025-2030.", "as_of": "2025", "date_precision": "year", "system": "SNTN-2030 (National Digital Transformation Strategy)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:not-stated", "fact": "The report says publicly available, disaggregated ICT budget data for Algeria are limited; the only identifiable 2024 allocation, about USD 730,000 (97.5 million DZD), is not tied to the strategy and is called partial.", "as_of": "2024", "date_precision": "year", "system": "SNTN-2030 (National Digital Transformation Strategy)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The report gives SNTN-2030 a stated period of 2025-2030; it does not say whether the text is public (published date 2026-09-22 used).", "as_of": "2026-09-22", "date_precision": "day", "system": "SNTN-2030 (National Digital Transformation Strategy)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "AI Startup Fund (Algérie Télécom)", "country_label": "", "class": "programme", "platform": "", "owner": "Algérie Télécom", "tiers": ""}
+  ],
+  "note": ""
+}

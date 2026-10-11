@@ -1,0 +1,10 @@
+{
+  "slug": "2022-10-21-south-africa-hnsf-2021-interoperability-digital-health-gazette",
+  "facts": [],
+  "systems": [
+    {"system": "National 2021 Normative Standards Framework for Interoperability in Digital Health (HNSF)", "country_label": "HNSF 2021", "class": "directive", "platform": "", "owner": "National Department of Health (Government Notice 2667, Government Gazette 47337, 21 October 2022)", "tiers": "national health sector"},
+    {"system": "National Digital Health Strategy 2019", "country_label": "National Digital Health Strategy 2019", "class": "ministry-plan", "platform": "", "owner": "National Department of Health", "tiers": "health sector"},
+    {"system": "National e-Government Strategy and Roadmap 2017", "country_label": "National e-Government Strategy and Roadmap 2017", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Passages only; the e-Government Strategy and Roadmap appears in a reference list with a year in its title only, with no scope, adoption, period, cost or report stated, so no fact is recorded."
+}

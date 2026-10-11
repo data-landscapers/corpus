@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-03-gia-meeting-launch-executive-initiatives-national-ai-strategy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The General Information Authority hosted a national meeting on 26 April 2026 to launch the executive initiatives of the National Artificial Intelligence Strategy 2025-2030 and move it from preparation to implementation, per the Authority.", "as_of": "2026-04-26", "date_precision": "day", "system": "National Artificial Intelligence Strategy 2025-2030", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy 2025-2030", "country_label": "National Artificial Intelligence Strategy 2025-2030", "class": "", "platform": "", "owner": "General Information Authority", "tiers": "national"},
+    {"system": "National Artificial Intelligence Charter", "country_label": "National Artificial Intelligence Charter", "class": "thematic", "platform": "", "owner": "General Authority for Communications and Informatics", "tiers": "national"}
+  ],
+  "note": "Class left empty: the document dates an event about the AI strategy but does not itself describe the strategy's scope."
+}

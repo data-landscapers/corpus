@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-eritrea-digital-watch-country-profile",
+  "facts": [],
+  "systems": [
+    {"system": "National Policy for ICT in Education", "country_label": "National Policy for ICT in Education", "class": "ministry-plan", "platform": "", "owner": "", "tiers": "schools; sets goals for connectivity, ministry systems, staff training and school ICT use"},
+    {"system": "Communications Proclamation No. 102/1998", "country_label": "Communications Proclamation", "class": "sector-ict", "platform": "", "owner": "", "tiers": "sets the legal basis of the communications sector"}
+  ],
+  "note": "Profile lists the telecom proclamation and regulations as main digital policies and says no public national cybersecurity strategy exists; it states nothing on a national digital strategy."
+}

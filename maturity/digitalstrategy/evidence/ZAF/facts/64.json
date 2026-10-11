@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-09-draft-south-africa-national-artificial-intelligence-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Draft South Africa National Artificial Intelligence (AI) Policy", "country_label": "Draft South Africa National Artificial Intelligence (AI) Policy", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; approved by Cabinet 25 March 2026 for public comment"},
+    {"system": "Digital Economy Masterplan", "country_label": "Digital Economy Masterplan", "class": "", "platform": "", "owner": "", "tiers": "named as a national initiative the AI policy contributes to"},
+    {"system": "National Development Plan 2030", "country_label": "National Development Plan 2030", "class": "", "platform": "", "owner": "", "tiers": "named as a national initiative the AI policy contributes to"},
+    {"system": "Presidential Commission on the Fourth Industrial Revolution (PC4IR) Report", "country_label": "PC4IR Report", "class": "", "platform": "", "owner": "", "tiers": "named as a national initiative the AI policy contributes to"}
+  ],
+  "note": "The Digital Economy Masterplan is named with no description, date or status, so it is a systems entry with empty class and no fact."
+}

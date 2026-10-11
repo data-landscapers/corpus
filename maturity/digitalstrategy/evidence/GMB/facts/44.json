@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-gambia-mocde-government-open-data-strategy-2024-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Government Open Data Strategy 2024-2027", "country_label": "Government Open Data Strategy 2024-2027 and Action Plan 2024-2026", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; action plan costed at a minimum of GMD 65.5 million, KPI targets set for 31 December 2026"},
+    {"system": "e-Government Strategy 2021-2024", "country_label": "e-Government strategy 2021-2024", "class": "government", "platform": "", "owner": "Government of The Gambia", "tiers": "national; stated to carry GMD 5,250,000 for open data activities"}
+  ],
+  "note": "Open data strategy is thematic; the e-government strategy is named for its open data section only."
+}

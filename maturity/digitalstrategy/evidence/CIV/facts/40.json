@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-12 Côte d'Ivoire convenes strategic seminar to align digital transformation agenda",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Development Strategy", "country_label": "Stratégie nationale de développement du numérique", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": "national"},
+    {"system": "National Cybersecurity Strategy", "country_label": "Stratégie nationale de cybersécurité", "class": "thematic", "platform": "", "owner": "ANSSI-CI", "tiers": "national"},
+    {"system": "Zero Paper by 2030", "country_label": "Zéro papier 2030", "class": "government", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "public administration"},
+    {"system": "National Data Governance Strategy 2030", "country_label": "Stratégie nationale de gouvernance des données 2030", "class": "thematic", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "national"},
+    {"system": "National Artificial Intelligence Strategy", "country_label": "Stratégie nationale de l'IA", "class": "thematic", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "national"},
+    {"system": "PADCI", "country_label": "PADCI", "class": "programme", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "national"},
+    {"system": "PARAE", "country_label": "PARAE", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "A 7-10 April 2026 seminar to align existing strategies; the article names them but gives the national digital strategy no standing, text, cost or reporting."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-worldbank-equatorial-guinea-digital-economy-diagnostic",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Agenda for Equatorial Guinea (ADIGE)", "country_label": "Agenda Digital de Guinea Ecuatorial (ADIGE)", "class": "sector-ict", "platform": "", "owner": "Ministry of Transport, Posts and Telecommunications, through the General Directorate of Telecommunications and New Technologies", "tiers": "described by the World Bank as the main national plan for the digital transformation of the economy and a common plan with indicators, projects, lines of action and execution plans (no cost stated); four objectives: universal access, digitised administrative procedures, ICT sector, citizen digital skills. Classed sector-ict because it is the ministry's own plan and no whole-government adoption is stated; the parent may reclassify to national on the World Bank's wording"},
+    {"system": "National Development Plan 2035 (Agenda 2035)", "country_label": "National Development Plan 2035", "class": "development-plan", "platform": "", "owner": "", "tiers": "announced January 2021; technology and innovation a cross-cutting theme with a specific ICT chapter"},
+    {"system": "Horizonte 2020", "country_label": "National Plan for Economic and Social Development (Horizonte 2020)", "class": "development-plan", "platform": "", "owner": "", "tiers": "phases 2008-2012 and 2013-2017; mid-term evaluation acknowledged shortcomings in public administration modernisation"},
+    {"system": "National e-government strategy (UNDP-supported)", "country_label": "estrategia nacional de gobierno electrónico", "class": "government", "platform": "", "owner": "Ministry of Telecommunication with UNDP", "tiers": "drafting; launch workshop held in November 2022 under the UNDP project Support to the Digitalization of Equatorial Guinea"}
+  ],
+  "note": "The diagnostic states Equatorial Guinea is without a national e-governance strategy for digital public platforms and that CNIAPGE lacks a digital strategy with clear metrics; ADIGE is not classed national here, so no fact is recorded."
+}

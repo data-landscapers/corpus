@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-01 Tanzania e-Government Strategy 2022 (2022-2027)",
+  "facts": [],
+  "systems": [
+    {"system": "Tanzania e-Government Strategy 2022", "country_label": "e-Government Strategy 2022", "class": "government", "platform": "", "owner": "President's Office - Public Service Management and Good Governance (PO-PSMGG)", "tiers": "national public administration; second national e-Government Strategy, to be implemented 2022-2027, seven pillars"},
+    {"system": "e-Government Strategy 2013", "country_label": "e-Government Strategy 2013", "class": "government", "platform": "", "owner": "", "tiers": "national public administration; ran 2013-2018 and expired, replaced by the 2022 strategy"}
+  ],
+  "note": "Both strategies are for e-government (state services only), class government; no national-class instrument is described."
+}

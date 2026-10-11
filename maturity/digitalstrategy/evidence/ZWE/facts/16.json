@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-04-zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy (2026–2030)", "country_label": "National Artificial Intelligence Strategy (2026–2030)", "class": "thematic", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": "implementation programme AI for Impact (AI4I) Grand Challenge launched 2026-08"},
+    {"system": "AI for Impact (AI4I) Grand Challenge", "country_label": "AI4I Grand Challenge", "class": "programme", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""},
+    {"system": "National Development Strategy 2", "country_label": "National Development Strategy 2", "class": "development-plan", "platform": "", "owner": "", "tiers": "with Vision 2030, under which AI is a strategic economic priority"}
+  ],
+  "note": "AI strategy implementation programme; the digital transformation agenda is referred to generically; no national digital strategy named."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01 Malawi Digital Readiness Assessment",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "This summary of UNDP's Digital Readiness Assessment says Malawi has progress in connectivity, DPI, governance and regulation \"but no coordinated national strategy\", and frames the assessment as the entry point to a National Digital Transformation Strategy and Roadmap; the date is the document's year proxy (2024), published 2024-01-01 per its own record.", "as_of": "2024", "date_precision": "year", "system": "National Digital Transformation Strategy and Roadmap", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy and Roadmap", "country_label": "National Digital Transformation Strategy and Roadmap", "class": "national", "platform": "", "owner": "Department of E-Government (recommended to be empowered)", "tiers": "national; the DRA is framed as its entry point"},
+    {"system": "National Cybersecurity Strategy", "country_label": "National Cybersecurity Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "named as a foundational framework"},
+    {"system": "Malawi Vision 2063", "country_label": "Malawi Vision 2063", "class": "development-plan", "platform": "", "owner": "Government of Malawi", "tiers": "national; the DRA is aligned with it"}
+  ],
+  "note": "The statement is the page summary's own and is hedged as 'coordinated'; it does not mention the National Digitalization Policy, which other documents name. Source is a web summary dated by proxy to 2024."
+}

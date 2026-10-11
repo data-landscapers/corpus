@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-01-ken-techz-dpi-roadmap-inter-ministerial-steering-committee",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The document names Kenya's National Digital Master Plan 2022 - 2032 and states its period as 2022 to 2032; it does not say whether the text is public, and does not describe the plan's scope.", "as_of": "2022", "date_precision": "year", "system": "National Digital Master Plan 2022 - 2032", "class": ""},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The document says the Master Plan targets 100,000 km of fibre-optic cable, 25,000 public Wi-Fi hotspots and nationwide digital village hubs, with no cost stated; no per-target dates are given beyond the 2022-2032 period.", "as_of": "2022", "date_precision": "year", "system": "National Digital Master Plan 2022 - 2032", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Master Plan 2022 - 2032", "country_label": "National Digital Master Plan 2022 - 2032", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Digital Public Infrastructure (DPI) Roadmap", "country_label": "national Digital Public Infrastructure Roadmap", "class": "thematic", "platform": "GovStack framework", "owner": "Ministry of Information, Communications and the Digital Economy, with an Inter-Ministerial Steering Committee", "tiers": "whole of government"}
+  ],
+  "note": "Class of the Master Plan left empty: the document gives only dated targets and period, not scope. Facts keep the report date 2026-10-01 as the document date; the period is the stated event."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-17-wearetech-world-bank-paens",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article says Senegalese authorities 'launched' the New Deal Technologique in February 2026 (other documents say February 2025); it names no adopting act or body.", "as_of": "2026-02", "date_precision": "month", "system": "New Deal Technologique", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "The government raised the digital ministry's 2026 budget by 38.7 percent to CFA 81.06 billion (about US$146 million), nearly 60 percent for investment, which the article presents as supporting the New Deal Technologique's objectives; it does not name a line specific to the strategy.", "as_of": "2026", "date_precision": "year", "system": "New Deal Technologique", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank committed CFA 95.05 billion through PAENS, which authorities aligned with the New Deal Technologique after several months of structuring.", "as_of": "2026-02", "date_precision": "month", "system": "New Deal Technologique", "class": ""}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital Affairs", "tiers": "national"},
+    {"system": "Digital Economy Acceleration Project in Senegal (PAENS)", "country_label": "PAENS", "class": "programme", "platform": "", "owner": "Government of Senegal, World Bank financed", "tiers": "national"}
+  ],
+  "note": "The document calls the New Deal Technologique 'the national roadmap for digital transformation' but gives no scope across economy and state, so class is left empty. Its launch date (February 2026) conflicts with documents giving February 2025; recorded as stated."
+}

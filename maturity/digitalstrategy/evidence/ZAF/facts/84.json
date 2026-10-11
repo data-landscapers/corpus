@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-07 Digital driving licence coming to South Africa",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "government", "platform": "", "owner": "Government of South Africa", "tiers": "described as launched in May 2025, aiming at a single digital identity, data sharing across government, digital payments and a zero-rated platform to access public services"},
+    {"system": "MyMzansi", "country_label": "MyMzansi", "class": "programme", "platform": "", "owner": "Presidency team", "tiers": "national; digital driving licence prototype shown November 2025"}
+  ],
+  "note": "The Roadmap's scope is described as public services (class government), so no national-class fact is recorded."
+}

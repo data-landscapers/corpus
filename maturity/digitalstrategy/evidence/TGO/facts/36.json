@@ -1,0 +1,12 @@
+{
+  "slug": "2021-04-01-togo-mentd-strategie-togo-digital-2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The April 2021 presentation by the Ministry of Digital Economy and Digital Transformation (MENTD) says it forms part of the elaboration of the Togo Digital 2025 strategy, whose definition of a strategic roadmap 'a été lancé', with three parts (foundations of digital transformation, digitalisation of public and social services, creation of a digital economy) and nine programmes; no adopting act is given.", "as_of": "2021-04", "date_precision": "month", "system": "Stratégie Togo Digital 2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The presentation says that in the portfolio identified for the Togo 2025 strategic plan the MENTD leads 6 projects and 1 reform and supports 21 projects and 3 reforms, and that the plan sets it three priority objectives (digitalise state services, make Togo a digital hub, give all citizens internet access); no act is cited.", "as_of": "2021-04", "date_precision": "month", "system": "Stratégie Togo Digital 2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Stratégie Togo Digital 2025", "country_label": "Stratégie Togo Digital 2025", "class": "national", "platform": "", "owner": "Ministère de l'Économie Numérique et de la Transformation Digitale (MENTD)", "tiers": "state services and digital economy"},
+    {"system": "plan stratégique Togo 2025", "country_label": "plan stratégique Togo 2025", "class": "development-plan", "platform": "", "owner": "Government of Togo", "tiers": ""}
+  ],
+  "note": "Class national rests on the three parts covering both state and economy; the passages do not say the whole government adopted it. No stated period, plan costs or reporting in the passages, so no period/plan/reporting fact."
+}

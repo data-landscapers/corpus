@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr",
+  "facts": [],
+  "systems": [
+    {"system": "Tanzania Digital Health Strategy 2019 - 2024", "country_label": "Tanzania Digital Health Strategy 2019 - 2024", "class": "ministry-plan", "platform": "", "owner": "Ministry of Health", "tiers": "health sector; listed as current on the eHealth Initiative page, whose stated period ended in 2024"},
+    {"system": "Tanzania eHealth Strategy 2013 - 2018", "country_label": "Tanzania eHealth Strategy 2013 - 2018", "class": "ministry-plan", "platform": "", "owner": "Ministry of Health", "tiers": "health sector; listed under 'Previous'"},
+    {"system": "ICT Policy Guideline 2016", "country_label": "ICT Policy Guideline 2016", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": "listed for download"}
+  ],
+  "note": "Ministry of Health service page naming health-sector strategies only; they are ministry-plan class, so no fact for the national sub-indicator."
+}

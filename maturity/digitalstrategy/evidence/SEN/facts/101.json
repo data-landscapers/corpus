@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-14-sen-lesoleil-cybastion-300m-transformation-numerique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Le Soleil, on 14 September 2026, names a \"Masterplan 2025-2034\" for digital ambitions, alongside the Sénégal 2050 national transformation agenda; the stated period includes 2026, and the article does not say what the Masterplan covers or whether its text is public. Text public: not stated.", "as_of": "2026-09-14", "date_precision": "day", "system": "Masterplan 2025-2034", "class": ""}
+  ],
+  "systems": [
+    {"system": "Masterplan 2025-2034", "country_label": "Masterplan 2025-2034", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "digital ambitions; scope not described"},
+    {"system": "Stratégie numérique du Sénégal", "country_label": "Stratégie numérique du Sénégal", "class": "", "platform": "", "owner": "Presidency", "tiers": "the article says the Presidency highlights it among the reference documents of the Sénégal 2050 policy; scope not described"},
+    {"system": "Agenda national de transformation Sénégal 2050", "country_label": "Sénégal 2050", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+  ],
+  "note": "The Masterplan 2025-2034 is named with its period but its scope is not described in the article, so class is empty."
+}

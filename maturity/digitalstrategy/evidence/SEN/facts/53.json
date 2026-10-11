@@ -1,0 +1,11 @@
+{
+  "slug": "2025-11-03 Senegal taps inspiration from Togo's digital ID experience",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Biometric Update says the New Deal Technologique is a digital transformation strategy 'launched by its president early in 2025'.", "as_of": "2025", "date_precision": "year", "system": "New Deal Technologique", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The article says the strategy is supported by the Gates Foundation with US$10 million; it states no domestic allocation.", "as_of": "2025-11-03", "date_precision": "day", "system": "New Deal Technologique", "class": ""}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "Presidency of the Republic", "tiers": "national"}
+  ],
+  "note": "Calls the New Deal Technologique a digital transformation strategy without describing its scope, so class is left empty. Launch by the president is recorded as adopted under the study's ladder. As_of for the Gates support is the publication date, the grant date not being given."
+}

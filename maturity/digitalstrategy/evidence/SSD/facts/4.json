@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-08-kictanet-south-sudan-audpf-data-governance-workshop",
+  "facts": [],
+  "systems": [
+    {"system": "SUDESA strategic framework for digital transformation", "country_label": "SUDESA", "class": "", "platform": "", "owner": "", "tiers": "The document names it as a signal of political will; it gives no date, period, adopting act or scope, so no class."},
+    {"system": "Presidential directive of December 2025 empowering the e-Service Board to digitise government institutions", "country_label": "", "class": "directive", "platform": "", "owner": "President Salva Kiir", "tiers": "government institutions"},
+    {"system": "Roadmap to strengthen data governance", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "mentioned as a country effort the workshop complements; no date or status"}
+  ],
+  "note": "Concept note names the SUDESA strategic framework for digital transformation without date, period or scope; no fact recorded."
+}

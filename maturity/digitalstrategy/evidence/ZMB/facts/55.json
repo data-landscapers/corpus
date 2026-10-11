@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-01-zambia-national-electronic-government-plan",
+  "facts": [],
+  "systems": [
+    {"system": "National Electronic Government Plan 2023-2026", "country_label": "National Electronic Government Plan (NeGP)", "class": "government", "platform": "", "owner": "Electronic Government Division (under the Electronic Government Act No. 41 of 2021); steering committee chaired by the Secretary to the Cabinet", "tiers": "public sector"},
+    {"system": "National Electronic Government Master Plan 2018-2030", "country_label": "e-Government Master Plan 2030", "class": "government", "platform": "", "owner": "", "tiers": "public sector"},
+    {"system": "Eighth National Development Plan (8NDP) 2022-2026", "country_label": "8NDP", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": "national"},
+    {"system": "Vision 2030", "country_label": "Vision 2030", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": "national"},
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector-ict", "platform": "", "owner": "Ministry of Technology and Science", "tiers": "national; document says it is under review"},
+    {"system": "National Cyber Security Policy 2021", "country_label": "National Cyber Security Policy of 2021", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Electronic Government Act No. 41 of 2021", "country_label": "Electronic Government Act", "class": "directive", "platform": "", "owner": "Government of Zambia", "tiers": "public bodies"}
+  ],
+  "note": "The plan is for the public sector's own digitalisation, so class government and not the national class; no fact is recorded for it."
+}

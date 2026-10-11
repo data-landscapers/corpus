@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-01-uganda-national-ai-landscape-assessment",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The MoICT/ITU assessment gives the Digital Transformation Roadmap's period as 2023/2024-2027/2028, a five-year cycle that covers it as at the document's 2025 publication year (used as as_of, no other date being given); Text public: not stated.", "as_of": "2025", "date_precision": "year", "system": "Digital Transformation Roadmap", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap (2023/2024-2027/2028)", "class": "national", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "national; described as the overarching implementation framework, spanning trade, government, education and health"},
+    {"system": "Digital Uganda Vision", "country_label": "Digital Uganda Vision 2040", "class": "", "platform": "", "owner": "", "tiers": "national; described as setting aspirational goals aligned with Vision 2040"},
+    {"system": "National Development Plan III (NDPIII)", "country_label": "NDPIII", "class": "development-plan", "platform": "", "owner": "Government of Uganda", "tiers": "national"},
+    {"system": "Uganda national 4IR strategy", "country_label": "Uganda national 4IR strategy", "class": "thematic", "platform": "", "owner": "National 4IR task force (established 2018)", "tiers": "national; covers 4IR technologies such as AI, cloud, blockchain, big data and IoT"},
+    {"system": "Technical Assistance and Training to Uganda on National ICT Development Strategy (2021-2024)", "country_label": "Technical assistance and training to Uganda on National ICT development strategy", "class": "programme", "platform": "", "owner": "Ministry of ICT and National Guidance with ITU", "tiers": "national; funded by GDSSCF and ITU ICT-DF"}
+  ],
+  "note": ""
+}

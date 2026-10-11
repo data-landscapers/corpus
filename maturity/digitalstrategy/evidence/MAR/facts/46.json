@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-09-en-hespress-morocco-overtakes-sa-top-data-center-hub",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article, citing a Global Finance report, says Morocco launched its digital roadmap in 2020, spearheaded by the Agency for Digital Development, naming no adopting act.", "as_of": "2020", "date_precision": "year", "system": "digital roadmap (2020)", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Morocco 2030", "country_label": "Digital Morocco 2030 strategy", "class": "national", "platform": "", "owner": "", "tiers": "consolidates fintech, AI and e-government"},
+    {"system": "digital roadmap (2020)", "country_label": "digital roadmap launched in 2020", "class": "", "platform": "", "owner": "Agency for Digital Development", "tiers": ""}
+  ],
+  "note": "Digital Morocco 2030 is classed national because the article says it consolidates fintech, AI and e-government; no date, period, cost or report is given for it. The 2020 roadmap has no described scope, so its class is empty."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-20-cybernetica-piloted-interoperability-platform-kenya",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Cybernetica case study (20 January 2026) says the Government of Kenya has released a 10-year Digital Master Plan spanning 2022 to 2032 as a blueprint for its digitalisation efforts, so the as-at date falls inside its period; the document describes the plan as guiding digital government and digital public infrastructure and does not link its text.", "as_of": "2026-01-20", "date_precision": "day", "system": "Digital Master Plan 2022-2032", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Master Plan 2022-2032", "country_label": "Digital Master Plan (10-year, 2022-2032)", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national; described as guiding digital government and digital public infrastructure; whole-economy scope not stated"},
+    {"system": "Interoperability framework pilot (X-Road based)", "country_label": "interoperability and secure data exchange framework pilot", "class": "programme", "platform": "X-Road (GovStack information mediator)", "owner": "Cybernetica with Ministry of ICT and ICT Authority; GIZ, EU, ESTDEV", "tiers": "national; pilot April 2024 to June 2025"}
+  ],
+  "note": "Master Plan period fact has empty class: the document does not describe the plan's scope beyond digital government."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-03-tinto-hebergement-national-souverainete",
+  "facts": [],
+  "systems": [
+    {"system": "décret fixant les modalités de mise en exploitation des plateformes numériques de l'administration publique", "country_label": "Décret sur la mise en exploitation des plateformes numériques de l'administration", "class": "directive", "platform": "", "owner": "Government of Burkina Faso; applied by the Ministry of Digital Transition", "tiers": "Public-administration platforms"},
+    {"system": "circulaire du Premier ministre sur l'hébergement national", "country_label": "", "class": "directive", "platform": "", "owner": "Prime Minister", "tiers": "State bodies"},
+    {"system": "stratégie sur l'open source", "country_label": "Stratégie open source", "class": "thematic", "platform": "", "owner": "Government of Burkina Faso", "tiers": "Public administration; adopted, undated in the document"},
+    {"system": "référentiel d'interopérabilité du Burkina Faso", "country_label": "Référentiel d'interopérabilité", "class": "thematic", "platform": "", "owner": "Government of Burkina Faso", "tiers": "Public administration; adopted 2018"},
+    {"system": "feuille de route annuelle de dématérialisation par ministère", "country_label": "", "class": "ministry-plan", "platform": "", "owner": "Each ministry with the General Directorate of Digital Transformation", "tiers": "Ministries"}
+  ],
+  "note": "Interview on a platforms decree and hosting policy; it names no national digital strategy."
+}

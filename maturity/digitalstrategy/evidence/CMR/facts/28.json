@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-20-services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov",
+  "facts": [],
+  "systems": [
+    {"system": "loi e-Gov (access to public information and digital transformation of the administration)", "country_label": "loi e-Gov", "class": "directive", "platform": "", "owner": "GovTech Cameroun", "tiers": "national administration"},
+    {"system": "stratégie nationale de transformation numérique", "country_label": "stratégie nationale de transformation numérique portée par le PATNUC", "class": "", "platform": "", "owner": "PATNUC", "tiers": "national"},
+    {"system": "Projet d'Accélération de la Transformation Numérique au Cameroun (PATNUC)", "country_label": "PATNUC", "class": "programme", "platform": "", "owner": "Government of Cameroon", "tiers": "national"}
+  ],
+  "note": "A national digital transformation strategy is named as carried by PATNUC, with the e-Gov law as a pillar, but no act, text, scope, plan or reporting is stated, so no class or fact."
+}

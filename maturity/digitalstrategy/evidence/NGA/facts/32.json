@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-17-nigeria-hos-digital-transformation-working-committee",
+  "facts": [],
+  "systems": [
+    {"system": "Federal Civil Service digital transformation agenda (Federal Civil Service Digital Transformation Progress Report)", "country_label": "digital transformation agenda of the Federal Civil Service", "class": "government", "platform": "", "owner": "Office of the Head of the Civil Service of the Federation", "tiers": "federal ministries, departments and agencies"},
+    {"system": "Federal Civil Service Strategy and Implementation Plan", "country_label": "Federal Civil Service Strategy and Implementation Plan", "class": "", "platform": "", "owner": "Office of the Head of the Civil Service of the Federation", "tiers": "federal civil service"}
+  ],
+  "note": "The agenda approved by the Federal Executive Council concerns the federal civil service only, so it is class government and gives no fact; the Federal Executive Council approval and the 14 August 2026 inauguration of an 11-member committee are recorded here as systems context only."
+}

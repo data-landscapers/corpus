@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-04-uganda-national-digital-agriculture-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Agriculture Strategy", "country_label": "National Digital Agriculture Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Agriculture, Animal Industry and Fisheries with FAO", "tiers": "in development; consultative workshop held, three priority pillars"},
+    {"system": "Uganda Digital Transformation Roadmap", "country_label": "Uganda Digital Transformation Roadmap", "class": "", "platform": "", "owner": "", "tiers": "named only as one framework the agriculture strategy aligns with"}
+  ],
+  "note": "The strategy under development is sectoral (agriculture, thematic); the Roadmap is named without date, period or scope, so no fact."
+}

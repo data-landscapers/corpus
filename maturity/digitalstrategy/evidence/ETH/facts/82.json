@@ -1,0 +1,9 @@
+{
+  "slug": "2023-02-01-mint-assessment-provision-e-government-services",
+  "facts": [],
+  "systems": [
+    {"system": "Ten-Year National Development Plan", "country_label": "Ten-Year National Development Plan", "class": "development-plan", "platform": "", "owner": "Government of Ethiopia", "tiers": "national; aims to digitise 2,500 public services by 2030"},
+    {"system": "E-Services strategy (none exists)", "country_label": "overarching E-Services Strategy", "class": "government", "platform": "", "owner": "Ministry of Innovation and Technology", "tiers": "national; the assessment of February 2023 finds no strategy outlining which services to digitise, and recommends developing one"}
+  ],
+  "note": "The assessment concerns e-government services; its absence finding is for an e-services strategy (government class), not a national digital strategy, so no national-class fact."
+}

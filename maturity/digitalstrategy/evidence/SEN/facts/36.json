@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "At an event at the CICAD on 24 March 2026 the government marked the launch of key projects under the New Deal Technologique, including the Universal Connectivity Project and the National Interoperability Platform.", "as_of": "2026-03-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "At the March 2026 event authorities said that after one year of implementation significant progress had been made, with foundational infrastructure and systems in place; the article cites no targets measured against.", "as_of": "2026-03-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
+    {"system": "Universal Connectivity Project", "country_label": "Projet de Connectivité Universelle", "class": "programme", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
+    {"system": "National Interoperability Platform", "country_label": "Plateforme Nationale d'Interopérabilité", "class": "programme", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+  ],
+  "note": "Class national: the document describes a national digital roadmap with four pillars (digital sovereignty, digitisation of public services, digital economy, regional hub). No adoption act, period or cost stated."
+}

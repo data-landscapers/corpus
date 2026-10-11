@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya AI Strategy 2025-2030", "country_label": "Kenya AI Strategy 2025-2030", "class": "thematic", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "National Cybersecurity Strategy (2025-2029)", "country_label": "National Cybersecurity Strategy (2025-2029)", "class": "thematic", "platform": "", "owner": "Ministry of Interior and National Administration", "tiers": "national"},
+    {"system": "National Data Governance Policy", "country_label": "National Data Governance Policy", "class": "thematic", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Kenya Cloud Policy", "country_label": "Kenya Cloud Policy", "class": "thematic", "platform": "", "owner": "Government of Kenya (ICT ministry site)", "tiers": "government data"}
+  ],
+  "note": "Data protection roundup; names only thematic Kenyan strategies and policies, no national digital strategy."
+}

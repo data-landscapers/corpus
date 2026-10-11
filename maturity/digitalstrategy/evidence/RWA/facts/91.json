@@ -1,0 +1,10 @@
+{
+  "slug": "2023-03-01-rwa-rwanda-2023-2027-partnership-compact-pursuing-an-inclusive-and-transfo",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The Partnership Compact (March 2023) says UNICEF supports system strengthening in the education sector, including 'the digital transformation strategy'; it states no amount and does not say whether the support is money or technical help, and gives the strategy's date as the Compact's own (2023).", "as_of": "2023-03", "date_precision": "month", "system": "the digital transformation strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "the digital transformation strategy", "country_label": "digital transformation strategy", "class": "", "platform": "", "owner": "", "tiers": "named in an education-sector funding paragraph, beside the Education Management Information System and school connectivity; no description of scope, owner or adoption"}
+  ],
+  "note": "Passages only. The one named strategy is not described, so its class is left empty; the single fact is the dated UNICEF support, as the document words it. Nothing on standing, period, plan or reporting."
+}

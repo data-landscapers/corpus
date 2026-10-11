@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-xalam-botswana-data-center-market-briefing",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Xalam data-centre briefing says a Digital Transformation Strategy (SmartBots) was 'established' to enhance connectivity, build a knowledge workforce, improve digital skills and digitalise services; it names no adopting act (as_of is the briefing's January 2026 publication date).", "as_of": "2026-01", "date_precision": "month", "system": "SmartBots", "class": "national"}
+  ],
+  "systems": [
+    {"system": "SmartBots", "country_label": "Digital Transformation Strategy (SmartBots)", "class": "national", "platform": "", "owner": "Government of Botswana", "tiers": "national; aims at connectivity, knowledge workforce, digital skills and digitalisation"}
+  ],
+  "note": ""
+}

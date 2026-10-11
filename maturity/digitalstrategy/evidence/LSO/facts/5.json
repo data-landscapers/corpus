@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-29-lso-gov-micsti-electronic-transactions-communications-bill",
+  "facts": [],
+  "systems": [
+    {"system": "Electronic Transactions and Communications Bill, 2026", "country_label": "Electronic Transactions and Communications Bill, 2026", "class": "directive", "platform": "", "owner": "MICSTI", "tiers": "national"},
+    {"system": "National Digital Policy 2024", "country_label": "National Digital Policy of 2024", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Transformation Strategy 2024", "country_label": "National Digital Transformation Strategy 2024", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Names the strategy only as something the bill builds on; states no adoption, scope, period, plan or reporting, so no fact."
+}

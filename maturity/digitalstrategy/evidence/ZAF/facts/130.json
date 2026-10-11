@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-smart-africa-artificial-intelligence-for-africa-blueprint",
+  "facts": [],
+  "systems": [
+    {"system": "South Africa's national AI strategy (process led by the National Expert Advisory Group)", "country_label": "national AI strategy", "class": "thematic", "platform": "", "owner": "National Expert Advisory Group", "tiers": "national"},
+    {"system": "Presidential Commission on the Fourth Industrial Revolution (PC4IR) Report", "country_label": "PC4IR Report", "class": "", "platform": "", "owner": "Presidential Commission on the Fourth Industrial Revolution", "tiers": "national"}
+  ],
+  "note": "Passages only; the blueprint is a Smart Africa continental AI document. It names South Africa's AI strategy process and the PC4IR report without dated facts or scope for a national digital strategy."
+}

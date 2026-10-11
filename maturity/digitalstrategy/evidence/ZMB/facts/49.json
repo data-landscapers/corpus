@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-01-africa-broadband-mapping-zambia-national-event-report",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy", "class": "", "platform": "", "owner": "", "tiers": "national; noted by the policy group as a complementary instrument to the National ICT Policy"},
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national; described as the overarching framework governing ICTs"},
+    {"system": "Eighth National Development Plan", "country_label": "Eighth National Development Plan", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": "national; broadband mapping aligned with it"}
+  ],
+  "note": "ITU broadband mapping event report (9-11 December 2025) names the National Digital Transformation Strategy without dating or describing it, so class is left empty and no fact is recorded."
+}

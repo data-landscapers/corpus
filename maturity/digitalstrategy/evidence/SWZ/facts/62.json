@@ -1,0 +1,31 @@
+{
+ "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Eswatini Project (P508948)",
+   "country_label": "Digital Eswatini Project",
+   "class": "programme",
+   "platform": "",
+   "owner": "Ministry of ICT, World Bank",
+   "tiers": "USD 65 million; PIU operational 2026-01-01"
+  },
+  {
+   "system": "IDEA Programme",
+   "country_label": "COMESA IDEA Programme",
+   "class": "regional",
+   "platform": "",
+   "owner": "COMESA Secretariat, World Bank-financed",
+   "tiers": "Eswatini focused on project preparation in the period"
+  },
+  {
+   "system": "Digital Transformation Roadmap",
+   "country_label": "Digital Transformation Roadmap consulting assignment",
+   "class": "government",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": "classifies 50+ priority government services; contract award expected July 2026"
+  }
+ ],
+ "note": "Programme progress report; Eswatini's section covers the Digital Eswatini Project preparation phase (grant negotiations concluded 2026-05-18, loan approval June 2026). It refers to an unnamed 'Eswatini's strategy to build a competitive, inclusive digital economy' with no date or document, so no fact."
+}

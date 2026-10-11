@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-bcm-strategie-nationale-inclusion-financiere-snif-2023-2028",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale d'Inclusion Financière 2023-2028", "country_label": "SNIF 2023-2028", "class": "thematic", "platform": "", "owner": "Banque Centrale de Mauritanie", "tiers": "national; governance structure SGSNIF with quantitative targets and KPIs"},
+    {"system": "Agenda National de Transformation Numérique 2022-2025", "country_label": "Agenda National de Transformation Numérique 2022-2025", "class": "", "platform": "", "owner": "Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration", "tiers": "cited as a June 2022 source for the government's internet-cost target of 2.9% of GNI per capita"}
+  ],
+  "note": "The passages cite the digital agenda only as a source (June 2022) for a price target; its scope is not described here, so class is empty and no fact is recorded."
+}

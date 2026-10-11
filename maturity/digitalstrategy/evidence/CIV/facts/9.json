@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-11-afriksoir-cote-divoire-pacte-national-ia",
+  "facts": [],
+  "systems": [
+    {"system": "Pacte national pour l'intelligence artificielle", "country_label": "Pacte national pour l'IA", "class": "thematic", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation, CGECI, CCI-CI", "tiers": "national"},
+    {"system": "Feuille de route numérique 2026-2028", "country_label": "feuille de route numérique 2026-2028", "class": "ministry-plan", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": "national"},
+    {"system": "Plan national de développement 2026-2030", "country_label": "PND 2026-2030", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": "Passages concern the AI pact (signed 2026-09-11, no legal or financial obligation); the digital roadmap and the PND are named only as priorities the pact aligns with."
+}

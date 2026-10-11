@@ -1,0 +1,10 @@
+{
+  "slug": "2021-12-31-mozambique-resolucao-69-2021-politica-estrategia-nacional-seguranca-cibernetica",
+  "facts": [],
+  "systems": [
+    {"system": "Política de Segurança Cibernética e Estratégia da sua Implementação (PENSC)", "country_label": "PENSC", "class": "thematic", "platform": "", "owner": "Council of Ministers, approved 31 August 2021 by Resolução n.º 69/2021 (gazetted 31 December 2021)", "tiers": ""},
+    {"system": "Política de Informática (Resolução n.º 28/2000, de 12 de Dezembro)", "country_label": "Política de Informática", "class": "sector-ict", "platform": "", "owner": "Government of Mozambique; first ICT policy, revised 18 years later", "tiers": ""},
+    {"system": "Política para a Sociedade da Informação (Resolução n.º 17/2018, de 21 de Junho)", "country_label": "Política para a Sociedade da Informação", "class": "sector-ict", "platform": "", "owner": "Government of Mozambique; revision of the 2000 ICT policy", "tiers": ""}
+  ],
+  "note": "The document is the cybersecurity policy and strategy (thematic); its only statements on other policies are the adoption of the 2000 ICT policy and its 2018 revision as the Information Society Policy, both ICT-sector instruments, so no fact for the national sub-indicator."
+}

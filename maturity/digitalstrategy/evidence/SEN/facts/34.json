@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Senegal 2025", "country_label": "Digital Senegal 2025", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Plan Stratégique Santé Digitale 2018-2023", "country_label": "Plan Stratégique Santé Digitale 2018-2023", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "national"}
+  ],
+  "note": "Passages only, from a rural paper-records review. 'Digital Senegal 2025' is named once as a national ambition, with no scope and no dated fact, so no fact. The review is the author's AI-assisted compilation."
+}

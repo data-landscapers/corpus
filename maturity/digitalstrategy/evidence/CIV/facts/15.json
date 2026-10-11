@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-12-cote-divoire-ansut-strategic-plan-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Plan stratégique 2026-2030 de l'ANSUT", "country_label": "plan stratégique 2026-2030 de l'ANSUT", "class": "ministry-plan", "platform": "", "owner": "ANSUT", "tiers": "agency"},
+    {"system": "Stratégie nationale du numérique", "country_label": "Stratégie nationale du numérique", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": "national"},
+    {"system": "Plan national de développement 2026-2030", "country_label": "PND 2026-2030", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": "The article states ANSUT's plan was drawn from the PND and the national digital strategy (carried by the minister), 10 of whose projects ANSUT delivers; it describes no standing, text or reporting for the national strategy itself."
+}

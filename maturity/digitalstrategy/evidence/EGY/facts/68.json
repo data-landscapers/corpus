@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-05-egypt-property-registration-rate-below-10pct",
+  "facts": [],
+  "systems": [
+    {"system": "National Property Identification System / Real Estate Wealth Management System", "country_label": "National Property ID; Real Estate Wealth Management System (REWMS)", "class": "", "platform": "", "owner": "Government entities including the Real Estate Registration and Notarization Authority", "tiers": "national; nearly 30 million property IDs issued per the World Bank technical paper, under 10% of real estate formally registered"},
+    {"system": "Egypt's digital transformation agenda", "country_label": "broader digital transformation agenda", "class": "", "platform": "", "owner": "", "tiers": "national; named in passing with no description"}
+  ],
+  "note": "World Bank paper on property registration; a digital transformation agenda is named only in passing."
+}

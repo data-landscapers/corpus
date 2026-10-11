@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-01-world-bank-rwa-p173373-restructuring-paper-res00638",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Acceleration Project (P173373)", "country_label": "Digital Acceleration Project (RDAP)", "class": "programme", "platform": "", "owner": "Republic of Rwanda; implementing agencies Development Bank of Rwanda, NIDA, RISA", "tiers": "World Bank IDA financing of USD 79.11 million, approved 2021-11-30, closing 2026-12-31"},
+    {"system": "Single Digital Identification (SDID) system", "country_label": "SDID", "class": "programme", "platform": "", "owner": "National Identification Agency (NIDA)", "tiers": "nationwide enrolment from August 2025"},
+    {"system": "Irembo", "country_label": "Irembo", "class": "", "platform": "", "owner": "", "tiers": "e-services platform, upgrade ongoing"}
+  ],
+  "note": "A project restructuring paper; it refers to the 'government's overarching digital strategy' without naming, dating or describing it, so no fact about a national strategy is recorded."
+}

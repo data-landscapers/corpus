@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The IDS report says Senegal 'launched' its digital strategy for the next decade, the New Deal Technologique, in February 2025, citing MCTN 2025; it names no adopting act or body, and notes the strategy has strong support from the president and the prime minister.", "as_of": "2025-02", "date_precision": "month", "system": "New Deal Technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The report gives the strategy's 2034 goals: 90 percent of administrative procedures paperless, 90 percent of Senegalese with a digital ID, 80 percent use of digital services and 100 percent of critical data hosted in Senegal; it states no cost.", "as_of": "2034", "date_precision": "year", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Ministry of Digital Affairs (MCTN); technical arm Sénégal Numérique (SENUM)", "tiers": "national"},
+    {"system": "National digital ID project", "country_label": "identité numérique nationale", "class": "programme", "platform": "", "owner": "Ministry of Digital Affairs / SENUM", "tiers": "national"},
+    {"system": "Project for the Acceleration of the Digital Economy in Senegal (PAENS)", "country_label": "PAENS", "class": "programme", "platform": "", "owner": "Ministry of Digital Affairs, World Bank loan", "tiers": "national"}
+  ],
+  "note": "Passages only. Class national on the quoted description (digital transformation of the administration and economic sectors). The report also says the strategy has not been the object of an impact study, and that e-administration strategies before it were MCEN 2016 and PAENS 2023 (unnamed otherwise). Other countries' strategies in the passages (Egypt, Botswana, Côte d'Ivoire) are not Senegal's. The plan fact's as_of is the target year."
+}

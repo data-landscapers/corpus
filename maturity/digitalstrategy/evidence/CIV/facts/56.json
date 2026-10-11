@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The IDS Côte d'Ivoire country report cites the ministry's 2022 text of the national digital development strategy for 2021-2025 (SNNCI) in its bibliography as accessed on 18 October 2025, inside the stated period, and calls it the national digital transformation plan; no URL is given in the passages.", "as_of": "2025-10-18", "date_precision": "day", "system": "Stratégie nationale de développement du numérique 2021-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de développement du numérique 2021-2025", "country_label": "SNNCI 2021-2025", "class": "national", "platform": "", "owner": "Ministère de l'Économie Numérique, des Télécommunications et de l'Innovation", "tiers": "national"},
+    {"system": "Projet d'Appui au Renforcement de l'Administration Electronique (PARAE)", "country_label": "PARAE", "class": "programme", "platform": "", "owner": "government, African Development Bank financed", "tiers": "national"},
+    {"system": "Côte d'Ivoire Solidaire", "country_label": "Côte d'Ivoire Solidaire", "class": "development-plan", "platform": "", "owner": "President Alassane Ouattara", "tiers": "national"},
+    {"system": "Digital Code (Law No. 2017-803)", "country_label": "Code du numérique", "class": "directive", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": ""
+}

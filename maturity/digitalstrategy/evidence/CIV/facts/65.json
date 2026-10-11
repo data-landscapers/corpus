@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-02-digital-roadmap-232-public-services-techreviewafrica",
+  "facts": [],
+  "systems": [
+    {"system": "Digital roadmap of 232 identified public services (PADCI mapping study)", "country_label": "feuille de route numérique", "class": "government", "platform": "", "owner": "Ministry of Digital Transition and Digitalization under PADCI", "tiers": "public services"},
+    {"system": "Projet d'Accélération Digitale en Côte d'Ivoire (PADCI)", "country_label": "PADCI", "class": "programme", "platform": "", "owner": "Ministry of Digital Transition, World Bank co-financed", "tiers": "national"},
+    {"system": "Plan National de Développement 2026-2030", "country_label": "PND 2026-2030", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": "A mapping workshop (2025-10-01) of digital public services under PADCI; a services-only exercise, with its implementation action plan still to be validated."
+}

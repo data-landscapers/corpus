@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "Biometric Update, reporting a government announcement after a review of the three-year digital transformation operational plan, says the plan is part of the National Digital Transformation Strategy 2025-2044 and names components with a date for one of them (an interoperability platform expected in the fourth quarter of 2026); no cost is given.", "as_of": "2026-09", "date_precision": "month", "system": "National Digital Transformation Strategy 2025-2044", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The article says the Digital Transformation and Innovation Agency (ATDI), \"created in March to oversee the country's digital transformation\", is developing the interoperability platform, national digital ID and government data-centre components; it names no act and no budget line for the strategy.", "as_of": "2026-03", "date_precision": "month", "system": "National Digital Transformation Strategy 2025-2044", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy 2025-2044", "country_label": "National Digital Transformation Strategy 2025-2044", "class": "", "platform": "", "owner": "Government of Mozambique; ATDI named as overseeing digital transformation", "tiers": ""},
+    {"system": "Digital transformation operational plan (three-year)", "country_label": "Plano Operacional de Transformação Digital", "class": "", "platform": "", "owner": "Government; reviewed under the Minister of State Administration and Public Service", "tiers": ""},
+    {"system": "Mozambique 2025-2029 five-year government programme", "country_label": "Programa Quinquenal do Governo 2025-2029", "class": "development-plan", "platform": "", "owner": "Government of Mozambique", "tiers": ""},
+    {"system": "Digital Economy and e-Government Project (EDGE)", "country_label": "EDGE", "class": "programme", "platform": "", "owner": "World Bank financed", "tiers": ""}
+  ],
+  "note": "The article names the strategy and its period but does not describe its scope and states no adoption act, so facts are recorded with class empty; it gives no standing verb for the strategy itself."
+}

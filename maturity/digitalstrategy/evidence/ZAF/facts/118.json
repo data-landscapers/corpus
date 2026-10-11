@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-what-african-countries-can-learn-from-the-continent-s-top-performers-in-e-govern",
+  "facts": [],
+  "systems": [
+    {"system": "National e-government Strategy and Roadmap", "country_label": "National e-Government Strategy and Roadmap, developed in 2017 with three thrusts: e-services, e-governance and a digitally-enabled society", "class": "government", "platform": "", "owner": "Department of Communications and Digital Technologies (then Telecommunications and Postal Services)", "tiers": "National; SITA maintains national government back-office functions"},
+    {"system": "National e-Strategy", "country_label": "National e-Strategy, said to cover 'a wider scope, i.e., digital and knowledge economy'", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Broadband Policy 2013 / South Africa Connect", "country_label": "National broadband policy of 2013 (SA Connect); an update is described as pending", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": ""},
+    {"system": "National Integrated ICT Policy White Paper", "country_label": "National Integrated ICT Policy White Paper of 2016", "class": "sector-ict", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Development Plan 2030", "country_label": "National Development Plan 2030, the overarching framework for e-government policy", "class": "development-plan", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Minimum Interoperability Standards (MIOS)", "country_label": "Minimum Interoperability Standards Framework (DPSA, 2017)", "class": "thematic", "platform": "", "owner": "Department of Public Service and Administration", "tiers": "Government, industry and citizens"}
+  ],
+  "note": "The e-government strategy is described as government-only, so no fact for the national class. The 'National e-Strategy' is described only as wider in scope (digital and knowledge economy) with no date, adoption act or period, so it carries no fact and an empty class."
+}

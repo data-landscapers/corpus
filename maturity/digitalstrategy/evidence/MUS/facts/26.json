@@ -1,0 +1,16 @@
+{
+  "slug": "2026-01-28-mauritius-national-data-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "Mauritius National Data Strategy 2025-2029", "country_label": "Mauritius National Data Strategy 2025-2029", "class": "thematic", "platform": "", "owner": "Data Protection Office, Ministry of Information Technology, Communication and Innovation", "tiers": "public and private sectors"},
+    {"system": "Digital Transformation Blueprint 2025-2029", "country_label": "Digital Transformation Blueprint 2025-2029 / MITCI Blueprint", "class": "national", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national; 'a strategic roadmap' on modernising public services, empowering people through technology and strengthening national competitiveness"},
+    {"system": "Government Programme 2025-2029: A Bridge to the Future", "country_label": "Government Programme 2025-2029", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"},
+    {"system": "National Open Data Policy (May 2017)", "country_label": "National Open Data Policy", "class": "thematic", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "government datasets"},
+    {"system": "National Cybersecurity Strategy", "country_label": "National Cybersecurity Strategy", "class": "thematic", "platform": "", "owner": "Government of Mauritius", "tiers": "national"},
+    {"system": "Generative AI (GAI) Policy for public officers", "country_label": "Generative Artificial Intelligence Policy", "class": "directive", "platform": "", "owner": "Data Protection Office with MITCI", "tiers": "public officers, contractors and third parties dealing with public authorities"},
+    {"system": "Info Highway", "country_label": "Info Highway", "class": "", "platform": "publisher-subscriber", "owner": "Government of Mauritius", "tiers": "G2G and G2B"},
+    {"system": "Central Population Database", "country_label": "Central Population Database (CPD)", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "all government agencies"},
+    {"system": "DIVA", "country_label": "Digital Interactive Virtual Assistant", "class": "", "platform": "Agentic AI, multimodal LLMs, RAG", "owner": "Government of Mauritius", "tiers": "public services"}
+  ],
+  "note": "The document is the data strategy (thematic; PDF carries no dateline) and the excerpt ends mid-sentence. It calls the Blueprint 2025-2029 'a strategic roadmap' on public services and national competitiveness, and Enabler 5 of the Blueprint a data enabler with a proposed Data Management Office, but states no adoption act, text, plan, cost or report for it, so no fact."
+}

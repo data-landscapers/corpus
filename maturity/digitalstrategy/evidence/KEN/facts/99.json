@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-27 Kenya launches project to boost cyber security",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Cyber Resilience (KCR) Project", "country_label": "Kenya Cyber Resilience Project", "class": "programme", "platform": "", "owner": "EU-funded; implemented by Expertise France and EstDev", "tiers": "national"},
+    {"system": "National Cybersecurity Strategy", "country_label": "National Cybersecurity Strategy", "class": "thematic", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Digital Master Plan", "country_label": "Digital Master Plan", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+  ],
+  "note": "The project is stated as consistent with the Digital Master Plan; no dated fact about the plan itself and no scope is given."
+}

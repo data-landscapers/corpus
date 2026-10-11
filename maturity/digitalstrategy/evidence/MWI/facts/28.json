@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-20-local-authorities-ict-policy-dowa-malawi24",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Malawi24 reports the National Local Government Finance Committee saying Malawi has had one ICT policy for the nation, the 'National Digitalization Policy', described as addressing country-wide ICT challenges and priorities, with the Policy 'of 2023'; its source verb is 'establishment of the Policy', no adopting act or approving body is named, and the value 'announced' is used only because no act is on record in this document.", "as_of": "2023", "date_precision": "year", "system": "National Digitalization Policy", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digitalization Policy", "country_label": "National Digitalization Policy (2023)", "class": "", "platform": "", "owner": "Ministry of Information and Communications Technology (policy custodian)", "tiers": "national; described only as addressing country-wide ICT challenges and priorities"},
+    {"system": "Local Authorities ICT policy and ICT standards", "country_label": "ICT policy for Local Authorities", "class": "government", "platform": "", "owner": "National Local Government Finance Committee and Department of E-Government", "tiers": "local councils; validation sessions held 4 May 2026; aligned with the 2023 Digitalization policy"}
+  ],
+  "note": "Scope of the National Digitalization Policy is not described beyond 'country-wide ICT challenges and priorities', so class is left empty."
+}

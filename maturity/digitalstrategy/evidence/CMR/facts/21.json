@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-07-trb-receives-qos-monitoring-platforms-patnuc-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Acceleration Project (PATNUC)", "country_label": "PATNUC", "class": "programme", "platform": "", "owner": "Government of Cameroon with the World Bank", "tiers": "national"},
+    {"system": "Cameroon's digital transformation strategy", "country_label": "digital transformation strategy", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The minister calls PATNUC's handover part of the government's digital transformation strategy, a flagship priority of the Head of State; no name, act, text, scope or plan is given, so no class or fact."
+}

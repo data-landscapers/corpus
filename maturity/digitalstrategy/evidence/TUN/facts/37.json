@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-tunisia-s-interoperability-platform-phase-1-institutions",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Strategy 2025", "country_label": "National Digital Strategy 2025", "class": "", "platform": "", "owner": "Ministry of Communication Technologies (organised the workshop that names it)", "tiers": "UXP interconnection platform is a project within it, mainly under its axis of digital transformation of administration; no adoption, period or scope stated; page undated, year proxy 2024"},
+    {"system": "National interoperability platform (UXP) Phase 1", "country_label": "UXP national interconnection platform", "class": "programme", "platform": "UXP", "owner": "Ministry of Communication Technologies", "tiers": "first phase with four ministries (Interior, Education, Transport, Social Affairs); second phase to the rest"}
+  ],
+  "note": "The strategy is named only as the framework for a platform project; no dated adoption, period or report, so no fact."
+}

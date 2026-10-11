@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-01-lana-dbeibah-adopts-ai-ethics-charter-national-strategy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Prime Minister Abdulhamid Dbaiba of the Government of National Unity launched the National Artificial Intelligence Strategy 2026-2030 at a ceremony on 1 June 2026, together with the AI Ethics Charter, per LANA citing the Prime Minister's Media Office.", "as_of": "2026-06-01", "date_precision": "day", "system": "National Artificial Intelligence Strategy 2026-2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The strategy carries a timeframe and phased performance indicators and digital targets (80% of government entities using AI, national digital identity active for 70% of the population, 10,000 staff trained, 100 AI start-ups, 50% of government transactions automated, 70% of paper records digitised), with no cost stated, per LANA citing the Prime Minister's Media Office.", "as_of": "2026-06-01", "date_precision": "day", "system": "National Artificial Intelligence Strategy 2026-2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The Prime Minister launched the strategy and the AI Ethics Charter on 1 June 2026, per LANA.", "as_of": "2026-06-01", "date_precision": "day", "system": "National Artificial Intelligence Strategy 2026-2030", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy 2026-2030", "country_label": "National Artificial Intelligence Strategy 2026-2030 (the page headline calls it the National Digital Transformation Strategy 2026-2030)", "class": "national", "platform": "", "owner": "Government of National Unity; Minister of State for Digital Economy and Artificial Intelligence", "tiers": "national"},
+    {"system": "Artificial Intelligence Ethics Charter", "country_label": "National Charter for Artificial Intelligence Ethics", "class": "thematic", "platform": "", "owner": "Government of National Unity", "tiers": "national"}
+  ],
+  "note": "Classed national because the document describes the strategy as a comprehensive digital transformation (infrastructure, capabilities, innovation, public services, digital identity, e-transactions) launched by the Prime Minister, though it is named an AI strategy and the headline calls it a digital transformation strategy; other documents treat the AI-named strategy as thematic, so the parent should confirm the class."
+}

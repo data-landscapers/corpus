@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-14-zimbabwe-cabinet-23rd-press-briefing",
+  "facts": [],
+  "systems": [
+    {"system": "National Development Strategy 2 (NDS2)", "country_label": "National development Strategy 2", "class": "development-plan", "platform": "", "owner": "Government of Zimbabwe", "tiers": "named with others as the frame of the national digital transformation agenda"},
+    {"system": "Smart Zimbabwe 2030 Master Plan", "country_label": "Smart Zimbabwe 2030 Master Plan", "class": "", "platform": "", "owner": "", "tiers": "named only; scope not described in this document"},
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "", "platform": "", "owner": "", "tiers": "named only; scope not described in this document"},
+    {"system": "National Artificial Intelligence Strategy (2026-2030)", "country_label": "National Artificial Intelligence Strategy (2026-2030)", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Cabinet briefing only names four instruments as central to 'the national digital transformation agenda'; no dated fact about any of them and no description of the Master Plan or ICT Policy, so no fact."
+}

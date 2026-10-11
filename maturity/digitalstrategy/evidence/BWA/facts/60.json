@@ -1,0 +1,9 @@
+{
+  "slug": "2018-06-01-bwa-national-broadband-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "National Broadband Strategy", "country_label": "National Broadband Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Transport and Communications; Information Age Council to guide implementation and monitor progress", "tiers": "national; June 2018 text, covers broadband networks, services, applications and users"},
+    {"system": "National ICT Policy of 2007 (Maitlamo)", "country_label": "Maitlamo", "class": "sector-ict", "platform": "", "owner": "Government of Botswana", "tiers": "national; the document says the Broadband Strategy was developed with reference to it"}
+  ],
+  "note": "A thematic broadband strategy and an ICT sector policy; no national digital transformation strategy is stated."
+}

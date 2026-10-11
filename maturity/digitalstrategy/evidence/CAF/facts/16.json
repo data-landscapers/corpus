@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias",
+  "facts": [],
+  "systems": [
+    {"system": "Diagnostic de la République centrafricaine (strategic diagnostic and roadmap of the digital identity and civil status ecosystem)", "country_label": "Diagnostic de la République centrafricaine", "class": "thematic", "platform": "", "owner": "Government, financed by the World Bank", "tiers": "national; final report validated at a workshop in Bangui on 2025-04-17"},
+    {"system": "Politique nationale de l'état civil", "country_label": "Politique nationale de l'état civil", "class": "thematic", "platform": "", "owner": "Ministry of Territorial Administration", "tiers": "national; described as recently validated"},
+    {"system": "Projet de Gouvernance numérique du secteur public", "country_label": "Projet de Gouvernance numérique du secteur public (PGNSP)", "class": "programme", "platform": "", "owner": "World Bank-financed; beneficiaries include the ministries of Finance and Budget, Economy and Plan, Public Service, and Digital Economy", "tiers": "national; three components"}
+  ],
+  "note": "Identity and civil-status roadmap and project; thematic and programme classes, so no national-class fact."
+}

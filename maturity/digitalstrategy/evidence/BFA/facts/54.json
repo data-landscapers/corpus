@@ -1,0 +1,9 @@
+{
+  "slug": "2017-01-31-bfa-iati-44000-p155645-burkina-faso-egovernment-project",
+  "facts": [],
+  "systems": [
+    {"system": "eBurkina (Burkina-Faso eGovernment Project)", "country_label": "eBurkina", "class": "programme", "platform": "", "owner": "ANPTIC (implementing agency); World Bank financed, net commitment US$17,023,751, 2017-2022", "tiers": "National e-government enabling environment, shared platform, e-services portal, digital-economy incubators"},
+    {"system": "e-Government strategy", "country_label": "", "class": "government", "platform": "", "owner": "Government of Burkina Faso", "tiers": "Project component 1 is to review and upgrade it; no date or adoption stated"}
+  ],
+  "note": "The strategy named is for e-government only (class government); the document gives no fact on a national strategy."
+}

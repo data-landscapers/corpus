@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-26-namibia-fragmented-health-systems-digital-remodel",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Health Policy (2026-2036)", "country_label": "National Digital Health Policy", "class": "thematic", "platform": "", "owner": "Ministry of Health and Social Services", "tiers": "national; aims to integrate digital solutions across the healthcare system"},
+    {"system": "national e-health strategy", "country_label": "national e-health strategy", "class": "thematic", "platform": "", "owner": "Ministry of Health and Social Services", "tiers": "national; the earlier health effort the digital health policy builds on, no date given"}
+  ],
+  "note": "Health-sector policy story; both instruments named are for health only (thematic), so no fact is recorded for the national sub-indicator."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-22 Uganda launches prototype program for digital ID and public infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "Government Systems Prototype Showcase", "country_label": "Government Systems Prototype Showcase", "class": "programme", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "central government; digital ID, civil registration, DPI, health information, interoperability"},
+    {"system": "National Digital ID system", "country_label": "new national digital ID system", "class": "programme", "platform": "MOSIP", "owner": "", "tiers": "more than 28 million IDs migrated"}
+  ],
+  "note": "Innovation showcase and ID migration; mentions a digital transformation agenda generically, names no strategy."
+}

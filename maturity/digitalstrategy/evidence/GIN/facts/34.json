@@ -1,0 +1,8 @@
+{
+  "slug": "2023-01-01-usaid-gin-notre-sant--guinea-2023-notre-sante---guinea-digital-health",
+  "facts": [],
+  "systems": [
+    {"system": "Notre Santé - Guinea (Digital Health)", "country_label": "Notre Santé", "class": "programme", "platform": "DHIS2", "owner": "USAID", "tiers": "national; 2023-2028, USD 28,749,042 committed"}
+  ],
+  "note": "A donor-financed health programme; no national digital strategy stated."
+}

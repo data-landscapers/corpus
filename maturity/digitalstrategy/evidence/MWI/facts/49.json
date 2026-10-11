@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-25-national-ai-strategy-consultation-itweb",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "ITWeb Africa reports that Malawi 'has initiated regional consultation workshops to develop' its 'first-ever' National Digital Transformation Strategy (and National AI Strategy), led by the Department of E-Government with UNDP and the Public Private Partnership Commission; the strategies are to be blueprints 'across all sectors of the economy', with improved public service delivery; no adopting act is named, and the date is the article's publication date (2025-09-25) as the workshops' own date is not given.", "as_of": "2025-09-25", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "Regional consultation workshops to develop the National Digital Transformation Strategy were launched in September 2025 (reported 2025-09-25), led by the Department of E-Government with UNDP (Inclusive Digital Transformation for Malawi) and the PPP Commission (Digital Malawi Acceleration Project).", "as_of": "2025-09-25", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy", "country_label": "National digital Transformation Strategy", "class": "national", "platform": "", "owner": "Department of E-Government, with UNDP and PPPC", "tiers": "national; blueprint for a digital economy and service delivery across all sectors; called 'first-ever'"},
+    {"system": "National Artificial Intelligence Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "Department of E-Government, with UNDP and PPPC", "tiers": "national; first-ever"},
+    {"system": "Inclusive Digital Transformation for Malawi", "country_label": "", "class": "programme", "platform": "", "owner": "UNDP", "tiers": "supports the strategies"},
+    {"system": "Digital Malawi Acceleration Project", "country_label": "", "class": "programme", "platform": "", "owner": "Public Private Partnership Commission", "tiers": "supports the strategies"}
+  ],
+  "note": "The wording 'first-ever' may mean no earlier national digital transformation strategy; the document does not say it outright, so no standing:none fact is recorded."
+}

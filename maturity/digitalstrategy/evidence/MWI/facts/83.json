@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-mwi-undp-idt4m-quarterly-report-jul-sep2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "UNDP's IDT4M quarterly report for July to September 2025 says 'work has commenced on the development of Malawi's National Digital Transformation Strategy', building on the Digital Readiness Assessment, 'developed through a consultative process'; the report's plans for the next period are to 'develop and validate' the strategy together with an AI strategy. The event falls in the reporting quarter, no month given.", "as_of": "2025", "date_precision": "year", "system": "National Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy (DTS)", "class": "national", "platform": "", "owner": "Department of e-Government with UNDP support; described as a national roadmap to guide investments in digital public infrastructure, service delivery and inclusive digital governance", "tiers": "national"},
+    {"system": "National AI Strategy", "country_label": "AI Strategy", "class": "thematic", "platform": "", "owner": "Department of e-Government with UNDP; AI Landscape Assessment started as its baseline", "tiers": ""},
+    {"system": "Digital Readiness Assessment", "country_label": "Digital Readiness Assessment (DRA)", "class": "", "platform": "", "owner": "named as the basis for the strategy", "tiers": ""},
+    {"system": "National Registration Bureau Strategic Plan 2025-2030", "country_label": "NRB Strategic Plan 2025-2030", "class": "ministry-plan", "platform": "", "owner": "National Registration Bureau; 'officially launched' during CRVS and ID Day in the third quarter of 2025", "tiers": ""},
+    {"system": "National Digitalization Policy", "country_label": "National Digitalization Policy (2023)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "DPI Safeguards Framework", "country_label": "national framework for DPI safeguards", "class": "thematic", "platform": "", "owner": "DPI Safeguards Taskforce; developed and submitted for validation", "tiers": ""}
+  ],
+  "note": "The National Digitalization Policy (2023) is named only as an alignment reference with a year in its name, so no fact is recorded for it."
+}

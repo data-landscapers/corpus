@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-08-moz-tempo-intic-estrategia-nacional-transformacao-digital-dados",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "INTIC's chair presented a proposal for a National Strategy for Digital Transformation, Cybersecurity and Data Governance in the context of AI at the 61st FACIM in Maputo, in the week of the 8 September 2026 report.", "as_of": "2026-09", "date_precision": "month", "system": "Estratégia Nacional de Transformação Digital, de Segurança Cibernética e de Governação de Dados", "class": ""}
+  ],
+  "systems": [],
+  "note": "The document names the proposed strategy and its three areas but does not describe its scope or adopting body, so class is left empty."
+}

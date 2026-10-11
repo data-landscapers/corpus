@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-07-sudan-cbos-nips-rfp-v5",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Central Bank of Sudan's RFP of 7 April 2026 refers to 'the digital transformation strategy announced by the Digital transformation ministry since 2025'; the verb is 'announced', no act or adopting body is named, and the document does not describe the strategy's scope (as_of is 2025, the year given).", "as_of": "2025", "date_precision": "year", "system": "digital transformation strategy announced by the Digital transformation ministry", "class": ""}
+  ],
+  "systems": [
+    {"system": "digital transformation strategy announced by the Digital transformation ministry", "country_label": "digital transformation strategy", "class": "", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "scope not described; the payment-system project is said to lead on it"},
+    {"system": "National Instant Payment System (NIPS)", "country_label": "National Instant Payment System", "class": "", "platform": "", "owner": "Central Bank of Sudan", "tiers": "national instant payments (a payment project, not a strategy)"}
+  ],
+  "note": "Class left empty on the fact because the document names the ministry's strategy without describing its scope."
+}

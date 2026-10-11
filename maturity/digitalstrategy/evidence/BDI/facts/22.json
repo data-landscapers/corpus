@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-07-burundi-validates-national-data-governance-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Governance Strategy", "country_label": "National Data Governance Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy, with UNECA", "tiers": "national; validated 7 November 2025, seven pillars"},
+    {"system": "Vision Burundi 2040-2060", "country_label": "Vision 2040-2060", "class": "development-plan", "platform": "", "owner": "Government of Burundi", "tiers": "national"}
+  ],
+  "note": "The document covers a data governance strategy, a single-layer strategy (thematic); no national digital strategy is stated."
+}

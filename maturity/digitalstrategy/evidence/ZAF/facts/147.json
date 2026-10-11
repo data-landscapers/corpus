@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-16-dbe-digital-education-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Education Strategy", "country_label": "Digital Education Strategy", "class": "ministry-plan", "platform": "", "owner": "Department of Basic Education with the Department of Communications and Digital Technologies", "tiers": "basic education sector"},
+    {"system": "White Paper on e-Education (2004)", "country_label": "White Paper on e-Education", "class": "ministry-plan", "platform": "", "owner": "Department of Basic Education", "tiers": "basic education sector"},
+    {"system": "SA Connect Policy", "country_label": "SA Connect Policy", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national"}
+  ],
+  "note": "The Digital Education Strategy is a basic-education sector strategy (presented to HEDCOM 2025-09-02, awaiting Council of Education Ministers endorsement), so it is a ministry-plan and gives no fact."
+}

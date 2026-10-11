@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-sndeci-strategie-nationale-digitalisation-education-ci-2024-2028",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale de Digitalisation de l'Education en Côte d'Ivoire (SNDECI) 2024-2028", "country_label": "SNDECI", "class": "ministry-plan", "platform": "", "owner": "Ministère de l'Education Nationale et de l'Alphabétisation", "tiers": "education system"},
+    {"system": "Politique Nationale de la Digitalisation de l'Education (PNDE)", "country_label": "PNDE", "class": "ministry-plan", "platform": "", "owner": "Ministère de l'Education Nationale et de l'Alphabétisation", "tiers": "education system"}
+  ],
+  "note": "An education-ministry strategy for the education sector only (ministry-plan); it states nothing on the national digital strategy."
+}

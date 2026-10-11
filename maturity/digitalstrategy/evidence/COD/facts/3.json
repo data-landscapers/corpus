@@ -1,0 +1,16 @@
+{
+  "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Paradigm Initiative's Table 1 lists the Presidency, the Ministry of Post, Telecom and Digital Affairs and the regulator ARPTC as lead institutions for the DRC's Plan National du Numérique.", "as_of": "2026-09-22", "date_precision": "day", "system": "Plan National du Numérique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "Paradigm Initiative reports DRC public digital and ICT budget allocations of USD 39.8M in 2023, 99.6M in 2024 and 103.7M in 2025, increases it links largely to fibre backbone, rural telephony and implementation of the national digital plan (no date given for the statement, so the publication date is used).", "as_of": "2026-09-22", "date_precision": "day", "system": "Plan National du Numérique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "Paradigm Initiative's executive summary says the DRC remains heavily dependent on donor financing, and its funding table names National Digital Plan funds plus private-sector investment as the DRC's primary funding source (publication date used, no event date given).", "as_of": "2026-09-22", "date_precision": "day", "system": "Plan National du Numérique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Plan National du Numérique – Horizon 2025", "country_label": "Plan National du Numérique", "class": "national", "platform": "", "owner": "Presidency; Ministry of Post, Telecom and Digital Affairs; ARPTC", "tiers": "national; years covered given as 2019-2025 (horizon), described as ongoing"},
+    {"system": "Digital Code (Ordinance-Law 023/10 of 13 March 2023)", "country_label": "Code du numérique", "class": "directive", "platform": "", "owner": "Government", "tiers": "national"},
+    {"system": "Telecommunications and ICT Law 2020", "country_label": "Loi n°20-017", "class": "directive", "platform": "", "owner": "Government", "tiers": "national"},
+    {"system": "IDEA programme (Inclusive Digitalization in Eastern and Southern Africa)", "country_label": "IDEA", "class": "programme", "platform": "", "owner": "World Bank / AFD with the DRC government", "tiers": "national; donor-financed connectivity"},
+    {"system": "National ID, Mosolo interoperability, national fibre corridors, e-DRC rollout", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named as priority projects, no description of each"}
+  ],
+  "note": ""
+}

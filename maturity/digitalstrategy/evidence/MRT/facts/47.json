@@ -1,0 +1,15 @@
+{
+  "slug": "2022-08-26-world-bank-warcip-apl2-icr-mauritanie-backbone-national",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The World Bank completion report (26 August 2022) describes the National Strategy for the Modernization of the Administration and ICT 2012-2016, with pillars covering broadband and an IXP, a legal environment for the digital economy, a data centre and government intranet, local content and digital services, and the digital economy and sectoral technologies; its stated period ended in 2016, and the report links its text on the tic.gov.mr site.", "as_of": "2016", "date_precision": "year", "system": "National Strategy for the Modernization of the Administration and ICT 2012-2016", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Strategy for the Modernization of the Administration and ICT 2012-2016", "country_label": "Stratégie nationale de modernisation de l'administration et des TIC 2012-2016", "class": "national", "platform": "", "owner": "Government of Mauritania", "tiers": "national; six pillars per the report"},
+    {"system": "Digital Transition Agenda 2022-2025", "country_label": "new Mauritanian digital agenda 2022-2025 (Digital Transition Agenda)", "class": "national", "platform": "", "owner": "Government of Mauritania; MTNIMA", "tiers": "national; vision 'Make digital and Innovation a key lever for the Modernization of the Administration, Social Inclusion and Strengthening Competitiveness'; its orientations were influenced by studies delivered under WARCIP"},
+    {"system": "Policy Statement for the Telecommunications Sector 2013", "country_label": "Policy Statement for the telecommunications sector", "class": "sector-ict", "platform": "", "owner": "Government of Mauritania", "tiers": "national; adopted on January 31, 2013 per the report"},
+    {"system": "Strategy for broadband promotion and universal access (2019)", "country_label": "Strategy for broadband and universal access", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Third Poverty Reduction Strategy Paper (PRSP3) action plan", "country_label": "PRSP3 action plan", "class": "development-plan", "platform": "", "owner": "Government of Mauritania", "tiers": "national"},
+    {"system": "WARCIP APL2", "country_label": "West Africa Regional Communications Infrastructure Program APL2 (P123093)", "class": "programme", "platform": "", "owner": "Ministry of Higher Education, Scientific Research and ICT; World Bank", "tiers": "national; approved 2013-05-30, closed 2022-01-31 for Togo and 2021 for Mauritania; 1,710 km of fibre"}
+  ],
+  "note": "Excerpt of a completion report; the text ends in the efficacy section. The 2022-2025 agenda is described only by its vision and by WARCIP's influence on it; no adopting act or period fact is stated."
+}

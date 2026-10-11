@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-23-angola-passes-landmark-start-up-law",
+  "facts": [],
+  "systems": [
+    {"system": "Lei das Startups (start-up law)", "country_label": "Lei das Startups", "class": "directive", "platform": "", "owner": "National Assembly; Ministry of Industry and Commerce", "tiers": "national; passed unanimously, reported 23 March 2026, and described as a core pillar of the national digital transformation strategy"},
+    {"system": "Crescer Project (Youth Employment Project)", "country_label": "Projecto Crescer", "class": "programme", "platform": "", "owner": "Government of Angola with the African Development Bank", "tiers": "national; US$125 million"},
+    {"system": "DIGITAL.AO", "country_label": "DIGITAL.AO", "class": "", "platform": "", "owner": "", "tiers": "named as a government initiative to grow the start-up ecosystem; not described"}
+  ],
+  "note": "Mentions a national digital transformation strategy only generically as the frame of the start-up law; no name, adoption or content stated."
+}

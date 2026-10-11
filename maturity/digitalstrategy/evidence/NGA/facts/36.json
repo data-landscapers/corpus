@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-12-nigeria-unesco-nbte-tvet-digital-transformation-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "National Strategy for the Digital Transformation of TVET and Skills Development System in Nigeria", "country_label": "National Strategy for the Digital Transformation of TVET and Skills Development System in Nigeria", "class": "ministry-plan", "platform": "", "owner": "National Board for Technical Education, with UNESCO", "tiers": "technical and vocational education system"},
+    {"system": "National Digital Economy Policy and Strategy", "country_label": "National Digital Economy Policy and Strategy", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The TVET strategy was at a validation workshop on 11-12 August 2026 and covers one education sector, so it is not national class; the National Digital Economy Policy and Strategy is named only as something the TVET strategy was linked to, with no description or date."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-11 Ethiopia's Digital Government Strategy and Enterprise Architecture 2024-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Government Strategy and Government Enterprise Architecture 2024-2029", "country_label": "Digital Government Strategy and Enterprise Architecture 2024-2029", "class": "government", "platform": "", "owner": "Ministry of Innovation and Technology", "tiers": "national; presented at a final-review workshop on 11 July 2024 ahead of government approval"}
+  ],
+  "note": "A strategy for the government's own digital work (government class), so no national-class fact."
+}

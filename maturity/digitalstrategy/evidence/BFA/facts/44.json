@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project",
+  "facts": [],
+  "systems": [
+    {"system": "Burkina Faso Digital Acceleration Project (PACTDIGITAL)", "country_label": "Projet d'accélération de la transformation digitale (PACTDIGITAL)", "class": "programme", "platform": "", "owner": "Ministry of Digital Transition, Posts and Electronic Communications (implementing agency); World Bank financier", "tiers": "National; approved 23 January 2024, US$150 million, closing 30 November 2028; financing agreement ratified 12 June 2024 for over FCFA 92 billion, on a national vote line (section 31, programme 095)"},
+    {"system": "12 chantiers digital agenda", "country_label": "12 chantiers de la transformation digitale", "class": "national", "platform": "", "owner": "Ministry of Digital Transition (MTDPCE)", "tiers": "National; the record says the government framed PACTDIGITAL as its financial backbone on 11 November 2025"}
+  ],
+  "note": "The record describes a financed programme; the finance link to the 12 chantiers agenda is a government framing, not a budget line tied to a strategy, so no fact is recorded."
+}

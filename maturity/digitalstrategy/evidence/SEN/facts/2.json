@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-01-sen-ecofin-nokia-digital-infrastructure-cybersecurity-partnership",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Ecofin says the New Deal Technologique is a digital strategy 'launched' in February 2025; it names no adopting act or body.", "as_of": "2025-02", "date_precision": "month", "system": "New Deal Technologique", "class": ""}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "Ministry of Telecommunications and Digital Affairs", "tiers": "national"}
+  ],
+  "note": "The document describes the strategy's aims (digitising government services, infrastructure, digital sovereignty) but not that it covers the economy and the state, so class is left empty. Stated period 2025-2029 with 12 programmes and 50 priority projects, no text linked, so no period fact. The Nokia partnership is a programme, no fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2019-07-04-jo-2019-27-decret-2019-150-strategie-nationale-economie-numerique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Décret n° 2019-150 of 17 June 2019, published in the Journal officiel of 4 July 2019, approves the national strategy for the development of the digital economy; the held passages do not describe the strategy's contents beyond calling for new bodies such as ANSSI, so its coverage of the state is not shown.", "as_of": "2019-06-17", "date_precision": "day", "system": "stratégie nationale de développement de l'économie numérique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The held text of the 2019 Journal officiel says the Directorate General for Digital Economy Development is charged with implementing the national digital policy and that further bodies, starting with the national information systems security agency ANSSI, need to be created; dated to the Journal officiel's publication, 4 July 2019.", "as_of": "2019-07-04", "date_precision": "day", "system": "stratégie nationale de développement de l'économie numérique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "stratégie nationale de développement de l'économie numérique", "country_label": "Stratégie nationale de développement de l'économie numérique", "class": "national", "platform": "", "owner": "Direction générale du développement de l'économie numérique", "tiers": "national; approved by Décret n° 2019-150 of 17 June 2019"}
+  ],
+  "note": ""
+}

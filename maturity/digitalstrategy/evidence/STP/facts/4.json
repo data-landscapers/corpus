@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-11-world-bank-sao-tome-dpf-fiscal-energy-digital-connectivity",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The World Bank program document says the government \"has launched\" a national digital transformation strategy to expand broadband connectivity, modernise the legal and regulatory framework and invest in digital public infrastructure such as digital IDs and data exchange platforms; it names no adopting act or body, no date and no title, so the as_of is the document's published date.", "as_of": "2026-03-11", "date_precision": "day", "system": "national digital transformation strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "São Tomé and Príncipe Sustainable Development National Strategy 2026-2040 (ENDS)", "country_label": "Estratégia Nacional de Desenvolvimento Sustentável (ENDS)", "class": "development-plan", "platform": "", "owner": "Government of STP", "tiers": "national"},
+    {"system": "STP Fiscal Sustainability, Energy Access and Digital Connectivity Development Policy Financing", "country_label": "", "class": "programme", "platform": "", "owner": "World Bank (IDA grant of US$10 million to the government)", "tiers": "national"}
+  ],
+  "note": "The national digital transformation strategy is mentioned once and unnamed; the document gives no date, period, text, delivery plan or report for it. Standing is recorded as announced because the verb is launched by the government with no act named."
+}

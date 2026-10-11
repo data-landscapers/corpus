@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-15-tun-tunisienumerique-tradenet-elfatoora-facturation-electronique",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie gouvernementale de digitalisation de l'Administration", "country_label": "stratégie gouvernementale de digitalisation de l'Administration et l'amélioration de ses services en ligne", "class": "government", "platform": "", "owner": "Government", "tiers": "Cited as the frame for the e-invoicing portal; the article gives no name, date, period or text"},
+    {"system": "ELFATOORA electronic invoicing service and web portal (portail.elfatoora.tn)", "country_label": "ELFATOORA", "class": "", "platform": "", "owner": "Tunisie TradeNet", "tiers": "Web portal opened 15 September 2026 for firms and professionals with low invoicing volumes"}
+  ],
+  "note": "The article cites a government strategy for digitalising the Administration only as a frame, without name, date, period, adoption or cost, and its scope is the state's own administration (class government), so no fact is recorded."
+}

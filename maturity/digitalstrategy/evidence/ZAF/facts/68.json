@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-26-dha-annual-performance-plan-2026-27",
+  "facts": [],
+  "systems": [
+    {"system": "Department of Home Affairs Digital Transformation Strategy", "country_label": "Digital Transformation Strategy (DHA)", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental; the plan calls it the approved strategy of the DHA, aligned with SARS and government digital priorities"},
+    {"system": "DHA ICT Strategy 2020-2025", "country_label": "DHA ICT Strategy 2020-2025", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental; to be updated to incorporate the new vision"},
+    {"system": "Department of Home Affairs Annual Performance Plan 2026/27", "country_label": "Annual Performance Plan 2026/27", "class": "ministry-plan", "platform": "", "owner": "Department of Home Affairs", "tiers": "departmental; date of tabling March 2026"},
+    {"system": "Digital identity system", "country_label": "digital identity", "class": "programme", "platform": "PKI; facial recognition primary", "owner": "Department of Home Affairs with SARB and SARS", "tiers": "government-wide; hosting infrastructure 2026/27, operational 2027/28"},
+    {"system": "Electronic Travel Authorisation (ETA)", "country_label": "ETA", "class": "programme", "platform": "", "owner": "Department of Home Affairs", "tiers": "national"}
+  ],
+  "note": "The plan describes the Department of Home Affairs' own digital transformation strategy (ministry-plan) and refers to South Africa's broader digital transformation agenda without naming a document; no national-class fact."
+}

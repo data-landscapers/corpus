@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-14-rwanda-governance-decentralisation-sector-strategic-plan-2024-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Governance and Decentralisation Sector Strategic Plan 2024-2029", "country_label": "G&D SSP", "class": "ministry-plan", "platform": "", "owner": "Ministry of Local Government (MINALOC)", "tiers": "sector plan prepared as part of NST2, 2024/25-2028/29"},
+    {"system": "National Strategy for Transformation 2024-2029 (NST 2)", "country_label": "NST 2", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; successor to NST 1 (2017-2024)"}
+  ],
+  "note": "Sector plan under NST2; the passages mention a 'GoR digital policy' without naming or dating it, so no fact about a national digital strategy is recorded."
+}

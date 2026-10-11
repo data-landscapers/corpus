@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-27-etats-generaux-postes-telecoms-actualite",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The report says the Plan National du Numérique 'Horizon 2025' resulted from a validation workshop held in Kinshasa on 3 September 2019, and describes it as a strategic planning document with four pillars (infrastructure, content, application uses, governance and regulation) carrying the head of state's vision; no adopting act is named.", "as_of": "2019-09-03", "date_precision": "day", "system": "Plan National du Numérique – Horizon 2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Plan National du Numérique – Horizon 2025", "country_label": "PNN", "class": "national", "platform": "", "owner": "Presidency / Ministry of Posts and Telecommunications", "tiers": "national; digital development strategy to 2025; the president said in June 2025 that satellite projects (Monacosat, Starlink) fall within it"},
+    {"system": "États généraux des postes et des télécommunications", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "sector consultation approved by the Council of Ministers on 24 October 2025"}
+  ],
+  "note": ""
+}

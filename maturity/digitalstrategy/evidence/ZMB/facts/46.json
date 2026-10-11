@@ -1,0 +1,16 @@
+{
+  "slug": "2026-03-08-zps-headquarters-egovernment-study",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The journal study says that in 2023 the National Digital Transformation Strategy, anchored on the National Information and Communication Technology Policy of 2023, 'was adopted'; it names no adopting act or body, and cites Republic of Zambia 2023c for the strategy.", "as_of": "2023", "date_precision": "year", "system": "National Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy", "class": "national", "platform": "", "owner": "", "tiers": "national; five pillars (Digital Infrastructure, Digital Platforms, Digital Services, Digital Literacy and Skills, Digital Innovation and Entrepreneurship) with interventions cutting across sectors"},
+    {"system": "National Electronic Government Plan 2023-2026", "country_label": "National e-Government Plan 2023-2026", "class": "government", "platform": "", "owner": "SMART Zambia Institute", "tiers": "national; public sector digital transformation"},
+    {"system": "SMART Zambia Electronic Government Master Plan (2018-2030)", "country_label": "Smart Zambia Government Master Plan 2018-2030", "class": "government", "platform": "", "owner": "SMART Zambia Institute", "tiers": "national; developed from the Smart Zambia Agenda launched September 2015"},
+    {"system": "National Information and Communication Technology Policy", "country_label": "National ICT Policy (2006; 2023)", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Zambia Police Strategic Plan 2023-2026", "country_label": "Zambia Police Strategic Plan 2023-2026", "class": "ministry-plan", "platform": "", "owner": "Zambia Police Service", "tiers": "institution"},
+    {"system": "Fifth National Development Plan 2006-2010", "country_label": "Fifth National Development Plan", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": "national"},
+    {"system": "Sixth National Development Plan 2011-2015", "country_label": "Sixth National Development Plan", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": "national"}
+  ],
+  "note": "Academic study of e-government at Zambia Police HQ; the National Digital Transformation Strategy is named by its adoption year and pillars only, with no period or text link."
+}

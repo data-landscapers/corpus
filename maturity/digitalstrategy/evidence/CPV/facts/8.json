@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-04-national-data-ai-strategies-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "Data Strategy for Public Administration", "country_label": "Estratégia de Dados para a Administração Pública", "class": "thematic", "platform": "", "owner": "Government of Cabo Verde (Secretary of State for the Digital Economy)", "tiers": ""},
+    {"system": "national Artificial Intelligence Strategy", "country_label": "Estratégia Nacional de Inteligência Artificial", "class": "thematic", "platform": "", "owner": "Government of Cabo Verde (Secretary of State for the Digital Economy)", "tiers": ""}
+  ],
+  "note": "Both strategies named are single-layer (data, AI) and thematic; the document states a kick-off of their development reported 4 May 2026 and no national digital strategy."
+}

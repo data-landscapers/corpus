@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-02-cote-divoire-mtnit-mistral-partenariat-ia",
+  "facts": [],
+  "systems": [
+    {"system": "Feuille de Route Numérique 2026-2028", "country_label": "Feuille de Route Numérique 2026-2028", "class": "ministry-plan", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation (MTNIT)", "tiers": "national"},
+    {"system": "Plan National de Développement 2026-2030", "country_label": "PND 2026-2030", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": "A press release on an AI partnership; it states the roadmap has 40 structuring projects and an AI pillar but gives no standing, text, costing or reporting."
+}

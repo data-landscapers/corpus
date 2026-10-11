@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-27-comores-gouvernance-donnees-strategie-nationale-alwatwan",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Al-watwan reports the minister saying ANADEN is to contribute to implementing the Stratégie numérique Comores 2028 across the sectors of the economy.", "as_of": "2026-08-25", "date_precision": "day", "system": "Stratégie numérique Comores 2028", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de gouvernance des données", "country_label": "Stratégie nationale de gouvernance des données", "class": "thematic", "platform": "", "owner": "Ministère des Postes, des Télécommunications, de l'Économie numérique et de la Transparence", "tiers": "national; validated at a workshop of 24-25 August 2026, convened with AUDA-NEPAD, ANADEN to contribute to implementation"}
+  ],
+  "note": ""
+}

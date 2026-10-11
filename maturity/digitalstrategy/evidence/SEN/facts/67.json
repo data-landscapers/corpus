@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-25-sen-lettre-de-politique-sectorielle-de-la-sante-et-de-l-action-sociale-202",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie numérique du Sénégal Horizon 2034", "country_label": "Stratégie numérique du Sénégal Horizon 2034", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national; the health letter cites its axis 2 (digitalisation of public services) and axis 3 (development of the digital economy, objective 3.4 sector transformation incl. health)"},
+    {"system": "Programme de Digitalisation du Système de Santé 2023-2029", "country_label": "Programme de Digitalisation du Système de Santé 2023-2029", "class": "programme", "platform": "", "owner": "Ministry of Health and Social Action", "tiers": "health sector"},
+    {"system": "Lettre de Politique Sectorielle de la Santé et de l'Action sociale 2025-2029", "country_label": "LPS 2025/2029", "class": "ministry-plan", "platform": "", "owner": "Ministry of Health and Social Action", "tiers": "health and social action sector"}
+  ],
+  "note": "Health sector policy letter; cites the Stratégie numérique Horizon 2034 only as the frame for the health digitalisation programme, stating no adoption, period, plan or report for it; no fact."
+}

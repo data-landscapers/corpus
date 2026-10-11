@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-06-risa-government-of-rwanda-enterprise-architecture-framework-v2-1",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Government Strategy", "country_label": "RISA's Digital Government Strategy", "class": "", "platform": "", "owner": "Rwanda Information Society Authority (RISA)", "tiers": ""}
+  ],
+  "note": "Enterprise architecture framework extract; RISA's Digital Government Strategy is named only in the acquisition note, with no date, period or description of scope, so class is left empty."
+}

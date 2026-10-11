@@ -1,0 +1,10 @@
+{
+  "slug": "2024-11-25-worldbank-mdap-p176459-implementation-support-aide-memoire",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The World Bank aide memoire of the 18-25 November 2024 mission records the technical assistance to support development of the national Digital Transformation Strategy as one of two activities delayed by several months, with INTIC and INCM coordination named as the cause, and says that moving forward with the strategy's preparation is key; no adoption is stated.", "as_of": "2024-11", "date_precision": "month", "system": "national Digital Transformation Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "Mozambique Digital Acceleration Project (MDAP, P176459)", "country_label": "Mozambique Digital Acceleration Project", "class": "programme", "platform": "", "owner": "World Bank IDA financing (US$200M), implemented with MTC, INCM, INTIC and others", "tiers": ""}
+  ],
+  "note": "The document does not describe the strategy's scope, so the fact is recorded with class empty; it is a passages file and states only a delay in the technical assistance to develop the strategy."
+}

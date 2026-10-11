@@ -1,0 +1,12 @@
+{
+  "slug": "2026-04-20-lesotho-undp-lehokela-digital-policing-launch",
+  "facts": [],
+  "systems": [
+    {"system": "LMPS Digital Transformation Strategy", "country_label": "Digital Transformation Strategy of the Lesotho Mounted Police Service", "class": "ministry-plan", "platform": "", "owner": "Lesotho Mounted Police Service, with UNDP", "tiers": "police"},
+    {"system": "LMPS Digital Transformation Policy", "country_label": "Digital Transformation Policy of the Lesotho Mounted Police Service", "class": "ministry-plan", "platform": "", "owner": "Lesotho Mounted Police Service, with UNDP", "tiers": "police"},
+    {"system": "LMPS Strategic Plan", "country_label": "five-year Strategic Plan for the Lesotho Mounted Police Service", "class": "ministry-plan", "platform": "", "owner": "Lesotho Mounted Police Service", "tiers": "police"},
+    {"system": "Community Policing Sub-Strategic Plan", "country_label": "Community Policing Sub-Strategic Plan", "class": "ministry-plan", "platform": "", "owner": "Lesotho Mounted Police Service", "tiers": "police"},
+    {"system": "Lehokela Application", "country_label": "Lehokela Application", "class": "programme", "platform": "Android mobile app", "owner": "LMPS, UNDP, NUL and Econet Telecom Lesotho", "tiers": "community and police stations"}
+  ],
+  "note": "The 'Digital Transformation Strategy' named here is the police service's own (ministry-plan), so no fact for the national sub-indicator."
+}

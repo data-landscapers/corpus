@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-14-namibia-digital-infrastructure-sovereignty-pressure",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article states that Namibia's National Digital Strategy 2025-2029 identifies digital infrastructure, data sharing, cloud infrastructure and cybersecurity as parts of the digital transformation; it gives the period 2025-2029 and does not say whether the text is public. Dated by publication.", "as_of": "2026-08-14", "date_precision": "day", "system": "National Digital Strategy 2025-2029", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Strategy 2025-2029", "country_label": "National Digital Strategy 2025-2029", "class": "", "platform": "", "owner": "", "tiers": "covers digital infrastructure, data sharing, cloud and cybersecurity per the article; economy-and-state coverage not stated"}
+  ],
+  "note": "The strategy is only partly described (infrastructure themes), so its class is left empty."
+}

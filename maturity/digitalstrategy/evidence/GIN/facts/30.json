@@ -1,0 +1,8 @@
+{
+  "slug": "2023-11-07-worldbank-dtfa-wardip-sop1-pad4756",
+  "facts": [],
+  "systems": [
+    {"system": "DTfA/WARDIP SOP1 (P176932)", "country_label": "WARDIP", "class": "programme", "platform": "", "owner": "World Bank-financed; Guinea one of four countries", "tiers": "national and regional; subcomponent 4.3 finances technical assistance to develop whole-government digitalization strategies and national e-government strategies in Guinea, Gabon, Guinea-Bissau and Mauritania"}
+  ],
+  "note": "The appraisal document finances technical assistance for Guinea's whole-government digitalization strategy but names no existing Guinean national strategy, so no fact; the financed strategy is described as an e-government one (government class)."
+}

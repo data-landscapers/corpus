@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-30-fsca-builds-ai-guardrails-as-digital-regulation-expands",
+  "facts": [],
+  "systems": [
+    {"system": "FSCA digital transformation strategy", "country_label": "digital transformation strategy", "class": "ministry-plan", "platform": "", "owner": "Financial Sector Conduct Authority", "tiers": "regulator-internal"},
+    {"system": "FSCA AI framework", "country_label": "AI framework", "class": "thematic", "platform": "", "owner": "Financial Sector Conduct Authority", "tiers": "regulator-internal; being developed"}
+  ],
+  "note": "The only digital transformation strategy named is the FSCA's own, a regulator's plan (ministry-plan); no national strategy."
+}

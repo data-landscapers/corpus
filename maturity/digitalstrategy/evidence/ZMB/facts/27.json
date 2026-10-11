@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-10-digital-services-strengthen-zambia-finances",
+  "facts": [],
+  "systems": [
+    {"system": "ZamPortal", "country_label": "ZamPortal", "class": "", "platform": "", "owner": "Government of Zambia", "tiers": "national; more than 400 government services onboarded"},
+    {"system": "ZamPay", "country_label": "ZamPay", "class": "", "platform": "", "owner": "Office of the Accountant General", "tiers": "national; eight councils onboarded, plan for all 116 local authorities"},
+    {"system": "Government Service Bus", "country_label": "Government Service Bus", "class": "", "platform": "", "owner": "Government of Zambia", "tiers": "national"}
+  ],
+  "note": "Payment platform results; mentions the digital transformation agenda generically, names no strategy document."
+}

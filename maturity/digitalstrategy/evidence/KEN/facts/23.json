@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-01-gcg-analysis-national-ai-strategies-africa",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Artificial Intelligence Strategy 2025-2030", "country_label": "Kenya National AI Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national"},
+    {"system": "Kenya National AI Strategy Implementation Roadmap (2025)", "country_label": "Kenya National AI Strategy Implementation Roadmap", "class": "thematic", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national"},
+    {"system": "Artificial Intelligence and Other Emerging Technologies Policy 2026 (draft)", "country_label": "draft AI and Emerging Technologies Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "A report on AI strategies only; every Kenyan instrument named is single-technology (thematic), so no fact for the national sub-indicator."
+}

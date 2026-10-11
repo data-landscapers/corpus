@@ -1,0 +1,17 @@
+{
+  "slug": "2024-01-01-ken-ict-authority-strategic-plan-2024-2027",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The ICT Authority plan (published 2024) says it is aligned with the National Digital Master Plan 2022-2032 (once typed 2020-2032), a period that includes 2024; the document does not describe the master plan's scope or link its text.", "as_of": "2024", "date_precision": "year", "system": "National Digital Master Plan 2022-2032", "class": ""}
+  ],
+  "systems": [
+    {"system": "ICT Authority Strategic Plan 2024-2027", "country_label": "ICT Authority Strategic Plan 2024-2027", "class": "ministry-plan", "platform": "", "owner": "ICT Authority (under the State Department for ICT and Digital Economy)", "tiers": "agency; five key result areas and ten strategic objectives"},
+    {"system": "National Digital Master Plan 2022-2032", "country_label": "Kenya National Digital Master Plan 2022-2032", "class": "", "platform": "", "owner": "", "tiers": "national; cited as a national policy document prioritising ICT investment; scope not described"},
+    {"system": "Ministry of ICT and Digital Economy Strategic Plan 2024-2027", "country_label": "Ministry of IC & Digital Economy Strategic Plan (2024-2027)", "class": "ministry-plan", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "ministry"},
+    {"system": "Digital Economy Blueprint", "country_label": "Digital Economy Blueprint", "class": "", "platform": "", "owner": "", "tiers": "national; listed among policy documents the plan draws on; scope not described"},
+    {"system": "Kenya Digital Economy Strategy", "country_label": "Kenya Digital Economy Strategy", "class": "", "platform": "", "owner": "", "tiers": "national; listed among policy documents the plan draws on; scope not described"},
+    {"system": "National Digital Superhighway Programme", "country_label": "NDSP", "class": "programme", "platform": "", "owner": "", "tiers": "national; named in the plan's acronym list only"},
+    {"system": "Bottom-Up Economic Transformation Agenda", "country_label": "BETA", "class": "development-plan", "platform": "", "owner": "Government of Kenya", "tiers": "national; plan says it elevates the digital superhighway and creative economy as a priority pillar"},
+    {"system": "Medium Term Plan IV (2023-27) of Vision 2030", "country_label": "MTP IV", "class": "development-plan", "platform": "", "owner": "Government of Kenya", "tiers": "national; prioritises ICT investment as an enabler"}
+  ],
+  "note": "Plan is an agency plan (ministry-plan). Master Plan period fact has empty class: the document cites its period but not its scope."
+}

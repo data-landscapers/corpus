@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "Novissi", "country_label": "Novissi", "class": "programme", "platform": "machine learning, satellite imagery, mobile money", "owner": "Government of Togo, World Bank financed", "tiers": "national"}
+  ],
+  "note": "GTMI regional brief; Togo appears for its GTMI group and Novissi; no strategy."
+}

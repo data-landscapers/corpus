@@ -1,0 +1,10 @@
+{
+  "slug": "2019-10-03 Addressing SA's extreme digital inequality",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "Alison Gillwald (UCT/Research ICT Africa) wrote on 2019-10-03 that various government departments had developed policies in their sectoral silos but there was no overarching digital policy to coordinate the state and the public and private sectors; the document's own date is used, as the article gives none for the observation.", "as_of": "2019-10-03", "date_precision": "day", "system": "overarching digital policy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Presidential Commission on the Fourth Industrial Revolution", "country_label": "Commission on the Fourth Industrial Revolution", "class": "", "platform": "", "owner": "President Cyril Ramaphosa (appointed 2019)", "tiers": "national"}
+  ],
+  "note": "An op-ed; the one fact is the author's statement that no overarching digital policy existed. The 4IR commission is named without a scope that makes it a strategy."
+}

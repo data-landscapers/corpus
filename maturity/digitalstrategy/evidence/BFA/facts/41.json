@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-19 Burkina Faso Outlines 2025 Digital Agenda",
+  "facts": [],
+  "systems": [
+    {"system": "2025 digital agenda", "country_label": "Priorités 2025 du ministère de la Transition digitale", "class": "ministry-plan", "platform": "", "owner": "Ministry of Digital Transition, reviewed under the Prime Minister on 14 February 2025", "tiers": "National; 2025 priorities: data-centre build, 500 underserved localities, e-services, WURI enrolment, PACTDIGITAL launch"},
+    {"system": "PACTDIGITAL", "country_label": "PACTDIGITAL", "class": "programme", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "National; about USD 150 million"},
+    {"system": "WURI", "country_label": "WURI", "class": "programme", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "National unique-ID enrolment"}
+  ],
+  "note": "The document's agenda is the ministry's yearly priorities, so it is a ministry-plan and gives no national-class fact."
+}

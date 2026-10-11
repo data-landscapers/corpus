@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-11-liberia-lla-national-spatial-data-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "ARREST Agenda for Inclusive Development (AAID)", "country_label": "ARREST Agenda for Inclusive Development", "class": "development-plan", "platform": "", "owner": "President Joseph Nyuma Boakai's government", "tiers": ""},
+    {"system": "National Spatial Data Infrastructure (proposed)", "country_label": "National Spatial Data Infrastructure", "class": "thematic", "platform": "", "owner": "Liberia Land Authority", "tiers": ""}
+  ],
+  "note": "The document names the national development agenda (which includes support for digital transformation) and a proposed spatial data infrastructure; no national digital strategy is named."
+}

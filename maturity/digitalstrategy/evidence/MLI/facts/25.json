@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-worldbank-mali-digital-economy-diagnostic",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The World Bank diagnostic says the DNEN, a directorate within the ministry responsible for communication and the digital economy (MCENMA), was created to design and execute the digital transformation strategy and coordinate multi-sectoral digital projects, though mandates overlap and each agency executes its own strategy with little coordination; no creation date is given, so the document's 2023 publication date is used.", "as_of": "2023", "date_precision": "year", "system": "digital transformation strategy (unnamed)", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The diagnostic states the government established an interministerial committee under MCENMA by Decision n°00039/MCEN-SG of 22 April 2021 to coordinate the national digital transformation agenda at a strategic level, and that it was not yet operational because of the national political crisis; it recommends the committee lead development of the next digital transformation strategy.", "as_of": "2021-04-22", "date_precision": "day", "system": "digital transformation strategy (unnamed)", "class": ""}
+  ],
+  "systems": [
+    {"system": "digital transformation strategy (unnamed)", "country_label": "", "class": "", "platform": "", "owner": "DNEN, within MCENMA", "tiers": "national; the diagnostic refers to a digital transformation strategy and a 'next' one without naming either, and refers separately to 'the country's digital strategy' and 'the next digital economy strategy'"},
+    {"system": "national cybersecurity strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "AMRTP supported its development", "tiers": "national; the diagnostic recommends it be adopted along with an implementing agency"}
+  ],
+  "note": "Class left empty: the diagnostic names no digital transformation strategy and does not describe its scope. It also recommends, without stating one exists, a costed digital government strategy and a national IT master plan; neither is recorded."
+}

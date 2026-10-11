@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "Burkina Faso Public Sector Modernization Program (P132216)", "country_label": "", "class": "programme", "platform": "", "owner": "World Bank-financed", "tiers": "National public sector"},
+    {"system": "eBurkina Project (P155645)", "country_label": "eBurkina", "class": "programme", "platform": "", "owner": "World Bank-financed; recently completed", "tiers": "National e-services"}
+  ],
+  "note": "Regional GovTech brief; Burkina Faso appears for platforms and World Bank projects, not for a national digital strategy."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-01-01-unesco-sao-tome-principe-ai-readiness-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "Estratégia Nacional para a Governação Digital (ENGD)", "country_label": "Estratégia Nacional para a Governação Digital", "class": "government", "platform": "", "owner": "INIC implements it; monitored by the Comité de Governação Digital, created by Resolução n.º 35/2020 do Conselho de Ministros, which approved it in 2020", "tiers": "national; digital transformation initiatives across the sectors of governance to improve digital public services; the report says many of its initiatives remain unimplemented about four years on"},
+    {"system": "Programa do XVIII Governo Constitucional (2022/2026), Eixo 3, programa 3.4 Construção de uma sociedade digital, de criatividade e inovação", "country_label": "Programa do Governo", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "national; e-government, e-commerce and ICT training"},
+    {"system": "Grandes Opções do Plano 2024", "country_label": "GOPs", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "national; annual plan tied to the state budget"},
+    {"system": "Estratégia Nacional de Cibersegurança", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national; validation process under way per the report"},
+    {"system": "Estratégia Nacional de IA (proposed)", "country_label": "", "class": "thematic", "platform": "", "owner": "INIC proposed as implementer", "tiers": "national; the report states none exists and recommends a law approving one by 2027/2028"},
+    {"system": "Projecto STP Digital", "country_label": "Projecto STP Digital", "class": "programme", "platform": "", "owner": "World Bank financed, about USD 20 million, managed by AFAP", "tiers": "national"}
+  ],
+  "note": "The report states that the 2020 digital governance strategy (ENGD) was approved by Council of Ministers resolution; it covers digital public services and is class government, so no fact is recorded. It states there is no national AI strategy, a thematic class."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-01-oxford-tech-justice-gambia-limited-ai-deployment-and-regulation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The National Digital Economy Master Plan is given as 2023-2033, so it is inside its period as at the page's information date of June 2026. Text public: not stated.", "as_of": "2026-06", "date_precision": "month", "system": "National Digital Economy Master Plan 2023-2033", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Economy Master Plan 2023-2033", "country_label": "National Digital Economy Master Plan 2023-2033", "class": "", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national"}
+  ],
+  "note": "Names the Master Plan (years 2023-2033 as this document gives them) for its AI and justice recommendations; period fact added on second pass with class empty because the document does not describe the strategy's scope."
+}

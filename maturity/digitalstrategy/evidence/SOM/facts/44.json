@@ -1,0 +1,8 @@
+{
+  "slug": "2019-11-01-somalia-national-ict-policy-strategy-2019-2024",
+  "facts": [],
+  "systems": [
+    {"system": "National ICT Policy & Strategy 2019-2024", "country_label": "National ICT Policy & Strategy 2019-2024", "class": "sector-ict", "platform": "", "owner": "Ministry of Post, Telecommunications and Technology", "tiers": "national; the passages show a sector document (telecommunications, broadcasting, postal, payments, institutional roles)"}
+  ],
+  "note": "Only the contents list is held. It shows an ICT sector policy, so it is classed sector-ict and gives no national-class fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "PSSIS 2021-2025 (digital health strategic plan)", "country_label": "PSSIS 2021-2025", "class": "thematic", "platform": "", "owner": "health ministry", "tiers": "health sector"},
+    {"system": "PSSD 2026-2030 (digital health strategic plan, in budgeting)", "country_label": "PSSD 2026-2030", "class": "thematic", "platform": "", "owner": "health ministry", "tiers": "health sector"}
+  ],
+  "note": "Digital health strategies only (thematic); no national digital strategy is stated."
+}

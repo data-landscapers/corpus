@@ -1,0 +1,9 @@
+{
+  "slug": "2025-05-01-west-africa-data-center-markets-brief",
+  "facts": [],
+  "systems": [
+    {"system": "Government digital economy policy", "country_label": "digital economy policy", "class": "national", "platform": "", "owner": "Government of Ghana", "tiers": "national; aims to foster economic growth, improve public services and ensure equitable access"},
+    {"system": "Cyber Security Policy and Strategy (2014)", "country_label": "Cyber Security Policy and Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The brief describes Ghana's digital economy policy by aim only, giving no adoption act, period, plan or reporting; no aspect is stated."
+}

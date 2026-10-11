@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-ministere-sante-plan-strategique-sante-numerique-2025-2029",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The health ministry's plan lists the national digital economy strategy SN@DEN with a period of 2018-2027 and objectives covering its governance, digital trust, broadband, digital transformation of public administration, economic sectors and society, and human capital; the document does not say whether SN@DEN's own text is published.", "as_of": "2025-01", "date_precision": "month", "system": "Stratégie nationale de l'économie numérique (SN@DEN)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de l'économie numérique (SN@DEN)", "country_label": "SN@DEN", "class": "national", "platform": "", "owner": "Government of Burkina Faso; ministry in charge of digital", "tiers": "National; 2018-2027"},
+    {"system": "Plan stratégique de la santé numérique 2025-2029", "country_label": "PSSN", "class": "ministry-plan", "platform": "", "owner": "Ministère de la Santé", "tiers": "Health sector; January 2025"}
+  ],
+  "note": ""
+}

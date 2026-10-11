@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-28-nigeria-unveils-unified-government-service-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Government Service Portal", "country_label": "Government Service Portal (GSP)", "class": "", "platform": "", "owner": "Galaxy Backbone, with the Federal Ministry of Communications, Innovation and Digital Economy and KOICA", "tiers": "federal ministries, departments and agencies"},
+    {"system": "Nigerian Digital Exchange", "country_label": "Nigerian Digital Exchange", "class": "", "platform": "", "owner": "", "tiers": "authorised government agencies"}
+  ],
+  "note": "A service portal launch; the 'national digital transformation journey' is a generic phrase, no strategy named."
+}

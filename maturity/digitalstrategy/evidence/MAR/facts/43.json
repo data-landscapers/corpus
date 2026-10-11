@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-16-dcd-morocco-dakhla-500mw-renewable-data-centre",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article says the minister was appointed to her role following the October 2024 announcement of the country's digital strategy, titled Digital Morocco 2030, naming no adopting act.", "as_of": "2024-10", "date_precision": "month", "system": "Digital Morocco 2030", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Morocco 2030", "country_label": "Digital Morocco 2030", "class": "", "platform": "", "owner": "Ministry of Digital Transition", "tiers": ""}
+  ],
+  "note": "Class is left empty: the article does not describe the strategy's scope beyond calling it the country's digital strategy and naming outsourcing as a growth area."
+}

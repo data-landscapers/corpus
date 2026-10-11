@@ -1,0 +1,8 @@
+{
+  "slug": "2021-01-01-usaid-tza-digital-square-tanza-2021-digital-square-tanzania-pepfar-strengthening-capacity",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Square Tanzania PEPFAR Strengthening Capacity", "country_label": "Digital Square Tanzania", "class": "programme", "platform": "DHIS2; FHIR data exchange", "owner": "USAID and PEPFAR (US$2.5m grant, 2021-2026) with the Ministry of Health", "tiers": "health sector"}
+  ],
+  "note": "A donor health-information programme record; no digital strategy named."
+}

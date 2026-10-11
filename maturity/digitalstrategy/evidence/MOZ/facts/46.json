@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-09-world-bank-data-governance-mozambique-final",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The World Bank and AfDB diagnostic says the Government is developing a national digital transformation strategy and recommends that all data-related strategies align with it as the overarching framework; evidence is stated as updated to spring 2025, and the report was published 9 December 2025.", "as_of": "2025", "date_precision": "year", "system": "national digital transformation strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Plano Quinquenal do Governo (Five-Year Development Plan)", "country_label": "Plano Quinquenal do Governo", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "national; prioritises good governance and digital delivery of public services"},
+    {"system": "National Development Strategy 2025-2044", "country_label": "Estratégia Nacional de Desenvolvimento", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "national; elevates the digital agenda, expected to be approved by the National Assembly in 2025"},
+    {"system": "Public sector digital transformation strategy", "country_label": "", "class": "government", "platform": "", "owner": "Government", "tiers": "national; in preparation"},
+    {"system": "Artificial intelligence strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "Government; prepared under the World Bank EDGE project", "tiers": "national; in preparation"},
+    {"system": "Digital Governance and Economy (EDGE) Project", "country_label": "EDGE", "class": "programme", "platform": "", "owner": "Government; World Bank", "tiers": "national"},
+    {"system": "Mozambique Digital Acceleration Project (MDAP)", "country_label": "MDAP", "class": "programme", "platform": "", "owner": "Government; World Bank", "tiers": "national"}
+  ],
+  "note": ""
+}

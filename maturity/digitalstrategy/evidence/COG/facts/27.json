@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-17-congo-expands-rural-broadband-telecomreviewafrica",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Telecom Review Africa, on 17 October 2025, calls Congo's Digital Strategy 2030 'upcoming' and 'developed with World Bank support', describing it as the nation's long-term vision for digital sovereignty and innovation; no adoption is stated.", "as_of": "2025-10-17", "date_precision": "day", "system": "Digital Strategy 2030", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Strategy 2030", "country_label": "Congo's upcoming Digital Strategy 2030", "class": "", "platform": "", "owner": "developed with World Bank support", "tiers": "described as the nation's long-term vision for digital sovereignty and innovation, 'upcoming' in October 2025; coverage of economy and state not stated"},
+    {"system": "Digital Transformation Accelerator Project (PATN)", "country_label": "PATN", "class": "programme", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy; World Bank and EU, USD 100 million", "tiers": "national; 20 of 76 rural sites operational in October 2025"}
+  ],
+  "note": "Standing fact added on the second pass; class is empty because the document does not describe the strategy's scope."
+}

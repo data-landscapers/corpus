@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-10-huawei-public-administration-strategy-techreviewafrica",
+  "facts": [],
+  "systems": [
+    {"system": "Government digital transformation roadmap for public administration (in consultative shaping)", "country_label": "feuille de route de transformation numérique", "class": "government", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": "public administration"},
+    {"system": "PARAE", "country_label": "PARAE", "class": "programme", "platform": "", "owner": "", "tiers": ""},
+    {"system": "PADCI", "country_label": "PADCI", "class": "programme", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "national"}
+  ],
+  "note": "As of 2026-05-10 the ministry was consulting vendors to shape the government's digital transformation roadmap for public administration; no standing, text or cost is stated."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-02-senum-explains-new-deal-concepts",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Le Soleil says the New Deal Technologique was \"lancé\" (launched) by President Bassirou Diomaye Faye on 24 February 2025, as the official name of the country's digital transformation plan, within the Senegal Vision 2050 agenda; no other act is named.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "Le Soleil says that by 2034 the New Deal Technologique aims at 95% connectivity, 5,000 certified digital experts a year, 90% dematerialisation of administration, 150,000 direct and 200,000 indirect jobs and a 15% GDP contribution; no cost is given.", "as_of": "2025-03-02", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Presidency; SENUM SA explains it", "tiers": "national; four pillars incl. digital sovereignty, digitalisation of administration and public services, digital economy"},
+    {"system": "Sénégal Vision 2050", "country_label": "Sénégal Vision 2050", "class": "development-plan", "platform": "", "owner": "President Bassirou Diomaye Faye", "tiers": "national"}
+  ],
+  "note": "Plan date is the article's, since targets carry no separate date."
+}

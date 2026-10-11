@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-04-ecofinagency-malawi-private-investment-digital-connectivity",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Malawi Acceleration Project (DMAP)", "country_label": "DMAP", "class": "programme", "platform": "", "owner": "Ministry of ICT; World Bank-funded", "tiers": "national; rural towers, fibre, National Data Centre, digital ID"},
+    {"system": "Digital Malawi Foundations Project", "country_label": "Digital Malawi Foundations Project", "class": "programme", "platform": "", "owner": "World Bank-financed", "tiers": "predecessor of DMAP"}
+  ],
+  "note": "Mentions the ministry's 'digital transformation agenda' with no strategy document named; no fact."
+}

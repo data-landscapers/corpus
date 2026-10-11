@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-strategie-nationale-intelligence-artificielle-snia-2030-civ",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale de l'Intelligence Artificielle - SNIA 2030", "country_label": "SNIA 2030", "class": "thematic", "platform": "", "owner": "Ministère de la Transition Numérique et de la Digitalisation", "tiers": "national"}
+  ],
+  "note": "The AI strategy is a single-technology strategy (thematic), so it gives no fact for the national strategy."
+}

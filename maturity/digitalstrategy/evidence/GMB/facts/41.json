@@ -1,0 +1,13 @@
+{
+  "slug": "2024-05-17 Validation of The Gambia's National Digital ID and Digital Transformation Strategy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "UNECA reports a two-day validation workshop on 16-17 May 2024 for the National Digital ID and Digital Transformation Strategy 2023-2028; the workshop 'refined and validated' its action plans, and no adoption by an act or body is stated.", "as_of": "2024-05-17", "date_precision": "day", "system": "National Digital ID and Digital Transformation Strategy 2023-2028", "class": ""},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The strategy is titled 2023-2028, so it is inside its period as at the validation workshop of May 2024. Text public: not stated.", "as_of": "2024-05-17", "date_precision": "day", "system": "National Digital ID and Digital Transformation Strategy 2023-2028", "class": ""},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The 16-17 May 2024 workshop refined and validated action plans for both the Digital ID and Digital Transformation strategies; no cost or dated targets are stated.", "as_of": "2024-05-17", "date_precision": "day", "system": "National Digital ID and Digital Transformation Strategy 2023-2028", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The initiative was launched by the Government in December 2022 through the Ministry of Communications and Digital Economy, with technical and financial support from UNECA; no domestic budget line is stated.", "as_of": "2022-12", "date_precision": "month", "system": "National Digital ID and Digital Transformation Strategy 2023-2028", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital ID and Digital Transformation Strategy 2023-2028", "country_label": "National Digital ID and Digital Transformation Strategy 2023-2028", "class": "", "platform": "", "owner": "Ministry of Communications and Digital Economy, with UNECA support", "tiers": "national; validated 16-17 May 2024; action plans for both the Digital ID and Digital Transformation strategies refined and validated"}
+  ],
+  "note": "Facts added on second pass with class empty because the document does not describe the strategy's scope beyond harnessing digital technologies with pillars aligned to the national development plan; it states validation (not adoption) and no cost or reporting."
+}

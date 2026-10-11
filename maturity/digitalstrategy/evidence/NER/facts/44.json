@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-01-niger-enquete-tic-2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The INS survey report (March 2026) says the survey supports updating (\"actualisation\") the \"politique nationale du numérique, 2021-2030\"; it gives that period but does not say whether the text is public or describe its scope.", "as_of": "2026-03", "date_precision": "month", "system": "politique nationale du numérique (2021-2030)", "class": ""}
+  ],
+  "systems": [
+    {"system": "politique nationale du numérique (2021-2030)", "country_label": "politique nationale du numérique, 2021-2030", "class": "", "platform": "", "owner": "Ministère de la Communication et des Nouvelles Technologies de l'Information", "tiers": "Named as a national policy to be updated with the survey's results; no description of scope."},
+    {"system": "Programme de la Refondation pour la République (PRR) 2025-2029", "country_label": "Programme de la Réfondation pour la République 2025-2029", "class": "development-plan", "platform": "", "owner": "", "tiers": "Named as the national policy the survey supports; scope not described here."}
+  ],
+  "note": "Class left empty: the report names the 2021-2030 national digital policy and its update but does not describe its scope; period value rests only on March 2026 falling inside the stated years."
+}

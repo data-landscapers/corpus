@@ -1,0 +1,15 @@
+{
+  "slug": "2022-01-01-zimbabwe-national-ict-policy-2022-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Zimbabwe National Information and Communication Technology Policy 2022-2027 (ZNICTP 2022)", "country_label": "National ICT Policy 2022-2027", "class": "sector-ict", "platform": "", "owner": "Ministry of Information Communication Technology, Postal and Courier Services", "tiers": "Period 2022-2027; replaces the lapsed 2016-2020 policy; foreword signed by the President; no adoption date stated in the text"},
+    {"system": "Zimbabwe National Policy for ICT 2016-2020", "country_label": "National ICT Policy 2016-2020", "class": "sector-ict", "platform": "", "owner": "Ministry of Information Communication Technology, Postal and Courier Services", "tiers": "Described as lapsed; successor is the 2022-2027 policy"},
+    {"system": "Smart Zimbabwe 2030 Master Plan", "country_label": "Smart Zimbabwe 2030 Master Plan", "class": "", "platform": "", "owner": "", "tiers": "Named with four pillars (policy, regulation and statutes; secure and shared infrastructure; partnerships, skills, capacity building and content; confidence and security of network services); the document states no adoption act, date, period or cost"},
+    {"system": "National Development Strategy 1 (NDS1)", "country_label": "NDS1", "class": "development-plan", "platform": "", "owner": "", "tiers": "Lists the digital economy as a priority area"},
+    {"system": "National e-government strategy and implementation plan", "country_label": "national e-government strategy", "class": "government", "platform": "", "owner": "", "tiers": "ICT policy action: 'update and sign'; no date"},
+    {"system": "National Payment Systems Digital Financial Strategy", "country_label": "National Payments Systems Digital Financial Policy", "class": "thematic", "platform": "", "owner": "Reserve Bank of Zimbabwe", "tiers": ""},
+    {"system": "e-commerce strategy", "country_label": "e-commerce strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "To be developed under the 2022-2027 policy"},
+    {"system": "Fintech strategy", "country_label": "Fintech strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "To be developed under the 2022-2027 policy"}
+  ],
+  "note": "The only strategy-type document here is the National ICT Policy, a sector-ict policy under the typology; no instrument of class national is stated with a dated fact. Smart Zimbabwe 2030 Master Plan is named with pillars but no date or act, so no fact."
+}

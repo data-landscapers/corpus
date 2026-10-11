@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-06-digital-id-draft-regulation-gazetted",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "government", "platform": "", "owner": "The Presidency", "tiers": "described by the Minister as having the goal of digitalizing government services"},
+    {"system": "Draft amendments to the Identification Act of 1997 regulations (digital ID)", "country_label": "digital ID draft regulation", "class": "directive", "platform": "", "owner": "Department of Home Affairs", "tiers": "gazetted for comment until 6 June 2026"}
+  ],
+  "note": "No national-class strategy described; the Roadmap is named only by its goal of digitalising government services, with no dated fact."
+}

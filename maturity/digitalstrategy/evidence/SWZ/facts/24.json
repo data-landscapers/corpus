@@ -1,0 +1,63 @@
+{
+ "slug": "2026-06-08-worldbank-padhi01184-digital-eswatini-project",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government in Your Hand Strategy / Digital Transformation Strategy 2024-2028",
+   "country_label": "Government at Your Hands Digitalization Strategy (2024-2028); Digital Transformation Strategy 2024-2028 ('Government in Your Hand')",
+   "class": "government",
+   "platform": "",
+   "owner": "Ministry of ICT (lead coordinator); Royal Science and Technology Park oversees system integration and procurement",
+   "tiers": "moving services online"
+  },
+  {
+   "system": "Digital Eswatini Project (P508948)",
+   "country_label": "Digital Eswatini Project",
+   "class": "programme",
+   "platform": "",
+   "owner": "Ministry of ICT PIU; EPTC for sub-component 1.1",
+   "tiers": "US$65.0m; approved 2026-06-15; closing 2031-07-31"
+  },
+  {
+   "system": "IDEA Multi-phase Programmatic Approach",
+   "country_label": "Inclusive Digitalization in Eastern and Southern Africa",
+   "class": "regional",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": "Eswatini in phase 3"
+  },
+  {
+   "system": "National Cybersecurity Strategy",
+   "country_label": "National Cybersecurity Strategy",
+   "class": "thematic",
+   "platform": "",
+   "owner": "",
+   "tiers": "named as part of legal roadmap"
+  },
+  {
+   "system": "Digital Government Implementation Roadmap",
+   "country_label": "implementation roadmap for prioritising services",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of ICT, World Bank grant US$2m",
+   "tiers": "expected complete December 2026"
+  },
+  {
+   "system": "e-service portal (online.gov.sz)",
+   "country_label": "e-gov portal",
+   "class": "",
+   "platform": "web portal",
+   "owner": "Ministry of ICT",
+   "tiers": "few services: tax, utilities"
+  },
+  {
+   "system": "National Population Register / National ID",
+   "country_label": "National Population Register / National ID",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "ID coverage 85-90 percent"
+  }
+ ],
+ "note": "World Bank PAD; stored text ends mid-sentence at para 66. Para 19 names the 'Government at Your Hands Digitalization Strategy (2024-2028)' as positioning the Ministry of ICT as lead coordinator, and para 52 names 'Eswatini's Digital Transformation Strategy 2024-2028 (Government in Your Hand)' as envisioning moving services online (e-health, digital IDs, licensing, tax, utilities). The document describes it as services-only, so it is classed government and no fact is recorded; the parent may reclassify (period 2024-2028 stated; text public: not stated; MICT lead coordinator per para 19; PAD component 2 finances it at US$25.0m, IDA/IBRD)."
+}

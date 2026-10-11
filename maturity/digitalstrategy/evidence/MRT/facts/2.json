@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-25-mrt-webmanagercenter-fintech-regional-lab",
+  "facts": [],
+  "systems": [
+    {"system": "Loi n°2024-002 relative aux startups technologiques et innovantes", "country_label": "loi n°2024-002 relative aux startups technologiques et innovantes", "class": "directive", "platform": "", "owner": "", "tiers": ""},
+    {"system": "BCM innovation policy (DigiLab, regulatory sandbox, BCM Fintech Program)", "country_label": "politique d'innovation de la Banque Centrale de Mauritanie", "class": "thematic", "platform": "", "owner": "Banque Centrale de Mauritanie", "tiers": ""}
+  ],
+  "note": "Uses 'agenda numérique' only as a general phrase; names no national digital strategy."
+}

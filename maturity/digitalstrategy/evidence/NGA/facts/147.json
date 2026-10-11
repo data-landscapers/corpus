@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria Digital Identification for Development Project (P167183)", "country_label": "Nigeria Digital Identification for Development Project", "class": "programme", "platform": "", "owner": "World Bank financed", "tiers": "national"},
+    {"system": "States Fiscal Transparency, Accountability and Sustainability (SFTAS) Program-for-Results (P162009)", "country_label": "SFTAS", "class": "programme", "platform": "", "owner": "World Bank financed", "tiers": "state level, all 36 states"}
+  ],
+  "note": "World Bank GovTech brief; ranks Nigeria in GTMI group B and describes projects, but names no national digital strategy."
+}

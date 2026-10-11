@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-09-treasury-mzansixchange-pilot-launch-speech",
+  "facts": [],
+  "systems": [
+    {"system": "Roadmap for the Digital Transformation of Government", "country_label": "Roadmap for the Digital Transformation of Government", "class": "government", "platform": "", "owner": "Presidency and Department of Communications and Digital Technologies (co-leads); Inter-Ministerial Committee and Interdepartmental Working Group on Digital Transformation", "tiers": "whole of government; Cabinet approved March 2025, officially launched May 2025"},
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "programme", "platform": "", "owner": "National Treasury", "tiers": "national; pilot launched 9 October 2025; cross-government data sharing"}
+  ],
+  "note": "The speech names the Roadmap by its title for the digital transformation of government (class government), so no national-class fact is recorded."
+}

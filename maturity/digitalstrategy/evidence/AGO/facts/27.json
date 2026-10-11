@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-09-tdr-politica-nacional-de-gestao-e-hospedagem-de-dados-publicos",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda de Transição Digital da Administração Pública até 2027", "country_label": "Agenda de Transição Digital da Administração Pública", "class": "government", "platform": "", "owner": "Government of Angola", "tiers": "public administration; the document says the Government is implementing and consolidating it as the strategic instrument that guides and prioritises modernisation initiatives"},
+    {"system": "Política Nacional de Gestão e Hospedagem de Dados Públicos", "country_label": "Política Nacional de Gestão e Hospedagem de Dados Públicos", "class": "thematic", "platform": "", "owner": "Instituto de Modernização Administrativa (IMA) under PADA", "tiers": "state public data; a consultancy is being procured to produce the policy and its regulations"},
+    {"system": "Lei-Quadro do Governo Digital (in preparation)", "country_label": "Lei-Quadro do Governo Digital", "class": "directive", "platform": "", "owner": "", "tiers": "public administration; described as being drafted in February 2026"},
+    {"system": "Framework de Interoperabilidade", "country_label": "Framework de Interoperabilidade", "class": "thematic", "platform": "", "owner": "", "tiers": "public administration; existing rules and standards for information sharing between systems"},
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "PADA", "class": "programme", "platform": "", "owner": "IMA with the World Bank", "tiers": "national"}
+  ],
+  "note": "Terms of reference for a data-policy consultancy; the only strategy named is the public-administration agenda."
+}

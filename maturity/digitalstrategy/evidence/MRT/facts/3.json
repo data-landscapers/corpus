@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-21-mtnima-etablissements-sous-tutelle",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The digital ministry's page says Mauritania joined the World Bank-supported WARDIP to strengthen implementation of its digital transformation strategy, and that WARDIP will serve as a lever to attract private investment and co-financing for the activities planned in the 2022-2025 digital transformation agenda; page published 2026-09-21, used as the date.", "as_of": "2026-09-21", "date_precision": "day", "system": "agenda de transformation numérique 2022-2025", "class": ""}
+  ],
+  "systems": [
+    {"system": "agenda de transformation numérique 2022-2025", "country_label": "agenda de transformation numérique 2022-2025", "class": "", "platform": "", "owner": "Ministère de la Transformation numérique", "tiers": ""},
+    {"system": "WARDIP", "country_label": "Projet d'Intégration Numérique Régional en Afrique de l'Ouest (WARDIP)", "class": "programme", "platform": "", "owner": "Ministère de la Transformation numérique (project management unit)", "tiers": "national"},
+    {"system": "WARCIP", "country_label": "Projet WARCIP", "class": "programme", "platform": "", "owner": "Ministère de la Transformation numérique", "tiers": "national"}
+  ],
+  "note": "The page does not describe the agenda's scope, so its class is left empty; the fact (World Bank-supported WARDIP as co-financing lever) is recorded with class empty."
+}

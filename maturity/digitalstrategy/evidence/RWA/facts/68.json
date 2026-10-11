@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-04-oakes-rwanda-digital-governance-smart-state",
+  "facts": [],
+  "systems": [
+    {"system": "National FinTech Strategy", "country_label": "National FinTech Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "five-year framework; goal of USD 200 million investment, 7,500 jobs and 80% fintech adoption by 2029"},
+    {"system": "Rwanda Digital Acceleration Project (RDAP)", "country_label": "RDAP", "class": "programme", "platform": "", "owner": "World Bank-financed; Government of Rwanda", "tiers": "active 2022 to 2026: broadband, public service digitalisation, digital ID"},
+    {"system": "Smart City Rwanda Master Plan", "country_label": "Smart City Rwanda Master Plan", "class": "", "platform": "", "owner": "", "tiers": "named '2020'; described only as, with Vision 2050, putting ICT at the heart of national development"}
+  ],
+  "note": "Commentary piece; no national digital strategy is named. The 2020 Smart City Rwanda Master Plan is given a year only, with no act, verb or scope, so no fact is recorded."
+}

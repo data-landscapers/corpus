@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-17-nipx-establishment-peering-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Strategy", "country_label": "Digital Transformation Strategy", "class": "", "platform": "", "owner": "", "tiers": "national; named only as an alignment point"},
+    {"system": "National Broadband Policy", "country_label": "National Broadband Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national; named only as an alignment point"},
+    {"system": "National Peering Policy", "country_label": "National Peering Policy", "class": "thematic", "platform": "", "owner": "NITA-U under the Ministry of ICT and National Guidance", "tiers": "ISPs and content providers connecting to the NIPX"}
+  ],
+  "note": "A peering-exchange announcement; it names a Digital Transformation Strategy as an alignment point and states nothing dated or descriptive about it."
+}

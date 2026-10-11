@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-21-benin-programme-wadagni-talata-2026-2033",
+  "facts": [],
+  "systems": [
+    {"system": "Plus loin, ensemble — Programme 2026-2033 (Wadagni–Talata)", "country_label": "Programme 2026-2033, projet de société Wadagni–Talata", "class": "development-plan", "platform": "", "owner": "presidential candidate ticket (Wadagni–Talata), presented 21 March 2026", "tiers": "national; campaign programme with a cross-cutting technology chapter, not a government-adopted strategy"},
+    {"system": "Stratégie Nationale IA et Mégadonnées", "country_label": "Stratégie Nationale IA et Mégadonnées", "class": "thematic", "platform": "", "owner": "government", "tiers": "national"},
+    {"system": "Super App IA Gouvernementale", "country_label": "Super App IA Gouvernementale", "class": "", "platform": "", "owner": "government", "tiers": "national"}
+  ],
+  "note": "A campaign programme, not an adopted government strategy; it states digital pledges and dates (100% of procedures online by 2030, dematerialisation by 2033) but names no national digital strategy instrument."
+}

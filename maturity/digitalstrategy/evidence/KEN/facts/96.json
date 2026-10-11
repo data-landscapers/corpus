@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-20-real-test-ai-roadmap-nation",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya National AI Strategy implementation roadmap 2025-2030", "country_label": "AI Strategy implementation roadmap 2025-2030", "class": "thematic", "platform": "", "owner": "Ministry of ICT and the Digital Economy", "tiers": "national"},
+    {"system": "Kenya Digital Economy Blueprint", "country_label": "Digital Economy Blueprint", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Vision 2030", "country_label": "Vision 2030", "class": "development-plan", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+  ],
+  "note": "Article concerns the AI strategy roadmap (thematic); the Digital Economy Blueprint is only named as a framework it links to, with no dated fact or scope."
+}

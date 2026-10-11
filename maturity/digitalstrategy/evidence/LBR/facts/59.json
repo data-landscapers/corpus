@@ -1,0 +1,10 @@
+{
+  "slug": "2020-01-01-liberia-worldbank-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Strategy (2014-2018)", "country_label": "e-Government Strategy", "class": "government", "platform": "", "owner": "Government of Liberia", "tiers": "central government; stated objective is using ICT to bring government closer to the people"},
+    {"system": "eLiberia", "country_label": "eLiberia", "class": "", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "one-stop e-portal for government e-services, limited to information"},
+    {"system": "ICT Policy", "country_label": "ICT Policy", "class": "sector-ict", "platform": "", "owner": "Government of Liberia", "tiers": "contains infrastructure sharing and dig-once policy"}
+  ],
+  "note": "World Bank assessment dates the e-Government Strategy 2014-2018 but it is not a national-class strategy; the assessment names no national digital strategy."
+}

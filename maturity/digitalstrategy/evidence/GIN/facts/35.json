@@ -1,0 +1,12 @@
+{
+  "slug": "2021-01-01-banque-mondiale-de4a-etude-diagnostique-guinee",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The World Bank diagnostic says the government is encouraged to update its 2016-2020 ICT strategy and that the study contributes to the effort to draft a new comprehensive strategy document for Guinea's digital transformation; the report is undated and 2021 is its publication year.", "as_of": "2021", "date_precision": "year", "system": "nouveau document stratégique global pour la transformation numérique de la Guinée", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Document de Politique et Stratégies Nationales de Développement des TIC 2016-2020", "country_label": "Politique et stratégie nationales pour le développement des TIC 2016-2020", "class": "sector-ict", "platform": "", "owner": "MPTEN, with World Bank WARCIP support", "tiers": "national; three pillars: governance, connectivity and ICT, ICT for development; target of digital economy at 7 per cent of GDP by 2020"},
+    {"system": "WURI (West Africa Unique Identification for Regional Integration and Inclusion)", "country_label": "WURI", "class": "programme", "platform": "", "owner": "World Bank-financed", "tiers": "national"},
+    {"system": "Conseil National de l'Agenda Numérique (CNAM)", "country_label": "CNAM", "class": "", "platform": "", "owner": "", "tiers": "named only in the acronym list, with no description"}
+  ],
+  "note": ""
+}

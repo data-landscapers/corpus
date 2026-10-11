@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-27-comesa-idea-annual-digital-forum-launch-lusaka",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Transformation Programme", "country_label": "National Digital Transformation Programme", "class": "programme", "platform": "", "owner": "Ministry of Technology and Science", "tiers": "national; more than 300 communication towers built since 2022 in underserved and rural areas"},
+    {"system": "IDEA Programme", "country_label": "Inclusive Digitalisation for East and Southern Africa (IDEA) Programme", "class": "regional", "platform": "", "owner": "COMESA Secretariat, World Bank-funded", "tiers": "regional; implemented in Zambia, DRC, Malawi and Angola under Phase I"}
+  ],
+  "note": "Names the National Digital Transformation Programme by its infrastructure achievements, not a strategy document; no dated strategy fact."
+}

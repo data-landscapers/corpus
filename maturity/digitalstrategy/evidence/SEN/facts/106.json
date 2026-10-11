@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-23-aps-premier-fablab-senegal-digital-factory-diamniadio",
+  "facts": [],
+  "systems": [
+    {"system": "stratégie nationale de transformation numérique", "country_label": "stratégie nationale de transformation numérique", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "named as the frame of the FabLab inauguration; scope not described"},
+    {"system": "New Deal technologique", "country_label": "New Deal technologique", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "named as containing the Sénégal Digital Factory programme; scope not described here"},
+    {"system": "Sénégal Digital Factory", "country_label": "Sénégal Digital Factory", "class": "programme", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital Affairs; UNDP support", "tiers": "FabLab network; first FabLab to open 27 April 2026 at Université Amadou Makhtar Mbow, Diamniadio; extension to eight economic poles"}
+  ],
+  "note": "APS report on a FabLab; states no dated fact about the strategy itself."
+}

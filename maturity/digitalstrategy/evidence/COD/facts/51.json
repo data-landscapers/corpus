@@ -1,0 +1,9 @@
+{
+  "slug": "2020-08-06-anicns-pndis-ii-plan-national-informatique-sante",
+  "facts": [],
+  "systems": [
+    {"system": "Plan National de Développement de l'Informatique de Santé 2020-2024 (PNDIS II)", "country_label": "PNDIS II", "class": "ministry-plan", "platform": "DHIS2 adopted as the country software for the health information system", "owner": "Ministère de la Santé Publique / ANICiiS", "tiers": "national health sector; validated 6 August 2020; succeeds PNDIS I 2015-2019"},
+    {"system": "Plan National du Numérique, Horizon 2025 (PNN)", "country_label": "PNN", "class": "", "platform": "", "owner": "", "tiers": "national; cited as one of the documents the health plan derives from, with no description"}
+  ],
+  "note": "A health-sector plan (ministry-plan class); the national plan appears only in a list of reference documents."
+}

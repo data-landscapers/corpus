@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-02-nam-iafrica-national-ai-institute",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Strategy", "country_label": "National Digital Strategy", "class": "", "platform": "", "owner": "", "tiers": "named as one of the institutional bases of the National AI Institute; no scope, date or status given"},
+    {"system": "Sixth National Development Plan", "country_label": "Sixth National Development Plan", "class": "development-plan", "platform": "", "owner": "", "tiers": "named as a basis of the National AI Institute"},
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "NCRST (assigned to lead its development)", "tiers": "not yet developed; no date given"}
+  ],
+  "note": "States no dated fact about the National Digital Strategy; it is only listed as a basis of the AI institute."
+}

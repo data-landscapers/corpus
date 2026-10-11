@@ -1,0 +1,11 @@
+{
+  "slug": "2025-05-01-malawi-digital-readiness-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "National Digitalization Policy 2023-2028", "country_label": "National Digitalization Policy 2023-2028", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": "national; named by the Minister for Information and Digitalization as an initiative the assessment builds on"},
+    {"system": "Digital Economy Strategy", "country_label": "Digital Economy Strategy", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": "named as an initiative the assessment builds on; scope not described"},
+    {"system": "Cybersecurity Strategy", "country_label": "Cybersecurity Strategy", "class": "thematic", "platform": "", "owner": "Government of Malawi", "tiers": "named as a foundational policy"},
+    {"system": "National AI and Data Strategy", "country_label": "National AI and Data Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "stated as needed, not as existing"}
+  ],
+  "note": "Excerpt only (front matter, executive summary, methodology). The National Digitalization Policy 2023-2028 and a Digital Economy Strategy are named in the minister's foreword as existing initiatives, with no adoption act, verb or scope given, so no standing or period fact and class is left empty. The Government chapter on leadership and strategy was not captured."
+}

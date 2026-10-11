@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-18-caribou-co-develop-multistakeholder-governance-dpi-evidence-compendium",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The compendium calls South Africa's MyMzansi a 'Cabinet-approved Digital Transformation Roadmap launched in 2024', anchored in the Presidency; it describes the scope only as a national DPI programme on four pillars (digital identity, data exchange, payments, digital services), so the class is left empty.", "as_of": "2024", "date_precision": "year", "system": "Digital Transformation Roadmap (MyMzansi)", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Roadmap (MyMzansi)", "country_label": "MyMzansi / Digital Transformation Roadmap", "class": "", "platform": "", "owner": "Presidency; Digital Services Unit delivers day to day, Inter-Ministerial Committee gives political oversight, Interdepartmental Working Group chaired by Directors-General of the Presidency, National Treasury and DCDT", "tiers": "national"}
+  ],
+  "note": "Fact recorded with class empty: the document names the roadmap and gives its pillars and governance but does not say whether it covers the economy as well as the state; the parent should classify it against docs 4 and 7, which treat it as a government roadmap. The launch year (2024) differs from other documents' Cabinet approval date."
+}

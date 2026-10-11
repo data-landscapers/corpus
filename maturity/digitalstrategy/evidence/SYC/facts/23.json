@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-what-african-countries-can-learn-from-the-continent-s-top-performers-in-e-govern",
+  "facts": [],
+  "systems": [
+    {"system": "Institutional Strategic Plan of DICT", "country_label": "Institutional Strategic Plan of the Department of Information and Communication Technologies", "class": "ministry-plan", "platform": "", "owner": "Department of Information and Communications Technology (DICT)", "tiers": "called the key e-government framework; lists policy actions on access, affordability and intra-government connection (as of the 2024 paper)"},
+    {"system": "National ICT Policy (NICTP)", "country_label": "National ICT Policy", "class": "sector-ict", "platform": "", "owner": "National ICT Consultative Committee", "tiers": "ICT policy with government as one of five focus areas"},
+    {"system": "Vision 2033", "country_label": "Vision 2033", "class": "", "platform": "", "owner": "", "tiers": "named as the overarching framework for Seychelles' legislative and policy framework; no digital chapter described"},
+    {"system": "Central Bank of Seychelles FinTech Strategy", "country_label": "Central Bank of Seychelles FinTech Strategy", "class": "thematic", "platform": "", "owner": "Central Bank of Seychelles", "tiers": "under development with World Bank support"},
+    {"system": "Results-based Management Policy (RBM) of 2013", "country_label": "Government's Results-based Management Policy", "class": "", "platform": "", "owner": "Government of Seychelles", "tiers": "public spending efficiency, not digital specific"}
+  ],
+  "note": "The paper says Seychelles' key e-government framework is the DICT's Institutional Strategic Plan, with fewer, broader initiatives than peers, and names no national digital strategy, so no fact is recorded."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-24-mtn-ucusaf-contribution",
+  "facts": [],
+  "systems": [
+    {"system": "UCC Strategic Plan", "country_label": "UCC's recently launched Strategic Plan (Connected Uganda by 2030)", "class": "ministry-plan", "platform": "", "owner": "Uganda Communications Commission", "tiers": "national communications sector; regulator's own plan"},
+    {"system": "National Development Plan IV", "country_label": "National Development Plan IV", "class": "development-plan", "platform": "", "owner": "Government of Uganda", "tiers": "national"}
+  ],
+  "note": "A levy-remittance news item; it names the regulator's own plan and NDP IV in passing and states nothing about a national digital strategy."
+}

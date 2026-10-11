@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-20-gsma-malawi-digital-transformation-report",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Economy Strategy", "country_label": "", "class": "national", "platform": "", "owner": "", "tiers": "recommended by GSMA as a coordinated strategy; not existing"},
+    {"system": "Malawi 2063", "country_label": "", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Digital Malawi Acceleration Project (DMAP)", "country_label": "", "class": "programme", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Inclusive Digital Transformation for Malawi", "country_label": "", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "News report on the GSMA report; it only recommends establishing a National Digital Economy Strategy and a national AI strategy, which is not a statement of standing."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-04-senegal-new-deal-technologique-wsis-session",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "A WSIS Forum 2026 session record says the New Deal Technologique has 54 projects across 12 programmes and a ten-year budget of about USD 2 billion, of which over USD 700 million remains to be allocated.", "as_of": "2026-09-04", "date_precision": "day", "system": "New Deal Technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The session record says a governance body chaired by the Prime Minister monitors the New Deal's alignment and impact; it names neither the body nor the act creating it.", "as_of": "2026-09-04", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Government of Senegal (Ministry of Telecommunications and Digital Affairs)", "tiers": "national"},
+    {"system": "Senegal Digital Factory", "country_label": "Senegal Digital Factory", "class": "programme", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "DPI roadmap (digital ID, PINS, e-payment)", "country_label": "DPI roadmap", "class": "thematic", "platform": "X-Road", "owner": "", "tiers": "national"},
+    {"system": "Programme d'Accès Universel (PAU)", "country_label": "PAU", "class": "programme", "platform": "", "owner": "FDSUT", "tiers": "national"},
+    {"system": "Projet d'Accélération de l'Économie Numérique au Sénégal (PAENS)", "country_label": "PAENS", "class": "programme", "platform": "", "owner": "World Bank financed", "tiers": "national"}
+  ],
+  "note": "Class national on the document's own description: a national digital transformation roadmap with pillars of sovereignty, DPI linking government, citizens and enterprises, and skills. Body excerpt only (source truncated). No adoption act, period or report stated; the session date is not given, publication date used."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2023-11-27 Setting the agenda for digital transformation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "In a ministerial interview (advertorial), the minister of digital transformation describes the National Digital Transformation Agenda 2022-2025 as built on four axes and cites a plan to invest at least 30 million dollars over two years in fibre backbone projects, one component; no total cost for the agenda is given.", "as_of": "2023-11-27", "date_precision": "day", "system": "National Digital Transformation Agenda 2022-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The minister says 12 of 26 ministerial departments had been digitalised for mail processing and an integrated schools-enrolment system had eliminated 500,000 duplicate document requests; he measures these against nothing in the agenda.", "as_of": "2023-11-27", "date_precision": "day", "system": "National Digital Transformation Agenda 2022-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Agenda 2022-2025", "country_label": "National Digital Transformation Agenda 2022-2025", "class": "national", "platform": "", "owner": "Ministry of Digital Transformation, Innovation and Modernization of the Administration", "tiers": "national; four axes: digital infrastructure, digital government administration, transformation of economic sectors, e-business and innovation"},
+    {"system": "Startup Act Mauritania (bill)", "country_label": "Startup ACT Mauritania", "class": "directive", "platform": "", "owner": "", "tiers": "presented to the Council of Ministers in September 2023"}
+  ],
+  "note": "Advertorial interview; ministerial self-presentation. Class national follows the four axes the piece gives."
+}

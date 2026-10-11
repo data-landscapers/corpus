@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-03-undp-support-digital-transformation--wearetech",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "We Are Tech reports that UNDP announced on 28 October 2025 a two-year declaration of intent with the High Commission for Digitalisation for a technical-assistance project aligned with the national digital transformation strategy; no domestic allocation is stated.", "as_of": "2025-10-28", "date_precision": "day", "system": "National digital transformation strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "UNDP-HCN technical assistance project (declaration of intent)", "country_label": "", "class": "programme", "platform": "", "owner": "High Commission for Digitalisation and UNDP", "tiers": ""}
+  ],
+  "note": ""
+}

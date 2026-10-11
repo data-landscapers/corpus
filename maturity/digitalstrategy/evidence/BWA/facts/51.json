@@ -1,0 +1,8 @@
+{
+  "slug": "2024-05-16-botswana-renewable-energy-support-access-accelerator-pid",
+  "facts": [],
+  "systems": [
+    {"system": "BPC digital transformation strategy", "country_label": "Botswana Power Corporation digital transformation strategy", "class": "ministry-plan", "platform": "", "owner": "Botswana Power Corporation", "tiers": "the utility's grid domains, generation to end-use; the document says BPC has started to plan it"}
+  ],
+  "note": "The only digital strategy named is the state power utility's own, a ministry-plan class; the document states nothing on a national strategy."
+}

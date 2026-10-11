@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-28-ami-atelier-validation-strategie-nationale-commerce-electronique",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie nationale de commerce électronique 2026-2030", "country_label": "Stratégie nationale de commerce électronique (2026-2030)", "class": "thematic", "platform": "", "owner": "Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration, with the Ministry of Commerce", "tiers": "national; validation workshop held 28 October 2025, draft under update; GIZ support"},
+    {"system": "Stratégie nationale d'inclusion financière 2023-2028", "country_label": "Stratégie nationale d'inclusion financière (2023-2028)", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Stratégie nationale d'intelligence artificielle", "country_label": "Stratégie nationale d'intelligence artificielle", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "loi sur les startups", "country_label": "loi sur les startups", "class": "directive", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Names only a sectoral e-commerce strategy (thematic, in validation) and other thematic instruments; no national digital strategy and no dated fact for one."
+}

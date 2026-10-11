@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-gambia-national-data-policy-validated-eeas",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Policy", "country_label": "National Data Policy", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy; Ministry of Information, Media and Broadcasting Services", "tiers": "national; draft validated 2-3 July 2025, awaiting government approval"}
+  ],
+  "note": "Data policy is thematic, not recorded as a fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Roadmap for Digital Health Transformation (2023)", "country_label": "Roadmap for Digital Health Transformation", "class": "ministry-plan", "platform": "", "owner": "health sector", "tiers": "health"},
+    {"system": "Digital Health Architecture Blueprint (March 2025)", "country_label": "Digital Health Architecture Blueprint", "class": "ministry-plan", "platform": "", "owner": "health sector", "tiers": "health"},
+    {"system": "National eHealth Strategy 2010-2015", "country_label": "National eHealth Strategy", "class": "ministry-plan", "platform": "", "owner": "health sector", "tiers": "health"}
+  ],
+  "note": "A digital-health directory; the Mauritius entries are health-sector instruments, not a national digital strategy."
+}

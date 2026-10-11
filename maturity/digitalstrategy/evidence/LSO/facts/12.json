@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Strategic Development Plan II", "country_label": "National Strategic Development Plan II", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Interim Computer Security Incident Response Team", "country_label": "interim CSIRT", "class": "", "platform": "", "owner": "MICSTI", "tiers": "national"}
+  ],
+  "note": "The minister says the digital public infrastructure work supports the National Digital Transformation Strategy; no adoption, scope, period, plan or reporting is stated, so no fact."
+}

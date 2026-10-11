@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-04-wearetech-morocco-landmark-law-ai-data-identity",
+  "facts": [],
+  "systems": [
+    {"system": "Maroc Digital 2030", "country_label": "Maroc Digital 2030", "class": "national", "platform": "", "owner": "Ministry Delegate for Digital Transition and Administrative Reform", "tiers": "called Morocco's national digital strategy, with AI a cornerstone of economic development and administrative modernisation"},
+    {"system": "Digital X.0 framework law", "country_label": "Digital X.0", "class": "directive", "platform": "", "owner": "General Secretariat of the Government (draft under review)", "tiers": "draft framework law on data governance, digital identity and interoperability"}
+  ],
+  "note": "The article describes Maroc Digital 2030 as the national strategy covering economy and administration but gives no adoption act, period, cost or report, so no fact."
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2024-01-01-ghana-digital-economy-policy-and-strategy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Ghana Digital Economy Policy and Strategy text is public, sets a target timeline for its objectives of 2028 and is to be reviewed every four years; the capture carries no printed date, so its published date of 2024 is used.", "as_of": "2024", "date_precision": "year", "system": "Ghana Digital Economy Policy and Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The policy's implementation framework lists strategic actions with assigned responsibilities, phased as quick wins within 6 months, medium-term 6 to 18 months and long-term 18 to 48 months; the captured pages state no cost for the actions, and the document is dated by its published year, 2024.", "as_of": "2024", "date_precision": "year", "system": "Ghana Digital Economy Policy and Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:not-stated", "fact": "The policy names government budgetary support, development partner support and public-private partnerships as funding sources, and the captured pages give no allocation or budget line; the document is dated by its published year, 2024.", "as_of": "2024", "date_precision": "year", "system": "Ghana Digital Economy Policy and Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Ghana Digital Economy Policy and Strategy", "country_label": "Ghana Digital Economy Policy and Strategy", "class": "national", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": "national; five pillars: access and connectivity, skills and research, digital government, digital entrepreneurship, data and emerging technologies; monitoring led by the Ministry's PPME team with the Ghana Statistical Service"},
+    {"system": "ICT for Accelerated Development (ICT4AD) Policy (2003)", "country_label": "ICT4AD Policy", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national; ICT for infrastructure, human capital, e-government and private sector"},
+    {"system": "E-Government Strategy (2012)", "country_label": "E-Government Strategy", "class": "government", "platform": "", "owner": "", "tiers": "national; digitising public service delivery"},
+    {"system": "Cyber Security Policy and Strategy (2014)", "country_label": "Cyber Security Policy and Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Digital Financial Services Policy (2016)", "country_label": "National Digital Financial Services Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "African Union Digital Transformation Strategy 2020-2030", "country_label": "AU-DTS", "class": "regional", "platform": "", "owner": "African Union", "tiers": "continental"}
+  ],
+  "note": ""
+}

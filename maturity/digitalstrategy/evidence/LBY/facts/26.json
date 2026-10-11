@@ -1,0 +1,9 @@
+{
+  "slug": "2023-02-04-lby-interior-ministry-criminal-record-certificate-system-eastern-region",
+  "facts": [],
+  "systems": [
+    {"system": "خطة التحول الرقمي (Ministry of Interior digital transformation plan)", "country_label": "خطة التحول الرقمي لوزارة الداخلية", "class": "ministry-plan", "platform": "", "owner": "Ministry of Interior, Government of National Unity, through its Information and Documentation Centre", "tiers": "ministry"},
+    {"system": "criminal-status certificate issuing system", "country_label": "نظام إصدار الحالة الجنائية", "class": "", "platform": "", "owner": "Ministry of Interior Information and Documentation Centre with the Criminal Investigation Department", "tiers": "activated in eight cities; installed in Al Bayda on 4 February 2023"}
+  ],
+  "note": "No fact: the plan named is the Interior Ministry's own digital transformation plan (ministry-plan); the document states no dated fact about it beyond installation of a system under it."
+}

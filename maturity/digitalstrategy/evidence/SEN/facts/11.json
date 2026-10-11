@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-14-senegal-moves-to-safeguard-digital-infrastructure",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "ITWeb says the 'New Technology Deal' is the country's digital transformation strategy 'launched by the government' to modernise the economy and public administration by 2034; it gives no launch date and names no adopting act, so the publication date is used.", "as_of": "2026-08-14", "date_precision": "day", "system": "New Technology Deal (New Deal Technologique)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Technology Deal (New Deal Technologique)", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
+    {"system": "Bill for the protection of critical information infrastructure and digital security", "country_label": "projet de loi sur la protection des infrastructures d'information critiques", "class": "directive", "platform": "", "owner": "Ministry of Telecommunications and Digital Affairs", "tiers": "national"}
+  ],
+  "note": "Class national: the document describes the strategy as covering the economy and public administration to 2034. Stated horizon 2034, no text linked, so no period fact."
+}

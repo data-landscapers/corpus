@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-26-thereporter-lesotho-national-ai-strategy-data-centre-blueprint",
+  "facts": [],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "MICSTI with the United Nations", "tiers": "national"},
+    {"system": "Data Centre Blueprint", "country_label": "Data Centre Blueprint", "class": "thematic", "platform": "", "owner": "MICSTI with the United Nations", "tiers": "national"},
+    {"system": "Draft Artificial Intelligence Policy", "country_label": "Draft Artificial Intelligence Policy", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Draft Data Management Policy", "country_label": "Draft Data Management Policy", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Draft Broadband and Shared Infrastructure Policy", "country_label": "Draft Broadband and Shared Infrastructure Policy", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Thematic AI, data and broadband instruments only; the national digital strategy is not named."
+}

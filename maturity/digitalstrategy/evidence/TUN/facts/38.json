@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-what-african-countries-can-learn-from-the-continent-s-top-performers-in-e-govern",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The paper (Africa Policy Research Institute, 2024) says the Plan National Stratégique Tunisie Digitale 2020 was extended to 2025 because of insufficient progress, and the extended plan is called the Digital Tunisia Plan; the 2024 as-of date is the paper's year, as the document gives no other date. Text public: not stated.", "as_of": "2024", "date_precision": "year", "system": "Plan National Stratégique Tunisie Digitale 2020", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Plan National Stratégique Tunisie Digitale 2020 (Digital Tunisia Plan)", "country_label": "Plan National Stratégique Tunisie Digitale 2020", "class": "national", "platform": "", "owner": "", "tiers": "Four objectives: infrastructure (broadband), e-Gov (administrative services), e-Business (business transformation), Smart Tunisia (IT offshoring)"},
+    {"system": "New digital practices code", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": "Being written at the time of the paper; to regulate hosting and cloud computing activities and license service providers"}
+  ],
+  "note": "Fact is the period of the national plan only: the paper does not say who adopted the plan or by what act (it says the government has struggled to adopt or implement a clear digitization strategy), gives no cost, no delivery plan and no progress report, so no standing, plan or reporting fact is recorded."
+}

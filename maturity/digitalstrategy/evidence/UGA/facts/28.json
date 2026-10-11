@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-24-ict-officers-induction-training",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Uganda Vision", "country_label": "Digital Uganda Vision", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "described as set out in the Digital Transformation Roadmap, seeking universal digital inclusion, better public service delivery and a digital economy by 2040; no start date, act or standing given"},
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Parish Development Model Information System (PDMIS)", "country_label": "PDMIS", "class": "programme", "platform": "", "owner": "government", "tiers": "MDAs"},
+    {"system": "Electronic Documents and Records Management System (EDRMS)", "country_label": "EDRMS", "class": "programme", "platform": "", "owner": "government", "tiers": "MDAs"}
+  ],
+  "note": "States the Vision's 2040 horizon and aims but no start date, adopting act or standing, and no document period, so no fact is recorded and class is left empty."
+}

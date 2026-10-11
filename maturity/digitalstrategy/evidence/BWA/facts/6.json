@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-09-bwa-itu-statsbots-ict-data-collection",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Agenda (SmartBots)", "country_label": "Digital Transformation Agenda (SmartBots)", "class": "", "platform": "", "owner": "", "tiers": "national; listed as a policy the ICT survey supports"},
+    {"system": "Botswana Vision 2036", "country_label": "Botswana Vision 2036", "class": "", "platform": "", "owner": "", "tiers": "national; named only"},
+    {"system": "National Development Plan (NDP) Frameworks", "country_label": "National Development Plan", "class": "", "platform": "", "owner": "", "tiers": "national; named only"}
+  ],
+  "note": "Names the digital transformation agenda only as a policy the ICT survey supports; no standing, text, plan or reporting stated."
+}

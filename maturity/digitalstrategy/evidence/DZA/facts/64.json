@@ -1,0 +1,14 @@
+{
+  "slug": "2024-08-02-hcn-sntn-2025-2030-strategie-numerique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The August 2024 version of the strategy, issued by the High Commission for Digitalization under the Presidency, calls the document the third deliverable of the strategy project, to be followed upon validation by two further deliverables.", "as_of": "2024-08-02", "date_precision": "day", "system": "National Strategy for Digital Transformation - For a Digital Algeria 2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Presidential decree 23-314 of 6 September 2023 created the High Commission for Digitalization under the Presidency, tasked with designing, implementing and overseeing the national digital transformation strategy and aligning sectoral digitalisation plans with it.", "as_of": "2023-09-06", "date_precision": "day", "system": "National Strategy for Digital Transformation - For a Digital Algeria 2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The strategy text is published on the High Commission's site (August 2024 version) and states a period of 2025-2030 with twenty-five strategic objectives.", "as_of": "2024-08-02", "date_precision": "day", "system": "National Strategy for Digital Transformation - For a Digital Algeria 2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The strategy sets twenty-five strategic objectives across five axes (infrastructure, human capital, digital governance, digital economy, digital society) for 2025-2030; the passages state no cost.", "as_of": "2024-08-02", "date_precision": "day", "system": "National Strategy for Digital Transformation - For a Digital Algeria 2030", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Information Systems Security Strategy 2025-2029", "country_label": "", "class": "thematic", "platform": "", "owner": "National Council for Information Systems Security", "tiers": ""},
+    {"system": "Digital Law (in preparation)", "country_label": "", "class": "directive", "platform": "", "owner": "High Commission for Digitalization", "tiers": ""}
+  ],
+  "note": "The passages show the strategy covers both the state (digital governance) and the economy (digital economy)."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-22-mesob-platform-digital-govt-services",
+  "facts": [],
+  "systems": [
+    {"system": "Ethiopia's new digital government strategy 2025-2030", "country_label": "digital government strategy", "class": "government", "platform": "", "owner": "", "tiers": "national; the national digital ID is its foundation"}
+  ],
+  "note": "Only names the digital government strategy (2025-2030) in one line; a government-services strategy, not national class, so no fact."
+}

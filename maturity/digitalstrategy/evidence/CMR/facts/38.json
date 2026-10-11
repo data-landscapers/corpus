@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-minepat-cameroun-strategie-sectorielle-infrastructures-2020-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Sectorielle de Développement des Infrastructures 2020-2030", "country_label": "Stratégie Sectorielle de Développement des Infrastructures 2020-2030", "class": "ministry-plan", "platform": "", "owner": "MINEPAT", "tiers": "national infrastructure sector, including an ICT sub-sector"},
+    {"system": "Stratégie Nationale de Développement 2020-2030 (SND30)", "country_label": "SND 30", "class": "development-plan", "platform": "", "owner": "Government of Cameroon", "tiers": "national"},
+    {"system": "Plan Stratégique Cameroun Numérique 2020", "country_label": "Plan Stratégique Cameroun Numérique 2020 (MINPOSTEL, 2016)", "class": "", "platform": "", "owner": "MINPOSTEL", "tiers": ""},
+    {"system": "Stratégie Nationale de Développement des Technologies de l'Information et de la Communication", "country_label": "Stratégie Nationale de Développement des TIC (ANTIC, 2007)", "class": "", "platform": "", "owner": "ANTIC", "tiers": ""}
+  ],
+  "note": "Passages are the table of contents and bibliography; the two digital plans appear only as bibliography titles with no description, so no fact and no class."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-05-jmir-basivikidi-one-digital-health-fair-drc",
+  "facts": [],
+  "systems": [
+    {"system": "Plan national du numérique (PNN) – Horizon 2025", "country_label": "Plan national du numérique", "class": "", "platform": "", "owner": "Présidence de la République", "tiers": "national; cited as recommending sovereign national data centres"},
+    {"system": "PNDIS II", "country_label": "Plan National de Développement de l'Informatique de Santé", "class": "", "platform": "", "owner": "", "tiers": "health; cited as recommending sovereign national data centres, no description"}
+  ],
+  "note": "Passages cite the PNN and PNDIS II only for a data-centre recommendation and in the bibliography."
+}

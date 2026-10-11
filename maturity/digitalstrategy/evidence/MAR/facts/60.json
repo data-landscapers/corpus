@@ -1,0 +1,13 @@
+{
+  "slug": "2022-09-07-morocco-e-government-interoperability-platform",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions",
+     "fact": "The article says that in its digital strategy Morocco wants 85% of citizens and businesses satisfied with public services by 2025, by digitising priority services end to end; no cost is given and the strategy is not named (dated to the 5 September 2022 release).",
+     "as_of": "2022-09-05", "date_precision": "day", "system": "digital strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "digital strategy", "country_label": "digital strategy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "e-government interoperability platform", "country_label": "e-government interoperability platform", "class": "", "platform": "Minsait", "owner": "Agency for Digital Development (ADD)", "tiers": "public administrations, agencies and institutions; Single Social Register and MASSAR connected"}
+  ],
+  "note": "Strategy is mentioned without a name or description of scope, so the fact is recorded with class left empty."
+}

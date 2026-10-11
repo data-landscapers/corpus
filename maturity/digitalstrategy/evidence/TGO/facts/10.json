@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-10-atd-boite-outils-digitaux-tpme",
+  "facts": [],
+  "systems": [
+    {"system": "Togo Digital 2025", "country_label": "stratégie nationale Togo Digital 2025", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Boîte à Outils Digitaux des TPME (BoD-TPME)", "country_label": "BoD-TPME", "class": "programme", "platform": "online platform", "owner": "Agence Togo Digital with GIZ ProDigiT", "tiers": "small and medium enterprises"}
+  ],
+  "note": "Calls Togo Digital 2025 the 'stratégie nationale' with an objective of 3,000 enterprises supported, but gives no adoption, period, scope or report; no dated fact, class left empty."
+}

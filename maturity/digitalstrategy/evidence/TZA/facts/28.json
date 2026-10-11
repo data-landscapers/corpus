@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-19-liquid-tanzania-government-align-digital-transformation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "CIO Africa (2026-06-19) says Tanzania 'accelerates implementation of its Digital Economy Strategic Framework 2024-2034', described as a long-term plan to modernise public services, expand digital infrastructure, strengthen cybersecurity and enhance digital sovereignty; the stated period had not ended, and the article links no text. Text public: not stated", "as_of": "2026-06-19", "date_precision": "day", "system": "Digital Economy Strategic Framework 2024-2034", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National ICT Broadband Backbone", "country_label": "National ICT Broadband Backbone", "class": "programme", "platform": "", "owner": "Ministry of Communication and Information Technology", "tiers": "national"},
+    {"system": "National digital identity programme", "country_label": "National digital identity programme", "class": "programme", "platform": "", "owner": "", "tiers": "national; more than 24 million citizens registered"}
+  ],
+  "note": "Class national rests on the article's description of the framework's scope (public services, infrastructure, cybersecurity, sovereignty); no adopting act or verb is given. The ministry's 2026/27 budget of about $84 million (94 per cent development) is the ministry's, not tied to the framework."
+}

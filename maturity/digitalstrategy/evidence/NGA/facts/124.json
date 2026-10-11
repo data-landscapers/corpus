@@ -1,0 +1,17 @@
+{
+  "slug": "2025-08-18-world-bank-bridge-project-information-document-2025-08",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The World Bank's BRIDGE project information document says that in 2019 Nigeria 'published' the ten-year National Digital Economy Policy and Strategy (NDEPS) 2020-2030; it names no adopting act or body, so the source's verb gives publication only.", "as_of": "2019", "date_precision": "year", "system": "National Digital Economy Policy and Strategy (NDEPS) 2020-2030", "class": ""},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The same document describes the NDEPS as a ten-year strategy for 2020-2030 that Nigeria published, and speaks of it in the present as the framework the federal government works under; the document gives no as-at date for this beyond its own 18 August 2025 preparation date, which is used here.", "as_of": "2025-08-18", "date_precision": "day", "system": "National Digital Economy Policy and Strategy (NDEPS) 2020-2030", "class": ""},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The document says that under the 2023 National Strategic Blueprint the federal government aims to cover at least 80 percent of the population by the end of 2027, a dated target with no cost stated.", "as_of": "2023", "date_precision": "year", "system": "National Strategic Blueprint 'Accelerating our collective prosperity through technical efficiency'", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Economy Policy and Strategy (NDEPS) 2020-2030", "country_label": "National Digital Economy Policy and Strategy", "class": "", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy (designated policy maker of the sector)", "tiers": ""},
+    {"system": "Nigeria National Broadband Plan (NNBP) 2020-2025", "country_label": "National Broadband Plan", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Strategic Blueprint 'Accelerating our collective prosperity through technical efficiency' (2023)", "country_label": "2023 National Strategic Blueprint", "class": "", "platform": "", "owner": "federal government", "tiers": ""},
+    {"system": "white paper 'Broadband Access for All'", "country_label": "Broadband Access for All", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Broadband Alliance for Nigeria (NBAN)", "country_label": "NBAN", "class": "programme", "platform": "", "owner": "federal government", "tiers": ""},
+    {"system": "Building Resilient Digital Infrastructure for Growth (BRIDGE, P508383)", "country_label": "Project BRIDGE", "class": "programme", "platform": "", "owner": "Federal Ministry of Communications and Digital Economy (implementing agency); World Bank financing", "tiers": ""}
+  ],
+  "note": "The NDEPS and the 2023 Blueprint are named without any description of whether they cover both economy and state, so their class is left empty; the document's verb for the NDEPS is 'published'."
+}

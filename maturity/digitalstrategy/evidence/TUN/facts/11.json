@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-22-tun-thd-strategie-nationale-ia-introuvable-2026",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The article says the Conseil stratégique de l'économie numérique (CSEN), placed with the head of government, is charged with overseeing the drawing up and follow-up of the national digital economy strategy, that its fifth meeting was on 29 March 2018, and that no meeting has been publicly known since.", "as_of": "2018-03-29", "date_precision": "day", "system": "stratégie nationale de l'économie numérique", "class": ""}
+  ],
+  "systems": [
+    {"system": "Stratégie nationale de l'IA", "country_label": "stratégie nationale de l'intelligence artificielle", "class": "thematic", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": "announced since April 2018; memorandum of 19 February 2022 signed by four ministers; not adopted or published in the Official Journal as of 22 July 2026"},
+    {"system": "stratégie nationale de l'économie numérique", "country_label": "stratégie nationale de l'économie numérique", "class": "", "platform": "", "owner": "CSEN, placed with the head of government", "tiers": "named as the strategy CSEN supervises; scope not described"},
+    {"system": "Livre Blanc TunisIA", "country_label": "Livre Blanc « TunisIA – Bâtir notre avenir à l'ère de l'IA »", "class": "thematic", "platform": "", "owner": "ATUGE (association)", "tiers": "presented 21 July 2026; 41 recommendations to 2030; not a government document"}
+  ],
+  "note": "The AI strategy is thematic. The one fact concerns the digital-economy strategy's steering body, class left empty because the article does not describe the strategy's scope."
+}

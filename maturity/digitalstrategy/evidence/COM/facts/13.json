@@ -1,0 +1,11 @@
+{
+  "slug": "2025-06-20-comoros-eshiyo-emsomo-edtech-platforms-wearetech",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "We Are Tech Africa states the 'Comoros Digital 2028' plan aims to raise the digital sector's share of GDP to 5% by 2028, a dated target with no cost given.", "as_of": "2025-06-20", "date_precision": "day", "system": "Comoros Digital 2028", "class": "national"}
+  ],
+  "systems": [
+    {"system": "E-Shiyo", "country_label": "E-Shiyo", "class": "", "platform": "", "owner": "Ministry of National Education, with ANADEN and UNICEF", "tiers": "pre-primary and primary schools; online textbooks"},
+    {"system": "E-Msomo", "country_label": "E-Msomo", "class": "", "platform": "", "owner": "Ministry of National Education, with ANADEN and UNICEF", "tiers": "schools; report cards, student unique IDs, academic results"}
+  ],
+  "note": ""
+}

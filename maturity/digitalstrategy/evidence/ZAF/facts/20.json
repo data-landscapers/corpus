@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-01-gcg-analysis-national-ai-strategies-africa",
+  "facts": [],
+  "systems": [
+    {"system": "SA National AI Policy Framework (2024)", "country_label": "National Artificial Intelligence Policy Framework", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; 2024"},
+    {"system": "Draft South Africa National Artificial Intelligence (AI) Policy", "country_label": "Draft National AI Policy", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; Government Gazette 54477, Notice 3880 of 2026 (10 April 2026), withdrawn shortly after"}
+  ],
+  "note": "Report on AI strategies; South Africa's two AI instruments are thematic, so no fact; no national digital strategy."
+}

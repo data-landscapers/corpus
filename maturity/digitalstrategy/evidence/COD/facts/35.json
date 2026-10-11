@@ -1,0 +1,13 @@
+{
+  "slug": "2025-08-18-rdc-masina-digitalisation-etat-civil",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "UNFPA says civil-registration reform led to \"l'élaboration\" (the drawing up) of key strategic documents including, \"plus récemment\", a Plan national du numérique (2025); it states no adoption, act or body.", "as_of": "2025", "date_precision": "year", "system": "Plan national du numérique (2025)", "class": ""}
+  ],
+  "systems": [
+    {"system": "Plan national du numérique (2025)", "country_label": "Plan national du numérique", "class": "", "platform": "", "owner": "", "tiers": "national; UNFPA lists it among recent key strategic documents on civil-registration reform, with no description"},
+    {"system": "Plan national de réforme de l'état civil", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "civil registration"},
+    {"system": "Stratégie nationale de l'état civil (2020)", "country_label": "", "class": "thematic", "platform": "", "owner": "Government, World Bank-funded", "tiers": "civil registration; not yet adopted by the National Assembly as at 18 August 2025"},
+    {"system": "Masina civil-registration digitisation pilot", "country_label": "", "class": "programme", "platform": "DHIS2", "owner": "UNICEF, BCNUDH, UNHCR, UNFPA (Joint SDG Fund)", "tiers": "Masina commune, Kinshasa"}
+  ],
+  "note": "Civil-registration pilot report; the national digital plan is named in a list with no description, so the class is empty because the document does not describe the strategy's scope."
+}

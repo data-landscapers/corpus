@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-08-egypt-national-open-data-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Egypt Open Data Policy", "country_label": "Open Data Policy", "class": "thematic", "platform": "", "owner": "National Council for Artificial Intelligence; drafted by the Ministry of Communications and Information Technology", "tiers": "all government entities; adopted by the Council and in force August 2025 as a transitional framework pending a data governance law and the Egyptian Data Governance Authority"}
+  ],
+  "note": "Open-data policy (data layer), thematic; no national digital strategy stated."
+}

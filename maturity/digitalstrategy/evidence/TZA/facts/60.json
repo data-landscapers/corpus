@@ -1,0 +1,14 @@
+{
+  "slug": "2024-01-01-tanzania-digital-economy-strategic-framework",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "In the President's statement the President of the United Republic of Tanzania says 'I unveil' the Digital Economy Strategic Framework 2024-2034 as one of the key pillars of Digital Transformation; the passages name no cabinet or parliamentary act and give no day, so the document's publication year is used.", "as_of": "2024", "date_precision": "year", "system": "Tanzania Digital Economy Strategic Framework 2024-2034", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The framework's title and the President's statement give its period as 2024-2034, which had not ended in 2024; the document is the text, published by the Ministry of Information, Communication and Information Technology on ictc.go.tz. Text public: yes", "as_of": "2024", "date_precision": "year", "system": "Tanzania Digital Economy Strategic Framework 2024-2034", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national; the President's statement says it emphasises the role of ICT in socio-economic goals"},
+    {"system": "National Five-Year Development Plan 2021/22-2025/26", "country_label": "National Five-Year Development Plan 2021/22-2025/26", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; its vision is said to be realisable through digital technologies"},
+    {"system": "Zanzibar Digital Government Strategy", "country_label": "Zanzibar Digital Government Strategy", "class": "", "platform": "", "owner": "Zanzibar", "tiers": "Zanzibar"},
+    {"system": "Zanzibar Digital Economy Strategy", "country_label": "Zanzibar Digital Economy Strategy", "class": "", "platform": "", "owner": "Zanzibar", "tiers": "Zanzibar"}
+  ],
+  "note": "Passages only. Classed national: unveiled by the President and, per the statement, spanning agriculture, manufacturing, health, education, finance, governance and service delivery. No delivery plan, cost, report, body or finance in the passages read."
+}

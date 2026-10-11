@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Health Strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national; said to aim for a digital health information system"},
+    {"system": "National ICT Policy 2013", "country_label": "Malawi ICT Policy 2013", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national; cited for urban-concentrated fibre"},
+    {"system": "National Registration Bureau Strategic Plan 2025-2030", "country_label": "NRB Strategic Plan", "class": "ministry-plan", "platform": "", "owner": "National Registration Bureau", "tiers": "civil registration; digital CRVS ambitions"}
+  ],
+  "note": "Author's AI-assisted rural paper-records review; Malawi rows name sector instruments only, no national digital strategy."
+}

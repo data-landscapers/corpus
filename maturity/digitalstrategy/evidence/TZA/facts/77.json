@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-01-undp-tanzania-digital-transformation-joint-programme",
+  "facts": [],
+  "systems": [
+    {"system": "Tanzania Digital Economy Framework", "country_label": "Tanzania's Digital Economy Framework", "class": "national", "platform": "", "owner": "", "tiers": "national; aims to transform Tanzania into a modern digital economy for every citizen and business, with pillars including digital infrastructure and interoperable service delivery platforms"},
+    {"system": "e-Government Strategy", "country_label": "e-Government Strategy", "class": "government", "platform": "", "owner": "Government of Tanzania", "tiers": "government; aims for all legacy government sub-systems to be connected and interoperable"},
+    {"system": "Tanzania Digital Transformation Joint Programme", "country_label": "Digital Transformation Joint Programme", "class": "programme", "platform": "", "owner": "UNCDF, IFAD and FAO", "tiers": "agriculture and food systems; smallholder farmers"}
+  ],
+  "note": "The framework and the e-Government Strategy are described but the passages give no date, adoption, period, plan or report for either, so no fact."
+}

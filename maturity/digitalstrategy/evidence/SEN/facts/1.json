@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-10-xwa-seneplus-ia-afrique-francophone-lignes-directrices",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article says Senegal 'launched' (lancé) the New Deal Technologique in February 2025, which it calls a new national digital strategy; it names no adopting act or body.", "as_of": "2025-02", "date_precision": "month", "system": "New Deal Technologique", "class": ""}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Senegal national AI strategy", "country_label": "stratégie nationale en matière d'intelligence artificielle", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Passages only. The document gives the New Deal Technologique a label ('stratégie numérique nationale') but no scope, so class is left empty. It dates the AI strategy contested (2022 or 2023, OECD.AI: officially presented September 2023, roadmap to 2028, 52 actions); that is a thematic strategy, no fact recorded."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-24-ken-biznakenya-coop-bank-uncdf-digiken-guarantee",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Platforms Kenya (DigiKen) Programme", "country_label": "DigiKen", "class": "programme", "platform": "", "owner": "UNESCO (lead), UNCDF, UN Women and UNEP with the Ministry of Information, Communications and the Digital Economy; Joint SDG Fund", "tiers": "national; includes a US$900,000 UNCDF loan guarantee with Co-operative Bank of Kenya"},
+    {"system": "Digital Superhighway Agenda", "country_label": "Kenya's Digital Superhighway Agenda", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national; named by the PS, State Department for ICT and Digital Economy; scope not described"}
+  ],
+  "note": "News report on a loan guarantee; the Digital Superhighway Agenda is named with no date or scope, so no fact."
+}

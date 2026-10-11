@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-sierra-leone-ncra-mosip-pilot-digital-id-commitment",
+  "facts": [],
+  "systems": [
+    {"system": "MOSIP national digital ID pilot", "country_label": "digital ID pilot with MOSIP", "class": "programme", "platform": "MOSIP (Modular Open Source Identity Platform)", "owner": "National Civil Registration Authority", "tiers": "pilot to test open-source modules against the existing ID infrastructure"},
+    {"system": "Sierra Leone's digital transformation plan", "country_label": "digital transformation plan (led by the President)", "class": "", "platform": "", "owner": "President Julius Maada Bio", "tiers": ""}
+  ],
+  "note": "A news report on a digital ID pilot; the digital transformation plan is named generically with no document, date or scope."
+}

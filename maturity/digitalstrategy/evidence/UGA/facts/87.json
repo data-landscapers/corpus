@@ -1,0 +1,11 @@
+{
+  "slug": "2022-02-26 Uganda Digital Government Strategy v1.1",
+  "facts": [],
+  "systems": [
+    {"system": "Uganda Digital Government Strategy", "country_label": "Uganda Digital Government Strategy, Version 1.1", "class": "government", "platform": "", "owner": "MoICT&NG / NITA-U", "tiers": "Issued as an addendum to the Government Enterprise Architecture and e-GIF consultancy (10 Nov 2020 - 8 Feb 2022)"},
+    {"system": "Digital Uganda Vision", "country_label": "Digital Uganda Vision", "class": "national", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Government Enterprise Architecture", "country_label": "Government Enterprise Architecture (GEA)", "class": "", "platform": "", "owner": "NITA-U", "tiers": ""},
+    {"system": "e-Government Interoperability Framework", "country_label": "e-GIF", "class": "", "platform": "", "owner": "NITA-U", "tiers": ""}
+  ],
+  "note": "Companion page only. The Digital Government Strategy is a state-administration strategy (government class), so no fact; the Digital Uganda Vision is named only as an anchor and gets no fact from this document."
+}

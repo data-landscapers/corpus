@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01 Gambia National Digital Identity Strategy (Strategy Report)",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The document gives the National Digital ID and Digital Transformation Strategy as 2023-2028, so it is inside its period as at the document's date of 2024 (year only); the document is the digital identity part, not the whole strategy. Text public: not stated.", "as_of": "2024", "date_precision": "year", "system": "National Digital ID and Digital Transformation Strategy 2023-2028", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Identity Strategy", "country_label": "National Digital Identity Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; validated May 2024; period 2023-2028"},
+    {"system": "National Digital ID and Digital Transformation Strategy 2023-2028", "country_label": "National Digital ID and Digital Transformation Strategy 2023-2028", "class": "", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; the Digital Identity Strategy is stated to be part of it"}
+  ],
+  "note": "Digital identity strategy is thematic; period fact for the wider 2023-2028 strategy added on second pass with class empty because the document does not describe that strategy's scope."
+}

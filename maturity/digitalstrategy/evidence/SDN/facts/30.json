@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-01-sudan-de4a-diagnostic-worldbank",
+  "facts": [],
+  "systems": [
+    {"system": "e-government strategy (2008)", "country_label": "e-government strategy", "class": "government", "platform": "", "owner": "", "tiers": "government services; the report says a centralised e-government strategy is lacking even though this 2008 strategy exists"},
+    {"system": "Digital Transformation Strategy", "country_label": "Digital Transformation Strategy", "class": "", "platform": "", "owner": "Ministry of Telecommunications and Digital Transformation (MTDT)", "tiers": "named only as the strategy within which MTDT planned to launch an e-government strategy in 2021, which was delayed; scope not described in the passages"}
+  ],
+  "note": "The passages name the Digital Transformation Strategy without describing it or stating its standing, so no fact. The passages file is partial: the full text in the OSINT raw file has a further passage saying MTDT 'is working on formalizing a Digital Transformation Strategy' (the report is dated 2022, its consultations 2021); the parent may want that read."
+}

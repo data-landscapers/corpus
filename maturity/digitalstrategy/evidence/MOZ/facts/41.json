@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-12-mocambique-lanca-estrategia-transformacao-digital",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "INTIC says the elaboration of the National Digital Transformation Strategy is included in the Government's Five-Year Programme 2025-2029, approved by the Assembly of the Republic through Resolution 17/2025 of 14 May.", "as_of": "2025-05-14", "date_precision": "day", "system": "Estratégia Nacional de Transformação Digital", "class": "national"},
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "INTIC's chair officially launched the process of drafting the Mozambique Digital Transformation Strategy on 12 February 2026, covering public governance, the digital economy, citizen services and infrastructure.", "as_of": "2026-02-12", "date_precision": "day", "system": "Estratégia Nacional de Transformação Digital", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Programa Quinquenal do Governo 2025-2029", "country_label": "PQG 2025-2029", "class": "development-plan", "platform": "", "owner": "Government; approved by the Assembly of the Republic, Resolution 17/2025 of 14 May", "tiers": "national"}
+  ],
+  "note": ""
+}

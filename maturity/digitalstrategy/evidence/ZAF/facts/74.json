@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Government's Digital Transformation Roadmap", "class": "government", "platform": "", "owner": "Government of South Africa", "tiers": "whole of government; mission to deliver world class services through human-centred services, interoperable systems, digital identity, digital payments and integrated planning"},
+    {"system": "National Data and Cloud Policy", "country_label": "National Data and Cloud Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Infrastructure Plan 2050", "country_label": "National Infrastructure Plan 2050", "class": "", "platform": "", "owner": "", "tiers": "named only"},
+    {"system": "Presidential Commission on the 4th Industrial Revolution Report", "country_label": "PC4IR Report", "class": "", "platform": "", "owner": "", "tiers": "named only"}
+  ],
+  "note": "The presentation describes the Roadmap's mission and focus without any dated fact about it, so no fact is recorded."
+}

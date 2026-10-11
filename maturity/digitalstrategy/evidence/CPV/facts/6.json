@@ -1,0 +1,22 @@
+{
+  "slug": "2026-05-08-cpv-expresso-agenda-digital-2035-resolucao-72-2026",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted",
+     "fact": "The Council of Ministers approved Resolução n.º 72/2026, establishing the strategic bases for the Agenda Digital de Cabo Verde 2035, an instrument across economic development, digital government, social inclusion, environmental sustainability, smart cities and fintech (Expresso das Ilhas, 8 May 2026; the approval date is not given, so the publication date is used).",
+     "as_of": "2026-05-08", "date_precision": "day",
+     "system": "Agenda Digital de Cabo Verde 2035", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated",
+     "fact": "The Agenda Digital 2035 names the Comissão Nacional da Estratégia Digital, whose operationalisation is one of its enabling pillars, and states that progress will be monitored by the Observatório da Sociedade da Informação.",
+     "as_of": "2026-05-08", "date_precision": "day",
+     "system": "Agenda Digital de Cabo Verde 2035", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing",
+     "fact": "The government approved Resolução n.º 72/2026 on the Agenda Digital 2035 in the Council of Ministers, reported on 8 May 2026 (the approval date is not given, so the publication date is used).",
+     "as_of": "2026-05-08", "date_precision": "day",
+     "system": "Agenda Digital de Cabo Verde 2035", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Estratégia de Economia Digital 2025-2030", "country_label": "Estratégia de Economia Digital 2025-2030", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plano de Acção de Governação Digital 2023-2025", "country_label": "Plano de Acção de Governação Digital 2023-2025", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

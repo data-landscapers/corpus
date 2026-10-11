@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-12-nilepost-centenary-masaka-tier-iii-data-centre-september-2026",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article names Uganda's Digital Transformation Roadmap 2023/24-2027/28, a stated period of FY2023/24 to FY2027/28 that it says emphasizes strategic ICT infrastructure and digital sovereignty; its published date 2026-03-12 is used as the as-of and falls inside that period. Text public: not stated", "as_of": "2026-03-12", "date_precision": "day", "system": "Digital Transformation Roadmap 2023/24-2027/28", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Roadmap 2023/24-2027/28", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "", "tiers": "described only as emphasizing strategic ICT infrastructure and digital sovereignty"},
+    {"system": "Fourth National Development Plan (NDP IV)", "country_label": "NDP IV", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The article gives the Roadmap's period (FY2023/24-2027/28) but not its overall scope, so the fact is recorded with class left empty."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The roundup lists Libya among countries that adopted their national AI strategies in 2025, per Digital Policy Alert and Tech Hive Advisory.", "as_of": "2025", "date_precision": "year", "system": "National AI strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "National AI strategy", "country_label": "national AI strategy (2025-2030)", "class": "", "platform": "", "owner": "General Information Authority", "tiers": "national"}
+  ],
+  "note": "Class left empty: the roundup dates the adoption of Libya's national AI strategy (as_of is the year of the roundup's review, 2025) but does not describe its scope."
+}

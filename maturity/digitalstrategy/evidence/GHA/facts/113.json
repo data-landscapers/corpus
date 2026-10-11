@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-reg-digital-health-digit-2016-the-digital-health-initiative-digital-square",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Square", "country_label": "", "class": "programme", "platform": "DHIS2", "owner": "PATH, funded by USAID", "tiers": "24+ African countries including Ghana, 2016-2026"}
+  ],
+  "note": "A donor health-IT programme; no Ghanaian digital strategy named."
+}

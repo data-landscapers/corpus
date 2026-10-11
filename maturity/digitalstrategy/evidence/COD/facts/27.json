@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-01 DRC unveils $8.7 billion digital plan to expand connectivity and AI skills by 2030",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "iAfrica reports the DRC's 2026-2030 digital transformation plan (PNN2) at US$8.7 billion, with targets of 650 more communities connected (about 30 million people and 1,000 institutions), 700,000 jobs and 9.7 million new mobile internet users by 2029; funders cited include the World Bank and AFD.", "as_of": "2026-02-01", "date_precision": "day", "system": "Digital transformation plan 2026-2030 (PNN2)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Digital transformation plan 2026-2030 (PNN2)", "country_label": "PNN2", "class": "national", "platform": "", "owner": "DRC government", "tiers": "national; connectivity, modernising public services, tech skills, interbank payment platform"}
+  ],
+  "note": ""
+}

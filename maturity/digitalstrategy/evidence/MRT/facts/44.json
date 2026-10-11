@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda numérique 2022-2025", "country_label": "agenda numérique 2022-2025", "class": "", "platform": "", "owner": "MTNIMA", "tiers": "national; the report lists a 'fourth pillar' box (Encadré 10) but the passages do not describe the agenda"},
+    {"system": "Stratégie nationale d'inclusion financière 2023-2028", "country_label": "stratégie nationale d'inclusion financière 2023-2028", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Digital Transformation Strategy for Africa 2020-2030", "country_label": "Stratégie de transformation numérique de l'Union africaine 2020-2030", "class": "regional", "platform": "", "owner": "African Union", "tiers": "continental; adopted February 2020 per the report"}
+  ],
+  "note": "The passages say Mauritania's 150-plus unconnected public platforms show an urgent need for a unified digital strategy, but do not state that no national strategy exists, so no fact; the agenda's scope is not described in the passages."
+}

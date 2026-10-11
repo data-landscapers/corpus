@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-28-economist-namibia-launches-diginam-national-pki",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Economist (Namibia) reports that the DigiNam public key infrastructure, launched on Monday 31 August 2026, aligns with the National Digital Strategy 2025-2028, giving the strategy's period as 2025-2028; the article does not say the text is public and does not describe the strategy's scope, so the class is left empty.", "as_of": "2026-08-31", "date_precision": "day", "system": "National Digital Strategy 2025-2028", "class": ""},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The Ministry of Home Affairs, Immigration, Safety and Security, with the ICT ministry and CRAN, officially launched DigiNam, the National PKI, on Monday 31 August 2026, described as aligned with the National Digital Strategy 2025-2028; the article does not describe the strategy's scope, so the class is left empty.", "as_of": "2026-08-31", "date_precision": "day", "system": "National Digital Strategy 2025-2028", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Strategy 2025-2028", "country_label": "National Digital Strategy 2025-2028", "class": "", "platform": "", "owner": "", "tiers": "national; named, no description of scope"},
+    {"system": "DigiNam (National Public Key Infrastructure)", "country_label": "DigiNam", "class": "thematic", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security with MICT; CRAN as Root Certification Authority", "tiers": "national; online identity verification, authentication and digital signatures for citizens, businesses and government bodies"}
+  ],
+  "note": "Strategy class empty because the article names it and gives its period but describes no scope; the period fact assumes nothing about whether the text is public. The article's date on the filename (28 Aug) was a capture error; launch was 31 Aug."
+}

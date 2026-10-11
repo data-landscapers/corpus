@@ -1,0 +1,15 @@
+{
+  "slug": "2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The World Bank appraisal says the Government of Congo had adopted a five-year Digital Economy Strategy, 'Vision Congo Digital 2025'; it names no adopting act or date, so the date used is the document's own, 11 May 2022.", "as_of": "2022-05", "date_precision": "month", "system": "Vision Congo Digital 2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The appraisal says the Ministry of Posts, Telecommunications and Digital Economy is mandated to implement the national digital transformation agenda, an inter-ministerial digital sector strategic committee coordinates the strategy, and the Directorate General for Digital Economy Development is commissioned to operationalise it across ministries; the date used is the document's own, 11 May 2022.", "as_of": "2022-05", "date_precision": "month", "system": "Vision Congo Digital 2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "none", "fact": "The appraisal says successful implementation of the strategy requires a clear and prioritised roadmap, and the project's results framework includes validation of digital transformation strategy action plans as an indicator to be achieved; no action plan is described as existing; the date used is the document's own, 11 May 2022.", "as_of": "2022-05", "date_precision": "month", "system": "Vision Congo Digital 2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "none", "fact": "The appraisal says successful implementation of the strategy requires monitoring and evaluation mechanisms, which it does not describe as in place; the date used is the document's own, 11 May 2022.", "as_of": "2022-05", "date_precision": "month", "system": "Vision Congo Digital 2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Vision Congo Digital 2025", "country_label": "Vision Congo Digital 2025", "class": "national", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy (DGDEN operationalises)", "tiers": "national; three pillars: people-centric digital services (e-citizen), support to the private sector (e-business), and acceleration of digital government service uptake; a whole-of-government approach is stated"},
+    {"system": "national development plan (PND)", "country_label": "Plan national de développement", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; the project contributes to its broadband objectives"},
+    {"system": "Congo Digital Acceleration Project", "country_label": "Congo Digital Acceleration Project (P175592)", "class": "programme", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy; World Bank loan of US$100 million", "tiers": "national"}
+  ],
+  "note": ""
+}

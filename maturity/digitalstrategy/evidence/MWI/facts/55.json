@@ -1,0 +1,18 @@
+{
+  "slug": "2025-06-01-undp-malawi-idt4m-quarterly-report-apr-jun25",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "UNDP's April-June 2025 report says the project \"initiated development of the National Digital Transformation Strategy\" and that work \"has commenced\", with the Department of E-Government under the Ministry of Information and Digitalization to produce the Strategy and Roadmap in the third quarter of 2025; no adoption is reported.", "as_of": "2025-06", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The report places development of the National Digital Transformation Strategy inside the UNDP-run IDT4M project (basket fund, 1 March 2024 to 28 February 2028; 2025 work plan USD 3,165,000 for the whole project), with the strategy 'supported by the IDT4M project'; it states no government budget line for the strategy.", "as_of": "2025-06", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy (and Roadmap)", "class": "national", "platform": "", "owner": "Department of E-Government, Ministry of Information and Digitalization", "tiers": "national roadmap to guide digital public infrastructure investment, service delivery and digital governance; built on the Digital Readiness Assessment"},
+    {"system": "National AI Strategy", "country_label": "National AI Strategy and Roadmap", "class": "thematic", "platform": "", "owner": "Department of E-Government", "tiers": "national; in development, due Q3 2025"},
+    {"system": "ICT Strategy", "country_label": "ICT Strategy", "class": "", "platform": "", "owner": "Department of E-Government", "tiers": "to be delivered alongside the Digital Transformation Strategy; scope not described"},
+    {"system": "National e-Government Implementation Plan", "country_label": "National e-Government Implementation Plan", "class": "", "platform": "", "owner": "Department of E-Government", "tiers": "forthcoming; scope not described"},
+    {"system": "National Digitalization Policy (2023)", "country_label": "National Digitalization Policy", "class": "", "platform": "", "owner": "", "tiers": "named as a national framework the NRB Strategic Plan aligns with; scope not described"},
+    {"system": "Malawi Vision 2063", "country_label": "Malawi Vision 2063", "class": "development-plan", "platform": "", "owner": "Government of Malawi", "tiers": "national; named with MIP-1 as the national development framework"},
+    {"system": "NRB Strategic Plan 2025-2030", "country_label": "NRB Strategic Plan 2025-30", "class": "ministry-plan", "platform": "", "owner": "National Registration Bureau", "tiers": "national registration bureau"},
+    {"system": "Inclusive Digital Transformation for Malawi (IDT4M)", "country_label": "IDT4M", "class": "programme", "platform": "", "owner": "UNDP Malawi with Government of Malawi, basket fund", "tiers": "national; 1 March 2024 to 28 February 2028"}
+  ],
+  "note": "The Digital Transformation Strategy is stated as under development in Q2 2025 and due Q3 2025; the report gives no later status. The National Digitalization Policy (2023) is named only as an alignment reference, with no standing stated, so no fact."
+}

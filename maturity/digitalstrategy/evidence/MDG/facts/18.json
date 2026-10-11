@@ -1,0 +1,11 @@
+{
+  "slug": "2025-09-23-national-digitalisation-strategy-tvet-40000-target",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Ecofin says the technical and vocational education strategy aligns with the Strategic Digital Plan (PSN 2023-2028), launched by the Ministry of Digital Development, Digital Transformation, Posts and Telecommunications; no act of adoption and no launch date is stated, so the article's 23 September 2025 publication date is used.", "as_of": "2025-09-23", "date_precision": "day", "system": "Strategic Digital Plan (PSN 2023-2028)", "class": ""}
+  ],
+  "systems": [
+    {"system": "Strategic Digital Plan (PSN 2023-2028)", "country_label": "Plan Stratégique Numérique / PSN 2023-2028", "class": "", "platform": "", "owner": "Ministry of Digital Development, Digital Transformation, Posts and Telecommunications", "tiers": "described only as addressing the ICT skills deficit"},
+    {"system": "national digitalization strategy of the technical and vocational education sector", "country_label": "stratégie nationale de digitalisation du secteur", "class": "ministry-plan", "platform": "", "owner": "Ministry of Technical Education and Vocational Training, UNESCO-backed", "tiers": "adopted at a ceremony in the week before 23 September 2025; 22 priority projects, 40,000 people trained in digital skills by 2028"}
+  ],
+  "note": "PSN fact recorded with class empty: the article states the launch but does not describe the plan's scope. The sector strategy is a ministry plan."
+}

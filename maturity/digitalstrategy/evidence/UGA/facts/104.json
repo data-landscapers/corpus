@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-01-moict-ministerial-policy-statement-fy2025-26",
+  "facts": [],
+  "systems": [
+    {"system": "NDP IV", "country_label": "NDPIV", "class": "development-plan", "platform": "", "owner": "Government of Uganda", "tiers": "national; the statement's FY2025/26 priorities are set consistent with it"},
+    {"system": "Ten-fold Growth Strategy", "country_label": "Ten-fold Growth Strategy", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Business Process Outsourcing and Innovation policy", "country_label": "Business Process Outsourcing and Innovation policy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "approved by Cabinet; implementation commenced FY2024/25"}
+  ],
+  "note": "A budget policy statement; the passages read name no national digital strategy and give no dated fact about one."
+}

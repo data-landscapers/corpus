@@ -1,0 +1,9 @@
+{
+  "slug": "2021-08-09-sao-tome-resolucao-35-2020-estrategia-governacao-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Estratégia Nacional para a Governação Digital em São Tomé e Príncipe", "country_label": "Estratégia Nacional para a Governação Digital (ENGD)", "class": "government", "platform": "", "owner": "Approved by the Council of Ministers (Resolução n.º 35/2020, 73rd ordinary session, 16 July 2020, published in Diário da República I Série n.º 60, 9 August 2021); drafted by INIC with UNU-EGOV; monitored by the Comité para a Governação Digital created by the same resolution", "tiers": "national; the text states its aim as digital transformation of public administration and digital public services across nine sectors, with a five-year horizon (2020/2024) covering the sectors of the public administration; the annex is a preliminary version with no calendar or resource allocation plan"},
+    {"system": "STP em Rede", "country_label": "STP em Rede", "class": "programme", "platform": "", "owner": "INIC; launched 2010 for 2010-2014", "tiers": "national; e-government programme"}
+  ],
+  "note": "Resolution 35/2020 approves the strategy, but the strategy's own stated scope is the public administration and its digital services, so it is class government and no fact is recorded. File captured as an excerpt; it stops before the later chapters."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-01-ager-sao-tome-consulta-publica-estrategia-nacional-ciberseguranca",
+  "facts": [],
+  "systems": [
+    {"system": "Estratégia Nacional de Cibersegurança de São Tomé e Príncipe (2024-2028)", "country_label": "Estratégia Nacional de Cibersegurança", "class": "thematic", "platform": "", "owner": "AGER, under the Projecto STP Digital", "tiers": "national"},
+    {"system": "Projecto STP Digital", "country_label": "Projecto STP Digital", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The only strategy is the cybersecurity strategy 2024-2028, a thematic class; no national digital strategy is stated."
+}

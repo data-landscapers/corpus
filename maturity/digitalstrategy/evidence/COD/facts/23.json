@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31-anapi-helios-towers-investissement-actualite",
+  "facts": [],
+  "systems": [
+    {"system": "Plan national du numérique et de l'inclusion 2025", "country_label": "Plan national du numérique et de l'inclusion 2025", "class": "", "platform": "", "owner": "", "tiers": "national; named as carrying the Helios Towers investment ambition, with no description"},
+    {"system": "DRC Digital 2030", "country_label": "DRC Digital 2030", "class": "", "platform": "", "owner": "", "tiers": "national; called a project to make the DRC a digital hub, no description of scope"},
+    {"system": "Plan national stratégique de développement", "country_label": "", "class": "development-plan", "platform": "", "owner": "Government", "tiers": "national; the Anapi director says the investment contributes to it"}
+  ],
+  "note": "Investment-signing report; strategies are named in passing without adoption, period or content."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-19 Ethiopia's e-government leap to interoperability (EeGIF)",
+  "facts": [],
+  "systems": [
+    {"system": "National E-Government Strategy and Enterprise Architecture 2024-2029", "country_label": "National E-Government Strategy and Enterprise Architecture 2024-2029", "class": "government", "platform": "", "owner": "Ministry of Innovation and Technology (MiNT)", "tiers": "national; MiNT leads interoperability of e-government applications under it, with consultant DT Global"}
+  ],
+  "note": "Names the e-government strategy only as the frame for the interoperability framework; a strategy for government applications, so no national-class fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan",
+  "facts": [],
+  "systems": [
+    {"system": "2020-2024 National Digital Health Strategic Plan", "country_label": "2020-2024 National Digital Health Strategic Plan", "class": "ministry-plan", "platform": "", "owner": "Ministry of Public Health", "tiers": "national health sector"},
+    {"system": "Cameroon Digital Strategy 2020 (Cameroon 2020 Digital Strategic Plan)", "country_label": "Cameroon Digital Strategy 2020", "class": "", "platform": "", "owner": "MINPOSTEL (named as its incubator)", "tiers": "national"},
+    {"system": "e-Government master plan", "country_label": "e-Government master plan", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The plan states a digital Cameroon vision for 2020 and names a Digital Strategy 2020 with an e-health component inside an e-government master plan, but gives no scope, act or status for it, so no class or fact."
+}

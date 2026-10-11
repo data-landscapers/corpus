@@ -1,0 +1,9 @@
+{
+  "slug": "2020-12-19 Digital futures South Africa's readiness for the 4IR",
+  "facts": [],
+  "systems": [
+    {"system": "National Development Plan (NDP)", "country_label": "National Development Plan", "class": "development-plan", "platform": "", "owner": "National Planning Commission", "tiers": "national"},
+    {"system": "Fourth Industrial Revolution (4IR) blueprints", "country_label": "4IR blueprint", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "A policy paper reviewing the NDP against South Africa's digital future; it states no adoption, period, cost or report for a national digital strategy."
+}

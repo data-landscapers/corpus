@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-02-zimbabwe-cybersecurity-authority-strategy-finalising",
+  "facts": [],
+  "systems": [
+    {"system": "National Cybersecurity Strategy 2026–2030", "country_label": "National Cybersecurity Strategy (2026–2030)", "class": "thematic", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": "being finalised as of 2026-07-02"},
+    {"system": "Smart Zimbabwe 2030 Master Plan", "country_label": "Smart Zimbabwe 2030 Master Plan", "class": "national", "platform": "", "owner": "", "tiers": "minister says it seeks to digitise public services, agriculture, healthcare, education and urban development; adopting act and period not stated here"}
+  ],
+  "note": "The only dated item is the cybersecurity strategy (thematic). The Master Plan is described by scope but no dated fact (adoption, period, cost, report) is given."
+}

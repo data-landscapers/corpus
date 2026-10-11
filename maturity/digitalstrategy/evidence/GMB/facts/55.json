@@ -1,0 +1,13 @@
+{
+  "slug": "2020-06-01-gambia-moici-national-broadband-strategy-2020-2024",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The broadband strategy says its findings 'will inform' the strategic framework for the ICT Master Plan, within which the Ministry formulated it, as at the document's date of June 2020 (no act or adoption stated).", "as_of": "2020-06", "date_precision": "month", "system": "ICT Master Plan", "class": ""}
+  ],
+  "systems": [
+    {"system": "The Gambia National Broadband Strategy 2020-2024", "country_label": "National Broadband Strategy 2020-2024", "class": "thematic", "platform": "", "owner": "Ministry of Information and Communication Infrastructure", "tiers": "national; broadband"},
+    {"system": "ICT Master Plan", "country_label": "ICT Master Plan", "class": "", "platform": "", "owner": "Ministry of Information and Communication Infrastructure", "tiers": "stated as the plan within which MOICI formulated the broadband strategy through the ICT4D Policy; its findings inform the plan's strategic framework; no description of what it covers"},
+    {"system": "The Gambia ICT for Development Policy Statement 2018-2028", "country_label": "ICT4D Policy 2018-2028", "class": "", "platform": "", "owner": "", "tiers": "the broadband strategy is to guide achieving its broad objectives"},
+    {"system": "National Development Plan", "country_label": "NDP", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "A broadband strategy (thematic); standing fact for the ICT Master Plan added on second pass with class empty because the document does not describe its scope."
+}

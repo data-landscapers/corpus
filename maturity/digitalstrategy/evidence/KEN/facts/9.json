@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-23-ken-breakingkenyanews-harness-ai-productivity-ps",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "PS Stephen Isaboke, reported 2026-09-23 on a forum of 2026-09-21, cited the National Digital Master Plan 2022-2032 among foundational policies already in place; the document does not say whether the text is public or describe its scope.", "as_of": "2022", "date_precision": "year", "system": "National Digital Master Plan 2022-2032", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Master Plan 2022-2032", "country_label": "National Digital Master Plan", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National E-Commerce Strategy 2023", "country_label": "National E-Commerce Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Artificial Intelligence Strategy 2025-2030", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Master Plan class left empty: named with its period only. E-commerce and AI strategies are single-theme by name and context."
+}

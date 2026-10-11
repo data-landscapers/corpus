@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-06-wearetech-data-ai-governance-blueprint",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article says the New Deal Technologique was 'launched' in 2025 under the Vision Sénégal 2050 development framework; it names no adopting act or body.", "as_of": "2025", "date_precision": "year", "system": "New Deal Technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 1-2 July 2026 the digital ministry, with Smart Africa and GIZ, convened a workshop whose outcomes feed a national Blueprint for Value Creation Through Data to support implementing the New Deal Technologique.", "as_of": "2026-07-02", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Ministry of Telecommunications and Digital Economy", "tiers": "national"},
+    {"system": "Blueprint for Value Creation Through Data", "country_label": "Blueprint national pour la création de valeur par la donnée", "class": "thematic", "platform": "", "owner": "Ministry of Telecommunications and Digital Economy", "tiers": "national"},
+    {"system": "Vision Sénégal 2050", "country_label": "Vision Sénégal 2050", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Class national: the document describes the strategy as digital sovereignty, public-sector digitisation and a competitive digital economy. The blueprint is in preparation (data and AI), thematic."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2020-06-01-worldbank-cameroon-digital-economy-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "Plan stratégique numérique Cameroun 2020", "country_label": "Plan Stratégique Numérique Cameroun 2020 (Cameroon digital strategy)", "class": "", "platform": "", "owner": "Government of Cameroon (2016)", "tiers": "national"},
+    {"system": "2017 ICT master plan", "country_label": "ICT master plan", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "e-government master plan", "country_label": "e-government master plan", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The diagnostic says the Cameroon digital strategy rests on eight strategic objectives, with trust key, and cites a 2017 ICT master plan, but states no scope, act, period, plan or reporting, so no class or fact."
+}

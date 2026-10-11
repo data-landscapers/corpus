@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "Governance Reform and Accountability Transformation (GREAT) Project", "country_label": "", "class": "programme", "platform": "", "owner": "World Bank", "tiers": "under preparation in 2023, for service delivery and interoperability of core government systems"},
+    {"system": "Public Financial Management Reforms Strengthening Project (P165000)", "country_label": "", "class": "programme", "platform": "", "owner": "World Bank", "tiers": "supports core government systems"}
+  ],
+  "note": "GovTech index brief; names no Liberian digital strategy, only donor projects."
+}

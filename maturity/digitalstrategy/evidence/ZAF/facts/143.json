@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-08-cabinet-approves-revised-white-paper-citizenship",
+  "facts": [],
+  "systems": [
+    {"system": "Revised White Paper on Citizenship, Immigration and Refugee Protection", "country_label": "Revised White Paper on Citizenship, Immigration and Refugee Protection", "class": "", "platform": "", "owner": "Department of Home Affairs (approved by Cabinet, April 2026)", "tiers": "national"},
+    {"system": "Digital ID system / Intelligent Population Register", "country_label": "Intelligent Population Register", "class": "", "platform": "National Population Register upgraded with biometrics and interoperability", "owner": "Department of Home Affairs", "tiers": "national"}
+  ],
+  "note": "A citizenship and immigration policy paper approved by Cabinet; it refers to the Department's 'digital transformation agenda' without naming a national digital strategy."
+}

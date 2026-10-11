@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-29-lso-gov-cto125-commonwealth-digital-leaders",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "A government news agency item of 29 September 2026 says Lesotho is advancing its National Digital Transformation Strategy, with priorities including connectivity, digital skills, innovation and technology for public services and economic opportunities, and reports no results against targets.", "as_of": "2026-09", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy", "class": "national", "platform": "", "owner": "MICSTI", "tiers": "national"}
+  ],
+  "note": "Class national read from the stated priorities spanning public services and economic opportunities; no adoption act, period or plan stated."
+}

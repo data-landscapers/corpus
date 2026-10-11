@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-18-smart-africa-ai-dpi-initiatives-single-market",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Africa Digital Xchange (SADX)", "country_label": "SADX", "class": "regional", "platform": "", "owner": "Smart Africa", "tiers": "cross-border digital identity verification across Benin, Ghana and Rwanda"},
+    {"system": "Africa AI Council", "country_label": "Africa AI Council", "class": "regional", "platform": "", "owner": "Smart Africa Board", "tiers": "continental"}
+  ],
+  "note": "Regional Smart Africa initiatives; the document names no Rwandan national digital strategy."
+}

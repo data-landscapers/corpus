@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-31-tza-ega-ai-standards-guidelines-public-institutions",
+  "facts": [],
+  "systems": [
+    {"system": "Standards and Guidelines for Management, Implementation and Responsible Use of Artificial Intelligence (AI) in Public Institutions (eGA/EXT/APA/011)", "country_label": "eGA/EXT/APA/011", "class": "thematic", "platform": "", "owner": "e-Government Authority, approved by Board Chairperson Dr. Mussa M. Kissaka, 31.08.2026", "tiers": "public institutions"},
+    {"system": "Tanzania Development Vision 2050 (Dira 2050)", "country_label": "Dira 2050", "class": "development-plan", "platform": "", "owner": "Government", "tiers": ""},
+    {"system": "Tanzania Digital Economy Strategic Framework 2024 - 2034", "country_label": "Tanzania Digital Economy Strategic Framework 2024 - 2034", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Tanzania e-Government Strategy, 2022", "country_label": "Tanzania e-Government Strategy, 2022", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "e-Government Technology Roadmap, 2024", "country_label": "e-Government Technology Roadmap, 2024", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The standards cite the Digital Economy Strategic Framework 2024-2034, the e-Government Strategy 2022 and the e-Government Technology Roadmap 2024 only in a list of reference documents; none is described, so no fact is recorded and their classes are empty."
+}

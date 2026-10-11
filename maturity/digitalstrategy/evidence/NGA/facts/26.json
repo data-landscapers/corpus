@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-01-gcg-analysis-national-ai-strategies-africa",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "National Artificial Intelligence Strategy (2025)", "class": "thematic", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": "national"},
+    {"system": "National Broadband Plan", "country_label": "National Broadband Plan", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "3 Million Technical Talent programme (3MTT)", "country_label": "3MTT", "class": "programme", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "Nigerian Artificial Intelligence Bill, 2025", "country_label": "Nigerian Artificial Intelligence Bill, 2025", "class": "directive", "platform": "", "owner": "House of Representatives", "tiers": "national"}
+  ],
+  "note": "A review of AI strategies; the Nigerian AI strategy (draft August 2024, final September 2025 per the report) is class thematic, so it gives no fact for this study."
+}

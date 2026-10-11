@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-29-africabusinessinsight-senegal-alibaba-sovereign-cloud",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article calls the New Deal Technologique the country's broader digital transformation strategy, 'launched in 2025'; it names no adopting act or body.", "as_of": "2025", "date_precision": "year", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Government of Senegal (Digital Ministry)", "tiers": "national"},
+    {"system": "Sovereign cloud with Alibaba Group", "country_label": "cloud souverain", "class": "thematic", "platform": "Alibaba Cloud", "owner": "Digital Ministry", "tiers": "national"}
+  ],
+  "note": "Class national: the document describes modernising public services, data sovereignty and a competitive digital economy. The cloud is a thematic project under it."
+}

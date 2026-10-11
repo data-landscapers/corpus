@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-16-sets-up-agency-digital-transformation-biometricupdate",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Council of Ministers approved the Digital Transformation and Innovation Agency (ATDI) to coordinate the country's digital transformation, and a Multisectoral Technical Commission for Coordination and Implementation of Digital Transformation; the report names no strategy document, and as_of is the publication date because the meeting is described only as recent.", "as_of": "2026-03-16", "date_precision": "day", "system": "digital transformation plan", "class": ""}
+  ],
+  "systems": [],
+  "note": "The body fact is recorded with class left empty because the report refers only to a 'digital transformation plan', without describing its scope."
+}

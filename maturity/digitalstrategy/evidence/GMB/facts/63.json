@@ -1,0 +1,15 @@
+{
+  "slug": "2025-01-01-mocde-data-governance-trends-gambia",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Economy Master Plan 2024 - 2034", "country_label": "National Digital Economy Masterplan 2024 - 2034", "class": "national", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "described as a comprehensive countrywide plan with flagship digitisation projects across sectors such as education, health, transport, agriculture and trade; Pillar 7 covers cybersecurity, data protection and privacy"},
+    {"system": "The Gambia ICT for Development (ICT4D) Policy 2018-2028", "country_label": "ICT4D Policy Statement 2018-2028", "class": "national", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "eight priority areas, from human capital and electronic government to agriculture, private sector, youth and women, and the legal regime, broadband and cyber security"},
+    {"system": "E-government Strategy 2021-2024", "country_label": "E-government Strategy 2021-2024", "class": "government", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "government"},
+    {"system": "Gambia National Cybersecurity Strategy and policy 2020-2026", "country_label": "Gambia National Cybersecurity Strategy and policy - 2020-2026", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Government Cloud Policy, Strategy and implementation plan 2023", "country_label": "Government Cloud Policy, Strategy and implementation plan 2023 (strategy 2023-2027)", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "government"},
+    {"system": "Government Open Data Strategy 2024-2027", "country_label": "Government Open Data Strategy 2024-2027 (also given as Open Data Strategy 2023-2026)", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy, developed with the e-Governance Academy of Estonia and the AU-EU D4D Hub", "tiers": "government data"},
+    {"system": "Digital Addressing policy 2023-2027", "country_label": "Digital Addressing policy 2023-2027", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "MYGOV - Digital Gambia Platform", "country_label": "MYGOV", "class": "programme", "platform": "replicated from Bangladesh's MYGOV", "owner": "supported by UNDP (a2i) and ECOWAS", "tiers": "one-stop platform for citizen access to government services, starting with five pilots"}
+  ],
+  "note": "A ministry slide deck listing the national policies and the master plan; it states no adoption, text availability, costed plan or reporting for any national strategy."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold",
+  "facts": [],
+  "systems": [
+    {"system": "Smart Zimbabwe 2030 Master Plan", "country_label": "Smart Zimbabwe 2030 Master Plan", "class": "", "platform": "", "owner": "", "tiers": "named only as the plan under which a National Data Centre ecosystem sits; scope not described"},
+    {"system": "National Development Strategy 2", "country_label": "National Development Strategy 2", "class": "development-plan", "platform": "", "owner": "", "tiers": "with Vision 2030, the frame for the minister's five-point policy compass"},
+    {"system": "Zimbabwe AI Ethics Framework", "country_label": "Zimbabwe AI Ethics Framework", "class": "thematic", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": "ministry committed to table it by end of Q1 2027"}
+  ],
+  "note": "The Smart Zimbabwe 2030 Master Plan is named with no description of its scope or any dated fact, so no fact is recorded and its class is left empty."
+}

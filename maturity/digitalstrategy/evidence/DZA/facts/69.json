@@ -1,0 +1,10 @@
+{
+  "slug": "2023-09-06-joradp-decret-23-314-haut-commissariat-numerisation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Presidential decree 23-314 of 6 September 2023 creates a High Commission for Digitalisation, charged by article 4 with designing the national digitalisation strategy with sectors, institutions, the economy and civil society, and with following its implementation; its steering council is chaired by the Presidency's chief of staff.", "as_of": "2023-09-06", "date_precision": "day", "system": "Stratégie nationale de la numérisation", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Presidential decree 19-317 creating the National Agency for Digital Development (repealed)", "country_label": "agence nationale de développement numérique", "class": "directive", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

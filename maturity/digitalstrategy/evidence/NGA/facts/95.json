@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-01-ncc-spectrum-roadmap-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Spectrum Roadmap for the Communications Sector (2026 - 2030)", "country_label": "Nigeria Spectrum Roadmap 2026-2030", "class": "sector-ict", "platform": "", "owner": "Nigerian Communications Commission", "tiers": ""},
+    {"system": "National Broadband Plan (NBP)", "country_label": "National Broadband Plan", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Economy Policy and Strategy (NDEPS)", "country_label": "National Digital Economy Policy and Strategy", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The roadmap says only that it aligns with the NBP and the NDEPS; it states no adoption, period, cost or report for the NDEPS and does not describe its scope, so no fact."
+}

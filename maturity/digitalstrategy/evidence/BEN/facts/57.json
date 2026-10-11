@@ -1,0 +1,10 @@
+{
+  "slug": "2023-02-16-innovation-gouv-bj-sniam-strategie-nationale-ia",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale d'Intelligence Artificielle et des Mégadonnées 2023-2027 (SNIAM)", "country_label": "SNIAM", "class": "thematic", "platform": "", "owner": "Ministry of Digital Affairs and Digitalisation", "tiers": "national; adopted by the Council of Ministers on 18 January 2023, four programmes and a portfolio of 123 actions"},
+    {"system": "Programme d'Action du Gouvernement - Orientations stratégiques dans le secteur de l'économie numérique 2016-2021", "country_label": "PAG Orientations stratégiques dans le secteur de l'économie numérique", "class": "", "platform": "", "owner": "government", "tiers": "national; listed in the strategy's references with no description of its content"},
+    {"system": "Plan National de Développement 2018-2025", "country_label": "Plan National de Développement 2018-2025", "class": "development-plan", "platform": "", "owner": "Ministry of Planning", "tiers": "national; listed as a reference"}
+  ],
+  "note": "The document is the AI and big data strategy, a thematic class instrument; it describes no national digital strategy."
+}

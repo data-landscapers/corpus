@@ -1,0 +1,13 @@
+{
+  "slug": "2025-07-01-digital-transformation-chief-interview-techcabal",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The ministry's Director of Digital Transformation said the 2021-2025 digital strategy was closing and the next one, for 2026-2030, was already being drafted (interview, 1 July 2025).", "as_of": "2025-07-01", "date_precision": "day", "system": "2026-2030 digital strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "2021-2025 digital strategy", "country_label": "", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Digitalization", "tiers": "national"},
+    {"system": "AI strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "digital governance strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "PARAE (Programme d'Appui à la Réforme de l'Administration de l'Etat)", "country_label": "PARAE", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

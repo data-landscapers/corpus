@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-26-dha-treasury-employee-verification-platform",
+  "facts": [],
+  "systems": [
+    {"system": "Employee verification portal (Home Affairs for National Treasury)", "country_label": "online realtime employee verification portal", "class": "", "platform": "Home Affairs trusted digital identity verification, linked to the population register", "owner": "Department of Home Affairs for National Treasury", "tiers": "national and provincial departments"}
+  ],
+  "note": "A Home Affairs statement on a payroll verification portal; it refers to 'government's broader digital transformation agenda' without naming a strategy document."
+}

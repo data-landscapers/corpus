@@ -1,0 +1,39 @@
+{
+ "slug": "2026-10-03-permis-de-conduire-numerique-compte-a-rebours",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "country_label": "Digital Transformation Blueprint 2025-2029",
+   "class": "",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": ""
+  },
+  {
+   "system": "MauPass",
+   "country_label": "MauPass",
+   "class": "",
+   "platform": "",
+   "owner": "Government",
+   "tiers": "national single sign-on for public digital services"
+  },
+  {
+   "system": "KOREK! app",
+   "country_label": "KOREK!",
+   "class": "",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": "citizens"
+  },
+  {
+   "system": "Digital Driving Licence",
+   "country_label": "DDL",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "from 1 January 2027"
+  }
+ ],
+ "note": "Names the Blueprint only as the origin of a 'principle' for the DDL transition; says nothing of its scope or dated status, so no fact and class left empty."
+}

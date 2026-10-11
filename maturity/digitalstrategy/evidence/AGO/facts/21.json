@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-04-angola-deploys-angosat-2-connectivity-to-border-areas",
+  "facts": [],
+  "systems": [
+    {"system": "Conecta Angola Comercial", "country_label": "Conecta Angola Comercial", "class": "programme", "platform": "ANGOSAT-2", "owner": "MINTTICS / GGPEN", "tiers": "border posts and remote areas; VSAT installed at the Luvo Border Post"}
+  ],
+  "note": "Refers to the government's digital inclusion strategy and digital transformation agenda generically, with no name or description."
+}

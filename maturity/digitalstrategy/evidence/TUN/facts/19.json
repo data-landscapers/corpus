@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-09-telecomreviewafrica-north-africa-digital-generation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The article names Tunisia's National Digital Strategy 2021-2025 as a five-year plan; its stated period had ended by the article's date, and the article gives no successor strategy by name (only a 'broader national vision for 2026-2030'); the as-at date is the article's publication date (2026-03-09). Text public: not stated", "as_of": "2026-03-09", "date_precision": "day", "system": "National Digital Strategy 2021-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The article says the Digital Strategy 2021-2025 'translated vision into delivery', citing by 2025 nearly 80% of the population as internet users and 4G coverage near 95%, measured against no target of the strategy itself and with no published progress report named.", "as_of": "2025", "date_precision": "year", "system": "National Digital Strategy 2021-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Strategy 2021-2025", "country_label": "National Digital Strategy 2021-2025", "class": "national", "platform": "", "owner": "Ministry of Communication Technologies (listed in the entry metadata); minister named as leading it", "tiers": "framework for digitalization across economic and social development: broadband, public administration, digital literacy, innovation, cybersecurity, data-driven governance, AI and cloud"},
+    {"system": "national vision 2026-2030 (192 digital projects)", "country_label": "broader national vision for 2026-2030", "class": "", "platform": "", "owner": "Government", "tiers": "to expand digital services, financial inclusion, cybersecurity; government outlined 192 digital projects; no name or act given"},
+    {"system": "National Industry 4.0 Hub", "country_label": "National Industry 4.0 Hub", "class": "programme", "platform": "", "owner": "", "tiers": "industry; financial incentives and collaboration between startups, researchers and firms"}
+  ],
+  "note": "No adoption act or body, plan or cost is stated for the 2021-2025 strategy; the article's wording ('continues to deliver') is present tense but the stated period ended in 2025."
+}

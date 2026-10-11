@@ -1,0 +1,23 @@
+{
+ "slug": "2024-12-10 Unveiling Eswatini's Digital Path",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Eswatini Digitalization Strategy (2024-2028)",
+   "country_label": "Eswatini Digitalization Strategy (2024-2028), 'Government in Your Hand'",
+   "class": "government",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": "drive to transform public services; stated as being implemented in December 2024"
+  },
+  {
+   "system": "national digital strategy",
+   "country_label": "national digital strategy",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "unnamed; mentioned in the Digital Readiness Assessment summary"
+  }
+ ],
+ "note": "The Minister describes the Eswatini Digitalization Strategy (2024-2028), themed 'Government in Your Hand', as a drive 'to transform public services', so it is classed government and no fact is recorded; the same page says digital transformation 'is supported by a national digital strategy' without naming it, which is a label and not a described scope."
+}

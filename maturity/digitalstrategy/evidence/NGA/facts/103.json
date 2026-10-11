@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "NITDA (per the linked file path)", "tiers": ""},
+    {"system": "Nigeria Startup Act", "country_label": "Startup Act", "class": "directive", "platform": "", "owner": "", "tiers": ""},
+    {"system": "General Application and Implementation Directive (GAID) 2025", "country_label": "GAID 2025", "class": "directive", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Continental review; for Nigeria it names a national AI strategy developed or advanced in 2025, startup act operationalisation and the GAID 2025, none a general digital strategy."
+}

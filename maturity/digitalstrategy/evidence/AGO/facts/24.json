@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-24-tdr-quadro-de-governanca-do-governo-digital-e-ia-para-o-sector-publico",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda de Transição Digital da Administração Pública (até 2027)", "country_label": "Agenda de Transição Digital da Administração Pública", "class": "government", "platform": "", "owner": "Government of Angola; the Instituto de Modernização Administrativa (IMA) coordinates the PADA that supports it", "tiers": "public administration; the terms of reference of March 2026 call it already approved and in execution, with a consultancy to produce its action plan and roadmap for a horizon beyond 2027"},
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "PADA", "class": "programme", "platform": "", "owner": "IMA with the World Bank", "tiers": "national"},
+    {"system": "Lei-Quadro do Governo Digital (in preparation)", "country_label": "Lei-Quadro do Governo Digital", "class": "directive", "platform": "", "owner": "", "tiers": "public administration; described in March 2026 as being drafted"}
+  ],
+  "note": "Terms of reference for a government-digital governance consultancy; the strategy it serves is the public-administration agenda."
+}

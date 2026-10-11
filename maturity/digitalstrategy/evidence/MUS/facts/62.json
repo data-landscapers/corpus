@@ -1,0 +1,23 @@
+{
+ "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital government transformation strategy (unnamed)",
+   "country_label": "new digital government transformation strategy",
+   "class": "government",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": "whole-of-government approach, GovTech ecosystem"
+  },
+  {
+   "system": "MauSign",
+   "country_label": "MauSign",
+   "class": "",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": "digital signatures"
+  }
+ ],
+ "note": "Brief says a new digital government transformation strategy guides the GovTech ecosystem; unnamed and undated, class government; no fact for the national class."
+}

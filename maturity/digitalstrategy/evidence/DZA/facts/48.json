@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-30-joradp-decret-25-320-gouvernance-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "Presidential Decree 25-320 establishing the national data governance system", "country_label": "dispositif national de gouvernance des données", "class": "directive", "platform": "national interoperability system on a secure interconnection network", "owner": "High Commission for Digitalisation", "tiers": "public institutions and administrations and public-service bodies"},
+    {"system": "National Information Systems Security Strategy 2025-2029 (Presidential Decree 25-321)", "country_label": "stratégie nationale de la sécurité des systèmes d'information 2025-2029", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A data-governance decree and, in the same gazette issue, the approving decree of the cybersecurity strategy; neither is a national digital strategy."
+}

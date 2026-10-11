@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01-ministry-showcases-dmap-milestones-at-ictam-2025-agm",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Malawi Acceleration Project (DMAP)", "country_label": "DMAP", "class": "programme", "platform": "", "owner": "Ministry of ICT with the Public Private Partnership Commission; World Bank support", "tiers": "national; succeeded the Digital Malawi Program: Digital Foundations Project"},
+    {"system": "Government Wide Area Network", "country_label": "", "class": "", "platform": "", "owner": "Ministry of ICT", "tiers": "over 530 MDAs connected under DMAP"},
+    {"system": "National Data Centre, Lilongwe", "country_label": "", "class": "", "platform": "", "owner": "Ministry of ICT", "tiers": "government systems migrating to it"},
+    {"system": "Malawi 2063", "country_label": "", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; document says the digital transformation agenda is 'of the Malawi 2063'"}
+  ],
+  "note": "Refers to a 'digital transformation agenda of the Malawi 2063'; no separate national digital strategy named."
+}

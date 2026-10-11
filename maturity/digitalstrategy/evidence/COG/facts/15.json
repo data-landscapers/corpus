@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-02-eca-congo-national-data-governance-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Governance Strategy", "country_label": "Stratégie nationale de gouvernance des données", "class": "thematic", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy, with ECA, GIZ and the EU", "tiers": "national; in preparation, 2-9 June 2026 engagements"},
+    {"system": "Vision Congo Digital", "country_label": "Vision Congo Digital framework", "class": "", "platform": "", "owner": "", "tiers": "named as the framework under which digital initiatives are implemented; coverage and standing not described"}
+  ],
+  "note": "Names a 'Vision Congo Digital framework' without describing it; the only strategy described is a thematic data governance strategy being prepared."
+}

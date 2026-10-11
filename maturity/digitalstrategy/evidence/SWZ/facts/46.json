@@ -1,0 +1,31 @@
+{
+ "slug": "2025-01-01-cbe-eswatini-annual-integrated-report-2024-25",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Central Bank of Eswatini digital transformation strategy",
+   "country_label": "Central Bank of Eswatini digital transformation strategy",
+   "class": "ministry-plan",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": "Bank's own operations"
+  },
+  {
+   "system": "National Fintech Strategy",
+   "country_label": "National Fintech Strategy",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Ministry of Finance, Central Bank",
+   "tiers": "completion pending in 2024/25"
+  },
+  {
+   "system": "national digital economy strategy",
+   "country_label": "national digital economy strategy",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": "Bank's attempt to align with Ministry of ICT and RSTP stalled in 2024/25"
+  }
+ ],
+ "note": "The Bank's own digital transformation strategy and the National Fintech Strategy only; it mentions 'the broader national digital economy strategy' without date or description. No fact."
+}

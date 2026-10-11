@@ -1,0 +1,9 @@
+{
+  "slug": "2024-05-29-egyptianstreets-egypt-government-data-cloud-centre-p1",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Egypt", "country_label": "Digital Egypt", "class": "", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "national; described as a programme to digitise government services and drive economic growth, aligned with Egypt's digital transformation strategy and Egypt Vision 2030; no adopting act stated"},
+    {"system": "Egypt Vision 2030", "country_label": "Egypt Vision 2030", "class": "", "platform": "", "owner": "", "tiers": "national; named as the vision the digital transformation strategy aligns with"}
+  ],
+  "note": "News report on the P1 data centre; refers to Egypt's digital transformation strategy only in passing, with no stated adoption, body, plan or period."
+}

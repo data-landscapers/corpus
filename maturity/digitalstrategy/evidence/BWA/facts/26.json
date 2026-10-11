@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-14-bwa-haus-open-data-hackathon-tor-phase2",
+  "facts": [],
+  "systems": [
+    {"system": "Open Data Policy", "country_label": "national Open Data Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national; Parliament's adoption anticipated (March 2026)"},
+    {"system": "EU Support to Digital Transformation in Botswana", "country_label": "EU Support to Digital Transformation in Botswana (Team Europe Initiative)", "class": "programme", "platform": "", "owner": "Expertise France, ESTDEV and HAUS with BDIH and SmartBots", "tiers": "national; Phase 1 June 2025-March 2026"}
+  ],
+  "note": "Terms of reference for hackathons; SmartBots Lab is described as playing a central role in the 'digital transformation agenda' but no strategy document or status is stated."
+}

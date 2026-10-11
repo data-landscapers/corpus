@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-17-eu-support-digital-transformation-botswana",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Expertise France states the government launched the SmartBots Fourth Industrial Revolution Digital Transformation Strategy in February 2020 to accelerate digital transformation across all sectors; no adopting act or approving body is named.", "as_of": "2020-02", "date_precision": "month", "system": "SmartBots Fourth Industrial Revolution Digital Transformation Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The EU, France's foreign ministry, ESTDEV and HAUS Finland fund a EUR 4.85 million project running August 2024 to August 2027 that supports SmartBots governance, a monitoring and evaluation framework and a progress dashboard; no domestic allocation to the strategy is stated.", "as_of": "2026-02-17", "date_precision": "day", "system": "SmartBots Fourth Industrial Revolution Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "SmartBots Fourth Industrial Revolution Digital Transformation Strategy", "country_label": "SmartBots", "class": "national", "platform": "", "owner": "Government of Botswana", "tiers": "all sectors: connectivity, education, public services, data-driven solutions, innovation ecosystem; launched February 2020"},
+    {"system": "EU Support to digital transformation in Botswana", "country_label": "EU Support to digital transformation in Botswana", "class": "programme", "platform": "", "owner": "Expertise France with ESTDEV and HAUS Finland, EU-funded", "tiers": "government institutions, Botswana Digital and Innovation Hub, private sector; EUR 4.85 million, August 2024 to August 2027"},
+    {"system": "digital by default strategy for the government ecosystem", "country_label": "digital by default strategy", "class": "government", "platform": "", "owner": "Government of Botswana, with project support", "tiers": "government e-services; listed as an activity of the project, to be created"}
+  ],
+  "note": ""
+}

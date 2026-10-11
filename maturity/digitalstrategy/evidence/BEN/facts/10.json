@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale de Cybersanté 2018-2022", "country_label": "Stratégie Nationale de Cybersanté 2018-2022", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "national; expired, no successor per the source (July 2026)"},
+    {"system": "PNDS 2024-2030", "country_label": "Plan National de Développement Sanitaire 2024-2030", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "national; health plan now carrying digital health priorities"}
+  ],
+  "note": "A digital-health directory; the instruments are sector (health) strategies, not a national digital strategy."
+}

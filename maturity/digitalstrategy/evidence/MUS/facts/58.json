@@ -1,0 +1,44 @@
+{
+ "slug": "2025-10-29-launch-ai-for-all-booklet-speech",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "President Dharam Gokhool recalls that 'on 26 May 2025, while launching the Blueprint on Digital transformation' he called the launch of the Digital Transformation Blueprint 2025-2029 a defining moment and a 'bold expression of our national resolve'; no adopting act or other body is named.",
+   "as_of": "2025-05-26",
+   "date_precision": "day",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "current",
+   "fact": "The speech, dated 29 October 2025, refers to the Blueprint 2025-2029 as outlining 'a bold, inclusive roadmap for integrating AI into our development agenda'.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "country_label": "Digital Transformation Blueprint 2025-2029",
+   "class": "national",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": "national"
+  },
+  {
+   "system": "Government Programme - A Bridge to the Future",
+   "country_label": "Government Programme 2025-2029",
+   "class": "development-plan",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": "presented to the nation on 24 January 2025"
+  }
+ ],
+ "note": "Passages only. Standing is the President's own account of launching the Blueprint; scope is described only as national resolve and a development roadmap."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-16-rbm-national-payments-strategy-2026-2030-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "National Payments Systems Vision and Strategy Framework (2026-2030)", "country_label": "National Payments Systems Vision and Strategy", "class": "thematic", "platform": "", "owner": "Reserve Bank of Malawi", "tiers": "national payments system; 'unveiled' April 2026"},
+    {"system": "Malawi Vision 2063", "country_label": "Malawi Vision 2063", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Payments strategy only (thematic); no national digital strategy stated."
+}

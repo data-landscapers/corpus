@@ -1,0 +1,9 @@
+{
+  "slug": "2019-02-27-microsoft-telecom-egypt-cloud-network-point-of-presence",
+  "facts": [],
+  "systems": [
+    {"system": "Egypt's digital transformation strategy (as named by the ICT minister)", "country_label": "digital transformation strategy", "class": "", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "national; the minister said in February 2019 Egypt is moving towards achieving a digital transformation strategy in line with the Egypt Sustainable Development strategy 2030; no text, adoption or plan described"},
+    {"system": "Egypt Sustainable Development Strategy 2030", "country_label": "Egypt Sustainable Development strategy 2030", "class": "", "platform": "", "owner": "", "tiers": "national; named as the framework the ICT industry commitment aligns with"}
+  ],
+  "note": "Corporate press release; the minister's remark on a digital transformation strategy is too vague to record as a standing or plan."
+}

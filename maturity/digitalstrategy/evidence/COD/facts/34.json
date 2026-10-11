@@ -1,0 +1,11 @@
+{
+  "slug": "2025-08-31-projet-acquisition-satellite-monacosat-actualite",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article says that in June 2025 the president urged satellite projects within the \"plan national du numérique Horizon 2025\", a plan whose stated horizon is 2025, so it was current. Text public: not stated", "as_of": "2025-06", "date_precision": "month", "system": "Plan national du numérique Horizon 2025", "class": ""}
+  ],
+  "systems": [
+    {"system": "Plan national du numérique Horizon 2025", "country_label": "Plan national du numérique", "class": "", "platform": "", "owner": "Presidency", "tiers": "national; the president said in June 2025 satellite projects belong within it, no description of the plan"},
+    {"system": "Monacosat satellite project", "country_label": "", "class": "programme", "platform": "", "owner": "Government with Monacosat", "tiers": "national; MoU November 2024, estimated US$400 million"}
+  ],
+  "note": "Satellite project report; the national plan is named in passing, so the class is empty because the document does not describe the strategy's scope."
+}

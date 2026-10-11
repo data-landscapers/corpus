@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-20-undp-lehokela-seven-years",
+  "facts": [],
+  "systems": [
+    {"system": "LMPS Digital Transformation Policy and Strategy", "country_label": "LMPS Digital Transformation Policy and Strategy", "class": "ministry-plan", "platform": "", "owner": "Lesotho Mounted Police Service, with UNDP", "tiers": "police"},
+    {"system": "LMPS Strategic Plan 2026 to 2031", "country_label": "LMPS Strategic Plan 2026 to 2031", "class": "ministry-plan", "platform": "", "owner": "Lesotho Mounted Police Service", "tiers": "police"},
+    {"system": "Community Policing Unit Strategic Plan 2026 to 2029", "country_label": "Community Policing Unit Strategic Plan 2026 to 2029", "class": "ministry-plan", "platform": "", "owner": "Lesotho Mounted Police Service", "tiers": "police"}
+  ],
+  "note": "The digital transformation policy and strategy named here belong to the police service (ministry-plan), so no fact for the national sub-indicator."
+}

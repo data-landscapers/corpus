@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-10-lesotho-rsl-standard-lesotho-bank-payment-integration",
+  "facts": [],
+  "systems": [
+    {"system": "RSL Payment Gateway Integration with Standard Lesotho Bank", "country_label": "Payment Gateway Integration with Standard Lesotho Bank", "class": "programme", "platform": "USSD, internet banking and bank app", "owner": "Revenue Services Lesotho", "tiers": "national tax payments"}
+  ],
+  "note": "Agency press release; 'digital transformation agenda' refers to the revenue authority's own, with no national strategy named."
+}

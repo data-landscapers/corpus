@@ -1,0 +1,9 @@
+{
+  "slug": "2024-07-19-au-continental-artificial-intelligence-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "Continental Artificial Intelligence Strategy", "country_label": "AU Continental AI Strategy", "class": "regional", "platform": "", "owner": "African Union", "tiers": "continental; adopted by the AU Executive Council 18-19 July 2024 in Accra"},
+    {"system": "Ghana national data strategy (draft)", "country_label": "overarching data strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national; stated as drafted in 2024"}
+  ],
+  "note": "A continental strategy; it names Ghana only as having drafted a data strategy and taken steps on AI strategy."
+}

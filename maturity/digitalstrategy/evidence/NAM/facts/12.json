@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-06-namibia-national-data-centre-639m-ict-budget",
+  "facts": [],
+  "systems": [
+    {"system": "MICT Strategic Plan 2025-2030", "country_label": "Ministry of Information and Communication Technology 2025-2030 Strategic Plan", "class": "ministry-plan", "platform": "", "owner": "MICT", "tiers": "presented by the Acting Executive Director in August 2026; 2026/27 budget N$639.2 million (N$625.7m operational, N$13.6m development)"},
+    {"system": "National Cybersecurity Strategy", "country_label": "National Cybersecurity Strategy", "class": "thematic", "platform": "", "owner": "MICT", "tiers": "being implemented in 2026/27"},
+    {"system": "Universal Access and Service Policy", "country_label": "Universal Access and Service Policy", "class": "sector-ict", "platform": "", "owner": "MICT", "tiers": "under review"},
+    {"system": "Broadband Policy", "country_label": "Broadband Policy", "class": "thematic", "platform": "", "owner": "MICT", "tiers": "under review"}
+  ],
+  "note": "The only strategy with dated facts is the ministry's own plan (ministry-plan), which gives no fact for the national class."
+}

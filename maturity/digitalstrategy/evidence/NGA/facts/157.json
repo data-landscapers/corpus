@@ -1,0 +1,9 @@
+{
+  "slug": "2020-09-17-businessday-ipnx-ustda-nigeria-ict-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Economy Policy and Strategy", "country_label": "National Digital Strategy / National Digital Economy Policy and Strategy", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Broadband Plan", "country_label": "National Broadband Plan (recently updated)", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "An NCC official and ipNX say a grant is in line with the 'National Digital Strategy' and the National Digital Economy Policy and Strategy; no adoption, period, cost or report is stated, so no dated fact."
+}

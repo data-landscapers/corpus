@@ -1,0 +1,11 @@
+{
+  "slug": "2024-07-31-decreto-presidencial-178-24-agenda-de-transicao-digital-governo-ao-27",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda de Transição Digital da Administração Pública 2027 (Agenda GOVERNO.AO 27)", "country_label": "Agenda GOVERNO.AO 27", "class": "government", "platform": "", "owner": "Government of Angola; projects identified by the Instituto de Modernização Administrativa (IMA) with the ICT services of the ministries", "tiers": "public administration; approved by Presidential Decree 178/24 of 31 July 2024 after the Council of Ministers of 26 June 2024; six strategic objectives, seven axes (including governance and reporting, and financing and sustainability) and 218 projects across 27 government bodies, each with targets, timetables and performance indicators"},
+    {"system": "Plano de Desenvolvimento Nacional 2023-2027 (PDN 23-27)", "country_label": "Plano de Desenvolvimento Nacional 2023-2027", "class": "development-plan", "platform": "", "owner": "Government of Angola", "tiers": "national; approved by Presidential Decree 225/23 of 30 November 2023; its State Reform domain carries guidelines on modernising and digitalising public administration"},
+    {"system": "Estratégia de Longo Prazo Angola 2050", "country_label": "Estratégia de Longo Prazo para Angola até 2050", "class": "", "platform": "", "owner": "Government of Angola", "tiers": "named as the long-term strategy with which the Agenda is aligned; its digital content is not described"},
+    {"system": "Roteiro para a Reforma do Estado", "country_label": "Roteiro para a Reforma do Estado", "class": "", "platform": "", "owner": "Government of Angola", "tiers": "named as an action with which the Agenda is aligned; its content is not described"}
+  ],
+  "note": "The decree approves a strategy for digitalising public administration only, so it is class government and gives no national-class fact; the Digital Economy for Africa diagnostic and the Digital Government Readiness Assessment are cited as tools, not as a national strategy."
+}

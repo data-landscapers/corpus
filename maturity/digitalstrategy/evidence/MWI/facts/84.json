@@ -1,0 +1,15 @@
+{
+  "slug": "2025-09-01-mwi-nrb-strategic-plan-2025-2030",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The NRB Strategic Plan 2025-2030 lists the 'National Digitalization Policy (2023)' among its legal and policy mandates, describing it as setting 'the national direction for digital transformation across all sectors of the economy and public service', and says government took steps including 'updating the National Digitalization Policy' during 2019-2024. The passages give no adopting act, body or verb of approval, so 'adopted' rests on the policy being treated as in force from 2023.", "as_of": "2023", "date_precision": "year", "system": "National Digitalization Policy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Two passages of the NRB Strategic Plan cite 'the Malawi Digital Strategy' and 'the Malawi Digital Strategy- 2019', saying government institutions 'have been encouraged to harness' technology under it; the passages give no description of its scope, no adopting act and no verb of approval, only the name and the year 2019.", "as_of": "2019", "date_precision": "year", "system": "Malawi Digital Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Registration Bureau Strategic Plan 2025-2030", "country_label": "NRB Strategic Plan 2025-2030", "class": "ministry-plan", "platform": "", "owner": "National Registration Bureau; succeeds the NRB Strategic Plan 2019-2025", "tiers": ""},
+    {"system": "National Registration Bureau Strategic Plan 2019-2025", "country_label": "Strategic Plan 2019-2025", "class": "ministry-plan", "platform": "", "owner": "National Registration Bureau; reviewed in chapter 3 of the 2025-2030 plan", "tiers": ""},
+    {"system": "National Digitalization Policy", "country_label": "National Digitalization Policy (2023)", "class": "national", "platform": "", "owner": "Government of Malawi; the plan describes it as the national direction for digital transformation across all sectors of the economy and public service", "tiers": "national"},
+    {"system": "Malawi Digital Strategy", "country_label": "Malawi Digital Strategy (2019)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Malawi 2063 (MW2063)", "country_label": "MW2063", "class": "", "platform": "", "owner": "Government of Malawi; named as an overarching goal the plan aligns with", "tiers": ""}
+  ],
+  "note": "The first fact classes the National Digitalization Policy national on the plan's own description of its scope; the second leaves class empty because the Malawi Digital Strategy (2019) is named with a year but no scope."
+}

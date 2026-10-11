@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-01-tor-national-governance-framework",
+  "facts": [],
+  "systems": [
+    {"system": "national Digital Transformation Agenda", "country_label": "Agenda de Transformação Digital", "class": "government", "platform": "", "owner": "Prime Minister's Office, through the Government Digital Service Team (GDST)", "tiers": "Public administration, serving citizens, businesses and the diaspora"},
+    {"system": "Digital Economy Strategy (EEDCV)", "country_label": "Estratégia da Economia Digital de Cabo Verde (EEDCV)", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Governance Strategy 2021–2024 (EGDCV)", "country_label": "Estratégia para a Governação Digital de Cabo Verde 2021-2024 (EGDCV)", "class": "government", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The terms of reference describe the Agenda as modernising public administration and service delivery, so it is classed government; EEDCV is named without a description of its coverage. No fact for a national-class instrument."
+}

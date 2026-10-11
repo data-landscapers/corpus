@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-22-mchumanisi-data-exchange-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Governance Policy (2027-2031)",
+   "country_label": "National Data Governance Policy (2027-2031)",
+   "class": "thematic",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": "draft under validation workshop, July 2026"
+  },
+  {
+   "system": "Mchumanisi",
+   "country_label": "Mchumanisi National Data Exchange Platform",
+   "class": "",
+   "platform": "",
+   "owner": "Government (proposed)",
+   "tiers": "proposed; not yet operating"
+  }
+ ],
+ "note": "Thematic data policy only; no national digital strategy stated."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-02-primature-installation-conseil-national-du-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Conseil national du Numérique (CNN)", "country_label": "Conseil national du Numérique", "class": "", "platform": "", "owner": "Primature", "tiers": "national"},
+    {"system": "Agenda national de Transformation", "country_label": "Agenda national de Transformation", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+  ],
+  "note": "Installation of a consultative council on 2 October 2025; the page names no digital strategy, so there is no fact about one."
+}

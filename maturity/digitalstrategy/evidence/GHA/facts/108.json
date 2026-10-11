@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-01-ghana-egovernment-interoperability-framework-egif",
+  "facts": [],
+  "systems": [
+    {"system": "Ghana eGovernment Interoperability Framework (eGIF) Version 2.0", "country_label": "Ghana eGovernment Interoperability Framework", "class": "thematic", "platform": "", "owner": "National Information Technology Agency (NITA)", "tiers": "All ministries, departments and agencies, at all levels of government; labelled a draft for stakeholder review"},
+    {"system": "Government of Ghana Enterprise Architecture (GGEA)", "country_label": "Government of Ghana Enterprise Architecture", "class": "thematic", "platform": "", "owner": "NITA", "tiers": "Public sector; first iteration adopted 2008 with the eGIF, implementation described as ineffectual"}
+  ],
+  "note": "An interoperability framework is a single-layer instrument (thematic); no national digital strategy is named."
+}

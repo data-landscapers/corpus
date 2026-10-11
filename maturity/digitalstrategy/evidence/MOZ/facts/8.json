@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-sajim-manjeese-ict-governance-sadc-egov",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Interoperability Framework for Mozambique (eGIF4M)", "country_label": "eGIF4M", "class": "thematic", "platform": "service-oriented architecture", "owner": "Government", "tiers": "national; harmonises legacy government systems"}
+  ],
+  "note": "A regional literature review; it names no Mozambican national digital strategy, only eGIF4M and the GovNet project."
+}

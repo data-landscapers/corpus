@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-31-tza-ega-emerging-technologies-governance-framework",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Emerging Technologies Governance Framework (eGA/EXT/AVS/008)", "country_label": "eGA/EXT/AVS/008", "class": "thematic", "platform": "", "owner": "e-Government Authority, approved by Board Chairperson Dr. Mussa M. Kissaka, 31.08.2026", "tiers": "public institutions"},
+    {"system": "Tanzania Development Vision 2050 (Dira 2050)", "country_label": "Dira 2050", "class": "development-plan", "platform": "", "owner": "Government", "tiers": ""},
+    {"system": "Tanzania Digital Economy Strategic Framework 2024 - 2034", "country_label": "Tanzania Digital Economy Strategic Framework 2024 - 2034", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Tanzania e-Government Strategy, 2022", "country_label": "Tanzania e-Government Strategy, 2022", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "e-Government Technology Roadmap, 2024", "country_label": "e-Government Technology Roadmap, 2024", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National ICT Policy, 2016", "country_label": "National ICT Policy, 2016", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The framework lists these instruments only as references and refers to 'the Government's digital transformation agenda' without naming a document; none is described, so no fact is recorded."
+}

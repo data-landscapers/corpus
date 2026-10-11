@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-05-sa-parliament-committee-nicis-oversight-visit",
+  "facts": [],
+  "systems": [
+    {"system": "National Integrated Cyber Infrastructure System (NICIS)", "country_label": "NICIS", "class": "thematic", "platform": "Centre for High Performance Computing, South African National Research Network, Data Intensive Research Initiative of South Africa", "owner": "Department of Science, Technology and Innovation, implemented by the CSIR", "tiers": "national"}
+  ],
+  "note": "An oversight visit statement on research computing infrastructure; it mentions 'digital transformation agenda' only in passing and names no strategy document."
+}

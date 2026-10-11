@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-26-ssmo-eisali-baldna-integration",
+  "facts": [],
+  "systems": [
+    {"system": "the government's digital transformation strategy", "country_label": "government's digital transformation strategy", "class": "", "platform": "", "owner": "", "tiers": "named only as the policy the SSMO payment integration is 'in line with'"},
+    {"system": "Eisali", "country_label": "Eisali", "class": "", "platform": "", "owner": "Ministry of Finance with the Ministry of Digital Transformation and Communications", "tiers": "unified electronic payment system for government service fees (not a strategy; recorded as the document describes it)"}
+  ],
+  "note": "The government's digital transformation strategy is named in passing with no description, date or document; no fact can be recorded."
+}

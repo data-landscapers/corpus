@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-20-wco-study-mission-cloud-computing-mauritius-customs",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MRA cloud-computing strategy",
+   "country_label": "cloud-computing strategy",
+   "class": "thematic",
+   "platform": "private cloud",
+   "owner": "Mauritius Revenue Authority",
+   "tiers": "customs"
+  },
+  {
+   "system": "National digital strategy (unnamed)",
+   "country_label": "national digital strategy",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The MRA's cloud strategy is said to be aligned with 'the national digital strategy', which is not named, dated or described; no fact."
+}

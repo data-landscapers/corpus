@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Plan Stratégique National de Santé Numérique 2026-2030", "country_label": "Plan Stratégique National de Santé Numérique 2026-2030", "class": "ministry-plan", "platform": "", "owner": "Ministry of Public Health", "tiers": "national health sector"},
+    {"system": "2020-2024 national digital health plan", "country_label": "2020-2024 plan", "class": "ministry-plan", "platform": "", "owner": "Ministry of Public Health", "tiers": "national health sector"}
+  ],
+  "note": "A digital health strategy directory; the Cameroon entries are health-sector plans, not a national digital strategy."
+}

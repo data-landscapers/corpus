@@ -1,0 +1,10 @@
+{
+  "slug": "2024-05-31-national-policy-on-data-and-cloud",
+  "facts": [],
+  "systems": [
+    {"system": "National Policy on Data and Cloud", "country_label": "National Policy on Data and Cloud, 2024 (Department of Communications and Digital Technologies Notice 2533 of 2024)", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "All sectors; government service delivery"},
+    {"system": "National e-Government Strategy and Roadmap", "country_label": "National e-Government Strategy and Roadmap", "class": "government", "platform": "", "owner": "", "tiers": "Government ICT systems across departments"},
+    {"system": "2016 White Paper", "country_label": "2016 White Paper (as the passage calls it)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is a data and cloud policy, a thematic instrument, so no fact for the national class; it describes the e-government strategy as envisioning interoperable government ICT systems (class government) and mentions the government's digital transformation agenda without naming a document."
+}

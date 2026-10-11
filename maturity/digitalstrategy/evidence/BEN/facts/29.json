@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-06-strategie-numerique-benin-2031",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "La Nation reported on 6 February 2026 that a two-day strategic workshop in Cotonou, with Deloitte providing technical support, aimed at drawing up Benin's digital strategy to 2031, to set the vision and priority initiatives for the next five years.", "as_of": "2026-02-06", "date_precision": "day", "system": "Stratégie numérique du Bénin à l'horizon 2031", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Vision Bénin 2060 Alafia, un monde de splendeurs", "country_label": "vision Bénin 2060", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national; the vision in which the digital strategy is to be anchored"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2018-01-01-usaid-ken-kenya-digital-health-2018-kenya-digital-health-investment-support",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Health Investment Roadmap", "country_label": "Digital Health Investment Roadmap", "class": "", "platform": "", "owner": "", "tiers": "health sector; named as the framework for USAID's county health information systems support (2018-2023); scope not described"},
+    {"system": "Kenya Digital Health Investment Support - County Health Information Systems", "country_label": "KHIS2 county health information systems support", "class": "programme", "platform": "KHIS2", "owner": "USAID (US$5,000,000, 2018-2023)", "tiers": "county"}
+  ],
+  "note": "Donor health programme record; no national digital strategy named."
+}

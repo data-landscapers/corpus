@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-17-eswatini-taiwan-smart-city-manzini-matsapha",
+ "facts": [],
+ "systems": [
+  {
+   "system": "5G Government Network Smart City Project",
+   "country_label": "5G Government Network Smart City Project",
+   "class": "programme",
+   "platform": "",
+   "owner": "Ministry of ICT, funded by Government of Taiwan",
+   "tiers": "Mbabane pilot April 2025; extension to Manzini and Matsapha"
+  },
+  {
+   "system": "Government in Your Hand",
+   "country_label": "Government in Your Hand programme",
+   "class": "government",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": "Smart-city project under the Government in Your Hand programme; no national strategy document stated."
+}

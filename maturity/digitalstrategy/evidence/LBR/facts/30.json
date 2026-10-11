@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-01 AfDB Liberia Country Strategy Paper 2026-2031",
+  "facts": [],
+  "systems": [
+    {"system": "National ICT Policy and Strategy (2019-2024)", "country_label": "National ICT Policy and Strategy (2019-2024)", "class": "sector-ict", "platform": "", "owner": "Government of Liberia", "tiers": "Described by the AfDB paper as the guide for the ICT sector: infrastructure expansion, capacity building and e-government"},
+    {"system": "ARREST Agenda for Inclusive Development (AAID 2025-2029)", "country_label": "ARREST Agenda for Inclusive Development", "class": "development-plan", "platform": "", "owner": "President Boakai's government", "tiers": "The AfDB country strategy is aligned to it"}
+  ],
+  "note": "The paper's own text cites only the 2019-2024 ICT policy for the sector and drops ICT as an AfDB lending sector; it names no national digital strategy."
+}

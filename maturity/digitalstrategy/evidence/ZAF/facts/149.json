@@ -1,0 +1,11 @@
+{
+  "slug": "2024-05-01-after-access-2022-23-south-africa-report",
+  "facts": [],
+  "systems": [
+    {"system": "National Development Plan 2030", "country_label": "National Development Plan (NDP) 2030", "class": "development-plan", "platform": "", "owner": "National Planning Commission", "tiers": "national"},
+    {"system": "eHealth Strategy", "country_label": "eHealth Strategy", "class": "ministry-plan", "platform": "", "owner": "", "tiers": "health sector"},
+    {"system": "National Broadband Policy", "country_label": "National Broadband Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "First National Integrated ICT Policy White Paper", "country_label": "National Integrated ICT Policy White Paper", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Passages only; Research ICT Africa recommends the Presidency facilitate a cross-sectoral digital policy within 24 months, which is a recommendation, not a dated statement that none exists, so no fact is recorded."
+}

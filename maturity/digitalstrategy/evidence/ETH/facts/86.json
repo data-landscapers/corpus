@@ -1,0 +1,9 @@
+{
+  "slug": "2020-01-01-usaid-eth-digital-health-dha-2020-digital-health-activity-dha---ethiopia",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Health Activity (DHA) - Ethiopia", "country_label": "USAID Ethiopia Digital Health Activity", "class": "programme", "platform": "DHIS2; OpenMRS", "owner": "USAID", "tiers": "national; US$60.1 million grant, 2020-2025, supporting the government's digital health ecosystem"},
+    {"system": "national eHealth strategy", "country_label": "Ethiopia's national eHealth strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national; the DHA is stated to build on it"}
+  ],
+  "note": "Donor programme record for digital health; the eHealth strategy is named without a description of its content, and is a one-sector strategy, so no national-class fact."
+}

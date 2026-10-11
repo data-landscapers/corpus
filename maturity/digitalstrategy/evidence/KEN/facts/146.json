@@ -1,0 +1,8 @@
+{
+  "slug": "2016-01-01-usaid-ken-hpn-afya-uzazi-2016-hpn---afya-uzazi-fprmncah",
+  "facts": [],
+  "systems": [
+    {"system": "HPN - Afya Uzazi: FP/RMNCAH", "country_label": "Afya Uzazi", "class": "programme", "platform": "DHIS2", "owner": "USAID (US$18,649,774, 2016-2022)", "tiers": "health programme with DHIS2 and community health information components"}
+  ],
+  "note": "Donor health programme record; no national digital strategy named."
+}

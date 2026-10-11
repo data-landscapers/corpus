@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-12-somalia-digital-transformation-strategy-2025-2030-consultation",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The National Communications Authority's release says the Ministry of Communications and Technology, with the ITU, 'kicked off' a two-day national consultation on 12 October 2025 'to validate' the Digital Transformation Strategy (2025-2030) and to 'review and refine' the digital roadmap; no adoption is stated.", "as_of": "2025-10-12", "date_precision": "day", "system": "Digital Transformation Strategy (2025-2030)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The release gives the strategy's period as 2025-2030, and as_of 2025-10-12 falls inside it; the release is a press account on the NCA site and neither links nor quotes the strategy text. Text public: not stated", "as_of": "2025-10-12", "date_precision": "day", "system": "Digital Transformation Strategy (2025-2030)", "class": "national"}
+  ],
+  "systems": [],
+  "note": "Class national is read from the Minister's statement that the strategy will be a national framework guiding all ICT-related initiatives across sectors."
+}

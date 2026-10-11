@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-23-cbl-nfies-financial-inclusion-workshop",
+  "facts": [],
+  "systems": [
+    {"system": "National Financial Inclusion and Education Strategy (NFIES) 2026-2030", "country_label": "NFIES 2026-2030", "class": "ministry-plan", "platform": "", "owner": "Central Bank of Liberia, Development Finance Section", "tiers": "Under drafting after a workshop on 22 April 2026"},
+    {"system": "National Financial Inclusion Strategy 2020-2024", "country_label": "National Financial Inclusion Strategy 2020-2024", "class": "ministry-plan", "platform": "", "owner": "Central Bank of Liberia", "tiers": "Outgoing; preliminary assessment presented 22 April 2026"}
+  ],
+  "note": "Both strategies named are the Central Bank's financial inclusion strategies, not a national digital strategy."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-14-ner-mcnti-palmares-escep-souverainete-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "politique nationale de développement du numérique", "country_label": "politique nationale de développement du numérique", "class": "", "platform": "", "owner": "", "tiers": "Named as the framework within which the Refondation programme's axis 3 operates; no scope, date or status given."},
+    {"system": "Programme de la Refondation de la République 2025-2029", "country_label": "Programme de la Refondation de la République 2025-2029", "class": "development-plan", "platform": "", "owner": "Head of State, coordinated by the Prime Minister", "tiers": "Its axis 3 (economic sovereignty, close to 60% of national effort) places information technology as a lever."}
+  ],
+  "note": "A graduation ceremony; the national digital development policy is named in passing with no dated fact or description of scope."
+}

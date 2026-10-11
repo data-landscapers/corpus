@@ -1,0 +1,9 @@
+{
+  "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
+  "facts": [],
+  "systems": [
+    {"system": "National Agenda for Digital Transformation (2022-2025)", "country_label": "National Agenda for Digital Transformation (2022-2025)", "class": "national", "platform": "", "owner": "Ministry of Digital Transformation, Innovation and Modernization of Administration (MTNIMA)", "tiers": "national; whole-of-government approach, per the brief"},
+    {"system": "online service portal project", "country_label": "online service portal", "class": "programme", "platform": "", "owner": "MTNIMA", "tiers": "national; expected to be funded by the World Bank in 2023"}
+  ],
+  "note": "The brief says MTNIMA is 'leading the implementation' of the new agenda with a whole-of-government approach, and that its gaps match the GTMI 2022 findings; it names no adopting act, cost or report, so no fact. Published date 2023-03."
+}

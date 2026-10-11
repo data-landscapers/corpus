@@ -1,0 +1,39 @@
+{
+ "slug": "2026-08-18-mauritius-online-licensing-road-tax-taxis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Transformation Blueprint",
+   "country_label": "Digital Transformation Blueprint",
+   "class": "",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": "described as seeking to modernise public services"
+  },
+  {
+   "system": "Motor Vehicle Licence (MVL) System",
+   "country_label": "MVL System",
+   "class": "",
+   "platform": "",
+   "owner": "Land transport ministry / NLTA",
+   "tiers": ""
+  },
+  {
+   "system": "MAUPASS",
+   "country_label": "MAUPASS",
+   "class": "",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  },
+  {
+   "system": "KOREK super app",
+   "country_label": "KOREK",
+   "class": "",
+   "platform": "",
+   "owner": "MITCI",
+   "tiers": ""
+  }
+ ],
+ "note": "Blueprint cited only as the programme the MVL system aligns with, described as modernising public services; no dated fact about it."
+}

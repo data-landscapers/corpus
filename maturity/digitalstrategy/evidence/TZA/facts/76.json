@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-18-tanzania-egovernment-capability-maturity-framework",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Strategy 2022 - 2026", "country_label": "e-Government Strategy 2022 - 2026", "class": "government", "platform": "", "owner": "e-Government Authority", "tiers": "public institutions; the framework's seven domains derive from it; the document gives the period as 2022-2026"},
+    {"system": "e-Government Capability Maturity Framework", "country_label": "e-Government Capability Maturity Framework", "class": "ministry-plan", "platform": "", "owner": "e-Government Authority, approved by its Board Chairperson 18 February 2026 (version 1.1)", "tiers": "public institutions; annual ICT maturity self-evaluation, 32 key process areas"}
+  ],
+  "note": "Read in full to line 1000 and the checklist tail searched; an e-GA assessment tool for public institutions. Names only the e-Government Strategy (government class), no national-class instrument."
+}

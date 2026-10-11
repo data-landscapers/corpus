@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-01-kenya-odpc-guidance-public-sector",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Master Plan", "country_label": "National Digital Master Plan", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Bottom-Up Economic Transformation Agenda", "country_label": "Bottom-Up Economic Transformation Agenda", "class": "development-plan", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+  ],
+  "note": "Data protection guidance; the Master Plan is mentioned without a date or description, so there is no fact."
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "2025-09-18-wb-rapid-cote-divoire-inclusive-digitalization-2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The Ministry of Digital Transition's policy letter in the World Bank appraisal says the National Digital Transformation Strategy 2025-2035 (NDTS 2035), developed with co-financing from the Bank's RAPID programme to make digital a catalyst for the Ivorian economy's structural transformation, was presented at a workshop on 6-7 May 2025 and validated at a workshop on 19-22 August 2025; the document records no adopting act.", "as_of": "2025-08-22", "date_precision": "day", "system": "National Digital Transformation Strategy 2025-2035 (NDTS 2035)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "The policy letter states NDTS 2035 implementation rests on financing estimated at CFAF 4,452 billion, of which the Government of Côte d'Ivoire is to provide 28 percent; it names no budget line (letter in the World Bank appraisal of 18 September 2025, date of the letter not given).", "as_of": "2025-09-18", "date_precision": "day", "system": "National Digital Transformation Strategy 2025-2035 (NDTS 2035)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The same financing estimate gives technical and financial partners 43 percent of the CFAF 4,452 billion and the private sector, through public-private partnerships, 29 percent; the Bank's RAPID programme co-financed the strategy's preparation (appraisal of 18 September 2025).", "as_of": "2025-09-18", "date_precision": "day", "system": "National Digital Transformation Strategy 2025-2035 (NDTS 2035)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy 2025-2035 (NDTS 2035)", "country_label": "Stratégie de Transformation Numérique de la Côte d'Ivoire", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Digitalization (MTND)", "tiers": "national"},
+    {"system": "National Development Plan 2026-2030", "country_label": "Plan National de Développement 2026-2030", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Results Acceleration Program for Inclusive Digitalization in Côte d'Ivoire (RAPID-CI), Phase 1", "country_label": "RAPID-CI", "class": "programme", "platform": "", "owner": "Government of Côte d'Ivoire with the World Bank (IDA credit of EUR 128.6 million)", "tiers": "national"},
+    {"system": "PARAE (E-Government Strengthening Support Project)", "country_label": "Projet d'Appui au Renforcement de l'Administration Electronique", "class": "programme", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "PAGDS (Enhancing Government Effectiveness for Improved Public Services)", "country_label": "Projet d'Amélioration de la Gouvernance pour la Délivrance des Services de base aux citoyens", "class": "programme", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "African Union Digital Transformation Strategy 2020-2030", "country_label": "", "class": "regional", "platform": "", "owner": "African Union", "tiers": "continental"}
+  ],
+  "note": ""
+}

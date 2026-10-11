@@ -1,0 +1,13 @@
+{
+  "slug": "2026-03-12-niger-atelier-validation-pndn-2026-2035",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The ICT minister Adji Ali Salatou opened the \"atelier national de validation\" of the PNDN 2026-2035 and its Plan d'Action Sectoriel 2026-2030 in Niamey on 11 March 2026, saying the workshop would examine the proposed orientations and enrich the planned actions; no adopting act or body is named.", "as_of": "2026-03-11", "date_precision": "day", "system": "Politique Nationale de Développement du Numérique (PNDN) 2026-2035", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The article states the PNDN is accompanied by a Plan d'Action Sectoriel 2026-2030 whose \"actions prévues\" the workshop was to enrich; it gives no cost.", "as_of": "2026-03-11", "date_precision": "day", "system": "Politique Nationale de Développement du Numérique (PNDN) 2026-2035", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The national validation workshop for the PNDN 2026-2035 and its 2026-2030 action plan opened on 11 March 2026.", "as_of": "2026-03-11", "date_precision": "day", "system": "Politique Nationale de Développement du Numérique (PNDN) 2026-2035", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Politique Nationale de Développement du Numérique (PNDN) 2026-2035", "country_label": "Politique Nationale de Développement du Numérique (PNDN)", "class": "national", "platform": "", "owner": "Ministère de la Communication et des Nouvelles Technologies de l'Information", "tiers": "Three axes: governance and security of the digital sector; digital infrastructure and services; digital skills and innovation. Aims include fibre interconnection hub, e-government, rural connectivity, financial inclusion and local content and start-ups; implementation to rest on an institutional mechanism for coordination, steering and monitoring-evaluation (no body named)."},
+    {"system": "Plan d'Action Sectoriel 2026-2030 (PNDN)", "country_label": "Plan d'Action Sectoriel 2026-2030", "class": "national", "platform": "", "owner": "Ministère de la Communication et des Nouvelles Technologies de l'Information", "tiers": "Action plan of the PNDN."}
+  ],
+  "note": "Class national rests on the stated scope (economic and social transformation plus e-government, across three axes). The article is the opening of the validation workshop, not an adoption."
+}

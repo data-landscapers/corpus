@@ -1,0 +1,11 @@
+{
+  "slug": "2022-04-14-thisday-mdxi-lekki-ii-data-centre-launch",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The communications minister, represented by the NCC board chairman, said at the April 2022 data-centre launch that the federal government 'has developed' its National Digital Economy Policy and Strategy; the verb is not adopted or approved and no act is named. The article's date is used.", "as_of": "2022-04-14", "date_precision": "day", "system": "National Digital Economy Policy and Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Economy Policy and Strategy", "country_label": "National Digital Economy Policy and Strategy", "class": "", "platform": "", "owner": "Federal Government", "tiers": "national"},
+    {"system": "National Broadband Plan", "country_label": "National Broadband Plan", "class": "thematic", "platform": "", "owner": "Federal Government", "tiers": "national"}
+  ],
+  "note": "Class left empty: the speech states the strategy exists but describes only its 'vision to transform Nigeria into a leading economy'."
+}

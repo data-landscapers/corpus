@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Plano Estratégico Nacional do Sector da Saúde 2023-2027", "country_label": "Plano Estratégico Nacional do Sector da Saúde 2023-2027", "class": "ministry-plan", "platform": "", "owner": "Health sector (ministry)", "tiers": "national; listed as Angola's operative health instrument"},
+    {"system": "HIS Strategic Plan 2024-2030", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "in development with WHO and EU support, as at July 2026"}
+  ],
+  "note": "Directory of digital-health instruments; Angola's entries are health-sector instruments, not a national digital strategy."
+}

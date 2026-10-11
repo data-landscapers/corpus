@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-08-zimbabwe-smart-government-digital-blueprint",
+  "facts": [],
+  "systems": [
+    {"system": "Smart government strategy (five strategic priorities)", "country_label": "smart government ecosystem strategy", "class": "government", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services (e-Government Unit)", "tiers": "government ministries and departments; outlined by the minister 2026-05-08, no adopting act named"},
+    {"system": "Enterprise Architecture Model blueprint", "country_label": "Enterprise Architecture Model blueprint", "class": "government", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": "official handover reported 2026-05-08; to guide integration of government digital systems"}
+  ],
+  "note": "Strategy outlined is for the state's own administration (government class, not assessed); no national strategy fact."
+}

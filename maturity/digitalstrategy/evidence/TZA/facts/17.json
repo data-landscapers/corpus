@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-31-giz-bmz-eac-dpi-technical-assistance-tender",
+  "facts": [],
+  "systems": [
+    {"system": "EU-EAC Digital Economy, E-Commerce, E-Payments and E-Public Services Programme (EU-EAC DEEP)", "country_label": "EU-EAC DEEP", "class": "programme", "platform": "", "owner": "GIZ office in Arusha, with EstDev and Expertise France; co-financed by the European Commission, BMZ, France and Estonia", "tiers": "regional (EAC)"},
+    {"system": "EAC Digital Transformation Strategy (DTS)", "country_label": "EAC Digital Transformation Strategy", "class": "regional", "platform": "", "owner": "East African Community", "tiers": "regional"}
+  ],
+  "note": "Procurement notice for a regional EAC project; Tanzania is the contract location (Arusha) only. No Tanzanian national strategy is named."
+}

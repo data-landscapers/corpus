@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-26-gsma-publie-rapport-congo-ldb",
+  "facts": [],
+  "systems": [
+    {"system": "stratégie numérique du Congo en 2030", "country_label": "Stratégie numérique du Congo 2030", "class": "", "platform": "", "owner": "", "tiers": "named as a framework the GSMA report aligns with; no description of what it covers"},
+    {"system": "Plan national de développement 2022-2026", "country_label": "Plan national de développement 2022-2026", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; named as a second framework the GSMA report aligns with"}
+  ],
+  "note": "The article names the 2030 digital strategy and the national development plan only as frameworks the GSMA report accords with; it states nothing on standing, text, plan or reporting, and does not describe the strategy's coverage."
+}

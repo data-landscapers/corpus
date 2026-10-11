@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-11-ima-tdr-formacao-e-treinamento-da-plataforma-de-interoperabilidade",
+  "facts": [],
+  "systems": [
+    {"system": "Agenda de Transição Digital da Administração Pública (Decreto Presidencial n.º 178/24)", "country_label": "Agenda de Transição Digital da Administração Pública", "class": "government", "platform": "", "owner": "", "tiers": "public administration"},
+    {"system": "Plano Estratégico do IMA 2022-2027", "country_label": "Plano Estratégico do IMA 2022-2027", "class": "ministry-plan", "platform": "", "owner": "Instituto de Modernização Administrativa (IMA)", "tiers": ""},
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "Projecto de Aceleração Digital de Angola", "class": "programme", "platform": "", "owner": "Instituto de Modernização Administrativa (IMA)", "tiers": "public administration"}
+  ],
+  "note": "Terms of reference citing the public administration agenda (Presidential Decree 178/24) as context for a training contract; the agenda is class government, and the document states no national-class strategy."
+}

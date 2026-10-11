@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-04-the-absent-agenda-eswatini-digital-imperative",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "current",
+   "fact": "The column quotes the Minister for Economic Planning and Development saying a World Bank report 'aligns with the Kingdom of Eswatini's 2024-2028 digital strategy', which puts the strategy inside its stated 2024-2028 period at the 2025 end-of-year statement; the document gives no date beyond its 2026-01-04 publication. Text public: not stated.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Eswatini 2024-2028 digital strategy",
+   "class": ""
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini 2024-2028 digital strategy",
+   "country_label": "Kingdom of Eswatini's 2024-2028 digital strategy",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Opinion column. It cites the Minister of Economic Planning and Development as saying a World Bank report 'aligns with the Kingdom of Eswatini's 2024-2028 digital strategy'; the document does not describe that strategy's scope, so the fact is recorded with class empty. Dated by publication (2026-01-04) as the statement's date is not given."
+}

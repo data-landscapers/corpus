@@ -1,0 +1,13 @@
+{
+  "slug": "2025-05-01-west-africa-data-center-markets-brief",
+  "facts": [],
+  "systems": [
+    {"system": "Nigeria Digital Economy Policy and Strategy", "country_label": "Nigeria Digital Economy Policy and Strategy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "NITDA Strategic Roadmap and Action Plan 2024-2027", "country_label": "NITDA Strategic Roadmap and Action Plan 2024-2027", "class": "ministry-plan", "platform": "", "owner": "NITDA (state agency)", "tiers": "national"},
+    {"system": "Cloud computing policy (cloud-first public sector)", "country_label": "Cloud computing policy", "class": "thematic", "platform": "", "owner": "", "tiers": "public sector"},
+    {"system": "3 Million Technical Talent (3MTT) program", "country_label": "3MTT", "class": "programme", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "$2bn 90,000 km fibre initiative", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Project 774 Local Government Connectivity Initiative", "country_label": "Project 774", "class": "programme", "platform": "", "owner": "", "tiers": "local government"}
+  ],
+  "note": "The brief lists the Nigeria Digital Economy Policy and Strategy as a 'key pillar' of economic diversification but gives no adoption, period, cost or report and does not describe its scope; no dated fact, class left empty."
+}

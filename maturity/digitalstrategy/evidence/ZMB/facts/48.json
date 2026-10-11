@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-25-dzap-prepurchase-bulk-international-bandwidth-rfb",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Zambia Acceleration Project (DZAP)", "country_label": "Digital Zambia Acceleration Project", "class": "programme", "platform": "", "owner": "Smart Zambia Institute", "tiers": "national; World Bank IDA financing (grant P505094)"},
+    {"system": "One Government Network", "country_label": "One Government Network", "class": "", "platform": "", "owner": "Smart Zambia Institute", "tiers": "national; bulk international internet capacity bid issued 25 February 2026"}
+  ],
+  "note": "Procurement notice; names no strategy document."
+}

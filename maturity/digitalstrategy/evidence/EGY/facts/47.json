@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-who-egypt-country-cooperation-strategy-2024-2028",
+  "facts": [],
+  "systems": [
+    {"system": "National health digital strategy", "country_label": "National health digital strategy", "class": "thematic", "platform": "", "owner": "Ministry of Health and Population", "tiers": "national; its launch is a WHO-Egypt strategic deliverable with baseline N/A"},
+    {"system": "National health strategy 2024-2030", "country_label": "National health strategy 2024-2030", "class": "ministry-plan", "platform": "", "owner": "Ministry of Health and Population", "tiers": "health sector"},
+    {"system": "Sustainable development strategy: Egypt vision 2030", "country_label": "Egypt Vision 2030", "class": "", "platform": "", "owner": "", "tiers": "national; named as a relevant national strategy, no digital content described"}
+  ],
+  "note": "WHO cooperation strategy; names the planned national health digital strategy (thematic) and other strategies without describing any national digital strategy."
+}

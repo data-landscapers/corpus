@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-24-cnss-togo-linam-emboite-le-pas-a-la-cnss-siamu-inam",
+  "facts": [],
+  "systems": [
+    {"system": "SIAMU-INAM", "country_label": "SIAMU-INAM", "class": "", "platform": "same architecture as CNSS SIAMU, hosted in the CNSS data centre", "owner": "INAM", "tiers": "national, public-sector health insurance"},
+    {"system": "SIAMU (CNSS)", "country_label": "SIAMU", "class": "", "platform": "", "owner": "CNSS", "tiers": "national, private-sector health insurance"}
+  ],
+  "note": "Health-insurance platform news; no digital strategy named."
+}

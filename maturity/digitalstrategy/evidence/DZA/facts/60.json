@@ -1,0 +1,12 @@
+{
+  "slug": "2025-05-12-national-digital-transformation-strategy-announced-echorouk",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Echorouk reports a media day on 12 May 2025 for the official announcement of the National Digital Transformation Strategy, which the High Commissioner called the 'approved strategy', naming no approving act.", "as_of": "2025-05-12", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The strategy's five axes carry targets: more than five national data centres, 500,000 ICT experts, 40% less skilled emigration, no cash payments above 500,000 DZD and 20% of GDP from the digital economy; no cost is stated.", "as_of": "2025-05-12", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Minister and High Commissioner for Digitalisation presented the strategy as the organising framework for the digital transformation process.", "as_of": "2025-05-12", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Strategy for Information Systems Security", "country_label": "Stratégie nationale de sécurité des systèmes d'information", "class": "thematic", "platform": "", "owner": "Information Systems Security Agency, Ministry of National Defence", "tiers": ""}
+  ],
+  "note": ""
+}

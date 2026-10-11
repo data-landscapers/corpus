@@ -1,0 +1,12 @@
+{
+  "slug": "2025-04-24-gia-pm-approves-national-government-digital-transformation-strategy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Prime Minister Abdul Hamid Dabaiba of the Government of National Unity approved the national strategy for government digital transformation, prepared by the Supreme Committee for Digital Transformation, at the Libyan Economic Forum on Monday 21 April 2025, per the General Information Authority (dateline 22 April).", "as_of": "2025-04-21", "date_precision": "day", "system": "National Strategy for Government Digital Transformation", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The General Information Authority chairman said at the launch that some of the strategy's plans had already been implemented in a number of ministries and bodies, citing no target or measure.", "as_of": "2025-04-21", "date_precision": "day", "system": "National Strategy for Government Digital Transformation", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Strategy for Government Digital Transformation", "country_label": "National Strategy for Government Digital Transformation", "class": "national", "platform": "", "owner": "Supreme Committee for Government Digital Transformation, chaired by the General Information Authority", "tiers": "national; four tracks: integrated digital government, competitive digital economy, inclusive digital society, safe digital environment"},
+    {"system": "National Policy for Digital Accessibility", "country_label": "National Policy for Digital Accessibility", "class": "thematic", "platform": "", "owner": "General Information Authority", "tiers": "national; an output of the strategy"}
+  ],
+  "note": "Classed national by scope: although named a government digital transformation strategy and adopted by the Prime Minister, the document gives four tracks that include a competitive digital economy and an inclusive society, objectives on innovation and entrepreneurship, so it covers economy and state."
+}

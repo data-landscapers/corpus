@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-17-eu-team-europe-digital-transformation-mozambique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The EU action document (annex to the 2026 annual action plan, dated 17 June 2026) says the Ministry of Communications and Digital Transformation (MCTD) \"leads national ICT policy and digital transformation strategy\"; it names no act, budget line or strategy text.", "as_of": "2026-06-17", "date_precision": "day", "system": "digital transformation strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "Internet for All 2030", "country_label": "Internet for All 2030", "class": "thematic", "platform": "", "owner": "Government of Mozambique; the document calls it the national strategy the action supports and describes it by the digital divide and connectivity", "tiers": ""},
+    {"system": "Digital Economy Package (DEP)", "country_label": "Digital Economy Package", "class": "programme", "platform": "", "owner": "Signed between Mozambique and the EU", "tiers": ""},
+    {"system": "Team Europe for Digital Transformation in Mozambique (ACT-63473)", "country_label": "Team Europe for Digital Transformation in Mozambique", "class": "programme", "platform": "", "owner": "European Union, NDICI-Global Europe; EUR 7.1 million total, EUR 5.0 million EU contribution", "tiers": "nine provinces"}
+  ],
+  "note": "Passages file. The document names no national digital transformation strategy text; the one fact is MCTD's stated lead role over a generically named strategy, recorded with class empty because the strategy's scope is not described."
+}

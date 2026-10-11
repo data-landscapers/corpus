@@ -1,0 +1,17 @@
+{
+  "slug": "2025-11-18-cote-divoire-padci-revue-services-numeriques-cartographie-e-services-rapport-final",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The PADCI final report (V2.1, 18 November 2025) says Côte d'Ivoire has a Stratégie Nationale de Développement du Numérique 2021-2025, aligned with the PND 2021-2025, with the National Rural Connectivity Programme as a flagship component; the report is on the telecom ministry's site, but it does not say whether the strategy text itself is public.", "as_of": "2025-11-18", "date_precision": "day", "system": "Stratégie Nationale de Développement du Numérique (SNDN 2021-2025)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The report says the National Rural Connectivity Programme under the SNDN is in active deployment with some localities connected but implementation partial, with effective internet use still low; no result is measured against a stated SNDN target.", "as_of": "2025-11-18", "date_precision": "day", "system": "Stratégie Nationale de Développement du Numérique (SNDN 2021-2025)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Stratégie Nationale de Développement du Numérique (SNDN 2021-2025)", "country_label": "SNDN 2021-2025", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Digitalisation (MTND)", "tiers": "national"},
+    {"system": "Stratégie Nationale de Transformation Numérique (STNCI 2025-2035)", "country_label": "STNCI 2025-2035", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Digitalisation (MTND)", "tiers": "national"},
+    {"system": "Programme National de Connectivité Rurale (PNCR)", "country_label": "PNCR", "class": "programme", "platform": "", "owner": "MTND", "tiers": "rural localities"},
+    {"system": "Stratégie nationale de gouvernance des données (SNGD 2030)", "country_label": "SNGD 2030", "class": "thematic", "platform": "", "owner": "MTND", "tiers": "national"},
+    {"system": "Stratégie nationale de l'intelligence artificielle (SNIA 2030)", "country_label": "SNIA 2030", "class": "thematic", "platform": "", "owner": "MTND", "tiers": "national"},
+    {"system": "Stratégie nationale de commerce électronique", "country_label": "stratégie nationale de commerce électronique", "class": "thematic", "platform": "", "owner": "government", "tiers": "national"},
+    {"system": "Projet d'Accélération Digitale en Côte d'Ivoire (PADCI)", "country_label": "PADCI", "class": "programme", "platform": "", "owner": "MTND with the World Bank", "tiers": "national"}
+  ],
+  "note": "The STNCI 2025-2035 is named only as the strategy whose orientations the e-service prioritisation criteria follow; its standing is not stated."
+}

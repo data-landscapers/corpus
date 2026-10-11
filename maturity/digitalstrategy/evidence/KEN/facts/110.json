@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-07-kenya-gea-interoperability-workshop-kicc",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya Digital Economy Acceleration Project (KDEAP)", "country_label": "KDEAP", "class": "programme", "platform": "", "owner": "ICT Authority", "tiers": "national"},
+    {"system": "Government Enterprise Architecture (GEA) and national E-Government Interoperability Framework", "country_label": "GEA and e-Government Interoperability Framework", "class": "thematic", "platform": "", "owner": "ICT Authority", "tiers": "ministries, departments, agencies and counties"},
+    {"system": "Digital Economy Blueprint", "country_label": "Digital Economy Blueprint", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+  ],
+  "note": "Workshop report; the Digital Economy Blueprint is named only as a goal the public sector aligns with, with no dated fact or scope."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-17 Algeria launches Dzair Services single-window public-services platform",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The note says the National Digital Transformation Strategy 2025-2030 was unveiled in May 2025 with seven pillars including digital infrastructure, cybersecurity and technological sovereignty; no adopting act is named.", "as_of": "2025-05", "date_precision": "month", "system": "National Digital Transformation Strategy 2025-2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The note gives the strategy the period 2025-2030; it does not say the text is public (as-at 2025-10-17).", "as_of": "2025-10-17", "date_precision": "day", "system": "National Digital Transformation Strategy 2025-2030", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Dzair Services", "country_label": "Dzair Services", "class": "", "platform": "interoperability system for automatic verified-data exchange", "owner": "High Commission for Digitalisation", "tiers": "single access point for national public digital services; 46 ministries and agencies connected to fibre"}
+  ],
+  "note": ""
+}

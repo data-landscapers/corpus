@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-30-national-cloud-launch-ecofin",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "Ecofin Agency says the National Digital Transition Agenda 2022-2025 targets a digital-sector contribution of about 700 million dollars, about 8% of GDP; no date is given for the target beyond the agenda's period, and the published date 2026-06-30 is used.", "as_of": "2026-06-30", "date_precision": "day", "system": "National Digital Transition Agenda 2022-2025", "class": ""}
+  ],
+  "systems": [
+    {"system": "National Digital Transition Agenda 2022-2025", "country_label": "National Digital Transition Agenda 2022-2025", "class": "", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "national"},
+    {"system": "National Cybersecurity Strategy 2022-2025", "country_label": "National Cybersecurity Strategy 2022-2025", "class": "thematic", "platform": "", "owner": "", "tiers": "national; still being implemented, with a planned national CERT/CSIRT"},
+    {"system": "WARDIP", "country_label": "West Africa Regional Digital Integration Program", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Scope of the agenda is not described, so class is left empty; the target is recorded with class empty."
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "2026-02-13-mauritius-national-ai-strategy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The UN Resident Coordinator's foreword to the AI strategy, signed in a document dated 13 February 2026, calls the National Digital Transformation Blueprint 2025-2029 'recently launched'; no adopting act or body is named, and the document gives no launch date, so the document's own date is used.", "as_of": "2026-02-13", "date_precision": "day", "system": "National Digital Transformation Blueprint 2025-2029", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Blueprint 2025-2029", "country_label": "Digital Transformation Blueprint 2025-2029", "class": "national", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national; four pillars (Foundation, Human Capital, Economy, Planet) and five enablers that are 'the digital backbone of Government'"},
+    {"system": "AI for Mauritius (AIM), National Artificial Intelligence Strategy", "country_label": "National AI Strategy 2025 to 2029 and beyond", "class": "thematic", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national"},
+    {"system": "FAIR Guidelines", "country_label": "FAIR Guidelines", "class": "thematic", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": "national"},
+    {"system": "Mauritius National Data Strategy", "country_label": "National Data Strategy", "class": "thematic", "platform": "", "owner": "Government of Mauritius", "tiers": "national"},
+    {"system": "Government Programme 2025-2029", "country_label": "Government Programme 2025-2029", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"},
+    {"system": "Digital Interactive Virtual Assistant (DIVA)", "country_label": "DIVA", "class": "", "platform": "AI", "owner": "Government of Mauritius", "tiers": "all government mobile services"},
+    {"system": "KOREK!", "country_label": "KOREK! super app", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "national"},
+    {"system": "Citizen Data Hub", "country_label": "Citizen Data Hub (CDH)", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "all government services"},
+    {"system": "Government Intranet Network Systems (GINS)", "country_label": "GINS", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "ministries, departments and agencies"},
+    {"system": "Government Online Centre (GOC)", "country_label": "Government Online Centre", "class": "", "platform": "", "owner": "Government of Mauritius", "tiers": "G2C, G2B, G2G services"}
+  ],
+  "note": "The document is the AI strategy (thematic); the one fact is about the Blueprint, classed national from the document's account of its four pillars (including Economy) and its five enablers of government. The Blueprint's period (2025-2029) is in its name only, with no text, plan, cost or report stated here."
+}

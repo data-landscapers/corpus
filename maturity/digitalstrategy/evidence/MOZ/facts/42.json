@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-16-worldbank-mozambique-digital-acceleration-project-second-restructuring-paper",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "regressing", "fact": "The World Bank's January 2026 restructuring paper for the Digital Acceleration Project records the Digital Transformation Strategy work under subcomponent 1.1 as deprioritised, in line with the ministry's preference for implementation over new policy documents and ongoing ITU work.", "as_of": "2026-01", "date_precision": "month", "system": "Digital Transformation Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "Mozambique Digital Acceleration Project (MDAP, P176459)", "country_label": "MDAP / PADIM", "class": "programme", "platform": "", "owner": "Government; World Bank financed, US$200 million", "tiers": "national; closes 31 July 2028"}
+  ],
+  "note": "The paper names the Digital Transformation Strategy without describing its scope, so class is left empty. The passage on the activity is cut off in the passages file after 'Activities such as the Digital Transformation Strategy are'."
+}

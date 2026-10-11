@@ -1,0 +1,18 @@
+{
+  "slug": "2025-03-26-cpv-eurico-monteiro-governacao-electronica-cplp",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions",
+     "fact": "On 25 March 2025 the Minister of State Modernisation told a CPLP meeting that the Plano de Ação da Estratégia para a Governação Digital de Cabo Verde (PAEGDCV) 2021-2025 details strategic and structuring measures for the country's digital transformation, including system interoperability and electronic authentication and identification; no cost is stated.",
+     "as_of": "2025-03-25", "date_precision": "day",
+     "system": "Estratégia para a Governação Digital de Cabo Verde / PAEGDCV 2021-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current",
+     "fact": "The action plan PAEGDCV is stated by the minister on 25 March 2025 to cover 2021-2025, so the date falls inside its stated period; the document does not say whether the text is public.",
+     "as_of": "2025-03-25", "date_precision": "day",
+     "system": "Estratégia para a Governação Digital de Cabo Verde / PAEGDCV 2021-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Estratégia para a Governação Digital de Cabo Verde / PAEGDCV 2021-2025", "country_label": "Estratégia de Governação Digital; Plano de Ação PAEGDCV 2021-2025", "class": "national", "platform": "", "owner": "Ministry of State Modernisation and Public Administration", "tiers": "The minister says it aims to harmonise public policies for the country's digital transformation, including an innovation and technology entrepreneurship ecosystem"},
+    {"system": "IGRP", "country_label": "IGRP", "class": "", "platform": "IGRP web platform", "owner": "Government of Cabo Verde", "tiers": "State e-government applications"}
+  ],
+  "note": "Classed national on the minister's description of its scope (public policies for the country's digital transformation, with an innovation ecosystem); other documents in the list describe the same strategy as for public administration only."
+}

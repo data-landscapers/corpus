@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-01-gcg-analysis-national-ai-strategies-africa",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy in the State of Libya 2025-2030", "country_label": "National Artificial Intelligence Strategy in the State of Libya 2025-2030", "class": "thematic", "platform": "", "owner": "General Information Authority", "tiers": "national"},
+    {"system": "National Charter for Artificial Intelligence Ethics", "country_label": "National Charter for Artificial Intelligence Ethics (adopted June 2026)", "class": "thematic", "platform": "", "owner": "General Information Authority", "tiers": "national"}
+  ],
+  "note": "No fact: the only Libyan strategy discussed is the AI strategy (thematic) and its ethics charter; passages state nothing about a national digital transformation strategy."
+}

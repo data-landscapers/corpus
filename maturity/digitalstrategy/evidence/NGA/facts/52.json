@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-30-nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Master Plan 2.0", "country_label": "e-Government Master Plan 2.0", "class": "government", "platform": "", "owner": "", "tiers": "federal government"},
+    {"system": "Government Service Portal", "country_label": "Government Service Portal (GSP)", "class": "", "platform": "", "owner": "Galaxy Backbone, with KOICA", "tiers": "federal agencies"},
+    {"system": "Nigerian Digital Exchange", "country_label": "Nigerian Digital Exchange", "class": "", "platform": "", "owner": "", "tiers": "federal agencies"}
+  ],
+  "note": "The portal is said to be part of e-Government Master Plan 2.0, which is named without a date, period or cost; no fact."
+}

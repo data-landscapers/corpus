@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-07 Guinea Kicks Off Plan to Bring Internet to 2,200 Schools",
+  "facts": [],
+  "systems": [
+    {"system": "2021 digital roadmap (education ICT)", "country_label": "", "class": "", "platform": "", "owner": "education sector", "tiers": "named in passing, with no description of what it covers"},
+    {"system": "Plan to connect 2,200 public primary schools (GIGA)", "country_label": "", "class": "programme", "platform": "", "owner": "Ministry of Pre-University Education and Literacy, with ITU and UNICEF", "tiers": "national; launched 5 November 2025"},
+    {"system": "Simandou 2040", "country_label": "Simandou 2040", "class": "development-plan", "platform": "", "owner": "Government of Guinea", "tiers": "national"}
+  ],
+  "note": "No national digital strategy; the school connectivity plan is a programme and the 2021 roadmap is named without description."
+}

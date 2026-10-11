@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-27-biometricupdate-togo-6m-niu-mosip",
+  "facts": [],
+  "systems": [
+    {"system": "2020-2025 development roadmap", "country_label": "government's 2020-2025 development roadmap", "class": "development-plan", "platform": "", "owner": "Government of Togo", "tiers": ""},
+    {"system": "National Development Plan", "country_label": "National Development Plan", "class": "development-plan", "platform": "", "owner": "Government of Togo", "tiers": ""},
+    {"system": "e-ID Togo (NIU, MOSIP-based)", "country_label": "NIU and biometric ID card", "class": "", "platform": "MOSIP", "owner": "ANID", "tiers": "national"}
+  ],
+  "note": "Names the government's 2020-2025 development roadmap and the National Development Plan as frames for the ID project; neither is a digital strategy, so no fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-13-zambia-launches-pmis-property-management",
+  "facts": [],
+  "systems": [
+    {"system": "Eighth National Development Plan (8NDP)", "country_label": "Eighth National Development Plan (8NDP)", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": "national; cited as the commitment under which PMIS modernises infrastructure administration"},
+    {"system": "Property Management Information System (PMIS)", "country_label": "PMIS", "class": "", "platform": "", "owner": "Ministry of Infrastructure, Housing and Urban Development with SMART Zambia Institute", "tiers": "national; integrated with ZamPortal and ZamPay"}
+  ],
+  "note": "System launch; names no digital strategy, only the 8NDP as the plan it aligns with."
+}

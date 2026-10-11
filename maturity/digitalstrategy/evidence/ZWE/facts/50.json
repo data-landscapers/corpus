@@ -1,0 +1,9 @@
+{
+  "slug": "2025-11-01-zwe-2026-zimbabwe-infrastructure-investment-programme",
+  "facts": [],
+  "systems": [
+    {"system": "Zimbabwe National Artificial Intelligence (AI) Strategy (2026-2030)", "country_label": "Zimbabwe National AI Strategy (2026-2030)", "class": "thematic", "platform": "", "owner": "Government of Zimbabwe", "tiers": "listed in the ICT section of the 2026 infrastructure programme"},
+    {"system": "National Development Strategy 1 (NDS 1)", "country_label": "NDS 1", "class": "development-plan", "platform": "", "owner": "", "tiers": "Treasury says its digital economy execution was fragmented across e-Government programmes"}
+  ],
+  "note": "Treasury programme; it says Treasury-reviewed execution of the digital economy under NDS 1 was fragmented and that the ICT ministry will harmonise ICT procurement during 2026, but names no national digital strategy."
+}

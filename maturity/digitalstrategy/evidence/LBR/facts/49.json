@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-07-liberia-mopt-national-ict-policy-2025-2030-draft",
+  "facts": [],
+  "systems": [
+    {"system": "National Information & Communications Technology (ICT) Policy (2025-2030)", "country_label": "National ICT Policy 2025-2030 (draft of 7 January 2025)", "class": "sector-ict", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "Draft policy; aligned with the ARREST Agenda; the draft's own text also calls it the 2025-2026/2026-2030 policy in places"},
+    {"system": "National Telecommunications and ICT Policy (2019-2024)", "country_label": "National ICT Policy 2019-2024", "class": "sector-ict", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "Marked 'EXPIRED' in the draft's list of sector policies"},
+    {"system": "E-Government Strategy", "country_label": "E-Government Strategy (2010-2015?)", "class": "government", "platform": "", "owner": "Ministry of Posts and Telecommunications (e-Liberia Office as implementing office)", "tiers": "Draft lists it with the query 'where is it?'"}
+  ],
+  "note": "A working draft ICT sector policy with editorial queries still in the text; it is classed sector-ict and states nothing about a national digital strategy."
+}

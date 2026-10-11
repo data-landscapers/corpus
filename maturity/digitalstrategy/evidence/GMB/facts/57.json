@@ -1,0 +1,9 @@
+{
+  "slug": "2019-01-01-afdb-gmb-001-gambia---greater-banjul-area-sustainable",
+  "facts": [],
+  "systems": [
+    {"system": "Greater Banjul Area Sustainable Urban Development Programme 2020-40 (GBA-SUDP)", "country_label": "Greater Banjul Sustainable Urban Development Programme 2020-40", "class": "programme", "platform": "", "owner": "Government of The Gambia; financed by an African Development Bank Transition Support Facility grant of about US$3 million (US$2,961,480 committed, 2019-2021)", "tiers": "Greater Banjul Area"},
+    {"system": "Digital Master Plan for the Greater Banjul Area", "country_label": "Digital Master Plan for the Greater Banjul Area", "class": "", "platform": "", "owner": "", "tiers": "Greater Banjul Area; named only as something the grant supports implementing, with no description of what it covers"}
+  ],
+  "note": "A financed urban programme; it names a Greater Banjul digital master plan but states nothing about a national digital strategy."
+}

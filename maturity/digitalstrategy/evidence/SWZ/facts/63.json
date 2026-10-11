@@ -1,0 +1,23 @@
+{
+ "slug": "2026-09-09-swz-observer-standard-bank-unayo-phased-out-integrated-banking",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Standard Bank Eswatini digital transformation strategy",
+   "country_label": "Standard Bank Eswatini digital transformation strategy",
+   "class": "ministry-plan",
+   "platform": "",
+   "owner": "Standard Bank Eswatini",
+   "tiers": "the bank's own; Unayo platform to be decommissioned by 2026-12-31"
+  },
+  {
+   "system": "Eswatini Payment Switch",
+   "country_label": "EPS",
+   "class": "",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": "Bank-level 'digital transformation strategy' (Standard Bank Eswatini's own); no national strategy stated."
+}

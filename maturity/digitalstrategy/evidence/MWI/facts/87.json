@@ -1,0 +1,15 @@
+{
+  "slug": "2023-05-01-malawi-inclusive-digital-economy-report",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The foreword by the Principal Secretary for E-Government, in the UNCDF-led Inclusive Digital Economy report dated May 2023, says 'Malawi is developing its first Digital Economy Strategy', with the vision 'Supporting Inclusive Wealth Creation', as a commitment by the Government of Malawi. The foreword is undated within the report, so the as_of is the report's published month.", "as_of": "2023-05", "date_precision": "month", "system": "Digital Economy Strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Economy Strategy", "country_label": "first Digital Economy Strategy", "class": "", "platform": "", "owner": "Government of Malawi, Department of E-Government; stated aim is to drive universal access and widespread adoption and usage of digital products and services in key sectors of the economy and to develop digital skills", "tiers": ""},
+    {"system": "Digital Government Strategy", "country_label": "Digital Government Strategy (launched 2019)", "class": "government", "platform": "", "owner": "Ministry of Information and Digitisation leads implementation; aims to improve public service delivery through digitalisation of government operations and processes", "tiers": ""},
+    {"system": "Digital Health Strategy", "country_label": "Digital Health Strategy", "class": "ministry-plan", "platform": "", "owner": "Ministry of Health, 'launched and is actively implementing'", "tiers": "health sector"},
+    {"system": "National ICT Policy", "country_label": "National ICT policy", "class": "", "platform": "", "owner": "Government of Malawi; the report lists it among economy-wide policies that need updating", "tiers": ""},
+    {"system": "National ICT Education Policy", "country_label": "National ICT Education Policy", "class": "", "platform": "", "owner": "Ministry of Education, 'currently working on developing'", "tiers": ""},
+    {"system": "Malawi 2063 (MW2063)", "country_label": "Malawi Vision 2063", "class": "", "platform": "", "owner": "Government of Malawi; a roadmap premised on three pillars: agricultural productivity and commercialization, industrialization and urbanization", "tiers": "national"}
+  ],
+  "note": "Class left empty on the Digital Economy Strategy fact: the report describes economy-wide aims but not whether it covers the state's own services, so the national test cannot be read from this document. The Digital Government Strategy is dated 2019 here and described as government-only, so it gives no fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-03-11-france-senegal-digital-entrepreneurship",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "We Are Tech Africa calls the New Technological Deal \"the country's national digital transformation strategy\" and says it aims to certify 500 technology startups and create 150,000 direct jobs by 2034; no cost is given.", "as_of": "2025-03-11", "date_precision": "day", "system": "New Technological Deal", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Technological Deal", "country_label": "", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
+    {"system": "Innovation Valorization Support Program (PAVI 2)", "country_label": "", "class": "programme", "platform": "", "owner": "AFD with DER/FJ", "tiers": "second phase in prospect"}
+  ],
+  "note": "Article gives targets to 2034 but no adoption act, period or text; the article's date is used because it gives no event date."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2024-01-01-cnuced-mauritanie-evaluation-preparation-commerce-electronique-paiements",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "UNCTAD's 2024 e-commerce readiness assessment says Mauritania 's'est récemment doté d'un Agenda National de Transformation Numérique 2022-2025'; no adopting act, body or date is named, and the report's year, 2024, is used as the date.", "as_of": "2024", "date_precision": "year", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "UNCTAD says the 2022-2025 agenda, focused mainly on infrastructure and digital administration, provides three projects to boost e-commerce and digital platforms, among them a reliable physical addressing system that depends on mobilising technical and financial partners; it states no cost; the report's year, 2024, is used as the date.", "as_of": "2024", "date_precision": "year", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Agenda National de Transformation Numérique 2022-2025", "country_label": "Agenda National de Transformation Numérique 2022-2025 / Agenda numérique 2022-2025", "class": "national", "platform": "", "owner": "MTNIMA", "tiers": "national; mainly digital infrastructure and digital administration, with three e-commerce and platform projects"},
+    {"system": "Stratégie de Croissance Accélérée et de Prospérité Partagée (SCAPP) 2016-2030", "country_label": "SCAPP 2016-2030", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; stresses exploiting the ICT sector to develop e-commerce"},
+    {"system": "Stratégie nationale d'inclusion financière (SNIF)", "country_label": "Stratégie nationale d'inclusion financière", "class": "thematic", "platform": "", "owner": "", "tiers": "national; in preparation at the time of the assessment"},
+    {"system": "Stratégie nationale de paiement numérique (SNPN)", "country_label": "Stratégie nationale de paiement numérique", "class": "thematic", "platform": "", "owner": "Banque centrale de Mauritanie", "tiers": "national; listed in the abbreviations only"},
+    {"system": "national e-commerce strategy (recommended)", "country_label": "stratégie nationale pour le développement du commerce électronique", "class": "thematic", "platform": "", "owner": "", "tiers": "recommended by the assessment, with an action plan; not yet in existence"}
+  ],
+  "note": "The excerpt ends mid-summary; class national for the agenda follows the report's description (infrastructure, digital administration, e-commerce and platform projects); no adopting act is stated."
+}

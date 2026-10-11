@@ -1,0 +1,18 @@
+{
+  "slug": "2025-11-28-rwanda-national-data-governance-framework-2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "NISR's National Data Governance Framework (published 2025-11-28) lists the 'Digital Transformation Strategy for Rwanda (ICT Master Plan, 2021-2025)' among the strategies it aligns with, giving its period as 2021-2025 and saying nothing on its adoption, text or reporting; the as-of is the document's published date, which falls inside the stated period.", "as_of": "2025-11-28", "date_precision": "day", "system": "Digital Transformation Strategy for Rwanda (ICT Master Plan, 2021-2025)", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Strategy for Rwanda (ICT Master Plan, 2021-2025)", "country_label": "Digital Transformation Strategy for Rwanda (ICT Master Plan)", "class": "", "platform": "", "owner": "", "tiers": "described only as supporting smart government services, e-governance and the National Interoperability Framework"},
+    {"system": "SMART Rwanda Master Plan", "country_label": "SMART Rwanda Master Plan", "class": "", "platform": "", "owner": "", "tiers": "described only as leveraging ICT for service delivery and growth through integrated government data systems"},
+    {"system": "National Strategy for Transformation NST2", "country_label": "NST2", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Rwanda Economy Digitalization Programme", "country_label": "Rwanda Economy Digitalization Programme", "class": "programme", "platform": "", "owner": "", "tiers": "economy-wide transition to a digital economy and a National Data Infrastructure"},
+    {"system": "National Data Sharing Policy for Government", "country_label": "National Data Sharing Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "government entities"},
+    {"system": "National Data Revolution Policy (2017)", "country_label": "National Data Revolution Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Strategy for the Development of Statistics (NSDS4, 2024-2029)", "country_label": "NSDS4", "class": "ministry-plan", "platform": "", "owner": "NISR", "tiers": "national statistical system"},
+    {"system": "Rwanda National Artificial Intelligence Policy (2023)", "country_label": "National AI Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Data Governance Framework", "country_label": "National Data Governance Framework", "class": "thematic", "platform": "", "owner": "NISR with RISA", "tiers": "all Government of Rwanda institutions"}
+  ],
+  "note": "The only dated fact about a named digital strategy is its period (2021-2025); the document does not describe that strategy's scope, so class is left empty. Everything else the document states is data governance, a thematic class."
+}

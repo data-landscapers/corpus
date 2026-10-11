@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-27-morocco-mtnra-vertiv-mou-communique",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Morocco 2030", "country_label": "stratégie Digital Morocco 2030", "class": "", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": ""},
+    {"system": "AI Made in Morocco roadmap", "country_label": "feuille de route « AI Made in Morocco »", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National cloud development roadmap 2025-2030", "country_label": "feuille de route nationale pour le développement du cloud 2025-2030", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The communique says the Vertiv memorandum fits the implementation of Digital Morocco 2030 but gives no scope, adoption act, period, cost or report for it."
+}

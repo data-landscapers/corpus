@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Malawi Acceleration Project (DMAP: P505095)", "country_label": "DMAP", "class": "programme", "platform": "", "owner": "Government of Malawi, financed by the World Bank at US$150 million (US$70 million effective November 2024, US$80 million second tranche expected July 2028)", "tiers": "national"},
+    {"system": "Digital Malawi Foundations Project (DigiMAP; P160533)", "country_label": "DigiMAP", "class": "programme", "platform": "", "owner": "Government of Malawi, World Bank financed; predecessor of DMAP", "tiers": ""}
+  ],
+  "note": "No fact: the Malawi section covers the DMAP programme only. It names no national digital strategy; the Malawi Information Technology Authority is a body still being established, not a strategy."
+}

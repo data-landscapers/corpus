@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01-tun-territoires-numeriques-responsables-inclusifs-synthese-du-cycle-de-web",
+  "facts": [],
+  "systems": [
+    {"system": "Déclaration de Politique Sectorielle de l'Économie Numérique de 2016", "country_label": "Déclaration de Politique Sectorielle de l'Économie Numérique", "class": "sector-ict", "platform": "", "owner": "government", "tiers": "national; the document says it defines 6 priority projects and that the 2018 digital law sits within it"},
+    {"system": "projet d'Accès Universel aux TIC", "country_label": "projet d'Accès Universel aux TIC", "class": "programme", "platform": "", "owner": "government", "tiers": "digital centres in 4 under-equipped rural zones"}
+  ],
+  "note": "A French webinar summary; it names the 2016 sectoral policy statement (sector-ict) and no national digital strategy."
+}

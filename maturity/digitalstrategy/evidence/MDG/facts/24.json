@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-publicdigital-madagascar-advancing-digital-transformation",
+  "facts": [],
+  "systems": [
+    {"system": "digital transformation roadmap (government's first)", "country_label": "digital transformation roadmap", "class": "government", "platform": "", "owner": "Government of Madagascar, Digital Governance Unit, with Public Digital", "tiers": "public administration and public services; developed after a maturity assessment begun in 2019"},
+    {"system": "PRODIGY", "country_label": "PRODIGY", "class": "programme", "platform": "", "owner": "World Bank and Government of Madagascar", "tiers": "launched 2019; digital identity management and public services"}
+  ],
+  "note": "The roadmap is described as a public-administration and services roadmap, so it is not national; no date for its adoption is given (page dated 2025, work since 2019)."
+}

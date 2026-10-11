@@ -1,0 +1,30 @@
+{
+  "slug": "2021-11-22-world-bank-ennajaa-program-appraisal",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated",
+     "fact": "The World Bank appraisal says the previous strategy Maroc Numérique 2013 lacked a strong implementation structure, which led in 2017 to the creation of the Digital Development Agency (ADD) to centralise operational efforts on digital government.",
+     "as_of": "2017", "date_precision": "year", "system": "Maroc Numérique 2013", "class": ""},
+    {"sub_indicator": "national", "aspect": "period", "value": "expired",
+     "fact": "The appraisal calls Maroc Numérique 2013 the 'previous strategy' and 'the earlier digital transformation strategy'; no end date is given, so the date used is the document's publication date, 22 November 2021.",
+     "as_of": "2021-11-22", "date_precision": "day", "system": "Maroc Numérique 2013", "class": ""},
+    {"sub_indicator": "national", "aspect": "reporting", "value": "results",
+     "fact": "The appraisal reports that in 2019 the Court of Accounts found the various digital strategies had not fully met their objectives, with 23 percent of services fully digitised against a goal of 100 percent.",
+     "as_of": "2019", "date_precision": "year", "system": "various digital strategies (Court of Accounts evaluation of online public services)", "class": ""},
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced",
+     "fact": "The appraisal says the 2021 New Development Model calls for the preparation of a new national digital strategy and a unique digital platform for all digital services; no drafting or adoption is reported.",
+     "as_of": "2021", "date_precision": "year", "system": "new national digital strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "Maroc Numérique 2013", "country_label": "Plan Maroc Numérique 2013", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plan Maroc Numérique 2020 (PMN 2020)", "country_label": "national digital strategy Plan Maroc Numérique 2020", "class": "", "platform": "", "owner": "", "tiers": "supports the digital transformation of public administration"},
+    {"system": "Note d'Orientations Générales pour le développement du Digital à l'horizon 2025 (NOG 2025)", "country_label": "2025 General Orientation Note", "class": "ministry-plan", "platform": "", "owner": "Agence de développement du digital (ADD)", "tiers": "adopted by the ADD in 2020; e-government component over five years"},
+    {"system": "Plan National de réforme de l'administration 2018-2021 (PNRA)", "country_label": "Plan National de réforme de l'administration", "class": "government", "platform": "", "owner": "Ministry of Economy and Finance, then MTNRA", "tiers": "public administration, four axes: organizational, managerial, digital, ethical"},
+    {"system": "National Plan for Public Procurement Digitization (PDCP)", "country_label": "Plan de dématérialisation de la commande publique", "class": "ministry-plan", "platform": "", "owner": "Trésorerie Générale du Royaume (TGR)", "tiers": "public procurement"},
+    {"system": "Tax administration strategic action plan 2017-2021", "country_label": "strategic action plan for the national tax administration", "class": "ministry-plan", "platform": "", "owner": "Direction Générale des Impôts (DGI)", "tiers": "tax administration; three pillars, the first a fully digital service administration"},
+    {"system": "Open Government Partnership 2018-2020 Action Plan", "country_label": "OGP National Action Plan 2018-2020", "class": "thematic", "platform": "", "owner": "MEFRA, HCP and other stakeholders", "tiers": "open data and citizen engagement"},
+    {"system": "General Interoperability Framework (CGI)", "country_label": "Cadre Général d'Interopérabilité", "class": "directive", "platform": "", "owner": "Government of Morocco", "tiers": "adopted 2013; not mandatory, so implementation limited"},
+    {"system": "Draft law 41-19 on digital administration", "country_label": "projet de loi 41-19 sur l'administration numérique", "class": "directive", "platform": "", "owner": "MTNRA", "tiers": "public administration"},
+    {"system": "Morocco Public Sector Performance (ENNAJAA) Program", "country_label": "ENNAJAA", "class": "programme", "platform": "World Bank program-for-results loan, EUR386.2 million (US$450 million), appraised 22 November 2021", "owner": "Ministry of Economy and Finance", "tiers": "four years 2022-25, total program US$624.7 million"}
+  ],
+  "note": "Strategies named as national or previous digital strategies are not described by scope, so their facts carry an empty class."
+}

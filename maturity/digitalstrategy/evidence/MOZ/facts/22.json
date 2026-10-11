@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-mozambique-intic-cybersecurity-seminar-laws-13-14-2026-csirt",
+  "facts": [],
+  "systems": [
+    {"system": "Política Nacional de Segurança Cibernética e Estratégia de Implementação (PNCS)", "country_label": "Resolução n.º 69/2021, de 31 de Dezembro", "class": "thematic", "platform": "", "owner": "Government; INTIC", "tiers": "national; approved 2021-12-31"},
+    {"system": "Estratégia Nacional de Segurança Cibernética 2026-2030", "country_label": "", "class": "thematic", "platform": "", "owner": "INTIC", "tiers": "national; under revision in July 2026"}
+  ],
+  "note": "Cybersecurity instruments only (thematic); no national digital strategy is named."
+}

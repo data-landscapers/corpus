@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-29-rwanda-june-2027-deadline-retire-3g",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "CNBC Africa states that the 3G shutdown forms part of Rwanda's ICT Sector Strategic Plan 2024-2029, which it calls the country's digital transformation roadmap; the document does not say whether the text is public and gives no date as-at, so the article's published date (2026-07-29) is used.", "as_of": "2026-07-29", "date_precision": "day", "system": "ICT Sector Strategic Plan 2024-2029", "class": ""}
+  ],
+  "systems": [
+    {"system": "ICT Sector Strategic Plan 2024-2029", "country_label": "ICT Sector Strategic Plan 2024-2029", "class": "", "platform": "", "owner": "Ministry of ICT and Innovation (MINICT)", "tiers": ""},
+    {"system": "Phased plan to retire 2G and 3G networks", "country_label": "3G/2G switch-off plan", "class": "thematic", "platform": "", "owner": "MINICT and RURA", "tiers": ""},
+    {"system": "Connect Rwanda", "country_label": "Connect Rwanda smartphone-access campaign", "class": "programme", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Class left empty on the ICT Sector Strategic Plan: the article calls it a 'digital transformation roadmap' and gives its period but does not describe its scope or adopter. The period fact is recorded for that reason."
+}

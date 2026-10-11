@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-11-pctechmag-centenary-masaka-data-centre-cleared-for-launch",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article names the Digital Transformation Roadmap 2023/24-2027/28, a stated period of FY2023/24 to FY2027/28, which it says aims at enhanced digital infrastructure, data sovereignty and integrated digital services; its published date 2026-03-11 is used as the as-of and falls inside that period. Text public: not stated", "as_of": "2026-03-11", "date_precision": "day", "system": "Digital Transformation Roadmap 2023/24-2027/28", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital Transformation Roadmap 2023/24-2027/28", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "", "tiers": "described as aiming at three outcomes: digital infrastructure, data sovereignty, integrated digital services"},
+    {"system": "Fourth National Development Plan (NDP IV) 2025/26-2029/30", "country_label": "NDP IV", "class": "development-plan", "platform": "", "owner": "", "tiers": "launched by President Museveni in June 2025; Science, Technology and Innovation as a pillar theme"},
+    {"system": "Vision 2040", "country_label": "Vision 2040", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Roadmap period stated (FY2023/24-2027/28) and three outcomes given, but not who adopted it nor whole-of-government scope, so class is left empty. NDP IV launch is a development-plan fact, not recorded."
+}

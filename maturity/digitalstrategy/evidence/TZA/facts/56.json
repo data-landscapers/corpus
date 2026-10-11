@@ -1,0 +1,13 @@
+{
+  "slug": "2024-11-01-dpi-africa-tanzania-jamii-platforms",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The document says the 10-year Tanzania Digital Economy Strategy Framework 'has been launched' by the President of Tanzania, Dr. Samia Suluhu Hassan, on 29 July 2024; no cabinet or parliamentary act is named.", "as_of": "2024-07-29", "date_precision": "day", "system": "Tanzania Digital Economy Strategy Framework", "class": ""},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The document calls the Tanzania Digital Economy Strategy Framework a '10-year' strategy launched on 29 July 2024, so its period runs to about 2034 and has not ended; it gives no start and end years. Text public: not stated", "as_of": "2024-07-29", "date_precision": "day", "system": "Tanzania Digital Economy Strategy Framework", "class": ""},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The document says the government, through the Tanzania Business Council, created a Digital Transformation Committee of public and private members for driving the digital economy strategy; it gives no date for the committee, so the document's publication month is used.", "as_of": "2024-11", "date_precision": "month", "system": "Tanzania Digital Economy Strategy Framework", "class": ""}
+  ],
+  "systems": [
+    {"system": "Tanzania Stack", "country_label": "Tanzania Stack", "class": "thematic", "platform": "Jamii Namba (digital ID), Jamii Malipo (digital payments), Jamii Data Shirikishi (Jamii X-Change)", "owner": "Ministry of ICT (governance and coordination); ICTC; Bank of Tanzania regulates Jamii Malipo", "tiers": "national"},
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector-ict", "platform": "", "owner": "ICTC ensures its implementation", "tiers": ""}
+  ],
+  "note": "Class left empty for the Digital Economy Strategy Framework: the document dates its launch and calls it 10-year but does not describe its scope beyond saying the Tanzania Stack is its foundation. No delivery plan, cost, report or finance stated."
+}

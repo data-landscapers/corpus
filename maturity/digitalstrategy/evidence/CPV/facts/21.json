@@ -1,0 +1,14 @@
+{
+  "slug": "2025-11-26-cpv-economia-digital-pilar-estrategico-olavo-correia",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing",
+     "fact": "At the third ordinary meeting of the Conselho Consultivo da Economia Digital on 25 November 2025, chaired by the Vice-Prime Minister, the Estratégia da Economia Digital de Cabo Verde, which the document says guides the country's transformation into a platform country, was presented to the council; the document does not say it was adopted.",
+     "as_of": "2025-11-25", "date_precision": "day",
+     "system": "Estratégia da Economia Digital de Cabo Verde", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Projeto de Inovação Morabeza (PIM)", "country_label": "Projeto de Inovação Morabeza", "class": "programme", "platform": "", "owner": "Government of Cabo Verde; initial financing from the African Development Bank", "tiers": ""},
+    {"system": "Conselho Consultivo da Economia Digital", "country_label": "Conselho Consultivo da Economia Digital", "class": "", "platform": "", "owner": "Vice-Prime Minister and Minister of Digital Economy", "tiers": ""}
+  ],
+  "note": ""
+}

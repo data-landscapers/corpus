@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-08-sofrecom-etude-faisabilite-data-center-national",
+  "facts": [],
+  "systems": [
+    {"system": "plan de transformation numérique (within the Dorsale Trans Saharienne à fibre optique project)", "country_label": "plan de transformation numérique", "class": "programme", "platform": "", "owner": "Government of Niger", "tiers": "Described only as launched within the Trans-Saharan fibre backbone project, whose aim is regional connectivity and lower telecom costs; no date given."},
+    {"system": "stratégie numérique", "country_label": "stratégie numérique", "class": "", "platform": "", "owner": "", "tiers": "Named as the basis on which the consultants estimated future digital services; no description, date or status."}
+  ],
+  "note": "Consultancy account of a data-centre feasibility study; the digital transformation plan and digital strategy are named with no date, scope or status, so no dated fact."
+}

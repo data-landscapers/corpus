@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-13-ppda-iso27001-certification",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "national", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "national; five pillars: Digital Infrastructure and Connectivity, Digital Services, Information Security and Data Privacy, Digital Skills Development, Innovation and Entrepreneurship"},
+    {"system": "National Artificial Intelligence and Emerging Technologies Strategy", "country_label": "National Artificial Intelligence and Emerging Technologies Strategy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance (developing it, June 2026)", "tiers": "national"},
+    {"system": "National Information Security Strategy", "country_label": "National Information Security Strategy", "class": "thematic", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "government institutions"},
+    {"system": "Tenfold Growth Strategy", "country_label": "Tenfold Growth Strategy", "class": "", "platform": "", "owner": "", "tiers": "economy-wide; USD 50 billion in 2023 to USD 500 billion by 2040"}
+  ],
+  "note": "Describes the Digital Transformation Roadmap's five pillars but states no adoption, period, plan or report for it; no recordable fact."
+}

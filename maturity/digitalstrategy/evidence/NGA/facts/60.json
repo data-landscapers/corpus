@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-23-ictworks-african-national-digital-health-strategies-2026",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Health Policy and Strategy 2021-2025", "country_label": "National Digital Health Policy and Strategy 2021-2025", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Nigeria Digital Health Services Bill, 2025", "country_label": "Nigeria Digital Health Services Bill, 2025", "class": "directive", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "A health-sector directory; Nigeria's entry is a digital health policy (thematic) and a bill in review, no national digital strategy."
+}

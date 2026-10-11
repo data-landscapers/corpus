@@ -1,0 +1,9 @@
+{
+  "slug": "2024-11-21-zambia-national-artificial-intelligence-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "National Artificial Intelligence Strategy 2024-2026", "country_label": "Zambia National Artificial Intelligence Strategy 2024-2026", "class": "thematic", "platform": "", "owner": "Ministry of Technology and Science; AI implementation within government coordinated by SMART Zambia Institute; a National AI Council", "tiers": "national; priority sectors agriculture, healthcare, mining, education, finance and public services"},
+    {"system": "Eighth National Development Plan (8NDP)", "country_label": "8th National Development Plan", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": "national"}
+  ],
+  "note": "A one-technology strategy (AI), thematic class; the page itself says the document carries no adoption date and its cover (2024-2026) and headers (2025-2027) disagree on period."
+}

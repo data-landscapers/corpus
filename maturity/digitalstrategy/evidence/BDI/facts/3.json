@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-wearetech-burundi-ia-seoul-ambitions",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie nationale d'intelligence artificielle 2025-2030", "country_label": "Stratégie nationale d'IA", "class": "thematic", "platform": "", "owner": "Ministry of Finance, Budget and Digital Economy, with UNDP support", "tiers": "national; validated April 2026"},
+    {"system": "Plan directeur de digitalisation des services publics", "country_label": "plan directeur de digitalisation des services publics", "class": "government", "platform": "", "owner": "", "tiers": "public administrations: interconnection, infrastructure and cybersecurity"},
+    {"system": "Projet d'appui aux fondations de l'économie numérique (PAFEN)", "country_label": "PAFEN", "class": "programme", "platform": "", "owner": "World Bank-financed, USD 92 million", "tiers": "national"}
+  ],
+  "note": "Article concerns the national AI strategy (thematic) and names the public-services master plan and PAFEN; no national digital strategy is stated."
+}

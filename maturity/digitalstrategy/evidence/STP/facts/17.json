@@ -1,0 +1,8 @@
+{
+  "slug": "2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital",
+  "facts": [],
+  "systems": [
+    {"system": "Estratégia Nacional para a Governação Digital em São Tomé e Príncipe", "country_label": "Estratégia Nacional para a Governação Digital", "class": "government", "platform": "", "owner": "INIC with UNU-EGOV; the document says it was presented to government authorities in January 2020 and in final version in June 2020", "tiers": "national; the text states its aim as digital transformation of the public administration and digital public services across nine sectors, for the period 2020/2024"}
+  ],
+  "note": "This is the June 2020 draft of the digital governance strategy; its stated scope is the public administration and its services, so class government and no fact. The file is an excerpt (capture truncated)."
+}

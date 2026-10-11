@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-01-sajim-manjeese-ict-governance-sadc-egov",
+  "facts": [],
+  "systems": [
+    {"system": "ZimConnect", "country_label": "ZimConnect policy/initiative", "class": "government", "platform": "", "owner": "Office of the President and Cabinet (modernisation unit)", "tiers": "e-government implementation, per a 2016 source cited by the review"}
+  ],
+  "note": "Literature review; no dated fact about a national digital strategy. ZimConnect is described as an e-government policy (government class) without a date."
+}

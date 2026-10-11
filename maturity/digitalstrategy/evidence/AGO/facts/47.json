@@ -1,0 +1,9 @@
+{
+  "slug": "2024-06-27-wb-ago-001-angola-digital-acceleration-project",
+  "facts": [],
+  "systems": [
+    {"system": "Angola Digital Acceleration Project (PADA, P180693)", "country_label": "Projecto de Aceleração Digital de Angola", "class": "programme", "platform": "", "owner": "Ministry of Finance (borrower); Instituto de Modernização Administrativa (implementing agency); World Bank financier", "tiers": "national; US$300 million IBRD loan, approved 27 June 2024, closing 31 March 2030; US$112.21 million disbursed as at 10 June 2026"},
+    {"system": "Agenda de Transição Digital da Administração Pública", "country_label": "Agenda de Transição Digital da Administração Pública", "class": "government", "platform": "", "owner": "Government of Angola", "tiers": "public administration; the project record places the US$210.91 million package of authorised spending under it and under PADA"}
+  ],
+  "note": "A financed programme; names the public-administration agenda only as a frame for authorised spending."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Foundations Project (Digital Malawi Program Phase 1, P160533)", "country_label": "Malawi Digital Foundations Project", "class": "programme", "platform": "", "owner": "Government of Malawi, financed by World Bank IDA (US$72.4m)", "tiers": "national; 2017 to 2024"},
+    {"system": "Digital Malawi Acceleration Project (DMAP)", "country_label": "Digital Malawi Acceleration Project", "class": "programme", "platform": "", "owner": "Government of Malawi, World Bank financed", "tiers": "national; launched November 2024"}
+  ],
+  "note": "World Bank results brief on two financed projects; names no national digital strategy."
+}

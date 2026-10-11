@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-smart-africa-artificial-intelligence-for-africa-blueprint",
+  "facts": [],
+  "systems": [
+    {"system": "National AI strategy (in development)", "country_label": "", "class": "thematic", "platform": "", "owner": "Tunisia's Task Force and Steering Committee", "tiers": "Named among countries at various stages of developing a national AI strategy (2021 blueprint)"},
+    {"system": "Startup Act", "country_label": "Tunisia start up act", "class": "", "platform": "", "owner": "", "tiers": "Cited as legislation incentivising AI champions, drafted with the start-up scene"}
+  ],
+  "note": "Regional blueprint; its Tunisia passages name an AI strategy process and the Startup Act, both outside the national class, and no national digital strategy."
+}

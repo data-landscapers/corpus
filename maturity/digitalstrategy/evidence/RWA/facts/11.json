@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-01-gcg-analysis-national-ai-strategies-africa",
+  "facts": [],
+  "systems": [
+    {"system": "National AI Policy", "country_label": "The National AI Policy (2023)", "class": "thematic", "platform": "", "owner": "Ministry of ICT and Innovation", "tiers": ""},
+    {"system": "Priority Skills for Growth programme", "country_label": "Priority Skills for Growth", "class": "programme", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Report analyses Rwanda's National AI Policy (a single-technology strategy, class thematic, so no fact is recorded); no national digital strategy is named."
+}

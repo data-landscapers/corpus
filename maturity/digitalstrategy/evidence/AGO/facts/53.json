@@ -1,0 +1,11 @@
+{
+  "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
+  "facts": [],
+  "systems": [
+    {"system": "Angola Digital Acceleration Project (PADA)", "country_label": "Projecto de Aceleração Digital de Angola", "class": "programme", "platform": "", "owner": "Instituto de Modernização Administrativa (IMA), World Bank financed, USD 300 million", "tiers": "national"},
+    {"system": "Public Administration Digital Transition Agenda", "country_label": "Agenda de Transição Digital da Administração Pública", "class": "government", "platform": "", "owner": "", "tiers": "public administration"},
+    {"system": "National Development Plan (2023-2027)", "country_label": "Plano de Desenvolvimento Nacional 2023-2027", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Digital Transformation Strategy", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The report names a National Digital Transformation Strategy only as something PADA is aligned with, giving no description, adopting act, text or status; no fact can be recorded."
+}

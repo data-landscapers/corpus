@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-22-zwe-unga81-digital-inclusion-ai-roadmap",
+  "facts": [],
+  "systems": [
+    {"system": "National AI Strategy 2026–2030", "country_label": "Zimbabwe National AI Strategy 2026–2030", "class": "thematic", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": ""},
+    {"system": "National Development Strategy 2 (NDS2)", "country_label": "NDS2", "class": "development-plan", "platform": "", "owner": "", "tiers": "digital inclusion initiatives implemented under it"},
+    {"system": "Vision 2030", "country_label": "Vision 2030", "class": "development-plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Ministerial UNGA81 presentation; the only strategies named are a thematic AI strategy and the national development plan and vision."
+}

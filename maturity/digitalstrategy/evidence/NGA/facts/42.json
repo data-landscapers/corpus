@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-04-nigeria-sovereign-cloud-regulatory-frameworks-signed",
+  "facts": [],
+  "systems": [
+    {"system": "National Cloud Computing Guideline", "country_label": "National Cloud Computing Guideline", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Cloud Technical Guideline", "country_label": "National Cloud Technical Guideline", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Digital Infrastructure Assurance Framework (NDIAF)", "country_label": "National Digital Infrastructure Assurance Framework", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Cloud Investment Strategy", "country_label": "National Cloud Investment Strategy", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Sovereign Cloud Initiative", "country_label": "National Sovereign Cloud Initiative", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"}
+  ],
+  "note": "Cloud instruments signed on 4 August 2026; all thematic. No national digital strategy named."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2014-11-01-mali-numerique-2020-strategie-nationale-economie-numerique",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The held text of Mali Numerique 2020, issued by the Ministry of Digital Economy, Information and Communication, is marked DRAFT on its cover, with six strategic orientations covering networks, content, digital uses including e-administration and business productivity, local industry, human capital and digital trust; the document's publication date, November 2014, is used as no other date is given.", "as_of": "2014-11", "date_precision": "month", "system": "Mali Numérique 2020", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Mali Numérique 2020", "country_label": "Stratégie Nationale de Développement de l'Economie Numérique", "class": "national", "platform": "", "owner": "Ministère de l'Economie Numérique, de l'Information et de la Communication", "tiers": "national"}
+  ],
+  "note": "Passages are the cover and contents list only; its contents list an implementation section ('Modalité de mise en œuvre') but no text of it, so nothing is recorded on plan, period or reporting."
+}

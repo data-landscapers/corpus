@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-06-malawi-drafts-ai-bill-to-govern-public-sector-tech",
+  "facts": [],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "Ministry of ICT (government 'finalising')", "tiers": "public institutions and private sector"},
+    {"system": "AI Bill", "country_label": "AI Bill", "class": "thematic", "platform": "", "owner": "Ministry of ICT", "tiers": "announced; no text or date"},
+    {"system": "Automated human resource and payroll management platform", "country_label": "", "class": "", "platform": "", "owner": "Department of Human Resource Management and Development", "tiers": "pilot before rollout across ministries, departments, agencies, Parliament, Judiciary and councils"}
+  ],
+  "note": "Concerns the AI strategy and bill only (thematic); the 'broader digital transformation programme' is not named as a strategy document."
+}

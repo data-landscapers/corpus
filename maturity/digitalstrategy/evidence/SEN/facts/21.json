@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-20-senegal-timbre-fiscal-numerique-sentimbre",
+  "facts": [],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "SenTimbre", "country_label": "SenTimbre", "class": "", "platform": "mobile app", "owner": "DGID", "tiers": "national"},
+    {"system": "DGID plan d'action 2026", "country_label": "plan d'action 2026 de la DGID", "class": "ministry-plan", "platform": "", "owner": "DGID", "tiers": "national"}
+  ],
+  "note": "Says the authorities 'launched' the New Deal Technologique with digitalising public services as one of its pillars, with no date and no scope beyond that, so no fact."
+}

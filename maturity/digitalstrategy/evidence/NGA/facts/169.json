@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-19-nigeria-sovereign-cloud-certification-nitda",
+  "facts": [],
+  "systems": [
+    {"system": "National Sovereign Cloud Initiative (National Cloud Computing Guideline, National Cloud Technical Guideline, National Digital Infrastructure Assurance Framework)", "country_label": "NSCI", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "National Cloud Investment Strategy", "country_label": "National Cloud Investment Strategy", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "Cloud First Policy", "country_label": "Cloud First Policy", "class": "thematic", "platform": "", "owner": "Federal Government", "tiers": "federal"},
+    {"system": "National Software Quality Assurance Framework", "country_label": "", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "federal"}
+  ],
+  "note": "Instruments are thematic (cloud, software); no national digital strategy named."
+}

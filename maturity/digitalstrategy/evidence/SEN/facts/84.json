@@ -1,0 +1,9 @@
+{
+  "slug": "2024-07-19-au-continental-artificial-intelligence-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "Senegal's AI strategy (2023)", "country_label": "", "class": "thematic", "platform": "", "owner": "Government of Senegal", "tiers": "national AI; the AU document says it was published in 2023 and aims to contribute to the national development plan"},
+    {"system": "Senegal's overarching data strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "Government of Senegal", "tiers": "data; the AU document says it has been drafted"}
+  ],
+  "note": "Continental AI strategy (regional class, not assessed); Senegal appears only as holder of a stand-alone AI strategy and a drafted data strategy, both thematic."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-12-newswatch-nigeria-national-sovereign-cloud-initiative",
+  "facts": [],
+  "systems": [
+    {"system": "National Sovereign Cloud Initiative (NSCI)", "country_label": "National Sovereign Cloud Initiative", "class": "thematic", "platform": "", "owner": "NITDA", "tiers": "national"},
+    {"system": "Cloud First Policy", "country_label": "Cloud First Policy (2019)", "class": "thematic", "platform": "", "owner": "", "tiers": "ministries, departments and agencies"}
+  ],
+  "note": "Cloud and sovereignty programme; the phrase 'Nigeria's digital strategy' is generic, no strategy document named."
+}

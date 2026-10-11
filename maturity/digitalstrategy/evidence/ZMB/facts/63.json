@@ -1,0 +1,10 @@
+{
+  "slug": "2025-04-24-ministry-labour-digital-strategy-zamportal",
+  "facts": [],
+  "systems": [
+    {"system": "Ministry of Labour and Social Security Digital Strategy 2024-2026", "country_label": "digital strategy 2024-2026 of the Ministry of Labour and Social Security", "class": "ministry-plan", "platform": "", "owner": "Ministry of Labour and Social Security", "tiers": "ministry; 29 services onboarded on the Government Service Bus"},
+    {"system": "Government Service Bus (GSB)", "country_label": "Government Service Bus", "class": "", "platform": "", "owner": "SMART Zambia Institute", "tiers": "government-wide service delivery"},
+    {"system": "Zambia Employment and Labour Management System (ZELMIS)", "country_label": "ZELMIS", "class": "", "platform": "", "owner": "Ministry of Labour and Social Security", "tiers": "ministry"}
+  ],
+  "note": "A ministry's own strategy, launched by the Minister, so ministry-plan class and no national-class fact; it refers to the digital transformation agenda of the 8NDP without naming a national strategy."
+}

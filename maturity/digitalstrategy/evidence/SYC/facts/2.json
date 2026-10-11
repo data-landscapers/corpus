@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-17-syc-worldbank-country-growth-jobs-report-2026-full-report",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The World Bank says the new Inter-Ministerial Digital and AI Coordination Committee and the Department of Information and Communications Technology (DICT) have the mandate to lead Seychelles' digital transformation agenda, with the Digital and AI Strategy still to be operationalised; the report's publication date is used as no other date is given.", "as_of": "2026-09-17", "date_precision": "day", "system": "national AI and digital strategy", "class": ""}
+  ],
+  "systems": [
+    {"system": "national AI and digital strategy (also called the Digital and AI Strategy)", "country_label": "new national AI and digital strategy", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The report names a 'new national AI and digital strategy' without describing its scope, adoption act or date, so its class is left empty; no standing, period, plan or reporting fact is stated."
+}

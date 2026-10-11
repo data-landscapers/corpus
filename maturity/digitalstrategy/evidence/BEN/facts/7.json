@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-31-benin-dpi-roadmap",
+  "facts": [],
+  "systems": [
+    {"system": "national DPI roadmap", "country_label": "digital public infrastructure roadmap", "class": "thematic", "platform": "", "owner": "ASIN (Information Systems and Digital Agency)", "tiers": "national; in development, July 2026"},
+    {"system": "Smart Gouv initiative", "country_label": "Smart Gouv", "class": "programme", "platform": "", "owner": "government", "tiers": "nationwide public service delivery; in execution since 2022"}
+  ],
+  "note": "Describes a thematic DPI roadmap being drafted and a service-delivery initiative; no national digital strategy is described."
+}

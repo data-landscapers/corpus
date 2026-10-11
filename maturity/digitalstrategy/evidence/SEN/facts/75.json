@@ -1,0 +1,11 @@
+{
+  "slug": "2025-02-24-sall-interview-digital-society",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "In a Le Soleil interview on 24 February 2025, Minister Alioune Sall calls the New Deal \"la nouvelle stratégie numérique du Sénégal\", \"qui sera lancée\" (to be launched) that day, aligned with the national transformation agenda and the Vision 2050; no adopting act or body is named.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital Economy", "tiers": "national; roadmap for digital transformation in all domains"},
+    {"system": "Agenda national de transformation / Vision 2050", "country_label": "", "class": "development-plan", "platform": "", "owner": "President of the Republic", "tiers": "national"}
+  ],
+  "note": "Passages only; the minister's answers on levers are cut from the passage file."
+}

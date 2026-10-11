@@ -1,0 +1,14 @@
+{
+  "slug": "2025-02-24-new-deal-launch-live-coverage",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Le Soleil's live blog says that on 24 February 2025 at Diamniadio \"le gouvernement du Sénégal lance\" (launches) the New Deal technologique, its roadmap for digital transformation, at a ceremony where President Bassirou Diomaye Faye gave the address; no adopting act is named.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Le Soleil says that on the sidelines of the 24 February 2025 launch the names of the 20 members of the Conseil national du \"New Deal technologique\" were announced; the live blog does not state the act or mandate creating the council.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "Le Soleil's live blog quotes the Secretary General of the Government saying the strategy is aligned with the portfolio of priority projects and reforms \"avec une déclinaison décennale et quinquennale\" (ten-year and five-year breakdown), and quotes targets of 500 labelled startups, 100,000 digital graduates, 95% connectivity and a 15% GDP contribution; no cost is given.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal technologique", "country_label": "New Deal technologique", "class": "national", "platform": "", "owner": "Government of Senegal; Ministry of Communication, Telecommunications and Digital Affairs (Alioune Sall)", "tiers": "national; economy and administration (single citizen counter, universal internet, startups, sovereignty)"},
+    {"system": "Sénégal 2050", "country_label": "agenda Sénégal 2050", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
+    {"system": "Conseil national du New Deal technologique", "country_label": "", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "20 members announced 2025-02-24"}
+  ],
+  "note": ""
+}

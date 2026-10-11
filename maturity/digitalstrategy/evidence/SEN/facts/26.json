@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-03-senegal-donnees-ia-gouvernance-eclairee",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article says the New Deal Technologique, the national digital transformation strategy, was 'lancé' (launched) in 2025 and integrated into the Vision Sénégal 2050; it names no adopting act or body.", "as_of": "2025", "date_precision": "year", "system": "New Deal Technologique", "class": "national"},
+    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 1-2 July 2026 the digital ministry, with Smart Africa and GIZ support, convened administrations, private sector and universities to define data and AI use cases for a future national data-value Blueprint accompanying the implementation of the New Deal Technologique.", "as_of": "2026-07-02", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+  ],
+  "systems": [
+    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Ministry of Telecommunications and Digital Affairs", "tiers": "national"},
+    {"system": "Blueprint national de création de valeur par les données", "country_label": "Blueprint national de création de valeur par les données", "class": "thematic", "platform": "", "owner": "Ministry of Telecommunications and Digital Affairs", "tiers": "national"},
+    {"system": "Vision Sénégal 2050", "country_label": "Vision Sénégal 2050", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Class national: the document describes digital sovereignty, digitalised public services and a competitive digital economy. Same event as document 25."
+}

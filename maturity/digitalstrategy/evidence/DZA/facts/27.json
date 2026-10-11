@@ -1,0 +1,13 @@
+{
+  "slug": "2026-05-05-undp-japan-digital-transformation-project-echorouk",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The High Commission for Digitalisation signed a project document on 4 May 2026 with UNDP, supported by the Government of Japan, titled 'Support to implementing the National Digital Transformation Strategy 2025-2030'; it states no domestic allocation.", "as_of": "2026-05-04", "date_precision": "day", "system": "National Digital Transformation Strategy 2025-2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The minister-High Commissioner for Digitalisation signed the project to carry out the strategy and said she is supporting preparation and implementation of its executive plan for 2027-2030, focused on the fourth axis (digital economy).", "as_of": "2026-05-04", "date_precision": "day", "system": "National Digital Transformation Strategy 2025-2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The minister said the implementation plan for 2025-2026 has been prepared and is under way, with an executive plan for 2027-2030 being prepared; no cost is stated.", "as_of": "2026-05-04", "date_precision": "day", "system": "National Digital Transformation Strategy 2025-2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The project title and minister give the strategy the period 2025-2030; the article does not say the text is public (as-at 2026-05-04).", "as_of": "2026-05-04", "date_precision": "day", "system": "National Digital Transformation Strategy 2025-2030", "class": "national"}
+  ],
+  "systems": [
+    {"system": "UNDP-Japan project: Support to implementing the National Digital Transformation Strategy 2025-2030", "country_label": "دعم تنفيذ الاستراتيجية الوطنية للتحول الرقمي 2025-2030", "class": "programme", "platform": "", "owner": "High Commission for Digitalisation with UNDP, funded by Japan", "tiers": ""}
+  ],
+  "note": ""
+}

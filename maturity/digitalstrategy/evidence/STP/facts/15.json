@@ -1,0 +1,10 @@
+{
+  "slug": "2022-05-24-world-bank-pad4839-digital-sao-tome-and-principe-project",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Government Strategy", "country_label": "Digital Government Strategy", "class": "government", "platform": "", "owner": "INIC; published in 2020", "tiers": "national; the document says it frames digital transformation initiatives to improve digital public services in nine sectors and outlines cross-cutting approaches for the entire public sector"},
+    {"system": "National Strategy for Permanent Birth Registration", "country_label": "", "class": "", "platform": "", "owner": "DGRN; introduced in 2009", "tiers": "national; birth registration"},
+    {"system": "Digital São Tomé and Príncipe Project", "country_label": "", "class": "programme", "platform": "", "owner": "World Bank financed (SDR 15.7 million grant, US$21 million equivalent, plus a US$0.8 million Global Infrastructure Facility grant); appraisal document dated 24 May 2022", "tiers": "national"}
+  ],
+  "note": "The only strategy named is the 2020 digital government strategy, described as a public-sector and public-services strategy, so class government and no fact."
+}

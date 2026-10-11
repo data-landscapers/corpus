@@ -1,0 +1,8 @@
+{
+  "slug": "2017-01-01-usaid-tza-health-information-s-2017-health-information-systems---tanzania",
+  "facts": [],
+  "systems": [
+    {"system": "Health Information Systems - Tanzania", "country_label": "USAID Tanzania Health Information Systems activity", "class": "programme", "platform": "DHIS2", "owner": "USAID (US$11,522,962 grant, 2017-2022)", "tiers": "national health information infrastructure"}
+  ],
+  "note": "A donor health-information programme record; no digital strategy named."
+}

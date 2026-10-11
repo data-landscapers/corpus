@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-25-zaf-2026-vote-30-digital-society-economy",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "National Treasury's Estimates of National Expenditure 2026 appropriate R162.7 million for 2026/27 to the Digital Society and Economy subprogramme of Vote 30, which the record says carries the digital transformation roadmap implementation plan and the national AI policy plan.", "as_of": "2026-02-25", "date_precision": "day", "system": "Digital transformation roadmap", "class": ""}
+  ],
+  "systems": [
+    {"system": "Digital transformation roadmap", "country_label": "digital transformation roadmap implementation plan", "class": "", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; funded from Vote 30 Digital Society and Economy subprogramme"},
+    {"system": "National AI policy and implementation plan", "country_label": "national AI policy", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; funded from the same subprogramme"}
+  ],
+  "note": "The budget record ties a domestic appropriation to the roadmap's implementation plan but does not describe the roadmap's scope, so the fact is recorded with class left empty."
+}

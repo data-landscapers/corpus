@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-28-itwebafrica-mozambique-amia-launch-data-governance-policy",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Governance Policy and Strategy", "country_label": "Política e Estratégia Nacional de Governação de Dados", "class": "thematic", "platform": "", "owner": "INTIC", "tiers": "national; under development"},
+    {"system": "National AI Strategy (draft)", "country_label": "", "class": "thematic", "platform": "", "owner": "Government", "tiers": "national; draft unveiled about three months before August 2026"}
+  ],
+  "note": "Names only data-governance and AI strategies (thematic); no national digital strategy is stated."
+}

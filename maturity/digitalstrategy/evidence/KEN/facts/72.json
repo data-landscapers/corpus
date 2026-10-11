@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-15-eu-supports-digital-id-cross-border-land-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "DPI roadmap", "country_label": "DPI roadmap", "class": "thematic", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
+    {"system": "Digital Transformation Centre in Kenya", "country_label": "Digital Transformation Centre in Kenya", "class": "programme", "platform": "", "owner": "EU-funded (EUR 15 million of the package)", "tiers": "national"}
+  ],
+  "note": "States Kenya is developing a DPI roadmap (thematic); no national digital strategy named."
+}

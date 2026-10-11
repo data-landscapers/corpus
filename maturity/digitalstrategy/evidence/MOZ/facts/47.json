@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-05-prioritizes-data-governance-digital-sovereignty-techafricanews",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Governance Policy, Strategy and Action Plan", "country_label": "", "class": "thematic", "platform": "", "owner": "MCTD through INTIC", "tiers": "national; validation workshop in Maputo, said to be integrated into the Five-Year Government Program 2025-2029"},
+    {"system": "Five-Year Government Program 2025-2029", "country_label": "Programa Quinquenal do Governo", "class": "", "platform": "", "owner": "Government", "tiers": "national; named as the programme into which the data policy is integrated"}
+  ],
+  "note": "A data-governance policy workshop; the digital transformation agenda is mentioned without a strategy document, so no fact is recorded."
+}

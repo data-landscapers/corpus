@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-29-ghana-launches-national-ai-strategy-moc",
+  "facts": [],
+  "systems": [
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Communications, Digital Technology and Innovations", "tiers": "national; stakeholder consultation forum launched 2025-04-29"},
+    {"system": "One Million Coders Programme", "country_label": "One Million Coders Program", "class": "programme", "platform": "", "owner": "Ministry of Communications, Digital Technology and Innovations", "tiers": "national; launched 2025-04-16"}
+  ],
+  "note": "The document concerns the thematic AI strategy and a skills programme; no national digital strategy is stated."
+}

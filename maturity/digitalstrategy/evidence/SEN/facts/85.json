@@ -1,0 +1,11 @@
+{
+  "slug": "2024-06-18-senegal-unveils-strategy-digital-infrastructure",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "eTrade for all, on 18 June 2024, says the Senegal Digital Strategy 2025 sets the aim of raising the digital economy's contribution to GDP from 3.3 percent to 10 percent by 2025; no cost is given.", "as_of": "2024-06-18", "date_precision": "day", "system": "Senegal Digital Strategy 2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Senegal Digital Strategy 2025", "country_label": "", "class": "national", "platform": "", "owner": "Government of Senegal; supported by UNDP", "tiers": "national; digital economy, digital public infrastructure, government information systems, national digital ID as a key component"},
+    {"system": "national digital ID program", "country_label": "", "class": "programme", "platform": "", "owner": "Government of Senegal", "tiers": "national; launched 2022"}
+  ],
+  "note": "Strategy named and one target stated; no adoption act, period or text link stated."
+}

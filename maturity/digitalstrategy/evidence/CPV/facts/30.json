@@ -1,0 +1,9 @@
+{
+  "slug": "2024-12-19-cpv-lancamento-oficial-do-portal-de-justica",
+  "facts": [],
+  "systems": [
+    {"system": "Decreto-Legislativo n.º 5/2020, de 21 de julho", "country_label": "Decreto-Legislativo 5/2020", "class": "directive", "platform": "", "owner": "Government of Cabo Verde", "tiers": "Establishes the digitalisation of interactions between public administration and citizens"},
+    {"system": "Portal de Serviços Públicos Digitais Integrados do Estado", "country_label": "Portal de Serviços Públicos Digitais Integrados do Estado", "class": "", "platform": "", "owner": "Government of Cabo Verde", "tiers": ""}
+  ],
+  "note": "Launch of the Justice Portal; the document refers only generically to the government's digital transformation strategy and names none."
+}
