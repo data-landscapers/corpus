@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-11 22:08 · **ANALYTICS** · <1m · 2026-10-08..2026-10-10 written; 10 Oct: dl.io 30 views / - clicks, corpus 54 views / - clicks
 2026-10-11 22:08 · **NOTES** · 10m · 79 closed: the searcher brief rules out file-stamp, folder, event and year-end dates as published, and a padded year
 2026-10-11 19:59 · **MATURITY-STUDY** · 11m · cybersecuritylaw run: 200 facts from four reading rounds; as at 2026-09-30 stage 4: 10, 3: 36, 2: 6, no stage 2; agreement 20 of 20; on the map. Tokens 42.9M, ceiling 40M
 2026-10-11 19:48 · **MATURITY-STUDY** · unclocked · cybersecuritylaw, step 1: four questions prepared for `gov.legislate--cybersecurity-legislation` (asked for as cybercrime-legislation, no such row); 128 unread stories, ceiling 40M. Nothing run; waits for Bill.
