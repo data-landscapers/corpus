@@ -1,0 +1,162 @@
+{
+  "id": "dataprotectionreadiness",
+  "study_file": "maturity-study-dataprotectionreadiness.md",
+  "subjects": [
+    "gov.protect",
+    "gov.legislate"
+  ],
+  "stage_topic": "gov.protect",
+  "redraws": [
+    "gov.protect--national-data-protection-readiness"
+  ],
+  "carry": [
+    "gov.protect--national-data-protection-readiness"
+  ],
+  "carry_studies": [
+    "dataprotectionlaw",
+    "dataprotectionauthority"
+  ],
+  "carry_map": {
+    "dataprotectionlaw": {
+      "sub_indicator": "system",
+      "class": "system",
+      "aspects": {
+        "standing": {
+          "to": "law",
+          "values": {
+            "transition": "in-force",
+            "enacted": "not-yet",
+            "passed": "not-yet",
+            "tabled": "not-yet",
+            "drafting": "not-yet",
+            "announced": "not-yet"
+          }
+        },
+        "application": {
+          "to": "practice",
+          "values": {
+            "activity": "in-use",
+            "applied": "in-use",
+            "reported": "in-use"
+          }
+        }
+      }
+    },
+    "dataprotectionauthority": {
+      "sub_indicator": "system",
+      "class": "system",
+      "aspects": {
+        "standing": {
+          "to": "authority",
+          "values": {
+            "constituted": "appointed",
+            "provided": "none"
+          }
+        }
+      }
+    }
+  },
+  "token_ceiling": 25000000,
+  "terms": [
+    "Malabo Convention",
+    "Convention de Malabo",
+    "Convenção de Malabo",
+    "Convenio de Malabo",
+    "اتفاقية مالابو",
+    "Convention on Cyber Security and Personal Data Protection",
+    "Convention sur la cybersécurité et la protection des données",
+    "Convention 108",
+    "breach notification",
+    "data breach notification",
+    "notification of data breaches",
+    "data protection impact assessment",
+    "registration of data controllers",
+    "registered data controllers",
+    "data protection officers",
+    "data protection compliance",
+    "notification de violation",
+    "analyse d'impact relative à la protection des données",
+    "délégué à la protection des données",
+    "correspondants à la protection des données"
+  ],
+  "sub_indicators": [
+    {
+      "key": "system",
+      "label": "Data protection system",
+      "subject": "gov.protect",
+      "text": "National data protection readiness: data protection system",
+      "indicator_id": "gov.protect--national-data-protection-readiness-data-protection-system",
+      "class": "system"
+    }
+  ],
+  "classes": [
+    "system",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "law",
+      "name": "Law in force",
+      "role": "coverage",
+      "defer": [
+        "none",
+        "not-yet"
+      ],
+      "prefer": [
+        "in-force"
+      ],
+      "values": [
+        "in-force",
+        "not-yet",
+        "none"
+      ]
+    },
+    {
+      "key": "authority",
+      "name": "Authority appointed",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "appointed"
+      ],
+      "values": [
+        "appointed",
+        "none"
+      ]
+    },
+    {
+      "key": "practice",
+      "name": "Rules in use",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "in-use"
+      ],
+      "values": [
+        "in-use",
+        "none"
+      ]
+    },
+    {
+      "key": "treaty",
+      "name": "Malabo Convention",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "ratified"
+      ],
+      "values": [
+        "ratified",
+        "signed",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
