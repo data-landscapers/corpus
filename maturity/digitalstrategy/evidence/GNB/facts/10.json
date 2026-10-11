@@ -1,1 +1,17 @@
-{"slug":"2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad","facts":[{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"Agence Ecofin reports that Guinea-Bissau launched its National Digital Transformation Strategy 2025-2030 in January 2025, built on six strategic axes including digital infrastructure, naming no adopting act.","as_of":"2025-01","date_precision":"month","system":"National Digital Transformation Strategy 2025-2030","class":"national"}],"systems":[],"note":""}
+{
+  "slug": "2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Agence Ecofin reports that Guinea-Bissau launched its National Digital Transformation Strategy 2025-2030 in January 2025, built on six strategic axes including digital infrastructure, naming no adopting act.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "ENTD.GW 2025-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

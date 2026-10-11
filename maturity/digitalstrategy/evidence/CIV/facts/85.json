@@ -1,14 +1,60 @@
 {
   "slug": "2025-01-01-cote-divoire-dge-telecommunication-prix-moyens-constates",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The portal says the State has adopted (\"a adopté\") recent legislative and strategic texts, listing the Stratégie Nationale de Développement du Numérique among them; it gives no adoption date or body, so the page's published date is used.", "as_of": "2025-01-01", "date_precision": "day", "system": "Stratégie Nationale de Développement du Numérique (SNNCI 2021-2025)", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The portal gives the strategy's period as 2021-2025, still running at the page's date of 1 January 2025. Text public: not stated.", "as_of": "2025-01-01", "date_precision": "day", "system": "Stratégie Nationale de Développement du Numérique (SNNCI 2021-2025)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The portal says the State has adopted (\"a adopté\") recent legislative and strategic texts, listing the Stratégie Nationale de Développement du Numérique among them; it gives no adoption date or body, so the page's published date is used.",
+      "as_of": "2025-01-01",
+      "date_precision": "day",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The portal gives the strategy's period as 2021-2025, still running at the page's date of 1 January 2025. Text public: not stated.",
+      "as_of": "2025-01-01",
+      "date_precision": "day",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Stratégie Nationale de Développement du Numérique (SNNCI 2021-2025)", "country_label": "Stratégie Nationale de Développement du Numérique", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Stratégie Nationale de l'Innovation", "country_label": "Stratégie Nationale de l'Innovation", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Stratégie Nationale de la Cybersécurité", "country_label": "Stratégie Nationale de la Cybersécurité", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
-    {"system": "stratégie nationale de l'Intelligence Artificielle et de la gestion des données", "country_label": "stratégie nationale de l'Intelligence Artificielle et de la gestion des données", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Stratégie Nationale de Développement du Numérique (SNNCI 2021-2025)",
+      "country_label": "Stratégie Nationale de Développement du Numérique",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Stratégie Nationale de l'Innovation",
+      "country_label": "Stratégie Nationale de l'Innovation",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Stratégie Nationale de la Cybersécurité",
+      "country_label": "Stratégie Nationale de la Cybersécurité",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "stratégie nationale de l'Intelligence Artificielle et de la gestion des données",
+      "country_label": "stratégie nationale de l'Intelligence Artificielle et de la gestion des données",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "Second pass: standing and period facts added; class is empty because the document does not describe the strategy's scope beyond one pillar being digital infrastructure."
 }

@@ -1,13 +1,60 @@
 {
   "slug": "2026-02-16-namibia-building-ai-readiness-coordination-collaboration-isc",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The NCRST authors, writing for the International Science Council, give Namibia's National Digital Strategy as 2025-2028 (Ministry of Information and Communication Technology, 2025) and cite the text at a mict.gov.na URL, so the period brackets the February 2026 date of writing; the reference list prints the title with a typo ('202-2028') and other sources give 2025-2029.", "as_of": "2026-02-16", "date_precision": "day", "system": "National Digital Strategy 2025-2028", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The NCRST authors, writing for the International Science Council, give Namibia's National Digital Strategy as 2025-2028 (Ministry of Information and Communication Technology, 2025) and cite the text at a mict.gov.na URL, so the period brackets the February 2026 date of writing; the reference list prints the title with a typo ('202-2028') and other sources give 2025-2029.",
+      "as_of": "2026-02-16",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The document cites the strategy's text at the ministry's site (mict.gov.na).",
+      "as_of": "2026-02-16",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy 2025-2028", "country_label": "National Digital Strategy", "class": "national", "platform": "", "owner": "Ministry of Information and Communication Technology (MICT)", "tiers": "described as a 'comprehensive blueprint for digital transformation' to bridge the digital divide, foster innovation for economic opportunity, provide citizen-centric digital public services and promote digital literacy"},
-    {"system": "Sixth National Development Plan (NDP6) 2025-2031", "country_label": "Sixth National Development Plan", "class": "development-plan", "platform": "", "owner": "National Planning Commission", "tiers": "prioritises AI development and digital learning"},
-    {"system": "National AI Strategy", "country_label": "national AI strategy", "class": "thematic", "platform": "", "owner": "NCRST", "tiers": "the source says Namibia 'currently lacks' one; it is being developed (February 2026)"},
-    {"system": "Task Force on the Fourth Industrial Revolution Final Report (2022)", "country_label": "4IR Report", "class": "", "platform": "", "owner": "", "tiers": "recommends a national AI institute"}
+    {
+      "system": "National Digital Strategy 2025-2028",
+      "country_label": "National Digital Strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Technology (MICT)",
+      "tiers": "described as a 'comprehensive blueprint for digital transformation' to bridge the digital divide, foster innovation for economic opportunity, provide citizen-centric digital public services and promote digital literacy"
+    },
+    {
+      "system": "Sixth National Development Plan (NDP6) 2025-2031",
+      "country_label": "Sixth National Development Plan",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "National Planning Commission",
+      "tiers": "prioritises AI development and digital learning"
+    },
+    {
+      "system": "National AI Strategy",
+      "country_label": "national AI strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "NCRST",
+      "tiers": "the source says Namibia 'currently lacks' one; it is being developed (February 2026)"
+    },
+    {
+      "system": "Task Force on the Fourth Industrial Revolution Final Report (2022)",
+      "country_label": "4IR Report",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "recommends a national AI institute"
+    }
   ],
   "note": "No adoption verb or act is given for the National Digital Strategy, so no standing fact."
 }

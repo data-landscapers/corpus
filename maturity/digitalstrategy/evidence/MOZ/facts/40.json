@@ -1,8 +1,26 @@
 {
   "slug": "2026-02-16 Mozambique Launches Drafting of National Digital Transformation Strategy",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Mozambique officially launched the process to draft a National Digital Transformation Strategy on 12 February 2026 at the National Conference on Digital Transformation, to link the country's geographic, energy and demographic potential with digital public infrastructure for inclusive development and economic resilience.", "as_of": "2026-02-12", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The drafting process for the National Digital Transformation Strategy was launched on 12 February 2026, to include regional and national consultations, indicators, an action plan, monitoring and evaluation and participatory validation.", "as_of": "2026-02-12", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Mozambique officially launched the process to draft a National Digital Transformation Strategy on 12 February 2026 at the National Conference on Digital Transformation, to link the country's geographic, energy and demographic potential with digital public infrastructure for inclusive development and economic resilience.",
+      "as_of": "2026-02-12",
+      "date_precision": "day",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The drafting process for the National Digital Transformation Strategy was launched on 12 February 2026, to include regional and national consultations, indicators, an action plan, monitoring and evaluation and participatory validation.",
+      "as_of": "2026-02-12",
+      "date_precision": "day",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

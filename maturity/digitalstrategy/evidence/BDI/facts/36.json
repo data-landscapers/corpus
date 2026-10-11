@@ -1,15 +1,66 @@
 {
   "slug": "2020-01-01-burundi-digital-economy-assessment",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "The World Bank's Burundi Digital Economy Assessment states that there is no overarching digital economy strategy beyond the ICT policy PNDTIC 2010-2025, which lacks an actionable operational plan, and recommends adopting a new overarching strategic vision; the document gives no date beyond its 2020 publication year, which is used here.", "as_of": "2020", "date_precision": "year", "system": "National digital economy strategy (none exists)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The World Bank's Burundi Digital Economy Assessment states that there is no overarching digital economy strategy beyond the ICT policy PNDTIC 2010-2025, which lacks an actionable operational plan, and recommends adopting a new overarching strategic vision; the document gives no date beyond its 2020 publication year, which is used here.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "No national digital strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Politique Nationale de Développement des TIC du Burundi (PNDTIC 2010-2025)", "country_label": "PNDTIC 2010-2025", "class": "sector-ict", "platform": "", "owner": "Ministry of Youth, Posts and ICT, with SETIC and CNSI", "tiers": "national; 73 priorities under 10 headings, most indicators not achieved, no implementation roadmap"},
-    {"system": "Plan National de Développement du Burundi 2018-2027", "country_label": "PND 2018-2027", "class": "development-plan", "platform": "", "owner": "Government of Burundi", "tiers": "national; treats digital technology as a cross-cutting enabler and does not reference the PNDTIC"},
-    {"system": "Burundi Large Bande 2025 (BLB 2025)", "country_label": "Stratégie Burundi Large Bande 2025", "class": "thematic", "platform": "", "owner": "Government of Burundi", "tiers": "national; broadband strategy launched in 2017, lacks an actionable framework"},
-    {"system": "ARCT Strategic Plan 2016-2020", "country_label": "Plan Stratégique 2016-2020", "class": "ministry-plan", "platform": "", "owner": "ARCT (telecommunications regulator)", "tiers": "regulator"},
-    {"system": "Plan National de Développement de l'Informatique de Santé II 2020-2024 (PNDIS II)", "country_label": "PNDIS II", "class": "thematic", "platform": "", "owner": "Ministry of Public Health and Fight Against AIDS", "tiers": "health sector"},
-    {"system": "Vision 2025", "country_label": "Vision 2025", "class": "development-plan", "platform": "", "owner": "Government of Burundi", "tiers": "national; named as embracing the priority of internet adoption, no description of content"}
+    {
+      "system": "Politique Nationale de Développement des TIC du Burundi (PNDTIC 2010-2025)",
+      "country_label": "PNDTIC 2010-2025",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Youth, Posts and ICT, with SETIC and CNSI",
+      "tiers": "national; 73 priorities under 10 headings, most indicators not achieved, no implementation roadmap"
+    },
+    {
+      "system": "Plan National de Développement du Burundi 2018-2027",
+      "country_label": "PND 2018-2027",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Burundi",
+      "tiers": "national; treats digital technology as a cross-cutting enabler and does not reference the PNDTIC"
+    },
+    {
+      "system": "Burundi Large Bande 2025 (BLB 2025)",
+      "country_label": "Stratégie Burundi Large Bande 2025",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Burundi",
+      "tiers": "national; broadband strategy launched in 2017, lacks an actionable framework"
+    },
+    {
+      "system": "ARCT Strategic Plan 2016-2020",
+      "country_label": "Plan Stratégique 2016-2020",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "ARCT (telecommunications regulator)",
+      "tiers": "regulator"
+    },
+    {
+      "system": "Plan National de Développement de l'Informatique de Santé II 2020-2024 (PNDIS II)",
+      "country_label": "PNDIS II",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Public Health and Fight Against AIDS",
+      "tiers": "health sector"
+    },
+    {
+      "system": "Vision 2025",
+      "country_label": "Vision 2025",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Burundi",
+      "tiers": "national; named as embracing the priority of internet adoption, no description of content"
+    }
   ],
   "note": ""
 }

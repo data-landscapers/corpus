@@ -1,1 +1,34 @@
-{"slug": "2025-10-07-presidence-conseil-ministres-mdeni-catalogue-services-numeriques-diagnostic", "facts": [{"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "The Council of Ministers record of 7 October 2025 lists, among the main challenges left after the ministry's digital-maturity diagnostic of the administration, the elaboration of a national digital strategy and sectoral roadmaps.", "as_of": "2025-10-07", "date_precision": "day", "system": "stratégie numérique nationale", "class": "national"}], "systems": [{"system": "Catalogue des Services Publics Numériques", "country_label": "Catalogue of Digital Public Services", "class": "programme", "platform": "", "owner": "Ministry Delegate for Digital Economy and Innovation (MDENI)", "tiers": "national; 503 services inventoried (281 G2C, 187 G2B, 35 G2G), 83 selected for priority digitalisation"}, {"system": "Code du numérique", "country_label": "Code du numérique", "class": "directive", "platform": "", "owner": "Government of Djibouti", "tiers": "national; to be popularised"}], "note": ""}
+{
+  "slug": "2025-10-07-presidence-conseil-ministres-mdeni-catalogue-services-numeriques-diagnostic",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The Council of Ministers record of 7 October 2025 lists, among the main challenges left after the ministry's digital-maturity diagnostic of the administration, the elaboration of a national digital strategy and sectoral roadmaps.",
+      "as_of": "2025-10-07",
+      "date_precision": "day",
+      "system": "No national digital strategy",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Catalogue des Services Publics Numériques",
+      "country_label": "Catalogue of Digital Public Services",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry Delegate for Digital Economy and Innovation (MDENI)",
+      "tiers": "national; 503 services inventoried (281 G2C, 187 G2B, 35 G2G), 83 selected for priority digitalisation"
+    },
+    {
+      "system": "Code du numérique",
+      "country_label": "Code du numérique",
+      "class": "directive",
+      "platform": "",
+      "owner": "Government of Djibouti",
+      "tiers": "national; to be popularised"
+    }
+  ],
+  "note": ""
+}

@@ -1,10 +1,26 @@
 {
   "slug": "2025-05-07-mict-vote29-budget-motivation-fibre-internet-penetration",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "In motivating the ICT ministry's 2025/26 budget to the National Assembly on 7 May 2025, Minister Emma Theofelus said the National Digital Strategy 'will be implemented' in partnership with all relevant stakeholders and is aligned to and aims to accelerate Vision 2030 and the Harambee Prosperity Plan; she names no adopting act or body, and the passage does not describe the strategy's scope, so the class is left empty.", "as_of": "2025-05-07", "date_precision": "day", "system": "National Digital Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "In motivating the ICT ministry's 2025/26 budget to the National Assembly on 7 May 2025, Minister Emma Theofelus said the National Digital Strategy 'will be implemented' in partnership with all relevant stakeholders and is aligned to and aims to accelerate Vision 2030 and the Harambee Prosperity Plan; she names no adopting act or body, and the passage does not describe the strategy's scope, so the class is left empty.",
+      "as_of": "2025-05-07",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy", "country_label": "National Digital Strategy", "class": "", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": "national; stated to be implemented with all relevant stakeholders, no description of scope"}
+    {
+      "system": "National Digital Strategy",
+      "country_label": "National Digital Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Technology",
+      "tiers": "national; stated to be implemented with all relevant stakeholders, no description of scope"
+    }
   ],
   "note": "Only the passages carrying a study term are held; they give the minister's verb 'will be implemented' and no adoption act, period or cost, so standing is recorded as announced with the class empty."
 }

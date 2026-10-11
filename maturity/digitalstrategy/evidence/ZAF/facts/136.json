@@ -1,10 +1,26 @@
 {
   "slug": "2019-10-03 South Africa must harness technology in a way that helps fix its problems",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "Alison Gillwald (The Conversation) wrote on 2019-10-03 that various government departments had developed policies in their sectoral silos but there was no overarching digital policy to coordinate the state and the public and private sectors; the document's own date is used, as the article gives none for the observation.", "as_of": "2019-10-03", "date_precision": "day", "system": "overarching digital policy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "Alison Gillwald (The Conversation) wrote on 2019-10-03 that various government departments had developed policies in their sectoral silos but there was no overarching digital policy to coordinate the state and the public and private sectors; the document's own date is used, as the article gives none for the observation.",
+      "as_of": "2019-10-03",
+      "date_precision": "day",
+      "system": "No national digital strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Presidential Commission on the Fourth Industrial Revolution", "country_label": "Commission on the Fourth Industrial Revolution", "class": "", "platform": "", "owner": "President Cyril Ramaphosa (appointed 2019)", "tiers": "national"}
+    {
+      "system": "Presidential Commission on the Fourth Industrial Revolution",
+      "country_label": "Commission on the Fourth Industrial Revolution",
+      "class": "",
+      "platform": "",
+      "owner": "President Cyril Ramaphosa (appointed 2019)",
+      "tiers": "national"
+    }
   ],
   "note": "An op-ed, the same text as 135; the one fact is the author's statement that no overarching digital policy existed."
 }

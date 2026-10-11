@@ -1,7 +1,16 @@
 {
   "slug": "2026-06-08-levellers-ai-regulation-eritrea",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no national digital transformation strategy, alongside no published national AI strategy.", "as_of": "2026-06-08", "date_precision": "day", "system": "National digital transformation strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "Levellers, in a legal-status page last reviewed 8 June 2026, states that Eritrea has no national digital transformation strategy, alongside no published national AI strategy.",
+      "as_of": "2026-06-08",
+      "date_precision": "day",
+      "system": "No national digital strategy",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

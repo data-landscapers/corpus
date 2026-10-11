@@ -1,12 +1,42 @@
 {
   "slug": "2026-09-25-nam-neweralive-theofelus-ai-digital-services",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "ICT Minister Emma Theofelus, speaking at the National AI Institute launch on Wednesday 23 September 2026, said the Institute is provided for under the National Digital Strategy 2025-2028 and the Sixth National Development Plan, giving the strategy's period as 2025-2028; the article does not say the text is public and does not describe the strategy's scope, so the class is left empty.", "as_of": "2026-09-23", "date_precision": "day", "system": "National Digital Strategy 2025-2028", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "ICT Minister Emma Theofelus, speaking at the National AI Institute launch on Wednesday 23 September 2026, said the Institute is provided for under the National Digital Strategy 2025-2028 and the Sixth National Development Plan, giving the strategy's period as 2025-2028; the article does not say the text is public and does not describe the strategy's scope, so the class is left empty.",
+      "as_of": "2026-09-23",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy 2025-2028", "country_label": "National Digital Strategy 2025-2028", "class": "", "platform": "", "owner": "Ministry of Information and Communication Technology (speaker is its minister)", "tiers": "national; named, no description of scope"},
-    {"system": "Sixth National Development Plan", "country_label": "Sixth National Development Plan", "class": "", "platform": "", "owner": "", "tiers": "national; named as providing for the AI Institute, no description of any digital chapter"},
-    {"system": "National Data Centre", "country_label": "National Data Centre", "class": "thematic", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": "national; construction said to have commenced beside the AI Institute at Kenya House"}
+    {
+      "system": "National Digital Strategy 2025-2028",
+      "country_label": "National Digital Strategy 2025-2028",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Technology (speaker is its minister)",
+      "tiers": "national; named, no description of scope"
+    },
+    {
+      "system": "Sixth National Development Plan",
+      "country_label": "Sixth National Development Plan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; named as providing for the AI Institute, no description of any digital chapter"
+    },
+    {
+      "system": "National Data Centre",
+      "country_label": "National Data Centre",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Technology",
+      "tiers": "national; construction said to have commenced beside the AI Institute at Kenya House"
+    }
   ],
   "note": "Strategy class empty because the article names it and gives its period but describes no scope; the period fact assumes nothing about whether the text is public."
 }

@@ -1,11 +1,34 @@
 {
   "slug": "2025-06-06-worldbank-mdap-p176459-mid-term-review-aide-memoire",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "The World Bank mid-term review aide memoire (mission 26 May - 6 June 2025) says preparation of a Digital Transformation Strategy \"has been temporarily deprioritized\" on guidance from new MCTD leadership, which chose implementation over new policy or strategy documents, and lists as an agreed action that the project unit finalise the terms of reference for the National Digital Transformation Strategy.", "as_of": "2025-06-06", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The World Bank mid-term review aide memoire (mission 26 May - 6 June 2025) says preparation of a Digital Transformation Strategy \"has been temporarily deprioritized\" on guidance from new MCTD leadership, which chose implementation over new policy or strategy documents, and lists as an agreed action that the project unit finalise the terms of reference for the National Digital Transformation Strategy.",
+      "as_of": "2025-06-06",
+      "date_precision": "day",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Mozambique Digital Acceleration Project (MDAP, P176459)", "country_label": "Mozambique Digital Acceleration Project", "class": "programme", "platform": "", "owner": "World Bank IDA financing; project implementation unit (PIU) with MCTD, INCM, INTIC, INAGE", "tiers": ""},
-    {"system": "Digital inclusion strategy and action plan", "country_label": "digital inclusion strategy and action plan", "class": "thematic", "platform": "", "owner": "Technical assistance under the project, procurement being completed in June 2025", "tiers": ""}
+    {
+      "system": "Mozambique Digital Acceleration Project (MDAP, P176459)",
+      "country_label": "Mozambique Digital Acceleration Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank IDA financing; project implementation unit (PIU) with MCTD, INCM, INTIC, INAGE",
+      "tiers": ""
+    },
+    {
+      "system": "Digital inclusion strategy and action plan",
+      "country_label": "digital inclusion strategy and action plan",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Technical assistance under the project, procurement being completed in June 2025",
+      "tiers": ""
+    }
   ],
   "note": "Passages file. The document does not describe the strategy's scope, so the fact is recorded with class empty; the aide memoire dates the mission, not its own issue, so the mission end date is used."
 }

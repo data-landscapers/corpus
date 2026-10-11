@@ -1,11 +1,34 @@
 {
   "slug": "2025-07-29-lesotho-india-dpi-mou-publiceye",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The minister said the 29 July 2025 India MoU was signed 'in the wake of our national digital transformation strategy launch', giving no launch date and naming no adopting act; the date used is the article's published date.", "as_of": "2025-07-29", "date_precision": "day", "system": "national digital transformation strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The minister said the 29 July 2025 India MoU was signed 'in the wake of our national digital transformation strategy launch', giving no launch date and naming no adopting act; the date used is the article's published date.",
+      "as_of": "2025-07-29",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy: Agenda 2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "national digital transformation strategy", "country_label": "national digital transformation strategy", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Lesotho-India Digital Public Infrastructure MoU", "country_label": "MoU with India's Ministry of Electronics and Information Technology (India Stack)", "class": "programme", "platform": "India Stack", "owner": "MICSTI", "tiers": "national"}
+    {
+      "system": "national digital transformation strategy",
+      "country_label": "national digital transformation strategy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Lesotho-India Digital Public Infrastructure MoU",
+      "country_label": "MoU with India's Ministry of Electronics and Information Technology (India Stack)",
+      "class": "programme",
+      "platform": "India Stack",
+      "owner": "MICSTI",
+      "tiers": "national"
+    }
   ],
   "note": "Strategy class left empty: the article gives a launch statement only, with no description of the strategy's scope."
 }

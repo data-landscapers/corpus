@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LSO,national,governance,qualifier,body:mandated,2024-12-30,LSO-007,,not stated: finance
+LSO,national,standing,coverage,adopted,2025-02-19,LSO-003;LSO-004;LSO-013,LSO-002=announced;LSO-008=drafting,
+LSO,national,text,coverage,public,2024,LSO-010;LSO-012,,
+LSO,national,period,coverage,to:2030,2024,LSO-011,LSO-005=to:2035,
+LSO,national,plan,coverage,actions,2024-12-30,LSO-006,LSO-009=none,
+LSO,national,reporting,coverage,activity,2026-09,LSO-001,,
+LSO,national,last12,qualifier,,,,,nothing held

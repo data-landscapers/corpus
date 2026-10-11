@@ -1,14 +1,58 @@
 {
   "slug": "2025-04-02-dpa-digital-digest-ghana-2025",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Digital Policy Alert says the Ministry of Communications and Digitalisation adopted the Digital Economy Policy in October 2024, and its introduction says the government adopted the Digital Economy Policy and Strategy; no adopting act is named.", "as_of": "2024-10", "date_precision": "month", "system": "Digital Economy Policy and Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Digital Policy Alert says the Ministry of Communications and Digitalisation adopted the Digital Economy Policy in October 2024, and its introduction says the government adopted the Digital Economy Policy and Strategy; no adopting act is named.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "Ghana Digital Economy Policy and Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Economy Policy and Strategy", "country_label": "Digital Economy Policy", "class": "national", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": "national; competition, e-commerce regulatory framework, digital transformation"},
-    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": "national; released October 2023 per this document, eight pillars"},
-    {"system": "National Cybersecurity Policy", "country_label": "National Cybersecurity Policy", "class": "thematic", "platform": "", "owner": "Cyber Security Authority", "tiers": "national; adopted October 2024"},
-    {"system": "National Child Online Protection Framework", "country_label": "National Child Online Protection Framework", "class": "thematic", "platform": "", "owner": "Cyber Security Authority", "tiers": "national; issued October 2024"},
-    {"system": "Digital Financial Services Policy", "country_label": "Digital Financial Services Policy", "class": "thematic", "platform": "", "owner": "Ministry of Finance", "tiers": "national; adopted May 2020"}
+    {
+      "system": "Digital Economy Policy and Strategy",
+      "country_label": "Digital Economy Policy",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communications and Digitalisation",
+      "tiers": "national; competition, e-commerce regulatory framework, digital transformation"
+    },
+    {
+      "system": "National AI Strategy",
+      "country_label": "National AI Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digitalisation",
+      "tiers": "national; released October 2023 per this document, eight pillars"
+    },
+    {
+      "system": "National Cybersecurity Policy",
+      "country_label": "National Cybersecurity Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Cyber Security Authority",
+      "tiers": "national; adopted October 2024"
+    },
+    {
+      "system": "National Child Online Protection Framework",
+      "country_label": "National Child Online Protection Framework",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Cyber Security Authority",
+      "tiers": "national; issued October 2024"
+    },
+    {
+      "system": "Digital Financial Services Policy",
+      "country_label": "Digital Financial Services Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Finance",
+      "tiers": "national; adopted May 2020"
+    }
   ],
   "note": ""
 }

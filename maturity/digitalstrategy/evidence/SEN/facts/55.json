@@ -1,11 +1,34 @@
 {
   "slug": "2025-10-03-techafricanews-national-digital-council",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The National Digital Council, 20 experts from the public sector, private enterprises and civil society, was inaugurated on 2 October 2025 by the Prime Minister under the President's directive, with a mandate to advise the government, propose digital-policy recommendations and support implementation of key structural projects under the New Technological Deal; its mandate is advisory.", "as_of": "2025-10-02", "date_precision": "day", "system": "New Technological Deal (New Deal Technologique)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The National Digital Council, 20 experts from the public sector, private enterprises and civil society, was inaugurated on 2 October 2025 by the Prime Minister under the President's directive, with a mandate to advise the government, propose digital-policy recommendations and support implementation of key structural projects under the New Technological Deal; its mandate is advisory.",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Technological Deal (New Deal Technologique)", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
-    {"system": "National Digital Council", "country_label": "Conseil national du numérique", "class": "", "platform": "", "owner": "Prime Minister", "tiers": "national"}
+    {
+      "system": "New Technological Deal (New Deal Technologique)",
+      "country_label": "New Deal Technologique",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    },
+    {
+      "system": "National Digital Council",
+      "country_label": "Conseil national du numérique",
+      "class": "",
+      "platform": "",
+      "owner": "Prime Minister",
+      "tiers": "national"
+    }
   ],
   "note": "The document calls the strategy a comprehensive plan (universal internet, digital identity, public-service modernisation, sovereign cloud) without saying it covers the economy and the state, so class is left empty."
 }

@@ -1,11 +1,44 @@
 {
   "slug": "2026-05-11 Mzalendo ICT Promise Tracker Kenya",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Mzalendo tracker links the Kenya Digital Master Plan from the ICT Authority site as a public text titled 2022-2032, and says it encompasses environmental protection and conservation; the date used is the tracker's published date, 2026-05-11, as the page gives no event date.", "as_of": "2026-05-11", "date_precision": "day", "system": "Kenya Digital Master Plan", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "The Mzalendo tracker links the Kenya Digital Master Plan from the ICT Authority site as a public text titled 2022-2032, and says it encompasses environmental protection and conservation; the date used is the tracker's published date, 2026-05-11, as the page gives no event date.",
+      "as_of": "2026-05-11",
+      "date_precision": "day",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The tracker links the plan's text on the ICT Authority's site.",
+      "as_of": "2026-05-11",
+      "date_precision": "day",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Kenya Digital Master Plan", "country_label": "Digital Master Plan", "class": "", "platform": "", "owner": "Government of Kenya (ICT Authority hosts the text)", "tiers": "national"},
-    {"system": "Digitisation and Automation Strategy (2023-2026)", "country_label": "Digitisation and Automation Strategy (2023-2026)", "class": "ministry-plan", "platform": "", "owner": "State Department for Economic Planning", "tiers": "ministry"}
+    {
+      "system": "Kenya Digital Master Plan",
+      "country_label": "Digital Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Kenya (ICT Authority hosts the text)",
+      "tiers": "national"
+    },
+    {
+      "system": "Digitisation and Automation Strategy (2023-2026)",
+      "country_label": "Digitisation and Automation Strategy (2023-2026)",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "State Department for Economic Planning",
+      "tiers": "ministry"
+    }
   ],
   "note": "Digital Master Plan is named with a dated period but its scope is not described, so class is left empty."
 }

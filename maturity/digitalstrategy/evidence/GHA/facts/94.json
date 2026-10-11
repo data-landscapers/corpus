@@ -1,12 +1,42 @@
 {
   "slug": "2024-12-23-gh-etransform-ghana-implementation-completion-and-results-report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The World Bank completion report for GH eTransform Ghana says the Digital Economy Strategy and Policy was approved in April 2024, to be launched by the end of 2024; it does not name the approving body.", "as_of": "2024-04", "date_precision": "month", "system": "Digital Economy Strategy and Policy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The World Bank completion report for GH eTransform Ghana says the Digital Economy Strategy and Policy was approved in April 2024, to be launched by the end of 2024; it does not name the approving body.",
+      "as_of": "2024-04",
+      "date_precision": "month",
+      "system": "Ghana Digital Economy Policy and Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Economy Strategy and Policy", "country_label": "Digital Economy Strategy and Policy", "class": "national", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "GH eTransform Ghana (P144140)", "country_label": "eTransform Ghana Project", "class": "programme", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": "national; World Bank credit, closed 2024-06-30"},
-    {"system": "eHealth strategy", "country_label": "eHealth strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national; developed under the project"}
+    {
+      "system": "Digital Economy Strategy and Policy",
+      "country_label": "Digital Economy Strategy and Policy",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "GH eTransform Ghana (P144140)",
+      "country_label": "eTransform Ghana Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Communications and Digitalisation",
+      "tiers": "national; World Bank credit, closed 2024-06-30"
+    },
+    {
+      "system": "eHealth strategy",
+      "country_label": "eHealth strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; developed under the project"
+    }
   ],
   "note": ""
 }

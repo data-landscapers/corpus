@@ -1,11 +1,34 @@
 {
   "slug": "2025-07-03-nca-internet-growth-figures-eyeradio",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The National Communication Authority attributed the rise in internet users from 1.3 million in 2024 to 1.9 million in 2025 partly to 'the implementation of the Digital Government Strategy', a claim of implementation measured against no target of the strategy; the article gives no date for the strategy, so as_of is the article date (3 July 2025).", "as_of": "2025-07-03", "date_precision": "day", "system": "Digital Government Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The National Communication Authority attributed the rise in internet users from 1.3 million in 2024 to 1.9 million in 2025 partly to 'the implementation of the Digital Government Strategy', a claim of implementation measured against no target of the strategy; the article gives no date for the strategy, so as_of is the article date (3 July 2025).",
+      "as_of": "2025-07-03",
+      "date_precision": "day",
+      "system": "Digital Government Strategy",
+      "class": "government"
+    }
   ],
   "systems": [
-    {"system": "Digital Government Strategy", "country_label": "Digital Government Strategy", "class": "", "platform": "", "owner": "", "tiers": "named by the NCA as implemented; no description of scope, adoption, period or text"},
-    {"system": "National Broadband Roadmap", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "described as launched; no date given"}
+    {
+      "system": "Digital Government Strategy",
+      "country_label": "Digital Government Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named by the NCA as implemented; no description of scope, adoption, period or text"
+    },
+    {
+      "system": "National Broadband Roadmap",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "described as launched; no date given"
+    }
   ],
   "note": "Digital Government Strategy is named without any description of its scope, so the reporting fact carries an empty class."
 }

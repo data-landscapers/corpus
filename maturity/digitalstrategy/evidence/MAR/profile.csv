@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MAR,national,governance,qualifier,body:mandated;finance:donor,2026-04-08,MAR-010;MAR-017,MAR-015=finance:domestic,
+MAR,national,standing,coverage,announced,2024-10,MAR-005;MAR-009;MAR-012;MAR-013;MAR-020,MAR-001=none,
+MAR,national,text,coverage,,,,,nothing held
+MAR,national,period,coverage,to:2020,2021-11-22,MAR-018,,nothing dated since 2023-09-28
+MAR,national,plan,coverage,costed,2026-08-03,MAR-002;MAR-014,MAR-006=actions;MAR-011=actions;MAR-016=actions,
+MAR,national,reporting,coverage,results,2026-08-03,MAR-003;MAR-019,MAR-004=activity,
+MAR,national,last12,qualifier,advancing,2026-07-17,MAR-007;MAR-008,,

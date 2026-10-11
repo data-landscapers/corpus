@@ -1,14 +1,34 @@
 {
   "slug": "2020-03-01-nosi-plano-acao-global-estrategico-2019-2022",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity",
-     "fact": "NOSi's 2019-2022 action plan states that implementation of the Estratégia para a Economia Digital (connectivity hub, capacity-building hub, service-provision hub) is under way under the Government programme with African Development Bank and World Bank support; it gives no results against the strategy's targets (the document gives no date for the statement, so its published date of March 2020 is used).",
-     "as_of": "2020-03", "date_precision": "month",
-     "system": "Estratégia para a Economia Digital", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "NOSi's 2019-2022 action plan states that implementation of the Estratégia para a Economia Digital (connectivity hub, capacity-building hub, service-provision hub) is under way under the Government programme with African Development Bank and World Bank support; it gives no results against the strategy's targets (the document gives no date for the statement, so its published date of March 2020 is used).",
+      "as_of": "2020-03",
+      "date_precision": "month",
+      "system": "Estratégia para a Economia Digital de Cabo Verde",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Estratégia para a Economia Digital", "country_label": "Estratégia para a Economia Digital", "class": "national", "platform": "", "owner": "Government of Cabo Verde", "tiers": "Three hubs: connectivity, capacity building, service provision"},
-    {"system": "Plano de Ação Global Estratégico Horizonte 2019-2022", "country_label": "Plano de Ação Global Estratégico Horizonte 2019-2022", "class": "ministry-plan", "platform": "", "owner": "NOSi, E.P.E.", "tiers": "The state technology company's own plan, including a 2020 activity plan and budget"}
+    {
+      "system": "Estratégia para a Economia Digital",
+      "country_label": "Estratégia para a Economia Digital",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": "Three hubs: connectivity, capacity building, service provision"
+    },
+    {
+      "system": "Plano de Ação Global Estratégico Horizonte 2019-2022",
+      "country_label": "Plano de Ação Global Estratégico Horizonte 2019-2022",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "NOSi, E.P.E.",
+      "tiers": "The state technology company's own plan, including a 2020 activity plan and budget"
+    }
   ],
   "note": ""
 }

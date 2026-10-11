@@ -1,11 +1,56 @@
 {
   "slug": "2026-01-22-digital-economy-1bn-gdp-2034",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Citizen says that 'while launching the digital economy strategy in 2024, President Samia Suluhu Hassan' spoke; the paper's verb is 'launching', the actor is the head of state, and no adopting act is named.", "as_of": "2024", "date_precision": "year", "system": "Digital Economy Strategic Framework (2024-2034)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Citizen (2026-01-22) describes the 10-year Digital Economy Strategic Framework (2024-2034), which Tanzania 'begins implementing', as positioning ICT as a catalyst across agriculture, health, finance, education and industry; its stated period runs to 2034 and had not ended, and the article links no text. Text public: not stated", "as_of": "2026-01-22", "date_precision": "day", "system": "Digital Economy Strategic Framework (2024-2034)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The Citizen lists the framework's dated targets with no cost stated: ICT at 3% of GDP by 2029 (from about 1.5% in 2022/23), 80% broadband and internet penetration by 2029, 90% digital literacy by 2029, 80,000 teachers trained by 2028, mobile money above 70%, and at least 1,000 new startups over five years.", "as_of": "2026-01-22", "date_precision": "day", "system": "Digital Economy Strategic Framework (2024-2034)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "Ministry of Communication and Information Technology figures given at the conference (758 towers built by December 2025, 304 upgraded from 2G, about 660 public institutions connected against a target of at least 900 service points) are presented as supporting the strategy; no published report against the framework's own targets is mentioned.", "as_of": "2025-12", "date_precision": "month", "system": "Digital Economy Strategic Framework (2024-2034)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The 9th Tanzania Annual ICT Conference opened on 2026-01-19 with the Minister, Angellah Kairuki, saying delivery must meet the framework's targets on time, and the paper reporting that Tanzania 'begins implementing' the framework.", "as_of": "2026-01-19", "date_precision": "day", "system": "Digital Economy Strategic Framework (2024-2034)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Citizen says that 'while launching the digital economy strategy in 2024, President Samia Suluhu Hassan' spoke; the paper's verb is 'launching', the actor is the head of state, and no adopting act is named.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "The Citizen (2026-01-22) describes the 10-year Digital Economy Strategic Framework (2024-2034), which Tanzania 'begins implementing', as positioning ICT as a catalyst across agriculture, health, finance, education and industry; its stated period runs to 2034 and had not ended, and the article links no text. Text public: not stated",
+      "as_of": "2026-01-22",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The Citizen lists the framework's dated targets with no cost stated: ICT at 3% of GDP by 2029 (from about 1.5% in 2022/23), 80% broadband and internet penetration by 2029, 90% digital literacy by 2029, 80,000 teachers trained by 2028, mobile money above 70%, and at least 1,000 new startups over five years.",
+      "as_of": "2026-01-22",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "Ministry of Communication and Information Technology figures given at the conference (758 towers built by December 2025, 304 upgraded from 2G, about 660 public institutions connected against a target of at least 900 service points) are presented as supporting the strategy; no published report against the framework's own targets is mentioned.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The 9th Tanzania Annual ICT Conference opened on 2026-01-19 with the Minister, Angellah Kairuki, saying delivery must meet the framework's targets on time, and the paper reporting that Tanzania 'begins implementing' the framework.",
+      "as_of": "2026-01-19",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": "Class national rests on the article's description of the framework (a digital economy strategy covering all sectors with national targets, launched by the President). Governance and finance aspects are not stated for the framework."

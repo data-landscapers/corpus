@@ -1,11 +1,36 @@
 {
   "slug": "2026-02-10-numerique-gouv-bj-seminaire-strategie-numerique-2031",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The digital ministry's portal reports that a strategic seminar on 5-6 February 2026, under the Ministry of Economy and Finance and the Ministry of Digital Affairs, marked a key step in drawing up Benin's digital strategy to 2031, with the drafting led by Deloitte.", "as_of": "2026-02-06", "date_precision": "day", "system": "stratégie numérique du Bénin à l'horizon 2031", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The 5-6 February 2026 seminar brought public sector, private operators and technical partners together to define a vision, orientations and priority initiatives for the next five years of the 2031 digital strategy.", "as_of": "2026-02-06", "date_precision": "day", "system": "stratégie numérique du Bénin à l'horizon 2031", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The digital ministry's portal reports that a strategic seminar on 5-6 February 2026, under the Ministry of Economy and Finance and the Ministry of Digital Affairs, marked a key step in drawing up Benin's digital strategy to 2031, with the drafting led by Deloitte.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "Stratégie numérique du Bénin 2031",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The 5-6 February 2026 seminar brought public sector, private operators and technical partners together to define a vision, orientations and priority initiatives for the next five years of the 2031 digital strategy.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "Stratégie numérique du Bénin 2031",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Vision Bénin 2060 Alafia, un monde de splendeurs", "country_label": "Bénin 2060 ALAFIA", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national; the long-term vision in which the 2031 digital strategy is to be anchored"}
+    {
+      "system": "Vision Bénin 2060 Alafia, un monde de splendeurs",
+      "country_label": "Bénin 2060 ALAFIA",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "government",
+      "tiers": "national; the long-term vision in which the 2031 digital strategy is to be anchored"
+    }
   ],
   "note": ""
 }

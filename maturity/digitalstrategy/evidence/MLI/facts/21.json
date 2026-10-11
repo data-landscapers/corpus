@@ -1,17 +1,90 @@
 {
   "slug": "2023-04-01-usaid-deca-mali",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "USAID's DECA states that in 2015 the Ministry of Communication and Digital Economy (MCEN) was lead architect of Mali Numerique 2020, the country's digital agenda; it names no adopting act or approving body.", "as_of": "2015", "date_precision": "year", "system": "Mali Numérique 2020", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The DECA describes Mali Numerique 2020 as the national digital strategy for 2015-2019, a four-year strategy, and says the country has been governed by an outdated one for the past few years.", "as_of": "2019", "date_precision": "year", "system": "Mali Numérique 2020", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The DECA says Mali Numerique 2020 set six objectives to be met by 2020, each with action items that were narrowly focused (for example one online portal for digital content, two e-commerce platforms); no cost is given.", "as_of": "2015", "date_precision": "year", "system": "Mali Numérique 2020", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "none", "fact": "The DECA states that more than seven years after the launch of the four-year strategy no final official assessment of its achievements exists, so progress against its objectives cannot be evaluated (as at the document's April 2023 publication date).", "as_of": "2023-04", "date_precision": "month", "system": "Mali Numérique 2020", "class": "national"},
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The DECA says the government is currently drafting a new digital strategy, referred to as the 2023-2027 digital strategy, and recommends supporting its validation and adoption (as at the document's April 2023 publication date).", "as_of": "2023-04", "date_precision": "month", "system": "2023-2027 digital strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "USAID's DECA states that in 2015 the Ministry of Communication and Digital Economy (MCEN) was lead architect of Mali Numerique 2020, the country's digital agenda; it names no adopting act or approving body.",
+      "as_of": "2015",
+      "date_precision": "year",
+      "system": "Mali Numérique 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2020",
+      "fact": "The DECA describes Mali Numerique 2020 as the national digital strategy for 2015-2019, a four-year strategy, and says the country has been governed by an outdated one for the past few years.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Mali Numérique 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The DECA says Mali Numerique 2020 set six objectives to be met by 2020, each with action items that were narrowly focused (for example one online portal for digital content, two e-commerce platforms); no cost is given.",
+      "as_of": "2015",
+      "date_precision": "year",
+      "system": "Mali Numérique 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "none",
+      "fact": "The DECA states that more than seven years after the launch of the four-year strategy no final official assessment of its achievements exists, so progress against its objectives cannot be evaluated (as at the document's April 2023 publication date).",
+      "as_of": "2023-04",
+      "date_precision": "month",
+      "system": "Mali Numérique 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The DECA says the government is currently drafting a new digital strategy, referred to as the 2023-2027 digital strategy, and recommends supporting its validation and adoption (as at the document's April 2023 publication date).",
+      "as_of": "2023-04",
+      "date_precision": "month",
+      "system": "Stratégie numérique 2023-2027",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Mali Numérique 2020", "country_label": "Stratégie nationale de développement de l'économie numérique", "class": "national", "platform": "", "owner": "Ministry of Communication and Digital Economy (MCEN)", "tiers": "national; objectives span private-sector productivity, telecom infrastructure and e-government reform"},
-    {"system": "2023-2027 digital strategy", "country_label": "", "class": "", "platform": "", "owner": "MCEN", "tiers": "national; in drafting as at April 2023; described as a new comprehensive framework for the digital economy"},
-    {"system": "national financial inclusion strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national; pending adoption as at April 2023"},
-    {"system": "national e-commerce strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national; to be drafted with multi-stakeholder participation"}
+    {
+      "system": "Mali Numérique 2020",
+      "country_label": "Stratégie nationale de développement de l'économie numérique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communication and Digital Economy (MCEN)",
+      "tiers": "national; objectives span private-sector productivity, telecom infrastructure and e-government reform"
+    },
+    {
+      "system": "2023-2027 digital strategy",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "MCEN",
+      "tiers": "national; in drafting as at April 2023; described as a new comprehensive framework for the digital economy"
+    },
+    {
+      "system": "national financial inclusion strategy",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; pending adoption as at April 2023"
+    },
+    {
+      "system": "national e-commerce strategy",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; to be drafted with multi-stakeholder participation"
+    }
   ],
   "note": "Class left empty for the 2023-2027 digital strategy: the DECA dates its drafting but does not describe its scope beyond a comprehensive digital-economy framework. The DECA gives the period 2015-2019 for Mali Numerique 2020 while noting it was in place since 2014; the 2015-2019 period is as the document states it."
 }

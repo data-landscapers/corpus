@@ -1,13 +1,52 @@
 {
   "slug": "2025-12-09-ucc-annual-communications-sector-report-2024",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Minister of ICT and National Guidance writes in the foreword that 'in 2023 the Ministry developed the Digital Transformation Roadmap', with the overall objective of integrating ICTs in all aspects of life; the source's verb is 'developed', by the Ministry, and no adopting act or body is named.", "as_of": "2023", "date_precision": "year", "system": "Digital Transformation Roadmap", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The report headlines the Digital Transformation Roadmap (2023/2024-2027/2028), led by the Ministry of ICT and National Guidance; the report's published date 2025-12-09 is used as the as-of and falls inside that period. Text public: not stated", "as_of": "2025-12-09", "date_precision": "day", "system": "Digital Transformation Roadmap", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The Minister of ICT and National Guidance writes in the foreword that 'in 2023 the Ministry developed the Digital Transformation Roadmap', with the overall objective of integrating ICTs in all aspects of life; the source's verb is 'developed', by the Ministry, and no adopting act or body is named.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The report headlines the Digital Transformation Roadmap (2023/2024-2027/2028), led by the Ministry of ICT and National Guidance; the report's published date 2025-12-09 is used as the as-of and falls inside that period. Text public: not stated",
+      "as_of": "2025-12-09",
+      "date_precision": "day",
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap (2023/2024-2027/2028)", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": "described as expanding digital infrastructure (broadband, fibre, data centres), e-services, cybersecurity and digital literacy"},
-    {"system": "NDP IV Digital Transformation Programme", "country_label": "Digital Transformation Programme of NDP IV", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; targets for FY2024/25 to FY2029/30"},
-    {"system": "Uganda Communications Universal Service Access Fund (UCUSAF)", "country_label": "UCUSAF", "class": "programme", "platform": "", "owner": "Uganda Communications Commission", "tiers": "63 sites for underserved regions"}
+    {
+      "system": "Digital Transformation Roadmap",
+      "country_label": "Digital Transformation Roadmap (2023/2024-2027/2028)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of ICT and National Guidance",
+      "tiers": "described as expanding digital infrastructure (broadband, fibre, data centres), e-services, cybersecurity and digital literacy"
+    },
+    {
+      "system": "NDP IV Digital Transformation Programme",
+      "country_label": "Digital Transformation Programme of NDP IV",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; targets for FY2024/25 to FY2029/30"
+    },
+    {
+      "system": "Uganda Communications Universal Service Access Fund (UCUSAF)",
+      "country_label": "UCUSAF",
+      "class": "programme",
+      "platform": "",
+      "owner": "Uganda Communications Commission",
+      "tiers": "63 sites for underserved regions"
+    }
   ],
   "note": "Class left empty on the Roadmap: its stated scope covers infrastructure and services, but the report says the Ministry developed and leads it and names no whole-of-government adopting act, so national vs ministry-plan is for the parent."
 }

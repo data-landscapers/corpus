@@ -1,15 +1,70 @@
 {
   "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Paradigm Initiative's six-country study lists Resolution No. 52/2019 as the Strategic Plan for the Information Society (2019-2028) in its table of Mozambique's national digital strategies, led by MCTES, INCM and the Ministry of Communications and Digital Transformation.", "as_of": "2019", "date_precision": "year", "system": "Strategic Plan for the Information Society", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The study gives the Strategic Plan for the Information Society a 2019-2028 period and links the text of Resolution 52/2019 on a government site; as_of is the study's publication date.", "as_of": "2026-09-22", "date_precision": "day", "system": "Strategic Plan for the Information Society", "class": ""},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The study says execution of the Strategic Plan for the Information Society is hampered by limited consolidated public reporting and heavy dependence on donor cycles, with World Bank projects financing broadband and governance work; as_of is the study's publication date.", "as_of": "2026-09-22", "date_precision": "day", "system": "Strategic Plan for the Information Society", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Paradigm Initiative's six-country study lists Resolution No. 52/2019 as the Strategic Plan for the Information Society (2019-2028) in its table of Mozambique's national digital strategies, led by MCTES, INCM and the Ministry of Communications and Digital Transformation.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The study gives the Strategic Plan for the Information Society a 2019-2028 period and links the text of Resolution 52/2019 on a government site; as_of is the study's publication date.",
+      "as_of": "2026-09-22",
+      "date_precision": "day",
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The study says execution of the Strategic Plan for the Information Society is hampered by limited consolidated public reporting and heavy dependence on donor cycles, with World Bank projects financing broadband and governance work; as_of is the study's publication date.",
+      "as_of": "2026-09-22",
+      "date_precision": "day",
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Strategic Plan for the Information Society 2019-2028", "country_label": "Plano Estratégico para a Sociedade de Informação", "class": "", "platform": "", "owner": "MCTES; INCM; Ministry of Communications and Digital Transformation", "tiers": "national; Resolution 52/2019"},
-    {"system": "Policy for the Information Society", "country_label": "Política para a Sociedade de Informação (Resolution 17/2018)", "class": "", "platform": "", "owner": "Government", "tiers": "national"},
-    {"system": "Digital Governance and Economy Project (World Bank)", "country_label": "", "class": "programme", "platform": "", "owner": "World Bank / Government", "tiers": "national"},
-    {"system": "Digital Acceleration Project (World Bank)", "country_label": "", "class": "programme", "platform": "", "owner": "World Bank / Government", "tiers": "national"}
+    {
+      "system": "Strategic Plan for the Information Society 2019-2028",
+      "country_label": "Plano Estratégico para a Sociedade de Informação",
+      "class": "",
+      "platform": "",
+      "owner": "MCTES; INCM; Ministry of Communications and Digital Transformation",
+      "tiers": "national; Resolution 52/2019"
+    },
+    {
+      "system": "Policy for the Information Society",
+      "country_label": "Política para a Sociedade de Informação (Resolution 17/2018)",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national"
+    },
+    {
+      "system": "Digital Governance and Economy Project (World Bank)",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank / Government",
+      "tiers": "national"
+    },
+    {
+      "system": "Digital Acceleration Project (World Bank)",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank / Government",
+      "tiers": "national"
+    }
   ],
   "note": "The document lists the Strategic Plan for the Information Society as a national strategy by name and dates but does not describe its scope, so class is left empty. It says reporting is limited but gives no value fitting the reporting list, so no reporting fact is recorded."
 }

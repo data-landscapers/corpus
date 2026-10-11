@@ -1,11 +1,34 @@
 {
   "slug": "2026-09-11-campustimes-yaaka-plus-offline-learning-open-call-uganda",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article refers to the Digital Transformation Roadmap 2023-2028 as the government's, a stated period of 2023 to 2028; the article's published date 2026-09-11 is used as the as-of, and it falls inside that period. Text public: not stated", "as_of": "2026-09-11", "date_precision": "day", "system": "Digital Transformation Roadmap 2023-2028", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The article refers to the Digital Transformation Roadmap 2023-2028 as the government's, a stated period of 2023 to 2028; the article's published date 2026-09-11 is used as the as-of, and it falls inside that period. Text public: not stated",
+      "as_of": "2026-09-11",
+      "date_precision": "day",
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Uganda Vision 2040", "country_label": "Digital Uganda Vision 2040", "class": "", "platform": "", "owner": "government", "tiers": ""},
-    {"system": "Digital Transformation Roadmap 2023-2028", "country_label": "Digital Transformation Roadmap 2023-2028", "class": "", "platform": "", "owner": "government", "tiers": ""}
+    {
+      "system": "Digital Uganda Vision 2040",
+      "country_label": "Digital Uganda Vision 2040",
+      "class": "",
+      "platform": "",
+      "owner": "government",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Transformation Roadmap 2023-2028",
+      "country_label": "Digital Transformation Roadmap 2023-2028",
+      "class": "",
+      "platform": "",
+      "owner": "government",
+      "tiers": ""
+    }
   ],
   "note": "The article gives the Roadmap's period (2023-2028) but does not describe its scope, so the fact is recorded with class left empty; the Vision is named without description."
 }

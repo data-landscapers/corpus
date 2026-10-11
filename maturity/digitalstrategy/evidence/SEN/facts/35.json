@@ -1,12 +1,44 @@
 {
   "slug": "2026-03-27-biometricupdate-e-senegal-portal",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Biometric Update says the New Deal Technologique digital transformation strategy 'was launched in early 2025 by President Bassirou Diomaye Faye'.", "as_of": "2025", "date_precision": "year", "system": "New Deal Technologique", "class": ""},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 24 March 2026 Prime Minister Ousmane Sonko launched the e-Senegal digital government platform as an implementation phase of the New Deal Technologique, and a sovereign cloud, a unified government payment system and a consular platform were unveiled with it.", "as_of": "2026-03-24", "date_precision": "day", "system": "New Deal Technologique", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Biometric Update says the New Deal Technologique digital transformation strategy 'was launched in early 2025 by President Bassirou Diomaye Faye'.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 24 March 2026 Prime Minister Ousmane Sonko launched the e-Senegal digital government platform as an implementation phase of the New Deal Technologique, and a sovereign cloud, a unified government payment system and a consular platform were unveiled with it.",
+      "as_of": "2026-03-24",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "Presidency of the Republic", "tiers": "national"},
-    {"system": "e-Senegal", "country_label": "e-Senegal", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+    {
+      "system": "New Deal Technologique",
+      "country_label": "New Deal Technologique",
+      "class": "",
+      "platform": "",
+      "owner": "Presidency of the Republic",
+      "tiers": "national"
+    },
+    {
+      "system": "e-Senegal",
+      "country_label": "e-Senegal",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    }
   ],
   "note": "Class left empty: the document gives objectives (95 percent connectivity and 90 percent of administrative procedures digitised by 2030, which differs from the 2034 horizon in other documents) but not the strategy's scope across economy and state. Gates Foundation funding support is stated, not tied to a budget line. Launch by the head of state is recorded as adopted under the study's ladder."
 }

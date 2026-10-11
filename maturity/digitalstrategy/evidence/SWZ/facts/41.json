@@ -1,26 +1,26 @@
 {
- "slug": "2025-07-31 Eswatini's Digital Transformation Crucial to Unlocking Growth, Jobs, and Economic Resilience",
- "facts": [
-  {
-   "sub_indicator": "national",
-   "aspect": "period",
-   "value": "current",
-   "fact": "The Minister for Economic Planning and Development, Thambo Gina, is quoted on 2025-07-31 saying the World Bank report 'aligns with the Kingdom of Eswatini's 2024-2028 digital strategy', which puts the strategy within its stated 2024-2028 period. Text public: not stated.",
-   "as_of": "2025-07-31",
-   "date_precision": "day",
-   "system": "Eswatini 2024-2028 digital strategy",
-   "class": ""
-  }
- ],
- "systems": [
-  {
-   "system": "Eswatini 2024-2028 digital strategy",
-   "country_label": "Kingdom of Eswatini's 2024-2028 digital strategy",
-   "class": "",
-   "platform": "",
-   "owner": "",
-   "tiers": ""
-  }
- ],
- "note": "The press release quotes the Minister for Economic Planning and Development saying the report 'aligns with the Kingdom of Eswatini's 2024-2028 digital strategy'; the release does not describe that strategy's scope, so class is empty."
+  "slug": "2025-07-31 Eswatini's Digital Transformation Crucial to Unlocking Growth, Jobs, and Economic Resilience",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "The Minister for Economic Planning and Development, Thambo Gina, is quoted on 2025-07-31 saying the World Bank report 'aligns with the Kingdom of Eswatini's 2024-2028 digital strategy', which puts the strategy within its stated 2024-2028 period. Text public: not stated.",
+      "as_of": "2025-07-31",
+      "date_precision": "day",
+      "system": "Eswatini Digitalisation Strategy 2024-2028",
+      "class": "government"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Eswatini 2024-2028 digital strategy",
+      "country_label": "Kingdom of Eswatini's 2024-2028 digital strategy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The press release quotes the Minister for Economic Planning and Development saying the report 'aligns with the Kingdom of Eswatini's 2024-2028 digital strategy'; the release does not describe that strategy's scope, so class is empty."
 }

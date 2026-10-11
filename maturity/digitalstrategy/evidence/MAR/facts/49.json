@@ -1,12 +1,44 @@
 {
   "slug": "2025-03-14-morocco-expands-digital-platform-business-creation",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "Morocco World News says Morocco has allocated MAD 11 billion for 2024-2026 under Morocco's Digital Strategy 2030, with targets of 3,000 start-ups, 100,000 people trained a year and 240,000 jobs by the end of the decade.", "as_of": "2025-03-14", "date_precision": "day", "system": "Digital Strategy 2030", "class": ""},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "Morocco World News says Morocco has allocated MAD 11 billion for 2024-2026, tying it to Morocco's Digital Strategy 2030 without naming the budget line.", "as_of": "2025-03-14", "date_precision": "day", "system": "Digital Strategy 2030", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "Morocco World News says Morocco has allocated MAD 11 billion for 2024-2026 under Morocco's Digital Strategy 2030, with targets of 3,000 start-ups, 100,000 people trained a year and 240,000 jobs by the end of the decade.",
+      "as_of": "2025-03-14",
+      "date_precision": "day",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "Morocco World News says Morocco has allocated MAD 11 billion for 2024-2026, tying it to Morocco's Digital Strategy 2030 without naming the budget line.",
+      "as_of": "2025-03-14",
+      "date_precision": "day",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Strategy 2030", "country_label": "Morocco's Digital Strategy 2030", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "OMPIC electronic business creation platform", "country_label": "OMPIC business creation platform", "class": "", "platform": "", "owner": "OMPIC", "tiers": "national since March 2025, after a Rabat pilot in February 2023"}
+    {
+      "system": "Digital Strategy 2030",
+      "country_label": "Morocco's Digital Strategy 2030",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "OMPIC electronic business creation platform",
+      "country_label": "OMPIC business creation platform",
+      "class": "",
+      "platform": "",
+      "owner": "OMPIC",
+      "tiers": "national since March 2025, after a Rabat pilot in February 2023"
+    }
   ],
   "note": "Class is left empty on the facts: the article does not describe the strategy's scope. Dated at publication because it gives no event date for the allocation beyond the 2024-2026 period."
 }

@@ -1,0 +1,290 @@
+iso3,n,aspect,value,action,why
+BEN,24,standing,announced,classed national,national digital policy: read as Stratégie numérique du Bénin 2031
+BFA,13,plan,actions,classed national,digital transformation agenda: read as Feuille de route de transformation digitale 2030 (douze chantiers)
+BFA,23,period,current,classed national,long-term digital strategy toward 2030: read as Feuille de route de transformation digitale 2030 (douze chantiers)
+BWA,46,standing,adopted,classed national,GovTech / Digital Transformation strategy (GTMI 2022 indicator I-35): read as SmartBots Digital Transformation Strategy
+CIV,29,plan,actions,classed ministry-plan,Digital strategy of 40 flagship projects across seven pillars: read as Feuille de route numérique 2026-2028
+CIV,59,standing,announced,classed ministry-plan,Digital transformation roadmap presented at the Africa Investment Forum 2025: read as Feuille de route numérique 2026-2028
+CIV,59,plan,costed,classed ministry-plan,Digital transformation roadmap presented at the Africa Investment Forum 2025: read as Feuille de route numérique 2026-2028
+CIV,70,standing,adopted,classed national,Stratégie Nationale de Développement du Numérique (SNDCI 2021-2025): read as Stratégie nationale de développement du numérique 2021-2025
+CIV,70,period,current,classed national,Stratégie Nationale de Développement du Numérique (SNDCI 2021-2025): read as Stratégie nationale de développement du numérique 2021-2025
+CIV,73,standing,adopted,classed national,National Digital Strategy 2025: read as Stratégie nationale de développement du numérique 2021-2025
+CIV,85,standing,adopted,classed national,Stratégie Nationale de Développement du Numérique (SNNCI 2021-2025): read as Stratégie nationale de développement du numérique 2021-2025
+CIV,85,period,current,classed national,Stratégie Nationale de Développement du Numérique (SNNCI 2021-2025): read as Stratégie nationale de développement du numérique 2021-2025
+COD,2,standing,validated,classed national,Politique sectorielle de l'économie numérique (PSEN): read as Politique sectorielle de l'économie numérique 2026-2030
+COD,13,standing,announced,classed national,Stratégie nationale de l'économie numérique (SNEN): read as Plan national du numérique 2026-2030 (PNN2)
+COD,17,plan,costed,classed national,Government plan to invest US$1 billion in digital development 2026-2030: read as Plan national du numérique 2026-2030 (PNN2)
+COD,17,period,current,classed national,Government plan to invest US$1 billion in digital development 2026-2030: read as Plan national du numérique 2026-2030 (PNN2)
+COD,20,standing,drafting,classed national,Draft digital transformation strategy (launched 2025): read as Plan national du numérique 2026-2030 (PNN2)
+COD,20,plan,costed,classed national,Draft digital transformation strategy (launched 2025): read as Plan national du numérique 2026-2030 (PNN2)
+COD,34,period,current,classed national,Plan national du numérique Horizon 2025: read as Plan National du Numérique Horizon 2025
+COD,35,standing,announced,classed national,Plan national du numérique (2025): read as Plan National du Numérique Horizon 2025
+COD,47,standing,announced,classed national,National digital strategy (2019): read as Plan National du Numérique Horizon 2025
+COD,53,standing,announced,classed national,"National Digital Economy & AI Plan (2026-2030, USD 1B): read as Plan national du numérique 2026-2030 (PNN2)"
+COD,53,plan,costed,classed national,"National Digital Economy & AI Plan (2026-2030, USD 1B): read as Plan national du numérique 2026-2030 (PNN2)"
+COD,53,period,current,classed national,"National Digital Economy & AI Plan (2026-2030, USD 1B): read as Plan national du numérique 2026-2030 (PNN2)"
+COG,20,standing,drafting,classed national,stratégie de l'économie numérique: read as Stratégie numérique 2030
+COG,27,standing,drafting,classed national,Digital Strategy 2030: read as Stratégie numérique 2030
+CPV,29,plan,actions,classed government,Estratégia para a Governação Digital de Cabo Verde / PAEGDCV 2021-2025: read as Estratégia para a Governação Digital de Cabo Verde 2021-2024
+CPV,29,period,current,classed government,Estratégia para a Governação Digital de Cabo Verde / PAEGDCV 2021-2025: read as Estratégia para a Governação Digital de Cabo Verde 2021-2024
+CPV,40,governance,body:mandated,classed national,Cape Verde's Digital Strategy: read as Agenda Digital de Cabo Verde 2035
+CPV,41,standing,adopted,classed government,Estratégia para a Governação Digital de Cabo Verde 2021-2024: read as Estratégia para a Governação Digital de Cabo Verde 2021-2024
+CPV,41,period,expired,classed government,Estratégia para a Governação Digital de Cabo Verde 2021-2024: read as Estratégia para a Governação Digital de Cabo Verde 2021-2024
+GMB,1,period,current,classed national,Digital Economy Master Plan 2024-2034: read as National Digital Economy Master Plan 2024-2034
+GMB,15,period,current,classed national,National Digital Economy Master Plan 2023-2033: read as National Digital Economy Master Plan 2024-2034
+GMB,22,period,current,classed national,Digital Economy Master Plan 2023-2033: read as National Digital Economy Master Plan 2024-2034
+GMB,41,standing,validated,classed national,National Digital ID and Digital Transformation Strategy 2023-2028: read as National Digital ID and Digital Transformation Strategy 2023-2028
+GMB,41,period,current,classed national,National Digital ID and Digital Transformation Strategy 2023-2028: read as National Digital ID and Digital Transformation Strategy 2023-2028
+GMB,41,plan,actions,classed national,National Digital ID and Digital Transformation Strategy 2023-2028: read as National Digital ID and Digital Transformation Strategy 2023-2028
+GMB,41,governance,finance:donor,classed national,National Digital ID and Digital Transformation Strategy 2023-2028: read as National Digital ID and Digital Transformation Strategy 2023-2028
+GMB,43,period,current,classed national,National Digital ID and Digital Transformation Strategy 2023-2028: read as National Digital ID and Digital Transformation Strategy 2023-2028
+GMB,52,standing,drafting,classed sector-ict,ICT Master Plan for The Gambia: read as ICT4D Policy and ICT Master Plan
+GMB,54,standing,drafting,classed sector-ict,ICT Master Plan: read as ICT4D Policy and ICT Master Plan
+GMB,55,standing,drafting,classed sector-ict,ICT Master Plan: read as ICT4D Policy and ICT Master Plan
+GMB,58,standing,validated,classed sector-ict,The Gambia ICT for Development (ICT4D) Policy Statement [2018-2028]: read as ICT4D Policy and ICT Master Plan
+GMB,58,period,current,classed sector-ict,The Gambia ICT for Development (ICT4D) Policy Statement [2018-2028]: read as ICT4D Policy and ICT Master Plan
+GNB,2,last12,advancing,classed national,National Digital Transformation Strategy for Guinea-Bissau: read as ENTD.GW 2025-2030
+KEN,1,period,current,classed national,National Digital Master Plan 2022 - 2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,1,plan,actions,classed national,National Digital Master Plan 2022 - 2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,6,period,current,classed national,National Digital Master Plan (2022-2032): read as Kenya National Digital Master Plan 2022-2032
+KEN,9,period,current,classed national,National Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,10,period,current,classed national,National Digital Master Plan (2022-2032): read as Kenya National Digital Master Plan 2022-2032
+KEN,60,period,current,classed national,Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,82,period,current,classed national,Kenya Digital Master Plan: read as Kenya National Digital Master Plan 2022-2032
+KEN,95,period,current,classed national,Kenya National Digital Master Plan (2022-2032): read as Kenya National Digital Master Plan 2022-2032
+KEN,104,period,current,classed national,National Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,106,period,current,classed national,National Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,106,plan,actions,classed national,National Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,113,period,current,classed national,Kenya National Digital Masterplan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,123,period,current,classed national,National Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,123,period,expired,classed national,Previous national digital master plan 2014-2017 (extended to 2022): read as National ICT Master Plan 2014-2017
+KEN,129,period,current,classed national,National Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,133,governance,finance:donor,classed national,National Digital Master Plan: read as Kenya National Digital Master Plan 2022-2032
+KEN,151,period,current,classed national,Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,151,plan,actions,classed national,Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,158,period,current,classed national,Kenya National Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,165,period,current,classed national,Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+KEN,169,period,current,classed national,Kenya National Digital Master Plan 2022-2032: read as Kenya National Digital Master Plan 2022-2032
+LBY,10,standing,adopted,classed thematic,National Artificial Intelligence Strategy 2026-2030: read as National Artificial Intelligence Strategy
+LBY,10,plan,actions,classed thematic,National Artificial Intelligence Strategy 2026-2030: read as National Artificial Intelligence Strategy
+LBY,10,last12,advancing,classed thematic,National Artificial Intelligence Strategy 2026-2030: read as National Artificial Intelligence Strategy
+LBY,11,last12,advancing,classed thematic,National Artificial Intelligence Strategy 2025-2030: read as National Artificial Intelligence Strategy
+LBY,12,reporting,activity,classed national,National Digital Transformation Strategy: read as National Digital Transformation Strategy 2023-2030
+LBY,14,standing,adopted,classed thematic,National AI strategy: read as National Artificial Intelligence Strategy
+LBY,18,reporting,activity,classed national,National Digital Transformation Strategy 2023-2030: read as National Digital Transformation Strategy 2023-2030
+LBY,21,standing,drafting,classed national,digital strategy of the National Committee for Digital Transformation: read as National Digital Transformation Strategy 2023-2030
+LSO,27,standing,announced,classed national,national digital transformation strategy: read as National Digital Transformation Strategy: Agenda 2030
+LSO,29,standing,announced,classed national,Digital Transformation Strategy: read as National Digital Transformation Strategy: Agenda 2030
+LSO,38,standing,adopted,classed national,National Digital Transformation Strategy: read as National Digital Transformation Strategy: Agenda 2030
+MAR,3,standing,none,classed national,(unnamed): read as No national digital strategy
+MAR,10,reporting,activity,classed national,Maroc Digital 2030: read as Maroc Digital 2030
+MAR,14,standing,announced,classed national,Maroc Digital 2030: read as Maroc Digital 2030
+MAR,14,plan,actions,classed national,Maroc Digital 2030: read as Maroc Digital 2030
+MAR,14,last12,advancing,classed national,Maroc Digital 2030: read as Maroc Digital 2030
+MAR,19,last12,advancing,classed national,Digital Morocco 2030: read as Maroc Digital 2030
+MAR,23,standing,announced,classed national,Maroc Digital 2030: read as Maroc Digital 2030
+MAR,27,governance,finance:donor,classed national,Digital Morocco 2030: read as Maroc Digital 2030
+MAR,33,plan,actions,classed national,Digital Morocco 2030: read as Maroc Digital 2030
+MAR,43,standing,announced,classed national,Digital Morocco 2030: read as Maroc Digital 2030
+MAR,46,standing,announced,classed national,digital roadmap (2020): read as Maroc Numeric 2013 and Maroc Digital 2020
+MAR,49,plan,costed,classed national,Digital Strategy 2030: read as Maroc Digital 2030
+MAR,49,governance,finance:domestic,classed national,Digital Strategy 2030: read as Maroc Digital 2030
+MAR,60,plan,actions,classed national,digital strategy: read as Maroc Digital 2030
+MAR,62,governance,body:mandated,classed national,Maroc Numérique 2013: read as Maroc Numeric 2013 and Maroc Digital 2020
+MAR,62,period,expired,classed national,Maroc Numérique 2013: read as Maroc Numeric 2013 and Maroc Digital 2020
+MAR,62,reporting,results,classed national,various digital strategies (Court of Accounts evaluation of online public services): read as Maroc Numeric 2013 and Maroc Digital 2020
+MAR,62,standing,announced,classed national,new national digital strategy: read as Maroc Digital 2030
+MDG,18,standing,announced,classed national,Strategic Digital Plan (PSN 2023-2028): read as Plan Stratégique Numérique 2023-2028
+MDG,19,plan,actions,classed national,Plan Stratégique Numérique 2023-2028: read as Plan Stratégique Numérique 2023-2028
+MDG,23,standing,announced,classed national,strategic roadmap: read as Feuille de route nationale pour le numérique
+MDG,31,plan,actions,classed national,Plan Stratégique Numérique 2023-2028: read as Plan Stratégique Numérique 2023-2028
+MLI,21,standing,drafting,classed national,2023-2027 digital strategy: read as Stratégie numérique 2023-2027
+MOZ,5,standing,adopted,classed national,Strategic Plan for the Information Society: read as Plano Estratégico para a Sociedade de Informação 2019-2028
+MOZ,5,period,current,classed national,Strategic Plan for the Information Society: read as Plano Estratégico para a Sociedade de Informação 2019-2028
+MOZ,5,governance,finance:donor,classed national,Strategic Plan for the Information Society: read as Plano Estratégico para a Sociedade de Informação 2019-2028
+MOZ,7,standing,drafting,classed national,"Estratégia Nacional de Transformação Digital, de Segurança Cibernética e de Governação de Dados: read as Estratégia Nacional de Transformação Digital"
+MOZ,38,governance,body:mandated,classed national,digital transformation plan: read as Estratégia Nacional de Transformação Digital
+MOZ,42,last12,regressing,classed national,Digital Transformation Strategy: read as Estratégia Nacional de Transformação Digital
+MOZ,55,standing,announced,classed national,Estratégia Nacional de Transformação Digital: read as Estratégia Nacional de Transformação Digital
+MOZ,56,standing,drafting,classed national,national Digital Transformation Strategy: read as Estratégia Nacional de Transformação Digital
+MOZ,65,last12,regressing,classed national,Digital Transformation Strategy: read as Estratégia Nacional de Transformação Digital
+MOZ,68,standing,adopted,classed sector-ict,Política para a Sociedade da Informação: read as Política para a Sociedade da Informação
+MOZ,71,plan,actions,classed national,National Digital Transformation Strategy 2025-2044: read as Estratégia Nacional de Transformação Digital
+MOZ,71,governance,body:mandated,classed national,National Digital Transformation Strategy 2025-2044: read as Estratégia Nacional de Transformação Digital
+MOZ,74,governance,body:mandated,classed national,digital transformation strategy: read as Estratégia Nacional de Transformação Digital
+MOZ,75,standing,drafting,classed national,National Digital Transformation Strategy of Mozambique: read as Estratégia Nacional de Transformação Digital
+MOZ,76,standing,none,classed national,National Digital Transformation Strategy: read as Estratégia Nacional de Transformação Digital
+MRT,3,governance,finance:donor,classed national,agenda de transformation numérique 2022-2025: read as Agenda national de transformation numérique 2022-2025
+MRT,9,period,expired,classed national,Agenda national de transition numérique 2022-2025: read as Agenda national de transformation numérique 2022-2025
+MRT,9,plan,actions,classed national,Agenda national de transition numérique 2022-2025: read as Agenda national de transformation numérique 2022-2025
+MRT,10,plan,actions,classed national,National Digital Transition Agenda 2022-2025: read as Agenda national de transformation numérique 2022-2025
+MRT,12,period,expired,classed national,National Digital Transformation Agenda (2022-2025): read as Agenda national de transformation numérique 2022-2025
+MRT,20,period,current,classed national,Agenda national de Transformation Numérique 2022-2025: read as Agenda national de transformation numérique 2022-2025
+MRT,33,period,expired,classed national,Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016: read as Stratégie nationale de modernisation de l'administration et des TIC 2012-2016
+MRT,35,standing,announced,unclassed,"stratégie de développement des technologies numériques: no document describes its scope, or it is another instrument"
+MRT,42,reporting,activity,classed national,stratégie nationale de transformation numérique: read as Agenda national de transformation numérique 2022-2025
+MRT,43,reporting,activity,classed national,stratégie nationale de transformation numérique: read as Agenda national de transformation numérique 2022-2025
+MRT,45,governance,finance:donor,classed national,Agenda National de Transformation Numérique: read as Agenda national de transformation numérique 2022-2025
+MRT,46,reporting,activity,classed national,Agenda Numérique National 2022-2025: read as Agenda national de transformation numérique 2022-2025
+MUS,27,governance,body:mandated,classed national,Digital Transformation Blueprint: read as Digital Transformation Blueprint 2025-2029
+MUS,32,standing,announced,classed national,national digital strategy (unnamed): read as Digital Transformation Blueprint 2025-2029
+MUS,32,governance,body:mandated,classed national,national digital strategy (unnamed): read as Digital Transformation Blueprint 2025-2029
+MUS,39,standing,adopted,classed government,Digital Government Transformation Strategy (DGTS): read as Digital Government Transformation Strategy
+MUS,53,period,current,classed national,Digital Transformation Blueprint 2025-2029: read as Digital Transformation Blueprint 2025-2029
+MWI,12,standing,drafting,classed national,National Digital Transformation Strategy: read as National Digital Transformation Strategy
+MWI,12,governance,body:none,classed national,National Digital Transformation Strategy: read as National Digital Transformation Strategy
+MWI,12,period,current,classed national,National Digitalization Policy 2023 - 2028: read as National Digitalization Policy 2023-2028
+MWI,26,standing,validated,classed national,National Digital Transformation Strategy: read as National Digital Transformation Strategy
+MWI,28,standing,announced,classed national,National Digitalization Policy: read as National Digitalization Policy 2023-2028
+MWI,32,standing,drafting,classed national,National Digital Transformation Strategy: read as National Digital Transformation Strategy
+MWI,32,last12,advancing,classed national,National Digital Transformation Strategy: read as National Digital Transformation Strategy
+MWI,38,period,current,classed national,Malawi Digitalisation Policy 2023-28: read as National Digitalization Policy 2023-2028
+MWI,40,period,current,classed national,National Digital Economy Strategy (2023-2028): read as National Digital Economy Strategy 2023-2028
+MWI,53,standing,adopted,classed national,National Digitalization Policy (2023-2028): read as National Digitalization Policy 2023-2028
+MWI,86,standing,adopted,classed national,Digital Economy Strategy: read as National Digital Economy Strategy 2023-2028
+MWI,86,standing,adopted,classed national,National Digitalisation Policy: read as National Digitalization Policy 2023-2028
+MWI,87,standing,drafting,classed national,Digital Economy Strategy: read as National Digital Economy Strategy 2023-2028
+NAM,5,standing,announced,classed national,National Digital Strategy: read as National Digital Strategy 2025-2029
+NAM,5,governance,body:mandated,classed national,National Digital Strategy: read as National Digital Strategy 2025-2029
+NAM,10,period,current,classed national,National Digital Strategy 2025-2029: read as National Digital Strategy 2025-2029
+NAM,26,period,current,classed national,2025-2029 digital strategy: read as National Digital Strategy 2025-2029
+NAM,31,period,current,classed national,National Digital Strategy 2025-2029: read as National Digital Strategy 2025-2029
+NAM,33,standing,announced,classed national,National Digital Strategy (NDS): read as National Digital Strategy 2025-2029
+NAM,42,standing,announced,classed national,National Digital Strategy 2025-2029: read as National Digital Strategy 2025-2029
+NAM,42,period,current,classed national,National Digital Strategy 2025-2029: read as National Digital Strategy 2025-2029
+NAM,59,period,current,classed national,National Digital Strategy 2025-2028: read as National Digital Strategy 2025-2029
+NAM,60,period,current,classed national,National Digital Strategy 2025-2028: read as National Digital Strategy 2025-2029
+NAM,61,period,current,classed national,National Digital Strategy 2025-2028: read as National Digital Strategy 2025-2029
+NAM,63,period,current,classed national,National Digital Strategy 2025-2028: read as National Digital Strategy 2025-2029
+NAM,63,last12,advancing,classed national,National Digital Strategy 2025-2028: read as National Digital Strategy 2025-2029
+NAM,70,standing,announced,classed national,National Digital Strategy: read as National Digital Strategy 2025-2029
+NER,12,period,current,classed national,politique nationale du numérique (2021-2030): read as Politique nationale du numérique 2021-2030
+NER,44,period,current,classed national,politique nationale du numérique (2021-2030): read as Politique nationale du numérique 2021-2030
+NGA,9,plan,actions,classed ministry-plan,National Digital Transformation Agenda: read as FMCIDE Strategic Blueprint 2023-2027
+NGA,23,period,current,classed national,National Digital Economy Policy and Strategy 2020-2030: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,51,standing,adopted,classed national,National Digital Economy Policy: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,51,period,current,classed national,National Digital Economy Policy: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,124,standing,announced,classed national,National Digital Economy Policy and Strategy (NDEPS) 2020-2030: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,124,period,current,classed national,National Digital Economy Policy and Strategy (NDEPS) 2020-2030: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,124,plan,actions,classed ministry-plan,National Strategic Blueprint 'Accelerating our collective prosperity through technical efficiency': read as FMCIDE Strategic Blueprint 2023-2027
+NGA,139,period,current,classed national,National Digital Economy Policy and Strategy 2020-2030: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,150,standing,adopted,classed national,National Digital Economy Policy and Strategy for a Digital Nigeria: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,150,reporting,activity,classed national,National Digital Economy Policy and Strategy for a Digital Nigeria: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,151,standing,announced,classed national,National Digital Economy Policy and Strategy: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,152,standing,announced,classed national,National Digital Economy Policy and Strategy: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,175,standing,adopted,classed national,National Digital Economy Policy and Strategy: read as National Digital Economy Policy and Strategy 2020-2030
+NGA,175,governance,body:mandated,classed national,National Digital Economy Policy and Strategy: read as National Digital Economy Policy and Strategy 2020-2030
+RWA,20,period,current,classed sector-ict,ICT Sector Strategic Plan 2024-2029: read as ICT Sector Strategic Plan 2024-2029
+RWA,25,period,current,classed sector-ict,ICT Sector Strategic Plan 2024-2029: read as ICT Sector Strategic Plan 2024-2029
+RWA,25,plan,actions,classed sector-ict,ICT Sector Strategic Plan 2024-2029: read as ICT Sector Strategic Plan 2024-2029
+RWA,59,period,current,classed national,"Digital Transformation Strategy for Rwanda (ICT Master Plan, 2021-2025): read as Digital Transformation Strategy for Rwanda (ICT Master Plan 2021-2025)"
+RWA,86,standing,announced,classed national,Smart Rwanda Master Plan: read as Smart Rwanda 2020 Master Plan
+RWA,101,period,expired,classed national,2020 Smart Rwanda Masterplan: read as Smart Rwanda 2020 Master Plan
+SDN,15,standing,announced,classed national,digital transformation strategy announced by the Digital transformation ministry: read as Digital transformation strategy (announced 2025)
+SEN,1,standing,announced,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,2,standing,announced,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,7,standing,announced,classed national,New Deal technologique: read as New Deal Technologique 2025-2034
+SEN,7,plan,costed,classed national,New Deal technologique: read as New Deal Technologique 2025-2034
+SEN,7,last12,advancing,classed national,New Deal technologique: read as New Deal Technologique 2025-2034
+SEN,16,last12,advancing,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,35,standing,adopted,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,35,last12,advancing,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,38,standing,announced,classed national,New Deal technologique: read as New Deal Technologique 2025-2034
+SEN,38,reporting,activity,classed national,New Deal technologique: read as New Deal Technologique 2025-2034
+SEN,42,standing,announced,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,42,governance,finance:domestic,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,42,governance,finance:donor,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,53,standing,adopted,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,53,governance,finance:donor,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SEN,55,governance,body:mandated,classed national,New Technological Deal (New Deal Technologique): read as New Deal Technologique 2025-2034
+SEN,101,period,current,classed national,Masterplan 2025-2034: read as New Deal Technologique 2025-2034
+SEN,107,plan,actions,classed national,New Deal technologique: read as New Deal Technologique 2025-2034
+SEN,108,standing,announced,classed national,New Deal Technologique: read as New Deal Technologique 2025-2034
+SLE,33,period,current,classed national,National Innovation and Digital Strategy: read as National Innovation and Digital Strategy 2019-2029
+SLE,47,standing,announced,classed national,national digital development policy: read as National Digital Development Policy 2021
+SLE,52,period,current,classed national,National Innovation & Digital Strategy: read as National Innovation and Digital Strategy 2019-2029
+SLE,53,standing,announced,classed national,National Innovation and Digital Strategy (NIDS): read as National Innovation and Digital Strategy 2019-2029
+SLE,53,period,current,classed national,National Innovation and Digital Strategy (NIDS): read as National Innovation and Digital Strategy 2019-2029
+SLE,54,standing,announced,classed national,National Digital Development Strategy (NDDS): read as National Digital Development Strategy 2022
+SLE,62,period,current,classed national,National Innovation and Digital Strategy: read as National Innovation and Digital Strategy 2019-2029
+SLE,64,standing,announced,classed national,National Innovation and Digital Strategy: read as National Innovation and Digital Strategy 2019-2029
+SLE,65,standing,drafting,classed national,National Digital Transformation Roadmap (NDTR): read as National Digital Transformation Roadmap
+SLE,67,governance,body:mandated,classed national,National Digital Development Policy: read as National Digital Development Policy 2021
+SLE,69,standing,drafting,classed national,National Digital Development Strategy (NDDS): read as National Digital Development Strategy 2022
+SLE,69,standing,drafting,classed national,National Digital Transformation Roadmap (NDTR): read as National Digital Transformation Roadmap
+SOM,5,period,current,classed national,National Digital Strategy: read as Digital Transformation Strategy 2025-2030
+SSD,29,reporting,activity,classed government,Digital Government Strategy: read as Digital Government Strategy
+SSD,34,standing,drafting,classed national,South Sudan Digital Development Road Map/Master Plan: read as Digital Development Road Map and Master Plan
+SWZ,31,period,current,classed government,Eswatini Digitalisation Strategy (2024-2028): read as Eswatini Digitalisation Strategy 2024-2028
+SWZ,31,governance,body:mandated,classed government,Eswatini Digitalisation Strategy (2024-2028): read as Eswatini Digitalisation Strategy 2024-2028
+SWZ,33,period,current,classed government,Eswatini 2024-2028 digital strategy: read as Eswatini Digitalisation Strategy 2024-2028
+SWZ,41,period,current,classed government,Eswatini 2024-2028 digital strategy: read as Eswatini Digitalisation Strategy 2024-2028
+SWZ,50,period,current,classed government,Eswatini Digitalisation Strategy 2024-2028: read as Eswatini Digitalisation Strategy 2024-2028
+SWZ,54,governance,finance:not-stated,classed government,national digital strategy: read as Eswatini Digitalisation Strategy 2024-2028
+SYC,2,governance,body:mandated,classed national,national AI and digital strategy: read as National AI and digital strategy
+TCD,9,period,current,classed national,stratégie numérique 2020-2030: read as Stratégie nationale de transformation numérique 2020-2030
+TCD,14,plan,costed,classed national,Tchad Connexion 2030: read as Tchad Connexion 2030
+TCD,18,standing,announced,classed national,Tchad Connexion 2030: read as Tchad Connexion 2030
+TCD,18,plan,costed,classed national,Tchad Connexion 2030: read as Tchad Connexion 2030
+TCD,30,period,current,classed national,national Digital Transformation Strategy (2020-2030): read as Stratégie nationale de transformation numérique 2020-2030
+TCD,30,standing,drafting,classed national,Chad Digital Strategy Horizon 2030: read as Chad Digital Strategy Horizon 2030
+TCD,30,governance,body:mandated,classed national,national Digital Transformation Strategy (2020-2030): read as Stratégie nationale de transformation numérique 2020-2030
+TCD,34,period,current,classed national,National Digital Transformation Strategy 2020–2030: read as Stratégie nationale de transformation numérique 2020-2030
+TCD,34,plan,actions,classed national,National Digital Transformation Strategy 2020–2030: read as Stratégie nationale de transformation numérique 2020-2030
+TCD,36,period,current,classed national,Stratégie Nationale de Transformation Numérique 2020-2030: read as Stratégie nationale de transformation numérique 2020-2030
+TCD,38,last12,advancing,classed national,Tchad Connexion 2030: read as Tchad Connexion 2030
+TGO,13,reporting,activity,classed national,Stratégie nationale Togo Digital 2025: read as Togo Digital 2025
+TGO,34,period,current,classed national,2020-2025 roadmap: read as Togo Digital 2025
+TUN,34,standing,adopted,classed national,National Digital Strategy 2021-2025: read as Stratégie nationale du numérique 2021-2025
+TUN,34,period,current,classed national,National Digital Strategy 2021-2025: read as Stratégie nationale du numérique 2021-2025
+TZA,7,period,current,classed national,10-year Digital Economy Strategic Plan to 2034: read as Digital Economy Strategic Framework 2024-2034
+TZA,9,period,current,classed national,National Digital Economy Strategy 2024-2034: read as Digital Economy Strategic Framework 2024-2034
+TZA,23,period,current,classed national,National Digital Economy Strategic Framework (2024-2034): read as Digital Economy Strategic Framework 2024-2034
+TZA,26,period,current,classed national,2024-2034 Digital Economy Strategy: read as Digital Economy Strategic Framework 2024-2034
+TZA,34,period,current,classed national,2024/34 Digital Economy Strategy Framework: read as Digital Economy Strategic Framework 2024-2034
+TZA,40,period,current,classed national,10-year Digital Economy Strategy Framework (2024-2034): read as Digital Economy Strategic Framework 2024-2034
+TZA,56,standing,adopted,classed national,Tanzania Digital Economy Strategy Framework: read as Digital Economy Strategic Framework 2024-2034
+TZA,56,period,current,classed national,Tanzania Digital Economy Strategy Framework: read as Digital Economy Strategic Framework 2024-2034
+TZA,56,governance,body:mandated,classed national,Tanzania Digital Economy Strategy Framework: read as Digital Economy Strategic Framework 2024-2034
+TZA,59,standing,adopted,classed national,Tanzania Digital Economy Strategic Framework 2024-2034: read as Digital Economy Strategic Framework 2024-2034
+TZA,59,period,current,classed national,Tanzania Digital Economy Strategic Framework 2024-2034: read as Digital Economy Strategic Framework 2024-2034
+TZA,63,standing,drafting,classed national,digital transformation strategy: read as Digital Economy Strategic Framework 2024-2034
+TZA,75,period,current,classed national,Tanzania Digital Economy Strategy Framework (2024-2034): read as Digital Economy Strategic Framework 2024-2034
+UGA,5,period,current,classed national,Digital Transformation Roadmap 2023-2028: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,6,period,current,classed national,Digital Transformation Roadmap 2024-2028: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,9,period,current,classed national,2023-2027 digital roadmap: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,9,plan,actions,classed national,2023-2027 digital roadmap: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,43,period,current,classed national,Digital Transformation Roadmap 2023/24-2027/28: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,44,period,current,classed national,Digital Transformation Roadmap 2023/24-2027/28: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,51,period,current,classed national,Digital Transformation Roadmap 2023/24-2027/28: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,54,standing,announced,classed national,Digital Transformation Roadmap: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,54,period,current,classed national,Digital Transformation Roadmap: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,56,period,current,classed national,Digital Transformation Roadmap 2023/24-2027/28: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,59,standing,announced,classed national,Digital Transformation Roadmap: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,59,period,current,classed national,Digital Transformation Roadmap: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,61,standing,announced,classed thematic,National Fourth Industrial Revolution Strategy: read as National Fourth Industrial Revolution Strategy
+UGA,72,standing,announced,classed national,Digital Transformation Roadmap: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,81,standing,drafting,classed national,Digital Transformation Roadmap for Uganda: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,94,period,current,classed national,Digital Transformation Roadmap 2023/24-2027/28: read as Digital Transformation Roadmap 2023/24-2027/28
+UGA,96,period,current,classed national,Digital Transformation Roadmap: read as Digital Transformation Roadmap 2023/24-2027/28
+ZAF,26,standing,adopted,classed government,Digital Transformation Roadmap (MyMzansi): read as Roadmap for the Digital Transformation of Government
+ZAF,34,reporting,activity,classed government,Digital Transformation Roadmap: read as Roadmap for the Digital Transformation of Government
+ZAF,34,plan,actions,classed government,Digital Transformation Roadmap: read as Roadmap for the Digital Transformation of Government
+ZAF,71,standing,adopted,classed government,Digital Transformation Roadmap: read as Roadmap for the Digital Transformation of Government
+ZAF,73,governance,finance:domestic,classed government,Digital transformation roadmap: read as Roadmap for the Digital Transformation of Government
+ZAF,92,period,current,classed government,South Africa's digital transformation strategy (roadmap to 2030): read as Roadmap for the Digital Transformation of Government
+ZMB,88,period,current,classed government,e-Government Master Plan 2018 to 2030: read as National Electronic Government Plan and SMART Zambia
+ZMB,88,standing,announced,classed government,SMART Zambia Agenda: read as National Electronic Government Plan and SMART Zambia
+DZA,3,standing,announced,revalued adopted,the source's own word is approved or adopted; an act named is not required (D3)
+DZA,60,standing,announced,revalued adopted,the source's own word is approved or adopted; an act named is not required (D3)
+DZA,7,standing,announced,revalued adopted,the source's own word is approved or adopted; an act named is not required (D3)
+LSO,29,standing,announced,revalued adopted,the source's own word is approved or adopted; an act named is not required (D3)
+LBR,28,text,public,added,the held document is the text or links it on an official site (D3)
+LSO,33,text,public,added,the held document is the text or links it on an official site (D3)
+LSO,36,text,public,added,the held document is the text or links it on an official site (D3)
+GNB,12,text,public,added,the held document is the text or links it on an official site (D3)
+NAM,32,text,public,added,the held document is the text or links it on an official site (D3)
+KEN,82,text,public,added,the held document is the text or links it on an official site (D3)
+NGA,161,text,public,added,the held document is the text or links it on an official site (D3)
+BFA,4,reporting,activity,revalued results,a published rate of execution or completion of the strategy's own actions is results (D3)
+COD,32,reporting,activity,revalued results,a published rate of execution or completion of the strategy's own actions is results (D3)

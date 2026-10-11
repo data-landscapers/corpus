@@ -1,13 +1,52 @@
 {
   "slug": "2026-07-30-new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The article, citing the Africa Technology Policy Tracker (which it says indexes adopted documents only), says Nigeria has 'enacted' a 2020 National Digital Economy Policy extending through 2030; it names no act or body, and says nothing of the policy's scope beyond its name.", "as_of": "2020", "date_precision": "year", "system": "National Digital Economy Policy", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The same article says the 2020 National Digital Economy Policy extends through 2030; it does not say whether the text is public, though it cites the tracker as holding the document, and its published date is used for the as-at.", "as_of": "2026-07-30", "date_precision": "day", "system": "National Digital Economy Policy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The article, citing the Africa Technology Policy Tracker (which it says indexes adopted documents only), says Nigeria has 'enacted' a 2020 National Digital Economy Policy extending through 2030; it names no act or body, and says nothing of the policy's scope beyond its name.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The same article says the 2020 National Digital Economy Policy extends through 2030; it does not say whether the text is public, though it cites the tracker as holding the document, and its published date is used for the as-at.",
+      "as_of": "2026-07-30",
+      "date_precision": "day",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Economy Policy", "country_label": "National Digital Economy Policy (2020-2030)", "class": "", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National AI Strategy (2024)", "country_label": "2024 National AI Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Blockchain Policy (2023)", "country_label": "2023 Blockchain Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National Digital Economy Policy",
+      "country_label": "National Digital Economy Policy (2020-2030)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National AI Strategy (2024)",
+      "country_label": "2024 National AI Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Blockchain Policy (2023)",
+      "country_label": "2023 Blockchain Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "Class of the 2020 policy left empty because the article gives only its name and period; both facts are recorded for that reason."
 }

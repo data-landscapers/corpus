@@ -1,11 +1,36 @@
 {
   "slug": "2026-02-25-quatre-plateformes-numeriques-services-universitaires--wearetech-fr",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "We Are Tech reports that on 24 February 2026 the higher education minister launched four platforms, bringing the sector to 73 digital services, as part of the national digital transformation strategy to 2030, measured against no strategy target.", "as_of": "2026-02-24", "date_precision": "day", "system": "Stratégie nationale de transformation numérique à l'horizon 2030", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "none", "fact": "The article says a draft law on digitalisation is being prepared as one of two cross-cutting pillars of the strategy, the other being cybersecurity.", "as_of": "2026-02-25", "date_precision": "day", "system": "Stratégie nationale de transformation numérique à l'horizon 2030", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "We Are Tech reports that on 24 February 2026 the higher education minister launched four platforms, bringing the sector to 73 digital services, as part of the national digital transformation strategy to 2030, measured against no strategy target.",
+      "as_of": "2026-02-24",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "none",
+      "fact": "The article says a draft law on digitalisation is being prepared as one of two cross-cutting pillars of the strategy, the other being cybersecurity.",
+      "as_of": "2026-02-25",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Higher education information system (73 digital services)", "country_label": "système d'information du secteur", "class": "ministry-plan", "platform": "", "owner": "Ministry of Higher Education and Scientific Research", "tiers": "universities"}
+    {
+      "system": "Higher education information system (73 digital services)",
+      "country_label": "système d'information du secteur",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Higher Education and Scientific Research",
+      "tiers": "universities"
+    }
   ],
   "note": ""
 }

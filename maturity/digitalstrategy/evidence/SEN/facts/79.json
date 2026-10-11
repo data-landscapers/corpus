@@ -1,11 +1,34 @@
 {
   "slug": "2025-01-30-startup-law-implementation-phase",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "We Are Tech Africa, on 30 January 2025, says that \"in February, the country will launch\" the \"New Technological Deal\", a program to reshape the economy around four key pillars including innovation and tech entrepreneurship; it names no adopting act or body.", "as_of": "2025-01-30", "date_precision": "day", "system": "New Technological Deal", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "We Are Tech Africa, on 30 January 2025, says that \"in February, the country will launch\" the \"New Technological Deal\", a program to reshape the economy around four key pillars including innovation and tech entrepreneurship; it names no adopting act or body.",
+      "as_of": "2025-01-30",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Technological Deal", "country_label": "", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national; four pillars"},
-    {"system": "Decree implementing Law No. 2020-01 on startups", "country_label": "", "class": "directive", "platform": "", "owner": "Government of Senegal", "tiers": "adopted 29 January 2025"}
+    {
+      "system": "New Technological Deal",
+      "country_label": "",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national; four pillars"
+    },
+    {
+      "system": "Decree implementing Law No. 2020-01 on startups",
+      "country_label": "",
+      "class": "directive",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "adopted 29 January 2025"
+    }
   ],
   "note": ""
 }

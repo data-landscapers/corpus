@@ -1,12 +1,42 @@
 {
   "slug": "2026-01-13-ict-sector-2025-implementation-woes-times",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Times names the 'Malawi Digitalisation Policy 2023- 28' and says principal secretaries' appraisals should be tied to it, measured by services online; it gives the 2023-28 period but neither describes the policy's scope, nor says its text is public, nor names an adopting act; value 'current' is the parent's to confirm, and the date is the period's start.", "as_of": "2023", "date_precision": "year", "system": "Malawi Digitalisation Policy 2023-28", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The Times names the 'Malawi Digitalisation Policy 2023- 28' and says principal secretaries' appraisals should be tied to it, measured by services online; it gives the 2023-28 period but neither describes the policy's scope, nor says its text is public, nor names an adopting act; value 'current' is the parent's to confirm, and the date is the period's start.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National Digitalization Policy 2023-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Malawi Digitalisation Policy 2023-28", "country_label": "Digitalisation Policy", "class": "", "platform": "", "owner": "", "tiers": "national; an expert says it 'must move from a document on a shelf to lived reality' by mid-2026"},
-    {"system": "Enterprise Service Bus", "country_label": "", "class": "", "platform": "", "owner": "Department of e-Government", "tiers": "government interoperability; not operationalised through 2025"},
-    {"system": "Public Sector Reforms Information Management System", "country_label": "", "class": "", "platform": "", "owner": "Government", "tiers": "launched December 2025; tracks MDAs against reform targets"}
+    {
+      "system": "Malawi Digitalisation Policy 2023-28",
+      "country_label": "Digitalisation Policy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; an expert says it 'must move from a document on a shelf to lived reality' by mid-2026"
+    },
+    {
+      "system": "Enterprise Service Bus",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Department of e-Government",
+      "tiers": "government interoperability; not operationalised through 2025"
+    },
+    {
+      "system": "Public Sector Reforms Information Management System",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "launched December 2025; tracks MDAs against reform targets"
+    }
   ],
   "note": "Class left empty because the policy's scope is not described."
 }

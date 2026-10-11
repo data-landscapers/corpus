@@ -1,13 +1,52 @@
 {
   "slug": "2026-03-19-lesoleil-new-deal-un-an-apres",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Le Soleil says the New Deal technologique, the Senegalese digital transformation strategy, was 'lancé il y a un an' (launched a year ago, i.e. 2025); it names no adopting act or body.", "as_of": "2025", "date_precision": "year", "system": "New Deal technologique", "class": ""},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "Citing a ministry document, the article lists first achievements one year on (e-Senegal single window, universal connectivity, national interoperability platform, Sengec, Startup Act labelling, e-Consulat) without measuring them against stated targets.", "as_of": "2026-03-19", "date_precision": "day", "system": "New Deal technologique", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Le Soleil says the New Deal technologique, the Senegalese digital transformation strategy, was 'lancé il y a un an' (launched a year ago, i.e. 2025); it names no adopting act or body.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "Citing a ministry document, the article lists first achievements one year on (e-Senegal single window, universal connectivity, national interoperability platform, Sengec, Startup Act labelling, e-Consulat) without measuring them against stated targets.",
+      "as_of": "2026-03-19",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Deal technologique", "country_label": "New Deal technologique", "class": "", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital Affairs", "tiers": "national"},
-    {"system": "e-Sénégal single window", "country_label": "guichet unique e-Sénégal", "class": "", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital Affairs", "tiers": "national"},
-    {"system": "Sengec", "country_label": "Sengec", "class": "", "platform": "", "owner": "", "tiers": "ministries (experimental)"}
+    {
+      "system": "New Deal technologique",
+      "country_label": "New Deal technologique",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Communication, Telecommunications and Digital Affairs",
+      "tiers": "national"
+    },
+    {
+      "system": "e-Sénégal single window",
+      "country_label": "guichet unique e-Sénégal",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Communication, Telecommunications and Digital Affairs",
+      "tiers": "national"
+    },
+    {
+      "system": "Sengec",
+      "country_label": "Sengec",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "ministries (experimental)"
+    }
   ],
   "note": "The document presents the strategy as a lever for transforming the state with a startup component, and does not say it covers the economy and the state, so class is left empty. It mentions a public-projects monitoring-and-evaluation platform without tying it to targets."
 }

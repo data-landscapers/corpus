@@ -1,22 +1,54 @@
 {
   "slug": "2026-09-02-guinea-ecuatorial-estrategia-nacional-economia-digital-banco-mundial",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting",
-     "fact": "The government press office reports that a four-day working week opened in Malabo on 2 September 2026 with eight World Bank Group specialists, with the aim of completing and validating the Estrategia Nacional de Economía Digital.",
-     "as_of": "2026-09-02", "date_precision": "day",
-     "system": "Estrategia Nacional de Economía Digital", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "unpublished",
-     "fact": "The article describes the Estrategia Nacional de Economía Digital as still to be completed and validated and cites no published text or period.",
-     "as_of": "2026-09-02", "date_precision": "day",
-     "system": "Estrategia Nacional de Economía Digital", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing",
-     "fact": "On 2 September 2026 the Ministry of Transport, Telecommunications and Civil Aviation, led by Minister of State Honorato Evita Oma, opened the World Bank-supported working week to finish the strategy, expecting a consensus roadmap at its close.",
-     "as_of": "2026-09-02", "date_precision": "day",
-     "system": "Estrategia Nacional de Economía Digital", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The government press office reports that a four-day working week opened in Malabo on 2 September 2026 with eight World Bank Group specialists, with the aim of completing and validating the Estrategia Nacional de Economía Digital.",
+      "as_of": "2026-09-02",
+      "date_precision": "day",
+      "system": "Estrategia Nacional de Economía Digital",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "unpublished",
+      "fact": "The article describes the Estrategia Nacional de Economía Digital as still to be completed and validated and cites no published text or period.",
+      "as_of": "2026-09-02",
+      "date_precision": "day",
+      "system": "Estrategia Nacional de Economía Digital",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 2 September 2026 the Ministry of Transport, Telecommunications and Civil Aviation, led by Minister of State Honorato Evita Oma, opened the World Bank-supported working week to finish the strategy, expecting a consensus roadmap at its close.",
+      "as_of": "2026-09-02",
+      "date_precision": "day",
+      "system": "Estrategia Nacional de Economía Digital",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Estrategia Nacional de Economía Digital", "country_label": "Estrategia Nacional de Economía Digital", "class": "national", "platform": "", "owner": "Ministerio de Transportes, Telecomunicaciones y Aviación Civil", "tiers": ""},
-    {"system": "Ley de Servicios Digitales", "country_label": "Ley de Servicios Digitales", "class": "directive", "platform": "", "owner": "Ministerio de Transportes, Telecomunicaciones y Aviación Civil", "tiers": "planned law, not yet adopted"}
+    {
+      "system": "Estrategia Nacional de Economía Digital",
+      "country_label": "Estrategia Nacional de Economía Digital",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministerio de Transportes, Telecomunicaciones y Aviación Civil",
+      "tiers": ""
+    },
+    {
+      "system": "Ley de Servicios Digitales",
+      "country_label": "Ley de Servicios Digitales",
+      "class": "directive",
+      "platform": "",
+      "owner": "Ministerio de Transportes, Telecomunicaciones y Aviación Civil",
+      "tiers": "planned law, not yet adopted"
+    }
   ],
   "note": ""
 }

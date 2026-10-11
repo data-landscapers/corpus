@@ -1,13 +1,50 @@
 {
   "slug": "2025-02-19-lesotho-budget-speech-2025-26",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The finance minister told Parliament on 19 February 2025 that the National Digital Policy and the Digital Transformation Strategy had been approved, without naming an approving act or body or giving a date; the speech's date is used.", "as_of": "2025-02-19", "date_precision": "day", "system": "Digital Transformation Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The finance minister told Parliament on 19 February 2025 that the National Digital Policy and the Digital Transformation Strategy had been approved, without naming an approving act or body or giving a date; the speech's date is used.",
+      "as_of": "2025-02-19",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy: Agenda 2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Strategy", "country_label": "Digital Transformation Strategy", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "National Digital Policy", "country_label": "National Digital Policy", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Artificial Intelligence, Broadband and Data Management policies", "country_label": "key policies under development: AI, Broadband, Data Management", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Government of Lesotho Enterprise Architecture and Interoperability Framework", "country_label": "Government of Lesotho Enterprise Architecture and Interoperability Framework", "class": "thematic", "platform": "", "owner": "", "tiers": "government"}
+    {
+      "system": "Digital Transformation Strategy",
+      "country_label": "Digital Transformation Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Digital Policy",
+      "country_label": "National Digital Policy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Artificial Intelligence, Broadband and Data Management policies",
+      "country_label": "key policies under development: AI, Broadband, Data Management",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Government of Lesotho Enterprise Architecture and Interoperability Framework",
+      "country_label": "Government of Lesotho Enterprise Architecture and Interoperability Framework",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "government"
+    }
   ],
   "note": "Class left empty: the speech says the strategy and policy show commitment to a digitally driven economy but does not describe the strategy's scope. Standing is 'announced' because 'approval' is stated with no act or body named; the parent may read it as adopted. The M381.1 million ICT allocation is not tied to the strategy, so no finance fact."
 }

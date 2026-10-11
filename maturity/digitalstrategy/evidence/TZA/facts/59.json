@@ -1,12 +1,54 @@
 {
   "slug": "2024-01-01 Tanzania Digital Economy Strategic Framework 2024-2034 (MICIT)",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The catalogue page says the ten-year Tanzania Digital Economy Strategic Framework 2024-2034 was 'launched' on 29 July 2024 and notes a separate document states the President launched it; no cabinet or parliamentary act is named.", "as_of": "2024-07-29", "date_precision": "day", "system": "Tanzania Digital Economy Strategic Framework 2024-2034", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The page gives the strategy's period as 2024-2034 (ten years), published by the Ministry of Information, Communication and Information Technology on its ictc.go.tz site, so the stated period has not ended; its imprint carries no month. Text public: yes", "as_of": "2024", "date_precision": "year", "system": "Tanzania Digital Economy Strategic Framework 2024-2034", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The catalogue page says the ten-year Tanzania Digital Economy Strategic Framework 2024-2034 was 'launched' on 29 July 2024 and notes a separate document states the President launched it; no cabinet or parliamentary act is named.",
+      "as_of": "2024-07-29",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The page gives the strategy's period as 2024-2034 (ten years), published by the Ministry of Information, Communication and Information Technology on its ictc.go.tz site, so the stated period has not ended; its imprint carries no month. Text public: yes",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "The page gives the strategy's period as 2024-2034 (ten years), published by the Ministry of Information, Communication and Information Technology on its ictc.go.tz site, so the stated period has not ended; its imprint carries no month. Text public: yes",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "", "platform": "", "owner": "", "tiers": "the framework is anchored to it"},
-    {"system": "National Five-Year Development Plan 2021/22-2025/26", "country_label": "National Five-Year Development Plan 2021/22-2025/26", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National ICT Policy",
+      "country_label": "National ICT Policy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "the framework is anchored to it"
+    },
+    {
+      "system": "National Five-Year Development Plan 2021/22-2025/26",
+      "country_label": "National Five-Year Development Plan 2021/22-2025/26",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "Class left empty for the framework: the page calls it a 'national digital economy strategy' with a presidential foreword but does not itself describe its scope. It is a catalogue page for the held PDF, so the launch date is the page's own statement, not the strategy's text."
 }

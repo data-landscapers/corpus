@@ -1,10 +1,26 @@
 {
   "slug": "2026-02-09-algeria-data-governance-launch-maghrebinfo",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "At the 9 February 2026 launch of the national data governance system, the High Commissioner for Digitalisation (minister rank) described the design, drafting and dissemination of the National Digital Transformation Strategy as the first comprehensive national reference guiding the process under the 'Algérie numérique 2030' vision, led by the High Commission.", "as_of": "2026-02-09", "date_precision": "day", "system": "Stratégie nationale de transformation numérique (Algérie numérique 2030)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "At the 9 February 2026 launch of the national data governance system, the High Commissioner for Digitalisation (minister rank) described the design, drafting and dissemination of the National Digital Transformation Strategy as the first comprehensive national reference guiding the process under the 'Algérie numérique 2030' vision, led by the High Commission.",
+      "as_of": "2026-02-09",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National data governance system (Presidential Decree 25-320 of 30 December 2025)", "country_label": "dispositif national de gouvernance des données", "class": "directive", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "ministries and national bodies"}
+    {
+      "system": "National data governance system (Presidential Decree 25-320 of 30 December 2025)",
+      "country_label": "dispositif national de gouvernance des données",
+      "class": "directive",
+      "platform": "",
+      "owner": "High Commission for Digitalisation",
+      "tiers": "ministries and national bodies"
+    }
   ],
   "note": ""
 }

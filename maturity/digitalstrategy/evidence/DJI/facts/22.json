@@ -1,1 +1,42 @@
-{"slug": "2026-02-10-worldbank-isr8-djibouti-digital-foundations-project", "facts": [{"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The World Bank ISR of 10 February 2026 records a decision at the last implementation support mission to initiate the updating of the Djibouti Smart Nation Strategy to align it with the new National Development Plan and the new Cybersecurity Agency (the mission date is not given, so the report date is used).", "as_of": "2026-02-10", "date_precision": "day", "system": "Djibouti Smart Nation Strategy", "class": ""}], "systems": [{"system": "Djibouti Smart Nation Strategy", "country_label": "Smart Nation Strategy", "class": "", "platform": "", "owner": "Government of Djibouti", "tiers": "national; the World Bank report of 10 February 2026 records a decision to initiate its updating to align with the new National Development Plan and the new Cybersecurity Agency; the report does not describe its coverage"}, {"system": "Djibouti Digital Foundations Project (P174461)", "country_label": "Djibouti Fondement Numérique (DFN)", "class": "programme", "platform": "", "owner": "Ministry of Communication, Posts and Telecommunications; World Bank IDA", "tiers": "national"}, {"system": "Digital Code", "country_label": "Code du numérique", "class": "directive", "platform": "", "owner": "Government of Djibouti", "tiers": "national; Books 2 (Telecommunications) and 4 (Cybersecurity) to be operationalised"}], "note": "One last12 fact recovered (update of the Smart Nation Strategy decided) with class empty because the document does not describe the strategy's scope."}
+{
+  "slug": "2026-02-10-worldbank-isr8-djibouti-digital-foundations-project",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The World Bank ISR of 10 February 2026 records a decision at the last implementation support mission to initiate the updating of the Djibouti Smart Nation Strategy to align it with the new National Development Plan and the new Cybersecurity Agency (the mission date is not given, so the report date is used).",
+      "as_of": "2026-02-10",
+      "date_precision": "day",
+      "system": "Djibouti Smart Nation Strategy",
+      "class": ""
+    }
+  ],
+  "systems": [
+    {
+      "system": "Djibouti Smart Nation Strategy",
+      "country_label": "Smart Nation Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Djibouti",
+      "tiers": "national; the World Bank report of 10 February 2026 records a decision to initiate its updating to align with the new National Development Plan and the new Cybersecurity Agency; the report does not describe its coverage"
+    },
+    {
+      "system": "Djibouti Digital Foundations Project (P174461)",
+      "country_label": "Djibouti Fondement Numérique (DFN)",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Communication, Posts and Telecommunications; World Bank IDA",
+      "tiers": "national"
+    },
+    {
+      "system": "Digital Code",
+      "country_label": "Code du numérique",
+      "class": "directive",
+      "platform": "",
+      "owner": "Government of Djibouti",
+      "tiers": "national; Books 2 (Telecommunications) and 4 (Cybersecurity) to be operationalised"
+    }
+  ],
+  "note": "One last12 fact recovered (update of the Smart Nation Strategy decided) with class empty because the document does not describe the strategy's scope."
+}

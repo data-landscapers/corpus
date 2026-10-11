@@ -1,11 +1,36 @@
 {
   "slug": "2025-09-22 Namibia to build national data centre under 2025-2029 digital strategy",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Ecofin Agency says Namibia's National Digital Strategy 2025-2029 was 'unveiled in August 2025'; it names no adopting act or body.", "as_of": "2025-08", "date_precision": "month", "system": "National Digital Strategy 2025-2029", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Ecofin Agency gives the National Digital Strategy as 2025-2029, so the period covers the article's date of 22 September 2025; it does not say whether the text is public.", "as_of": "2025-09-22", "date_precision": "day", "system": "National Digital Strategy 2025-2029", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Ecofin Agency says Namibia's National Digital Strategy 2025-2029 was 'unveiled in August 2025'; it names no adopting act or body.",
+      "as_of": "2025-08",
+      "date_precision": "month",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "Ecofin Agency gives the National Digital Strategy as 2025-2029, so the period covers the article's date of 22 September 2025; it does not say whether the text is public.",
+      "as_of": "2025-09-22",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy 2025-2029", "country_label": "National Digital Strategy 2025-2029", "class": "", "platform": "", "owner": "Ministry of Information and Communication Technology (MICT)", "tiers": "described as aiming to leverage technology for economic growth and social inclusion and calling for rapid expansion of digital infrastructure; whether it covers the state's own administration is not stated"}
+    {
+      "system": "National Digital Strategy 2025-2029",
+      "country_label": "National Digital Strategy 2025-2029",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Technology (MICT)",
+      "tiers": "described as aiming to leverage technology for economic growth and social inclusion and calling for rapid expansion of digital infrastructure; whether it covers the state's own administration is not stated"
+    }
   ],
   "note": "The strategy's class is left empty because the article's description does not say it covers both the economy and the state."
 }

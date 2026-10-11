@@ -1,10 +1,26 @@
 {
   "slug": "2026-06-24-digital-payment-tanzania-cash-lite-economy",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Citizen (2026-06-24) says the National Identification Authority will roll out Jamii Namba under the '2024-2034 Digital Economy Strategy', so its stated period had not ended; the article does not describe the strategy's scope (class left empty) or link its text. Text public: not stated", "as_of": "2026-06-24", "date_precision": "day", "system": "2024-2034 Digital Economy Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "The Citizen (2026-06-24) says the National Identification Authority will roll out Jamii Namba under the '2024-2034 Digital Economy Strategy', so its stated period had not ended; the article does not describe the strategy's scope (class left empty) or link its text. Text public: not stated",
+      "as_of": "2026-06-24",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Jamii Namba", "country_label": "Jamii Namba", "class": "programme", "platform": "", "owner": "National Identification Authority (Nida)", "tiers": "national"}
+    {
+      "system": "Jamii Namba",
+      "country_label": "Jamii Namba",
+      "class": "programme",
+      "platform": "",
+      "owner": "National Identification Authority (Nida)",
+      "tiers": "national"
+    }
   ],
   "note": "Class of the Digital Economy Strategy is empty because the article names it only as the framework under which Nida will roll out Jamii Namba. The cash-lite payments mandate is a 2026/27 budget measure, not a strategy."
 }

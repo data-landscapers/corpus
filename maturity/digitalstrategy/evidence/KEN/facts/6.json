@@ -1,13 +1,50 @@
 {
   "slug": "2026-09-28-ken-nyakundi-njoroge-draft-national-payment-system-policy",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Former CBK Governor Patrick Njoroge's comments, dated 2026-09-28, name Kenya's National Digital Master Plan (2022-2032) as a blueprint with that period; the document does not say whether the text is public or describe its scope.", "as_of": "2022", "date_precision": "year", "system": "National Digital Master Plan (2022-2032)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "Former CBK Governor Patrick Njoroge's comments, dated 2026-09-28, name Kenya's National Digital Master Plan (2022-2032) as a blueprint with that period; the document does not say whether the text is public or describe its scope.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Master Plan (2022-2032)", "country_label": "National Digital Master Plan", "class": "", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Draft National Payment System Policy, August 2026", "country_label": "Draft National Payment System Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National Payments Strategy 2022-2025", "country_label": "National Payments Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Kenya National Financial Inclusion Strategy (NFIS) 2025-2028", "country_label": "NFIS", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National Digital Master Plan (2022-2032)",
+      "country_label": "National Digital Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Draft National Payment System Policy, August 2026",
+      "country_label": "Draft National Payment System Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National Payments Strategy 2022-2025",
+      "country_label": "National Payments Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Kenya National Financial Inclusion Strategy (NFIS) 2025-2028",
+      "country_label": "NFIS",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "Master Plan class left empty: the comment gives only its name and period. Payment and financial-inclusion instruments are thematic by name and purpose in the text."
 }

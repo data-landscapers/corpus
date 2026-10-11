@@ -1,12 +1,44 @@
 {
   "slug": "2026-09-08-elmoudjahid-algerie-a-l-ere-du-tout-numerique",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "El Moudjahid says Algeria's digitalisation under the 'Algérie Numérique 2030' strategic vision proceeds under the supervision of the High Commission for Digitalisation.", "as_of": "2026-09-08", "date_precision": "day", "system": "Algérie Numérique 2030", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "El Moudjahid reports 2026 achievements under the vision, including the national digital services centre at Mohammadia with Tier III data centres and ministries joining the Dzair Digital Services portal, with no strategy target cited.", "as_of": "2026-09-08", "date_precision": "day", "system": "Algérie Numérique 2030", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "El Moudjahid says Algeria's digitalisation under the 'Algérie Numérique 2030' strategic vision proceeds under the supervision of the High Commission for Digitalisation.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "El Moudjahid reports 2026 achievements under the vision, including the national digital services centre at Mohammadia with Tier III data centres and ministries joining the Dzair Digital Services portal, with no strategy target cited.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Dzair Digital Services portal", "country_label": "Portail national des services numériques gouvernementaux", "class": "", "platform": "", "owner": "High Commission for Digitalisation", "tiers": "ministries"},
-    {"system": "Centre national algérien des services numériques (Mohammadia)", "country_label": "", "class": "thematic", "platform": "", "owner": "High Commission for Digitalisation", "tiers": ""}
+    {
+      "system": "Dzair Digital Services portal",
+      "country_label": "Portail national des services numériques gouvernementaux",
+      "class": "",
+      "platform": "",
+      "owner": "High Commission for Digitalisation",
+      "tiers": "ministries"
+    },
+    {
+      "system": "Centre national algérien des services numériques (Mohammadia)",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "High Commission for Digitalisation",
+      "tiers": ""
+    }
   ],
   "note": ""
 }

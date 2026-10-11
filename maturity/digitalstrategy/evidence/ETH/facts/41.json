@@ -1,1 +1,36 @@
-{"slug":"2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity","facts":[{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"A commentator at CIO Africa says Digital Ethiopia 2030 has been launched, building on the 2025 strategy, but names no adopting act or launching authority; the article gives no launch date, so its published date is used.","as_of":"2026-01-27","date_precision":"day","system":"Digital Ethiopia 2030","class":"national"},{"sub_indicator":"national","aspect":"plan","value":"actions","fact":"The article lists the strategy's targets for 2030: 100 percent 5G coverage in 100 cities, 128 million mobile subscribers, a Fayda digital ID for every adult and digital payments up sevenfold; no cost is given.","as_of":"2026-01-27","date_precision":"day","system":"Digital Ethiopia 2030","class":"national"}],"systems":[{"system":"Digital Ethiopia 2025","country_label":"2025 strategy","class":"national","platform":"","owner":"Government of Ethiopia","tiers":"the predecessor on which Digital Ethiopia 2030 builds"}],"note":""}
+{
+  "slug": "2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "A commentator at CIO Africa says Digital Ethiopia 2030 has been launched, building on the 2025 strategy, but names no adopting act or launching authority; the article gives no launch date, so its published date is used.",
+      "as_of": "2026-01-27",
+      "date_precision": "day",
+      "system": "Digital Ethiopia 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The article lists the strategy's targets for 2030: 100 percent 5G coverage in 100 cities, 128 million mobile subscribers, a Fayda digital ID for every adult and digital payments up sevenfold; no cost is given.",
+      "as_of": "2026-01-27",
+      "date_precision": "day",
+      "system": "Digital Ethiopia 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Ethiopia 2025",
+      "country_label": "2025 strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Ethiopia",
+      "tiers": "the predecessor on which Digital Ethiopia 2030 builds"
+    }
+  ],
+  "note": ""
+}

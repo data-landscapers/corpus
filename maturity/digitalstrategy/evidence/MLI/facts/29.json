@@ -1,10 +1,26 @@
 {
   "slug": "2025-10-05-malijet-mali-phase-iii-les-filles-africaines-peuvent-coder",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Malijet reports that at the launch of phase III of the African Girls Can Code Initiative on 2 October 2025 the programme was described as anchored in the national policy for the development of the digital economy, whose ambition is to make Mali a digital-technology excellence in West Africa over 2021-2034 with a digitalised administration.", "as_of": "2025-10-02", "date_precision": "day", "system": "politique nationale de développement de l'économie numérique", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "Malijet reports that at the launch of phase III of the African Girls Can Code Initiative on 2 October 2025 the programme was described as anchored in the national policy for the development of the digital economy, whose ambition is to make Mali a digital-technology excellence in West Africa over 2021-2034 with a digitalised administration.",
+      "as_of": "2025-10-02",
+      "date_precision": "day",
+      "system": "Politique nationale de développement de l'économie numérique 2021-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "politique nationale de développement de l'économie numérique", "country_label": "politique nationale de développement de l'économie numérique", "class": "national", "platform": "", "owner": "Ministry of Communication, Digital Economy and Modernisation of the Administration", "tiers": "national; period 2021-2034 as stated"}
+    {
+      "system": "politique nationale de développement de l'économie numérique",
+      "country_label": "politique nationale de développement de l'économie numérique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communication, Digital Economy and Modernisation of the Administration",
+      "tiers": "national; period 2021-2034 as stated"
+    }
   ],
   "note": "Press report of a launch; it states the policy's period but does not say whether its text is public, so 'current' rests on the stated 2021-2034 period alone. Class national is taken from the stated ambition (economy plus a digitalised administration)."
 }

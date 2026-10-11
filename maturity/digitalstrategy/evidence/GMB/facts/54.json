@@ -1,12 +1,42 @@
 {
   "slug": "2020-06-01-gambia-moici-national-broadband-policy-2020-2024",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The broadband policy says it 'falls with measures for the development of an ICT master plan', as at the document's date of June 2020 (no act or adoption stated).", "as_of": "2020-06", "date_precision": "month", "system": "ICT Master Plan", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The broadband policy says it 'falls with measures for the development of an ICT master plan', as at the document's date of June 2020 (no act or adoption stated).",
+      "as_of": "2020-06",
+      "date_precision": "month",
+      "system": "ICT4D Policy and ICT Master Plan",
+      "class": "sector-ict"
+    }
   ],
   "systems": [
-    {"system": "The Gambia National Broadband Policy 2020 - 2024", "country_label": "National Broadband Policy 2020-2024 (BP-2024)", "class": "thematic", "platform": "", "owner": "Ministry of Information and Communication Infrastructure", "tiers": "national; broadband"},
-    {"system": "ICT Master Plan", "country_label": "ICT master plan", "class": "", "platform": "", "owner": "", "tiers": "named only as the plan within which the broadband policy falls, with no description of what it covers"},
-    {"system": "The Gambia ICT for Development Policy Statement 2018-2028", "country_label": "ICT4D Policy", "class": "", "platform": "", "owner": "", "tiers": "named as the policy the broadband policy follows from"}
+    {
+      "system": "The Gambia National Broadband Policy 2020 - 2024",
+      "country_label": "National Broadband Policy 2020-2024 (BP-2024)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Infrastructure",
+      "tiers": "national; broadband"
+    },
+    {
+      "system": "ICT Master Plan",
+      "country_label": "ICT master plan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as the plan within which the broadband policy falls, with no description of what it covers"
+    },
+    {
+      "system": "The Gambia ICT for Development Policy Statement 2018-2028",
+      "country_label": "ICT4D Policy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as the policy the broadband policy follows from"
+    }
   ],
   "note": "A broadband policy (thematic); standing fact for the ICT master plan added on second pass with class empty because the document does not describe its scope."
 }

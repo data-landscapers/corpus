@@ -1,7 +1,16 @@
 {
   "slug": "2026-03-25-dsi-defi-intelligence-artificielle",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "ASIN's director general said on 24 March 2026 that the agency was supporting the digital ministry in drawing up a new digital strategy to the 2033 horizon, centred on citizens, businesses and the private ecosystem.", "as_of": "2026-03-24", "date_precision": "day", "system": "nouvelle stratégie numérique à l'horizon 2033", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "ASIN's director general said on 24 March 2026 that the agency was supporting the digital ministry in drawing up a new digital strategy to the 2033 horizon, centred on citizens, businesses and the private ecosystem.",
+      "as_of": "2026-03-24",
+      "date_precision": "day",
+      "system": "Stratégie numérique du Bénin 2031",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

@@ -1,13 +1,52 @@
 {
   "slug": "2026-08-03-morocco-specification-asymmetry-digital-inclusion",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The abstract finds that Morocco's infrastructure objectives under the strategies it analyses are consistently supported by quantified targets and allocated budgets, while inclusion objectives stay broadly formulated; no date is given for the finding, so the published date is used.", "as_of": "2026-08-03", "date_precision": "day", "system": "MN2013, MD2020/2025", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "results", "fact": "The abstract finds that infrastructure objectives of Morocco's strategies are supported by formal monitoring systems and the study draws on official evaluations of them, while inclusion objectives are weakly operationalised; no date is given for the finding, so the published date is used.", "as_of": "2026-08-03", "date_precision": "day", "system": "MN2013, MD2020/2025", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The abstract finds that Morocco's infrastructure objectives under the strategies it analyses are consistently supported by quantified targets and allocated budgets, while inclusion objectives stay broadly formulated; no date is given for the finding, so the published date is used.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "Maroc Numeric 2013 and Maroc Digital 2020",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "results",
+      "fact": "The abstract finds that infrastructure objectives of Morocco's strategies are supported by formal monitoring systems and the study draws on official evaluations of them, while inclusion objectives are weakly operationalised; no date is given for the finding, so the published date is used.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "Maroc Numeric 2013 and Maroc Digital 2020",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "MN2013 (Maroc Numeric 2013)", "country_label": "MN2013", "class": "national", "platform": "", "owner": "", "tiers": ""},
-    {"system": "MD2020/2025 (Digital Morocco 2020/2025)", "country_label": "MD2020/2025", "class": "national", "platform": "", "owner": "", "tiers": ""},
-    {"system": "MD2030 (Digital Morocco 2030)", "country_label": "MD2030", "class": "national", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "MN2013 (Maroc Numeric 2013)",
+      "country_label": "MN2013",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "MD2020/2025 (Digital Morocco 2020/2025)",
+      "country_label": "MD2020/2025",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "MD2030 (Digital Morocco 2030)",
+      "country_label": "MD2030",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "Abstract only. The abstract calls these Morocco's national digital strategies without listing their pillars; class national is read from that wording."
 }

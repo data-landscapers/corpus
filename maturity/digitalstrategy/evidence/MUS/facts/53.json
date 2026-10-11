@@ -1,34 +1,34 @@
 {
- "slug": "2026-09-01-gis-mauritius-digital-service-framework",
- "facts": [
-  {
-   "sub_indicator": "national",
-   "aspect": "period",
-   "value": "current",
-   "fact": "The GIS notice of 1 September 2026 names the Digital Transformation Blueprint (2025-2029) as the instrument the Digital Service Framework will help implement; the notice does not describe the Blueprint's scope, so its class is left empty.",
-   "as_of": "2026-09-01",
-   "date_precision": "day",
-   "system": "Digital Transformation Blueprint 2025-2029",
-   "class": ""
-  }
- ],
- "systems": [
-  {
-   "system": "Digital Transformation Blueprint 2025-2029",
-   "country_label": "Digital Transformation Blueprint 2025-2029",
-   "class": "",
-   "platform": "",
-   "owner": "",
-   "tiers": ""
-  },
-  {
-   "system": "Digital Service Framework (DSF)",
-   "country_label": "Digital Service Framework",
-   "class": "government",
-   "platform": "",
-   "owner": "Government (Ministries/Departments)",
-   "tiers": "all government digital services; to be developed"
-  }
- ],
- "note": "Period fact recorded with class empty: the document gives a dated reference to the Blueprint and its 2025-2029 period but does not describe its scope."
+  "slug": "2026-09-01-gis-mauritius-digital-service-framework",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The GIS notice of 1 September 2026 names the Digital Transformation Blueprint (2025-2029) as the instrument the Digital Service Framework will help implement; the notice does not describe the Blueprint's scope, so its class is left empty.",
+      "as_of": "2026-09-01",
+      "date_precision": "day",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "country_label": "Digital Transformation Blueprint 2025-2029",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Service Framework (DSF)",
+      "country_label": "Digital Service Framework",
+      "class": "government",
+      "platform": "",
+      "owner": "Government (Ministries/Departments)",
+      "tiers": "all government digital services; to be developed"
+    }
+  ],
+  "note": "Period fact recorded with class empty: the document gives a dated reference to the Blueprint and its 2025-2029 period but does not describe its scope."
 }

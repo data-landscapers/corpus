@@ -1,13 +1,50 @@
 {
   "slug": "2025-09-25-plateforme-interoperabilite-administration-fratmat",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "At the platform launch on 25 September 2025 the minister said the aim is a paper-free administration by 2030 in accordance with the Stratégie nationale de développement du numérique, a dated target stated without a cost.", "as_of": "2025-09-25", "date_precision": "day", "system": "Stratégie nationale de développement du numérique", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "At the platform launch on 25 September 2025 the minister said the aim is a paper-free administration by 2030 in accordance with the Stratégie nationale de développement du numérique, a dated target stated without a cost.",
+      "as_of": "2025-09-25",
+      "date_precision": "day",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Stratégie nationale de développement du numérique", "country_label": "Stratégie nationale de développement du numérique", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Digitalisation", "tiers": "national"},
-    {"system": "Plateforme d'interopérabilité de l'administration publique", "country_label": "plateforme d'interopérabilité", "class": "programme", "platform": "UXP (X-Road inspired)", "owner": "SNDI", "tiers": "twelve first-phase administrations"},
-    {"system": "Feuille de route de la gouvernance numérique 2022", "country_label": "feuille de route de la gouvernance numérique", "class": "government", "platform": "", "owner": "government, with Digital Nation (Estonia)", "tiers": "public administration"},
-    {"system": "Plan stratégique Côte d'Ivoire 2030", "country_label": "plan stratégique « Côte d'Ivoire 2030 »", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+    {
+      "system": "Stratégie nationale de développement du numérique",
+      "country_label": "Stratégie nationale de développement du numérique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Digitalisation",
+      "tiers": "national"
+    },
+    {
+      "system": "Plateforme d'interopérabilité de l'administration publique",
+      "country_label": "plateforme d'interopérabilité",
+      "class": "programme",
+      "platform": "UXP (X-Road inspired)",
+      "owner": "SNDI",
+      "tiers": "twelve first-phase administrations"
+    },
+    {
+      "system": "Feuille de route de la gouvernance numérique 2022",
+      "country_label": "feuille de route de la gouvernance numérique",
+      "class": "government",
+      "platform": "",
+      "owner": "government, with Digital Nation (Estonia)",
+      "tiers": "public administration"
+    },
+    {
+      "system": "Plan stratégique Côte d'Ivoire 2030",
+      "country_label": "plan stratégique « Côte d'Ivoire 2030 »",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "government",
+      "tiers": "national"
+    }
   ],
   "note": ""
 }

@@ -1,12 +1,44 @@
 {
   "slug": "2025-04-17-electoral-reform-technical-committee-report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Electoral Reform Technical Committee's report to the Electoral Commission of Zambia says Government \"has formulated\" the National Digital Transformation Strategy, 2023-2027, to establish a coordinated approach to building the digital economy through adoption of digital technologies across all sectors of the economy and to support service delivery and public sector management; it names no approving act or body, and the report's submission date is used as as_of since no date of formulation is given.", "as_of": "2025-04-17", "date_precision": "day", "system": "National Digital Transformation Strategy 2023-2027", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The same report states the period of the National Digital Transformation Strategy as 2023-2027, which covers the report's submission date of April 2025. Text public: not stated", "as_of": "2025-04", "date_precision": "month", "system": "National Digital Transformation Strategy 2023-2027", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The Electoral Reform Technical Committee's report to the Electoral Commission of Zambia says Government \"has formulated\" the National Digital Transformation Strategy, 2023-2027, to establish a coordinated approach to building the digital economy through adoption of digital technologies across all sectors of the economy and to support service delivery and public sector management; it names no approving act or body, and the report's submission date is used as as_of since no date of formulation is given.",
+      "as_of": "2025-04-17",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2027",
+      "fact": "The same report states the period of the National Digital Transformation Strategy as 2023-2027, which covers the report's submission date of April 2025. Text public: not stated",
+      "as_of": "2025-04",
+      "date_precision": "month",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Electronic Government Plan 2023-2026", "country_label": "National Electronic Government Plan (NeGP)", "class": "government", "platform": "", "owner": "Government of Zambia", "tiers": "public sector; described as aimed at digitising the public sector"},
-    {"system": "National Information and Communication Technology Policy 2023", "country_label": "National ICT Policy, 2023", "class": "sector-ict", "platform": "", "owner": "Government of Zambia", "tiers": "national"}
+    {
+      "system": "National Electronic Government Plan 2023-2026",
+      "country_label": "National Electronic Government Plan (NeGP)",
+      "class": "government",
+      "platform": "",
+      "owner": "Government of Zambia",
+      "tiers": "public sector; described as aimed at digitising the public sector"
+    },
+    {
+      "system": "National Information and Communication Technology Policy 2023",
+      "country_label": "National ICT Policy, 2023",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Government of Zambia",
+      "tiers": "national"
+    }
   ],
   "note": ""
 }

@@ -1,1 +1,58 @@
-{"slug":"2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess","facts":[{"sub_indicator":"national","aspect":"period","value":"current","fact":"The January 2023 GIZ assessment lists the 'National Innovation & Digital Strategy 2019-2029' among existing health and ICT frameworks, whose period includes January 2023; it cites it as a footnote and does not link the text. Text public: not stated","as_of":"2023-01","date_precision":"month","system":"National Innovation & Digital Strategy","class":""}],"systems":[{"system":"National Innovation & Digital Strategy 2019-2029","country_label":"National Innovation & Digital Strategy 2019-2029","class":"","platform":"","owner":"","tiers":"one of nine frameworks said together to cover digital skills, entrepreneurship, platforms, infrastructure and financial services"},{"system":"National Digital Development Policy 2022","country_label":"National Digital Development Policy 2022","class":"","platform":"","owner":"","tiers":"footnoted with the same frameworks; dated 2022 here"},{"system":"National ICT policy 2017","country_label":"National ICT policy 2017","class":"sector-ict","platform":"","owner":"","tiers":""},{"system":"National Digital Health Strategy 2018-2023","country_label":"2018-2023 National Digital Health Strategy","class":"ministry-plan","platform":"","owner":"Ministry of Health and Sanitation","tiers":"health sector; the assessment rates its implementation"},{"system":"Cyber Security Policy 2021","country_label":"Cyber Security Policy 2021","class":"thematic","platform":"","owner":"","tiers":""}],"note":"The frameworks are cited only in a footnote and described collectively, so the strategy's scope is not described and class is left empty. The policy is dated 2022 here against 2021 elsewhere; no fact recorded for it."}
+{
+  "slug": "2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The January 2023 GIZ assessment lists the 'National Innovation & Digital Strategy 2019-2029' among existing health and ICT frameworks, whose period includes January 2023; it cites it as a footnote and does not link the text. Text public: not stated",
+      "as_of": "2023-01",
+      "date_precision": "month",
+      "system": "National Innovation and Digital Strategy 2019-2029",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Innovation & Digital Strategy 2019-2029",
+      "country_label": "National Innovation & Digital Strategy 2019-2029",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "one of nine frameworks said together to cover digital skills, entrepreneurship, platforms, infrastructure and financial services"
+    },
+    {
+      "system": "National Digital Development Policy 2022",
+      "country_label": "National Digital Development Policy 2022",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "footnoted with the same frameworks; dated 2022 here"
+    },
+    {
+      "system": "National ICT policy 2017",
+      "country_label": "National ICT policy 2017",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Digital Health Strategy 2018-2023",
+      "country_label": "2018-2023 National Digital Health Strategy",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Health and Sanitation",
+      "tiers": "health sector; the assessment rates its implementation"
+    },
+    {
+      "system": "Cyber Security Policy 2021",
+      "country_label": "Cyber Security Policy 2021",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "The frameworks are cited only in a footnote and described collectively, so the strategy's scope is not described and class is left empty. The policy is dated 2022 here against 2021 elsewhere; no fact recorded for it."
+}

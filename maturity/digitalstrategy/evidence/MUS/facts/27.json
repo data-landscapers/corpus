@@ -1,11 +1,34 @@
 {
   "slug": "2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The roundup says Mauritius 'established' an AI Unit within its ICT Ministry in 2025 to implement its Digital Transformation Blueprint; it names the unit and its purpose but no act, and gives no month, so the year of the roundup is used.", "as_of": "2025", "date_precision": "year", "system": "Digital Transformation Blueprint", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The roundup says Mauritius 'established' an AI Unit within its ICT Ministry in 2025 to implement its Digital Transformation Blueprint; it names the unit and its purpose but no act, and gives no month, so the year of the roundup is used.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Blueprint", "country_label": "Digital Transformation Blueprint", "class": "", "platform": "", "owner": "Government of Mauritius; ICT Ministry", "tiers": "national"},
-    {"system": "National Data Strategy", "country_label": "National Data Strategy", "class": "thematic", "platform": "", "owner": "Government of Mauritius", "tiers": "national"}
+    {
+      "system": "Digital Transformation Blueprint",
+      "country_label": "Digital Transformation Blueprint",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Mauritius; ICT Ministry",
+      "tiers": "national"
+    },
+    {
+      "system": "National Data Strategy",
+      "country_label": "National Data Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Mauritius",
+      "tiers": "national"
+    }
   ],
   "note": "The roundup does not describe the Blueprint's scope, so the governance fact carries an empty class. It also says Mauritius 'finalised' its National Data Strategy (thematic) and is finalising draft AI laws."
 }

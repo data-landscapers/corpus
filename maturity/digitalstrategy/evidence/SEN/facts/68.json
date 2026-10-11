@@ -1,11 +1,34 @@
 {
   "slug": "2025-03-21-derfj-sonatel-entrepreneurship-pact",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "We Are Tech Africa calls the New Technological Deal \"the national digital transformation strategy\" and says it aims to certify 500 tech startups and create 150,000 direct jobs by 2034; no cost is given.", "as_of": "2025-03-21", "date_precision": "day", "system": "New Technological Deal", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "We Are Tech Africa calls the New Technological Deal \"the national digital transformation strategy\" and says it aims to certify 500 tech startups and create 150,000 direct jobs by 2034; no cost is given.",
+      "as_of": "2025-03-21",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Technological Deal", "country_label": "", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
-    {"system": "Senegal 2050", "country_label": "", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+    {
+      "system": "New Technological Deal",
+      "country_label": "",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    },
+    {
+      "system": "Senegal 2050",
+      "country_label": "",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    }
   ],
   "note": "Article gives the New Deal's targets by 2034 but no adoption act, period or text; the article's date is used because it gives no event date."
 }

@@ -1,12 +1,42 @@
 {
   "slug": "2026-02-25-worldbank-essa-senegal-health-system-naatangue-2030",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The World Bank ESSA of 25 February 2026 says Senegal's national digitalization strategy was \"officially launched\" on 24 February 2025 and is known as the \"New Deal Technologique\"; it names no launching body or act, and the passage that describes the strategy's aims is cut off.", "as_of": "2025-02-24", "date_precision": "day", "system": "New Deal Technologique", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The World Bank ESSA of 25 February 2026 says Senegal's national digitalization strategy was \"officially launched\" on 24 February 2025 and is known as the \"New Deal Technologique\"; it names no launching body or act, and the passage that describes the strategy's aims is cut off.",
+      "as_of": "2025-02-24",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "", "platform": "", "owner": "Government of Senegal", "tiers": "called Senegal's national digitalization strategy; its scope is not described in the passages held"},
-    {"system": "Programme NAATANGUE 2030 (Senegal Health System Development and Financial Protection Program)", "country_label": "NAATANGUE 2030", "class": "programme", "platform": "", "owner": "World Bank PforR with Ministry of Health", "tiers": "health sector"},
-    {"system": "SND (National Development Strategy)", "country_label": "SND", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national; named in the acronyms list"}
+    {
+      "system": "New Deal Technologique",
+      "country_label": "New Deal Technologique",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "called Senegal's national digitalization strategy; its scope is not described in the passages held"
+    },
+    {
+      "system": "Programme NAATANGUE 2030 (Senegal Health System Development and Financial Protection Program)",
+      "country_label": "NAATANGUE 2030",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank PforR with Ministry of Health",
+      "tiers": "health sector"
+    },
+    {
+      "system": "SND (National Development Strategy)",
+      "country_label": "SND",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national; named in the acronyms list"
+    }
   ],
   "note": "Class left empty: the document calls the New Deal the national digitalization strategy but its passage describing the aims is cut off. Passages only."
 }

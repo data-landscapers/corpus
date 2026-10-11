@@ -1,10 +1,26 @@
 {
   "slug": "2026-09-03-freightnews-zambia-digital-strategy-smart-edge",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Freight News says the National Digital Strategy 2023-27 has five pillars (digital infrastructure, digital platforms, digital services, digital literacy and skills, digital innovation and entrepreneurship) under which the country will transform; the period is stated as 2023-27, so the 2026-09-03 publication date falls inside it (date used is the article's own, no event date given). Text public: not stated.", "as_of": "2026-09-03", "date_precision": "day", "system": "National Digital Strategy 2023-27", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2027",
+      "fact": "Freight News says the National Digital Strategy 2023-27 has five pillars (digital infrastructure, digital platforms, digital services, digital literacy and skills, digital innovation and entrepreneurship) under which the country will transform; the period is stated as 2023-27, so the 2026-09-03 publication date falls inside it (date used is the article's own, no event date given). Text public: not stated.",
+      "as_of": "2026-09-03",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "ZamPortal", "country_label": "Government e-services Portal (ZamPortal)", "class": "", "platform": "", "owner": "Government of Zambia", "tiers": "national; road fitness certificates, immigration, land and deeds services"}
+    {
+      "system": "ZamPortal",
+      "country_label": "Government e-services Portal (ZamPortal)",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Zambia",
+      "tiers": "national; road fitness certificates, immigration, land and deeds services"
+    }
   ],
   "note": "Standing not stated: no adoption verb or act. Class national read from the five pillars spanning infrastructure, platforms, services, skills and innovation."
 }

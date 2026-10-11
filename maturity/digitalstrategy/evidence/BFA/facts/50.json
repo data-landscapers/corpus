@@ -1,13 +1,50 @@
 {
   "slug": "2021-04-16-bfa-mdenp-rapport-diagnostic-maturite-numerique",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The ministry's diagnostic report lists the national digital economy development strategy SN@DEN 2018-2027 as adopted on 6 June 2018; it does not name the adopting body.", "as_of": "2018-06-06", "date_precision": "day", "system": "Stratégie Nationale de Développement de l'Economie Numérique (SN@DEN 2018-2027)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The ministry's diagnostic report lists the national digital economy development strategy SN@DEN 2018-2027 as adopted on 6 June 2018; it does not name the adopting body.",
+      "as_of": "2018-06-06",
+      "date_precision": "day",
+      "system": "SN@DEN 2018-2027",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Stratégie Nationale de Développement de l'Economie Numérique (SN@DEN 2018-2027)", "country_label": "SN@DEN 2018-2027", "class": "national", "platform": "", "owner": "Ministère du Développement de l'Economie Numérique et des Postes (MDENP)", "tiers": "National; 2018-2027; defines the digital economy as the whole digital ecosystem"},
-    {"system": "Stratégie Nationale de Cybersécurité (SNCS)", "country_label": "SNCS", "class": "thematic", "platform": "", "owner": "Government of Burkina Faso", "tiers": "National; adopted 31 December 2019"},
-    {"system": "Référentiel Général d'Interopérabilité (RGI)", "country_label": "RGI", "class": "thematic", "platform": "", "owner": "Government of Burkina Faso", "tiers": "Public administration; adopted 23 May 2018"},
-    {"system": "Référentiel Général de Sécurité (RGS)", "country_label": "RGS", "class": "thematic", "platform": "", "owner": "Government of Burkina Faso", "tiers": "Public administration; adopted 31 December 2019"}
+    {
+      "system": "Stratégie Nationale de Développement de l'Economie Numérique (SN@DEN 2018-2027)",
+      "country_label": "SN@DEN 2018-2027",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère du Développement de l'Economie Numérique et des Postes (MDENP)",
+      "tiers": "National; 2018-2027; defines the digital economy as the whole digital ecosystem"
+    },
+    {
+      "system": "Stratégie Nationale de Cybersécurité (SNCS)",
+      "country_label": "SNCS",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Burkina Faso",
+      "tiers": "National; adopted 31 December 2019"
+    },
+    {
+      "system": "Référentiel Général d'Interopérabilité (RGI)",
+      "country_label": "RGI",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Burkina Faso",
+      "tiers": "Public administration; adopted 23 May 2018"
+    },
+    {
+      "system": "Référentiel Général de Sécurité (RGS)",
+      "country_label": "RGS",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Burkina Faso",
+      "tiers": "Public administration; adopted 31 December 2019"
+    }
   ],
   "note": ""
 }

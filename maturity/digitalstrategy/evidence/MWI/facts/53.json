@@ -1,12 +1,42 @@
 {
   "slug": "2025-06-01-malawi-ogp-national-action-plan-2025-2028",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Government's OGP National Action Plan lists, among Digital Governance achievements of the 2023-2025 plan period, \"Adoption and operationalization of the National Digitalization Policy, (2023-2028)\"; it names no adopting act or body, and the date is the document's own published date (2025-06) as no event date is given.", "as_of": "2025-06", "date_precision": "month", "system": "National Digitalization Policy (2023-2028)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Government's OGP National Action Plan lists, among Digital Governance achievements of the 2023-2025 plan period, \"Adoption and operationalization of the National Digitalization Policy, (2023-2028)\"; it names no adopting act or body, and the date is the document's own published date (2025-06) as no event date is given.",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "National Digitalization Policy 2023-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digitalization Policy (2023-2028)", "country_label": "National Digitalization Policy", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": "national; period 2023-2028 as stated"},
-    {"system": "Malaŵi 2063 Vision (MW2063)", "country_label": "Malaŵi 2063 Vision", "class": "development-plan", "platform": "", "owner": "Government of Malawi", "tiers": "national development framework"},
-    {"system": "Malaŵi National Action Plan for the Open Government Partnership 2025-2028", "country_label": "OGP National Action Plan", "class": "", "platform": "", "owner": "OGP Malaŵi Secretariat", "tiers": "digital governance is one of five policy areas; commitments 8-10 on digital literacy, e-Government use and public data"}
+    {
+      "system": "National Digitalization Policy (2023-2028)",
+      "country_label": "National Digitalization Policy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Malawi",
+      "tiers": "national; period 2023-2028 as stated"
+    },
+    {
+      "system": "Malaŵi 2063 Vision (MW2063)",
+      "country_label": "Malaŵi 2063 Vision",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Malawi",
+      "tiers": "national development framework"
+    },
+    {
+      "system": "Malaŵi National Action Plan for the Open Government Partnership 2025-2028",
+      "country_label": "OGP National Action Plan",
+      "class": "",
+      "platform": "",
+      "owner": "OGP Malaŵi Secretariat",
+      "tiers": "digital governance is one of five policy areas; commitments 8-10 on digital literacy, e-Government use and public data"
+    }
   ],
   "note": "The Digitalization Policy is named only in an achievements list; the document does not describe its scope, so class is empty. Its text and period status are not stated here as public, so no period fact. The captured text is an excerpt that stops before the Digital Governance chapter."
 }

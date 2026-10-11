@@ -1,13 +1,50 @@
 {
   "slug": "2026-09-21-nga-naltf-kankia-rural-digital-inclusion",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The National Assembly Library Trust Fund summary calls the National Digital Economy Policy and Strategy (2020-2030) Nigeria's flagship digital transformation roadmap, built around eight pillars from regulation and infrastructure to digital literacy and local content; the stated period runs to 2030, and the source does not say whether the text is public, so the value rests on the period alone; the source's published date is used.", "as_of": "2026-09-21", "date_precision": "day", "system": "National Digital Economy Policy and Strategy (2020-2030)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The National Assembly Library Trust Fund summary calls the National Digital Economy Policy and Strategy (2020-2030) Nigeria's flagship digital transformation roadmap, built around eight pillars from regulation and infrastructure to digital literacy and local content; the stated period runs to 2030, and the source does not say whether the text is public, so the value rests on the period alone; the source's published date is used.",
+      "as_of": "2026-09-21",
+      "date_precision": "day",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Economy Policy and Strategy (2020-2030)", "country_label": "National Digital Economy Policy and Strategy (2020-2030)", "class": "national", "platform": "", "owner": "Federal Government", "tiers": "national"},
-    {"system": "National Broadband Plan (2020-2025)", "country_label": "National Broadband Plan (2020-2025)", "class": "thematic", "platform": "", "owner": "Federal Government", "tiers": "national"},
-    {"system": "Universal Service Provision Fund", "country_label": "Universal Service Provision Fund", "class": "programme", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Digital Nigeria Program", "country_label": "Digital Nigeria Program", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National Digital Economy Policy and Strategy (2020-2030)",
+      "country_label": "National Digital Economy Policy and Strategy (2020-2030)",
+      "class": "national",
+      "platform": "",
+      "owner": "Federal Government",
+      "tiers": "national"
+    },
+    {
+      "system": "National Broadband Plan (2020-2025)",
+      "country_label": "National Broadband Plan (2020-2025)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Federal Government",
+      "tiers": "national"
+    },
+    {
+      "system": "Universal Service Provision Fund",
+      "country_label": "Universal Service Provision Fund",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Digital Nigeria Program",
+      "country_label": "Digital Nigeria Program",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "The source states no adoption act, delivery plan or report for the strategy; its remark that many digital-inclusion initiatives lack monitoring and evaluation is not tied to the strategy."
 }

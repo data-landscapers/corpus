@@ -1,14 +1,58 @@
 {
   "slug": "2026-01-01-terms-of-reference-digital-agriculture-strategy",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Ministry of Agriculture's terms of reference (January 2026) say a National Digital Agriculture Strategy is to 'operationalize' the Malawi 2063 vision, the 'National Digital Economy Strategy (2023-2028)' and the National Agriculture Policy (2024); the period 2023-2028 is stated, but the document does not describe the digital economy strategy's scope, adoption or publication, and 'current' is the parent's to confirm.", "as_of": "2023", "date_precision": "year", "system": "National Digital Economy Strategy (2023-2028)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The Ministry of Agriculture's terms of reference (January 2026) say a National Digital Agriculture Strategy is to 'operationalize' the Malawi 2063 vision, the 'National Digital Economy Strategy (2023-2028)' and the National Agriculture Policy (2024); the period 2023-2028 is stated, but the document does not describe the digital economy strategy's scope, adoption or publication, and 'current' is the parent's to confirm.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National Digital Economy Strategy 2023-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Economy Strategy (2023-2028)", "country_label": "National Digital Economy Strategy (2023-2028)", "class": "", "platform": "", "owner": "", "tiers": "national; named as a national priority; scope not described"},
-    {"system": "National Digital Agriculture Strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "Ministry of Agriculture", "tiers": "consultant being recruited to develop it; sector strategy under the Malawi Food Systems Resilience Program"},
-    {"system": "Malawi Food Systems Resilience Program (MFSRP)", "country_label": "", "class": "programme", "platform": "", "owner": "Ministry of Agriculture with MoIBTT; World Bank-financed", "tiers": "national; successor to the AGCOM Project"},
-    {"system": "Malawi 2063", "country_label": "", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National Agriculture Policy (2024)", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Agriculture", "tiers": "agriculture sector"}
+    {
+      "system": "National Digital Economy Strategy (2023-2028)",
+      "country_label": "National Digital Economy Strategy (2023-2028)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; named as a national priority; scope not described"
+    },
+    {
+      "system": "National Digital Agriculture Strategy",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Agriculture",
+      "tiers": "consultant being recruited to develop it; sector strategy under the Malawi Food Systems Resilience Program"
+    },
+    {
+      "system": "Malawi Food Systems Resilience Program (MFSRP)",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Agriculture with MoIBTT; World Bank-financed",
+      "tiers": "national; successor to the AGCOM Project"
+    },
+    {
+      "system": "Malawi 2063",
+      "country_label": "",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National Agriculture Policy (2024)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Agriculture",
+      "tiers": "agriculture sector"
+    }
   ],
   "note": "Class of the National Digital Economy Strategy (2023-2028) left empty: named with a period only. It may be the same document other sources call the National Digitalization Policy 2023-2028; this source does not say."
 }

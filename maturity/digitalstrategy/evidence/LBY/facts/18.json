@@ -1,11 +1,34 @@
 {
   "slug": "2025-11-20-gia-ly-dnid-second-level-trial-phases",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The General Information Authority announced on 19 November 2025 the pilot phases of the second level of the LY-DNID digital identity system as part of implementing the National Digital Transformation Strategy 2023-2030, citing the first level's adoption in a number of institutions and measuring it against no strategy target.", "as_of": "2025-11-19", "date_precision": "day", "system": "National Digital Transformation Strategy 2023-2030", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The General Information Authority announced on 19 November 2025 the pilot phases of the second level of the LY-DNID digital identity system as part of implementing the National Digital Transformation Strategy 2023-2030, citing the first level's adoption in a number of institutions and measuring it against no strategy target.",
+      "as_of": "2025-11-19",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy 2023-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Transformation Strategy 2023-2030", "country_label": "National Digital Transformation Strategy 2023-2030", "class": "", "platform": "", "owner": "General Information Authority", "tiers": "national"},
-    {"system": "LY-DNID", "country_label": "National Digital Identity System (LY-DNID)", "class": "programme", "platform": "", "owner": "General Information Authority", "tiers": "level one G2G in a number of institutions; level two in pilot"}
+    {
+      "system": "National Digital Transformation Strategy 2023-2030",
+      "country_label": "National Digital Transformation Strategy 2023-2030",
+      "class": "",
+      "platform": "",
+      "owner": "General Information Authority",
+      "tiers": "national"
+    },
+    {
+      "system": "LY-DNID",
+      "country_label": "National Digital Identity System (LY-DNID)",
+      "class": "programme",
+      "platform": "",
+      "owner": "General Information Authority",
+      "tiers": "level one G2G in a number of institutions; level two in pilot"
+    }
   ],
   "note": "Class left empty: the document names the strategy and its 2023-2030 period but does not describe its scope; it states nothing on publication of the text, so no period or standing fact is recorded."
 }

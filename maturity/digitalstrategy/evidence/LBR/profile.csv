@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBR,national,governance,qualifier,body:mandated;finance:not-stated,2026-03,LBR-002;LBR-007,LBR-006=body:none;LBR-010=body:mandated,
+LBR,national,standing,coverage,adopted,2026-03,LBR-001,LBR-009=announced;LBR-005=validated,
+LBR,national,text,coverage,public,2026-02-03,LBR-008,,
+LBR,national,period,coverage,to:2029,2026-02-03,LBR-003,,
+LBR,national,plan,coverage,costed,2026-02-03,LBR-004,,
+LBR,national,reporting,coverage,,,,,nothing held
+LBR,national,last12,qualifier,,,,,nothing held

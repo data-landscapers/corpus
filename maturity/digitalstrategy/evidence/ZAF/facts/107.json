@@ -1,13 +1,50 @@
 {
   "slug": "2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The chapter says the Presidential Commission on the Fourth Industrial Revolution 'presented' its Summary Report & Recommendations in January 2020, which it calls the '4IR plan'; it names no act of adoption by the government or head of state, and the chapter does not describe the plan's scope beyond development ambitions (class left empty).", "as_of": "2020-01", "date_precision": "month", "system": "4IR plan (Presidential Commission on the Fourth Industrial Revolution, Summary Report & Recommendations)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The chapter says the Presidential Commission on the Fourth Industrial Revolution 'presented' its Summary Report & Recommendations in January 2020, which it calls the '4IR plan'; it names no act of adoption by the government or head of state, and the chapter does not describe the plan's scope beyond development ambitions (class left empty).",
+      "as_of": "2020-01",
+      "date_precision": "month",
+      "system": "4IR plan (Presidential Commission on the Fourth Industrial Revolution, Summary Report & Recommendations)",
+      "class": ""
+    }
   ],
   "systems": [
-    {"system": "4IR plan (Presidential Commission on the Fourth Industrial Revolution, Summary Report & Recommendations)", "country_label": "4IR plan", "class": "", "platform": "", "owner": "Presidential Commission on the Fourth Industrial Revolution", "tiers": ""},
-    {"system": "South Africa Connect (SA Connect)", "country_label": "national broadband policy South Africa Connect, 2013", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
-    {"system": "National Integrated ICT Policy White Paper", "country_label": "National Integrated ICT Policy White Paper (DTPS, 2016)", "class": "sector-ict", "platform": "", "owner": "Department of Telecommunications and Postal Services", "tiers": ""},
-    {"system": "Draft National Policy on Data and Cloud", "country_label": "Draft National Policy on Data and Cloud, published 1 April 2021", "class": "thematic", "platform": "", "owner": "Minister of Communications and Digital Technologies", "tiers": ""}
+    {
+      "system": "4IR plan (Presidential Commission on the Fourth Industrial Revolution, Summary Report & Recommendations)",
+      "country_label": "4IR plan",
+      "class": "",
+      "platform": "",
+      "owner": "Presidential Commission on the Fourth Industrial Revolution",
+      "tiers": ""
+    },
+    {
+      "system": "South Africa Connect (SA Connect)",
+      "country_label": "national broadband policy South Africa Connect, 2013",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Integrated ICT Policy White Paper",
+      "country_label": "National Integrated ICT Policy White Paper (DTPS, 2016)",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Department of Telecommunications and Postal Services",
+      "tiers": ""
+    },
+    {
+      "system": "Draft National Policy on Data and Cloud",
+      "country_label": "Draft National Policy on Data and Cloud, published 1 April 2021",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Minister of Communications and Digital Technologies",
+      "tiers": ""
+    }
   ],
   "note": "Chapter on digital sovereignty; the 4IR plan is the only instrument with a dated fact and the chapter does not describe its scope, so its fact carries an empty class. The broadband policy, ICT White Paper and data and cloud policy are thematic or sector-ict and give no fact."
 }

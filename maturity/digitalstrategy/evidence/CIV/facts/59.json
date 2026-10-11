@@ -1,12 +1,44 @@
 {
   "slug": "2025-11-27-digital-transformation-plan-africa-investment-forum-techafricanews",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article says Côte d'Ivoire presented (unveiled) a comprehensive national digital development roadmap at the Africa Investment Forum in Rabat on 26 November 2025, delivered by Kalil Ibrahim Konaté, with a target of 6-8% of GDP from the digital sector by 2028 and 12-15% later; it names no adopting act or body.", "as_of": "2025-11-26", "date_precision": "day", "system": "Digital transformation roadmap presented at the Africa Investment Forum 2025", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The article calls the National Rural Connectivity Programme a major component of the strategy, allocating more than CFA 28 billion for 2024-2025 and a further CFA 33 billion for 2026-2027.", "as_of": "2025-11-26", "date_precision": "day", "system": "Digital transformation roadmap presented at the Africa Investment Forum 2025", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The article says Côte d'Ivoire presented (unveiled) a comprehensive national digital development roadmap at the Africa Investment Forum in Rabat on 26 November 2025, delivered by Kalil Ibrahim Konaté, with a target of 6-8% of GDP from the digital sector by 2028 and 12-15% later; it names no adopting act or body.",
+      "as_of": "2025-11-26",
+      "date_precision": "day",
+      "system": "Feuille de route numérique 2026-2028",
+      "class": "ministry-plan"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The article calls the National Rural Connectivity Programme a major component of the strategy, allocating more than CFA 28 billion for 2024-2025 and a further CFA 33 billion for 2026-2027.",
+      "as_of": "2025-11-26",
+      "date_precision": "day",
+      "system": "Feuille de route numérique 2026-2028",
+      "class": "ministry-plan"
+    }
   ],
   "systems": [
-    {"system": "Digital transformation roadmap presented at the Africa Investment Forum 2025", "country_label": "feuille de route de développement numérique", "class": "", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "national"},
-    {"system": "Programme National de Connectivité Rurale (PNCR)", "country_label": "National Rural Connectivity Programme", "class": "programme", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "rural localities"}
+    {
+      "system": "Digital transformation roadmap presented at the Africa Investment Forum 2025",
+      "country_label": "feuille de route de développement numérique",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digital Transition",
+      "tiers": "national"
+    },
+    {
+      "system": "Programme National de Connectivité Rurale (PNCR)",
+      "country_label": "National Rural Connectivity Programme",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Digital Transition",
+      "tiers": "rural localities"
+    }
   ],
   "note": "Second pass: standing and plan facts added for the roadmap; class is empty because the document does not describe the strategy's scope. On 2025-11-26 the minister presented a roadmap with GDP targets and said the rural programme gets over CFA 28 billion for 2024-2025 and CFA 33 billion for 2026-2027."
 }

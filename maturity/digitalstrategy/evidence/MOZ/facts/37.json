@@ -1,7 +1,16 @@
 {
   "slug": "2026-03-27-builds-institutional-framework-digital-transformation-wearetech",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "We Are Tech Africa reports the government is continuing to develop a National Digital Transformation Strategy whose design process was officially launched in February 2026; as_of is the publication date.", "as_of": "2026-03-27", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "We Are Tech Africa reports the government is continuing to develop a National Digital Transformation Strategy whose design process was officially launched in February 2026; as_of is the publication date.",
+      "as_of": "2026-03-27",
+      "date_precision": "day",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

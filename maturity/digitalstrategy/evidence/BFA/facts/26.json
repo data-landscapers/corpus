@@ -1,11 +1,34 @@
 {
   "slug": "2026-01-23-burkina-faso-asserts-digital-sovereignty-mini-data-centres",
   "facts": [
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The Prime Minister commissioned two mini data centres on 23 January 2026, built for an estimated 16 billion FCFA with about 3,000 TB of storage, as part of the twelve flagship digital transformation projects.", "as_of": "2026-01-23", "date_precision": "day", "system": "12 flagship digital transformation projects", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The Prime Minister commissioned two mini data centres on 23 January 2026, built for an estimated 16 billion FCFA with about 3,000 TB of storage, as part of the twelve flagship digital transformation projects.",
+      "as_of": "2026-01-23",
+      "date_precision": "day",
+      "system": "Feuille de route de transformation digitale 2030 (douze chantiers)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "12 flagship digital transformation projects", "country_label": "Douze projets phares de la transformation digitale", "class": "national", "platform": "", "owner": "Government of Burkina Faso", "tiers": "National"},
-    {"system": "zero external data initiative", "country_label": "Zéro donnée à l'extérieur", "class": "thematic", "platform": "", "owner": "Government of Burkina Faso", "tiers": "National"}
+    {
+      "system": "12 flagship digital transformation projects",
+      "country_label": "Douze projets phares de la transformation digitale",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Burkina Faso",
+      "tiers": "National"
+    },
+    {
+      "system": "zero external data initiative",
+      "country_label": "Zéro donnée à l'extérieur",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Burkina Faso",
+      "tiers": "National"
+    }
   ],
   "note": ""
 }

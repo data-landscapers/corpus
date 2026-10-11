@@ -1,12 +1,42 @@
 {
   "slug": "2026-09-29-uga-ucc-seeks-partner-to-accelerate-local-ict-innovations-under",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "PML Daily (29 September 2026) reports that UCC ties the National e-Booster Programme to 'the Digital Transformation Roadmap 2023/24-2027/28', a stated period that includes the report date; the article does not describe the Roadmap's scope or say whether its text is public. Text public: not stated.", "as_of": "2023", "date_precision": "year", "system": "Digital Transformation Roadmap 2023/24-2027/28", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "PML Daily (29 September 2026) reports that UCC ties the National e-Booster Programme to 'the Digital Transformation Roadmap 2023/24-2027/28', a stated period that includes the report date; the article does not describe the Roadmap's scope or say whether its text is public. Text public: not stated.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Roadmap 2023/24-2027/28", "country_label": "Digital Transformation Roadmap 2023/24-2027/28", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "National e-Booster Programme", "country_label": "National e-Booster Programme (Phase III planned FY2026/27)", "class": "programme", "platform": "", "owner": "Uganda Communications Commission (funded through UCUSAF)", "tiers": ""},
-    {"system": "Fourth National Development Plan", "country_label": "Fourth National Development Plan", "class": "", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "country_label": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National e-Booster Programme",
+      "country_label": "National e-Booster Programme (Phase III planned FY2026/27)",
+      "class": "programme",
+      "platform": "",
+      "owner": "Uganda Communications Commission (funded through UCUSAF)",
+      "tiers": ""
+    },
+    {
+      "system": "Fourth National Development Plan",
+      "country_label": "Fourth National Development Plan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "The Roadmap is named only as a programme anchor; its scope is not described, so class is empty. as_of 2023 is the start of the stated 2023/24 period."
 }

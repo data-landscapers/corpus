@@ -1,13 +1,52 @@
 {
   "slug": "2026-08-24-le-minist-re-de-l-conomie-num-rique-lance-la-premi-re-session-de-forma",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "The digital economy ministry's secretary-general said on 24 August 2026 that the Plan national du numérique 2026-2030 (PNN2) carries US$1 billion of public investment over five years, plus more than US$500 million of external support already mobilised.", "as_of": "2026-08-24", "date_precision": "day", "system": "Plan national du numérique 2026-2030 (PNN2)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The secretary-general stated on 24 August 2026 that PNN2 is endowed with US$1 billion of public investment over five years and more than US$500 million of external support; the article does not describe an action plan.", "as_of": "2026-08-24", "date_precision": "day", "system": "Plan national du numérique 2026-2030 (PNN2)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The digital economy ministry's secretary-general said on 24 August 2026 that the Plan national du numérique 2026-2030 (PNN2) carries US$1 billion of public investment over five years, plus more than US$500 million of external support already mobilised.",
+      "as_of": "2026-08-24",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The secretary-general stated on 24 August 2026 that PNN2 is endowed with US$1 billion of public investment over five years and more than US$500 million of external support; the article does not describe an action plan.",
+      "as_of": "2026-08-24",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Plan national du numérique 2026-2030 (PNN2)", "country_label": "PNN2", "class": "national", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; described as the continuation of the Plan National du Numérique (PNN)"},
-    {"system": "Plan National du Numérique (PNN)", "country_label": "PNN", "class": "", "platform": "", "owner": "", "tiers": "named as the orientation behind Ordinance 21/012 of 12 April 2021; no description"},
-    {"system": "Ordonnance n° 21/012 du 12 avril 2021", "country_label": "Ordonnance 21/012", "class": "directive", "platform": "", "owner": "Head of State", "tiers": "national; made digital a lever for national integration, governance and growth"}
+    {
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "country_label": "PNN2",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; described as the continuation of the Plan National du Numérique (PNN)"
+    },
+    {
+      "system": "Plan National du Numérique (PNN)",
+      "country_label": "PNN",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as the orientation behind Ordinance 21/012 of 12 April 2021; no description"
+    },
+    {
+      "system": "Ordonnance n° 21/012 du 12 avril 2021",
+      "country_label": "Ordonnance 21/012",
+      "class": "directive",
+      "platform": "",
+      "owner": "Head of State",
+      "tiers": "national; made digital a lever for national integration, governance and growth"
+    }
   ],
   "note": ""
 }

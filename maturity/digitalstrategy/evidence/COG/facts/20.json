@@ -1,10 +1,26 @@
 {
   "slug": "2026-01-17-arpce-seminaire-politique-regulation-technologies-numeriques",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "ARPCE director general Louis Marc Sakala said on 16 January 2026, closing a Brazzaville seminar on digital technology policy and regulation, that the seminar was about how to 'define' (définir) the country's digital economy strategy; no adoption or validation is stated.", "as_of": "2026-01-16", "date_precision": "day", "system": "stratégie de l'économie numérique", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "ARPCE director general Louis Marc Sakala said on 16 January 2026, closing a Brazzaville seminar on digital technology policy and regulation, that the seminar was about how to 'define' (définir) the country's digital economy strategy; no adoption or validation is stated.",
+      "as_of": "2026-01-16",
+      "date_precision": "day",
+      "system": "Stratégie numérique 2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "stratégie de l'économie numérique", "country_label": "Stratégie de l'économie numérique du pays", "class": "", "platform": "", "owner": "ARPCE director general speaking; Ministère des Postes, des Télécommunications et de l'Economie numérique", "tiers": "named as something the January 2026 regulation seminar helped to define; coverage, owner and standing not described"}
+    {
+      "system": "stratégie de l'économie numérique",
+      "country_label": "Stratégie de l'économie numérique du pays",
+      "class": "",
+      "platform": "",
+      "owner": "ARPCE director general speaking; Ministère des Postes, des Télécommunications et de l'Economie numérique",
+      "tiers": "named as something the January 2026 regulation seminar helped to define; coverage, owner and standing not described"
+    }
   ],
   "note": "Standing fact added on the second pass; class is empty because the document does not describe the strategy's scope."
 }

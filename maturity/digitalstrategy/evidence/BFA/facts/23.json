@@ -1,11 +1,34 @@
 {
   "slug": "2026-03-23-pactdigital-bf-unveiled-digital-inclusion",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The document describes a long-term digital strategy toward 2030, of which PACTDIGITAL-BF is a key part; the period runs to 2030 and is current, with no start year given (document date used as as_of). Text public: not stated.", "as_of": "2026-03-23", "date_precision": "day", "system": "long-term digital strategy toward 2030", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The document describes a long-term digital strategy toward 2030, of which PACTDIGITAL-BF is a key part; the period runs to 2030 and is current, with no start year given (document date used as as_of). Text public: not stated.",
+      "as_of": "2026-03-23",
+      "date_precision": "day",
+      "system": "Feuille de route de transformation digitale 2030 (douze chantiers)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "PACTDIGITAL-BF", "country_label": "Projet d'accélération de la transformation digitale (PACTDIGITAL-BF)", "class": "programme", "platform": "", "owner": "Ministry of Digital Transition, Postal and Electronic Communications", "tiers": "National; launched 19 September 2024 for five years; IDA loan plus over 96 billion CFA francs from the Burkinabe government"},
-    {"system": "long-term digital strategy toward 2030", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "Named only as the strategy PACTDIGITAL-BF is part of; no description"}
+    {
+      "system": "PACTDIGITAL-BF",
+      "country_label": "Projet d'accélération de la transformation digitale (PACTDIGITAL-BF)",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Digital Transition, Postal and Electronic Communications",
+      "tiers": "National; launched 19 September 2024 for five years; IDA loan plus over 96 billion CFA francs from the Burkinabe government"
+    },
+    {
+      "system": "long-term digital strategy toward 2030",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Named only as the strategy PACTDIGITAL-BF is part of; no description"
+    }
   ],
   "note": "Describes a financed programme (class programme); the one fact is the period of the strategy it belongs to, class empty because the document does not describe the strategy's scope."
 }

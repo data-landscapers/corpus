@@ -1,12 +1,44 @@
 {
   "slug": "2026-04-27-algeria-joins-50-in-5-dpi-campaign--biometricupdate",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Biometric Update says the 2030 national digital transformation strategy was launched in May 2025, naming no adopting act.", "as_of": "2025-05", "date_precision": "month", "system": "2030 national digital transformation strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "Algeria joined the 50-in-5 digital public infrastructure campaign, announced at the Global Africa Tech Summit in Algiers at the end of March 2026, which the government says supports its digital skills and AI infrastructure drive.", "as_of": "2026-03", "date_precision": "month", "system": "2030 national digital transformation strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Biometric Update says the 2030 national digital transformation strategy was launched in May 2025, naming no adopting act.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "Algeria joined the 50-in-5 digital public infrastructure campaign, announced at the Global Africa Tech Summit in Algiers at the end of March 2026, which the government says supports its digital skills and AI infrastructure drive.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital ID and trust services framework", "country_label": "", "class": "directive", "platform": "", "owner": "Algerian government", "tiers": ""},
-    {"system": "Data exchange platform among ministries", "country_label": "", "class": "programme", "platform": "", "owner": "Algerian government", "tiers": "ministries and public institutions"}
+    {
+      "system": "Digital ID and trust services framework",
+      "country_label": "",
+      "class": "directive",
+      "platform": "",
+      "owner": "Algerian government",
+      "tiers": ""
+    },
+    {
+      "system": "Data exchange platform among ministries",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "Algerian government",
+      "tiers": "ministries and public institutions"
+    }
   ],
   "note": ""
 }

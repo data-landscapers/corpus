@@ -1,1 +1,60 @@
-{"slug":"2023-01-01-sierra-leone-national-data-strategy","facts":[{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"The January 2023 National Data Strategy treats the 'National Digital Development Strategy of 2022' as an existing instrument and a 'key tool' for advancing the Medium-Term National Development Plan 2019-2023, with priorities across governance, infrastructure, skills, digital government, e-commerce and financial services, innovation, and cybersecurity and data; it uses no adoption verb and names no act or body.","as_of":"2022","date_precision":"year","system":"National Digital Development Strategy","class":"national"},{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"The January 2023 National Data Strategy treats the 'National Digital Development Policy of 2021' as an existing instrument and a 'key tool' for advancing the Medium-Term National Development Plan 2019-2023, covering a broader digital ecosystem than the data strategy does; it uses no adoption verb and names no act or body.","as_of":"2021","date_precision":"year","system":"National Digital Development Policy","class":"national"}],"systems":[{"system":"National Digital Development Strategy","country_label":"National Digital Development Strategy of 2022","class":"national","platform":"","owner":"Ministry of Information and Communications (custodian of the data strategy that cites it)","tiers":"national; seven priority groups"},{"system":"National Digital Development Policy","country_label":"National Digital Development Policy of 2021","class":"national","platform":"","owner":"","tiers":"national digital ecosystem"},{"system":"National Data Strategy (January 2023)","country_label":"National Data Strategy: Development of an Inclusive Data Economy","class":"thematic","platform":"","owner":"Ministry of Information and Communications","tiers":"first data strategy; supported by Digital Impact Alliance"},{"system":"Medium-Term National Development Plan 2019-2023","country_label":"MTNDP 2019-2023","class":"development-plan","platform":"","owner":"","tiers":"national"}],"note":"Both instruments are cited as existing with no adoption verb, so 'announced' is the weakest reading and the parent should weigh it against the 'approved in 2021' wording in doc 42 for the policy. The strategy's own period, plan and reporting are not stated. The document says it 'implements' both as a medium-term (1-3 year) action; a National Digital Development Council and Digital Development Agency appear only as 'proposed'."}
+{
+  "slug": "2023-01-01-sierra-leone-national-data-strategy",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The January 2023 National Data Strategy treats the 'National Digital Development Strategy of 2022' as an existing instrument and a 'key tool' for advancing the Medium-Term National Development Plan 2019-2023, with priorities across governance, infrastructure, skills, digital government, e-commerce and financial services, innovation, and cybersecurity and data; it uses no adoption verb and names no act or body.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "National Digital Development Strategy 2022",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The January 2023 National Data Strategy treats the 'National Digital Development Policy of 2021' as an existing instrument and a 'key tool' for advancing the Medium-Term National Development Plan 2019-2023, covering a broader digital ecosystem than the data strategy does; it uses no adoption verb and names no act or body.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "National Digital Development Policy 2021",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Digital Development Strategy",
+      "country_label": "National Digital Development Strategy of 2022",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information and Communications (custodian of the data strategy that cites it)",
+      "tiers": "national; seven priority groups"
+    },
+    {
+      "system": "National Digital Development Policy",
+      "country_label": "National Digital Development Policy of 2021",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": "national digital ecosystem"
+    },
+    {
+      "system": "National Data Strategy (January 2023)",
+      "country_label": "National Data Strategy: Development of an Inclusive Data Economy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Information and Communications",
+      "tiers": "first data strategy; supported by Digital Impact Alliance"
+    },
+    {
+      "system": "Medium-Term National Development Plan 2019-2023",
+      "country_label": "MTNDP 2019-2023",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
+  ],
+  "note": "Both instruments are cited as existing with no adoption verb, so 'announced' is the weakest reading and the parent should weigh it against the 'approved in 2021' wording in doc 42 for the policy. The strategy's own period, plan and reporting are not stated. The document says it 'implements' both as a medium-term (1-3 year) action; a National Digital Development Council and Digital Development Agency appear only as 'proposed'."
+}

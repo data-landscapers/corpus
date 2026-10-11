@@ -1,13 +1,52 @@
 {
   "slug": "2024-03-02-malawi-tech-ecosystem-feature",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "TechCabal (2 March 2024) says that over the last five years the Malawian government 'has enacted' policies 'include the National Digitalisation Policy, the Digital Economy Strategy, and the Child Online Protection Strategy'; it gives no date for each, no scope, no adopting body. The as_of is the article's published date.", "as_of": "2024-03-02", "date_precision": "day", "system": "Digital Economy Strategy", "class": ""},
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "TechCabal (2 March 2024) lists the 'National Digitalisation Policy' among policies the Malawian government 'has enacted' over the last five years, with no date for it, no scope and no adopting body. The as_of is the article's published date.", "as_of": "2024-03-02", "date_precision": "day", "system": "National Digitalisation Policy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "TechCabal (2 March 2024) says that over the last five years the Malawian government 'has enacted' policies 'include the National Digitalisation Policy, the Digital Economy Strategy, and the Child Online Protection Strategy'; it gives no date for each, no scope, no adopting body. The as_of is the article's published date.",
+      "as_of": "2024-03-02",
+      "date_precision": "day",
+      "system": "National Digital Economy Strategy 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "TechCabal (2 March 2024) lists the 'National Digitalisation Policy' among policies the Malawian government 'has enacted' over the last five years, with no date for it, no scope and no adopting body. The as_of is the article's published date.",
+      "as_of": "2024-03-02",
+      "date_precision": "day",
+      "system": "National Digitalization Policy 2023-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digitalisation Policy", "country_label": "National Digitalisation Policy", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": ""},
-    {"system": "Digital Economy Strategy", "country_label": "Digital Economy Strategy", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": ""},
-    {"system": "Child Online Protection Strategy", "country_label": "Child Online Protection Strategy", "class": "", "platform": "", "owner": "Government of Malawi", "tiers": ""}
+    {
+      "system": "National Digitalisation Policy",
+      "country_label": "National Digitalisation Policy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Malawi",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Economy Strategy",
+      "country_label": "Digital Economy Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Malawi",
+      "tiers": ""
+    },
+    {
+      "system": "Child Online Protection Strategy",
+      "country_label": "Child Online Protection Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Malawi",
+      "tiers": ""
+    }
   ],
   "note": "Class left empty on both facts: the article names the policies and says 'enacted' within five years of March 2024 but does not describe their scope."
 }

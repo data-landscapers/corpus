@@ -1,10 +1,26 @@
 {
   "slug": "2019-01-01-smart-zimbabwe-2030-master-plan",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Smart Zimbabwe 2030 Master Plan states that it puts in place an institutional arrangement with the mandate to coordinate ICT interventions in all sectors of the economy through the Ministry of ICT, Postal and Courier Services; the document carries no date, so the published date of 2019 is used, and it states no budget line.", "as_of": "2019", "date_precision": "year", "system": "Smart Zimbabwe 2030 Master Plan", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The Smart Zimbabwe 2030 Master Plan states that it puts in place an institutional arrangement with the mandate to coordinate ICT interventions in all sectors of the economy through the Ministry of ICT, Postal and Courier Services; the document carries no date, so the published date of 2019 is used, and it states no budget line.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Smart Zimbabwe 2030 Master Plan",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Smart Zimbabwe 2030 Master Plan", "country_label": "SMART Zimbabwe 2030 Master Plan: ICT Transformation for a Smart Zimbabwe", "class": "national", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": "Outcomes under digital government, digital economy and digital society; vision of a knowledge-based society and integrated economy by 2030"}
+    {
+      "system": "Smart Zimbabwe 2030 Master Plan",
+      "country_label": "SMART Zimbabwe 2030 Master Plan: ICT Transformation for a Smart Zimbabwe",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of ICT, Postal and Courier Services",
+      "tiers": "Outcomes under digital government, digital economy and digital society; vision of a knowledge-based society and integrated economy by 2030"
+    }
   ],
   "note": "Class national from the passages' stated scope (all sectors of the economy; outcomes digital government, economy and society); the passages state no adoption act or approving body, no stated period and no cost, and the document is issued by the Ministry, so the parent should weigh the class against the 'whole government' test. Implementation plan and timeline appear only as contents entries."
 }

@@ -1,11 +1,34 @@
 {
   "slug": "2026-02-16-world-bank-wardip2-pad",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The appraisal document states that in Benin the project 'will' support the update of the national digital policy, run with the Ministry of Digitalization and Digital Affairs; it names no act or body adopting the update and no policy period, and the document is dated 2026-02-16.", "as_of": "2026-02", "date_precision": "month", "system": "national digital policy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The appraisal document states that in Benin the project 'will' support the update of the national digital policy, run with the Ministry of Digitalization and Digital Affairs; it names no act or body adopting the update and no policy period, and the document is dated 2026-02-16.",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "Stratégie numérique du Bénin 2031",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Western Africa Regional Digital Integration Program - Series of Projects 2 (WARDIP-SOP2)", "country_label": "WARDIP-SOP2 (P500628)", "class": "programme", "platform": "", "owner": "World Bank (IDA credit of EUR 51.1 million to Benin) with the Ministry of Digitalization and Digital Affairs", "tiers": "Benin, Liberia, Sierra Leone and WAEMU"},
-    {"system": "national digital policy", "country_label": "national digital policy", "class": "", "platform": "", "owner": "Ministry of Digitalization and Digital Affairs", "tiers": "national; the appraisal document says the project will support its update, with no description of its content"}
+    {
+      "system": "Western Africa Regional Digital Integration Program - Series of Projects 2 (WARDIP-SOP2)",
+      "country_label": "WARDIP-SOP2 (P500628)",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank (IDA credit of EUR 51.1 million to Benin) with the Ministry of Digitalization and Digital Affairs",
+      "tiers": "Benin, Liberia, Sierra Leone and WAEMU"
+    },
+    {
+      "system": "national digital policy",
+      "country_label": "national digital policy",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digitalization and Digital Affairs",
+      "tiers": "national; the appraisal document says the project will support its update, with no description of its content"
+    }
   ],
   "note": "The appraisal names a national digital policy only as something the project will help update, without describing its content; the fact is recorded with class empty because the document does not describe the strategy's scope. Date is the document's published date (2026-02-16), as it gives no other."
 }

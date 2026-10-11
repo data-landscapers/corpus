@@ -1,13 +1,50 @@
 {
   "slug": "2022-01-01-kenya-digital-literacy-programme-review",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The 2022 review cites the Kenya National Digital Master Plan 2022-2032 as a 2022 publication of the Ministry of ICT, Innovation and Youth Affairs, so 2022 falls inside its period; the document says the plan lays out digital infrastructure plans and emphasises digital skills but does not describe its full scope.", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Master Plan 2022-2032", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "The 2022 review cites the Kenya National Digital Master Plan 2022-2032 as a 2022 publication of the Ministry of ICT, Innovation and Youth Affairs, so 2022 falls inside its period; the document says the plan lays out digital infrastructure plans and emphasises digital skills but does not describe its full scope.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Kenya National Digital Master Plan 2022-2032", "country_label": "Kenya National Digital Master Plan 2022-2032", "class": "", "platform": "", "owner": "Ministry of ICT, Innovation and Youth Affairs", "tiers": "national; digital infrastructure plans and digital skills emphasis; scope not otherwise described"},
-    {"system": "Digital Economy Blueprint 2019", "country_label": "Digital Economy Blueprint, 2019", "class": "", "platform": "", "owner": "", "tiers": "national; cited as emphasising digital skills for all Kenyans; scope not described"},
-    {"system": "National ICT Policy 2019", "country_label": "National ICT Policy, 2019", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national; cited as emphasising digital skills"},
-    {"system": "Digital Literacy Programme", "country_label": "Digital Literacy Programme (DLP)", "class": "programme", "platform": "", "owner": "Government of Kenya", "tiers": "schools; DLP Blueprint 2022-2032 proposed in the review"}
+    {
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "country_label": "Kenya National Digital Master Plan 2022-2032",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of ICT, Innovation and Youth Affairs",
+      "tiers": "national; digital infrastructure plans and digital skills emphasis; scope not otherwise described"
+    },
+    {
+      "system": "Digital Economy Blueprint 2019",
+      "country_label": "Digital Economy Blueprint, 2019",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; cited as emphasising digital skills for all Kenyans; scope not described"
+    },
+    {
+      "system": "National ICT Policy 2019",
+      "country_label": "National ICT Policy, 2019",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; cited as emphasising digital skills"
+    },
+    {
+      "system": "Digital Literacy Programme",
+      "country_label": "Digital Literacy Programme (DLP)",
+      "class": "programme",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "schools; DLP Blueprint 2022-2032 proposed in the review"
+    }
   ],
   "note": "Master Plan period fact has empty class: the review cites its title, issuer and period but not its scope."
 }

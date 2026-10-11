@@ -1,17 +1,58 @@
 {
   "slug": "2022-10-01-cabo-verde-technology-park-phase-ii-appraisal-report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "expired",
-     "fact": "The AfDB appraisal report of October 2022 cites the Cabo Verde Digital Agenda 2019-21, under which the Government set strategies for connectivity, capacity building, service provision and governance, as a strategy of the period 2019-2021; the report is dated after that period and does not say whether a successor exists (the document's published date is used for the as-at).",
-     "as_of": "2022-10", "date_precision": "month",
-     "system": "Cabo Verde Digital Agenda 2019-21", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2021",
+      "fact": "The AfDB appraisal report of October 2022 cites the Cabo Verde Digital Agenda 2019-21, under which the Government set strategies for connectivity, capacity building, service provision and governance, as a strategy of the period 2019-2021; the report is dated after that period and does not say whether a successor exists (the document's published date is used for the as-at).",
+      "as_of": "2022-10",
+      "date_precision": "month",
+      "system": "Agenda Digital 2019-2021",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Cabo Verde Digital Agenda 2019-21", "country_label": "Agenda Digital 2019-21", "class": "national", "platform": "", "owner": "Government of Cabo Verde", "tiers": "Connectivity, capacity building, service provision and governance"},
-    {"system": "Cabo Verde Digital Strategy (EDCV) (2016-2021)", "country_label": "Estratégia Digital de Cabo Verde (EDCV) 2016-2021", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Cabo Verde Digital Governance Strategy (2021-2024)", "country_label": "Estratégia para a Governação Digital 2021-2024", "class": "national", "platform": "", "owner": "Government of Cabo Verde", "tiers": "The report says it aims to harmonise the public policies that define the country's digital transformation"},
-    {"system": "PEDS 2017-2021", "country_label": "Plano Estratégico de Desenvolvimento Sustentável 2017-2021", "class": "development-plan", "platform": "", "owner": "Government of Cabo Verde", "tiers": "Digital services and innovation named as one of seven strategic sectors"},
-    {"system": "E-PAMP", "country_label": "E-governance and Public Administration Modernization Program", "class": "programme", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Cabo Verde Digital Agenda 2019-21",
+      "country_label": "Agenda Digital 2019-21",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": "Connectivity, capacity building, service provision and governance"
+    },
+    {
+      "system": "Cabo Verde Digital Strategy (EDCV) (2016-2021)",
+      "country_label": "Estratégia Digital de Cabo Verde (EDCV) 2016-2021",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Cabo Verde Digital Governance Strategy (2021-2024)",
+      "country_label": "Estratégia para a Governação Digital 2021-2024",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": "The report says it aims to harmonise the public policies that define the country's digital transformation"
+    },
+    {
+      "system": "PEDS 2017-2021",
+      "country_label": "Plano Estratégico de Desenvolvimento Sustentável 2017-2021",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Cabo Verde",
+      "tiers": "Digital services and innovation named as one of seven strategic sectors"
+    },
+    {
+      "system": "E-PAMP",
+      "country_label": "E-governance and Public Administration Modernization Program",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": ""
 }

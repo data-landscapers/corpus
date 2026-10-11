@@ -1,18 +1,90 @@
 {
   "slug": "2025-09-01-gsma-driving-digital-transformation-ghana",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The GSMA report, citing the Ministry of Communication, Digital Technology and Innovations' Q1 2025 media briefing of April 2025, states the ministry had commenced developing a new National Digital Transformation and Emerging Technology Strategy.", "as_of": "2025-04", "date_precision": "month", "system": "National Digital Transformation and Emerging Technology Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The GSMA report, citing the Ministry of Communication, Digital Technology and Innovations' Q1 2025 media briefing of April 2025, states the ministry had commenced developing a new National Digital Transformation and Emerging Technology Strategy.",
+      "as_of": "2025-04",
+      "date_precision": "month",
+      "system": "National Digital Transformation and Emerging Technology Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Transformation and Emerging Technology Strategy", "country_label": "National Digital Transformation and Emerging Technology Strategy", "class": "national", "platform": "", "owner": "Ministry of Communication, Digital Technology and Innovations (MCDTI)", "tiers": "National; in development as of April 2025 under the RESET agenda, with the report's recommendations aimed at it"},
-    {"system": "National Artificial Intelligence Strategy and blueprint", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "MCDTI", "tiers": "National; commenced development as of April 2025"},
-    {"system": "RESET agenda", "country_label": "RESET agenda", "class": "development-plan", "platform": "", "owner": "Government of Ghana (President Mahama)", "tiers": "National; digital and technological transformation for a digitally inclusive and data-driven economy is a central pillar"},
-    {"system": "National Development Policy Framework 2022-2025", "country_label": "National Development Policy Framework 2022-2025", "class": "development-plan", "platform": "", "owner": "Government of Ghana", "tiers": "National; cited for sector objectives, no digital chapter described"},
-    {"system": "Ghana Integrated Digital Transformation Blueprint 2021-2027", "country_label": "Ghana Integrated Digital Transformation Blueprint 2021-2027", "class": "", "platform": "", "owner": "Government of Ghana", "tiers": "Named only as a recent government digital policy alongside the GDAP; the report describes nothing of its coverage"},
-    {"system": "Ghana Digital Acceleration Project (GDAP) 2022-2027", "country_label": "Ghana Digital Acceleration Project", "class": "programme", "platform": "", "owner": "Ministry of Communication, Digital Technology and Innovations; NITA; World Bank financed", "tiers": "National; digital government component includes USD 64.5m for user-centric services and USD 6m for the future of work in government"},
-    {"system": "e-Transform Ghana Project", "country_label": "e-Transform", "class": "programme", "platform": "", "owner": "Government of Ghana, World Bank financed", "tiers": "National; USD 212m programme begun 2013"},
-    {"system": "One Million Coders Programme", "country_label": "One Million Coders Programme", "class": "programme", "platform": "", "owner": "MCDTI", "tiers": "National; pilots in Greater Accra, Ashanti, Bono and Upper East"},
-    {"system": "GRA '360 by 28' strategy", "country_label": "360 by 28", "class": "ministry-plan", "platform": "", "owner": "Ghana Revenue Authority", "tiers": "Revenue administration; digitalisation and data analytics a key pillar"}
+    {
+      "system": "National Digital Transformation and Emerging Technology Strategy",
+      "country_label": "National Digital Transformation and Emerging Technology Strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communication, Digital Technology and Innovations (MCDTI)",
+      "tiers": "National; in development as of April 2025 under the RESET agenda, with the report's recommendations aimed at it"
+    },
+    {
+      "system": "National Artificial Intelligence Strategy and blueprint",
+      "country_label": "National Artificial Intelligence Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "MCDTI",
+      "tiers": "National; commenced development as of April 2025"
+    },
+    {
+      "system": "RESET agenda",
+      "country_label": "RESET agenda",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Ghana (President Mahama)",
+      "tiers": "National; digital and technological transformation for a digitally inclusive and data-driven economy is a central pillar"
+    },
+    {
+      "system": "National Development Policy Framework 2022-2025",
+      "country_label": "National Development Policy Framework 2022-2025",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Ghana",
+      "tiers": "National; cited for sector objectives, no digital chapter described"
+    },
+    {
+      "system": "Ghana Integrated Digital Transformation Blueprint 2021-2027",
+      "country_label": "Ghana Integrated Digital Transformation Blueprint 2021-2027",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Ghana",
+      "tiers": "Named only as a recent government digital policy alongside the GDAP; the report describes nothing of its coverage"
+    },
+    {
+      "system": "Ghana Digital Acceleration Project (GDAP) 2022-2027",
+      "country_label": "Ghana Digital Acceleration Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Communication, Digital Technology and Innovations; NITA; World Bank financed",
+      "tiers": "National; digital government component includes USD 64.5m for user-centric services and USD 6m for the future of work in government"
+    },
+    {
+      "system": "e-Transform Ghana Project",
+      "country_label": "e-Transform",
+      "class": "programme",
+      "platform": "",
+      "owner": "Government of Ghana, World Bank financed",
+      "tiers": "National; USD 212m programme begun 2013"
+    },
+    {
+      "system": "One Million Coders Programme",
+      "country_label": "One Million Coders Programme",
+      "class": "programme",
+      "platform": "",
+      "owner": "MCDTI",
+      "tiers": "National; pilots in Greater Accra, Ashanti, Bono and Upper East"
+    },
+    {
+      "system": "GRA '360 by 28' strategy",
+      "country_label": "360 by 28",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ghana Revenue Authority",
+      "tiers": "Revenue administration; digitalisation and data analytics a key pillar"
+    }
   ],
   "note": ""
 }

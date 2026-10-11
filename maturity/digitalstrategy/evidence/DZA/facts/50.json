@@ -1,10 +1,26 @@
 {
   "slug": "2025-11-10-digital-id-trust-services-draft-law--biometricupdate",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Biometric Update says Algeria launched its 2030 digital transformation strategy in May 2025, with digital governance, digital society and the digital economy among its main pillars; no adopting act is named.", "as_of": "2025-05", "date_precision": "month", "system": "2030 digital transformation strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Biometric Update says Algeria launched its 2030 digital transformation strategy in May 2025, with digital governance, digital society and the digital economy among its main pillars; no adopting act is named.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Draft law on digital identity and trust services", "country_label": "", "class": "directive", "platform": "linked to the biometric ID card", "owner": "Algerian government (Council of Ministers)", "tiers": ""}
+    {
+      "system": "Draft law on digital identity and trust services",
+      "country_label": "",
+      "class": "directive",
+      "platform": "linked to the biometric ID card",
+      "owner": "Algerian government (Council of Ministers)",
+      "tiers": ""
+    }
   ],
   "note": ""
 }

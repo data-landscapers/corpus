@@ -1,12 +1,44 @@
 {
   "slug": "2026-03-09-connectingafrica-free-internet-cyber-risks",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Connecting Africa says that on 24 February 2025 Senegal's President 'launched' a digital strategy called the Technological New Deal, which it says places digital technology at the heart of national development.", "as_of": "2025-02-24", "date_precision": "day", "system": "Technological New Deal (New Deal Technologique)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The article gives targets by 2034 under the strategy: over 500 recognised tech startups, 150,000 direct and 200,000 indirect digital jobs, and a 15 percent contribution of the digital economy to GDP; it states no cost.", "as_of": "2034", "date_precision": "year", "system": "Technological New Deal (New Deal Technologique)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Connecting Africa says that on 24 February 2025 Senegal's President 'launched' a digital strategy called the Technological New Deal, which it says places digital technology at the heart of national development.",
+      "as_of": "2025-02-24",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The article gives targets by 2034 under the strategy: over 500 recognised tech startups, 150,000 direct and 200,000 indirect digital jobs, and a 15 percent contribution of the digital economy to GDP; it states no cost.",
+      "as_of": "2034",
+      "date_precision": "year",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Technological New Deal (New Deal Technologique)", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Presidency of the Republic", "tiers": "national"},
-    {"system": "Universal Connectivity initiative", "country_label": "Connectivité Universelle", "class": "programme", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital Economy", "tiers": "national"}
+    {
+      "system": "Technological New Deal (New Deal Technologique)",
+      "country_label": "New Deal Technologique",
+      "class": "national",
+      "platform": "",
+      "owner": "Presidency of the Republic",
+      "tiers": "national"
+    },
+    {
+      "system": "Universal Connectivity initiative",
+      "country_label": "Connectivité Universelle",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Communication, Telecommunications and Digital Economy",
+      "tiers": "national"
+    }
   ],
   "note": "Class national on the document's description (digital technology at the heart of national development, with a digital-economy target); it does not mention the state's own administration. The plan fact's as_of is the target year. The launch by the President is recorded as adopted under the study's ladder. Universal Connectivity was launched by the President in February 2026."
 }

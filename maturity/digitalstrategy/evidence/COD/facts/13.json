@@ -1,14 +1,58 @@
 {
   "slug": "2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "At a workshop opened on 2026-07-29 the minister referred to the Stratégie nationale de l'économie numérique (SNEN) as a strategy \"déjà élaborées\" (already elaborated) by his ministry; the article states no adoption or validation, and gives no act or body.", "as_of": "2026-07-29", "date_precision": "day", "system": "Stratégie nationale de l'économie numérique (SNEN)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "At a workshop opened on 2026-07-29 the minister referred to the Stratégie nationale de l'économie numérique (SNEN) as a strategy \"déjà élaborées\" (already elaborated) by his ministry; the article states no adoption or validation, and gives no act or body.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Stratégie nationale de l'économie numérique (SNEN)", "country_label": "SNEN", "class": "", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; named as already elaborated, with no description of content"},
-    {"system": "Stratégie nationale de gouvernance des données (SNGD)", "country_label": "SNGD", "class": "thematic", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; data governance"},
-    {"system": "Stratégie nationale de l'intelligence artificielle (SNIA)", "country_label": "SNIA", "class": "thematic", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national"},
-    {"system": "Cadre stratégique de gouvernance du numérique", "country_label": "", "class": "", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "being scoped at a 29-30 July 2026 workshop on a ten-dimension digital maturity diagnostic; the minister said it should order the existing strategies, not add a parallel one; a roadmap is expected"},
-    {"system": "RDC-PASS, sovereign cloud, national e-certification authority, national cybersecurity agency", "country_label": "", "class": "programme", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "named as projects to be articulated with the strategies"}
+    {
+      "system": "Stratégie nationale de l'économie numérique (SNEN)",
+      "country_label": "SNEN",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; named as already elaborated, with no description of content"
+    },
+    {
+      "system": "Stratégie nationale de gouvernance des données (SNGD)",
+      "country_label": "SNGD",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; data governance"
+    },
+    {
+      "system": "Stratégie nationale de l'intelligence artificielle (SNIA)",
+      "country_label": "SNIA",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national"
+    },
+    {
+      "system": "Cadre stratégique de gouvernance du numérique",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "being scoped at a 29-30 July 2026 workshop on a ten-dimension digital maturity diagnostic; the minister said it should order the existing strategies, not add a parallel one; a roadmap is expected"
+    },
+    {
+      "system": "RDC-PASS, sovereign cloud, national e-certification authority, national cybersecurity agency",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "named as projects to be articulated with the strategies"
+    }
   ],
   "note": "Workshop report; the minister names existing strategies (SNEN, SNGD, SNIA) without describing them. The SNEN standing fact has an empty class because the document does not describe the strategy's scope."
 }

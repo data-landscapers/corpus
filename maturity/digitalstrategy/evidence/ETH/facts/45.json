@@ -1,1 +1,17 @@
-{"slug":"2026-01-07-ethiopia-reiterates-fayda-role-2030-strategy-biometricupdate","facts":[{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"Biometric Update reports Ethiopia's Government Communication Service saying the Digital Ethiopia 2030 strategy was launched at the close of 2025; no adopting act is named.","as_of":"2025-12","date_precision":"month","system":"Digital Ethiopia 2030","class":"national"}],"systems":[],"note":""}
+{
+  "slug": "2026-01-07-ethiopia-reiterates-fayda-role-2030-strategy-biometricupdate",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Biometric Update reports Ethiopia's Government Communication Service saying the Digital Ethiopia 2030 strategy was launched at the close of 2025; no adopting act is named.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Digital Ethiopia 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

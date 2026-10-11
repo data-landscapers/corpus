@@ -1,7 +1,16 @@
 {
   "slug": "2025-07-15-g42-presight-uae-public-services-mou-techafricanews",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Two non-binding memoranda were signed on 10 July 2025 in Abidjan between G42 Presight and, respectively, the Ministry of State for Civil Service and the Ministry of Digital Transition and Digitalization, the latter setting a framework for collaboration on the national strategy for digital development.", "as_of": "2025-07-10", "date_precision": "day", "system": "national strategy for digital development", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Two non-binding memoranda were signed on 10 July 2025 in Abidjan between G42 Presight and, respectively, the Ministry of State for Civil Service and the Ministry of Digital Transition and Digitalization, the latter setting a framework for collaboration on the national strategy for digital development.",
+      "as_of": "2025-07-10",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2035",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

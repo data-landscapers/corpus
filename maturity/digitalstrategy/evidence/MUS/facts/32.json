@@ -1,11 +1,36 @@
 {
   "slug": "2025-09-01 Mauritius Establishes Inter-Ministerial Committee to Drive Digital Strategy",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "We Are Tech Africa says the government's 'national digital strategy' was 'unveiled in May 2025'; it names no adopting act or body and does not name the strategy.", "as_of": "2025-05", "date_precision": "month", "system": "national digital strategy (unnamed)", "class": ""},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The government established an inter-ministerial committee to coordinate implementation of the national digital strategy; its inaugural meeting took place on 26 August 2025 in Ebene, chaired by the Ministry of Information Technology, Communication and Innovation, as a single point of contact across ministries.", "as_of": "2025-08-26", "date_precision": "day", "system": "national digital strategy (unnamed)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "We Are Tech Africa says the government's 'national digital strategy' was 'unveiled in May 2025'; it names no adopting act or body and does not name the strategy.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The government established an inter-ministerial committee to coordinate implementation of the national digital strategy; its inaugural meeting took place on 26 August 2025 in Ebene, chaired by the Ministry of Information Technology, Communication and Innovation, as a single point of contact across ministries.",
+      "as_of": "2025-08-26",
+      "date_precision": "day",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "national digital strategy (unnamed)", "country_label": "national digital strategy, unveiled May 2025", "class": "", "platform": "", "owner": "Government of Mauritius; Ministry of Information Technology, Communication and Innovation", "tiers": "national"}
+    {
+      "system": "national digital strategy (unnamed)",
+      "country_label": "national digital strategy, unveiled May 2025",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Mauritius; Ministry of Information Technology, Communication and Innovation",
+      "tiers": "national"
+    }
   ],
   "note": "The article does not name or describe the strategy's scope, so both facts carry an empty class; the date and the role of the ministry-chaired committee are stated."
 }

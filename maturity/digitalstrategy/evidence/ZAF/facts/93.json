@@ -1,14 +1,58 @@
 {
   "slug": "2025-11-05-brrr-communications-and-digital-technologies-2024-25",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The Portfolio Committee's report on the Department of Communications and Digital Technologies for 2024/25 states that implementation of the Digital Economy Masterplan was not achieved against the department's performance target for the year.", "as_of": "2025", "date_precision": "year", "system": "Digital Economy Masterplan", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The Portfolio Committee's report on the Department of Communications and Digital Technologies for 2024/25 states that implementation of the Digital Economy Masterplan was not achieved against the department's performance target for the year.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Digital Economy Masterplan",
+      "class": ""
+    }
   ],
   "systems": [
-    {"system": "Digital Economy Masterplan", "country_label": "Digital Economy Masterplan", "class": "", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; implementation not achieved in 2024/25"},
-    {"system": "PC4IR Strategic Implementation Plan", "country_label": "PC4IR Strategic Implementation Plan", "class": "", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; implementation not achieved in 2024/25"},
-    {"system": "National e-Government Strategy and Roadmap", "country_label": "National e-Government Strategy and Roadmap", "class": "government", "platform": "national e-Portal", "owner": "Department of Communications and Digital Technologies", "tiers": "national; focused on automating government services"},
-    {"system": "National Data and Cloud Policy Implementation Plan", "country_label": "National Data and Cloud Policy Implementation Plan", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; approved in 2024/25"},
-    {"system": "Draft National AI Policy", "country_label": "Draft National AI Policy", "class": "thematic", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national; draft produced in 2024/25"}
+    {
+      "system": "Digital Economy Masterplan",
+      "country_label": "Digital Economy Masterplan",
+      "class": "",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "national; implementation not achieved in 2024/25"
+    },
+    {
+      "system": "PC4IR Strategic Implementation Plan",
+      "country_label": "PC4IR Strategic Implementation Plan",
+      "class": "",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "national; implementation not achieved in 2024/25"
+    },
+    {
+      "system": "National e-Government Strategy and Roadmap",
+      "country_label": "National e-Government Strategy and Roadmap",
+      "class": "government",
+      "platform": "national e-Portal",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "national; focused on automating government services"
+    },
+    {
+      "system": "National Data and Cloud Policy Implementation Plan",
+      "country_label": "National Data and Cloud Policy Implementation Plan",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "national; approved in 2024/25"
+    },
+    {
+      "system": "Draft National AI Policy",
+      "country_label": "Draft National AI Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Department of Communications and Digital Technologies",
+      "tiers": "national; draft produced in 2024/25"
+    }
   ],
   "note": "The report names the Digital Economy Masterplan without describing its scope, so its one dated fact is recorded with class left empty; the e-Government Strategy is a government-class entry."
 }

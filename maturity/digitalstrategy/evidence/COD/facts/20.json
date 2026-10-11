@@ -1,15 +1,68 @@
 {
   "slug": "2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The article says the DRC \"launched its draft digital transformation strategy last year\" (2025); it gives no adopting act or body.", "as_of": "2025", "date_precision": "year", "system": "Draft digital transformation strategy (launched 2025)", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The draft strategy is stated to be based on US$1 billion in funding from the government and US$500 million from external sources and partners.", "as_of": "2025", "date_precision": "year", "system": "Draft digital transformation strategy (launched 2025)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The article says the DRC \"launched its draft digital transformation strategy last year\" (2025); it gives no adopting act or body.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The draft strategy is stated to be based on US$1 billion in funding from the government and US$500 million from external sources and partners.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Draft digital transformation strategy (launched 2025)", "country_label": "", "class": "", "platform": "", "owner": "Government", "tiers": "national; article says it rests on US$1 billion from government and US$500 million external, and does not describe its coverage"},
-    {"system": "National e-Government Strategy 2025-2030", "country_label": "", "class": "government", "platform": "", "owner": "Ministry of Post, Telecommunications and Digital Affairs", "tiers": "national; a consultant is to define its strategic priorities and an e-Government Master Plan to operationalise it"},
-    {"system": "e-Government Master Plan", "country_label": "", "class": "government", "platform": "", "owner": "Ministry of Post, Telecommunications and Digital Affairs", "tiers": "to be developed under the consultancy"},
-    {"system": "DRC Digital Transformation Project", "country_label": "", "class": "programme", "platform": "", "owner": "unit within the Ministry of Post, Telecommunications and Digital Affairs", "tiers": "national; US$400 million World Bank and EUR 100 million AFD"},
-    {"system": "DRCPass", "country_label": "DRCPass", "class": "programme", "platform": "blockchain-based (as stated)", "owner": "Trident Digital Tech with government", "tiers": "national; March rollout targeted, no launch announced as at 6 May 2026"}
+    {
+      "system": "Draft digital transformation strategy (launched 2025)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national; article says it rests on US$1 billion from government and US$500 million external, and does not describe its coverage"
+    },
+    {
+      "system": "National e-Government Strategy 2025-2030",
+      "country_label": "",
+      "class": "government",
+      "platform": "",
+      "owner": "Ministry of Post, Telecommunications and Digital Affairs",
+      "tiers": "national; a consultant is to define its strategic priorities and an e-Government Master Plan to operationalise it"
+    },
+    {
+      "system": "e-Government Master Plan",
+      "country_label": "",
+      "class": "government",
+      "platform": "",
+      "owner": "Ministry of Post, Telecommunications and Digital Affairs",
+      "tiers": "to be developed under the consultancy"
+    },
+    {
+      "system": "DRC Digital Transformation Project",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "unit within the Ministry of Post, Telecommunications and Digital Affairs",
+      "tiers": "national; US$400 million World Bank and EUR 100 million AFD"
+    },
+    {
+      "system": "DRCPass",
+      "country_label": "DRCPass",
+      "class": "programme",
+      "platform": "blockchain-based (as stated)",
+      "owner": "Trident Digital Tech with government",
+      "tiers": "national; March rollout targeted, no launch announced as at 6 May 2026"
+    }
   ],
   "note": "A 'draft digital transformation strategy' is named with funding but without a description of what it covers; the class is empty because the document does not describe the strategy's scope."
 }

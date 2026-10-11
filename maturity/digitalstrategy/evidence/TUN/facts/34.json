@@ -1,11 +1,36 @@
 {
   "slug": "2024-07-24-ebrd-board-report-project-hannibal-tunisie-telecom",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The EBRD board report says the Tunisian Government 'has launched' the National Digital Strategy 2021-2025; no adopting act or body beyond 'the Government' is named, and the launch date is not given, so the date is the report's (2024-07-24).", "as_of": "2024-07-24", "date_precision": "day", "system": "National Digital Strategy 2021-2025", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The report gives the National Digital Strategy 2021-2025 a stated period of 2021-2025, which includes the report's date of 2024-07-24; it neither links nor quotes the text from an official site. Text public: not stated", "as_of": "2024-07-24", "date_precision": "day", "system": "National Digital Strategy 2021-2025", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The EBRD board report says the Tunisian Government 'has launched' the National Digital Strategy 2021-2025; no adopting act or body beyond 'the Government' is named, and the launch date is not given, so the date is the report's (2024-07-24).",
+      "as_of": "2024-07-24",
+      "date_precision": "day",
+      "system": "Stratégie nationale du numérique 2021-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The report gives the National Digital Strategy 2021-2025 a stated period of 2021-2025, which includes the report's date of 2024-07-24; it neither links nor quotes the text from an official site. Text public: not stated",
+      "as_of": "2024-07-24",
+      "date_precision": "day",
+      "system": "Stratégie nationale du numérique 2021-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy 2021-2025", "country_label": "National Digital Strategy 2021-2025", "class": "", "platform": "", "owner": "Tunisian Government", "tiers": "key objectives include infrastructure development (telecoms, broadband, mobile, fibre, rural areas); the held passage lists no other pillar"}
+    {
+      "system": "National Digital Strategy 2021-2025",
+      "country_label": "National Digital Strategy 2021-2025",
+      "class": "",
+      "platform": "",
+      "owner": "Tunisian Government",
+      "tiers": "key objectives include infrastructure development (telecoms, broadband, mobile, fibre, rural areas); the held passage lists no other pillar"
+    }
   ],
   "note": "Class left empty: the held passage describes only the strategy's infrastructure objective, not whether it covers both economy and state."
 }

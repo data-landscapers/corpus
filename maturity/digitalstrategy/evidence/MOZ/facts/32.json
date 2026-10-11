@@ -1,11 +1,34 @@
 {
   "slug": "2026-05-15-itu-sandbox-regulatorio-ia",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "INTIC says a Proposal for a National Digital Transformation Strategy, supported by ITU, is being prepared, to cover critical digital infrastructure, interoperability, digital trust, cybersecurity and transparency in digital services; INTIC lists it among national strategic instruments under preparation.", "as_of": "2026-05-15", "date_precision": "day", "system": "Estratégia Nacional de Transformação Digital", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "INTIC says a Proposal for a National Digital Transformation Strategy, supported by ITU, is being prepared, to cover critical digital infrastructure, interoperability, digital trust, cybersecurity and transparency in digital services; INTIC lists it among national strategic instruments under preparation.",
+      "as_of": "2026-05-15",
+      "date_precision": "day",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Estratégia Nacional de Inteligência Artificial (proposal)", "country_label": "", "class": "thematic", "platform": "", "owner": "INTIC; UNESCO support; ITU", "tiers": "national; under elaboration"},
-    {"system": "Política e Estratégia Nacional de Governação de Dados e Plano de Acção", "country_label": "", "class": "thematic", "platform": "", "owner": "INTIC", "tiers": "national; under elaboration"}
+    {
+      "system": "Estratégia Nacional de Inteligência Artificial (proposal)",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "INTIC; UNESCO support; ITU",
+      "tiers": "national; under elaboration"
+    },
+    {
+      "system": "Política e Estratégia Nacional de Governação de Dados e Plano de Acção",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "INTIC",
+      "tiers": "national; under elaboration"
+    }
   ],
   "note": ""
 }

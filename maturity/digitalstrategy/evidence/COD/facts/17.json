@@ -1,13 +1,52 @@
 {
   "slug": "2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The article describes a broader government plan to invest US$1 billion in digital development between 2026 and 2030; it gives no further content of the plan.", "as_of": "2026-06-11", "date_precision": "day", "system": "Government plan to invest US$1 billion in digital development 2026-2030", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article states the plan covers 2026 to 2030, so the period is current at 2026-06-11. Text public: not stated", "as_of": "2026-06-11", "date_precision": "day", "system": "Government plan to invest US$1 billion in digital development 2026-2030", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The article describes a broader government plan to invest US$1 billion in digital development between 2026 and 2030; it gives no further content of the plan.",
+      "as_of": "2026-06-11",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The article states the plan covers 2026 to 2030, so the period is current at 2026-06-11. Text public: not stated",
+      "as_of": "2026-06-11",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "DRC 2030 Digital Nation", "country_label": "DRC 2030 Digital Nation", "class": "", "platform": "", "owner": "Government", "tiers": "national; named as the strategy RDC-PASS is launched under, with no description of its content"},
-    {"system": "Government plan to invest US$1 billion in digital development 2026-2030", "country_label": "", "class": "", "platform": "", "owner": "Government", "tiers": "national; named once, not described"},
-    {"system": "RDC-PASS", "country_label": "RDC-PASS", "class": "programme", "platform": "Web 3.0 (as stated)", "owner": "Government with Trident Digital Tech DRC Africa SAS", "tiers": "national; US$97.1 million, 20-year PPP, launch planned 13 June 2026"}
+    {
+      "system": "DRC 2030 Digital Nation",
+      "country_label": "DRC 2030 Digital Nation",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national; named as the strategy RDC-PASS is launched under, with no description of its content"
+    },
+    {
+      "system": "Government plan to invest US$1 billion in digital development 2026-2030",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national; named once, not described"
+    },
+    {
+      "system": "RDC-PASS",
+      "country_label": "RDC-PASS",
+      "class": "programme",
+      "platform": "Web 3.0 (as stated)",
+      "owner": "Government with Trident Digital Tech DRC Africa SAS",
+      "tiers": "national; US$97.1 million, 20-year PPP, launch planned 13 June 2026"
+    }
   ],
   "note": "The article names a 'DRC 2030 Digital Nation' strategy and a US$1 billion 2026-2030 plan without saying what either covers or whether adopted; the class is empty because the document does not describe the strategy's scope."
 }

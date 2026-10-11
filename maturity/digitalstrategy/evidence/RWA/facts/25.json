@@ -1,13 +1,52 @@
 {
   "slug": "2026-07-20-rwanda-tech-jobs-lfs",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "KT Press says Rwanda 'implements' its ICT Sector Strategic Plan 2024-2029, a five-year plan; the article does not say whether the text is public, and gives no date as-at, so its published date (2026-07-20) is used.", "as_of": "2026-07-20", "date_precision": "day", "system": "ICT Sector Strategic Plan 2024-2029", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "KT Press says the plan aims to create 50,000 digital jobs over five years, a target without a stated cost, through digital infrastructure, startup support, digital skills and a regional BPO and IT-services hub; the article gives no date as-at, so its published date (2026-07-20) is used.", "as_of": "2026-07-20", "date_precision": "day", "system": "ICT Sector Strategic Plan 2024-2029", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "KT Press says Rwanda 'implements' its ICT Sector Strategic Plan 2024-2029, a five-year plan; the article does not say whether the text is public, and gives no date as-at, so its published date (2026-07-20) is used.",
+      "as_of": "2026-07-20",
+      "date_precision": "day",
+      "system": "ICT Sector Strategic Plan 2024-2029",
+      "class": "sector-ict"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "KT Press says the plan aims to create 50,000 digital jobs over five years, a target without a stated cost, through digital infrastructure, startup support, digital skills and a regional BPO and IT-services hub; the article gives no date as-at, so its published date (2026-07-20) is used.",
+      "as_of": "2026-07-20",
+      "date_precision": "day",
+      "system": "ICT Sector Strategic Plan 2024-2029",
+      "class": "sector-ict"
+    }
   ],
   "systems": [
-    {"system": "ICT Sector Strategic Plan 2024-2029", "country_label": "ICT Sector Strategic Plan 2024-2029", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Digital Ambassadors Programme", "country_label": "Digital Ambassadors Programme", "class": "programme", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Rwanda Innovation Fund", "country_label": "Rwanda Innovation Fund", "class": "programme", "platform": "", "owner": "Angaza Capital (manager)", "tiers": ""}
+    {
+      "system": "ICT Sector Strategic Plan 2024-2029",
+      "country_label": "ICT Sector Strategic Plan 2024-2029",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Ambassadors Programme",
+      "country_label": "Digital Ambassadors Programme",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Rwanda Innovation Fund",
+      "country_label": "Rwanda Innovation Fund",
+      "class": "programme",
+      "platform": "",
+      "owner": "Angaza Capital (manager)",
+      "tiers": ""
+    }
   ],
   "note": "Class left empty on the ICT Sector Strategic Plan: the article calls it the government's 'ICT strategy' with a digital transformation agenda but does not say who adopted it or that it covers the state and the economy. The 'fully digitising government services by 2029' goal is not tied to a named strategy."
 }

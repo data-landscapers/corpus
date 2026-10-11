@@ -1,10 +1,78 @@
-{"slug":"2018-12-17-digital-mauritius-2030-strategic-plan","facts":[
-{"sub_indicator":"national","aspect":"standing","value":"adopted","fact":"The Prime Minister's foreword speaks of being 'associated with the launch of the Digital Mauritius 2030 Strategic Plan', which the Ministry of Technology, Communication and Innovation 'has formulated' in consultation with industry; no cabinet or other adopting act is named.","as_of":"2018-12-17","date_precision":"day","system":"Digital Mauritius 2030 Strategic Plan","class":"national"},
-{"sub_indicator":"national","aspect":"period","value":"current","fact":"The plan's text is published on the MDPA site; the only horizon it states is 2030 in its title and in the 'Vision 2030' it follows. Date is the document's published date.","as_of":"2018-12-17","date_precision":"day","system":"Digital Mauritius 2030 Strategic Plan","class":"national"}],
-"systems":[
-{"system":"Digital Mauritius 2030 Strategic Plan","country_label":"Digital Mauritius 2030 Strategic Plan","class":"national","platform":"","owner":"Ministry of Technology, Communication and Innovation","tiers":"digital government, ICT infrastructure, innovation, talent, cyber security, the digital economy"},
-{"system":"Vision 2030","country_label":"Vision 2030 of the Government","class":"development-plan","platform":"","owner":"Government of Mauritius","tiers":"national"},
-{"system":"e-Government Strategy","country_label":"e-Government Strategy","class":"government","platform":"","owner":"","tiers":"government"},
-{"system":"InfoHighway","country_label":"InfoHighway data sharing platform","class":"","platform":"","owner":"","tiers":"government agencies"},
-{"system":"Open Data Policy / Data Sharing Policy / Open-Source Policy","country_label":"policies listed as strengths","class":"thematic","platform":"","owner":"","tiers":"government"}],
-"note":"Passages only. Adoption rests on the PM's foreword about the launch; the parent should check whether that meets the head-of-government launch test."}
+{
+  "slug": "2018-12-17-digital-mauritius-2030-strategic-plan",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Prime Minister's foreword speaks of being 'associated with the launch of the Digital Mauritius 2030 Strategic Plan', which the Ministry of Technology, Communication and Innovation 'has formulated' in consultation with industry; no cabinet or other adopting act is named.",
+      "as_of": "2018-12-17",
+      "date_precision": "day",
+      "system": "Digital Mauritius 2030 Strategic Plan",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The plan's text is published on the MDPA site; the only horizon it states is 2030 in its title and in the 'Vision 2030' it follows. Date is the document's published date.",
+      "as_of": "2018-12-17",
+      "date_precision": "day",
+      "system": "Digital Mauritius 2030 Strategic Plan",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The plan's text is published on the MDPA site; the only horizon it states is 2030 in its title and in the 'Vision 2030' it follows. Date is the document's published date.",
+      "as_of": "2018-12-17",
+      "date_precision": "day",
+      "system": "Digital Mauritius 2030 Strategic Plan",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Mauritius 2030 Strategic Plan",
+      "country_label": "Digital Mauritius 2030 Strategic Plan",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Technology, Communication and Innovation",
+      "tiers": "digital government, ICT infrastructure, innovation, talent, cyber security, the digital economy"
+    },
+    {
+      "system": "Vision 2030",
+      "country_label": "Vision 2030 of the Government",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Mauritius",
+      "tiers": "national"
+    },
+    {
+      "system": "e-Government Strategy",
+      "country_label": "e-Government Strategy",
+      "class": "government",
+      "platform": "",
+      "owner": "",
+      "tiers": "government"
+    },
+    {
+      "system": "InfoHighway",
+      "country_label": "InfoHighway data sharing platform",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "government agencies"
+    },
+    {
+      "system": "Open Data Policy / Data Sharing Policy / Open-Source Policy",
+      "country_label": "policies listed as strengths",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "government"
+    }
+  ],
+  "note": "Passages only. Adoption rests on the PM's foreword about the launch; the parent should check whether that meets the head-of-government launch test."
+}

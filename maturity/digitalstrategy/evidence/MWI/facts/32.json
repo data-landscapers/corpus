@@ -1,15 +1,68 @@
 {
   "slug": "2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "CAJ News reports that Malawi 'has begun the validation' of the 'Draft National Digital Transformation Strategy', described as a 'prospective blueprint', at a two-day workshop in Lilongwe opened by the Principal Secretary for E-Government on the Wednesday before 20 February 2026 (18 February); the exercise is to validate the draft 'before finalisation', and no adoption is stated.", "as_of": "2026-02-18", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": ""},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 18 February 2026 the Ministry of ICT, through the Department of E-Government and with UNDP, began validating the draft National Digital Transformation Strategy and launched the 'Shape Malawi's Digital and AI Future Portal' to collect public feedback before finalisation.", "as_of": "2026-02-18", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "CAJ News reports that Malawi 'has begun the validation' of the 'Draft National Digital Transformation Strategy', described as a 'prospective blueprint', at a two-day workshop in Lilongwe opened by the Principal Secretary for E-Government on the Wednesday before 20 February 2026 (18 February); the exercise is to validate the draft 'before finalisation', and no adoption is stated.",
+      "as_of": "2026-02-18",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 18 February 2026 the Ministry of ICT, through the Department of E-Government and with UNDP, began validating the draft National Digital Transformation Strategy and launched the 'Shape Malawi's Digital and AI Future Portal' to collect public feedback before finalisation.",
+      "as_of": "2026-02-18",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Transformation Strategy", "country_label": "Draft National Digital Transformation Strategy", "class": "", "platform": "", "owner": "Ministry of ICT, Department of E-Government, with UNDP", "tiers": "national; PS for E-Government says it will give a coordinated framework strengthening digital public infrastructure, service delivery, data systems and innovation across government"},
-    {"system": "National Artificial Intelligence Strategy", "country_label": "Draft National AI Strategy", "class": "thematic", "platform": "", "owner": "Ministry of ICT, Department of E-Government, with UNDP", "tiers": "national"},
-    {"system": "Shape Malawi's Digital and AI Future Portal", "country_label": "", "class": "", "platform": "", "owner": "Ministry of ICT", "tiers": "public feedback portal on the two draft strategies"},
-    {"system": "Malawi 2063", "country_label": "", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National Digitisation Policy", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named as an alignment reference; scope not described"}
+    {
+      "system": "National Digital Transformation Strategy",
+      "country_label": "Draft National Digital Transformation Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of ICT, Department of E-Government, with UNDP",
+      "tiers": "national; PS for E-Government says it will give a coordinated framework strengthening digital public infrastructure, service delivery, data systems and innovation across government"
+    },
+    {
+      "system": "National Artificial Intelligence Strategy",
+      "country_label": "Draft National AI Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of ICT, Department of E-Government, with UNDP",
+      "tiers": "national"
+    },
+    {
+      "system": "Shape Malawi's Digital and AI Future Portal",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": "public feedback portal on the two draft strategies"
+    },
+    {
+      "system": "Malawi 2063",
+      "country_label": "",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National Digitisation Policy",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as an alignment reference; scope not described"
+    }
   ],
   "note": "Class left empty because this report describes the draft strategy's aims only as strengthening digital public infrastructure and service delivery across government."
 }

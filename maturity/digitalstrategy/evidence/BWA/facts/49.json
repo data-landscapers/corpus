@@ -1,10 +1,26 @@
 {
   "slug": "2024-10-01-un-egovernment-survey-2024-chapter3-botswana",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The UN E-Government Survey 2024 says the UN Economic Commission for Africa supports Botswana, among seven countries, in developing a national digital transformation strategy aligned with the AU strategy; it gives no event date, so the survey's October 2024 publication date is used.", "as_of": "2024-10", "date_precision": "month", "system": "national digital transformation strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The UN E-Government Survey 2024 says the UN Economic Commission for Africa supports Botswana, among seven countries, in developing a national digital transformation strategy aligned with the AU strategy; it gives no event date, so the survey's October 2024 publication date is used.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "SmartBots Digital Transformation Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "national digital transformation strategy", "country_label": "national digital transformation strategy (UNECA-supported)", "class": "national", "platform": "", "owner": "Government of Botswana, with UNECA support", "tiers": "national; being developed, aligned with the AU Digital Transformation Strategy"}
+    {
+      "system": "national digital transformation strategy",
+      "country_label": "national digital transformation strategy (UNECA-supported)",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Botswana, with UNECA support",
+      "tiers": "national; being developed, aligned with the AU Digital Transformation Strategy"
+    }
   ],
   "note": ""
 }

@@ -1,0 +1,55 @@
+iso3,sub_indicator,rung,instrument,standing,period,text,plan,reporting,governance,flags,stopped_by
+AGO,national,no evidence,,,,,,,,,nothing held on a national strategy
+BDI,national,1,No national digital strategy,,,,,,,,a dated statement that there is none
+BEN,national,2,Stratégie numérique du Bénin 2031,drafting,,,,,,advancing,"drafting, not adopted"
+BFA,national,2,SN@DEN 2018-2027,adopted,to:2027,,,,,text unpublished,"adopted, and no public text is held"
+BWA,national,2,SmartBots Digital Transformation Strategy,adopted,,,,,finance:donor,text unpublished,"adopted, and no public text is held"
+CAF,national,2,Plan National Stratégique Centrafrique Digitale 2025,drafting,,,,,finance:donor,,"drafting, not adopted"
+CIV,national,2,Stratégie nationale de transformation numérique 2025-2035,announced,,,,,finance:domestic;finance:donor,lapsed,"announced, not adopted"
+CMR,national,no evidence,,,,,,,,,nothing held on a national strategy
+COD,national,2,Plan national du numérique 2026-2030 (PNN2),announced,to:2030,,costed,,finance:domestic,lapsed,"announced, not adopted"
+COG,national,2,Vision Congo Digital 2025,adopted,,,none,none,body:mandated,text unpublished,"adopted, and no public text is held"
+COM,national,3,Comores Numérique 2028,adopted,to:2028,public,costed,,body:mandated,,no published reporting
+CPV,national,2,Agenda Digital de Cabo Verde 2035,adopted,,,,,body:mandated,text unpublished;advancing,"adopted, and no public text is held"
+DJI,national,1,No national digital strategy,,,,,,,,a dated statement that there is none
+DZA,national,3,Stratégie nationale de transformation numérique 2025-2030,adopted,to:2030,public,actions,activity,body:mandated;finance:donor;finance:not-stated,advancing,"reporting is of activity, not against the strategy's targets"
+EGY,national,unplaced,National strategy for building a fully digital state,,,,,,body:mandated,,no standing stated for it
+ERI,national,1,No national digital strategy,,,,,,,,a dated statement that there is none
+ETH,national,2,Digital Ethiopia 2030,adopted,,,actions,activity,body:mandated,text unpublished;advancing,"adopted, and no public text is held"
+GAB,national,no evidence,,,,,,,,,nothing held on a national strategy
+GHA,national,3,Ghana Digital Economy Policy and Strategy,adopted,to:2028,public,actions,,finance:not-stated,,no published reporting
+GIN,national,2,National digital economy policy and strategy (planned),announced,,,,,,,"announced, not adopted"
+GMB,national,3,National Digital Economy Master Plan 2024-2034,adopted,to:2034,public,,,,,no delivery plan stated
+GNB,national,3,ENTD.GW 2025-2030,adopted,to:2030,public,actions,,finance:donor,advancing,no published reporting
+GNQ,national,2,Estrategia Nacional de Economía Digital,drafting,,unpublished,,,,advancing,"drafting, not adopted"
+KEN,national,3,Kenya National Digital Master Plan 2022-2032,,to:2032,public,actions,,finance:donor,,no published reporting
+LBR,national,3,National Digital Strategy 2025-2029,adopted,to:2029,public,costed,,body:mandated;body:none;finance:not-stated,,no published reporting
+LBY,national,2,National Strategy for Government Digital Transformation,adopted,,,,activity,,text unpublished,"adopted, and no public text is held"
+LSO,national,3,National Digital Policy 2024-2035,adopted,to:2035,public,actions,,body:mandated,,no published reporting
+MAR,national,2,Maroc Digital 2030,announced,,,costed,activity,finance:domestic;finance:donor,advancing,"announced, not adopted"
+MDG,national,2,Feuille de route nationale pour le numérique,announced,,,,,,advancing,"announced, not adopted"
+MLI,national,2,Stratégie numérique 2023-2027,drafting,,,,,,,"drafting, not adopted"
+MOZ,national,3,Plano Estratégico para a Sociedade de Informação 2019-2028,adopted,to:2028,public,,,body:none;finance:donor,,no delivery plan stated
+MRT,national,2,Agenda nationale de transformation numérique 2030,drafting,,,,,,lapsed;advancing,"drafting, not adopted"
+MUS,national,3,Digital Transformation Blueprint 2025-2029,adopted,to:2029,public,actions,,body:mandated;finance:not-stated,,no published reporting
+MWI,national,2,National Digital Economy Strategy 2023-2028,adopted,to:2028,,,,,text unpublished,"adopted, and no public text is held"
+NAM,national,3,National Digital Strategy 2025-2029,announced,to:2029,public,,,body:mandated,advancing,no delivery plan stated
+NER,national,2,Politique nationale de développement du numérique 2026-2035,drafting,,,actions,,,advancing,"drafting, not adopted"
+NGA,national,3,National Digital Economy Policy and Strategy 2020-2030,adopted,to:2030,public,actions,activity,body:mandated;finance:not-stated,,"reporting is of activity, not against the strategy's targets"
+RWA,national,unplaced,Smart Rwanda 2020 Master Plan,adopted,to:2020,,,,,lapsed,its period has ended and no successor is on record
+SDN,national,2,Digital transformation strategy (announced 2025),announced,,,,,,,"announced, not adopted"
+SEN,national,3,New Deal Technologique 2025-2034,adopted,to:2034,public,costed,activity,body:mandated;finance:domestic;finance:donor,advancing,"reporting is of activity, not against the strategy's targets"
+SLE,national,3,National Innovation and Digital Strategy 2019-2029,announced,to:2029,public,actions,,body:none,,no published reporting
+SOM,national,2,Digital Transformation Strategy 2025-2030,announced,to:2030,,,,,,"announced, not adopted"
+SSD,national,2,Digital Development Road Map and Master Plan,drafting,,,,,,,"drafting, not adopted"
+STP,national,2,National digital transformation strategy,announced,,,,,,,"announced, not adopted"
+SWZ,national,no evidence,,,,,,,,,nothing held on a national strategy
+SYC,national,unplaced,National AI and digital strategy,,,,,,body:mandated,,no standing stated for it
+TCD,national,2,Tchad Connexion 2030,announced,,,costed,,,advancing,"announced, not adopted"
+TGO,national,2,Togo Digital 2025-2030,drafting,,,,,,,"drafting, not adopted"
+TUN,national,unplaced,Stratégie nationale du numérique 2021-2025,adopted,to:2025,,,activity,,lapsed,its period has ended and no successor is on record
+TZA,national,3,Digital Economy Strategic Framework 2024-2034,adopted,to:2034,public,actions,activity,body:mandated,advancing,"reporting is of activity, not against the strategy's targets"
+UGA,national,3,Vision for a Digital Uganda 2040,announced,to:2040,public,costed,,body:mandated;finance:not-stated,,no published reporting
+ZAF,national,1,No national digital strategy,,,,,,,,a dated statement that there is none
+ZMB,national,3,National Digital Transformation Strategy 2023-2027,adopted,to:2027,public,actions,,body:mandated;finance:not-stated,,no published reporting
+ZWE,national,2,National Digital Roadmap 2026-2030,drafting,,,,,,,"drafting, not adopted"

@@ -1,11 +1,46 @@
 {
   "slug": "2017-12-01-gambia-moici-ict4d-policy-statement-2018-2028",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The ICT4D Policy Statement 2018-2028, a final report commissioned by the Ministry of Information and Communication Infrastructure, states on its title page that it was validated in December 2016 and revised in December 2017; the passages held show no adopting act, and its eight pillars span the state (electronic government) and the economy (private sector, agriculture, education, social services, broadband and legal regime).", "as_of": "2016-12", "date_precision": "month", "system": "The Gambia ICT for Development (ICT4D) Policy Statement [2018-2028]", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The ICT4D Policy Statement carries the stated period 2018-2028 in its title and is published as a full text on the government policies portal (policies.gov.gm); its date is the December 2017 revision, so the as-at test against the period is the parent's.", "as_of": "2017-12", "date_precision": "month", "system": "The Gambia ICT for Development (ICT4D) Policy Statement [2018-2028]", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "The ICT4D Policy Statement 2018-2028, a final report commissioned by the Ministry of Information and Communication Infrastructure, states on its title page that it was validated in December 2016 and revised in December 2017; the passages held show no adopting act, and its eight pillars span the state (electronic government) and the economy (private sector, agriculture, education, social services, broadband and legal regime).",
+      "as_of": "2016-12",
+      "date_precision": "month",
+      "system": "ICT4D Policy and ICT Master Plan",
+      "class": "sector-ict"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The ICT4D Policy Statement carries the stated period 2018-2028 in its title and is published as a full text on the government policies portal (policies.gov.gm); its date is the December 2017 revision, so the as-at test against the period is the parent's.",
+      "as_of": "2017-12",
+      "date_precision": "month",
+      "system": "ICT4D Policy and ICT Master Plan",
+      "class": "sector-ict"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "The ICT4D Policy Statement carries the stated period 2018-2028 in its title and is published as a full text on the government policies portal (policies.gov.gm); its date is the December 2017 revision, so the as-at test against the period is the parent's.",
+      "as_of": "2017-12",
+      "date_precision": "month",
+      "system": "ICT4D Policy and ICT Master Plan",
+      "class": "sector-ict"
+    }
   ],
   "systems": [
-    {"system": "The Gambia ICT for Development (ICT4D) Policy Statement [2018-2028]", "country_label": "ICT4D Policy Statement 2018-2028 (NICI-1 process)", "class": "national", "platform": "", "owner": "Ministry of Information and Communication Infrastructure (MOICI)", "tiers": "eight pillars: human capital; electronic government; technology-enabled education and STI; agriculture; private sector; social services; youth and women; legal and regulatory regime, broadband, universal access and cyber security"}
+    {
+      "system": "The Gambia ICT for Development (ICT4D) Policy Statement [2018-2028]",
+      "country_label": "ICT4D Policy Statement 2018-2028 (NICI-1 process)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Infrastructure (MOICI)",
+      "tiers": "eight pillars: human capital; electronic government; technology-enabled education and STI; agriculture; private sector; social services; youth and women; legal and regulatory regime, broadband, universal access and cyber security"
+    }
   ],
   "note": "Passages show only the title page, contents and acronyms; classed national on the pillar list, adoption by the whole government not shown."
 }

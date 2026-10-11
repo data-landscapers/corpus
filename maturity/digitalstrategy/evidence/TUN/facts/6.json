@@ -1,13 +1,52 @@
 {
   "slug": "2026-08-22-fintechtimes-tunisia-cash-and-code",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The article says work has \"begun\" on the country's 2026-2030 ICT development plan, which it says is intended to shape the next phase of national digital policy; no adopting act or body is named; the date is the article's publication date (2026-08-22).", "as_of": "2026-08-22", "date_precision": "day", "system": "2026-2030 ICT development plan", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article gives the 2025-2026 digital transformation programme a stated period of 2025-2026, containing 138 projects (99 on public administration, 18 on the digital economy); the as-at date is the article's publication date (2026-08-22). Text public: not stated", "as_of": "2026-08-22", "date_precision": "day", "system": "2025-2026 digital transformation programme", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The article says work has \"begun\" on the country's 2026-2030 ICT development plan, which it says is intended to shape the next phase of national digital policy; no adopting act or body is named; the date is the article's publication date (2026-08-22).",
+      "as_of": "2026-08-22",
+      "date_precision": "day",
+      "system": "2026-2030 ICT development plan",
+      "class": ""
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "The article gives the 2025-2026 digital transformation programme a stated period of 2025-2026, containing 138 projects (99 on public administration, 18 on the digital economy); the as-at date is the article's publication date (2026-08-22). Text public: not stated",
+      "as_of": "2026-08-22",
+      "date_precision": "day",
+      "system": "2025-2026 digital transformation programme",
+      "class": ""
+    }
   ],
   "systems": [
-    {"system": "2025-2026 digital transformation programme", "country_label": "digital transformation programme 2025-2026", "class": "", "platform": "", "owner": "Government", "tiers": "138 projects: 99 on digitising public administration, 18 on digital economy incl. AI, skills, e-commerce"},
-    {"system": "2026-2030 ICT development plan", "country_label": "ICT development plan 2026-2030", "class": "", "platform": "", "owner": "", "tiers": "work begun; said to shape next phase of national digital policy"},
-    {"system": "e-Houwiya", "country_label": "e-Houwiya mobile identity", "class": "", "platform": "", "owner": "", "tiers": "citizens authenticating for online government services"}
+    {
+      "system": "2025-2026 digital transformation programme",
+      "country_label": "digital transformation programme 2025-2026",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "138 projects: 99 on digitising public administration, 18 on digital economy incl. AI, skills, e-commerce"
+    },
+    {
+      "system": "2026-2030 ICT development plan",
+      "country_label": "ICT development plan 2026-2030",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "work begun; said to shape next phase of national digital policy"
+    },
+    {
+      "system": "e-Houwiya",
+      "country_label": "e-Houwiya mobile identity",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "citizens authenticating for online government services"
+    }
   ],
   "note": "Class left empty for both instruments: the article gives dated facts (period, work begun) but does not describe scope or adopting authority well enough to class them under the typology."
 }

@@ -1,17 +1,88 @@
 {
   "slug": "2025-12-01-madagascar-digital-readiness-assessment-undp",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The UNDP Digital Readiness Assessment names the Plan Stratégique Numérique 2023-2028, aligned with the Politique Générale de l'État and the SDGs, as Madagascar's national digital vision; no as-of date is given, so the report's December 2025 publication date is used.", "as_of": "2025-12", "date_precision": "month", "system": "Plan Stratégique Numérique 2023-2028", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "UNDP states the Plan Stratégique Numérique 2023-2028 sets targets including raising the digital sector's contribution to GDP to 6% by 2028; no cost is stated (date: report publication, December 2025).", "as_of": "2025-12", "date_precision": "month", "system": "Plan Stratégique Numérique 2023-2028", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "UNDP states the plan is placed under the coordination of the digital ministry (MNDPT), which ensures coherence and strategic supervision of digital transformation; only 21% of surveyed experts consider the ministry and the Unité de Gouvernance Digitale fully operational (report December 2025).", "as_of": "2025-12", "date_precision": "month", "system": "Plan Stratégique Numérique 2023-2028", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:not-stated", "fact": "UNDP reports that 86% of surveyed experts say digital budgets are limited per project and without sustained financing; it ties no budget line to the plan (report December 2025).", "as_of": "2025-12", "date_precision": "month", "system": "Plan Stratégique Numérique 2023-2028", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The UNDP Digital Readiness Assessment names the Plan Stratégique Numérique 2023-2028, aligned with the Politique Générale de l'État and the SDGs, as Madagascar's national digital vision; no as-of date is given, so the report's December 2025 publication date is used.",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "UNDP states the Plan Stratégique Numérique 2023-2028 sets targets including raising the digital sector's contribution to GDP to 6% by 2028; no cost is stated (date: report publication, December 2025).",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "UNDP states the plan is placed under the coordination of the digital ministry (MNDPT), which ensures coherence and strategic supervision of digital transformation; only 21% of surveyed experts consider the ministry and the Unité de Gouvernance Digitale fully operational (report December 2025).",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "UNDP reports that 86% of surveyed experts say digital budgets are limited per project and without sustained financing; it ties no budget line to the plan (report December 2025).",
+      "as_of": "2025-12",
+      "date_precision": "month",
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Plan Stratégique Numérique 2023-2028", "country_label": "Plan Stratégique Numérique / PSN 2023-2028", "class": "national", "platform": "", "owner": "Ministry of Digital Development (MNDPT)", "tiers": "national; 93% of surveyed experts say it is widely owned, 7% judge it fully on track"},
-    {"system": "PRODIGY", "country_label": "PRODIGY", "class": "programme", "platform": "", "owner": "World Bank-financed, run with the Unité de Gouvernance Digitale", "tiers": "digitises civil status and identity"},
-    {"system": "programme national de numérisation", "country_label": "programme national de numérisation", "class": "programme", "platform": "", "owner": "UNDP and the digital ministry", "tiers": "to be drawn up after the assessment, per the UNDP foreword"},
-    {"system": "Digital Readiness Assessment (DRA)", "country_label": "Évaluation de la Préparation Numérique", "class": "", "platform": "", "owner": "UNDP with MNDPT", "tiers": "national diagnostic across six pillars; not a strategy"},
-    {"system": "Cadre d'interopérabilité X-Road", "country_label": "X-Road", "class": "", "platform": "X-Road", "owner": "Unité de Gouvernance Digitale", "tiers": "public sector"}
+    {
+      "system": "Plan Stratégique Numérique 2023-2028",
+      "country_label": "Plan Stratégique Numérique / PSN 2023-2028",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Digital Development (MNDPT)",
+      "tiers": "national; 93% of surveyed experts say it is widely owned, 7% judge it fully on track"
+    },
+    {
+      "system": "PRODIGY",
+      "country_label": "PRODIGY",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank-financed, run with the Unité de Gouvernance Digitale",
+      "tiers": "digitises civil status and identity"
+    },
+    {
+      "system": "programme national de numérisation",
+      "country_label": "programme national de numérisation",
+      "class": "programme",
+      "platform": "",
+      "owner": "UNDP and the digital ministry",
+      "tiers": "to be drawn up after the assessment, per the UNDP foreword"
+    },
+    {
+      "system": "Digital Readiness Assessment (DRA)",
+      "country_label": "Évaluation de la Préparation Numérique",
+      "class": "",
+      "platform": "",
+      "owner": "UNDP with MNDPT",
+      "tiers": "national diagnostic across six pillars; not a strategy"
+    },
+    {
+      "system": "Cadre d'interopérabilité X-Road",
+      "country_label": "X-Road",
+      "class": "",
+      "platform": "X-Road",
+      "owner": "Unité de Gouvernance Digitale",
+      "tiers": "public sector"
+    }
   ],
   "note": "The file is a truncated capture. Adoption by a named act is not stated in the text read, so no standing fact; no published progress report against the plan's targets is stated, so no reporting fact (the 7% figure is an expert survey). The class of the PSN is read from the text (national vision, GDP target, aligned with the general state policy). The text read does not say the plan's own text is public."
 }

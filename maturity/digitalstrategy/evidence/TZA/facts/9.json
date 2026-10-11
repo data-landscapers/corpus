@@ -1,10 +1,26 @@
 {
   "slug": "2026-09-04-tza-wtpf-session-ict-priorities",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Daily News reports Minister Angellah Kairuki, at the ITU World Telecommunication/ICT Policy Forum in Nassau on 2026-09-04, citing implementation of the 'National Digital Economy Strategy 2024-2034', whose stated period had not ended; the article does not describe the strategy's scope (class left empty) or link its text. Text public: not stated", "as_of": "2026-09-04", "date_precision": "day", "system": "National Digital Economy Strategy 2024-2034", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "Daily News reports Minister Angellah Kairuki, at the ITU World Telecommunication/ICT Policy Forum in Nassau on 2026-09-04, citing implementation of the 'National Digital Economy Strategy 2024-2034', whose stated period had not ended; the article does not describe the strategy's scope (class left empty) or link its text. Text public: not stated",
+      "as_of": "2026-09-04",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Development Vision 2050", "country_label": "National Development Vision 2050", "class": "", "platform": "", "owner": "Government", "tiers": ""}
+    {
+      "system": "National Development Vision 2050",
+      "country_label": "National Development Vision 2050",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": ""
+    }
   ],
   "note": "Class of the National Digital Economy Strategy is empty: the article names it as the framework for ministry activity (758 4G towers, 800 digital clubs, Wi-Fi at 100 public locations) without describing its scope. No adopting act or verb is given."
 }

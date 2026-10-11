@@ -1,10 +1,46 @@
 {
   "slug": "2025-10-29-expert-panel-digital-overhaul--wearetech",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "We Are Tech says that on 23 October 2025 the 'Digital Algeria 2030' strategy had been finalised and was expected to begin implementation soon, naming no adopting act.", "as_of": "2025-10-23", "date_precision": "day", "system": "Digital Algeria 2030 strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The High Commission for Digitalisation, set up in 2023 to spearhead digital transformation, launched its 15-member Scientific and Technical Committee on 23 October 2025 to advise on national digital policy and review draft digitalisation legislation.", "as_of": "2025-10-23", "date_precision": "day", "system": "Digital Algeria 2030 strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The article gives the strategy's targets: training 500,000 ICT specialists, connecting all public institutions and raising the digital economy's share of GDP to 20% by 2030; no cost is stated.", "as_of": "2025-10-23", "date_precision": "day", "system": "Digital Algeria 2030 strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The High Commission for Digitalisation installed its Scientific and Technical Committee on 23 October 2025, completing its institutional set-up.", "as_of": "2025-10-23", "date_precision": "day", "system": "Digital Algeria 2030 strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "We Are Tech says that on 23 October 2025 the 'Digital Algeria 2030' strategy had been finalised and was expected to begin implementation soon, naming no adopting act.",
+      "as_of": "2025-10-23",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The High Commission for Digitalisation, set up in 2023 to spearhead digital transformation, launched its 15-member Scientific and Technical Committee on 23 October 2025 to advise on national digital policy and review draft digitalisation legislation.",
+      "as_of": "2025-10-23",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The article gives the strategy's targets: training 500,000 ICT specialists, connecting all public institutions and raising the digital economy's share of GDP to 20% by 2030; no cost is stated.",
+      "as_of": "2025-10-23",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The High Commission for Digitalisation installed its Scientific and Technical Committee on 23 October 2025, completing its institutional set-up.",
+      "as_of": "2025-10-23",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

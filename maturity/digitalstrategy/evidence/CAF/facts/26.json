@@ -1,17 +1,86 @@
 {
   "slug": "2020-01-01-worldbank-car-digital-economy-assessment",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "The World Bank's digital economy assessment states that there is currently no comprehensive digital strategy in the Central African Republic, and that most digital projects are run ad hoc by individual sector ministries (document dated 2020, no month given).", "as_of": "2020", "date_precision": "year", "system": "stratégie numérique globale de la RCA", "class": "national"},
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The assessment's SWOT lists a national digital strategy as in preparation, and says the Ministry of Posts and Telecommunications commissioned technical assistance to support a comprehensive Digital CAR strategy, with the level of buy-in from other ministries unclear (document dated 2020, no month given).", "as_of": "2020", "date_precision": "year", "system": "Plan National Stratégique de la Centrafrique Digitale à l'horizon 2025 (PNS CD 2025)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The assessment says the technical assistance for the Digital CAR strategy is financed under the Central African Backbone project, co-funded by the European Union and the African Development Bank; a feasibility study on the country's digital strategy was launched in 2020 under that project (document dated 2020, no month given).", "as_of": "2020", "date_precision": "year", "system": "Plan National Stratégique de la Centrafrique Digitale à l'horizon 2025 (PNS CD 2025)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The World Bank's digital economy assessment states that there is currently no comprehensive digital strategy in the Central African Republic, and that most digital projects are run ad hoc by individual sector ministries (document dated 2020, no month given).",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "No national digital strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The assessment's SWOT lists a national digital strategy as in preparation, and says the Ministry of Posts and Telecommunications commissioned technical assistance to support a comprehensive Digital CAR strategy, with the level of buy-in from other ministries unclear (document dated 2020, no month given).",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Plan National Stratégique Centrafrique Digitale 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The assessment says the technical assistance for the Digital CAR strategy is financed under the Central African Backbone project, co-funded by the European Union and the African Development Bank; a feasibility study on the country's digital strategy was launched in 2020 under that project (document dated 2020, no month given).",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "Plan National Stratégique Centrafrique Digitale 2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Plan National Stratégique de la Centrafrique Digitale à l'horizon 2025 (PNS CD 2025)", "country_label": "Plan National Stratégique de la Centrafrique Digitale à l'horizon 2025", "class": "national", "platform": "", "owner": "Ministry of Posts and Telecommunications, with technical assistance financed under the Central African Backbone project", "tiers": "national; in preparation at the time of the assessment"},
-    {"system": "Central African Backbone (CAB) project", "country_label": "projet du Backbone de l'Afrique centrale", "class": "programme", "platform": "", "owner": "Ministry of Posts and Telecommunications; co-financed by the European Union and the African Development Bank", "tiers": "national; 2017 to early 2022, with ICT infrastructure, ICT services and institutional strengthening components"},
-    {"system": "Plan de relèvement et de consolidation de la paix (RCPCA) 2017-2023", "country_label": "RCPCA 2017-2023", "class": "development-plan", "platform": "", "owner": "government of the Central African Republic", "tiers": "national; provides for new broadband infrastructure and e-government services"},
-    {"system": "stratégie de diversification de l'économie and vision RCA 2050", "country_label": "stratégie de diversification de l'économie; vision RCA 2050", "class": "development-plan", "platform": "", "owner": "government of the Central African Republic", "tiers": "national; places digital development as a priority for economic recovery"},
-    {"system": "Plan sectoriel de l'éducation (PSE) 2020-2029", "country_label": "Plan sectoriel de l'éducation 2020-2029", "class": "ministry-plan", "platform": "", "owner": "education sector", "tiers": "national; supports introducing ICT in the curriculum"},
-    {"system": "stratégie du Ministère de la Recherche Scientifique et de l'Innovation Technologique", "country_label": "stratégie du Ministère de la Recherche Scientifique et de l'Innovation Technologique", "class": "ministry-plan", "platform": "", "owner": "Ministry of Scientific Research and Technological Innovation", "tiers": "national; based on the African Union's digital transformation strategy"}
+    {
+      "system": "Plan National Stratégique de la Centrafrique Digitale à l'horizon 2025 (PNS CD 2025)",
+      "country_label": "Plan National Stratégique de la Centrafrique Digitale à l'horizon 2025",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications, with technical assistance financed under the Central African Backbone project",
+      "tiers": "national; in preparation at the time of the assessment"
+    },
+    {
+      "system": "Central African Backbone (CAB) project",
+      "country_label": "projet du Backbone de l'Afrique centrale",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications; co-financed by the European Union and the African Development Bank",
+      "tiers": "national; 2017 to early 2022, with ICT infrastructure, ICT services and institutional strengthening components"
+    },
+    {
+      "system": "Plan de relèvement et de consolidation de la paix (RCPCA) 2017-2023",
+      "country_label": "RCPCA 2017-2023",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "government of the Central African Republic",
+      "tiers": "national; provides for new broadband infrastructure and e-government services"
+    },
+    {
+      "system": "stratégie de diversification de l'économie and vision RCA 2050",
+      "country_label": "stratégie de diversification de l'économie; vision RCA 2050",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "government of the Central African Republic",
+      "tiers": "national; places digital development as a priority for economic recovery"
+    },
+    {
+      "system": "Plan sectoriel de l'éducation (PSE) 2020-2029",
+      "country_label": "Plan sectoriel de l'éducation 2020-2029",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "education sector",
+      "tiers": "national; supports introducing ICT in the curriculum"
+    },
+    {
+      "system": "stratégie du Ministère de la Recherche Scientifique et de l'Innovation Technologique",
+      "country_label": "stratégie du Ministère de la Recherche Scientifique et de l'Innovation Technologique",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Scientific Research and Technological Innovation",
+      "tiers": "national; based on the African Union's digital transformation strategy"
+    }
   ],
   "note": ""
 }

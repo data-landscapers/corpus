@@ -1,14 +1,58 @@
 {
   "slug": "2021-12-16-eu-ghana-multiannual-indicative-programme-2021-2027",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The EU-Ghana joint programming document states the government is in the process of finalising a new Digital Economy Policy and a Digital Transformation Blueprint to make Ghana the leader in ICT innovation in Sub-Saharan Africa; it gives no date, so the document's published date is used.", "as_of": "2021-12-16", "date_precision": "day", "system": "Digital Economy Policy and Digital Transformation Blueprint", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The EU-Ghana joint programming document states the government is in the process of finalising a new Digital Economy Policy and a Digital Transformation Blueprint to make Ghana the leader in ICT innovation in Sub-Saharan Africa; it gives no date, so the document's published date is used.",
+      "as_of": "2021-12-16",
+      "date_precision": "day",
+      "system": "Ghana Digital Economy Policy and Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Economy Policy and Digital Transformation Blueprint", "country_label": "Digital Economy Policy; Digital Transformation Blueprint", "class": "national", "platform": "", "owner": "Government of Ghana (Ministry of Communication)", "tiers": "National; being finalised as of December 2021; the document does not say whether the policy and blueprint are one text or two"},
-    {"system": "Ghana Beyond Aid Agenda", "country_label": "Ghana Beyond Aid", "class": "development-plan", "platform": "", "owner": "Government of Ghana", "tiers": "National; digital technologies named as crucial to it"},
-    {"system": "Long-Term National Development Plan 2018-2057 and Medium-Term National Development Agenda", "country_label": "LTNDP 2018-2057", "class": "development-plan", "platform": "", "owner": "Government of Ghana", "tiers": "National; no digital chapter described"},
-    {"system": "Science, Technology and Innovation (STI) for SDGs Roadmap", "country_label": "STI for SDGs Roadmap", "class": "thematic", "platform": "", "owner": "Government of Ghana", "tiers": "National; being launched as of 2021"},
-    {"system": "Team Europe Initiative: Smart, green and digital recovery in Ghana", "country_label": "", "class": "programme", "platform": "", "owner": "EU and member states; EUR 101.5m EU contribution", "tiers": "National; supports digital transformation through the Ministry of Communication, NITA, the National Cybersecurity Centre and the Data Protection Commission"}
+    {
+      "system": "Digital Economy Policy and Digital Transformation Blueprint",
+      "country_label": "Digital Economy Policy; Digital Transformation Blueprint",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Ghana (Ministry of Communication)",
+      "tiers": "National; being finalised as of December 2021; the document does not say whether the policy and blueprint are one text or two"
+    },
+    {
+      "system": "Ghana Beyond Aid Agenda",
+      "country_label": "Ghana Beyond Aid",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Ghana",
+      "tiers": "National; digital technologies named as crucial to it"
+    },
+    {
+      "system": "Long-Term National Development Plan 2018-2057 and Medium-Term National Development Agenda",
+      "country_label": "LTNDP 2018-2057",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Ghana",
+      "tiers": "National; no digital chapter described"
+    },
+    {
+      "system": "Science, Technology and Innovation (STI) for SDGs Roadmap",
+      "country_label": "STI for SDGs Roadmap",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Ghana",
+      "tiers": "National; being launched as of 2021"
+    },
+    {
+      "system": "Team Europe Initiative: Smart, green and digital recovery in Ghana",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "EU and member states; EUR 101.5m EU contribution",
+      "tiers": "National; supports digital transformation through the Ministry of Communication, NITA, the National Cybersecurity Centre and the Data Protection Commission"
+    }
   ],
   "note": ""
 }

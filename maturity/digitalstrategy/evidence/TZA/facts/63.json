@@ -1,7 +1,16 @@
 {
   "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The World Bank's March 2023 regional brief says Tanzania's 'current digital transformation strategy is at the draft stage', with the e-Government Authority providing leadership on ICT policies and strategies; the brief gives no date for the draft, so its publication month is used.", "as_of": "2023-03", "date_precision": "month", "system": "digital transformation strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The World Bank's March 2023 regional brief says Tanzania's 'current digital transformation strategy is at the draft stage', with the e-Government Authority providing leadership on ICT policies and strategies; the brief gives no date for the draft, so its publication month is used.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": "Class left empty: the brief names the strategy only as Tanzania's 'digital transformation strategy' at draft stage and does not describe its scope; it may be the government-only strategy or a national one. The e-Government Authority (established 2012) is a body, not a system."

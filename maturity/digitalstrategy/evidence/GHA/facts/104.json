@@ -1,12 +1,44 @@
 {
   "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afw",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The World Bank brief states a new Digital Economy Policy prepared by the Ministry of Communications and Digitalisation completed a series of public consultations in November 2022 and is at the final stage of approval; the brief gives no date for that status, so its March 2023 publication date is used.", "as_of": "2023-03", "date_precision": "month", "system": "Digital Economy Policy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "none", "fact": "The World Bank brief states an implementation plan/strategy associated with the Digital Economy Policy will be prepared once the policy is approved, so none existed at its March 2023 publication date.", "as_of": "2023-03", "date_precision": "month", "system": "Digital Economy Policy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "The World Bank brief states a new Digital Economy Policy prepared by the Ministry of Communications and Digitalisation completed a series of public consultations in November 2022 and is at the final stage of approval; the brief gives no date for that status, so its March 2023 publication date is used.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Ghana Digital Economy Policy and Strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "none",
+      "fact": "The World Bank brief states an implementation plan/strategy associated with the Digital Economy Policy will be prepared once the policy is approved, so none existed at its March 2023 publication date.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Ghana Digital Economy Policy and Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Economy Policy", "country_label": "Digital Economy Policy", "class": "national", "platform": "", "owner": "Ministry of Communications and Digitalisation (MoCD)", "tiers": "National; consultations completed November 2022; at final stage of approval in March 2023; the brief ties it to whole-of-government gaps in shared platforms, data centres and digital signature"},
-    {"system": "Ghana Digital Acceleration Project (P176126)", "country_label": "Ghana Digital Acceleration Project", "class": "programme", "platform": "", "owner": "World Bank financed", "tiers": "Public sector: national interoperability standard, new shared services and platforms"}
+    {
+      "system": "Digital Economy Policy",
+      "country_label": "Digital Economy Policy",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communications and Digitalisation (MoCD)",
+      "tiers": "National; consultations completed November 2022; at final stage of approval in March 2023; the brief ties it to whole-of-government gaps in shared platforms, data centres and digital signature"
+    },
+    {
+      "system": "Ghana Digital Acceleration Project (P176126)",
+      "country_label": "Ghana Digital Acceleration Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank financed",
+      "tiers": "Public sector: national interoperability standard, new shared services and platforms"
+    }
   ],
   "note": ""
 }

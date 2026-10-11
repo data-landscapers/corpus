@@ -1,11 +1,34 @@
 {
   "slug": "2026-03-01 DPI Roadmap Playbook",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The document gives South Africa's Digital Transformation Roadmap as a worked case and states it was approved by Cabinet on 26 March 2025.", "as_of": "2025-03-26", "date_precision": "day", "system": "Digital Transformation Roadmap", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The document gives South Africa's Digital Transformation Roadmap as a worked case and states it was approved by Cabinet on 26 March 2025.",
+      "as_of": "2025-03-26",
+      "date_precision": "day",
+      "system": "Roadmap for the Digital Transformation of Government",
+      "class": "government"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "Cabinet (approved)", "tiers": "national; MyMzansi citizen-portal prototype built in 10 weeks by November 2025"},
-    {"system": "MyMzansi citizen portal", "country_label": "MyMzansi", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "Digital Transformation Roadmap",
+      "country_label": "Digital Transformation Roadmap",
+      "class": "",
+      "platform": "",
+      "owner": "Cabinet (approved)",
+      "tiers": "national; MyMzansi citizen-portal prototype built in 10 weeks by November 2025"
+    },
+    {
+      "system": "MyMzansi citizen portal",
+      "country_label": "MyMzansi",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "The document dates the Roadmap's approval but does not describe its scope, so the fact is recorded with class left empty."
 }

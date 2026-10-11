@@ -1,12 +1,42 @@
 {
   "slug": "2025-03-04 Madagascar Launches Digital Readiness Assessment to Tackle Hurdles",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "We Are Tech Africa reports that the Digital Readiness Assessment launched by the digital ministry and UNDP on 27 February 2025 in Antsirabe serves as the basis for a strategic roadmap; no roadmap text, scope or adoption is stated.", "as_of": "2025-02-27", "date_precision": "day", "system": "strategic roadmap", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "We Are Tech Africa reports that the Digital Readiness Assessment launched by the digital ministry and UNDP on 27 February 2025 in Antsirabe serves as the basis for a strategic roadmap; no roadmap text, scope or adoption is stated.",
+      "as_of": "2025-02-27",
+      "date_precision": "day",
+      "system": "Feuille de route nationale pour le numérique",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Readiness Assessment (DRA)", "country_label": "Digital Readiness Assessment", "class": "", "platform": "", "owner": "Ministry of Digital Development, Posts and Telecommunications with UNDP", "tiers": "national diagnostic on five pillars; launched 27 February 2025"},
-    {"system": "2023-2028 Digital Strategic Plan", "country_label": "Digital Strategic Plan 2023-2028", "class": "", "platform": "", "owner": "", "tiers": "named as highlighting a shortage of about 40,000 specialised technicians"},
-    {"system": "programme to train 6,000 people in emerging digital professions", "country_label": "", "class": "programme", "platform": "", "owner": "Ministry of Digital Development, Posts and Telecommunications", "tiers": "over three years"}
+    {
+      "system": "Digital Readiness Assessment (DRA)",
+      "country_label": "Digital Readiness Assessment",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digital Development, Posts and Telecommunications with UNDP",
+      "tiers": "national diagnostic on five pillars; launched 27 February 2025"
+    },
+    {
+      "system": "2023-2028 Digital Strategic Plan",
+      "country_label": "Digital Strategic Plan 2023-2028",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as highlighting a shortage of about 40,000 specialised technicians"
+    },
+    {
+      "system": "programme to train 6,000 people in emerging digital professions",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Digital Development, Posts and Telecommunications",
+      "tiers": "over three years"
+    }
   ],
   "note": "Roadmap fact recorded with class empty: the article states it will follow the assessment but does not describe its scope. The Digital Strategic Plan is named with no dated fact about it."
 }

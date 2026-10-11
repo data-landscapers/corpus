@@ -1,0 +1,119 @@
+iso3,pattern,instrument,class,period_end
+BDI,.,No national digital strategy,national,
+BEN,2031|2033|national digital policy,Stratégie numérique du Bénin 2031,national,2031
+BEN,.,Digital strategy 2021-2026,national,2026
+BFA,SN@DEN|conomie num,SN@DEN 2018-2027,national,2027
+BFA,.,Feuille de route de transformation digitale 2030 (douze chantiers),national,2030
+BWA,.,SmartBots Digital Transformation Strategy,national,
+CAF,Centrafrique Digitale,Plan National Stratégique Centrafrique Digitale 2025,national,2025
+CAF,.,No national digital strategy,national,
+CIV,40 flagship|Africa Investment Forum,Feuille de route numérique 2026-2028,ministry-plan,
+CIV,2025-2035|NDTS|2026-2030|successor|national strategy for digital development|^National digital strategy$,Stratégie nationale de transformation numérique 2025-2035,national,2035
+CIV,.,Stratégie nationale de développement du numérique 2021-2025,national,2025
+COD,PSEN|Politique sectorielle,Politique sectorielle de l'économie numérique 2026-2030,national,2030
+COD,2026-2030|PNN2|Draft digital transformation strategy|SNEN,Plan national du numérique 2026-2030 (PNN2),national,2030
+COD,.,Plan National du Numérique Horizon 2025,national,2025
+COG,2030|^stratégie de l'économie numérique$,Stratégie numérique 2030,national,2030
+COG,.,Vision Congo Digital 2025,national,2025
+COM,.,Comores Numérique 2028,national,2028
+CPV,Governação Digital,Estratégia para a Governação Digital de Cabo Verde 2021-2024,government,
+CPV,2035|futura agenda|Cape Verde's Digital Strategy,Agenda Digital de Cabo Verde 2035,national,2035
+CPV,2019-21,Agenda Digital 2019-2021,national,2021
+CPV,Economia Digital,Estratégia para a Economia Digital de Cabo Verde,national,
+DJI,stratégie numérique nationale,No national digital strategy,national,
+DJI,.,,,
+DZA,.,Stratégie nationale de transformation numérique 2025-2030,national,2030
+EGY,fully digital state,National strategy for building a fully digital state,national,
+EGY,.,,,
+ERI,.,No national digital strategy,national,
+ETH,2030|^Digital Ethiopia Strategy$,Digital Ethiopia 2030,national,2030
+ETH,.,Digital Ethiopia 2025,national,2025
+GAB,.,,,
+GHA,Emerging Technology,National Digital Transformation and Emerging Technology Strategy,national,
+GHA,.,Ghana Digital Economy Policy and Strategy,national,2028
+GIN,WARDIP,National digital economy policy and strategy (planned),national,
+GIN,.,Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027,national,2027
+GMB,ICT4D|ICT for Development|ICT Master Plan,ICT4D Policy and ICT Master Plan,sector-ict,
+GMB,Master Plan,National Digital Economy Master Plan 2024-2034,national,2034
+GMB,.,National Digital ID and Digital Transformation Strategy 2023-2028,national,2028
+GNB,country-?wide|whole-of-government|standalone,No national digital strategy,national,
+GNB,.,ENTD.GW 2025-2030,national,2030
+GNQ,.,Estrategia Nacional de Economía Digital,national,
+KEN,Blueprint,Digital Economy Blueprint 2019,national,
+KEN,2014-2017,National ICT Master Plan 2014-2017,national,2022
+KEN,National Digital Policy,,,
+KEN,.,Kenya National Digital Master Plan 2022-2032,national,2032
+LBR,.,National Digital Strategy 2025-2029,national,2029
+LBY,AI|Artificial,National Artificial Intelligence Strategy,thematic,
+LBY,Government Digital Transformation,National Strategy for Government Digital Transformation,national,
+LBY,.,National Digital Transformation Strategy 2023-2030,national,2030
+LSO,Policy,National Digital Policy 2024-2035,national,2035
+LSO,.,National Digital Transformation Strategy: Agenda 2030,national,2030
+MAR,^$,No national digital strategy,national,
+MAR,2030|^digital strategy$|new national digital strategy,Maroc Digital 2030,national,2030
+MAR,.,Maroc Numeric 2013 and Maroc Digital 2020,national,2020
+MDG,feuille de route|strategic roadmap,Feuille de route nationale pour le numérique,national,
+MDG,.,Plan Stratégique Numérique 2023-2028,national,2028
+MLI,Mali Numérique 2020,Mali Numérique 2020,national,2020
+MLI,2023-2027,Stratégie numérique 2023-2027,national,2027
+MLI,politique nationale,Politique nationale de développement de l'économie numérique 2021-2034,national,2034
+MLI,.,,,
+MOZ,Política,Política para a Sociedade da Informação,sector-ict,
+MOZ,Sociedade|Information Society,Plano Estratégico para a Sociedade de Informação 2019-2028,national,2028
+MOZ,.,Estratégia Nacional de Transformação Digital,national,
+MRT,2030,Agenda nationale de transformation numérique 2030,national,2030
+MRT,2012|Modernis|Moderniz,Stratégie nationale de modernisation de l'administration et des TIC 2012-2016,national,2016
+MRT,technologies numériques,,,
+MRT,.,Agenda national de transformation numérique 2022-2025,national,2025
+MUS,DGTS|Government Transformation,Digital Government Transformation Strategy,government,
+MUS,Digital Mauritius 2030,Digital Mauritius 2030 Strategic Plan,national,2030
+MUS,.,Digital Transformation Blueprint 2025-2029,national,2029
+MWI,Digitali[sz]ation Policy,National Digitalization Policy 2023-2028,national,2028
+MWI,Digital Economy Strategy,National Digital Economy Strategy 2023-2028,national,2028
+MWI,Malawi Digital Strategy,,,
+MWI,.,National Digital Transformation Strategy,national,
+NAM,.,National Digital Strategy 2025-2029,national,2029
+NER,2026-2035|PNDN|veloppement du num,Politique nationale de développement du numérique 2026-2035,national,2035
+NER,2021-2030,Politique nationale du numérique 2021-2030,national,2030
+NER,.,,,
+NGA,Agenda|Blueprint,FMCIDE Strategic Blueprint 2023-2027,ministry-plan,
+NGA,.,National Digital Economy Policy and Strategy 2020-2030,national,2030
+RWA,ICT Sector,ICT Sector Strategic Plan 2024-2029,sector-ict,
+RWA,ICT for Development|^the digital transformation strategy$,,,
+RWA,2021-2025,Digital Transformation Strategy for Rwanda (ICT Master Plan 2021-2025),national,2025
+RWA,.,Smart Rwanda 2020 Master Plan,national,2020
+SDN,.,Digital transformation strategy (announced 2025),national,
+SEN,SN2025|Strategy 2025,Stratégie Sénégal Numérique 2025,national,2025
+SEN,.,New Deal Technologique 2025-2034,national,2034
+SLE,Roadmap,National Digital Transformation Roadmap,national,
+SLE,Innovation,National Innovation and Digital Strategy 2019-2029,national,2029
+SLE,Strategy,National Digital Development Strategy 2022,national,
+SLE,.,National Digital Development Policy 2021,national,
+SOM,.,Digital Transformation Strategy 2025-2030,national,2030
+SSD,Government,Digital Government Strategy,government,
+SSD,.,Digital Development Road Map and Master Plan,national,
+STP,.,National digital transformation strategy,national,
+SWZ,.,Eswatini Digitalisation Strategy 2024-2028,government,
+SYC,.,National AI and digital strategy,national,
+TCD,Connexion|Connection,Tchad Connexion 2030,national,2030
+TCD,Horizon 2030,Chad Digital Strategy Horizon 2030,national,
+TCD,holistic,No national digital strategy,national,
+TCD,.,Stratégie nationale de transformation numérique 2020-2030,national,2030
+TGO,2025-2030,Togo Digital 2025-2030,national,2030
+TGO,coordinated,No national digital strategy,national,
+TGO,.,Togo Digital 2025,national,2025
+TUN,2021-2025,Stratégie nationale du numérique 2021-2025,national,2025
+TUN,Tunisie Digitale,Plan national stratégique Tunisie Digitale 2020,national,2025
+TUN,.,,,
+TZA,.,Digital Economy Strategic Framework 2024-2034,national,2034
+UGA,Vision,Vision for a Digital Uganda 2040,national,2040
+UGA,[Rr]oadmap,Digital Transformation Roadmap 2023/24-2027/28,national,2028
+UGA,Industrial,National Fourth Industrial Revolution Strategy,thematic,
+UGA,.,,,
+ZAF,overarching,No national digital strategy,national,
+ZAF,[Rr]oadmap,Roadmap for the Digital Transformation of Government,government,
+ZAF,.,,,
+ZMB,SMART|e-Government,National Electronic Government Plan and SMART Zambia,government,
+ZMB,.,National Digital Transformation Strategy 2023-2027,national,2027
+ZWE,Roadmap,National Digital Roadmap 2026-2030,national,2030
+ZWE,.,Smart Zimbabwe 2030 Master Plan,national,2030

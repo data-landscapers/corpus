@@ -1,10 +1,26 @@
 {
   "slug": "2025-11-18-govt-inclusive-ai-curriculum-learners",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article quotes the Uganda Institute of ICT principal citing Uganda's Digital Transformation Roadmap for the 2023/24 to 2027/28 financial years, with a Pillar 5 on Innovations and Entrepreneurship; the article's published date 2025-11-18 is used as the as-of and falls inside that period. Text public: not stated", "as_of": "2025-11-18", "date_precision": "day", "system": "Digital Transformation Roadmap 2023/24-2027/28", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The article quotes the Uganda Institute of ICT principal citing Uganda's Digital Transformation Roadmap for the 2023/24 to 2027/28 financial years, with a Pillar 5 on Innovations and Entrepreneurship; the article's published date 2025-11-18 is used as the as-of and falls inside that period. Text public: not stated",
+      "as_of": "2025-11-18",
+      "date_precision": "day",
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Roadmap 2023/24-2027/28", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "", "tiers": "described only through its Pillar 5 (Innovations and Entrepreneurship: regional innovation hubs by 2027)"}
+    {
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "country_label": "Digital Transformation Roadmap",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "described only through its Pillar 5 (Innovations and Entrepreneurship: regional innovation hubs by 2027)"
+    }
   ],
   "note": "The article gives the Roadmap's period and one pillar but not its overall scope, so the fact is recorded with class left empty."
 }

@@ -1,14 +1,58 @@
 {
   "slug": "2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The health roadmap says the Universal Access Development Fund was 'established through' the National Digital Development Policy in the Ministry of Communications, Technology, and Innovations, as a funding source for universal access; the document does not describe the policy's scope.", "as_of": "2021", "date_precision": "year", "system": "National Digital Development Policy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The health roadmap says the Universal Access Development Fund was 'established through' the National Digital Development Policy in the Ministry of Communications, Technology, and Innovations, as a funding source for universal access; the document does not describe the policy's scope.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "National Digital Development Policy 2021",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Health Roadmap 2024-2026", "country_label": "National Digital Health Roadmap", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "health sector"},
-    {"system": "National Digital Health Strategy", "country_label": "National Digital Health Strategy", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "health sector"},
-    {"system": "National Innovation & Digital Strategy 2019", "country_label": "National Innovation & Digital Strategy, 2019", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "National ICT Policy 2017", "country_label": "National ICT policy, 2017", "class": "sector-ict", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Cyber Security Policy 2020", "country_label": "Cyber Security Policy, 2020", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "National Digital Health Roadmap 2024-2026",
+      "country_label": "National Digital Health Roadmap",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "health sector"
+    },
+    {
+      "system": "National Digital Health Strategy",
+      "country_label": "National Digital Health Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "health sector"
+    },
+    {
+      "system": "National Innovation & Digital Strategy 2019",
+      "country_label": "National Innovation & Digital Strategy, 2019",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National ICT Policy 2017",
+      "country_label": "National ICT policy, 2017",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Cyber Security Policy 2020",
+      "country_label": "Cyber Security Policy, 2020",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "A health-sector roadmap (thematic). The national strategies appear only as listed ICT frameworks and in a milestone figure; the one fact is the fund created through the 2021 policy, dated to the policy year since the document gives no other date."
 }

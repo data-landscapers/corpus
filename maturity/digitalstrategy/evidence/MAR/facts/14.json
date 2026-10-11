@@ -1,13 +1,54 @@
 {
   "slug": "2026-07-20-maroc-capgemini-ia-memorandum",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The article says Maroc Digital 2030 was launched in September 2024, naming no adopting act or body.", "as_of": "2024-09", "date_precision": "month", "system": "Maroc Digital 2030", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The article gives Maroc Digital 2030 targets of 240,000 digital jobs and 3,000 start-ups by 2030, with no cost stated; no date is given for the statement, so the published date is used.", "as_of": "2026-07-20", "date_precision": "day", "system": "Maroc Digital 2030", "class": ""},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 17 July 2026 the Ministry of Digital Transition and Administration Reform signed a memorandum with Capgemini Maroc on AI skills in administrations, universities and research centres, presented as part of implementing Maroc Digital 2030.", "as_of": "2026-07-17", "date_precision": "day", "system": "Maroc Digital 2030", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The article says Maroc Digital 2030 was launched in September 2024, naming no adopting act or body.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The article gives Maroc Digital 2030 targets of 240,000 digital jobs and 3,000 start-ups by 2030, with no cost stated; no date is given for the statement, so the published date is used.",
+      "as_of": "2026-07-20",
+      "date_precision": "day",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 17 July 2026 the Ministry of Digital Transition and Administration Reform signed a memorandum with Capgemini Maroc on AI skills in administrations, universities and research centres, presented as part of implementing Maroc Digital 2030.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Maroc Digital 2030", "country_label": "stratégie « Maroc Digital 2030 »", "class": "", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": ""},
-    {"system": "AI Made in Morocco roadmap", "country_label": "feuille de route « AI Made in Morocco »", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Maroc Digital 2030",
+      "country_label": "stratégie « Maroc Digital 2030 »",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Administration Reform",
+      "tiers": ""
+    },
+    {
+      "system": "AI Made in Morocco roadmap",
+      "country_label": "feuille de route « AI Made in Morocco »",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "Class is left empty on the facts: the article gives dated facts and targets for Maroc Digital 2030 but does not say whether it covers the whole government and both economy and state."
 }

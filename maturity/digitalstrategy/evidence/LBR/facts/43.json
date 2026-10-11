@@ -1,12 +1,44 @@
 {
   "slug": "2025-10-28-world-bank-digital-liberia-week-2025-event-book",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Digital Liberia Week event book records that its National Coordination Session, held during 28-30 October 2025, marked the official launch of Liberia's National Digital Strategy (2025-2029); the launch is by event participants and ministry officials, with no head of state or adopting act named, and the session day is not given.", "as_of": "2025-10", "date_precision": "month", "system": "National Digital Strategy (2025-2029)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The same session activated the Digital Transformation Working Group, which the Ministry of Posts and Telecommunications' Assistant Minister for Technical Services said will coordinate Liberia's digital activities on infrastructure, skills, governance, the digital economy and cybersecurity; the record names no act establishing it and no budget line.", "as_of": "2025-10", "date_precision": "month", "system": "National Digital Strategy (2025-2029)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The Digital Liberia Week event book records that its National Coordination Session, held during 28-30 October 2025, marked the official launch of Liberia's National Digital Strategy (2025-2029); the launch is by event participants and ministry officials, with no head of state or adopting act named, and the session day is not given.",
+      "as_of": "2025-10",
+      "date_precision": "month",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The same session activated the Digital Transformation Working Group, which the Ministry of Posts and Telecommunications' Assistant Minister for Technical Services said will coordinate Liberia's digital activities on infrastructure, skills, governance, the digital economy and cybersecurity; the record names no act establishing it and no budget line.",
+      "as_of": "2025-10",
+      "date_precision": "month",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy (2025-2029)", "country_label": "National Digital Strategy (2025-2029)", "class": "national", "platform": "", "owner": "Government of Liberia; Chief Information Officer presented its vision as a digitally empowered, inclusive society where technology transforms governance and drives economic development", "tiers": "Governance, services and economic development"},
-    {"system": "Digital Transformation Working Group", "country_label": "National Digital Transformation Working Group (DTWG)", "class": "directive", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "Coordination body activated October 2025"}
+    {
+      "system": "National Digital Strategy (2025-2029)",
+      "country_label": "National Digital Strategy (2025-2029)",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Liberia; Chief Information Officer presented its vision as a digitally empowered, inclusive society where technology transforms governance and drives economic development",
+      "tiers": "Governance, services and economic development"
+    },
+    {
+      "system": "Digital Transformation Working Group",
+      "country_label": "National Digital Transformation Working Group (DTWG)",
+      "class": "directive",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications",
+      "tiers": "Coordination body activated October 2025"
+    }
   ],
   "note": "The event book is a short record of sessions and quotations; it gives the launch and the working group but no text, period, plan or report."
 }

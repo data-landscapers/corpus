@@ -1,23 +1,148 @@
 {
   "slug": "2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The strategy's foreword thanks UNDP and the African Development Bank for support through the technical workshops and the national workshop to validate the strategy document; the document names no adopting act, decree or launch by the head of state or government.", "as_of": "2024-06-11", "date_precision": "day", "system": "Stratégie Nationale de Digitalisation de l'Etat et de Développement de l'Economie Numérique (Guinée Digitale 2023-2027)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The strategy text, version 1.2 dated 11 June 2024, is public on the state digitalisation agency's site and covers 2023-2027, with a 2027 horizon vision.", "as_of": "2024-06-11", "date_precision": "day", "system": "Stratégie Nationale de Digitalisation de l'Etat et de Développement de l'Economie Numérique (Guinée Digitale 2023-2027)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The strategy sets a roadmap of 245 initiatives under 41 orientations and six axes, each with a responsible body, a cost in thousand USD and a duration, for a stated total investment of GNF 3,649,955,743 million (USD 422,152 thousand).", "as_of": "2024-06-11", "date_precision": "day", "system": "Stratégie Nationale de Digitalisation de l'Etat et de Développement de l'Economie Numérique (Guinée Digitale 2023-2027)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The strategy names the Ministry of Posts, Telecommunications and Digital Economy as pilot ministry and the state digitalisation agency ANDE as created to ensure implementation and monitoring of government digital policy, and proposes a National Committee for State Digitalisation (initiative 1.2.1) and a steering dashboard (1.2.5).", "as_of": "2024-06-11", "date_precision": "day", "system": "Stratégie Nationale de Digitalisation de l'Etat et de Développement de l'Economie Numérique (Guinée Digitale 2023-2027)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:not-stated", "fact": "The strategy costs its initiatives but states no domestic budget line or allocation and no funder for the USD 422,152 thousand total; the UNDP and African Development Bank support it acknowledges is for preparing the document.", "as_of": "2024-06-11", "date_precision": "day", "system": "Stratégie Nationale de Digitalisation de l'Etat et de Développement de l'Economie Numérique (Guinée Digitale 2023-2027)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "The strategy's foreword thanks UNDP and the African Development Bank for support through the technical workshops and the national workshop to validate the strategy document; the document names no adopting act, decree or launch by the head of state or government.",
+      "as_of": "2024-06-11",
+      "date_precision": "day",
+      "system": "Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The strategy text, version 1.2 dated 11 June 2024, is public on the state digitalisation agency's site and covers 2023-2027, with a 2027 horizon vision.",
+      "as_of": "2024-06-11",
+      "date_precision": "day",
+      "system": "Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2027",
+      "fact": "The strategy text, version 1.2 dated 11 June 2024, is public on the state digitalisation agency's site and covers 2023-2027, with a 2027 horizon vision.",
+      "as_of": "2024-06-11",
+      "date_precision": "day",
+      "system": "Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The strategy sets a roadmap of 245 initiatives under 41 orientations and six axes, each with a responsible body, a cost in thousand USD and a duration, for a stated total investment of GNF 3,649,955,743 million (USD 422,152 thousand).",
+      "as_of": "2024-06-11",
+      "date_precision": "day",
+      "system": "Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The strategy names the Ministry of Posts, Telecommunications and Digital Economy as pilot ministry and the state digitalisation agency ANDE as created to ensure implementation and monitoring of government digital policy, and proposes a National Committee for State Digitalisation (initiative 1.2.1) and a steering dashboard (1.2.5).",
+      "as_of": "2024-06-11",
+      "date_precision": "day",
+      "system": "Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The strategy costs its initiatives but states no domestic budget line or allocation and no funder for the USD 422,152 thousand total; the UNDP and African Development Bank support it acknowledges is for preparing the document.",
+      "as_of": "2024-06-11",
+      "date_precision": "day",
+      "system": "Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Stratégie Nationale de Digitalisation de l'Etat et de Développement de l'Economie Numérique (Guinée Digitale 2023-2027)", "country_label": "Guinée Digitale 2023-2027", "class": "national", "platform": "", "owner": "MPTEN with ANDE", "tiers": "national, state and digital economy, six axes"},
-    {"system": "Vision Guinée 2040", "country_label": "Vision Guinée 2040", "class": "development-plan", "platform": "", "owner": "Government of Guinea", "tiers": "national; named as an input"},
-    {"system": "Plan National de Développement Economique et Social (PNDES 2016-2020)", "country_label": "PNDES", "class": "development-plan", "platform": "", "owner": "Government of Guinea", "tiers": "national; named as an input"},
-    {"system": "Document de Politique et Stratégie Nationales de Développement des TIC (PSNDTIC 2016-2020)", "country_label": "PSNDTIC / Stratégie Nationale TIC", "class": "sector-ict", "platform": "", "owner": "MPTEN", "tiers": "national; stated as under revision"},
-    {"system": "Stratégie Nationale de Cyber sécurité Guinée (2019-2023)", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Stratégie e-Administration de la Guinée (2015-2019)", "country_label": "", "class": "government", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Stratégie digitale du Ministère de la Santé", "country_label": "", "class": "ministry-plan", "platform": "", "owner": "Ministry of Health", "tiers": "sector"},
-    {"system": "Stratégie digitale du Ministère de l'Agriculture et de l'Elevage (2021-2024)", "country_label": "", "class": "ministry-plan", "platform": "", "owner": "Ministry of Agriculture and Livestock", "tiers": "sector"},
-    {"system": "Schéma Directeur SI du Ministère des Mines", "country_label": "", "class": "ministry-plan", "platform": "", "owner": "Ministry of Mines and Geology", "tiers": "ministry"},
-    {"system": "Plan d'actions SI de la Primature", "country_label": "", "class": "ministry-plan", "platform": "", "owner": "Prime Minister's office", "tiers": "ministry"}
+    {
+      "system": "Stratégie Nationale de Digitalisation de l'Etat et de Développement de l'Economie Numérique (Guinée Digitale 2023-2027)",
+      "country_label": "Guinée Digitale 2023-2027",
+      "class": "national",
+      "platform": "",
+      "owner": "MPTEN with ANDE",
+      "tiers": "national, state and digital economy, six axes"
+    },
+    {
+      "system": "Vision Guinée 2040",
+      "country_label": "Vision Guinée 2040",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Guinea",
+      "tiers": "national; named as an input"
+    },
+    {
+      "system": "Plan National de Développement Economique et Social (PNDES 2016-2020)",
+      "country_label": "PNDES",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Guinea",
+      "tiers": "national; named as an input"
+    },
+    {
+      "system": "Document de Politique et Stratégie Nationales de Développement des TIC (PSNDTIC 2016-2020)",
+      "country_label": "PSNDTIC / Stratégie Nationale TIC",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "MPTEN",
+      "tiers": "national; stated as under revision"
+    },
+    {
+      "system": "Stratégie Nationale de Cyber sécurité Guinée (2019-2023)",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Stratégie e-Administration de la Guinée (2015-2019)",
+      "country_label": "",
+      "class": "government",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Stratégie digitale du Ministère de la Santé",
+      "country_label": "",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "sector"
+    },
+    {
+      "system": "Stratégie digitale du Ministère de l'Agriculture et de l'Elevage (2021-2024)",
+      "country_label": "",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Agriculture and Livestock",
+      "tiers": "sector"
+    },
+    {
+      "system": "Schéma Directeur SI du Ministère des Mines",
+      "country_label": "",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Mines and Geology",
+      "tiers": "ministry"
+    },
+    {
+      "system": "Plan d'actions SI de la Primature",
+      "country_label": "",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Prime Minister's office",
+      "tiers": "ministry"
+    }
   ],
   "note": ""
 }

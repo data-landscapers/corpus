@@ -1,11 +1,34 @@
 {
   "slug": "2021-06-08-dcd-togo-first-carrier-neutral-colocation-lome",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "At the opening of the Lomé data centre on 2021-06-08 the Minister of the Digital Economy and Digital Transformation referred to 'the 2020-2025 roadmap', a stated period that covers that date; the article describes no scope for the roadmap and does not say whether its text is published. Text public: not stated.", "as_of": "2021-06-08", "date_precision": "day", "system": "2020-2025 roadmap", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "At the opening of the Lomé data centre on 2021-06-08 the Minister of the Digital Economy and Digital Transformation referred to 'the 2020-2025 roadmap', a stated period that covers that date; the article describes no scope for the roadmap and does not say whether its text is published. Text public: not stated.",
+      "as_of": "2021-06-08",
+      "date_precision": "day",
+      "system": "Togo Digital 2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "2020-2025 roadmap", "country_label": "2020-2025 roadmap", "class": "", "platform": "", "owner": "Ministry of the Digital Economy and Digital Transformation", "tiers": ""},
-    {"system": "Lomé Data Center", "country_label": "Lomé Data Center", "class": "", "platform": "carrier-neutral colocation, operated by Africa Data Centres", "owner": "Société d'Infrastructures Numériques (SIN)", "tiers": "private sector and government"}
+    {
+      "system": "2020-2025 roadmap",
+      "country_label": "2020-2025 roadmap",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of the Digital Economy and Digital Transformation",
+      "tiers": ""
+    },
+    {
+      "system": "Lomé Data Center",
+      "country_label": "Lomé Data Center",
+      "class": "",
+      "platform": "carrier-neutral colocation, operated by Africa Data Centres",
+      "owner": "Société d'Infrastructures Numériques (SIN)",
+      "tiers": "private sector and government"
+    }
   ],
   "note": "Class left empty: the roadmap is named with a period but its scope is not described."
 }

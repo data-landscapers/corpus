@@ -1,11 +1,34 @@
 {
   "slug": "2025-01-07-digital-projects-public-services--telecomreviewafrica",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The High Commissioner for Digitalisation announced at a Government-Walis meeting a plan of more than 500 projects over 2025-2026 under the 'Digital Algeria 2030' strategy, 75% of them for public-service transparency and simpler procedures; no cost is stated.", "as_of": "2025-01", "date_precision": "month", "system": "Digital Algeria 2030", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The High Commissioner for Digitalisation announced at a Government-Walis meeting a plan of more than 500 projects over 2025-2026 under the 'Digital Algeria 2030' strategy, 75% of them for public-service transparency and simpler procedures; no cost is stated.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Interactive National Portal for Digital Services", "country_label": "", "class": "", "platform": "", "owner": "High Commission for Digitalisation", "tiers": ""},
-    {"system": "Bawabatak", "country_label": "Bawabatak", "class": "", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Interactive National Portal for Digital Services",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "High Commission for Digitalisation",
+      "tiers": ""
+    },
+    {
+      "system": "Bawabatak",
+      "country_label": "Bawabatak",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": ""
 }

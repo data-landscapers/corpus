@@ -1,13 +1,56 @@
 {
   "slug": "2026-09-09-dza-echchaab-trois-ans-algerie-numerique-2030",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "El Chaab says the National Digital Transformation Strategy was adopted, approved and published in May 2025, naming no approving body or act.", "as_of": "2025-05", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "open", "fact": "El Chaab says the strategy was published in May 2025 as the reference framing national digital projects for the coming years, and states no end date.", "as_of": "2025-05", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "El Chaab says the High Commission for Digitalisation was created to prepare national digital-transformation policy and follow the programmes that deliver it, coordinating sectors and public bodies; the three-year review covers April 2024 to September 2026.", "as_of": "2026-09", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The High Commission published a review of April 2024 to September 2026 on its official page listing the strategy, sovereign cloud, secure government network, data centres and the national digital services centre inaugurated on 5 July 2026; it reports no strategy targets.", "as_of": "2026-09", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "El Chaab says the National Digital Transformation Strategy was adopted, approved and published in May 2025, naming no approving body or act.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "El Chaab says the strategy was published in May 2025 as the reference framing national digital projects for the coming years, and states no end date.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "El Chaab says the High Commission for Digitalisation was created to prepare national digital-transformation policy and follow the programmes that deliver it, coordinating sectors and public bodies; the three-year review covers April 2024 to September 2026.",
+      "as_of": "2026-09",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The High Commission published a review of April 2024 to September 2026 on its official page listing the strategy, sovereign cloud, secure government network, data centres and the national digital services centre inaugurated on 5 July 2026; it reports no strategy targets.",
+      "as_of": "2026-09",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Algerian National Digital Services Centre", "country_label": "المركز الوطني الجزائري للخدمات الرقمية", "class": "thematic", "platform": "", "owner": "High Commission for Digitalisation (HCN)", "tiers": ""}
+    {
+      "system": "Algerian National Digital Services Centre",
+      "country_label": "المركز الوطني الجزائري للخدمات الرقمية",
+      "class": "thematic",
+      "platform": "",
+      "owner": "High Commission for Digitalisation (HCN)",
+      "tiers": ""
+    }
   ],
   "note": ""
 }

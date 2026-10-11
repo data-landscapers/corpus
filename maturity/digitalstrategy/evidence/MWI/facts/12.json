@@ -1,29 +1,182 @@
 {
   "slug": "2026-08-20-gsma-driving-digital-transformation-malawi-report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "GSMA's report says the Ministry of Information and Digitalisation is 'consulting' a national digital transformation strategy, with a '2026 consultation' whose key focus is digital public infrastructure and whose recommendations include a centralised integrated public-services portal, digital payments and digitalised data management; the report gives no adoption or approval, and its date is the report's own publication date (2026-08-20).", "as_of": "2026-08-20", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": ""},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:none", "fact": "GSMA records that the 2026 consultation documents for the National Digital Transformation Strategy only 'propose' a Digital Transformation and AI Council and Delivery Unit as institutional arrangements; no mandated delivery body is stated, and no budget line is stated for the strategy.", "as_of": "2026-08-20", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "GSMA refers to Malawi's 'National Digitalization Policy 2023 - 2028' as the digital policy whose objectives its recommendations support, and lists 'National Digital Policies and Strategies 2021-2026 and 2023-2028' among prior policies and strategies; it does not say whether the text is public, nor describe the policy's scope, nor give an adoption act. Value 'current' is the parent's to confirm.", "as_of": "2023", "date_precision": "year", "system": "National Digitalization Policy 2023 - 2028", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "GSMA's report says the Ministry of Information and Digitalisation is 'consulting' a national digital transformation strategy, with a '2026 consultation' whose key focus is digital public infrastructure and whose recommendations include a centralised integrated public-services portal, digital payments and digitalised data management; the report gives no adoption or approval, and its date is the report's own publication date (2026-08-20).",
+      "as_of": "2026-08-20",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:none",
+      "fact": "GSMA records that the 2026 consultation documents for the National Digital Transformation Strategy only 'propose' a Digital Transformation and AI Council and Delivery Unit as institutional arrangements; no mandated delivery body is stated, and no budget line is stated for the strategy.",
+      "as_of": "2026-08-20",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "GSMA refers to Malawi's 'National Digitalization Policy 2023 - 2028' as the digital policy whose objectives its recommendations support, and lists 'National Digital Policies and Strategies 2021-2026 and 2023-2028' among prior policies and strategies; it does not say whether the text is public, nor describe the policy's scope, nor give an adoption act. Value 'current' is the parent's to confirm.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National Digitalization Policy 2023-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy 2026 (consultation)", "class": "", "platform": "", "owner": "Ministry of Information and Digitalisation, with UNDP and partners", "tiers": "national; focus on digital public infrastructure and digital government"},
-    {"system": "National Digitalization Policy 2023 - 2028", "country_label": "National Digitalization Policy 2023 - 2028", "class": "", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National Digital Policies and Strategies 2021-2026 and 2023-2028", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named as prior policies; scope not described"},
-    {"system": "National Digital Economy Strategy", "country_label": "", "class": "national", "platform": "", "owner": "Ministry of Information and Digitalisation (recommended to develop)", "tiers": "recommended by GSMA as a new overarching 5-10 year strategy with President's office and cabinet oversight; not existing"},
-    {"system": "Malawi 2063", "country_label": "Malawi Vision 2063", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; sets internet penetration targets of 20% in 2030 and 50% in 2063"},
-    {"system": "Democratic Progressive Party Manifesto 2025-2030", "country_label": "Government (DPP) Manifesto 2025-2030", "class": "", "platform": "", "owner": "Government", "tiers": "national; ICT and AI section with targets of 80% affordable broadband, 150,000 digital jobs, 70% government services online"},
-    {"system": "Digital Malawi Acceleration Project 2024-2030", "country_label": "Malawi Digital Acceleration Project", "class": "programme", "platform": "", "owner": "World Bank-financed", "tiers": "national"},
-    {"system": "Inclusive Digital Transformation for Malawi (IDT4M)", "country_label": "IDT4M", "class": "programme", "platform": "", "owner": "Ministry of Information and Digitalisation with UNDP", "tiers": "launched April 2024; digital identity, digital governance, gender gap"},
-    {"system": "Last Mile Connectivity Project", "country_label": "", "class": "programme", "platform": "", "owner": "", "tiers": "named only"},
-    {"system": "National Artificial Intelligence Strategy 2026", "country_label": "National AI Strategy (2026 consultation)", "class": "thematic", "platform": "", "owner": "Ministry of Information and Digitalisation, UNDP and partners", "tiers": "national; in consultation"},
-    {"system": "National Cyber Security Strategy 2019-2024", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national; prior strategy"},
-    {"system": "National ICT Policy 2013", "country_label": "", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national; prior policy"},
-    {"system": "National ICT Masterplan", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named as prior; scope and date not given"},
-    {"system": "National Financial Sector Development Strategy 2022-2026", "country_label": "Financial Services Development Strategy", "class": "", "platform": "", "owner": "Ministry of Finance and Economic Affairs", "tiers": "financial sector"},
-    {"system": "National Financial Inclusion Strategy III (2024-2028)", "country_label": "", "class": "", "platform": "", "owner": "Reserve Bank of Malawi", "tiers": "financial inclusion"},
-    {"system": "Malawi Revenue Authority digitalisation strategy", "country_label": "", "class": "ministry-plan", "platform": "", "owner": "Malawi Revenue Authority", "tiers": "agency"},
-    {"system": "Digital Government Strategy", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "named in an AI landscape recommendation; scope and status not given"},
-    {"system": "National Artificial Intelligence and Digital Innovation Policy", "country_label": "", "class": "thematic", "platform": "", "owner": "DPP manifesto pledge", "tiers": "pledged to roll out by 2030"}
+    {
+      "system": "National Digital Transformation Strategy",
+      "country_label": "National Digital Transformation Strategy 2026 (consultation)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Information and Digitalisation, with UNDP and partners",
+      "tiers": "national; focus on digital public infrastructure and digital government"
+    },
+    {
+      "system": "National Digitalization Policy 2023 - 2028",
+      "country_label": "National Digitalization Policy 2023 - 2028",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National Digital Policies and Strategies 2021-2026 and 2023-2028",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as prior policies; scope not described"
+    },
+    {
+      "system": "National Digital Economy Strategy",
+      "country_label": "",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information and Digitalisation (recommended to develop)",
+      "tiers": "recommended by GSMA as a new overarching 5-10 year strategy with President's office and cabinet oversight; not existing"
+    },
+    {
+      "system": "Malawi 2063",
+      "country_label": "Malawi Vision 2063",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; sets internet penetration targets of 20% in 2030 and 50% in 2063"
+    },
+    {
+      "system": "Democratic Progressive Party Manifesto 2025-2030",
+      "country_label": "Government (DPP) Manifesto 2025-2030",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national; ICT and AI section with targets of 80% affordable broadband, 150,000 digital jobs, 70% government services online"
+    },
+    {
+      "system": "Digital Malawi Acceleration Project 2024-2030",
+      "country_label": "Malawi Digital Acceleration Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank-financed",
+      "tiers": "national"
+    },
+    {
+      "system": "Inclusive Digital Transformation for Malawi (IDT4M)",
+      "country_label": "IDT4M",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Information and Digitalisation with UNDP",
+      "tiers": "launched April 2024; digital identity, digital governance, gender gap"
+    },
+    {
+      "system": "Last Mile Connectivity Project",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only"
+    },
+    {
+      "system": "National Artificial Intelligence Strategy 2026",
+      "country_label": "National AI Strategy (2026 consultation)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Information and Digitalisation, UNDP and partners",
+      "tiers": "national; in consultation"
+    },
+    {
+      "system": "National Cyber Security Strategy 2019-2024",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; prior strategy"
+    },
+    {
+      "system": "National ICT Policy 2013",
+      "country_label": "",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; prior policy"
+    },
+    {
+      "system": "National ICT Masterplan",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as prior; scope and date not given"
+    },
+    {
+      "system": "National Financial Sector Development Strategy 2022-2026",
+      "country_label": "Financial Services Development Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Finance and Economic Affairs",
+      "tiers": "financial sector"
+    },
+    {
+      "system": "National Financial Inclusion Strategy III (2024-2028)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Reserve Bank of Malawi",
+      "tiers": "financial inclusion"
+    },
+    {
+      "system": "Malawi Revenue Authority digitalisation strategy",
+      "country_label": "",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Malawi Revenue Authority",
+      "tiers": "agency"
+    },
+    {
+      "system": "Digital Government Strategy",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named in an AI landscape recommendation; scope and status not given"
+    },
+    {
+      "system": "National Artificial Intelligence and Digital Innovation Policy",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "DPP manifesto pledge",
+      "tiers": "pledged to roll out by 2030"
+    }
   ],
   "note": "Digital-transformation strategy is in consultation (2026), class left empty as the report describes recommendations for a public-services portal and digital public infrastructure but not whole-economy scope. The report says the UNDP readiness assessment found Malawi 'lacks a coordinated strategy' and recommends a new National Digital Economy Strategy; neither is a dated statement of absence."
 }

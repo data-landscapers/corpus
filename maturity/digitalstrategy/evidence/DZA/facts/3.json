@@ -1,13 +1,54 @@
 {
   "slug": "2026-09-20-dza-echaab-rakmana-shafafiya-asrana",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "El Chaab says the National Digital Transformation Strategy was published in May 2025 after approval, naming no approving body or act.", "as_of": "2025-05", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "open", "fact": "El Chaab says the strategy was published in May 2025, as the framework uniting digitalisation efforts across sectors and public bodies; it states no period.", "as_of": "2025-05", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "El Chaab credits the High Commission for Digitalisation with launching, between April 2024 and September 2026, projects including the Dzair Digital Services portal and a sovereign national cloud, measured against no strategy target.", "as_of": "2026-09-20", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "El Chaab says the National Digital Transformation Strategy was published in May 2025 after approval, naming no approving body or act.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "El Chaab says the strategy was published in May 2025, as the framework uniting digitalisation efforts across sectors and public bodies; it states no period.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "El Chaab credits the High Commission for Digitalisation with launching, between April 2024 and September 2026, projects including the Dzair Digital Services portal and a sovereign national cloud, measured against no strategy target.",
+      "as_of": "2026-09-20",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Dzair Digital Services portal", "country_label": "Portail national des services numériques", "class": "", "platform": "", "owner": "High Commission for Digitalisation (HCN)", "tiers": ""},
-    {"system": "Sovereign national cloud", "country_label": "السحابة الوطنية", "class": "thematic", "platform": "", "owner": "High Commission for Digitalisation (HCN)", "tiers": ""}
+    {
+      "system": "Dzair Digital Services portal",
+      "country_label": "Portail national des services numériques",
+      "class": "",
+      "platform": "",
+      "owner": "High Commission for Digitalisation (HCN)",
+      "tiers": ""
+    },
+    {
+      "system": "Sovereign national cloud",
+      "country_label": "السحابة الوطنية",
+      "class": "thematic",
+      "platform": "",
+      "owner": "High Commission for Digitalisation (HCN)",
+      "tiers": ""
+    }
   ],
   "note": ""
 }

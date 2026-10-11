@@ -1,15 +1,66 @@
 {
   "slug": "2025-01-01-world-bank-gambia-id4d-diagnostic",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The World Bank ID4D diagnostic states that the Gambia's National Digital ID and Digital Transformation Strategy was developed for 2023-2028 and that a validation workshop was held with stakeholders on 16-17 May 2024; it records no adopting act.", "as_of": "2024-05", "date_precision": "month", "system": "National Digital ID and Digital Transformation Strategy 2023-2028", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "The World Bank ID4D diagnostic states that the Gambia's National Digital ID and Digital Transformation Strategy was developed for 2023-2028 and that a validation workshop was held with stakeholders on 16-17 May 2024; it records no adopting act.",
+      "as_of": "2024-05",
+      "date_precision": "month",
+      "system": "National Digital ID and Digital Transformation Strategy 2023-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital ID and Digital Transformation Strategy 2023-2028", "country_label": "The Gambia's National Digital ID and Digital Transformation Strategy", "class": "national", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "stated as reflecting the country's commitment to using digital technologies for development; the diagnostic separately lists finalising a National Digital ID and CRVS Strategy as a next step"},
-    {"system": "The Gambia Digital Economy Strategy (2021-2026)", "country_label": "Digital Economy Strategy (2021-2026)", "class": "national", "platform": "", "owner": "", "tiers": "stated to identify digital identity as a core foundational pillar alongside digital payments, e-government services and digital literacy; the diagnostic says it should be the primary policy mandate for the identity programme"},
-    {"system": "The Gambia National Development Plan (NDP) 2023-2027", "country_label": "National Development Plan 2023-2027", "class": "development-plan", "platform": "", "owner": "Government of The Gambia", "tiers": "national; Pillar 1 on governance and Pillar 4 on transforming the economy are said to align with digital ID"},
-    {"system": "National Cybersecurity Strategy (2022-2026)", "country_label": "National Cybersecurity Strategy 2022-2026", "class": "thematic", "platform": "", "owner": "", "tiers": "plans in progress"},
-    {"system": "Western Africa Regional Digital Integration Program (WARDIP) and Lending Operation P173287", "country_label": "DTfA/WARDIP; P173287 (eCRVS and eID)", "class": "programme", "platform": "", "owner": "World Bank financing; implemented by the Project Implementation Unit", "tiers": "P173287 ends August 2025; WARDIP funds cloud hosting on AWS and satellite connectivity"},
-    {"system": "ECOWAS Digital Transformation Agenda", "country_label": "ECOWAS Digital Transformation Agenda", "class": "regional", "platform": "", "owner": "ECOWAS", "tiers": "regional"}
+    {
+      "system": "National Digital ID and Digital Transformation Strategy 2023-2028",
+      "country_label": "The Gambia's National Digital ID and Digital Transformation Strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "stated as reflecting the country's commitment to using digital technologies for development; the diagnostic separately lists finalising a National Digital ID and CRVS Strategy as a next step"
+    },
+    {
+      "system": "The Gambia Digital Economy Strategy (2021-2026)",
+      "country_label": "Digital Economy Strategy (2021-2026)",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": "stated to identify digital identity as a core foundational pillar alongside digital payments, e-government services and digital literacy; the diagnostic says it should be the primary policy mandate for the identity programme"
+    },
+    {
+      "system": "The Gambia National Development Plan (NDP) 2023-2027",
+      "country_label": "National Development Plan 2023-2027",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of The Gambia",
+      "tiers": "national; Pillar 1 on governance and Pillar 4 on transforming the economy are said to align with digital ID"
+    },
+    {
+      "system": "National Cybersecurity Strategy (2022-2026)",
+      "country_label": "National Cybersecurity Strategy 2022-2026",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "plans in progress"
+    },
+    {
+      "system": "Western Africa Regional Digital Integration Program (WARDIP) and Lending Operation P173287",
+      "country_label": "DTfA/WARDIP; P173287 (eCRVS and eID)",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank financing; implemented by the Project Implementation Unit",
+      "tiers": "P173287 ends August 2025; WARDIP funds cloud hosting on AWS and satellite connectivity"
+    },
+    {
+      "system": "ECOWAS Digital Transformation Agenda",
+      "country_label": "ECOWAS Digital Transformation Agenda",
+      "class": "regional",
+      "platform": "",
+      "owner": "ECOWAS",
+      "tiers": "regional"
+    }
   ],
   "note": "An identity-system diagnostic; the one national-class fact is the dated validation workshop for the combined digital ID and digital transformation strategy."
 }

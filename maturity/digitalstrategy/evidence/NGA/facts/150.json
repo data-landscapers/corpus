@@ -1,12 +1,44 @@
 {
   "slug": "2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The article reports that on 28 November 2019 the President 'unveiled and launched' the national digital economy policy and strategy for a digital Nigeria; it names no further act or body and does not describe the strategy's scope.", "as_of": "2019-11-28", "date_precision": "day", "system": "National Digital Economy Policy and Strategy for a Digital Nigeria", "class": ""},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "At the 20 December 2022 commissioning of the National Shared Services Centre the strategy's implementation was said to have led to 'giant strides' within a year of its unveiling; no target or figure from the strategy is given. As-of is the commissioning date, the speech's date being unclear.", "as_of": "2022-12-20", "date_precision": "day", "system": "National Digital Economy Policy and Strategy for a Digital Nigeria", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The article reports that on 28 November 2019 the President 'unveiled and launched' the national digital economy policy and strategy for a digital Nigeria; it names no further act or body and does not describe the strategy's scope.",
+      "as_of": "2019-11-28",
+      "date_precision": "day",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "At the 20 December 2022 commissioning of the National Shared Services Centre the strategy's implementation was said to have led to 'giant strides' within a year of its unveiling; no target or figure from the strategy is given. As-of is the commissioning date, the speech's date being unclear.",
+      "as_of": "2022-12-20",
+      "date_precision": "day",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Economy Policy and Strategy for a Digital Nigeria", "country_label": "national digital economy policy and strategy", "class": "", "platform": "", "owner": "Federal Ministry of Communications and Digital Economy", "tiers": "national"},
-    {"system": "National policy on virtual engagements for federal public institutions", "country_label": "", "class": "directive", "platform": "", "owner": "Federal Government", "tiers": "federal"}
+    {
+      "system": "National Digital Economy Policy and Strategy for a Digital Nigeria",
+      "country_label": "national digital economy policy and strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Federal Ministry of Communications and Digital Economy",
+      "tiers": "national"
+    },
+    {
+      "system": "National policy on virtual engagements for federal public institutions",
+      "country_label": "",
+      "class": "directive",
+      "platform": "",
+      "owner": "Federal Government",
+      "tiers": "federal"
+    }
   ],
   "note": "Class left empty: the article gives dated facts about the strategy but does not describe its scope."
 }

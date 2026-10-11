@@ -1,11 +1,34 @@
 {
   "slug": "2026-06-15 Namibia encouraged by Angola on datacentre establishment",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "ITWeb reports that Namibia has announced a national datacentre as a core pillar of its 2025-2029 digital strategy, with no dates set for the facility; the article gives the strategy's period but not whether its text is public. Dated by publication.", "as_of": "2026-06-15", "date_precision": "day", "system": "2025-2029 digital strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "ITWeb reports that Namibia has announced a national datacentre as a core pillar of its 2025-2029 digital strategy, with no dates set for the facility; the article gives the strategy's period but not whether its text is public. Dated by publication.",
+      "as_of": "2026-06-15",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "2025-2029 digital strategy", "country_label": "2025-2029 digital strategy", "class": "", "platform": "", "owner": "", "tiers": "national data centre named as a core pillar; scope otherwise not described"},
-    {"system": "National E-Waste Policy (2022)", "country_label": "National E-Waste Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "adopted in 2022 per the Minister; implementation plan still to be developed"}
+    {
+      "system": "2025-2029 digital strategy",
+      "country_label": "2025-2029 digital strategy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national data centre named as a core pillar; scope otherwise not described"
+    },
+    {
+      "system": "National E-Waste Policy (2022)",
+      "country_label": "National E-Waste Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "adopted in 2022 per the Minister; implementation plan still to be developed"
+    }
   ],
   "note": "The 2025-2029 digital strategy is not described beyond one pillar, so its class is left empty."
 }

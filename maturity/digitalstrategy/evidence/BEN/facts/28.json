@@ -1,7 +1,16 @@
 {
   "slug": "2026-02-09-wearetech-benin-2031-digital-strategy-roadmap",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Benin launched consultations to draft a national digital strategy through 2031, formally starting the work at a Cotonou strategic workshop on 5-6 February 2026, covering internet coverage, e-services, artificial intelligence, digital skills and financing.", "as_of": "2026-02-06", "date_precision": "day", "system": "Digital Strategy through 2031", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Benin launched consultations to draft a national digital strategy through 2031, formally starting the work at a Cotonou strategic workshop on 5-6 February 2026, covering internet coverage, e-services, artificial intelligence, digital skills and financing.",
+      "as_of": "2026-02-06",
+      "date_precision": "day",
+      "system": "Stratégie numérique du Bénin 2031",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

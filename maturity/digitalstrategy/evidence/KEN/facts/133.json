@@ -1,11 +1,34 @@
 {
   "slug": "2023-03-31-wb-ken-001-kenya-digital-economy-acceleration-project",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The World Bank committed US$390 million to the Kenya Digital Economy Acceleration Project (board approval 31 March 2023, closing 31 October 2028), which the record says supports the National Digital Master Plan; no domestic budget line for the plan is stated; the record does not describe the plan's scope.", "as_of": "2023-03-31", "date_precision": "day", "system": "National Digital Master Plan", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The World Bank committed US$390 million to the Kenya Digital Economy Acceleration Project (board approval 31 March 2023, closing 31 October 2028), which the record says supports the National Digital Master Plan; no domestic budget line for the plan is stated; the record does not describe the plan's scope.",
+      "as_of": "2023-03-31",
+      "date_precision": "day",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Kenya Digital Economy Acceleration Project", "country_label": "Kenya Digital Economy Acceleration Project (P170941)", "class": "programme", "platform": "", "owner": "World Bank IDA/IBRD financing; implemented by the ICT Authority under the Ministry of Information, Communications and the Digital Economy", "tiers": "national; broadband, digital public infrastructure and digital financial services"},
-    {"system": "National Digital Master Plan", "country_label": "National Digital Master Plan", "class": "", "platform": "", "owner": "", "tiers": "national; scope not described in this record"}
+    {
+      "system": "Kenya Digital Economy Acceleration Project",
+      "country_label": "Kenya Digital Economy Acceleration Project (P170941)",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank IDA/IBRD financing; implemented by the ICT Authority under the Ministry of Information, Communications and the Digital Economy",
+      "tiers": "national; broadband, digital public infrastructure and digital financial services"
+    },
+    {
+      "system": "National Digital Master Plan",
+      "country_label": "National Digital Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; scope not described in this record"
+    }
   ],
   "note": "Fact on the Master Plan has empty class: the record names the plan and its donor support but not its scope."
 }

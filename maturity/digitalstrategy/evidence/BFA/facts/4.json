@@ -1,14 +1,62 @@
 {
   "slug": "2026-07-26-burkina-faso-zero-data-abroad-120-platforms",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Ministry of Digital Transition, Posts and Electronic Communications carries out the activities entered in the twelve digital-transformation chantiers to 2030 under the missions assigned to it, and the Prime Minister conducted its half-year evaluation on 25 July 2026.", "as_of": "2026-07-25", "date_precision": "day", "system": "douze chantiers de la transformation digitale à l'horizon 2030", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The half-year evaluation reports an execution rate at 30 June 2026 and activity counts (120 platforms inventoried for repatriation, 220 business licences dematerialised, a government network design finalised) for the twelve chantiers, without giving the rate against stated targets in the article text.", "as_of": "2026-06-30", "date_precision": "day", "system": "douze chantiers de la transformation digitale à l'horizon 2030", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 25 July 2026 the Prime Minister's half-year evaluation recorded the repatriation of data from 120 inventoried platforms to the two new national data centres under the twelve chantiers, with completion intended before end-2026.", "as_of": "2026-07-25", "date_precision": "day", "system": "douze chantiers de la transformation digitale à l'horizon 2030", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The Ministry of Digital Transition, Posts and Electronic Communications carries out the activities entered in the twelve digital-transformation chantiers to 2030 under the missions assigned to it, and the Prime Minister conducted its half-year evaluation on 25 July 2026.",
+      "as_of": "2026-07-25",
+      "date_precision": "day",
+      "system": "Feuille de route de transformation digitale 2030 (douze chantiers)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "results",
+      "fact": "The half-year evaluation reports an execution rate at 30 June 2026 and activity counts (120 platforms inventoried for repatriation, 220 business licences dematerialised, a government network design finalised) for the twelve chantiers, without giving the rate against stated targets in the article text.",
+      "as_of": "2026-06-30",
+      "date_precision": "day",
+      "system": "Feuille de route de transformation digitale 2030 (douze chantiers)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 25 July 2026 the Prime Minister's half-year evaluation recorded the repatriation of data from 120 inventoried platforms to the two new national data centres under the twelve chantiers, with completion intended before end-2026.",
+      "as_of": "2026-07-25",
+      "date_precision": "day",
+      "system": "Feuille de route de transformation digitale 2030 (douze chantiers)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "douze chantiers de la transformation digitale à l'horizon 2030", "country_label": "Douze chantiers de la transformation digitale", "class": "national", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques; evaluated by the Premier ministre", "tiers": "National"},
-    {"system": "Zéro donnée à l'extérieur", "country_label": "Chantier « Zéro donnée à l'extérieur »", "class": "thematic", "platform": "", "owner": "Ministère de la Transition digitale", "tiers": "National public platforms"},
-    {"system": "Une commune, une Maison du citoyen", "country_label": "Chantier « Une commune, une Maison du citoyen »", "class": "programme", "platform": "", "owner": "Ministère de la Transition digitale", "tiers": "Communes"}
+    {
+      "system": "douze chantiers de la transformation digitale à l'horizon 2030",
+      "country_label": "Douze chantiers de la transformation digitale",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques; evaluated by the Premier ministre",
+      "tiers": "National"
+    },
+    {
+      "system": "Zéro donnée à l'extérieur",
+      "country_label": "Chantier « Zéro donnée à l'extérieur »",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministère de la Transition digitale",
+      "tiers": "National public platforms"
+    },
+    {
+      "system": "Une commune, une Maison du citoyen",
+      "country_label": "Chantier « Une commune, une Maison du citoyen »",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministère de la Transition digitale",
+      "tiers": "Communes"
+    }
   ],
   "note": ""
 }

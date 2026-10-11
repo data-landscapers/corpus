@@ -1,17 +1,100 @@
 {
   "slug": "2022-06-01-mtnima-agenda-national-transformation-numerique-2022-2025",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The ministry's own document, dated June 2022 and hosted on its official site, sets out the Agenda National de Transformation Numérique 2022-2025 as a four-year strategy with a calendar of projects from 2022 to 2025.", "as_of": "2022-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The agenda is broken into 25 initiatives and 77 projects for a global investment of 400 million dollars, with a project sheet giving cost, funding mode and owner for each project (e.g. 200k EUR and 3,000k EUR for the AN-ETAT agency).", "as_of": "2022-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The agenda states that the State 's'est doté d'un Haut Conseil du Numérique (HCN) qui permettra de suivre l'exécution de l'Agenda', and that the HCN's Technical Support Committee should be the body responsible for monitoring and evaluating the agenda.", "as_of": "2022-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:not-stated", "fact": "The agenda says several funding sources are identified for the plan, with significant support needed from development partners and the State and an active private-sector contribution (353 million euros shown in a chart); its project sheets give funding modes such as 'PTF, Etat', and it states no budget line or allocation.", "as_of": "2022-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The agenda's annex lists a Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016 among the documents it draws on; the document gives no description of that strategy's scope, and its period had ended by June 2022.", "as_of": "2016", "date_precision": "year", "system": "Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The ministry's own document, dated June 2022 and hosted on its official site, sets out the Agenda National de Transformation Numérique 2022-2025 as a four-year strategy with a calendar of projects from 2022 to 2025.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The ministry's own document, dated June 2022 and hosted on its official site, sets out the Agenda National de Transformation Numérique 2022-2025 as a four-year strategy with a calendar of projects from 2022 to 2025.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The agenda is broken into 25 initiatives and 77 projects for a global investment of 400 million dollars, with a project sheet giving cost, funding mode and owner for each project (e.g. 200k EUR and 3,000k EUR for the AN-ETAT agency).",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The agenda states that the State 's'est doté d'un Haut Conseil du Numérique (HCN) qui permettra de suivre l'exécution de l'Agenda', and that the HCN's Technical Support Committee should be the body responsible for monitoring and evaluating the agenda.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The agenda says several funding sources are identified for the plan, with significant support needed from development partners and the State and an active private-sector contribution (353 million euros shown in a chart); its project sheets give funding modes such as 'PTF, Etat', and it states no budget line or allocation.",
+      "as_of": "2022-06",
+      "date_precision": "month",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2016",
+      "fact": "The agenda's annex lists a Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016 among the documents it draws on; the document gives no description of that strategy's scope, and its period had ended by June 2022.",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Stratégie nationale de modernisation de l'administration et des TIC 2012-2016",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Agenda National de Transformation Numérique 2022-2025", "country_label": "Agenda Numérique 2022-2025", "class": "national", "platform": "", "owner": "Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration (MTNIMA), drafted with ESCWA", "tiers": "national; a digital-economy development strategy with four strategic orientations, three levers, 25 initiatives and 77 projects"},
-    {"system": "Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016", "country_label": "Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016", "class": "", "platform": "", "owner": "Ministry of Public Service, Labour and Modernisation of the Administration", "tiers": "national"},
-    {"system": "Stratégie Nationale de Développement de la Cyber-santé 2017-2022", "country_label": "Stratégie Nationale de Développement de la Cyber-santé 2017-2022", "class": "thematic", "platform": "", "owner": "Ministry of Health", "tiers": "health sector"},
-    {"system": "Stratégie de promotion du Haut Débit et d'accès Universel", "country_label": "Stratégie de promotion du Haut Débit et d'accès Universel", "class": "thematic", "platform": "", "owner": "Ministry of Higher Education, Scientific Research and ICT", "tiers": "national; with an action plan"}
+    {
+      "system": "Agenda National de Transformation Numérique 2022-2025",
+      "country_label": "Agenda Numérique 2022-2025",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration (MTNIMA), drafted with ESCWA",
+      "tiers": "national; a digital-economy development strategy with four strategic orientations, three levers, 25 initiatives and 77 projects"
+    },
+    {
+      "system": "Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016",
+      "country_label": "Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Public Service, Labour and Modernisation of the Administration",
+      "tiers": "national"
+    },
+    {
+      "system": "Stratégie Nationale de Développement de la Cyber-santé 2017-2022",
+      "country_label": "Stratégie Nationale de Développement de la Cyber-santé 2017-2022",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "health sector"
+    },
+    {
+      "system": "Stratégie de promotion du Haut Débit et d'accès Universel",
+      "country_label": "Stratégie de promotion du Haut Débit et d'accès Universel",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Higher Education, Scientific Research and ICT",
+      "tiers": "national; with an action plan"
+    }
   ],
   "note": "The passages carry no adopting act for the agenda ('le secteur a élaboré'), so no standing fact; the annex also cites the agenda as '2022-2026', an apparent slip against the title's 2022-2025."
 }

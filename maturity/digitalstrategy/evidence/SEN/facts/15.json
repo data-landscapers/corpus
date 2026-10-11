@@ -1,16 +1,80 @@
 {
   "slug": "2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Biometric Update, citing a ministry statement, says the government 'launched' the New Deal Technologique 'last year' (2025); it names no adopting act or body beyond the government.", "as_of": "2025", "date_precision": "year", "system": "New Deal Technologique", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The article says the strategy is structured as a Digital Master Plan of 12 priority programmes and about 50 key projects to 2034, to be funded by an estimated US$1.7 billion, with 2034 indicator targets such as 95 percent connectivity and 80 percent usage of digital services.", "as_of": "2026-08-03", "date_precision": "day", "system": "New Deal Technologique", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "A digital governance steering committee, GouvNum, 'has been created' as part of the plan to oversee all digital transformation initiatives and is to be operational in the near future; no act is named.", "as_of": "2026-08-03", "date_precision": "day", "system": "New Deal Technologique", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The digital ministry recently convened stakeholders in Dakar on the Government Enterprise Architecture under the strategy, and in March (2026) the government launched a number of initiatives under it, including a digital government platform; the convening date is not given, so the publication date is used.", "as_of": "2026-08-03", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Biometric Update, citing a ministry statement, says the government 'launched' the New Deal Technologique 'last year' (2025); it names no adopting act or body beyond the government.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The article says the strategy is structured as a Digital Master Plan of 12 priority programmes and about 50 key projects to 2034, to be funded by an estimated US$1.7 billion, with 2034 indicator targets such as 95 percent connectivity and 80 percent usage of digital services.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "A digital governance steering committee, GouvNum, 'has been created' as part of the plan to oversee all digital transformation initiatives and is to be operational in the near future; no act is named.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The digital ministry recently convened stakeholders in Dakar on the Government Enterprise Architecture under the strategy, and in March (2026) the government launched a number of initiatives under it, including a digital government platform; the convening date is not given, so the publication date is used.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Government of Senegal (Ministry of Telecommunications and Digital Economy)", "tiers": "national"},
-    {"system": "Government Enterprise Architecture (EAG)", "country_label": "Architecture d'Entreprise Gouvernementale", "class": "programme", "platform": "", "owner": "Ministry of Telecommunications and Digital Economy", "tiers": "national"},
-    {"system": "GouvNum", "country_label": "GouvNum", "class": "", "platform": "", "owner": "Prime Minister (chair)", "tiers": "national"},
-    {"system": "Senegal 2050 National Transformation Agenda", "country_label": "Agenda de transformation nationale Sénégal 2050", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "New Deal Technologique",
+      "country_label": "New Deal Technologique",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Senegal (Ministry of Telecommunications and Digital Economy)",
+      "tiers": "national"
+    },
+    {
+      "system": "Government Enterprise Architecture (EAG)",
+      "country_label": "Architecture d'Entreprise Gouvernementale",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Telecommunications and Digital Economy",
+      "tiers": "national"
+    },
+    {
+      "system": "GouvNum",
+      "country_label": "GouvNum",
+      "class": "",
+      "platform": "",
+      "owner": "Prime Minister (chair)",
+      "tiers": "national"
+    },
+    {
+      "system": "Senegal 2050 National Transformation Agenda",
+      "country_label": "Agenda de transformation nationale Sénégal 2050",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "Class national on the document's own description: four pillars (sovereignty, modernising public administration, digital economy, regional leadership) in a Digital Master Plan to 2034. Stated horizon 2034, no text linked, so no period fact. The article is inconsistent on the New Deal's label (a DPI strategy, a blueprint, a master plan). The article says the PM chairing GouvNum was 'then' Sonko, i.e. a change of PM since March 2026."
 }

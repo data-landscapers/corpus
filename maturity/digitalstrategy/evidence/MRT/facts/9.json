@@ -1,13 +1,52 @@
 {
   "slug": "2026-06-30-agenceecofin-mauritanie-cloud-national-lance-sans-calendrier-migration",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "Agence Ecofin refers in the past tense to the Agenda national de transition numérique 2022-2025, whose stated period had ended by the article's date of 2026-06-30; the article does not say a successor exists.", "as_of": "2025", "date_precision": "year", "system": "Agenda national de transition numérique 2022-2025", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "Agence Ecofin says the Agenda national de transition numérique 2022-2025 set an objective of raising the digital sector's value added to about 700 million dollars, nearly 8% of Mauritanian GDP; the article gives no date for the target beyond the agenda's period, and the published date 2026-06-30 is used.", "as_of": "2026-06-30", "date_precision": "day", "system": "Agenda national de transition numérique 2022-2025", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "Agence Ecofin refers in the past tense to the Agenda national de transition numérique 2022-2025, whose stated period had ended by the article's date of 2026-06-30; the article does not say a successor exists.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "Agence Ecofin says the Agenda national de transition numérique 2022-2025 set an objective of raising the digital sector's value added to about 700 million dollars, nearly 8% of Mauritanian GDP; the article gives no date for the target beyond the agenda's period, and the published date 2026-06-30 is used.",
+      "as_of": "2026-06-30",
+      "date_precision": "day",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Agenda national de transition numérique 2022-2025", "country_label": "Agenda national de transition numérique 2022-2025", "class": "", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "national"},
-    {"system": "Stratégie nationale de sécurité numérique 2022-2025", "country_label": "Stratégie nationale de sécurité numérique 2022-2025", "class": "thematic", "platform": "", "owner": "", "tiers": "national; still being deployed per the article, with a national CERT/CSIRT planned"},
-    {"system": "WARDIP", "country_label": "Programme régional d'intégration numérique en Afrique de l'Ouest (WARDIP)", "class": "programme", "platform": "", "owner": "World Bank-supported", "tiers": "national"}
+    {
+      "system": "Agenda national de transition numérique 2022-2025",
+      "country_label": "Agenda national de transition numérique 2022-2025",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digital Transformation",
+      "tiers": "national"
+    },
+    {
+      "system": "Stratégie nationale de sécurité numérique 2022-2025",
+      "country_label": "Stratégie nationale de sécurité numérique 2022-2025",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; still being deployed per the article, with a national CERT/CSIRT planned"
+    },
+    {
+      "system": "WARDIP",
+      "country_label": "Programme régional d'intégration numérique en Afrique de l'Ouest (WARDIP)",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank-supported",
+      "tiers": "national"
+    }
   ],
   "note": "The article does not describe the agenda's scope, so class is left empty; the period and target facts are recorded with class empty."
 }

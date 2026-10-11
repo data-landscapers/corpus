@@ -1,7 +1,16 @@
 {
   "slug": "2026-08-13-algeria-apn-data-center-visit",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The National People's Assembly's president said on 13 August 2026 that digitalising the Assembly's work proceeds within the national digital transformation strategy, Vision 2030, and received a progress briefing on the Assembly's own projects, measured against nothing in the strategy.", "as_of": "2026-08-13", "date_precision": "day", "system": "Stratégie nationale de transformation numérique en Algérie - Vision 2030", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The National People's Assembly's president said on 13 August 2026 that digitalising the Assembly's work proceeds within the national digital transformation strategy, Vision 2030, and received a progress briefing on the Assembly's own projects, measured against nothing in the strategy.",
+      "as_of": "2026-08-13",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

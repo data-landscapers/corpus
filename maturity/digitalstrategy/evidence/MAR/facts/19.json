@@ -1,12 +1,42 @@
 {
   "slug": "2026-06-05-techafricanews-morocco-orange-ai-partnership",
   "facts": [
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "On 4 June 2026 the Ministry Delegate for Digital Transition and Administration Reform signed a memorandum with Orange Morocco on AI use cases in e-government, described as part of implementing the Digital Morocco 2030 strategy through the JAZARI Institutes programme.", "as_of": "2026-06-04", "date_precision": "day", "system": "Digital Morocco 2030", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "On 4 June 2026 the Ministry Delegate for Digital Transition and Administration Reform signed a memorandum with Orange Morocco on AI use cases in e-government, described as part of implementing the Digital Morocco 2030 strategy through the JAZARI Institutes programme.",
+      "as_of": "2026-06-04",
+      "date_precision": "day",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Morocco 2030", "country_label": "Digital Morocco 2030 strategy", "class": "", "platform": "", "owner": "Ministry Delegate for Digital Transition and Administration Reform", "tiers": ""},
-    {"system": "AI Made in Morocco roadmap", "country_label": "AI Made in Morocco", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
-    {"system": "JAZARI Institutes programme", "country_label": "JAZARI Institutes", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "Digital Morocco 2030",
+      "country_label": "Digital Morocco 2030 strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry Delegate for Digital Transition and Administration Reform",
+      "tiers": ""
+    },
+    {
+      "system": "AI Made in Morocco roadmap",
+      "country_label": "AI Made in Morocco",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "JAZARI Institutes programme",
+      "country_label": "JAZARI Institutes",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "Class is left empty on the fact: the article does not describe Digital Morocco 2030's scope."
 }

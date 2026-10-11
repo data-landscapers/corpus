@@ -1,10 +1,26 @@
 {
   "slug": "2025-07-01-data-centre-market-brief-zambia",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Xalam Analytics market brief for the EU-funded D4D Hub (July 2025) names the National Digital Transformation Strategy 2023-2027, built around five focus areas (digital infrastructure, platforms, services, literacy and skills, innovation and entrepreneurship), and the stated period covers the brief's date, which is used as as_of since none other is given. Text public: not stated", "as_of": "2025-07", "date_precision": "month", "system": "National Digital Transformation Strategy 2023-2027", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2027",
+      "fact": "The Xalam Analytics market brief for the EU-funded D4D Hub (July 2025) names the National Digital Transformation Strategy 2023-2027, built around five focus areas (digital infrastructure, platforms, services, literacy and skills, innovation and entrepreneurship), and the stated period covers the brief's date, which is used as as_of since none other is given. Text public: not stated",
+      "as_of": "2025-07",
+      "date_precision": "month",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Data Protection Act 2021", "country_label": "Data Protection Act", "class": "directive", "platform": "", "owner": "Office of the Data Protection Commissioner", "tiers": "national"}
+    {
+      "system": "Data Protection Act 2021",
+      "country_label": "Data Protection Act",
+      "class": "directive",
+      "platform": "",
+      "owner": "Office of the Data Protection Commissioner",
+      "tiers": "national"
+    }
   ],
   "note": "Market brief; states the strategy's period and focus areas only, with no adoption verb, plan, body or report."
 }

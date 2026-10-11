@@ -1,1 +1,36 @@
-{"slug":"2025-02-04 Digital Transformation Project in Guinea-Bissau with UNU-EGOV & UNDP","facts":[{"sub_indicator":"national","aspect":"standing","value":"validated","fact":"UNU-EGOV reports that the ENTD.GW was launched on 29 January 2025 with the Prime Minister and the Minister of Transport, Telecommunications and Digital Economy, and that on 31 January the Prime Minister was briefed on its approval by the Council of Ministers and the decree needed for it.","as_of":"2025-01-31","date_precision":"day","system":"National Digital Transformation Strategy for Guinea-Bissau (ENTD.GW)","class":"national"},{"sub_indicator":"national","aspect":"plan","value":"actions","fact":"UNU-EGOV describes the ENTD.GW as resting on ten pillars with six strategic objectives and 55 interventions, giving no dates or costs.","as_of":"2025-01-31","date_precision":"day","system":"National Digital Transformation Strategy for Guinea-Bissau (ENTD.GW)","class":"national"}],"systems":[{"system":"National Digital Transformation Strategy for Guinea-Bissau (ENTD.GW)","country_label":"ENTD.GW","class":"national","platform":"","owner":"Ministry of Transport, Telecommunications and Digital Economy; UNU-EGOV and UNDP","tiers":"national"}],"note":""}
+{
+  "slug": "2025-02-04 Digital Transformation Project in Guinea-Bissau with UNU-EGOV & UNDP",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "UNU-EGOV reports that the ENTD.GW was launched on 29 January 2025 with the Prime Minister and the Minister of Transport, Telecommunications and Digital Economy, and that on 31 January the Prime Minister was briefed on its approval by the Council of Ministers and the decree needed for it.",
+      "as_of": "2025-01-31",
+      "date_precision": "day",
+      "system": "ENTD.GW 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "UNU-EGOV describes the ENTD.GW as resting on ten pillars with six strategic objectives and 55 interventions, giving no dates or costs.",
+      "as_of": "2025-01-31",
+      "date_precision": "day",
+      "system": "ENTD.GW 2025-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Digital Transformation Strategy for Guinea-Bissau (ENTD.GW)",
+      "country_label": "ENTD.GW",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Transport, Telecommunications and Digital Economy; UNU-EGOV and UNDP",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

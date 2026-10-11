@@ -1,1 +1,34 @@
-{"slug":"2022-01-01-worldbank-guinea-bissau-digital-economy-diagnostic","facts":[{"sub_indicator":"national","aspect":"standing","value":"none","fact":"The World Bank's Digital Economy Diagnostic states that Guinea-Bissau does not possess a government-wide digital transformation strategy with a whole-of-government vision and programme, and recommends developing a countrywide one; the document is dated 2022 only and is dated here by its published year.","as_of":"2022","date_precision":"year","system":"countrywide digital transformation strategy","class":"national"}],"systems":[{"system":"Sector-specific ICT access and use strategy","country_label":"","class":"sector-ict","platform":"","owner":"Ministry of Transport and Communications (MTC), financed by WARCIP","tiers":"national"},{"system":"National Development Plan (new NDP)","country_label":"NDP","class":"development-plan","platform":"","owner":"Government of Guinea-Bissau","tiers":"national"}],"note":""}
+{
+  "slug": "2022-01-01-worldbank-guinea-bissau-digital-economy-diagnostic",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The World Bank's Digital Economy Diagnostic states that Guinea-Bissau does not possess a government-wide digital transformation strategy with a whole-of-government vision and programme, and recommends developing a countrywide one; the document is dated 2022 only and is dated here by its published year.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "No national digital strategy",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Sector-specific ICT access and use strategy",
+      "country_label": "",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Transport and Communications (MTC), financed by WARCIP",
+      "tiers": "national"
+    },
+    {
+      "system": "National Development Plan (new NDP)",
+      "country_label": "NDP",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Guinea-Bissau",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

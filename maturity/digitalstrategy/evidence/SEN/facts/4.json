@@ -1,10 +1,26 @@
 {
   "slug": "2026-09-24-sen-digital-ministry-sonatel-new-deal-technologique",
   "facts": [
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The digital ministry and Groupe Sonatel held a week-long workshop, closed by minister Samba Diouf, that structured Sonatel's contribution to the New Deal Technologique and called on other firms to do likewise; the workshop's dates are not given, so the publication date is used.", "as_of": "2026-09-24", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The digital ministry and Groupe Sonatel held a week-long workshop, closed by minister Samba Diouf, that structured Sonatel's contribution to the New Deal Technologique and called on other firms to do likewise; the workshop's dates are not given, so the publication date is used.",
+      "as_of": "2026-09-24",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Ministry of Telecommunications and Digital Affairs", "tiers": "national"}
+    {
+      "system": "New Deal Technologique",
+      "country_label": "New Deal Technologique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Telecommunications and Digital Affairs",
+      "tiers": "national"
+    }
   ],
   "note": "Class national on the document's own description: the national digital transformation framework covering infrastructure, public administration and the digital economy. It states no adoption, period, cost or report."
 }

@@ -1,19 +1,102 @@
 {
   "slug": "2026-02-01-mwi-undp-idt4m-annual-report-2025",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "UNDP's 2025 annual report for the IDT4M project says 'work has commenced on the development of Malawi's National Digital Transformation Strategy', building on the Digital Readiness Assessment, through a consultative process; its 2026 plans say 'following its development' the strategy will guide digital investments across government, so it was not yet complete at the end of 2025.", "as_of": "2025", "date_precision": "year", "system": "National Digital Transformation Strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "At the Cabinet Retreat on Digital Transformation and AI in Mangochi, 28 to 30 November 2025, the report records 'high-level political endorsement of a unified digital roadmap', including the Minister of ICT's 'commitment to launch the National Digital Strategy' and, elsewhere, 'the relaunch of the National Digital Transformation Strategy'; no approval or adoption of a text by Cabinet is stated.", "as_of": "2025-11", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The report records the Malawi Cabinet Retreat of 28 to 30 November 2025, with UNDP support, ending in endorsement of a national digital roadmap, a commitment to launch the strategy and the creation of a Cabinet-level Digital Coordination Committee chaired by the Vice President (a 2026 plan item separately says the project will support its 'establishment and operationalization').", "as_of": "2025-11", "date_precision": "month", "system": "National Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "UNDP's 2025 annual report for the IDT4M project says 'work has commenced on the development of Malawi's National Digital Transformation Strategy', building on the Digital Readiness Assessment, through a consultative process; its 2026 plans say 'following its development' the strategy will guide digital investments across government, so it was not yet complete at the end of 2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "National Digital Transformation Strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "At the Cabinet Retreat on Digital Transformation and AI in Mangochi, 28 to 30 November 2025, the report records 'high-level political endorsement of a unified digital roadmap', including the Minister of ICT's 'commitment to launch the National Digital Strategy' and, elsewhere, 'the relaunch of the National Digital Transformation Strategy'; no approval or adoption of a text by Cabinet is stated.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "National Digital Transformation Strategy",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The report records the Malawi Cabinet Retreat of 28 to 30 November 2025, with UNDP support, ending in endorsement of a national digital roadmap, a commitment to launch the strategy and the creation of a Cabinet-level Digital Coordination Committee chaired by the Vice President (a 2026 plan item separately says the project will support its 'establishment and operationalization').",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "National Digital Transformation Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy (also 'National Digital Strategy')", "class": "national", "platform": "", "owner": "Ministry of ICT and Department of e-Government, with UNDP support; the report describes a national roadmap for digital public infrastructure, service delivery and digital governance, covering interoperability, cybersecurity, data governance, digital inclusion and emerging technologies", "tiers": "across government"},
-    {"system": "National AI Strategy", "country_label": "AI Strategy", "class": "thematic", "platform": "", "owner": "Department of e-Government with UNDP; AI Landscape Assessment started as its baseline", "tiers": ""},
-    {"system": "Digital Readiness Assessment", "country_label": "Digital Readiness Assessment (DRA)", "class": "", "platform": "", "owner": "Ministry of Information and Digitalization, Department of e-Government and UNDP; launched 15 May 2025, scoring Malawi 2.7 out of 5, 'opportunistic' stage", "tiers": ""},
-    {"system": "National Registration Bureau Strategic Plan 2025-2030", "country_label": "NRB Strategic Plan (2025-2030)", "class": "ministry-plan", "platform": "", "owner": "National Registration Bureau, launched in 2025", "tiers": ""},
-    {"system": "National Digitalization Policy", "country_label": "National Digitalization Policy (2023)", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "DPI Safeguards Framework", "country_label": "Digital Public Infrastructure Safeguards Framework", "class": "thematic", "platform": "", "owner": "DPI Safeguards Taskforce; draft to be validated at a national workshop", "tiers": ""},
-    {"system": "National cybersecurity strategy", "country_label": "national cybersecurity strategy", "class": "thematic", "platform": "", "owner": "named only in the project results framework as a planned legal and operational framework", "tiers": ""},
-    {"system": "Malawi Vision 2063 and Malawi Implementation Plan (MIP-1)", "country_label": "Malawi 2063; MIP-1", "class": "", "platform": "", "owner": "Government of Malawi; named as the national frameworks the project and the Cabinet Retreat align with", "tiers": ""}
+    {
+      "system": "National Digital Transformation Strategy",
+      "country_label": "National Digital Transformation Strategy (also 'National Digital Strategy')",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of ICT and Department of e-Government, with UNDP support; the report describes a national roadmap for digital public infrastructure, service delivery and digital governance, covering interoperability, cybersecurity, data governance, digital inclusion and emerging technologies",
+      "tiers": "across government"
+    },
+    {
+      "system": "National AI Strategy",
+      "country_label": "AI Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Department of e-Government with UNDP; AI Landscape Assessment started as its baseline",
+      "tiers": ""
+    },
+    {
+      "system": "Digital Readiness Assessment",
+      "country_label": "Digital Readiness Assessment (DRA)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Information and Digitalization, Department of e-Government and UNDP; launched 15 May 2025, scoring Malawi 2.7 out of 5, 'opportunistic' stage",
+      "tiers": ""
+    },
+    {
+      "system": "National Registration Bureau Strategic Plan 2025-2030",
+      "country_label": "NRB Strategic Plan (2025-2030)",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "National Registration Bureau, launched in 2025",
+      "tiers": ""
+    },
+    {
+      "system": "National Digitalization Policy",
+      "country_label": "National Digitalization Policy (2023)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "DPI Safeguards Framework",
+      "country_label": "Digital Public Infrastructure Safeguards Framework",
+      "class": "thematic",
+      "platform": "",
+      "owner": "DPI Safeguards Taskforce; draft to be validated at a national workshop",
+      "tiers": ""
+    },
+    {
+      "system": "National cybersecurity strategy",
+      "country_label": "national cybersecurity strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "named only in the project results framework as a planned legal and operational framework",
+      "tiers": ""
+    },
+    {
+      "system": "Malawi Vision 2063 and Malawi Implementation Plan (MIP-1)",
+      "country_label": "Malawi 2063; MIP-1",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Malawi; named as the national frameworks the project and the Cabinet Retreat align with",
+      "tiers": ""
+    }
   ],
   "note": "National Digital Transformation Strategy classed national from the report's own description of a national roadmap for the state and digital economy investments; no period, delivery plan, cost, reporting or adopting act is stated. The National Digitalization Policy (2023) is named only as an alignment reference with a year in its name, so no fact is recorded for it."
 }

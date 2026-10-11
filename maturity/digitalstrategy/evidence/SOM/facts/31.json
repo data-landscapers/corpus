@@ -1,12 +1,44 @@
 {
   "slug": "2025-10-13 Somalia moves to finalize Digital Transformation Strategy 2025-2030 with ITU support",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Ecofin reports that the Ministry of Communications and Technology, with the ITU, hosted a two-day national multi-stakeholder consultation on 12-13 October 2025 'to validate' Somalia's Digital Transformation Strategy (2025-2030), reviewing and refining the 'proposed' roadmap; no adoption is reported.", "as_of": "2025-10-12", "date_precision": "day", "system": "Digital Transformation Strategy (2025-2030)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article gives the strategy's period as 2025-2030, and as_of 2025-10-12 falls inside it; it does not link or quote the text, and a corroborating note says the consultation was to gather input before adoption. Text public: not stated", "as_of": "2025-10-12", "date_precision": "day", "system": "Digital Transformation Strategy (2025-2030)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Ecofin reports that the Ministry of Communications and Technology, with the ITU, hosted a two-day national multi-stakeholder consultation on 12-13 October 2025 'to validate' Somalia's Digital Transformation Strategy (2025-2030), reviewing and refining the 'proposed' roadmap; no adoption is reported.",
+      "as_of": "2025-10-12",
+      "date_precision": "day",
+      "system": "Digital Transformation Strategy 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The article gives the strategy's period as 2025-2030, and as_of 2025-10-12 falls inside it; it does not link or quote the text, and a corroborating note says the consultation was to gather input before adoption. Text public: not stated",
+      "as_of": "2025-10-12",
+      "date_precision": "day",
+      "system": "Digital Transformation Strategy 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National ICT Policy and Strategy 2019-2024", "country_label": "National ICT Policy and Strategy 2019-2024", "class": "sector-ict", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": "national; named as the predecessor the new strategy builds on"},
-    {"system": "Vision 2060", "country_label": "Vision 2060", "class": "development-plan", "platform": "", "owner": "Government of Somalia", "tiers": "national; the strategy is said to align with it"}
+    {
+      "system": "National ICT Policy and Strategy 2019-2024",
+      "country_label": "National ICT Policy and Strategy 2019-2024",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Communications and Technology",
+      "tiers": "national; named as the predecessor the new strategy builds on"
+    },
+    {
+      "system": "Vision 2060",
+      "country_label": "Vision 2060",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Somalia",
+      "tiers": "national; the strategy is said to align with it"
+    }
   ],
   "note": "Class national is read from the Minister's statement that the strategy will be a national framework for all ICT-related initiatives across sectors, with pillars on broadband, cybersecurity and skills."
 }

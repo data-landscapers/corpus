@@ -1,20 +1,124 @@
 {
   "slug": "2026-02-03 Liberia National Digital Strategy 2025-2029 (Digital Liberia)",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The strategy text, titled 'Whole of Government' National Digital Strategy (2025-2029) and held on the Ministry of Posts and Telecommunications website, states a five-year period of 2025-2029 for its cost estimates and roadmap; no event date is given, so the date used is the document's published date (3 February 2026), which falls inside that period.", "as_of": "2026-02-03", "date_precision": "day", "system": "National Digital Strategy (2025-2029)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "Chapter 6 gives financial estimates: US$151.813 million for initiatives funded from government, multilateral donor and other sources over 2025-2029 (US$90.200 million capital plus US$61.613 million operating), and a separate US$776.250 million for about 1,500 cell towers to be funded through public-private partnership; Chapter 7 sets an implementation roadmap with timelines; the estimate carries no date of its own, so the published date is used.", "as_of": "2026-02-03", "date_precision": "day", "system": "National Digital Strategy (2025-2029)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The strategy states that its intervention areas came from stakeholder working sessions on 3 and 4 December 2024 and a validation workshop on 11 December 2024, with further feedback through January 2025; it names no adopting act.", "as_of": "2024-12-11", "date_precision": "day", "system": "National Digital Strategy (2025-2029)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:none", "fact": "The strategy's current-state review says there is no standalone central institution focused solely on coordinating ICT implementation across the Government of Liberia, and it recommends establishing a Liberia Digital Transformation Agency by legislation or executive order, with a National Digital Transformation Working Group proposed by the Ministry of Posts and Telecommunications in the interim; the strategy is undated on this point, so the published date is used.", "as_of": "2026-02-03", "date_precision": "day", "system": "National Digital Strategy (2025-2029)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:not-stated", "fact": "The strategy's cost chapter says its estimates are to be funded from government sources, multilateral donors and other agencies, and lists availability of financial resources as a critical success factor; it names no budget line or allocation for the strategy; the published date is used.", "as_of": "2026-02-03", "date_precision": "day", "system": "National Digital Strategy (2025-2029)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The strategy text, titled 'Whole of Government' National Digital Strategy (2025-2029) and held on the Ministry of Posts and Telecommunications website, states a five-year period of 2025-2029 for its cost estimates and roadmap; no event date is given, so the date used is the document's published date (3 February 2026), which falls inside that period.",
+      "as_of": "2026-02-03",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "Chapter 6 gives financial estimates: US$151.813 million for initiatives funded from government, multilateral donor and other sources over 2025-2029 (US$90.200 million capital plus US$61.613 million operating), and a separate US$776.250 million for about 1,500 cell towers to be funded through public-private partnership; Chapter 7 sets an implementation roadmap with timelines; the estimate carries no date of its own, so the published date is used.",
+      "as_of": "2026-02-03",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "The strategy states that its intervention areas came from stakeholder working sessions on 3 and 4 December 2024 and a validation workshop on 11 December 2024, with further feedback through January 2025; it names no adopting act.",
+      "as_of": "2024-12-11",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:none",
+      "fact": "The strategy's current-state review says there is no standalone central institution focused solely on coordinating ICT implementation across the Government of Liberia, and it recommends establishing a Liberia Digital Transformation Agency by legislation or executive order, with a National Digital Transformation Working Group proposed by the Ministry of Posts and Telecommunications in the interim; the strategy is undated on this point, so the published date is used.",
+      "as_of": "2026-02-03",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The strategy's cost chapter says its estimates are to be funded from government sources, multilateral donors and other agencies, and lists availability of financial resources as a critical success factor; it names no budget line or allocation for the strategy; the published date is used.",
+      "as_of": "2026-02-03",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The document is the strategy's own text, published on the ministry's site (mopt.gov.lr).",
+      "as_of": "2026-02-03",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy (2025-2029)", "country_label": "'Whole of Government' National Digital Strategy (2025-2029), Digital Liberia", "class": "national", "platform": "", "owner": "Government of Liberia, commissioned by the Ministry of Posts and Telecommunications", "tiers": "Three pillars: Digital Infrastructure & Cyber Security; Governance & Services; Digital Empowerment of Citizens and Businesses"},
-    {"system": "e-Governance Strategy (2014-2018)", "country_label": "e-Government Strategy", "class": "government", "platform": "", "owner": "", "tiers": "Elapsed in 2018 and not updated, as the document states"},
-    {"system": "National ICT Policy (2019-2024)", "country_label": "National ICT Policy 2019-2024", "class": "sector-ict", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": "Sets out a National ICT Governing Board and a CIO role"},
-    {"system": "National ICT Policy (2025-2029)", "country_label": "National ICT Policy (2025-2029)", "class": "sector-ict", "platform": "", "owner": "", "tiers": "Named among digital governance policies in development"},
-    {"system": "Governance Reform and Accountability Transformation (GREAT) project", "country_label": "GREAT", "class": "programme", "platform": "", "owner": "World Bank financing", "tiers": ""},
-    {"system": "Western Africa Regional Digital Integration Program (WARDIP)", "country_label": "WARDIP", "class": "programme", "platform": "", "owner": "World Bank and ECOWAS", "tiers": ""},
-    {"system": "Liberia Digital Transformation Project / UniPod / IRISE project", "country_label": "flagship digital empowerment programmes", "class": "programme", "platform": "", "owner": "", "tiers": "Youth and marginalised communities"}
+    {
+      "system": "National Digital Strategy (2025-2029)",
+      "country_label": "'Whole of Government' National Digital Strategy (2025-2029), Digital Liberia",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Liberia, commissioned by the Ministry of Posts and Telecommunications",
+      "tiers": "Three pillars: Digital Infrastructure & Cyber Security; Governance & Services; Digital Empowerment of Citizens and Businesses"
+    },
+    {
+      "system": "e-Governance Strategy (2014-2018)",
+      "country_label": "e-Government Strategy",
+      "class": "government",
+      "platform": "",
+      "owner": "",
+      "tiers": "Elapsed in 2018 and not updated, as the document states"
+    },
+    {
+      "system": "National ICT Policy (2019-2024)",
+      "country_label": "National ICT Policy 2019-2024",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications",
+      "tiers": "Sets out a National ICT Governing Board and a CIO role"
+    },
+    {
+      "system": "National ICT Policy (2025-2029)",
+      "country_label": "National ICT Policy (2025-2029)",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": "Named among digital governance policies in development"
+    },
+    {
+      "system": "Governance Reform and Accountability Transformation (GREAT) project",
+      "country_label": "GREAT",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank financing",
+      "tiers": ""
+    },
+    {
+      "system": "Western Africa Regional Digital Integration Program (WARDIP)",
+      "country_label": "WARDIP",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank and ECOWAS",
+      "tiers": ""
+    },
+    {
+      "system": "Liberia Digital Transformation Project / UniPod / IRISE project",
+      "country_label": "flagship digital empowerment programmes",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "Youth and marginalised communities"
+    }
   ],
   "note": "This is the strategy text itself; it states no adoption act, no cabinet approval and no progress report against its targets, so no standing:adopted or reporting fact is recorded from it."
 }

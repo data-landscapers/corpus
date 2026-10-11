@@ -1,14 +1,60 @@
 {
   "slug": "2021-07-31-mauritania-aneta-digital-agency-proposal-undp",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The UNDP report of 31 July 2021 says the Head of State's 2019 electoral programme put the emphasis on implementing a strategy for developing digital technologies and improving access to public services through an e-government programme; it records a pledge and names no strategy document or act.", "as_of": "2019", "date_precision": "year", "system": "stratégie de développement des technologies numériques", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The UNDP report says that in February 2020 the government announced the formation of a 'Haut conseil du numérique' (HCN), an inter-ministerial committee charged with recommendations and steering of the national digital strategy, including the digital economy; the act creating it is not named.", "as_of": "2020-02", "date_precision": "month", "system": "stratégie numérique nationale", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The UNDP report of 31 July 2021 says the Head of State's 2019 electoral programme put the emphasis on implementing a strategy for developing digital technologies and improving access to public services through an e-government programme; it records a pledge and names no strategy document or act.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "stratégie de développement des technologies numériques",
+      "class": ""
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The UNDP report says that in February 2020 the government announced the formation of a 'Haut conseil du numérique' (HCN), an inter-ministerial committee charged with recommendations and steering of the national digital strategy, including the digital economy; the act creating it is not named.",
+      "as_of": "2020-02",
+      "date_precision": "month",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Stratégie nationale de modernisation de l'administration et des TIC", "country_label": "Stratégie nationale de modernisation de l'administration et des TIC", "class": "", "platform": "", "owner": "Government of Mauritania", "tiers": "national; described only as already drawn up ('a déjà élaboré') by July 2021"},
-    {"system": "Développement des technologies de l'information et de la communication 2021/2022", "country_label": "plan de travail 'Développement des technologies de l'information et de la communication 2021/2022'", "class": "ministry-plan", "platform": "", "owner": "Government of Mauritania", "tiers": "national; work plan"},
-    {"system": "Haut conseil du numérique (HCN)", "country_label": "Haut conseil du numérique", "class": "", "platform": "", "owner": "inter-ministerial committee", "tiers": "national; steering body announced February 2020"},
-    {"system": "Agence du numérique de l'État (ANETA / AN-ETAT)", "country_label": "Agence du numérique de l'État", "class": "programme", "platform": "", "owner": "MTNIMA with UNDP support", "tiers": "national; agency proposal requested January 2021"}
+    {
+      "system": "Stratégie nationale de modernisation de l'administration et des TIC",
+      "country_label": "Stratégie nationale de modernisation de l'administration et des TIC",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Mauritania",
+      "tiers": "national; described only as already drawn up ('a déjà élaboré') by July 2021"
+    },
+    {
+      "system": "Développement des technologies de l'information et de la communication 2021/2022",
+      "country_label": "plan de travail 'Développement des technologies de l'information et de la communication 2021/2022'",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Government of Mauritania",
+      "tiers": "national; work plan"
+    },
+    {
+      "system": "Haut conseil du numérique (HCN)",
+      "country_label": "Haut conseil du numérique",
+      "class": "",
+      "platform": "",
+      "owner": "inter-ministerial committee",
+      "tiers": "national; steering body announced February 2020"
+    },
+    {
+      "system": "Agence du numérique de l'État (ANETA / AN-ETAT)",
+      "country_label": "Agence du numérique de l'État",
+      "class": "programme",
+      "platform": "",
+      "owner": "MTNIMA with UNDP support",
+      "tiers": "national; agency proposal requested January 2021"
+    }
   ],
   "note": "The 2021 report says the government 'a déjà élaboré' the Stratégie nationale de modernisation de l'administration et des TIC but gives no date, act or scope for it, so no fact is recorded for it. Excerpt stops before the state-of-play sections."
 }

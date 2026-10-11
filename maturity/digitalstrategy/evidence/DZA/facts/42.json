@@ -1,7 +1,16 @@
 {
   "slug": "2026-01-26-cybersecurity-framework-national-infrastructure--techafricanews",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Tech Africa News says the High Commission for Digitalisation oversees the national digitalisation strategy, ensuring the National Data Center and National Cloud meet cybersecurity standards, within a 2025-2030 digital strategy.", "as_of": "2026-01-26", "date_precision": "day", "system": "2025-2030 digital strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "Tech Africa News says the High Commission for Digitalisation oversees the national digitalisation strategy, ensuring the National Data Center and National Cloud meet cybersecurity standards, within a 2025-2030 digital strategy.",
+      "as_of": "2026-01-26",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": ""

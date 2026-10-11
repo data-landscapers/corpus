@@ -1,14 +1,58 @@
 {
   "slug": "2020-01-01-world-bank-burundi-digital-economy-assessment",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "The World Bank's Burundi Digital Economy Assessment states that the country lacks an overarching and cohesive digital strategy and recommends that the government adopt a national digital strategy as a pillar of its development plan; the document gives no date beyond its 2020 publication year, which is used here.", "as_of": "2020", "date_precision": "year", "system": "National digital strategy (none exists)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The World Bank's Burundi Digital Economy Assessment states that the country lacks an overarching and cohesive digital strategy and recommends that the government adopt a national digital strategy as a pillar of its development plan; the document gives no date beyond its 2020 publication year, which is used here.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "No national digital strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Politique Nationale de Développement des TIC du Burundi (PNDTIC 2010-2025)", "country_label": "PNDTIC 2010-2025", "class": "sector-ict", "platform": "", "owner": "Ministry of Youth, Posts and ICT", "tiers": "national; the assessment says it is the country's only ICT policy and should be updated with a roadmap"},
-    {"system": "Plan National de Développement 2018-2027", "country_label": "PND 2018-2027", "class": "development-plan", "platform": "", "owner": "Government of Burundi", "tiers": "national; the assessment recommends adding a digital economy strategy as a key pillar"},
-    {"system": "e-Government Strategy (recommended, none exists)", "country_label": "", "class": "government", "platform": "", "owner": "", "tiers": "national; assessment states the country lacks an overarching e-government strategy"},
-    {"system": "Plan National de Développement de l'Informatique de Santé II 2020-2024 (PNDIS II)", "country_label": "PNDIS II", "class": "thematic", "platform": "", "owner": "Ministry of Public Health and Fight Against AIDS", "tiers": "health sector"},
-    {"system": "Burundi Large Bande 2025 (BLB 2025)", "country_label": "Stratégie Burundi Large Bande 2025", "class": "thematic", "platform": "", "owner": "Government of Burundi", "tiers": "national; broadband"}
+    {
+      "system": "Politique Nationale de Développement des TIC du Burundi (PNDTIC 2010-2025)",
+      "country_label": "PNDTIC 2010-2025",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Youth, Posts and ICT",
+      "tiers": "national; the assessment says it is the country's only ICT policy and should be updated with a roadmap"
+    },
+    {
+      "system": "Plan National de Développement 2018-2027",
+      "country_label": "PND 2018-2027",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Burundi",
+      "tiers": "national; the assessment recommends adding a digital economy strategy as a key pillar"
+    },
+    {
+      "system": "e-Government Strategy (recommended, none exists)",
+      "country_label": "",
+      "class": "government",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; assessment states the country lacks an overarching e-government strategy"
+    },
+    {
+      "system": "Plan National de Développement de l'Informatique de Santé II 2020-2024 (PNDIS II)",
+      "country_label": "PNDIS II",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Public Health and Fight Against AIDS",
+      "tiers": "health sector"
+    },
+    {
+      "system": "Burundi Large Bande 2025 (BLB 2025)",
+      "country_label": "Stratégie Burundi Large Bande 2025",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Burundi",
+      "tiers": "national; broadband"
+    }
   ],
   "note": ""
 }

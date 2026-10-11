@@ -1,20 +1,106 @@
 {
   "slug": "2022-09-01-rwanda-digital-divides-dividends-include",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "INCLUDE (September 2022) says the Smart Rwanda 2020 Master Plan (SRMP) was 'adopted in 2015' and is the most recent plan guiding digitalisation and e-governance, aiming at broadband for all and digital literacy for all by 2020; the source names no adopting act or body.", "as_of": "2015", "date_precision": "year", "system": "Smart Rwanda 2020 Master Plan", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "INCLUDE (September 2022) says the Smart Rwanda 2020 Master Plan (SRMP) was 'adopted in 2015' and is the most recent plan guiding digitalisation and e-governance, aiming at broadband for all and digital literacy for all by 2020; the source names no adopting act or body.",
+      "as_of": "2015",
+      "date_precision": "year",
+      "system": "Smart Rwanda 2020 Master Plan",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Smart Rwanda 2020 Master Plan", "country_label": "Smart Rwanda 2020 Master Plan (SRMP)", "class": "national", "platform": "", "owner": "Government of Rwanda", "tiers": "national; guides digitalisation and e-governance, business and innovation, a private-sector-driven economy, broadband and digital literacy for all by 2020"},
-    {"system": "National Information Communication Infrastructure plans", "country_label": "National Information Communication Infrastructure (NICI) plans", "class": "sector-ict", "platform": "", "owner": "", "tiers": "series of 5-year ICT strategic plans implemented since 2001"},
-    {"system": "ICT Sector Strategic Plan (2018-2024)", "country_label": "ICT Sector Strategic Plan (2018-2024)", "class": "sector-ict", "platform": "", "owner": "", "tiers": "sector plan towards a digital-enabled economy through integrated e-governance platforms"},
-    {"system": "ICT for Governance Cluster Strategy 2020-2024", "country_label": "ICT for Governance Cluster Strategy 2020-2024", "class": "government", "platform": "", "owner": "Ministry of ICT (MINICT)", "tiers": "listed as an e-governance policy"},
-    {"system": "National Broadband Policy for Rwanda (2013)", "country_label": "National Broadband Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "universal access to broadband"},
-    {"system": "National Cyber Security Policy (2015)", "country_label": "National Cyber Security Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "cyberspace security"},
-    {"system": "National Digital Talent Policy (2016)", "country_label": "National Digital Talent Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "ICT skills"},
-    {"system": "National Data Revolution Policy (2017)", "country_label": "National Data Revolution Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "data-enabled industry"},
-    {"system": "Child Online Protection policy (2019)", "country_label": "Child Online Protection policy", "class": "thematic", "platform": "", "owner": "", "tiers": "children online"},
-    {"system": "ICT for Education Strategy 2016", "country_label": "ICT for Education Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "ICT in teaching and learning at 29 higher learning institutions"},
-    {"system": "Digital Health laws and regulations (2022)", "country_label": "Digital Health laws and regulations", "class": "directive", "platform": "", "owner": "", "tiers": "health digital ecosystem, adopted 2022"}
+    {
+      "system": "Smart Rwanda 2020 Master Plan",
+      "country_label": "Smart Rwanda 2020 Master Plan (SRMP)",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Rwanda",
+      "tiers": "national; guides digitalisation and e-governance, business and innovation, a private-sector-driven economy, broadband and digital literacy for all by 2020"
+    },
+    {
+      "system": "National Information Communication Infrastructure plans",
+      "country_label": "National Information Communication Infrastructure (NICI) plans",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": "series of 5-year ICT strategic plans implemented since 2001"
+    },
+    {
+      "system": "ICT Sector Strategic Plan (2018-2024)",
+      "country_label": "ICT Sector Strategic Plan (2018-2024)",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": "sector plan towards a digital-enabled economy through integrated e-governance platforms"
+    },
+    {
+      "system": "ICT for Governance Cluster Strategy 2020-2024",
+      "country_label": "ICT for Governance Cluster Strategy 2020-2024",
+      "class": "government",
+      "platform": "",
+      "owner": "Ministry of ICT (MINICT)",
+      "tiers": "listed as an e-governance policy"
+    },
+    {
+      "system": "National Broadband Policy for Rwanda (2013)",
+      "country_label": "National Broadband Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "universal access to broadband"
+    },
+    {
+      "system": "National Cyber Security Policy (2015)",
+      "country_label": "National Cyber Security Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "cyberspace security"
+    },
+    {
+      "system": "National Digital Talent Policy (2016)",
+      "country_label": "National Digital Talent Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "ICT skills"
+    },
+    {
+      "system": "National Data Revolution Policy (2017)",
+      "country_label": "National Data Revolution Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "data-enabled industry"
+    },
+    {
+      "system": "Child Online Protection policy (2019)",
+      "country_label": "Child Online Protection policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "children online"
+    },
+    {
+      "system": "ICT for Education Strategy 2016",
+      "country_label": "ICT for Education Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "ICT in teaching and learning at 29 higher learning institutions"
+    },
+    {
+      "system": "Digital Health laws and regulations (2022)",
+      "country_label": "Digital Health laws and regulations",
+      "class": "directive",
+      "platform": "",
+      "owner": "",
+      "tiers": "health digital ecosystem, adopted 2022"
+    }
   ],
   "note": "Standing fact for the Smart Rwanda Master Plan is classed national because the document says it is the plan guiding digitalisation and e-governance, with business and innovation aims; it does not name a cabinet or other adopting body. The plan's 2020 horizon appears in its name and targets, not as a stated period, so no period fact."
 }

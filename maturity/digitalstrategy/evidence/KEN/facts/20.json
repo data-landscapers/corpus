@@ -1,11 +1,34 @@
 {
   "slug": "2026-09-07-euiss-africa-digital-edge-eu-africa-cooperation",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The EUISS brief describes Kenya's national strategy as focused on connectivity, digital public services, entrepreneurship and data-driven growth, citing the Kenya National Digital Master Plan 2022-2032 published by the Ministry of Information, Communications and the Digital Economy, Nairobi, 2022.", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Master Plan 2022-2032", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "The EUISS brief describes Kenya's national strategy as focused on connectivity, digital public services, entrepreneurship and data-driven growth, citing the Kenya National Digital Master Plan 2022-2032 published by the Ministry of Information, Communications and the Digital Economy, Nairobi, 2022.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Kenya National Digital Master Plan 2022-2032", "country_label": "National Digital Master Plan", "class": "national", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national"},
-    {"system": "Kenya Cyber Resilience project", "country_label": "Kenya Cyber Resilience project", "class": "programme", "platform": "", "owner": "EU-funded", "tiers": "national"}
+    {
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "country_label": "National Digital Master Plan",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information, Communications and the Digital Economy",
+      "tiers": "national"
+    },
+    {
+      "system": "Kenya Cyber Resilience project",
+      "country_label": "Kenya Cyber Resilience project",
+      "class": "programme",
+      "platform": "",
+      "owner": "EU-funded",
+      "tiers": "national"
+    }
   ],
   "note": "Brief also notes a March 2026 EU-Kenya Digital Dialogue (cooperation event, not a strategy fact). No adoption act or reporting stated."
 }

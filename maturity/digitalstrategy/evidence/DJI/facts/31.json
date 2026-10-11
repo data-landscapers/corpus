@@ -1,1 +1,58 @@
-{"slug": "2025-11-24-rtd-lancement-projet-e-skills", "facts": [{"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "RTD reports that the official launch of the EUR 7 million E-SKILLS project on 24 November 2025 marks a new stage in the national digital transformation strategy and skills development.", "as_of": "2025-11-24", "date_precision": "day", "system": "stratégie nationale de transformation numérique", "class": ""}], "systems": [{"system": "E-SKILLS project", "country_label": "projet E-SKILLS", "class": "programme", "platform": "", "owner": "Ministry Delegate for Digital Economy and Innovation; Expertise France; EU financed (EUR 7 million, four years)", "tiers": "national; launched 24 November 2025"}, {"system": "Feuille de route Smart Nation", "country_label": "Feuille de route Smart Nation", "class": "", "platform": "", "owner": "Government of Djibouti", "tiers": "national; named as a framework E-SKILLS is in line with, without description"}, {"system": "stratégie nationale de transformation numérique", "country_label": "stratégie nationale de transformation numérique et de développement des compétences", "class": "", "platform": "", "owner": "Government of Djibouti", "tiers": "national; named without description"}, {"system": "Plan national de développement 2025-2030", "country_label": "Plan national de développement 2025-2030", "class": "development-plan", "platform": "", "owner": "Government of Djibouti", "tiers": "national"}, {"system": "Vision Djibouti 2035", "country_label": "Vision Djibouti 2035", "class": "development-plan", "platform": "", "owner": "Government of Djibouti", "tiers": "national"}], "note": "One last12 fact recovered with class empty because the document does not describe the strategy's scope; the Smart Nation roadmap is named without description."}
+{
+  "slug": "2025-11-24-rtd-lancement-projet-e-skills",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "RTD reports that the official launch of the EUR 7 million E-SKILLS project on 24 November 2025 marks a new stage in the national digital transformation strategy and skills development.",
+      "as_of": "2025-11-24",
+      "date_precision": "day",
+      "system": "stratégie nationale de transformation numérique",
+      "class": ""
+    }
+  ],
+  "systems": [
+    {
+      "system": "E-SKILLS project",
+      "country_label": "projet E-SKILLS",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry Delegate for Digital Economy and Innovation; Expertise France; EU financed (EUR 7 million, four years)",
+      "tiers": "national; launched 24 November 2025"
+    },
+    {
+      "system": "Feuille de route Smart Nation",
+      "country_label": "Feuille de route Smart Nation",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Djibouti",
+      "tiers": "national; named as a framework E-SKILLS is in line with, without description"
+    },
+    {
+      "system": "stratégie nationale de transformation numérique",
+      "country_label": "stratégie nationale de transformation numérique et de développement des compétences",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Djibouti",
+      "tiers": "national; named without description"
+    },
+    {
+      "system": "Plan national de développement 2025-2030",
+      "country_label": "Plan national de développement 2025-2030",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Djibouti",
+      "tiers": "national"
+    },
+    {
+      "system": "Vision Djibouti 2035",
+      "country_label": "Vision Djibouti 2035",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Djibouti",
+      "tiers": "national"
+    }
+  ],
+  "note": "One last12 fact recovered with class empty because the document does not describe the strategy's scope; the Smart Nation roadmap is named without description."
+}

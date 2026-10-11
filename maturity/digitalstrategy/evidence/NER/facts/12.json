@@ -1,10 +1,26 @@
 {
   "slug": "2026-05-14-mcnti-gouvernance-numerique-donnees-statistiques-acces-tic",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The ministry's 13 May 2026 release gives the \"politique nationale du numérique\" the period 2021-2030 and says the new household ICT-access survey will serve to update it; it does not say whether the text is public.", "as_of": "2026-05-13", "date_precision": "day", "system": "politique nationale du numérique (2021-2030)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The ministry's 13 May 2026 release gives the \"politique nationale du numérique\" the period 2021-2030 and says the new household ICT-access survey will serve to update it; it does not say whether the text is public.",
+      "as_of": "2026-05-13",
+      "date_precision": "day",
+      "system": "Politique nationale du numérique 2021-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "politique nationale du numérique (2021-2030)", "country_label": "politique nationale du numérique (2021-2030)", "class": "", "platform": "", "owner": "Ministère de la Communication et des Nouvelles Technologies de l'Information", "tiers": "Named as the policy the INS household ICT survey (handed over 13 May 2026) will help update; no description of scope."}
+    {
+      "system": "politique nationale du numérique (2021-2030)",
+      "country_label": "politique nationale du numérique (2021-2030)",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la Communication et des Nouvelles Technologies de l'Information",
+      "tiers": "Named as the policy the INS household ICT survey (handed over 13 May 2026) will help update; no description of scope."
+    }
   ],
   "note": "Class left empty: the release dates the policy 2021-2030 but does not describe its scope; the period value is as_of 2026-05-13 inside that stated period, with public availability of the text not stated."
 }

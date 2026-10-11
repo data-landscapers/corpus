@@ -1,1 +1,26 @@
-{"slug":"2025-12-29 Chad Steps Up Rollout of Tchad Connexion 2030 in Talks With Huawei","facts":[{"sub_indicator":"national","aspect":"last12","value":"advancing","fact":"We Are Tech Africa, 29 December 2025, reports that on 24 December 2025 the Minister of the Digital Economy and Digitalisation, Boukar Michel, held talks with a Huawei North Africa delegation on expanding telecoms infrastructure and digitalising public administration, and that both sides explored turning the talks into concrete projects aligned with 'Tchad Connexion 2030'; no contract or funding is stated.","as_of":"2025-12-24","date_precision":"day","system":"Tchad Connexion 2030","class":""}],"systems":[{"system":"Tchad Connexion 2030","country_label":"Tchad Connexion 2030 (called 'national digital strategy' and 'digital transformation strategy')","class":"","platform":"","owner":"Government of Chad","tiers":"national, as the article calls it; aims to expand connectivity and modernise public services; pillars not described"}],"note":"Scope is described only as connectivity and public services, so class is left empty. No adoption verb, act, period or cost is stated, so no other aspect."}
+{
+  "slug": "2025-12-29 Chad Steps Up Rollout of Tchad Connexion 2030 in Talks With Huawei",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "We Are Tech Africa, 29 December 2025, reports that on 24 December 2025 the Minister of the Digital Economy and Digitalisation, Boukar Michel, held talks with a Huawei North Africa delegation on expanding telecoms infrastructure and digitalising public administration, and that both sides explored turning the talks into concrete projects aligned with 'Tchad Connexion 2030'; no contract or funding is stated.",
+      "as_of": "2025-12-24",
+      "date_precision": "day",
+      "system": "Tchad Connexion 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Tchad Connexion 2030",
+      "country_label": "Tchad Connexion 2030 (called 'national digital strategy' and 'digital transformation strategy')",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Chad",
+      "tiers": "national, as the article calls it; aims to expand connectivity and modernise public services; pillars not described"
+    }
+  ],
+  "note": "Scope is described only as connectivity and public services, so class is left empty. No adoption verb, act, period or cost is stated, so no other aspect."
+}

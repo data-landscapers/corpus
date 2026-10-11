@@ -1,15 +1,70 @@
 {
   "slug": "2024-10-01-sierra-leone-mocti-national-broadband-strategy-2023-2028",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The broadband strategy lists the National Digital Development Policy and Strategy among relevant policies that 'have already been developed', and describes the National Digital Development Strategy as a national strategy that is a blueprint for the digital ecosystem; it names no adopting act or body and gives no date for the Strategy, so the document's published date is used.", "as_of": "2024-10", "date_precision": "month", "system": "National Digital Development Strategy (NDDS)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The document says the National Digital Development Strategy, which stemmed from the National Digital Development Policy, includes two action points on broadband, one being to extend broadband access to all government institutions, including councils, schools, hospitals and libraries, within five years; no cost is given.", "as_of": "2024-10", "date_precision": "month", "system": "National Digital Development Strategy (NDDS)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The document refers to the 'draft' National Digital Transformation Roadmap (NDTR), which expects a second internet exchange point by 2025; no finalisation or adoption is stated and no date is given for it, so the document's published date is used.", "as_of": "2024-10", "date_precision": "month", "system": "National Digital Transformation Roadmap (NDTR)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The broadband strategy lists the National Digital Development Policy and Strategy among relevant policies that 'have already been developed', and describes the National Digital Development Strategy as a national strategy that is a blueprint for the digital ecosystem; it names no adopting act or body and gives no date for the Strategy, so the document's published date is used.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "National Digital Development Strategy 2022",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The document says the National Digital Development Strategy, which stemmed from the National Digital Development Policy, includes two action points on broadband, one being to extend broadband access to all government institutions, including councils, schools, hospitals and libraries, within five years; no cost is given.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "National Digital Development Strategy 2022",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The document refers to the 'draft' National Digital Transformation Roadmap (NDTR), which expects a second internet exchange point by 2025; no finalisation or adoption is stated and no date is given for it, so the document's published date is used.",
+      "as_of": "2024-10",
+      "date_precision": "month",
+      "system": "National Digital Transformation Roadmap",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Broadband Strategy 2023-2028", "country_label": "Sierra Leone National Broadband Strategy (2023-2028)", "class": "thematic", "platform": "", "owner": "Ministry of Communication, Technology and Innovation", "tiers": "broadband"},
-    {"system": "National Digital Development Policy 2021", "country_label": "National Digital Development Policy (NDDP)", "class": "national", "platform": "", "owner": "Government of Sierra Leone", "tiers": "described as the groundwork for coordination of digital transformation, economic growth and human capital, with e-government among its goals"},
-    {"system": "Medium-Term National Development Plan 2019-2023", "country_label": "MTNDP 2019-2023", "class": "development-plan", "platform": "", "owner": "Government of Sierra Leone", "tiers": ""},
-    {"system": "Government Enterprise Architecture", "country_label": "Government Enterprise Architecture", "class": "programme", "platform": "", "owner": "MoCTI, Smart Africa Secretariat, DIAL and key MDAs", "tiers": "stated as in development"}
+    {
+      "system": "National Broadband Strategy 2023-2028",
+      "country_label": "Sierra Leone National Broadband Strategy (2023-2028)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communication, Technology and Innovation",
+      "tiers": "broadband"
+    },
+    {
+      "system": "National Digital Development Policy 2021",
+      "country_label": "National Digital Development Policy (NDDP)",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Sierra Leone",
+      "tiers": "described as the groundwork for coordination of digital transformation, economic growth and human capital, with e-government among its goals"
+    },
+    {
+      "system": "Medium-Term National Development Plan 2019-2023",
+      "country_label": "MTNDP 2019-2023",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Sierra Leone",
+      "tiers": ""
+    },
+    {
+      "system": "Government Enterprise Architecture",
+      "country_label": "Government Enterprise Architecture",
+      "class": "programme",
+      "platform": "",
+      "owner": "MoCTI, Smart Africa Secretariat, DIAL and key MDAs",
+      "tiers": "stated as in development"
+    }
   ],
   "note": "The document is a thematic (broadband) strategy; the facts here are only its statements on the national digital strategy documents. The NDDS is class national because this document calls it a national strategy for the whole digital ecosystem."
 }

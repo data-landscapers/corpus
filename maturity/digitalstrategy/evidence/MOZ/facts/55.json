@@ -1,12 +1,42 @@
 {
   "slug": "2025-05-08-intic-inteligencia-artificial-desafios-e-oportunidades-para-mocambique",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "INTIC's AI study of 8 May 2025 lists the National Digital Transformation Strategy among planned instruments and among activities planned for 2025, with promulgation of the instruments under preparation expected during 2025.", "as_of": "2025-05-08", "date_precision": "day", "system": "Estratégia Nacional de Transformação Digital", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "INTIC's AI study of 8 May 2025 lists the National Digital Transformation Strategy among planned instruments and among activities planned for 2025, with promulgation of the instruments under preparation expected during 2025.",
+      "as_of": "2025-05-08",
+      "date_precision": "day",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Estratégia Nacional de Governo Digital", "country_label": "Estratégia Nacional de Governo Digital", "class": "", "platform": "", "owner": "Government", "tiers": "national; planned for 2025"},
-    {"system": "Estratégia Nacional de Inteligência Artificial", "country_label": "", "class": "thematic", "platform": "", "owner": "Government with partners", "tiers": "national; planned for 2025"},
-    {"system": "Estratégia de Governação de Dados", "country_label": "", "class": "thematic", "platform": "", "owner": "INTIC", "tiers": "national; planned for 2025"}
+    {
+      "system": "Estratégia Nacional de Governo Digital",
+      "country_label": "Estratégia Nacional de Governo Digital",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national; planned for 2025"
+    },
+    {
+      "system": "Estratégia Nacional de Inteligência Artificial",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government with partners",
+      "tiers": "national; planned for 2025"
+    },
+    {
+      "system": "Estratégia de Governação de Dados",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "INTIC",
+      "tiers": "national; planned for 2025"
+    }
   ],
   "note": "The study names the National Digital Transformation Strategy only as a planned instrument, without describing its scope, so class is left empty."
 }

@@ -1,10 +1,26 @@
 {
   "slug": "2026-08-08-itu-vamoz-digital-project-mozambique",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The ITU project page says ITU supported the Government in developing a National Digital Transformation Strategy through a process engaging 700+ stakeholders in six regional consultations and validation workshops; the page is undated (rolling, updated through spring 2025), so as_of is its published date.", "as_of": "2026-08-08", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The ITU project page says ITU supported the Government in developing a National Digital Transformation Strategy through a process engaging 700+ stakeholders in six regional consultations and validation workshops; the page is undated (rolling, updated through spring 2025), so as_of is its published date.",
+      "as_of": "2026-08-08",
+      "date_precision": "day",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "VaMoz Digital!", "country_label": "VaMoz Digital!", "class": "programme", "platform": "", "owner": "Ministry of Communications and Digital Transformation; ITU implementing; EU Delegation funding", "tiers": "national; 2023 to 2027"}
+    {
+      "system": "VaMoz Digital!",
+      "country_label": "VaMoz Digital!",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Transformation; ITU implementing; EU Delegation funding",
+      "tiers": "national; 2023 to 2027"
+    }
   ],
   "note": ""
 }

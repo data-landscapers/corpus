@@ -1,34 +1,34 @@
 {
- "slug": "2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment",
- "facts": [
-  {
-   "sub_indicator": "national",
-   "aspect": "period",
-   "value": "current",
-   "fact": "ESEPARC reports on 2024-12-05 that the Ministry of ICT is implementing the Eswatini Digitalisation Strategy 2024-2028, which puts the strategy inside its stated period. Text public: not stated.",
-   "as_of": "2024-12-05",
-   "date_precision": "day",
-   "system": "Eswatini Digitalisation Strategy 2024-2028",
-   "class": ""
-  }
- ],
- "systems": [
-  {
-   "system": "Eswatini Digitalisation Strategy 2024-2028",
-   "country_label": "Eswatini Digitalisation Strategy 2024-2028 ('Government in Your Hand')",
-   "class": "",
-   "platform": "",
-   "owner": "Ministry of ICT",
-   "tiers": "scope not described"
-  },
-  {
-   "system": "national digital strategy",
-   "country_label": "national digital strategy",
-   "class": "",
-   "platform": "",
-   "owner": "",
-   "tiers": "unnamed; implementation acknowledged by at least 64% of stakeholders, half perceive it as delayed"
-  }
- ],
- "note": "The page names the Eswatini Digitalisation Strategy 2024-2028 as being implemented by the Ministry of ICT but does not describe its scope, so the fact is recorded with class empty. It also says 'a national digital strategy is in place' without naming it."
+  "slug": "2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "ESEPARC reports on 2024-12-05 that the Ministry of ICT is implementing the Eswatini Digitalisation Strategy 2024-2028, which puts the strategy inside its stated period. Text public: not stated.",
+      "as_of": "2024-12-05",
+      "date_precision": "day",
+      "system": "Eswatini Digitalisation Strategy 2024-2028",
+      "class": "government"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Eswatini Digitalisation Strategy 2024-2028",
+      "country_label": "Eswatini Digitalisation Strategy 2024-2028 ('Government in Your Hand')",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": "scope not described"
+    },
+    {
+      "system": "national digital strategy",
+      "country_label": "national digital strategy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "unnamed; implementation acknowledged by at least 64% of stakeholders, half perceive it as delayed"
+    }
+  ],
+  "note": "The page names the Eswatini Digitalisation Strategy 2024-2028 as being implemented by the Ministry of ICT but does not describe its scope, so the fact is recorded with class empty. It also says 'a national digital strategy is in place' without naming it."
 }

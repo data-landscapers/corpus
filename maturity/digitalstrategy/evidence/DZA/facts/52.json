@@ -1,10 +1,26 @@
 {
   "slug": "2025-11-04-undp-agreement-digital-transformation--techafricanews",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "Tech Africa News reports a two-year cooperation agreement between the High Commission for Digitalisation and UNDP for technical support, aligned with Algeria's national digital strategy; no domestic allocation is stated.", "as_of": "2025-11-04", "date_precision": "day", "system": "National digital strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "Tech Africa News reports a two-year cooperation agreement between the High Commission for Digitalisation and UNDP for technical support, aligned with Algeria's national digital strategy; no domestic allocation is stated.",
+      "as_of": "2025-11-04",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "HCN-UNDP two-year cooperation agreement", "country_label": "", "class": "programme", "platform": "", "owner": "High Commission for Digitalisation and UNDP", "tiers": ""}
+    {
+      "system": "HCN-UNDP two-year cooperation agreement",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "High Commission for Digitalisation and UNDP",
+      "tiers": ""
+    }
   ],
   "note": ""
 }

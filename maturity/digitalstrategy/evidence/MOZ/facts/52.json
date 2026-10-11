@@ -1,12 +1,42 @@
 {
   "slug": "2025-07-16 Mozambique Digital Transformation Strategy (Market Intelligence)",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The US International Trade Administration reports the government is drafting a Digital Transformation Strategy covering connectivity, e-government and social services, after the 2025 creation of the Ministry of Communications and Digital Transformation.", "as_of": "2025-07-16", "date_precision": "day", "system": "Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The US International Trade Administration reports the government is drafting a Digital Transformation Strategy covering connectivity, e-government and social services, after the 2025 creation of the Ministry of Communications and Digital Transformation.",
+      "as_of": "2025-07-16",
+      "date_precision": "day",
+      "system": "Estratégia Nacional de Transformação Digital",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Internet for All", "country_label": "Internet para Todos", "class": "thematic", "platform": "", "owner": "INCM", "tiers": "national; launched December 2024, aims to lift internet access from under 25% to 100% by 2030"},
-    {"system": "Internet nas Escolas", "country_label": "Internet nas Escolas", "class": "programme", "platform": "", "owner": "INCM", "tiers": "national; to connect 13,000 public schools by 2030"},
-    {"system": "Health Units Digitalization Project", "country_label": "", "class": "programme", "platform": "", "owner": "Ministry of Health", "tiers": "national; December 2024"}
+    {
+      "system": "Internet for All",
+      "country_label": "Internet para Todos",
+      "class": "thematic",
+      "platform": "",
+      "owner": "INCM",
+      "tiers": "national; launched December 2024, aims to lift internet access from under 25% to 100% by 2030"
+    },
+    {
+      "system": "Internet nas Escolas",
+      "country_label": "Internet nas Escolas",
+      "class": "programme",
+      "platform": "",
+      "owner": "INCM",
+      "tiers": "national; to connect 13,000 public schools by 2030"
+    },
+    {
+      "system": "Health Units Digitalization Project",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Health",
+      "tiers": "national; December 2024"
+    }
   ],
   "note": ""
 }

@@ -1,12 +1,42 @@
 {
   "slug": "2025-09-29-interoperability-platform-uxp-x-road-techafricanews",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "On launching the interoperability platform on 25 September 2025, the ministry presented it as part of the National Digital Development Strategy and of the government's dated ambition of a paper-free administration by 2030, with twelve pilot institutions in the first phase.", "as_of": "2025-09-25", "date_precision": "day", "system": "National Digital Development Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "On launching the interoperability platform on 25 September 2025, the ministry presented it as part of the National Digital Development Strategy and of the government's dated ambition of a paper-free administration by 2030, with twelve pilot institutions in the first phase.",
+      "as_of": "2025-09-25",
+      "date_precision": "day",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Development Strategy", "country_label": "Stratégie nationale de développement du numérique", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Digitalization", "tiers": "national"},
-    {"system": "Public Administration Interoperability Platform (UXP)", "country_label": "plateforme d'interopérabilité", "class": "programme", "platform": "UXP by Cybernetica", "owner": "SNDI", "tiers": "twelve pilot public bodies"},
-    {"system": "Côte d'Ivoire 2030 Strategic Plan", "country_label": "Plan stratégique Côte d'Ivoire 2030", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+    {
+      "system": "National Digital Development Strategy",
+      "country_label": "Stratégie nationale de développement du numérique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Digitalization",
+      "tiers": "national"
+    },
+    {
+      "system": "Public Administration Interoperability Platform (UXP)",
+      "country_label": "plateforme d'interopérabilité",
+      "class": "programme",
+      "platform": "UXP by Cybernetica",
+      "owner": "SNDI",
+      "tiers": "twelve pilot public bodies"
+    },
+    {
+      "system": "Côte d'Ivoire 2030 Strategic Plan",
+      "country_label": "Plan stratégique Côte d'Ivoire 2030",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "government",
+      "tiers": "national"
+    }
   ],
   "note": ""
 }

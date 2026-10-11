@@ -1,10 +1,26 @@
 {
   "slug": "2025-06-04-tgo-gf-oig-25-005",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "The Global Fund's Office of the Inspector General, auditing Togo's health supply-chain digitalisation, states there is an 'absence of coordinated national digitalization strategy' amid multiple digitalisation initiatives; the document gives no audit date other than its publication date, 2025-06-04, which is used here.", "as_of": "2025-06-04", "date_precision": "day", "system": "coordinated national digitalization strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The Global Fund's Office of the Inspector General, auditing Togo's health supply-chain digitalisation, states there is an 'absence of coordinated national digitalization strategy' amid multiple digitalisation initiatives; the document gives no audit date other than its publication date, 2025-06-04, which is used here.",
+      "as_of": "2025-06-04",
+      "date_precision": "day",
+      "system": "No national digital strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "eLMIS", "country_label": "eLMIS", "class": "", "platform": "", "owner": "health supply chain (warehouse)", "tiers": "central warehouse"}
+    {
+      "system": "eLMIS",
+      "country_label": "eLMIS",
+      "class": "",
+      "platform": "",
+      "owner": "health supply chain (warehouse)",
+      "tiers": "central warehouse"
+    }
   ],
   "note": "Audit report; one passage states the absence of a coordinated national digitalization strategy, recorded as standing none. The passage does not name Togo Digital 2025."
 }

@@ -1,1 +1,36 @@
-{"slug":"2025-07-18-techafricanews-tchad-connexion-2030-strategy-1-5b","facts":[{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"TechAfrica News, 18 July 2025, reports that 'the government of Chad has launched' a $1.5 billion programme under its 'Chad Connection 2030' strategy; it names no adopting act, decree or body beyond the government, and gives no date for the launch, so as_of is the article's published date.","as_of":"2025-07-18","date_precision":"day","system":"Chad Connection 2030","class":"national"},{"sub_indicator":"national","aspect":"plan","value":"costed","fact":"TechAfrica News, 18 July 2025, describes Chad Connection 2030 as a $1.5 billion programme with named planned projects (a 509-kilometre fibre connection from N'Djamena to the Niger border, satellite links to rural zones, a new fibre-management company, Sotel privatisation, a third operator); it gives no dates per action, and as_of is the article's published date.","as_of":"2025-07-18","date_precision":"day","system":"Chad Connection 2030","class":"national"}],"systems":[{"system":"Chad Connection 2030","country_label":"Tchad Connexion 2030","class":"national","platform":"","owner":"Government of Chad; developed with World Bank support and Roland Berger analysis","tiers":"national; covers connectivity, market competition and regulation, e-government and digital payments"}],"note":"Class national from the document's description of priorities spanning the digital economy (connectivity, competition, regulation) and public services. Aims to deliver quality internet access to the majority of Chadians by 2030 and to be 'within the next six years'; no stated start or period, so no period fact."}
+{
+  "slug": "2025-07-18-techafricanews-tchad-connexion-2030-strategy-1-5b",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "TechAfrica News, 18 July 2025, reports that 'the government of Chad has launched' a $1.5 billion programme under its 'Chad Connection 2030' strategy; it names no adopting act, decree or body beyond the government, and gives no date for the launch, so as_of is the article's published date.",
+      "as_of": "2025-07-18",
+      "date_precision": "day",
+      "system": "Tchad Connexion 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "TechAfrica News, 18 July 2025, describes Chad Connection 2030 as a $1.5 billion programme with named planned projects (a 509-kilometre fibre connection from N'Djamena to the Niger border, satellite links to rural zones, a new fibre-management company, Sotel privatisation, a third operator); it gives no dates per action, and as_of is the article's published date.",
+      "as_of": "2025-07-18",
+      "date_precision": "day",
+      "system": "Tchad Connexion 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Chad Connection 2030",
+      "country_label": "Tchad Connexion 2030",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Chad; developed with World Bank support and Roland Berger analysis",
+      "tiers": "national; covers connectivity, market competition and regulation, e-government and digital payments"
+    }
+  ],
+  "note": "Class national from the document's description of priorities spanning the digital economy (connectivity, competition, regulation) and public services. Aims to deliver quality internet access to the majority of Chadians by 2030 and to be 'within the next six years'; no stated start or period, so no period fact."
+}

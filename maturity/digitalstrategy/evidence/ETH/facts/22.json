@@ -1,1 +1,44 @@
-{"slug":"2026-07-30-fana-deputy-pm-technology-must-improve-lives-digital-transformation-council","facts":[{"sub_indicator":"national","aspect":"governance","value":"body:mandated","fact":"The National Digital Transformation Council, chaired by Deputy Prime Minister Temesgen Tiruneh, met and was said to provide strategic leadership for the Digital Ethiopia Strategy, reviewing its implementation and the alignment of new digital initiatives with it.","as_of":"2026-07-30","date_precision":"day","system":"Digital Ethiopia Strategy","class":"national"},{"sub_indicator":"national","aspect":"reporting","value":"activity","fact":"The Council reviewed progress on the Digital Ethiopia Strategy, Fayda and the 5 Million Coders initiative and the Deputy Prime Minister said success should be measured by lives improved; no target, indicator or published report is given.","as_of":"2026-07-30","date_precision":"day","system":"Digital Ethiopia Strategy","class":"national"}],"systems":[{"system":"National Digital Transformation Council","country_label":"National Digital Transformation Council","class":"","platform":"","owner":"Government of Ethiopia, chaired by the Deputy Prime Minister","tiers":"national"},{"system":"5 Million Ethiopian Coders Initiative","country_label":"5 Million Ethiopian Coders Initiative","class":"programme","platform":"","owner":"Government of Ethiopia","tiers":"national"}],"note":""}
+{
+  "slug": "2026-07-30-fana-deputy-pm-technology-must-improve-lives-digital-transformation-council",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The National Digital Transformation Council, chaired by Deputy Prime Minister Temesgen Tiruneh, met and was said to provide strategic leadership for the Digital Ethiopia Strategy, reviewing its implementation and the alignment of new digital initiatives with it.",
+      "as_of": "2026-07-30",
+      "date_precision": "day",
+      "system": "Digital Ethiopia 2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The Council reviewed progress on the Digital Ethiopia Strategy, Fayda and the 5 Million Coders initiative and the Deputy Prime Minister said success should be measured by lives improved; no target, indicator or published report is given.",
+      "as_of": "2026-07-30",
+      "date_precision": "day",
+      "system": "Digital Ethiopia 2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Digital Transformation Council",
+      "country_label": "National Digital Transformation Council",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Ethiopia, chaired by the Deputy Prime Minister",
+      "tiers": "national"
+    },
+    {
+      "system": "5 Million Ethiopian Coders Initiative",
+      "country_label": "5 Million Ethiopian Coders Initiative",
+      "class": "programme",
+      "platform": "",
+      "owner": "Government of Ethiopia",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

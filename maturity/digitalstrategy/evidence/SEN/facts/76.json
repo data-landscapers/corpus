@@ -1,11 +1,34 @@
 {
   "slug": "2025-02-15-new-deal-stakes-and-challenges",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "Le Soleil, on 15 February 2025, says the \"New Deal Technologique\", \"nouvelle stratégie numérique du Sénégal\", \"a été conçu\" (has been designed) to give body to the new authorities' will within Vision Sénégal 2050; no adopting act or launch date is stated.", "as_of": "2025-02-15", "date_precision": "day", "system": "New Deal Technologique", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "Le Soleil, on 15 February 2025, says the \"New Deal Technologique\", \"nouvelle stratégie numérique du Sénégal\", \"a été conçu\" (has been designed) to give body to the new authorities' will within Vision Sénégal 2050; no adopting act or launch date is stated.",
+      "as_of": "2025-02-15",
+      "date_precision": "day",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Deal Technologique", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national; digital infrastructure deficit, digital inclusion, territorialisation"},
-    {"system": "Vision Sénégal 2050", "country_label": "", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+    {
+      "system": "New Deal Technologique",
+      "country_label": "New Deal Technologique",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national; digital infrastructure deficit, digital inclusion, territorialisation"
+    },
+    {
+      "system": "Vision Sénégal 2050",
+      "country_label": "",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    }
   ],
   "note": "Passages only; commentary on stakes and challenges."
 }

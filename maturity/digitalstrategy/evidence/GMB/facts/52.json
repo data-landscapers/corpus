@@ -1,13 +1,50 @@
 {
   "slug": "2020-10-01-gambia-e-government-strategy-2021-2024-moici",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The strategy says the Ministry of Information and Communication Infrastructure is taking measures 'in the development of an ICT Master Plan for The Gambia', as at the document's date of October 2020 (no act or adoption stated).", "as_of": "2020-10", "date_precision": "month", "system": "ICT Master Plan for The Gambia", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The strategy says the Ministry of Information and Communication Infrastructure is taking measures 'in the development of an ICT Master Plan for The Gambia', as at the document's date of October 2020 (no act or adoption stated).",
+      "as_of": "2020-10",
+      "date_precision": "month",
+      "system": "ICT4D Policy and ICT Master Plan",
+      "class": "sector-ict"
+    }
   ],
   "systems": [
-    {"system": "E-Government Strategy 2021-2024", "country_label": "e-Govt-2024 / The Gambia e-Government Strategy 2021-2024", "class": "government", "platform": "", "owner": "Ministry of Information and Communication Infrastructure (MOICI); coordination by the ICT Agency", "tiers": "government to government, citizens, business and employees; costed action plans, main total D176,900,000 (US$3,468,627 at D51)"},
-    {"system": "Information and Communication Technology for Development Policy Statement 2018-2028", "country_label": "ICT4D Policy Statement 2018-2028", "class": "sector-ict", "platform": "", "owner": "Government of The Gambia", "tiers": "national; the e-Government strategy is stated to be one of its pillars"},
-    {"system": "ICT Master Plan for The Gambia", "country_label": "ICT Master Plan", "class": "", "platform": "", "owner": "MOICI", "tiers": "stated as being developed by MOICI as at October 2020; no description of what it covers"},
-    {"system": "National Development Plan", "country_label": "National Development Plan (NDP)", "class": "development-plan", "platform": "", "owner": "Government of The Gambia", "tiers": "national"}
+    {
+      "system": "E-Government Strategy 2021-2024",
+      "country_label": "e-Govt-2024 / The Gambia e-Government Strategy 2021-2024",
+      "class": "government",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Infrastructure (MOICI); coordination by the ICT Agency",
+      "tiers": "government to government, citizens, business and employees; costed action plans, main total D176,900,000 (US$3,468,627 at D51)"
+    },
+    {
+      "system": "Information and Communication Technology for Development Policy Statement 2018-2028",
+      "country_label": "ICT4D Policy Statement 2018-2028",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Government of The Gambia",
+      "tiers": "national; the e-Government strategy is stated to be one of its pillars"
+    },
+    {
+      "system": "ICT Master Plan for The Gambia",
+      "country_label": "ICT Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "MOICI",
+      "tiers": "stated as being developed by MOICI as at October 2020; no description of what it covers"
+    },
+    {
+      "system": "National Development Plan",
+      "country_label": "National Development Plan (NDP)",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of The Gambia",
+      "tiers": "national"
+    }
   ],
   "note": "A strategy for digitalising government services only (class government, not assessed); standing fact for the ICT Master Plan added on second pass with class empty because the document does not describe its scope."
 }

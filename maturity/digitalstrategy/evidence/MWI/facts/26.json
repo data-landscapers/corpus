@@ -1,11 +1,34 @@
 {
   "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "TechHive Advisory reports that on 18-19 February 2026 Malawi 'held a validation workshop to validate the draft National Digital Transformation Strategy' and the draft National AI Strategy, gathering stakeholder feedback and assessing feasibility and alignment with key national frameworks; it names no approving body, adopting act or organiser.", "as_of": "2026-02-18", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "TechHive Advisory reports that on 18-19 February 2026 Malawi 'held a validation workshop to validate the draft National Digital Transformation Strategy' and the draft National AI Strategy, gathering stakeholder feedback and assessing feasibility and alignment with key national frameworks; it names no approving body, adopting act or organiser.",
+      "as_of": "2026-02-18",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Transformation Strategy", "country_label": "draft National Digital Transformation Strategy", "class": "", "platform": "", "owner": "", "tiers": "national by name; scope not described"},
-    {"system": "National AI Strategy", "country_label": "draft National AI Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National Digital Transformation Strategy",
+      "country_label": "draft National Digital Transformation Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national by name; scope not described"
+    },
+    {
+      "system": "National AI Strategy",
+      "country_label": "draft National AI Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "Scope of the digital transformation strategy is not described, so class left empty; the source is a law-firm bulletin relaying a CAJ News report."
 }

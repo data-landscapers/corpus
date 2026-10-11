@@ -1,10 +1,26 @@
 {
   "slug": "2026-08-21-africanscientificjournal-digitalisation-services-publics-maroc",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "none", "fact": "The article's abstract names the absence of an integrated national digital strategy as one of four structural constraints on Morocco's public-service digitalisation; it rests on OECD reviews of 2018 and 2019 and gives no date for the absence, so the published date is used.", "as_of": "2026-08-21", "date_precision": "day", "system": "", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "none",
+      "fact": "The article's abstract names the absence of an integrated national digital strategy as one of four structural constraints on Morocco's public-service digitalisation; it rests on OECD reviews of 2018 and 2019 and gives no date for the absence, so the published date is used.",
+      "as_of": "2026-08-21",
+      "date_precision": "day",
+      "system": "No national digital strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Maroc Numeric 2013", "country_label": "Maroc Numeric 2013", "class": "", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Maroc Numeric 2013",
+      "country_label": "Maroc Numeric 2013",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "Abstract only. The absence statement names no system, so class is empty; Maroc Numeric 2013 is named with no description of its scope."
 }

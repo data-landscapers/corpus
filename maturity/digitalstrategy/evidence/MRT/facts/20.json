@@ -1,12 +1,42 @@
 {
   "slug": "2024-07-01-strategie-nationale-intelligence-artificielle-ar",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The national AI strategy 2025-2029 (published July 2024; the published date is used) says its digital-infrastructure priority is part of the digital agenda for 2022-2025, and its references link the Agenda national de Transformation Numérique 2022-2025 to the ministry's official site.", "as_of": "2024-07", "date_precision": "month", "system": "Agenda national de Transformation Numérique 2022-2025", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The national AI strategy 2025-2029 (published July 2024; the published date is used) says its digital-infrastructure priority is part of the digital agenda for 2022-2025, and its references link the Agenda national de Transformation Numérique 2022-2025 to the ministry's official site.",
+      "as_of": "2024-07",
+      "date_precision": "month",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Agenda national de Transformation Numérique 2022-2025", "country_label": "Agenda national de Transformation Numérique 2022-2025", "class": "", "platform": "", "owner": "MTNIMA", "tiers": "national; text linked at mtnima.gov.mr"},
-    {"system": "Stratégie nationale de sécurité numérique 2022-2025", "country_label": "Stratégie nationale de sécurité numérique 2022-2025", "class": "thematic", "platform": "", "owner": "MTNIMA", "tiers": "national; text linked at mtnima.gov.mr"},
-    {"system": "الإستراتيجية الوطنية للذكاء الاصطناعي 2025-2029", "country_label": "National AI Strategy 2025-2029", "class": "thematic", "platform": "", "owner": "Ministry of Digital Transformation, Innovation and Modernisation of the Administration", "tiers": "national; six priorities, 16 objectives, 38 measures per the executive summary"}
+    {
+      "system": "Agenda national de Transformation Numérique 2022-2025",
+      "country_label": "Agenda national de Transformation Numérique 2022-2025",
+      "class": "",
+      "platform": "",
+      "owner": "MTNIMA",
+      "tiers": "national; text linked at mtnima.gov.mr"
+    },
+    {
+      "system": "Stratégie nationale de sécurité numérique 2022-2025",
+      "country_label": "Stratégie nationale de sécurité numérique 2022-2025",
+      "class": "thematic",
+      "platform": "",
+      "owner": "MTNIMA",
+      "tiers": "national; text linked at mtnima.gov.mr"
+    },
+    {
+      "system": "الإستراتيجية الوطنية للذكاء الاصطناعي 2025-2029",
+      "country_label": "National AI Strategy 2025-2029",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Digital Transformation, Innovation and Modernisation of the Administration",
+      "tiers": "national; six priorities, 16 objectives, 38 measures per the executive summary"
+    }
   ],
   "note": "The AI strategy describes the 2022-2025 agenda only by period and its infrastructure content, so class is left empty; the period fact is recorded with class empty."
 }

@@ -1,11 +1,34 @@
 {
   "slug": "2026-09-04-civ-afriksoir-world-bank-150m-atelier",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "At the 3 September 2026 workshop, the ministry and SNDI set dated targets for the public-services pillar of the national digital strategy: 700 digital public services online by 2028 and a paper-free state by 2030, from 315 services already digitised sector by sector.", "as_of": "2026-09-03", "date_precision": "day", "system": "Stratégie numérique nationale", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "At the 3 September 2026 workshop, the ministry and SNDI set dated targets for the public-services pillar of the national digital strategy: 700 digital public services online by 2028 and a paper-free state by 2030, from 315 services already digitised sector by sector.",
+      "as_of": "2026-09-03",
+      "date_precision": "day",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Stratégie numérique nationale", "country_label": "stratégie numérique nationale", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation (MTNIT)", "tiers": "national"},
-    {"system": "Plateforme d'interopérabilité de l'administration", "country_label": "plateforme d'interopérabilité", "class": "", "platform": "", "owner": "SNDI", "tiers": "public administration"}
+    {
+      "system": "Stratégie numérique nationale",
+      "country_label": "stratégie numérique nationale",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Technological Innovation (MTNIT)",
+      "tiers": "national"
+    },
+    {
+      "system": "Plateforme d'interopérabilité de l'administration",
+      "country_label": "plateforme d'interopérabilité",
+      "class": "",
+      "platform": "",
+      "owner": "SNDI",
+      "tiers": "public administration"
+    }
   ],
   "note": ""
 }

@@ -1,12 +1,42 @@
 {
   "slug": "2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The digital-economy minister, on RTNC on 2026-09-28, cited the validation (\"validation\") of the Politique sectorielle de l'économie numérique (PSEN); the article names no adopting act or body.", "as_of": "2026-09-28", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique (PSEN)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "The digital-economy minister, on RTNC on 2026-09-28, cited the validation (\"validation\") of the Politique sectorielle de l'économie numérique (PSEN); the article names no adopting act or body.",
+      "as_of": "2026-09-28",
+      "date_precision": "day",
+      "system": "Politique sectorielle de l'économie numérique 2026-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Politique sectorielle de l'économie numérique (PSEN)", "country_label": "Politique sectorielle de l'économie numérique", "class": "", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; validated per the minister on 2026-09-28; covers infrastructure, skills, innovation, data governance, cybersecurity"},
-    {"system": "Stratégie nationale de l'intelligence artificielle (SNIA)", "country_label": "Stratégie nationale de l'intelligence artificielle", "class": "thematic", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; validated"},
-    {"system": "RDC-PASS", "country_label": "RDC-PASS", "class": "programme", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; launched June 2026 by the president, first operational phase September 2026"}
+    {
+      "system": "Politique sectorielle de l'économie numérique (PSEN)",
+      "country_label": "Politique sectorielle de l'économie numérique",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; validated per the minister on 2026-09-28; covers infrastructure, skills, innovation, data governance, cybersecurity"
+    },
+    {
+      "system": "Stratégie nationale de l'intelligence artificielle (SNIA)",
+      "country_label": "Stratégie nationale de l'intelligence artificielle",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; validated"
+    },
+    {
+      "system": "RDC-PASS",
+      "country_label": "RDC-PASS",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; launched June 2026 by the president, first operational phase September 2026"
+    }
   ],
   "note": "The minister cites validation of the PSEN; the article gives no adopting act or whole-of-government scope, so the class is empty because the document does not describe the strategy's scope. Standing fact added on second pass."
 }

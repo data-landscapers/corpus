@@ -1,13 +1,50 @@
 {
   "slug": "2026-01-01-worldbank-senegal-digital-economy-acceleration-restructuring",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The World Bank restructuring paper for the Senegal Digital Economy Acceleration Project says the Ministry of Communication, Telecommunications and Digital (MCTN) \"introduced\" a new digital strategy, the New Deal Technologique, in February 2025, and lists its Axis 1 (universal broadband access), Axis 2 (digitalization of public services) and Axis 3 (transformation of value chains); no adopting act is named.", "as_of": "2025-02", "date_precision": "month", "system": "New Deal Technologique (NDT, Digital Transformation Strategy)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The World Bank restructuring paper for the Senegal Digital Economy Acceleration Project says the Ministry of Communication, Telecommunications and Digital (MCTN) \"introduced\" a new digital strategy, the New Deal Technologique, in February 2025, and lists its Axis 1 (universal broadband access), Axis 2 (digitalization of public services) and Axis 3 (transformation of value chains); no adopting act is named.",
+      "as_of": "2025-02",
+      "date_precision": "month",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "New Deal Technologique (NDT, Digital Transformation Strategy)", "country_label": "New Deal Technologique", "class": "national", "platform": "", "owner": "Ministry of Communication, Telecommunications and Digital (MCTN)", "tiers": "national; Axis 1 universal broadband, Axis 2 digitalization of public services, Axis 3 transformation of value chains"},
-    {"system": "national e-Government strategy and roadmap", "country_label": "", "class": "government", "platform": "", "owner": "Government of Senegal", "tiers": "public administration; cited as the basis of the government enterprise architecture indicator"},
-    {"system": "National AI Strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "Government of Senegal", "tiers": "AI; cited for AI use cases"},
-    {"system": "Senegal Digital Economy Acceleration Project (PAENS, P172524)", "country_label": "PAENS", "class": "programme", "platform": "", "owner": "MCTN and Ministry of Health and Public Hygiene, World Bank IDA financing", "tiers": "approved 9 February 2023, effective 30 October 2023, closing 31 May 2028; US$150m, restructured to align with the NDT"}
+    {
+      "system": "New Deal Technologique (NDT, Digital Transformation Strategy)",
+      "country_label": "New Deal Technologique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communication, Telecommunications and Digital (MCTN)",
+      "tiers": "national; Axis 1 universal broadband, Axis 2 digitalization of public services, Axis 3 transformation of value chains"
+    },
+    {
+      "system": "national e-Government strategy and roadmap",
+      "country_label": "",
+      "class": "government",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "public administration; cited as the basis of the government enterprise architecture indicator"
+    },
+    {
+      "system": "National AI Strategy",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "AI; cited for AI use cases"
+    },
+    {
+      "system": "Senegal Digital Economy Acceleration Project (PAENS, P172524)",
+      "country_label": "PAENS",
+      "class": "programme",
+      "platform": "",
+      "owner": "MCTN and Ministry of Health and Public Hygiene, World Bank IDA financing",
+      "tiers": "approved 9 February 2023, effective 30 October 2023, closing 31 May 2028; US$150m, restructured to align with the NDT"
+    }
   ],
   "note": "The paper says the project was prepared before the new strategy was developed and is being realigned to its pillars; no text link, period, cost or report for the strategy itself."
 }

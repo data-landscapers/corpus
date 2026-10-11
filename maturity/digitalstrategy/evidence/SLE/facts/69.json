@@ -1,15 +1,72 @@
 {
   "slug": "2021-10-21-sierra-leone-digital-transformation-project-pid-concept-stage",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The World Bank says the National Innovation and Digital Strategy 2019-2029 was 'drafted and launched in 2019' by the Directorate of Science, Technology, and Innovation under the State House, as the high-level vision for the digital economy that prioritises digital government services and digital identification; no adopting act is named.", "as_of": "2019", "date_precision": "year", "system": "National Innovation and Digital Strategy (NIDS) 2019-2029", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The World Bank gives the National Innovation and Digital Strategy's period as 2019-2029 and does not say whether its text is published or link to it. Text public: not stated.", "as_of": "2019", "date_precision": "year", "system": "National Innovation and Digital Strategy (NIDS) 2019-2029", "class": "national"},
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The World Bank says the National Digital Development Policy and the National Digital Development Strategy (NDDS) are 'currently being drafted' with support from the Digital Impact Alliance, to be finalised by the end of November 2021.", "as_of": "2021-10-21", "date_precision": "day", "system": "National Digital Development Strategy (NDDS)", "class": ""},
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The World Bank says the draft National Digital Transformation Roadmap (NDTR), which the policy and strategy build on, 'has not been finalized', has six pillars including electronic governance, and that no progress has been made on its national data centre target.", "as_of": "2021-10-21", "date_precision": "day", "system": "National Digital Transformation Roadmap (NDTR)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The World Bank says the National Innovation and Digital Strategy 2019-2029 was 'drafted and launched in 2019' by the Directorate of Science, Technology, and Innovation under the State House, as the high-level vision for the digital economy that prioritises digital government services and digital identification; no adopting act is named.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "National Innovation and Digital Strategy 2019-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The World Bank gives the National Innovation and Digital Strategy's period as 2019-2029 and does not say whether its text is published or link to it. Text public: not stated.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "National Innovation and Digital Strategy 2019-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The World Bank says the National Digital Development Policy and the National Digital Development Strategy (NDDS) are 'currently being drafted' with support from the Digital Impact Alliance, to be finalised by the end of November 2021.",
+      "as_of": "2021-10-21",
+      "date_precision": "day",
+      "system": "National Digital Development Strategy 2022",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The World Bank says the draft National Digital Transformation Roadmap (NDTR), which the policy and strategy build on, 'has not been finalized', has six pillars including electronic governance, and that no progress has been made on its national data centre target.",
+      "as_of": "2021-10-21",
+      "date_precision": "day",
+      "system": "National Digital Transformation Roadmap",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Sierra Leone Digital Transformation Project (P177077)", "country_label": "Digital Transformation Project", "class": "programme", "platform": "", "owner": "Ministry of Finance (borrower); Ministry of Information and Communications (implementing agency)", "tiers": "US$50 million IDA grant at concept stage, estimated Board date 31 May 2022; components on enabling environment, connectivity and e-government"},
-    {"system": "National Digital Development Policy (NDDP)", "country_label": "National Digital Development Policy", "class": "", "platform": "", "owner": "Government of Sierra Leone", "tiers": "stated as in drafting"},
-    {"system": "National Digital Development Strategy (NDDS)", "country_label": "National Digital Development Strategy", "class": "", "platform": "", "owner": "Government of Sierra Leone", "tiers": "stated as in drafting"}
+    {
+      "system": "Sierra Leone Digital Transformation Project (P177077)",
+      "country_label": "Digital Transformation Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "Ministry of Finance (borrower); Ministry of Information and Communications (implementing agency)",
+      "tiers": "US$50 million IDA grant at concept stage, estimated Board date 31 May 2022; components on enabling environment, connectivity and e-government"
+    },
+    {
+      "system": "National Digital Development Policy (NDDP)",
+      "country_label": "National Digital Development Policy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Sierra Leone",
+      "tiers": "stated as in drafting"
+    },
+    {
+      "system": "National Digital Development Strategy (NDDS)",
+      "country_label": "National Digital Development Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Sierra Leone",
+      "tiers": "stated as in drafting"
+    }
   ],
   "note": "The NDTR and NDDS are not described in scope by this document, so their facts carry an empty class; the NIDS facts are class national because the document describes it as the digital economy vision covering government services and identification."
 }

@@ -1,15 +1,82 @@
 {
   "slug": "2019-10-16-plano-estrategico-sociedade-informacao-2019-2028",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Council of Ministers, by Resolução n.º 52/2019 (approved on 26 February 2019, gazetted 16 October 2019), states \"São aprovados\" the Plano Estratégico para a Sociedade de Informação 2019-2028 and its Plano Operacional.", "as_of": "2019-02-26", "date_precision": "day", "system": "Plano Estratégico para a Sociedade de Informação 2019-2028", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Plano Estratégico para a Sociedade de Informação sets its priorities for the horizon 2019-2028, and its text is printed in the Boletim da República I Série n.º 199 of 16 October 2019, hosted on the INTIC site.", "as_of": "2019-10-16", "date_precision": "day", "system": "Plano Estratégico para a Sociedade de Informação 2019-2028", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:none", "fact": "The resolution and the plan passages name no body mandated to deliver or coordinate the plan; the Council of Ministers appears only as the approving authority.", "as_of": "2019-10-16", "date_precision": "day", "system": "Plano Estratégico para a Sociedade de Informação 2019-2028", "class": "national"},
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Plano refers to the Política para a Sociedade da Informação as \"aprovada\" by Resolução n.º 17/2018 of 21 June 2018; the passages do not describe that policy's scope.", "as_of": "2018-06-21", "date_precision": "day", "system": "Política para a Sociedade da Informação", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Council of Ministers, by Resolução n.º 52/2019 (approved on 26 February 2019, gazetted 16 October 2019), states \"São aprovados\" the Plano Estratégico para a Sociedade de Informação 2019-2028 and its Plano Operacional.",
+      "as_of": "2019-02-26",
+      "date_precision": "day",
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The Plano Estratégico para a Sociedade de Informação sets its priorities for the horizon 2019-2028, and its text is printed in the Boletim da República I Série n.º 199 of 16 October 2019, hosted on the INTIC site.",
+      "as_of": "2019-10-16",
+      "date_precision": "day",
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The Plano Estratégico para a Sociedade de Informação sets its priorities for the horizon 2019-2028, and its text is printed in the Boletim da República I Série n.º 199 of 16 October 2019, hosted on the INTIC site.",
+      "as_of": "2019-10-16",
+      "date_precision": "day",
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:none",
+      "fact": "The resolution and the plan passages name no body mandated to deliver or coordinate the plan; the Council of Ministers appears only as the approving authority.",
+      "as_of": "2019-10-16",
+      "date_precision": "day",
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Plano refers to the Política para a Sociedade da Informação as \"aprovada\" by Resolução n.º 17/2018 of 21 June 2018; the passages do not describe that policy's scope.",
+      "as_of": "2018-06-21",
+      "date_precision": "day",
+      "system": "Política para a Sociedade da Informação",
+      "class": "sector-ict"
+    }
   ],
   "systems": [
-    {"system": "Plano Estratégico para a Sociedade de Informação 2019-2028", "country_label": "Plano Estratégico para a Sociedade da Informação", "class": "national", "platform": "", "owner": "Council of Ministers, Resolução n.º 52/2019", "tiers": "national; mission covers public administration, citizen skills, productivity and socioeconomic development"},
-    {"system": "Plano Operacional (of the Plano Estratégico para a Sociedade de Informação)", "country_label": "Plano Operacional", "class": "national", "platform": "", "owner": "Council of Ministers, approved with the Plano by Resolução n.º 52/2019", "tiers": ""},
-    {"system": "Política para a Sociedade da Informação", "country_label": "Política para a Sociedade da Informação", "class": "", "platform": "", "owner": "Council of Ministers, Resolução n.º 17/2018 of 21 June 2018", "tiers": ""}
+    {
+      "system": "Plano Estratégico para a Sociedade de Informação 2019-2028",
+      "country_label": "Plano Estratégico para a Sociedade da Informação",
+      "class": "national",
+      "platform": "",
+      "owner": "Council of Ministers, Resolução n.º 52/2019",
+      "tiers": "national; mission covers public administration, citizen skills, productivity and socioeconomic development"
+    },
+    {
+      "system": "Plano Operacional (of the Plano Estratégico para a Sociedade de Informação)",
+      "country_label": "Plano Operacional",
+      "class": "national",
+      "platform": "",
+      "owner": "Council of Ministers, approved with the Plano by Resolução n.º 52/2019",
+      "tiers": ""
+    },
+    {
+      "system": "Política para a Sociedade da Informação",
+      "country_label": "Política para a Sociedade da Informação",
+      "class": "",
+      "platform": "",
+      "owner": "Council of Ministers, Resolução n.º 17/2018 of 21 June 2018",
+      "tiers": ""
+    }
   ],
   "note": "Passages file. The Plano is classed national on its stated mission (modernising public administration, building citizen skills, stimulating productivity and socioeconomic development) and approval by the Council of Ministers; the Política para a Sociedade da Informação is recorded with class empty because the passages do not describe its scope. The passages show no cost, no dated actions or targets, and no reporting for the Plano Operacional, so no plan or reporting fact."
 }

@@ -1,10 +1,26 @@
 {
   "slug": "2025-01-01-sierra-leone-itc-digital-ecosystem-roadmap-eso-mapping",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The ITC report says the Directorate of Science, Technology and Innovation (DSTI) 'launched' the National Innovation and Digital Strategy in 2019, 'offering a roadmap for Sierra Leone's future in the tech sector'; no adopting act is named.", "as_of": "2019", "date_precision": "year", "system": "National Innovation and Digital Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The ITC report says the Directorate of Science, Technology and Innovation (DSTI) 'launched' the National Innovation and Digital Strategy in 2019, 'offering a roadmap for Sierra Leone's future in the tech sector'; no adopting act is named.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "National Innovation and Digital Strategy 2019-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Sierra Leone Digital Ecosystem Roadmap: Focus on Entrepreneurship Support Organizations", "country_label": "Digital Ecosystem Roadmap (ITC READY SALONE project)", "class": "thematic", "platform": "", "owner": "International Trade Centre with the Government of Sierra Leone", "tiers": "digital entrepreneurship support organisations"}
+    {
+      "system": "Sierra Leone Digital Ecosystem Roadmap: Focus on Entrepreneurship Support Organizations",
+      "country_label": "Digital Ecosystem Roadmap (ITC READY SALONE project)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "International Trade Centre with the Government of Sierra Leone",
+      "tiers": "digital entrepreneurship support organisations"
+    }
   ],
   "note": "The class of the national strategy is left empty because the report gives no description of its scope."
 }

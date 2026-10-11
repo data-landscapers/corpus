@@ -1,11 +1,34 @@
 {
   "slug": "2023-06-01-mauritania-strategie-nationale-donnees-ouvertes-interoperables",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The June 2023 national open and interoperable data strategy says the government 'a élaboré' the Agenda National de Transformation Numérique 2022-2025 after extensive stakeholder consultation, and that the agenda is translated into five global objectives, four strategic orientations, three implementation levers, 25 key initiatives and 77 projects; it gives no cost.", "as_of": "2023-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The June 2023 national open and interoperable data strategy says the government 'a élaboré' the Agenda National de Transformation Numérique 2022-2025 after extensive stakeholder consultation, and that the agenda is translated into five global objectives, four strategic orientations, three implementation levers, 25 key initiatives and 77 projects; it gives no cost.",
+      "as_of": "2023-06",
+      "date_precision": "month",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Agenda National de Transformation Numérique 2022-2025", "country_label": "Agenda National de Transformation Numérique 2022-2025", "class": "national", "platform": "", "owner": "Mauritanian government; MTNIMA", "tiers": "national; infrastructure, administration modernisation, social inclusion and equity, human capital, digital culture"},
-    {"system": "Stratégie nationale de données ouvertes et interopérables", "country_label": "Stratégie nationale de données ouvertes et interopérables (June 2023)", "class": "thematic", "platform": "", "owner": "MTNIMA", "tiers": "national; three axes: interoperability framework, open-data governance and OGP accession, data for innovation"}
+    {
+      "system": "Agenda National de Transformation Numérique 2022-2025",
+      "country_label": "Agenda National de Transformation Numérique 2022-2025",
+      "class": "national",
+      "platform": "",
+      "owner": "Mauritanian government; MTNIMA",
+      "tiers": "national; infrastructure, administration modernisation, social inclusion and equity, human capital, digital culture"
+    },
+    {
+      "system": "Stratégie nationale de données ouvertes et interopérables",
+      "country_label": "Stratégie nationale de données ouvertes et interopérables (June 2023)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "MTNIMA",
+      "tiers": "national; three axes: interoperability framework, open-data governance and OGP accession, data for innovation"
+    }
   ],
   "note": "The passages describe the agenda but give no adopting act or body; the verb used is 'élaboré', so no standing fact is recorded."
 }

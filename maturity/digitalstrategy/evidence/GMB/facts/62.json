@@ -1,29 +1,184 @@
 {
   "slug": "2025-10-01-dco-gambia-digital-trade-acceleration-report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The Digital Cooperation Organization reports that the Gambian government has adopted policies and a master plan with data localisation provisions, naming the National Digital Economy Master Plan 2024-2034 (and, separately, a 2023-2033 version) among them; its data were current as of September 2024.", "as_of": "2024-09", "date_precision": "month", "system": "National Digital Economy Master Plan 2024-2034", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Digital Cooperation Organization lists the National Digital Economy Master Plan 2024-2034, issued by the Ministry of Communications and Digital Economy, among the guidelines it consulted, with a stated period of 2024 to 2034 and a source link not marked as broken; its data were current as of September 2024.", "as_of": "2024-09", "date_precision": "month", "system": "National Digital Economy Master Plan 2024-2034", "class": "national"},
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "The Digital Cooperation Organization reports that the UN Economic Commission for Africa held a validation workshop with the Ministry of Communications and Digital Economy to present the Digital ID and Digital Transformation Strategy for 2023-2028, without giving a date or an adopting act; dated here to the report's October 2025 publication.", "as_of": "2025-10", "date_precision": "month", "system": "Digital Transformation Strategy for The Gambia 2023-2028", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "unpublished", "fact": "The Digital Cooperation Organization marks its source for the Digital Transformation Strategy for The Gambia 2023-2028 as not working in four of its source lists, so it records no accessible public text; dated to the report's October 2025 publication.", "as_of": "2025-10", "date_precision": "month", "system": "Digital Transformation Strategy for The Gambia 2023-2028", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Digital Cooperation Organization reports that the Gambian government has adopted policies and a master plan with data localisation provisions, naming the National Digital Economy Master Plan 2024-2034 (and, separately, a 2023-2033 version) among them; its data were current as of September 2024.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "National Digital Economy Master Plan 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "The Digital Cooperation Organization lists the National Digital Economy Master Plan 2024-2034, issued by the Ministry of Communications and Digital Economy, among the guidelines it consulted, with a stated period of 2024 to 2034 and a source link not marked as broken; its data were current as of September 2024.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "National Digital Economy Master Plan 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "The Digital Cooperation Organization reports that the UN Economic Commission for Africa held a validation workshop with the Ministry of Communications and Digital Economy to present the Digital ID and Digital Transformation Strategy for 2023-2028, without giving a date or an adopting act; dated here to the report's October 2025 publication.",
+      "as_of": "2025-10",
+      "date_precision": "month",
+      "system": "National Digital ID and Digital Transformation Strategy 2023-2028",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "unpublished",
+      "fact": "The Digital Cooperation Organization marks its source for the Digital Transformation Strategy for The Gambia 2023-2028 as not working in four of its source lists, so it records no accessible public text; dated to the report's October 2025 publication.",
+      "as_of": "2025-10",
+      "date_precision": "month",
+      "system": "National Digital ID and Digital Transformation Strategy 2023-2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Economy Master Plan 2024-2034", "country_label": "National Digital Economy Master Plan 2024-2034 (also listed as 2023-2033)", "class": "national", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; advances digital infrastructure, digital services and payment channels, and supports SME and inclusive digital development; urges a national data localisation policy"},
-    {"system": "Digital Transformation Strategy for The Gambia 2023-2028", "country_label": "Digital Transformation Strategy for The Gambia (2023-2028); presented with the Digital ID strategy", "class": "national", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; aims to modernise and digitise the country, including payments, and addresses consumer protection online"},
-    {"system": "The Gambia National Digital Identity Strategy", "country_label": "Gambia National Digital Identity Strategy 2023", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national digital ID"},
-    {"system": "E-Government Strategy 2021-2024", "country_label": "E-government Strategy 2021-2024", "class": "government", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "government entities"},
-    {"system": "The Gambia ICT for Development (ICT4D) Policy Statement 2018-2028", "country_label": "ICT4D Policy Statement 2018-2028", "class": "", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "described here only as aiming to widen broadband, e-transactions and e-government and to develop AI and blockchain"},
-    {"system": "Government Open Data Strategy 2024-2027", "country_label": "Government Open Data Strategy 2024-2027", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "government data"},
-    {"system": "Government Cloud Strategy 2023-2027", "country_label": "Government Cloud Strategy 2023-2027", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "government"},
-    {"system": "Government Cloud Policy 2023", "country_label": "Government Cloud Policy 2023", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "government data; classified and sensitive data must be stored in-country"},
-    {"system": "Government Email Policy 2023-2027", "country_label": "Government Email Policy 2023-2027", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "government email"},
-    {"system": "National Broadband Policy 2020-2024", "country_label": "National Broadband Policy 2020-2024", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; broadband"},
-    {"system": "Data Protection and Privacy Policy and Strategy 2019", "country_label": "Data Protection and Privacy Policy and Strategy 2019", "class": "thematic", "platform": "", "owner": "Ministry of Information and Communication Infrastructure", "tiers": "non-binding; all processing of personal data"},
-    {"system": "Gambia National Cyber Security Policy 2022-2026", "country_label": "Gambia National Cyber Security Policy 2022-2026", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "all sectors"},
-    {"system": "National Cybersecurity Strategy and Action Plan of The Gambia 2022-2026", "country_label": "National Cybersecurity Strategy and Action Plan 2022-2026 (Revised Edition)", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national"},
-    {"system": "Fintech Policy 2023", "country_label": "Fintech Policy 2023", "class": "thematic", "platform": "", "owner": "", "tiers": "fintech sector"},
-    {"system": "Recovery Focused National Development Plan 2023-2027", "country_label": "Recovery Focused National Development Plan (RF-NDP) 2023-2027", "class": "development-plan", "platform": "", "owner": "Government of The Gambia", "tiers": "national"},
-    {"system": "The Gambia Trade Policy 2018-2022", "country_label": "Gambia Trade Policy / Trade Strategy and Industrial Development Policy 2018-2022", "class": "ministry-plan", "platform": "", "owner": "Ministry of Trade, Industry, Regional Integration and Employment", "tiers": "trade; promotes e-commerce and a single window"},
-    {"system": "Human Capital Development Strategy 2021-2024", "country_label": "Human Capital Development Strategy 2021-2024", "class": "", "platform": "", "owner": "", "tiers": "listed only among cybersecurity guidelines"}
+    {
+      "system": "National Digital Economy Master Plan 2024-2034",
+      "country_label": "National Digital Economy Master Plan 2024-2034 (also listed as 2023-2033)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "national; advances digital infrastructure, digital services and payment channels, and supports SME and inclusive digital development; urges a national data localisation policy"
+    },
+    {
+      "system": "Digital Transformation Strategy for The Gambia 2023-2028",
+      "country_label": "Digital Transformation Strategy for The Gambia (2023-2028); presented with the Digital ID strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "national; aims to modernise and digitise the country, including payments, and addresses consumer protection online"
+    },
+    {
+      "system": "The Gambia National Digital Identity Strategy",
+      "country_label": "Gambia National Digital Identity Strategy 2023",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "national digital ID"
+    },
+    {
+      "system": "E-Government Strategy 2021-2024",
+      "country_label": "E-government Strategy 2021-2024",
+      "class": "government",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "government entities"
+    },
+    {
+      "system": "The Gambia ICT for Development (ICT4D) Policy Statement 2018-2028",
+      "country_label": "ICT4D Policy Statement 2018-2028",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "described here only as aiming to widen broadband, e-transactions and e-government and to develop AI and blockchain"
+    },
+    {
+      "system": "Government Open Data Strategy 2024-2027",
+      "country_label": "Government Open Data Strategy 2024-2027",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "government data"
+    },
+    {
+      "system": "Government Cloud Strategy 2023-2027",
+      "country_label": "Government Cloud Strategy 2023-2027",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "government"
+    },
+    {
+      "system": "Government Cloud Policy 2023",
+      "country_label": "Government Cloud Policy 2023",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "government data; classified and sensitive data must be stored in-country"
+    },
+    {
+      "system": "Government Email Policy 2023-2027",
+      "country_label": "Government Email Policy 2023-2027",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "government email"
+    },
+    {
+      "system": "National Broadband Policy 2020-2024",
+      "country_label": "National Broadband Policy 2020-2024",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "national; broadband"
+    },
+    {
+      "system": "Data Protection and Privacy Policy and Strategy 2019",
+      "country_label": "Data Protection and Privacy Policy and Strategy 2019",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Infrastructure",
+      "tiers": "non-binding; all processing of personal data"
+    },
+    {
+      "system": "Gambia National Cyber Security Policy 2022-2026",
+      "country_label": "Gambia National Cyber Security Policy 2022-2026",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "all sectors"
+    },
+    {
+      "system": "National Cybersecurity Strategy and Action Plan of The Gambia 2022-2026",
+      "country_label": "National Cybersecurity Strategy and Action Plan 2022-2026 (Revised Edition)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "national"
+    },
+    {
+      "system": "Fintech Policy 2023",
+      "country_label": "Fintech Policy 2023",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "fintech sector"
+    },
+    {
+      "system": "Recovery Focused National Development Plan 2023-2027",
+      "country_label": "Recovery Focused National Development Plan (RF-NDP) 2023-2027",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of The Gambia",
+      "tiers": "national"
+    },
+    {
+      "system": "The Gambia Trade Policy 2018-2022",
+      "country_label": "Gambia Trade Policy / Trade Strategy and Industrial Development Policy 2018-2022",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Trade, Industry, Regional Integration and Employment",
+      "tiers": "trade; promotes e-commerce and a single window"
+    },
+    {
+      "system": "Human Capital Development Strategy 2021-2024",
+      "country_label": "Human Capital Development Strategy 2021-2024",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "listed only among cybersecurity guidelines"
+    }
   ],
   "note": "A World Bank GovTech 2022 reading in this report says the country had a current government technology or digital transformation strategy and no whole-of-government approach to public sector digital transformation; that is a government-class statement and gives no national fact."
 }

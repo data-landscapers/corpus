@@ -1,16 +1,74 @@
 {
   "slug": "2026-07-30-kenya-advances-digital-superhighway-agenda-with-new-legislative-push",
   "facts": [
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "PS John Tanui listed a review of the National Digital Policy among the government's priorities for its digital governance framework, reported 2026-07-30; the document does not describe the policy's scope or give a completion date.", "as_of": "2026-07-30", "date_precision": "day", "system": "National Digital Policy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "PS John Tanui listed a review of the National Digital Policy among the government's priorities for its digital governance framework, reported 2026-07-30; the document does not describe the policy's scope or give a completion date.",
+      "as_of": "2026-07-30",
+      "date_precision": "day",
+      "system": "National Digital Policy",
+      "class": ""
+    }
   ],
   "systems": [
-    {"system": "National Digital Policy", "country_label": "National Digital Policy", "class": "", "platform": "", "owner": "State Department for ICT and Digital Economy", "tiers": "national"},
-    {"system": "Digital Superhighway", "country_label": "Digital Superhighway programme", "class": "programme", "platform": "", "owner": "State Department for ICT and Digital Economy", "tiers": "national"},
-    {"system": "National Cloud Policy", "country_label": "National Cloud Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National BPO Policy", "country_label": "National BPO Policy", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Kenya Artificial Intelligence and Emerging Technologies Policy", "country_label": "AI and Emerging Technologies Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National Data Governance Policy", "country_label": "National Data Governance Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National Cybersecurity Policy", "country_label": "National Cybersecurity Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National Digital Policy",
+      "country_label": "National Digital Policy",
+      "class": "",
+      "platform": "",
+      "owner": "State Department for ICT and Digital Economy",
+      "tiers": "national"
+    },
+    {
+      "system": "Digital Superhighway",
+      "country_label": "Digital Superhighway programme",
+      "class": "programme",
+      "platform": "",
+      "owner": "State Department for ICT and Digital Economy",
+      "tiers": "national"
+    },
+    {
+      "system": "National Cloud Policy",
+      "country_label": "National Cloud Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National BPO Policy",
+      "country_label": "National BPO Policy",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Kenya Artificial Intelligence and Emerging Technologies Policy",
+      "country_label": "AI and Emerging Technologies Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National Data Governance Policy",
+      "country_label": "National Data Governance Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National Cybersecurity Policy",
+      "country_label": "National Cybersecurity Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "National Digital Policy class left empty: named with a review under way, scope not described. National BPO Policy classed sector-ict as an ICT-enabled services sector policy by name only; adjust if the parent disagrees."
 }

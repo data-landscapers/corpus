@@ -1,13 +1,50 @@
 {
   "slug": "2025-09-15 Kenya developing DPI roadmap to streamline public service delivery",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "Biometric Update reports that the National AI Strategy 2025-2030, the DPI roadmap under development and a planned National Data Governance policy are all part of the Kenya National Digital Masterplan 2022-2032; the report gives no event date for the plan, so its published date, 2025-09-15, is used, and it does not say whether the plan's text is public.", "as_of": "2025-09-15", "date_precision": "day", "system": "Kenya National Digital Masterplan 2022-2032", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "Biometric Update reports that the National AI Strategy 2025-2030, the DPI roadmap under development and a planned National Data Governance policy are all part of the Kenya National Digital Masterplan 2022-2032; the report gives no event date for the plan, so its published date, 2025-09-15, is used, and it does not say whether the plan's text is public.",
+      "as_of": "2025-09-15",
+      "date_precision": "day",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Kenya National Digital Masterplan 2022-2032", "country_label": "Kenya National Digital Masterplan", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
-    {"system": "DPI roadmap", "country_label": "DPI roadmap", "class": "thematic", "platform": "", "owner": "Ministry of ICT and Digital Economy", "tiers": "national"},
-    {"system": "National AI Strategy 2025-2030", "country_label": "National AI Strategy 2025-2030", "class": "thematic", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
-    {"system": "National Data Governance policy", "country_label": "National Data Governance policy", "class": "thematic", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+    {
+      "system": "Kenya National Digital Masterplan 2022-2032",
+      "country_label": "Kenya National Digital Masterplan",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    },
+    {
+      "system": "DPI roadmap",
+      "country_label": "DPI roadmap",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of ICT and Digital Economy",
+      "tiers": "national"
+    },
+    {
+      "system": "National AI Strategy 2025-2030",
+      "country_label": "National AI Strategy 2025-2030",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    },
+    {
+      "system": "National Data Governance policy",
+      "country_label": "National Data Governance policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    }
   ],
   "note": "The Masterplan is named with a period and as the umbrella of three thematic instruments, but its own scope across economy and state is not described, so class is left empty."
 }

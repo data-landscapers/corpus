@@ -1,14 +1,62 @@
 {
   "slug": "2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The report lists among the DRC's January-June 2026 achievements the \"launch\" of the National Digital Economy & AI Plan (2026-2030, USD 1B); it names no adopting act or body.", "as_of": "2026", "date_precision": "year", "system": "National Digital Economy & AI Plan (2026-2030, USD 1B)", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The report gives the plan a cost of USD 1 billion.", "as_of": "2026", "date_precision": "year", "system": "National Digital Economy & AI Plan (2026-2030, USD 1B)", "class": ""},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The report states the plan's period as 2026-2030. Text public: not stated", "as_of": "2026", "date_precision": "year", "system": "National Digital Economy & AI Plan (2026-2030, USD 1B)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The report lists among the DRC's January-June 2026 achievements the \"launch\" of the National Digital Economy & AI Plan (2026-2030, USD 1B); it names no adopting act or body.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The report gives the plan a cost of USD 1 billion.",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The report states the plan's period as 2026-2030. Text public: not stated",
+      "as_of": "2026",
+      "date_precision": "year",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Economy & AI Plan (2026-2030, USD 1B)", "country_label": "", "class": "", "platform": "", "owner": "DRC government", "tiers": "national; the IDEA report lists its launch among the DRC's January-June 2026 achievements, with no description of what it covers"},
-    {"system": "e-Government Master Plan", "country_label": "", "class": "government", "platform": "", "owner": "DRC government", "tiers": "national; listed as a 2026 priority to accelerate under the IDEA country project"},
-    {"system": "IDEA country project, DRC (USD 400M IDA + EUR 100M AFD)", "country_label": "", "class": "programme", "platform": "", "owner": "DRC project implementation unit", "tiers": "national; effective June-July 2025; PIU operational, FDSU operational, backbone tender (USD 190M) and last-mile tenders (USD 65M) planned for 2026"}
+    {
+      "system": "National Digital Economy & AI Plan (2026-2030, USD 1B)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "DRC government",
+      "tiers": "national; the IDEA report lists its launch among the DRC's January-June 2026 achievements, with no description of what it covers"
+    },
+    {
+      "system": "e-Government Master Plan",
+      "country_label": "",
+      "class": "government",
+      "platform": "",
+      "owner": "DRC government",
+      "tiers": "national; listed as a 2026 priority to accelerate under the IDEA country project"
+    },
+    {
+      "system": "IDEA country project, DRC (USD 400M IDA + EUR 100M AFD)",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "DRC project implementation unit",
+      "tiers": "national; effective June-July 2025; PIU operational, FDSU operational, backbone tender (USD 190M) and last-mile tenders (USD 65M) planned for 2026"
+    }
   ],
   "note": "A regional programme progress report; the national plan is named once. The class is empty because the document does not describe the strategy's scope."
 }

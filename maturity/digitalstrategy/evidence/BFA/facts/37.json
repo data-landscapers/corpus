@@ -1,12 +1,44 @@
 {
   "slug": "2025-08-28-burkina-faso-12-digital-reforms-2030",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The government presented a digital transformation roadmap of twelve flagship projects to 2030 at a government seminar on 25 August 2025 titled En route pour 2030; the article names no adopting act.", "as_of": "2025-08-25", "date_precision": "day", "system": "digital transformation roadmap with 12 flagship projects (En route pour 2030)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The roadmap sets twelve projects with a 2030 horizon, including zero white zones, zero data abroad, zero buildings unconnected, zero paper, zero cash, zero unprotected critical infrastructure, a unique digital identity for every citizen, AI, IT talent and digital literacy; the article gives no costs.", "as_of": "2025-08-25", "date_precision": "day", "system": "digital transformation roadmap with 12 flagship projects (En route pour 2030)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The government presented a digital transformation roadmap of twelve flagship projects to 2030 at a government seminar on 25 August 2025 titled En route pour 2030; the article names no adopting act.",
+      "as_of": "2025-08-25",
+      "date_precision": "day",
+      "system": "Feuille de route de transformation digitale 2030 (douze chantiers)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The roadmap sets twelve projects with a 2030 horizon, including zero white zones, zero data abroad, zero buildings unconnected, zero paper, zero cash, zero unprotected critical infrastructure, a unique digital identity for every citizen, AI, IT talent and digital literacy; the article gives no costs.",
+      "as_of": "2025-08-25",
+      "date_precision": "day",
+      "system": "Feuille de route de transformation digitale 2030 (douze chantiers)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "digital transformation roadmap with 12 flagship projects (En route pour 2030)", "country_label": "Feuille de route de transformation digitale, 12 projets phares, En route pour 2030", "class": "national", "platform": "", "owner": "Government of Burkina Faso; Ministry of Digital Transition", "tiers": "National"},
-    {"system": "National Strategy for the Development of the Digital Economy (SN@DEN)", "country_label": "SN@DEN", "class": "", "platform": "", "owner": "", "tiers": "National; the twelve projects are said to build on it; no period or adoption stated here"}
+    {
+      "system": "digital transformation roadmap with 12 flagship projects (En route pour 2030)",
+      "country_label": "Feuille de route de transformation digitale, 12 projets phares, En route pour 2030",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Burkina Faso; Ministry of Digital Transition",
+      "tiers": "National"
+    },
+    {
+      "system": "National Strategy for the Development of the Digital Economy (SN@DEN)",
+      "country_label": "SN@DEN",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "National; the twelve projects are said to build on it; no period or adoption stated here"
+    }
   ],
   "note": ""
 }

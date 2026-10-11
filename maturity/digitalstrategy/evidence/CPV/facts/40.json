@@ -1,11 +1,34 @@
 {
   "slug": "2022-08-30-cpv-ugpe-eias-parque-tecnologico-fase-ii",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The environmental and social impact study states that the General Directorate of Telecommunications and Digital Economy (DGTED) is tasked with formulating the country's digital strategy, with government sectors, regulators, research bodies, companies and civil society, and that the Ministry of the Digital Economy supports the development and implementation of Cape Verde's Digital Strategy; no finance is stated, and the document gives no date for these mandates other than its own, August 2022.", "as_of": "2022-08-30", "date_precision": "day", "system": "Cape Verde's Digital Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The environmental and social impact study states that the General Directorate of Telecommunications and Digital Economy (DGTED) is tasked with formulating the country's digital strategy, with government sectors, regulators, research bodies, companies and civil society, and that the Ministry of the Digital Economy supports the development and implementation of Cape Verde's Digital Strategy; no finance is stated, and the document gives no date for these mandates other than its own, August 2022.",
+      "as_of": "2022-08-30",
+      "date_precision": "day",
+      "system": "Agenda Digital de Cabo Verde 2035",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Cape Verde's Digital Strategy", "country_label": "Estratégia Digital de Cabo Verde", "class": "", "platform": "", "owner": "Ministry of the Digital Economy; DGTED", "tiers": "The EIAS says the Ministry supports its development and implementation and DGTED formulates it; no content, status or period given"},
-    {"system": "Cape Verde's Digital Transformation Strategy", "country_label": "Estratégia de Transformação Digital de Cabo Verde", "class": "", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Cape Verde's Digital Strategy",
+      "country_label": "Estratégia Digital de Cabo Verde",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of the Digital Economy; DGTED",
+      "tiers": "The EIAS says the Ministry supports its development and implementation and DGTED formulates it; no content, status or period given"
+    },
+    {
+      "system": "Cape Verde's Digital Transformation Strategy",
+      "country_label": "Estratégia de Transformação Digital de Cabo Verde",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "Fact added on the second pass; its class is empty because the document does not describe the strategy's scope. The document says nothing of the strategy's standing, period, plan or reporting."
 }

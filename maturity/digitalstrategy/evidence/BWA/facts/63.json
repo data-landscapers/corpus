@@ -1,12 +1,42 @@
 {
   "slug": "2026-02-04-botswana-national-innovation-network-bnin",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "HAUS states the EU (EUR 4.7 million) and France's foreign ministry (EUR 150,000) fund a three-year project supporting implementation of the Government's SmartBots Digital Transformation Strategy; no domestic allocation is stated.", "as_of": "2026-02-04", "date_precision": "day", "system": "SmartBots Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "HAUS states the EU (EUR 4.7 million) and France's foreign ministry (EUR 150,000) fund a three-year project supporting implementation of the Government's SmartBots Digital Transformation Strategy; no domestic allocation is stated.",
+      "as_of": "2026-02-04",
+      "date_precision": "day",
+      "system": "SmartBots Digital Transformation Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "SmartBots Digital Transformation Strategy", "country_label": "SmartBots", "class": "national", "platform": "", "owner": "Government of Botswana", "tiers": "national; a SmartBots Lab is being operationalised for AI, robotics and augmented reality"},
-    {"system": "EU Support to Digital Transformation in Botswana", "country_label": "EU Support to Digital Transformation in Botswana", "class": "programme", "platform": "", "owner": "Expertise France-led Team Europe Initiative with HAUS", "tiers": "three-year EU-funded project; Botswana National Innovation Network met 29 January 2026"},
-    {"system": "Twelfth National Development Plan (NDP 12)", "country_label": "NDP 12", "class": "development-plan", "platform": "", "owner": "Government of Botswana", "tiers": "national; named as a national priority the innovation network supports"}
+    {
+      "system": "SmartBots Digital Transformation Strategy",
+      "country_label": "SmartBots",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Botswana",
+      "tiers": "national; a SmartBots Lab is being operationalised for AI, robotics and augmented reality"
+    },
+    {
+      "system": "EU Support to Digital Transformation in Botswana",
+      "country_label": "EU Support to Digital Transformation in Botswana",
+      "class": "programme",
+      "platform": "",
+      "owner": "Expertise France-led Team Europe Initiative with HAUS",
+      "tiers": "three-year EU-funded project; Botswana National Innovation Network met 29 January 2026"
+    },
+    {
+      "system": "Twelfth National Development Plan (NDP 12)",
+      "country_label": "NDP 12",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Botswana",
+      "tiers": "national; named as a national priority the innovation network supports"
+    }
   ],
   "note": ""
 }

@@ -1,11 +1,34 @@
 {
   "slug": "2024-01-01-digwatch-comoros-country-profile",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Digital Watch Observatory states Comoros' digital governance is built around the Stratégie Comores Numériques 2028, implemented by ANADEN, and frames digital as a lever for economic development, public-service modernisation and sector reform; the page gives only a 2024 published date, used here.", "as_of": "2024", "date_precision": "year", "system": "Stratégie Comores Numériques 2028", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "Digital Watch Observatory states Comoros' digital governance is built around the Stratégie Comores Numériques 2028, implemented by ANADEN, and frames digital as a lever for economic development, public-service modernisation and sector reform; the page gives only a 2024 published date, used here.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Comores Numérique 2028",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Plan Comores Émergent 2030", "country_label": "Plan Comores Émergent 2030", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; the broader plan the digital strategy sits alongside"},
-    {"system": "PADEC", "country_label": "PADEC", "class": "programme", "platform": "", "owner": "AfDB-backed; run by ANADEN", "tiers": "national; financing for digital public services, innovation, inclusion and digital-economy infrastructure"}
+    {
+      "system": "Plan Comores Émergent 2030",
+      "country_label": "Plan Comores Émergent 2030",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; the broader plan the digital strategy sits alongside"
+    },
+    {
+      "system": "PADEC",
+      "country_label": "PADEC",
+      "class": "programme",
+      "platform": "",
+      "owner": "AfDB-backed; run by ANADEN",
+      "tiers": "national; financing for digital public services, innovation, inclusion and digital-economy infrastructure"
+    }
   ],
   "note": ""
 }

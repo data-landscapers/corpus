@@ -1,10 +1,36 @@
 {
   "slug": "2024-01-01 Gambia National Digital Economy Master Plan 2024-2034",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The document gives the National Digital Economy Master Plan's period as 2024-2034, issued by the Ministry of Communications and Digital Economy, with the plan's PDF published on the ministry's website; no date within the period is given, so 2024 is the document's own published year (a proxy).", "as_of": "2024", "date_precision": "year", "system": "The Gambia National Digital Economy Master Plan 2024-2034", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The document gives the National Digital Economy Master Plan's period as 2024-2034, issued by the Ministry of Communications and Digital Economy, with the plan's PDF published on the ministry's website; no date within the period is given, so 2024 is the document's own published year (a proxy).",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National Digital Economy Master Plan 2024-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "The document gives the National Digital Economy Master Plan's period as 2024-2034, issued by the Ministry of Communications and Digital Economy, with the plan's PDF published on the ministry's website; no date within the period is given, so 2024 is the document's own published year (a proxy).",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National Digital Economy Master Plan 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "The Gambia National Digital Economy Master Plan 2024-2034", "country_label": "National Digital Economy Master Plan", "class": "national", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "national; overarching strategy tying together connectivity, digital-government, digital-ID, payments and digital-skills agendas"}
+    {
+      "system": "The Gambia National Digital Economy Master Plan 2024-2034",
+      "country_label": "National Digital Economy Master Plan",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Communications and Digital Economy",
+      "tiers": "national; overarching strategy tying together connectivity, digital-government, digital-ID, payments and digital-skills agendas"
+    }
   ],
   "note": ""
 }

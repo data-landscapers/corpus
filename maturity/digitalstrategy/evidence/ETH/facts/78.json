@@ -1,11 +1,34 @@
 {
   "slug": "2024-02-12-strengthening-ethiopias-national-data-governance-ecosystem",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "DIAL describes Digital Ethiopia 2025 as the government's strategy, promoting a technology-enabled public sector, fintech and online public services, with no adopting act named; the page is undated in substance, so its published date of February 2024 is used.", "as_of": "2024-02", "date_precision": "month", "system": "Digital Ethiopia 2025 Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "DIAL describes Digital Ethiopia 2025 as the government's strategy, promoting a technology-enabled public sector, fintech and online public services, with no adopting act named; the page is undated in substance, so its published date of February 2024 is used.",
+      "as_of": "2024-02",
+      "date_precision": "month",
+      "system": "Digital Ethiopia 2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Ethiopia 2025 Strategy", "country_label": "Digital Ethiopia 2025 Strategy", "class": "national", "platform": "", "owner": "Government of Ethiopia", "tiers": "national; covers the public sector, fintech and online public services"},
-    {"system": "FAYDA national ID", "country_label": "Fayda", "class": "programme", "platform": "", "owner": "National ID program", "tiers": "national"}
+    {
+      "system": "Digital Ethiopia 2025 Strategy",
+      "country_label": "Digital Ethiopia 2025 Strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Ethiopia",
+      "tiers": "national; covers the public sector, fintech and online public services"
+    },
+    {
+      "system": "FAYDA national ID",
+      "country_label": "Fayda",
+      "class": "programme",
+      "platform": "",
+      "owner": "National ID program",
+      "tiers": "national"
+    }
   ],
   "note": ""
 }

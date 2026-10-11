@@ -1,1 +1,36 @@
-{"slug":"2026-07-01 Chad and US Explore Partnerships on Satellite Connectivity and Cybersecurity","facts":[{"sub_indicator":"national","aspect":"period","value":"current","fact":"TechAfrica News, July 2026, states that a May 2026 Washington mission 'formed part of Chad's 2020–2030 National Digital Transformation Strategy', a stated period that includes the article's date; the article gives no adoption date and neither the text nor a link to it, so as_of is the article's published month. Text public: not stated","as_of":"2026-07","date_precision":"month","system":"National Digital Transformation Strategy 2020–2030","class":""},{"sub_indicator":"national","aspect":"plan","value":"actions","fact":"TechAfrica News, July 2026, reports U.S. officials expressing readiness to support Chad's 'roadmap to increase internet penetration from 30% to 80% and raise the digital economy's contribution to gross domestic product from 1.9% to 10%'; the targets carry no stated date, cost or link to the strategy's own text, and as_of is the article's published month.","as_of":"2026-07","date_precision":"month","system":"National Digital Transformation Strategy 2020–2030","class":""}],"systems":[{"system":"National Digital Transformation Strategy 2020–2030","country_label":"2020–2030 National Digital Transformation Strategy","class":"","platform":"","owner":"Government of Chad (ministries of telecommunications and health took part in the mission)","tiers":"national, by its name; scope and pillars not described"}],"note":"Scope of the strategy is not described, so class is left empty. No adoption verb, act or body is stated, so no standing fact. The roadmap targets may be the strategy's or the ministry's; the article does not say."}
+{
+  "slug": "2026-07-01 Chad and US Explore Partnerships on Satellite Connectivity and Cybersecurity",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "TechAfrica News, July 2026, states that a May 2026 Washington mission 'formed part of Chad's 2020–2030 National Digital Transformation Strategy', a stated period that includes the article's date; the article gives no adoption date and neither the text nor a link to it, so as_of is the article's published month. Text public: not stated",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2020-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "TechAfrica News, July 2026, reports U.S. officials expressing readiness to support Chad's 'roadmap to increase internet penetration from 30% to 80% and raise the digital economy's contribution to gross domestic product from 1.9% to 10%'; the targets carry no stated date, cost or link to the strategy's own text, and as_of is the article's published month.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Stratégie nationale de transformation numérique 2020-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Digital Transformation Strategy 2020–2030",
+      "country_label": "2020–2030 National Digital Transformation Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Chad (ministries of telecommunications and health took part in the mission)",
+      "tiers": "national, by its name; scope and pillars not described"
+    }
+  ],
+  "note": "Scope of the strategy is not described, so class is left empty. No adoption verb, act or body is stated, so no standing fact. The roadmap targets may be the strategy's or the ministry's; the article does not say."
+}

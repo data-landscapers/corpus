@@ -1,1 +1,36 @@
-{"slug":"2025-03-28-informea-decreto-10-2025-entd-gw-guine-bissau","facts":[{"sub_indicator":"national","aspect":"standing","value":"adopted","fact":"InforMEA records Decree No. 10/2025 of 28 March 2025 as approving the National Strategy for Digital Transformation for Guinea-Bissau 2025-2030 (ENTD.GW), aimed at a capable state energising the economy and an inclusive society.","as_of":"2025-03-28","date_precision":"day","system":"National Strategy for Digital Transformation for Guinea-Bissau 2025-2030 (ENTD.GW)","class":"national"},{"sub_indicator":"national","aspect":"plan","value":"actions","fact":"InforMEA's summary says the ENTD.GW breaks its vision into six strategic objectives and 55 interventions indexed to them, with no cost stated.","as_of":"2025-03-28","date_precision":"day","system":"National Strategy for Digital Transformation for Guinea-Bissau 2025-2030 (ENTD.GW)","class":"national"}],"systems":[{"system":"National Strategy for Digital Transformation for Guinea-Bissau 2025-2030 (ENTD.GW)","country_label":"ENTD.GW","class":"national","platform":"","owner":"prepared by UNU-EGOV under UNDP contract","tiers":"national"}],"note":""}
+{
+  "slug": "2025-03-28-informea-decreto-10-2025-entd-gw-guine-bissau",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "InforMEA records Decree No. 10/2025 of 28 March 2025 as approving the National Strategy for Digital Transformation for Guinea-Bissau 2025-2030 (ENTD.GW), aimed at a capable state energising the economy and an inclusive society.",
+      "as_of": "2025-03-28",
+      "date_precision": "day",
+      "system": "ENTD.GW 2025-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "InforMEA's summary says the ENTD.GW breaks its vision into six strategic objectives and 55 interventions indexed to them, with no cost stated.",
+      "as_of": "2025-03-28",
+      "date_precision": "day",
+      "system": "ENTD.GW 2025-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Strategy for Digital Transformation for Guinea-Bissau 2025-2030 (ENTD.GW)",
+      "country_label": "ENTD.GW",
+      "class": "national",
+      "platform": "",
+      "owner": "prepared by UNU-EGOV under UNDP contract",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

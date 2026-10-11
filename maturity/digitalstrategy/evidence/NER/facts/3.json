@@ -1,12 +1,46 @@
 {
   "slug": "2026-09-17-wearetech-niger-hamani-kargne-ministere-tic",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The article says that in March 2026 Niger \"a engagé la validation\" (began validating) its Politique nationale de développement du numérique 2026-2035 and its 2026-2030 action plan; it names no adopting act or body and does not say validation was completed.", "as_of": "2026-03", "date_precision": "month", "system": "Politique nationale de développement du numérique 2026-2035", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The article states the policy comes with a 2026-2030 action plan; it gives no cost for it.", "as_of": "2026-03", "date_precision": "month", "system": "Politique nationale de développement du numérique 2026-2035", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The article reports that validation of the 2026-2035 policy and 2026-2030 action plan was begun in March 2026, within the twelve months to the article's date.", "as_of": "2026-03", "date_precision": "month", "system": "Politique nationale de développement du numérique 2026-2035", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The article says that in March 2026 Niger \"a engagé la validation\" (began validating) its Politique nationale de développement du numérique 2026-2035 and its 2026-2030 action plan; it names no adopting act or body and does not say validation was completed.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Politique nationale de développement du numérique 2026-2035",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The article states the policy comes with a 2026-2030 action plan; it gives no cost for it.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Politique nationale de développement du numérique 2026-2035",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The article reports that validation of the 2026-2035 policy and 2026-2030 action plan was begun in March 2026, within the twelve months to the article's date.",
+      "as_of": "2026-03",
+      "date_precision": "month",
+      "system": "Politique nationale de développement du numérique 2026-2035",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Politique nationale de développement du numérique 2026-2035", "country_label": "Politique nationale de développement du numérique (PNDN)", "class": "national", "platform": "", "owner": "", "tiers": "The article says it provides for developing e-government, strengthening fibre-optic infrastructure, improving rural coverage and promoting use of digital services."}
+    {
+      "system": "Politique nationale de développement du numérique 2026-2035",
+      "country_label": "Politique nationale de développement du numérique (PNDN)",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": "The article says it provides for developing e-government, strengthening fibre-optic infrastructure, improving rural coverage and promoting use of digital services."
+    }
   ],
   "note": "Class national rests on the article's description of the policy's scope (e-government plus infrastructure, rural coverage and uptake); the article does not say who adopts it."
 }

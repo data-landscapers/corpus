@@ -136,17 +136,25 @@
       ]
     },
     {
-      "key": "period",
-      "name": "Text and period",
+      "key": "text",
+      "name": "Text",
       "role": "coverage",
       "defer": [
         "unpublished"
       ],
       "values": [
-        "current",
-        "open",
-        "expired",
+        "public",
         "unpublished"
+      ]
+    },
+    {
+      "key": "period",
+      "name": "Period",
+      "role": "coverage",
+      "pattern": "to:\\d{4}|open",
+      "prefer": [
+        "to:",
+        "open"
       ]
     },
     {

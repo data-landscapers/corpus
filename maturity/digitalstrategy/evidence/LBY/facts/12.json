@@ -1,11 +1,34 @@
 {
   "slug": "2026-04-19-gia-cbl-level-3-biometric-digital-identity-ekyc",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The General Information Authority says the Digital Identity Management System for Citizens, including Level 3 biometric identity in technical trials with the Central Bank and banks, is part of implementing the National Digital Transformation Strategy; no target or report is cited.", "as_of": "2026-04-19", "date_precision": "day", "system": "National Digital Transformation Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The General Information Authority says the Digital Identity Management System for Citizens, including Level 3 biometric identity in technical trials with the Central Bank and banks, is part of implementing the National Digital Transformation Strategy; no target or report is cited.",
+      "as_of": "2026-04-19",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy 2023-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Transformation Strategy", "country_label": "National Digital Transformation Strategy", "class": "", "platform": "", "owner": "National Unity Government; General Information Authority", "tiers": "national"},
-    {"system": "Digital Identity Management System for Citizens", "country_label": "Digital Identity Management System for Citizens", "class": "programme", "platform": "", "owner": "General Information Authority", "tiers": "national; Level 3 biometric in technical trials with the Central Bank and banks"}
+    {
+      "system": "National Digital Transformation Strategy",
+      "country_label": "National Digital Transformation Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "National Unity Government; General Information Authority",
+      "tiers": "national"
+    },
+    {
+      "system": "Digital Identity Management System for Citizens",
+      "country_label": "Digital Identity Management System for Citizens",
+      "class": "programme",
+      "platform": "",
+      "owner": "General Information Authority",
+      "tiers": "national; Level 3 biometric in technical trials with the Central Bank and banks"
+    }
   ],
   "note": "Class left empty: the document names the National Digital Transformation Strategy and claims implementation under it, but does not describe the strategy's scope. The digital identity system is an information system, entered with class programme only as a rough fit."
 }

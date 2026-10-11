@@ -1,1 +1,34 @@
-{"slug":"2026-09-23-gnb-unu-egov-welcomes-delegation-guinea-bissau","facts":[{"sub_indicator":"national","aspect":"last12","value":"advancing","fact":"UNU-EGOV, in a report of 2026-09-23, says its Project Document for the Implementation of the National Digital Transformation Strategy for Guinea-Bissau, designed to set priorities, define governance structures and identify partners and resources, was discussed at a visit by a Guinea-Bissau ministry delegation on 2026-09-09.","as_of":"2026-09-09","date_precision":"day","system":"National Digital Transformation Strategy for Guinea-Bissau","class":""}],"systems":[{"system":"National Digital Transformation Strategy for Guinea-Bissau","country_label":"National Digital Transformation Strategy for Guinea-Bissau","class":"","platform":"","owner":"","tiers":"national"},{"system":"Project Document for the Implementation of the National Digital Transformation Strategy for Guinea-Bissau","country_label":"","class":"programme","platform":"","owner":"UNU-EGOV","tiers":"national"}],"note":"Fact added on the second pass; its class is empty because the document does not describe the strategy's scope. The document states no standing, period or other aspect for the strategy."}
+{
+  "slug": "2026-09-23-gnb-unu-egov-welcomes-delegation-guinea-bissau",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "UNU-EGOV, in a report of 2026-09-23, says its Project Document for the Implementation of the National Digital Transformation Strategy for Guinea-Bissau, designed to set priorities, define governance structures and identify partners and resources, was discussed at a visit by a Guinea-Bissau ministry delegation on 2026-09-09.",
+      "as_of": "2026-09-09",
+      "date_precision": "day",
+      "system": "ENTD.GW 2025-2030",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Digital Transformation Strategy for Guinea-Bissau",
+      "country_label": "National Digital Transformation Strategy for Guinea-Bissau",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Project Document for the Implementation of the National Digital Transformation Strategy for Guinea-Bissau",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "UNU-EGOV",
+      "tiers": "national"
+    }
+  ],
+  "note": "Fact added on the second pass; its class is empty because the document does not describe the strategy's scope. The document states no standing, period or other aspect for the strategy."
+}

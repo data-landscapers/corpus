@@ -1,12 +1,44 @@
 {
   "slug": "2026-02-28-drc-8b-digital-plan-telecom-infrastructure-data-centers",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "Tech in Africa describes a DRC digital transformation plan for 2026-2030 costed at EUR 8 billion (US$8.8 billion), with targets of 30,000 telecom towers by 2030, 650 communities connected and 250,000 youth trained (article date used, no event date given).", "as_of": "2026-02-28", "date_precision": "day", "system": "Digital transformation plan 2026-2030", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "Tech in Africa says the plan is funded by a mix of public funds, international aid and private investment, with contributions from the DRC government, the World Bank, the EU and private firms (article date used).", "as_of": "2026-02-28", "date_precision": "day", "system": "Digital transformation plan 2026-2030", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "Tech in Africa describes a DRC digital transformation plan for 2026-2030 costed at EUR 8 billion (US$8.8 billion), with targets of 30,000 telecom towers by 2030, 650 communities connected and 250,000 youth trained (article date used, no event date given).",
+      "as_of": "2026-02-28",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "Tech in Africa says the plan is funded by a mix of public funds, international aid and private investment, with contributions from the DRC government, the World Bank, the EU and private firms (article date used).",
+      "as_of": "2026-02-28",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital transformation plan 2026-2030", "country_label": "", "class": "national", "platform": "", "owner": "DRC government", "tiers": "national; fibre, towers, data centres, digital government services, youth skills in AI, cybersecurity and programming"},
-    {"system": "FDSU 10-year plan", "country_label": "", "class": "programme", "platform": "", "owner": "Fonds de Développement du Service Universel", "tiers": "rural connectivity for 68 million residents"}
+    {
+      "system": "Digital transformation plan 2026-2030",
+      "country_label": "",
+      "class": "national",
+      "platform": "",
+      "owner": "DRC government",
+      "tiers": "national; fibre, towers, data centres, digital government services, youth skills in AI, cybersecurity and programming"
+    },
+    {
+      "system": "FDSU 10-year plan",
+      "country_label": "",
+      "class": "programme",
+      "platform": "",
+      "owner": "Fonds de Développement du Service Universel",
+      "tiers": "rural connectivity for 68 million residents"
+    }
   ],
   "note": ""
 }

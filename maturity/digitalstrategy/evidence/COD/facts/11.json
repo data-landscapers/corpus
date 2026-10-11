@@ -1,16 +1,82 @@
 {
   "slug": "2026-08-04-drc-kibassa-launches-digital-economy-policy-and-national-ai-strategy",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "validated", "fact": "At a ceremony in Kinshasa on 4 August 2026 the digital economy minister presented the PSEN for government validation, and said it would go to the Council of Ministers in the coming days for adoption under national procedures.", "as_of": "2026-08-04", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique (PSEN)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "none", "fact": "The minister listed finalising the action plans among the actions still to be engaged after validation, so the PSEN had no finished action plan on 4 August 2026.", "as_of": "2026-08-04", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique (PSEN)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:none", "fact": "The minister said an interministerial steering mechanism for the PSEN and AI strategy still had to be set up after validation (4 August 2026).", "as_of": "2026-08-04", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique (PSEN)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "none", "fact": "The minister listed setting up a monitoring and results-evaluation system as an action still to come after validation on 4 August 2026.", "as_of": "2026-08-04", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique (PSEN)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "last12", "value": "advancing", "fact": "The PSEN passed government validation on 4 August 2026; the minister asked every ministry to turn it into sectoral programmes with indicators and budget allocations.", "as_of": "2026-08-04", "date_precision": "day", "system": "Politique sectorielle de l'économie numérique (PSEN)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "validated",
+      "fact": "At a ceremony in Kinshasa on 4 August 2026 the digital economy minister presented the PSEN for government validation, and said it would go to the Council of Ministers in the coming days for adoption under national procedures.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Politique sectorielle de l'économie numérique 2026-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "none",
+      "fact": "The minister listed finalising the action plans among the actions still to be engaged after validation, so the PSEN had no finished action plan on 4 August 2026.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Politique sectorielle de l'économie numérique 2026-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:none",
+      "fact": "The minister said an interministerial steering mechanism for the PSEN and AI strategy still had to be set up after validation (4 August 2026).",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Politique sectorielle de l'économie numérique 2026-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "none",
+      "fact": "The minister listed setting up a monitoring and results-evaluation system as an action still to come after validation on 4 August 2026.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Politique sectorielle de l'économie numérique 2026-2030",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The PSEN passed government validation on 4 August 2026; the minister asked every ministry to turn it into sectoral programmes with indicators and budget allocations.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Politique sectorielle de l'économie numérique 2026-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Politique sectorielle de l'économie numérique (PSEN)", "country_label": "PSEN", "class": "national", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national, whole government; axes: infrastructure, digital transformation of the administration, digital economy, innovation and start-ups, cybersecurity, data governance; horizon 2030"},
-    {"system": "Stratégie nationale de l'intelligence artificielle (SNIA)", "country_label": "SNIA", "class": "thematic", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; validated 4 August 2026"},
-    {"system": "Programme d'actions du Gouvernement (Suminwa)", "country_label": "", "class": "", "platform": "", "owner": "Prime Minister", "tiers": "named as the frame the PSEN sits in, no description"}
+    {
+      "system": "Politique sectorielle de l'économie numérique (PSEN)",
+      "country_label": "PSEN",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national, whole government; axes: infrastructure, digital transformation of the administration, digital economy, innovation and start-ups, cybersecurity, data governance; horizon 2030"
+    },
+    {
+      "system": "Stratégie nationale de l'intelligence artificielle (SNIA)",
+      "country_label": "SNIA",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; validated 4 August 2026"
+    },
+    {
+      "system": "Programme d'actions du Gouvernement (Suminwa)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Prime Minister",
+      "tiers": "named as the frame the PSEN sits in, no description"
+    }
   ],
   "note": ""
 }

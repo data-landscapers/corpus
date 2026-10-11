@@ -1,13 +1,50 @@
 {
   "slug": "2026-02-10-digital-economy-country-commercial-guide-tradegov",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The US Country Commercial Guide, dated 2026-02-10, anchors Mauritania's state-led digital push in the National Digital Transformation Agenda (2022-2025), a period that had ended by the guide's date, and says further backbone build-out is signalled beyond 2025; it names no successor agenda.", "as_of": "2025", "date_precision": "year", "system": "National Digital Transformation Agenda (2022-2025)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The US Country Commercial Guide, dated 2026-02-10, anchors Mauritania's state-led digital push in the National Digital Transformation Agenda (2022-2025), a period that had ended by the guide's date, and says further backbone build-out is signalled beyond 2025; it names no successor agenda.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Transformation Agenda (2022-2025)", "country_label": "National Digital Transformation Agenda (2022-2025)", "class": "", "platform": "", "owner": "MTNIMA", "tiers": "national; guide lists fibre backbone, 4G and e-government as its content"},
-    {"system": "National AI Strategy (2025-2029)", "country_label": "National AI Strategy (2025-2029)", "class": "thematic", "platform": "", "owner": "MTNIMA", "tiers": "national; published"},
-    {"system": "e-commerce strategy", "country_label": "e-commerce strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "multi-stakeholder consultations 2024-2025 with UNCTAD/GIZ"},
-    {"system": "APD strategic plan 2023-2026", "country_label": "plan stratégique 2023-2026 of the Autorité de Protection des Données", "class": "ministry-plan", "platform": "", "owner": "Autorité de Protection des Données (APD)", "tiers": "national"}
+    {
+      "system": "National Digital Transformation Agenda (2022-2025)",
+      "country_label": "National Digital Transformation Agenda (2022-2025)",
+      "class": "",
+      "platform": "",
+      "owner": "MTNIMA",
+      "tiers": "national; guide lists fibre backbone, 4G and e-government as its content"
+    },
+    {
+      "system": "National AI Strategy (2025-2029)",
+      "country_label": "National AI Strategy (2025-2029)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "MTNIMA",
+      "tiers": "national; published"
+    },
+    {
+      "system": "e-commerce strategy",
+      "country_label": "e-commerce strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "multi-stakeholder consultations 2024-2025 with UNCTAD/GIZ"
+    },
+    {
+      "system": "APD strategic plan 2023-2026",
+      "country_label": "plan stratégique 2023-2026 of the Autorité de Protection des Données",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Autorité de Protection des Données (APD)",
+      "tiers": "national"
+    }
   ],
   "note": "The guide calls the agenda the anchor of a state-led digital push (backbone, 4G, e-government) but does not otherwise describe its scope, so class is left empty; the period fact is recorded with class empty."
 }

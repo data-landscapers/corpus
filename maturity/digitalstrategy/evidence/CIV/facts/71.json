@@ -1,12 +1,44 @@
 {
   "slug": "2025-07-15-g42-presight-ai-mou-wearetech",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Côte d'Ivoire signed a non-binding memorandum with G42 Presight and the Ministry of Digital Transition and Digitalization on developing a national digital strategy, as the National Digital Development Strategy (SNDN), launched five years earlier, was due to expire in 2025 (We Are Tech Africa, 15 July 2025; MoU signed 10 July 2025).", "as_of": "2025-07-10", "date_precision": "day", "system": "national digital strategy (successor to the National Digital Development Strategy, SNDN)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The article credits the SNDN with over 5,207 km of fibre-optic cable deployed, several online public service portals and an operational National Cybersecurity Agency, without measuring them against stated targets; date given is the article's 15 July 2025.", "as_of": "2025-07-15", "date_precision": "day", "system": "National Digital Development Strategy (SNDN)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Côte d'Ivoire signed a non-binding memorandum with G42 Presight and the Ministry of Digital Transition and Digitalization on developing a national digital strategy, as the National Digital Development Strategy (SNDN), launched five years earlier, was due to expire in 2025 (We Are Tech Africa, 15 July 2025; MoU signed 10 July 2025).",
+      "as_of": "2025-07-10",
+      "date_precision": "day",
+      "system": "Stratégie nationale de transformation numérique 2025-2035",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The article credits the SNDN with over 5,207 km of fibre-optic cable deployed, several online public service portals and an operational National Cybersecurity Agency, without measuring them against stated targets; date given is the article's 15 July 2025.",
+      "as_of": "2025-07-15",
+      "date_precision": "day",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Development Strategy (SNDN)", "country_label": "Stratégie Nationale de Développement du Numérique", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Digitalization", "tiers": "national"},
-    {"system": "data management strategy", "country_label": "", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National Digital Development Strategy (SNDN)",
+      "country_label": "Stratégie Nationale de Développement du Numérique",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Digitalization",
+      "tiers": "national"
+    },
+    {
+      "system": "data management strategy",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": ""
 }

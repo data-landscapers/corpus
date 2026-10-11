@@ -1,7 +1,16 @@
 {
   "slug": "2025-11-04-zwe-potraz-strategic-workshop-2026-2030-roadmap",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "The ICT Minister opened the POTRAZ Strategic Formulation Workshop in Mutare on 2025-11-04, which the source says marks the start of a national process to define the country's digital roadmap for 2026 to 2030; no adopting act or body is named and the workshop is the regulator's.", "as_of": "2025-11-04", "date_precision": "day", "system": "2026–2030 National Digital Roadmap", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "The ICT Minister opened the POTRAZ Strategic Formulation Workshop in Mutare on 2025-11-04, which the source says marks the start of a national process to define the country's digital roadmap for 2026 to 2030; no adopting act or body is named and the workshop is the regulator's.",
+      "as_of": "2025-11-04",
+      "date_precision": "day",
+      "system": "National Digital Roadmap 2026-2030",
+      "class": "national"
+    }
   ],
   "systems": [],
   "note": "Class national is a judgement: the source calls it the country's digital roadmap covering hubs, skills, infrastructure, cybersecurity and e-government, but the process runs through POTRAZ's strategy workshop, so it could be a regulator plan (ministry-plan). No period fact: the 2026-2030 period is stated but no text exists yet."

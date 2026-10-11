@@ -1,12 +1,44 @@
 {
   "slug": "2026-07-31-sa-operation-vulindlela-q1-2026-progress-report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "National Treasury and the Presidency's Operation Vulindlela Phase II Q1 2026/27 progress report, released 31 July 2026, reports implementation of the Digital Transformation Roadmap through milestones on MyMzansi, MzansiXchange, digital identity, payments and interoperability standards, without measuring progress against any target stated in the Roadmap.", "as_of": "2026-07-31", "date_precision": "day", "system": "Digital Transformation Roadmap", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The same report lists dated next steps for the Roadmap work, due September 2026, November 2026 and March 2027, with no cost stated.", "as_of": "2026-07-31", "date_precision": "day", "system": "Digital Transformation Roadmap", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "National Treasury and the Presidency's Operation Vulindlela Phase II Q1 2026/27 progress report, released 31 July 2026, reports implementation of the Digital Transformation Roadmap through milestones on MyMzansi, MzansiXchange, digital identity, payments and interoperability standards, without measuring progress against any target stated in the Roadmap.",
+      "as_of": "2026-07-31",
+      "date_precision": "day",
+      "system": "Roadmap for the Digital Transformation of Government",
+      "class": "government"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The same report lists dated next steps for the Roadmap work, due September 2026, November 2026 and March 2027, with no cost stated.",
+      "as_of": "2026-07-31",
+      "date_precision": "day",
+      "system": "Roadmap for the Digital Transformation of Government",
+      "class": "government"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap (reform 26 under Operation Vulindlela)", "class": "", "platform": "", "owner": "National Treasury and the Presidency (Operation Vulindlela); components MyMzansi, MzansiXchange, digital identity, payments modernisation, Gov.za", "tiers": "national government"},
-    {"system": "MyMzansi", "country_label": "MyMzansi", "class": "programme", "platform": "", "owner": "Presidency", "tiers": "national; production-ready pilot, first credential the digital matric certificate"}
+    {
+      "system": "Digital Transformation Roadmap",
+      "country_label": "Digital Transformation Roadmap (reform 26 under Operation Vulindlela)",
+      "class": "",
+      "platform": "",
+      "owner": "National Treasury and the Presidency (Operation Vulindlela); components MyMzansi, MzansiXchange, digital identity, payments modernisation, Gov.za",
+      "tiers": "national government"
+    },
+    {
+      "system": "MyMzansi",
+      "country_label": "MyMzansi",
+      "class": "programme",
+      "platform": "",
+      "owner": "Presidency",
+      "tiers": "national; production-ready pilot, first credential the digital matric certificate"
+    }
   ],
   "note": "Class left empty on the Roadmap facts: the extract gives its objective as government efficiency, inclusion and economic transformation but no statement of whether it covers the economy as well as the state; the parent should classify it with docs 4, 7 and 26. The report states no Roadmap adoption date, period or cost."
 }

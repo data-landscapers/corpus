@@ -1,10 +1,26 @@
 {
   "slug": "2024-09-01-world-bank-digital-readiness-secondary-schools-drc",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The paper refers to \"the development of their national digital strategy in 2019\"; it states no adoption, act or body.", "as_of": "2019", "date_precision": "year", "system": "National digital strategy (2019)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The paper refers to \"the development of their national digital strategy in 2019\"; it states no adoption, act or body.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Plan National du Numérique Horizon 2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National digital strategy (2019)", "country_label": "", "class": "", "platform": "", "owner": "", "tiers": "national; the paper says e-commerce projects implemented since its development in 2019 did not yield much success, and does not describe the strategy"}
+    {
+      "system": "National digital strategy (2019)",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; the paper says e-commerce projects implemented since its development in 2019 did not yield much success, and does not describe the strategy"
+    }
   ],
   "note": "Education paper; the national digital strategy is named once, so the class is empty because the document does not describe the strategy's scope."
 }

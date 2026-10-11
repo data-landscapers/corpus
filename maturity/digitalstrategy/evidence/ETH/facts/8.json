@@ -1,1 +1,56 @@
-{"slug":"2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report","facts":[{"sub_indicator":"national","aspect":"governance","value":"body:mandated","fact":"Paradigm Initiative's table of national digital inclusion strategies names the Ministry of Innovation and Technology and the Ethiopian Communications Authority as the lead institutions for Digital Ethiopia 2025 and the National Broadband Strategy; the report gives no date for this, so its published date is used.","as_of":"2026-09-22","date_precision":"day","system":"Digital Ethiopia 2025","class":"national"},{"sub_indicator":"national","aspect":"governance","value":"finance:domestic","fact":"Paradigm Initiative says Ethiopia's public ICT and digital allocations rose from about USD 250 million in 2020 to USD 500 million in 2024, a trajectory it attributes to the Digital Ethiopia 2025 strategy; the figures are the report's compilation of budget documents and secondary sources.","as_of":"2024","date_precision":"year","system":"Digital Ethiopia 2025","class":"national"},{"sub_indicator":"national","aspect":"period","value":"current","fact":"The report lists Digital Ethiopia 2025 as covering 2020 to 2025, describes it as anchoring the national push as of its 2024 budget series, and cites the strategy text at a public Law Ethiopia address.","as_of":"2024","date_precision":"year","system":"Digital Ethiopia 2025","class":"national"}],"systems":[{"system":"National Broadband Strategy","country_label":"National Broadband Strategy","class":"thematic","platform":"","owner":"Ethiopian Communications Authority","tiers":"national, 2020-2025 per the report"}],"note":""}
+{
+  "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "Paradigm Initiative's table of national digital inclusion strategies names the Ministry of Innovation and Technology and the Ethiopian Communications Authority as the lead institutions for Digital Ethiopia 2025 and the National Broadband Strategy; the report gives no date for this, so its published date is used.",
+      "as_of": "2026-09-22",
+      "date_precision": "day",
+      "system": "Digital Ethiopia 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "Paradigm Initiative says Ethiopia's public ICT and digital allocations rose from about USD 250 million in 2020 to USD 500 million in 2024, a trajectory it attributes to the Digital Ethiopia 2025 strategy; the figures are the report's compilation of budget documents and secondary sources.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Digital Ethiopia 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The report lists Digital Ethiopia 2025 as covering 2020 to 2025, describes it as anchoring the national push as of its 2024 budget series, and cites the strategy text at a public Law Ethiopia address.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Digital Ethiopia 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The report lists Digital Ethiopia 2025 as covering 2020 to 2025, describes it as anchoring the national push as of its 2024 budget series, and cites the strategy text at a public Law Ethiopia address.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "Digital Ethiopia 2025",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Broadband Strategy",
+      "country_label": "National Broadband Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ethiopian Communications Authority",
+      "tiers": "national, 2020-2025 per the report"
+    }
+  ],
+  "note": ""
+}

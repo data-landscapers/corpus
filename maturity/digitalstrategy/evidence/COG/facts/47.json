@@ -1,15 +1,70 @@
 {
   "slug": "2020-12-01-republique-du-congo-diagnostic-economie-numerique-de4a",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The World Bank digital economy diagnostic says the Republic of Congo adopted in June 2019 the national strategy for the digital economy 'Vision Congo Digital 2025', whose three pillars are citizen services, digitalisation of government and development of the private digital sector.", "as_of": "2019-06", "date_precision": "month", "system": "Vision Congo Digital 2025", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The diagnostic says the Ministry of Posts, Telecommunications and Digital Economy led the drafting and the digital programme, and that the Directorate General for Digital Economy Development was recently set up to lead implementation of the national digital strategy; a draft decree for a permanent inter-institutional digital development committee had been submitted. No month is given, so the diagnostic's own date, December 2020, is used.", "as_of": "2020-12", "date_precision": "month", "system": "Vision Congo Digital 2025", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "none", "fact": "The diagnostic says the Directorate General is mandated to implement an action plan arising from the strategy, which was still being drawn up with consultants under the CAB project, and that implementation plans needed to be articulated with defined roles for each stakeholder; the diagnostic's own date, December 2020, is used.", "as_of": "2020-12", "date_precision": "month", "system": "Vision Congo Digital 2025", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The World Bank digital economy diagnostic says the Republic of Congo adopted in June 2019 the national strategy for the digital economy 'Vision Congo Digital 2025', whose three pillars are citizen services, digitalisation of government and development of the private digital sector.",
+      "as_of": "2019-06",
+      "date_precision": "month",
+      "system": "Vision Congo Digital 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The diagnostic says the Ministry of Posts, Telecommunications and Digital Economy led the drafting and the digital programme, and that the Directorate General for Digital Economy Development was recently set up to lead implementation of the national digital strategy; a draft decree for a permanent inter-institutional digital development committee had been submitted. No month is given, so the diagnostic's own date, December 2020, is used.",
+      "as_of": "2020-12",
+      "date_precision": "month",
+      "system": "Vision Congo Digital 2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "none",
+      "fact": "The diagnostic says the Directorate General is mandated to implement an action plan arising from the strategy, which was still being drawn up with consultants under the CAB project, and that implementation plans needed to be articulated with defined roles for each stakeholder; the diagnostic's own date, December 2020, is used.",
+      "as_of": "2020-12",
+      "date_precision": "month",
+      "system": "Vision Congo Digital 2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Vision Congo Digital 2025", "country_label": "Stratégie nationale pour l'économie numérique « Vision Congo Digital 2025 »", "class": "national", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy; Directorate General for Digital Economy Development", "tiers": "national; described as the national digital transformation strategy with three pillars: citizen services, digitalisation of government, private digital sector"},
-    {"system": "Plan National de Développement 2018-2022", "country_label": "Plan National de Développement (2018-2022)", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "stratégie pour la promotion des services financiers digitaux", "country_label": "Stratégie nationale de promotion des services financiers digitaux", "class": "thematic", "platform": "", "owner": "Government, with AfDB and consultancy support", "tiers": "national; in preparation in 2020"},
-    {"system": "CAB project", "country_label": "Projet CAB (Central African Backbone)", "class": "programme", "platform": "", "owner": "", "tiers": "national; finances consultancy work on the strategy's action plan"}
+    {
+      "system": "Vision Congo Digital 2025",
+      "country_label": "Stratégie nationale pour l'économie numérique « Vision Congo Digital 2025 »",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Posts, Telecommunications and Digital Economy; Directorate General for Digital Economy Development",
+      "tiers": "national; described as the national digital transformation strategy with three pillars: citizen services, digitalisation of government, private digital sector"
+    },
+    {
+      "system": "Plan National de Développement 2018-2022",
+      "country_label": "Plan National de Développement (2018-2022)",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "stratégie pour la promotion des services financiers digitaux",
+      "country_label": "Stratégie nationale de promotion des services financiers digitaux",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government, with AfDB and consultancy support",
+      "tiers": "national; in preparation in 2020"
+    },
+    {
+      "system": "CAB project",
+      "country_label": "Projet CAB (Central African Backbone)",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; finances consultancy work on the strategy's action plan"
+    }
   ],
   "note": ""
 }

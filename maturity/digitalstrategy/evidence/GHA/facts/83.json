@@ -1,12 +1,42 @@
 {
   "slug": "2025-10-08 Digital Africa post the pandemic Ghana report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Research ICT Africa's Ghana report, on 2022 survey data, recommends finalising the Digital Economy Policy to give a coherent framework for Ghana's digital transformation, so the policy was not yet final; the report gives no event date and is dated by its publication, 2025-10-08.", "as_of": "2025-10-08", "date_precision": "day", "system": "Digital Economy Policy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Research ICT Africa's Ghana report, on 2022 survey data, recommends finalising the Digital Economy Policy to give a coherent framework for Ghana's digital transformation, so the policy was not yet final; the report gives no event date and is dated by its publication, 2025-10-08.",
+      "as_of": "2025-10-08",
+      "date_precision": "day",
+      "system": "Ghana Digital Economy Policy and Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Economy Policy", "country_label": "Digital Economy Policy", "class": "national", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "ICT for Accelerated Development (ICT4AD) policy", "country_label": "ICT4AD", "class": "", "platform": "", "owner": "", "tiers": ""},
-    {"system": "National Telecommunications Policy", "country_label": "NTP", "class": "sector-ict", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "Digital Economy Policy",
+      "country_label": "Digital Economy Policy",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "ICT for Accelerated Development (ICT4AD) policy",
+      "country_label": "ICT4AD",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Telecommunications Policy",
+      "country_label": "NTP",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": ""
 }

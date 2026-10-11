@@ -1,13 +1,50 @@
 {
   "slug": "2026-01-08 African smart cities A critical analysis",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The analysis's Kampala table lists the Digital Transformation Roadmap 2023/24-2027/28 among the regulatory framework, a stated period of FY2023/24 to FY2027/28; the published date 2026-01-08 is used as the as-of and falls inside that period. Text public: not stated", "as_of": "2026-01-08", "date_precision": "day", "system": "Digital Transformation Roadmap 2023/24-2027/28", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The analysis's Kampala table lists the Digital Transformation Roadmap 2023/24-2027/28 among the regulatory framework, a stated period of FY2023/24 to FY2027/28; the published date 2026-01-08 is used as the as-of and falls inside that period. Text public: not stated",
+      "as_of": "2026-01-08",
+      "date_precision": "day",
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Roadmap 2023/24-2027/28", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "", "tiers": "listed only as part of Kampala's regulatory framework"},
-    {"system": "Uganda Vision 2040", "country_label": "Uganda Vision 2040", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Fourth National Development Plan (NDP IV)", "country_label": "NDP IV", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Kampala Safe City CCTV network", "country_label": "Safe City", "class": "programme", "platform": "Huawei", "owner": "Kampala Capital City Authority; Uganda Police Force", "tiers": "Kampala"}
+    {
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "country_label": "Digital Transformation Roadmap",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "listed only as part of Kampala's regulatory framework"
+    },
+    {
+      "system": "Uganda Vision 2040",
+      "country_label": "Uganda Vision 2040",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Fourth National Development Plan (NDP IV)",
+      "country_label": "NDP IV",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Kampala Safe City CCTV network",
+      "country_label": "Safe City",
+      "class": "programme",
+      "platform": "Huawei",
+      "owner": "Kampala Capital City Authority; Uganda Police Force",
+      "tiers": "Kampala"
+    }
   ],
   "note": "AI-assisted analysis by Data Landscapers; the Roadmap's period is given only in a table of Kampala's regulatory framework, with no scope description, so class is left empty."
 }

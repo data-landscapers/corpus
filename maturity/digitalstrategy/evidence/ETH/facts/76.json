@@ -1,10 +1,26 @@
 {
   "slug": "2024-03-01 The challenges facing Ethiopia's digital transformation",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "DevelopmentAid reviews Ethiopia's Digital Transformation Strategy, launched in July 2020, three years on, without naming the body or act that launched it.", "as_of": "2020-07", "date_precision": "month", "system": "Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "DevelopmentAid reviews Ethiopia's Digital Transformation Strategy, launched in July 2020, three years on, without naming the body or act that launched it.",
+      "as_of": "2020-07",
+      "date_precision": "month",
+      "system": "Digital Ethiopia 2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Transformation Strategy", "country_label": "Digital Transformation Strategy", "class": "national", "platform": "", "owner": "", "tiers": "national; launched July 2020; the review covers infrastructure, skills, digital ID and mobile payments"}
+    {
+      "system": "Digital Transformation Strategy",
+      "country_label": "Digital Transformation Strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; launched July 2020; the review covers infrastructure, skills, digital ID and mobile payments"
+    }
   ],
   "note": ""
 }

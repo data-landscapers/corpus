@@ -1,12 +1,42 @@
 {
   "slug": "2026-07-25-morocco-elected-african-telecommunications-union-council",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "In its declaration to the African Telecommunications Union plenipotentiary conference in Abuja, Morocco highlighted the progress made under the Maroc Digital 2030 strategy, giving no figures or targets.", "as_of": "2026-07-25", "date_precision": "day", "system": "Maroc Digital 2030", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "In its declaration to the African Telecommunications Union plenipotentiary conference in Abuja, Morocco highlighted the progress made under the Maroc Digital 2030 strategy, giving no figures or targets.",
+      "as_of": "2026-07-25",
+      "date_precision": "day",
+      "system": "Maroc Digital 2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Maroc Digital 2030", "country_label": "stratégie Maroc Digital 2030", "class": "", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": ""},
-    {"system": "AI Made in Morocco roadmap", "country_label": "feuille de route « AI Made in Morocco »", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
-    {"system": "National cybersecurity strategy to 2030", "country_label": "stratégie nationale de cybersécurité à l'horizon 2030", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Maroc Digital 2030",
+      "country_label": "stratégie Maroc Digital 2030",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Administration Reform",
+      "tiers": ""
+    },
+    {
+      "system": "AI Made in Morocco roadmap",
+      "country_label": "feuille de route « AI Made in Morocco »",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National cybersecurity strategy to 2030",
+      "country_label": "stratégie nationale de cybersécurité à l'horizon 2030",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "The communique does not describe Maroc Digital 2030's scope, so class is left empty on the fact."
 }

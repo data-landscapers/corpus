@@ -1,12 +1,42 @@
 {
   "slug": "2026-09-22-itweb-africa-kenya-targets-ais-real-payoff",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "ITWeb Africa reports the government, at a forum on 2026-09-21, naming the National Digital Master Plan (2022-2032) as part of its established policy foundation; the document does not say whether the text is public or describe its scope.", "as_of": "2022", "date_precision": "year", "system": "National Digital Master Plan (2022-2032)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "ITWeb Africa reports the government, at a forum on 2026-09-21, naming the National Digital Master Plan (2022-2032) as part of its established policy foundation; the document does not say whether the text is public or describe its scope.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Master Plan (2022-2032)", "country_label": "National Digital Master Plan", "class": "", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National E-Commerce Strategy (2023)", "country_label": "National E-Commerce Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National Artificial Intelligence Strategy (2025-2030)", "country_label": "National Artificial Intelligence Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National Digital Master Plan (2022-2032)",
+      "country_label": "National Digital Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National E-Commerce Strategy (2023)",
+      "country_label": "National E-Commerce Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National Artificial Intelligence Strategy (2025-2030)",
+      "country_label": "National Artificial Intelligence Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "Master Plan class left empty: named with its period only."
 }

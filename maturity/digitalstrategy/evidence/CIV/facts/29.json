@@ -1,10 +1,26 @@
 {
   "slug": "2026-06-15-starlink-licence-5g-launch-gouv-talk-techafricanews",
   "facts": [
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The article, reporting the minister's 11 June 2026 Gouv'Talk announcements, says they form part of the country's broader digital strategy, anchored by 40 flagship projects across seven pillars including connectivity, AI, cybersecurity and e-government; it gives no cost.", "as_of": "2026-06-11", "date_precision": "day", "system": "Digital strategy of 40 flagship projects across seven pillars", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The article, reporting the minister's 11 June 2026 Gouv'Talk announcements, says they form part of the country's broader digital strategy, anchored by 40 flagship projects across seven pillars including connectivity, AI, cybersecurity and e-government; it gives no cost.",
+      "as_of": "2026-06-11",
+      "date_precision": "day",
+      "system": "Feuille de route numérique 2026-2028",
+      "class": "ministry-plan"
+    }
   ],
   "systems": [
-    {"system": "Digital strategy of 40 flagship projects across seven pillars", "country_label": "", "class": "", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": "national"}
+    {
+      "system": "Digital strategy of 40 flagship projects across seven pillars",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Digital Transition and Technological Innovation",
+      "tiers": "national"
+    }
   ],
   "note": "The article says announcements form part of a digital strategy anchored by 40 flagship projects across seven pillars; it states nothing of its standing, text, cost or reporting, and does not say who adopted it. Second pass: delivery-plan fact added; class is empty because the document does not describe the strategy's scope."
 }

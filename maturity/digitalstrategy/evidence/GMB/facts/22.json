@@ -1,11 +1,34 @@
 {
   "slug": "2026-02-23-gamswitch-iidia-gambia-launches-npsac-payment-systems-advisory-committee",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Digital Economy Master Plan is given as 2023-2033, so it is inside its period as at the release of 2026-02-23. Text public: not stated.", "as_of": "2026-02-23", "date_precision": "day", "system": "Digital Economy Master Plan 2023-2033", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "The Digital Economy Master Plan is given as 2023-2033, so it is inside its period as at the release of 2026-02-23. Text public: not stated.",
+      "as_of": "2026-02-23",
+      "date_precision": "day",
+      "system": "National Digital Economy Master Plan 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Digital Economy Master Plan 2023-2033", "country_label": "Digital Economy Master Plan 2023-2033", "class": "", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National Financial Inclusion Strategy (NFIS)", "country_label": "National Financial Inclusion Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national; launched 2022"}
+    {
+      "system": "Digital Economy Master Plan 2023-2033",
+      "country_label": "Digital Economy Master Plan 2023-2033",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National Financial Inclusion Strategy (NFIS)",
+      "country_label": "National Financial Inclusion Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; launched 2022"
+    }
   ],
   "note": "Payment committee launch; period fact added on second pass with class empty because the document does not describe the strategy's scope (it says only that the plan prioritises an integrated national payment system)."
 }

@@ -1,16 +1,92 @@
 {
   "slug": "2023-10-12-national-digital-transformation-strategy-zambia",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The strategy's own text, published by the Ministry of Technology and Science with a foreword by its Minister, says the Strategy \"has been formulated\" and \"prepared through a multi-stakeholder approach\" as the framework to guide digitalisation across public and private institutions and all sectors of the economy; it names no approving act or body, and the Ministry's publication date of 12 October 2023 is used as as_of since the text carries no adoption date.", "as_of": "2023-10-12", "date_precision": "day", "system": "National Digital Transformation Strategy 2023-2027", "class": "national"},
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The text is the Strategy itself, hosted on the Ministry of Technology and Science's site, and states the period 2023-2027 (five-year implementation framework, results targets for 2026), which covers its publication date of October 2023. Text public: yes", "as_of": "2023-10", "date_precision": "month", "system": "National Digital Transformation Strategy 2023-2027", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The Strategy states that the ministry responsible for technology and science \"shall coordinate implementation\" as the national coordinating agency and is responsible for quarterly monitoring and reporting, with Cabinet Office to give policy guidance and oversight and the E-Government Division to coordinate platforms and services in the public sector.", "as_of": "2023-10-12", "date_precision": "day", "system": "National Digital Transformation Strategy 2023-2027", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:not-stated", "fact": "The Strategy says it will be financed by the Government in collaboration with cooperating partners and civil society, with budgetary allocation as the major domestic source and licensing fees and penalties to augment it, but it states no allocation, amount or budget line.", "as_of": "2023-10-12", "date_precision": "day", "system": "National Digital Transformation Strategy 2023-2027", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The Strategy sets out a five-year implementation framework of interventions with numeric targets, performance indicators and lead institutions for its five pillars (for example 998 communication towers, 200 district digital transformation centres, 12 sectoral digital strategies) and a results framework with 2026 targets; the text as held states no cost against the interventions.", "as_of": "2023-10-12", "date_precision": "day", "system": "National Digital Transformation Strategy 2023-2027", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The strategy's own text, published by the Ministry of Technology and Science with a foreword by its Minister, says the Strategy \"has been formulated\" and \"prepared through a multi-stakeholder approach\" as the framework to guide digitalisation across public and private institutions and all sectors of the economy; it names no approving act or body, and the Ministry's publication date of 12 October 2023 is used as as_of since the text carries no adoption date.",
+      "as_of": "2023-10-12",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The text is the Strategy itself, hosted on the Ministry of Technology and Science's site, and states the period 2023-2027 (five-year implementation framework, results targets for 2026), which covers its publication date of October 2023. Text public: yes",
+      "as_of": "2023-10",
+      "date_precision": "month",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2027",
+      "fact": "The text is the Strategy itself, hosted on the Ministry of Technology and Science's site, and states the period 2023-2027 (five-year implementation framework, results targets for 2026), which covers its publication date of October 2023. Text public: yes",
+      "as_of": "2023-10",
+      "date_precision": "month",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The Strategy states that the ministry responsible for technology and science \"shall coordinate implementation\" as the national coordinating agency and is responsible for quarterly monitoring and reporting, with Cabinet Office to give policy guidance and oversight and the E-Government Division to coordinate platforms and services in the public sector.",
+      "as_of": "2023-10-12",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The Strategy says it will be financed by the Government in collaboration with cooperating partners and civil society, with budgetary allocation as the major domestic source and licensing fees and penalties to augment it, but it states no allocation, amount or budget line.",
+      "as_of": "2023-10-12",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The Strategy sets out a five-year implementation framework of interventions with numeric targets, performance indicators and lead institutions for its five pillars (for example 998 communication towers, 200 district digital transformation centres, 12 sectoral digital strategies) and a results framework with 2026 targets; the text as held states no cost against the interventions.",
+      "as_of": "2023-10-12",
+      "date_precision": "day",
+      "system": "National Digital Transformation Strategy 2023-2027",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Information and Communication Technology Policy 2023", "country_label": "National ICT Policy of 2023", "class": "sector-ict", "platform": "", "owner": "Ministry of Technology and Science", "tiers": "national; the Strategy says it is anchored on this policy"},
-    {"system": "Vision 2030", "country_label": "Zambia's Vision 2030", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": "national"},
-    {"system": "National Electronic Government Plan", "country_label": "National e-Government Plan", "class": "government", "platform": "", "owner": "E-Government Division", "tiers": "public sector; the Strategy plans its roll-out to all 116 districts"}
+    {
+      "system": "National Information and Communication Technology Policy 2023",
+      "country_label": "National ICT Policy of 2023",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Technology and Science",
+      "tiers": "national; the Strategy says it is anchored on this policy"
+    },
+    {
+      "system": "Vision 2030",
+      "country_label": "Zambia's Vision 2030",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Zambia",
+      "tiers": "national"
+    },
+    {
+      "system": "National Electronic Government Plan",
+      "country_label": "National e-Government Plan",
+      "class": "government",
+      "platform": "",
+      "owner": "E-Government Division",
+      "tiers": "public sector; the Strategy plans its roll-out to all 116 districts"
+    }
   ],
   "note": ""
 }

@@ -1,10 +1,26 @@
 {
   "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "CIPIT's 2025 report states that Uganda's government recognised AI 'through its National 4IR Strategy launched in 2023' (verb: launched; no adopting act or body named; the strategy is cited as a Ministry of Science, Technology and Innovation 2023 publication).", "as_of": "2023", "date_precision": "year", "system": "National Fourth Industrial Revolution Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "CIPIT's 2025 report states that Uganda's government recognised AI 'through its National 4IR Strategy launched in 2023' (verb: launched; no adopting act or body named; the strategy is cited as a Ministry of Science, Technology and Innovation 2023 publication).",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National Fourth Industrial Revolution Strategy",
+      "class": "thematic"
+    }
   ],
   "systems": [
-    {"system": "National Fourth Industrial Revolution Strategy", "country_label": "National 4IR Strategy", "class": "", "platform": "", "owner": "Ministry of Science, Technology and Innovation", "tiers": ""}
+    {
+      "system": "National Fourth Industrial Revolution Strategy",
+      "country_label": "National 4IR Strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of Science, Technology and Innovation",
+      "tiers": ""
+    }
   ],
   "note": "Continental AI report; the only Uganda strategy is the 4IR Strategy, whose scope the document describes only as prioritising AI in education, financial services and service delivery, so class is left empty. It also says Uganda has no dedicated AI policy (thematic, no fact)."
 }

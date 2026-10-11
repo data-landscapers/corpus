@@ -1,13 +1,50 @@
 {
   "slug": "2026-07-15-nita-u-nisf-2026",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The National Information Security Policy lists the Smart Uganda Master Plan with the period 2020-2025, which had ended by the document's 15 July 2026 publication date (used as as_of, no other date being given); Text public: not stated.", "as_of": "2026-07-15", "date_precision": "day", "system": "Smart Uganda Master Plan", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "The National Information Security Policy lists the Smart Uganda Master Plan with the period 2020-2025, which had ended by the document's 15 July 2026 publication date (used as as_of, no other date being given); Text public: not stated.",
+      "as_of": "2026-07-15",
+      "date_precision": "day",
+      "system": "Smart Uganda Master Plan",
+      "class": ""
+    }
   ],
   "systems": [
-    {"system": "Smart Uganda Master Plan", "country_label": "Smart Uganda Master Plan (2020-2025)", "class": "", "platform": "", "owner": "", "tiers": "national; described only as prioritising secure digital infrastructure and services"},
-    {"system": "e-Government Strategy", "country_label": "e-Government Strategy (2020-2025)", "class": "government", "platform": "", "owner": "", "tiers": "government; described as establishing interoperability, trust frameworks and security-by-design"},
-    {"system": "National Information Security Policy / Framework (NISP/NISF)", "country_label": "National Information Security Policy, National Information Security Framework 2026", "class": "thematic", "platform": "", "owner": "NITA-U", "tiers": "MDAs, local governments, critical information infrastructure operators and other entities processing national information"},
-    {"system": "National Critical Infrastructure Protection framework", "country_label": "National Critical Infrastructure Protection framework (forthcoming)", "class": "thematic", "platform": "", "owner": "", "tiers": "critical information infrastructure sectors"}
+    {
+      "system": "Smart Uganda Master Plan",
+      "country_label": "Smart Uganda Master Plan (2020-2025)",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; described only as prioritising secure digital infrastructure and services"
+    },
+    {
+      "system": "e-Government Strategy",
+      "country_label": "e-Government Strategy (2020-2025)",
+      "class": "government",
+      "platform": "",
+      "owner": "",
+      "tiers": "government; described as establishing interoperability, trust frameworks and security-by-design"
+    },
+    {
+      "system": "National Information Security Policy / Framework (NISP/NISF)",
+      "country_label": "National Information Security Policy, National Information Security Framework 2026",
+      "class": "thematic",
+      "platform": "",
+      "owner": "NITA-U",
+      "tiers": "MDAs, local governments, critical information infrastructure operators and other entities processing national information"
+    },
+    {
+      "system": "National Critical Infrastructure Protection framework",
+      "country_label": "National Critical Infrastructure Protection framework (forthcoming)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "critical information infrastructure sectors"
+    }
   ],
   "note": "A cybersecurity policy; names Uganda's wider strategies only to state linkages. Smart Uganda Master Plan period recorded with class empty since the document does not describe its scope."
 }

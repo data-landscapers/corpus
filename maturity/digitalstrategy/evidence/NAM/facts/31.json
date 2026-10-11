@@ -1,10 +1,26 @@
 {
   "slug": "2026-02-19-grounding-the-cloud-in-namibia-namibiansun",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The analysis says a data centre in Namibia would support the National Digital Strategy 2025-2029; it gives the period but not whether the text is public or what the strategy covers. Dated by publication.", "as_of": "2026-02-19", "date_precision": "day", "system": "National Digital Strategy 2025-2029", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The analysis says a data centre in Namibia would support the National Digital Strategy 2025-2029; it gives the period but not whether the text is public or what the strategy covers. Dated by publication.",
+      "as_of": "2026-02-19",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy 2025-2029", "country_label": "National Digital Strategy 2025-2029", "class": "", "platform": "", "owner": "", "tiers": "scope not described"}
+    {
+      "system": "National Digital Strategy 2025-2029",
+      "country_label": "National Digital Strategy 2025-2029",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "scope not described"
+    }
   ],
   "note": "The strategy is named only as something a data centre would support, so its class is left empty."
 }

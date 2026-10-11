@@ -1,14 +1,60 @@
 {
   "slug": "2023-03-01-govtech-maturity-index-2022-regional-brief-afe",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "expired", "fact": "The World Bank's March 2023 regional brief says 'the 2020 Smart Rwanda Masterplan is dated' while Rwanda follows a whole-of-government approach to public-sector digital transformation; it gives no end date or successor, and the 'expired' value rests on the plan's 2020 name and the word 'dated'.", "as_of": "2023-03", "date_precision": "month", "system": "2020 Smart Rwanda Masterplan", "class": ""},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The brief says the Rwanda Information Society Authority (RISA, established in 2017) is responsible for planning and coordinating implementation of the national ICT for Development Agenda; it states no budget line, and the text does not say that agenda is the Masterplan.", "as_of": "2023-03", "date_precision": "month", "system": "national ICT for Development Agenda", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2020",
+      "fact": "The World Bank's March 2023 regional brief says 'the 2020 Smart Rwanda Masterplan is dated' while Rwanda follows a whole-of-government approach to public-sector digital transformation; it gives no end date or successor, and the 'expired' value rests on the plan's 2020 name and the word 'dated'.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "Smart Rwanda 2020 Master Plan",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The brief says the Rwanda Information Society Authority (RISA, established in 2017) is responsible for planning and coordinating implementation of the national ICT for Development Agenda; it states no budget line, and the text does not say that agenda is the Masterplan.",
+      "as_of": "2023-03",
+      "date_precision": "month",
+      "system": "national ICT for Development Agenda",
+      "class": ""
+    }
   ],
   "systems": [
-    {"system": "2020 Smart Rwanda Masterplan", "country_label": "2020 Smart Rwanda Masterplan", "class": "", "platform": "", "owner": "", "tiers": "named only as 'dated'; scope not described"},
-    {"system": "national ICT for Development Agenda", "country_label": "national ICT for Development Agenda", "class": "", "platform": "", "owner": "Rwanda Information Society Authority (RISA)", "tiers": "named as what RISA plans and coordinates; scope not described"},
-    {"system": "National Digital Talent Policy", "country_label": "National Digital Talent Policy", "class": "thematic", "platform": "", "owner": "", "tiers": "digital literacy of 5 million citizens via the Digital Ambassadors Programme"},
-    {"system": "Rwanda Digital Acceleration Project (P173373)", "country_label": "Digital Acceleration Project", "class": "programme", "platform": "", "owner": "World Bank-funded", "tiers": "broadband, digital public services, digital ID, innovation ecosystem"}
+    {
+      "system": "2020 Smart Rwanda Masterplan",
+      "country_label": "2020 Smart Rwanda Masterplan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "named only as 'dated'; scope not described"
+    },
+    {
+      "system": "national ICT for Development Agenda",
+      "country_label": "national ICT for Development Agenda",
+      "class": "",
+      "platform": "",
+      "owner": "Rwanda Information Society Authority (RISA)",
+      "tiers": "named as what RISA plans and coordinates; scope not described"
+    },
+    {
+      "system": "National Digital Talent Policy",
+      "country_label": "National Digital Talent Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "digital literacy of 5 million citizens via the Digital Ambassadors Programme"
+    },
+    {
+      "system": "Rwanda Digital Acceleration Project (P173373)",
+      "country_label": "Digital Acceleration Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank-funded",
+      "tiers": "broadband, digital public services, digital ID, innovation ecosystem"
+    }
   ],
   "note": "Passages only. Both facts carry class empty because the brief names the Masterplan and the ICT for Development Agenda without describing their scope; the period and governance values are the brief's wording, not an adoption or a period stated by it."
 }

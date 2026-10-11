@@ -1,20 +1,118 @@
 {
   "slug": "2026-07-21-kenya-ai-emerging-technologies-policy-draft-fulltext",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The State Department for ICT and the Digital Economy's draft AI policy (July 2026, published on ict.go.ke) lists the Kenya National Digital Masterplan (2022-2032) as the strategic direction for digital transformation, with priorities in digital infrastructure, data ecosystems, innovation and digital skills.", "as_of": "2022", "date_precision": "year", "system": "Kenya National Digital Masterplan (2022-2032)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The draft AI policy says there are national targets to train 20 million citizens under the Kenya AI Strategy (2025-2030) and the Digital Master Plan (2022-2032); no cost or date for the target is given.", "as_of": "2026-07", "date_precision": "month", "system": "Kenya National Digital Masterplan (2022-2032)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The State Department for ICT and the Digital Economy's draft AI policy (July 2026, published on ict.go.ke) lists the Kenya National Digital Masterplan (2022-2032) as the strategic direction for digital transformation, with priorities in digital infrastructure, data ecosystems, innovation and digital skills.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "The State Department for ICT and the Digital Economy's draft AI policy (July 2026, published on ict.go.ke) lists the Kenya National Digital Masterplan (2022-2032) as the strategic direction for digital transformation, with priorities in digital infrastructure, data ecosystems, innovation and digital skills.",
+      "as_of": "2022",
+      "date_precision": "year",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The draft AI policy says there are national targets to train 20 million citizens under the Kenya AI Strategy (2025-2030) and the Digital Master Plan (2022-2032); no cost or date for the target is given.",
+      "as_of": "2026-07",
+      "date_precision": "month",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Kenya National Digital Masterplan (2022-2032)", "country_label": "Kenya National Digital Master Plan", "class": "national", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national and county"},
-    {"system": "Digital Economy Blueprint", "country_label": "Digital Economy Blueprint", "class": "", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "National ICT Policy (2019)", "country_label": "National ICT Policy", "class": "sector-ict", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "national"},
-    {"system": "Kenya Artificial Intelligence Strategy (2025-2030)", "country_label": "Kenya AI Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Kenya AI and Other Emerging Technologies Policy, 2026 (draft)", "country_label": "draft AI and Emerging Technologies Policy", "class": "thematic", "platform": "", "owner": "State Department for ICT and the Digital Economy", "tiers": "national and county"},
-    {"system": "National Cybersecurity Strategy (2022)", "country_label": "National Cybersecurity Strategy", "class": "thematic", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "Kenya Vision 2030", "country_label": "Kenya Vision 2030", "class": "development-plan", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
-    {"system": "Bottom-Up Economic Transformation Agenda (BETA)", "country_label": "BETA", "class": "development-plan", "platform": "", "owner": "Government of Kenya", "tiers": "national"},
-    {"system": "ICT Authority Strategic Plan 2024-2027", "country_label": "ICT Authority Strategic Plan", "class": "ministry-plan", "platform": "", "owner": "ICT Authority", "tiers": "national"},
-    {"system": "ODPC Strategic Plan 2022/2023 - 2024/2025", "country_label": "ODPC Strategic Plan", "class": "ministry-plan", "platform": "", "owner": "Office of the Data Protection Commissioner", "tiers": "national"}
+    {
+      "system": "Kenya National Digital Masterplan (2022-2032)",
+      "country_label": "Kenya National Digital Master Plan",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information, Communications and the Digital Economy",
+      "tiers": "national and county"
+    },
+    {
+      "system": "Digital Economy Blueprint",
+      "country_label": "Digital Economy Blueprint",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "National ICT Policy (2019)",
+      "country_label": "National ICT Policy",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Information, Communications and the Digital Economy",
+      "tiers": "national"
+    },
+    {
+      "system": "Kenya Artificial Intelligence Strategy (2025-2030)",
+      "country_label": "Kenya AI Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Kenya AI and Other Emerging Technologies Policy, 2026 (draft)",
+      "country_label": "draft AI and Emerging Technologies Policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "State Department for ICT and the Digital Economy",
+      "tiers": "national and county"
+    },
+    {
+      "system": "National Cybersecurity Strategy (2022)",
+      "country_label": "National Cybersecurity Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "Kenya Vision 2030",
+      "country_label": "Kenya Vision 2030",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    },
+    {
+      "system": "Bottom-Up Economic Transformation Agenda (BETA)",
+      "country_label": "BETA",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    },
+    {
+      "system": "ICT Authority Strategic Plan 2024-2027",
+      "country_label": "ICT Authority Strategic Plan",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "ICT Authority",
+      "tiers": "national"
+    },
+    {
+      "system": "ODPC Strategic Plan 2022/2023 - 2024/2025",
+      "country_label": "ODPC Strategic Plan",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Office of the Data Protection Commissioner",
+      "tiers": "national"
+    }
   ],
   "note": "Draft AI policy reached through passages; its listing of the Master Plan is as 'strategic direction for digital transformation'. Digital Economy Blueprint class empty here: named without description. No adoption act, body or progress report on the Master Plan stated."
 }

@@ -1,11 +1,34 @@
 {
   "slug": "2025-12-23-ami-plateforme-hajj-connexion-khadamati-anrpts",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "At the 23 December 2025 launch of the Hajj platform on the Khadamati portal, the minister of Islamic affairs said the project translates the 'stratégie nationale de transformation numérique' into practical services; the article names no strategy document, period or target.", "as_of": "2025-12-23", "date_precision": "day", "system": "stratégie nationale de transformation numérique", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "At the 23 December 2025 launch of the Hajj platform on the Khadamati portal, the minister of Islamic affairs said the project translates the 'stratégie nationale de transformation numérique' into practical services; the article names no strategy document, period or target.",
+      "as_of": "2025-12-23",
+      "date_precision": "day",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "stratégie nationale de transformation numérique", "country_label": "stratégie nationale de transformation numérique", "class": "", "platform": "", "owner": "Ministère de la Transformation numérique et de la Modernisation de l'Administration", "tiers": "national; named only in a minister's speech"},
-    {"system": "plateforme du Hajj", "country_label": "plateforme du Hajj sur le portail Khadamati", "class": "programme", "platform": "Khadamati portal", "owner": "Ministère des Affaires islamiques et de l'Enseignement originel", "tiers": "national; linked to Khadamati, the Public Treasury and ANRPTS"}
+    {
+      "system": "stratégie nationale de transformation numérique",
+      "country_label": "stratégie nationale de transformation numérique",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la Transformation numérique et de la Modernisation de l'Administration",
+      "tiers": "national; named only in a minister's speech"
+    },
+    {
+      "system": "plateforme du Hajj",
+      "country_label": "plateforme du Hajj sur le portail Khadamati",
+      "class": "programme",
+      "platform": "Khadamati portal",
+      "owner": "Ministère des Affaires islamiques et de l'Enseignement originel",
+      "tiers": "national; linked to Khadamati, the Public Treasury and ANRPTS"
+    }
   ],
   "note": "The strategy is named only generically in a speech, so class is empty; the activity claim is recorded with class empty."
 }

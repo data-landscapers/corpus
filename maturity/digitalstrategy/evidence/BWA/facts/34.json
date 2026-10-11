@@ -1,11 +1,34 @@
 {
   "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The report states the government 'formalised' its digital strategy in 2020 as the SmartBots Digital Transformation Strategy, aiming at a knowledge-based economy through public service delivery; it names no adopting act or launch by the head of government.", "as_of": "2020", "date_precision": "year", "system": "SmartBots Digital Transformation Strategy", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The report states the government 'formalised' its digital strategy in 2020 as the SmartBots Digital Transformation Strategy, aiming at a knowledge-based economy through public service delivery; it names no adopting act or launch by the head of government.",
+      "as_of": "2020",
+      "date_precision": "year",
+      "system": "SmartBots Digital Transformation Strategy",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "SmartBots Digital Transformation Strategy", "country_label": "SmartBots Digital Transformation Strategy (2020)", "class": "national", "platform": "", "owner": "Government of Botswana", "tiers": "national; aims at a knowledge-based economy, digitising the public sector and service delivery"},
-    {"system": "Maitlamo National ICT Policy", "country_label": "National ICT Policy 'Maitlamo'", "class": "sector-ict", "platform": "", "owner": "Government of Botswana", "tiers": "national; aims to make government services faster, cheaper and more transparent"}
+    {
+      "system": "SmartBots Digital Transformation Strategy",
+      "country_label": "SmartBots Digital Transformation Strategy (2020)",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Botswana",
+      "tiers": "national; aims at a knowledge-based economy, digitising the public sector and service delivery"
+    },
+    {
+      "system": "Maitlamo National ICT Policy",
+      "country_label": "National ICT Policy 'Maitlamo'",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Government of Botswana",
+      "tiers": "national; aims to make government services faster, cheaper and more transparent"
+    }
   ],
   "note": ""
 }

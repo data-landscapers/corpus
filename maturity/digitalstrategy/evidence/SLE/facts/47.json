@@ -1,1 +1,42 @@
-{"slug":"2024-01-01-sierra-leone-mtndp-2024-2030","facts":[{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"The MTNDP 2024-2030 lists among the government's CTI-sector milestones of the 2019-2023 plan period the 'launch' of the national digital development policy, naming no approving act or body and no date within that period; as_of is the plan's January 2024 date.","as_of":"2024-01","date_precision":"month","system":"national digital development policy","class":""}],"systems":[{"system":"national digital development policy","country_label":"national digital development policy","class":"","platform":"","owner":"Government of Sierra Leone","tiers":""},{"system":"Medium-Term National Development Plan 2024-2030","country_label":"MTNDP 2024-2030","class":"development-plan","platform":"","owner":"Ministry of Planning and Economic Development","tiers":"national; includes Technology and Innovation under the Big 5 Game Changers"},{"system":"comprehensive digital transformation strategy (education sector)","country_label":"digital transformation strategy for tertiary education","class":"ministry-plan","platform":"","owner":"Ministry of Technical and Higher Education","tiers":"education sector; described as needed, not adopted"}],"note":"The policy is named with the verb 'launch' but its scope is not described in this document, so class is left empty; 'announced' follows from launch with no act named. The plan also lists 'Develop and implement Digital Policy' as a planned activity, undated."}
+{
+  "slug": "2024-01-01-sierra-leone-mtndp-2024-2030",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The MTNDP 2024-2030 lists among the government's CTI-sector milestones of the 2019-2023 plan period the 'launch' of the national digital development policy, naming no approving act or body and no date within that period; as_of is the plan's January 2024 date.",
+      "as_of": "2024-01",
+      "date_precision": "month",
+      "system": "National Digital Development Policy 2021",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national digital development policy",
+      "country_label": "national digital development policy",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Sierra Leone",
+      "tiers": ""
+    },
+    {
+      "system": "Medium-Term National Development Plan 2024-2030",
+      "country_label": "MTNDP 2024-2030",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Ministry of Planning and Economic Development",
+      "tiers": "national; includes Technology and Innovation under the Big 5 Game Changers"
+    },
+    {
+      "system": "comprehensive digital transformation strategy (education sector)",
+      "country_label": "digital transformation strategy for tertiary education",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Technical and Higher Education",
+      "tiers": "education sector; described as needed, not adopted"
+    }
+  ],
+  "note": "The policy is named with the verb 'launch' but its scope is not described in this document, so class is left empty; 'announced' follows from launch with no act named. The plan also lists 'Develop and implement Digital Policy' as a planned activity, undated."
+}

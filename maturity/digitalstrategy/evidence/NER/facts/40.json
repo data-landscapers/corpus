@@ -1,12 +1,42 @@
 {
   "slug": "2022-10-01-niger-strategie-nationale-agriculture-numerique",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The strategy document says that within the framework of the national digital policy a strategic plan, Niger 2.0, \"a été lancé en juillet 2017\" and is implemented by ANSI; the passage supplied is cut off before it says what the plan covers, and it names no adopting act or body.", "as_of": "2017-07", "date_precision": "month", "system": "plan stratégique Niger 2.0", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The strategy document says that within the framework of the national digital policy a strategic plan, Niger 2.0, \"a été lancé en juillet 2017\" and is implemented by ANSI; the passage supplied is cut off before it says what the plan covers, and it names no adopting act or body.",
+      "as_of": "2017-07",
+      "date_precision": "month",
+      "system": "plan stratégique Niger 2.0",
+      "class": ""
+    }
   ],
   "systems": [
-    {"system": "plan stratégique Niger 2.0", "country_label": "plan stratégique Niger 2.0", "class": "", "platform": "", "owner": "ANSI (implementing)", "tiers": "Launched July 2017 under the national digital policy; aim stated as making Niger a \"véritable plaque\" (text cut off)."},
-    {"system": "politique nationale du numérique", "country_label": "politique nationale du numérique", "class": "", "platform": "", "owner": "", "tiers": "Named as the framework under which Niger 2.0 was launched; no description, date or status."},
-    {"system": "Stratégie Nationale pour l'Agriculture Numérique au Niger et son Plan d'Actions (2023-2027)", "country_label": "Stratégie Nationale pour l'Agriculture Numérique", "class": "thematic", "platform": "", "owner": "Ministère de l'Agriculture", "tiers": "Final document dated October 2022, with FAO and Nigerien-German programme support; action plan 2023-2027."}
+    {
+      "system": "plan stratégique Niger 2.0",
+      "country_label": "plan stratégique Niger 2.0",
+      "class": "",
+      "platform": "",
+      "owner": "ANSI (implementing)",
+      "tiers": "Launched July 2017 under the national digital policy; aim stated as making Niger a \"véritable plaque\" (text cut off)."
+    },
+    {
+      "system": "politique nationale du numérique",
+      "country_label": "politique nationale du numérique",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "Named as the framework under which Niger 2.0 was launched; no description, date or status."
+    },
+    {
+      "system": "Stratégie Nationale pour l'Agriculture Numérique au Niger et son Plan d'Actions (2023-2027)",
+      "country_label": "Stratégie Nationale pour l'Agriculture Numérique",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministère de l'Agriculture",
+      "tiers": "Final document dated October 2022, with FAO and Nigerien-German programme support; action plan 2023-2027."
+    }
   ],
   "note": "Class left empty for Niger 2.0: the supplied passages cut off before the plan's scope is described."
 }

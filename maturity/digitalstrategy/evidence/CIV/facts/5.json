@@ -1,14 +1,62 @@
 {
   "slug": "2026-09-22-pin-digital-inclusion-africa-ecosystem-gap-report",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "Paradigm Initiative's table of national digital strategies lists the Ministry of Digital Transition (with the Ministry of National Education and ARTCI) as lead institution for the SNDN 2021-2025; no act or text assigning the mandate is cited.", "as_of": "2026-09-22", "date_precision": "day", "system": "SNDN 2021-2025 (National Digital Development Strategy)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "The report ties national budget allocations of about USD 91 million (CFA 55.6 billion) for 2024 and USD 101 million (CFA 60.78 billion) for 2025 to the implementation cycle of the SNDN 2021-2025.", "as_of": "2025", "date_precision": "year", "system": "SNDN 2021-2025 (National Digital Development Strategy)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The report describes the SNDN 2021-2025 as a costed strategic document with matched programmes and puts the total digital strategy envelope at an estimated USD 3.3 billion; the date of the estimate is not given, so the report's publication date is used.", "as_of": "2026-09-22", "date_precision": "day", "system": "SNDN 2021-2025 (National Digital Development Strategy)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "Paradigm Initiative's table of national digital strategies lists the Ministry of Digital Transition (with the Ministry of National Education and ARTCI) as lead institution for the SNDN 2021-2025; no act or text assigning the mandate is cited.",
+      "as_of": "2026-09-22",
+      "date_precision": "day",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The report ties national budget allocations of about USD 91 million (CFA 55.6 billion) for 2024 and USD 101 million (CFA 60.78 billion) for 2025 to the implementation cycle of the SNDN 2021-2025.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The report describes the SNDN 2021-2025 as a costed strategic document with matched programmes and puts the total digital strategy envelope at an estimated USD 3.3 billion; the date of the estimate is not given, so the report's publication date is used.",
+      "as_of": "2026-09-22",
+      "date_precision": "day",
+      "system": "Stratégie nationale de développement du numérique 2021-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "SNDN 2021-2025 (National Digital Development Strategy)", "country_label": "SNDN 2021-2025", "class": "national", "platform": "", "owner": "Ministry of Digital Transition", "tiers": "national"},
-    {"system": "SNDECI 2024-2028 (Stratégie Nationale de Digitalisation de l'Éducation)", "country_label": "SNDECI", "class": "ministry-plan", "platform": "", "owner": "Ministry of National Education", "tiers": "education sector"},
-    {"system": "Réseau National Haut Débit (RNHD)", "country_label": "RNHD", "class": "programme", "platform": "", "owner": "ANSUT", "tiers": "national backbone"}
+    {
+      "system": "SNDN 2021-2025 (National Digital Development Strategy)",
+      "country_label": "SNDN 2021-2025",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Digital Transition",
+      "tiers": "national"
+    },
+    {
+      "system": "SNDECI 2024-2028 (Stratégie Nationale de Digitalisation de l'Éducation)",
+      "country_label": "SNDECI",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of National Education",
+      "tiers": "education sector"
+    },
+    {
+      "system": "Réseau National Haut Débit (RNHD)",
+      "country_label": "RNHD",
+      "class": "programme",
+      "platform": "",
+      "owner": "ANSUT",
+      "tiers": "national backbone"
+    }
   ],
   "note": ""
 }

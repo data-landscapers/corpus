@@ -1,12 +1,42 @@
 {
   "slug": "2026-05-13-tz-minister-statement-wtisd-2026",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Minister for Communication and Information Technology's statement of 13 May 2026 cites the Tanzania Digital Economy Strategy Framework (2024-2034) as in force, so its stated period had not ended; the statement does not link or quote the text. Text public: not stated", "as_of": "2026-05-13", "date_precision": "day", "system": "Tanzania Digital Economy Strategy Framework (2024-2034)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "The Minister for Communication and Information Technology's statement of 13 May 2026 cites the Tanzania Digital Economy Strategy Framework (2024-2034) as in force, so its stated period had not ended; the statement does not link or quote the text. Text public: not stated",
+      "as_of": "2026-05-13",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Tanzania Development Vision 2050", "country_label": "Tanzania Development Vision 2050", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; said to recognise digital transformation as a catalytic driver"},
-    {"system": "TCRA Spectrum Management Strategy 2024/25-2034/35", "country_label": "TCRA Spectrum Management Strategy 2024/25-2034/35", "class": "ministry-plan", "platform": "", "owner": "Tanzania Communications Regulatory Authority", "tiers": "national; recognises emergency telecommunications as a critical function"},
-    {"system": "National Emergency Telecommunications Plan (NETP)", "country_label": "National Emergency Telecommunications Plan", "class": "thematic", "platform": "", "owner": "", "tiers": "national; targets restoring communication services within 24 hours of a disaster"}
+    {
+      "system": "Tanzania Development Vision 2050",
+      "country_label": "Tanzania Development Vision 2050",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; said to recognise digital transformation as a catalytic driver"
+    },
+    {
+      "system": "TCRA Spectrum Management Strategy 2024/25-2034/35",
+      "country_label": "TCRA Spectrum Management Strategy 2024/25-2034/35",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Tanzania Communications Regulatory Authority",
+      "tiers": "national; recognises emergency telecommunications as a critical function"
+    },
+    {
+      "system": "National Emergency Telecommunications Plan (NETP)",
+      "country_label": "National Emergency Telecommunications Plan",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; targets restoring communication services within 24 hours of a disaster"
+    }
   ],
   "note": "Class left empty for the Digital Economy Strategy Framework: the statement says only that it outlines measures to protect critical information infrastructure, data and information assets, and does not describe its overall scope. Adoption, plan and reporting are not stated."
 }

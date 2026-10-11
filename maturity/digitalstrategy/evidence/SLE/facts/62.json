@@ -1,13 +1,50 @@
 {
   "slug": "2026-04-01-sierra-leone-mbsse-national-digital-learning-strategy-2025-2030",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The document describes the National Innovation and Digital Strategy (DSTI, 2019) as laying out the plan 'for the next 10 years' to develop infrastructure and human-resource capacity, which puts the period at about 2019-2029; it says nothing on whether the text is published or on the strategy's scope. Text public: not stated.", "as_of": "2019", "date_precision": "year", "system": "National Innovation and Digital Strategy", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The document describes the National Innovation and Digital Strategy (DSTI, 2019) as laying out the plan 'for the next 10 years' to develop infrastructure and human-resource capacity, which puts the period at about 2019-2029; it says nothing on whether the text is published or on the strategy's scope. Text public: not stated.",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "National Innovation and Digital Strategy 2019-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Learning Strategy 2025-2030", "country_label": "National Digital Learning Strategy (NDLS)", "class": "ministry-plan", "platform": "", "owner": "Ministry of Basic and Senior Secondary Education and Teaching Service Commission", "tiers": "pre-primary to senior secondary education"},
-    {"system": "National ICT Policy 2009", "country_label": "2009 National ICT Policy of Sierra Leone", "class": "sector-ict", "platform": "", "owner": "", "tiers": ""},
-    {"system": "Sierra Leone Education Sector Plan 2022-2026", "country_label": "Education Sector Plan (2022-2026)", "class": "ministry-plan", "platform": "", "owner": "Ministry of Basic and Senior Secondary Education", "tiers": "education"},
-    {"system": "Education Management Information System (EMIS) policy", "country_label": "forthcoming EMIS policy", "class": "thematic", "platform": "", "owner": "", "tiers": "education"}
+    {
+      "system": "National Digital Learning Strategy 2025-2030",
+      "country_label": "National Digital Learning Strategy (NDLS)",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Basic and Senior Secondary Education and Teaching Service Commission",
+      "tiers": "pre-primary to senior secondary education"
+    },
+    {
+      "system": "National ICT Policy 2009",
+      "country_label": "2009 National ICT Policy of Sierra Leone",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Sierra Leone Education Sector Plan 2022-2026",
+      "country_label": "Education Sector Plan (2022-2026)",
+      "class": "ministry-plan",
+      "platform": "",
+      "owner": "Ministry of Basic and Senior Secondary Education",
+      "tiers": "education"
+    },
+    {
+      "system": "Education Management Information System (EMIS) policy",
+      "country_label": "forthcoming EMIS policy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "education"
+    }
   ],
   "note": "The passages cover an education ministry's own strategy (ministry-plan); the national strategy appears only as a one-line mention, so the one fact is its stated ten-year horizon, with scope not described and class left empty."
 }

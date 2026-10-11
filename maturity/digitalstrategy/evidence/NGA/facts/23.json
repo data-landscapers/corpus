@@ -1,11 +1,34 @@
 {
   "slug": "2026-09-10-nga-newtelegraph-inclusive-digital-economy-participation",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article names the National Digital Economy Policy and Strategy 2020-2030 as emphasising indigenous capacity, digital literacy and inclusive participation; the stated period runs to 2030, the source does not say whether the text is public, and gives no scope beyond those three emphases; the source's published date is used.", "as_of": "2026-09-10", "date_precision": "day", "system": "National Digital Economy Policy and Strategy 2020-2030", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "The article names the National Digital Economy Policy and Strategy 2020-2030 as emphasising indigenous capacity, digital literacy and inclusive participation; the stated period runs to 2030, the source does not say whether the text is public, and gives no scope beyond those three emphases; the source's published date is used.",
+      "as_of": "2026-09-10",
+      "date_precision": "day",
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Economy Policy and Strategy 2020-2030", "country_label": "National Digital Economy Policy and Strategy 2020-2030", "class": "", "platform": "", "owner": "", "tiers": "national"},
-    {"system": "3 Million Technical Talent programme (3MTT)", "country_label": "3 Million Technical Talent programme", "class": "programme", "platform": "", "owner": "", "tiers": "national"}
+    {
+      "system": "National Digital Economy Policy and Strategy 2020-2030",
+      "country_label": "National Digital Economy Policy and Strategy 2020-2030",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    },
+    {
+      "system": "3 Million Technical Talent programme (3MTT)",
+      "country_label": "3 Million Technical Talent programme",
+      "class": "programme",
+      "platform": "",
+      "owner": "",
+      "tiers": "national"
+    }
   ],
   "note": "The strategy is described only by three emphases, not by its scope across economy and state, so its class is left empty; the dated period is recorded as stated."
 }

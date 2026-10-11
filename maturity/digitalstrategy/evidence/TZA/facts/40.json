@@ -1,11 +1,34 @@
 {
   "slug": "2026-03-12-tanzania-validates-electronic-data-governance-strategy",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "UNECA (2026-03-12) quotes Director Mohamed Mashaka of the Ministry of Communication and Information Technology calling the 'government's 10-year Digital Economy Strategy Framework (2024-2034)' the alignment for the data governance strategy, so its stated period had not ended; the article does not describe the framework's scope (class left empty) or link its text. Text public: not stated", "as_of": "2026-03-12", "date_precision": "day", "system": "10-year Digital Economy Strategy Framework (2024-2034)", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2034",
+      "fact": "UNECA (2026-03-12) quotes Director Mohamed Mashaka of the Ministry of Communication and Information Technology calling the 'government's 10-year Digital Economy Strategy Framework (2024-2034)' the alignment for the data governance strategy, so its stated period had not ended; the article does not describe the framework's scope (class left empty) or link its text. Text public: not stated",
+      "as_of": "2026-03-12",
+      "date_precision": "day",
+      "system": "Digital Economy Strategic Framework 2024-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Tanzania Electronic Data Governance Strategy (TZeDGS)", "country_label": "TZeDGS", "class": "thematic", "platform": "", "owner": "Ministry of Communication and Information Technology, with UNECA, AUDA-NEPAD and GIZ", "tiers": "national; a national validation workshop was held in Dodoma on 2026-03-12 and the Government reaffirmed its commitment to advancing it 'toward formal adoption'"},
-    {"system": "Tanzania Technology Stack", "country_label": "Tanzania Technology Stack", "class": "", "platform": "", "owner": "", "tiers": ""}
+    {
+      "system": "Tanzania Electronic Data Governance Strategy (TZeDGS)",
+      "country_label": "TZeDGS",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministry of Communication and Information Technology, with UNECA, AUDA-NEPAD and GIZ",
+      "tiers": "national; a national validation workshop was held in Dodoma on 2026-03-12 and the Government reaffirmed its commitment to advancing it 'toward formal adoption'"
+    },
+    {
+      "system": "Tanzania Technology Stack",
+      "country_label": "Tanzania Technology Stack",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
   ],
   "note": "TZeDGS (data governance) is thematic: validated at a workshop, not adopted. The Digital Economy Strategy Framework's class is empty because the article only names it as the alignment of that strategy."
 }

@@ -1,13 +1,50 @@
 {
   "slug": "2024-12-03-primature-conseil-ministres-ratification-accord-financement-wardip",
   "facts": [
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The Council of Ministers communiqué of 3 December 2024 says the Council 'a examiné et approuvé' a bill authorising ratification of the IDA financing agreement signed 11 December 2023 for WARDIP-Mauritanie, which it says will contribute strongly to the realisation of the Agenda National de Transformation Numérique, including new or improved broadband for over 400,000 people; it states no domestic allocation.", "as_of": "2024-12-03", "date_precision": "day", "system": "Agenda National de Transformation Numérique", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The Council of Ministers communiqué of 3 December 2024 says the Council 'a examiné et approuvé' a bill authorising ratification of the IDA financing agreement signed 11 December 2023 for WARDIP-Mauritanie, which it says will contribute strongly to the realisation of the Agenda National de Transformation Numérique, including new or improved broadband for over 400,000 people; it states no domestic allocation.",
+      "as_of": "2024-12-03",
+      "date_precision": "day",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Agenda National de Transformation Numérique", "country_label": "Agenda National de Transformation Numérique", "class": "", "platform": "", "owner": "Government of Mauritania", "tiers": "national; no period given in the passages"},
-    {"system": "WARDIP-Mauritanie", "country_label": "Programme Régional d'Intégration Numérique de l'Afrique de l'Ouest (WARDIP-Mauritanie)", "class": "programme", "platform": "", "owner": "Government of Mauritania with the IDA", "tiers": "national; financing agreement signed 11 December 2023, ratification bill approved 3 December 2024"},
-    {"system": "Stratégie nationale de croissance accélérée et de prospérité partagée (SCAPP)", "country_label": "SCAPP", "class": "development-plan", "platform": "", "owner": "", "tiers": "national; WARDIP is said to be aligned with its strategic objectives"},
-    {"system": "Stratégie Nationale de Décentralisation et de Développement Local", "country_label": "Stratégie Nationale de Décentralisation et de Développement Local", "class": "thematic", "platform": "", "owner": "", "tiers": "named as supported by the MOUDOUN project"}
+    {
+      "system": "Agenda National de Transformation Numérique",
+      "country_label": "Agenda National de Transformation Numérique",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Mauritania",
+      "tiers": "national; no period given in the passages"
+    },
+    {
+      "system": "WARDIP-Mauritanie",
+      "country_label": "Programme Régional d'Intégration Numérique de l'Afrique de l'Ouest (WARDIP-Mauritanie)",
+      "class": "programme",
+      "platform": "",
+      "owner": "Government of Mauritania with the IDA",
+      "tiers": "national; financing agreement signed 11 December 2023, ratification bill approved 3 December 2024"
+    },
+    {
+      "system": "Stratégie nationale de croissance accélérée et de prospérité partagée (SCAPP)",
+      "country_label": "SCAPP",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; WARDIP is said to be aligned with its strategic objectives"
+    },
+    {
+      "system": "Stratégie Nationale de Décentralisation et de Développement Local",
+      "country_label": "Stratégie Nationale de Décentralisation et de Développement Local",
+      "class": "thematic",
+      "platform": "",
+      "owner": "",
+      "tiers": "named as supported by the MOUDOUN project"
+    }
   ],
   "note": "The communiqué describes the agenda only as the strategy WARDIP contributes to, so class is empty. The 'approved' verb applies to the financing bill, not to the agenda."
 }

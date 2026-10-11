@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SLE,national,governance,qualifier,body:mandated;finance:donor,2022-12,SLE-008;SLE-014,SLE-025=body:mandated;SLE-019=body:none,nothing dated since 2023-09-28
+SLE,national,standing,coverage,adopted,2021,SLE-002,SLE-022=announced;SLE-024=drafting;SLE-003=announced;SLE-004=announced;SLE-009=announced;SLE-005=announced;SLE-007=validated;SLE-011=announced;SLE-028=drafting;SLE-021=announced;SLE-026=announced;SLE-015=announced,
+SLE,national,text,coverage,public,2021,SLE-012;SLE-016,,nothing dated since 2023-09-28
+SLE,national,period,coverage,to:2029,2026-01-01,SLE-001;SLE-006;SLE-010;SLE-017;SLE-020;SLE-027,SLE-013=open,
+SLE,national,plan,coverage,actions,2024-10,SLE-018;SLE-023,,
+SLE,national,reporting,coverage,,,,,nothing held
+SLE,national,last12,qualifier,,,,,nothing held

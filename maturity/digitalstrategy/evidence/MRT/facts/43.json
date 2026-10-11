@@ -1,11 +1,34 @@
 {
   "slug": "2025-04-07-mtnima-sntr-khidmaty-modele-ia-an-etat-plaques-infractions",
   "facts": [
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "The ministry's own page says the 7 April 2025 launch on Khidmaty of the road-traffic digital system (SNTR) 's'inscrit dans la stratégie nationale de transformation numérique, portée par le ministère'; no document, period or target of that strategy is named.", "as_of": "2025-04-07", "date_precision": "day", "system": "stratégie nationale de transformation numérique", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "activity",
+      "fact": "The ministry's own page says the 7 April 2025 launch on Khidmaty of the road-traffic digital system (SNTR) 's'inscrit dans la stratégie nationale de transformation numérique, portée par le ministère'; no document, period or target of that strategy is named.",
+      "as_of": "2025-04-07",
+      "date_precision": "day",
+      "system": "Agenda national de transformation numérique 2022-2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "stratégie nationale de transformation numérique", "country_label": "stratégie nationale de transformation numérique", "class": "", "platform": "", "owner": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration", "tiers": "national; named generically"},
-    {"system": "Système Numérique du Trafic Routier (SNTR)", "country_label": "SNTR", "class": "programme", "platform": "Khidmaty portal; AI plate-recognition model by AN-État", "owner": "MTNIMA and Direction Générale de la Sûreté Nationale", "tiers": "national, roadside camera network"}
+    {
+      "system": "stratégie nationale de transformation numérique",
+      "country_label": "stratégie nationale de transformation numérique",
+      "class": "",
+      "platform": "",
+      "owner": "Ministère de la Transformation Numérique et de la Modernisation de l'Administration",
+      "tiers": "national; named generically"
+    },
+    {
+      "system": "Système Numérique du Trafic Routier (SNTR)",
+      "country_label": "SNTR",
+      "class": "programme",
+      "platform": "Khidmaty portal; AI plate-recognition model by AN-État",
+      "owner": "MTNIMA and Direction Générale de la Sûreté Nationale",
+      "tiers": "national, roadside camera network"
+    }
   ],
   "note": "The strategy is named only generically, so class is empty; the activity claim is recorded with class empty."
 }

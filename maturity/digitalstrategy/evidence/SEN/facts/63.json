@@ -1,12 +1,44 @@
 {
   "slug": "2025-05-01-west-africa-data-center-markets-brief",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Xalam brief says the Senegalese government \"has outlined\" a Technology New Deal, part of the 2050 national Transformation Agenda, with pillars of digital infrastructure, skills, innovation, public-sector digitization and digital security; it names no adopting act or body, and gives no date, so the brief's published date is used.", "as_of": "2025-05", "date_precision": "month", "system": "Technology New Deal", "class": "national"},
-    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The Xalam brief gives an \"estimated budget\" for the Technology New Deal of around $2bn and a goal of a digital economy at around 15% of GDP by 2034; it describes no action plan, so the cost is a strategy-level estimate and its source is not stated; the brief's published date is used.", "as_of": "2025-05", "date_precision": "month", "system": "Technology New Deal", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The Xalam brief says the Senegalese government \"has outlined\" a Technology New Deal, part of the 2050 national Transformation Agenda, with pillars of digital infrastructure, skills, innovation, public-sector digitization and digital security; it names no adopting act or body, and gives no date, so the brief's published date is used.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The Xalam brief gives an \"estimated budget\" for the Technology New Deal of around $2bn and a goal of a digital economy at around 15% of GDP by 2034; it describes no action plan, so the cost is a strategy-level estimate and its source is not stated; the brief's published date is used.",
+      "as_of": "2025-05",
+      "date_precision": "month",
+      "system": "New Deal Technologique 2025-2034",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Technology New Deal", "country_label": "Nouveau Deal Technologique", "class": "national", "platform": "", "owner": "Government of Senegal", "tiers": "national"},
-    {"system": "2050 national Transformation Agenda", "country_label": "", "class": "development-plan", "platform": "", "owner": "Government of Senegal", "tiers": "national"}
+    {
+      "system": "Technology New Deal",
+      "country_label": "Nouveau Deal Technologique",
+      "class": "national",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    },
+    {
+      "system": "2050 national Transformation Agenda",
+      "country_label": "",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    }
   ],
   "note": "Strategy named as 'outlined' by the government, no adoption act, no text link, no period stated; no period fact."
 }

@@ -1,17 +1,140 @@
-{"slug":"2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029","facts":[
-{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"The Blueprint carries forewords by the President and the Prime Minister and calls itself 'Government's commitment' and a 'strategic roadmap'; the document states no approving or adopting act or body, so no adoption verb is quoted.","as_of":"2025-05-27","date_precision":"day","system":"A Blueprint for Mauritius: A Bridge to the Future - Digital Transformation 2025-2029","class":"national"},
-{"sub_indicator":"national","aspect":"period","value":"current","fact":"The full text is published on the MITCI site, is titled 2025-2029, and describes itself as a whole-of-nation transformation of the state and the economy (four pillars including Economy, five enablers).","as_of":"2025-05-27","date_precision":"day","system":"A Blueprint for Mauritius: A Bridge to the Future - Digital Transformation 2025-2029","class":"national"},
-{"sub_indicator":"national","aspect":"plan","value":"actions","fact":"The Blueprint lists actions per pillar and enabler and says it contains a phased roadmap with milestones and indicators; it states no cost or budget figure for the Blueprint.","as_of":"2025-05-27","date_precision":"day","system":"A Blueprint for Mauritius: A Bridge to the Future - Digital Transformation 2025-2029","class":"national"},
-{"sub_indicator":"national","aspect":"governance","value":"body:mandated","fact":"The Blueprint says the National Digital Transformation Bureau 'will be responsible for the execution of ICT projects' and a National Digital Transformation Steering Committee will oversee implementation; the NDTB is to be established.","as_of":"2025-05-27","date_precision":"day","system":"A Blueprint for Mauritius: A Bridge to the Future - Digital Transformation 2025-2029","class":"national"},
-{"sub_indicator":"national","aspect":"governance","value":"finance:not-stated","fact":"The Blueprint states no budget line or allocation for itself; it mentions only that 'provision will be made' for some partnership programmes.","as_of":"2025-05-27","date_precision":"day","system":"A Blueprint for Mauritius: A Bridge to the Future - Digital Transformation 2025-2029","class":"national"}],
-"systems":[
-{"system":"A Blueprint for Mauritius: A Bridge to the Future - Digital Transformation 2025-2029","country_label":"Digital Transformation Blueprint (2025-2029)","class":"national","platform":"","owner":"Ministry of Information Technology, Communication and Innovation","tiers":"whole of government, economy and society"},
-{"system":"Government Programme 2025-2029","country_label":"Government Programme 2025-2029 - A Bridge to the Future","class":"development-plan","platform":"","owner":"Government of Mauritius","tiers":"national"},
-{"system":"Mauritius National Data Strategy (MNDS) 2025-2030","country_label":"National Data Strategy","class":"thematic","platform":"","owner":"Data Management Office (to be established)","tiers":"public sector"},
-{"system":"National Artificial Intelligence Strategy","country_label":"National AI Strategy (to be formulated)","class":"thematic","platform":"","owner":"AI Unit under Ministry of IT","tiers":"national"},
-{"system":"Cyber Resilience and Cybersecurity Strategy","country_label":"Cyber Resilience and Cybersecurity Strategy (to be adopted)","class":"thematic","platform":"","owner":"NCRCSA","tiers":"national"},
-{"system":"National Digital Services Framework","country_label":"National Digital Services Framework (to be adopted)","class":"government","platform":"","owner":"MITCI","tiers":"public services"},
-{"system":"Unified Government Portal / Government Super App","country_label":"Unified Government Portal","class":"","platform":"","owner":"Government","tiers":"national"},
-{"system":"InfoHighway","country_label":"InfoHighway data exchange","class":"","platform":"","owner":"Government","tiers":"government systems"},
-{"system":"Mobile ID / National Identity Management Framework","country_label":"Mobile ID, NIMF","class":"","platform":"","owner":"Government","tiers":"national"}],
-"note":"Whole-of-government blueprint; no adopting act named in the text. No report on delivery in this document, so no reporting fact."}
+{
+  "slug": "2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The Blueprint carries forewords by the President and the Prime Minister and calls itself 'Government's commitment' and a 'strategic roadmap'; the document states no approving or adopting act or body, so no adoption verb is quoted.",
+      "as_of": "2025-05-27",
+      "date_precision": "day",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The full text is published on the MITCI site, is titled 2025-2029, and describes itself as a whole-of-nation transformation of the state and the economy (four pillars including Economy, five enablers).",
+      "as_of": "2025-05-27",
+      "date_precision": "day",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The full text is published on the MITCI site, is titled 2025-2029, and describes itself as a whole-of-nation transformation of the state and the economy (four pillars including Economy, five enablers).",
+      "as_of": "2025-05-27",
+      "date_precision": "day",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The Blueprint lists actions per pillar and enabler and says it contains a phased roadmap with milestones and indicators; it states no cost or budget figure for the Blueprint.",
+      "as_of": "2025-05-27",
+      "date_precision": "day",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The Blueprint says the National Digital Transformation Bureau 'will be responsible for the execution of ICT projects' and a National Digital Transformation Steering Committee will oversee implementation; the NDTB is to be established.",
+      "as_of": "2025-05-27",
+      "date_precision": "day",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The Blueprint states no budget line or allocation for itself; it mentions only that 'provision will be made' for some partnership programmes.",
+      "as_of": "2025-05-27",
+      "date_precision": "day",
+      "system": "Digital Transformation Blueprint 2025-2029",
+      "class": "national"
+    }
+  ],
+  "systems": [
+    {
+      "system": "A Blueprint for Mauritius: A Bridge to the Future - Digital Transformation 2025-2029",
+      "country_label": "Digital Transformation Blueprint (2025-2029)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information Technology, Communication and Innovation",
+      "tiers": "whole of government, economy and society"
+    },
+    {
+      "system": "Government Programme 2025-2029",
+      "country_label": "Government Programme 2025-2029 - A Bridge to the Future",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Mauritius",
+      "tiers": "national"
+    },
+    {
+      "system": "Mauritius National Data Strategy (MNDS) 2025-2030",
+      "country_label": "National Data Strategy",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Data Management Office (to be established)",
+      "tiers": "public sector"
+    },
+    {
+      "system": "National Artificial Intelligence Strategy",
+      "country_label": "National AI Strategy (to be formulated)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "AI Unit under Ministry of IT",
+      "tiers": "national"
+    },
+    {
+      "system": "Cyber Resilience and Cybersecurity Strategy",
+      "country_label": "Cyber Resilience and Cybersecurity Strategy (to be adopted)",
+      "class": "thematic",
+      "platform": "",
+      "owner": "NCRCSA",
+      "tiers": "national"
+    },
+    {
+      "system": "National Digital Services Framework",
+      "country_label": "National Digital Services Framework (to be adopted)",
+      "class": "government",
+      "platform": "",
+      "owner": "MITCI",
+      "tiers": "public services"
+    },
+    {
+      "system": "Unified Government Portal / Government Super App",
+      "country_label": "Unified Government Portal",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national"
+    },
+    {
+      "system": "InfoHighway",
+      "country_label": "InfoHighway data exchange",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "government systems"
+    },
+    {
+      "system": "Mobile ID / National Identity Management Framework",
+      "country_label": "Mobile ID, NIMF",
+      "class": "",
+      "platform": "",
+      "owner": "Government",
+      "tiers": "national"
+    }
+  ],
+  "note": "Whole-of-government blueprint; no adopting act named in the text. No report on delivery in this document, so no reporting fact."
+}

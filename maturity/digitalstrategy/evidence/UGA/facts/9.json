@@ -1,12 +1,44 @@
 {
   "slug": "2026-08-13-uganda-ethio-telecom-digital-partnership-talks",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The article gives Uganda's digital roadmap a period of 2023 to 2027; its published date 2026-08-13 is used as the as-of and falls inside that period. Text public: not stated", "as_of": "2026-08-13", "date_precision": "day", "system": "2023-2027 digital roadmap", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The article says the 2023-2027 digital roadmap includes extending the national backbone to over 73 districts and 20 cities, 95% of government services online, broadband to 90% of the territory and most SMEs connected; no cost is stated; published date 2026-08-13 used as the as-of.", "as_of": "2026-08-13", "date_precision": "day", "system": "2023-2027 digital roadmap", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2028",
+      "fact": "The article gives Uganda's digital roadmap a period of 2023 to 2027; its published date 2026-08-13 is used as the as-of and falls inside that period. Text public: not stated",
+      "as_of": "2026-08-13",
+      "date_precision": "day",
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The article says the 2023-2027 digital roadmap includes extending the national backbone to over 73 districts and 20 cities, 95% of government services online, broadband to 90% of the territory and most SMEs connected; no cost is stated; published date 2026-08-13 used as the as-of.",
+      "as_of": "2026-08-13",
+      "date_precision": "day",
+      "system": "Digital Transformation Roadmap 2023/24-2027/28",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "2023-2027 digital roadmap", "country_label": "digital roadmap", "class": "", "platform": "", "owner": "", "tiers": "national backbone, government services, broadband, SMEs"},
-    {"system": "Vision 2040", "country_label": "Vision 2040", "class": "development-plan", "platform": "", "owner": "government", "tiers": "national"}
+    {
+      "system": "2023-2027 digital roadmap",
+      "country_label": "digital roadmap",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national backbone, government services, broadband, SMEs"
+    },
+    {
+      "system": "Vision 2040",
+      "country_label": "Vision 2040",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "government",
+      "tiers": "national"
+    }
   ],
   "note": "The roadmap's targets span infrastructure, state services and SMEs, but the article does not state who adopted it, so class is left empty; its period (2023-2027) differs from other documents' 2023-2028 and 2024-2028."
 }

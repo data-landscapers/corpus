@@ -1,19 +1,104 @@
 {
   "slug": "2025-01-01-driving-digital-transformation-benin",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The GSMA study says the government has set out a digital strategy for the next three years, in line with the Government Action Programme 2021-2026; no adopting act is named, and the document is dated January 2025 (the supporting budget presentation is November 2023).", "as_of": "2023-11", "date_precision": "month", "system": "Government's digital strategy over the next 3 years", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The study says the digital strategy is overseen by the Ministry of Digital Economy and implemented through ARCEP and the Agency for Information Systems and Digital Technology (ASIN); it gives no date, so its published date of January 2025 applies.", "as_of": "2025-01", "date_precision": "month", "system": "Government's digital strategy over the next 3 years", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "The Minister for Digitalisation's budget presentation to the National Assembly's budget committee in November 2023 said CFA 12.79 billion would be used for digital transformation projects, which the study lists among the strategy's priorities.", "as_of": "2023-11", "date_precision": "month", "system": "Government's digital strategy over the next 3 years", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:donor", "fact": "The study says the World Bank support programme of the Government Action Programme and the digital strategy, with digitalisation of public service delivery as a key priority, is a USD 150 million funded programme with targets to December 2028 (World Bank report of August 2024).", "as_of": "2024-08", "date_precision": "month", "system": "Government's digital strategy over the next 3 years", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The GSMA study says the government has set out a digital strategy for the next three years, in line with the Government Action Programme 2021-2026; no adopting act is named, and the document is dated January 2025 (the supporting budget presentation is November 2023).",
+      "as_of": "2023-11",
+      "date_precision": "month",
+      "system": "Digital strategy 2021-2026",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The study says the digital strategy is overseen by the Ministry of Digital Economy and implemented through ARCEP and the Agency for Information Systems and Digital Technology (ASIN); it gives no date, so its published date of January 2025 applies.",
+      "as_of": "2025-01",
+      "date_precision": "month",
+      "system": "Digital strategy 2021-2026",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "The Minister for Digitalisation's budget presentation to the National Assembly's budget committee in November 2023 said CFA 12.79 billion would be used for digital transformation projects, which the study lists among the strategy's priorities.",
+      "as_of": "2023-11",
+      "date_precision": "month",
+      "system": "Digital strategy 2021-2026",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:donor",
+      "fact": "The study says the World Bank support programme of the Government Action Programme and the digital strategy, with digitalisation of public service delivery as a key priority, is a USD 150 million funded programme with targets to December 2028 (World Bank report of August 2024).",
+      "as_of": "2024-08",
+      "date_precision": "month",
+      "system": "Digital strategy 2021-2026",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Government Action Programme 2021-2026 (GAP)", "country_label": "Programme d'Action du Gouvernement 2021-2026", "class": "development-plan", "platform": "", "owner": "Government of Benin", "tiers": "national; digitalisation of the economy is a key pillar; a USD 20 billion action plan approved per the study"},
-    {"system": "National Development Plan 2018-2025 (PND)", "country_label": "Plan National de Développement 2018-2025", "class": "development-plan", "platform": "", "owner": "Government of Benin", "tiers": "national"},
-    {"system": "Benin Revealed Programme of Action 2016-2021", "country_label": "Bénin Révélé", "class": "development-plan", "platform": "", "owner": "Government of Benin", "tiers": "national; the previous programme the GAP builds on"},
-    {"system": "Smart Gouv", "country_label": "Smart Gouv (e-government strategy)", "class": "government", "platform": "", "owner": "Government of Benin", "tiers": "national; study reports more than 80% of initial objectives achieved, phase 2 in the budget presentation"},
-    {"system": "National Artificial Intelligence and Big Data Strategy 2023-2027", "country_label": "Stratégie nationale d'intelligence artificielle et des mégadonnées 2023-2027", "class": "thematic", "platform": "", "owner": "Government of Benin", "tiers": "national"},
-    {"system": "Telecom infrastructure master plan 2021-2030", "country_label": "Schéma directeur des infrastructures télécoms 2021-2030", "class": "sector-ict", "platform": "", "owner": "Ministry of Digital Economy and Communication", "tiers": "national"},
-    {"system": "Economic Governance for Service Delivery Program", "country_label": "Benin Economic Governance for Service Delivery Program", "class": "programme", "platform": "", "owner": "World Bank with Government of Benin", "tiers": "national; USD 150 million, e-government targets to December 2028"}
+    {
+      "system": "Government Action Programme 2021-2026 (GAP)",
+      "country_label": "Programme d'Action du Gouvernement 2021-2026",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Benin",
+      "tiers": "national; digitalisation of the economy is a key pillar; a USD 20 billion action plan approved per the study"
+    },
+    {
+      "system": "National Development Plan 2018-2025 (PND)",
+      "country_label": "Plan National de Développement 2018-2025",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Benin",
+      "tiers": "national"
+    },
+    {
+      "system": "Benin Revealed Programme of Action 2016-2021",
+      "country_label": "Bénin Révélé",
+      "class": "development-plan",
+      "platform": "",
+      "owner": "Government of Benin",
+      "tiers": "national; the previous programme the GAP builds on"
+    },
+    {
+      "system": "Smart Gouv",
+      "country_label": "Smart Gouv (e-government strategy)",
+      "class": "government",
+      "platform": "",
+      "owner": "Government of Benin",
+      "tiers": "national; study reports more than 80% of initial objectives achieved, phase 2 in the budget presentation"
+    },
+    {
+      "system": "National Artificial Intelligence and Big Data Strategy 2023-2027",
+      "country_label": "Stratégie nationale d'intelligence artificielle et des mégadonnées 2023-2027",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Government of Benin",
+      "tiers": "national"
+    },
+    {
+      "system": "Telecom infrastructure master plan 2021-2030",
+      "country_label": "Schéma directeur des infrastructures télécoms 2021-2030",
+      "class": "sector-ict",
+      "platform": "",
+      "owner": "Ministry of Digital Economy and Communication",
+      "tiers": "national"
+    },
+    {
+      "system": "Economic Governance for Service Delivery Program",
+      "country_label": "Benin Economic Governance for Service Delivery Program",
+      "class": "programme",
+      "platform": "",
+      "owner": "World Bank with Government of Benin",
+      "tiers": "national; USD 150 million, e-government targets to December 2028"
+    }
   ],
   "note": ""
 }

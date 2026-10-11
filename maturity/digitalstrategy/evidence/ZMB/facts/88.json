@@ -1,13 +1,52 @@
 {
   "slug": "2023-01-01-review-of-operations-and-management-of-smart-zambia-national-assembly",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "A National Assembly committee report names SZI's e-Government Master Plan 2018 to 2030 and describes the SMART Zambia goal as in line with it, so the stated period ran 2018-2030 and covered the report's date; it does not describe the plan's scope or give its text. The report is dated by year only (2023, from its internal data as of December 2022). Text public: not stated", "as_of": "2023", "date_precision": "year", "system": "e-Government Master Plan 2018 to 2030", "class": ""},
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The committee report says the Government of the Republic of Zambia launched the SMART Zambia Agenda in September 2015 and consequently established the Smart Zambia Institute; no adopting act or approving body is named.", "as_of": "2015-09", "date_precision": "month", "system": "SMART Zambia Agenda", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "open",
+      "fact": "A National Assembly committee report names SZI's e-Government Master Plan 2018 to 2030 and describes the SMART Zambia goal as in line with it, so the stated period ran 2018-2030 and covered the report's date; it does not describe the plan's scope or give its text. The report is dated by year only (2023, from its internal data as of December 2022). Text public: not stated",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "National Electronic Government Plan and SMART Zambia",
+      "class": "government"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The committee report says the Government of the Republic of Zambia launched the SMART Zambia Agenda in September 2015 and consequently established the Smart Zambia Institute; no adopting act or approving body is named.",
+      "as_of": "2015-09",
+      "date_precision": "month",
+      "system": "National Electronic Government Plan and SMART Zambia",
+      "class": "government"
+    }
   ],
   "systems": [
-    {"system": "e-Government Master Plan 2018 to 2030", "country_label": "e-Government Master Plan", "class": "", "platform": "", "owner": "Smart Zambia Institute (Electronic Government Division, Office of the President)", "tiers": "public sector; scope not described in this document"},
-    {"system": "SMART Zambia Agenda", "country_label": "", "class": "", "platform": "", "owner": "Government of the Republic of Zambia; Smart Zambia Institute", "tiers": "scope not described beyond a goal of social and economic transformation through ICT"},
-    {"system": "SZI e-Government plan", "country_label": "", "class": "government", "platform": "", "owner": "Smart Zambia Institute", "tiers": "public sector; target of 1,578 electronic services, 400 on-boarded a year"}
+    {
+      "system": "e-Government Master Plan 2018 to 2030",
+      "country_label": "e-Government Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "Smart Zambia Institute (Electronic Government Division, Office of the President)",
+      "tiers": "public sector; scope not described in this document"
+    },
+    {
+      "system": "SMART Zambia Agenda",
+      "country_label": "",
+      "class": "",
+      "platform": "",
+      "owner": "Government of the Republic of Zambia; Smart Zambia Institute",
+      "tiers": "scope not described beyond a goal of social and economic transformation through ICT"
+    },
+    {
+      "system": "SZI e-Government plan",
+      "country_label": "",
+      "class": "government",
+      "platform": "",
+      "owner": "Smart Zambia Institute",
+      "tiers": "public sector; target of 1,578 electronic services, 400 on-boarded a year"
+    }
   ],
   "note": "Class is left empty on both facts: the report dates the Agenda and the Master Plan but does not describe their scope. The excerpt is truncated at source length."
 }

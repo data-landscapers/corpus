@@ -1,11 +1,34 @@
 {
   "slug": "2025-08-06-govt-launches-new-digital-emergency-telecommunications-plans",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "The Namibian reports that the Minister of Information and Communication Technology 'officially launched' the National Digital Strategy (NDS) on Tuesday (5 August 2025, the day before the 6 August report); no Cabinet or other adopting act is named. The NDS is described as a framework for Namibia's holistic digital advancement supporting socio-economic and environmental development, which the minister addressed to youth, entrepreneurs, educators, health workers, farmers and labourers.", "as_of": "2025-08-05", "date_precision": "day", "system": "National Digital Strategy (NDS)", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "announced",
+      "fact": "The Namibian reports that the Minister of Information and Communication Technology 'officially launched' the National Digital Strategy (NDS) on Tuesday (5 August 2025, the day before the 6 August report); no Cabinet or other adopting act is named. The NDS is described as a framework for Namibia's holistic digital advancement supporting socio-economic and environmental development, which the minister addressed to youth, entrepreneurs, educators, health workers, farmers and labourers.",
+      "as_of": "2025-08-05",
+      "date_precision": "day",
+      "system": "National Digital Strategy 2025-2029",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Strategy (NDS)", "country_label": "National Digital Strategy", "class": "national", "platform": "", "owner": "Ministry of Information and Communication Technology (MICT)", "tiers": "framework for holistic digital advancement; launched 5 August 2025 by the Minister"},
-    {"system": "National Emergency Telecommunications Plan (NETP)", "country_label": "National Emergency Telecommunications Plan", "class": "thematic", "platform": "", "owner": "MICT", "tiers": "launched alongside the NDS; guides telecom response to disasters"}
+    {
+      "system": "National Digital Strategy (NDS)",
+      "country_label": "National Digital Strategy",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information and Communication Technology (MICT)",
+      "tiers": "framework for holistic digital advancement; launched 5 August 2025 by the Minister"
+    },
+    {
+      "system": "National Emergency Telecommunications Plan (NETP)",
+      "country_label": "National Emergency Telecommunications Plan",
+      "class": "thematic",
+      "platform": "",
+      "owner": "MICT",
+      "tiers": "launched alongside the NDS; guides telecom response to disasters"
+    }
   ],
   "note": ""
 }

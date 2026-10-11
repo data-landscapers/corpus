@@ -1,26 +1,26 @@
 {
- "slug": "2024-11-01-eswatini-digital-readiness-assessment",
- "facts": [
-  {
-   "sub_indicator": "national",
-   "aspect": "governance",
-   "value": "finance:not-stated",
-   "fact": "The assessment (launched November 2024) reports that 28% of stakeholders noted the absence of a dedicated budget for Eswatini's digital initiatives and that funding is inconsistent and ad hoc; no budget line tied to the national digital strategy is stated.",
-   "as_of": "2024-11",
-   "date_precision": "month",
-   "system": "national digital strategy",
-   "class": ""
-  }
- ],
- "systems": [
-  {
-   "system": "national digital strategy",
-   "country_label": "national digital strategy",
-   "class": "",
-   "platform": "",
-   "owner": "Ministry of ICT (task force to coordinate)",
-   "tiers": "unnamed; scope not described"
-  }
- ],
- "note": "The report says 'a national digital strategy is in place' without naming it or describing its scope, so facts are recorded with class empty. No adoption verb, period or act is given."
+  "slug": "2024-11-01-eswatini-digital-readiness-assessment",
+  "facts": [
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:not-stated",
+      "fact": "The assessment (launched November 2024) reports that 28% of stakeholders noted the absence of a dedicated budget for Eswatini's digital initiatives and that funding is inconsistent and ad hoc; no budget line tied to the national digital strategy is stated.",
+      "as_of": "2024-11",
+      "date_precision": "month",
+      "system": "Eswatini Digitalisation Strategy 2024-2028",
+      "class": "government"
+    }
+  ],
+  "systems": [
+    {
+      "system": "national digital strategy",
+      "country_label": "national digital strategy",
+      "class": "",
+      "platform": "",
+      "owner": "Ministry of ICT (task force to coordinate)",
+      "tiers": "unnamed; scope not described"
+    }
+  ],
+  "note": "The report says 'a national digital strategy is in place' without naming it or describing its scope, so facts are recorded with class empty. No adoption verb, period or act is given."
 }

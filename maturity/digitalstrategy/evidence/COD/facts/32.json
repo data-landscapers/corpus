@@ -1,14 +1,62 @@
 {
   "slug": "2025-10-11 La RDC prevoit 1,5 milliard $ de budget pour son Plan national du numerique et de l'IA 2026-2030 (Agence Ecofin)",
   "facts": [
-    {"sub_indicator": "national", "aspect": "standing", "value": "drafting", "fact": "Agence Ecofin reports that the digital economy minister launched the drafting of the Plan national du numérique et de l'IA 2026-2030 (PNN2) on 8 October 2025, with four pillars: infrastructure and connectivity, digital platforms and public services, human capital and inclusion, cybersecurity and digital trust.", "as_of": "2025-10-08", "date_precision": "day", "system": "Plan national du numérique et de l'IA 2026-2030 (PNN2)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "governance", "value": "finance:domestic", "fact": "Agence Ecofin states the government plans US$1 billion of public investment over five years for the PNN2, plus US$500 million of external support already guaranteed by international partners.", "as_of": "2025-10-08", "date_precision": "day", "system": "Plan national du numérique et de l'IA 2026-2030 (PNN2)", "class": "national"},
-    {"sub_indicator": "national", "aspect": "reporting", "value": "activity", "fact": "Agence Ecofin reports the ministry estimates the earlier Plan National du Numérique Horizon 2025 (2019) is about 60% complete, citing the CAB5 fibre, an online tax portal, a customs single window, civil-registry digitisation and a digital ID under way; no report against the plan's own targets is cited.", "as_of": "2025-10-11", "date_precision": "day", "system": "Plan National du Numérique – Horizon 2025", "class": "national"}
+    {
+      "sub_indicator": "national",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "Agence Ecofin reports that the digital economy minister launched the drafting of the Plan national du numérique et de l'IA 2026-2030 (PNN2) on 8 October 2025, with four pillars: infrastructure and connectivity, digital platforms and public services, human capital and inclusion, cybersecurity and digital trust.",
+      "as_of": "2025-10-08",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "governance",
+      "value": "finance:domestic",
+      "fact": "Agence Ecofin states the government plans US$1 billion of public investment over five years for the PNN2, plus US$500 million of external support already guaranteed by international partners.",
+      "as_of": "2025-10-08",
+      "date_precision": "day",
+      "system": "Plan national du numérique 2026-2030 (PNN2)",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "reporting",
+      "value": "results",
+      "fact": "Agence Ecofin reports the ministry estimates the earlier Plan National du Numérique Horizon 2025 (2019) is about 60% complete, citing the CAB5 fibre, an online tax portal, a customs single window, civil-registry digitisation and a digital ID under way; no report against the plan's own targets is cited.",
+      "as_of": "2025-10-11",
+      "date_precision": "day",
+      "system": "Plan National du Numérique Horizon 2025",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Plan national du numérique et de l'IA 2026-2030 (PNN2)", "country_label": "PNN2", "class": "national", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; four pillars plus five cross-cutting themes (entrepreneurship, innovation, technological sovereignty, AI, partnerships)"},
-    {"system": "Plan National du Numérique – Horizon 2025", "country_label": "PNN", "class": "national", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national; 2019; succeeded by PNN2"},
-    {"system": "National AI strategy (Congolese Academy of AI to be created under it)", "country_label": "", "class": "thematic", "platform": "", "owner": "Ministère de l'Économie numérique", "tiers": "national"}
+    {
+      "system": "Plan national du numérique et de l'IA 2026-2030 (PNN2)",
+      "country_label": "PNN2",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; four pillars plus five cross-cutting themes (entrepreneurship, innovation, technological sovereignty, AI, partnerships)"
+    },
+    {
+      "system": "Plan National du Numérique – Horizon 2025",
+      "country_label": "PNN",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national; 2019; succeeded by PNN2"
+    },
+    {
+      "system": "National AI strategy (Congolese Academy of AI to be created under it)",
+      "country_label": "",
+      "class": "thematic",
+      "platform": "",
+      "owner": "Ministère de l'Économie numérique",
+      "tiers": "national"
+    }
   ],
   "note": ""
 }

@@ -1,11 +1,34 @@
 {
   "slug": "2026-08-19-kenya-120000-digital-skills-training",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The 19 August 2026 report cites the Kenya National Digital Master Plan 2022-2032 as the framework for the Communications Authority's digital skilling target, so the as-at date falls inside its period; the document gives only digital-skills objectives, not the plan's scope.", "as_of": "2026-08-19", "date_precision": "day", "system": "Kenya National Digital Master Plan 2022-2032", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "The 19 August 2026 report cites the Kenya National Digital Master Plan 2022-2032 as the framework for the Communications Authority's digital skilling target, so the as-at date falls inside its period; the document gives only digital-skills objectives, not the plan's scope.",
+      "as_of": "2026-08-19",
+      "date_precision": "day",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "Kenya National Digital Master Plan 2022-2032", "country_label": "Kenya National Digital Master Plan 2022-2032", "class": "", "platform": "", "owner": "", "tiers": "national; cited for connectivity and digital skills objectives; scope not described"},
-    {"system": "Digital Skilling Project", "country_label": "Digital Skilling Project", "class": "programme", "platform": "", "owner": "Communications Authority, Universal Service Fund", "tiers": "19 counties; target 120,000 people over three years"}
+    {
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "country_label": "Kenya National Digital Master Plan 2022-2032",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": "national; cited for connectivity and digital skills objectives; scope not described"
+    },
+    {
+      "system": "Digital Skilling Project",
+      "country_label": "Digital Skilling Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "Communications Authority, Universal Service Fund",
+      "tiers": "19 counties; target 120,000 people over three years"
+    }
   ],
   "note": "Master Plan period fact has empty class: the report states the period but not the plan's scope."
 }

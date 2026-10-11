@@ -1,11 +1,36 @@
 {
   "slug": "2026-01-01-mzalendo-trust-building-a-resilient-kenya-malabo",
   "facts": [
-    {"sub_indicator": "national", "aspect": "period", "value": "current", "fact": "The Mzalendo Trust policy brief names the National Digital Master Plan 2022-2032; the brief gives no event date, so its published date, 2026-01-01, is used, and it does not say whether the plan's text is public.", "as_of": "2026-01-01", "date_precision": "year", "system": "National Digital Master Plan 2022-2032", "class": ""},
-    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The brief says the National Digital Master Plan 2022-2032 targets digitalising 80% of government services and deploying 100,000 km of fibre optic infrastructure, and states no cost; the published date, 2026-01-01, is used.", "as_of": "2026-01-01", "date_precision": "year", "system": "National Digital Master Plan 2022-2032", "class": ""}
+    {
+      "sub_indicator": "national",
+      "aspect": "period",
+      "value": "to:2032",
+      "fact": "The Mzalendo Trust policy brief names the National Digital Master Plan 2022-2032; the brief gives no event date, so its published date, 2026-01-01, is used, and it does not say whether the plan's text is public.",
+      "as_of": "2026-01-01",
+      "date_precision": "year",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    },
+    {
+      "sub_indicator": "national",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The brief says the National Digital Master Plan 2022-2032 targets digitalising 80% of government services and deploying 100,000 km of fibre optic infrastructure, and states no cost; the published date, 2026-01-01, is used.",
+      "as_of": "2026-01-01",
+      "date_precision": "year",
+      "system": "Kenya National Digital Master Plan 2022-2032",
+      "class": "national"
+    }
   ],
   "systems": [
-    {"system": "National Digital Master Plan 2022-2032", "country_label": "National Digital Master Plan", "class": "", "platform": "", "owner": "Government of Kenya", "tiers": "national"}
+    {
+      "system": "National Digital Master Plan 2022-2032",
+      "country_label": "National Digital Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    }
   ],
   "note": "The brief gives two targets of the Master Plan but does not describe whether it spans the economy and the state, so class is left empty."
 }
