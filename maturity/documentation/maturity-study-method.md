@@ -68,17 +68,17 @@ Output: `systems.csv`, one row per named thing per country.
 
 **The parent verifies files, not tallies**: slugs resolve in `raw/` and sampled facts match the body.
 
-## 5. Search: only on Bill's word
+## 5. Search: the update's work, not the study's
 
-**A study does not search the web and hands nothing to OSINT.** A question nothing held answers is printed as *Not held*, and the ordinary sweeps fill it; `MATURITY-UPDATE.md` picks up what arrives.
+**A study populates its indicator from what is held** *(Bill, 2026-10-11)*: it does not search the web and hands nothing to OSINT. A question nothing held answers is printed as *Not held*. **The rotation in `MATURITY-UPDATE.md` searches for those gaps, a few cells a turn**, and this section is how.
 
-**Where Bill asks for a search**, it runs as before: one Exa brief per country with an unanswered question, searchers on Sonnet to `searcher-brief.md`, `scripts/study-stage.py` to fetch and stage. Candidates go flat to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, `READY` written last, under one `[ACT]` note titled *Maturity study {id}: evidence to ingest* with `Affects: outputs/maturity/{id}/`. `python scripts/lint-staged-queue.py {folder}` passes before the note. Records go in `maturity/{id}/search/`; candidate bodies are never committed.
+One Exa brief per cell with an unanswered question, searchers on Sonnet to `searcher-brief.md`, `scripts/study-stage.py` to fetch and stage. Candidates go flat to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, `READY` written last, under one `[ACT]` note titled *Maturity study {id}: evidence to ingest* with `Affects: outputs/maturity/{id}/`. `python scripts/lint-staged-queue.py {folder}` passes before the note. Records go in `maturity/{id}/search/`; candidate bodies are never committed.
 
 **A found document reaches the study only through ingest** *(Bill)*.
 
 ## 6. After a search
 
-**The run waits until the note has moved to `notes-for-osint-resolved.md`** and the mirror's `cycle-manifest.json` is later than the move. `scripts/study-returned.py {id}` checks every row of `staged.csv` against the mirror's URL indexes, `study-select.py --add` lists what was admitted, and it is read as §4. The spent handover is deleted in the same commit. "**complete maturity study {id}**" resumes the run.
+**What ingest admits arrives through `MATURITY-UPDATE.md` stage 4c**, like any other document. `scripts/study-returned.py {id}` checks `staged.csv` against the mirror's URL indexes once the note has closed, and the spent handover is deleted in the same commit.
 
 ## 7. Stage
 

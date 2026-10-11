@@ -36,7 +36,7 @@ first, on `unit-review.py`'s own test of whether a cycle is unattended; and it n
 every indicator has been reassessed inside `MIN_GAP_DAYS`, so two indicators are not worked on
 alternate nights for ever. An indicator joins when its study has an issued `assessment.csv`.
 
-**The standing search is yearly** *(Bill)*. `order` and `next` print a line for any study whose
+**The rotation searches** *(Bill, 2026-10-11)*, and stamps `searched`; the yearly line is the backstop. `order` and `next` print a line for any study whose
 `study.json` -> `searched` is more than a year old; the runbook says what to do with it.
 
 Exit: 0 done or work printed, 1 nothing owed, 2 a file or an argument is wrong.

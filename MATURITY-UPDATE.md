@@ -3,14 +3,14 @@ type: runbook
 reader: cc
 title: The maturity update — BUILD stage 4c and the indicator rotation — instruction for Claude Code
 opened: 2026-10-09
-last_reviewed: 2026-10-09
+last_reviewed: 2026-10-11
 ---
 
 # The maturity update — keeping a finished study current
 
 *(Commissioned by Bill on 2026-10-09. `maturity/documentation/maturity-study-method.md` makes a study; this keeps what it issued true. OSINT is read-only throughout.)*
 
-**The one-line brief.** *A study stages an indicator once. Every night's arrivals are read for facts that bear on it, a fact that could move a cell has the cell reassessed, and in rotation each indicator is reassessed whole, all 54 countries against the one ladder.*
+**The one-line brief.** *A study stages an indicator once. Every night's arrivals are read for facts that bear on it, a fact that could move a cell has the cell reassessed, and in rotation each indicator is reassessed whole, all 54 countries against the one ladder, and searched for what it does not hold.*
 
 `scripts/study-update.py` is the mechanical half and its docstring holds the files and the rotation's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries. **CC does the work itself, in the run; no agent is started.**
 
@@ -79,9 +79,15 @@ python scripts/study-update.py next           # any other cycle
 6. **A rung that the pass shows is read two ways is not rewritten here.** That is a change to the ladder and Bill's: write it as a block in `messages-for-bill.md` with the two readings and the countries each would move, and stage on the wording as it stands. When he rules, the restaging is logged `--kind ladder`.
 7. **Fold, check and stamp**: step 9 above, then `python scripts/study-update.py done {id} {key}`, and commit as step 10 with `logs/maturity-review.csv`.
 
-## The standing search is yearly
+## The rotation searches for what is not held
 
-`order` and `next` print `standing search due` for a study whose `study.json` → `searched` is over a year old. **The search is the method's §5, and it spends OSINT's quota**, so it is not started by a cycle: add one job to `C:\corpus-osint-xfer\corpus-housekeeping.md` naming the study, and Bill starts it. Between searches a study relies on the ordinary collection.
+*(Bill, 2026-10-11.)* **A study populates an indicator from what is held and does not search; the deeper look is here, a little each turn.** After step 7, for tonight's indicator:
+
+1. **Pick at most ten cells whose `gaps` name an unanswered question**: those with no stage first, then the lowest stage, then the cell searched longest ago (`maturity/{id}/search/searched.csv`).
+2. **Search each under the method's §5**: one brief per cell to `searcher-brief.md`, `scripts/study-stage.py` to fetch and stage, the handover and its one `[ACT]` note. This is the one place the runbook starts agents.
+3. **Stamp `study.json` → `searched`** with the date and commit with the rotation.
+
+**What ingest admits comes back through stage 4c** like any other arrival; nothing waits on it. A turn with no cell to search says so in its log line.
 
 ## What the site shows
 
@@ -89,4 +95,4 @@ python scripts/study-update.py next           # any other cycle
 
 ## Boundary
 
-Nothing here writes to `C:\OSINT`. A defect in a held record is an `[ACT]` note with its `Affects:` line; a document the indicator needs and the catalogue lacks waits for the yearly search.
+Nothing here writes to `C:\OSINT`. A defect in a held record is an `[ACT]` note with its `Affects:` line; a document the indicator needs and the catalogue lacks is what the rotation's search asks for.
