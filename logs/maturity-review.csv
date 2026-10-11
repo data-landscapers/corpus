@@ -1,6 +1,10 @@
 study,key,indicator_id,last_reviewed
+dataprotectionauthority,body,gov.protect--data-protection-authority-supervisory-authority,
+dataprotectionlaw,general,gov.legislate--data-protection-legislation-general-law,
+digitalstrategy,national,gov.policy--digital-transformation-strategy-national-strategy,
 health,hmis,digital.rural--digitalisation-of-rural-health-clinics-hmis,2026-10-11
 health,emr,digital.rural--digitalisation-of-rural-health-clinics-emr,2026-10-10
+ictstrategy,sector,gov.policy--ict-strategy-sector-policy,
 localgov,connection,digital.localgov--ict-infrastructure-for-local-government-office-connection,
 localrecords,revenue,digital.localgov--digitalisation-of-local-government-records-revenue-records,
 police,record,digital.rural--digitalisation-of-rural-police-stations-station-records,
