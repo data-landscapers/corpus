@@ -79,10 +79,6 @@ status: CC's proposal; criteria prepared, awaiting Bill's rulings (method step 2
 
 **A noted class never places a country.** A country holding an `informal` or `sectoral` body and no authority provided for or proposed is unplaced and flagged, unless a dated source states the absence.
 
-**A dated decision of the body is evidence that it is constituted.**
-
-**Stage 5 has no alignment test**, and a count without the period it covers is `enforcing`.
-
 **The law study's fixes of D3 stand here**: `enforcing` is an identified decision on one controller, never a general deliberation, opinion, authorisation or referral; complaints or breaches received are `active`.
 
 ## 5. The norm
@@ -95,7 +91,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the Malabo Convention, Arti
 - **The review starts from the law study's evidence**: its 264 authority facts, 176 application facts and 89 last-twelve-months facts are carried into `evidence.csv` and revalued to this study's aspects from the fact's own text, with no document opened.
 - **A drafter reads only for a cell the carried facts leave short of a rung test**: standing where the law study holds `provided` or nothing, and the seat where no fact states it.
 - **Resources are read and searched at the fifth rung only**: for a cell that has reached stage 4 on `reported`. Corpus's own budget extract (`budgets/`) is read first.
-- **Source types for the briefs**, ranked: dated news and notices of appointments and dissolutions; the authority's notices of a decision; its annual report; the budget law or its accounts; the gazette notice constituting it; the trackers for standing and a dated absence.
+- **Source types for the briefs**: news and official notices first, then the authority's annual report.
 
 ## 7. Tasks, in order
 
