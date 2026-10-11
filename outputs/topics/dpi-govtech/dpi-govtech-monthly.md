@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; TCD; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bc2ab9b35f69
+record: 54c5a04078cd
 ---
 
 # Other GovTech and e-Gov: monthly update, September – October 2026
@@ -199,6 +199,8 @@ Ondo State followed its payroll platform with [Ondo AI, launched to automate per
 
 The National Assembly's library trust fund [said on 28 September it is building electronic repositories, a legislative app and a Bills Tracker, and will translate federal laws into Hausa, Yoruba, Igbo and other Nigerian languages](https://www.premiumtimesng.com/news/top-news/913159-nass-to-digitise-records-translate-laws-into-local-languages.html). No launch date is stated.
 
+[The state network operator said more than 30 federal agencies have moved onto one platform for paperless approval of documents and memos](https://www.thisdaylive.com/2026/10/11/gbb-promises-to-increase-numbers-of-digitalised-mdas-from-current-30-says-adeyanju/), with no list of agencies or adoption target.
+
 ## Rwanda
 
 The e-government platform's own numbers reached the record this month through an account of other governments coming to study it. [Two hundred and forty-eight public services from close to 50 institutions are online, birth, celibacy and marriage certificates issued through the platform rose from 683,560 in 2020 to 1,977,628 in 2024, and the share processed in under an hour went from 61 per cent to 70 per cent over the same period](https://www.digitalbusiness.africa/e-gouvernance-gabon-guinee-liberia-le-rwanda-attire-les-administrations-africaines-venues-etudier-son-modele-numerique/). The figures are the operator's own and the most recent year is 2024; nothing for 2025 or 2026 is published.
@@ -242,6 +244,8 @@ The public-services portal [moved to a modernised version in September that keep
 ## Tunisia
 
 The national administrative services application [registered 50,000 users in the ten days after launch](https://www.lapresse.tn/2026/09/13/application-khadamet-50-000-utilisateurs-en-dix-jours/). The trade network [opened a web portal for electronic invoicing on 15 September](https://www.tunisienumerique.com/tunisie-tradenet-annonce-le-lancement-a-partir-daujourdhui-du-portail-web-de-la-facturation-electronique/), and the capital's municipality [launched a building permit platform on 14 September](https://www.webmanagercenter.com/2026/09/14/572745/tunisie-lancement-de-la-plateforme-numerique-taamir/). The vocational training agency's registration platform [took about 112,000 applications by 17 September](https://www.radiosfax.tn/article/6aad029387879074d59b0799/%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-112-%D8%A3%D9%84%D9%81-%D8%AA%D8%B1%D8%B4%D8%AD-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF), against 70,000 in 2025. A legal commentary reported [the industrial property institute's digitalised system for trade marks, patents and designs, launched in June 2026](https://www.village-justice.com/articles/tunisie-enjeux-juridiques-nouveau-systeme-digitalise-innorpi,59414.html).
+
+On 11 October [the ministry put its Khadamat public-services app, reached through the mobile digital identity, on a second mobile platform after an Android release at the end of August](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A9-%C2%AB%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%C2%BB-%D9%85%D8%AA%D8%A7%D8%AD%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%C2%AB%D8%A2%D8%A8%D9%84-%D8%B3%D8%AA%D9%88%D8%B1%C2%BB).
 
 ## Uganda
 

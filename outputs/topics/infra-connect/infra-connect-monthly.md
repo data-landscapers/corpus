@@ -1,15 +1,15 @@
 ---
 title: Connectivity — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: infra.connect
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3f3ddea29e9f
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 80aedea61da0
 ---
 
 # Connectivity: monthly update, September – October 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -159,6 +159,10 @@ The Senegalese and Malian state fibre operators [inaugurated the interconnection
 
 A satellite broadband operator [lists Mauritania among sixteen African markets it aims to launch in during 2026](https://maurinews.info/news-reports/95535/), after about two years seeking a licence; the authorities' conditions concern security guarantees and control over data, and an application with a local partner is pending.
 
+## Mauritius
+
+[The regulator opened a call for applications for a mobile number portability licence](https://lexpress.mu/s/garder-son-numero-en-changeant-doperateur-563369); no launch date is given.
+
 ## Mozambique
 
 The regulator answered complaints about data bundles. It [said it is building a tariff management system, due to operate in November 2026, to compare operators' packages, identify the effective price including validity, and stop data running out before a bundle's stated expiry](https://www.incm.gov.mz/2026/09/17/comunicado-incm-desenvolve-sistema-para-maior-transparencia-nas-tarifas-e-pacotes-de-dados/), and that it is restructuring packages in parallel. No rule or sanction has been published yet.
@@ -250,6 +254,8 @@ On 29 September the incumbent's chief executive [put its national fibre network 
 A second international route is being procured under a presidential directive rather than by tender. The state transmission company [cancelled open bidding for a commercialisation partner for its fibre network and moved to prepare a proposal for a single named company for the Uganda-Tanzania connection, the parliamentary committee on state enterprises asking why firms that had expressed interest were dropped](https://nilepost.co.ug/news/368959/uetcl-in-spotlight-over-uganda-tanzania-fibre-connection). A State House letter of 27 August 2025 had told the ICT and energy ministers that a Tanzanian route could be cheaper than the existing route through Kenya, which the President described as full of commercial players looking for profit. No contract, value, timetable or committee finding is held, and the cost comparison is an assertion.
 
 The second operator followed with a service rather than a partnership: it [launched Starlink satellite-to-mobile SMS and light data for compatible smartphones on 24 September](https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/), free for 30 days and then through its data bundles, with no coverage or subscriber figure.
+
+[The President directed cancellation of the agreement to revive the state telecoms operator, the investor having failed to inject an initial US$25m while seeking control of the national backbone](https://nilepost.co.ug/news/376831/museveni-orders-cancellation-of-utel-deal-calls-investors-bafere-over-missing-25-million); a Cabinet paper on a state-funded revival is to follow.
 
 ## Zambia
 

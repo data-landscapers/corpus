@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 2a177a171b59
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 3cc70b996a45
 ---
 
 # Registries (population, land, address, etc.): monthly update, September – October 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -136,6 +136,10 @@ The digital and land ministers [presented a national digital addressing system f
 ## Mozambique
 
 Birth registration is moving into the maternity ward. The justice sector [is installing 100 civil-registration posts in health units with maternity wards so that newborns are registered before leaving hospital](https://jornalnoticias.co.mz/destaque/registo-civil-chega-a-mais-100-maternidades/), beside about 250 already operating in health units. No completion date is given.
+
+## Namibia
+
+[The home affairs minister told the National Assembly that some marriages remain unregistered because church and court registers reach the ministry late or never, a gap the records digitalisation begun in 2021 exposed](https://www.namibian.com.na/home-affairs-minister-iipumbu-urges-married-couples-to-ensure-they-are-registered/). The system relies on physical submission and does not track delivery.
 
 ## Nigeria
 

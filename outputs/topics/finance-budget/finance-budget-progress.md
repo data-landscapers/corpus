@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — progress report, October 2025 – October 2026
-compiled: 2026-10-10
-period: 2025-10-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2025-10-01 to 2026-10-11
 subject: finance.budget
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8742489cf8e6
+record: 47742da3e325
 ---
 
 # Domestic budget appropriations and expenditure: progress report, October 2025 – October 2026

@@ -1,10 +1,10 @@
 ---
 title: Standards — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: gov.standards
 places: BEN; ETH; GAB; GMB; GHA; KEN; LBR; LBY; MLI; MRT; MUS; MOZ; NAM; NGA; RWA; SYC; SSD; SDN; TZA; TGO; TUN; ZMB
-record: 1c8a713f45d8
+record: faac9e3ea921
 ---
 
 # Standards: monthly update, September – October 2026
@@ -32,6 +32,8 @@ The standards bureau's position was restated from both ends this month. Its dire
 ## Ghana
 
 The central bank [directed banks to give their fraud functions direct access to the chief executive, alongside work on implementing the directive](https://www.myjoyonline.com/bog-orders-banks-to-give-fraud-units-direct-access-to-ceos/).
+
+On 8 October [the central bank announced thematic reviews of how banks have implemented the revised cyber and information security directive](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/).
 
 ## Kenya
 

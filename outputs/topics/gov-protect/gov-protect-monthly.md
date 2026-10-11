@@ -1,17 +1,21 @@
 ---
 title: Data protection — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: gov.protect
-places: BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a7eb986dc3a1
+places: AGO; BEN; BWA; CPV; EGY; SWZ; GAB; GHA; KEN; LSO; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 208f505fc020
 ---
 
 # Data protection: monthly update, September – October 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Angola
+
+The data protection agency's own register now gives the full run of its penalties: [15 sanctions between 2022 and 2026, from US$75,000 to US$525,000, with banks, telecoms operators, the national airline and the Luanda water utility among those fined](https://apd.ao/ao/gca/index.php?id=218&preview=1).
 
 ## Benin
 
@@ -42,6 +46,8 @@ The data protection authority described itself, which is the most the record hol
 ## Ghana
 
 The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been published. The President [confirmed publicly in New York that Cabinet rejected the United States health agreement](https://ghananewsglobal.com/president-mahama-defends-rejection-of-u-s-health-compact-calls-terms-humiliating-and-a-threat-to-sovereignty/) over demands for pathogen samples, medical records and exemption from the food and drugs regulator; the United States chargé d'affaires [said on 29 September it was meant to taper assistance toward country ownership](https://gna.org.gh/2026/09/u-s-seeks-transition-from-health-aid-dependency-to-country-ownership-rolf-olson/).
+
+The refused health agreement is back on the table: [the President said the United States had asked to reopen the compact, to amend or remove the clauses Ghana objected to on pathogen profiles and medical records](https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/).
 
 ## Kenya
 

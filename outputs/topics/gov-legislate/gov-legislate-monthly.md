@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CMR; TCD; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LSO; LBY; MDG; MUS; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 74f067a187f7
+record: 69e4c5d05e26
 ---
 
 # Legislation and regulation: monthly update, September – October 2026
@@ -71,6 +71,8 @@ The press bill cleared the lower house: [the Chamber of Deputies unanimously app
 
 The 2024 social-media and computer-crime law was used in court for the first time on the public record. On 16 September lawyers for the vice-president [lodged four criminal complaints at a Malabo investigating court against a digital newspaper's journalist and three others under articles 2, 50 and 60](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas), using article 2 to reach conduct committed outside the country. The complaints came while Facebook and TikTok remained blocked.
 
+[A Senate committee approved by consensus its final report on the press freedom bill and sent it to the plenary](https://ahoraeg.com/politica/2026/10/08/la-nueva-ley-de-libertad-de-prensa-avanza-al-pleno-del-senado-tras-el-consenso-alcanzado-por-la-comision/).
+
 ## Eritrea
 
 The central bank tightened its hold on cash a second time. After the June order to deposit holdings by 31 July, Legal Notice No. 134/2026 of 9 September [caps the cash an individual may keep beyond 15 days at 25,000 nakfa, and private institutions at 50,000, 100,000 or 150,000 nakfa by grade, in force on publication](https://martinplaut.com/2026/09/18/eritreas-new-cash-restrictions/). The notice is known through a human-rights group's statement rather than its own text, and that statement records no cash machines or cards and thin branch access outside the main towns. Neither what counts as an acceptable reason for holding more nor the penalty is defined.
@@ -125,6 +127,8 @@ A third bill was set out in public rather than in print. The ICT minister said t
 
 The 2025 law on electronic transferable records was used for the first time. A commercial bank [took five electronic bills of exchange from a trading group, created in under 30 minutes and transferred in under an hour](https://tradetreasurypayments.com/articles/exclusive-africa-s-first-electronic-bill-of-exchange-goes-live-under-mauritian-law), under the Finance Act 2025 amendment that made Mauritius the first African jurisdiction to adopt the UNCITRAL model law on the subject. The ICT minister [said on 29 September that the provisions for paying fines online take effect on 30 October 2026](https://defimedia.info/paiement-en-ligne-des-amendes-le-systeme-bientot-mis-en-place), for fines carrying no penalty points; the Bill's enactment is not on record. The ICT ministry and Meta [are to discuss a framework agreement on online safety at working sessions on 6 and 7 October](https://lexpress.mu/node/563208), covering moderation of content in Mauritian Creole, child protection, takedown requests and a possible requirement for local representation; nothing is signed. A law firm's reading has the amendment Act [recognise electronic transferable records and contracts formed by automated message systems](https://www.applebyglobal.com/publications/from-e-signatures-to-ai-driven-contracts-how-mauritius-is-rewriting-the-rules-of-digital-transactions/). The ICT ministry [held its working session with Meta on faster content removal, Kreol moderation and proposed amendments to the Cybersecurity and Cybercrime Act, with no framework yet signed](https://mitci.govmu.org/mitci/government-engages-meta-to-curb-online-abuse-for-safer-digital-environment/).
 
+[The government said bills and amendments on cybersecurity, cybercrime and the ICT Act are in preparation](https://lexpress.mu/node/563366), and [the minister described a framework agreement being negotiated with a platform operator on takedowns and verified identities](https://lexpress.mu/s/avinash-ramtohul-il-faut-apporter-un-peu-de-discipline-dans-les-reseaux-sociaux-563444). No text or date is published.
+
 ## Mozambique
 
 On 15 September the Council of Ministers [approved a Postal Security Regulation](https://mznews.co.mz/governo-aprova-vovo-regulamento-para-reforcar-a-seguranca-postal-e-proteger-o-comercio-electronico/) setting controls against fraud, theft and cyber threats to the postal network as e-commerce parcels grow; its text is not held.
@@ -144,6 +148,8 @@ The online press answered the draft ordinance in its own name: fourteen editors 
 ## Nigeria
 
 The platform penalty moved toward a deal: Meta [is negotiating a settlement with the commission after a first appeal was rejected](https://www.africaintelligence.fr/afrique-ouest/2026/09/14/apres-son-amende-de-220-millions-de-dollars-meta-tente-de-negocier-un-compromis-avec-abuja,110876270-art), on a single paywalled account. [The Nigerian Fintech Regulatory Commission Bill passed second reading in the House of Representatives in October 2025 and had a public hearing on 2 March 2026; it would create a single licensing gateway beside the central bank and the securities regulator, and is still pending](https://businesstech.ng/fintech-regulatory-commission-bill-nigeria/).
+
+[Lagos State said it is working on an innovation bill to give research and innovation incentives, dedicated funding and a legal basis](https://techtrends.africa/lagos-backs-ai-builders-over-ai-buyers-at-the-nigeria-innovation-summit-11-0/), with no timeline.
 
 ## Senegal
 

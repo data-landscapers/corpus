@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: dpi.mis
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MWI; MLI; MRT; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f1ceaaa1df51
+record: a0f5599f632b
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, September – October 2026
@@ -104,6 +104,8 @@ The month's one management system came from outside government. The Gambia Red C
 The health insurer [described electronic claims, biometric member verification and one-time attendance codes as in operation, with active membership at 70% in August 2026 against an 80% year-end target](https://theoverseeronline.com/victor-bampoe-2-3/), its own account with no claims or rejection figures.
 
 The education ministry [said more than 6,000 of 8,000 complaints against this year's computerised school placements had been resolved](https://onuaonline.com/cssps-over-6000-of-8000-complaints-resolved-sept-18-reopening-date-unchanged/), with reopening left at 18 September.
+
+[The revenue authority said collection of the tax on cross-border digital services through its Sentinel system starts on 15 October 2026](https://www.graphic.com.gh/business/business-news/gras-new-system-to-collect-digital-vat.html).
 
 ## Guinea-Bissau
 

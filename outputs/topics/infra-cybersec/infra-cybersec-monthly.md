@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: infra.cybersec
-places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
-record: caf747537f7c
+places: DZA; BEN; BFA; CMR; CPV; TCD; COM; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MWI; MRT; MUS; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZWE
+record: 2744d88a00a9
 ---
 
 # Cybersecurity: monthly update, September – October 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -55,6 +55,8 @@ On 29 September the Information Network Security Administration and the central 
 
 The government [raised its vigilance level after more than 900,000 intrusion alerts were recorded in sixty days, some judged very critical, following several attacks on national bodies](https://www.gabonreview.com/cybermenaces-900-000-alertes-en-60-jours-le-gabon-passe-en-vigilance-renforcee/), the digital economy minister calling on 7 September for protection to be treated as a permanent requirement. On 10 September ANINF [answered that the figure shows a system able to detect threats and not 900,000 compromises](https://www.gabonreview.com/cybermenaces-ce-que-laninf-dit-vraiment-des-900-000-alertes-qui-font-polemique/). The window's dates and the number of alerts confirmed as incidents are not published.
 
+On 7 October [an accord between the digital infrastructure agency and a security vendor was reported to provide for a competence centre in Libreville for threat monitoring and skills transfer](https://echosdeleco.com/articles/cybersecurite-le-gabon-renforce-ses-defenses-face-aux-attaques-dopees-a-l-ia). No date or cost is given.
+
 ## Ghana
 
 The response team behind the licensing regime published a volume figure for the first time: it [handled 3,363 incidents between January and June 2026 and ran vulnerability assessments across 25 critical information infrastructure institutions](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). There is no breakdown by type, sector or outcome, so it establishes how much came in and nothing about what happened to it.
@@ -88,6 +90,10 @@ The regulator then gave the fraud a source: [prisoners are behind up to 90 per c
 ## Mauritania
 
 An outside measure is the only dated position this month. The Internet Society [puts the country's internet resilience at 43 per cent, with 3 per cent of the 1,000 most-visited websites served from a local server or cache and a security preparedness score of 39.33 on the 2024 global cybersecurity index](https://pulse.internetsociety.org/en/reports/mr/). No national incident or response figure is held for the month. [The project unit issued a national tender on 9 October 2026 to set up the national response team and a security operations centre for the administration's intranet, with bids due 17 November 2026](https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf).
+
+## Mauritius
+
+Figures presented at a government workshop on 7 October put [reported security incidents at 6,073 in 2025 against 5,221 in 2024, with cyberbullying up from 491 to 702 cases](https://lexpress.mu/node/563366).
 
 ## Mozambique
 

@@ -1,15 +1,15 @@
 ---
 title: Strategies, plans and policies — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: gov.policy
-places: DZA; BWA; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
-record: fc71b812c412
+places: DZA; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; CIV; DJI; COD; EGY; GNQ; ERI; ETH; GAB; GMB; GHA; GNB; KEN; LBR; MDG; MRT; MUS; MOZ; NGA; SEN; SYC; SLE; ZAF; SSD; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: 46aacc395c05
 ---
 
 # Strategies, plans and policies: monthly update, September – October 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -38,6 +38,10 @@ The state has commissioned a plan to digitise the system through which it buys e
 ## Cape Verde
 
 On 10 September the prime minister [named state modernisation and digital transformation among the government's priorities for the new phase of the United Nations partnership](https://expressodasilhas.cv/politica/2026/09/10/governo-prioriza-modernizacao-do-estado-acao-climatica-e-juventude-na-parceria-com-a-onu/104554), with no framework document or envelope attached. On 16 September a [territorial programme for Maio was launched with internet-access, digital-economy and training projects and free internet points in three localities, Fogo to follow](https://www.inforpress.cv/en/maio-governo-apresenta-programa-maio-transforma-para-acelerar-economia-e-transformacao-digital-da-ilha); no budget is stated.
+
+## Central African Republic
+
+The digital development agency's own presentation establishes its footing: [it was created by law in June 2023 as a public establishment with a mandate to implement the national digital strategy](https://acdd.gouv.cf/agence.php). No budget, staffing or activity report is held.
 
 ## Chad
 

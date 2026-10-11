@@ -1,15 +1,17 @@
 ---
 title: EU activities — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: geopol.eu
 places: CPV; GNQ; GMB; SEN
-record: 30d3e34dec60
+record: 0bd8333e0251
 ---
 
 # EU activities: monthly update, September – October 2026
 
 *4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Cape Verde
 

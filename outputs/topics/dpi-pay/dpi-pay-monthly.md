@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3d39c3be159f
+record: bea4022b3881
 ---
 
 # Digital Payments and Fintech: monthly update, September – October 2026
@@ -110,6 +110,8 @@ The virtual-asset regime acquired its coordinating machinery. A five-agency comm
 The central bank widened its enforcement. On 8 September it [named a second list of 20 unlicensed digital loan apps](https://www.bog.gov.gh/wp-content/uploads/2026/09/Notice-No.29-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS.pdf), five weeks after the first, [warning banks and payment providers not to process for them](https://gna.org.gh/2026/09/bog-names-20-unlicensed-digital-loan-providers/); the register of licensed providers it undertook to publish is still not out.
 
 On 23 September a fintech [began opening bank-backed virtual accounts for its Ghanaian customers through an API integration with Universal Merchant Bank](https://www.graphic.com.gh/business/business-news/chipper-cash-launches-bank-backed-virtual-accounts-with-umb.html), which the central bank and the securities regulator had approved to offer virtual accounts to eligible virtual-asset businesses. The approval date is not stated.
+
+On 6 October [the central bank named a further twenty unlicensed loan apps and told banks and payment providers not to process for them](https://www.bog.gov.gh/wp-content/uploads/2026/10/Notice-No.36-BOG-SEC-GOV-2026-Notice-UNLICENSED-DIGITAL-CREDIT-SERVICES-PROVIDERS.pdf), the third such list since August. [A new dedicated electronic money issuer began operations the next day](https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf), and the governor used the occasion to give the measure of the market: [about 85.8 million registered mobile money accounts in August 2026, of which about 26.4 million had been used in the previous ninety days](https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf).
 
 ## Guinea
 

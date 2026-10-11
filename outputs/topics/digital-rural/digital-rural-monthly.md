@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 subject: digital.rural
 places: CMR; TCD; CIV; EGY; KEN; LBY; MWI; MUS; NGA; RWA; SEN; TGO; TUN; ZMB; ZWE
-record: 684bd85caee7
+record: d0f00cd324d2
 ---
 
 # Rural digital data capture: monthly update, September – October 2026
