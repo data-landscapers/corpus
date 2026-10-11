@@ -1,0 +1,220 @@
+{
+  "id": "ictstrategy",
+  "study_file": "maturity-study-ictstrategy.md",
+  "subjects": [
+    "gov.policy"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--ict-strategy"
+  ],
+  "terms": [
+    "ICT policy",
+    "national ICT policy",
+    "ICT strategy",
+    "national ICT strategy",
+    "ICT policy and strategy",
+    "ICT sector policy",
+    "ICT sector strategy",
+    "ICT sector strategic plan",
+    "ICT for development policy",
+    "ICT4D policy",
+    "ICT4AD",
+    "integrated ICT policy",
+    "ICT white paper",
+    "ICT master plan",
+    "ICT development strategy",
+    "information and communication technology policy",
+    "information and communications technology policy",
+    "information and communication technologies policy",
+    "information society policy",
+    "communications policy",
+    "telecommunications policy",
+    "telecommunications sector policy",
+    "telecom sector policy",
+    "telecommunications strategy",
+    "telecommunications and informatics strategy",
+    "national information and communication infrastructure",
+    "NICI plan",
+    "politique nationale des TIC",
+    "politique nationale de développement des TIC",
+    "politique et stratégie nationales de développement des TIC",
+    "politique et stratégies nationales de développement des TIC",
+    "politique sectorielle des télécommunications",
+    "politique sectorielle des TIC",
+    "politique sectorielle de l'économie numérique",
+    "déclaration de politique sectorielle",
+    "lettre de politique sectorielle",
+    "document de politique sectorielle",
+    "stratégie de développement des TIC",
+    "stratégie nationale de développement des TIC",
+    "stratégie de développement du domaine des télécommunications",
+    "stratégie sectorielle des TIC",
+    "plan national de développement des télécommunications",
+    "política nacional das TIC",
+    "política de informática",
+    "política para a sociedade da informação",
+    "política para a sociedade de informação",
+    "livro branco das TIC",
+    "livro branco das tecnologias de informação e comunicação",
+    "plano estratégico para a sociedade de informação",
+    "política nacional de telecomunicações",
+    "política nacional de TIC",
+    "estrategia nacional de TIC",
+    "política de telecomunicaciones",
+    "السياسة الوطنية لتكنولوجيا المعلومات والاتصالات",
+    "استراتيجية تكنولوجيا المعلومات والاتصالات",
+    "استراتيجية الاتصالات وتكنولوجيا المعلومات",
+    "الاستراتيجية الوطنية للاتصالات والمعلوماتية",
+    "سياسة الاتصالات"
+  ],
+  "sub_indicators": [
+    {
+      "key": "sector",
+      "label": "Sector policy",
+      "subject": "gov.policy",
+      "text": "ICT strategy: sector policy",
+      "indicator_id": "gov.policy--ict-strategy-sector-policy",
+      "class": "sector"
+    }
+  ],
+  "classes": [
+    "sector",
+    "national",
+    "law",
+    "institution-plan",
+    "development-plan",
+    "programme",
+    "subsector",
+    "government",
+    "regional"
+  ],
+  "aspects": [
+    {
+      "key": "governance",
+      "name": "Governance and finance",
+      "role": "qualifier",
+      "window_months": 36,
+      "facets": {
+        "body": [
+          "mandated",
+          "none"
+        ],
+        "finance": [
+          "domestic",
+          "donor",
+          "not-stated"
+        ]
+      }
+    },
+    {
+      "key": "standing",
+      "name": "Standing",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "validated",
+        "drafting",
+        "announced"
+      ],
+      "values": [
+        "adopted",
+        "validated",
+        "drafting",
+        "announced",
+        "none"
+      ]
+    },
+    {
+      "key": "text",
+      "name": "Text",
+      "role": "coverage",
+      "defer": [
+        "unpublished"
+      ],
+      "values": [
+        "public",
+        "unpublished"
+      ]
+    },
+    {
+      "key": "period",
+      "name": "Period",
+      "role": "coverage",
+      "pattern": "to:\\d{4}|open",
+      "prefer": [
+        "to:",
+        "open"
+      ]
+    },
+    {
+      "key": "plan",
+      "name": "Delivery plan",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "costed",
+        "actions"
+      ],
+      "values": [
+        "costed",
+        "actions",
+        "none"
+      ]
+    },
+    {
+      "key": "reporting",
+      "name": "Reporting",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "results-all",
+        "results",
+        "activity"
+      ],
+      "values": [
+        "results-all",
+        "results",
+        "activity",
+        "none"
+      ]
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": [
+        "advancing",
+        "no-change",
+        "regressing"
+      ]
+    }
+  ],
+  "cap": {
+    "aspect": "governance",
+    "above": 3,
+    "flag": "no budget or body",
+    "all": [
+      "body:mandated",
+      "finance:domestic"
+    ]
+  },
+  "flags": [
+    "no budget or body",
+    "under the national strategy",
+    "in the national plan",
+    "lapsed",
+    "text unpublished",
+    "dated",
+    "advancing",
+    "regressing"
+  ]
+}
