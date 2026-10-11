@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-digitalstrategy.md — the seventh maturity study and the first of an instrument: the national digital transformation strategy
 last_reviewed: 2026-10-11
-status: CC's proposal, prepared 2026-10-11; step 1 done, awaiting Bill's confirmation at step 2
+status: CC's proposal, run unamended on Bill's word of 2026-10-11; step 3 under way
 ---
 
 # Maturity study: digitalstrategy — the national strategy
@@ -108,13 +108,13 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare the criteria** (method step 1): this file and `study.json`, 2026-10-11.
-- [ ] **D1. Bill's rulings** (step 2).
+- [x] **D1. Bill's rulings**: the seven proposals stand, 2026-10-11.
 - [ ] **D2. Review all 54 countries**, method §4. **D3. Test and fix the ladder.**
 - [ ] **D4. Search and hand over**, method §5.
 - [ ] **D5. Re-read and stage**, method §7. **D6. Write, render and lint.**
 - [ ] **D7. Report to Bill.**
 
-**The rulings asked for at D1**, each CC's proposal:
+**The rulings of D1**, CC's proposals, run unamended:
 
 1. Adoption with a public, current text is stage 3 and no higher; stages 4 and 5 are set by published reporting against the strategy's own targets.
 2. An adopted strategy with no public text is stage 2.
