@@ -47,7 +47,7 @@ Read each fetched text. Over 20,000 words, search it for the study's terms and t
 - `aspect`: the gap aspects the text answers, joined by `;`.
 - `fact`: the dated fact, in one sentence, as the text states it.
 - `title`, `publisher`: the document's own, in its own language and spelling.
-- `published`: **the document's own date** from its byline, imprint or metadata, as `YYYY-MM-DD`, `YYYY-MM` or `YYYY`. Never the date you fetched it. `date_source` is `source` where the document states it, `proxy` where you inferred it.
+- `published`: **the document's own date** from its byline, imprint or metadata, as `YYYY-MM-DD`, `YYYY-MM` or `YYYY`. Never the date you fetched it, a file stamp, a date in the URL or folder, the date of the event or meeting it reports, or the end of the financial year it covers. **Give only the precision the imprint gives**: a year is `YYYY`, never padded to `-01-01`. `date_source` is `source` where the document states it, `proxy` where you inferred it.
 - `why_not`: where `select` is false, one line.
 
 ## Rules
