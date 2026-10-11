@@ -1,0 +1,54 @@
+{
+ "slug": "2026-07-18-bwa-idpc-suspends-dpsm-epayslip-portal",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Commission enforced Data Protection Act No. 18 of 2024 against DPSM in July 2026, citing its provisions including Section 52 on data protection by design and by default.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Data Protection Act No. 18 of 2024"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "In a public notice dated 17 July 2026 the Information and Data Protection Commission issued a Determination and an Enforcement Notice against DPSM for contraventions of the Data Protection Act No. 18 of 2024, ordering the ePayslip portal suspended and a DPIA and revised privacy notice submitted within one month, with an administrative fine possible for non-compliance.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Data Protection Act No. 18 of 2024"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Information and Data Protection Commission issued a public notice with a Determination and Enforcement Notice on 17 July 2026, showing it acting.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Data Protection Act No. 18 of 2024"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act No. 18 of 2024",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "Information and Data Protection Commission",
+   "country_label": "IDPC",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry for State President (sweep note)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

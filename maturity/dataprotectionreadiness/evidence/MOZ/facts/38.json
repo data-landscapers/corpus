@@ -1,0 +1,42 @@
+{
+ "slug": "2025-12-16-end-impunity-cybercrime-minister-clubofmozambique",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "INTIC President Lourino Chemane said on 5 December 2025 that, by plan, the data protection law document would be presented to the Cabinet for approval by June 2026, and the minister said the government expected to have the law ready by then.",
+   "as_of": "2025-12-05",
+   "date_precision": "day",
+   "system": "Data protection law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data protection law (in preparation)",
+   "country_label": "Data protection law",
+   "class": "other",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  },
+  {
+   "system": "Draft cybercrime bill",
+   "country_label": "Draft bill on cybercrime",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  },
+  {
+   "system": "United Nations Convention on Cybercrime",
+   "country_label": "United Nations Convention on Cybercrime",
+   "class": "other",
+   "platform": "",
+   "owner": "United Nations",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

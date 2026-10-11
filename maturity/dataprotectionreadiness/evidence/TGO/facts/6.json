@@ -1,0 +1,27 @@
+{
+ "slug": "2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Loi n° 2019-014 of 29 October 2019 on the protection of personal data was adopted by the National Assembly and promulgated, with art. 95 giving two years for State and public-service processing and one year for all other processing to comply.",
+   "as_of": "2019-10-29",
+   "date_precision": "day",
+   "system": "Loi n° 2019-014 relative a la protection des donnees a caractere personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Art. 55 of the law creates a national authority, the IPDCP, whose president the President of the Republic appoints by decree from its steering committee (art. 58); the document does not show it constituted.",
+   "as_of": "2019-10-29",
+   "date_precision": "day",
+   "system": "Instance de protection des donnees a caractere personnel (IPDCP)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

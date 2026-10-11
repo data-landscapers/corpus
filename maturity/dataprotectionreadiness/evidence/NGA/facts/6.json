@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-28-federal-high-court-affirms-ndpc-authority-to-register-dcpmis",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Federal High Court (Justice F.N. Ogazi) examined sections 5(d), 6(c), 44, 45 and 65 of the Nigeria Data Protection Act, 2023 in Emmanuel Harunna v. NDPC (FHC/L/CS/1116/2024) and treated the Act as operative; the article gives no judgment date and is dated 28 July 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "TechTrends Africa reports the NDPC, led by National Commissioner and CEO Dr Vincent Olatunji, directed unregistered Data Controllers and Processors of Major Importance to register after winning a Federal High Court case; article dated 28 July 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act, 2023",
+   "country_label": "Nigeria Data Protection Act, 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  },
+  {
+   "system": "NDPC Guidance Notice on Registration",
+   "country_label": "Guidance Notice on Registration",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

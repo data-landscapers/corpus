@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-09-world-bank-data-governance-mozambique-final",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The World Bank and African Development Bank diagnostic of Mozambique's data governance, with evidence updated to spring 2025, refers to the government's preparation of a draft Data Protection Law and recommends that it adopt a data protection law, so none was in force; the document gives no date for the draft, so its 2025-12-09 publication date and spring 2025 evidence cut-off are used.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Law (draft)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

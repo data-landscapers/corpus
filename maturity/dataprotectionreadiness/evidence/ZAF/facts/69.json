@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-18-timeslive-sahrc-personal-information-digital-age",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "An Information Regulator commissioner said the Regulator receives complaints on processing without consent, direct marketing, breaches and deletion or correction requests, and can run compliance assessments on request or on its own initiative, but cannot test external systems before launch (webinar of 18 August 2026).",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (Popia)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The commissioner said work is under way with the justice department to amend Popia to cover artificial intelligence and privacy by design; no bill or draft is described (18 August 2026).",
+   "as_of": "2026-08-18",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (Popia)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act (Popia)",
+   "country_label": "Popia",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator (enforcer)",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator",
+   "country_label": "Information Regulator",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

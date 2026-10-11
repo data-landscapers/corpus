@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Tanzania's data protection authority is acting in its role, having set 8 April (2026) as the deadline to comply with the registration requirement; the document gives no event date beyond its January and February 2026 scope, so its published date of 2026-06-23 is used.",
+   "as_of": "2026-06-23",
+   "date_precision": "day",
+   "system": "Tanzania data protection authority"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

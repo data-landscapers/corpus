@@ -1,0 +1,18 @@
+{
+ "iso3": "BFA",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "4",
+   "law": "in-force",
+   "treaty": "none",
+   "authority": "appointed",
+   "practice": "implementing",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "BFA-016;BFA-013;BFA-001",
+   "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

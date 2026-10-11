@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-18-zambia-id4africa-multi-sectoral-engagement",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "TechAfrica News, 18 May 2026, reports the Office of the Data Protection Commissioner as part of Zambia's delegation to the ID4Africa Conference in Abidjan, which concluded 15 May 2026, showing the office acting.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "Office of the Data Protection Commissioner",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

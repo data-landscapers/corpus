@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-01-ghana-new-data-protection-board-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "TechAfrica News reports the Minister for Communication swore in the new Governing Board of the Data Protection Commission, chaired by Teki Akuetteh, with the Acting Executive Director and seven other named members sworn in and three more to follow; the swearing-in was on 'Wednesday' before the article date, so the article's published date of 2025-08-01 is used.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Data Protection Commission (DPC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission (DPC)",
+   "country_label": "Data Protection Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication, Digital Technology and Innovations (minister swore in board)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

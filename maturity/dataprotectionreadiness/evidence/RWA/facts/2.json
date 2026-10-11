@@ -1,0 +1,54 @@
+{
+ "slug": "2026-01-26-year-of-accountability-data-controllers-newtimes",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The New Times opinion piece (a legal adviser at Andersen) states that Rwanda's Data Protection Act was introduced on 15 October 2021 and that its two-year grace period ended on 15 October 2023, marking the transition to enforcement and accountability.",
+   "as_of": "2023-10-15",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The article states that NCSA has registered data controllers and processors (registration certificates), trained over 100 public sector Data Protection Officers and run sector workshops for pharmacists and local government entities over the last four years; it names no sanction or decision. The article gives no date for these events, so its published date of 2026-01-26 is used.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The article states that the National Cyber Security Authority (NCSA) acts as the supervisory authority for personal data protection and privacy under the Data Protection Act, as Rwanda observed Data Privacy Week on 26-30 January 2026.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Data Protection Act (introduced 15 October 2021)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Cyber Security Authority (NCSA)",
+   "country_label": "National Cyber Security Authority",
+   "class": "other",
+   "platform": "",
+   "owner": "NCSA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

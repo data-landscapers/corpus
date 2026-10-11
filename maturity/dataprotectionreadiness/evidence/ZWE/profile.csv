@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZWE,system,law,coverage,in-force,2026-07-28,ZWE-004;ZWE-012;ZWE-015;ZWE-020;ZWE-024;ZWE-027;ZWE-029;ZWE-032,ZWE-022=not-yet,
+ZWE,system,treaty,coverage,none,2026-02-02,ZWE-028,,
+ZWE,system,authority,coverage,appointed,2026-08-17,ZWE-003;ZWE-006;ZWE-008;ZWE-010;ZWE-011;ZWE-014;ZWE-016;ZWE-018;ZWE-021;ZWE-025;ZWE-030;ZWE-034;ZWE-036,ZWE-037=none;ZWE-023=none;ZWE-019=none,
+ZWE,system,practice,coverage,implementing,2026-09-23,ZWE-001;ZWE-002;ZWE-005;ZWE-007;ZWE-009;ZWE-013;ZWE-017;ZWE-026;ZWE-031;ZWE-033;ZWE-035;ZWE-038,,

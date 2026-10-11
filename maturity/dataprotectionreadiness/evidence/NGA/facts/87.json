@@ -1,0 +1,37 @@
+{
+ "slug": "2026-02-16-ndpc-probes-temu-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The NDPC launched an investigation into Temu's data processing (about 12.7 million Nigerian data subjects) under the NDPA, with no decision reported.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The NDPC states that violators of the Nigeria Data Protection Act face enforcement including fines and sanctions, treating the Act as in force.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The NDPC acts under a National Commissioner and CEO, Vincent Olatunji, who announced the Temu investigation.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

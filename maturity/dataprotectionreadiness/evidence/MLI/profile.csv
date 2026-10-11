@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MLI,system,law,coverage,in-force,2026-08-03,MLI-001;MLI-006;MLI-012;MLI-014;MLI-016;MLI-019,MLI-009=not-yet,
+MLI,system,treaty,coverage,none,2026-02-02,MLI-011,,
+MLI,system,authority,coverage,appointed,2026-09-04,MLI-003;MLI-005;MLI-007;MLI-013;MLI-015;MLI-018;MLI-021;MLI-022;MLI-023;MLI-024,MLI-010=none,
+MLI,system,practice,coverage,ruling,2025,MLI-004;MLI-008;MLI-017;MLI-020,MLI-002=implementing,

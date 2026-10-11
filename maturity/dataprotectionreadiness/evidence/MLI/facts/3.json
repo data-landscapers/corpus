@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-21-apdp-mali-rapport-annuel-2025-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "Sahel Tribune, summarising the APDP 2025 annual report, says the authority issued about 1,000 formal notices (989 controllers), fines totalling 22 million FCFA (up to 7 million each), and received 51 complaints of which 28 were handled and four referred to the cybercrime prosecutor, for January-December 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Mali personal data protection law (unnamed in document)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The APDP carried out controls and sanctions in 2025, opened regional offices at Kayes, Sikasso, Segou and Mopti, and marked its tenth anniversary.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Mali personal data protection law (unnamed in document)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de protection des donnees a caractere personnel (APDP)",
+   "country_label": "APDP",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national; regional offices"
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

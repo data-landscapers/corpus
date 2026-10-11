@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-04-nigeria-mdas-data-protection-act-circular-vanguard",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Vanguard reports a federal circular (No. 59805/S.I/74, dated 27 July 2026) directing all ministries, departments and agencies to comply fully with the Nigeria Data Protection Act 2023.",
+   "as_of": "2026-07-27",
+   "date_precision": "day",
+   "system": "Nigeria data protection system",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Vanguard reports an NDPC statement, signed by its Head of Legal, Enforcement and Regulations, with Dr Vincent Olatunji as National Commissioner and CEO.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Nigeria data protection system",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "Vanguard reports the circular requires MDAs to submit their data protection officers' names to the NDPC for registration and to file compliance audit returns, and that the NDPC constituted a regulatory clinic giving technical support to MDAs on compliance.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Nigeria data protection system",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria data protection system",
+   "country_label": "Nigeria Data Protection Act 2023 and NDPC",
+   "class": "system",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission (NDPC)",
+   "tiers": "federal ministries, departments and agencies"
+  }
+ ],
+ "note": ""
+}

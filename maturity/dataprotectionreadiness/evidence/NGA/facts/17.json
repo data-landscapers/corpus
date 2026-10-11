@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-30-ndpc-chief-stronger-data-protection-practices",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "Voice of Nigeria reports the NDPC chief reminding government data protection officers that non-compliance with the Nigeria Data Protection Act 2023 carries consequences; the report gives no event date beyond its published date 2026-09-30.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Nigeria data protection system",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Voice of Nigeria names Dr Vincent Olatunji as National Commissioner and CEO of the Nigeria Data Protection Commission, opening an NDPC programme in Abuja (published date 2026-09-30, no event date given).",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Nigeria data protection system",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria data protection system",
+   "country_label": "Nigeria Data Protection Act 2023 and NDPC",
+   "class": "system",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission (NDPC)",
+   "tiers": "federal ministries, departments and agencies"
+  }
+ ],
+ "note": ""
+}

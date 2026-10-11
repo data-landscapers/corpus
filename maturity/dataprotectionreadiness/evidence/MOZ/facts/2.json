@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-02-moz-clubofmozambique-parliament-october-sessions-data-protection-bill",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The Assembly of the Republic's Standing Commission (CPAR) decided on 2026-10-01 to place a draft law on Personal Data Protection on the initial 35-item agenda of the 4th Ordinary Session opening 2026-10-28.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "Personal Data Protection draft law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection draft law",
+   "country_label": "Personal Data Protection draft law",
+   "class": "other",
+   "platform": "",
+   "owner": "Assembly of the Republic",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

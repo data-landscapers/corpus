@@ -1,0 +1,54 @@
+{
+ "slug": "2025-02-11-bfa-cnpnz-droits-numeriques-2024-cil-aucun-rapport",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "A CNP-NZ digital rights report (11 February 2025) cites law n°001-2021/AN of 30 March 2021 as the law the CIL invoked in its communiqué of 24 December 2024.",
+   "as_of": "2024-12-24",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN du 30 mars 2021 portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "By communiqué of 24 December 2024 the CIL warned that repeated posting of people's images on social media without consent violates law n°001-2021/AN and the penal code; the report adds that the CIL did not make a report public in 2024.",
+   "as_of": "2024-12-24",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN du 30 mars 2021 portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The report states that privacy protection in Burkina Faso is handled by the CIL, which regularly produces awareness messages and reports.",
+   "as_of": "2025-02-11",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN du 30 mars 2021 portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°001-2021/AN du 30 mars 2021",
+   "country_label": "",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Commission de l'informatique et des libertés (CIL)",
+   "country_label": "CIL",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

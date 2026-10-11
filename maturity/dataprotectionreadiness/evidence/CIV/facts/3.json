@@ -1,0 +1,26 @@
+{
+ "slug": "2022-05-23-data-protection-africa-cote-divoire-factsheet",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The ALT Advisory fact sheet says Law No. 2013-450 gives enforcement responsibilities to ARTCI, that a data protection authority is appointed, with 7 members serving up to 6 years; the page gives no date for the facts, so its published date is used.",
+   "as_of": "2022-05-23",
+   "date_precision": "day",
+   "system": "ARTCI (Autorité de régulation des télécommunications/TIC de Côte d'Ivoire)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARTCI (Autorité de régulation des télécommunications/TIC de Côte d'Ivoire)",
+   "country_label": "ARTCI",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

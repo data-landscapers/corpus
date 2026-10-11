@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-odpc-kenya-guidance-note-emerging-technologies",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The Office of the Data Protection Commissioner published a draft Guidance Note on Emerging Technologies in July 2026, open for comment to 17 August 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The note applies the Data Protection Act and the 2021 General, Registration and Complaints Handling and Enforcement Regulations as Kenya's legislative framework (document published 2026-07-01).",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Data Protection Act, 2019",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

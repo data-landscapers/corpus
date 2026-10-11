@@ -1,0 +1,46 @@
+{
+ "slug": "2022-05-24-south-sudan-data-protection-factsheet",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "none",
+   "class": "system",
+   "fact": "Data Protection Africa's factsheet states South Sudan has no data protection law as of its page-last-updated stamp of 24 May 2022 (the document's published date, used as as_of).",
+   "as_of": "2022-05-24",
+   "date_precision": "day",
+   "system": "General data protection law"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The factsheet says it has been reported that South Sudan has drafted a dedicated data protection bill expected to pass soon; no date is given for the report, so the published date of 24 May 2022 is used.",
+   "as_of": "2022-05-24",
+   "date_precision": "day",
+   "system": "Data protection bill"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The factsheet states no data protection authority has been appointed and the country has no law establishing one, as of 24 May 2022 (published date used).",
+   "as_of": "2022-05-24",
+   "date_precision": "day",
+   "system": "Data protection authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes and Computer Misuse Provisional Order 2021",
+   "country_label": "Cybercrimes and Computer Misuse Provisional Order 2021",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

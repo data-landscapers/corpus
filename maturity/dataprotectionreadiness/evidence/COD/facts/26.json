@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-21-ouvrage-protection-donnees-personnelles-actualite",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Co-author Jean-Francois Henrotte said at the 20 April 2026 launch of the book's second edition that the DRC has adopted a Digital Code whose Book III treats data protection extensively, replacing the embryonic provisions of the 2020 telecommunications law; the article does not say whether it is in force.",
+   "as_of": "2026-04-20",
+   "date_precision": "day",
+   "system": "Digital Code (Ordinance-Law No. 23/010), Book III"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Code, Book III",
+   "country_label": "Code du numérique, Livre III",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-31-lesotho-outdated-data-protection-act-no-commissioner-no-teeth",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The law firm Z. Mayet and Associates states that the Data Protection Act (Act 5 of 2012) establishes a Data Protection Commission, but that the Commission and its Commissioner have not been appointed, so the regulator does not exist in practice; no event date is given, so this is as at the document's publication date of 2025-10-31.",
+   "as_of": "2025-10-31",
+   "date_precision": "day",
+   "system": "Data Protection Commission"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

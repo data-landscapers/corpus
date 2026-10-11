@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-03-ndpc-validation-workshop-data-privacy-framework-ecommerce",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The NDPC, with GIZ, opened an Abuja validation workshop for a Data Privacy Framework for e-commerce, following an earlier Lagos session with private-sector stakeholders, with participants examining the consequences of non-compliance with the Nigeria Data Protection Act 2023; no decision is reported.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "National Commissioner Vincent O. Olatunji of the NDPC delivered the keynote and opened the validation workshop, and thanked GIZ for support since the Commission's establishment.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "NDPC",
+   "class": "other",
+   "platform": "",
+   "owner": "National Commissioner Vincent O. Olatunji",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

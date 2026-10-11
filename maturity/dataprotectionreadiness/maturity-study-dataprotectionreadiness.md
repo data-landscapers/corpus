@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-dataprotectionreadiness.md — the eleventh maturity study: national data protection readiness, the ability to act
 last_reviewed: 2026-10-11
-status: prepared; redrawn on Bill's direction of 2026-10-11 (ability to act, Malabo at stage 3); awaiting his word; not run
+status: run on Bill's word of 2026-10-11; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: dataprotectionreadiness
@@ -29,7 +29,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is a data protection law in force? | A law in force, including one whose compliance period is still running. A bill, or a law passed and not yet commenced, is not a yes |
 | 2 | Has the country ratified the Malabo Convention, or appointed an authority? | Either: the African Union's list shows it has ratified or acceded, signing alone not counting; or the authority's head or members are appointed, or an existing body given the job is doing it |
 | 3 | Is the law being implemented, in the last three years? | A dated source shows the authority registering organisations, taking breach reports, issuing guidance or inspecting |
-| 4 | Is the authority acting, in the last three years? | A dated decision, fine or order of the authority against a named organisation. A court's judgment is not a yes |
+| 4 | Is the authority acting, in the last three years? | A dated decision, fine or order of the authority against a named organisation, or the authority's own published count of them for a recent period. A court's judgment is not a yes |
 
 ## 3. The ladders
 
@@ -41,7 +41,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 Preparing | A law is in force |
 | 3 Establishing | A law is in force, and the country has ratified the Malabo Convention or appointed an authority |
 | 4 Operating | The law is being implemented: the authority registers organisations, takes breach reports, issues guidance or inspects |
-| 5 Leading | The authority is acting: it has ruled against a named organisation |
+| 5 Leading | The authority is acting: it has ruled against a named organisation, or publishes a count of its rulings |
 
 - **A yes to a later question answers the earlier ones**: an authority at work shows a law in force and a body appointed.
 - **Ratification alone, with no law in force, is stage 1**, and the summary says the country has ratified.
@@ -67,10 +67,10 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-11.
-- [ ] **D1. Bill's word on the four questions.**
-- [ ] **D2. Carry from both studies** (`study-carry.py` must merge two studies' facts on one source), **read the ratification list once for all 54, then the remaining stories**, method §4.
-- [ ] **D3. Stage all 54 countries and check agreement**, method §7.
-- [ ] **D4. Write, render and lint**, method §8. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: the ladder redrawn on the ability to act and run on his word, 2026-10-11.
+- [x] **D2. Carried and read**: 810 facts carried from the two studies, the ratification list read once for all 54, 72 further listings read in 41 calls.
+- [x] **D3. Staged**: 13 at stage 5, 15 at 4, 8 at 3, 4 at 2, 13 at 1, one with no evidence, as at 2026-09-30; one correction; agreement 18 of 20, the two splits on whether a published count is a ruling, which question 4 now states.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-11.
 
 ## Boundary
 

@@ -92,7 +92,15 @@
       "subject": "gov.protect",
       "text": "National data protection readiness: data protection system",
       "indicator_id": "gov.protect--national-data-protection-readiness-data-protection-system",
-      "class": "system"
+      "class": "system",
+      "criteria": [
+        "No data protection law is in force: there is none, or it is still a bill or has not yet commenced.",
+        "A data protection law is in force. The country has not ratified the Malabo Convention and no authority is appointed.",
+        "A law is in force, and the country has ratified the Malabo Convention or appointed an authority. Nothing in the past three years shows the authority at work.",
+        "The law is being implemented: in the past three years an appointed authority has registered organisations, taken breach reports, issued guidance or inspected.",
+        "The authority is acting: in the past three years it has ruled against a named organisation, or it publishes a count of its rulings. A court's judgment does not count."
+      ],
+      "criteria_of": "b900472809d8"
     }
   ],
   "classes": [

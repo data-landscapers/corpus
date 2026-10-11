@@ -1,0 +1,70 @@
+{
+ "slug": "2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "ITWeb reports that POPIA came into force on 1 July 2021 after a year-long grace period for organisations to comply.",
+   "as_of": "2021-07-01",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The chairperson says the Regulator has moved from establishing the framework to exercising statutory enforcement powers, including receiving complaints, conducting assessments and issuing enforcement notices; no figures or named decisions are given (document published 2026-09-17, no event date).",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Protection of Personal Information Act (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "ITWeb reports that the Information Regulator was established on 1 December 2016 to monitor and enforce compliance with POPIA and PAIA, and that its chairperson Pansy Tlakula and executives were speaking for it in September 2026.",
+   "as_of": "2016-12-01",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act (POPIA)",
+   "country_label": "POPIA",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator (enforcer)",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator",
+   "country_label": "InfoReg",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  },
+  {
+   "system": "Promotion of Access to Information Act (PAIA)",
+   "country_label": "PAIA",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator (enforcer)",
+   "tiers": ""
+  },
+  {
+   "system": "Consumer Protection Act opt-out registry",
+   "country_label": "opt-out registry",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2024-06-12-nga-seven-firms-pay-n400-million-to-ndpc-as-sanction-for-data-breach",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The document says President Tinubu signed the data protection law in June 2023 and that by June 2024 the NDPC was measuring compliance with the Nigeria Data Protection Act 2023 in the private and public sectors.",
+   "as_of": "2024-06-11",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "At a press session on 11 June 2024, the NDPC National Commissioner said the Commission had earned N400 million in remediation fees from sanctions on seven firms for data breaches, with four major investigations finalised, out of over 1,000 breach reports received since it started about a year earlier.",
+   "as_of": "2024-06-11",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Nigeria Data Protection Commission, headed by National Commissioner Vincent Olatunji, was acting in June 2024: it held a press session, ran over 1,000 investigations and imposed sanctions.",
+   "as_of": "2024-06-11",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

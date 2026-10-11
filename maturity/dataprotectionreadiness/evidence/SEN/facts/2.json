@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Senegal's DPA received a delegation from Mauritania's authority on a study visit in early 2026, sharing its experience of complaint handling and control missions; the document gives no exact date, so the period covered (January and February 2026) is used.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Commission de protection des données personnelles (CDP)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de protection des données personnelles (CDP)",
+   "country_label": "CDP",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Senegal",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

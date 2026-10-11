@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-02-au-malabo-convention-status-list",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "ratified",
+   "fact": "The African Union's status list of 2 February 2026 records that Cape Verde ratified or acceded to the Malabo Convention on 2020-11-13 and deposited its instrument on 2022-02-05.",
+   "as_of": "2020-11-13",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": "read once by the parent for all countries"
+}

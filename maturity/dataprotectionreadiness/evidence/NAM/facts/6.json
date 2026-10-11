@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-14-namibia-data-protection-bill-tabled-september",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The Ministry of Information and Communication Technology, through Minister Emma Theofelus, said on 14 August 2025 that it would table a Data Protection Bill in September 2025; the article gives no sign the bill had yet been tabled.",
+   "as_of": "2025-08-14",
+   "date_precision": "day",
+   "system": "Data Protection Bill"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Bill",
+   "country_label": "Data Protection Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information and Communication Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-04-an-independent-data-protection-act-a-critical-part-to-south-sudans-digital-future",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Digital Rights Frontlines states South Sudan currently lacks a fully operational, independent Data Protection Authority, and that the government intends to introduce a Data Protection Bill; no date given for the statement, so the document's published date is used.",
+   "as_of": "2026-02-04",
+   "date_precision": "day",
+   "system": "Data protection authority"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

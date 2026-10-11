@@ -1,0 +1,44 @@
+{
+ "slug": "2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The overview states that Proclamation No. 1321/2024, Ethiopia's first comprehensive personal data protection law, was approved on 4 April 2024 and published in the Federal Negarit Gazette on 24 July 2024; it gives no commencement date.",
+   "as_of": "2024-07-24",
+   "date_precision": "day",
+   "system": "Personal Data Protection Proclamation No. 1321/2024"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The overview states that the proclamation designates the Ethiopian Communications Authority as the regulator; it does not say the Authority is acting under the law.",
+   "as_of": "2024-07-24",
+   "date_precision": "day",
+   "system": "Ethiopian Communications Authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Proclamation No. 1321/2024",
+   "country_label": "Personal Data Protection Proclamation (PDPP)",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Democratic Republic of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Ethiopian Communications Authority",
+   "country_label": "Ethiopian Communications Authority (ECA)",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

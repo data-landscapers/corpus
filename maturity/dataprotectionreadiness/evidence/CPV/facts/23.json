@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-07-revolucao-tecnologica-opiniao-expressodasilhas",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "An opinion piece by Luis Carlos Silva urges Cabo Verde to revisit its existing Data Protection Law (2001/2021) and align it with AI challenges, treating the law as the current one; no date for the stated position beyond the document's published date of 2025-04-07.",
+   "as_of": "2025-04-07",
+   "date_precision": "day",
+   "system": "Lei de Proteção de Dados (2001/2021)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei de Proteção de Dados (2001/2021)",
+   "country_label": "Lei de Proteção de Dados",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

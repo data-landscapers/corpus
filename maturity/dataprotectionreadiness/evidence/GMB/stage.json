@@ -1,0 +1,18 @@
+{
+ "iso3": "GMB",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "1",
+   "law": "not-yet",
+   "treaty": "signed",
+   "authority": "appointed",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GMB-012;GMB-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-16-eswatiniobserver-data-protection-act-online-shaming",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The article says the Data Protection Act, 2022 regulates the collection, processing, disclosure and protection of personal data and is relevant to publishing personal information online (date is the article's publication date).",
+   "as_of": "2026-08-16",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2022 (No. 5 of 2022)",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament; supervised by ESCCOM as EDPA",
+   "tiers": ""
+  },
+  {
+   "system": "Computer Crime and Cybercrime Act, 2022",
+   "country_label": "Computer Crime and Cybercrime Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

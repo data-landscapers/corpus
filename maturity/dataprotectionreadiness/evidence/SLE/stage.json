@@ -1,0 +1,18 @@
+{
+ "iso3": "SLE",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "1",
+   "law": "not-yet",
+   "treaty": "signed",
+   "authority": "",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SLE-004;SLE-002",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

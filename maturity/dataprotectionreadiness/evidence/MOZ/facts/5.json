@@ -1,0 +1,60 @@
+{
+ "slug": "2025-09-23 Review of Mozambique's Proposed Personal Data Protection Law",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "TechHive Advisory reviewed a comprehensive draft Personal Data Protection Law for Mozambique; the review gives no date for the draft, so its published date is used.",
+   "as_of": "2025-09-23",
+   "date_precision": "day",
+   "system": "Personal Data Protection Law (draft)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The draft law designates the existing Regulatory Authority for ICT to take the role of National Authority for the Protection of Personal Data (ANPD), alongside a National Council chaired by the Prime Minister; the review's published date is used as no other date is given.",
+   "as_of": "2025-09-23",
+   "date_precision": "day",
+   "system": "Autoridade Nacional de Proteccao de Dados Pessoais (ANPD)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Law (draft)",
+   "country_label": "Personal Data Protection Law",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  },
+  {
+   "system": "National Authority for the Protection of Personal Data (ANPD)",
+   "country_label": "ANPD",
+   "class": "other",
+   "platform": "",
+   "owner": "Regulatory Authority for ICT (designated by the draft)",
+   "tiers": ""
+  },
+  {
+   "system": "National Council for the Protection of Personal Data (CNPD)",
+   "country_label": "CNPD",
+   "class": "other",
+   "platform": "",
+   "owner": "Prime Minister (chair)",
+   "tiers": ""
+  },
+  {
+   "system": "African Union Convention on Cybersecurity and Personal Data Protection (Malabo Convention)",
+   "country_label": "Malabo Convention",
+   "class": "other",
+   "platform": "",
+   "owner": "African Union",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

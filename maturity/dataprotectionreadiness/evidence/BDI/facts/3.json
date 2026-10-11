@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-16 Burundi adopts data protection law",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Burundi's National Assembly unanimously adopted a bill governing the collection and processing of personal data across public and private sectors on 15 January 2026; the document does not report promulgation.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "Burundi personal data protection law"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The adopted law creates an independent administrative data-protection authority responsible for enforcement; the document does not say it has been constituted.",
+   "as_of": "2026-01-15",
+   "date_precision": "day",
+   "system": "Burundi personal data protection law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Burundi personal data protection law",
+   "country_label": "personal data protection law (bill adopted 15 Jan 2026)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Interior, Community Development and Public Security (sponsor); National Assembly",
+   "tiers": "public and private sectors"
+  },
+  {
+   "system": "Independent data-protection authority",
+   "country_label": "independent administrative data-protection authority",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

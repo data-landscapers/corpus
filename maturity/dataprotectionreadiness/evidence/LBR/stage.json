@@ -1,0 +1,18 @@
+{
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "2",
+   "law": "in-force",
+   "treaty": "none",
+   "authority": "none",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBR-011;LBR-007",
+   "gaps": "The country has not ratified the Malabo Convention, and no source held says an authority has been appointed.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

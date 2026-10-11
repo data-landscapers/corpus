@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-25-ipdcp-forme-premiers-correspondants",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The IPDCP gave attestations to 32 first data protection correspondents on 24 June 2026 after a three-day training in Adétikopé, as implementation of the 2019 law.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The IPDCP, headed by Colonel Bédiani Belei, ran the June 2026 correspondent training and presented attestations.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "IPDCP"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "country_label": "Loi n°2019-014 du 29 octobre 2019",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Togo",
+   "tiers": ""
+  },
+  {
+   "system": "IPDCP",
+   "country_label": "Instance de protection des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-02-certinum-protection-donnees-personnelles-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "ARTCI launched Certinum on 2 July 2026, an online platform for compliance and processing-authorisation requests under the personal data protection regime, replacing about 100 paper files handled each month; the document does not name the law.",
+   "as_of": "2026-07-02",
+   "date_precision": "day",
+   "system": "Personal data protection regime (compliance and authorisation procedures)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Certinum",
+   "country_label": "Certinum",
+   "class": "other",
+   "platform": "Developed in Côte d'Ivoire with technical partner Bmi-Wfs; certinumapdp.ci",
+   "owner": "ARTCI",
+   "tiers": "national; Treasury and ONECI first users"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

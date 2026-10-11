@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-14 OUT, PDPC Launch National Data Protection Programme",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Media Wire Express reports on 14 July 2026 a programme under the Personal Data Protection Act as the legal framework for protecting privacy.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The Open University of Tanzania and the PDPC launched a Certified Data Protection Officer programme in which the university trains and assesses and the PDPC certifies.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The PDPC, led by Director General Dr Emmanuel Mkilia, certifies data protection officers under a programme launched with the Open University of Tanzania on 14 July 2026.",
+   "as_of": "2026-07-14",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Commission (PDPC)",
+   "country_label": "Tume ya Ulinzi wa Taarifa Binafsi",
+   "class": "other",
+   "platform": "",
+   "owner": "Director General Dr Emmanuel Mkilia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

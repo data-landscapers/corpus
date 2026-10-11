@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-26-connectingafrica-potraz-data-protection-capacity-building",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "POTRAZ says 831 organisations are formally recognised as compliant with Zimbabwe's Cyber and Data Protection Act, which is being applied.", "as_of": "2025-12", "date_precision": "month", "system": "Cyber and Data Protection Act", "class": "system"},
+    {"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "POTRAZ, led by Director General Gift Machengete with a data protection director, acts as the country's data protection authority and was nominated by SADC to lead regional data protection capacity building in 2026.", "as_of": "2025-12", "date_precision": "month", "system": "Cyber and Data Protection Act", "class": "system"},
+    {"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "POTRAZ reports 831 organisations recognised as compliant, 12 implementing guidelines issued (including on compliance assessments and data breach management), 30 data controller awareness trainings held and 24 cross-border transfers authorised.", "as_of": "2025-12", "date_precision": "month", "system": "Cyber and Data Protection Act", "class": "system"}
+  ],
+  "systems": [],
+  "note": ""
+}

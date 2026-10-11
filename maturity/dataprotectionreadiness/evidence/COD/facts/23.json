@@ -1,0 +1,44 @@
+{
+ "slug": "2023-03-13-rdc-ordonnance-loi-23-010-code-numerique",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Ordonnance-loi n° 23/010 of 13 March 2023 on the Digital Code was made by the President; its Book III sets the rules on public data and the protection of personal data (Article 166); the passages read contain no commencement provision, so only enactment is recorded.",
+   "as_of": "2023-03-13",
+   "date_precision": "day",
+   "system": "Code du numérique (Ordonnance-loi n° 23/010)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Article 262 creates an independent administrative Autorité de protection des données with legal personality and administrative and financial autonomy, and says a Prime Minister's decree will fix its organisation and functioning; Articles 267 to 268 set the membership conditions and a four-member bureau; the document does not show it constituted.",
+   "as_of": "2023-03-13",
+   "date_precision": "day",
+   "system": "Code du numérique (Ordonnance-loi n° 23/010)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Code du numérique (Ordonnance-loi n° 23/010)",
+   "country_label": "Code du numérique",
+   "class": "other",
+   "platform": "",
+   "owner": "Présidence de la République",
+   "tiers": ""
+  },
+  {
+   "system": "Autorité de protection des données",
+   "country_label": "Autorité de protection des données (APD)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2021-05-25-angola-decreto-presidencial-126-21-estatuto-remuneratorio-apd",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Decreto Presidencial n.º 126/21 of 25 May 2021, made under art. 11(4) of Decreto Presidencial n.º 214/16, approves the pay statute of the members of the APD's Conselho de Administração, with supplements borne by the Treasury for three years and then by the APD's own revenue; it does not itself say the board is staffed.",
+   "as_of": "2021-05-25",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados (APD)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência de Protecção de Dados (APD)",
+   "country_label": "Agência de Protecção de Dados",
+   "class": "other",
+   "platform": "",
+   "owner": "Presidente da República (superintendence)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

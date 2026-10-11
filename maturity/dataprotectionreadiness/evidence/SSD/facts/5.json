@@ -1,0 +1,44 @@
+{
+ "slug": "2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Paradigm Initiative and Koneta Hub held a two-day Juba convening of lawmakers, CSOs and officials to review the draft Data Protection Bill and seek parliamentary commitment to table it; the release is dated 2025-10-17 and gives no separate event date.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "Draft Data Protection Bill"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "none",
+   "class": "system",
+   "fact": "Koneta's Executive Director said the country lacks a comprehensive legal and institutional framework for the protection of personal data, with existing ICT regulations limited.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": ""
+  }
+ ],
+ "systems": [
+  {
+   "system": "Draft Data Protection Bill",
+   "country_label": "Data Protection Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "National Communication Authority (NCA)",
+   "country_label": "National Communication Authority",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of South Sudan",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,18 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "5",
+   "law": "in-force",
+   "treaty": "ratified",
+   "authority": "appointed",
+   "practice": "ruling",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-028;AGO-022;AGO-030",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

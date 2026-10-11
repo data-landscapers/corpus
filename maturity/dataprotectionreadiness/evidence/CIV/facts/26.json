@@ -1,0 +1,54 @@
+{
+ "slug": "2026-05-18-protection-donnees-progres-cote-divoire-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "On 18 May 2026 the digital minister cited the law of 19 June 2013 on personal data as the country's existing framework; the document does not give its number or say in terms that it is in force.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "Loi du 19 juin 2013 sur les données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The minister listed compliance control operations carried out in 2022 under the framework, with no count or sanction given.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Loi du 19 juin 2013 sur les données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The minister listed national awareness campaigns launched from 2015 as an advance under the framework.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Loi du 19 juin 2013 sur les données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi du 19 juin 2013",
+   "country_label": "loi du 19 juin 2013 encadrant les données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "ARTCI",
+   "country_label": "Artci",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

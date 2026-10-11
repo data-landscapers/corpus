@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-04-tgo-ipdcp-apdp-benin-seance-travail-lome",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Togo's IPDCP reports that a delegation of Benin's APDP led by its President, Dr Luciano Hounkponou, attended a working session in Lome on 2-3 October 2026, showing the authority has a sitting head.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Autorite de Protection des Donnees a caractere Personnel (APDP)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

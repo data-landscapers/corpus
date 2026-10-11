@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SSD,system,law,coverage,not-yet,2026-05-05,SSD-001;SSD-002;SSD-004;SSD-006;SSD-009,SSD-011=none;SSD-003=none;SSD-007=none;SSD-008=none,
+SSD,system,treaty,coverage,none,2026-02-02,SSD-012,,
+SSD,system,authority,coverage,none,2026-02-04,SSD-005;SSD-010;SSD-013,,
+SSD,system,practice,coverage,,,,,nothing held

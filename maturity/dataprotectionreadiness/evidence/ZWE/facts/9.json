@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-06-zimbabwe-cyber-data-protection-act-analysis-part1",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Veritas states that section 5 of the Cyber and Data Protection Act designates POTRAZ as the data protection authority responsible for administering and enforcing the Act, and says it is not concerned with how the Act is currently being administered, which shows POTRAZ acting in the role (as_of is the document's published date).",
+   "as_of": "2026-08-06",
+   "date_precision": "day",
+   "system": "POTRAZ"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "country_label": "POTRAZ, designated Data Protection Authority",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

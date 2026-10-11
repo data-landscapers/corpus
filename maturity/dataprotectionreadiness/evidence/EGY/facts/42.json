@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-07-egypt-social-solidarity-personal-data-protection-workshop",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "A 7 August 2026 report says the Personal Data Protection Centre, affiliated to the ICT ministry, is acting under Law 151 of 2020 (executive regulations issued November 2025, compliance deadline November 2026), with an acting chief executive, Susan El-Okbawy, who described its licensing and breach-handling role.",
+   "as_of": "2026-08-07",
+   "date_precision": "day",
+   "system": "مركز حماية البيانات الشخصية"
+  }
+ ],
+ "systems": [
+  {
+   "system": "مركز حماية البيانات الشخصية (Personal Data Protection Centre)",
+   "country_label": "مركز حماية البيانات الشخصية",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Information Technology",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

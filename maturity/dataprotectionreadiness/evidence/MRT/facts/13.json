@@ -1,0 +1,27 @@
+{
+ "slug": "2017-07-22-mrt-loi-2017-020-protection-donnees-a-caractere-personnel-apd",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Law 2017-020, adopted by the National Assembly and Senate and promulgated by the President, appears in Journal Officiel no. 1400 as the law on personal data protection; the excerpt shows no commencement provision.",
+   "as_of": "2017-07-22",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Article 64 creates an independent public-law Authority for Personal Data Protection attached to the Prime Minister, and Article 65 leaves its composition and appointment of members to a decree.",
+   "as_of": "2017-07-22",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

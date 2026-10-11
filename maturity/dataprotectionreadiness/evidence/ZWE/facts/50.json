@@ -1,0 +1,62 @@
+{
+ "slug": "2026-07-28-zimbabwe-potraz-data-protection-inspections-1-september",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Techzim describes the Act as the law under which POTRAZ will inspect data controllers from 1 September 2026 and under which a licence deadline of 12 March 2025 has already passed; dated by publication.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "Techzim reports POTRAZ's Regulatory Notice 2 of 2026, published in the press the Sunday before 28 July 2026, announcing mandatory risk-based compliance inspections of data controllers from 1 September 2026, starting with financial institutions, insurers, local authorities, health providers, mining firms, schools and others; no decision is reported.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "POTRAZ"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Techzim states the Act made POTRAZ the Data Protection Authority, which issued a Regulatory Notice 2 of 2026 on compliance inspections; dated by the article's publication date, 2026-07-28.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024)",
+   "country_label": "SI 155 of 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

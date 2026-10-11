@@ -1,0 +1,27 @@
+{
+ "slug": "2020-03-27-gabon-ordonnance-00002-pr-2020-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Ordonnance n°00002/PR/2020 of 31 January 2020, published in the Journal Officiel n°60 Bis of 27 March 2020, amends and completes the 2011 data protection law Loi n°001/2011 (adding rights to portability and erasure, a data protection delegate, and fines of CFA 1 million to 100 million); it was later superseded by Loi n°025/2023.",
+   "as_of": "2020-03-27",
+   "date_precision": "day",
+   "system": "Ordonnance n°00002/PR/2020 (amending Loi n°001/2011)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The ordonnance sets the organs of the Commission Nationale pour la Protection des Données à Caractère Personnel (bureau, plenary, restricted formation, provincial offices), creates its levy (RPPVP, CFA 1,000 per person a year) and its accounting agency; it names no appointment of members.",
+   "as_of": "2020-03-27",
+   "date_precision": "day",
+   "system": "Commission Nationale pour la Protection des Données à Caractère Personnel (CNPDCP)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2025-01-08 Understanding Botswana's New Data Protection Act 2024",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "TechHive Advisory states Data Protection Act No. 18 of 2024, published 29 October 2024, took effect on 14 January 2025 and repeals the Data Protection Act No. 32 of 2018, which never came into force.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Data Protection Act No. 18 of 2024"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act No. 18 of 2024",
+   "country_label": "Data Protection Act, 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national; controllers and processors"
+  },
+  {
+   "system": "Data Protection Act No. 32 of 2018",
+   "country_label": "Data Protection Act, 2018",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "repealed; never in force"
+  },
+  {
+   "system": "Information and Data Protection Commission",
+   "country_label": "Information and Data Protection Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

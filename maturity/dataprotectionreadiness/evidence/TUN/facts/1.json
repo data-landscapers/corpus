@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Tech Hive Advisory reports that Tunisia is introducing a 123-article data protection bill to update the country's existing law, in its roundup for January and February 2026 (the event date is given only as that period; the document was published 2026-06-23).",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Projet de loi organique relatif à la protection des données personnelles (123 articles)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "Tech Hive Advisory reports a DPA decision, in the January and February 2026 period, that positive or negative test results alone are standard health data not sensitive data, so employers need no prior authorisation.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Algerian personal data protection law"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Tech Hive Advisory reports that Algeria's DPA issued a decision in January or February 2026 on handling employee and candidate drug test results.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Algerian personal data protection law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Algerian DPA",
+   "country_label": "Algeria's DPA",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Governance Framework",
+   "country_label": "dispositif national de gouvernance des données",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "public institutions"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

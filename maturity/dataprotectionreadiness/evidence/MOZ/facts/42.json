@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-28-integritymagazine-cibercidadaos-defende-maior-capacidade-nacional-de-gestao-de",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Cibercidadãos spoke at a round table on the proposed Personal Data Protection Law (a bill text exists, since it urged the bill clarify CEDIMO's role); no date for submission or approval is stated; the event date is not given, so the published date 2026-08-28 is used.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Personal Data Protection draft law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei de Protecção de Dados Pessoais (proposta)",
+   "country_label": "Lei de Protecção de Dados Pessoais (proposta)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

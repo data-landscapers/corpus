@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-burkina-loi-organique-arcod-regulation-communication-donnees",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "L'Observateur Paalga reports deputies adopted on 3 August 2026 the bill organising ARCOD as the single authority for communication regulation and personal data protection, accompanying the new data protection law; the first collège is not yet formed.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Projet de loi relatif a la protection des personnes physiques a l'egard du traitement des donnees a caractere personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARCOD",
+   "country_label": "Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

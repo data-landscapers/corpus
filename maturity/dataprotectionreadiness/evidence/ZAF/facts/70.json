@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-31-werksmans-popia-paia-enforcement-signals",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "A law firm reporting the Information Regulator's 31 August 2026 briefing says the Regulator was formally established in December 2016 and is marking its tenth anniversary, with POPIA enforcement provisions in force five years.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The Regulator issued a POPIA enforcement notice to the South African Bureau of Standards after an own-initiated assessment of its 2024 ransomware attack, directing it to revise policies and fix security within 90 days; the document gives no notice date, so its published date is used.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

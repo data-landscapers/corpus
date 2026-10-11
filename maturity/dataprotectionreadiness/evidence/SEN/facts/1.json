@@ -1,0 +1,26 @@
+{
+ "slug": "2018-05-11-data-security-cybercrime-senegal",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The document states the Data Protection Act establishes the Senegalese Data Protection Authority (CDP), to which data owners must notify or from which they must obtain authorisation; no date of the event is given, so the published date is used.",
+   "as_of": "2018-05-11",
+   "date_precision": "day",
+   "system": "Commission de protection des données personnelles (CDP)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de protection des données personnelles (CDP)",
+   "country_label": "CDP",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Senegal",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

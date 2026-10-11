@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-03-burkina-alp-adopte-loi-protection-donnees-surete-aerienne",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Sidwaya reports that the ALP voted on 3 August 2026 the bill on protection of natural persons with regard to personal data processing; no promulgation is stated.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Projet de loi relatif a la protection des personnes physiques a l'egard du traitement des donnees a caractere personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Sidwaya reports the ALP also voted on 3 August 2026 the bill organising the regulator ARCOD, merging the CSC and the CIL, which takes over supervision of personal data processing.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Projet de loi relatif a la protection des personnes physiques a l'egard du traitement des donnees a caractere personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARCOD",
+   "country_label": "Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "CIL",
+   "country_label": "Commission de l'informatique et des libertes",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

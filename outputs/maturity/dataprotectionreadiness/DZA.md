@@ -1,0 +1,15 @@
+# Algeria
+
+## Data protection system
+
+**Law in force.** The [US International Trade Administration](<https://www.trade.gov/country-commercial-guides/algeria-digital-economy>) states that Law No. 18-07, enacted on 10 June 2018, came into force on 10 August 2023. [El Moudjahid](<https://www.elmoudjahid.dz/fr/actualite/conservation-des-donnees-personnelles-l-anpdp-exige-le-respect-de-la-loi-244968>) reports that law 25-11, promulgated in July 2025, amends it with data protection delegate, processing register and operations log duties.
+
+**Malabo Convention.** The [African Union status list](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) of 2 February 2026 records no signature and no ratification of the Convention by Algeria.
+
+**Authority appointed.** The national authority, the ANPDP, adopted a [deliberation](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>) on 15 July 2026 by a majority of its members, signed by its president, with twelve members named. [El Moudjahid](<https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551>) names Samir Bourehil as its president in July 2026.
+
+**Implementing and acting.** The ANPDP's [deliberation](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>) says it has put an online complaint service at the disposal of data subjects. [Tech Hive Advisory](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>) reports a decision in early 2026 on employee drug test results, and a [2025 roundup](<https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup>) reports a compliance package of guidelines and four templates.
+
+***Noted, not assessed***. The [Loi n° 18-07 du 10 juin 2018 (as amended)](<https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques>), the [ANPDP](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>), the [ANPDP deliberation on publication of images on platforms (15 July 2026)](<https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques>) and the [National Data Governance Framework](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>).
+
+***Not held***. Any ruling by the authority against a named organisation in the last three years.

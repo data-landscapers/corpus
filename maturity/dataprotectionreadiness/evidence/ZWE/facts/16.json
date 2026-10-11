@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-12-potraz-mandatory-compliance-inspections",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The Cyber and Data Protection Act [Chapter 12:07] is applied through SI 155 of 2024, which took effect in September 2024 and made a Data Controller Licence mandatory for organisations processing personal data.", "as_of": "2024-09", "date_precision": "month", "system": "Cyber and Data Protection Act", "class": "system"},
+    {"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "POTRAZ is designated Zimbabwe's Data Protection Authority under Section 5 of the Act and its Director General signed Regulatory Notice 2 of 2026 (published 2026-08-12; date of the notice itself 2026-07-15).", "as_of": "2026-07-15", "date_precision": "day", "system": "Cyber and Data Protection Act", "class": "system"},
+    {"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "POTRAZ issued Regulatory Notice 2 of 2026 announcing mandatory risk-based compliance inspections of data controllers from 1 September 2026 across nine priority sectors, and runs data controller licensing.", "as_of": "2026-07-15", "date_precision": "day", "system": "Cyber and Data Protection Act", "class": "system"}
+  ],
+  "systems": [
+    {"system": "Data Controller Licence regime", "country_label": "Data Controller Licence", "class": "system", "platform": "", "owner": "POTRAZ", "tiers": "public and private organisations processing personal data"}
+  ],
+  "note": ""
+}

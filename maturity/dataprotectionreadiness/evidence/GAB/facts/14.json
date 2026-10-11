@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-04-union-sonapresse-gabon-apdpvp-data-protection-interview",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The APDPVP president says that to date the authority has logged about 715 declarations of conformity from operators and public bodies, issued about 50 reasoned opinions, and received about 30 complaints from individuals, 7 union denunciations and 3 petitions; no year or period is stated, and the as_of date is the interview's publication date.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "Loi relative à la protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "In an interview published 4 September 2026 the APDPVP's president, Joel Dominique Ledaga, speaks as the sitting head of the authority and describes its powers to give reasoned opinions, self-refer, hear companies and inspect installations.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "Autorité pour la protection des données personnelles et de la vie privée (APDPVP)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi relative à la protection des données à caractère personnel",
+   "country_label": "loi sur la protection des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "APDPVP",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

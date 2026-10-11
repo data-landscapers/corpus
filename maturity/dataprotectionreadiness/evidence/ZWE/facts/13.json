@@ -1,0 +1,26 @@
+{
+ "slug": "2021-01-01-cyber-and-data-protection-act",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Section 5 of the Cyber and Data Protection Act designates POTRAZ as the Data Protection Authority and section 6(2) says it is not subject to the direction or control of any person in exercising its functions; the document gives no other date, so as_of is its published date.",
+   "as_of": "2021-01-01",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "country_label": "POTRAZ, designated Data Protection Authority",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2022-05-25-data-protection-africa-guinea-bissau-factsheet",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The Data Protection Africa factsheet headlines that Guinea-Bissau has no data protection law and that its data protection authority is not appointed; it gives no date for the finding beyond its published date, 2022-05-25, used here.",
+   "as_of": "2022-05-25",
+   "date_precision": "day",
+   "system": "Data protection authority"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

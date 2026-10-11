@@ -1,0 +1,106 @@
+{
+ "slug": "2024-01-01-data-protection-office-annual-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Data Protection Office reports on its enforcement in 2024 of the Data Protection Act 2017, citing its sections on complaints, transfers, registration, certification and appeals; the report is dated 2024 by year only.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2017"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "A draft Data Protection Bill, as recommended by the European Commission to amend the Data Protection Act for EU adequacy, was submitted by the Data Protection Office to the Ministry of Information Technology, Communication and Innovation for consideration; the report gives no date beyond 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2017"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "In 2024 the Data Protection Commissioner issued guidelines for the insurance sector requiring insurance salespersons to register as processors, and made recommendations on CCTV cameras in schools after a survey; 3,076 registration certificates were issued in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2017"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Data Protection Office has been operational since 16 February 2009 and enforces the Data Protection Act 2017; the report is signed by Data Protection Commissioner Drudeisha Madhub, who describes herself as the data protection regulator.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2017"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The Data Protection Office reports for January to December 2024: 179 new complaints (158 on CCTV), 39 complaints closed, 105 personal data breaches notified, 112 cross-border transfers authorised and 12 rejected under section 36, 10 impact assessments received, and four compliance inspections.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2017"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2017",
+   "country_label": "Data Protection Act 2017 (DPA)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation (parent ministry)",
+   "tiers": "controllers and processors in the public and private sectors"
+  },
+  {
+   "system": "Data Protection Office",
+   "country_label": "Data Protection Office (DPO), led by the Data Protection Commissioner",
+   "class": "other",
+   "platform": "online registration portal (dpo.govmu.org/dpoPortal)",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection (Fees) Regulations 2020",
+   "country_label": "Data Protection (Fees) Regulations 2020",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Insurance sector guidelines 2024",
+   "country_label": "Guidelines for the insurance sector",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commissioner",
+   "tiers": "insurance companies and salespersons"
+  },
+  {
+   "system": "CCTV Code of Practice 2010",
+   "country_label": "Code of Practice for CCTV Systems operated by the Mauritius Police Force (March 2010)",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commissioner",
+   "tiers": "Mauritius Police Force"
+  },
+  {
+   "system": "Draft Data Protection Bill",
+   "country_label": "Draft Data Protection Bill (EU adequacy)",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Office; Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

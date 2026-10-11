@@ -1,0 +1,112 @@
+{
+ "slug": "2025-11-01-zaf-information-regulator-annual-report-for-the-year-ended-31-march-2025",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Information Regulator reports that it monitored and enforced POPIA in 2024/25, issuing POPIA enforcement notices and assessing responsible parties under section 89, which presupposes the Act in force; dated to the end of the reporting year.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The Information Regulator reports that in 2024/25 twelve responsible parties were assessed on compliance with POPIA against a target of ten, and 17 POPIA education programmes were run, training 1177 participants.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The Information Regulator published its Guidance Note on Direct Marketing under POPIA in December 2024.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Information Regulator's annual report for the year ended 31 March 2025 states it is an independent body established under section 39 of POPIA, with a chairperson and members who held 4 ordinary and 40 special meetings in 2024/25.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The Information Regulator reports that in 2024/25 it received 1355 POPIA complaints, up 30 percent on the year before, and that 745 of them were resolved.",
+   "as_of": "2025-03-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The Information Regulator issued a POPIA enforcement notice to WhatsApp LLC on 10 September 2024 after an assessment under section 89, finding its privacy policy in breach of POPIA; WhatsApp then took the Regulator to judicial review.",
+   "as_of": "2024-09-10",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The Information Regulator issued a POPIA enforcement notice to the Department of Basic Education on 18 November 2024, followed by an infringement notice for non-compliance carrying an administrative fine of R5 million (undated in the report); the Department has brought appeal or review applications.",
+   "as_of": "2024-11-18",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The Information Regulator finalised a POPIA enforcement notice in Mabore v Blouberg Local Municipality on 8 August 2024, after referral by the Enforcement Committee on 4 June 2024.",
+   "as_of": "2024-08-08",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act 4 of 2013 (POPIA)",
+   "country_label": "POPIA",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator of South Africa",
+   "country_label": "Information Regulator",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator e-Services Portal",
+   "country_label": "e-Services Portal",
+   "class": "",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": "public and private bodies registering information officers and submitting section 22 security compromise reports"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,18 @@
+{
+ "iso3": "COM",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "1",
+   "law": "not-yet",
+   "treaty": "signed",
+   "authority": "none",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "COM-001;COM-003",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

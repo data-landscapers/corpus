@@ -1,0 +1,44 @@
+{
+ "slug": "2024-01-15-caf-loi-24-001-protection-donnees-personnelles-texte-promulgue",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The promulgated text of Loi n° 24.001 on personal data protection, adopted mid-January 2024, is held; the document gives no commencement date and no compliance period (date is the published date, month precision).",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Loi n° 24.001 portant protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Article 57 gives the ministry in charge of the digital economy twelve months from promulgation to set up the data protection agency, and meanwhile vests the agency's missions in that ministry; the text names no composition, seat or financing.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Loi n° 24.001 portant protection des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 24.001 portant protection des données à caractère personnel",
+   "country_label": "Loi n° 24.001",
+   "class": "other",
+   "platform": "",
+   "owner": "Assemblée Nationale / Présidence de la République",
+   "tiers": ""
+  },
+  {
+   "system": "Agence en charge de la protection des données à caractère personnel",
+   "country_label": "Agence en charge de la protection des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère en charge de l'Economie Numérique des postes et Télécommunications (interim)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01-botswana-breach-notification-dlapiper",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The page states as current law that data controllers and processors must notify a personal data breach to the Commission within 72 hours where feasible, with reasons if later; it gives no date, so the published year 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "Data Protection Act, 2024 (Botswana)", "class": "system"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act, 2024 (Botswana)", "country_label": "Data Protection Act", "class": "system", "platform": "", "owner": "Data Protection Commission", "tiers": ""}
+  ],
+  "note": "Document 8 skipped: facts file already exists."
+}

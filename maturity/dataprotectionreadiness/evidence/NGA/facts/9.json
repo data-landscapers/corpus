@@ -1,0 +1,54 @@
+{
+ "slug": "2026-02-23-ndpc-probes-schools-data-privacy",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "ITWeb Africa reports the NDPC launched investigations into over 1,000 educational institutions under the Nigeria Data Protection Act, giving them 21 days to produce 2024 compliance audit returns, a data protection officer and proof of registration; no decision is reported.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The NDPC investigates schools for compliance with the Nigeria Data Protection Act, with non-compliance exposing them to enforcement orders, administrative penalties or prosecution under the Act.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The NDPC, led by National Commissioner Dr Vincent Olatunji, launched a sector-by-sector compliance investigation of over 1,000 schools, with a joint working group with the Federal Ministry of Education.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly; enforced by the NDPC",
+   "tiers": "national"
+  },
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "Nigeria Data Protection Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government; National Commissioner and CEO Vincent Olatunji",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

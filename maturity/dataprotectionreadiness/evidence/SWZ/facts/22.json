@@ -1,0 +1,36 @@
+{
+ "slug": "2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The Data Protection Act, 2022 (Act No. 5 of 2022) was assented by King Mswati III and gazetted on 4 March 2022; the page states no commencement date.",
+   "as_of": "2022-03-04",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The Act establishes a Data Protection Commission with sanction powers.",
+   "as_of": "2022-03-04",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

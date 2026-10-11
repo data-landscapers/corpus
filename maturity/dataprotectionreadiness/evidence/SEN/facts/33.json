@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-01-seneweb-cdp-donnees-personnelles-t2-2026",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The CDP issued receipts, authorisations and a rejection under law 2008-12 in April-June 2026, so the law is applied and in force.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Loi n° 2008-12 du 25 janvier 2008"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The CDP published its quarterly opinion for April-June 2026: 195 files handled (154 declarations, 41 authorisation requests), 153 declaration receipts and 39 authorisations issued, 2 decisions deferred, 1 processing rejected, 2 controllers heard, and 8 complaints and 1 report received and handled.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Loi n° 2008-12 du 25 janvier 2008"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The CDP, created by law 2008-12, is described as the acting independent administrative authority, holding two plenary sessions in April-June 2026 and issuing decisions.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Loi n° 2008-12 du 25 janvier 2008"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 2008-12 du 25 janvier 2008",
+   "country_label": "loi portant sur la protection des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Commission de protection des Données Personnelles (CDP)",
+   "country_label": "CDP",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

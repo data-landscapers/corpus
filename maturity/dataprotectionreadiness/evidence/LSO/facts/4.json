@@ -1,0 +1,8 @@
+{
+  "slug": "2023-03-31-lesotho-cmm-review-2022",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "treaty", "value": "none", "fact": "The Oxford GCSCC/C3SA cybersecurity capacity review states that Lesotho has neither signed nor ratified the AU Convention on Cyber Security and Personal Data Protection (Malabo Convention); no date is given for the statement, so the document's published date of 2023-03-31 is used.", "as_of": "2023-03-31", "date_precision": "day", "system": "Malabo Convention", "class": "system"}
+  ],
+  "systems": [],
+  "note": ""
+}

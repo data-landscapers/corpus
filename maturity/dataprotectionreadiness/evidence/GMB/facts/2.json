@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-09-gmb-key-features-of-the-gambian-personal-data-protection-and-privacy-act",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The document states that President Barrow assented the Personal Data Protection and Privacy Act, 2025 on 7 November 2025, the country's first comprehensive data protection law, and that it has no grace period before it becomes enforceable; it gives no commencement date.",
+   "as_of": "2025-11-07",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Act, 2025"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The document says the Act provides a data protection authority, the Commission, which assesses cross-border transfers and may impose conditions, but it does not say the Commission is constituted or its members appointed; undated, so the publication date of 2026-02-09 is used.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Personal Data Protection and Privacy Act, 2025"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2024-01-15-comprendre-protection-donnees-personnelles-burkina-faso",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The African Legal Factory guide describes loi n°001-2021/AN of 30 March 2021 as the law startups must comply with, setting declaration duties and fines; no date of commencement is given, and the date used is the guide's published date.",
+   "as_of": "2024-01-15",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The guide states the CIL, created under the 2021 law, is the control authority that startups must declare processing to and that may issue warnings, formal notices, injunctions and fines; the date used is the guide's published date.",
+   "as_of": "2024-01-15",
+   "date_precision": "day",
+   "system": "Commission de l'Informatique et des Libertés (CIL)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel",
+   "country_label": "Loi n°001-2021/AN",
+   "class": "other",
+   "platform": "",
+   "owner": "Assemblée nationale",
+   "tiers": "national"
+  },
+  {
+   "system": "Commission de l'Informatique et des Libertés (CIL)",
+   "country_label": "CIL",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Burkina Faso",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

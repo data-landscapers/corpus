@@ -1,0 +1,54 @@
+{
+ "slug": "2026-08-04-mali-lapdp-ouvre-sa-2e-session-2026-avec-1000-dossiers-au-programme",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The APDP president, opening the authority's second ordinary session on 2026-08-03, cited Law no. 2013-015 of 21 May 2013 (as amended) as the basis for the authority's sanctions.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Loi n2013-015 du 21 mai 2013"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The session of 2026-08-03 had over 1,000 files to examine, covering authorisations, declarations, video-surveillance, formal notices and direct sanction procedures; the article gives no figures for sanctions issued.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Loi n2013-015 du 21 mai 2013"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The APDP held its second ordinary session on 2026-08-03 under president Pr Mamoudou Samassekou with all commissioners present.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Loi n2013-015 du 21 mai 2013"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n2013-015 du 21 mai 2013 (modifiee)",
+   "country_label": "Loi n2013-015",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Autorite de Protection des Donnees a Caractere Personnel (APDP)",
+   "country_label": "APDP",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

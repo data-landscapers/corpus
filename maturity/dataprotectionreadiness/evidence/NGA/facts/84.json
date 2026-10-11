@@ -1,0 +1,37 @@
+{
+ "slug": "2025-03-24-ndpc-probes-tiktok-truecaller",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The NDPC said it was investigating TikTok and Truecaller on data privacy and issued a directive of guidance for controllers and processors, with no decision reported.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The NDPC describes upholding the country's Data Protection Act, treating it as in force; document published 2025-03-24.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The NDPC is headed by National Commissioner and CEO Vincent Olatunji, who spoke at an Abuja press conference.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

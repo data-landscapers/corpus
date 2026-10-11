@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-02-au-malabo-convention-status-list",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "none",
+   "fact": "The African Union's status list of 2 February 2026 records no signature and no ratification of the Malabo Convention by South Sudan.",
+   "as_of": "2026-02-02",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": "read once by the parent for all countries"
+}

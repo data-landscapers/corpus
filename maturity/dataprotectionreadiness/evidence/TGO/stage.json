@@ -1,0 +1,18 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "4",
+   "law": "in-force",
+   "treaty": "ratified",
+   "authority": "appointed",
+   "practice": "implementing",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-001;TGO-010;TGO-002",
+   "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-29-information-regulator-blouberg-municipality-popia-fine",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The Information Regulator issued an enforcement notice and an infringement notice against Blouberg Local Municipality and imposed a R500,000 fine, which the Polokwane High Court reduced to R250,000 in a section 109(5) confirmation in early April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Information Regulator of South Africa"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Regulator's media statement names its chairperson, a full-time member, a part-time member and its chief executive officer.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Information Regulator of South Africa"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Regulator of South Africa",
+   "country_label": "Information Regulator",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

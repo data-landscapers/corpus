@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-id4d-country-diagnostic-south-sudan",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "none",
+   "class": "system",
+   "fact": "The World Bank's ID4D diagnostic states South Sudan does not have a national data protection or privacy law and has no national data protection and privacy regime; no event date is given, so the published date of 2026-05-01 is used.",
+   "as_of": "2026-05-01",
+   "date_precision": "day",
+   "system": "General data protection law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Civil Registry and Identity Regulations (2024)",
+   "country_label": "ID Regulations",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

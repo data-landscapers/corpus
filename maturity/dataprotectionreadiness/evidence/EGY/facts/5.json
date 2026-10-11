@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-21 Regulating Privacy and Digital Identities in the Age of AI - the View from Egypt (Cairo Review)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The essay discusses Egypt's Law 151/2020 as the country's operating personal data protection law whose protections AI-driven biometric and location data collection is outpacing; it gives no date of commencement, so the date used is the document's published date (2025-06-21).",
+   "as_of": "2025-06-21",
+   "date_precision": "day",
+   "system": "Law 151/2020 (Personal Data Protection Law)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

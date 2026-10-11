@@ -1,0 +1,52 @@
+{
+ "slug": "2026-02-09 Notification obligations arising from personal data breaches in Tanzania",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Clyde & Co states that, with the enactment of the Personal Data Protection Act, Chapter 44, Revised Edition 2023, entities processing personal data in Tanzania are subject to breach-notification obligations (s.27(5)); no commencement date given, so the document's published date of 2026-02-09 is used.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Chapter 44"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Clyde & Co states controllers must notify the Personal Data Protection Commission of breaches and that the Commission provides a prescribed notification format; document's published date 2026-02-09 used.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Personal Data Protection Commission"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Act, Chapter 44",
+   "country_label": "PDP Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  },
+  {
+   "system": "Personal Data Protection (Collection and Processing) Regulations, GN 449C of 2023",
+   "country_label": "Collection and Processing Regulations",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  },
+  {
+   "system": "Personal Data Protection Commission",
+   "country_label": "the Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

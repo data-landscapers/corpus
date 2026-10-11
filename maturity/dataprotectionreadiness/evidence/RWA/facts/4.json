@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "CIPESA states that Rwanda's AI policy positions the National Cyber Security Authority (NCSA) to oversee data protection compliance relevant to AI systems; the document gives no date for this, so the published date 2026-07-23 is used.", "as_of": "2026-07-23", "date_precision": "day", "system": "National Cyber Security Authority (NCSA)", "class": "system"}
+  ],
+  "systems": [
+    {"system": "National Cyber Security Authority (NCSA)", "country_label": "NCSA", "class": "system", "platform": "", "owner": "Government of Rwanda", "tiers": "national"}
+  ],
+  "note": "Only the NCSA oversight role is stated; nothing on a law in force, the Malabo Convention or practice."
+}

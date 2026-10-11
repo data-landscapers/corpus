@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "UNDP lists training staff in over 145 offices across 10 provinces on the Data Protection Act as an operational requirement of the digital ID rollout; no date is given, so the published date of 2024-09-17 is used.",
+   "as_of": "2024-09-17",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

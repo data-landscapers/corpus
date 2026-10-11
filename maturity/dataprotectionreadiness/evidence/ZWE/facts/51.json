@@ -1,0 +1,52 @@
+{
+ "slug": "2026-07-30-potraz-data-licence-fees-slammed-as-costly-burden-on-businesses-and-consumers",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "POTRAZ published Regulatory Notice 2 of 2026 announcing mandatory compliance inspections of data controllers from 1 September 2026; CITE says many organisations are believed not yet registered, and reports no sanction.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "POTRAZ serves as Zimbabwe's Data Protection Authority under the Act and has issued Regulatory Notice 2 of 2026, per CITE.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "Statutory Instrument 155 of 2024",
+   "country_label": "Statutory Instrument 155 of 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "POTRAZ",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

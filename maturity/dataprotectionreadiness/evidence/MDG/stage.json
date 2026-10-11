@@ -1,0 +1,18 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "3",
+   "law": "in-force",
+   "treaty": "ratified",
+   "authority": "appointed",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MDG-010;MDG-015;MDG-001",
+   "gaps": "No source dated in the last three years shows an appointed authority registering organisations, taking breach reports, issuing guidance or inspecting.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

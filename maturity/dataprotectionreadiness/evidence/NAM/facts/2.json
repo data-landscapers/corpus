@@ -1,0 +1,50 @@
+{
+ "slug": "2026-07-14-namibia-pushes-cyber-security-reforms-itweb",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "ICT minister Emma Theofelus said Namibia is finalising the Data Protection Bill, speaking at the first meeting of the new CRAN board on the Monday before the 14 July 2026 article.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Data Protection Bill"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Bill",
+   "country_label": "Data Protection Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  },
+  {
+   "system": "Cybercrime Bill",
+   "country_label": "Cybercrime Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Transactions Act",
+   "country_label": "Electronic Transactions Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Communications Act",
+   "country_label": "Communications Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-27-namibia-data-protection-cybercrime-bills-final-polishing",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Minister Theofelus said the Data Protection Bill had been through consultation and drafting and was ready for resubmission to the Cabinet Committee on Legislation for validation and onward processing by Parliament; she spoke at a staff engagement the day before the 27 January 2026 article.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Data Protection Bill"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Bill",
+   "country_label": "Data Protection Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  },
+  {
+   "system": "Cybercrime Bill",
+   "country_label": "Cybercrime Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-23-zwe-sirdc-africa-data-protection-day-si155-fines-workshop",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "POTRAZ held a National Consultative Workshop on guidelines under the Cyber and Data Protection Act and on amendments to SI 155 of 2024 on administrative fines, at which the inaugural Africa Data Protection Day was marked, per attendee SIRDC; the document gives no workshop date, so its published date is used.",
+   "as_of": "2026-09-23",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "Statutory Instrument 155 of 2024",
+   "country_label": "Statutory Instrument 155 of 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "POTRAZ",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

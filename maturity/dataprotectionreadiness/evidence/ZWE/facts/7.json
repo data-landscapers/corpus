@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-16-zimbabwe-doctors-data-protection-levies",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "POTRAZ has made data controller licences and data protection officers mandatory for healthcare providers, with licences from about US$300 a year, and announced compliance inspections of healthcare institutions from 1 September 2026, per The Standard; no sanction is reported.",
+   "as_of": "2026-08-16",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  }
+ ],
+ "systems": [
+  {
+   "system": "POTRAZ",
+   "country_label": "POTRAZ",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

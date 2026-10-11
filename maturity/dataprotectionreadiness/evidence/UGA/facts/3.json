@@ -1,0 +1,56 @@
+{
+ "slug": "2026-07-29-whatsapp-privacy-updates-uganda-data-protection-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The PDPO decided a complaint against WhatsApp LLC and Meta Platforms under the Data Protection and Privacy Act, Cap. 97, and found a failure to demonstrate compliance with its cross-border transfer requirements.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Personal Data Protection Office, with National Personal Data Protection Director Baker Birikujja, issued a decision on 20 February 2026 under the Data Protection and Privacy Act, Cap. 97.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The PDPO's decision of 20 February 2026 partly upheld the AdLegal International complaint and issued five corrective orders to WhatsApp LLC, with Meta joined for implementation only; no fine was imposed.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "By letter of 17 July 2026 the PDPO confirmed WhatsApp LLC had implemented the corrective measures within the prescribed timelines, and no appeal was lodged in the statutory period.",
+   "as_of": "2026-07-17",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Office",
+   "country_label": "Personal Data Protection Office (PDPO)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

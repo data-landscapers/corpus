@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-04-gha-gna-dpc-spot-checks-enforcement-act-843",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Ghana News Agency reports the Data Protection Commission enforcing the Data Protection Act, 2012 (Act 843) as the law in operation, with processing personal data without registration an offence under it.",
+   "as_of": "2026-10-04",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The Commission said it would begin spot checks on registration and lawful processing from 2026-10-05 and had identified some non-compliant entities, with prosecution threatened; no sanction or decision is named.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, is acting under Act 843, which the document gives as the body running registration and spot checks (document published 2026-10-04).",
+   "as_of": "2026-10-04",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission (DPC)",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commission, Ghana",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

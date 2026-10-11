@@ -1,0 +1,54 @@
+{
+ "slug": "2025-07-01-premier-ministre-lance-campagne-sensibilisation-administration",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The CIL president, speaking on 1 July 2025, recalled that data protection is compulsory and enshrined in law n°001-2021/AN of 30 March 2021.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN du 30 mars 2021 portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "On 1 July 2025 the Prime Minister launched a series of CIL awareness sessions on personal data protection for ministries and public institutions, starting at the Primature, following the third national data protection day of 25-30 March 2025.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN du 30 mars 2021 portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Commission de l'informatique et des libertés, led by its president Dr Halguiéta Nassa/Trawina, carried the awareness campaign launched by the Prime Minister on 1 July 2025.",
+   "as_of": "2025-07-01",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN du 30 mars 2021 portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°001-2021/AN du 30 mars 2021",
+   "country_label": "Loi portant protection des personnes à l'égard du traitement des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Commission de l'informatique et des libertés (CIL)",
+   "country_label": "CIL",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

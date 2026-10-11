@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-17-dlapiper-burundi-data-protection-law",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "none", "fact": "DLA Piper states Burundi has no law specifically regulating personal data protection, only sector confidentiality provisions; dated by the document's published date, 2024-01-17.", "as_of": "2024-01-17", "date_precision": "day", "system": "Burundi data protection regime", "class": "system"},
+    {"sub_indicator": "system", "aspect": "authority", "value": "none", "fact": "DLA Piper states there is no national data protection authority in Burundi; dated by the document's published date, 2024-01-17.", "as_of": "2024-01-17", "date_precision": "day", "system": "Burundi data protection regime", "class": "system"}
+  ],
+  "systems": [
+    {"system": "Burundi data protection regime", "country_label": "Data protection laws in Burundi", "class": "system", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

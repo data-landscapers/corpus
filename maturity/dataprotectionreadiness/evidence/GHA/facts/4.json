@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-07-securing-trust-enabling-access-nia-data-privacy-framework",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "A law firm article of 7 August 2025 says the Data Protection Commission holds supervisory authority under Act 843 but has been absent from public discussion of an inter-agency data dispute.",
+   "as_of": "2025-08-07",
+   "date_precision": "day",
+   "system": "Data Protection Commission"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

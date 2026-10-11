@@ -1,0 +1,37 @@
+{
+ "slug": "2026-08-01-lawlab-africa-eritrea-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "none",
+   "class": "system",
+   "fact": "Law Lab Africa states that no comprehensive data protection law is in force in Eritrea, as of a verification pass on 1 August 2026.",
+   "as_of": "2026-08-01",
+   "date_precision": "day",
+   "system": "No general data protection law"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "none",
+   "class": "system",
+   "fact": "Law Lab Africa states that no enforcement decisions could be found for Eritrea and none are published, as of the 1 August 2026 verification pass.",
+   "as_of": "2026-08-01",
+   "date_precision": "day",
+   "system": "No general data protection law"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Law Lab Africa states that no supervisory authority has been established in Eritrea, as of 1 August 2026.",
+   "as_of": "2026-08-01",
+   "date_precision": "day",
+   "system": "No general data protection law"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

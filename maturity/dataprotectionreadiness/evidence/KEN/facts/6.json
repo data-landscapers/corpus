@@ -1,0 +1,62 @@
+{
+ "slug": "2026-08-28-thestar-odpc-gives-data-handlers-14-days-to-renew",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The ODPC issued a notice on 28 August 2026 under section 18 of the Data Protection Act, 2019 giving controllers and processors with expired registration certificates until 11 September 2026 to renew or face enforcement, and published the list of such entities on its website.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Star reports the ODPC enforcing section 18 of the Data Protection Act, 2019, which bars unregistered controllers and processors from acting.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Star reports the ODPC as the independent oversight body established by the Act and acting, with a registration register and notice of 28 August 2026.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2019",
+   "country_label": "Data Protection Act, 2019",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021",
+   "country_label": "Registration Regulations, 2021",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "ODPC",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

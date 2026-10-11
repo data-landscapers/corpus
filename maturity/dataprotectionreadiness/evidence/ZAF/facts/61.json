@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-zaf-2025-vote-25-information-regulator",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "National Treasury's 2025 Estimates of National Expenditure appropriate R135.7m for 2025/26 to the Information Regulator and state the Justice department reprioritises R328m over the medium term to facilitate its transition into a standalone public entity from 1 April 2025.",
+   "as_of": "2025-04-01",
+   "date_precision": "day",
+   "system": "Information Regulator"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

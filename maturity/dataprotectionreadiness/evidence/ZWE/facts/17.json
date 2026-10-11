@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-zimra-data-privacy-week-data-protection-officers",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "ZIMRA states that under the Cyber and Data Protection Act [Chapter 12:07] and SI 155 of 2024 all entities that process information must appoint a Data Protection Officer, and that it has two registered DPOs; the document is dated by proxy to late January 2026.", "as_of": "2026-01", "date_precision": "month", "system": "Cyber and Data Protection Act", "class": "system"}
+  ],
+  "systems": [],
+  "note": ""
+}

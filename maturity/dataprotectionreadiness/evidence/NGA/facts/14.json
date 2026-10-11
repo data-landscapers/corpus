@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-17-legal-basis-2-0-launch",
+  "facts": [
+    {
+      "sub_indicator": "system",
+      "aspect": "law",
+      "value": "in-force",
+      "fact": "The document describes organisations being helped to implement the provisions of the Nigeria Data Protection Act 2023, with its six lawful bases of processing, as the operative law.",
+      "as_of": "2026-07-17",
+      "date_precision": "day",
+      "system": "Nigeria Data Protection Act 2023",
+      "class": "system"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nigeria Data Protection Act 2023",
+      "country_label": "NDP Act",
+      "class": "system",
+      "platform": "",
+      "owner": "Nigeria Data Protection Commission",
+      "tiers": "federal MDAs and public and private organisations"
+    }
+  ],
+  "note": "NDPC attended a stakeholder session; no authority action by the NDPC itself is stated."
+}

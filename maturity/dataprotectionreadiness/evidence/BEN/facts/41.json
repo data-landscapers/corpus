@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-05-lanation-benin-whatsapp-employeur-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "La Nation, 5 September 2026, treats the Code du numérique, Article 379, as the framework that currently governs personal data processing in Benin, including employer access to work messaging.",
+   "as_of": "2026-09-05",
+   "date_precision": "day",
+   "system": "Code du numérique"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

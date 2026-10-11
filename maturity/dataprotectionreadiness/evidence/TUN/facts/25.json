@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-20-africanmanager-data-protection-law-parliament",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "African Manager reports that the ARP Rights and Freedoms Committee reviewed the draft opinion on the proposed organic law on personal data protection, a 123-article text in 6 titles, and began examining the articles of the first title (no event date given beyond the article date, 2026-02-20).",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Proposed organic law on personal data protection (123 articles)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Authority",
+   "country_label": "Instance nationale de protection des données personnelles",
+   "class": "other",
+   "platform": "",
+   "owner": "State",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

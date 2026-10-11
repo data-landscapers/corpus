@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-03-burkina-faso-deputies-adopt-new-personal-data-protection-law",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The Assemblee legislative du Peuple states that deputies adopted the data protection bill on 3 August 2026; no promulgation is stated.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Projet de loi relatif a la protection des personnes physiques a l'egard du traitement des donnees a caractere personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The ALP reports the minister saying the future regulatory authority will hold regulatory power; the authority is not yet constituted.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Projet de loi relatif a la protection des personnes physiques a l'egard du traitement des donnees a caractere personnel"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

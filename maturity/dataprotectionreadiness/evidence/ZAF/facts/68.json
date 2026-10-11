@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-17-businessday-information-regulator-sca-matric-results-popia",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The document says Popia was signed into law in 2013 and that the department stopped publishing learners' surnames in 2014 after Popia was established; it does not state a commencement date.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "Protection of Personal Information Act (Popia)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "After a November 2023 POPIA assessment the Information Regulator issued the basic education department a notice not to publish the 2024 matric results in newspapers; the department kept publishing exam numbers.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Protection of Personal Information Act (Popia)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act (Popia)",
+   "country_label": "Popia",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator (enforcer)",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator",
+   "country_label": "Information Regulator",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "2026-02-03-eswatini-launches-data-protection-campaign",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The article says the Act was enacted in 2022, that organisations may not collect personal data unless registered with the authority, and that the compliance deadline was 31 March 2026.",
+   "as_of": "2026-02-03",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The EDPA ran an awareness campaign setting out eight data subject rights, and organisations were conducting data mapping ahead of the 31 March 2026 compliance deadline (date is the article's publication date).",
+   "as_of": "2026-02-03",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The EDPA launched its 2026 awareness campaign 'Take Control of Your Data' and has a registration regime for organisations.",
+   "as_of": "2026-02-03",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2022 (No. 5 of 2022)",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament; supervised by ESCCOM as EDPA",
+   "tiers": ""
+  },
+  {
+   "system": "Eswatini Data Protection Authority (EDPA)",
+   "country_label": "EDPA",
+   "class": "other",
+   "platform": "",
+   "owner": "Eswatini Communications Commission (ESCCOM)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-30-kenya-data-commissioner-shortlist",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "TechTrends KE describes the Data Protection Act, 2019 as the framework under which the ODPC regulates the processing of personal information, without giving a commencement date; dated by the article's published date.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "TechTrends KE reports the Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, with inaugural commissioner Immaculate Kassait in office since 2020 and a Senior Deputy Data Commissioner serving; the Public Service Commission shortlisted 13 of 152 applicants to succeed her.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2019",
+   "country_label": "Data Protection Act, 2019",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "ODPC",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commissioner",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

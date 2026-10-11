@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-23 Reassessing the role of data protection authorities in Africa",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Cenfri says Lesotho's Data Protection Act (which it dates 2011) has been law for over a decade; no date for the statement is given, so the document's published date of 2026-03-23 is used.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Cenfri says the Data Protection Commission under Lesotho's Data Protection Act has remained unappointed; no date for the statement is given, so the document's published date of 2026-03-23 is used.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

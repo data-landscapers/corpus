@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-14-arp-tunisie-loi-organique-095-2025-protection-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Draft organic law no. 095/2025 on the protection of personal data, 132 articles, was deposited before the Assembly of the Representatives of the People on 14 July 2025 and would repeal organic law no. 63 of 2004 six months after publication.",
+   "as_of": "2025-07-14",
+   "date_precision": "day",
+   "system": "Projet de loi organique n. 095/2025 relatif a la protection des donnees a caractere personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The tabled bill provides for a personal data protection authority (chapter four, from article 94) and vests the 2004 national authority's property, files and data in it (article 132); it is not constituted by the bill.",
+   "as_of": "2025-07-14",
+   "date_precision": "day",
+   "system": "Projet de loi organique n. 095/2025 relatif a la protection des donnees a caractere personnel"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

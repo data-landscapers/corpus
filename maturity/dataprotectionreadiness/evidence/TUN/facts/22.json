@@ -1,0 +1,17 @@
+{
+ "slug": "2021-04-16-tun-decret-gouvernemental-n-2021-230-du-16-avril-2021-portant-nomination-d",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Government decree no. 2021-230 of 16 April 2021 appoints twelve named members (two MPs, two judges, ministry representatives, a human rights committee member and an ICT expert) to the national personal data protection authority for three years.",
+   "as_of": "2021-04-16",
+   "date_precision": "day",
+   "system": "Instance nationale de protection des données à caractère personnel"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

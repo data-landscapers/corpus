@@ -1,0 +1,44 @@
+{
+ "slug": "2021-03-30-loi-001-2021-an-protection-donnees-caractere-personnel",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The text of loi n°001-2021/AN, adopted by the Assemblée nationale on 30 March 2021, abrogates loi n°010-2004/AN and (art. 81) gives one year from entry into force for all processing to comply.",
+   "as_of": "2021-03-30",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Articles 45 to 55 create the CIL as the supervisory authority, with nine members appointed by decree in the Council of Ministers; art. 80 keeps members already appointed in place.",
+   "as_of": "2021-03-30",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel",
+   "country_label": "Loi n°001-2021/AN",
+   "class": "other",
+   "platform": "",
+   "owner": "Assemblée nationale",
+   "tiers": "national"
+  },
+  {
+   "system": "Commission de l'Informatique et des Libertés (CIL)",
+   "country_label": "CIL",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Burkina Faso",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

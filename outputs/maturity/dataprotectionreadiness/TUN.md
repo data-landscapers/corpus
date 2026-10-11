@@ -1,0 +1,15 @@
+# Tunisia
+
+## Data protection system
+
+**Law in force.** Organic law no. 2004-63 of 27 July 2004 sets the [general processing, consent and rights regime](<https://legislation-securite.tn/latest-laws/loi-organique-n-2004-63-du-27-juillet-2004-portant-sur-la-protection-des-donnees-a-caractere-personnel/>), and a [Forum Chawki Gaddes statement of 3 October 2026](<https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/>) cites it as the law guaranteeing personal data protection. A replacement bill, no. 095/2025, was [deposited before the Assembly on 14 July 2025](<https://www.arp.tn/loi/project/4237>). It would repeal the 2004 law six months after publication.
+
+**Malabo Convention.** The [African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records that Tunisia signed on 23 April 2019 and had not ratified.
+
+**Authority appointed.** [Government decree no. 2021-230 of 16 April 2021](<https://legislation-securite.tn/ar/latest-laws/%D8%A3%D9%85%D8%B1-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D8%B9%D8%AF%D8%AF-230-%D9%84%D8%B3%D9%86%D8%A9-2021-%D9%85%D8%A4%D8%B1%D8%AE-%D9%81%D9%8A-16-%D8%A3%D9%81%D8%B1%D9%8A%D9%84-2021-%D9%8A%D8%AA%D8%B9/>) appointed twelve named members to the national personal data protection authority for three years. [Decree no. 2020-312 of 15 May 2020](<https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-312-du-15-mai-2020-fixant-le-contenu-et-les-specifications-techniques-de-lidentifiant-unique-du-citoyen-et-les-regles-regissant-la-tenue-et-la-gestion-de-son-regi/>) puts the citizen-ID register under its control.
+
+**Implementing and acting.** The Forum Chawki Gaddes says in a [statement of 3 October 2026](<https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/>) that the activities of the authority, INPDP, are at a standstill and calls for its reactivation.
+
+***Noted, not assessed***. [Registre de l'identifiant unique citoyen](<https://legislation-securite.tn/latest-laws/decret-gouvernemental-n-2020-312-du-15-mai-2020-fixant-le-contenu-et-les-specifications-techniques-de-lidentifiant-unique-du-citoyen-et-les-regles-regissant-la-tenue-et-la-gestion-de-son-regi/>); [Instance nationale de protection des données personnelles (INPDP)](<https://businessnews.com.tn/2026/10/04/le-forum-chawki-gaddes-denonce-la-divulgation-de-donnees-personnelles-et-appelle-a-proteger-les-mineurs/1421336/>).
+
+***Not held***. No source dated in the last three years shows the authority registering organisations, taking breach reports, issuing guidance or inspecting. No ruling against an organisation is held.

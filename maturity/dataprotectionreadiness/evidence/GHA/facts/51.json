@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-27-deputy-minister-data-protection-collaboration-myjoy",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Deputy Minister urged institutions to uphold the principles of the Data Protection Act at the launch of Data Protection Week 2026, and the Commission said the law provides fines and imprisonment for non-compliance.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The Commission reported that in 2025 it ran its largest awareness campaign (an estimated 25 million people reached), expanded data controller registrations, conducted compliance audits across several sectors and trained more than 800 data protection professionals; no decision or sanction is named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, is acting, with government pledging policy backing and institutional cooperation.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission (DPC)",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commission, Ghana",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

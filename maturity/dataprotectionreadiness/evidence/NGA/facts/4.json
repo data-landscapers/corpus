@@ -1,0 +1,62 @@
+{
+ "slug": "2026-08-20-thesun-nigeria-fg-ngf-data-protection-act-states",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The communications minister's office, speaking at an NGF-NDPC workshop, said the Nigeria Data Protection Act 2023 provides the legal foundation for data governance across all tiers of government and urged states to implement it.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "NDPC National Commissioner Olatunji said Nigeria has over 10,000 certified data protection officers and over 27,000 people in its privacy ecosystem, against fewer than 1,000 three years earlier, and held a two-day implementation workshop with the NGF for state governments.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "NDPC National Commissioner and CEO Vincent Olatunji addressed the workshop and urged states to adopt policies and frameworks rather than separate state data protection laws.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "federal; states urged to implement"
+  },
+  {
+   "system": "General Application and Implementation Directive 2025",
+   "country_label": "GAID 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "NDPC",
+   "tiers": "all tiers of government"
+  },
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "NDPC",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

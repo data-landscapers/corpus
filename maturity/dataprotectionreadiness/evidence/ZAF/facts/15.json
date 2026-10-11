@@ -1,0 +1,62 @@
+{
+ "slug": "2025-04-15-mandatory-eportal-breach-reporting",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Inside Privacy (Covington) describes POPIA as South Africa's data protection framework and states that its breach-notification and security-safeguard obligations currently bind responsible parties and operators.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Protection of Personal Information Act, 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The Information Regulator introduced an online eServices Portal as the official platform for POPIA security-compromise notifications; the document reports no sanction or decision, and says Form SCN1 for manual reporting was first released in 2023.",
+   "as_of": "2025-04-07",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act, 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Information Regulator is stated to have announced on 7 April 2025 a requirement that breaches be reported through its eServices Portal, and receives breach notifications under POPIA, so it is an existing body acting.",
+   "as_of": "2025-04-07",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act, 2013 (POPIA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act, 2013 (POPIA)",
+   "country_label": "POPIA",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of South Africa",
+   "tiers": "national"
+  },
+  {
+   "system": "Information Regulator",
+   "country_label": "Information Regulator",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator (South Africa)",
+   "tiers": "national"
+  },
+  {
+   "system": "eServices Portal",
+   "country_label": "eServices Portal",
+   "class": "other",
+   "platform": "online portal",
+   "owner": "Information Regulator (South Africa)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

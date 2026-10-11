@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-01 State of Internet Freedom in Zambia 2026 6th Edition",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "Bloggers of Zambia reports a registration deadline of 30 April 2025 under the Data Protection Act for data controllers and processors, with the Commissioner's office operational; no decision or sanction is stated.",
+   "as_of": "2025-04-30",
+   "date_precision": "day",
+   "system": "Data Protection Act 2021"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Bloggers of Zambia reports that the Office of the Data Protection Commissioner became operational, with a registration deadline of 30 April 2025.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Data Protection Act 2021"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2021",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Office of the Data Protection Commissioner",
+   "tiers": ""
+  },
+  {
+   "system": "Cyber Security Act No. 3 of 2025 and Cyber Crimes Act No. 4 of 2025",
+   "country_label": "Cyber Security Act; Cyber Crimes Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

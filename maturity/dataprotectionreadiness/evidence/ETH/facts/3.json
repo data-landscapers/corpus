@@ -1,0 +1,11 @@
+{
+  "slug": "2024-11-18-review-ethiopia-data-protection-act",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The review states Ethiopia published its Personal Data Protection Proclamation in the Federal Negarit Gazette on 24 July 2024, bringing it into effect.", "as_of": "2024-07-24", "date_precision": "day", "system": "Personal Data Protection Proclamation", "class": "system"},
+    {"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The review states the Ethiopian Communications Authority serves as the regulatory body with oversight of the Proclamation (Article 5); it gives no appointment date, so the date is the Proclamation's publication.", "as_of": "2024-07-24", "date_precision": "day", "system": "Personal Data Protection Proclamation", "class": "system"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Proclamation", "country_label": "Personal Data Protection Proclamation", "class": "system", "platform": "", "owner": "Ethiopian Communications Authority", "tiers": ""}
+  ],
+  "note": ""
+}

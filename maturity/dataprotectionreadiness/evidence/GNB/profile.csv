@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GNB,system,law,coverage,none,2026-09-22,GNB-004,GNB-005=not-yet;GNB-003=not-yet,
+GNB,system,treaty,coverage,signed,2015-01-31,GNB-001,,nothing dated since 2023-09-28
+GNB,system,authority,coverage,none,2026-09-22,GNB-002;GNB-006,,
+GNB,system,practice,coverage,,,,,nothing held

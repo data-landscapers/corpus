@@ -1,0 +1,37 @@
+{
+ "slug": "2025-04-01-syc-information-commission-annual-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The CEO states the Data Protection Act was enacted in December 2023 and the first cases under it were received in early 2024, with the law described as new and still being established.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The Commission received four data protection cases in 2024, mostly from the non-banking financial sector, handled through investigations, consultations, mediation and recommendations, with no decision or sanction on a named controller reported.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Information Commission, led by a Chief Information Commissioner with Information Commissioners and a CEO, administers the Data Protection Act 2023 alongside the Access to Information Act; it reports significant recruitment and staffing challenges for the new Act.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2023"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

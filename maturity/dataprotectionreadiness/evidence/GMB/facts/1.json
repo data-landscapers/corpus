@@ -1,0 +1,44 @@
+{
+ "slug": "2025-12-26 Review of Gambia's Personal Data Protection and Privacy Act, 2025",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "TechHive Advisory reviews the Personal Data Protection and Privacy Act as enacted, concluding a legislative process stalled for several years; it gives no commencement date (published 2025-12-26, no other date).",
+   "as_of": "2025-12-26",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Act 2025"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The review says the Act establishes an independent oversight Commission; it does not say the Commission has been appointed (published 2025-12-26, no other date).",
+   "as_of": "2025-12-26",
+   "date_precision": "day",
+   "system": "Commission under the Personal Data Protection and Privacy Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection and Privacy Act 2025",
+   "country_label": "Personal Data Protection and Privacy Act, 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly of The Gambia",
+   "tiers": ""
+  },
+  {
+   "system": "Commission under the Personal Data Protection and Privacy Act",
+   "country_label": "Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

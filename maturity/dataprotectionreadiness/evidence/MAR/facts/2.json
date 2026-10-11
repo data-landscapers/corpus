@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Tech Hive Advisory reports that Morocco's DPA and Portugal's DPA signed a cooperation MoU on 2026-02-08 on information and expertise exchange on AI, deepfakes and digital violence.",
+   "as_of": "2026-02-08",
+   "date_precision": "day",
+   "system": "Loi 09-08"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNDP",
+   "country_label": "Commission nationale de contrôle de la protection des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-somalia-dpa-registration-guidelines",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Somalia Data Protection Authority issued Version 1.0 of its Registration Guidelines in January 2026 under Law No. 005 of 2023, setting fees, a 30-day approval timeline and mandatory registration, showing a body named in law and operating.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Somalia Data Protection Authority"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

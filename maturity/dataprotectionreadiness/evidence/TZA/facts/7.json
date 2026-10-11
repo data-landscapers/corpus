@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-03-rive-first-pdpc-monetary-award",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The Personal Data Protection Commission ruled in Abdul Said Naumanga v. Mi Casa Company Limited, ex parte, awarding TZS 20,000,000 and ordering deletion of the complainant's personal data; the decision date is not given, so the document's published date of 2025-08-03 is used.",
+   "as_of": "2025-08-03",
+   "date_precision": "day",
+   "system": "Personal Data Protection Commission (PDPC)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Personal Data Protection Commission hears complaints and enforces the Personal Data Protection Act, Cap 44, which the document says is in effect from 1 May 2023; the document's published date of 2025-08-03 is used for the Commission's operation.",
+   "as_of": "2025-08-03",
+   "date_precision": "day",
+   "system": "Personal Data Protection Commission (PDPC)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

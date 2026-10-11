@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-15-ben-techreviewafrica-apdp-17-officers-sworn-in",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Seventeen officers of Benin's data protection authority (APDP) were sworn in before the Court of First Instance of Cotonou on 14 September 2026 under Article 468(2) of the Digital Code, on the instruction of the APDP president.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Digital Code"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

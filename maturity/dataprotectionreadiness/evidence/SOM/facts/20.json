@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-06 Somalia adopts data regulatory framework",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "ITWeb reports the Regulatory Framework implements the existing Public Data Protection Law (date is the article's published date).",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Public Data Protection Law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Data Protection Law",
+   "country_label": "Public Data Protection Law",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": ""
+  },
+  {
+   "system": "Regulatory Framework for the Public Data Protection Law",
+   "country_label": "Regulatory Framework for the Public Data Protection Law",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology (drafter); Council of Ministers (approver)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

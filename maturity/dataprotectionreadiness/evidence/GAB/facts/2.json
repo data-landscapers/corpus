@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-10-gabon-datacenter-readiness-apdpvp-compliance",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "GabonReview reports that the APDPVP had for several months accompanied the ST Digital data centre project to check that data protection requirements were met before commissioning, and that ST Digital's director-general thanked it and the government for support in obtaining the authorisations needed (article of 10 June 2026).",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Loi relative à la protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "On 9 June 2026 the digital economy minister held a working session with the APDPVP's president, Joel Dominique Ledaga, showing the authority acting under a named head.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Autorité pour la protection des données personnelles et de la vie privée (APDPVP)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

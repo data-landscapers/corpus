@@ -73,57 +73,65 @@ def main(argv=None) -> int:
 
     base = os.path.join(study_lib.study_dir(a.study), "evidence")
     classes, docs, facts, appended = set(study["classes"]), 0, 0, 0
-    for other in study.get("carry_studies", ()):
-        rule = study.get("carry_map", {}).get(other)
-        if not rule:
-            print(f"study-carry: `carry_map` has nothing for {other}; nothing carried from it.")
+    rules = {o: study.get("carry_map", {}).get(o) for o in study.get("carry_studies", ())}
+    for other in [o for o, r in rules.items() if not r]:
+        print(f"study-carry: `carry_map` has nothing for {other}; nothing carried from it.")
+    for iso in sorted(study_lib.countries()):
+        # One source may be held by two carried studies: its facts are gathered across them
+        # before its file is written, or the second study's would find the file there and stop.
+        by_slug: dict[str, list[dict]] = {}
+        their_list: dict[str, dict] = {}
+        systems: dict[str, list[dict]] = {}
+        origin: dict[str, set] = {}
+        for other, rule in rules.items():
+            theirs = os.path.join(study_lib.study_dir(other), "evidence", iso)
+            if not rule or not os.path.isdir(theirs):
+                continue
+            for slug, fs in carried(study, other, rule, study_lib.read_csv(
+                    os.path.join(theirs, "evidence.csv"))).items():
+                seen = {(f["aspect"], f["value"], f["as_of"]) for f in by_slug.get(slug, [])}
+                by_slug.setdefault(slug, []).extend(
+                    f for f in fs if (f["aspect"], f["value"], f["as_of"]) not in seen)
+                origin.setdefault(slug, set()).add(other)
+            for r in study_lib.read_csv(os.path.join(theirs, "readlist.csv")):
+                if r.get("kind") == "raw":
+                    their_list.setdefault(r["slug"], r)
+            for x in study_lib.read_csv(os.path.join(theirs, "systems.csv")):
+                row = {**{k: x[k] for k in study_lib.SYSTEMS_FIELDS[1:-1]},
+                       "class": x["class"] if x["class"] in classes else ("other" if x["class"] else "")}
+                if row not in systems.setdefault(x["sources"], []):
+                    systems[x["sources"]].append(row)
+        if not by_slug:
             continue
-        theirs = os.path.join(study_lib.study_dir(other), "evidence")
-        for iso in sorted(os.listdir(theirs)):
-            if not os.path.isdir(os.path.join(theirs, iso)):
-                continue
-            by_slug = carried(study, other, rule,
-                              study_lib.read_csv(os.path.join(theirs, iso, "evidence.csv")))
-            if not by_slug:
-                continue
-            their_list = {r["slug"]: r for r in
-                          study_lib.read_csv(os.path.join(theirs, iso, "readlist.csv"))
-                          if r.get("kind") == "raw"}
-            systems: dict[str, list[dict]] = {}
-            for s in study_lib.read_csv(os.path.join(theirs, iso, "systems.csv")):
-                systems.setdefault(s["sources"], []).append(
-                    {**{k: s[k] for k in study_lib.SYSTEMS_FIELDS[1:-1]},
-                     "class": s["class"] if s["class"] in classes else ("other" if s["class"] else "")})
-            path = os.path.join(base, iso, "readlist.csv")
-            mine = study_lib.read_csv(path)
-            n_of = {r["slug"]: str(r["n"]) for r in mine if r.get("kind") == "raw"}
-            nxt = max([int(r["n"]) for r in mine if str(r.get("n") or "").isdigit()] or [0])
-            new_rows = []
-            for slug in sorted(by_slug):
-                if slug not in n_of:
-                    if slug not in their_list:
-                        print(f"study-carry: note - {iso} {slug}: not on {other}'s list; left out")
-                        continue
-                    nxt += 1
-                    new_rows.append({**their_list[slug], "n": nxt, "slice": "", "pass": "carried",
-                                     "why": "carried"})
-                    n_of[slug] = str(nxt)
-                out = os.path.join(base, iso, "facts", f"{n_of[slug]}.json")
-                if os.path.exists(out):
+        path = os.path.join(base, iso, "readlist.csv")
+        mine = study_lib.read_csv(path)
+        n_of = {r["slug"]: str(r["n"]) for r in mine if r.get("kind") == "raw"}
+        nxt = max([int(r["n"]) for r in mine if str(r.get("n") or "").isdigit()] or [0])
+        new_rows = []
+        for slug in sorted(by_slug):
+            if slug not in n_of:
+                if slug not in their_list:
+                    print(f"study-carry: note - {iso} {slug}: on no carried study's list; left out")
                     continue
-                docs, facts = docs + 1, facts + len(by_slug[slug])
-                if a.dry:
-                    continue
-                os.makedirs(os.path.dirname(out), exist_ok=True)
-                with open(out, "w", encoding="utf-8", newline="\n") as fh:
-                    json.dump({"slug": slug, "facts": by_slug[slug],
-                               "systems": systems.get(slug, []),
-                               "note": f"carried from {other}; no document opened"},
-                              fh, ensure_ascii=False, indent=1)
-                    fh.write("\n")
-            appended += len(new_rows)
-            if new_rows and not a.dry:
-                study_lib.write_csv(path, study_lib.READLIST_FIELDS, mine + new_rows)
+                nxt += 1
+                new_rows.append({**their_list[slug], "n": nxt, "slice": "", "pass": "carried",
+                                 "why": "carried"})
+                n_of[slug] = str(nxt)
+            out = os.path.join(base, iso, "facts", f"{n_of[slug]}.json")
+            if os.path.exists(out):
+                continue
+            docs, facts = docs + 1, facts + len(by_slug[slug])
+            if a.dry:
+                continue
+            os.makedirs(os.path.dirname(out), exist_ok=True)
+            with open(out, "w", encoding="utf-8", newline="\n") as fh:
+                json.dump({"slug": slug, "facts": by_slug[slug], "systems": systems.get(slug, []),
+                           "note": f"carried from {', '.join(sorted(origin[slug]))}; no document opened"},
+                          fh, ensure_ascii=False, indent=1)
+                fh.write("\n")
+        appended += len(new_rows)
+        if new_rows and not a.dry:
+            study_lib.write_csv(path, study_lib.READLIST_FIELDS, mine + new_rows)
     print(f"study-carry: {a.study} - {facts} facts from {docs} documents carried, "
           f"{appended} sources appended to the reading lists"
           + (" (dry run, nothing written)." if a.dry else "."))

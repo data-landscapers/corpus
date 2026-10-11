@@ -1,0 +1,15 @@
+# Ghana
+
+## Data protection system
+
+**Law in force.** The [Data Protection Act, 2012 (Act 843)](<https://gna.org.gh/2026/10/dpc-begins-checks-on-data-protection-compliance/>) is the law the Data Protection Commission enforces, and a [Circuit Court in Accra applied it](<https://superlawgh.com/judgements/justice-noah-adade-vrs-bolt-ghana-limited/>) in a judgment of 18 September 2024.
+
+**Malabo Convention.** The [African Union status list of 2 February 2026](<https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf>) records that Ghana ratified the Malabo Convention on 13 May 2019 and deposited its instrument on 3 June 2019.
+
+**Authority appointed.** The Data Protection Commission is led by Executive Director Dr Arnold Kavaarpuo, [according to the Ghana News Agency in October 2026](<https://gna.org.gh/2026/10/dpc-begins-checks-on-data-protection-compliance/>). A [new Governing Board](<https://techafricanews.com/2025/08/01/ghana-takes-major-step-towards-secure-digital-future-with-new-data-protection-board/>) chaired by Teki Akuetteh was sworn in in August 2025, and the [2026 budget estimates](<https://mofep.gov.gh/sites/default/files/pbb-estimates/2026/2026-PBB-MOCD.pdf>) appropriate GHS 9,720,400 to the Commission, which has 39 staff.
+
+**Implementing and acting.** The Commission said in [August 2026](<https://gna.org.gh/2026/08/data-protection-commission-acquires-vehicles-to-boost-nationwide-enforcement/>) that enforcement actions have begun and it had declared 2026 the "Year of Enforcement", and it said it would begin [spot checks on registration and lawful processing](<https://gna.org.gh/2026/10/dpc-begins-checks-on-data-protection-compliance/>) from 5 October 2026. The Communications Minister reported a [98.4 per cent rise in newly registered data controllers](<https://www.myjoyonline.com/data-protection-commission-records-sharp-rise-in-regulatory-activity-sam-george/>) in the first half of 2026.
+
+***Noted, not assessed***. [Data Protection Commission](<https://gna.org.gh/2026/10/dpc-begins-checks-on-data-protection-compliance/>); [Data Protection Act, 2012 (Act 843)](<https://www.africadataprotection.org/Ghana-AI-Strategy-2025-2035.pdf>); [Proposed Data Protection Authority (upgrade of the DPC)](<https://www.africadataprotection.org/Ghana-AI-Strategy-2025-2035.pdf>); [National Data Sharing Policy](<https://www.africadataprotection.org/Ghana-AI-Strategy-2025-2035.pdf>); [Electronic Communications Act 2025 amendments](<https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup>); [Cybersecurity (Amendment) Bill](<https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup>).
+
+***Not held***. No ruling of the authority against a named organisation in the last three years is held.

@@ -1,0 +1,46 @@
+{
+ "slug": "2025-07-28-hapdp-president-interview-loi-2022-59-lesahel",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The HAPDP president says the 2017 law as amended in 2019 was repealed and replaced by law no. 2022-59 of 16 December 2022 and its later amending texts, which the authority applies (interview published 2025-07-28).",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Law no. 2022-59 of 16 December 2022 on personal data protection"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The HAPDP president says the authority processed 139 compliance files (declarations, video-surveillance declarations, processing and transfer authorisations) since September 2024 and ran four control missions in 2025 on mobile operators; no sanction or decision is named.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Law no. 2022-59 of 16 December 2022 on personal data protection"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The HAPDP president says the authority has ten members, its president took office on 18 September 2024, and the plenary deliberates on authorisations and sanctions.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Law no. 2022-59 of 16 December 2022 on personal data protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Haute Autorité de Protection des Données à caractère Personnel (HAPDP)",
+   "country_label": "HAPDP",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Niger",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

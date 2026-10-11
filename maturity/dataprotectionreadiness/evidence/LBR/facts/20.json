@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-23-liberia-data-protection-act-printed-act-mopt",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The printed Act, approved 9 March 2026 and printed 23 March 2026, takes effect on publication into handbills (s.44), and s.41 gives existing businesses one year from the effective date to comply.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Act of 2024"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The Act (ss.8 and 10) confers data protection functions on the Independent Information Commissioner, the oversight body created by the Freedom of Information Act of 2010; the Act does not state that the Commissioner has begun acting under it.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Act of 2024"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Independent Information Commissioner",
+   "country_label": "Independent Information Commissioner",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Liberia, created by the Freedom of Information Act of 2010",
+   "tiers": "national; designated supervisory authority under the Act"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

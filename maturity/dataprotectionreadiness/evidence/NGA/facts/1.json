@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-16-nga-prestigenews-ndpc-nidcom-data-protection-awareness-diaspora",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The report says NDPC National Commissioner and CEO Vincent Olatunji led a delegation to NiDCOM on 16 September 2026 and described the NDPC as established under the Nigeria Data Protection Act 2023.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission (NDPC)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "NDPC",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

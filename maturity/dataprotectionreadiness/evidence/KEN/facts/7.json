@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "The update states Kenya's data protection authority had over 110 decisions in 2025 and began 2026 with a firm stance against violations.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Office of the Data Protection Commissioner"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The update names Kenya's data protection authority among those ramping up enforcement actions in early 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Office of the Data Protection Commissioner"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

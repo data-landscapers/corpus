@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-29 The Gambia strengthens digital trust with personal data protection & privacy bill",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Biometric Update reports that Parliament approved the draft Personal Data Protection and Privacy legislation, the first comprehensive framework for personal data of all Gambians; no promulgation is stated (published 2025-10-29, no other date).",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Act 2025"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection and Privacy Act 2025",
+   "country_label": "Personal Data Protection and Privacy Act, 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly of The Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

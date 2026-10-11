@@ -1,0 +1,36 @@
+{
+ "slug": "2024-12-30-cpv-2025-cnpd",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "none",
+   "class": "system",
+   "fact": "The document records that the CNPD published no activity plan for 2025 and no Relatório de Atividades for any year since 2016, so no published counts of decisions exist; stated as at 2026-08-04.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Regime Jurídico Geral de Protecção de Dados"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Resolução n.º 160/X/2024 appropriates CVE 36,313,115 for the CNPD in the Assembly's own budget for FY2025, up from CVE 35,255,451 in FY2024, with no own revenue.",
+   "as_of": "2024-12-30",
+   "date_precision": "day",
+   "system": "Regime Jurídico Geral de Protecção de Dados"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Comissão Nacional de Protecção de Dados (CNPD)",
+   "country_label": "CNPD",
+   "class": "other",
+   "platform": "",
+   "owner": "Assembleia Nacional (budget vote)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

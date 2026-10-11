@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBR,system,law,coverage,in-force,2026-09-13,LBR-007;LBR-011,LBR-010=not-yet;LBR-009=not-yet;LBR-005=not-yet;LBR-003=none,
+LBR,system,treaty,coverage,none,2026-02-02,LBR-002,,
+LBR,system,authority,coverage,none,2026-03-23,LBR-001;LBR-004;LBR-006;LBR-008,,
+LBR,system,practice,coverage,,,,,nothing held

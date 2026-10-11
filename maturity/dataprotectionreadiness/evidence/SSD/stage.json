@@ -1,0 +1,18 @@
+{
+ "iso3": "SSD",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "1",
+   "law": "not-yet",
+   "treaty": "none",
+   "authority": "none",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SSD-001;SSD-011",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

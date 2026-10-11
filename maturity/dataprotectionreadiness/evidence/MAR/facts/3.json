@@ -1,0 +1,11 @@
+{
+  "slug": "2012-10-18-coe-tpd-2012-09rev-avis-adhesion-maroc-convention-108",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The Council of Europe's Convention 108 committee examined Morocco's Act 09-08 on the protection of individuals with regard to the processing of personal data as its data protection law and found overall conformity with Convention 108, with exceptions for scope and special categories of data; the document is dated 18 October 2012 and gives no commencement date.", "as_of": "2012-10-18", "date_precision": "day", "system": "Act 09-08", "class": "system"}
+  ],
+  "systems": [
+    {"system": "Act 09-08", "country_label": "Loi 09-08 relative a la protection des personnes physiques a l'egard du traitement des donnees a caractere personnel", "class": "system", "platform": "", "owner": "Kingdom of Morocco", "tiers": ""},
+    {"system": "CNPD", "country_label": "Commission nationale de controle de la protection des donnees a caractere personnel", "class": "system", "platform": "", "owner": "Instituted by Decree 02-09-165", "tiers": ""}
+  ],
+  "note": ""
+}

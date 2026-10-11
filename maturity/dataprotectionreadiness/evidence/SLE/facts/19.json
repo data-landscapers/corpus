@@ -1,0 +1,34 @@
+{
+ "slug": "2026-04-22-cabinet-data-protection-policy",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Cabinet approved a National Data Protection Policy, approved the repeal of the Right to Access Information Commission Act and authorised enactment of a new Data Protection and Right to Access Information Act, with the Ministry of Information and Civic Education and the Attorney-General's office to finalise and table the Bill in Parliament; announced by the Information Minister on 21 April 2026.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "Data Protection and Right to Access Information Bill"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Right to Access Information Commission (RAIC)",
+   "country_label": "Right to Access Information Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Sierra Leone",
+   "tiers": "national"
+  },
+  {
+   "system": "National Data Protection Policy",
+   "country_label": "National Data Protection Policy",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information and Civic Education; Ministry of Communication, Technology and Innovation",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

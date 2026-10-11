@@ -1,0 +1,46 @@
+{
+  "slug": "2026-08-04-fg-circular-mdas-data-protection-officers-ndp-act",
+  "facts": [
+    {
+      "sub_indicator": "system",
+      "aspect": "law",
+      "value": "in-force",
+      "fact": "TheCable reports a circular dated 27 July 2026 directing all federal MDAs to comply with the Nigeria Data Protection Act 2023, as the law governing their processing.",
+      "as_of": "2026-07-27",
+      "date_precision": "day",
+      "system": "Nigeria Data Protection Act 2023",
+      "class": "system"
+    },
+    {
+      "sub_indicator": "system",
+      "aspect": "authority",
+      "value": "appointed",
+      "fact": "The document names Vincent Olatunji as national commissioner of the NDPC and Babatunde Bamigboye as its head of legal, enforcement and regulations.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Nigeria Data Protection Commission",
+      "class": "system"
+    },
+    {
+      "sub_indicator": "system",
+      "aspect": "practice",
+      "value": "implementing",
+      "fact": "The NDPC national commissioner said the commission had established a regulatory clinic giving technical support to MDAs; MDAs are also to notify the NDPC of their DPOs for registration.",
+      "as_of": "2026-08-04",
+      "date_precision": "day",
+      "system": "Nigeria Data Protection Commission",
+      "class": "system"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nigeria Data Protection Act 2023",
+      "country_label": "NDP Act",
+      "class": "system",
+      "platform": "",
+      "owner": "Nigeria Data Protection Commission",
+      "tiers": "federal MDAs and public and private organisations"
+    }
+  ],
+  "note": ""
+}

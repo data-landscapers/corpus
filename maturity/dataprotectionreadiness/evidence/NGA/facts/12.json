@@ -1,0 +1,36 @@
+{
+  "slug": "2026-08-07-fij-ndpc-circular-mdas-not-published",
+  "facts": [
+    {
+      "sub_indicator": "system",
+      "aspect": "law",
+      "value": "in-force",
+      "fact": "The document states the Nigeria Data Protection Act was signed into law by President Tinubu in June 2023 and created legal obligations for public and private organisations processing personal data.",
+      "as_of": "2023-06",
+      "date_precision": "month",
+      "system": "Nigeria Data Protection Act 2023",
+      "class": "system"
+    },
+    {
+      "sub_indicator": "system",
+      "aspect": "authority",
+      "value": "appointed",
+      "fact": "The document states the Act established the Nigeria Data Protection Commission as the independent regulator, and an NDPC head of legal spoke for it on 4 August 2026.",
+      "as_of": "2023-06",
+      "date_precision": "month",
+      "system": "Nigeria Data Protection Commission",
+      "class": "system"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Nigeria Data Protection Act 2023",
+      "country_label": "NDP Act",
+      "class": "system",
+      "platform": "",
+      "owner": "Nigeria Data Protection Commission",
+      "tiers": "federal MDAs and public and private organisations"
+    }
+  ],
+  "note": ""
+}

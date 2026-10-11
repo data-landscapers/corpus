@@ -1,0 +1,62 @@
+{
+ "slug": "2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "PLMJ states that Angola's data protection framework has been in force since 2011, namely the Data Protection Law (Lei n.º 22/11, LPDP) of 17 June 2011; the date is the law's year as given, and the document is dated 2024-08-10.",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "Lei n.º 22/11 (LPDP)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "PLMJ states that the Angolan Data Protection Agency (APD) was formally constituted in 2016.",
+   "as_of": "2016",
+   "date_precision": "year",
+   "system": "Lei n.º 22/11 (LPDP)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "PLMJ states that in June and July 2024 the APD published on its website sanctions against several companies in Angola for serious LPDP violations; it names no company and gives no count or amounts.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Lei n.º 22/11 (LPDP)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei n.º 22/11 (LPDP)",
+   "country_label": "Lei de Protecção de Dados Pessoais",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Lei n.º 23/11 (LCE)",
+   "country_label": "Lei das Comunicações Electrónicas e dos Serviços da Sociedade da Informação",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Agência Angolana de Protecção de Dados (APD)",
+   "country_label": "Agência de Protecção de Dados",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

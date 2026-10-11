@@ -1,0 +1,62 @@
+{
+ "slug": "2026-07-20-algerie-anpdp-regles-publication-images-plateformes",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The article states that the law n° 18-07 is in force and that, since it entered into force, the authorities have multiplied implementing texts; the article's published date 2026-07-20 is used as the date.",
+   "as_of": "2026-07-20",
+   "date_precision": "day",
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The article states that the ANPDP's deliberation sets consent, information and transfer rules for images and that individuals may complain to the ANPDP; it reports no sanction or count of decisions.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The article states that the ANPDP adopted a deliberation on Wednesday 15 July 2026, acting as the national data protection authority.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended)",
+   "country_label": "Loi n° 18-07 relative à la protection des personnes physiques dans le traitement des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANPDP",
+   "country_label": "Autorité nationale de protection des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANPDP délibération on publication of images on platforms (15 July 2026)",
+   "country_label": "Délibération sur la publication d'images sur les plateformes numériques",
+   "class": "other",
+   "platform": "",
+   "owner": "ANPDP",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

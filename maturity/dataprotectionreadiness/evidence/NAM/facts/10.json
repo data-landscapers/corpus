@@ -1,0 +1,8 @@
+{
+  "slug": "2018-01-01-namibia-parliament-au-convention-tabling-statement",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "not-yet", "fact": "The Minister of ICT told Parliament in 2018 that Namibia had embarked on developing Personal Data Protection and Cyber Security Bills, so no data protection law was yet in force; the statement gives no more precise date and the document's published date (2018) is used.", "as_of": "2018", "date_precision": "year", "system": "Namibia data protection law", "class": "system"}
+  ],
+  "systems": [],
+  "note": "The statement tables the Malabo Convention for ratification and says Namibia is encouraged to ratify; it states no signature or ratification, so no treaty fact."
+}

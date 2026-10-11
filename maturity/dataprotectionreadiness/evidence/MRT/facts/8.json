@@ -1,0 +1,46 @@
+{
+ "slug": "2025-11-19-mauritanie-apd-reunion-mensuelle-referentiel-controle-agents-assermentes",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "At that meeting the APD approved a control reference framework, a deliberation empowering its sworn agents to take part in inspection missions and a deliberation on the journalists' professional register, and examined complaints 004-2025, 006-2025 and 007-2025.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The meeting examined replies of ministerial departments contacted by the APD on compliance with the data protection law and joining the 'BEYANAT-HIMAYE' programme, and an authorisation request from Agence MAADEN Mauritanie for processing and interconnection with the population register.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "On 19 November 2025 the APD held its ordinary monthly meeting under its president and members with the government commissioner present, and the minute names the president, members and government commissioner.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

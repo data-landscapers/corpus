@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-dla-piper-data-protection-laws-drc",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "DLA Piper says Article 262 of the Digital Code requires a Prime Minister's decree to establish the APD, and that no such decree had been adopted to date; the guide gives only a year, 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Autorité de protection des données (APD)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

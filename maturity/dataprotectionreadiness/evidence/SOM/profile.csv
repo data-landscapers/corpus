@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SOM,system,law,coverage,in-force,2026-06-02,SOM-001;SOM-005;SOM-008;SOM-015,SOM-011=not-yet,
+SOM,system,treaty,coverage,none,2026-07-20,SOM-013;SOM-014,,
+SOM,system,authority,coverage,appointed,2026-06-02,SOM-003;SOM-004;SOM-007;SOM-010;SOM-016,SOM-012=none,
+SOM,system,practice,coverage,implementing,2026-06-02,SOM-002;SOM-006;SOM-009,,

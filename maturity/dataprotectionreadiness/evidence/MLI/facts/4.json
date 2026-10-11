@@ -1,0 +1,56 @@
+{
+ "slug": "2025-10-07-apanews-apdp-examine-2000-dossiers-baux",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "APA News reports the APDP applying Law 2013-015, including a requirement that any state data processing receive a reasoned APDP opinion, with 2025 sanctions under it.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "APA News reports the APDP opened an extraordinary session on 6 October 2025 to review about 2,000 declaration files over five days.",
+   "as_of": "2025-10-06",
+   "date_precision": "day",
+   "system": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "APA News reports that in 2025 the APDP fined a Bamako clinic 5 million FCFA for obstructing a verification mission linked to an undeclared video-surveillance system.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "APA News reports that in 2025 the APDP issued formal notices to more than 100 companies for non-compliance.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APDP)",
+   "country_label": "APDP",
+   "class": "other",
+   "platform": "",
+   "owner": "State of Mali (independent administrative authority)",
+   "tiers": "national; regional antenna at Ségou"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

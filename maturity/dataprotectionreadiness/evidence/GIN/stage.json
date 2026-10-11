@@ -1,0 +1,18 @@
+{
+ "iso3": "GIN",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "1",
+   "law": "not-yet",
+   "treaty": "ratified",
+   "authority": "none",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GIN-001;GIN-003;GIN-006",
+   "gaps": "The country has ratified the Malabo Convention and has no data protection law in force.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

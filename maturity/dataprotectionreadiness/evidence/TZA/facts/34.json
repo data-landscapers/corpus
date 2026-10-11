@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-12-wananchi-waonywa-kutoa-taarifa-binafsi",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Mwananchi reports on 12 June 2026 the PDPC speaking on implementation of the Personal Data Protection Act, Chapter 44.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The PDPC gave institutions with incomplete registration seven days to finish and told unregistered ones to start at once, warning of fines or administrative action; it also invited complaints from citizens.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "PDPC Director General Dr Emmanuel Mkilia addressed journalists in Dodoma on 12 June 2026 on implementation of the Act.",
+   "as_of": "2026-06-12",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Commission (PDPC)",
+   "country_label": "Tume ya Ulinzi wa Taarifa Binafsi",
+   "class": "other",
+   "platform": "",
+   "owner": "Director General Dr Emmanuel Mkilia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

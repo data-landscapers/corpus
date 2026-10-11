@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-13-an-aprova-generalidade-alteracao-lei-proteccao-de-dados",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Angop reports that the bill amends Lei n.º 22/11 of 17 June, the Lei de Protecção de Dados Pessoais, described as existing legislation in force whose provisions the bill alters, adds to and repeals; the document gives no date for the law's own commencement.",
+   "as_of": "2026-04-13",
+   "date_precision": "day",
+   "system": "Lei n.º 22/11, Lei de Protecção de Dados Pessoais"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "The Assembleia Nacional approved in generality, in its specialised working committees, a UNITA-sponsored bill amending Lei n.º 22/11 to widen citizens' and parties' access to electoral personal data, by 10 votes for, none against and 12 abstentions.",
+   "as_of": "2026-04-13",
+   "date_precision": "day",
+   "system": "Projecto de Lei de Alteração da Lei n.º 22/11 (Lei de Protecção de Dados Pessoais)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei de Protecção de Dados Pessoais (Lei n.º 22/11)",
+   "country_label": "Lei de Protecção de Dados Pessoais",
+   "class": "other",
+   "platform": "",
+   "owner": "Assembleia Nacional",
+   "tiers": ""
+  },
+  {
+   "system": "Base de Dados de Cidadãos Maiores (BDCM)",
+   "country_label": "Base de Dados de Cidadãos Maiores",
+   "class": "",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

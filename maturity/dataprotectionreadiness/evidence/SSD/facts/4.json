@@ -1,0 +1,70 @@
+{
+ "slug": "2025-11-20-digital-rights-ignorance-feature-radiotamazuj",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "none",
+   "class": "system",
+   "fact": "Radio Tamazuj reports the country lacks a comprehensive data protection law, and a digital expert at the Excellence Foundation says South Sudan has no data protection laws in place at the moment.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": ""
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Radio Tamazuj reports that in October 2025 digital security experts finalised drafting the country's first Data Protection Policy Bill, facilitated by Koneta and Paradigm Initiative with the NCA and civil society.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Data Protection Policy Bill"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Radio Tamazuj reports that the draft bill, when passed, will establish a Data Protection Commission to safeguard the personal data of South Sudanese online users.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Data Protection Policy Bill"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Policy Bill",
+   "country_label": "Data Protection Policy Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "drafted by Koneta Initiative and Paradigm Initiative with the NCA",
+   "tiers": "national"
+  },
+  {
+   "system": "Data Protection Commission (proposed)",
+   "country_label": "Data Protection Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "Transitional Constitution of South Sudan (2011), Article 22",
+   "country_label": "Transitional Constitution 2011, Art. 22",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "Cybercrimes and Computer Misuse Bill 2024",
+   "country_label": "Cybercrimes and Computer Misuse Bill 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

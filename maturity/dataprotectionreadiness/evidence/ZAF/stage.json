@@ -1,0 +1,18 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "5",
+   "law": "in-force",
+   "treaty": "signed",
+   "authority": "appointed",
+   "practice": "ruling",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZAF-044;ZAF-005;ZAF-002",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

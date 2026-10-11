@@ -1,0 +1,26 @@
+{
+ "slug": "2020-05-15-tunisie-decret-2020-312-identifiant-unique-citoyen",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Government decree no. 2020-312 of 15 May 2020 records that the Instance nationale de protection des données à caractère personnel gave its opinion on the decree, puts the citizen-ID register under its control, lets any person lodge an objection with it, requires bodies to facilitate its inspections, and seats it on the register's oversight council.",
+   "as_of": "2020-05-15",
+   "date_precision": "day",
+   "system": "Instance nationale de protection des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre de l'identifiant unique citoyen",
+   "country_label": "Registre de l'identifiant unique citoyen",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Local Affairs, management unit; Centre national de l'informatique for technical tasks",
+   "tiers": "central, regional and local administrations, public enterprises, local authorities, independent bodies, judicial bodies, private bodies running a public service"
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

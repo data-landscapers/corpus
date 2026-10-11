@@ -1,0 +1,44 @@
+{
+ "slug": "2026-08-17-gambia-information-commission-communication-strategy",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "A UNFPA consultancy notice, published 2026-08-17 (the document gives no other date), refers to the Personal Data Protection and Privacy Act, 2025 as an existing Act and does not state whether it is commenced.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Personal Data Protection and Privacy Act 2025"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The notice, published 2026-08-17 (no other date given), says the Information Commission of The Gambia is to develop a communication strategy raising awareness of both the Access to Information Act, 2021 and the Personal Data Protection and Privacy Act, 2025, so the Commission acts for the Act.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Information Commission of The Gambia"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection and Privacy Act 2025",
+   "country_label": "Personal Data Protection and Privacy Act, 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly of The Gambia",
+   "tiers": ""
+  },
+  {
+   "system": "Information Commission of The Gambia",
+   "country_label": "Information Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of The Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

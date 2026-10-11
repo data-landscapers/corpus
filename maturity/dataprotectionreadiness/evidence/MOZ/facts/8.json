@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-17-dla-piper-data-protection-laws-mozambique",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "none", "fact": "DLA Piper states that Mozambique has no specific data protection or privacy legislation, only sector laws imposing some privacy obligations and a cybersecurity bill under discussion; the guide gives no event date, so its last-modified date of 17 February 2026 is used.", "as_of": "2026-02-17", "date_precision": "day", "system": "Mozambique data protection law", "class": "system"},
+    {"sub_indicator": "system", "aspect": "treaty", "value": "ratified", "fact": "DLA Piper lists Resolution no. 5/2019 of 20 June as ratifying the African Union Convention on Cybersecurity and Personal Data Protection for Mozambique.", "as_of": "2019-06-20", "date_precision": "day", "system": "Mozambique data protection law", "class": "system"}
+  ],
+  "systems": [],
+  "note": ""
+}

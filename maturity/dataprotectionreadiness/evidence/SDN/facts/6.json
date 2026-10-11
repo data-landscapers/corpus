@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-19-sudan-scps-privacy-gap-intro",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "none", "fact": "The Sudanese Center for Policy Studies says Sudan has no privacy law or legal framework governing personal data, and that a 2018 draft data protection bill was never enacted; no date of its own is given, so the published date of 2026-07-19 is used.", "as_of": "2026-07-19", "date_precision": "day", "system": "Sudan data protection law", "class": "system"},
+    {"sub_indicator": "system", "aspect": "treaty", "value": "signed", "fact": "The article states Sudan is a signatory to the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention), which it says has been in force since 2023, and that Sudan has yet to enact or implement it; no signing date is given, so the published date of 2026-07-19 is used.", "as_of": "2026-07-19", "date_precision": "day", "system": "Malabo Convention", "class": "system"},
+    {"sub_indicator": "system", "aspect": "practice", "value": "none", "fact": "The article says that as of mid-2026 neither the Sudanese Data and Artificial Intelligence Authority nor the Sudanese Cybersecurity Authority, both established by a November 2025 decree, has issued binding rules, citing the AI Regulation Tracker.", "as_of": "2026-06", "date_precision": "month", "system": "Sudanese Data and Artificial Intelligence Authority", "class": "system"}
+  ],
+  "systems": [
+    {"system": "Sudanese Data and Artificial Intelligence Authority", "country_label": "Sudanese Data and Artificial Intelligence Authority", "class": "system", "platform": "", "owner": "Government of Sudan (established by November 2025 decree)", "tiers": ""}
+  ],
+  "note": "No authority fact: the document says the authority was established by decree in November 2025 but does not say its head or members were appointed."
+}

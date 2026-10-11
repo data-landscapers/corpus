@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The IPDCP and HAAC signed a cooperation memorandum on 10 December 2025 under which HAAC integrates data protection into its procedures and gives the IPDCP access to its monitoring room; no decision or sanction is reported.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "Instance de Protection des Donnees a Caractere Personnel (IPDCP)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Africa Cybersecurity Mag, citing the IPDCP, reports the Personal Data Protection Authority (IPDCP) acting as a signatory to an institutional cooperation accord with the broadcast regulator HAAC on 10 December 2025.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "Instance de Protection des Donnees a Caractere Personnel (IPDCP)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

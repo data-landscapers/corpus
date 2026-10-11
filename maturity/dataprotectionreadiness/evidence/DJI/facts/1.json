@@ -1,0 +1,44 @@
+{
+ "slug": "2025-11-05 Review of Djibouti Data Protection Law",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "TechHive Advisory states that Djibouti's 156-article data-protection regime was enacted in June 2025 as part of the Digital Code; it gives no promulgation or commencement date.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Digital Code"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "TechHive Advisory states that the Digital Code's data-protection regime creates the National Commission for the Protection of Personal Data (CNDP), independent with administrative and financial autonomy; it does not say the commission has been constituted or its members appointed (date is the document's published date, 2025-11-05).",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "Digital Code"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Code (data-protection regime, 156 articles)",
+   "country_label": "Code du numerique",
+   "class": "other",
+   "platform": "",
+   "owner": "Republic of Djibouti",
+   "tiers": ""
+  },
+  {
+   "system": "National Commission for the Protection of Personal Data (CNDP)",
+   "country_label": "Commission Nationale de Protection des Donnees a caractere personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "Created by the Digital Code; independent",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,18 @@
+{
+ "iso3": "CMR",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "2",
+   "law": "in-force",
+   "treaty": "signed",
+   "authority": "none",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CMR-001",
+   "gaps": "The country has not ratified the Malabo Convention, and no source held says an authority has been appointed.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

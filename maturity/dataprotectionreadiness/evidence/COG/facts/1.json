@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "TechHive Advisory reports that the Republic of Congo inaugurated the National Personal Data Protection Commission as its data protection authority, following appointment of its leadership under a decree issued on 31 December 2025.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "National Personal Data Protection Commission"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

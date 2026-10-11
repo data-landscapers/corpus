@@ -1,0 +1,52 @@
+{
+ "slug": "2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Michalsons describes the Cyber and Data Protection Act, 2021 as Zimbabwe's main data protection law applying to all public and private organisations; dated by publication.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Michalsons states the Act is enforced by POTRAZ, which also maintains a public register of automated data processing; dated by publication.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024)",
+   "country_label": "SI 155 of 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "2025-02-02-cnpd-faustino-varela-ia-big-data-direitos-expressodasilhas",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "CNPD president Faustino Varela says the base law dates from 2001, was amended in 2013 (which led to the CNPD's constitution) and in 2021 (data protection officer obligation), and the CNPD works from the general legal regime since 2015-2016; stated in an interview published 2025-02-02.",
+   "as_of": "2025-02-02",
+   "date_precision": "day",
+   "system": "Regime Jurídico Geral de Protecção de Dados"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The CNPD president says cases have arrived involving AI and Big Data, including two generative-AI image manipulation (deepfake) cases and a first image-manipulation case in 2021, with cases that may be criminal sent to the Ministério Público; no decision or count is given.",
+   "as_of": "2025-02-02",
+   "date_precision": "day",
+   "system": "Regime Jurídico Geral de Protecção de Dados"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The CNPD, led by president Faustino Varela, started in 2015-2016 under the general regime and completes a decade of existence in 2025; the president says all technicians who began in 2016 have left.",
+   "as_of": "2025-02-02",
+   "date_precision": "day",
+   "system": "Regime Jurídico Geral de Protecção de Dados"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Regime Jurídico Geral de Protecção de Dados",
+   "country_label": "Regime Jurídico Geral de Protecção de Dados (2001, amended 2013 and 2021)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Comissão Nacional de Protecção de Dados (CNPD)",
+   "country_label": "CNPD",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

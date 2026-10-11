@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-23-mozambique-government-preparing-personal-data-protection-law",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "not-yet",
+   "class": "system",
+   "fact": "Communications and Digital Transformation Minister Americo Muchanga said on 22 July 2026 that Mozambique is consolidating its legal framework with a future personal data protection law still in preparation, and asked industry to take part in the discussion before approval.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Lei de proteccao de dados pessoais"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei de proteccao de dados pessoais (future personal data protection law)",
+   "country_label": "Lei de proteccao de dados pessoais",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  },
+  {
+   "system": "Politica e estrategia nacional de governacao de dados",
+   "country_label": "Politica e estrategia nacional de governacao de dados",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

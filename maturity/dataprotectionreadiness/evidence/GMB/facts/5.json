@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-02-au-malabo-convention-status-list",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "treaty",
+   "value": "signed",
+   "fact": "The African Union's status list of 2 February 2026 records that Gambia signed the Malabo Convention on 2022-12-02 and had not ratified it.",
+   "as_of": "2022-12-02",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "system"
+  }
+ ],
+ "systems": [],
+ "note": "read once by the parent for all countries"
+}

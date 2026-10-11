@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-02-anpdp-primeiro-encontro-rede-lusofona-protecao-dados",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The ANPDP's own post of 2025-09-02 says its president José Manuel Macumbo Costa Alegre attended the first Rede Lusófona meeting on 26 August 2025 as the country's authority.",
+   "as_of": "2025-08-26",
+   "date_precision": "day",
+   "system": "Agência Nacional de Proteção de Dados Pessoais"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência Nacional de Proteção de Dados Pessoais",
+   "country_label": "ANPDP",
+   "class": "other",
+   "platform": "",
+   "owner": "São Tomé and Príncipe",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

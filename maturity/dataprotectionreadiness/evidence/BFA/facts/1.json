@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Techhive Advisory reports that the heads of the data protection authorities of 61 countries, including Burkina Faso, signed the Global Privacy Assembly enforcement working group's joint statement on AI-generated imagery on 23 February 2026.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Burkina Faso data protection authority"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

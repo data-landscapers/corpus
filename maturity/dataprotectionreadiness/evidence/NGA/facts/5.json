@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-13-nigeria-ndpc-investigates-unilag-lotus-bank",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The NDPC said it was assessing the parties' compliance obligations in line with the provisions of the Nigeria Data Protection Act, 2023, treating it as the operative law (statement of 12 August 2026).",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The NDPC opened a forensic investigation into the University of Lagos, Lotus Bank and Hackerbella Ltd over use of students' personal data to open bank accounts without consent, and warned educational institutions yet to comply with its compliance directives; no decision or sanction is stated.",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Daily Trust reports the Nigeria Data Protection Commission, headed by National Commissioner and CEO Dr. Vincent Olatunji, directed an investigation team and issued a statement on 12 August 2026 (article dated 13 August 2026).",
+   "as_of": "2026-08-12",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act, 2023",
+   "country_label": "Nigeria Data Protection Act, 2023 (NDP Act)",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

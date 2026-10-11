@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+MWI,system,law,coverage,in-force,2026-07-16,MWI-001;MWI-004;MWI-008,MWI-012=not-yet;MWI-017=not-yet,
+MWI,system,treaty,coverage,none,2026-02-02,MWI-019,,
+MWI,system,authority,coverage,appointed,2026-09-14,MWI-002;MWI-003;MWI-005;MWI-007;MWI-010;MWI-014;MWI-016;MWI-022,MWI-020=none;MWI-011=none;MWI-015=none;MWI-021=none;MWI-013=none;MWI-018=none,
+MWI,system,practice,coverage,implementing,2025-10-22,MWI-006;MWI-009,,

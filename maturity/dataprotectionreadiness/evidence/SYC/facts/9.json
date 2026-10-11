@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-22-seychelles-data-protection-act-2023-act-24",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The gazetted Data Protection Act, 2023 (Act 24 of 2023) was assented to by the President on 19 December 2023, bears the operative date 22 December 2023 and repeals the former Data Protection Act (Cap 57) in section 55; section 56 gives controllers and processors already processing data 18 months from commencement (to 22 June 2025) to conform.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "Section 5 names the Information Commission, established under section 36 of the Access to Information Act, as the competent authority to enforce the Act, with powers to investigate, audit, issue enforcement notices and impose administrative fines up to SCR200,000; the document itself does not state that the Commission was acting under the Act.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Commission",
+   "country_label": "Information Commission",
+   "class": "other",
+   "platform": "",
+   "owner": "Republic of Seychelles",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

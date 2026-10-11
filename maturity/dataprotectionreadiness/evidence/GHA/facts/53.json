@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-27-minister-data-protection-foundation-techreview",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Minister for Communication called on all institutions that collect or process personal data to comply with the Data Protection Act, 2012 (Act 843) and urged unregistered organisations to register with the Data Protection Commission.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Data Protection Commission, with Executive Director Arnold Kavaarpuo, is named as the registering body and spoke at the Data Protection Conference in Accra.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission - Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commission, Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

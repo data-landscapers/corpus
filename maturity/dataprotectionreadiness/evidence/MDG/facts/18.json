@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-27-rapport-annuel-confidentialite-protection-donnees-madagascar",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The UGD announcement states that the Commission Malagasy de l'Informatique et des Libertés (CMIL) has been put in place effectively, after years in which no fully operational authority existed; the document's published date is used as no event date is given.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)",
+   "country_label": "CMIL",
+   "class": "other",
+   "platform": "",
+   "owner": "State (data protection authority)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

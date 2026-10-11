@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-28-nga-premiumtimes-court-dismisses-meta-privacy-suit-imo",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "ruling",
+   "class": "system",
+   "fact": "Premium Times reports that the NDPC issued a Final Order against Meta finding violations of the data rights of over 60 million Nigerians and imposing a $32.8 million fine, later set aside when the Federal High Court in Abuja adopted a Meta-NDPC settlement; the settlement date is not given, so the report date 2026-09-28 is used.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Nigeria Data Protection Commission is reported as having issued a Final Order and as party to a court-adopted settlement with Meta, so it is acting; the dates are not given, so the report date 2026-09-28 is used.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "NDPC",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

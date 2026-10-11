@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-22-togo-ipdcp-premiere-session-formation-correspondants-protection-donnees",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "The IPDCP says 35 data protection correspondents were designated by their organisations under articles 75 ff of law no. 2019-014 of 29 October 2019, which is therefore being applied.", "as_of": "2026-06-22", "date_precision": "day", "system": "Loi n° 2019-014 relative à la protection des données à caractère personnel", "class": "system"},
+    {"sub_indicator": "system", "aspect": "authority", "value": "appointed", "fact": "The IPDCP, led by its President Colonel Belei Bediani, opened a training session and is described as the data protection authority of Togo.", "as_of": "2026-06-22", "date_precision": "day", "system": "IPDCP", "class": "system"},
+    {"sub_indicator": "system", "aspect": "practice", "value": "implementing", "fact": "The IPDCP ran a three-day training session (22 to 24 June 2026) for 35 data protection correspondents, covering prior formalities, processing registers, impact assessments and breach management, and issued attendance certificates.", "as_of": "2026-06-22", "date_precision": "day", "system": "IPDCP", "class": "system"}
+  ],
+  "systems": [
+    {"system": "IPDCP", "country_label": "Instance de Protection des Données à Caractère Personnel", "class": "system", "platform": "", "owner": "Togo", "tiers": "public and private bodies"}
+  ],
+  "note": ""
+}

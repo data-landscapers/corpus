@@ -1,0 +1,62 @@
+{
+ "slug": "2025-11-15-ethiopia-data-protection-law-slow-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Shega reports that Ethiopia's first personal data protection proclamation took effect on publication in the Federal Negarit Gazette, a year before the article, though implementation has been slow (as_of is the article's published date; the document gives no commencement date).",
+   "as_of": "2025-11-15",
+   "date_precision": "day",
+   "system": "Personal Data Protection Proclamation"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The ECA Director General told Shega the Authority had received about 10 requests to transfer data abroad and had approved them as a temporary measure, and officials previewed a forthcoming registration portal for data controllers and processors at a workshop co-hosted with Huawei; the article records no sanction or published count of decisions, noting that as of March 2025 no ECA enforcement actions or guidelines had been publicized.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Ethiopian Communications Authority"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Ethiopian Communications Authority, whose mandate was extended from telecom regulation to data protection, is described as enforcing the law, with its Director General Balcha Reba saying data processors and collectors now need the Authority's permission and that staffing and technical capacity are being expanded (date is the article's published date).",
+   "as_of": "2025-11-15",
+   "date_precision": "day",
+   "system": "Ethiopian Communications Authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Proclamation",
+   "country_label": "Personal Data Protection Proclamation",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Democratic Republic of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Ethiopian Communications Authority",
+   "country_label": "Ethiopian Communications Authority (ECA)",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "ECA data controller and processor registration portal",
+   "country_label": "digital registration portal",
+   "class": "other",
+   "platform": "",
+   "owner": "Ethiopian Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

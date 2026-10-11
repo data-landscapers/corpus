@@ -1,0 +1,18 @@
+{
+ "iso3": "NAM",
+ "cells": [
+  {
+   "sub_indicator": "system",
+   "stage": "1",
+   "law": "not-yet",
+   "treaty": "ratified",
+   "authority": "",
+   "practice": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NAM-001;NAM-002;NAM-012",
+   "gaps": "The country has ratified the Malabo Convention and has no data protection law in force.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
+  }
+ ]
+}

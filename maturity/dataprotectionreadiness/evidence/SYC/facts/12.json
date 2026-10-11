@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-data-protection-laws-of-the-world-seychelles",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "law", "value": "in-force", "fact": "DLA Piper states the Data Protection Act, 2023 (Act 24 of 2023) came into force on 22 December 2023, with oversight and enforcement through the Information Commission.", "as_of": "2023-12-22", "date_precision": "day", "system": "Data Protection Act, 2023", "class": "system"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act, 2023", "country_label": "Data Protection Act, 2023 (Act 24 of 2023)", "class": "system", "platform": "", "owner": "Information Commission", "tiers": ""}
+  ],
+  "note": ""
+}

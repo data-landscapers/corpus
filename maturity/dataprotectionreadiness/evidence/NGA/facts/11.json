@@ -1,0 +1,26 @@
+{
+ "slug": "2023-06-12-nigeria-data-protection-act-2023-official-gazette-text",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The Nigeria Data Protection Act 2023, signed 12 June 2023, establishes the Nigeria Data Protection Commission and its Governing Council in Part II (section 4) and provides for appointment of a National Commissioner (section 14).",
+   "as_of": "2023-06-12",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "Nigeria Data Protection Commission (NDPC)",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government of Nigeria",
+   "tiers": "federal; MoU with the Nigeria Governors' Forum for states"
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

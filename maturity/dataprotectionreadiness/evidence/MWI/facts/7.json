@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-01-dmap-tor-operationalization-data-protection-authority",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The terms of reference for the World Bank-funded Digital Malawi Acceleration Project describe the Data Protection Authority as a unit still to be established within MACRA, with its structure, staffing, operations manual and enforcement framework to be designed by a consultant over up to five months.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Data Protection Act of 2024"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

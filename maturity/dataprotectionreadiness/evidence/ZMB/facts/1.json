@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-07-lusaka-star-data-protection-act-enforcement-hurdles",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "Lusaka Star reports that Zambia's Data Protection Act has strengthened the legal framework for collecting and processing personal data, with enforcement and compliance still a challenge; the article gives no other date, so as_of is its published date.",
+   "as_of": "2026-06-07",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "Lusaka Star quotes Data Protection Commissioner Likando Luywa speaking on oversight and registration of data controllers and processors, so the Commissioner is in post and acting; the article gives no other date, so as_of is its published date.",
+   "as_of": "2026-06-07",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "Data Protection Commissioner",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-17-swz-eswatinipositivenews-edpa-outreach-data-protection-awareness",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The EDPA reports its survey found about 80% of Trade Fair stand visitors not adequately aware of the Data Protection Act and 55.2% of the public finding the Authority difficult to access, and is setting up information desks in major towns covering registration requirements (date is the article's publication date).",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The EDPA, with an Acting Chief Executive Officer, is running an outreach campaign with information desks in major towns and says it has a five-year strategy.",
+   "as_of": "2026-09-17",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2022 (No. 5 of 2022)",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament; supervised by ESCCOM as EDPA",
+   "tiers": ""
+  },
+  {
+   "system": "Eswatini Data Protection Authority (EDPA)",
+   "country_label": "EDPA",
+   "class": "other",
+   "platform": "",
+   "owner": "Eswatini Communications Commission (ESCCOM)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

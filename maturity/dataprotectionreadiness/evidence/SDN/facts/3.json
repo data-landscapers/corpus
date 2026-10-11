@@ -1,0 +1,17 @@
+{
+ "slug": "2022-05-24-sudan-data-protection-factsheet",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The Data Protection Africa factsheet states Sudan has no data protection law and no data protection authority appointed; the date is the page's last-updated stamp, 24 May 2022, and parts of the text may be older.",
+   "as_of": "2022-05-24",
+   "date_precision": "day",
+   "system": "Data protection authority"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

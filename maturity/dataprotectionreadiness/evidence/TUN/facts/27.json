@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-04-tun-businessnews-forum-chawki-gaddes-donnees-personnelles-mineurs",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Forum Chawki Gaddes, in a statement of 3 October 2026, cites organic law no. 63 of 2004 as the law guaranteeing personal data protection and says the legal framework of the data protection authority remains in force.",
+   "as_of": "2026-10-03",
+   "date_precision": "day",
+   "system": "Loi organique n° 63 de 2004"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "none",
+   "class": "system",
+   "fact": "The Forum says the activities of the national personal data protection authority (INPDP) are at a standstill and calls for its reactivation, so no application by the authority is current; the date the activity stopped is not given.",
+   "as_of": "2026-10-03",
+   "date_precision": "day",
+   "system": "Instance nationale de protection des données personnelles (INPDP)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Instance nationale de protection des données personnelles (INPDP)",
+   "country_label": "Instance nationale de protection des données personnelles",
+   "class": "other",
+   "platform": "",
+   "owner": "State (supervisory authority under organic law 63 of 2004)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

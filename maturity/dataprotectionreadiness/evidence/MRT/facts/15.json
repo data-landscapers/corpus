@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-19-xaf-notreafrik-malabo-convention-ratifications",
+  "facts": [
+    {"sub_indicator": "system", "aspect": "treaty", "value": "ratified", "fact": "NotreAfrik states the Malabo Convention reached its fifteen-ratification threshold and entered into force on 8 June 2023, thirty days after Mauritania's ratification, so Mauritania ratified in May 2023 (the date is inferred from the thirty-day interval).", "as_of": "2023-05", "date_precision": "month", "system": "Malabo Convention", "class": "system"}
+  ],
+  "systems": [],
+  "note": ""
+}

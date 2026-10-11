@@ -1,0 +1,5 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ZAF,system,law,coverage,in-force,2026-05-20,ZAF-008;ZAF-012;ZAF-021;ZAF-036;ZAF-042;ZAF-046,ZAF-039=not-yet,
+ZAF,system,treaty,coverage,signed,2023-02-16,ZAF-015,,nothing dated since 2023-09-28
+ZAF,system,authority,coverage,appointed,2026-10-01,ZAF-001;ZAF-002;ZAF-006;ZAF-010;ZAF-011;ZAF-014;ZAF-016;ZAF-018;ZAF-019;ZAF-020;ZAF-024;ZAF-029;ZAF-031;ZAF-033;ZAF-034;ZAF-035;ZAF-040;ZAF-045;ZAF-048,,
+ZAF,system,practice,coverage,ruling,2026-09,ZAF-005;ZAF-007;ZAF-009;ZAF-017;ZAF-025;ZAF-026;ZAF-027;ZAF-028;ZAF-030;ZAF-032;ZAF-037;ZAF-041;ZAF-043;ZAF-044,ZAF-047=implementing;ZAF-004=implementing;ZAF-038=implementing;ZAF-003=implementing;ZAF-013=implementing;ZAF-022=implementing;ZAF-023=implementing,

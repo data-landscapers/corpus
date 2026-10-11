@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-01-odpc-kenya-guidance-note-artificial-intelligence",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "none",
+   "class": "system",
+   "fact": "The ODPC's guidance note defines the Office as established under Section 5 of the Data Protection Act and the Data Commissioner as appointed under Section 6.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Office issued its 36-page Guidance Note on Artificial Intelligence dated July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Office of the Data Protection Commissioner"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority; no document opened"
+}

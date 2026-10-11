@@ -1,0 +1,44 @@
+{
+ "slug": "2025-03-19-cil-sollicite-accompagnement-premier-ministre-jnpdp",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "class": "system",
+   "fact": "The CIL president announced on 18 March 2025 the third national data protection day, planned for 25-30 March 2025, and handed the Prime Minister the CIL's 2022 activity report.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Loi n°010-2004/AN du 20 avril 2004 portant protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The CIL, an independent administrative authority created by law n°010-2004/AN of 20 April 2004 and functional since December 2007, was received in audience by the Prime Minister on 18 March 2025, led by its president Dr Halguièta Nassa.",
+   "as_of": "2025-03-18",
+   "date_precision": "day",
+   "system": "Loi n°010-2004/AN du 20 avril 2004 portant protection des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°010-2004/AN du 20 avril 2004",
+   "country_label": "Loi portant protection des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Commission de l'informatique et des libertés (CIL)",
+   "country_label": "CIL",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}

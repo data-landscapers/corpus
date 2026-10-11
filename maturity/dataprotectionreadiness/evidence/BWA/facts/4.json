@@ -1,0 +1,44 @@
+{
+ "slug": "2025-07-29-bwa-idpc-permanent-base-three-contract-officers",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "class": "system",
+   "fact": "The Minister for State President told Parliament on 29 July 2025 that the Data Protection Act's implementation started on 14 January 2025.",
+   "as_of": "2025-01-14",
+   "date_precision": "day",
+   "system": "Data Protection Act No. 18 of 2024"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "class": "system",
+   "fact": "The Minister stated the Information and Data Protection Commission was established in 2022 and its commissioner had employed three contract officers, while the Deputy Commissioner and two director posts were unfilled and the structure awaited approval.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Data Protection Act No. 18 of 2024"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act No. 18 of 2024",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "Information and Data Protection Commission",
+   "country_label": "IDPC",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry for State President",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionauthority, dataprotectionlaw; no document opened"
+}
