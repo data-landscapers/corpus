@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-12 00:03 · **HOUSEKEEPING** · 8m · job 12 worked once: 29 held-body paper-records sentences settled in 18 status reports (1 stands, 7 re-pointed, 21 cut); 61 unheld-source lines still owed
 2026-10-11 23:47 · **RENDER** · 18m · 251 reports + home, countries, catalogue, finance, datasets, methodology rendered; 5,325 editions to R2; deployed — ok
 2026-10-11 23:35 · **REVIEW** · 9m · TUN: status 10 sections revised, progress 13 cells (6 rows mapped), monthly 11 blocks, finance 0 rows; 2 deals queued, 0 notes for OSINT — ok
 2026-10-11 23:35 · **REVIEW** · 26m · TGO: status 15 sections revised, progress 12 cells (3 rows mapped), monthly 14 blocks, finance 0 rows; 2 deals queued, 1 note for OSINT — ok
@@ -532,8 +533,6 @@ title: Corpus process log
 2026-09-11 00:26 · **RENDER** · 13m · 251 documents, home, 62 place pages, catalogue 20,807, finance 1,425 deals, R2 2,587 objects, 1 bulletin edition pruned, deployed — ok
 2026-09-11 00:12 · **BUILD** · 1h15m · catalogue 20,807, finance 1,983 deals, 43 units and 222 sources read, 53 rows moved and 90 minted, XWA back inside its band, bulletin 92 items — ok
 2026-09-10 16:31 · **DOC** · unclocked · bulletin cadence: page promises the overnight sweep only; top-up kept, run sporadically
-2026-09-10 16:04 · **RENDER** · 2h24m · 251 reports repaged for the Movement badge fix, home+progress-intro, body prose to 17px, 416 editions to R2, deployed - ok
-2026-09-10 09:18 · **RENDER** · unclocked · progress pages: /progress/ and /progress/countries/ built, PROGRESS added to the nav; 171 pages rebuilt, no edition cut
 2026-09-09 15:10 · **METHODOLOGY** · 35m · Process inventory reviewed against the week: r2-sync row added, region.py and methodology.py added to the publishing row, title index named beside the names index, deploy row now describes two hosts. Intersections 599 -> 1,049, monthly intake 2,000 -> 5,000
 2026-09-09 14:38 · **CATALOGUE** · 40m · url_note out of the download too - a lint's working note in a column of facts about the document; downloads carry ten columns. Whole-catalogue CSV now says 'Downloading, please wait' and swallows a second click
 2026-09-08 15:01 · **CATALOGUE-SPLIT** · 20m · **The Worker is deployed; title search is live.** `catalogue/titles/` serves from R2; `digital public infrastructure` returns 259 against 245. Slug, hero and Arabic searches resolve. Nothing else on the site moved — ok

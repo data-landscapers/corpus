@@ -1,6 +1,6 @@
 ---
 title: Mauritius: status report
-compiled: 2026-10-10
+compiled: 2026-10-12
 place: MUS
 region: XEA
 built_by: STATUS-INIT
@@ -195,7 +195,7 @@ Health outside one pilot still runs on paper. [The Ministry of Health and Wellne
 
 The finance and revenue back office is another matter. [A financial management information system on commercial off-the-shelf software is in use across both central and sub-national government, covering treasury, budget and other functions](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [the treasury system is recorded as extensively used by all ministries, departments and agencies, with government payments settled through real-time gross settlement](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Tax administration runs on commercial software connected to other government systems through the Government Service Bus](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [customs on commercial software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), [payroll on custom software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [electronic procurement covers online tendering and contract management and is interfaced with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [Social insurance and pensions run on custom software with records fully digitised](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-Two admissions sit inside that record. [The government human resource management information system is a hybrid of custom and commercial software but still carries manual processes and paperwork](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [the financial management system carries programme performance indicators for only some programmes rather than across the budget as a whole](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+One admission sits inside that record. [The financial management system carries programme performance indicators for only some programmes rather than across the budget as a whole](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 Elsewhere the line ministries do run real systems. [OpenEMIS is the national education management information system, with student and staff profiles, attendance, enrolment and academic performance entered directly by administrators at national, zonal and school level, following a 2022 UNESCO-supported capacity-building programme for ministry staff](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) (2022). Policing is mid-replacement: [the 2025-2026 budget allocates Rs 43 million to replace the Crime Occurrence Tracking System with a new police case management system and to add biometric capability to the Criminal Attribute Database, with tendering opening at the end of August 2025](https://newsmoris.com/mauritius-police-to-modernize-systems-with-rs-43-million-budget/). The platform's country account reported [DHIS2 in use at regional and national level, with extension to district and primary care level still planned](https://dhis2.org/fr/integration-des-donnees-dhis2-avec-vigiflow-pour-le-signalement-des-cas-daefi-a-maurice/) (2022).
 

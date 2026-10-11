@@ -1,6 +1,6 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-10-10
+compiled: 2026-10-12
 place: CPV
 region: XWA
 built_by: STATUS-INIT
@@ -218,7 +218,7 @@ Health is the laggard. The single digital patient record application, M1, was [i
 
 Education is further along. SIGE [reached all 395 basic education schools by February 2019](https://minedu.gov.cv/recursos_educativossigemenu), after covering all 43 secondary schools the year before, recording attendance, grades and administrative data with a parent-facing student file; [SIGAE tracks scholarship vacancies, financial management and scholarship recipients at home and in the diaspora](https://www.nosi.cv/en/solu%C3%A7%C3%B5es-egov) (2025).
 
-On the fiscal side the [customs and tax administrations are merged, running a commercial off-the-shelf customs system and a custom-built tax system](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [electronic invoicing has been mandatory for all companies since June 2022, electronic filing of individual income tax returns since 2015](https://edicomgroup.com/blog/how-to-comply-electronic-invoice-cape-verde). Human resources run on a [custom system with an employee and manager self-service portal, though manual processes and paperwork remain, with payroll built on and linked to it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [pension system doubles as the public sector's](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+On the fiscal side the [customs and tax administrations are merged, running a commercial off-the-shelf customs system and a custom-built tax system](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and [electronic invoicing has been mandatory for all companies since June 2022, electronic filing of individual income tax returns since 2015](https://edicomgroup.com/blog/how-to-comply-electronic-invoice-cape-verde). Human resources run on a [custom system with an employee and manager self-service portal, with payroll built on and linked to it](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [pension system doubles as the public sector's](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
 What these systems mostly lack is governance: [compliance, security and audit-trail arrangements are not in place for the customs, tax, HR, payroll, e-procurement or treasury systems, and only the financial management system has them, reporting internally](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Both of the country's [public financial management scores in the 2024 Ibrahim Index weakened over the preceding decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf).
 

@@ -1,6 +1,6 @@
 ---
 title: Mozambique: status report
-compiled: 2026-10-10
+compiled: 2026-10-12
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
@@ -236,7 +236,7 @@ The [elections commission is studying Angola's permanent voter registration as a
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-The systems that handle money are real; the systems that handle people are not. Mozambique runs [custom-built financial management, payroll, tax administration and human resources systems, with customs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and the financial management system reaches both central and sub-national government. Even there the reach is uneven: the [treasury system settles through real-time gross settlement but is only partially used by ministries, departments and agencies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [human resources system still carries manual processes and paperwork in its workflow](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+The systems that handle money are real; the systems that handle people are not. Mozambique runs [custom-built financial management, payroll, tax administration and human resources systems, with customs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025), and the financial management system reaches both central and sub-national government. Even there the reach is uneven: the [treasury system settles through real-time gross settlement but is only partially used by ministries, departments and agencies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 Revenue is where the state performs — Mozambique [ranks first of 54 African states on tax and revenue mobilisation](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf) (2023) — and education is where it does not. [StatEduc, the education management information system, still relies on physical questionnaires and aggregated rather than individual records, with a fully digital real-time entry platform only planned](https://www.iicba.unesco.org/sites/default/files/medias/fichiers/2025/10/KIX%20Knowledge%20Cafe%20Policy%20Brief_Building%20Responsive%20EMIS%20Policies%20for%20Robust%20Education%20Data%20Systems.docx%20%282%29.pdf) (2025), though [Milange district in Zambézia has taken its education data system down to school level since mid-2024, with other districts in Nampula and Zambézia following](https://education.dhis2.org/milange-emis/). The [education ministry's technology plan, last updated in 2019, sets out interoperability with other government institutions and student records keyed to the Unique Citizen Identification Number](https://www.ined.gov.mz/wp-content/uploads/2022/06/Plano-Tecnolo%CC%81gico-da-Educac%CC%A7a%CC%83o-2019-Vfinal-copy.pdf) — a programme rather than a system.
 
