@@ -1,0 +1,11 @@
+{
+  "slug": "2021-02-01-bdi-strategie-sectorielle-pour-la-mise-en-uvre-du-plan-national-de-develop",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2027", "fact": "The Ministry of Communication, ICT and Media's sector strategy, dated Bujumbura February 2021, is titled as implementing the national development plan PND Burundi 2018-2027 and covers the ICT, media and postal subsectors; the period end is taken from that title, the passages state no separate period.", "as_of": "2021-02", "date_precision": "month", "system": "Stratégie sectorielle pour la mise en œuvre du PND (2018-2027)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Stratégie sectorielle pour la mise en œuvre du PND (2018-2027)", "country_label": "Stratégie sectorielle", "class": "sector", "platform": "", "owner": "Ministère de la Communication, des Technologies de l'Information et des Médias", "tiers": ""},
+    {"system": "PNDTIC", "country_label": "Politique Nationale de Développement des TIC", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages are the contents page, acronym list and cover only: no statement of adoption, costing, targets or reporting is in them, so no fact on those aspects."
+}

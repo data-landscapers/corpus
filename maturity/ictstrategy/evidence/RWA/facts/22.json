@@ -1,0 +1,10 @@
+{
+  "slug": "2022-09-01-rwanda-digital-divides-dividends-include",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The INCLUDE report says the government developed the ICT Sector Strategic Plan (2018-2024) towards a digital-enabled economy through integrated e-governance platforms; no event date is given, so the report's publication date 2022-09 is used.", "as_of": "2022-09", "date_precision": "month", "system": "ICT Sector Strategic Plan", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "ICT Sector Strategic Plan (2018-2024)", "country_label": "ICT Sector Strategic Plan", "class": "sector", "platform": "", "owner": "Government of Rwanda", "tiers": ""}
+  ],
+  "note": ""
+}

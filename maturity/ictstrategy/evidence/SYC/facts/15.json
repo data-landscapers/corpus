@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-17-syc-worldbank-country-growth-jobs-report-2026-full-report",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The World Bank's Seychelles Country Growth and Jobs Report treats a National ICT Policy as in force, saying digital skills are a core pillar of it alongside the National Development Strategy (2024-2028); the report gives no adoption date or description of the policy's scope, so the as_of is the report's published date.", "as_of": "2026-09", "date_precision": "month", "system": "National ICT Policy", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2022-05-31-world-bank-burundi-digital-foundations-project-pad",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated",
+     "fact": "The World Bank appraisal document states that the ministry in charge of communication, ICT and media (MINCOTIM) is the line ministry responsible for developing and promoting Burundi's ICT sector policy.",
+     "as_of": "2022-05-31", "date_precision": "day", "system": "ICT sector policy (PNDTIC)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:donor",
+     "fact": "The World Bank-financed Digital Foundations Project (US$50 million grant) includes technical assistance for an evaluation of the ICT sector strategy (PNDTIC) and an update of its action plan; no domestic budget line is stated.",
+     "as_of": "2022-05-31", "date_precision": "day", "system": "PNDTIC", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "PNDTIC", "country_label": "ICT sector strategy (PNDTIC)", "class": "sector", "platform": "", "owner": "MINCOTIM", "tiers": ""},
+    {"system": "Burundi Digital Foundations Project", "country_label": "Digital Foundations Project", "class": "programme", "platform": "", "owner": "Government of Burundi with World Bank (IDA grant, US$50 million)", "tiers": ""}
+  ],
+  "note": ""
+}

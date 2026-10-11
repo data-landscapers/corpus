@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+TCD,sector,governance,qualifier,,,,,nothing held
+TCD,sector,standing,coverage,adopted,2017-11,TCD-001;TCD-002;TCD-006;TCD-007;TCD-009,,nothing dated since 2023-10-11
+TCD,sector,text,coverage,,,,,nothing held
+TCD,sector,period,coverage,to:2021,2017-11,TCD-003;TCD-010,TCD-008=to:2027,nothing dated since 2023-10-11
+TCD,sector,plan,coverage,,,,,nothing held
+TCD,sector,reporting,coverage,,,,,nothing held
+TCD,sector,last12,qualifier,,,,,nothing held

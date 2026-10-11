@@ -1,0 +1,10 @@
+{
+  "slug": "2025-06-25-cipit-state-of-ai-in-africa-report-2025",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The CIPIT report says the Tanzanian government has included AI in its National ICT Policy, citing the 2016 policy of the Ministry of ICT; it gives no adoption date or status wording beyond this, and the date is the document's publication date (2025-06-25).", "as_of": "2025-06-25", "date_precision": "day", "system": "National ICT Policy 2016", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy 2016", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of ICT and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

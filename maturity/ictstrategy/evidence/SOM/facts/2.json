@@ -1,0 +1,56 @@
+{
+ "slug": "2025-11-11-som-request-for-expressions-of-interest-national-ict-policy-and-strategy-f",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "A Request for Expressions of Interest, published 11 November 2025 by the Ministry of Communications and Technology, seeks a consultant firm to renew the existing National ICT Policy and Strategy (2019-2024) as a 2025-2029 policy, over about four months.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "National ICT Policy and Strategy",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2024",
+   "fact": "The notice describes the existing National ICT Policy and Strategy as covering 2019-2024, to be renewed for 2025-2029.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "National ICT Policy and Strategy",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The renewal consultancy is paid from an IDA (World Bank) grant to Somalia under the Regional Digital Integration Project (EA-RDIP), per the notice.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "National ICT Policy and Strategy",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The Ministry launched procurement of consultants to renew the ICT policy and strategy, with expressions of interest due 29 November 2025.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "National ICT Policy and Strategy",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ICT Policy and Strategy",
+   "country_label": "National ICT Policy and Strategy (2019-2024)",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": "federal"
+  }
+ ],
+ "note": ""
+}

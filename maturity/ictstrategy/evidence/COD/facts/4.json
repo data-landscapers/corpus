@@ -1,0 +1,56 @@
+{
+ "slug": "2026-07-24-drc-psen-2026-2030-expert-validation",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "validated",
+   "fact": "Participants at a two-day workshop on 21-22 July 2026 in Kinshasa technically validated the draft PSEN 2026-2030, subject to integrating their observations.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The policy is titled PSEN 2026-2030.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "plan",
+   "value": "none",
+   "fact": "Participants recommended that the final version finalise the costing of interventions, their multi-year breakdown and the link to the MTEF and programme budget.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "Experts technically validated the draft PSEN on 22 July 2026, with UNDP support.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "country_label": "PSEN 2026-2030",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère de l'Économie numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

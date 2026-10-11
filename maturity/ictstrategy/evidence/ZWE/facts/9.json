@@ -1,0 +1,26 @@
+{
+  "slug": "2026-07-20-zw-mobile-internet-survey",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "period",
+      "value": "to:2030",
+      "fact": "ZIMSTAT's Director-General is quoted as saying the 2025 ICT household survey will inform implementation of NDS2 and Zimbabwe's ICT Policy (2026-2030); the document gives no date for the period, so the published date is used.",
+      "as_of": "2026-07-20",
+      "date_precision": "day",
+      "system": "Zimbabwe's ICT Policy (2026-2030)",
+      "class": "sector"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Zimbabwe's ICT Policy (2026-2030)",
+      "country_label": "ICT Policy (2026-2030)",
+      "class": "sector",
+      "platform": "",
+      "owner": "Ministry of ICT, Postal and Courier Services",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

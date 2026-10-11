@@ -1,0 +1,13 @@
+{
+  "slug": "2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted",
+     "fact": "The National Assembly committee report states that the Government, in the National Information and Communication Technology Policy of 2006, set a goal of expanding the telecommunications backbone countrywide to widen access to ICT services; the year 2006 is the policy's date, not the report's.",
+     "as_of": "2006", "date_precision": "year", "system": "National Information and Communication Technology Policy of 2006", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Information and Communication Technology Policy of 2006", "country_label": "National Information and Communication Technology Policy", "class": "sector", "platform": "", "owner": "Government of Zambia", "tiers": ""},
+    {"system": "Eighth National Development Plan (8NDP), First Pillar", "country_label": "8NDP", "class": "development-plan", "platform": "", "owner": "Government of Zambia", "tiers": ""}
+  ],
+  "note": ""
+}

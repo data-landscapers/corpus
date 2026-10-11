@@ -1,0 +1,12 @@
+{
+  "slug": "2011-05-04-central-african-backbone-apl3-republic-of-congo-project-appraisal-document",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The appraisal document, dated 4 May 2011, treats a National ICT Policy as existing, with the project coordination unit to monitor its implementation and the steering committee to check project activities against it; the document does not describe the policy's scope.", "as_of": "2011-05", "date_precision": "month", "system": "National ICT Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The project coordination unit, anchored in the Ministry of Posts and Telecommunications in charge of ICT (MPTNTC), is to monitor implementation of the National ICT Policy and the government's ICT strategy, per the 2011 appraisal document.", "as_of": "2011-05", "date_precision": "month", "system": "National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of Posts and Telecommunications in charge of ICT (MPTNTC)", "tiers": ""},
+    {"system": "Central African Backbone Project APL3 (CITCG)", "country_label": "Communication Infrastructure and Technology Congo project", "class": "programme", "platform": "", "owner": "MPTNTC project coordination unit; World Bank credit of US$15 million", "tiers": ""}
+  ],
+  "note": ""
+}

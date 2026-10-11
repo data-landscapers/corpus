@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-15 Kenya developing DPI roadmap to streamline public service delivery",
+  "facts": [],
+  "systems": [
+    {"system": "Kenya DPI roadmap", "country_label": "Kenya", "class": "government", "platform": "", "owner": "Ministry of ICT and Digital Economy", "tiers": "national"},
+    {"system": "Kenya National Digital Masterplan 2022-2032", "country_label": "Kenya", "class": "national", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National AI Strategy 2025-2030", "country_label": "Kenya", "class": "subsector", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Names the national digital masterplan only in passing and states nothing on a sector ICT policy."
+}

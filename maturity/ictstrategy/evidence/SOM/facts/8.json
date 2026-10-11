@@ -1,0 +1,12 @@
+{
+  "slug": "2025-08-01-somalia-digital-inclusion-policy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The Digital Inclusion Policy states the National ICT Policy and Strategy (2019-2024) was developed by the Ministry of Communications and Technology, giving its period as 2019 to 2024; the document prints no date, so its published date 2025-08 is used.", "as_of": "2025-08", "date_precision": "month", "system": "National ICT Policy and Strategy (2019-2024)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy and Strategy (2019-2024)", "country_label": "National ICT Policy and Strategy (2019-2024)", "class": "sector", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": ""},
+    {"system": "Digital Inclusion Policy for Advancing Access to ICT Services for Marginalised Groups", "country_label": "Somalia National Digital Inclusion Policy", "class": "subsector", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": ""},
+    {"system": "National Communications Law (2017)", "country_label": "National Communications Law", "class": "law", "platform": "", "owner": "Parliament; National Communications Authority", "tiers": ""}
+  ],
+  "note": ""
+}

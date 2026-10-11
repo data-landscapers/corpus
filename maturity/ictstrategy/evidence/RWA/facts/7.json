@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-20-rwanda-tech-jobs-lfs",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2029", "fact": "KT Press says Rwanda is implementing its ICT Sector Strategic Plan 2024-2029; no event date is given, so the document's published date is used.", "as_of": "2026-07-20", "date_precision": "day", "system": "ICT Sector Strategic Plan 2024-2029", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The article says the plan aims to create 50,000 digital jobs over five years, a target with no cost stated; the date is the document's published date.", "as_of": "2026-07-20", "date_precision": "day", "system": "ICT Sector Strategic Plan 2024-2029", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Irembo", "country_label": "Irembo", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

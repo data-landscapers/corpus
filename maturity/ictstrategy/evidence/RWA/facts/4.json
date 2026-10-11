@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-09-rwa-newtimes-private-sector-digital-economy",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "An opinion column of 9 September 2026 says Rwanda's ICT strategy targets the creation of 50,000 digital jobs; it does not describe the strategy's scope or date the target (document date used).",
+      "as_of": "2026-09-09",
+      "date_precision": "day",
+      "system": "Rwanda's ICT strategy",
+      "class": "sector"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

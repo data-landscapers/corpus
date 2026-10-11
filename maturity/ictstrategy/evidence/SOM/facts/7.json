@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-05-starlink-launches-somalia-rural",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "Communications Minister Mohamed Adan Moalim said the Starlink launch supports the goals of the National ICT Policy and Strategy (2019-2024), which the article describes as aiming to expand digital access and strengthen domestic infrastructure.", "as_of": "2025-08-05", "date_precision": "day", "system": "National ICT Policy and Strategy (2019-2024)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy and Strategy (2019-2024)", "country_label": "National ICT Policy and Strategy (2019-2024)", "class": "sector", "platform": "", "owner": "Ministry of Communications", "tiers": ""}
+  ],
+  "note": ""
+}

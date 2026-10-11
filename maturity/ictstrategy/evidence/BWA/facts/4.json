@@ -1,0 +1,9 @@
+{
+  "slug": "2018-06-01-bwa-national-broadband-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "National Broadband Strategy", "country_label": "National Broadband Strategy (NBS)", "class": "subsector", "platform": "", "owner": "Ministry of Transport and Communications", "tiers": ""},
+    {"system": "National Information and Communications Technology Policy (Maitlamo)", "country_label": "National ICT Policy of 2007 (Maitlamo)", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The June 2018 broadband strategy is a subsector document; it only cites the 2007 National ICT Policy as a reference and states nothing of that policy's standing, text, plan or reporting."
+}

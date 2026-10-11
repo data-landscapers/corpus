@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The essay cites the 2013 National ICT Policy for rural fibre being urban-concentrated and links a copy of its text in the ITU national strategies repository; the essay is the author's AI-assisted analysis, published 2026-03-31.", "as_of": "2013", "date_precision": "year", "system": "Malawi ICT Policy 2013", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Malawi ICT Policy 2013", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Essay is mostly about paper-based service-point records; only a passing citation of the 2013 National ICT Policy bears on the sector policy."
+}

@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://arcep.ne/wp-content/uploads/2024/05/RAPPORTANNUEL2020ARCEP_2-1.pdf,fetched,,scripts/.workroot/study/ictstrategy/cache/NER/1.txt,10996,pdf,
+2,https://www.gouv.ne/images/DPG-PM-VERSION-15-mai2021.pdf,fetched,,scripts/.workroot/study/ictstrategy/cache/NER/2.txt,10264,pdf,
+3,https://www.mfwa.org/wp-content/uploads/2021/04/RAPPORT-FINAL-NIGER_April-1-.pdf,fetched,,scripts/.workroot/study/ictstrategy/cache/NER/3.txt,8539,pdf,
+4,https://documents1.worldbank.org/curated/en/315991594519247904/txt/Niger-Smart-Villages-for-Rural-Growth-and-Financial-Inclusion-Project.txt,unfetchable,empty extraction; no usable Wayback capture,,0,,
+5,https://arcep.ne/wp-content/uploads/2024/05/Rapportannuel2021ARCEPNIGER_11.08.2022.pdf,held,held as raw/2022/2022-08-11-niger-arcep-rapport-annuel-2021.md,,0,,
+6,https://stat-niger.org/wp-content/uploads/rapport_enquete/RAPPORT_FINAL_ENQUETE_TIC_2025_Validation_09_04_2026.pdf,held,held as raw/2026/2026-03-01-niger-enquete-tic-2025.md,,0,,
+7,https://mcnti.gouv.ne/gouvernance-numerique-le-niger-se-dote-de-donnees-statistiques-fiables-sur-lacces-aux-tic/,held,held as raw/2026/2026-05-14-mcnti-gouvernance-numerique-donnees-statistiques-acces-tic.md,,0,,

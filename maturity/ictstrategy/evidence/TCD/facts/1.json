@@ -1,0 +1,13 @@
+{
+  "slug": "2019-01-01-tcd-discours-du-ministre-des-postes-et-des-ntic-a-l-ouverture-du-forum-tch",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted",
+     "fact": "The minister of Posts and NTIC stated that the Government adopted in 1997 the Declaration of sector policy for the development of Posts and Telecommunications, the sector's founding policy statement, which led to the 1998 postal and telecommunications laws.",
+     "as_of": "1997", "date_precision": "year",
+     "system": "Déclaration de politique sectorielle de développement des Postes et des Télécommunications", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Déclaration de politique sectorielle de développement des Postes et des Télécommunications", "country_label": "Déclaration de politique sectorielle de développement des Postes et des Télécommunications", "class": "sector", "platform": "", "owner": "Government of Chad", "tiers": ""}
+  ],
+  "note": ""
+}

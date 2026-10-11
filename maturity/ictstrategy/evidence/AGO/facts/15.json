@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The decree states that the Livro Branco das Tecnologias de Informação e Comunicação, setting policy measures and strategic actions for the sustainable development of the ICT sector on six axes, was approved by Presidential Decree 272/24 of 5 December 2024.", "as_of": "2024-12-05", "date_precision": "day", "system": "Livro Branco das Tecnologias de Informação e Comunicação", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Livro Branco das Tecnologias de Informação e Comunicação", "country_label": "Livro Branco das TIC", "class": "sector", "platform": "", "owner": "", "tiers": "national; approved by Presidential Decree 272/24 of 5 December 2024, six axes of action including regulation and cybersecurity"},
+    {"system": "Estratégia Nacional de Cibersegurança", "country_label": "Estratégia Nacional de Cibersegurança", "class": "subsector", "platform": "", "owner": "Presidency of the Republic; ministry for telecommunications and ICT proposes annual evaluation", "tiers": "national; approved by Presidential Decree 256/25 of 3 December 2025"}
+  ],
+  "note": "The decree is itself a cybersecurity (subsector) strategy; only its statement on the sector White Paper gives a fact."
+}

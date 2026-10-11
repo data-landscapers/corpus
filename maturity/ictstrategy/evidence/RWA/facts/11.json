@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-cipesa-politics-of-ai-governance-regulation",
+  "facts": [],
+  "systems": [
+    {"system": "National AI policy", "country_label": "Rwanda's national AI policy (adopted 2019)", "class": "subsector", "platform": "", "owner": "Ministry of ICT and Innovation (Responsible AI office); RURA as technical regulator; NCSA for data protection compliance", "tiers": ""}
+  ],
+  "note": "Only a national AI policy is described for Rwanda, a policy for one part of the sector, not an ICT sector policy; no fact of the sector class."
+}

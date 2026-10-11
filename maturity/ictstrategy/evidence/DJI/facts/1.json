@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-11-mcpt-djibouti-smsi-2025-vision-numerique-inclusif",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "last12", "value": "advancing", "fact": "The Minister of Communication, in charge of Posts and Telecommunications, drew on the Politique Nationale de Developpement des TIC at the WSIS Forum 2025 (Geneva, 7-11 July 2025) to report progress on the digital divide: broadband access infrastructure covering most of the territory, and two large sector projects (Djibouti Digital Foundations and the East Africa regional digital integration project) laying the base of a digital economy; the document is the ministry's own news item dated 2025-07-11 and gives no adoption date, period, costs or targets for the policy.", "as_of": "2025-07", "date_precision": "month", "system": "Politique Nationale de Développement des TIC", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Politique Nationale de Développement des TIC", "country_label": "Politique Nationale de Développement des TIC", "class": "sector", "platform": "", "owner": "Ministère de la Communication, chargé des Postes et des Télécommunications (MCPT)", "tiers": "national"},
+    {"system": "Djibouti Digital Foundations", "country_label": "Djibouti digital fondation", "class": "programme", "platform": "", "owner": "MCPT", "tiers": "national"},
+    {"system": "Projet régional d'intégration numérique en Afrique de l'Est (EARDIP)", "country_label": "Projet régional d'intégration numérique en Afrique de l'Est", "class": "programme", "platform": "", "owner": "MCPT", "tiers": "national"}
+  ],
+  "note": ""
+}

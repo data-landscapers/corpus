@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2022", "fact": "The ITU repository lists Namibia's National ICT Policy / Broadband Policy, owned by the Ministry of ICT, with a time frame of 2018 to 2022 (phase); the document gives no event date, so its published year 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "National ICT Policy / Broadband Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The ITU repository lists the National ICT Policy / Broadband Policy among Namibia's strategies with an official policy source and implementation evidence of training programmes; no adoption date is given, so its published year 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "National ICT Policy / Broadband Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy / Broadband Policy", "country_label": "National ICT Policy / Broadband Policy", "class": "sector", "platform": "", "owner": "Ministry of ICT", "tiers": ""}
+  ],
+  "note": ""
+}

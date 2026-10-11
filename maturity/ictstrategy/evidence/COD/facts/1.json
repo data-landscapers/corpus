@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "validated",
+   "fact": "On 28 September 2026 the digital economy minister cited the validation of the PSEN on RTNC; the validation date is not given in this document.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The minister listed the validation of the PSEN among the ministry's achievements, reported on 28 September 2026.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "country_label": "PSEN 2026-2030",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère de l'Économie numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

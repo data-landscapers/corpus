@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+NER,sector,governance,qualifier,,,,,nothing held
+NER,sector,standing,coverage,adopted,2013-04-12,NER-001,,nothing dated since 2023-10-11
+NER,sector,text,coverage,,,,,nothing held
+NER,sector,period,coverage,to:2020,2013-04-12,NER-002,,nothing dated since 2023-10-11
+NER,sector,plan,coverage,,,,,nothing held
+NER,sector,reporting,coverage,activity,2020-07,NER-007,,nothing dated since 2023-10-11
+NER,sector,last12,qualifier,,,,,nothing held

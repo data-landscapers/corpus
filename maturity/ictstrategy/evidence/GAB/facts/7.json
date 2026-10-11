@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-31 Africa we have a data problem",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "", "platform": "DHIS2", "owner": "", "tiers": "district; regional; national"},
+    {"system": "SNIS", "country_label": "SNIS", "class": "", "platform": "", "owner": "", "tiers": "district; regional"},
+    {"system": "SIGE", "country_label": "SIGE (Système d'Information pour la Gestion de l'Éducation)", "class": "", "platform": "", "owner": "Ministry of National Education", "tiers": ""},
+    {"system": "FARIAJ", "country_label": "FARIAJ", "class": "", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "national"},
+    {"system": "SITA", "country_label": "SITA", "class": "", "platform": "", "owner": "Ministère de l'Intérieur", "tiers": "national"}
+  ],
+  "note": "An essay on paper records in rural services; it states no ICT sector policy for Gabon."
+}

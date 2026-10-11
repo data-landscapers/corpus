@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-29-rwanda-june-2027-deadline-retire-3g",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2029", "fact": "The article says the 3G switch-off by 30 June 2027 forms part of Rwanda's ICT Sector Strategic Plan 2024-2029, the digital transformation roadmap; the date is the article's publication date, as it gives none for the period's statement.", "as_of": "2026-07-29", "date_precision": "day", "system": "ICT Sector Strategic Plan 2024-2029", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "last12", "value": "advancing", "fact": "MINICT set 30 June 2027 as the nationwide 3G switch-off date, with pilot shutdowns in 2026 and 2G to follow, after a 24 July 2026 cabinet briefing, as part of the ICT Sector Strategic Plan 2024-2029.", "as_of": "2026-07-24", "date_precision": "day", "system": "ICT Sector Strategic Plan 2024-2029", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

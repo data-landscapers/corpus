@@ -1,0 +1,19 @@
+{
+  "slug": "2014-11-01-mali-numerique-2020-strategie-nationale-economie-numerique",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted",
+     "fact": "The document states that the Government of Mali adopted the telecommunications sector policy declaration (Declaration de Politique Sectorielle des Telecommunications) in 2000, setting the country's telecom objectives and action programme.",
+     "as_of": "2000", "date_precision": "year",
+     "system": "Declaration de politique sectorielle des telecommunications du Mali (DPST)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted",
+     "fact": "The document states that the Government adopted a national information and communication technology policy in 2005, built on six priorities: legal framework, infrastructure, content and applications, media, cooperation and financing.",
+     "as_of": "2005", "date_precision": "year",
+     "system": "Politique nationale des technologies de l'information et de la communication", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Declaration de politique sectorielle des telecommunications du Mali (DPST)", "country_label": "DPST", "class": "sector", "platform": "", "owner": "Government of Mali", "tiers": ""},
+    {"system": "Politique nationale des technologies de l'information et de la communication", "country_label": "Politique nationale des TIC", "class": "sector", "platform": "", "owner": "Government of Mali", "tiers": ""},
+    {"system": "Mali numerique 2020 - Strategie nationale de developpement de l'economie numerique", "country_label": "Mali numerique 2020", "class": "national", "platform": "", "owner": "Ministere de l'Economie Numerique, de l'Information et de la Communication", "tiers": ""}
+  ],
+  "note": "Mali numerique 2020 is itself a national digital economy strategy (marked DRAFT in this copy, published 2014-11): class national, so no fact."
+}

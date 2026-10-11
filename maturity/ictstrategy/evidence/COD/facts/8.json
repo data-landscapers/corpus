@@ -1,0 +1,12 @@
+{
+  "slug": "2019-09-01-rdc-plan-national-numerique-horizon-2025",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Plan National du Numérique says the government defined a sector policy document (Document de Politique Sectorielle, DPS) for telecommunications and ICT in 2009, referenced in its bibliography as dated July 2009.", "as_of": "2009-07", "date_precision": "month", "system": "Document de Politique Sectorielle (DPS)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2014", "fact": "The Plan National du Numérique says the DPS lapsed on expiry of its five-year period without the review being carried out; the end year 2014 is five years from the 2009 adoption, the document giving no year.", "as_of": "2014", "date_precision": "year", "system": "Document de Politique Sectorielle (DPS)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Document de Politique Sectorielle (DPS)", "country_label": "Document de Politique Sectorielle: Stratégie de développement du secteur des Télécommunications et des TIC de la RDC", "class": "sector", "platform": "", "owner": "Ministère des Postes, Téléphones et Télécommunications", "tiers": ""},
+    {"system": "Plan National du Numérique - Horizon 2025", "country_label": "Plan National du Numérique - Horizon 2025", "class": "national", "platform": "", "owner": "Cabinet du Chef de l'État (Cadre de Concertation)", "tiers": ""}
+  ],
+  "note": "The 2019 text states the ICT sector has had no updated sector strategic framework since the 2009 DPS; the Plan itself is a national digital plan, class national, so gives no sector fact."
+}

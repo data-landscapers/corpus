@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "period",
+ "fact": "The Presidency page states the Déclaration de Politique du secteur de l'économie numérique for 2018-2022 is the reference framework for public authorities and sector actors, with four strategic axes, and publishes its content.",
+ "title": "Politique sectorielle",
+ "publisher": "Présidence de la République Togolaise",
+ "published": "2019-12-23",
+ "date_source": "proxy",
+ "why_not": ""
+}

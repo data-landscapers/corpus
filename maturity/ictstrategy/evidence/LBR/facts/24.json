@@ -1,0 +1,13 @@
+{
+  "slug": "2020-01-01-liberia-worldbank-digital-economy-assessment",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The World Bank assessment states that a new five-year ICT policy (2019-2024) was signed by the President in 2019.", "as_of": "2019", "date_precision": "year", "system": "Liberia ICT Policy (2019-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The assessment names the policy as the Liberia ICT Policy (2019-2024).", "as_of": "2019", "date_precision": "year", "system": "Liberia ICT Policy (2019-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The assessment reports that the policy has 13 objectives and sets targets, such as a 20 percent improvement in school internet access and at least one ICT course in all secondary schools, with no cost stated.", "as_of": "2019", "date_precision": "year", "system": "Liberia ICT Policy (2019-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:none", "fact": "The assessment states there is no authoritative body to coordinate implementation of the National ICT Policy and that mandates among government actors are unclear, with the Ministry of Posts and Telecommunications' coordination ability limited; the National ICT Governing Board and CIO Council exist. Dated by the document's published date, 2020-01-01.", "as_of": "2020", "date_precision": "year", "system": "Liberia ICT Policy (2019-2024)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Liberia ICT Policy (2019-2024)", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": ""}
+  ],
+  "note": ""
+}

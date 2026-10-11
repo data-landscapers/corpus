@@ -1,0 +1,9 @@
+{
+  "slug": "2016-02-01-e-government-interoperability-framework",
+  "facts": [],
+  "systems": [
+    {"system": "e-Government Interoperability Framework (e-GIF)", "country_label": "e-GIF, eGA/EXT/GIF/001 v1.0", "class": "government", "platform": "", "owner": "e-Government Agency (eGA)", "tiers": "Public Institutions"},
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Names the National ICT Policy only as one of the policies acting as enforcement guidelines; states nothing about its standing, text, period, plan or reporting."
+}

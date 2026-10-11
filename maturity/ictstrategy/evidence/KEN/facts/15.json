@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-kenya-data-centre-licence-consultation",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Communications Authority consultation states that the ICT Sector Policy Guidelines, 2020 (also called National ICT policy guidelines, 2020) direct government agencies to promote and license private investment in carrier-neutral data centres; no adoption date beyond 2020 is given and the document's published date is 2026-09-01.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "ICT Sector Policy Guidelines, 2020",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": "One fact on the named sector policy guidelines; the CA 2023-2027 strategic plan is an institution-plan, no fact."
+}

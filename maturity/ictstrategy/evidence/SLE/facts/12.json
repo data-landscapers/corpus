@@ -1,0 +1,15 @@
+{
+  "slug": "2022-12-01-sle-sierra-leone-national-digital-development-strategy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The strategy states that the first national ICT Policy was released in 2009 and reviewed in 2017, and its timeline lists a 2nd national ICT Policy in 2017.", "as_of": "2017", "date_precision": "year", "system": "National ICT Policy (2009, reviewed 2017)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "none", "fact": "The strategy states that in the absence of a national ICT strategy, MDAs have been operating on internal strategies; no date is given, so the document's published date of 2022-12 applies.", "as_of": "2022-12", "date_precision": "month", "system": "National ICT strategy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The strategy states that the Ministry of Information and Communications is mandated to provide policy and technical leadership and to implement, monitor and review the national ICT strategy; no date is given, so the published date of 2022-12 applies.", "as_of": "2022-12", "date_precision": "month", "system": "National ICT strategy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy (2009, reviewed 2017)", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of Information and Communications", "tiers": ""},
+    {"system": "National Digital Development Strategy (NDDS)", "country_label": "National Digital Development Strategy", "class": "national", "platform": "", "owner": "Ministry of Information and Communications", "tiers": ""},
+    {"system": "National Digital Development Policy (NDDP)", "country_label": "National Digital Development Policy", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ICT Strategy for the revenue authority", "country_label": "ICT Strategy for the revenue authority", "class": "institution-plan", "platform": "", "owner": "NRA", "tiers": ""}
+  ],
+  "note": ""
+}

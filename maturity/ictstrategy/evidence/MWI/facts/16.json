@@ -1,0 +1,54 @@
+{
+  "slug": "2019-09-01-digital-government-strategy-malawi",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Digital Government Strategy states the Government of Malawi has developed an ICT Policy and National ICT Master and Strategic Plans, and carried out an ICT sector review during 2013-2017; no adoption date is given, so the document's published date is used.",
+      "as_of": "2019-09",
+      "date_precision": "month",
+      "system": "National ICT Policy",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The strategy's foreword says it will assist the Ministry of Information in implementing the targets in the National ICT Policy.",
+      "as_of": "2019-09",
+      "date_precision": "month",
+      "system": "National ICT Policy",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "plan",
+      "value": "actions",
+      "fact": "The strategy lists a medium-term action P9, owned by the Ministry of Information and Department of E-Government, to update the National ICT Policy, and an in-house review of it in its project table.",
+      "as_of": "2019-09",
+      "date_precision": "month",
+      "system": "National ICT Policy",
+      "class": "sector"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Government Strategy",
+      "country_label": "Digital Government Strategy (September 2019)",
+      "class": "government",
+      "platform": "",
+      "owner": "Department of E-Government, Ministry of Information",
+      "tiers": ""
+    },
+    {
+      "system": "National ICT Master and Strategic Plans",
+      "country_label": "National ICT Master and Strategic Plans",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

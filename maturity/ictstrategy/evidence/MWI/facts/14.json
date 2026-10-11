@@ -1,0 +1,26 @@
+{
+  "slug": "2024-09-01-mwi-digital-malawi-acceleration-project-p505095-stakeholder-engagement-pla",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "In stakeholder feedback the project implementation team answers that the Digital Malawi Acceleration Project follows the national ICT policy in developing its components and programmes (undated consultation; document published 2024-09).",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "National ICT policy",
+      "class": "sector"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Digital Malawi Acceleration Project (DMAP, P505095)",
+      "country_label": "Digital Malawi Acceleration Project",
+      "class": "programme",
+      "platform": "",
+      "owner": "Public Private Partnership Commission",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

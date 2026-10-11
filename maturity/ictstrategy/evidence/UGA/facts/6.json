@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-itu-uga-ict-strategy-2021-technical-assistance-and-training-to-uganda",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "ITU technical assistance project 9UGA21008 (CHF 1,651,100, about US$1.82m, January 2021 to December 2023, status completed) supported Uganda's Ministry of ICT and National Guidance and NITA-U in formulating a 'National ICT Development Strategy'; the document does not say the strategy was adopted, and gives no date of its own so the published year 2021 is used.", "as_of": "2021", "date_precision": "year", "system": "National ICT Development Strategy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:donor", "fact": "ITU committed CHF 1,651,100 (US$1,816,210 estimated) to the Ministry of ICT and National Guidance and NITA-U for strategy formulation and capacity building over 2021-2023; no domestic budget line is stated; date is the published year 2021.", "as_of": "2021", "date_precision": "year", "system": "National ICT Development Strategy", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2024-05-01-after-access-2022-23-south-africa-report",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Research ICT Africa report lists the First National Integrated ICT Policy White Paper among existing sector initiatives promoting digital inclusion; it gives no date, so the document's published date of 2024-05-01 is used.", "as_of": "2024-05-01", "date_precision": "day", "system": "First National Integrated ICT Policy White Paper", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "First National Integrated ICT Policy White Paper", "country_label": "ICT Policy White Paper", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Broadband Policy", "country_label": "National Broadband Policy", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "eHealth Strategy", "country_label": "eHealth Strategy", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Public Health's digital health plan lists the national ICT development policy 2010-2025 among four normative documents to which the plan is subordinate, so it is treated in force; the document gives no other date, so its published date of 2019 is used.", "as_of": "2019", "date_precision": "year", "system": "Politique Nationale de Développement des TIC 2010-2025", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2025", "fact": "The plan names the national ICT development policy as covering 2010-2025.", "as_of": "2019", "date_precision": "year", "system": "Politique Nationale de Développement des TIC 2010-2025", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Politique Nationale de Développement des TIC 2010-2025", "country_label": "Politique Nationale de Développement des TIC au Burundi 2010-2025", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "PNDIS II", "country_label": "Plan National de Développement de l'Informatique de Santé 2020-2024", "class": "institution-plan", "platform": "", "owner": "Ministère de la Santé Publique et de la Lutte contre le SIDA", "tiers": ""},
+    {"system": "PND 2018-2027", "country_label": "Plan National de Développement du Burundi 2018-2027", "class": "development-plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

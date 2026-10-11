@@ -1,0 +1,10 @@
+{
+  "slug": "2019-11-01-sierra-leone-national-innovation-and-digital-strategy-2019-2029",
+  "facts": [],
+  "systems": [
+    {"system": "Sierra Leone National Innovation & Digital Strategy 2019-2029", "country_label": "National Innovation & Digital Strategy", "class": "national", "platform": "", "owner": "Directorate of Science, Technology and Innovation, Office of the President", "tiers": ""},
+    {"system": "ICT Policy (developed 2009, updated 2017 with cybersecurity and e-government frameworks)", "country_label": "ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of Information and Communication", "tiers": ""}
+  ],
+  "note": "Passages only. The document is the national digital strategy (class national); it names the 2009 ICT Policy and its 2017 update only in passing as 'developed', with no adoption word, text status, period, plan or reporting, so no fact is recorded.",
+  "published_note": "No fact about the sector class: the 2009 ICT Policy is named without standing, text, period, plan or reporting."
+}

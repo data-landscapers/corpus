@@ -1,0 +1,19 @@
+{
+  "slug": "2022-08-05-ict-ministry-fy2021-22-q4-report",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "validated", "fact": "The Ministry of ICT and National Guidance Q4 FY2021/22 report states National ICT Policy drafting was completed and awaiting presentation to and approval by Cabinet; the output, first titled National Digital Transformation Policy, was retitled National ICT Policy per the Cabinet Secretariat.", "as_of": "2022-06", "date_precision": "month", "system": "National ICT Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The report shows the Ministry of ICT and National Guidance (E-Services department, Enabling Policies output) running the National ICT Policy's regulatory impact assessment, drafting and Cabinet submission.", "as_of": "2022-06", "date_precision": "month", "system": "National ICT Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:domestic", "fact": "The report shows UShs 249.775 million spent by the E-Services department on the output covering the National ICT Policy and the National Cyber Security Strategy (wage UShs 177.025 million, non-wage UShs 72.75 million), in a GoU vote; the spend is shared by both outputs.", "as_of": "2022-06", "date_precision": "month", "system": "National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy (draft)", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Digital Uganda Vision", "country_label": "Digital Uganda Vision", "class": "national", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "National Cyber Security Strategy", "country_label": "National Cyber Security Strategy", "class": "subsector", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "National Broadband Policy", "country_label": "National Broadband Policy", "class": "subsector", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "E-waste Policy (draft)", "country_label": "E-waste Policy", "class": "subsector", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Draft Open Data Policy", "country_label": "Open Data Policy", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Information and Communications Bill 2022", "country_label": "Information and Communications Bill", "class": "law", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "National ICT Innovation Policy", "country_label": "National ICT Innovation Policy", "class": "subsector", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""}
+  ],
+  "note": ""
+}

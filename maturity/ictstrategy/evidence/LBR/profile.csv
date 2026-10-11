@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LBR,sector,governance,qualifier,body:mandated;finance:not-stated,2026-02-03,LBR-010;LBR-025,LBR-024=body:mandated;LBR-030=body:none;LBR-015=body:mandated;LBR-016=finance:not-stated,
+LBR,sector,standing,coverage,adopted,2026-02,LBR-001;LBR-005;LBR-008;LBR-017;LBR-018;LBR-027,LBR-003=drafting;LBR-006=drafting;LBR-020=drafting,
+LBR,sector,text,coverage,public,2025-01-07,LBR-013;LBR-022,,
+LBR,sector,period,coverage,to:2030,2026-02-03,LBR-007;LBR-021,LBR-009=to:2025;LBR-019=to:2025;LBR-004=to:2025;LBR-026=to:2025;LBR-002=to:2025;LBR-028=to:2025;LBR-012=to:2025,
+LBR,sector,plan,coverage,actions,2025-01-07,LBR-014;LBR-023;LBR-029,,
+LBR,sector,reporting,coverage,results,2026-02-03,LBR-011,,
+LBR,sector,last12,qualifier,,,,,nothing held

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-01 Biometric Digital-ID in Africa - Ten Country Case Studies",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The report's Botswana chapter refers to the National ICT Policy 'Maitlamo' as Botswana's existing policy, whose aim it frames as accelerating socioeconomic development through faster, cheaper, more transparent government services (citing Paradigm Initiative 2021); it gives no adoption date and no scope description, and no date is given for the statement, so the document's published date (2025-12-01) is used.", "as_of": "2025-12", "date_precision": "month", "system": "National ICT Policy 'Maitlamo'", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy 'Maitlamo'", "country_label": "Maitlamo", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SmartBots Digital Transformation Strategy (2020)", "country_label": "SmartBots", "class": "national", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Document is a regional digital-ID report; only two passing mentions of Botswana policies, no status, text, period, plan or reporting detail."
+}

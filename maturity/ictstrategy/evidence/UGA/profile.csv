@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+UGA,sector,governance,qualifier,body:mandated;finance:domestic,2022-06,UGA-008;UGA-009,UGA-002=finance:donor,nothing dated since 2023-10-11
+UGA,sector,standing,coverage,adopted,2014,UGA-005;UGA-006,UGA-004=none;UGA-003=drafting;UGA-007=validated;UGA-001=drafting,
+UGA,sector,text,coverage,,,,,nothing held
+UGA,sector,period,coverage,,,,,nothing held
+UGA,sector,plan,coverage,,,,,nothing held
+UGA,sector,reporting,coverage,,,,,nothing held
+UGA,sector,last12,qualifier,,,,,nothing held

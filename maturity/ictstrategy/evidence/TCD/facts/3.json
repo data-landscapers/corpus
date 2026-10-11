@@ -1,0 +1,92 @@
+{
+ "slug": "2023-01-01-worldbank-digital-economy-chad-country-diagnostic-report",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The World Bank diagnostic lists the NICI plan 2007-2027 among Chad's key policies, dated 2007, and says the government articulated this vision.",
+   "as_of": "2007",
+   "date_precision": "year",
+   "system": "NICI plan",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2027",
+   "fact": "The diagnostic gives the NICI plan a period of 2007-2027.",
+   "as_of": "2007",
+   "date_precision": "year",
+   "system": "NICI plan",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The diagnostic says ADETIC developed the National ICT Development Strategy (Plan Tchad Numérique 2017-2021) in November 2017 and that the plan came to an end recently.",
+   "as_of": "2017-11",
+   "date_precision": "month",
+   "system": "Plan Tchad Numérique 2017-2021",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2021",
+   "fact": "The diagnostic gives the Plan Tchad Numérique a period of 2017-2021.",
+   "as_of": "2017-11",
+   "date_precision": "month",
+   "system": "Plan Tchad Numérique 2017-2021",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The diagnostic's policy table lists the Strategic Plan of Digital and Posts Development (PSDNP 2020-2030) as a 2020 strategic plan.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Plan Stratégique de Développement du Numérique et des Postes",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The diagnostic gives the PSDNP a period of 2020-2030.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Plan Stratégique de Développement du Numérique et des Postes",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICI plan",
+   "country_label": "NICI plan 2007-2027",
+   "class": "sector",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Plan Tchad Numérique 2017-2021",
+   "country_label": "Plan Tchad Numérique 2017-2021",
+   "class": "sector",
+   "platform": "",
+   "owner": "ADETIC",
+   "tiers": ""
+  },
+  {
+   "system": "Plan Stratégique de Développement du Numérique et des Postes",
+   "country_label": "PSDNP 2020-2030",
+   "class": "sector",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

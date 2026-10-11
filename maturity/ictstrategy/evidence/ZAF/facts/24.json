@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-01-zaf-usaasa-gn-7985-discussion-document-universal-access-universal-service",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The USAASA discussion document (Government Notice 7985, Gazette 55494) lists the National Integrated ICT Policy White Paper as a policy instrument issued by the Department of Telecommunications and Postal Services in Government Gazette 40325 of 3 October 2016.", "as_of": "2016-10-03", "date_precision": "day", "system": "National Integrated ICT Policy White Paper", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The document's source register links the National Integrated ICT Policy White Paper (Gazette 40325, 3 October 2016) to a gov.za gazette file.", "as_of": "2016-10-03", "date_precision": "day", "system": "National Integrated ICT Policy White Paper", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Integrated ICT Policy White Paper", "country_label": "National Integrated ICT Policy White Paper", "class": "sector", "platform": "", "owner": "Department of Telecommunications and Postal Services", "tiers": ""},
+    {"system": "South Africa Connect: Creating Opportunities, Ensuring Inclusion, South Africa's Broadband Policy", "country_label": "South Africa Connect", "class": "subsector", "platform": "", "owner": "Department of Communications", "tiers": ""}
+  ],
+  "note": ""
+}

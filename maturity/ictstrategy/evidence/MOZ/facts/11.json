@@ -1,0 +1,34 @@
+{
+  "slug": "2019-10-16-plano-estrategico-sociedade-informacao-2019-2028",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Resolução 52/2019 states that the Information Society Policy was approved by the Council of Ministers by Resolução 17/2018 of 21 June 2018, and approves the 2019-2028 Strategic Plan to operationalise it.",
+      "as_of": "2018-06-21",
+      "date_precision": "day",
+      "system": "Política para a Sociedade da Informação",
+      "class": "sector"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Política para a Sociedade da Informação",
+      "country_label": "Política para a Sociedade da Informação",
+      "class": "sector",
+      "platform": "",
+      "owner": "Conselho de Ministros",
+      "tiers": ""
+    },
+    {
+      "system": "Plano Estratégico para a Sociedade da Informação 2019-2028",
+      "country_label": "Plano Estratégico para a Sociedade da Informação 2019-2028",
+      "class": "national",
+      "platform": "",
+      "owner": "Conselho de Ministros",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

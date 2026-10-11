@@ -1,0 +1,23 @@
+{
+  "slug": "2026-10-08-zwe-herald-zrp-hit-crime-management-pilot-warren-park",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Ministry of Home Affairs integrated ICT strategy",
+      "country_label": "Ministry of Home Affairs integrated ICT strategy",
+      "class": "institution-plan",
+      "platform": "",
+      "owner": "Ministry of Home Affairs and Cultural Heritage",
+      "tiers": "immigration, civil registration, police"
+    },
+    {
+      "system": "ZRP Integrated Information System",
+      "country_label": "ZRP Integrated Information System",
+      "class": "",
+      "platform": "",
+      "owner": "Zimbabwe Republic Police",
+      "tiers": "police stations"
+    }
+  ],
+  "note": "Ministry's own ICT strategy (institution-plan), not the sector policy; no fact."
+}

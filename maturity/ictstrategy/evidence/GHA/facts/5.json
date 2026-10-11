@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-27-bridging-gender-digital-divide-ghana-research-ict-africa",
+  "facts": [],
+  "systems": [
+    {"system": "ICT for Accelerated Development (ICT4AD) Policy", "country_label": "National ICT for Accelerated Development (ICT4AD) Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Financial Services Policy (2020)", "country_label": "Digital Financial Services Policy", "class": "subsector", "platform": "", "owner": "Ministry of Finance", "tiers": ""},
+    {"system": "One Teacher, One Laptop programme", "country_label": "One Teacher, One Laptop", "class": "programme", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Cites ICT4AD as having 1 of 18 priority areas on gender, a content criticism with no standing, text, period, plan, reporting or last-twelve-months statement."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2019-05-01-moz-minedh-plano-tecnologico-da-educacao-2019",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Education's 2019 technology plan states that the Government adopted the Politica da Sociedade de Informacao (PSI), the Plano Estrategico para a Sociedade de Informacao (PESI) and the Plano Operacional (POSI) in 2018; the document does not describe their sector scope.", "as_of": "2018", "date_precision": "year", "system": "Politica da Sociedade de Informacao (PSI) / PESI / POSI", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The same document states that the Government adopted the Politica de Informatica in 2000 and approved the strategy for its implementation in 2002; it describes no scope and does not say whether either remains in force.", "as_of": "2000", "date_precision": "year", "system": "Politica de Informatica", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Politica da Sociedade de Informacao (PSI) / PESI / POSI", "country_label": "Politica da Sociedade de Informacao; Plano Estrategico para a Sociedade de Informacao; Plano Operacional para a Sociedade de Informacao", "class": "sector", "platform": "", "owner": "Government of Mozambique", "tiers": ""},
+    {"system": "Politica de Informatica", "country_label": "Politica de Informatica", "class": "sector", "platform": "", "owner": "Government of Mozambique", "tiers": ""},
+    {"system": "Plano Tecnologico da Educacao 2019 (PTE 2019)", "country_label": "Plano Tecnologico da Educacao 2019", "class": "institution-plan", "platform": "", "owner": "Ministerio da Educacao e Desenvolvimento Humano (MINEDH)", "tiers": "schools, district, provincial and central education levels"},
+    {"system": "Plano Tecnologico da Educacao 2011-2026 (PTE 2011)", "country_label": "Plano Tecnologico da Educacao 2011", "class": "institution-plan", "platform": "", "owner": "Ministerio da Educacao", "tiers": ""}
+  ],
+  "note": "The document is the education ministry's own ICT plan (institution-plan); the only sector-class facts are its passing mentions of the 2000 and 2018 national ICT instruments."
+}

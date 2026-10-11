@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-01-nita-u-digital-skills-framework-tor",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The NITA-U terms of reference (August 2026) cite a 'Draft National ICT Policy, 2022' as the source for the ICT sector's 9 percent GDP share and 2.3 million jobs, so a 2022 draft existed; the document dates no adoption.", "as_of": "2022", "date_precision": "year", "system": "Draft National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Draft National ICT Policy (2022)", "country_label": "Draft National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Digital Transformation Roadmap (2023/24-2027/28)", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "National Development Plan IV (FY2025/26-2029/30)", "country_label": "NDP IV", "class": "development-plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

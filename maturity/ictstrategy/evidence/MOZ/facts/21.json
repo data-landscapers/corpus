@@ -1,0 +1,15 @@
+{"slug":"2022-12-01-moz-relatorio-de-actividades-de-2022-do-intic-ip","facts":[
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"INTIC's 2022 activity report names the Politica para a Sociedade da Informacao as approved by Resolucao n.o 17/2018 of 21 June; the report gives no description of its scope.","as_of":"2018-06-21","date_precision":"day","system":"Politica para a Sociedade da Informacao","class":"sector"},
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"INTIC's 2022 activity report names the Plano Estrategico para a Sociedade da Informacao as approved by Resolucao n.o 52/2019 of 16 October.","as_of":"2019-10-16","date_precision":"day","system":"Plano Estrategico para a Sociedade da Informacao","class":"sector"},
+{"sub_indicator":"sector","aspect":"period","value":"to:2023","fact":"The report's contents list the plan and its operational plan as covering 2019-2023.","as_of":"2022-12","date_precision":"month","system":"Plano Estrategico para a Sociedade da Informacao","class":"sector"},
+{"sub_indicator":"sector","aspect":"reporting","value":"activity","fact":"The report lists as an activity done in 2022 the assessment of the degree of implementation of the plan and an interim evaluation report to be submitted to the Council of Ministers; the passages give no results against targets.","as_of":"2022","date_precision":"year","system":"Plano Estrategico para a Sociedade da Informacao","class":"sector"},
+{"sub_indicator":"sector","aspect":"governance","value":"body:mandated","fact":"INTIC, IP states its 2022 efforts aim to implement the Politica para a Sociedade da Informacao and its Plano Estrategico; the report states no budget line for them.","as_of":"2022","date_precision":"year","system":"Politica para a Sociedade da Informacao","class":"sector"},
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"INTIC's 2022 activity report names the Estrategia de Telecomunicacoes as approved by Resolucao n.o 53/2006 of 26 December.","as_of":"2006-12-26","date_precision":"day","system":"Estrategia de Telecomunicacoes","class":"sector"}
+],"systems":[
+{"system":"Politica para a Sociedade da Informacao","country_label":"Politica para a Sociedade da Informacao","class":"sector","platform":"","owner":"INTIC, IP","tiers":""},
+{"system":"Plano Estrategico para a Sociedade da Informacao","country_label":"Plano Estrategico e Plano Operacional da Sociedade de Informacao 2019-2023","class":"sector","platform":"","owner":"INTIC, IP","tiers":""},
+{"system":"Estrategia de Telecomunicacoes","country_label":"Estrategia de Telecomunicacoes","class":"sector","platform":"","owner":"","tiers":""},
+{"system":"Politica Nacional de Seguranca Cibernetica e Estrategia de Implementacao","country_label":"Resolucao n.o 69/2021","class":"subsector","platform":"","owner":"INTIC, IP","tiers":""},
+{"system":"Lei das Transaccoes Electronicas","country_label":"Lei n.o 3/2017","class":"law","platform":"","owner":"","tiers":""},
+{"system":"Lei de Telecomunicacoes","country_label":"Lei n.o 8/2004","class":"law","platform":"","owner":"","tiers":""}
+],"note":""}

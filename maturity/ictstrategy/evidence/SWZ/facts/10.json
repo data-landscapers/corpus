@@ -1,0 +1,12 @@
+{
+  "slug": "2006-08-01-swaziland-nici-policy-and-implementation-plan",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The document states that the draft ICT policy, endorsed at a stakeholder validation workshop in January 2006, was adopted by Cabinet in August 2006 as the Swaziland National Information and Communication Infrastructure (NICI) Policy, and that the Prime Minister launched it on 3 August 2007.", "as_of": "2006-08", "date_precision": "month", "system": "National Information and Communication Infrastructure (NICI) Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The NICI Policy and its Implementation Plan 2012-2016 are hosted together as a PDF on the government site gov.sz; the date is the document's published date, 2006-08-01.", "as_of": "2006-08", "date_precision": "month", "system": "National Information and Communication Infrastructure (NICI) Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2016", "fact": "The Implementation Plan carried with the NICI Policy covers 2012 to 2016 and is labelled a draft for validation; the date given is the document's published date, 2006-08-01.", "as_of": "2006-08", "date_precision": "month", "system": "National Information and Communication Infrastructure (NICI) Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Information and Communication Infrastructure (NICI) Policy", "country_label": "NICI Policy / Swaziland ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of Information, Communications and Technology", "tiers": "national"}
+  ],
+  "note": ""
+}

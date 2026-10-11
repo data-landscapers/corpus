@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr",
+  "facts": [],
+  "systems": [
+    {"system": "ICT POLICY GUIDELINE 2016", "country_label": "ICT Policy Guideline 2016", "class": "", "platform": "", "owner": "Ministry of Health", "tiers": ""},
+    {"system": "TANZANIA DIGITAL HEALTH STRATEGY 2019 - 2024", "country_label": "Tanzania Digital Health Strategy 2019-2024", "class": "subsector", "platform": "", "owner": "Ministry of Health", "tiers": ""}
+  ],
+  "note": "Ministry of Health eHealth page lists download links only; 'ICT Policy Guideline 2016' is named with no description of what it covers, so no fact is taken for the sector policy."
+}

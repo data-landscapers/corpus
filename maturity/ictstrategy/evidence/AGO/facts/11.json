@@ -1,0 +1,11 @@
+{
+  "slug": "2024-04-16-ago-terceira-edicao-do-forum-angola-digital",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "At the third Angola Digital Forum on 16 April 2024 the Secretary of State for Telecommunications and IT said the Executive, through MINTTICS, had submitted the proposed revision of the ICT White Paper (Livro Branco das TIC) for 2023-2027 to public consultation, its approval still to come.", "as_of": "2024-04-16", "date_precision": "day", "system": "Livro Branco das TIC 2023-2027", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2027", "fact": "The document names the White Paper under revision as covering the period 2023 - 2027.", "as_of": "2024-04-16", "date_precision": "day", "system": "Livro Branco das TIC 2023-2027", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Livro Branco das TIC 2023-2027", "country_label": "Livro Branco das TIC", "class": "sector", "platform": "", "owner": "MINTTICS", "tiers": ""}
+  ],
+  "note": ""
+}

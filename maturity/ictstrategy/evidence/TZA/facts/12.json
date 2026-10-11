@@ -1,0 +1,9 @@
+{
+  "slug": "2024-01-01 Tanzania Digital Economy Strategic Framework 2024-2034 (MICIT)",
+  "facts": [],
+  "systems": [
+    {"system": "Tanzania Digital Economy Strategic Framework 2024-2034", "country_label": "Tanzania Digital Economy Strategic Framework 2024-2034", "class": "national", "platform": "", "owner": "MICIT", "tiers": ""},
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Companion page only; it describes a national digital strategy (class national) and names the National ICT Policy as its anchor without stating its standing, text, period, plan or reporting."
+}

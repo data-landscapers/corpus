@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "sector",
+ "aspect": "Standing;Text;Period",
+ "fact": "The Government's sector roadmap, the Note d'Orientations Générales for the development of the telecommunications sector to horizon 2023, is listed by ANRT as the current note, after the notes to 2018 and 2013.",
+ "title": "Notes d'orientations générales",
+ "publisher": "ANRT",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "An undated index page that lists the instrument and states no dated fact (the parent's ruling at staging)."
+}

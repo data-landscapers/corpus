@@ -1,0 +1,9 @@
+{
+  "slug": "2017-02-01-ben-declaration-de-politique-sectorielle-orientations-strategiques-2021-da",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2021", "fact": "The ministry's Déclaration de politique sectorielle for the digital economy sets its strategic orientations to 2021, the horizon at which the President wants Benin to be West Africa's digital platform; the document gives no date of its own, so its published date 2017-02-01 is used.", "as_of": "2017-02-01", "date_precision": "day", "system": "Déclaration de politique sectorielle: Orientations stratégiques 2021 dans le secteur de l'économie numérique", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full declaration is hosted as a PDF on the government's innovation.gouv.bj site; the document gives no date of its own, so its published date 2017-02-01 is used.", "as_of": "2017-02-01", "date_precision": "day", "system": "Déclaration de politique sectorielle: Orientations stratégiques 2021 dans le secteur de l'économie numérique", "class": "sector"}
+  ],
+  "systems": [],
+  "note": "Passages file holds only the cover, the President's foreword and the table of contents; no standing, plan, governance or reporting content is in it."
+}

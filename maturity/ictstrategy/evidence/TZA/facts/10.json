@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-29-tanzania-charts-path-responsible-ai",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The Citizen reports that in 2021 the government launched a review process of the National ICT Policy (2016); no outcome is stated.", "as_of": "2021", "date_precision": "year", "system": "National ICT Policy (2016)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy (2016)", "country_label": "National ICT Policy (2016)", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National AI Strategy", "country_label": "National AI Strategy", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Tanzania Project", "country_label": "Digital Tanzania Project", "class": "programme", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-08-01-integrated-national-data-exchange-uganda-case-study",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The DIAL case study describes Uganda's enabling environment as starting with its National ICT Policy of 2003 and continuing through 2023, when the Digital Transformation Roadmap was launched.", "as_of": "2003", "date_precision": "year", "system": "National ICT Policy 2003", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy 2003", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Transformation Roadmap", "country_label": "Digital Transformation Roadmap", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

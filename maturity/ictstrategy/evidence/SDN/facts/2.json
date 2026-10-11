@@ -1,0 +1,4 @@
+{"slug":"2007-06-01-sudan-infodev-ict-education-survey","facts":[
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"The infoDev/World Bank report states that the Sudanese national ICT strategy was formulated in June 1999, focused on technology infrastructure, human resources, software industry, Arabic content and geo-information.","as_of":"1999-06","date_precision":"month","system":"national ICT strategy","class":"sector"},
+{"sub_indicator":"sector","aspect":"governance","value":"body:mandated","fact":"The report states that a high-level ministerial committee was formed in June 1999 to oversee implementation of the national ICT strategy.","as_of":"1999-06","date_precision":"month","system":"national ICT strategy","class":"sector"}
+],"systems":[{"system":"national ICT strategy","country_label":"Sudanese national ICT strategy","class":"sector","platform":"","owner":"high-level ministerial committee","tiers":"national"}],"note":""}

@@ -1,0 +1,8 @@
+{
+  "slug": "2021-04-01-ega-strategic-plan-2021-22-2025-26",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The e-Government Authority's April 2021 strategic plan states it is aligned to the National ICT Policy 2016, lists it among the documents given due consideration, and says the Policy calls for strengthening institutions that coordinate, oversee, regulate and enforce e-government; no adoption date is given, so the plan's own date (April 2021) is used.", "as_of": "2021-04", "date_precision": "month", "system": "National ICT Policy 2016", "class": "sector"}
+  ],
+  "systems": [],
+  "note": "The plan is an institution-plan (class institution-plan) and gives no fact of its own; the only sector-class fact is its reference to the National ICT Policy 2016."
+}

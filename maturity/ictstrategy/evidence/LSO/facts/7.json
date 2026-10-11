@@ -1,0 +1,34 @@
+{
+ "slug": "2022-03-01-lso-transforming-health-care-in-lesotho-using-digital-health-to-overcome-h",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The World Bank digital health assessment describes the Lesotho ICT policy 2021 as currently in draft form (no event date given; document published 2022-03-01 used).",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "Lesotho ICT policy 2021",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lesotho ICT policy 2021",
+   "country_label": "Lesotho ICT policy 2021",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Communications, Science and Technology",
+   "tiers": ""
+  },
+  {
+   "system": "e-Health Strategy (2019-2023)",
+   "country_label": "e-Health Strategy (2019-2023)",
+   "class": "subsector",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

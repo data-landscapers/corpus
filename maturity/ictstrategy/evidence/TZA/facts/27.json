@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-tanzania-digital-economy-strategic-framework",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The framework's passages refer to the National ICT Policy, 2016 (NICTP-2016) as an existing policy with subsequent reviews, and the President's statement says the National ICT Policy emphasizes the role of ICT in socio-economic goals; the framework is dated 2024, which is used as the as-of date.", "as_of": "2024", "date_precision": "year", "system": "National ICT Policy, 2016 (NICTP-2016)", "class": "sector"}
+  ],
+  "systems": [],
+  "note": "The framework itself is a national digital strategy (class national), which gives no fact; the only sector-class fact is the reference to the National ICT Policy 2016."
+}

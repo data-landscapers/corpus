@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-10-burundi-rapport-initial-crpd-c-bdi-1",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "Burundi's initial CRPD report, received 3 December 2021 and published by the UN on 2025-10-10, lists the Government's National ICT Development Policy 2010-2025 among measures it has taken, and calls it a sectoral policy document; the as_of date is the report's reception date.", "as_of": "2021-12", "date_precision": "month", "system": "Politique Nationale de Développement des TIC du Burundi (2010-2025)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2025", "fact": "The Government's report names the Politique Nationale de Développement des TIC as covering 2010-2025; the as_of date is the report's reception date.", "as_of": "2021-12", "date_precision": "month", "system": "Politique Nationale de Développement des TIC du Burundi (2010-2025)", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

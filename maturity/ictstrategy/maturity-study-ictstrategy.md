@@ -3,20 +3,20 @@ type: task
 reader: cc
 title: maturity-study-ictstrategy.md — the eighth maturity study and the second of an instrument: the ICT and telecommunications sector policy
 last_reviewed: 2026-10-11
-status: CC's proposal; step 1 done, awaiting Bill's rulings at step 2
+status: CC's proposal, run on Bill's word of 2026-10-11; step 3 done, awaiting OSINT's ingest
 ---
 
 # Maturity study: ictstrategy — the sector policy
 
-*(Commissioned by Bill on 2026-10-11, under `maturity/documentation/maturity-study-method.md`. CC's proposal throughout. Trigger: "**run maturity study ictstrategy**".)*
+*(Commissioned by Bill on 2026-10-11, under `maturity/documentation/maturity-study-method.md`. Next trigger: "**complete maturity study ictstrategy**".)*
 
 ## 1. The question, and the row it redraws
 
 **Does the country have a policy in force for its ICT and telecommunications sector, and does it publish what the policy has delivered?** `gov.policy--ict-strategy` stages 42 cells: 30 at stage 3, 11 at 2, one at 4, none at 1 or 5, and 12 unplaced. Three things cause that.
 
-- **No settled subject.** Cells hold sector policies, national digital strategies, a development plan, a communications law, a regulator's decision, a tender and a minister's dismissal as one thing.
+- **No settled subject.** Cells hold sector policies, national digital strategies, a development plan, a law and a tender as one thing.
 - **The same instrument staged twice.** At least 14 cells stand on the national digital strategy that `digitalstrategy` has already staged; eight share a staging row with it.
-- **A fifth rung that is another row.** Stage 5 asks for the sector strategy to be superseded by a national digital transformation strategy, which is the neighbouring indicator.
+- **A fifth rung that is another row.** Stage 5 asks for supersession by a national digital strategy, the neighbouring indicator.
 
 **One sub-indicator replaces the row**:
 
@@ -84,39 +84,32 @@ status: CC's proposal; step 1 done, awaiting Bill's rulings at step 2
 
 **An open policy stops at stage 3**, and its year prints in the short summary (method §3 rule 8).
 
-**The four readings `digitalstrategy` fixed at its D3 carry over**: adoption is the source's own word; a text the government has published, and no source calls a draft, is read as adopted; a published rate of execution of the policy's own actions is `results`; a fact is kept for a named policy whose scope its document does not describe.
+**The four readings `digitalstrategy` fixed at its D3 carry over**, as its study file states them.
+
+**Fixed at this study's D3** (`scripts/study-ladder-ictstrategy.py` holds the reasons): the country is placed on its newest adopted sector policy; an open policy a national digital strategy replaced is *lapsed* from the year `instruments.csv` gives; an adopted policy whose text nobody has found stops at stage 2, unflagged; *in the national plan* needs no sector policy on record; a web page presenting a strategy is not its text. **Rungs 1, 4 and 5 are unreached and stand.**
 
 ## 5. The norm
 
-The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital Transformation Strategy for Africa 2020-2030 with the Smart Africa Manifesto. The first asks states for "national and sectorial digital strategies".
-
-**The norm names the subject and measures nothing**, and it treats a sector policy as subsumed in a digital strategy. The old fifth rung, supersession by a national strategy, becomes the flag.
+The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital Transformation Strategy for Africa 2020-2030, which asks states for "national and sectorial digital strategies". **It names the subject and measures nothing.** The old fifth rung, supersession by a national strategy, becomes the flag.
 
 ## 6. What the review reads and the search asks for
 
 - **Subjects and term list**: in `study.json`.
 - **The review starts from what is already read.** `digitalstrategy` logged 109 `sector-ict` rows for 37 countries in its `systems.csv`; D2 carries them into this study's `systems.csv` before a drafter runs, and its `instruments.csv` settles `national`.
-- **Read by rung** (method §4): dated news and official notices settle standing, text and period. The policy's own text is opened only for a cell at stage 3 with a source naming a report against it.
+- **Read by rung** (method §4): the policy's own text is opened only for a cell at stage 3 with a source naming a report against it.
 - **Source types for the briefs**, ranked: dated news and ministry or regulator notices of the policy's adoption, launch, review or replacement; the adopting act in the official gazette or a cabinet communiqué; the ministry's or regulator's report against it; ITU and World Bank sector assessments; the policy's own text.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare the criteria** (method step 1): this file and `study.json`, 2026-10-11.
-- [ ] **D1. Bill's rulings**, below.
-- [ ] **D2. Review all 54 countries**, method §4.
-- [ ] **D3. Test and fix the ladder.**
-- [ ] **D4. Search and hand over**, method §5.
+- [x] **D1. Bill's rulings**: the six proposals stand, 2026-10-11.
+- [x] **D2. Review all 54 countries**, method §4: 644 documents in 202 calls, the first pass and then the carried sources and the thin countries' next calls; 266 facts.
+- [x] **D3. Test and fix the ladder**: 228 corrections; 10 at stage 3, 16 at 2, 27 unplaced, one with no evidence.
+- [x] **D4. Search and hand over**, method §5: 54 searches, 66 documents for 40 countries, `notes-for-osint` 227.
 - [ ] **D5. Re-read and stage**, method §7.
 - [ ] **D6. Write, render and lint.** **D7. Report to Bill.**
 
-**The rulings asked at D1**:
-
-1. Only a sector policy is assessed. A country run on its national digital strategy alone is unplaced and flagged *under the national strategy*, not staged a second time.
-2. A communications law is noted, not assessed.
-3. A sector policy adopted by the responsible minister counts as adopted.
-4. An open-ended policy stays at stage 3 however old; past ten years it is flagged *dated*.
-5. The ladder above stage 3 is `digitalstrategy`'s: published results against the policy's own targets, capped at 3 without a mandated body and a domestic budget line.
-6. Broadband and universal access policies stay out, on their own rows.
+**The six rulings of D1 ran unamended** and are §2 to §4 as they stand: only a sector policy is assessed; a law is noted; a minister's adoption counts; an open policy stops at stage 3; the upper ladder is `digitalstrategy`'s; broadband and universal access stay out. `c7b320f36` holds them as asked.
 
 ## Boundary
 

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-misr-al-raqmiyya-istratijiyyat-al-ittisalat-wa-tiknulujia-al-maalumat-2030",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2030", "fact": "The Ministry of Communications and Information Technology publishes on its own site a page titled as the ICT Strategy 2030, built on three pillars: digital transformation, digital skills and jobs, and technological innovation; no page date is given, so the published year 2026 is used.", "as_of": "2026", "date_precision": "year", "system": "استراتيجية الاتصالات وتكنولوجيا المعلومات ٢٠٣٠ (ICT 2030 Strategy)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The ministry's website carries a public page presenting the ICT 2030 Strategy, though it gives no strategy document, targets or budget; the page has no date, so the published year 2026 is used.", "as_of": "2026", "date_precision": "year", "system": "استراتيجية الاتصالات وتكنولوجيا المعلومات ٢٠٣٠ (ICT 2030 Strategy)", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

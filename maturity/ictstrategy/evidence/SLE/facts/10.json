@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-sle-health-data-ecosystem-mapping-national-digital-health-landscape-assess",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The report lists the National ICT policy 2017 among existing health and ICT policy and regulatory frameworks, in a footnote with no description of its scope.", "as_of": "2017", "date_precision": "year", "system": "National ICT policy (2017)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT policy (2017)", "country_label": "National ICT policy", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Development Policy (2022)", "country_label": "National Digital Development Policy", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Innovation & Digital Strategy 2019-2029", "country_label": "National Innovation & Digital Strategy", "class": "national", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

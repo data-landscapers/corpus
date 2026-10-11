@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Digital Transformation Strategy",
+   "country_label": "National Digital Transformation Strategy",
+   "class": "national",
+   "platform": "",
+   "owner": "High Commission for Digitization",
+   "tiers": ""
+  }
+ ],
+ "note": "Algeria entry describes a national digital transformation strategy 2025-2030 (class national); no sector-class fact."
+}

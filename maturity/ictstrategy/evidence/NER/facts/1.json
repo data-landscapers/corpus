@@ -1,0 +1,14 @@
+{
+  "slug": "2020-07-20-ner-telecommunications-vers-l-elaboration-d-un-document-de-politique-numer",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "Decree 2013-158 of 12 April 2013 approved the sector policy document for telecommunications and ICT, as stated by the Ministry's chief of staff in 2020.", "as_of": "2013-04-12", "date_precision": "day", "system": "Document de politique sectorielle des télécommunications et des TIC 2013-2020", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2020", "fact": "The decree-approved telecommunications and ICT sector policy covers 2013-2020, and the Ministry says it is at the end of that period.", "as_of": "2013-04-12", "date_precision": "day", "system": "Document de politique sectorielle des télécommunications et des TIC 2013-2020", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "Work on a successor digital policy, 'Niger Numérique 2021-2030', was launched in Niamey on 19 July 2020 (article of 20 July says 'yesterday'), to revise the sector policy; a national technical committee is to draft it and the final text is to be submitted to Government for adoption.", "as_of": "2020-07-19", "date_precision": "day", "system": "Niger Numérique 2021-2030", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2030", "fact": "The digital policy being drafted is for the period 2021-2030.", "as_of": "2020-07-19", "date_precision": "day", "system": "Niger Numérique 2021-2030", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The Ministry set up a national technical committee charged with drafting the digital policy, with a steering committee endorsing the study's adjustments; no funding source is stated.", "as_of": "2020-07", "date_precision": "month", "system": "Niger Numérique 2021-2030", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The article gives no funding source for the drafting study or the 2013-2020 policy.", "as_of": "2020-07", "date_precision": "month", "system": "Niger Numérique 2021-2030", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "activity", "fact": "The study is to produce a review of the implementation of the sector policy's main axes, setting out achievements and shortfalls, without stated indicators or figures against targets.", "as_of": "2020-07", "date_precision": "month", "system": "Document de politique sectorielle des télécommunications et des TIC 2013-2020", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

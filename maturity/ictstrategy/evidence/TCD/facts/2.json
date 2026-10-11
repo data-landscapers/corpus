@@ -1,0 +1,82 @@
+{
+ "slug": "2023-02-27-worldbank-chad-digital-transformation-project-pid",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The World Bank PID says the National ICT Development Strategy (Plan Tchad Numérique 2017-2021) was adopted in November 2017.",
+   "as_of": "2017-11",
+   "date_precision": "month",
+   "system": "Plan Tchad Numérique 2017-2021",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2021",
+   "fact": "The PID gives the National ICT Development Strategy (Plan Tchad Numérique) a period of 2017-2021.",
+   "as_of": "2017-11",
+   "date_precision": "month",
+   "system": "Plan Tchad Numérique 2017-2021",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The PID says the Ministry of Telecommunications and Digital Economy elaborated the Strategic Plan for the Development of Digital and Post 2021-2030, 'currently in force' (no date given, so the document's published date is used).",
+   "as_of": "2023-02-27",
+   "date_precision": "day",
+   "system": "Plan Stratégique de Développement du Numérique et des Postes 2021-2030",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The PID gives the Strategic Plan for the Development of Digital and Post a period of 2021-2030.",
+   "as_of": "2023-02-27",
+   "date_precision": "day",
+   "system": "Plan Stratégique de Développement du Numérique et des Postes 2021-2030",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The PID says the National Plan for Information and Communication Infrastructure (NICI) was adopted in 2009.",
+   "as_of": "2009",
+   "date_precision": "year",
+   "system": "NICI plan",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plan Tchad Numérique 2017-2021",
+   "country_label": "Plan Tchad Numérique 2017-2021",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Telecommunications and Digital Economy",
+   "tiers": ""
+  },
+  {
+   "system": "Plan Stratégique de Développement du Numérique et des Postes 2021-2030",
+   "country_label": "Plan Stratégique de Développement du Numérique et des Postes 2021-2030",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Telecommunications and Digital Economy (MTEN)",
+   "tiers": ""
+  },
+  {
+   "system": "NICI plan",
+   "country_label": "National Plan for Information and Communication Infrastructure",
+   "class": "sector",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

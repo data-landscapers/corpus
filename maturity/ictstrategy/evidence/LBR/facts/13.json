@@ -1,0 +1,13 @@
+{
+  "slug": "2019-10-31-liberia-mopt-national-ict-policy-2019-2024",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The policy sets itself over the next five years, 2019 to 2024, with a mid-term review at year 3 and a long-term review in year 5.", "as_of": "2019-10-31", "date_precision": "day", "system": "Liberia Information and Communications Technology (ICT) Policy (2019-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full policy text is held on the Ministry of Posts and Telecommunications website (mopt.gov.lr), published 2019-10-31.", "as_of": "2019-10-31", "date_precision": "day", "system": "Liberia Information and Communications Technology (ICT) Policy (2019-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The policy carries a summary of measurable targets with timelines of years 1 to 5 after adoption, and no cost figures appear in the passages read.", "as_of": "2019-10-31", "date_precision": "day", "system": "Liberia Information and Communications Technology (ICT) Policy (2019-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The policy assigns the Ministry of Posts and Telecommunications overall coordination, implementation, review and oversight, with the LTA, an ICT Governing Board, a cross-ministerial CIO Council and a CIO to the Presidency supporting.", "as_of": "2019-10-31", "date_precision": "day", "system": "Liberia Information and Communications Technology (ICT) Policy (2019-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The passages read tie the policy to no budget line; the Executive is said only to ensure resources are available to the requisite ministries.", "as_of": "2019-10-31", "date_precision": "day", "system": "Liberia Information and Communications Technology (ICT) Policy (2019-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The document states that the National ICT and Telecoms policy of 2010 was adopted by Cabinet under the Telecommunications Act of 2007, and that the 2019-2024 policy updates and amends it.", "as_of": "2010", "date_precision": "year", "system": "National ICT and Telecommunications Policy 2010", "class": "sector"}
+  ],
+  "systems": [],
+  "note": "The document does not state its own adoption date or adopting act in the passages read, so no standing fact is recorded for the 2019-2024 policy itself."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-01-zambia-national-electronic-government-plan",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The plan states that Government has embarked on a review of the National ICT Policy, among other ICT policy and legal reforms; it gives no date for the review, so the document's published year 2026 is used.", "as_of": "2026", "date_precision": "year", "system": "National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Electronic Government Plan 2023-2026", "country_label": "NeGP", "class": "government", "platform": "", "owner": "Electronic Government Division (Cabinet Office)", "tiers": "public bodies"},
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is the e-government plan (class government); its only sector-policy statement is the undated review of the National ICT Policy."
+}

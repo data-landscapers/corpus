@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-01-gambia-mocde-cstd29-statement-ai",
+  "facts": [],
+  "systems": [
+    {"system": "National AI Policy and Strategy", "country_label": "National AI Policy and Strategy", "class": "", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "National Data Policy", "country_label": "National Data Policy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Open Data Strategy 2024-2027", "country_label": "Open Data Strategy for 2024-2027", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Names AI, data and open-data instruments and an enterprise architecture framework, none a sector ICT policy; no ICT sector policy is stated."
+}

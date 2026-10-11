@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-sierra-leone-national-digital-health-roadmap-2024-2026",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The roadmap lists the National ICT policy, 2017 among existing ICT regulatory frameworks for Sierra Leone, in a footnote with no description of its scope.", "as_of": "2017", "date_precision": "year", "system": "National ICT policy (2017)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT policy (2017)", "country_label": "National ICT policy", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Development Policy (2021)", "country_label": "National Digital Development Policy", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Innovation & Digital Strategy (2019)", "country_label": "National Innovation & Digital Strategy", "class": "national", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

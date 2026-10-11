@@ -1,0 +1,9 @@
+{
+  "slug": "2015-01-01-guinee-loi-2015-018-an-telecommunications-technologies-information",
+  "facts": [],
+  "systems": [
+    {"system": "Loi L/2015/018/AN relative aux télécommunications et aux technologies de l'information", "country_label": "L/2015/018/AN", "class": "law", "platform": "", "owner": "Assemblée nationale; ARPT regulates", "tiers": "national"},
+    {"system": "Politique nationale des TIC", "country_label": "politique nationale des TIC", "class": "", "platform": "", "owner": "autorité gouvernementale (ministère de tutelle)", "tiers": "national"}
+  ],
+  "note": "A telecommunications law (class law); it refers to a national ICT policy without naming, dating or describing it."
+}

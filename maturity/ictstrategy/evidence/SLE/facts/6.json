@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-01-sierra-leone-mbsse-national-digital-learning-strategy-2025-2030",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The strategy names the 2009 National ICT Policy of Sierra Leone among existing policies and plans that discuss EdTech but are not owned solely by the education ministry; it gives no description of its scope.", "as_of": "2009", "date_precision": "year", "system": "National ICT Policy of Sierra Leone (2009)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy of Sierra Leone (2009)", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Innovation and Digital Strategy (2019)", "country_label": "National Innovation and Digital Strategy", "class": "national", "platform": "", "owner": "DSTI", "tiers": ""}
+  ],
+  "note": ""
+}

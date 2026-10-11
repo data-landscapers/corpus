@@ -1,0 +1,34 @@
+{
+  "slug": "2025-01-21-burundi-embraces-eac-digital-integration-ict-growth",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Minister of Communication Technology and Media told the Senate that the National ICT Policy was adopted late, in 2011, which she gave as a cause of today's ICT challenges; the document does not describe its scope and gives no end date.",
+      "as_of": "2011",
+      "date_precision": "year",
+      "system": "National ICT Policy",
+      "class": "sector"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National ICT Policy",
+      "country_label": "National ICT Policy",
+      "class": "sector",
+      "platform": "",
+      "owner": "Ministry of Communication Technology and Media",
+      "tiers": ""
+    },
+    {
+      "system": "Electronic Communications Code",
+      "country_label": "Code des communications électroniques (2024)",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-17-angola-launches-259-million-earth-observation-satellite-project",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2027", "fact": "The article refers to Angola's ICT White Paper 2023-2027 as setting plans for a space studies centre, expert training and communications, navigation and meteorology infrastructure; no date is given, so the article's published date is used.", "as_of": "2026-03-17", "date_precision": "day", "system": "ICT White Paper 2023-2027", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "ICT White Paper 2023-2027", "country_label": "ICT White Paper 2023-2027", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "2011-07-13-pndtic-politique-nationale-developpement-tic-2010-2025",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted",
+     "fact": "The document states that the national ICT development policy PNDTIC (2010-2025) was adopted by the Council of Ministers on 13 July 2011.",
+     "as_of": "2011-07-13", "date_precision": "day", "system": "PNDTIC (2010-2025)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2025",
+     "fact": "The policy's title and vision set its period as 2010-2025, with a vision to 2025 of universal ICT access and regional centre of excellence status.",
+     "as_of": "2011-07-13", "date_precision": "day", "system": "PNDTIC (2010-2025)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public",
+     "fact": "The policy text is hosted as a PDF on the Primature's official site (primature.gov.bi, uploaded 2026/06 per the URL); the document itself gives no publication date, so the document's published date of 2011-07-13 applies to its adoption only.",
+     "as_of": "2026-06", "date_precision": "month", "system": "PNDTIC (2010-2025)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "PNDTIC (2010-2025)", "country_label": "Politique nationale de développement des TIC du Burundi (2010-2025)", "class": "sector", "platform": "", "owner": "Government of Burundi (adopted by Council of Ministers)", "tiers": ""},
+    {"system": "Politique nationale de développement des TIC (2007)", "country_label": "PNDTIC 2007", "class": "sector", "platform": "", "owner": "Government of Burundi (adopted by Council of Ministers 14-15 February 2007)", "tiers": ""},
+    {"system": "ICT development strategy document of 2002", "country_label": "premier document de stratégie de développement des TIC (2002)", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

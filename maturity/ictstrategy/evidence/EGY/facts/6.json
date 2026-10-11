@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Egypt Strategy", "country_label": "Digital Egypt Strategy", "class": "national", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""},
+    {"system": "Egypt Vision 2030", "country_label": "Egypt Vision 2030", "class": "", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": ""}
+  ],
+  "note": "The ITU repository lists Egypt Vision 2030 and Digital Egypt Strategy (2016-ongoing, MCIT lead) as one digital-skills entry; its pillars describe a national digital strategy, a class other than sector, and it gives no sector-policy fact."
+}

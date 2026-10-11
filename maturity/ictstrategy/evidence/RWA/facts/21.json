@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-26-rwa-backward-looking-joint-ict-sector-review-2022-2023-fy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The joint ICT sector review lists the ICT Sector Strategic Plan as covering 2018-2024; no date for the stated period is given, so the review's publication date 2023-10-26 is used.", "as_of": "2023-10-26", "date_precision": "day", "system": "ICT Sector Strategic Plan", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "results", "fact": "The ICT Sector Working Group's backward-looking review for 2022/23 has a section on progress against 2022/23 targets, NST1, the SSP and SDGs, and a section on lessons learned from NST1 and SSP implementation; the retained passages give no figures, so the review's publication date 2023-10-26 is used.", "as_of": "2023-10-26", "date_precision": "day", "system": "ICT Sector Strategic Plan", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "ICT Sector Strategic Plan (2018-2024)", "country_label": "ICT Sector Strategic Plan (SSP)", "class": "sector", "platform": "", "owner": "ICT Sector Working Group / MINICT", "tiers": ""},
+    {"system": "National Strategy for Transformation (NST1 2017-2024)", "country_label": "NST1", "class": "development-plan", "platform": "", "owner": "Government of Rwanda", "tiers": ""},
+    {"system": "Smart Rwanda Master Plan I (2016-2020)", "country_label": "Smart Rwanda Master Plan", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Information Communication Infrastructure Plans NICI I, II & III", "country_label": "NICI", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Talent Policy (2016)", "country_label": "National Digital Talent Policy", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

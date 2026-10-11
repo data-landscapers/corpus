@@ -1,0 +1,10 @@
+{
+  "slug": "2025-09-24-astaanconnect-starlink-reseller",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The article says officials cite the ICT Policy and Strategy (2019-2024) as backing the Starlink rollout, giving the policy's period as 2019 to 2024; the article is the 2025-09-24 publication date, which is used as the date.", "as_of": "2025-09-24", "date_precision": "day", "system": "ICT Policy and Strategy (2019-2024)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "ICT Policy and Strategy (2019-2024)", "country_label": "ICT Policy and Strategy (2019-2024)", "class": "sector", "platform": "", "owner": "Ministry of Communications", "tiers": ""}
+  ],
+  "note": ""
+}

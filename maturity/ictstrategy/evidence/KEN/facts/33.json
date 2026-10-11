@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-22-ken-micde-national-communication-policy-january-2026",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The policy states that the 2006 ICT Sector Policy Guidelines were reviewed and updated to a National ICT Policy in 2019, and lists that policy among the laws and policies supporting implementation, as in place (it also lists a 'National ICT Policy, 2020' once).", "as_of": "2019", "date_precision": "year", "system": "National ICT Policy (2019)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy (2019)", "country_label": "National ICT Policy, 2019", "class": "sector", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Information and Communication Technology Sector Policy Guidelines (2006)", "country_label": "ICT Sector Policy Guidelines (2006)", "class": "sector", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Communication Policy: Enhancing Trust in Government (draft, January 2026)", "country_label": "National Communication Policy", "class": "subsector", "platform": "", "owner": "State Department for Broadcasting and Telecommunications, MICDE", "tiers": "national government MDAs"}
+  ],
+  "note": "The document is a government public-communication policy (subsector, cover marked DRAFT); only its references to the National ICT Policy 2019 and the 2006 guidelines bear on the sector class."
+}

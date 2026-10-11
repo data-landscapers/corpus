@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-15-gaci-workshop-data-centre-cloud-regulatory-framework",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "GACI, described as the authority competent to regulate and develop the telecommunications and IT sector, held a Tripoli workshop on data centres and cloud computing under the national communications strategy; no budget line is stated.",
+   "as_of": "2026-02-15",
+   "date_precision": "day",
+   "system": "National Telecommunications Strategy",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "On 2026-02-15 GACI held a workshop 'within the national communications strategy' on regulating data centres and cloud computing, with officials stating the aim of drafting specific legislation and a guidance manual.",
+   "as_of": "2026-02-15",
+   "date_precision": "day",
+   "system": "National Telecommunications Strategy",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Telecommunications Strategy",
+   "country_label": "National Telecommunications Strategy",
+   "class": "sector",
+   "platform": "",
+   "owner": "General Authority for Communications and Informatics (GACI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-tun-territoires-numeriques-responsables-inclusifs-synthese-du-cycle-de-web",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "A municipal digital coordinator's summary says the 2018 Digital Code law sits within the wider Déclaration de Politique Sectorielle de l'Économie Numérique of 2016, which it says defines 6 priority projects.", "as_of": "2016", "date_precision": "year", "system": "Déclaration de Politique Sectorielle de l'Économie Numérique", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Portail National des Services Publics", "country_label": "Portail National des Services Publics", "class": "government", "platform": "", "owner": "", "tiers": "national; municipal (Sèmè Podji)"}
+  ],
+  "note": ""
+}

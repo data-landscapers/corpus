@@ -1,0 +1,60 @@
+{
+  "slug": "2026-03-01-liberia-national-data-governance-policy",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The policy states that in 2019 the government adopted the Information and Communications Technology (ICT) Policy (2019-2024), built on three pillars (Structure, Empower, Transform).",
+      "as_of": "2019",
+      "date_precision": "year",
+      "system": "Information and Communications Technology (ICT) Policy (2019-2024)",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "period",
+      "value": "to:2025",
+      "fact": "The policy states that the National ICT Policy (2019-2024) was extended to 2025; it names no successor ICT policy (document dated March 2026).",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Information and Communications Technology (ICT) Policy (2019-2024)",
+      "class": "sector"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Information and Communications Technology (ICT) Policy (2019-2024)",
+      "country_label": "National ICT Policy (2019-2024)",
+      "class": "sector",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications",
+      "tiers": ""
+    },
+    {
+      "system": "National Digital Strategy (2025-2029)",
+      "country_label": "National Digital Strategy (2025-2029)",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications",
+      "tiers": ""
+    },
+    {
+      "system": "National Data Governance Policy (March 2026)",
+      "country_label": "National Data Governance Policy",
+      "class": "subsector",
+      "platform": "",
+      "owner": "Ministry of Posts and Telecommunications",
+      "tiers": ""
+    },
+    {
+      "system": "National Cybersecurity Strategy (2024-2029)",
+      "country_label": "National Cybersecurity Strategy (2024-2029)",
+      "class": "subsector",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

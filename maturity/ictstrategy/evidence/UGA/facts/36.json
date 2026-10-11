@@ -1,0 +1,14 @@
+{
+  "slug": "2022-09-01-digital-uganda-vision",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Vision for a Digital Uganda 2040 (September 2022) lists the overall National ICT Policy 2014 among Uganda's key policies, 'being reviewed'.", "as_of": "2014", "date_precision": "year", "system": "National ICT Policy 2014", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy 2014", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Vision for a Digital Uganda 2040", "country_label": "Vision for a Digital Uganda 2040", "class": "national", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "National Broadband Policy 2018", "country_label": "National Broadband Policy", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Electronic Waste Management Policy 2012", "country_label": "Electronic Waste Management Policy", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National eGovernment Policy Framework 2011", "country_label": "National eGovernment Policy Framework", "class": "government", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

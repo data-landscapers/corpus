@@ -1,0 +1,27 @@
+{
+  "slug": "2016-05-01-national-ict-policy-2016",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The National Information and Communications Technology Policy 2016, signed by the Minister for Works, Transport and Communication in May 2016, is presented as the Government's revision of the 2003 policy and its framework for the ICT industry.",
+      "as_of": "2016-05",
+      "date_precision": "month",
+      "system": "National ICT Policy 2016 (NICTP 2016)",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The full policy text, with preface, contents and chapters, is published as a PDF on the Ministry's official website (mawasiliano.go.tz); the document gives no date of posting, so its May 2016 publication date is used.",
+      "as_of": "2016-05",
+      "date_precision": "month",
+      "system": "National ICT Policy 2016 (NICTP 2016)",
+      "class": "sector"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

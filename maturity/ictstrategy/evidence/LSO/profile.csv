@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+LSO,sector,governance,qualifier,,,,,nothing held
+LSO,sector,standing,coverage,adopted,2008,LSO-001;LSO-002;LSO-004;LSO-005,LSO-007=drafting,nothing dated since 2023-10-11
+LSO,sector,text,coverage,,,,,nothing held
+LSO,sector,period,coverage,,,,,nothing held
+LSO,sector,plan,coverage,,,,,nothing held
+LSO,sector,reporting,coverage,none,2024-12-30,LSO-003,,
+LSO,sector,last12,qualifier,no-change,2023-12,LSO-006,,nothing dated since 2025-10-11

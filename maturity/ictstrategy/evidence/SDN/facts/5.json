@@ -1,0 +1,14 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The ITU Academy repository, which lists strategies countries have adopted, records Sudan's National ICT Strategy 2021-2025 with no date of adoption; the document's published date (2025) is used.", "as_of": "2025", "date_precision": "year", "system": "National ICT Strategy 2021-2025", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2025", "fact": "The repository gives the National ICT Strategy's time frame as 2021-2025; the document's published date (2025) is used as the date of the statement.", "as_of": "2025", "date_precision": "year", "system": "National ICT Strategy 2021-2025", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The repository names the National Information Center (NIC) as lead and owner of the strategy, with the Ministry of Communications and Digital Transformation among other stakeholders; the document's published date (2025) is used.", "as_of": "2025", "date_precision": "year", "system": "National ICT Strategy 2021-2025", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The repository states no budget line for the strategy and lists the African Development Bank only as a stakeholder; the document's published date (2025) is used.", "as_of": "2025", "date_precision": "year", "system": "National ICT Strategy 2021-2025", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "none", "fact": "The repository gives evidence of implementation and the monitoring and evaluation framework for Sudan's strategy as N/A; the document's published date (2025) is used.", "as_of": "2025", "date_precision": "year", "system": "National ICT Strategy 2021-2025", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Strategy 2021-2025", "country_label": "National ICT Strategy 2021-2025", "class": "sector", "platform": "", "owner": "National Information Center (NIC)", "tiers": "national"}
+  ],
+  "note": "Sudan entry (Arab States section) of a digital-skills strategy repository; pillars are ICT infrastructure, digital literacy and e-government, so classed sector on its description; no text link, plan or cost is stated."
+}

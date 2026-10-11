@@ -1,0 +1,13 @@
+{
+  "slug": "2015-06-17-world-bank-icr-central-african-backbone-apl2-sao-tome",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "validated",
+     "fact": "The World Bank ICR states an ICT Sector Strategy for STP was prepared in 2012 under the project after wide stakeholder consultation, but its adoption by the Council of Ministers was still pending when the ICR was prepared (June 2015).",
+     "as_of": "2015-06", "date_precision": "month", "system": "ICT Sector Strategy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:donor",
+     "fact": "The ICT Sector Strategy was prepared under the World Bank-financed Central African Backbone APL2 project (IDA grant of SDR 9.8 million for the programme as a whole), per the ICR.",
+     "as_of": "2012", "date_precision": "year", "system": "ICT Sector Strategy", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

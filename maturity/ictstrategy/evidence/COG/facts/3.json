@@ -1,0 +1,9 @@
+{
+  "slug": "2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document",
+  "facts": [],
+  "systems": [
+    {"system": "Vision Congo Digital 2025 Strategy", "country_label": "Vision Congo Digital 2025", "class": "", "platform": "", "owner": "Government of Congo", "tiers": ""},
+    {"system": "Congo Digital Acceleration Project (P175592)", "country_label": "Congo Digital Acceleration Project", "class": "programme", "platform": "", "owner": "World Bank financed (US$100 million loan), Government of Congo", "tiers": ""}
+  ],
+  "note": "The passages name the Vision Congo Digital 2025 Strategy (mid-term review and update to be funded by the project) without describing its scope, so its class is left empty and no fact is taken; the project is a programme."
+}

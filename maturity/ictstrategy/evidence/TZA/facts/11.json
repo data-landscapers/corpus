@@ -1,0 +1,13 @@
+{
+  "slug": "2024-11-01-dpi-africa-tanzania-jamii-platforms",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated",
+     "fact": "The case study states that the Information and Communication Technologies Commission (ICTC) under the Ministry of ICT has the role of ensuring smooth implementation of the National ICT Policy and related policies; it gives no date for the role, so the document's publication date (2024-11) is used.",
+     "as_of": "2024-11", "date_precision": "month", "system": "National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of ICT; implementation by ICTC", "tiers": ""},
+    {"system": "Tanzania Digital Economy Strategy Framework", "country_label": "10-year Tanzania Digital Economy Strategy Framework", "class": "national", "platform": "", "owner": "Ministry of ICT", "tiers": ""}
+  ],
+  "note": ""
+}

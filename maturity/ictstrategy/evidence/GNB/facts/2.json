@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-worldbank-guinea-bissau-digital-economy-diagnostic",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The diagnostic cites data from a preliminary ICT strategy report produced by the regulator ARN in December 2021 (and a 'Preliminary ICT strategy report 2022'), showing an ICT strategy was in preparation; it does not describe the strategy's scope or say it was adopted.", "as_of": "2021-12", "date_precision": "month", "system": "Preliminary ICT strategy report", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

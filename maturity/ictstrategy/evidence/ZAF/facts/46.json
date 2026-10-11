@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-what-african-countries-can-learn-from-the-continent-s-top-performers-in-e-govern",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "Afripoli lists the National Integrated ICT Policy White Paper of 2016 among South Africa's policy milestones under the National Development Plan 2030.", "as_of": "2016", "date_precision": "year", "system": "National Integrated ICT Policy White Paper", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Integrated ICT Policy White Paper", "country_label": "National Integrated ICT Policy White Paper", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National e-government Strategy and Roadmap", "country_label": "National e-government Strategy and Roadmap", "class": "government", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Broadband Policy", "country_label": "National broadband policy, 2013", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National e-Strategy", "country_label": "National e-Strategy", "class": "national", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

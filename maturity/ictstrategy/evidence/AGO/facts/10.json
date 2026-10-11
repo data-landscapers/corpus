@@ -1,0 +1,11 @@
+{
+  "slug": "2025-01-21-ago-oge-2025-comunicacoes-tecnologias-226bn",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The article reports that in March 2024 MINTTICS held a public consultation on the Livro Branco das TIC 2023-2027, whose proposal set axes including infrastructure and connectivity, regulation, cybersecurity, training and public administration modernisation.", "as_of": "2024-03", "date_precision": "month", "system": "Livro Branco das TIC 2023-2027", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2027", "fact": "The article gives the White Paper's period as the 2023-2027 quinquennium.", "as_of": "2024-03", "date_precision": "month", "system": "Livro Branco das TIC 2023-2027", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Livro Branco das TIC 2023-2027", "country_label": "Livro Branco das TIC", "class": "sector", "platform": "", "owner": "MINTTICS", "tiers": "national"}
+  ],
+  "note": "The OGE 2025 sector envelope (Kz 226.4bn) is not tied to the policy by the article, so no finance fact."
+}

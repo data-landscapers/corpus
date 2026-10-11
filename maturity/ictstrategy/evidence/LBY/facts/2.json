@@ -1,0 +1,46 @@
+{
+ "slug": "2026-10-08-lby-lana-us-strategic-cooperation-framework-telecom",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2027",
+   "fact": "LANA, citing the Ministry of Telecommunications and Informatics, names the National Telecommunications and Informatics Strategy as (2023-2027) (published 2026-10-08).",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The Ministry says the US cooperation framework signed by the GACI head aligns with the strategy, which aims to develop digital infrastructure and the sector's efficiency; no budget line is stated.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "A strategic cooperation framework with the US State Department was signed in Washington on about 2026-10-05 (inferred from 'last Monday' in a report published 2026-10-08) and is described as aligned with the strategy.",
+   "as_of": "2026-10-05",
+   "date_precision": "day",
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "country_label": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector",
+   "platform": "",
+   "owner": "General Authority for Communications and Informatics (GACI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "announced", "fact": "The national digitalisation strategy lists as initiative 1.1.8 the drafting of a sector policy letter for the digital sector, led by MPTEN with the executive, costed at USD 50 thousand over 6 months; the document gives no date for it, so its published date 2024-06-11 is used.", "as_of": "2024-06-11", "date_precision": "day", "system": "lettre de politique sectorielle du numerique", "class": "sector"}
+  ],
+  "systems": [],
+  "note": "The document is the national digital strategy (Guinee Digitale 2023-2027), class national, so only the sector policy letter it announces gives a fact."
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2025-06-12-ssd-south-sudan-optimistic-about-digital-prospects-despite-conflict",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The minister of ICT and postal services told the 30th EACO Assemblies in Juba that the government is implementing the revised ICT Policy of 2012; the article gives no date for the remarks, so its published date is used.", "as_of": "2025-06-12", "date_precision": "day", "system": "revised ICT Policy of 2012", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "activity", "fact": "The minister claimed the government is implementing the revised ICT Policy of 2012 and gave no figure or measure against its own targets; the article gives no date for the remarks, so its published date is used.", "as_of": "2025-06-12", "date_precision": "day", "system": "revised ICT Policy of 2012", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "revised ICT Policy of 2012", "country_label": "ICT Policy 2012 (revised)", "class": "sector", "platform": "", "owner": "Ministry of ICT and Postal Services", "tiers": ""},
+    {"system": "Digital Government Strategy 2023", "country_label": "Digital Government Strategy", "class": "government", "platform": "", "owner": "", "tiers": ""},
+    {"system": "South Sudan Digital Roadmap 2024", "country_label": "Digital Roadmap", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "South Sudan Digital Transformation Strategy", "country_label": "Digital Transformation Strategy", "class": "national", "platform": "", "owner": "Ministry of ICT and Postal Services", "tiers": ""}
+  ],
+  "note": ""
+}

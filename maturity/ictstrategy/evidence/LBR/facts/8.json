@@ -1,0 +1,8 @@
+{
+  "slug": "2017-07-30-frontpageafrica-libtelco-google-csquared-national-data-center",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "LIBTELCO's managing director said its mandate to provide ICT services to government is enshrined in the Telecommunications Act of 2007 and the National Telecommunications and ICT policy, so the policy was in force; dated to the article's published date, as it gives none.", "as_of": "2017-07-30", "date_precision": "day", "system": "National Telecommunications and ICT policy", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

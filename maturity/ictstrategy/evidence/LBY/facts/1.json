@@ -1,0 +1,66 @@
+{
+ "slug": "2025-10-26 Libya launches root servers in Tripoli and Benghazi — digital sovereignty",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "GACI announced root servers in service in Tripoli and Benghazi as implementing the National Telecommunications and Informatics Strategy 2023-2027 (Libya Herald, published 2025-10-26).",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2027",
+   "fact": "The document names the strategy as covering 2023-2027 (published 2025-10-26).",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "GACI, the communications and informatics authority, is the body announcing implementation of the strategy; no budget line is stated.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "reporting",
+   "value": "activity",
+   "fact": "Implementation is claimed through the root-server launch, measured against no target of the strategy.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "Root servers entered service in Tripoli and Benghazi data centres in October 2025 under the strategy; the document gives no day, so its published date is used.",
+   "as_of": "2025-10-26",
+   "date_precision": "day",
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Telecommunications and Informatics Strategy 2023-2027",
+   "country_label": "National Telecommunications and Informatics Strategy 2023-2027",
+   "class": "sector",
+   "platform": "",
+   "owner": "General Authority for Communications and Informatics (GACI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01-kenya-country-profile-ati",
+  "facts": [],
+  "systems": [
+    {"system": "Third ICT strategy (Kenya Revenue Authority)", "country_label": "the third ICT strategy", "class": "institution-plan", "platform": "", "owner": "Kenya Revenue Authority", "tiers": "national"},
+    {"system": "iTax", "country_label": "iTax system", "class": "", "platform": "", "owner": "Kenya Revenue Authority", "tiers": "national"}
+  ],
+  "note": "A tax-administration profile; the only ICT strategy named is the revenue authority's own, an institution plan, so no sector-policy fact."
+}

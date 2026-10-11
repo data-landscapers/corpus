@@ -1,0 +1,12 @@
+{
+  "slug": "2007-08-01-bwa-maitlamo-national-ict-policy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "Government Paper No 3 of 2007, the National ICT Policy (Maitlamo), was approved by the National Assembly in August 2007, as stated by the Minister of Communications, Science and Technology.", "as_of": "2007-08", "date_precision": "month", "system": "National Information and Communications Technology Policy (Maitlamo)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full policy text is held, published by the Ministry of Communications, Science and Technology as Government Paper No 3 of 2007 (document published 2007-08, hosted on a UN public administration site).", "as_of": "2007-08", "date_precision": "month", "system": "National Information and Communications Technology Policy (Maitlamo)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The contents list a Maitlamo governance structure of an Information Age Council, an ICT Legal Reform Taskforce, an enhanced Department of Information Technology and an e-Governance Structure; the section text was not captured, so the mandate is read from the headings.", "as_of": "2007-08", "date_precision": "month", "system": "National Information and Communications Technology Policy (Maitlamo)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Information and Communications Technology Policy (Maitlamo)", "country_label": "Maitlamo", "class": "sector", "platform": "", "owner": "Ministry of Communications, Science and Technology", "tiers": ""}
+  ],
+  "note": "Excerpt only: sections 6.7 to 9 not captured, so no delivery plan, period, reporting or finance fact is taken."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2023-02-16-innovation-gouv-bj-sniam-strategie-nationale-ia",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The national AI and big-data strategy 2023-2027 cites the Déclaration de Politique Sectorielle for the digital economy sector as having formulated Benin's ambition to be the ICT leader in West Africa and enter the top 100 of the Network Readiness Index; no date is given, so the document's publication date is used.", "as_of": "2023-02-16", "date_precision": "day", "system": "Déclaration de Politique Sectorielle dans le secteur de l'économie numérique", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

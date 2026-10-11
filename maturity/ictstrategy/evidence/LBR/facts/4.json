@@ -1,0 +1,17 @@
+{
+  "slug": "2026-09-08-einpresswire-csquared-ganta-liberia-broadband-digital-skills",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "drafting",
+      "fact": "A CSquared press release lists a draft National ICT Policy among Liberia's AI preparations; no date given for the drafting, so as_of is the release's published date, 2026-09-08.",
+      "as_of": "2026-09-08",
+      "date_precision": "day",
+      "system": "National ICT Policy (draft)",
+      "class": "sector"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

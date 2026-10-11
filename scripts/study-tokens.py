@@ -8,7 +8,7 @@ r"""study-tokens.py — what a session spent, counted from its transcripts.
 `maturity/documentation/maturity-study-method.md` §0. **A study is sized by the week's quota
 it consumes** *(Bill, 2026-10-11)*, and the only record of that is the transcript Claude Code
 keeps: `~/.claude/projects/{project}/{session}.jsonl` for the thread and
-`{session}/subagents/*.jsonl` for every agent it started.
+`{session}/subagents/**/agent-*.jsonl` for every agent it started, a workflow's included.
 
 **Every token a request carried is counted**: fresh input, cache writes, cache reads and
 output. Cache reads are the bulk and are the point: a long thread resends what it has read on
@@ -81,7 +81,9 @@ def main(argv=None) -> int:
     for t in picked:
         for k, v in spent(t, seen).items():
             thread[k] += v
-        for sub in glob.glob(os.path.join(t[:-len(".jsonl")], "subagents", "*.jsonl")):
+        # a workflow's agents sit a level down, in subagents/workflows/{run}/; its journal is not one
+        for sub in glob.glob(os.path.join(t[:-len(".jsonl")], "subagents", "**", "agent-*.jsonl"),
+                             recursive=True):
             got = spent(sub, seen)
             each.append((sum(got.values()), os.path.basename(sub)))
             for k, v in got.items():

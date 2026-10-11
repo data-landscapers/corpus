@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)",
+  "facts": [],
+  "systems": [
+    {"system": "Eswatini National Data Policy", "country_label": "National Data Policy", "class": "subsector", "platform": "", "owner": "Smart Africa (tender issuer)", "tiers": "national"}
+  ],
+  "note": "A tender for a national data policy, not the ICT sector policy; no fact for the sector class."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-12-govt-crafts-national-ai-strategy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National AI strategy (in development)",
+   "country_label": "national AI strategy",
+   "class": "subsector",
+   "platform": "",
+   "owner": "Ministry of ICT and National Guidance (AI Secretariat)",
+   "tiers": ""
+  }
+ ],
+ "note": "AI strategy is a subsector policy; no sector-class fact."
+}

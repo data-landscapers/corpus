@@ -1,0 +1,16 @@
+{
+  "slug": "2022-01-01-somalia-digital-economy-diagnostic",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The World Bank states that in 2019 the Ministry of Communications and Technology (then Post, Telecommunications and Technology) adopted Somalia's first cross-cutting National ICT Policy and Strategy, with ITU and World Bank support.", "as_of": "2019", "date_precision": "year", "system": "National ICT Policy and Strategy 2019-2024", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The World Bank gives the policy's period as 2019-2024.", "as_of": "2019", "date_precision": "year", "system": "National ICT Policy and Strategy 2019-2024", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The World Bank reproduces the policy's goals and timelines, for example secondary-school ICT access by Year 3 and ICT courses in all secondary schools by Year 4, with no cost stated.", "as_of": "2019", "date_precision": "year", "system": "National ICT Policy and Strategy 2019-2024", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy and Strategy 2019-2024", "country_label": "National ICT Policy and Strategy 2019-2024", "class": "sector", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": "federal"},
+    {"system": "Ninth National Development Plan 2020-2024", "country_label": "NDP-9", "class": "development-plan", "platform": "", "owner": "Ministry of Planning, Investment and Economic Development", "tiers": "federal"},
+    {"system": "National e-Government Strategy", "country_label": "National e-Government Strategy (draft late 2021)", "class": "government", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": "federal"},
+    {"system": "Digital Inclusion Policy", "country_label": "Digital inclusion policy (in development)", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Communications Act 2017", "country_label": "Communications Act", "class": "law", "platform": "", "owner": "", "tiers": "federal"}
+  ],
+  "note": ""
+}

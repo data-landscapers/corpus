@@ -1,0 +1,17 @@
+{
+  "slug": "2022-01-01-ken-national-digital-master-plan-2022-2032",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Master Plan states the National ICT Policy 2019 was gazetted in 2020, Gazette Notice No. 5472.", "as_of": "2020", "date_precision": "year", "system": "National ICT Policy 2019", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The Master Plan states the National ICT Policy of 2019 was published in a special issue of the Kenya Government Gazette, and quotes its vision and mission.", "as_of": "2020", "date_precision": "year", "system": "National ICT Policy 2019", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy 2019", "country_label": "National ICT Policy (2019)", "class": "sector", "platform": "", "owner": "Ministry of ICT", "tiers": ""},
+    {"system": "Kenya National Digital Master Plan 2022-2032", "country_label": "Kenya National Digital Master Plan 2022-2032", "class": "national", "platform": "", "owner": "Ministry of ICT, Innovation and Youth Affairs", "tiers": ""},
+    {"system": "Kenya Digital Economy Blueprint (2019)", "country_label": "Digital Economy Blueprint", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Kenya National ICT Master Plan 2014-2017", "country_label": "National ICT Master Plan 2014-2017", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ICT Authority Strategic Plan (2020-2025)", "country_label": "ICT Authority Strategic Plan (2020-2025)", "class": "institution-plan", "platform": "", "owner": "ICT Authority", "tiers": ""},
+    {"system": "Ministry of ICT, Innovation and Youth Affairs Strategic Plan (2018-2023)", "country_label": "MoICTIYA Strategic Plan (2018-2023)", "class": "institution-plan", "platform": "", "owner": "Ministry of ICT, Innovation and Youth Affairs", "tiers": ""},
+    {"system": "National Broadband Strategy 2018-2023", "country_label": "National Broadband Strategy 2018-2023", "class": "subsector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

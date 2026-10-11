@@ -1,0 +1,14 @@
+{
+  "slug": "2024-01-01-ghana-digital-economy-policy-and-strategy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The document states that the ICT for Accelerated Development (ICT4AD) policy was adopted in 2003 and aimed to use ICT for economic and social progress in infrastructure, human capital, e-government and private sector engagement.", "as_of": "2003", "date_precision": "year", "system": "ICT for Accelerated Development Policy (ICT4AD)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Ghana Digital Economy Policy and Strategy", "country_label": "Ghana Digital Economy Policy and Strategy", "class": "national", "platform": "", "owner": "Ministry of Communications and Digitalisation", "tiers": ""},
+    {"system": "ICT for Accelerated Development Policy (ICT4AD)", "country_label": "ICT4AD", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber Security Policy and Strategy", "country_label": "Cyber Security Policy and Strategy (2014)", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "E-Government Strategy", "country_label": "E-Government Strategy (2012)", "class": "government", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Digital Financial Services Policy", "country_label": "National Digital Financial Services Policy (2016)", "class": "subsector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is the national digital economy strategy (class national, no fact); its only sector-class fact is the 2003 ICT4AD adoption it recounts."
+}

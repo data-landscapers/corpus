@@ -1,0 +1,9 @@
+{
+  "slug": "2016-07-28-gin-politique-strategies-nationales-developpement-tic-2016-2020",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The 2016-2020 document states that the ICT policy and development strategy document was adopted by the government in 2010.", "as_of": "2010", "date_precision": "year", "system": "Document de politique et strategie de developpement des TIC", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2020", "fact": "The Ministry of Posts, Telecommunications and Digital Economy document is titled as the national ICT policy and strategies document for 2016-2020, published 2016-07-28; it does not state its adoption.", "as_of": "2016-07-28", "date_precision": "day", "system": "Document de Politique et de Strategies Nationales de Developpement des TIC 2016-2020", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

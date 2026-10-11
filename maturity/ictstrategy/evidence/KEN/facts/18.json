@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-30-cipit-ai-accessibility-disability-kenya",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "CIPIT's analysis lists 'the ICT Policy' among Kenya's existing instruments that recognise inclusion but set no AI accessibility standards or enforcement mechanism; the document gives no adoption date, so the published date 2026-07-30 is used.", "as_of": "2026-07-30", "date_precision": "day", "system": "ICT Policy", "class": "sector"}
+  ],
+  "systems": [],
+  "note": "ICT Policy named without a description of its scope or date; the National AI Strategy 2025-2030 and the draft AI policy are subsector instruments and give no fact."
+}

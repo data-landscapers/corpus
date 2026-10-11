@@ -1,0 +1,17 @@
+{
+  "slug": "2023-05-01-malawi-inclusive-digital-economy-report",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The UNCDF Inclusive Digital Economy Scan lists the National ICT policy among existing policies it calls outdated and needing amendment and updating to promote the digital economy.",
+      "as_of": "2023-05",
+      "date_precision": "month",
+      "system": "National ICT policy",
+      "class": "sector"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

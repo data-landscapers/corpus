@@ -1,0 +1,15 @@
+{
+  "slug": "2020-01-01-cipesa-state-of-internet-freedom-burundi-2019",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "CIPESA reports that the Cabinet, meeting on 13 July 2011, adopted the 2010-2025 National ICT Development Plan (PNDTIC) to accelerate economic growth and promote universal ICT access.", "as_of": "2011-07-13", "date_precision": "day", "system": "National ICT Development Plan 2010-2025 (PNDTIC)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2025", "fact": "CIPESA describes the National ICT Development Plan adopted in 2011 as a 15-year plan covering 2010-2025.", "as_of": "2011-07-13", "date_precision": "day", "system": "National ICT Development Plan 2010-2025 (PNDTIC)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "activity", "fact": "CIPESA states that implementation of the 2010-2025 National ICT Development Plan is well underway, citing 1,250 km of fibre laid by the Burundi Backbone System, and measures it against no target in the plan; the report gives no event date, so its publication date of January 2020 is used.", "as_of": "2020-01", "date_precision": "month", "system": "National ICT Development Plan 2010-2025 (PNDTIC)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "CIPESA states that in 2007 the government passed the National ICT policy to spur economic development through ICT.", "as_of": "2007", "date_precision": "year", "system": "National ICT policy (2007)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Development Plan 2010-2025 (PNDTIC)", "country_label": "Politique Nationale de Développement des TIC du Burundi (2010-2025)", "class": "sector", "platform": "", "owner": "Government of Burundi (Cabinet)", "tiers": ""},
+    {"system": "National ICT policy (2007)", "country_label": "National ICT policy", "class": "sector", "platform": "", "owner": "Government of Burundi", "tiers": ""},
+    {"system": "Burundi Broadband Strategy 2018-2025", "country_label": "Stratégie Burundi Large Bande 2018-2025", "class": "subsector", "platform": "", "owner": "Government of Burundi", "tiers": ""}
+  ],
+  "note": ""
+}

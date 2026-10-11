@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-18 White Paper on ICT 2023-2027 - Strategic Vision for ICTs in Angola",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The briefing states Angola approved the White Paper on ICT 2023-2027 (LBTIC) on 5 December 2024, repealing the 2019-2022 White Paper approved by Presidential Order 129/19.", "as_of": "2024-12-05", "date_precision": "day", "system": "Livro Branco das Tecnologias de Informação e Comunicação 2023-2027 (LBTIC)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2027", "fact": "The briefing gives the White Paper's period as 2023-2027, with five objectives targeted by 2027.", "as_of": "2024-12-05", "date_precision": "day", "system": "Livro Branco das Tecnologias de Informação e Comunicação 2023-2027 (LBTIC)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "last12", "value": "no-change", "fact": "The briefing reports the 2019-2022 White Paper repealed by the LBTIC 2023-2027 at its approval on 5 December 2024, a dated succession, though outside the last twelve months.", "as_of": "2024-12-05", "date_precision": "day", "system": "Livro Branco das Tecnologias de Informação e Comunicação 2023-2027 (LBTIC)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Livro Branco das Tecnologias de Informação e Comunicação 2023-2027 (LBTIC)", "country_label": "Livro Branco das TIC", "class": "sector", "platform": "", "owner": "MINTTICS", "tiers": "national"}
+  ],
+  "note": ""
+}

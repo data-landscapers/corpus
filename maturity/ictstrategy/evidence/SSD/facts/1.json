@@ -1,0 +1,11 @@
+{
+  "slug": "2012-01-01-south-sudan-national-ict-policy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Government of South Sudan's National ICT Policy sets a government policy statement for the telecommunications, postal and information technology sectors; the page prints no year, so the published date of 2012 is used and the policy is read as adopted because the government has published it and nothing calls it a draft.", "as_of": "2012", "date_precision": "year", "system": "South Sudan National ICT Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The policy text (policy statement, postal, telecommunications and information technology sector policy) is held on the ICT Policy Africa document page as a government publication, of which page 1 of 3 was captured; the date is the published date of 2012, the page printing none.", "as_of": "2012", "date_precision": "year", "system": "South Sudan National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "South Sudan National ICT Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Government of South Sudan", "tiers": ""}
+  ],
+  "note": ""
+}

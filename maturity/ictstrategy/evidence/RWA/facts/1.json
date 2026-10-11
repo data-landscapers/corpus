@@ -1,0 +1,57 @@
+{
+  "slug": "2025-01-01-minict-rwanda-ict-sector-strategic-plan-2024-2029",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The Ministry of ICT and Innovation's published ICT Sector Strategic Plan 2024/25-2028/29 is presented as a plan the Ministry and its affiliated agencies are committed to implement, with no draft status stated; dated by its cover 1 January 2025 (document date used).",
+      "as_of": "2025-01-01",
+      "date_precision": "day",
+      "system": "ICT Sector Strategic Plan (2024-2029)",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "text",
+      "value": "public",
+      "fact": "The plan is a PDF on the Ministry of ICT and Innovation's own site (minict.gov.rw).",
+      "as_of": "2025-01-01",
+      "date_precision": "day",
+      "system": "ICT Sector Strategic Plan (2024-2029)",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "period",
+      "value": "to:2029",
+      "fact": "The plan covers FY2024/25 to 2028/29 (document date used).",
+      "as_of": "2025-01-01",
+      "date_precision": "day",
+      "system": "ICT Sector Strategic Plan (2024-2029)",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "plan",
+      "value": "costed",
+      "fact": "The contents list an Implementation Plan (section 4.1, Appendix II) and Cost and Financing with budget allocation across priority areas (section 5); only the contents are in the excerpt, so no figures are given (document date used).",
+      "as_of": "2025-01-01",
+      "date_precision": "day",
+      "system": "ICT Sector Strategic Plan (2024-2029)",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "governance",
+      "value": "body:mandated",
+      "fact": "The plan commits the Ministry of ICT and Innovation and its affiliated agencies to deliver its programmes and initiatives (document date used).",
+      "as_of": "2025-01-01",
+      "date_precision": "day",
+      "system": "ICT Sector Strategic Plan (2024-2029)",
+      "class": "sector"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+AGO,sector,governance,qualifier,,,,,nothing held
+AGO,sector,standing,coverage,adopted,2024,AGO-001;AGO-004;AGO-011;AGO-014,AGO-009=drafting;AGO-007=drafting,
+AGO,sector,text,coverage,public,2019-07-22,AGO-013,,nothing dated since 2023-10-11
+AGO,sector,period,coverage,to:2027,2026-08-24,AGO-002;AGO-005;AGO-006;AGO-008;AGO-010,AGO-012=to:2022,
+AGO,sector,plan,coverage,,,,,nothing held
+AGO,sector,reporting,coverage,,,,,nothing held
+AGO,sector,last12,qualifier,no-change,2024-12-05,AGO-003,,nothing dated since 2025-10-11

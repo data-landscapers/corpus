@@ -1,0 +1,9 @@
+{
+  "slug": "2026-04-28 State broadband merger limps into a second decade",
+  "facts": [],
+  "systems": [
+    {"system": "Annual Performance Plan 2026/2027 (DCDT)", "country_label": "DCDT annual performance plan 2026/27", "class": "institution-plan", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national"},
+    {"system": "Draft National Artificial Intelligence Policy", "country_label": "national AI policy", "class": "subsector", "platform": "", "owner": "Department of Communications and Digital Technologies", "tiers": "national"}
+  ],
+  "note": "Document covers the Sentech-Broadband Infraco merger and the department's plan; it names no sector-class ICT policy."
+}

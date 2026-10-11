@@ -1,0 +1,16 @@
+{
+  "slug": "2025-01-01-mocde-data-governance-trends-gambia",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2028", "fact": "A Ministry of Communications and Digital Economy presentation lists the ICT4D Policy Statement 2018-2028 among the Gambia's policies, strategies and legal frameworks and sets out its nine priority areas; the document gives no date beyond its 2025 publication, which is used.", "as_of": "2025", "date_precision": "year", "system": "ICT4D Policy Statement 2018-2028", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The ministry's presentation lists the ICT4D Policy Statement 2018-2028 among existing policies, strategies and legal frameworks, with its priority areas, and does not call it a draft; dated by the document's 2025 publication.", "as_of": "2025", "date_precision": "year", "system": "ICT4D Policy Statement 2018-2028", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "ICT4D Policy Statement 2018-2028", "country_label": "ICT for Development (ICT4D) Policy", "class": "sector", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "National Digital Economy Masterplan 2024-2034", "country_label": "National Digital Economy Master Plan", "class": "national", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "E-government Strategy 2021-2024", "country_label": "E-government Strategy", "class": "government", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "Government Cloud Strategy 2023-2027", "country_label": "Government Cloud Strategy", "class": "government", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "Open Data Strategy", "country_label": "Government Open Data Strategy 2024-2027 / Open Data Strategy 2023-2026", "class": "government", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "MYGOV - Digital Gambia Platform", "country_label": "MYGOV", "class": "government", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": "five pilot services"}
+  ],
+  "note": ""
+}

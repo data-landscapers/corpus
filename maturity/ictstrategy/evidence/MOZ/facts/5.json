@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-23-mozambique-intic-cybersecurity-seminar-laws-13-14-2026-csirt",
+  "facts": [],
+  "systems": [
+    {"system": "National Cybersecurity Policy and Implementation Strategy (PNCS), Resolution 69/2021", "country_label": "Política Nacional de Segurança Cibernética e sua Estratégia de Implementação", "class": "subsector", "platform": "", "owner": "Government; INTIC", "tiers": ""},
+    {"system": "National Cybersecurity Strategy 2026-2030", "country_label": "Estratégia Nacional de Segurança Cibernética 2026-2030", "class": "subsector", "platform": "", "owner": "INTIC", "tiers": ""},
+    {"system": "Law 13/2026, Cybersecurity Law", "country_label": "Lei de Segurança Cibernética", "class": "law", "platform": "", "owner": "INTIC (hosts the national CSIRT)", "tiers": ""},
+    {"system": "Law 14/2026, Cybercrime Law", "country_label": "Lei de Crimes Cibernéticos", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Cybersecurity instruments only (subsector and law classes); no ICT sector policy stated."
+}

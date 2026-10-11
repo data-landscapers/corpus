@@ -1,0 +1,17 @@
+{
+  "slug": "2024-12-30-lesotho-national-digital-policy-2024-2035",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The document records that Lesotho adopted the ICT Policy for Lesotho in 2005, which the Ministry of Information, Communications, Science, Technology and Innovation's 2021 review (commissioned by the ministry) examined.", "as_of": "2005", "date_precision": "year", "system": "ICT Policy for Lesotho", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "none", "fact": "The document states the 2005 ICT Policy has not been implemented since its inception (citing the 2016 State of ICT in Lesotho report), and that the M&E system it envisioned within the responsible ministry was never established for lack of resources; date is the document's published date, 2024-12-30.", "as_of": "2024-12-30", "date_precision": "day", "system": "ICT Policy for Lesotho", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The document records that Lesotho adopted the Communications Policy in 2008, an integrated framework for telecommunications, broadcasting and postal sectors.", "as_of": "2008", "date_precision": "year", "system": "Lesotho Communications Policy 2008", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "none", "fact": "The document states the 2008 Communications Policy lacks implementation tracking guidelines; date is the document's published date, 2024-12-30.", "as_of": "2024-12-30", "date_precision": "day", "system": "Lesotho Communications Policy 2008", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Digital Policy 2024-2035", "country_label": "National Digital Policy 2024 (National Digital Transformation Policy)", "class": "national", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation (MICSTI)", "tiers": "national"},
+    {"system": "National Digital Transformation Strategy: Agenda 2030", "country_label": "National Digital Transformation Strategy: Agenda 2030", "class": "national", "platform": "", "owner": "MICSTI, with ITU technical assistance", "tiers": "national"},
+    {"system": "ICT Policy for Lesotho", "country_label": "ICT Policy for Lesotho (2005)", "class": "sector", "platform": "", "owner": "Ministry responsible for communications (MCST/MICSTI)", "tiers": "national"},
+    {"system": "Lesotho Communications Policy 2008", "country_label": "Communications Policy 2008", "class": "sector", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Broadband Policy 2014", "country_label": "Broadband Policy (2014 draft, never adopted)", "class": "subsector", "platform": "", "owner": "MICSTI", "tiers": "national"}
+  ],
+  "note": "The document is itself the national digital policy (class national, no fact); facts are those it states about the earlier sector policies."
+}

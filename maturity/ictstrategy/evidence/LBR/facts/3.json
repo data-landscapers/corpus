@@ -1,0 +1,27 @@
+{
+  "slug": "2026-02-01 AfDB Liberia Country Strategy Paper 2026-2031",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The AfDB Country Strategy Paper (February 2026) says the ICT sector is guided by the National ICT Policy and Strategy (2019-2024), treating it as the governing framework.",
+      "as_of": "2026-02",
+      "date_precision": "month",
+      "system": "National ICT Policy and Strategy (2019-2024)",
+      "class": "sector"
+    },
+    {
+      "sub_indicator": "sector",
+      "aspect": "period",
+      "value": "to:2024",
+      "fact": "The AfDB Country Strategy Paper gives the National ICT Policy and Strategy a period of 2019-2024, ended before the paper was written; the document names no successor.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National ICT Policy and Strategy (2019-2024)",
+      "class": "sector"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

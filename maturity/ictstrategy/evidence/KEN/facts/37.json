@@ -1,0 +1,18 @@
+{
+  "slug": "2026-09-01-ria-growing-the-digital-economy-in-kenya-its-structure-and-challenges",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "Research ICT Africa lists the National ICT Policy (2019) among the anchors of Kenya's digital policy architecture and describes its content as an existing instrument covering infrastructure, broadcasting, cybersecurity, e-government, data, innovation, human capacity and emerging technologies.", "as_of": "2019", "date_precision": "year", "system": "National ICT Policy 2019", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "Research ICT Africa cites the National ICT Policy 2019 to a page on the Ministry of Information, Communications and the Digital Economy website (ict.go.ke/node/502); no date for the link is given, so the report's September 2026 publication is used.", "as_of": "2026-09", "date_precision": "month", "system": "National ICT Policy 2019", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "Research ICT Africa states that the Ministry of Information, Communications and the Digital Economy has responsibility for policy formulation and overall sector coordination, with the Communications Authority as regulator; no ministry budget line for the ICT policy is stated; dated by the report's September 2026 publication.", "as_of": "2026-09", "date_precision": "month", "system": "National ICT Policy 2019", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy 2019", "country_label": "National ICT Policy (2019)", "class": "sector", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": ""},
+    {"system": "Kenya National Digital Masterplan 2022-2032", "country_label": "Kenya National Digital Master Plan (2022-2032)", "class": "national", "platform": "", "owner": "ICT Authority / Ministry of Information, Communications and the Digital Economy", "tiers": "government and private sector"},
+    {"system": "Digital Economy Blueprint 2019", "country_label": "Digital Economy Blueprint (2019)", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Broadband Strategy 2025-2030 (draft)", "country_label": "draft National Broadband Strategy (2025-2030)", "class": "subsector", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": ""},
+    {"system": "National Broadband Strategy 2018-2023", "country_label": "National Broadband Strategy 2018-2023", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Universal Service Fund Strategy 2023-2027", "country_label": "USF Strategy (2023-2027)", "class": "subsector", "platform": "", "owner": "Communications Authority of Kenya", "tiers": ""},
+    {"system": "Kenya AI Strategy 2025-2030", "country_label": "Kenya AI Strategy (2025-2030)", "class": "subsector", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": ""}
+  ],
+  "note": ""
+}

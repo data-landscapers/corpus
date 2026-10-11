@@ -1,0 +1,10 @@
+{
+  "slug": "2023-06-01-isoc-bj-etude-beninix",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Internet Society Benin chapter's study treats the Déclaration de Politique Sectorielle (DPS) as the government's operative digital-sector strategy and recommends that the State update it to make affordable quality internet access a priority axis; no adoption date is given, so the study's publication month is used.", "as_of": "2023-06", "date_precision": "month", "system": "Déclaration de Politique Sectorielle (DPS)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The study cites the DPS text at numerique.gouv.bj/assets/Documents/DPS.pdf, an official ministry site; the date is the study's publication month.", "as_of": "2023-06", "date_precision": "month", "system": "Déclaration de Politique Sectorielle (DPS)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The study summarises the DPS as setting targets of 80% broadband coverage of businesses and individuals, 100% of schools connected, a top-100 Network Readiness Index rank, and a first phase of about 2,000 km of backbone linking 67 communes and 280 km of Grand Cotonou metropolitan loop, with no cost stated; the date is the study's publication month.", "as_of": "2023-06", "date_precision": "month", "system": "Déclaration de Politique Sectorielle (DPS)", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

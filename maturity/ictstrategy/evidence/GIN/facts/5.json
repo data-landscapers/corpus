@@ -1,0 +1,9 @@
+{
+  "slug": "2021-01-01-strategie-nationale-sante-numerique-2021-2025-guinee",
+  "facts": [],
+  "systems": [
+    {"system": "Stratégie Nationale Santé Numérique 2021-2025", "country_label": "Stratégie Nationale Santé Numérique", "class": "subsector", "platform": "", "owner": "Ministère de la Santé publique with the Ministère des Postes, des Télécommunications et de l'Économie numérique", "tiers": "national"},
+    {"system": "Politique Nationale de Développement des TIC en Guinée (2016-2020)", "country_label": "Politique Nationale de Développement des TIC en Guinée", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Health digital strategy is a subsector document; the national ICT policy 2016-2020 appears only as a bibliography entry with no description or status."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-21-kenya-ai-emerging-technologies-policy-draft-fulltext",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The draft AI policy lists the National ICT Policy (2019) among the national policy and strategy instruments that provide guidance on digital transformation, as in place; it gives no adoption date beyond the year, and no event date, so the document's published date is used.", "as_of": "2026-07-21", "date_precision": "day", "system": "National ICT Policy (2019)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy (2019)", "country_label": "National ICT Policy (2019)", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Kenya Artificial Intelligence and Other Emerging Technologies Policy, 2026 (draft)", "country_label": "Kenya AI and other Emerging Technologies Policy, 2026", "class": "subsector", "platform": "", "owner": "State Department for ICT and the Digital Economy", "tiers": ""},
+    {"system": "Digital Master Plan (2022-2032)", "country_label": "Digital Master Plan (2022-2032)", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Economy Blueprint", "country_label": "Digital Economy Blueprint", "class": "national", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is an AI policy (subsector); only its mention of the National ICT Policy (2019) bears on the sector class."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-gab-repository-of-national-digital-skills-strategies",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Development Plan (PNDN)", "country_label": "Plan National de Développement du Numérique", "class": "national", "platform": "", "owner": "Government of Congo, Ministry of Posts & Telecommunications", "tiers": ""}
+  ],
+  "note": "Congo's only entry is the PNDN 2021-2025, a national digital plan (class national), so no sector fact; the repository is dated 2025 by year proxy."
+}

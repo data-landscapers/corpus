@@ -1,0 +1,12 @@
+{
+  "slug": "2026-10-07-gender-checks-proposed-for-digital-policies",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2028", "fact": "A Gambian ministry official named the National ICT for Development Policy Statement 2018-2028 as an existing Gambian ICT policy in October 2026; the statement is dated by the article's publication date.", "as_of": "2026-10", "date_precision": "month", "system": "National ICT for Development Policy Statement 2018-2028", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Head of the Gambian delegation, a Principal Assistant Secretary at the Ministry of Communications and Digital Economy, said The Gambia had already incorporated gender considerations into its ICT policies including the National ICT for Development Policy Statement 2018-2028, treating it as in force; dated by the article's publication date.", "as_of": "2026-10", "date_precision": "month", "system": "National ICT for Development Policy Statement 2018-2028", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT for Development Policy Statement 2018-2028", "country_label": "National ICT for Development Policy Statement", "class": "sector", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""},
+    {"system": "Digital Economy Master Plan 2024-2034", "country_label": "Digital Economy Master Plan", "class": "national", "platform": "", "owner": "Ministry of Communications and Digital Economy", "tiers": ""}
+  ],
+  "note": ""
+}

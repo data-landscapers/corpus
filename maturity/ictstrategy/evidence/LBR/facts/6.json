@@ -1,0 +1,8 @@
+{
+  "slug": "2025-02-27 Liberia struggles to enforce privacy and data protection laws",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The article situates its analysis against Liberia's National ICT Policy 2019-2024, a period ending 2024; the date is the article's published date, as it gives no other.", "as_of": "2025-02-27", "date_precision": "day", "system": "National ICT Policy 2019-2024", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

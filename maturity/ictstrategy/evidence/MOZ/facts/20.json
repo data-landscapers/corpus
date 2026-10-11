@@ -1,0 +1,12 @@
+{
+  "slug": "2021-12-31-mozambique-resolucao-69-2021-politica-estrategia-nacional-seguranca-cibernetica",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "Resolution 69/2021 states the Government approved its first Informatics Policy by Resolution 28/2000 and, 18 years later, revised it and approved it as the Information Society Policy by Resolution 17/2018 of 21 June; it describes the cybersecurity strategy as part of implementing that policy.", "as_of": "2018-06-21", "date_precision": "day", "system": "Política para a Sociedade da Informação", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Política para a Sociedade da Informação (Resolução 17/2018)", "country_label": "Política para a Sociedade da Informação", "class": "sector", "platform": "", "owner": "Government (Council of Ministers)", "tiers": ""},
+    {"system": "Política de Informática (Resolução 28/2000)", "country_label": "Política de Informática", "class": "sector", "platform": "", "owner": "Government", "tiers": ""},
+    {"system": "Política de Segurança Cibernética e Estratégia da sua Implementação (PENSC 2021-2025, Resolução 69/2021)", "country_label": "Política de Segurança Cibernética e Estratégia da sua Implementação", "class": "subsector", "platform": "", "owner": "Council of Ministers", "tiers": ""}
+  ],
+  "note": ""
+}

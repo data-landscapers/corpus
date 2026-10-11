@@ -1,0 +1,23 @@
+{
+  "slug": "2025-01-01-malawi-digital-readiness-assessment",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Digitalization Policy 2023-2028",
+      "country_label": "National Digitalization Policy 2023-2028",
+      "class": "national",
+      "platform": "",
+      "owner": "Ministry of Information and Digitalization",
+      "tiers": ""
+    },
+    {
+      "system": "ICT Master Plan",
+      "country_label": "ICT Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Named instruments only; ICT Master Plan is not described, and the Digitalization Policy is a national-class instrument."
+}

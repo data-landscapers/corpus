@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-08-zps-headquarters-egovernment-study",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The study states that in 2023 the National Digital Transformation Strategy, anchored on the National Information and Communication Technology Policy of 2023, was adopted; the document does not describe the policy's own scope.", "as_of": "2023", "date_precision": "year", "system": "National Information and Communication Technology Policy of 2023", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Information and Communication Technology Policy of 2023", "country_label": "National Information and Communication Technology Policy of 2023", "class": "sector", "platform": "", "owner": "", "tiers": "national; anchors the 2023 National Digital Transformation Strategy"},
+    {"system": "National Digital Transformation Strategy (2023)", "country_label": "National Digital Transformation Strategy", "class": "national", "platform": "", "owner": "", "tiers": "national; five pillars: digital infrastructure, platforms, services, literacy and skills, innovation and entrepreneurship"},
+    {"system": "SMART Zambia Electronic Government Master Plan (2018-2030)", "country_label": "SMART Zambia Electronic Government Master Plan", "class": "government", "platform": "", "owner": "Smart Zambia Institute", "tiers": "national"},
+    {"system": "National Electronic Government Plan 2023-2026", "country_label": "National eGovernment Plan", "class": "government", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Zambia Police Service Strategic Plan 2023-2026", "country_label": "Zambia Police Service strategic plan", "class": "institution-plan", "platform": "", "owner": "Zambia Police Service", "tiers": "Zambia Police Service"}
+  ],
+  "note": ""
+}

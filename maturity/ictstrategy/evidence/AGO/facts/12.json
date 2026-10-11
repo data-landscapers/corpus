@@ -1,0 +1,12 @@
+{
+  "slug": "2019-07-22-ago-despacho-presidencial-129-19",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "MINTTICS's legislation page lists Despacho Presidencial 129/19 of 22 July 2019 as approving the Livro Branco das TIC 2019-2022 and repealing Despacho Presidencial 71/11 of 12 September.", "as_of": "2019-07-22", "date_precision": "day", "system": "Livro Branco das TIC 2019-2022", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2022", "fact": "The despacho approves the Livro Branco das TIC for the period 2019-2022 (date given is the despacho's, 22 July 2019).", "as_of": "2019-07-22", "date_precision": "day", "system": "Livro Branco das TIC 2019-2022", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The ministry's official site carries the despacho with a download-file link (the page is dated 22 July 2019).", "as_of": "2019-07-22", "date_precision": "day", "system": "Livro Branco das TIC 2019-2022", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Livro Branco das TIC 2019-2022", "country_label": "Livro Branco das TIC", "class": "sector", "platform": "", "owner": "MINTTICS", "tiers": ""}
+  ],
+  "note": ""
+}

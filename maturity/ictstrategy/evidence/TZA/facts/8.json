@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-10-tanzania-experts-urge-digital-trust",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Citizen reports the ICT Commission director general saying Tanzania adopted its first National ICT Policy in 2003.", "as_of": "2003", "date_precision": "year", "system": "National ICT Policy (2003)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Citizen reports the ICT Commission director general describing a 2016 policy, following the 2003 one, that put greater emphasis on digital systems and platforms; the document gives no adoption date beyond the year in the policy's name.", "as_of": "2016", "date_precision": "year", "system": "National ICT Policy (2016)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy (2003)", "country_label": "National ICT Policy 2003", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National ICT Policy (2016)", "country_label": "2016 policy", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

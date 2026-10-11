@@ -1,0 +1,13 @@
+{
+  "slug": "2023-08-17-national-electronic-government-plan-2023-2026-zambia",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The plan states that Government has embarked on a review of the National ICT Policy, alongside the 2021 cyber security policy and four 2021 Acts; no adoption of a revised policy is stated (dated by the plan's publication, 2023-08-17).", "as_of": "2023-08-17", "date_precision": "day", "system": "National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of Technology and Science (policy oversight of ICTs)", "tiers": "national"},
+    {"system": "National Electronic Government Plan 2023-2026", "country_label": "National Electronic Government Plan (NeGP)", "class": "government", "platform": "", "owner": "Electronic Government Division, Office of the President", "tiers": "national public bodies"},
+    {"system": "National Cyber Security Policy 2021", "country_label": "National Cyber Security Policy", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Eighth National Development Plan (8NDP)", "country_label": "8NDP", "class": "development-plan", "platform": "", "owner": "Ministry of Finance and National Planning", "tiers": "national"}
+  ],
+  "note": "The plan is a government-digitalisation strategy (class government); its only sector-class fact is the stated review of the National ICT Policy."
+}

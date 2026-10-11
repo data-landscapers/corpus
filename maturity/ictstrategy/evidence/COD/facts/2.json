@@ -1,0 +1,46 @@
+{
+ "slug": "2026-08-05-rdc-unesco-snia-psen-validation",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "validated",
+   "fact": "UNESCO reports that public actors, partners and experts validated the PSEN in Kinshasa on 4 August 2026, as the end of a process led by the Ministry of Digital Economy.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "UNESCO says the PSEN and the SNIA set the country's orientations until 2030.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The PSEN was validated at a Kinshasa ceremony on 4 August 2026, per UNESCO.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "country_label": "PSEN 2026-2030",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère de l'Économie numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-16-uganda-updated-national-information-security-framework",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Information Security Framework (NISF) 2026",
+   "country_label": "NISF 2026",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of ICT and National Guidance; NITA-U implements",
+   "tiers": "government institutions"
+  }
+ ],
+ "note": "Cybersecurity framework, not a sector ICT policy; no fact for the sector class."
+}

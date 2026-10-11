@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SOM,sector,governance,qualifier,body:mandated;finance:donor,2025-11-11,SOM-003;SOM-014,SOM-015=finance:not-stated,
+SOM,sector,standing,coverage,adopted,2019,SOM-009;SOM-016,SOM-001=drafting,
+SOM,sector,text,coverage,public,2019-11,SOM-011,,nothing dated since 2023-10-11
+SOM,sector,period,coverage,to:2024,2025-11-11,SOM-002;SOM-005;SOM-006;SOM-007;SOM-008;SOM-010;SOM-012;SOM-017,,
+SOM,sector,plan,coverage,actions,2019,SOM-013;SOM-018,,nothing dated since 2023-10-11
+SOM,sector,reporting,coverage,,,,,nothing held
+SOM,sector,last12,qualifier,advancing,2025-11-11,SOM-004,,

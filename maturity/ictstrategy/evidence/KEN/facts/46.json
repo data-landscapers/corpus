@@ -1,0 +1,12 @@
+{
+  "slug": "2022-01-01-kenya-digital-literacy-programme-review",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The review of the Digital Literacy Programme states that the 2006 National ICT Policy was revised in 2019 and sets objectives for scaling up ICT in education; the review is dated 2022 (no month given).", "as_of": "2019", "date_precision": "year", "system": "National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy", "country_label": "National ICT Policy, 2019 (2006 policy, revised)", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National ICT in Education and Training Policy Framework", "country_label": "National ICT in Education and Training Policy Framework", "class": "subsector", "platform": "", "owner": "", "tiers": "education sector"},
+    {"system": "Digital Economy Blueprint 2019", "country_label": "Digital Economy Blueprint, 2019", "class": "national", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

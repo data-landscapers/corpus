@@ -1,0 +1,66 @@
+{
+ "slug": "2026-08-04-drc-kibassa-launches-digital-economy-policy-and-national-ai-strategy",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "validated",
+   "fact": "At the 4 August 2026 ceremony in Kinshasa the minister presented the PSEN for government validation, with presentation to the Council of Ministers for adoption announced for the coming days.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The PSEN is presented as guiding digital development to the 2030 horizon.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "plan",
+   "value": "none",
+   "fact": "The minister said action plans still had to be finalised, and called on ministries to turn the PSEN into programmes with indicators and budget allocations.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "reporting",
+   "value": "none",
+   "fact": "The minister said a monitoring and evaluation mechanism and an interministerial steering mechanism were still to be set up after validation.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The PSEN passed government validation on 4 August 2026, with adoption by the Council of Ministers to follow.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Politique sectorielle de l'économie numérique (PSEN)",
+   "country_label": "PSEN 2026-2030",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministère de l'Économie numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

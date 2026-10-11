@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-01-ncc-spectrum-roadmap-2026-2030",
+  "facts": [],
+  "systems": [
+    {"system": "Spectrum Roadmap for the Communications Sector (2026 - 2030)", "country_label": "Spectrum Roadmap 2026-2030", "class": "subsector", "platform": "", "owner": "Nigerian Communications Commission", "tiers": ""},
+    {"system": "National Communications Policy (2000)", "country_label": "National Communications Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Passages state only that a National Communications Policy was developed in 2000 (no adoption, text, period, plan or reporting stated); the roadmap itself is a subsector spectrum plan, so no fact."
+}

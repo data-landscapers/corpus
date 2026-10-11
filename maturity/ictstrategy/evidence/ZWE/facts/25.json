@@ -1,0 +1,30 @@
+{
+  "slug": "2022-01-01-zimbabwe-national-ict-policy-2022-2027",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted",
+     "fact": "The document presents itself as the reviewed Zimbabwe National ICT Policy 2022-2027 (ZNICTP 2022), with a presidential foreword and signature block, replacing the 2016-2020 policy that had elapsed; it states no adoption date, so 2022 is its published year.",
+     "as_of": "2022", "date_precision": "year", "system": "Zimbabwe National Information and Communication Technology Policy 2022-2027", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public",
+     "fact": "The full text of the policy is a government document held in the corpus as a complete PDF text layer; no date is given, so 2022 is its published year.",
+     "as_of": "2022", "date_precision": "year", "system": "Zimbabwe National Information and Communication Technology Policy 2022-2027", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2027",
+     "fact": "The policy titles itself for the period 2022-2027 and its implementation-plan periods run to 2027.",
+     "as_of": "2022", "date_precision": "year", "system": "Zimbabwe National Information and Communication Technology Policy 2022-2027", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions",
+     "fact": "Table 4 sets out an implementation plan of actions by priority area with responsible bodies and periods (2023 to 2027) but states no costs.",
+     "as_of": "2022", "date_precision": "year", "system": "Zimbabwe National Information and Communication Technology Policy 2022-2027", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated",
+     "fact": "The policy names the Ministry of ICT, Postal and Courier Services as coordinator, a National ICT Policy Advisory Council led by the Minister and a Policy Implementation Secretariat to track implementation, with POTRAZ as lead regulator.",
+     "as_of": "2022", "date_precision": "year", "system": "Zimbabwe National Information and Communication Technology Policy 2022-2027", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated",
+     "fact": "The policy says the ministry will be provided with adequate resources and Parliament should advocate funding, but ties no budget line or amount to the policy.",
+     "as_of": "2022", "date_precision": "year", "system": "Zimbabwe National Information and Communication Technology Policy 2022-2027", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Zimbabwe National Information and Communication Technology Policy 2022-2027", "country_label": "ZNICTP 2022", "class": "sector", "platform": "", "owner": "Ministry of Information Communication Technology, Postal and Courier Services", "tiers": "national"},
+    {"system": "Zimbabwe National Policy for Information and Communication Technologies 2016-2020", "country_label": "National ICT Policy (2016-2020)", "class": "sector", "platform": "", "owner": "Ministry of Information Communication Technology, Postal and Courier Services", "tiers": "national"},
+    {"system": "Smart Zimbabwe 2030 Master Plan", "country_label": "Smart Zimbabwe 2030 Master Plan", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Development Strategy 1", "country_label": "NDS1", "class": "development-plan", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2026-07-14-zimbabwe-cabinet-23rd-press-briefing",
+  "facts": [
+    {
+      "sub_indicator": "sector",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Cabinet's 14 July 2026 briefing names the National ICT Policy, with NDS2, the Smart Zimbabwe 2030 Master Plan and the AI Strategy, as a framework under which ICT and telecommunications are central to the national digital agenda; it gives no adoption date and does not describe the policy's scope.",
+      "as_of": "2026-07-14",
+      "date_precision": "day",
+      "system": "National ICT Policy",
+      "class": "sector"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National ICT Policy",
+      "country_label": "National ICT Policy",
+      "class": "sector",
+      "platform": "",
+      "owner": "Ministry of ICT, Postal and Courier Services",
+      "tiers": ""
+    },
+    {
+      "system": "Smart Zimbabwe 2030 Master Plan",
+      "country_label": "Smart Zimbabwe 2030 Master Plan",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Artificial Intelligence Strategy (2026-2030)",
+      "country_label": "National AI Strategy 2026-2030",
+      "class": "",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

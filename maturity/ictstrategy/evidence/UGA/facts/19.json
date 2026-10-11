@@ -1,0 +1,12 @@
+{
+  "slug": "2025-01-01-uganda-national-ai-landscape-assessment",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Transformation Roadmap (2023/2024-2027/2028)", "country_label": "National Digital Transformation Roadmap", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Digital Uganda Vision 2040", "country_label": "Digital Uganda Vision 2040", "class": "development-plan", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "Third National Development Plan (NDPIII)", "country_label": "NDPIII", "class": "development-plan", "platform": "", "owner": "Government of Uganda", "tiers": ""},
+    {"system": "Uganda national 4IR strategy", "country_label": "Uganda national 4IR strategy", "class": "subsector", "platform": "", "owner": "National 4IR task force (established 2018)", "tiers": ""},
+    {"system": "Technical Assistance and Training to Uganda on National ICT Development Strategy (2021-2024)", "country_label": "Technical assistance and training to Uganda on National ICT development strategy", "class": "programme", "platform": "", "owner": "Ministry of ICT and National Guidance with ITU", "tiers": ""}
+  ],
+  "note": "Names a 2021-2024 ITU project on ICT development strategy but states no sector policy's standing, text, period, plan or reporting."
+}
