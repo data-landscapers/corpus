@@ -1,32 +1,32 @@
 ---
 type: brief
 reader: cc
-title: drafter-brief.md — what one drafter does with one slice of a maturity study's reading list
-last_reviewed: 2026-10-06
+title: drafter-brief.md — what one drafter does with one call of a maturity study's reading list
+last_reviewed: 2026-10-11
 status: first used for maturity study health, task H3
 ---
 
-# Drafter brief: read a slice, write its facts
+# Drafter brief: read one call, write its facts
 
 *(Method §4 as instructions. The parent merges and checks what you write.)*
 
 ## What you are given
 
-A study id `{id}`, a country `{ISO3}` and a slice number, under `C:\CORPUS`.
+A study id `{id}`, a country `{ISO3}` and a call number, under `C:\CORPUS`. Sometimes also a list of aspects: then record facts on those aspects only.
 
 1. Read `maturity/{id}/study.json`: the sub-indicators, the classes, and each aspect's closed list of values.
-2. Read the study file it names, in `maturity/{id}/`: the typology, the aspects and the ladders. The typology decides the class of every system you meet.
-3. Open `maturity/{id}/evidence/{ISO3}/readlist.csv`. Your documents are the rows whose `slice` is yours. Rows with `kind` of `status` are the country's status report on the subject: read those sections first as orientation, and take no fact from them.
+2. Read the study file it names, in `maturity/{id}/`: the typology, the aspects and the ladders.
+3. Open `maturity/{id}/evidence/{ISO3}/readlist.csv`. Your documents are the rows whose `slice` is your call number: five at most. Rows with `kind` of `status` are the country's status report on the subject: orientation only, and no fact is taken from them.
 
 ## Reading
 
-**Read every document in your slice, in order of `n`, whole.** Where `read` is `whole`, the file is `C:\OSINT\` followed by `path`. Where `read` is `passages`, the file is `C:\CORPUS\` followed by `path`, and holds a document's passages; read all of it. A file longer than one read takes several: continue until its end.
+**Read your documents and no others. Open them all in one turn.** Where `read` is `whole`, the file is `C:\OSINT\` followed by `path`. Where `read` is `passages`, the file is `C:\CORPUS\` followed by `path`, and holds a document's passages; read all of it. A file longer than one read takes several: continue until its end.
 
 **`C:\OSINT` is read-only. Never write, move or delete anything there.**
 
 ## What a fact is
 
-**A fact is one thing the document states about one aspect of one sub-indicator, in this country.** One row each. Record only what this document itself states; do not carry anything over from another document, the status report or what you know.
+**A fact is one thing the document states about one aspect of one sub-indicator, in this country.** Record only what this document itself states: nothing from another document, the status report or what you know.
 
 - `sub_indicator` and `aspect`: keys from `study.json`.
 - `value`: from that aspect's closed list, exactly as spelt. A facet aspect takes one `facet:value`; a `multi` aspect takes its values joined by `;`.
@@ -40,11 +40,13 @@ A study id `{id}`, a country `{ISO3}` and a slice number, under `C:\CORPUS`.
 
 **A dated statement that something is absent is a fact**: reporting on paper end to end, a system withdrawn. So is a dated event in the last twelve months: a rollout, an outage, a funding cut.
 
+**News of an instrument is evidence of it**: a dated report that a strategy was adopted, launched or lapsed is a fact.
+
 **Do not stage, summarise or judge.**
 
 ## What you write
 
-**One file per document, written as soon as that document is read**, before opening the next: `maturity/{id}/evidence/{ISO3}/facts/{n}.json`, `n` being the document's number in the list.
+**One file per document, all written in one turn**: `maturity/{id}/evidence/{ISO3}/facts/{n}.json`, `n` being the document's number in the list.
 
 ```json
 {
@@ -60,10 +62,10 @@ A study id `{id}`, a country `{ISO3}` and a slice number, under `C:\CORPUS`.
 }
 ```
 
-`systems` takes every information system in the study's field that the document names for this country, of any class: `country_label` is what the country calls it, `platform` the software, `owner` who runs it, `tiers` where it is used as the document states it. A document that states nothing usable still gets its file, with empty lists and the `note`.
+`systems` takes every information system in the study's field that the document names for this country, of any class: what the country calls it, its software, who runs it, and the tiers the document says use it. A document that states nothing usable still gets its file, with empty lists and the `note`.
 
-**Write with the Write tool, one file at a time. Create no other file, edit none, delete none, and start no agent of your own.**
+**Write with the Write tool. Create no other file, edit none, delete none, and start no agent of your own.**
 
 ## When you finish
 
-Reply in five lines at most: documents read, facts written, systems named, and anything the parent must know, such as a file that would not open.
+Reply in three lines at most: documents read, facts written, and anything the parent must know, such as a file that would not open.

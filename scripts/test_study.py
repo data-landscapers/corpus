@@ -171,7 +171,34 @@ check("one that does not name it is not", "regional-unnamed" in got, False)
 check("another country's is not", "other-country" in got, False)
 check("a document the report cites under a term is listed on the report's word",
       got.get("reported"), "ledger+subject")
-check("term-only documents come last", [r["slug"] for r in rows][-1], "untagged-hit")
+check("what the report cites under a term leads, and a regional document comes last",
+      ([r["slug"] for r in rows][0], [r["slug"] for r in rows][-1]), ("reported", "regional-named"))
+
+ranked = [row("old-news", ["KEN"], []), row("new-news", ["KEN"], []),
+          row("titled-news", ["KEN"], [], title="The HMIS is launched"), row("strategy", ["KEN"], [])]
+ranked[1]["fm"]["published"] = "2026-01-01"
+ranked[3]["d"]["words"] = select.NEWS_WORDS + 1
+rows, _ = select.select("KEN", COUNTRIES["KEN"],
+                        select.scan(ranked, lambda r: "Kenya's HMIS.", rx), STUDY["subjects"], {})
+check("news is ranked title-matched then newest, and the instrument after all of it",
+      [(r["slug"], r["tier"]) for r in rows],
+      [("titled-news", "news"), ("new-news", "news"), ("old-news", "news"), ("strategy", "instrument")])
+
+many = [{"tier": "news", "words": 100} for _ in range(select.FIRST_PASS + 2)]
+many += [{"tier": "instrument", "words": 100}]
+many[1]["words"] = select.CALL_WORDS
+select.passes(many)
+select.number([], many)
+check("the first pass is capped, the news past it is read on, and an instrument waits for its rung",
+      [r["pass"] for r in many], ["1"] * select.FIRST_PASS + ["2", "2", "rung"])
+check("a call holds five documents at most, and closes at its word cap and where the pass changes",
+      [r["slice"] for r in many], [1, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 7])
+check("every document keeps its own number", [r["n"] for r in many], list(range(1, len(many) + 1)))
+late = [{"words": 100} for _ in range(select.CALL_DOCS + 1)]
+select.renumber([{"kind": "raw", "n": "18", "slice": "7"}], late, "add")
+check("appended rows are numbered and packed after the list's last",
+      [(r["n"], r["slice"], r["pass"]) for r in late],
+      [(19 + i, 8, "add") for i in range(select.CALL_DOCS)] + [(24, 9, "add")])
 rows, _ = select.select("CIV", COUNTRIES["CIV"], docs, STUDY["subjects"], {})
 check("a country's name matches through accents and apostrophes",
       [r["slug"] for r in rows], ["ivorian"])

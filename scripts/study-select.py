@@ -9,8 +9,26 @@ r"""study-select.py — a maturity study's reading list, one per country.
     python scripts/study-select.py health --new      # upkeep: append what has arrived since
 
 `maturity/documentation/maturity-study-method.md` §4. Writes
-`maturity/{id}/evidence/{ISO3}/readlist.csv`, the list a drafter reads whole, and
-`maturity/{id}/evidence/summary.csv`, the size of each list, which is what H3 is sized from.
+`maturity/{id}/evidence/{ISO3}/readlist.csv`, the list drafters read from the top, and
+`maturity/{id}/evidence/summary.csv`, the size of each list and of its first pass, which is
+what the review is sized from.
+
+**The list is ranked, and only its head is read as a matter of course** *(Bill,
+2026-10-11)*. To establish that a strategy exists, read the news about it, not the strategy:
+a list read whole and unranked gave a fact from one document in eight. `tier` is `news` for
+a document of no more than `NEWS_WORDS` in the original and `instrument` past that. The
+order is news before instruments; then a document whose title carries a term, or that the
+country's ledger or status report cites on the subject; then the country's own before a
+regional one; then newest. `pass` says how far down a row sits:
+
+- `1`    - the first `FIRST_PASS` of the news tier, read for every country;
+- `2`    - the rest of the news tier, read a call at a time and only while a cell is undecided;
+- `rung` - the instrument tier, opened for a cell that has reached a rung whose test needs
+  the text itself, and for the aspects that rung tests.
+
+**`slice` is one drafter call**: at most `CALL_DOCS` documents and `CALL_WORDS` words, never
+across two passes. A drafter that reads on resends everything it has read on every turn, so
+a call is small and starts fresh.
 
 **A document is listed when its title or body carries one of the study's terms.** The
 study's subjects are broader than the study: `dpi.mis` holds every sector's management
@@ -51,12 +69,13 @@ of the 25 million words read, and one in 28 gave a fact. A document no term reac
 listed because a ledger row or the status report read it as being on the subject, and is
 still read whole. `--add` keeps the older rule: method §7 reads what ingest returned whole.
 
-**`--add` is the Phase 2 re-read (method §7) and renumbers nothing.** It appends to each
+**`--add` is the Phase 2 re-read (method §7) and renumbers nothing.** Its rows carry `pass`
+`add`, and `--new`'s `new`. It appends to each
 existing list the documents `search/returned.csv` marks admitted, as `why = returned`, and
 the held excerpts of `search/reacquire.csv` that are no longer excerpts, as
 `why = completed`. A document goes to the country its record's `places:` now names, which
 ingest may have corrected, and to the country it was staged for where it names none. `n`
-continues from the list's highest and the new rows open new slices, so every facts file
+continues from the list's highest and the new rows open new calls, so every facts file
 already written still names its document.
 
 **`--new` is the upkeep's set difference** (`MATURITY-UPDATE.md`): the same selection, less what
@@ -81,13 +100,17 @@ import status_lib  # noqa: E402
 import study_lib   # noqa: E402
 import vault_lib   # noqa: E402
 
-SUMMARY_FIELDS = ["iso3", "documents", "passages", "words", "status_sections", "tagged_no_term"]
+SUMMARY_FIELDS = ["iso3", "documents", "first_pass", "first_words", "passages", "words",
+                  "status_sections", "tagged_no_term"]
 PASSAGE_WORDS = 20_000     # a document longer than this is read as passages
 SPARSE_WORDS = 8_000       # ...and so is one past this that carries a term only in passing
 SPARSE_HITS = 2
 WEAK_HITS = 3              # a document carrying the terms no more often than this...
 WEAK_WORDS = 1_000         # ...is read as passages too, once it is longer than this
-SLICE_WORDS = 70_000       # what one drafter reads
+NEWS_WORDS = 2_500         # past this a document is an instrument or a report, not news of one
+FIRST_PASS = 15            # the news-tier documents every country's review reads
+CALL_DOCS = 5              # what one drafter call reads...
+CALL_WORDS = 15_000        # ...and the most it reads in words
 OPENING_WORDS = 300        # what of its opening is always kept, for what the document is
 LONG_BLOCK = 400           # a "paragraph" past this is a table or a wrapped page: cut by line
 ROUTES = ("status", "ledger", "subject", "considered", "regional")
@@ -114,6 +137,7 @@ def scan(rows: list[dict], read, terms: re.Pattern) -> dict[str, dict]:
             "url": str(fm.get("url") or ""),
             "url_norm": d.get("url_norm", ""), "words": d.get("words", 0),
             "terms": sorted({t.lower() for t in found}), "hits": len(found),
+            "titled": bool(terms.search(study_lib.fold(title))),
             "folded": folded if found else "",
         }
     return out
@@ -207,22 +231,37 @@ def cited(iso: str, subjects: list[str], terms: re.Pattern, reports: str,
     return routes, status_rows
 
 
-def number(status_rows: list[dict], rows: list[dict]) -> None:
-    """Give each document its number and its slice, in place.
+def tier(doc: dict) -> str:
+    return "news" if int(doc["words"]) <= NEWS_WORDS else "instrument"
 
-    `n` is what a drafter names its facts file after, so a list with a file for every `n` has
-    been read through. `slice` packs the list into runs of at most `SLICE_WORDS`, one drafter
-    each: a country's reading does not always fit one context, and a drafter that runs out
-    of room partway stops reading without saying so. Status rows are context for every
-    slice and carry neither."""
+
+def passes(rows: list[dict]) -> None:
+    """Mark how far down the ranked list each row sits, in place."""
+    first = 0
+    for r in rows:
+        if r["tier"] != "news":
+            r["pass"] = "rung"
+        else:
+            first += 1
+            r["pass"] = "1" if first <= FIRST_PASS else "2"
+
+
+def number(status_rows: list[dict], rows: list[dict], n: int = 0, part: int = 0) -> None:
+    """Give each document its number and its call, in place, after `n` and `part`.
+
+    `n` is what a drafter names its facts file after, so the calls that were made can be
+    checked file by file. `slice` packs the list into calls of at most `CALL_DOCS` documents
+    and `CALL_WORDS` words, one fresh drafter each, and closes a call where the pass
+    changes, so a call is read or left as one. Status rows are context for every call and
+    carry neither."""
     for r in status_rows:
-        r.update(n="", slice="")
-    part, room = 1, SLICE_WORDS
-    for n, r in enumerate(rows, 1):
+        r.update({"n": "", "slice": "", "pass": "", "tier": ""})
+    docs, room, last = 0, 0, None
+    for r in rows:
         words = int(r["words"])
-        if words > room and room < SLICE_WORDS:
-            part, room = part + 1, SLICE_WORDS
-        room -= words
+        if last is None or r["pass"] != last or docs == CALL_DOCS or words > room:
+            part, docs, room = part + 1, 0, CALL_WORDS
+        docs, room, last, n = docs + 1, room - words, r["pass"], n + 1
         r.update(n=n, slice=part)
 
 
@@ -242,7 +281,7 @@ def added(iso: str, existing: list[dict], docs: dict[str, dict], returned: list[
         doc = docs[slug]
         return {"iso3": iso, "kind": "raw", "slug": slug, "path": doc["path"], "read": "whole",
                 "url": doc["url"], "title": doc["title"], "published": doc["published"],
-                "places": ";".join(doc["places"]), "why": why,
+                "places": ";".join(doc["places"]), "why": why, "tier": tier(doc),
                 "terms": ";".join(doc["terms"]), "hits": doc["hits"], "words": doc["words"]}
 
     for r in returned:
@@ -263,25 +302,20 @@ def added(iso: str, existing: list[dict], docs: dict[str, dict], returned: list[
     return out
 
 
-def renumber(existing: list[dict], rows: list[dict]) -> None:
-    """Number appended rows after the list's last, in slices after its last, in place."""
+def renumber(existing: list[dict], rows: list[dict], mark: str) -> None:
+    """Number appended rows after the list's last, in calls after its last, in place."""
     raw = [r for r in existing if r.get("kind") == "raw"]
-    n = max([int(r["n"]) for r in raw] or [0])
-    part, room = max([int(r["slice"]) for r in raw] or [0]) + 1, SLICE_WORDS
     for r in rows:
-        words = int(r["words"])
-        if words > room and room < SLICE_WORDS:
-            part, room = part + 1, SLICE_WORDS
-        room -= words
-        n += 1
-        r.update(n=n, slice=part)
+        r["pass"] = mark
+    number([], rows, max([int(r["n"]) for r in raw] or [0]),
+           max([int(r["slice"]) for r in raw] or [0]))
 
 
 def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
            routes: dict[str, set]) -> tuple[list[dict], int]:
     """`(readlist rows, tagged documents the terms dropped)` for one country."""
     name = study_lib.name_regex(iso, country)
-    rows, dropped = [], 0
+    rows, dropped, lead = [], 0, {}
     for slug, doc in docs.items():
         why = {r.rstrip("!") for r in routes.get(slug, ())}
         reported = any(r.endswith("!") for r in routes.get(slug, ()))
@@ -298,17 +332,19 @@ def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
             why.add("subject")
         if regional:
             why.add("regional")
+        lead[slug] = doc["titled"] or reported
         rows.append({"iso3": iso, "kind": "raw", "slug": slug, "path": doc["path"],
-                     "read": "whole", "url": doc["url"],
+                     "read": "whole", "url": doc["url"], "tier": tier(doc),
                      "title": doc["title"], "published": doc["published"],
                      "places": ";".join(doc["places"]),
                      "why": "+".join(r for r in ROUTES if r in why) or "term",
                      "terms": ";".join(doc["terms"]), "hits": doc["hits"],
                      "words": doc["words"]})
-    # Newest first, with the documents only a term reached after everything a tag or the
-    # country's own report vouches for.
+    # News before instruments; then what the title or the country's own report says is on
+    # the subject; then the country's own; then newest.
     rows.sort(key=lambda r: r["published"], reverse=True)
-    rows.sort(key=lambda r: r["why"] == "term")
+    rows.sort(key=lambda r: (r["tier"] != "news", not lead[r["slug"]],
+                             "regional" in r["why"].split("+")))
     return rows, dropped
 
 
@@ -392,13 +428,13 @@ def main(argv=None) -> int:
             for r in rows:
                 if around_terms(r, weak=False):
                     shorten(r, iso)
-            renumber(existing, rows)
+            renumber(existing, rows, "add")
             total += len(rows)
             if rows and not a.dry:
                 study_lib.write_csv(path, study_lib.READLIST_FIELDS, existing + rows)
             if rows:
                 print(f"  {iso}  {len(rows):3d} added  {sum(int(r['words']) for r in rows):7d} words  "
-                      f"slices {rows[0]['slice']}-{rows[-1]['slice']}")
+                      f"calls {rows[0]['slice']}-{rows[-1]['slice']}")
         print(f"study-select: {a.study} - {total} documents added to the reading lists"
               + (" (dry run, nothing written)." if a.dry else "."))
         return 0
@@ -418,7 +454,7 @@ def main(argv=None) -> int:
             for r in rows:
                 if around_terms(r):
                     shorten(r, iso)
-            renumber(existing, rows)
+            renumber(existing, rows, "new")
             total += len(rows)
             for r in rows:
                 arrivals.append({"iso3": iso, "n": r["n"], "slug": r["slug"], "listed": today,
@@ -439,7 +475,10 @@ def main(argv=None) -> int:
         for r in rows:
             if around_terms(r):
                 shorten(r, iso)
-        summary.append({"iso3": iso, "documents": len(rows),
+        passes(rows)
+        head = [r for r in rows if r["pass"] == "1"]
+        summary.append({"iso3": iso, "documents": len(rows), "first_pass": len(head),
+                        "first_words": sum(int(r["words"]) for r in head),
                         "passages": sum(1 for r in rows if r["read"] == "passages"),
                         "words": sum(int(r["words"]) for r in rows),
                         "status_sections": len(status_rows), "tagged_no_term": dropped})
@@ -452,10 +491,13 @@ def main(argv=None) -> int:
 
     for s in summary:
         print(f"  {s['iso3']}  {s['documents']:4d} documents  {s['words']:8d} words  "
+              f"first pass {s['first_pass']:2d} / {s['first_words']:6d} words  "
               f"{s['tagged_no_term']:4d} tagged, no term")
     print(f"study-select: {a.study} - {len(summary)} countries, "
           f"{sum(s['documents'] for s in summary)} listings, "
-          f"{sum(s['words'] for s in summary)} words"
+          f"{sum(s['words'] for s in summary)} words; first pass "
+          f"{sum(s['first_pass'] for s in summary)} listings, "
+          f"{sum(s['first_words'] for s in summary)} words"
           + (" (dry run, nothing written)." if a.dry else "."))
     return 0
 
