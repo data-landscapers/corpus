@@ -1,0 +1,10 @@
+{
+  "slug": "2022-09-29-com-itu-pp22-policy-statement-minpoten",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "In its September 2022 ITU PP-22 policy statement the Comorian posts, telecommunications and digital economy minister says the country is in the process of implementing its sectoral policy.", "as_of": "2022-09", "date_precision": "month", "system": "sectoral policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Emerging Comoros Plan", "country_label": "Plan Comores Emergent", "class": "development-plan", "platform": "", "owner": "Government of the Union of the Comoros", "tiers": "national"}
+  ],
+  "note": ""
+}

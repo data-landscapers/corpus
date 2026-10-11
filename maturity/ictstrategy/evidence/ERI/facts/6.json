@@ -1,0 +1,13 @@
+{
+  "slug": "2009-04-01-eri-ad-hoc-expert-group-meeting-harmonization-of-icts-policies-and-program",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "none",
+     "fact": "The UNECA Eastern Africa subregional paper says Eritrea has no National ICT Policy defining the government's orientation and strategies for development, and repeats 'No ICT Policy' in its 13-state table; the table is undated, so the document's published date of 2009-04 is used.",
+     "as_of": "2009-04", "date_precision": "month", "system": "National ICT Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "none",
+     "fact": "The UNECA paper states that no National ICT Development Plan exists for Eritrea, and no National ICT Development Agency; the table is undated, so the published date of 2009-04 is used.",
+     "as_of": "2009-04", "date_precision": "month", "system": "National ICT Development Plan", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

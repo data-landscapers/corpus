@@ -1,0 +1,22 @@
+{
+  "slug": "2017-10-20-tgo-au-conseil-des-ministres-vendredi-le-gouvernement-a-examine-et-adopte",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted",
+     "fact": "Togo's Council of Ministers examined and adopted, on 20 October 2017, a decree approving the digital-economy sector policy declaration for 2018-2022, reported by Togo-Presse.",
+     "as_of": "2017-10-20", "date_precision": "day",
+     "system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2022",
+     "fact": "The adopted digital-economy sector policy declaration covers the period 2018-2022, replacing the 2011-2015 sector declaration that had expired.",
+     "as_of": "2017-10-20", "date_precision": "day",
+     "system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated",
+     "fact": "The policy provides a steering and monitoring set-up: a national digital committee under the Prime Minister and a technical committee for operational steering led by the minister in charge of the digital economy, with the ministry of posts and digital economy to strengthen its action.",
+     "as_of": "2017-10-20", "date_precision": "day",
+     "system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "déclaration de politique du secteur de l'économie numérique 2018-2022", "country_label": "déclaration de politique du secteur de l'économie numérique pour la période 2018-2022", "class": "sector", "platform": "", "owner": "Ministère des postes et de l'économie numérique", "tiers": "national"},
+    {"system": "déclaration de politique sectorielle 2011-2015", "country_label": "précédente déclaration de politique sectorielle 2011-2015", "class": "sector", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

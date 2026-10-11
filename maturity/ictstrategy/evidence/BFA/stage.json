@@ -1,0 +1,21 @@
+{
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "adopted",
+      "text": "",
+      "period": "to:2010",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "BFA-001;BFA-002",
+      "gaps": "The only sector policy on record ended in 2010 and no successor sector policy is on record as announced, drafted, validated or adopted. Nothing is held on its text, delivery plan, reporting, mandated body or finance, and no fact is dated inside the twelve or thirty-six months to the as-at.",
+      "note": "Lettre de politique sectorielle 2006-2010: adopted in 2006 with a period that ended in 2010, so it is expired, and with no sector policy in preparation it sets no rung. A national digital strategy is held and is not a successor, so the cell is unplaced, lapsed and under the national strategy rather than stage 2."
+    }
+  ]
+}

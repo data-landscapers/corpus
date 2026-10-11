@@ -1,0 +1,10 @@
+{
+  "slug": "2019-03-06-cog-conseil-des-ministres-6-mars-2019-textes-numerique",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Council of Ministers communique of 6 March 2019 has the minister say the electronic transactions bill follows the national ICT development policy that the government drew up in 2008-2009; it does not use the word adopted, and the document gives no date of adoption.", "as_of": "2009", "date_precision": "year", "system": "politique nationale de développement des TIC", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "politique nationale de développement des TIC", "country_label": "politique nationale de développement des TIC", "class": "sector", "platform": "", "owner": "Government of the Republic of Congo", "tiers": ""}
+  ],
+  "note": ""
+}

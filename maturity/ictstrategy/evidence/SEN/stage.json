@@ -1,0 +1,21 @@
+{
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "2",
+      "governance": "",
+      "standing": "validated",
+      "text": "",
+      "period": "to:2029",
+      "plan": "",
+      "reporting": "",
+      "last12": "no-change",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-001;SEN-002;SEN-003",
+      "gaps": "No adoption of the Lettre de politique sectorielle is on record: the final validation workshop was reported on 2025-02-10 and a July 2026 document still describes it as validated. No source holds its text, a delivery plan, a report against it, a mandated body or a budget line, and no dated event falls inside the twelve months to the as-at.",
+      "note": "Lettre de politique sectorielle 2025-2029: validated and not adopted, with its 2025-2029 period still running, which is stage 2. Stage 3 needs it adopted and its text public, and neither is on record."
+    }
+  ]
+}

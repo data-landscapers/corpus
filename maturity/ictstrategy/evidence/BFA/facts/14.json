@@ -1,0 +1,11 @@
+{
+  "slug": "2019-01-01-bfa-medias-sociaux-et-promotion-de-l-artisanat-au-burkina-faso-cas-du-vill",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The thesis refers to a 2006 sector policy letter (lettre de politique sectorielle) for ICT whose main aim was to create conditions for wide diffusion of ICT in society through a transparent legal framework.", "as_of": "2006", "date_precision": "year", "system": "Lettre de politique sectorielle 2006-2010", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2010", "fact": "The thesis names the sector policy letter as the 2006-2010 sector policy, so its period ended in 2010.", "as_of": "2006", "date_precision": "year", "system": "Lettre de politique sectorielle 2006-2010", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Lettre de politique sectorielle 2006-2010", "country_label": "politique sectorielle 2006-2010", "class": "sector", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

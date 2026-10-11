@@ -1,0 +1,8 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ETH,sector,governance,qualifier,body:mandated;finance:donor,2019,ETH-002;ETH-004,ETH-005=body:mandated,nothing dated since 2023-09-28
+ETH,sector,standing,coverage,adopted,2017,ETH-001;ETH-003;ETH-006,,nothing dated since 2023-09-28
+ETH,sector,text,coverage,,,,,nothing held
+ETH,sector,period,coverage,,,,,nothing held
+ETH,sector,plan,coverage,,,,,nothing held
+ETH,sector,reporting,coverage,,,,,nothing held
+ETH,sector,last12,qualifier,,,,,nothing held

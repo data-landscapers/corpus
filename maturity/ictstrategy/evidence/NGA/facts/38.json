@@ -1,0 +1,16 @@
+{
+  "slug": "2026-02-09-nga-ncc-consultation-paper-review-national-telecommunications-policy-2000",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The NCC consultation paper says the National Telecommunications Policy 2000 is the subsisting sector policy, in force for twenty-five years and now under review.", "as_of": "2026-02-09", "date_precision": "day", "system": "National Telecommunications Policy 2000", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The paper, dated 9 February 2026, is the first step toward a First Draft of a National Telecommunications Policy 2026 to replace the 2000 policy, with a Final Draft to follow further consultation and statutory approval and validation.", "as_of": "2026-02-09", "date_precision": "day", "system": "National Telecommunications Policy 2026", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The Minister of Communications, Innovation and Digital Economy set up a Ministerial Steering Committee and a Ministerial Technical Committee to review the policy, and an Implementation Committee ran the policy impact analysis; the consultation is required by s.24(1) of the Nigerian Communications Act 2003.", "as_of": "2026-02-09", "date_precision": "day", "system": "National Telecommunications Policy 2026", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "open", "fact": "The paper describes the 2000 policy as still subsisting after twenty-five years, and states no end date for it; Chapter 16 provides review only 'from time to time'.", "as_of": "2026-02-09", "date_precision": "day", "system": "National Telecommunications Policy 2000", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "none", "fact": "The paper reproduces Chapter 16 of the 2000 policy as three implementation instruments (machinery, a national forum, annual reports) and proposes to add a detailed implementation matrix, milestones, dependencies and responsible parties, so none exists in the current text.", "as_of": "2026-02-09", "date_precision": "day", "system": "National Telecommunications Policy 2000", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "last12", "value": "advancing", "fact": "The NCC published fifteen policy proposals for rewriting the 2000 policy and invited stakeholder comments by 20 March 2026.", "as_of": "2026-02-09", "date_precision": "day", "system": "National Telecommunications Policy 2026", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Telecommunications Policy 2000", "country_label": "National Telecommunications Policy (NTP)", "class": "sector", "platform": "", "owner": "Federal Ministry of Communications", "tiers": ""},
+    {"system": "National Telecommunications Policy 2026", "country_label": "National Telecommunications Policy 2026 (under drafting)", "class": "sector", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": ""}
+  ],
+  "note": ""
+}

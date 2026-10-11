@@ -1,0 +1,21 @@
+{
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "under the national strategy",
+      "stage_sources": "",
+      "gaps": "evidence.csv holds no row for CPV and instruments.csv names no instrument, so no ICT or telecommunications sector policy is on record as adopted, in preparation or absent. The cell is unplaced rather than no evidence only because the neighbouring study holds a national digital strategy (stage 2), which section 4 makes unplaced and flagged.",
+      "note": "No instrument: no sector policy is on record, so nothing is staged. A national digital strategy is held instead, a noted class that never places a country, and stage 1 would need a dated statement of absence and no national strategy."
+    }
+  ]
+}

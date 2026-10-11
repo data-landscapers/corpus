@@ -1,0 +1,12 @@
+{"slug":"2021-09-01-eth-developing-ethiopia-s-digital-economy-lessons-from-china","facts":[
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"UNCTAD's paper (September 2021) says the national ICT Policy and Strategy was developed in 2016 (FDRE 2016), is being implemented through listed interventions, and that its implementation is fragmented across projects and sectors.","as_of":"2016","date_precision":"year","system":"National ICT Policy and Strategy (2016)","class":"sector"},
+{"sub_indicator":"sector","aspect":"governance","value":"body:mandated","fact":"The paper says that under the Communication Services Proclamation of 2019 the Ministry of Innovation and Technology is mandated to develop policy instruments, design programmes, mobilise resources and guide and monitor the telecom sector, with the Ethiopian Communications Authority regulating it.","as_of":"2019","date_precision":"year","system":"National ICT Policy and Strategy (2016)","class":"sector"}
+],
+"systems":[
+{"system":"National ICT Policy and Strategy (2016)","country_label":"National Information and Communication Technology (ICT) Policy and Strategy","class":"sector","platform":"","owner":"Federal Democratic Republic of Ethiopia","tiers":""},
+{"system":"Digital Ethiopia 2025","country_label":"Digital Ethiopia 2025","class":"national","platform":"","owner":"Ministry of Innovation and Technology","tiers":""},
+{"system":"National ICT Policy for Higher Education and TVET (2020)","country_label":"National ICT Policy for Higher Education and TVET","class":"subsector","platform":"","owner":"Ministry of Science and Higher Education","tiers":""},
+{"system":"Communication Services Proclamation 2019","country_label":"Communication Services Proclamation of 2019","class":"law","platform":"","owner":"","tiers":""},
+{"system":"Ten-Year Perspective Plan 2020-2030","country_label":"Ten-Year Perspective Plan","class":"development-plan","platform":"","owner":"","tiers":""}
+],
+"note":"Secondary academic account; no text link, period, delivery plan, costing or results report stated for the 2016 policy."}

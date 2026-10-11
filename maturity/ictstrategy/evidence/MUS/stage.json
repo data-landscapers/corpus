@@ -1,0 +1,21 @@
+{
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "under the national strategy",
+      "stage_sources": "",
+      "gaps": "evidence.csv holds no row for MUS and instruments.csv names no instrument for it, so no sector policy is established as adopted, drafted or announced. systems.csv logs a National ICT Policy by name only, with no class, date or standing.",
+      "note": "No instrument: no sector policy is on record to stage. The country holds a national digital strategy (digitalstrategy stage 3) and no sector policy in force, which section 4 leaves unplaced and flagged."
+    }
+  ]
+}

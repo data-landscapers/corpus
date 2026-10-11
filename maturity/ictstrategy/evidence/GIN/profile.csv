@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GIN,sector,governance,qualifier,body:mandated,2010,GIN-003,,nothing dated since 2023-10-11
+GIN,sector,governance,qualifier,body:mandated,2010,GIN-003,,nothing dated since 2023-09-28
 GIN,sector,standing,coverage,adopted,2010,GIN-002;GIN-006,GIN-001=announced,
 GIN,sector,text,coverage,,,,,nothing held
-GIN,sector,period,coverage,to:2004,2001,GIN-005,,nothing dated since 2023-10-11
-GIN,sector,plan,coverage,actions,2010,GIN-004,,nothing dated since 2023-10-11
+GIN,sector,period,coverage,to:2004,2001,GIN-005,,nothing dated since 2023-09-28
+GIN,sector,plan,coverage,actions,2010,GIN-004,,nothing dated since 2023-09-28
 GIN,sector,reporting,coverage,,,,,nothing held
 GIN,sector,last12,qualifier,,,,,nothing held

@@ -1,0 +1,11 @@
+{
+  "slug": "2023-01-01-dji-afdb-country-strategy-paper-2023-2027",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The African Development Bank's country strategy paper, dated December 2022, refers to an existing integrated ICT Sector Strategic Plan (2014-2024) that aims to transform Djibouti into an information society hub (document published 2023-01-01; statement dated to the paper's December 2022 date).", "as_of": "2022-12", "date_precision": "month", "system": "integrated ICT Sector Strategic Plan (2014-2024)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The paper gives the integrated ICT Sector Strategic Plan a period of 2014 to 2024.", "as_of": "2022-12", "date_precision": "month", "system": "integrated ICT Sector Strategic Plan (2014-2024)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "integrated ICT Sector Strategic Plan (2014-2024)", "country_label": "integrated ICT Sector Strategic Plan (2014-2024)", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

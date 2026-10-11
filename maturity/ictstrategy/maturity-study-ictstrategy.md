@@ -3,12 +3,12 @@ type: task
 reader: cc
 title: maturity-study-ictstrategy.md — the eighth maturity study and the second of an instrument: the ICT and telecommunications sector policy
 last_reviewed: 2026-10-11
-status: CC's proposal, run on Bill's word of 2026-10-11; step 3 done, awaiting OSINT's ingest
+status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: ictstrategy — the sector policy
 
-*(Commissioned by Bill on 2026-10-11, under `maturity/documentation/maturity-study-method.md`. Next trigger: "**complete maturity study ictstrategy**".)*
+*(Commissioned by Bill on 2026-10-11, under `maturity/documentation/maturity-study-method.md`. Awaiting acceptance.)*
 
 ## 1. The question, and the row it redraws
 
@@ -68,6 +68,8 @@ status: CC's proposal, run on Bill's word of 2026-10-11; step 3 done, awaiting O
 
 ## 4. The ladders
 
+Staged as at 2026-09-30: 14 at stage 3, 18 at 2, 1 at 1, 21 unplaced. **Rungs 4 and 5 are unreached and stand.**
+
 **Sector policy**
 
 | Stage | Standing | Text | Period | Delivery plan | Reporting |
@@ -86,7 +88,9 @@ status: CC's proposal, run on Bill's word of 2026-10-11; step 3 done, awaiting O
 
 **The four readings `digitalstrategy` fixed at its D3 carry over**, as its study file states them.
 
-**Fixed at this study's D3** (`scripts/study-ladder-ictstrategy.py` holds the reasons): the country is placed on its newest adopted sector policy; an open policy a national digital strategy replaced is *lapsed* from the year `instruments.csv` gives; an adopted policy whose text nobody has found stops at stage 2, unflagged; *in the national plan* needs no sector policy on record; a web page presenting a strategy is not its text. **Rungs 1, 4 and 5 are unreached and stand.**
+**Fixed at this study's D3** (`scripts/study-ladder-ictstrategy.py` holds the reasons): the country is placed on its newest adopted sector policy; an open policy a national digital strategy replaced is *lapsed* from the year `instruments.csv` gives; an adopted policy whose text nobody has found stops at stage 2, unflagged; *in the national plan* needs no sector policy on record; a web page presenting a strategy is not its text.
+
+**Fixed at step 5** (`corrections.csv`): a draft or validated policy whose own period has ended is not in preparation and places nothing; an implementation plan's period is not the policy's; a ministry's action plan under a government programme is `institution-plan`.
 
 ## 5. The norm
 
@@ -106,10 +110,10 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 - [x] **D2. Review all 54 countries**, method §4: 644 documents in 202 calls, the first pass and then the carried sources and the thin countries' next calls; 266 facts.
 - [x] **D3. Test and fix the ladder**: 228 corrections; 10 at stage 3, 16 at 2, 27 unplaced, one with no evidence.
 - [x] **D4. Search and hand over**, method §5: 54 searches, 66 documents for 40 countries, `notes-for-osint` 227.
-- [ ] **D5. Re-read and stage**, method §7.
-- [ ] **D6. Write, render and lint.** **D7. Report to Bill.**
+- [x] **D5. Re-read and stage**, method §7: 53 of 66 admitted, 68 documents read, 366 facts; agreement 20 of 20.
+- [x] **D6. Write, render and lint.** **D7. Report to Bill.**
 
-**The six rulings of D1 ran unamended** and are §2 to §4 as they stand: only a sector policy is assessed; a law is noted; a minister's adoption counts; an open policy stops at stage 3; the upper ladder is `digitalstrategy`'s; broadband and universal access stay out. `c7b320f36` holds them as asked.
+**The six rulings of D1 ran unamended** and are §2 to §4 as they stand (`c7b320f36`).
 
 ## Boundary
 

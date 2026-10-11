@@ -1,0 +1,18 @@
+{
+  "slug": "2022-05-01-mwi-pdu-ict-digitalization-policy-roadmap-2022-2026-draft",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The Presidential Delivery Unit's Digitalization Labs of 25 April to 10 May 2022 produced a draft National ICT & Digitalization Policy roadmap, with 120 stakeholders consulted and a drafting team led by the Ministry of ICT & Digitalization; the timeline says it will be published by July 2022.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT & Digitalization Policy (draft roadmap 2022-2026)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2026", "fact": "The draft is titled 2022-2026 and every strategy in its implementation plan carries the time frame 2022-2026, though one page calls the resulting policy '2022 to 2027'.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT & Digitalization Policy (draft roadmap 2022-2026)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The draft's implementation plan lists strategies per priority area across nine priority areas, each with a time frame of 2022-2026 and responsibility mostly marked 'TBC', and states no cost.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT & Digitalization Policy (draft roadmap 2022-2026)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The draft names the Ministry of Information, Communication, Technology & Digitalization as responsible for the policy's formulation, monitoring and evaluation, and proposes restructuring the Department of E-Government into a Malawi Information Technology Agency under the ministry.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT & Digitalization Policy (draft roadmap 2022-2026)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The draft ties no budget line to the policy; it lists as a strategy the development of a policy providing for an ICT levy or a proportion of the national budget for ICT development.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT & Digitalization Policy (draft roadmap 2022-2026)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The draft's private-sector analysis cites a survey in which 21 percent of key stakeholders reported being unaware of the national ICT Policy 2013; no adoption date is given, so the policy's year in its name is used.", "as_of": "2013", "date_precision": "year", "system": "National ICT Policy 2013", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT & Digitalization Policy (draft roadmap 2022-2026)", "country_label": "Malawi ICT & Digitalization Policy Roadmap 2022 - 2026 (Draft)", "class": "sector", "platform": "", "owner": "Presidential Delivery Unit; Ministry of Information, Communication, Technology & Digitalization", "tiers": "national; proposed District and Community ICT Committees"},
+    {"system": "National ICT Policy 2013", "country_label": "ICT Policy 2013", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Economy Strategy", "country_label": "forthcoming Digital Economy Strategy", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Malawi 2063", "country_label": "Malawi 2063 (MW2063)", "class": "development-plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

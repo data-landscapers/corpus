@@ -1,0 +1,21 @@
+{
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "2",
+      "governance": "",
+      "standing": "adopted",
+      "text": "",
+      "period": "to:2027",
+      "plan": "",
+      "reporting": "",
+      "last12": "no-change",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001;AGO-002;AGO-004;AGO-014",
+      "gaps": "No row establishes the text of the Livro Branco das TIC 2023-2027 as public: the only text row (AGO-013) is the 2019-2022 White Paper's despacho, the instrument it repealed. Nothing is held on a mandated body, finance, a delivery plan or reporting against the policy, and no dated event falls in the twelve months to the as-at beyond a presidential mention (AGO-015).",
+      "note": "Livro Branco das TIC 2023-2027: adopted by Presidential Decree 272/24 of 5 December 2024 with its period running to 2027, replacing the 2019-2022 White Paper. Stage 3 needs the text public, and no source holds, links or quotes it from an official site, so an adopted policy whose text nobody has found stops at stage 2, unflagged."
+    }
+  ]
+}

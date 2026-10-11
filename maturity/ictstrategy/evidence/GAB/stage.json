@@ -1,0 +1,21 @@
+{
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "2",
+      "governance": "",
+      "standing": "adopted",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001",
+      "gaps": "The one row is a JICA study of March 2022 saying a national ICT policy has been formulated, with no adoption date. The policy's text, period, delivery plan, reporting, mandated body and finance are not held, and nothing is dated inside the twelve months or the 36 months to the as-at.",
+      "note": "Politique nationale des TIC: on record as adopted, but its text has not been found, so it stops at stage 2, unflagged. Stage 3 needs the text public and a period that has not ended or is open."
+    }
+  ]
+}

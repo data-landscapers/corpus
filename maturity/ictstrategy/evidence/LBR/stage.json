@@ -1,0 +1,21 @@
+{
+ "iso3": "LBR",
+ "cells": [
+  {
+   "sub_indicator": "sector",
+   "stage": "2",
+   "governance": "body:mandated;finance:not-stated",
+   "standing": "adopted",
+   "text": "public",
+   "period": "to:2025",
+   "plan": "actions",
+   "reporting": "results",
+   "last12": "no-change",
+   "cap": "",
+   "flags": "lapsed",
+   "stage_sources": "LBR-018;LBR-027;LBR-019;LBR-026;LBR-020;LBR-006;LBR-003",
+   "gaps": "No adoption of the draft National ICT Policy 2025-2030 is on record: it was a draft in January 2025, in consultation with approval targeted for Q4 2025 in the strategy published 2026-02-03, and still called a draft on 2026-09-08. No source inside the 36 months ties the 2019-2024 policy to a budget line; the only finance fact on it is from 2019, and the World Bank's 2020 finding of no authoritative coordinating body is outside the window and contradicted by the 2026 strategy.",
+   "note": "National ICT Policy 2019-2024: adopted in 2019 with its text public, but its period, extended to 2025, has ended, with the National ICT Policy 2025-2030 still in drafting as its successor. Stage 3 needs an adopted policy whose period has not ended."
+  }
+ ]
+}

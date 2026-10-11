@@ -1,0 +1,13 @@
+{
+  "slug": "2024-09-01-zmb-ict-sector-profile",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2026", "fact": "The Zambia Development Agency's ICT Sector Profile cites a '2022 to 2026 ICT Policy Implementation Plan' as a roadmap for ICT investment; no date for the plan's adoption is given, so the document's September 2024 publication date is used.", "as_of": "2024-09", "date_precision": "month", "system": "2022 to 2026 ICT Policy Implementation Plan", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The ZDA profile says the 2022 to 2026 ICT Policy Implementation Plan lists seventeen investment actions, such as international fibre links, district fibre, a national internet exchange point, regional data centres and rural Wi-Fi, with no costs given; publication date 2024-09 used.", "as_of": "2024-09", "date_precision": "month", "system": "2022 to 2026 ICT Policy Implementation Plan", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "2022 to 2026 ICT Policy Implementation Plan", "country_label": "ICT Policy Implementation Plan", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Electronic Government Plan 2023-2026", "country_label": "National Electronic Government Plan", "class": "government", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Eighth National Development Plan (8NDP)", "country_label": "8NDP", "class": "development-plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

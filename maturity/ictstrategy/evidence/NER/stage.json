@@ -1,0 +1,21 @@
+{
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "adopted",
+      "text": "",
+      "period": "to:2020",
+      "plan": "actions",
+      "reporting": "activity",
+      "last12": "",
+      "cap": "",
+      "flags": "under the national strategy;lapsed",
+      "stage_sources": "NER-001;NER-002;NER-008;NER-009",
+      "gaps": "The sector policy's period ended in 2020 and no successor sector policy is on record as adopted or in preparation: what followed it is the Politique nationale du numérique 2021-2030, classed national. Nothing is held on the policy's text, on a mandated body or finance, or on any event in the twelve months to the as-at.",
+      "note": "Document de politique sectorielle des télécommunications et des TIC 2013-2020: adopted by decree 2013-158 of 12 April 2013, its period ended in 2020. Only a sector policy counts as its successor and the national digital strategy followed it, so the cell is unplaced rather than stage 2."
+    }
+  ]
+}

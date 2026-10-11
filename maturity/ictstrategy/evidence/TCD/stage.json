@@ -1,0 +1,21 @@
+{
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "adopted",
+      "text": "",
+      "period": "to:2021",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "TCD-002;TCD-003;TCD-009;TCD-010",
+      "gaps": "The newest adopted sector policy ended in 2021 and no sector policy is on record as its successor or in preparation; what follows it is the national digital strategy (PSDNP 2020-2030), a noted class. The older NICI plan carries a period to 2027 (TCD-008), which disagrees with the period staged, and is not the newest adopted policy. No text, delivery plan, report, mandated body, finance or event in the last twelve months is held for any of the three sector instruments.",
+      "note": "Plan Tchad Numérique 2017-2021: adopted in November 2017 and ended in 2021, with only the national digital strategy following it, so the cell is unplaced, lapsed and under the national strategy. Stage 2 would need a successor sector policy in preparation, and none is on record."
+    }
+  ]
+}

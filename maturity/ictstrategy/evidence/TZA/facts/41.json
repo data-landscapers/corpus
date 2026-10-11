@@ -1,0 +1,17 @@
+{
+  "slug": "2016-12-01-tza-national-information-and-communications-technology-policy-2016-impleme",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Minister for Works, Transport and Communication's foreword of December 2016 presents the National ICT Policy 2016 as formulated by the Government, replacing the 2003 policy, and the document is its five-year implementation strategy.", "as_of": "2016-12", "date_precision": "month", "system": "National ICT Policy 2016 (NICTP 2016)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2021", "fact": "The implementation strategy for the National ICT Policy 2016 covers the five years 2016/17 to 2020/21; the policy text itself is not given a period in this document.", "as_of": "2016-12", "date_precision": "month", "system": "National ICT Policy 2016 (NICTP 2016)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "costed", "fact": "The strategy estimates Tsh. 248.2 billion is required over 2016/17 to 2020/21, financed from Government budget, development partners and the private sector, with a logframe of 22 objectives giving targets, indicators, resources per strategy, time frames and responsible institutions.", "as_of": "2016-12", "date_precision": "month", "system": "National ICT Policy 2016 (NICTP 2016)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "Each logframe strategy names responsible institutions, and the Ministry of Works, Transport and Communication issues the strategy, with the sector regulator TCRA assigned enforcement of laws and regulations.", "as_of": "2016-12", "date_precision": "month", "system": "National ICT Policy 2016 (NICTP 2016)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The document names Government budget among three financing sources without tying a budget line to the policy, and lists adequate and timely budget allocations as an assumption.", "as_of": "2016-12", "date_precision": "month", "system": "National ICT Policy 2016 (NICTP 2016)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy 2016 (NICTP 2016)", "country_label": "National Information and Communications Technology Policy 2016", "class": "sector", "platform": "", "owner": "Ministry of Works, Transport and Communication", "tiers": ""},
+    {"system": "National ICT Policy 2016 Implementation Strategy 2016/17 - 2020/21", "country_label": "National ICT Policy 2016 Implementation Strategy", "class": "sector", "platform": "", "owner": "Ministry of Works, Transport and Communication", "tiers": ""},
+    {"system": "National ICT Policy 2003 (NICTP 2003)", "country_label": "National ICT Policy 2003", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National ICT Broadband Backbone (NICTBB)", "country_label": "NICTBB", "class": "programme", "platform": "", "owner": "Government of Tanzania", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-12-zwe-govt-develops-new-ict-policy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "announced",
+     "fact": "The Herald reports the ICT Minister saying at a POTRAZ planning workshop in Mutare that Government has developed a new National ICT Policy replacing the outdated 2016 policy; the article gives no adoption or launch date, so the event is dated to the workshop week, early October 2023.",
+     "as_of": "2023-10", "date_precision": "month", "system": "National Information Communication Technology Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Information Communication Technology Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of Information Communication Technology, Postal and Courier Services", "tiers": "national"},
+    {"system": "ICT Policy 2016", "country_label": "2016 ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of Information Communication Technology, Postal and Courier Services", "tiers": "national"},
+    {"system": "National Broadband Plan", "country_label": "National Broadband Plan", "class": "", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Smart Zimbabwe Master Plan", "country_label": "Smart Zimbabwe Master Plan", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-RWA,sector,governance,qualifier,body:mandated,2025-01-01,RWA-005,,not stated: finance
-RWA,sector,standing,coverage,adopted,2026-09-28,RWA-001;RWA-006,,
+RWA,sector,governance,qualifier,body:mandated,2025-01-01,RWA-005,RWA-017=body:mandated,not stated: finance
+RWA,sector,standing,coverage,adopted,2026-09-28,RWA-001;RWA-006,RWA-016=validated,
 RWA,sector,text,coverage,public,2025-01-01,RWA-002,,
 RWA,sector,period,coverage,to:2029,2026-07-29,RWA-003;RWA-008;RWA-010;RWA-012,RWA-013=to:2024;RWA-015=to:2024,
-RWA,sector,plan,coverage,costed,2025-01-01,RWA-004,RWA-007=actions;RWA-011=actions,
-RWA,sector,reporting,coverage,results,2023-10-26,RWA-014,,
+RWA,sector,plan,coverage,costed,2025-01-01,RWA-004,RWA-007=actions;RWA-011=actions;RWA-018=actions,
+RWA,sector,reporting,coverage,results,2024-11-22,RWA-014;RWA-019,,
 RWA,sector,last12,qualifier,advancing,2026-07-24,RWA-009,,

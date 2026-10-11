@@ -1,0 +1,14 @@
+{
+  "slug": "2025-06-01-lso-consultancy-services-for-review-of-the-lesotho-communications-policy-2",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "announced", "fact": "A tender notice states the Ministry (MICSTI) requires consultants to review and evaluate the Lesotho Communications Policy 2008 and to draft a Lesotho Communications Policy (2025), with bids closing 21 July 2025; the page is undated and 2025-06 is its published proxy date.", "as_of": "2025-06", "date_precision": "month", "system": "Lesotho Communications Policy (2025)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The notice states MICSTI will review the Communications Policy 2008 and the Communications Act 2012 in collaboration with the Lesotho Communications Authority, which receives the bids.", "as_of": "2025-06", "date_precision": "month", "system": "Lesotho Communications Policy (2025)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Lesotho Communications Policy 2008", "country_label": "Lesotho Communications Policy (2008)", "class": "sector", "platform": "", "owner": "MICSTI with the Lesotho Communications Authority", "tiers": "national"},
+    {"system": "Lesotho Communications Policy (2025)", "country_label": "Lesotho Communications Policy (2025), to be drafted", "class": "sector", "platform": "", "owner": "MICSTI with the Lesotho Communications Authority", "tiers": "national"},
+    {"system": "Lesotho Digital Transformation Strategy - Agenda 2030", "country_label": "Lesotho Digital Transformation Strategy - Agenda 2030", "class": "national", "platform": "", "owner": "Government of Lesotho", "tiers": "national"},
+    {"system": "Communications Act 2012", "country_label": "Communications Act (2012)", "class": "law", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

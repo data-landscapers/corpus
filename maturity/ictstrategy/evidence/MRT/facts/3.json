@@ -3,11 +3,11 @@
  "facts": [],
  "systems": [
   {
-   "system": "Agenda National de Transformation Numérique 2022-2025",
-   "country_label": "Agenda National de Transformation Numérique 2022-2025",
+   "system": "Agenda National de Transformation NumÃ©rique 2022-2025",
+   "country_label": "Agenda National de Transformation NumÃ©rique 2022-2025",
    "class": "national",
    "platform": "",
-   "owner": "Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration",
+   "owner": "MinistÃ¨re de la Transformation numÃ©rique, de l'Innovation et de la Modernisation de l'Administration",
    "tiers": "national"
   }
  ],

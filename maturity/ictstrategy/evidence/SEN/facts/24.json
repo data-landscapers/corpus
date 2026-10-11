@@ -1,0 +1,9 @@
+{
+  "slug": "2025-02-10-sen-mctn-validation-finale-de-la-lettre-de-politique-sectorielle-2025-2029",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "validated", "fact": "APS reports that the ministry's secretary general chaired the final validation workshop for the Lettre de Politique Sectorielle 2025-2029 with the ecosystem's actors; no adoption is reported.", "as_of": "2025-02-10", "date_precision": "day", "system": "Lettre de Politique Sectorielle (LPS) 2025-2029", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2029", "fact": "APS gives the Lettre de Politique Sectorielle's period as 2025-2029; the date is the article's published date, the workshop being held on a Monday.", "as_of": "2025-02-10", "date_precision": "day", "system": "Lettre de Politique Sectorielle (LPS) 2025-2029", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

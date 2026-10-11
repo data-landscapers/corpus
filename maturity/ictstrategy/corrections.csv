@@ -227,3 +227,105 @@ ZWE,011,text,public,named,Zimbabwe National Policy for Information and Communica
 ZWE,012,plan,actions,named,Zimbabwe National Policy for Information and Communications Technology (ICT): read as National ICT Policy 2016-2020
 ZWE,013,governance,body:mandated,named,Zimbabwe National Policy for Information and Communications Technology (ICT): read as National ICT Policy 2016-2020
 ZWE,014,governance,finance:not-stated,named,Zimbabwe National Policy for Information and Communications Technology (ICT): read as National ICT Policy 2016-2020
+AGO,015,standing,adopted,named,Livro Branco das TIC: read as Livro Branco das TIC 2023-2027
+CMR,001,standing,validated,named,"Stratégie sectorielle des Postes, Télécommunications et TIC: read as Stratégie sectorielle des postes, télécommunications et TIC 2005"
+CMR,002,period,to:2015,named,"Stratégie sectorielle des Postes, Télécommunications et TIC: read as Stratégie sectorielle des postes, télécommunications et TIC 2005"
+CMR,003,plan,actions,named,"Stratégie sectorielle des Postes, Télécommunications et TIC: read as Stratégie sectorielle des postes, télécommunications et TIC 2005"
+COG,003,standing,adopted,named,politique nationale de développement des TIC: read as National ICT Policy
+COM,001,standing,adopted,named,sectoral policy: read as Politique sectorielle des télécommunications et du numérique
+COM,002,standing,announced,named,nouvelle politique sectorielle: read as Politique sectorielle des télécommunications et du numérique
+DJI,002,standing,adopted,named,Schéma Stratégique Intégré (SSI): read as Schéma stratégique intégré (SSI) 2014-2024
+DJI,003,period,to:2024,named,Schéma Stratégique Intégré (SSI): read as Schéma stratégique intégré (SSI) 2014-2024
+DJI,004,standing,adopted,named,integrated ICT Sector Strategic Plan (2014-2024): read as Schéma stratégique intégré (SSI) 2014-2024
+DJI,005,period,to:2024,named,integrated ICT Sector Strategic Plan (2014-2024): read as Schéma stratégique intégré (SSI) 2014-2024
+DZA,001,governance,body:mandated,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,002,standing,adopted,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,003,period,to:2024,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,004,plan,actions,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,005,reporting,results,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,006,governance,body:mandated,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,007,governance,finance:domestic,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,008,standing,adopted,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,009,period,to:2024,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,010,plan,actions,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+DZA,011,reporting,results,classed institution-plan,Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024): Plan d'action du secteur de la poste et des télécommunications
+ERI,001,standing,none,named,National ICT Policy: read as No ICT sector policy
+ERI,002,plan,none,named,National ICT Development Plan: read as No ICT sector policy
+ETH,001,standing,adopted,named,National ICT Policy and Strategy (2016): read as National ICT Policy and Strategy 2016
+ETH,002,governance,body:mandated,named,National ICT Policy and Strategy (2016): read as National ICT Policy and Strategy 2016
+ETH,003,standing,adopted,named,National ICT Policy: read as National ICT Policy and Strategy 2016
+ETH,004,governance,finance:donor,named,National ICT Policy: read as National ICT Policy and Strategy 2016
+ETH,005,governance,body:mandated,named,National ICT Policy: read as National ICT Policy and Strategy 2016
+GHA,005,standing,adopted,named,Ghana ICT for Accelerated Development (ICT4AD) Policy: read as ICT for Accelerated Development (ICT4AD) Policy
+GHA,006,text,public,named,Ghana ICT for Accelerated Development (ICT4AD) Policy: read as ICT for Accelerated Development (ICT4AD) Policy
+GHA,007,period,to:2022,named,Ghana ICT for Accelerated Development (ICT4AD) Policy: read as ICT for Accelerated Development (ICT4AD) Policy
+GHA,008,plan,actions,named,Ghana ICT for Accelerated Development (ICT4AD) Policy: read as ICT for Accelerated Development (ICT4AD) Policy
+GHA,009,governance,body:mandated,named,Ghana ICT for Accelerated Development (ICT4AD) Policy: read as ICT for Accelerated Development (ICT4AD) Policy
+LSO,008,standing,announced,named,Lesotho Communications Policy (2025): read as Lesotho Communications Policy (review of the 2008 policy)
+LSO,009,governance,body:mandated,named,Lesotho Communications Policy (2025): read as Lesotho Communications Policy (review of the 2008 policy)
+LSO,015,text,public,named,ICT Policy for Lesotho: read as ICT Policy for Lesotho 2005
+LSO,016,period,to:2020,named,ICT Policy for Lesotho: read as ICT Policy for Lesotho 2005
+LSO,017,governance,body:mandated,named,ICT Policy for Lesotho: read as ICT Policy for Lesotho 2005
+LSO,018,governance,finance:not-stated,named,ICT Policy for Lesotho: read as ICT Policy for Lesotho 2005
+MDG,001,standing,adopted,named,Politique Nationale des Technologies de l'Information et de la Communication pour le Developpement: read as Politique nationale des TIC pour le développement 2004
+MDG,002,plan,actions,named,Politique Nationale des Technologies de l'Information et de la Communication pour le Developpement: read as Politique nationale des TIC pour le développement 2004
+MDG,003,reporting,results,named,Politique Nationale des Technologies de l'Information et de la Communication pour le Developpement: read as Politique nationale des TIC pour le développement 2004
+MOZ,011,standing,adopted,named,Política para a Sociedade da Informação: read as Política para a Sociedade da Informação 2018
+MOZ,012,text,public,named,Política para a Sociedade da Informação: read as Política para a Sociedade da Informação 2018
+MOZ,013,period,open,named,Política para a Sociedade da Informação: read as Política para a Sociedade da Informação 2018
+MOZ,014,plan,actions,named,Política para a Sociedade da Informação: read as Política para a Sociedade da Informação 2018
+MOZ,015,governance,body:mandated,named,Política para a Sociedade da Informação: read as Política para a Sociedade da Informação 2018
+MOZ,016,governance,finance:not-stated,named,Política para a Sociedade da Informação: read as Política para a Sociedade da Informação 2018
+MRT,001,standing,adopted,named,Declaration de politique sectorielle: read as Déclaration de politique sectorielle 2013
+MRT,002,standing,adopted,classed national,Strategie TIC (mise a jour 2012): Stratégie nationale de modernisation de l'administration et des TIC 2012-2016
+MRT,003,standing,drafting,classed national,Strategie nationale des TIC: Stratégie nationale de modernisation de l'administration et des TIC 2012-2016
+MWI,009,standing,drafting,named,National ICT & Digitalization Policy (draft roadmap 2022-2026): read as National ICT and Digitalization Policy (draft of 2022)
+MWI,010,period,to:2026,named,National ICT & Digitalization Policy (draft roadmap 2022-2026): read as National ICT and Digitalization Policy (draft of 2022)
+MWI,011,plan,actions,named,National ICT & Digitalization Policy (draft roadmap 2022-2026): read as National ICT and Digitalization Policy (draft of 2022)
+MWI,012,governance,body:mandated,named,National ICT & Digitalization Policy (draft roadmap 2022-2026): read as National ICT and Digitalization Policy (draft of 2022)
+MWI,013,governance,finance:not-stated,named,National ICT & Digitalization Policy (draft roadmap 2022-2026): read as National ICT and Digitalization Policy (draft of 2022)
+NER,008,standing,adopted,named,Document de politique sectorielle des télécommunications et des TIC (2013-2020): read as Document de politique sectorielle des télécommunications et des TIC 2013-2020
+NER,009,period,to:2020,named,Document de politique sectorielle des télécommunications et des TIC (2013-2020): read as Document de politique sectorielle des télécommunications et des TIC 2013-2020
+NER,010,plan,actions,named,Document de politique sectorielle des télécommunications et des TIC (2013-2020): read as Document de politique sectorielle des télécommunications et des TIC 2013-2020
+NER,011,standing,drafting,classed national,Niger Numérique 2021-2030: Politique nationale du numérique 2021-2030
+NER,012,period,to:2030,classed national,Niger Numérique 2021-2030: Politique nationale du numérique 2021-2030
+NGA,009,standing,drafting,named,National Telecommunications Policy 2026: read as National Telecommunications Policy (rewrite)
+NGA,010,governance,body:mandated,named,National Telecommunications Policy 2026: read as National Telecommunications Policy (rewrite)
+NGA,013,last12,advancing,named,National Telecommunications Policy 2026: read as National Telecommunications Policy (rewrite)
+NGA,017,period,to:2005,withdrawn,an end year the drafter derived; the source states none (NGA-011)
+RWA,016,standing,validated,named,ICT Sector Strategic Plan (SSP) aligned to NST2: read as ICT Sector Strategic Plan 2024-2029
+RWA,017,governance,body:mandated,named,ICT Sector Strategic Plan (SSP) aligned to NST2: read as ICT Sector Strategic Plan 2024-2029
+RWA,018,plan,actions,named,ICT Sector Strategic Plan (SSP) aligned to NST2: read as ICT Sector Strategic Plan 2024-2029
+RWA,019,reporting,results,named,ICT Sector Strategic Plan (SSP) aligned to NST2: read as ICT Sector Strategic Plan 2018-2024
+SEN,001,standing,validated,named,Lettre de Politique Sectorielle (LPS) du MTN: read as Lettre de politique sectorielle 2025-2029
+SEN,002,standing,validated,named,Lettre de Politique Sectorielle (LPS) 2025-2029: read as Lettre de politique sectorielle 2025-2029
+SEN,003,period,to:2029,named,Lettre de Politique Sectorielle (LPS) 2025-2029: read as Lettre de politique sectorielle 2025-2029
+SOM,019,standing,adopted,named,National ICT Policy: read as National ICT Policy and Strategy 2025-2029
+TGO,001,standing,adopted,named,déclaration de politique du secteur de l'économie numérique 2018-2022: read as Déclaration de politique du secteur de l'économie numérique 2018-2022
+TGO,002,period,to:2022,named,déclaration de politique du secteur de l'économie numérique 2018-2022: read as Déclaration de politique du secteur de l'économie numérique 2018-2022
+TGO,003,governance,body:mandated,named,déclaration de politique du secteur de l'économie numérique 2018-2022: read as Déclaration de politique du secteur de l'économie numérique 2018-2022
+TZA,010,standing,validated,named,National ICT Policy 2023: read as National ICT Policy (review of the 2016 policy)
+TZA,011,text,public,named,National ICT Policy 2023: read as National ICT Policy (review of the 2016 policy)
+TZA,012,period,open,named,National ICT Policy 2023: read as National ICT Policy (review of the 2016 policy)
+TZA,013,plan,none,named,National ICT Policy 2023: read as National ICT Policy (review of the 2016 policy)
+TZA,014,reporting,none,named,National ICT Policy 2023: read as National ICT Policy (review of the 2016 policy)
+TZA,015,governance,body:mandated,named,National ICT Policy 2023: read as National ICT Policy (review of the 2016 policy)
+TZA,016,governance,finance:not-stated,named,National ICT Policy 2023: read as National ICT Policy (review of the 2016 policy)
+TZA,017,standing,adopted,named,National ICT Policy 2016 (NICTP 2016): read as National ICT Policy 2016
+TZA,018,period,to:2021,withdrawn,"the period is the implementation strategy's, 2016/17 to 2020/21; the policy states none"
+TZA,019,plan,costed,named,National ICT Policy 2016 (NICTP 2016): read as National ICT Policy 2016
+TZA,020,governance,body:mandated,named,National ICT Policy 2016 (NICTP 2016): read as National ICT Policy 2016
+TZA,021,governance,finance:not-stated,named,National ICT Policy 2016 (NICTP 2016): read as National ICT Policy 2016
+UGA,010,standing,validated,named,National ICT Policy: read as National ICT Policy (draft of 2022)
+UGA,011,standing,drafting,named,National ICT Policy 2022 (final draft): read as National ICT Policy (draft of 2022)
+UGA,013,text,public,named,National ICT Policy 2022 (final draft): read as National ICT Policy (draft of 2022)
+UGA,014,plan,none,named,National ICT Policy 2022 (final draft): read as National ICT Policy (draft of 2022)
+UGA,015,governance,body:mandated,named,National ICT Policy 2022 (final draft): read as National ICT Policy (draft of 2022)
+UGA,016,governance,finance:not-stated,named,National ICT Policy 2022 (final draft): read as National ICT Policy (draft of 2022)
+ZAF,010,standing,adopted,named,National Integrated ICT Policy White Paper: read as National Integrated ICT Policy White Paper 2016
+ZAF,011,governance,body:mandated,named,National Integrated ICT Policy White Paper: read as National Integrated ICT Policy White Paper 2016
+ZAF,012,reporting,activity,named,National Integrated ICT Policy White Paper: read as National Integrated ICT Policy White Paper 2016
+ZMB,013,period,to:2026,withdrawn,the period is the implementation plan's; the policy's own text states none (ZMB-007)
+ZMB,014,plan,actions,named,2022 to 2026 ICT Policy Implementation Plan: read as National ICT Policy 2023
+ZWE,015,standing,announced,named,National Information Communication Technology Policy: read as National ICT Policy 2022-2027
+SWZ,003,period,to:2016,withdrawn,"the period is the draft implementation plan's, 2012 to 2016; the policy states none"

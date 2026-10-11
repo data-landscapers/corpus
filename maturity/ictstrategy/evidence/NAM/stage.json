@@ -1,0 +1,21 @@
+{
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "2",
+      "governance": "body:mandated;finance:not-stated",
+      "standing": "adopted",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "NAM-001",
+      "gaps": "The text of the National ICT Policy 2026 is not held and no source links or quotes it from an official site. Its period is given only as 'the next five years' with no end year, and no delivery plan, report against it or budget line is on record. The to:2022 period in the profile belongs to the earlier National ICT Policy / Broadband Policy 2018-2022, not to this instrument.",
+      "note": "National ICT Policy 2026: the newest adopted sector policy, launched by the ICT minister in January 2026. It is adopted but its text has not been found, so it stops at stage 2 and not 3."
+    }
+  ]
+}

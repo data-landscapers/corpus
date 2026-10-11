@@ -1,0 +1,13 @@
+{"slug":"2019-01-01-eth-ethiopia-national-ict-policy-profile","facts":[
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"IST-Africa's profile says Ethiopia's ICT policy, first drafted and submitted to the Council of Ministers in 2002, was revised and endorsed by the Council of Ministers in 2017.","as_of":"2017","date_precision":"year","system":"National ICT Policy","class":"sector"},
+{"sub_indicator":"sector","aspect":"governance","value":"finance:donor","fact":"IST-Africa's profile says the ICT policy was revised in 2017 with financial support from the World Bank; it states no domestic budget line.","as_of":"2017","date_precision":"year","system":"National ICT Policy","class":"sector"},
+{"sub_indicator":"sector","aspect":"governance","value":"body:mandated","fact":"IST-Africa's profile says the Ministry of Communication and Information Technology was established by Proclamation 691 in October 2010 for policy planning, development and implementation of ICT, and was merged with the Ministry of Science and Technology into the Ministry of Innovation and Technology in October 2018.","as_of":"2018-10","date_precision":"month","system":"National ICT Policy","class":"sector"},
+{"sub_indicator":"sector","aspect":"standing","value":"adopted","fact":"IST-Africa's profile says the National ICT Policy and Strategy 2009 set five objectives, among them accessible ICT infrastructure, skilled human resources, a legal framework, e-government and private-sector development.","as_of":"2009","date_precision":"year","system":"National ICT Policy and Strategy 2009","class":"sector"}
+],
+"systems":[
+{"system":"National ICT Policy","country_label":"National ICT Policy (revised 2017)","class":"sector","platform":"","owner":"Ministry of Innovation and Technology","tiers":""},
+{"system":"National ICT Policy and Strategy 2009","country_label":"National ICT Policy and Strategy 2009","class":"sector","platform":"","owner":"","tiers":""},
+{"system":"ICT4AD Plan","country_label":"ICT4AD Plan","class":"","platform":"","owner":"","tiers":""},
+{"system":"National Science, Technology and Innovation Policy (2012)","country_label":"National STI Policy","class":"","platform":"","owner":"Ministry of Science and Technology","tiers":""}
+],
+"note":"Undated profile (published date is a year proxy; latest facts November 2018); no text link, period, delivery plan or results report stated."}

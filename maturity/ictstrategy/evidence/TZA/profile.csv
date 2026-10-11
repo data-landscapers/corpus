@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,sector,governance,qualifier,body:mandated,2024-11,TZA-006,,not stated: finance
-TZA,sector,standing,coverage,adopted,2025-06-25,TZA-001;TZA-003;TZA-004;TZA-007;TZA-008;TZA-009,TZA-005=drafting,
-TZA,sector,text,coverage,public,2016-05,TZA-002,,nothing dated since 2023-10-11
-TZA,sector,period,coverage,,,,,nothing held
-TZA,sector,plan,coverage,,,,,nothing held
-TZA,sector,reporting,coverage,,,,,nothing held
+TZA,sector,governance,qualifier,body:mandated;finance:not-stated,2024-11,TZA-006;TZA-016,TZA-015=body:mandated;TZA-020=body:mandated;TZA-021=finance:not-stated,
+TZA,sector,standing,coverage,adopted,2025-06-25,TZA-001;TZA-003;TZA-004;TZA-007;TZA-008;TZA-009;TZA-017,TZA-010=validated;TZA-005=drafting,
+TZA,sector,text,coverage,public,2023-06,TZA-002;TZA-011,,nothing dated since 2023-09-28
+TZA,sector,period,coverage,open,2023-06,TZA-012,,nothing dated since 2023-09-28
+TZA,sector,plan,coverage,costed,2016-12,TZA-019,TZA-013=none,nothing dated since 2023-09-28
+TZA,sector,reporting,coverage,none,2023-06,TZA-014,,nothing dated since 2023-09-28
 TZA,sector,last12,qualifier,,,,,nothing held

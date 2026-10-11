@@ -1,0 +1,21 @@
+{
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "body:mandated;finance:not-stated",
+      "standing": "adopted",
+      "text": "",
+      "period": "to:2025",
+      "plan": "",
+      "reporting": "none",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "SDN-003;SDN-004",
+      "gaps": "The strategy's period ended in 2025, before the as-at, and no row records a successor sector policy announced, in drafting or validated. No text, delivery plan or dated adoption is held, and no dated event falls in the last twelve months.",
+      "note": "National ICT Strategy 2021-2025: adopted, but its period ended in 2025 with no successor sector policy in preparation, so stage 2 is not met and the cell is unplaced and lapsed. A national digital strategy is held, which is a noted class and places nothing."
+    }
+  ]
+}

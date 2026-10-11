@@ -1,0 +1,21 @@
+{
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "2",
+      "governance": "",
+      "standing": "adopted",
+      "text": "",
+      "period": "to:2028",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-003;GMB-004",
+      "gaps": "No source holds, links or quotes the policy's text, and none says it is unpublished. Nothing is held on a delivery plan, reporting, a mandated body or finance, or on any event in the twelve months to the as-at; GMB-001 and GMB-002 are dated October 2026, after the as-at, and set nothing.",
+      "note": "ICT4D Policy Statement 2018-2028: the ministry's 2025 presentation lists it among existing policies with a period running to 2028, so it is adopted and not ended. Its text has not been found, and an adopted policy whose text nobody has found stops at stage 2, unflagged, rather than reaching stage 3."
+    }
+  ]
+}

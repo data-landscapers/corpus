@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-15-ago-mensagem-sobre-o-estado-da-nacao-2025",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "MINTTICS reports that in the 2025 State of the Nation message President Lourenco highlighted the ICT White Paper (Livro Branco das TIC) and its policy instruments as having moved the sector from reform to development to leadership stage; the report gives no date of the event, so the published date is used.", "as_of": "2025-10-15", "date_precision": "day", "system": "Livro Branco das TIC", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Livro Branco das TIC", "country_label": "Livro Branco das TIC", "class": "sector", "platform": "", "owner": "MINTTICS", "tiers": "national"},
+    {"system": "Conecta Angola", "country_label": "Projeto Conecta Angola", "class": "programme", "platform": "ANGOSAT-2", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

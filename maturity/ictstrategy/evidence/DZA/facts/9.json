@@ -1,0 +1,76 @@
+{
+ "slug": "2022-05-25-dza-lapatrienews-interview-bibi-triki-mpt",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The Minister of Post and Telecommunications describes the ministry as running the sector action plan within the government programme, with Algerie Telecom, Algerie Poste and the mobile operators executing it (interview published 2022-05-25, the date used).",
+   "as_of": "2022-05-25",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "finance:domestic",
+   "fact": "The minister says coverage is financed by operators' own investment under their licence terms and, for small isolated localities, by the State's Universal Service Fund; no budget figure is given (interview published 2022-05-25, the date used).",
+   "as_of": "2022-05-25",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The minister speaks of the sector action plan within the government programme and of the roadmap the sector has adopted, with results already obtained (interview published 2022-05-25, the date used).",
+   "as_of": "2022-05-25",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2024",
+   "fact": "The minister states the sector action plan's targets run to 2024: connect two thirds of homes, 6 million fixed-internet subscribers, 6 million FTTH homes in the end (interview published 2022-05-25).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "plan",
+   "value": "actions",
+   "fact": "The plan has dated targets with no cost stated: 2 million additional fixed-internet homes by end-2024, migration from copper to FTTH, new spectrum allocations, 4G generalisation, 600 ATMs in 2022 on top of 1,400.",
+   "as_of": "2022-05-25",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "reporting",
+   "value": "results",
+   "fact": "The minister claims intermediate results without a report: 3.4 million fixed subscribers at end-2019 plus 600,000 in two years and 200,000 in Q1 2022, against the 6 million target; ministry's own claims in an interview (published 2022-05-25).",
+   "as_of": "2022-05-25",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "country_label": "Plan d'action du secteur / feuille de route",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

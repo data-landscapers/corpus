@@ -1,0 +1,10 @@
+{
+  "slug": "2019-04-04-mrt-mesrstic-secteur-tic-projet-rimpki-itu-tunis",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The ministry's presentation states that a new sector policy declaration (Declaration de politique sectorielle) was adopted in January 2013 around four pillars: competition and investment, consumer protection, sector spillovers for the economy, and better regulation.", "as_of": "2013-01", "date_precision": "month", "system": "Declaration de politique sectorielle", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The ministry states that ICT development in Mauritania has been framed by the ICT Strategy updated in 2012, organised around six axes (access, legal and institutional framework, public service, e-government, digital economy, sector technology support).", "as_of": "2012", "date_precision": "year", "system": "Strategie TIC (mise a jour 2012)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The ministry states that, at the time of the presentation, an evaluation of the ICT strategy and the definition of its axes to the 2022 horizon were under way; no date is given beyond the document's own published date of 2019-04-04.", "as_of": "2019-04-04", "date_precision": "day", "system": "Strategie nationale des TIC", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

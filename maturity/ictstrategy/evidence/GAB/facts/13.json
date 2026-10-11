@@ -1,0 +1,10 @@
+{
+  "slug": "2022-03-01-jica-etude-de-base-numerisation-services-publics-pays-africains",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The JICA baseline study states that Gabon has formulated a national ICT policy consistent with the PSGE Vision 2025; it gives no adoption date, so the date is the report's publication, March 2022.", "as_of": "2022-03", "date_precision": "month", "system": "Politique nationale des TIC", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Politique nationale des TIC", "country_label": "Politique nationale des TIC", "class": "sector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

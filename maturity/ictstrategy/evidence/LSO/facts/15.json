@@ -1,0 +1,14 @@
+{
+  "slug": "2005-03-04-lso-ict-policy-for-lesotho",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full final text of the ICT Policy for Lesotho, dated 4 March 2005 with a foreword by the Minister of Communications, Science and Technology, is held and hosted by the Lesotho Communications Authority.", "as_of": "2005-03-04", "date_precision": "day", "system": "ICT Policy for Lesotho", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2020", "fact": "The policy's vision is a knowledge-based society fully integrated in the global economy by 2020, with deployment results anticipated by 2015.", "as_of": "2005-03-04", "date_precision": "day", "system": "ICT Policy for Lesotho", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The policy makes the ICT Department of the Ministry of Communications, Science and Technology the lead implementing body, charged with coordination, planning and monitoring and evaluation.", "as_of": "2005-03-04", "date_precision": "day", "system": "ICT Policy for Lesotho", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The policy says the ICT Department is to submit an annual government-funded budget and mobilise external resources, but ties no budget line or amount to the policy.", "as_of": "2005-03-04", "date_precision": "day", "system": "ICT Policy for Lesotho", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "ICT Policy for Lesotho", "country_label": "ICT Policy for Lesotho", "class": "sector", "platform": "", "owner": "Ministry of Communications, Science and Technology (ICT Department)", "tiers": "national"},
+    {"system": "Lesotho Telecommunications Policy 1999", "country_label": "Lesotho Telecommunications Policy of 1999", "class": "sector", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "The text itself does not state its adoption; adoption in 2005 is stated by other documents. Delivery plan: the text only says a master plan and action plans are to be developed, so no fact."
+}

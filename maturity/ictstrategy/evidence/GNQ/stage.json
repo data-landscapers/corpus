@@ -1,0 +1,21 @@
+{
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "under the national strategy",
+      "stage_sources": "",
+      "gaps": "evidence.csv holds no row for GNQ and instruments.csv names no instrument for it, so no ICT or telecommunications sector policy is on record as adopted, in preparation or absent. The neighbouring study holds a national digital strategy (stage 2), which is a noted class and places nothing.",
+      "note": "No instrument: no sector policy is on record to stage on. Unplaced rather than no evidence because section 4 leaves a country holding a national digital strategy and no sector policy in force unplaced and flagged; stage 1 is barred by the same holding and by the lack of a dated statement of absence."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2022-03-01-jica-etude-de-base-numerisation-services-publics-pays-africains",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The JICA study describes the Politique Nationale des TIC pour le Developpement, formulated in 2004 by the MPTDN with UNDP support, as the Malagasy government's main ICT policy; it gives no adoption act.", "as_of": "2004", "date_precision": "year", "system": "Politique Nationale des Technologies de l'Information et de la Communication pour le Developpement", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The policy sets seven strategic objectives with dated targets, including a digital network covering every fivondronana by 2015 and 10 million ICT users and 30,000 ICT engineers within ten years; the document states no cost.", "as_of": "2004", "date_precision": "year", "system": "Politique Nationale des Technologies de l'Information et de la Communication pour le Developpement", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "results", "fact": "The JICA study assesses progress against the policy's objectives: legal and regulatory reform (objective 6) is relatively advanced, while network extension (1) and ICT engineer training (4) are behind for lack of funds.", "as_of": "2022-03", "date_precision": "month", "system": "Politique Nationale des Technologies de l'Information et de la Communication pour le Developpement", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Politique Nationale des Technologies de l'Information et de la Communication pour le Developpement", "country_label": "Politique nationale de developpement des TIC", "class": "sector", "platform": "", "owner": "MPTDN, with UNDP support", "tiers": "national"},
+    {"system": "PROGIDY", "country_label": "PROGIDY", "class": "government", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Unite de Gouvernance Digitale (UGD) e-governance programme", "country_label": "UGD", "class": "government", "platform": "", "owner": "Presidency, created August 2021", "tiers": "national"}
+  ],
+  "note": ""
+}

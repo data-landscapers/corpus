@@ -1,0 +1,16 @@
+{
+  "slug": "2024-11-22-rwa-backward-looking-joint-ict-sector-review-2023-2024fy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "validated", "fact": "The Ministry of ICT and Innovation convened the sector review on 22 November 2024 with the stated objective of validating the ICT Sector Strategic Plan aligned to NST2, including its Theory of Change, M&E matrix and Implementation Plan, and the document presents the plan's outcomes as discussed.", "as_of": "2024-11-22", "date_precision": "day", "system": "ICT Sector Strategic Plan (SSP) aligned to NST2", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "MINICT convened the ICT Sector Working Group review of the sector plan under the guidance of MINECOFIN, which the document presents as the body overseeing implementation and monitoring.", "as_of": "2024-11-22", "date_precision": "day", "system": "ICT Sector Strategic Plan (SSP) aligned to NST2", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The document sets out the plan's goal, priority areas and outcomes with listed actions and numeric targets (for example 1.5 million citizens trained in coding and ICT skills, 50,000 digital jobs) and an Implementation Plan to be validated, but states no costs and gives no dates for the actions.", "as_of": "2024-11-22", "date_precision": "day", "system": "ICT Sector Strategic Plan (SSP) aligned to NST2", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "results", "fact": "The review reports FY2023/24 progress against NST1/SSP targets on some objectives, for example digitised public services at 91% against the NST1 target of 100% by 2024 and youth digital literacy at 86.8% against a target of 100%, but not on every objective.", "as_of": "2024-11-22", "date_precision": "day", "system": "ICT Sector Strategic Plan (SSP) aligned to NST2", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "ICT Sector Strategic Plan (SSP) aligned to NST2", "country_label": "ICT Sector Strategic Plan", "class": "sector", "platform": "", "owner": "Ministry of ICT and Innovation (MINICT)", "tiers": "national"},
+    {"system": "National Strategy for Transformation (NST1 and NST2)", "country_label": "NST1 / NST2", "class": "development-plan", "platform": "", "owner": "Government of Rwanda; MINECOFIN", "tiers": "national"},
+    {"system": "National Data Revolution Policy", "country_label": "National Data Revolution Policy", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Artificial Intelligence policy", "country_label": "AI policy", "class": "subsector", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

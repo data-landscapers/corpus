@@ -1,0 +1,21 @@
+{
+ "iso3": "EGY",
+ "cells": [
+  {
+   "sub_indicator": "sector",
+   "stage": "unplaced",
+   "governance": "",
+   "standing": "",
+   "text": "",
+   "period": "to:2030",
+   "plan": "",
+   "reporting": "",
+   "last12": "",
+   "cap": "",
+   "flags": "under the national strategy",
+   "stage_sources": "EGY-001",
+   "gaps": "The one row gives the ICT 2030 Strategy's period and nothing else: no source states that it was adopted, is in drafting or was announced, and the ministry web page presenting it is not its text. Governance, delivery plan, reporting and the last twelve months are not held.",
+   "note": "ICT 2030 Strategy: its period runs to 2030, but its standing is not on record, so no rung can be set. Stage 2 needs a standing of announced or beyond, and stage 3 an adopted policy with a public text."
+  }
+ ]
+}

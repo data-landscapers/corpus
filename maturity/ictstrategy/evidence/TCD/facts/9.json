@@ -1,0 +1,8 @@
+{
+  "slug": "2020-07-17-tcd-le-tchad-aura-besoin-de-1-452-milliards-de-francs-cfa-pour-financer-so",
+  "facts": [],
+  "systems": [
+    {"system": "Plan stratégique de développement du numérique et des postes 2020-2030 (PSDNP)", "country_label": "Plan stratégique de développement du numérique et des postes 2020-2030 (PSDNP)", "class": "national", "platform": "", "owner": "Ministry of Posts and Digital Economy", "tiers": ""}
+  ],
+  "note": "The only instrument named is the PSDNP 2020-2030, which instruments.csv classes national, not sector; no fact for a sector-class system."
+}

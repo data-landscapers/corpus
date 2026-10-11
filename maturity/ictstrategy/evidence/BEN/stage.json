@@ -1,0 +1,21 @@
+{
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2021",
+      "plan": "actions",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "BEN-001;BEN-003;BEN-004;BEN-007",
+      "gaps": "The declaration's period ended in 2021 and no row shows a successor sector policy adopted or in preparation: the 2023 Internet Society study only recommends that the State update it. Nothing is held on a mandated body, finance, a report against the policy's targets or any event in the twelve months to the as-at; the adoption year 2016 rests on one secondary summary.",
+      "note": "Déclaration de politique sectorielle de l'économie numérique: adopted and public, but its period ended in 2021 with no successor sector policy in preparation, so it is expired and places nothing. A national digital strategy is held, which is noted and cannot be its successor, so the cell is unplaced rather than stage 2 or 3."
+    }
+  ]
+}

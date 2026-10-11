@@ -1,0 +1,77 @@
+{
+ "slug": "2023-06-01-tza-national-ict-policy-2023",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "validated",
+   "fact": "The Ministry of Information, Communication and Information Technology issued the National ICT Policy 2023, dated June 2023 with a ministerial foreword, as successor to the 2016 policy; the text states no adoption date or act, so this is recorded as complete and awaiting adoption.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "National ICT Policy 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "text",
+   "value": "public",
+   "fact": "The full text of the policy is held as posted on the ministry's website (mawasiliano.go.tz), cover dated June 2023.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "National ICT Policy 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "open",
+   "fact": "The policy states no end year; it says it will be evaluated after five years of implementation, and its aspirations run to 2025.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "National ICT Policy 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "plan",
+   "value": "none",
+   "fact": "The policy contains no costed or dated action plan; it says each stakeholder is to develop a strategic implementation plan and that the implementation strategy follows the policy.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "National ICT Policy 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "reporting",
+   "value": "none",
+   "fact": "The policy sets out no progress report against its own targets; it says the ministry will design a monitoring and evaluation system with KPIs after the implementation interventions are formulated, and evaluate after five years.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "National ICT Policy 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The policy gives the ministry responsible for ICT overall direction and responsibility for monitoring and evaluation, and provides for a Presidential National ICT Steering Committee.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "National ICT Policy 2023",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "finance:not-stated",
+   "fact": "The policy ties no budget line to its implementation; it only calls on all stakeholders to lift their ICT development budget to a minimum of 9% of total budget, and names development partners for resource mobilisation.",
+   "as_of": "2023-06",
+   "date_precision": "month",
+   "system": "National ICT Policy 2023",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

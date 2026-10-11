@@ -75,7 +75,15 @@
       "subject": "gov.policy",
       "text": "ICT strategy: sector policy",
       "indicator_id": "gov.policy--ict-strategy-sector-policy",
-      "class": "sector"
+      "class": "sector",
+      "criteria_of": "0cfbea3c517b",
+      "criteria": [
+        "A dated source states that the country has no ICT or telecommunications sector policy, none is on record as adopted or in preparation, and no national digital strategy is held.",
+        "A sector policy is announced, being drafted, or validated and awaiting adoption. Or one is adopted and its text is not public. Or its period has ended and a successor sector policy is in preparation.",
+        "A sector policy is adopted, its text is public, and its period has not ended. A policy with no stated period stops here. A national digital strategy is assessed on its own row and does not count.",
+        "The policy has a delivery plan with dated actions or costs, and the government has published results against the policy's own targets within the past three years. Without a mandated body and a domestic budget line the stage is capped at 3.",
+        "The delivery plan is costed, and results against the policy's targets are published on every objective within the past two years."
+      ]
     }
   ],
   "classes": [
@@ -216,5 +224,6 @@
     "dated",
     "advancing",
     "regressing"
-  ]
+  ],
+  "searched": "2026-10-11"
 }

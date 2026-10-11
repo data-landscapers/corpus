@@ -1,0 +1,15 @@
+{
+  "slug": "2003-01-01-gha-the-ghana-ict-for-accelerated-development-ict4ad-policy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The document is the Republic of Ghana's own 2003 policy statement, the ICT for Accelerated Development (ICT4AD) Policy, setting out the Government's vision, objectives and 14 pillars for the ICT sector and for ICT use across the economy; it gives no adoption date beyond 2003.", "as_of": "2003", "date_precision": "year", "system": "Ghana ICT for Accelerated Development (ICT4AD) Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full text of the 2003 ICT4AD Policy statement is published online at an open URL, and the document was published on 2003-01-01 as given by the source record.", "as_of": "2003", "date_precision": "year", "system": "Ghana ICT for Accelerated Development (ICT4AD) Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2022", "fact": "The document says the policy will have an operational life of fifteen to twenty years and is to be implemented through five 4-year rolling plans, the fifth covering 2019-2022.", "as_of": "2003", "date_precision": "year", "system": "Ghana ICT for Accelerated Development (ICT4AD) Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The document commits the Government to five dated rolling ICT4AD plans (2003-2006, 2007-2010, 2011-2014, 2015-2018, 2019-2022), each with a stated goal and emphasis, and states no cost for them.", "as_of": "2003", "date_precision": "year", "system": "Ghana ICT for Accelerated Development (ICT4AD) Policy", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The document states that the Government is setting up the National Information Technology Commission, chaired by the President or Vice President, and the Ghana Information and Communications Technology Directorate within the Ministry of Communications and Technology as the national ICT4AD implementation and coordination body.", "as_of": "2003", "date_precision": "year", "system": "Ghana ICT for Accelerated Development (ICT4AD) Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Ghana ICT for Accelerated Development (ICT4AD) Policy", "country_label": "ICT4AD Policy", "class": "sector", "platform": "", "owner": "Government of Ghana; Ministry of Communications and Technology", "tiers": ""},
+    {"system": "Ghana Information and Communications Technology Directorate (GICTeD)", "country_label": "GICTeD", "class": "", "platform": "", "owner": "Ministry of Communications and Technology", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2020-12-01-ner-mfwa-etude-politiques-internet-reseaux-sociaux",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The MFWA study states that the government approved the telecommunications and ICT sector policy document for 2013-2020 by decree No. 2013-158 of 12 April 2013.", "as_of": "2013-04-12", "date_precision": "day", "system": "Document de politique sectorielle des télécommunications et des TIC (2013-2020)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2020", "fact": "The MFWA study gives the sector policy document's period as 2013-2020 and says the country was at the end of that period in 2020.", "as_of": "2013-04-12", "date_precision": "day", "system": "Document de politique sectorielle des télécommunications et des TIC (2013-2020)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The MFWA study says the 2013-2020 sector policy document is built on five strategic axes: legal and institutional framework, infrastructure, universal access to ICT services, applications and content, and ICT capacity building.", "as_of": "2013-04-12", "date_precision": "day", "system": "Document de politique sectorielle des télécommunications et des TIC (2013-2020)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The MFWA study states that on 20 July 2020 the government launched the process of drawing up a digital policy for 2021-2030, named Niger Numérique 2021-2030, through a study to give the government a policy document.", "as_of": "2020-07-20", "date_precision": "day", "system": "Niger Numérique 2021-2030", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2030", "fact": "The MFWA study gives the planned period of the Niger Numérique digital policy under preparation as 2021-2030.", "as_of": "2020-07-20", "date_precision": "day", "system": "Niger Numérique 2021-2030", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Document de politique sectorielle des télécommunications et des TIC (2013-2020)", "country_label": "Document de politique sectorielle des télécommunications et des TIC", "class": "sector", "platform": "", "owner": "Government of Niger (decree 2013-158)", "tiers": ""},
+    {"system": "Niger Numérique 2021-2030", "country_label": "Politique Numérique du Niger 2021-2030", "class": "sector", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy", "tiers": ""},
+    {"system": "Plan stratégique Niger 2.0", "country_label": "Niger 2.0", "class": "national", "platform": "", "owner": "ANSI (Agence Nationale pour la Société de l'Information)", "tiers": ""}
+  ],
+  "note": ""
+}

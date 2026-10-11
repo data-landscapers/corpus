@@ -1,8 +1,8 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,sector,governance,qualifier,,,,,nothing held
-NGA,sector,standing,coverage,adopted,2000,NGA-003,NGA-004=drafting,
-NGA,sector,text,coverage,,,,,nothing held
-NGA,sector,period,coverage,,,,,nothing held
-NGA,sector,plan,coverage,,,,,nothing held
+NGA,sector,governance,qualifier,body:mandated,2026-02-09,NGA-010,NGA-016=body:mandated,not stated: finance
+NGA,sector,standing,coverage,adopted,2026-02-09,NGA-003;NGA-008;NGA-014,NGA-004=drafting;NGA-009=drafting,
+NGA,sector,text,coverage,public,2000-05,NGA-015,,nothing dated since 2023-09-28
+NGA,sector,period,coverage,open,2026-02-09,NGA-011,,
+NGA,sector,plan,coverage,none,2026-02-09,NGA-012,,
 NGA,sector,reporting,coverage,,,,,nothing held
-NGA,sector,last12,qualifier,advancing,2026-05-22,NGA-005,,
+NGA,sector,last12,qualifier,advancing,2026-05-22,NGA-005;NGA-013,,

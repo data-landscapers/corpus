@@ -1,0 +1,17 @@
+{
+  "slug": "2020-10-20-zaf-department-of-telecommunications-and-postal-services-annual-report-201",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Department of Telecommunications and Postal Services reports that in 2019/20 it pursued its legislative programme in line with the National Integrated ICT Policy White Paper, and developed a framing document for the White Paper's review.", "as_of": "2020", "date_precision": "year", "system": "National Integrated ICT Policy White Paper", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The Department's Programme 3, ICT Policy Research and Capacity Development, is the unit that develops ICT policy and legislation for the sector, with an ICT Policy Development sub-programme and a Research sub-programme tasked with delivering a national ICT strategy.", "as_of": "2020", "date_precision": "year", "system": "National Integrated ICT Policy White Paper", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "reporting", "value": "activity", "fact": "The annual report records, against the indicator 'ICT legislation and policies in line with the White Paper', that the Digital Development Fund Bill, the Data and Cloud Policy and the framing document for the White Paper's review were developed in 2019/20; it reports no progress against the White Paper's own targets.", "as_of": "2020", "date_precision": "year", "system": "National Integrated ICT Policy White Paper", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Integrated ICT Policy White Paper", "country_label": "National Integrated ICT Policy White Paper", "class": "sector", "platform": "", "owner": "Department of Telecommunications and Postal Services", "tiers": ""},
+    {"system": "National e-strategy", "country_label": "National e-strategy", "class": "national", "platform": "", "owner": "Department of Telecommunications and Postal Services", "tiers": ""},
+    {"system": "Data and Cloud Policy", "country_label": "Data and Cloud Policy", "class": "subsector", "platform": "", "owner": "Department of Telecommunications and Postal Services", "tiers": ""},
+    {"system": "ICT SMME Development Strategy", "country_label": "ICT SMME Development Strategy", "class": "subsector", "platform": "", "owner": "Department of Telecommunications and Postal Services", "tiers": ""},
+    {"system": "Digital Development Fund Bill", "country_label": "Digital Development Fund Bill", "class": "law", "platform": "", "owner": "Department of Telecommunications and Postal Services", "tiers": ""},
+    {"system": "Digital Economy Masterplan", "country_label": "Digital Economy Masterplan", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

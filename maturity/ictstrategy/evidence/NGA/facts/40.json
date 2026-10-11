@@ -1,0 +1,13 @@
+{
+  "slug": "2000-05-01-nga-national-policy-on-telecommunications",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The Minister of Communications' preface of May 2000 presents the National Policy on Telecommunications as the policy approved by the President and launched in October 1999, revised by a steering committee under the National Council on Privatization.", "as_of": "2000-05", "date_precision": "month", "system": "National Telecommunications Policy 2000", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full policy text, with seventeen chapters, was published in May 2000 under the Ministry of Communications.", "as_of": "2000-05", "date_precision": "month", "system": "National Telecommunications Policy 2000", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The policy assigns policy formulation to the Ministry of Communications and regulation to the Nigerian Communications Commission, and sets up a National Frequency Management Council in the Ministry.", "as_of": "2000-05", "date_precision": "month", "system": "National Telecommunications Policy 2000", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2005", "fact": "Chapter 2 sets short-term objectives over 3 years and medium-term objectives over 5 years, and Chapter 16 says the policy will be reviewed from time to time; the document gives no end year, so 2005 is five years from its date.", "as_of": "2000-05", "date_precision": "month", "system": "National Telecommunications Policy 2000", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National Telecommunications Policy 2000", "country_label": "National Policy on Telecommunications", "class": "sector", "platform": "", "owner": "Federal Ministry of Communications", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+GAB-001,GAB,sector,standing,adopted,"The JICA baseline study states that Gabon has formulated a national ICT policy consistent with the PSGE Vision 2025; it gives no adoption date, so the date is the report's publication, March 2022.",2022-03,month,Politique nationale des TIC,sector,2022-03-01-jica-etude-de-base-numerisation-services-publics-pays-africains,https://openjicareport.jica.go.jp/pdf/12369203.pdf

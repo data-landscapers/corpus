@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-sen-paens-tdr-observatoire-national-du-numerique",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "validated", "fact": "The terms of reference (PAENS, July 2026) state that the Ministry of Telecommunications and Digital (MTN) has validated its Lettre de Politique Sectorielle (LPS), tied to the 2025-2029 National Development Strategy; no adoption is stated and the document gives no date for the validation, so the July 2026 imprint date is used.", "as_of": "2026-07", "date_precision": "month", "system": "Lettre de Politique Sectorielle (LPS) du MTN", "class": "sector"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2008-01-01-lso-lesotho-communications-policy-2008",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The preface states the Government of Lesotho hereby adopts this Communications Policy, the framework for regulating telecommunications, broadcasting and postal sectors; the document gives only the year 2008.", "as_of": "2008", "date_precision": "year", "system": "Lesotho Communications Policy 2008", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full policy text is held, published by the Ministry of Communications, Science and Technology and hosted on the gov.ls site.", "as_of": "2008", "date_precision": "year", "system": "Lesotho Communications Policy 2008", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "open", "fact": "The policy states no end year or review date for itself.", "as_of": "2008", "date_precision": "year", "system": "Lesotho Communications Policy 2008", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The policy assigns the restructured Lesotho Communications Authority as converged regulator for telecommunications, broadcasting and postal, with the Minister setting basic policy.", "as_of": "2008", "date_precision": "year", "system": "Lesotho Communications Policy 2008", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The policy states no budget line for its own implementation; it provides only for a Universal Service Fund of operator contributions up to two percent of net operating income, with possible government and partner money.", "as_of": "2008", "date_precision": "year", "system": "Lesotho Communications Policy 2008", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Lesotho Communications Policy 2008", "country_label": "Lesotho Communications Policy 2008", "class": "sector", "platform": "", "owner": "Ministry of Communications, Science and Technology; Lesotho Communications Authority as regulator", "tiers": "national"},
+    {"system": "Lesotho Telecommunications Policy 1999", "country_label": "Lesotho Telecommunications Policy of 1999", "class": "sector", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "ICT Policy for Lesotho", "country_label": "ICT Policy for Lesotho, adopted 2005", "class": "sector", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

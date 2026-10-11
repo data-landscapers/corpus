@@ -1,0 +1,9 @@
+{
+  "slug": "2023-05-01-sle-workshop-summary-and-takeaways-sierra-leone-workshop-2-4-may-2023",
+  "facts": [],
+  "systems": [
+    {"system": "National Digital Development Policy (NDDP)", "country_label": "National Digital Development Policy", "class": "national", "platform": "", "owner": "Ministry of Information and Communications", "tiers": "national; the report says cabinet approved it recently, and the Minister called it the anchor of the digital transformation agenda"},
+    {"system": "National Digital Development Strategy (NDDS)", "country_label": "National Digital Development Strategy", "class": "national", "platform": "", "owner": "Ministry of Information and Communications", "tiers": "national; presented by the ministry's Acting Director of Communications at the workshop"}
+  ],
+  "note": "The document states only on the national digital policy and strategy (class national, not the sector class); no sector ICT policy is stated."
+}

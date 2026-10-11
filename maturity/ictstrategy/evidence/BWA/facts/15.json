@@ -1,0 +1,10 @@
+{
+  "slug": "2022-01-01-bwa-botswana-digital-economy-diagnostic",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The World Bank diagnostic states that the National ICT Policy (Maitlamo) was launched in 2007 to guide sector development and was approved by the National Assembly in 2007.", "as_of": "2007", "date_precision": "year", "system": "National ICT Policy (Maitlamo)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy (Maitlamo)", "country_label": "Maitlamo", "class": "sector", "platform": "", "owner": "Ministry of Communications, Science and Technology", "tiers": ""}
+  ],
+  "note": ""
+}

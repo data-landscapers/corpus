@@ -1,0 +1,21 @@
+{
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "adopted",
+      "text": "",
+      "period": "to:2024",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "DJI-002;DJI-003;DJI-004;DJI-005",
+      "gaps": "The Schéma stratégique intégré's period ended in 2024 and no row shows a successor sector policy adopted or in preparation. The Politique nationale de développement des TIC is named by the minister in July 2025 (DJI-001) with no adoption date, standing, period or text, so it cannot be staged; that fact also falls outside the twelve months and belongs to the other instrument. No text, delivery plan, report, mandated body or finance is held for the SSI.",
+      "note": "Schéma stratégique intégré (SSI) 2014-2024: the newest sector policy on record as adopted, in 2014 for ten years, so expired before the as-at with no successor sector policy in preparation. An expired policy places nothing; a national digital strategy is held, which is noted and does not place the country."
+    }
+  ]
+}

@@ -23,6 +23,9 @@ national plan*.
 - *text unpublished* is flagged only where a source says there is no public text; a text
   nobody has found stops the cell at stage 2 without the flag.
 
+**Fixed at step 5**: an instrument still `validated`, `drafting` or `announced` whose own period
+has ended is not in preparation and places nothing.
+
 Writes `maturity/ictstrategy/ladder-test.csv`, in the columns of the model's.
 """
 from __future__ import annotations
@@ -99,7 +102,9 @@ def rung(insts: dict[str, dict], absent: list[dict], as_at: dt.date, national: b
         force = {newest: force[newest]}
     live = {k: v for k, v in force.items() if not v["expired"]}
     lapsed = {k: v for k, v in force.items() if v["expired"]}
-    prep = {k: v for k, v in insts.items() if v["standing"] in PREPARING and not v["in_force"]}
+    # Step 5: a draft whose own period has ended, or that was replaced, is not in preparation.
+    prep = {k: v for k, v in insts.items() if v["standing"] in PREPARING and not v["in_force"]
+            and not v["expired"]}
     noted = ([UNDER] if national else []) + ([PLAN] if in_plan else [])
     if live:
         name, v = max(live.items(), key=lambda kv: (kv[1]["text"] == "public", kv[1]["date"]))

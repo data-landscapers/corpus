@@ -1,0 +1,20 @@
+{
+  "slug": "2022-05-01-uga-final-draft-national-ict-policy",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "The document is a Final Draft National ICT Policy dated May 2022, prepared by a consultant for the Ministry of ICT and National Guidance and signed in a foreword by the Minister; it states no adoption.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT Policy 2022 (final draft)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The draft lists the National ICT Policy 2014 among the key policies of the ICT sector's current policy environment, which the draft revises.", "as_of": "2014", "date_precision": "year", "system": "National ICT Policy 2014", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "text", "value": "public", "fact": "The full text of the final draft is available online on the consultant's website; it is a draft, and the document gives no official publication.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT Policy 2022 (final draft)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "plan", "value": "none", "fact": "The draft contains no implementation or action plan; it states the Ministry will develop a road map informing a monitoring and evaluation framework and implementation matrix.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT Policy 2022 (final draft)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "body:mandated", "fact": "The draft makes the Ministry of ICT and National Guidance responsible for policy guidance, oversight, and leading adoption, implementation, monitoring and evaluation, working with the Digital Transformation Programme Working Group.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT Policy 2022 (final draft)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "governance", "value": "finance:not-stated", "fact": "The draft states no budget, cost or funding source for the policy.", "as_of": "2022-05", "date_precision": "month", "system": "National ICT Policy 2022 (final draft)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy 2022 (final draft)", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "National ICT Policy 2014", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Uganda Vision", "country_label": "Digital Vision Uganda", "class": "", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""},
+    {"system": "National Broadband Policy 2018", "country_label": "National Broadband Policy", "class": "subsector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National E-government Policy Framework 2011", "country_label": "National E-government Policy Framework", "class": "government", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Draft Telecommunications Policy 2011", "country_label": "Telecommunications Policy", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

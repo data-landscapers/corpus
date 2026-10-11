@@ -1,0 +1,21 @@
+{
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "under the national strategy",
+      "stage_sources": "",
+      "gaps": "evidence.csv holds no row and instruments.csv names no instrument for CIV, so no sector policy is on record as adopted, in preparation or expired. The only instrument held is the national digital strategy (SNNCI 2021-2025, class national in systems.csv), a noted class that places nothing.",
+      "note": "No sector instrument: none is named for CIV in instruments.csv. A national digital strategy is held (digitalstrategy stage 2) and no sector policy is in force, so section 4 leaves the cell unplaced and flagged under the national strategy rather than no evidence."
+    }
+  ]
+}

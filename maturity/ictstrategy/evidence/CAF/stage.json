@@ -1,0 +1,21 @@
+{
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "under the national strategy",
+      "stage_sources": "",
+      "gaps": "evidence.csv, systems.csv and instruments.csv hold no row for CAF: no sector policy is on record as adopted, in preparation or absent, and no aspect is established. The cell is unplaced rather than no evidence only because the neighbouring study holds a national digital strategy (stage 2).",
+      "note": "No instrument: no ICT or telecommunications sector policy is named for CAF. A national digital strategy is held and a noted class never places a country, so the cell is unplaced under the national strategy; stage 1 would need a dated statement of absence and no national strategy held."
+    }
+  ]
+}

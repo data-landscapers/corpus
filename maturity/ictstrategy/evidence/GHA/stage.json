@@ -1,0 +1,21 @@
+{
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "body:mandated;finance:not-stated",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2022",
+      "plan": "actions",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "lapsed;under the national strategy",
+      "stage_sources": "GHA-005;GHA-006;GHA-007",
+      "gaps": "No sector policy succeeding the 2003 policy is on record as adopted or in preparation, and no report against the policy's targets is held. The policy's own text gives it a life of fifteen to twenty years and rolling plans ending 2022 (GHA-007), while a 2025 report still treats it as in force and calls it outdated (GHA-002) and instruments.csv gives it no period end; finance is not stated and nothing is dated in the last twelve months.",
+      "note": "ICT for Accelerated Development (ICT4AD) Policy: adopted in 2003 with a public text, but its stated period ended in 2022 and no successor sector policy is in preparation, so it is lapsed and places nothing. The national digital strategy held is a noted class and does not count as its successor."
+    }
+  ]
+}

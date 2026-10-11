@@ -1,0 +1,10 @@
+{
+  "slug": "2016-01-01-com-minpoten-plan-d-action-du-ministere",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "announced", "fact": "The ministry's undated mission page refers to the government acting within the 'new sector policy' (nouvelle politique sectorielle) and the Comores numérique strategy, without stating that the policy was adopted; the year is the page's published-date proxy (2016).", "as_of": "2016", "date_precision": "year", "system": "nouvelle politique sectorielle", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Comores numérique", "country_label": "stratégie Comores numérique", "class": "", "platform": "", "owner": "Ministère des Postes, des Télécommunications et de l'Économie numérique", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2023-10-01-uga-digital-transformation-programme-annual-monitoring-report-fy2022-23",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "validated", "fact": "The Ministry of Finance's FY2022/23 Digital Transformation Programme monitoring report states stakeholder engagement for the National ICT Policy was finalised, pending submission to the Cabinet Secretariat.", "as_of": "2023", "date_precision": "year", "system": "National ICT Policy", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "National ICT Policy", "country_label": "National ICT Policy", "class": "sector", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Digital Uganda Vision", "country_label": "Digital Uganda Vision", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Information and Communication Bill 2022", "country_label": "Information and Communication Bill", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

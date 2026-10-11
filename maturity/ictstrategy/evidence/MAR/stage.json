@@ -1,0 +1,21 @@
+{
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "unplaced",
+      "governance": "",
+      "standing": "",
+      "text": "",
+      "period": "",
+      "plan": "",
+      "reporting": "",
+      "last12": "",
+      "cap": "",
+      "flags": "under the national strategy",
+      "stage_sources": "",
+      "gaps": "evidence.csv holds no row and instruments.csv names no instrument for MAR, so no sector policy is on record as adopted, in preparation or expired. The only instrument logged (systems.csv) is Digital Morocco 2030, class national, which is noted and places nothing.",
+      "note": "No sector instrument: none is named in instruments.csv; the one held is Digital Morocco 2030, the national digital strategy (digitalstrategy stage 2). A noted class never places a country, so the cell is unplaced under the national strategy rather than stage 1, which needs a dated statement of absence and no national strategy held."
+    }
+  ]
+}

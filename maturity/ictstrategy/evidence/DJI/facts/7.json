@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-01-dji-mcpt-telecommunication-tic-et-postes",
+  "facts": [
+    {"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "The ministry page states that the Schéma Stratégique Intégré (SSI), the government roadmap that includes the National ICT Development Strategy, was adopted in 2014.", "as_of": "2014", "date_precision": "year", "system": "Schéma Stratégique Intégré (SSI)", "class": "sector"},
+    {"sub_indicator": "sector", "aspect": "period", "value": "to:2024", "fact": "The page says the SSI was adopted in 2014 to develop the ICT sector over a period of 10 years, which ends in 2024.", "as_of": "2014", "date_precision": "year", "system": "Schéma Stratégique Intégré (SSI)", "class": "sector"}
+  ],
+  "systems": [
+    {"system": "Schéma Stratégique Intégré (SSI)", "country_label": "Schéma Stratégique Intégré (SSI)", "class": "sector", "platform": "", "owner": "Government of Djibouti (page of the Ministry of Communication, in charge of Posts and Telecommunications)", "tiers": ""}
+  ],
+  "note": ""
+}

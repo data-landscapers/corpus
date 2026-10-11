@@ -1,0 +1,21 @@
+{
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "3",
+      "governance": "",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2027",
+      "plan": "actions",
+      "reporting": "",
+      "last12": "no-change",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-004;ZWE-005;ZWE-006",
+      "gaps": "No report, review or evaluation against the policy's targets is held. No adoption date is stated: the text carries a presidential foreword and signature block, and a 2023-10 report (ZWE-015) still describes the policy as developed with no launch date. The body and finance facts (ZWE-008, ZWE-009) are dated 2022, outside the 36-month window, so governance is empty. An ICT Policy 2026-2030 is named once (ZWE-001) with no standing or text on record and places nothing.",
+      "note": "National ICT Policy 2022-2027: adopted, text public, period running to 2027, with an uncosted implementation plan of actions. Stage 4 needs a published report of results against the policy within three years, and none is held."
+    }
+  ]
+}

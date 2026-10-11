@@ -1,0 +1,21 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "2",
+      "governance": "",
+      "standing": "adopted",
+      "text": "",
+      "period": "open",
+      "plan": "",
+      "reporting": "",
+      "last12": "no-change",
+      "cap": "",
+      "flags": "dated",
+      "stage_sources": "MRT-001",
+      "gaps": "The text of the declaration is not held and no source links or quotes it from an official site. No stated period, delivery plan, report against it, mandated body or budget line is on record, and nothing is dated inside the twelve months to the as-at; the period is read as open because neither the one fact nor instruments.csv gives an end year.",
+      "note": "Déclaration de politique sectorielle 2013: adopted in January 2013 and not replaced in instruments.csv, so it is the newest adopted sector policy. Its text has not been found, so it stops at stage 2 rather than 3 (fixed at D3)."
+    }
+  ]
+}

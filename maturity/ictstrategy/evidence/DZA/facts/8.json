@@ -1,0 +1,66 @@
+{
+ "slug": "2023-11-15-dza-indjazat-interview-bibi-triki-bilan",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The Minister of Post and Telecommunications states the ministry's sector reports progress against the government action plan carrying the President's digitalisation commitments (interview published 2023-11-15, no other date given).",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The minister says progress is measured against the sector action plan for the President's commitments, with targets set for end-2024 (interview published 2023-11-15, which is the date used).",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2024",
+   "fact": "The minister says intermediate objectives were met and the sector expects to reach the objectives set for end-2024 (interview published 2023-11-15).",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "plan",
+   "value": "actions",
+   "fact": "The action plan carries dated targets with no cost stated: fixed-internet homes from 3.5 to 6 million, general FTTH rollout, higher minimum speed and international bandwidth, by end-2024.",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "reporting",
+   "value": "results",
+   "fact": "The minister reports against the plan's targets in an interview: 5.4 million fixed-internet homes against 6 million, FTTH from about 53,000 to over 1 million homes, minimum speed x5, international bandwidth x6, e-payment cards from 6 to over 12 million; ministry's own claims, not a published report.",
+   "as_of": "2023-11-15",
+   "date_precision": "day",
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plan d'action du secteur de la Poste et des Télécommunications (feuille de route to end-2024)",
+   "country_label": "Plan d'action du secteur / feuille de route",
+   "class": "sector",
+   "platform": "",
+   "owner": "Ministry of Post and Telecommunications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

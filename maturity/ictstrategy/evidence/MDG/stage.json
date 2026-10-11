@@ -1,0 +1,21 @@
+{
+ "iso3": "MDG",
+ "cells": [
+  {
+   "sub_indicator": "sector",
+   "stage": "2",
+   "governance": "",
+   "standing": "adopted",
+   "text": "",
+   "period": "",
+   "plan": "actions",
+   "reporting": "results",
+   "last12": "",
+   "cap": "",
+   "flags": "dated",
+   "stage_sources": "MDG-001",
+   "gaps": "No row holds the policy's text or a link to it from an official site, and none gives an adoption act or a stated period, so it is not established whether the 2004 policy is open or ended. Nothing is held on a mandated body or finance within 36 months of the as-at, and nothing dated in the last twelve months.",
+   "note": "Politique nationale des TIC pour le développement 2004: adopted on JICA's 2022 description, with dated targets and a 2022 assessment against some objectives. Stage 3 needs the text public, and an adopted policy whose text nobody has found stops at stage 2, unflagged."
+  }
+ ]
+}

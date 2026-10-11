@@ -239,6 +239,9 @@ def main(argv=None) -> int:
     bad = 0
     base = os.path.join(study_lib.study_dir(a.study), "evidence")
     if a.merge:
+        wpath = os.path.join(study_lib.study_dir(a.study), "withdrawn.csv")
+        withdrawn = ({(r["iso3"], r["source_slug"]) for r in study_lib.read_csv(wpath)}
+                     if os.path.exists(wpath) else set())
         for iso in sorted(os.listdir(base)):
             facts_dir = os.path.join(base, iso, "facts")
             if not os.path.isdir(facts_dir):
@@ -255,6 +258,9 @@ def main(argv=None) -> int:
             existing = study_lib.read_csv(os.path.join(base, iso, "evidence.csv"))
             new, systems, more = merge(study, iso, study_lib.read_csv(
                 os.path.join(base, iso, "readlist.csv")), files, existing)
+            # A document every fact of which the ladder test removed has no row left to mark
+            # it merged, and a later merge would bring its facts back: `withdrawn.csv` holds it.
+            new = [r for r in new if (iso, r["source_slug"]) not in withdrawn]
             for p in problems + more:
                 print(f"study-profile: note - {p}")
             study_lib.write_csv(os.path.join(base, iso, "evidence.csv"),
