@@ -1,0 +1,101 @@
+{
+  "id": "cybersecuritylaw",
+  "study_file": "maturity-study-cybersecuritylaw.md",
+  "subjects": [
+    "gov.legislate",
+    "infra.cybersec"
+  ],
+  "stage_topic": "gov.legislate",
+  "redraws": [
+    "gov.legislate--cybersecurity-legislation"
+  ],
+  "carry": [
+    "gov.legislate--cybersecurity-legislation"
+  ],
+  "carry_studies": [],
+  "token_ceiling": 40000000,
+  "terms": [
+    "cybercrime act",
+    "cybercrimes act",
+    "cybercrime law",
+    "cybercrime bill",
+    "cybercrimes bill",
+    "cybercrime legislation",
+    "cybersecurity act",
+    "cybersecurity law",
+    "cybersecurity bill",
+    "cyber security act",
+    "cyber security bill",
+    "cybersecurity and cybercrime",
+    "cybercrimes and cybersecurity",
+    "computer misuse",
+    "computer crime act",
+    "cyber crime act",
+    "Budapest Convention",
+    "loi sur la cybercriminalité",
+    "loi relative à la cybercriminalité",
+    "loi portant sur la cybercriminalité",
+    "lutte contre la cybercriminalité",
+    "loi sur la cybersécurité",
+    "loi relative à la cybersécurité",
+    "Convention de Budapest",
+    "lei do cibercrime",
+    "lei de cibersegurança",
+    "lei de combate à criminalidade informática",
+    "ley de ciberseguridad",
+    "قانون مكافحة جرائم تقنية المعلومات",
+    "قانون الجرائم المعلوماتية",
+    "قانون الجرائم الإلكترونية"
+  ],
+  "sub_indicators": [
+    {
+      "key": "law",
+      "label": "Cybercrime and cybersecurity law",
+      "subject": "gov.legislate",
+      "text": "Cybersecurity legislation: cybercrime and cybersecurity law",
+      "indicator_id": "gov.legislate--cybersecurity-legislation-cybercrime-and-cybersecurity-law",
+      "class": "law"
+    }
+  ],
+  "classes": [
+    "law",
+    "other"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Law in force",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "in-force",
+        "bill"
+      ],
+      "values": [
+        "in-force",
+        "bill",
+        "none"
+      ]
+    },
+    {
+      "key": "use",
+      "name": "Use of the law",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "reported",
+        "used"
+      ],
+      "values": [
+        "reported",
+        "used",
+        "none"
+      ]
+    }
+  ],
+  "flags": []
+}
