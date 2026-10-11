@@ -1,0 +1,10 @@
+{
+  "slug": "2009-05-29-gambia-information-and-communications-act-2009-wipolex",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Information and Communications Act, 2009 (No. 2 of 2009) entered into force on 29 May 2009 and carries Part III of Chapter III, 'Computer Misuse and Cyber Crime', creating offences such as unauthorised access to computer data (fine of 200,000 dalasis or up to five years' imprisonment, or both).", "as_of": "2009-05-29", "date_precision": "day", "system": "Information and Communications Act, 2009", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Information and Communications Act, 2009", "country_label": "Information and Communications Act, 2009", "class": "law", "platform": "", "owner": "Government of The Gambia", "tiers": ""}
+  ],
+  "note": ""
+}

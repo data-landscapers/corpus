@@ -3,9 +3,9 @@ AGO,3,in-force,,AGO-005
 BDI,3,in-force,,BDI-001
 BEN,4,in-force,used,BEN-002;BEN-003;BEN-001
 BFA,3,in-force,,BFA-001;BFA-002
-BWA,2,bill,,BWA-001;BWA-002
+BWA,3,in-force,,BWA-005
 CAF,3,in-force,,CAF-004;CAF-001
-CIV,2,bill,,CIV-001
+CIV,4,in-force,used,CIV-002;CIV-001
 CMR,3,in-force,,CMR-001;CMR-002
 COD,3,in-force,,COD-002;COD-001
 COG,3,in-force,,COG-001;COG-002
@@ -15,11 +15,11 @@ DJI,2,bill,,DJI-001;DJI-002
 DZA,3,in-force,,DZA-001
 EGY,3,in-force,,EGY-001;EGY-002
 ERI,unplaced,,,
-ETH,2,bill,,ETH-001
+ETH,2,bill,,ETH-001;ETH-002
 GAB,3,in-force,,GAB-001
 GHA,4,in-force,used,GHA-002;GHA-001
 GIN,3,in-force,,GIN-001
-GMB,2,bill,,GMB-001
+GMB,3,in-force,,GMB-002
 GNB,no evidence,,,
 GNQ,4,in-force,used,GNQ-002;GNQ-001
 KEN,3,in-force,,KEN-003;KEN-004
@@ -31,7 +31,7 @@ MDG,3,in-force,,MDG-011;MDG-013
 MLI,4,in-force,used,MLI-006;MLI-001;MLI-003
 MOZ,3,in-force,,MOZ-003;MOZ-001
 MRT,3,in-force,,MRT-001
-MUS,unplaced,,,
+MUS,3,in-force,,MUS-002;MUS-003
 MWI,3,in-force,,MWI-001
 NAM,2,bill,,NAM-001;NAM-002
 NER,4,in-force,used,NER-002;NER-001

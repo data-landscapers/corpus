@@ -1,0 +1,26 @@
+{
+  "slug": "2026-05-25-botswana-cybersecurity-act-national-authority-wtisd-itweb",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "bill",
+      "fact": "ITWeb reports the ICT minister said the Cybersecurity Act was passed in November 2025 and establishes a National Cybersecurity Authority; it gives no commencement date or statement that the Act is in force.",
+      "as_of": "2025-11",
+      "date_precision": "month",
+      "system": "Cybersecurity Act",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Cybersecurity Authority",
+      "country_label": "National Cybersecurity Authority",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Botswana",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

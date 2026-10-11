@@ -1,0 +1,34 @@
+{
+  "slug": "2021-11-24-mauritius-cybersecurity-cybercrime-act-2021",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Cybersecurity and Cybercrime Act 2021 (Act No. 16 of 2021) was passed by the National Assembly on 19 November 2021, assented to on 24 November 2021 and gazetted as Legal Supplement 567; the document's retrieval note says it was proclaimed in force on 10 December 2021, and it repeals the Computer Misuse and Cybercrime Act.",
+      "as_of": "2021-12-10",
+      "date_precision": "day",
+      "system": "Cybersecurity and Cybercrime Act 2021",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Cybersecurity Committee",
+      "country_label": "National Cybersecurity Committee",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Mauritius (established under s.3 of the Act)",
+      "tiers": ""
+    },
+    {
+      "system": "CERT-MU",
+      "country_label": "Computer Emergency Response Team of Mauritius",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry responsible for information technology (set up under s.38)",
+      "tiers": ""
+    }
+  ],
+  "note": "Use aspect: the Act is legislation and states no arrest, charge, conviction or published case count, so no use fact."
+}

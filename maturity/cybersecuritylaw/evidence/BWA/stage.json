@@ -3,13 +3,13 @@
  "cells": [
   {
    "sub_indicator": "law",
-   "stage": "2",
-   "standing": "bill",
+   "stage": "3",
+   "standing": "in-force",
    "use": "",
    "cap": "",
    "flags": "",
-   "stage_sources": "BWA-001;BWA-002",
-   "gaps": "No source held says a cybercrime or cybersecurity law is in force.",
+   "stage_sources": "BWA-005",
+   "gaps": "No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.",
    "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
   }
  ]

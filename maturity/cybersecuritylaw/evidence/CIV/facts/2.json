@@ -1,1 +1,66 @@
-{"slug":"2025-05-22-cybercriminalite-rapport-2024-anssi-fratmat","facts":[],"systems":[{"system":"Plateforme de lutte contre la cybercriminalité (Plcc)","country_label":"Plcc","class":"other","platform":"","owner":"ANSSI","tiers":"national"},{"system":"CI-Cert","country_label":"CI-Cert","class":"other","platform":"","owner":"ANSSI","tiers":"national"},{"system":"Centre de fusion et d'analyse de données (Cfad)","country_label":"Cfad","class":"other","platform":"","owner":"ANSSI","tiers":"national"},{"system":"Pki Racine","country_label":"Pki Racine","class":"other","platform":"","owner":"ANSSI","tiers":"national"},{"system":"Centre d'opération de sécurité cyber (Soc)","country_label":"Soc","class":"other","platform":"","owner":"ANSSI","tiers":"national"},{"system":"Alertes 100","country_label":"Alertes 100","class":"other","platform":"","owner":"ANSSI","tiers":"national"}],"note":"Gives 2024 case counts (12,100) and 338 arrests but names no law they were made under, so no fact on the law; the platform's caseload is agency activity."}
+{
+ "slug": "2025-05-22-cybercriminalite-rapport-2024-anssi-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "The national information-security agency ANSSI's 2024 report, presented on 22 May 2025, says its cybercrime platform received and handled 12,100 files in 2024, up from 8,132 the year before, including fraudulent access to information systems and online fraud; the report as relayed does not name the law they were handled under.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cybercrime platform caseload",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme de lutte contre la cybercriminalité (Plcc)",
+   "country_label": "Plcc",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": "national"
+  },
+  {
+   "system": "CI-Cert",
+   "country_label": "CI-Cert",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": "national"
+  },
+  {
+   "system": "Centre de fusion et d'analyse de données (Cfad)",
+   "country_label": "Cfad",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": "national"
+  },
+  {
+   "system": "Pki Racine",
+   "country_label": "Pki Racine",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": "national"
+  },
+  {
+   "system": "Centre d'opération de sécurité cyber (Soc)",
+   "country_label": "Soc",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": "national"
+  },
+  {
+   "system": "Alertes 100",
+   "country_label": "Alertes 100",
+   "class": "other",
+   "platform": "",
+   "owner": "ANSSI",
+   "tiers": "national"
+  }
+ ],
+ "note": "fact added by the parent on reading the story, for consistency with Benin's arrests"
+}

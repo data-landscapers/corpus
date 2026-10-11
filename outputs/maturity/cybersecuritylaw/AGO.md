@@ -1,0 +1,11 @@
+# Angola
+
+## Cybercrime and cybersecurity law
+
+**Law in force.** A UNITA deputy, quoted by [Novo Jornal on 23 January 2026](<https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-de-ciberseguranca-aprovada-mas-com-a-abstencao-da-unita-que-receia-que-governo-recorra-ao-corte-de-internet-nos-dias-das-eleicoes-e-das-manifestacoes-69381.html>), says Law 7/17 of 16 February, on the protection of computer networks and systems, is part of the current legal order and that the new bill would repeal it. The Council of Ministers [considered the Cybersecurity Bill on 27 October 2025](<https://inacom.gov.ao/2025/10/27/proposta-de-lei-da-ciberseguranca-apreciada-pelo-conselho-de-ministros/>) for sending to the National Assembly. The Assembly [approved it in general terms on 23 January 2026](<https://www.novojornal.co.ao/politica/detalhe/proposta-de-lei-de-ciberseguranca-aprovada-mas-com-a-abstencao-da-unita-que-receia-que-governo-recorra-ao-corte-de-internet-nos-dias-das-eleicoes-e-das-manifestacoes-69381.html>), with 105 votes for and 75 UNITA abstentions, and [adopted the cybersecurity law on 12 August 2026](<https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/>), with MPLA votes carrying it.
+
+**Use of the law.** The law adopted on 12 August 2026 sets [fines of 7 to 4,000 national minimum wages, by gravity](<https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/>), according to ANGOP. The National Assembly's specialised committees [approved the proposed law](<https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430>) before the final vote, as Telecompaper reported on 10 August 2026. [PTI reports](<https://pti.ao/lei-da-ciberseguranca-aprovada-na-globalidade/>) that the final vote of 12 August 2026 was taken globally, with 104 in favour.
+
+***Noted, not assessed***. [Estratégia Nacional de Cibersegurança](<https://pti.ao/lei-da-ciberseguranca-aprovada-na-globalidade/>); [Conselho Nacional de Cibersegurança](<https://pti.ao/lei-da-ciberseguranca-aprovada-na-globalidade/>); [Centro Nacional de Cibersegurança](<https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430>).
+
+***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-cybersecuritylaw.md — the twelfth maturity study: the cybercrime and cybersecurity law, in four questions
 last_reviewed: 2026-10-11
-status: prepared; awaiting Bill's word on the four questions (method step 2); not run
+status: run on Bill's word of 2026-10-11; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: cybersecuritylaw
@@ -72,10 +72,12 @@ The Malabo Convention's third chapter commits each party to legal measures again
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-11.
-- [ ] **D1. Bill's word on the four questions.**
-- [ ] **D2. Read the `about` stories, then the cited news for countries left short**, method §4.
-- [ ] **D3. Stage all 54 countries and check agreement**, method §7.
-- [ ] **D4. Write, render and lint**, method §8. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-11.
+- [x] **D2. Read**: the 128 `about` stories; then the cited news for the 24 countries those left short; then what was held for six still short; then the cited documents of six countries that had come out below the frame's stage. 200 facts.
+- [x] **D3. Staged**: 10 at stage 4, 36 at 3, 6 at 2, one unplaced, one with no evidence, none at 1 or 5, as at 2026-09-30; three corrections and one fact added by the parent; agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-11.
+
+**Decided in the run**: arrests or files handled by a cybercrime unit count as use of the law where the source does not name the law (Benin, Cote d'Ivoire), and do not count as published figures.
 
 ## Boundary
 

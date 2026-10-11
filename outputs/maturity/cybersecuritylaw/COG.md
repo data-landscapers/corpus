@@ -1,0 +1,11 @@
+# Republic of the Congo
+
+## Cybercrime and cybersecurity law
+
+**Law in force.** The Republic of the Congo has two laws of 5 June 2020, loi n° 26-2020 relative à la cybersécurité and loi n° 27-2020 portant lutte contre la cybercriminalité. The Journal officiel of [18 June 2026](<https://sgg.cg/JO/2026/congo-jo-2026-25.pdf>) prints a decree of 6 May 2026 that cites both as in force. The Journal officiel of [9 April 2026](<https://sgg.cg/JO/2026/congo-jo-2026-15.pdf>) prints decrees of 29 December 2025 that cite both the same way. The [World Bank diagnostic of December 2020](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Republique-du-Congo-DE4A-en-Francais.pdf>) says Loi 26-2020 governs the national legal framework for information-system and network security.
+
+**Use of the law.** In its 2025 assessment, [UNESCO](<https://www.unesco.org/fr/articles/evaluation-du-developpement-de-linternet-en-republique-du-congo>) states that application of the cybersecurity and cybercrime laws still has to be strengthened and calls for implementing texts for the cybercrime law. The same report cites no arrest, prosecution, conviction or case count under either law. The [World Bank diagnostic](<https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Republique-du-Congo-DE4A-en-Francais.pdf>) adds that operationalising the bodies the cybersecurity law defines remained to be done in 2020.
+
+***Noted, not assessed***. [Agence nationale de sécurité des systèmes d'information (ANSSI)](<https://www.unesco.org/fr/articles/evaluation-du-developpement-de-linternet-en-republique-du-congo>), [Convention de Malabo](<https://sgg.cg/JO/2020/congo-jo-2020-34-5.pdf>), [Stratégie Nationale de Cybersécurité](<https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1>), [Cyberdrill régional UIT](<https://gouvernement.cg/cybersecurite-des-experts-de-la-sous-region-renforcent-les-strategies-de-riposte/>) and a planned [CSIRT](<https://documents1.worldbank.org/curated/en/804131654274496053/pdf/Congo-Republic-of-Congo-Digital-Acceleration-Project.pdf>).
+
+***Not held***. No arrest, charge, prosecution, conviction or penalty under the law in the last three years is held.
