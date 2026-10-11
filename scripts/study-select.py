@@ -21,7 +21,9 @@ order is news before instruments; then a document whose title carries a term, or
 country's ledger or status report cites on the subject; then the country's own before a
 regional one; then newest. `pass` says how far down a row sits:
 
-- `1`    - the first `FIRST_PASS` of the news tier, read for every country;
+- `0`    - what the frame's cells for the study's `carry` rows cite, read first and for
+  every country *(Bill, 2026-10-11)*;
+- `1`    - the first `FIRST_PASS` of the news tier, read where pass `0` leaves a gap;
 - `2`    - the rest of the news tier, read a call at a time and only while a cell is undecided;
 - `rung` - the instrument tier, opened for a cell that has reached a rung whose test needs
   the text itself, and for the aspects that rung tests.
@@ -113,7 +115,7 @@ CALL_DOCS = 5              # what one drafter call reads...
 CALL_WORDS = 15_000        # ...and the most it reads in words
 OPENING_WORDS = 300        # what of its opening is always kept, for what the document is
 LONG_BLOCK = 400           # a "paragraph" past this is a table or a wrapped page: cut by line
-ROUTES = ("status", "ledger", "subject", "considered", "regional")
+ROUTES = ("cell", "status", "ledger", "subject", "considered", "regional")
 
 
 def scan(rows: list[dict], read, terms: re.Pattern) -> dict[str, dict]:
@@ -185,7 +187,7 @@ def passages(text: str, terms: re.Pattern) -> str:
 
 
 def cited(iso: str, subjects: list[str], terms: re.Pattern, reports: str,
-          by_url: dict[str, str]) -> tuple[dict[str, set], list[dict]]:
+          by_url: dict[str, str], carry: tuple = ()) -> tuple[dict[str, set], list[dict]]:
     """What the country's own report already holds on the study's subjects.
 
     Returns `(slug -> routes, status rows)`. A route marked `!` admits the document on the
@@ -194,7 +196,16 @@ def cited(iso: str, subjects: list[str], terms: re.Pattern, reports: str,
     status_rows = []
     unit = os.path.join(reports, iso)
 
+    # Method §4: the frame's cells for the rows the study carries are read first, so the
+    # ledger rows those cells stand on admit their sources whatever the terms say.
+    cells = {rid for row in study_lib.read_csv(os.path.join(unit, "indicators.csv"))
+             if row.get("indicator_id") in carry
+             for key in ("row_ids", "stage_rows")
+             for rid in filter(None, (row.get(key) or "").split("|"))}
     for row in study_lib.read_csv(os.path.join(unit, "ledger.csv")):
+        if row.get("row_id") in cells:
+            for slug in filter(None, (s.strip() for s in (row.get("sources") or "").split("|"))):
+                routes.setdefault(slug, set()).add("cell!")
         if row.get("subject") not in subjects:
             continue
         text = study_lib.fold(" ".join(str(v) for v in row.values()))
@@ -239,7 +250,9 @@ def passes(rows: list[dict]) -> None:
     """Mark how far down the ranked list each row sits, in place."""
     first = 0
     for r in rows:
-        if r["tier"] != "news":
+        if "cell" in r["why"].split("+"):
+            r["pass"] = "0"
+        elif r["tier"] != "news":
             r["pass"] = "rung"
         else:
             first += 1
@@ -343,8 +356,8 @@ def select(iso: str, country: dict, docs: dict[str, dict], subjects: list[str],
     # News before instruments; then what the title or the country's own report says is on
     # the subject; then the country's own; then newest.
     rows.sort(key=lambda r: r["published"], reverse=True)
-    rows.sort(key=lambda r: (r["tier"] != "news", not lead[r["slug"]],
-                             "regional" in r["why"].split("+")))
+    rows.sort(key=lambda r: ("cell" not in r["why"].split("+"), r["tier"] != "news",
+                             not lead[r["slug"]], "regional" in r["why"].split("+")))
     return rows, dropped
 
 
@@ -448,7 +461,7 @@ def main(argv=None) -> int:
             if not existing:
                 continue        # never listed: the study has not reached this country
             listed = {r["slug"] for r in existing if r.get("kind") == "raw"}
-            routes, _ = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url)
+            routes, _ = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url, tuple(study.get("carry", ())))
             rows = [r for r in select(iso, all_countries[iso], docs, study["subjects"], routes)[0]
                     if r["slug"] not in listed]
             for r in rows:
@@ -470,7 +483,7 @@ def main(argv=None) -> int:
 
     summary = []
     for iso in wanted:
-        routes, status_rows = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url)
+        routes, status_rows = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url, tuple(study.get("carry", ())))
         rows, dropped = select(iso, all_countries[iso], docs, study["subjects"], routes)
         for r in rows:
             if around_terms(r):

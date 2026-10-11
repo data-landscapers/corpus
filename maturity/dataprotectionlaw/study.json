@@ -9,32 +9,26 @@
   "redraws": [
     "gov.legislate--data-protection-legislation"
   ],
+  "carry": [
+    "gov.legislate--data-protection-legislation",
+    "gov.protect--data-protection-authority"
+  ],
   "terms": [
     "data protection",
-    "personal data",
-    "personal information",
-    "data privacy",
-    "privacy act",
-    "privacy law",
-    "privacy bill",
+    "protection of personal data",
+    "personal data protection",
+    "protection of personal information",
     "POPIA",
     "Malabo Convention",
-    "Convention 108",
     "protection des données",
     "données à caractère personnel",
-    "données personnelles",
-    "informatique et libertés",
     "Convention de Malabo",
     "proteção de dados",
     "protecção de dados",
-    "dados pessoais",
     "Convenção de Malabo",
     "protección de datos",
-    "datos personales",
     "حماية البيانات",
-    "البيانات الشخصية",
-    "المعطيات الشخصية",
-    "المعطيات ذات الطابع الشخصي",
+    "حماية المعطيات",
     "اتفاقية مالابو"
   ],
   "sub_indicators": [
