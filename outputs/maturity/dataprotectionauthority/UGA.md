@@ -1,0 +1,11 @@
+# Uganda
+
+## Supervisory authority
+
+**Named in law and appointed.** The Personal Data Protection Office, established under the Data Protection and Privacy Act, is [headed by director Baker Birikujja, who addressed an ISACA Kampala breakfast on 18 August 2026](https://www.monitor.co.ug/uganda/news/national/over-35-000-entities-unregistered-as-regulator-cracks-down-on-data-privacy-violations-5563326). It [briefed government IT officers on data protection on 13 August 2026](https://techreviewafrica.purplealmondconsulting.com/public/news/6726/uganda-personal-data-protection-office-engages-information-technology-officers-from-government-ministries). It [keeps a register of data collectors, controllers and processors](https://pdpo.go.ug/media/2025/07/Ssekamwa-Frank-3-Ors-vs-Google-LLC-PDPO-Decision-18th-July-2024.pdf), and a report describes it as [an independent office under NITA-U](https://www.newvision.co.ug/category/news/google-declared-in-breach-of-ugandas-data-pro-NV_214858_032026).
+
+**Rulings and published figures.** On 18 July 2025 the Office [found Google LLC in breach of the registration and cross-border transfer duties and ordered it to register and document its transfer compliance within 30 days](https://pdpo.go.ug/media/2025/07/Ssekamwa-Frank-3-Ors-vs-Google-LLC-PDPO-Decision-18th-July-2024.pdf). On 20 February 2026 it [partly upheld the AdLegal International complaint and issued five corrective orders to WhatsApp LLC, with no fine](https://businesstimesug.com/whatsapp-updates-privacy-policies-after-uganda-data-protection-enforcement/). By letter of 17 July 2026 it confirmed that WhatsApp had carried out the measures on time.
+
+***Noted, not assessed***. None held.
+
+***Not held***. No count of the authority's decisions, fines or complaints settled is held for a period ending in the last two years.

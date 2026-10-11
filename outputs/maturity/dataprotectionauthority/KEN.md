@@ -1,0 +1,11 @@
+# Kenya
+
+## Supervisory authority
+
+**Named in law and appointed.** The Office of the Data Protection Commissioner was established under the Data Protection Act, 2019, and Immaculate Kassait has been the inaugural commissioner since 2020, [TechTrends KE reports](<https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/>); on 30 September 2026 the Public Service Commission had shortlisted 13 of 152 applicants to succeed her. Its [March 2025 bulletin](<https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf>) shows offices in Nairobi, Kisumu, Mombasa, Eldoret, Machakos, Nyeri and Nakuru. [The Standard](<https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats>) reports that the office launched an ISO 9001:2015 quality management system on 14 July 2026.
+
+**Rulings and published figures.** As at September 2024 the office had fined at least nine businesses a total of KES 26,275,000, [Cadmus Cyber Solutions states](<https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations>), including Oppo Kenya in 2022 (KES 5m) and SBM Bank in 2024 (KES 450,000). The [office's own bulletin](<https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf>) gives cumulative counts to March 2025: 7,128 complaints received, 97 percent resolved, 215 determinations, penalties on 10 entities and 103 compensations.
+
+***Noted, not assessed***. [Data Protection Act, 2019](<https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/>); [Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021](<https://www.the-star.co.ke/news/2026-08-28-odpc-gives-data-handlers-14-days-to-renew-expired-certificates>); [Data Protection Regulations (2021)](<https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations>).
+
+***Not held***. No count of decisions, fines or complaints settled is held for a period ending in the last two years, and the 215 determinations carry no period.

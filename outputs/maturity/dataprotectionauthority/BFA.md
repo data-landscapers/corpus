@@ -1,0 +1,11 @@
+# Burkina Faso
+
+## Supervisory authority
+
+**Named in law and appointed.** Law no. 001-2021/AN creates the Commission de l'informatique et des libertés (CIL) as the supervisory authority, with [nine members appointed by decree](<https://www.fonction-publique.gov.bf/fileadmin/user_upload/storage/22-08-2021-C2-LOI-N__001-2021_AN_portant_protection_des_personnes.pdf>). It is at work: its president [led a training for a minister's cabinet on 11 August 2025](<https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-le-cabinet-du-ministre-de-la-fonction-publique-outille/>), and the [2024 finance law gives it its own budget section](<https://budgetouvert.wordpress.com/wp-content/uploads/2024/07/loi-de-finances-2024-2026-vf2.pdf>). On 3 August 2026 the legislative assembly [adopted a bill](<https://www.aib.media/burkina-les-deputes-adoptent-la-loi-portant-creation-de-larcod-issue-de-la-fusion-du-csc-et-de-la-cil/>) merging the CIL into a new regulator, ARCOD.
+
+**Rulings and published figures.** A [guide to the 2021 law](<https://africanlegalfactory.com/2024/01/30/understanding-personal-data-protection-in-burkina-faso/>) says the CIL may issue warnings, formal notices, injunctions and fines. No ruling against a named organisation is held. The figures held are budget figures: the [2024 finance law](<https://budgetouvert.wordpress.com/wp-content/uploads/2024/07/loi-de-finances-2024-2026-vf2.pdf>) appropriated XOF 857,062,000 for the CIL and 799,459,500 was executed, and the [mid-year review at 30 June 2025](<https://www.finances.gov.bf/fileadmin/user_upload/storage/fichiers/Rapport_de_la_revue_a_mi-parcours_de_l_execution_du_budget_de_l_Etat_exercice_2025_.pdf>) lists it again.
+
+***Noted, not assessed***. [Loi n°001-2021/AN](<https://www.fonction-publique.gov.bf/fileadmin/user_upload/storage/22-08-2021-C2-LOI-N__001-2021_AN_portant_protection_des_personnes.pdf>); [Loi n°010-2004/AN](<https://www.sidwaya.info/journee-nationale-de-protection-des-donnees-a-caractere-personnel-la-cil-sollicite-laccompagnement-du-premier-ministre/>).
+
+***Not held***. No ruling of the authority against a named organisation in the last three years is held. Whether ARCOD's members have been appointed is not known, and the CIL is counted until a source says it has gone.

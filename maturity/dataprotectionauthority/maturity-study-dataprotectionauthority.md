@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-dataprotectionauthority.md — the tenth maturity study: the data protection authority, in four questions
 last_reviewed: 2026-10-11
-status: prepared under the simpler method of 2026-10-11; the four questions agreed by Bill the same day; not yet run
+status: run on Bill's word of 2026-10-11; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: dataprotectionauthority
@@ -73,10 +73,10 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-11. **The four questions agreed by Bill, 2026-10-11.**
-- [ ] **D1. Build the two things the method now names and no script yet does**: `study-select.py`'s pass `about`, and the carry of another study's facts into `evidence.csv` (`carry_studies` in `study.json`).
-- [ ] **D2. Carry, then read the `about` stories**, method §4.
-- [ ] **D3. Stage all 54 countries and check agreement**, method §7.
-- [ ] **D4. Write, render and lint**, method §8. **D5. Report to Bill.**
+- [x] **D1. Built**: `study-select.py`'s passes `about` and `carried`, and `study-carry.py`.
+- [x] **D2. Carried and read**: 326 facts carried from the law study, 112 from the 128 stories, in 47 calls.
+- [x] **D3. Staged**: 5 at stage 5, 8 at 4, 21 at 3, 11 at 2, 4 at 1, three unplaced, two with no evidence, as at 2026-09-30; 13 corrections; agreement 20 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-11.
 
 ## Boundary
 

@@ -75,7 +75,15 @@
       "subject": "gov.protect",
       "text": "Data protection authority: supervisory authority",
       "indicator_id": "gov.protect--data-protection-authority-supervisory-authority",
-      "class": "authority"
+      "class": "authority",
+      "criteria": [
+        "A source from the past three years says the country has no data protection authority, and no law in force names one.",
+        "A law names a data protection authority. No source says its head or members have been appointed.",
+        "The authority's head or members are appointed, or an existing body given the job is doing it. No ruling against a named organisation is on record in the past three years.",
+        "The authority has ruled against a named organisation in the past three years: a decision, fine or order. A court's judgment does not count.",
+        "The authority publishes a count of its decisions, fines or complaints settled, for a period of a quarter or more ending within the past two years."
+      ],
+      "criteria_of": "c379dba84090"
     }
   ],
   "classes": [

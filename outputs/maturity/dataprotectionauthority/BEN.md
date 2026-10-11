@@ -1,0 +1,11 @@
+# Benin
+
+## Supervisory authority
+
+**Named in law and appointed.** [Book V of the Digital Code, Articles 462 to 473, established the Autorité de Protection des Données Personnelles as an independent administrative authority](https://sgg.gouv.bj/doc/loi-2017-20/download). It has a sitting head: [president Luciano Hounkponou led a delegation to Lomé on 2 and 3 October 2026](https://ipdcp.tg/linstance-de-protection-des-donnees-a-caractere-personnel-ipdcp-et-lautorite-de-protection-des-donnees-personnelles-du-benin-apdp-renforcent-leur-cooperation-a-lome/). [Seventeen of its officers were sworn in on 14 September 2026](https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection). The [2026 finance law opens a programme for it at XOF 738,277,000](https://budgetbenin.bj/wp-content/uploads/2026/02/Tableaux-de-Classifications-croisees-des-depenses-de-l-Etat-sur-la-periode-pluriannuelle-2022-2028-budget-LF-2026.xlsx).
+
+**Rulings and published figures.** The authority's [published 2025 report gives 907 files examined, 64 inspection missions, 20 complaints treated and 75 compliance certificates issued](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite). Its [2015 to 2020 report counts 347 decisions, 136 of them in 2020](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf). On [18 August 2016 it refused Spacetel Benin authorisation to collect biometric subscriber data](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf).
+
+***Noted, not assessed***. The [Code du numérique, as amended by loi n° 2020-35](https://fraternite.bj/protection-des-donnees-a-caractere-personnel-au-benin-ce-que-dit-la-loi-du-06-janvier-2021/), and [Loi n° 2009-09 of 22 May 2009, replaced by the 2018 Code](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf).
+
+***Not held***. Nothing on the four questions.

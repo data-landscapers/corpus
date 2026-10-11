@@ -1,0 +1,11 @@
+# Senegal
+
+## Supervisory authority
+
+**Named in law and appointed.** The Commission de protection des données personnelles (CDP) is an [independent administrative authority set up by law no. 2008-12 of 25 January 2008](<https://aps.sn/plus-de-300-dossiers-traites-par-la-commission-de-protection-des-donnees-personnelles-au-premier-trimestre-2026-officiel/>). It was [acting in the April to June 2026 quarter, holding two plenary sessions and issuing decisions](<https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html>), and in September 2026 its permanent secretary [described joint interoperability work with the DAF](<https://www.pressafrik.com/Protection-des-donnees-la-CDP-et-la-DAF-s-unissent-pour-securiser-les-donnees-d-identite-des-Senegalais_a311700.html>). Its president has [signed a partnership convention with Benin's authority](<https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou>).
+
+**Rulings and published figures.** In April 2024 the CDP's plenary session [served a formal notice on SOLID SA, operator of the Kay Voter platform](<https://senego.com/la-plateforme-kay-voter-mise-en-demeure-par-la-cdp-pour-des-sms-non-sollicites-sur-le-report-de-lelection_1688747.html>), and in March 2026 it [ordered a company to uninstall a meeting-room camera](<https://aps.sn/plus-de-300-dossiers-traites-par-la-commission-de-protection-des-donnees-personnelles-au-premier-trimestre-2026-officiel/>). It publishes quarterly figures, including [317 files handled in January to March 2026](<https://aps.sn/plus-de-300-dossiers-traites-par-la-commission-de-protection-des-donnees-personnelles-au-premier-trimestre-2026-officiel/>) and [195 files handled in April to June 2026](<https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html>).
+
+***Noted, not assessed***. [Loi n° 2008-12 du 25 janvier 2008](<https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html>), the data protection law.
+
+***Not held***. Nothing further is held on the four questions.
