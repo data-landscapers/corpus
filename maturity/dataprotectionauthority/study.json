@@ -1,0 +1,170 @@
+{
+  "id": "dataprotectionauthority",
+  "study_file": "maturity-study-dataprotectionauthority.md",
+  "subjects": [
+    "gov.protect",
+    "gov.legislate"
+  ],
+  "stage_topic": "gov.protect",
+  "redraws": [
+    "gov.protect--data-protection-authority"
+  ],
+  "carry": [
+    "gov.protect--data-protection-authority",
+    "gov.legislate--data-protection-legislation"
+  ],
+  "terms": [
+    "data protection authority",
+    "data protection commission",
+    "data protection commissioner",
+    "data protection office",
+    "data protection agency",
+    "data protection regulator",
+    "data protection bureau",
+    "information regulator",
+    "information and data protection",
+    "personal data protection authority",
+    "personal data protection commission",
+    "personal data protection office",
+    "privacy commission",
+    "autorité de protection des données",
+    "autorité de régulation de la protection des données",
+    "autorité nationale de protection des données",
+    "haute autorité de protection des données",
+    "instance nationale de protection des données",
+    "commission de protection des données",
+    "commission nationale de contrôle de la protection des données",
+    "commission de l'informatique et des libertés",
+    "commission nationale de l'informatique et des libertés",
+    "agência de proteção de dados",
+    "agência de protecção de dados",
+    "comissão nacional de proteção de dados",
+    "comissão nacional de protecção de dados",
+    "autoridad de protección de datos",
+    "órgano rector de protección de datos",
+    "مركز حماية البيانات الشخصية",
+    "السلطة الوطنية لحماية المعطيات",
+    "اللجنة الوطنية لمراقبة حماية المعطيات",
+    "الهيئة الوطنية لحماية المعطيات الشخصية"
+  ],
+  "sub_indicators": [
+    {
+      "key": "body",
+      "label": "Supervisory authority",
+      "subject": "gov.protect",
+      "text": "Data protection authority: supervisory authority",
+      "indicator_id": "gov.protect--data-protection-authority-supervisory-authority",
+      "class": "authority"
+    }
+  ],
+  "classes": [
+    "authority",
+    "informal",
+    "sectoral",
+    "law",
+    "court",
+    "network",
+    "adjacent",
+    "regional"
+  ],
+  "aspects": [
+    {
+      "key": "standing",
+      "name": "Standing",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "lapsed",
+        "constituted",
+        "provided",
+        "proposed"
+      ],
+      "values": [
+        "constituted",
+        "lapsed",
+        "provided",
+        "proposed",
+        "none"
+      ]
+    },
+    {
+      "key": "operations",
+      "name": "Operations",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "reported",
+        "enforcing",
+        "active"
+      ],
+      "values": [
+        "reported",
+        "enforcing",
+        "active",
+        "none"
+      ]
+    },
+    {
+      "key": "resources",
+      "name": "Resources",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "values": [
+        "published",
+        "none"
+      ]
+    },
+    {
+      "key": "seat",
+      "name": "Seat",
+      "role": "qualifier",
+      "window_months": 120,
+      "prefer": [
+        "ministry",
+        "hosted",
+        "own"
+      ],
+      "values": [
+        "own",
+        "hosted",
+        "ministry"
+      ]
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": [
+        "advancing",
+        "no-change",
+        "regressing"
+      ]
+    }
+  ],
+  "cap": {
+    "aspect": "seat",
+    "above": 4,
+    "flag": "ministry unit",
+    "any": [
+      "own",
+      "hosted"
+    ]
+  },
+  "flags": [
+    "ministry unit",
+    "hosted",
+    "no statutory authority",
+    "sectoral only",
+    "network member",
+    "vacant",
+    "advancing",
+    "regressing"
+  ]
+}
