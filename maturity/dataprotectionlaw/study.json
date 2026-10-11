@@ -1,0 +1,167 @@
+{
+  "id": "dataprotectionlaw",
+  "study_file": "maturity-study-dataprotectionlaw.md",
+  "subjects": [
+    "gov.legislate",
+    "gov.protect"
+  ],
+  "stage_topic": "gov.legislate",
+  "redraws": [
+    "gov.legislate--data-protection-legislation"
+  ],
+  "terms": [
+    "data protection",
+    "personal data",
+    "personal information",
+    "data privacy",
+    "privacy act",
+    "privacy law",
+    "privacy bill",
+    "POPIA",
+    "Malabo Convention",
+    "Convention 108",
+    "protection des données",
+    "données à caractère personnel",
+    "données personnelles",
+    "informatique et libertés",
+    "Convention de Malabo",
+    "proteção de dados",
+    "protecção de dados",
+    "dados pessoais",
+    "Convenção de Malabo",
+    "protección de datos",
+    "datos personales",
+    "حماية البيانات",
+    "البيانات الشخصية",
+    "المعطيات الشخصية",
+    "المعطيات ذات الطابع الشخصي",
+    "اتفاقية مالابو"
+  ],
+  "sub_indicators": [
+    {
+      "key": "general",
+      "label": "General law",
+      "subject": "gov.legislate",
+      "text": "Data protection legislation: general law",
+      "indicator_id": "gov.legislate--data-protection-legislation-general-law",
+      "class": "general"
+    }
+  ],
+  "classes": [
+    "general",
+    "sectoral",
+    "constitutional",
+    "regulation",
+    "authority",
+    "treaty",
+    "policy",
+    "adjacent",
+    "regional"
+  ],
+  "aspects": [
+    {
+      "key": "authority",
+      "name": "Authority",
+      "role": "qualifier",
+      "window_months": 36,
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "constituted",
+        "provided"
+      ],
+      "values": [
+        "constituted",
+        "provided",
+        "none"
+      ]
+    },
+    {
+      "key": "standing",
+      "name": "Standing",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "in-force",
+        "transition",
+        "enacted",
+        "passed",
+        "tabled",
+        "drafting",
+        "announced"
+      ],
+      "values": [
+        "in-force",
+        "transition",
+        "enacted",
+        "passed",
+        "tabled",
+        "drafting",
+        "announced",
+        "none"
+      ]
+    },
+    {
+      "key": "regulations",
+      "name": "Regulations",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "values": [
+        "issued",
+        "none"
+      ]
+    },
+    {
+      "key": "application",
+      "name": "Application",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "reported",
+        "applied",
+        "activity"
+      ],
+      "values": [
+        "reported",
+        "applied",
+        "activity",
+        "none"
+      ]
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": [
+        "advancing",
+        "no-change",
+        "regressing"
+      ]
+    }
+  ],
+  "cap": {
+    "aspect": "authority",
+    "above": 3,
+    "flag": "no authority",
+    "all": [
+      "constituted"
+    ]
+  },
+  "flags": [
+    "no authority",
+    "sectoral only",
+    "Malabo ratified",
+    "under revision",
+    "regulations pending",
+    "advancing",
+    "regressing"
+  ]
+}
