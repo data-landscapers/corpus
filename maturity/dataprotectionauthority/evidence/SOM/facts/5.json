@@ -1,0 +1,34 @@
+{
+ "slug": "2024-02-26 Somalia inaugurates its Data Protection Authority",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Somalia inaugurated its Data Protection Authority on 24 February 2024, following the Data Protection Law No. 005 of 2023.",
+   "as_of": "2024-02-24",
+   "date_precision": "day",
+   "system": "Data Protection Law No. 005 of 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Law No. 005 of 2023",
+   "country_label": "Data Protection Law (Law No. 005 of 2023)",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Government of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection Authority",
+   "country_label": "Data Protection Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "2026-04-30-apd-mauritanie-deliberation-005-2025-modifiee-cloud-etranger",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The deliberation was adopted by the APD under its president with seven named members present, and cites decree 2022-13 of 18 February 2022 on the authority's composition and operation.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Loi n° 2017-020 relative à la protection des données à caractère personnel",
+   "country_label": "Loi 2017-020 of 22 July 2017",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Délibération n° 005/2025",
+   "country_label": "Délibération 005/2025 (cloud abroad)",
+   "class": "other",
+   "platform": "",
+   "owner": "APD",
+   "tiers": ""
+  },
+  {
+   "system": "Délibération n° 004/2025",
+   "country_label": "Délibération 004/2025 (transfers abroad)",
+   "class": "other",
+   "platform": "",
+   "owner": "APD",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

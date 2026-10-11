@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-13-niger-africadataprotection-suppression-hapdp",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "none",
+   "class": "authority",
+   "fact": "Africa Data Protection reports that the government has by decree abolished the HAPDP and split its powers between the Ministry of Justice and the Ministry of the Interior; the decree date is not given, so the report's publication date is used.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "Niger personal data protection law (loi 2022-59)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Haute Autorité de Protection des Données à caractère Personnel (HAPDP)",
+   "country_label": "HAPDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Niger",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

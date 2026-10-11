@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-16-macra-data-protection-registration-compliance-malawi24",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "MACRA, through its Head of Data Protection Daniel Chiwoni, runs the consultation on the draft rules, and organisations are to register with the Data Protection Authority; the article gives no separate appointment of the Authority's head or members (published date used, as the article gives none for the status).",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2024"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2024",
+   "country_label": "Data Protection Act, 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "Data Protection Authority",
+   "country_label": "Data Protection Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "Malawi Communications Regulatory Authority (MACRA)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

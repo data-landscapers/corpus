@@ -1,0 +1,50 @@
+{
+ "slug": "2026-10-07-egypt-personal-data-protection-law-update",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Baker McKenzie says the Personal Data Protection Center (PDPC) officially launched its electronic portal in early October 2026 to receive and process applications for accreditation, licences and permits.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Personal Data Protection Law No. 151 of 2020"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Law No. 151 of 2020",
+   "country_label": "Personal Data Protection Law (PDPL)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Executive Regulations of the PDPL (Decree No. 816 of 2025)",
+   "country_label": "PDPL Executive Regulations",
+   "class": "other",
+   "platform": "",
+   "owner": "Minister of Telecommunications and Information Technology",
+   "tiers": ""
+  },
+  {
+   "system": "Personal Data Protection Center (PDPC)",
+   "country_label": "Personal Data Protection Center",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "PDPC electronic portal",
+   "country_label": "PDPC portal",
+   "class": "",
+   "platform": "Digital Egypt authentication tied to national ID",
+   "owner": "Personal Data Protection Center",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

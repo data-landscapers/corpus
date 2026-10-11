@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The article states that the ANPDP issues authorisations and receives declarations of processing under article 25 and that it organised a study day.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11)",
+   "country_label": "loi 18-07 modifiée par la loi 25-11",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANPDP",
+   "country_label": "Autorité nationale de la protection des données",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

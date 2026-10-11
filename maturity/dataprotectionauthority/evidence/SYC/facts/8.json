@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-22-seychelles-data-protection-act-2023-act-24",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Section 5 names the Information Commission, established under section 36 of the Access to Information Act, as the competent authority to enforce the Act, with powers to investigate, audit, issue enforcement notices and impose administrative fines up to SCR200,000; the document itself does not state that the Commission was acting under the Act.",
+   "as_of": "2023-12-22",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Commission",
+   "country_label": "Information Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "Republic of Seychelles",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

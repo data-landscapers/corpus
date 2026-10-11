@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-15-anpdp-algeria-deliberation-04-images-plateformes-numeriques",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The deliberation is adopted by a majority of the Authority's members at their sitting of 15 July 2026, signed by its president, with twelve members named at the foot.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended)",
+   "country_label": "القانون رقم 18-07 المعدل والمتمم",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANPDP",
+   "country_label": "السلطة الوطنية لحماية المعطيات ذات الطابع الشخصي",
+   "class": "authority",
+   "platform": "",
+   "owner": "Présidence de la République",
+   "tiers": ""
+  },
+  {
+   "system": "ANPDP délibération n° 04 (15 July 2026)",
+   "country_label": "مداولة رقم 04",
+   "class": "other",
+   "platform": "",
+   "owner": "ANPDP",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

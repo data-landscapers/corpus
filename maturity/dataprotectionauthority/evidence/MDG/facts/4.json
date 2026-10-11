@@ -1,0 +1,34 @@
+{
+ "slug": "2025-02-25-gouvernance-numerique-donnees-personnelles-cmil-lexpress",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "L'Express reports that the CMIL, provided for by loi n°2014-038 of 9 January 2015, had still not been created when the AFAPDP presented its mission findings, and that the AFAPDP urged its creation.",
+   "as_of": "2025-02-25",
+   "date_precision": "day",
+   "system": "Loi n° 2014-038 sur la protection des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 2014-038 sur la protection des données à caractère personnel",
+   "country_label": "Loi n° 2014-038",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)",
+   "country_label": "CMIL",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

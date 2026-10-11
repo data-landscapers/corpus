@@ -1,0 +1,42 @@
+{
+ "slug": "2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The APD met on 24 March 2026 under its president with eight named members, citing decree 2022-13 of 18 February 2022 on its composition and operation.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Loi n° 2017-020 relative à la protection des données à caractère personnel",
+   "country_label": "Loi 2017-020 of 22 July 2017",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Maadeni",
+   "country_label": "معدني (Maadeni)",
+   "class": "",
+   "platform": "",
+   "owner": "Maaden Mauritanie",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

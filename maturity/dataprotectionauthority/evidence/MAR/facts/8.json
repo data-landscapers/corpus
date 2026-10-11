@@ -1,0 +1,17 @@
+{
+ "slug": "2023-01-11-cndp-communique-publication-registre-national-rn-pdp",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The CNDP, installed in 2010, is stated to be acting under law 09-08, keeping the national register of processing operations covering 2010 to 31 December 2022.",
+   "as_of": "2023-01-11",
+   "date_precision": "day",
+   "system": "CNDP"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

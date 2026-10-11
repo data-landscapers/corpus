@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-zambia-dzap-data-protection-compliance-system",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "A World Bank-financed project tender dated 10 August 2026 (expressions of interest due 21 August 2026) seeks a firm to build a compliance management system for the Data Protection Commission of Zambia, the body described as conducting investigations, issuing determinations and enforcing the law; the commission is treated as an existing body.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "Data Protection Commission of Zambia"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission of Zambia",
+   "country_label": "Data Protection Commission (DPC)",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

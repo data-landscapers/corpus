@@ -1,0 +1,34 @@
+{
+ "slug": "2011-09-19 Angola Passes Personal Data Protection Law (Law 22-11)",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The note states that Law 22/11 establishes a Data Protection Agency with powers over international transfers and processing notifications; it does not say the body was constituted.",
+   "as_of": "2011-06-17",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados (Data Protection Agency)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei n.º 22/11 on Personal Data Protection",
+   "country_label": "Lei de Protecção de Dados Pessoais",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly",
+   "tiers": ""
+  },
+  {
+   "system": "Agência de Protecção de Dados (Data Protection Agency)",
+   "country_label": "Agência de Protecção de Dados",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

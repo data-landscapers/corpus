@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-17-dpa-guideline-checklist-compliance",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The guideline states that the Malawi Communications Regulatory Authority is the designated Data Protection Authority under the Data Protection Act (No. 3 of 2024), responsible for overseeing the Act, and it issues the guideline in that role.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "Data Protection Act (No. 3 of 2024)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

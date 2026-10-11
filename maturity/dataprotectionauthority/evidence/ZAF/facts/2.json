@@ -1,0 +1,44 @@
+{
+ "slug": "2026-09-02-itweb-co-za-popia-grace-period-fines",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Information Regulator imposed its first fine, R5 million, on the Department of Justice and Constitutional Development for breaching POPIA, according to ITWeb quoting the Regulator.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "Protection of Personal Information Act (POPIA)"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Regulator also fined the Department of Basic Education R5 million, and the Electoral Commission and Lancet Laboratories R100,000 each, both paid; the document gives no dates for these (published 2026-09-02).",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Protection of Personal Information Act (POPIA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act (POPIA)",
+   "country_label": "POPIA",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator (enforcer)",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator",
+   "country_label": "InfoReg",
+   "class": "authority",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-21-ghana-news-data-protection-commission-acquires-vehicles-boost",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Commission is acting under Act 843 with Executive Director Dr Arnold Kavaarpuo, and received two pickup vehicles bought from its internally generated funds on 2026-08-20; it operates only from its head office.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission (DPC)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Data Protection Commission, Ghana",
+   "tiers": "national head office; regional offices planned in five regions by end 2026"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

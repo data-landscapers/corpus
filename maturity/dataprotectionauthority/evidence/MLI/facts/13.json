@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-14-mli-decret-n2024-0300-pt-rm-du-14-mai-2024-instituant-le-paiement-des-frai",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The decree provides that fees are paid to the APDP's revenue office (régie de recettes), which implies a constituted authority operating (decree of 14 May 2024).",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Authority (APDP)",
+   "country_label": "APDP Mali",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

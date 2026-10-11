@@ -1,0 +1,42 @@
+{
+ "slug": "2025-11-15-ethiopia-data-protection-law-slow-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Ethiopian Communications Authority, whose mandate was extended from telecom regulation to data protection, is described as enforcing the law, with its Director General Balcha Reba saying data processors and collectors now need the Authority's permission and that staffing and technical capacity are being expanded (date is the article's published date).",
+   "as_of": "2025-11-15",
+   "date_precision": "day",
+   "system": "Ethiopian Communications Authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Proclamation",
+   "country_label": "Personal Data Protection Proclamation",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Democratic Republic of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Ethiopian Communications Authority",
+   "country_label": "Ethiopian Communications Authority (ECA)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "ECA data controller and processor registration portal",
+   "country_label": "digital registration portal",
+   "class": "authority",
+   "platform": "",
+   "owner": "Ethiopian Communications Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

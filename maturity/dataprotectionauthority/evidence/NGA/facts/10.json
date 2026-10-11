@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-28-ndpc-issues-fresh-registration-directive-following-court-victory",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Punch reports the NDPC, with National Commissioner and CEO Vincent Olatunji and Head of Legal, Enforcement and Regulations Babatunde Bamigboye, issued a statement on Tuesday 28 July 2026 directing unregistered Data Controllers and Processors of Major Importance to register.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "A Federal High Court judgment affirmed the NDPC's power to designate and register Data Controllers and Processors of Major Importance against a challenge on behalf of PoS agents; the judgment date is not given and the article is dated 28 July 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act, 2023",
+   "country_label": "Nigeria Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  },
+  {
+   "system": "NDPC Guidance Notice on Registration",
+   "country_label": "Guidance Notice on Registration",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

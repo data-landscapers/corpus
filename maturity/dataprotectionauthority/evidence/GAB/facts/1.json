@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-04-union-sonapresse-gabon-apdpvp-data-protection-interview",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "In an interview published 4 September 2026 the APDPVP's president, Joel Dominique Ledaga, speaks as the sitting head of the authority and describes its powers to give reasoned opinions, self-refer, hear companies and inspect installations.",
+   "as_of": "2026-09-04",
+   "date_precision": "day",
+   "system": "Autorité pour la protection des données personnelles et de la vie privée (APDPVP)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi relative à la protection des données à caractère personnel",
+   "country_label": "loi sur la protection des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "APDPVP",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

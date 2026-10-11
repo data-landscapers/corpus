@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-tza-therespondents-pdpc-dpo-training-registrations-aug-2026",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The PDPC is acting: it ran the eighth phase of its DPO training programme in Morogoro on 7-8 October 2026 for more than 300 participants.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Commission (PDPC)",
+   "country_label": "Tume ya Ulinzi wa Taarifa Binafsi",
+   "class": "authority",
+   "platform": "",
+   "owner": "Director General Dr Emmanuel Mkilia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The World Bank's Eswatini Economic Update recommends fully operationalizing the Cybersecurity Agency and the Data Protection Office through a national change management programme; the page gives no date for the statement, so its published date is used.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "Data Protection Office"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Office",
+   "country_label": "Data Protection Office",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

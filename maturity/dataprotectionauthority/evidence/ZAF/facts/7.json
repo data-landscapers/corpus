@@ -1,0 +1,52 @@
+{
+ "slug": "2026-06-14-inforeg-first-enforcement-notice-2026",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Information Regulator published on 20 May 2026 an enforcement notice against Central Johannesburg TVET College, finding breaches of POPIA conditions for lawful processing and of the section 22 duty to notify security compromises, and ordering registration of information officers, notification of data subjects, an apology, a compliance framework and training within set periods.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act, 2013 (POPIA)"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Information Regulator, through its Enforcement Committee, issued the POPIA enforcement notice of 20 May 2026 and runs an eServices Portal on which information officers are registered.",
+   "as_of": "2026-05-20",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act, 2013 (POPIA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act, 2013 (POPIA)",
+   "country_label": "POPIA",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator of South Africa",
+   "country_label": "Information Regulator",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator eServices Portal",
+   "country_label": "eServices Portal",
+   "class": "",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": "responsible parties registering information officers"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

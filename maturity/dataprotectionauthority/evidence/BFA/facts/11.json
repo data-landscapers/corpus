@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-15-bfa-2024-59-122",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The 2024 finance law gives the CIL its own budget section 59, programme 122, with XOF 857,062,000 appropriated and XOF 799,459,500 executed (93.3%), per the Direction générale du Budget.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Commission de l'Informatique et des Libertés (CIL)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de l'Informatique et des Libertés (CIL)",
+   "country_label": "CIL",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Burkina Faso",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

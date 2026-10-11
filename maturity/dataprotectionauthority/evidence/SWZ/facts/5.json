@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-03-eswatini-launches-data-protection-campaign",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The EDPA launched its 2026 awareness campaign 'Take Control of Your Data' and has a registration regime for organisations.",
+   "as_of": "2026-02-03",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2022 (No. 5 of 2022)",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament; supervised by ESCCOM as EDPA",
+   "tiers": ""
+  },
+  {
+   "system": "Eswatini Data Protection Authority (EDPA)",
+   "country_label": "EDPA",
+   "class": "authority",
+   "platform": "",
+   "owner": "Eswatini Communications Commission (ESCCOM)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-14-arp-tunisie-loi-organique-095-2025-protection-donnees-personnelles",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The tabled bill provides for a personal data protection authority (chapter four, from article 94) and vests the 2004 national authority's property, files and data in it (article 132); it is not constituted by the bill.",
+   "as_of": "2025-07-14",
+   "date_precision": "day",
+   "system": "Projet de loi organique n. 095/2025 relatif a la protection des donnees a caractere personnel"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

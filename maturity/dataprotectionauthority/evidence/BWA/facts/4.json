@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-29-bwa-idpc-permanent-base-three-contract-officers",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Minister stated the Information and Data Protection Commission was established in 2022 and its commissioner had employed three contract officers, while the Deputy Commissioner and two director posts were unfilled and the structure awaited approval.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Data Protection Act No. 18 of 2024"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act No. 18 of 2024",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "Information and Data Protection Commission",
+   "country_label": "IDPC",
+   "class": "authority",
+   "platform": "",
+   "owner": "Ministry for State President",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

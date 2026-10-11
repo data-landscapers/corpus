@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-04-gha-gna-dpc-spot-checks-enforcement-act-843",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, is acting under Act 843, which the document gives as the body running registration and spot checks (document published 2026-10-04).",
+   "as_of": "2026-10-04",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission (DPC)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Data Protection Commission, Ghana",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

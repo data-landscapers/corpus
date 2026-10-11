@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-05-lessor-apdp-segou-antenne",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "L'Essor reports that Mali's APDP, created by Law 2013-015, opened a regional antenna at Ségou on 4 December 2025, with a national delegation led by its 2nd rapporteur.",
+   "as_of": "2025-12-04",
+   "date_precision": "day",
+   "system": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APDP)",
+   "country_label": "APDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Mali (independent administrative authority)",
+   "tiers": "national; regional antenna at Ségou"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

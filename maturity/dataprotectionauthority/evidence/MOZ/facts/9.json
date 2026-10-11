@@ -1,0 +1,66 @@
+{
+ "slug": "2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "none",
+   "class": "authority",
+   "fact": "The inception report states that Mozambique has no data regulatory authority, though INTIC, INCM, INAGE and CEDSIF impliedly oversee parts of data governance.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Data regulatory authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Bill",
+   "country_label": "Data Protection Bill",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  },
+  {
+   "system": "Constitution of the Republic of Mozambique, Article 71",
+   "country_label": "Constitution art. 71",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Transactions Law (Law 3/2017)",
+   "country_label": "Lei das Transaccoes Electronicas",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Banco de Mocambique Notice 8/GBM/2021 on consumer data protection",
+   "country_label": "Notice 8/GBM/2021",
+   "class": "other",
+   "platform": "",
+   "owner": "Banco de Mocambique",
+   "tiers": ""
+  },
+  {
+   "system": "African Union Convention on Cybersecurity and Personal Data Protection (Malabo Convention)",
+   "country_label": "Malabo Convention",
+   "class": "other",
+   "platform": "",
+   "owner": "African Union",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Governance Strategy and National Data Policy (in development)",
+   "country_label": "National Data Policy",
+   "class": "other",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

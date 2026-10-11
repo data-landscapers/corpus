@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-12-pdpc-to-begin-data-protection-inspections-april",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "PDPC Director General Dr Emanuel Mkilia spoke in Mbeya on 11 February 2026 at the opening of a DPO seminar and announced inspections.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Commission (PDPC)",
+   "country_label": "Tume ya Ulinzi wa Taarifa Binafsi",
+   "class": "authority",
+   "platform": "",
+   "owner": "Director General Dr Emmanuel Mkilia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

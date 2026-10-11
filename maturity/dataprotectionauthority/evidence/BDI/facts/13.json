@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-24-bdi-burundi-sets-data-as-a-strategic-digital-public-good",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The law establishes an independent administrative authority to oversee data protection; the article does not say the authority has been constituted. Law promulgated 10 March 2026.",
+   "as_of": "2026-03-10",
+   "date_precision": "day",
+   "system": "Burundi personal data protection law"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

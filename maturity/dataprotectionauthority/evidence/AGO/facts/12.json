@@ -1,0 +1,42 @@
+{
+ "slug": "2026-04-21-tdr-consultoria-lei-organica-da-agencia-de-proteccao-de-dados",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The terms of reference state the APD was formally instituted by Lei n.º 22/11 with its organisation and functioning defined by Decreto Presidencial n.º 214/16, and refer to its current organic statute; as_of is the document's version date of 21 April 2026.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados (APD)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei n.º 22/11 on Personal Data Protection",
+   "country_label": "Lei de Protecção de Dados Pessoais (LPDP)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Agência de Protecção de Dados (APD)",
+   "country_label": "Agência de Protecção de Dados",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Decreto Presidencial n.º 214/16",
+   "country_label": "Estatuto Orgânico da APD",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

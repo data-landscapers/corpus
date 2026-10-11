@@ -1,0 +1,17 @@
+{
+ "slug": "2014-12-16-loi-2014-038-protection-donnees-caractere-personnel",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Article 28 of Law No. 2014-038 institutes an independent authority, the Commission Malagasy de l'Informatique et des Libertés (CMIL), of nine members designated by decree in Council of Ministers, with regulatory and sanctioning powers; the text records no appointment of members.",
+   "as_of": "2014-12-16",
+   "date_precision": "day",
+   "system": "Loi n° 2014-038 sur la protection des données à caractère personnel"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

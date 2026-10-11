@@ -1,0 +1,17 @@
+{
+ "slug": "2017-07-22-mrt-loi-2017-020-protection-donnees-a-caractere-personnel-apd",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Article 64 creates an independent public-law Authority for Personal Data Protection attached to the Prime Minister, and Article 65 leaves its composition and appointment of members to a decree.",
+   "as_of": "2017-07-22",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

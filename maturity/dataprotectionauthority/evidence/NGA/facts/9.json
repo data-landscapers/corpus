@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-28-federal-high-court-affirms-ndpc-authority-to-register-dcpmis",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "TechTrends Africa reports the NDPC, led by National Commissioner and CEO Dr Vincent Olatunji, directed unregistered Data Controllers and Processors of Major Importance to register after winning a Federal High Court case; article dated 28 July 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The court rejected a bid to exempt PoS agents from classification as Data Controllers or Processors of Major Importance and refused to restrain their registration; the article gives no judgment date and is dated 28 July 2026.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act, 2023",
+   "country_label": "Nigeria Data Protection Act, 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  },
+  {
+   "system": "NDPC Guidance Notice on Registration",
+   "country_label": "Guidance Notice on Registration",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

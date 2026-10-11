@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-04-eswatini-online-media-publishing-guidelines-2026",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Ministry of ICT stated that oversight of Data Protection Act 2022 compliance is vested in ESCCOM as the statutory authority (date is the article's publication date).",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2022"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2022 (No. 5 of 2022)",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament; supervised by ESCCOM as EDPA",
+   "tiers": ""
+  },
+  {
+   "system": "Online Media Publishing Guidelines 2026",
+   "country_label": "Online Media Publishing Guidelines 2026",
+   "class": "",
+   "platform": "",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  },
+  {
+   "system": "Eswatini Data Protection Authority (EDPA)",
+   "country_label": "EDPA",
+   "class": "authority",
+   "platform": "",
+   "owner": "Eswatini Communications Commission (ESCCOM)",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

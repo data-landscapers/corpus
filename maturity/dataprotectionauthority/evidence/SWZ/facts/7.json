@@ -1,0 +1,46 @@
+{
+ "slug": "2024-01-01-eswatini-dpa-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Eswatini Data Protection Authority lists an enforcement notice under section 41 of the Data Protection Act 2022 issued to the Royal Science Technology Park (RSTP) in March 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Eswatini Data Protection Act 2022"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Authority lists enforcement notices under section 41 of the Act issued in June 2024 to MTN Eswatini and to Liberty Life Swaziland Limited.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Eswatini Data Protection Act 2022"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Eswatini Data Protection Authority, operating its own site, issued enforcement notices under the Act in June 2024 and March 2025.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Eswatini Data Protection Authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Eswatini Data Protection Authority",
+   "country_label": "Eswatini Data Protection Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-12 Africa’s Data Protection Reforms A Continental Perspective on the Drivers of Change in Legal Frameworks",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "FPF states the 2023 Act empowers the Information Commission to conduct audits and inspections, issue enforcement notices and impose administrative fines; it does not say any such power has been used (as_of is the Act's date).",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Information Commission"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

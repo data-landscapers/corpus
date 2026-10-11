@@ -1,0 +1,17 @@
+{
+ "slug": "2020-03-27-gabon-ordonnance-00002-pr-2020-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The ordonnance sets the organs of the Commission Nationale pour la Protection des Données à Caractère Personnel (bureau, plenary, restricted formation, provincial offices), creates its levy (RPPVP, CFA 1,000 per person a year) and its accounting agency; it names no appointment of members.",
+   "as_of": "2020-03-27",
+   "date_precision": "day",
+   "system": "Commission Nationale pour la Protection des Données à Caractère Personnel (CNPDCP)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

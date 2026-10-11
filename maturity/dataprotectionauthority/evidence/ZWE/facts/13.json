@@ -1,0 +1,42 @@
+{
+ "slug": "2024-09-13-zimbabwe-si-155-2024-licensing-data-controllers-dpo-regulations",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The regulations define the Authority as the Data Protection Authority and the schedules' forms are headed POTRAZ - Data Protection Authority, with the Authority to issue licences within 14 days and keep a register of controllers.",
+   "as_of": "2024-09-13",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act (CDPA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act (CDPA)",
+   "country_label": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024",
+   "country_label": "Statutory Instrument 155 of 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "Minister of ICT, Postal and Courier Services",
+   "tiers": "Tier 1 (50 to 1,000 data subjects), Tier 2 (1,001 to 100,000), Tier 3 (100,001 to 500,000), Tier 4 (over 500,000)"
+  },
+  {
+   "system": "Data Protection Authority (POTRAZ)",
+   "country_label": "Data Protection Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

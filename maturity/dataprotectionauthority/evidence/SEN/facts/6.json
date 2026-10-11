@@ -1,0 +1,27 @@
+{
+ "slug": "2024-04-20-sen-la-plateforme-kay-voter-mise-en-demeure-par-la-cdp-pour-des-sms-non-so",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Senego reports that the Commission de protection des Données Personnelles (CDP), an independent administrative authority established by law no. 2008-12 of 25 January 2008, handled a complaint, ran an adversarial procedure and decided in plenary session; no decision date is given, so the article's published date of 2024-04-20 is used.",
+   "as_of": "2024-04-20",
+   "date_precision": "day",
+   "system": "Law no. 2008-12 of 25 January 2008 and the CDP"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "Senego reports that the CDP's plenary session served a formal notice (mise en demeure) on the named controller SOLID SA, operator of the 'Kay Voter' platform, for unsolicited prospecting by SMS, diversion of the purpose of collected data and non-compliance of the platform, after a complaint in Q1 2024; the case remained under investigation, and the decision date is not stated, so the published date of 2024-04-20 is used.",
+   "as_of": "2024-04-20",
+   "date_precision": "day",
+   "system": "Law no. 2008-12 of 25 January 2008 and the CDP"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-03-06-popia-regulations-processing-health-information-2026",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The regulations were made and signed on 27 February 2026 by Adv Pansy Tlakula as Chairperson of the Information Regulator.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act, 2013 (POPIA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act, 2013 (POPIA)",
+   "country_label": "POPIA",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  },
+  {
+   "system": "Regulations relating to the Processing of Data Subjects' Health Information by Certain Responsible Parties, 2026",
+   "country_label": "POPIA health information regulations",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator of South Africa",
+   "country_label": "Information Regulator",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-02-09 Notification obligations arising from personal data breaches in Tanzania",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Clyde & Co states controllers must notify the Personal Data Protection Commission of breaches and that the Commission provides a prescribed notification format; document's published date 2026-02-09 used.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Personal Data Protection Commission"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Act, Chapter 44",
+   "country_label": "PDP Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  },
+  {
+   "system": "Personal Data Protection (Collection and Processing) Regulations, GN 449C of 2023",
+   "country_label": "Collection and Processing Regulations",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  },
+  {
+   "system": "Personal Data Protection Commission",
+   "country_label": "the Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

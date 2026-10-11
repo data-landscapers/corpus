@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-24-ndpc-probes-tiktok-truecaller",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The NDPC is headed by National Commissioner and CEO Vincent Olatunji, who spoke at an Abuja press conference.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

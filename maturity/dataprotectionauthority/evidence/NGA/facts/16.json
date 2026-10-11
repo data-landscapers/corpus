@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-16-ndpc-probes-temu-data-protection",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The NDPC acts under a National Commissioner and CEO, Vincent Olatunji, who announced the Temu investigation.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

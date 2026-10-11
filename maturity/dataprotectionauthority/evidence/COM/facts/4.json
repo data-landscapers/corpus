@@ -1,0 +1,26 @@
+{
+ "slug": "2014-06-26-anaden-loi-14-029-au-protection-donnees-personnelles-texte-integral",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Article 19 of the law institutes a Commission nationale de l'informatique et des libertés (CNIL) whose nine members are named by decree under Article 24; the text records no appointment.",
+   "as_of": "2014-06-26",
+   "date_precision": "day",
+   "system": "Commission nationale de l'informatique et des libertés (CNIL)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission nationale de l'informatique et des libertés (CNIL)",
+   "country_label": "Commission nationale de l'informatique et des libertés",
+   "class": "authority",
+   "platform": "",
+   "owner": "Union des Comores",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

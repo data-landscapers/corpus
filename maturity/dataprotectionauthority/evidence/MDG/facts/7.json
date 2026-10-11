@@ -1,0 +1,66 @@
+{
+ "slug": "2025-12-03-cmil-manuel-procedures-full-text",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The manual describes the CMIL as an independent administrative authority whose Collège members are appointed by decree in the Council of Ministers under article 29 of the law, and its annexed minutes template records a session of 14 August 2025 with all eight sitting members named present.",
+   "as_of": "2025-08-14",
+   "date_precision": "day",
+   "system": "Loi n°2014-038 du 9 janvier 2015 relative à la protection des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°2014-038 du 9 janvier 2015 relative à la protection des données à caractère personnel",
+   "country_label": "Loi 2014-038",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Madagascar",
+   "tiers": "national"
+  },
+  {
+   "system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)",
+   "country_label": "CMIL",
+   "class": "authority",
+   "platform": "",
+   "owner": "CMIL, independent administrative authority",
+   "tiers": "national"
+  },
+  {
+   "system": "Décret n°2023-1541 du 6 décembre 2023 (CMIL), modifié par le décret n°2025-696 du 18 juin 2025",
+   "country_label": "Décret 2023-1541",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Madagascar",
+   "tiers": "national"
+  },
+  {
+   "system": "Loi n°2024-004 du 21 juin 2024 autorisant la ratification de la Convention de Malabo",
+   "country_label": "Loi 2024-004",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Madagascar",
+   "tiers": "national"
+  },
+  {
+   "system": "Loi n°2014-024 du 10 décembre 2014 sur les transactions électroniques",
+   "country_label": "Loi 2014-024",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Madagascar",
+   "tiers": "national"
+  },
+  {
+   "system": "Loi n°2014-006 du 17 juillet 2014 sur la lutte contre la cybercriminalité, modifiée par la loi n°2016-031",
+   "country_label": "Loi 2014-006",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Madagascar",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

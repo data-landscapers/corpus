@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-20-algerie-anpdp-regles-publication-images-plateformes",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The article states that the ANPDP adopted a deliberation on Wednesday 15 July 2026, acting as the national data protection authority.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 18-07 du 10 juin 2018 (as amended)",
+   "country_label": "Loi n° 18-07 relative à la protection des personnes physiques dans le traitement des données à caractère personnel",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANPDP",
+   "country_label": "Autorité nationale de protection des données à caractère personnel",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "ANPDP délibération on publication of images on platforms (15 July 2026)",
+   "country_label": "Délibération sur la publication d'images sur les plateformes numériques",
+   "class": "other",
+   "platform": "",
+   "owner": "ANPDP",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

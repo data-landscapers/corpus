@@ -1,0 +1,44 @@
+{
+ "slug": "2026-06-09 Meta backs NDPC in landmark privacy initiative",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "ITWeb Africa reports the NDPC, headed by National Commissioner and CEO Dr Vincent Olatunji, is acting under the Act, launching a programme with Meta; no event date given, so the published date is used.",
+   "as_of": "2026-06-09",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "ITWeb Africa reports a court-approved settlement reached in 2025 between the NDPC and Meta after regulatory proceedings over handling of Nigerian users' data, under which Meta funds a two-year programme (M-SIDP); the month is not given.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly; enforced by the NDPC",
+   "tiers": "national"
+  },
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "Nigeria Data Protection Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government; National Commissioner and CEO Vincent Olatunji",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

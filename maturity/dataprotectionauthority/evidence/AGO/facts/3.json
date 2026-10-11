@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "Valor Económico reported on 26 June 2026 that the APD fined Crescer Tech about USD 505,000 (c. 549 million kwanzas) for no notification or prior authorisation and an unauthorised international transfer to foreign cloud servers, and Fast Digital Center USD 112,000 (c. 110 million kwanzas) for inadequate security measures and no notification; deliberation dates are not given, so the publication date is used.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Lei de Protecção de Dados Pessoais"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The article states that earlier APD fines, disclosed in September 2025, were USD 100,000 on TAAG and USD 75,000 on Banco de Desenvolvimento de Angola for breaches of the data protection rules.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Lei de Protecção de Dados Pessoais"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The APD issued the deliberations sanctioning the two companies, as part of its inspection actions, so the authority was acting (article's publication date used).",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência de Protecção de Dados",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "Angola",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

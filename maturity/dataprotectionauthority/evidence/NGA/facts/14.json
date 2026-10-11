@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Dataphyte states the 2023 Data Protection Act created a formal Data Protection Commission, which critics say sits under ministerial control and needs ministerial clearance before acting; no event date given, so the published date is used.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly; enforced by the NDPC",
+   "tiers": "national"
+  },
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "Nigeria Data Protection Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government; National Commissioner and CEO Vincent Olatunji",
+   "tiers": "national"
+  },
+  {
+   "system": "Nigeria Data Protection Regulation (NDPR)",
+   "country_label": "Nigeria Data Protection Regulation",
+   "class": "other",
+   "platform": "",
+   "owner": "NITDA (before the 2023 Act)",
+   "tiers": "national"
+  },
+  {
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act 2015",
+   "country_label": "Cybercrimes Act 2015",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

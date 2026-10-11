@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-30-potraz-data-licence-fees-slammed-as-costly-burden-on-businesses-and-consumers",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "POTRAZ serves as Zimbabwe's Data Protection Authority under the Act and has issued Regulatory Notice 2 of 2026, per CITE.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "Statutory Instrument 155 of 2024",
+   "country_label": "Statutory Instrument 155 of 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "POTRAZ",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

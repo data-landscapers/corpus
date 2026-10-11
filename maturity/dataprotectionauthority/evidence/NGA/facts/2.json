@@ -1,0 +1,50 @@
+{
+ "slug": "2026-09-16-nga-digitalbusiness-etat-reprend-ndpc-recettes-9-millions",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Digital Business Africa reports the NDPC headed by National Commissioner Vincent Olatunji, who said it generated over N12 billion (about $9 million) in revenue over three years, and that its new Abuja headquarters was inaugurated on 14 September 2026.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "NDPC",
+   "class": "authority",
+   "platform": "",
+   "owner": "National Commissioner Vincent Olatunji",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria Data Protection Bureau",
+   "country_label": "NDPB",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria Data Protection Regulation",
+   "country_label": "NDPR",
+   "class": "other",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

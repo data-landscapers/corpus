@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-27-minister-data-protection-foundation-techreview",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Data Protection Commission, with Executive Director Arnold Kavaarpuo, is named as the registering body and spoke at the Data Protection Conference in Accra.",
+   "as_of": "2026-02-27",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission - Ghana",
+   "class": "authority",
+   "platform": "",
+   "owner": "Data Protection Commission, Ghana",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

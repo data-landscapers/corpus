@@ -1,0 +1,17 @@
+{
+ "slug": "2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Art. 55 of the law creates a national authority, the IPDCP, whose president the President of the Republic appoints by decree from its steering committee (art. 58); the document does not show it constituted.",
+   "as_of": "2019-10-29",
+   "date_precision": "day",
+   "system": "Instance de protection des donnees a caractere personnel (IPDCP)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

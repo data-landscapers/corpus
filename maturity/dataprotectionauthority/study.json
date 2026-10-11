@@ -16,6 +16,23 @@
   "carry_studies": [
     "dataprotectionlaw"
   ],
+  "carry_map": {
+    "dataprotectionlaw": {
+      "sub_indicator": "body",
+      "class": "authority",
+      "aspects": {
+        "authority": {
+          "to": "standing"
+        },
+        "application": {
+          "to": "rulings",
+          "values": {
+            "applied": "ruled"
+          }
+        }
+      }
+    }
+  },
   "token_ceiling": 40000000,
   "terms": [
     "data protection authority",

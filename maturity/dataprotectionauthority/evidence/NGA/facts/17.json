@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-25-ndpc-probes-1369-organisations",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The document states the NDPC recently imposed a N766.2 million fine on Multichoice Nigeria, the largest single penalty so far; no date is given, so the document's published date is used.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The NDPC acts through its Head of Legal, Enforcement and Regulations, Babatunde Bamigboye, who issued the statement.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-19-apd-ijtimaa-shahri-rabt-bayni-wakala-sijil-sukkan-sijil-suhufiyin",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "On 19 November 2025 the APD held its ordinary monthly meeting under its president and members with the government commissioner present, and the minute names the president, members and government commissioner.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

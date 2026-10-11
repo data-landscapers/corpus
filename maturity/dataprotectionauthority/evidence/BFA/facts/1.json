@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "AIB reports that ARCOD, merging the CSC and the CIL, is created by the bill adopted on 3 August 2026, with a first collège still to be formed.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Projet de loi relatif a la protection des personnes physiques a l'egard du traitement des donnees a caractere personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARCOD",
+   "country_label": "Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel)",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "CIL",
+   "country_label": "Commission de l'informatique et des libertes",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

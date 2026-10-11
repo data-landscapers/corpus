@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-20-thesun-nigeria-fg-ngf-data-protection-act-states",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "NDPC National Commissioner and CEO Vincent Olatunji addressed the workshop and urged states to adopt policies and frameworks rather than separate state data protection laws.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": "federal; states urged to implement"
+  },
+  {
+   "system": "General Application and Implementation Directive 2025",
+   "country_label": "GAID 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "NDPC",
+   "tiers": "all tiers of government"
+  },
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "NDPC",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

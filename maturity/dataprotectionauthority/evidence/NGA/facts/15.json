@@ -1,0 +1,34 @@
+{
+ "slug": "2026-02-23-ndpc-probes-schools-data-privacy",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The NDPC, led by National Commissioner Dr Vincent Olatunji, launched a sector-by-sector compliance investigation of over 1,000 schools, with a joint working group with the Federal Ministry of Education.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly; enforced by the NDPC",
+   "tiers": "national"
+  },
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "Nigeria Data Protection Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government; National Commissioner and CEO Vincent Olatunji",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

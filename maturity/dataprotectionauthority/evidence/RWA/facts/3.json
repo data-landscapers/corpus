@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-26-year-of-accountability-data-controllers-newtimes",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The article states that the National Cyber Security Authority (NCSA) acts as the supervisory authority for personal data protection and privacy under the Data Protection Act, as Rwanda observed Data Privacy Week on 26-30 January 2026.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Data Protection Act (introduced 15 October 2021)",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "National Cyber Security Authority (NCSA)",
+   "country_label": "National Cyber Security Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "NCSA",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-07-20-pdpo-google-breach-cross-border-data",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Acting PDPO director Baker Birikujja ruled on 18 July 2025; the report describes the PDPO as an independent office under NITA-U.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "In a ruling dated 18 July 2025 on a complaint of 8 November 2024, the PDPO found Google in breach for operating unregistered and transferring data abroad without adequate safeguards, and gave it 30 days to register and submit transfer-compliance evidence; compensation was declined as outside its authority.",
+   "as_of": "2025-07-18",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Office",
+   "country_label": "Personal Data Protection Office (PDPO)",
+   "class": "authority",
+   "platform": "",
+   "owner": "National Information Technology Authority-Uganda",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

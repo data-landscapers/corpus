@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-02-somalia-dpa-enforces-data-compliance-registration",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Data Protection Authority issued an official notice and said it had begun accepting registration applications from controllers and processors, so it was acting by 2 June 2026.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "Data Protection Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection Authority",
+   "country_label": "Data Protection Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government of Somalia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

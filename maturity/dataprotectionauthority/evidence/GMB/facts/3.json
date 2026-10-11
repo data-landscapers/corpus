@@ -1,0 +1,34 @@
+{
+ "slug": "2025-12-26 Review of Gambia's Personal Data Protection and Privacy Act, 2025",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The review says the Act establishes an independent oversight Commission; it does not say the Commission has been appointed (published 2025-12-26, no other date).",
+   "as_of": "2025-12-26",
+   "date_precision": "day",
+   "system": "Commission under the Personal Data Protection and Privacy Act"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection and Privacy Act 2025",
+   "country_label": "Personal Data Protection and Privacy Act, 2025",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly of The Gambia",
+   "tiers": ""
+  },
+  {
+   "system": "Commission under the Personal Data Protection and Privacy Act",
+   "country_label": "Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

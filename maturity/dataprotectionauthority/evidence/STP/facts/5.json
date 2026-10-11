@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-23-cnpd-portugal-recebeu-anpdp-stp-rede-lusofona",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Portugal's CNPD reports that the ANPDP, represented by Dr. Maiquel do Espírito Santo, made an institutional visit on 16 June 2025 and that the agency is a founding member of the Lusophone Data Protection Network.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "Agência Nacional de Protecção de Dados Pessoais"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência Nacional de Protecção de Dados Pessoais",
+   "country_label": "ANPDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "São Tomé and Príncipe",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

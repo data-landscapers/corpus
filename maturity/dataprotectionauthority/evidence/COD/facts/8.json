@@ -1,0 +1,34 @@
+{
+ "slug": "2024-08-07 RDC - government urged to operationalise the Data Protection Authority",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "On 6 August 2024 the think tank Law & Technologies presented a study saying the Data Protection Authority required by Article 262 of the Digital Code (cited in the article as Loi 20/017) exists on paper but is not yet operational, and called on the government to draft and sign the decree fixing its organisation and functioning.",
+   "as_of": "2024-08-06",
+   "date_precision": "day",
+   "system": "Code du numérique (Ordonnance-loi n° 23/010)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Code du numérique (Ordonnance-loi n° 23/010)",
+   "country_label": "Digital Code",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Autorité de protection des données",
+   "country_label": "Autorité de protection des données",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

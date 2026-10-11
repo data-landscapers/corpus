@@ -1,0 +1,34 @@
+{
+ "slug": "2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The overview states that the proclamation designates the Ethiopian Communications Authority as the regulator; it does not say the Authority is acting under the law.",
+   "as_of": "2024-07-24",
+   "date_precision": "day",
+   "system": "Ethiopian Communications Authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Proclamation No. 1321/2024",
+   "country_label": "Personal Data Protection Proclamation (PDPP)",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Democratic Republic of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Ethiopian Communications Authority",
+   "country_label": "Ethiopian Communications Authority (ECA)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

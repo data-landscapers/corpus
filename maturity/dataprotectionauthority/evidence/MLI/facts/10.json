@@ -1,0 +1,26 @@
+{
+ "slug": "2013-05-21-mali-loi-2013-015-protection-donnees-caractere-personnel",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Article 20 institutes the APDP as an independent administrative authority of 15 members designated by named bodies, with members' list fixed by decree.",
+   "as_of": "2013-05-21",
+   "date_precision": "day",
+   "system": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APDP)",
+   "country_label": "APDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Mali (independent administrative authority)",
+   "tiers": "national; regional antenna at Ségou"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

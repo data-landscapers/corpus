@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-25-apdp-bilan-2025-conformite",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "class": "authority",
+   "fact": "The APDP's published 2025 report, as relayed by La Nation, gives 907 files examined and 793 validated (606 authorisations, 187 declarations), 782 cases handled by its control and litigation service, 64 inspection missions, 20 complaints treated and 75 compliance certificates issued.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Apdp"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The APDP, led by president Me Luciano Hounkponou, published its annual report for 2025 on its activity under the Digital Code.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Apdp"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2025-06-09-potraz-2025-26-enforcement-actions",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "TechnoMag reports POTRAZ, led by its Director General, is acting as the enforcing regulator under the CDPA, handing over data controller licences and planning inspections triggered by complaints and unlicensed processing.",
+   "as_of": "2025-06-09",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act (CDPA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act (CDPA)",
+   "country_label": "Cyber and Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "Data Controller Licence",
+   "country_label": "Data Controller Licence",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": "data controllers processing personal data, banking, healthcare and telecoms named as high-risk sectors"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

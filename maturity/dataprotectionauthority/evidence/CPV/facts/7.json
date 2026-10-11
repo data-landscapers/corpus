@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-31-cpv-2024-cnpd",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Resolution 135/X/2023, published with Law 35/X/2023 on 2023-12-31, appropriates CVE 35,255,451 for 2024 to the CNPD (Comissao Nacional de Protecção de Dados) in the Assembly's private budget, all from the state budget and none from own revenue.",
+   "as_of": "2023-12-31",
+   "date_precision": "day",
+   "system": "Comissão Nacional de Protecção de Dados (CNPD)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

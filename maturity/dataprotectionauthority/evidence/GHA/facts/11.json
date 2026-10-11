@@ -1,0 +1,44 @@
+{
+ "slug": "2024-09-18-gha-justice-noah-adade-vrs-bolt-ghana-limited-bolt-holdings-ou-suit-no-c11",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The court found Bolt Holdings OU, a named data processor and controller, in breach of sections 20, 21, 28 and 30 of Act 843 over a driver profile registered with the plaintiff's stolen identity, and awarded GHC1,900,000 compensation under section 43(1) plus GHC20,000 costs.",
+   "as_of": "2024-09-18",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2012 (Act 843)"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The judgment says the Data Protection Commission is established under Act 843 and orders it to see a forensic audit of Bolt's database and liveness checks by other ride-hailing platforms; it gives no appointment of members and no sign that the Commission has acted.",
+   "as_of": "2024-09-18",
+   "date_precision": "day",
+   "system": "Data Protection Commission"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2012 (Act 843)",
+   "country_label": "Data Protection Act, 2012 (Act 843)",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Ghana",
+   "tiers": "data controllers and processors"
+  },
+  {
+   "system": "Data Protection Commission",
+   "country_label": "Data Protection Commission (DPC)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Government of Ghana",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

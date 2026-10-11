@@ -1,0 +1,34 @@
+{
+ "slug": "2021-03-30-loi-001-2021-an-protection-donnees-caractere-personnel",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Articles 45 to 55 create the CIL as the supervisory authority, with nine members appointed by decree in the Council of Ministers; art. 80 keeps members already appointed in place.",
+   "as_of": "2021-03-30",
+   "date_precision": "day",
+   "system": "Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°001-2021/AN portant protection des personnes à l'égard du traitement des données à caractère personnel",
+   "country_label": "Loi n°001-2021/AN",
+   "class": "other",
+   "platform": "",
+   "owner": "Assemblée nationale",
+   "tiers": "national"
+  },
+  {
+   "system": "Commission de l'Informatique et des Libertés (CIL)",
+   "country_label": "CIL",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Burkina Faso",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

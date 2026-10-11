@@ -33,7 +33,9 @@ Asked in order. Each is answered with a date and a link.
 | 3 | Has it ruled against a named organisation in the last three years? | A dated decision, fine or order of the authority on one organisation's conduct. General guidance, an opinion, a registration or an investigation opened is not a yes |
 | 4 | Does it publish yearly figures for its rulings? | A published count of its decisions, fines or complaints settled, for a period of a quarter or more ending within the last two years. Complaints received are not a yes |
 
-## 3. The stage each gives
+## 3. The ladders
+
+**Supervisory authority**
 
 | Stage | Answers |
 |---|---|
@@ -50,18 +52,22 @@ Asked in order. Each is answered with a date and a link.
 
 `study.json` holds this as two aspects: `standing` (`constituted`, `provided`, `none`) for questions 1 and 2, and `rulings` (`reported`, `ruled`, `none`) for 3 and 4.
 
-## 4. What the run reads
+## 4. The norm
+
+The African Union's Malabo Convention, Articles 11 and 12, commits each party to an independent authority with stated duties and powers, and the Union's Data Policy Framework asks for authorities that are "independent, funded, and effective". Neither sets a test of whether an authority works. This study asks whether it exists, whether it rules and whether it publishes what it has done; it does not judge independence.
+
+## 5. What the run reads
 
 - **Carried, no document opened**: the law study's facts on the authority (264) and on application (176), and the frame's cells for this row, matched to the four questions from their own text.
 - **Read**: **128 news stories about an authority that no study has read**, across 41 countries, 116 of them from the last three years.
 - **Not read**: laws, reports and stories that mention an authority in passing.
 - **No web search and no handover to OSINT.** A question nothing answers is printed as *Not held*.
 
-## 5. Token ceiling
+## 6. Token ceiling
 
 **40 million.** The run stops and reports if it reaches it. The figure is an estimate from the law study's cost per call, which took 133 million in all.
 
-## 6. Tasks, in order
+## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-11. **The four questions agreed by Bill, 2026-10-11.**
 - [ ] **D1. Build the two things the method now names and no script yet does**: `study-select.py`'s pass `about`, and the carry of another study's facts into `evidence.csv` (`carry_studies` in `study.json`).

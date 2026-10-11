@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-10-digital-economy-country-commercial-guide-tradegov",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The guide states a governmental data-protection authority, the APD, exists and is pursuing a 2023-2026 strategic plan; the date used is the guide's published date.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "Commissioner Madhub said her office issues 3,000 enforcement actions a year, 99 percent of them resolved through amicable dispute resolution without prosecution; no year is given for the count, so the article's published date is used.",
+   "as_of": "2026-05-16",
+   "date_precision": "day",
+   "system": "Data Protection Office"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Drudeisha Madhub is named as data protection commissioner for Mauritius, speaking on a DPA panel.",
+   "as_of": "2026-05-16",
+   "date_precision": "day",
+   "system": "Data Protection Office"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "existing data protection law",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection Office",
+   "country_label": "Mauritius DPO",
+   "class": "authority",
+   "platform": "",
+   "owner": "Data Protection Commissioner",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

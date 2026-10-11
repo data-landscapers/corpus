@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-15-macra-consults-stakeholders-on-proposed-data-protection-registration-fees",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Nyasa Times reports that MACRA, acting as the country's designated Data Protection Authority, convened a stakeholder consultation on draft data protection regulations in Lilongwe, with Daniel Chiwoni as its Head of Data Protection.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2024"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Authority",
+   "country_label": "Data Protection Authority (DPA)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Malawi Communications Regulatory Authority (MACRA)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

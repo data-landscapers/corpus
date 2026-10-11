@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-05-benin-loi-protection-donnees-2021",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The article says the law created the APDP as an independent administrative authority and sets its composition (3 deputies, 2 qualified persons, 1 presidential appointee, 1 magistrate, 1 lawyer); it names no appointments, so the published date 2025-05-05 is used.",
+   "as_of": "2025-05-05",
+   "date_precision": "day",
+   "system": "Code du numérique (loi n° 2017-20, as amended by loi n° 2020-35)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Code du numérique (loi n° 2017-20, as amended by loi n° 2020-35)",
+   "country_label": "Code du numérique",
+   "class": "other",
+   "platform": "",
+   "owner": "National Assembly",
+   "tiers": ""
+  },
+  {
+   "system": "Autorité de protection des données à caractère personnel (APDP)",
+   "country_label": "APDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "independent administrative authority",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

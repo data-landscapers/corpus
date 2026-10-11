@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-22-congo-launches-data-protection-commission-techafricanews",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "TechAfrica News reports that the National Personal Data Protection Commission was inaugurated after its members were appointed under Decree No. 2025-538 of 31 December 2025, and that its President, Vice President and Rapporteur were elected at the inaugural meeting.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Law No. 29-2019 of 10 October 2019 on personal data protection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission nationale pour la protection des données à caractère personnel (National Personal Data Protection Commission)",
+   "country_label": "National Personal Data Protection Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "Republic of Congo (established under Law No. 29-2019)",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

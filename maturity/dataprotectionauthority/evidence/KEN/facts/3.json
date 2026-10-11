@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-28-thestar-odpc-gives-data-handlers-14-days-to-renew",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Star reports the ODPC as the independent oversight body established by the Act and acting, with a registration register and notice of 28 August 2026.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2019"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2019",
+   "country_label": "Data Protection Act, 2019",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection (Registration of Data Controllers and Data Processors) Regulations, 2021",
+   "country_label": "Registration Regulations, 2021",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "ODPC",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

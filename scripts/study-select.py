@@ -111,6 +111,7 @@ WEAK_HITS = 3              # a document carrying the terms no more often than th
 WEAK_WORDS = 1_000         # ...is read as passages too, once it is longer than this
 NEWS_WORDS = 2_500         # past this a document is an instrument or a report, not news of one
 FIRST_PASS = 15            # the news-tier documents every country's review reads
+ABOUT_HITS = 3             # a story naming the subject this often is about it
 CALL_DOCS = 5              # what one drafter call reads...
 CALL_WORDS = 15_000        # ...and the most it reads in words
 OPENING_WORDS = 300        # what of its opening is always kept, for what the document is
@@ -246,17 +247,43 @@ def tier(doc: dict) -> str:
     return "news" if int(doc["words"]) <= NEWS_WORDS else "instrument"
 
 
-def passes(rows: list[dict]) -> None:
-    """Mark how far down the ranked list each row sits, in place."""
+def passes(rows: list[dict], terms: re.Pattern | None = None,
+           read: frozenset = frozenset(), about: bool = False) -> None:
+    """Mark how far down the ranked list each row sits, in place.
+
+    **`about` is the simpler method's reading** *(Bill, 2026-10-11; method §4)*: where a
+    study names `carry_studies`, a document one of them read is `carried`, its facts coming
+    from `study-carry.py` and not from a drafter, and a news story that carries a term in
+    its title or `ABOUT_HITS` times in its body is `about`. Those two lead the list, so a
+    call is never split by a row nobody reads; the rest keep their marks and are not read."""
     first = 0
     for r in rows:
-        if "cell" in r.get("why", "").split("+"):
+        if about and r["slug"] in read:
+            r["pass"] = "carried"
+        elif about and r["tier"] == "news" and (
+                int(r.get("hits") or 0) >= ABOUT_HITS or (terms and terms.search(r.get("title", "")))):
+            r["pass"] = "about"
+        elif "cell" in r.get("why", "").split("+"):
             r["pass"] = "0"
         elif r["tier"] != "news":
             r["pass"] = "rung"
         else:
             first += 1
             r["pass"] = "1" if first <= FIRST_PASS else "2"
+    if about:
+        rows.sort(key=lambda r: {"carried": 0, "about": 1}.get(r["pass"], 2))
+
+
+def carried_read(study: dict) -> dict[str, frozenset]:
+    """`{iso3: slugs}` a study named in `carry_studies` holds a facts file for."""
+    out: dict[str, frozenset] = {}
+    for other in study.get("carry_studies", ()):
+        base = os.path.join(study_lib.study_dir(other), "evidence")
+        for iso in sorted(os.listdir(base)) if os.path.isdir(base) else ():
+            slugs = {r["slug"] for r in study_lib.read_csv(os.path.join(base, iso, "readlist.csv"))
+                     if r.get("n") and os.path.exists(os.path.join(base, iso, "facts", f"{r['n']}.json"))}
+            out[iso] = frozenset(out.get(iso, frozenset()) | slugs)
+    return out
 
 
 def number(status_rows: list[dict], rows: list[dict], n: int = 0, part: int = 0) -> None:
@@ -482,14 +509,16 @@ def main(argv=None) -> int:
         return 0
 
     summary = []
+    about = "carry_studies" in study
+    before = carried_read(study)
     for iso in wanted:
         routes, status_rows = cited(iso, study["subjects"], terms, status_lib.REPORTS, by_url, tuple(study.get("carry", ())))
         rows, dropped = select(iso, all_countries[iso], docs, study["subjects"], routes)
         for r in rows:
             if around_terms(r):
                 shorten(r, iso)
-        passes(rows)
-        head = [r for r in rows if r["pass"] == "1"]
+        passes(rows, terms, before.get(iso, frozenset()), about)
+        head = [r for r in rows if r["pass"] == ("about" if about else "1")]
         summary.append({"iso3": iso, "documents": len(rows), "first_pass": len(head),
                         "first_words": sum(int(r["words"]) for r in head),
                         "passages": sum(1 for r in rows if r["read"] == "passages"),
@@ -508,7 +537,7 @@ def main(argv=None) -> int:
               f"{s['tagged_no_term']:4d} tagged, no term")
     print(f"study-select: {a.study} - {len(summary)} countries, "
           f"{sum(s['documents'] for s in summary)} listings, "
-          f"{sum(s['words'] for s in summary)} words; first pass "
+          f"{sum(s['words'] for s in summary)} words; " + ("about" if about else "first pass") + " "
           f"{sum(s['first_pass'] for s in summary)} listings, "
           f"{sum(s['first_words'] for s in summary)} words"
           + (" (dry run, nothing written)." if a.dry else "."))

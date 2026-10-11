@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-17-mitci-mauritius-data-protection-officer-regulations-2026",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The regulations were made after consultation with the Data Protection Commissioner, and give the Office (Data Protection Office) roles in receiving DPO notifications within 14 days, certifying DPOs and approving training institutions.",
+   "as_of": "2026-06-17",
+   "date_precision": "day",
+   "system": "Data Protection Office"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mauritius",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection Office",
+   "country_label": "the Office",
+   "class": "authority",
+   "platform": "",
+   "owner": "Data Protection Commissioner",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

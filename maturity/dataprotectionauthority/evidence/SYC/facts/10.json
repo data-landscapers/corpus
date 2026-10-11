@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-syc-information-commission-annual-report-2025",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Information Commission, with a Chief Information Commissioner, two Information Commissioners and a CEO in post, administers and oversees the Data Protection Act 2023 and reports annually under its section 12(2).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Act 2023"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "2023-03-22-somalia-data-protection-act-law-005-2023",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Article 6 establishes the Data Protection Authority as an independent agency, constituted on adoption and promulgation of the law and appointment of a General Manager (proposed by the Minister, confirmed by the Cabinet, appointed by the President, Article 13), with a Board of up to nine members to be appointed within two years of the law coming into force (Article 8); the document names no appointee, and the published date of 2023-03-22 is used.",
+   "as_of": "2023-03-22",
+   "date_precision": "day",
+   "system": "Data Protection Act (Law No. 005 of 2023)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act (Law No. 005 of 2023)",
+   "country_label": "Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal Parliament of Somalia; Minister of Communications and Technology responsible",
+   "tiers": "federal"
+  },
+  {
+   "system": "Data Protection Authority",
+   "country_label": "Data Protection Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "Established by Article 6 of the Data Protection Act; General Manager and Board of up to nine members",
+   "tiers": "federal"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

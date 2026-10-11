@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-25 Data Protection Law Now In Force In Seychelles",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Appleby states the Information Commission of Seychelles is designated as the competent authority to enforce the Act, with powers to audit, investigate and impose penalties; it does not say the Commission is already acting under the Act (as_of is the published date).",
+   "as_of": "2024-03-25",
+   "date_precision": "day",
+   "system": "Information Commission of Seychelles"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

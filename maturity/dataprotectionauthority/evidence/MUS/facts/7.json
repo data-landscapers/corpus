@@ -1,0 +1,76 @@
+{
+ "slug": "2024-01-01-data-protection-office-annual-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Data Protection Office has been operational since 16 February 2009 and enforces the Data Protection Act 2017; the report is signed by Data Protection Commissioner Drudeisha Madhub, who describes herself as the data protection regulator.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2017"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "class": "authority",
+   "fact": "The Data Protection Office reports for January to December 2024: 179 new complaints (158 on CCTV), 39 complaints closed, 105 personal data breaches notified, 112 cross-border transfers authorised and 12 rejected under section 36, 10 impact assessments received, and four compliance inspections.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2017"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act 2017",
+   "country_label": "Data Protection Act 2017 (DPA)",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation (parent ministry)",
+   "tiers": "controllers and processors in the public and private sectors"
+  },
+  {
+   "system": "Data Protection Office",
+   "country_label": "Data Protection Office (DPO), led by the Data Protection Commissioner",
+   "class": "authority",
+   "platform": "online registration portal (dpo.govmu.org/dpoPortal)",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection (Fees) Regulations 2020",
+   "country_label": "Data Protection (Fees) Regulations 2020",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Insurance sector guidelines 2024",
+   "country_label": "Guidelines for the insurance sector",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commissioner",
+   "tiers": "insurance companies and salespersons"
+  },
+  {
+   "system": "CCTV Code of Practice 2010",
+   "country_label": "Code of Practice for CCTV Systems operated by the Mauritius Police Force (March 2010)",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Commissioner",
+   "tiers": "Mauritius Police Force"
+  },
+  {
+   "system": "Draft Data Protection Bill",
+   "country_label": "Draft Data Protection Bill (EU adequacy)",
+   "class": "other",
+   "platform": "",
+   "owner": "Data Protection Office; Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

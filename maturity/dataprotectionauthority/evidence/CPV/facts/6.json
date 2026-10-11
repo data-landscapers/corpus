@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01 Cabo Verde data protection - Digital Regulations in the Metaverse Era (IBA)",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "The IBA chapter states the law establishes the National Data Protection Commission (CNPD) as the independent supervisory authority, without saying it is constituted or acting; the document gives no event date, so the 2024 publication year is used.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Law (Law 133/V/2001)"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

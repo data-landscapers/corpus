@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-01-syc-information-commission-annual-report-2024",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Information Commission, led by a Chief Information Commissioner with Information Commissioners and a CEO, administers the Data Protection Act 2023 alongside the Access to Information Act; it reports significant recruitment and staffing challenges for the new Act.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act 2023"
+  }
+ ],
+ "systems": [],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

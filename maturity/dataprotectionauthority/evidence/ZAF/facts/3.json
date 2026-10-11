@@ -1,0 +1,42 @@
+{
+ "slug": "2026-08-31-itweb-inforeg-alarming-data-breaches",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Regulator issued the South African Bureau of Standards an enforcement notice the week before 31 August 2026 over its 2024 ransomware attack, finding POPIA conditions for lawful processing violated and giving it 90 days to revise policies, run impact assessments and implement security measures.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Protection of Personal Information Act (POPIA)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Protection of Personal Information Act (POPIA)",
+   "country_label": "POPIA",
+   "class": "other",
+   "platform": "",
+   "owner": "Information Regulator (enforcer)",
+   "tiers": ""
+  },
+  {
+   "system": "Information Regulator",
+   "country_label": "InfoReg",
+   "class": "authority",
+   "platform": "",
+   "owner": "Information Regulator",
+   "tiers": ""
+  },
+  {
+   "system": "Consumer Protection Act pre-emptive block register",
+   "country_label": "pre-emptive block register",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-29-court-strengthens-ndpc-oversight-of-pos-agents-banks-telcos",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Leadership reports the NDPC, with National Commissioner and CEO Dr Vincent Olatunji and a Head of Legal, Enforcement and Regulations, issued a statement and directive in July 2026 after the Federal High Court upheld its power to designate and register Data Controllers and Processors of Major Importance; article dated 29 July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act, 2023"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Federal High Court dismissed a challenge by Emmanuel Harunna seeking a declaration that PoS agents are not Data Controllers or Processors of Major Importance and an injunction against their registration, upholding the NDPC's registration power; the judgment date is not given and the article is dated 29 July 2026.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act, 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act, 2023",
+   "country_label": "Nigeria Data Protection Act (NDPA)",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  },
+  {
+   "system": "NDPC Guidance Notice on Registration",
+   "country_label": "Guidance Notice on Registration of Data Controllers and Processors of Major Importance",
+   "class": "other",
+   "platform": "",
+   "owner": "Nigeria Data Protection Commission",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

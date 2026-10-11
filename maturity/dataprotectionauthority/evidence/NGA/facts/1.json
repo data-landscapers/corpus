@@ -1,0 +1,54 @@
+{
+ "slug": "2026-09-28-nga-premiumtimes-court-dismisses-meta-privacy-suit-imo",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "Premium Times reports that the NDPC issued a Final Order against Meta finding violations of the data rights of over 60 million Nigerians and imposing a $32.8 million fine, later set aside when the Federal High Court in Abuja adopted a Meta-NDPC settlement; the settlement date is not given, so the report date 2026-09-28 is used.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Imo State High Court on 21 July 2026 dismissed a $25 million fundamental-rights suit against Meta that alleged breaches of the Nigeria Data Protection Act 2023, for failure of proof once the NDPC order was set aside, and held that personal data falls within the Section 37 constitutional right to privacy.",
+   "as_of": "2026-07-21",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The Nigeria Data Protection Commission is reported as having issued a Final Order and as party to a court-adopted settlement with Meta, so it is acting; the dates are not given, so the report date 2026-09-28 is used.",
+   "as_of": "2026-09-28",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "NDPC",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

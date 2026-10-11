@@ -1,0 +1,34 @@
+{
+ "slug": "2025-07-01 Djibouti Digital Code adopted by National Assembly",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "class": "authority",
+   "fact": "Jones Day reports that the Code's embedded data-protection regime establishes the CNDP; the document does not say it has been constituted, and frames the competent authorities as still to be operationalised (date is the Assembly's vote).",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Digital Code"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Code",
+   "country_label": "Code du numerique",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Digital Economy and Innovation (drafting); National Assembly (adopted)",
+   "tiers": ""
+  },
+  {
+   "system": "CNDP",
+   "country_label": "CNDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "Established by the Digital Code's data-protection regime",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

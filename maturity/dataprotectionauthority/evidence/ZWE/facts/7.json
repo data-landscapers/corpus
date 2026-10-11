@@ -1,0 +1,42 @@
+{
+ "slug": "2026-05-14-potraz-plots-crackdown-data-act",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "Business Times states POTRAZ is designated as Zimbabwe's Data Protection Authority under Section 5 of the Act, with powers to audit, investigate, warn, direct and initiate prosecutions, and has a Director for Data Protection who spoke to it; dated by publication.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024)",
+   "country_label": "SI 155 of 2024",
+   "class": "other",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

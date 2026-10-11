@@ -1,0 +1,90 @@
+{
+ "slug": "2020-12-01-apdp-rapport-activites-2015-2020",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The report states that the CNIL's members were installed in October 2010 under the 2009 law, and that the APDP, created by article 462 of the Code du numerique, is run by a council of nine counsellors under a president whose second term ran from December 2015 to 16 December 2020, with the report listing the named members.",
+   "as_of": "2020-12-16",
+   "date_precision": "day",
+   "system": "Autorité de Protection des Données à caractère Personnel (APDP)"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "class": "authority",
+   "fact": "The report gives the APDP's own count of decisions rendered as 24 in 2016, 44 in 2017, 47 in 2018, 96 in 2019 and 136 in 2020 up to 15 December, 347 in all; the 2020 figure is 48 authorisations, 74 declarations, 8 opinions, 6 complaints and no self-referrals.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Loi n° 2017-20 du 20 avril 2018 portant code du numérique en République du Bénin"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The report's annex records the CNIL's deliberation no. 2016-001/AT/CNIL of 18 August 2016 refusing (defavorable) Spacetel Benin (MTN) authorisation to collect alphanumeric and biometric data to identify subscribers.",
+   "as_of": "2016-08-18",
+   "date_precision": "day",
+   "system": "Loi n° 2009-09 du 22 mai 2009 portant protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The report's annex records deliberation no. 2016-014/AT/CNIL of 21 December 2016 on Etisalat Benin (Moov): collection of non-sensitive subscriber data approved, collection of biometric fingerprint data refused.",
+   "as_of": "2016-12-21",
+   "date_precision": "day",
+   "system": "Loi n° 2009-09 du 22 mai 2009 portant protection des données à caractère personnel"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The report's annex records an APDP opinion of 2020 against lifting anonymity on the Hepatitis B health status of employees of a company (BWSC), listed as defavorable; it also records in 2020 an injunction to a controller to guarantee a complainant's right of deletion.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Loi n° 2017-20 du 20 avril 2018 portant code du numérique en République du Bénin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 2017-20 du 20 avril 2018 portant code du numérique en République du Bénin",
+   "country_label": "Code du numérique (Book V, protection des données à caractère personnel)",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": "national"
+  },
+  {
+   "system": "Loi n° 2009-09 du 22 mai 2009 portant protection des données à caractère personnel",
+   "country_label": "Loi 2009-09 (replaced by the 2018 Code du numérique)",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Benin",
+   "tiers": "national"
+  },
+  {
+   "system": "Autorité de Protection des Données à caractère Personnel (APDP)",
+   "country_label": "APDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "Independent administrative authority, State-funded",
+   "tiers": "national"
+  },
+  {
+   "system": "Commission Nationale de l'Informatique et des Libertés (CNIL)",
+   "country_label": "CNIL Bénin",
+   "class": "authority",
+   "platform": "",
+   "owner": "Created by Loi 2009-09; renamed APDP in 2018",
+   "tiers": "national"
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

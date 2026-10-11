@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-30-apd-reunion-mensuelle-hebergement-donnees-an-etat-homologation-datacenter",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The APD held its ordinary monthly session on 30 June 2026 under its president, with its members and the Government Commissioner present.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Loi n° 2017-020 relative à la protection des données à caractère personnel",
+   "country_label": "Loi 2017-020 of 22 July 2017",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}

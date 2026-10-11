@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-25-ipdcp-forme-premiers-correspondants",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "The IPDCP, headed by Colonel Bédiani Belei, ran the June 2026 correspondent training and presented attestations.",
+   "as_of": "2026-06-24",
+   "date_precision": "day",
+   "system": "IPDCP"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "country_label": "Loi n°2019-014 du 29 octobre 2019",
+   "class": "other",
+   "platform": "",
+   "owner": "Parliament of Togo",
+   "tiers": ""
+  },
+  {
+   "system": "IPDCP",
+   "country_label": "Instance de protection des données à caractère personnel",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": "carried from dataprotectionlaw; no document opened"
+}
