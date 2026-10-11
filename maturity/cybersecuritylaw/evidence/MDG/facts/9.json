@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-10-mdg-newsmada-signature-traite-onu-cybercriminalite",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document says Madagascar already has a national legal framework on cybercrime; it names no law or date, so the published date is used.", "as_of": "2026-09-10", "date_precision": "day", "system": "national cybercrime legal framework", "class": "law"}
+  ],
+  "systems": [
+    {"system": "UN Convention against Cybercrime", "country_label": "Convention de Hanoï", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Treaty signature and bill 043/2026 (ratification) are class other."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-04-22-tadilat-qanun-175-2018-jaraim-al-dhaka-al-istinai",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "A separate MP bill, referred to committees by the House speaker, amends Law 175 of 2018 on combating information technology crimes, which the sponsor calls the current law with penalties too weak.",
+      "as_of": "2026-04-22",
+      "date_precision": "day",
+      "system": "Law 175 of 2018 on combating information technology crimes",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Law 175 of 2018 on combating information technology crimes",
+      "country_label": "القانون رقم 175 لسنة 2018 بشأن مكافحة جرائم تقنية المعلومات",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

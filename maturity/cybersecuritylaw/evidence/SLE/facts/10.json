@@ -1,0 +1,42 @@
+{
+  "slug": "2021-11-25-sierra-leone-cyber-security-and-crime-act-2021",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Cyber Security and Crime Act, 2021 was published as a supplement to the Sierra Leone Gazette dated 25 November 2021, setting up a response coordination centre, an advisory council and a fund, and defining offences.",
+      "as_of": "2021-11-25",
+      "date_precision": "day",
+      "system": "Cyber Security and Crime Act, 2021",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Computer Security Incidence Response Coordination Center",
+      "country_label": "National Computer Security Incidence Response Coordination Center",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Cybersecurity Advisory Council",
+      "country_label": "National Cybersecurity Advisory Council",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Cyber Security Fund",
+      "country_label": "National Cyber Security Fund",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Passages show the arrangement of sections only; commencement date not stated."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "2026-04-22-mashru-qanun-hamayat-al-atfal-min-al-jaraim-al-iliktruniyya",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "An MP's bill of 22 April 2026 to amend Law 175 of 2018 on combating information technology crimes treats that law as the current law, whose provisions it would tighten.",
+      "as_of": "2026-04-22",
+      "date_precision": "day",
+      "system": "Law 175 of 2018 on combating information technology crimes",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Law 175 of 2018 on combating information technology crimes",
+      "country_label": "القانون رقم 175 لسنة 2018 بشأن مكافحة جرائم تقنية المعلومات",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

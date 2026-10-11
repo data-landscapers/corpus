@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-15-madagascar-cybercrime-law-revision-ai-cooperation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The document reports, from a ministry communique, that a revision of the law on combating cybercrime was approved or engaged at several Councils of Ministers; no date is given, so the published date is used.", "as_of": "2026-08-15", "date_precision": "day", "system": "revision of the law on combating cybercrime", "class": "law"}
+  ],
+  "systems": [
+    {"system": "UN Convention against Cybercrime", "country_label": "Convention de Hanoï", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

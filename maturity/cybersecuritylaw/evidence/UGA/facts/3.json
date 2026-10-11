@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-01-cipesa-apc-wougnet-uganda-fourth-cycle-upr-submission",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The joint UPR submission treats the Computer Misuse Act, Cap 96 as existing law, citing the Computer Misuse (Amendment) Act, 2022 and a March 2026 Constitutional Court decision on it, and urges repeal or amendment of sections 24 and 25.", "as_of": "2026-07", "date_precision": "month", "system": "Computer Misuse Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Computer Misuse Act", "country_label": "Computer Misuse Act, Cap 96", "class": "law", "platform": "", "owner": "Parliament of Uganda", "tiers": ""}
+  ],
+  "note": "Says sections 24 and 25 have been used against expression, undated and with no case named, so no use fact."
+}

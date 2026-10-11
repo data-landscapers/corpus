@@ -1,0 +1,44 @@
+{
+ "slug": "2026-04-17 Mozambique parliament unanimously approves Cyber Security Law",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Parliament unanimously approved the Cyber Security Law, making INCM technical coordinator for cyberspace security and creating a Cyber Security Fund; the government had submitted the proposal the previous Thursday.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Cyber Security Law",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "In the same session parliament approved the separate Cybercrime Law, which specifies offences and penalties.",
+   "as_of": "2026-04-17",
+   "date_precision": "day",
+   "system": "Cybercrime Law",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber Security Law",
+   "country_label": "Cyber Security Law",
+   "class": "law",
+   "platform": "",
+   "owner": "Government / INCM",
+   "tiers": ""
+  },
+  {
+   "system": "Cybercrime Law",
+   "country_label": "Cybercrime Law",
+   "class": "law",
+   "platform": "",
+   "owner": "Parliament",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

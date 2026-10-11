@@ -1,0 +1,26 @@
+{
+  "slug": "2021-10-21-sierra-leone-digital-transformation-project-pid-concept-stage",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The World Bank concept-stage PID lists the establishment of a Cybercrime Law (2021) as progress, with a Cybersecurity Emergency Response Center still to be set up.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Cybercrime Law (2021)",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cybersecurity Emergency Response Center",
+      "country_label": "Cybersecurity Emergency Response Center",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No use of the law is stated."
+}

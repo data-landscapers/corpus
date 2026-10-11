@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-30-new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "The East African Policy Observer, drawing on the Carnegie Endowment's Africa Technology Policy Tracker, says Rwanda's binding legal instruments include cybersecurity law and that all three countries reviewed, Rwanda among them, have cybersecurity laws; no date is given for the statement, so the document's published date is used.",
+     "as_of": "2026-07-30", "date_precision": "day", "system": "Rwanda cybersecurity law", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Africa Technology Policy Tracker", "country_label": "", "class": "other", "platform": "", "owner": "Carnegie Endowment for International Peace with the African Telecommunications Union", "tiers": ""}
+  ],
+  "note": "No fact on use of the law: the document gives no arrest, prosecution, penalty or count of cases under it for Rwanda."
+}

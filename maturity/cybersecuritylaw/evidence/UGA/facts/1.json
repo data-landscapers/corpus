@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-17-constitutional-court-nullifies-computer-misuse-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Uganda's Constitutional Court struck down Sections 11, 23, 26, 27, 28 and 29 of the Computer Misuse Act and Sections 162 and 163 of the Penal Code Act (criminal libel), leaving the rest of the Act standing; the document gives no ruling day, so the published date is used.", "as_of": "2026-03-17", "date_precision": "day", "system": "Computer Misuse Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Computer Misuse Act", "country_label": "Computer Misuse Act", "class": "law", "platform": "", "owner": "Parliament of Uganda", "tiers": ""}
+  ],
+  "note": ""
+}

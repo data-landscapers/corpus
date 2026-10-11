@@ -1,0 +1,11 @@
+{
+  "slug": "2023-03-11-tunisie-decret-loi-2023-17-cybersecurite",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Decree-law no. 2023-17 of 11 March 2023 on cybersecurity, published in JORT no. 26, sets audit, labelling, classification, incident-response and critical-infrastructure duties for public and private bodies with fines of 50,000 to 100,000 dinars; its Article 30 brings it into force six months after publication, and the database record gives its status as in force.", "as_of": "2023-03-11", "date_precision": "day", "system": "Décret-loi n° 2023-17 du 11 mars 2023, relatif à la cybersécurité", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de la cybersécurité (ANCS)", "country_label": "Agence nationale de la cybersécurité", "class": "other", "platform": "", "owner": "Ministry of Communication Technologies (supervising ministry)", "tiers": "public and private bodies listed in Article 6"},
+    {"system": "Agence nationale de la sécurité informatique (ANSI)", "country_label": "Agence nationale de la sécurité informatique", "class": "other", "platform": "", "owner": "State; replaced by ANCS", "tiers": ""}
+  ],
+  "note": ""
+}

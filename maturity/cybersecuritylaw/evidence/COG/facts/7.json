@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-23-unesco-evaluation-developpement-internet-republique-du-congo-roam-x",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The UNESCO ROAM-X assessment (Kiyindou, 2025) names loi n° 27-2020 du 5 juin 2020 portant lutte contre la cybercriminalité and loi n° 26-2020 du 5 juin 2020 relative à la cybersécurité as introduced Congolese legislation.", "as_of": "2020-06-05", "date_precision": "day", "system": "loi n° 27-2020 portant lutte contre la cybercriminalité; loi n° 26-2020 relative à la cybersécurité", "class": "law"},
+    {"sub_indicator": "law", "aspect": "use", "value": "none", "fact": "UNESCO states that application of the cybersecurity and cybercrime laws still has to be strengthened, calls for implementing texts for the cybercrime law, and cites no arrest, prosecution, conviction or case count under either law; the as_of is the report's 2025 publication year.", "as_of": "2025", "date_precision": "year", "system": "loi n° 27-2020 portant lutte contre la cybercriminalité", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de sécurité des systèmes d'information (ANSSI)", "country_label": "ANSSI", "class": "other", "platform": "", "owner": "State", "tiers": ""}
+  ],
+  "note": ""
+}

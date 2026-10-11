@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-23-proposta-lei-ciberseguranca-aprovada-generalidade",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Novo Jornal reports that the National Assembly approved the Cybersecurity Bill in general terms on 23 January 2026, 105 for, 1 against and 75 UNITA abstentions.", "as_of": "2026-01-23", "date_precision": "day", "system": "Proposta de Lei de Cibersegurança", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "A UNITA deputy, quoted by Novo Jornal, says Law 7/17 of 16 February (protection of computer networks and systems) is part of the current legal order and the bill would repeal it; the report dates nothing about Law 7/17 beyond its 2017 enactment, so as_of is the report's publication date.", "as_of": "2026-01-23", "date_precision": "day", "system": "Lei n.º 7/17 de Protecção das Redes e Sistemas Informáticos", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Conselho Nacional de Cibersegurança", "country_label": "Conselho Nacional de Cibersegurança", "class": "other", "platform": "", "owner": "Executive", "tiers": ""},
+    {"system": "Centro Nacional de Cibersegurança", "country_label": "Centro Nacional de Cibersegurança", "class": "other", "platform": "", "owner": "Executive", "tiers": ""}
+  ],
+  "note": "No use of either law is stated."
+}

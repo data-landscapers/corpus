@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-11-nam-csirt-namibia-cybersecurity-landscape-report-2025",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "NAM-CSIRT's 2025 landscape report says that in the absence of a cybersecurity law in Namibia it looks to the government to expedite the Cybercrime Bill and related regulations, and recommends finalising and enacting the Cybercrime, Data Protection and CII regulations; the document carries no issue date, so its published date is used.", "as_of": "2026-04-11", "date_precision": "day", "system": "Cybercrime Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "NAM-CSIRT", "country_label": "Namibia Cyber Security Incident Response Team", "class": "other", "platform": "", "owner": "CRAN", "tiers": ""}
+  ],
+  "note": ""
+}

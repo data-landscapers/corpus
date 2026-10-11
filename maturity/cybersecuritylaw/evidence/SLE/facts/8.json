@@ -1,0 +1,17 @@
+{
+  "slug": "2023-01-01-sierra-leone-national-data-strategy",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The strategy's action table calls for capacity to implement the Cybersecurity and Cybercrimes Act, 2021, treating it as an existing act (document published 2023-01, as_of taken from it).",
+      "as_of": "2023-01",
+      "date_precision": "month",
+      "system": "Cybersecurity and Cybercrimes Act, 2021",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "Another passage says a Cybersecurity Act is 'underway' in the data environment; the action table treats the 2021 Act as existing."
+}

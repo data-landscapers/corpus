@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-27-proposta-de-lei-da-ciberseguranca-apreciada-pelo-conselho-de-ministros",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "INACOM reports that on 27 October 2025 the Council of Ministers considered the Cybersecurity Bill (Proposta de Lei da Cibersegurança) for sending to the National Assembly.", "as_of": "2025-10-27", "date_precision": "day", "system": "Proposta de Lei da Cibersegurança", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Centro Nacional de Cibersegurança", "country_label": "Centro Nacional de Cibersegurança", "class": "other", "platform": "", "owner": "Executive", "tiers": ""}
+  ],
+  "note": "No use of a law is stated."
+}

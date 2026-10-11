@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-21-lbr-newdawn-koung-seeks-release-ai-image-suspect",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says President Boakai signed the Cybercrime Act into law on 19 August 2026 and that the Ministry of Posts and Telecommunications has published the approved Act.",
+   "as_of": "2026-08-19",
+   "date_precision": "day",
+   "system": "Cybercrime Act of 2025",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Police arrested Jerry Nyantee Wrotto over the weekend before 21 September 2026 over AI-generated images of Vice President Koung, and the Inspector General confirmed the arrest was made under the Cybercrime Law; no court had yet ruled on the conduct.",
+   "as_of": "2026-09-21",
+   "date_precision": "day",
+   "system": "Cybercrime Act of 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrime Act of 2025",
+   "country_label": "Cybercrime Act of 2025",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications (published); Liberia National Police (enforcement)",
+   "tiers": ""
+  }
+ ],
+ "note": "Arrest date given only as the weekend before publication; published date used."
+}

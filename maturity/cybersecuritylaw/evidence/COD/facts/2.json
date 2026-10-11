@@ -1,0 +1,26 @@
+{
+  "slug": "2026-09-12-cod-acp-proposition-loi-violence-numerique",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "ACP states that the Code du numérique, promulgated in 2023, makes non-consensual sharing of intimate content, privacy breaches and cyberharassment criminal offences in the DRC.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Code du numérique",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Code du numérique",
+      "country_label": "Code du numérique",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

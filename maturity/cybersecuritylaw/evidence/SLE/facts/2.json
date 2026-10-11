@@ -1,0 +1,17 @@
+{
+  "slug": "2021-06-01-sierra-leone-country-report-ecowas-parliament",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "bill",
+      "fact": "The Sierra Leone delegation's report to the ECOWAS Parliament says Government introduced the Cyber Crime Act, 2020 bill, which was at Committee Stage.",
+      "as_of": "2021-06",
+      "date_precision": "month",
+      "system": "Cyber Crime Act, 2020 (bill)",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": ""
+}

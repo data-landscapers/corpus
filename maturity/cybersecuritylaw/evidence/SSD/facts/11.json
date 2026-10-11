@@ -1,0 +1,10 @@
+{
+  "slug": "2021-11-01-analysis-of-the-south-sudan-cybercrimes-and-computer-misuse-provisional-order-2021",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "CIPESA states South Sudan has recently enacted the Cybercrimes and Computer Misuse Provisional Order, 2021, and analyses its provisions (document dated November 2021).", "as_of": "2021-11", "date_precision": "month", "system": "Cybercrimes and Computer Misuse Provisional Order, 2021", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybercrimes and Computer Misuse Provisional Order, 2021", "country_label": "Cybercrimes and Computer Misuse Provisional Order, 2021", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2020-12-01-republique-du-congo-diagnostic-economie-numerique-de4a",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The World Bank digital economy diagnostic of December 2020 says Loi 26-2020 du 5 juin 2020 governs the national legal framework for information-system and electronic-network security.", "as_of": "2020-06-05", "date_precision": "day", "system": "Loi 26-2020 relative à la cybersécurité", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The same diagnostic says the recently adopted legal framework, including the cybersecurity and cybercrime laws, is adopted 'but not yet promulgated', and that operationalising the bodies the cybersecurity law defines remains to be done; this sits against its dating of Loi 26-2020 to 5 June 2020, and the as_of is the document's published month.", "as_of": "2020-12", "date_precision": "month", "system": "cybersecurity and cybercrime laws", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Agence nationale pour la sécurité des systèmes d'information (Loi 30-2019)", "country_label": "ANSSI", "class": "other", "platform": "", "owner": "State", "tiers": ""},
+    {"system": "Convention de Malabo (ratified August 2020)", "country_label": "Convention de Malabo", "class": "other", "platform": "", "owner": "Union africaine", "tiers": ""}
+  ],
+  "note": ""
+}

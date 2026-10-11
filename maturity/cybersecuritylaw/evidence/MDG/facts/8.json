@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-25-madagascar-new-cybersecurity-law-wearetech",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document says Madagascar still relies on legislation adopted in 2014, which the minister's review considers inadequate; the document gives no further date, so the year is the adoption year.", "as_of": "2014", "date_precision": "year", "system": "2014 cybersecurity legislation", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The minister said at the 22-23 June 2026 symposium that the review launched in December 2025 is nearing completion and a new regulatory framework with incident definitions and critical-infrastructure criteria will be published shortly; no bill is named.", "as_of": "2026-06-23", "date_precision": "day", "system": "new cybersecurity regulatory framework", "class": "law"}
+  ],
+  "systems": [
+    {"system": "CIRT Madagascar", "country_label": "Computer Incident Response Team", "class": "other", "platform": "", "owner": "Ministry of Digital Development, Posts and Telecommunications", "tiers": ""}
+  ],
+  "note": ""
+}

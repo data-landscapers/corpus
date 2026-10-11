@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-liberian-investigator-moye-cybersecurity-bill-awaits-signature",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Senator Moye said on 30 June 2026 that a comprehensive cybersecurity bill passed by both Houses awaited only President Boakai's signature to become law (article published 2026-07-01; event date taken from the publication date).",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Cybercrime bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

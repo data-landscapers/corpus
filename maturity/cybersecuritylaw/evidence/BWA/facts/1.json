@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-25-bwa-digital-services-act-24-month-clock-cyber-act-april",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Per Botswana Daily News (BOPA) on 25 Feb 2026, the Cyber Security Act passed last year was signed into law and was still waiting to commence by April 2026, so it was not yet in force; it sets up a National Cybersecurity Authority.", "as_of": "2026-02-25", "date_precision": "day", "system": "Cyber Security Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cyber Security Act", "country_label": "Cyber Security Act", "class": "law", "platform": "", "owner": "Ministry of Communications and Innovation", "tiers": ""},
+    {"system": "National Cybersecurity Authority", "country_label": "National Cybersecurity Authority", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Computer Security Incident Response", "country_label": "National Computer Security Incident Response", "class": "other", "platform": "", "owner": "BOCRA", "tiers": ""}
+  ],
+  "note": "Standing recorded as bill because the Act awaited commencement; no use stated."
+}

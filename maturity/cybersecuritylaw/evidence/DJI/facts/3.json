@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-09-anc-cybersecurity-authority-wearetech",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Autorité Nationale de Cybersécurité",
+   "country_label": "ANC",
+   "class": "other",
+   "platform": "",
+   "owner": "Presidency of the Republic",
+   "tiers": ""
+  },
+  {
+   "system": "National Cybersecurity Strategy",
+   "country_label": "National Cybersecurity Strategy",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Agency law, strategy and treaties only; Digital Code named without stating cybercrime provisions."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2017-10-06-sao-tome-lei-15-2017-lei-sobre-cibercrime",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Lei n.º 15/2017 (Lei sobre Cibercrime), passed by the Assembleia Nacional on 28 June 2017, promulgated on 3 August 2017 and published in the Diário da República on 6 October 2017, creates computer-crime offences and procedural powers and enters into force 30 days after publication (about 5 November 2017).",
+     "as_of": "2017-11-05", "date_precision": "day",
+     "system": "Lei n.º 15/2017 Lei sobre Cibercrime", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Ponto de contacto permanente 24/7 (Polícia Judiciária)", "country_label": "ponto de contacto disponível vinte e quatro horas por dia, sete dias por semana", "class": "other", "platform": "", "owner": "Polícia Judiciária", "tiers": "national"}
+  ],
+  "note": ""
+}

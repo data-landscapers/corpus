@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-26-aminata-cybersecurity-law-hac-web-media",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The president of the Haute Autorité de la Communication says the cybersecurity law, not the press law, will be applied to web media that break the rules, with prison for any person; the document gives no date for the law and is dated by its published date, 2025-07-26.", "as_of": "2025-07-26", "date_precision": "day", "system": "loi sur la cybersécurité", "class": "law"}
+  ],
+  "systems": [
+    {"system": "loi sur la cybersécurité", "country_label": "loi de la cybersécurité", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

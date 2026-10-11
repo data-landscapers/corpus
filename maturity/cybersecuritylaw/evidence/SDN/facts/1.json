@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-18-sudantimes-cybercrime-law-anti-war-prosecutions",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "A criminal court in El Obeid sentenced pharmacist Ahmed Suleiman Ahmed Al-Waqi to six years, two of them under Article 19 and one under Article 24 of the Cybercrime Law, after a phone search found anti-war messages (per his lawyer).", "as_of": "2026-08-16", "date_precision": "day", "system": "Cybercrime Law", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article describes the Cybercrime Law as applied by a criminal court to convict a defendant on Articles 19 and 24; the date is the Sunday before the 2026-08-18 publication.", "as_of": "2026-08-16", "date_precision": "day", "system": "Cybercrime Law", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybercrime Law", "country_label": "Cybercrime Law", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-19-dailynews-tanzania-critical-ict-infrastructure-vigilance",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The ICT Minister said on 19 August 2026 that section 29 of the Cybercrimes Act provides a fine of not less than 100m/- or three times the damage, imprisonment of at least five years, or both, for damaging critical ICT infrastructure.", "as_of": "2026-08-19", "date_precision": "day", "system": "The Cybercrimes Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "The Cybercrimes Act", "country_label": "Cybercrimes Act", "class": "law", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""},
+    {"system": "Ministry registration system for critical ICT infrastructure owners and operators", "country_label": "official system established by the Ministry", "class": "other", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""}
+  ],
+  "note": "The article states penalties and a warning only; no arrest, charge or case is reported, so no use fact."
+}

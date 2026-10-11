@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-02-government-launches-interim-csirt-to-guard-lesothos-digital-systems",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Lesotho Tribune reports the Director General of ICT saying the Cybercrime Bill and the Cybersecurity Bill, split from the Computer Crime and Cybersecurity Bill, are ready and waiting for approval by the National Assembly; the article was published 2026-08-02 and the statement is dated to that publication.", "as_of": "2026-08-02", "date_precision": "day", "system": "Cybercrime Bill and Cybersecurity Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "interim Cybersecurity Incident Response Team (interim CSIRT)", "country_label": "interim CSIRT", "class": "other", "platform": "", "owner": "Ministry of Information, Communications, Science, Technology and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "LSO",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "2",
+   "standing": "bill",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LSO-003;LSO-001",
+   "gaps": "No source held says a cybercrime or cybersecurity law is in force.",
+   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
+  }
+ ]
+}

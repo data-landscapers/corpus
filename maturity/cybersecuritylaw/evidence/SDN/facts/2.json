@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-17-sudantimes-cybercrime-law-pharmacist-jailed",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "El Obeid Criminal Court convicted pharmacist Ahmed Suleiman Ahmed al-Waqi under Articles 19 and 24 of the 2008 Cybercrime Law, adding two years and one year to a three-year Criminal Act sentence, six years in total (per his lawyer).", "as_of": "2026-08-16", "date_precision": "day", "system": "Cybercrime Law 2008", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article names a 2008 Cybercrime Law under which a court passed sentence; date is the Sunday before the 2026-08-17 publication.", "as_of": "2026-08-16", "date_precision": "day", "system": "Cybercrime Law 2008", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybercrime Law 2008", "country_label": "Cybercrime Law", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

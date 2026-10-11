@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-24-bdi-burundi-sets-data-as-a-strategic-digital-public-good",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The article reports a government delegate at a February 2026 workshop in Bujumbura citing Burundi's cybercrime law, Law No. 1/10 of 16 March 2022 on prevention and repression of cybercrime, as adopted and in application, with experts and participants discussing its enforcement and gaps against the Malabo Convention; a speaker says the president signed it in 2022.", "as_of": "2022-03-16", "date_precision": "day", "system": "Loi n°1/10 du 16 mars 2022 portant prévention et répression de la cybercriminalité", "class": "law"}
+  ],
+  "systems": [],
+  "note": "No dated arrest, charge, prosecution or published case count under the law is stated, so no use fact; the Malabo ratification call is noted only."
+}

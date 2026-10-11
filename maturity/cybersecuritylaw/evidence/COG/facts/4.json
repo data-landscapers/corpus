@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-xalam-congo-republic-data-center-market-briefing",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "A January 2026 data-centre market briefing lists a cybersecurity law among the laws Congo has passed to refine its regulatory framework; it gives no date or number, and the as_of is the briefing's published month.", "as_of": "2026-01", "date_precision": "month", "system": "cybersecurity law", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

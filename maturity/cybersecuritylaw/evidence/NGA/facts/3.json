@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-31-punchng-sowore-serap-dss-withdraw-charges",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "SERAP and Sowore's counsel refer to the Cybercrimes Act under which the DSS is prosecuting Sowore; the ECOWAS Court judgment of 2022 concerned the former section 24.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "The DSS is prosecuting activist and presidential candidate Omoyele Sowore under the Cybercrimes Act over his description of the President as a criminal, and its Director-General announced on 30 August 2026 that the prosecution would be suspended until after the 2027 election.",
+   "as_of": "2026-08-30",
+   "date_precision": "day",
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "country_label": "Cybercrimes (Prohibition, Prevention, etc.) Act, amended 2024",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

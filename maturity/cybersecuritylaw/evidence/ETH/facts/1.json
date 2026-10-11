@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-07-ethiopia-critical-infrastructure-cybersecurity-proclamation-insa",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "INSA's Director General said the House of People's Representatives unanimously ratified Critical Infrastructure Cybersecurity Proclamation No. 1426/2026, which sets 18 obligations for owners of 12 critical sectors, and that institutions are to use a transition period to prepare for compliance, so it is passed and not yet shown in force; the document gives no ratification date, so the date is its publication date, 2026-08-07.", "as_of": "2026-08-07", "date_precision": "day", "system": "Critical Infrastructure Cybersecurity Proclamation No. 1426/2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Critical Infrastructure Cybersecurity Proclamation No. 1426/2026", "country_label": "Critical Infrastructure Cybersecurity Proclamation", "class": "law", "platform": "", "owner": "House of People's Representatives; enforced by INSA", "tiers": "national"},
+    {"system": "Critical Infrastructure Cybersecurity Fund", "country_label": "Critical Infrastructure Cybersecurity Fund", "class": "other", "platform": "", "owner": "INSA", "tiers": "national"}
+  ],
+  "note": "No use of the law is stated; INSA is described as preparing guidelines during the transition period."
+}

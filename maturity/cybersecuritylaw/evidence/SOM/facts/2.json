@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-26-nca-somalia-cybersecurity-law-approved",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "The NCA states the House of the People approved the Cybersecurity Law on 26 January 2026; no Senate action, signature or gazetting is stated.",
+   "as_of": "2026-01-26",
+   "date_precision": "day",
+   "system": "Cybersecurity Law",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOM-CIRT",
+   "country_label": "Somalia Computer Incident Response Team",
+   "class": "other",
+   "platform": "",
+   "owner": "National Communications Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

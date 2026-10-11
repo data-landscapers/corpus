@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-18-jo-2026-25-decret-2026-178-apport-actifs-pcn-congo-telecom",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Journal officiel of 18 June 2026 prints a decree of 6 May 2026 that cites as in force loi n° 26-2020 du 5 juin 2020 relative à la cybersécurité and loi n° 27-2020 du 5 juin 2020 portant lutte contre la cybercriminalité.", "as_of": "2020-06-05", "date_precision": "day", "system": "loi n° 26-2020 relative à la cybersécurité; loi n° 27-2020 portant lutte contre la cybercriminalité", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Agence nationale de sécurité des systèmes d'information (loi n° 30-2019)", "country_label": "ANSSI", "class": "other", "platform": "", "owner": "State", "tiers": ""}
+  ],
+  "note": ""
+}

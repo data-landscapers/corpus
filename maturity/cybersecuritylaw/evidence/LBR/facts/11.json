@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-24-lbr-allafrica-newrepublic-cyber-act-weapon-silence-critics",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The New Republic reports that Liberia's Cybersecurity and Cybercrime Act was passed by the Legislature and is being operationalized by the Liberia Telecommunications Authority and the Ministry of Justice (no earlier date given, so the 2026-09-24 publication date is used).", "as_of": "2026-09-24", "date_precision": "day", "system": "Cybercrime Act of 2025", "class": "law"},
+    {"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "The Liberia National Police arrested a citizen, Jerry Nyanti Wratto, for posts about Vice President Koung, held him at police headquarters, and charged him and forwarded him to court on four alleged offences citing sections 10.1, 15.1, 18.1 and 19.1 of the Cybercrime Act; the article gives the arrest as 'this week' of 2026-09-24.", "as_of": "2026-09", "date_precision": "month", "system": "Cybercrime Act of 2025", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

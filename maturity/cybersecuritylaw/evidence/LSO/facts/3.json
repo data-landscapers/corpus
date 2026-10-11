@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-24-lso-lestimes-cybersecurity-bill-2026-consultation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Lesotho Times reports the Cybersecurity Bill 2026 under a two-day stakeholder consultation before it returns to Parliament, after a 2021 version was withdrawn from Parliament and the 2024 Computer Crime and Cyber Security Bill was referred to Parliament but not enacted; the article is dated by its publication date, 2026-09-24.", "as_of": "2026-09-24", "date_precision": "day", "system": "Cybersecurity Bill 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Computer Security Incident Response Team (CSIRT)", "country_label": "CSIRT", "class": "other", "platform": "", "owner": "Lesotho Communications Authority", "tiers": ""}
+  ],
+  "note": ""
+}

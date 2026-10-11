@@ -1,0 +1,11 @@
+{
+  "slug": "2026-02-01-digital-frontiers-and-legal-bounds-7-impactful-takeaways-from-south-sudans-new-cybercrime-act",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Internet Society South Sudan Chapter states President Kiir signed the Cybercrimes and Computer Misuse Act, 2026 into law (it gives 8 February 2026; the document's published date, February 2026, is month-precision).", "as_of": "2026-02", "date_precision": "month", "system": "Cybercrimes and Computer Misuse Act, 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "SS-CIRT/CC (South Sudan Computer Incident Response Team Coordination Centre)", "country_label": "SS-CIRT/CC", "class": "other", "platform": "", "owner": "the Authority under the Act", "tiers": ""},
+    {"system": "National Cybercrime Prosecution Unit", "country_label": "National Cybercrime Prosecution Unit", "class": "other", "platform": "", "owner": "Ministry of Justice", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2021-12-15-seychelles-cybercrimes-and-other-related-crimes-act-2021",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Cybercrimes and Other Related Crimes Act 2021 (Act 59 of 2021) was assented on 15 December 2021, repeals the Computer Misuse Act (Cap 254), and per the source record commenced on 1 February 2022; the text itself says it operates on a date the Minister sets, and it was later amended by Act 23 of 2025.", "as_of": "2022-02-01", "date_precision": "day", "system": "Cybercrimes and other Related Crimes Act, 2021", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybercrimes and other Related Crimes Act, 2021 (Act 59 of 2021)", "country_label": "Cybercrimes and other Related Crimes Act", "class": "law", "platform": "", "owner": "National Assembly of Seychelles", "tiers": "national"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The World Bank appraisal of 11 May 2022 refers to Congo's 'newly adopted cyber legislation' and plans technical assistance to operationalise ANSSI for it; it names no law, and the as_of is the document's published date.", "as_of": "2022-05-11", "date_precision": "day", "system": "newly adopted cyber legislation", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Agence Nationale pour la Sécurité des Systèmes d'Information (ANSSI)", "country_label": "ANSSI", "class": "other", "platform": "", "owner": "State", "tiers": ""},
+    {"system": "Computer Security Incident Response Team (CSIRT), planned under EIB/EU project", "country_label": "CSIRT", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

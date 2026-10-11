@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-09-onecitizendaily-south-sudan-yei-cybercrime-training",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "More than 20 civil society, security and media participants were trained in Yei River County on the Cybercrime and Computer Misuse Act 2026; the report treats the Act as current law (dated by publication, 2026-09-09).", "as_of": "2026-09-09", "date_precision": "day", "system": "Cybercrime and Computer Misuse Act 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybercrime and Computer Misuse Act 2026", "country_label": "Cybercrime and Computer Misuse Act 2026", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Training is not a use of the law (no arrest, charge or count)."
+}

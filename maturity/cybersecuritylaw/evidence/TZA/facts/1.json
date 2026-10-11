@@ -1,0 +1,10 @@
+{
+  "slug": "2023-01-01-cybercrimes-act-cap443-re2023",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The consolidated text of the Cybercrimes Act (Cap. 443, Revised Edition 2023, originally Act No. 14 of 2015) states it commenced on 1 September 2015 under GN No. 528 of 2015 and applies to Mainland Tanzania and Zanzibar, criminalising illegal access, interception, data interference, fraud and forgery.", "as_of": "2015-09-01", "date_precision": "day", "system": "The Cybercrimes Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "The Cybercrimes Act (Cap. 443)", "country_label": "Cybercrimes Act", "class": "law", "platform": "", "owner": "Office of the Attorney General", "tiers": ""}
+  ],
+  "note": ""
+}

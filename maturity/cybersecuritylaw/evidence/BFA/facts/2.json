@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-01-burkina-faso-balai-citoyen-digital-governance-dialogue",
+  "facts": [],
+  "systems": [
+    {"system": "Brigade centrale de lutte contre la cybercriminalité (BCLCC)", "country_label": "BCLCC", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Agence nationale de sécurité des systèmes d'information (ANSSI)", "country_label": "ANSSI", "class": "other", "platform": "", "owner": "Ministère de la Transition digitale, des Postes et des Communications électroniques", "tiers": ""}
+  ],
+  "note": "A BCLCC speaker says several laws and decrees govern the digital space, naming none and giving no standing or use; no fact."
+}

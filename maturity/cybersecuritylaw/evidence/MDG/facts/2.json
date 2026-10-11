@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-05-madagascar-cybercrime-bill-vote-postponed",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "L'Express reports that on 2026-09-04 deputies voted to postpone to a later session the adoption of the bill recasting the cybercrime law, a 96-article, 12-chapter text, one of five bills deferred at the close of the extraordinary session.", "as_of": "2026-09-04", "date_precision": "day", "system": "Projet de loi portant refonte de la loi sur la cybercriminalité", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Unité de protection et d'investigation numérique (Upin)", "country_label": "Upin", "class": "other", "platform": "", "owner": "State (proposed under the cybercrime bill)", "tiers": ""}
+  ],
+  "note": ""
+}

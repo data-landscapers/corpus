@@ -1,0 +1,31 @@
+{
+  "slug": "2021-01-01-ben-pag-2021-2026-document-3-numerique",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ANSSI",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "CyberRange",
+      "country_label": "CyberRange",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "PSSIE",
+      "country_label": "Politique de Sécurité des Systèmes d'Information de l'État",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Government programme lists fighting cybercrime and developing the legal framework as planned activities; no law or its use stated."
+}

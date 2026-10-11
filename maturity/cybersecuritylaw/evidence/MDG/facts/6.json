@@ -1,0 +1,14 @@
+{
+  "slug": "2026-09-01-wearetech-madagascar-actualise-son-arsenal-face-a-la-montee",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The document says Madagascar's cybercrime framework still rests in part on loi n°2014-006, adopted in June 2014, which defined offences such as fraudulent access to information systems and data breaches.", "as_of": "2014-06", "date_precision": "month", "system": "loi n°2014-006", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The document says the government tabled projet de loi n°042/2026 on combating cybercrime at the National Assembly on Friday 28 August 2026, with penalties of two to ten years and fines of 100,000 to 100 million ariary.", "as_of": "2026-08-28", "date_precision": "day", "system": "projet de loi n°042/2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "loi n°2014-006", "country_label": "loi n°2014-006", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "projet de loi n°042/2026", "country_label": "projet de loi relatif à la lutte contre la cybercriminalité", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "UPIN", "country_label": "Unité de protection et d'investigation numérique", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "UN Convention against Cybercrime", "country_label": "Convention de Hanoï", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

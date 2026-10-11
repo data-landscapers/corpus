@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-18-cybil-feasibility-study-guinea-bissau-cybersecurity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National CSIRT (planned)",
+   "country_label": "National CSIRT for Guinea-Bissau",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Guinea-Bissau",
+   "tiers": ""
+  }
+ ],
+ "note": "Strategy and CSIRT feasibility study; strategies and response teams give no fact."
+}

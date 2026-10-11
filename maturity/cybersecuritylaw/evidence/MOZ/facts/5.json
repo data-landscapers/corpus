@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-17-dla-piper-data-protection-laws-mozambique",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "DLA Piper reports a Cybersecurity Bill (version 6 of 15 September 2023, on INTIC's site) still under discussion, to make INTIC the national cybersecurity authority and set fines.",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "Cybersecurity Bill",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "DLA Piper reports the Penal Code (Law 24/2019, amended by Law 17/2020) provides cybercrimes such as database intrusion (up to two years) and electronic fraud (one to five years).",
+   "as_of": "2026-02-17",
+   "date_precision": "day",
+   "system": "Penal Code (Law 24/2019)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybersecurity Bill",
+   "country_label": "Cybersecurity Bill",
+   "class": "law",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  },
+  {
+   "system": "Penal Code (Law 24/2019)",
+   "country_label": "Penal Code (Law 24/2019)",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-03-madagascar-cybercrime-bill-upin-police-numerique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "L'Express reports on 2026-09-03 that the new cybercrime bill, pending at the National Assembly, was to be put to the deputies' vote the next day (2026-09-04) unless the programme changed, and would create the Upin as a public establishment.", "as_of": "2026-09-03", "date_precision": "day", "system": "Projet de loi sur la cybercriminalité (n°042/2026)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Unité de protection et d'investigation numérique (Upin)", "country_label": "Upin", "class": "other", "platform": "", "owner": "Public establishment with legal personality and financial autonomy (proposed under the bill)", "tiers": ""}
+  ],
+  "note": ""
+}

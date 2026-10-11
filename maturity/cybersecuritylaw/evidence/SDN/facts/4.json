@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-21-sudan-sudapass-terms-and-conditions",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The SudaPass terms, effective 2026-05-21 (published date used as proxy), cite the Cybercrime Law as the basis of criminal penalties of up to twelve years for electronic sabotage or forgery, and refer to a Cyber Security Act of 2025.", "as_of": "2026-05-21", "date_precision": "day", "system": "Cybercrime Law", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybercrime Law", "country_label": "Cybercrime Law", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber Security Act of 2025", "country_label": "Cyber Security Act of 2025", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SudaPass", "country_label": "Sudanese Digital Identity", "class": "other", "platform": "", "owner": "National Electronic Authentication Authority", "tiers": "basic; intermediate; high"}
+  ],
+  "note": ""
+}

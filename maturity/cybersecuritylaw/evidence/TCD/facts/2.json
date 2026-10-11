@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-02-arcep-tchad-registre-des-lois",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The sector regulator ARCEP's register of laws lists Loi N°009/PR/2015 on Cybersecurity and the Fight against Cybercrime among Chad's laws; the page gives no other date, so 2015 is the number's year.", "as_of": "2015", "date_precision": "year", "system": "Loi N°009/PR/2015 portant sur la Cybersécurité et la Lutte Contre la Cybercriminalité", "class": "law"}
+  ],
+  "systems": [],
+  "note": "Register lists the law by title only; no use of it is stated."
+}

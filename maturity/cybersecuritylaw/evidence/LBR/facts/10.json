@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-25-lbr-fpa-dopoh-cybercrime-enforcement",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article states President Boakai approved the Cybercrime Act on 3 July 2026, after House passage on 28 September 2023 and Senate passage on 20 November 2025; it notes that the Act requires regulations within six to twelve months.",
+   "as_of": "2026-07-03",
+   "date_precision": "day",
+   "system": "Cybercrime Act of 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia National Cybersecurity Center (LNCC)",
+   "country_label": "LNCC",
+   "class": "other",
+   "platform": "",
+   "owner": "Executive",
+   "tiers": "Senator Dopoh urges the executive to set it up; not stated as established"
+  },
+  {
+   "system": "Liberia Cybersecurity Emergency Response Team (LCERT)",
+   "country_label": "LCERT",
+   "class": "other",
+   "platform": "",
+   "owner": "Executive",
+   "tiers": "Senator Dopoh urges the executive to set it up with a 24/7 contact point; not stated as established"
+  }
+ ],
+ "note": "No use fact: the article reports no arrest, charge or case. It also notes a sibling article gives 19 August 2026 for the assent."
+}

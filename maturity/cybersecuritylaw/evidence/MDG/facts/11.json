@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-17-mdg-allafrica-cybercriminalite-absent-ordre-du-jour",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "L'Express de Madagascar (via allAfrica) reports that the cybercrime bill, whose vote the deputies postponed to a later session when the previous extraordinary session closed on 2026-09-04, is not among the 17 bills on the agenda of the extraordinary session opening 2026-09-17, so it remains a bill before parliament.", "as_of": "2026-09-17", "date_precision": "day", "system": "Projet de loi sur la cybercriminalité", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet de loi sur la cybercriminalité", "country_label": "projet de loi sur la cybercriminalité", "class": "law", "platform": "", "owner": "National Assembly / Government of Madagascar", "tiers": ""},
+    {"system": "Projet de loi relatif aux communications électroniques et aux infrastructures numériques", "country_label": "communications électroniques et infrastructures numériques", "class": "other", "platform": "", "owner": "National Assembly / Government of Madagascar", "tiers": ""},
+    {"system": "Unité de protection et d'investigation numérique (UPIN)", "country_label": "Upin", "class": "other", "platform": "", "owner": "created by the cybercrime bill", "tiers": ""}
+  ],
+  "note": ""
+}

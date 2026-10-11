@@ -1,0 +1,14 @@
+{
+  "slug": "2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Dataphyte describes the Cybercrimes (Prohibition, Prevention, etc.) Act 2015 as an enacted law whose Section 24 prescribes up to three years' imprisonment or a fine for sending a message known to be false, and says it has been amended.", "as_of": "2015", "date_precision": "year", "system": "Cybercrimes (Prohibition, Prevention, etc.) Act 2015", "class": "law"},
+    {"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "Reporters Without Borders reported in 2024, as cited by Dataphyte, that at least eight journalists had been arrested, prosecuted or detained under the Cybercrimes Act despite its amendment; no count of cases for a stated period is given.", "as_of": "2024", "date_precision": "year", "system": "Cybercrimes (Prohibition, Prevention, etc.) Act 2015", "class": "law"},
+    {"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "In December 2024 Lagos nurse Olamide Thomas was arrested after livestreaming remarks critical of the President, charged with cyberbullying and held until bail days later; the document gives no day.", "as_of": "2024-12", "date_precision": "month", "system": "Cybercrimes (Prohibition, Prevention, etc.) Act 2015", "class": "law"},
+    {"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "In May 2020 Department of State Services operatives arrested Ambrose Nwaogwugwu, a party social media manager in Imo State, over a satirical post about the governor, charging him with cyber-related offences including defamation and false publication; he was detained several weeks before bail.", "as_of": "2020-05", "date_precision": "month", "system": "Cybercrimes (Prohibition, Prevention, etc.) Act 2015", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybercrimes (Prohibition, Prevention, etc.) Act 2015", "country_label": "Cybercrimes Act", "class": "law", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Code of Practice for Interactive Computer Service Platforms", "country_label": "NITDA Code of Practice", "class": "other", "platform": "", "owner": "NITDA", "tiers": ""}
+  ],
+  "note": "Document dated 2026-02-27 without a date for the Act's amendment; Olushipo (Mar 2024) cyberstalking allegation not recorded as the document names no statute for it."
+}

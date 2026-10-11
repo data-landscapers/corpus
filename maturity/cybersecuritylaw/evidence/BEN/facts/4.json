@@ -1,0 +1,26 @@
+{
+  "slug": "2026-01-16-africaho-cnin-bilan-2025",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "use",
+      "value": "reported",
+      "fact": "Benin's Centre national d'investigations numériques reported over 6,500 digital-offence complaints in 2025 (about 4,000 the year before) and about 1,500 arrests of online-fraud suspects; the article does not name the law.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "CNIN",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "CNIN",
+      "country_label": "Centre national d'investigations numériques",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

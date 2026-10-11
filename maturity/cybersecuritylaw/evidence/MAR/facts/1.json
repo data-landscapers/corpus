@@ -1,0 +1,11 @@
+{
+  "slug": "2020-08-06-morocco-loi-05-20-cybersecurite",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Loi n° 05-20 on cybersecurity (dahir n° 1-20-69 of 25 July 2020, Bulletin officiel n° 6906 of 6 August 2020) is promulgated; its article 53 makes it operative on publication of its implementing texts, and the page says décret n° 2-24-921 applying article 25 was in force by the Bulletin officiel of 20 February 2025.", "as_of": "2025-02", "date_precision": "month", "system": "Loi n° 05-20 relative à la cybersécurité", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n° 05-20 relative à la cybersécurité", "country_label": "Loi n° 05-20", "class": "law", "platform": "", "owner": "Royaume du Maroc", "tiers": "national"},
+    {"system": "DGSSI", "country_label": "DGSSI", "class": "other", "platform": "", "owner": "Morocco", "tiers": ""}
+  ],
+  "note": "No use or figures stated; entry into force is conditional on implementing texts, in force evidenced only by the decree of 2025."
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-06-niger-hrw-journalistes-arretes-cybercriminalite",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "Human Rights Watch reports that Niger's 2019 cybercrime law, amended by the junta in 2024 to restore prison terms of up to five years and fines for disseminating data likely to disturb public order, was the law under which charges were brought in October 2025.",
+     "as_of": "2025-10-30", "date_precision": "day", "system": "loi de 2019 sur la cybercriminalité", "class": "law"},
+    {"sub_indicator": "law", "aspect": "use", "value": "used",
+     "fact": "Per Human Rights Watch, police in Niamey arrested six journalists on 30 October 2025 and the authorities charged them with complicity in disseminating a document likely to disturb public order under the 2019 cybercrime law, for sharing an invitation to a state press conference; three were detained at Kollo prison. The law was used against journalists.",
+     "as_of": "2025-10-30", "date_precision": "day", "system": "loi de 2019 sur la cybercriminalité", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

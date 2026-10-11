@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-01-oxford-tech-justice-gambia-limited-ai-deployment-and-regulation",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill",
+     "fact": "The Oxford Institute of Technology and Justice states that The Gambia's parliament introduced a proposed Cybercrime Bill in March 2024 and that, as at June 2026, it has not been enacted.",
+     "as_of": "2026-06", "date_precision": "month", "system": "Cybercrime Bill", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

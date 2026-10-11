@@ -1,0 +1,17 @@
+{
+  "slug": "2024-01-01-sierra-leone-mtndp-2024-2030",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The national development plan lists the enactment of the Cybercrime Act 2021 among sector milestones and says the Cyber Security Act was enacted to criminalise and prosecute cybercrime including online abuse of children.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Cybercrime Act 2021",
+      "class": "law"
+    }
+  ],
+  "systems": [],
+  "note": "No use of the law is stated."
+}

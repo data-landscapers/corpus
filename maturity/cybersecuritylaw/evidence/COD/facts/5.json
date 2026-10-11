@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-30-rdc-chaine-responsabilite-visible-cybersecurite",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Conseil national de cybersécurité",
+      "country_label": "Conseil national de cybersécurité",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Agence nationale de cybersécurité",
+      "country_label": "Agence nationale de cybersécurité",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "Minister's call for a chain of responsibility among agencies; institutions give no law fact."
+}

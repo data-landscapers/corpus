@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-01-cog-cybersecurite-experts-sous-region-strategies-riposte-gouvernement",
+  "facts": [],
+  "systems": [
+    {"system": "Agence nationale de la sécurité des systèmes d'information (ANSSI)", "country_label": "ANSSI", "class": "other", "platform": "", "owner": "Government of Congo", "tiers": "national"},
+    {"system": "Cyberdrill régional UIT (13th edition, Kintélé, 1-4 July 2025)", "country_label": "Cyberdrill", "class": "other", "platform": "", "owner": "ITU", "tiers": ""}
+  ],
+  "note": "Account of a regional ITU cyber exercise and ministerial speeches; it names no cybercrime or cybersecurity law, bill, case or count."
+}

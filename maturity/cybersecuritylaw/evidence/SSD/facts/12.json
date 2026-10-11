@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-15-ssd-radiotamazuj-oped-china-ai-path-digital-divide",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "An op-ed says the ICT ministry will prioritise implementing the Cybercrime and Computer Misuse Act, treating it as existing law; it gives no enactment date (dated by publication, 2026-09-15).", "as_of": "2026-09-15", "date_precision": "day", "system": "Cybercrime and Computer Misuse Act", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybercrime and Computer Misuse Act", "country_label": "Cybercrime and Computer Misuse Act", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

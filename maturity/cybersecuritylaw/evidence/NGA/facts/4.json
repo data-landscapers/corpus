@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-24-serap-nge-cybercrimes-act-suspension",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "SERAP says the 2024 amendment of the Cybercrimes Act retains ambiguous cyberstalking wording in section 24; the article gives no date for the briefing, so its published date is used.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "SERAP says authorities continue to use section 24 to arrest and charge journalists, bloggers, activists and ordinary citizens, including over posts in WhatsApp alumni groups; no individual case or date is given, so the published date is used.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "country_label": "Cybercrimes (Prohibition, Prevention, etc.) Act, amended 2024",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

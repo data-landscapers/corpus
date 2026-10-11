@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-12-mdg-midi-fenitra-ravelomanantsoa-legislation-numerique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Midi Madagasikara, interviewing a digital-law specialist, describes the cybercrime law as a bill (projet de loi) that would raise penalties, require suspicious-transaction reports on Mobile Money transfers of 10 million ariary or more and tighten SIM identification; no law is described as in force. The article gives no event date, so its published date of 2026-09-12 is used.", "as_of": "2026-09-12", "date_precision": "day", "system": "Projet de loi sur la cybercriminalité", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Projet de loi sur la cybercriminalité", "country_label": "projet de loi sur la cybercriminalité", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

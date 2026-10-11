@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-17-bwa-digital-services-cybersecurity-bills-passed",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Parliament passed the Cybersecurity Bill, 2025 under a certificate of urgency presented by the Minister of Communications and Innovation on 14 August 2025 (reported 17 Aug 2025); it was not yet enacted.", "as_of": "2025-08-14", "date_precision": "day", "system": "Cybersecurity Bill, 2025", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybersecurity Bill, 2025", "country_label": "Cybersecurity Bill, 2025", "class": "law", "platform": "", "owner": "Ministry of Communications and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

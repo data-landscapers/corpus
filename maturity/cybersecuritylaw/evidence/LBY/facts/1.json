@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-16-parliament-national-security-cybersecurity-law-alwasat",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill",
+     "fact": "On 15 July 2026 a temporary House of Representatives committee (created by Speaker's decision 115 of 2025) met National Security Council officials in Benghazi to work on preparing a comprehensive cybersecurity bill; the document reports a bill in preparation, not an enacted law.",
+     "as_of": "2026-07-15", "date_precision": "day", "system": "Cybersecurity bill (House of Representatives temporary committee)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

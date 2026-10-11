@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-09-somalia-launches-somcirt",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "The article says parliament approved the Cybersecurity Law in January 2026 and that a cybercrime bill was approved in August 2025; it states neither as in force.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Cybersecurity Law",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SOM-CIRT",
+   "country_label": "Somalia Computer Incident Response Team",
+   "class": "other",
+   "platform": "",
+   "owner": "National Communications Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "GHA",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "4",
+   "standing": "in-force",
+   "use": "used",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GHA-002;GHA-001",
+   "gaps": "No count of cases investigated, prosecuted or decided under the law, for a period ending in the last two years, is held.",
+   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
+  }
+ ]
+}

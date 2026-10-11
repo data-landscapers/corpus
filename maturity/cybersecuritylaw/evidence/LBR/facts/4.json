@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-19-lbr-smartnewsliberia-cybercrime-act-free-speech",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says the Cybercrime Act of 2025 is now formally published as an approved Act, listed by the Ministry of Posts and Telecommunications and published by the Executive Mansion, and that Liberia has entered the enforcement phase.",
+   "as_of": "2026-09-19",
+   "date_precision": "day",
+   "system": "Cybercrime Act of 2025",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrime Act of 2025",
+   "country_label": "Cybercrime Act of 2025",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Posts and Telecommunications (published); Liberia National Police (enforcement)",
+   "tiers": ""
+  }
+ ],
+ "note": "Mentions an arrest and an official's prosecution warning but does not itself state the arrest was made under the Act, so no use fact."
+}

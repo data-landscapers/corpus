@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-18-ssd-cybercrime-act-effect",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Eye Radio reports that the government announced implementation of the Cybercrime and Computer Misuse Act, 2026, which President Kiir signed in February 2026, after a National Cyber-Security Task Force meeting on the Friday before publication.", "as_of": "2026-07-17", "date_precision": "day", "system": "Cybercrime and Computer Misuse Act, 2026", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Cyber-Security Task Force", "country_label": "National Cyber-Security Task Force", "class": "other", "platform": "", "owner": "Internal Security Bureau of the National Security Service (headed by its Deputy Director General)", "tiers": "inter-agency"},
+    {"system": "National Cyber-Security Steering Committee", "country_label": "National Cyber-Security Steering Committee", "class": "other", "platform": "", "owner": "Ministry of Justice and Constitutional Affairs (chair)", "tiers": "inter-agency"}
+  ],
+  "note": ""
+}

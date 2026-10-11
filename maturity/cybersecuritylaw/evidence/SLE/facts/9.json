@@ -1,0 +1,42 @@
+{
+  "slug": "2022-12-01-sle-sierra-leone-national-digital-development-strategy",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The strategy says the cybercrime bill drafted in 2018 was signed into law in 2021, and its actions include operationalising the institutions the law sets up (Council, NC3, NCSIRCC, Fund).",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Cybercrime law 2021",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Cybersecurity Strategy and Policy 2021-2025",
+      "country_label": "National Cybersecurity Strategy and Policy 2021-2025",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "NC3",
+      "country_label": "NC3",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "NCSIRCC",
+      "country_label": "NCSIRCC",
+      "class": "other",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "No use of the law is stated; a training gap for prosecutors and judges is noted."
+}

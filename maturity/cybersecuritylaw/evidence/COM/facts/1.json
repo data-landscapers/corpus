@@ -1,0 +1,16 @@
+{
+  "slug": "2021-03-04-com-anaden-avancees-code-numerique",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force",
+     "fact": "ANADEN states that the Comoros President promulgated by decree on 16 February 2021 the new Penal Code (loi n°20-38/AU of 29 December 2020), whose articles 449 to 505 set out cybercrime offences, online intellectual property infringement and service-provider liability.",
+     "as_of": "2021-02-16", "date_precision": "day", "system": "Loi n°20-38/AU portant Code Pénal (cybercrime articles 449-505)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill",
+     "fact": "ANADEN lists a specific cybersecurity law as drafted (élaboré) but not yet adopted, to follow the Penal Code and join a digital code targeted for 2024; no date is given beyond the document's publication date of 2021-03-04.",
+     "as_of": "2021-03-04", "date_precision": "day", "system": "Legislation spécifique sur la cyber-sécurité (draft)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Loi n°20-38/AU portant Code Pénal", "country_label": "Code Pénal, cybercrime provisions articles 449-505", "class": "law", "platform": "", "owner": "Ministry of Justice", "tiers": ""},
+    {"system": "Legislation spécifique sur la cyber-sécurité", "country_label": "Cybersecurity law (draft, 2021)", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

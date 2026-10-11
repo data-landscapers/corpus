@@ -1,0 +1,11 @@
+{
+  "slug": "2020-01-20-joradp-decret-20-05-dispositif-national-securite-systemes-information",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Presidential decree 20-05 of 20 January 2020 cites Law 09-04 of 5 August 2009, on rules for preventing and fighting offences linked to information and communication technologies, among the laws it rests on, treating it as standing law (document published 2020-01-20; the decree gives no date of entry into force for the law).", "as_of": "2020-01-20", "date_precision": "day", "system": "Loi n° 09-04 du 5 août 2009 portant règles particulières relatives à la prévention et à la lutte contre les infractions liées aux technologies de l'information et de la communication", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Conseil national de la sécurité des systèmes d'information", "country_label": "Conseil national de la sécurité des systèmes d'information", "class": "other", "platform": "", "owner": "Ministry of National Defence", "tiers": "national"},
+    {"system": "Agence de la sécurité des systèmes d'information", "country_label": "Agence de la sécurité des systèmes d'information", "class": "other", "platform": "", "owner": "Ministry of National Defence", "tiers": "national"}
+  ],
+  "note": "The decree creates a national security apparatus (council and agency) and an officer duty, not a cybercrime law; only the cited Law 09-04 gives a fact."
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2023-03-31-lesotho-cmm-review-2022",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The Oxford GCSCC/C3SA capacity review of 31 March 2023 refers to the Computer Crime and Cyber Security Bill of May 2022, which has provisions for a National Cybersecurity Advisory Council and a national CSIRT; it does not say the bill had become law.", "as_of": "2022-05", "date_precision": "month", "system": "Computer Crime and Cyber Security Bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Computer Crime and Cyber Security Bill (May 2022)", "country_label": "Computer Crime and Cyber Security Bill", "class": "law", "platform": "", "owner": "Government of Lesotho (MICSTI)", "tiers": ""},
+    {"system": "National Cybersecurity Advisory Council", "country_label": "National Cybersecurity Advisory Council (NCSC)", "class": "other", "platform": "", "owner": "proposed under the bill", "tiers": ""},
+    {"system": "National CSIRT", "country_label": "national CSIRT", "class": "other", "platform": "", "owner": "proposed under the bill; none existed at the review", "tiers": ""}
+  ],
+  "note": ""
+}

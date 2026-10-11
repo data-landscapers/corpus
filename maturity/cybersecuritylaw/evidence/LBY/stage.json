@@ -1,0 +1,16 @@
+{
+ "iso3": "LBY",
+ "cells": [
+  {
+   "sub_indicator": "law",
+   "stage": "2",
+   "standing": "bill",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "LBY-001",
+   "gaps": "No source held says a cybercrime or cybersecurity law is in force.",
+   "note": "Counted from the four questions by study-ladder-cybersecuritylaw.py."
+  }
+ ]
+}

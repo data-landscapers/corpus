@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-13-ghana-orc-fined-cybersecurity-breach",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Cyber Security Authority sanctioned bodies under Section 92 of the Cybersecurity Act, 2020 (Act 1038), which the article treats as the law in force; the document gives no other date, so as_of is its published date.", "as_of": "2026-08-13", "date_precision": "day", "system": "Cybersecurity Act, 2020 (Act 1038)", "class": "law"},
+    {"sub_indicator": "law", "aspect": "use", "value": "used", "fact": "The Cyber Security Authority fined the Office of the Registrar of Companies GH¢240,000 (10,000 penalty units for each of two instances of non-compliance, under Section 92(2) of Act 1038) and fined Purpleline Solutions Limited GH¢120,000 for providing cybersecurity services without a licence; the document gives no sanction date, so as_of is its published date.", "as_of": "2026-08-13", "date_precision": "day", "system": "Cybersecurity Act, 2020 (Act 1038)", "class": "law"}
+  ],
+  "systems": [],
+  "note": ""
+}

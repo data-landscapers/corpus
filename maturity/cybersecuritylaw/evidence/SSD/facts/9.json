@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-25-parliament-passes-cybercrime-bill-international-standards",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Radio Tamazuj reports the Transitional National Legislative Assembly unanimously passed the Cybercrime and Computer Misuse Bill 2025 on 25 November 2025, a bill first issued as a provisional order in May 2021 and tabled in September 2024; it had not yet been signed.", "as_of": "2025-11-25", "date_precision": "day", "system": "Cybercrime and Computer Misuse Bill 2025", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National cybercrime department, Ministry of Justice and Constitutional Affairs", "country_label": "national cybercrime department", "class": "other", "platform": "", "owner": "Ministry of Justice and Constitutional Affairs", "tiers": ""}
+  ],
+  "note": ""
+}

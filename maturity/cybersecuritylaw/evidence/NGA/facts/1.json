@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-01-cybercrime-act-misuse-n1-1trn",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Vanguard refers to the Cybercrimes (Prevention, Prohibition, etc.) and Amendment Act of 2024 as existing; the document gives no event date, so its published date of 2025-08-01 is used.",
+   "as_of": "2025-08-01",
+   "date_precision": "day",
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "used",
+   "fact": "Activist Olamide Thomas was arrested and charged under the Cybercrimes Act in December 2024 for allegedly insulting the President's son on Facebook; the article also reports police arrests of other critics, used against critics and social media users.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "country_label": "Cybercrimes (Prohibition, Prevention, etc.) Act, amended 2024",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-30-new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article lists the 2015 Cybercrimes Act among Nigeria's enacted digital laws and says all three countries reviewed have cybersecurity laws.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act",
+   "country_label": "Cybercrimes (Prohibition, Prevention, etc.) Act, amended 2024",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

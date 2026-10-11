@@ -1,0 +1,34 @@
+{
+ "slug": "2026-07-28-clubofmozambique-muchanga-digital-infrastructure-strategic",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Communications minister Muchanga said the government has approved the Cybersecurity Law and the Cybercrime Law and that implementation is mandatory for companies operating critical infrastructure.",
+   "as_of": "2026-07-28",
+   "date_precision": "day",
+   "system": "Cybersecurity Law and Cybercrime Law",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cybersecurity Law",
+   "country_label": "Cybersecurity Law",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  },
+  {
+   "system": "Cybercrime Law",
+   "country_label": "Cybercrime Law",
+   "class": "law",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Transformation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

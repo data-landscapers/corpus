@@ -1,0 +1,23 @@
+{
+ "slug": "2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Autorité Nationale de Cybersécurité",
+   "country_label": "ANC",
+   "class": "other",
+   "platform": "",
+   "owner": "Presidency of the Republic",
+   "tiers": ""
+  },
+  {
+   "system": "DJ-CERT",
+   "country_label": "DJ-CERT",
+   "class": "other",
+   "platform": "",
+   "owner": "ANC",
+   "tiers": ""
+  }
+ ],
+ "note": "Law creates a cybersecurity agency; not a cybercrime or cybersecurity offences law."
+}

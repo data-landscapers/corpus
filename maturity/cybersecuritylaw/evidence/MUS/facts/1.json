@@ -1,0 +1,10 @@
+{
+  "slug": "2026-10-08-mus-mitci-meta-online-abuse",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry of Technology, Communication and Innovation, at a working session with Meta in Ebene on 7 October 2026, discussed proposed amendments to the existing Cybersecurity and Cybercrime Act 2021, which it treats as the operating legal framework for online content.", "as_of": "2026-10-07", "date_precision": "day", "system": "Cybersecurity and Cybercrime Act 2021", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Cybersecurity and Cybercrime Act 2021", "country_label": "Cybersecurity and Cybercrime Act 2021", "class": "law", "platform": "", "owner": "Ministry of Technology, Communication and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

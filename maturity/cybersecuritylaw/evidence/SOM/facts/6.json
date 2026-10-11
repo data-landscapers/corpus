@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-01-somalia-cybersecurity-certification-program",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The document states that parliament approved the Cybersecurity Law in January 2026, and does not say it has been promulgated or is in force.", "as_of": "2026-01", "date_precision": "month", "system": "Cybersecurity Law", "class": "law"},
+    {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "The document states that in August 2025 Somalia passed a cybercrime bill, and does not say it is in force.", "as_of": "2025-08", "date_precision": "month", "system": "Cybercrime bill", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Somalia Computer Incident Response Team (SOMCIRT)", "country_label": "SOMCIRT", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}
