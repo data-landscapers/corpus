@@ -32,7 +32,7 @@ status: CC's proposal, prepared 2026-10-11; awaiting Bill's rulings (D1); nothin
 
 | Class | What it is | Treatment |
 |---|---|---|
-| `general` | **A law whose subject is the protection of personal data and which binds controllers in both the public and the private sector**: an act, loi, ordinance, proclamation or decree-law, or a bill for one | Assessed |
+| `general` | **A law that sets the country's rules for protecting personal data, standalone or part of a larger law**, or a bill for one | Assessed |
 | `sectoral` | Data protection provisions inside a law on another subject: telecommunications, banking, health, identity, electronic transactions, cybercrime, consumer protection | Noted, not assessed; flagged |
 | `constitutional` | A constitutional right to privacy or habeas data | Noted, not assessed |
 | `regulation` | A regulation, decree, order or guideline. Made under a general law, it is read for aspect 3; made with no general law behind it, it is noted and not assessed | Read for aspect 3 |
@@ -42,7 +42,7 @@ status: CC's proposal, prepared 2026-10-11; awaiting Bill's rulings (D1); nothin
 | `adjacent` | A law on cybercrime, access to information, electronic transactions or artificial intelligence, with no general data protection regime in it | Out of scope: its own row |
 | `regional` | A model law or act of a regional community or the African Union | Out of scope |
 
-**The test: does it set rules for the processing of personal data that bind public bodies and private controllers alike?** Read from a source describing whom it covers. **A book of a digital code, or a law joined to another subject, is `general` where it passes**; the title is the country's.
+**The test: does the country have a law setting data protection rules?** Its title, and what else the law covers, do not matter.
 
 **One instrument, one name**, in `instruments.csv`, with the year enacted and what replaced it. **A cell is staged on the law in force; a bill to replace it is the flag *under revision*.**
 
@@ -89,7 +89,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Malabo 
 ## 6. What the review reads and the search asks for
 
 - **Subjects and term list**: in `study.json`.
-- **Read by rung** (method §4): the law's own text is opened only where no source says whom it covers, or for a code whose book on personal data is in doubt.
+- **The review starts from the August assessment** *(Bill, 2026-10-11)*: this row's and the authority row's cells, with the sources they cite, are carried into `evidence.csv` before a drafter runs. **A drafter reads only for a cell the carried facts leave short of a rung test**, and a search is briefed only for those cells. The law's own text is not opened.
 - **Authority facts found on the way** go into `systems.csv` as class `authority`, for that row's study.
 - **Source types for the briefs**, ranked: dated news and the authority's own notices of a sanction, order or decision; the authority's annual report; the gazette notice of promulgation, commencement or a regulation; a court judgment under the law; the trackers (Data Protection Africa, UNCTAD, Law Lab Africa) for standing and for a dated absence; the law's own text.
 
@@ -105,7 +105,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Malabo 
 
 **The proposals for D1**:
 
-1. The subject is the general law; a book of a digital code counts where it binds public and private controllers.
+1. The subject is the law that sets data protection rules, standalone or part of a larger law.
 2. Enactment is stage 3 and no higher; stage 4 is a dated decision under the law, stage 5 a published year's figures.
 3. Application is staged on this row, whoever applies it; the authority row is not redrawn and waits for its own study.
 4. Without a constituted authority, stage 4 or 5 is capped at 3.
