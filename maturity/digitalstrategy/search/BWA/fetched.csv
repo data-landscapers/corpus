@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://smartbots.gov.bw/home,unfetchable,SSLError; no usable Wayback capture | second pass: second client: SSLError; certificate unverified: thin or empty; Wayback: no usable capture,,0,,
+2,https://www.npc.gov.bw/sites/default/files/SONA%202020.pdf,fetched,,scripts/.workroot/study/digitalstrategy/cache/BWA/2.txt,19489,pdf,
+3,https://dailynews.gov.bw/news-detail/62172,fetched,,scripts/.workroot/study/digitalstrategy/cache/BWA/3.txt,404,html,Search Here
+4,https://dailynews.gov.bw/news-detail/81395,fetched,,scripts/.workroot/study/digitalstrategy/cache/BWA/4.txt,667,html,Search Here
+5,https://dailynews.gov.bw/news-detail/75753,fetched,,scripts/.workroot/study/digitalstrategy/cache/BWA/5.txt,533,html,Search Here
+6,https://smartbots.gov.bw/node/77,fetched,"second pass, by certificate unverified",scripts/.workroot/study/digitalstrategy/cache/BWA/6.txt,190,html,Public Sector Transformation

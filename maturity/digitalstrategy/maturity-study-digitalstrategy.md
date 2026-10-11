@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-digitalstrategy.md — the seventh maturity study and the first of an instrument: the national digital transformation strategy
 last_reviewed: 2026-10-11
-status: CC's proposal, run on Bill's word of 2026-10-11; reviewed and the ladder tested; search under way
+status: CC's proposal, run on Bill's word of 2026-10-11; step 3 closed; awaiting OSINT's ingest under note 226
 ---
 
 # Maturity study: digitalstrategy — the national strategy
@@ -110,7 +110,7 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Digital
 - [x] **D1. Bill's rulings**: the seven proposals stand, 2026-10-11.
 - [x] **D2. Review all 54 countries**, method §4: 3,433 documents, 89 slices, 143 read twice; 725 facts.
 - [x] **D3. Test and fix the ladder**: 289 corrections.
-- [ ] **D4. Search and hand over**, method §5.
+- [x] **D4. Search and hand over**, method §5: 54 searches, 67 documents for 34 countries, `notes-for-osint` 226.
 - [ ] **D5. Re-read and stage**, method §7. **D6. Write, render and lint.**
 - [ ] **D7. Report to Bill.**
 

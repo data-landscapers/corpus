@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "standing;text;period",
+ "fact": "The Ministry's 'Document de Politique et de Stratégies Nationales de Développement des TIC de la République de Guinée' covers 2016-2020, with a development plan to the 2020 horizon, and its text is public.",
+ "title": "Document de Politique et de Stratégies Nationales de Développement des Technologies de l'Information et de la Communication de la République de Guinée 2016-2020",
+ "publisher": "Ministère des Postes, des Télécommunications et de l'Economie Numérique",
+ "published": "2016-07-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

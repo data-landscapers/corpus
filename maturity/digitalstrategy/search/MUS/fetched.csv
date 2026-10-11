@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,http://nao.govmu.org/nao/wp-content/uploads/AnnualAuditReport/2023-24/AuditReportMauritius%202324.pdf,fetched,,scripts/.workroot/study/digitalstrategy/cache/MUS/1.txt,174196,pdf,
+2,https://mof.govmu.org/Documents/Budget2025_26/2025_26_MITCI.pdf,held,held as raw/2025/2025-06-05-mus-estimates-2025-26-mitci-companion.md,,0,,
+3,https://mof.govmu.org/Documents/budget_2025_2026/2025_26_annexBudget_final.pdf,held,held as raw/2025/2025-06-05-mus-annex-budget-speech-2025-26-companion.md,,0,,
+4,https://prb2026.govmu.org/downloads/volume1/digital.pdf,held,held as raw/2026/2026-01-01-prb-report-2026-digitalisation-ai-readiness.md,,0,,
+5,https://mitci.govmu.org/mitci/digital-transformation-first-meeting-of-inter-ministerial-committee/,fetched,,scripts/.workroot/study/digitalstrategy/cache/MUS/5.txt,676,html,"Ministry of Information Technology, Communication and Innovation"

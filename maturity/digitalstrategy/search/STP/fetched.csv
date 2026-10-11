@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://inic.gov.st/docs/DRn60_2021_Resolu35-2020CM_Aprova%20Estrategia%20de%20GovernaDigitaleCGD.pdf,held,held as raw/2021/2021-08-09-sao-tome-resolucao-35-2020-estrategia-governacao-digital.md,,0,,
+2,https://inic.gov.st/docs/EstrGovDigital-STP-Jan2020.pdf,held,held as raw/2020/2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital.md,,0,,
+3,https://inic.gov.st/estrategia_planos.php,fetched,second pass: second client: HTTP 500; certificate unverified: HTTP 500; Wayback: no usable capture,scripts/.workroot/study/digitalstrategy/cache/STP/3.txt,64,html,Estratégias & Planos
+4,https://inic.gov.st/regulamentacao.php,fetched,"second pass, by Wayback",scripts/.workroot/study/digitalstrategy/cache/STP/4.txt,110,html,Regulamentações
+5,https://unu.edu/egov/project/national-strategy-digital-governance-sao-tome-and-principe,held,held as raw/2024/2024-01-01 National Strategy for Digital Governance in São Tomé and Príncipe.md,,0,,
+6,https://www.ictpolicyafrica.org/es/document/kmupcpfyzlm,fetched,second pass: second client: thin or empty; certificate unverified: thin or empty; Wayback: no usable capture,scripts/.workroot/study/digitalstrategy/cache/STP/6.txt,47,html,ESTRATÉGIA NACIONALPARA A GOVERNAÇÃO DIGITALEM SÃO TOMÉ E PRÍNCIPE • Page 1
+7,https://cyrilla.org/api/files/15986325179969enln92pq2g.pdf,fetched,,scripts/.workroot/study/digitalstrategy/cache/STP/7.txt,8806,pdf,

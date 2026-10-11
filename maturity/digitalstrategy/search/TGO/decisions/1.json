@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "national",
+ "aspect": "",
+ "fact": "",
+ "title": "Décision d'annulation",
+ "publisher": "Ministère de l'Efficacité du Service Public et de la Transformation Numérique",
+ "published": "2025-10-03",
+ "date_source": "proxy",
+ "why_not": "Fetched page is only site navigation; no text of the decision."
+}
