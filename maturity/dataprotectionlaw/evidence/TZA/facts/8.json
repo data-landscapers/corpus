@@ -1,0 +1,12 @@
+{
+  "slug": "2023-06-13-personal-data-protection-act-2022",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Personal Data Protection Act, 2022 (Act No. 11 of 2022, Chapter 44) is stated as commencing on 1 May 2023 under GN 326 of 2023, published in English as GN 395B on 13 June 2023, and applies to Mainland Tanzania and, for union matters, Zanzibar.", "as_of": "2023-05-01", "date_precision": "day", "system": "Personal Data Protection Act, 2022", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Section 6 of the Act establishes the Personal Data Protection Commission as a body corporate, with a seven-member Board appointed by the President and the Minister (s.8) and a Director General (s.11); the Act itself records no appointments.", "as_of": "2023-05-01", "date_precision": "day", "system": "Personal Data Protection Commission", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Act, 2022", "country_label": "Personal Data Protection Act, Chapter 44", "class": "general", "platform": "", "owner": "Government of Tanzania", "tiers": "Mainland Tanzania; Zanzibar for union matters"},
+    {"system": "Personal Data Protection Commission", "country_label": "Personal Data Protection Commission", "class": "authority", "platform": "", "owner": "Government of Tanzania", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-11-04-wearetech-morocco-landmark-law-ai-data-identity",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article calls Law 09-08 Morocco's existing personal data law, with which the draft Digital X.0 law is aligned; no event date is given, so the published date 2025-11-04 is used.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Law 09-08",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The article reports a draft framework law 'Digital X.0' on AI, data governance, digital identity and interoperability, under review by the General Secretariat of the Government and presented by the Minister Delegate for Digital Transition; it sets principles for data flow and protection (a bill within a larger law); date is the published date.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Digital X.0 draft framework law",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

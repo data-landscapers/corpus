@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-27-ugd-rapport-annuel-confidentialite-protection-donnees",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Unité de Gouvernance Digitale announcement says the Commission Malagasy de l'Informatique et des Libertés (CMIL) is now effectively in place after years in which no fully operational authority existed despite the legal framework; the announcement is dated 2026-03-27 and gives no event date.", "as_of": "2026-03-27", "date_precision": "day", "system": "Loi n° 2014-038 sur la protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2014-038 sur la protection des données à caractère personnel", "country_label": "Loi n° 2014-038", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)", "country_label": "CMIL", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

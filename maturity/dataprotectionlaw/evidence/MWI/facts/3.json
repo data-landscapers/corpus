@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-14-macra-data-protection-registration-fees-consultation-itweb",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ITWeb Africa reports the consultation was part of MACRA's mandate as Malawi's Data Protection Authority, and names Dan Chiwoni as head of data protection at the DPA.", "as_of": "2026-07-14", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ITWeb Africa describes the consultation as another step in MACRA's implementation of Malawi's Data Protection Act, treating the Act as the law being implemented.", "as_of": "2026-07-14", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "MACRA consulted stakeholders at the Mount Soche Hotel in Blantyre on Monday 13 July 2026 on draft data protection regulations with annual registration fees for significant controllers and processors (about $29 to over $4,000 by turnover), before finalising them.", "as_of": "2026-07-13", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Authority", "country_label": "Data Protection Authority (DPA)", "class": "authority", "platform": "", "owner": "Malawi Communications Regulatory Authority (MACRA)", "tiers": "national"}
+  ],
+  "note": ""
+}

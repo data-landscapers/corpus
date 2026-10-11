@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01 São Tomé and Príncipe - Digital Regulations in the Metaverse Era (Data)",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The IBA chapter states that the existing data protection framework applies in São Tomé and Príncipe, naming the Personal Data Guarantee and Protection Law (Law 03/2016) as the primary instrument, with scope over processing by controllers headquartered or established in the country; the chapter is undated and its published year 2024 is used.", "as_of": "2024", "date_precision": "year", "system": "Personal Data Guarantee and Protection Law (Law 03/2016)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "none", "fact": "The IBA chapter describes the fines and criminal sanctions the law provides and says the ANPDP imposes fines and ancillary measures, but names no sanction, decision or count under the law; the chapter is undated and its published year 2024 is used.", "as_of": "2024", "date_precision": "year", "system": "Personal Data Guarantee and Protection Law (Law 03/2016)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Agência Nacional de Protecção de Dados Pessoais (ANPDP)", "country_label": "Data Protection Agency", "class": "authority", "platform": "", "owner": "State", "tiers": "national"}
+  ],
+  "note": ""
+}

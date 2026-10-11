@@ -1,0 +1,20 @@
+{
+  "slug": "2025-06-06-570-institutions-data-controller-licences",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "activity",
+     "fact": "TechnoMag reports POTRAZ handed over the country's first Data Controller Licences to 570 companies, valid 12 months across four tiers, with over 500 data protection officers trained, and no sanction reported.",
+     "as_of": "2025-06-06", "date_precision": "day", "system": "Cyber and Data Protection Act (CDPA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued",
+     "fact": "TechnoMag reports the licences were issued under Section 4 of the Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024.",
+     "as_of": "2025-06-06", "date_precision": "day", "system": "Cyber and Data Protection Act (CDPA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted",
+     "fact": "TechnoMag reports POTRAZ, with its Director General, issued the licences and runs the data protection training programme, acting as the regulator under the data protection regime.",
+     "as_of": "2025-06-06", "date_precision": "day", "system": "Cyber and Data Protection Act (CDPA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Cyber and Data Protection Act (CDPA)", "country_label": "Cyber and Data Protection Act", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "POTRAZ", "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe", "class": "authority", "platform": "", "owner": "POTRAZ", "tiers": ""},
+    {"system": "Data Controller Licence", "country_label": "Data Controller Licence", "class": "regulation", "platform": "", "owner": "POTRAZ", "tiers": "Tier 1 to Tier 4 by scope and scale of processing; 570 licensees including banks, telecoms, universities, fintechs"}
+  ],
+  "note": ""
+}

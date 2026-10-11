@@ -1,0 +1,10 @@
+{
+  "slug": "2025-03-19-cnpd-dialogo-governanca-dados-regulacao-ia-expressodasilhas",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The CNPD, headed by president Faustino Varela, held an international conference on personal data protection in the AI era for its 10th anniversary, with the Prime Minister opening it.", "as_of": "2025-03-19", "date_precision": "day", "system": "Regime Jurídico Geral de Protecção de Dados", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Comissão Nacional de Protecção de Dados (CNPD)", "country_label": "CNPD", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

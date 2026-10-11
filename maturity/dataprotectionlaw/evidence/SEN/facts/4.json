@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-17-benin-senegal-apdp-cdp-convention",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The president of the CDP, Ousmane Thiongane, signed a partnership convention with Benin's APDP in Cotonou, reported 17 April 2026.", "as_of": "2026-04", "date_precision": "month", "system": "Commission de Protection des Données Personnelles (CDP)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Commission de Protection des Données Personnelles (CDP)", "country_label": "CDP Sénégal", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Authority fact only; the cooperation convention states nothing on the law's standing, regulations or application."
+}

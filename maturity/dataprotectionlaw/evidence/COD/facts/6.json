@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-17-drc-launches-data-protection-officers-network-techafricanews",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "TechAfrica News reports that the government introduced its personal data legal framework in 2023 through Ordinance-Law No. 23/010, the Digital Code, which sets out lawful processing, transparency, data minimisation and system security, and treats it as the framework within which DPOs ensure compliance; the report gives no date for the statement, so the published date of 2026-03-17 is used.", "as_of": "2026-03-17", "date_precision": "day", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "The report says the DPO network forms part of the national data governance effort 'aligned with ... plans to establish a dedicated Data Protection Authority', so the authority is planned and not yet established; no date is given for the statement, so the published date of 2026-03-17 is used.", "as_of": "2026-03-17", "date_precision": "day", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Ministry of Digital Economy launched a national Data Protection Officers (DPO) network in Kinshasa to build professional capacity and promote best practice in personal data protection, with Minister Augustin Kibassa Maliba presiding; no sanction or decision is reported; the report gives no event date, so the published date of 2026-03-17 is used.", "as_of": "2026-03-17", "date_precision": "day", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The launch of the national DPO network in March 2026 is reported as a step in strengthening data governance ahead of a planned Data Protection Authority; the published date of 2026-03-17 is used.", "as_of": "2026-03-17", "date_precision": "day", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Code du numérique (Ordonnance-loi n° 23/010)", "country_label": "Digital Code", "class": "general", "platform": "", "owner": "Ministère de l'Économie Numérique", "tiers": ""},
+    {"system": "Data Protection Authority (planned)", "country_label": "Autorité nationale de protection des données", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

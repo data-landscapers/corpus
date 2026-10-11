@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "Tech Hive Advisory says Egypt's Personal Data Protection Centre published guidelines (consent, lawful bases, direct marketing, DPO, ROPA, licences and permits, privacy notice) and breach-notification templates to aid compliance with the law and executive regulations; no sanction is reported (date is January-February 2026, the period covered).", "as_of": "2026", "date_precision": "year", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "Tech Hive Advisory lists new PDPC guidelines in Egypt among regulatory developments of January and February 2026.", "as_of": "2026", "date_precision": "year", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Center (PDPC)", "country_label": "Personal Data Protection Centre", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

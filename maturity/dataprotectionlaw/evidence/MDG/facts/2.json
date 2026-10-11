@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-06-cmil-operationalisation",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Midi Madagasikara reports the CMIL is operational after the Council of Ministers validated the decree naming its members and they were sworn in, supported by the OIF since 2021; the article is dated 2025-08-06 and gives no day for the events.", "as_of": "2025-08", "date_precision": "month", "system": "Loi n° 2014-038 sur la protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)", "country_label": "CMIL", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

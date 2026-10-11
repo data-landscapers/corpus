@@ -1,0 +1,11 @@
+{
+  "slug": "2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "Minister Boukar Michel announced on 2025-12-09 that authorities are finalizing a new digital law incorporating international standards on cybersecurity, data protection and internet governance.", "as_of": "2025-12-09", "date_precision": "day", "system": "Digital law (Digital Code)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Digital law (Digital Code)", "country_label": "Code du Numérique", "class": "general", "platform": "", "owner": "Ministry of Telecommunications, Digital Economy and Administration Digitalization", "tiers": ""},
+    {"system": "Law of 2014 on electronic communications and postal services, amended by ordinance approved by the National Assembly on 2025-10-22", "country_label": "Loi 013/PR/2014", "class": "adjacent", "platform": "", "owner": "National Assembly", "tiers": ""}
+  ],
+  "note": ""
+}

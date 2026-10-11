@@ -1,0 +1,44 @@
+{
+ "slug": "2026-07-29-togofirst-data-protection-forum-lome",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Togo First states the government has adopted specific data protection legislation, with no law number or date given; as_of is the publication date, 2026-07-29.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Togo First states the country has established the IPDCP to ensure compliance with data protection rules; as_of is the publication date, 2026-07-29.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "country_label": "Loi n°2019-014 du 29 octobre 2019",
+   "class": "general",
+   "platform": "",
+   "owner": "Parliament of Togo",
+   "tiers": ""
+  },
+  {
+   "system": "IPDCP",
+   "country_label": "Instance de protection des données à caractère personnel",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

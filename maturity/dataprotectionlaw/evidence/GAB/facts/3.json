@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-20-gabon-apdpvp-procurement-data-destruction",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "GabonReview reports the APDPVP acting on 20 January 2026 'in accordance with the regulation in force on personal data protection', its rapporteur calling the operation a strict application of the law.", "as_of": "2026-01-20", "date_precision": "day", "system": "Loi relative à la protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "On 20 January 2026 the APDPVP took part, through its rapporteur Steeve Singault Ndinga, in an operation it supervised.", "as_of": "2026-01-20", "date_precision": "day", "system": "Autorité pour la protection des données personnelles et de la vie privée (APDPVP)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "On 20 January 2026 the APDPVP supervised the destruction by the Direction générale des Marchés publics of the personal data in the physical files of unsuccessful 2022 bidders, kept for the statutory two to three years; the report states no sanction or decision.", "as_of": "2026-01-20", "date_precision": "day", "system": "Loi relative à la protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

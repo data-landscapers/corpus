@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-17-itweb-co-za-inforeg-ai-regulatory-complexities",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ITWeb reports that POPIA came into force on 1 July 2021 after a year-long grace period for organisations to comply.", "as_of": "2021-07-01", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "ITWeb reports that the Information Regulator was established on 1 December 2016 to monitor and enforce compliance with POPIA and PAIA, and that its chairperson Pansy Tlakula and executives were speaking for it in September 2026.", "as_of": "2016-12-01", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The chairperson says the Regulator has moved from establishing the framework to exercising statutory enforcement powers, including receiving complaints, conducting assessments and issuing enforcement notices; no figures or named decisions are given (document published 2026-09-17, no event date).", "as_of": "2026-09", "date_precision": "month", "system": "Protection of Personal Information Act (POPIA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Protection of Personal Information Act (POPIA)", "country_label": "POPIA", "class": "general", "platform": "", "owner": "Information Regulator (enforcer)", "tiers": ""},
+    {"system": "Information Regulator", "country_label": "InfoReg", "class": "authority", "platform": "", "owner": "Information Regulator", "tiers": ""},
+    {"system": "Promotion of Access to Information Act (PAIA)", "country_label": "PAIA", "class": "adjacent", "platform": "", "owner": "Information Regulator (enforcer)", "tiers": ""},
+    {"system": "Consumer Protection Act opt-out registry", "country_label": "opt-out registry", "class": "sectoral", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

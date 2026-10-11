@@ -1,0 +1,12 @@
+{
+  "slug": "2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "On 17 June 2026 APD executive administrator Amaro Figueiredo said the Lei de Protecção de Dados is under revision, the public consultation is complete and the bill is expected to go to the Council of Ministers and then the National Assembly in the next legislative year.", "as_of": "2026-06-17", "date_precision": "day", "system": "Lei de Protecção de Dados (revision)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The APD's executive administrator, Amaro Figueiredo, spoke for the authority on 17 June 2026 at a workshop it organised.", "as_of": "2026-06-17", "date_precision": "day", "system": "Agência de Protecção de Dados", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The public consultation on the revised data protection law was concluded by 17 June 2026, with submission to the Council of Ministers and the National Assembly expected in the next legislative year.", "as_of": "2026-06-17", "date_precision": "day", "system": "Lei de Protecção de Dados (revision)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Agência de Protecção de Dados", "country_label": "APD", "class": "authority", "platform": "", "owner": "Angola", "tiers": "national"}
+  ],
+  "note": ""
+}

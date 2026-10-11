@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+ERI,general,authority,qualifier,none,2026-08-01,ERI-002;ERI-006,,
+ERI,general,standing,coverage,none,2026-08-01,ERI-001;ERI-005;ERI-007,,
+ERI,general,regulations,coverage,,,,,nothing held
+ERI,general,application,coverage,none,2026-08-01,ERI-003,,
+ERI,general,last12,qualifier,no-change,2026-08-01,ERI-004,,

@@ -1,0 +1,17 @@
+{
+  "slug": "2026-03-06-popia-regulations-processing-health-information-2026",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued",
+     "fact": "Regulations relating to the Processing of Data Subjects' Health Information by Certain Responsible Parties, 2026, made under section 112(2)(c) of POPIA, were published in Government Gazette 54268 on 6 March 2026 and commence on publication.",
+     "as_of": "2026-03-06", "date_precision": "day", "system": "Protection of Personal Information Act, 2013 (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted",
+     "fact": "The regulations were made and signed on 27 February 2026 by Adv Pansy Tlakula as Chairperson of the Information Regulator.",
+     "as_of": "2026-02-27", "date_precision": "day", "system": "Protection of Personal Information Act, 2013 (POPIA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Protection of Personal Information Act, 2013 (POPIA)", "country_label": "POPIA", "class": "general", "platform": "", "owner": "Information Regulator", "tiers": ""},
+    {"system": "Regulations relating to the Processing of Data Subjects' Health Information by Certain Responsible Parties, 2026", "country_label": "POPIA health information regulations", "class": "regulation", "platform": "", "owner": "Information Regulator", "tiers": ""},
+    {"system": "Information Regulator of South Africa", "country_label": "Information Regulator", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

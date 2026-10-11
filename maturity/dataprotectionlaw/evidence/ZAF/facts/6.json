@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-16-paia-enforcement-mining-house-sibanye",
+  "facts": [],
+  "systems": [
+    {"system": "Promotion of Access to Information Act, 2000 (PAIA)", "country_label": "PAIA", "class": "adjacent", "platform": "", "owner": "Information Regulator (enforcement division)", "tiers": ""},
+    {"system": "Information Regulator of South Africa", "country_label": "Information Regulator", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document concerns an enforcement notice under PAIA (access to information), not POPIA; it states nothing on the data protection law."
+}

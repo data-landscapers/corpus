@@ -1,0 +1,52 @@
+{
+ "slug": "2026-08-14-zimbabwe-data-protection-regulations-review-critique",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Act, enacted in 2021, designated POTRAZ as the country's Data Protection Authority, per Techzim opinion author Dr Marlon-Ralph Nyakabau; POTRAZ is announcing inspections from 1 September 2026.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024) introduced mandatory licensing fees for data controllers and required many organisations to appoint data protection officers, per the Techzim opinion piece; it argues they need review.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "Statutory Instrument 155 of 2024",
+   "country_label": "Statutory Instrument 155 of 2024",
+   "class": "regulation",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "POTRAZ",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

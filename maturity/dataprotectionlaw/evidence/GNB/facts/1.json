@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-23-cedeao-court-justice-digital-rights-framework-aip",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "none", "fact": "A professor at the Bissau Faculty of Law, speaking at an ECOWAS Court conference in Dakar on 22 September 2026, said Guinea-Bissau does not yet have specific data protection legislation.", "as_of": "2026-09-22", "date_precision": "day", "system": "General data protection law", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "The same speaker said Guinea-Bissau has no dedicated national data protection authority, these matters being handled by several institutions sector by sector.", "as_of": "2026-09-22", "date_precision": "day", "system": "General data protection law", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The speaker said a bill provides for creating a 'Data Protection Agency', with independence risks in its membership and in leaving its organisation to a decree; the article gives no stage for the bill.", "as_of": "2026-09-22", "date_precision": "day", "system": "Data protection bill (Agência de protecção de dados)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Projecto de lei de protecção de dados (Agência de protecção de dados)", "country_label": "Agência de protecção de dados", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ECOWAS Supplementary Act A/SA.1/01/10 on Personal Data Protection", "country_label": "Acte additionnel de 2010", "class": "regional", "platform": "", "owner": "ECOWAS", "tiers": ""}
+  ],
+  "note": ""
+}

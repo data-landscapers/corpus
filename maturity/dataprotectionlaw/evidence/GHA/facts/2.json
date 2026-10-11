@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-21-ghana-news-data-protection-commission-acquires-vehicles-boost",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Ghana News Agency describes the Data Protection Commission as established under, and enforcing, the Data Protection Act, 2012 (Act 843), which the Commission declared its '2026 Year of Enforcement' basis.", "as_of": "2026-08-21", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Commission is acting under Act 843 with Executive Director Dr Arnold Kavaarpuo, and received two pickup vehicles bought from its internally generated funds on 2026-08-20; it operates only from its head office.", "as_of": "2026-08-20", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Commission says all institutions processing personal information must register, that enforcement actions have begun and been combined with public education, and that it has declared 2026 the 'Year of Enforcement'; no named sanction or count is given.", "as_of": "2026-08-21", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The Commission took delivery of two enforcement vehicles on 2026-08-20 and plans regional offices in the Eastern, Ashanti, Northern, Western and Bono regions by the end of 2026.", "as_of": "2026-08-20", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Commission", "country_label": "Data Protection Commission (DPC)", "class": "authority", "platform": "", "owner": "Data Protection Commission, Ghana", "tiers": "national head office; regional offices planned in five regions by end 2026"}
+  ],
+  "note": ""
+}

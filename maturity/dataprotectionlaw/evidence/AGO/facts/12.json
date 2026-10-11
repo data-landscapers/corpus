@@ -1,0 +1,62 @@
+{
+ "slug": "2026-04-21-tdr-consultoria-lei-organica-da-agencia-de-proteccao-de-dados",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The terms of reference treat Lei n.º 22/11 as the current legal framework to be mapped, and say the APD was formally instituted by that law; no commencement date is given, so as_of is the document's version date of 21 April 2026.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "Lei n.º 22/11 on Personal Data Protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The terms of reference state the APD was formally instituted by Lei n.º 22/11 with its organisation and functioning defined by Decreto Presidencial n.º 214/16, and refer to its current organic statute; as_of is the document's version date of 21 April 2026.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados (APD)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "On 21 April 2026 the Instituto de Modernização Administrativa, under the World Bank-financed PADA project, issued terms of reference to procure a 12-week drafting of a new organic law for the APD, citing a revision of the data protection law that changes the APD's legal nature; expressions of interest were due 15 June 2026.",
+   "as_of": "2026-04-21",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados (APD)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei n.º 22/11 on Personal Data Protection",
+   "country_label": "Lei de Protecção de Dados Pessoais (LPDP)",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Agência de Protecção de Dados (APD)",
+   "country_label": "Agência de Protecção de Dados",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Decreto Presidencial n.º 214/16",
+   "country_label": "Estatuto Orgânico da APD",
+   "class": "regulation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

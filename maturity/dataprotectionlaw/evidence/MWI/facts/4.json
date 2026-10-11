@@ -1,0 +1,11 @@
+{
+  "slug": "2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "TechAfrica News reports that MACRA is working to establish the Data Protection Authority and the Malawi CERT as independent institutions, and that both currently operate under the regulator.", "as_of": "2026-03-26", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The World Bank, at a meeting in Blantyre, announced renewed technical assistance and capacity building to MACRA for data protection systems and legal and regulatory frameworks, alongside MACRA's effort to make the Data Protection Authority independent.", "as_of": "2026-03-26", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Authority", "country_label": "Data Protection Authority (DPA)", "class": "authority", "platform": "", "owner": "Malawi Communications Regulatory Authority (MACRA)", "tiers": "national"}
+  ],
+  "note": ""
+}

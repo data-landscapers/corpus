@@ -1,0 +1,12 @@
+{
+  "slug": "2025-06-27-bfa-cil-validation-rapport-public-2024-journees-nationales",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The CIL held its 6th ordinary plenary session of the year on 26 June 2025 in Ouagadougou, with its commissioners and technical directors, chaired by its president.", "as_of": "2025-06-26", "date_precision": "day", "system": "Loi n°001-2021/AN du 30 mars 2021", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "At that session the CIL validated its public report for 2024, described as covering outreach on law n°001-2021/AN, compliance controls, and the handling of complaints and authorisation requests, with no counts given.", "as_of": "2025-06-26", "date_precision": "day", "system": "Loi n°001-2021/AN du 30 mars 2021", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n°001-2021/AN du 30 mars 2021", "country_label": "", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Commission de l'Informatique et des Libertés (CIL)", "country_label": "CIL", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

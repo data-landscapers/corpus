@@ -1,0 +1,44 @@
+{
+ "slug": "2026-01-08-somalia-approves-public-data-protection-regulation",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "An extraordinary Council of Ministers meeting approved by majority vote the Regulatory Framework for the Public Data Protection Law, drafted by the Ministry of Communications and Technology; no commencement is stated and the meeting date is not given (date is the article's published date).",
+   "as_of": "2026-01-08",
+   "date_precision": "day",
+   "system": "Regulatory Framework for the Public Data Protection Law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The Council of Ministers approved the implementing regulation for the Public Data Protection Law, reported on 8 January 2026.",
+   "as_of": "2026-01-08",
+   "date_precision": "day",
+   "system": "Regulatory Framework for the Public Data Protection Law",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Data Protection Law",
+   "country_label": "Public Data Protection Law",
+   "class": "general",
+   "platform": "",
+   "owner": "Federal Government of Somalia",
+   "tiers": ""
+  },
+  {
+   "system": "Regulatory Framework for the Public Data Protection Law",
+   "country_label": "Regulatory Framework for the Public Data Protection Law",
+   "class": "regulation",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology (drafter); Council of Ministers (approver)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

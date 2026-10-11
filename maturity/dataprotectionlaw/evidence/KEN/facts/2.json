@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-25-ken-citizendigital-ai-conference-data-sovereignty-smartafrica",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "Citizen Digital reports the ODPC's Deputy Data Commissioner for Compliance said a recent memorandum of understanding between the Central Bank of Kenya and the ODPC requires digital lenders to hold an ODPC compliance certificate before receiving CBK licensing; the article gives no date for the MOU and is dated by its published date.", "as_of": "2026-09-25", "date_precision": "day", "system": "Data Protection Act, 2019", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Office of the Data Protection Commissioner", "country_label": "ODPC", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-04-16-wearetech-benin-mali-data-protection-cooperation",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "We Are Tech Africa, citing Africa Cybersecurity Magazine, says Mali is among 37 of 54 African countries with national personal data protection laws; it says enforcement remains a hurdle in several countries (published 2025-04-16, no event date given).",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Benin's APDP said on 15 April 2025 that it signed a cooperation agreement with its Malian counterpart, covering best-practice exchange and joint handling of complaints and compliance checks.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APDP)",
+   "country_label": "APDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Mali (independent administrative authority)",
+   "tiers": "national; regional antenna at Ségou"
+  }
+ ],
+ "note": ""
+}

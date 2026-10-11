@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-26-civ-artci-autorite-de-protection-creation-missions",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ARTCI",
+   "country_label": "Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire",
+   "class": "authority",
+   "platform": "",
+   "owner": "ARTCI (independent administrative authority, created by ordonnance 2012-293 of 21 March 2012)",
+   "tiers": "national"
+  }
+ ],
+ "note": "Undated ARTCI page names data protection among ARTCI missions but names no law; the authority is a systems entry, not a general-law fact."
+}

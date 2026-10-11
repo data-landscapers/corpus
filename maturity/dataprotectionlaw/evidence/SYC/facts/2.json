@@ -1,0 +1,46 @@
+{
+ "slug": "2026-02-06-infocom-seychelles-data-protection-page",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Information Commission's page states data protection in Seychelles is governed by the Data Protection Act, 2023, which came into effect following its passage in December 2023, replacing the earlier Act.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Information Commission states it is the statutory body implementing, monitoring and enforcing the Data Protection Act, 2023, with powers to investigate, audit, issue enforcement notices and impose fines, and names a contact for data protection enquiries.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Commission states it provides education and outreach on data protection rights; the page reports no decision, sanction or count under the Act.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2023",
+   "country_label": "Data Protection Act, 2023",
+   "class": "general",
+   "platform": "",
+   "owner": "National Assembly of Seychelles (enacting); Information Commission (oversight)",
+   "tiers": "all organisations and public bodies"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "2016-07-22-guinea-ecuatorial-ley-1-2016-proteccion-datos-personales",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force",
+     "fact": "Ley Núm. 1/2016 of 22 July 2016, sanctioned and promulgated by the President, sets rules for personal data processing in the public and private sectors and enters into force twenty days after its publication in the Boletín Oficial del Estado (date taken from the law's own date, 22 July 2016).",
+     "as_of": "2016-07-22", "date_precision": "day",
+     "system": "Ley Núm. 1/2016, de Protección de Datos Personales", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided",
+     "fact": "Articles 15 and 29 name the Órgano Rector de Protección de Datos Personales as the supervisory body, with a Secretaría Técnica and a Registro General under it, but state that it is to be created by a decree that will fix its structure.",
+     "as_of": "2016-07-22", "date_precision": "day",
+     "system": "Órgano Rector de Protección de Datos Personales", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Ley Núm. 1/2016, de Protección de Datos Personales", "country_label": "Ley de Protección de Datos Personales", "class": "general", "platform": "", "owner": "Government of Equatorial Guinea; sanctioning power with the Minister of Telecommunications and New Technologies", "tiers": "public and private sector files and processing"},
+    {"system": "Órgano Rector de Protección de Datos Personales", "country_label": "Órgano Rector de Protección de Datos Personales", "class": "authority", "platform": "", "owner": "to be created by decree; staffed by officials of the General State Administration; funded from the General State Budget", "tiers": "national"}
+  ],
+  "note": ""
+}

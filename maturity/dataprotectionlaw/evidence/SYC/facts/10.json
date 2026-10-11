@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-13-nationalassembly-infocom-annual-report-2025",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The National Assembly of Seychelles lists the Information Commission Seychelles' Annual Report 2025 as published on 13 April 2026, showing the Commission as an existing body acting; the page gives no content of the report.", "as_of": "2026-04-13", "date_precision": "day", "system": "Information Commission Seychelles", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Information Commission Seychelles", "country_label": "Information Commission Seychelles", "class": "authority", "platform": "", "owner": "Information Commission Seychelles", "tiers": ""}
+  ],
+  "note": ""
+}

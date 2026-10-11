@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-01-dgsn-digital-space-data-protection-elmoudjahid",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The article reports a study day on compliance with law n° 18-07, modified and completed by law n° 25-11; the article's date is an estimated month (mid-July 2026, published field 2026-07).", "as_of": "2026-07", "date_precision": "month", "system": "Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The article names Samir Bourehil as president of the ANPDP, present at the study day with the Justice and Interior ministers.", "as_of": "2026-07", "date_precision": "month", "system": "Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The article reports a study day at the national police college on the law's requirements for security work, and announces a unified guidance guide for administrative, security and judicial procedures; it reports no decision.", "as_of": "2026-07", "date_precision": "month", "system": "Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 18-07 du 10 juin 2018 (as amended by loi n° 25-11)", "country_label": "loi n° 18-07 modifiée et complétée par la loi n° 25-11", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ANPDP", "country_label": "Autorité nationale de protection des données à caractère personnel", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

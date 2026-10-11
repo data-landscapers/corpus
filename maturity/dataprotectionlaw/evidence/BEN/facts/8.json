@@ -1,0 +1,9 @@
+{
+  "slug": "2018-04-20-loi-2017-20-code-du-numerique",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "Law No. 2017-20, the Digital Code, adopted by the National Assembly on 13 June 2017 and promulgated by the President on 20 April 2018, sets the rules for personal data protection in its Book V; the passages seen state no commencement date.", "as_of": "2018-04-20", "date_precision": "day", "system": "Loi n° 2017-20 portant Code du numérique", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Book V of the Digital Code (Articles 462 to 473) establishes the Autorité de Protection des Données Personnelles (APDP) as an independent administrative authority of eleven members with five-year terms; the passages seen do not say whether members were appointed.", "as_of": "2018-04-20", "date_precision": "day", "system": "Loi n° 2017-20 portant Code du numérique", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

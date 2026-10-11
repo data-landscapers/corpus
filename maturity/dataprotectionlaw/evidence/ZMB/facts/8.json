@@ -1,0 +1,10 @@
+{
+  "slug": "2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The World Bank's project appraisal document refers to the Government's Data Protection Act of 2021 as the standard the Department of National Registration's personal-data procedures are aligned with; no date is given for the statement, so the published date of 2024-09-05 is used.", "as_of": "2024-09-05", "date_precision": "day", "system": "Data Protection Act 2021", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act 2021", "country_label": "Data Protection Act of 2021", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

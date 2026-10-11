@@ -1,0 +1,13 @@
+{
+  "slug": "2026-01-27-deputy-minister-data-protection-collaboration-myjoy",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Deputy Minister urged institutions to uphold the principles of the Data Protection Act at the launch of Data Protection Week 2026, and the Commission said the law provides fines and imprisonment for non-compliance.", "as_of": "2026-01-26", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, is acting, with government pledging policy backing and institutional cooperation.", "as_of": "2026-01-26", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Commission reported that in 2025 it ran its largest awareness campaign (an estimated 25 million people reached), expanded data controller registrations, conducted compliance audits across several sectors and trained more than 800 data protection professionals; no decision or sanction is named.", "as_of": "2025", "date_precision": "year", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The Commission announced that it would embark on rigorous enforcement of the Act in 2026, following the 2025 campaign, audits and registrations.", "as_of": "2026-01-26", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Commission", "country_label": "Data Protection Commission (DPC)", "class": "authority", "platform": "", "owner": "Data Protection Commission, Ghana", "tiers": "national"}
+  ],
+  "note": ""
+}

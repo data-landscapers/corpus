@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-30-rdc-chaine-responsabilite-visible-cybersecurite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Autorité de protection des données",
+   "country_label": "Autorité de protection des données",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Names the Autorite de protection des donnees as an actor in a cybersecurity responsibility chain; states nothing on whether it is constituted, nor on the law."
+}

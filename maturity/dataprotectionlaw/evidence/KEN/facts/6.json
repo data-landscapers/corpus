@@ -1,0 +1,44 @@
+{
+  "slug": "2026-07-22-odpc-quality-standards",
+  "facts": [
+    {
+      "sub_indicator": "general",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The Standard reports that the ODPC, established under the Data Protection Act, 2019, is the regulator overseeing compliance with Kenya's data protection law (document gives no event date; published 2026-07-22).",
+      "as_of": "2026-07-22",
+      "date_precision": "day",
+      "system": "Data Protection Act, 2019",
+      "class": "general"
+    },
+    {
+      "sub_indicator": "general",
+      "aspect": "authority",
+      "value": "constituted",
+      "fact": "The Standard reports that Data Commissioner Immaculate Kassait led the ODPC's launch of an ISO 9001:2015 quality management system on 14 July 2026, showing the office constituted and acting.",
+      "as_of": "2026-07-14",
+      "date_precision": "day",
+      "system": "Data Protection Act, 2019",
+      "class": "general"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Protection Act, 2019",
+      "country_label": "Data Protection Act, 2019",
+      "class": "general",
+      "platform": "",
+      "owner": "Parliament of Kenya",
+      "tiers": "national"
+    },
+    {
+      "system": "Office of the Data Protection Commissioner (ODPC)",
+      "country_label": "ODPC",
+      "class": "authority",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

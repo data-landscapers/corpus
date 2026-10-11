@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "At the All My.T Summit, ICT Minister Ramtohul highlighted forthcoming amendments to the Data Protection Act to enhance cybersecurity, protect privacy and reinforce online safety, particularly for children.", "as_of": "2026-07-16", "date_precision": "day", "system": "Data Protection Act", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act", "country_label": "Data Protection Act", "class": "general", "platform": "", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": ""}
+  ],
+  "note": ""
+}

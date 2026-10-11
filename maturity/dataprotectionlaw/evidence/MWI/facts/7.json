@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-17-dpa-guideline-checklist-compliance",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The guideline states that the Malawi Communications Regulatory Authority is the designated Data Protection Authority under the Data Protection Act (No. 3 of 2024), responsible for overseeing the Act, and it issues the guideline in that role.", "as_of": "2025-10-17", "date_precision": "day", "system": "Data Protection Act (No. 3 of 2024)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "transition", "fact": "The guideline states the Act applies at once to non-Malawi controllers and to Malawi controllers of significant importance (over 10,000 data subjects), who must register and pay fees, while other Malawi controllers and processors are exempt under section 53 until 2 June 2026 and must comply from 3 June 2026.", "as_of": "2025-10-17", "date_precision": "day", "system": "Data Protection Act (No. 3 of 2024)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Authority published a compliance guideline and checklist covering the Act's duties, data subject rights, breach notice and cross-border transfers, and a registration requirement for controllers of significant importance; no decision or sanction is reported.", "as_of": "2025-10-17", "date_precision": "day", "system": "Data Protection Act (No. 3 of 2024)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The Authority issued a compliance guideline and checklist for the Act, dated 17 October 2025.", "as_of": "2025-10-17", "date_precision": "day", "system": "Data Protection Act (No. 3 of 2024)", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

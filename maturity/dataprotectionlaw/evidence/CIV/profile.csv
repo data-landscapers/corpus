@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+CIV,general,authority,qualifier,,,,,nothing held
+CIV,general,standing,coverage,in-force,2026-05-18,CIV-003,,
+CIV,general,regulations,coverage,,,,,nothing held
+CIV,general,application,coverage,activity,2026-07-02,CIV-001;CIV-004;CIV-005,,
+CIV,general,last12,qualifier,advancing,2026,CIV-002;CIV-006,,

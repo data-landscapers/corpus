@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-27-aps-donnees-personnelles-legislation-moderniser",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "An expert told APS on 27 March 2026 that law 2008-12 of 25 January 2008 is the current Senegalese data protection law, now outdated for generative AI, and that Senegal is late in updating it.", "as_of": "2026-03-27", "date_precision": "day", "system": "Loi n° 2008-12 du 25 janvier 2008", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The same expert said a bill was reportedly already in the circuit and that the National Assembly must vote it; no stage of the bill is given.", "as_of": "2026-03-27", "date_precision": "day", "system": "Loi n° 2008-12 du 25 janvier 2008", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2008-12 du 25 janvier 2008", "country_label": "loi 2008-12 sur les données à caractère personnel", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Commission de protection des données personnelles (CDP)", "country_label": "CDP", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

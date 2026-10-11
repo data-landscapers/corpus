@@ -1,0 +1,12 @@
+{
+  "slug": "2011-06-17-angola-lei-22-11-proteccao-de-dados-pessoais",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Lei n.º 22/11 (Lei da Protecção de Dados Pessoais), promulgated 8 June 2011 and published in Diário da República I Série n.º 114 on 17 June 2011, states in art. 67 that it enters into force on the date of its publication.", "as_of": "2011-06-17", "date_precision": "day", "system": "Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Lei n.º 22/11 arts. 44-45 create the Agência de Protecção de Dados as a public-law body with administrative and financial autonomy and seven members (three named by the President, three elected by the National Assembly, one judge), its organisation to be set by executive decree; the law itself does not constitute it.", "as_of": "2011-06-17", "date_precision": "day", "system": "Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais", "country_label": "Lei da Protecção de Dados Pessoais", "class": "general", "platform": "", "owner": "Assembleia Nacional", "tiers": "public, private and cooperative sectors"},
+    {"system": "Agência de Protecção de Dados", "country_label": "APD", "class": "authority", "platform": "", "owner": "public-law body created by Lei n.º 22/11", "tiers": ""}
+  ],
+  "note": "Law text only: no regulations issued or absent, and no application, is stated (art. 65 required regulation within 120 days; whether done is not stated)."
+}

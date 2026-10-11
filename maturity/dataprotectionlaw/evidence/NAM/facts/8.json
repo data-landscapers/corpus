@@ -1,0 +1,12 @@
+{
+  "slug": "2020-01-01-namibia-draft-data-protection-bill-2020-version",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The document is an undated 26-page draft Data Protection Bill from the Ministry of Information and Communication Technology, identified from IPPR's description as the 2020 version (year inferred, with February 2020 given by IPPR as the stakeholder engagement); it carries no bill number or gazette front matter and its copy ends mid-Part, before any commencement or repeal provision.", "as_of": "2020", "date_precision": "year", "system": "Draft Data Protection Bill (2020 version)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Section 25 of the 2020 draft establishes the Data Protection Supervisory Authority of Namibia, with Part VII running to section 37; as a draft, no body is stated as constituted.", "as_of": "2020", "date_precision": "year", "system": "Draft Data Protection Bill (2020 version)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Draft Data Protection Bill (2020 version)", "country_label": "Data Protection Bill", "class": "general", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""},
+    {"system": "Data Protection Supervisory Authority of Namibia", "country_label": "Data Protection Supervisory Authority", "class": "authority", "platform": "", "owner": "proposed under the draft bill", "tiers": ""}
+  ],
+  "note": ""
+}

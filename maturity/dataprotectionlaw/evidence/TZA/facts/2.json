@@ -1,0 +1,56 @@
+{
+ "slug": "2026-08-28-thecitizen-tanzania-pdpc-compliance-inspections-august-31",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Citizen reports on 28 August 2026 that the PDPC will inspect compliance with the Personal Data Protection Act, Cap 44, from 31 August 2026.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "PDPC Director General Dr Emmanuel Mkilia announced the move to on-site inspections in Dodoma on 28 August 2026, after preliminary desk assessments.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The PDPC found in preliminary assessments limited understanding of obligations, inaccurate registration data and unlawful data transfers abroad, and listed rectification directives, warning letters and fines as remedies; no sanction is named.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The PDPC moved from desk assessment to on-site compliance inspections from 31 August 2026.",
+   "as_of": "2026-08-28",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Commission (PDPC)",
+   "country_label": "Tume ya Ulinzi wa Taarifa Binafsi",
+   "class": "authority",
+   "platform": "",
+   "owner": "Director General Dr Emmanuel Mkilia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

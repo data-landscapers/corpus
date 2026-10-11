@@ -1,0 +1,9 @@
+{
+  "slug": "2004-07-27-tunisie-loi-organique-2004-63-protection-donnees-transfert",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Organic law no. 2004-63 of 27 July 2004 on the protection of personal data was promulgated, setting the general processing, consent and rights regime; the document's capture note of 3 September 2026 calls it the operative statute with no replacement adopted.", "as_of": "2026-09-03", "date_precision": "day", "system": "Loi organique n° 2004-63 du 27 juillet 2004, portant sur la protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The law names and defines the national authority for personal data protection (the Instance, INPDP) and gives it the powers to receive declarations and to authorise processing and transfers; the document does not state that it has been constituted.", "as_of": "2004-07-27", "date_precision": "day", "system": "Loi organique n° 2004-63 du 27 juillet 2004, portant sur la protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

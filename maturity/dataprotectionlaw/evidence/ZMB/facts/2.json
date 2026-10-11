@@ -1,0 +1,13 @@
+{
+  "slug": "2026-08-10-zambia-dzap-data-protection-guidelines-consultancy",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "A tender notice dated 10 August 2026 seeks consultants to support the Data Protection Commission in developing regulatory instruments for the effective implementation of the Data Protection Act No. 3 of 2021, treating the Act as the law being implemented.", "as_of": "2026-08-10", "date_precision": "day", "system": "Data Protection Act No. 3 of 2021", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The same tender names the Data Protection Commission as the body it will support in reviewing and developing regulatory instruments, treating it as an existing body.", "as_of": "2026-08-10", "date_precision": "day", "system": "Data Protection Commission of Zambia", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "A World Bank-financed tender opened 10 August 2026 (expressions of interest due 21 August 2026, three-month assignment) to review and develop national data protection guidelines and compliance frameworks under the Act.", "as_of": "2026-08-10", "date_precision": "day", "system": "Data Protection Act No. 3 of 2021", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act No. 3 of 2021", "country_label": "Data Protection Act No. 3 of 2021", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Data Protection Commission of Zambia", "country_label": "Data Protection Commission (DPC)", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

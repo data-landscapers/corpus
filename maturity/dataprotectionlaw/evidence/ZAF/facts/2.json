@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-02-itweb-co-za-popia-grace-period-fines",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The Information Regulator imposed its first fine, R5 million, on the Department of Justice and Constitutional Development for breaching POPIA, according to ITWeb quoting the Regulator.", "as_of": "2023-07", "date_precision": "month", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The Regulator also fined the Department of Basic Education R5 million, and the Electoral Commission and Lancet Laboratories R100,000 each, both paid; the document gives no dates for these (published 2026-09-02).", "as_of": "2026-09", "date_precision": "month", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The Regulator fined Blouberg Local Municipality R500,000; the municipality did not pay, the Regulator went to court to confirm it, and the court reduced it to R250,000 as too high for a first offence; the document gives no date (published 2026-09-02).", "as_of": "2026-09", "date_precision": "month", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "A R100,000 fine on FT Rams Consulting for direct marketing is being processed under section 109 of POPIA, per the Regulator's executive for POPIA (document published 2026-09-02).", "as_of": "2026-09", "date_precision": "month", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ITWeb reports that the Regulator's enforcement powers came into force on 1 July 2021 after a year-long compliance grace period, and that POPIA provides fines up to R10 million and up to 10 years' imprisonment.", "as_of": "2021-07-01", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Protection of Personal Information Act (POPIA)", "country_label": "POPIA", "class": "general", "platform": "", "owner": "Information Regulator (enforcer)", "tiers": ""},
+    {"system": "Information Regulator", "country_label": "InfoReg", "class": "authority", "platform": "", "owner": "Information Regulator", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,72 @@
+{
+ "slug": "2026-08-17-postonsunday-potraz-september-data-protection-compliance-deadline",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "POTRAZ states it is the designated Data Protection Authority under section 5 of the Act and is acting as such, having trained data protection officers and engaged organisations for over two years.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024) came into effect in September 2024, requiring a Data Controller Licence with an initial compliance deadline of 12 March 2025, per POTRAZ.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "POTRAZ Regulatory Notice 2 of 2026, signed by its director-general, announces mandatory compliance inspections and assessments of data controllers from 1 September 2026, risk-based and starting with financial, insurance, local authority, health and mining sectors; no sanction is reported. Notice date not given, so the published date is used.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "POTRAZ moved from awareness and training to announcing mandatory compliance inspections from 1 September 2026 under the Act; notice date not given, so the published date is used.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "Statutory Instrument 155 of 2024",
+   "country_label": "Statutory Instrument 155 of 2024",
+   "class": "regulation",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "POTRAZ",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

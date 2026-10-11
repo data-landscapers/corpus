@@ -1,0 +1,16 @@
+{
+  "slug": "2022-03-11-zimbabwe-cyber-and-data-protection-act-chapter-12-07",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted",
+     "fact": "The gazetted text of the Cyber and Data Protection Act [Chapter 12:07] (Act No. 5 of 2021), a law setting data protection rules for controllers and processors, was published in the Government Gazette on 11 March 2022; the text states no commencement date, so enactment is the date recorded.",
+     "as_of": "2022-03-11", "date_precision": "day", "system": "Cyber and Data Protection Act [Chapter 12:07]", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided",
+     "fact": "Section 5 of the Act designates the existing Postal and Telecommunications Regulatory Authority (POTRAZ) as the Data Protection Authority and section 6 sets its functions; the text records no appointment or action by it.",
+     "as_of": "2022-03-11", "date_precision": "day", "system": "Cyber and Data Protection Act [Chapter 12:07]", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Cyber and Data Protection Act [Chapter 12:07]", "country_label": "Cyber and Data Protection Act (No. 5 of 2021)", "class": "general", "platform": "", "owner": "Government of Zimbabwe; Minister responsible for ICT", "tiers": "national"},
+    {"system": "Postal and Telecommunications Regulatory Authority (POTRAZ)", "country_label": "Data Protection Authority", "class": "authority", "platform": "", "owner": "POTRAZ, established under the Postal and Telecommunications Act [Chapter 12:05]", "tiers": "national"}
+  ],
+  "note": "Regulations: section 32 only empowers the Minister to make regulations; the text states none issued, so no regulations fact."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-15-macra-consults-stakeholders-on-proposed-data-protection-registration-fees",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Nyasa Times reports that MACRA, acting as the country's designated Data Protection Authority, convened a stakeholder consultation on draft data protection regulations in Lilongwe, with Daniel Chiwoni as its Head of Data Protection.", "as_of": "2026-07-15", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The Data Protection Authority held a stakeholder consultation on draft data protection regulations, proposing registration fees for significant data controllers and processors of K50,000 to K7 million by annual turnover, before the regulations are finalised.", "as_of": "2026-07-15", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Authority", "country_label": "Data Protection Authority (DPA)", "class": "authority", "platform": "", "owner": "Malawi Communications Regulatory Authority (MACRA)", "tiers": "national"}
+  ],
+  "note": ""
+}

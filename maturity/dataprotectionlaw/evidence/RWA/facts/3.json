@@ -1,0 +1,64 @@
+{
+  "slug": "2026-01-26-year-of-accountability-data-controllers-newtimes",
+  "facts": [
+    {
+      "sub_indicator": "general",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "The New Times opinion piece (a legal adviser at Andersen) states that Rwanda's Data Protection Act was introduced on 15 October 2021 and that its two-year grace period ended on 15 October 2023, marking the transition to enforcement and accountability.",
+      "as_of": "2023-10-15",
+      "date_precision": "day",
+      "system": "Data Protection Act",
+      "class": "general"
+    },
+    {
+      "sub_indicator": "general",
+      "aspect": "authority",
+      "value": "constituted",
+      "fact": "The article states that the National Cyber Security Authority (NCSA) acts as the supervisory authority for personal data protection and privacy under the Data Protection Act, as Rwanda observed Data Privacy Week on 26-30 January 2026.",
+      "as_of": "2026-01-26",
+      "date_precision": "day",
+      "system": "Data Protection Act",
+      "class": "general"
+    },
+    {
+      "sub_indicator": "general",
+      "aspect": "application",
+      "value": "activity",
+      "fact": "The article states that NCSA has registered data controllers and processors (registration certificates), trained over 100 public sector Data Protection Officers and run sector workshops for pharmacists and local government entities over the last four years; it names no sanction or decision. The article gives no date for these events, so its published date of 2026-01-26 is used.",
+      "as_of": "2026-01-26",
+      "date_precision": "day",
+      "system": "Data Protection Act",
+      "class": "general"
+    },
+    {
+      "sub_indicator": "general",
+      "aspect": "last12",
+      "value": "advancing",
+      "fact": "The article states that NCSA adopted a 2026 theme, 'Compliance is Beyond Registration', for Data Privacy Week (26-30 January 2026), moving from the 2022-2024 awareness phase to capacity building and an expectation of proof of compliance.",
+      "as_of": "2026-01-26",
+      "date_precision": "day",
+      "system": "Data Protection Act",
+      "class": "general"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Protection Act",
+      "country_label": "Data Protection Act (introduced 15 October 2021)",
+      "class": "general",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "National Cyber Security Authority (NCSA)",
+      "country_label": "National Cyber Security Authority",
+      "class": "authority",
+      "platform": "",
+      "owner": "NCSA",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

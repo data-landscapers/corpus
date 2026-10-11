@@ -1,0 +1,62 @@
+{
+ "slug": "2026-07-30-potraz-data-licence-fees-slammed-as-costly-burden-on-businesses-and-consumers",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "POTRAZ serves as Zimbabwe's Data Protection Authority under the Act and has issued Regulatory Notice 2 of 2026, per CITE.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "SI 155 of 2024 requires organisations processing personal data of 50 or more individuals to hold a POTRAZ data controller licence, with fees from US$50 to US$2,500 a year; the requirement took effect in September 2024 with a compliance deadline of 12 March 2025, per CITE.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "POTRAZ published Regulatory Notice 2 of 2026 announcing mandatory compliance inspections of data controllers from 1 September 2026; CITE says many organisations are believed not yet registered, and reports no sanction.",
+   "as_of": "2026-07-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "Statutory Instrument 155 of 2024",
+   "country_label": "Statutory Instrument 155 of 2024",
+   "class": "regulation",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "POTRAZ",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

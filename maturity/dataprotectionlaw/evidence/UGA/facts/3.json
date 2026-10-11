@@ -1,0 +1,13 @@
+{
+  "slug": "2025-12-11-vuka-africa-prosecuted-data-breach-pdpo",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The case against Vuka Africa's finance manager was brought by PDPO director Baker Birikujja, and NITA-U and the PDPO launched the six-month 'Beera Ku Guard' data protection campaign.", "as_of": "2025-12-03", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "A magistrate court heard charges under Sections 5, 35 and 36 of the Data Protection and Privacy Act, covering registration and unlawful obtaining and disclosure of personal data.", "as_of": "2025-12-03", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "On 3 December 2025 the finance manager of Vuka Africa Ltd pleaded guilty before Grade One Magistrate Geoffrey Akena to failing to register with the PDPO and was fined five currency points (sh100,000) or two months' imprisonment.", "as_of": "2025-12-03", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Beera Ku Guard campaign, run by NITA-U with the PDPO over six months to reach 70 percent of Ugandans, aims to register at least 1,000 data-controlling organisations with the PDPO by 2026; the report is dated 11 December 2025.", "as_of": "2025-12-11", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Office", "country_label": "Personal Data Protection Office (PDPO)", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

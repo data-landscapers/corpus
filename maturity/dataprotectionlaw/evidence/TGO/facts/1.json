@@ -1,0 +1,54 @@
+{
+ "slug": "2026-10-05-tgo-lenouveaureporter-ipdcp-certification-cpd-atakpame",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The IPDCP opened its first evaluation and certification session for data protection correspondents (CPD) in Atakpamé on 30 September 2026, with 32 professionals, under law n°2019-014.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The IPDCP is acting: it ran the first CPD certification session in Atakpamé on 30 September 2026.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The IPDCP launched CPD certification on 30 September 2026, following a June 2026 training of designated correspondents.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "country_label": "Loi n°2019-014 du 29 octobre 2019",
+   "class": "general",
+   "platform": "",
+   "owner": "Parliament of Togo",
+   "tiers": ""
+  },
+  {
+   "system": "IPDCP",
+   "country_label": "Instance de protection des données à caractère personnel",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

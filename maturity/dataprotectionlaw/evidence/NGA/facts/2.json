@@ -1,0 +1,15 @@
+{
+  "slug": "2026-09-16-nga-digitalbusiness-etat-reprend-ndpc-recettes-9-millions",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Digital Business Africa reports the NDPC headed by National Commissioner Vincent Olatunji, who said it generated over N12 billion (about $9 million) in revenue over three years, and that its new Abuja headquarters was inaugurated on 14 September 2026.", "as_of": "2026-09-14", "date_precision": "day", "system": "Nigeria Data Protection Act 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The article states President Tinubu signed the Nigeria Data Protection Act on 12 June 2023, converting the Nigeria Data Protection Bureau into the NDPC, which is mandated to supervise implementation of the Act.", "as_of": "2023-06-12", "date_precision": "day", "system": "Nigeria Data Protection Act 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The minister inaugurated the NDPC's new Abuja headquarters, a building recovered by the EFCC, on 14 September 2026.", "as_of": "2026-09-14", "date_precision": "day", "system": "Nigeria Data Protection Act 2023", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Nigeria Data Protection Act 2023", "country_label": "Nigeria Data Protection Act 2023", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Nigeria Data Protection Commission", "country_label": "NDPC", "class": "authority", "platform": "", "owner": "National Commissioner Vincent Olatunji", "tiers": ""},
+    {"system": "Nigeria Data Protection Bureau", "country_label": "NDPB", "class": "authority", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Nigeria Data Protection Regulation", "country_label": "NDPR", "class": "regulation", "platform": "", "owner": "NITDA", "tiers": ""}
+  ],
+  "note": ""
+}

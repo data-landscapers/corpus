@@ -1,0 +1,14 @@
+{
+  "slug": "2026-03-16-rdc-reseau-responsables-protection-des-donnees-wearetech",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "We Are Tech Africa reports that the DPO network comes three years after adoption of ordonnance-loi n°23/010 on the Digital Code, which sets the principles of lawful, transparent and secure processing of personal data and under which DPOs operate; the report gives no separate date for the statement, so the published date of 2026-03-16 is used.", "as_of": "2026-03-16", "date_precision": "day", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "The Minister of Digital Economy says the DPO network precedes the 'création prochaine' of a national Data Protection Authority, so the authority is not yet created; the published date of 2026-03-16 is used.", "as_of": "2026-03-16", "date_precision": "day", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "On Thursday 12 March 2026 in Kinshasa the Ministry of Digital Economy launched the national network of data protection officers, to standardise personal data practice and support compliance in the public and private sectors, backed by RUDI International and Droit-Numérique.cd; no sanction or decision is reported.", "as_of": "2026-03-12", "date_precision": "day", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The national DPO network was launched on 12 March 2026 ahead of the announced creation of the Data Protection Authority.", "as_of": "2026-03-12", "date_precision": "day", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Code du numérique (Ordonnance-loi n° 23/010)", "country_label": "Code du numérique", "class": "general", "platform": "", "owner": "Ministère de l'Économie Numérique", "tiers": ""},
+    {"system": "Autorité nationale de protection des données (planned)", "country_label": "Autorité nationale de protection des données", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

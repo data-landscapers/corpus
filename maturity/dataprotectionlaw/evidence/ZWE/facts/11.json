@@ -1,0 +1,17 @@
+{
+  "slug": "2025-06-09-potraz-2025-26-enforcement-actions",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "activity",
+     "fact": "TechnoMag reports POTRAZ's Director General set out a 2025/26 enforcement roadmap under the Cyber and Data Protection Act: education, support and corrective warnings with deadlines in 2025, and fines and possible criminal charges from 2026, with no sanction yet reported.",
+     "as_of": "2025-06-09", "date_precision": "day", "system": "Cyber and Data Protection Act (CDPA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted",
+     "fact": "TechnoMag reports POTRAZ, led by its Director General, is acting as the enforcing regulator under the CDPA, handing over data controller licences and planning inspections triggered by complaints and unlicensed processing.",
+     "as_of": "2025-06-09", "date_precision": "day", "system": "Cyber and Data Protection Act (CDPA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Cyber and Data Protection Act (CDPA)", "country_label": "Cyber and Data Protection Act", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "POTRAZ", "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe", "class": "authority", "platform": "", "owner": "POTRAZ", "tiers": ""},
+    {"system": "Data Controller Licence", "country_label": "Data Controller Licence", "class": "regulation", "platform": "", "owner": "POTRAZ", "tiers": "data controllers processing personal data, banking, healthcare and telecoms named as high-risk sectors"}
+  ],
+  "note": ""
+}

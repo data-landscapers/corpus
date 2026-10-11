@@ -1,0 +1,10 @@
+{
+  "slug": "2025-11-16-egypt-data-sovereignty-pdpc-cairo-ict-ahram",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Al-Ahram Gate reports that the Personal Data Protection Center (PDPC) was run by an acting chief executive, Soussan El-Okbawy, who chaired a Cairo ICT session on 16 November 2025 and called Law No. 151 of 2020 the foundation for regulating personal data protection.", "as_of": "2025-11-16", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Center (PDPC)", "country_label": "مركز حماية البيانات الشخصية", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

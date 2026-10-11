@@ -1,0 +1,10 @@
+{
+  "slug": "2016-05-10-sao-tome-lei-03-2016-proteccao-dados-pessoais",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "Lei n.º 03/2016 on the protection of personal data of natural persons was published in Diário da República n.º 39 of 10 May 2016; the captured text, which stops inside Article 45, gives no commencement date.", "as_of": "2016-05-10", "date_precision": "day", "system": "Lei n.º 03/2016 — Protecção de Dados Pessoais", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Agência Nacional de Protecção de Dados Pessoais (ANPDP)", "country_label": "Agência Nacional de Protecção de Dados Pessoais", "class": "authority", "platform": "", "owner": "State", "tiers": "national"}
+  ],
+  "note": ""
+}

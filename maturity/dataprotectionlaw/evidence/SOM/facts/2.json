@@ -1,0 +1,54 @@
+{
+ "slug": "2026-02-06 Somalia adopts data regulatory framework",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ITWeb reports the Regulatory Framework implements the existing Public Data Protection Law (date is the article's published date).",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Public Data Protection Law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "ITWeb reports Somalia approved the Regulatory Framework for the Public Data Protection Law after the Ministry of Communications and Technology said it had cleared constitutional, legal and technical procedures; no commencement date is stated (date is the article's published date).",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Regulatory Framework for the Public Data Protection Law",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The Regulatory Framework for the Public Data Protection Law was reported approved as of 6 February 2026.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "Regulatory Framework for the Public Data Protection Law",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Data Protection Law",
+   "country_label": "Public Data Protection Law",
+   "class": "general",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology",
+   "tiers": ""
+  },
+  {
+   "system": "Regulatory Framework for the Public Data Protection Law",
+   "country_label": "Regulatory Framework for the Public Data Protection Law",
+   "class": "regulation",
+   "platform": "",
+   "owner": "Ministry of Communications and Technology (drafter); Council of Ministers (approver)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

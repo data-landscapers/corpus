@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-16 Data Protection Laws of Senegal (reference summary)",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "A reference summary states that Law No. 2008-12 on the protection of personal data was enacted on 25 January 2008 and has been in force since 2014.", "as_of": "2014", "date_precision": "year", "system": "Loi n° 2008-12 du 25 janvier 2008", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The summary states the law established the CDP, noted for an informative website and regular activity reports; no date is given beyond the law, so the published date 2026-07-16 is used.", "as_of": "2026-07", "date_precision": "month", "system": "Loi n° 2008-12 du 25 janvier 2008", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2008-12 du 25 janvier 2008", "country_label": "Law No. 2008-12 on the protection of personal data", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Commission de Protection des Données Personnelles (CDP)", "country_label": "CDP", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-28-infocom-data-protection-day-2026",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Information Commission's Data Protection Day statement describes the Data Protection Act 2023 as the legal framework giving people rights over their personal data, recently introduced.",
+   "as_of": "2026-01-28",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Information Commission states it is the national body responsible for making sure the Act's rules are followed, providing guidance and awareness and able to step in where rights are not respected; it advertises a Senior Data Protection Analyst post.",
+   "as_of": "2026-01-28",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The Commission marked Data Protection Day 2026 with awareness and guidance messaging to organisations and the public; no decision or count under the Act is given.",
+   "as_of": "2026-01-28",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Act, 2023",
+   "country_label": "Data Protection Act, 2023",
+   "class": "general",
+   "platform": "",
+   "owner": "National Assembly of Seychelles (enacting); Information Commission (oversight)",
+   "tiers": "all organisations and public bodies"
+  }
+ ],
+ "note": ""
+}

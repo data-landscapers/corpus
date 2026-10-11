@@ -1,0 +1,13 @@
+{
+  "slug": "2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The CDP, with the communications and digital ministry, held a two-day workshop at Saly to update and finalise the draft law on personal data protection and its implementing decree; the article carries no date, so the published date 2026-07-20 (ingest proxy) is used.", "as_of": "2026-07", "date_precision": "month", "system": "Loi n° 2008-12 du 25 janvier 2008", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The CDP relaunched the process of updating the data protection law, with the ministry committed to finalising the draft law and decree; the workshop date is unstated, so the published date 2026-07-20 is used.", "as_of": "2026-07", "date_precision": "month", "system": "Loi n° 2008-12 du 25 janvier 2008", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Ousmane Thiongane, president of the CDP, opened the workshop, and the CDP has been pursuing reform of the data protection texts since 2019 under its power in article 16 of law 2008-12 to propose improvements; the published date 2026-07-20 is used.", "as_of": "2026-07", "date_precision": "month", "system": "Loi n° 2008-12 du 25 janvier 2008", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2008-12 du 25 janvier 2008", "country_label": "loi portant sur la protection des données à caractère personnel", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Commission des données personnelles (CDP)", "country_label": "CDP", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

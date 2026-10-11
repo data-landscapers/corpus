@@ -1,0 +1,52 @@
+{
+ "slug": "2016-10-10-angola-decreto-presidencial-214-16-estatuto-organico-apd",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Decreto Presidencial n.º 214/16, published 10 October 2016 and in force on publication, approves the Estatuto Orgânico of the APD and supplements the agency's duties under article 44 of Lei n.º 22/11.",
+   "as_of": "2016-10-10",
+   "date_precision": "day",
+   "system": "Decreto Presidencial n.º 214/16",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The Estatuto sets the APD up as a public-law body with legal personality and a seven-member Conselho de Administração (three named by the executive, three elected by the National Assembly, one judge), without naming any appointee.",
+   "as_of": "2016-10-10",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados (APD)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Decreto Presidencial n.º 214/16",
+   "country_label": "Estatuto Orgânico da Agência de Protecção de Dados",
+   "class": "regulation",
+   "platform": "",
+   "owner": "President of the Republic",
+   "tiers": ""
+  },
+  {
+   "system": "Agência de Protecção de Dados (APD)",
+   "country_label": "Agência de Protecção de Dados",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Lei n.º 22/11 on Personal Data Protection",
+   "country_label": "Lei da Protecção de Dados",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Read in full; the rest of the Estatuto concerns internal services, staffing and finance and adds no fact on the aspects."
+}

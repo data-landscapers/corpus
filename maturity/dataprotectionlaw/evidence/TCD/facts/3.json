@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-16-ecofin-ansice-cybersecurity-agency-reform",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "Ecofin reports (published 2026-03-16) that Chad's Digital Code, under development since December 2025, incorporates international standards on cybersecurity and data protection.", "as_of": "2025-12", "date_precision": "month", "system": "Digital Code", "class": "general"}
+  ],
+  "systems": [
+    {"system": "ANSICE (National Agency for Information Security and Electronic Certification)", "country_label": "ANSICE", "class": "authority", "platform": "", "owner": "State; reform law ratified by the Senate on 2026-03-13 broadens its mandate to personal data protection, cybersecurity, cybercrime and AI oversight", "tiers": ""},
+    {"system": "Law reforming ANSICE (ordinance ratified by the Senate 2026-03-13)", "country_label": "Reform of ANSICE", "class": "sectoral", "platform": "", "owner": "Parliament; General Secretariat of the Government", "tiers": ""},
+    {"system": "Digital Code", "country_label": "Code du Numérique", "class": "general", "platform": "", "owner": "Ministry of Telecommunications, Digital Economy and Administration Digitalization", "tiers": ""}
+  ],
+  "note": ""
+}

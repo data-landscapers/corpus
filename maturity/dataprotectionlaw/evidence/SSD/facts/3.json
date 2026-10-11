@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-11 South Sudan to get data protection bill in 2026, says minister",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "announced", "fact": "ICT Minister Ateny Wek Ateny said the government will introduce its first-ever Data Protection Bill in 2026, to be drafted jointly by the ministries of information and justice.", "as_of": "2025-12-11", "date_precision": "day", "system": "Data Protection Bill", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The minister announced on 2025-12-11 (article date; event reported as the previous Thursday) that a Data Protection Bill would be introduced in 2026.", "as_of": "2025-12-11", "date_precision": "day", "system": "Data Protection Bill", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Bill", "country_label": "Data Protection Bill", "class": "general", "platform": "", "owner": "Ministry of Information, Communication Technology and Postal Service; Ministry of Justice (drafting)", "tiers": "national"},
+    {"system": "Cybercrime and Abuse of Computer Bill 2025", "country_label": "Cybercrime and Abuse of Computer Bill 2025", "class": "adjacent", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": ""
+}

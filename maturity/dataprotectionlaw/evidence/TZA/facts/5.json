@@ -1,0 +1,56 @@
+{
+ "slug": "2026-02-12-pdpc-to-begin-data-protection-inspections-april",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Citizen reports on 12 February 2026 that the PDPC enforces the Personal Data Protection Act, Chapter 44, and links to coverage of the law coming into effect.",
+   "as_of": "2026-02-12",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "PDPC Director General Dr Emanuel Mkilia spoke in Mbeya on 11 February 2026 at the opening of a DPO seminar and announced inspections.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The PDPC announced nationwide compliance inspections from 9 April 2026 of institutions that failed to register and appoint DPOs, and said it would take legal action on violations; training seminars were under way.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The PDPC announced on 11 February 2026 a shift from awareness-raising to enforcement, with inspections from 9 April.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "Personal Data Protection Act, Cap 44",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Commission (PDPC)",
+   "country_label": "Tume ya Ulinzi wa Taarifa Binafsi",
+   "class": "authority",
+   "platform": "",
+   "owner": "Director General Dr Emmanuel Mkilia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

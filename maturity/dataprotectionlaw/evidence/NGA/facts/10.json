@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-28-ndpc-issues-fresh-registration-directive-following-court-victory",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Punch reports the NDPC, with National Commissioner and CEO Vincent Olatunji and Head of Legal, Enforcement and Regulations Babatunde Bamigboye, issued a statement on Tuesday 28 July 2026 directing unregistered Data Controllers and Processors of Major Importance to register.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "In Emmanuel Harunna v. NDPC (FHC/L/CS/1116/2024) Justice F.N. Ogazi examined sections 5(d), 6(c), 44, 45 and 65 of the Act and the NDPC cites Section 63 as prevailing over inconsistent law; the article gives no judgment date and is dated 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The court concluded the NDPC acted within its statutory powers in its Guidance Notice on Registration designating entities in the Major Data Processing - Ordinary High Level category as Data Controllers and Processors of Major Importance; no issue date is given and the article is dated 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "A Federal High Court judgment affirmed the NDPC's power to designate and register Data Controllers and Processors of Major Importance against a challenge on behalf of PoS agents; the judgment date is not given and the article is dated 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "After the judgment the NDPC issued a fresh directive on 28 July 2026 that every unregistered Data Controller and Processor of Major Importance register without delay, warning of legal consequences.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Nigeria Data Protection Act, 2023", "country_label": "Nigeria Data Protection Act", "class": "general", "platform": "", "owner": "Nigeria Data Protection Commission", "tiers": ""},
+    {"system": "NDPC Guidance Notice on Registration", "country_label": "Guidance Notice on Registration", "class": "regulation", "platform": "", "owner": "Nigeria Data Protection Commission", "tiers": ""}
+  ],
+  "note": "Sweep note in the file flags that Section 63 versus 65 for the supremacy clause is unresolved between accounts; recorded as stated here."
+}

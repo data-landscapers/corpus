@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+GHA,general,authority,qualifier,constituted,2026-10-04,GHA-002;GHA-006;GHA-010;GHA-013;GHA-017;GHA-019,,
+GHA,general,standing,coverage,in-force,2026-10-04,GHA-001;GHA-005;GHA-009;GHA-012;GHA-016;GHA-022;GHA-026,GHA-023=drafting,
+GHA,general,regulations,coverage,,,,,nothing held
+GHA,general,application,coverage,activity,2026-10-05,GHA-003;GHA-007;GHA-014;GHA-020;GHA-024,,
+GHA,general,last12,qualifier,advancing,2026-10-05,GHA-004;GHA-008;GHA-011;GHA-015;GHA-018;GHA-021;GHA-025,,

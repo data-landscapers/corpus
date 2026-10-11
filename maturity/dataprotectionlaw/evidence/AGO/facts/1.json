@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-19-sapo-angola-apd-fine-hotel-diamante",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "Angola's Agência de Protecção de Dados fined Lizíria, Lda. (owner of Hotel Diamante) the kwanza equivalent of USD 115,000 under Deliberação n.º 006/2026 of 10 August 2026 for breaching articles 30 and 31 of the Lei de Protecção de Dados Pessoais.", "as_of": "2026-08-10", "date_precision": "day", "system": "Lei de Protecção de Dados Pessoais", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The APD's Board sanctioned a controller under the Lei de Protecção de Dados Pessoais by Deliberação n.º 006/2026 of 10 August 2026, applying the law's articles 30 and 31.", "as_of": "2026-08-10", "date_precision": "day", "system": "Lei de Protecção de Dados Pessoais", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The APD's Conselho de Administração took the sanction decision of 10 August 2026, so the authority was acting.", "as_of": "2026-08-10", "date_precision": "day", "system": "Agência de Protecção de Dados", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Agência de Protecção de Dados", "country_label": "APD", "class": "authority", "platform": "", "owner": "Angola", "tiers": "national"}
+  ],
+  "note": ""
+}

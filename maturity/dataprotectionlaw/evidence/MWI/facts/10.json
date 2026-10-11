@@ -1,0 +1,9 @@
+{
+  "slug": "2024-02-02-malawi-data-protection-act-2024",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "The Data Protection Act, 2024 (Act No. 3 of 2024) was passed in Parliament on 7 December 2023, assented by the President on 31 January 2024 and published on 2 February 2024; section 1 brings it into operation on a date the Minister appoints by Gazette notice, and the document names no commencement date.", "as_of": "2024-01-31", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Section 4 designates the Malawi Communications Regulatory Authority as the Data Protection Authority, to act independently of any person's direction; the document records no appointment of members or start of operations as the authority under the Act.", "as_of": "2024-01-31", "date_precision": "day", "system": "Data Protection Act, 2024", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

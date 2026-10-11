@@ -1,0 +1,17 @@
+{
+  "slug": "2026-10-07-egypt-personal-data-protection-law-update",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "transition", "fact": "Baker McKenzie says Law No. 151 of 2020 is in a one-year compliance grace period that expires on 31 October 2026, by which date all data users must be in full compliance (date is the document's published date).", "as_of": "2026-10-07", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "Baker McKenzie says the Minister of Telecommunications and Information Technology issued Decree No. 816 of 2025 on 1 November 2025, issuing the Executive Regulations of the PDPL.", "as_of": "2025-11-01", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Baker McKenzie says the Personal Data Protection Center (PDPC) officially launched its electronic portal in early October 2026 to receive and process applications for accreditation, licences and permits.", "as_of": "2026-10", "date_precision": "month", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "Baker McKenzie says the PDPC portal also publishes guidelines and frameworks setting out its requirements for controllers and processors; no sanction or decision is reported.", "as_of": "2026-10", "date_precision": "month", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "Baker McKenzie reports the PDPC launched its licensing and permit portal in early October 2026, weeks before the compliance grace period ends.", "as_of": "2026-10", "date_precision": "month", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Law No. 151 of 2020", "country_label": "Personal Data Protection Law (PDPL)", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Executive Regulations of the PDPL (Decree No. 816 of 2025)", "country_label": "PDPL Executive Regulations", "class": "regulation", "platform": "", "owner": "Minister of Telecommunications and Information Technology", "tiers": ""},
+    {"system": "Personal Data Protection Center (PDPC)", "country_label": "Personal Data Protection Center", "class": "authority", "platform": "", "owner": "", "tiers": ""},
+    {"system": "PDPC electronic portal", "country_label": "PDPC portal", "class": "", "platform": "Digital Egypt authentication tied to national ID", "owner": "Personal Data Protection Center", "tiers": ""}
+  ],
+  "note": ""
+}

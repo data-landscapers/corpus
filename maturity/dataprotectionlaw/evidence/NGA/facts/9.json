@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-28-federal-high-court-affirms-ndpc-authority-to-register-dcpmis",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "TechTrends Africa reports the NDPC, led by National Commissioner and CEO Dr Vincent Olatunji, directed unregistered Data Controllers and Processors of Major Importance to register after winning a Federal High Court case; article dated 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Federal High Court (Justice F.N. Ogazi) examined sections 5(d), 6(c), 44, 45 and 65 of the Nigeria Data Protection Act, 2023 in Emmanuel Harunna v. NDPC (FHC/L/CS/1116/2024) and treated the Act as operative; the article gives no judgment date and is dated 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The court held the NDPC's Guidance Notice on Registration, under which it classifies entities as Data Controllers and Processors of Major Importance, was within its statutory mandate, and the notice has been in effect with an enforcement push; no issue date is given and the article is dated 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The court rejected a bid to exempt PoS agents from classification as Data Controllers or Processors of Major Importance and refused to restrain their registration; the article gives no judgment date and is dated 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The NDPC won the court ruling and ordered all unregistered entities classified as DCPMIs to register without further delay, with a warning of legal liability; reported 28 July 2026.", "as_of": "2026-07-28", "date_precision": "day", "system": "Nigeria Data Protection Act, 2023", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Nigeria Data Protection Act, 2023", "country_label": "Nigeria Data Protection Act, 2023", "class": "general", "platform": "", "owner": "Nigeria Data Protection Commission", "tiers": ""},
+    {"system": "NDPC Guidance Notice on Registration", "country_label": "Guidance Notice on Registration", "class": "regulation", "platform": "", "owner": "Nigeria Data Protection Commission", "tiers": ""}
+  ],
+  "note": ""
+}

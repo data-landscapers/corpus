@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-27-macau-to-sign-data-protection-pacts-stp-cabo-verde",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Macau executive orders published by 27 May 2026 authorised its DSPDP to sign a memorandum with the National Personal Data Protection Agency of São Tomé and Príncipe, which Lusa lists among the Lusophone network's five pre-2026 members.",
+   "as_of": "2026-05-27",
+   "date_precision": "day",
+   "system": "Agência Nacional de Protecção de Dados Pessoais",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência Nacional de Protecção de Dados Pessoais",
+   "country_label": "ANPDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "São Tomé and Príncipe",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

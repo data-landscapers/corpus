@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Haute Autorité de Protection des Données à caractère Personnel (HAPDP),HAPDP,authority,,State of Niger,,2026-06-13-niger-africadataprotection-suppression-hapdp
+NER,Haute Autorité de Protection des Données à caractère Personnel (HAPDP),HAPDP,authority,,State of Niger,,2025-07-28-hapdp-president-interview-loi-2022-59-lesahel
+NER,Haute Autorité de Protection des Données à caractère Personnel (HAPDP),HAPDP,authority,,State of Niger,,2024-09-20 The High Authority for the Protection of Personal Data (HAPDP)
+NER,Law no. 2019-71 of 24 December 2019 amending law 2017-28,Loi 2019-71,general,,Republic of Niger,,2019-12-24 Niger Data Protection Law - Loi 2019-71 (amending Loi 2017-28)

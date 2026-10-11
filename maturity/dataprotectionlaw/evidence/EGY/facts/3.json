@@ -1,0 +1,13 @@
+{
+  "slug": "2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "Access Partnership says Executive Regulations No. 816/2025 under Law No. 151/2020 were issued by Ministerial Decree on 1 November 2025.", "as_of": "2025-11-01", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "transition", "fact": "Access Partnership says enforcement of the law is expected from 1 November 2026, the end of a one-year grace period (date is the document's published date).", "as_of": "2026-02-11", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Access Partnership says the regulations confirm the Personal Data Protection Center as the supervisory authority for implementation, monitoring and enforcement.", "as_of": "2025-11-01", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Executive Regulations of the PDPL (Decree No. 816 of 2025)", "country_label": "Executive Regulations No. 816/2025", "class": "regulation", "platform": "", "owner": "Minister of Telecommunications", "tiers": ""},
+    {"system": "Personal Data Protection Center (PDPC)", "country_label": "Personal Data Protection Center", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

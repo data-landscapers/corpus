@@ -1,0 +1,47 @@
+{
+ "slug": "2025-08-25-ndpc-probes-1369-organisations",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The NDPC issued a 21-day compliance notice to 1,369 organisations (795 financial institutions, 392 insurance brokers, 35 insurers, 10 pension firms, 136 gaming operators) in a sector-wide investigation under the NDPA 2023, with no decision reported.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The document states the NDPC recently imposed a N766.2 million fine on Multichoice Nigeria, the largest single penalty so far; no date is given, so the document's published date is used.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The NDPC acts through its Head of Legal, Enforcement and Regulations, Babatunde Bamigboye, who issued the statement.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The NDPC enforces the Nigeria Data Protection Act, 2023, against named sectors, treating it as in force.",
+   "as_of": "2025-08-25",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

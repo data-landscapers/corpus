@@ -1,0 +1,9 @@
+{
+  "slug": "2024-09-19 Algeria Digital Economy (US Country Commercial Guide)",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The U.S. International Trade Administration guide states that Law No. 18-07, enacted 10 June 2018, came into force on 10 August 2023 and governs personal-data processing in Algeria.", "as_of": "2023-08-10", "date_precision": "day", "system": "Law No. 18-07", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The guide states that the National Authority for the Protection of Personal Data (ANPDCP) enforces Law 18-07; no appointment date is given, so the document's published date of 2024-09-19 is used.", "as_of": "2024-09-19", "date_precision": "day", "system": "Law No. 18-07", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

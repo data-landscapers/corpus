@@ -1,0 +1,16 @@
+{
+  "slug": "2026-07-15-anpdp-algeria-deliberation-04-images-plateformes-numeriques",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The deliberation is adopted by a majority of the Authority's members at their sitting of 15 July 2026, signed by its president, with twelve members named at the foot.", "as_of": "2026-07-15", "date_precision": "day", "system": "Loi n° 18-07 du 10 juin 2018 (as amended)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The deliberation is made under law n° 18-07 of 10 June 2018 as amended and supplemented and applies its articles 3, 25, 44 and 45.", "as_of": "2026-07-15", "date_precision": "day", "system": "Loi n° 18-07 du 10 juin 2018 (as amended)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "Délibération n° 04 of 15 July 2026, eleven articles, sets conditions for processing and publishing images and recordings of natural persons, and states it is an interpretive reference published on the Authority's website.", "as_of": "2026-07-15", "date_precision": "day", "system": "Loi n° 18-07 du 10 juin 2018 (as amended)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The deliberation states that the Authority has put an online complaint service at the disposal of data subjects under article 25 of law 18-07; it records no sanction or count.", "as_of": "2026-07-15", "date_precision": "day", "system": "Loi n° 18-07 du 10 juin 2018 (as amended)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The Authority adopted Délibération n° 04 on 15 July 2026 extending the law's rules to images published on social platforms, including treating publication on foreign-run platforms as a transfer abroad.", "as_of": "2026-07-15", "date_precision": "day", "system": "Loi n° 18-07 du 10 juin 2018 (as amended)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 18-07 du 10 juin 2018 (as amended)", "country_label": "القانون رقم 18-07 المعدل والمتمم", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ANPDP", "country_label": "السلطة الوطنية لحماية المعطيات ذات الطابع الشخصي", "class": "authority", "platform": "", "owner": "Présidence de la République", "tiers": ""},
+    {"system": "ANPDP délibération n° 04 (15 July 2026)", "country_label": "مداولة رقم 04", "class": "regulation", "platform": "", "owner": "ANPDP", "tiers": ""}
+  ],
+  "note": ""
+}

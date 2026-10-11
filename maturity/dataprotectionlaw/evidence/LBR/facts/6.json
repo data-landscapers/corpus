@@ -1,0 +1,10 @@
+{
+  "slug": "2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "Biometric Update reports that Liberia's data protection bill is currently going through the country's legislature; the report gives no event date, so its published date of 2026-05-16 is used.", "as_of": "2026-05-16", "date_precision": "day", "system": "Liberia data protection bill", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Independent Information Commission", "country_label": "Independent Information Commission", "class": "authority", "platform": "", "owner": "Government of Liberia", "tiers": "national; its executive director, Lorpu Page, sat on the ID4Africa 2026 panel"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-28 Central African Republic Data Protection Factsheet",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Data Protection Africa (ALT Advisory) states in its factsheet that the Central African Republic has a data protection law in place.", "as_of": "2026-01-28", "date_precision": "day", "system": "Loi n° 24.001 portant protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Data Protection Africa (ALT Advisory) states the data protection authority has not yet been appointed, as of 28 January 2026.", "as_of": "2026-01-28", "date_precision": "day", "system": "Loi n° 24.001 portant protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 24.001 portant protection des données à caractère personnel", "country_label": "Loi 24.001 (CAR data protection law)", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Data protection authority (not appointed)", "country_label": "Data protection authority", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

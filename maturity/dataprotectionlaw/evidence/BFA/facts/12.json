@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-04-burkina-revue-mi-parcours-budget-etat-2025",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Ministry of Economy and Finance's mid-year review at 30 June 2025 lists the CIL as section 59, programme 122, with 498,999 and 480,297 (thousand F CFA) and rates of 96.25% and 100.00%.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Commission de l'Informatique et des Libertés (CIL)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de l'Informatique et des Libertés (CIL)",
+   "country_label": "CIL",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Burkina Faso",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

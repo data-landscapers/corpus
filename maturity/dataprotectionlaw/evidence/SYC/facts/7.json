@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-12 Africa’s Data Protection Reforms A Continental Perspective on the Drivers of Change in Legal Frameworks",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "FPF states Seychelles repealed its never-implemented 2002 Data Protection Act with the Data Protection Act 2023, which it describes as a move to a regime grounded in enforcement; it gives no commencement date (as_of is the gazetted date of the 2023 Act, per the linked text).",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "FPF states the 2023 Act empowers the Information Commission to conduct audits and inspections, issue enforcement notices and impose administrative fines; it does not say any such power has been used (as_of is the Act's date).",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Information Commission",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

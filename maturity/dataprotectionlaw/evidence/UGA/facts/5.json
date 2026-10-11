@@ -1,0 +1,14 @@
+{
+  "slug": "2026-02-20-uganda-pdpo-decision-adlegal-v-whatsapp-meta",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The decision in Complaint No. PDPO 086/2025 is signed by Baker Birikujja as National Personal Data Protection Director of the Personal Data Protection Office.", "as_of": "2026-02-20", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The PDPO decided the complaint under the Data Protection and Privacy Act, Cap 97, citing its provisions on consent, minimisation and cross-border processing (Section 19).", "as_of": "2026-02-20", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The decision is rendered under the Data Protection and Privacy Regulations, 2021, applying Regulation 30 on adequacy, Regulation 45(2) and (3) on decisions and enforcement notices, Regulation 46 on appeal and Regulation 48 on offences.", "as_of": "2026-02-20", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The PDPO's decision of 20 February 2026 partly upheld a complaint against WhatsApp LLC and Meta Platforms, Inc. and ordered, within 90 days, a revised Uganda privacy policy, separation of core and ancillary processing with opt-in, a Regulation 30 adequacy assessment, an intra-group DPIA and a legitimate-interests assessment.", "as_of": "2026-02-20", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The decision records that the Office's 18 July 2025 decision in Ssekamwa Frank and 3 Others v Google LLC held the Act applies to foreign entities serving persons in Uganda, and applies that holding.", "as_of": "2025-07-18", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Office", "country_label": "Personal Data Protection Office (PDPO)", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

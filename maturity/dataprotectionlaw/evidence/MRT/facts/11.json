@@ -1,0 +1,9 @@
+{
+  "slug": "2023-01-01-apd-plan-strategique-2023-2026-protection-donnees",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The authority's 2023-2026 strategic plan describes the APD, created by law 2017-020, as acting to authorise and control all processing of personal data and to recruit staff; the plan carries the year 2023 only, no day (published date used).", "as_of": "2023", "date_precision": "year", "system": "Loi n° 2017-020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The plan states it is placed under the sign of the entry into force of law 2017-020 on personal data protection; no commencement date is given (published date 2023 used).", "as_of": "2023", "date_precision": "year", "system": "Loi n° 2017-020", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

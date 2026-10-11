@@ -1,0 +1,26 @@
+{
+  "slug": "2026-01-01-rapport-annuel-cmil-confidentialite-protection-donnees",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force",
+     "fact": "The CMIL annual report says Law no. 2014-038 on personal data protection was adopted at the end of 2014 and promulgated on 9 January 2015, and treats it as the existing law, long largely unapplied.",
+     "as_of": "2015-01-09", "date_precision": "day", "system": "Loi n°2014-038 sur la protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted",
+     "fact": "The CMIL members took their oath on 4 August 2025 and the bureau (a president and two vice-presidents) was elected on 14 August 2025 under article 30.2 of the law, per the CMIL's own annual report.",
+     "as_of": "2025-08-14", "date_precision": "day", "system": "Loi n°2014-038 sur la protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "none",
+     "fact": "The report cites a significant delay in adopting the law's application decrees and their absence as a reason no processing declaration could be registered 'so far'; it dates no decree, and the document is dated January 2026 (published date used).",
+     "as_of": "2026-01", "date_precision": "month", "system": "Loi n°2014-038 sur la protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "none",
+     "fact": "The report states that no processing declaration has been registered to date, that citizen complaints went untreated for ten years and that the CMIL still lacks premises and staff (104 posts targeted in the 2026 Finance Law, none yet recruited); document dated January 2026 (published date used).",
+     "as_of": "2026-01", "date_precision": "month", "system": "Loi n°2014-038 sur la protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing",
+     "fact": "In 2025 the CMIL was sworn in (4 August), elected its bureau (14 August), joined the AFAPDP (24 November), published its procedures manual (3 December) and obtained a dedicated Finance Law 2026 budget line of Ariary 2,411,579,000 under Programme 138, which met World Bank performance conditions releasing USD 500,000.",
+     "as_of": "2025-12", "date_precision": "month", "system": "Loi n°2014-038 sur la protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n°2014-038 sur la protection des données à caractère personnel", "country_label": "Loi n°2014-038 du 9 janvier 2015", "class": "general", "platform": "", "owner": "Parliament of Madagascar", "tiers": "public and private controllers"},
+    {"system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)", "country_label": "CMIL", "class": "authority", "platform": "", "owner": "independent administrative authority, budget under Programme 138 (Presidency)", "tiers": "public and private controllers"},
+    {"system": "Convention de l'Union Africaine sur la cybersécurité et la protection des données à caractère personnel (Malabo)", "country_label": "Convention de Malabo", "class": "treaty", "platform": "", "owner": "African Union", "tiers": "ratified by Madagascar in 2024"}
+  ],
+  "note": ""
+}

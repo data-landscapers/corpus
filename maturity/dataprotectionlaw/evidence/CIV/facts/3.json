@@ -1,0 +1,64 @@
+{
+ "slug": "2026-05-18-protection-donnees-progres-cote-divoire-fratmat",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "On 18 May 2026 the digital minister cited the law of 19 June 2013 on personal data as the country's existing framework; the document does not give its number or say in terms that it is in force.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "Loi du 19 juin 2013 sur les données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The minister listed compliance control operations carried out in 2022 under the framework, with no count or sanction given.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Loi du 19 juin 2013 sur les données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The minister listed national awareness campaigns launched from 2015 as an advance under the framework.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Loi du 19 juin 2013 sur les données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The minister said a national register of data protection correspondents was created in 2026.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Loi du 19 juin 2013 sur les données à caractère personnel",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi du 19 juin 2013",
+   "country_label": "loi du 19 juin 2013 encadrant les données à caractère personnel",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  },
+  {
+   "system": "ARTCI",
+   "country_label": "Artci",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

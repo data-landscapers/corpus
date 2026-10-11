@@ -1,0 +1,12 @@
+{
+  "slug": "2025-02-27 Liberia struggles to enforce privacy and data protection laws",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "none", "fact": "Africa-China Reporting Project states that Liberia has no dedicated data protection law, as confirmed by Assistant Postal Affairs Minister Melvin Yealue; the government is drafting a policy to implement the ECOWAS Data Protection Act.", "as_of": "2025-02-27", "date_precision": "day", "system": "Liberia general data protection law (absent)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "Africa-China Reporting Project states that Liberia has no national data protection authority and no designated data protection officers, per Assistant Postal Affairs Minister Melvin Yealue.", "as_of": "2025-02-27", "date_precision": "day", "system": "Liberia general data protection law (absent)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Constitution of Liberia, Article 16", "country_label": "Constitution Article 16", "class": "constitutional", "platform": "", "owner": "Republic of Liberia", "tiers": "national"},
+    {"system": "Policy to implement the ECOWAS Data Protection Act", "country_label": "", "class": "policy", "platform": "", "owner": "Ministry of Posts and Telecommunications with the LTA", "tiers": "national; being drafted"}
+  ],
+  "note": ""
+}

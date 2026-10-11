@@ -1,0 +1,20 @@
+{
+  "slug": "2024-09-13-zimbabwe-si-155-2024-licensing-data-controllers-dpo-regulations",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued",
+     "fact": "The gazetted Statutory Instrument 155 of 2024 states the Minister of ICT made the Licensing of Data Controllers and Appointment of Data Protection Officers Regulations under section 32 of the Cyber and Data Protection Act [Chapter 12:07].",
+     "as_of": "2024-09-13", "date_precision": "day", "system": "Cyber and Data Protection Act (CDPA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "transition",
+     "fact": "The regulations run compliance periods from promulgation on 13 September 2024: existing controllers have 6 months to apply for a licence and 90 days to appoint a data protection officer, under the Act [Chapter 12:07].",
+     "as_of": "2024-09-13", "date_precision": "day", "system": "Cyber and Data Protection Act (CDPA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted",
+     "fact": "The regulations define the Authority as the Data Protection Authority and the schedules' forms are headed POTRAZ - Data Protection Authority, with the Authority to issue licences within 14 days and keep a register of controllers.",
+     "as_of": "2024-09-13", "date_precision": "day", "system": "Cyber and Data Protection Act (CDPA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Cyber and Data Protection Act (CDPA)", "country_label": "Cyber and Data Protection Act [Chapter 12:07]", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024", "country_label": "Statutory Instrument 155 of 2024", "class": "regulation", "platform": "", "owner": "Minister of ICT, Postal and Courier Services", "tiers": "Tier 1 (50 to 1,000 data subjects), Tier 2 (1,001 to 100,000), Tier 3 (100,001 to 500,000), Tier 4 (over 500,000)"},
+    {"system": "Data Protection Authority (POTRAZ)", "country_label": "Data Protection Authority", "class": "authority", "platform": "", "owner": "POTRAZ", "tiers": ""}
+  ],
+  "note": ""
+}

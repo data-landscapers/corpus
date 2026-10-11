@@ -1,0 +1,6 @@
+iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
+SYC,general,authority,qualifier,constituted,2026-04-13,SYC-002;SYC-005;SYC-007;SYC-016,SYC-011=provided;SYC-009=provided;SYC-013=provided;SYC-015=provided,
+SYC,general,standing,coverage,in-force,2026-02-06,SYC-001;SYC-004;SYC-012,SYC-008=transition;SYC-010=transition;SYC-014=transition,
+SYC,general,regulations,coverage,,,,,nothing held
+SYC,general,application,coverage,activity,2026-02-06,SYC-003;SYC-006,,
+SYC,general,last12,qualifier,,,,,nothing held

@@ -1,0 +1,12 @@
+{
+  "slug": "2015-01-09-loi-2014-038-protection-donnees-personnelles",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "Loi n° 2014-038 on the protection of personal data, adopted by the Assemblée nationale on 16 December 2014 and promulgated after Haute Cour Constitutionnelle decision of 7 January 2015, is dated 9 January 2015; the excerpt states no commencement date.", "as_of": "2015-01-09", "date_precision": "day", "system": "Loi n° 2014-038 sur la protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Article 4 of the law places compliance with its principles under an independent authority named the Commission Malagasy de l'Informatique et des Libertés (CMIL).", "as_of": "2015-01-09", "date_precision": "day", "system": "Loi n° 2014-038 sur la protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 2014-038 sur la protection des données à caractère personnel", "country_label": "Loi n° 2014-038", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)", "country_label": "CMIL", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

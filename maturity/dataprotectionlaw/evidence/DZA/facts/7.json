@@ -1,0 +1,11 @@
+{
+  "slug": "2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Digital Policy Alert and Tech Hive Advisory roundup of 2025 states that Algeria completed amendments to its data protection law in 2025, adding data protection officer appointment duties and stricter breach notification timelines; it gives no month, so the year is used.", "as_of": "2025", "date_precision": "year", "system": "Algeria data protection law", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The roundup states that Algeria released a compliance package for processing personal data in 2025 to support the implementation of the Data Protection Law, with guidelines on compliance procedures and four templates (confidentiality agreements, consent notices, IT security charters, subcontractor agreements); it gives no month.", "as_of": "2025", "date_precision": "year", "system": "Algeria data protection law", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The roundup states that Algeria released a compliance package of guidelines and four templates in 2025 to support implementation of the Data Protection Law, and records no decision or sanction for Algeria.", "as_of": "2025", "date_precision": "year", "system": "Algeria data protection law", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The roundup states that Algeria completed amendments to its data protection law in 2025 and released a compliance package of guidelines and templates; the document gives no month for either, so the year is used.", "as_of": "2025", "date_precision": "year", "system": "Algeria data protection law", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

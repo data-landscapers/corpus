@@ -1,0 +1,10 @@
+{
+  "slug": "2025-08-04-cmil-prestation-serment-membres",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Assemblée nationale reports that seven members of the CMIL, including a deputy elected by her peers to represent the Assembly, were sworn in at the Cour suprême on 4 August 2025.", "as_of": "2025-08-04", "date_precision": "day", "system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Commission Malagasy de l'Informatique et des Libertés (CMIL)", "country_label": "CMIL", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

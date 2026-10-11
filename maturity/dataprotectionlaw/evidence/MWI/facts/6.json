@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-22-dpa-breach-notification-guidelines",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The guidelines state that the Malawi Communications Regulatory Authority is the designated Data Protection Authority, mandated by the Data Protection Act (No. 3 of 2024) to oversee its implementation, and it is issuing guidance as such.", "as_of": "2025-10-22", "date_precision": "day", "system": "Data Protection Act (No. 3 of 2024)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Authority published guidelines on personal data breach notifications under sections 36 and 37 of the Act (72-hour notice to the Authority and to data subjects, record keeping); the document reports no decision or sanction.", "as_of": "2025-10-22", "date_precision": "day", "system": "Data Protection Act (No. 3 of 2024)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The Authority issued breach notification guidelines under its section 5(2)(a) mandate, dated 22 October 2025.", "as_of": "2025-10-22", "date_precision": "day", "system": "Data Protection Act (No. 3 of 2024)", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

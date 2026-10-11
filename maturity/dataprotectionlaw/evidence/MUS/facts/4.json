@@ -1,0 +1,14 @@
+{
+  "slug": "2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Commissioner Madhub says Mauritius adopted a new data protection regime in 2017, after a first law in 2004 partly implemented in 2009, and describes it as the country's current law.", "as_of": "2026-05-27", "date_precision": "day", "system": "Data Protection Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Drudeisha Madhub is named as the Data Protection Commissioner of Mauritius.", "as_of": "2026-05-27", "date_precision": "day", "system": "Data Protection Office", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "Madhub says the office can register controllers and processors, make them fill in forms, and do some enquiries and fine them, giving no count or named decision.", "as_of": "2026-05-27", "date_precision": "day", "system": "Data Protection Office", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "Madhub says that in 2026 Mauritius is going for the EU adequacy assessment and fully aligning its law with EU-GDPR requirements.", "as_of": "2026-05-27", "date_precision": "day", "system": "Data Protection Act", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act", "country_label": "2017 data protection regime", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Data Protection Office", "country_label": "Data Protection Commissioner's office", "class": "authority", "platform": "", "owner": "Data Protection Commissioner", "tiers": ""}
+  ],
+  "note": ""
+}

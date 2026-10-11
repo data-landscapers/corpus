@@ -1,0 +1,10 @@
+{
+  "slug": "2019-09-06-angola-decreto-presidencial-277-19-nomeacao-conselho-administracao-apd",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Decreto Presidencial n.º 277/19 of 6 September 2019 appoints three members to the Conselho de Administração of the APD, created under Decreto Presidencial n.º 214/16: a president and two executive administrators.", "as_of": "2019-09-06", "date_precision": "day", "system": "Agência de Protecção de Dados (APD)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Agência de Protecção de Dados (APD)", "country_label": "Agência Angolana de Protecção de Dados", "class": "authority", "platform": "", "owner": "Ministro das Telecomunicações e Tecnologias de Informação (superintendence delegated)", "tiers": ""}
+  ],
+  "note": ""
+}

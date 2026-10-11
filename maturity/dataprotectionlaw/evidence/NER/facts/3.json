@@ -1,0 +1,36 @@
+{
+  "slug": "2024-09-20 The High Authority for the Protection of Personal Data (HAPDP)",
+  "facts": [
+    {
+      "sub_indicator": "general",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Le Sahel profile states law 2022-59 of 16 December 2022 repealed laws 2017-28 and 2019-71 and was amended by law 2023-31 and ordinances 2024-16 and 2024-29, with content current through 2024.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "Law no. 2022-59 of 16 December 2022 on personal data protection",
+      "class": "general"
+    },
+    {
+      "sub_indicator": "general",
+      "aspect": "authority",
+      "value": "constituted",
+      "fact": "Le Sahel profile states the HAPDP was installed in 2020, has ten members of whom only the president is permanent, and holds powers of inspection and administrative and financial sanction under articles 92-106.",
+      "as_of": "2024-09",
+      "date_precision": "month",
+      "system": "Law no. 2022-59 of 16 December 2022 on personal data protection",
+      "class": "general"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Haute Autorité de Protection des Données à caractère Personnel (HAPDP)",
+      "country_label": "HAPDP",
+      "class": "authority",
+      "platform": "",
+      "owner": "State of Niger",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

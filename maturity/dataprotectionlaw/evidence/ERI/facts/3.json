@@ -1,0 +1,8 @@
+{
+  "slug": "2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "none", "fact": "The UNECA Digital Trade Regulatory Integration country profile states that Eritrea lacks a comprehensive legal framework for data protection; the document gives no date, so its published year 2022 is used (its datasets cover measures collected through 2021).", "as_of": "2022", "date_precision": "year", "system": "No general data protection law", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

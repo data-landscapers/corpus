@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-02 Egyptian court judgment tightens data-protection enforcement (Orange Egypt)",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "regulations", "value": "none", "fact": "Shehata & Partners says the PDPL's executive regulations were still pending when the Economic Court of Alexandria ruled in February 2025.", "as_of": "2025-02", "date_precision": "month", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"}
+  ],
+  "systems": [],
+  "note": "The EGP 10m Orange Egypt judgment (Feb 2025) rests on tort law and Cybercrime Law 175/2018, not on a decision under the PDPL, so it gives no application fact."
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "2025-07-18-uganda-pdpo-ssekamwa-frank-v-google-llc-decision",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "applied",
+     "fact": "The Personal Data Protection Office decided complaint no. 08/11/24/6683 (Ssekamwa Frank and 3 others v Google LLC) on 18 July 2025, finding Google LLC a data controller and collector in breach of the Act's registration duty (section 29) and cross-border transfer duty (section 19), and ordering it to register and to document its transfer compliance within 30 days.",
+     "as_of": "2025-07-18", "date_precision": "day",
+     "system": "Data Protection and Privacy Act, Cap 97", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force",
+     "fact": "The decision of 18 July 2025 applies the Data Protection and Privacy Act, Cap 97, and its Regulations as law in operation, including the Act's extra-territorial reach over entities handling Ugandans' personal data.",
+     "as_of": "2025-07-18", "date_precision": "day",
+     "system": "Data Protection and Privacy Act, Cap 97", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued",
+     "fact": "The decision applies the Data Protection and Privacy Regulations, citing Regulation 15 (registration), Regulation 30 (cross-border transfer), Regulation 46 (appeal) and Regulation 48 (offence for non-compliance with orders); it notes no gazette notice of registration exemptions under Regulation 15(2) had been issued.",
+     "as_of": "2025-07-18", "date_precision": "day",
+     "system": "Data Protection and Privacy Act, Cap 97", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted",
+     "fact": "The Personal Data Protection Office acted as the Act's regulator, issuing the decision signed by its Acting National Personal Data Protection Director, and keeps a register of data collectors, controllers and processors.",
+     "as_of": "2025-07-18", "date_precision": "day",
+     "system": "Data Protection and Privacy Act, Cap 97", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

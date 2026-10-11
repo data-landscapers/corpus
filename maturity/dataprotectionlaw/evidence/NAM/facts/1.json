@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-04-namibia-mp-data-control-concerns-china-smart-city-grant",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "IPC shadow trade minister Rodney Cloete told the Windhoek Observer that Namibia has no data protection statute, so no legal definition of a data controller and no cross-border transfer rules; this is an opposition MP's statement, dated by the article's publication date.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Constitution Article 13",
+   "country_label": "Article 13 of the Constitution (privacy)",
+   "class": "constitutional",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

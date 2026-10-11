@@ -1,0 +1,36 @@
+{
+  "slug": "2025-07-23 Review of the Comoros Data Protection Law",
+  "facts": [
+    {
+      "sub_indicator": "general",
+      "aspect": "standing",
+      "value": "enacted",
+      "fact": "TechHive Advisory states the Union of Comoros enacted its Protection of Personal Data Law on 29 June 2021 as a comprehensive framework; it does not say whether the law has commenced.",
+      "as_of": "2021-06-29",
+      "date_precision": "day",
+      "system": "Protection of Personal Data Law",
+      "class": "general"
+    },
+    {
+      "sub_indicator": "general",
+      "aspect": "authority",
+      "value": "provided",
+      "fact": "TechHive Advisory states the law establishes a National Authority for the Protection of Personal Data but that as of mid-2024 it had not been formally constituted or made operational.",
+      "as_of": "2024",
+      "date_precision": "year",
+      "system": "National Authority for the Protection of Personal Data",
+      "class": "general"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National Authority for the Protection of Personal Data",
+      "country_label": "National Authority for the Protection of Personal Data",
+      "class": "authority",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": ""
+}

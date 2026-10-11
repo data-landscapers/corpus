@@ -1,0 +1,12 @@
+{
+  "slug": "2025-03-19-cil-sollicite-accompagnement-premier-ministre-jnpdp",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The CIL, an independent administrative authority created by law n°010-2004/AN of 20 April 2004 and functional since December 2007, was received in audience by the Prime Minister on 18 March 2025, led by its president Dr Halguièta Nassa.", "as_of": "2025-03-18", "date_precision": "day", "system": "Loi n°010-2004/AN du 20 avril 2004 portant protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The CIL president announced on 18 March 2025 the third national data protection day, planned for 25-30 March 2025, and handed the Prime Minister the CIL's 2022 activity report.", "as_of": "2025-03-18", "date_precision": "day", "system": "Loi n°010-2004/AN du 20 avril 2004 portant protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n°010-2004/AN du 20 avril 2004", "country_label": "Loi portant protection des données à caractère personnel", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Commission de l'informatique et des libertés (CIL)", "country_label": "CIL", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document names only the 2004 law and does not mention law n°001-2021/AN. It also records the CIL president pleading for adoption of implementing decrees enabling repressive action, without saying which law's decrees."
+}

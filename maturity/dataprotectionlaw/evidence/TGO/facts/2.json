@@ -1,0 +1,64 @@
+{
+ "slug": "2026-09-15-levisionnaire-togo-ipdcp-mise-en-conformite-administrations",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The IPDCP briefed ministry cabinet directors and secretaries-general on their obligations as data controllers under law no. 2019-014 of 29 October 2019, treating the law as applicable to public administrations.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The IPDCP became operational in 2024 and, per its head Colonel Bédiani Belei, holds powers of control, injunction and sanction.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "IPDCP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The IPDCP convened a compliance awareness meeting for public administrations in Lomé on 15 September 2026, covering prior formalities, declaration of existing processing and designation of correspondents; no sanction is reported.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "On 15 September 2026 the IPDCP pressed administrations to speed compliance and said a correspondent certification programme was envisaged.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n°2019-014 relative à la protection des données à caractère personnel",
+   "country_label": "Loi n°2019-014 du 29 octobre 2019",
+   "class": "general",
+   "platform": "",
+   "owner": "Parliament of Togo",
+   "tiers": ""
+  },
+  {
+   "system": "IPDCP",
+   "country_label": "Instance de protection des données à caractère personnel",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

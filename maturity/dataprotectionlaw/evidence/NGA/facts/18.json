@@ -1,0 +1,37 @@
+{
+ "slug": "2025-07-06-ndpc-multichoice-fine-statement",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The NDPC fined Multichoice Nigeria N766,242,500 for violating the NDP Act after an investigation begun in Q2 2024 into subscriber privacy and cross-border transfers.",
+   "as_of": "2025-07-06",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The NDPC, led by National Commissioner Vincent Olatunji, issued the finding and fine.",
+   "as_of": "2025-07-06",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The NDPC applies the NDP Act to impose a penalty, treating it as in force.",
+   "as_of": "2025-07-06",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "2026-07-21-zambia-cyber-crimes-act-enforcement-begins",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Africa Business Insight, 21 July 2026, describes the Data Protection Act as part of Zambia's operating legal framework alongside the Cyber Security Act and Cyber Crimes Act, which together regulate the handling of personal data and place compliance obligations on businesses; the article gives no commencement date for the Act.", "as_of": "2026-07-21", "date_precision": "day", "system": "Data Protection Act", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act", "country_label": "Data Protection Act", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Cyber Crimes Act No. 4 of 2025", "country_label": "Cyber Crimes Act", "class": "adjacent", "platform": "", "owner": "Ministry of Information and Media (statement)", "tiers": ""},
+    {"system": "Cyber Security Act", "country_label": "Cyber Security Act", "class": "adjacent", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

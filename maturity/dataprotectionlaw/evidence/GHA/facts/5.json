@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-26-dpc-crackdown-2026-enforcement-myjoy",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Commission's Executive Director said the Data Protection Act, 2012 (Act 843) sets compliance requirements for lawful processing and prescribes fines and imprisonment, and the Commission organises Data Protection Week under it annually.", "as_of": "2026-01-26", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Data Protection Commission, led by Executive Director Dr Arnold Kavaarpuo, is acting and said it will intensify compliance checks and regulatory actions.", "as_of": "2026-01-26", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "The Commission announced that 2026 will be a year of enforcement with intensified compliance checks, and the Deputy Minister pledged ministry support.", "as_of": "2026-01-26", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Commission", "country_label": "Data Protection Commission (DPC)", "class": "authority", "platform": "", "owner": "Data Protection Commission, Ghana", "tiers": "national"}
+  ],
+  "note": ""
+}

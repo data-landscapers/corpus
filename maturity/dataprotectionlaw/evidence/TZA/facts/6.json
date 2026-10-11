@@ -1,0 +1,14 @@
+{
+  "slug": "2026-02-09 Notification obligations arising from personal data breaches in Tanzania",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Clyde & Co states that, with the enactment of the Personal Data Protection Act, Chapter 44, Revised Edition 2023, entities processing personal data in Tanzania are subject to breach-notification obligations (s.27(5)); no commencement date given, so the document's published date of 2026-02-09 is used.", "as_of": "2026-02-09", "date_precision": "day", "system": "Personal Data Protection Act, Chapter 44", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "Clyde & Co states the Personal Data Protection (Collection and Processing) Regulations, Government Notice No. 449C of 2023, apply alongside the Act, with regulation 63 setting a fine of TZS 100,000 to 5,000,000 or up to five years' imprisonment for breach-notification failures; document's published date 2026-02-09 used as no other date is given.", "as_of": "2026-02-09", "date_precision": "day", "system": "Personal Data Protection (Collection and Processing) Regulations, GN 449C of 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Clyde & Co states controllers must notify the Personal Data Protection Commission of breaches and that the Commission provides a prescribed notification format; document's published date 2026-02-09 used.", "as_of": "2026-02-09", "date_precision": "day", "system": "Personal Data Protection Commission", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Act, Chapter 44", "country_label": "PDP Act", "class": "general", "platform": "", "owner": "Government of Tanzania", "tiers": ""},
+    {"system": "Personal Data Protection (Collection and Processing) Regulations, GN 449C of 2023", "country_label": "Collection and Processing Regulations", "class": "regulation", "platform": "", "owner": "Government of Tanzania", "tiers": ""},
+    {"system": "Personal Data Protection Commission", "country_label": "the Commission", "class": "authority", "platform": "", "owner": "Government of Tanzania", "tiers": ""}
+  ],
+  "note": ""
+}

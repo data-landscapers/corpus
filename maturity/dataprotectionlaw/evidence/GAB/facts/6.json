@@ -1,0 +1,9 @@
+{
+  "slug": "2023-07-15-gabon-loi-025-2023-protection-donnees-personnelles",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Loi n°025/2023 of 12 July 2023, amending the 2011 data protection law Loi n°001/2011 with a full regime (rights, controller duties, DPOs, breach notification, sanctions), was promulgated by Decret n°166/PR and published in the Journal Officiel n°218 Bis of 15 July 2023, with no compliance grace period (art. 219).", "as_of": "2023-07-15", "date_precision": "day", "system": "Loi n°025/2023 (amending Loi n°001/2011)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Article 7 of Loi n°025/2023 creates the Autorité pour la Protection des Données Personnelles et de la Vie Privée (APDPVP) as an independent administrative authority, with powers to authorise processing, receive complaints, and issue warnings, formal notices, suspensions and fines of CFA 1 million to 100 million (arts. 199-204); the text names no appointment of its members.", "as_of": "2023-07-15", "date_precision": "day", "system": "APDPVP", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

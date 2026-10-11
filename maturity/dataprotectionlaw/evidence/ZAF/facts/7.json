@@ -1,0 +1,20 @@
+{
+  "slug": "2026-06-14-inforeg-first-enforcement-notice-2026",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "applied",
+     "fact": "The Information Regulator published on 20 May 2026 an enforcement notice against Central Johannesburg TVET College, finding breaches of POPIA conditions for lawful processing and of the section 22 duty to notify security compromises, and ordering registration of information officers, notification of data subjects, an apology, a compliance framework and training within set periods.",
+     "as_of": "2026-05-20", "date_precision": "day", "system": "Protection of Personal Information Act, 2013 (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force",
+     "fact": "The Information Regulator's Enforcement Committee applied POPIA sections 8, 15, 19 and 22 to a responsible party in a notice published on 20 May 2026.",
+     "as_of": "2026-05-20", "date_precision": "day", "system": "Protection of Personal Information Act, 2013 (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted",
+     "fact": "The Information Regulator, through its Enforcement Committee, issued the POPIA enforcement notice of 20 May 2026 and runs an eServices Portal on which information officers are registered.",
+     "as_of": "2026-05-20", "date_precision": "day", "system": "Protection of Personal Information Act, 2013 (POPIA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Protection of Personal Information Act, 2013 (POPIA)", "country_label": "POPIA", "class": "general", "platform": "", "owner": "Information Regulator", "tiers": ""},
+    {"system": "Information Regulator of South Africa", "country_label": "Information Regulator", "class": "authority", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Information Regulator eServices Portal", "country_label": "eServices Portal", "class": "", "platform": "", "owner": "Information Regulator", "tiers": "responsible parties registering information officers"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-05 Congo - Council of Ministers approves bill creating National Personal Data Protection Commission",
+  "facts": [],
+  "systems": [
+    {"system": "Commission nationale de protection des données à caractère personnel (National Personal Data Protection Commission)", "country_label": "National Personal Data Protection Commission", "class": "authority", "platform": "", "owner": "Republic of Congo (Ministry of Posts, Telecommunications and Digital Economy presented the bill)", "tiers": "national"}
+  ],
+  "note": "The 3 July 2024 cabinet approval is of a bill creating the commission (authority class), not of a general data protection law; it only says it strengthens existing legislation."
+}

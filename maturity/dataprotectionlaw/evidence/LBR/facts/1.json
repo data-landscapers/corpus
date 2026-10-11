@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-14-smartnewsliberia-mgcsp-beneficiary-data-leak-investigation",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry of Gender, Children and Social Protection said on 13 September 2026 that it is aware of its responsibilities under Liberia's Data Protection and Privacy Act, and that it took part in validating the legal framework.",
+   "as_of": "2026-09-13",
+   "date_precision": "day",
+   "system": "Data Protection Act 2026",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

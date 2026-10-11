@@ -1,0 +1,5 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CIV,ARTCI,Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire,authority,,"ARTCI (independent administrative authority, created by ordonnance 2012-293 of 21 March 2012)",national,2026-07-26-civ-artci-autorite-de-protection-creation-missions
+CIV,Certinum,Certinum,authority,Developed in Côte d'Ivoire with technical partner Bmi-Wfs; certinumapdp.ci,ARTCI,national; Treasury and ONECI first users,2026-07-02-certinum-protection-donnees-personnelles-fratmat
+CIV,Loi du 19 juin 2013,loi du 19 juin 2013 encadrant les données à caractère personnel,general,,,national,2026-05-18-protection-donnees-progres-cote-divoire-fratmat
+CIV,ARTCI,Artci,authority,,,national,2026-05-18-protection-donnees-progres-cote-divoire-fratmat

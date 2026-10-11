@@ -1,0 +1,37 @@
+{
+ "slug": "2023-01-11-cndp-communique-publication-registre-national-rn-pdp",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CNDP communique states that articles 45 to 50 of law 09-08 give the CNDP the keeping and public availability of the national register of personal data processing.",
+   "as_of": "2023-01-11",
+   "date_precision": "day",
+   "system": "Law 09-08",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CNDP, installed in 2010, is stated to be acting under law 09-08, keeping the national register of processing operations covering 2010 to 31 December 2022.",
+   "as_of": "2023-01-11",
+   "date_precision": "day",
+   "system": "CNDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The CNDP published a first version of the national register (RN-PDP) of notified processing operations on 16 January 2023, with a definitive version on 28 February 2023 and a public complaints-and-controls register from 31 March 2023; no decision or count is given.",
+   "as_of": "2023-01-16",
+   "date_precision": "day",
+   "system": "RN-PDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

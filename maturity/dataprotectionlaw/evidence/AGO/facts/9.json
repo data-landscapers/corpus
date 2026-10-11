@@ -1,0 +1,11 @@
+{
+  "slug": "2021-03-10-angola-decreto-presidencial-60-21-regulamento-taxas-apd",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "Decreto Presidencial n.º 60/21 of 10 March 2021 approves the Regulamento das Taxas a Cobrar pela APD, made under the legislation on personal data protection, setting fees for registering files and authorising personal data processing, with 60% of receipts to the APD and 40% to the Treasury single account.", "as_of": "2021-03-10", "date_precision": "day", "system": "Legislação sobre a Protecção de Dados Pessoais (Lei n.º 22/11)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Agência de Protecção de Dados (APD)", "country_label": "Agência de Protecção de Dados", "class": "authority", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Regulamento das Taxas a Cobrar pela APD (DP 60/21)", "country_label": "Regulamento das Taxas da APD", "class": "regulation", "platform": "", "owner": "Presidente da República", "tiers": ""}
+  ],
+  "note": ""
+}

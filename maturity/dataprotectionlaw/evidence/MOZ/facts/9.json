@@ -1,0 +1,76 @@
+{
+ "slug": "2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The UNECA/GIZ/AU Commission inception report dated 19 June 2025 says Mozambique has not enacted a comprehensive data protection law but has drafted a Data Protection Bill, and lists a pending data protection law as a challenge.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Data Protection Bill",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "none",
+   "fact": "The inception report states that Mozambique has no data regulatory authority, though INTIC, INCM, INAGE and CEDSIF impliedly oversee parts of data governance.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Data regulatory authority",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Bill",
+   "country_label": "Data Protection Bill",
+   "class": "general",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  },
+  {
+   "system": "Constitution of the Republic of Mozambique, Article 71",
+   "country_label": "Constitution art. 71",
+   "class": "constitutional",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Transactions Law (Law 3/2017)",
+   "country_label": "Lei das Transaccoes Electronicas",
+   "class": "sectoral",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Banco de Mocambique Notice 8/GBM/2021 on consumer data protection",
+   "country_label": "Notice 8/GBM/2021",
+   "class": "regulation",
+   "platform": "",
+   "owner": "Banco de Mocambique",
+   "tiers": ""
+  },
+  {
+   "system": "African Union Convention on Cybersecurity and Personal Data Protection (Malabo Convention)",
+   "country_label": "Malabo Convention",
+   "class": "treaty",
+   "platform": "",
+   "owner": "African Union",
+   "tiers": ""
+  },
+  {
+   "system": "National Data Governance Strategy and National Data Policy (in development)",
+   "country_label": "National Data Policy",
+   "class": "policy",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

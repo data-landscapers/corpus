@@ -1,0 +1,15 @@
+{
+  "slug": "2026-08-31-itweb-inforeg-alarming-data-breaches",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "reported", "fact": "The Information Regulator's chairperson said it received over 3,800 complaints in the previous year, 10% of them on direct marketing (document published 2026-08-31, so the year read as 2025).", "as_of": "2025", "date_precision": "year", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "reported", "fact": "The Regulator has received over 8,000 security-compromise reports to date, 1,220 of them since April 2026, according to its chairperson at a 31 August 2026 briefing.", "as_of": "2026-08-31", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The Regulator issued the South African Bureau of Standards an enforcement notice the week before 31 August 2026 over its 2024 ransomware attack, finding POPIA conditions for lawful processing violated and giving it 90 days to revise policies, run impact assessments and implement security measures.", "as_of": "2026-08", "date_precision": "month", "system": "Protection of Personal Information Act (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "Two direct-marketing matters, involving OUTsurance and MTN, have been referred to the Regulator's enforcement committee under POPIA section 69 (reported 31 August 2026; no decision yet).", "as_of": "2026-08-31", "date_precision": "day", "system": "Protection of Personal Information Act (POPIA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Protection of Personal Information Act (POPIA)", "country_label": "POPIA", "class": "general", "platform": "", "owner": "Information Regulator (enforcer)", "tiers": ""},
+    {"system": "Information Regulator", "country_label": "InfoReg", "class": "authority", "platform": "", "owner": "Information Regulator", "tiers": ""},
+    {"system": "Consumer Protection Act pre-emptive block register", "country_label": "pre-emptive block register", "class": "sectoral", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

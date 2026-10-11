@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-10-digital-economy-country-commercial-guide-tradegov",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The US Commerce Department guide states that legislation governing personal data protection exists in Mauritania; it gives no law number or commencement date, and the date used is the guide's published date.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The guide states a governmental data-protection authority, the APD, exists and is pursuing a 2023-2026 strategic plan; the date used is the guide's published date.",
+   "as_of": "2026-02-10",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

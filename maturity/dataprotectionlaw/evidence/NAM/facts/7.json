@@ -1,0 +1,12 @@
+{
+  "slug": "2022-03-01-namibia-draft-data-protection-bill-revised-version-mict",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The Ministry of Information and Communication Technology published a revised 59-page draft Data Protection Bill for comment, dated 2022 (month March taken from the publisher's filename, not the text), with the gazette notice number left blank.", "as_of": "2022-03", "date_precision": "month", "system": "Draft Data Protection Bill, 2021 (revised version)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The revised draft's long title provides for establishing a Data Protection Supervisory Authority and its powers, duties and functions; this is a draft and no body is stated as constituted.", "as_of": "2022-03", "date_precision": "month", "system": "Draft Data Protection Bill, 2021 (revised version)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Draft Data Protection Bill, 2021 (revised version)", "country_label": "Data Protection Bill", "class": "general", "platform": "", "owner": "Ministry of Information and Communication Technology", "tiers": ""},
+    {"system": "Data Protection Supervisory Authority", "country_label": "Data Protection Supervisory Authority", "class": "authority", "platform": "", "owner": "proposed under the draft bill", "tiers": ""}
+  ],
+  "note": ""
+}

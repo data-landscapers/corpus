@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-19-monitor-pdpo-35000-unregistered-data-controllers",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Personal Data Protection Office, established under the Data Protection and Privacy Act, is headed by director Baker Birikujja, who addressed an ISACA Kampala breakfast on 18 August 2026.", "as_of": "2026-08-18", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The PDPO director says the Data Protection and Privacy Act requires registration of data collectors and processors and makes failure to register a criminal offence.", "as_of": "2026-08-18", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The PDPO director says 14,697 of an estimated 50,000 entities required to register have registered, and that the office has written to defaulters and taken some to court with the CID and the DPP, naming no case.", "as_of": "2026-08-18", "date_precision": "day", "system": "Data Protection and Privacy Act", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Office", "country_label": "Personal Data Protection Office (PDPO)", "class": "authority", "platform": "", "owner": "National Information Technology Authority-Uganda (per other sources; not in this document)", "tiers": ""}
+  ],
+  "note": ""
+}

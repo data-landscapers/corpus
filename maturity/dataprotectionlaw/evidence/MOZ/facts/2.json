@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-03-mozambique-misa-data-protection-law-roundtable",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "A roundtable in Maputo reported on 2026-09-03 (held the previous week) discussed a forthcoming Personal Data Protection Law; the report gives no stage of the bill and no submission date.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Personal Data Protection draft law",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lei de Proteção de Dados Pessoais (forthcoming)",
+   "country_label": "Lei de Proteção de Dados Pessoais (forthcoming)",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

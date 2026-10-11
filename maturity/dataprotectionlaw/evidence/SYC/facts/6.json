@@ -1,0 +1,27 @@
+{
+ "slug": "2024-03-25 Data Protection Law Now In Force In Seychelles",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "transition",
+   "fact": "Appleby reports the Data Protection Act 2023, introduced in December 2023, is in force and repeals the 2003 Act, with all controllers and processors given an 18-month transitional period from 22 December 2023 to conform (as_of is the document's published date).",
+   "as_of": "2024-03-25",
+   "date_precision": "day",
+   "system": "Data Protection Act, 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "Appleby states the Information Commission of Seychelles is designated as the competent authority to enforce the Act, with powers to audit, investigate and impose penalties; it does not say the Commission is already acting under the Act (as_of is the published date).",
+   "as_of": "2024-03-25",
+   "date_precision": "day",
+   "system": "Information Commission of Seychelles",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

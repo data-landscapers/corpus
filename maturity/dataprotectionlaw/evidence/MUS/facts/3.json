@@ -1,0 +1,11 @@
+{
+  "slug": "2026-06-12-dpo-regulations-2026-lexpress",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "L'Express reports the Cabinet approved the Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026 under the Data Protection Act 2017, with a six-month compliance period and entry into force on 1 January 2027.", "as_of": "2026-06-12", "date_precision": "day", "system": "Data Protection Act 2017", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act 2017", "country_label": "Data Protection Act 2017", "class": "general", "platform": "", "owner": "", "tiers": "public and private sectors"},
+    {"system": "Data Protection Office", "country_label": "Data Protection Office", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

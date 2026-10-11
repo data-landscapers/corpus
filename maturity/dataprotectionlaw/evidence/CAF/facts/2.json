@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-15-caf-loi-24-001-protection-donnees-personnelles-texte-promulgue",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "The promulgated text of Loi n° 24.001 on personal data protection, adopted mid-January 2024, is held; the document gives no commencement date and no compliance period (date is the published date, month precision).", "as_of": "2024-01", "date_precision": "month", "system": "Loi n° 24.001 portant protection des données à caractère personnel", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "Article 57 gives the ministry in charge of the digital economy twelve months from promulgation to set up the data protection agency, and meanwhile vests the agency's missions in that ministry; the text names no composition, seat or financing.", "as_of": "2024-01", "date_precision": "month", "system": "Loi n° 24.001 portant protection des données à caractère personnel", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Loi n° 24.001 portant protection des données à caractère personnel", "country_label": "Loi n° 24.001", "class": "general", "platform": "", "owner": "Assemblée Nationale / Présidence de la République", "tiers": ""},
+    {"system": "Agence en charge de la protection des données à caractère personnel", "country_label": "Agence en charge de la protection des données à caractère personnel", "class": "authority", "platform": "", "owner": "Ministère en charge de l'Economie Numérique des postes et Télécommunications (interim)", "tiers": ""}
+  ],
+  "note": "Article 58 provides for an implementing decree; no regulation is stated as issued; no application is stated."
+}

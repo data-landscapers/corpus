@@ -1,0 +1,90 @@
+{
+ "slug": "2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Digital Policy Alert and Tech Hive Advisory roundup treats Ghana's Data Protection Act 2012 as an existing law that is being amended (stated as an existing law in the process of amendment, not as an explicit 'in force' statement); dated by the roundup's published date.",
+   "as_of": "2026-01-11",
+   "date_precision": "day",
+   "system": "Data Protection Act 2012",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The roundup says amendments to the Data Protection Act 2012 are in process, would add rules on children's and sensitive data, retention limits, international transfers, impact assessments and privacy by design, and that a draft Data Protection Act, 2025 was published requiring domestic storage of certain data; no month is given for the draft, so 2025 is used.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Act 2012 (amendment) / draft Data Protection Act, 2025",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The roundup reports that the Ghana Data Protection Commission issued an ultimatum to data controllers that a prosecution drive against non-compliant entities would start in January, and unveiled a privacy seal, after a year of amnesty and awareness; no month is given, so 2025 is used.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Commission (DPC)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The roundup reports the Commission announced an investigation into a data breach involving a healthcare solution with unauthorised access to patient data, and urged data controllers and processors to register with it; no decision is stated and no date is given, so 2025 is used.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Commission (DPC)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "The roundup reports (published 2026-01-11, events undated within 2025) that the DPC announced a prosecution drive from January and a privacy seal, and that amendments to the Act and a draft Data Protection Act, 2025 are in progress.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Data Protection Commission (DPC)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Commission (DPC)",
+   "country_label": "Data Protection Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Data Protection Act 2012",
+   "country_label": "Data Protection Act 2012",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Communications Act 2025 amendments",
+   "country_label": "",
+   "class": "sectoral",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Cybersecurity (Amendment) Bill",
+   "country_label": "",
+   "class": "adjacent",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

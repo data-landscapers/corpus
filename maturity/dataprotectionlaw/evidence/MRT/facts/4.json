@@ -1,0 +1,70 @@
+{
+ "slug": "2026-04-29-mauritanie-apd-reunion-mensuelle-transferts-etranger-cloud-deliberations-2025-004-005",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APD held its ordinary monthly meeting on 29 April 2026 under its president, with members and the Government Commissioner present.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "At its 29 April 2026 meeting the APD approved amendments to deliberations 2025/004 (transfers abroad) and 2025/005 (cloud abroad), approved deliberations on the El Hajj platform and CNASS digitalisation, and discussed complaints 008-2025 and 001-2026 and the BEYANAT-HIMAYE compliance answers.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 relative à la protection des données à caractère personnel",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "The APD approved on 29 April 2026 amendments to its deliberations 2025/004 and 2025/005, which fix rules for foreign data transfers and foreign cloud use; the minute names no article changed.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "Délibérations n° 2025/004 and 2025/005",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Loi n° 2017-020 relative à la protection des données à caractère personnel",
+   "country_label": "Loi 2017-020 of 22 July 2017",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Délibération n° 2025/004",
+   "country_label": "Délibération 004/2025 (transfers abroad)",
+   "class": "regulation",
+   "platform": "",
+   "owner": "APD",
+   "tiers": ""
+  },
+  {
+   "system": "Délibération n° 2025/005",
+   "country_label": "Délibération 005/2025 (cloud abroad)",
+   "class": "regulation",
+   "platform": "",
+   "owner": "APD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

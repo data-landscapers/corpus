@@ -1,0 +1,72 @@
+{
+ "slug": "2026-03-27-potraz-warning-unlicensed-data-controllers",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "TechnoMag states POTRAZ is the designated Data Protection Authority under section 5 of the Act and issued a notice to unlicensed organisations; dated by publication.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "TechnoMag states the Act establishes the data protection framework and that licensing under it is mandatory and enforced by notice; dated by publication.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "TechnoMag states SI 155 of 2024 was promulgated in September 2024 and required a Data Controller Licence by 12 March 2025.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "TechnoMag reports POTRAZ issued a notice warning unlicensed organisations processing personal data to comply immediately, noting widespread non-compliance after the 12 March 2025 deadline; no sanction is reported. Dated by publication.",
+   "as_of": "2026-03-27",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act",
+   "class": "general",
+   "platform": "",
+   "owner": "Parliament of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024)",
+   "country_label": "SI 155 of 2024",
+   "class": "regulation",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

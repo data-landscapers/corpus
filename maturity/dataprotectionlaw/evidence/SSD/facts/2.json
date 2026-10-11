@@ -1,0 +1,12 @@
+{
+  "slug": "2026-05-05-digital-rights-frontlines-data-protection-bill-workshop",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "Digital Rights Frontlines, with the NCA, convened a two-day workshop of over 30 stakeholders to review and validate the Data Protection Bill, 2025 (Version 1.0) and make recommendations for its finalisation; the post is dated 2026-05-05 and gives no separate event date.", "as_of": "2026-05-05", "date_precision": "day", "system": "Data Protection Bill, 2025", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "A consultative workshop to validate Version 1.0 of the Data Protection Bill, 2025 was held with MPs, civil society, the UNMISS legal unit and the NCA (event date taken from the post date, 2026-05-05).", "as_of": "2026-05-05", "date_precision": "day", "system": "Data Protection Bill, 2025", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Bill, 2025 (Version 1.0)", "country_label": "Data Protection Bill, 2025", "class": "general", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "National Communication Authority (NCA)", "country_label": "National Communication Authority", "class": "authority", "platform": "", "owner": "Government of South Sudan", "tiers": "national"}
+  ],
+  "note": ""
+}

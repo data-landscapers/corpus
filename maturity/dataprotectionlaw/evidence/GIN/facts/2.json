@@ -1,0 +1,10 @@
+{
+  "slug": "2024-06-21-cnt-autorite-protection-donnees-apdp-en-debat",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The CNT reported that on 20 June 2024 its commissions debated a bill to establish the Autorité de Protection des Données à caractère Personnel, an authority the 2016 cybersecurity and personal data protection law provides for, with members' designation and mandates still contested and plenary adoption pending.", "as_of": "2024-06-20", "date_precision": "day", "system": "Loi L/2016/037/AN", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Autorité de Protection des Données à caractère Personnel (APDP)", "country_label": "APDP", "class": "authority", "platform": "", "owner": "Republic of Guinea (bill before the CNT)", "tiers": ""}
+  ],
+  "note": ""
+}

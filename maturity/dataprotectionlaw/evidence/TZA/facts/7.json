@@ -1,0 +1,14 @@
+{
+  "slug": "2026-01-08-pdpc-minister-final-ultimatum-personal-data-registration",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "PDPC reports that on 8 January 2026 the Minister of Communication and Information Technology gave institutions not yet registered with the PDPC a final three-month grace period to register, with no decision or sanction yet.", "as_of": "2026-01-08", "date_precision": "day", "system": "Personal Data Protection Act, Chapter 44", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "PDPC reports the Minister instructed the Personal Data Protection Commission on 8 January 2026 to prepare nationwide compliance audits, and the Commission was registering institutions.", "as_of": "2026-01-08", "date_precision": "day", "system": "Personal Data Protection Commission", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "PDPC reports the Minister stating enforcement under the Personal Data Protection Act, Chapter 44, and its Regulations will follow when the grace period ends, treating the Act as in force on 8 January 2026.", "as_of": "2026-01-08", "date_precision": "day", "system": "Personal Data Protection Act, Chapter 44", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "PDPC reports a final three-month registration window announced on 8 January 2026 and an instruction to begin compliance audits once it expires, with enforcement to follow.", "as_of": "2026-01-08", "date_precision": "day", "system": "Personal Data Protection Act, Chapter 44", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Act, Chapter 44", "country_label": "Personal Data Protection Act", "class": "general", "platform": "", "owner": "Government of Tanzania", "tiers": ""},
+    {"system": "Personal Data Protection Commission", "country_label": "PDPC", "class": "authority", "platform": "", "owner": "Ministry of Communication and Information Technology", "tiers": ""}
+  ],
+  "note": ""
+}

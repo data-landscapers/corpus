@@ -1,0 +1,9 @@
+{
+  "slug": "2025-06-11-house-reviews-privacy-data-protection-bill-observer",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "The Liberian Observer reports that on 10 June 2025 the House of Representatives referred the President's standalone data protection bill to its Committee on Post and Telecommunication for review within two weeks, the plenary agreeing unanimously.", "as_of": "2025-06-10", "date_precision": "day", "system": "An Act for the Collection, Processing, Transmission, Storage, Protection, and Use of Personal Information in Liberia", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "none", "fact": "The Liberian Observer states that Liberia currently lacks a dedicated law on personal data protection; the report names no data protection authority.", "as_of": "2025-06-11", "date_precision": "day", "system": "An Act for the Collection, Processing, Transmission, Storage, Protection, and Use of Personal Information in Liberia", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

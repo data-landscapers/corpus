@@ -1,0 +1,13 @@
+{
+  "slug": "2026-06-17-mitci-mauritius-data-protection-officer-regulations-2026",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "Government Notice No. 117 of 2026, the Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026, was made by the Minister under section 55 of the Data Protection Act on 17 June 2026, to come into operation on 1 January 2027.", "as_of": "2026-06-17", "date_precision": "day", "system": "Data Protection Act", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The regulations were made after consultation with the Data Protection Commissioner, and give the Office (Data Protection Office) roles in receiving DPO notifications within 14 days, certifying DPOs and approving training institutions.", "as_of": "2026-06-17", "date_precision": "day", "system": "Data Protection Office", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "New DPO regulations were made on 17 June 2026 requiring every controller to designate a data protection officer, with non-compliance an offence liable to a fine up to 100,000 rupees and imprisonment up to 5 years.", "as_of": "2026-06-17", "date_precision": "day", "system": "Data Protection Act", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Data Protection Act", "country_label": "Data Protection Act", "class": "general", "platform": "", "owner": "Government of Mauritius", "tiers": ""},
+    {"system": "Data Protection Office", "country_label": "the Office", "class": "authority", "platform": "", "owner": "Data Protection Commissioner", "tiers": ""}
+  ],
+  "note": ""
+}

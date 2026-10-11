@@ -1,0 +1,44 @@
+{
+  "slug": "2024-02-02-malawi-data-protection-act-2024-batch2_gov_b_infra",
+  "facts": [
+    {
+      "sub_indicator": "general",
+      "aspect": "standing",
+      "value": "enacted",
+      "fact": "The Data Protection Act, 2024 (Act No. 3 of 2024) was assented to by the President on 31 January 2024 and published on 2 February 2024, and under section 1 it comes into operation on a date the Minister appoints by Gazette notice; this document records no such notice.",
+      "as_of": "2024-01-31",
+      "date_precision": "day",
+      "system": "Data Protection Act, 2024",
+      "class": "general"
+    },
+    {
+      "sub_indicator": "general",
+      "aspect": "authority",
+      "value": "provided",
+      "fact": "Section 4 of the Act designates the Malawi Communications Regulatory Authority as the Data Protection Authority, with independence from direction, and sections 5 and 6 give it enforcement functions and power to issue compliance orders; the document does not say the authority has begun acting under the Act.",
+      "as_of": "2024-01-31",
+      "date_precision": "day",
+      "system": "Data Protection Act, 2024",
+      "class": "general"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Data Protection Act, 2024",
+      "country_label": "Data Protection Act, 2024 (Act No. 3 of 2024)",
+      "class": "general",
+      "platform": "",
+      "owner": "Parliament of Malawi",
+      "tiers": ""
+    },
+    {
+      "system": "Malawi Communications Regulatory Authority",
+      "country_label": "Data Protection Authority (designated under section 4)",
+      "class": "authority",
+      "platform": "",
+      "owner": "Government of Malawi",
+      "tiers": ""
+    }
+  ],
+  "note": "Capture ends at section 35; Parts VII to X, including section 52 on regulations and section 53 on transitional provision, were not reached, so nothing is recorded on regulations issued or on application."
+}

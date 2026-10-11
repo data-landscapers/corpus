@@ -1,0 +1,54 @@
+{
+ "slug": "2026-04-07-ndpc-investigates-remita-sterling-breach",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The NDPC issued a Notice of Investigation on 1 April 2026 into an alleged data breach involving Remita Payment Services Ltd, Sterling Bank and related entities, announced in a press release dated 5 April 2026; no decision is reported.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The NDPC, under National Commissioner and CEO Vincent Olatunji, issued a Notice of Investigation on 1 April 2026 under its regulatory procedures.",
+   "as_of": "2026-04-01",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The NDPC cites the Nigeria Data Protection Act (2023) as the basis requiring digital payment operators to have adequate data protection measures, in a press release dated 5 April 2026.",
+   "as_of": "2026-04-05",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Act 2023",
+   "country_label": "Nigeria Data Protection Act 2023",
+   "class": "general",
+   "platform": "",
+   "owner": "National Assembly; enforced by the NDPC",
+   "tiers": "national"
+  },
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "Nigeria Data Protection Commission",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government; National Commissioner and CEO Vincent Olatunji",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

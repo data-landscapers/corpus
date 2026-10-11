@@ -1,0 +1,62 @@
+{
+ "slug": "2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Michalsons states the Act is enforced by POTRAZ, which also maintains a public register of automated data processing; dated by publication.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Michalsons describes the Cyber and Data Protection Act, 2021 as Zimbabwe's main data protection law applying to all public and private organisations; dated by publication.",
+   "as_of": "2025-06-30",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Michalsons states the Licensing of Data Controllers and Appointment of Data Protection Officers Regulations came into force on 12 September 2024.",
+   "as_of": "2024-09-12",
+   "date_precision": "day",
+   "system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cyber and Data Protection Act [Chapter 12:07]",
+   "country_label": "Cyber and Data Protection Act",
+   "class": "general",
+   "platform": "",
+   "owner": "Parliament of Zimbabwe",
+   "tiers": ""
+  },
+  {
+   "system": "Cyber and Data Protection (Licensing of Data Controllers and Appointment of Data Protection Officers) Regulations, 2024 (SI 155 of 2024)",
+   "country_label": "SI 155 of 2024",
+   "class": "regulation",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  },
+  {
+   "system": "POTRAZ",
+   "country_label": "Postal and Telecommunications Regulatory Authority of Zimbabwe",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

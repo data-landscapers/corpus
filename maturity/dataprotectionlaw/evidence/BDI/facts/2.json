@@ -1,0 +1,12 @@
+{
+  "slug": "2026-01-16-burundi-personal-data-protection-law-techafricanews",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "passed", "fact": "Burundi's National Assembly met on 15 January 2026 to examine and approve a new bill on personal data protection, structured in eight chapters; the document does not report promulgation.", "as_of": "2026-01-15", "date_precision": "day", "system": "Burundi personal data protection law", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The law establishes an independent administrative authority to oversee personal data protection, and a dedicated body to implement and monitor data protection regimes; no appointment is reported.", "as_of": "2026-01-15", "date_precision": "day", "system": "Burundi personal data protection law", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Burundi personal data protection law", "country_label": "new bill on personal data protection", "class": "general", "platform": "", "owner": "Ministry of Interior (sponsor); National Assembly", "tiers": ""},
+    {"system": "Independent administrative authority for personal data protection", "country_label": "independent administrative authority", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

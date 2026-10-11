@@ -1,0 +1,15 @@
+{
+  "slug": "2025-11-28-morocco-cndp-nouvelles-deliberations",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted",
+     "fact": "The CNDP, Morocco's national commission for the control of personal data protection, validated five new deliberations (D-939 to D-943 of 2025) on 28 November 2025, showing it acting as the supervisory body.",
+     "as_of": "2025-11-28", "date_precision": "day", "system": "CNDP", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity",
+     "fact": "The CNDP published five deliberations dated 28 November 2025 setting model declaration and authorisation forms for cookies, newsletters, patient follow-up, healthcare video surveillance and workplace access control, with no decision on a named controller.",
+     "as_of": "2025-11-28", "date_precision": "day", "system": "CNDP", "class": "general"}
+  ],
+  "systems": [
+    {"system": "CNDP", "country_label": "Commission Nationale de contrôle de la protection des Données à caractère Personnel", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

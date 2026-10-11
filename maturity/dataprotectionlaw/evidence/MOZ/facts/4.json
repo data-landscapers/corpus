@@ -1,0 +1,34 @@
+{
+ "slug": "2026-08-26-clubofmozambique-intic-data-protection-legislation-oversight",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "INTIC president Lourino Chemane said on 2026-08-25 that the authorities were preparing to submit the draft data protection law to parliament; no submission date is stated.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "Personal Data Protection draft law",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data protection bill",
+   "country_label": "Data protection bill",
+   "class": "general",
+   "platform": "",
+   "owner": "INTIC / Government",
+   "tiers": ""
+  },
+  {
+   "system": "Electronic Transactions Act",
+   "country_label": "Electronic Transactions Act",
+   "class": "sectoral",
+   "platform": "",
+   "owner": "INTIC",
+   "tiers": "organisations processing personal data"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "2025-07-30-apd-mudawala-005-2025-khadamat-sahabiya-cloud-kharij",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Deliberation 005/2025 of 30 July 2025 is taken under law 2017-020 of 22 July 2017 and requires controllers to follow the law's prior-formalities regime, which shows the law in operation on that date.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APD met on 30 July 2025 under its president with seven named members, under decree 2022-13 of 18 February 2022 on its composition and operation.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Decree 2022-13 of 18 February 2022 on the composition, organisation and operation of the APD is cited as in force alongside the law; the document does not say the decree was made under the law.",
+   "as_of": "2022-02-18",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Deliberation 005/2025 (30 July 2025, amended) makes prior APD authorisation mandatory for public and private controllers using cloud services abroad and fixes four contract clauses.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The APD's deliberation 005/2025 of 30 July 2025 requires prior authorisation for use of foreign cloud services under the law's prior-formalities regime.",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Loi n° 2017-020 on personal data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Loi n° 2017-020 on personal data protection",
+   "country_label": "Loi n° 2017-020 du 22 juillet 2017 relative à la protection des données à caractère personnel",
+   "class": "general",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Autorité de Protection des Données à Caractère Personnel (APD)",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-27-fij-nin-bvn-illegal-data-market",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "FIJ reports the NDPC still listed the company Timztech as a registered Data Processor of Major Importance at press time, while FIJ found no evidence of any NDPC or NIMC order behind the takedown of the platforms and said the NDPC stopped corresponding with it after promising to investigate.", "as_of": "2026-08-27", "date_precision": "day", "system": "Nigeria Data Protection Act 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "FIJ reports the NDPC maintains a registration list of Data Processors of Major Importance, which places regulatory obligations on those listed.", "as_of": "2026-08-27", "date_precision": "day", "system": "Nigeria Data Protection Act 2023", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Nigeria Data Protection Commission", "country_label": "NDPC", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}
