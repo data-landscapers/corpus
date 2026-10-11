@@ -250,7 +250,7 @@ def passes(rows: list[dict]) -> None:
     """Mark how far down the ranked list each row sits, in place."""
     first = 0
     for r in rows:
-        if "cell" in r["why"].split("+"):
+        if "cell" in r.get("why", "").split("+"):
             r["pass"] = "0"
         elif r["tier"] != "news":
             r["pass"] = "rung"
