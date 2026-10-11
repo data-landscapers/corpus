@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "general",
+ "aspect": "regulations",
+ "fact": "The EDPA issued General Notice 2/2025, a directive under section 14 of the Act requiring all controllers and processors to complete data mapping by 31 March 2026.",
+ "title": "EDPA General Notice No 2/2025 Directive on the Mandatory Conducting of Data Mapping and Data Inventory",
+ "publisher": "Eswatini Data Protection Authority (ESCCOM)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

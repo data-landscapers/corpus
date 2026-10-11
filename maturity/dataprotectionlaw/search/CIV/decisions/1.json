@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "general",
+ "aspect": "application",
+ "fact": "By Décision n°2024-1177 of 30 October 2024 the data protection authority issued a formal notice and warning (mise en demeure et avertissement) to NAS Ivoire Menzies Aviation on personal data protection.",
+ "title": "Décision n°2024-1177 de l’Autorité de Protection de la République de Côte d’Ivoire en date du 30 octobre 2024 portant mise en demeure et avertissement de la société NAS Ivoire Menzies Aviation en matière de protection des données a caractère personnel",
+ "publisher": "ARTCI",
+ "published": "2024-10-30",
+ "date_source": "source",
+ "why_not": "the fetch returned the site's cookie notice and not the decision; asked of OSINT in the delivery note"
+}

@@ -100,12 +100,12 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Malabo 
 
 ## 7. Tasks, in order
 
-- [x] **D0. Prepare the criteria** (method step 1): this file and `study.json`, 2026-10-11.
+- [x] **D0. Prepare the criteria**: this file and `study.json`, 2026-10-11.
 - [x] **D1. Bill's rulings**: ruling 1 amended, the rest stand, 2026-10-11.
 - [x] **D2. Review all 54 countries**, method §4: the 369 documents the frame's cells cite, and eight more, in 116 calls; 769 facts.
-- [x] **D3. Test and fix the ladder**: 13 corrections; 2 at stage 5, 9 at 4, 33 at 3, 8 at 2, 1 at 1, one with no evidence. `instruments.csv` is left to D5.
-- [ ] **D4. Search and hand over**, method §5.
-- [ ] **D5. Re-read and stage**, method §7.
+- [x] **D3. Test and fix the ladder**: 13 corrections; 2 at stage 5, 9 at 4, 33 at 3, 8 at 2, 1 at 1, one with no evidence.
+- [x] **D4. Search and hand over**: 47 searches, 47 documents for 28 countries, note 228.
+- [ ] **D5. Re-read and stage**, method §7, with `instruments.csv`.
 - [ ] **D6. Write, render and lint.** **D7. Report to Bill.**
 
 **The rulings of D1**:
