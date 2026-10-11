@@ -13,6 +13,10 @@
     "gov.protect--data-protection-authority",
     "gov.legislate--data-protection-legislation"
   ],
+  "carry_studies": [
+    "dataprotectionlaw"
+  ],
+  "token_ceiling": 40000000,
   "terms": [
     "data protection authority",
     "data protection commission",
@@ -59,112 +63,43 @@
   ],
   "classes": [
     "authority",
-    "informal",
-    "sectoral",
-    "law",
-    "court",
-    "network",
-    "adjacent",
-    "regional"
+    "other"
   ],
   "aspects": [
     {
       "key": "standing",
-      "name": "Standing",
+      "name": "Named in law and appointed",
       "role": "coverage",
       "defer": [
         "none"
       ],
       "prefer": [
-        "lapsed",
         "constituted",
-        "provided",
-        "proposed"
+        "provided"
       ],
       "values": [
         "constituted",
-        "lapsed",
         "provided",
-        "proposed",
         "none"
       ]
     },
     {
-      "key": "operations",
-      "name": "Operations",
+      "key": "rulings",
+      "name": "Rulings and published figures",
       "role": "coverage",
       "defer": [
         "none"
       ],
       "prefer": [
         "reported",
-        "enforcing",
-        "active"
+        "ruled"
       ],
       "values": [
         "reported",
-        "enforcing",
-        "active",
+        "ruled",
         "none"
-      ]
-    },
-    {
-      "key": "resources",
-      "name": "Resources",
-      "role": "coverage",
-      "defer": [
-        "none"
-      ],
-      "values": [
-        "published",
-        "none"
-      ]
-    },
-    {
-      "key": "seat",
-      "name": "Seat",
-      "role": "qualifier",
-      "window_months": 120,
-      "prefer": [
-        "ministry",
-        "hosted",
-        "own"
-      ],
-      "values": [
-        "own",
-        "hosted",
-        "ministry"
-      ]
-    },
-    {
-      "key": "last12",
-      "name": "Last twelve months",
-      "role": "qualifier",
-      "window_months": 12,
-      "values": [
-        "advancing",
-        "no-change",
-        "regressing"
       ]
     }
   ],
-  "cap": {
-    "aspect": "seat",
-    "above": 4,
-    "flag": "ministry unit",
-    "any": [
-      "own",
-      "hosted"
-    ]
-  },
-  "flags": [
-    "ministry unit",
-    "hosted",
-    "no statutory authority",
-    "sectoral only",
-    "network member",
-    "vacant",
-    "advancing",
-    "regressing"
-  ]
+  "flags": []
 }
