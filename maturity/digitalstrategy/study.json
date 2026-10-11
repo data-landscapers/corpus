@@ -1,0 +1,218 @@
+{
+  "id": "digitalstrategy",
+  "study_file": "maturity-study-digitalstrategy.md",
+  "subjects": [
+    "gov.policy"
+  ],
+  "stage_topic": "gov.policy",
+  "redraws": [
+    "gov.policy--digital-transformation-strategy"
+  ],
+  "terms": [
+    "digital transformation strategy",
+    "national digital strategy",
+    "digital strategy",
+    "digital economy strategy",
+    "digital economy policy",
+    "digital economy master plan",
+    "digital economy blueprint",
+    "digital economy framework",
+    "digital agenda",
+    "digital master plan",
+    "digital transformation agenda",
+    "digital transformation blueprint",
+    "digital transformation policy",
+    "digital transformation roadmap",
+    "digital transformation plan",
+    "digital transition agenda",
+    "digitalisation policy",
+    "digitalization policy",
+    "digitalisation strategy",
+    "digitalization strategy",
+    "digital development policy",
+    "digital policy",
+    "digital roadmap",
+    "digital government strategy",
+    "e-government strategy",
+    "e-government master plan",
+    "ICT master plan",
+    "ICT roadmap",
+    "smart nation strategy",
+    "digital readiness assessment",
+    "stratégie numérique",
+    "stratégie nationale du numérique",
+    "stratégie nationale de transformation numérique",
+    "stratégie de transformation numérique",
+    "stratégie de transformation digitale",
+    "stratégie nationale de développement du numérique",
+    "stratégie nationale de l'économie numérique",
+    "stratégie de l'économie numérique",
+    "plan stratégique numérique",
+    "plan national du numérique",
+    "plan numérique",
+    "plan directeur de digitalisation",
+    "plan directeur du numérique",
+    "politique nationale du numérique",
+    "politique nationale de développement du numérique",
+    "politique sectorielle de l'économie numérique",
+    "agenda numérique",
+    "agenda national de transformation numérique",
+    "feuille de route numérique",
+    "feuille de route du numérique",
+    "estratégia de transformação digital",
+    "estratégia nacional de transformação digital",
+    "estratégia digital",
+    "estratégia para a economia digital",
+    "estratégia nacional para a governação digital",
+    "agenda digital",
+    "agenda de transição digital",
+    "plano de transformação digital",
+    "estrategia de transformación digital",
+    "الاستراتيجية الوطنية للتحول الرقمي",
+    "استراتيجية التحول الرقمي",
+    "الاستراتيجية الرقمية",
+    "الأجندة الرقمية",
+    "خطة التحول الرقمي",
+    "Digital Transformation Strategy for Africa"
+  ],
+  "sub_indicators": [
+    {
+      "key": "national",
+      "label": "National strategy",
+      "subject": "gov.policy",
+      "text": "Digital transformation strategy: national strategy",
+      "indicator_id": "gov.policy--digital-transformation-strategy-national-strategy",
+      "class": "national"
+    }
+  ],
+  "classes": [
+    "national",
+    "government",
+    "development-plan",
+    "ministry-plan",
+    "directive",
+    "programme",
+    "sector-ict",
+    "thematic",
+    "regional"
+  ],
+  "aspects": [
+    {
+      "key": "governance",
+      "name": "Governance and finance",
+      "role": "qualifier",
+      "window_months": 36,
+      "facets": {
+        "body": [
+          "mandated",
+          "none"
+        ],
+        "finance": [
+          "domestic",
+          "donor",
+          "not-stated"
+        ]
+      }
+    },
+    {
+      "key": "standing",
+      "name": "Standing",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "adopted",
+        "validated",
+        "drafting",
+        "announced"
+      ],
+      "values": [
+        "adopted",
+        "validated",
+        "drafting",
+        "announced",
+        "none"
+      ]
+    },
+    {
+      "key": "period",
+      "name": "Text and period",
+      "role": "coverage",
+      "defer": [
+        "unpublished"
+      ],
+      "values": [
+        "current",
+        "open",
+        "expired",
+        "unpublished"
+      ]
+    },
+    {
+      "key": "plan",
+      "name": "Delivery plan",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "costed",
+        "actions"
+      ],
+      "values": [
+        "costed",
+        "actions",
+        "none"
+      ]
+    },
+    {
+      "key": "reporting",
+      "name": "Reporting",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "results-all",
+        "results",
+        "activity"
+      ],
+      "values": [
+        "results-all",
+        "results",
+        "activity",
+        "none"
+      ]
+    },
+    {
+      "key": "last12",
+      "name": "Last twelve months",
+      "role": "qualifier",
+      "window_months": 12,
+      "values": [
+        "advancing",
+        "no-change",
+        "regressing"
+      ]
+    }
+  ],
+  "cap": {
+    "aspect": "governance",
+    "above": 3,
+    "flag": "no budget or body",
+    "all": [
+      "body:mandated",
+      "finance:domestic"
+    ]
+  },
+  "flags": [
+    "no budget or body",
+    "government only",
+    "in the national plan",
+    "lapsed",
+    "text unpublished",
+    "advancing",
+    "regressing"
+  ]
+}

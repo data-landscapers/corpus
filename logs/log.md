@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-10-11 07:03 · **MATURITY STUDY digitalstrategy** · unclocked · step 1, criteria prepared for `gov.policy--digital-transformation-strategy`, the first instrument study: one sub-indicator, nine classes, six aspects, a ladder set above stage 3 by published reporting; seven rulings asked of Bill. Dry reading list 3,433 listings, 4.5m words. Nothing run; waits for step 2.
 2026-10-11 00:39 · **HOUSEKEEPING** · unclocked · job 12 worked once: four health citations repaired (NER, SDN, TCD, TZA), cause the status baselines; screen lists 90 further paper-records sentences, 29 with a body silent on paper; job narrowed, still open — ok
 2026-10-11 00:38 · **COPY** · unclocked · R2 copy: 2,370 objects, 872.5 MB in the bucket; pulled 1,086 (436.9 MB) to the editions copy; 0 faults — ok
 2026-10-11 00:27 · **RENDER** · 22m · 251 documents rendered, 0 failed; home, countries, topics, catalogue, finance, datasets, maturity built; 79 editions pruned, 7,332 objects to R2; deployed — ok
