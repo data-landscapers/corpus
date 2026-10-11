@@ -12,6 +12,8 @@ last_reviewed: 2026-10-11
 
 **The one-line brief.** *A study stages an indicator once. Every night's arrivals are read for facts that bear on it, a fact that could move a cell has the cell reassessed, and in rotation each indicator is reassessed whole, all 54 countries against the one ladder, and searched for what it does not hold.*
 
+**Held** *(Bill, 2026-10-11)*: **nothing here runs until every indicator has had its first study.** `study-update.py` → `HELD` is the switch: while it is `True`, `list`, `order` and `next` exit 1, which ends stage 4c and the rotation before either starts. Bill says when it is lifted.
+
 `scripts/study-update.py` is the mechanical half and its docstring holds the files and the rotation's rules; do not re-derive them. A country is worked under the three briefs in `maturity/documentation/`: `drafter-brief.md` for a fact, `stager-brief.md` for a stage, `writer-brief.md` for the summaries. **CC does the work itself, in the run; no agent is started.**
 
 ## Stage 4c — the night's arrivals
@@ -81,9 +83,9 @@ python scripts/study-update.py next           # any other cycle
 
 ## The rotation searches for what is not held
 
-*(Bill, 2026-10-11.)* **A study populates an indicator from what is held and does not search; the deeper look is here, a little each turn.** After step 7, for tonight's indicator:
+*(Bill, 2026-10-11.)* **A study populates an indicator from what is held and does not search; the deeper look is here.** After step 7, for tonight's indicator:
 
-1. **Pick at most ten cells whose `gaps` name an unanswered question**: those with no stage first, then the lowest stage, then the cell searched longest ago (`maturity/{id}/search/searched.csv`).
+1. **Take every cell whose `gaps` name an unanswered question**, all countries *(Bill, 2026-10-11)*.
 2. **Search each under the method's §5**: one brief per cell to `searcher-brief.md`, `scripts/study-stage.py` to fetch and stage, the handover and its one `[ACT]` note. This is the one place the runbook starts agents.
 3. **Stamp `study.json` → `searched`** with the date and commit with the rotation.
 

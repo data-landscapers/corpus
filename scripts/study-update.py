@@ -59,6 +59,9 @@ ROTATION_FIELDS = ["study", "key", "indicator_id", "last_reviewed"]
 HISTORY_FIELDS = ["date", "iso3", "indicator_id", "kind", "from", "to", "sources", "note"]
 KINDS = ("fact", "review", "ladder")
 OUTCOMES = ("nothing", "fact", "reassessed")
+# Bill, 2026-10-11: the update is not run until every indicator has had its first study, so
+# the quota goes on building them. `list`, `order` and `next` name nothing while this is True.
+HELD = True
 MIN_GAP_DAYS = 30          # an indicator is not reassessed whole twice inside this
 SEARCH_EVERY_DAYS = 365
 
@@ -174,6 +177,11 @@ def main(argv=None, now: dt.datetime | None = None, root: str | None = None,
     a = ap.parse_args(argv)
     now = now or dt.datetime.now()
     path = path or ROTATION
+
+    if HELD and a.cmd in ("list", "order", "next"):
+        print("held: the maturity update waits until every indicator has its first study "
+              "(Bill, 2026-10-11)")
+        return 1
 
     if a.cmd == "order":
         due, found = search_due(root, now.date()), 0

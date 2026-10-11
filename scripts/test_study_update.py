@@ -23,6 +23,7 @@ import study_lib  # noqa: E402
 _spec = importlib.util.spec_from_file_location("su", HERE / "study-update.py")
 su = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(su)
+su.HELD = False   # the cases test the rotation and the arrivals, not the hold
 
 fails: list[str] = []
 
@@ -95,6 +96,14 @@ def main() -> int:
         check("not due inside a year", su.search_due(str(root), dt.date(2027, 10, 6)), [])
         check("due after it", su.search_due(str(root), dt.date(2027, 10, 8)),
               ["standing search due: t, last searched 2026-10-06"])
+
+    # The hold (Bill, 2026-10-11): nothing is named while the indicators are still being built.
+    su.HELD = True
+    held = [su.main([c]) for c in ("next", "order", "list")]
+    su.HELD = False
+    if held != [1, 1, 1]:
+        fails.append("held")
+    print("  ok    held: list, order and next name nothing" if held == [1, 1, 1] else "  FAIL  held")
 
     print(f"\n{len(fails)} failed" if fails else "\nall ok")
     return 1 if fails else 0

@@ -70,7 +70,7 @@ Output: `systems.csv`, one row per named thing per country.
 
 ## 5. Search: the update's work, not the study's
 
-**A study populates its indicator from what is held** *(Bill, 2026-10-11)*: it does not search the web and hands nothing to OSINT. A question nothing held answers is printed as *Not held*. **The rotation in `MATURITY-UPDATE.md` searches for those gaps, a few cells a turn**, and this section is how.
+**A study populates its indicator from what is held** *(Bill, 2026-10-11)*: it does not search the web and hands nothing to OSINT. A question nothing held answers is printed as *Not held*. **The rotation in `MATURITY-UPDATE.md` searches for those gaps, every country that has one**, once the update is running, and this section is how.
 
 One Exa brief per cell with an unanswered question, searchers on Sonnet to `searcher-brief.md`, `scripts/study-stage.py` to fetch and stage. Candidates go flat to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, `READY` written last, under one `[ACT]` note titled *Maturity study {id}: evidence to ingest* with `Affects: outputs/maturity/{id}/`. `python scripts/lint-staged-queue.py {folder}` passes before the note. Records go in `maturity/{id}/search/`; candidate bodies are never committed.
 
