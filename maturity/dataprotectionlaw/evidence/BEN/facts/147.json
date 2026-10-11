@@ -1,0 +1,10 @@
+{
+  "slug": "2020-03-11-ben-decret-n-2020-187-du-11-mars-2020",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Decree 2020-187 of 11 March 2020 was taken on the interior minister's proposal after reasoned opinions of the Autorité de Protection des Données personnelles (APDP).", "as_of": "2020-03-11", "date_precision": "day", "system": "Autorité de protection des données à caractère personnel (APDP)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The authority gave reasoned opinions, undated in the decree, on the draft authorising the national police to collect traveller identity and fingerprint data at borders; general opinions, not a decision on a named controller; date given is the decree's.", "as_of": "2020-03-11", "date_precision": "day", "system": "Autorité de protection des données à caractère personnel (APDP)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The decree of 11 March 2020 is taken under the code du numérique, law n° 2017-20 of 20 April 2018, which it cites as its legal basis.", "as_of": "2020-03-11", "date_precision": "day", "system": "Code du numérique (loi n° 2017-20, as amended by loi n° 2020-35)", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

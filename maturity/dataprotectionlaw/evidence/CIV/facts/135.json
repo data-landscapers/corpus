@@ -1,0 +1,10 @@
+{
+  "slug": "2015-02-04-civ-decret-n2015-79-du-04-fevrier-2015-fixant-les-modalites-de-depot-des-d",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "Decree no. 2015-79 of 4 February 2015, signed by the President, sets the filing, authorisation, withdrawal and fine-recovery procedures under law no. 2013-450 of 19 June 2013 on personal data protection.", "as_of": "2015-02-04", "date_precision": "day", "system": "Decree 2015-79", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The decree names ARTCI as the body that receives declarations, rules on authorisation requests within one month, and imposes withdrawals and fines under the 2013 law; it shows no appointment of members or acting decisions.", "as_of": "2015-02-04", "date_precision": "day", "system": "ARTCI", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The decree, made under law no. 2013-450 of 19 June 2013 on personal data protection, treats the law as operating, with filing fees, prior authorisations and fines up to FCFA 500 million on repeat breach.", "as_of": "2015-02-04", "date_precision": "day", "system": "Law 2013-450", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2022-02-16-ben-decret-n-2022-107-du-16-fevrier-2022",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Decree 2022-107 of 16 February 2022 cites an opinion n° 2021-002 of 25 November 2021 of the Autorité de Protection des Données personnelles, which also has to be consulted before the video-protection database is interconnected and whose seal marks the public notices.", "as_of": "2021-11-25", "date_precision": "day", "system": "Autorité de protection des données à caractère personnel (APDP)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The authority gave opinion n° 2021-002 of 25 November 2021 on the draft decree authorising national video-protection (CCTV) data processing by the interior ministry; a general opinion, with no decision on a named controller or count of decisions.", "as_of": "2021-11-25", "date_precision": "day", "system": "Autorité de protection des données à caractère personnel (APDP)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The decree of 16 February 2022 is taken under the code du numérique, law n° 2017-20 of 20 April 2018 as amended by law n° 2020-35 of 6 January 2021, which it cites as its legal basis and applies to the processing it authorises.", "as_of": "2022-02-16", "date_precision": "day", "system": "Code du numérique (loi n° 2017-20, as amended by loi n° 2020-35)", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

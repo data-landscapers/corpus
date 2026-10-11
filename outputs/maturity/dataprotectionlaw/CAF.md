@@ -1,0 +1,17 @@
+# Central African Republic
+
+## General law
+
+**Authority.** [Loi n° 24.001 provides for a personal data protection agency](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>) and gives the ministry in charge of the digital economy twelve months from promulgation to set it up, with the agency's missions vested in that ministry meanwhile. [Data Protection Africa stated on 28 January 2026 that the authority had not yet been appointed](<https://dataprotection.africa/central-african-republic>).
+
+**Standing.** [Loi n° 24.001 on the protection of personal data was adopted in mid-January 2024 and promulgated](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>); its text gives no commencement date and no compliance period. [Data Protection Africa stated on 28 January 2026 that the country has a data protection law in place](<https://dataprotection.africa/central-african-republic>).
+
+**Regulations.** [The law's text names no composition, seat or financing for the agency](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>).
+
+**Application.** [Until the agency is set up, its missions rest with the ministry in charge of the digital economy](<https://blog.africadataprotection.org/wp-content/uploads/2025/07/Loi_24_001_portant_protection_des_donnes_a_caractere__personnel.pdf>).
+
+**Last twelve months.** [On 28 January 2026 Data Protection Africa recorded the authority as not yet appointed](<https://dataprotection.africa/central-african-republic>).
+
+***Noted, not assessed***. None held.
+
+***Not held***. No regulation, decision, sanction or count of decisions under the law is held. The date the law came into force and any appointment to the agency are not held.

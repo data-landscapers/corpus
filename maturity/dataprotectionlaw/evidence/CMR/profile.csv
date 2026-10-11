@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 CMR,general,authority,qualifier,provided,2024-12-23,CMR-002,,
-CMR,general,standing,coverage,enacted,2024-12-23,CMR-001;CMR-003,,
+CMR,general,standing,coverage,in-force,2026-06-23,CMR-004,CMR-001=enacted;CMR-003=enacted,
 CMR,general,regulations,coverage,,,,,nothing held
 CMR,general,application,coverage,,,,,nothing held
-CMR,general,last12,qualifier,,,,,nothing held
+CMR,general,last12,qualifier,advancing,2026-06-23,CMR-005,,

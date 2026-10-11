@@ -1,0 +1,46 @@
+{
+ "slug": "2025-06-19-mli-sanction-pour-non-respect-des-donnees-personnelles-penalite-de-5-milli",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "Malijet reports the APDP fined Société Aminata Konaté SARL (Bara Mousso) 5 million F CFA for refusing an APDP verification mission, and served it a formal notice for missing mandatory declarations; the article is dated 2025-06-19 and gives no decision date.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APDP conducted verification missions and imposed a fine and a formal notice on a named company (Malijet, 2025-06-19).",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Malijet cites Article 65 of Law no. 2013-015 of 21 May 2013, as amended, as the basis of the fine, set at 5 to 20 million F CFA (2025-06-19).",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Authority (APDP)",
+   "country_label": "APDP Mali",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

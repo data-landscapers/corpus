@@ -1,0 +1,46 @@
+{
+ "slug": "2024-05-14-mli-decret-n2024-0300-pt-rm-du-14-mai-2024-instituant-le-paiement-des-frai",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "regulations",
+   "value": "issued",
+   "fact": "Decree no. 2024-0300/PT-RM of 14 May 2024 sets the fees payable to the APDP: 100,000 F CFA per declaration and 200,000 per authorisation for legal persons, 25,000 and 50,000 for individuals, and 2,000,000 for certification and 10,000,000 for approval of certification bodies; non-profit public services are exempt.",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The decree is made under Law no. 2013-015 of 21 May 2013, as amended, on protection of personal data in Mali, and applies it (decree of 14 May 2024).",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The decree provides that fees are paid to the APDP's revenue office (régie de recettes), which implies a constituted authority operating (decree of 14 May 2024).",
+   "as_of": "2024-05-14",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Authority (APDP)",
+   "country_label": "APDP Mali",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

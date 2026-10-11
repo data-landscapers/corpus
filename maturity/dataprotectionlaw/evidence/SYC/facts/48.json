@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-01-syc-information-commission-annual-report-2025",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Information Commission, with a Chief Information Commissioner, two Information Commissioners and a CEO in post, administers and oversees the Data Protection Act 2023 and reports annually under its section 12(2).", "as_of": "2025", "date_precision": "year", "system": "Data Protection Act 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The report states the Commission administered the Data Protection Act 2023 during 2025, handling 14 cases under it, and that implementation continued to gain momentum.", "as_of": "2025", "date_precision": "year", "system": "Data Protection Act 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The Commission received and handled 14 cases under the Act in 2025 (6 data transfers, 5 breaches, 2 refused deletion requests, 1 consultation), described as guidance, assessment and corrective advice, with no decision or sanction on a named controller and no count of cases settled.", "as_of": "2025", "date_precision": "year", "system": "Data Protection Act 2023", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "During 2025 the post supporting the data protection function was upgraded to Senior level, though the Chief Commissioner states the Act remains at risk of being largely unenforced because the one budgeted technical post is still unfilled.", "as_of": "2025", "date_precision": "year", "system": "Data Protection Act 2023", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

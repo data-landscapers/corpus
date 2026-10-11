@@ -1,0 +1,19 @@
+{
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "issued",
+      "application": "activity",
+      "last12": "no-change",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-012;MRT-013",
+      "gaps": "No source gives a named sanction, order or decision on a named controller, or a published count of decisions for a stated year; the sessions' outcomes are mostly not stated. No row states Malabo ratification, and no row says the law is under revision.",
+      "note": "Law 2017-020 is in force and the APD acts under it, but every application fact is a general deliberation, opinion, authorisation or examined complaint, which D3 reads as activity, so stage 4 is not reached. Last12 is no-change because no dated event is stated as an advance or a reversal; no application row was read differently from its value."
+    }
+  ]
+}

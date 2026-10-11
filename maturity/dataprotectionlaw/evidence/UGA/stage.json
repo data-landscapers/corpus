@@ -1,0 +1,10 @@
+{
+  "iso3": "UGA",
+  "cells": [
+    {"sub_indicator": "general", "stage": "4", "authority": "constituted", "standing": "in-force",
+     "regulations": "issued", "application": "applied", "last12": "advancing", "cap": "",
+     "flags": "advancing", "stage_sources": "UGA-002;UGA-019;UGA-006;UGA-020;UGA-001",
+     "gaps": "No published count of decisions for a stated period, so no reported application and no stage 5. UGA-003 and UGA-012 are registration and campaign activity with no decision.",
+     "note": "Act in force, Regulations 2021 issued, and named decisions on WhatsApp (20 Feb 2026) and Google (18 Jul 2025) fall inside 36 months, with a constituted PDPO. Stage 5 needs a reported year's figures and none is on record; UGA-007 is a closure letter, not itself a decision, and is not relied on."}
+  ]
+}

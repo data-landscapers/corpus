@@ -1,0 +1,6 @@
+{
+  "iso3": "NER",
+  "cells": [
+    {"sub_indicator": "general", "stage": "3", "authority": "none", "standing": "in-force", "regulations": "", "application": "activity", "last12": "regressing", "cap": "", "flags": "regressing", "stage_sources": "NER-008;NER-003;NER-006;NER-005", "gaps": "No regulation made under Law 2022-59 is evidenced, and none is stated absent. No decision or settled count under the law is named; the 2025 figures are files processed and control missions. The decree abolishing the HAPDP is undated (report of 2026-06-13 used), and the newer abolition conflicts with the older constituted and provided authority facts.", "note": "Law 2022-59 is in force (April 2026) but application is only activity (139 compliance files, four control missions, no decision), so stage 4 is not reached. The authority was abolished per the newest source, which would have capped stage 4 in any case."}
+  ]
+}

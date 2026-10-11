@@ -1,0 +1,6 @@
+{
+  "iso3": "CIV",
+  "cells": [
+    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "issued", "application": "activity", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "CIV-003;CIV-009;CIV-007;CIV-001;CIV-004;CIV-005;CIV-008", "gaps": "No named decision on a controller and no published count of decisions, sanctions or complaints settled for a stated year; the 2022 control operations (CIV-004) have no count or sanction. CIV-003 does not say in terms that the law is in force, but CIV-009 treats it as operating.", "note": "Law 2013-450 is in force with Decree 2015-79 issued and ARTCI designated by the decree and acting in 2026 (Certinum), but every application fact is activity, so stage 4 is not met. Authority is constituted, so no cap applies."}
+  ]
+}

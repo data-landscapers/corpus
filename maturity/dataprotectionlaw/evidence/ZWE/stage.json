@@ -1,0 +1,6 @@
+{
+  "iso3": "ZWE",
+  "cells": [
+    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "issued", "application": "activity", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "ZWE-014;ZWE-019;ZWE-023;ZWE-028", "gaps": "No named and dated sanction, order or decision on a controller, and no count of decisions for a stated period; ZWE-021 (2026-05-14) says administrative sanctions are not yet in place and ZWE-025, ZWE-030 and ZWE-032 report none.", "note": "Standing is in-force and regulations are issued, but every application fact (licences, training, notices, announced inspections from 1 September 2026) is activity, so stage 4 is not reached. ZWE-026's 721 licences is a count of licences, not of decisions, and amendments to SI 155 on fines (ZWE-001) concern the regulations, not the Act, so no under revision flag."}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2025-03-18-cod-arptic-arptc-investie-des-missions-de-l-autorite-de-protection-des-don",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Droit-Numérique.cd analysis states that Ordonnance-loi n° 23/010 of 13 March 2023 on the Digital Code, which provides for the Autorité de Protection des Données, entered into force in 2023; the document gives no more exact date for entry into force, so the year is recorded.", "as_of": "2023", "date_precision": "year", "system": "Code du numérique (Ordonnance-loi n° 23/010)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The analysis states that Articles 262 to 270 of the Digital Code provide for the Autorité de Protection des Données, to be set up by Prime Ministerial decree, and that a ministerial order of 17 August 2024 (n° CAB/MIN/PT&N/AKIM/KL/KBS/051/2024) provisionally transferred its missions to ARPTIC pending its establishment; the document does not say ARPTIC has acted in that role.", "as_of": "2024-08-17", "date_precision": "day", "system": "Autorité de Protection des Données (APD)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Code du numérique (Ordonnance-loi n° 23/010)", "country_label": "Code du numérique", "class": "general", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Autorité de Protection des Données (APD)", "country_label": "Autorité de Protection des Données", "class": "authority", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ARPTIC", "country_label": "Autorité de Régulation des Postes, des Télécommunications et des Technologies de l'Information et de la Communication", "class": "authority", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital (tutelle)", "tiers": ""}
+  ],
+  "note": ""
+}

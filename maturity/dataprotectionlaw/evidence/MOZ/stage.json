@@ -1,0 +1,19 @@
+{
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "general",
+      "stage": "2",
+      "authority": "none",
+      "standing": "drafting",
+      "regulations": "",
+      "application": "",
+      "last12": "no-change",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-004;MOZ-005;MOZ-006",
+      "gaps": "MOZ-001 (tabled) and MOZ-002 (advancing) are dated 2026-10-01, after the as-at, and set nothing. MOZ-009 says the draft would designate the ICT regulator as authority (provided, 2025-09-23) but the newer MOZ-013 (October 2025) says the Data Protection Office is not established, so none stands; no law exists, so regulations and application are not held.",
+      "note": "A bill is in draft as at 2026-09-30 and nothing before that date shows it before parliament, so the country is at stage 2, not 3, which needs an enacted law. No dated event inside the twelve months to the as-at says the bill advanced, so last12 is no-change."
+    }
+  ]
+}

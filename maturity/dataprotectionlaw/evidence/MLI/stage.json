@@ -1,0 +1,19 @@
+{
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "general",
+      "stage": "5",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "issued",
+      "application": "reported",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "MLI-002;MLI-024;MLI-005;MLI-003",
+      "gaps": "MLI-016 reads the 2013 law as enacted with no commencement date; later rows (MLI-002, MLI-020, MLI-025) show it applied, so in-force stands. MLI-005 is a secondary summary of the 2025 annual report, not the report itself.",
+      "note": "Law 2013-015 is in force, Decree 2024-0300 (fees under the law) is in force, and MLI-005 counts fines and complaints handled for January-December 2025, inside 24 months of the as-at, with a constituted APDP. I read MLI-012 (formal notices) as activity, not a count of settled decisions, though the row carries reported; it does not change the stage."
+    }
+  ]
+}

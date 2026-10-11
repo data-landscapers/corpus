@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-24-bdi-burundi-sets-data-as-a-strategic-digital-public-good",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "enacted", "fact": "Burundi's National Assembly adopted the law on the protection of personal data on 15 January 2026 and the head of state promulgated it on 10 March 2026, per Community Voice; the article does not state a commencement date.", "as_of": "2026-03-10", "date_precision": "day", "system": "Burundi personal data protection law", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The law establishes an independent administrative authority to oversee data protection; the article does not say the authority has been constituted. Law promulgated 10 March 2026.", "as_of": "2026-03-10", "date_precision": "day", "system": "Burundi personal data protection law", "class": "general"},
+    {"sub_indicator": "general", "aspect": "last12", "value": "advancing", "fact": "Burundi adopted (15 January 2026) and promulgated (10 March 2026) its first personal data protection law, after validating a National Data Governance Strategy on 7 November 2025.", "as_of": "2026-03-10", "date_precision": "day", "system": "Burundi personal data protection law", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

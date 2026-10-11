@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-swz-general-notice-no-4-2024-directive-on-the-appointment-of-data-protecti",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The notice states the Data Protection Act, 2022 designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, which issues this directive; the notice is undated and 2024 is taken from its number.", "as_of": "2024", "date_precision": "year", "system": "Eswatini Data Protection Authority", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "General Notice No. 4/2024 directs all data controllers to appoint Data Protection Officers by 30 May 2024 under section 48(1) of the Act, per General Notice No. 7/2023; the document is undated and uses the published date 2024-01-01 as a proxy.", "as_of": "2024", "date_precision": "year", "system": "Data Protection Act, 2022", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The authority issued a general directive requiring every data controller to appoint a Data Protection Officer and notify it by 30 May 2024; no decision on a named controller or count is given.", "as_of": "2024", "date_precision": "year", "system": "Data Protection Act, 2022", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

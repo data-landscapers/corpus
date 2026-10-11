@@ -1,0 +1,13 @@
+{
+  "slug": "2024-02-21-zaf-enforcement-notice-ft-rams-consulting",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The Information Regulator, on the Enforcement Committee's report, found FT Rams Consulting in breach of POPIA sections 12, 18 and 69 over unsolicited direct-marketing emails, and ordered it to stop and to file an undertaking, privacy policy, impact assessment and compliance framework within 90 days.", "as_of": "2024-02-21", "date_precision": "day", "system": "Protection of Personal Information Act 4 of 2013 (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The notice is issued and signed by the Chairperson of the Information Regulator, acting on a report of its Enforcement Committee (document dated 2024-02-21, no establishment date given).", "as_of": "2024-02-21", "date_precision": "day", "system": "Protection of Personal Information Act 4 of 2013 (POPIA)", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "The notice cites Regulations the Regulator made under section 112(2) of POPIA, including Regulation 6 prescribing Form 4 for direct-marketing consent (issue date not given; document dated 2024-02-21).", "as_of": "2024-02-21", "date_precision": "day", "system": "Protection of Personal Information Act 4 of 2013 (POPIA)", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Protection of Personal Information Act 4 of 2013 (POPIA)", "country_label": "POPIA", "class": "general", "platform": "", "owner": "Information Regulator (enforcer)", "tiers": ""},
+    {"system": "Information Regulator", "country_label": "Information Regulator", "class": "authority", "platform": "", "owner": "Information Regulator", "tiers": ""}
+  ],
+  "note": ""
+}

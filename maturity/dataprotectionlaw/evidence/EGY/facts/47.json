@@ -1,0 +1,11 @@
+{
+  "slug": "2025-05-27-egy-first-judicial-application-of-the-personal-data-protection-law-a-readi",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "Masaar says the Alexandria Economic Court ruled in February 2025 that Orange Egypt pay EGP 10 million in compensation for replacing a customer's SIM card without consent, citing Article 4 of Law No. 151 of 2020 on controller obligations.", "as_of": "2025-02", "date_precision": "month", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "none", "fact": "Masaar says the executive regulations of the Personal Data Protection Law had not been issued, leaving most of its provisions inoperable (date is the document's published date).", "as_of": "2025-05-27", "date_precision": "day", "system": "Personal Data Protection Law No. 151 of 2020", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal Data Protection Law No. 151 of 2020", "country_label": "Personal Data Protection Law", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-02-01-swz-edpa-notice-no-1-2024-final-decision-on-the-registration-of-data-contr",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "passed", "fact": "The notice states the Data Protection Act (No. 5 of 2022) was passed in March 2022 to provide for the collection, processing, disclosure and protection of personal information.", "as_of": "2022-03", "date_precision": "month", "system": "Data Protection Act, 2022", "class": "general"},
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The notice states the Act designates the Eswatini Communications Commission as the Eswatini Data Protection Authority, and the Commission itself issues this decision under section 5(1)(y) of the Act.", "as_of": "2024-02", "date_precision": "month", "system": "Eswatini Data Protection Authority", "class": "general"},
+    {"sub_indicator": "general", "aspect": "regulations", "value": "issued", "fact": "EDPA Notice No. 1/2024, a final decision on registration of data controllers and processors, was issued in February 2024 under the Act and took effect on 1 March 2024.", "as_of": "2024-02", "date_precision": "month", "system": "Data Protection Act, 2022", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The decision makes registration mandatory from 1 March 2024 for controllers and processors handling data of more than ten data subjects, with annual renewal and fee bands; it names no decision on a controller and gives no counts.", "as_of": "2024-03-01", "date_precision": "day", "system": "Data Protection Act, 2022", "class": "general"}
+  ],
+  "systems": [],
+  "note": ""
+}

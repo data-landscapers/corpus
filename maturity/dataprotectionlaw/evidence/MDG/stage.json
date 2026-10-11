@@ -1,0 +1,19 @@
+{
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "issued",
+      "application": "activity",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "Malabo ratified;advancing",
+      "stage_sources": "MDG-007;MDG-012",
+      "gaps": "No decision, sanction or count of cases under the law is stated, so no applied or reported fact exists. MDG-009 (Jan 2026) says application decrees were delayed and absent for declarations, against MDG-014 listing Decree 2023-1541 as amended in 2025; read as issued, as the decree is in force.",
+      "note": "Law 2014-038 is in force and its authority is constituted, but application is only activity (procedures manual, MDG-015), with no applied or reported fact in the 36 months. Stage 4 needs a dated decision on a named controller; MDG-010 says no declaration has been registered."
+    }
+  ]
+}

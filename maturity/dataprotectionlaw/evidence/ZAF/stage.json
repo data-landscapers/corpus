@@ -1,0 +1,19 @@
+{
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "general",
+      "stage": "5",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "issued",
+      "application": "reported",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "under revision;advancing",
+      "stage_sources": "ZAF-006;ZAF-017;ZAF-018;ZAF-019;ZAF-024;ZAF-026",
+      "gaps": "The amendment to POPIA for AI and privacy by design (ZAF-012) is described as work under way with no bill or draft, so 'under revision' rests on that statement alone. ZAF-005's fines carry no event date (only the 2026-09 publication), so they are read as activity, not applied; they set nothing.",
+      "note": "POPIA is in force, health-information regulations were gazetted on 6 March 2026, the Regulator is constituted and acting, and its 2024/25 annual report counts 745 complaints resolved for the year to 31 March 2025, inside the 24 months. Stage 5 is the top rung, so no cap applies; ZAF-005 is read as activity rather than the applied it carries."
+    }
+  ]
+}

@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-dataprotectionlaw.md — the ninth maturity study and the first of a law: the general data protection law
 last_reviewed: 2026-10-11
-status: CC's proposal, run on Bill's word of 2026-10-11; step 3 done, awaiting OSINT's ingest
+status: CC's proposal, run on Bill's word of 2026-10-11; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: dataprotectionlaw — the general law
@@ -44,7 +44,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; step 3 done, awaiting O
 
 **The test: does the country have a law setting data protection rules?** Its title, and what else the law covers, do not matter.
 
-**One instrument, one name**, in `instruments.csv`, with the year enacted and what replaced it. **A cell is staged on the law in force; a bill to replace it is the flag *under revision*.**
+**A cell is staged on the law in force; a bill to replace it is the flag *under revision*.**
 
 ## 3. Aspects
 
@@ -85,7 +85,7 @@ status: CC's proposal, run on Bill's word of 2026-10-11; step 3 done, awaiting O
 **Fixed at D3** (`corrections.csv`, `scripts/study-ladder-dataprotectionlaw.py`):
 
 - **The country is placed, not the instrument**: the strongest standing stated is the country's, and authority, regulations and application are the law's, whatever body the source names.
-- **`applied` is a decision on a named controller.** A general deliberation, rule, opinion or authorisation, an investigation opened or a referral is `activity`.
+- **`applied` is an identified decision on one controller's conduct**, named or not. A general deliberation, rule, opinion or authorisation, an investigation opened or a referral is `activity`.
 - **`reported` counts decisions, sanctions or complaints settled**, for a stated period of a quarter or more. Complaints or breaches received are `activity`.
 
 ## 5. The norm
@@ -103,10 +103,10 @@ The frame's anchor (`lookups/maturity-norms.csv`) is the African Union's Malabo 
 - [x] **D0. Prepare the criteria**: this file and `study.json`, 2026-10-11.
 - [x] **D1. Bill's rulings**: ruling 1 amended, the rest stand, 2026-10-11.
 - [x] **D2. Review all 54 countries**, method §4: the 369 documents the frame's cells cite, and eight more, in 116 calls; 769 facts.
-- [x] **D3. Test and fix the ladder**: 13 corrections; 2 at stage 5, 9 at 4, 33 at 3, 8 at 2, 1 at 1, one with no evidence.
+- [x] **D3. Test and fix the ladder**: 13 corrections.
 - [x] **D4. Search and hand over**: 47 searches, 47 documents for 28 countries, note 228.
-- [ ] **D5. Re-read and stage**, method §7, with `instruments.csv`.
-- [ ] **D6. Write, render and lint.** **D7. Report to Bill.**
+- [x] **D5. Re-read and stage**, method §7: 26 of 47 admitted and read; 4 at stage 5, 10 at 4, 31 at 3, 7 at 2, 1 at 1, one with no evidence; agreement 20 of 20.
+- [x] **D6. Write, render and lint.** **D7. Report to Bill.**
 
 **The rulings of D1**:
 

@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GNB,general,authority,qualifier,none,2026-09-22,GNB-002,,
-GNB,general,standing,coverage,drafting,2026-09-22,GNB-003,GNB-001=none,
+GNB,general,standing,coverage,tabled,2025-02-18,GNB-004,GNB-001=none;GNB-003=drafting,
 GNB,general,regulations,coverage,,,,,nothing held
 GNB,general,application,coverage,,,,,nothing held
 GNB,general,last12,qualifier,,,,,nothing held

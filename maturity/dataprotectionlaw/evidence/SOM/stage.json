@@ -1,0 +1,6 @@
+{
+  "iso3": "SOM",
+  "cells": [
+    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "issued", "application": "activity", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "SOM-002;SOM-010;SOM-003", "gaps": "No named and dated decision, sanction or order under the law, and no published count of decisions for a stated period; the only application facts are registration opening and guidance. Commencement date of the 2023 Act is not stated in the sources.", "note": "The law is in force with regulations issued and an authority constituted, but all application facts (SOM-003, SOM-013, SOM-016) are registrations and guidance, so they read as activity, matching their values, and stage 4 is not reached."}
+  ]
+}

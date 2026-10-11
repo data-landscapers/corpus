@@ -1,0 +1,46 @@
+{
+ "slug": "2025-08-06-mli-sanction-apdp-amende-de-5-millions-de-f-cfa-prononcee-pour-entrave-a-l",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The APDP fined the Clinique médicale Koulakou in Bamako 5,000,000 F CFA for obstructing an on-site check of CCTV it had installed illegally; the post is dated 2025-08-06 and gives no decision date.",
+   "as_of": "2025-08-06",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APDP imposed an administrative fine on a named clinic, acting as a functioning regulator with on-site inspection powers (post dated 2025-08-06).",
+   "as_of": "2025-08-06",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The post cites Article 65 of Law no. 2013-015 of 21 May 2013, as amended, as the basis for the fine of 5 to 20 million F CFA for obstructing the APDP (post dated 2025-08-06).",
+   "as_of": "2025-08-06",
+   "date_precision": "day",
+   "system": "Personal Data Protection Authority (APDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Authority (APDP)",
+   "country_label": "APDP Mali",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

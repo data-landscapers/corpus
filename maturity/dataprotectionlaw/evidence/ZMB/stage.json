@@ -1,0 +1,6 @@
+{
+  "iso3": "ZMB",
+  "cells": [
+    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "", "application": "activity", "last12": "advancing", "cap": "", "flags": "advancing", "stage_sources": "ZMB-002;ZMB-005;ZMB-010;ZMB-011;ZMB-008;ZMB-009", "gaps": "No regulation made under the Act is on record, and one tender of 10 August 2026 seeks consultants to develop regulatory instruments, so none is shown as issued. No decision, sanction or count under the Act is stated; registration and training are the only application.", "note": "The Data Protection Act No. 3 of 2021 is in force and the Commission is constituted, but application is registration and training only (activity, as ZMB-008 and ZMB-009 read), not a dated decision, so stage 4 is not reached. The 'advancing' flag rests on the 10 August 2026 World Bank-financed tender to develop guidelines (ZMB-004)."}
+  ]
+}

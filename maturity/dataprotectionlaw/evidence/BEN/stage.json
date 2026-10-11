@@ -1,0 +1,19 @@
+{
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "general",
+      "stage": "5",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "issued",
+      "application": "reported",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "BEN-002;BEN-004;BEN-021;BEN-001",
+      "gaps": "No row carries a regulations value and no source states the count of regulations in force; decree 2022-107 is the one read as issued. No Malabo ratification is stated. BEN-004 is relayed by La Nation, not the APDP report itself.",
+      "note": "Stage 5: in-force (BEN-002, Sept 2026), a 2025 year of counted decisions (BEN-004: 793 files validated, 20 complaints treated; period ends within 24 months), and regulations issued. BEN-021 is filed as standing but states decree 2022-107 of 16 Feb 2022 taken under the Code and applied to the processing it authorises, so I read regulations as issued although no row carries that value; the APDP is constituted, so no cap."
+    }
+  ]
+}

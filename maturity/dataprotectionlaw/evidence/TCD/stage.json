@@ -1,0 +1,7 @@
+{
+  "iso3": "TCD",
+  "cells": [
+    {"sub_indicator": "general", "stage": "2", "authority": "", "standing": "drafting", "regulations": "", "application": "", "last12": "", "cap": "", "flags": "", "stage_sources": "TCD-001;TCD-002", "gaps": "No row states authority, regulations or application. The ANSICE reform (ratified by the Senate 2026-03-13) broadens that body's mandate to personal data, but no row says a general law exists or that the body acts under one, so authority is not set. No dated event shows the Digital Code advancing or stalling.",
+     "note": "A Digital Code with data protection provisions is stated as drafting only (announced 2025-12-09, still under development per a 2026-03-16 report), so the rung is 2. Stage 3 needs the law enacted."}
+  ]
+}

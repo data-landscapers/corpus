@@ -1,0 +1,14 @@
+{
+  "slug": "2026-10-11-ago-deliberacao-sobre-processos-contravencionais",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The APD's Conselho de Administração publishes under art. 53(3) of Lei 22/11 a register of entities it has fined for breaching personal data protection rules, showing the authority is constituted and acting; the page is undated, so the capture date 2026-10-11 is used.", "as_of": "2026-10-11", "date_precision": "day", "system": "Agência de Protecção de Dados", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "reported", "fact": "The APD's register lists 15 fines under Lei 22/11 for the years 2022 to 2026 (2022: 1, 2023: 1, 2024: 4, 2025: 3, 2026: 6), from US$75,000 to US$525,000 each, with year only and no day given.", "as_of": "2026", "date_precision": "year", "system": "Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The APD fined Crescer Tech US$505,000 in 2026 for failing to notify and obtain authorisation for the international transfer of personal data to a cloud located abroad.", "as_of": "2026", "date_precision": "year", "system": "Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais", "class": "general"},
+    {"sub_indicator": "general", "aspect": "application", "value": "applied", "fact": "The APD fined Standard Bank de Angola US$150,000 in 2026 for failing to protect the personal data of 51 clients against unauthorised access.", "as_of": "2026", "date_precision": "year", "system": "Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Agência de Protecção de Dados", "country_label": "APD", "class": "authority", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Lei n.º 22/11 de 17 de Junho - Lei da Protecção de Dados Pessoais", "country_label": "Lei da Protecção de Dados Pessoais", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

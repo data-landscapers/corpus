@@ -1,0 +1,10 @@
+{
+  "slug": "2025-02-18-gnb-a-hrc-wg-6-49-gnb-1-rapport-national-de-la-guinee-bissau",
+  "facts": [
+    {"sub_indicator": "general", "aspect": "standing", "value": "tabled", "fact": "Guinea-Bissau's national UPR report says the National People's Assembly's inaction blocks key legislation, and that several bills, including one on personal data protection, are awaiting discussion; no date is given, so the document's published date of 18 February 2025 is used.", "as_of": "2025-02-18", "date_precision": "day", "system": "Personal data protection bill", "class": "general"}
+  ],
+  "systems": [
+    {"system": "Personal data protection bill", "country_label": "projet de loi sur la protection des données personnelles", "class": "general", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

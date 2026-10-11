@@ -1,0 +1,6 @@
+{
+  "iso3": "ETH",
+  "cells": [
+    {"sub_indicator": "general", "stage": "3", "authority": "constituted", "standing": "in-force", "regulations": "none", "application": "activity", "last12": "advancing", "cap": "", "flags": "regulations pending;advancing", "stage_sources": "ETH-001;ETH-003;ETH-004", "gaps": "No named sanction or order on a controller and no published count of decisions for a stated period; commencement date not given (ETH-001 says effect on publication, ETH-006 gives none). The four directives are not yet approved.", "note": "Proclamation 1321/2024 is in force and the Communications Authority is acting, but application is activity only (about 10 transfer approvals, a portal previewed, no decision on a named controller), so stage 4 is not met. Regulations are none, so stage 5 is also out of reach."}
+  ]
+}

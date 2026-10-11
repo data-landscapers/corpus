@@ -12,3 +12,4 @@ SWZ,008,application,applied,revalued: activity,"an investigation opened, no deci
 ZAF,007,application,reported,revalued: activity,"counts complaints or breach reports received, not decisions or complaints settled: activity"
 ZAF,008,application,reported,revalued: activity,"counts complaints or breach reports received, not decisions or complaints settled: activity"
 ZAF,010,application,applied,revalued: activity,"a referral to the enforcement committee, no decision yet: activity"
+TZA,033,application,applied,overruled: stage 4,step 5: the stager read an identified ruling as activity because the report does not name the respondent; a decision identified by its number and date is a decision on one controller

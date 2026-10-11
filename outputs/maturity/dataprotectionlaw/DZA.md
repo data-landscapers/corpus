@@ -1,0 +1,17 @@
+# Algeria
+
+## General law
+
+**Authority.** The Autorité nationale de protection des données à caractère personnel (ANPDP) [adopted a deliberation by a majority of its members on 15 July 2026](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>), signed by its president. [Samir Bourehil was its president in July 2026](<https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551>). It [issues authorisations and receives declarations of processing](<https://www.elmoudjahid.dz/fr/actualite/conservation-des-donnees-personnelles-l-anpdp-exige-le-respect-de-la-loi-244968>).
+
+**Standing.** Law n° 18-07 of 10 June 2018 [came into force on 10 August 2023](<https://www.trade.gov/country-commercial-guides/algeria-digital-economy>), the US International Trade Administration states. [Law 25-11, promulgated in July 2025, amended it](<https://www.elmoudjahid.dz/fr/actualite/conservation-des-donnees-personnelles-l-anpdp-exige-le-respect-de-la-loi-244968>), adding duties to appoint a data protection delegate, keep a processing register and log automated operations. The law [was in force in July 2026](<https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques>).
+
+**Regulations.** [Délibération n° 04 of 15 July 2026](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>), in eleven articles, sets conditions for processing and publishing images and recordings of natural persons. In the months before it the ANPDP [published rules on workplace video surveillance and on appointing data protection delegates](<https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques>). A [compliance package of guidelines and four templates was released in 2025](<https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup>).
+
+**Application.** The authority [decided in January or February 2026 that a positive or negative test result alone is standard health data](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>), so employers need no prior authorisation. It [runs an online complaint service for data subjects](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>), and by December 2025 it had [held its first study day and a series of training meetings with national bodies](<https://www.elmoudjahid.dz/fr/actualite/conservation-des-donnees-personnelles-l-anpdp-exige-le-respect-de-la-loi-244968>).
+
+**Last twelve months.** Délibération n° 04 [treats publication on foreign-run platforms as a transfer abroad](<https://anpdp.dz/ar/storage/2026/07/MOD-19-07-2026-v2.pdf>). A [study day at the national police college in July 2026](<https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551>) announced a unified guide for administrative, security and judicial procedures.
+
+***Noted, not assessed***. The [National Data Governance Framework](<https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026>), which Algeria calls the *dispositif national de gouvernance des données*.
+
+***Not held***. No decision or sanction on a named controller is held. No count of decisions, sanctions or complaints settled is published for a stated period.

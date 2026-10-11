@@ -1,0 +1,17 @@
+# South Africa
+
+## General law
+
+**Authority.** The Information Regulator was [established on 1 December 2016](<https://www.itweb.co.za/article/inforeg-unpacks-regulatory-complexities-posed-by-ai/KA3WwMdzPryvrydZ>) to monitor and enforce the Act. Its annual report for the year to 31 March 2025 describes [an independent body under section 39 of the Act](<https://inforegulator.org.za/wp-content/uploads/2025/11/Information-Regulator-Annual-Report-2025-210mm-x-260mm-1.pdf>).
+
+**Standing.** The Protection of Personal Information Act 4 of 2013 was [signed into law in 2013](<https://www.businessday.co.za/news/law/2026-08-17-information-regulator-goes-to-the-sca-in-new-bid-to-stop-publication-of-matric-results/>) and has been [in force since 1 July 2021, after a year's grace period, with fines of up to R10 million](<https://www.itweb.co.za/article/popia-grace-period-limits-regulators-fines/P3gQ2qGAlAk7nRD1>).
+
+**Regulations.** Regulations on the processing of health information, made under section 112(2)(c) of the Act, were [published in Government Gazette 54268 on 6 March 2026](<https://www.gov.za/sites/default/files/gcis_document/202603/54268gon7198.pdf>) and commenced on publication. An enforcement notice of 21 February 2024 [cites earlier regulations under section 112(2)](<https://inforegulator.org.za/wp-content/uploads/2020/07/FT-RAMS-CONSULTING-ENFORCEMENT-NOTICE-210224_Redacted.pdf>), which prescribe the form for direct-marketing consent.
+
+**Application.** The Regulator reports that in 2024/25 it [received 1,355 complaints under the Act and resolved 745 of them](<https://inforegulator.org.za/wp-content/uploads/2025/11/Information-Regulator-Annual-Report-2025-210mm-x-260mm-1.pdf>). Its first fine, in July 2023, was [R5 million on the Department of Justice and Constitutional Development](<https://www.itweb.co.za/article/popia-grace-period-limits-regulators-fines/P3gQ2qGAlAk7nRD1>), and it [issued an enforcement notice to WhatsApp LLC on 10 September 2024](<https://inforegulator.org.za/wp-content/uploads/2025/11/Information-Regulator-Annual-Report-2025-210mm-x-260mm-1.pdf>).
+
+**Last twelve months.** On 20 May 2026 the Regulator [published an enforcement notice against Central Johannesburg TVET College](<https://www.mondaq.com/southafrica/data-protection/1796688/information-regulators-first-enforcement-notice-for-2026>), and in August 2026 it [issued one to the South African Bureau of Standards](<https://www.itweb.co.za/article/inforeg-concerned-by-alarming-rate-of-data-breaches/rxP3jqBE2ZLMA2ye>) over a 2024 ransomware attack. A commissioner said on 18 August 2026 that [work is under way with the justice department to amend the Act](<https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/>) to cover artificial intelligence and privacy by design.
+
+***Noted, not assessed***. The [Consumer Protection Act opt-out registry](<https://www.itweb.co.za/article/inforeg-unpacks-regulatory-complexities-posed-by-ai/KA3WwMdzPryvrydZ>) and the [Consumer Protection Act pre-emptive block register](<https://www.itweb.co.za/article/inforeg-concerned-by-alarming-rate-of-data-breaches/rxP3jqBE2ZLMA2ye>).
+
+***Not held***. No bill or draft of the amendment to the Act. The dates of the fines on the Electoral Commission and Lancet Laboratories are not given.

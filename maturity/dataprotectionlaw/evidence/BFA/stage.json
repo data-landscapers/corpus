@@ -1,0 +1,19 @@
+{
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "general",
+      "stage": "3",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "",
+      "application": "activity",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "under revision;advancing",
+      "stage_sources": "BFA-012;BFA-019;BFA-024;BFA-014;BFA-016;BFA-018;BFA-021",
+      "gaps": "No regulation under law n°001-2021/AN is on record. No named sanction or published count of decisions is on record; the CIL made no public report in 2024. The August 2026 bill is voted, with no promulgation stated.",
+      "note": "Law n°001-2021/AN is stated in force to 2025 and the 3 August 2026 bill is only voted, so it is a flag and not a repeal. Application is awareness, warnings and an unquantified report (all activity), so stage 4 is not reached."
+    }
+  ]
+}

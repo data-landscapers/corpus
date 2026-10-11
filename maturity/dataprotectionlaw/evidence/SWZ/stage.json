@@ -1,0 +1,19 @@
+{
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "general",
+      "stage": "4",
+      "authority": "constituted",
+      "standing": "in-force",
+      "regulations": "issued",
+      "application": "applied",
+      "last12": "no-change",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-003;SWZ-013;SWZ-014;SWZ-021",
+      "gaps": "No published count of decisions, sanctions or complaints settled for a stated year; the newest enforcement notice on record is March 2025. No dated event in the twelve months to 2026-09-30 clearly advances or regresses the law; the investigation opened in June 2026 has no reported outcome.",
+      "note": "In force (Act of 2022, treated as operating by 2026 sources), with a named, dated section 41 enforcement notice (March 2025, inside 36 months), so stage 4. Stage 5 needs a reported count for a year; none exists, and the 2026 investigation, campaign and notices are activity."
+    }
+  ]
+}
