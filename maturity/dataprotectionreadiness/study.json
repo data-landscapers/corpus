@@ -35,9 +35,7 @@
         "application": {
           "to": "practice",
           "values": {
-            "activity": "in-use",
-            "applied": "in-use",
-            "reported": "in-use"
+            "activity": "implementing"
           }
         }
       }
@@ -51,6 +49,14 @@
           "values": {
             "constituted": "appointed",
             "provided": "none"
+          }
+        },
+        "rulings": {
+          "to": "practice",
+          "values": {
+            "ruled": "ruling",
+            "reported": "ruling",
+            "none": "none"
           }
         }
       }
@@ -112,6 +118,23 @@
       ]
     },
     {
+      "key": "treaty",
+      "name": "Malabo Convention",
+      "role": "coverage",
+      "defer": [
+        "none"
+      ],
+      "prefer": [
+        "ratified",
+        "signed"
+      ],
+      "values": [
+        "ratified",
+        "signed",
+        "none"
+      ]
+    },
+    {
       "key": "authority",
       "name": "Authority appointed",
       "role": "coverage",
@@ -128,32 +151,18 @@
     },
     {
       "key": "practice",
-      "name": "Rules in use",
+      "name": "Implementing and acting",
       "role": "coverage",
       "defer": [
         "none"
       ],
       "prefer": [
-        "in-use"
+        "ruling",
+        "implementing"
       ],
       "values": [
-        "in-use",
-        "none"
-      ]
-    },
-    {
-      "key": "treaty",
-      "name": "Malabo Convention",
-      "role": "coverage",
-      "defer": [
-        "none"
-      ],
-      "prefer": [
-        "ratified"
-      ],
-      "values": [
-        "ratified",
-        "signed",
+        "ruling",
+        "implementing",
         "none"
       ]
     }
