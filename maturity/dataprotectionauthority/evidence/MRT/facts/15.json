@@ -1,0 +1,9 @@
+{
+  "slug": "2022-05-24-mauritania-data-protection-factsheet",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "provided", "fact": "Data Protection Africa states that Law No. 2017-020 establishes a data protection authority with powers to investigate and request evidence, but the law had been adopted by the National Assembly in 2017 and had not yet come into effect (page last updated 2022-05-24, taken as the date).", "as_of": "2022-05-24", "date_precision": "day", "system": "Data Protection Authority (Law No. 2017-020)", "class": "authority"},
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Data Protection Africa factsheet headline reads 'Data protection authority appointed' and answers 'Yes, with data protection authority appointed', while the same page says the law is not yet in effect (page last updated 2022-05-24, taken as the date).", "as_of": "2022-05-24", "date_precision": "day", "system": "Data Protection Authority (Law No. 2017-020)", "class": "authority"}
+  ],
+  "systems": [],
+  "note": ""
+}

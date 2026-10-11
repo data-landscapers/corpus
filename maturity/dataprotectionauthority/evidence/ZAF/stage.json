@@ -1,0 +1,16 @@
+{
+ "iso3": "ZAF",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "5",
+   "standing": "constituted",
+   "rulings": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ZAF-014;ZAF-018",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

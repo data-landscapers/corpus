@@ -1,0 +1,16 @@
+{
+ "iso3": "NGA",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "4",
+   "standing": "constituted",
+   "rulings": "ruled",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NGA-001;NGA-017;NGA-003",
+   "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

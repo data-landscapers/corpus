@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-17-sen-pressafrik-cdp-daf-interoperabilite-etat-civil-identification",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CDP, through its permanent secretary Mouhamed Diop, spoke on 16 September 2026 of joint interoperability work with the DAF and two options put to the authorities for arbitration.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Commission de protection des données personnelles (CDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de protection des données personnelles (CDP)",
+   "country_label": "CDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Senegal",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

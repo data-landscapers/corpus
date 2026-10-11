@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "A Guardian Nigeria opinion piece states that the Nigeria Data Protection Act 2023 creates the Nigeria Data Protection Commission as the regulator; no event date is given, so the publication date 2026-02-02 is used.",
+   "as_of": "2026-02-02",
+   "date_precision": "day",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission",
+   "country_label": "Nigeria Data Protection Commission (NDPC)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Federal Government of Nigeria",
+   "tiers": "federal; MoU with the Nigeria Governors' Forum for states"
+  }
+ ],
+ "note": ""
+}

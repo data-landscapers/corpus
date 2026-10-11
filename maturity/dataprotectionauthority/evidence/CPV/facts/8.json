@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-16-cape-verde-data-protection-law-dla-piper",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "DLA Piper's guide states that the national data protection authority in Cape Verde is the Comissão Nacional de Proteção de Dados Pessoais under the Data Protection Law (Law 133/V/2001 as amended to 2021), and that the CNPD enforces the law; the document gives no date for this, so its published date is used.", "as_of": "2025-01-16", "date_precision": "day", "system": "Comissão Nacional de Proteção de Dados Pessoais (CNPD)", "class": "authority"}
+  ],
+  "systems": [
+    {"system": "Comissão Nacional de Proteção de Dados Pessoais (CNPD)", "country_label": "CNPD", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "names sanctions in the law but reports no ruling, decision or published figure"
+}

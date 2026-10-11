@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-28-times-eswatini-esccom-health-data-guidelines",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Times of Eswatini reports that the Eswatini Communications Commission, acting as the Eswatini Data Protection Authority established under the Data Protection Act 2022, began validation workshops on draft health-data guidelines on 28 July 2026, with an acting chief executive named as head.", "as_of": "2026-07-28", "date_precision": "day", "system": "ESCCOM acting as the Eswatini Data Protection Authority (EDPA)", "class": "authority"}
+  ],
+  "systems": [
+    {"system": "Eswatini Data Protection Authority (EDPA), exercised by ESCCOM", "country_label": "Eswatini Data Protection Authority", "class": "authority", "platform": "", "owner": "Eswatini Communications Commission", "tiers": ""}
+  ],
+  "note": "The article reports one concluded complaint against an unnamed healthcare practitioner with no details, so no ruling against a named organisation is stated."
+}

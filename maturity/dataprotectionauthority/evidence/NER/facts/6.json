@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-21-digitalbusiness-aes-feuille-route-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Digital Business Africa reports that Adamou Iro, president of Niger's Haute Autorité de Protection des Données à caractère personnel (HAPDP), signed the AES data-protection roadmap with Burkina Faso's CIL and Mali's APDP on 18 November 2025 in Ouagadougou.",
+   "as_of": "2025-11-18",
+   "date_precision": "day",
+   "system": "Haute Autorité de Protection des Données à caractère personnel (HAPDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Haute Autorité de Protection des Données à caractère personnel (HAPDP)",
+   "country_label": "HAPDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

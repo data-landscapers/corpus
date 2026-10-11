@@ -1,0 +1,16 @@
+{
+ "iso3": "GNB",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "1",
+   "standing": "none",
+   "rulings": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNB-001;GNB-002",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

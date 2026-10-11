@@ -1,0 +1,16 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "5",
+   "standing": "constituted",
+   "rulings": "reported",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-001;SEN-009;SEN-012",
+   "gaps": "Nothing on the four questions.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

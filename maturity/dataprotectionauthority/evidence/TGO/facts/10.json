@@ -1,0 +1,10 @@
+{
+ "slug": "2026-10-04-tgo-ipdcp-apdp-benin-seance-travail-lome",
+ "facts": [
+  {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The IPDCP, with its president Colonel Bédiani Belei, hosted a delegation of Benin's APDP led by its president Dr Luciano Hounkponou in Lomé on 2-3 October 2026 for a working session on experience-sharing and skills, under a cooperation agreement between the two authorities.", "as_of": "2026-10-03", "date_precision": "day", "system": "IPDCP", "class": "authority"}
+ ],
+ "systems": [
+  {"system": "IPDCP", "country_label": "Instance de Protection des Données à Caractère Personnel", "class": "authority", "platform": "", "owner": "State of Togo", "tiers": ""}
+ ],
+ "note": ""
+}

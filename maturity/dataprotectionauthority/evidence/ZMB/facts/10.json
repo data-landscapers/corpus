@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-14-zambia-data-protection-commissioner-operational",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "IT News Africa reports that Zambia's first Data Protection Commissioner was appointed in June 2023 as the Data Protection Act 2021 requires, two years after the Act came into force in April 2021.", "as_of": "2023-06", "date_precision": "month", "system": "Office of the Data Protection Commissioner", "class": "authority"},
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "A Bowmans Zambia partner quoted by IT News Africa says the Office of the Data Protection Commissioner is fully operational, has issued regulations and guidelines and opened online registration for controllers and processors with a 30 April 2025 deadline (date taken from the document's published date).", "as_of": "2025-04-14", "date_precision": "day", "system": "Office of the Data Protection Commissioner", "class": "authority"}
+  ],
+  "systems": [],
+  "note": ""
+}

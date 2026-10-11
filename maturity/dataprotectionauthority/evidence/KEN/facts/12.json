@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-kenya-odpc-draft-guidance-ai-emerging-tech-pets",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Office, signed by Immaculate Kassait, published draft guidance notes on AI, emerging technologies and privacy-enhancing technologies under the Data Protection Act, with comments due 17 August 2026.",
+   "as_of": "2026-08-03",
+   "date_precision": "day",
+   "system": "Office of the Data Protection Commissioner",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office of the Data Protection Commissioner",
+   "country_label": "Office of the Data Protection Commissioner (ODPC)",
+   "class": "authority",
+   "platform": "",
+   "owner": "Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

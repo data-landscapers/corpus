@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SDN-001,SDN,body,standing,none,"The Data Protection Africa factsheet states Sudan has no data protection law and no data protection authority appointed; the date is the page's last-updated stamp, 24 May 2022, and parts of the text may be older.",2022-05-24,day,Data protection authority,authority,2022-05-24-sudan-data-protection-factsheet,https://dataprotection.africa/sudan/

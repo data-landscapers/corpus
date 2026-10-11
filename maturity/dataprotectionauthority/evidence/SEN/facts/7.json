@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-01-aps-cdp-senegal-317-dossiers-t1-2026",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "After a complaint, the CDP on a plenary decision carried out an unannounced inspection of Digicommunication International on 12 March 2026 and ordered the total uninstallation of the meeting-room camera, per APS.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "Commission de protection des données personnelles (CDP)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "The CDP's quarterly report, sent to APS, gives its January to March 2026 figures: 317 files (286 declarations, 31 authorisation requests), 200 of 283 video-surveillance receipts issued, nine complaints and one report handled.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Commission de protection des données personnelles (CDP)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The CDP is described as an independent administrative authority set up by law no. 2008-12 of 25 January 2008 and was reporting on its quarterly activity in 2026.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Commission de protection des données personnelles (CDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de protection des données personnelles (CDP)",
+   "country_label": "CDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "State of Senegal",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

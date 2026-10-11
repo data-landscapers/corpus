@@ -1,0 +1,16 @@
+{
+ "iso3": "ERI",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "1",
+   "standing": "none",
+   "rulings": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "ERI-001;ERI-004",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

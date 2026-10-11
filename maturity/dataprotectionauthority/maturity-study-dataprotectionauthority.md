@@ -49,6 +49,9 @@ Asked in order. Each is answered with a date and a link.
 - **An authority whose members have all left and not been replaced is a no to question 2**, from the date a source says so.
 - **A country with a bill and no law is stage 1 only if a source states the absence**; otherwise it has no evidence, and the long summary notes the bill.
 - **Only the authority's own rulings count.** A court's judgment belongs to the law row.
+- **Questions 1 and 2 have no time limit**: an appointment stands, with its year, until a dated source says the authority has gone. A later source that only describes the law does not undo it.
+- **A statement that there is no authority counts for three years.**
+- **The stage is counted by `scripts/study-ladder-dataprotectionauthority.py`**; what the parent's reading of the ruling facts changed is in `corrections.csv`.
 
 `study.json` holds this as two aspects: `standing` (`constituted`, `provided`, `none`) for questions 1 and 2, and `rulings` (`reported`, `ruled`, `none`) for 3 and 4.
 

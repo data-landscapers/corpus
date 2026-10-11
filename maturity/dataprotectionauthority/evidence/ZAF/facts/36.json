@@ -1,0 +1,46 @@
+{
+ "slug": "2025-11-13-data-breaches-surge-40-percent",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Citizen reports the Information Regulator, chaired by Pansy Tlakula, held a media briefing on 13 November 2025 on its POPIA and PAIA work (published date used).",
+   "as_of": "2025-11-13",
+   "date_precision": "day",
+   "system": "Information Regulator (South Africa)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "reported",
+   "fact": "The Information Regulator told a media briefing that organisations reported 2374 breaches in 2024-25 (198 a month) and 1947 since April 2025 (284 a month), a 40 percent rise.",
+   "as_of": "2025-11-13",
+   "date_precision": "day",
+   "system": "Information Regulator (South Africa)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "The Information Regulator issued an enforcement notice finding WhatsApp's 2021 privacy policy update violated POPIA; WhatsApp's review action ended in a settlement to be made a court order (no event date given; published date used).",
+   "as_of": "2025-11-13",
+   "date_precision": "day",
+   "system": "Information Regulator (South Africa)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Regulator (South Africa)",
+   "country_label": "Information Regulator",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

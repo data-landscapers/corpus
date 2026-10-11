@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-29-agencia-de-protecao-de-dados-trabalha-com-o-facebook-para-eliminar-perfis-falsos",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "RSTP reports an interview with José Manuel Costa Alegre as president of the ANPDP on Data Protection Day, saying the agency is working with Facebook on fake profiles; the interview date is not stated beyond the publication date of 2025-01-29.",
+   "as_of": "2025-01-29",
+   "date_precision": "day",
+   "system": "Agência Nacional de Proteção de Dados Pessoais"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência Nacional de Proteção de Dados Pessoais",
+   "country_label": "ANPDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "São Tomé and Príncipe",
+   "tiers": "national"
+  }
+ ],
+ "note": "no ruling or published figure; the 20% figure is the president's own estimate"
+}

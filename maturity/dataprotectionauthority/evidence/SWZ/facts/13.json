@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Tech Hive Advisory's update for January and February 2026 says Eswatini's data protection authority published guidelines on data mapping and issued a directive requiring controllers and processors to map their data by 31 March 2026; the update is dated 23 June 2026 and the event falls in early 2026.", "as_of": "2026", "date_precision": "year", "system": "Eswatini Data Protection Authority (EDPA)", "class": "authority"}
+  ],
+  "systems": [
+    {"system": "Eswatini Data Protection Authority (EDPA)", "country_label": "Eswatini's DPA", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The data mapping directive is general guidance with a sanctions warning, not a ruling against a named organisation."
+}

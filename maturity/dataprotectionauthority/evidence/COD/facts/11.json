@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-autorite-protection-donnees-rdc",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "The Digital Code provides in articles 262 to 270 for creating the Autorité de protection des données, which the source says has not yet been set up; the source's date is 2025 and no event date is given.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Autorité de protection des données (APD)",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "A ministerial order of 17 August 2024 gave the authority's missions to the ARPTIC, and a Prime Minister's decree is still to fix its organisation and operation.",
+   "as_of": "2024-08-17",
+   "date_precision": "day",
+   "system": "Autorité de protection des données (APD)",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

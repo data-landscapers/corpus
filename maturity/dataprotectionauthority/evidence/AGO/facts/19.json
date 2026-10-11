@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-25-angola-apd-circular-02-2024-notificacao-acidentes-incidentes-informaticos",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The APD's President signed Circular 02/APD/2024 requiring public and private entities to notify it of personal data breaches, citing its mandate under art. 44 of Lei 22/11 and Presidential Decree 214/16 on its organic statute.",
+   "as_of": "2024-10-25",
+   "date_precision": "day",
+   "system": "Agência de Protecção de Dados",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência de Protecção de Dados",
+   "country_label": "APD",
+   "class": "authority",
+   "platform": "",
+   "owner": "Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-cpv-cnpd-plano-de-atividades-2024-companion",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The companion page describes the CNPD's 2024 activity plan, dated 27 December 2023, covering planned inspections, guidance and international fora, and states the Assembleia Nacional's budget resolution appropriates it 35,255,451 CVE with no own revenue.", "as_of": "2023-12-27", "date_precision": "day", "system": "Comissão Nacional de Protecção de Dados (CNPD)", "class": "authority"}
+  ],
+  "systems": [
+    {"system": "Comissão Nacional de Protecção de Dados (CNPD)", "country_label": "CNPD", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "a plan of intended inspections; no ruling and no published figure for decisions"
+}

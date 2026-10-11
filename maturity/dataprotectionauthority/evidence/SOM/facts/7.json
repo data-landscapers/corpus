@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-02-somalia-dpa-registration-licensing",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The Somalia Data Protection Authority's own service page, dated 2 June 2026, says organisations processing personal data must register with the Authority under Article 10 of Data Protection Act No. 005 (2023), and it lists the registration forms it issues, showing a body named in law and operating.", "as_of": "2026-06-02", "date_precision": "day", "system": "Somalia Data Protection Authority", "class": "authority"}
+  ],
+  "systems": [],
+  "note": ""
+}

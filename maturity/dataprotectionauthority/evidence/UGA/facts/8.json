@@ -1,0 +1,10 @@
+{
+ "slug": "2026-08-05-uganda-and-zimbabwes-fourth-cycle-uprs-must-turn-digital-progress-into-stronger-rights-protections",
+ "facts": [
+  {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "CIPESA states Uganda's Personal Data Protection Office exists and needs adequate institutional capacity to enforce the law; the date is the document's published date, 2026-08-05.", "as_of": "2026-08-05", "date_precision": "day", "system": "Personal Data Protection Office", "class": "authority"}
+ ],
+ "systems": [
+  {"system": "Personal Data Protection Office", "country_label": "Personal Data Protection Office (PDPO)", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+ ],
+ "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "TGO",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "3",
+   "standing": "constituted",
+   "rulings": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "TGO-001;TGO-010",
+   "gaps": "No ruling of the authority against a named organisation in the last three years is held.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

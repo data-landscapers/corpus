@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-13-cod-beto-onip-rgph2-deux-comptages-autorite-protection-donnees",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "Beto.cd reports that the Autorité de protection des données is not installed, as the ONIP identification and the census are announced.",
+   "as_of": "2026-09-13",
+   "date_precision": "day",
+   "system": "Autorité de protection des données (APD)",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,16 @@
+{
+ "iso3": "GNQ",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "2",
+   "standing": "provided",
+   "rulings": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "GNQ-002;GNQ-001",
+   "gaps": "No source held says the authority's head or members have been appointed.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

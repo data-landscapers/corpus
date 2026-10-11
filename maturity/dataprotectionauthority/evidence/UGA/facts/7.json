@@ -1,0 +1,10 @@
+{
+ "slug": "2026-08-13-uganda-pdpo-engages-government-it-officers",
+ "facts": [
+  {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Uganda's Personal Data Protection Office was operating on 13 August 2026, briefing government ministry, department, agency and referral hospital IT officers on data protection in a Ministry of ICT and National Guidance session.", "as_of": "2026-08-13", "date_precision": "day", "system": "Personal Data Protection Office", "class": "authority"}
+ ],
+ "systems": [
+  {"system": "Personal Data Protection Office", "country_label": "Personal Data Protection Office (PDPO)", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+ ],
+ "note": ""
+}

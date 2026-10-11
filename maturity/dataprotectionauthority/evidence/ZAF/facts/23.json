@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-14-inforeg-788-breaches-q1",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ITWeb reports the Information Regulator, led by chairperson Pansy Tlakula, is an independent statutory body established under POPIA and accountable to the National Assembly.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Information Regulator of South Africa",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Information Regulator of South Africa",
+   "country_label": "Information Regulator",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": "The 788 breach notifications received in Q1 are a count of notifications received, not of rulings, so no rulings fact."
+}

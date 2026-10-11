@@ -1,0 +1,26 @@
+{
+ "slug": "2022-06-24-data-protection-africa-sao-tome-and-principe",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "ALT Advisory's factsheet, last updated 24 June 2022, says Law 03/2016 establishes the ANPDP, that its appointment is recorded and that it is operational and relatively active in authorisations, resolutions and opinions.",
+   "as_of": "2022-06-24",
+   "date_precision": "day",
+   "system": "Agência Nacional de Proteção de Dados Pessoais"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agência Nacional de Proteção de Dados Pessoais",
+   "country_label": "ANPDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "São Tomé and Príncipe",
+   "tiers": "national"
+  }
+ ],
+ "note": "authorisations and opinions are not a ruling against a named organisation; the annual report is stated as a legal duty, not as a published figure"
+}

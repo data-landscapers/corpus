@@ -1,0 +1,17 @@
+{
+ "slug": "2012-03-22-cms-flash-info-morocco-law-09-08-scope",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "CMS says Act 09-08 and its implementing decree set the roles of the Moroccan data protection authority, the CNDP, whose members' identity was published in the Official Gazette starting a two-year compliance period ending 15 November 2012; the document gives no other date, so the published date is used.",
+   "as_of": "2012-03-22",
+   "date_precision": "day",
+   "system": "Commission Nationale de contrôle de la protection des données à caractère personnel (CNDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

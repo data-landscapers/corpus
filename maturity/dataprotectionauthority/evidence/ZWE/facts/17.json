@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-05-uganda-and-zimbabwes-fourth-cycle-uprs-must-turn-digital-progress-into-stronger-rights-protections",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "provided",
+   "fact": "CIPESA reports that the Cyber and Data Protection Act, 2021 designates the Postal and Telecommunications Regulatory Authority of Zimbabwe as the Data Protection Authority, which the submission says raises concerns about independence (as_of is the document's published date).",
+   "as_of": "2026-08-05",
+   "date_precision": "day",
+   "system": "POTRAZ",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+   "country_label": "POTRAZ, designated Data Protection Authority",
+   "class": "authority",
+   "platform": "",
+   "owner": "POTRAZ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

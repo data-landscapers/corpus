@@ -1,0 +1,11 @@
+{
+  "slug": "2026-08-03-cote-divoire-artci-urges-firms-to-use-certinum-data-authorisation-platform",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "ARTCI, styling itself the Autorité de Protection des Données Personnelles, issued a communique on 3 August 2026 inviting controllers to use CERTINUM, which it says it launched on 2 July 2026, so the body is acting as the authority.", "as_of": "2026-08-03", "date_precision": "day", "system": "ARTCI (Autorité de Protection des Données Personnelles)", "class": "authority"}
+  ],
+  "systems": [
+    {"system": "ARTCI (Autorité de Protection des Données Personnelles)", "country_label": "ARTCI", "class": "authority", "platform": "", "owner": "State", "tiers": ""},
+    {"system": "CERTINUM", "country_label": "CERTINUM", "class": "other", "platform": "", "owner": "ARTCI", "tiers": "controllers, protection correspondents, advisory firms"}
+  ],
+  "note": ""
+}

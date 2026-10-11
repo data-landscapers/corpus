@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-11-business-day-big-tech-invisible-hand-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Business Day reports that Meta, Microsoft and Google met the NDPC, led by CEO Vincent Olatunji, in February 2025, and that the NDPC later settled its privacy case against Meta.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "NDPC",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A settlement is not a ruling; the fines mentioned were by another regulator (FCCPC)."
+}

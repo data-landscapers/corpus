@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Techhive Advisory reports that the head of Cabo Verde's data protection authority was among the DPA heads of 61 countries who signed the Global Privacy Assembly enforcement group's joint statement on AI-generated imagery on 23 February 2026.", "as_of": "2026-02-23", "date_precision": "day", "system": "Cabo Verde data protection authority", "class": "authority"}
+  ],
+  "systems": [
+    {"system": "Cabo Verde data protection authority", "country_label": "", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "no ruling or published figure for Cabo Verde"
+}

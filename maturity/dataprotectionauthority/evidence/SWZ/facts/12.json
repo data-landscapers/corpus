@@ -1,0 +1,10 @@
+{
+  "slug": "2025-01-01 Role of ESCCOM as National Data Protection Agency",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "provided", "fact": "ESCCOM's mandate page states the Data Protection Act designates the Eswatini Communications Commission as the Data Protection Agency (section 5), with power to investigate breaches, resolve complaints and impose administrative fines; the page is undated, so its published year 2025 is used.", "as_of": "2025", "date_precision": "year", "system": "ESCCOM as National Data Protection Agency", "class": "authority"}
+  ],
+  "systems": [
+    {"system": "National Data Protection Agency (ESCCOM)", "country_label": "Data Protection Agency", "class": "authority", "platform": "", "owner": "Eswatini Communications Commission", "tiers": ""}
+  ],
+  "note": ""
+}

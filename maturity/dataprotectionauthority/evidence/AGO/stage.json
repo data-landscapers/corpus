@@ -1,0 +1,16 @@
+{
+ "iso3": "AGO",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "4",
+   "standing": "constituted",
+   "rulings": "ruled",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "AGO-001;AGO-003;AGO-018",
+   "gaps": "No count of the authority's decisions, fines or complaints settled, for a period ending in the last two years, is held. The authority's register of fines by year was captured after the as-at.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

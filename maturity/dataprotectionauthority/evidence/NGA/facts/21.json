@@ -1,0 +1,25 @@
+{
+ "slug": "2026-10-03-decentralised-data-protection-structure-nigeria-arinze",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The commentary says the Nigeria Data Protection Act 2023 establishes the NDPC as the principal data protection regulator, and that the NDPC's new Abuja headquarters was commissioned on 14 September 2026 (as_of is the article's published date).",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria Data Protection Commission (NDPC)",
+   "country_label": "NDPC",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ]
+}

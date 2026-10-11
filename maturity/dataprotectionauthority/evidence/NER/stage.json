@@ -1,0 +1,16 @@
+{
+ "iso3": "NER",
+ "cells": [
+  {
+   "sub_indicator": "body",
+   "stage": "2",
+   "standing": "provided",
+   "rulings": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "NER-004;NER-001",
+   "gaps": "No source held says the authority's head or members have been appointed. A report of 13 June 2026 says a decree abolished the authority and split its powers between two ministries; the decree is not held, and nothing says the ministries are doing the job.",
+   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
+  }
+ ]
+}

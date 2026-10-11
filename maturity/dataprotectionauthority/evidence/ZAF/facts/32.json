@@ -1,0 +1,37 @@
+{
+ "slug": "2026-08-31-werksmans-popia-paia-enforcement-signals",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "class": "authority",
+   "fact": "A law firm reporting the Information Regulator's 31 August 2026 briefing says the Regulator was formally established in December 2016 and is marking its tenth anniversary, with POPIA enforcement provisions in force five years.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Regulator issued a POPIA enforcement notice to the South African Bureau of Standards after an own-initiated assessment of its 2024 ransomware attack, directing it to revise policies and fix security within 90 days; the document gives no notice date, so its published date is used.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "class": "authority",
+   "fact": "The Regulator disclosed POPIA fines to date: Department of Justice R5m (disputed), Department of Basic Education R5m (before the courts), IEC R100,000 (paid), Lancet Laboratories about R100,000 (paid), Bloubergstrand Municipality R500,000 cut by a court to R250,000; fine dates are not given, so the briefing date is used.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act (POPIA)"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -83,7 +83,7 @@ Output: `systems.csv`, one row per named thing per country.
 ## 7. Stage
 
 1. **Fix the as-at**: the last day of the month before the run opens.
-2. **Stage from the answers**, §3; `stage_sources` names the `row_id`s that set it. Stagers work to `stager-brief.md`.
+2. **Stage from the answers**, §3: counting, so `scripts/study-ladder-{id}.py` does it and writes each `stage.json`; `stage_sources` names the `row_id`s that set it. **The parent first reads every fact that would set the top two stages**, and records what it removes or revalues in `corrections.csv`.
 3. **Check that two drafters agree.** A second drafter, on Opus, restages 20 cells, drawn by `study-profile.py --draw`, blind from `evidence.csv`. Below 16 in agreement, the question that split them is reworded and every country restaged.
 
 ## 8. Write

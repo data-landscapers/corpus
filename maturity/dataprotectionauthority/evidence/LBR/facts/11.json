@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-28-data-protection-africa-liberia",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "none", "fact": "The Data Protection Africa fact sheet, last updated 28 January 2026, states Liberia has no data protection legislation and no data protection authority appointed, and that no law establishes or designates an authority.", "as_of": "2026-01-28", "date_precision": "day", "system": "Data protection authority", "class": "authority"}
+  ],
+  "systems": [],
+  "note": ""
+}
