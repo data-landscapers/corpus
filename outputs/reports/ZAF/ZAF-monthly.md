@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: ZAF
-ledger_rows: 131
+ledger_rows: 132
 not_held: 21
-record: 5f38d75a2b66
+record: 0bd6e1970753
 ---
 
 # South Africa: monthly update, September – October 2026
@@ -118,6 +118,8 @@ On 9 September South Africa and Lesotho [agreed to speed up smart one-stop borde
 The state [has a policy, draft regulations and a presidential commitment for a public key infrastructure, but no root of trust in operation; Zambia and Namibia launched national root certification authorities within the same fortnight](https://techcentral.co.za/south-africa-behind-neighbours-digital-id/286057/).
 
 In a written reply reported on 23 September the minister said [the department was investigating 21 cases of identity theft and fraudulently acquired identity documents, and that an electronic interface with the electoral commission checks identity details given at voter registration and voting against the population register](https://www.timeslive.co.za/news/south-africa/2026-09-23-home-affairs-investigating-21-cases-of-identity-theft-and-fraudulent-ids/). No count of records checked or rejected through that interface has been published. The home affairs department [said the electronic travel authorisation makes automated, risk-based decisions by machine learning](https://www.itweb.co.za/article/machine-learning-gets-first-say-on-who-gets-into-sa/dgp45MaBQnyqX9l8), with a human brought in only on an anomaly. The home affairs department's quarterly report [records a missed target to start procuring digital ID hosting infrastructure](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The same report [records a missed target to revise the identification and registration Bill for public comment](https://mybroadband.co.za/news/government/669922-problem-with-plan-for-digital-ids-in-south-africa.html). The transport department told Parliament [a Presidency-led working group is exploring digital driving licences within the government's digital identity framework](https://www.parliament.gov.za/press-releases/media-statement-select-committee-briefed-proposed-amendments-regulations-governing-driving-licences). The transport department briefed Parliament on [draft regulations extending light-vehicle licence cards from five to ten years, citing breakdowns of the card printing machine](https://www.parliament.gov.za/press-releases/media-statement-select-committee-briefed-proposed-amendments-regulations-governing-driving-licences).
+
+[The transport department plans to amend the road traffic regulations so that traffic register number certificates and driving licences no longer serve as identification, after a 2023 check matched only 29,653 of 1,072,258 traffic register numbers to the immigration system](https://www.citizen.co.za/news/proposed-drivers-licence-rule-changes-to-affect-south-africans-and-foreigners/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

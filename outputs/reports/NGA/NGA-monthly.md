@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: NGA
-ledger_rows: 140
+ledger_rows: 142
 not_held: 9
-record: 9be42f7a1637
+record: 5c2b7442de83
 ---
 
 # Nigeria: monthly update, September – October 2026
@@ -29,6 +29,8 @@ The IT agency [issued a cloud package of four frameworks headed by a National Cl
 
 <!-- narrative: governance--gov-legislate -->
 The platform penalty moved toward a deal: Meta [is negotiating a settlement with the commission after a first appeal was rejected](https://www.africaintelligence.fr/afrique-ouest/2026/09/14/apres-son-amende-de-220-millions-de-dollars-meta-tente-de-negocier-un-compromis-avec-abuja,110876270-art), on a single paywalled account. [The Nigerian Fintech Regulatory Commission Bill passed second reading in the House of Representatives in October 2025 and had a public hearing on 2 March 2026; it would create a single licensing gateway beside the central bank and the securities regulator, and is still pending](https://businesstech.ng/fintech-regulatory-commission-bill-nigeria/).
+
+[Lagos State said it is working on an innovation bill to give research and innovation incentives, dedicated funding and a legal basis](https://techtrends.africa/lagos-backs-ai-builders-over-ai-buyers-at-the-nigeria-innovation-summit-11-0/), with no timeline.
 <!-- /narrative -->
 ### Data protection
 
@@ -164,6 +166,8 @@ Two September measures reach further into the state. A [single 112 emergency num
 Ondo State followed its payroll platform with [Ondo AI, launched to automate personnel administration, payroll, retirement processing and pension migration](https://www.thisdaylive.com/2026/09/25/ondo-launches-ai-system-to-automate-civil-service-pension/). The report does not say whether it is the same platform as Ondo Pay or a second one, and gives no launch date.
 
 The National Assembly's library trust fund [said on 28 September it is building electronic repositories, a legislative app and a Bills Tracker, and will translate federal laws into Hausa, Yoruba, Igbo and other Nigerian languages](https://www.premiumtimesng.com/news/top-news/913159-nass-to-digitise-records-translate-laws-into-local-languages.html). No launch date is stated.
+
+[The state network operator said more than 30 federal agencies have moved onto one platform for paperless approval of documents and memos](https://www.thisdaylive.com/2026/10/11/gbb-promises-to-increase-numbers-of-digitalised-mdas-from-current-30-says-adeyanju/), with no list of agencies or adoption target.
 <!-- /narrative -->
 
 ## Digitalisation

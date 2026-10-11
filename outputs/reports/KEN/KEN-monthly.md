@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: KEN
-ledger_rows: 122
+ledger_rows: 123
 not_held: 7
-record: ca05ebf574cd
+record: f52e901b47a2
 ---
 
 # Kenya: monthly update, September – October 2026
@@ -117,6 +117,8 @@ The head of the public service [convened the examinations council, the public se
 The President [announced Masterkey, a wallet for verifiable qualification and work records across African borders whose first phase targets 150,000 placements with Kenya, Ghana and Rwanda, Kenya leading the first national implementation through eCitizen](https://www.graphic.com.gh/news/general-news/ruto-puts-ghana-in-plan-to-make-african-skills-portable.html). He said the system will not itself award jobs, visas or professional recognition; no cost or launch date is stated.
 
 The back end became the stated priority. The ICT principal secretary said [a unified operations platform linking systems through secure APIs is being built, ahead of AI agents in service delivery](https://techtrendske.co.ke/2026/09/23/state-plans-unified-platform-to-link-government-systems/), and the ICT secretary [described the back end as still largely manual and the interoperability platform as still in development](https://techweez.com/2026/09/23/kenya-digital-transformation-backend-interoperability/); no budget or date is published. The social protection project [sought a consultant to upgrade the Enhanced Single Registry and the community development information system to exchange data with the health authority, the social security fund and the population register](https://www.kenyans.co.ke/news/127262-govt-moves-link-sha-nssf-social-protection-database), under World Bank procurement.
+
+[The electoral commission is moving its voter-registration targets from census estimates to registration-bureau and immigration data on issued identity cards and passports, against a target of 6.3 million new voters for 2027](https://nation.africa/kenya/news/politics/iebc-turns-to-id-data-to-meet-voter-targets-5623352).
 <!-- /narrative -->
 ### Digital Identity and CRVS
 

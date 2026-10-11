@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, September – October 2026
-compiled: 2026-10-09
-period: 2026-09-01 to 2026-10-09
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: NAM
-ledger_rows: 29
+ledger_rows: 30
 not_held: 9
-record: 8487bc5852d0
+record: 35447e0360b2
 ---
 
 # Namibia: monthly update, September – October 2026
@@ -84,6 +84,12 @@ A trade publication reported [the electronic identity card's September rollout d
 
 <!-- narrative: dpi--dpi-pay -->
 The system acquired a public name. The instant payment solution is [carried publicly as WayaMe, operated by Instant Payments Namibia under the central bank, with customers transacting through their existing bank applications, wallets or USSD services while the payment is routed through the national instant-payment infrastructure](https://www.namibian.com.na/explainer-what-is-wayame/), designed to carry bank-to-bank, bank-to-wallet, wallet-to-bank and wallet-to-wallet payments between participating institutions. No participant list, transaction volume, value or fee schedule is published, so interoperability is a stated design property rather than a measured one.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+
+[The home affairs minister told the National Assembly that some marriages remain unregistered because church and court registers reach the ministry late or never, a gap the records digitalisation begun in 2021 exposed](https://www.namibian.com.na/home-affairs-minister-iipumbu-urges-married-couples-to-ensure-they-are-registered/). The system relies on physical submission and does not track delivery.
 <!-- /narrative -->
 ### Sectoral management information systems
 

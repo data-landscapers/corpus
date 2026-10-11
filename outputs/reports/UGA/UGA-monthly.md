@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: UGA
-ledger_rows: 61
+ledger_rows: 62
 not_held: 11
-record: 395a9aaf30ac
+record: 41fc8f5b5eeb
 ---
 
 # Uganda: monthly update, September – October 2026
@@ -59,6 +59,8 @@ The revenue authority [told manufacturers on 11 September 2026 that its e-Tax2 p
 A second international route is being procured under a presidential directive rather than by tender. The state transmission company [cancelled open bidding for a commercialisation partner for its fibre network and moved to prepare a proposal for a single named company for the Uganda-Tanzania connection, the parliamentary committee on state enterprises asking why firms that had expressed interest were dropped](https://nilepost.co.ug/news/368959/uetcl-in-spotlight-over-uganda-tanzania-fibre-connection). A State House letter of 27 August 2025 had told the ICT and energy ministers that a Tanzanian route could be cheaper than the existing route through Kenya, which the President described as full of commercial players looking for profit. No contract, value, timetable or committee finding is held, and the cost comparison is an assertion.
 
 The second operator followed with a service rather than a partnership: it [launched Starlink satellite-to-mobile SMS and light data for compatible smartphones on 24 September](https://techafricanews.com/2026/09/24/airtel-uganda-rolls-out-starlink-satellite-to-mobile-service/), free for 30 days and then through its data bundles, with no coverage or subscriber figure.
+
+[The President directed cancellation of the agreement to revive the state telecoms operator, the investor having failed to inject an initial US$25m while seeking control of the national backbone](https://nilepost.co.ug/news/376831/museveni-orders-cancellation-of-utel-deal-calls-investors-bafere-over-missing-25-million); a Cabinet paper on a state-funded revival is to follow.
 <!-- /narrative -->
 ### Cybersecurity
 

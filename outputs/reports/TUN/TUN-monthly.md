@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: TUN
-ledger_rows: 55
+ledger_rows: 56
 not_held: 5
-record: 9c7fd01710c3
+record: 4df1fb24966a
 ---
 
 # Tunisia: monthly update, September – October 2026
@@ -114,6 +114,8 @@ Labour inspection moved onto a system of its own. The social affairs ministry [l
 
 <!-- narrative: dpi--dpi-govtech -->
 The national administrative services application [registered 50,000 users in the ten days after launch](https://www.lapresse.tn/2026/09/13/application-khadamet-50-000-utilisateurs-en-dix-jours/). The trade network [opened a web portal for electronic invoicing on 15 September](https://www.tunisienumerique.com/tunisie-tradenet-annonce-le-lancement-a-partir-daujourdhui-du-portail-web-de-la-facturation-electronique/), and the capital's municipality [launched a building permit platform on 14 September](https://www.webmanagercenter.com/2026/09/14/572745/tunisie-lancement-de-la-plateforme-numerique-taamir/). The vocational training agency's registration platform [took about 112,000 applications by 17 September](https://www.radiosfax.tn/article/6aad029387879074d59b0799/%D8%A7%D9%84%D8%B3%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-112-%D8%A3%D9%84%D9%81-%D8%AA%D8%B1%D8%B4%D8%AD-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF), against 70,000 in 2025. A legal commentary reported [the industrial property institute's digitalised system for trade marks, patents and designs, launched in June 2026](https://www.village-justice.com/articles/tunisie-enjeux-juridiques-nouveau-systeme-digitalise-innorpi,59414.html).
+
+On 11 October [the ministry put its Khadamat public-services app, reached through the mobile digital identity, on a second mobile platform after an Android release at the end of August](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A9-%C2%AB%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%C2%BB-%D9%85%D8%AA%D8%A7%D8%AD%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%C2%AB%D8%A2%D8%A8%D9%84-%D8%B3%D8%AA%D9%88%D8%B1%C2%BB).
 <!-- /narrative -->
 
 ## Digitalisation

@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: CAF
-ledger_rows: 13
+ledger_rows: 14
 not_held: 4
-record: 19fd76a12f5e
+record: 36b009bc5fe0
 ---
 
 # Central African Republic: monthly update, September – October 2026
@@ -20,6 +20,12 @@ A fire damaged the electoral authority's data-processing centre in the week befo
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+
+The digital development agency's own presentation establishes its footing: [it was created by law in June 2023 as a public establishment with a mandate to implement the national digital strategy](https://acdd.gouv.cf/agence.php). No budget, staffing or activity report is held.
+<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->

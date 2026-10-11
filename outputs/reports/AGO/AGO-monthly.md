@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: AGO
-ledger_rows: 41
+ledger_rows: 42
 not_held: 6
-record: df3a78a0e346
+record: 3a022e56f2d9
 ---
 
 # Angola: monthly update, September – October 2026
@@ -24,6 +24,12 @@ The statistics institute [put a revision of the statistics law and a draft 2026-
 
 <!-- narrative: governance--gov-legislate -->
 The statistics institute [put a revision of the national statistical system law to public consultation from 29 September to 2 October 2026](https://angop.ao/noticias/economia/ine-inicia-recolha-de-contribuicoes-para-nova-lei-estatistica/), after an extraordinary plenary of the national statistics council on 28 August. No draft text is held. The cybersecurity law [was published as Lei n.º 9/26 of 28 September and is in force](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/), revoking the 2017 law: it creates a national cybersecurity system with CERT.ao as the operational arm of its centre, and gives operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services 180 days to register with the centre, with a duty to set up incident response teams and notify significant incidents. The gazetted text is not held. The authorisation became [Lei de Autorização Legislativa n.º 12/26 of 2 October 2026, giving the President 90 days to legislate the electronic signature and digital certification regime](https://pti.ao/joao-lourenco-recebe-autorizacao-para-estabelecer-regime-da-assinatura-electronica/).
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+
+The data protection agency's own register now gives the full run of its penalties: [15 sanctions between 2022 and 2026, from US$75,000 to US$525,000, with banks, telecoms operators, the national airline and the Luanda water utility among those fined](https://apd.ao/ao/gca/index.php?id=218&preview=1).
 <!-- /narrative -->
 ### Regional collaboration
 

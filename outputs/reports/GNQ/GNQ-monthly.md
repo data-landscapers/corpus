@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: GNQ
 ledger_rows: 15
 not_held: 6
-record: 6953b86b1c7f
+record: e10ee4735686
 ---
 
 # Equatorial Guinea: monthly update, September – October 2026
@@ -31,6 +31,8 @@ Two plans and no strategy is still the position. The transport ministry's [half-
 The press bill cleared the lower house: [the Chamber of Deputies unanimously approved on 11 September the bill replacing the 1997 press law, which covered no digital journalism](https://www.guineaecuatorialpress.com/index.php/noticias/la_camara_de_los_diputados_ha_aprobado_tres_proyectos_de_leyes_presentados_por_el_gobierno).
 
 The 2024 social-media and computer-crime law was used in court for the first time on the public record. On 16 September lawyers for the vice-president [lodged four criminal complaints at a Malabo investigating court against a digital newspaper's journalist and three others under articles 2, 50 and 60](https://www.guineaecuatorialpress.com/noticias/el_despacho_que_representa_a_se_nguema_obiang_mangue_explica_las_acciones_contra_diadario_rombe_y_otras_tres_personas), using article 2 to reach conduct committed outside the country. The complaints came while Facebook and TikTok remained blocked.
+
+[A Senate committee approved by consensus its final report on the press freedom bill and sent it to the plenary](https://ahoraeg.com/politica/2026/10/08/la-nueva-ley-de-libertad-de-prensa-avanza-al-pleno-del-senado-tras-el-consenso-alcanzado-por-la-comision/).
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

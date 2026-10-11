@@ -1,12 +1,12 @@
 ---
 title: South Sudan — progress report, October 2025 – October 2026
-compiled: 2026-10-10
-period: 2025-10-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2025-10-01 to 2026-10-11
 place: SSD
-ledger_rows: 155
+ledger_rows: 156
 not_held: 10
 indicators: 123
-record: cc3b1f6166fd
+record: bb8c7d454458
 ---
 
 # South Sudan: progress report, October 2025 – October 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the repository holds nothing on that indicator. **That is a statement about this repository, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-10-01 to 2026-10-10.*
+*The period is 2025-10-01 to 2026-10-11.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the repository holds a standing position and nothing in the period touched it. ***No evidence*** — the repository holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Movement, regulations still pending*.
 
@@ -24,7 +24,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Strategies, plans and policies | Digital transformation strategy | A [presidential decree ordering full digitisation](https://www.ecofinagency.com/news-digital/1912-51559-south-sudan-orders-full-digitization-of-public-institutions) set a January 2026 adoption deadline, and the deadline passed without a compliance report. <details><summary>Full record</summary>The decree granted an electronic services council full authority over the digitisation of public institutions ([decree](https://www.ecofinagency.com/news-digital/1912-51559-south-sudan-orders-full-digitization-of-public-institutions)).<br>The deadline passed and nothing on file records compliance, an extension or a report against it. The country is placed 192nd of 193 on the international electronic government index for 2024.<br>A decree with a deadline and no compliance mechanism is the shape of much of this ledger, and the reason is recorded separately: there is no operating gazette in which an instrument can be published or checked.</details> | Stalled |
+| Strategies, plans and policies | Digital transformation strategy | A [presidential decree ordering full digitisation](https://www.ecofinagency.com/news-digital/1912-51559-south-sudan-orders-full-digitization-of-public-institutions) set a January 2026 adoption deadline, and the deadline passed without a compliance report. <details><summary>Full record</summary>The decree granted an electronic services council full authority over the digitisation of public institutions ([decree](https://www.ecofinagency.com/news-digital/1912-51559-south-sudan-orders-full-digitization-of-public-institutions)).<br>The deadline passed and nothing on file records compliance, an extension or a report against it. The country is placed 192nd of 193 on the international electronic government index for 2024.<br>A decree with a deadline and no compliance mechanism is the shape of much of this ledger, and the reason is recorded separately: there is no operating gazette in which an instrument can be published or checked.<br>2025-06 — [the ICT minister said the government is implementing the 2012 ICT policy, a 2023 digital government strategy and a 2024 digital roadmap while developing a new digital transformation strategy](https://itweb.africa/article/south-sudan-optimistic-about-digital-prospects-despite-conflict/8OKdWqDXan4qbznQ). None of the three later texts is held.</details> | Stalled |
 | Strategies, plans and policies | ICT strategy | The [National ICT Policy 2012](https://ictpolicyafrica.org/fr/document/4nwphnnp7r) is still the standing sector instrument, fourteen years on. <details><summary>Full record</summary>The policy covers telecommunications, postal and information technology, and is corroborated as current by the universal service fund's own pages and by a 2022 country diagnostic ([policy](https://ictpolicyafrica.org/fr/document/4nwphnnp7r)).<br>The nearest thing to a newer directive is a regulator's circular of April 2026 requiring its licensees to integrate with a single national service platform ([circular](https://www.nca.gov.ss/mandatory-use-of-the-national-e-service-platform-for-regulatory-payments-and-services)).<br>No review, successor or delivery report against the 2012 policy appears anywhere in the repository.</details> | No change |
 | Strategies, plans and policies | Broadband strategy | A [National Spectrum Management and 5G Strategy](https://techafricanews.com/2026/07/20/south-sudan-launches-national-spectrum-management-and-5g-strategy-development/) closed its inception workshop with methodology, work plan and governance structures agreed. <details><summary>Full record</summary>The strategy is donor-financed through the regional digital integration project and consultant-led ([strategy](https://techafricanews.com/2026/07/20/south-sudan-launches-national-spectrum-management-and-5g-strategy-development/)).<br>No draft, spectrum award or timetable follows it. It is the only forward-looking connectivity instrument in this unit that is not a fibre route, and it is being written by external consultants inside a project the same lender finances.</details> | Movement |
 | Strategies, plans and policies | Data storage / cloud strategy | [Government data-hosting and cloud guidelines](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) are recorded as unpublished, unchanged from a 2022 baseline against a 2028 target. <details><summary>Full record</summary>They are a results indicator of the regional digital integration project and the lender records them as unpublished ([guidelines](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt)).<br>That absence bears directly on the national data centre and the international gateway, both operated by the same private company, and on the question of where government data currently sits — which nothing published answers.</details> | No change |

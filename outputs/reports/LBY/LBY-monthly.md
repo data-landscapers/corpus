@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: LBY
 ledger_rows: 34
-not_held: 2
-record: cd67b845d237
+not_held: 4
+record: 092d378639a1
 ---
 
 # Libya: monthly update, September – October 2026

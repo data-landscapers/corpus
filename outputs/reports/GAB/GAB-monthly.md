@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: GAB
-ledger_rows: 44
+ledger_rows: 45
 not_held: 15
-record: 20ca9e339e2e
+record: 9cf713736166
 ---
 
 # Gabon: monthly update, September – October 2026
@@ -70,6 +70,8 @@ Chinese interest in state hosting became a site visit. A Chinese government dele
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The government [raised its vigilance level after more than 900,000 intrusion alerts were recorded in sixty days, some judged very critical, following several attacks on national bodies](https://www.gabonreview.com/cybermenaces-900-000-alertes-en-60-jours-le-gabon-passe-en-vigilance-renforcee/), the digital economy minister calling on 7 September for protection to be treated as a permanent requirement. On 10 September ANINF [answered that the figure shows a system able to detect threats and not 900,000 compromises](https://www.gabonreview.com/cybermenaces-ce-que-laninf-dit-vraiment-des-900-000-alertes-qui-font-polemique/). The window's dates and the number of alerts confirmed as incidents are not published.
+
+On 7 October [an accord between the digital infrastructure agency and a security vendor was reported to provide for a competence centre in Libreville for threat monitoring and skills transfer](https://echosdeleco.com/articles/cybersecurite-le-gabon-renforce-ses-defenses-face-aux-attaques-dopees-a-l-ia). No date or cost is given.
 <!-- /narrative -->
 
 ## DPI

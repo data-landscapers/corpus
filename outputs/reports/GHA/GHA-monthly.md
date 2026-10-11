@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, September – October 2026
-compiled: 2026-10-10
-period: 2026-09-01 to 2026-10-10
+compiled: 2026-10-11
+period: 2026-09-01 to 2026-10-11
 place: GHA
-ledger_rows: 93
+ledger_rows: 96
 not_held: 10
-record: 22a146ca6356
+record: 5487bdefe15a
 ---
 
 # Ghana: monthly update, September – October 2026
@@ -34,6 +34,8 @@ The legislative programme itself got a ministerial account on 7 September: under
 
 <!-- narrative: governance--gov-protect -->
 The regulator's own first-half numbers reached the repository on 7 September, and they measure activity rather than enforcement: a [51.5% rise in regulatory activity and a 98.4% rise in newly registered data controllers over the first half of 2026, with a public campaign put at an estimated 25 million people reached](https://www.myjoyonline.com/full-text-sam-georges-speech-at-government-accountability-series-2/). The controller figure is a growth rate published without the repository it grew from, and no fine or prosecution has yet been published. The President [confirmed publicly in New York that Cabinet rejected the United States health agreement](https://ghananewsglobal.com/president-mahama-defends-rejection-of-u-s-health-compact-calls-terms-humiliating-and-a-threat-to-sovereignty/) over demands for pathogen samples, medical records and exemption from the food and drugs regulator; the United States chargé d'affaires [said on 29 September it was meant to taper assistance toward country ownership](https://gna.org.gh/2026/09/u-s-seeks-transition-from-health-aid-dependency-to-country-ownership-rolf-olson/).
+
+The refused health agreement is back on the table: [the President said the United States had asked to reopen the compact, to amend or remove the clauses Ghana objected to on pathogen profiles and medical records](https://www.myjoyonline.com/us-seeks-changes-to-rejected-109m-health-compact-with-ghana-mahama/).
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -44,6 +46,8 @@ Ghana's regional position moved on three fronts, none of them with a text attach
 
 <!-- narrative: governance--gov-standards -->
 The central bank [directed banks to give their fraud functions direct access to the chief executive, alongside work on implementing the directive](https://www.myjoyonline.com/bog-orders-banks-to-give-fraud-units-direct-access-to-ceos/).
+
+On 8 October [the central bank announced thematic reviews of how banks have implemented the revised cyber and information security directive](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/).
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -121,6 +125,8 @@ The virtual-asset regime acquired its coordinating machinery. A five-agency comm
 The central bank widened its enforcement. On 8 September it [named a second list of 20 unlicensed digital loan apps](https://www.bog.gov.gh/wp-content/uploads/2026/09/Notice-No.29-BOG-SEC-GOV-2026-Notice-PUBLICATION-OF-UNLICENSED-DIGITAL-CREDIT-SERVICE-PROVIDERS-ON-THE-BANKS-WEBSITE-SOCIAL-MEDIA-PLATFORMS-AND-OTHER-COMM-CHANNELS.pdf), five weeks after the first, [warning banks and payment providers not to process for them](https://gna.org.gh/2026/09/bog-names-20-unlicensed-digital-loan-providers/); the register of licensed providers it undertook to publish is still not out.
 
 On 23 September a fintech [began opening bank-backed virtual accounts for its Ghanaian customers through an API integration with Universal Merchant Bank](https://www.graphic.com.gh/business/business-news/chipper-cash-launches-bank-backed-virtual-accounts-with-umb.html), which the central bank and the securities regulator had approved to offer virtual accounts to eligible virtual-asset businesses. The approval date is not stated.
+
+On 6 October [the central bank named a further twenty unlicensed loan apps and told banks and payment providers not to process for them](https://www.bog.gov.gh/wp-content/uploads/2026/10/Notice-No.36-BOG-SEC-GOV-2026-Notice-UNLICENSED-DIGITAL-CREDIT-SERVICES-PROVIDERS.pdf), the third such list since August. [A new dedicated electronic money issuer began operations the next day](https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf), and the governor used the occasion to give the measure of the market: [about 85.8 million registered mobile money accounts in August 2026, of which about 26.4 million had been used in the previous ninety days](https://www.bog.gov.gh/wp-content/uploads/2026/10/REMARKS-BY-GOVERNOR-DR-JOHNSON-PANDIT-ASIAMA-AT-THE-OFFICIAL-LAUNCH-OF-SAOPAY-091026.pdf).
 <!-- /narrative -->
 ### Registries
 
@@ -135,6 +141,8 @@ The household registry published its national total: [11.24 million people in 2,
 The health insurer [described electronic claims, biometric member verification and one-time attendance codes as in operation, with active membership at 70% in August 2026 against an 80% year-end target](https://theoverseeronline.com/victor-bampoe-2-3/), its own account with no claims or rejection figures.
 
 The education ministry [said more than 6,000 of 8,000 complaints against this year's computerised school placements had been resolved](https://onuaonline.com/cssps-over-6000-of-8000-complaints-resolved-sept-18-reopening-date-unchanged/), with reopening left at 18 September.
+
+[The revenue authority said collection of the tax on cross-border digital services through its Sentinel system starts on 15 October 2026](https://www.graphic.com.gh/business/business-news/gras-new-system-to-collect-digital-vat.html).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -167,6 +175,8 @@ Two applied systems launched outside government. The development bank's [AI plat
 Two automated systems reported. The police [set 1 October 2026 for full automated traffic enforcement](https://www.graphic.com.gh/news/general-news/police-to-enforce-automated-traffic-offences-from-october-1.html), with camera-captured offences reviewed before notices go out by SMS and fines paid through Ghana.gov within 14 days, after a pilot that issued about 120,000 caution notices. The revenue authority [put customs collections at up to US$450m a month against about US$350m before its AI valuation system](https://www.myjoyonline.com/customs-revenue-jumps-to-450m-monthly-since-ai-introduction/), its own figure and higher than the finance ministry's monthly series.
 
 Two disability systems came out of one university. Researchers at the Kwame Nkrumah University of Science and Technology [presented SignTalk-Gh, a working model that translates Ghanaian Sign Language to text and audio and back for doctor-patient consultations](https://www.knust.edu.gh/news/news-items/knust-researchers-develop-ai-system-bridge-ghanaian-sign-language-communication-gap-healthcare), not yet deployed in any hospital, and its Responsible AI Lab [now hosts a continental Hub for AI and Disability Inclusion, launched with a network for finding disability datasets and a first-year inventory of them](https://techcabal.com/2026/09/24/africas-ai-ambitions-have-a-disability-data-problem/). A commentator's account [puts the start of fining under the automated traffic system back a month, to 1 November](https://www.myjoyonline.com/the-traffitech-gh-sms-spot-fine-system-the-good-the-sad-and-the-funny-bright-simons-writes/), after complaints of poor sensitisation.
+
+[The central bank's governor said a directive on the use of artificial intelligence in the financial sector is in drafting](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/); no draft or date is published.
 <!-- /narrative -->
 
 ## Capacity
