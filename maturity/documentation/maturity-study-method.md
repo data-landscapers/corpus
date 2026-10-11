@@ -22,21 +22,15 @@ status: in use; Bill's rulings of 2026-10-06, 2026-10-10 and 2026-10-11
 
 **Bill is asked once, at step 2.** "**prepare maturity study {id}**" starts step 1, "**run maturity study {id}**" step 3 and "**complete maturity study {id}**" step 5, **in a fresh session**; the cycle that finds the note closed says so (`CYCLE.md` step 4). A later doubt is settled conservatively and reported at the end.
 
-**A study is sized by the quota it takes** *(Bill, 2026-10-11)*. Each fan-out runs as one workflow, so the parent wakes once a stage and never once an agent. Steps 3 and 5 each end with `python scripts/study-tokens.py` and its total in the log line.
+**A study is sized by the quota it takes** *(Bill, 2026-10-11)*. Each fan-out runs as one workflow, so the parent wakes once a stage. Steps 3 and 5 each end with `python scripts/study-tokens.py` and its total in the log line.
 
-**Where things live** *(Bill)*:
-
-| What | Where |
-|---|---|
-| This method and anything generic | `maturity/documentation/` |
-| A study's file and its working files | `maturity/{id}/` |
-| What a study issues | `outputs/maturity/{id}/` |
+**Where things live** *(Bill)*: anything generic in `maturity/documentation/`, a study's file and working files in `maturity/{id}/`, what it issues in `outputs/maturity/{id}/`.
 
 ## 1. Typology before anything is compared
 
 **Settle what the thing is, then classify every system the evidence names.** The study file lists the classes: assessed, noted and not assessed, or out of scope. Where one label hides two things, the indicator splits into sub-indicators, each with its own ladder.
 
-**A country's label is the country's; the class is Corpus's.** Nor is a product a class: classify the deployment by what the source says it does. A system named with no description stays unclassified, a gap for §5.
+**Class by what the thing does, never by its form** *(Bill, 2026-10-11)*: what does the job counts, whatever it is called and whatever larger thing it sits in. **A class exists only where it changes a stage or a flag.** A system named with no description stays unclassified, a gap for §5.
 
 Output: `systems.csv`, one row per named system per country.
 
@@ -58,18 +52,22 @@ Output: `systems.csv`, one row per named system per country.
 
 ## 4. Step 3: review what is held
 
-**Read the cheapest source that settles the rung** *(Bill, 2026-10-11)*. Dated news and official notices settle existence, standing and period. An instrument's own text is opened only for a cell that has reached a rung whose test needs it.
+**Read the cheapest source that settles the rung** *(Bill, 2026-10-11)*. Dated news and official notices settle existence, standing and period. An instrument's own text is opened only for a cell at a rung whose test needs it.
 
-`scripts/study-select.py {id}` writes `maturity/{id}/evidence/{ISO3}/readlist.csv`: every held document on the country that carries a study term or that its report cites on the subject, a long or thinly matching one as passages *(Bill, 2026-10-10)*.
+**Start from the assessment already held** *(Bill, 2026-10-11)*: the frame's cells for the row and its neighbours, with their sources, are carried into `evidence.csv` first. **A country is read, and searched, only where they leave a coverage aspect short of a rung test.**
+
+`scripts/study-select.py {id}` writes `maturity/{id}/evidence/{ISO3}/readlist.csv`: every held document on the country that carries a study term or that its report cites on the subject, a long or thinly matching one as passages.
+
+**A term names the subject, not its field**: a dry run listing more than could be about the subject means the terms are too broad. Size a study by what it will read.
 
 **The list is ranked and read from the top, by `pass`**: news before instruments, then title-matched, then newest.
 
-1. **`1`, about 15 documents, is read for every country.**
+1. **`1`, about 15 documents, is read for every country with such a gap.**
 2. **`2` is read a call at a time while `profile.csv` shows a coverage `gap`**, and stops when two calls running add no fact.
 3. **`rung` is opened a document at a time**, for a cell placed below a rung that tests the text, and for that rung's aspects.
 
-**A drafter is a fresh call on one `slice`, five documents at most, never a run of them.** Drafters work to `drafter-brief.md`, on Sonnet *(Bill, 2026-10-10)*, read the document and not its ledger line, and write the facts `study-profile.py --merge` folds into `evidence.csv`, one row per stated fact. A row holds only what its own source states.
-`scripts/study-profile.py` then writes `profile.csv`: per sub-indicator and aspect, the best-evidenced value, its sources and a `gap` cell.
+**A drafter is a fresh call on one `slice`, five documents at most, never a run of them.** Drafters work to `drafter-brief.md`, on Sonnet, read the document and not its ledger line, and write the facts `study-profile.py --merge` folds into `evidence.csv`, one row per stated fact.
+`study-profile.py` then writes `profile.csv`: each aspect's best-evidenced value, its sources and a `gap` cell.
 
 **The parent verifies files, not tallies**: slugs resolve in `raw/` and sampled facts match the body.
 
@@ -81,16 +79,14 @@ Output: `systems.csv`, one row per named system per country.
 
 **Searchers work to `searcher-brief.md`, on Sonnet; `scripts/study-stage.py` fetches and stages.**
 
-- **Relevance selects; there is no numeric cap** *(Bill)*. A fetched document is kept when its body states a dated fact, on an aspect with a gap, that nothing held states; one such fact is enough. Anything else goes to the unselected register.
-- **Delivery is a handover in `prepared\`, not a `new-queue\` batch** *(Bill)*. Candidates are written to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`, flat with no country folders, under the frontmatter `study-stage.py` writes.
+- **Relevance selects; there is no numeric cap** *(Bill)*. A fetched document is kept when its body states a dated fact, on an aspect with a gap, that nothing held states.
+- **Delivery is a handover in `prepared\`, not a `new-queue\` batch** *(Bill)*. Candidates are written flat to `C:\corpus-osint-xfer\prepared\maturity-study-{id}\`.
 - **OSINT's cycle pulls the folder once it carries `READY`, written last**; file names are unique against `raw/`. One `[ACT]` note in `notes-for-osint.md`, titled *Maturity study {id}: evidence to ingest*, with `Affects: outputs/maturity/{id}/`. `study-stage.py ready` writes the folder's `BRIEF.md`.
 - **Records in `maturity/{id}/search/`**: `searched.csv`, `staged.csv` by file handed over, and `unselected.csv`. Candidate bodies are never committed.
 
 Before the note, `python scripts/lint-staged-queue.py {folder}` passes; then the share is committed and pushed.
 
 **A found document reaches the study only through ingest** *(Bill)*.
-
-**Step 3 ends** with a commit and a log line.
 
 ## 6. Step 4: OSINT's ingest
 
@@ -113,14 +109,13 @@ Files, in `outputs/maturity/{id}/`:
 
 | File | Holds |
 |---|---|
-| `assessment.csv` | One row per country per sub-indicator: `iso3, indicator_id, as_at, stage, one column per aspect, cap, flags, short, stage_sources, gaps` |
-| `systems.csv` | The typology, §1 |
+| `assessment.csv` | One row per country per sub-indicator; `lint-study.py` holds the columns |
 | `{ISO3}.md` | The long summaries |
 | `{indicator_id}.md` | Cross-country page: norm, ladder, then each country |
 
 `scripts/study-render.py` writes the pages from the CSVs. `scripts/lint-study.py` holds them.
 
-**Step 5 ends on the soft-launch map and methodology page** *(Bill; `output-spec-v2.md`)*: write five `criteria` and `criteria_of` into `study.json`, run `scripts/maturity-site.py`, commit and push. Nobody is asked first.
+**Step 5 ends on the soft-launch map and methodology page** *(Bill; `output-spec-v2.md`)*: write five `criteria` and `criteria_of` into `study.json`, run `scripts/maturity-site.py`, commit and push.
 
 **The frame is not touched until Bill accepts the study.** On acceptance, rows are retired and minted under `adding-an-indicator.md` §2 and §10, and the study's CSV is the baseline edition.
 
