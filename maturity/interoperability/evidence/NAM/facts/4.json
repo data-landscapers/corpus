@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-30-bon-open-banking-standards-guidance-note",
+  "facts": [],
+  "systems": [
+    {"system": "Open Banking Standards", "country_label": "Open Banking Standards", "class": "other", "platform": "standardised APIs and data formats", "owner": "Bank of Namibia", "tiers": "banking institutions, non-bank financial institutions, authorised third-party providers"}
+  ],
+  "note": "Sector-only (national payment system) data-sharing standards; not a government-wide framework for public systems, so class other and no fact."
+}

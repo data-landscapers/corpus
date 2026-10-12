@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-11-cote-divoire-atelier-interoperabilite-sig-rsu-protection-sociale",
+  "facts": [],
+  "systems": [
+    {"system": "SIG-RSU (Registre Social Unique)", "country_label": "SIG-RSU", "class": "other", "platform": "", "owner": "Ministère de la Cohésion nationale, de la Solidarité et de la Lutte contre la Pauvreté, via the Bureau de Coordination du Programme Filets Sociaux", "tiers": "social protection bodies (CNAM, CNPS, CGRAE, ONECI, WURI, DOB)"}
+  ],
+  "note": "The framework discussed is the sector-only interoperability framework of the social registry (RSU), not the government's common rule: class other, no fact."
+}

@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GNQ,SYDONIA,SYDONIA,other,,,customs; named as an exception to platforms that do not interoperate,2024-01-01-worldbank-equatorial-guinea-digital-economy-diagnostic
+GNQ,SIGFIP,SIGFIP,other,,,ministry-level; interoperability achieved ad hoc without central coordination,2024-01-01-worldbank-equatorial-guinea-digital-economy-diagnostic
+GNQ,Integrated tax revenue management system,Sistema integrado de gestión de ingresos tributarios,other,,"Ministry of Finance (DGIC, DGA, State Treasury, Budget, Public Accounting)",central,2026-09-15-pamfp-mobilization-of-non-oil-revenues
+GNQ,SYDONIA,SYDONIA,other,,General Administration of Customs,central,2026-09-15-pamfp-mobilization-of-non-oil-revenues
+GNQ,SAGE,SAGE,other,,State Treasury Department,central,2026-09-15-pamfp-mobilization-of-non-oil-revenues
+GNQ,SIGEF,Sistema Integral de Gestión de Funcionarios (SIGEF),other,,"Presidencia del Gobierno, steering committee chaired by the Ministro Secretario General",national,2026-06-17-guinea-ecuatorial-sigef-comite-pilotaje-interoperabilidad-biometria
+GNQ,Mobile application for statistical data exchange,aplicación móvil para el intercambio de datos estadísticos,other,mobile app,INEGE,national; ministerial statistical services,2026-04-08-inege-septima-sesion-comite-programas-estadisticos
+GNQ,BIC-CEMAC (Creditinfo Central Africa),Bureau d'Information sur le Crédit CEMAC,other,hub-and-spokes,Creditinfo Central Africa under BEAC,regional; banks and microfinance institutions,2026-01-20-beac-ifc-lancement-bic-cemac-creditinfo

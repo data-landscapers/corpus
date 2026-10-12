@@ -1,0 +1,12 @@
+{
+  "slug": "2026-08-10-somalia-auditor-general-fmis-systems-fragmentation",
+  "facts": [],
+  "systems": [
+    {"system": "SFMIS", "country_label": "SFMIS", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": "central government"},
+    {"system": "Somalia Business Registration System", "country_label": "Nidaamka Diiwaangelinta Ganacsiga Soomaaliya", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Electronic Tax Administration System", "country_label": "Nidaamka Maamulka Canshuuraha Elektarooniga ah", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "E-Visa", "country_label": "E-Visa", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "HEMIS", "country_label": "Higher Education Management Information System", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Auditor-General found seven revenue systems not connected to SFMIS; says nothing about an interoperability framework."
+}

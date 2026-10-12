@@ -1,0 +1,34 @@
+{
+  "slug": "2022-11-01-ugd-cadre-interoperabilite-v1.0.2",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The UGD published version 1.0.2 of the Cadre d'interopérabilité, described as the first official interoperability framework in Madagascar, validated on 10 November 2022 after drafts from December 2021.",
+      "as_of": "2022-11",
+      "date_precision": "month",
+      "system": "Cadre d'interopérabilité V1.0.2",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Orinasa",
+      "country_label": "Orinasa",
+      "class": "other",
+      "platform": "",
+      "owner": "UGD",
+      "tiers": "EDBM, DGI, MINJUS, INSTAT"
+    },
+    {
+      "system": "X-Road",
+      "country_label": "X-ROAD Security Server",
+      "class": "other",
+      "platform": "X-Road",
+      "owner": "UGD",
+      "tiers": ""
+    }
+  ],
+  "note": "Standing fact only; the framework tells stakeholders to follow it but cites no decree or enforcing body, and no dated body-count is given for use."
+}

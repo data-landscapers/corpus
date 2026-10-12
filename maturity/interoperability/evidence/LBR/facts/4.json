@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-29-executive-order-163-digital-government-ndmi-observer",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "Executive Order No. 163, signed 22 April 2026, creates the Office of Technology, Digitalization and Innovation (OTDI) and introduces a Government Enterprise Architecture Framework and a Government Interoperability Framework, with OTDI to present a prioritized roadmap within 180 days; the report describes no adopted framework text.", "as_of": "2026-04-22", "date_precision": "day", "system": "Government Interoperability Framework", "class": "framework"}
+  ],
+  "systems": [],
+  "note": ""
+}

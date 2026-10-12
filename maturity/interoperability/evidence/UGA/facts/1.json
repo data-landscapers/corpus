@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-27-ega-uganda-renewed-digital-government-frameworks",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The e-Governance Academy reports that the Government of Uganda, through NITA-U with World Bank support, renewed the Government Enterprise Architecture and the e-Government Interoperability Framework, and that the project delivered an enhanced e-GIF for standardised data exchange across government systems; the source gives no event date, so the 2026-05-27 publication date is used.", "as_of": "2026-05-27", "date_precision": "day", "system": "e-Government Interoperability Framework (e-GIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "e-Government Interoperability Framework (e-GIF)", "country_label": "e-GIF", "class": "framework", "platform": "", "owner": "NITA-U", "tiers": "government systems across sectors"},
+    {"system": "Government Enterprise Architecture (GEA)", "country_label": "GEA", "class": "other", "platform": "", "owner": "NITA-U", "tiers": "government sectors"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-30-lessor-agetic-intranet-point-ml",
+  "facts": [],
+  "systems": [
+    {"system": "Intranet gouvernemental", "country_label": "Intranet gouvernemental", "class": "other", "platform": "", "owner": "AGETIC", "tiers": "public and para-public services"},
+    {"system": "Portail guichet unique des services publics numérisés", "country_label": "single-window portal of digitalised public services", "class": "other", "platform": "", "owner": "AGETIC", "tiers": "13 services integrated"},
+    {"system": "Messagerie gouvernementale", "country_label": "government messaging system", "class": "other", "platform": "", "owner": "AGETIC", "tiers": ""}
+  ],
+  "note": "A government network, portal and messaging system with a draft decree making messaging mandatory; no interoperability framework is stated."
+}

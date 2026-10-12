@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-rediaspora-diaspora-electoral-registration",
+  "facts": [],
+  "systems": [
+    {"system": "ReDiaspora", "country_label": "Recenseamento Eleitoral na Diáspora", "class": "other", "platform": "Portal Consular", "owner": "DGAPE", "tiers": ""},
+    {"system": "SIGE", "country_label": "Sistema Integrado de Gestão Eleitoral", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "SNIAC", "country_label": "Sistema Nacional de Identificação e Autenticação Civil", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Sector electoral system with interoperation to civil ID database; no government framework stated."
+}

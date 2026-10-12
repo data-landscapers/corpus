@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE",
+  "facts": [],
+  "systems": [
+    {"system": "X-Road", "country_label": "X-Road", "class": "other", "platform": "X-Road", "owner": "MICSTI (Ministry of Information, Communications, Science, Technology and Innovation)", "tiers": "government ministries"}
+  ],
+  "note": "X-Road is an exchange platform presented to connect ministries; the document names no framework, so no fact."
+}

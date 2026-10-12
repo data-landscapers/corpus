@@ -1,0 +1,8 @@
+{
+  "slug": "2024-03-01-interview-niger-single-window-ali-karim-alio",
+  "facts": [],
+  "systems": [
+    {"system": "Guichet Unique du Commerce Extérieur (GUCE Niger)", "country_label": "GUCE Niger", "class": "other", "platform": "Webb Fontaine Single Window", "owner": "State of Niger; Webb Fontaine Niger as technical partner", "tiers": "Chamber of Commerce; Ministries of Commerce, Health, Livestock, Agriculture, Finance"}
+  ],
+  "note": "Trade single window described; no interoperability framework behind it is stated."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-23-worldbank-p174620-procurement-plan-arcep-spectrum",
+  "facts": [],
+  "systems": [
+    {"system": "ARCEP GIS, statistics and QoS software platforms", "country_label": "Cartographie d'infrastructure SIG; collecte de données statistiques; suivi QoS", "class": "other", "platform": "", "owner": "ARCEP", "tiers": ""},
+    {"system": "ARCEP spectrum monitoring and management system", "country_label": "système de gestion du spectre", "class": "other", "platform": "", "owner": "ARCEP", "tiers": ""}
+  ],
+  "note": "Procurement plan for two ARCEP packages; no interoperability framework."
+}

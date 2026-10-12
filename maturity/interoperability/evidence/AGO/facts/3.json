@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm",
+  "facts": [],
+  "systems": [
+    {"system": "Base de Dados dos Cidadãos Maiores (BDCM)", "country_label": "BDCM", "class": "other", "platform": "", "owner": "Ministério da Administração do Território / presidential commission", "tiers": "national"},
+    {"system": "Base de Dados de Identificação Civil (BDIC)", "country_label": "BDIC", "class": "other", "platform": "", "owner": "Ministério da Justiça e dos Direitos Humanos", "tiers": "national"}
+  ],
+  "note": "Data interoperability between two national databases (BDIC and BDCM) is a bilateral data link, not a government interoperability framework: no fact."
+}

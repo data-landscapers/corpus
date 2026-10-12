@@ -1,0 +1,8 @@
+{"slug":"2025-09-26 Mali introduces new platforms to enhance digital public service access","facts":[],"systems":[
+{"system":"Sigui-Dolo","country_label":"Sigui-Dolo","class":"other","platform":"","owner":"Transport ministry","tiers":"national"},
+{"system":"TrésorPay","country_label":"TrésorPay","class":"other","platform":"","owner":"","tiers":"national"},
+{"system":"SYDONIA","country_label":"SYDONIA","class":"other","platform":"","owner":"","tiers":"national"},
+{"system":"OpenClinic","country_label":"OpenClinic","class":"other","platform":"OpenClinic","owner":"Health Ministry","tiers":"national"},
+{"system":"SIGIP","country_label":"SIGIP","class":"other","platform":"","owner":"Ministry of Territorial Administration and Decentralisation","tiers":"national"},
+{"system":"NINA","country_label":"NINA","class":"other","platform":"","owner":"","tiers":"national"}],
+"note":"Platforms connect to each other (Sigui-Dolo to TrésorPay and SYDONIA) but no common interoperability framework is stated."}

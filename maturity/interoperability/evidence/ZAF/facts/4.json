@@ -1,0 +1,15 @@
+{
+  "slug": "2025-10-10-mzansixchange-launch",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MzansiXchange",
+      "country_label": "MzansiXchange",
+      "class": "other",
+      "platform": "X-Road",
+      "owner": "National Treasury",
+      "tiers": "national departments"
+    }
+  ],
+  "note": "MzansiXchange is an exchange platform; the governance frameworks it 'will have' are intentions with no drafting stated, so no fact."
+}

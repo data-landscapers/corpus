@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-mediaguinee-nimbapay-lancement",
+  "facts": [],
+  "systems": [
+    {"system": "NimbaPay", "country_label": "NimbaPay, Système de Paiement Instantané et Inclusif", "class": "other", "platform": "", "owner": "BCRG (Banque centrale de la République de Guinée)", "tiers": "banks, e-money institutions, microfinance institutions"}
+  ],
+  "note": "Launch of a payment interoperability platform (class other); no government data-exchange framework is stated."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-08-guineabissau-national-interoperability-framework",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "A WARDIP Guinea-Bissau post says the government approved the national interoperability regulation (quadro nacional de interoperabilidade), tied to the World Bank-backed WARDIP programme; the post gives no event date, so the published date 2026-08-08 is used.", "as_of": "2026-08-08", "date_precision": "day", "system": "Regulamento Nacional de Interoperabilidade", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Regulamento Nacional de Interoperabilidade", "country_label": "Quadro Nacional de Interoperabilidade", "class": "framework", "platform": "", "owner": "Government of Guinea-Bissau (announced by WARDIP Guiné-Bissau)", "tiers": ""}
+  ],
+  "note": "No fact on use: the post does not say the regulation is compulsory, names no enforcing body and counts no bodies following it."
+}

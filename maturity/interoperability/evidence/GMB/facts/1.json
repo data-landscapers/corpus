@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-22-gambia-validates-national-enterprise-architecture-govstack-techreviewafrica",
+  "facts": [],
+  "systems": [
+    {"system": "National Enterprise Architecture", "country_label": "National Enterprise Architecture (GovStack initiative)", "class": "other", "platform": "GovStack", "owner": "GICTA, with ITU Regional Office for Africa support", "tiers": ""}
+  ],
+  "note": "Article reports a May 2026 validation workshop for a National Enterprise Architecture but does not say it sets data-exchange standards or a common exchange rule, nor that any decree makes it compulsory; treated as other."
+}

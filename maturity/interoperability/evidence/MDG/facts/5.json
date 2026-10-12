@@ -1,0 +1,26 @@
+{
+  "slug": "2026-04-29-newsmada-rahaka-interoperability-platform-launch",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The article says the Rahaka system is implemented within a legal framework reinforced by decree no. 2025-1959 on the interoperability of public information systems; the decree's year is taken from its number, the article gives no adoption date.",
+      "as_of": "2025",
+      "date_precision": "year",
+      "system": "Décret n°2025-1959 relatif à l'interopérabilité des systèmes d'information publics",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Rahaka",
+      "country_label": "Rahaka",
+      "class": "other",
+      "platform": "X-Road",
+      "owner": "Unité de Gouvernance Digitale (UGD), with PRODIGY (World Bank) and MNDPT",
+      "tiers": ""
+    }
+  ],
+  "note": "Platform launch article; it names the decree but does not state that it is compulsory or count bodies using it, so no use fact."
+}

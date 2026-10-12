@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-08-undp-eritrea-asycuda-world-digital-customs",
+  "facts": [],
+  "systems": [
+    {"system": "ASYCUDA World", "country_label": "ASYCUDA World customs management system", "class": "other", "platform": "ASYCUDA World (UNCTAD)", "owner": "Eritrean Customs Department", "tiers": "all customs stations"}
+  ],
+  "note": "Customs-only system linking customs stations over an intranet; no government-wide interoperability framework is stated."
+}

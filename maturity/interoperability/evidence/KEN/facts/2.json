@@ -1,0 +1,26 @@
+{
+  "slug": "2025-11-07-kenya-gea-interoperability-workshop-kicc",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The ICT Authority, under KDEAP, held a two-day workshop with ministries, departments and agencies on 6-7 November 2025 on Government Enterprise Architecture and the national e-Government Interoperability Framework, and says it will develop and finalize the national GEA standards and interoperability framework, so none is yet final.",
+      "as_of": "2025-11-07",
+      "date_precision": "day",
+      "system": "National e-Government Interoperability Framework and Government Enterprise Architecture standards",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "National e-Government Interoperability Framework and Government Enterprise Architecture standards",
+      "country_label": "GEA and national e-Government Interoperability Framework",
+      "class": "framework",
+      "platform": "",
+      "owner": "ICT Authority (KDEAP)",
+      "tiers": "ministries, departments, agencies and counties (intended)"
+    }
+  ],
+  "note": ""
+}

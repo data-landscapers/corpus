@@ -1,0 +1,13 @@
+{
+  "slug": "2024-01-01-worldbank-equatorial-guinea-digital-economy-diagnostic",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "none",
+     "fact": "The World Bank's Equatorial Guinea Digital Economy Diagnostic states that the government has no national interoperability framework, no government enterprise architecture framework and no interoperability platform or data exchange layer, and recommends introducing a framework; no event date is given, so the document's published date of 2024-01-01 is used.",
+     "as_of": "2024-01-01", "date_precision": "year", "system": "National interoperability framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "SYDONIA", "country_label": "SYDONIA", "class": "other", "platform": "", "owner": "", "tiers": "customs; named as an exception to platforms that do not interoperate"},
+    {"system": "SIGFIP", "country_label": "SIGFIP", "class": "other", "platform": "", "owner": "", "tiers": "ministry-level; interoperability achieved ad hoc without central coordination"}
+  ],
+  "note": ""
+}

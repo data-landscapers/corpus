@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-22-cote-divoire-cinq-administrations-integrent-plateforme-interoperabilite",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme d'interopérabilité UXP", "country_label": "Plateforme nationale d'interopérabilité (UXP)", "class": "other", "platform": "UXP", "owner": "SNDI (Société nationale de développement informatique), for the Ministère de la Transition numérique", "tiers": "central administration; 5 of 12 phase-one bodies integrated, 31 judged mature"}
+  ],
+  "note": "Counts bodies joined to the UXP platform but does not tie the platform to any interoperability framework, so no use fact."
+}

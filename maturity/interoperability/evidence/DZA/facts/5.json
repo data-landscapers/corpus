@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-10-algeria-care-digital-brief-interconnection",
+  "facts": [],
+  "systems": [
+    {"system": "Centre national algérien des services numériques (CNASN)", "country_label": "Centre national algérien des services numériques", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Centre national des données", "country_label": "Centre national des données", "class": "other", "platform": "", "owner": "", "tiers": "intersectoral interconnection"},
+    {"system": "Plateforme d'importation de services", "country_label": "plateforme d'importation de services", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A think-tank brief reporting a 12 July 2026 presidential one-month deadline for intersectoral interconnection via the national data centre; this is a platform, with no interoperability framework stated."
+}

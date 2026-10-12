@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-18-libya-unified-economic-number",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Unified Economic Number",
+      "country_label": "Unified Economic Number",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of Economy and Trade",
+      "tiers": ""
+    }
+  ],
+  "note": "Business identifier project with linked databases; no interoperability framework stated."
+}

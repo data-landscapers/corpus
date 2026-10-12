@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "El Moudjahid reports that presidential decree 25-320, published in the Journal officiel of 30 December 2025, sets up a national data governance scheme with rules for data classification, cataloguing of sources and secure interoperability between administrations (article dated early January 2026, month precision).", "as_of": "2025-12-30", "date_precision": "day", "system": "Système national d'interopérabilité (dispositif national de gouvernance des données)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Dispositif national de gouvernance des données", "country_label": "dispositif national de gouvernance des données", "class": "framework", "platform": "", "owner": "Haut commissariat à la numérisation", "tiers": "public institutions and administrations"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "2025-12-01-escwa-gia-lygif-interoperability-frameworks-roadmap",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "none",
+     "fact": "An ESCWA report for Libya's General Information Authority, dated December 2025, proposes a four-phase project (preparation 3 months, design 6-9 months, implementation 6-9 months, sustainability) to create a national interoperability framework, LyGIF, and says the Authority 'can launch' it; the conceptual model, specifications and governance are still to be produced in the design phase, and the report names no adopted or drafted national framework.",
+     "as_of": "2025-12", "date_precision": "month", "system": "LyGIF", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "none",
+     "fact": "The December 2025 ESCWA report treats LyGIF as a future project whose compliance monitoring and onboarding of agencies come only in later phases, and states no decree, law or circular requiring public bodies to follow a framework and no bodies exchanging data under one.",
+     "as_of": "2025-12", "date_precision": "month", "system": "LyGIF", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "LyGIF", "country_label": "LyGIF (Libyan national interoperability framework, proposed)", "class": "framework", "platform": "", "owner": "General Information Authority (proposed lead)", "tiers": "national"},
+    {"system": "National Directory of Government Data", "country_label": "الدليل الوطني للبيانات الحكومية", "class": "other", "platform": "", "owner": "General Information Authority", "tiers": "national"}
+  ],
+  "note": ""
+}

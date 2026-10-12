@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-10-burundi-ekori-tax-registration-data-exchange",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-KORI",
+   "country_label": "e-KORI",
+   "class": "other",
+   "platform": "",
+   "owner": "OBR (Office burundais des recettes)",
+   "tiers": "national"
+  },
+  {
+   "system": "easybusiness.bi",
+   "country_label": "easybusiness.bi",
+   "class": "other",
+   "platform": "",
+   "owner": "ADB (Agence de développement du Burundi)",
+   "tiers": "national"
+  }
+ ],
+ "note": "Platform linkage between ADB portal and OBR e-KORI; no government interoperability framework stated."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-23-gia-zakat-fund-data-governance-national-guide",
+  "facts": [],
+  "systems": [
+    {
+      "system": "LY-NDEX",
+      "country_label": "National Data Distributor (LY-NDEX)",
+      "class": "other",
+      "platform": "",
+      "owner": "General Information Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "National Guide for Government Data Governance is a data governance guide, not an interoperability framework; no fact."
+}

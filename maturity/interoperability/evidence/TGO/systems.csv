@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TGO,Guide de l'Architecture d'Entreprise Gouvernementale du Togo (Cadre Commun d'Interopérabilité),Architecture d'entreprise gouvernementale du Togo,framework,,ATD (Agence Togo Digital),,2026-09-06-togo-atd-guide-architecture-entreprise-controle-version
+TGO,SIIG-AMU,Système d'Information Intégré de Gestion de l'Assurance Maladie Universelle,other,,Ministère de la Santé,"CNSS, INAM, hospitals, pharmacies, laboratories, insurers",2026-05-13-togofirst-amu-siig-amu-systeme-numerique-unifie-architecture-federee
+TGO,Gest-exo,Gest-exo,other,,OTR,,2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers
+TGO,SYDONIA,SYDONIA,other,SYDONIA,OTR customs,,2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers
+TGO,Open Data (opendata.gouv.tg),Open Data,other,,Agence Togo Digital,,2025-01-08-democratisation-de-l-acces-aux-donnees-publiques-au-togo
+TGO,Géoportail (geodata.gouv.tg),Géoportail,other,,Agence Togo Digital,"23 ministries, 550+ administrative units as data sources",2025-01-08-democratisation-de-l-acces-aux-donnees-publiques-au-togo
+TGO,Central National Biometric Identification Database,Central National Biometric Identification Database,other,,ANID,,2025-01-01-anid-togo-presentation-missions
+TGO,RSPM,Social Register of Individuals and Households (RSPM),other,,ANID,interconnected with administrations' databases (mandate),2025-01-01-anid-togo-presentation-missions
+TGO,StatEduc,StatEduc,other,StatEduc,Ministry of Education,inspectorates,2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems
+TGO,DHIS2,DHIS2,other,DHIS2,Ministry of Education,"schools, sub-national",2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems

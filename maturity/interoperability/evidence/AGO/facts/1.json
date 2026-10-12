@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-31-ago-pti-interoperabilidade-13-milhoes",
+  "facts": [],
+  "systems": [
+    {"system": "Plataforma de Interoperabilidade da Administração Pública", "country_label": "Plataforma de Interoperabilidade da Administração Pública", "class": "other", "platform": "secure data-exchange channel, API integration layer and service bus, data held at source with no central repository", "owner": "Government of Angola (PADA, World Bank financed)", "tiers": "state and private-sector information systems"}
+  ],
+  "note": "An exchange platform authorised by Despacho Presidencial 344/26 of 27 August 2026 with no framework named behind it: class other, no fact."
+}

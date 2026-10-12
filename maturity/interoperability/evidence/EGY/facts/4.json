@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-02-mcit-egypt-ict-sector-achievements-2025",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Egypt platform", "country_label": "Digital Egypt platform", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "central government; 210 services, 10.7 million users in 2025"},
+    {"system": "Government-to-Government (G2G) project", "country_label": "Government-to-Government (G2G) project", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology with Ministry of Interior", "tiers": "central government; Public Prosecution traffic division linked to Ministry of Interior traffic departments"}
+  ],
+  "note": "Names a G2G linkage and an Open Data Policy, but no government interoperability framework; the Open Data Policy is a data-release policy, not an exchange framework, so no fact."
+}

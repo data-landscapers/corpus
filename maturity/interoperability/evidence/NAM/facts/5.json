@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-01-bon-nps-vision-strategy-2030",
+  "facts": [],
+  "systems": [
+    {"system": "NAMQR Code", "country_label": "NAMQR", "class": "other", "platform": "", "owner": "Bank of Namibia", "tiers": ""},
+    {"system": "Open Banking Standards", "country_label": "Open Banking Standards", "class": "other", "platform": "", "owner": "Bank of Namibia", "tiers": ""}
+  ],
+  "note": "Payment-sector strategy naming interoperability and API integration as aims; no government interoperability framework stated."
+}

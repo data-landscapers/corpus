@@ -1,0 +1,13 @@
+{
+  "slug": "2022-01-01-cadre-interoperabilite-djibouti-cid",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The Agence Nationale des Systèmes d'Information de l'État (ANSIE) issued the Cadre d'Interopérabilité de Djibouti (CID) as the national interoperability framework, setting principles, four interoperability layers (legal, organisational, semantic, technical) and a conceptual model for integrated public service delivery; the document shows no enactment date, so the published date (2022) is used.", "as_of": "2022", "date_precision": "year", "system": "Cadre d'Interopérabilité de Djibouti (CID)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Cadre d'Interopérabilité de Djibouti (CID)", "country_label": "Cadre d'Interopérabilité de Djibouti", "class": "framework", "platform": "", "owner": "ANSIE", "tiers": "public administration"},
+    {"system": "Plateforme d'échange de données sécurisée", "country_label": "plateforme d'échange de données sécurisée", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Plateforme d'identité numérique", "country_label": "plateforme d'identité numérique", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Catalogue de solutions interopérables", "country_label": "catalogue de solutions interopérables", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

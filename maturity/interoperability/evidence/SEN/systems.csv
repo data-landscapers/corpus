@@ -1,0 +1,25 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SEN,Government Enterprise Architecture (EAG),Architecture d'Entreprise Gouvernementale (EAG),framework,,"Ministry of Telecommunications and Digital Affairs, with Sénégal Numérique S.A. and PAENS",national,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty
+SEN,National interoperability system (planned under the public service modernization pillar),,other,,Government of Senegal,national,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty
+SEN,GouvNum,GouvNum,other,,Prime Minister's steering committee,national,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty
+SEN,Cadre national d'interopérabilité,Cadre national d'interopérabilité,framework,,"Ministère de la Communication, des Télécommunications et du Numérique with SENUM",national,2026-05-04-mctn-fondations-infrastructure-publique-numerique-projet-decret-interoperabilite
+SEN,Plateforme d'interopérabilité,plateforme d'interopérabilité,other,,"Ministère de la Communication, des Télécommunications et du Numérique",national,2026-05-04-mctn-fondations-infrastructure-publique-numerique-projet-decret-interoperabilite
+SEN,Cadre d'interopérabilité national,cadre d'interopérabilité national,framework,,Ministère des Télécommunications et du Numérique,national,2026-03-26-mctn-interoperabilite-mvp-1-0-copil-validation
+SEN,Plateforme nationale d'interopérabilité,plateforme nationale d'interopérabilité,other,,Ministère des Télécommunications et du Numérique,"national; SEN-CSU and DGPSN, DGID and DGD use cases in production",2026-03-26-mctn-interoperabilite-mvp-1-0-copil-validation
+SEN,Government Enterprise Architecture (EAG),Architecture d'Entreprise Gouvernementale (EAG),framework,,"Ministry of Telecommunications and Digital Affairs, with Sénégal Numérique S.A. and PAENS",national,2026-07-31-senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project
+SEN,Plateforme Nationale d'Interopérabilité du Sénégal (PINS),PINS,other,,Government of Senegal,national,2026-07-31-senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project
+SEN,GouvNum Committee,GouvNum,other,,Prime Minister (chair),national,2026-07-31-senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project
+SEN,Plateforme d'Interopérabilité Nationale du Sénégal (PINS),PINS,other,X-Road,Ministère des Télécommunications et du Numérique (MCTN) / PAENS,,2026-09-24-sen-guindima-pins-interoperability-tender
+SEN,Plateforme d'Interopérabilité du Sénégal (e-Jokkoo),e-Jokkoo / PINS,other,X-Road,,,2026-09-03-pins-plateforme-interoperabilite-senegal-jokkoo
+SEN,data exchange interoperability platform,plateforme interministérielle et interopérable,other,,Government of Senegal,"ministries, public agencies and private organizations",2025-09-19-techafricanews-interoperability-update
+SEN,plateforme interministérielle et interopérable d'échange de données,plateforme interministérielle et interopérable,other,,"Ministère de la Communication, des Télécommunications et du Numérique, with JICA",ministries and State institutions,2025-04-22-lesoleil-interoperability-platform
+SEN,Plateforme d'Interopérabilité Nationale du Sénégal (PINS),PINS / Jokkoo Senegal,other,X-Road,"SENUM SA (operator), under the Ministère des Télécommunications et du Numérique","administrations, public bodies and authorised partners; sectoral data centres (Douanes, Senelec, DTAI)",2026-09-22-sen-paens-tdr-pins-infrastructure-study
+SEN,Cadre National d'Interopérabilité,Cadre National d'Interopérabilité,framework,,Ministère des Télécommunications et du Numérique,,2026-09-22-sen-paens-tdr-pins-infrastructure-study
+SEN,Architecture d'Entreprise Gouvernementale (AEG),AEG,framework,,Ministère des Télécommunications et du Numérique,,2026-09-22-sen-paens-tdr-pins-infrastructure-study
+SEN,PKI-SN,PKI-SN,other,,,,2026-09-22-sen-paens-tdr-pins-infrastructure-study
+SEN,Sama État Civil,Sama État Civil,other,LGEC (Logiciel de gestion de l'état civil),ANEC,"civil registration centres, about 70% digitalised",2026-08-05-senegal-civil-registration-digitalization-anec
+SEN,Plateforme de pré-déclaration,plateforme de pré-déclaration,other,,ANEC,health facilities notifying births to registration centres,2026-08-05-senegal-civil-registration-digitalization-anec
+SEN,Guichet unique du citoyen,Guichet unique du citoyen,,,Government of Senegal,,2026-03-24-lesoleil-sonko-projets-structurants
+SEN,e-Consulat,e-Consulat,,,Government of Senegal,diaspora services,2026-03-24-lesoleil-sonko-projets-structurants
+SEN,e-Jokko,e-Jokko,other,national interoperability platform,"Ministry of Communication, Telecommunications and Digital Affairs",ministries and institutions; first uses DGID-Customs and social protection bodies,2026-03-16-new-deal-technologique-un-an
+SEN,e-Sénégal,e-Sénégal,,,"Ministry of Communication, Telecommunications and Digital Affairs",citizens and businesses,2026-03-16-new-deal-technologique-un-an

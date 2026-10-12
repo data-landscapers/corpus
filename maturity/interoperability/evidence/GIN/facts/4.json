@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-20-guinee-etat-interconnexion-x-road-e-service",
+ "facts": [],
+ "systems": [
+  {
+   "system": "X-Road",
+   "country_label": "plateforme nationale d'interopérabilité X-Road",
+   "class": "other",
+   "platform": "X-Road",
+   "owner": "ANDE",
+   "tiers": "public administration information systems"
+  },
+  {
+   "system": "portail national e-service",
+   "country_label": "portail national e-service",
+   "class": "other",
+   "platform": "",
+   "owner": "ANDE / Ministry of Administrative Modernisation",
+   "tiers": "citizens and businesses"
+  }
+ ],
+ "note": "Exchange platform X-Road and e-service portal presented; no framework, decree or standard stated, so class other and no fact."
+}

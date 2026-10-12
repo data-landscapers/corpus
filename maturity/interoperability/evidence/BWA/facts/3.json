@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-11-bwa-businesstechafrica-national-ekyc",
+  "facts": [],
+  "systems": [
+    {"system": "national electronic Know-Your-Customer (eKYC) project", "country_label": "national eKYC", "class": "other", "platform": "", "owner": "Bankers' Association of Botswana", "tiers": "commercial banks"}
+  ],
+  "note": "Bank identity verification against the national citizen database; no government interoperability framework is mentioned."
+}

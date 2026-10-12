@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+RWA,Rwanda Government-wide Enterprise Architecture Framework (RGEA),"Government of Rwanda Enterprise Architecture Framework, Version 2.1",other,TOGAF customised,Rwanda Information Society Authority (RISA),,2026-08-06-risa-government-of-rwanda-enterprise-architecture-framework-v2-1
+RWA,National Population Registry (NPR),National Population Registry,other,,NIDA,"Seven integration points with agencies including MINALOC, LODA, City of Kigali, RLMUA, RURA, RDB, MIFOTRA","2019-10-01 E-Government Systems Interoperability Challenges - Public Sector in Rwanda (Mugumya, MSc thesis)"
+RWA,National Data Sharing Policy,National Data Sharing Policy,framework,,Ministry of ICT and Innovation (policy ownership),public institutions,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Data Sharing Platform,Data Sharing Platform,other,,Rwanda Information Society Authority,"interim system for data governance, discovery and access",2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Shared Government Data Hub,Shared Government Data Hub,other,,Rwanda Information Society Authority,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Data Interoperability Platform,Data Interoperability Platform,other,,Rwanda Information Society Authority,,2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister
+RWA,Digital Public Infrastructure strategy,national DPI strategy,other,,Rwanda Information Society Authority,,2026-03-20 Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth
+RWA,e-Kash,e-Kash,other,,,,2026-03-20 Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth
+RWA,Digital Public Infrastructure strategy,national DPI strategy,other,,Rwanda Information Society Authority,,2026-03-11-dpi-strategy-launch-newtimes
+RWA,e-Kash,e-Kash,other,,,,2026-03-11-dpi-strategy-launch-newtimes
+RWA,Shared Government Data Hub,Shared Government Data Hub,other,hybrid: on-premise at National Data Center plus cloud,Rwanda Information Society Authority,government systems to be integrated,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025
+RWA,Data Interoperability Platform,Data Interoperability Platform,other,,Rwanda Information Society Authority,,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025
+RWA,ESB,upgraded ESB,other,,Rwanda Information Society Authority,,2025-11-21-risa-shared-government-data-hub-early-market-engagement-2025

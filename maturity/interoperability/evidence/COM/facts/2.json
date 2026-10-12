@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme d'interopérabilité et d'échange de données", "country_label": "plateforme d'interopérabilité et d'échange de données (Composante B, projet COM-1026)", "class": "other", "platform": "", "owner": "ANADEN (Unité de Coordination du Projet); financed by the Islamic Development Bank", "tiers": ""},
+    {"system": "plateforme d'administration numérique (portail gouvernemental)", "country_label": "portail gouvernemental", "class": "other", "platform": "", "owner": "ANADEN", "tiers": ""}
+  ],
+  "note": "Notice of 2026-03-12 procures an interoperability and data-exchange platform; it names no interoperability framework, so no framework fact."
+}

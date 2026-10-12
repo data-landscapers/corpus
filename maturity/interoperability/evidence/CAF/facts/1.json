@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-19-caf-pgnsp-78-percent-progress",
+  "facts": [],
+  "systems": [
+    {"system": "Sim-Ba", "country_label": "Sim-Ba", "class": "other", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": "17 institutions (to be deconcentrated)"},
+    {"system": "SIGRHS", "country_label": "plateforme de gestion des ressources humaines et de la solde", "class": "other", "platform": "", "owner": "Ministries of Public Service and of Finance", "tiers": "national"}
+  ],
+  "note": "Project progress report (PGNSP, 78 percent); no interoperability framework mentioned."
+}

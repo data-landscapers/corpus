@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-30-ago-forbes-lusofona-agt-integracao-plataformas",
+  "facts": [],
+  "systems": [
+    {"system": "AGT customs and tax platform integration with trade-agency platforms", "country_label": "AGT", "class": "other", "platform": "", "owner": "Administração Geral Tributária (AGT)", "tiers": "national agencies"}
+  ],
+  "note": "Platform integration between AGT and trade agencies is under way; no interoperability framework is named."
+}

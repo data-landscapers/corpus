@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop",
+  "facts": [],
+  "systems": [
+    {
+      "system": "LY-NDEX",
+      "country_label": "Libyan National Data Exchange",
+      "class": "other",
+      "platform": "",
+      "owner": "General Information Authority",
+      "tiers": ""
+    },
+    {
+      "system": "LY-DNID",
+      "country_label": "Libyan Digital National Identity",
+      "class": "other",
+      "platform": "",
+      "owner": "General Information Authority",
+      "tiers": ""
+    }
+  ],
+  "note": "Exchange platform and workshop on AML data sharing; no framework stated."
+}

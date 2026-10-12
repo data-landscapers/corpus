@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-interoperability.md — the fifteenth maturity study: the government's interoperability framework, in four questions
 last_reviewed: 2026-10-12
-status: prepared 2026-10-12; awaiting Bill's word on the questions
+status: run on Bill's word of 2026-10-12; staged, written and on the soft-launch map as at 2026-09-30; awaiting Bill's acceptance
 ---
 
 # Maturity study: interoperability
@@ -18,7 +18,7 @@ The study redraws `gov.policy--data-interoperability-framework-roadmap`, which a
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
-| Government interoperability framework | Data interoperability framework / roadmap: government interoperability framework | `gov.policy--data-interoperability-framework-roadmap-government-framework` |
+| Government interoperability framework | Data interoperability framework / roadmap: government interoperability framework | `gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework` |
 
 Anything else the evidence names is `other`, noted and never staged: a data exchange platform built or planned with no framework behind it, an agreement between two agencies to share data, a framework for one sector only (health, land, spatial data), a digital strategy that names interoperability as an aim.
 
@@ -76,10 +76,23 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-12.
-- [ ] **D1. Bill's word** on the four questions.
-- [ ] **D2. Read**: the 73 `about` stories; then the cited news; then the newest held news for countries still short of questions 1 and 2.
-- [ ] **D3. Stage**: as at 2026-09-30; the parent reads every fact that would set stages 4 and 5; a second drafter restages 20 cells.
-- [ ] **D4. Write, render and lint**; the soft-launch map. **D5. Report to Bill.**
+- [x] **D1. Bill's word**: run on it, 2026-10-12.
+- [x] **D2. Read**: the 73 `about` stories; then the cited news of 43 countries; then the newest held news, one call each, for the 35 countries still short of questions 1 and 2. The framework texts were opened for Cote d'Ivoire, Libya, Somalia and Gabon, which had nothing else, and for Kenya. 89 facts.
+- [x] **D3. Staged**: two at stage 4, 15 at 3, 16 at 2, two at 1, none at 5, four unplaced and 15 with no evidence, as at 2026-09-30; 19 corrections by the parent; agreement 19 of 20.
+- [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-12.
+
+**Decided in the run**:
+
+- **A mandate to write a framework is not a framework being written** (Liberia's executive order, Cape Verde's minister): question 1 needs drafting begun.
+- **A text that says of itself that it is compulsory is not an instrument making it so** (Zambia's standard).
+- **A decree that binds public bodies but names no enforcing body is not a yes to question 3** (Cote d'Ivoire).
+- **A version 0.1, or an edition with its approval left blank, is a draft** (Sao Tome and Principe, Kenya). Kenya is the one cell the second drafter read differently, and the lower reading stands.
+- **An enterprise architecture handed to officials, with nothing saying it is published or sets exchange rules, is a draft** (Zimbabwe, The Gambia).
+- **An exchange platform called a framework states no rule** (Namibia).
+- **A source saying a framework is needed, or proposing one, does not say there is none** (Eswatini, South Africa, Libya).
+- **A data sharing policy for public institutions does the job** (Rwanda), as does a government enterprise architecture in use for data exchange (Nigeria).
+- **A source dated by year only as 2026 falls after the as-at and sets nothing** (Guinea's rules at version 0.2.2).
+- **The third read was one call a country, not the whole listing, and the summaries were written by the parent**, to stay inside the ceiling.
 
 ## Boundary
 

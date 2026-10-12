@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Rahaka",
+      "country_label": "Rahaka",
+      "class": "other",
+      "platform": "X-Road",
+      "owner": "Unité de Gouvernance Digitale (UGD), with PRODIGY (World Bank)",
+      "tiers": "EDBM, CNaPS, Instat, Ministry of Justice, Direction générale des Impôts"
+    }
+  ],
+  "note": "Rahaka exchange platform and a planned one-stop portal; the legal framework is mentioned but not named, so no framework fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-14-mohim-project-interoperability-digital-health-africa",
+  "facts": [],
+  "systems": [
+    {"system": "CI-SIS Morocco", "country_label": "national interoperability framework for health information systems (being built by the MOHIM Lab)", "class": "other", "platform": "HL7 FHIR, DICOM, SNOMED CT profiles; Gazelle test suite", "owner": "Center for e-Health Innovation (Mohammed V University) with the Ministry of Health and Social Protection", "tiers": "health sector software vendors; three-tier governance (State, MOHIM-IWG, domain working groups)"}
+  ],
+  "note": "Framework described is for the health sector only, so class other: a systems entry, no fact."
+}

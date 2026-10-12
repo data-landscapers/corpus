@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-28-cg-feuille-de-route-numerique-tribune",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme d'échange de données entre les administrations", "country_label": "inter-administration data exchange platform", "class": "other", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy", "tiers": "national administrations"}
+  ],
+  "note": "Op-ed names a planned inter-administration data exchange platform as part of the roadmap; no interoperability framework is stated, so no fact."
+}

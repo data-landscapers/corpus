@@ -1,0 +1,8 @@
+{
+  "slug": "2016-08-01-infohighway-data-sharing-platform",
+  "facts": [],
+  "systems": [
+    {"system": "InfoHighway", "country_label": "InfoHighway Data Sharing Platform", "class": "other", "platform": "Publish and subscribe model; portal, web services and bulk data transfer", "owner": "Ministry of Information Technology, Communication and Innovation (project owner); Central Informatics Bureau (project management); hosted at the Government Online Centre", "tiers": "Government agencies as publishers and subscribers (33 publishers, 192 connections, 628 e-services on the page)"}
+  ],
+  "note": "InfoHighway is an exchange platform with no interoperability framework named behind it; no fact."
+}

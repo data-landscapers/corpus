@@ -1,0 +1,13 @@
+{
+  "slug": "2025-02-19-lesotho-budget-speech-2025-26",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft",
+     "fact": "The Minister of Finance and Development Planning told Parliament on 19 February 2025 that the Government of Lesotho Enterprise Architecture and Interoperability Framework is being developed to improve efficiency and avoid fragmented ICT deployment across government.",
+     "as_of": "2025-02-19", "date_precision": "day",
+     "system": "Government of Lesotho Enterprise Architecture and Interoperability Framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Government of Lesotho Enterprise Architecture and Interoperability Framework", "country_label": "Government of Lesotho Enterprise Architecture and Interoperability Framework", "class": "framework", "platform": "", "owner": "Government of Lesotho", "tiers": ""}
+  ],
+  "note": ""
+}

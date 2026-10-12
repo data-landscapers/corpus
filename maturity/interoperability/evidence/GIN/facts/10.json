@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-26-guceg-impact-360-revolution-numerique-commerce-exterieur",
+  "facts": [],
+  "systems": [
+    {"system": "GUCEG (Guichet unique du commerce extérieur de Guinée)", "country_label": "GUCEG", "class": "other", "platform": "", "owner": "Ministry of Economy, Finance and Budget", "tiers": "commercial banks, central bank, customs, Port autonome de Conakry, shipping lines"},
+    {"system": "Port Community System (PCS)", "country_label": "PCS", "class": "other", "platform": "", "owner": "", "tiers": "port community"}
+  ],
+  "note": "Sector-only trade single window and port system; no government interoperability framework is stated."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-16 Chad uses national biometric registry to boost govt systems interoperability",
+  "facts": [],
+  "systems": [
+    {"system": "National biometric registry", "country_label": "national biometric registry (ANATS)", "class": "other", "platform": "Idemia biometrics", "owner": "ANATS (National Agency for Secure Documents)", "tiers": "Ministry of Finance (agreement signed March 2026); other ministries and agencies intended"}
+  ],
+  "note": "Bilateral agreement between the Finance Ministry and ANATS for data sharing on the biometric registry; an identity platform, not a government interoperability framework."
+}

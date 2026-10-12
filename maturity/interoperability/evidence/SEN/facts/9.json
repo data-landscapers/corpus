@@ -1,0 +1,11 @@
+{
+  "slug": "2026-09-22-sen-paens-tdr-pins-infrastructure-study",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme d'Interopérabilité Nationale du Sénégal (PINS)", "country_label": "PINS / Jokkoo Senegal", "class": "other", "platform": "X-Road", "owner": "SENUM SA (operator), under the Ministère des Télécommunications et du Numérique", "tiers": "administrations, public bodies and authorised partners; sectoral data centres (Douanes, Senelec, DTAI)"},
+    {"system": "Cadre National d'Interopérabilité", "country_label": "Cadre National d'Interopérabilité", "class": "framework", "platform": "", "owner": "Ministère des Télécommunications et du Numérique", "tiers": ""},
+    {"system": "Architecture d'Entreprise Gouvernementale (AEG)", "country_label": "AEG", "class": "framework", "platform": "", "owner": "Ministère des Télécommunications et du Numérique", "tiers": ""},
+    {"system": "PKI-SN", "country_label": "PKI-SN", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The ToR (2026-09-22) names the Cadre National d'Interopérabilité and the AEG study as references the consultant's architecture must conform to, but gives no adoption status, decree or public-body obligation, so no fact."
+}

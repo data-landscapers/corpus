@@ -1,0 +1,12 @@
+{
+  "slug": "2016-02-01-e-government-interoperability-framework",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted",
+     "fact": "The e-Government Agency (eGA) issued the e-Government Interoperability Framework (e-GIF), document eGA/EXT/GIF/001 version 1.0, approved by its CEO in February 2016, setting common standards and technical guidelines for Public Institutions to exchange data.",
+     "as_of": "2016-02", "date_precision": "month", "system": "e-Government Interoperability Framework (e-GIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "e-Government Interoperability Framework (e-GIF)", "country_label": "e-GIF, eGA/EXT/GIF/001", "class": "framework", "platform": "", "owner": "e-Government Agency (eGA), President's Office Public Service Management", "tiers": "Public Institutions"}
+  ],
+  "note": "The captured text gives no decree or enforcing body (implementation and enforcement section not in the capture) and no count of bodies exchanging data, so no fact on use."
+}

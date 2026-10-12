@@ -1,0 +1,10 @@
+{
+  "slug": "2026-07-20-thepoint-gra-senegal-customs-ict-transit",
+  "facts": [],
+  "systems": [
+    {"system": "GAINDE", "country_label": "GAINDE Customs System", "class": "other", "platform": "", "owner": "Gambia Revenue Authority / Senegalese Customs", "tiers": "national customs, border posts"},
+    {"system": "SIGMAT", "country_label": "SIGMAT electronic transit system", "class": "other", "platform": "", "owner": "Gambia Revenue Authority / Senegalese Customs", "tiers": "border posts"},
+    {"system": "EnCen", "country_label": "EnCen", "class": "other", "platform": "", "owner": "Gambia Revenue Authority / Senegalese Customs", "tiers": ""}
+  ],
+  "note": "Bilateral customs data-sharing agreement between GRA and Senegalese Customs; no government-wide interoperability framework."
+}

@@ -1,0 +1,6 @@
+{
+  "slug": "2026-07-25-seychelles-src-final-stage-e-invoicing-procurement",
+  "facts": [],
+  "systems": [{"system":"e-invoicing system","country_label":"e-invoicing","class":"other","platform":"","owner":"Seychelles Revenue Commission","tiers":""}],
+  "note": "Tax e-invoicing procurement; no interoperability framework stated."
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-28-unicef-burundi-interoperability-civil-registry-health-kirundo",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Civil registry and health services interoperability approach, Kirundo",
+   "country_label": "approche d'interopérabilité état civil-santé",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of the Interior; Ministry of Public Health",
+   "tiers": "province (Kirundo), 52 health facilities"
+  }
+ ],
+ "note": "Sector-level, single-province arrangement between two ministries; not a government-wide framework."
+}

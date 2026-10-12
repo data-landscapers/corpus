@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated",
+  "facts": [],
+  "systems": [
+    {"system": "Draft Final National Data Governance Policy (May 2026)", "country_label": "Draft Final National Data Governance Policy", "class": "other", "platform": "", "owner": "Ministry of Information, Communications and the Digital Economy", "tiers": "ministries and counties (data officers proposed)"},
+    {"system": "eCitizen", "country_label": "eCitizen", "class": "other", "platform": "", "owner": "Government of Kenya", "tiers": ""},
+    {"system": "Kenya data marketplace", "country_label": "national data exchange / marketplace", "class": "other", "platform": "", "owner": "Government of Kenya", "tiers": ""}
+  ],
+  "note": "Opinion piece says the May 2026 draft data governance policy aims at interoperable systems, common standards and an API gateway, but it is a data governance policy with interoperability as an aim, not a described exchange framework; no fact recorded. Parent may wish to check the policy text."
+}

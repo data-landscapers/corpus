@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-14-cybernetica-national-interoperability-platform-phase2",
+  "facts": [],
+  "systems": [
+    {"system": "National Interoperability Platform (Unified eXchange Platform, UXP)", "country_label": "National Interoperability Platform", "class": "other", "platform": "Cybernetica UXP", "owner": "Ministry of Communication Technologies and Ministry of Economy and Planning", "tiers": "central government: five ministries and institutions in phase 1; phase 2 adds RNE, TIA, APII, CEPEX, Ministry of Finance, Central Bank of Tunisia"}
+  ],
+  "note": "Vendor release on an exchange platform; no interoperability framework or rule is stated; class other."
+}

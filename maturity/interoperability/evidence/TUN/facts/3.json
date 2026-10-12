@@ -1,0 +1,8 @@
+{
+  "slug": "2025-01-01-tunisie-cni-interoperability-solutions",
+  "facts": [],
+  "systems": [
+    {"system": "national interoperability platform (xROAD)", "country_label": "national interoperability platform", "class": "other", "platform": "X-Road", "owner": "Centre National de l'Informatique (CNI)", "tiers": "central government: Ministry of Finance, ATTT, Ministry of Social Affairs, CNI civil registry, INSAF, Administration intranet"}
+  ],
+  "note": "CNI page describes an exchange platform and three pilot services; no framework stated; class other."
+}

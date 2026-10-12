@@ -1,0 +1,16 @@
+{
+ "iso3": "SOM",
+ "cells": [
+  {
+   "sub_indicator": "framework",
+   "stage": "1",
+   "standing": "none",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SOM-001",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-interoperability.py."
+  }
+ ]
+}

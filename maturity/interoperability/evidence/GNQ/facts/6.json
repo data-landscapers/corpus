@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-15-pamfp-mobilization-of-non-oil-revenues",
+  "facts": [],
+  "systems": [
+    {"system": "Integrated tax revenue management system", "country_label": "Sistema integrado de gestión de ingresos tributarios", "class": "other", "platform": "", "owner": "Ministry of Finance (DGIC, DGA, State Treasury, Budget, Public Accounting)", "tiers": "central"},
+    {"system": "SYDONIA", "country_label": "SYDONIA", "class": "other", "platform": "", "owner": "General Administration of Customs", "tiers": "central"},
+    {"system": "SAGE", "country_label": "SAGE", "class": "other", "platform": "", "owner": "State Treasury Department", "tiers": "central"}
+  ],
+  "note": "Describes interconnection of finance-ministry systems; no government-wide interoperability framework stated."
+}

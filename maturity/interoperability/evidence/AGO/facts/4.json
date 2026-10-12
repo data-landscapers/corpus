@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-26-credito-suplementar-275-milhoes-usd-mat-bdcm",
+  "facts": [],
+  "systems": [
+    {"system": "Base de Dados dos Cidadãos Maiores (BDCM)", "country_label": "BDCM", "class": "other", "platform": "", "owner": "Ministério da Administração do Território", "tiers": "national"}
+  ],
+  "note": "Budget credit for a citizens' database update; says nothing on an interoperability framework."
+}

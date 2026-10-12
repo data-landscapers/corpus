@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-10-liberia-moe-au-iped-emis-modernisation-roadmap",
+  "facts": [],
+  "systems": [
+    {"system": "Education Management Information System (EMIS)", "country_label": "EMIS", "class": "other", "platform": "", "owner": "Ministry of Education", "tiers": "national and county education officers"}
+  ],
+  "note": "A sector-only (education) EMIS modernisation roadmap with learner and teacher IDs; not a government-wide interoperability framework."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-04-tchad-budget-2027-numerique-finances-publiques",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFiP", "country_label": "Système intégré de gestion des finances publiques", "class": "other", "platform": "", "owner": "Government of Chad (finance)", "tiers": "all institutions, administrations, local authorities, public establishments, projects, programmes, embassies and consulates (planned generalisation)"},
+    {"system": "Système de virement électronique normalisé", "country_label": "Système de virement électronique normalisé", "class": "other", "platform": "", "owner": "Government of Chad", "tiers": "all public entities concerned (from early 2027)"},
+    {"system": "e-Visa", "country_label": "plateforme e-Visa", "class": "other", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Budget 2027 orientations say no ministry may set up a system incompatible with existing platforms, but name no interoperability framework, instrument or enforcing body; platform interconnection is class other."
+}

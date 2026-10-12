@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-08-inege-septima-sesion-comite-programas-estadisticos",
+  "facts": [],
+  "systems": [
+    {"system": "Mobile application for statistical data exchange", "country_label": "aplicación móvil para el intercambio de datos estadísticos", "class": "other", "platform": "mobile app", "owner": "INEGE", "tiers": "national; ministerial statistical services"}
+  ],
+  "note": "Statistical-sector recommendations only; no government interoperability framework stated."
+}

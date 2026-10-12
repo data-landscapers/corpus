@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-30-somalia-payroll-nira-id-database-link",
+  "facts": [],
+  "systems": [
+    {"system": "Somali Financial Management Information System (SFMIS)", "country_label": "SFMIS", "class": "other", "platform": "", "owner": "Office of the Accountant General", "tiers": "central government"},
+    {"system": "NIRA national identification system", "country_label": "NIRA national identification system", "class": "other", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "central government"}
+  ],
+  "note": "Payroll and SFMIS to be linked to the NIRA ID database from a 1 Oct 2026 pilot; a bilateral system integration, not a government-wide interoperability framework."
+}

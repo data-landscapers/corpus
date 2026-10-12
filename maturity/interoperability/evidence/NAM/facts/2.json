@@ -1,0 +1,12 @@
+{
+  "slug": "2024-01-01-namibia-governmental-interoperability-framework-nam-x",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "Cybernetica states that in 2014 it and the e-Governance Academy introduced in Namibia an interoperability platform and a corresponding framework.", "as_of": "2014", "date_precision": "year", "system": "Interoperability Framework (Nam-X)", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "Cybernetica states that in its 2021-2022 capacity building project for the Office of the Prime Minister it helped Namibia update its interoperability framework document.", "as_of": "2021", "date_precision": "year", "system": "Interoperability Framework (Nam-X)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Interoperability Framework (Nam-X)", "country_label": "interoperability framework", "class": "framework", "platform": "", "owner": "Office of the Prime Minister", "tiers": ""},
+    {"system": "Nam-X", "country_label": "Nam-X", "class": "other", "platform": "Cybernetica Unified eXchange Platform (UXP)", "owner": "Office of the Prime Minister, Department of Public Service e-Government Management", "tiers": "member organisations connecting databases of different entities; no count given"}
+  ],
+  "note": ""
+}

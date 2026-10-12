@@ -1,0 +1,8 @@
+{
+  "slug": "2025-09-27-mzansixchange-pilot-programme",
+  "facts": [],
+  "systems": [
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "other", "platform": "federated data exchange platform; Open Cities Lab technical implementation partner", "owner": "National Treasury, with CSIR and SARB", "tiers": "national departments (SASSA, NSFAS, Home Affairs, Treasury OAG and OCPO, Statistics South Africa, SEAD-SA)"}
+  ],
+  "note": "An exchange platform pilot (Oct 2025 to Sep 2026) with a standards task team and draft data-exchange legislation as deliverables; no government-wide interoperability framework is stated as drafted or adopted, so class other and no fact."
+}

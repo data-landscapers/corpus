@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-01-impressao-do-bi-abrange-todas-as-provincias",
+  "facts": [],
+  "systems": [
+    {"system": "Bilhete de Identidade issuance, linked to the birth registration system", "country_label": "Bilhete de Identidade", "class": "other", "platform": "", "owner": "Ministry of Justice and Human Rights", "tiers": "national, provincial"}
+  ],
+  "note": "Mentions interoperability between the birth registration and ID systems only; no framework stated."
+}

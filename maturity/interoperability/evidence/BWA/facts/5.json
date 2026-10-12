@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana",
+  "facts": [],
+  "systems": [
+    {"system": "Botswana eHealth Enterprise Architecture", "country_label": "national eHealth Enterprise Architecture and interoperability framework", "class": "other", "platform": "HL7 FHIR; HL7 v2", "owner": "Ministry of Health", "tiers": "health facilities"}
+  ],
+  "note": "The interoperability framework described is for the health sector only, so it is class other and gives no fact."
+}

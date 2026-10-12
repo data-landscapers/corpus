@@ -1,0 +1,5 @@
+{"slug":"2016-01-01-mali-matd-etat-civil-recensement-biometrique-ravec","facts":[],"systems":[
+{"system":"RAVEC","country_label":"Recensement Administratif à Vocation d'Etat Civil","class":"other","platform":"","owner":"Ministère de l'Administration Territoriale et des Collectivités Locales","tiers":"national"},
+{"system":"City_Web","country_label":"City_Web","class":"other","platform":"MorphoCivis","owner":"Ministère de l'Administration Territoriale et des Collectivités Locales","tiers":"civil registry"},
+{"system":"NINA","country_label":"Numéro d'Identification Nationale","class":"other","platform":"","owner":"","tiers":"national"}],
+"note":"2016 deck states an aim of connecting other ministries to the RAVEC database; no interoperability framework is stated."}

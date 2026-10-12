@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-01-capitaltimes-ura-crawford-capital-sanctions-e-permit",
+  "facts": [],
+  "systems": [
+    {"system": "SSRA digital ecosystem (single API)", "country_label": "SSRA digital ecosystem", "class": "other", "platform": "", "owner": "South Sudan Revenue Authority", "tiers": "service providers incl. Crawford Capital; revenue authority only"},
+    {"system": "e-Permit", "country_label": "e-Permit", "class": "other", "platform": "", "owner": "South Sudan Revenue Authority", "tiers": "border customs; enforced with URA and KRA"}
+  ],
+  "note": "Revenue-sector integration of service providers into one SSRA API and customs data sharing with Uganda; no government-wide interoperability framework stated."
+}

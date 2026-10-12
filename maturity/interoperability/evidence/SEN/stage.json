@@ -1,0 +1,16 @@
+{
+ "iso3": "SEN",
+ "cells": [
+  {
+   "sub_indicator": "framework",
+   "stage": "2",
+   "standing": "draft",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "SEN-001",
+   "gaps": "No source held says a government interoperability framework is adopted and published.",
+   "note": "Counted from the four questions by study-ladder-interoperability.py."
+  }
+ ]
+}

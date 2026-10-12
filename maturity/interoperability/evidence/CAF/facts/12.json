@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-26-dhis2-community-snis-reconstruction-rca",
+  "facts": [],
+  "systems": [
+    {"system": "DHIS2", "country_label": "SNIS (Système National d'Information Sanitaire) on DHIS2", "class": "other", "platform": "DHIS2", "owner": "Ministère de la Santé et de la Population", "tiers": "central; regional; district (35 health districts)"}
+  ],
+  "note": "Health information system poster; sector-only, no government interoperability framework stated."
+}

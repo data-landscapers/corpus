@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-11-dpi-strategy-launch-newtimes",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Public Infrastructure strategy", "country_label": "national DPI strategy", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": ""},
+    {"system": "e-Kash", "country_label": "e-Kash", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The DPI strategy is described as a framework for future solutions to be interoperable, but no exchange rule or standards are stated; a strategy naming interoperability as an aim is class other."
+}

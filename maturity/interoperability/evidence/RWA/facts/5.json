@@ -1,0 +1,9 @@
+{
+  "slug": "2026-03-20 Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Public Infrastructure strategy", "country_label": "national DPI strategy", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": ""},
+    {"system": "e-Kash", "country_label": "e-Kash", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "DPI strategy launched 2026-03-09 aims at institutions sharing data, but the article gives no interoperability rule or framework of exchange standards; strategy naming an aim is class other."
+}

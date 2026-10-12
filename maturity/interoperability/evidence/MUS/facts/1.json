@@ -1,0 +1,10 @@
+{
+  "slug": "2002-11-01 Mauritius e-Government Interoperability Framework v1.0",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The Government of Mauritius issued version 1.0 of the Mauritius e-Government Interoperability Framework in November 2002, setting technical standards and specifications for interoperability across government information systems and data exchange between public agencies.", "as_of": "2002-11", "date_precision": "month", "system": "Mauritius e-Government Interoperability Framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Mauritius e-Government Interoperability Framework", "country_label": "Mauritius e-Government Interoperability Framework v1.0", "class": "framework", "platform": "", "owner": "Government of Mauritius (Ministry of ICT; Central Informatics Bureau)", "tiers": "government information systems and public agencies"}
+  ],
+  "note": "Document is an excerpt-only summary; it states nothing on a decree making the framework compulsory or on bodies following it, so no fact on aspect use."
+}

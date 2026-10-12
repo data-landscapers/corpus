@@ -1,0 +1,7 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+BWA,National Interoperability framework,National Interoperability framework,framework,,"Government of Botswana, supported by Expertise France and ESTDEV",e-government services; government institutions,2026-02-17-eu-support-digital-transformation-botswana
+BWA,Framework for Secure Exchange of Information,Framework for Secure Exchange of Information,framework,,Digital Services Authority,public and private bodies,2025-10-17-bwa-digital-services-act-2025
+BWA,Information gateway,Information gateway,other,,Digital Services Authority,public bodies,2025-10-17-bwa-digital-services-act-2025
+BWA,national electronic Know-Your-Customer (eKYC) project,national eKYC,other,,Bankers' Association of Botswana,commercial banks,2026-09-11-bwa-businesstechafrica-national-ekyc
+BWA,Botswana Labour Market Information System (LMIS),LMIS,other,,Ministry of Higher Education,"integrated with National Identification System, Companies and Intellectual Property Authority, 1Gov SMS Gateway, Immigration and Citizenship System",2026-03-23-ministry-of-higher-education-committee-of-supply-speech
+BWA,Botswana eHealth Enterprise Architecture,national eHealth Enterprise Architecture and interoperability framework,other,HL7 FHIR; HL7 v2,Ministry of Health,health facilities,2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana

@@ -1,0 +1,13 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SWZ,National Data Governance Policy (2027-2031),National Data Governance Policy,other,,Ministry of ICT,,2026-07-27-eswatini-validates-national-data-governance-policy
+SWZ,Mchumanisi,National Data Exchange Platform (Mchumanisi),other,,Ministry of ICT,government institutions,2026-07-22-mchumanisi-data-exchange-platform
+SWZ,National Data Governance Policy (2027-2031),National Data Governance Policy,other,,Ministry of ICT,,2026-07-22-mchumanisi-data-exchange-platform
+SWZ,Health Information Exchange,Health Information Exchange,other,HL7/FHIR,Ministry of Health,health,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
+SWZ,Client Management Information System (CMIS),CMIS,other,,Ministry of Health HMIS Unit,national; facilities,2026-06-12-hmis-eswatini-cmis-elmis-integration
+SWZ,Electronic Logistics Management Information System (eLMIS),eLMIS,other,,Ministry of Health HMIS Unit,national; facilities,2026-06-12-hmis-eswatini-cmis-elmis-integration
+SWZ,CMIS,CMIS,other,SQL Server,Ministry of Health HMIS Unit,hospitals; clinics,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,DHIS2,DHIS2,other,DHIS2,,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,OpenFn data flows CMIS to DHIS2,,other,OpenFn,Ministry of Health HMIS Unit,,2026-03-31-hmis-eswatini-cmis-dhis2-integration
+SWZ,FHIR-based health information exchange on OpenHIM Platform with Master Patient Index,,other,OpenHIM; FHIR,"Eswatini health IT teams, with Jembi and DataFI",health facilities,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
+SWZ,Population Registry,Population Registry,,,,national,2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems
+SWZ,ERS Fiscalization Solution,Fiscalization Solution,,,Eswatini Revenue Service,retail sector,2025-10-29-ers-intensifies-drive-close-tax-gap

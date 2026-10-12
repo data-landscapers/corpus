@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-17-guinea-ecuatorial-sigef-comite-pilotaje-interoperabilidad-biometria",
+  "facts": [],
+  "systems": [
+    {"system": "SIGEF", "country_label": "Sistema Integral de Gestión de Funcionarios (SIGEF)", "class": "other", "platform": "", "owner": "Presidencia del Gobierno, steering committee chaired by the Ministro Secretario General", "tiers": "national"}
+  ],
+  "note": "Names interoperability between institutions as a challenge for one project; no framework stated."
+}

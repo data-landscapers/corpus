@@ -1,0 +1,9 @@
+{
+  "slug": "2022-01-01-itu-cadre-icp-gouvernement-mali-centres-de-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "Centre de données SMTD", "country_label": "SMTD data centre", "class": "other", "platform": "", "owner": "SMTD", "tiers": "national"},
+    {"system": "Centre de données AGETIC", "country_label": "AGETIC data centre", "class": "other", "platform": "", "owner": "AGETIC", "tiers": "national"}
+  ],
+  "note": "ITU public-key-infrastructure framework excerpt on data centres; says nothing on a government interoperability framework."
+}

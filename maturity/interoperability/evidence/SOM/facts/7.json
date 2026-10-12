@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-28-somalia-nira-national-id-public-service-integration-working-group",
+  "facts": [],
+  "systems": [
+    {"system": "Hubiye verification system", "country_label": "Hubiye", "class": "other", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "public and private services"}
+  ],
+  "note": "A working group to integrate the national ID across services; no interoperability framework is stated."
+}

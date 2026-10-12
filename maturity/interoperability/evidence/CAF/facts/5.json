@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-18-worldbank-pgnsp-procurement-plan",
+  "facts": [],
+  "systems": [
+    {"system": "Sim_Ba", "country_label": "Sim_Ba", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Procurement plan for hardware, works and software; no interoperability framework."
+}

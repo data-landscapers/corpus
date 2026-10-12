@@ -1,0 +1,9 @@
+{
+  "slug": "2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "data-sharing platform", "country_label": "data-sharing platform (deliverable of the Digital Transformation Project)", "class": "other", "platform": "", "owner": "Ministry of Post, Telecommunications and Digital Affairs (MPTN) unit implementing the project", "tiers": ""},
+    {"system": "DRCPass", "country_label": "DRCPass", "class": "other", "platform": "blockchain-based, developed by Trident (Singapore)", "owner": "", "tiers": ""}
+  ],
+  "note": "The document says only that a consultant will be hired to help develop the enterprise architecture and interoperability framework (published 2026-05-06): a stated intention with no drafting begun, so no standing or use fact."
+}

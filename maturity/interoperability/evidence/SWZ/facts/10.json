@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-28-digital-eswatini-project-pid",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "none", "fact": "The World Bank concept-stage PID for Digital Eswatini says back-end interoperability frameworks are currently underdeveloped and that a robust whole-of-government interoperability framework led by the Ministry of Information, Communication and Technology is needed, with no framework stated as drafted; dated by the document's own preparation date, 28 June 2025.", "as_of": "2025-06-28", "date_precision": "day", "system": "government interoperability framework", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "Fact records stated absence of a framework; the Digital Eswatini project itself is not a framework."
+}

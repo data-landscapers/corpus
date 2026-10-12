@@ -1,0 +1,42 @@
+{
+  "slug": "2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The ministry convened stakeholders to review ongoing efforts to put in place a Government Enterprise Architecture, described as a common reference framework for coherence among public policies, processes, data, applications and the State's digital infrastructure, with the system inventory still to be drawn up; the document is dated 2026-08-03 and gives no event date.",
+      "as_of": "2026-08-03",
+      "date_precision": "day",
+      "system": "Government Enterprise Architecture (EAG)",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Government Enterprise Architecture (EAG)",
+      "country_label": "Architecture d'Entreprise Gouvernementale (EAG)",
+      "class": "framework",
+      "platform": "",
+      "owner": "Ministry of Telecommunications and Digital Affairs, with Sénégal Numérique S.A. and PAENS",
+      "tiers": "national"
+    },
+    {
+      "system": "National interoperability system (planned under the public service modernization pillar)",
+      "country_label": "",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    },
+    {
+      "system": "GouvNum",
+      "country_label": "GouvNum",
+      "class": "other",
+      "platform": "",
+      "owner": "Prime Minister's steering committee",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

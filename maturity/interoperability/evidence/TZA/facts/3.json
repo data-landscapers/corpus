@@ -1,0 +1,10 @@
+{
+  "slug": "2026-06-23-gsd-ngao-launch",
+  "facts": [],
+  "systems": [
+    {"system": "Government Enterprise Service Bus (GovESB)", "country_label": "Mfumo Mkuu wa Ubadilishanaji Taarifa Serikalini", "class": "other", "platform": "", "owner": "e-Government Authority (e-GA)", "tiers": "public institutions"},
+    {"system": "Government Service Directory (GSD)", "country_label": "Dawati la Huduma za Serikali", "class": "other", "platform": "", "owner": "President's Office - Public Service Management (UTUMISHI)", "tiers": "over 500 public institutions have entered their services"},
+    {"system": "NGAO", "country_label": "NGAO", "class": "other", "platform": "", "owner": "", "tiers": "government systems"}
+  ],
+  "note": "Platform launches and a GovESB connection directive; no interoperability framework is named or described."
+}

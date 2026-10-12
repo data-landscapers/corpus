@@ -1,0 +1,11 @@
+{
+  "slug": "2023-04-30-ega-djibouti-digital-interoperability-platform",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The e-Governance Academy states it drafted the national interoperability framework for ANSIE in a government-funded project (EUR 52,800) that ran May 2022 to April 2023 and is marked finished; the page gives no adoption date.", "as_of": "2023-04", "date_precision": "month", "system": "National interoperability framework (Djibouti)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "National interoperability framework (Djibouti)", "country_label": "national interoperability framework", "class": "framework", "platform": "", "owner": "ANSIE", "tiers": ""},
+    {"system": "National data exchange layer", "country_label": "national data exchange layer", "class": "other", "platform": "", "owner": "ANSIE", "tiers": ""}
+  ],
+  "note": ""
+}

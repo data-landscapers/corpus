@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-16-bna-conclui-migracao-iso-20022",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Pagamentos em Tempo Real (SPTR)", "country_label": "SPTR", "class": "other", "platform": "ISO 20022", "owner": "Banco Nacional de Angola (BNA) with EMIS and BODIVA", "tiers": "banks and payment system participants"}
+  ],
+  "note": "Central bank payments messaging standard, a sector-only standard; not a government-wide interoperability framework."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-17-bwa-digital-services-act-2025",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "Section 12 of the Digital Services Act, 2025 (No. 22, assented 2025-10-17, commencement by Ministerial Order) requires the Digital Services Authority to establish a standardised Framework for Secure Exchange of Information ensuring secure communication, identity verification, data integrity and interoperability; the Act does not say the framework has been issued, and its date is the assent date.", "as_of": "2025-10-17", "date_precision": "day", "system": "Framework for Secure Exchange of Information", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Framework for Secure Exchange of Information", "country_label": "Framework for Secure Exchange of Information", "class": "framework", "platform": "", "owner": "Digital Services Authority", "tiers": "public and private bodies"},
+    {"system": "Information gateway", "country_label": "Information gateway", "class": "other", "platform": "", "owner": "Digital Services Authority", "tiers": "public bodies"}
+  ],
+  "note": ""
+}

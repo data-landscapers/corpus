@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-19-distributed-exchange-acix-boosts-drc-connectivity-itweb",
+  "facts": [],
+  "systems": [
+    {"system": "Africa Congo Internet Exchange (ACIX)", "country_label": "ACIX", "class": "other", "platform": "DE-CIX", "owner": "Internet pour Tous, operated by DE-CIX", "tiers": ""}
+  ],
+  "note": "An internet traffic exchange between networks, not a government data exchange framework."
+}

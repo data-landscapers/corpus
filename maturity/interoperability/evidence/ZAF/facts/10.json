@@ -1,0 +1,9 @@
+{
+  "slug": "2025-10-09-treasury-mzansixchange-pilot-launch-speech",
+  "facts": [],
+  "systems": [
+    {"system": "MzansiXchange", "country_label": "MzansiXchange", "class": "other", "platform": "X-Road", "owner": "National Treasury", "tiers": "national departments and agencies (Stats SA, Home Affairs, SARS, SASSA and others in the pilot)"},
+    {"system": "Roadmap for the Digital Transformation of Government", "country_label": "Roadmap for the Digital Transformation of Government", "class": "other", "platform": "", "owner": "Presidency and National Treasury (Operation Vulindlela Phase II)", "tiers": "national"}
+  ],
+  "note": "Exchange platform pilot with its own governance and protocols; the speech names no government-wide interoperability framework, so no fact."
+}

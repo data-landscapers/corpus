@@ -1,0 +1,10 @@
+{
+  "slug": "2025-07-24-national-committee-critical-digital-infrastructure-lesahel",
+  "facts": [],
+  "systems": [
+    {"system": "Infrastructure nationale à clé publique (PKI)", "country_label": "infrastructure nationale à clé publique", "class": "other", "platform": "", "owner": "Ministry in charge of ICT", "tiers": ""},
+    {"system": "Centre national de cyber-sécurité (CNAC)", "country_label": "CNAC (SOC and CERT)", "class": "other", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Point d'échange internet national (IXP)", "country_label": "IXP national", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "A committee is tasked among other things with ensuring systems interoperability; no framework is stated."
+}

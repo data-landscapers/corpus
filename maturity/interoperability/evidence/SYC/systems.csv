@@ -1,0 +1,4 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SYC,Seychelles Spatial Data Sharing Policy (SSDSP 2020),Seychelles Spatial Data Sharing Policy,other,"OGC WMS/WFS, ISO 19115 metadata","Centre for Geographic Information Services, Ministry of Lands and Housing","ministries, departments, agencies and autonomous bodies holding spatial data",2020-01-01-seychelles-spatial-data-sharing-policy
+SYC,e-invoicing system,e-invoicing,other,,Seychelles Revenue Commission,,2026-07-25-seychelles-src-final-stage-e-invoicing-procurement
+SYC,electronic Certificate of Origin (e-CO),e-CO,other,COMESA,Seychelles Revenue Commission,customs,2026-07-04-comesa-seychelles-eco-launch

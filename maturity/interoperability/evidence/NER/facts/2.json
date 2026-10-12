@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-07-wuri-niger-mission-appui-decisions-majeures",
+  "facts": [],
+  "systems": [
+    {"system": "Système National d'Identification des Personnes (WURI-Niger)", "country_label": "Système National d'Identification des Personnes", "class": "other", "platform": "", "owner": "Ministère de l'Intérieur / WURI-Niger project unit; ANSI coordinates the Task Force", "tiers": ""},
+    {"system": "Registre National de la Population (RNP)", "country_label": "Registre National de la Population", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "ID-system architecture task force aiming at open-source, interoperable solution; no government-wide interoperability framework stated."
+}

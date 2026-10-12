@@ -1,0 +1,9 @@
+{
+  "slug": "2026-06-12-hmis-eswatini-cmis-elmis-integration",
+  "facts": [],
+  "systems": [
+    {"system": "Client Management Information System (CMIS)", "country_label": "CMIS", "class": "other", "platform": "", "owner": "Ministry of Health HMIS Unit", "tiers": "national; facilities"},
+    {"system": "Electronic Logistics Management Information System (eLMIS)", "country_label": "eLMIS", "class": "other", "platform": "", "owner": "Ministry of Health HMIS Unit", "tiers": "national; facilities"}
+  ],
+  "note": "Sector-only (health) integration of two systems; no government-wide interoperability framework stated."
+}

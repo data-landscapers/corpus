@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-01-pasi-pdaie-architecture-systemes-etat",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "ASIN held a sectoral consultation workshop in Cotonou on the draft Politique d'architecture des systèmes d'information de l'État (PASI), which sets organising principles, technical rules and standards to make public information systems interoperable, before final versions go to the Ministry of Digital Affairs.", "as_of": "2026-06-30", "date_precision": "day", "system": "Politique d'architecture des systèmes d'information de l'État (PASI)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Politique d'architecture des systèmes d'information de l'État (PASI)", "country_label": "PASI", "class": "framework", "platform": "", "owner": "ASIN", "tiers": "ministries, institutions, agencies, local authorities"},
+    {"system": "Politique de développement et d'intégration des applications de l'État (PDAIE)", "country_label": "PDAIE", "class": "other", "platform": "", "owner": "ASIN", "tiers": "ministries, institutions, agencies, local authorities"}
+  ],
+  "note": ""
+}

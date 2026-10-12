@@ -1,0 +1,11 @@
+{
+  "slug": "2026-07-28-asin-billet-juridique-cadre-interoperabilite-benin",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "ASIN's July 2026 legal note treats Benin's interoperability framework as in place, setting registration, technical and contractual conditions for connecting to the Xroad-BJ exchange platform, with the Comité national d'interopérabilité supervising; the note's date is the published date, 2026-07-28, no event date being given.", "as_of": "2026-07-28", "date_precision": "day", "system": "Cadre d'interopérabilité du Bénin", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Xroad-BJ", "country_label": "Xroad-BJ", "class": "other", "platform": "", "owner": "ASIN (management and governance); supervised by the Comité national d'interopérabilité", "tiers": "public administrations and authorised actors; private bodies with adhesion convention and APDP authorisation"},
+    {"system": "Catalogue des solutions interopérables (CatIS)", "country_label": "CatIS", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

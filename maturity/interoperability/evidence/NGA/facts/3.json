@@ -1,0 +1,9 @@
+{
+  "slug": "2025-04-15-nitda-draft-dpi-technical-standards",
+  "facts": [],
+  "systems": [
+    {"system": "Draft technical standards for DPI (NITDA)", "country_label": "Technical Standards for Deployment of Nigeria's Digital Public Infrastructure", "class": "other", "platform": "", "owner": "NITDA", "tiers": "government-wide"},
+    {"system": "Nigerian Digital Public Infrastructure Centre (Ng-DPIC)", "country_label": "Ng-DPIC", "class": "other", "platform": "", "owner": "NITDA", "tiers": ""}
+  ],
+  "note": "Draft DPI technical standards out for consultation (comments to 8 May 2025) name interoperability only as one objective among several and do not describe a rule for how government systems exchange data, so no framework fact; the full draft text is a later call."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-08-18-dba-fgi-cameroun-camtel-interoperabilite-nationale",
+  "facts": [],
+  "systems": [
+    {"system": "Guichet unique maritime", "country_label": "Guichet unique maritime", "class": "other", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "MINFI budget and customs information systems", "country_label": "systèmes d'information budgétaires et douaniers", "class": "other", "platform": "", "owner": "Ministry of Finance (MINFI)", "tiers": "national"},
+    {"system": "UMAC/BEAC interoperable payment QR code", "country_label": "QR Code de paiement interopérable", "class": "other", "platform": "", "owner": "UMAC / BEAC", "tiers": "regional"}
+  ],
+  "note": "Article on CAMTEL's mandate for national interoperability (2026-08-18) names projects and infrastructure but no government interoperability framework; no fact."
+}

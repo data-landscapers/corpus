@@ -1,0 +1,10 @@
+{
+  "slug": "2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The held page describes the published Uganda e-GIF issued by MoICT&NG / NITA-U, dated 2021-05-06, setting twelve principles and six interoperability layers for e-government systems; it does not itself state an adoption act, and the date is the publication date.", "as_of": "2021-05-06", "date_precision": "day", "system": "Uganda e-Government Interoperability Framework (e-GIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Uganda e-Government Interoperability Framework (e-GIF)", "country_label": "e-GIF", "class": "framework", "platform": "", "owner": "MoICT&NG / NITA-U", "tiers": "e-government systems"}
+  ],
+  "note": ""
+}

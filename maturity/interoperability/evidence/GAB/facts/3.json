@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-19-presidence-ga-audience-ika-technology-gabon-connect",
+  "facts": [],
+  "systems": [
+    {"system": "Gabon Connect", "country_label": "Portail Gabon Connect", "class": "other", "platform": "IKA Technology", "owner": "Government of Gabon", "tiers": "central administrations"},
+    {"system": "SIGFIP", "country_label": "Système Intégré de Gestion des Finances Publiques", "class": "other", "platform": "IKA Technology", "owner": "Ministry of Economy and Finance", "tiers": "financial agencies (régies financières)"}
+  ],
+  "note": "Presidential audience readout naming interoperability as an aim of portal and finance systems; no framework or rule stated."
+}

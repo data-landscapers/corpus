@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)",
+  "facts": [],
+  "systems": [
+    {"system": "National Interoperability Platform (Unified eXchange Platform, UXP)", "country_label": "national interoperability platform", "class": "other", "platform": "Cybernetica UXP (based on X-Road principles)", "owner": "Tunisian Ministry of ICT", "tiers": "central government: five ministries and institutions onboarded in phase 1"}
+  ],
+  "note": "Vendor announcement of an exchange platform; no interoperability framework stated; class other."
+}

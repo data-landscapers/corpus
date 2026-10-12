@@ -1,0 +1,8 @@
+{
+  "slug": "2026-06-24-agp-gabon-sante-cloture-projet-egabon-sis",
+  "facts": [],
+  "systems": [
+    {"system": "eGabon-SIS", "country_label": "projet de Renforcement du système d'information de santé eGabon-SIS", "class": "other", "platform": "", "owner": "ANINF with the Ministry of Health", "tiers": "health facilities, military teaching hospitals"}
+  ],
+  "note": "Closure of a health information system project (sector-only interconnection); no government-wide framework is named, so class other and no fact."
+}

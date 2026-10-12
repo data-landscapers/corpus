@@ -1,0 +1,8 @@
+{
+  "slug": "2026-05-22-tunisie-lequotidien-interoperabilite-phase-2-192-projets",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme nationale d'interopérabilité (Unified eXchange Platform, UXP)", "country_label": "plateforme nationale d'interopérabilité", "class": "other", "platform": "Cybernetica UXP", "owner": "Ministry of Communication Technologies (with Ministry of Economy and Planning)", "tiers": "central government: five ministries in phase 1 (completed 2025); phase 2 to end-2027 extends to all ministries"}
+  ],
+  "note": "Describes an exchange platform and its rollout, no interoperability framework (common rule) is stated; class other."
+}

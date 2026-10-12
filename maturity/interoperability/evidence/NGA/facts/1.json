@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-27-nitda-takes-over-ngea-koica",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "TechAfrica News reports that on the handover from KOICA in March 2026 NITDA took over the Nigeria Government Enterprise Architecture (NGEA) framework, built over two and a half years with reference models and described as now operational and enabling data exchange across government agencies; the event is dated by the article's publication date, 2026-03-27.", "as_of": "2026-03-27", "date_precision": "day", "system": "Nigeria Government Enterprise Architecture (NGEA)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Nigeria Government Enterprise Architecture (NGEA)", "country_label": "NGEA", "class": "framework", "platform": "", "owner": "NITDA (hosted by Galaxy Backbone Limited; built with KOICA)", "tiers": "federal; pilots at NIMC, Nigeria Customs Service, Nigeria Immigration Service and NITDA"}
+  ],
+  "note": ""
+}

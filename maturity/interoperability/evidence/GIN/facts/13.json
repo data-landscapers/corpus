@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-22-verite224-dge-oneci-convention-fichier-electoral",
+  "facts": [],
+  "systems": [
+    {"system": "Registre National des Personnes Physiques (RNPP)", "country_label": "RNPP", "class": "other", "platform": "", "owner": "ONECI", "tiers": "DGE (electoral roll)"}
+  ],
+  "note": "Bilateral DGE-ONECI data-sharing agreement (class other); no government interoperability framework is stated."
+}

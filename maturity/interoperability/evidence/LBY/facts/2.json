@@ -1,0 +1,8 @@
+{
+  "slug": "2022-12-01-gia-national-guide-for-government-data",
+  "facts": [],
+  "systems": [
+    {"system": "National Guide for Government Data", "country_label": "الدليل الوطني للبيانات الحكومية", "class": "other", "platform": "", "owner": "General Information Authority", "tiers": "national"}
+  ],
+  "note": "A data governance guide (first edition, December 2022); the passages held are its contents list and give no interoperability framework statement."
+}

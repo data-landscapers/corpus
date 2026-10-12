@@ -1,0 +1,12 @@
+{
+  "slug": "2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The Office of the Prime Minister, through the Department Public Service IT Management, drafted an Interoperability Framework for Namibia modelled on Estonia's X-Road, with stakeholder consultations held in 2016.", "as_of": "2016", "date_precision": "year", "system": "Interoperability Framework for Namibia", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The ministry's expression of interest states the Government of Namibia has adopted Estonia's X-Road as its Interoperability Framework; no adoption date is given, so the document's published date is used.", "as_of": "2024-10-01", "date_precision": "day", "system": "Interoperability Framework for Namibia", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Interoperability Framework for Namibia", "country_label": "Interoperability Framework", "class": "framework", "platform": "X-Road model (Estonia)", "owner": "Office of the Prime Minister, Department Public Service IT Management", "tiers": "central government offices, ministries and agencies"},
+    {"system": "government Interoperability Platform", "country_label": "government Interoperability Platform", "class": "other", "platform": "X-Road", "owner": "Office of the Prime Minister", "tiers": "central government; the Employment Equity Commission plans to exchange data with the Social Security Commission and BIPA through it"}
+  ],
+  "note": ""
+}

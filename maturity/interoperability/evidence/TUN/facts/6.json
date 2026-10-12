@@ -1,0 +1,10 @@
+{
+  "slug": "2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "Government decree 2020-777 of 5 October 2020 sets the conditions and procedures for electronic data exchange between public bodies and their users and between bodies, implementing decree-law 2020-31, and defines a national interoperability operator and interoperability system.", "as_of": "2020-10-05", "date_precision": "day", "system": "Décret gouvernemental n° 2020-777 (échange électronique de données, interopérabilité)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Système national d'interopérabilité (opérateur national d'interopérabilité)", "country_label": "opérateur d'interopérabilité", "class": "", "platform": "", "owner": "public person in charge of managing the interoperability system", "tiers": "public and private bodies with a public service mission"}
+  ],
+  "note": "No fact on use: the passages say public bodies must exchange electronically and meet standards set by joint order, but name no enforcing body."
+}

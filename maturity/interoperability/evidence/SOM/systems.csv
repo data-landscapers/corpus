@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+SOM,National Digital Trust System (NDTS),National Digital Trust System,other,cryptographic credential verification layer,Oshen (startup),,2026-04-28-dpi-somalia-risks-repeating-old-mistakes
+SOM,National Enterprise Architecture,National Enterprise Architecture,framework,,Federal Government of Somalia / Ministry of Communications and Technology,"federal; planned, all e-Government applications to follow it, with an Application Architecture document of standards still to be developed",2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029
+SOM,Data exchange hub,Data exchange hub,other,,Federal Government of Somalia,"federal; planned, for agency e-service platforms to exchange data",2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029
+SOM,National Enterprise Service Bus (NESB),National Enterprise Service Bus (NESB),other,,Federal Government of Somalia,"federal; planned, to integrate ministry and agency applications",2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029
+SOM,National Integrated Authentication Framework (NIAF),National Integrated Authentication Framework (NIAF),other,,Federal Government of Somalia,federal; planned single sign-on,2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029
+SOM,National payment gateway,National payment gateway,other,,Federal Government of Somalia,federal; planned,2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029
+SOM,Somali Financial Management Information System (SFMIS),SFMIS,other,,Office of the Accountant General,central government,2026-08-30-somalia-payroll-nira-id-database-link
+SOM,NIRA national identification system,NIRA national identification system,other,,National Identification and Registration Authority,central government,2026-08-30-somalia-payroll-nira-id-database-link
+SOM,SFMIS,SFMIS,other,,Ministry of Finance,central government,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Somalia Business Registration System,Nidaamka Diiwaangelinta Ganacsiga Soomaaliya,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Electronic Tax Administration System,Nidaamka Maamulka Canshuuraha Elektarooniga ah,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,E-Visa,E-Visa,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,HEMIS,Higher Education Management Information System,other,,,,2026-08-10-somalia-auditor-general-fmis-systems-fragmentation
+SOM,Somalia Instant Payment System (SIPS),SIPS,other,ISO 20022,Somalia Payment Switch (Central Bank and 13 commercial banks),banks; mobile money providers planned,2026-07-26-sonna-central-bank-one-payments-network
+SOM,Hubiye verification system,Hubiye,other,,National Identification and Registration Authority,public and private services,2026-06-28-somalia-nira-national-id-public-service-integration-working-group

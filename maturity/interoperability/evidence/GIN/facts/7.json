@@ -1,0 +1,8 @@
+{
+  "slug": "2026-04-08-techreviewafrica-govstack-workshop-wardip",
+  "facts": [],
+  "systems": [
+    {"system": "GovStack", "country_label": "GovStack workshop (WARDIP)", "class": "other", "platform": "GovStack", "owner": "Ministere des Postes, with World Bank support under WARDIP", "tiers": ""}
+  ],
+  "note": "A workshop on GovStack for interoperable e-services under WARDIP; no government interoperability framework is named, adopted or being drafted."
+}

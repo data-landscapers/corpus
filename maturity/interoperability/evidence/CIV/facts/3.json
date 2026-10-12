@@ -1,0 +1,36 @@
+{
+  "slug": "2021-12-22-civ-decret-2021-913-referentiel-interoperabilite",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "Decree 2021-913 of 22 December 2021 (Presidency, on the joint report of the digital economy and public service ministers) adopts the Référentiel Général d'Interopérabilité des Systèmes d'Information, annexed to the decree, as the general framework of technical rules for interoperability of information systems; the annex lists recommended, under-observation and end-of-life standards.",
+      "as_of": "2021-12-22",
+      "date_precision": "day",
+      "system": "Référentiel Général d'Interopérabilité (RGI)",
+      "class": "framework"
+    },
+    {
+      "sub_indicator": "framework",
+      "aspect": "use",
+      "value": "required",
+      "fact": "Article 3 of Decree 2021-913 states that public bodies (organismes publics) are bound to comply with the RGI; the decree charges the digital economy minister and the public service and administrative modernisation minister with its execution and with revising it by joint order, but names no separate enforcing body.",
+      "as_of": "2021-12-22",
+      "date_precision": "day",
+      "system": "Référentiel Général d'Interopérabilité (RGI)",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Référentiel Général d'Interopérabilité (RGI)",
+      "country_label": "Référentiel Général d'Interopérabilité des Systèmes d'Information",
+      "class": "framework",
+      "platform": "",
+      "owner": "Ministry of Digital Economy, Telecommunications and Innovation (Direction du Développement des Services), jointly with the Ministry of Public Service and Modernisation of the Administration",
+      "tiers": "All public bodies; applies to internal and external exchanges of the administration (G2G, G2C, G2B)"
+    }
+  ],
+  "note": ""
+}

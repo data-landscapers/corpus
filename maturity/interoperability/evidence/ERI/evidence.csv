@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ERI-001,ERI,framework,standing,none,The GovTech Maturity Index dataset for Eritrea (data year 2022) records no government interoperability framework (indicator I-3) and no government enterprise architecture framework (I-2); the page is dated 2022 by year only.,2022,year,government interoperability framework,framework,2022-01-01-eritrea-global-digital-identity-index-govtech,https://digitalidentityindex.com/countries/eritrea/govtech/

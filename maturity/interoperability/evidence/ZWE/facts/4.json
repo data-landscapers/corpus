@@ -1,0 +1,10 @@
+{
+  "slug": "2024-01-01-enterprise-architecture-modelling-zimbabwe",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The e-Governance Academy says it completed an enterprise architecture framework, roadmap and change plan for the Government of Zimbabwe in a project running September 2023 to September 2024, with staff from over 40 MDAs in workshops, and that the model is now in place; the page gives no year, so the project end is used.", "as_of": "2024-09", "date_precision": "month", "system": "Government enterprise architecture framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Government enterprise architecture framework", "country_label": "Enterprise architecture model", "class": "framework", "platform": "", "owner": "Government of Zimbabwe, supported by e-Governance Academy", "tiers": "national, over 40 MDAs took part"}
+  ],
+  "note": ""
+}

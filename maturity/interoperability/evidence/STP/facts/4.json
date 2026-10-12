@@ -1,0 +1,8 @@
+{
+  "slug": "2025-04-22-sao-tome-dpssf-sistema-kenon-informacao-protecao-social",
+  "facts": [],
+  "systems": [
+    {"system": "Kenon", "country_label": "Sistema Kenon - Sistema Nacional de Informacao da Protecao Social", "class": "other", "platform": "", "owner": "DPSSF, Ministry of Labour, Solidarity and Social Security", "tiers": "national: DPSSF departments and partners"}
+  ],
+  "note": "Page describes a social protection beneficiary database; it states no government interoperability framework."
+}

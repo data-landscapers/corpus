@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NER,Système National d'Identification des Personnes (WURI-Niger),Système National d'Identification des Personnes,other,,Ministère de l'Intérieur / WURI-Niger project unit; ANSI coordinates the Task Force,,2026-02-07-wuri-niger-mission-appui-decisions-majeures
+NER,Registre National de la Population (RNP),Registre National de la Population,other,,,,2026-02-07-wuri-niger-mission-appui-decisions-majeures
+NER,Infrastructure nationale à clé publique (PKI),infrastructure nationale à clé publique,other,,Ministry in charge of ICT,,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
+NER,Centre national de cyber-sécurité (CNAC),CNAC (SOC and CERT),other,,,,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
+NER,Point d'échange internet national (IXP),IXP national,other,,,,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
+NER,Guichet Unique du Commerce Extérieur (GUCE Niger),GUCE Niger,other,Webb Fontaine Single Window,State of Niger; Webb Fontaine Niger as technical partner,"Chamber of Commerce; Ministries of Commerce, Health, Livestock, Agriculture, Finance",2024-03-01-interview-niger-single-window-ali-karim-alio
+NER,Système d'identification de base (f-ID) / WURI-Niger,système d'identification de base (f-ID),other,,WURI-Niger project,,2024-01-01-lesahel-wuri-niger-presentation-projet

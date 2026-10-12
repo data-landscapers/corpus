@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-operation-vulindlela-phase-ii-progress-report-q3-2025-26",
+  "facts": [],
+  "systems": [
+    {
+      "system": "MzansiXchange",
+      "country_label": "MzansiXchange",
+      "class": "other",
+      "platform": "X-Road",
+      "owner": "National Treasury",
+      "tiers": "national departments (SASSA, NSFAS, DPSA, Home Affairs testing)"
+    }
+  ],
+  "note": "Reports the MzansiXchange pilot platform only; no framework behind it is stated, so no fact."
+}

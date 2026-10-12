@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The ministry's news page says the Republic of Congo is committing to develop a National Digital Architecture built on DPI principles, described as the reference framework for interconnecting public and private information systems; it is in development, with no adoption instrument cited (page dated 2026-09-02, used as the as_of date because the page gives none).", "as_of": "2026-09-02", "date_precision": "day", "system": "Architecture Numérique Nationale", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Architecture Numérique Nationale", "country_label": "Architecture Numérique Nationale (DPI)", "class": "framework", "platform": "", "owner": "Ministry of Posts, Telecommunications and Digital Economy", "tiers": "public and private information systems"}
+  ],
+  "note": ""
+}

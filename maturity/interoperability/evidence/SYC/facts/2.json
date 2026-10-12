@@ -1,0 +1,8 @@
+{
+  "slug": "2020-01-01-seychelles-spatial-data-sharing-policy",
+  "facts": [],
+  "systems": [
+    {"system": "Seychelles Spatial Data Sharing Policy (SSDSP 2020)", "country_label": "Seychelles Spatial Data Sharing Policy", "class": "other", "platform": "OGC WMS/WFS, ISO 19115 metadata", "owner": "Centre for Geographic Information Services, Ministry of Lands and Housing", "tiers": "ministries, departments, agencies and autonomous bodies holding spatial data"}
+  ],
+  "note": "Spatial-data-only sharing policy (sector framework); the document itself says no national standards exist, so class other and no framework fact."
+}

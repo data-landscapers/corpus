@@ -1,0 +1,12 @@
+{
+  "slug": "2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "Decree 67/2017, approved by the Council of Ministers on 17 October 2017 and published 1 December 2017, approves the Regulation of the e-Government Interoperability Framework, in force 180 days after publication.", "as_of": "2017-10-17", "date_precision": "day", "system": "Quadro de Interoperabilidade de Governo Electrónico", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "required", "fact": "The decree applies to all public administration bodies (central, local, autarquias), obliges them to use a single interoperability platform and integrate their systems, and charges INTIC with inspecting compliance and sanctioning breaches; as_of is the publication date.", "as_of": "2017-12-01", "date_precision": "day", "system": "Quadro de Interoperabilidade de Governo Electrónico", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Quadro de Interoperabilidade de Governo Electrónico", "country_label": "Quadro de Interoperabilidade", "class": "framework", "platform": "", "owner": "INTIC (regulator)", "tiers": "central and local public administration"},
+    {"system": "Plataforma Comum de Comunicação de Dados do Governo e de Interoperabilidade", "country_label": "Plataforma de Interoperabilidade", "class": "other", "platform": "", "owner": "INAGE", "tiers": "all public administration institutions"}
+  ],
+  "note": ""
+}

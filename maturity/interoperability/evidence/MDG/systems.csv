@@ -1,0 +1,9 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MDG,Orinasa,Orinasa,other,,UGD,"EDBM, DGI, MINJUS, INSTAT",2022-11-14-ugd-cadre-interoperabilite
+MDG,X-Road security server,X-ROAD SS,other,X-Road,UGD,,2022-11-14-ugd-cadre-interoperabilite
+MDG,Rahaka,Rahaka,other,X-Road,"Unité de Gouvernance Digitale (UGD), with PRODIGY (World Bank)","EDBM, CNaPS, Instat, Ministry of Justice, Direction générale des Impôts",2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress
+MDG,Rahaka,Rahaka,other,X-Road,Unité de Gouvernance Digitale (UGD),"ministries, public institutions, private actors (first usage convention)",2026-04-29-interoperabilite-nationale-instat
+MDG,Rahaka,Rahaka,other,X-Road,"Unité de Gouvernance Digitale (UGD), with PRODIGY (World Bank) and MNDPT",,2026-04-29-newsmada-rahaka-interoperability-platform-launch
+MDG,Rahaka,Rahaka,other,X-Road,Unité de Gouvernance Digitale (UGD),"ministries, public institutions, private actors (first usage convention); INSTAT signatory",2026-04-28-instat-interoperabilite-nationale
+MDG,Orinasa,Orinasa,other,,UGD,"EDBM, DGI, MINJUS, INSTAT",2022-11-01-ugd-cadre-interoperabilite-v1.0.2
+MDG,X-Road,X-ROAD Security Server,other,X-Road,UGD,,2022-11-01-ugd-cadre-interoperabilite-v1.0.2

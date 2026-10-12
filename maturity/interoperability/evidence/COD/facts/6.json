@@ -1,0 +1,9 @@
+{
+  "slug": "2025-07-21-dr-congo-public-service-waste-biometric-id-registry-biometricupdate",
+  "facts": [],
+  "systems": [
+    {"system": "Biometric civil service registry (ENCORE)", "country_label": "ENCORE", "class": "other", "platform": "", "owner": "Ministry of Civil Service and COREF", "tiers": "national"},
+    {"system": "DRCPass", "country_label": "DRCPass", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Names a digital government architecture contract with Trident but states no interoperability framework."
+}

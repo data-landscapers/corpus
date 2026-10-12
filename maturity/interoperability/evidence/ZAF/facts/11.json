@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-22-sita-recovery-mode-comms-minister",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "none", "fact": "At GovTech 2026 on 22 September 2026 SITA's managing director said the agency still needs a common government enterprise architecture covering business, data, applications, integration, technology, cloud and cyber security, which implies none is in place.", "as_of": "2026-09-22", "date_precision": "day", "system": "Common government enterprise architecture", "class": "framework"}
+  ],
+  "systems": [],
+  "note": ""
+}

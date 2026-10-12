@@ -1,0 +1,9 @@
+{
+  "slug": "2026-07-19-rabt-105-jiha-hukumiyya-242-khidma-mansat-misr-al-raqmiyya",
+  "facts": [],
+  "systems": [
+    {"system": "Government Digital Transformer (المحول الرقمي الحكومي)", "country_label": "المحول الرقمي الحكومي", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "105 government bodies connected"},
+    {"system": "Digital Egypt platform (منصة مصر الرقمية)", "country_label": "منصة مصر الرقمية", "class": "other", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "central government services, 242 services"}
+  ],
+  "note": "Reports 105 bodies linked and 100 national databases connected through an exchange project, but names no interoperability framework, decree or standard behind it; exchange platform only, so no fact."
+}

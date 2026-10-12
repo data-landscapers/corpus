@@ -1,0 +1,9 @@
+{
+  "slug": "2026-02-16-ami-lancement-portail-national-procedures-administratives-ijraati",
+  "facts": [],
+  "systems": [
+    {"system": "Ijraati", "country_label": "Portail national des procédures et démarches administratives", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation and Modernisation of the Administration", "tiers": "national"},
+    {"system": "Khdamati", "country_label": "Plateforme gouvernementale Khdamati", "class": "other", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Launch of a procedures portal and roadmap to integrate into Khdamati; no interoperability framework is stated."
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-05-21-critical-state-information-at-risk-in-9-govt-ministries",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Health Information Exchange",
+      "country_label": "Health Information Exchange",
+      "class": "other",
+      "platform": "HL7/FHIR",
+      "owner": "Ministry of Health",
+      "tiers": "health"
+    }
+  ],
+  "note": "Report finds weak interoperability and names no government interoperability framework; the HIE is sector-only."
+}

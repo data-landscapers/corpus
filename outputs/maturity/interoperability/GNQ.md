@@ -1,0 +1,11 @@
+# Equatorial Guinea
+
+## Government interoperability framework
+
+**Framework adopted.** Equatorial Guinea has no framework. A World Bank diagnostic of 2024 [states that the government has no national interoperability framework and no government enterprise architecture framework](<https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt>). A report of July 2024 says [the diagnostic recommends a national interoperability framework, describing it as currently absent](<https://www.biometricupdate.com/202407/world-bank-identifies-priority-actions-for-dpi-in-equatorial-guinea>).
+
+**Required and followed.** The diagnostic says [public sector systems do not communicate with each other, and that interoperability, where it is achieved, is arranged ministry by ministry without central coordination](<https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt>). No source dated since 2024 reports a framework being drafted, and none names an instrument on data exchange between public bodies. No source names a body charged with writing one, or a date by which one is due. A statement that there is no framework counts here for three years from its date.
+
+***Noted, not assessed***. [SYDONIA](<https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt>); [SIGFIP](<https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt>); [Integrated tax revenue management system](<https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/>); [SAGE](<https://www.pamfp.org/en/support-for-the-reinforcement-of-the-mobilization-of-non-oil-revenues/>); [SIGEF](<https://www.guineaecuatorialpress.com/noticias/el_ministro_secretario_general_en_funciones_preside_la_tercera_reunion_del_comite_de_pilotaje_del_proyecto_sigef>); [Mobile application for statistical data exchange](<https://inege.org/?p=16157>); [BIC-CEMAC (Creditinfo Central Africa)](<https://www.ifc.org/fr/pressroom/2026/la-beac-et-la-soci-t-financi-re-internationale-ifc-lancent-officiellement-le-burea0>).
+
+***Not held***. No source held says a framework is being written.

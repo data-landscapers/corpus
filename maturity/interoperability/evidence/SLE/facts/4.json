@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure",
+  "facts": [],
+  "systems": [
+    {"system": "National Data Exchange Layer (X-Road based pilot)", "country_label": "National Data Exchange Layer", "class": "other", "platform": "X-Road (Estonia)", "owner": "Ministry of Finance", "tiers": "national; pilot"},
+    {"system": "eKYC platform", "country_label": "electronic Know Your Customer (eKYC) platform", "class": "other", "platform": "", "owner": "NCRA", "tiers": "integrated with multiple institutions"}
+  ],
+  "note": "Names a Ministry of Finance pilot data exchange layer on X-Road and a Ministry of Finance lead on interoperability systems, but no government interoperability framework; platform alone is class other."
+}

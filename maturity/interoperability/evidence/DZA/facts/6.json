@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-09-algeria-data-governance-launch-maghrebinfo",
+  "facts": [],
+  "systems": [
+    {"system": "Dispositif national de gouvernance des données", "country_label": "dispositif national de gouvernance des données (décret présidentiel 25-320)", "class": "other", "platform": "", "owner": "Haut-commissariat à la numérisation", "tiers": "all ministerial departments and national bodies (follow-up commission)"}
+  ],
+  "note": "Data-governance framework launched 9 February 2026; the document says it sets a unified technical and regulatory framework to end haphazard data exchange but does not describe interoperability rules, so it is not recorded as an interoperability framework."
+}

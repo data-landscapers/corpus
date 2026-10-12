@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-16-nosi-sistema-informacao-justica-penal",
+  "facts": [],
+  "systems": [
+    {"system": "Sistema de Informação da Justiça (SIJ), criminal case subsystem", "country_label": "Sistema de Informação da Justiça", "class": "other", "platform": "", "owner": "NOSi with IMIJ", "tiers": "courts, Ministério Público, Polícia Nacional, Polícia Judiciária"}
+  ],
+  "note": "Sector system delivery (justice); no framework for government data exchange stated."
+}

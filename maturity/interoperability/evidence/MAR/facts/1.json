@@ -1,0 +1,8 @@
+{
+  "slug": "2022-09-07-morocco-e-government-interoperability-platform",
+  "facts": [],
+  "systems": [
+    {"system": "e-government interoperability platform", "country_label": "Plateforme d'interoperabilite (ADD)", "class": "other", "platform": "built by Minsait; described as an open IoT system with Big Data capabilities", "owner": "Agency for Digital Development (ADD)", "tiers": "public administrations, agencies and institutions; Single Social Register (RSU), MASSAR school management system and some social programs operational on it"}
+  ],
+  "note": "Describes an exchange platform launched by ADD (release of 2022-09-05) with no framework, standard or rule behind it stated, so class other and no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2025-06-19-nita-u-integration-service-ughub",
+  "facts": [],
+  "systems": [
+    {"system": "UGHub", "country_label": "Integration Service (UgHub)", "class": "other", "platform": "WSO2", "owner": "NITA-U", "tiers": "national: over 150 entities served, hosted in the Government Data Centre"}
+  ],
+  "note": "Service page for the UGHub exchange platform; no interoperability framework is named."
+}

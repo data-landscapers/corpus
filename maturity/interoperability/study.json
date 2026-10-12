@@ -88,8 +88,16 @@
       "label": "Government interoperability framework",
       "subject": "gov.policy",
       "text": "Data interoperability framework / roadmap: government interoperability framework",
-      "indicator_id": "gov.policy--data-interoperability-framework-roadmap-government-framework",
-      "class": "framework"
+      "indicator_id": "gov.policy--data-interoperability-framework-roadmap-government-interoperability-framework",
+      "class": "framework",
+      "criteria": [
+        "A source from the past three years says the government has no interoperability framework and none is being written.",
+        "A framework, standard or regulation for how government systems exchange data is being written or is out for consultation, or the last one has ended with no successor adopted. An exchange platform with no framework behind it does not count, and nor does interoperability named only as an aim.",
+        "A framework for how government systems exchange data is adopted and published. It may be an interoperability framework, a standard, a decree or part of a larger law. No instrument yet makes it compulsory and names who enforces it.",
+        "Public bodies are required to follow the framework: a decree, law, regulation or circular makes it compulsory and names the body that enforces it.",
+        "Public bodies are following the framework in the past three years: a dated source names or counts the ministries, agencies or systems that exchange data under it or are certified as meeting it. How good the framework is, is not judged."
+      ],
+      "criteria_of": "b811b064fba1"
     }
   ],
   "classes": [

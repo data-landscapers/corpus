@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-08-mar-mmsp-maroc-ia-2030-etat-avancement",
+  "facts": [],
+  "systems": [
+    {"system": "Software Factory", "country_label": "Software Factory", "class": "other", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": "administrations (pooled reusable software components)"},
+    {"system": "Data Factory", "country_label": "Data Factory", "class": "other", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": ""}
+  ],
+  "note": "Software Factory pools reusable components and is said to strengthen interoperability, but no framework or rule is stated."
+}

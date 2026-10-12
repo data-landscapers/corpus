@@ -1,0 +1,8 @@
+{
+  "slug": "2025-07-10 Guinea-Bissau Council of Ministers approves three digital decrees (interoperability, data governance, cybersecurity)",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The state news agency ANG reports that the Council of Ministers approved the draft decree (Projeto de Decreto) on the Regulation on Interoperability of Systems and Digital Platforms of Public and Private Services; the article has no in-body date, so the date is the proxy published date.", "as_of": "2025-07-10", "date_precision": "day", "system": "Regulamento sobre a Interoperabilidade de Sistemas e Plataformas Digitais", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "Draft approval only; nothing on compulsion or use."
+}

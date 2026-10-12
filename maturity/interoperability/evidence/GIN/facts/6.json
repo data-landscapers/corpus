@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-07-ande-deploiement-plateforme-nationale-e-services",
+ "facts": [],
+ "systems": [
+  {
+   "system": "portail national e-service",
+   "country_label": "portail national e-service",
+   "class": "other",
+   "platform": "built under WARDIP",
+   "owner": "ANDE / Ministry of Administrative Modernisation",
+   "tiers": "citizens and businesses"
+  }
+ ],
+ "note": "National e-Services platform deployment; no interoperability framework stated."
+}

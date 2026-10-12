@@ -1,0 +1,17 @@
+{
+  "slug": "2019-02-01-zambia-egovernment-interoperability-standard",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted",
+     "fact": "The Government of Zambia, through the Office of the President's Electronic Government Division (SMART Zambia Institute), issued the Public Service ICT Electronic Government Interoperability Standard, 1st Edition, final version dated February 2019, which the text describes as the electronic Government Interoperability Framework (eGIF) for all ministries, provinces and spending agencies.",
+     "as_of": "2019-02", "date_precision": "month",
+     "system": "Electronic Government Interoperability Standard (eGIF)", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "required",
+     "fact": "The standard states that the e-Government Division enforces it across all ministries, provinces and spending agencies, that systems must comply to be integrated into the government ICT infrastructure, and that annual compliance audits and certificates are issued; it is a government-issued standard, and the text cites no decree or law behind it.",
+     "as_of": "2019-02", "date_precision": "month",
+     "system": "Electronic Government Interoperability Standard (eGIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Electronic Government Interoperability Standard (eGIF)", "country_label": "Public Service ICT Electronic Government Interoperability Standard", "class": "framework", "platform": "", "owner": "Electronic Government Division, SMART Zambia Institute", "tiers": "ministries, provinces and spending agencies (MPSAs)"}
+  ],
+  "note": ""
+}

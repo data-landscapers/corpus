@@ -1,0 +1,11 @@
+{
+  "slug": "2019-10-01 E-Government Systems Interoperability Challenges - Public Sector in Rwanda (Mugumya, MSc thesis)",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "none", "fact": "A 2019 MSc survey of eight Rwandan public agencies (24 interviews) found 88% of challenges were organizational, including no common standards, guidelines, interoperability framework or enterprise architecture, and recommended publishing an eGIF; the date is the thesis's published date, October 2019.", "as_of": "2019-10", "date_precision": "month", "system": "government interoperability framework (eGIF)", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "none", "fact": "The same 2019 survey found 96% of challenges were constitutional and legal, with no law obliging agencies to interoperate and integration left to each agency's own initiative; dated by the thesis's published date, October 2019.", "as_of": "2019-10", "date_precision": "month", "system": "government interoperability framework (eGIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "National Population Registry (NPR)", "country_label": "National Population Registry", "class": "other", "platform": "", "owner": "NIDA", "tiers": "Seven integration points with agencies including MINALOC, LODA, City of Kigali, RLMUA, RURA, RDB, MIFOTRA"}
+  ],
+  "note": ""
+}

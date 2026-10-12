@@ -1,0 +1,34 @@
+{
+  "slug": "2026-03-26-mctn-interoperabilite-mvp-1-0-copil-validation",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The ministry states that Phase 1 (MVP 1.0), whose deliverables a steering committee with JICA and Accenture validated on 2026-03-26, produced a national interoperability framework and a draft decree (projet de décret); no adoption of the framework or decree is stated.",
+      "as_of": "2026-03-26",
+      "date_precision": "day",
+      "system": "Cadre d'interopérabilité national",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cadre d'interopérabilité national",
+      "country_label": "cadre d'interopérabilité national",
+      "class": "framework",
+      "platform": "",
+      "owner": "Ministère des Télécommunications et du Numérique",
+      "tiers": "national"
+    },
+    {
+      "system": "Plateforme nationale d'interopérabilité",
+      "country_label": "plateforme nationale d'interopérabilité",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministère des Télécommunications et du Numérique",
+      "tiers": "national; SEN-CSU and DGPSN, DGID and DGD use cases in production"
+    }
+  ],
+  "note": ""
+}

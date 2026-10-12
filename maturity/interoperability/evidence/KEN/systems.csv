@@ -1,0 +1,14 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+KEN,Kenya interoperability framework document (Cybernetica pilot),interoperability framework,framework,,Cybernetica for Ministry of ICT and ICT Authority,national,2026-01-20-cybernetica-piloted-interoperability-platform-kenya
+KEN,Interoperability test platform and service catalogue,test environment platform,other,X-Road (GovStack information mediator building block),Cybernetica pilot for ICT Authority,two demo services,2026-01-20-cybernetica-piloted-interoperability-platform-kenya
+KEN,National e-Government Interoperability Framework and Government Enterprise Architecture standards,GEA and national e-Government Interoperability Framework,framework,,ICT Authority (KDEAP),"ministries, departments, agencies and counties (intended)",2025-11-07-kenya-gea-interoperability-workshop-kicc
+KEN,Government Interoperability Framework,Government Interoperability Framework,framework,,Government of Kenya,national,2026-09-24-ken-cross-border-digital-public-service-pilot
+KEN,eCitizen,eCitizen,other,,Government of Kenya,"national, more than 22,500 services",2026-09-24-ken-cross-border-digital-public-service-pilot
+KEN,Draft data governance policy (data marketplace),Kenya draft data governance policy,other,,Government of Kenya,,2026-07-23-kenya-wants-to-monetize-its-data-but-at-what-cost
+KEN,Draft Data Governance Policy (2026),Draft Data Governance Policy (2026),other,,"Ministry of Information, Communications and the Digital Economy",,2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy
+KEN,Draft Final National Data Governance Policy (May 2026),Draft Final National Data Governance Policy,other,,"Ministry of Information, Communications and the Digital Economy",ministries and counties (data officers proposed),2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated
+KEN,eCitizen,eCitizen,other,,Government of Kenya,,2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated
+KEN,Kenya data marketplace,national data exchange / marketplace,other,,Government of Kenya,,2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated
+KEN,Government Enterprise Architecture (GEA) and Government Interoperability Framework (GIF),GEA and GIF,framework,,ICT Authority (ICTA),"ministries, counties, departments and agencies (MCDAs), as the intended scope",2023-01-01-kenya-gea-gif-interoperability-framework
+KEN,Enterprise Service Bus / enterprise-wide Service Delivery Gateway,ESB,other,Enterprise Service Bus,,described as a principle for enterprise-wide service delivery; no deployment stated,2023-01-01-kenya-gea-gif-interoperability-framework
+KEN,NPKI,NPKI,other,public key infrastructure,,named for secure login across government systems,2023-01-01-kenya-gea-gif-interoperability-framework

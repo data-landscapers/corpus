@@ -1,0 +1,10 @@
+{
+  "slug": "2026-03-31-hmis-eswatini-cmis-dhis2-integration",
+  "facts": [],
+  "systems": [
+    {"system": "CMIS", "country_label": "CMIS", "class": "other", "platform": "SQL Server", "owner": "Ministry of Health HMIS Unit", "tiers": "hospitals; clinics"},
+    {"system": "DHIS2", "country_label": "DHIS2", "class": "other", "platform": "DHIS2", "owner": "", "tiers": ""},
+    {"system": "OpenFn data flows CMIS to DHIS2", "country_label": "", "class": "other", "platform": "OpenFn", "owner": "Ministry of Health HMIS Unit", "tiers": ""}
+  ],
+  "note": "Health-sector data flows aligned with FHIR; no government interoperability framework stated."
+}

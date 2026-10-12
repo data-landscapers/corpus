@@ -1,0 +1,13 @@
+{
+  "slug": "2026-09-21-dza-interfil-conseil-ministres-interoperabilite-numerique",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft",
+     "fact": "The Council of Ministers chaired by President Tebboune on Sunday 20 September 2026 ordered a presidential decree to be drawn up on the secure digital interoperability plan between state bodies and institutions, defining the sectoral bodies' missions and representation under the High Commissioner for Digitalisation, and extended to the wilayas.",
+     "as_of": "2026-09-20", "date_precision": "day",
+     "system": "Plan d'interopérabilité numérique sécurisée", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Plan d'interopérabilité numérique sécurisée", "country_label": "plan d'interopérabilité numérique sécurisée entre les instances et institutions de l'Etat", "class": "framework", "platform": "", "owner": "Haut-commissariat à la numérisation (supervision)", "tiers": "state bodies and institutions; wilayas"}
+  ],
+  "note": ""
+}

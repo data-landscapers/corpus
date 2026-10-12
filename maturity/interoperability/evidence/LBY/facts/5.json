@@ -1,0 +1,23 @@
+{
+  "slug": "2026-04-23-chambers-union-electronic-system-gia",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Data Distributor",
+      "country_label": "National Data Distributor",
+      "class": "other",
+      "platform": "",
+      "owner": "General Information Authority",
+      "tiers": ""
+    },
+    {
+      "system": "Chambers Union electronic system",
+      "country_label": "Electronic system of the Union of Chambers",
+      "class": "other",
+      "platform": "",
+      "owner": "Union of Chambers",
+      "tiers": ""
+    }
+  ],
+  "note": "Names a National Digital Government Framework for standards and service design, but not as a rule for data exchange between systems; platform only, so no fact."
+}

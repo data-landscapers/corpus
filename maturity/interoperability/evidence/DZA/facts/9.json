@@ -1,0 +1,8 @@
+{
+  "slug": "2025-08-16-transactions-immobilieres-interoperabilite-nouvel-accord",
+  "facts": [],
+  "systems": [
+    {"system": "Cadastral and land databases of the Direction générale des Domaines (notary access)", "country_label": "bases cadastrales et foncières", "class": "other", "platform": "", "owner": "Ministry of Finance, Direction générale des Domaines", "tiers": "national; notaries via Chambre nationale du notariat"}
+  ],
+  "note": "A bilateral data-sharing protocol between Finance and Justice (notaries) is class other; the article only mentions in passing a Référentiel national de la gouvernance des données presented in February 2025, with no adoption stated."
+}

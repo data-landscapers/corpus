@@ -1,0 +1,15 @@
+{
+  "slug": "2026-07-17-liberia-otdi-terms-of-reference-executive-order-163",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft",
+     "fact": "The terms of reference for the head of the Office of Technology, Digitalization and Innovation (OTDI) tasks the post with developing and maintaining a Government Interoperability Framework with standards for secure data exchange, APIs and system integration, with a first release due to the President 60 days before Executive Order 163 expires (one year from issuance); the document reports no drafting begun or text published, and the as_of is the document's published date (a job advertisement with a 24 July 2026 deadline).",
+     "as_of": "2026-07-17", "date_precision": "day",
+     "system": "Government Interoperability Framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Government Interoperability Framework", "country_label": "Government Interoperability Framework", "class": "framework", "platform": "", "owner": "Office of Technology, Digitalization and Innovation (OTDI), Office of the President", "tiers": "all ministries, agencies and commissions of the Executive Branch"},
+    {"system": "Government Enterprise Architecture Framework", "country_label": "Government Enterprise Architecture Framework", "class": "other", "platform": "", "owner": "Office of Technology, Digitalization and Innovation (OTDI)", "tiers": "all ministries, agencies and commissions of the Executive Branch"},
+    {"system": "Government Digital Systems Inventory", "country_label": "Government Digital Systems Inventory", "class": "other", "platform": "", "owner": "Office of Technology, Digitalization and Innovation (OTDI)", "tiers": "all ministries, agencies and commissions of the Executive Branch"}
+  ],
+  "note": ""
+}

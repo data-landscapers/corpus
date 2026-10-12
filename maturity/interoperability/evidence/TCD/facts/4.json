@@ -1,0 +1,10 @@
+{
+  "slug": "2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees",
+  "facts": [],
+  "systems": [
+    {"system": "SIGFIP", "country_label": "SIGFIP", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "E-tax", "country_label": "E-tax", "class": "", "platform": "", "owner": "DGI", "tiers": ""},
+    {"system": "Facturation électronique normalisée (FEN)", "country_label": "Facturation électronique normalisée", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Bilateral DGI-Treasury data-exchange protocol, class other; the tools named are given with no description of what they do, and no framework is named."
+}

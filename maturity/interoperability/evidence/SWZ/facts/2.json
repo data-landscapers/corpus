@@ -1,0 +1,23 @@
+{
+  "slug": "2026-07-22-mchumanisi-data-exchange-platform",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Mchumanisi",
+      "country_label": "National Data Exchange Platform (Mchumanisi)",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": "government institutions"
+    },
+    {
+      "system": "National Data Governance Policy (2027-2031)",
+      "country_label": "National Data Governance Policy",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministry of ICT",
+      "tiers": ""
+    }
+  ],
+  "note": "Exchange platform proposed in a draft data policy; no interoperability framework behind it."
+}

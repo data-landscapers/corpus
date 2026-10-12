@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-30-industries-ma-maroc-ia-2030-roadmap-programmes",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme des communs numériques", "country_label": "plateforme des communs numériques", "class": "other", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": ""}
+  ],
+  "note": "The AI 2030 roadmap names interoperability and once-only as a later step of a common-digital-goods platform (forge, 20 critical APIs, open data); it states no interoperability framework, so class other and no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2024-07-15 World Bank identifies priority actions for DPI in Equatorial Guinea",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "none", "fact": "Biometric Update reports that the World Bank diagnostic recommends a national interoperability framework for Equatorial Guinea, describing it as currently absent; the date is the article's published date, 2024-07-15.", "as_of": "2024-07-15", "date_precision": "day", "system": "national interoperability framework", "class": "framework"}
+  ],
+  "systems": [],
+  "note": ""
+}

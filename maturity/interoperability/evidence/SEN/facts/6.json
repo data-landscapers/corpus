@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-03-pins-plateforme-interoperabilite-senegal-jokkoo",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme d'Interopérabilité du Sénégal (e-Jokkoo)", "country_label": "e-Jokkoo / PINS", "class": "other", "platform": "X-Road", "owner": "", "tiers": ""}
+  ],
+  "note": "Portal of the exchange platform; no framework is named and its usage counters did not load, so no fact."
+}

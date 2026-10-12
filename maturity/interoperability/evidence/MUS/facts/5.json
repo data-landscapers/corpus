@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-infohighway-leaflet-v12",
+  "facts": [],
+  "systems": [
+    {"system": "InfoHighway", "country_label": "InfoHighway", "class": "other", "platform": "Service Oriented Architecture, publish and subscribe model", "owner": "Ministry of Technology, Communication and Innovation; hosted at the Government Online Centre; project management by the Central Informatics Bureau", "tiers": "Ministries, departments and parastatal bodies (e.g. CBRD, CSD, EDB, MRA, NTA)"}
+  ],
+  "note": "InfoHighway is an exchange platform with no interoperability framework named behind it (it cites a Data Sharing Policy and a list of Acts, not a framework); no fact."
+}

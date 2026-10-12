@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-27-lso-ppd-forum-lnsw-reforms-stalled",
+  "facts": [],
+  "systems": [
+    {"system": "Lesotho National Single Window (LNSW)", "country_label": "Lesotho National Single Window", "class": "other", "platform": "", "owner": "Revenue Services Lesotho", "tiers": "central; 12 agencies connected"},
+    {"system": "Whole-of-government e-payment gateway", "country_label": "whole-of-government e-payment gateway", "class": "other", "platform": "", "owner": "Central Bank of Lesotho", "tiers": ""}
+  ],
+  "note": "Single window and payment gateway are exchange platforms with no interoperability framework named; no framework fact."
+}

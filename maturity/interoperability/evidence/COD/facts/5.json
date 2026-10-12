@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-19-ceni-transmet-fichier-electoral-onip-actualite",
+  "facts": [],
+  "systems": [
+    {"system": "Fichier général de la population", "country_label": "Fichier général de la population", "class": "other", "platform": "", "owner": "ONIP", "tiers": "national"}
+  ],
+  "note": "Reports a two-agency data handover (CENI voter roll to ONIP); an agency-to-agency arrangement, no interoperability framework stated."
+}

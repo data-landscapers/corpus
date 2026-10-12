@@ -1,0 +1,11 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MWI,Bomalathu,Bomalathu digital services platform,other,,Department of E-Government,"national agencies (Malawi Revenue Authority, National Registration Bureau, Immigration being onboarded)",2026-07-07 Malawi integrates immigration e-services
+MWI,Boma Lathu (National Data Exchange Platform),Boma Lathu,other,,Ministry of ICT / National Data Centre,government institutions,2026-06-11-government-data-sharing-regulation-boma-lathu-itweb
+MWI,Bomalathu,Bomalathu data-exchange platform,other,,Government of Malawi (Digital Malawi Program),,"2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities"
+MWI,Enterprise Service Bus,Enterprise Service Bus,other,,Department of e-Government,ministries,2026-01-13-ict-sector-2025-implementation-woes-times
+MWI,National e-Payment Gateway,National e-Payment Gateway,other,,,government collections,2026-01-13-ict-sector-2025-implementation-woes-times
+MWI,Malawi National Single Window,Malawi National Single Window,other,,,trade agencies incl. Malawi Revenue Authority and Ministry of Trade,2026-01-13-ict-sector-2025-implementation-woes-times
+MWI,Harmonized National Management Information System (HN-MIS),Harmonized National Management Information System,other,,"Ministry of Finance and Economic Affairs (Department of Economic Planning and Development), with UNFPA and UNDP",all levels of government,2025-01-01-establishment-harmonized-national-management-information-system
+MWI,National ID system,national ID system,other,,National Registration Bureau,"voter registration, passport application, Malawi Revenue Authority, banks",2022-05-20-malawi-foundational-legal-identity-system
+MWI,DHIS2-based national health information system,DHIS2,other,DHIS2,Ministry of Health,national,2026-04-27-mwi-dhis2-diabetes-compass-project
+MWI,integrated Community Health Information System (iCHIS),iCHIS,other,DHIS2,Ministry of Health,community health workers nationwide,2026-04-27-mwi-dhis2-diabetes-compass-project

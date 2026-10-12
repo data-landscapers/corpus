@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado",
+  "facts": [],
+  "systems": [
+    {"system": "PDEX", "country_label": "PDEX", "class": "other", "platform": "API publication and subscription platform", "owner": "NOSi", "tiers": "civil identification (Portal Consular), health (NhaCard), Treasury (DUC), public and private entities consuming citizen data validation APIs"}
+  ],
+  "note": "Exchange platform page with no framework, decree or standard behind it stated."
+}

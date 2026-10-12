@@ -1,0 +1,8 @@
+{
+  "slug": "2026-01-20-beac-ifc-lancement-bic-cemac-creditinfo",
+  "facts": [],
+  "systems": [
+    {"system": "BIC-CEMAC (Creditinfo Central Africa)", "country_label": "Bureau d'Information sur le Crédit CEMAC", "class": "other", "platform": "hub-and-spokes", "owner": "Creditinfo Central Africa under BEAC", "tiers": "regional; banks and microfinance institutions"}
+  ],
+  "note": "Regional credit bureau; GNQ named only as one of six CEMAC states; no government interoperability framework."
+}

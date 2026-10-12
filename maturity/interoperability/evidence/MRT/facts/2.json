@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-28-mrt-elilam-digital-infrastructure-standards-training",
+  "facts": [],
+  "systems": [
+    {"system": "National government cloud (السحابة الحكومية الوطنية)", "country_label": "السحابة الحكومية الوطنية", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "national"},
+    {"system": "National design system (النظام الوطني للتصميم)", "country_label": "النظام الوطني للتصميم", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "ministry, to be extended to other sectors"}
+  ],
+  "note": "Unified digital-infrastructure standards are named but the document does not say they set how systems exchange data, so no framework fact."
+}

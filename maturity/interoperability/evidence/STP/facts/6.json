@@ -1,0 +1,10 @@
+{
+  "slug": "2023-12-15-stp-estrategia-nacional-ciberseguranca-texto-integral",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The national cybersecurity strategy (final version 2.0, 15 December 2023) records that the Quadro Nacional de Interoperabilidade was published in November 2021, alongside the Plataforma de Interoperabilidade first conceived in 2020.", "as_of": "2021-11", "date_precision": "month", "system": "Quadro Nacional de Interoperabilidade", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Plataforma de Interoperabilidade", "country_label": "Plataforma de Interoperabilidade", "class": "", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

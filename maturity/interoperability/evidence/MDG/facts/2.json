@@ -1,0 +1,11 @@
+{
+  "slug": "2022-11-14-ugd-cadre-interoperabilite",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The Unité de Gouvernance Digitale published its Cadre d'interopérabilité v1.0.2 as the first official version in Madagascar, with the page last updated on 14 November 2022 and addressed for action to all public services.", "as_of": "2022-11-14", "date_precision": "day", "system": "UGD Cadre d'interopérabilité v1.0.2", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Orinasa", "country_label": "Orinasa", "class": "other", "platform": "", "owner": "UGD", "tiers": "EDBM, DGI, MINJUS, INSTAT"},
+    {"system": "X-Road security server", "country_label": "X-ROAD SS", "class": "other", "platform": "X-Road", "owner": "UGD", "tiers": ""}
+  ],
+  "note": "The text says parties must follow its recommendations but cites no decree or enforcing body, and the Orinasa exchange is described as preceding the framework, so no fact on use."
+}

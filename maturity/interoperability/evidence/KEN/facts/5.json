@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-kenya-wants-to-monetize-its-data-but-at-what-cost",
+  "facts": [],
+  "systems": [
+    {"system": "Draft data governance policy (data marketplace)", "country_label": "Kenya draft data governance policy", "class": "other", "platform": "", "owner": "Government of Kenya", "tiers": ""}
+  ],
+  "note": "Covers a draft data governance policy and a data marketplace for licensing non-personal datasets; it states no rule for how government systems exchange data, so no framework fact."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "2026-01-01-ande-cadre-et-referentiels",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The national digital agency ANDE's Cadre et Référentiels page lists as one of four published state-information-system referentials the 'Normes Procédures Règles d'Interopérabilité des SI' at version 0.2.2, with no adopting decree cited; the page carries no date, so 2026 is taken from its copyright footer.", "as_of": "2026", "date_precision": "year", "system": "Normes Procédures Règles d'Interopérabilité des SI v0.2.2", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Normes Procédures Règles d'Interopérabilité des SI v0.2.2", "country_label": "Règles d'Interopérabilité des SI", "class": "framework", "platform": "", "owner": "ANDE (Agence Nationale de Digitalisation de l'État)", "tiers": ""}
+  ],
+  "note": "No fact on use: the page names no decree, enforcing body or adopting public bodies."
+}

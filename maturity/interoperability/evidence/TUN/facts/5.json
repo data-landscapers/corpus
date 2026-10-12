@@ -1,0 +1,8 @@
+{
+  "slug": "2024-02-07-mtc-tunisie-lancement-plateforme-nationale-interoperabilite-uxp",
+  "facts": [],
+  "systems": [
+    {"system": "المنصة الوطنية للترابط البيني UXP (Unified eXchange Platform)", "country_label": "national interoperability platform UXP", "class": "other", "platform": "UXP (Estonian developer)", "owner": "Ministry of Communication Technologies", "tiers": "central government: Interior, Education, Transport and Social Affairs ministries in phase 1; rest of ministries in a later phase"}
+  ],
+  "note": "Ministry launch of an exchange platform; the standards and protocols are a stated project benefit, not an adopted framework; class other."
+}

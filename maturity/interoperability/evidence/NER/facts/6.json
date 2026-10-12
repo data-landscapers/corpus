@@ -1,0 +1,8 @@
+{
+  "slug": "2024-01-01-lesahel-wuri-niger-presentation-projet",
+  "facts": [],
+  "systems": [
+    {"system": "Système d'identification de base (f-ID) / WURI-Niger", "country_label": "système d'identification de base (f-ID)", "class": "other", "platform": "", "owner": "WURI-Niger project", "tiers": ""}
+  ],
+  "note": "Component 3 would fund an interoperability and secure-exchange framework between the foundational ID system and service providers: ID-system scope only, not a government-wide framework, so class other and no fact."
+}

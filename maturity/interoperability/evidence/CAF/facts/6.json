@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-05-rca-mepci-dunia-digitalisation-effective",
+  "facts": [],
+  "systems": [
+    {"system": "DÛNÎA", "country_label": "plateforme DÛNÎA", "class": "other", "platform": "", "owner": "Ministère de l'Économie, du Plan et de la Coopération Internationale (deployed by EDEN TiiiT)", "tiers": "ministry staff (central)"}
+  ],
+  "note": "Ministry-internal platform rollout with mandatory staff use; no government-wide interoperability framework stated."
+}

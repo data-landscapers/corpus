@@ -1,0 +1,9 @@
+{
+  "slug": "2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)",
+  "facts": [],
+  "systems": [
+    {"system": "Government Service Bus (GSB) prototype", "country_label": "Government Service Bus", "class": "other", "platform": "open-source, e.g. X-Road", "owner": "Ministry of Finance (hosted in MoF Data Center)", "tiers": "central government PFM systems (IFMIS, ITAS, ASYCUDA, MPTS, PFM Smart, e-GP, AMIS, LoMEMIS, CRVS)"},
+    {"system": "PFM interoperability framework / Interoperability Roadmap for Public Financial Management Systems", "country_label": "PFM interoperability framework", "class": "other", "platform": "", "owner": "MoF PFM interoperability working group", "tiers": "PFM systems only"}
+  ],
+  "note": "The framework and roadmap described cover public financial management systems only (sector-only), and the GSB is an exchange platform; both are class other."
+}

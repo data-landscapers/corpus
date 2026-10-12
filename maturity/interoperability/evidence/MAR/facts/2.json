@@ -1,0 +1,9 @@
+{
+  "slug": "2026-09-10-leseco-maroc-ia-2030-phase-operationnelle",
+  "facts": [],
+  "systems": [
+    {"system": "Move to Cloud", "country_label": "Move to Cloud", "class": "other", "platform": "", "owner": "", "tiers": "public administrations"},
+    {"system": "Marketplace souveraine", "country_label": "Marketplace souveraine", "class": "other", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": ""}
+  ],
+  "note": "AI roadmap article; no interoperability framework is stated."
+}

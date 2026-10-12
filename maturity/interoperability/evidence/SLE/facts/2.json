@@ -1,0 +1,10 @@
+{
+  "slug": "2025-10-31-sierra-leone-mocti-enterprise-architecture-training",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "MoCTI states that a Government Enterprise Architecture Framework it developed will serve as a national guide for digital integration, after training over 100 ICT officers from MDAs in Enterprise Architecture; no adoption or issue is stated, so recorded as not yet adopted (as_of is the document's published date, 2025-10-31).", "as_of": "2025-10-31", "date_precision": "day", "system": "Government Enterprise Architecture Framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Government Enterprise Architecture Framework", "country_label": "Government Enterprise Architecture Framework", "class": "framework", "platform": "", "owner": "Ministry of Communication, Technology and Innovation (MoCTI)", "tiers": "MDAs"}
+  ],
+  "note": ""
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-06-risa-government-of-rwanda-enterprise-architecture-framework-v2-1",
+  "facts": [],
+  "systems": [
+    {"system": "Rwanda Government-wide Enterprise Architecture Framework (RGEA)", "country_label": "Government of Rwanda Enterprise Architecture Framework, Version 2.1", "class": "other", "platform": "TOGAF customised", "owner": "Rwanda Information Society Authority (RISA)", "tiers": ""}
+  ],
+  "note": "The passages only show a RISA enterprise architecture framework customised from TOGAF and a glossary mention of interoperability standards; nothing states a rule for how government systems exchange data, and no adoption or enforcement is stated."
+}

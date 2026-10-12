@@ -1,0 +1,12 @@
+{
+  "slug": "2026-02-18-ega-uganda-launches-renewal-gea-egif",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The e-Governance Academy reports that NITA-U, with World Bank support, launched the renewal of Uganda's Government Enterprise Architecture and Government Interoperability Framework this week with a multi-agency workshop in Kampala.", "as_of": "2026-02-18", "date_precision": "day", "system": "e-Government Interoperability Framework (e-GIF)", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The source states that eGA and NITA-U developed the country's GEA and e-GIF five years earlier, and that the frameworks were approaching their five-year milestone and due an update; the year is approximate, from 'five years ago' in a 2026 article.", "as_of": "2021", "date_precision": "year", "system": "e-Government Interoperability Framework (e-GIF)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "e-Government Interoperability Framework (e-GIF)", "country_label": "Government Interoperability Framework", "class": "framework", "platform": "", "owner": "NITA-U", "tiers": "ministries, departments, agencies and local government"},
+    {"system": "Government Enterprise Architecture (GEA)", "country_label": "Government Enterprise Architecture", "class": "other", "platform": "", "owner": "NITA-U", "tiers": "ministries, departments, agencies and local government"}
+  ],
+  "note": ""
+}

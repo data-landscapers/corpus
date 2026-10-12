@@ -1,0 +1,14 @@
+{
+  "slug": "2026-04-28-liberia-executive-order-163-otdi-national-digitalization",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft",
+     "fact": "The Executive Mansion announced on 28 April 2026 that Executive Order No. 163, signed 22 April 2026, requires the new Office of Technology, Digitalization and Innovation (OTDI) to submit the first release of a Government Interoperability Framework within 180 days; the release is a deadline, and no drafting or published text is reported.",
+     "as_of": "2026-04-22", "date_precision": "day",
+     "system": "Government Interoperability Framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Government Interoperability Framework", "country_label": "Government Interoperability Framework", "class": "framework", "platform": "", "owner": "Office of Technology, Digitalization and Innovation (OTDI), Office of the President", "tiers": "all ministries, agencies and commissions"},
+    {"system": "Government Enterprise Architecture Framework", "country_label": "Government Enterprise Architecture Framework", "class": "other", "platform": "", "owner": "Office of Technology, Digitalization and Innovation (OTDI)", "tiers": "all ministries, agencies and commissions"}
+  ],
+  "note": ""
+}

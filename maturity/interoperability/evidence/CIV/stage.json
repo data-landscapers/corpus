@@ -1,0 +1,16 @@
+{
+ "iso3": "CIV",
+ "cells": [
+  {
+   "sub_indicator": "framework",
+   "stage": "3",
+   "standing": "adopted",
+   "use": "",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "CIV-001",
+   "gaps": "No source held says public bodies are required to follow the framework: a decree, law, regulation or circular that makes it compulsory and names the body that enforces it.",
+   "note": "Counted from the four questions by study-ladder-interoperability.py."
+  }
+ ]
+}

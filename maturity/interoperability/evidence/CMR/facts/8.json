@@ -1,0 +1,11 @@
+{
+  "slug": "2025-10-27-across-21-countries-shared-journey-inclusive-digital-social-protection",
+  "facts": [],
+  "systems": [
+    {"system": "Unified Social Registry (RESUC) MIS", "country_label": "RESUC", "class": "other", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Common ID System", "country_label": "Common ID System", "class": "other", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Civil Registration System", "country_label": "Civil Registration System", "class": "other", "platform": "", "owner": "", "tiers": "national"},
+    {"system": "Disability Registry", "country_label": "Disability Registry", "class": "other", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Social-protection systems integration only; no government interoperability framework is stated for Cameroon."
+}

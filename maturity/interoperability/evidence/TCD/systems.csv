@@ -1,0 +1,8 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+TCD,SIGFIP,SIGFIP,,,,,2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees
+TCD,E-tax,E-tax,,,DGI,,2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees
+TCD,Facturation électronique normalisée (FEN),Facturation électronique normalisée,,,,,2026-04-01-tchadinfos-dgi-dgtcp-protocole-echange-de-donnees
+TCD,SIGFiP,Système intégré de gestion des finances publiques,other,,Government of Chad (finance),"all institutions, administrations, local authorities, public establishments, projects, programmes, embassies and consulates (planned generalisation)",2026-08-04-tchad-budget-2027-numerique-finances-publiques
+TCD,Système de virement électronique normalisé,Système de virement électronique normalisé,other,,Government of Chad,all public entities concerned (from early 2027),2026-08-04-tchad-budget-2027-numerique-finances-publiques
+TCD,e-Visa,plateforme e-Visa,other,,,national,2026-08-04-tchad-budget-2027-numerique-finances-publiques
+TCD,National biometric registry,national biometric registry (ANATS),other,Idemia biometrics,ANATS (National Agency for Secure Documents),Ministry of Finance (agreement signed March 2026); other ministries and agencies intended,2026-03-16 Chad uses national biometric registry to boost govt systems interoperability

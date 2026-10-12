@@ -1,0 +1,8 @@
+{
+  "slug": "2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study",
+  "facts": [],
+  "systems": [
+    {"system": "UGHub", "country_label": "UGHub", "class": "other", "platform": "", "owner": "NITA-U", "tiers": "national: over 100 ministries, departments and agencies plus private entities"}
+  ],
+  "note": "DIAL summary of the UGHub exchange platform; no interoperability framework is stated."
+}

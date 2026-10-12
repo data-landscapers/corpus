@@ -1,0 +1,8 @@
+{
+  "slug": "2026-03-23-ministry-of-higher-education-committee-of-supply-speech",
+  "facts": [],
+  "systems": [
+    {"system": "Botswana Labour Market Information System (LMIS)", "country_label": "LMIS", "class": "other", "platform": "", "owner": "Ministry of Higher Education", "tiers": "integrated with National Identification System, Companies and Intellectual Property Authority, 1Gov SMS Gateway, Immigration and Citizenship System"}
+  ],
+  "note": "System-to-system integrations of one ministry's portal; no interoperability framework is named."
+}

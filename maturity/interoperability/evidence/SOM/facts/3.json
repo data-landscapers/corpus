@@ -1,0 +1,14 @@
+{
+  "slug": "2025-08-01-somalia-egovernment-strategy-implementation-roadmap-2025-2029",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "none", "fact": "The Ministry of Communications and Technology's e-Government Strategy 2025-2029 states that the Federal Government of Somalia still has no enterprise architecture or interoperability framework, leaving digital government initiatives fragmented in silos; the statement carries no day, so the document's published date (2025-08) is used.", "as_of": "2025-08", "date_precision": "month", "system": "Interoperability framework / enterprise architecture", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "National Enterprise Architecture", "country_label": "National Enterprise Architecture", "class": "framework", "platform": "", "owner": "Federal Government of Somalia / Ministry of Communications and Technology", "tiers": "federal; planned, all e-Government applications to follow it, with an Application Architecture document of standards still to be developed"},
+    {"system": "Data exchange hub", "country_label": "Data exchange hub", "class": "other", "platform": "", "owner": "Federal Government of Somalia", "tiers": "federal; planned, for agency e-service platforms to exchange data"},
+    {"system": "National Enterprise Service Bus (NESB)", "country_label": "National Enterprise Service Bus (NESB)", "class": "other", "platform": "", "owner": "Federal Government of Somalia", "tiers": "federal; planned, to integrate ministry and agency applications"},
+    {"system": "National Integrated Authentication Framework (NIAF)", "country_label": "National Integrated Authentication Framework (NIAF)", "class": "other", "platform": "", "owner": "Federal Government of Somalia", "tiers": "federal; planned single sign-on"},
+    {"system": "National payment gateway", "country_label": "National payment gateway", "class": "other", "platform": "", "owner": "Federal Government of Somalia", "tiers": "federal; planned"}
+  ],
+  "note": "The strategy plans a National Enterprise Architecture and an interoperability programme but records no drafting begun, so the only fact is the dated statement that no framework exists."
+}

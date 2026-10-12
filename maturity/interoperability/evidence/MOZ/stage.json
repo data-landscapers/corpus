@@ -1,0 +1,16 @@
+{
+ "iso3": "MOZ",
+ "cells": [
+  {
+   "sub_indicator": "framework",
+   "stage": "4",
+   "standing": "adopted",
+   "use": "required",
+   "cap": "",
+   "flags": "",
+   "stage_sources": "MOZ-003;MOZ-006",
+   "gaps": "No source from the last three years naming or counting public bodies that exchange data under the framework, or are certified as meeting it, is held.",
+   "note": "Counted from the four questions by study-ladder-interoperability.py."
+  }
+ ]
+}

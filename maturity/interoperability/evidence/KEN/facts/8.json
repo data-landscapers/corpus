@@ -1,0 +1,42 @@
+{
+  "slug": "2023-01-01-kenya-gea-gif-interoperability-framework",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The ICT Authority's 2nd Edition Government Enterprise Architecture and Government Interoperability Framework sets out a framework for standardised data exchange between government agencies (interoperability charter, data, technical and metadata standards), but its approval date and document history are blank and its scope section says it is to be adopted by the entire government, ministries, counties and agencies; the document gives no date for the events and is dated by its 2023 publication year.",
+      "as_of": "2023",
+      "date_precision": "year",
+      "system": "Government Enterprise Architecture (GEA) and Government Interoperability Framework (GIF)",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Government Enterprise Architecture (GEA) and Government Interoperability Framework (GIF)",
+      "country_label": "GEA and GIF",
+      "class": "framework",
+      "platform": "",
+      "owner": "ICT Authority (ICTA)",
+      "tiers": "ministries, counties, departments and agencies (MCDAs), as the intended scope"
+    },
+    {
+      "system": "Enterprise Service Bus / enterprise-wide Service Delivery Gateway",
+      "country_label": "ESB",
+      "class": "other",
+      "platform": "Enterprise Service Bus",
+      "owner": "",
+      "tiers": "described as a principle for enterprise-wide service delivery; no deployment stated"
+    },
+    {
+      "system": "NPKI",
+      "country_label": "NPKI",
+      "class": "other",
+      "platform": "public key infrastructure",
+      "owner": "",
+      "tiers": "named for secure login across government systems"
+    }
+  ],
+  "note": "One fact on standing only: draft, since the approval block is undated and the scope says the framework is to be adopted; nothing states it is compulsory or followed, so no fact on use."
+}

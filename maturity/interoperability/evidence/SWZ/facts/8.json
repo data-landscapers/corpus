@@ -1,0 +1,9 @@
+{
+  "slug": "2026-01-30-disconnected-to-integrated-eswatini-healthcare-systems",
+  "facts": [],
+  "systems": [
+    {"system": "FHIR-based health information exchange on OpenHIM Platform with Master Patient Index", "country_label": "", "class": "other", "platform": "OpenHIM; FHIR", "owner": "Eswatini health IT teams, with Jembi and DataFI", "tiers": "health facilities"},
+    {"system": "Population Registry", "country_label": "Population Registry", "class": "", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Health-sector exchange platform with no framework behind it; no fact."
+}

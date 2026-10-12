@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-24-governo-lanca-portal-govcv-modernizar-servicos-publicos-expressodasilhas",
+  "facts": [],
+  "systems": [
+    {"system": "Gov.cv", "country_label": "portal Gov.cv (portal único)", "class": "other", "platform": "", "owner": "Government of Cabo Verde", "tiers": "central government; ministries' existing portals such as Porton di Nos Ilha move into it"}
+  ],
+  "note": "Launch of a single services portal; the Prime Minister says systems will interoperate but no framework or rule is named."
+}

@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+MAR,e-government interoperability platform,Plateforme d'interoperabilite (ADD),other,built by Minsait; described as an open IoT system with Big Data capabilities,Agency for Digital Development (ADD),"public administrations, agencies and institutions; Single Social Register (RSU), MASSAR school management system and some social programs operational on it",2022-09-07-morocco-e-government-interoperability-platform
+MAR,Move to Cloud,Move to Cloud,other,,,public administrations,2026-09-10-leseco-maroc-ia-2030-phase-operationnelle
+MAR,Marketplace souveraine,Marketplace souveraine,other,,Ministry of Digital Transition and Administration Reform,,2026-09-10-leseco-maroc-ia-2030-phase-operationnelle
+MAR,Meta-application and national e-wallet (proof of concept),méta-application et e-wallet national,other,,Ministry of Digital Transition and Administration Reform,,2026-09-09-mar-panorapost-ia-nouvelle-phase-strategie-2030
+MAR,Software Factory,Software Factory,other,,Ministry of Digital Transition and Administration Reform,administrations (pooled reusable software components),2026-09-08-mar-mmsp-maroc-ia-2030-etat-avancement
+MAR,Data Factory,Data Factory,other,,Ministry of Digital Transition and Administration Reform,,2026-09-08-mar-mmsp-maroc-ia-2030-etat-avancement
+MAR,plateforme des communs numériques,plateforme des communs numériques,other,,Ministry of Digital Transition and Administration Reform,,2026-01-30-industries-ma-maroc-ia-2030-roadmap-programmes
+MAR,CI-SIS Morocco,national interoperability framework for health information systems (being built by the MOHIM Lab),other,"HL7 FHIR, DICOM, SNOMED CT profiles; Gazelle test suite",Center for e-Health Innovation (Mohammed V University) with the Ministry of Health and Social Protection,"health sector software vendors; three-tier governance (State, MOHIM-IWG, domain working groups)",2026-05-14-mohim-project-interoperability-digital-health-africa
+MAR,Trusted Third-Party Identity Verification system,Trusted Third-Party platform,other,,DGSN,"over 30 public and private institutions approved, including Ministry of Justice, Directorate General of Taxes, Customs, banks",2024-12-24-barlamane-dgsn-recap-cnie-2-0
+MAR,Digital Identity Platform,My Digital Identity,other,CNIE 2.0 chip and mobile app,DGSN,,2024-12-24-barlamane-dgsn-recap-cnie-2-0
+MAR,E-Police,E-Police portal,other,,DGSN,,2024-12-24-barlamane-dgsn-recap-cnie-2-0

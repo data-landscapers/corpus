@@ -1,0 +1,13 @@
+{
+  "slug": "2026-10-02-africa-needs-to-take-charge-of-its-digital-health-systems-says-minister",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The New Times reports that Rwanda approved its National Data Sharing Policy in May 2025 to provide a framework for data exchange between public institutions, with safeguards on privacy and access to restricted data.", "as_of": "2025-05", "date_precision": "month", "system": "National Data Sharing Policy", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "National Data Sharing Policy", "country_label": "National Data Sharing Policy", "class": "framework", "platform": "", "owner": "Ministry of ICT and Innovation (policy ownership)", "tiers": "public institutions"},
+    {"system": "Data Sharing Platform", "country_label": "Data Sharing Platform", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": "interim system for data governance, discovery and access"},
+    {"system": "Shared Government Data Hub", "country_label": "Shared Government Data Hub", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": ""},
+    {"system": "Data Interoperability Platform", "country_label": "Data Interoperability Platform", "class": "other", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": ""}
+  ],
+  "note": ""
+}

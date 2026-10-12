@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CAF,Sim-Ba,Sim-Ba,other,,Ministry of Finance and Budget,17 institutions (to be deconcentrated),2026-08-19-caf-pgnsp-78-percent-progress
+CAF,SIGRHS,plateforme de gestion des ressources humaines et de la solde,other,,Ministries of Public Service and of Finance,national,2026-08-19-caf-pgnsp-78-percent-progress
+CAF,Dunia,plateforme Dunia,,,,,2026-02-27-primature-dunia-platform-launch
+CAF,Dunia,Dûnîa platform,other,"modular ERP-like platform, hybrid cloud","Ministry of Economy, Planning and International Cooperation (MEPCI)",MEPCI internal; project register covers State and donor projects,2026-02-26-dunia-platform-launch-mepci-interview
+CAF,"ARCEP GIS, statistics and QoS software platforms",Cartographie d'infrastructure SIG; collecte de données statistiques; suivi QoS,other,,ARCEP,,2026-02-23-worldbank-p174620-procurement-plan-arcep-spectrum
+CAF,ARCEP spectrum monitoring and management system,système de gestion du spectre,other,,ARCEP,,2026-02-23-worldbank-p174620-procurement-plan-arcep-spectrum
+CAF,Sim_Ba,Sim_Ba,other,,,,2026-02-18-worldbank-pgnsp-procurement-plan
+CAF,DÛNÎA,plateforme DÛNÎA,other,,"Ministère de l'Économie, du Plan et de la Coopération Internationale (deployed by EDEN TiiiT)",ministry staff (central),2026-02-05-rca-mepci-dunia-digitalisation-effective
+CAF,SIMBA,SIMBA,other,,Ministry of Finance and Budget,"central ministries, deconcentrated treasury offices, other budget entities (1 entity using it as of 2023-09, target at least 25)",2023-12-12-worldbank-isr-car-digital-governance-cloud-strategy-status
+CAF,DUNIA,Plateforme digitale DUNIA,other,,"Ministère de l'Économie, du Plan et de la Coopération Internationale",national (ministry),2026-02-11-rca-mepci-lancement-plateforme-dunia-pnd
+CAF,DHIS2,SNIS (Système National d'Information Sanitaire) on DHIS2,other,DHIS2,Ministère de la Santé et de la Population,central; regional; district (35 health districts),2026-05-26-dhis2-community-snis-reconstruction-rca

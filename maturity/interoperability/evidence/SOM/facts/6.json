@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-26-sonna-central-bank-one-payments-network",
+  "facts": [],
+  "systems": [
+    {"system": "Somalia Instant Payment System (SIPS)", "country_label": "SIPS", "class": "other", "platform": "ISO 20022", "owner": "Somalia Payment Switch (Central Bank and 13 commercial banks)", "tiers": "banks; mobile money providers planned"}
+  ],
+  "note": "A payments rail, not a government interoperability framework."
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-05-08-zimbabwe-smart-government-digital-blueprint",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "TechReviewAfrica reports the official handover of Zimbabwe's Enterprise Architecture Model blueprint, expected to guide the integration of government digital systems and public services; the handover date is not given, so the article's published date is used.", "as_of": "2026-05-08", "date_precision": "day", "system": "Enterprise Architecture Model blueprint", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Enterprise Architecture Model blueprint", "country_label": "Enterprise Architecture Model", "class": "framework", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services; e-Government Unit", "tiers": "national"},
+    {"system": "Government Service Bus", "country_label": "Government Service Bus", "class": "other", "platform": "", "owner": "Ministry of ICT, Postal and Courier Services", "tiers": "national, planned"}
+  ],
+  "note": ""
+}

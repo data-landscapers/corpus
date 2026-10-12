@@ -1,0 +1,34 @@
+{
+  "slug": "2026-01-20-cybernetica-piloted-interoperability-platform-kenya",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "Cybernetica says that, to support its April 2024 to June 2025 pilot for Kenya's Ministry of ICT and ICT Authority, it put together an interoperability framework document built on the European Interoperability Framework, a high-level overview to help Kenyan organisations align; the document does not say the government adopted it (as_of is the pilot's end, June 2025; the document gives no other date).",
+      "as_of": "2025-06",
+      "date_precision": "month",
+      "system": "Kenya interoperability framework document (Cybernetica pilot)",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Kenya interoperability framework document (Cybernetica pilot)",
+      "country_label": "interoperability framework",
+      "class": "framework",
+      "platform": "",
+      "owner": "Cybernetica for Ministry of ICT and ICT Authority",
+      "tiers": "national"
+    },
+    {
+      "system": "Interoperability test platform and service catalogue",
+      "country_label": "test environment platform",
+      "class": "other",
+      "platform": "X-Road (GovStack information mediator building block)",
+      "owner": "Cybernetica pilot for ICT Authority",
+      "tiers": "two demo services"
+    }
+  ],
+  "note": ""
+}

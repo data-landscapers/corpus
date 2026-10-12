@@ -1,0 +1,8 @@
+{
+  "slug": "2026-07-23-ci-interoperabilite-gouvernance-numerique",
+  "facts": [],
+  "systems": [
+    {"system": "Plateforme d'interopérabilité des systèmes d'information de l'administration", "country_label": "Plateforme d'interopérabilité", "class": "other", "platform": "", "owner": "Ministère de la Transition numérique (executed by SNDI)", "tiers": "central administration; pilot phase covers 12 public bodies"}
+  ],
+  "note": "Document describes an exchange platform (pilot on 12 bodies, 100 services targeted by end 2026) and a governance project, but no framework or rule behind it; platform only, so no fact."
+}

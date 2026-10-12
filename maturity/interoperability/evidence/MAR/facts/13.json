@@ -1,0 +1,10 @@
+{
+  "slug": "2024-12-24-barlamane-dgsn-recap-cnie-2-0",
+  "facts": [],
+  "systems": [
+    {"system": "Trusted Third-Party Identity Verification system", "country_label": "Trusted Third-Party platform", "class": "other", "platform": "", "owner": "DGSN", "tiers": "over 30 public and private institutions approved, including Ministry of Justice, Directorate General of Taxes, Customs, banks"},
+    {"system": "Digital Identity Platform", "country_label": "My Digital Identity", "class": "other", "platform": "CNIE 2.0 chip and mobile app", "owner": "DGSN", "tiers": ""},
+    {"system": "E-Police", "country_label": "E-Police portal", "class": "other", "platform": "", "owner": "DGSN", "tiers": ""}
+  ],
+  "note": "Identity-verification platform and bilateral framework agreements; no government interoperability framework named."
+}

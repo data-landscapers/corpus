@@ -1,0 +1,9 @@
+{
+  "slug": "2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade",
+  "facts": [],
+  "systems": [
+    {"system": "plataforma de interoperabilidade (registo civil / recenseamento eleitoral)", "country_label": "plataforma de interoperabilidade entre a base de dados do registo civil e a base de dados do recenseamento eleitoral", "class": "other", "platform": "built by Universidade de Aveiro", "owner": "DGRN and CEN/GTE, under the EU-funded PReSE project implemented by Camoes, I.P.", "tiers": "national: civil registry and electoral commission"},
+    {"system": "SIGA", "country_label": "SIGA (civil registry)", "class": "other", "platform": "", "owner": "DGRN", "tiers": "national"}
+  ],
+  "note": "Press release of 1 Sept 2025 describes a sectoral interoperability platform between civil registry and electoral roll databases; no government-wide framework is stated, so class other and no fact."
+}

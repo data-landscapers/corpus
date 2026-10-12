@@ -1,0 +1,8 @@
+{
+  "slug": "2023-12-12-worldbank-isr-car-digital-governance-cloud-strategy-status",
+  "facts": [],
+  "systems": [
+    {"system": "SIMBA", "country_label": "SIMBA", "class": "other", "platform": "", "owner": "Ministry of Finance and Budget", "tiers": "central ministries, deconcentrated treasury offices, other budget entities (1 entity using it as of 2023-09, target at least 25)"}
+  ],
+  "note": "ISR states a government digitalisation roadmap (to set shared norms and standards) was not yet developed and a cloud strategy only discussed; no interoperability framework is mentioned, so no fact."
+}

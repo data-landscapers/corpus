@@ -1,0 +1,17 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+COM,"Cadre d'Interopérabilité (part of the Plan National e-Gouv, with the Architecture d'Entreprise Gouvernementale)",Cadre d'Interopérabilité,framework,,,,2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle
+COM,Portail Unique du Citoyen (PUC),Portail Unique du Citoyen,other,,Union des Comores (ANADEN),sectoral e-Gouv portals and services of government entities,2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle
+COM,plateforme d'interopérabilité et d'échange de données,"plateforme d'interopérabilité et d'échange de données (Composante B, projet COM-1026)",other,,ANADEN (Unité de Coordination du Projet); financed by the Islamic Development Bank,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,plateforme d'administration numérique (portail gouvernemental),portail gouvernemental,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
+COM,projet e-Administration,"e-Administration (guichet en ligne unique, portefeuille national des services publics)",other,,"Government of Comoros; EU-funded, implemented by Expertise France",,2025-10-16-e-administration-project-launch-eu-expertise-france-alwatwan
+COM,interoperability and data-exchange platform,interoperability and data-exchange platform (Project to Support Digitization of the Comorian Economy),other,,ANADEN; AfDB-funded,,2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy)
+COM,digital-administration platform,digital-administration platform,other,,ANADEN,,2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy)
+COM,DHIS2 (national HMIS),DHIS2,other,DHIS2,Ministry of Health,national health,2026-07-01-dhis2-comores-climate-health-country-profile
+COM,"Data Exchange MOU, Ministry of Health and ANACM/Météo",Data Exchange Memorandum of Understanding,other,,Ministry of Health; ANACM,health and meteorology agencies,2026-07-01-dhis2-comores-climate-health-country-profile
+COM,National Interoperable Payment Switch,National Payment Switch,other,PayLogic,Central bank (BCC),"commercial banks, microfinance institutions, mobile-money operators",2025-08-23 PayLogic go-live of Comoros national interoperable payment switch
+COM,Data Center de l'Administration Publique,Data Center de l'Administration Publique,other,,ANADEN; Comores Câble,public administration,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
+COM,e-Msomo,e-Msomo,other,,ANADEN; Ministry of Education; UNICEF,schools,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
+COM,e-Shiyo,e-Shiyo,other,,ANADEN; Ministry of Education; UNICEF,schools,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
+COM,e-Bourse,e-Bourse,other,,Higher education directorate,,2025-06-01-com-anaden-realisations-numeriques-data-center-e-msomo-padec
+COM,Réseau Intégré de l'Administration (RIA),RIA (Integrated Administration Network),,,,,2024-09-01-com-afdb-padec-project-appraisal-report
+COM,Système National d'Identité Numérique (SNID),SNID (National Digital Identity System),,,,,2024-09-01-com-afdb-padec-project-appraisal-report

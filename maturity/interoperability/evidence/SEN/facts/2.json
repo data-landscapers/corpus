@@ -1,0 +1,34 @@
+{
+  "slug": "2026-05-04-mctn-fondations-infrastructure-publique-numerique-projet-decret-interoperabilite",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "The ministry announced that on 5 May 2026 it would present the draft decree governing the interoperability platform and introduce the national interoperability framework, data-exchange architectures, technical standards and security requirements; both were still at presentation stage, not adopted.",
+      "as_of": "2026-05-04",
+      "date_precision": "day",
+      "system": "Cadre national d'interopérabilité",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cadre national d'interopérabilité",
+      "country_label": "Cadre national d'interopérabilité",
+      "class": "framework",
+      "platform": "",
+      "owner": "Ministère de la Communication, des Télécommunications et du Numérique with SENUM",
+      "tiers": "national"
+    },
+    {
+      "system": "Plateforme d'interopérabilité",
+      "country_label": "plateforme d'interopérabilité",
+      "class": "other",
+      "platform": "",
+      "owner": "Ministère de la Communication, des Télécommunications et du Numérique",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

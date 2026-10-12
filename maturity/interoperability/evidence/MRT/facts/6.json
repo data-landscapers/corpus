@@ -1,0 +1,10 @@
+{
+  "slug": "2026-02-22 Mauritania Centralizes 800 Administrative Procedures in New Digital Portal (Ijraati)",
+  "facts": [],
+  "systems": [
+    {"system": "Ijraati", "country_label": "Ijraati", "class": "other", "platform": "", "owner": "Ministry of Digital Transformation", "tiers": "national"},
+    {"system": "Khdamati", "country_label": "Khdamati", "class": "other", "platform": "", "owner": "Government of Mauritania", "tiers": "national"},
+    {"system": "Digital Road Traffic System (SNTR)", "country_label": "SNTR", "class": "other", "platform": "", "owner": "", "tiers": "national"}
+  ],
+  "note": "Procedures portal; no interoperability framework stated."
+}

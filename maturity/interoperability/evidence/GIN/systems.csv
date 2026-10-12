@@ -1,0 +1,16 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+GIN,Normes Procédures Règles d'Interopérabilité des SI v0.2.2,Règles d'Interopérabilité des SI,framework,,ANDE (Agence Nationale de Digitalisation de l'État),,2026-01-01-ande-cadre-et-referentiels
+GIN,X-Road,plateforme nationale d'interopérabilité X-Road,other,X-Road,ANDE,public administration information systems,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
+GIN,portail national e-service,portail national e-service,other,,ANDE / Ministry of Administrative Modernisation,citizens and businesses,2026-08-21-vision-guinee-transformation-numerique-le-ministre-francois-bourouno
+GIN,X-Road,plateforme nationale d'interopérabilité X-Road,other,X-Road,ANDE,public administration information systems,2026-08-20-africa-guinee-acceleration-de-la-modernisation-de-l
+GIN,portail national e-service,portail national e-service,other,,ANDE / Ministry of Administrative Modernisation,citizens and businesses,2026-08-20-africa-guinee-acceleration-de-la-modernisation-de-l
+GIN,X-Road,plateforme nationale d'interopérabilité X-Road,other,X-Road,ANDE,public administration information systems,2026-08-20-guinee-etat-interconnexion-x-road-e-service
+GIN,portail national e-service,portail national e-service,other,,ANDE / Ministry of Administrative Modernisation,citizens and businesses,2026-08-20-guinee-etat-interconnexion-x-road-e-service
+GIN,X-Road,plateforme nationale d'interopérabilité X-Road,other,X-Road,ANDE,public administration information systems,2026-08-20-nimba224-revolution-numerique-la-guinee-veut-mettre
+GIN,portail national e-service,portail national e-service,other,,ANDE / Ministry of Administrative Modernisation,citizens and businesses,2026-08-20-nimba224-revolution-numerique-la-guinee-veut-mettre
+GIN,portail national e-service,portail national e-service,other,built under WARDIP,ANDE / Ministry of Administrative Modernisation,citizens and businesses,2026-05-07-ande-deploiement-plateforme-nationale-e-services
+GIN,GovStack,GovStack workshop (WARDIP),other,GovStack,"Ministere des Postes, with World Bank support under WARDIP",,2026-04-08-techreviewafrica-govstack-workshop-wardip
+GIN,NimbaPay,"NimbaPay, Système de Paiement Instantané et Inclusif",other,,BCRG (Banque centrale de la République de Guinée),"banks, e-money institutions, microfinance institutions",2026-07-22-mediaguinee-nimbapay-lancement
+GIN,GUCEG (Guichet unique du commerce extérieur de Guinée),GUCEG,other,,"Ministry of Economy, Finance and Budget","commercial banks, central bank, customs, Port autonome de Conakry, shipping lines",2026-06-26-guceg-impact-360-revolution-numerique-commerce-exterieur
+GIN,Port Community System (PCS),PCS,other,,,port community,2026-06-26-guceg-impact-360-revolution-numerique-commerce-exterieur
+GIN,Registre National des Personnes Physiques (RNPP),RNPP,other,,ONECI,DGE (electoral roll),2026-01-22-verite224-dge-oneci-convention-fichier-electoral

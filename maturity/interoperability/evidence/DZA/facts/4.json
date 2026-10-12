@@ -1,0 +1,8 @@
+{
+  "slug": "2026-08-19-echorouk-algeria-paperless-import-export-licences",
+  "facts": [],
+  "systems": [
+    {"system": "Unified electronic window (ALCIS)", "country_label": "الشباك الإلكتروني الموحد", "class": "other", "platform": "ALCIS customs information system", "owner": "Directorate General of Customs", "tiers": "customs, trade ministry licences, importers and clearing agents"}
+  ],
+  "note": "A customs single window for trade licences, rolled out under a customs circular of 13 August 2026; no interoperability framework is stated."
+}

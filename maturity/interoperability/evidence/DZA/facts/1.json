@@ -1,0 +1,10 @@
+{
+  "slug": "2026-09-26-dza-jeune-independant-guessoum-interoperabilite-numerique",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "A presidential decree on the secure digital interoperability plan, setting how public institutions and administrations interconnect and exchange data and the missions of the sectoral bodies concerned, is being drafted on the President's instruction at the last Council of Ministers; the document gives no date for that meeting, so its published date 2026-09-26 is used.", "as_of": "2026-09-26", "date_precision": "day", "system": "Plan d'interopérabilité numérique sécurisée (presidential decree in preparation)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Dzair Digital Services", "country_label": "Dzair Digital Services", "class": "other", "platform": "", "owner": "", "tiers": "national portal bringing digital public services together for citizens and businesses"}
+  ],
+  "note": ""
+}

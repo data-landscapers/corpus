@@ -1,0 +1,12 @@
+{
+  "slug": "2026-09-24-moz-ecofinagency-unified-digital-platform",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "Ecofin Agency reports that Mozambique adopted its interoperability regulatory framework in 2017.", "as_of": "2017", "date_precision": "year", "system": "Interoperability regulatory framework (2017)", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "Ecofin Agency reports that Mozambique is currently revising the 2017 interoperability framework to strengthen technical standards, data-exchange governance, data protection and cybersecurity.", "as_of": "2026-09-24", "date_precision": "day", "system": "Interoperability regulatory framework (2017)", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Interoperability regulatory framework (2017)", "country_label": "", "class": "framework", "platform": "", "owner": "", "tiers": ""},
+    {"system": "ATDI interoperability platform", "country_label": "", "class": "other", "platform": "", "owner": "ATDI", "tiers": "systems across government institutions (planned launch Q4 2026)"}
+  ],
+  "note": ""
+}

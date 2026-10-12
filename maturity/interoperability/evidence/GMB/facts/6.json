@@ -1,0 +1,11 @@
+{
+  "slug": "2026-04-01-gambia-mocde-cstd29-statement-ai",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Communications and Digital Economy told the UN CSTD that a national enterprise architecture framework led by GICTA is ensuring interoperability across government systems through open standards, shared services and national governance; the statement gives no adoption date, so the date is the document's published date (2026-04).", "as_of": "2026-04", "date_precision": "month", "system": "National enterprise architecture framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "National enterprise architecture framework", "country_label": "national enterprise architecture framework", "class": "framework", "platform": "", "owner": "Gambia ICT Agency (GICTA)", "tiers": "government systems"},
+    {"system": "Secure data exchange platforms", "country_label": "secure data exchange platforms", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-16-protocolo-interconexao-imij-dnap",
+  "facts": [],
+  "systems": [
+    {"system": "RNI", "country_label": "RNI", "class": "other", "platform": "", "owner": "IMIJ", "tiers": "about 62 public and private institutions connected by institutional protocols"},
+    {"system": "SNIAC", "country_label": "Sistema Nacional de Identificação e Autenticação Civil", "class": "other", "platform": "", "owner": "IMIJ", "tiers": "about 62 public and private institutions connected by institutional protocols"}
+  ],
+  "note": "Bilateral interconnection protocols between agencies, not a common framework."
+}

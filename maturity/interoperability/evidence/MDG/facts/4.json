@@ -1,0 +1,15 @@
+{
+  "slug": "2026-04-29-interoperabilite-nationale-instat",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Rahaka",
+      "country_label": "Rahaka",
+      "class": "other",
+      "platform": "X-Road",
+      "owner": "Unité de Gouvernance Digitale (UGD)",
+      "tiers": "ministries, public institutions, private actors (first usage convention)"
+    }
+  ],
+  "note": "Launch of national interoperability platform and a first usage convention; no framework named, so no fact."
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle",
+  "facts": [],
+  "systems": [
+    {"system": "Cadre d'Interopérabilité (part of the Plan National e-Gouv, with the Architecture d'Entreprise Gouvernementale)", "country_label": "Cadre d'Interopérabilité", "class": "framework", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Portail Unique du Citoyen (PUC)", "country_label": "Portail Unique du Citoyen", "class": "other", "platform": "", "owner": "Union des Comores (ANADEN)", "tiers": "sectoral e-Gouv portals and services of government entities"}
+  ],
+  "note": "The page names the Cadre d'Interopérabilité only as part of the Plan National e-Gouv and says interoperability is an aim of the PUC; it gives no drafting, adoption, decree or use, so no standing or use value can be taken."
+}

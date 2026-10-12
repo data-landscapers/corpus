@@ -1,0 +1,8 @@
+{
+  "slug": "2025-11-15-wardip-gnb-publication-page-devemerge-interoperability-deliverable",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The WARDIP Guinea-Bissau publication page lists the consultants' deliverable (interoperability framework, interoperability platform and enterprise architecture) from a feasibility study to develop an interoperability framework, commissioned by WARDIP, the World Bank, ITMA and the telecommunications and digital economy ministry; the page does not say the framework was adopted, and the page carries no event date, so the published date (2025-11) is used.", "as_of": "2025-11", "date_precision": "month", "system": "Quadro de Interoperabilidade (eGIF-GW)", "class": "framework"}
+  ],
+  "systems": [],
+  "note": "Page is a short acknowledgement of the consultants; no statement of adoption or use."
+}

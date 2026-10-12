@@ -1,0 +1,42 @@
+{
+  "slug": "2026-07-31-senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "draft",
+      "fact": "A workshop on 2026-07-29 presented interim results of the Government Enterprise Architecture project, a common reference framework for policies, processes, data, applications and digital infrastructure; the diagnostic phase was reviewed, the target architecture was proposed and the state information-system inventory was launched.",
+      "as_of": "2026-07-29",
+      "date_precision": "day",
+      "system": "Government Enterprise Architecture (EAG)",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Government Enterprise Architecture (EAG)",
+      "country_label": "Architecture d'Entreprise Gouvernementale (EAG)",
+      "class": "framework",
+      "platform": "",
+      "owner": "Ministry of Telecommunications and Digital Affairs, with Sénégal Numérique S.A. and PAENS",
+      "tiers": "national"
+    },
+    {
+      "system": "Plateforme Nationale d'Interopérabilité du Sénégal (PINS)",
+      "country_label": "PINS",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Senegal",
+      "tiers": "national"
+    },
+    {
+      "system": "GouvNum Committee",
+      "country_label": "GouvNum",
+      "class": "other",
+      "platform": "",
+      "owner": "Prime Minister (chair)",
+      "tiers": "national"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2023-01-01-uganda-health-information-exchange-interoperability-guidelines",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Health guidelines, dated January 2023, state that the Government of Uganda has spelled out the overall vision of how sectors exchange information in the Uganda eGovernment Interoperability Framework; the guidelines themselves are health-sector only; the source gives no adoption date for the e-GIF, so the January 2023 publication date is used.", "as_of": "2023-01", "date_precision": "month", "system": "Uganda eGovernment Interoperability Framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Uganda Health Information Exchange and Interoperability Guidelines", "country_label": "HIE and Interoperability Guidelines", "class": "other", "platform": "OpenHIE architecture", "owner": "Ministry of Health", "tiers": "health sector"},
+    {"system": "Uganda eGovernment Interoperability Framework", "country_label": "e-GIF", "class": "framework", "platform": "", "owner": "", "tiers": "government sectors"}
+  ],
+  "note": ""
+}

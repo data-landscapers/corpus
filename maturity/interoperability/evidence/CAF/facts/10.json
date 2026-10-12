@@ -1,0 +1,8 @@
+{
+  "slug": "2026-02-11-rca-mepci-lancement-plateforme-dunia-pnd",
+  "facts": [],
+  "systems": [
+    {"system": "DUNIA", "country_label": "Plateforme digitale DUNIA", "class": "other", "platform": "", "owner": "Ministère de l'Économie, du Plan et de la Coopération Internationale", "tiers": "national (ministry)"}
+  ],
+  "note": "Announces the 23 February 2026 launch of the DUNIA digital platform for one ministry; no interoperability framework is mentioned."
+}

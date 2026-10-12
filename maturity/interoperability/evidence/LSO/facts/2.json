@@ -1,0 +1,14 @@
+{
+  "slug": "2024-07-22-lesotho-glea-e-gif-terms-of-reference",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft",
+     "fact": "The Government of Lesotho issued Terms of Reference for development of the Government of Lesotho Enterprise Architecture (GLEA) and a standalone e-Government Interoperability (e-GIF) Framework; the document's landing page is dated 22 July 2024 and its body text was not retrievable.",
+     "as_of": "2024-07-22", "date_precision": "day",
+     "system": "e-Government Interoperability (E-GIF) Framework", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "e-Government Interoperability (E-GIF) Framework", "country_label": "E-GIF", "class": "framework", "platform": "", "owner": "Government of Lesotho (MICSTI)", "tiers": ""},
+    {"system": "Government of Lesotho Enterprise Architecture (GLEA)", "country_label": "GLEA", "class": "", "platform": "", "owner": "Government of Lesotho (MICSTI)", "tiers": ""}
+  ],
+  "note": ""
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "2026-08-12-gambia-national-land-policy-2026-2035",
+  "facts": [],
+  "systems": [
+    {"system": "National Land Administration System (NLAS)", "country_label": "National Land Administration System", "class": "other", "platform": "", "owner": "Ministry of Land and Regional Government", "tiers": ""},
+    {"system": "Land Information System (LIS)", "country_label": "Land Information System", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "Sector land policy calling for a digitalised land administration system and a centralised LIS; no government interoperability framework stated."
+}

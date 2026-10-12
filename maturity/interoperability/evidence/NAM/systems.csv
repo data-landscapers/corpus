@@ -1,0 +1,12 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+NAM,Interoperability Framework for Namibia,Interoperability Framework,framework,X-Road model (Estonia),"Office of the Prime Minister, Department Public Service IT Management","central government offices, ministries and agencies",2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework
+NAM,government Interoperability Platform,government Interoperability Platform,other,X-Road,Office of the Prime Minister,central government; the Employment Equity Commission plans to exchange data with the Social Security Commission and BIPA through it,2024-10-01-namibia-eec-egovernment-consultancy-interoperability-framework
+NAM,Interoperability Framework (Nam-X),interoperability framework,framework,,Office of the Prime Minister,,2024-01-01-namibia-governmental-interoperability-framework-nam-x
+NAM,Nam-X,Nam-X,other,Cybernetica Unified eXchange Platform (UXP),"Office of the Prime Minister, Department of Public Service e-Government Management",member organisations connecting databases of different entities; no count given,2024-01-01-namibia-governmental-interoperability-framework-nam-x
+NAM,NamQR standard,NamQR,other,,Payments Association of Namibia,,2026-07-29-namibia-instant-payments-namqr-open-banking
+NAM,Namibia Interbank Settlement System (NISS),NISS,other,ISO 20022 messaging,Bank of Namibia,,2026-07-29-namibia-instant-payments-namqr-open-banking
+NAM,Open Banking specifications,Open banking specifications,other,,Payments Association of Namibia,,2026-07-29-namibia-instant-payments-namqr-open-banking
+NAM,Open Banking Standards,Open Banking Standards,other,standardised APIs and data formats,Bank of Namibia,"banking institutions, non-bank financial institutions, authorised third-party providers",2026-01-30-bon-open-banking-standards-guidance-note
+NAM,NAMQR Code,NAMQR,other,,Bank of Namibia,,2026-01-01-bon-nps-vision-strategy-2030
+NAM,Open Banking Standards,Open Banking Standards,other,,Bank of Namibia,,2026-01-01-bon-nps-vision-strategy-2030
+NAM,National Spatial Data Infrastructure (NSDI),NSDI,other,,Namibia Statistics Agency,government institutions,2015-03-06-namibia-nsdi-policy-gazette-5684

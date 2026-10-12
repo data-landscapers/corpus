@@ -1,0 +1,13 @@
+{
+  "slug": "2022-01-01-ghana-egovernment-interoperability-framework-egif",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "NITA's eGovernment Interoperability Framework Version 2.0, the update of the 2008 framework, is labelled a draft for stakeholder review; the document gives no printed date, so 2022 is its published date, a proxy from the upload path.", "as_of": "2022", "date_precision": "year", "system": "Ghana eGovernment Interoperability Framework (eGIF) Version 2.0", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The document states the first Government of Ghana eGIF, with the Government of Ghana Enterprise Architecture, was adopted in 2008.", "as_of": "2008", "date_precision": "year", "system": "Ghana eGovernment Interoperability Framework (eGIF) 2008", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "none", "fact": "The document states implementation of the 2008 eGIF was ineffectual and the framework is out of date; it gives no figure of bodies following it, and dates the statement only by its published date of 2022 (proxy).", "as_of": "2022", "date_precision": "year", "system": "Ghana eGovernment Interoperability Framework (eGIF) 2008", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Ghana eGovernment Interoperability Framework (eGIF) Version 2.0", "country_label": "eGIF", "class": "framework", "platform": "", "owner": "NITA", "tiers": "MDAs at all levels of government"},
+    {"system": "Government of Ghana Enterprise Architecture (GGEA)", "country_label": "GGEA", "class": "other", "platform": "", "owner": "NITA", "tiers": "MDAs"}
+  ],
+  "note": ""
+}

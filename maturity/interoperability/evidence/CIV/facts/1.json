@@ -1,0 +1,8 @@
+{
+  "slug": "2025-10-01-civ-ministere-transition-numerique-note-interoperabilite",
+  "facts": [],
+  "systems": [
+    {"system": "plateforme d'interopérabilité des systèmes d'information de l'administration publique (UXP)", "country_label": "plateforme d'interopérabilité", "class": "other", "platform": "UXP (Cybernetica), described as an improved version of X-Road", "owner": "SNDI (Société Nationale de Développement Informatique), under the Ministry of Digital Transition", "tiers": "public administration systems; five priority services planned"}
+  ],
+  "note": "Describes an exchange platform (UXP/X-Road) and a 2022 national digital governance roadmap, with no interoperability framework named: class other, no fact."
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "2026-09-28-lbr-gha-onehealthehr-goes-live",
+  "facts": [],
+  "systems": [
+    {"system": "OneHealthEHR", "country_label": "OneHealthEHR", "class": "other", "platform": "FHIR R4 and HL7 standards-based, offline-first EHR and disease-surveillance platform", "owner": "OneHealthEHR Inc. (private company)", "tiers": "clinics and health centres; live from 1 September 2026 at four facilities, seven by late September"}
+  ],
+  "note": "A private health-record platform built on FHIR/HL7; no government interoperability framework is stated."
+}

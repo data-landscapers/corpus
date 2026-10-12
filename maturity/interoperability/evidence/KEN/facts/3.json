@@ -1,0 +1,34 @@
+{
+  "slug": "2026-09-24-ken-cross-border-digital-public-service-pilot",
+  "facts": [
+    {
+      "sub_indicator": "framework",
+      "aspect": "standing",
+      "value": "adopted",
+      "fact": "The report says Cabinet Secretary William Kabogo Gitau, speaking in New York around 21 September 2026 (the report says 'Monday' against its 24 September publication), drew on Kenya's Government Interoperability Framework as an existing basis for a cross-border service pilot; it gives no adoption date, instrument or content.",
+      "as_of": "2026-09-21",
+      "date_precision": "day",
+      "system": "Government Interoperability Framework",
+      "class": "framework"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Government Interoperability Framework",
+      "country_label": "Government Interoperability Framework",
+      "class": "framework",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national"
+    },
+    {
+      "system": "eCitizen",
+      "country_label": "eCitizen",
+      "class": "other",
+      "platform": "",
+      "owner": "Government of Kenya",
+      "tiers": "national, more than 22,500 services"
+    }
+  ],
+  "note": ""
+}

@@ -1,0 +1,10 @@
+iso3,system,country_label,class,platform,owner,tiers,sources
+CPV,Gov.cv,portal Gov.cv (portal único),other,,Government of Cabo Verde,central government; ministries' existing portals such as Porton di Nos Ilha move into it,2026-02-24-governo-lanca-portal-govcv-modernizar-servicos-publicos-expressodasilhas
+CPV,Portal Único,Portal Único (portal transacional de serviços públicos digitais integrados do Estado),other,,Conselho de Ministros; Equipa de Serviço Digital,central government,2025-06-10-cpv-bo-resolucao-46-2025-portal-unico-interoperabilidade
+CPV,"Sistema de Informação da Justiça (SIJ), criminal case subsystem",Sistema de Informação da Justiça,other,,NOSi with IMIJ,"courts, Ministério Público, Polícia Nacional, Polícia Judiciária",2026-03-16-nosi-sistema-informacao-justica-penal
+CPV,PDEX,PDEX,other,API publication and subscription platform,NOSi,"civil identification (Portal Consular), health (NhaCard), Treasury (DUC), public and private entities consuming citizen data validation APIs",2026-01-01-cabo-verde-pdex-plataforma-interoperabilidade-do-estado
+CPV,RNI,RNI,other,,IMIJ,about 62 public and private institutions connected by institutional protocols,2025-12-16-protocolo-interconexao-imij-dnap
+CPV,SNIAC,Sistema Nacional de Identificação e Autenticação Civil,other,,IMIJ,about 62 public and private institutions connected by institutional protocols,2025-12-16-protocolo-interconexao-imij-dnap
+CPV,ReDiaspora,Recenseamento Eleitoral na Diáspora,other,Portal Consular,DGAPE,,2024-01-01-rediaspora-diaspora-electoral-registration
+CPV,SIGE,Sistema Integrado de Gestão Eleitoral,other,,,,2024-01-01-rediaspora-diaspora-electoral-registration
+CPV,SNIAC,Sistema Nacional de Identificação e Autenticação Civil,other,,,,2024-01-01-rediaspora-diaspora-electoral-registration

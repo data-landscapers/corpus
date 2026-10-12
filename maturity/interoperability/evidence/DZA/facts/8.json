@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-30-joradp-decret-25-320-gouvernance-donnees",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "Presidential decree 25-320 of 30 December 2025, published in the Journal officiel, sets up the national data governance scheme, made of a data classification reference, a data-source cataloguing reference and the national interoperability system for secure exchange of data between public bodies.", "as_of": "2025-12-30", "date_precision": "day", "system": "Système national d'interopérabilité", "class": "framework"},
+    {"sub_indicator": "framework", "aspect": "use", "value": "required", "fact": "The decree makes the national interoperability system the exclusive framework for data exchange between public institutions and administrations (art. 10), requires each body to classify and catalogue its data under the references to access it (art. 12), and puts the system's setup and administration under the Haut commissariat à la numérisation (art. 17), with the national information systems security council ruling on its operation (art. 14); national defence, security and judicial exchanges are excluded (art. 18).", "as_of": "2025-12-30", "date_precision": "day", "system": "Système national d'interopérabilité", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Système national d'interopérabilité", "country_label": "système national d'interopérabilité", "class": "framework", "platform": "", "owner": "Haut commissariat à la numérisation", "tiers": "public institutions and administrations; public-service bodies and enterprises where integrated"},
+    {"system": "Réseau d'interconnexion national sécurisé", "country_label": "réseau d'interconnexion national sécurisé", "class": "other", "platform": "", "owner": "Haut commissariat à la numérisation", "tiers": "public institutions, administrations and public-service bodies, separate from the internet"}
+  ],
+  "note": ""
+}

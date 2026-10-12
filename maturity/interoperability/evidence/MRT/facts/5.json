@@ -1,0 +1,12 @@
+{
+  "slug": "2026-03-27-public-digital-services-standards-framework-techafricanews",
+  "facts": [
+    {"sub_indicator": "framework", "aspect": "standing", "value": "draft",
+     "fact": "The digital transformation ministry (MTNIMA) held a three-day workshop to develop a unified framework of public digital-service standards to ensure greater interoperability, and presented a technical study and implementation mechanism for stakeholder feedback before full adoption; the document gives no workshop date, so the published date is used.",
+     "as_of": "2026-03-27", "date_precision": "day", "system": "National framework for public digital-services standards", "class": "framework"}
+  ],
+  "systems": [
+    {"system": "Digital-Y", "country_label": "Digital-Y", "class": "other", "platform": "", "owner": "MTNIMA with GIZ (Germany), EUR 4m, launched January 2025", "tiers": "national"}
+  ],
+  "note": ""
+}

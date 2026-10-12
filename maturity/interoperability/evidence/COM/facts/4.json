@@ -1,0 +1,9 @@
+{
+  "slug": "2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy)",
+  "facts": [],
+  "systems": [
+    {"system": "interoperability and data-exchange platform", "country_label": "interoperability and data-exchange platform (Project to Support Digitization of the Comorian Economy)", "class": "other", "platform": "", "owner": "ANADEN; AfDB-funded", "tiers": ""},
+    {"system": "digital-administration platform", "country_label": "digital-administration platform", "class": "other", "platform": "", "owner": "ANADEN", "tiers": ""}
+  ],
+  "note": "AfDB funds an interoperability and data-exchange platform; no framework behind it is stated, so no framework fact."
+}
